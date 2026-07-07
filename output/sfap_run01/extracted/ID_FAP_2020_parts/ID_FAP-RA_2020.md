@@ -1,0 +1,429 @@
+We greatly appreciate the support and assistance provided by the Idaho Lands Resource Coordination Council (ILRCC) who met regularly to inform, discuss, and guide this process; the members of the Idaho Forest Action Plan Core Assessment Team who rolled up their sleeves and helped identify goals and strategies; and the many folks who gave us helpful and constructive comments.
+
+## Members of the Assessment Team:
+
+• Joe Adamski -USDOI, Bureau of Land Management 
+
+## Introduction Background and Purpose
+
+The Idaho Forest Action Plan Resource Assessment was developed by the Idaho Department of Lands in partnership with many other agencies and organizations. This assessment is a key element in the redesign of the USDA Forest Service's State and Private Forestry and is a requirement within the 2008 Farm Bill for states receiving funding through the US Forest Service for State and Private Forestry programs. Its purpose is to ensure that federal and state resources are focused on landscape areas with the greatest opportunity to address shared priorities and achieve measurable outcomes.
+The Forest Resource Assessment provides a geospatial analysis of conditions and trends for all forested lands in Idaho. It delineates rural and urban forest areas that are the highest priority for projects and investments administered through State and Private Forestry programs. Threats to and benefits from forest resources were identified and form the foundation of the analysis. A companion Statewide FAP Resource Strategy will be developed to address the issues and priority areas identified in this assessment. The Resource Strategy will identify activities and approaches for protection, restoration and enhancement of forest resources in priority landscapes.
+For more information on the Forest Action Plans, see the national guidance from the National Association of State Foresters:
+Who is working on the Idaho FAP Resource Assessment?
+Idaho Department of Lands is the Lead Agency. A diverse group of partners is participating, including:
+• Idaho Department of Environmental Quality The intent of this geospatial analysis is to:
+• Identify areas where invasive plants threaten forest health
+• Identify areas where damaging insects threaten forest health
+• Identify areas where disease threatens forest health
+• Identify areas where climate change may increase stress to forests
+
+## Discussion:
+
+Forests face many different kinds of threats. The purpose of this analysis is to identify the most significant challenges to forest health. These include forest insects and diseases that result in tree mortality; noxious weeds which compromise the health and composition of forest stands; and climate change, which may modify current ranges of forest species and add additional stress to forests. Not only do these factors damage forests ecologically, they have social and economic impacts as well. They impact wildlife habitat, timber markets, recreation, and can exacerbate wildfire. The spatial areas identified in this analysis highlight current problem locations as well as areas likely to experience degraded forest health in the near future. Appropriate forest-management activities in the identified areas can minimize these threats.
+
+## Data Used:
+
+Data used for this issue were divided into seven main categories as follows:
+
+## Bark Beetles
+
+Native bark beetles attack and kill trees by feeding and reproducing in the conductive tissue beneath the bark. The risk of bark beetle-caused tree mortality in the next ten years was estimated by considering risk factors associated with four major bark beetle species in Idaho: mountain pine beetle (Dendroctonus ponderosae) (MPB), spruce beetle (Dendroctonus rufipennis) (SB), western pine beetle (Dendroctonus brevicomis) (WPB), and Douglas-fir beetle (Dendroctonus pseudotsugae) (DFB). For each bark beetle species, risk was modeled to increase with increasing host-type basal area. Proximity to current (2017) infestations also increased modeled risk, although to a lesser extent than host type basal area due to the ephemeral nature of beetle outbreaks. Overall stand basal area, used to represent stand density, was a third factor that increased modeled risk for all four bark beetle species.
+Data layers:
+a. Host basal area (BA). Layers showing the BAs for lodgepole pine (MPB host), Engelmann spruce (SB host), ponderosa pine (WPB host), and Douglas-fir (DFB host) were obtained as rasters from the USDA Forest Service, Forest Health Assessment & Applied Sciences Team (FHAAST) server using a cell size of 250 were used to represent areas of current infestation for each beetle species. Data for MPB, SB, WPB, and DFB were extracted, merged, and dissolved into a single polygon for each bark beetle species. Each polygon was converted to a raster with a cell size of 50 meters. The Euclidean Distance tool was applied to each raster using a cell size of 250 meters. The output raster was classified into five classes such that areas closer to current infestations were ranked with higher risk values than areas further away from current infestations:
+Distance to current infestation (miles) Assigned Class >3 1 1 -3 2 .5 -1 3 0 -.5 4 0 (currently infested) 5
+Data were clipped to Idaho and the IDTM 83 projection was used.
+c. Overlay of host BA and proximity to current infestation: The raster calculator was used to sum the reclassified host BA raster (0-7 scale) and the proximity to current activity raster (1-5 scale) for each of the four beetle species. In these calculations, host BA was weighted twice as heavy as proximity to current infestation in order to lend more importance to this factor when considering risk over the 10-year time frame. e. Final output: The raster calculator was used to sum the 4 risk rasters associated with each beetle species (MPB risk, SB risk, WPB risk, DFB risk) and the raster showing overall stand BA (0-10 scale). The output from summing these rasters was the overall bark beetle risk raster. Overall bark beetle risk was reclassified into six classes (0-5) using Jenks natural breaks, where 0 = no data and 5 = highest risk.
+
+## Balsam Wooly Adelgid
+
+The balsam woolly adelgid (Adelges piceae) (BWA) is a non-native, invasive sucking insect that infests grand fir (Abies grandis) and subalpine fir (Abies lasiocarpa) in Idaho, causing serious mortality of the latter. BWA has also recently been found infesting white fir (Abies concolor) in northeastern Utah. BWA can be a serious issue, especially in areas where subalpine fir is the primary forest species providing shade for streams. Loss of canopy in these areas can impact water quality and fish populations downstream. Subalpine fir also provides important wildlife habitat and influences snow retention at high elevations. Surveys have been conducted in Idaho since the 1980s, and recently this insect has been found in most locations where the hosts occur and is considered to be widely distributed in Idaho.
+Although survey information for BWA presence in Idaho exists, BWA risk was generated using only host type basal area calculations. This is due to the alreadywidespread extent of this insect throughout the state, and its inherent difficulty to detect at low population levels. BWA can be very inconspicuous, therefore it is likely present in areas where hosts are present, even if it has not been officially confirmed in surveys. In addition to considering host type basal area, risk was modeled to be higher in southern Idaho than in northern Idaho. This is because recent observations by entomologists suggest that BWA-caused mortality is more severe in southern Idaho, possibly due to the drier climate conditions. Mortality of grand fir in southern Idaho may be due to the presence of a grand fir/white fir hybrid that is present in southern Idaho. Grand fir mortality in Region 4 is also in areas where grand fir is close to the southern extent of its range.
+Data layers:
+a. Host type BA: Rasters for grand fir and subalpine fir BA were extracted from the FHAAST dataset using a cell size of 300 meters. Data were clipped to Idaho and converted to the IDTM83 projection. Rasters for grand fir and subalpine fir BAs were summed using the raster calculator. Because subalpine fir has greater susceptibility to BWA-caused mortality than grand fir, subalpine fir was weighted twice as heavily as grand fir in these calculators. The output raster (combined subalpine fir and grand fir basal area) was reclassified to a scale of 0-30 using Jenks natural breaks.
+b. Increased risk in southern Idaho: Additional raster calculations were made to increase BWA risk in southern Idaho by 20% in areas where hosts (subalpine fir and grand fir) were present. This data treatment was implemented due to observations by local experts indicating that hosts in southern Idaho succumb especially rapidly to BWA infestations.
+c. Final output: The final output layer was reclassified to a scale of 0-5 using Jenks natural breaks where 0 = no data and 5 = highest risk. a. Historic defoliation patterns: This layer was developed by identifying areas that have historically been defoliated by DFTM from aerial detection survey data and historical analog data. For each year, shapefiles showing DFTMcaused defoliation were combined with a shapefile of the state of Idaho such that defoliated areas were represented by polygons with a value of 1 and non-defoliated areas in the state had a value of 0. These shapefiles were then converted to rasters for each year, such that cells with a value of 1 represented defoliated areas in that year, and all other cells (non-defoliated areas) had a value of 0. This process created a unique binary raster for each year where DFTM-caused defoliation was recorded.
+
+## Douglas-fir
+
+b. Raster overlay: Annual defoliation rasters were added together using the ESRI raster calculator tool. The resulting output raster was on a scale of 0-11, such that the value of each cell represented the number of years that DFTMcaused defoliation had been recorded in that area since the mid-20 th century (up to a maximum of 11 years total for some areas).
+c. Host BA rasters (Douglas-fir, grand fir, and subalpine fir) were extracted from the FHAAST National Insect and Disease Risk Map (NIDRM) using cell sizes of 250, 300, and 300 meters, respectively. The three host BA rasters were then summed using the raster calculator, and the resulting raster was reclassified into four categories (0 -3) of increasing basal area using Jenks natural breaks.
+d. Final output: The host BA raster (0 -3 scale) and historic defoliation raster (0 -11 scale) were added together using the raster calculator. The historic defoliation raster was weighted three times more heavily than the host BA raster in these calculations due to observed patterns of outbreaks recurring in the same or similar areas, despite DFTM hosts occupying much of the state. The resulting DFTM risk raster was reclassified to a scale of 0 -5 for defoliation risk using Jenks natural breaks.
+
+## Root Diseases
+
+Root diseases are a serious forest health issue in Idaho, especially in grand fir, Douglas-fir, and subalpine fir north of the Salmon River (USFS Region 1), though they also do occur in southern Idaho (USFS Region 4). Four root disease fungi cause the most problems in Idaho: Armillaria root disease (Armillaria ostoyae), laminated root disease (Phellinus sulphurascens), annosus root disease (Heterobasidion occidentale), and Schweinitzii root and butt rot (Phaeolus schweinitzii). A root disease model was not included in the 2010 assessment, but based on feedback from the ILRCC, it was included for 2020 assessment because higher resolution data were available from the NIDRM databases. b. Region 4 model: Since root disease is challenging to characterize in southern Idaho (Region 4), based on input from forest pathologists, the subalpine fir basal area raster (FHAAST database, cell size 300 meters) was used as a proxy for root disease in Region 4.
+c. Final output: The Region 1 and Region 4 rasters were joined and classified into a 0 -4 scale. A separate binary raster with presence/absence of highly susceptible host type (grand fir and subalpine fir) was created and classified as 0 (fir absent) or 1 (fir present). This host presence raster was added to the combined Region 1/Region 4 raster and reclassified from 0 -5 to create a risk model for the state.
+
+## White Pine Blister Rust
+
+White pine blister rust (Cronartium ribicola) (WPBR) is an introduced fungus that has caused widespread mortality throughout the range of western white pine (Pinus monticola) and other related five-needled pines. This layer was developed from the USFS -FHAAST National Insect and Disease Risk Map (NIDRM) published WPBR models for limber (Pinus flexilis), whitebark (Pinus albicaulis) and western white pines in the Intermountain West 
+(Krist et al., 2014)
+. Data used in the NIDRM models included incidence of host, climate variables, and in some cases elevation.
+Data layers:
+a. The three rasters (WPBR risk for limber, whitebark, and western white pines) were reclassified to a 0-5 scale using Jenks natural breaks and summed using the raster calculator tool. The final output was reclassified to a 0-5 scale using Jenks natural breaks where 0 = no data and 5 = highest risk.
+
+## Terrestrial noxious weeds
+
+Noxious weeds can negatively impact forest health by competing with natural forest vegetation, altering resources for wildlife, and in some cases, increasing the risk of wildfire.
+Data b. Weeds at the watershed level: The weeds dataset was converted into a 30meter resolution raster grid. Percent coverage of the noxious weeds within each 6 th level hydrologic unit code (HUC) were obtained by taking the total count of noxious weed pixels, converting these pixels into area and dividing by total area of HUC. Percent coverage was then reclassified to a 0 -5 scale using equal intervals, with values from zero to three.
+
+## Climate Change
+
+Climate change was modeled as a forest health threat, even though it is also a factor in several other forest threats and benefits included in the 2020 Idaho FAP (wildfire, water quality, wildlife, etc.). Modeling climate change risk once and incorporating it into the final model prevents double-counting, and climate interactions for all threats can be covered in their respective narrative sections of the Resource Strategy.
+Climate change as a threat to forests can be interpreted in a wide variety of ways. In order for this threat to be modeled and included in this 2020 FAP, however, statewide geospatial data is absolutely essential. While there are many climate datasets available, there is a general lack of geospatial (mapped) data that specifically shows how climate will affect forests across the entire state of Idaho.
+Because this issue is so complex, we felt that it was important to use peer-reviewed, published datasets that were analyzed and produced by academic experts.
+Ultimately, published geospatial data predicting landcover vegetation changes across the state due to climate change was selected. Areas that were predicted to undergo the most frequent and drastic landcover type changes were identified through modeling and used as a proxy to show stress to forests due to climate change. Land cover rasters developed by 
+Brown et al. 1998
+ b. Magnitude of landcover changes: In addition to capturing the frequency of landcover change for a given pixel, we also thought it was important to capture the magnitude of change for a given pixel. For each raster 
+(Brown, 2030
+(Brown, , 2060
+(Brown, , and 2090) )
+ we reclassified landcovers into 2 categories: forest, or non-forest.
+Cells were valued to reflect the number of times that cell was projected to be forested throughout the forecasting period. For example: 0 = no change in forest or non-forest landcover type for all projectionsstays either forest or non-forest the whole time 1 = is forest for 3 projections, is non-forest for 1 projection 2 = is forest for 2 projections, is non-forest for 2 projections 3 = is forest for 1 projection, is non-forest for 3 projections Therefore, higher numbers reflect greater climate change risk to forests. It is important to note that this method does not take into account the order of the changes, but we anticipate that this problem can easily be addressed by masking out all current non-forest in final maps.
+c. Final output: The two rasters were combined, with magnitude of change (2 nd raster) weighted twice as heavily as frequency of change. The final raster was reclassified using Jenks natural breaks to a scale of 0 -5, with higher numbers indicating greater climate change threat to forests.
+
+## Analysis Process:
+
+Seven threats to forest health in Idaho were identified for the 2020 Forest Action Plan: three insect-related threats (bark beetles, balsam woolly adelgid, and Douglas-fir tussock moth), two pathogen-related threats (root disease and white pine blister rust), terrestrial noxious weeds, and climate change. A statewide geospatial dataset was created for each of the seven forest health threats by combining a series of relevant layers and ranking the final output on a scale of 0 -5, with 0 being no threat and 5 being high threat. Insect and disease-related datasets were developed with input from other local and regional entomologists and pathologists. To create the final Threats to Forest Health layer, all seven datasets were weighted equally and combined. The resulting layer was on a scale of 0 -35, because each output cell represented the sum of the cell values (0 -5) at that location for all seven layers. The final layer was then reclassified from 0 -35 to a scale of 0 -5 (0 being no threat, 5 being high threat) using Jenks natural breaks.
+References: 
+Brown, D.E.,
+
+## Issue: Relative Fire Risk to Communities and Ecosystems
+
+The intent of this geospatial analysis is to:
+• Identify where communities, their infrastructure and associated landscapes are at relative risk from wildfires.
+
+## Discussion:
+
+After a review of the previous modeling efforts associated with the 2010 Forest Action Plan, it was determined that these models did not represent risk as accurately as newer modeling efforts. In an effort to simplify the modeling and to reduce the duplicity inherent to naturalresource models, a linear regression model was developed and vetted through the wildfire technical committee. Unlike other models, this model does not establish a probability curve for fire growth or severity, rather it provides a probability of damage in the event of a wildfire.
+All of the data was gathered from open, publicly accessible sources so that if others were interested in recreating similar fire-risk models they would be able to use the same source datasets described below.
+Data Used:
+1. Slope
+Slope was chosen as an input layer because of the influence that it has on fire spread as well as post-fire impacts associated with debris flow and landslides. Though not specifically accounted for in this evaluation, slope can also be a limiting factor in land use development.
+The source data for this layer came from a 30-meter pixel dataset, created by the IDL GIS staff. IDL utilized the Slope tool in Spatial Analyst (ESRI ARCMap) and setting the output option as a percent allowed for the creation of the necessary data pyramids that were then reclassified into 3 categories 0-10%, 10.00001-20% and greater than 20%. Each of these were then given the respective values of 1, 2 and 3.
+
+## Aspect
+
+Aspect was chosen as an input layer because of its influence on fire spread due to solar heating and the difference in vegetative communities associated with aspect.
+The source data for this layer came from a 30-meter pixel dataset, created by IDL GIS staff. The IDL utilized the Aspect tool in Spatial Analyst (ESRI ArcMap) and the data was reclassified into 3 categories; North (0 to 45 degrees and 315 to 360 degrees), East (45 to 135 degrees), South and West (135 to 315 degrees) and Zero (0) for flat (0 degrees). Each of these were then given the respective values of 1, 2, 3 and 0.
+
+## Vegetation
+
+Vegetation is one of the most significant contributors to fire growth, behavior, intensity and severity. Because the Forest Action Plan is focused on forests, the largest assigned valued is given to tree classifications.
+For this layer, IDL used the LANDFIRE vegetation re-gap raster
+foot_2
+ . The vegetation was classified into 6 categories: grass, grass-brush, grass-tree, brush, brush-tree and tree. Each category was respectively assigned values of 1 to 6. All lakes, rock, agriculture and urban areas were assigned a value of zero (0).
+
+## Fire History
+
+Past fire occurrence can serve as a proxy for future occurrence. This layer was a combination of data from the Integrated Reporting of Wildland-Fire Information (IRWIN) 2 and IDLs Fire Report System. The attribute fields contained within the combined data capture recorded fire event dates, name, agency, size, and locations (fire points and polygons) from 1983 to 2017.
+For mapping purposes when a cell (30 meter pixel) had a fire event anywhere within it, that cell's event count was increased by 1. Many cells had a zero-count statewide causing a low resolution attributed to lack of polygon data during the time period which resulted in an in accurately representation of fire density within Idaho. To rectify this issue, a fire-frequency (event occurrences) count was completed and rolled up to the state HUC12 watershed polygons to give greater consistency in fire density across landscapes.
+The output polygon layer was classified into three categories, using Jenks natural breaks in the data values, and was assigned 1, 2, and 3 from low fire density to high fire density. This polygon layer of fire density was converted to a 30-meter raster file.
+
+## Wildland-Urban Interface (WUI)
+
+Development in Idaho is largely in the wildland-urban interface. This is in part due to population centers growing outwards and historically isolated communities expanding. Human development, which includes buildings, infrastructure and the surrounding landscapes that provide community services (water, recreation, wildlife, etc.) are impacted by wildfire at a higher frequency in Idaho as population growth continues its upward trend. The inclusion of this layer is intended to be used to show impact of wildfire within the wildland-urban interface.
+The WUI layer used was composed of the layers originally developed by the USFS and BLM using a geospatial analysis in 2002 3 . Where counties have defined and mapped their WUI as part of their Community Wildfire Protection Plans (CWPPs), these WUI polygons were substituted in place of the USFS or BLM layers
+foot_4
+ . The WUI data layer cells were assigned a value of 3 if it was inside the WUI polygon and 1 if outside of the WUI polygon. This polygon layer was also converted to a 30-meter raster file.
+
+## Issue Process:
+
+The ESRI ArcMap Raster Calculation tool was used to sum the values of slope, aspect, vegetation, fire history and WUI. The lowest value in this analysis was 3 -1 for aspect, 1 for slope and 1 for WUI. The highest value in this analysis can be 18. To display the data, Jenks natural breaks were used to delineate low to high risk categories.
+
+## Issue: Potential Loss of Canopy to Development and Urbanization
+
+The intent of this geospatial analysis is to:
+1. Identify the areas at greatest risk of conversion from forestland to other usesspecifically development. Often, forested areas are highly desirable for home sites or new subdivisions. With this conversion comes a loss of productive forests, increased wildfire risk to property as more homes are "in the woods", and pressure to reduce or eliminate management on adjacent lands. Also important are those areas that may be converted from one housing density to a significantly higher density within developed areas as this may also lead to loss of canopy and the benefits it provides.
+In the 2010 version of the Forest Action Plan, Canopy Loss due to Urbanization and Development, and Recreation Pressure were combined issues. Because of a lack of statewide data, the Recreation Pressure component was dropped from the modeling and instead will be addressed as narrative within the strategies document.
+
+## Data used:
+
+1
+
+## . Development Potential
+
+The National Guidance suggested using the "Forests on the Edge" data developed by Issue Process:
+The dataset was stratified into 6 classes (low to high risk, 0-5) using Jenks natural breaks in the data.
+
+## Chapter 2 -Key Issues for which Forests Provide Benefit in Idaho Issue: Relative Potential Benefit to Wildlife and Biodiversity
+
+The intent of this geospatial analysis is to:
+• Identify the areas of greatest conservation value for wildlife and their habitats and where forest management can enhance these values.
+
+## Discussion:
+
+To identify the areas of greatest conservation value for wildlife and wildlife habitat related to forest resources, it was decided to use the existing Western Association of Fish and Wildlife Agencies (WAFWA) Crucial Habitat Assessment Tool (CHAT). The WAFWA CHAT was developed to bring greater certainty and predictability to planning efforts by establishing a common starting point for discussing the intersection of management and wildlife. CHAT is designed to incorporate wildlife values into land use planning, particularly at large scale. It is a nonregulatory tool and not intended for project-level approval.
+The CHAT provides a continuum of 6 habitat categories across Idaho based on a 1 mi 2 hexagon grid. For those areas where forests overlap with the most crucial habitat categories, it can be assumed that forests play a key role in providing wildlife critical habitat and range, threatened, endangered and rare fish and wildlife habitats and important plant communities. Within the context of the full assessment and response strategy, projects proposed within areas of overall high CHAT priority-which include areas identified as high priority for this issue-should consider activities that will enhance the habitat of the plant, fish and wildlife species listed within those areas.
+
+## Data used:
+
+The state wildlife agencies that developed CHAT agreed to common definitions of crucial wildlife habitat and corridors and issued guidelines to help each state prioritize habitat within its boundaries to meet its specific conservation objectives. The West-wide definitions support compatibility and consistency across state boundaries and address certain discrepancies that may exist in identifying habitat and natural features along state borders. This broad-based, collaborative effort across 16 states provides the West-wide crucial habitat data layer derived from important habitat and connectivity input layers.
+The CHAT dataset used represents Idaho's contribution to the WAFWA CHAT. It represents an aggregated measure of crucial habitat categories for species and habitats of interest to the western states' fish and wildlife management agencies. Crucial habitat describes places that are expected to contain the resources necessary for continued health of fish and wildlife populations or important ecological systems expected to provide high value for a diversity of fish and wildlife.
+Idaho compiled data encompassing several data types and layers of information (Table 
+1
+), including habitat for species of concern (terrestrial and aquatic), landscape condition (a summary of native and unfragmented habitat which prioritizes large natural areas and connectivity zones between them), wetlands and riparian areas, and habitat for species of economic and recreation importance (terrestrial and aquatic). Relative priorities within each group were aggregated into a final crucial habitat rank.
+Idaho's analysis was completed on October 29, 2013, at a resolution of 3 square mile hexagons.
+In April 2015, Western Governors transferred full responsibility for CHAT to WAFWA, and the tool was renamed the Western Association of Fish and Wildlife Agencies CHAT. To be consistent with surrounding states' products, Idaho's information was resampled to 1 square mile hexagons using an area-based mean using the same data as provided in 2013.
+The dataset used in the Forest Action Plan is the same product that can be downloaded from the WAFWA CHAT website (accessed on 5/13/2020) and except as updated on 5/23/2019 to include a crucial habitat rank for hexagons that intersect tribal lands that were intentionally masked out on the CHAT website.
+The crucial habitats dataset was last reviewed and approved as of August 31, 2018. An update to Idaho CHAT is expected by the end of calendar year 2019. In particular, the Species of Concern input layers will be updated with information reflecting the current list of Idaho's Species of Greatest Conservation Need (SGCN) identified in the 2015 Idaho State Wildlife Action Plan, as the current product was based on species in the 2005 Comprehensive Wildlife Conservation Strategy.
+The crucial habitat dataset is a landscape-scale, coarse-resolution dataset not intended to establish specific boundaries for site-specific planning, regulation, or acquisition. It is not intended to determine the exact ecological health or condition of any specific location on the ground. The dataset is based on the best available scientific information and is expected to be updated regularly. The crucial habitat rank of a hexagon may change over time as new information is incorporated. The intent of this geospatial analysis is to:
+• Identify the areas of greatest need with respect to water quality and quantity, and where forests can have the greatest benefit.
+
+## Discussion:
+
+Rural forests and urban tree canopy have a tremendous value toward good water quality, aquifer recharge, stormwater mitigation and erosion control. Water is, in fact, one of the biggest issues in the west and is important for fish, wildlife and humans (agriculture, horticulture, industry and for drinking water). Forest canopy shades and cools streamsimportant for healthy fish habitat. Leaves of trees intercept rainfall, lowering the impact of rain on soil. Roots systems help break up compacted ground while stabilizing soil, leading to greater groundwater recharge, reduced stormwater runoff and associated contaminant loads, and less erosion.
+This issue focuses forest management efforts in the areas in greatest need for improved water quality/quantity-in both rural and urban environments.
+
+## Data used:
+
+Four data layers informed this issue. The Source Water dataset delineation process "establishes the physical area around a well or surface water intake that will become the focal point of a source water assessment. The process includes mapping the boundaries of the zone of contribution (e.g., the surface and subsurface areas contributing water to the well, or surface water intake) into time of travel zones (e.g., zones indicating the number of years necessary for a particle of water to reach a well or surface water intake). The size and shape of the source water assessment area depend on the delineation method used, local hydrogeology, and volume of water pumped from the well or surface water intake." Additional information can be accessed at: Idaho's Source Water Assessment Plan and Source Water Protection in Idaho.
+The boundary of the SVRP aquifer was added to the source water delineation to develop a public drinking water layer. This aquifer was added because it is both a sole source for drinking water for more than 500,000 people AND because it has no bedrock cap overlying it. Due to the latter attribute, it is the only designated Sensitive Resource aquifer in Idaho. This means it receives the highest level of protection, as activities over the aquifer can have a direct and relatively quick impact on water quality within the aquifer. Subwatersheds (Hydrologic Unit Code-or HUC-6th level) were flagged if a part of the aquifer or an area of source water delineation was within them. If the watershed was flagged it was classified with a value of 1. If not, it received a value of 0 indicating it does not contain either a part of the aquifer or an area of source water delineation.
+
+## Priority Watersheds
+
+Priority watersheds are those containing an impaired stream or lake. Subwatersheds that contain an impaired lake or stream were originally classified with a value of 5. Subwatersheds that did not contain an impaired stream or lake are classified with a value of 0. This was changed for draft two such that any sub-watershed in which there is an impaired stream or lake was given a value of one. Those which did not were given a value of 0.
+Source data is the 303(d) list of all impaired waters in the state, per Section 303(d) of the Clean Water Act. These data are part of the 2016 303d/305b Integrated Report, collected and maintained by the Idaho Department of Environmental Quality.
+
+## Impervious Surfaces
+
+Impervious surfaces came from the National Land Cover Database (NLCD) 2011 imperviousness layer, produced through a cooperative project conducted by the Multi-Resolution Land Characteristics (MRLC) Consortium, a partnership of federal agencies (www.mrlc.gov). For a detailed definition and discussion on MRLC and the NLCD 2001 products, refer to The NLCD_2011_impervious layer was used where the percent of imperviousness of a 30 meter cell was converted to the impervious area and summed to a 6 th order HUC. Any HUC that had 2% or greater impervious surfaces was counted and given a value of 1. All others received a value of 0.
+
+## Areas with Total Maximum Daily Load (TMDL) Implementation Plans
+
+Areas with TMDLs were derived from the 2016 303(d)-305(b) integrated water quality report by the Idaho Department of Environmental Quality. All subwatersheds in which a TMDL plan was located received a value of 1, all others were given a value of 0.
+Analysis Process: Using ESRI's spatial analyst raster calculator, all four datasets are added together giving a range of cell values of 0 to 4. The zero was dropped and the other scores were reclassified with scores of 2 -5.
+
+## Issue: Relative Potential Benefit to Air Quality from Forests and Canopy
+
+The intent of this geospatial analysis is to:
+• Identify are the areas of greatest need with respect to air quality and where forests can have the greatest benefit.
+
+## Discussion:
+
+Air quality is impacted, both negatively and beneficially, by forests. Wildfires mobilize a great deal of particulates (from smoke) and carbon into the air. Communities within the airsheds of these fires suffer poorer air quality and commensurate health effects. Certain tree species are also net producers of biogenic volatile organic compounds (BVOCs), which can exacerbate ozone production, especially in urban areas. However, healthy forest canopies can also absorb and filter particulates and pollutants out of the air, improving air quality. Likewise, trees sequester carbon and release oxygen-important for mitigating climate change and for human and animal health. Since temperature is a catalyst for production of volatile organic compounds (VOCs), the cooling effect of tree canopies in urban areas can lower their production. Sources of VOCs include any petroleum product that breaks down (asphalt, plastics, etc.) and parked vehicles (evaporation of fuel in gas tanks). By also cooling buildings and thereby lowering energy use, urban tree canopy can also reduce energy demand. If this energy is produced from the burning of fossil fuels, increased urban canopy cover can result in additional emissions reductions, including carbon.
+It makes good sense to manage forests within urban airsheds to increase forest health and fire resiliency, thereby reducing negative impacts on public health. Likewise, increasing canopy cover and forest management within these areas also has a positive public health impact by helping reduce the causes of pollution while filtering out other pollutants and particulates.
+
+## Data used:
+
+There were three principal datasets used in this analysis.
+
+## Non-attainment zones
+
+Non-attainment areas were obtained from the Idaho Department of Environmental Quality. These are areas within Idaho where air pollution levels persistently exceed the national ambient air quality standards (NAAQS), designated "nonattainment." EPA considers any geographic area that meets or has pollutant levels below the NAAQS an attainment area. Under ideal circumstances, all of Idaho would be classified as "attainment." Areas with persistent high pollutant levels are designated as nonattainment areas, meaning these areas have violated federal health-based standards for outdoor air pollution. Each nonattainment area is declared for a specific pollutant, meaning the same area could be "attainment" for one pollutant, but "nonattainment" for a different pollutant. Nonattainment areas for different pollutants may overlap each other or share common boundaries.
+This layer was used to select all subwatersheds (Hydrologic Unit Code-or HUC-6th level) that contained non-attainment areas. Subwatersheds that contained a nonattainment area were given a value of 5 and subwatersheds that did not contain a non-attainment area were given a value of 0.
+
+## Smoke impact zones
+
+These data were provided by the Idaho/Montana Airshed Group. Air Impact Zones are areas where smoke from wildfires is likely to be a problem because of local topography, meteorology, and areas with existing air quality problems that smoke from wildfires will exacerbate. Increasing canopy in these areas will help mitigate the impacts of particulates from smoke, improving air quality and public health.
+
+## Canopy cover relative to impervious surfaces
+
+Data used were two products of the National Land Cover Dataset (NLCD) 2011-Impervious surfaces and Tree Canopy. These data were produced through a cooperative project conducted by the Multi-Resolution Land Characteristics (MRLC) Consortium, a partnership of federal agencies (see www.mrlc.gov). A detailed definition and discussion on MRLC and the NLCD 2011 products can be found at these links: Land cover, urban imperviousness.
+As noted in the issue discussion above, impervious surfaces have a negative impact on air quality for a variety of reasons. Research has demonstrated the significant positive impact of tree cover in such areas by filtering particulates, absorbing CO2 and other pollutants, and lowering ambient air temperature while reducing the impact of ultraviolet radiation. With these data, we are identifying areas that have a high percentage of impervious surfaces but lack significant canopy cover in the surrounding area. Identified then, are areas where additional canopy can have a substantial impact in mitigating poorer air quality to which impervious surfaces contribute.
+The NLCD_2011_impervious layer was classified on the percent imperviousness value by Jenks natural breaks into 5 classes and weighted as follows: Then, the Impervious surface weight was lowered by the mean percent canopy cover weight.
+
+## Class
+
+## Analysis Process:
+
+The map is created additively from areas that did not attain air quality standards, are within smoke impact zones, and have a high percentage of impervious surfaces with low percentages of surrounding canopy cover. The additive result was reclassified into 5 classes based on Jenks natural breaks giving resulting values of 0 -5.
+
+## Issue: Relative Potential Benefit to Sustainable Forest-Based Wood Products Markets
+
+The intent of this geospatial analysis is to:
+• Identify the forested areas most beneficial to existing sawmill, biomass and pulp facilities and associated economic benefits.
+
+## Discussion:
+
+In many areas of the state, communities are economically and culturally dependent upon forestlands. The benefits and products of forestlands include timber, biomass, recreation, hunting/fishing and ecosystem services. The Idaho Lands Resource Coordinating Council (ILRCC) identified the loss of forest infrastructure (mills, markets, etc.) as a key issue (threat to forests and local economies). This threat is greater than simply loss in jobs or income. When mills shut down or markets for particular forest products go away, active forest management becomes more expensive which can lead to an increase in forest insect and disease problems, fire risk, and a decline in overall forest health.
+Rather than seeking to resurrect recently shuttered markets and infrastructure, the ILRCC favor an approach that focuses on existing markets and mills which currently benefit Idaho's local economies. The ILRCC believes this best enhances the economic potential of forests as a benefit, and positions Idaho's forests and forest industry best for continued success in a global economy.
+The datasets used in this analysis are the locations of current sawmill, pulp, and biomass facilities. These were combined with road network data and the proximity to mills within these markets.
+
+## Data used:
+
+## Sawlog Facilities Travel Distance
+
+This layer includes known mill locations and the time and cost needed to haul timber to them. Procurement zones for existing sawmill facilities uses existing roads and speed limits, assumes an average delivered log price of $356.58/MBF for all species across all regions of Idaho, an average logging cost of $135/MBF between groundbased and cable-based harvest systems , and an average of 4.5 MBF/truck. The net revenue per truck was divided by $100/hr. transportation cost to develop a travel budget and again by 2 to account for roundtrip travel. This provides a value for a load of logs in hours and the break-even point for net revenue.
+
+## Pulp Facilities Travel Distance
+
+This layer includes known pulpwood-using facilities and the time and cost needed to haul pulp logs to them. Procurement zones for existing pulpwood-using facilities uses existing roads and speed limits, assumes an average delivered price of $75/bone dry ton (BDT) for pulp logs across all regions of Idaho, an average harvest cost of $27/BDT and an average of 19 BDT/truck. The net revenue per truck was divided by $100/hr. transportation cost to develop a travel budget and again by 2 to account for roundtrip travel. This provides a value for a load of pulpwood in hours and the break-even point for net revenue.
+
+## Woody Biomass Facilities Travel Distance
+
+This layer includes known biomass facilities and the time and cost needed to haul chips to them. Procurement zones for existing biomass facilities uses existing roads and speed limits, assumes an average delivered price of $50/BDT for chips across all regions of Idaho, an average harvest cost of $27/BDT and an average of 19 BDT/truck. The net revenue per truck was divided by $100/hr. transportation cost to develop a travel budget and again by 2 to account for roundtrip travel. This provides a value for a load of pulp in hours and the break-even point for net revenue.
+
+## Analysis Process:
+
+The composite map is the combination of sawmill, pulp, biomass layers equally weighted. Only these layers are used in the final assessment map.
+
+## Economic Contribution:
+
+Additionally, the economic contribution of Idaho's forest industry is represented below. While this data was not used in the final assessment, this data represents associated economic benefits related to wood products in Idaho.
+County Economic Multipliers: The economic contribution of Idaho's forestry industry includes both the primary products manufacturers such as sawmills, pulp, and paper mills and the secondary forest product manufacturers such as furniture and paper products manufacturing industry using the end products from primary forest products manufacturers.
+Multipliers based on the economic impact analysis software IMPLAN were used to express the economic contributions of the forest products industry. Multipliers are ratios of direct contribution (money invested in a forest products facility/sawmill to operate a business) + supporting contributions (money generated from e.g. logging or trucking, restaurants that feed workers) divided by the direct contribution. Multipliers are developed for each county.
+The output multiplier describes the total output generated as a result of a one dollar investment in sawmill industry. If an output multiplier is 2.25, for every additional dollar of production in the sawmill industry, $2.25 of activity is generated in the local economy: the original dollar and an additional $1.25.
+The labor income multiplier describes the amount of labor income generated as a result of one dollar of labor income in the forest products industry. A labor income multiplier of 2.2 indicates that for every dollar of direct labor income in the forest products industry generates another additional $1.20 of labor income in the local economy.
+The employment multiplier is a metric of how many indirect jobs are created from adding an additional job in the forest products sector. An employment multiplier of 2.33 can be interpreted as every direct job creates 2.33 jobs in the total economy; the direct job and another 1.33 additional jobs.
+For this analysis, the IMPLAN employment, labor income and output multipliers were used. It is important to recognize that while multipliers measure how much impact a single dollar or employment creates in a county they do not provide information on the magnitude of that impact.
+
+## Citation:
+
+IMPLAN Group LLC. IMPLAN System (data and software). 16905 Northcross Dr., Suite 120, Huntersville, NC 28078. www.IMPLAN.com Washington, Chad. Identifying Priority Landscape Areas in Idaho for Funding Assistance Programs. M.S. Thesis. University of Idaho.
+The 25 unique cell values represent a combination of threat values and benefit values, and are grouped into four categories of priority. The lowest priority areas are those that are low threat and low benefit. The highest priority are those areas which are both high threat and high benefit. From this point, stakeholders can make decisions on the relative priority of various combinations of low to high threats coupled with combinations of low to high benefit. The example above is one possible way cells can be grouped into one of four categories of priority. Priority areas in which to focus resources and management efforts will be those corresponding heat-map cells colored red, orange and potentially yellow.
+
+## Final Idaho Forest Action Plan Resource Assessment Map
+
+As explained in the Methodology section on page 43, each of the subwatersheds carries with it both a benefits score (1 through 5) and a threats score (1 through 5). A subwatershed, then, can have one of 25 combinations of these threats and benefits scores. These scores were reclassified from 1-lowest risk, lowest benefit to 25-highest risk, highest benefit. It must be stressed that these are relative values using the best available data for the identified issues. An area identified as lowest risk does not mean there are no risks, or even that risks are not significant. Rather, it means that the data and methodology used in the assessment indicates that area has lower risks relative to other areas in the state. The purpose of the assessment is not that all areas are identified as high priority, but that it serves as a tool to help us better understand where we should consider targeting limited resources, focused on multiple specific issues to affect change on a landscape scale. This approach differs from the historic approach of providing assistance and investing resources based on requests, which may or may not be in areas of greatest need or benefit.
+The matrix approach, yielding the 25 unique values (shown in the map on page 50), allows some manipulation of the results. Each color in the matrix has a three-digit number. The first digit represents the potential benefit, and the third digit represents the threat (i.e., 105 is low benefit-high threat, where 501 is high benefit-low threat). Areas that are high benefit and high threat, for instance, will be a higher priority than areas of low benefit and low threat. Taking this a step further, stakeholders agree that areas which have high benefit but low threats are still important for project work, as maintaining those benefits is important. On the other hand, areas that are high threat, but low benefit are not as critical. If those should succumb to threats, the loss isn't as high as areas that have greater benefit.
+As we consider the results, it is our intent that the proposed activities and operations described in the Resource Strategy will focus on areas of Very High (red), High (orange) and, in some cases Moderate-High (yellow) priority categories. Areas that are green or blue will not be considered high-priority unless by adjacency to the other areas, projects make sense in these areas, or where unique situations exist that were not adequately captured by the available data. These will be described in the Response Strategy.
+From this map, another spatial analysis was developed denoting Priority Landscape Areas (page 51). These are generalized areas in which goals and strategies will be developed. In addition to information derived from the geospatial assessment-trends, conditions, issues and opportunities for collaboration will be identified locally and become part of the overall Forest Action Plan Resource Strategy. Boundaries on the Priority Landscape Areas map are meant to be pliable and adjustable to fit developing strategies/actions. The Forest Action Plan Resource Strategies are meant to be dynamic and modified as conditions change, new information is obtained and work is completed.
+The map on page 50 shows the results of combining threats and benefits as defined by the matrix. When development of the Priority Landscape Areas (PLAs) started, northern Idaho was rated high while the southern portion of the state had few if any watersheds that could be used to identify PLAs. Further review of the state analysis revealed that "hotter" colors (reds and oranges) were concentrated in the north primarily due to higher concentration of industrial forestland, insect and disease issues, and projected timber markets. The state was divided into northern and southern sections using the Salmon River as the dividing boundary. This allowed for the statistical comparison of threats and benefits values within each area to be done respective to only the northern or southern section of the state-allowing southern-Idaho issues to fall into "red" and "orange "prioritized categories irrespective of northern Idaho's overwhelming higher threats and benefits values. After completing the analysis, discernable watersheds of higher importance in both the north and the south became evident. The analysis was performed using the Forest Service regions boundary (Region 1-north of the Salmon River and Region 2-south of the river).
+After presenting the results to the ILRCC advisory committee and getting approval, the parts were combined to start the next phase of analysis to develop the PLAs. Some of the PLAs have portions that extend into other states. For example, the Idaho Panhandle PLA includes portions of the Kaniksu National Forest in eastern Washington and western Montana as well as a large portion of the Spokane Valley-Rathdrum Prairie aquifer. The Bitterroot, Salmon-Challis and Teton-Yellowstone PLAs also have acreage in adjacent states. The threats and benefits (fire, forest health, wildlife, etc.) in these cross-border areas are similar, as are the management strategies.
+
+## Appendices
+
+Appendix A -Sub-Issue maps 
+
+[FIGURE: Acknowledgements ............................................................................................................... Introduction Background and Purpose ............................................................................................................ Chapter 1 -Key Issues Which Threaten Forests in Idaho Issue: Relative Threats to Forest Health ..................................................................................... Issue: Relative Fire Risk to Communities and Ecosystems ........................................................ Issue: Potential Loss of Canopy to Development and Urbanization ......................................... Chapter 2 -Key Issues for which Forests Provide Benefit in Idaho Issue: Relative Potential Benefit to Wildlife and Biodiversity ................................................... Issue: Relative Potential Benefit to Water Quality and Quantity from Forests and Canopy ... Issue: Relative Potential Benefit to Air Quality from Forests and Canopy ............................... Issue: Relative Potential Benefit to Sustainable Forest-Based Wood Products Markets ......... Chapter 3 -Final Maps Methodology for Developing Final Assessment Priority Maps ................................................. Appendix A -Sub-Issue maps ................................................................................................... For additional information, visit the Idaho Forest Action Plan web page.]
+
+[FIGURE: 1 model: The NIDRM published root disease model for northern Idaho (Region 1) (Krist et al., 2014) was used in this analysis to represent root disease risk in the Idaho panhandle.]
+
+[FIGURE: were used as a baseline, and projected land cover rasters for 2030, 2060, and 2090 developed by Rehfeldt et al. 2006. a. Frequency of landcover changes: A raster was created comparing the Brown et al., 1998 land cover raster with the predicted land cover in 2030, 2060 and 2090. Cells were classified from 0 -3 based on the number of changes in land cover (0= no landcover type change, to 3= three landcover type changes throughout the forecasting period). Higher numbers reflect greater climate change stress to forests.]
+
+[FIGURE: Dr. David Theobald, Colorado State University. These data use the SERGoM v3 model, described in the research paper Watersheds at Risk to Increased Impervious Surface Cover in the Conterminous United States, to predict housing density in tenyear increments from 2000 to 2030. By subtracting 2000 housing densities from 2030 predicted housing densities, we can express the potential areas of new development. The Theobald data broke out housing density into ten classes; we modified these to eight classes as follows: 1. No Development or >80 acres per unit (rural) 2. 40-80 acres per unit (rural 1/built up (commercial, industrial, transportation) When considering the movement from one density class to another, we wanted to make some judgment about the relative impact of that change. IDL Staff developed the following matrix showing values from 0 (no change) and 1 (low impact change) to 5 (highest impact change) and classified the data accordingly. The numbers in the colored boxes represent the housing density classes shown above. So, movement from density class 2 (one unit per 40 -80 acres) in 2000 to density class 4 (10-20 acres per unit) by 2030 is considered a very high impact (value of five), A movement from density class 2 (one unit per 40 -80 acres) in 2000 to density class 3 (one unit per 20-40) acres in 2030, on the other hand, is considered a high change (value of 4). --= no or negative change 1 = low impact change 2 = low-moderate impact change 3 = moderate impact change 4 = high-moderate impact change 5 = high impact change]
+
+[FIGURE: These are: 1. Public Drinking Water comprised of: a. Source water delineations from Idaho Department of Environmental Quality's Source Water Protection program. (Note that these data are used with permission and not available for public release) b. Spokane Valley-Rathdrum Prairie (SVRP) Aquifer boundary for the Idaho portion of the aquifer from Idaho Department of Water Resources.]
+
+[FIGURE: Issue: Potential Benefit to Water Quality and Quantity o Map of Public Drinking Water Sources ................................................................. o Map of Priority Watersheds (303d impaired watersheds) ................................... o Map of areas with Total Maximum Daily Load (TMDL) Plans ............................... o Impervious Surfaces Map ..................................................................................... • Issue: Potential Benefit to Air Quality from Forests and Canopy o Map of Non-Attainment Areas ............................................................................. o Map of Smoke Impact Zones ................................................................................ o Map of Relative Canopy Cover to Impervious Surfaces ....................................... • Issue: Potential Benefit to Sustainable Forest-Based Markets (Models are proprietary and used in the assessment with the permission of the Idaho Department of Lands.) Map of Saw Log Haul Distance/Time. ................................................................... o Map of Pulp Log Haul Distance/Time. .................................................................. o Map of Woody Biomass Haul Distance/Time. ......................................................]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[TABLE: Table of Contents: ]
+
+[TABLE]
+* • Ara Andrea -Idaho Department of Lands, Chief, Bureau of Forestry Assistance • Norris Boothe -Coeur d'Alene Tribe • Gina Davis -USDA Forest Service, Forest Health Protection -Region 1 Idaho Farm Bureau • Ed Koch -Idaho Forest Owners Association • Tim Maguire -Ecosystem Science Foundation • Robyn Miller -The Nature Conservancy • Andrew Mock -Idaho Department of Lands GIS Analyst Sr. • Jennifer Russell -Idaho Department of Lands; Grants Coordinator • Chris Schnepf -University of Idaho Extension Forestry • Knute Sandahl -Idaho State Fire Marshal • Kirk Sehlmeyer -Natural Resources Conservation Service; Forester • Greg Servheen -Idaho Department of Fish and Game (Retired) • David Stephenson -Idaho Department of Lands; Urban Interface/Planning Program Manager (Retired) • Bob Unnasch -The Nature Conservancy • Janet Valle -USDA-FS State & Private Forestry, Regions 1 & 4 • Mike Wolcott -Inland Forest Management Special thanks to our GIS Staff for all their help and expertise-Tom Kearns, Andrew Mock and Kent Allen.*
+
+| Project Leads: | Tyre Holfeltz & Tom Eckberg |
+| --- | --- |
+
+[/TABLE]
+
+[TABLE]
+*Key Issues Which Threaten Forests in Idaho Issue: Relative Threats to Forest Health *
+
+| Chapter 1 - |  |
+| --- | --- |
+|  | • Coeur d'Alene Tribe |
+| • Idaho Department of Fish & Game | • Nez Perce Tribe |
+| • Idaho Department of Parks & Recreation | • The Nature Conservancy |
+| • Idaho Lands Resource Coordinating Council | • University of Idaho |
+| • Idaho Forest Owners Association | • USDA Forest Service |
+| • USDI Bureau of Land Management | • USDA Natural Resource Conservation Service |
+
+[/TABLE]
+
+[TABLE]
+* meters. Each raster was clipped to Idaho and converted to the IDTM83 projection. Basal areas were reclassified into seven classes:*
+
+| Host Basal Area (ft 2 /acre) Assigned Class |  |
+| --- | --- |
+| 0 | 1 |
+| 1-50 | 2 |
+| 51-100 | 3 |
+| 101-150 | 4 |
+| 151-200 | 5 |
+| 201-250 | 6 |
+| 251-300 | 7 |
+
+[/TABLE]
+
+[TABLE]
+* Data were clipped to Idaho and converted to the IDTM 83 projection. Basal area values were reclassified into 10 classes, with increasing values associated with higher stand density:*
+
+| Total Basal Area (ft 2 /acre) Assigned Class |  |
+| --- | --- |
+| 0 | 1 |
+| 1-50 | 2 |
+| 51-100 | 3 |
+| 101-150 | 4 |
+| 151-200 | 5 |
+| 201-250 | 6 |
+| 251-300 | 7 |
+| 300-350 | 8 |
+| 350-400 | 9 |
+| >400 ft 2 | 10 |
+|  | These calculations yielded four output rasters (MPB |
+| risk, SB risk, WPB risk, DFB risk), showing the risk associated with each bark |  |
+| beetle species. |  |
+
+[/TABLE]
+
+[TABLE]
+*Tussock Moth *
+
+| Douglas-fir tussock moth (Orgyia pseudotsugata) (DFTM) is a native defoliator of |
+| --- |
+| Douglas-fir and true firs that is capable of killing trees if outbreaks cause multiple, |
+| consecutive years of heavy defoliation. Populations tend to be cyclic, building to |
+| significant levels in predictable locations every 8-12 years, then crashing after a few |
+| years of activity. Southern Idaho experienced an outbreak in 2018 and 2019 in |
+| vicinity of the Boise and Payette National Forests, with heavy defoliation occurring in |
+| 2019. Populations in northern Idaho are currently building, with outbreaks expected |
+| in 2020 or 2021. Annual USDA Forest Service aerial detection survey digital data |
+| from 1996 -2018 was used in the analysis of DFTM risk, along with historical analog |
+| data, sporadically dating back to the 1940s, that was digitized by USDA Forest |
+| Service, Forest Health Protection personnel. Host BA data for Douglas-fir, grand fir, |
+| and subalpine fir from the FHAAST dataset were also used in the model. |
+| Data layers: |
+
+[/TABLE]
+
+[TABLE]
+*Table 1 . Data and data definitions compiled for WAFWA Crucial Habitat Assessment Tool (CHAT) representation of Idaho crucial habitats 1-6 at 1 mi 2 hexagon scale. Species of Concern: Species of state and/or national conservation importance, including those vulnerable to extinction or those undergoing regional decline or other species requiring special management attention. Idaho defined their Species of Concern list using State Wildlife Action Plan "Species of Greatest Conservation Need" and NatureServe conservation status rankings, and other criteria in some cases. Individual species are not depicted but the resources section of this site contains information specific to the Greater Sage Grouse and the Lesser Prairie Chicken.Landscape Condition: A measure of land cover impacted by human activities. WGA Landscape Integrity Workgroup used a NatureServe landscape condition model to identify Large Intact Blocks and Important Connectivity Zones.Large Natural Areas: Large Intact Blocks or other dataset that identifies large areas of native habitat that are relatively intact or have low levels of anthropogenic impact.Natural Vegetation Communities: Dataset mapping natural vegetation communities of conservation concern, which may include clusters or patches of a natural community. States may have their own datasets mapping natural communities, or may have used the WGA Landscape Integrity Workgroups' Ecological Systems of Concern map.*
+
+| Riparian and Wetland Habitat Distribution: Areas that represent unique and/or sensitive |
+| --- |
+| environments and function to support animal and plant diversity with respect to wildlife objectives |
+| and connectivity. |
+| Species of Economic and/or Recreational Importance: These may include game or sportfish species |
+| especially if habitat needs are not already covered by mapping "Species of Concern". |
+| Aquatic Species of Economic and/or Recreational Importance: Sportfish, especially if habitat needs |
+| are not already covered by mapping "Species of Concern". |
+
+[/TABLE]
+
+[TABLE: and Quantity from Forests and Canopy ]
+
+[TABLE]
+* % Impervious Weight 0................ 0 -6 .......................... 0 1................ 7 -17 ........................ 1 2................ 18 -30 ...................... 2 3................ 31 -46 ...................... 3 4................ 47 -65 ...................... 4 5................ 66 -100 .................... 5 The NLCD_2011_canopy layer was classified on the percent canopy cover value. A neighborhood mean canopy cover was created from the canopy cover data by taking the mean value of the 25 (5 by 5) neighboring cells for every cell. The mean canopy cover value is a measure of the canopy cover surrounding impervious areas. The mean canopy cover was grouped by Jenks natural breaks into 5 classes and weighted as follows: -17.431 ....................... 0 2........... 17.432 -38.349 .............. 1 3........... 38.50 -59.267 ................ 1 4........... 59.268 -78.690 .............. 2 5........... 78.691 -100 ................... 3*
+
+| Class | Mean % Canopy | Weight |
+| --- | --- | --- |
+| 1........... 0 |  |  |
+
+[/TABLE]
+
+[TABLE: Table of Contents: • Issue: Forest Health Risks o Bark Beetle Risk Map ............................................................................................ o Balsam Woolly Adelgid Risk Map. ......................................................................... o Douglas-fir Tussock Moth Risk Map ..................................................................... o Root Disease Risk Map. ......................................................................................... o White Pine Blister Rust Map ................................................................................. o Terrestrial Noxious Weeds Risk Map .................................................................... o Climate Change Risk Map ..................................................................................... • Issue]
+[TABLE: : Risk to Communities and Ecosystems from Uncharacteristic Wildland Fire o Wildland Urban Interface Map ............................................................................. o Idaho Vegetation Map ..........................................................................................]
+This page is intentionally blank
+Return to T.O.C.
+LANDFIRE, 
+2016, Existing Vegetation Type Layer, LANDFIRE 2.0.0, U.S. Department of Interior, Geological Survey. Accessed 6 December 2017 at http://landfire.cr.usgs.gov/viewer/. 2 IRWIN, 2019, Wildland Fire Locations, IRWIN Version 1, National Wildfire Coordinating Group, Accessed 5 November 2019 at https://www.nwcg.gov/ 3 Data Developed for and in behalf of the Idaho Wildfire Working Group. Layers were accessed from the IDL GIS network drives.
+Data Developed by the IDL in cooperation with County Wildfire Working Groups. Layers are house within the IDL GIS network drives.
+
+## Acknowledgements
+
+## Chapter 3 -Final Maps Methodology for Developing Final Assessment Priority Maps Threats/Benefits Matrix
+
+The key forestry related issues identified by the Assessment stakeholders and further refined by the Core Assessment Team are categorized into two groups. The first included those issues which threaten forests-Forest Health Threats, Wildland Fire Risk to Communities and Ecosystems, and Potential Loss of Forests and Canopy from Development. The second major group includes those issues for which forests and trees provide benefit-Wildlife and Biodiversity, Water Quality and Quantity, Air Quality, and Sustainable Forest-Based Markets. Each of these issues is considered equal and all have scores that range from 0 through 5, from no threat to high threat, and from no benefit to high benefit.
+The values for each 30-meter cell in each of the "Threats" issues are added together. The scores for all cells are then stratified into five classes using Jenks natural breaks in the data values. This composite-threats map identifies the least threatened through the most threatened per the issues and sub-issues examined in the assessment.
+The same is done for the "Benefits" issues to develop a composite-benefits map. This map shows areas with the least benefit through those with the greatest benefits as identified in the issues and sub-issues used in the assessment.
+The Final Priority Map is developed by adding the composite threats data scores to the composite benefits map. This is done is such a way that 25 unique values are calculated, resulting in a five by five matrix. The cells were assigned a 3-digit number from 101 to 505, with the first digit denoting relative benefit, and the third digit representing relative threat. Thus, the cell value of 105 indicates low benefit (1) and high threat (5), whereas the cell value of 501 indicates high benefit (5) and low threat (1).

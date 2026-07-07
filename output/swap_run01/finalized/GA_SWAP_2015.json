@@ -1,0 +1,810 @@
+{
+  "document_meta": {
+    "title": "Georgia State Wildlife Action Plan (SWAP) 2015",
+    "year": 2015,
+    "jurisdiction": "Georgia",
+    "document_type": "SWAP",
+    "document_id": "GA_SWAP_2015",
+    "page_count": 262
+  },
+  "orientation": {
+    "summary": "The Georgia 2015 State Wildlife Action Plan (SWAP) is a comprehensive state-level wildlife conservation strategy prepared by the Georgia Department of Natural Resources Wildlife Resources Division. The document engages with climate change substantively as an 'emerging issue' warranting dedicated sections, a technical team appendix, and integration into species/habitat priorities. It treats climate-driven range shifts as a recognized threat—discussing species moving northward, habitat shifts, sea-level rise impacts on coastal habitats, and the need for connectivity corridors—though it performs mostly qualitative synthesis of external analyses rather than conducting its own quantitative modeling. The plan references vulnerability assessment frameworks (CCVI, AFWA guidance), connectivity modeling outputs (Georgia Greenway Map, Southeast Resilient Landscapes), and climate projections conceptually, but applies none of these to focal species via new quantitative analysis within the document itself.",
+    "evidence_index": [
+      {
+        "text": "Global Warming/Climate Change Defined as consistent, directed change in climatic conditions at regional scales. Such changes may include increases or decreases in average temperatures, changes in the distribution, frequency, or timing of precipitation, changes in the frequency and intensity of storm events, and changes in sea levels.",
+        "location": "Problems Affecting Species and Habitats / Global Warming/Climate Change",
+        "relevant_elements": ["1.1", "3.5"]
+      },
+      {
+        "text": "Climate change is consistent, directed change in climatic conditions at regional scales. Climate change is impacting species and habitats, and these effects are projected to increase substantially over time. These climate-driven changes will profoundly affect our ability to conserve fish and wildlife and their habitats.",
+        "location": "V. Statewide Wildlife Conservation Themes and Strategies / Climate Change",
+        "relevant_elements": ["1.1", "3.5", "3.6"]
+      },
+      {
+        "text": "Vulnerability to climate change has three components: sensitivity, exposure, and adaptive capacity (Glick et al., 2011).",
+        "location": "V. Statewide Wildlife Conservation Themes and Strategies / Climate Change / Tools and Resources table",
+        "relevant_elements": ["1.1", "1.2", "2.1"]
+      },
+      {
+        "text": "Conduct vulnerability assessments to inform the selection of SGCN and conservation actions. Use Scanning the Conservation Horizon: A Guide to Climate Change Vulnerability Assessment (Glick et al. 2011) to determine the best approach for conducting a vulnerability assessment for habitats and species at an appropriate level.",
+        "location": "V. Statewide Wildlife Conservation Themes and Strategies / Climate Change / Tools and Resources",
+        "relevant_elements": ["1.1", "1.2", "2.1", "4.5"]
+      },
+      {
+        "text": "Adaptive land use strategies such as maintaining habitat connectivity can help minimize the impacts of climate change. Habitat connectivity provides for corridors along which species can migrate in the face of changing conditions, such as climate change, road construction, and other causes of habitat fragmentation.",
+        "location": "V. Statewide Wildlife Conservation Themes and Strategies / Climate Change",
+        "relevant_elements": ["1.4", "4.2"]
+      },
+      {
+        "text": "wildlife corridors allow species to migrate further inland as sea level rise inundates salt marshes and estuaries, or northward or to higher elevations as temperatures rise. Managing for habitat connectivity addresses the limitations of static protected areas and promotes species and ecological resilience (Kiparsky, 2015).",
+        "location": "V. Statewide Wildlife Conservation Themes and Strategies / Climate Change",
+        "relevant_elements": ["1.4", "4.2", "1.1"]
+      },
+      {
+        "text": "A warming climate will likely cause the ranges of many species to shift northward, possibly leading to negative interactions with other species or less favorable",
+        "location": "Birds section / V. Statewide Wildlife Conservation Themes",
+        "relevant_elements": ["1.3", "3.3", "4.2"]
+      },
+      {
+        "text": "The ranges of these species might be particularly vulnerable to climate change. A small increase in average temperature would likely result in a northward retreat, reducing or eliminating occupied habitat in Georgia.",
+        "location": "V. Statewide Wildlife Conservation Themes and Strategies / Mammals",
+        "relevant_elements": ["1.1", "1.3", "3.3"]
+      },
+      {
+        "text": "Researchers at UGA conducted an 'Amphibian and Reptile Climate Change Vulnerability Assessment' for select southeastern species, including ten that are considered high priority in Georgia... The predictions are dire for all high priority Georgia species in showing significant reductions in climatically suitable habitat.",
+        "location": "V. Statewide Wildlife Conservation Themes and Strategies / Reptiles and Amphibians",
+        "relevant_elements": ["1.1", "2.1", "1.3"]
+      },
+      {
+        "text": "The assessment maps indicate where climatically suitable habitat is predicted to remain in 2050, and for the striped newt and flatwoods salamander, no habitat is predicted to remain.",
+        "location": "V. Statewide Wildlife Conservation Themes and Strategies / Reptiles and Amphibians",
+        "relevant_elements": ["1.1", "2.2", "1.3"]
+      },
+      {
+        "text": "Climate change is expected to negatively impact Georgia's rich aquatic which ranks among the top U.S. states in diversity of key taxonomic groups such as fishes, mussels, and crayfishes. Potential impacts include increased frequency of drought and stream drying, loss of critical marsh habitat for estuarine dependent species, poorer water quality associated with higher stream temperatures and lower flows, and complete elimination of habitat for species with narrow temperature requirements.",
+        "location": "V. Statewide Wildlife Conservation Themes and Strategies / Fishes and Aquatic Invertebrates",
+        "relevant_elements": ["1.1", "3.5", "3.6", "1.3"]
+      },
+      {
+        "text": "Species such as brook trout and holiday darters are restricted to higher elevation, cold water streams and may be particularly susceptible to climatic shifts.",
+        "location": "V. Statewide Wildlife Conservation Themes and Strategies / Fishes and Aquatic Invertebrates",
+        "relevant_elements": ["1.1", "1.3", "3.5"]
+      },
+      {
+        "text": "While climate change will undoubtedly affect habitats throughout Georgia, the impacts will likely be most obvious and significant in this ecoregion. Conservation plans in this region must acknowledge the need to protect coastal uplands as well as wetlands, and provide opportunities for migration of habitats and species as sea levels and coastlines change.",
+        "location": "Southern Coastal Plain Ecoregion / Problems Affecting Wildlife Diversity",
+        "relevant_elements": ["3.5", "4.1", "4.2", "1.4"]
+      },
+      {
+        "text": "Perhaps the most significant long-term threat to these cool, moist environments and their associated species is global warming.",
+        "location": "Blue Ridge Ecoregion / High Priority Sites and Landscape Features / Blood Mountain/Coosa Bald/Sosebee Cove",
+        "relevant_elements": ["1.1", "3.5"]
+      },
+      {
+        "text": "Southeast Resilient Landscapes Model. While not explicitly defined as a climate change adaptation model, the Southeast Resilient Landscapes Model developed by the Nature Conservancy (TNC) identifies key places for conservation in the face of climate change and other factors... Landscape diversity refers to the number of landforms, elevation range, and wetland density. Topographic diversity buffers against the impacts of climate change by providing a variety of microclimates. Local connectedness refers to the number of barriers and the degree of fragmentation within a landscape. A highly permeable landscape promotes resilience by facilitating or accommodating range shifts and the reorganization of communities.",
+        "location": "V. Statewide Wildlife Conservation Themes and Strategies / Climate Change / Climate-Smart Conservation",
+        "relevant_elements": ["1.4", "2.4", "4.1", "4.5"]
+      },
+      {
+        "text": "The South Atlantic LCC developed the Conservation Blueprint, a spatially-explicit, living plan that describes the places and actions needed to meet conservation objectives in the face of future change.",
+        "location": "V. Statewide Wildlife Conservation Themes and Strategies / Landscape Conservation Cooperatives",
+        "relevant_elements": ["4.1", "4.5", "3.4"]
+      },
+      {
+        "text": "In this current revision of the SWAP, the ecosystem/habitat mapping technical team utilized a mapping approach that incorporated data from the Southeast Resilient Landscapes Project conducted by The Nature Conservancy, models of habitat connectivity, and other data to develop a draft 'Georgia Greenway Opportunities' map (Figure 4). This map depicts large patches of natural habitat as well as other areas that could be conserved or restored to provide for greater habitat connectivity within the Georgia landscape.",
+        "location": "II. Approach and Methods / High Priority Conservation Areas",
+        "relevant_elements": ["2.4", "4.1", "1.4"]
+      },
+      {
+        "text": "Include climate change and its impacts as one of the criteria used in selecting and prioritizing species of greatest conservation need (SGCN). Follow recommendations outlined in AFWA's Voluntary Guidance for States to Incorporate Climate Change into State Wildlife Action Plans and Other Management Plans (AFWA 2009)",
+        "location": "V. Statewide Wildlife Conservation Themes and Strategies / Climate Change / Tools and Resources table",
+        "relevant_elements": ["4.5", "2.1"]
+      },
+      {
+        "text": "Adaptive management is emphasized to help reduce the uncertainty of climate change in conservation planning and implementation. Adaptive management is an approach to natural resource management based on learning about management outcomes and incorporating what is learned into ongoing management.",
+        "location": "V. Statewide Wildlife Conservation Themes and Strategies / Climate Change",
+        "relevant_elements": ["4.5", "4.3"]
+      },
+      {
+        "text": "Climate change can also cause trophic asynchrony when many species of migratory songbirds have been documented returning to their breeding grounds and nesting earlier in the season as the climate continues to warm. The timing of peak bird nesting, and the flush of insects that feed their young, could become asynchronous, leading to lower productivity rates.",
+        "location": "V. Statewide Wildlife Conservation Themes and Strategies / Climate Change",
+        "relevant_elements": ["3.7", "1.3"]
+      },
+      {
+        "text": "Some climate change models predict an increase in July heat indexes across the Southeast U.S. from 8-15 o F to as high as 20 o F. Higher average temperatures may enable invasive species to take advantage of weakened ecosystems and further out-compete native species. It is estimated that global warming will allow 48 percent of currently established invasive plants and animals to expand their ranges northward if current warming trends continue.",
+        "location": "V. Statewide Wildlife Conservation Themes and Strategies / Climate Change / Plants section",
+        "relevant_elements": ["3.7", "2.3"]
+      },
+      {
+        "text": "The U.S. Forest Service (USFS) conducted an analysis of vegetation type change for every state. The analysis shows a map of historical vegetation and then the future changes for a single emission scenario and three climate models, and a composite of the changes based on three emissions scenarios and three climate models under no suppression of wildfire.",
+        "location": "V. Statewide Wildlife Conservation Themes and Strategies / Climate Change / Tools and Resources table",
+        "relevant_elements": ["2.3", "3.5"]
+      },
+      {
+        "text": "Climate vulnerability was found to be highest in some metropolitan Atlanta and coastal counties, as well as part of the rural Black Belt region in southwestern Georgia.",
+        "location": "V. Statewide Wildlife Conservation Themes and Strategies / Climate Change",
+        "relevant_elements": ["1.1"]
+      },
+      {
+        "text": "Primary threats to these species include climate change scenarios with predicted increases in the variability of rainfall, leading to increased drought conditions punctuated with more extreme rainfall events.",
+        "location": "V. Statewide Wildlife Conservation Themes and Strategies / Birds",
+        "relevant_elements": ["3.5", "3.6"]
+      },
+      {
+        "text": "Monitor effects of climate change on sea turtles and their nesting habitat. Monitor trends in adult female sea turtle abundance through nest monitoring programs and genetic mark-recapture sampling.",
+        "location": "Southern Coastal Plain Ecoregion / Highest Priority Conservation Actions",
+        "relevant_elements": ["4.3", "3.6"]
+      },
+      {
+        "text": "Address and monitor climate change impacts to reptiles and amphibians. Climate change is likely to have adverse effects on herpetofauna. Effects on habitat suitability are the most wide-ranging, but in the case of most of Georgia's turtle species and the American alligator, species that exhibit temperature-dependent sex determination, warming temperatures may skew sex ratios adversely.",
+        "location": "V. Statewide Wildlife Conservation Themes and Strategies / Reptiles and Amphibians",
+        "relevant_elements": ["3.6", "4.3"]
+      },
+      {
+        "text": "Protection of aquatic connectivity in free-flowing rivers and streams. Movements between feeding, breeding, and nursery habitats are essential for the persistence of many aquatic species. Movement to key refuge habitats such as springs or large rivers during droughts may become increasingly important as climate changes.",
+        "location": "V. Statewide Wildlife Conservation Themes and Strategies / Fishes and Aquatic Invertebrates",
+        "relevant_elements": ["1.4", "4.2"]
+      },
+      {
+        "text": "The GPCA keeps genetic material for rare plants should assisted migration become necessary.",
+        "location": "V. Statewide Wildlife Conservation Themes and Strategies / Climate Change / Plants",
+        "relevant_elements": ["4.2", "1.3"]
+      },
+      {
+        "text": "Funding for the current revision of Georgia's SWAP came from the State Wildlife Grants Program administered by the U.S. Fish & Wildlife Service; matching nonfederal funds came from the Nongame Wildlife Conservation Fund",
+        "location": "I. Introduction and Purpose",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "Support for this revision effort came from a federal grant to WRD through the State Wildlife Grants program; matching funds were provided through Georgia's Nongame Wildlife Conservation Fund.",
+        "location": "Executive Summary",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "The intent of the Wildlife Resources Division is to begin a formal process of reviewing the current wildlife conservation strategy within the next ten years and to adopt revisions to the strategy as deemed necessary based on this review.",
+        "location": "Executive Summary",
+        "relevant_elements": ["4.3"]
+      },
+      {
+        "text": "The revision of the SWAP will be completed within two years of the start of the assessment, or no later than August 2025. In addition, informal annual assessments will be undertaken to assess changes in funding levels, laws and regulations, successes and failures in species recovery efforts, and new research findings",
+        "location": "VI. Procedures for SWAP Review and Revision",
+        "relevant_elements": ["4.3"]
+      },
+      {
+        "text": "Consider sea level rise in conservation planning. The past 80 years have seen 10 inches of recorded sea level rise per the National Oceanic and Atmospheric Administration Fort Pulaski tidal gauge near Savannah. Most sea level rise models predict this to accelerate sharply over the next decade.",
+        "location": "V. Statewide Wildlife Conservation Themes and Strategies / Climate Change / Ecosystems/Habitat Mapping section",
+        "relevant_elements": ["3.5", "4.1", "2.3"]
+      },
+      {
+        "text": "Use the Sea Level Rise-Affecting Marshes Model (SLAMM) based on high accuracy, LiDAR-derived elevations when considering coastal habitat response to sea level rise. This dataset projects various scenarios of sea level rise over the coming 100 years.",
+        "location": "V. Statewide Wildlife Conservation Themes and Strategies / Climate Change / Ecosystems/Habitat Mapping section",
+        "relevant_elements": ["2.3", "3.5", "4.1"]
+      },
+      {
+        "text": "Three Landscape Conservation Cooperatives intersect Georgia's boundaries: The South Atlantic, the Appalachian, and the Gulf Coastal Plain and Ozarks.",
+        "location": "II. Approach and Methods / Coordination with Other Agencies",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "the mountains of northeastern Georgia represent the extreme southern limits of the ranges of several species of mammals... Many of these probably represent relict populations left isolated in high elevation sites as the boreal forests retreated northward following the last Ice Age.",
+        "location": "V. Statewide Wildlife Conservation Themes and Strategies / Mammals",
+        "relevant_elements": ["1.3", "3.3"]
+      },
+      {
+        "text": "Incorporate climate change into distribution models for all high priority species.",
+        "location": "V. Statewide Wildlife Conservation Themes and Strategies / Climate Change / Plants section",
+        "relevant_elements": ["2.2", "4.5"]
+      },
+      {
+        "text": "Reach out to diverse partners who work on adaptation to ensure coordination and avoid maladaptation (e.g., hardened structures that would prevent marsh migration as sea levels rise).",
+        "location": "V. Statewide Wildlife Conservation Themes and Strategies / Climate Change / Tools and Resources",
+        "relevant_elements": ["4.2", "3.4", "4.5"]
+      },
+      {
+        "text": "Best Practices for State Wildlife Action Plans. Developed by a working group of the Teaming With Wildlife Committee of the Association of Fish and Wildlife Agencies (AFWA), the best practices recommends incorporating climate change into the revision of SWAPs (AFWA 2012). Best practices include: Manage for change, not just persistence; Reconsider goals, not just strategies; Integrate adaptation into existing work",
+        "location": "V. Statewide Wildlife Conservation Themes and Strategies / Climate Change / Tools and Resources table",
+        "relevant_elements": ["4.5"]
+      },
+      {
+        "text": "Climate-Smart Conservation. The 2015 Georgia SWAP incorporates the National Wildlife Federation's (NWF) Climate-Smart Conservation (Stein et al., 2014), which recommends paying attention to the following overarching themes: Act with intentionality",
+        "location": "V. Statewide Wildlife Conservation Themes and Strategies / Climate Change",
+        "relevant_elements": ["4.5"]
+      },
+      {
+        "text": "For high elevation species that will lose habitat in Georgia, work with neighboring states, Landscape Conservation Cooperatives, and other regional conservation partnerships to ensure that suitable habitat exists in the region.",
+        "location": "V. Statewide Wildlife Conservation Themes and Strategies / Terrestrial Invertebrates",
+        "relevant_elements": ["4.2", "3.4"]
+      },
+      {
+        "text": "Enhance habitat in utility corridors for use by migratory birds and pollinators... Conduct research and habitat management for transmission rights-of-way (ROW), which can provide a corridor of habitat that could accommodate major shifts in climate.",
+        "location": "V. Statewide Wildlife Conservation Themes and Strategies / Climate Change",
+        "relevant_elements": ["4.2", "1.4"]
+      },
+      {
+        "text": "Steer projects away from the areas of highest wildlife diversity. Consider potential shifts in wildlife ranges due to climate change. Minimize siting wind facilities in areas identified as high priority in Georgia's State Wildlife Action Plan.",
+        "location": "V. Statewide Wildlife Conservation Themes and Strategies / Wind Power / Highest Priority Conservation Actions",
+        "relevant_elements": ["4.1", "4.2"]
+      }
+    ]
+  },
+  "concepts": {
+    "climate_vulnerability": {
+      "evaluable": true,
+      "score": 3,
+      "evidence": [
+        {
+          "text": "Vulnerability to climate change has three components: sensitivity, exposure, and adaptive capacity (Glick et al., 2011).",
+          "location": "V. Statewide Wildlife Conservation Themes and Strategies / Climate Change / Tools and Resources table",
+          "sub_component": "exposure and adaptive capacity",
+          "citations": ["Glick et al., 2011"]
+        },
+        {
+          "text": "Species such as brook trout and holiday darters are restricted to higher elevation, cold water streams and may be particularly susceptible to climatic shifts.",
+          "location": "V. Statewide Wildlife Conservation Themes and Strategies / Fishes and Aquatic Invertebrates",
+          "sub_component": "sensitivity/exposure",
+          "citations": []
+        },
+        {
+          "text": "The ranges of these species might be particularly vulnerable to climate change. A small increase in average temperature would likely result in a northward retreat, reducing or eliminating occupied habitat in Georgia.",
+          "location": "V. Statewide Wildlife Conservation Themes and Strategies / Mammals",
+          "sub_component": "adaptive capacity",
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "adaptive_capacity_specificity": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Vulnerability to climate change has three components: sensitivity, exposure, and adaptive capacity (Glick et al., 2011).",
+          "location": "V. Statewide Wildlife Conservation Themes and Strategies / Climate Change / Tools and Resources table",
+          "sub_component": null,
+          "citations": ["Glick et al., 2011"]
+        },
+        {
+          "text": "species with low adaptive capacity such as those with specialized habitat needs or limited dispersal ability face higher vulnerability to these changes",
+          "location": "V. Statewide Wildlife Conservation Themes and Strategies / Climate Change / Climate-Smart Conservation",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document references adaptive capacity explicitly with named components (dispersal ability, specialized habitat needs), meeting the threshold for score 2."
+    },
+    "adaptive_capacity_components": {
+      "demography": {
+        "present": false,
+        "evidence": []
+      },
+      "distribution": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "A warming climate will likely cause the ranges of many species to shift northward, possibly leading to negative interactions with other species or less favorable",
+            "location": "V. Statewide Wildlife Conservation Themes and Strategies / Birds",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "movement": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "wildlife corridors allow species to migrate further inland as sea level rise inundates salt marshes and estuaries, or northward or to higher elevations as temperatures rise. Managing for habitat connectivity addresses the limitations of static protected areas and promotes species and ecological resilience",
+            "location": "V. Statewide Wildlife Conservation Themes and Strategies / Climate Change",
+            "sub_component": null,
+            "citations": ["Kiparsky, 2015"]
+          }
+        ]
+      },
+      "evolutionary_potential": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "maintenance of these range extremes could conserve a disproportionate amount of the species' genetic diversity because of isolation and adaptation.",
+            "location": "V. Statewide Wildlife Conservation Themes and Strategies / Mammals",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecological_dependencies": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Climate change can also cause trophic asynchrony when many species of migratory songbirds have been documented returning to their breeding grounds and nesting earlier in the season as the climate continues to warm. The timing of peak bird nesting, and the flush of insects that feed their young, could become asynchronous, leading to lower productivity rates.",
+            "location": "V. Statewide Wildlife Conservation Themes and Strategies / Climate Change",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "abiotic_niche": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Species such as brook trout and holiday darters are restricted to higher elevation, cold water streams and may be particularly susceptible to climatic shifts.",
+            "location": "V. Statewide Wildlife Conservation Themes and Strategies / Fishes and Aquatic Invertebrates",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "life_history": {
+        "present": false,
+        "evidence": []
+      }
+    },
+    "connectivity": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Adaptive land use strategies such as maintaining habitat connectivity can help minimize the impacts of climate change. Habitat connectivity provides for corridors along which species can migrate in the face of changing conditions, such as climate change, road construction, and other causes of habitat fragmentation.",
+          "location": "V. Statewide Wildlife Conservation Themes and Strategies / Climate Change",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "A highly permeable landscape promotes resilience by facilitating or accommodating range shifts and the reorganization of communities.",
+          "location": "V. Statewide Wildlife Conservation Themes and Strategies / Climate Change / Climate-Smart Conservation",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    }
+  },
+  "tools": {
+    "vulnerability_models": {
+      "evaluable": true,
+      "score": 2,
+      "named_tools": ["CCVI", "Climate Change Vulnerability Assessment"],
+      "evidence": [
+        {
+          "text": "Researchers at UGA conducted an 'Amphibian and Reptile Climate Change Vulnerability Assessment' for select southeastern species, including ten that are considered high priority in Georgia, including flatwoods salamander, tiger salamander, one-toed amphiuma, green salamander, hellbender, striped newt, gopher frog, eastern indigo snake, bog turtle, and gopher tortoise.",
+          "location": "V. Statewide Wildlife Conservation Themes and Strategies / Reptiles and Amphibians",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Conduct vulnerability assessments to inform the selection of SGCN and conservation actions. Use Scanning the Conservation Horizon: A Guide to Climate Change Vulnerability Assessment (Glick et al. 2011) to determine the best approach for conducting a vulnerability assessment for habitats and species at an appropriate level.",
+          "location": "V. Statewide Wildlife Conservation Themes and Strategies / Climate Change / Tools and Resources",
+          "sub_component": null,
+          "citations": ["Glick et al. 2011"]
+        }
+      ],
+      "absence_note": "The UGA vulnerability assessment is applied to focal Georgia SGCN species, satisfying the 'applied to subject' criterion."
+    },
+    "niche_models": {
+      "evaluable": true,
+      "score": 1,
+      "named_tools": [],
+      "evidence": [
+        {
+          "text": "Incorporate climate change into distribution models for all high priority species.",
+          "location": "V. Statewide Wildlife Conservation Themes and Strategies / Climate Change / Plants section",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document recommends developing/applying distribution models incorporating climate change but does not present new SDM analyses for focal species within the plan. This is a recommendation (score 1), not application."
+    },
+    "climate_models": {
+      "evaluable": true,
+      "score": 1,
+      "named_tools": ["SLAMM"],
+      "evidence": [
+        {
+          "text": "Use the Sea Level Rise-Affecting Marshes Model (SLAMM) based on high accuracy, LiDAR-derived elevations when considering coastal habitat response to sea level rise. This dataset projects various scenarios of sea level rise over the coming 100 years.",
+          "location": "V. Statewide Wildlife Conservation Themes and Strategies / Climate Change / Ecosystems/Habitat Mapping section",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "The U.S. Forest Service (USFS) conducted an analysis of vegetation type change for every state. The analysis shows a map of historical vegetation and then the future changes for a single emission scenario and three climate models, and a composite of the changes based on three emissions scenarios and three climate models under no suppression of wildfire.",
+          "location": "V. Statewide Wildlife Conservation Themes and Strategies / Climate Change / Tools and Resources table",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "SLAMM and USFS vegetation change models are referenced and recommended for use but not applied to produce new analyses within the plan itself. The assessment maps for amphibians citing habitat in 2050 come from an external UGA study. Score is 1 (referenced generally/recommended) rather than 2.",
+      "time_horizon_years": [2050, 2100],
+      "emission_scenarios": []
+    },
+    "connectivity_models": {
+      "evaluable": true,
+      "score": 2,
+      "named_tools": ["Southeast Resilient Landscapes Model"],
+      "evidence": [
+        {
+          "text": "the ecosystem/habitat mapping technical team utilized a mapping approach that incorporated data from the Southeast Resilient Landscapes Project conducted by The Nature Conservancy, models of habitat connectivity, and other data to develop a draft 'Georgia Greenway Opportunities' map (Figure 4). This map depicts large patches of natural habitat as well as other areas that could be conserved or restored to provide for greater habitat connectivity within the Georgia landscape.",
+          "location": "II. Approach and Methods / High Priority Conservation Areas",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Southeast Resilient Landscapes Model... An estimated resilience score is assigned based on scores of landscape diversity and local connectedness, and ranked relative to the geophysical setting and ecoregion... Local connectedness refers to the number of barriers and the degree of fragmentation within a landscape. A highly permeable landscape promotes resilience by facilitating or accommodating range shifts and the reorganization of communities.",
+          "location": "V. Statewide Wildlife Conservation Themes and Strategies / Climate Change / Climate-Smart Conservation",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The Georgia Greenway Opportunities Map was developed using connectivity model outputs and is used to guide land conservation decisions for focal subjects in the plan. This satisfies the 'applied to subject' criterion."
+    }
+  },
+  "context": {
+    "management_scale": {
+      "local": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Conservation plans in this region must acknowledge the need to protect coastal uplands as well as wetlands, and provide opportunities for migration of habitats and species as sea levels and coastlines change.",
+            "location": "Southern Coastal Plain Ecoregion / Problems Affecting Wildlife Diversity",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "site": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Protect critical reaches of the Conasauga River system through targeted acquisition and easements with willing landowners.",
+            "location": "Highest Priority Conservation Actions / Southwestern Appalachians/Ridge & Valley",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "watershed": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "the Fishes and Aquatic Invertebrates Species Technical Team identified 165 high priority watersheds to protect the best known populations of 168 high priority aquatic species.",
+            "location": "II. Approach and Methods / High Priority Conservation Areas",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "city": {
+        "present": false,
+        "evidence": []
+      },
+      "county": {
+        "present": false,
+        "evidence": []
+      },
+      "within_state_region": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The discussion of land use trends, high priority species and habitats, and conservation objectives in this report is organized by ecological region, or ecoregion. The major divisions used in this report are as follows: 1) Southwestern Appalachians/Ridge & Valley; 2) Blue Ridge; 3) Piedmont; 4) Southeastern Plains; and 5) Southern Coastal Plain.",
+            "location": "III. State Overview-Ecological Framework / Ecoregions of the State",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "state": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The goal of this effort was to develop an updated wildlife conservation strategy based upon the best currently available data on the distribution and abundance of wildlife species in the state",
+            "location": "I. Introduction and Purpose",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "multistate": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "For high elevation species that will lose habitat in Georgia, work with neighboring states, Landscape Conservation Cooperatives, and other regional conservation partnerships to ensure that suitable habitat exists in the region.",
+            "location": "V. Statewide Wildlife Conservation Themes and Strategies / Terrestrial Invertebrates",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "national": {
+        "present": false,
+        "evidence": []
+      },
+      "transnational": {
+        "present": false,
+        "evidence": []
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Meeting this goal requires intact forests and clean waterways with minimum flows maintained. Examples of conservation actions recommended in this plan emphasizing habitat connectivity include maintaining vegetated buffers along streams to benefit aquatic species and factoring in sea-level rise and habitat shifts into management plans for coastal lands.",
+            "location": "V. Statewide Wildlife Conservation Themes and Strategies / Climate Change",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecoregion": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "By working with the other state agencies and conservation partners within these LCCs, conservation issues can be addressed at the appropriate regional scale. This approach is particularly important when considering climate change impacts, large landscape features, migration corridors, and conservation of large groups of species and habitats.",
+            "location": "V. Statewide Wildlife Conservation Themes and Strategies / Landscape Conservation Cooperatives",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "province": {
+        "present": false,
+        "evidence": []
+      },
+      "section": {
+        "present": false,
+        "evidence": []
+      },
+      "subsection": {
+        "present": false,
+        "evidence": []
+      },
+      "lake": {
+        "present": false,
+        "evidence": []
+      },
+      "river": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Protection of aquatic connectivity in free-flowing rivers and streams. Movements between feeding, breeding, and nursery habitats are essential for the persistence of many aquatic species.",
+            "location": "V. Statewide Wildlife Conservation Themes and Strategies / Fishes and Aquatic Invertebrates",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "district": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["Georgia", "Blue Ridge", "Piedmont", "Southern Coastal Plain", "Southeastern Plains", "Southwestern Appalachians/Ridge & Valley", "Conasauga River", "Flint River", "Altamaha River", "Chattahoochee River", "South Atlantic LCC", "Appalachian LCC", "Gulf Coastal Plains and Ozarks LCC"]
+    },
+    "biological_unit_score": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "A warming climate will likely cause the ranges of many species to shift northward, possibly leading to negative interactions with other species or less favorable",
+          "location": "V. Statewide Wildlife Conservation Themes and Strategies / Birds",
+          "sub_component": "species",
+          "citations": []
+        },
+        {
+          "text": "Conservation plans in this region must acknowledge the need to protect coastal uplands as well as wetlands, and provide opportunities for migration of habitats and species as sea levels and coastlines change.",
+          "location": "Southern Coastal Plain Ecoregion / Problems Affecting Wildlife Diversity",
+          "sub_component": "habitat",
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "biological_unit_components": {
+      "species": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The ranges of these species might be particularly vulnerable to climate change. A small increase in average temperature would likely result in a northward retreat, reducing or eliminating occupied habitat in Georgia.",
+            "location": "V. Statewide Wildlife Conservation Themes and Strategies / Mammals",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "population": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "maintenance of these range extremes could conserve a disproportionate amount of the species' genetic diversity because of isolation and adaptation.",
+            "location": "V. Statewide Wildlife Conservation Themes and Strategies / Mammals",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "habitat": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Conservation plans in this region must acknowledge the need to protect coastal uplands as well as wetlands, and provide opportunities for migration of habitats and species as sea levels and coastlines change.",
+            "location": "Southern Coastal Plain Ecoregion / Problems Affecting Wildlife Diversity",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Perhaps the most significant long-term threat to these cool, moist environments and their associated species is global warming.",
+            "location": "Blue Ridge Ecoregion / High Priority Sites and Landscape Features / Blood Mountain/Coosa Bald/Sosebee Cove",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "community": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "A highly permeable landscape promotes resilience by facilitating or accommodating range shifts and the reorganization of communities.",
+            "location": "V. Statewide Wildlife Conservation Themes and Strategies / Climate Change / Climate-Smart Conservation",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "genotype_phenotype": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["striped newt", "flatwoods salamander", "hellbender", "eastern indigo snake", "gopher tortoise", "brook trout", "holiday darter", "monarch butterfly", "North Atlantic right whale", "loggerhead sea turtle", "Bachman's sparrow", "red knot", "whimbrel", "longleaf pine ecosystem", "saltmarsh", "barrier islands"]
+    },
+    "partnerships_and_funding": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Three Landscape Conservation Cooperatives intersect Georgia's boundaries: The South Atlantic, the Appalachian, and the Gulf Coastal Plain and Ozarks.",
+          "location": "II. Approach and Methods / Coordination with Other Agencies",
+          "sub_component": "partnerships",
+          "citations": []
+        },
+        {
+          "text": "Funding for the current revision of Georgia's SWAP came from the State Wildlife Grants Program administered by the U.S. Fish & Wildlife Service; matching nonfederal funds came from the Nongame Wildlife Conservation Fund",
+          "location": "I. Introduction and Purpose",
+          "sub_component": "funding",
+          "citations": []
+        }
+      ],
+      "absence_note": "The plan describes multiple active partnerships (LCCs, SEAFWA, SEARS, TNC, USFWS, academic institutions) that are actively implementing range-shift-relevant actions, and identifies funding sources for plan implementation."
+    },
+    "climate_threat_habitat_degradation": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Climate change is expected to negatively impact Georgia's rich aquatic which ranks among the top U.S. states in diversity of key taxonomic groups such as fishes, mussels, and crayfishes. Potential impacts include increased frequency of drought and stream drying, loss of critical marsh habitat for estuarine dependent species, poorer water quality associated with higher stream temperatures and lower flows",
+          "location": "V. Statewide Wildlife Conservation Themes and Strategies / Fishes and Aquatic Invertebrates",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_threat_species_vital_rates": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "in the case of most of Georgia's turtle species and the American alligator, species that exhibit temperature-dependent sex determination, warming temperatures may skew sex ratios adversely.",
+          "location": "V. Statewide Wildlife Conservation Themes and Strategies / Reptiles and Amphibians",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "Temperature-dependent sex determination directly affects reproductive vital rates (sex ratio at birth), qualifying as a direct climate effect on vital rates."
+    },
+    "climate_threat_biotic_stressors": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "It is estimated that global warming will allow 48 percent of currently established invasive plants and animals to expand their ranges northward if current warming trends continue. This effect can already be seen as warming winter temperatures permit species such as kudzu and garlic mustard to survive in areas much farther north than in the past.",
+          "location": "V. Statewide Wildlife Conservation Themes and Strategies / Climate Change / Plants section",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    }
+  },
+  "actions": {
+    "priority_habitat_identification": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "the ecosystem/habitat mapping technical team utilized a mapping approach that incorporated data from the Southeast Resilient Landscapes Project conducted by The Nature Conservancy, models of habitat connectivity, and other data to develop a draft 'Georgia Greenway Opportunities' map (Figure 4). This map depicts large patches of natural habitat as well as other areas that could be conserved or restored to provide for greater habitat connectivity within the Georgia landscape.",
+          "location": "II. Approach and Methods / High Priority Conservation Areas",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Conservation plans in this region must acknowledge the need to protect coastal uplands as well as wetlands, and provide opportunities for migration of habitats and species as sea levels and coastlines change.",
+          "location": "Southern Coastal Plain Ecoregion / Problems Affecting Wildlife Diversity",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "targeted_range_shift_actions": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "wildlife corridors allow species to migrate further inland as sea level rise inundates salt marshes and estuaries, or northward or to higher elevations as temperatures rise. Managing for habitat connectivity addresses the limitations of static protected areas and promotes species and ecological resilience",
+          "location": "V. Statewide Wildlife Conservation Themes and Strategies / Climate Change",
+          "sub_component": null,
+          "citations": ["Kiparsky, 2015"]
+        }
+      ],
+      "absence_note": "Structural facilitation via corridors explicitly framed for climate-driven movement earns a 1. The GPCA assisted migration mention is aspirational. No direct manipulation (translocation, assisted migration implemented) is described as implemented."
+    },
+    "time_bound_and_monitoring": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "The revision of the SWAP will be completed within two years of the start of the assessment, or no later than August 2025. In addition, informal annual assessments will be undertaken to assess changes in funding levels, laws and regulations, successes and failures in species recovery efforts, and new research findings",
+          "location": "VI. Procedures for SWAP Review and Revision",
+          "sub_component": "deadline",
+          "citations": []
+        }
+      ],
+      "absence_note": "The plan includes a 10-year revision cycle and a stated August 2025 deadline for the next revision, plus annual informal assessments. However, specific climate-related conservation actions lack attached deadlines or effectiveness monitoring protocols at the action level. Score 1 for plan-level time-binding; does not reach 2 without action-level monitoring tied to specific actions."
+    },
+    "evidence_of_efficacy": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Researchers at UGA conducted an 'Amphibian and Reptile Climate Change Vulnerability Assessment' for select southeastern species, including ten that are considered high priority in Georgia... The predictions are dire for all high priority Georgia species in showing significant reductions in climatically suitable habitat.",
+          "location": "V. Statewide Wildlife Conservation Themes and Strategies / Reptiles and Amphibians",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "Actions are supported by first principles (connectivity helps species shift ranges, shade reduces stream temperatures) and references to vulnerability assessments, but not by evaluations of prior implemented actions. Score 1 for rationale without direct efficacy evidence.",
+      "projects": ["UGA Amphibian and Reptile Climate Change Vulnerability Assessment: An external vulnerability assessment conducted by University of Georgia researchers for 10 Georgia SGCN herpetofauna. The results (dire predictions of habitat loss by 2050 for all focal species) are cited to support the action of monitoring and creating fishless wetlands for pond-breeding amphibians, providing limited evidence since it tests habitat suitability projections rather than directly testing the efficacy of proposed management actions."]
+    },
+    "adaptation_planning_frameworks": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Climate-Smart Conservation. The 2015 Georgia SWAP incorporates the National Wildlife Federation's (NWF) Climate-Smart Conservation (Stein et al., 2014), which recommends paying attention to the following overarching themes: Act with intentionality",
+          "location": "V. Statewide Wildlife Conservation Themes and Strategies / Climate Change",
+          "sub_component": null,
+          "citations": ["Stein et al., 2014"]
+        },
+        {
+          "text": "Adaptive management is emphasized to help reduce the uncertainty of climate change in conservation planning and implementation. Adaptive management is an approach to natural resource management based on learning about management outcomes and incorporating what is learned into ongoing management. The U.S. Department of the Interior uses adaptive management as a form of structured decision making whereby ongoing decisions are needed but the impacts of management are uncertain (Williams & Brown, 2012).",
+          "location": "V. Statewide Wildlife Conservation Themes and Strategies / Climate Change",
+          "sub_component": null,
+          "citations": ["Williams & Brown, 2012"]
+        }
+      ],
+      "absence_note": "The document explicitly invokes Climate-Smart Conservation (NWF framework), AFWA Best Practices for SWAP revision incorporating climate change, and adaptive management framed in the climate decision-making context. These named frameworks satisfy score 2."
+    }
+  },
+  "coding_meta": {
+    "coder": "llm:claude-sonnet-4-6",
+    "model": "claude-sonnet-4-6",
+    "provider": "claude",
+    "codebook_version": "0.4",
+    "ingest": "text",
+    "design": "single",
+    "temperature": null,
+    "thinking": null,
+    "thinking_effort": null,
+    "coded_at": "2026-07-06T18:39:21Z",
+    "notes": {}
+  }
+}

@@ -1,0 +1,528 @@
+{
+  "document_meta": {
+    "title": "Alabama's Forest Roadmap: 2020 Alabama Forest Action Plan",
+    "year": 2020,
+    "jurisdiction": "Alabama",
+    "document_type": "Forest Action Plan",
+    "document_id": "AL_FAP_2020",
+    "page_count": 104
+  },
+  "orientation": {
+    "summary": "This is the 2020 Alabama Forest Action Plan (Forest Action Plan), produced by the Alabama Forestry Commission, a state-level forestry management and planning document covering forest conditions, threats, and management strategies across Alabama's 23 million acres of forest. The document engages with climate primarily as a background stressor shaping adverse weather events (droughts, hurricanes, tornadoes), forest health (beetle outbreaks, fungal diseases), and invasive species spread, but does not frame these through an explicit 'climate change' or 'range shift science' lens—it treats weather variability as a natural hazard rather than anthropogenic climate change driving distributional shifts. The document does not reference range shifts, climate-driven species distributional changes, climate corridors, or any climate-adaptation frameworks as defined in the codebook. It performs its own forest inventory analysis drawing on FIA data, conducts a county-level priority matrix, and references multiple partner plans, but does not perform or substantively incorporate any climate models, species distribution models, vulnerability assessments, or connectivity models in the range-shift science sense.",
+    "evidence_index": [
+      {
+        "text": "Forest pests such as destructive insects, infectious diseases, invasive species, incinerating wildfires, natural disasters, and climatic variations can all impact the existence of a thriving forest environment.",
+        "location": "Forest Health (Chapter 1)",
+        "relevant_elements": ["1.1", "3.5", "3.6"]
+      },
+      {
+        "text": "ecosystem carbon storage has changed as a result of multiple stresses and interactions among those stresses including land-cover change, climate variability, atmospheric composition (carbon dioxide and tropospheric ozone), precipitation chemistry (nitrogen composition), and natural disturbances such as fire.",
+        "location": "Carbon Sequestration (Chapter 1)",
+        "relevant_elements": ["1.1", "3.5"]
+      },
+      {
+        "text": "These differences among species groups may alter the composition of Alabama forests if drought episodes become more frequent and/or intense in the future. Because stand conditions can have significant effects on drought responses, forest management may be used as a tool to mitigate drought effects.",
+        "location": "Drought (Chapter 2, Adverse Weather Events)",
+        "relevant_elements": ["1.1", "3.5", "3.7"]
+      },
+      {
+        "text": "There have been normal variations in the climate which cause periodic, short-term forest pest problems. The extended drought in the fall of 2016 influenced the heightened populations of southern pine bark beetles in 2017.",
+        "location": "Forest Health Conclusion (Chapter 1)",
+        "relevant_elements": ["3.6", "3.5"]
+      },
+      {
+        "text": "Exceptionally warm temperatures outside of the normal season had significant influence on the number of highly destructive storms. More calamitous tornadoes traversed across the state and hurricanes registered as a category 4 and 5 pummeled the Southeast.",
+        "location": "Forest Health Conclusion (Chapter 1)",
+        "relevant_elements": ["3.5", "3.6"]
+      },
+      {
+        "text": "Tallowtree's inherent properties, combined with Alabama's landscape characteristics and climate, especially at elevations below 50m in gently sloping terrain, allow this species to be a successful invader.",
+        "location": "Invasive Species (Chapter 3)",
+        "relevant_elements": ["3.7"]
+      },
+      {
+        "text": "Forest fragmentation is the process of dividing a contiguous area of natural habitat into smaller, more isolated patches. Patches are separated by lands that are either degraded or transformed by land use change, which limits ecological interactions among patches.",
+        "location": "Forest Fragmentation (Chapter 3)",
+        "relevant_elements": ["1.4", "3.1"]
+      },
+      {
+        "text": "Forests become islands and peninsulas -patches of woods disconnected by roads, farms, suburbs, cities, and other human activities.",
+        "location": "Forest Fragmentation (Chapter 3)",
+        "relevant_elements": ["1.4"]
+      },
+      {
+        "text": "Fragmentation of Alabama forests can also have significant effects on biodiversity. When forests become fragmented, both wildlife and plant populations become increasingly isolated. This may lead to negative genetic consequences and in some cases local extirpation of remnant populations.",
+        "location": "Forest Fragmentation (Chapter 3)",
+        "relevant_elements": ["1.3", "1.4"]
+      },
+      {
+        "text": "Priority Areas were set at the county level using input from stakeholders, past threat occurrence, and the Southern Forest Land Assessment. There were 13 categories included in the threat matrix to develop the areas of highest priority.",
+        "location": "Chapter 4 – Establishment of Priority Areas",
+        "relevant_elements": ["4.1", "3.1"]
+      },
+      {
+        "text": "Through discussion within our AFC Task Force, it was decided that, because services are delivered and tracked at the county level, it would be most effective to set Priority Areas at the county level.",
+        "location": "Chapter 4 – Establishment of Priority Areas",
+        "relevant_elements": ["4.1", "3.1"]
+      },
+      {
+        "text": "Protect existing large, unfragmented significant tracts of forest. Acquire or purchase conservation easements to protect significant blocks (>1,000 acre parcels) of high-quality examples of this habitat.",
+        "location": "Alabama State Wildlife Action Plan (Chapter 5)",
+        "relevant_elements": ["4.1", "4.2"]
+      },
+      {
+        "text": "The AFC will actively pursue grant funding opportunities and partnerships that are consistent with its overall mission and will further goals associated with the threat of forest fragmentation.",
+        "location": "Forest Fragmentation (Chapter 4, Long-term Strategies)",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "Contribution to Climate Change Mitigation and Adaptation",
+        "location": "Alabama Forestry Commission: Forest Stewardship (Chapter 5 / Appendix area)",
+        "relevant_elements": ["4.5", "1.1"]
+      },
+      {
+        "text": "Counties achieved total scores based on the full matrix and were ranked by score to determine Priority Areas.",
+        "location": "Chapter 4 – Establishment of Priority Areas",
+        "relevant_elements": ["4.1"]
+      },
+      {
+        "text": "Results will be measured through increases in acres under management and TREASURE Forest certifications. Tracking these results across the focus counties will serve to show us where we are succeeding and where we need to refocus efforts.",
+        "location": "Forest Fragmentation (Chapter 4, Long-term Strategies)",
+        "relevant_elements": ["4.3"]
+      },
+      {
+        "text": "By December, there were numerous reports of dying trees, especially pines in northern Alabama where the drought was most severe. Aerial surveys were initiated in January 2017 to detect beetle infestations and other drought-related pests.",
+        "location": "Engraver Beetle, Ips spp. (Chapter 1, Forest Health)",
+        "relevant_elements": ["3.5", "3.6"]
+      },
+      {
+        "text": "The drought was a factor which caused pines to become stressed and more susceptible to a beetle attack. Another factor was the mild winter that increased the survival of overwintering beetles.",
+        "location": "Southern Pine Beetle, Dendroctonus frontalis (Chapter 1, Forest Health)",
+        "relevant_elements": ["3.5", "3.6"]
+      },
+      {
+        "text": "Invasive species can significantly alter ecosystem processes and functions. This can result in major environmental damage and economic losses, amounting to $120 billion annually in the United States alone.",
+        "location": "Invasive Species (Chapter 3)",
+        "relevant_elements": ["3.7"]
+      },
+      {
+        "text": "This highly invasive pest permanently alters plant and animal communities, increases fire frequency and intensity, and requires extensive investment to control.",
+        "location": "Multi-State Priority Area: Cogongrass (Chapter 4)",
+        "relevant_elements": ["3.7"]
+      },
+      {
+        "text": "Rainfall (and on rare occasions, snow) varies seasonally, annually, and geographically. Unusual dry periods sometimes affect specific portions of Alabama more than others. Such dry periods are a normal component of the climate system.",
+        "location": "Drought (Chapter 2, Adverse Weather Events)",
+        "relevant_elements": ["3.5"]
+      },
+      {
+        "text": "Several dynamics impact the ability of Alabama's forests to sequester carbon. An Auburn University School of Forestry & Wildlife Sciences study showed that 'ecosystem carbon storage has changed as a result of multiple stresses...'",
+        "location": "Carbon Sequestration (Chapter 1)",
+        "relevant_elements": ["1.1", "3.5"]
+      },
+      {
+        "text": "The annual count of enrolled locations is an effective barometer of this effort... The AFC's urban foresters have been leaders on disaster response Urban Forest Strike Teams.",
+        "location": "Loss of Ecosystem Services (Chapter 4, Long-term Strategies)",
+        "relevant_elements": ["4.3"]
+      },
+      {
+        "text": "Beginning with a detailed assessment of the community's infrastructure and population, along with the area's history of wildfire, it is then possible to work out goals and objectives that the plan aims to accomplish, with action items numbered to provide direction for next steps. By establishing the funding needed and a feasible timetable, concrete actions can be undertaken and records kept of accomplishments.",
+        "location": "Adverse Weather Events (Chapter 4, Long-term Strategies)",
+        "relevant_elements": ["4.3"]
+      }
+    ]
+  },
+  "concepts": {
+    "climate_vulnerability": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Forest pests such as destructive insects, infectious diseases, invasive species, incinerating wildfires, natural disasters, and climatic variations can all impact the existence of a thriving forest environment.",
+          "location": "Forest Health (Chapter 1)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document discusses climate variability as a threat to forests and notes that drought, weather events, and temperature affect forest health. However, it never uses 'climate vulnerability,' 'climate exposure,' or 'adaptive capacity' in the IPCC sense. There is no decomposition of vulnerability into exposure and adaptive capacity. The document treats climate as a background stressor among many; no explicit climate-vulnerability framing meeting the codebook's score-2 threshold is present. Score 1 is appropriate because climate-related threat to forests is generically referenced, but without exposure or adaptive capacity decomposition."
+    },
+    "adaptive_capacity_specificity": {
+      "evaluable": true,
+      "score": 0,
+      "evidence": [],
+      "absence_note": "The document uses 'resilience' in a generic forest health sense (e.g., 'resilient forest') but never discusses adaptive capacity of species or ecosystems to climate change with any specificity. No components of adaptive capacity (dispersal, evolutionary potential, etc.) are connected to climate change framing."
+    },
+    "adaptive_capacity_components": {
+      "demography": {
+        "present": false,
+        "evidence": []
+      },
+      "distribution": {
+        "present": false,
+        "evidence": []
+      },
+      "movement": {
+        "present": false,
+        "evidence": []
+      },
+      "evolutionary_potential": {
+        "present": false,
+        "evidence": []
+      },
+      "ecological_dependencies": {
+        "present": false,
+        "evidence": []
+      },
+      "abiotic_niche": {
+        "present": false,
+        "evidence": []
+      },
+      "life_history": {
+        "present": false,
+        "evidence": []
+      }
+    },
+    "connectivity": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Habitat fragmentation is the process of dividing a contiguous area of natural habitat into smaller, more isolated patches. Patches are separated by lands that are either degraded or transformed by land use change, which limits ecological interactions among patches.",
+          "location": "Forest Fragmentation (Chapter 3)",
+          "sub_component": null,
+          "citations": ["Albers, 2017"]
+        }
+      ],
+      "absence_note": "The document discusses habitat connectivity and fragmentation extensively but entirely in the context of land use change and forest management — never in the context of climate-driven range shifts or as a mechanism supporting species distributional tracking of climate. The concept of wildlife corridors or connectivity is mentioned only in the fragmentation-reduction framing (protecting large contiguous tracts, conservation easements) with no climate-corridor or range-shift framing. Score 1 (generic connectivity) is appropriate; score 2 requires explicit climate-relevant framing which is absent."
+    }
+  },
+  "tools": {
+    "vulnerability_models": {
+      "evaluable": true,
+      "score": 0,
+      "named_tools": [],
+      "evidence": [],
+      "absence_note": "No vulnerability models (CCVI, PVA, etc.) are referenced anywhere in the document."
+    },
+    "niche_models": {
+      "evaluable": true,
+      "score": 0,
+      "named_tools": [],
+      "evidence": [],
+      "absence_note": "No species distribution models or niche models (MaxEnt, SDMs, etc.) are referenced anywhere in the document."
+    },
+    "climate_models": {
+      "evaluable": true,
+      "score": 0,
+      "named_tools": [],
+      "evidence": [],
+      "absence_note": "No climate models, GCMs, downscaled projections, RCPs, SSPs, or climate scenarios are referenced. The document discusses weather events and drought as threats but uses only historical NOAA data and observational records, not climate model projections.",
+      "time_horizon_years": [],
+      "emission_scenarios": []
+    },
+    "connectivity_models": {
+      "evaluable": true,
+      "score": 0,
+      "named_tools": [],
+      "evidence": [],
+      "absence_note": "No connectivity models (CircuitScape, Linkage Mapper, least-cost path, etc.) are referenced. The Southern Forest Land Assessment is used in the priority area matrix but is not a connectivity model. The Southern Wildfire Risk Assessment Portal (SouthWRAP) is mentioned but is a wildfire risk tool, not a connectivity model."
+    }
+  },
+  "context": {
+    "management_scale": {
+      "local": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Because services are delivered and tracked at the county level, it would be most effective to set Priority Areas at the county level.",
+            "location": "Chapter 4 – Establishment of Priority Areas",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "site": {
+        "present": false,
+        "evidence": []
+      },
+      "watershed": {
+        "present": false,
+        "evidence": []
+      },
+      "city": {
+        "present": false,
+        "evidence": []
+      },
+      "county": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Priority Areas were set at the county level using input from stakeholders, past threat occurrence, and the Southern Forest Land Assessment. There were 13 categories included in the threat matrix to develop the areas of highest priority.",
+            "location": "Chapter 4 – Establishment of Priority Areas",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "within_state_region": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Those employed in authoring the last Forest Action Plan located four areas where the nature of the threats involved necessitated multi-state cooperation to address the threat.",
+            "location": "Multi-State Priority Areas (Chapter 4)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "state": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The Plan is an effort to examine current conditions, trends, threats, and strategies for the AFC to use as a guide to ensure healthy Alabama forests into the future.",
+            "location": "Stakeholder Engagement (Executive Summary)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "multistate": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Multi-state Landscape Scale Restoration grants create the best opportunity for cross-state partnerships. While action has been devoted to addressing these threats over the last 10 years, these threats are such that continued action, often at the region level, is required to bring about successful outcomes.",
+            "location": "Multi-State Priority Areas (Chapter 4)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "national": {
+        "present": false,
+        "evidence": []
+      },
+      "transnational": {
+        "present": false,
+        "evidence": []
+      },
+      "ecosystem": {
+        "present": false,
+        "evidence": []
+      },
+      "ecoregion": {
+        "present": false,
+        "evidence": []
+      },
+      "province": {
+        "present": false,
+        "evidence": []
+      },
+      "section": {
+        "present": false,
+        "evidence": []
+      },
+      "subsection": {
+        "present": false,
+        "evidence": []
+      },
+      "lake": {
+        "present": false,
+        "evidence": []
+      },
+      "river": {
+        "present": false,
+        "evidence": []
+      },
+      "district": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["Alabama (state)", "Baldwin County", "Mobile County", "Black Belt counties", "Wiregrass region", "Gulf Coast Corridor", "Piedmont Crescent"]
+    },
+    "biological_unit_score": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Threatened and endangered species and candidate species, such as gopher tortoise (threatened and candidate in different areas), red-cockaded woodpecker (endangered), and the endemic red hills salamander (threatened), tend to have very specific habitat needs that often must be actively managed if these species are to be conserved.",
+          "location": "Loss of Ecosystem Services (Chapter 3)",
+          "sub_component": "species",
+          "citations": []
+        },
+        {
+          "text": "A healthy longleaf ecosystem needs viable populations of overstory longleaf pine trees, native understory vegetation, and native fauna.",
+          "location": "Multi-State Priority Area: Longleaf Pine (Chapter 4)",
+          "sub_component": "habitat/ecosystem",
+          "citations": []
+        }
+      ],
+      "absence_note": "The document discusses management at the species and habitat/ecosystem level in the context of forest threats and conservation. However, neither species nor habitat are discussed in relation to climate-driven range shifts. Score 2 is given because two biological units (species and habitat/ecosystem) are discussed in the same conservation context, though not specifically in a range-shift science context."
+    },
+    "biological_unit_components": {
+      "species": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Threatened and endangered species and candidate species, such as gopher tortoise (threatened and candidate in different areas), red-cockaded woodpecker (endangered), and the endemic red hills salamander (threatened), tend to have very specific habitat needs.",
+            "location": "Loss of Ecosystem Services (Chapter 3)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "population": {
+        "present": false,
+        "evidence": []
+      },
+      "habitat": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "A healthy longleaf ecosystem needs viable populations of overstory longleaf pine trees, native understory vegetation, and native fauna.",
+            "location": "Multi-State Priority Area: Longleaf Pine (Chapter 4)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Alabama's 50 forest types are more broadly defined within seven major forest type groups. The 'loblolly pine/ shortleaf pine' forest is the single most extensive, occupying 9.2 million acres of timberland.",
+            "location": "Forest Types (Chapter 1)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "community": {
+        "present": false,
+        "evidence": []
+      },
+      "genotype_phenotype": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["gopher tortoise", "red-cockaded woodpecker", "red hills salamander", "longleaf pine", "loblolly pine", "cogongrass", "Chinese tallowtree", "redbay", "sassafras", "white oak", "bobwhite quail", "emerald ash borer", "southern pine beetle"]
+    },
+    "partnerships_and_funding": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Over the life of this document, the AFC will actively pursue grant funding opportunities and partnerships that are consistent with its overall mission and will further goals associated with the threat of forest fragmentation.",
+          "location": "Forest Fragmentation (Chapter 4, Long-term Strategies)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document describes numerous partnerships (NRCS, USFS, Alabama SWAP, SFI, Nature Conservancy, SERPPAS, etc.) and funding mechanisms (GOMESA, federal grants, Forest Stewardship Program), but these are all oriented toward general forest management and wildfire response, not range-shift science or climate adaptation actions. Score 1 reflects aspirational funding language and broad partnerships described, but none specifically targeting range shifts or climate-driven distributional responses."
+    },
+    "climate_threat_habitat_degradation": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "These differences among species groups may alter the composition of Alabama forests if drought episodes become more frequent and/or intense in the future. Because stand conditions can have significant effects on drought responses, forest management may be used as a tool to mitigate drought effects.",
+          "location": "Drought (Chapter 2, Adverse Weather Events)",
+          "sub_component": null,
+          "citations": ["Klos, 2009"]
+        }
+      ],
+      "absence_note": "The document discusses drought and wildfires extensively as threats to forest habitat, and references that increased drought frequency could alter forest composition. This meets the threshold for score 1 (climate-induced habitat degradation discussed). However, the framing treats these as 'adverse weather events' and 'natural variation' rather than attributing them explicitly to anthropogenic climate change. The codebook instructs to lean in-scope for well-known climate-driven processes when climate change is engaged elsewhere; the document does reference climate variability throughout, making this a borderline in-scope case."
+    },
+    "climate_threat_species_vital_rates": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "The drought was a factor which caused pines to become stressed and more susceptible to a beetle attack. Another factor was the mild winter that increased the survival of overwintering beetles.",
+          "location": "Southern Pine Beetle, Dendroctonus frontalis (Chapter 1, Forest Health)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document describes how the 2016 drought directly caused tree mortality through bark beetle outbreaks, and how mild winters increased overwintering survival of insects leading to widespread pine mortality. This represents a climate event (drought/warm winter) directly causing species vital rate impacts (tree mortality, bark beetle survival). While not attributed to anthropogenic climate change explicitly, climate variability as a direct driver of vital rate impacts is described in specific mechanistic terms."
+    },
+    "climate_threat_biotic_stressors": {
+      "evaluable": true,
+      "score": 0,
+      "evidence": [],
+      "absence_note": "The document discusses invasive species (cogongrass, Chinese tallowtree, emerald ash borer, feral hogs) but does not frame any of their spread as climate-driven or climate-favored. The one mention of climate in relation to tallowtree invasion ('Alabama's landscape characteristics and climate, especially at elevations below 50m') refers to general suitability conditions, not climate change as a driver of range expansion. No phenological mismatch, trophic asynchrony, or community composition change attributed to climate is discussed."
+    }
+  },
+  "actions": {
+    "priority_habitat_identification": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Priority Areas were set at the county level using input from stakeholders, past threat occurrence, and the Southern Forest Land Assessment. There were 13 categories included in the threat matrix to develop the areas of highest priority.",
+          "location": "Chapter 4 – Establishment of Priority Areas",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Counties achieved total scores based on the full matrix and were ranked by score to determine Priority Areas. In the following, the counties scoring between 11 and 19 points in the matrix are described as 1st Priority, between 9 and 10 points are described as 2nd Priority, and 8 points or fewer are described as State Eligible.",
+          "location": "Chapter 4 – Establishment of Priority Areas",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document identifies priority areas at the county level with spatial representation (GIS-based county matrix, maps in appendices). However, priority areas are not specifically tied to range-shift science or climate adaptation—they are based on threats like fragmentation, invasive species, and wildfire. Score 2 is given because priority habitat identification is spatially explicit (county-level maps and GIS analysis) even though not range-shift motivated."
+    },
+    "targeted_range_shift_actions": {
+      "evaluable": true,
+      "score": 0,
+      "evidence": [],
+      "absence_note": "No actions targeting climate-driven range shifts are discussed. The document does not mention assisted migration, climate corridors, climate-motivated translocations, or any structural facilitation for range shifts. Conservation easements and fragmentation reduction are discussed, but not in a climate-shift framing."
+    },
+    "time_bound_and_monitoring": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Results will be measured through increases in acres under management and TREASURE Forest certifications. Tracking these results across the focus counties will serve to show us where we are succeeding and where we need to refocus efforts.",
+          "location": "Forest Fragmentation (Chapter 4, Long-term Strategies)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document is a 10-year plan with some references to tracking results and effectiveness, but action-level deadlines are absent. The Community Wildfire Protection Plans include feasible timetables, but these are not tied to range-shift or climate adaptation actions. Score 1 reflects that the plan has some temporal structure (10-year horizon, annual monitoring of wildfire, FIA data updates) but lacks action-level deadlines with paired effectiveness monitoring meeting the codebook's score-2 threshold."
+    },
+    "evidence_of_efficacy": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "The projects found that prioritizing relationships was critical. Combining legal assistance with forestry outreach created synergies that enabled landowners with heirs' property to implement forest management practices.",
+          "location": "Forest Fragmentation (Chapter 4, Long-term Strategies)",
+          "sub_component": null,
+          "citations": ["Schelhas, 2018"]
+        }
+      ],
+      "absence_note": "The document cites research and references general ecological principles to justify its strategies (e.g., BMPs for water quality, prescribed fire for habitat), but does not present specific efficacy data or case studies for climate adaptation actions. The Schelhas et al. citation provides limited evidence for landowner outreach approaches, and general ecological principles underlie most other strategies. Score 1 reflects rationale provided without strong efficacy evidence for the specific actions proposed.",
+      "projects": []
+    },
+    "adaptation_planning_frameworks": {
+      "evaluable": true,
+      "score": 0,
+      "evidence": [],
+      "absence_note": "The phrase 'Contribution to Climate Change Mitigation and Adaptation' appears in a list of Alabama Forestry Commission Forest Stewardship program issues, but this is a single bullet point label without any substantive discussion of climate adaptation planning frameworks (RAD, RRT, CCVA, adaptive management in a climate context, SBDA, etc.). No specific climate adaptation planning process or tool as defined in the codebook is engaged. The document's planning approach (10-year plan, county matrix, threat prioritization) is not framed in the context of climate change decision-making."
+    }
+  },
+  "coding_meta": {
+    "coder": "llm:claude-sonnet-4-6",
+    "model": "claude-sonnet-4-6",
+    "provider": "claude",
+    "codebook_version": "0.4",
+    "ingest": "text",
+    "design": "single",
+    "temperature": null,
+    "thinking": null,
+    "thinking_effort": null,
+    "coded_at": "2026-07-07T00:31:30Z",
+    "notes": {}
+  }
+}

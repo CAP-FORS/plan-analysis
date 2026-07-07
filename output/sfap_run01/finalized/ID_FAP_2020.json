@@ -1,0 +1,712 @@
+{
+  "document_meta": {
+    "title": "Idaho Forest Action Plan Resource Assessment and Resource Strategy",
+    "year": 2020,
+    "jurisdiction": "Idaho (state)",
+    "document_type": "Forest Action Plan (Resource Assessment + Resource Strategy)",
+    "document_id": "ID_FAP_2020",
+    "page_count": 167
+  },
+  "orientation": {
+    "summary": "This document is the 2020 Idaho Forest Action Plan (FAP), produced by the Idaho Department of Lands, comprising two parts: a Resource Assessment (geospatial analysis of forest threats and benefits) and a Resource Strategy (goals and strategies for priority landscape areas). The plan treats climate change as one of seven forest health threats, using a peer-reviewed published geospatial dataset (Rehfeldt et al. 2006 land-cover projections to 2030, 2060, and 2090) to model climate risk as landcover change, but does not perform its own climate modeling. Range shifts appear only obliquely: climate change is described as potentially modifying 'current ranges of forest species,' but the document does not analyze species-level range shift science. The plan is primarily a forest management prioritization tool organized around Priority Landscape Areas (PLAs), with goals around forest resilience, wildlife habitat, water quality, and wood products markets; climate adaptation is referenced generically as a goal dimension rather than analyzed or operationalized in depth.",
+    "evidence_index": [
+      {
+        "text": "climate change, which may modify current ranges of forest species and add additional stress to forests",
+        "location": "Discussion (Chapter 1, Issue: Relative Threats to Forest Health, ID_FAP-RA_2020.pdf)",
+        "relevant_elements": ["1.1", "C2", "3.5"]
+      },
+      {
+        "text": "Areas that were predicted to undergo the most frequent and drastic landcover type changes were identified through modeling and used as a proxy to show stress to forests due to climate change.",
+        "location": "Climate Change section, ID_FAP-RA_2020.pdf",
+        "relevant_elements": ["2.3", "3.5", "1.1"]
+      },
+      {
+        "text": "published geospatial data predicting landcover vegetation changes across the state due to climate change was selected.",
+        "location": "Climate Change section, ID_FAP-RA_2020.pdf",
+        "relevant_elements": ["2.3", "2.2"]
+      },
+      {
+        "text": "projected land cover rasters for 2030, 2060, and 2090 developed by Rehfeldt et al. 2006.",
+        "location": "Figure caption, Climate Change section, ID_FAP-RA_2020.pdf",
+        "relevant_elements": ["2.3", "2.2"]
+      },
+      {
+        "text": "Climate change was modeled as a forest health threat, even though it is also a factor in several other forest threats and benefits included in the 2020 Idaho FAP (wildfire, water quality, wildlife, etc.).",
+        "location": "Climate Change section, ID_FAP-RA_2020.pdf",
+        "relevant_elements": ["1.1", "3.5", "3.6", "3.7"]
+      },
+      {
+        "text": "These include forest insects and diseases that result in tree mortality; noxious weeds which compromise the health and composition of forest stands; and climate change, which may modify current ranges of forest species and add additional stress to forests.",
+        "location": "Discussion (Relative Threats to Forest Health), ID_FAP-RA_2020.pdf",
+        "relevant_elements": ["1.1", "C2", "3.5"]
+      },
+      {
+        "text": "Goal 1: Idaho's Forests are diverse and resilient to climatic changes and other threats (fire, insects, disease, noxious weeds, etc.)",
+        "location": "Goals and Strategies table, ID_FAP-S_2020.pdf",
+        "relevant_elements": ["1.1", "1.2", "4.5"]
+      },
+      {
+        "text": "Develop a statewide strategy to address climate change and anticipated impacts to forest conditions in Idaho. Include statewide inventory and analysis of conditions and targeted strategies across ownerships to improve resilience and to adapt to changing conditions.",
+        "location": "STATEWIDE Key Strategies, ID_FAP-S_2020.pdf",
+        "relevant_elements": ["4.5", "4.2", "4.3", "1.2"]
+      },
+      {
+        "text": "The threats identified in the Forest Action Plan Resources-forest health, uncharacteristic wildfire, development and recreation-are driven by changes in climate, economic conditions, demographics, and other environmental conditions and social values.",
+        "location": "Managing Stressors and Long-Term Health of Idaho's Forests, ID_FAP-S_2020.pdf",
+        "relevant_elements": ["1.1", "3.5", "3.7"]
+      },
+      {
+        "text": "Within the next five years, as part of the FAP revision, convene a group of partners to look more broadly at causal factors and stressors to Idaho forests and identify even longer-term strategies to address these. These factors include changes in climate, demographics, economics, and social values.",
+        "location": "Managing Stressors and Long-Term Health of Idaho's Forests, ID_FAP-S_2020.pdf",
+        "relevant_elements": ["4.3", "4.5", "3.4"]
+      },
+      {
+        "text": "Species of Concern: Species of state and/or national conservation importance, including those vulnerable to extinction or those undergoing regional decline or other species requiring special management attention. Idaho defined their Species of Concern list using State Wildlife Action Plan 'Species of Greatest Conservation Need' and NatureServe conservation status rankings",
+        "location": "Table 1 (CHAT data definitions), ID_FAP-RA_2020.pdf",
+        "relevant_elements": ["1.1", "2.1", "3.3"]
+      },
+      {
+        "text": "Landscape Condition: A measure of land cover impacted by human activities. WGA Landscape Integrity Workgroup used a NatureServe landscape condition model to identify Large Intact Blocks and Important Connectivity Zones.",
+        "location": "Table 1 (CHAT data definitions), ID_FAP-RA_2020.pdf",
+        "relevant_elements": ["1.4", "2.4", "3.1"]
+      },
+      {
+        "text": "Stressors such as drought increase forest susceptibility to infestations of insects, pathogens, and disease.",
+        "location": "COHESIVE STRATEGY section, ID_FAP-S_2020.pdf",
+        "relevant_elements": ["3.5", "3.7", "3.6"]
+      },
+      {
+        "text": "The threat of wildfires has increased due to changes in climate, additional mortality from insects and disease, increasing human population across landscapes",
+        "location": "Issue: Relative Threat to Communities and Ecosystems from Wildland Fire, ID_FAP-S_2020.pdf",
+        "relevant_elements": ["3.5", "3.6", "1.1"]
+      },
+      {
+        "text": "The Western Region's diverse landscapes which include expanding wildland urban interface, steep terrain, access limitations, changing climate conditions, invasive species, and extended drought challenge wildland fire managers.",
+        "location": "COHESIVE STRATEGY section, ID_FAP-S_2020.pdf",
+        "relevant_elements": ["3.5", "3.7"]
+      },
+      {
+        "text": "Noxious weeds can negatively impact forest health by competing with natural forest vegetation, altering resources for wildlife, and in some cases, increasing the risk of wildfire.",
+        "location": "Terrestrial noxious weeds section, ID_FAP-RA_2020.pdf",
+        "relevant_elements": ["3.7"]
+      },
+      {
+        "text": "used a statewide climate change model to replace the previously used species change modeling",
+        "location": "Summary of Changes in the June 2020 update, ID_FAP-S_2020.pdf",
+        "relevant_elements": ["2.3", "2.2"]
+      },
+      {
+        "text": "Cells were classified from 0 -3 based on the number of changes in land cover (0= no landcover type change, to 3= three landcover type changes throughout the forecasting period). Higher numbers reflect greater climate change stress to forests.",
+        "location": "Figure caption, Climate Change section, ID_FAP-RA_2020.pdf",
+        "relevant_elements": ["2.3", "3.5"]
+      },
+      {
+        "text": "The Idaho Resource Assessment -a geospatial analysis -identifies seven main issues affecting Idaho forestlands (threats and potential benefits). Threats to forests include wildfire, forest health decline, and development pressure.",
+        "location": "Forest Action Plan: Resource Assessment, ID_FAP-S_2020.pdf",
+        "relevant_elements": ["3.5", "4.1"]
+      },
+      {
+        "text": "From this map, another spatial analysis was developed denoting Priority Landscape Areas (page 51). These are generalized areas in which goals and strategies will be developed.",
+        "location": "Final Idaho Forest Action Plan Resource Assessment Map, ID_FAP-RA_2020.pdf",
+        "relevant_elements": ["4.1"]
+      },
+      {
+        "text": "Idaho compiled data encompassing several data types and layers of information (Table 1), including habitat for species of concern (terrestrial and aquatic), landscape condition (a summary of native and unfragmented habitat which prioritizes large natural areas and connectivity zones between them), wetlands and riparian areas",
+        "location": "Data used (Relative Potential Benefit to Wildlife and Biodiversity), ID_FAP-RA_2020.pdf",
+        "relevant_elements": ["1.4", "3.3", "2.4"]
+      },
+      {
+        "text": "Promote wildlife connectivity between undeveloped areas",
+        "location": "Appendix G (Forest Legacy Program Objectives), ID_FAP-S_2020.pdf",
+        "relevant_elements": ["1.4", "4.2"]
+      },
+      {
+        "text": "Acres of connected forest resulting from S&PF investments",
+        "location": "State and Private Forestry Performance Measures, ID_FAP-S_2020.pdf",
+        "relevant_elements": ["1.4", "4.3"]
+      },
+      {
+        "text": "A diverse group of partners is participating, including: • Idaho Department of Environmental Quality",
+        "location": "Introduction Background and Purpose, ID_FAP-RA_2020.pdf",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "The USDI Bureau of Land Management, USDA Forest Service (State and Private Forestry and the National Forest System) and USDA Natural Resources Conservation Service are the primary Federal forestland management agencies in Idaho. Each had representatives who actively participated on the Core Assessment and Strategy teams.",
+        "location": "Figure (compliance checklist), ID_FAP-S_2020.pdf",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "The FAP Resource Strategy is a long-term, comprehensive, coordinated strategy for investing state, federal, and leveraged partner resources.",
+        "location": "Forest Action Plan: Resource Strategy, ID_FAP-S_2020.pdf",
+        "relevant_elements": ["3.4", "4.3"]
+      },
+      {
+        "text": "This document will be updated periodically to reflect adjustments and remain relevant and useful, and full FAP updates, including the assessment and strategy development, will be completed at ten-year intervals.",
+        "location": "Process section, ID_FAP-S_2020.pdf",
+        "relevant_elements": ["4.3"]
+      },
+      {
+        "text": "BWA-caused mortality is more severe in southern Idaho, possibly due to the drier climate conditions. Mortality of grand fir in southern Idaho may be due to the presence of a grand fir/white fir hybrid",
+        "location": "Balsam Wooly Adelgid section, ID_FAP-RA_2020.pdf",
+        "relevant_elements": ["3.5", "3.6"]
+      },
+      {
+        "text": "Fragmentation -The process by which large continuous tracts of forestland are broken into smaller, disconnected units.",
+        "location": "Appendix A - Definitions, ID_FAP-S_2020.pdf",
+        "relevant_elements": ["1.4"]
+      },
+      {
+        "text": "In addition to considering host type basal area, risk was modeled to be higher in southern Idaho than in northern Idaho. This is because recent observations by entomologists suggest that BWA-caused mortality is more severe in southern Idaho, possibly due to the drier climate conditions.",
+        "location": "Balsam Wooly Adelgid section, ID_FAP-RA_2020.pdf",
+        "relevant_elements": ["3.5", "1.1"]
+      },
+      {
+        "text": "used a statewide climate change model to replace the previously used species change modeling. For Wildlife the State Wildlife Action Plan was completely redone by Idaho Department of Fish and Game",
+        "location": "Summary of Changes in the June 2020 update, ID_FAP-S_2020.pdf",
+        "relevant_elements": ["2.3", "3.3"]
+      },
+      {
+        "text": "Wildfires fueled by juniper burn at greater intensities, decreasing understory vegetation, increasing soil erosion, and facilitating spread of invasive plants such as cheatgrass and medusahead rye.",
+        "location": "Sage-Steppe Special Landscape Area, ID_FAP-S_2020.pdf",
+        "relevant_elements": ["3.7", "3.5"]
+      },
+      {
+        "text": "fire occurrence has gone from once every 60 to 100 years, to once every 3 to 5 years.",
+        "location": "Sage-Steppe Special Landscape Area, ID_FAP-S_2020.pdf",
+        "relevant_elements": ["3.5", "3.7"]
+      },
+      {
+        "text": "Since completion of [the 2010 FAP], these issues have gained greater attention, and the restoration of Sage-Steppe areas to reduce wildfire risk is now a national priority.",
+        "location": "Sage-Steppe section, ID_FAP-S_2020.pdf",
+        "relevant_elements": ["4.2", "4.1"]
+      },
+      {
+        "text": "An important overarching goal is to manage for reduced stress and the long-term health of forest systems throughout Idaho.",
+        "location": "Managing Stressors and Long-Term Health of Idaho's Forests, ID_FAP-S_2020.pdf",
+        "relevant_elements": ["4.5", "1.2"]
+      },
+      {
+        "text": "the goal is to gain understanding of the higher-level 'drivers' of forest stress and change and to be 'out in front' with strategies for adaptation to these changes and mitigation of the impacts.",
+        "location": "Managing Stressors and Long-Term Health of Idaho's Forests, ID_FAP-S_2020.pdf",
+        "relevant_elements": ["4.5", "1.2", "4.3"]
+      },
+      {
+        "text": "State wildlife action plans (required) ... Data from the Comprehensive Wildlife Conservation Strategy (CWCS)-including key wildlife and fish habitat and State Wildlife Focal Areas were included in the geospatial FAP Resource Assessment.",
+        "location": "Figure (compliance checklist), ID_FAP-S_2020.pdf",
+        "relevant_elements": ["3.3", "3.4", "2.1"]
+      },
+      {
+        "text": "IDL began implementing FAP strategies before the plan was finalized and is the reason the Accomplishment Report covers project work starting in 2008.",
+        "location": "Table (accomplishment note), ID_FAP-S_2020.pdf",
+        "relevant_elements": ["4.4"]
+      }
+    ]
+  },
+  "concepts": {
+    "climate_vulnerability": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "climate change, which may modify current ranges of forest species and add additional stress to forests. Not only do these factors damage forests ecologically, they have social and economic impacts as well.",
+          "location": "Discussion (Relative Threats to Forest Health), ID_FAP-RA_2020.pdf",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document references climate change as a threat to forests and uses a proxy model for stress, but does not decompose vulnerability into exposure vs. adaptive capacity in IPCC terms. There is no specific discussion of adaptive capacity of species or forests to climate change; only generic 'stress' and 'resilience to climatic changes' language appears. Score 1 (referenced non-specifically) rather than 2 or 3."
+    },
+    "adaptive_capacity_specificity": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Goal 1: Idaho's Forests are diverse and resilient to climatic changes and other threats (fire, insects, disease, noxious weeds, etc.)",
+          "location": "Goals and Strategies table, ID_FAP-S_2020.pdf",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The plan invokes resilience to climate change generically at the goal level but does not operationalize any specific component of adaptive capacity (e.g., dispersal, genetic diversity, physiological tolerance). Score 1 not 2."
+    },
+    "adaptive_capacity_components": {
+      "demography": {
+        "present": false,
+        "evidence": []
+      },
+      "distribution": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "climate change, which may modify current ranges of forest species and add additional stress to forests",
+            "location": "Discussion (Relative Threats to Forest Health), ID_FAP-RA_2020.pdf",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "movement": {
+        "present": false,
+        "evidence": []
+      },
+      "evolutionary_potential": {
+        "present": false,
+        "evidence": []
+      },
+      "ecological_dependencies": {
+        "present": false,
+        "evidence": []
+      },
+      "abiotic_niche": {
+        "present": false,
+        "evidence": []
+      },
+      "life_history": {
+        "present": false,
+        "evidence": []
+      }
+    },
+    "connectivity": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Promote wildlife connectivity between undeveloped areas",
+          "location": "Appendix G (Forest Legacy Program Objectives), ID_FAP-S_2020.pdf",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "landscape condition (a summary of native and unfragmented habitat which prioritizes large natural areas and connectivity zones between them)",
+          "location": "Table 1 (CHAT data definitions), ID_FAP-RA_2020.pdf",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "Connectivity is referenced generically (wildlife connectivity, connectivity zones) but is never explicitly framed as a mechanism for climate-driven range shifts. No 'climate corridor,' 'climate connectivity,' or similar climate-gradient framing appears. Score 1 not 2."
+    }
+  },
+  "tools": {
+    "vulnerability_models": {
+      "evaluable": true,
+      "score": 0,
+      "named_tools": [],
+      "evidence": [],
+      "absence_note": "No vulnerability models (CCVI, PVA, NatureServe CCVI, etc.) are referenced. The CHAT tool provides habitat prioritization but is not a climate vulnerability model. The document does note that the CWCS/SWAP species data were incorporated into CHAT, but this is not a vulnerability assessment framework."
+    },
+    "niche_models": {
+      "evaluable": true,
+      "score": 1,
+      "named_tools": [],
+      "evidence": [
+        {
+          "text": "published geospatial data predicting landcover vegetation changes across the state due to climate change was selected. Areas that were predicted to undergo the most frequent and drastic landcover type changes were identified through modeling",
+          "location": "Climate Change section, ID_FAP-RA_2020.pdf",
+          "sub_component": null,
+          "citations": ["Rehfeldt et al. 2006"]
+        },
+        {
+          "text": "used a statewide climate change model to replace the previously used species change modeling",
+          "location": "Summary of Changes in the June 2020 update, ID_FAP-S_2020.pdf",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document incorporates Rehfeldt et al. 2006 projected landcover rasters (2030, 2060, 2090) as a proxy for climate stress to forests. These represent vegetation/landcover distribution models under climate scenarios, which are analogous to niche/SDM outputs. However, no named niche model tool (MaxEnt, SDM, etc.) is cited, and the application is to a landscape landcover proxy rather than species-level distribution modeling. Score 1 (referenced generally, results applied indirectly) rather than 2, because the document uses the outputs of someone else's modeling as a proxy variable rather than applying niche modeling directly to focal species. Close call; could be argued as 2 if the Rehfeldt projections are treated as applied SDM outputs."
+    },
+    "climate_models": {
+      "evaluable": true,
+      "score": 2,
+      "named_tools": ["Rehfeldt et al. 2006 projected land cover rasters"],
+      "evidence": [
+        {
+          "text": "projected land cover rasters for 2030, 2060, and 2090 developed by Rehfeldt et al. 2006.",
+          "location": "Figure caption, Climate Change section, ID_FAP-RA_2020.pdf",
+          "sub_component": null,
+          "citations": ["Rehfeldt et al. 2006"]
+        },
+        {
+          "text": "Land cover rasters developed by Brown et al. 1998 were used as a baseline, and projected land cover rasters for 2030, 2060, and 2090 developed by Rehfeldt et al. 2006.",
+          "location": "Figure caption, Climate Change section, ID_FAP-RA_2020.pdf",
+          "sub_component": null,
+          "citations": ["Brown et al. 1998", "Rehfeldt et al. 2006"]
+        },
+        {
+          "text": "For each raster (Brown, 2030, 2060, and 2090) we reclassified landcovers into 2 categories: forest, or non-forest.",
+          "location": "Climate Change section, ID_FAP-RA_2020.pdf",
+          "sub_component": null,
+          "citations": ["Brown, 2030", "Brown, 2060", "Brown, 2090"]
+        }
+      ],
+      "absence_note": "The document applies climate-driven landcover projections (Rehfeldt et al. 2006) directly to the subject of the plan — Idaho's forests — to produce a climate change risk map used in final assessment scoring. This meets the 'applied' criterion. No specific GCM, RCP, or SSP is named; the projections are used as published outputs. Score 2.",
+      "time_horizon_years": [2030, 2060, 2090],
+      "emission_scenarios": []
+    },
+    "connectivity_models": {
+      "evaluable": true,
+      "score": 1,
+      "named_tools": ["WAFWA CHAT (Crucial Habitat Assessment Tool)"],
+      "evidence": [
+        {
+          "text": "The WAFWA CHAT was developed to bring greater certainty and predictability to planning efforts by establishing a common starting point for discussing the intersection of management and wildlife. CHAT is designed to incorporate wildlife values into land use planning, particularly at large scale.",
+          "location": "Discussion (Relative Potential Benefit to Wildlife and Biodiversity), ID_FAP-RA_2020.pdf",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Landscape Condition: A measure of land cover impacted by human activities. WGA Landscape Integrity Workgroup used a NatureServe landscape condition model to identify Large Intact Blocks and Important Connectivity Zones.",
+          "location": "Table 1 (CHAT data definitions), ID_FAP-RA_2020.pdf",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The CHAT tool incorporates connectivity zones as a data layer, and the document uses CHAT outputs in its assessment. However, CHAT is a habitat prioritization tool, not a connectivity model per se (no circuit theory, least-cost path, or resistance surface framing). The connectivity model output (NatureServe landscape condition model for connectivity zones) is referenced at one remove via CHAT. No explicit connectivity modeling (CircuitScape, Linkage Mapper, etc.) is named or applied. Score 1 (referenced generally through CHAT's embedded connectivity layer). Not scored as 2 because the connectivity modeling results are not applied to range-shift decisions for focal subjects."
+    }
+  },
+  "context": {
+    "management_scale": {
+      "local": {
+        "present": false,
+        "evidence": []
+      },
+      "site": {
+        "present": false,
+        "evidence": []
+      },
+      "watershed": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Percent coverage of the noxious weeds within each 6th level hydrologic unit code (HUC) were obtained by taking the total count of noxious weed pixels",
+            "location": "Terrestrial noxious weeds section, ID_FAP-RA_2020.pdf",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "city": {
+        "present": false,
+        "evidence": []
+      },
+      "county": {
+        "present": false,
+        "evidence": []
+      },
+      "within_state_region": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The state was divided into northern and southern sections using the Salmon River as the dividing boundary.",
+            "location": "Final Idaho Forest Action Plan Resource Assessment Map, ID_FAP-RA_2020.pdf",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "state": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The Forest Resource Assessment provides a geospatial analysis of conditions and trends for all forested lands in Idaho.",
+            "location": "Introduction Background and Purpose, ID_FAP-RA_2020.pdf",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "multistate": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Some of Idaho's PLAs fall outside of the state border into neighboring states because an issue or issues within the PLAs warranted expansion of the particular PLA to capture a more meaningful scale of the issue(s).",
+            "location": "Development of Priority Landscape Areas, ID_FAP-S_2020.pdf",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "national": {
+        "present": false,
+        "evidence": []
+      },
+      "transnational": {
+        "present": false,
+        "evidence": []
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Sage-Steppe is the most widespread ecosystem type in the United States covering 111 million acres of the arid Intermountain West.",
+            "location": "Sage-Steppe Special Landscape Area, ID_FAP-S_2020.pdf",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecoregion": {
+        "present": false,
+        "evidence": []
+      },
+      "province": {
+        "present": false,
+        "evidence": []
+      },
+      "section": {
+        "present": false,
+        "evidence": []
+      },
+      "subsection": {
+        "present": false,
+        "evidence": []
+      },
+      "lake": {
+        "present": false,
+        "evidence": []
+      },
+      "river": {
+        "present": false,
+        "evidence": []
+      },
+      "district": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["Idaho (statewide)", "Priority Landscape Areas (PLAs)", "Salmon River (north-south dividing boundary)", "Sage-Steppe Special Landscape Area", "HUC 6th level sub-watersheds", "USFS Regions 1 and 4"]
+    },
+    "biological_unit_score": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "climate change, which may modify current ranges of forest species and add additional stress to forests",
+          "location": "Discussion (Relative Threats to Forest Health), ID_FAP-RA_2020.pdf",
+          "sub_component": "species",
+          "citations": []
+        },
+        {
+          "text": "Areas that were predicted to undergo the most frequent and drastic landcover type changes were identified through modeling and used as a proxy to show stress to forests due to climate change.",
+          "location": "Climate Change section, ID_FAP-RA_2020.pdf",
+          "sub_component": "habitat/ecosystem",
+          "citations": []
+        }
+      ],
+      "absence_note": "Two biological units are discussed in range-shift contexts: species (ranges of forest species potentially modified by climate) and habitat/ecosystem (forest landcover changes used as a proxy for climate stress). Score 2."
+    },
+    "biological_unit_components": {
+      "species": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "climate change, which may modify current ranges of forest species and add additional stress to forests",
+            "location": "Discussion (Relative Threats to Forest Health), ID_FAP-RA_2020.pdf",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "population": {
+        "present": false,
+        "evidence": []
+      },
+      "habitat": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Areas that were predicted to undergo the most frequent and drastic landcover type changes were identified through modeling and used as a proxy to show stress to forests due to climate change.",
+            "location": "Climate Change section, ID_FAP-RA_2020.pdf",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Sage-Steppe is also one of the most imperiled ecosystems in the United States.",
+            "location": "Sage-Steppe Special Landscape Area, ID_FAP-S_2020.pdf",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "community": {
+        "present": false,
+        "evidence": []
+      },
+      "genotype_phenotype": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["forest species (unnamed; generic)", "greater sage-grouse", "bark beetle host species (lodgepole pine, Engelmann spruce, ponderosa pine, Douglas-fir)", "subalpine fir, grand fir (balsam woolly adelgid hosts)", "western white pine, whitebark pine, limber pine (white pine blister rust hosts)", "Sage-Steppe ecosystem", "Idaho forests (general)"]
+    },
+    "partnerships_and_funding": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "The USDI Bureau of Land Management, USDA Forest Service (State and Private Forestry and the National Forest System) and USDA Natural Resources Conservation Service are the primary Federal forestland management agencies in Idaho. Each had representatives who actively participated on the Core Assessment and Strategy teams.",
+          "location": "Figure (compliance checklist), ID_FAP-S_2020.pdf",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "On December 18, 2018, the State of Idaho executed a Shared Stewardship Agreement with the US Department of Agriculture (USDA) and the Forest Service Northern and Intermountain Regional Foresters.",
+          "location": "Appendix I - Idaho Shared Stewardship, ID_FAP-S_2020.pdf",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "The Idaho Department of Lands has committed financial and staff resources to ensuring the continued expansion of Shared Stewardship throughout Idaho.",
+          "location": "Shared Stewardship section, ID_FAP-S_2020.pdf",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The plan demonstrates active, named partnerships (BLM, USFS, NRCS, Tribes, NGOs, counties) and a formal signed Shared Stewardship Agreement with dedicated financial resources. While these partnerships are not specifically for range-shift management, they are the operative framework for implementing the plan's forest management strategies, which include climate change response. Score 2 reflects strategic investment with active named partnerships, even though the direct link to range-shift actions is limited."
+    },
+    "climate_threat_habitat_degradation": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "The threat of wildfires has increased due to changes in climate, additional mortality from insects and disease, increasing human population across landscapes",
+          "location": "Issue: Relative Threat to Communities and Ecosystems from Wildland Fire, ID_FAP-S_2020.pdf",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "The threats identified in the Forest Action Plan Resources-forest health, uncharacteristic wildfire, development and recreation-are driven by changes in climate, economic conditions, demographics, and other environmental conditions and social values.",
+          "location": "Managing Stressors and Long-Term Health of Idaho's Forests, ID_FAP-S_2020.pdf",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "Climate-driven habitat degradation (wildfire exacerbated by climate change, drought-driven stress) is discussed. Score 1."
+    },
+    "climate_threat_species_vital_rates": {
+      "evaluable": true,
+      "score": 0,
+      "evidence": [],
+      "absence_note": "The document discusses tree mortality from bark beetles, balsam woolly adelgid, root disease, and wildfire, but does not frame these as direct climate-driven impacts on vital rates per the codebook's requirement. The linkage is 'climate → drought → stress → beetle outbreak → mortality' (indirect, habitat/condition-mediated), not the direct 'climate event → vital rate impact' framing required for 3.6. The BWA section notes drier climate conditions may increase mortality severity but frames this as a habitat/stand condition effect rather than a direct vital rate impact. Score 0."
+    },
+    "climate_threat_biotic_stressors": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "150 years of fire exclusion and domestic livestock grazing have dramatically altered this landscape including significant expansion of native juniper into the ecosystem. Since the late 1800s, occurrence of western juniper in these areas has grown ten-fold, crowding out sagebrush and native grasses",
+          "location": "Sage-Steppe Special Landscape Area, ID_FAP-S_2020.pdf",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "The Western Region's diverse landscapes which include expanding wildland urban interface, steep terrain, access limitations, changing climate conditions, invasive species, and extended drought challenge wildland fire managers.",
+          "location": "COHESIVE STRATEGY section, ID_FAP-S_2020.pdf",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "Climate-driven biotic stressors are present but only weakly climate-framed. Invasive species (cheatgrass, noxious weeds) are mentioned in the context of changing conditions, and juniper expansion altering sagebrush communities is discussed in the Sage-Steppe section, though not explicitly attributed to climate change per se. The Cohesive Strategy section mentions changing climate conditions alongside invasive species as stressors. This meets threshold for score 1 given climate is named alongside invasive species expansion."
+    }
+  },
+  "actions": {
+    "priority_habitat_identification": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "From this map, another spatial analysis was developed denoting Priority Landscape Areas (page 51). These are generalized areas in which goals and strategies will be developed.",
+          "location": "Final Idaho Forest Action Plan Resource Assessment Map, ID_FAP-RA_2020.pdf",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "The Idaho Resource Assessment -a geospatial analysis -identifies seven main issues affecting Idaho forestlands (threats and potential benefits).",
+          "location": "Forest Action Plan: Resource Assessment, ID_FAP-S_2020.pdf",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "The Final Priority Map is developed by adding the composite threats data scores to the composite benefits map. This is done is such a way that 25 unique values are calculated, resulting in a five by five matrix.",
+          "location": "Chapter 3 - Final Maps Methodology, ID_FAP-RA_2020.pdf",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "Priority Landscape Areas are spatially mapped (maps referenced and described) and explicitly incorporate climate change as one threat factor, meeting the score 2 criterion for spatially represented priority habitat identification. The climate change risk layer is among the seven threats combined into the final map."
+    },
+    "targeted_range_shift_actions": {
+      "evaluable": true,
+      "score": 0,
+      "evidence": [],
+      "absence_note": "The document does not propose any targeted actions specifically to manage, facilitate, or respond to species range shifts. The mention that climate 'may modify current ranges of forest species' is descriptive risk framing, not an action. No assisted migration, climate corridor construction, species translocation, or structural facilitation specifically for range shifts is proposed. General forest management and restoration strategies are present but not framed around range shift management. Score 0."
+    },
+    "time_bound_and_monitoring": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Within the next five years, as part of the FAP revision, convene a group of partners to look more broadly at causal factors and stressors to Idaho forests and identify even longer-term strategies to address these.",
+          "location": "Managing Stressors and Long-Term Health of Idaho's Forests, ID_FAP-S_2020.pdf",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "This document will be updated periodically to reflect adjustments and remain relevant and useful, and full FAP updates, including the assessment and strategy development, will be completed at ten-year intervals.",
+          "location": "Process section, ID_FAP-S_2020.pdf",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The plan includes some time-bound language ('within the next five years,' 'ten-year intervals' for full updates) and references to periodic review. However, individual conservation actions in the strategy tables do not carry specific deadlines or effectiveness monitoring protocols. The plan-level revision cycle earns at most score 1 per the codebook. No action-level effectiveness monitoring for climate/range-shift actions is operationalized. Score 1."
+    },
+    "evidence_of_efficacy": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Because this issue is so complex, we felt that it was important to use peer-reviewed, published datasets that were analyzed and produced by academic experts.",
+          "location": "Climate Change section, ID_FAP-RA_2020.pdf",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document references peer-reviewed datasets and academic expert analysis to justify the climate change modeling approach, which reflects general scientific rationale. However, no evidence of management action efficacy (case studies, post-action evaluations, demonstrations of treatment outcomes) is presented for climate-related actions. The rationale for using published datasets is a first-principles justification, scoring a 1 rather than 0 (which would imply no rationale at all).",
+      "projects": ["Rehfeldt et al. 2006 projected landcover rasters: The document incorporates peer-reviewed published landcover projections (2030, 2060, 2090) as a proxy for climate stress to forests, citing the need for 'peer-reviewed, published datasets analyzed by academic experts.' This provides limited evidence supporting the use of vegetation change as a climate threat metric, but is an indirect methodological justification rather than efficacy evidence for management actions.", "Brown et al. 1998 baseline land cover data: Used as the baseline against which projected change is measured. Provides methodological grounding for the assessment approach but does not constitute evidence of management action efficacy."]
+    },
+    "adaptation_planning_frameworks": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Develop a statewide strategy to address climate change and anticipated impacts to forest conditions in Idaho. Include statewide inventory and analysis of conditions and targeted strategies across ownerships to improve resilience and to adapt to changing conditions.",
+          "location": "STATEWIDE Key Strategies, ID_FAP-S_2020.pdf",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "the goal is to gain understanding of the higher-level 'drivers' of forest stress and change and to be 'out in front' with strategies for adaptation to these changes and mitigation of the impacts.",
+          "location": "Managing Stressors and Long-Term Health of Idaho's Forests, ID_FAP-S_2020.pdf",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document references climate adaptation planning in a non-specific way — developing strategies to adapt to climate change, improving resilience — but does not reference any named climate adaptation planning framework (RAD, RRT, CCVA, Structured Decision Making, adaptation menu, scenario planning, etc.). Score 1 (referenced generically) not 2."
+    }
+  },
+  "coding_meta": {
+    "coder": "llm:claude-sonnet-4-6",
+    "model": "claude-sonnet-4-6",
+    "provider": "claude",
+    "codebook_version": "0.4",
+    "ingest": "text",
+    "design": "single",
+    "temperature": null,
+    "thinking": null,
+    "thinking_effort": null,
+    "coded_at": "2026-07-07T00:31:30Z",
+    "notes": {}
+  }
+}

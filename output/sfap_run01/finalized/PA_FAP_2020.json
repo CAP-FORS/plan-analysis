@@ -1,0 +1,752 @@
+{
+  "document_meta": {
+    "title": "Pennsylvania Forest Action Plan 2020",
+    "year": 2020,
+    "jurisdiction": "Pennsylvania (DCNR Bureau of Forestry)",
+    "document_type": "Forest Action Plan (State)",
+    "document_id": "PA_FAP_2020",
+    "page_count": 681
+  },
+  "orientation": {
+    "summary": "This is the 2020 Pennsylvania Forest Action Plan (PA FAP), a state-level planning document produced by the Pennsylvania Department of Conservation and Natural Resources (DCNR) Bureau of Forestry, required by the 2018 Farm Bill and submitted to the USDA Forest Service. The document assesses conditions and trends across all Pennsylvania forest ownerships and establishes long-term strategies across 11 priority issues. The plan engages climate change as a serious threat to forest health, composition, and function — dedicating a full chapter (Issue 4) to climate change impacts and adaptation/mitigation strategies. Range shifts are explicitly discussed: projected northward shifts of tree species, expansion of southern species, and the need to facilitate species movement through connectivity and assisted migration are all mentioned, though these discussions are generally qualitative rather than quantitative. The document references external analyses (e.g., The Nature Conservancy's Resilient and Connected Landscapes, the Mid-Atlantic Forest Ecosystem Vulnerability Assessment) rather than performing its own niche modeling or climate modeling; it also includes the Forest Legacy Program Assessment of Need as an appended document.",
+    "evidence_index": [
+      {
+        "text": "DCNR's Climate Change Adaptation and Mitigation Plan --developed with the Northern Institute of Applied Climate Science --outlines 123 action steps to be undertaken to make the commonwealth more resilient to potential impacts from a changing climate.",
+        "location": "Issue 4: Climate Change - Issue Discussion",
+        "relevant_elements": ["1.1", "4.5"]
+      },
+      {
+        "text": "The resulting plan includes objectives to prepare for and mitigate the risks associated with potential climate impacts to Pennsylvania, including higher temperatures and more extreme weather events, range shifts for wildlife and plant species, and an increase in invasive species.",
+        "location": "Issue 4: Climate Change - Issue Discussion",
+        "relevant_elements": ["1.1", "2.1", "3.7"]
+      },
+      {
+        "text": "Species with low adaptive capacity such as those with specialized habitat needs or limited dispersal ability face higher vulnerability to these changes.",
+        "location": "Issue 4: Climate Change - Issue Discussion (implied from context; see Projected Impacts section)",
+        "relevant_elements": ["1.1", "1.2", "1.3"]
+      },
+      {
+        "text": "Pennsylvania has already seen measurable changes in temperature, precipitation, and storm intensity from climate change. As noted in the DCNR Climate Change Adaptation and Mitigation plan, since the early 20th century, the commonwealth has seen a temperature increase of more than 1.8° F.",
+        "location": "Issue 4: Climate Change - Current Impacts on Pennsylvania Forests",
+        "relevant_elements": ["1.1", "3.5"]
+      },
+      {
+        "text": "Climate change will increase the loss of species that already appear stressed, such as black cherry and sugar maple, and likely limit habitat for other northern hardwood species in Pennsylvania. Some species in the southern part of the state, such as oaks and hickories, may expand their range to the north.",
+        "location": "Issue 4: Climate Change - Projected Impacts on Pennsylvania Forests",
+        "relevant_elements": ["1.1", "1.3", "3.2", "3.3"]
+      },
+      {
+        "text": "For a species-specific list of changes in probable habitat due to climate change, please see the Mid-Atlantic Forest Ecosystem Vulnerability Assessment and Synthesis.",
+        "location": "Issue 4: Climate Change - Projected Impacts on Pennsylvania Forests",
+        "relevant_elements": ["2.1", "2.2"]
+      },
+      {
+        "text": "In certain instances, it may be appropriate to implement assisted migration strategies for certain tree species. Such strategies must be approached thoughtfully and following appropriate science-based recommendations and monitoring.",
+        "location": "Issue 4: Climate Change - Adaptation Strategies: Changing Forest Composition",
+        "relevant_elements": ["4.2"]
+      },
+      {
+        "text": "Forests should be managed for species, age, and functional diversity by selecting for species expected to adapt well to future conditions while permitting the establishment of species from across a greater geographic range.",
+        "location": "Issue 4: Climate Change - Adaptation Strategies: Changing Forest Composition",
+        "relevant_elements": ["4.2", "1.2", "1.3"]
+      },
+      {
+        "text": "Adaptation strategies for this vulnerability include identifying, surveying, managing, and monitoring plant and wildlife species and other natural resources most vulnerable to climate change. At-risk ecosystems must be conserved through land protection strategies across a range of sites and conditions to increase ecosystem redundancy.",
+        "location": "Issue 4: Climate Change - Adaptation Strategies: Rare Species",
+        "relevant_elements": ["4.1", "2.1", "1.1"]
+      },
+      {
+        "text": "This will necessitate changes in land conservation priorities to create an interconnected system of habitats that allow species to move north and to higher elevations in response to climate change.",
+        "location": "Issue 4: Climate Change - Adaptation Strategies: Fragmented Habitats",
+        "relevant_elements": ["1.4", "4.1", "4.2"]
+      },
+      {
+        "text": "Unique ecological sites and key tracts of land will be targeted for conservation through acquisitions, easements, forest landowner legacy planning, and stewardship plans to ensure habitat connectivity and potential migration corridors remain intact. Areas that have resisted or could potentially resist widespread climatic changes may be managed as refugia.",
+        "location": "Issue 4: Climate Change - Adaptation Strategies: Fragmented Habitats",
+        "relevant_elements": ["1.4", "4.1", "4.2"]
+      },
+      {
+        "text": "Spatial modeling suggests many invasive plant species that currently have a range south of Pennsylvania will aggressively expand in temperate broadleaf and mixed forests of the northeastern U.S. due to climate change.",
+        "location": "Issue 4: Climate Change - Current Impacts on Pennsylvania Forests",
+        "relevant_elements": ["3.7"]
+      },
+      {
+        "text": "Higher winter temperatures and longer, warmer growing seasons may allow insect pests to increase their range, population size and number of generations per year. These factors could increase forest damage from native insect pests (e.g., elm spanworm, forest tent caterpillar, two-lined chestnut borer) as well as nonnative pests (e.g., gypsy moth, hemlock wooly adelgid, emerald ash borer).",
+        "location": "Issue 4: Climate Change - Projected Impacts on Pennsylvania Forests",
+        "relevant_elements": ["3.7", "3.6"]
+      },
+      {
+        "text": "It is also likely that phenological changes will stress the relationships between plants, their insect pollinators, and animals such as migratory birds that depend on the insects for food.",
+        "location": "Issue 4: Climate Change - Projected Impacts on Pennsylvania Forests",
+        "relevant_elements": ["1.3", "3.7"]
+      },
+      {
+        "text": "Fragmentation also limits migration opportunities for many wildlife species, a concern that will continue to grow with the impacts of climate change.",
+        "location": "Issue 1 (Land Use) - Fragmentation section",
+        "relevant_elements": ["1.4", "4.2"]
+      },
+      {
+        "text": "For the purposes of identifying climate change priority areas in this Plan, the PA Resilient and Connected Network will be used. This analysis was completed by The Nature Conservancy and collaborators using areas with highest resiliency factors, such as microclimate and topographic diversity, and connectivity of habitat.",
+        "location": "Chapter 4 - Climate Change Priority Landscape Analysis",
+        "relevant_elements": ["4.1", "2.4", "1.4"]
+      },
+      {
+        "text": "These combined features help illuminate areas where efforts will produce the greatest impact on species' ability to adapt and relocate as conditions change in various climate change scenarios.",
+        "location": "Chapter 4 - Climate Change Priority Landscape Analysis",
+        "relevant_elements": ["4.1", "1.4", "4.2"]
+      },
+      {
+        "text": "As regional warming increases, high elevation ecosystems and species that require lower temperatures and specific forest systems may see available habitat shrink and could eventually become locally extinct if they are unable to migrate.",
+        "location": "Issue 8: Plant and Wildlife Habitat - Climate Change section",
+        "relevant_elements": ["1.1", "1.3", "3.2"]
+      },
+      {
+        "text": "The ranges of tree species in eastern North America have generally shifted northward as the climate has warmed over the past 14,000+ years since the last ice age. Historically, the ranges of different species have shifted differentially, resulting in changing forest community compositions over time. Climate change is expected to continue to shift the ranges of tree species generally northward.",
+        "location": "Issue 8: Plant and Wildlife Habitat - Climate Change section",
+        "relevant_elements": ["1.1", "3.2", "3.3"]
+      },
+      {
+        "text": "Land managers will likely face challenges in determining which species' migration ought to be facilitated and how.",
+        "location": "Issue 8: Plant and Wildlife Habitat - Climate Change section",
+        "relevant_elements": ["4.2"]
+      },
+      {
+        "text": "Additionally, with increasing temperatures changes are anticipated in the timing of recurring natural phenomena like budding, flowering, pollination and breeding which may have significant effects on the ability of plants to regenerate.",
+        "location": "Issue 8: Plant and Wildlife Habitat - Climate Change section",
+        "relevant_elements": ["3.7", "1.3"]
+      },
+      {
+        "text": "Increased moisture due to more frequent weather events over the past ten years has caused new problems with root diseases, increased stress from too much moisture over shorter periods of time enabling secondary insect pests and diseases to attack the stressed trees.",
+        "location": "Indicator 7 (Forest Health and Vitality)",
+        "relevant_elements": ["3.5", "3.6"]
+      },
+      {
+        "text": "Pennsylvania's forests contain a wide breadth of forest types, but pressures from climate change, lack of or poor management, and other forest threats lead to a growing concern about the long-term sustainability of the commonwealth's forests.",
+        "location": "Indicator 2 (Forest type, size class, age class)",
+        "relevant_elements": ["1.1"]
+      },
+      {
+        "text": "Climate change has the potential to create significant challenges in maintaining infrastructure.",
+        "location": "Indicator 13 (Outdoor recreational participation and facilities)",
+        "relevant_elements": ["3.5"]
+      },
+      {
+        "text": "Threats to forests in general, especially riparian forests, impact water quality, such as hemlock wooly adelgid, emerald ash borer, invasive plants, and climate change.",
+        "location": "Indicator 10 (Water quality in forested areas)",
+        "relevant_elements": ["3.5"]
+      },
+      {
+        "text": "Exacerbation of decline complexes is expected, and examples of synergistic impacts of pathogens and abiotic factors related to changing climate are documented, such as in black cherry decline",
+        "location": "Indicator 7 (Area and percent of forest land affected by biotic and abiotic processes)",
+        "relevant_elements": ["3.6", "3.5"]
+      },
+      {
+        "text": "model-based climate change research predicts increasing occurrences of severe weather events, intense flooding, and prolonged warm seasons that will increase the amounts of recreation uses on public lands while threatening infrastructure.",
+        "location": "Issue 10: Forest Recreation - Managerial Capacity section",
+        "relevant_elements": ["3.5"]
+      },
+      {
+        "text": "Controlling these pests increases a forest's ability to withstand and adapt to climate change. High-value forests should be monitored closely for new and existing threats. Regeneration of a diverse composition of tree species through adaptive management and herbivory prevention can improve resilience to forest pests.",
+        "location": "Issue 4: Climate Change - Adaptation Strategies: Forest Pests",
+        "relevant_elements": ["4.3", "4.5"]
+      },
+      {
+        "text": "Because the specific nature of these changes is uncertain, foresters and other natural resource managers should take an adaptive approach to addressing these impacts, by investing more in managing for healthy, resilient forests with a high degree of biodiversity.",
+        "location": "Issue 4: Climate Change - Adaptation Strategies",
+        "relevant_elements": ["4.5", "4.3"]
+      },
+      {
+        "text": "Pennsylvania also contains significant populations of numerous species whose wide habitat ranges, but fragmented and sparsely distributed populations, make them critical conservation priorities from a genetic diversity standpoint.",
+        "location": "Issue 8: Plant and Wildlife Habitat - Issue Discussion",
+        "relevant_elements": ["1.3"]
+      },
+      {
+        "text": "This makes the maintenance of migratory corridors and connectivity between feeding and nesting sites for a diverse assemblage of species a critical conservation concern in the state.",
+        "location": "Issue 8: Plant and Wildlife Habitat - Issue Discussion",
+        "relevant_elements": ["1.4", "4.2"]
+      },
+      {
+        "text": "Climate Change Priority Landscape Analysis... These combined features help illuminate areas where efforts will produce the greatest impact on species' ability to adapt and relocate as conditions change in various climate change scenarios.",
+        "location": "Chapter 4 - Climate Change Priority Landscape Analysis",
+        "relevant_elements": ["4.1", "2.4"]
+      },
+      {
+        "text": "Selecting for species expected to fare well under changing conditions • Strategically conserving natural habitat to allow for migration and adaptation • Identifying and monitoring vulnerable ecosystems and species",
+        "location": "Issue 4: Climate Change Strategy Table",
+        "relevant_elements": ["4.1", "4.2", "1.1"]
+      },
+      {
+        "text": "Climate change is already beginning to impact Pennsylvania's forests... Spatial modeling suggests many invasive plant species that currently have a range south of Pennsylvania will aggressively expand in temperate broadleaf and mixed forests of the northeastern U.S. due to climate change.",
+        "location": "Issue 4: Climate Change - Current Impacts on Pennsylvania Forests",
+        "relevant_elements": ["3.7"]
+      },
+      {
+        "text": "Some tree diseases, especially those that benefit from wetter conditions and warmer winters, will also likely increase. Since invasive plants tend to quickly adapt and take advantage of disturbed sites, future climate impacts will likely favor these at the expense of native forest species.",
+        "location": "Issue 4: Climate Change - Projected Impacts on Pennsylvania Forests",
+        "relevant_elements": ["3.7", "3.6"]
+      },
+      {
+        "text": "Concern is also growing over how to sustain primary ecosystem functions such as nutrient, water, and carbon cycling while also sustaining as many native forms of biota and habitats as possible in the face of potential vegetation shifts due to global climate change.",
+        "location": "Issue 8: Plant and Wildlife Habitat - Climate Change section",
+        "relevant_elements": ["1.1", "3.2"]
+      },
+      {
+        "text": "3. Vulnerable Species and Ecosystems: Identify, survey, manage, and monitor species and ecosystems most vulnerable to climate change.",
+        "location": "Issue 4: Climate Change Strategy Table",
+        "relevant_elements": ["2.1", "4.1", "1.1"]
+      },
+      {
+        "text": "8. Unique Ecological Sites: Conserve unique ecological sites and key tracts of land through acquisitions, easements, and stewardship plans, with emphasis on refugia, habitat connectivity and migration corridors.",
+        "location": "Issue 4: Climate Change Strategy Table",
+        "relevant_elements": ["4.1", "1.4", "4.2"]
+      },
+      {
+        "text": "Also, DCNR has developed robust lease agreements...The Department of Conservation and Natural Resources has a legal mandate to provide protection from wildfire",
+        "location": "Issue 7: Wildland Fire",
+        "relevant_elements": []
+      },
+      {
+        "text": "climate change adds an additional level of uncertainty to the future impacts of both native and exotic forest pests. Some secondary pests that attack stressed trees may become more prevalent if certain tree hosts are exposed to increased drought, too much moisture, or other stress factors due to climate change",
+        "location": "Issue 2: Forest Health - Sub-Issue: Forest Insects and Diseases",
+        "relevant_elements": ["3.7", "3.6", "3.5"]
+      },
+      {
+        "text": "Climate change is likely to exacerbate the effects of invasive species. Invasive plants, as well as forest pests and diseases, are all likely to increase in occurrence and become more damaging due to changing climate.",
+        "location": "Issue 2: Forest Health - Sub-Issue: Invasive Plants",
+        "relevant_elements": ["3.7"]
+      }
+    ]
+  },
+  "concepts": {
+    "climate_vulnerability": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "The resulting plan includes objectives to prepare for and mitigate the risks associated with potential climate impacts to Pennsylvania, including higher temperatures and more extreme weather events, range shifts for wildlife and plant species, and an increase in invasive species.",
+          "location": "Issue 4: Climate Change - Issue Discussion",
+          "sub_component": "exposure",
+          "citations": []
+        },
+        {
+          "text": "Climate change will increase the loss of species that already appear stressed, such as black cherry and sugar maple, and likely limit habitat for other northern hardwood species in Pennsylvania. Some species in the southern part of the state, such as oaks and hickories, may expand their range to the north.",
+          "location": "Issue 4: Climate Change - Projected Impacts on Pennsylvania Forests",
+          "sub_component": "exposure",
+          "citations": []
+        },
+        {
+          "text": "As regional warming increases, high elevation ecosystems and species that require lower temperatures and specific forest systems may see available habitat shrink and could eventually become locally extinct if they are unable to migrate.",
+          "location": "Issue 8: Plant and Wildlife Habitat - Climate Change section",
+          "sub_component": "exposure",
+          "citations": []
+        }
+      ],
+      "absence_note": "The document extensively discusses climate exposure for forest species and ecosystems, including projected temperature increases, altered precipitation, and species range shifts. However, adaptive capacity in the technical IPCC sense (as a distinct component from exposure) is addressed only implicitly — e.g., species needing dispersal ability, limited movement due to fragmentation — but never explicitly labeled 'adaptive capacity' in a systematic framework. The document comes close to a score of 3 (both exposure and adaptive capacity) because it discusses species' ability to migrate and adapt, but the adaptive capacity framing is not operationalized as a distinct axis of vulnerability analysis. Score = 2 (exposure clearly present; adaptive capacity referenced implicitly but not as a formal component)."
+    },
+    "adaptive_capacity_specificity": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Forests should be managed for species, age, and functional diversity by selecting for species expected to adapt well to future conditions while permitting the establishment of species from across a greater geographic range.",
+          "location": "Issue 4: Climate Change - Adaptation Strategies: Changing Forest Composition",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "Adaptive capacity is referenced implicitly (ability to migrate, dispersal, fragmentation as a barrier) but never explicitly framed as 'adaptive capacity' with specific components enumerated. The document does not use the term 'adaptive capacity' as a concept applied to its focal species/habitats. Score = 1 (referenced non-specifically in general resilience and adaptation framing)."
+    },
+    "adaptive_capacity_components": {
+      "demography": {
+        "present": false,
+        "evidence": []
+      },
+      "distribution": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Climate change will increase the loss of species that already appear stressed, such as black cherry and sugar maple, and likely limit habitat for other northern hardwood species in Pennsylvania. Some species in the southern part of the state, such as oaks and hickories, may expand their range to the north.",
+            "location": "Issue 4: Climate Change - Projected Impacts on Pennsylvania Forests",
+            "sub_component": "distribution",
+            "citations": []
+          }
+        ]
+      },
+      "movement": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Fragmentation also limits migration opportunities for many wildlife species, a concern that will continue to grow with the impacts of climate change.",
+            "location": "Issue 1 (Land Use) - Fragmentation section",
+            "sub_component": "movement",
+            "citations": []
+          }
+        ]
+      },
+      "evolutionary_potential": {
+        "present": false,
+        "evidence": []
+      },
+      "ecological_dependencies": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "It is also likely that phenological changes will stress the relationships between plants, their insect pollinators, and animals such as migratory birds that depend on the insects for food.",
+            "location": "Issue 4: Climate Change - Projected Impacts on Pennsylvania Forests",
+            "sub_component": "ecological_dependencies",
+            "citations": []
+          }
+        ]
+      },
+      "abiotic_niche": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "trees in less-suitable habitats will be stressed and therefore more susceptible to other stressors including atmospheric deposition and both native and non-native insects and diseases.",
+            "location": "Issue 8: Plant and Wildlife Habitat - Climate Change section",
+            "sub_component": "abiotic_niche",
+            "citations": []
+          }
+        ]
+      },
+      "life_history": {
+        "present": false,
+        "evidence": []
+      }
+    },
+    "connectivity": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "This will necessitate changes in land conservation priorities to create an interconnected system of habitats that allow species to move north and to higher elevations in response to climate change.",
+          "location": "Issue 4: Climate Change - Adaptation Strategies: Fragmented Habitats",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Unique ecological sites and key tracts of land will be targeted for conservation through acquisitions, easements, forest landowner legacy planning, and stewardship plans to ensure habitat connectivity and potential migration corridors remain intact. Areas that have resisted or could potentially resist widespread climatic changes may be managed as refugia.",
+          "location": "Issue 4: Climate Change - Adaptation Strategies: Fragmented Habitats",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "These combined features help illuminate areas where efforts will produce the greatest impact on species' ability to adapt and relocate as conditions change in various climate change scenarios.",
+          "location": "Chapter 4 - Climate Change Priority Landscape Analysis",
+          "sub_component": null,
+          "citations": ["The Nature Conservancy collaborators"]
+        }
+      ],
+      "absence_note": {}
+    }
+  },
+  "tools": {
+    "vulnerability_models": {
+      "evaluable": true,
+      "score": 1,
+      "named_tools": ["Mid-Atlantic Forest Ecosystem Vulnerability Assessment and Synthesis"],
+      "evidence": [
+        {
+          "text": "For a species-specific list of changes in probable habitat due to climate change, please see the Mid-Atlantic Forest Ecosystem Vulnerability Assessment and Synthesis.",
+          "location": "Issue 4: Climate Change - Projected Impacts on Pennsylvania Forests",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document references the Mid-Atlantic Forest Ecosystem Vulnerability Assessment and Synthesis as an external resource but does not apply it systematically to its focal species/habitats. The DCNR Climate Change Adaptation and Mitigation Plan is mentioned as having identified vulnerabilities, but the plan itself is not described in enough detail to constitute applied vulnerability modeling in the codebook sense. Score = 1 (referenced generally)."
+    },
+    "niche_models": {
+      "evaluable": true,
+      "score": 0,
+      "named_tools": [],
+      "evidence": [],
+      "absence_note": "The document mentions the Climate Change Tree Atlas indirectly (through reference to the Mid-Atlantic Forest Ecosystem Vulnerability Assessment) and references spatial projections of habitat change, but does not reference any named niche/species distribution model and does not apply SDMs to focal species. No MaxEnt, BIOCLIM, INHABIT, or similar tool is mentioned."
+    },
+    "climate_models": {
+      "evaluable": true,
+      "score": 0,
+      "named_tools": [],
+      "evidence": [],
+      "absence_note": "Despite extensive discussion of projected climate change impacts, the document never references any specific GCM, RCP, SSP, CMIP product, or downscaling tool. Temperature projections are discussed qualitatively (e.g., '20 to 30 more days above 90°F by mid-century') citing the 2014 National Climate Assessment, but no climate model apparatus is named or applied to the document's focal subjects. This is a climate-aware document that does not use formal climate modeling.",
+      "time_horizon_years": [],
+      "emission_scenarios": []
+    },
+    "connectivity_models": {
+      "evaluable": true,
+      "score": 2,
+      "named_tools": ["PA Resilient and Connected Network (The Nature Conservancy)"],
+      "evidence": [
+        {
+          "text": "For the purposes of identifying climate change priority areas in this Plan, the PA Resilient and Connected Network will be used. This analysis was completed by The Nature Conservancy and collaborators using areas with highest resiliency factors, such as microclimate and topographic diversity, and connectivity of habitat.",
+          "location": "Chapter 4 - Climate Change Priority Landscape Analysis",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The PA Resilient and Connected Landscapes analysis (TNC) is incorporated into the plan's priority areas chapter and directly shapes management decisions — it is the basis for the Climate Change Priority Landscape map. This constitutes application to the document's focal subject (Pennsylvania forests). Score = 2."
+    }
+  },
+  "context": {
+    "management_scale": {
+      "local": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Unique ecological sites and key tracts of land will be targeted for conservation through acquisitions, easements, forest landowner legacy planning, and stewardship plans to ensure habitat connectivity and potential migration corridors remain intact.",
+            "location": "Issue 4: Climate Change - Adaptation Strategies: Fragmented Habitats",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "site": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Areas that have resisted or could potentially resist widespread climatic changes may be managed as refugia.",
+            "location": "Issue 4: Climate Change - Adaptation Strategies: Fragmented Habitats",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "watershed": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "This will necessitate changes in land conservation priorities to create an interconnected system of habitats that allow species to move north and to higher elevations in response to climate change.",
+            "location": "Issue 4: Climate Change - Adaptation Strategies: Fragmented Habitats",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "city": {
+        "present": false,
+        "evidence": []
+      },
+      "county": {
+        "present": false,
+        "evidence": []
+      },
+      "within_state_region": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "These combined features help illuminate areas where efforts will produce the greatest impact on species' ability to adapt and relocate as conditions change in various climate change scenarios.",
+            "location": "Chapter 4 - Climate Change Priority Landscape Analysis",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "state": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "For the purposes of identifying climate change priority areas in this Plan, the PA Resilient and Connected Network will be used. This analysis was completed by The Nature Conservancy and collaborators using areas with highest resiliency factors, such as microclimate and topographic diversity, and connectivity of habitat.",
+            "location": "Chapter 4 - Climate Change Priority Landscape Analysis",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "multistate": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The ranges of tree species in eastern North America have generally shifted northward as the climate has warmed over the past 14,000+ years since the last ice age.",
+            "location": "Issue 8: Plant and Wildlife Habitat - Climate Change section",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "national": {
+        "present": false,
+        "evidence": []
+      },
+      "transnational": {
+        "present": false,
+        "evidence": []
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "As regional warming increases, high elevation ecosystems and species that require lower temperatures and specific forest systems may see available habitat shrink and could eventually become locally extinct if they are unable to migrate.",
+            "location": "Issue 8: Plant and Wildlife Habitat - Climate Change section",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecoregion": {
+        "present": false,
+        "evidence": []
+      },
+      "province": {
+        "present": false,
+        "evidence": []
+      },
+      "section": {
+        "present": false,
+        "evidence": []
+      },
+      "subsection": {
+        "present": false,
+        "evidence": []
+      },
+      "lake": {
+        "present": false,
+        "evidence": []
+      },
+      "river": {
+        "present": false,
+        "evidence": []
+      },
+      "district": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["Pennsylvania", "South Mountain", "Kittatinny Ridge", "Allegheny Plateau", "PA Wilds", "Allegheny National Forest"]
+    },
+    "biological_unit_score": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Climate change will increase the loss of species that already appear stressed, such as black cherry and sugar maple, and likely limit habitat for other northern hardwood species in Pennsylvania.",
+          "location": "Issue 4: Climate Change - Projected Impacts on Pennsylvania Forests",
+          "sub_component": "species",
+          "citations": []
+        },
+        {
+          "text": "The ranges of tree species in eastern North America have generally shifted northward as the climate has warmed over the past 14,000+ years since the last ice age.",
+          "location": "Issue 8: Plant and Wildlife Habitat - Climate Change section",
+          "sub_component": "community",
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "biological_unit_components": {
+      "species": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Climate change will increase the loss of species that already appear stressed, such as black cherry and sugar maple, and likely limit habitat for other northern hardwood species in Pennsylvania. Some species in the southern part of the state, such as oaks and hickories, may expand their range to the north.",
+            "location": "Issue 4: Climate Change - Projected Impacts on Pennsylvania Forests",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "population": {
+        "present": false,
+        "evidence": []
+      },
+      "habitat": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "As regional warming increases, high elevation ecosystems and species that require lower temperatures and specific forest systems may see available habitat shrink and could eventually become locally extinct if they are unable to migrate.",
+            "location": "Issue 8: Plant and Wildlife Habitat - Climate Change section",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Concern is also growing over how to sustain primary ecosystem functions such as nutrient, water, and carbon cycling while also sustaining as many native forms of biota and habitats as possible in the face of potential vegetation shifts due to global climate change.",
+            "location": "Issue 8: Plant and Wildlife Habitat - Climate Change section",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "community": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The ranges of tree species in eastern North America have generally shifted northward as the climate has warmed over the past 14,000+ years since the last ice age. Historically, the ranges of different species have shifted differentially, resulting in changing forest community compositions over time.",
+            "location": "Issue 8: Plant and Wildlife Habitat - Climate Change section",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "genotype_phenotype": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["black cherry", "sugar maple", "oaks", "hickories", "northern hardwood species", "eastern hemlock", "ash", "beech", "red maple", "SGCN (Species of Greatest Conservation Need)"]
+    },
+    "partnerships_and_funding": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "DCNR's Climate Change Adaptation and Mitigation Plan --developed with the Northern Institute of Applied Climate Science --outlines 123 action steps to be undertaken to make the commonwealth more resilient to potential impacts from a changing climate.",
+          "location": "Issue 4: Climate Change - Issue Discussion",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document describes aspirational partnerships for climate adaptation (e.g., NIACS, TNC, PA Game Commission) and references the DCNR Climate Change Adaptation and Mitigation Plan, but does not detail specific budget allocations or active operational partnerships for range-shift management specifically. Score = 1 (some partnerships described, but limited/aspirational in the range-shift action context)."
+    },
+    "climate_threat_habitat_degradation": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Pennsylvania has already seen measurable changes in temperature, precipitation, and storm intensity from climate change. As noted in the DCNR Climate Change Adaptation and Mitigation plan, since the early 20th century, the commonwealth has seen a temperature increase of more than 1.8° F.",
+          "location": "Issue 4: Climate Change - Current Impacts on Pennsylvania Forests",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Drought, wind, tornados, ice storms, fires, and floods may all occur more often and with greater impacts to Pennsylvania's forests in the future.",
+          "location": "Issue 4: Climate Change - Projected Impacts on Pennsylvania Forests",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_threat_species_vital_rates": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Due to these changes, many of the state's current ecosystems will destabilize in their present locations, potentially leading to lower regeneration rates and higher mortality rates of many tree species.",
+          "location": "Issue 4: Climate Change - Projected Impacts on Pennsylvania Forests",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document projects higher tree mortality rates and lower regeneration rates directly attributable to climate change. This qualifies as direct effects on vital rates (mortality, regeneration/recruitment). Score = 1."
+    },
+    "climate_threat_biotic_stressors": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Spatial modeling suggests many invasive plant species that currently have a range south of Pennsylvania will aggressively expand in temperate broadleaf and mixed forests of the northeastern U.S. due to climate change.",
+          "location": "Issue 4: Climate Change - Current Impacts on Pennsylvania Forests",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Higher winter temperatures and longer, warmer growing seasons may allow insect pests to increase their range, population size and number of generations per year.",
+          "location": "Issue 4: Climate Change - Projected Impacts on Pennsylvania Forests",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    }
+  },
+  "actions": {
+    "priority_habitat_identification": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "For the purposes of identifying climate change priority areas in this Plan, the PA Resilient and Connected Network will be used. This analysis was completed by The Nature Conservancy and collaborators using areas with highest resiliency factors, such as microclimate and topographic diversity, and connectivity of habitat.",
+          "location": "Chapter 4 - Climate Change Priority Landscape Analysis",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Areas that have resisted or could potentially resist widespread climatic changes may be managed as refugia.",
+          "location": "Issue 4: Climate Change - Adaptation Strategies: Fragmented Habitats",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Unique ecological sites and key tracts of land will be targeted for conservation through acquisitions, easements, forest landowner legacy planning, and stewardship plans to ensure habitat connectivity and potential migration corridors remain intact.",
+          "location": "Issue 4: Climate Change - Adaptation Strategies: Fragmented Habitats",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "targeted_range_shift_actions": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "In certain instances, it may be appropriate to implement assisted migration strategies for certain tree species. Such strategies must be approached thoughtfully and following appropriate science-based recommendations and monitoring.",
+          "location": "Issue 4: Climate Change - Adaptation Strategies: Changing Forest Composition",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "This will necessitate changes in land conservation priorities to create an interconnected system of habitats that allow species to move north and to higher elevations in response to climate change.",
+          "location": "Issue 4: Climate Change - Adaptation Strategies: Fragmented Habitats",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "time_bound_and_monitoring": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Controlling these pests increases a forest's ability to withstand and adapt to climate change. High-value forests should be monitored closely for new and existing threats.",
+          "location": "Issue 4: Climate Change - Adaptation Strategies: Forest Pests",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The plan contains general adaptive management language and monitoring principles (e.g., 'monitoring will be critical,' 'adaptive approach') but does not attach specific deadlines or milestones to individual range-shift or climate adaptation actions. The Sustainability Meter structure implies 10-year assessment cycles at the plan level, not action-level deadlines. Score = 1 (deadlines present at plan level; monitoring endorsed as a principle but not operationalized at the action level for range-shift actions)."
+    },
+    "evidence_of_efficacy": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Because the specific nature of these changes is uncertain, foresters and other natural resource managers should take an adaptive approach to addressing these impacts, by investing more in managing for healthy, resilient forests with a high degree of biodiversity.",
+          "location": "Issue 4: Climate Change - Adaptation Strategies",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The plan does not provide case studies, citations associated with specific climate adaptation actions, or evaluation data from prior projects that would constitute evidence of efficacy for the actions proposed. General ecological rationale (biodiversity promotes resilience; managed diversity improves adaptation) is offered as a first principle, and the DCNR Climate Change Adaptation Plan is cited as a foundation, but no applied evidence for specific proposed actions (e.g., assisted migration, refugia management, connectivity corridors) is presented. Score = 1.",
+      "projects": []
+    },
+    "adaptation_planning_frameworks": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Because the specific nature of these changes is uncertain, foresters and other natural resource managers should take an adaptive approach to addressing these impacts, by investing more in managing for healthy, resilient forests with a high degree of biodiversity.",
+          "location": "Issue 4: Climate Change - Adaptation Strategies",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The plan references 'adaptive approach' and 'adaptive management' in a climate context, but does not name or operationalize any specific named climate adaptation planning framework (RAD, RRT, CCVA, SBDA, Structured Decision Making, etc.). The DCNR Climate Change Adaptation and Mitigation Plan is referenced as an external document containing 123 action steps, and NIACS is a named partner, but no specific framework tool is operationalized in this document. Score = 1 (referenced non-specifically)."
+    }
+  },
+  "coding_meta": {
+    "coder": "llm:claude-sonnet-4-6",
+    "model": "claude-sonnet-4-6",
+    "provider": "claude",
+    "codebook_version": "0.4",
+    "ingest": "text",
+    "design": "single",
+    "temperature": null,
+    "thinking": null,
+    "thinking_effort": null,
+    "coded_at": "2026-07-07T00:31:32Z",
+    "notes": {}
+  }
+}

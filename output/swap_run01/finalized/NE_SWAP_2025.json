@@ -1,0 +1,817 @@
+{
+  "document_meta": {
+    "title": "Nebraska Natural Legacy Project (State Wildlife Action Plan, 3rd Edition)",
+    "year": 2025,
+    "jurisdiction": "Nebraska",
+    "document_type": "SWAP",
+    "document_id": "NE_SWAP_2025",
+    "page_count": 415
+  },
+  "orientation": {
+    "summary": "This is Nebraska's third-edition State Wildlife Action Plan (SWAP), branded as the 'Nebraska Natural Legacy Project,' published in 2025 by the Nebraska Game and Parks Commission. The document is a comprehensive statewide biodiversity conservation blueprint covering species of greatest conservation need (SGCN), Biologically Unique Landscapes (BULs), priority watersheds, and conservation actions across four ecoregions. The document's posture toward climate change is limited and implicit: 'changing environmental conditions' is the primary framing used rather than explicit 'climate change,' though one key section explicitly addresses species range shifts, phenological shifts, and habitat fragmentation as responses to environmental change. The document performs its own biological prioritization analysis (BUL selection, species tiering, watershed identification) using existing Natural Heritage data and expert workshops; it references outside data sources (NatureServe, Midwest Landscape Initiative, TNC Resilient Lands, USGS Land Cover) but does not perform original climate modeling or formal vulnerability assessments. Climate-specific tools (GCMs, SDMs, CCVIs) are not applied.",
+    "evidence_index": [
+      {
+        "text": "Some species distributions and abundance are shifting in response to changing environmental conditions. These shifts may alter fundamental interactions with other species and the physical environment, which could lead to a cascade of impacts throughout ecosystems.",
+        "location": "Facilitate Species and Ecosystem Adaptation and Resiliency to Environmental Changes",
+        "relevant_elements": ["1.1", "1.3", "C2", "3.5", "3.7"]
+      },
+      {
+        "text": "One way that species have historically responded to major environmental shifts, such as those following the last ice age, has been to shift their distribution to higher elevations or latitudes. Similar range shifts are already occurring and are expected to continue. However, these shifts are now complicated by significant habitat fragmentation and barriers to movement, as well as the accelerated pace of environmental change.",
+        "location": "Facilitate Species and Ecosystem Adaptation and Resiliency to Environmental Changes",
+        "relevant_elements": ["1.1", "1.2", "1.3", "1.4", "C2", "3.2", "3.3"]
+      },
+      {
+        "text": "Unlike in the past, species today are migrating at different rates and along different routes, rather than as intact natural communities. Thus, we are likely to see natural communities disaggregate, depending on intrinsic response rates, and reconfigure in potentially novel combinations, upslope or further north.",
+        "location": "Facilitate Species and Ecosystem Adaptation and Resiliency to Environmental Changes",
+        "relevant_elements": ["1.1", "1.2", "1.3", "C2", "3.3", "3.7"]
+      },
+      {
+        "text": "Documented effects of a changing environment include: shifts in species distributions, changes in phenology of species, and decoupling of co-evolved interactions. In addition, these changes are expected to alter ecological processes such as fire regimes and hydrology, and exacerbate a number of existing stressors, such as habitat loss and fragmentation, pollution, and the spread of invasive species, pests, and pathogens.",
+        "location": "Facilitate Species and Ecosystem Adaptation and Resiliency to Environmental Changes",
+        "relevant_elements": ["1.1", "1.3", "3.5", "3.6", "3.7", "C1", "C2"]
+      },
+      {
+        "text": "Changing environmental conditions can shift phenology, disrupting important ecological relationships. Earlier onset of spring, for instance, has altered the timing of breeding, hibernation, migration, and insect emergence, sometimes decoupling interdependent species like pollinators and their host plants.",
+        "location": "Facilitate Species and Ecosystem Adaptation and Resiliency to Environmental Changes",
+        "relevant_elements": ["1.3", "3.7"]
+      },
+      {
+        "text": "Managing for resilient populations and ensuring ecological connectivity will be essential for conserving biodiversity in the coming decades.",
+        "location": "Facilitate Species and Ecosystem Adaptation and Resiliency to Environmental Changes",
+        "relevant_elements": ["1.2", "1.4"]
+      },
+      {
+        "text": "Reduce the impacts of stressors: Addressing existing stressors like invasive species, pests, pathogens, pollution, and habitat loss, degradation, and fragmentation remains a low-risk and effective resiliency strategy. These stressors are often amplified by changing environmental conditions and can limit the ability of the species or ecosystems to remain resilient.",
+        "location": "Adaptation Strategies to Increase Species Resilience",
+        "relevant_elements": ["1.2", "4.1", "4.2", "3.5"]
+      },
+      {
+        "text": "Protect and maintain a network of conservation areas: Increase the extent and quality of protected terrestrial and aquatic habitats. This supports species movement and dispersal under changing environmental conditions.",
+        "location": "Adaptation Strategies to Increase Species Resilience",
+        "relevant_elements": ["1.2", "1.4", "4.1", "4.2"]
+      },
+      {
+        "text": "Restore and maintain habitat and landscape connectivity: Conservation planning must prioritize connectivity to enable species relocation. For specific actions to reduce habitat fragmentation and enhance movement corridors, refer to the Habitat Fragmentation section.",
+        "location": "Adaptation Strategies to Increase Species Resilience",
+        "relevant_elements": ["1.4", "4.2"]
+      },
+      {
+        "text": "Enhance understanding of environmental shifts and ecological responses: Uncertainty remains about how species and ecosystems will respond to ongoing environmental shifts. Improving our understanding of these dynamics is essential for developing effective conservation strategies. Filling these knowledge gaps through vulnerability assessments, monitoring, experiments, and modeling is important for improving conservation effectiveness.",
+        "location": "Adaptation Strategies to Increase Species Resilience",
+        "relevant_elements": ["1.1", "2.1", "4.5"]
+      },
+      {
+        "text": "Utilize an adaptive management approach in implementing adaptation strategies: Any strategy for conserving species and ecosystems should be implemented within an adaptive management framework. This allows managers to learn from outcomes and adjust tactics in response to new information and changing conditions.",
+        "location": "Adaptation Strategies to Increase Species Resilience",
+        "relevant_elements": ["4.3", "4.5"]
+      },
+      {
+        "text": "Many wildlife species' ranges are shifting as habitats are altered or lost. However, such shifts are only possible if appropriate habitat is available. For less mobile species, habitat fragmentation limits their ability to relocate. Conservationists need to be aware of this lack of connectivity and strategic planning and investment will be necessary to overcome it.",
+        "location": "Habitat Fragmentation",
+        "relevant_elements": ["1.3", "1.4", "C2", "4.2"]
+      },
+      {
+        "text": "One approach to offset the impacts of habitat fragmentation is to identify, restore, and conserve migration corridors. Identifying corridors can be challenging, as species do not always move in straight lines. Current models are limited in their ability to predict where suitable habitat conditions will exist in the future.",
+        "location": "Habitat Fragmentation",
+        "relevant_elements": ["1.4", "4.1", "4.2", "2.4"]
+      },
+      {
+        "text": "Use prairie, woodland and wetland restoration to reduce fragmentation and create migration corridors.",
+        "location": "Actions Needed to Reduce Habitat Fragmentation",
+        "relevant_elements": ["1.4", "4.1", "4.2"]
+      },
+      {
+        "text": "New approaches to land conservation that take into account the dynamic nature of the environment will likely be needed. One approach that is being discussed is to protect a network of conservation 'stages,' nature reserves that capture the geophysical diversity (topography, soils, geology) of a region.",
+        "location": "Maintain and Expand the Network of Public and Private Conservation Lands",
+        "relevant_elements": ["4.1", "4.5", "1.2"]
+      },
+      {
+        "text": "Conserving a full spectrum of different geophysical settings, stratified across elevation zones and latitudes, may offer an approach to conservation that protects biological diversity for years to come. Instead of aiming to maintain a particular species composition, the conservation of ecosystems defined by geophysical settings puts more emphasis on accommodating dynamic processes, maintaining ecological function and building adaptive capacity.",
+        "location": "Maintain and Expand the Network of Public and Private Conservation Lands",
+        "relevant_elements": ["1.2", "4.1", "4.5"]
+      },
+      {
+        "text": "These approaches allow for species distributions to shift, and for novel communities to form, while still conserving the maximum biodiversity. This approach would conserve the ecological 'stage' rather than the temporary 'actors.'",
+        "location": "Maintain and Expand the Network of Public and Private Conservation Lands",
+        "relevant_elements": ["1.2", "4.1", "4.5", "C2"]
+      },
+      {
+        "text": "In the past few decades, the wildfire season has lengthened, and the number of acres burned has significantly increased. In the Great Plains, the total acreage burned by large wildfires increased by 400% from 1985 to 2014.",
+        "location": "Fire Management Systems",
+        "relevant_elements": ["3.5", "3.6"]
+      },
+      {
+        "text": "Beyond these local pressures, broader shifts in hydrological patterns across the region are expected to influence water availability and flow timing. Prolonged droughts, increased evapotranspiration rates, and more frequent heavy precipitation events are expected to persist, potentially leading to reduced base flows and more intense flooding events.",
+        "location": "Altered Hydrology",
+        "relevant_elements": ["3.5", "C1"]
+      },
+      {
+        "text": "In the Rocky Mountains, more winter precipitation is falling as rain rather than snow, reducing the overall snowpack. Coupled with an earlier onset of spring, this results in premature snowmelt. These changes affect the timing and amount of Platte River flows, and the species and habitats that depend on them, particularly in late summer.",
+        "location": "Altered Hydrology",
+        "relevant_elements": ["3.5", "C1"]
+      },
+      {
+        "text": "Warming has allowed invasive cheatgrass to expand its range into higher elevations previously dominated by native bunchgrasses.",
+        "location": "Actions Related to Hydrology",
+        "relevant_elements": ["3.7"]
+      },
+      {
+        "text": "Shifts in precipitation and temperature affect flow timing and water temperature, respectively, altering aquatic Species of Greatest Conservation Need (SGCN) migration and reproduction cycles.",
+        "location": "Increased severity and frequency of floods and droughts",
+        "relevant_elements": ["3.6", "3.5", "C1"]
+      },
+      {
+        "text": "Increased water temperatures resulting in lower dissolved oxygen.",
+        "location": "Upper Niobrara River - Stresses Affecting the Watershed",
+        "relevant_elements": ["3.5", "3.6"]
+      },
+      {
+        "text": "A long-term, standardized monitoring program is essential to track population trends, assess the effectiveness of management actions, and respond to emerging threats such as invasive species and climate-driven changes in flow and temperature regimes.",
+        "location": "At-risk aquatic species monitoring",
+        "relevant_elements": ["4.3", "3.5", "C1"]
+      },
+      {
+        "text": "The review process was facilitated with supplementary information from sources, such as the Midwest Landscape Initiative's Conservation Blueprint, The Nature Conservancy's Resilient Lands Mapping Tool, and USGS's Land Cover Dataset.",
+        "location": "BUL Boundary Changes (2026)",
+        "relevant_elements": ["2.4", "4.1"]
+      },
+      {
+        "text": "The Sandhills ecoregion is now being designated as a Biologically Unique Ecoregion (BUE)... unique on a continental scale in its resilience to habitat loss and fragmentation, and it contains multiple populations of at-risk species and natural communities.",
+        "location": "Biologically Unique Ecoregion: A New Designation",
+        "relevant_elements": ["4.1", "1.2"]
+      },
+      {
+        "text": "For the long-term goal of the Nebraska Natural Legacy project is to restore populations of at-risk species and natural communities, then the long-term viability of these populations should be assessed. For the purposes of the Nebraska Natural Legacy Project, the Biologically Unique Ecoregion (BUE) will function as follows: an ecoregion that is largely intact and provides connectivity among BULs over a large geographic area.",
+        "location": "Biologically Unique Ecoregion: A New Designation",
+        "relevant_elements": ["1.4", "4.1"]
+      },
+      {
+        "text": "This genetic diversity can make populations more resilient to changing conditions.",
+        "location": "Biologically Unique Ecoregion: A New Designation",
+        "relevant_elements": ["1.3"]
+      },
+      {
+        "text": "Population viability analyses (PVAs) have been used for setting conservation goals for a limited number of species. These analyses are a quantitative method used to predict the future status of a population or collection of populations.",
+        "location": "Setting Conservation Goals",
+        "relevant_elements": ["2.1"]
+      },
+      {
+        "text": "Develop predictive models of species distribution for at-risk species to guide survey work and increase inventory efficiency.",
+        "location": "Biological Inventory - Species",
+        "relevant_elements": ["2.2"]
+      },
+      {
+        "text": "Habitat suitability models and management plans: Many aquatic systems across the state have been degraded to a point that native aquatic SGCN have been extirpated from historic parts of their distribution. Combining historic data with recent data, researchers have begun to develop early models for predicting estimated occupancy and likelihood for species presence",
+        "location": "Habitat suitability models and management plans",
+        "relevant_elements": ["2.2"]
+      },
+      {
+        "text": "This chapter presents a framework for adapting conservation actions in response to new information and changing conditions. The Nebraska Natural Legacy Project's adaptive management framework strives to improve our understanding of Nebraska's ecological systems.",
+        "location": "Chapter 10: Adaptive Management, Monitoring, Inventory and Research",
+        "relevant_elements": ["4.3", "4.5"]
+      },
+      {
+        "text": "Adaptive management is the process of continually improving management policies and practices by learning from the outcome of management actions... Adaptive management can be a powerful tool for adapting to changing environmental conditions, where uncertainty is high, change may be rapid (e.g., flooding events), and management evaluation and responses must be dynamic with increasing knowledge.",
+        "location": "Adaptive Management",
+        "relevant_elements": ["4.3", "4.5"]
+      },
+      {
+        "text": "The mountain plover (Charadrius montanus) nest marking program is an example of an adaptive management project that identifies the issues that negatively impact a specific species, identifies and conducts priority research, and improves conservation actions accordingly.",
+        "location": "Adaptive Management",
+        "relevant_elements": ["4.4", "4.3"]
+      },
+      {
+        "text": "From 2005 to 2007, the nest marking program was evaluated and was successful, with less than 3% (7/246) of marked nests failing because of tillage (20% total nest failure rate). In 2007, 65% (34/52) of unmarked artificial nests...failed (no eggs survived) because of tillage.",
+        "location": "Adaptive Management - mountain plover example",
+        "relevant_elements": ["4.4"]
+      },
+      {
+        "text": "There is a need to develop long-term monitoring systems that are strategically designed to evaluate species and ecosystem responses to changing environmental conditions.",
+        "location": "Monitoring",
+        "relevant_elements": ["4.3", "C1"]
+      },
+      {
+        "text": "The involvement of partner organizations, through their feedback and expertise, helped make this SWAP revision possible. In addition to the Partnership Team, which helped promote participation in the revision process...",
+        "location": "Eight Required Elements of the State Wildlife Action Plan",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "No single government agency or private organization has the authority, financial resources, or staff to assume the entire responsibility for conserving Nebraska's biological diversity. Effective implementation of a state wildlife action plan (SWAP) requires the cooperative efforts of governmental entities, private organizations and residents.",
+        "location": "Continue to Advance Collaboration and Communication",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "While this was a necessary first measure in implementing these conservation actions, the roughly $65 million provided annually fell far short of the estimated $1.3 billion needed annually to successfully implement SWAPs.",
+        "location": "Nebraska's State Wildlife Action Plan",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "A strategic approach to conservation also needs to take into account the distribution of species and communities when selecting sites. Species vary genetically across their range of distribution. This variation may be important to the long-term survival of the species in the face of environmental change.",
+        "location": "A Systematic Approach to Biological Diversity Conservation",
+        "relevant_elements": ["1.3", "1.2"]
+      },
+      {
+        "text": "Conduct long-term monitoring studies to evaluate changes in distribution and abundance of selected Tier 1 species that have been identified as less adaptable to changing environmental conditions.",
+        "location": "Biological Inventory - Species",
+        "relevant_elements": ["1.2", "4.3", "C1"]
+      },
+      {
+        "text": "Warming has allowed invasive cheatgrass to expand its range into higher elevations previously dominated by native bunchgrasses.",
+        "location": "Ecoregion-specific Stresses - Tallgrass Prairie",
+        "relevant_elements": ["3.7"]
+      },
+      {
+        "text": "During the Mixed-grass Prairie Ecoregion, the mixed-grass prairie shifts eastward into the tallgrass prairie, and during wet periods, it moves west into the shortgrass prairie.",
+        "location": "Chapter 6: Mixed-grass Prairie Ecoregion Introduction",
+        "relevant_elements": ["C2", "3.3"]
+      },
+      {
+        "text": "Birch and aspen have declined in recent decades, possibly due to environmental factors.",
+        "location": "Sandhills Biologically Unique Ecoregion - Vegetation",
+        "relevant_elements": ["3.5", "C1"]
+      },
+      {
+        "text": "Evaluate the feasibility and efficacy of captive rearing. Develop and continue to improve captive rearing techniques for highly imperiled species that require re-introduction efforts to recover the species (e.g., Salt Creek tiger beetle).",
+        "location": "Biological Research - Species",
+        "relevant_elements": ["4.2", "4.4"]
+      },
+      {
+        "text": "Propagation and reintroduction of aquatic SGCN: As many aquatic SGCN populations have experienced significant declines, intervention via reintroductions and population augmentation may be necessary for recovery.",
+        "location": "Conservation Strategies - Chapter 9 Aquatic Conservation",
+        "relevant_elements": ["4.2"]
+      },
+      {
+        "text": "Identify, restore, and conserve migration corridors... Current models are limited in their ability to predict where suitable habitat conditions will exist in the future.",
+        "location": "Habitat Fragmentation",
+        "relevant_elements": ["1.4", "4.2", "2.4"]
+      },
+      {
+        "text": "Assessing and maintaining genetic diversity is imperative for sustaining healthy and resilient SGCN populations.",
+        "location": "Genetic analyses of aquatic SGCN",
+        "relevant_elements": ["1.3"]
+      }
+    ]
+  },
+  "concepts": {
+    "climate_vulnerability": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Some species distributions and abundance are shifting in response to changing environmental conditions. These shifts may alter fundamental interactions with other species and the physical environment, which could lead to a cascade of impacts throughout ecosystems.",
+          "location": "Facilitate Species and Ecosystem Adaptation and Resiliency to Environmental Changes",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document references vulnerability in passing ('vulnerability assessments' listed as a future tool) and discusses species being 'less adaptable to changing environmental conditions,' but never systematically decomposes vulnerability into exposure and adaptive capacity. The framing is generically 'changing environmental conditions' rather than 'climate change' with structured IPCC-style components. Score 1 rather than 2 because exposure and adaptive capacity are not both explicitly addressed — exposure is referenced only obliquely through descriptions of environmental shifts, while adaptive capacity is mentioned generically (resilience) without decomposition."
+    },
+    "adaptive_capacity_specificity": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Managing for resilient populations and ensuring ecological connectivity will be essential for conserving biodiversity in the coming decades.",
+          "location": "Facilitate Species and Ecosystem Adaptation and Resiliency to Environmental Changes",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "Adaptive capacity is referenced in a non-specific way through 'resilience' language and general references to species' ability to respond to changing conditions. The document does not systematically name specific components (movement, evolutionary potential, etc.) as adaptive capacity components in a climate-adaptation framing. Score 1."
+    },
+    "adaptive_capacity_components": {
+      "demography": {
+        "present": false,
+        "evidence": []
+      },
+      "distribution": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "One way that species have historically responded to major environmental shifts, such as those following the last ice age, has been to shift their distribution to higher elevations or latitudes. Similar range shifts are already occurring and are expected to continue.",
+            "location": "Facilitate Species and Ecosystem Adaptation and Resiliency to Environmental Changes",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "movement": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Many wildlife species' ranges are shifting as habitats are altered or lost. However, such shifts are only possible if appropriate habitat is available. For less mobile species, habitat fragmentation limits their ability to relocate.",
+            "location": "Habitat Fragmentation",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "evolutionary_potential": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "This genetic diversity can make populations more resilient to changing conditions.",
+            "location": "Biologically Unique Ecoregion: A New Designation",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecological_dependencies": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Earlier onset of spring, for instance, has altered the timing of breeding, hibernation, migration, and insect emergence, sometimes decoupling interdependent species like pollinators and their host plants.",
+            "location": "Facilitate Species and Ecosystem Adaptation and Resiliency to Environmental Changes",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "abiotic_niche": {
+        "present": false,
+        "evidence": []
+      },
+      "life_history": {
+        "present": false,
+        "evidence": []
+      }
+    },
+    "connectivity": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Restore and maintain habitat and landscape connectivity: Conservation planning must prioritize connectivity to enable species relocation. For specific actions to reduce habitat fragmentation and enhance movement corridors, refer to the Habitat Fragmentation section.",
+          "location": "Adaptation Strategies to Increase Species Resilience",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "One approach to offset the impacts of habitat fragmentation is to identify, restore, and conserve migration corridors. Identifying corridors can be challenging, as species do not always move in straight lines. Current models are limited in their ability to predict where suitable habitat conditions will exist in the future.",
+          "location": "Habitat Fragmentation",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "Connectivity is explicitly framed as enabling species relocation/range shifts under changing conditions (score 2). The adaptation strategies section specifically invokes connectivity to enable 'species relocation' in the context of changing environmental conditions, which qualifies as climate-relevant framing per the codebook."
+    }
+  },
+  "tools": {
+    "vulnerability_models": {
+      "evaluable": true,
+      "score": 1,
+      "named_tools": [],
+      "evidence": [
+        {
+          "text": "Filling these knowledge gaps through vulnerability assessments, monitoring, experiments, and modeling is important for improving conservation effectiveness.",
+          "location": "Adaptation Strategies to Increase Species Resilience",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "Vulnerability assessments are mentioned as a recommended future action/tool, but no CCVI, PVA (beyond a brief historical reference about Florida planning), or other formal vulnerability model is applied to Nebraska's SGCN. PVAs are mentioned in a historical context (Florida planning) for goal-setting methodology, but not applied as a climate vulnerability tool. Score 1 (referenced generally, not applied)."
+    },
+    "niche_models": {
+      "evaluable": true,
+      "score": 1,
+      "named_tools": [],
+      "evidence": [
+        {
+          "text": "Develop predictive models of species distribution for at-risk species to guide survey work and increase inventory efficiency.",
+          "location": "Biological Inventory - Species",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Combining historic data with recent data, researchers have begun to develop early models for predicting estimated occupancy and likelihood for species presence, while also determining environmental factors that may influence species distributions across river basins.",
+          "location": "Habitat suitability models and management plans",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "Species distribution/habitat suitability models are referenced (for aquatic systems and generally recommended for future inventory work), but no named SDM tools (MaxEnt, BIOCLIM, etc.) are applied to Nebraska's SGCN for climate-change projections. Score 1."
+    },
+    "climate_models": {
+      "evaluable": true,
+      "score": 0,
+      "named_tools": [],
+      "evidence": [],
+      "absence_note": "The document discusses climate-related changes extensively (altered hydrology, warming, drought, wildfire increase) but references no climate models, GCMs, downscaled products, RCPs, or SSPs. This is the canonical 0 case per the codebook: climate-aware but no formal climate modeling apparatus.",
+      "time_horizon_years": [],
+      "emission_scenarios": []
+    },
+    "connectivity_models": {
+      "evaluable": true,
+      "score": 1,
+      "named_tools": ["Midwest Landscape Initiative Conservation Blueprint", "The Nature Conservancy's Resilient Lands Mapping Tool"],
+      "evidence": [
+        {
+          "text": "The review process was facilitated with supplementary information from sources, such as the Midwest Landscape Initiative's Conservation Blueprint, The Nature Conservancy's Resilient Lands Mapping Tool, and USGS's Land Cover Dataset.",
+          "location": "BUL Boundary Changes (2026)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The Midwest Landscape Initiative's Conservation Blueprint and TNC's Resilient Lands Mapping Tool were used in BUL boundary review, but these are referenced as supplementary information sources rather than primary tools applied to produce connectivity outputs for management decisions. No named connectivity modeling software (CircuitScape, Omniscape, etc.) is applied. Score 1 (referenced generally; the tools inform but are not the primary applied modeling apparatus)."
+    }
+  },
+  "context": {
+    "management_scale": {
+      "local": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Conduct inventories of at-risk species and plant communities to identify additional BULs, or modify existing BUL boundaries, and to prioritize areas within BULs for conservation efforts.",
+            "location": "Actions Needed to Focus Conservation on the Best Opportunities",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "site": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Natural Legacy Demonstration Sites should capture Nebraska's representative habitat types and management that is currently fostering the mission of the Natural Legacy Project.",
+            "location": "Demonstrate Success",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "watershed": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Twenty priority watersheds, consisting of 63 Hydrologic Unit Code (HUC) 10s and three HUC 12s, were identified to prioritize conservation of aquatic SGCN.",
+            "location": "Eight Required Elements of the State Wildlife Action Plan",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "city": {
+        "present": false,
+        "evidence": []
+      },
+      "county": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "This landscape encompasses the rolling hills of western Richardson, Pawnee, southern Johnson, and southern Gage counties.",
+            "location": "Southeast Prairies - Biologically Unique Landscape Description",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "within_state_region": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "These teams determined it would be best to carry on the tradition of hosting in-person meetings across the state representing each of the four ecoregions (Tallgrass Prairie, Mixed-grass Prairie, Sandhills, and Shortgrass Prairie).",
+            "location": "Public Involvement",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "state": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The goal of this process was to identify a set of landscapes that offer some of the best opportunities for conserving the full array of biological diversity in Nebraska.",
+            "location": "Selecting Biologically Unique Landscapes",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "multistate": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Continue to seek out and develop opportunities with neighboring states to implement conservation strategies for at-risk species across state lines and regionally.",
+            "location": "Actions Needed to Advance Collaboration and Communication",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "national": {
+        "present": false,
+        "evidence": []
+      },
+      "transnational": {
+        "present": false,
+        "evidence": []
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The Sandhills Biologically Unique Ecoregion, on the other hand, has remained largely intact due to the area's land-use practices and limited urban development.",
+            "location": "Biologically Unique Ecoregion: A New Designation",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecoregion": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "These teams determined it would be best to carry on the tradition of hosting in-person meetings across the state representing each of the four ecoregions (Tallgrass Prairie, Mixed-grass Prairie, Sandhills, and Shortgrass Prairie).",
+            "location": "Public Involvement",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "province": {
+        "present": false,
+        "evidence": []
+      },
+      "section": {
+        "present": false,
+        "evidence": []
+      },
+      "subsection": {
+        "present": false,
+        "evidence": []
+      },
+      "lake": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Nearly 2,000 shallow lakes and over a million acres of marshes and wet meadows have formed.",
+            "location": "Sandhills Biologically Unique Ecoregion - Introduction",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "river": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Over 16,000 miles of rivers and streams flow through Nebraska supporting a diverse array of aquatic species.",
+            "location": "Chapter 9: Aquatic Conservation",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "district": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["Nebraska", "Sandhills Biologically Unique Ecoregion", "Tallgrass Prairie Ecoregion", "Mixed-grass Prairie Ecoregion", "Shortgrass Prairie Ecoregion", "Biologically Unique Landscapes (BULs)", "Priority Watersheds (HUC10/HUC12)", "Platte River", "Missouri River", "Niobrara River"]
+    },
+    "biological_unit_score": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Unlike in the past, species today are migrating at different rates and along different routes, rather than as intact natural communities. Thus, we are likely to see natural communities disaggregate, depending on intrinsic response rates, and reconfigure in potentially novel combinations, upslope or further north.",
+          "location": "Facilitate Species and Ecosystem Adaptation and Resiliency to Environmental Changes",
+          "sub_component": "community",
+          "citations": []
+        },
+        {
+          "text": "Some species distributions and abundance are shifting in response to changing environmental conditions.",
+          "location": "Facilitate Species and Ecosystem Adaptation and Resiliency to Environmental Changes",
+          "sub_component": "species",
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "biological_unit_components": {
+      "species": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Some species distributions and abundance are shifting in response to changing environmental conditions.",
+            "location": "Facilitate Species and Ecosystem Adaptation and Resiliency to Environmental Changes",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "population": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Managing for resilient populations and ensuring ecological connectivity will be essential for conserving biodiversity in the coming decades.",
+            "location": "Facilitate Species and Ecosystem Adaptation and Resiliency to Environmental Changes",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "habitat": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Protect and maintain a network of conservation areas: Increase the extent and quality of protected terrestrial and aquatic habitats. This supports species movement and dispersal under changing environmental conditions.",
+            "location": "Adaptation Strategies to Increase Species Resilience",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Restore and maintain ecological processes and ecosystem function: Natural systems are dependent on a variety of ecological processes including disturbance and hydrologic regimes (e.g., fire, flooding), energy and nutrient flows, and species dispersal.",
+            "location": "Adaptation Strategies to Increase Species Resilience",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "community": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Unlike in the past, species today are migrating at different rates and along different routes, rather than as intact natural communities. Thus, we are likely to see natural communities disaggregate, depending on intrinsic response rates, and reconfigure in potentially novel combinations, upslope or further north.",
+            "location": "Facilitate Species and Ecosystem Adaptation and Resiliency to Environmental Changes",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "genotype_phenotype": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["Species of Greatest Conservation Need (SGCN)", "Tier 1 and Tier 2 at-risk species", "Natural communities (Tallgrass prairie, mixed-grass prairie, sandhills dune prairie, saline wetlands, etc.)", "Biologically Unique Landscapes", "Sandhills Biologically Unique Ecoregion", "Whooping crane", "Piping plover", "Interior least tern", "Pallid sturgeon", "Western prairie fringed orchid", "American burying beetle", "Salt Creek tiger beetle", "Sandhill crane"]
+    },
+    "partnerships_and_funding": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "While this was a necessary first measure in implementing these conservation actions, the roughly $65 million provided annually fell far short of the estimated $1.3 billion needed annually to successfully implement SWAPs.",
+          "location": "Nebraska's State Wildlife Action Plan",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "No single government agency or private organization has the authority, financial resources, or staff to assume the entire responsibility for conserving Nebraska's biological diversity. Effective implementation of a state wildlife action plan (SWAP) requires the cooperative efforts of governmental entities, private organizations and residents.",
+          "location": "Continue to Advance Collaboration and Communication",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document extensively describes partnerships (Partnership Team, federal/state/tribal/NGO collaborations, Sandhills Task Force, Rainwater Basin Joint Venture, etc.) and notes significant funding gaps. Partnerships exist and are named, but are not specifically characterized as strategic investments in range-shift facilitation. Score 1 (some funding and partnerships described but also explicit funding gaps acknowledged and partnerships largely aspirational for new range-shift-specific work)."
+    },
+    "climate_threat_habitat_degradation": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Beyond these local pressures, broader shifts in hydrological patterns across the region are expected to influence water availability and flow timing. Prolonged droughts, increased evapotranspiration rates, and more frequent heavy precipitation events are expected to persist, potentially leading to reduced base flows and more intense flooding events.",
+          "location": "Altered Hydrology",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "In the past few decades, the wildfire season has lengthened, and the number of acres burned has significantly increased. In the Great Plains, the total acreage burned by large wildfires increased by 400% from 1985 to 2014.",
+          "location": "Fire Management Systems",
+          "sub_component": null,
+          "citations": ["Donovan et al., 2017"]
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_threat_species_vital_rates": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Shifts in precipitation and temperature affect flow timing and water temperature, respectively, altering aquatic Species of Greatest Conservation Need (SGCN) migration and reproduction cycles.",
+          "location": "Increased severity and frequency of floods and droughts",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document mentions altered reproduction cycles of aquatic SGCN due to shifts in precipitation and temperature — a direct effect on vital rates from climate-driven changes. Also mentions increased water temperatures causing lower dissolved oxygen in the Upper Niobrara River. These are direct effects on species vital rates (reproduction, likely survival)."
+    },
+    "climate_threat_biotic_stressors": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Documented effects of a changing environment include: shifts in species distributions, changes in phenology of species, and decoupling of co-evolved interactions. In addition, these changes are expected to alter ecological processes such as fire regimes and hydrology, and exacerbate a number of existing stressors, such as habitat loss and fragmentation, pollution, and the spread of invasive species, pests, and pathogens.",
+          "location": "Facilitate Species and Ecosystem Adaptation and Resiliency to Environmental Changes",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    }
+  },
+  "actions": {
+    "priority_habitat_identification": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "The goal of this process was to identify a set of landscapes that offer some of the best opportunities for conserving the full array of biological diversity in Nebraska. This process began with the first edition of the Natural Legacy Project in 2005. Landscapes were selected based on known occurrences of natural communities and at-risk species.",
+          "location": "Selecting Biologically Unique Landscapes",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Protect and maintain a network of conservation areas: Increase the extent and quality of protected terrestrial and aquatic habitats. This supports species movement and dispersal under changing environmental conditions.",
+          "location": "Adaptation Strategies to Increase Species Resilience",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The BUL system is explicitly spatially represented with maps for each ecoregion and the Sandhills BUE. Priority watershed maps are also included. BUL selection was done specifically to identify priority areas for conservation, and the document contains multiple maps (referenced throughout the BUL description sections). This clearly qualifies for score 2."
+    },
+    "targeted_range_shift_actions": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Restore and maintain habitat and landscape connectivity: Conservation planning must prioritize connectivity to enable species relocation. For specific actions to reduce habitat fragmentation and enhance movement corridors, refer to the Habitat Fragmentation section.",
+          "location": "Adaptation Strategies to Increase Species Resilience",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Use prairie, woodland and wetland restoration to reduce fragmentation and create migration corridors.",
+          "location": "Actions Needed to Reduce Habitat Fragmentation",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "Structural facilitation actions (connectivity, migration corridors) are proposed explicitly in the context of enabling species range shifts under changing environmental conditions. Direct manipulation (assisted migration, translocation for climate) is not explicitly discussed. The structural facilitation actions earn a 1. The aquatic reintroduction program is for species recovery, not climate-driven range facilitation specifically."
+    },
+    "time_bound_and_monitoring": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Within the next 10 years, a comprehensive review of the plan will be conducted.",
+          "location": "Eight Required Elements of the State Wildlife Action Plan - Element 6",
+          "sub_component": "deadline",
+          "citations": []
+        }
+      ],
+      "absence_note": "The document has a 10-year plan review cycle, and the adaptive management chapter outlines monitoring principles and mentions specific species monitoring programs. However, individual conservation actions in the BUL sections are not time-bound with specific deadlines or milestones. Monitoring is described as a principle but is not operationally attached to specific actions with deadlines. Score 1 (clear plan-level deadlines and monitoring principles, but not action-level deadlines + effectiveness monitoring)."
+    },
+    "evidence_of_efficacy": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "From 2005 to 2007, the nest marking program was evaluated and was successful, with less than 3% (7/246) of marked nests failing because of tillage (20% total nest failure rate). In 2007, 65% (34/52) of unmarked artificial nests...failed (no eggs survived) because of tillage.",
+          "location": "Adaptive Management - mountain plover example",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document provides one clear case study with quantitative results (mountain plover nest marking). Most other actions lack efficacy evidence beyond general ecological rationale. Score 2 (limited evidence: one directly applicable case study is present, but most conservation actions lack cited evidence of efficacy).",
+      "projects": ["Mountain Plover nest marking program (Bird Conservancy of the Rockies collaboration): A program was developed and evaluated from 2005-2007 to mark mountain plover nests in agricultural fields. Results showed less than 3% of marked nests failed due to tillage vs. 65% of unmarked nests. This provides direct evidence of efficacy for nest protection actions on private lands in Nebraska."]
+    },
+    "adaptation_planning_frameworks": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Adaptive management is the process of continually improving management policies and practices by learning from the outcome of management actions... Adaptive management can be a powerful tool for adapting to changing environmental conditions, where uncertainty is high, change may be rapid (e.g., flooding events), and management evaluation and responses must be dynamic with increasing knowledge.",
+          "location": "Adaptive Management",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Utilize an adaptive management approach in implementing adaptation strategies: Any strategy for conserving species and ecosystems should be implemented within an adaptive management framework. This allows managers to learn from outcomes and adjust tactics in response to new information and changing conditions.",
+          "location": "Adaptation Strategies to Increase Species Resilience",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "Adaptive management is explicitly named and operationalized in the context of adapting to changing environmental conditions (climate adaptation planning). It is referenced with enough specificity to score 2 — it names 'adaptive management' as a framework, explains its components (iterative cycle, monitoring, adjustment), and frames it in the context of uncertainty under changing environmental conditions. The document devotes an entire chapter to adaptive management as a climate-relevant planning framework."
+    }
+  },
+  "coding_meta": {
+    "coder": "llm:claude-sonnet-4-6",
+    "model": "claude-sonnet-4-6",
+    "provider": "claude",
+    "codebook_version": "0.4",
+    "ingest": "text",
+    "design": "single",
+    "temperature": null,
+    "thinking": null,
+    "thinking_effort": null,
+    "coded_at": "2026-07-06T18:39:24Z",
+    "notes": {}
+  }
+}

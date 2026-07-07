@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Delaware Wildlife Action Plan</title>
+				<funder ref="#_3kyqyer">
+					<orgName type="full">unknown</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">American</forename><surname>Shad</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">Bigeye</orgName>
+								<address>
+									<addrLine>Thresher Shark 6 7 Alopias vulpinus Thresher Shark 5,6 7 Alosa aestivalis Blueback Herring 1,3 5,6 7 Alosa pseudoharengus Alewife 1,5,6 7 Alosa sapidissima</addrLine>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Ambystoma</forename><surname>Opacum</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">Bigeye</orgName>
+								<address>
+									<addrLine>Thresher Shark 6 7 Alopias vulpinus Thresher Shark 5,6 7 Alosa aestivalis Blueback Herring 1,3 5,6 7 Alosa pseudoharengus Alewife 1,5,6 7 Alosa sapidissima</addrLine>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Marbled</forename><surname>Salamander</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">Bigeye</orgName>
+								<address>
+									<addrLine>Thresher Shark 6 7 Alopias vulpinus Thresher Shark 5,6 7 Alosa aestivalis Blueback Herring 1,3 5,6 7 Alosa pseudoharengus Alewife 1,5,6 7 Alosa sapidissima</addrLine>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Amia</forename><surname>Calva Bowfin</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">Bigeye</orgName>
+								<address>
+									<addrLine>Thresher Shark 6 7 Alopias vulpinus Thresher Shark 5,6 7 Alosa aestivalis Blueback Herring 1,3 5,6 7 Alosa pseudoharengus Alewife 1,5,6 7 Alosa sapidissima</addrLine>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Delaware Wildlife Action Plan</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">6843A2CE43777C681EC1A12F041C93B2</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.1" ident="GROBID" when="2026-07-06T11:25+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract/>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Bombus auricomus</head><p>Black and Gold Bumble Bee 9 </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Bombus fraternus</head></div>			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p>Scientific Name</p></note>
+		</body>
+		<back>
+
+			<div type="funding">
+<div><p>Ammodramus <rs type="programName">nelsoni Nelson's Sparrow 4 Amphiagrion saucium Eastern Red Damsel 7 Amphion floridensis Nessus Sphinx 4 Anas acuta Northern Pintail 9 Anas americana American Wigeon 9 Anas discors Blue-winged Teal 4 Anaxyrus fowleri Fowler's Toad 5 Anguilla rostrata American Eel 5,6,7 Anisocentropus</rs> pyraloides</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_3kyqyer">
+					<orgName type="program" subtype="full">nelsoni Nelson&apos;s Sparrow 4 Amphiagrion saucium Eastern Red Damsel 7 Amphion floridensis Nessus Sphinx 4 Anas acuta Northern Pintail 9 Anas americana American Wigeon 9 Anas discors Blue-winged Teal 4 Anaxyrus fowleri Fowler&apos;s Toad 5 Anguilla rostrata American Eel 5,6,7 Anisocentropus</orgName>
+				</org>
+			</listOrg>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0" />			</div>
+			<div type="references">
+
+				<listBibl/>
+			</div>
+		</back>
+	</text>
+</TEI>
+

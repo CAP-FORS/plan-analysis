@@ -1,0 +1,851 @@
+{
+  "document_meta": {
+    "title": "Arkansas Wildlife Action Plan (AWAP) 2025 Revision",
+    "year": 2025,
+    "jurisdiction": "Arkansas",
+    "document_type": "SWAP",
+    "document_id": "AR_SWAP_2025_draft",
+    "page_count": 885
+  },
+  "orientation": {
+    "summary": "The Arkansas Wildlife Action Plan (AWAP) 2025 revision is a State Wildlife Action Plan for Arkansas, covering 520 Species of Greatest Conservation Need (SGCN) and their habitats across the state's ecoregions. The document acknowledges climate change as a threat throughout but engages most substantively with climate science in Chapter 5 ('Arkansas: A regional perspective'), which includes sections on climate hazards, CCVI assessments, ecological niche models, and adaptation strategies. The plan performs its own spatial prioritization through 19 Conservation Opportunity Areas (COAs) and incorporates results of external vulnerability assessments (CCVI) and niche models for some SGCN. Most climate-science content is synthesized from external sources (NCA4/NCA5, CMIP6-LOCA2 projections, Armsworth et al. CCVI datasets) rather than generated de novo, though the COA framework and SE Blueprint layers represent applied spatial analysis.",
+    "evidence_index": [
+      {
+        "text": "Problems faced by Arkansas's wildlife and ecosystems are many and varied. They include the destruction, conversion, and fragmentation of habitats, pollution, aquatic barriers, sedimentation, climate change, as well as the advance of invasive plant and animal species, diseases, and pathogens.",
+        "location": "Implementing Arkansas's Wildlife Action Plan",
+        "relevant_elements": ["1.1", "3.5", "3.7"]
+      },
+      {
+        "text": "A species is considered vulnerable to climate change if it is both sensitive and exposed to climate change impacts (Williams et al., 2008; Figure 5.13). For example, a species may be exposed to climate change because it experiences an impact like warmer stream temperatures, but if it is resilient to that change or able to disperse into new habitats, it may ultimately have low vulnerability.",
+        "location": "Measuring Species' Response to Climate Change",
+        "relevant_elements": ["1.1", "1.2", "1.3"]
+      },
+      {
+        "text": "Understanding why species and ecosystems are vulnerable or potentially less resilient is a critical first step in developing effective conservation strategies. This vulnerability is based on sensitivity, exposure, and the ability to adapt.",
+        "location": "Measuring Species' Response to Climate Change",
+        "relevant_elements": ["1.1", "1.2"]
+      },
+      {
+        "text": "Shorter and warmer winters may cause species range shifts that would allow for warm-adapted species to dominate and shift distributions of cold-adapted species.",
+        "location": "Arkansas and Climate Hazards",
+        "relevant_elements": ["1.1", "3.5", "3.7", "2.3"]
+      },
+      {
+        "text": "Species with low adaptive capacity such as those with specialized habitat needs or limited dispersal ability face higher vulnerability to these changes.",
+        "location": "Measuring Species' Response to Climate Change",
+        "relevant_elements": ["1.2", "1.3"]
+      },
+      {
+        "text": "a species may be exposed to climate change because it experiences an impact like warmer stream temperatures, but if it is resilient to that change or able to disperse into new habitats, it may ultimately have low vulnerability.",
+        "location": "Measuring Species' Response to Climate Change",
+        "relevant_elements": ["1.2", "1.3"]
+      },
+      {
+        "text": "amphibians, fish, invertebrates, plants and reptiles having the highest proportions. For example, all of the assessed amphibian and plant SGCN in Arkansas to date are vulnerable to climate change (Figure 5.14).",
+        "location": "Comparing CCVI and Available Ecological Niche Models Results",
+        "relevant_elements": ["1.1", "2.1", "2.2"]
+      },
+      {
+        "text": "This dependence on multiple habitat types, as well as their inability to disperse during the larval stage, puts amphibians at an increased risk of declines due to habitat fragmentation compared to other more mobile taxa as it can disconnect populations of amphibians from one of these vital habitats.",
+        "location": "Taxa Summary: Amphibians",
+        "relevant_elements": ["1.3", "1.4"]
+      },
+      {
+        "text": "Highly resilient sites contain many different habitat niches that support biodiversity and allow species to move freely through the landscape to find suitable microclimates as the climate changes.",
+        "location": "Terrestrial Resilience",
+        "relevant_elements": ["1.4", "4.1"]
+      },
+      {
+        "text": "Resilience emphasizes diverse landscapes where species are likely to be able to move and adjust to changing conditions. While the species themselves may change, these areas are likely to be able to host a continued diversity of species into the future.",
+        "location": "Terrestrial Resilience",
+        "relevant_elements": ["1.4", "4.1"]
+      },
+      {
+        "text": "Nearly 12.4 million acres (36.5%) within Arkansas is considered an inland hub or corridor, providing many conservation opportunities to support species movement and migration which is an important consideration for supporting wildlife adaptation to landscape-level changes",
+        "location": "Chapter 5: Arkansas: A regional perspective",
+        "relevant_elements": ["1.4", "4.1", "4.2"]
+      },
+      {
+        "text": "The Southeast Conservation Blueprint (v2024) is the primary product of SECAS and is a living, spatial plan that identifies priority areas where conservation action would make an impact, based on a suite of natural and cultural resource indicators, towards creating a connected networks of lands and waters across the Southeast.",
+        "location": "Arkansas and the Southeast Conservation Adaptation Strategy (SECAS)",
+        "relevant_elements": ["1.4", "4.1", "2.4"]
+      },
+      {
+        "text": "Most CCVI assessments done on Arkansas's SGCN to date have focused on birds (Armsworth et al. 2025a). Many of these CCVI assessments indicate that while some bird species may be vulnerable, a larger proportion may remain stable or increase under changing climatic conditions.",
+        "location": "Comparing CCVI and Available Ecological Niche Models Results",
+        "relevant_elements": ["2.1"]
+      },
+      {
+        "text": "The agency incorporated vulnerability assessments into a dedicated chapter of the prior plan, considering sensitivity, exposure, and adaptive capacity across most focal species and related habitats.",
+        "location": "Comparing CCVI and Available Ecological Niche Models Results",
+        "relevant_elements": ["2.1"]
+      },
+      {
+        "text": "Ecological niche models (also called species distribution models) start by identifying shared climate conditions at sites where a species is known to have occurred and then predict where similar climate conditions may be found on the landscape in the future.",
+        "location": "Measuring Species' Response to Climate Change",
+        "relevant_elements": ["2.2"]
+      },
+      {
+        "text": "Looking across all the taxa besides birds, however, these results suggest that amphibians, fish, insects and mussels are projected to have large proportions of Arkansas SGCN vulnerable to climate change.",
+        "location": "Comparing CCVI and Available Ecological Niche Models Results",
+        "relevant_elements": ["2.2", "1.1"]
+      },
+      {
+        "text": "The climate projections used in the NCA5 were created using global climate models from the Coupled Model Intercomparison Project Phase 6 (CMIP6) that were statistically downscaled to translate large scale changes in the climate under a given SSP or GWL to local scales for impact assessment and planning (Basile et al., 2023).",
+        "location": "Arkansas Climate Resiliency",
+        "relevant_elements": ["2.3"]
+      },
+      {
+        "text": "Three of the SSPs used with the new climate models from the CMIP6 correspond to three of the RCPs used with past global climate models from the Coupled Model Intercomparison Project Phase 5 (CMIP5) in their overall forcing levels (SSP1-2.6 corresponds with RCP2.6, SSP2-4.5 with RCP4.5, and SSP5-8.5 with RCP8.5)",
+        "location": "Arkansas Climate Resiliency",
+        "relevant_elements": ["2.3"]
+      },
+      {
+        "text": "The table summarizes projected future number of days for low, moderate, and high SSP emission scenarios using CMIP6-LOCA2 threshold and extreme event metric projections(Alder 2024) summarized at the ecoregion level by the Southeast and South Central Climate Adaptation Science Centers.",
+        "location": "Table 5.5",
+        "relevant_elements": ["2.3"]
+      },
+      {
+        "text": "A regional habitat connectivity plan provides spatial layers depicting structural connectivity, network importance, landscape permeability, and climate connectivity.",
+        "location": "Terrestrial Resilience",
+        "relevant_elements": ["2.4", "1.4"]
+      },
+      {
+        "text": "Since 2018, the Association of Fish and Wildlife Agencies (AFWA) adopted a resolution on landscape conservation that recognized 'the importance of collaborating at landscape scales to help fish and wildlife agencies meet their statutory and regulatory responsibilities to conserve fish and wildlife and their habitats.'",
+        "location": "Chapter 5: Arkansas: A regional perspective",
+        "relevant_elements": ["3.1", "3.4"]
+      },
+      {
+        "text": "Arkansas has identified Species of Greatest Conservation Need (SGCN) and outlined strategies to sustain them, including conservation actions to promote species recovery and prevent federal listings under the Endangered Species Act.",
+        "location": "Chapter 5: Arkansas: A regional perspective",
+        "relevant_elements": ["3.2", "3.3"]
+      },
+      {
+        "text": "The current primary method for implementing the AWAP is through the State Wildlife Grants (SWG) program is a non-competitive federal grant program that is managed by the United States Fish and Wildlife Service's (USFWS) office of Conservation Investment (CI)",
+        "location": "Implementing Arkansas's Wildlife Action Plan",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "State Wildlife Grants have a 35% cost share or match requirement to leverage the federal dollars and promote shared investment in conservation.",
+        "location": "Implementing Arkansas's Wildlife Action Plan",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "The central involvement of partners in the development of the Arkansas Wildlife Action Plan has resulted in stronger partnerships and increased collaborations and support for implementing the Plan.",
+        "location": "Engaging the Scientific Community",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "Freshwater ecosystems (e.g., streams, rivers, lakes, and wetlands) of the Southeast are highly vulnerable to warming. Impacts on rare species of fish and mussels are of particular concern in a changing climate. The combined effects of warming and changes in precipitation will likely alter overall hydrology including increased evapotranspiration and reduced stream base flow",
+        "location": "Arkansas and Climate Hazards",
+        "relevant_elements": ["3.5", "3.6"]
+      },
+      {
+        "text": "In general, temperature regimes of freshwater ecosystems are projected to increase in parallel with shifts in air temperatures, which in turn may alter plant and animal communities, including migratory birds",
+        "location": "Arkansas and Climate Hazards",
+        "relevant_elements": ["3.5", "3.6", "3.7"]
+      },
+      {
+        "text": "the threat from climate change is evident in longer periods of low water and likely higher water temperatures, as well as higher and more frequent high flow events.",
+        "location": "Appendix C: COA Conservation Plans Overviews",
+        "relevant_elements": ["3.5", "3.6"]
+      },
+      {
+        "text": "Warming has allowed invasive cheatgrass to expand its range into higher elevations previously dominated by native bunchgrasses.",
+        "location": "Measuring Species' Response to Climate Change",
+        "relevant_elements": ["3.7"]
+      },
+      {
+        "text": "Shorter and warmer winters may cause species range shifts that would allow for warm-adapted species to dominate and shift distributions of cold-adapted species.",
+        "location": "Arkansas and Climate Hazards",
+        "relevant_elements": ["3.7", "1.1"]
+      },
+      {
+        "text": "Since 2006, an Arkansas Wildlife Action Plan Symposium has been held every 2 years to bring partners together for collaboration. At the Symposium, results from state wildlife grant funded projects are presented. Also, the taxa teams and habitat teams meet to discuss and determine the top needs for species and habitats.",
+        "location": "Biennial Arkansas Wildlife Action Plan Symposium",
+        "relevant_elements": ["3.4", "4.3"]
+      },
+      {
+        "text": "Since 2018, Arkansas has established 19 Conservation Opportunity Areas (COA) to identify priority areas for conservation, restoration, and protection efforts. AGFC has partnered with The Nature Conservancy (TNC) to develop specific Conservation Plans for each COA.",
+        "location": "Figure caption (COA discussion)",
+        "relevant_elements": ["4.1"]
+      },
+      {
+        "text": "Incorporating 19 recently established Conservation Opportunity Areas (COAs), each with a developed Conservation Plan, which are summarized within the Plan (Chapter 4; Appendix C).",
+        "location": "Summary of Changes",
+        "relevant_elements": ["4.1"]
+      },
+      {
+        "text": "The comparison of these two methods supports focusing climate adaptation strategies on the conservation of amphibians and aquatic species. SARP already considers identification and remediation of anthropogenic barriers to aquatic organism passage a priority conservation action, and this can also be an important climate adaptation strategy to support the resilience of fish and other species that rely on aquatic connectivity.",
+        "location": "Comparing CCVI and Available Ecological Niche Models Results",
+        "relevant_elements": ["4.2", "1.4"]
+      },
+      {
+        "text": "Identifying adaptation strategies to address impacts and vulnerability is a step towards climate resiliency. Climate adaptation and mitigation comes in various forms, and multiple frameworks have been built to support planning for and implementing climate adaptation.",
+        "location": "Adaptation Strategies",
+        "relevant_elements": ["4.5"]
+      },
+      {
+        "text": "The AFWA 2022 (2nd Edition) Voluntary Guidance for States to Incorporate Climate Adaptation into State Wildlife Action Plans provides recommended steps for developing and implementing adaptation strategies. Much of the guidance includes taking a broader, regional approach to incorporating climate adaptation into SWAPs.",
+        "location": "Arkansas Climate Resiliency",
+        "relevant_elements": ["4.5"]
+      },
+      {
+        "text": "AGFC commits to completing a third comprehensive review and revision of the AWAP process and plan by October 1, 2035.",
+        "location": "Commitment to Periodic Review and Revision",
+        "relevant_elements": ["4.3"]
+      },
+      {
+        "text": "Project results and performance measures will be reported to AWAP partners and stakeholders at least biennially.",
+        "location": "Engaging the Scientific Community",
+        "relevant_elements": ["4.3"]
+      },
+      {
+        "text": "All habitat restoration projects funded through state wildlife grants include a monitoring component to determine effectiveness of activities toward improving habitat condition.",
+        "location": "Project Level",
+        "relevant_elements": ["4.3"]
+      },
+      {
+        "text": "These sampling methodologies will be used for periodic monitoring of SGCN and their habitats, for monitoring the effectiveness of conservation actions, and for adapting conservation actions as appropriate to respond to new information or changing conditions.",
+        "location": "Taxa Summary: Mussels",
+        "relevant_elements": ["4.3", "4.4"]
+      },
+      {
+        "text": "Comparing the results of the ecological niche models to the CCVI estimates for SGCNs within Arkansas reveals similar trends for taxa that were evaluated using both methods.",
+        "location": "Comparing CCVI and Available Ecological Niche Models Results",
+        "relevant_elements": ["2.1", "2.2", "4.4"]
+      },
+      {
+        "text": "Niche models offer more refined and spatially explicit predictions (i.e., changes in suitable habitat) about the direct exposure of a species to climate change but are only available for a limited set of species, in part because the models require extensive data on a species before they can be applied.",
+        "location": "Comparing CCVI and Available Ecological Niche Models Results",
+        "relevant_elements": ["2.2"]
+      }
+    ]
+  },
+  "concepts": {
+    "climate_vulnerability": {
+      "evaluable": true,
+      "score": 3,
+      "evidence": [
+        {
+          "text": "A species is considered vulnerable to climate change if it is both sensitive and exposed to climate change impacts (Williams et al., 2008; Figure 5.13). For example, a species may be exposed to climate change because it experiences an impact like warmer stream temperatures, but if it is resilient to that change or able to disperse into new habitats, it may ultimately have low vulnerability.",
+          "location": "Measuring Species' Response to Climate Change",
+          "sub_component": "exposure",
+          "citations": ["Williams et al., 2008"]
+        },
+        {
+          "text": "Species with low adaptive capacity such as those with specialized habitat needs or limited dispersal ability face higher vulnerability to these changes.",
+          "location": "Measuring Species' Response to Climate Change",
+          "sub_component": "adaptive capacity",
+          "citations": []
+        },
+        {
+          "text": "all of the assessed amphibian and plant SGCN in Arkansas to date are vulnerable to climate change (Figure 5.14).",
+          "location": "Comparing CCVI and Available Ecological Niche Models Results",
+          "sub_component": "exposure",
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "adaptive_capacity_specificity": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Species with low adaptive capacity such as those with specialized habitat needs or limited dispersal ability face higher vulnerability to these changes.",
+          "location": "Measuring Species' Response to Climate Change",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "a species may be exposed to climate change because it experiences an impact like warmer stream temperatures, but if it is resilient to that change or able to disperse into new habitats, it may ultimately have low vulnerability.",
+          "location": "Measuring Species' Response to Climate Change",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "adaptive_capacity_components": {
+      "demography": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Some species may have very specific habitat requirements, a narrow-range, extreme vulnerability to environmental changes, limited mobility, low reproduction or survival rates, or a small population size.",
+            "location": "Chapter 2: Species of Greatest Conservation Need Introduction",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "distribution": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Shorter and warmer winters may cause species range shifts that would allow for warm-adapted species to dominate and shift distributions of cold-adapted species.",
+            "location": "Arkansas and Climate Hazards",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "movement": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "a species may be exposed to climate change because it experiences an impact like warmer stream temperatures, but if it is resilient to that change or able to disperse into new habitats, it may ultimately have low vulnerability.",
+            "location": "Measuring Species' Response to Climate Change",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "evolutionary_potential": {
+        "present": false,
+        "evidence": []
+      },
+      "ecological_dependencies": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "declining host fish populations that mussels rely on to complete their complex life cycle can disrupt mussel recruitment and lead to population declines.",
+            "location": "Taxa Summary: Mussels",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "abiotic_niche": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Ecological niche models (also called species distribution models) start by identifying shared climate conditions at sites where a species is known to have occurred and then predict where similar climate conditions may be found on the landscape in the future.",
+            "location": "Measuring Species' Response to Climate Change",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "life_history": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The reason for the decline of species may be due to a single factor or a combination of factors...impacts to particular stages of their life history, competition with or predation by invasive species",
+            "location": "Chapter 2: Species of Greatest Conservation Need Introduction",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      }
+    },
+    "connectivity": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Nearly 12.4 million acres (36.5%) within Arkansas is considered an inland hub or corridor, providing many conservation opportunities to support species movement and migration which is an important consideration for supporting wildlife adaptation to landscape-level changes",
+          "location": "Chapter 5: Arkansas: A regional perspective (Table 5.1 context)",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Highly resilient sites contain many different habitat niches that support biodiversity and allow species to move freely through the landscape to find suitable microclimates as the climate changes.",
+          "location": "Terrestrial Resilience",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    }
+  },
+  "tools": {
+    "vulnerability_models": {
+      "evaluable": true,
+      "score": 2,
+      "named_tools": ["CCVI", "NatureServe CCVI"],
+      "evidence": [
+        {
+          "text": "Most CCVI assessments done on Arkansas's SGCN to date have focused on birds (Armsworth et al. 2025a). Many of these CCVI assessments indicate that while some bird species may be vulnerable, a larger proportion may remain stable or increase under changing climatic conditions.",
+          "location": "Comparing CCVI and Available Ecological Niche Models Results",
+          "sub_component": null,
+          "citations": ["Armsworth et al. 2025a"]
+        },
+        {
+          "text": "Comparing the results of the ecological niche models to the CCVI estimates for SGCNs within Arkansas reveals similar trends for taxa that were evaluated using both methods. All taxa (including plants) assessed to date will experience some vulnerability to climate change",
+          "location": "Comparing CCVI and Available Ecological Niche Models Results",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "niche_models": {
+      "evaluable": true,
+      "score": 2,
+      "named_tools": ["Ecological Niche Models", "Species Distribution Models"],
+      "evidence": [
+        {
+          "text": "Ecological niche models (also called species distribution models) start by identifying shared climate conditions at sites where a species is known to have occurred and then predict where similar climate conditions may be found on the landscape in the future. Some models also take into account the ability of a species to disperse to reach any new areas that may become climatically suitable.",
+          "location": "Measuring Species' Response to Climate Change",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Arkansas Species of Greatest Conservation Need (SGCN) whose ranges may decrease, remain stable, or increase based on climate change vulnerability scores from available ecological niche models across 12 studies.",
+          "location": "Figure 5.15",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_models": {
+      "evaluable": true,
+      "score": 2,
+      "named_tools": ["CMIP6", "CMIP5", "CMIP6-LOCA2", "NCA5", "NCA4", "USGS National Climate Change Viewer"],
+      "evidence": [
+        {
+          "text": "The climate projections used in the NCA5 were created using global climate models from the Coupled Model Intercomparison Project Phase 6 (CMIP6) that were statistically downscaled to translate large scale changes in the climate under a given SSP or GWL to local scales for impact assessment and planning (Basile et al., 2023).",
+          "location": "Arkansas Climate Resiliency",
+          "sub_component": null,
+          "citations": ["Basile et al., 2023"]
+        },
+        {
+          "text": "The table summarizes projected future number of days for low, moderate, and high SSP emission scenarios using CMIP6-LOCA2 threshold and extreme event metric projections(Alder 2024) summarized at the ecoregion level by the Southeast and South Central Climate Adaptation Science Centers.",
+          "location": "Table 5.5",
+          "sub_component": null,
+          "citations": ["Alder 2024"]
+        }
+      ],
+      "absence_note": {},
+      "time_horizon_years": [2049, 2074],
+      "emission_scenarios": ["SSP1-2.6", "SSP2-4.5", "SSP3-7.0", "SSP5-8.5", "RCP2.6", "RCP4.5", "RCP8.5"]
+    },
+    "connectivity_models": {
+      "evaluable": true,
+      "score": 2,
+      "named_tools": ["Southeast Conservation Blueprint"],
+      "evidence": [
+        {
+          "text": "The Southeast Conservation Blueprint (v2024) is the primary product of SECAS and is a living, spatial plan that identifies priority areas where conservation action would make an impact, based on a suite of natural and cultural resource indicators, towards creating a connected networks of lands and waters across the Southeast.",
+          "location": "Arkansas and the Southeast Conservation Adaptation Strategy (SECAS)",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Figure 5.2 Southeast Blueprint connectivity analysis showing hubs and corridors with protected lands in the state of Arkansas and select surrounding watersheds shared with Louisiana, Mississippi, Missouri, Oklahoma, Tennessee, and Texas.",
+          "location": "Figure 5.2",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document uses the SE Conservation Blueprint connectivity analysis output to identify hubs and corridors for management decisions in Arkansas; this satisfies the 'applied to focal subject' criterion even though the underlying model is not named by algorithm."
+    }
+  },
+  "context": {
+    "management_scale": {
+      "local": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "All habitat restoration projects funded through state wildlife grants include a monitoring component to determine effectiveness of activities toward improving habitat condition.",
+            "location": "Project Level",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "site": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The AGFC's habitat program manages over 350,000 acres across its wildlife management areas (WMAs), with 300,000 acres certified under the Sustainable Forestry Initiative® Forest Management Standard.",
+            "location": "Site Level",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "watershed": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Watersheds and flyways often encompass all or parts of multiple states and require complex coordination among many partners and jurisdictions to improve conditions, regulate harvest and methods, and provide needed habitat.",
+            "location": "Arkansas's Conservation Portfolio: Connecting the Region's Lands and Waters",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "city": {
+        "present": false,
+        "evidence": []
+      },
+      "county": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "If location data was available for a species, it is displayed at the county-level on the species profiles maps.",
+            "location": "Species Distribution",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "within_state_region": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Taxa Teams also noted the presence or absence of each species in each ecoregion and river basins, for aquatic species only.",
+            "location": "Species Distribution",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "state": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The Arkansas Wildlife Action Plan serves as a cooperative, strategic framework for conserving the state's native species and habitats.",
+            "location": "Purpose",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "multistate": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "By identifying shared RSGCN, Arkansas can prioritize conservation actions that not only provide local benefits but support a regional landscape.",
+            "location": "Regional Species of Greatest Conservation Need",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "national": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "In 2018, the Association of Fish and Wildlife Agencies (AFWA) adopted a resolution on landscape conservation that recognized 'the importance of collaborating at landscape scales to help fish and wildlife agencies meet their statutory and regulatory responsibilities to conserve fish and wildlife and their habitats.'",
+            "location": "Chapter 5: Arkansas: A regional perspective",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "transnational": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Conservation of these Arkansas SGCN must extend to their full life cycle and include the restoration and protection of the winter habitats on which they depend in Central and South America.",
+            "location": "Taxa Summary: Birds",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "This enables us to better focus conservation efforts to address and effectively manage the overall health of ecosystems at a landscape-level",
+            "location": "Chapter 2: Species of Greatest Conservation Need Introduction",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecoregion": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Taxa Teams also noted the presence or absence of each species in each ecoregion and river basins, for aquatic species only.",
+            "location": "Species Distribution",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "province": {
+        "present": false,
+        "evidence": []
+      },
+      "section": {
+        "present": false,
+        "evidence": []
+      },
+      "subsection": {
+        "present": false,
+        "evidence": []
+      },
+      "lake": {
+        "present": false,
+        "evidence": []
+      },
+      "river": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The White River drains 27,765 square miles of northern Arkansas and southern Missouri. It is the largest river drainage in Arkansas",
+            "location": "White River Basin",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "district": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["Ozark Highlands", "Ouachita Mountains", "Mississippi Alluvial Valley", "Arkansas Valley", "West Gulf Coastal Plain", "Boston Mountains", "White River Basin", "Arkansas River Basin", "Ouachita River Basin", "Red River Basin", "SE Conservation Blueprint priority areas", "19 Conservation Opportunity Areas"]
+    },
+    "biological_unit_score": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Arkansas has identified Species of Greatest Conservation Need (SGCN) and outlined strategies to sustain them, including conservation actions to promote species recovery and prevent federal listings under the Endangered Species Act.",
+          "location": "Chapter 5: Arkansas: A regional perspective",
+          "sub_component": "species",
+          "citations": []
+        },
+        {
+          "text": "Freshwater ecosystems (e.g., streams, rivers, lakes, and wetlands) of the Southeast are highly vulnerable to warming. Impacts on rare species of fish and mussels are of particular concern in a changing climate.",
+          "location": "Arkansas and Climate Hazards",
+          "sub_component": "ecosystem",
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "biological_unit_components": {
+      "species": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Species of Greatest Conservation Need (SGCN) are native plant and animal species that are considered or are thought to be in decline and are at a greater risk of extirpation or even extinction.",
+            "location": "Chapter 2: Species of Greatest Conservation Need Introduction",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "population": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Shorter and warmer winters may cause species range shifts that would allow for warm-adapted species to dominate and shift distributions of cold-adapted species.",
+            "location": "Arkansas and Climate Hazards",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "habitat": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Freshwater ecosystems (e.g., streams, rivers, lakes, and wetlands) of the Southeast are highly vulnerable to warming.",
+            "location": "Arkansas and Climate Hazards",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Freshwater ecosystems (e.g., streams, rivers, lakes, and wetlands) of the Southeast are highly vulnerable to warming. Impacts on rare species of fish and mussels are of particular concern in a changing climate.",
+            "location": "Arkansas and Climate Hazards",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "community": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "In general, temperature regimes of freshwater ecosystems are projected to increase in parallel with shifts in air temperatures, which in turn may alter plant and animal communities, including migratory birds",
+            "location": "Arkansas and Climate Hazards",
+            "sub_component": null,
+            "citations": ["Princé and Zuckerberg 2015"]
+          }
+        ]
+      },
+      "genotype_phenotype": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["SGCN", "RSGCN", "amphibians", "fish", "mussels", "birds", "bats", "insects", "plants", "crayfish", "freshwater mussels", "reptiles"]
+    },
+    "partnerships_and_funding": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "The current primary method for implementing the AWAP is through the State Wildlife Grants (SWG) program is a non-competitive federal grant program that is managed by the United States Fish and Wildlife Service's (USFWS) office of Conservation Investment (CI)",
+          "location": "Implementing Arkansas's Wildlife Action Plan",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "AGFC has partnered with The Nature Conservancy (TNC) to develop specific Conservation Plans for each COA.",
+          "location": "Figure caption (COA discussion)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_threat_habitat_degradation": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Freshwater ecosystems (e.g., streams, rivers, lakes, and wetlands) of the Southeast are highly vulnerable to warming. Impacts on rare species of fish and mussels are of particular concern in a changing climate. The combined effects of warming and changes in precipitation will likely alter overall hydrology including increased evapotranspiration and reduced stream base flow",
+          "location": "Arkansas and Climate Hazards",
+          "sub_component": null,
+          "citations": ["Ingram et al., 2013"]
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_threat_species_vital_rates": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "the threat from climate change is evident in longer periods of low water and likely higher water temperatures, as well as higher and more frequent high flow events.",
+          "location": "Appendix C: COA Conservation Plans Overviews",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document references higher water temperatures and longer low-flow periods affecting aquatic species, with COA plans noting climate change 'exacerbates the impact of all other threats' and 'Increasingly long droughts are thought to be impacting yellowcheek darter populations.' The yellowcheek darter framing is the clearest direct vital-rate link."
+    },
+    "climate_threat_biotic_stressors": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Shorter and warmer winters may cause species range shifts that would allow for warm-adapted species to dominate and shift distributions of cold-adapted species.",
+          "location": "Arkansas and Climate Hazards",
+          "sub_component": null,
+          "citations": ["Williams et al., 2014"]
+        }
+      ],
+      "absence_note": {}
+    }
+  },
+  "actions": {
+    "priority_habitat_identification": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Incorporating 19 recently established Conservation Opportunity Areas (COAs), each with a developed Conservation Plan, which are summarized within the Plan (Chapter 4; Appendix C).",
+          "location": "Summary of Changes",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "The Southeast Conservation Blueprint (v2024) is the primary product of SECAS and is a living, spatial plan that identifies priority areas where conservation action would make an impact, based on a suite of natural and cultural resource indicators, towards creating a connected networks of lands and waters across the Southeast.",
+          "location": "Arkansas and the Southeast Conservation Adaptation Strategy (SECAS)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "targeted_range_shift_actions": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "The comparison of these two methods supports focusing climate adaptation strategies on the conservation of amphibians and aquatic species. SARP already considers identification and remediation of anthropogenic barriers to aquatic organism passage a priority conservation action, and this can also be an important climate adaptation strategy to support the resilience of fish and other species that rely on aquatic connectivity.",
+          "location": "Comparing CCVI and Available Ecological Niche Models Results",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document scores 1 primarily on the basis of recommending barrier removal as a climate adaptation strategy to support species that rely on aquatic connectivity—this is structural facilitation of movement in a climate-change framing. The document does not describe assisted migration or direct translocation for climate adaptation."
+    },
+    "time_bound_and_monitoring": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "AGFC commits to completing a third comprehensive review and revision of the AWAP process and plan by October 1, 2035.",
+          "location": "Commitment to Periodic Review and Revision",
+          "sub_component": "deadlines",
+          "citations": []
+        },
+        {
+          "text": "All habitat restoration projects funded through state wildlife grants include a monitoring component to determine effectiveness of activities toward improving habitat condition. Projects also include commitments by managers to maintain habitat for a determined period of time.",
+          "location": "Project Level",
+          "sub_component": "monitoring",
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "evidence_of_efficacy": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Comparing the results of the ecological niche models to the CCVI estimates for SGCNs within Arkansas reveals similar trends for taxa that were evaluated using both methods.",
+          "location": "Comparing CCVI and Available Ecological Niche Models Results",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "SARP already considers identification and remediation of anthropogenic barriers to aquatic organism passage a priority conservation action, and this can also be an important climate adaptation strategy to support the resilience of fish and other species that rely on aquatic connectivity.",
+          "location": "Comparing CCVI and Available Ecological Niche Models Results",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "Score of 2 (limited evidence) rather than 3: the document incorporates literature-derived CCVI and niche model results as evidence for proposed actions, but these are primarily vulnerability assessments rather than evaluations of specific management actions already implemented. No post-implementation case studies for climate adaptation actions in Arkansas are presented.",
+      "projects": ["CCVI assessments (Armsworth et al. 2025a, 2025b): These datasets compile CCVI estimates from published literature for Arkansas SGCN, providing limited but relevant evidence of species vulnerability that informs prioritization of climate adaptation actions.", "SE Conservation Blueprint and SECAS connectivity analysis: Applied connectivity modeling to identify hubs, corridors, and priority areas for conservation in Arkansas; used to prioritize climate-adaptive land protection strategies."]
+    },
+    "adaptation_planning_frameworks": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Identifying adaptation strategies to address impacts and vulnerability is a step towards climate resiliency. Climate adaptation and mitigation comes in various forms, and multiple frameworks have been built to support planning for and implementing climate adaptation. Most climate adaptation frameworks generally include: Recognizing limitations to adaptation... Deciding which type(s) of adaptation approach(es) meet specific conservation goals.",
+          "location": "Adaptation Strategies",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "The AFWA 2022 (2nd Edition) Voluntary Guidance for States to Incorporate Climate Adaptation into State Wildlife Action Plans provides recommended steps for developing and implementing adaptation strategies. Much of the guidance includes taking a broader, regional approach to incorporating climate adaptation into SWAPs.",
+          "location": "Arkansas Climate Resiliency",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "Score of 2: the document explicitly references specific climate adaptation planning frameworks (AFWA Voluntary Guidance for SWAPs, CCVA/CCVI framework per Williams et al. 2008, and the SECAS/SE Blueprint as a spatial planning tool). This goes beyond generic mention of 'frameworks' to naming specific processes used in the context of climate adaptation planning."
+    }
+  },
+  "coding_meta": {
+    "coder": "llm:claude-sonnet-4-6",
+    "model": "claude-sonnet-4-6",
+    "provider": "claude",
+    "codebook_version": "0.4",
+    "ingest": "text",
+    "design": "single",
+    "temperature": null,
+    "thinking": null,
+    "thinking_effort": null,
+    "coded_at": "2026-07-06T18:39:20Z",
+    "notes": {}
+  }
+}

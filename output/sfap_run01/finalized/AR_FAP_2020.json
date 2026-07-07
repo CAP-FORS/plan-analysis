@@ -1,0 +1,559 @@
+{
+  "document_meta": {
+    "title": "Arkansas 2020-2029 Forest Action Plan",
+    "year": 2020,
+    "jurisdiction": "Arkansas",
+    "document_type": "State Forest Action Plan",
+    "document_id": "AR_FAP_2020",
+    "page_count": 71
+  },
+  "orientation": {
+    "summary": "The Arkansas 2020-2029 Forest Action Plan is a state-level forest management plan produced by the Arkansas Department of Agriculture – Forestry Division, covering the period 2020–2029. The document addresses forest conditions, threats, priority areas, and strategies for Arkansas's forests. Climate change is acknowledged peripherally as a threat factor (more volatile and extreme conditions, extended fire seasons, drought) but is not a central organizing theme; there is no systematic climate vulnerability analysis, no climate modeling, and no species distribution modeling performed. Range shifts are not discussed as a concept; the document does not engage with climate-driven distributional change for species or habitats. The plan's analysis is largely qualitative, drawing on the Southern Forest Land Assessment, the Arkansas Wildlife Action Plan, and forest inventory data, with a GIS-based priority area delineation performed by The Nature Conservancy.",
+    "evidence_index": [
+      {
+        "text": "Climate change, in the context of Arkansas forests, can be described as conditions that are more volatile and extreme than the forests of Arkansas are adapted to. More intense rain events, longer drought periods, and warmer winters can cause changes in forest resiliency.",
+        "location": "Climate Challenges",
+        "relevant_elements": ["1.1", "3.5", "3.6"]
+      },
+      {
+        "text": "Lower resiliency creates openings for catastrophic wildfires, insect and disease outbreaks, and increased storm damage.",
+        "location": "Climate Challenges",
+        "relevant_elements": ["3.5", "3.6", "3.7"]
+      },
+      {
+        "text": "Direct climate driven changes, such as extended spring and autumn fire seasons, may lead to hotter and larger wildfire events.",
+        "location": "Climate Challenges",
+        "relevant_elements": ["3.5", "3.6"]
+      },
+      {
+        "text": "climate changes coupled with increased development in the wildland-urban interface are expected to create significant challenges in public safety (Wear and Greis 2012).",
+        "location": "Climate Challenges",
+        "relevant_elements": ["1.1", "3.5"]
+      },
+      {
+        "text": "the interaction of population growth, climate change, timber markets, and invasive species will define the South's future forests.",
+        "location": "Recognized Threats",
+        "relevant_elements": ["1.1", "3.7"]
+      },
+      {
+        "text": "The problem is exacerbated with issues arising from variable weather patterns and climatic changes, such as the frequency and severity of drought.",
+        "location": "Water Supply Forest Conservation",
+        "relevant_elements": ["3.5"]
+      },
+      {
+        "text": "High tree density can lead to low resilience to biological disturbances like insect and disease outbreaks.",
+        "location": "Unmanaged Forest Property",
+        "relevant_elements": ["1.1", "3.7"]
+      },
+      {
+        "text": "Forests are recognized as a piece of the solution to climate change. Landowners and land managers understand the carbon financing process.",
+        "location": "Carbon Programs",
+        "relevant_elements": ["1.1"]
+      },
+      {
+        "text": "There is an ever-increasing set of non-native invasive species that negatively impact forest ecosystems.",
+        "location": "Forest Pest Issues",
+        "relevant_elements": ["3.7"]
+      },
+      {
+        "text": "As wildfire severity and frequency increase, states are ready to provide resources when needed.",
+        "location": "Multi-state Priorities (South Central Forest Fire Protection Compact)",
+        "relevant_elements": ["3.5"]
+      },
+      {
+        "text": "The Forestry Division has opportunities to participate in various initiatives and programs that extend beyond the state borders.",
+        "location": "Multi-state Priorities",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "Shortleaf pine is now found on less than 50 percent of its historic range.",
+        "location": "Multi-state Priorities",
+        "relevant_elements": ["3.3"]
+      },
+      {
+        "text": "The Arkansas Wildlife Action Plan identifies the 'species of greatest conservation need' (SGCN) found in each ecoregion.",
+        "location": "Ecoregions and the Arkansas Wildlife Action Plan",
+        "relevant_elements": ["3.3"]
+      },
+      {
+        "text": "Update current Community Wildfire Protection Plans every three years.",
+        "location": "Strategy 5: Wildfire Protection",
+        "relevant_elements": ["4.3"]
+      },
+      {
+        "text": "Action 4.1.4: Track prescribed fire implementation annually.",
+        "location": "Strategy 4 (Prescribed Fire)",
+        "relevant_elements": ["4.3"]
+      },
+      {
+        "text": "Produce a periodic BMP Implementation Survey using data driven conclusions.",
+        "location": "Objective 3.4",
+        "relevant_elements": ["4.3", "4.4"]
+      },
+      {
+        "text": "Conservation opportunity areas identified; priority area delineation using GIS analysis by The Nature Conservancy producing HUC 10 watershed-level priority maps.",
+        "location": "Priority Areas",
+        "relevant_elements": ["4.1"]
+      },
+      {
+        "text": "Rachel Worthen, GIS Specialist at The Nature Conservancy, conducted the GIS analysis that produced the Arkansas Forest Action Plan Priority Areas.",
+        "location": "Stakeholder Groups Engaged",
+        "relevant_elements": ["4.1"]
+      },
+      {
+        "text": "The conservation of riparian forests and corridors and using best management practices for water quality to decrease run-off and pollution are critical steps in keeping our waters clean",
+        "location": "Water Supply Forest Conservation",
+        "relevant_elements": ["1.4"]
+      },
+      {
+        "text": "Jointly develop a scope of collaborative partnership document. Request participation from select partners, including, but not limited to, 'the Parties' of the Memorandum of Understanding for Shared Stewardship signed in 2019",
+        "location": "Strategy 1: Collaborative Partnerships Around the Forest Action Plan",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "Develop and implement Good Neighbor Authority (GNA) projects. Outcome: Two GNA timber sales implemented.",
+        "location": "Strategy 1: Collaborative Partnerships Around the Forest Action Plan",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "Action 2.5.2: Tree improvement methods produce better performing seedlings that are adapted to native ecosystems.",
+        "location": "Opportunity Areas",
+        "relevant_elements": ["1.3"]
+      },
+      {
+        "text": "Predisposing and inciting factors like drought, overcrowding, advanced age, and carbon starvation may cause decline events.",
+        "location": "Forest Pest Issues",
+        "relevant_elements": ["3.6"]
+      },
+      {
+        "text": "Monitor southern pine beetle (SPB) activity and use predictive models to estimate impacts.",
+        "location": "Objective 6.3",
+        "relevant_elements": ["4.3"]
+      }
+    ]
+  },
+  "concepts": {
+    "climate_vulnerability": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Climate change, in the context of Arkansas forests, can be described as conditions that are more volatile and extreme than the forests of Arkansas are adapted to. More intense rain events, longer drought periods, and warmer winters can cause changes in forest resiliency.",
+          "location": "Climate Challenges",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document references climate change as a threat to forests in a non-specific way — discussing volatility and extremes — but does not articulate climate exposure as a formal concept, does not use the term 'adaptive capacity' in an ecological sense, and does not decompose vulnerability into exposure and adaptive capacity. The term 'resiliency' appears but not in a climate vulnerability assessment framing. Score 1 (generic vulnerability reference, no exposure or adaptive capacity axes)."
+    },
+    "adaptive_capacity_specificity": {
+      "evaluable": true,
+      "score": 0,
+      "evidence": [],
+      "absence_note": "The document uses 'resiliency' and 'resilience' in the context of forest health and disturbance (insects, wildfire, storm), not as ecological adaptive capacity to climate change. No specific components of adaptive capacity (dispersal, evolutionary potential, demography, abiotic niche) are discussed in a climate-adaptation context. The one mention of seedlings 'adapted to native ecosystems' is about local provenance nursery stock, not climate adaptive capacity."
+    },
+    "adaptive_capacity_components": {
+      "demography": {
+        "present": false,
+        "evidence": []
+      },
+      "distribution": {
+        "present": false,
+        "evidence": []
+      },
+      "movement": {
+        "present": false,
+        "evidence": []
+      },
+      "evolutionary_potential": {
+        "present": false,
+        "evidence": []
+      },
+      "ecological_dependencies": {
+        "present": false,
+        "evidence": []
+      },
+      "abiotic_niche": {
+        "present": false,
+        "evidence": []
+      },
+      "life_history": {
+        "present": false,
+        "evidence": []
+      }
+    },
+    "connectivity": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "The conservation of riparian forests and corridors and using best management practices for water quality to decrease run-off and pollution are critical steps in keeping our waters clean and retaining the ability to manage forests desirable to the public.",
+          "location": "Water Supply Forest Conservation",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document mentions 'riparian forests and corridors' in the context of water quality, not in a climate-relevant connectivity or range-shift framing. There is no discussion of wildlife corridors, climate corridors, landscape permeability, or connectivity for species movement in response to climate change. Score 1 (generic connectivity mention without climate framing)."
+    }
+  },
+  "tools": {
+    "vulnerability_models": {
+      "evaluable": true,
+      "score": 0,
+      "named_tools": [],
+      "evidence": [],
+      "absence_note": "No vulnerability models (CCVI, PVA, or any climate vulnerability framework) are referenced anywhere in the document."
+    },
+    "niche_models": {
+      "evaluable": true,
+      "score": 0,
+      "named_tools": [],
+      "evidence": [],
+      "absence_note": "No species distribution models or niche models are referenced. The GIS priority area analysis uses weighted overlay of forest resource layers, not species distribution modeling."
+    },
+    "climate_models": {
+      "evaluable": true,
+      "score": 0,
+      "named_tools": [],
+      "evidence": [],
+      "absence_note": "The document discusses climate change qualitatively (more extreme conditions, drought, wildfire) but references no GCMs, RCPs, SSPs, downscaled projections, or any named climate model or scenario. The Southern Forest Futures Project (Wear and Greis 2012) is cited in connection with climate change but no climate model use is described.",
+      "time_horizon_years": [],
+      "emission_scenarios": []
+    },
+    "connectivity_models": {
+      "evaluable": true,
+      "score": 0,
+      "named_tools": [],
+      "evidence": [],
+      "absence_note": "No connectivity models are referenced. The GIS analysis by The Nature Conservancy is a weighted overlay of resource priority layers (SFLA), not a connectivity model such as CircuitScape or least-cost path analysis."
+    }
+  },
+  "context": {
+    "management_scale": {
+      "local": {
+        "present": false,
+        "evidence": []
+      },
+      "site": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Action 4.2.2: Prescribed burn 7,000 acres annually at Poison Springs State Forest.",
+            "location": "Strategy 4 (Prescribed Fire)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "watershed": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "HUC 10 watershed means were calculated (Zonal Statistics) to produce a map of Resource Priority by HUC 10 Watersheds",
+            "location": "Priority Areas",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "city": {
+        "present": false,
+        "evidence": []
+      },
+      "county": {
+        "present": false,
+        "evidence": []
+      },
+      "within_state_region": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "a decision was made to reclassify the priority levels in the South Central Plains Level III Ecoregion.",
+            "location": "Priority Areas",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "state": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The Arkansas 2020-2029 Forest Action Plan is the updated successor to the former Statewide Forest Resources Assessment & Strategy of 2010.",
+            "location": "Role of the Arkansas Department of Agriculture -Forestry Division",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "multistate": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The Forestry Division has opportunities to participate in various initiatives and programs that extend beyond the state borders. Collaborative efforts are valued to address resource threats that do not stop at political boundaries.",
+            "location": "Multi-state Priorities",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "national": {
+        "present": false,
+        "evidence": []
+      },
+      "transnational": {
+        "present": false,
+        "evidence": []
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The AWAP recognizes healthy forests as critical to the maintenance and improvement in wildlife populations. It also recognizes that many forest habitats need management and that no management is a threat to forest health.",
+            "location": "Ecoregions and the Arkansas Wildlife Action Plan",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecoregion": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "There are seven Level III Ecoregions in Arkansas. Thorough descriptions of the geology and habitats found within each ecoregion can be referenced in the Arkansas Wildlife Action Plan (AWAP).",
+            "location": "Arkansas Ecoregions",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "province": {
+        "present": false,
+        "evidence": []
+      },
+      "section": {
+        "present": false,
+        "evidence": []
+      },
+      "subsection": {
+        "present": false,
+        "evidence": []
+      },
+      "lake": {
+        "present": false,
+        "evidence": []
+      },
+      "river": {
+        "present": false,
+        "evidence": []
+      },
+      "district": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["HUC 10 watersheds", "HUC 12 watersheds", "South Central Plains Level III Ecoregion", "Ozark Mountains", "Boston Mountains", "Ouachita Mountains", "Mississippi Alluvial Plain", "Arkansas Valley", "Crowley's Ridge", "Ozark-St. Francis National Forest", "Ouachita National Forest", "Poison Springs State Forest"]
+    },
+    "biological_unit_score": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "The Arkansas Wildlife Action Plan identified the 'species of greatest conservation need' (SGCN) found in each ecoregion",
+          "location": "Ecoregions and the Arkansas Wildlife Action Plan",
+          "sub_component": "species",
+          "citations": ["Fowler 2015"]
+        },
+        {
+          "text": "The AWAP identifies and prioritizes important wildlife habitats for protection and restoration.",
+          "location": "Ecoregions and the Arkansas Wildlife Action Plan",
+          "sub_component": "habitat",
+          "citations": []
+        }
+      ],
+      "absence_note": "The document discusses species (SGCN) and habitats (forest habitats, riparian habitats) in its context. However, neither species nor habitats are discussed in a range-shift context. The score reflects that two biological units (species and habitat) are mentioned, but not in relation to range shifts specifically. Given the document has essentially no range-shift content, this score is generous — the units are named in the management context generally."
+    },
+    "biological_unit_components": {
+      "species": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The Arkansas Wildlife Action Plan identified the 'species of greatest conservation need' (SGCN) found in each ecoregion",
+            "location": "Ecoregions and the Arkansas Wildlife Action Plan",
+            "sub_component": null,
+            "citations": ["Fowler 2015"]
+          }
+        ]
+      },
+      "population": {
+        "present": false,
+        "evidence": []
+      },
+      "habitat": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The AWAP identifies and prioritizes important wildlife habitats for protection and restoration. These priorities can change during biennial reviews.",
+            "location": "Ecoregions and the Arkansas Wildlife Action Plan",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Forests are recognized as a piece of the solution to climate change. Landowners and land managers understand the carbon financing process.",
+            "location": "Carbon Programs",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "community": {
+        "present": false,
+        "evidence": []
+      },
+      "genotype_phenotype": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["Shortleaf pine (Pinus echinata)", "Loblolly pine (Pinus taeda)", "Red-cockaded woodpecker", "Southern pine beetle", "White oak (Quercus alba)", "Ozark-Ouachita forest habitats"]
+    },
+    "partnerships_and_funding": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Jointly develop a scope of collaborative partnership document. Request participation from select partners, including, but not limited to, 'the Parties' of the Memorandum of Understanding for Shared Stewardship signed in 2019",
+          "location": "Strategy 1: Collaborative Partnerships Around the Forest Action Plan",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "The Forestry Division has opportunities to participate in various initiatives and programs that extend beyond the state borders. Collaborative efforts are valued to address resource threats that do not stop at political boundaries.",
+          "location": "Multi-state Priorities",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "Partnerships are described (MOU for Shared Stewardship, Southeastern Partnership for Forests and Water, Shortleaf Pine Initiative, White Oak Initiative, Keeping Forests, etc.) but these are general forest management partnerships, not specifically for range-shift work. No dedicated funding is described for range-shift actions. Score 1 (some partnerships described but limited/aspirational and not specifically for range-shift management)."
+    },
+    "climate_threat_habitat_degradation": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Climate change, in the context of Arkansas forests, can be described as conditions that are more volatile and extreme than the forests of Arkansas are adapted to. More intense rain events, longer drought periods, and warmer winters can cause changes in forest resiliency. Lower resiliency creates openings for catastrophic wildfires, insect and disease outbreaks, and increased storm damage.",
+          "location": "Climate Challenges",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_threat_species_vital_rates": {
+      "evaluable": true,
+      "score": 0,
+      "evidence": [],
+      "absence_note": "The document discusses wildfire, insect outbreaks, and disease in the context of forest health, and mentions drought as a predisposing factor for pest outbreaks. However, the framing is consistently 'climate → habitat/forest condition → eventual pest/fire threat' rather than a direct 'climate event → species vital rate' linkage. The chain is indirect (climate degrades forest health, which then allows pests). No direct mortality events attributed to climate are described. Score 0."
+    },
+    "climate_threat_biotic_stressors": {
+      "evaluable": true,
+      "score": 0,
+      "evidence": [],
+      "absence_note": "Invasive species are discussed extensively (emerald ash borer, gypsy moth, kudzu, etc.) but without climate framing — they are treated as ongoing biological threats, not climate-favored expansions. The document mentions 'the interaction of population growth, climate change, timber markets, and invasive species' (Wear and Greis 2012) as a cluster of threats, but does not specifically frame any invasive species expansion as climate-driven. No phenological mismatch or trophic asynchrony is discussed. Score 0."
+    }
+  },
+  "actions": {
+    "priority_habitat_identification": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Rachel Worthen, GIS Specialist at The Nature Conservancy, conducted the GIS analysis that produced the Arkansas Forest Action Plan Priority Areas.",
+          "location": "Stakeholder Groups Engaged",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "HUC 10 watershed means were calculated (Zonal Statistics) to produce a map of Resource Priority by HUC 10 Watersheds",
+          "location": "Priority Areas",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "all watersheds with very high, high, and moderate priority level were combined into one statewide priority area.",
+          "location": "Priority Areas",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "Priority habitat is identified with spatial representation (GIS-based maps, HUC 10 watershed prioritization, Forest Legacy Areas map). However, this is forest resource prioritization for general forest management, not specifically for climate-driven range shift management. The score reflects that spatial prioritization is present, but it is not climate-range-shift specific. Score 2 for spatial priority habitat identification, acknowledging it is not range-shift-specific."
+    },
+    "targeted_range_shift_actions": {
+      "evaluable": true,
+      "score": 0,
+      "evidence": [],
+      "absence_note": "No targeted actions to manage climate-driven species range shifts are described. There is no mention of assisted migration, climate corridors, species translocation for climate adaptation, or any action explicitly framed as facilitating or responding to range shifts. Reforestation and seedling programs are discussed but framed as forest management, not range-shift adaptation."
+    },
+    "time_bound_and_monitoring": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Update current Community Wildfire Protection Plans every three years.",
+          "location": "Strategy 5: Wildfire Protection",
+          "sub_component": "deadlines",
+          "citations": []
+        },
+        {
+          "text": "Action 3.4.1: Produce a periodic BMP Implementation Survey using data driven conclusions.",
+          "location": "Objective 3.4",
+          "sub_component": "monitoring",
+          "citations": []
+        },
+        {
+          "text": "Action 4.1.4: Track prescribed fire implementation annually.",
+          "location": "Strategy 4 (Prescribed Fire)",
+          "sub_component": "monitoring",
+          "citations": []
+        }
+      ],
+      "absence_note": "The document includes both action-level milestones (e.g., CWPP updates every 3 years, first partnership meeting in 2021, annual prescribed burn targets) and effectiveness monitoring (BMP implementation surveys, fire implementation tracking, SPB monitoring). Score 2 is awarded, though these are for general forest management rather than range-shift-specific actions."
+    },
+    "evidence_of_efficacy": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "the interaction of population growth, climate change, timber markets, and invasive species will define the South's future forests.",
+          "location": "Recognized Threats",
+          "sub_component": null,
+          "citations": ["Wear and Greis 2012"]
+        }
+      ],
+      "absence_note": "The document cites a handful of external reports (Wear and Greis 2012, Liu et al. 2020, Rosson 2020, Fowler 2015) to contextualize threats and conditions, but these are not used to provide evidence for the efficacy of specific conservation actions. Actions are presented with desired outcomes but without data-backed justification. Score 1 (rationale outlined, citing reports as first-principles justification, but no evidence specifically supporting the efficacy of proposed actions).",
+      "projects": ["Southern Forest Futures Project (Wear and Greis 2012): cited to support characterizations of threats to southern forests including climate change and urbanization; provides general ecological rationale but not direct evidence of efficacy for specific actions in the plan."]
+    },
+    "adaptation_planning_frameworks": {
+      "evaluable": true,
+      "score": 0,
+      "evidence": [],
+      "absence_note": "The document does not reference any named climate adaptation planning frameworks (RAD, RRT, CCVA, SBDA, SDM in the structured decision-making sense, adaptation menus, etc.). The plan has a general adaptive management orientation (periodic reviews, monitoring, lessons learned) but this is not framed in a climate adaptation context. Carbon programs and climate are mentioned briefly but no formal climate adaptation planning framework is referenced."
+    }
+  },
+  "coding_meta": {
+    "coder": "llm:claude-sonnet-4-6",
+    "model": "claude-sonnet-4-6",
+    "provider": "claude",
+    "codebook_version": "0.4",
+    "ingest": "text",
+    "design": "single",
+    "temperature": null,
+    "thinking": null,
+    "thinking_effort": null,
+    "coded_at": "2026-07-07T00:31:30Z",
+    "notes": {}
+  }
+}

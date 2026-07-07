@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Appendix 13. List of Iowa Moth Species Evaluated by the IWAP</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<title level="a" type="main">Appendix 13. List of Iowa Moth Species Evaluated by the IWAP</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">911FC4D278C03C1DEDEC891822D48FD1</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.1" ident="GROBID" when="2026-07-06T11:45+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Taxonomic order and scientific names derived from: BugGuide website.</p><p>SGCN refers to Species of Greatest Conservation Need (SGCN) status as determined through IWAP species conservation status assessments. Y: Yes, species is SGCN. Blank: No, species is not SGCN.</p><p>T/E Status: Refers to whether a species is federally listed as Endangered, Threatened, or Candidate at the time of this plan's publication. It also refers to those species proposed for Endangered, Threatened or Delisting status at the state level. For up-to-date state of Iowa listing information, please see the Threatened and Endangered Species Program page on the DNR website.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Regional SGCN: To access more information about this effort and for the updated list of Regional SGCN.</p><p>• R: Species is considered a Regional Species of Greatest Conservation Need in the Midwest.</p><p>• W: Watchlist. This is a list of species for which there was concern but insufficient information or differing trends across the region (WA: Watchlist -Assessment Priority). For some species this is because there is a different region of the country that is more important to the species than the Midwest (WD: Watchlist -Defer to adjacent region).</p><p>Assessments of species conservation status undertaken as part of the IWAP are used to determine SGCN status. Other information is provided as a reference. Updates to State Wildlife Action Plans, Regional SGCN lists, Federal T&amp;E Status, etc., are each independent processes, undertaken by different entities with differing timeframes. As such, the various listings or status ranks for a given species at a given point in time may not always appear to be in accord. Please visit the links above for updated information. Data Deficient Species -Species evaluated by butterfly subcommittee for which insufficient information was available to conduct a conservation status assessment. These species are considered SGCN because additional research and/or monitoring is needed in order to determine their conservation status. </p></div><figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Common Name Scientific Name SGCN T/E Status Regional SGCN Family: Saturniidae</head><label></label><figDesc></figDesc><table><row><cell></cell><cell>Common Name</cell><cell>Scientific Name</cell><cell>SGCN</cell><cell>T/E Status</cell><cell>Regional SGCN</cell></row><row><cell>10</cell><cell>The starry campion moth</cell><cell>Hadena ectypa</cell><cell>Y</cell><cell></cell><cell>R</cell></row><row><cell>11</cell><cell>Fingered lemmeria moth</cell><cell>Lemmeria digitalis</cell><cell>Y</cell><cell></cell></row><row><cell>12</cell><cell>Franclemont's lithophane</cell><cell>Lithophane franclemonti</cell><cell>Y</cell><cell></cell><cell>PR</cell></row><row><cell>13</cell><cell>Newman's brocade</cell><cell>Meropleon ambifusca</cell><cell>Y</cell><cell></cell></row><row><cell>14</cell><cell>Blazing star stem borer</cell><cell>Papaipema beeriana</cell><cell>Y</cell><cell></cell><cell>R</cell></row><row><cell>15</cell><cell>Golden borer moth</cell><cell>Papaipema cerina</cell><cell>Y</cell><cell></cell><cell>R</cell></row><row><cell>16</cell><cell>Rattlesnake-master borer moth</cell><cell>Papaipema eryngii</cell><cell>Y</cell><cell></cell><cell>R</cell></row><row><cell>17</cell><cell>Eupatorium borer moth</cell><cell>Papaipema eupatoria</cell><cell>Y</cell><cell></cell></row><row><cell>18</cell><cell>Ash tip borer moth</cell><cell>Papaipema furcata</cell><cell>Y</cell><cell></cell></row><row><cell>19</cell><cell>Turtle head borer moth</cell><cell>Papaipema nepheleptena</cell><cell>Y</cell><cell></cell><cell>WA</cell></row><row><cell>20</cell><cell>Culvers root borer</cell><cell>Papaipema sciata</cell><cell>Y</cell><cell></cell><cell>R</cell></row><row><cell>21</cell><cell>Silphium borer moth</cell><cell>Papaipema silphii</cell><cell>Y</cell><cell></cell><cell>R</cell></row><row><cell>22</cell><cell></cell><cell>Plagiomimicus heitzmani</cell><cell>Y</cell><cell></cell></row><row><cell>23</cell><cell>Bina flower moth</cell><cell>Schinia bina</cell><cell>Y</cell><cell></cell><cell>R</cell></row><row><cell>24</cell><cell>Leadplant flower moth</cell><cell>Schinia lucens</cell><cell>Y</cell><cell></cell><cell>R</cell></row><row><cell>25</cell><cell>Bleeding flower moth</cell><cell>Schinia sanguinea</cell><cell>Y</cell><cell></cell></row><row><cell>26</cell><cell>Northern flower moth</cell><cell>Schinia septentrionalis</cell><cell>Y</cell><cell></cell></row><row><cell>27</cell><cell>Marked noctuid</cell><cell>Tricholita notata</cell><cell>Y</cell><cell></cell><cell>R</cell></row><row><cell cols="2">Family: Crambidae-Grass Moths</cell><cell></cell><cell></cell><cell></cell></row><row><cell>28</cell><cell>A prairie sedge moth</cell><cell>Neodactria murellus</cell><cell>Y</cell><cell></cell><cell>WA</cell></row><row><cell cols="2">Family: Pyralidae-Pyralid Moths</cell><cell></cell><cell></cell><cell></cell></row><row><cell>29</cell><cell>Sand dune panic grass moth</cell><cell>Coenochroa bipunctella</cell><cell>Y</cell><cell></cell><cell>WA</cell></row><row><cell cols="2">Family: Tortricidae-Leafroller Moths</cell><cell></cell><cell></cell><cell></cell></row><row><cell>30</cell><cell>An aethes moth</cell><cell>Aethes patricia</cell><cell>Y</cell><cell></cell><cell>WA</cell></row><row><cell>31</cell><cell>A tortricid moth</cell><cell>Ancylis semiovana</cell><cell>Y</cell><cell></cell><cell>R</cell></row><row><cell>32</cell><cell>Two-lined eucosma</cell><cell>Eucosma bilineana</cell><cell>Y</cell><cell></cell></row><row><cell>1</cell><cell>Eastern buckmoth</cell><cell>Hemileuca maia</cell><cell>Y</cell><cell></cell></row><row><cell cols="3">Family: Elachistidae-Grass Miner Moths</cell><cell></cell><cell></cell></row><row><cell>2</cell><cell>A grass miner moth</cell><cell>Agonopterix lythrella</cell><cell>Y</cell><cell></cell><cell>WA</cell></row><row><cell cols="2">Family: Gelechiidae-Twirler Moths</cell><cell></cell><cell></cell><cell></cell></row><row><cell>3</cell><cell>Early leadplant leaf-twirler moth</cell><cell>Anacampsis wikeri</cell><cell>Y</cell><cell></cell><cell>R</cell></row><row><cell cols="3">Family: Gracillariidae-Leaf Blotch Miner Moths</cell><cell></cell><cell></cell></row><row><cell>4</cell><cell>Marbleseed leafminer</cell><cell>Acrocercops pnosmodiella</cell><cell>Y</cell><cell></cell><cell>PR</cell></row><row><cell cols="3">Family: Erebidae-Underwing, Tiger, Tussock and Allied Moths</cell><cell></cell><cell></cell></row><row><cell>5</cell><cell>Abbreviated underwing</cell><cell>Catocala abbreviatella</cell><cell>Y</cell><cell></cell><cell>R</cell></row><row><cell>6</cell><cell>Whitney's underwing</cell><cell>Catocala whitneyi</cell><cell>Y</cell><cell></cell><cell>R</cell></row><row><cell cols="2">Family: Noctuidae-Owlet Moths</cell><cell></cell><cell></cell><cell></cell></row><row><cell>7</cell><cell>A noctuid moth</cell><cell>Bagisara gulnare</cell><cell>Y</cell><cell></cell><cell>R</cell></row><row><cell>8</cell><cell>Grote's black-tipped quaker</cell><cell>Dichagyris grotei</cell><cell>Y</cell><cell></cell></row><row><cell>9</cell><cell>Red sedge borer moth</cell><cell>Globia laeta</cell><cell>Y</cell><cell></cell></row></table></figure>
+		</body>
+		<back>
+
+			<div type="funding">
+<div><p>• I-P-E/T/D: Proposed Endangered, Proposed Threatened, Proposed Delisted • I-E: State-listed as Endangered in Iowa (from <rs type="affiliation">Iowa Code Chapter 77</rs>) • I-T: State-listed as Threatened in Iowa • F-E: Federally listed as Endangered in the United States • F-E: Federally listed as Threatened in the United States • F-C: Federally listed as a Candidate in the United States • F-P: Proposed for federal listing as an Endangered or Threatened species.</p></div>
+			</div>			<div type="references">
+
+				<listBibl/>
+			</div>
+		</back>
+	</text>
+</TEI>
+

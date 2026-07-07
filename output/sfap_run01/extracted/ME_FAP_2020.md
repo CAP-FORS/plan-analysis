@@ -1,0 +1,1171 @@
+## Note to readers
+
+Much has changed since most of the material in this document was initially drafted. In the last several months, Maine has suffered from the COVID-19 outbreak just like the rest of the world. Maine's forest economy suffered additional injury last spring when the digester at the Pixelle pulp mill in Jay exploded, effectively shutting down a significant percentage of the market for lower grades of wood. All of Maine's forestry community has suffered as a result, particularly loggers and truckers. Both phenomena likely will have a lasting impact on Maine, but we cannot predict how, nor can we predict what the situation will be one year from now, much less ten years from now. This document should be considered, therefore, a work that remains in progress. Once the situation in Jay becomes clearer, we will revisit this document and adapt plans and strategies as necessary.
+
+## Message from the State Forester
+
+The Maine Forest Service (MFS) enjoys a long history of protecting Maine's forests from wildfires, insect and disease outbreaks, poor forest practices and providing timely information to help foster informed decisions. These various MFS activities focus on having Maine's forests be more enjoyable, productive, healthy and well managed.
+One of the most visible MFS activities is the prevention and suppression of forest fires. Some folks still remember the widespread devastation resulting from the fall 1947 fires, which brought about significant and positive change to the MFS that have continued over the ensuing decades. Through upgraded training, improved field communications, new technologies and the reliance on an air fleet to knock down fires quickly, acreage lost to wildfires has been reduced to about 400 acres annually. This success is extraordinary in light of the significant reductions in manpower and expanded duties of the Rangers into regulating forest practices. Probably not well known, but a vital component of training, is the use of Maine's Forest Rangers throughout the United States and Canada to fight fires.
+An almost invisible war takes place each year between Maine's forest and insects and diseases. Occasionally, insects or disease gets the upper hand and either forests or people are affected to the point where action must take place. Native pests, while at times expensive to deal with like the Spruce budworm, don't eliminate the host species like balsam fir which the budworm feeds on heavily. Exotic pests are a different story, for example, Chestnut Blight and Dutch Elm Disease eliminate the host species of American Chestnut and American Elm as significant components of the forest. Increasing world trade is intensifying the opportunity for invasive pests to become established in North America. We have several invasive insects right now either active in Maine's forests or just "next door." The Hemlock Woolly Adelgid is causing damage to our coastal hemlocks while the very lethal Emerald Ash Borer has footholds in both far northern and far southern Maine; the Asian Longhorned Beetle is being fought in Worcester, Massachusetts and Oak Wilt is being addressed in several places in New York. The MFS is actively engaged in reducing the threats from pests using several different strategies. For those not having reached Maine, like the Asian longhorned beetle, efforts continue to slow its spread by restricting the flow of contaminated wood. For others like the Hemlock Woolly Adelgid, damage is mitigated through efforts such as the release of biological agents. Fortunately, the federal government is very active and lends significant assistance to states like Maine. In all cases, the involvement of the public is essential.
+The MFS also has staff dedicated to assisting the public and landowners with forest related issues and education. Ten District Foresters located across the state are available to help woodland owners make good choices about their land, including referring them to private sector professionals for more extensive assistance if needed. The MFS receives funding from several federal agencies to assist in this work. For example, Project Canopy, Maine's urban and community forestry program, provides grants to municipalities to develop management plans for their community woodlands. Some municipalities like Portland and Brunswick own significant woodlands in need of attention. Our Direct Link Loan program provides reduced-interest loans to help loggers purchase equipment and protect water quality.
+Several years ago, the MFS took over the responsibility for conducting the federally funded forest inventory of Maine. This information is vital for public policy decisions and strategic decisions by members of the forest industry, particularly potential new investors in the Maine economy. The MFS can provide "customized" reports to meet specific requests and is frequently asked for such service.
+MFS Foresters also review timber harvest activities to assess the implementation and effectiveness of efforts to protect water quality and other resources. We have found that woodland managers have really taken water quality protection to heart, with steadily improving performance during the decade since regular monitoring began.
+Over the years, the MFS has taken on an increased role in forestry regulation. The introduction of the state's forest practices rules and harvest notification requirements in 1991 were major factors in this changing role. Enforcement of timber theft and trespass laws still requires a good deal of time despite significant penalties. MFS's regulatory philosophy is three-tiered: we seek to prevent violations from happening in the first place through education and outreach; we intervene where we see potential problems and help people comply; and, as a last resort, we take enforcement action. We believe this approach has contributed to a very positive trend towards increased land stewardship and regulatory compliance.
+Combined, the services provided by the MFS contribute to the state's economy. Trees not ravaged by disease or insects provide jobs from the stump to the mill. Stewardship advice and regulatory enforcement help support the recreational activities and forests all Maine people can enjoy.
+
+## Patty Cormier, State Forester
+
+Chapter 1: Introduction
+
+## Why we are doing this
+
+The 2008 Farm Bill (further amended in 2014) requires states to complete Forest Action Plans as a condition of receiving federal funds to support state forestry programs. The planning process has three components:
+• Statewide Assessment of Forest Resources: provides an analysis of forest conditions and trends in the state and delineates priority rural and urban forest landscape areas.
+• Statewide Forest Resource Strategy: provides long-term strategies for investing state, federal, and other resources to manage priority landscapes identified in the assessment, focusing where federal investment can most effectively stimulate or leverage desired action and engage multiple partners.
+• Annual Report on Use of Funds: describes how federal funds were used to address the assessment and strategy, including the leveraging of funding and resources through partnerships, for any given fiscal year.
+Maine has integrated the Forest Action Plan (FAP) process into its existing forest resource planning framework. The intent of Maine's FAP is to identify key forest-related issues and priorities to support development of a long-term strategy specific to Maine's forest needs.
+The Assessment section identifies landscape areas where national, regional, and state resource issues and priorities converge. It has incorporated the best data available and considered other state assessments, plans, and priorities as relevant and necessary.
+The Assessment section addresses the three national priorities identified by the USDA Forest Service:
+• Conserve and Manage Working Forest Landscapes for Multiple Values and Uses;
+• Protect Forests from Threats (including fire, catastrophic storms, flooding, insect or disease outbreaks, and invasive species); and,
+• Enhance Public Benefits from Trees and Forests (including air and water quality, soil conservation, biological diversity, carbon storage, and forest products, forestryrelated jobs, production of renewable energy, and wildlife).
+The 2020 State Forest Action Plan constitutes one facet of the Maine Forest Service's efforts to inform Maine citizens about the condition of and trends in Maine's forests and forest economy. Pursuant to state and federal legislative direction, the plan addresses several topics, including, but not limited to: threats and opportunities, priority forest areas, and strategies and resources needed to address threats to the state's forest resources.
+
+## MFS programs
+
+A. MFS organization -Director's office and three divisions
+The MFS was established to ensure the greatest benefits from the state's trees and forests for Maine's citizens. MFS's responsibilities are to: promote sound forest management on Maine's forest lands to optimize the benefits from the forest; protect the forest resource from destructive elements including fire, insects, and diseases; provide forest management advice and assistance; promote improved marketing and utilization of forest products, collect and maintain up-to-date data, including a forest inventory; promote sound forest policy; and administer the state's forest practices laws.
+MFS is organized into three divisions: Forest Protection, Forest Policy and Management, and Forest Health and Monitoring. Each division is administered by a manager who oversees all division activities. Field operations are administered through regional supervisors.
+B. Director's office (State Forester)
+The State Forester's office manages state forestry issues with the USDA Forest Service; is responsible for budget preparation and management; responds to legislative proposals; and is responsible for administration of federally funded cooperative assistance programs including fire, forest health, landowner assistance, and urban forestry.
+
+## C. Forest Policy and Management Division (FPM)
+
+The FPM division's responsibilities are diverse but focus primarily on helping landowners and land managers make good decisions about their woodlands. FPM provides technical assistance, information, and education services to a wide variety of publics, including but not limited to woodland owners, foresters, loggers, the education community, and the public at large. The division administers the state's timber harvesting rules statewide by providing outreach and enforcement services. The division also administers permitting functions for stream crossings and timber harvesting activities in protection subdistricts within the jurisdiction of Maine's Land Use Planning Commission.
+Finally, FPM responsibilities include developing and disseminating resource information, and anticipating, responding to, and reporting on forest policy issues and trends.
+About two-thirds of FPM's staff is field-based (mostly District Foresters), working in locations from Ashland to Greenville to Alfred. On average, each District Forester has a potential client base of over 10,000 family woodland owners and 50 organized towns that range in population from a few hundred to over 70,000 people. Foresters in the north cover far more acres, while Foresters in the south serve more people.
+FPM has a small staff relative to the resource. The field staff to acreage ratio is about 1:1,700,000 -several orders of magnitude off from the USFS recommended target of 1:25,000. The ratio of small landowner acres to state foresters is the highest in the Eastern Region, State and Private Forestry. When compared to states with similar forest industry profiles, such as Minnesota and Wisconsin, the difference is striking.
+That's in part why FPM partners with a wide range of interests, including nonprofits, other agencies, private consultants, and the forest industry. It's essential to getting things done. Because of the division's small numbers, the wide variety of issues it is expected to address, and the large land area that must be covered, FPM staff must work across disciplines and program lines.
+These differences shape the division's work, which is focused on promoting informed decisions about Maine's forests. The division's success in delivering federal programs hinges on being able to adapt programs to its model of delivering programs through its partners. Flexibility in program delivery -and sometimes in how success is defined -is essential.
+
+## D. Forest Health and Monitoring Division
+
+The mission of the Forest Health and Monitoring Division (FHM) is to protect forest, shade and ornamental trees from significant insect and disease damage and provide pest management and damage prevention advice and technical assistance for homeowners, municipalities, and forest landowners and managers to preserve the overall health of Maine's forest resources. FHM also has responsibility for conducting a permanent inventory of Maine's forest resources on a 5-year cycle.
+Activities outlined below help to fulfill these responsibilities.
+The division maintains a statewide forest health monitoring system which provides the basis for pest predictions, damage prevention, and management recommendations. Ground-based surveys, using traps and visual surveys are supplemented by aerial surveys conducted during the growing season. These systems provide a network to monitor for significant forest damage.
+FHM provides technical advice and assistance, education and training to recognize and respond to forest health issues. Training helps add the public as a facet of the forest health monitoring system. Advice and assistance help clients respond to and reduce pest impacts. FHM also provides technical support for forest pest management and remediation projects. FHM is the lead agency for cooperative federal/state pest management operations including chemical and biological control operations.
+Another piece of the FHM monitoring system is the forest insect collection. This extensive reference collection of forest and other insects is statutorily part of the Maine State Museum holdings. However, because it is vital to conducting the division's day to day work, the core working collection is maintained on site and is curated by FHM staff.
+FHM works with the State Horticulturist's office and USDA Animal and Plant Health Inspection Service to administer quarantine activities directly relating to the forest resource.
+
+## E. Forest Protection Division
+
+The mission of the Forest Protection Division is to protect Maine's forest resources and homes from wildfire, respond to disasters and emergencies, and to enhance the safe, sound, and responsible management of Maine's forests. The division has about sixty Forest Rangers in the field, five Ranger Pilots, four aviation mechanics, six administrative staff, thirteen support staff, and five management staff. The division's primary task is wildfire management in Maine's ten million acres of unorganized territories, but it also has final onsite authority and responsibility for wildfires statewide. Forest Rangers provide support and assistance on wildfires in organized towns and on federal property. Forest Rangers enforce all outdoor burning laws, investigate all wildfires, investigate timber theft and trespass, and other public safety laws. Forest Rangers also enforce the state's natural resource laws to help keep Maine's forest-based economy strong and vibrant.
+Maine's Forest Rangers are forest resource professionals who provide quality public service through education, assistance, and enforcement. The division partners with cooperators to better serve those who live, work, and recreate in Maine's forests.
+
+## Programs of note
+
+## Outcome based forestry
+
+The practice of forestry is a science. Laws that regulate forestry activities do not necessarily promote the use of science-based forest management. The 120th Legislature enacted the Outcome Based Forestry (OBF) law to address aspects of the Forest Practices Act (FPA) that prevented the wise use of scientific forestry in the best interests of the people of Maine and private and public landowners. While the FPA was intended to curtail the creation of large, rolling clearcuts and assure their regeneration, OBF addresses these issues and many more issues of public concern.
+The only law directly impacted by OBF is the FPA.
+The OBF statute was adopted by the 120th Legislature in 2001 in response to the forest policy debates of the 1990's. The OBF statute had a sunset provision until 2012 when the 126th Legislature removed the provision. Until the sunset clause was removed, no OBF agreements were achieved due to landowner uncertainty over the law's future. In 2012, shortly after the sunset clause was removed, two landowners signed an agreement with the state (through the signature of the MFS Director).
+The Governor has appointed a technical review panel (panel) as required by law.
+The panel works with the MFS Director to implement, monitor and assess OBF agreements. To participate in an OBF project, the landowner, director, and panel must develop agreed-upon desired outcomes, and develop a method for determining if the outcomes have been attained and a system for reporting results to the public. The panel assesses whether the practices applied on areas subject to an OBF agreement provide at least the equivalent forest and environmental protection as provided by rules and regulations otherwise applicable to that area.
+The statute clearly states that a participating landowner must manage their holdings in a way that provide a defined suite of public benefits in return for departing from certain requirements of the FPA.
+Four agreements have been signed: the Bureau of Parks and Lands (BPL) in May 2012, Irving Woodlands (Irving) in May 2012, Katahdin Forest Management (KFM) in September 2015, and Seven Islands Land Company (SILC) in December 2017. 
+1
+The agreements are of a landscape proportion covering the landowners' entire Maine ownerships of 600,000 acres (BPL), 1.25 million acres (Irving), 300,000 acres (KFM), and 768,000 acres (SILC), respectively.
+The objectives agreed upon between the forest landowners, panel, and Bureau Director are part of the agreements and found as an appendix to each agreement.
+The panel has conducted several site visits on participating lands and reviewed landowner operations plans prior to their implementation. Several harvest sites on Irving land were visited multiple times. Visits of a similar intensity took place during negotiations with KFM and SILC. The panel plans two annual visits to each participating landowner, once in early winter to review the previous year's operations and planned operations for the coming year, and once in late summer to review yearto-date progress. According to MFS inventory data, total growth for all species currently exceeds harvest in Maine's southernmost eight counties by a ratio of over 2:1. The overall goal of this effort is to identify strategies that lead to increased active management on these woodlands. Success will include strategies to improve forest health, wildlife habitat, recreational opportunities, water quality, aesthetics and wood availability.
+Ultimately, this effort will increase family woodland owner enjoyment and support jobs and the state's economy.
+The effort has worked to create the beginnings of a video library profiling good forest stewardship and timber harvesting. To further understand both public and landowner perceptions of timber harvesting, MFS and its partners created the Maine In the past ten years, Maine's community forestry program has assisted over 226 municipalities and 50 not-for-profit organizations. Project Canopy's mandate is to deliver a program to all Maine communities, incorporating Maine's diverse geography and complex social, economic, and cultural characteristics. For Project Canopy to succeed, the needs of and challenges facing Maine communities must be understood. In an effort to collect this valuable baseline information, Project Canopy initiated a survey of all 489 incorporated municipalities in 2003 and has continued to survey towns on a five-year cycle since. The results of this survey enable Project Canopy to better understand the needs of Maine communities and help devise strategies to meet these needs and build strong community forestry programs and improve Maine's urban and community forests.
+Project Canopy has a vision that every community in Maine will actively and wisely manage its community forestry resources in a sustainable manner, and that all Maine citizens become well informed as to the proper management of these resources and the benefits derived from them. Project Canopy will work to improve understanding of the benefits of tree cover in urban areas and communities; encourage maintenance of trees and community forests; and expand the number of communities managing their natural resources and the population effected by program assistance. A core priority is to increase the number of communities with tree boards, ordinances, public tree inventories, management plans, and professional arborists and foresters. Federal funds play an important role in Maine in providing landowner incentives and enhancing the ability of MFS to encourage family woodland owners to:
+• learn more about their land and establish a closer connection to it;
+• obtain the assistance of a professional forester, and maintain that relationship over time;
+• develop a comprehensive forest management plan for their property that addresses stewardship principles;
+• work with trained professionals to implement recommendations that will meet their ownership objectives; and,
+• sustainably manage for a variety of forest resources, products and values over the long term.
+Key elements of BWW include:
+• Stewardship Outreach and Marketing: promoting the stewardship concept and principles through various media.
+• Technical Assistance: providing field services to woodland owners through MFS staff and referrals to other professionals.
+• Education and training: MFS, in collaboration with a wide range of partners, conducts hundreds of training and education workshops covering a wide range of topics for thousands of woodland owners, licensed foresters, loggers, and others. Monitoring can be another opportunity for woodland owner-forester contact, another step on the path of Stewardship that can enhance the relationship between woodland owners and their Stewardship consultant. However, constraints on time and resources have often reduced the monitoring activity to a bare minimum determination of "following" or "not following" the plan. • the amount of education and technical assistance provided to key audiences of landowners, foresters, loggers, and related audiences; and,
+• the number of WoodsWISE (Stewardship) Forest Management Plans prepared, and the number of acres covered by these plans.
+Another, more subjective measure of success comes from responses to a survey sent to landowners after their FSP management plan has been approved for payment. The responses are overwhelmingly positive, with much praise for the MFS and the private foresters with whom they have worked. One example:
+"Thank you for maintaining and continuing the WoodsWISE program. It enables us to look forward to preserving the land enrolled as sustainable working forest along with our enjoyment of it, which can hopefully continue with those beyond our tenure. We feel that [our Stewardship Plan] does provide us with information and guidance on optimum timing for best practices. It is specific enough to be very helpful. The educational portion of the plan is particularly helpful; there is a tremendous amount of information in the plan, and we are only beginning to digest it. It will be a working document for the coming decades, at least. We want to thank all the folks of the Maine Forest Service, especially our District forester, who efficiently set us on the right path…the recommendations were just the guidance we were looking for." This demonstrates the role that a Stewardship Plan plays in engaging woodland owners.
+Other associated program elements include:
+American Tree Farm System (ATFS): "Tree Farm" continues to be one of, if not the, most cost-effective ways to bring third-party certification to family woodland owners. Looking beyond certification, the program is also an effective method for woodland owner engagement, through recognition (the Sign) and site visit functions. MFS provides strong support for the Maine Tree Farm Committee at the state and county level; MFS personnel fill roles such as County Chair, Secretary, and Committee Chair.
+The specifications for Maine Forest Stewardship Plans have been revised as needed to include updates to the Tree Farm Standards, thereby facilitating Tree Farm membership for Forest Stewardship Program participants who want to be Tree Farmers.
+American Forest Foundation (AFF): AFF is the national "parent" organization for the ATFS. MFS has signed an MOU with AFF to provide site visits to woodland owners who respond to AFF surveys by asking to meet with a forester on their land. AFF does not have the capacity to offer the site-specific educational and technical assistance that MFS can provide. This is a mutually beneficial partnership that ultimately increases the number of engaged and informed woodland owners, which directly serves the MFS mission as outlined in the Forest Action Plan. For more about this see the discussion below on family woodland landowner market segmentation.
+Cooperative Forest Management (CFM) Committee, Northeast Midwest State Foresters Alliance:
+MFS has sent and will continue to send representatives to the annual CFM Committee meeting and to selected task team and project committee meetings as requested. Potential restrictions on out of state travel could severely limit in-person attendance. It is essential that adequate program funds be provided to offset the expense of any required travel.
+Forest Operations Notifications and annual landowner and wood processor reports At the end of each year, all landowners who have filed a FON must submit a report detailing their timber harvesting activities (acres harvested, harvest system, acres treated precommercially, etc.). The landowner reports, combined with the wood processor reports required of all mills large and small and importers and exporters of roundwood and the forest inventory, provide MFS with a wealth of information about the condition of Maine's forests and the ways in which the forest resource is used.
+MFS is transitioning to online FON filing in January 2021. The new Forest Online Resource Tool (FOREST) will improve and streamline the entire process for filing harvest notifications and end of year reports.
+
+## Overall goals for Maine's forests
+
+Success in implementing the strategies in this document is essential to achieving the following goals for Maine's forests:
+• Maintaining the most diverse, robust and economically beneficial forest products industry possible and the jobs that this industry provides.
+• Maintaining a stable or increasing flow of wood fiber consistent with sustainable forest management principles;
+• Sustaining local economies;
+• Safeguarding critical natural resources, particularly water resources;
+• Protecting biodiversity, conserving and enhancing key fish and wildlife habitats;
+• Maintaining or enhancing existing public access for the full spectrum of existing recreational uses;
+• Preserving special places, e.g., old growth forests, areas with special recreational or cultural values, unique or exemplary natural features, and other similar features;
+• Contributing to meeting Maine's energy needs by reducing our dependence on fossil fuels and high energy costs; and,
+• Maintaining and increasing carbon storage, contributing to reducing levels of atmospheric greenhouse gases, and facilitating the adaptation of forest systems to a changing climate.
+The Significance of Maine's Forests
+Several things distinguish Maine's forests from others in the eastern U.S. Individually, these features are significant. In combination, they make Maine's forests unique.
+• The resilience of our forest ecosystems: Maine's forests have been harvested for wood products for over 200 years, yet nearly 90% of the state remains forested -the highest percentage in the country. Analysis of historical records indicates that Maine has approximately 2/3 of the stocking that it did at the time when commercial harvesting began. Further, with few exceptions, Maine has largely maintained its forest biodiversity.
+• The dominance of private ownership of forestland: 90% of Maine's forests are privately owned, one of the highest percentages in the country.
+• The diversity and significance of our forest resources: In addition to a diverse timber resource, Maine's forests support many public resources, including 6,000 lakes and ponds, 32,000 miles of rivers and streams, and abundant fish and wildlife resources.
+• Maine has the largest contiguous block of undeveloped forestland east of the Mississippi: This includes approximately 10.5 million acres of unorganized territory which remain largely undeveloped forestland, most of which is actively managed for timber production.
+• The strength and diversity of Maine's forest products industry: Despite recent challenges, Maine's forest products industry remains the strongest in the region, drawing wood supply from across New England and Canada's northeastern provinces and supplying markets across the globe.
+• A long history of multiple-use management on private land and a tradition of public access to private land: This tradition dates to colonial times and is established in Maine common law for access to Great Ponds, navigable waters, and the coast.
+• The special connection Maine citizens have with our forests: This heritage includes traditions of both consumptive and non-consumptive use. Maine people care about the forests and how they are managed.
+
+## Maine's Forest Condition
+
+Maine's pulpwood quality inventory (i.e., FIA sound bole volume (pulpwood and better) with rotten cull removed; chart below) is now estimated at just over 300 million cords and is approaching pre-budworm volume estimates (see 1982). Maine's timberlands currently have a statewide growth to harvest ratio of 1.27:1. Growth to harvest ratios have exceeded 1:1 for all timber types (e.g., live, growing stock, and saw timber) and all megaregions with one exception (all live trees in the Western megaregion). This issue is discussed in more detail in Chapter 2, Criterion 3, timber supply and quality.
+Harvesting has declined from around 500,000 acres with a total harvest of nearly 16 million green ton equivalents per year in 2010 to 342,000 acres with a total harvest of 12 million green ton equivalents in 2018. Over the last five years on timberland (i.e., productive forests not reserved), sound bole volume growth at 0.48 cords per acre per year has exceeded harvest at 0.38 cords per acre per year; however, Maine's forests have the potential to grow much more under improved management. Some wellmanaged lands can and do produce more.
+Partial harvest methods still dominate forest management, accounting for just over 50% of harvest acreage. Shelterwood harvesting accounts for 41% of harvest acreage.
+Clearcutting accounts for less than 7% of harvest acreage, a slight increase over the last two decades.
+The forest type composition of Maine's forest is 42% with a softwood plurality and 58% with a hardwood plurality. Maine's forest stands are roughly evenly divided between sawtimber, poletimber, and seedlings/sapling size stands (chart below).
+Across all forestlands, sawtimber volumes of major species such as northern red oak, white pine, balsam fir, and red spruce increased between 2004 and 2019, while volumes of species such as sugar maple, American beech, white birch, and yellow birch decreased (chart next page).
+MFS also continues to monitor the development of young stands. 
+
+## Challenges
+
+Maine's forests, its landowners, logging and trucking workforce, and industry all face significant challenges as we look to the future. MFS has identified several critical and interrelated issues that are key to the future of Maine's forests:
+• Maintaining a sustainably managed, economically viable working forest land base. This is critical to maintaining the many public values provided by Maine's privately held forests. For example, the habitat for many wildlife species depends upon or is enhanced by active management of the forest. The following chart illustrates the generally positive returns to large timberland investments over the past decade-plus.
+NCREIF U.S. Timberland Property Index, Annual Income and Appreciation as of year ending 31 December 2019
+foot_3
+• Maintaining and improving the long-term viability of the forest-based economy. The state has faced the loss of mills, declining industry employment, fewer loggers, and consequent impacts on forest-based communities. At the same time, Maine excels in some sectors, and the industry has significant opportunities.
+• Aging work force. All sectors of the forest products supply chain face the challenge of an aging work force, with fewer replacement workers available. The logging and trucking sectors appear to be particularly hard hit, as those sectors also face competition for labor and rising equipment, insurance, and labor costs.
+• Insect and disease and non-native species threats. Several exotic insects and diseases, some established, some not yet here, threaten significant components of Maine's forests. Existing threats include beech bark disease, balsam woolly adelgid, browntail moth, emerald ash borer, and hemlock woolly adelgid. Potential threats include the Asian Longhorned Beetle.
+• Reduced labor pool of firefighters and MFS area of initial attack is growing. Several volunteer fire departments have disbanded because of diminishing volunteerism. Additionally, the Maine Forest Service has gained more than 300,000 acres of protection area without an increase of staff or budget.
+
+## Opportunities
+
+Maine's forest landowners, forest related businesses, and the forest products industry also have several significant opportunities. These include:
+• Conserving large areas of Maine's forests in perpetuity by capitalizing on the interest of investors to maximize their returns and purchasing conservation easements that ensure retention of undeveloped forest lands, public access, and sustainable management.
+• Capitalizing on Maine's reputation for sustainable management to distinguish Maine's forest products industry in the global marketplace. In addition to demonstrated evidence that Maine's forests are sustainably managed, Maine has one of the largest percentages of certified land and possibly the largest percentage of certified harvests conducted of any state in the nation. These facts can be used to create a special niche for Maine's forest products among consumers who value sustainability -demand for such products is growing. This will require Maine to remain a leader in certification and addressing forest environmental issues, such as maintaining forest biodiversity.
+• Increasing productivity. With improved management, Maine's forests have the potential to produce considerably more timber per acre while maintaining other forest values. On average, it should be possible to increase the productivity of Maine's forestland by approximately half over current levels.
+• Diversifying Maine's forest products industry to be a leader in new products such as biofuels and those from biorefinery technology. With increases in fossil fuel prices, the opportunity exists to replace traditional sources of fuels and chemical feedstocks with wood and wood wastes. The data show that Maine has consistently been near the 1:1 benchmark over the years, reaching a peak of 1.54:1 in 2015. The increase in growth relative to harvest may be related to a reduction in certain wood fiber markets, but this also varies by region and may also be a function of owner preference. Analysis of harvest and forest inventory information across timberlands (chart next page) indicates that net growth has consistently exceeded harvest in the Southern Megaregion, but as of 2018, net growth to harvest percentages are highest in the eastern megaregion. While removals have consistently exceeded growth for all live trees in the western megaregion growing stock and sawtimber stock net growth rates have outpaced removals.
+Net growth to removals percentages on timberlands remaining timberlands by timber type (all live, growing stock, and saw timber) and megaregion .
+Estimates 2006 and later use current annual inventory methods and estimates (USDA-USFS-FIA 2020); however, 1995 estimates are published periodic inventory estimates using retired methods for estimating net growth and removals 
+(Griffith and Alerich, 1996)
+. Compared to the current method, 1995 likely underestimates removals.References Griffith, D.M. and Alerich, C.L. 1996. Forest statistics for 
+Maine, 1995 (Vol. 135)
+ Roadside accumulations of harvest residues, large numbers of bent or broken trees, excessive rutting of the ground, unnatural, geometric harvest edges, and other visual impacts of timber harvesting often heighten the public's concerns about the management of Maine's forests. Most people agree that forest management can profoundly impact the forest aesthetic, up close and from a distance 
+(Palmer et al., 1995)
+; the degree of impact varies with the individual. While some activities, such as pruning and early thinning, can have pleasant aesthetic impacts, many have an unavoidable, immediate negative impact that heals over time.
+Minimizing the negative, short term impacts of timber harvesting is an important step in communicating a strong stewardship ethic to the public. Certain examples demonstrate this point. Across the state, the following habitat elements and features are lacking and/or are in decline:
+• Late successional and old growth forests (LSOG): LSOG forests could be the most at-risk feature of Maine's forest landscape. Although estimates vary, and depend on the definitions used, the evidence suggests that LSOG comprises an extremely small percentage of Maine's forested acreage, with much of what remains isolated in small reserves and inaccessible areas. The populations of species that depend upon features of LSOG forests, such as large diameter cavity trees, snags, and down logs to complete part or all of their life cycles could be at risk as these features disappear from the managed landscape.
+• High volume, large sawtimber stands: These stands, which can be managed for and maintained on working landscapes, also comprise a very small percentage of the forested landscape.
+• Large woody material also is not present in the quantities recommended in "Biodiversity in the Forests of Maine: Guidelines for Land Management." As LSOG forests and associated features continue to decline, Maine faces a situation comparable to that already in play in Scandinavia, where a number of LSOG-dependent species are expected to be extirpated over time due to the efficiency and productivity of forest management systems there, even though forest managers have undertaken measures to reverse the loss of LSOG features. Forestry legislation, or the lack thereof, is an indirect, but important indicator of public confidence in forest management. In the mid-to late 1990's, Maine's legislature considered dozens of forestry related bills, and the people voted on three forestry referenda (all defeated). All of this ferment originated from public reaction to the sharp reduction in the forest inventory following the spruce budworm outbreak and consequent salvage harvesting that took place during the 1980's. The legislative action on forestry demonstrated that the social license to practice forestry was at risk.
+In the late 1990's, the Legislature enacted several bills to address the situation, most notably creating an annualized forest inventory and analysis program; strengthening the enforcement of the state's forest practice rules; and, endorsing outcome-based forest policy. Since that time, there has been little legislative activity focused on forest practices.
+The most significant forestry legislation enacted since 2011 consolidated the administration of most forestry regulations under the authority of the MFS, including associated permitting functions under the authority of the MFS. The benefits of this consolidation include a one-stop shop for the regulated community; more efficient, consistent, and predictable enforcement efforts; and, more effective use of limited state resources.
+While some concerns have been raised in recent years about elements of the liquidation harvesting law, this does not have the same level of controversy as those of the 1990's. In fact, a recent polling question sponsored by the Maine Forest Products Council found that a strong majority of those polled believe the forest products industry is very important to Maine's economy (see next page).
+7. Criterion 7: Economic considerations a. Goal: Optimize benefits to the local and regional economy while also achieving the goals specified for the other criteria, to the extent allowed by market conditions.
+b. Current situation: Notwithstanding recent challenges, particularly in the pulp and paper and biomass sectors, Maine's forest economy remains relatively strong and is a major contributor to the state's overall economy, particularly in rural Maine. A 2016 study conducted by the University of Maine for the Maine Forest Products Council made the following findings:
+• Maine's forest products industry has a total estimated 2016 statewide economic impact contribution, including multiplier effects, of $8.5 billion in sales output, 33,538 supported full-or part-time positions, and $1.8 billion in labor income.
+• Total direct employment in the forest product industry of 14,563 jobs supports an additional 18,975 jobs in Maine, for a total of 33,538 jobs associated with the forest products industry. This is just over 4 percent of the employment in Maine. About one out of 24 jobs in Maine are associated with the forest product industry.
+• The total economic impact contributions of Maine's forest product industry provide an estimated $278.4 million in state and local taxes. The industry's tax base is about 3.3 percent of its output.
+• Maine's forest product industry contributes an estimated $2.7 billion in value added impact. This makes up nearly 5 percent of Maine's gross domestic product for 2016. About $1 out of every $20 of Maine's GDP is associated with the forest products industry.
+• The forest products industry impacts business of every type in Maine. The industry makes specific purchases based on operational needs. However, forest industry employees have a much wider range of purchases and bring forest product industry dollars to all aspects of Maine's economy.
+• The forest products industry has an impact in every county of the state.
+For The preceding defoliators, along with the before mentioned significant dryness and site quality issues have contributed to scattered oak mortality and decline, especially in the coastal regions of the state but also observed in the Central Interior region.
+White Pine Needle Diseases continued to impact eastern white pine trees throughout Maine in 2019. This complex of needle diseases has caused varying levels of defoliation of white pine across the state for more than 12 years and was the focus of a multi-state project funded by the USDA Forest Service. Consistent with results from previous surveys, the dominant needle pathogen at sites visited in the study was Lecanosticta acicola, the causal agent for brown spot needle blight. Four other pathogenic fungal agents were also found in needle samples from Maine. Consecutive years of significant defoliation by these fungal diseases have incited decline in many white pine stands in Maine.
+As with much of the region, natural and plantation red pine in locations scattered across the state are in varying stages of decline and mortality. In coastal Hancock County, red pine scale is known to have a role in this mortality. In other regions, Sirococcus and Diplodia shoot blights appear to be important factors.
+The causes of this regional decline were the focus of a PhD project out of the University of New Hampshire, but no clear solutions are available. The FHM division continues to respond to questions and provide information regarding the impacts being seen in red pine to assist with management response.
+Chapter 3: Issues, Threats, and Opportunities 1. Support a diverse, robust forest economy Over the last several years, Maine and the region have lost several million tons of capacity to process low grade wood and wood residues: biomass chips, sawmill residues, pulpwood, and low grade saw logs. The closure of several pulp and paper mills and biomass to energy plants has hit Maine very hard.
+In 2010, Maine landowners received an estimated $11.9 million in stumpage payments for biomass; by 2016 this figure had declined by two-thirds, to $3.8 million.
+Loggers and truckers have suffered even more from the erosion of this market. In 2010 there was $90.5 million in economic activity associated with logging and trucking of biomass fuel; in 2016 this had shrunk to $48.2 million. In addition to the economic impact, markets for low-grade wood -including biomass -are important for forest management.
+In addition to the benefits to landowners, loggers and truckers, biomass markets are an important outlet for sawmill residues. While chips, bark and sawdust are sold to other markets, an estimated 400,000 tons are used in energy applications: either electric, combined heat and power, or thermal. Loss of these markets could have a crippling impact on the state's thriving sawmill industry. In 2010, a total of 5.2 million tons of wood were used in energy applications in Maine. This fuel came not only from timber harvesting activities, but also from sawmill residues and the bark and fines at pulp mills. Due to the loss of markets -primarily the loss of energy production at pulp and paper mills -this shrunk to less than 4 million tons in 2016. 
+11
+Timber harvests generate three major groups of products -sawlogs primarily used in lumber manufacturing), pulpwood (primarily used at pulp and paper mills), and biomass. Landowners are paid "stumpage" for these products -in essence, the value of a stem standing in the woods, prior to being cut, hauled, processed and trucked to market. In 2010, the total Maine timber harvest was 14.6 million tons. Biomass (from timber harvesting only) represented nearly a quarter of the volume harvested statewide, and nine percent of the stumpage value. By 2018, the total statewide harvest volume had shrunk by 2.5 million green tons, primarily due to the loss of pulp mills and associated biomass energy units. Biomass represented 18 percent of this lower timber harvest, and the stumpage value paid to landowners accounted for only four percent of all stumpage. 12 2. Support active management of the forest land base District Foresters MFS District Foresters work within the Forest Policy and Management Division. District Foresters provide a wide array of services to a diverse clientele. Their clients include family woodland owners, loggers, consulting foresters, investor-owners, municipalities, students and teachers, land trusts, and the public at large. MFS employs ten District Foresters whose individual districts span the state. Field offices are located in Alfred, Ashland, Gray, Greenville, Island Falls, Jefferson, Jonesboro, Norridgewock, Old Town, and West Paris. A Field Team Leader oversees their work as well as the work of three Regional Enforcement Coordinators. 
+13
+ With nearly 18 million acres of forest land and 233,000 family woodland owners in the state, District Foresters have a lot of ground to cover and a lot of people to serve. Their duties include, but are not limited to:
+• Providing direct technical assistance to landowners, consulting foresters, and loggers regarding forest management options and regulatory requirements;
+• Participating in Project Learning Tree workshops for teachers, Maine TREE Foundation teacher tours, and other venues concerning K-12 education;
+• Delivering workshops to groups of landowners, consulting foresters, and loggers about a variety of forest management issues;
+• Assisting the FHM division on monitoring and education concerning forest insects and diseases.
+• Staffing booths at fairs, conventions, and other large-attendance venues where opportunities exist to provide information about forests and forest management to the public;
+• Monitoring of implementation and effectiveness of Best Management Practices to protect water quality on timber harvests;
+• Assisting municipalities in the review of forest management plans and landowner performance on properties enrolled in the Tree Growth Tax Law program;
+• Assisting Regional Enforcement Coordinators in conducting investigations of violations of the state's forest practices laws, and,
+• Providing licensed forester services to the Forest Protection Division for investigations of timber theft and trespass
+
+## Healthy Forest Program
+
+Foresters have tried to satisfy landowner objectives since the birth of the profession.
+Determining just what those objectives are and reconciling them with real forest conditions has been part of the challenge for just as long. Most family woodland owners have a deep love of their land and a strong desire to do what is "right," but they need help in knowing what their options are and what is best for them and their woods. A demographic and generational change in family woodland ownership has been going on for some time and is expected to accelerate. The previous cohort of family woodland owners often put the timber value of their woods at or near the top of their priority list. Programs, tools, and resources now need to be tailored to better meet the needs of newer decision makers concerning family woodlands, whose primary ownership objectives are related to aesthetics, privacy, and family legacy.
+Although family legacy is a major objective, many family woodland owners are worried that they will not be able to hold onto the land, or their heirs are not interested in owning it.
+Reasons for owning land are not always reflected when timber is harvested. The Maine Timber Harvest Satisfaction Survey,
+foot_13
+ now in its fifth year, is sent to a random sample of family woodland owners who have recently completed a timber harvest. One of the survey questions is, "What were your goals for the harvest?" "Income" is #1, followed closely by "Woodland improvement." These results show that money is a driving force behind timber harvesting decisions.
+The AFF, in partnership with Maine Audubon, the Maine Forest Service and others, has initiated a promising development in this direction. Through a series of direct mailings to woodland owners, starting with a broad list obtained from property tax records, and then refined based on responses to surveys, has been effective in reaching landowners who are not the "usual suspects" when it comes to woodland management. These "touches" focus on the wildlife habitat values of private woodlands, which is recognized as a higher ownership priority for many family woodland owners than timber management. Many of these woodland owners request visits from MFS District Foresters, who work with them to help them decide their next steps. 
+
+## Address climate change and its impacts on Maine's forests
+
+Maine's climate is changing. All three of Maine's climate divisions are warmer than 30 years ago, and sea levels have risen several inches over the last century. The seasonality of weather events also is shifting, with earlier snowmelt, peak river flows, and ice-out on lakes.
+The modeling scenarios examined by the authors of "Maine's Climate Future" suggest that for the 21st century, there is a strong trend in Maine toward warmer and wetter conditions in all seasons. More winter precipitation is likely to occur as rain. Some models forecast increased storm intensities. Temperature increases could be associated with more extreme precipitation and faster evaporation of water, leading to greater frequency of both very wet and very dry conditions. These conditions already have begun to take hold.
+Climate change modeling suggests that Maine will continue to have abundant forests, but the composition is likely to change, e.g. a decline in the presence of boreal species such as the spruces and balsam fir, as well as northern hardwoods, and an increase in the presence of mixed oak-hickory types, white pine, and more aggressive deciduous species such as red maple. Some species, such as white pine and northern hardwood species, may have better habitat in the more northern parts of Maine that are currently dominated with spruce-fir (where soil and other site conditions are suitable. For example, modeling by Dunckel, Weiskittel, and Fiske
+foot_14
+ showed potential for range expansion northward for eastern hemlock in Maine.
+The figure on the following page shows the most recent projections for impacts on major forest species (from Janowiak et al, 2018).
+Species will be most vulnerable at the southern extent of their ranges. Northern/boreal species such as spruce, balsam fir, and aspen are most vulnerable across the state and especially at the southern edge of their range. Other common species, such as sugar maple and white pine, are expected to be vulnerable under more substantial warming and climate change.
+Forest biodiversity likely will change as well, with some species of plants and animals disappearing while new ones become established, e.g. a recession of northern species at the southern edge of their native ranges, and an advancement of southern species at the northern edge of their native ranges (assuming no barriers to migration).
+Some climate change model scenarios predict wetter than normal spring and summer fire seasons coupled with high intensity, short duration droughts. Should such droughts materialize, it would be cause for concern, as Maine's spring fire season is driven by the drying of fine fuels that ignite larger fuels in forested setting.
+Active forest management can make forests more resilient to the impacts of climate change. Actions that can improve forest resiliency include, but are not limited to: frequent monitoring of conditions, control of invasive species, planting tree species adapted to likely future conditions, maintaining a diversity of species across one's ownership, precommercial thinning to improve windfirmness, and timing timber harvests to minimize soil damage. It also has become clear that forest operations will need to adapt to a changing climate through measure such as more advance harvest planning and layout, modified seasonal operations and shut-downs, effective implementation of Best Management Practices to protect soils and water quality, and quick remediation of damage (e.g. ruts). 16 Landowners whose objectives do not involve active management (e.g., passive management) also have a role to play in addressing climate change.
+Wood and paper products play an important role in mitigating CO2 emissions by sequestering carbon. There are currently large stocks of carbon in forests, in wood and paper products in use, and in dumps and landfills. In 1990, 10.6% of the level of U.S. CO2 emissions was harvested and removed from forests for products. If a substantial portion of this carbon could be prevented from returning to the atmosphere, it could make a notable contribution to mitigating carbon buildup in the atmosphere.
+Wood also substitutes for other materials with higher CO2 emissions, e.g. steel and concrete. The manufacturing and construction sectors have begun to take interest in such technological innovations as cross-laminated timber. Significant potential exists to sequester additional carbon in harvested wood products, particularly structural lumber. The energy embodied in wood products is lower than any other construction material. Lumber requires relatively little energy to produce. Wood products requiring more steps in processing (e.g., plywood and OSB) need more energy to produce, but significantly less energy than non-wood materials. The production of lumber and wood products also requires relatively little additional fossil 16 See for example, "Keep Forests Healthy" at 
+https://forestadaptation.org/learn/resource-finder/keep-
+forests-healthy-tool-assess-forest-resilience-health-and-productivity, and "Climate Adaptations in the Northeast's Forest Products Supply Chain" at 
+https://adaptationworkbook.org/sites/default/files/resources/Climate%20Adaptations%20in%20the%20No
+ rtheast%27s%20Forest%20Products%20Supply%20Chain-2019.pdf fuel energy, as over one-half of the energy consumed in manufacturing wood products in the U.S. is bioenergy 
+(Bowyer, et al, 2008)
+.
+Forests store more carbon than nearly all other land uses 
+(IPCC 2007a
+(IPCC , 2007b))
+. According to recent estimates, Maine forests represent 1,484 million metric tons of carbon, just over 50% of which is below ground in soils 
+(Birdsey and Lewis 2003
+, Fernandez 2008
+, Jacobson, et al, 2009)
+. Large amounts of additional carbon could be stored in U.S. forests, especially on nonindustrial private ownerships, but also in developed settings, through afforestation (the establishment of forests where the preceding land use was not forest), reforestation and practices to enhance the growth rate of trees in existing forests 
+(Moulton, 2000)
+. In addition to the benefits of carbon sequestration, such actions have the potential to maintain or enhance other forest resources and values, such as biological diversity, soil integrity, and water quality.
+In The council synthesized the working group reports and issued its report to the Governor and Legislature in December 2020.
+
+## Maintain the capacity of the MFS as an institution to serve the citizens of Maine
+
+In real dollar terms, the Maine Forest Service budget continued to decline between 2010 and 2018, while costs increased significantly. It is no longer a given that the MFS will be able to fulfill its legislative mandates appropriately. The MFS and its cooperators within and outside the state have been working together to monitor and predict the growth of the spruce budworm population and its potential impact on the region's forests. Current monitoring efforts incorporate pheromone traps, light traps, overwintering larval sample, and ground and aerial surveys. Over the last several years, many indicators have pointed to the imminence of the next epidemic:
+• pheromone and light trap catch in Maine have been up for several years;
+• defoliation in Quebec has increased year after year and is getting closer to Maine; and,
+• defoliation has been mapped in New Brunswick.
+• late-instar larvae and defoliation damage were readily observed in a swath of northern Maine in summer 2020, although not sufficient to detect in aerial survey.
+The budworm's epidemics cover vast regions, and flights of moths from heavily infested areas can migrate to new areas. It is undeniable that there will be another outbreak in Maine soon. When, where, how severe, and what the specific impacts and reactions may be, remain to be seen.
+Although current population levels suggest that land managers have some time to prepare before trees begin to experience budworm-caused growth-loss and mortality, the impacts that the neighbors are experiencing will increase competition and impact market-share for Maine producers.
+
+## b) Hemlock Woolly Adelgid
+
+Hemlock woolly adelgid (HWA) continues to spread eastward and inland. Although Maine regulations have minimized long-range spread on infested nursery stock, the infested area continues to expand slowly due to natural dispersal from the infested stands. HWA is now found in forest stands in coastal towns from Kittery to Camden with an additional cluster of HWA in the Sebago Lake area and on Mount Desert Island.
+HWA has been established in southern Maine since 2003 and is now a significant contributing factor to hemlock decline in several coastal communities in York, Cumberland, Sagadahoc, and Lincoln counties. However, to date, adelgid-caused tree mortality has occurred primarily on sites with predisposing drought stress. In 2017 about 137 acres of mortality was mapped, primarily on Great Diamond Island with a small amount in Phippsburg.
+Biological control establishment efforts in Maine were initiated in 2004 and are ongoing. Although it will be a long time before we see any benefit from these efforts, we see proof that the predators are surviving and becoming established. In 2017, all previous release sites (17) were sampled for predators. Ninety-eight adult Sasajiscymnus were recovered from previous release sites in West Bath, Bath, Wiscasset, Woolwich and Freeport. One Laricobius was recovered in York.
+
+## c) Browntail Moth
+
+The browntail moth (BTM) outbreak continues to expand. Although this defoliator can kill trees, the public health issues caused by exposure to the caterpillar hairs generate the most public concern.
+In 2018 roughly 76,300 acres of defoliation were mapped in the spring and a mostly additive 63,500 acres were mapped in late summer. This is a significant increase over the 54,800 acres of defoliation recorded during the spring of 2017. Complaints from the public and reports from public health officials regarding the health issues generated by the caterpillar hairs cover an even broader area.
+The core of the outbreak has shifted towards Kennebec, Knox, Waldo and Lincoln Counties although populations remain in coastal Cumberland counties and have been detected to the New Brunswick border.
+In 2020 there were unfavorable conditions for the spread of the fungus that attacks BTM (Entomophaga aulicae) but small pockets were observed in the Midcoast.
+MFS is working with industrial and university cooperators, testing new techniques for reducing the BTM population and its impacts. The various projects have been supported by external grants, town contributions and donated products.
+BTM is much more a human health problem than it is a forest problem. The human health problem should be addressed by the agencies with the statutory mandates to protect human health. Unfortunately, some interests appear set on forcing MFS into operating a spray program to control BTM. This would divert scarce MFS resources and dilute its mission.
+
+## d) Winter Moth
+
+The aerial surveys for winter moth in spring 2019 mapped 106.3 acres of defoliation, with the heaviest defoliation occurring in Boothbay Harbor in Lincoln County. The low acreage mapped reflects the fact that flights were limited in spring 2019 due to weather and availability of aircraft.
+Ground observations picked up winter moth damage in coastal areas from York to Knox Counties -primarily on oak, maple, apple, and birch trees. This is the same area that has been impacted in years past and represents a significant health threat to the affected trees.
+The MFS continues to survey for winter moth males using pheromone traps deployed in towns along the coast and along a transect inland from known infested areas. The survey covers coastal portions of York, Cumberland, Sagadahoc, Lincoln, Knox, Waldo and parts of Hancock, Androscoggin and Kennebec counties.
+In 2019 these traps captured 
+
+## Diseases a) White Pine needle diseases
+
+This needle disease complex has been impacting white pine trees in southern Maine for almost one and a half decades. The disease complex remains widespread, and the implications of this chronic stress and mortality remain a concern. The defoliation and impacts appear most severe across central, western, and southern Maine. A July 2017 aerial survey revealed over 61,000 acres of declining white pine in Androscoggin, Cumberland, Kennebec, and Oxford counties. In the years since, the acres impacted has surely risen, although aircraft availability and weather have reduced our abilities to capture damage from this complex more comprehensively. More recently, attempts to quantify damage from WPNDs has shifted to evaluating alternative efforts, such using aerial imagery and the US Forest Service's ForWarn system.
+Numbers and associated volumes of large saplings and pole timber have been declining steadily since 2007 in the core white pine types in southern Maine. The disease complex has not been definitively tied to the decline, but can quite easily be assumed, as trees of all sizes have been noted to be impacted by the fungi. To date, white pine growth rates remain relatively stable, around 0.4 cords/acre/year in southern Maine.
+The MFS was a lead cooperator in a multi-state multi-year project funded by the US Forest Service monitoring and evaluating the situation. This initiative focused on early detection of any emerging insect or disease agents that could add to the stress levels and increase white pine decline and mortality. Analysis of the 2018 survey data was completed in early 2020, with results published in several ways and locations. MFS remains engaged in a regional eastern white pine alliance with continuous efforts to better understand and manage white pine under the prevailing disease and weather conditions driving them. The favorable weather conditions and the concentration of suitable host material (plantations) can result in a rapid build-up of the diseases. Growth reduction results from chronic infection and in some cases tree mortality can occur after several years of high disease incidence and increasing severity. In response to questions by industry and the general public about the health of red pine, a survey of red pine stands was initiated in 2019, with 22 sites and roughly 550 trees evaluated. Heavy infection levels were observed in red pine plantings across the state. Preliminary results have been reported; however, the survey is ongoing.
+
+## Invasive plants
+
+The issue of invasive terrestrial plant species impacts has been gaining momentum within the state and throughout the region for more than ten years. The public has come to realize that many plants promoted for the "conservation plantings" of the not-too-distant past have become problem species and are invading fields and roadsides. This concern has been exacerbated by the issue of exotic aquatic weeds in public waterways, and by the amount of public and private resources that have been expended to manage these situations.
+Recognizing the situation, the 123rd Legislature (2007) passed a resolve directing the Maine Department of Agriculture, Food and Rural Resources to "study invasive terrestrial plant species." This resolve directed the department to conduct a study to "…develop processes and criteria to assess the danger posed to naturally occurring ecosystems by invasive terrestrial plant species…." That study and resultant report developed:
+• A list of criteria or process for evaluating invasive terrestrial plants;
+• A preliminary list of invasive terrestrial plants; and,
+• A list of suggestions for preventing introduction and further distribution of these plants.
+The study committee decided that prevention is the key when dealing with any type of invasive species, because once a species is established it is very difficult to control. In 2019, the Department of Agriculture, Conservation and Forestry adopted its "Advisory List of Invasive Plants," a list of non-native plants found to pose a threat to habitats and natural resources in Maine. 52 plants received a ranking of "Severely invasive," 31 plants received a ranking of "Very invasive," 20 plants received a ranking of "Invasive, habitat specific threats," and, 12 plants received a ranking of "Potential to be invasive, monitor." A significant number of species affect forested settings and are becoming common, particularly in southern Maine. Many have the potential to affect and compete with regeneration of desirable tree species. The complete list is found at: 
+https://www.maine.gov/dacf/mnap/features/invasive_plants/invsheets.htm
+.
+The department also has issued a rule, most recently amended in 2017, which prohibits the import, export, purchase, sale, and propagation for sale or distribution any living and viable portion of 33 invasive, likely invasive, and potentially invasive plant species, many of which currently affect or have the potential to affect forest lands (Chapter 273 Rule, Criteria for Listing Invasive Terrestrial Plans).
+
+## Fire
+
+Maine has the highest percentage of forested land in the nation. Protecting this natural resource and the values at risk within forested areas is MFS's primary mission. Indicators point to an increasing threat from human caused fires and weather conditions consistent with high fire danger resulting from climate change.
+The forest and other lands of the state represent an enormous natural and economic resource, a major wildfire would have a long-term economic impact affecting industry, erosion, loss of wildlife, agricultural land, climate change and significantly impact the tourism industry. Residential areas bordering forest lands are at risk if wildfires cannot be controlled. People recreating in woodlands are vulnerable, as communication with them may not be possible, and isolated access roads may be cut off.
+Continued reductions in budget and staffing have increased the requirement for collaboration with other state and federal partners. In today's budgetary climate, no agency can maintain adequate resources to combat every incident; therefore, MFS is an active partner with the Northeast Forest Fire Protection Commission, other regional compacts and our federal partners.
+Maine's forest landscape is changing, and forest fire risk factors have become more complex. Due to increasing development, residential housing is now the greatest value at risk in many forested areas. Where once only small camps dotted the forest landscape, now there are year-round homes of significantly greater value. With this increased value at risk comes an increased expectation of protection, as well as a greater likelihood of fire starts due to the increase in population. The single greatest cause of fires in Maine is human caused fires, such as debris burning. Fires start where people live and recreate.
+Biotic and abiotic influences have a direct impact on wildfire frequency and intensity.
+The addition of open crowns from defoliation or disease, dead or dying timber, coupled with other factors outlined in this document create higher wildfire risk factors.
+In recent years, Maine has experienced steady increases in recreational tourism to the most remote areas of the state
+foot_15
+ . As visitor numbers increase, Maine can expect to see an increase in backcountry wildfires. Wildfires caused by campfires increased by 300% in 2020. Although MFS has been highly successful in stopping most wildfires to date, future success cannot be guaranteed.
+Maine's volunteer fire service has experienced a downward trend in firefighters willing to serve their communities, a trend mirrored in all areas of the United States. 
+21
+In recent years, ten volunteer fire departments across Maine have closed due to lack of members. MFS anticipates that more volunteer fire departments will close in the near future as they struggle to recruit and retain volunteer firefighters.
+The Legislature has allowed several organized municipalities to de-organize and become part of Maine's Unorganized Territory. 
+22
+ In these townships, the state has assumed municipal government functions, including full responsibility for wildfire control. Since 2006 the responsibility for wildfire control on an additional 355,000 acres of forestland, including the associated protection of 2,775 structures has shifted to MFS, with no additional appropriations. 23 MFS now has sole responsibility for protecting over 25% of the structures in the Unorganized Territory.
+Responsibility for protecting United States Government lands from wildfire has shifted significantly to MFS over the last few years. Several US Department of Interior (DOI) National Wildlife Refuges (Sunkhaze, Moosehorn, Umbagog, Maine Coastal Islands, Rachel Carson and Aroostook) have slashed, if not totally eliminated, their own wildfire response resources, leaving the state and a handful of municipalities with the responsibility for protecting those lands from wildfire. Only Acadia National Park maintains a small wildfire protection unit, with its protection relegated primarily to those NPS lands on Mount Desert Island in Hancock County. However, this unit has responsibilities relating to prescribed fire and wildfire control for other NPS lands in states as far away as Connecticut and is often not in Maine, meaning it often is unable to perform initial attack responsibilities on its own jurisdiction. The newly designated Katahdin Woods and Waters National Monument lands, previously protected by MFS when in private ownership, remains under the MFS protection umbrella, but now with far different land management policies and a much higher volume of eco-tourism traffic.
+The Passamaquoddy, Penobscot and Micmac Indian Nations, represented by DOI's Bureau of Indian Affairs, depend on MFS for wildfire control on all their non-reservation lands across Maine. Until recently, BIA paid an annual stipend for wildfire detection, prevention, readiness and suppression to MFS. Now the agency will only pay for wildfire suppression response based on Stafford Act parameters. This change has placed an unfunded burden on MFS in that there is no longer funding for wildfire detection, prevention and readiness.
+In summary, several factors have changed the way in which property in Maine is protected from wildfire. Many of these changes are difficult if not impossible to control. The state's aging population, the lack of interest by -and inability of many -to serve their communities as volunteer firefighters is a national trend which likely will not be reversed soon. The increased use of the state's forests and recreational areas for ecotourism are a positive for Maine but, as illustrated, these increases come with risks. However, by maintaining a highly focused, well trained and well-equipped response and prevention force dedicated to the protection of homes and forest resources from wildfire at the state level, as well as the support needed at the municipal level, Maine will likely continue to be afforded critical protection from wildfire. However, if pressures on and cuts to the protection systems continue, catastrophic failures may be inevitable.
+
+## Promote Outcome Based Forestry and streamline the regulatory framework
+
+The practice of forestry is a science. Laws that regulate forestry activities do not necessarily promote the use of science-based forest management. The 120th Legislature enacted the Outcome Based Forestry (OBF) law to address aspects of Maine's Forest Practices Act (FPA) that prevented the wise use of scientific forestry in the best interests of the people of Maine and private and public landowners.
+While the FPA was intended to curtail the creation of large, rolling clearcuts and assure their regeneration, OBF addresses these issues and many more issues of public concern. The only law directly impacted by OBF is the FPA.
+The Governor has appointed a technical review panel (panel) as required by law.
+The panel works with the MFS Director to implement, monitor and assess OBF agreements. To participate in an OBF project, the landowner, director, and panel must develop agreed-upon desired outcomes, and develop a method for determining if the outcomes have been attained and a system for reporting results to the public. The panel assesses whether the practices applied on areas subject to an OBF agreement provide at least the equivalent forest and environmental protection as provided by rules and regulations otherwise applicable to that area.
+The statute clearly states that a participating landowner must manage their holdings in a way that provide a defined suite of public benefits in return for departing from certain requirements of the FPA.
+Four agreements have been signed to date: Bureau of Parks and Lands (BPL), Irving Woodlands (Irving), Katahdin Forest Management (KFM), and Seven Islands Land Company (SILC). All agreements are of a landscape proportion covering the landowners' entire Maine ownerships of 600,000 acres, 1.25 million acres, 300,000 acres, and 768,000 acres, respectively.
+The objectives agreed upon between the forest landowners, panel, and Bureau Director are part of the agreements and found as an appendix to each agreement.
+The panel has conducted several site visits on participating lands and reviewed landowner operations plans prior to their implementation. The panel plans two annual visits to each participating landowner, once in early winter to review the previous year's operations and planned operations for the coming year, and once in late summer to review year-to-date progress. 
+
+## Examples of public benefits of OBF
+
+• Assurances that the goals and outcomes of soil and water quality protection and biodiversity are being met;
+• Pre-harvest planning to address aesthetic impacts of timber harvesting;
+• Investment of $37 million in construction of an 80 million board foot spruce/fir sawmill in Nashville Plantation (Irving) that initially employed 60 people (the sawmill has since expanded both production and employment) and provides a market for small diameter balsam fir and spruce in northern Maine;
+• Increased negotiated payment rates to contractors and woods operators;
+• Access to the scientific rationale for each harvest in an OBF agreement;
+• Knowledge of harvest levels by species/products;
+• Tracking of types of harvests, including clearcuts, for trends;
+• Better implementation of science-based silvicultural practices, e.g., beech bark disease management and managing density of white pine stands for quality growth; and,
+• Reduction of inspections by Forest Rangers, freeing up their time for forest protection duties.
+Examples of forest landowner benefits from OBF
+• Application of optimal silvicultural practices to the land base;
+• Reduced administrative time devoted to adhering to FPA numerical limits, e.g. 450 trees/acre of regeneration, 250-foot separation zones, etc.;
+• Construction of an 80 million board foot spruce/fir sawmill in Nashville Plantation (Irving) that will improve utilization of smaller diameter balsam fir from Irving's and many adjacent landowners' properties;
+• Reduced costs of trucking, road building and maintenance by applying scientific management to harvest areas; and,
+• Increased investment in tree planting and thinning of young spruce/fir stands.
+The technical review panel reviews each participant's annual operating plans, both a priori and retrospectively and harvest operations (in progress and retrospectively); observes and analyzes the participants' independent, third-party certification audits; and, considers the reports of field monitoring conducted by MFS Foresters.
+Based on field observations and consideration of the various data and information obtained from multiple sources, the panel finds that the four participating landowners: Irving Woodlands, Katahdin Forest Management, Seven Islands Land Company, and the Bureau of Parks and Lands, have all attained compliance with the state's forest sustainability goals.
+All participating landowners have:
+• Maintained their certification to one or more independent, third-party standards (Forest Stewardship Council and/or Sustainable Forestry Initiative). If a certification audit has revealed any observations or non-conformances, they have been minor and quickly corrected by the landowner. Panel members have had the opportunity to observe the landowners' certification audits and to review certification audit reports.
+• Management plans prepared by Maine licensed foresters. Foresters oversee all timber harvesting and other forest management operations.
+• Policies and procedures in place that exceed state regulatory requirements regarding timber harvesting operations in riparian areas. All participating landowners effectively implement state Best Management Practices for protecting water quality.
+• Policies and procedures in place to address other forest resources and values, such as wildlife habitat and aesthetics.
+Panel members have had the opportunity to participate in any landowner advisory committee meetings. Panel members believe that they have had ample opportunity to review certification audit reports, records, discuss practices and policies, and to observe field operations. Their expectations and needs for explanations and answers to questions were satisfied. Field operations provided effective illustrative support of the Panel's findings.
+MFS has assigned Foresters from the Forest Policy and Management Division to periodically monitor the harvest operations of OBF landowners to document conformance to the terms of the participants' agreements. They attempt to monitor harvests at least once per month on each land base. Some harvests are visited before the harvest began; others while the harvest is in progress; and more postharvest. Some harvests are visited at various stages for purposes of continuity in monitoring. The Foresters report that the participants are operating in conformance with policies that exceed the minimum regulatory requirements, particularly with respect to the protection of water quality. The Foresters have found no significant issues during their visits.
+Other states have shown interest in Maine's OBF policy, as it offers a path for them to follow where scientific forestry is preferred over restrictive and costly legislation.
+In Canada, British Columbia has had a "results-based forestry" regime in place on its Crown Forests for over a decade. New Brunswick recently adopted a "results-based forestry" strategy for its Crown Forests as well. Maine remains the only state in the U.S. to offer outcome-based forestry as an option for regulatory compliance.
+
+## Predict future forest conditions and wood supplies
+
+Increasing interest in and competition for Maine's forest resources has also increased demand for better tools for predicting future forest conditions and wood supplies. Industrial investors, both current and prospective, constantly seek information and assurances regarding available raw materials. Conservation groups, sportsmen, and others concerned about the potential impact of resource extraction patterns on forest conditions are concerned about sustainable harvest rates for new and traditional commodities. No one seems particularly interested in revisiting the acrimonious timber harvesting debates of the 1990's, when the lack of good information resulted in more exchange of heat than light.
+MFS's most current timber supply model was constructed in the mid-1990's. On-theground behavior in response to that model's predictions have rendered many of the original assumptions moot, skewing future trajectories and limiting the model's further predictive utility. This is exacerbated by developing markets for new products and associated new extraction processes.
+Modeling tools exist today that have more robust capacities that would allow MFS to tackle these issues. These new tools, coupled with current data from Maine's annualized forest inventory, provide an opportunity for MFS and its partners to create a new model calibrated to current conditions and anticipated practices. There is a special need for this information as we consider the opportunities presented by developing markets for new products.
+MFS recently (2019) hired a new biometrician. This position is expected to construct new growth and yield models; therefore, the agency no longer will need to rely on contracted services. The biometrician is working with the University of Maine and other stakeholders to produce a new timber supply outlook report. The last statesponsored timber supply outlook was published in 1998, although other parties have conducted analyses of the forest resource since. Publication is likely to occur after this plan is published.
+
+## Conserve forests for clean drinking water supplies and healthy fisheries
+
+Forests are critically important to the supply of clean drinking water in Maine.
+Despite the importance of forests to this critical, life-sustaining resource, the public generally is unaware of threats to their water supplies or the connection between clean water, productive fisheries, and healthy forests in source watersheds. In the recent Forests Water People report, Maine scored highest in the study area in the ability of watersheds to produce clean water. Most of Maine's watersheds received the highest possible score in this index showing a watershed's ability to produce clean drinking water. Maine's ability to produce this clean water is directly related to the high percentage of forest land. The same report identified forests of several Maine watersheds, particularly those in southern Maine, at high risk of conversion to other land uses, particularly residential development. This puts Maine's water supply at risk. The most cost-effective way to continue to provide clean water is keeping forests as forests, rather than build new treatment plants.
+Maine's watersheds are widely recognized for their value as recreational fisheries. The state's watersheds provide the only remaining U.S. habitat for endangered Atlantic salmon, and as the nation's most significant stronghold of native brook trout populations. They remain in Maine as a direct result of intact and healthy forests.
+Maintaining a healthy forest products industry and finding creative ways to keep forests as forests in the face of economic realities that favor conversion to other uses are critical to ensuring that Maine continues to produce the clean water and healthy fisheries that people expect and depend on.
+
+## Conserve forest biodiversity
+
+"Biodiversity" refers to the variety of all forms of life -trees and other plants, invertebrate and vertebrate animals, and microorganisms -and includes the different levels on which life operates -from the level of genetic differences between individuals to the complex interactions within ecosystems 
+(Gawler et al, 1996)
+. Biodiversity sustains humanity. It helps provide the necessities of life: food, shelter, fiber, medicinal, recreational, cultural, spiritual, and aesthetic benefits, and ecosystem services such as air and water purification 
+(Clarke and Downes, 1995)
+. Conservation of biodiversity involves balancing human interactions with species and ecosystems to maximize present benefits while maintaining the potential to meet future generations' needs and aspirations. It is a foundation for sustainable forest management 
+(Carey et al, 1999)
+.
+Many different factors can affect biodiversity at several levels, including human activities and natural processes. When conducted in accordance with generally accepted guidelines for biodiversity conservation, forest management activities can have relatively few impacts on biodiversity, particularly when compared with other human activities.
+Maine's forests have been harvested for wood products for over 200 years, yet 89% of the state remains forested -the highest percentage in the country. Analysis of historical records indicates that Maine has approximately 2/3 of the stocking that it did at the time when commercial harvesting began. Further, with few exceptions, Maine has largely maintained its forest biodiversity.
+Maine's forests have undergone major changes in the nearly 400 years since the arrival of Europeans, including the removal and conversion of a significant portion of much of the forest for agriculture and industrial uses. Many wildlife species, including the wild turkey, whitetail deer, caribou, and timber wolf, were extirpated or driven to near extinction.
+Exotic pest species have been and continue to be major drivers of species extirpation in Maine. American chestnut has nearly disappeared from the landscape, and American elm has been greatly reduced. Exotic species such as gypsy moth and white pine blister rust are well established. The expected major mortality of all native ash species (similar to the loss of elm experienced when Dutch elm disease went through) due to the expansion of the emerald ash borer's range into Maine, and the potential loss of Eastern hemlock due to the hemlock woolly adelgid, provide ample evidence that Maine's forests continue to face the prospect of further losses of biodiversity.
+The forests and forest dynamics of today bear little resemblance to those of the presettlement forests in which native species evolved. Whereas much of the presettlement forest appears to have been composed of late successional stands containing a mosaic of small disturbance patches, today's forest landscape has largely lost its late successional component. Disturbance patterns in much of the presettlement forest seemed driven by small-scale, relatively frequent disturbances, such as tree-fall and small wind events, with disturbance affecting an average of approximately 1% of the forest each year (Seymour, R., 
+A. White, P. deMaynadier, 2002)
+. Large-scale, catastrophic disturbances such as hurricanes and stand-replacing fires affected very large acreages, but on a return time measured in the hundreds or thousands of years. Today, fire prevention and suppression efforts have reduced the acreage affected by fire to a miniscule level. Between these two extremes, native insect outbreaks (e.g. spruce budworm) can severely affect their range of hosts over large acreages on periodic cycles as short as 30-50 years. Although this translates to average annual defoliation of 2-3% of Maine's total forest acreage, the actual events are episodic. Stand mortality and replacement are much less uniform than the figure indicates. This overall disturbance pattern allowed much of Maine's forests to develop into a multi-cohort, many-layered mosaic.
+Timber harvesting is now the dominant disturbance factor in Maine's forests, annually affecting about 350,000 acres, or about 2% of the forest land base. In contrasting today's managed forest with the unmanaged forests of the past, Maine's forests are now much simpler -both within stands and between stands -than they were in the past. For many reasons, Maine's current forests do not have the variety and distribution of structures (e.g. large cavity trees) or landscape patterns (e.g. large contiguous blocks of late successional habitat) that were more common before European settlement.
+Change seems to be the only constant in life, and Maine's forests continue to change in the face of new and different pressures. Changes in the transportation of forest products have eliminated river drives, which in some ways improved the condition of our rivers and streams but have created a reliance on an extensive interior road network.
+Changes in timber harvesting and wood utilization technology make it possible to obtain more economic value from smaller trees than ever before. Exotic species continue to modify the composition and structure of Maine's forests. Chestnut blight has virtually eliminated the American chestnut from its native range, including Maine. American beech is losing ground to an exotic pest/pathogen complex. In southern Maine, the hemlock woolly adelgid has become established, emerald ash borer has more recently invaded from the south and the north. Increasing abundance of some wildlife species, such as whitetail deer in some areas, could have marked influences on the future composition of Maine's forests 
+(Abrams et al, 1999)
+. Changing, inefficient patterns of human settlement are resulting in the loss of significant forest acreage to development in southern and central Maine, while this trend is nearly offset by farmland reverting to forestland in northern 
+Maine (Allen and Plantinga, 1999)
+. In addition, land parcels are becoming smaller and ownership tenure is becoming shorter and industrial owners selling to private investors. Finally, climate change has the potential to change radically the composition and structure of Maine's forests 
+(Hong et al, 2002
+).
+Maine's forest ecosystems are remarkably resilient and have demonstrated a high capacity for recovery. Over the past half century, changes in the ways humans use and interact with the land have led to a sharp resurgence in the forest's extent as well as the recovery of many species that once hovered near extinction, such as the whitetail deer and the wild turkey. Nonetheless, the situation is not one that should lead to complacency. Biologists generally agree that climate change, habitat loss, degradation, fragmentation, and invasive species pose the greatest current threats to biodiversity 
+(NatureServe, 2002;
+Noss et al, 1995;
+B. Vickery, 2002, personal communication)
+. All these factors are at work in Maine at a scale sufficient to warrant concern.
+
+## Maintain healthy trees and woodlands in urban and community areas
+
+Maine's forests play a critical role in shaping the state's economy, environment, and directly contribute to the health and livability of Maine communities. However, Maine's forests are changing; expanding populations and land-use changes have reduced the extent of Maine's forests, including Maine's urban and community forests -the forests where people live. Healthy and sustainable community forests support livable, desirable, and ecologically fit places to live for Maine's citizens. They also provide a wide range of services and benefits, including reduced storm water runoff and treatment, improved air quality, noise abatement, and more.
+Community trees and forests are recognized as an important component of municipal infrastructure needing maintenance and adequate funding.
+Municipalities often do not have the tools or expertise to maintain their community forest resources; as a result, the long-term viability and benefits of these resources are rarely realized. Of the 488 incorporated municipalities in Maine, fewer than 30 have comprehensive community forestry management programs that operate on a self-sustaining level. Another 111 municipalities are in the process of developing some level of community forestry involvement, but, due to a variety of barriers, have yet to grow their program to a sustained level. This represents a slow improvement over previous years. To break down these barriers, Project Canopy, Maine's urban and community forestry program helps build and support sustainable community forestry programs. Project Canopy has a vision that every community will actively and wisely manage its community forestry resources in a sustainable manner, and that all Maine citizens become well informed as to the proper management of these resources and the benefits derived from them.
+Many factors affect our ability to maintain and enhance our urban and community forests, including, but not limited to:
+• land use change, fragmentation and urbanization;
+• local capacity;
+• catastrophic events including storms and invasive species;
+• lack of adequate resources for Project Canopy Assistance program; and,
+• management of public lands and open space.
+Climate change will make the need for active community programs more important. In today's economically challenging times, it is not surprising that 37% of municipalities that participated in the 2015 Project Canopy municipal survey identified lack of funding as the greatest obstacle to managing their community forest resources. The same survey identified assistance with grant development as the most requested service. Declining federal funding for the Urban & Community Forestry program minimizes the number and amount of third-party grants Project Canopy can offer to municipalities that need support. The Project Canopy Assistance Program is not meeting the state's needs. While funding success for competitive proposals is high, there are wide ranging needs the program cannot begin to meet. Many municipalities would like a broader range of funding options, with small planting grants requiring no match on one end, to larger grants supporting large-scale planting, planning, and green infrastructure grants on the other end.
+Program staff are working diligently to diversify the program's funding base and have made some small gains. However, core federal funding is an essential component of our support for local communities in developing basic program function through tree planting, inventory and management, and capacity building. Demand for these services continues to increase, and with it, the need for more funding. The development pressures and parcelization trends identified above and elsewhere will bring more acres into high priority status for urban and community programs and strategies.
+
+## Address ongoing erosion of federal support for Cooperative Forestry programs
+
+Currently available resources are insufficient to sustain programs as structured. Although the USDA Forest Service expects states to base the identification of priority landscape areas largely on geospatial analysis, a strong case can be made that qualitative, non-spatial data can inform such a process as well as, or even better than the compilation of spatial data layers assigned arbitrary or subjective values. For example, exotic pest occurrences can flare up almost anywhere in the state, depending on the type of pest and the host species affected. For example, EAB was first detected in far northern Maine, hundreds of miles from the expected area of detection (southern Maine, near existing infestations in New Hampshire). In this example, the location of the priority resource values protected does not necessarily correspond with location of any priority management action. The issue of intergenerational transfer transcends arbitrary boundaries; it is happening across the state, even in the largest family ownerships.
+The federal guidance to the states considers prioritization essential to maximizing the benefits of federal funds. Unfortunately, this guidance fails to recognize that state forestry and landowner assistance programs are established in law to serve all of the people of a state. State forestry agencies cannot choose who benefits from their programs and who does not, based on where they live or own forest land.
+In Maine's case, it is hard to identify what is not a priority landscape area. Consider the following facts:
+1. Maine is usually a net importer of wood.
+2. Maine's forest products industry provides markets not only for Maine forest landowners but for landowners across the region whose states and provinces lack the diversity of markets that Maine still has.
+3. Most land in Maine is near some form of water: Rivers, streams, ponds, lakes, and wetlands.
+4. Wildlife do not recognize ownership boundaries. Maine is one of the last strongholds of contiguous forest acreage for migratory birds.
+5. With its actively managed forests and diverse forest industry, Maine's forests are a key to mitigating greenhouse gas emissions.
+6. The interconnected network of family woodlands in southern Maine make important contributions to the state's quality of life.
+A strong case can be made that every acre of forest land in Maine is important for some purpose, provides some form of public benefit, and is therefore a priority. The goal of no net loss of forest land, while laudable, is unrealistic. However, considering the economic importance of forests alone, Maine cannot afford to walk away from efforts to conserve forest lands in any part of the state.
+Nonetheless, in keeping with the federal guidance, Maine has identified priority landscape areas. These areas are further classified by four types:
+1. Family woodlands;
+2. Urban and community trees and forests; Multi-state areas that are a regional priority 
+
+## Northeastern Forest Fire Protection Commission
+
+The MFS is a member of the Northeastern Forest Fire Protection Commission or "Compact" which was formed shortly after the devastating 1947 forest fires. Members include the New England States, New York, the Provinces of New Brunswick, Quebec, Nova Scotia, PEI, Newfoundland, and Labrador, plus the New England Forest which includes the White, Green and Finger Lakes National Forests and the DOI agencies of USFWS and BIA. The Compact was assembled to bolster fire suppression capabilities and meet training needs. Equipment and manpower are often called upon during the wildfire season, potentially increasing each member's firefighting arsenal. All the agencies listed have suffered from dwindling budgets. The geographic proximity may cause wildfire problems across the region that limits each member's ability to share adequate resources. As regional resources are depleted, the next level is to mobilize resources from outside the region or nationally which significantly adds to response time and cost. The Compact website is: www.nffpc.org.
+
+## Multi-state LSR -Forest Economy
+
+The MFS participated in and contributed to a multistate Landscape Scale Restoration Grant project, "Economic Contributions of the Forest Products Industries in the 20 Northeastern States." This project conducted an analysis of the economic contributions of the forest products industries in the Eastern Region, State and Private Forestry -the 20 northeastern states, plus Nebraska, and Ontario, Canada. Project goals included:
+• Quantify the contributions and role of the forest products industries in the region.
+• Document the importance of forestry and the forest products industry in the region.
+• Provide a basis for comparison with other regions (the South) and other (agricultural production) in the U.S.
+• Disseminate the results of the analysis.
+This area is not depicted in the map series that follows. For example, MFS has worked with "Local Wood Works" on efforts to connect buyers and users of wood with the landowners who produce the wood.
+1.8. Partner with outside organizations to improve recognition of all levels of the wood products manufacturing community, from large industrial users to secondary wood products to local firewood and specialty markets. Develop or expand tools such as the Real Maine website to serve as a wood producer/consumer directory.
+Priority landscape area(s) the strategies address • Capital investment in existing or new facilities.
+• Number of jobs (direct, indirect, and induced) sustained or maintained annually due to investments in the forest products industry.
+• Value-added (direct, indirect, and induced) to Maine's economy by the forest industry.
+State Goal/Theme 2: Support active management of the forest land base 
+
+## 2.6
+
+Partner with outside groups to develop a "woodscaping" practitioner corps, with emphasis on "foresthetics" and habitat protection and creation.
+
+## 2.7
+
+Partner with outside groups to use new approaches to promote active management of woodlands, such as the Forestry for Maine Birds program, in collaboration with Maine Audubon, Maine Tree Farm, and the Forest Stewards Guild.
+
+## 2.8
+
+Encourage peer-to-peer networks where there is strong local interest and support to further extend outreach of the Forest Stewardship Program.
+
+## 2.9
+
+Diversify and expand the funding base for MFS programs.
+2.10 Provide information, technical assistance, and financial assistance to municipalities interested in maintaining and improving their urban and community forest resources.
+2.11 Provide forest protection services to minimize the risks and damages from insect, disease, fire, wind, and other destructive agents.
+2.12 Apply the information and experience gained from Outcome Based Forestry projects across other private forest landscapes. • Number of acres certified to an independent third-party standard (American Tree Farm System, Forest Stewardship Council, and/or Sustainable Forestry Initiative).
+• Growth and harvest remain in relative balance.
+• BMP monitoring.
+State Goal/Theme 3: Address climate change and its impacts on Maine's forests Strategies 3.1 Explore opportunities to strengthen forest resilience and adaptive capacity.
+
+## 3.2
+
+Establish a meaningful role for MFS in the work of the Maine Climate Council.
+
+## 3.3
+
+Continue to monitor changes through FIA and provide for focused modeling.
+
+## 3.4
+
+Continue efforts to promote active forest management as a means to capture atmospheric carbon, create resilient forests, and adapt forests to climate change.
+
+## 3.5
+
+Work with landowners, foresters, loggers, non-governmental organizations and tribal governments to foster informed sustainable forest management.
+Priority landscape area(s) the strategies address • Family woodlands
+• Urban and community trees and forests
+• Rural/large parcels 5.17. Support efforts to reduce atmospheric greenhouse gas levels and damage to forests.
+5.18. Promote efforts to allow forests to adapt to climate change -e.g.:
+• Maintain large contiguous areas as forests;
+• Reduce other stressors;
+• Encourage species suited to future climates.
+
+## Work with communities and federal partners to advance the National Cohesive
+
+Strategies.
+Priority landscape area(s) the strategies address
+• Urban and community forests
+• Family woodlands
+• Rural/large parcels (Forest Legacy)
+• Family woodlands
+• Urban and community trees and forests
+• Rural/large parcels • Total number of fires kept to less than 1,000 and acres burned kept to less than 3,500 annually.
+• Losses are kept to less than 10% of the homes threatened by fire.
+• An average of 500 acres annually are treated either with prescribed fire or mechanical chipping operations.
+• Percentage of at-risk communities reporting increased local suppression capacity as evidenced by: (1) The increasing number of trained and/or certified fire fighters and crews or (2) Upgraded or new fire suppression equipment obtained or (3) Formation of a new fire department or expansion of an existing department involved in wildland fire fighting.
+• Number of firefighters trained annually in forest fire suppression techniques.
+• Number and percent of forest acres restored and/or protected from (1) invasive and
+(2) native insects, diseases and plants (annual).
+• Number of client cooperators and/or organizations trained and participating in survey and outreach efforts.
+• Currently available options for forest and pest management maintained.
+• Outreach products created (reports, media events, newsletters, press coverage, etc.).
+State Goal/Theme 6: Promote Outcome Based Forestry and streamline the regulatory framework Strategies 6.1 Identify and reach out to qualified landowners who may be interested in OBF. 25 6.2 Identify additional sectors of forestry regulations where a permit by rule process would provide efficiency while maintaining protections of important public trust resources.
+Priority landscape area(s) the strategies address • Effective implementation of water quality BMP's remains at or improves upon current levels.
+• Forestry operations retain an exemption from Clean Water Act permitting requirements due to high level of performance on BMP's.
+• Water quality rule violations are acted upon and corrected as quickly as possible. In addition to providing specific comments, the White Mountain National Forest indicated its willingness to support the goals of Maine's Forest Action Plan by:
+• Continuing cooperative efforts related to wildfire prevention, cohesive strategies, and the Northeastern Forest Fire Protection Compact;
+• Sharing monitoring information and potentially working together to increase monitoring efforts;
+• Sharing ways the Forest uses technology to facilitate its work;
+• Being a demonstration area for management approaches or implementation of BMPs;
+• Continuing efforts to control or eradicate invasive plant species on the Forest.
+• Assisting with developing and sharing messaging related to forestry, fire, and sustainable resource management;
+• Participating in collaborative groups working on forest health, sustainability, climate change, biodiversity, the forest economy, etc.;
+• Continuing to apply and monitor the effectiveness of BMPs; and,
+• Contributing to workshops and trainings related to fire, water protection, and habitat management.
+
+## Other Plans Incorporated in the Statewide Assessment and Strategy
+
+Community wildfire protection plans (required)
+Community Wildfire Protection Plans (CWPP) are a required prerequisite under the Healthy Forest Restoration Act (HFRA) of 2003 to receive hazardous fuels reduction funding. The HFRA encourages local communities to develop and implement forest management and hazardous fuel reduction projects within the WUI. CWPP's address issues such as wildfire response, hazard mitigation, community preparedness, and structure protection. The CWPP is a collaborative project that has two objectives: to identify and prioritize hazardous fuels treatments that will protect the community and to recommend measures for reducing structural ignitability.
+The minimum requirements for a CWPP as described in the HFRA are:
+• Collaboration: A CWPP must be collaboratively developed by local and state government representatives, in consultation with federal agencies and other interested parties.
+• Prioritized Fuel Reduction: A CWPP must identify and prioritize areas for hazardous fuel reduction treatments and recommend the types and methods of treatment that will protect one or more at-risk communities and essential infrastructure.
+As Maine communities grow, the threat of fire in the Wildland Urban Interface (WUI) increases as well. Fires in the WUI can originate in the forests and threaten homes or start as structural fires and threaten the forests.
+On average, Maine experiences over 500 wildfires annually. Over two-thirds of these fires threaten, damage or destroy structures. Most of these fires occur in the WUI or in rural areas that have limited firefighting capabilities.
+To help reduce the risk of wildfires in Maine communities, the MFS completes several CWPP's annually. After the initial meeting with the community and Fire Chief, a day or two are scheduled to conduct the wildfire risk assessments (WRA's).
+The WRA form has been made into a cell phone application (AKA an "app") only available to forest rangers. 3. Where conservation easements are employed as the method of land protection, a forest stewardship plan will serve as the means for describing specifically how easement provisions will be met. BPL, working in concert with its land protection partners as well as the Department of Inland Fisheries and Wildlife, the Maine Natural Areas Program and the Maine Forest Service, will develop easement provisions that meet FLP Guidelines and where applicable:
+a. seek to protect significant recreational, wildlife and ecological values for public benefit (for example, important deer yards and significant recreational trails may be identified in the forest stewardship plan and protected through the terms of the easement);
+b. seek to protect rare and endangered species habitat, rare and exemplary natural communities and other significant wildlife values such as fisheries habitats and deer yards, and natural, scenic, educational, scientific, recreational, historical, cultural and tribal resources (for example, as part of the forest stewardship plan, the state will consult with the Maine Natural Areas Program to identify rare, threatened and endangered species habitats and may include special protection provisions for such habitats in the easement); c. seek to protect water supplies and watersheds, riparian areas, wetlands, shorelines and river systems, and maintain soil fertility and quality (for example, the forest stewardship plan may address how Best Management Practices will be used to protect soils at risk of erosion from timber harvesting; significant wetlands may be identified and an adequate buffer established to ensure their protection; these values may be protected through the terms of the easement); d. seek to assure the sustained, natural capacity of the property and its soils to support healthy and vigorous forest growth, and that, so long as the property is managed as a working forest, commercial forest management, if undertaken, will provide a continuing, renewable and long-term source of forest products, maintain a healthy and biologically diverse forest that supports a full range of native flora and fauna, and limit adverse aesthetic and ecological impacts, particularly in riparian areas, high elevation areas and public vistas.
+Conservation easement transactions shall require that a Forest Stewardship Plan or multiresource management plan, prepared in accordance with Maine Forest Service standards, then-current, be approved before or at closing by the State Forester or designee, as required by 2017 federal Forest Legacy Program Implementation Guidelines section V.17.
+The post-closing requirements for modification of Forest Stewardship Plans or multiresource management plans is governed in part by section V.17 of the Implementation Guidelines, but also by procedures dictated by the terms of the conservation easement.
+Maine shall require that the forest planning documents be kept current and updated pursuant to the terms drafted into the easement. Modification of the forest planning documents must be agreed to by the Holder, but if Holder provides no comments following consultation, the landowner may proceed with adoption of the revised document. Sample easement language used in recent easements approved by state and federal parties under current federal guidance is as follows:
+Holder Review (where there is NO Third-Party Certification):
+Grantor 2. Parcels must be at least 75% forested, and more than 50% of the land must meet the definition of commercial forest land (land used primarily to grow trees for the harvest of timber, wood and other forest products for commercial use, but does not include ledge, marsh, open swamp, bog, water and similar areas, which are unsuitable for growing a forest product or for harvesting for commercial use even though these areas may exist within forest lands).
+3. Parcels must be threatened by conversion to non-forest use (contains characteristics which make such land attractive to changes such that the traditional uses and values of the property are reasonably expected to be at risk. These characteristics include, but are not limited to: close proximity to roads; short travel time from population centers; habitat and forest degradation; potential for parcelization; the existence of water resources such as streams, rivers, ponds, and lakes; scenic values and the presence of outdoor recreation opportunities). It is recognized that pre-acquisition of land may occur by a land protection partner at the request of the State as part of the land protection strategy for particular parcels. In this case, the parcels must have been threatened by conversion to non-forest use prior to pre-acquisition to meet the Minimum Required Criteria for Maine's Forest Legacy Program.
+4. Proposed holder of right, title or interest in parcel must be among those cited in Section VI.
+
+## 5.
+
+To the extent that it has the legal authority to do so, the landowner must guarantee unencumbered foot access to the parcels.
+6. Landowner must guarantee access on the parcels for non-motorized recreational uses of the parcels, including but not limited to hunting, fishing, hiking, cross-country skiing and wildlife watching by the general public. 3. Describe access to the project for recreational purposes: (-5 pts if foot access to the parcel is not being guaranteed and/or vehicle access to project will not be available; 5 pts if foot access to the parcel is being guaranteed and vehicle access to the project will be available; scoring will recognize that vehicle access to certain lands such as high elevation parcels may not be appropriate).
+4. Describe the future forest management objectives, what entity will be responsible for future forest management, how the property will be sustainably managed to protect the values identified in #2, and whether the property is or will be certified by a third party. (5 pts for third party certification).
+
+## THREATENED CRITERION (20 points maximum)
+
+5. Describe the extent to which the values identified in #2 are under threat of loss or conversion to nonforest uses (or were under threat prior to pre-acquisition). Describe the type, severity and imminence of the threat. Include a description of any legal protections that currently exist on the property; landowner circumstances; adjacent land use; and physical attributes of the parcel that could facilitate conversion: (5 pts if threat of loss or conversion is low; 10 pts if threat of loss or conversion is moderate or long-term; 20 pts if threat of loss or conversion is high or imminent).
+
+## STRATEGIC CRITERION (30 points maximum)
+
+6. Describe the property's relevance or relationship to conservation efforts on a broader level. Describe the scale of the broader conservation plan, the scale of the project's contribution to that plan, and the placement of the project within the plan area. Describe whether the project is adjacent to or otherwise located so as to significantly enhance the values of existing conservation land. (0 pts if property is not part of a broader conservation plan and does not substantially connect to other conserved lands;15 pts if the property makes a modest contribution to a conservation effort and is near already protected lands; 30 pts if the property significantly advances a landscape scale or watershed-based conservation strategy through infill and/or key linkages and supports previous conservation investments.)
+
+## READINESS FACTORS AND OTHER CONSIDERATIONS (20 points maximum)
+
+7. Describe the degree of match being provided as a percentage of the Total Project Cost (the Total Project Cost is the sum of acquisition and pre-acquisition costs, but does not include stewardship
+28 Relevant data to this criterion may be obtained from MDIFW, the Maine Natural Areas Program, or the U.S. Fish and Wildlife Service. Other private or non-profit sources or individuals may have additional information relevant to this criterion.
+endowment; do not include funds raised for stewardship endowment as match). (0 pts if percent match is <50%; 10 pts if percent match is 50% or greater).
+8. Describe the degree of project readiness including the status of each of the following: a. preliminary appraisal b. agreement on easement or fee acquisition conditions between landowner and state c. cost-share commitment has been obtained from a specified source d. signed option or purchase and sales agreement is held by the state or at the request of the state OR at the request of the state, conservation easement or fee title is held by a third party e. title search is completed and includes statement of minerals determination
+(2 pt for each readiness factor completed, up to 10 pts maximum).
+9. Describe the nature of ongoing management and stewardship of the fee or easement parcel. If fee, describe the potential for the parcel to generate revenue through timber harvesting, recreational fees, or other revenue streams directly connected to the parcel. Describe the annual management and stewardship costs of the parcel and the size of endowment needed to cover these costs using, in the case of easements, the model recommended in Appendix 7. 
+
+[FIGURE: a) Oak wilt disease Oak wilt has not been found in Maine, but if the disease arrives in Maine it would have a high potential for severe impacts on the state's red oak resources and require very involved and costly action to manage and mitigate impacts. Thus, efforts aimed at early detection have been prioritized and underway since 2019, supported by a grant from the USFS. Efforts have included survey for oak wilt in urban and other high-human-use settings, producing fact sheets and other outreach materials and presentations and training. Oak wilt will continue to be a disease of high concern, with ongoing efforts aimed at early detection.b) Red pine declineRed pine decline is a frequently observed phenomenon in Maine and has become increasingly significant throughout the state (as well as other New England states) over the past decade. While some environmental and site factors are thought to be indirectly related to red pine decline, others are more obvious, like the red pine scale recently found in several new locations. However, the most impactful agents of red pine decline in Maine are infection of red pines by Diplodia tip blight (Diplodia sapinea) and Sirococcus shoot blight (Sirococcus conigenus). Many red pine plantations were established in Maine and northern New England after harvesting spruce and fir stands damaged by the spruce budworm during the 1970's and 1980's. These plantations are now showing a high susceptibility to injury and mortality from Diplodia tip blight and Sirococcus shoot blight. The diseases are also found in native red pine stands. Infection potential is largely driven by weather conditions of cool, wet springs and prolonged periods of wet weather in summers. Such weather trends are favorable to the fungus and have characterized weather in Maine for the past decade.]
+
+[FIGURE: Rural/large parcels; and, 4. Important natural resources. Important natural resources are shown as follows: a. Eastern brook trout; b. Canada lynx; c. Impaired watersheds; d. Atlantic salmon critical habitat; and, e. Beginning with Habitat Focus Areas.]
+
+[FIGURE: a. Maine DACF, Bureau of Parks and Lands b. Maine Department of Inland Fisheries and Wildlife c. Maine Department of Marine Resources d. Maine DACF, Bureau of Forestry e. U.S. Department of Agriculture Forest Service f. U.S. Department of Interior, National Park Service g. U.S. Department of Interior, Fish and Wildlife Service h. U.S. Department of Defense i. Local Governments VII. PUBLIC INVOLVEMENT PROCESS Maine's Forest Legacy Program has been guided by the following documents: an original Modified Assessment of Need (AON) adopted March 18, 1994, an updated Modified AON adopted March 25, 1. Parcels must be within Maine's Forest Legacy Area.]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[TABLE:  Staff administer and deliver the Forest Stewardship, Urban and Community Forestry, Conservation Education, and Watershed Forestry Programs (only Forest Stewardship and Urban and Community Forestry are federally funded). FPM staff work closely with the Forest Health and Monitoring and Forest Protection Divisions.]
+
+[TABLE]
+* Timber Harvest Satisfaction Survey. The survey is now in its fifth year of use. Many programs offered by MFS fall within the umbrella of the Maine Healthy Forests Program. "What Will My Woods Look Like?", a side by side comparative picture guide of before and after timber harvests was published in 2019.Forest inventory and analysisIn 1999, FHM was given responsibility for conducting a permanent inventory of Maine's forest resources on a 5-year cycle. FHM conducts ground measurements which supplies timely, unbiased, credible, and relevant information about the extent and condition of Maine's forest resource. Field data collected by FHM staff on a network of permanent plots is augmented by remotely sensed information. The results are summarized by federal partners.Inventory results are used by a broad range of clients including conservation organizations, consulting foresters, industry foresters and researchers. Data from this survey supports forest policy decisions, provides information for forest modeling work, and informs management decisions. The MFS biometrician provides analyses for the federal reports, and custom analysis for MFS and its clients. MFS also generates statewide reports on levels and trends in the forest resource and responds to requests for spatially specific information. To promote safe and effective wildfire response, MFS has partnered with state, regional and federal agencies through Stafford Act agreements for many years. MFS provides training, grants and aircraft response to enhance local VFD capacity regarding wildfires. MFS began mobilizing single resources and crews to enhance national response capacity in the 1980's. Resources have been mobilized annually since then. MFS has supported national type 1 and type 2 Incident Management Teams (IMT's) at nearly every level of management. MFS also maintains a Type 3 IMT whose Command & General staff maintain Type 2 qualifications. The Maine Forest Service was created in 1891, to provide technical assistance to homeowners and tree-care providers. The appearance of Dutch elm disease in 1952 compelled the Maine Forest Service to place greater emphasis on community forestry programs, and from 1956 to 1981, Maine's Division of Urban Forestry planted over 35,000 shade trees in over 200 communities. The Division was dissolved in 1981, but the Maine Forest Service continued to provide technical support to communities. The current form of Maine's community forestry program was initiated in 1991.*
+
+| Project Canopy |
+| --- |
+| Maine has been involved in community forestry management for over one hundred |
+| years. |
+
+[/TABLE]
+
+[TABLE:  , and technical and financial assistance designed to conserve, protect and enhance Maine's privately-owned woodlands. MFS uses FSP resources to help develop and deliver the education and technical assistance provided by BWW. More than 86,000 family woodland owners make up over a third (nearly 5.4 million acres) of Maine's private forest ownership, by acreage, and the proportion is much higher in some regions within the state. MFS has assisted such landowners for many years.MFS's Forest Policy and Management Division delivers statewide landowner assistance programs through 10 MFS District Foresters, each with districts ranging from 600,000 to over 3,000,000 acres. On average 50-80% of the District Foresters' time is spent on landowner outreach, depending on the district. District Foresters are supported by a Landowner Outreach Forester (who also serves as state Stewardship Coordinator), a Water Resources Forester, an Urban and Community Forester, and other professional and clerical staff. Landowner assistance efforts are closely coordinated with Maine's Urban and Community Forestry program (Project Canopy). MFS Forest Health and Monitoring staff also provides essential outreach and technical services to landowners. MFS Forest Protection Division, which conducts fire control and suppression in coordination with local entities and enforces natural resource laws, contributes to landowner outreach in those capacities as well.]
+[TABLE:  WoodsWISE Incentives program. Though the number of current Stewardship level plans has decreased since 2002, the value of those plans has not diminished. In many cases, landowners renew their plans through channels other than FSP, using their Stewardship Plan as the basis from which to extend their stewardship activities. In some cases, other programs such as EQIP have been used to fund the next plan, with little or no credit given to FSP as the launching pad. Nevertheless, efforts leveraged by FSP have brought a significant number of woodland owners to the step of developing a written forest management plan of some kind, with all the associated benefits to the resource. On average, woodland owners contribute almost twice as much toward the cost of their Stewardship Plan as the financial assistance provided from the Forest Stewardship Program. Plan specifications are updated from time to time to stay current with national FSP Standards and Guidelines, American Tree Farm Standards, and relevant changes in Maine's forestry regulations. Additional information on the WoodsWISE incentives program is found at:]
+
+[TABLE]
+* The consensus is that the WoodsWISE Program is good but could be much better if more resources were available.*
+
+| Forest Stewardship Program outputs and outcomes are measured annually both |
+| --- |
+| indirectly and directly, by two primary measures: |
+| comprehensive invasive plant control program. The State Forest Stewardship |
+| Coordinating Committee (SFSCC) web page 4 was created in part to provide a |
+| way for committee members to attend meetings virtually and provide input, |
+| especially since many invitees are unable to attend the annual in-person |
+| meeting. The page has a link to a standing survey, where committee members |
+| can offer suggestions for the overall program, and comment on which aspects of |
+
+[/TABLE]
+
+[TABLE:  Maine law requires all landowners conducting forest operations, including timber harvesting and land management road construction, to file a Forest Operations Notification (FON) with MFS prior to beginning operations. Landowners and managers file over 4,000 FONs each year. The filing of a FON helps protect landowners; assists MFS in its efforts to administer the state's forest practices and timber theft laws, including permitting for certain activities; and supports certain reporting requirements also mandated by law.]
+
+[TABLE]
+*Annual ingrowth (new merchantable trees) was estimated at 1.53 million cords in 1999, the first year of annual measurement. Estimates of growing stock ingrowth (on timberlands) increased from 1.89 million cords in 2009 to 2.26 million cords in 2014, but then decreased slightly to 2.22 million cords in 2019. *
+
+| Maine's Forest Based Economy -Overview |
+| --- |
+| Maine has a highly diverse forest industry cluster (a mix of mutually supportive |
+| manufacturing facilities). Maine's forest products cluster provides markets for waste |
+| products from manufacturing facilities, as well as high-grade material. When this plan |
+| was first written in 2010, landowners and loggers, for the most part, had markets for |
+| everything they harvested, from the lowest grades of wood that fed biomass energy |
+| plants to softwood and hardwood pulp to dimension lumber and high-end furniture |
+| products. That landscape has changed significantly in the last ten years, as several |
+| biomass energy plants and pulp and paper mills have shuttered permanently. The |
+| entire supply chain, including landowners, loggers, and truckers has suffered and |
+| continues to suffer greatly from the loss of low-grade wood markets. Without these |
+| markets, there is less incentive to invest in the silvicultural improvement of forest stands |
+| throughout their life cycle. |
+| The forest products industry remains a key player in the state's economy. In 2017, the |
+| forest products industry directly supported 19,000 jobs, $990 million in earnings, and |
+| contributed $1.6 billion to Maine's GDP. Including indirect and induced effects, the |
+| forest products industry supported nearly 40,000 jobs, $2 billion in earnings, and |
+| contributed $8.2 billion to Maine's GDP (Public Sector Consultants, 2020). |
+| The forest products industry supports one in five manufacturing jobs (Public Sector |
+| Consultants, 2020) and 18% of the state's exports (Maine International Trade Center, |
+| 2020). |
+| Maine is a major player in the regional forest products industry. In 2011, Maine |
+| produced over ½ of the wood output and processed 56% of the wood volume of the |
+| four-state region that includes New Hampshire, Vermont, and New York. Maine's forest |
+| products industry accounted for 31% of the forest products Gross State Product in this |
+| same region (Northeast State Foresters Association, 2013). |
+| Employment in the forest products industry has declined steadily, as mills and |
+| harvesting technology become more efficient. While employment is down, worker |
+| productivity, average wage, and capital expenditures have all increased. This is the |
+| natural evolution of a mature industry going through transition and taking steps to |
+| remain competitive in the global marketplace. |
+| Forest-based recreation also makes significant contributions to the state's economy, |
+| particularly in rural areas. In 2011, forest-based recreation contributed $2.8 billion to |
+| Maine's economy (Northeast State Foresters Association, 2013). |
+
+[/TABLE]
+
+[TABLE: • Conversion of forest land to development and parcelization. Parcelization makes good forest management less likely and more difficult, even if the land remains forested. Parcelization and forest land conversion are significant issues in southern and central Maine, whereas a significant portion of northern Maine has been permanently conserved over the last 20 years. • Inadequate returns from long term forest management. The financial returns on long term forest management do not always justify either retaining forest land, if other uses (e.g., development) are possible, or practicing long-term silviculture. Research at the Penobscot Experimental Forest indicates that the present value of stands managed for long-term value is about half that of stands subjected to diameter limit cutting, even though this practice diminishes the long-term productivity of the land. This issue varies in importance depending on location. The financial challenges facing woodland owners in southern, central, and coastal Maine, where development pressure and property taxes (among other factors) are quite different from those in northern Maine, where land still changes hands based largely on timber returns.]
+
+[TABLE]
+*Since 1990, the harvest of forest products (sawtimber, pulpwood, firewood, and biomass) has ranged from 12.8 to 16.7 million green tons. Over this period, the Improve the quantity and quality of future timber supply when appropriate.b. Current situation: The balance between growth and harvest is a key indicator of forest sustainability over a reasonable time frame. Maine's timberlands currently have a growth to harvest ratio of 1.27. A net growth ratio value greater than one indicates that net growth is greater than harvest, while a ratio value of less than one indicates that harvest exceeds growth. The ratio of net growth to removals peaked in 1959 at an unsustainable ratio of 2.37:1. A maturing forest, the spruce budworm epidemic, and harvest brought the ratio to an undesirable 0.80 in 1995.The ratio has remained above the 1:1 balance point since 2008. mix and individual contribution of various species and products has shifted to meet market demands. Despite an average annual harvest of 14.4 million green tons between 2003 and 2018, growing stock inventory increased nearly 3% on all forestlands but increased by less than 1% on timberlands.*
+
+| Chapter 2: Conditions and trends of forest resources in the state 2. Criterion 2: Water quality, wetlands and riparian zones 3. Criterion 3: Timber supply and quality |
+| --- |
+| awareness and concern, and Maine's working forests help protect and provide an a. Goal: Maintain site productivity. b. Current situation: Water quality has become an issue of increasing public 1. Criterion 1: Soil productivity aquatic systems in forested areas and riparian forests. State of Maine Criteria, Goals, and Outcomes of Forest Sustainability 67 a. Goal: Maintain or improve the chemical, physical, and biological integrity of a. Goal: |
+| abundant supply of clean, cool water that provides drinking water for a substantial b. Current situation: Forest management activities in Maine generally protect site portion of the state's population, offers outstanding water-based recreation productivity. As noted in the water quality section below, MFS finds very high opportunities such as canoeing and kayaking, and supports a healthy rates of BMP implementation and effectiveness during its regular monitoring of recreational fishery. Maine's loggers have done an exemplary job of protecting active and closed out harvest sites. This indicates that soil is not being displaced water quality during timber harvesting operations, as evidenced by several years by harvest activities so that it moves into water bodies. All forest landowners of BMP monitoring reports. When compared to other, more intensive and certified to a third-party standard 8 must implement BMP's everywhere, not just in developed land uses, active forest management is considered a beneficial land riparian zones. The certification standards limit rutting, and auditors are vigilant in making sure that harvesting activities do not compromise site quality. Most use to be encouraged. |
+| loggers have adjusted their operations to account for seasonal conditions that MFS has monitored the implementation and effectiveness of BMP's to protect constrain timber harvesting. water quality since 2000. In general, MFS has found highly satisfactory rates of |
+| BMP implementation and effectiveness. The most recent report is found here: Many of Maine's larger landowners have integrated depth to water table http://www.maine.gov/tools/whatsnew/attach.php?id=797729&an=1. Forest information into their management planning. This information allows landowners managers generally are aware of the importance of riparian and water resources to do a better job of timing harvests and building roads and skid trails to minimize and take often expensive measures to protect them during timber harvesting soil disturbance. operations. Most water quality problems that arise on a small number of timber |
+| harvesting operations are minor and easily remediated. Each year, however, a |
+| handful of operations create more serious violations of the state's erosion and |
+| sedimentation control law and the Natural Resources Protection Act. In such |
+| cases, MFS takes appropriate enforcement actions to change behavior, limit the |
+| possibility of repeat offenses, and remediate the site. |
+| The forestry community has paid increasing attention to the importance of proper |
+| sizing of stream crossings to allow for fish and other organism passage, maintain |
+| habitat continuity, and account for the impacts of a changing climate (e.g. more |
+| frequent severe storms and flashier flows). Some examples of collaborative |
+| efforts include the StreamSmart Initiative, founded in 2011 by Maine Audubon |
+| and partners, and the Fisheries Improvement Network, led by Maine's |
+| Sustainable Forestry Initiative State Implementation Committee. MFS |
+| encourages the use of Stream Smart principles in the latest printing of its BMP |
+| manual; Best Management Practices for Forestry: Protecting Maine's Water |
+| Quality. MFS also has partnered with The Nature Conservancy and Maine |
+| universities in a statewide effort to identify the location and severity of barriers to |
+| aquatic organisms in Maine Streams. Efforts such as these have led to crossing |
+| replacements and a more general awareness of the importance of allowing |
+| streams to flow freely, regardless of size or where they fall on the landscape. |
+
+[/TABLE]
+
+[TABLE:  . Current situation: This criterion is the most difficult to measure, because aesthetics is so subjective.Forests cover 90% of Maine's total land area. The visual amenities of this vast, forested landscape contribute to the state's character and identity. Whether in the wildness of the northern regions or the settled landscape of southern regions, the visual quality of Maine's forests is a key asset of our quality of life. Commitments to aesthetic management differ widely among landowners, from the rigorous criteria applied by public land management agencies to sometimes less aggressive measures on private lands. This is due in large part to the different land management objectives of different landowners. Despite these differences, people assess the forest's health and integrity based on what they see. This is particularly important where private lands are open to the public, and where forest management is highly visible. Maine people have often expressed their concerns over the condition of Maine's forests through this filter of aesthetics]
+[TABLE:  Maintain biological diversity with healthy populations of native flora and fauna, forest communities and ecosystems. b. Current situation: Fewer species have been extirpated in Maine that in other states with richer biodiversity and higher levels of endemism (examples include Hawaii, Florida, and California). However, Maine is not immune from the loss of native species due to human-caused changes. Maine's 2015 State Wildlife Action Plan identified 378 "Species of Greatest Conservation Need," of which over 40% are associated with Northern Hardwood and Conifer Forests. While the habitat losses that largely drive non-aquatic species extirpations involve the permanent conversion of forest land or other habitats to a developed use, forest management focused strictly on economic objectives and/or involving toofrequent harvest entries can have negative impacts on biodiversity. Land use activities that result in permanent forest land conversion affect both terrestrial and aquatic species.]
+[TABLE: • Maine's ecological reserve system lacks adequate representation in southern and central Maine. Most protected acres and protected forest types are in northwestern and Downeast Maine, yet a disproportionate amount of Maine's rare species and species diversity lies in southern Maine. Only one forest type is sufficiently protected in Maine's southernmost region. The lack of protected forest types in southern and central Maine becomes more pronounced when replication is considered.]
+[TABLE:  6. Criterion 6: Public accountability a. Goal: Demonstrate sustainable forestry and build public confidence that forest management is protecting public values for the long-term. b. Current situation: About 8.3 million acres statewide are certified as well managed by independent auditors of the Sustainable Forestry Initiative (SFI), Forest Stewardship Council (FSC) and American Tree Farm System (ATFS) -nearly 50 percent of Maine's working forest. Nearly all of Maine's larger forest holdings are certified to one or more standards (usually SFI or FSC). Certification has less of a foothold among family woodlands. This seems largely due to the transactional costs of certification and the perceived lack of economic or other benefits. Many loggers are trained by or are certified by the Northeast Master Logger Certification Program, the Qualified Logging Professional Program, and/or the Certified Logging Professional Program, which commit to protecting public values.]
+[TABLE:  development and manufacture of new products ranging from medical devices to food additives to wood-based textiles and advanced building materials. Maine has R&D expertise in developing advanced materials and composites with wood fiber, and the University of Maine is the only entity in the world producing nanocellulose in commercial quantities. 8. Criterion 8: Social considerations a. Goal: Forest landowners support the communities surrounding their lands and operations, and except where special circumstances dictate otherwise, the landowner continues to provide historic and traditional recreational opportunities that do not conflict with the landowner's objectives or values. b. Current situation: Forest-based and forest-dependent recreation opportunities abound in Maine's forests on both private and public lands. The suite of activities that use or rely on the forest include traditional ones such as hunting, fishing, trapping, and hiking, birdwatching, cross-country skiing, and other non-motorized activities to motorized sports such as snowmobiling and ATV riding. Through the generosity of Maine's landowners, most of the state's private forest land remains open to responsible public recreation. This is particularly true for large commercial holdings. Recently the use of snowmobiles and all-terrain vehicles have seen steep increases in activity. Landowners and sportsman's groups recognize the need to manage these activities to protect the landowners and natural resources of the state. The Governor formed a task force to look at the issues and develop solutions to benefit all parties. MFS continues to work with the department's Recreational Vehicle Division to help landowners and clubs meet acceptable trail standards and maintenance following best management practices. 9 9. Criterion 9: Forest Health a. Goal: The forest is healthy and vigorous with no serious insect infestations or disease outbreaks. b. Current situation 10 : Since 2015, some portions of Maine have experienced moderate to severe drought. These conditions have and will continue to contribute to forest health problems. In 2019 defoliation by browntail moth was seen over a broad swath of the Midcoast and portions of the Penobscot Bay and Central Interior biophysical regions of the state. The area impacted by this pest has expanded rapidly since 2014, and there are no signs of it letting up. Some of the expansion may be attributable to warmer late-summer and early fall temperatures associated with a changing climate. Winter moth defoliation was still readily visible from the ground in scattered locations from the South Coastal to the Penobscot Bay region of the state.]
+[TABLE:  Improved and targeted public education programs can improve efficacy, resulting in the retention of forest lands and improved environmental literacy. There is a critical need to educate the public about the body of existing knowledge about forests; their societal benefits and other forest-related topics and pressing issues. Ultimately, effective education and outreach programs lead to more informed decisions by residents of Maine, and greater acceptance and approval of management activities, such as timber harvesting, wood manufacturing and wood products transportation.Approximately 44.2 million acres of private forests, located primarily in the eastern United States, are likely to experience dramatic increases in development in the next three decades, with consequent impacts on ecological, economic and social services. Without effective educational programs, thousands of family woodlands could be fragmented and parcelized, ultimately reducing the region's forestland capacity.Maine people are keenly interested in the forest. They want to understand how it grows and whether it is well-managed. They are curious about the plants and animals that live there. They want to know whether it can continue to be the economic lifeblood of Maine. Yet too often, they do not have access to accurate, timely and independent information about the forest. The public needs to understand forestry issues better if they are to make informed decisions.MFS provides technical educational assistance to collaborating organizations and agencies to promote informed decisions affecting forests and other natural resources. The program emphasizes several core themes, including sustainability of natural and cultural resources in forest; and developing awareness and of the interrelationships between people and the land, all to achieve the goal of healthy, sustainable forests.]
+
+[TABLE]
+* February 2019, Governor Janet Mills announced that Maine had joined the U.S. Climate Alliance. In June 2019, Governor Mills and the Legislature created the Maine Climate Council, an assembly of scientists, industry leaders, bipartisan local and state officials, and engaged citizens to develop a four-year plan to put Maine on a trajectory to reduce emissions by 45% by 2030 and at least 80% by 2050. In further support of these goals, Governor Mills issued Executive Order 10 FY 19/20, An Order to Strengthen Maine's Economy and Achieve Carbon Neutrality by 2045 17 , and Executive Order 13 FY 19/20, An Order for State Agencies to Lead By Example Through Energy Efficiency, Renewable Energy and Sustainability Measures. Conserve working and natural lands and waters through a dedicated, sustained funding source to support a robust forest products and agricultural economy, increase carbon storage opportunities, avoid future emissions, and enhance climate adaptation and resilience.*
+
+| Strategy #2: Create new and update existing financial incentives and support for |
+| --- |
+| private land management and infrastructure that supports climate mitigation and |
+| adaptation. |
+| Strategy #3: Provide technical assistance on natural climate solutions to |
+| landowners, land managers, and agricultural producers. |
+| Strategy #4: Update and refocus state programs and policies to address climate |
+| mitigation and resilience. |
+| Strategy #5: Strengthen research and development and monitoring of climate |
+| mitigation and adaptation practices. |
+
+[/TABLE]
+
+[TABLE]
+* Some mandates, such as employing one District Forester in each county, have never been met. MFS relies on USDA Forest Service State & Private Forestry programs to support the organization's core capacity. Ongoing reductions in federal funding for some core programs and the USDA Forest Service's increasing focus on competitive grants have compounded the impact of state budget reductions on the organization. MFS does not have discretionary resources to support emerging issues such as wood to energy and assisting the forest products industry in weathering the sea of change brought about by global competition. People are working longer, harder, and more creatively than ever before, but the agency's resources are stretched to the breaking point. If MFS is unable to acquire newer helicopters to provide wildfire suppression, the state could be left with insufficient aerial resources to provide timely wildfire suppression, resulting in larger, more damaging, and costly fires statewide. The aviation fleet also flies missions to assist forest management, forest health and forest inventory staff as well as assisting other state agencies and performing lifesaving rescues.Populations of spruce budworm in Maine remain low, but detectable through trapping and, in summer of 2020, through visual surveys. They are building relative to conditions seen between the early 1990's through 2013, when trap catches hovered near zero. Outbreaks occur on a roughly 40-year cycle in response to maturing forest stands and reduced pressure from parasites; the last time budworm was a problem in Maine was in the 1970's and 80's. This native defoliator of balsam fir and spruce has been defoliating trees in Quebec north of the Saint Lawrence Seaway for more than 10 years and has now been mapped within 10 miles of our northwestern boundary. Defoliation, which has spread to the south shore and into New Brunswick, currently covers more than 20 million acres. Current population levels in the state suggest that there is still a window of opportunity for managers to conduct targeted pre-salvage harvests in highest risk sites.*
+
+| 5. Maintain the health and resiliency of Maine's forests in the face of |
+| --- |
+| threats from biotic and abiotic agents |
+| Insects |
+| a) Spruce Budworm |
+| Developing a plausible threat scenario for the future cannot be based on recent |
+| averages. From 1991-2010, the peak fire year in the Northeast Compact states saw |
+| 6.5 times as much area burned as the average (Irland Group 2013). |
+
+[/TABLE]
+
+[TABLE:  5,005  winter moths in total. Consistent with defoliation observatins, coastal towns from York to Knox County had the highest catches.MFS continues to cooperate on a multi-state biocontrol project to establish the parasitic fly, Cyzenis albicans in New England. This fly was introduced into outbreaks in Nova Scotia and on the Pacific Northwest in the past, and successfully suppressed their winter moth infestations to tolerable levels. Five hundred cocoons of Cyzenis albicans were set out in Boothbay Harbor (Lincoln County) in October 2019. This is the eighth location in Maine to receive the parasitoids from the University of Massachusetts with funding from the USDA. Through collections of winter moth caterpillars this spring it was determined that parasitism rates were: 27.4% at Two Lights State Park (Cumberland County), 16.33% at Fort McClary State Park (York County) and 4.7% at a site in South Portland (Cumberland County). The early establishment in South Portland is encouraging, the release was only two years ago.e) Emerald Ash BorerEmerald ash borer (EAB) was discovered both in northern and southern Maine in 2018 and was detected in New Brunswick and Nova Scotia, Vermont and Rhode Island in the northeastern region in the same year.Effective 15 January 2021, the EAB will be deregulated at the federal level. The MFS is working with the State Horticulturist's office to develop a state quarantine to help slow the spread to areas of the state not yet impacted by this invasive insect. The MFS also is committed to working with neighboring states to encourage practices to limit spread of this insect in the absence of regulation.MFS began release of biocontrol agents supplied by USDA in 2019 in northern Maine. The program has expanded to southern Maine in 2020.The MFS is working with partners to assure the USDA continues to focus attention and resources on response and recovery strategies.f) Spruce BeetleNo new significant areas of new spruce beetle damage were detected along aerial survey flight lines in northern Maine in 2020, consisting of three aerial survey flights. Additionally, spruce beetle was not reported by FIA crews in the latest dataset available for 2019, nor has it been reported in recent years to MFS by private landowners residing or operating in spruce/fir forests in the northern areas and coastal areas of the State since 2017.Many of the large, mature trees previously affected by spruce beetle during the last outbreak in northern Maine from the mid-1980s to around 1990 and since then have already been salvaged or have succumbed. This is especially true of the core area of infestation in Round Pond Township in the Allagash River area, where approximately 450 acres of spruce beetle affected timber were most recently harvested in 2017 in response to this issue.Spruce beetle also affected certain coastal areas and offshore islands in Maine during the mid-1990s, especially areas in Hancock, Waldo, and Washington counties. Impacts from spruce beetle during this time and in these locations were primarily to large, mature trees and were exacerbated by preceding drought conditions in these coastal areas where shallow, rocky soils are typical.At present, spruce beetle populations appear to have returned to and remain at endemic levels. Since the last complete FIA dataset was compiled in 2014, statewide white spruce mortality has fallen from 1.62% to 1.26% of the standing inventory. This corresponds to a decrease in mortality from 198,823 tons of white spruce biomass in 2014 to 158,098 tons in 2019, indicating there is currently no net increase in mortality over the past five-year period.]
+[TABLE:  They also noted the criteria needed to address potentially invasive plants not currently established in Maine. The committee further agreed it was important to collect information from neighboring states and provinces, because Maine shares similar climate and growing conditions with Canada more than with states to the south. Subsequent efforts by that group have focused on preventing the introduction and further distribution of invasive plants. This effort has been led by the Department of Agriculture, Conservation and Forestry in collaboration with the Maine Landscape and Nursery Association, Ornamental Horticulture Council, Maine State Florists' and Growers' Association and University of Maine Cooperative Extension.]
+[TABLE:  Both state general fund and federal fund support for core programs has declined over the last two decades. Federal support for the Forest Stewardship Program has been particularly weak in recent years; federal support for some programs identified in the forestry section of the Farm Bill, e.g. Natural Resource Conservation Education, has been nonexistent. The State and Private Forestry program of the USDA Forest Service was formally authorized by Congress in the Clarke-McNary Act of 1924. The program was recodified in the Cooperative Forestry Assistance Act of 1978. In this latter act, Congress declared that "it is in the national interest for the Secretary [of Agriculture] to work through and in cooperation with State foresters or equivalent State officials, nongovernmental organizations, and the private sector in implementing Federal programs affecting non-Federal forest lands." The Congress further authorized the establishment of landowner assistance and other forestry programs, including but not limited to Forest Stewardship, Urban and Community Forestry, Forest Health Protection, and Rural Fire Protection. The authorities further stipulate that such programs be delivered through the state foresters (or equivalent state officials).For many years, these programs, and the partnerships between and among the USDA Forest Service, Maine Forest Service, and the many landowners and other cooperators who participated in these programs worked well. Funding levels, although rarely adequate, sufficed to enable the states to leverage existing resources and truly get good forestry in place on the ground. In recent years, however, program funding levels have declined for many programs (though not all).The severe declines in funding for the Forest Stewardship Program are a case in point. The Forest Stewardship Program (known in Maine as WoodsWISE) was created "to encourage the long-term stewardship of non-industrial private forest lands by assisting owners of such lands to more actively manage their forest and related resources…" Although program funding has been used for activities germane to the statutory authority, the primary focus has been to connect family woodland owners with qualified natural resource professionals and help them with financial assistance for the preparation of forest stewardship plans. This assistance helps foster long-term working relationships between family woodland owners and natural resource professionals that carries through to other management activities. Unlike most other states, Maine has always delivered its Forest Stewardship Program through a network of private sector consulting foresters. Most other states delivered their programs almost exclusively through state service foresters until recently; this option simply has never been feasible in Maine, which has only ten District Foresters. By delivering the program through the private sector, Maine has been able to leverage the federal funding assistance for forest stewardship plans with significant technical assistance. Since then, program funding has eroded by roughly 40%. The continued decline in available program funding, coupled with major changes in program design being contemplated by the USDA Forest Service, has forced serious discussions about whether the state can continue to offer the types of services to family woodland owners that they have come to expect.Other programs have not been immune from reductions or outright elimination. For example, the Conservation Education program has not been funded for several years, yet the USDA Forest Service continues to insist that states report on program accomplishments.Although funding for forestry assistance via NRCS programs such as Environmental Quality Improvement Program (EQIP), Wildlife Habitat Improvement Program (WHIP) and Conservation Stewardship Program (CSP) has fallen somewhat in recent years, 24 the amount still far outstrips that available for the Forest Stewardship Program. MFS believes that state forestry agencies are the best agency to deliver forestry assistance programs. This principle is stated very clearly in the Joint MOU signed by NRCS, USFS, NASF and NACD. Section III, Roles and Responsibilities, states, "State forestry agencies have the primary leadership role and responsibility for delivery of forestry programs on State and private lands."The MFS Landowner Outreach Forester and field staff still conduct informal outreach efforts to woodland owners, consulting foresters and the public, to make them aware of NRCS as a source of financial incentive for implementing recommended forestry practices. These efforts help bring in applications to NRCS field offices. In addition, key MFS personnel have maintained their status as Technical Service Providers (TSPs). Since NRCS expanded training opportunities for private consultants to become TSPs in 2012, there are over 60 licensed foresters, nearly all of whom are also Stewardship Foresters, eligible to implement EQIP and WHIP practices without MFS involvement in Maine. This is another example of needless redundancy between two agencies administering USDA forestry assistance programs. MFS needs to explore other ways to encourage and incentivize implementation of practices recommended in management and practice plans.Representatives of the MFS regularly participate in the State Technical Committee, although historically the committee considers few, if any, forestry items. In 2012, the State Conservationist agreed to form a Forestry Subcommittee to address the increasing amount of NRCS forestry-related practices and spending, after consistent effort by MFS. Since then, the subcommittee has met sporadically to make recommendations and provide input regarding NRCS's forestry assistance programs. Given that a substantial portion of NRCS funds are contracted annually for forestry related practices, including CAP-106 Forest Management Plans, it is appropriate for the subcommittee to meet annually. The Landscape Scale Restoration (LSR) is a Forest Service State and Private Forestry competitive grant program that funds priority projects identified in state Forest Action Plans. Originally funded by siphoning appropriations from programs such as Forest Stewardship and Urban and Community Forestry, the program now has its own line item in the federal budget at the expense of the aforementioned programs. Although touted as a panacea for declining appropriations for Cooperative Forestry programs, LSR has not demonstrated that it can support the continued operation of all Cooperative Forestry programs.The examples cited above point to a diminution of the partnership with which Cooperative Forestry Assistance programs were intended to be delivered. While states have been faced with severe budget cuts and have been forced to make hard choices about staff and program reductions, similar measures have not been instituted at the federal level. Thus, the percentage of Congressional appropriations intended to deliver programs on the ground in the states has decreased, while the percentage retained by the USDA Forest Service has increased.Chapter 4: Priority landscape areasThis chapter describes Maine's priority landscape areas. The 2008 Farm Bill requires that state assessments include "any areas or regions of [a] state that are a priority…" Final joint guidance from the USDA Forest Service and the National Association of State Foresters (Redesign Implementation Committee, 2008) further states that assessments should "[d]elineate priority rural and urban forest landscape areas to be addressed by the state resource strategy. States can also identify linkages between terrestrial and aquatic habitat, as appropriate."]
+
+[TABLE]
+* Maine has identified three multi-state areas:(1) what is commonly known as "the Northern Forest Lands," which includes Maine, New Hampshire, Vermont, and part of New York, which is also the area represented by the NorthEast State Foresters Conservation of the Northern Forest has been the subject of much discussion and multistate cooperation over the last 20 years, beginning with the Northern Forest Lands Study and Northern Forest Lands Council, and continuing to the present under the aegis of the Conservation Lands Committee of the New England Governors' Conference.*
+
+| Association (NEFA); (2) the Northeastern Forest Fire Protection Commission; and (3) |
+| --- |
+| Multi-state LSR -Forest Economy. |
+| Northern Forest Lands/NEFA |
+
+[/TABLE]
+
+[TABLE]
+* Priority Landscape Areas (Multi-State): Northeastern Forest Fire Protection Commission Chapter 5: Long-term strategies to address threats to forest resources in the state State Goal/Theme 1: Support a diverse, robust forest economy Improve the relationship between Maine's forestry community and state government, and other stakeholders, and work toward a common goal of a vibrant, sustainable forest economy in Maine. 1.5. Increase efforts to move work conducted at Maine's world-class research and development facilities to commercial application in Maine.*
+
+| Strategies |
+| --- |
+| 1.1. Continue involvement with FORMaine and work with DACF Marketing and |
+| Analysis staff to promote Maine's forest products economy and new product |
+| development. |
+| 1.2. Continue state efforts to address challenges in Maine's business climate. |
+| 1.3. Create both the perception and reality of public policy consistency and |
+| predictability. |
+| 1.4. |
+
+[/TABLE]
+
+[TABLE]
+* Currently available resources are insufficient to sustain programs as currently structured and to implement new initiatives. Both state general fund and federal fund support for core programs has declined over the last two decades.*
+
+| • University of Maine |
+| --- |
+| • Maine Congressional delegation |
+| • Academia |
+| • USDA Forest Service |
+| Overview of resources available/required to implement the strategies |
+| • Resources potentially available |
+| -State General Fund |
+| -Federal |
+| -USDA Forest Service |
+| -USDA Rural Development |
+| -Private -matching cost-share investments |
+| • Resources Needed |
+| • Family woodlands |
+| • Rural/large parcels |
+| S&PF and other programs that contribute to the strategies |
+| • Wood Innovations Grants |
+| • Northern States Research Cooperative |
+| • FORMaine |
+| Key stakeholders important for implementing the strategies |
+| • Forest industry and related organizations |
+| • Local Wood Works and related organizations |
+
+[/TABLE]
+
+[TABLE]
+* 2.13 Support a stable Tree Growth Tax Law program for current use valuation of managed forest lands. 2.14 Support and advocate for state and federal tax policies that support long-term ownership of and investment in forest lands. 2.15 Maintain the Forest Stewardship Program (WoodsWISE Incentives Program) as the premier forestry assistance program for the state of Maine, with delivery through MFS and its network of private consulting foresters. 2.16 Depending on adequate funding and proper authorities, expand WoodsWISE Incentives to provide implementation of recommended and accepted forest practices that would not otherwise be supported by the harvest and sale of commercial forest products, e.g., invasive plant control practices. Criterion 2: Maintenance of Productive Capacity of Forest Ecosystems • Criterion 3: Maintenance of Forest Ecosystem Health and Vitality • Criterion 4: Conservation and Maintenance of Soil and Water Resources • Criterion 5: Maintenance of Forest Contribution to Global Carbon Cycles • Criterion 6: Maintenance and Enhancement of Long-term Multiple Socio-economic Benefits to Meet the Needs of Societies*
+
+| • Family woodland owners National objective(s) to which the strategies contribute |
+| --- |
+| • Owners of large forested tracts • Conserve and Manage Working Forest Landscapes for Multiple Values and Uses |
+| • Forest industry and related organizations • Protect Forests from Threats |
+| 2.17 Continue the Maine Harvest Satisfaction Survey, based on a statistically valid • Consulting foresters • Enhance Public Benefits from Trees and Forests sample of family woodland owners who have recently completed a timber harvest. 2.18 Work with partners to offer and enhance the effectiveness of continuing education opportunities for forest managers, both in-person and online. 2.19 Maintain, promote and expand the library of video profiles of model woodland stewards, made easily accessible via various media. 2.20 Participate in public and private school forest field days. 2.21 Support K-12 workshops on forest-related issues conducted across Maine. 2.22 Continue developing new partnerships for program delivery, technology transfer, and information exchange by reaching beyond our traditional partnership base. 2.23 Continue to identify and reach new audiences while maintaining our traditional R9 SPF sustainability criteria to which the strategies contribute (all a priority for this • Loggers theme) • Department of Inland Fisheries and Wildlife • Criterion 1: Conservation of Biological Diversity • Conservation groups • Municipal officials • Land trusts • Land for Maine's Future Board • NRCS • USDA Forest Service • University of Maine Cooperative Extension • • Criterion 7: Legal, Institutional, and Economic Framework for Forest Conservation audience base. and Sustainable Management • Real estate brokers Priority landscape area(s) the strategies address • Tax assessors Measure(s) of success • Family woodlands • Urban and community trees and forests • Rural/large parcels • High priority forest ecosystems and landscapes are protected from conversion (acres • Academia -annual and cumulative). Overview of resources available/required to implement the strategies • Number of acres in forest areas managed sustainably as defined by current Forest • Resources potentially available Stewardship Management Plan or NRCS equivalent CAP 106 Forest Management • Eastern brook trout • Canada lynx Plans (cumulative) -through the state's Forest Stewardship Monitoring program. -State General Fund Note: MFS does not formally monitor CAP 106 Plans. The USDA Forest Service -Federal should collaborate with NRCS at the federal level to determine sustainability and • Impaired watersheds Forest Health, State Fire Assistance, Volunteer Fire Assistance • Atlantic salmon critical habitat -USDA Forest Service -Forest Stewardship, Urban and Community Forestry, Important Forest Area coverage of NRCS plans. |
+| • Beginning with Habitat Focus Areas -NRCS -EQIP, WHIP |
+| S&PF and other programs that contribute to the strategies -Private -matching cost-share investments |
+| • Forest Stewardship • Resources Needed |
+| • Urban and Community Forestry Currently available resources are insufficient to sustain programs as currently |
+| structured. Both state general fund and federal fund support for core programs has • Forest Health -Cooperative Lands declined over the last two decades. Federal support for the Forest Stewardship • State Fire Assistance Program has been particularly weak in recent years; federal support for Natural |
+| • Volunteer Fire Assistance Resource Conservation Education has been nonexistent. |
+| Key stakeholders important for implementing the strategies |
+| • Maine Legislature |
+| • Maine Congressional delegation |
+
+[/TABLE]
+
+[TABLE]
+* Currently available resources are insufficient to sustain programs as currently structured and to implement new initiatives. Both state general fund and federal fund support for core programs has declined over the last two decades. Criterion 6: Maintenance and Enhancement of Long-term Multiple Socio-economic Benefits to Meet the Needs of Societies Goal/Theme 4: Maintain the capacity of the MFS as an institution to serve the citizens of Maine Maintain recognition and presence in the public eye through outreach mechanisms such as news releases and articles, booths and displays at public events (fairs, Arbor Day celebration, field days, etc.), web-based content, and appropriate media advertisement and underwriting. 4.4. Reach out to non-governmental entities for sponsorship and funding for programs and events. 4.5. Continue to engage with other natural resource agencies such as IFW, DEP, and LUPC to strengthen collaboration and service to citizens. 4.6. Develop and distribute a line of products, such as tree identification or "Big Tree" flash cards, calendars, placemats, and so on, building on the success of the "Forest Trees of Maine" Centennial Edition, "The Woods in Your Back Yard," and other publications. 4.7. Gain recognition via placement of logo and/or other acknowledgment of sponsoring and supporting roles with partners such as the Maine Tree Farm Committee, Maine Audubon Society, the Sustainable Forestry Initiative, and others. Work with the Maine Legislature to create statutory authorities (e.g., a firewood import ban) and associated resource support to address new or resurgent issues. 5.7. Initiate a program to expand the number of woodland owners, municipal and land trust personnel and other citizens who recognize the threats posed by invasive species and work with professionals to address the problem. Increase the number of professionals with the knowledge and training to quantify, prioritize and prescribe cost-effective control treatments. 5.8. Increase the number of acres where invasive species are contained or eradicated and reduce the number of acres of new infestation.*
+
+| 10. Maine Congressional delegation 11. USDA Forest Service • Atlantic salmon critical habitat • Beginning with Habitat Focus Areas trees, snags, down logs), and ecological reserves, with a focus on cooperative, State Goal/Theme 5: Maintain the health and resiliency of Maine's forests in the face of threats from biotic and abiotic agents non-regulatory efforts. |
+| --- |
+| • Eastern brook trout • Canada lynx • Impaired watersheds • Atlantic salmon critical habitat • Beginning with Habitat Focus Areas S&PF and other programs that contribute to the strategies 1. Forest Stewardship 2. Urban and Community Forestry 3. Forest Health Key stakeholders important for implementing the strategies 1. Forest industry and related organizations 2. Family woodland owners 3. Consulting foresters Overview of resources available/required to implement the strategies • Resources potentially available -State General Fund -Federal -USDA Forest Service -USDA Rural Development -Private -matching cost-share investments • Resources Needed • Criterion 7: Legal, Institutional, and Economic Framework for Forest Conservation and Sustainable Management • Northeastern Forest Fire Protection Commission Strategies Strategies 4.1. Advocate for maintaining current levels of staffing, programs, and services as a minimum. 4.2. Continue to track and highlight success stories and disseminate through various internal and external channels. 5.1. Maintain effective cooperative forestry programs, particularly the Forest S&PF and other programs that contribute to the strategies Stewardship Program (WoodsWISE). • All Cooperative Forestry Assistance programs. 5.2. Maintain effective and proactive water quality protection programs. Key stakeholders important for implementing the strategies 5.3. Maintain effective and proactive fire prevention and suppression programs. • Legislature • Maine citizens • Forest landowners • Loggers • Foresters • Forest industry and related organizations • Conservation groups Overview of resources available/required to implement the strategies • Resources potentially available -State General Fund -Federal 5.4. Maintain effective and proactive forest health protection programs. 5.5. Encourage proactive efforts at the municipal level to maintain healthy urban and community forests. 5.6. 5.9. Protect and maintain native wildlife habitat and increase the ability of forests to 4.3. 4.8. Expand capacity building efforts to increase effectiveness of collaborating organizations to promote active forest management. Focus on the use of adult regenerate trees and maintain timber value. Ultimately, it will be a standard of -USDA Forest Service -Forest Stewardship, Urban and Community Forestry, woodland stewardship to incorporate management and control of invasive plants Forest Health, State Fire Assistance, Volunteer Fire Assistance into forest management planning and operations. -NRCS -EQIP 5.10. Vigorously solicit collaborative partnerships and outside resources to address • Resources Needed forest health and sustainability issues of common interest. learning concepts and effective teaching techniques. Currently available resources are insufficient to sustain programs as currently 5.11. Continue to develop local client/cooperator networks to augment pest detection/ 4.9. Expand the reach of MFS's messages through the increased use of social media structured. Both state general fund and federal fund support for core programs has reporting capability. and virtual presentation platforms. declined over the last two decades. 5.12. Continue to develop cooperative projects with neighboring jurisdictions to 4.10. Incorporate the increased use of technology, including unmanned aerial vehicles National objective(s) to which the strategies contribute address forest health and sustainability issues of common interest. and remote sensing to leverage ongoing forest resource protection and monitoring efforts. Priority landscape area(s) the strategies address 5.13. Continue current cooperative projects with Maine's Native American Tribes, • Conserve and Manage Working Forest Landscapes for Multiple Values and Uses NGO's, forest land ownership organizations, land trusts, academia, and local • Protect Forests from Threats citizen groups to educate and influence the broader public. |
+| 4. Loggers 5. Department of Inland Fisheries and Wildlife 6. Department of Environmental Protection 7. Tribal governments 8. University of Maine 9. Conservation groups Measure(s) of success • Family woodlands • Enhance Public Benefits from Trees and Forests 5.14. Strengthen working relationships within the department and with USDA APHIS to • Maine's forest area remains stable. R9 SPF sustainability criteria to which the strategies contribute address nonnative invasive forest pest threats. • Urban and community trees and forests • Funding for Cooperative Forest Management programs, particularly Forest Stewardship, is increased and sustained to allow for effective program delivery. • Rural/large parcels • Eastern brook trout • Canada lynx • Impaired watersheds 5.15. Maintain public support for critical pest management tools so that we can limit • Criterion 7: Legal, Institutional, and Economic Framework for Forest Conservation potential impacts to Maine's forest resource dependent industries and associated and Sustainable Management local economies. Measure(s) of success 5.16. Proactively address protection of important habitat features, including, but not • MFS at least retains its current level of staffing, services, and programs during each biennial budget period. limited to, late successional and old growth forests, large woody material (cavity |
+
+[/TABLE]
+
+[TABLE]
+* Harvest and growth, both actual and projected, remain in relative balance.• Federal funding for Cooperative Forest Management programs, particularly ForestStewardship, is increased to and sustained at levels adequate to deliver effective programs.*
+
+| • Maine Natural Areas Program |
+| --- |
+| • Foresters |
+| • Loggers |
+| • Forest industry and related organizations |
+| • Municipal officials |
+| • Conservation groups |
+| • White Mountain National Forest |
+| • Native American Tribes |
+| • Academia |
+| • Soil and Water Conservation Districts |
+| • land trust stewardship staff |
+| • private herbicide contractors |
+| • National Park Service Exotic Plant Management staff |
+| Overview of resources available/required to implement the strategies |
+| • Resources potentially available |
+| -State General Fund |
+| • Eastern brook trout -Federal |
+| • Canada lynx -USDA Forest Service -Forest Stewardship, Urban and Community Forestry, |
+| • Impaired watersheds Forest Health, State Fire Assistance, Volunteer Fire Assistance |
+| • Atlantic salmon critical habitat -Private -matching cost-share investments |
+| • Beginning with Habitat Focus Areas • Resources Needed |
+| Currently available resources are insufficient to sustain programs as currently • Northeastern Forest Fire Protection Commission structured. Both state general fund and federal fund support for core programs has S&PF and other programs that contribute to the strategies declined over the last two decades. |
+| • State Fire Assistance National objective(s) to which the strategies contribute |
+| • Volunteer Fire Assistance • Conserve and Manage Working Forest Landscapes for Multiple Values and Uses |
+| • Forest Health -Cooperative Lands • Protect Forests from Threats |
+| • Forest Stewardship • Enhance Public Benefits from Trees and Forests |
+| • Urban and Community Forestry R9 SPF sustainability criteria to which the strategies contribute |
+| Key stakeholders important for implementing the strategies • Primary -Criterion 3: Maintenance of Forest Ecosystem Health and Vitality |
+| • Maine Legislature Measure(s) of success |
+| • Forest landowners • |
+| • Department of Inland Fisheries and Wildlife |
+
+[/TABLE]
+
+[TABLE]
+* Maintain a biometrician position at MFS to ensure the continued provision of unbiased, sound information about the current state of Maine's forests. The biometrician will model FIA data to satisfy various data requests where appropriate and assess conditions in priority landscape areas and public forests.*
+
+| • Criterion 6: Maintenance and Enhancement of Long-term Multiple Socio-economic State Goal/Theme 7: Predict future forest conditions and wood supplies • Criterion 6: Maintenance and Enhancement of Long-term Multiple Socio-economic State Goal/Theme 8: Conserve forests for clean drinking water supplies Overview of resources available/required to implement the strategies |
+| --- |
+| • Rural/large parcels S&PF and other programs that contribute to the strategies Benefits to Meet the Needs of Societies • Criterion 7: Legal, Institutional, and Economic Framework for Forest Conservation and Sustainable Management Measure(s) of success • Acres under OBF agreement. • Number of permit by rule processes implemented. Strategies 7.1 7.2 Continue to partner with UMaine and others on modeling projects of mutual interest and benefit. Priority landscape area(s) the strategies address Benefits to Meet the Needs of Societies and healthy fisheries • Resources potentially available • Criterion 7: Legal, Institutional, and Economic Framework for Forest Conservation Strategies -State General Fund and Sustainable Management 8.1 Continue the ongoing MFS BMP monitoring and reporting program. -USDA Forest Service -Forest Stewardship, Urban and Community Forestry, Measure(s) of success 8.2 Continue offering workshops with water quality protection focus with partners. Forest Health • Production of a Timber Supply Outlook report, with periodic updates. 8.3 Continue offering the Direct Link Loan Program in partnership with the -NRCS -EQIP • Improve ability to forecast future timber supplies under multiple, complex scenarios. Department of Environmental Protection and Maine Municipal Bond Bank. 8.4 -US EPA -Clean Water State Revolving Fund (Direct Link Loan Program) Explore with stakeholders the possibility of developing new or updating current -State Wildlife Grants BMP's to address watershed integrity and aquatic resources (e.g. fisheries). • Family woodlands 8.5 -Private -matching cost-share investments Continue working with partners on remediating undersized stream crossings. • Rural/large parcels 8.6 Continue to provide consistent, fair enforcement of the state's forest practices • Resources Needed • Forest Legacy S&PF and other programs that contribute to the strategies laws and rules as they pertain to the protection of water quality. Currently available resources are insufficient to sustain programs as currently Key stakeholders important for implementing the strategies • Maine Legislature • OBF technical panel • Large forest landowners Overview of resources available/required to implement the strategies • Resources potentially available -State General Fund • Resources Needed MFS staff currently can carry out program within available resources. Substantive changes to the program or increasing numbers of participants likely would require additional resources. National objective(s) to which the strategies contribute • Conserve and Manage Working Forest Landscapes for Multiple Values and Uses • Criterion 1: Conservation of Biological Diversity • Criterion 2: Maintenance of Productive Capacity of Forest Ecosystems • Criterion 4: Conservation and Maintenance of Soil and Water Resources • Criterion 5: Maintenance of Forest Contribution to Global Carbon Cycles • Criterion 5: Maintenance of Forest Contribution to Global Carbon Cycles • Environmental and conservation organizations • Criterion 3: Maintenance of Forest Ecosystem Health and Vitality • Department of Inland Fisheries and Wildlife • Criterion 2: Maintenance of Productive Capacity of Forest Ecosystems • Forest industry groups • Criterion 1: Conservation of Biological Diversity • Consulting foresters • Criterion 3: Maintenance of Forest Ecosystem Health and Vitality R9 SPF sustainability criteria to which the strategies contribute • Loggers • Conserve and Manage Working Forest Landscapes for Multiple Values and Uses • Forest landowners National objective(s) to which the strategies contribute Key stakeholders important for implementing the strategies R9 SPF sustainability criteria to which the strategies contribute currently structured. Additional resources may be required for more complex analyses. • Forest Health • Enhance Public Benefits from Trees and Forests -Currently available resources are reasonably sufficient to sustain programs as • Urban and Community Forestry • Protect Forests from Threats • Forest Inventory and Analysis Key stakeholders important for implementing the strategies • Maine Legislature • UMaine • Large forest landowners • Forest industry Overview of resources available/required to implement the strategies • Resources potentially available -State General Fund -USDA Forest Service -Forest Inventory and Analysis -University of Maine; Cooperative Forestry Research Unit • Resources Needed structured. Both state general fund and federal fund support for core programs has Priority landscape area(s) the strategies address declined over the last two decades. • Family woodlands National objective(s) to which the strategies contribute • Urban and community trees and forests • Conserve and Manage Working Forest Landscapes for Multiple Values and Uses • Rural/large parcels • Enhance Public Benefits from Trees and Forests • Eastern brook trout R9 SPF sustainability criteria to which the strategies contribute • Canada lynx • Criterion 1: Conservation of Biological Diversity • Impaired watersheds • Criterion 2: Maintenance of Productive Capacity of Forest Ecosystems • Atlantic salmon critical habitat • Criterion 3: Maintenance of Forest Ecosystem Health and Vitality • Beginning with Habitat Focus Areas • Criterion 4: Conservation and Maintenance of Soil and Water Resources • Northeastern Forest Fire Protection Commission • Criterion 5: Maintenance of Forest Contribution to Global Carbon Cycles S&PF and other programs that contribute to the strategies • Forest Stewardship Measure(s) of success |
+
+[/TABLE]
+
+[TABLE]
+* Increases in funding of all programs at least consistent with CPI year over year. • MFS at least retains its current level of staffing, services, and programs supported by federal funds during each biennial budget period. Stakeholder Groups Coordinated with for the Statewide Assessment and Strategy MFS provided briefings to the State Forest Stewardship Coordinating Committee, Department of Inland Fisheries and Wildlife, the State Technical Committee, the Forest Legacy Committee, state environmental groups, and the White Mountain National Forest. MFS reached out to the White Mountain National Forest, the various units of the US Fish and Wildlife Service (including but not limited to Sunkhaze and Moosehorn) and the National Park Service (Acadia National Park and Katahdin Woods and Waters National Monument). It was unable to determine local contact information for the Bureau of Indian Affairs and Department of Defense. It received comments from the White Mountain National Forest.*
+
+| • Maine Natural Areas Program Overview of resources available/required to implement the strategies • Enhance Public Benefits from Trees and Forests |
+| --- |
+| • UMaine • Resources potentially available R9 SPF sustainability criteria to which the strategies contribute |
+| • Environmental and conservation organizations -State General Fund • Criterion 1: Conservation of Biological Diversity |
+| Overview of resources available/required to implement the strategies -Federal • Criterion 2: Maintenance of Productive Capacity of Forest Ecosystems |
+| • Resources potentially available -USDA Forest Service -Forest Stewardship, Urban and Community Forestry, • Criterion 3: Maintenance of Forest Ecosystem Health and Vitality |
+| -State General Fund -USDA Forest Service -Forest Stewardship, Urban and Community Forestry, Forest Health, State Fire Assistance, Volunteer Fire Assistance -NRCS -EQIP -Private -matching cost-share investments • Resources Needed Currently available resources are insufficient to sustain programs as currently structured. Both state general fund and federal fund support for core programs has declined over the last two decades. Forest Health, State Fire Assistance, Volunteer Fire Assistance -Local governments -Private -matching cost-share investments • Resources Needed -Currently available resources are insufficient to sustain programs as currently structured. Both state general fund and federal fund support for core programs has declined over the last two decades. National objective(s) to which the strategies contribute • Conserve and Manage Working Forest Landscapes for Multiple Values and Uses • Criterion 4: Conservation and Maintenance of Soil and Water Resources • Criterion 5: Maintenance of Forest Contribution to Global Carbon Cycles • Criterion 6: Maintenance and Enhancement of Long-term Multiple Socio-economic Benefits to Meet the Needs of Societies • Criterion 7: Legal, Institutional, and Economic Framework for Forest Conservation and Sustainable Management Measure(s) of success State Wildlife Agency State Technical Committee Lead agency for the Forest Legacy Program (Bureau of Parks and Lands) • State Forest Stewardship Coordinating Committee Applicable Federal land management agencies (USFS NFS) |
+| National objective(s) to which the strategies contribute • Protect Forests from Threats |
+| • Conserve and Manage Working Forest Landscapes for Multiple Values and Uses • Enhance Public Benefits from Trees and Forests |
+| • Protect Forests from Threats R9 SPF sustainability criteria to which the strategies contribute |
+| • Enhance Public Benefits from Trees and Forests • Primary -Criterion 6: Maintenance and Enhancement of Long-term Multiple Socio- |
+| R9 SPF sustainability criteria the strategies contribute to economic Benefits to Meet the Needs of Societies |
+| Measure(s) of success • Criterion 1: Conservation of Biological Diversity • Number of communities and percent of population served by a managing program, Measure(s) of success • Number of forest practitioners trained in best practices for protecting elements of as defined in the Community Accomplishment Reporting System (CARS). |
+| biodiversity (e.g. vernal pool habitat management guidelines and biomass retention |
+| guidelines). |
+| • Populations of forest dependent state-or federal-listed threatened and endangered |
+| species stabilize and/or recover. |
+| • Important forest habitat features (e.g. large diameter snags, cavity trees, and down |
+| logs) increase in abundance and distribution. |
+
+[/TABLE]
+
+[TABLE]
+*III. GOALS OF MAINE FOREST LEGACY PROGRAM The It is based on the National Park Service's WHAM's program and consists of 27 questions about first responder vehicle access, access to water supply, exterior building materials and vegetation within 100' of the home. The history of fire in the area, development trends, and local ignition sources are also considered.The data from the WRA's are then complied into a spreadsheet and analyzed for trends such as lack of defensible space, poor road access and fine fuels near structures.Working with the local Fire Department and or the nearest Federal Land Management Agency, a comprehensive CWPP report is created. Each CWPP is based on randomly selected WRA's and interviews with cooperators. Local fuel loading, fire weather conditions, and ignition sources are considered. Once the CWPP is completed, the results and recommendations are presented to the community, usually as part of their annual summer meeting.At present, 79 CWPP's have been completed in Maine. Eleven CWPP's currently are in progress.MFS participated in the development of the 2015 plan and provided substantive comments on the public review draft. The plan identifies "logging and wood harvesting" as a stressor. MFS observed that forest conversion is a much greater threat to wildlife than active forest management; the plan developers responded that the plan was simply using the IUCN convention. The plan does, however, acknowledge the positive impacts of forest management on Species of Greatest Conservation Need (SGCN) by altering forest structure and composition.The final plan identifies 311 SGCN and 322 "habitat conservation actions," of which just under half are associated with freshwater aquatic habitat and 103 terrestrial and wetland habitat actions. Over 40% of SGCN are associated with forested habitats; however, forest management is not a primary stressor for most of these species, and many of these species are accounted for in existing BMP's or management guidelines (e.g. vernal pools). The plan states that, "Conservation actions are non-regulatory approaches undertaken voluntarily by agencies and other conservation partners. Actions are not intended to replace current management strategies but can be used to bolster existing efforts or inspire new ones." Many of the species identified have extremely limited ranges in the state or occur in non-forested habitats where forest management activities will have no or very little impact. Some species require disturbance to persist. Many of the forested habitats identified, e.g. pine barrens and floodplain forests, are limited in extent, require disturbance, or present limited opportunities for forest management.The major areas of interest to MFS focus on actions identified for the "headwaters and creeks," "floodplain forests," "significant vernal pools," and "northern forests and swamps" habitat groups. The actions identified generally involve ongoing work by MFS and others (e.g. improving stream crossings), but other actions (e.g. review of existing or development of new BMP's) will require attention. Forest Legacy Program operates under an Assessment of Need (AON) published in February 2020. The AON is found in Appendix 2. MFS is a standing member of the state's FLP Committee and actively participates on the committee.Appendix 1. Review of state wildlife action plan and other natural resource plansNational guidance on state assessments and the 2008 Farm Bill require that state assessments and resource strategy plans pertaining to forestry assess commonalities between a statewide assessment of forest resources and a state wildlife action plan within a state. The Maine Comprehensive Wildlife Conservation Strategy, or state wildlife action plan, was produced by the Maine Department of Inland Fisheries and Wildlife. It was created as a complete wildlife management guide for Maine. The wildlife action plan replaced other plans previously published in order to align with required directive elements set forth by the U.S. Fish & Wildlife Service.Although the wildlife action plan was the most inclusive document reviewed, MFS also reviewed plans from other agencies and organizations with natural resource responsibilities. These agencies were selected based upon similar interests when managing natural resources, similar organizational structure, and having published resource management plans.In cases where MFS has existing partnerships with other agencies, commonalities were found between MFS forest planning issues and other agency resource plans. Water quality, supply, and use of water were a common issue among many of the agencies. Dealing with climate change also is a common theme across agencies. When forestry is mentioned, it is often as a secondary issue instead of a primary management objective. Other agencies generally address forests in terms of potential for loss of habitat and fragmentation created by increased population growth and development.States interested in participating in the Forest Legacy Program (FLP) are required to demonstrate eligibility through development of an Assessment of Need (AON) and a State Forest Action Plan. In accordance with FLP Guidelines, Maine has elected to keep its Forest Legacy AON as a separate, standalone appendix to its State Forest Action Plan. Maine modified its AON in 2005, 2010 and 2012. The 2019 AON was prepared in response to the FLP Implementation Guidelines requirement that the AON be reviewed at least every five years. This AON incorporates only minor changes including: the addition of climate resiliency to the list of public values Maine's forests provide; updates to project numbers, acreage and associated tables; minor revisions to the application scoring criteria; and a simplification of emerging policy issues. In February 2020, an additional amendment was made to include the U.S. Department of Defense in the list of eligible governmental entities outlined in Section VI of the AON. The AON was approved in March 2020. Appendix 2A. Forest Legacy Assessment of Need Submittal Letter Appendix 2B. Forest Legacy Assessment of Need Approval Letter Forest Legacy Program was established in 1994 at the culmination of the work of the congressionally mandated Northern Forest Lands Council. The council identified over thirty-five actions to reinforce the Northern Forest region's traditional patterns of land ownership and use, the first of which was to ensure the consistent and adequate funding by Congress of the Forest Legacy Program. This recommendation came at a time when both public and private efforts were growing to protect forestland in Maine from conversion to non-forest uses. Many factors have created uncertainty about the long-term stability of Maine's northern forest, and this has led to a significant increase in land protection efforts in the past 25 years. Land ownership changes began occurring at a rate unseen in Maine's history. Six million acres or one-third of Maine's commercial forestland changed hands between 1998 and 2003. New types of landowners, timber investment management organizations (TIMOs) and real estate investment trusts (REITs), began acquiring significant acreage in Maine. These new landowners carried with them a significantly shorter ownership timeline than prior industrial landowners. At the same time, liquidation harvesting became prevalent, causing widespread public concern over unsustainable forest management practices and ultimately resulting in legislation limiting the practice. Finally, development pressure continued throughout Maine's northern forest, including the establishment of "kingdom lots," large tracts purchased by wealthy individuals for personal use. Although for the most part, fears about kingdom lots have not been borne out, combined these factors raised concerns about the long-term availability of Maine's forestland for traditional forest uses. As forestland ownership and management have evolved in Maine, so too have land protection efforts. In response to greater pressures over conversion of working forestland to non-forest uses, the state of Maine and non-profit land conservation organizations responded by pursuing increasingly large land protection projects. This resulted in close to 3 million acres of forestland being permanently protected by fee or easement over the past 30 years. In addition to the substantial private dollars that were necessary to achieve this, many state and federal funding sources beyond the Forest Legacy Program have played a crucial role in protecting Maine's forestland, including the North American Wetlands Conservation Act (NAWCA) grants and Maine's Land for Maine's Future Program (LMF) grants, to name only two. Since 1994, through the Forest Legacy Program alone, Maine has received over $76 million and has permanently protected by fee or easement the public values and traditional forest uses of over 741,000 acres of Maine's forest. This has been accomplished through the completion of twenty-one projects comprised of 37 parcels located from York County to Aroostook County and ranging in size from the small but strategic Little W Seboomook inholding at 72 acres to the landscape-scale West Branch project at 328,364 acres (see Appendix 1 for a complete list of all Forest Legacy projects completed and underway). Each State electing to participate in the Forest Legacy Program must assign a lead State agency to oversee FLP administration through a Governor-level designation or pursuant to State law. The State Lead Agency is usually a forestry agency, but may be another natural resource or land management agency. Maine's State Lead Agency, originally designated as the Maine Forest Service, was changed to the Maine Department of Agriculture, Forestry and Conservation, Bureau of Parks and Lands (BPL) by approval of the U.S. Forest Service (see Appendix 2, letter dated July 2, 2001). Maine's State Stewardship Committee established a Maine Forest Legacy Committee (see Appendix 3, letter dated April 24, 2004 for authorization, and Appendix 4 for Committee purpose and membership) to work with the State Lead Agency on matters related to the Forest Legacy Program. States interested in participating in the Forest Legacy Program are required to demonstrate eligibility through development of an Assessment of Need (AON) and a State Forest Action Plan. In accordance with FLP Guidelines, Maine has elected to keep its Forest Legacy Assessment document as a separate, standalone appendix to its State Forest Action Plan. Maine's Assessment of Need was modified in 2005, 2010 and 2012. This 2019 Maine Forest Legacy Program Assessment of Need was prepared in response to the Forest Legacy Program Implementation Guidelines requirement that the AON be reviewed at least every 5 years. This AON incorporates only minor changes including: the addition of climate resiliency to the list of Public Values Maine's forests provide; updates to project numbers, acreage and associated tables; minor revisions to the application scoring criteria; and a simplification of emerging policy issues. In February of 2020, an additional amendment was made to include the U.S. Department of Defense in the list of eligible governmental entities outlined in Section VI. Activities commonly associated with the use of forestland in Maine. These activities could include, but are not limited to: public access, timber harvesting, hunting, fishing, trapping, hiking, camping, cross-country skiing, snowshoeing, horseback riding, picnicking, boating, swimming, bicycling, snowmobiling, foraging, outdoor education and nature study including scientific and archeological research, and nature observation. 2. Commercial Forest Land -Land used primarily to grow trees for the harvest of timber, wood and other forest products for commercial use, but does not include ledge, marsh, open swamp, bog, water and similar areas, which are unsuitable for growing a forest product or for harvesting for commercial use even though these areas may exist within forest lands. 3. Environmentally Important Forests -a parcel that includes multiple public values as described in Section III. 4. Forest Land Threatened by Conversion to Non-Forest Uses -Forest land which contains characteristics which make such land attractive to changes such that the Traditional Uses and values of the property are reasonably expected to be at risk. These characteristics include, but are not limited to: close proximity to roads; short travel time from population centers; habitat and forest degradation; potential for parcelization; the existence of water resources such as streams, rivers, ponds, and lakes; scenic values and the presence of outdoor recreation opportunities. goal of Maine's Forest Legacy Program is to prevent the conversion of Maine's forest to nonforest uses, and thereby protect Maine's Traditional Forest Uses and a wide range of Public Values that Maine's forests provide, including: The Maine Forest Legacy Committee determined that the Maine Forest Legacy Program will focus on acquiring conservation easements or fee interest in lands in order to protect the Traditional Forest Uses and Public Values of Maine's forests, as defined previously. These Public Values are derived from the environmental assets of Maine's forests and hence, for the purposes of its Forest Legacy Program, Maine's public and environmental values are one and the same. Maine is committed to protecting the Public Values of Maine's Forests through the following means: 1. It is the intent of the Maine Forest Legacy Program to use Forest Legacy Program funds forthe purchase of both conservation easements and fee interest in lands. It is understood that the use of conservation easements is an effective means to protect interests in lands while maximizing the use of federal funds. The acquisition of fee interest in lands is also important, particularly for protecting areas of high ecological value. Lands for which a fee interest is acquired will be managed for Public Values.2. As part of the state's assessment of all lands, the owner of the subsurface rights to the land will be identified, and a determination made as to whether the acquisition of mineral rights is necessary to realize the purposes for which the land is entered into the Forest Legacy Program. Land or interest in land is typically not acquired if the mineral rights have been severed, because those severed rights pose a threat to surface disturbance and the protection of Maine's Forest Legacy Program goals.*
+
+| Forest Legacy Program (FLP) Requirements Included Maine's II. DEFINITIONS Maine's I. FOREWORD 1. Traditional Forest Uses -a. the production of timber, fiber and other forest products; |
+| --- |
+| b. economic benefits from non-timber resources; |
+| c. public recreation opportunities, including tourism activities; |
+| d. high environmental value plant and animal habitat as identified by state, regional, or federal |
+| programs; habitat for rare, threatened or endangered plant or animal species; and rare or |
+| exemplary natural communities; |
+
+[/TABLE]
+
+[TABLE: Holder Review (where there IS Third-Party Certification): Federal shall submit the Multi-Resource Management Plan and any updates or amendments thereto to Holder, and Holder shall review the Plan for consistency the Purposes and other terms of this Conservation Easement. Holder shall provide written comments to Grantor within 30 days of receipt of the Plan, identifying and explaining any portion of the Multi-Resource Management Plan that Holder finds may be inconsistent with the terms of this Conservation Easement and that could result in a violation of this Conservation Easement. If Holder has provided no comments within such 30-day period, Grantor may proceed with adoption of its Plan. The Parties acknowledge that the purpose of the Multi-Resource Management Plan is to guide management activities so that they are in compliance with this Conservation Easement, and that the actual activities and outcomes on the Protected Property will determine compliance with this Conservation Easement. Holder's right to provide comments or failure to exercise that right does not constitute a waiver of the terms of this Conservation Easement. Guidance has been interpreted to allow the Third-Party Certification process to suffice for any post-closing consultation or agreement; Third-Party certification suffices as an alternative to the preclosing requirements for a Forest Stewardship Plan if 1) the State Forester or designee has approved the third-party forest certification the property is part of, 2) the State Forester or designee has had an opportunity to review the plan and 3) there is a contingency plan for the creation of a Forest Stewardship or Multi-resource Management plan if the land was no longer to be certified. The easement holder must also have the ability to review overview certification documents over the years to ensure compliance with the easement purposes; and e. seek to assure the availability of the property for traditional non-intensive outdoor recreation by the public (for example, access by the public for specifically identified recreational activities may be protected through the terms of the easement). The acquisition of development rights and other rights, and the placing of restrictions on human activities that could impair critical habitat, degrade water quality or harm important vistas, all may be employed to ensure that Maine's environmental values are protected. By requiring guaranteed public access on Maine Forest Legacy Program parcels, Maine's traditional forest uses will also be protected.C. CONSERVATION GOALS OF MAINE'S FOREST LEGACY AREAThe conservation goals of Maine's Forest Legacy Area are to prevent the conversion of Maine's forest to non-forest uses, and thereby protect Maine's traditional forest uses and a wide range of Public Values that Maine's forests provide, as defined in Section III.D. PUBLIC BENEFITS DERIVED FROM ESTABLISHING MAINE'S FOREST LEGACY AREAThe public benefits to be derived from Maine's Forest Legacy Program include the:1. Production of timber, fiber and other forest products;2. Economic benefits from non-timber resources;3. Public recreation opportunities and access for Traditional Forest Uses;4. High value plant and animal habitat as identified by state, regional, or federal programs; habitat for rare, threatened or endangered plant or animal species; and rare or exemplary natural communities;5. Water supply and watershed protection, and/or important riparian areas, wetlands, shorelines, or river systems;6. Sequestration of carbon, which reduces greenhouse gas emissions and helps combat a changing climate;7. Scenic resources (such as mountain viewsheds, undeveloped shorelines, visual access to water, and areas along state highway systems); and 8. Historic/cultural/tribal resources of significance.]
+[TABLE: GOVERNMENTAL ENTITIES THAT MAY HOLD LAND OR INTERESTS IN LAND As Maine's State Lead Agency, the Bureau of Parks and Lands, has and continues to be the preferred agency to hold right, title or interests in lands protected with Forest Legacy Program funding. Listed below are other agencies that may hold right, title or interests in lands protected with Forest Legacy Program funding. These agencies, including BPL, may enter into management agreements with nongovernmental entities to help manage protected lands.]
+[TABLE: MAXIMUM Total Points: 100 IMPORTANCE CRITERIA (30 points maximum) 1 7. Proposal must meet Forest Legacy Program match requirements (the Forest Legacy Program will pay no more than 75% of the total project costs). 8. Proposal must provide evidence of intact mineral rights or demonstrate a plan to acquire them in time for application to the U.S. Forest Service. . Identify total size of project: (0 pts if < 10,000 Acres; 2 pts if >10,000 Acres, 5 pts if > 20,000). 2. Describe to what extent the project contains each public value and how it will be protected through the project (maximum of 15 points) a. Economic benefits from timber and potential forest productivity (including landowner commitment to sustainable forest management in accordance with a management plan and whether land is third party certified; whether forestry activities contribute to the region's resource-based economy; and whether the property contains characteristics to sustain a productive forest) b. Economic benefits from non-timber products (such as non-timber forest products and guided outdoor recreation) c. Public recreation opportunities d. High value plant and animal habitat as identified by state, regional, or federal programs, including but not limited to Significant Wildlife Habitat; Beginning with Habitat Focus Areas; habitat for rare, threatened or endangered plant or animal species (including Essential Habitat and Critical Habitat); and rare or exemplary natural communities. 28 e. water supply and watershed protection, and/or containing important riparian areas, wetlands, shorelines, or river systems f. scenic resources (such as mountain viewsheds, undeveloped shorelines, visual access to water, areas along state highway system) g. historic/cultural/tribal resources of significance as formally documented or confirmed by a government agency or non-governmental organization (1 pt for each public value significantly represented by the project; 0 additional pts if project is of primarily regional significance; 4 additional pts if project is of state significance; 8 additional pts if project is of national significance)]
+[TABLE:  Describe landowner or conservation partner's commitment to raise the necessary endowment. (No points) Forest Legacy Program complies with all State and Federal statutes relating to nondiscrimination and all applicable requirements of all other State and Federal laws, Executive orders, regulations, and policies. Maine's Forest Legacy Program does not discriminate on the basis of disability, race, color, creed, religion, gender, sexual orientation, age, national origin or ancestry, in admission to, access to, or operations of its programs, services, or activities, or its hiring or employment practices. This notice is provided as required by Title II of the Americans with Disabilities Act of 1990 and in accordance with the Civil Rights Act of 1964 as amended, Section 504 of the Rehabilitation Act of 1973, as amended, the Age Discrimination Act of 1975, Title IX of the Education Amendments of 1972 and the Maine Human Rights Act and Executive Order Regarding State of Maine Contracts for Services. Questions, concerns, complaints or requests for additional information regarding the ADA may be forwarded to the ADA Compliance/EEO Coordinators, Natural Resources Service Center, 155 State House Station, Augusta, Maine 04333, 207-287-2214. Individuals who need auxiliary aids for effective communication in program and services are invited to make their needs and preferences known to Bureau of Parks and Lands or Forest Legacy Program staff.This document was prepared with support from the USDA Forest Service. In accordance with Federal law and U.S. Department of Agriculture (USDA) civil rights regulations and policies, this institution is prohibited from discriminating on the basis of race, color, national origin, sex age, disability and reprisal or retaliation for prior civil rights activity. (Not all prohibited bases apply to all programs.) Persons with disabilities who require alternative means of communication for program information (e.g., Braille, large print, audiotape, American Sign Language, etc.) should contact the responsible State or local Agency that administers the program or USDA's TARGET Center at (202) 720-2600 (voice and TTY) or contact USDA through the Federal Relay Service at (800) 877-8339. Additionally, program information is available in languages other than English. To file a complaint alleging discrimination, complete the USDA Program Discrimination Complaint Form AD-3027, found online at http:/www.ascr.usda.gov/complaint_filing_cust.html, or at any USDA office or write a letter addressed to USDA and provide in the letter all of the information requested in the form. To request a copy of]
+BPL, Irving, and KFM agreements have all been renewed and remain in effect.
+The COVID-19 crisis currently limits opportunities for in-person meetings where social distancing is not possible.
+The National Cohesive Wildland Fire Management Strategy takes a holistic view of fire on the landscape. Federal and State land and fire managers, Tribes, NGOs, and other stakeholders worked as partners to develop the strategy. The strategy is a framework to coordinate multiple agency and homeowner efforts toward three goals: restore and maintain landscapes; create fire-adapted communities; and, improve fire response.
+Hancock Natural Resource Group. 2020. Timberland Investor Report. February 2020. https://htrg.com/wp-content/uploads/sites/2/HTI-Q4-2019.pdf.
+The criteria in this report are established in 12 M.R.S. §8869 (3-A).
+Climate change now overlays much of the discussion of forest sustainability and is addressed more fully elsewhere.
+American Tree Farm System, Forest Stewardship Council, and Sustainable Forestry Initiative. 
+http://maineforest.org/wp-content/uploads/2017/05/Critical-Insights-results-on-Importance-Maine-Forest-Products-Industry.pdf
+The Department of Inland Fisheries and Wildlife also provides landowner engagement to resolve access issues and landowner concerns through its Landowner Relations Program and participation in the Sportsman/Forest Landowner Alliance.
+For regions, see McMahon, J. 1990. The Biophysical Regions of Maine: Patterns in the Landscape and Vegetation. M.S. Thesis, University of Maine, Orono. 120 pp.
+FOR/Maine. 2018. FOR/Maine Strategic Planning Workshop -Wood Energy. 27 June 2018. 3 pp.
+Maine Forest Service Wood Processor Reports, 2010 and 2018 (volumes) and FOR/Maine. 2018. values).
+Until the end of 2020, the division had only two Regional Enforcement Coordinators.
+Found at https://www.maine.gov/dacf/mfs/projects/healthy_forests/harvest_survey.html.
+Dunckel, K., A. Weiskittel, and G. Fiske. 2017. Projected future distribution of tsuga canadensis across alternative climate scenarios in Maine. US. Forests 8(8):285.
+Maine Office of Tourism -2018 Annual Survey, page 13
+Bruce Hensler, Growing Complexity in Fire Services,The Maine Townsman, November 2007 
+State of Maine, Office of the State Auditor https://www.maine.gov/audit/unorganizedterritory/2019deorgyear.pdf
+WHIP has been discontinued, and CSP may be folded into EQIP in the next Farm Bill.
+Priority Landscape Areas: Family Woodlands
+Priority Landscape Areas: Rural/Large Parcels (Forest Legacy Area)
+Priority Landscape Areas: Eastern Brook Trout
+Priority Landscape Areas: Canada Lynx
+Priority Landscape Areas: Impaired Watersheds
+Priority Landscape Areas: Atlantic Salmon Critical Habitat
+Priority Landscape Areas: Beginning With Habitat Focus Areas
+Priority Landscape Areas (Multi-State): Northern Forest Lands
+https://usfs.maps.arcgis.com/apps/opsdashboard/index.html#/5a31e5f2e3fa4f77ac71ca366067ded2
+Maine Dept. of Inland Fisheries and Wildlife. 2015. Maine's wildlife action plan. Maine Dept. of Inland Fisheries and Wildlife, Augusta, ME.
+This document was prepared by 
+Liz Petruska
+, in consultation with the 
+Maine Forest Legacy Committee
+. It was reviewed and approved by: the 
+Maine Forest Legacy Committee
+ and by 
+Andy Cutko
+, Director, 
+Bureau of Parks and Lands
+, on behalf of the 
+State Lead Agency
+.
+Priority Landscape Areas: Urban and Community Trees and Forests
+
+## Urban and Community Trees and
+
+State Goal/Theme 9: Conserve forest biodiversity
+
+## Strategies
+
+The following strategies are complementary to and supportive of the strategies identified in Maine's Comprehensive Wildlife Conservation Strategy.
+
+## 9.1
+
+Support research that addresses this issue.
+
+## 9.2
+
+Monitor the conditions in Maine's forests as regards biodiversity.
+
+## 9.3
+
+Provide advice and training to landowners and land managers on best practices to conserve biodiversity.
+
+## 9.4
+
+Assist in the development of markets for ecosystem services that can reward landowners for maintaining biodiversity.
+
+## 9.5
+
+Develop new approaches that could be more effective in protecting biodiversity (e.g., having federal agencies pool resources to reward landowners who manage to provide the full range of habitats needed by wildlife).
+Priority landscape area(s) the strategies address
+• Family woodlands
+• Urban and community trees and forests
+• Rural/large parcels 
+
+## IX. APPLICATION AND PRIORITIZATION PROCESS FOR MAINE FOREST LEGACY PROJECTS
+
+With approval from the Governor, each year the Maine DACF submits a prioritized list of potential 
+Gross Domestic Product by State, Regional Accounts, author's calculations
+2007. 2020
+Maine International Trade Center
+Northeast State Foresters Association
+The Economic Importance and Wood Flows from the Forests of Maine
+New Hampshire, Vermont, and New York
+2007. 2007. 2007. January 2010
+Forest products industries' economic contributions: Maine
+2020
+34
+Public Sector Consultants
+National Survey of Fishing, Hunting, and Wildlife-Associated Recreation. 81 pp. References Northern Forest Lands Council. 1994. Finding Common Ground: Conserving the Northern Forest. The Recommendations of the Northern Forest Lands Council
+2008. 2006
+NH
+180
+Northern Forest Lands Council
+Esthetics of clearcutting alternatives in the White Mountain National Forest
+J
+Palmer
+J. For
+93
+1995
+Biodiversity in the Forests of Maine: Guidelines for Land Management
+C
+Elliott
+S
+Gawler
+Biological Diversity in Maine: An Assessment of Status and Trends in the Terrestrial and Freshwater Landscape
+1999. 1996
+1
+170
+University of Maine Cooperative Extension Bulletin #7147
+Late-successional Forest: A disappearing age class and implications for biodiversity
+J
+Hagan
+A
+Whitman
+Manomet Center for Conservation Sciences
+Forest Mosaic Science Notes
+Brunswick, Maine Maine Dept; Augusta, ME
+Maine Dept. of Inland Fisheries and Wildlife
+2004. 2004-2, 4. 2015
+Maine's wildlife action plan
+Red-listed boreal forest species of Finland: Associations with forest structure, tree species, and decaying wood
+O
+Tikkanen
+Annales Zoologici Fennici
+43
+2006
+Forests on the edge: housing development on America's private forests
+S
+Stein
+Gen
+16
+2005
+Pacific Northwest Research Station
+Portland, OR
+Tech. Rep. PNW-GTR-636
+Deliver a Climate Action Plan to the Governor and Legislature by
+01 December 2020
+Achieve state carbon
+2045
+Reduce Maine's greenhouse gas emissions by the targets outlined in state law -45% below 1990 levels by 2030 and 80% below
+1990. 2050
+and
+Ensure that Maine people, industries, and communities are resilient to the impacts of climate change. Part of the council's work addresses Natural and Working Lands solutions (other areas include Buildings, Infrastructure and Housing; Coastal and Marine issues; Community Resilience Planning, Public Health and Emergency Management; Energy; and, Transportation). The natural and working lands work group identified five strategies to help the state meet its climate goals
+EO%20Carbon%20Final%201.pdf 18
+17
+Effects of drought on forests and rangelands in the United States: translating science into management responses
+H
+Asbjornsen
+Gen
+J
+Vose
+2019
+U.S. Department of Agriculture
+Washington, DC; Forest Service, Washington Office
+Tech. Rep. WO-98
+Managing effects of drought in the Midwest and Northeast United States
+State of Maine's Carbon Budget
+X
+Bai
+2020. 2006-2016 (version 1.0
+Recovery dynamics and climate change effects to future New England forests
+M
+Duveneck
+Landscape Ecology
+32
+7
+2017
+Natural climate solutions for the United States
+J
+Fargione
+Science Advances
+4
+11
+1869
+2018
+Past and future changes in climate and hydrological indicators in the U.S. Northeast
+K
+Hayhoe
+Climate Dynamics
+28
+2007
+A practical approach for translating climate change adaptation principles into forest management actions
+M
+Janowiak
+Journal of Forestry
+112
+5
+2014
+M
+Janowiak
+New England and New York forest ecosystem vulnerability assessment and synthesis: a report from the New England Climate Change Response Framework U.S. Department of Agriculture
+Forest Service, Northern Research Station. Gen. Tech. Rep. NRS-173
+2018
+www.nrs.fs.fed.us/pubs/55635
+Modeling potential climate change impacts on the trees of the northeastern United States. Mitigation and Adaptation Strategies for Global Change
+C
+Lynch
+NRS- 99
+Keeping Your Woods Healthy through the Years Ahead
+USDA Forest Service
+2016. 2020. 2012. 2008
+29
+National Institute of Applied Climate Science and Forest Stewards Guild
+General Technical Report
+Changing Climate, Changing Forests: The Impacts of Climate Change on Forests of the Northeastern United States and Eastern Canada
+Adaptation strategies and approaches for forested watersheds
+P
+Shannon
+Climate Services
+13
+2019
+Potential future dynamics of carbon fluxes and pools in New England forests and their climatic sensitivities: A model-based study
+C
+Swanston
+Global Biogeochemical Cycles
+28
+2
+2016. 2014
+U.S. Department of Agriculture, Forest Service, Northern Research Station
+Forest adaptation resources: climate change tools and approaches for land managers
+Manomet Center for Conservation Sciences (in collaboration with Maine Beginning with Habitat Climate Change Working Group
+A
+Whitman
+SEI-2013-03
+2013
+Brunswick, ME
+Report
+Climate change and biodiversity in Maine: vulnerability of habitats and priority species
+Climate change and biodiversity in Maine: a summary of vulnerability of habitats and priority species
+A
+Whitman
+2014
+Manomet Center for Conservation Sciences
+4
+Eastern Brook Trout Joint Venture
+Eastern Brook Trout: Status and Threats
+2006
+Protecting the Source: Land Conservation and the Future of America's Drinking Water. Trust for Public Lands and American Waterworks Association
+C
+Ernst
+2004. 2015
+Maine Dept. of Inland Fisheries and Wildlife
+54
+Augusta, ME
+Maine's wildlife action plan
+Forests to Faucets 2.0 Connecting Forests, Water and Communities
+Last modified
+June 30, 2020
+USDA Forest Service
+Project Location (township and county
+Telephone Number and Contact Person of Landowner
+Address
+Name
+Address and Telephone Number and Contact Person of Partner Organization
+Name
+if applicable
+Land Protection Method (easement or fee) and Management Entity Proposed 7
+Abstract of Project
+Estimated Total Project Cost a. Acquisition cost b. Pre-acquisition costs including, but not limited to, legal, survey and appraisal costs
+Forest Legacy Funding Request ($)
+must not exceed 75% of the above Total Project Cost
+Matching Funds to be provided ($ and source
+must equal at least 25% of the Total Project Cost
+Annual Management Costs and Easement Stewardship Endowment Commitment
+see Appendix 7
+B
+Maine
+Forest Legacy Program Minimum Required Criteria

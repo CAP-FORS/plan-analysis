@@ -1,0 +1,9 @@
+Appendix 15. List of Iowa Crayfish Evaluated by the IWAP Taxonomic order and scientific names derived from: 
+Bloomer, CC and CA Taylor (2020)
+. American Crayfish Atlas. Internet.
+SGCN refers to Species of Greatest Conservation Need (SGCN) status as determined through IWAP species conservation status assessments. Y: Yes, species is SGCN. Blank: No, species is not SGCN.
+T/E Status: Refers to whether a species is federally listed as Endangered, Threatened, or Candidate at the time of this plan's publication. It also refers to those species proposed for Endangered, Threatened or Delisting status at the state level. For up-to-date state of Iowa listing information, please see the Threatened and Endangered Species Program page on the DNR website.
+• Regional SGCN: To access more information about this effort and for the updated list of Regional SGCN.
+• R: Species is considered a Regional Species of Greatest Conservation Need in the Midwest.
+• W: Watchlist. This is a list of species for which there was concern but insufficient information or differing trends across the region (WA: Watchlist -Assessment Priority). For some species this is because there is a different region of the country that is more important to the species than the Midwest (WD: Watchlist -Defer to adjacent region). • PR: R: Species is proposed as a Regional Species of Greatest Conservation Need in the Midwest, if a Midwest state lists the species as SGCN.
+Assessments of species conservation status undertaken as part of the IWAP are used to determine SGCN status. Other information is provided as a reference. Updates to State Wildlife Action Plans, Regional SGCN lists, Federal T&E Status, etc., are each independent processes, undertaken by different entities with differing timeframes. As such, the various listings or status ranks for a given species at a given point in time may not always appear to be in accord. Please visit the links above for updated information.

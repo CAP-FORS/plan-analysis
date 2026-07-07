@@ -1,0 +1,894 @@
+{
+  "document_meta": {
+    "title": "Idaho State Wildlife Action Plan 2023",
+    "year": 2023,
+    "jurisdiction": "Idaho Department of Fish and Game",
+    "document_type": "SWAP",
+    "document_id": "ID_SWAP_2023",
+    "page_count": 435
+  },
+  "orientation": {
+    "summary": "This is Idaho's 2023 State Wildlife Action Plan (SWAP), a statewide conservation and management plan covering 137 SGCN and 132 SGIN species plus 39 key habitats, published by the Idaho Department of Fish and Game. The document treats climate change as one of several major stressors throughout, dedicating a full chapter section (3.11) specifically to climate change challenges and actions. Range shifts are acknowledged but not centrally framed—the document notes climate influences species distributions and mentions facilitating SGCN movements northward and to higher elevations, but does not perform original range-shift modeling. Most climate analysis is narrative, drawing on cited literature; the plan incorporates AFWA voluntary guidance on integrating climate change into SWAPs (AFWA 2022) as a framework.",
+    "evidence_index": [
+      {
+        "text": "Climate influences the distribution and abundance of SGCN and their habitats. The ability of SGCN to adapt to a changing climate is not entirely understood due to high local temperature and precipitation variability",
+        "location": "3.11 Climate Change Overview",
+        "relevant_elements": ["1.1", "1.2", "1.3"]
+      },
+      {
+        "text": "Idaho is experiencing a changing climate, which is felt as stressors in the form of warming temperatures, prolonged and severe drought, changing precipitation and snowpack trends, and shifting seasonal water runoff patterns. Consequently, Idaho's climate is expected to become overall warmer, drier in summer, wetter in winter, and more variable during the next 50 to 70 years",
+        "location": "3.11 Climate Change Overview",
+        "relevant_elements": ["1.1", "3.5", "2.3"]
+      },
+      {
+        "text": "Understanding why species and ecosystems are vulnerable or potentially less resilient is a critical first step in developing effective conservation strategies. This vulnerability is based on sensitivity, exposure, and the ability to adapt.",
+        "location": "3.11 Climate Change Overview",
+        "relevant_elements": ["1.1", "1.2"]
+      },
+      {
+        "text": "Species with low adaptive capacity such as those with specialized habitat needs or limited dispersal ability face higher vulnerability to these changes.",
+        "location": "3.11 Climate Change Overview",
+        "relevant_elements": ["1.1", "1.2", "1.3"]
+      },
+      {
+        "text": "Facilitate SGCN movements to habitat with favorable climates (e.g., northward, higher elevation).",
+        "location": "3.11 Climate Change, Overarching Effects & Actions",
+        "relevant_elements": ["4.2", "1.3", "1.4"]
+      },
+      {
+        "text": "Protect priority Alpine Tundra as a connected network that will help SGCN move as the distribution of high-elevation habitat with colder conditions shrinks and shifts upslope.",
+        "location": "3.11 Climate Change, Habitat-specific Effects & Actions",
+        "relevant_elements": ["4.1", "4.2", "1.4", "3.2"]
+      },
+      {
+        "text": "Some SGCN associated with grasslands and shrublands might shift their ranges with changing habitat distributions. However, other SGCN on small and isolated remnants, like Palouse Prairie grasslands, are unlikely to adapt.",
+        "location": "3.11 Climate Change, Temperate & Boreal Grassland & Shrubland",
+        "relevant_elements": ["1.1", "1.2", "3.2"]
+      },
+      {
+        "text": "In a few instances, distributional changes may represent recent range shifts, potentially due to changing habitat or climate patterns.",
+        "location": "Distributional Uncertainty",
+        "relevant_elements": ["1.3", "3.2", "3.3"]
+      },
+      {
+        "text": "Identify areas resilient to climate-related stressors (e.g., cooler and moister) where SGCN have greater opportunities to persist long term (Fig. 3.11.3).",
+        "location": "3.11 Climate Change, Voluntary Actions Related to Information and Knowledge Gaps",
+        "relevant_elements": ["4.1", "1.4"]
+      },
+      {
+        "text": "Conserve high-priority SGCN populations and habitat that are sensitive or vulnerable to climate-related stressors with collaborative agreements (e.g., land exchanges, conservation easements, water banking and trading, Forest Legacy Program, and Land and Water Conservation Fund).",
+        "location": "3.11 Climate Change, Voluntary Actions Related to Native Species and Their Habitats",
+        "relevant_elements": ["4.1", "3.4"]
+      },
+      {
+        "text": "We considered and included additional climate-related actions in our plan following the updated AFWA voluntary guidance on incorporating climate change into SWAPs (AFWA 2022).",
+        "location": "Scope / Plan Review & Revision",
+        "relevant_elements": ["4.5"]
+      },
+      {
+        "text": "We will also continue to coordinate with the USGS Climate Adaptation Science Centers (CASCs), a partnership-driven program that teams scientists with natural and cultural resource managers and local communities to help fish, wildlife, water, land, and people to adapt to a changing climate.",
+        "location": "Plan Review & Revision",
+        "relevant_elements": ["3.4", "4.5"]
+      },
+      {
+        "text": "Climate change in northern Idaho may result in increased summer temperatures and drought, and warmer, slightly wetter winters. This will lead to more precipitation falling as rain, and shallower, earlier melting snowpacks.",
+        "location": "Northern Rocky Mountain Forest-Steppe Province",
+        "relevant_elements": ["1.1", "3.5"]
+      },
+      {
+        "text": "Intensified drought due to increasing temperatures and changing precipitation patterns is increasing the vulnerability of the subalpine-high montane conifer forest by compounding the effects of changing hydrologic regimes, insect and disease outbreaks, and wildfire scope and severity.",
+        "location": "Middle Rocky Mountain Steppe Province",
+        "relevant_elements": ["1.1", "3.5", "3.6"]
+      },
+      {
+        "text": "Past fire suppression has resulted in the encroachment of shade-tolerant species and a decrease in fire-tolerant species... all of which reduce forest resistance and resilience to disturbances and climate change",
+        "location": "Northern Rocky Mountain Forest-Steppe Province",
+        "relevant_elements": ["1.1", "3.7"]
+      },
+      {
+        "text": "Changes in fuel amounts and types, coupled with changing temperatures and precipitation, have resulted in a new pattern of unnaturally frequent, large, intense, and destructive wildfires",
+        "location": "Fire Management",
+        "relevant_elements": ["3.5", "3.7"]
+      },
+      {
+        "text": "Water in the West is a precious and increasingly scarce resource due to many factors including human population growth, competing demands, warming climate, and aging infrastructure",
+        "location": "Water Management",
+        "relevant_elements": ["3.5"]
+      },
+      {
+        "text": "Prolonged drought, changing precipitation and snowpack trends, and shifting seasonal water runoff patterns are also likely to affect water availability and water management into the future.",
+        "location": "Water Management",
+        "relevant_elements": ["3.5"]
+      },
+      {
+        "text": "Warming water and drought are also increasing the frequency of harmful algal blooms",
+        "location": "3.11 Climate Change, Shrub & Herb Wetland",
+        "relevant_elements": ["3.5", "3.7"]
+      },
+      {
+        "text": "A changing climate can compound other stressors affecting natural resources such as increasing disease and insect outbreaks, the introduction and spread of invasive species (e.g., Cheatgrass, North Africa Grass, Yellow Star-thistle, Rush Skeletonweed, and Medusahead), and destructive wildfires",
+        "location": "3.11 Climate Change Overview",
+        "relevant_elements": ["3.7", "3.6"]
+      },
+      {
+        "text": "Warming has allowed invasive cheatgrass to expand its range into higher elevations previously dominated by native bunchgrasses.",
+        "location": "3.11 Climate Change Overview",
+        "relevant_elements": ["3.7"]
+      },
+      {
+        "text": "Survival or reproduction is reduced by warming temperatures and less insulating snowpack. [cold-weather SGCN including American Pika, Hoary Marmot, Wolverine, Rocky Mountain Goat, Moose]",
+        "location": "Table 3.11.8",
+        "relevant_elements": ["3.6", "1.3"]
+      },
+      {
+        "text": "Model and predict future distribution and abundance of SGCN populations and habitats to inform potential actions to offset stressors.",
+        "location": "3.11 Climate Change, Voluntary Actions Related to Information and Knowledge Gaps",
+        "relevant_elements": ["2.2"]
+      },
+      {
+        "text": "The main purpose of M&E is to understand whether conservation efforts are effective (and why or why not) so that we implement effective conservation actions and take what we have learned to improve the Idaho SWAP over time, as needed (i.e., practice adaptive management).",
+        "location": "Chapter 4 Monitoring & Evaluation",
+        "relevant_elements": ["4.3", "4.4", "4.5"]
+      },
+      {
+        "text": "Monitoring and evaluation (M&E) play a critical role in assessing progress in implementing the strategies and actions of a conservation plan, and in evaluating whether a project's fundamental objectives are being achieved",
+        "location": "Chapter 4 Monitoring & Evaluation",
+        "relevant_elements": ["4.3"]
+      },
+      {
+        "text": "Each habitat-specific and species-specific action proposed in Chapter 3 is a priority for implementation during the next 10 years based on estimates of feasibility and likelihood of being effective to address stressors",
+        "location": "Chapter 3 Challenges & Actions",
+        "relevant_elements": ["4.3"]
+      },
+      {
+        "text": "Restore Whitebark Pine stands by planting seedlings resistant to White Pine Blister Rust, using prescribed burning and mechanical thinning (e.g., to remove Subalpine Fir), and focusing restoration in colder locations (Keane 2018).",
+        "location": "3.11 Climate Change, Forest & Woodland",
+        "relevant_elements": ["4.2", "4.4"]
+      },
+      {
+        "text": "Identify, develop, prioritize, and implement feasible and practical actions to offset negative effects of changing climate conditions on fish SGCN (e.g., cold-water reservoir releases, trap and transport, and conservation relocation).",
+        "location": "Table 3.11.8",
+        "relevant_elements": ["4.2"]
+      },
+      {
+        "text": "The regional habitat connectivity plan maps and defines connectivity across the state.",
+        "location": "3.11 Climate Change Overview / general",
+        "relevant_elements": ["1.4", "2.4"]
+      },
+      {
+        "text": "Riparian corridors also function as climate corridors, allowing species to move up in elevation in response to warming temperatures.",
+        "location": "3.11 Climate Change, Forest & Woodland",
+        "relevant_elements": ["1.4", "4.2"]
+      },
+      {
+        "text": "Map, prioritize, and conserve movement and migration routes for migratory SGCN.",
+        "location": "Table 3.11.8",
+        "relevant_elements": ["4.1", "4.2", "1.4"]
+      },
+      {
+        "text": "We adopted the USDA Forest Service (FS) ECOMAP provinces (FS ECOMAP Team 2017) as the organizational framework for the SWAP because they provide a scale appropriate for broad-scale conservation and can be used to support cross-boundary collaboration.",
+        "location": "Executive Summary / Introduction",
+        "relevant_elements": ["3.1"]
+      },
+      {
+        "text": "The following major taxonomic groups are included in the SWAP: amphibians, birds, mammals, reptiles, fishes, invertebrates, and plants",
+        "location": "Executive Summary",
+        "relevant_elements": ["3.3"]
+      },
+      {
+        "text": "IDFG partnered with state and federal agencies to incorporate the updated conservation strategy into BLM and FS management plans... Due in part to these efforts, the FWS in 2015 concluded that the sage-grouse did not require protections under the ESA",
+        "location": "Conservation Success Story: GREATER SAGE-GROUSE",
+        "relevant_elements": ["3.4", "4.4"]
+      },
+      {
+        "text": "The SWAP establishes a strategic program to coordinate efforts of stakeholders engaged in the conservation of Idaho's fish, wildlife, and plants and the habitats they depend on. Fostering and incentivizing these partnerships into the future will be necessary to sustain Idaho's SWAP species",
+        "location": "Executive Summary",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "genetic diversity: The range of different inherited traits within a population or a species, low levels of which can affect fitness and the ability to adapt to changing environmental conditions.",
+        "location": "Glossary",
+        "relevant_elements": ["1.3"]
+      },
+      {
+        "text": "Assess SGCN genetics to inform conservation actions to increase connections and diversity among populations.",
+        "location": "3.11 Climate Change, Voluntary Actions Related to Information and Knowledge Gaps",
+        "relevant_elements": ["1.3"]
+      },
+      {
+        "text": "Boreal Owl and American Pipit-These 2 species occur in restricted alpine and subalpine habitats potentially affected by a loss of snowpack and changing seasonal runoff patterns. Both species are suspected to be declining, but current monitoring data are insufficient to estimate reliable trends. Breeding populations of the American Pipit may be especially limited and becoming more so with tree line advancement.",
+        "location": "Ecological Uncertainty",
+        "relevant_elements": ["3.2", "3.3"]
+      },
+      {
+        "text": "This habitat is particularly vulnerable to warming temperatures, reduced snow cover, and drought.",
+        "location": "Subalpine-High Montane Forest",
+        "relevant_elements": ["1.1", "3.5"]
+      },
+      {
+        "text": "However, this habitat is particularly vulnerable to warming temperatures, decreased snowpack, and changing snow conditions. [Alpine Tundra]",
+        "location": "Alpine Tundra",
+        "relevant_elements": ["1.1", "3.5"]
+      },
+      {
+        "text": "However, caves and lava tubes are highly sensitive and unique environments, making them particularly vulnerable to overuse and misuse as well as changes in climate",
+        "location": "Caves & Subterranean Habitats",
+        "relevant_elements": ["1.1"]
+      },
+      {
+        "text": "Reconnect seasonal ranges where transportation systems have interrupted migration routes (e.g., crossing structures, wildlife-friendly fencing, and conservation easements as appropriate).",
+        "location": "Table 3.4.5",
+        "relevant_elements": ["1.4", "4.2"]
+      },
+      {
+        "text": "Propagate SGCN as appropriate to mitigate, conserve, supplement, or reintroduce populations.",
+        "location": "3.11 Climate Change, Voluntary Actions Related to Native Species and Their Habitats",
+        "relevant_elements": ["4.2"]
+      },
+      {
+        "text": "moving tiger beetles to suitable but unoccupied dune habitat",
+        "location": "Table 3.11.8",
+        "relevant_elements": ["4.2"]
+      },
+      {
+        "text": "The following conservation success stories highlight a subset of conservation success stories that have occurred in part as a result of implementing actions identified in earlier SWAPs",
+        "location": "Conservation Success Stories",
+        "relevant_elements": ["4.4"]
+      },
+      {
+        "text": "Gaining a better understanding of this species by using best available science not only produced more knowledge about its habitat requirements; it also helped forest managers better understand the Fisher's needs",
+        "location": "Conservation Success Story (Fisher)",
+        "relevant_elements": ["4.4"]
+      },
+      {
+        "text": "Predicted temperature increases for central Idaho suggest at least a 6-fold increase of area burned by wildfire with each 1.8 °F (1 °C) of temperature increase relative to the median annual area burned for the period 1950 to 2003 (Littell et al. 2009)",
+        "location": "Middle Rocky Mountain Steppe Province",
+        "relevant_elements": ["3.5", "2.3"]
+      },
+      {
+        "text": "Summer and autumn rain precipitation is decreasing, and spring and winter precipitation is increasing but with less as snow... Snowpack is peaking earlier, shifting upwards, and more inconsistent",
+        "location": "3.11 Climate Change Overview",
+        "relevant_elements": ["3.5", "1.1"]
+      }
+    ]
+  },
+  "concepts": {
+    "climate_vulnerability": {
+      "evaluable": true,
+      "score": 3,
+      "evidence": [
+        {
+          "text": "Climate influences the distribution and abundance of SGCN and their habitats. The ability of SGCN to adapt to a changing climate is not entirely understood due to high local temperature and precipitation variability",
+          "location": "3.11 Climate Change Overview",
+          "sub_component": "exposure",
+          "citations": ["Ford et al. 2013", "Silverman and Maneta 2016"]
+        },
+        {
+          "text": "Intensified drought due to increasing temperatures and changing precipitation patterns is increasing the vulnerability of the subalpine-high montane conifer forest by compounding the effects of changing hydrologic regimes, insect and disease outbreaks, and wildfire scope and severity.",
+          "location": "Middle Rocky Mountain Steppe Province",
+          "sub_component": "exposure",
+          "citations": []
+        },
+        {
+          "text": "Species with low adaptive capacity such as those with specialized habitat needs or limited dispersal ability face higher vulnerability to these changes.",
+          "location": "3.11 Climate Change Overview",
+          "sub_component": "adaptive capacity",
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "adaptive_capacity_specificity": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Species with low adaptive capacity such as those with specialized habitat needs or limited dispersal ability face higher vulnerability to these changes.",
+          "location": "3.11 Climate Change Overview",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Some SGCN associated with grasslands and shrublands might shift their ranges with changing habitat distributions. However, other SGCN on small and isolated remnants, like Palouse Prairie grasslands, are unlikely to adapt.",
+          "location": "3.11 Climate Change, Temperate & Boreal Grassland & Shrubland",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "adaptive_capacity_components": {
+      "demography": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Survival or reproduction is reduced by warming temperatures and less insulating snowpack. [cold-weather SGCN including American Pika, Hoary Marmot, Wolverine, Rocky Mountain Goat, Moose]",
+            "location": "Table 3.11.8",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "distribution": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Facilitate SGCN movements to habitat with favorable climates (e.g., northward, higher elevation).",
+            "location": "3.11 Climate Change, Overarching Effects & Actions",
+            "sub_component": null,
+            "citations": []
+          },
+          {
+            "text": "Some SGCN associated with grasslands and shrublands might shift their ranges with changing habitat distributions. However, other SGCN on small and isolated remnants, like Palouse Prairie grasslands, are unlikely to adapt.",
+            "location": "3.11 Climate Change, Temperate & Boreal Grassland & Shrubland",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "movement": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Species with low adaptive capacity such as those with specialized habitat needs or limited dispersal ability face higher vulnerability to these changes.",
+            "location": "3.11 Climate Change Overview",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "evolutionary_potential": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Assess SGCN genetics to inform conservation actions to increase connections and diversity among populations.",
+            "location": "3.11 Climate Change, Voluntary Actions Related to Information and Knowledge Gaps",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecological_dependencies": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "A changing climate can compound other stressors affecting natural resources such as increasing disease and insect outbreaks, the introduction and spread of invasive species (e.g., Cheatgrass, North Africa Grass, Yellow Star-thistle, Rush Skeletonweed, and Medusahead), and destructive wildfires",
+            "location": "3.11 Climate Change Overview",
+            "sub_component": null,
+            "citations": ["Adler et al. 2021", "Paukert et al. 2021"]
+          }
+        ]
+      },
+      "abiotic_niche": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "This habitat is particularly vulnerable to warming temperatures, reduced snow cover, and drought. [Subalpine-High Montane Forest]",
+            "location": "Subalpine-High Montane Forest",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "life_history": {
+        "present": false,
+        "evidence": []
+      }
+    },
+    "connectivity": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Protect priority Alpine Tundra as a connected network that will help SGCN move as the distribution of high-elevation habitat with colder conditions shrinks and shifts upslope.",
+          "location": "3.11 Climate Change, Habitat-specific Effects & Actions",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Facilitate SGCN movements to habitat with favorable climates (e.g., northward, higher elevation).",
+          "location": "3.11 Climate Change, Overarching Effects & Actions",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Reconnect seasonal ranges where transportation systems have interrupted migration routes (e.g., crossing structures, wildlife-friendly fencing, and conservation easements as appropriate).",
+          "location": "Table 3.4.5",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document discusses connectivity broadly throughout; the score of 2 is justified because connectivity is explicitly linked to climate-driven range shifts in the Alpine Tundra section and in the climate-change facilitation actions (moving northward/upslope)."
+    }
+  },
+  "tools": {
+    "vulnerability_models": {
+      "evaluable": true,
+      "score": 0,
+      "named_tools": [],
+      "evidence": [],
+      "absence_note": "The document does not reference CCVI, NatureServe CCVI, PVA, or any formal vulnerability model/index. NatureServe conservation status ranks (S-ranks, G-ranks) are used but these are conservation status assessments, not climate vulnerability models in the codebook sense. No formal climate vulnerability assessment framework (exposure × sensitivity × adaptive capacity scoring) is applied to SGCN."
+    },
+    "niche_models": {
+      "evaluable": true,
+      "score": 1,
+      "named_tools": [],
+      "evidence": [
+        {
+          "text": "Model and predict future distribution and abundance of SGCN populations and habitats to inform potential actions to offset stressors.",
+          "location": "3.11 Climate Change, Voluntary Actions Related to Information and Knowledge Gaps",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The plan recommends future distribution modeling but does not apply any named niche/SDM model to the focal SGCN. No MaxEnt, SDM, ENM, or similar tool is cited as having been applied."
+    },
+    "climate_models": {
+      "evaluable": true,
+      "score": 1,
+      "named_tools": [],
+      "evidence": [
+        {
+          "text": "Idaho is experiencing a changing climate, which is felt as stressors in the form of warming temperatures, prolonged and severe drought, changing precipitation and snowpack trends, and shifting seasonal water runoff patterns. Consequently, Idaho's climate is expected to become overall warmer, drier in summer, wetter in winter, and more variable during the next 50 to 70 years",
+          "location": "3.11 Climate Change Overview",
+          "sub_component": null,
+          "citations": ["Meehl et al. 2009", "Rupp et al. 2017"]
+        }
+      ],
+      "absence_note": "The plan cites climate projections literature (e.g., Abatzoglou et al. 2021, Rupp et al. 2017, Hamlet et al. 2013) and provides bullet points on projected changes (temperature, precipitation, streamflow), but does not name a GCM, downscaling product, RCP/SSP, or CMIP ensemble. No climate model is applied as a formal analytical tool to Idaho's focal species or habitats. Score = 1 (referenced generally via cited projection literature, but no named model or scenario).",
+      "time_horizon_years": [2070],
+      "emission_scenarios": []
+    },
+    "connectivity_models": {
+      "evaluable": true,
+      "score": 0,
+      "named_tools": [],
+      "evidence": [],
+      "absence_note": "The document discusses connectivity conceptually and mentions a refugia mapping effort (USGS) and corridors in passing, but no named connectivity modeling tool (CircuitScape, Omniscape, Linkage Mapper, etc.) is referenced or applied. The USGS refugia mapping effort mentioned is not a connectivity model."
+    }
+  },
+  "context": {
+    "management_scale": {
+      "local": {
+        "present": false,
+        "evidence": []
+      },
+      "site": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Key habitats were identified and prioritized for actions based on the estimated feasibility and effectiveness to address challenge-specific stressors likely to affect SGCN during the next 10 years.",
+            "location": "Chapter 3 Challenges & Actions",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "watershed": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Restore and maintain aquatic habitat to benefit SGCN and soil and water conservation (e.g., streamflow improvement, in-water and shoreline restoration, floodplain reconnection... BDAs/North American Beaver reintroduction, invasive species control)",
+            "location": "3.11 Climate Change, Aquatic Vegetation & Freshwater Habitat",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "city": {
+        "present": false,
+        "evidence": []
+      },
+      "county": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Madison, Kootenai, and Ada Counties (containing the cities of Rexburg, Coeur d'Alene, and Boise, respectively) were the 3 fastest growing counties from 2010 to 2020",
+            "location": "Residential & Commercial Development",
+            "sub_component": null,
+            "citations": ["US Census Bureau 2021"]
+          }
+        ]
+      },
+      "within_state_region": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "We adopted the USDA Forest Service (FS) ECOMAP provinces (FS ECOMAP Team 2017) as the organizational framework for the SWAP because they provide a scale appropriate for broad-scale conservation",
+            "location": "Ecological Framework",
+            "sub_component": null,
+            "citations": ["FS 2017"]
+          }
+        ]
+      },
+      "state": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Designed to span 10 years, the Idaho SWAP is statewide in scope and targets the conservation of native fish, wildlife, and plant SGCN and SGIN and their habitats",
+            "location": "Executive Summary",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "multistate": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "This framework likewise provides a mechanism for adjacent states that share a particular province (e.g., the Southern Rocky Mountain Steppe -Open Woodland -Coniferous Forest -Alpine Meadow Province spans Idaho, Montana, Wyoming, and Utah) to identify opportunities for cross-boundary collaboration with respect to our collective SWAPs.",
+            "location": "How to Use the Idaho SWAP",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "national": {
+        "present": false,
+        "evidence": []
+      },
+      "transnational": {
+        "present": false,
+        "evidence": []
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "This province includes a major component of the Greater Yellowstone Ecosystem (GYE), one of the largest intact ecosystems remaining in the temperate zones of the world",
+            "location": "Southern Rocky Mountain Steppe Province",
+            "sub_component": null,
+            "citations": ["Keiter and Boyce 1991"]
+          }
+        ]
+      },
+      "ecoregion": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "We adopted the USDA Forest Service (FS) ECOMAP provinces (FS ECOMAP Team 2017) as the organizational framework for the SWAP because they provide a scale appropriate for broad-scale conservation and can be used to support cross-boundary collaboration.",
+            "location": "Ecological Framework",
+            "sub_component": null,
+            "citations": ["FS 2017"]
+          }
+        ]
+      },
+      "province": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "We cross-reference these provinces to assist users in finding material relevant to their respective geographic region(s) or objectives.",
+            "location": "How to Use the Idaho SWAP",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "section": {
+        "present": false,
+        "evidence": []
+      },
+      "subsection": {
+        "present": false,
+        "evidence": []
+      },
+      "lake": {
+        "present": false,
+        "evidence": []
+      },
+      "river": {
+        "present": false,
+        "evidence": []
+      },
+      "district": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["Northern Rocky Mountain Forest-Steppe Province", "Great Plains-Palouse Dry Steppe Province", "Middle Rocky Mountain Steppe Province", "Intermountain Semidesert Province", "Southern Rocky Mountain Steppe Province", "Greater Yellowstone Ecosystem", "Snake River Plain", "Bear River drainage", "Owyhee County", "Treasure Valley"]
+    },
+    "biological_unit_score": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "The following major taxonomic groups are included in the SWAP: amphibians, birds, mammals, reptiles, fishes, invertebrates, and plants",
+          "location": "Executive Summary",
+          "sub_component": "species",
+          "citations": []
+        },
+        {
+          "text": "In the context of this plan, the term 'species' includes taxonomic species as well as selected subspecies, populations, or other entities below the species level (hereafter species).",
+          "location": "Executive Summary",
+          "sub_component": "population",
+          "citations": []
+        },
+        {
+          "text": "We provide descriptions for 39 key or priority habitats and community types (terrestrial, aquatic, and subterranean) essential to the conservation of SWAP species, including their extent and condition.",
+          "location": "Habitats",
+          "sub_component": "habitat",
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "biological_unit_components": {
+      "species": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The following major taxonomic groups are included in the SWAP: amphibians, birds, mammals, reptiles, fishes, invertebrates, and plants",
+            "location": "Executive Summary",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "population": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "In the context of this plan, the term 'species' includes taxonomic species as well as selected subspecies, populations, or other entities below the species level (hereafter species).",
+            "location": "Executive Summary",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "habitat": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "We provide descriptions for 39 key or priority habitats and community types (terrestrial, aquatic, and subterranean) essential to the conservation of SWAP species",
+            "location": "Habitats",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "This province includes a major component of the Greater Yellowstone Ecosystem (GYE), one of the largest intact ecosystems remaining in the temperate zones of the world",
+            "location": "Southern Rocky Mountain Steppe Province",
+            "sub_component": null,
+            "citations": ["Keiter and Boyce 1991"]
+          }
+        ]
+      },
+      "community": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "We use the term 'habitat' here in its truest sense; that is, generally taken to embody both species assemblages and their interactions with the vegetation and geophysical environment.",
+            "location": "Habitats",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "genotype_phenotype": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["American Pika", "Wolverine", "Greater Sage-Grouse", "Bull Trout", "Whitebark Pine", "Clark's Nutcracker", "Columbia Spotted Frog", "Bonneville Cutthroat Trout", "Alpine Tundra", "sagebrush-steppe", "Subalpine-High Montane Forest", "Palouse Prairie"]
+    },
+    "partnerships_and_funding": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "To ensure an approved SWAP, and thus continue to remain eligible for State and Tribal Wildlife Grants Program (STWG) funding, all 8 elements must be adequately addressed.",
+          "location": "Executive Summary",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "IDFG partnered with state and federal agencies to incorporate the updated conservation strategy into BLM and FS management plans. The state continued to collaborate with federal agencies to develop solutions for sage-grouse conservation in Idaho, which culminated in the 2015 final plan for sage-grouse conservation on federal lands.",
+          "location": "Conservation Success Story: GREATER SAGE-GROUSE",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "The SWAP establishes a strategic program to coordinate efforts of stakeholders engaged in the conservation of Idaho's fish, wildlife, and plants and the habitats they depend on. Fostering and incentivizing these partnerships into the future will be necessary to sustain Idaho's SWAP species",
+          "location": "Executive Summary",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_threat_habitat_degradation": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Climate change in northern Idaho may result in increased summer temperatures and drought, and warmer, slightly wetter winters. This will lead to more precipitation falling as rain, and shallower, earlier melting snowpacks. Less snowpack may mean less surface and groundwater being available to sustain wetland hydrology later in summer, resulting in more wetlands drying out earlier in summer.",
+          "location": "Northern Rocky Mountain Forest-Steppe Province",
+          "sub_component": null,
+          "citations": ["Halofsky et al. 2018a", "Halofsky et al. 2018b"]
+        },
+        {
+          "text": "Changes in fuel amounts and types, coupled with changing temperatures and precipitation, have resulted in a new pattern of unnaturally frequent, large, intense, and destructive wildfires",
+          "location": "Fire Management",
+          "sub_component": null,
+          "citations": ["Westerling et al. 2006", "Westerling 2016"]
+        },
+        {
+          "text": "However, this habitat is particularly vulnerable to warming temperatures, decreased snowpack, and changing snow conditions. [Alpine Tundra]",
+          "location": "Alpine Tundra",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_threat_species_vital_rates": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Survival or reproduction is reduced by warming temperatures and less insulating snowpack. [cold-weather SGCN including American Pika, Hoary Marmot, Wolverine, Rocky Mountain Goat, Moose]",
+          "location": "Table 3.11.8",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Survival or spawning success is reduced by warming water, changing movement patterns, and spawning timing. [Fish SGCN]",
+          "location": "Table 3.11.8",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_threat_biotic_stressors": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "A changing climate can compound other stressors affecting natural resources such as increasing disease and insect outbreaks, the introduction and spread of invasive species (e.g., Cheatgrass, North Africa Grass, Yellow Star-thistle, Rush Skeletonweed, and Medusahead), and destructive wildfires",
+          "location": "3.11 Climate Change Overview",
+          "sub_component": null,
+          "citations": ["Adler et al. 2021", "Paukert et al. 2021"]
+        }
+      ],
+      "absence_note": {}
+    }
+  },
+  "actions": {
+    "priority_habitat_identification": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Identify areas resilient to climate-related stressors (e.g., cooler and moister) where SGCN have greater opportunities to persist long term (Fig. 3.11.3).",
+          "location": "3.11 Climate Change, Voluntary Actions Related to Information and Knowledge Gaps",
+          "sub_component": null,
+          "citations": ["Morelli et al. 2016"]
+        },
+        {
+          "text": "Protect priority Alpine Tundra as a connected network that will help SGCN move as the distribution of high-elevation habitat with colder conditions shrinks and shifts upslope.",
+          "location": "3.11 Climate Change, Habitat-specific Effects & Actions",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Map, prioritize, and conserve movement and migration routes for migratory SGCN.",
+          "location": "Table 3.11.8",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "Score 2 is justified by the combination of mapping (Fig. 3.11.3 of Morelli et al. 2016 incorporated) and spatial language about network of alpine tundra and mapped migration routes, along with the broader habitat maps throughout Chapter 2."
+    },
+    "targeted_range_shift_actions": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Facilitate SGCN movements to habitat with favorable climates (e.g., northward, higher elevation).",
+          "location": "3.11 Climate Change, Overarching Effects & Actions",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Identify, develop, prioritize, and implement feasible and practical actions to offset negative effects of changing climate conditions on fish SGCN (e.g., cold-water reservoir releases, trap and transport, and conservation relocation).",
+          "location": "Table 3.11.8",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "time_bound_and_monitoring": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Each habitat-specific and species-specific action proposed in Chapter 3 is a priority for implementation during the next 10 years based on estimates of feasibility and likelihood of being effective to address stressors",
+          "location": "Chapter 3 Challenges & Actions",
+          "sub_component": "time-bound",
+          "citations": []
+        },
+        {
+          "text": "The main purpose of M&E is to understand whether conservation efforts are effective (and why or why not) so that we implement effective conservation actions and take what we have learned to improve the Idaho SWAP over time, as needed (i.e., practice adaptive management).",
+          "location": "Chapter 4 Monitoring & Evaluation",
+          "sub_component": "monitoring",
+          "citations": []
+        },
+        {
+          "text": "As part of our SWAP revision, we created a spreadsheet that summarizes existing and planned monitoring for species, habitats, climate, and effectiveness. We include the target for monitoring, monitoring type (e.g., ambient, performance measurement, impact evaluation), indicator(s), methods, time frame and frequency, monitoring extent or data source, implementer, and purpose of monitoring",
+          "location": "Chapter 4 Monitoring & Evaluation",
+          "sub_component": "monitoring",
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "evidence_of_efficacy": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "The following wildlife summaries highlight a subset of conservation success stories that have occurred in part as a result of implementing actions identified in earlier SWAPs, and that provide examples of what we mean by the phrase 'monitoring and evaluation for conservation impact.'",
+          "location": "Conservation Success Stories",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "As a result of these collaborative conservation efforts, this Columbia Spotted Frog population rebounded. In 2015, the FWS determined an ESA listing was not warranted due to a population rebound and efforts to protect habitat.",
+          "location": "Conservation Success Story: COLUMBIA SPOTTED FROG",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Restore Whitebark Pine stands by planting seedlings resistant to White Pine Blister Rust, using prescribed burning and mechanical thinning (e.g., to remove Subalpine Fir), and focusing restoration in colder locations (Keane 2018).",
+          "location": "3.11 Climate Change, Forest & Woodland",
+          "sub_component": null,
+          "citations": ["Keane 2018"]
+        }
+      ],
+      "absence_note": "Score 2 (limited evidence) rather than 3 (strong evidence): the plan provides case studies from previous SWAPs showing conservation outcomes, and cites key papers for some climate-related actions (e.g., Keane 2018 for Whitebark Pine). However, direct evidence for the efficacy of climate-specific range shift actions (facilitation, assisted migration, conservation relocation) is limited; most citations support the broader ecological principles rather than directly tested range-shift action outcomes.",
+      "projects": ["Columbia Spotted Frog (Great Basin population): IDFG worked with federal agencies and private landowners in Owyhee County to protect the frogs through sustainable grazing practices and pond construction. The population rebounded and FWS determined a listing was not warranted in 2015.", "Greater Sage-Grouse: After ESA listing petitions, Idaho developed a state conservation plan and collaborated with federal agencies to update land management plans. FWS determined in 2015 that ESA listing was not warranted.", "Bonneville Cutthroat Trout: Federal, state, tribal agencies and NGOs implemented multi-decadal restoration projects including habitat restoration, nonnative trout removal, and conservation aquaculture. Wild-origin fish now predominate in Bear Lake and harvest was reopened in 2022.", "Southern Idaho Ground Squirrel: IDFG and College of Idaho conducted 5-year surveys documenting distribution and abundance. Combined with a Candidate Conservation Agreement, FWS determined ESA listing was not warranted in 2015."]
+    },
+    "adaptation_planning_frameworks": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "We considered and included additional climate-related actions in our plan following the updated AFWA voluntary guidance on incorporating climate change into SWAPs (AFWA 2022).",
+          "location": "Scope / Plan Review & Revision",
+          "sub_component": null,
+          "citations": ["AFWA 2022"]
+        },
+        {
+          "text": "The main purpose of M&E is to understand whether conservation efforts are effective (and why or why not) so that we implement effective conservation actions and take what we have learned to improve the Idaho SWAP over time, as needed (i.e., practice adaptive management).",
+          "location": "Chapter 4 Monitoring & Evaluation",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "We will also continue to coordinate with the USGS Climate Adaptation Science Centers (CASCs), a partnership-driven program that teams scientists with natural and cultural resource managers and local communities to help fish, wildlife, water, land, and people to adapt to a changing climate.",
+          "location": "Plan Review & Revision",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "Score 2 (specific frameworks referenced) rather than 1: AFWA 2022 voluntary guidance for incorporating climate change into SWAPs is a named climate adaptation planning framework, and the plan explicitly states it was used to shape the plan's climate-related actions. Adaptive management is operationalized at the plan level (Chapter 4 M&E) in a climate context. Neither RAD, RRT, SBDA, nor CCVA by name is referenced."
+    }
+  },
+  "coding_meta": {
+    "coder": "llm:claude-sonnet-4-6",
+    "model": "claude-sonnet-4-6",
+    "provider": "claude",
+    "codebook_version": "0.4",
+    "ingest": "text",
+    "design": "single",
+    "temperature": null,
+    "thinking": null,
+    "thinking_effort": null,
+    "coded_at": "2026-07-06T18:39:22Z",
+    "notes": {}
+  }
+}

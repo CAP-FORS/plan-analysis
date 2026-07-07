@@ -1,0 +1,663 @@
+{
+  "document_meta": {
+    "title": "2020 Iowa State Forest Action Plan",
+    "year": 2020,
+    "jurisdiction": "Iowa",
+    "document_type": "State Forest Action Plan",
+    "document_id": "IA_FAP_2020",
+    "page_count": 99
+  },
+  "orientation": {
+    "summary": "This is the 2020 Iowa State Forest Action Plan, a state-level forest management document produced by the Iowa Department of Natural Resources. The document covers forest health, urban and community forestry, fire management, forest productivity, timber and wood products, and landowner assistance programs. It engages with climate change in a 'Looking to the Future' section that discusses projected temperature increases, changes in precipitation, plant hardiness zone shifts, and growing degree days, referencing USDA Forest Service climate projections for 2071-2090. On range shifts specifically, the document discusses how species ranges may shift in response to climate (e.g., southern species moving northward), and references TNC's Resilient and Connected Landscapes framework for connectivity. The document primarily synthesizes external analyses (USDA Forest Service maps, TNC datasets) rather than performing original climate modeling.",
+    "evidence_index": [
+      {
+        "text": "Here are some examples of abiotic issues: flooding, drought, wind, chemical damage, tornados, and climate change. Damage from these events may cause drastic immediate changes in the forest (e.g., natural disasters, storms), or can create an environment for pathogens that were once not an issue to become a key pest as the climate changes.",
+        "location": "Forest Health Overview",
+        "relevant_elements": ["1.1", "3.5", "3.6", "3.7"]
+      },
+      {
+        "text": "According to the USDA Forest Service National Forest Climate Change map projections (2071-2090), the average annual temperature in Iowa will increase by approximately 10° F. The northern-most section of the state will experience average annual temperatures hotter than the historical average annual temperature of the southern-most section of Iowa.",
+        "location": "Projected Change in Temperature, Plant Hardiness Zones, and Growing Degree Days",
+        "relevant_elements": ["1.1", "2.3", "3.5"]
+      },
+      {
+        "text": "As average annual temperature increases, native trees and other vegetation will become stressed and cease to thrive. Native habitats will slowly disappear as most plants will not be able to adapt to this rapid change.",
+        "location": "Projected Change in Temperature, Plant Hardiness Zones, and Growing Degree Days",
+        "relevant_elements": ["1.1", "1.2", "3.5"]
+      },
+      {
+        "text": "Iowa will begin to see species more common in the southern U.S. moving into the southern portion of the state while species that were once well suited to the climate in the northern portion will struggle to adapt.",
+        "location": "Plant Hardiness Zones",
+        "relevant_elements": ["1.1", "1.2", "1.3", "2.2", "3.3"]
+      },
+      {
+        "text": "These changing climatic conditions will add stress to existing plant life and may cause a shift in species location and quantities.",
+        "location": "Growing Degree Days",
+        "relevant_elements": ["1.1", "3.5"]
+      },
+      {
+        "text": "A projected increase in annual precipitation of up to 8% will affect the health and composition of trees and forests in Iowa. Bur Oak Blight spreads faster during wetter spring seasons, leading to a prediction that Bur Oak Blight will be more prevalent in the future due to higher rainfall totals.",
+        "location": "Plant Hardiness Zones",
+        "relevant_elements": ["1.1", "3.5", "3.7"]
+      },
+      {
+        "text": "Some tree species are not well equipped to handle droughts, which will be more frequent in the future, resulting in higher tree mortality. In addition, changing average annual precipitation amounts will likely cause a shift in overall forest composition towards species that are more drought and flood tolerant.",
+        "location": "Plant Hardiness Zones",
+        "relevant_elements": ["1.1", "1.2", "3.5", "3.6"]
+      },
+      {
+        "text": "The Nature Conservancy (TNC) has lead an over 10-year initiative in partnership with over 150 scientists from agencies, academia, and non-governmental organizations across the United States to develop a dataset that interprets the resiliency and connectivity of landscapes in relation to climate change.",
+        "location": "Resilient and Connected Landscapes",
+        "relevant_elements": ["1.4", "2.4", "4.1"]
+      },
+      {
+        "text": "The outcome of this project is TNC's Resilient and Connected Landscapes database. This is a 'proposed conservation network of representative climate-resilient sites designed to sustain biodiversity and ecological functions into the future under a changing climate.'",
+        "location": "Resilient and Connected Landscapes",
+        "relevant_elements": ["1.4", "2.4", "4.1"]
+      },
+      {
+        "text": "The project also maps areas of high biodiversity, areas of land that will be most resilient to future climate conditions, and highlights connected lands between these resilient landscapes.",
+        "location": "Resilient and Connected Landscapes",
+        "relevant_elements": ["1.4", "4.1"]
+      },
+      {
+        "text": "Overall resiliency and connectedness of landscapes can best be evaluated by looking at multiple criteria. TNC combined resilient landscapes, regional flow of species and landscapes, and levels of biodiversity.",
+        "location": "Resilient and Connected Network",
+        "relevant_elements": ["1.4", "2.4", "4.1"]
+      },
+      {
+        "text": "Sites that have more elevation changes will provide pockets of climate resilience for plants and wildlife, slowing the rate of regional climatic change. Areas of high landscape diversity are priority areas for conservation practices in Iowa.",
+        "location": "Landscape Diversity",
+        "relevant_elements": ["1.4", "4.1"]
+      },
+      {
+        "text": "Historically (1980-2009) Iowa was primarily classified as Zone 5 for Plant Hardiness Zone...Current projections of the impact of the changing climate on Plant Hardiness Zones has more than half of the state classified as Zone 6.",
+        "location": "Plant Hardiness Zones",
+        "relevant_elements": ["2.3", "3.5"]
+      },
+      {
+        "text": "According to the USDA Forest Service National Forest Climate Change Maps project, precipitation across Iowa will increase between 4-8% based on a future projection for 2071-2090.",
+        "location": "Growing Degree Days",
+        "relevant_elements": ["2.3"]
+      },
+      {
+        "text": "Historically (1980-2009) the northern two-thirds of the state accumulated 3000-3999 GDD, with the southern tier between 4000-4999 GDD. In future projection models (2070-2099) with medium emission rates GDD are expected to be between 3000-3999 for almost all of the state.",
+        "location": "Growing Degree Days",
+        "relevant_elements": ["2.3"]
+      },
+      {
+        "text": "Changing climate -for more information visit the Looking to the Future section of this Action Plan. Flooding and other natural disasters",
+        "location": "Threats to the Urban Forest / Canopy cover loss",
+        "relevant_elements": ["3.5"]
+      },
+      {
+        "text": "Forests provide habitat to nearly 75 Species of Greatest Conservation Need (SGCN) as described in the Iowa Wildlife Action Plan (IWAP)",
+        "location": "Species of Greatest Conservation Need in Iowa's Forests",
+        "relevant_elements": ["3.3", "4.2"]
+      },
+      {
+        "text": "Wildlife -emphasis on including forested lands of any size or location where occurrences of Threatened, Endangered, or Species of Conservation Need are known to exist using Natural Areas Inventory (NAI) database",
+        "location": "Forest Stewardship Program Priority Lands",
+        "relevant_elements": ["4.1"]
+      },
+      {
+        "text": "In August 2020, Iowa developed an updated statewide GIS coverage of its Forest Stewardship Priority. The following variables were included in the development of Iowa's FSP Priority Lands coverage",
+        "location": "Forest Stewardship Program Priority Lands",
+        "relevant_elements": ["4.1"]
+      },
+      {
+        "text": "The purpose of the Forest Legacy Program in Iowa is to identify and assist willing landowners with conserving Iowa's most important forest areas that are threatened by conversion to non-forest uses.",
+        "location": "Forest Legacy Program",
+        "relevant_elements": ["4.1", "3.4"]
+      },
+      {
+        "text": "Iowa has a total of 4,774 acres of land in conservation easements as of June 2019; 1,650 acres are within the Forest Legacy Program, which represents 34% of Iowa's total.",
+        "location": "Forest Legacy Program",
+        "relevant_elements": ["4.1", "3.4"]
+      },
+      {
+        "text": "1. Use science-based techniques and technologies that are implementable, adaptive, and sustainable 2. Conduct management on public lands 3. Engage Iowans with management tools and strategies on private lands",
+        "location": "Goals and Strategies",
+        "relevant_elements": ["4.3", "4.4", "4.5"]
+      },
+      {
+        "text": "Active forest management such as harvesting, forest stand improvement and prescribed fire will ensure that our forests remain healthy, diverse, and resilient.",
+        "location": "Iowa's Forests",
+        "relevant_elements": ["1.2", "4.3"]
+      },
+      {
+        "text": "In partnership with the Iowa Urban Tree Council the state has set a goal to increase canopy cover by 3% by 2050; this means in addition to replacing normal tree loss we need to plant an additional 3 million community trees.",
+        "location": "Tree Cover",
+        "relevant_elements": ["4.1", "4.3"]
+      },
+      {
+        "text": "Ottherwise the next preference is corn. Iowa DNR professionals have observed an increase of nonnative invasive species in Iowa's forest ecosystems over the past decade. This trend is concerning to natural resource professionals across the state.",
+        "location": "Treefrogs",
+        "relevant_elements": ["3.7"]
+      },
+      {
+        "text": "Warming has caused shifts in community composition through impacts like: Bur Oak Blight spreads faster during wetter spring seasons...changing average annual precipitation amounts will likely cause a shift in overall forest composition towards species that are more drought and flood tolerant.",
+        "location": "Plant Hardiness Zones",
+        "relevant_elements": ["3.7"]
+      },
+      {
+        "text": "The IUCF program combines federal, state, and other funds to provide support and technical assistance to over 350 Iowa communities annually. Grants are offered to communities throughout the state to increase tree canopy and improve urban forest resources. Partnerships with cities, counties and non-profit organizations enhance and broaden the impact of the IUCF program.",
+        "location": "Managing the Urban and Community Forest Resource",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "The Resource Enhancement and Protection (REAP) Fund is a program that the State of Iowa invests from the Environment First Fund and is authorized to receive $20 million annually until 2021.",
+        "location": "Iowa's Resource Enhancement and Protection Fund",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "Since 2010, Iowa's REAP program has provided funding to over 5,000 forest landowners for reforestation or improvement projects on 41,000 acres of Iowa woodlands.",
+        "location": "Iowa's Resource Enhancement and Protection Fund",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "Actively managing forestlands will allow trees to grow larger and retain the forest as forest, thereby maintaining the existing forest carbon pools...Based on high future carbon emission projections, it is vital that work is done to conserve and grow these important carbon systems and sinks.",
+        "location": "Carbon Storage and Sequestration / Goals",
+        "relevant_elements": ["2.3", "4.3"]
+      }
+    ]
+  },
+  "concepts": {
+    "climate_vulnerability": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "As average annual temperature increases, native trees and other vegetation will become stressed and cease to thrive. Native habitats will slowly disappear as most plants will not be able to adapt to this rapid change.",
+          "location": "Projected Change in Temperature, Plant Hardiness Zones, and Growing Degree Days",
+          "sub_component": "exposure",
+          "citations": []
+        },
+        {
+          "text": "Iowa will begin to see species more common in the southern U.S. moving into the southern portion of the state while species that were once well suited to the climate in the northern portion will struggle to adapt.",
+          "location": "Plant Hardiness Zones",
+          "sub_component": "exposure",
+          "citations": []
+        }
+      ],
+      "absence_note": "The document discusses climate exposure (projected temperature increase of 10°F, precipitation changes, plant hardiness zone shifts) and notes that species will struggle to adapt, implying limited adaptive capacity. However, adaptive capacity is not explicitly developed as a distinct concept; the document does not operationally discuss adaptive capacity components for the focal species/habitats. Score is 2 (exposure only) rather than 3."
+    },
+    "adaptive_capacity_specificity": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Some tree species are not well equipped to handle droughts, which will be more frequent in the future, resulting in higher tree mortality. In addition, changing average annual precipitation amounts will likely cause a shift in overall forest composition towards species that are more drought and flood tolerant.",
+          "location": "Plant Hardiness Zones",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document references inability to adapt in passing and implies abiotic niche limitations, but does not operationalize adaptive capacity with named components. Score 1."
+    },
+    "adaptive_capacity_components": {
+      "demography": {
+        "present": false,
+        "evidence": []
+      },
+      "distribution": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Iowa will begin to see species more common in the southern U.S. moving into the southern portion of the state while species that were once well suited to the climate in the northern portion will struggle to adapt.",
+            "location": "Plant Hardiness Zones",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "movement": {
+        "present": false,
+        "evidence": []
+      },
+      "evolutionary_potential": {
+        "present": false,
+        "evidence": []
+      },
+      "ecological_dependencies": {
+        "present": false,
+        "evidence": []
+      },
+      "abiotic_niche": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "This will result in tree species that could at one time tolerate the climate of southern Iowa, becoming stressed or even dying due to the change in climate.",
+            "location": "Plant Hardiness Zones",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "life_history": {
+        "present": false,
+        "evidence": []
+      }
+    },
+    "connectivity": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "The Nature Conservancy (TNC) has lead an over 10-year initiative in partnership with over 150 scientists from agencies, academia, and non-governmental organizations across the United States to develop a dataset that interprets the resiliency and connectivity of landscapes in relation to climate change.",
+          "location": "Resilient and Connected Landscapes",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "The outcome of this project is TNC's Resilient and Connected Landscapes database. This is a 'proposed conservation network of representative climate-resilient sites designed to sustain biodiversity and ecological functions into the future under a changing climate.'",
+          "location": "Resilient and Connected Landscapes",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    }
+  },
+  "tools": {
+    "vulnerability_models": {
+      "evaluable": true,
+      "score": 0,
+      "named_tools": [],
+      "evidence": [],
+      "absence_note": "No vulnerability models (CCVI, PVA, etc.) are referenced in the document."
+    },
+    "niche_models": {
+      "evaluable": true,
+      "score": 0,
+      "named_tools": [],
+      "evidence": [],
+      "absence_note": "No species distribution models or niche models (MaxEnt, SDMs, etc.) are referenced."
+    },
+    "climate_models": {
+      "evaluable": true,
+      "score": 2,
+      "named_tools": ["USDA Forest Service National Forest Climate Change Maps"],
+      "evidence": [
+        {
+          "text": "According to the USDA Forest Service National Forest Climate Change map projections (2071-2090), the average annual temperature in Iowa will increase by approximately 10° F.",
+          "location": "Projected Change in Temperature, Plant Hardiness Zones, and Growing Degree Days",
+          "sub_component": null,
+          "citations": ["USDA Forest Service National Forest Climate Change Maps"]
+        },
+        {
+          "text": "According to the USDA Forest Service National Forest Climate Change Maps project, precipitation across Iowa will increase between 4-8% based on a future projection for 2071-2090.",
+          "location": "Growing Degree Days",
+          "sub_component": null,
+          "citations": ["USDA Forest Service National Forest Climate Change Maps"]
+        },
+        {
+          "text": "In future projection models (2070-2099) with medium emission rates GDD are expected to be between 3000-3999 for almost all of the state, with the exception of a few small pockets.",
+          "location": "Growing Degree Days",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {},
+      "time_horizon_years": [2071, 2090, 2099],
+      "emission_scenarios": ["medium emission rates"]
+    },
+    "connectivity_models": {
+      "evaluable": true,
+      "score": 2,
+      "named_tools": ["TNC Resilient and Connected Landscapes"],
+      "evidence": [
+        {
+          "text": "The Nature Conservancy (TNC) has lead an over 10-year initiative in partnership with over 150 scientists from agencies, academia, and non-governmental organizations across the United States to develop a dataset that interprets the resiliency and connectivity of landscapes in relation to climate change.",
+          "location": "Resilient and Connected Landscapes",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Overall resiliency and connectedness of landscapes can best be evaluated by looking at multiple criteria. TNC combined resilient landscapes, regional flow of species and landscapes, and levels of biodiversity. Areas with recognized resilience, flow, and biodiversity are some of the most important and impactful areas for conservation.",
+          "location": "Resilient and Connected Network",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "TNC's Resilient and Connected Landscapes project applies connectivity and resilience modeling to Iowa's landscapes in support of conservation priority-setting, qualifying as applied. The underlying algorithm is not named but the output is explicitly incorporated into the plan's spatial priorities."
+    }
+  },
+  "context": {
+    "management_scale": {
+      "local": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Sites that have more elevation changes will provide pockets of climate resilience for plants and wildlife, slowing the rate of regional climatic change. Areas of high landscape diversity are priority areas for conservation practices in Iowa.",
+            "location": "Landscape Diversity",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "site": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Wildlife -emphasis on including forested lands of any size or location where occurrences of Threatened, Endangered, or Species of Conservation Need are known to exist using Natural Areas Inventory (NAI) database",
+            "location": "Forest Stewardship Program Priority Lands",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "watershed": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Water quality -emphasis on lands located in or near riparian zones and forested wetlands, state-designated Protected Water Areas (PWAs), and priority watersheds such as Significant Publicly-Owned Lakes and impaired waterbodies",
+            "location": "Forest Stewardship Program Priority Lands",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "city": {
+        "present": false,
+        "evidence": []
+      },
+      "county": {
+        "present": false,
+        "evidence": []
+      },
+      "within_state_region": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Iowa will begin to see species more common in the southern U.S. moving into the southern portion of the state while species that were once well suited to the climate in the northern portion will struggle to adapt.",
+            "location": "Plant Hardiness Zones",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "state": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "In August 2020, Iowa developed an updated statewide GIS coverage of its Forest Stewardship Priority",
+            "location": "Forest Stewardship Program Priority Lands",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "multistate": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "In addition to priority areas identified elsewhere in this Action Plan, there are several Multi-State Priority Areas and regional partnerships that Iowa is included in. These priority areas identify ecosystems, watersheds, or other geographical regions that offer significant impact or value to be preserved.",
+            "location": "Multi-State Priority Areas & Partnerships",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "national": {
+        "present": false,
+        "evidence": []
+      },
+      "transnational": {
+        "present": false,
+        "evidence": []
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Iowa's native oak woodlands, savannas, and prairies are fire-dependent ecosystems. Natural resource managers have developed a renewed interest in utilizing prescribed fire to maintain, enhance and restore these systems.",
+            "location": "Prescribed Fire",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecoregion": {
+        "present": false,
+        "evidence": []
+      },
+      "province": {
+        "present": false,
+        "evidence": []
+      },
+      "section": {
+        "present": false,
+        "evidence": []
+      },
+      "subsection": {
+        "present": false,
+        "evidence": []
+      },
+      "lake": {
+        "present": false,
+        "evidence": []
+      },
+      "river": {
+        "present": false,
+        "evidence": []
+      },
+      "district": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["Driftless Area", "Loess Hills", "Des Moines Lobe", "Mississippi River Basin", "Missouri River Corridor"]
+    },
+    "biological_unit_score": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Iowa will begin to see species more common in the southern U.S. moving into the southern portion of the state while species that were once well suited to the climate in the northern portion will struggle to adapt.",
+          "location": "Plant Hardiness Zones",
+          "sub_component": "species",
+          "citations": []
+        },
+        {
+          "text": "changing average annual precipitation amounts will likely cause a shift in overall forest composition towards species that are more drought and flood tolerant.",
+          "location": "Plant Hardiness Zones",
+          "sub_component": "community",
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "biological_unit_components": {
+      "species": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Iowa will begin to see species more common in the southern U.S. moving into the southern portion of the state while species that were once well suited to the climate in the northern portion will struggle to adapt.",
+            "location": "Plant Hardiness Zones",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "population": {
+        "present": false,
+        "evidence": []
+      },
+      "habitat": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Native habitats will slowly disappear as most plants will not be able to adapt to this rapid change.",
+            "location": "Projected Change in Temperature, Plant Hardiness Zones, and Growing Degree Days",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecosystem": {
+        "present": false,
+        "evidence": []
+      },
+      "community": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "changing average annual precipitation amounts will likely cause a shift in overall forest composition towards species that are more drought and flood tolerant.",
+            "location": "Plant Hardiness Zones",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "genotype_phenotype": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["oak-hickory forest", "bur oak", "native tree species", "Species of Greatest Conservation Need (SGCN)", "Cerulean Warbler", "American Woodcock", "Northern Long-eared Bat", "gray treefrog"]
+    },
+    "partnerships_and_funding": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "The Resource Enhancement and Protection (REAP) Fund is a program that the State of Iowa invests from the Environment First Fund and is authorized to receive $20 million annually until 2021.",
+          "location": "Iowa's Resource Enhancement and Protection Fund",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "In addition to priority areas identified elsewhere in this Action Plan, there are several Multi-State Priority Areas and regional partnerships that Iowa is included in.",
+          "location": "Multi-State Priority Areas & Partnerships",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document describes funding programs (REAP, NRCS cost share, Forest Legacy Program) and partnerships (TNC, USDA Forest Service, urban tree councils) but these are not specifically dedicated to range-shift work; they address general forest management and habitat conservation. For range-shift specific work, the connection is implicit at best. Score 1 for some aspirational/general investment rather than strategic investment in range-shift actions specifically."
+    },
+    "climate_threat_habitat_degradation": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "These changing climatic conditions will add stress to existing plant life and may cause a shift in species location and quantities.",
+          "location": "Growing Degree Days",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "A projected increase in annual precipitation of up to 8% will affect the health and composition of trees and forests in Iowa. Bur Oak Blight spreads faster during wetter spring seasons, leading to a prediction that Bur Oak Blight will be more prevalent in the future due to higher rainfall totals.",
+          "location": "Plant Hardiness Zones",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_threat_species_vital_rates": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Some tree species are not well equipped to handle droughts, which will be more frequent in the future, resulting in higher tree mortality.",
+          "location": "Plant Hardiness Zones",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The framing 'resulting in higher tree mortality' under climate-driven drought is a direct vital rate effect (mortality). This qualifies as climate event → impact on vital rate."
+    },
+    "climate_threat_biotic_stressors": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "changing average annual precipitation amounts will likely cause a shift in overall forest composition towards species that are more drought and flood tolerant.",
+          "location": "Plant Hardiness Zones",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document discusses climate-driven shifts in community composition (toward drought/flood-tolerant species) as a climate-driven biotic stressor. Bur Oak Blight becoming more prevalent due to wetter conditions could also be read as a climate-favored pathogen, but the framing stops short of explicitly calling it climate-mediated in a range-shift context."
+    }
+  },
+  "actions": {
+    "priority_habitat_identification": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "The project also maps areas of high biodiversity, areas of land that will be most resilient to future climate conditions, and highlights connected lands between these resilient landscapes. All of this data combine helps to create priority areas for conservation work that would have the highest impact now and into the future for plant and animal species as well as environmental benefits.",
+          "location": "Resilient and Connected Landscapes",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "In August 2020, Iowa developed an updated statewide GIS coverage of its Forest Stewardship Priority. The following variables were included in the development of Iowa's FSP Priority Lands coverage",
+          "location": "Forest Stewardship Program Priority Lands",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "TNC's Resilient and Connected Landscapes dataset is explicitly used as a basis for spatial priority-setting for conservation in Iowa. The document also describes GIS-based priority lands mapping. Both qualify as spatial representation of priority areas in a climate context."
+    },
+    "targeted_range_shift_actions": {
+      "evaluable": true,
+      "score": 0,
+      "evidence": [],
+      "absence_note": "The document discusses climate-driven species range shifts as a future phenomenon but does not propose specific targeted actions to facilitate, prevent, or respond to those shifts (e.g., assisted migration, climate corridor construction, translocation). General forest management actions (prescribed fire, timber stand improvement) are described without climate-shift framing. The mention of 'assisted migrations' under Non-timber Forest Products appears to refer to plant propagation/farming, not climate-motivated species translocation."
+    },
+    "time_bound_and_monitoring": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "In partnership with the Iowa Urban Tree Council the state has set a goal to increase canopy cover by 3% by 2050; this means in addition to replacing normal tree loss we need to plant an additional 3 million community trees.",
+          "location": "Tree Cover",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document includes a time-bound goal (3% canopy increase by 2050). However, the plan's action tables/strategies do not attach specific deadlines to individual conservation actions, and effectiveness monitoring tied to specific actions is not described. Score 1 for having a plan-level target with a deadline, but lacking action-level deadlines and effectiveness monitoring."
+    },
+    "evidence_of_efficacy": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "1. Use science-based techniques and technologies that are implementable, adaptive, and sustainable",
+          "location": "Goals and Strategies",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document claims to use 'science-based techniques' without presenting evidence for the efficacy of specific actions in a range-shift context. General rationale for forest management (diversity, prescribed fire) is presented as first principles without citation to studies testing efficacy of actions for climate adaptation. Score 1.",
+      "projects": []
+    },
+    "adaptation_planning_frameworks": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "The Nature Conservancy (TNC) has lead an over 10-year initiative in partnership with over 150 scientists from agencies, academia, and non-governmental organizations across the United States to develop a dataset that interprets the resiliency and connectivity of landscapes in relation to climate change.",
+          "location": "Resilient and Connected Landscapes",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document references TNC's Resilient and Connected Landscapes framework as a tool to identify priority areas under climate change, which is an adaptation planning tool. However, no named adaptation planning frameworks (RAD, RRT, CCVA, SBDA, structured decision making, adaptation menu) are explicitly invoked. The use of TNC's framework counts as a non-specific reference to climate adaptation planning (score 1). Score 2 would require reference to a named, specific adaptation planning process or tool."
+    }
+  },
+  "coding_meta": {
+    "coder": "llm:claude-sonnet-4-6",
+    "model": "claude-sonnet-4-6",
+    "provider": "claude",
+    "codebook_version": "0.4",
+    "ingest": "text",
+    "design": "single",
+    "temperature": null,
+    "thinking": null,
+    "thinking_effort": null,
+    "coded_at": "2026-07-07T00:31:30Z",
+    "notes": {}
+  }
+}

@@ -1,0 +1,796 @@
+{
+  "document_meta": {
+    "title": "2025-2035 Utah Wildlife Action Plan",
+    "year": 2025,
+    "jurisdiction": "Utah",
+    "document_type": "SWAP",
+    "document_id": "UT_SWAP_2025",
+    "page_count": 619
+  },
+  "orientation": {
+    "summary": "The 2025-2035 Utah Wildlife Action Plan (UWAP) is a comprehensive state wildlife action plan produced by the Utah Division of Wildlife Resources for the period 2025–2035. The document engages extensively with climate change as a major threat to species and habitats, dedicating a full chapter (Chapter 3, Climate Adaptation) to climate science, projections, and refugia identification. Regarding range shifts specifically, the plan discusses habitat shifting, range contractions for aquatic species under warming, elevational shifts, and identifies climate refugia using a spatial analysis (Marxan). The plan performs its own climate refugia analysis (Hammill et al. 2024) applied to Utah SGCN and key habitats, references RCP 4.5/8.5 projections, and incorporates TNC's Resilient and Connected Network tool. Much of the climate change analysis references external sources and previously published tools, but the refugia analysis is performed specifically for this plan.",
+    "evidence_index": [
+      {
+        "text": "Incorporated climate adaptation throughout all eight required elements. Added a climate adaptation chapter. Identified Utah climate refugia at a Hydrologic Unit Code (HUC) 12 scale.",
+        "location": "Other Updates",
+        "relevant_elements": ["1.1", "4.1", "4.5"]
+      },
+      {
+        "text": "The impacts of climate change extend beyond environmental shifts; these impacts are crucially affecting resources essential for Utah's communities and health, including food production, water availability, and biodiversity (IPCC 2023). Additionally, climate change influences the spread of infectious diseases, exacerbates extreme weather events, alters species' ranges and seasonal timing, and disrupts ecosystem structures.",
+        "location": "Chapter 3, Introduction",
+        "relevant_elements": ["1.1", "3.5", "3.7"]
+      },
+      {
+        "text": "This guidance is broken into seven principles for incorporating climate change into state wildlife action plans: 1) fully integrate climate change into state wildlife action plans; 2) adopt forward-looking goals; 3) explicitly link actions to climate vulnerabilities; 4) manage for change, not just persistence; 5) consider broader landscapes and longer time frames; 6) address uncertainty by considering future scenarios and use of adaptive management; and 7) engage diverse partners with climate experience and expertise.",
+        "location": "Chapter 3, Introduction",
+        "relevant_elements": ["1.1", "4.5"]
+      },
+      {
+        "text": "Climate change affects seasonal temperatures and precipitation (timing, amount, duration, and severity), which in turn shifts the habitats that may be suitable for certain species. This includes rising water temperatures, which threaten sensitive aquatic species, and shifting terrestrial habitats, which are being affected by habitat encroachment due to increased woody vegetation.",
+        "location": "Chapter 3, Threats",
+        "relevant_elements": ["1.1", "3.5", "3.6"]
+      },
+      {
+        "text": "Species with low adaptive capacity such as those with specialized habitat needs or limited dispersal ability face higher vulnerability to these changes.",
+        "location": "Chapter 4, Ecosystem Encroachment",
+        "relevant_elements": ["1.1", "1.2", "1.3"]
+      },
+      {
+        "text": "Understanding why species and ecosystems are vulnerable or potentially less resilient is a critical first step in developing effective conservation strategies. This vulnerability is based on sensitivity, exposure, and the ability to adapt.",
+        "location": "Chapter 3, Introduction",
+        "relevant_elements": ["1.1", "1.2"]
+      },
+      {
+        "text": "Evaluate climate vulnerability of SGCNs using the Climate Change Vulnerability Index (NatureServe 2024c).",
+        "location": "Chapter 3, Long-Term Climate Goals",
+        "relevant_elements": ["1.1", "2.1"]
+      },
+      {
+        "text": "SGCNs that fall into the realm of natural rarity or small isolated populations are likely to be most vulnerable to impacts associated with climate change, and mechanisms to promote their survival (e.g., facilitated translocations to establish refuge populations) may run into political resistance.",
+        "location": "Chapter 4, Climate Change",
+        "relevant_elements": ["1.1", "1.2", "4.2"]
+      },
+      {
+        "text": "Many fish distributions retract from the warmer lowlands and are limited to cool temperature refugia such as higher elevations or reaches with cold spring inflows, and thus available habitat and connectivity between drainages may be lost. This results in smaller, more fragmented populations that may not be able to recover naturally from catastrophic disturbances.",
+        "location": "Chapter 4, Ecosystem Encroachment",
+        "relevant_elements": ["1.1", "1.2", "1.3", "1.4"]
+      },
+      {
+        "text": "Utah's wide range of elevational diversity presents numerous opportunities for plant, insect, and animal species to shift their ranges upslope in response to warmer temperatures, specifically increasing stream temperatures. Similarly, with more than 70% of the state's total acreage in public ownership, northward migrations of species and communities in response to climate change are a real possibility.",
+        "location": "Chapter 4, Ecosystem Encroachment",
+        "relevant_elements": ["1.1", "1.3", "4.2"]
+      },
+      {
+        "text": "Improve resilience: remove or reduce impediments to species movement as their habitats shift. Improve resistance: reduce the rate or severity of habitat shifting itself, so that species can remain in place longer if it is difficult or impossible for them to move.",
+        "location": "Chapter 4, Ecosystem Encroachment",
+        "relevant_elements": ["1.2", "1.3", "1.4", "4.2"]
+      },
+      {
+        "text": "The Climate Adaptation Subcommittee worked with Dr. Edward Hammill of Utah State University to identify climate refugia in Utah (Figure 55). An analysis using the program Marxan was completed to identify Hydrologic Unit Code (HUC) 12 subwatersheds within Utah that were projected to be the least exposed to temperature increases at RCP 4.5 and also included at least 50% of the distribution of 2025 UWAP species of greatest conservation need.",
+        "location": "Chapter 3, Identifying Climate Refugia",
+        "relevant_elements": ["2.1", "2.3", "4.1"]
+      },
+      {
+        "text": "Looking ahead to 2100, under RCP 4.5 and RCP 8.5, summer temperatures in Utah are expected to rise by 3.4°F and 9.0°F, respectively (Figure 47).",
+        "location": "Chapter 3, Summer Temperatures",
+        "relevant_elements": ["2.3"]
+      },
+      {
+        "text": "By 2100, under the RCP 4.5 and RCP 8.5 emissions scenarios, winter temperatures in Utah are expected to rise by 3.8°F and 8.2°F, respectively (Figure 48).",
+        "location": "Chapter 3, Winter Temperatures",
+        "relevant_elements": ["2.3"]
+      },
+      {
+        "text": "These climate change scenarios are known as Representative Concentration Pathways (RCPs). The original four RCPs are RCP 2.6, 4.5, 6, and 8.5.",
+        "location": "Chapter 3, Summer Temperatures",
+        "relevant_elements": ["2.3"]
+      },
+      {
+        "text": "Species Distribution and Habitat Suitability Models (SDHMs) are being developed for many Utah SGCNs. SDHMs show a predicted suitable habitat for a species based on various biotic and abiotic environmental factors.",
+        "location": "Chapter 5, Species Distribution and Habitat Suitability Models",
+        "relevant_elements": ["2.2"]
+      },
+      {
+        "text": "SDHMs assess habitats' spatial arrangement and connectivity, identify crucial habitats, or describe the environmental conditions a species selects. SDHMs provide an understanding of the impacts of invasive species spread and identify suitable areas for species translocations or reintroductions.",
+        "location": "Chapter 5, Species Distribution and Habitat Suitability Models",
+        "relevant_elements": ["2.2"]
+      },
+      {
+        "text": "In 2016, The Nature Conservancy (TNC) released the first version of the resilient and connected network (RCN) analysis tool for terrestrial ecosystems (Anderson et al. 2023; TNC 2025a). The RCN is a spatial tool that provides an analysis at reasonable resolution (30-180 m) and identifies areas on the landscape that provide landscape resilience to climate change, areas with connectivity and flow.",
+        "location": "Chapter 3, The Nature Conservancy Strategies: Resilient Sites and Connected Landscapes",
+        "relevant_elements": ["2.4", "1.4"]
+      },
+      {
+        "text": "An analysis using the program Marxan was completed to identify Hydrologic Unit Code (HUC) 12 subwatersheds within Utah that were projected to be the least exposed to temperature increases at RCP 4.5 and also included at least 50% of the distribution of 2025 UWAP species of greatest conservation need (SGCN) and 50% of the UWAP key habitats.",
+        "location": "Chapter 3, Identifying Climate Refugia",
+        "relevant_elements": ["2.4", "2.3", "4.1"]
+      },
+      {
+        "text": "Riparian corridors also function as climate corridors, allowing species to move up in elevation in response to warming temperatures. Keep water temperature from rising beyond thresholds in which aquatic life may survive through streambank and riparian restoration; maintain water quantity and healthy riparian corridors.",
+        "location": "Chapter 3, Conservation Actions",
+        "relevant_elements": ["1.4", "4.2"]
+      },
+      {
+        "text": "The UWAP will guide partnership-driven, landscape-scale conservation work to help maintain the full array of Utah's native species and also improve habitat health.",
+        "location": "Introduction",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "The WRI is the primary vehicle for UWAP implementation. Over the past 30 years it has become apparent that reliable funding sources for the conservation of fish, wildlife, plants, and invertebrates are needed... Since 2005, the WRI and partners have completed over 2,700 projects and provided over $350 million dollars in funding that has improved 2.5 million acres of priority watersheds.",
+        "location": "Introduction, Wildlife Funding",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "There have been over 700 partners (2006-2022) that have provided funding to and submitted projects through the WRI. Including all funding sources, the annual budget of the WRI is over $30 million (Eddington 2024).",
+        "location": "Chapter 3, Making Climate Actionable Through Utah Division of Wildlife Resources' Watershed Restoration Initiative",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "Generally, higher temperatures, declining snowpack, and reduced late-summer stream flow in Utah will alter the mosaic of existing habitats. For instance, these conditions will likely extend the Great Basin Desert to higher elevations and expand its geographic range. At the same time, habitats above tree line will contract as downslope tree species shift uphill.",
+        "location": "Chapter 3, Wildfire",
+        "relevant_elements": ["3.5", "1.1"]
+      },
+      {
+        "text": "As temperatures continue to rise and fuel becomes drier, the frequency and severity of large fires in Utah will likely increase. Changes in fire regime affect habitat by altering the structure and type of vegetation.",
+        "location": "Chapter 3, Wildfire",
+        "relevant_elements": ["3.5", "3.6"]
+      },
+      {
+        "text": "Droughts have intensified across the state, and it is predicted that more water will fall as rain rather than snow in the near future (Hegewisch and Abatzoglou 2024a, 2024b). Aquatic habitats within Utah are highly impacted by drought and need to be protected to provide an essential refuge from these climatic shifts.",
+        "location": "Species, Overview of Utah",
+        "relevant_elements": ["3.5"]
+      },
+      {
+        "text": "Stream temperatures have been rising throughout the West because of drought, diversions, reduced snowpack, decreased spring runoff, and loss of riparian habitat that provides shade. As temperatures warm beyond tolerable ranges, populations of aquatic insects and other macroinvertebrates are particularly impacted, both in abundance and diversity.",
+        "location": "Chapter 4, Ecosystem Encroachment",
+        "relevant_elements": ["3.6", "3.5"]
+      },
+      {
+        "text": "Studies indicate that suitable habitat for native trout could decline by as much as 60% by 2080 (Wenger et al. 2011). Native trout management will need to consider warming stream temperatures when prioritizing projects.",
+        "location": "Chapter 4, Climate Change and Increasing Stream Temperatures Limit Native Trout Distribution",
+        "relevant_elements": ["3.6", "1.1"]
+      },
+      {
+        "text": "Altered climate conditions may increase the vulnerability of SGCNs to threats posed by invasive non-native species and may promote invasion, establishment, and competitive advantage of alien species to the detriment of SGCNs.",
+        "location": "Chapter 4, Climate Change",
+        "relevant_elements": ["3.7"]
+      },
+      {
+        "text": "Historic overgrazing and other factors such as altered fire regimes and climate change have contributed to current habitat challenges. Cheatgrass was introduced to Utah in the mid-1800s by European settlers and was able to fill the void left by overgrazing.",
+        "location": "Chapter 4, Case Study: The Invasion of Cheatgrass",
+        "relevant_elements": ["3.7"]
+      },
+      {
+        "text": "The identified HUC-12s highlight areas in the state that support SGCNs and key habitats while being less exposed to the impacts of climate change. Therefore, focusing landscape restoration projects in these areas should retain the highest benefits over time.",
+        "location": "Chapter 3, Identifying Climate Refugia",
+        "relevant_elements": ["4.1", "2.3"]
+      },
+      {
+        "text": "Expand the climate refugia analysis to include other risk layers (e.g., fire, industry, development) and SGCN habitat connectivity and movement needs to better identify true Conservation Opportunity Areas to help focus limited funding into the most important conservation areas identified in the UWAP.",
+        "location": "Chapter 3, Long-Term Climate Goals",
+        "relevant_elements": ["4.1", "4.5"]
+      },
+      {
+        "text": "Identify and maintain wildlife migration corridors and protected buffers around populations of SGCN/SGINs that may need to move across the landscape or up or down in elevation.",
+        "location": "Chapter 4, Essential Conservation Actions, Renewable Energy",
+        "relevant_elements": ["4.2", "1.4"]
+      },
+      {
+        "text": "Assist wildlife or plant migration in anticipation of climate change. Establish nurseries, refuge populations, hatcheries, etc., to support management.",
+        "location": "Appendix E, Conservation Actions",
+        "relevant_elements": ["4.2"]
+      },
+      {
+        "text": "mechanisms to promote their survival (e.g., facilitated translocations to establish refuge populations) may run into political resistance (for example, the resistance to moving Utah prairie dogs across county borders).",
+        "location": "Chapter 4, Climate Change",
+        "relevant_elements": ["4.2"]
+      },
+      {
+        "text": "The UWAP will drive native species management and conservation in Utah for the next 10 years, from 2025 to 2035. The UWAP Core Team recommends submitting minor amendments as needed to keep the UWAP updated and relevant between comprehensive revisions.",
+        "location": "Introduction, Approach Review and Revision",
+        "relevant_elements": ["4.3"]
+      },
+      {
+        "text": "Monitoring: The provisions for periodic monitoring of SGCN and their habitats, for monitoring the effectiveness of conservation actions, and for adapting conservation actions as appropriate to respond to new information or changing conditions.",
+        "location": "National Requirements and Guidance",
+        "relevant_elements": ["4.3"]
+      },
+      {
+        "text": "In some Utah SGCN trout habitats are already marginal for stream temperatures, consequently, putting time and money into these reaches will ultimately be a waste of resources if these habitats are lost in the near future from rising stream temperatures. In Utah, additional fine-scale modeling is needed to determine more realistic impacts from rising stream temperatures.",
+        "location": "Chapter 4, Case Study: Climate Change and Increasing Stream Temperatures Limit Native Trout Distribution",
+        "relevant_elements": ["4.4", "2.2"]
+      },
+      {
+        "text": "DWR will reduce big game permits, redirect fish stockings away from waters being impacted by low water levels, increase fishery creel limits in waters that likely will be lost due limited water, and transport water to guzzlers in dry habitats to ensure terrestrial wildlife have water.",
+        "location": "Chapter 4, Case Study: Extended Droughts Will Become More Frequent",
+        "relevant_elements": ["4.4"]
+      },
+      {
+        "text": "The Association of Fish and Wildlife Agencies (2022) outlines the foundational issues that fish and wildlife face because of climate change and provides resources to implement adaptive responses to this threat. This guidance is broken into seven principles for incorporating climate change into state wildlife action plans.",
+        "location": "Chapter 3, Introduction",
+        "relevant_elements": ["4.5"]
+      },
+      {
+        "text": "Align climate threats in Utah Division of Wildlife's Watershed Restoration Initiative (WRI) with solutions (e.g., incorporate climate resilience into best management practices and/or develop an adaptive climate resilience checklist for restoration projects).",
+        "location": "Chapter 3, Long-Term Climate Goals",
+        "relevant_elements": ["4.5"]
+      }
+    ]
+  },
+  "concepts": {
+    "climate_vulnerability": {
+      "evaluable": true,
+      "score": 3,
+      "evidence": [
+        {
+          "text": "Understanding why species and ecosystems are vulnerable or potentially less resilient is a critical first step in developing effective conservation strategies. This vulnerability is based on sensitivity, exposure, and the ability to adapt.",
+          "location": "Chapter 3, Introduction",
+          "sub_component": "exposure and adaptive capacity",
+          "citations": []
+        },
+        {
+          "text": "Species with low adaptive capacity such as those with specialized habitat needs or limited dispersal ability face higher vulnerability to these changes.",
+          "location": "Chapter 4, Ecosystem Encroachment",
+          "sub_component": "adaptive capacity",
+          "citations": []
+        },
+        {
+          "text": "Many fish distributions retract from the warmer lowlands and are limited to cool temperature refugia such as higher elevations or reaches with cold spring inflows, and thus available habitat and connectivity between drainages may be lost.",
+          "location": "Chapter 4, Ecosystem Encroachment",
+          "sub_component": "exposure",
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "adaptive_capacity_specificity": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Species with low adaptive capacity such as those with specialized habitat needs or limited dispersal ability face higher vulnerability to these changes.",
+          "location": "Chapter 4, Ecosystem Encroachment",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Improve resilience: remove or reduce impediments to species movement as their habitats shift. Improve resistance: reduce the rate or severity of habitat shifting itself, so that species can remain in place longer if it is difficult or impossible for them to move.",
+          "location": "Chapter 4, Ecosystem Encroachment",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "adaptive_capacity_components": {
+      "demography": {
+        "present": false,
+        "evidence": []
+      },
+      "distribution": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Utah's wide range of elevational diversity presents numerous opportunities for plant, insect, and animal species to shift their ranges upslope in response to warmer temperatures, specifically increasing stream temperatures. Similarly, with more than 70% of the state's total acreage in public ownership, northward migrations of species and communities in response to climate change are a real possibility.",
+            "location": "Chapter 4, Ecosystem Encroachment",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "movement": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Species with low adaptive capacity such as those with specialized habitat needs or limited dispersal ability face higher vulnerability to these changes.",
+            "location": "Chapter 4, Ecosystem Encroachment",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "evolutionary_potential": {
+        "present": false,
+        "evidence": []
+      },
+      "ecological_dependencies": {
+        "present": false,
+        "evidence": []
+      },
+      "abiotic_niche": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Many aquatic species have a narrow temperature range in which they can persist. Stream temperatures have been rising throughout the West because of drought, diversions, reduced snowpack, decreased spring runoff, and loss of riparian habitat that provides shade.",
+            "location": "Chapter 4, Ecosystem Encroachment",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "life_history": {
+        "present": false,
+        "evidence": []
+      }
+    },
+    "connectivity": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Riparian corridors also function as climate corridors, allowing species to move up in elevation in response to warming temperatures. Keep water temperature from rising beyond thresholds in which aquatic life may survive through streambank and riparian restoration; maintain water quantity and healthy riparian corridors.",
+          "location": "Chapter 3, Conservation Actions",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Identify and maintain wildlife migration corridors and protected buffers around populations of SGCN/SGINs that may need to move across the landscape or up or down in elevation.",
+          "location": "Chapter 4, Essential Conservation Actions, Renewable Energy",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    }
+  },
+  "tools": {
+    "vulnerability_models": {
+      "evaluable": true,
+      "score": 1,
+      "named_tools": ["CCVI", "Climate Change Vulnerability Index"],
+      "evidence": [
+        {
+          "text": "Evaluate climate vulnerability of SGCNs using the Climate Change Vulnerability Index (NatureServe 2024c).",
+          "location": "Chapter 3, Long-Term Climate Goals",
+          "sub_component": null,
+          "citations": ["NatureServe 2024c"]
+        }
+      ],
+      "absence_note": "The CCVI is identified as a long-term goal not yet achieved for the 2025 UWAP. The document also references the U.S. Forest Service conducting climate change vulnerability assessments (Ch. 3), but these are not applied to Utah SGCN. Score is 1 (referenced generally/recommended for future use), not 2."
+    },
+    "niche_models": {
+      "evaluable": true,
+      "score": 2,
+      "named_tools": ["SDHMs", "Species Distribution and Habitat Suitability Models"],
+      "evidence": [
+        {
+          "text": "Species Distribution and Habitat Suitability Models (SDHMs) are being developed for many Utah SGCNs. SDHMs show a predicted suitable habitat for a species based on various biotic and abiotic environmental factors.",
+          "location": "Chapter 5, Species Distribution and Habitat Suitability Models",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "SDHMs are present in the DWR Wildlife Habitat Analysis Tool to help inform project managers (DWR 2024a). SDHMs assess habitats' spatial arrangement and connectivity, identify crucial habitats, or describe the environmental conditions a species selects.",
+          "location": "Chapter 5, Species Distribution and Habitat Suitability Models",
+          "sub_component": null,
+          "citations": ["DWR 2024a"]
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_models": {
+      "evaluable": true,
+      "score": 2,
+      "named_tools": ["RCP 4.5", "RCP 8.5", "Climate Toolbox"],
+      "evidence": [
+        {
+          "text": "Looking ahead to 2100, under RCP 4.5 and RCP 8.5, summer temperatures in Utah are expected to rise by 3.4°F and 9.0°F, respectively.",
+          "location": "Chapter 3, Summer Temperatures",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "An analysis using the program Marxan was completed to identify Hydrologic Unit Code (HUC) 12 subwatersheds within Utah that were projected to be the least exposed to temperature increases at RCP 4.5 and also included at least 50% of the distribution of 2025 UWAP species of greatest conservation need (SGCN).",
+          "location": "Chapter 3, Identifying Climate Refugia",
+          "sub_component": null,
+          "citations": ["Hammill et al. 2024"]
+        }
+      ],
+      "absence_note": {},
+      "time_horizon_years": [2100],
+      "emission_scenarios": ["RCP 4.5", "RCP 8.5"]
+    },
+    "connectivity_models": {
+      "evaluable": true,
+      "score": 2,
+      "named_tools": ["Marxan", "Resilient and Connected Network (RCN)", "Landscape Conservation Forecasting (LCF)"],
+      "evidence": [
+        {
+          "text": "An analysis using the program Marxan was completed to identify Hydrologic Unit Code (HUC) 12 subwatersheds within Utah that were projected to be the least exposed to temperature increases at RCP 4.5 and also included at least 50% of the distribution of 2025 UWAP species of greatest conservation need (SGCN) and 50% of the UWAP key habitats.",
+          "location": "Chapter 3, Identifying Climate Refugia",
+          "sub_component": null,
+          "citations": ["Hammill et al. 2024"]
+        },
+        {
+          "text": "The RCN is a spatial tool that provides an analysis at reasonable resolution (30-180 m [approximately 98-590 feet]) and identifies areas on the landscape that provide landscape resilience to climate change, areas with connectivity and flow, areas with recognized biodiversity.",
+          "location": "Chapter 3, The Nature Conservancy Strategies: Resilient Sites and Connected Landscapes",
+          "sub_component": null,
+          "citations": ["Anderson et al. 2023", "TNC 2025a"]
+        }
+      ],
+      "absence_note": {}
+    }
+  },
+  "context": {
+    "management_scale": {
+      "local": {
+        "present": false,
+        "evidence": []
+      },
+      "site": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The identified HUC-12s highlight areas in the state that support SGCNs and key habitats while being less exposed to the impacts of climate change. Therefore, focusing landscape restoration projects in these areas should retain the highest benefits over time.",
+            "location": "Chapter 3, Identifying Climate Refugia",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "watershed": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "An analysis using the program Marxan was completed to identify Hydrologic Unit Code (HUC) 12 subwatersheds within Utah that were projected to be the least exposed to temperature increases at RCP 4.5",
+            "location": "Chapter 3, Identifying Climate Refugia",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "city": {
+        "present": false,
+        "evidence": []
+      },
+      "county": {
+        "present": false,
+        "evidence": []
+      },
+      "within_state_region": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Utah is composed of arid deserts and canyonlands, salt flats, wetlands, semiarid shrublands, irrigated valleys, woodlands, forested mountains, and glaciated peaks, resulting in enormous ecological diversity and comprising seven EPA Level III ecoregions.",
+            "location": "Introduction, Ecoregions",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "state": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The UWAP addresses an expansive array of native wildlife and plant species, including mammals, birds, fish, insects, mollusks, crustaceans, amphibians, and reptiles, and their habitats across the entire state of Utah.",
+            "location": "Introduction, Utah's Perspective on the Utah Wildlife Action Plan",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "multistate": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Utah also has worked with surrounding states to strategize ways in which to use consistent categorizations to identify regional conservation priorities, species of greatest conservation need (SGCN), ecoregions, key habitats, shared resources, and cross-border management where appropriate.",
+            "location": "Introduction",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "national": {
+        "present": false,
+        "evidence": []
+      },
+      "transnational": {
+        "present": false,
+        "evidence": []
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Generally, higher temperatures, declining snowpack, and reduced late-summer stream flow in Utah will alter the mosaic of existing habitats. For instance, these conditions will likely extend the Great Basin Desert to higher elevations and expand its geographic range.",
+            "location": "Chapter 3, Wildfire",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecoregion": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Ecoregion designations are an important addition to the 2025 UWAP. The Core Team chose to include ecoregions in this revision to facilitate regional collaboration with SWAPs of other western states.",
+            "location": "Introduction, Ecoregions",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "province": {
+        "present": false,
+        "evidence": []
+      },
+      "section": {
+        "present": false,
+        "evidence": []
+      },
+      "subsection": {
+        "present": false,
+        "evidence": []
+      },
+      "lake": {
+        "present": false,
+        "evidence": []
+      },
+      "river": {
+        "present": false,
+        "evidence": []
+      },
+      "district": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["HUC-12 subwatersheds", "Great Salt Lake basin", "Colorado Plateau", "Wasatch and Uinta Mountains", "Central Basin and Range", "Colorado River Basin", "Weber River watershed"]
+    },
+    "biological_unit_score": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Utah's wide range of elevational diversity presents numerous opportunities for plant, insect, and animal species to shift their ranges upslope in response to warmer temperatures.",
+          "location": "Chapter 4, Ecosystem Encroachment",
+          "sub_component": "species",
+          "citations": []
+        },
+        {
+          "text": "Generally, higher temperatures, declining snowpack, and reduced late-summer stream flow in Utah will alter the mosaic of existing habitats. For instance, these conditions will likely extend the Great Basin Desert to higher elevations and expand its geographic range. At the same time, habitats above tree line will contract as downslope tree species shift uphill.",
+          "location": "Chapter 3, Wildfire",
+          "sub_component": "habitat",
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "biological_unit_components": {
+      "species": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Utah's wide range of elevational diversity presents numerous opportunities for plant, insect, and animal species to shift their ranges upslope in response to warmer temperatures, specifically increasing stream temperatures.",
+            "location": "Chapter 4, Ecosystem Encroachment",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "population": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "This results in smaller, more fragmented populations that may not be able to recover naturally from catastrophic disturbances.",
+            "location": "Chapter 4, Ecosystem Encroachment",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "habitat": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Generally, higher temperatures, declining snowpack, and reduced late-summer stream flow in Utah will alter the mosaic of existing habitats. For instance, these conditions will likely extend the Great Basin Desert to higher elevations and expand its geographic range. At the same time, habitats above tree line will contract as downslope tree species shift uphill.",
+            "location": "Chapter 3, Wildfire",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "climate change influences the spread of infectious diseases, exacerbates extreme weather events, alters species' ranges and seasonal timing, and disrupts ecosystem structures (IPCC 2023).",
+            "location": "Chapter 3, Introduction",
+            "sub_component": null,
+            "citations": ["IPCC 2023"]
+          }
+        ]
+      },
+      "community": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "northward migrations of species and communities in response to climate change are a real possibility.",
+            "location": "Chapter 4, Ecosystem Encroachment",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "genotype_phenotype": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["SGCN (Species of Greatest Conservation Need)", "native trout", "Bonneville cutthroat trout", "aquatic macroinvertebrates", "brine flies", "Wilson's phalarope", "Great Salt Lake ecosystem", "sagebrush habitat", "alpine habitat", "riparian habitat"]
+    },
+    "partnerships_and_funding": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "There have been over 700 partners (2006-2022) that have provided funding to and submitted projects through the WRI. Including all funding sources, the annual budget of the WRI is over $30 million (Eddington 2024).",
+          "location": "Chapter 3, Making Climate Actionable Through Utah Division of Wildlife Resources' Watershed Restoration Initiative",
+          "sub_component": null,
+          "citations": ["Eddington 2024"]
+        },
+        {
+          "text": "Since 2005, the WRI and partners have completed over 2,700 projects and provided over $350 million dollars in funding that has improved 2.5 million acres of priority watersheds in Utah.",
+          "location": "Introduction, Wildlife Funding",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_threat_habitat_degradation": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Generally, higher temperatures, declining snowpack, and reduced late-summer stream flow in Utah will alter the mosaic of existing habitats. For instance, these conditions will likely extend the Great Basin Desert to higher elevations and expand its geographic range. At the same time, habitats above tree line will contract as downslope tree species shift uphill.",
+          "location": "Chapter 3, Wildfire",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "As temperatures continue to rise and fuel becomes drier, the frequency and severity of large fires in Utah will likely increase. Changes in fire regime affect habitat by altering the structure and type of vegetation.",
+          "location": "Chapter 3, Wildfire",
+          "sub_component": null,
+          "citations": ["Agee 1993"]
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_threat_species_vital_rates": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Studies indicate that suitable habitat for native trout could decline by as much as 60% by 2080 (Wenger et al. 2011). Native trout management will need to consider warming stream temperatures when prioritizing projects. Some native trout habitats are already marginal for stream temperatures, consequently, putting time and money into these reaches will ultimately be a waste of resources if these habitats are lost in the near future from rising stream temperatures.",
+          "location": "Chapter 4, Case Study: Climate Change and Increasing Stream Temperatures Limit Native Trout Distribution",
+          "sub_component": null,
+          "citations": ["Wenger et al. 2011"]
+        }
+      ],
+      "absence_note": "The document discusses stream temperature increases affecting aquatic species distributions and abundance as a direct climate-driven threat. The GSL drought case study also describes mortality-level impacts (desiccation of microbialites, reduced brine fly populations threatening birds). The framing is direct enough to score 1."
+    },
+    "climate_threat_biotic_stressors": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Altered climate conditions may increase the vulnerability of SGCNs to threats posed by invasive non-native species and may promote invasion, establishment, and competitive advantage of alien species to the detriment of SGCNs.",
+          "location": "Chapter 4, Climate Change",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    }
+  },
+  "actions": {
+    "priority_habitat_identification": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "The Climate Adaptation Subcommittee worked with Dr. Edward Hammill of Utah State University to identify climate refugia in Utah (Figure 55). An analysis using the program Marxan was completed to identify Hydrologic Unit Code (HUC) 12 subwatersheds within Utah that were projected to be the least exposed to temperature increases at RCP 4.5 and also included at least 50% of the distribution of 2025 UWAP species of greatest conservation need (SGCN) and 50% of the UWAP key habitats. Figure 55 presents the analysis results for all SGCNs.",
+          "location": "Chapter 3, Identifying Climate Refugia",
+          "sub_component": null,
+          "citations": ["Hammill et al. 2024"]
+        },
+        {
+          "text": "The identified HUC-12s highlight areas in the state that support SGCNs and key habitats while being less exposed to the impacts of climate change. Therefore, focusing landscape restoration projects in these areas should retain the highest benefits over time.",
+          "location": "Chapter 3, Identifying Climate Refugia",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "targeted_range_shift_actions": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Assist wildlife or plant migration in anticipation of climate change. Establish nurseries, refuge populations, hatcheries, etc., to support management.",
+          "location": "Appendix E, Conservation Actions",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document includes language about 'assisted migration in anticipation of climate change' and 'facilitated translocations to establish refuge populations' in climate contexts. It also includes action 2.1.6: 'Identify and maintain wildlife migration corridors and protected buffers around populations of SGCNs that may need to move up or down in elevation in response to climate change.' Both structural facilitation (corridors for climate-driven shifts) and direct manipulation (assisted migration) are mentioned with climate framing."
+    },
+    "time_bound_and_monitoring": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "The UWAP will drive native species management and conservation in Utah for the next 10 years, from 2025 to 2035.",
+          "location": "Introduction, Approach Review and Revision",
+          "sub_component": "time-bound",
+          "citations": []
+        },
+        {
+          "text": "Monitoring: The provisions for periodic monitoring of SGCN and their habitats, for monitoring the effectiveness of conservation actions, and for adapting conservation actions as appropriate to respond to new information or changing conditions.",
+          "location": "National Requirements and Guidance",
+          "sub_component": "effectiveness monitoring",
+          "citations": []
+        },
+        {
+          "text": "The Core Team will meet each year to coordinate UWAP implementation and prioritize conservation actions. If new threats to SGCNs or key habitats arise, these threats will be incorporated into the appropriate threat assessments.",
+          "location": "Chapter 5, Measuring the Effectiveness of Conservation Actions",
+          "sub_component": "effectiveness monitoring",
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "evidence_of_efficacy": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Phase I of the U.S. Highway 89 Kanab-Paunsaugunt Wildlife Crossing Project was reported as 'one of the most successful mule deer mitigation projects in all of North America' (Cramer and Hamlin 2019). The project is a great example of what partners can accomplish when they come together to collaborate to find solutions.",
+          "location": "Chapter 4, Transportation and Service Corridors, Case Study",
+          "sub_component": null,
+          "citations": ["Cramer and Hamlin 2019"]
+        },
+        {
+          "text": "In Utah, additional fine-scale modeling is needed to determine more realistic impacts from rising stream temperatures. These analyses will allow resource managers to better focus on habitats where native trout will be able to persist into the future. Additional restoration of these habitats such as improvement of riparian vegetation and riffle-to-pool ratios, non-native trout eradication, and restoring connectivity will allow native trout to persist in light of climate change and increasing stream temperatures.",
+          "location": "Chapter 4, Case Study: Climate Change and Increasing Stream Temperatures Limit Native Trout Distribution",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The plan presents several case studies with monitoring results that provide limited-to-moderate evidence of action efficacy. The wildlife crossing case provides strong applied evidence (53% crash reduction, >90% success rates). Most other evidence involves general restoration monitoring with early or partial results, qualifying as limited evidence overall. Score is 2.",
+      "projects": ["U.S. Highway 89 Kanab-Paunsaugunt Wildlife Crossing Project (Utah): Wildlife crossings reduced mule deer-vehicle collisions by 53%; six of seven structures had deer success rates >90% by year 5. Cited as one of North America's most successful mule deer mitigation projects, providing direct evidence for wildlife crossing efficacy.", "Three Creeks Grazing Project (Rich County, Utah): After 2 years, monitoring showed greater stubble and forb heights and reduced E. coli. Provides evidence that science-based rotational grazing management can improve riparian and wildlife habitat.", "Turkey Farm Road Fire Reseeding Project (Mojave Basin and Range ecoregion, Utah): Post-fire reseeding of ~12,000 acres with native species mix; early monitoring results described as 'promising.' Provides limited evidence in a realistic setting for post-fire restoration in SGCN habitat."]
+    },
+    "adaptation_planning_frameworks": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "This guidance is broken into seven principles for incorporating climate change into state wildlife action plans: 1) fully integrate climate change into state wildlife action plans; 2) adopt forward-looking goals; 3) explicitly link actions to climate vulnerabilities; 4) manage for change, not just persistence; 5) consider broader landscapes and longer time frames; 6) address uncertainty by considering future scenarios and use of adaptive management; and 7) engage diverse partners with climate experience and expertise.",
+          "location": "Chapter 3, Introduction",
+          "sub_component": null,
+          "citations": ["Association of Fish and Wildlife Agencies 2022"]
+        },
+        {
+          "text": "Align climate threats in Utah Division of Wildlife's Watershed Restoration Initiative (WRI) with solutions (e.g., incorporate climate resilience into best management practices and/or develop an adaptive climate resilience checklist for restoration projects).",
+          "location": "Chapter 3, Long-Term Climate Goals",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    }
+  },
+  "coding_meta": {
+    "coder": "llm:claude-sonnet-4-6",
+    "model": "claude-sonnet-4-6",
+    "provider": "claude",
+    "codebook_version": "0.4",
+    "ingest": "text",
+    "design": "single",
+    "temperature": null,
+    "thinking": null,
+    "thinking_effort": null,
+    "coded_at": "2026-07-06T18:39:26Z",
+    "notes": {}
+  }
+}

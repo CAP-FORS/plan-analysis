@@ -1,0 +1,715 @@
+{
+  "document_meta": {
+    "title": "Utah Forest Action Plan 2020",
+    "year": 2020,
+    "jurisdiction": "Utah",
+    "document_type": "State Forest Action Plan",
+    "document_id": "UT_FAP_2020",
+    "page_count": 231
+  },
+  "orientation": {
+    "summary": "The Utah Forest Action Plan 2020 (FAP 2020) is a ten-year statewide forest resource assessment and strategy prepared by the Utah Division of Forestry, Fire and State Lands (FFSL), integrated with the Utah Shared Stewardship Agreement (a 2019 federal-state partnership initiative). The document's primary focus is forest health restoration, wildfire risk reduction, collaborative landscape-scale restoration, and capacity-building among partners. Climate change is acknowledged as an important threat driver — exacerbating wildfire, insects, disease, and drought — but the document does not perform its own climate analysis; it references findings from the 2014 National Climate Assessment, the 2019 Utah Hazard Mitigation Plan, and NASF policy statements. Range shifts are not substantively engaged: the document makes no reference to species distributional change driven by climate, climate corridors for range-shift facilitation, assisted migration, or similar concepts. Connectivity is referenced in a generic wildlife habitat sense (wildlife corridors, habitat linkages), not in a climate-relevant range-shift context. The plan's conservation tools include a spatially explicit priority-areas map (FAP 2020 Priority Areas map) developed from wildfire risk, insect/disease risk, and forest cover data, aimed at wildfire risk reduction rather than climate-driven range-shift management.",
+    "evidence_index": [
+      {
+        "text": "Major factors affecting recent mortality are insects, disease and wildfires, each of which are related to shifts in climate patterns.",
+        "location": "Executive Summary",
+        "relevant_elements": ["1.1", "3.5", "3.6"]
+      },
+      {
+        "text": "the threats have been exacerbated by broader environmental shifts, primarily changes in climate patterns, and social changes, primarily growth and development.",
+        "location": "Executive Summary",
+        "relevant_elements": ["1.1", "3.5"]
+      },
+      {
+        "text": "Climate change is increasing the vulnerability of many forests to ecosystem changes and tree mortality through fire, insect infestations, drought, and disease outbreaks.",
+        "location": "Climate Change",
+        "relevant_elements": ["1.1", "3.5", "3.6"]
+      },
+      {
+        "text": "the rate of climate change is expected to be more rapid than human society has ever experienced and the effects are expected to vary regionally and locally.",
+        "location": "Climate Change",
+        "relevant_elements": ["1.1"]
+      },
+      {
+        "text": "It is also important to note that a changing climate represents a threat to forest health. In some regions it increases the likelihood of sustained drought. In other areas there have been more frequent, longer duration floods. Changing weather patterns can also introduce new pathogens and invasive species.",
+        "location": "Climate Change",
+        "relevant_elements": ["1.1", "3.5", "3.6", "3.7"]
+      },
+      {
+        "text": "Climate change, specifically increases in temperature, will increase the risk of wildfire occurrence",
+        "location": "Climate Change",
+        "relevant_elements": ["1.1", "3.5"]
+      },
+      {
+        "text": "They have been exacerbated by climate change, growing in size and intensity with increased temperatures and decreased precipitation.",
+        "location": "Increasing Wildfires",
+        "relevant_elements": ["3.5", "3.6"]
+      },
+      {
+        "text": "the cascading effects of more than a century of fire exclusion and fuel buildups, changes in land use, extended drought, warming temperatures, and the spread of invasive species have led to widespread changes in vegetation conditions and fire frequency across the Nation.",
+        "location": "Wildfires",
+        "relevant_elements": ["3.5", "3.7"]
+      },
+      {
+        "text": "From 2000 to 2015, there was a 75% increase in fuel aridity because of climate change. The increase in fuel aridity resulted in an additional 10.4 million acres burned in the West from 1984 to 2015",
+        "location": "[FIGURE: Utah. Extensive changes to both the length and severity of the fire season...]",
+        "relevant_elements": ["3.5", "2.3"]
+      },
+      {
+        "text": "The projected increase in fire risk is due to a lengthening of the fire season caused by earlier onset of spring, earlier snowmelt and reductions to seasonal snowpack.",
+        "location": "[FIGURE: Utah. Extensive changes to both the length and severity of the fire season...]",
+        "relevant_elements": ["3.5", "2.3"]
+      },
+      {
+        "text": "Scientists predict that extreme fire danger across much of the West will become the new normal by the middle of the 21st century.",
+        "location": "Wildfires",
+        "relevant_elements": ["3.5"]
+      },
+      {
+        "text": "Wildfires also impact the state's timberlands and woodlands which affect many animal species leading to habitat loss, displacement, and death.",
+        "location": "[TABLE] Growth and development cause shifting land-use patterns...",
+        "relevant_elements": ["3.6"]
+      },
+      {
+        "text": "Management strategies focused on resilience include promoting species and age class diversity, actively managing for optimal forest health and creating or retaining suitable pathways for species migration.",
+        "location": "Climate Change",
+        "relevant_elements": ["1.2", "1.3", "4.2"]
+      },
+      {
+        "text": "Private forests are currently at risk of fragmentation, development, catastrophic wildfire, and the ecological impacts of climate change (most notably, insect and disease).",
+        "location": "Process for identification of Stewardship Priority Areas",
+        "relevant_elements": ["1.1", "3.5"]
+      },
+      {
+        "text": "Protect wildlife habitat and maintain habitat connectivity and related values needed to ensure biodiversity",
+        "location": "Program Goals",
+        "relevant_elements": ["1.4", "3.4"]
+      },
+      {
+        "text": "Parcels which currently exhibit connective habitats, migratory corridors, habitat linkages and areas that reduce biological isolation or could be managed to do so.",
+        "location": "Acquisition Goals and Objectives",
+        "relevant_elements": ["1.4"]
+      },
+      {
+        "text": "private forest lands play an important role in maintaining habitat connectivity and migratory corridors between these areas.",
+        "location": "Wildlife and Fish Habitat",
+        "relevant_elements": ["1.4"]
+      },
+      {
+        "text": "The FAP Priority Areas Map adapts a methodology developed by FFSL and the Forest Service to map Shared Stewardship priority areas on Utah's national forests.",
+        "location": "Utah FAP 2020 Priority Areas",
+        "relevant_elements": ["4.1", "2.4"]
+      },
+      {
+        "text": "The process for identifying priority landscapes for the FAP utilized a combination of datasets: Utah Wildfire Risk Assessment Portal (UWRAP) Risk layer... National Insect and Disease Risk Maps (NIDRM) from the US Forest Service. Forest cover data from the USGS 2016 National Land Cover Database (NLCD).",
+        "location": "Utah FAP 2020 Priority Areas",
+        "relevant_elements": ["4.1", "2.4"]
+      },
+      {
+        "text": "Figure 29: FAP 2020 Priority Areas for all forest lands in Utah. This mapping tool is intended to help FFSL, the Forest Service and other partners identify and implement high-priority forest restoration projects across the State",
+        "location": "[FIGURE: Figure 29]",
+        "relevant_elements": ["4.1"]
+      },
+      {
+        "text": "FFSL is preparing its second 10-year Utah Forest Action Plan (FAP) to assess threats and identify strategies to ensure healthy trees and forests into the future.",
+        "location": "Executive Summary",
+        "relevant_elements": ["4.3"]
+      },
+      {
+        "text": "The goals and strategies developed by the Utah FAP 2020 align with Utah's Shared Stewardship Agreement, a 2019 partnership initiative between the USDA Forest Service Intermountain Region and the State of Utah.",
+        "location": "Executive Summary",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "FFSL fulfills this statewide responsibility through a close partnership with the U.S. Department of Agriculture (USDA) Forest Service.",
+        "location": "Threats to Utah's Forests",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "Shared Stewardship is a fitting framework for the Utah FAP because it builds on a shared vision and strategies that seek to engage partners, stakeholders and communities in identifying and developing priority projects through collaboration.",
+        "location": "Executive Summary",
+        "relevant_elements": ["3.4", "4.5"]
+      },
+      {
+        "text": "The KPIs provide insight into how FFSL and the Forest Service will measure the success of Shared Stewardship across all lands in Utah.",
+        "location": "D R A F T [KPI section]",
+        "relevant_elements": ["4.3"]
+      },
+      {
+        "text": "KPIs are framed in three categories: Relationships, Process, and Forest Conditions",
+        "location": "D R A F T [KPI section]",
+        "relevant_elements": ["4.3"]
+      },
+      {
+        "text": "The 2014 National Climate Assessment recognizes how little we know about how much our climate will change, what the effects will be on natural and social systems, and how we might best respond.",
+        "location": "Climate Change",
+        "relevant_elements": ["1.1", "2.3"]
+      },
+      {
+        "text": "Insect-caused mortality to common or two-needle pinyon in Utah can be attributed to epidemic pinyon ips beetle populations. Another native beetle, this insect has been particularly active in response to drought conditions early in the 2000s.",
+        "location": "Insects and Disease",
+        "relevant_elements": ["3.6"]
+      },
+      {
+        "text": "2010 Resources Planning Act Assessment indicates that climate change will alter natural ecosystems and affect their ability to provide goods and services.",
+        "location": "Climate Change",
+        "relevant_elements": ["1.1"]
+      },
+      {
+        "text": "Departure from natural fire regime (reduction in disturbance), resulting in widespread forest succession to conifer dominance",
+        "location": "Aspen-Conifer Key Terrestrial Habitat",
+        "relevant_elements": ["3.7"]
+      },
+      {
+        "text": "disturbances… attributed to climate-related factors, such as drought, warmer temperatures, and longer summers… have significant consequences for watersheds, landscapes, and human communities",
+        "location": "Current Condition [Urban Forestry section]",
+        "relevant_elements": ["3.5"]
+      },
+      {
+        "text": "The 2019 Utah Hazard Mitigation Plan presents some of the significant impacts that climate change has had on wildfires and forest area burned in Utah and the southwestern U.S. in recent years, as well as projections into the future.",
+        "location": "Climate Change",
+        "relevant_elements": ["2.3", "3.5"]
+      },
+      {
+        "text": "Annually review and adjust shared stewardship priority maps to include best available information and, where possible, in response to changing conditions",
+        "location": "[FIGURE: Key Performance Indicators for Shared Stewardship in Utah]",
+        "relevant_elements": ["4.3"]
+      },
+      {
+        "text": "Establish baseline of number of treated in 2020. Yr 1-2: Establish a method to calculate acres effectively treated or mitigated.",
+        "location": "[FIGURE: Increase the number of acres directly and effectively treated...]",
+        "relevant_elements": ["4.3"]
+      }
+    ]
+  },
+  "concepts": {
+    "climate_vulnerability": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Climate change is increasing the vulnerability of many forests to ecosystem changes and tree mortality through fire, insect infestations, drought, and disease outbreaks.",
+          "location": "Climate Change",
+          "sub_component": "exposure",
+          "citations": ["2014 National Climate Assessment"]
+        },
+        {
+          "text": "Private forests are currently at risk of fragmentation, development, catastrophic wildfire, and the ecological impacts of climate change (most notably, insect and disease).",
+          "location": "Process for identification of Stewardship Priority Areas",
+          "sub_component": "exposure",
+          "citations": []
+        }
+      ],
+      "absence_note": "The document references climate exposure to forests (increased fire, drought, insects) but does not discuss adaptive capacity of species/ecosystems as a distinct concept. Score 2 (exposure referenced, but not adaptive capacity as a separate axis). The document does mention 'resilience' in a management context but not as an analysis of species/ecosystem adaptive capacity to climate."
+    },
+    "adaptive_capacity_specificity": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Management strategies focused on resilience include promoting species and age class diversity, actively managing for optimal forest health and creating or retaining suitable pathways for species migration.",
+          "location": "Climate Change",
+          "sub_component": null,
+          "citations": ["National Association of State Foresters 2020 policy statement"]
+        }
+      ],
+      "absence_note": "The document references resilience generically; 'pathways for species migration' is the closest to a specific adaptive capacity component, but it is a passing mention from an NASF policy statement rather than an operationalized framework. Score 1."
+    },
+    "adaptive_capacity_components": {
+      "demography": {
+        "present": false,
+        "evidence": []
+      },
+      "distribution": {
+        "present": false,
+        "evidence": []
+      },
+      "movement": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Management strategies focused on resilience include promoting species and age class diversity, actively managing for optimal forest health and creating or retaining suitable pathways for species migration.",
+            "location": "Climate Change",
+            "sub_component": null,
+            "citations": ["National Association of State Foresters 2020 policy statement"]
+          }
+        ]
+      },
+      "evolutionary_potential": {
+        "present": false,
+        "evidence": []
+      },
+      "ecological_dependencies": {
+        "present": false,
+        "evidence": []
+      },
+      "abiotic_niche": {
+        "present": false,
+        "evidence": []
+      },
+      "life_history": {
+        "present": false,
+        "evidence": []
+      }
+    },
+    "connectivity": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Protect wildlife habitat and maintain habitat connectivity and related values needed to ensure biodiversity",
+          "location": "Program Goals",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "private forest lands play an important role in maintaining habitat connectivity and migratory corridors between these areas.",
+          "location": "Wildlife and Fish Habitat",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "Connectivity is referenced in a generic wildlife/biodiversity sense throughout the document (habitat corridors, migratory corridors, habitat linkages), but never framed as climate connectivity or as supporting climate-driven range shifts. Score 1 (generic, not climate-relevant)."
+    }
+  },
+  "tools": {
+    "vulnerability_models": {
+      "evaluable": true,
+      "score": 0,
+      "named_tools": [],
+      "evidence": [],
+      "absence_note": "No vulnerability models (CCVI, PVA, etc.) are referenced anywhere in the document."
+    },
+    "niche_models": {
+      "evaluable": true,
+      "score": 0,
+      "named_tools": [],
+      "evidence": [],
+      "absence_note": "No species distribution models or niche models are referenced in the document."
+    },
+    "climate_models": {
+      "evaluable": true,
+      "score": 1,
+      "named_tools": [],
+      "evidence": [
+        {
+          "text": "The 2019 Utah Hazard Mitigation Plan presents some of the significant impacts that climate change has had on wildfires and forest area burned in Utah and the southwestern U.S. in recent years, as well as projections into the future.",
+          "location": "Climate Change",
+          "sub_component": null,
+          "citations": ["2019 Utah Hazard Mitigation Plan"]
+        },
+        {
+          "text": "The trends in acres burned by wildfire in the western United States are projected to continue through the twenty-first century as temperatures warm and incidence of drought increases.",
+          "location": "[FIGURE: Utah. Extensive changes to both the length and severity of the fire season...]",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document references climate projections through the 2019 Utah Hazard Mitigation Plan and general projections about future wildfire trends, but does not name any specific climate model, GCM, downscaling product, emission scenario (RCP/SSP), or time horizon. Score 1 (referenced generally via secondary sources, not applied directly).",
+      "time_horizon_years": [],
+      "emission_scenarios": []
+    },
+    "connectivity_models": {
+      "evaluable": true,
+      "score": 0,
+      "named_tools": [],
+      "evidence": [],
+      "absence_note": "No connectivity models (CircuitScape, least-cost path, etc.) are referenced. The UWRAP and NIDRM are risk/threat mapping tools, not connectivity models in the codebook sense."
+    }
+  },
+  "context": {
+    "management_scale": {
+      "local": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "CatFire projects generally take a community perspective and focus on the landscape around communities, or the wildland-urban interface (WUI).",
+            "location": "Catastrophic Wildfire Reduction Strategy (CatFire)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "site": {
+        "present": false,
+        "evidence": []
+      },
+      "watershed": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The process for identifying priority landscapes for the FAP utilized a combination of datasets... United States Geological Survey (USGS) hydrological units.",
+            "location": "Utah FAP 2020 Priority Areas",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "city": {
+        "present": false,
+        "evidence": []
+      },
+      "county": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "In 2016, Summit County led Utah's timber harvest with 29 percent (7.3 MMBF) of total volume, followed by Kane and Sanpete Counties with 13 and 7.5 percent, respectively.",
+            "location": "Utah's Timber Harvest and Forest Products Industry",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "within_state_region": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The FAP 2020 Priority Areas map is intended as a tool to help FFSL, the Forest Service and other partners identify and implement high-priority forest restoration projects on all forest lands across the State.",
+            "location": "Utah FAP 2020 Priority Areas",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "state": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The Utah FAP 2020 has developed a map of forest health priority areas across the State to help FFSL, the Forest Service and other partners identify the most urgent forest health challenges and develop collaborative forest restoration projects",
+            "location": "Identifying FAP Priority Areas",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "multistate": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Managing wildfires in the West is becoming increasingly complex, as the number of acres burned has increased substantially since the late 1980's.",
+            "location": "Wildfires",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "national": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The 2014 National Climate Assessment recognizes how little we know about how much our climate will change, what the effects will be on natural and social systems, and how we might best respond.",
+            "location": "Climate Change",
+            "sub_component": null,
+            "citations": ["2014 National Climate Assessment"]
+          }
+        ]
+      },
+      "transnational": {
+        "present": false,
+        "evidence": []
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The 2010 Resources Planning Act Assessment indicates that climate change will alter natural ecosystems and affect their ability to provide goods and services.",
+            "location": "Climate Change",
+            "sub_component": null,
+            "citations": ["2010 Resources Planning Act Assessment"]
+          }
+        ]
+      },
+      "ecoregion": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "An ecoregion is a large landscape area that has relatively consistent patterns of physical and biological components that interact to form environments of similar productive capabilities, response to disturbances, and potentials for resource management. Utah is covered by parts of six different ecoregion provinces",
+            "location": "Forest Land Definitions",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "province": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The pinyon/juniper group is the largest of the 10 forest-type groups in Utah, covering 10.7 million acres. It accounts for 59 percent of the forest land in the State, most of which is in Ecoregion Province 341 (Intermountain Semi-Desert and Desert).",
+            "location": "[TABLE] The pinyon/juniper group...",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "section": {
+        "present": false,
+        "evidence": []
+      },
+      "subsection": {
+        "present": false,
+        "evidence": []
+      },
+      "lake": {
+        "present": false,
+        "evidence": []
+      },
+      "river": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The Weber River Forest Legacy Area covers a total watershed area of approximately 1.5 million acres spread throughout Weber, Davis, Morgan and Summit counties.",
+            "location": "[TABLE] The Weber River Forest Legacy Area...",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "district": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["Weber River Basin", "Jordan River Basin", "Utah Lake", "Uinta Basin", "Sevier River Basin", "Bear River Basin", "Southeast Colorado Basin", "West Colorado Basin", "Wasatch Range", "Uinta Mountains", "Summit County", "Kane County", "Sanpete County", "USFS Intermountain Region", "Utah National Forests"]
+    },
+    "biological_unit_score": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "The Utah WAP identifies 141 species of greatest conservation need and 13 key habitat types.",
+          "location": "Priorities and Strategies",
+          "sub_component": "species",
+          "citations": []
+        },
+        {
+          "text": "The distribution and dominance of various tree species mirrors the wide range of elevations in Utah, from high, densely-forested mountains to low-elevation woodlands and deserts.",
+          "location": "Forest Area",
+          "sub_component": "habitat",
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "biological_unit_components": {
+      "species": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The Utah WAP identifies 141 species of greatest conservation need and 13 key habitat types.",
+            "location": "Priorities and Strategies",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "population": {
+        "present": false,
+        "evidence": []
+      },
+      "habitat": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Of the WAP's 13 key habitat types, Aspen-Conifer and Gambel Oak represent significant terrestrial habitats, and Aquatic-Forested represents a significant aquatic habitat",
+            "location": "Priorities and Strategies",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The 2010 Resources Planning Act Assessment indicates that climate change will alter natural ecosystems and affect their ability to provide goods and services.",
+            "location": "Climate Change",
+            "sub_component": null,
+            "citations": ["2010 Resources Planning Act Assessment"]
+          }
+        ]
+      },
+      "community": {
+        "present": false,
+        "evidence": []
+      },
+      "genotype_phenotype": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["lodgepole pine", "Douglas-fir", "quaking aspen", "Engelmann spruce", "subalpine fir", "pinyon pine", "Utah juniper", "Gambel oak", "ponderosa pine", "Aspen-Conifer habitat", "Gambel Oak habitat", "Aquatic-Forested habitat", "spruce-fir forest", "Species of Greatest Conservation Need (SGCN)"]
+    },
+    "partnerships_and_funding": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "The goals and strategies developed by the Utah FAP 2020 align with Utah's Shared Stewardship Agreement, a 2019 partnership initiative between the USDA Forest Service Intermountain Region and the State of Utah.",
+          "location": "Executive Summary",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "On May 22, 2019, Utah Governor Gary R. Herbert and USDA Secretary Sonny Perdue signed the Agreement for Shared Stewardship between the State of Utah and the USDA Forest Service Intermountain Region.",
+          "location": "[TABLE] Following the signing...",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Greater than 80 percent of Shared Stewardship projects are financially supported with partner funding (i.e., an entity other than State of Utah or USFS) • Partner funds cover an average of 50 percent of implementation or planning costs",
+          "location": "[TABLE] Defining Success For Shared Stewardship",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document describes active, strategic partnerships between FFSL and USFS via the Shared Stewardship Agreement, with specific funding commitments and KPIs. However, these partnerships are primarily focused on wildfire risk reduction and forest health, not specifically on range-shift actions. Score 2 reflects the strategic investment level of the partnerships described, though they are not range-shift-specific."
+    },
+    "climate_threat_habitat_degradation": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "They have been exacerbated by climate change, growing in size and intensity with increased temperatures and decreased precipitation.",
+          "location": "Increasing Wildfires",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "disturbances… attributed to climate-related factors, such as drought, warmer temperatures, and longer summers… have significant consequences for watersheds, landscapes, and human communities",
+          "location": "Current Condition [Urban Forestry section]",
+          "sub_component": null,
+          "citations": ["Forestry Strategic Plan for FFSL"]
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_threat_species_vital_rates": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Wildfires also impact the state's timberlands and woodlands which affect many animal species leading to habitat loss, displacement, and death.",
+          "location": "[TABLE] Growth and development cause shifting land-use patterns...",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Insect-caused mortality to common or two-needle pinyon in Utah can be attributed to epidemic pinyon ips beetle populations. Another native beetle, this insect has been particularly active in response to drought conditions early in the 2000s.",
+          "location": "Insects and Disease",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document discusses wildfire-caused animal mortality and drought-driven insect epidemics leading to tree mortality. These qualify as climate-driven direct vital rate impacts. Score 1."
+    },
+    "climate_threat_biotic_stressors": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Changing weather patterns can also introduce new pathogens and invasive species.",
+          "location": "Climate Change",
+          "sub_component": null,
+          "citations": ["National Association of State Foresters 2020 policy statement"]
+        },
+        {
+          "text": "the cascading effects of more than a century of fire exclusion and fuel buildups, changes in land use, extended drought, warming temperatures, and the spread of invasive species have led to widespread changes in vegetation conditions and fire frequency across the Nation.",
+          "location": "Wildfires",
+          "sub_component": null,
+          "citations": ["Toward Shared Stewardship Across Landscapes"]
+        }
+      ],
+      "absence_note": {}
+    }
+  },
+  "actions": {
+    "priority_habitat_identification": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "The Utah FAP 2020 has developed a map of forest health priority areas across the State to help FFSL, the Forest Service and other partners identify the most urgent forest health challenges and develop collaborative forest restoration projects",
+          "location": "Identifying FAP Priority Areas",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Figure 29: FAP 2020 Priority Areas for all forest lands in Utah. This mapping tool is intended to help FFSL, the Forest Service and other partners identify and implement high-priority forest restoration projects across the State",
+          "location": "[FIGURE: Figure 29]",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "The process for identifying priority landscapes for the FAP utilized a combination of datasets: Utah Wildfire Risk Assessment Portal (UWRAP) Risk layer... National Insect and Disease Risk Maps (NIDRM) from the US Forest Service. Forest cover data from the USGS 2016 National Land Cover Database (NLCD).",
+          "location": "Utah FAP 2020 Priority Areas",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "Priority habitat areas are identified and spatially represented via maps (FAP 2020 Priority Areas map, Shared Stewardship Priority Areas map), using combined risk datasets. However, these are focused on wildfire risk and forest health, not climate-driven range shifts per se. Score 2 is justified because priority habitat areas are explicitly spatially represented with maps."
+    },
+    "targeted_range_shift_actions": {
+      "evaluable": true,
+      "score": 0,
+      "evidence": [],
+      "absence_note": "The document contains no targeted actions to manage, facilitate, or respond to climate-driven range shifts. The one mention of 'suitable pathways for species migration' from the NASF policy statement is a generic passing reference without operational action. No assisted migration, climate corridors for range shifts, or similar actions are proposed."
+    },
+    "time_bound_and_monitoring": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Establish baseline of number of treated in 2020. Yr 1-2: Establish a method to calculate acres effectively treated or mitigated. Yr 2-3: 30-50% of the acres treated by Utah's National Forests are in shared stewardship priority areas.",
+          "location": "[FIGURE: Increase the number of acres directly and effectively treated...]",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Annually review and adjust shared stewardship priority maps to include best available information and, where possible, in response to changing conditions (e.g., fire regime condition class, wildfires, and treatments)",
+          "location": "[FIGURE: Key Performance Indicators for Shared Stewardship in Utah]",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The KPI framework provides year-by-year milestones for some actions (Yr 1, Yr 2-3, Yr 3+), but these are largely at the plan/program level rather than tied to specific conservation actions with both deadlines AND effectiveness monitoring per the codebook's action-level requirement. Annual monitoring of FLP projects is mentioned. Score 1: deadlines/milestones present but effectiveness monitoring at action level is not clearly operationalized."
+    },
+    "evidence_of_efficacy": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Recent studies have shown that larger scale burns (e.g., 5,000 acres) that burn more intensely have been the most successful in terms of aspen regeneration.",
+          "location": "Aspen-Conifer Key Terrestrial Habitat",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document largely presents actions based on general ecological principles (forest resilience, active management) without citing specific studies or case studies demonstrating efficacy. One instance references 'recent studies' on aspen regeneration. This is limited evidence at best. Score 1 (rationale outlined but little direct evidence presented to support actions).",
+      "projects": ["The document references 'recent studies' showing that larger-scale burns (5,000+ acres) are most successful for aspen regeneration, providing limited evidence for fire-based management actions, though no specific studies are cited by name."]
+    },
+    "adaptation_planning_frameworks": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Shared Stewardship derives from the National Cohesive Strategy and is consistent with its management philosophy and strategies toward collaborative landscape-scale restoration.",
+          "location": "[TABLE] Utah's Shared Stewardship Agreement",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document references Shared Stewardship as a planning framework and mentions 'experimentation, co-learning, and adaptation' as core principles, which approach adaptive management concepts. However, no specific named climate adaptation planning framework (RAD, RRT, CCVA, SBDA, SDM) is explicitly referenced or applied in a climate context. The Shared Stewardship framework is primarily about landscape-scale management efficiency, not specifically climate adaptation planning. Score 1 (generic reference to collaborative adaptive planning without a named climate adaptation framework)."
+    }
+  },
+  "coding_meta": {
+    "coder": "llm:claude-sonnet-4-6",
+    "model": "claude-sonnet-4-6",
+    "provider": "claude",
+    "codebook_version": "0.4",
+    "ingest": "text",
+    "design": "single",
+    "temperature": null,
+    "thinking": null,
+    "thinking_effort": null,
+    "coded_at": "2026-07-07T00:31:33Z",
+    "notes": {}
+  }
+}

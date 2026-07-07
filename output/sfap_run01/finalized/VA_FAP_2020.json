@@ -1,0 +1,610 @@
+{
+  "document_meta": {
+    "title": "Virginia State Forest Action Plan 2020 (Assessment and Strategy)",
+    "year": 2020,
+    "jurisdiction": "Virginia (VDOF)",
+    "document_type": "State Forest Action Plan",
+    "document_id": "VA_FAP_2020",
+    "page_count": 191
+  },
+  "orientation": {
+    "summary": "This is Virginia's 2020 State Forest Action Plan (SWAP), produced by the Virginia Department of Forestry (VDOF). It is primarily a forest management, conservation, and threat-assessment document organized around three national S&PF themes: protecting forests from threats, enhancing public benefits, and conserving working forest landscapes. Climate change is acknowledged as a threat and trend — primarily framed in terms of its effects on coastal forests (sea-level rise, ghost forests, saltwater intrusion), species migration at high altitudes and range edges, spread of invasive species, and wildfire risk — but it is treated as one of many threats alongside invasive species, fragmentation, and market changes. The document does not perform its own climate modeling, vulnerability assessment, or connectivity modeling; it references climate change qualitatively and flags monitoring intent. Range shifts are briefly mentioned in a climate context — species migration at high altitudes and for species at the southern edge of their range is described as 'a real possibility' — but this is not operationalized into specific planning or actions.",
+    "evidence_index": [
+      {
+        "text": "Climate Change will likely affect Virginia's forests during the next 10 years and could intensify many of the other threats and trends occurring in Virginia. Coastal Virginia is already dealing with sea level rise, continuing land abatement, saltwater intrusion, and its' effects on coastal forests.",
+        "location": "Section III: Virginia Forest Trends, Conditions, and Threats — Climate Change",
+        "relevant_elements": ["1.1", "3.5", "3.6"]
+      },
+      {
+        "text": "Species migration, particularly at high altitudes and for species at the southern edge of their range, is a real possibility. Inventory methods (notably the Forest Inventory Analysis) enable us to watch for overall changes in species dispersion and possibly conduct more detailed surveys if a potential problem is identified.",
+        "location": "Section III: Virginia Forest Trends, Conditions, and Threats — Climate Change",
+        "relevant_elements": ["1.3", "3.3", "4.2"]
+      },
+      {
+        "text": "VDOF will continue its efforts to restore shortleaf and longleaf pine to the landscape. Both of these species are drier-condition species that will fare better if some of the potential impacts of climate change are realized.",
+        "location": "Section III: Virginia Forest Trends, Conditions, and Threats — Climate Change",
+        "relevant_elements": ["1.1", "1.3", "4.2"]
+      },
+      {
+        "text": "The spread of invasive species will likely change as climates become more or less suitable across the Commonwealth requiring vigilance and tracking by VDOF foresters to manage for new invasions of nonnative species.",
+        "location": "Section III: Virginia Forest Trends, Conditions, and Threats — Climate Change",
+        "relevant_elements": ["3.7"]
+      },
+      {
+        "text": "A combination of sea level rise, geologic forces, land subsidence, weather and development have caused the gradual retreat of coastal forests in Virginia. Fringes of 'ghost forests' can be seen along marsh edges, as saltwater influence makes its progression inland.",
+        "location": "Issue B1: Retaining and Creating Forests to Combat the Impacts of Sea Level Rise",
+        "relevant_elements": ["3.5", "4.1"]
+      },
+      {
+        "text": "Reestablishing shortleaf promotes forest diversity, forest health (particularly on poor soils where shortleaf pine thrives), allows for beneficial fire on the landscape and could be an important species during times of climate change and drought.",
+        "location": "Issue A3: Conserve and Restore Diminished Forest Types — Issue Description",
+        "relevant_elements": ["1.1", "1.3", "4.2"]
+      },
+      {
+        "text": "A changing climate will affect forest health, distribution of certain species and the footprint of coastal forests. VDOF will monitor potential impacts to the forest and develop appropriate responses when impacts are identified.",
+        "location": "Issue C3: Ensure the Sustainable Use of Forest Resources — Issue Description",
+        "relevant_elements": ["1.1", "3.3", "4.3"]
+      },
+      {
+        "text": "Species migration, particularly at high altitudes and for species at the southern edge of their range (e.g., red spruce), is a real possibility. Inventory methods (notably Forest Inventory Analysis) should enable us to watch for overall changes in species dispersion and possibly conduct more detailed surveys if a potential problem is identified.",
+        "location": "Issue C3: Ensure the Sustainable Use of Forest Resources — Issue Description",
+        "relevant_elements": ["1.3", "3.3", "4.2", "4.3"]
+      },
+      {
+        "text": "Ghost forests have developed as coastal lands have been submerged and salinity increased in the water and soil. Sea level rise, land subsidence and salt water intrusion are significant issues that are being studied.",
+        "location": "Issue C3: Ensure the Sustainable Use of Forest Resources — Issue Description",
+        "relevant_elements": ["3.5"]
+      },
+      {
+        "text": "If the climate warms, these remnant stands could be affected. An associate, Fraser fir occupies an even smaller range in southwest Virginia.",
+        "location": "Section III: Diminished Species — Red Spruce",
+        "relevant_elements": ["1.1", "1.3"]
+      },
+      {
+        "text": "Additionally, the salt tolerance of longleaf pine may allow for increased plantings in coastal areas of southeast Virginia.",
+        "location": "Issue C3: Ensure the Sustainable Use of Forest Resources — Issue Description",
+        "relevant_elements": ["1.3", "4.2"]
+      },
+      {
+        "text": "One of the most cost-effective and beneficial means to mitigate the effects of global warming is to increase tree planting and practice sound forest management.",
+        "location": "Section III: Virginia Forest Trends, Conditions, and Threats — Climate Change",
+        "relevant_elements": ["4.5"]
+      },
+      {
+        "text": "Additionally, VDOF initiated a Coastal Resilience program in 2019 to study the recent trends in Coastal Forestry and provide recommendations for management of urban and rural forests in the face of a changing climate.",
+        "location": "Section III: Virginia Forest Trends, Conditions, and Threats — Climate Change",
+        "relevant_elements": ["4.1", "4.3", "4.5"]
+      },
+      {
+        "text": "changing climates, invasive species, forest health threats, and inability to conduct traditional forest management activities, will likely continue to change the frequency and severity of wildfires",
+        "location": "Section II: Coordination with Other Plans — Community Wildfire Protection Plans",
+        "relevant_elements": ["3.5", "3.7"]
+      },
+      {
+        "text": "In addition to having larger blocks of forests, it is also important to connect them... When forests are isolated, species within them are at greater risk of decline since many species of animals and plants cannot readily recolonize isolated areas. Connecting forests though wide, vegetated corridors facilitates the movement of animals, pollinators and plants over time to ensure species can repopulate areas.",
+        "location": "Issue C2: Promote a Larger, Connected Forest Landscape — Issue Description",
+        "relevant_elements": ["1.4", "4.2"]
+      },
+      {
+        "text": "Actively managed forests are healthier and more adaptable to changing climates. Conserving manageable blocks of forestland is necessary to retaining this important climate mitigation tool.",
+        "location": "Issue C1: Keep Forests as Forest — Issue Description",
+        "relevant_elements": ["1.2", "1.4"]
+      },
+      {
+        "text": "Urban and community forests absorb and clean pollutants from land runoff and also reduce peak storm flows, thereby minimizing flooding. This is particularly important should changing climates cause increased storms and rainfall that affect Virginia.",
+        "location": "Issue B3: Expand and Improve Urban and Community Forests — Issue Description",
+        "relevant_elements": ["3.5"]
+      },
+      {
+        "text": "The Forest Resource Priority map (Figure 19.) provides a ranking of private forestland that is a high, medium, and low priority when viewed as a combination of all of Virginia's critical issues including protecting, enhancing, and conserving forestland across the Commonwealth in a consistent method with other Southern States.",
+        "location": "Section IV: Southern Forest Land Assessment",
+        "relevant_elements": ["4.1"]
+      },
+      {
+        "text": "To better focus forestland conservation efforts, VDOF's forestland conservation program has developed an updated Forestland Conservation Value (FCV) model (revised 2018 and 2020) that identifies the highest priority forestlands that are not under permanent protection for conservation in Virginia",
+        "location": "Issue C1 and C2: Priority Areas",
+        "relevant_elements": ["4.1", "2.4"]
+      },
+      {
+        "text": "Carbon Sequestration and Climate Resilience -Describe the long-term storage of carbon in plants and soils and the possibilities of increasing the rate of carbon sequestration through changes in land use and forestry.",
+        "location": "VA_FAP-S_2020.pdf — Plan Preparation Format and Plan Elements",
+        "relevant_elements": ["4.5"]
+      },
+      {
+        "text": "Trees and forests are natural assets that build a sense of community character and place, while also providing ecosystem services, such as climate mitigation, water resource protection, wildlife habitat and timber products.",
+        "location": "VA_FAP-S_2020.pdf — Goal 3: Increased Benefits from Trees and Forests — Goal Summary",
+        "relevant_elements": ["4.5"]
+      },
+      {
+        "text": "Virginia VDOF sought input on priority areas and assistance in tying the Virginia Wildlife Action Plan to the Forest Action Plan.",
+        "location": "Section II: Virginia Wildlife Action Plan",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "Since 2015 VDOF has partnered with other Chesapeake Bay jurisdictions and internally within Virginia with the Rappahannock River Basin Commission and other partners in leading a landscape-scale, Chesapeake Bay wide initiative called the Healthy Watershed Forest (HWF) project. The project has been funded throughout by the US Environmental Protection Agency (EPA) and the U.S Endowment for Forestry and Communities.",
+        "location": "Section III: Healthy Watersheds Forest Project",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "Longleaf pine forests are some of our most biologically diverse ecosystems; many species associated with longleaf ecosystems are threatened or endangered.",
+        "location": "Issue A3: Conserve and Restore Diminished Forest Types — Issue Description",
+        "relevant_elements": ["3.3"]
+      },
+      {
+        "text": "Each year weather is a major factor in both the total acreage and number of fires that occur across the state. Over 95% of Virginia's wildfires are caused by human actions.",
+        "location": "Section III: Threats to Virginia's Forestland — Wildland Fire",
+        "relevant_elements": ["3.6"]
+      }
+    ]
+  },
+  "concepts": {
+    "climate_vulnerability": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Climate Change will likely affect Virginia's forests during the next 10 years and could intensify many of the other threats and trends occurring in Virginia. Coastal Virginia is already dealing with sea level rise, continuing land abatement, saltwater intrusion, and its' effects on coastal forests.",
+          "location": "Section III: Virginia Forest Trends, Conditions, and Threats — Climate Change",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document acknowledges climate change as a threat to forests and specific species, but does not decompose vulnerability into exposure and adaptive capacity in any structured way. The mentions are qualitative and general ('climate change will likely affect') without assessing which species or habitats face the greatest exposure or have the greatest or least adaptive capacity. Scores 1 rather than 2 or 3."
+    },
+    "adaptive_capacity_specificity": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Actively managed forests are healthier and more adaptable to changing climates. Conserving manageable blocks of forestland is necessary to retaining this important climate mitigation tool.",
+          "location": "Issue C1: Keep Forests as Forest — Issue Description",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document references the concept of adaptability to climate in a non-specific way (managed forests are 'more adaptable to changing climates'). No specific components of adaptive capacity are discussed in a structured manner. Scores 1 rather than 2."
+    },
+    "adaptive_capacity_components": {
+      "demography": {
+        "present": false,
+        "evidence": []
+      },
+      "distribution": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Species migration, particularly at high altitudes and for species at the southern edge of their range, is a real possibility. Inventory methods (notably the Forest Inventory Analysis) enable us to watch for overall changes in species dispersion and possibly conduct more detailed surveys if a potential problem is identified.",
+            "location": "Section III: Virginia Forest Trends, Conditions, and Threats — Climate Change",
+            "sub_component": "distribution",
+            "citations": []
+          }
+        ]
+      },
+      "movement": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Species migration, particularly at high altitudes and for species at the southern edge of their range (e.g., red spruce), is a real possibility.",
+            "location": "Issue C3: Ensure the Sustainable Use of Forest Resources — Issue Description",
+            "sub_component": "movement",
+            "citations": []
+          }
+        ]
+      },
+      "evolutionary_potential": {
+        "present": false,
+        "evidence": []
+      },
+      "ecological_dependencies": {
+        "present": false,
+        "evidence": []
+      },
+      "abiotic_niche": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "VDOF will continue its efforts to restore shortleaf and longleaf pine to the landscape. Both of these species are drier-condition species that will fare better if some of the potential impacts of climate change are realized.",
+            "location": "Section III: Virginia Forest Trends, Conditions, and Threats — Climate Change",
+            "sub_component": "abiotic_niche",
+            "citations": []
+          }
+        ]
+      },
+      "life_history": {
+        "present": false,
+        "evidence": []
+      }
+    },
+    "connectivity": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Connecting forests though wide, vegetated corridors facilitates the movement of animals, pollinators and plants over time to ensure species can repopulate areas.",
+          "location": "Issue C2: Promote a Larger, Connected Forest Landscape — Issue Description",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "Connectivity is discussed as an important conservation concept (corridors, intact landscapes, reducing fragmentation), but it is not explicitly framed in relation to climate change or range shifts. The framing is generic forest conservation connectivity. Scores 1 rather than 2."
+    }
+  },
+  "tools": {
+    "vulnerability_models": {
+      "evaluable": true,
+      "score": 0,
+      "named_tools": [],
+      "evidence": [],
+      "absence_note": "No vulnerability assessment frameworks (CCVI, PVA, or similar) are referenced anywhere in the document."
+    },
+    "niche_models": {
+      "evaluable": true,
+      "score": 0,
+      "named_tools": [],
+      "evidence": [],
+      "absence_note": "No species distribution models or niche models (MaxEnt, SDM, ENM, etc.) are referenced in the document."
+    },
+    "climate_models": {
+      "evaluable": true,
+      "score": 0,
+      "named_tools": [],
+      "evidence": [],
+      "absence_note": "The document discusses climate change qualitatively throughout but references no GCMs, downscaled climate projections, RCPs, SSPs, or any specific climate modeling tools or scenarios. This is consistent with the canonical example of a climate-aware document scoring 0 on this element.",
+      "time_horizon_years": [],
+      "emission_scenarios": []
+    },
+    "connectivity_models": {
+      "evaluable": true,
+      "score": 0,
+      "named_tools": [],
+      "evidence": [],
+      "absence_note": "The Forestland Conservation Value (FCV) model is referenced for prioritizing forestland conservation but is not a connectivity model. No tools such as CircuitScape, Linkage Mapper, least-cost path models, or similar connectivity modeling tools are referenced."
+    }
+  },
+  "context": {
+    "management_scale": {
+      "local": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Community level plans concentrate planning efforts at the ground level to maximize the program's efficiency in mitigating wildfire hazard in individual communities.",
+            "location": "Section II: Community Wildfire Protection Plans",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "site": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The first steps taken in the program have included adding riparian buffers to erodible shorelines on Virginia's Eastern Shore and studying the efficacy of conserving blocks of forestland to reduce coastal flooding around the City of Virginia Beach.",
+            "location": "Section III: Virginia Forest Trends, Conditions, and Threats — Climate Change",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "watershed": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The area includes watersheds of important streams and rivers of emphasis including the Middle James, New, Roanoke and Chowan Rivers.",
+            "location": "VA_FAP-S_2020.pdf — Priority Areas (Forest Stewardship)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "city": {
+        "present": false,
+        "evidence": []
+      },
+      "county": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "County level plans help to better focus wildland fire prevention and mitigation efforts at the county level, which in turn helps to better facilitate local stakeholder involvement along more typical governmental service boundaries.",
+            "location": "Section II: Community Wildfire Protection Plans",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "within_state_region": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The priority area for sustainability, particularly pine sustainability, is focused in southcentral and southeastern Virginia.",
+            "location": "Issue C3: Forest Sustainability Priority Areas",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "state": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "This 2020 plan builds on the original plan and brings it up to date to reflect the current issues across the Commonwealth of Virginia.",
+            "location": "Section I: Overview",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "multistate": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Virginia has been engaged with the Shortleaf Pine Initiative, a range-wide restoration program, and has participated in forest management efforts with nearby southern states",
+            "location": "Section V: Multi-State Issues and Priority Areas — Shortleaf Pine",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "national": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The 2014 and 2018 Farm Bills continued and reinforced these changes, which have now become operational within the USFS and the states through the Cooperative Forestry Program.",
+            "location": "Section I: Overview",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "transnational": {
+        "present": false,
+        "evidence": []
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Open-structured longleaf pine forests maintained by frequent, low-intensity fires are some of our most biologically diverse ecosystems.",
+            "location": "Issue A3: Conserve and Restore Diminished Forest Types — Issue Description",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecoregion": {
+        "present": false,
+        "evidence": []
+      },
+      "province": {
+        "present": false,
+        "evidence": []
+      },
+      "section": {
+        "present": false,
+        "evidence": []
+      },
+      "subsection": {
+        "present": false,
+        "evidence": []
+      },
+      "lake": {
+        "present": false,
+        "evidence": []
+      },
+      "river": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The Rappahannock River Basin has been used as a proxy for the Chesapeake Bay Watershed through all three phases of the HWF project.",
+            "location": "Section III: Healthy Watersheds Forest Project",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "district": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["Virginia", "Chesapeake Bay", "Rappahannock River Basin", "James River", "Shenandoah/Potomac watershed", "Middle James River", "Clinch River", "Holston River", "Powell River", "Eastern Shore", "Hampton Roads", "Northern Virginia", "Blue Ridge Mountains"]
+    },
+    "biological_unit_score": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Species migration, particularly at high altitudes and for species at the southern edge of their range, is a real possibility.",
+          "location": "Section III: Virginia Forest Trends, Conditions, and Threats — Climate Change",
+          "sub_component": "species",
+          "citations": []
+        },
+        {
+          "text": "A changing climate will affect forest health, distribution of certain species and the footprint of coastal forests.",
+          "location": "Issue C3: Ensure the Sustainable Use of Forest Resources — Issue Description",
+          "sub_component": "habitat/ecosystem",
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "biological_unit_components": {
+      "species": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Species migration, particularly at high altitudes and for species at the southern edge of their range (e.g., red spruce), is a real possibility.",
+            "location": "Issue C3: Ensure the Sustainable Use of Forest Resources — Issue Description",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "population": {
+        "present": false,
+        "evidence": []
+      },
+      "habitat": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "A changing climate will affect forest health, distribution of certain species and the footprint of coastal forests.",
+            "location": "Issue C3: Ensure the Sustainable Use of Forest Resources — Issue Description",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Longleaf pine forests are some of our most biologically diverse ecosystems; many species associated with longleaf ecosystems are threatened or endangered.",
+            "location": "Issue A3: Conserve and Restore Diminished Forest Types — Issue Description",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "community": {
+        "present": false,
+        "evidence": []
+      },
+      "genotype_phenotype": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["red spruce", "Fraser fir", "longleaf pine", "shortleaf pine", "American chestnut", "Atlantic white-cedar", "eastern hemlock", "coastal forests", "oak-hickory forest", "Table Mountain pine", "pitch pine"]
+    },
+    "partnerships_and_funding": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Since 2015 VDOF has partnered with other Chesapeake Bay jurisdictions and internally within Virginia with the Rappahannock River Basin Commission and other partners in leading a landscape-scale, Chesapeake Bay wide initiative called the Healthy Watershed Forest (HWF) project. The project has been funded throughout by the US Environmental Protection Agency (EPA) and the U.S Endowment for Forestry and Communities.",
+          "location": "Section III: Healthy Watersheds Forest Project",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document describes many partnerships (federal, state, NGO) and some funding mechanisms, but these are primarily for general forestry work, water quality, and land conservation — not specifically for range-shift management. The Coastal Resilience program is the closest to climate-adaptation-specific work but is described briefly and aspirationally. Scores 1 as some partnerships and funding are described but are not specifically strategic investments for range-shift actions."
+    },
+    "climate_threat_habitat_degradation": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "A combination of sea level rise, geologic forces, land subsidence, weather and development have caused the gradual retreat of coastal forests in Virginia. Fringes of 'ghost forests' can be seen along marsh edges, as saltwater influence makes its progression inland.",
+          "location": "Issue B1: Retaining and Creating Forests to Combat the Impacts of Sea Level Rise",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_threat_species_vital_rates": {
+      "evaluable": true,
+      "score": 0,
+      "evidence": [],
+      "absence_note": "The document does not discuss direct climate-driven impacts on species vital rates (mortality, reproductive failure, recruitment failure attributable to climate-driven events). Wildfire mortality is discussed but not framed as climate-caused. Climate effects on species are framed as indirect (distribution shifts, habitat degradation), not direct vital-rate impacts."
+    },
+    "climate_threat_biotic_stressors": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "The spread of invasive species will likely change as climates become more or less suitable across the Commonwealth requiring vigilance and tracking by VDOF foresters to manage for new invasions of nonnative species.",
+          "location": "Section III: Virginia Forest Trends, Conditions, and Threats — Climate Change",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    }
+  },
+  "actions": {
+    "priority_habitat_identification": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "The Forest Resource Priority map (Figure 19.) provides a ranking of private forestland that is a high, medium, and low priority when viewed as a combination of all of Virginia's critical issues including protecting, enhancing, and conserving forestland across the Commonwealth",
+          "location": "Section IV: Southern Forest Land Assessment",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "To better focus forestland conservation efforts, VDOF's forestland conservation program has developed an updated Forestland Conservation Value (FCV) model (revised 2018 and 2020) that identifies the highest priority forestlands that are not under permanent protection for conservation in Virginia",
+          "location": "Issue C1 and C2: Priority Areas",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "Priority habitat identification is spatially represented through the SFLA maps, the FCV model, and priority area maps for each issue. However, these are primarily for general forest conservation goals, not specifically for climate-driven range-shift management. Scores 2 because spatial representation is present. The coastal resilience work (sea-level retreat) is the most climate-explicit spatial prioritization."
+    },
+    "targeted_range_shift_actions": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "VDOF will continue its efforts to restore shortleaf and longleaf pine to the landscape. Both of these species are drier-condition species that will fare better if some of the potential impacts of climate change are realized.",
+          "location": "Section III: Virginia Forest Trends, Conditions, and Threats — Climate Change",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document recommends restoring shortleaf and longleaf pine framed partly in climate terms (they are drier-condition species suited to projected climate impacts), which qualifies as a targeted structural/management action with climate-shift framing. Additionally, the Coastal Resilience program is developing responses to habitat retreat. These are borderline but the explicit climate framing for the pine restoration actions and the coastal forest retreat monitoring/response tip this to a 1. No assisted migration or translocation is proposed."
+    },
+    "time_bound_and_monitoring": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Although the effects of climate change on the forest resource are somewhat unpredictable, Virginia and VDOF will need to monitor for, and develop appropriate responses to any identified impacts to the forest.",
+          "location": "Section III: Virginia Forest Trends, Conditions, and Threats — Climate Change",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The companion strategic plan (VA_FAP-S_2020.pdf) provides objectives, strategies, and measures with some measurable outcomes (e.g., number of diminished species projects completed, number of acres of prescribed burning, etc.), but these are not time-bound at the action level for range-shift-specific work. Climate-specific actions are described as monitoring-intent without deadlines. The strategic plan structure provides frameworks for accountability but does not operationalize deadlines for climate range-shift actions specifically. Scores 1 for indicating monitoring/assessment intent, not 2 because deadlines are absent at the action level for range-shift work."
+    },
+    "evidence_of_efficacy": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Reestablishing shortleaf promotes forest diversity, forest health (particularly on poor soils where shortleaf pine thrives), allows for beneficial fire on the landscape and could be an important species during times of climate change and drought.",
+          "location": "Issue A3: Conserve and Restore Diminished Forest Types — Issue Description",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "Actions related to range shifts (pine restoration under climate framing, coastal resilience monitoring) are justified by general ecological assumptions (shortleaf pine is a drier-condition species suited to projected climate; longleaf has climate-relevant traits) but no studies or prior project evaluations are cited to support the efficacy of these specific climate-adaptive actions. The restoration work is described on the basis of species traits (first principles) rather than evidence from implemented climate-adaptation projects. Scores 1.",
+      "projects": []
+    },
+    "adaptation_planning_frameworks": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "VDOF initiated a Coastal Resilience program in 2019 to study the recent trends in Coastal Forestry and provide recommendations for management of urban and rural forests in the face of a changing climate.",
+          "location": "Section III: Virginia Forest Trends, Conditions, and Threats — Climate Change",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document references climate adaptation planning in a non-specific way — noting the need to 'monitor for and develop appropriate responses' to climate impacts, and noting the Coastal Resilience program as a study to develop recommendations. No specific named climate adaptation planning frameworks (RAD, RRT, CCVA, SBDA, structured decision making for climate, adaptation menu) are referenced. Scores 1 for non-specific climate adaptation planning framing."
+    }
+  },
+  "coding_meta": {
+    "coder": "llm:claude-sonnet-4-6",
+    "model": "claude-sonnet-4-6",
+    "provider": "claude",
+    "codebook_version": "0.4",
+    "ingest": "text",
+    "design": "single",
+    "temperature": null,
+    "thinking": null,
+    "thinking_effort": null,
+    "coded_at": "2026-07-07T00:31:34Z",
+    "notes": {}
+  }
+}

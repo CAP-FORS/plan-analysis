@@ -1,0 +1,1552 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main"></title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Jesse</forename><forename type="middle">M</forename><surname>Lincoln</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Natural Resources U.S. Geological Survey</orgName>
+								<orgName type="laboratory">Contributors Michigan Natural Features Inventory Little River Band of Ottawa Indians</orgName>
+								<orgName type="institution">Michigan Fish and Wildlife Cooperative Research Unit Michigan State University Little Traverse Conservancy</orgName>
+								<address>
+									<addrLine>Sault St. Marie Tribe of Chippewa Indians Bay Mills Indian Community Keweenaw Bay Indian Community Michigan Nature Association Michigan</addrLine>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Ashley</forename><forename type="middle">A</forename><surname>Cole-Wick</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Natural Resources U.S. Geological Survey</orgName>
+								<orgName type="laboratory">Contributors Michigan Natural Features Inventory Little River Band of Ottawa Indians</orgName>
+								<orgName type="institution">Michigan Fish and Wildlife Cooperative Research Unit Michigan State University Little Traverse Conservancy</orgName>
+								<address>
+									<addrLine>Sault St. Marie Tribe of Chippewa Indians Bay Mills Indian Community Keweenaw Bay Indian Community Michigan Nature Association Michigan</addrLine>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Logan</forename><forename type="middle">M</forename><surname>Rowe</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Natural Resources U.S. Geological Survey</orgName>
+								<orgName type="laboratory">Contributors Michigan Natural Features Inventory Little River Band of Ottawa Indians</orgName>
+								<orgName type="institution">Michigan Fish and Wildlife Cooperative Research Unit Michigan State University Little Traverse Conservancy</orgName>
+								<address>
+									<addrLine>Sault St. Marie Tribe of Chippewa Indians Bay Mills Indian Community Keweenaw Bay Indian Community Michigan Nature Association Michigan</addrLine>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Eric</forename><surname>Branch</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Natural Resources U.S. Geological Survey</orgName>
+								<orgName type="laboratory">Contributors Michigan Natural Features Inventory Little River Band of Ottawa Indians</orgName>
+								<orgName type="institution">Michigan Fish and Wildlife Cooperative Research Unit Michigan State University Little Traverse Conservancy</orgName>
+								<address>
+									<addrLine>Sault St. Marie Tribe of Chippewa Indians Bay Mills Indian Community Keweenaw Bay Indian Community Michigan Nature Association Michigan</addrLine>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Joshua</forename><forename type="middle">G</forename><surname>Cohen</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Natural Resources U.S. Geological Survey</orgName>
+								<orgName type="laboratory">Contributors Michigan Natural Features Inventory Little River Band of Ottawa Indians</orgName>
+								<orgName type="institution">Michigan Fish and Wildlife Cooperative Research Unit Michigan State University Little Traverse Conservancy</orgName>
+								<address>
+									<addrLine>Sault St. Marie Tribe of Chippewa Indians Bay Mills Indian Community Keweenaw Bay Indian Community Michigan Nature Association Michigan</addrLine>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Anthony</forename><forename type="middle">K</forename><surname>Henehan</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Natural Resources U.S. Geological Survey</orgName>
+								<orgName type="laboratory">Contributors Michigan Natural Features Inventory Little River Band of Ottawa Indians</orgName>
+								<orgName type="institution">Michigan Fish and Wildlife Cooperative Research Unit Michigan State University Little Traverse Conservancy</orgName>
+								<address>
+									<addrLine>Sault St. Marie Tribe of Chippewa Indians Bay Mills Indian Community Keweenaw Bay Indian Community Michigan Nature Association Michigan</addrLine>
+								</address>
+							</affiliation>
+						</author>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">29FA5CBC6026EDAB2FB8091CC64940B8</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.1" ident="GROBID" when="2026-07-06T12:26+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>What are boreal forests?</head><p>Boreal forests are part of the largest forest region on Earth, stretching in a wide band around the northern parts of the globe. In Michigan, these forests reach the southern edge of their range, mostly along the cool, misty shorelines of the Great Lakes. The lakes play a big role in shaping the local climate by bringing cooler summers, frequent fog and mist, strong winds, heavy snowfall, and changing water levels. These conditions create a unique environment where boreal forests can thrive.</p><p>Although major wildfires and insect outbreaks are rare, they do happen occasionally and are part of the natural cycle of the forest. The trees you'll typically find here include northern white-cedar, balsam fir, white spruce, white pine, paper birch, and quaking aspen. Boreal forests also often include patches of other natural communities like rich conifer swamps, dry northern forests, and bedrock glades (</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>For thousands of years, Indigenous peoples have lived along the Great Lakes, using these forested shorelines for food, shelter, and cultural practices. Today, any efforts to protect and manage Michigan's boreal forests should be done in close partnership with Indigenous communities, who have deep knowledge of and long-standing relationships with these lands and waters.</p><p>What is the health of boreal forests?</p><p>Boreal forests are uncommon features of the northern Great Lakes region, occurring sporadically in the northern Lower Peninsula and infrequently in the Upper Peninsula. Analysis of General Land Office survey notes in Michigan reveals that boreal forest once occupied approximately 385,000 hectares (955,000 acres; <ref type="bibr">Comer et al. 1995)</ref>. Recent estimates of boreal forest in Michigan reveal a significant decrease in extent with approximations for balsam fir and white spruce forests of about 88,000 ha (215,000 ac; MIRIS 1978) and more general estimations of mixed upland conifer and other upland conifer forest of approximately 230,000 ha (575,000 ac; <ref type="bibr">Michigan DNR 2001a</ref><ref type="bibr">, 2001b)</ref>. Twenty-five high-quality occurrences of boreal forest, which constitute about 1,242 ha (3,000 ac) have been documented by Michigan Natural Features Inventory in Michigan's Natural Heritage Database <ref type="bibr">(MNFI 2025)</ref>. Turn-of-the-century logging of Northern white-cedar and other conifers from boreal forests and widespread fires following the harvests favored the conversion of mature and old-growth boreal forest to early-successional forest dominated by deciduous species (e.g., trembling aspen and paper birch; Campbell and Campbell 2000, <ref type="bibr">Reich et al. 2001</ref><ref type="bibr">, Frelich 2002)</ref>. Where conifer trees were eliminated or drastically reduced, hardwoods have persisted <ref type="bibr">(Bergeron et al. 2004b</ref>). Many inland sites formerly dominated by boreal forest and occurring on moist to wet lacustrine soils were drained and converted to agriculture, especially in Chippewa County.</p><p>To conserve biodiversity in these systems, and when feasible, large tracts of boreal forest should remain unharvested to allow natural disturbances, such as fire when appropriate, windthrow, insect outbreaks and lake-level fluctuations, to function stochastically and generate diverse successional stages. Dead and dying wood should be retained to form snags, stumps and logs, enhancing structural complexity and habitat value <ref type="bibr">(Morisette et al. 2002</ref><ref type="bibr">, Harper et al. 2005)</ref>.</p><p>Helpful resources for identifying and understanding Michigan's natural communities include Michigan Natural Features Inventory's natural community classification <ref type="bibr" target="#b13">(Cohen et al. 2015</ref><ref type="bibr" target="#b14">, Cohen et al. 2025</ref>) and natural community abstracts, both of which are available online along with photos, comprehensive descriptions, distribution maps, and thorough references from the scientific literature. MNFI's most detailed bibliography on Michigan's natural communities can be found in the publication "Distribution Maps of Michigan's Natural Communities" <ref type="bibr">(Albert et al. 2008)</ref>, which is also available for viewing and downloading at the MNFI website.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Accomplishments</head><p>Implementation of an iNaturalist project to track dwarf Lake Iris in Michigan (<ref type="url" target="https://www.inaturalist.org/projects/dwarf-lake-iris-iris-lacustris-in-michigan">https://www.inaturalist.org/projects/dwarf-lake-iris-iris-lacustris-in-michigan</ref>). As of 2025, 79 people have participated, resulting in over 280 observations <ref type="bibr">(Hackett et al. 2024)</ref>.</p><p>With funding from USFWS and participation from State, NGO, private, and commercial entities, MNFI updated 58 existing and added 4 previously undocumented dwarf lake iris occurrences throughout Michigan from 2019-2023, which was 70% of Michigan documented occurrences <ref type="bibr">(Hackett et al. 2024)</ref>. Conservation easement grant awards from the National Fish and Wildlife Foundation to protect 73,000 acres in the Michigamme Highlands, which will focus on Moose habitat protection and improvement.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>With funding from US</head><p>Biennial aerial survey monitoring of population in Michigan's core moose range of Iron, Baraga, and Marquette counties was conducted in 2025 and led to 171 new observations. Scientific studies featuring the Snowshoe Hare deepened understanding of conservation and silvicultural practices to manage and protect vital habitat for the species, including lowland riparian, upland spruce-fir, and young aspen habitat <ref type="bibr" target="#b45">(Wilson et al. 2020</ref><ref type="bibr">(Wilson et al. , 2023))</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Focal species</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Aweme Borer</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Papaipema aweme</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Special Concern</head><p>These medium sized moths have light wood brown forewings and contrasting dark brown spots and a sinuous dark postmedial line <ref type="bibr">(Covell 1984)</ref>. They occur in very wet, sedge-dominated, open to sparsely treed graminoid rich fens in the Upper Peninsula, where the larvae feed on relatively large bog buckbean plants <ref type="bibr">(Johnson et al. 2017)</ref>. Borers are known from 17 sites across their range, and there is a limited understanding of this species' life history traits (Natureserve 2025). The primary threats to aweme borers are habitat destruction or practices which alter system hydrology that may reduce the population size of larval hostplants. This species has been documented from five sites in five counties in Michigan as of 2025 in the state's Natural Heritage Database and four of these occurrences were observed within the last 20 years <ref type="bibr">(2005</ref><ref type="bibr">-2025;</ref><ref type="bibr">MNFI 2025)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Goals</head><p>• Determine species distribution and population estimates.</p><p>• Develop host plant-and species-specific habitat management plans at all extant sites.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Black-backed woodpecker</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Picoides arcticus</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Special Concern</head><p>The black-backed woodpecker is a medium sized, three-toed woodpecker with a solid black back and white underparts. Adults of both sexes possess a distinct white stripe that extends from the bill to the nape and males possess a prominent and unmistakable yellow crown patch <ref type="bibr" target="#b30">(Olson 2002</ref><ref type="bibr" target="#b40">, Tremblay et al. 2020</ref>). This species is restricted to the coniferous forests, swamps and bogs of the northern Lower and Upper Peninsula <ref type="bibr" target="#b30">(Olson 2002;</ref><ref type="bibr">MNFI 2025)</ref>. Though present at low densities in unburned forests with snags, this fire-dependent species is adapted to nest and forage in post-fire conditions and readily colonizes recently burned areas <ref type="bibr" target="#b36">(Siegel et al. 2018</ref>). Breeding Bird Survey data indicate a 2.3% annual decline in Michigan between 1993 and 2019 <ref type="bibr" target="#b35">(Sauer et al. 2020)</ref>. This species has been documented from 16 sites in 11 counties in Michigan as of 2025 in the state's Natural Heritage Database and only 9 of these occurrences were observed within the last 20 years <ref type="bibr">(2005</ref><ref type="bibr">-2025;</ref><ref type="bibr">MNFI 2025)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Goals</head><p>• Revisit known occurrences to determine their current status. [CPiF]</p><p>• Identify and protect unburned coniferous forests where low density populations persist.</p><p>[CPiF]</p><p>Dwarf Lake Iris</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Iris lacustris</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Federally and State Threatened</head><p>Dwarf lake iris is a blue-violet (rarely white), perennial flowering plant less than 6 inches tall. It reproduces primarily by cordlike, yellow-green rhizomes that are usually less than 0.2 inches thick and grow within a few inches of the ground's surface. Dwarf lake iris is endemic to the Great Lakes region, found only within a few miles of Lake Michigan and Lake Huron in Michigan and Wisconsin, USA and Ontario, CA, in boreal forest, mesic forest, fens, glades and several shoreline communities. This species has been documented from 92 sites in 11 counties in Michigan as of 2025 in the state's Natural Heritage Database and 75 of these occurrences were observed within the last 40 years <ref type="bibr">(1985</ref><ref type="bibr">-2025;</ref><ref type="bibr">MNFI 2025)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Goals</head><p>• Protect and manage populations in each of the four genetically distinct groups <ref type="bibr">(Cohen and</ref><ref type="bibr">Turgman-Cohen 2023, Hackett et al. 2024</ref>).</p><p>• Increase outreach efforts to developers, utilities and landowners working with populations of dwarf lake iris (Environment and Climate Canada 2023).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Moose</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Alces alces</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Special Concern</head><p>Moose </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Lepus americanus</head><p>Snowshoe hares are medium-sized lagomorphs (3 -5 lb) that are an important prey item for many predators within boreal food webs <ref type="bibr" target="#b9">(Burt 1948)</ref>. Specifically adapted to winter landscapes, their namesake large hind feet allow efficient travel in deep snow and hares undergo coat color molts (white-to-brown in the spring and back to white in the fall) to maintain camouflage in seasonally snowy environments. Snowshoe hares may be found in a wide range of habitats but prefer sites with dense understories, which may be represented by low-lying conifers (e.g., white-cedar swamps (Thuja occidentalis)) within the boreal core of their range, but hares often use structurally similar habitats such as young aspen (Populus spp.) along southern portions of its range. Snowshoe hares reach their southern distributional limit in Michigan and this southern range boundary has shifted northwards in recent years <ref type="bibr" target="#b10">(Burt et al. 2017</ref>). This species is not tracked in the state's Natural Heritage Database.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Goal</head><p>• Establish and maintain suitable habitat across current distribution. [PSH; IFGM]</p><p>• Better understand impacts of forest management on extant populations.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Protecting boreal forest refugia</head><p>Boreal forests in the region represent the southern edge of a cold-adapted ecosystem, supporting species that rely on persistent snow cover, cooler temperatures and high moisture levels. These forests and their associated wildlife are particularly vulnerable to changing weather impacts such as warming temperatures, increased drought and diminished snowpack. The loss of consistent winter conditions poses a significant threat to the long-term viability of boreal-dependent species. However, in the near term, lake-effect weather patterns along the north coast of Lake Michigan continue to provide cold, snowy refugia that help sustain boreal conditions. Protecting and managing these climate refuges will be essential for maintaining biodiversity and ecological function in boreal forest systems. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Focal species adaptive capacity</head><p>Adaptive capacity is a species' ability to tolerate or adapt to environmental change, whether that be through shifting in space or persisting in place <ref type="bibr" target="#b39">(Thurman et al. 2020)</ref>  Invasive &amp; Other Problematic Species, Genes &amp; Diseases</p><p>• Prevalence of storms and natural disturbance makes system susceptible to invasive species. More detrimental when trees/species are stressed -can respond appropriately only when healthy/functioning properly</p><p>• Population outbreaks of the native spruce budworm (Choristoneura fumiferana) and invasive balsam woolly adelgid (Adelges piceae), which feed on trees, can result in broadscale defoliation and death. While insect outbreaks are naturally cyclic, these events have been exacerbated by anthropogenic stressors (such as climate change, habitat loss, etc.)</p><p>• Where present, herbivory on rare species such as Canada yew and northern white-cedar (Thuja occidentalis), can prevent regeneration and establishment.</p><p>• Invasive species range expansion potential, such as garlic mustard (Alliaria petiolata) and glossy buckthorn (Frangula alnus).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Changing Weather Patterns</head><p>• Drought stress, changes in hydrology and flood regime, changes in wildfire frequency and severity, altered nutrient cycling and changes in invasive species, pests and pathogens <ref type="bibr" target="#b20">(Handler et al. 2014</ref>).</p><p>• Potential for loss of species with more northerly distributions, such as calypso orchid (Calypso bulbosa) and ram's-head lady's-slipper (Cypripedium arietinum).</p><p>• Boreal forest proximity to the Great Lakes provides a natural buffer against environmental change, yet this natural community remains highly vulnerable to long-term change. a. Indigenous peoples historically utilized shorelines along the Great Lakes. Lowintensity fire was regularly applied for cultural purposes including the management of crops such as blueberries and huckleberries. The historic application of cultural fires in boreal forests with red pine should be evaluated by establishing firehistories from the analysis of fire-charred stumps that remain on the landscape.</p><p>[PFS] BF9. Reestablish Eastern white pine and hemlock after their removal during logging era. BF10. Research ecosystem services and their impacts, such as carbon sequestration. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Threats and conservation actions to focal species</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Aweme borer</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Threats</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Lack of Knowledge</head><p>• Limited understanding of the species' life history traits (Natureserve 2025).</p><p>• Low number of known sites and limited capacity for surveying to identify new populations.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Natural Systems Modifications</head><p>• Commercial and residential development and forest activities that influence ground water levels and/or pollution.</p><p>• Destruction or removal of bog buckbean (Menyanthes trifoliata), the borer's larval hostplant.</p><p>• Limited documentation of populations and limited understanding of species' life history and biology.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conservation Actions</head><p>Land &amp; Water Management AWBO1. Protect large tracts of boreal forest with adjacent open peatlands to preserve ground water table. <ref type="bibr">[OABM]</ref> Research &amp; Monitoring AWBO2. Characterize aweme borer habitat in known element occurrences. AWBO3. Identify five new populations on state, federal, or privately managed lands. <ref type="bibr">[OABM]</ref> Conservation Designation &amp; Planning AWBO4. Identify management activities most beneficial to larval host plants. <ref type="bibr">[OABM]</ref> Black-backed woodpecker</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Threats</head><p>Natural System Modifications</p><p>• Fire suppression <ref type="bibr" target="#b36">(Siegel et al. 2018</ref><ref type="bibr" target="#b40">, Tremblay et al. 2020</ref>).</p><p>• Post-fire salvage logging <ref type="bibr" target="#b36">(Siegel et al. 2018</ref><ref type="bibr" target="#b40">, Tremblay et al. 2020</ref>).</p><p>• Destruction of large tracts of coniferous forest and removal of recently dead snags <ref type="bibr" target="#b36">(Siegel et al. 2018</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conservation Actions</head><p>Land &amp; Water Management BBW1.</p><p>Avoid salvage logging for 5 to 8 years after a fire <ref type="bibr" target="#b36">(Siegel 2018</ref><ref type="bibr" target="#b40">, Tremblay et al. 2020)</ref>. Patch size of burned timber should be a minimum of 500 acres in size in large tracts or in a patchwork of large-scale disturbance.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>BBW2.</head><p>Allow natural fires to burn and consider use of prescribed fire to create additional habitat <ref type="bibr" target="#b36">(Siegel et al. 2018</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>BBW3.</head><p>Protect large tracts of boreal forest and retain recently dead snags within these habitats. [LCP; LHCS]</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Dwarf Lake Iris</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Threats</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Lack of Knowledge</head><p>• Unknown response and recovery to shoreline disturbances (e.g., canopy opening, flash flooding, sand deposition; <ref type="bibr">Hackett et al. 2024</ref>) and fire.</p><p>• Unknown genetic condition, relation and exchange between Canadian and USA populations <ref type="bibr" target="#b15">(Cohen and Turgman-Cohen 2023)</ref>.</p><p>• Seed dispersal vectors, distance, limitations (Environment and Climate Change Canada 2022). <ref type="bibr">[ODLI]</ref> Residential &amp; Commercial Development • Conversion of natural forest cover to plantations, development, agriculture.</p><p>• Fire suppression may limit potential habitat.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Changing Weather Patterns</head><p>• Population decline of near-shore populations due to increased frequency and extremity of weather events increasing flooding and substrate deposition. Research &amp; Monitoring DLI6. Expand genetic population and adaptive analysis to include Canadian populations <ref type="bibr" target="#b15">(Cohen and Turgman-Cohen 2023</ref>). DLI7. Monitor populations of various sizes and habitats in interoperable manner for populationand species-level trend analysis and predictions (U.S. Fish and Wildlife Service 2013).</p><p>[DRP] DLI8. Understand response and recovery to sand deposition and high-water levels <ref type="bibr">(Hackett et al. 2024</ref>). DLI9. Increase understanding and limitations of natural seed dispersal.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Moose</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Threats</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Changing Weather Patterns</head><p>• Shifts in vegetation communities over time may push habitat out of Michigan.</p><p>• Potential for increased disturbance patterns may disrupt or destroy habitat.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conservation Actions</head><p>Land &amp; Water Management MOOSE1. While the climate impacts to habitat are not manageable on a local scale, presence and quantity of high-quality habitat can buffer shifts in moose distribution. Make sure to protect or create high-quality moose habitat where possible.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Snowshoe Hare</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Threats</head><p>Changing Weather Patterns</p><p>• Snowshoe Hares' coat color change is triggered by changes in day length and shortened periods of continuous snow cover in winter have resulted in longer periods of mismatch where the coat does not match the ground cover which result in increased predation and lower survival rates <ref type="bibr" target="#b27">(Mills et al. 2013</ref><ref type="bibr">, Zimova et al. 2016</ref><ref type="bibr" target="#b48">, Zimova et al. 2018)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Habitat Fragmentation</head><p>• Snowshoe Hares are sensitive to habitat fragmentation and populations along southern range boundaries are often supported through immigration <ref type="bibr" target="#b24">(Keith et al. 1993</ref><ref type="bibr" target="#b47">, Wirsing et al. 2002)</ref>. Loss of dispersal pathways may inhibit recolonization of sites along the southern range boundary and result in permanent loss of these populations.</p><p>• Loss of habitat quality and vegetative cover impacts hare ability to hide and forage.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conservation Actions</head><p>Land &amp; Water Management SSH1. While the climate impacts are not manageable on a local scale, presence and quantity of high-quality habitat can buffer the negative impacts of coat-color mismatch on survival <ref type="bibr" target="#b44">(Wilson et al. 2019)</ref>. Maintaining large patches (&gt; 5 ha) of preferred habitat can potentially slow these impacts. SSH2. Ensure protection measures for existing high-quality forested wetlands to ensure habitat connectivity. [PSH; IFGM] SSH3. Increase the prevalence of diverse conifer-dominated stands in upland regions to improve landscape heterogeneity and structural diversity. SSH4. Implement forest management practices that prioritize high stem-density conifer and deciduous stands.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Places for partnership</head><p>This map was created in collaboration with partners and highlights focal areas to work in over the next 10 years. Creating shared goals helps focus efforts and build collaboration. While this map has a select few areas highlighted, conservation work benefitting any Boreal Forest is welcome and encouraged.</p><p>How will we monitor?</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Boreal Forests</head><p>• Continue to survey and update quality rankings for Boreal Forests in the state's Natural Heritage Database.</p><p>• Develop monitoring protocol for evaluating the ecological integrity of boreal forest.</p><p>• Prioritize surveys for boreal forest on private lands.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Aweme Borer</head><p>• Conduct standard black light surveys for adults.</p><p>• Monitor bog buckbean populations where aweme borer are present.</p><p>• Update element occurrences in the state's Natural Heritage Database.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Black-backed Woodpecker</head><p>• Conduct targeted surveys throughout the Upper Peninsula to document new populations • Continue annual North American Breeding Bird Survey • Use community science programs, like eBird, to assess distribution and abundance • Update element occurrences in the state's Natural Heritage Database</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Dwarf Lake Iris</head><p>• Collect standardized count-based and population density measurements at least every five years.</p><p>• Document any observable changes with the area occupied for a population at least every five years.</p><p>• Update occurrences in the state's Natural Heritage Database.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Moose</head><p>• Continue standardized population surveys every two years.</p><p>• Continue Moose collar study with DNR, Keweenaw Bay Indian Community, and Northern Michigan University.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Snowshoe Hare</head><p>• Continue monitoring abundance and population trends through harvest data surveys.</p><p>Links to other plans </p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head></head><label></label><figDesc>Fish and Wildlife Service (USFWS), US Environmental Protection Agency (EPA), Michigan Department of Natural Resources (DNR), Michigan Department of Environment, Great Lakes, and Energy (EGLE), The Nature Conservancy (TNC), Little Traverse Conservancy, and Huron Pines, MNFI conducted surveys from 2015 through 2025 and documented 17 new occurrences of boreal forest (MNFI 2025).Surveys in 2024-25 documented new occurrences of aweme borer in Michigan at three sites and identified several additional host plant populations in need of further moth inventory.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head></head><label></label><figDesc>are the world's largest living member of the deer family and in Michigan reside exclusively in the Upper Peninsula and on Isle Royale. With moose able to exceed 1,000 pounds and standing up to six feet tall, they are well adapted to handling the harsh winters and deep snows of the Upper Peninsula. Moose are native to Michigan but were estimated to have either disappeared or had their numbers reduced to a few individuals by the early 1900s. Reintroduction efforts to the mainland of the Upper Peninsula were attempted in the 1930s and more successfully in the 1980s when 59 moose were brought in from Ontario. Moose in Michigan are at the southern extent of their global range. This species has been documented from 11 sites in 6 counties in Michigan as of 2025 in the state's Natural Heritage Database and 3 of these occurrences were observed within the last 30 years (1995-2025; MNFI 2025). Goal • Maintain high quality boreal forest habitats suitable for Moose. [MRMP] Snowshoe Hare</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>•</head><label></label><figDesc>Shoreline development is a major threat, particularly along Lake Michigan and Huron o Decreases resiliency of the system o Creates barriers between lake and upland forest interface, restricting and disrupting a dynamic and biodiverse zoneHuman Intrusions &amp; Disturbance• Fragmentation is a major threat due to multiple causes, including residential development, logging, mining, oil and gas extraction, and trail system development• Management practices over the past century have tended to favor early-successional stages of many forest types across the landscape and reduce species diversity and structural complexity.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="4,72.00,162.84,259.50,259.50" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="5,72.00,116.74,231.00,231.00" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="7,72.00,72.00,252.00,252.00" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="8,72.00,72.00,252.00,252.00" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Call Out Box: Boreal</head><label></label><figDesc>Forests on Public LandKnown boreal forest communities located upon state and federal public lands are generally identified and protected within management systems and provide continuity of habitat for associated focal species. For example, all known boreal forest element occurrences on state forest land are protected as high conservation value Ecological Reference Areas and the largest occurrence of boreal forest in Michigan is the federally designated wilderness on Isle Royale.</figDesc><table /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head></head><label></label><figDesc>. Michigan Natural Features Inventory, with funding support from the Michigan Department of Natural Resources, assessed Adaptive Capacity for over 500 Midwest SGCN from 2023-2024 (Appendix 3). We chose to increase clarity at expense of precision in technical language used by<ref type="bibr" target="#b39">Thurman et al. (2020)</ref> in their paper. The Michigan Department of Natural Resources created broad management strategies based off assessment results and are intended to be stepped down based on management scale, capacity and resources. Management strategies for assessed 2025-2035 focal species are:</figDesc><table><row><cell></cell><cell>Lowest adaptive capacity</cell><cell>Strategy</cell></row><row><cell cols="2">Black-backed Woodpecker Range of Tolerances</cell><cell>Increase habitat connectivity</cell></row><row><cell>Aweme Borer</cell><cell cols="2">Dependent on Other Species Enhance reproduction or survival</cell></row><row><cell>Moose</cell><cell>Range of Tolerances</cell><cell>Increase habitat connectivity</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head></head><label></label><figDesc>Map full extent of boreal forest communities in the northern Lower Peninsula. In the Upper Peninsula, focus survey efforts on private lands, especially on Great Lakes islands where high-quality remnants are most likely to occur. BF6. Develop monitoring protocols to evaluate the ecological integrity of boreal forest and implement monitoring in benchmarks. BF7. Investigate lichens as indicator species for pollution BF8. Conduct research into prescribed fire in boreal forests:</figDesc><table><row><cell>Conservation Actions</cell></row><row><cell>Land &amp; Water Management</cell></row><row><cell>BF1. Manage, reduce, and prevent the spread of invasive species (Higman and Campbell 2009). [SFMP; TIMP] BF2. Promote and maintain forestry best management practices to reduce negative impacts to boreal forests, including protecting soil productivity and water quality by minimizing soil disturbance and erosion, using silvicultural practices that emulate the scale and intensity of natural disturbance, retaining snags and coarse woody debris, and restoring impacted areas with diverse, native species. [SFMP; LCP; LHCS]</cell></row><row><cell>Research &amp; Monitoring</cell></row><row><cell>BF3. Research impacts of herbivory on rare species and their habitats. House in a centralized database.</cell></row><row><cell>BF4. Better understand of the effects of changing weather patterns on boreal forests around which species are most vulnerable, longer growing seasons and shifts in precipitation events. [SFMP; TIMP] BF5.</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head></head><label></label><figDesc>Identify and protect boreal forests, including using no-cut buffers along coastal systems. BF16. Take appropriate enforcement actions for violations of the Michigan Threatened and Endangered Species Act (NREPA Part 365), the Invasive Species Order (NREPA Part 413) and maintain the Prohibited and Restricted Species list pursuant to the Natural Resources and Environmental Protection Act, P.A. 451 of 1994, as amended.</figDesc><table><row><cell>Conservation Designation &amp; Planning</cell></row><row><cell>BF11. Minimize development along shorelines. [MLCP] BF12. Identify special conservation areas to protect boreal forest and associated natural communities. BF13. Because of the geographic overlap of boreal forests and Indigenous cultural significance, the conservation and management of boreal forests should be approached in partnership with the region's Indigenous peoples that have depended on these systems for centuries. BF14. Develop an invasive species response plan and incorporate it into appropriate</cell></row><row><cell>management planning and implementation (Higman and Campbell 2009) [SFMP; TIMP]</cell></row><row><cell>Law &amp; Policy</cell></row><row><cell>BF15.</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_4"><head></head><label></label><figDesc>Encroachment of invasive species, particularly taller species that can shade out the iris (e.g., common barberry, bush honeysuckle).[DRP]    </figDesc><table><row><cell>Invasive &amp; Problematic Species, Pathogens &amp; Genes</cell></row><row><cell>• Natural System Modifications</cell></row><row><cell>• Increased canopy closure reduces reproduction (Van Kley and Wujek 1993).</cell></row><row><cell>• Incompatible development and lack of implementation of best management practices destroying and degrading habitats. [DRP; HDLI; ODLI]</cell></row><row><cell>Human Intrusions &amp; Disturbance</cell></row><row><cell>• Off-road vehicle use and repeated trampling which destroys and degrades habitat. [DRP]</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_5"><head></head><label></label><figDesc>Continued research into translocation techniques and long-term survival. DLI2. Continued research into response to canopy manipulation (Hackett and Ellison 2024). DLI3. Research on response of dwarf lake iris to natural disturbance factors (e.g., sand deposition, flooding).</figDesc><table><row><cell>Conservation Actions</cell></row><row><cell>Species Management</cell></row><row><cell>DLI1. Raising Awareness</cell></row><row><cell>DLI4. Develop and inform private landowners about best management practices for co-existence. [DRP; ODLI]</cell></row><row><cell>Conservation Designation &amp; Planning</cell></row><row><cell>DLI5. Develop management plans for populations on state-owned land. [DRP]</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_6"><head></head><label></label><figDesc>Draft Recovery Plan (U.S. Fish and Wildlife Service 2013) [HDLI] Dwarf Lake Iris (Iris lacustris) Best Practice Guide: for Practitioners of Restoration or Construction Related Work in Michigan (Huron Pines) [LCP] Partners in Flight Landbird Conservation Plan: 2016 Revision for Canada and Continental United States (Rosenberg et al. 2016) [LHCS] Upper Mississippi / Great Lakes Joint Venture Landbird Habitat Conservation Strategy -2020 Revision (Soulliere 2020) [MLCP] Michigan Coastal and Estuarine Land Conservation Plan (Michigan Department of Environmental Quality 2008) [MRMP] Minnesota moose research and management plan (Minnesota Department of Natural Resources 2011)</figDesc><table /><note><p><p><p>[CPiF] A Conservation Strategy for the Black-backed Woodpecker (Picoides arcticus) in California</p><ref type="bibr" target="#b7">(Bond et al. 2012)</ref> </p>[DRP] Dwarf Lake Iris (Iris lacustris):</p></note></figure>
+		</body>
+		<back>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<monogr>
+		<title level="m" type="main">Recovery strategy for the Aweme Borer Moth (Papaipema aweme) in Ontario (Environment and Climate Change Canada</title>
+		<imprint>
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<title level="m" type="main">Management Plan for the Dwarf Lake Iris (Iris lacustris) in Canada (Environment and Climate Change Canada</title>
+		<imprint>
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<title level="m" type="main">National Prescribed Fire Resource Mobilization Strategy</title>
+		<imprint>
+			<date type="published" when="2023">2023</date>
+			<pubPlace>U.S. Forest Service</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<title level="m" type="main">Terrestrial Invasive Species Management Plan (State of Michigan 2024) Literature Cited</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<monogr>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Albert</surname></persName>
+		</author>
+		<title level="m">Natural community abstract for Limestone Bedrock Glade. Michigan Natural Features Inventory</title>
+		<meeting><address><addrLine>Lansing, MI, USA</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<monogr>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Albert</surname></persName>
+		</author>
+		<title level="m">Natural community abstract for Volcanic Bedrock Glade. Michigan Natural Features Inventory</title>
+		<meeting><address><addrLine>Lansing, MI, USA</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<monogr>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">J</forename><surname>Bassett</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Lincoln</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">G</forename><surname>Cohen</surname></persName>
+		</author>
+		<idno>2023-32</idno>
+		<title level="m">Natural Community Surveys of the Keweenaw Heartlands. Michigan Natural Features Inventory</title>
+		<meeting><address><addrLine>Lansing, MI</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2023">2023</date>
+			<biblScope unit="page">100</biblScope>
+		</imprint>
+	</monogr>
+	<note type="report_type">Report Number</note>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<monogr>
+		<title level="m" type="main">A Conservation Strategy for the Black-backed Woodpecker (Picoides arcticus) in California -Version 1.0. The Institute for Bird Populations and California Partners in Flight</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Bond</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">B</forename><surname>Siegel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Craig</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2012">2012</date>
+			<biblScope unit="volume">131</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<monogr>
+		<title level="m" type="main">Management and biology of snowshoe hares in Pennsylvania 2024-2033</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Boyd</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2024">2024</date>
+			<publisher>Bureau of Wildlife Management</publisher>
+			<biblScope unit="page">68</biblScope>
+			<pubPlace>Harrisburg, PA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<monogr>
+		<title level="m" type="main">The Mammals of Michigan</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">H</forename><surname>Burt</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1948">1948</date>
+			<publisher>The University of Michigan Press</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Climate Factors Related to Localized Changes in Snowshoe Hare (Lepus americanus) Occupancy</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Burt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">J</forename><surname>Roloff</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">R</forename><surname>Etter</surname></persName>
+		</author>
+		<idno type="DOI">10.1139/cjz-2016-0180</idno>
+		<ptr target="https://doi.org/10.1139/cjz-2016-0180" />
+	</analytic>
+	<monogr>
+		<title level="j">Canadian Journal of Zoology</title>
+		<imprint>
+			<biblScope unit="volume">95</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="15" to="22" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<monogr>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">G</forename><surname>Cohen</surname></persName>
+		</author>
+		<title level="m">Natural community abstract for Dry Northern Forest. Michigan Natural Features Inventory</title>
+		<meeting><address><addrLine>Lansing, MI, USA</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2002">2002</date>
+			<biblScope unit="page">15</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<monogr>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">G</forename><surname>Cohen</surname></persName>
+		</author>
+		<title level="m">Natural community abstract for Boreal Rorest. Michigan Natural Features Inventory</title>
+		<meeting><address><addrLine>Lansing, MI, USA</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2007">2007</date>
+			<biblScope unit="page">24</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<monogr>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">G</forename><surname>Cohen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Kost</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">S</forename><surname>Slaughter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Albert</surname></persName>
+		</author>
+		<title level="m">A Field Guide to the Natural Communities of Michigan</title>
+		<meeting><address><addrLine>East Lansing, MI</addrLine></address></meeting>
+		<imprint>
+			<publisher>Michigan State University Press</publisher>
+			<date type="published" when="2015">2015</date>
+			<biblScope unit="page">362</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<monogr>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">G</forename><surname>Cohen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Kost</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">S</forename><surname>Slaughter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Albert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Lincoln</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">P</forename><surname>Kortenhoven</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Wilton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">D</forename><surname>Enander</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">E</forename><surname>Anderson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Parr</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">J</forename><surname>Bassett</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">M</forename><surname>Korroch</surname></persName>
+		</author>
+		<ptr target="https://mnfi.anr.msu.edu/communities/classification" />
+		<title level="m">Michigan Natural Community Classification</title>
+		<meeting><address><addrLine>Lansing, MI</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2025">2025</date>
+		</imprint>
+		<respStmt>
+			<orgName>Michigan State University Extension</orgName>
+		</respStmt>
+	</monogr>
+	<note>Michigan Natural Features Inventory</note>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">The Conservation Genetics of Iris lacustris</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">I</forename><surname>Cohen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Turgman-Cohen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Great Lakes Endemic. Plants</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="1" to="17" />
+			<date type="published" when="2023">2023</date>
+			<pubPlace>Dwarf Lake Iris</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<monogr>
+		<title level="m" type="main">Department of Natural Resources (MDNR). 2024. State Forest Management Plan. Michigan Department of Natural Resources</title>
+		<imprint>
+			<date type="published" when="1766">1766</date>
+			<pubPlace>Lansing, MI</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Species at Risk Act Recovery Strategy Series. 15 pp. Environment and Climate Change Canada. 2022. Management Plan for Dwarf Lake Iris (Iris lacustris) in Canada [Proposed]. Species at Risk Act Management Plant Series. Environment and Climate Change Canada</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Earl</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">C</forename><surname>Branch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">A</forename><surname>Cole-Wick</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">M</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">M</forename><surname>Rowe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Badra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Wilton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Cuthrell</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="s">Species at Risk Act Management Plan Series. Environment and Climate Change Canada</title>
+		<imprint>
+			<biblScope unit="page">29</biblScope>
+			<date type="published" when="2017">2024. 2017</date>
+			<publisher>Michigan Natural Features Inventory</publisher>
+			<pubPlace>Lansing; Ottawa, Canada; Ottawa, Ontario, CA; Ottawa, Canada</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Environment and Climate Change Canada. 2023. Management Plan for the Dwarf Lake Iris (Iris lacustris) in Canada</note>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<monogr>
+		<title level="m" type="main">Short-term response of dwarf lake iris to canopy manipulation</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Hackett</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Ellison</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2024">2024</date>
+			<publisher>Michigan Natural Features Inventory</publisher>
+			<biblScope unit="page">38</biblScope>
+			<pubPlace>Lansing, MI</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<monogr>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Hackett</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Klain</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Spieles</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Kirkpatrick</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Mackinnon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Higman</surname></persName>
+		</author>
+		<idno>No. 2024-11</idno>
+		<title level="m">Dwarf Lake Iris Recovery and Population Monitoring: Final Report. Michigan Natural Features Inventory</title>
+		<meeting><address><addrLine>Lansing, MI</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2024">2024</date>
+			<biblScope unit="page">195</biblScope>
+		</imprint>
+	</monogr>
+	<note type="report_type">Report</note>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<author>
+			<persName><forename type="first">S</forename><surname>Handler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Duveneck</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Iverson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Peters</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Scheller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">R</forename><surname>Wythers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Brandt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Butler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Janowiak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">D</forename><surname>Shannon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Swanston</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">C</forename><surname>Eagle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">G</forename><surname>Cohen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Corner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">B</forename><surname>Reich</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Baker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Chhin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Clark</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Fehringer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Fosgitt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Gries</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Hall</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">R</forename><surname>Hall</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Heyd</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">L</forename><surname>Hoving</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Ibez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Kuhr</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Matthews</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Muladore</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Nadelhoffer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Neumann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Peters</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Prasad</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Sands</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Swaty</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Wonch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Daley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Davenport</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Emery</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Johnson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Johnson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Neitzel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Rissman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Rittenhouse</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Ziel</surname></persName>
+		</author>
+		<idno type="DOI">10.2737/NRS-GTR-129</idno>
+		<ptr target="https://doi.org/10.2737/NRS-GTR-129" />
+	</analytic>
+	<monogr>
+		<title level="m">Michigan forest ecosystem vulnerability assessment and synthesis: a report from the Northwoods Climate Change Response Framework project</title>
+		<meeting><address><addrLine>Newtown Square, PA</addrLine></address></meeting>
+		<imprint>
+			<publisher>U.S. Department of Agriculture</publisher>
+			<date type="published" when="2014">2014</date>
+			<biblScope unit="volume">129</biblScope>
+		</imprint>
+	</monogr>
+	<note>Forest Service, Northern Research Station. 229 pp</note>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<monogr>
+		<author>
+			<persName><forename type="first">P</forename><surname>Higman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Campbell</surname></persName>
+		</author>
+		<title level="m">Meeting the Challenge of Invasive Plants: A Framework for Action. Michigan Natural Features Inventory</title>
+		<meeting><address><addrLine>Lansing, MI</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2009">2009</date>
+			<biblScope unit="page">87</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Dwarf Lake Iris (Iris lacustris) Best Practice Guide: for Practitioners of Restoration or Construction Related Work in Michigan. Huron Pines, Grayling, MI. 4 pp. Idaho Department of Fish and Game</title>
+		<author>
+			<persName><forename type="first">Huron</forename><surname>Pines</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Idaho Moose Management Plan</title>
+		<meeting><address><addrLine>Boise</addrLine></address></meeting>
+		<imprint>
+			<publisher>Idaho Department of Fish and Game</publisher>
+			<date type="published" when="2020">2020. 2020-2025</date>
+			<biblScope unit="page">122</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<monogr>
+		<title level="m" type="main">Feasibility statements for snowshoe hare goals and objectives</title>
+		<author>
+			<persName><forename type="first">W</forename><surname>Jakubas</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2002">2002</date>
+			<publisher>Maine Department of Inland Fisheries &amp; Wildlife</publisher>
+			<pubPlace>Augusta, ME</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Dynamics of a Snowshoe Hare Population in Fragmented Habitat</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">B</forename><surname>Keith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">E M</forename><surname>Bloomer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Willebrand</surname></persName>
+		</author>
+		<idno type="DOI">10.1139/z93-191</idno>
+		<ptr target="https://doi.org/10.1139/z93-191" />
+	</analytic>
+	<monogr>
+		<title level="j">Canadian Journal of Zoology</title>
+		<imprint>
+			<biblScope unit="volume">71</biblScope>
+			<biblScope unit="issue">7</biblScope>
+			<biblScope unit="page" from="1385" to="1392" />
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<monogr>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Kost</surname></persName>
+		</author>
+		<title level="m">Natural community abstract for Rich Conifer Swamp. Michigan Natural Features Inventory</title>
+		<meeting><address><addrLine>Lansing, MI</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<monogr>
+		<title level="m" type="main">Climate Change Vulnerability Assessment of Natural Features in Michigan&apos;s Coastal Zone -Phase I: Assessing Rare Plants and Animals</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Penskar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Badra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">J</forename><surname>Klatt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">H</forename><surname>Schools</surname></persName>
+		</author>
+		<idno>No. 2011-18</idno>
+		<imprint>
+			<date type="published" when="2008">2011. 2008</date>
+			<publisher>Michigan Coastal and Estuarine Land Conservation Plan. National Oceanic and Atmospheric Administration</publisher>
+			<biblScope unit="page">73</biblScope>
+			<pubPlace>Lansing, MI</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>Michigan Department of Environmental Quality</orgName>
+		</respStmt>
+	</monogr>
+	<note type="report_type">Michigan Natural Features Inventory Report</note>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Camouflage Mismatch in Seasonal Coat Color Due to Decreased Snow Duration</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">I</forename><surname>Lansing</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">S</forename><surname>Mills</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Zimova</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Oyler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Running</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">T</forename><surname>Abatzoglou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">M</forename><surname>Lukacs</surname></persName>
+		</author>
+		<idno type="DOI">10.1073/pnas.1222724110</idno>
+		<ptr target="https://doi.org/10.1073/pnas.1222724110" />
+	</analytic>
+	<monogr>
+		<title level="j">Proceedings of the National Academy of Sciences</title>
+		<imprint>
+			<biblScope unit="volume">110</biblScope>
+			<biblScope unit="issue">18</biblScope>
+			<biblScope unit="page" from="7360" to="7365" />
+			<date type="published" when="2013">2025. 2013</date>
+			<publisher>Michigan Natural Features Inventory (MNFI)</publisher>
+		</imprint>
+	</monogr>
+	<note>Michigan Natural Heritage Database</note>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Division of Fish and Wildlife</title>
+	</analytic>
+	<monogr>
+		<title level="m">Minnesota moose research and management plan</title>
+		<meeting><address><addrLine>Saint Paul, MN</addrLine></address></meeting>
+		<imprint>
+			<publisher>Minnesota Department of Natural Resources</publisher>
+			<date type="published" when="2011">2011</date>
+			<biblScope unit="page">52</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<monogr>
+		<author>
+			<orgName type="collaboration">Moose Council</orgName>
+		</author>
+		<title level="m">Moose Council Final Report. Michigan Department of Natural Resources</title>
+		<meeting><address><addrLine>Lansing, MI</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<monogr>
+		<title level="m" type="main">Special animal abstract for Picoides arcticus (black-backed woodpecker)</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Olson</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2002">2002</date>
+			<publisher>Michigan Natural Features Inventory</publisher>
+			<pubPlace>Lansing, MI</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">A fire deficit persists across diverse North American forests despite recent increases in area burned</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">A</forename><surname>Parks</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">H</forename><surname>Guiterman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">Q</forename><surname>Margolis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Lonergan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Whitman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">T</forename><surname>Abatzoglou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Falk</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Johnston</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">D</forename><surname>Daniels</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">W</forename><surname>Lafon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Loehman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">F</forename><surname>Kipfmueller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">E</forename><surname>Naficy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Parisien</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Portier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">C</forename><surname>Stambaugh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">P</forename><surname>Williams</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">P</forename><surname>Wion</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Yocom</surname></persName>
+		</author>
+		<idno type="DOI">10.1038/s41467-025-56333-8</idno>
+		<ptr target="https://doi.org/10.1038/s41467-025-56333-8" />
+	</analytic>
+	<monogr>
+		<title level="j">Nature Communications</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page">1493</biblScope>
+			<date type="published" when="2025">2025</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<monogr>
+		<title level="m" type="main">Species account for Iris lacustris (dwarf lake iris)</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Penskar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">R</forename><surname>Crispin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Higman</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2001">2001</date>
+			<publisher>Michigan Natural Features Inventory</publisher>
+			<pubPlace>Lansing, MI</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Even modest climate change may lead to major transitions in boreal forests</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">B</forename><surname>Reich</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Bermudez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Montgomery</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">L</forename><surname>Rich</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">E</forename><surname>Rice</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">E</forename><surname>Hobbie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Stefanski</surname></persName>
+		</author>
+		<idno type="DOI">10.1038/s41586-022-05076-3</idno>
+		<ptr target="https://doi.org/10.1038/s41586-022-05076-3" />
+	</analytic>
+	<monogr>
+		<title level="j">Nature</title>
+		<imprint>
+			<biblScope unit="volume">608</biblScope>
+			<biblScope unit="page" from="540" to="545" />
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<monogr>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">V</forename><surname>Rosenberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Kennedy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Dettmers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">P</forename><surname>Ford</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Reynolds</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Alexander</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">J</forename><surname>Beardmore</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Blanchar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">E</forename><surname>Bogart</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">S</forename><surname>Butcher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">F</forename><surname>Camfield</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Couturier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Demarest</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">E</forename><surname>Easton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Giocomo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">H</forename><surname>Keller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">E</forename><surname>Mini</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">O</forename><surname>Panjabi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">N</forename><surname>Pashley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">D</forename><surname>Rich</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Ruth</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Stabins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Stanton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Will</surname></persName>
+		</author>
+		<title level="m">Partners in Flight Landbird Conservation Plan: 2016 Revision for Canada and Continental United States. Partners in Flight Science Committee</title>
+		<imprint>
+			<date type="published" when="2016">2016</date>
+			<biblScope unit="page">119</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<monogr>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Sauer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">A</forename><surname>Link</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Hines</surname></persName>
+		</author>
+		<idno type="DOI">10.5066/P96A7675</idno>
+		<ptr target="https://doi.org/10.5066/P96A7675" />
+		<title level="m">The North American Breeding Bird Survey, Analysis Results 1966 -2019: U.S. Geological Survey data release</title>
+		<imprint>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<monogr>
+		<title level="m" type="main">A Conservation Strategy for the Black-backed Woodpecker (Picoides arcticus) in California. Version 2.0. The Institute for Bird Populations and California Partners in Flight</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">B</forename><surname>Siegel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Bond</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>Howell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">C</forename><surname>Sawyer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Craig</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2018">2018</date>
+			<pubPlace>Point Reyes Station, California</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<monogr>
+		<title level="m" type="main">Upper Mississippi River and Great Lakes Region Joint Venture Waterbird Habitat Conservation Strategy</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">J</forename><surname>Soulliere</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">A</forename><surname>Potter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Holm</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Granfors</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Monfils</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">J</forename><surname>Lewis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">E</forename><surname>Thogmartin</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2007">2007</date>
+			<publisher>U.S. Fish and Wildlife Service</publisher>
+			<biblScope unit="volume">68</biblScope>
+			<biblScope unit="page">pp</biblScope>
+			<pubPlace>Washington, D.C</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Upper Mississippi / Great Lakes Joint Venture Landbird Habitat Conservation Strategy -2020 Revision</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">J</forename><surname>Soulliere</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Al-Saffar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">R</forename><surname>Vanbeek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Tonra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">D</forename><surname>Nelson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">N</forename><surname>Ewert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Will</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">E</forename><surname>Thogmartin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">E</forename><surname>O'brien</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">W</forename><surname>Kendrick</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Gillet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Herkert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">E</forename><surname>Gnass Giese</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">P</forename><surname>Ward</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Graff</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Terrestrial Invasive Species Management Plan</title>
+		<imprint>
+			<biblScope unit="page">46</biblScope>
+			<date type="published" when="2020">2020. 2024</date>
+			<publisher>State of Michigan</publisher>
+			<pubPlace>Lansing, MI</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">Persist in place or shift in space? Evaluating the adaptive capacity of species to climate change</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">L</forename><surname>Thurman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Stein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Beever</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Foden</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Sr Geange</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Green</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Gross</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Lawrence</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Ledee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">M</forename><surname>Jd Olden</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Thompson</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Young</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Frontiers in Ecology and Evolution</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="issue">9</biblScope>
+			<biblScope unit="page" from="520" to="528" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">Black-backed Woodpecker (Picoides arcticus), version 1.0</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Tremblay</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">D</forename><surname>Dixon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">A</forename><surname>Saab</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Pyle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Patten</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Birds of the World</title>
+		<editor>
+			<persName><forename type="first">P</forename><forename type="middle">G</forename><surname>Rodewald</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Ithaca, NY, USA</addrLine></address></meeting>
+		<imprint>
+			<publisher>Cornell Lab of Ornithology</publisher>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<monogr>
+		<title level="m" type="main">Dwarf Lake Iris (Iris lacustris): Draft Recovery Plan</title>
+		<imprint>
+			<date type="published" when="2013">2013</date>
+			<publisher>Midwest Region U.S. Fish and Wildlife Service</publisher>
+			<pubPlace>Bloomington, Minnesota</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<monogr>
+		<title level="m" type="main">National Prescribed Fire Resource Mobilization Strategy. United States Department of Agriculture</title>
+		<imprint>
+			<date type="published" when="2023">2023</date>
+			<publisher>U.S. Forest Service</publisher>
+			<biblScope unit="volume">40</biblScope>
+			<biblScope unit="page">pp</biblScope>
+			<pubPlace>Washington D.C</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<title level="a" type="main">Habitat and Ecology of Iris lacustris (the Dwarf Lake Iris)</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Van Kley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">E</forename><surname>Wujek</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Michigan Botanist</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="page" from="209" to="222" />
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<analytic>
+		<title level="a" type="main">An Experimental Translocation Identifies Habitat Features That Buffer Camouflage Mismatch in Snowshoe Hares</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">C</forename><surname>Wilson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">A</forename><surname>Shipley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Zuckerberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">Z</forename><surname>Peery</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">N</forename><surname>Pauli</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/conl.12614</idno>
+		<ptr target="https://doi.org/10.1111/conl.12614" />
+	</analytic>
+	<monogr>
+		<title level="j">Conservation Letters</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page">12614</biblScope>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<analytic>
+		<title level="a" type="main">The past, present and future impacts of climate and land use change on snowshoe hares along their southern range boundary</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">C</forename><surname>Wilson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Zuckerberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">Z</forename><surname>Peery</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">N</forename><surname>Paulie</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.biocon.2020.108731</idno>
+		<ptr target="https://doi.org/10.1016/j.biocon.2020.108731" />
+	</analytic>
+	<monogr>
+		<title level="j">Biological conservation</title>
+		<imprint>
+			<biblScope unit="volume">249</biblScope>
+			<biblScope unit="page">108731</biblScope>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<analytic>
+		<title level="a" type="main">Habitat and climate association of climate-sensitive species along a southern range boundary</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">C</forename><surname>Wilson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Cousins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">R</forename><surname>Etter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Humphreys</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">J</forename><surname>Roloff</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">H</forename><surname>Carter</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/ece3.10083</idno>
+		<ptr target="https://doi-org.proxy1.cl.msu.edu/10.1002/ece3.10083" />
+	</analytic>
+	<monogr>
+		<title level="j">Ecology and Evolution</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page">10083</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<analytic>
+		<title level="a" type="main">A Demographic Analysis of a Southern Snowshoe Hare Population in a Fragmented Habitat: Evaluating the Refugium Model</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J</forename><surname>Wirsing</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">D</forename><surname>Steury</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Murray</surname></persName>
+		</author>
+		<idno type="DOI">10.1139/z01-214</idno>
+		<ptr target="https://doi.org/10.1139/z01-214" />
+	</analytic>
+	<monogr>
+		<title level="j">Canadian Journal of Zoology</title>
+		<imprint>
+			<biblScope unit="volume">80</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="169" to="177" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<analytic>
+		<title level="a" type="main">Function and Underlying Mechanisms of Seasonal Colour Moulting in Mammals and Birds: What Keeps Them Changing in a Warming World?</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Zimova</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Hackländer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Good</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Melo-Ferreira</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">C</forename><surname>Alves</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">S</forename><surname>Mills</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/brv.12405</idno>
+		<ptr target="https://doi.org/10.1111/brv.12405" />
+	</analytic>
+	<monogr>
+		<title level="j">Biological Reviews</title>
+		<imprint>
+			<biblScope unit="volume">93</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="1478" to="1498" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>
+

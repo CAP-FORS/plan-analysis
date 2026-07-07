@@ -1,0 +1,825 @@
+{
+  "document_meta": {
+    "title": "South Carolina State Wildlife Action Plan 2025",
+    "year": 2025,
+    "jurisdiction": "South Carolina",
+    "document_type": "SWAP",
+    "document_id": "SC_SWAP_2025",
+    "page_count": 569
+  },
+  "orientation": {
+    "summary": "The 2025 South Carolina State Wildlife Action Plan (SWAP) is a comprehensive, multi-chapter biodiversity conservation document produced by the South Carolina Department of Natural Resources (SCDNR) covering 1,774 species across 16 taxa groups. Climate change is treated as one of nine Conservation Action Areas, with a dedicated regional chapter (Chapter 10) that extensively discusses climate projections, vulnerability assessments, sea-level rise, and adaptation frameworks. Range shifts are explicitly mentioned in multiple contexts—species moving northward, distributional changes under warming, and shifting habitats—though the document primarily references external analyses rather than performing original range-shift modeling. The plan incorporates CCVI estimates and ecological niche model summaries for SGCN compiled by SE CASC/University of Tennessee, references SSP/RCP scenarios, and discusses adaptation frameworks including RAD and RRT. It performs its own COA mapping using the Southeast Conservation Blueprint and calls for management actions that facilitate species movement and connectivity.",
+    "evidence_index": [
+      {
+        "text": "A species is considered vulnerable to climate change if it is both sensitive and exposed to climate change impacts (Williams et al. 2008). For example, a species may be exposed to climate change because it experiences an impact like warmer stream temperatures, but if it is resilient to that change or able to disperse into new habitats, it may ultimately have low vulnerability.",
+        "location": "Chapter 10: South Carolina - A Regional Perspective",
+        "relevant_elements": ["1.1", "1.2"]
+      },
+      {
+        "text": "Two common tools that have been used to determine climate vulnerability of species are 1) the Climate Change Vulnerability Index (CCVIs) (Young et al. 2016) developed by NatureServe and 2) environmental niche modeling-based vulnerability estimates produced by the academic research community.",
+        "location": "Chapter 10: South Carolina - A Regional Perspective",
+        "relevant_elements": ["1.1", "2.1", "2.2"]
+      },
+      {
+        "text": "For South Carolina, 150 SGCN have been scored using the CCVI estimates to date by other institutions.",
+        "location": "Chapter 10: South Carolina - A Regional Perspective",
+        "relevant_elements": ["1.1", "2.1"]
+      },
+      {
+        "text": "Understanding if a species is sensitive and will be exposed to climate change can help managers develop strategies to support the species most likely to be impacted.",
+        "location": "Chapter 10: South Carolina - A Regional Perspective",
+        "relevant_elements": ["1.1"]
+      },
+      {
+        "text": "CCVI is based on an evaluation of the species' direct and indirect exposure to climate change and its sensitivity to climate change.",
+        "location": "Chapter 10: South Carolina - A Regional Perspective",
+        "relevant_elements": ["1.1", "2.1"]
+      },
+      {
+        "text": "Species with low adaptive capacity such as those with specialized habitat needs or limited dispersal ability face higher vulnerability to these changes.",
+        "location": "Chapter 10: South Carolina - A Regional Perspective",
+        "relevant_elements": ["1.1", "1.2", "1.3"]
+      },
+      {
+        "text": "Highly resilient sites contain many different habitat niches that support biodiversity and allow species to move freely through the landscape to find suitable microclimates as the climate changes.",
+        "location": "Chapter 10: South Carolina - A Regional Perspective",
+        "relevant_elements": ["1.2", "1.3", "1.4"]
+      },
+      {
+        "text": "Some species may be exposed to climate change because it experiences an impact like warmer stream temperatures, but if it is resilient to that change or able to disperse into new habitats, it may ultimately have low vulnerability.",
+        "location": "Chapter 10: South Carolina - A Regional Perspective",
+        "relevant_elements": ["1.2", "1.3"]
+      },
+      {
+        "text": "The Cascades constitute a critical pathway for climate connectivity at a continental scale.",
+        "location": "Chapter 10: South Carolina - A Regional Perspective",
+        "relevant_elements": ["1.4"]
+      },
+      {
+        "text": "Ensuring landscape connectivity across jurisdictional boundaries is becoming increasingly important for species management as changes in land use, climate, and weather patterns shift species distributions.",
+        "location": "Chapter 10: South Carolina - A Regional Perspective",
+        "relevant_elements": ["1.4", "3.1"]
+      },
+      {
+        "text": "The Southeast Blueprint also includes a least-cost path connectivity analysis that identifies corridors that link coastal and inland areas and span climate gradients.",
+        "location": "Chapter 10: South Carolina - A Regional Perspective",
+        "relevant_elements": ["1.4", "2.4", "4.1"]
+      },
+      {
+        "text": "About 6.7 million acres (33%) are considered either a hub or a corridor, providing opportunities to support species movement and migration-an important strategy for helping wildlife adapt to landscape-level changes.",
+        "location": "Chapter 10: South Carolina - A Regional Perspective",
+        "relevant_elements": ["1.4", "4.1", "4.2"]
+      },
+      {
+        "text": "The CCVI is a worksheet-based tool where users apply readily available information about a species' natural history, distribution, landscape circumstances, and expert opinions to predict whether it will likely suffer a range contraction and/or population reduction due to climate change",
+        "location": "Chapter 10: South Carolina - A Regional Perspective",
+        "relevant_elements": ["2.1"]
+      },
+      {
+        "text": "Ecological niche models (also called species distribution models) are a common approach for evaluating a species' vulnerability to climate change by the academic research community.",
+        "location": "Chapter 10: South Carolina - A Regional Perspective",
+        "relevant_elements": ["2.2"]
+      },
+      {
+        "text": "These models start by identifying shared climate conditions at sites where a species is known to have occurred and then predict where similar climate conditions may be found on the landscape in the future.",
+        "location": "Chapter 10: South Carolina - A Regional Perspective",
+        "relevant_elements": ["2.2"]
+      },
+      {
+        "text": "Projections of climate change can be examined using two approaches: 1) global warming levels (GWLs); and 2) scenarios. GWLs are defined levels of warming for Earth's average temperature that correspond to increases of 2.7 °F (1.5 °C), 3.6 °F (2 °C), 5.4 °F (3 °C), and 7.2 °F (4 °C) degrees above pre-industrial levels (IPCC2018, Arias et al. 2021).",
+        "location": "Chapter 10: South Carolina - A Regional Perspective",
+        "relevant_elements": ["2.3"]
+      },
+      {
+        "text": "The Fourth National Climate Assessment (NCA4) used projections created with Representative Concentration Pathways (RCPs) to project and talk about future... The Fifth National Climate Assessment (NCA5) used newly developed climate projections created with Shared Socioeconomic Pathways (SSPs)",
+        "location": "Chapter 10: South Carolina - A Regional Perspective",
+        "relevant_elements": ["2.3"]
+      },
+      {
+        "text": "The climate projections used in the NCA5 were created using global climate models from the Coupled Model Intercomparison Project Phase 6 (CMIP6) that were statistically downscaled",
+        "location": "Chapter 10: South Carolina - A Regional Perspective",
+        "relevant_elements": ["2.3"]
+      },
+      {
+        "text": "The study... considered how many days per season met the conditions to conduct prescribed burns under two RCP scenarios: RCP 4.5 representing an intermediate scenario and RCP 8.5 representing a very high scenario.",
+        "location": "Chapter 10: South Carolina - A Regional Perspective",
+        "relevant_elements": ["2.3"]
+      },
+      {
+        "text": "The Southeast Blueprint also includes a least-cost path connectivity analysis that identifies corridors that link coastal and inland areas and span climate gradients. The corridors connect hubs across the shortest distance possible, while also routing through as much Blueprint priority as possible.",
+        "location": "Chapter 10: South Carolina - A Regional Perspective",
+        "relevant_elements": ["2.4", "1.4"]
+      },
+      {
+        "text": "To create the South Carolina COAs map (Figure 8-1), the South Carolina Department of Natural Resources (SCDNR) instituted the first half of North Carolina Heritage Program's (2021) Procedures for Rating Natural Areas as a model.",
+        "location": "Chapter 8: COAs, Actions, and Monitoring",
+        "relevant_elements": ["4.1"]
+      },
+      {
+        "text": "The Southeast Conservation Blueprint (SECAS 2024) identifies 55% of the state of South Carolina as a priority for a connected network of lands and waters; 12% is rated as highest priority, 17% highest, 22% medium, and 4% priority connections.",
+        "location": "Habitat Connectivity and Resiliency",
+        "relevant_elements": ["4.1", "1.4"]
+      },
+      {
+        "text": "Rank available properties and build habitat corridors between isolated populations of plants and animals across private easements and public lands, also utilizing wildlife crossings where applicable.",
+        "location": "Chapter 8: COAs, Actions, and Monitoring",
+        "relevant_elements": ["4.1", "4.2"]
+      },
+      {
+        "text": "Identify, map, and conserve marsh migration corridors using predictive impact modeling.",
+        "location": "Chapter 8: COAs, Actions, and Monitoring",
+        "relevant_elements": ["4.1", "4.2"]
+      },
+      {
+        "text": "Conduct scenario planning for landscape changes and subsequent adaptive management strategies in South Carolina starting with lands owned by the SCDNR. Incorporate probable future climate conditions and resulting range shifts into existing management plans for these properties, addressing tipping points (see Powell et al. 2017), the RAD (resist-accept-direct) framework, and desired future conditions.",
+        "location": "Chapter 8: COAs, Actions, and Monitoring",
+        "relevant_elements": ["4.2", "4.5"]
+      },
+      {
+        "text": "Land managers have the option of resisting change and instead returning the current ecosystem to its historic state through species reintroductions or augmentations (through breeding programs or translocations), accepting that changes are occurring and allowing the transformation to progress, or actively directing change to a new state using techniques like assisted migration of animals or planting tree species",
+        "location": "Chapter 9: Implementation and Adaptive Management",
+        "relevant_elements": ["4.2", "4.5"]
+      },
+      {
+        "text": "Collaborate with neighboring states to address species and habitat range shifts due to climate change.",
+        "location": "Chapter 8: COAs, Actions, and Monitoring",
+        "relevant_elements": ["4.2", "3.1"]
+      },
+      {
+        "text": "Two well-known examples of frameworks include the Resist-Accept-Direct (RAD) Framework developed by the US National Park Service (see also Chapter 9 where it is discussed) and the Climate Adaptation in Practice: Resistance, Resilience and Transition (RRT) Framework developed by Colorado State University.",
+        "location": "Chapter 10: South Carolina - A Regional Perspective",
+        "relevant_elements": ["4.5"]
+      },
+      {
+        "text": "The AFWA 2022 (2nd Edition) Voluntary Guidance for States to Incorporate Climate Adaptation into State Wildlife Action Plans provides recommended steps for developing and implementing adaptation strategies.",
+        "location": "Chapter 10: South Carolina - A Regional Perspective",
+        "relevant_elements": ["4.5"]
+      },
+      {
+        "text": "Climate change is causing sea level rise, but lands adjacent to salt-marsh edges are often developed and/or armored, limiting the natural process of salt marshes migrating inland. Rising seas are causing salt marshes to drown, thus reducing the size of this valuable wildlife habitat (Tibbetts 2007). Facilitated marsh migration and nontidal (inland) wetland creation in South Carolina can offset some of this loss of saltmarsh habitat.",
+        "location": "Chapter 4: Overview of the Taxonomic Groups",
+        "relevant_elements": ["3.5", "4.2"]
+      },
+      {
+        "text": "As the climate changes and becomes warmer, oceans are warming and becoming more acidic. Stressed by these environmental conditions, marine fish and invertebrates may experience decreases in reproductive success.",
+        "location": "Chapter 4: Overview of the Taxonomic Groups",
+        "relevant_elements": ["3.6", "3.5"]
+      },
+      {
+        "text": "Warming sea temperatures due to climate change can affect marine mammal prey availability, habitat availability, spatial and temporal distribution, behavior, physiological stress, and their overall health. A shift in the availability of prey could result in the lack of available food resources causing emaciation and starvation.",
+        "location": "Chapter 4: Overview of the Taxonomic Groups",
+        "relevant_elements": ["3.6", "3.5"]
+      },
+      {
+        "text": "Examples of climate change-induced changes include the uncoupling of phenologies (e.g. Vasiliev and Greenwood 2021, Thackeray et al. 2016, Robertson et al. 2024) such as plant bloom windows versus insect emergence, range shifts (expansions and contractions), hybridizations, and changes in food webs/pyramid bases.",
+        "location": "Chapter 5: Common Threats and Stressors",
+        "relevant_elements": ["3.7", "1.1"]
+      },
+      {
+        "text": "Breeding bird ranges have begun to shift north as is evident by tropical species establishing themselves along the Gulf Coast. As temperatures increase, it's predicted that long-distance migrants, populations at high latitudes, and forest species will be at high risk (Youngflesh et al. 2023).",
+        "location": "Chapter 4: Overview of the Taxonomic Groups",
+        "relevant_elements": ["1.1", "3.7"]
+      },
+      {
+        "text": "it is also expected that with climate change and increased temperatures, some species will increase their geographic range northwards in a phenomenon known as 'Caribbean creep' with such range expansions and/or contractions now becoming common.",
+        "location": "Chapter 4: Overview of the Taxonomic Groups",
+        "relevant_elements": ["3.7", "1.1"]
+      },
+      {
+        "text": "While long-term changes in temperature and salinity patterns may be overcome for some non-sessile organisms by their ability to move, this inevitably will lead to species range expansions and hence conflicts with native species... Such range expansions are already occurring, with several sub-tropical species (e.g. Common Snook, Atlantic Tripletail, Tarpon) typically rare in South Carolina becoming more abundant and competing with native species.",
+        "location": "Chapter 4: Overview of the Taxonomic Groups",
+        "relevant_elements": ["3.7", "1.1"]
+      },
+      {
+        "text": "global warming could shift suitable high elevation habitat farther north and into higher elevations not found in South Carolina (W. Mark Ford, pers. comm.). This would affect the Woodland Jumping Mouse and both species of moles on South Carolina's priority list.",
+        "location": "Chapter 4: Overview of the Taxonomic Groups",
+        "relevant_elements": ["1.1", "3.5"]
+      },
+      {
+        "text": "Sea-level rise (SLR) is one of the more certain consequences of climate change; it has already had significant impacts on coastal areas, and these impacts are likely to increase.",
+        "location": "Chapter 4: Overview of the Taxonomic Groups",
+        "relevant_elements": ["3.5"]
+      },
+      {
+        "text": "Analyses attribute the coastal forest decline in the Southeast to saltwater intrusion associated with sea level rise.",
+        "location": "Chapter 4: Overview of the Taxonomic Groups",
+        "relevant_elements": ["3.5"]
+      },
+      {
+        "text": "changes in the climate such as increasing air and water temperatures and altered precipitation patterns, are likely to exacerbate such conditions... Climate change impacts that are most likely to impact freshwater mussel diversity, abundance, and distribution are increasing stream temperatures, extreme precipitation events (e.g. flood, drought, etc.), and sea level rise.",
+        "location": "Chapter 4: Overview of the Taxonomic Groups",
+        "relevant_elements": ["3.5", "3.6"]
+      },
+      {
+        "text": "Increasing temperatures over time is already beginning to result in earlier spawning migrations of many alosine species (Nack et al. 2019).",
+        "location": "Chapter 4: Overview of the Taxonomic Groups",
+        "relevant_elements": ["3.6", "3.7"]
+      },
+      {
+        "text": "Migratory species like songbirds and shorebirds will be highly affected by climate change. Migrations and breeding are timed to coincide with abundant prey. If the timing of spawning and/or insect hatching is decoupled from the arrival of the birds along the migration routes, these birds could face higher mortality during migration and lower productivity on the breeding grounds (Robertson et al. 2024, Youngflesh et al. 2023).",
+        "location": "Chapter 4: Overview of the Taxonomic Groups",
+        "relevant_elements": ["3.7", "3.6"]
+      },
+      {
+        "text": "Assessing changes in populations and habitats over time, especially in response to applied conservation actions, requires monitoring at multiple levels (species, guilds, natural communities, and implementation activities) and across multiple scales (local, statewide, regional, and national).",
+        "location": "Chapter 8: COAs, Actions, and Monitoring",
+        "relevant_elements": ["4.3"]
+      },
+      {
+        "text": "As a requirement of the USFWS, who oversees the SWG Program, project leaders are required to produce annual (interim) progress reports and final reports for review by the SWAP Coordinator, and these reports are evaluated for insight into adaptive management needs and reassessments of the SWAP.",
+        "location": "Chapter 9: Implementation and Adaptive Management",
+        "relevant_elements": ["4.3"]
+      },
+      {
+        "text": "The Program in South Carolina will continue to be reviewed on a 10-year cycle (next due February 28, 2035) to ensure it and the SWAP remain relevant and current with evolving landscapes and developing conservation efforts.",
+        "location": "Chapter 9: Implementation and Adaptive Management",
+        "relevant_elements": ["4.3"]
+      },
+      {
+        "text": "SCDNR enlisted the help of Southeast Conservation Adaptation Strategy (SECAS) staff to draft Chapter 10: South Carolina: A Regional Perspective which addresses how South Carolina is doing its part to achieve success in the Southeast. Landscape-level topics include habitat connectivity across geopolitical boundaries, climate change modeling for the Southeast, Sentinel Landscapes, habitat restoration (to help reach SECAS report card goals), and RSGCN responsibility.",
+        "location": "Changes to This Edition of the SWAP",
+        "relevant_elements": ["1.4", "2.3", "3.1"]
+      },
+      {
+        "text": "The Nature Conservancy's terrestrial resilience analysis evaluates the capacity of inland habitats to continue supporting biodiversity and ecosystem function in the face of climate change, while their coastal resilience analysis evaluates the capacity of coastal habitats to migrate to adjacent lowlands in order to sustain biodiversity and natural services under increasing inundation from sea-level rise.",
+        "location": "Habitat Connectivity and Resiliency",
+        "relevant_elements": ["1.1", "3.5", "4.1"]
+      },
+      {
+        "text": "For this reason, monitoring simply helps us understand the effects, intended or otherwise, of any management approach.",
+        "location": "Chapter 8: COAs, Actions, and Monitoring",
+        "relevant_elements": ["4.3"]
+      }
+    ]
+  },
+  "concepts": {
+    "climate_vulnerability": {
+      "evaluable": true,
+      "score": 3,
+      "evidence": [
+        {
+          "text": "A species is considered vulnerable to climate change if it is both sensitive and exposed to climate change impacts (Williams et al. 2008). For example, a species may be exposed to climate change because it experiences an impact like warmer stream temperatures, but if it is resilient to that change or able to disperse into new habitats, it may ultimately have low vulnerability.",
+          "location": "Chapter 10: South Carolina - A Regional Perspective",
+          "sub_component": "exposure and adaptive capacity",
+          "citations": ["Williams et al. 2008"]
+        },
+        {
+          "text": "CCVI is based on an evaluation of the species' direct and indirect exposure to climate change and its sensitivity to climate change.",
+          "location": "Chapter 10: South Carolina - A Regional Perspective",
+          "sub_component": "exposure",
+          "citations": []
+        },
+        {
+          "text": "Species with low adaptive capacity such as those with specialized habitat needs or limited dispersal ability face higher vulnerability to these changes.",
+          "location": "Chapter 10: South Carolina - A Regional Perspective",
+          "sub_component": "adaptive capacity",
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "adaptive_capacity_specificity": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Species with low adaptive capacity such as those with specialized habitat needs or limited dispersal ability face higher vulnerability to these changes.",
+          "location": "Chapter 10: South Carolina - A Regional Perspective",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Highly resilient sites contain many different habitat niches that support biodiversity and allow species to move freely through the landscape to find suitable microclimates as the climate changes.",
+          "location": "Chapter 10: South Carolina - A Regional Perspective",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "adaptive_capacity_components": {
+      "demography": {
+        "present": false,
+        "evidence": []
+      },
+      "distribution": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Breeding bird ranges have begun to shift north as is evident by tropical species establishing themselves along the Gulf Coast. As temperatures increase, it's predicted that long-distance migrants, populations at high latitudes, and forest species will be at high risk (Youngflesh et al. 2023).",
+            "location": "Chapter 4: Overview of the Taxonomic Groups",
+            "sub_component": null,
+            "citations": ["Youngflesh et al. 2023"]
+          }
+        ]
+      },
+      "movement": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Species with low adaptive capacity such as those with specialized habitat needs or limited dispersal ability face higher vulnerability to these changes.",
+            "location": "Chapter 10: South Carolina - A Regional Perspective",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "evolutionary_potential": {
+        "present": false,
+        "evidence": []
+      },
+      "ecological_dependencies": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Migrations and breeding are timed to coincide with abundant prey. If the timing of spawning and/or insect hatching is decoupled from the arrival of the birds along the migration routes, these birds could face higher mortality during migration and lower productivity on the breeding grounds (Robertson et al. 2024, Youngflesh et al. 2023).",
+            "location": "Chapter 4: Overview of the Taxonomic Groups",
+            "sub_component": null,
+            "citations": ["Robertson et al. 2024", "Youngflesh et al. 2023"]
+          }
+        ]
+      },
+      "abiotic_niche": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "a species may be exposed to climate change because it experiences an impact like warmer stream temperatures, but if it is resilient to that change or able to disperse into new habitats, it may ultimately have low vulnerability.",
+            "location": "Chapter 10: South Carolina - A Regional Perspective",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "life_history": {
+        "present": false,
+        "evidence": []
+      }
+    },
+    "connectivity": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Ensuring landscape connectivity across jurisdictional boundaries is becoming increasingly important for species management as changes in land use, climate, and weather patterns shift species distributions.",
+          "location": "Chapter 10: South Carolina - A Regional Perspective",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "The Southeast Blueprint also includes a least-cost path connectivity analysis that identifies corridors that link coastal and inland areas and span climate gradients.",
+          "location": "Chapter 10: South Carolina - A Regional Perspective",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    }
+  },
+  "tools": {
+    "vulnerability_models": {
+      "evaluable": true,
+      "score": 2,
+      "named_tools": ["CCVI", "NatureServe CCVI"],
+      "evidence": [
+        {
+          "text": "Two common tools that have been used to determine climate vulnerability of species are 1) the Climate Change Vulnerability Index (CCVIs) (Young et al. 2016) developed by NatureServe and 2) environmental niche modeling-based vulnerability estimates produced by the academic research community.",
+          "location": "Chapter 10: South Carolina - A Regional Perspective",
+          "sub_component": null,
+          "citations": ["Young et al. 2016"]
+        },
+        {
+          "text": "For South Carolina, 150 SGCN have been scored using the CCVI estimates to date by other institutions.",
+          "location": "Chapter 10: South Carolina - A Regional Perspective",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "niche_models": {
+      "evaluable": true,
+      "score": 2,
+      "named_tools": ["species distribution models", "SDMs", "ecological niche models"],
+      "evidence": [
+        {
+          "text": "Ecological niche models (also called species distribution models) are a common approach for evaluating a species' vulnerability to climate change by the academic research community. These models start by identifying shared climate conditions at sites where a species is known to have occurred and then predict where similar climate conditions may be found on the landscape in the future.",
+          "location": "Chapter 10: South Carolina - A Regional Perspective",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "For South Carolina, 148 SGCN have been evaluated to date, which consists of 430 vulnerability scores (note: some species have multiple scores for different future climate scenarios) across 12 academic research studies",
+          "location": "Chapter 10: South Carolina - A Regional Perspective",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_models": {
+      "evaluable": true,
+      "score": 2,
+      "named_tools": ["CMIP6", "CMIP5", "RCP4.5", "RCP8.5", "SSP1-2.6", "SSP5-8.5", "LOCA2", "National Climate Change Viewer"],
+      "evidence": [
+        {
+          "text": "The climate projections used in the NCA5 were created using global climate models from the Coupled Model Intercomparison Project Phase 6 (CMIP6) that were statistically downscaled to translate large-scale changes in the climate under a given SSP or GWL to local scales for impact assessment and planning (Basile et al. 2023).",
+          "location": "Chapter 10: South Carolina - A Regional Perspective",
+          "sub_component": null,
+          "citations": ["Basile et al. 2023"]
+        },
+        {
+          "text": "The study... considered how many days per season met the conditions to conduct prescribed burns under two RCP scenarios: RCP 4.5 representing an intermediate scenario and RCP 8.5 representing a very high scenario.",
+          "location": "Chapter 10: South Carolina - A Regional Perspective",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {},
+      "time_horizon_years": [2050, 2100],
+      "emission_scenarios": ["RCP4.5", "RCP8.5", "SSP1-2.6", "SSP2-4.5", "SSP5-8.5"]
+    },
+    "connectivity_models": {
+      "evaluable": true,
+      "score": 2,
+      "named_tools": ["Southeast Conservation Blueprint", "least-cost path"],
+      "evidence": [
+        {
+          "text": "The Southeast Blueprint also includes a least-cost path connectivity analysis that identifies corridors that link coastal and inland areas and span climate gradients. The corridors connect hubs across the shortest distance possible, while also routing through as much Blueprint priority as possible.",
+          "location": "Chapter 10: South Carolina - A Regional Perspective",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    }
+  },
+  "context": {
+    "management_scale": {
+      "local": {
+        "present": false,
+        "evidence": []
+      },
+      "site": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Rank available properties and build habitat corridors between isolated populations of plants and animals across private easements and public lands, also utilizing wildlife crossings where applicable.",
+            "location": "Chapter 8: COAs, Actions, and Monitoring",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "watershed": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "South Carolina can identify conservation strategies aimed at improving aquatic connectivity that also improve water quantity and quality in watersheds and streams that cut across state lines.",
+            "location": "Chapter 10: South Carolina - A Regional Perspective",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "city": {
+        "present": false,
+        "evidence": []
+      },
+      "county": {
+        "present": false,
+        "evidence": []
+      },
+      "within_state_region": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Given that the Blue Ridge and Piedmont Ecoregions of South Carolina, which are crucial habitat for many amphibian SGCN, are expected to experience the greatest increase in maximum temperatures and greatest increase in precipitation (see A Changing Climate section), conservation action and management for amphibians in these parts of the State is of greatest priority.",
+            "location": "Chapter 10: South Carolina - A Regional Perspective",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "state": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Ensuring landscape connectivity across jurisdictional boundaries is becoming increasingly important for species management as changes in land use, climate, and weather patterns shift species distributions.",
+            "location": "Chapter 10: South Carolina - A Regional Perspective",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "multistate": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Collaborating with the neighboring states of Georgia and North Carolina to identify cross-boundary species migration and habitat pathways can increase regional connectivity for state SGCN.",
+            "location": "Chapter 10: South Carolina - A Regional Perspective",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "national": {
+        "present": false,
+        "evidence": []
+      },
+      "transnational": {
+        "present": false,
+        "evidence": []
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The Southeast Blueprint also includes a least-cost path connectivity analysis that identifies corridors that link coastal and inland areas and span climate gradients.",
+            "location": "Chapter 10: South Carolina - A Regional Perspective",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecoregion": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Given that the Blue Ridge and Piedmont Ecoregions of South Carolina, which are crucial habitat for many amphibian SGCN, are expected to experience the greatest increase in maximum temperatures and greatest increase in precipitation (see A Changing Climate section), conservation action and management for amphibians in these parts of the State is of greatest priority.",
+            "location": "Chapter 10: South Carolina - A Regional Perspective",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "province": {
+        "present": false,
+        "evidence": []
+      },
+      "section": {
+        "present": false,
+        "evidence": []
+      },
+      "subsection": {
+        "present": false,
+        "evidence": []
+      },
+      "lake": {
+        "present": false,
+        "evidence": []
+      },
+      "river": {
+        "present": false,
+        "evidence": []
+      },
+      "district": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["Blue Ridge Ecoregion", "Piedmont Ecoregion", "Coastal Plain", "Sandhills", "Coastal Zone", "Southeast Region", "South Carolina", "Georgia", "North Carolina"]
+    },
+    "biological_unit_score": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Breeding bird ranges have begun to shift north as is evident by tropical species establishing themselves along the Gulf Coast.",
+          "location": "Chapter 4: Overview of the Taxonomic Groups",
+          "sub_component": "species",
+          "citations": []
+        },
+        {
+          "text": "it is also expected that with climate change and increased temperatures, some species will increase their geographic range northwards in a phenomenon known as 'Caribbean creep' with such range expansions and/or contractions now becoming common. The outcome of the interactions between these new invaders and native communities are difficult to predict",
+          "location": "Chapter 4: Overview of the Taxonomic Groups",
+          "sub_component": "community",
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "biological_unit_components": {
+      "species": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Breeding bird ranges have begun to shift north as is evident by tropical species establishing themselves along the Gulf Coast. As temperatures increase, it's predicted that long-distance migrants, populations at high latitudes, and forest species will be at high risk (Youngflesh et al. 2023).",
+            "location": "Chapter 4: Overview of the Taxonomic Groups",
+            "sub_component": null,
+            "citations": ["Youngflesh et al. 2023"]
+          }
+        ]
+      },
+      "population": {
+        "present": false,
+        "evidence": []
+      },
+      "habitat": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The Nature Conservancy's terrestrial resilience analysis evaluates the capacity of inland habitats to continue supporting biodiversity and ecosystem function in the face of climate change, while their coastal resilience analysis evaluates the capacity of coastal habitats to migrate to adjacent lowlands in order to sustain biodiversity and natural services under increasing inundation from sea-level rise.",
+            "location": "Habitat Connectivity and Resiliency",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "As the climate changes, ecosystems will naturally encroach into new areas with unpredictable consequences. One example of this is mangroves, which are advancing northward through Georgia while simultaneously retreating in Florida",
+            "location": "Chapter 5: Common Threats and Stressors",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "community": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "it is also expected that with climate change and increased temperatures, some species will increase their geographic range northwards in a phenomenon known as 'Caribbean creep' with such range expansions and/or contractions now becoming common. The outcome of the interactions between these new invaders and native communities are difficult to predict",
+            "location": "Chapter 4: Overview of the Taxonomic Groups",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "genotype_phenotype": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["Bottlenose Dolphin", "American Shad", "alosine species", "sea turtles", "salt marshes", "mangroves", "freshwater mussels", "birds (various)", "amphibians (various)", "SGCN (Species of Greatest Conservation Need)"]
+    },
+    "partnerships_and_funding": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Partner with climate science centers to identify ways to collect data that tracks local effects and impacts (downscaling of global climate models). Climate modeling and data-gathering methodologies should be standardized. Additionally, a centralized climate repository should be created with data and tools to support decision making by the SCDNR and its conservation partners.",
+          "location": "Chapter 8: COAs, Actions, and Monitoring",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "SCDNR enlisted the help of Southeast Conservation Adaptation Strategy (SECAS) staff to draft Chapter 10: South Carolina: A Regional Perspective which addresses how South Carolina is doing its part to achieve success in the Southeast. Landscape-level topics include habitat connectivity across geopolitical boundaries, climate change modeling for the Southeast",
+          "location": "Changes to This Edition of the SWAP",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The plan has extensive partnership descriptions and active implementations of climate-related actions. The SE CASC-SCDNR partnership for Chapter 10 climate data represents active partnerships implementing range-shift relevant analyses."
+    },
+    "climate_threat_habitat_degradation": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Sea-level rise (SLR) is one of the more certain consequences of climate change; it has already had significant impacts on coastal areas, and these impacts are likely to increase. Since 1852 when the first topographic maps of the southeast region were prepared, high tidal flood elevations have increased approximately 30 cm (12 in.). During the 20th century, global sea level has increased between 15 and 20 cm (6 and 8 in.) (NAST 2000). Analyses attribute the coastal forest decline in the Southeast to saltwater intrusion associated with sea level rise.",
+          "location": "Chapter 4: Overview of the Taxonomic Groups",
+          "sub_component": null,
+          "citations": ["NAST 2000"]
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_threat_species_vital_rates": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Warming sea temperatures due to climate change can affect marine mammal prey availability, habitat availability, spatial and temporal distribution, behavior, physiological stress, and their overall health. A shift in the availability of prey could result in the lack of available food resources causing emaciation and starvation.",
+          "location": "Chapter 4: Overview of the Taxonomic Groups",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document discusses climate threats primarily through habitat pathways rather than direct vital-rate impacts. The marine mammal passage comes closest to a direct vital-rate framing (starvation)."
+    },
+    "climate_threat_biotic_stressors": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Examples of climate change-induced changes include the uncoupling of phenologies (e.g. Vasiliev and Greenwood 2021, Thackeray et al. 2016, Robertson et al. 2024) such as plant bloom windows versus insect emergence, range shifts (expansions and contractions), hybridizations, and changes in food webs/pyramid bases.",
+          "location": "Chapter 5: Common Threats and Stressors",
+          "sub_component": null,
+          "citations": ["Vasiliev and Greenwood 2021", "Thackeray et al. 2016", "Robertson et al. 2024"]
+        }
+      ],
+      "absence_note": {}
+    }
+  },
+  "actions": {
+    "priority_habitat_identification": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "To create the South Carolina COAs map (Figure 8-1), the South Carolina Department of Natural Resources (SCDNR) instituted the first half of North Carolina Heritage Program's (2021) Procedures for Rating Natural Areas as a model.",
+          "location": "Chapter 8: COAs, Actions, and Monitoring",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "The Southeast Conservation Blueprint (SECAS 2024) identifies 55% of the state of South Carolina as a priority for a connected network of lands and waters; 12% is rated as highest priority, 17% highest, 22% medium, and 4% priority connections.",
+          "location": "Habitat Connectivity and Resiliency",
+          "sub_component": null,
+          "citations": ["SECAS 2024"]
+        },
+        {
+          "text": "Identify, map, and conserve marsh migration corridors using predictive impact modeling.",
+          "location": "Chapter 8: COAs, Actions, and Monitoring",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "targeted_range_shift_actions": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Land managers have the option of resisting change and instead returning the current ecosystem to its historic state through species reintroductions or augmentations (through breeding programs or translocations), accepting that changes are occurring and allowing the transformation to progress, or actively directing change to a new state using techniques like assisted migration of animals or planting tree species to establish them in areas that are already transitioning to support such species (Handler et al. 2018).",
+          "location": "Chapter 9: Implementation and Adaptive Management",
+          "sub_component": null,
+          "citations": ["Handler et al. 2018"]
+        }
+      ],
+      "absence_note": {}
+    },
+    "time_bound_and_monitoring": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "As a requirement of the USFWS, who oversees the SWG Program, project leaders are required to produce annual (interim) progress reports and final reports for review by the SWAP Coordinator, and these reports are evaluated for insight into adaptive management needs and reassessments of the SWAP.",
+          "location": "Chapter 9: Implementation and Adaptive Management",
+          "sub_component": "monitoring",
+          "citations": []
+        },
+        {
+          "text": "The Program in South Carolina will continue to be reviewed on a 10-year cycle (next due February 28, 2035) to ensure it and the SWAP remain relevant and current with evolving landscapes and developing conservation efforts.",
+          "location": "Chapter 9: Implementation and Adaptive Management",
+          "sub_component": "deadline",
+          "citations": []
+        }
+      ],
+      "absence_note": "The plan has both a clear review deadline (February 28, 2035) and requires effectiveness monitoring of SWG projects. However, individual conservation actions in the action tables generally lack specific deadlines, with the plan-level cycle and SWG reporting requirements as the primary mechanisms."
+    },
+    "evidence_of_efficacy": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Over the last 20 years, priority conservation actions identified in South Carolina's SWAPs have been attempted and measures of success documented. Ineffective actions have been removed while new technologies and adaptive management have resulted in new action items for 2025.",
+          "location": "Chapter 8: COAs, Actions, and Monitoring",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Success stories include the removal of over 30 dams in South Carolina to restore hydrologic connectivity and fish passage across 254 miles of rivers and streams (SARP 2025).",
+          "location": "Chapter 8: COAs, Actions, and Monitoring",
+          "sub_component": null,
+          "citations": ["SARP 2025"]
+        }
+      ],
+      "absence_note": "The plan's evidence for efficacy of climate-specific range-shift actions is limited; most evidence concerns broader habitat management. The citations support actions at a principles level rather than directly demonstrating range-shift facilitation efficacy.",
+      "projects": ["Rivercane Restoration by the Catawba Indian Nation: demonstrates feasibility of invasive species suppression and rivercane restoration as a conservation tool for culturally significant habitat, providing field evidence of habitat recovery techniques.", "Robust Redhorse Restoration in the Santee River Basin (T-9, 2005-2013): stocking of 11,000 juvenile fish from 101 parental crosses; spawning behavior documented; adults recovering indicating stock enhancement is viable for this species.", "Striped Bass Stock Enhancement in Charleston Harbor (T-53, 2010-2015): multi-year monitoring showed survival to adulthood and return to spawn, providing evidence that stock enhancement can be a viable fisheries management tool.", "Gopher Tortoise Habitat Restoration at Tillman Sand Ridge Heritage Preserve (C-SWG): multi-year restoration with documented 'pioneer' tortoise colonization of restored areas, providing direct evidence of habitat management efficacy.", "Community Based Habitat Restoration via SCORE (T-34, 2007-2014): 2.23 acres of oyster reefs constructed at 52 sites, protecting over 2 miles of shoreline, providing evidence of living shorelines as coastal habitat restoration tools."]
+    },
+    "adaptation_planning_frameworks": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Conduct scenario planning for landscape changes and subsequent adaptive management strategies in South Carolina starting with lands owned by the SCDNR. Incorporate probable future climate conditions and resulting range shifts into existing management plans for these properties, addressing tipping points (see Powell et al. 2017), the RAD (resist-accept-direct) framework, and desired future conditions.",
+          "location": "Chapter 8: COAs, Actions, and Monitoring",
+          "sub_component": null,
+          "citations": ["Powell et al. 2017"]
+        },
+        {
+          "text": "Two well-known examples of frameworks include the Resist-Accept-Direct (RAD) Framework developed by the US National Park Service (see also Chapter 9 where it is discussed) and the Climate Adaptation in Practice: Resistance, Resilience and Transition (RRT) Framework developed by Colorado State University.",
+          "location": "Chapter 10: South Carolina - A Regional Perspective",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    }
+  },
+  "coding_meta": {
+    "coder": "llm:claude-sonnet-4-6",
+    "model": "claude-sonnet-4-6",
+    "provider": "claude",
+    "codebook_version": "0.4",
+    "ingest": "text",
+    "design": "single",
+    "temperature": null,
+    "thinking": null,
+    "thinking_effort": null,
+    "coded_at": "2026-07-06T18:39:25Z",
+    "notes": {}
+  }
+}

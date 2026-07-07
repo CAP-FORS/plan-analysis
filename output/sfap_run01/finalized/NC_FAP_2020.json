@@ -1,0 +1,714 @@
+{
+  "document_meta": {
+    "title": "2020 North Carolina Forest Action Plan",
+    "year": 2020,
+    "jurisdiction": "North Carolina",
+    "document_type": "Forest Action Plan",
+    "document_id": "NC_FAP_2020",
+    "page_count": 207
+  },
+  "orientation": {
+    "summary": "The 2020 North Carolina Forest Action Plan (NCFAP) is a state-level forest resource management plan produced by the NC Forest Service under the mandate of the 2008 Farm Bill. The plan acknowledges climate change as an ongoing and future threat to forest resources, primarily framing it as a stressor alongside wildfires, invasive species, and weather events, rather than engaging with range shift science as a primary concern. The document's posture toward range shifts is largely implicit and peripheral: it notes northward/westward migration of tree species, insects, and pathogens due to rising temperatures, and addresses saltwater intrusion impacts on coastal forests, but does not frame these as range shift science topics per se. The plan performs no original modeling or vulnerability assessments; instead it synthesizes existing data (FIA, NC Climate Science Report 2020) and proposes management strategies and objectives at the state and landscape scale.",
+    "evidence_index": [
+      {
+        "text": "Invasive species, diseases, insects, and climate change present an ongoing and unpredictable threat to future forest productivity and habitats.",
+        "location": "Connection Between National Priorities and N.C. Forest Action Plan (NCFAP) Goals",
+        "relevant_elements": ["1.1", "3.5", "3.7"]
+      },
+      {
+        "text": "Climate change and major weather events will directly impact forest resources, creating challenges to traditional forest management strategies and potentially compounding other forest threats.",
+        "location": "NOTABLE RESOURCES NEEDED (Goal 2 intro)",
+        "relevant_elements": ["1.1", "3.5", "3.6"]
+      },
+      {
+        "text": "2.3-Identify impacts and develop long-term approaches that minimize negative influences on forests caused by climate change, air quality and weather events.",
+        "location": "Strategies (Goal 2 Objectives)",
+        "relevant_elements": ["1.1", "4.3", "4.5"]
+      },
+      {
+        "text": "\"The 10 most recent years (2009-2018) represent the warmest 10-year period on record in North Carolina, averaging about 0.6°F warmer than the warmest decade in the 20 th century (1930-1939). Recently released data indicates that 2019 was the warmest year on record in North Carolina.\"",
+        "location": "Climate and Weather / CURRENT CONDITIONS AND TRENDS",
+        "relevant_elements": ["1.1", "2.3", "3.5"]
+      },
+      {
+        "text": "\"By the end of this century, annual average temperature increases relative to the recent climate (1996-2015) for North Carolina are projected to be on the order of 6°-10°F under a higher scenario … and 2°-6°F under a lower scenario …\"",
+        "location": "Climate and Weather / NOTABLE THREATS",
+        "relevant_elements": ["1.1", "2.3"]
+      },
+      {
+        "text": "Northward and westward migration of other tree and plant species, as well as insects and pathogens due to rising temperatures, will have varying effects on forest productivity and health.",
+        "location": "Forest Impacts (Climate and Weather / NOTABLE THREATS)",
+        "relevant_elements": ["1.1", "1.3", "3.7", "C2"]
+      },
+      {
+        "text": "Rising temperatures will allow top-performing southern-origin loblolly pine families to be moved further north, thereby increasing pine plantation productivity.",
+        "location": "Forest Impacts (Climate and Weather / NOTABLE THREATS)",
+        "relevant_elements": ["1.3", "3.7", "C2"]
+      },
+      {
+        "text": "We will see a continued loss of forests along the coastal fringe as saltwater intrusion expands its reach inland. New management options will be needed for landowners in these areas.",
+        "location": "Forest Impacts (Climate and Weather / NOTABLE THREATS)",
+        "relevant_elements": ["3.5", "4.1"]
+      },
+      {
+        "text": "Repeated salt deposition will continue to impact coastal and tidally influenced riverine forests, causing eventual mortality to salt intolerant species and shifts in species composition to more tolerant species.",
+        "location": "Forest Impacts (Climate and Weather / NOTABLE THREATS)",
+        "relevant_elements": ["3.5", "3.6", "3.7"]
+      },
+      {
+        "text": "Longleaf pine and its associated plant community's tolerance to fire, ability to grow in wet and dry weather condition, ability to withstand strong winds, and resistance to beetle infestation make it well suited to thrive under predicted climate changes.",
+        "location": "Forest Impacts (Climate and Weather / NOTABLE THREATS)",
+        "relevant_elements": ["1.2", "1.3"]
+      },
+      {
+        "text": "2.3.2-Develop and promote forest management practices specifically for areas most likely to be affected by sea-level change and saltwater intrusion.",
+        "location": "Strategies (Goal 2)",
+        "relevant_elements": ["4.1", "4.2", "3.5"]
+      },
+      {
+        "text": "Dramatic swings in wet and dry weather patterns are resulting in more intense fires, thus resulting in more acres burned and more resources needed to contain the fires.",
+        "location": "Forest Impacts (Climate and Weather / CURRENT CONDITIONS AND TRENDS)",
+        "relevant_elements": ["3.5", "3.6"]
+      },
+      {
+        "text": "Declines of mature oaks and other species have been prevalent over the past few years. Usually, older trees weakened by prolonged drought, or conversely soil saturation, soil compaction, root damage or mechanical injury have experienced weakened natural defense responses, making them susceptible to attack by secondary insects and pathogens.",
+        "location": "Forest Impacts (Climate and Weather / CURRENT CONDITIONS AND TRENDS)",
+        "relevant_elements": ["3.5", "3.6"]
+      },
+      {
+        "text": "Salt intolerant trees in coastal areas and along tidally influenced rivers have been impacted by salt deposition from storm surge, storm tides and evaporated sea spray, likely causing loss of growth, stress and some scattered mortality.",
+        "location": "Forest Impacts (Climate and Weather / CURRENT CONDITIONS AND TRENDS)",
+        "relevant_elements": ["3.5", "3.6"]
+      },
+      {
+        "text": "The number of fires and the intensity of fires, as well as the number of acres burned, are expected to continue to increase due to the projected elevated intensity of droughts and dramatic swings in wet and dry weather patterns.",
+        "location": "Forest Impacts (Climate and Weather / NOTABLE THREATS)",
+        "relevant_elements": ["3.5", "3.6"]
+      },
+      {
+        "text": "Increasing air temperatures / Increasing severe storm frequency and intensity / Increasing urban heat island effect / Sea-level rise",
+        "location": "NOTABLE THREATS (Objective 5.4)",
+        "relevant_elements": ["3.5", "3.6"]
+      },
+      {
+        "text": "Several organizations and agencies have focused their efforts on forest habitat protection and restoration, prioritizing forest connectivity, rare and sensitive ecosystems, working forests, and promoting adaptive or resilient landscapes.",
+        "location": "CURRENT CONDITIONS AND TRENDS (Goal 1, habitat/species section)",
+        "relevant_elements": ["1.4", "4.1"]
+      },
+      {
+        "text": "Maintain and establish corridors connecting large managed wildlife areas.",
+        "location": "Goals and Objectives of FLA for Public Benefit (Sandhills/Uwharries section)",
+        "relevant_elements": ["1.4", "4.1"]
+      },
+      {
+        "text": "Create and maintain landscape-scale corridors connecting large designated areas of managed habitat.",
+        "location": "Goals and Objectives of FLA (Piedmont/Northeastern section)",
+        "relevant_elements": ["1.4", "4.1"]
+      },
+      {
+        "text": "Provide habitat corridors for wildlife populations.",
+        "location": "Goals and Objectives of FLA for Public Benefit (Appalachian Mountains FLA)",
+        "relevant_elements": ["1.4", "4.1"]
+      },
+      {
+        "text": "Parcel exhibits connective habitats, corridors, habitat linkages and areas that reduce biological isolation",
+        "location": "Forest Legacy Project Evaluation and Important Attributes to Consider / I. Importance",
+        "relevant_elements": ["1.4", "4.1"]
+      },
+      {
+        "text": "Increased levels of disturbance risk, resulting from climate change, worsen the profitability of forestry regardless of the forest productivity scenario.",
+        "location": "Economic and Financial Impacts to Forestry (Climate and Weather / CURRENT CONDITIONS AND TRENDS)",
+        "relevant_elements": ["1.1", "3.5"]
+      },
+      {
+        "text": "Research projects that focus on identifying species'/ecosystems' tolerance and risk levels to climate conditions",
+        "location": "EXAMPLE METRICS (Climate and Weather section, Goal 2)",
+        "relevant_elements": ["1.1", "4.3"]
+      },
+      {
+        "text": "Forested acres identified and managed for transition to future conditions",
+        "location": "EXAMPLE METRICS (Climate and Weather section, Goal 2)",
+        "relevant_elements": ["4.2", "4.3"]
+      },
+      {
+        "text": "Forest management practices implemented in response to or in anticipation of climate change",
+        "location": "EXAMPLE METRICS (Climate and Weather section, Goal 2)",
+        "relevant_elements": ["4.2", "4.3"]
+      },
+      {
+        "text": "A decrease in prescribed burning may lead to a decrease in biological diversity especially for species that are dependent on frequent burn return intervals.",
+        "location": "Forest Impacts (Climate and Weather / NOTABLE THREATS)",
+        "relevant_elements": ["3.5", "3.7"]
+      },
+      {
+        "text": "Climatology research on impacts of climate change on North Carolina forests, trees and ecosystems",
+        "location": "NOTABLE RESOURCES NEEDED (Climate and Weather section)",
+        "relevant_elements": ["1.1", "2.3"]
+      },
+      {
+        "text": "It is estimated that by the year 2100 global average sea level will increase anywhere from 1.3 to 2.4 feet depending on greenhouse gas emissions.",
+        "location": "Figure 2.3.2. North Carolina Sea-Level Rise Vulnerability Map",
+        "relevant_elements": ["2.3", "3.5"]
+      },
+      {
+        "text": "future severe droughts in North Carolina will be more intense due to higher temperatures leading to increased evaporation, resulting in an increase in the frequency of climate conditions conducive to wildfires in North Carolina",
+        "location": "Climate and Weather (table/figure in CURRENT CONDITIONS AND TRENDS)",
+        "relevant_elements": ["3.5", "3.6"]
+      },
+      {
+        "text": "Priority Forested Watersheds, Statewide Overview",
+        "location": "Figure 4.1.3.",
+        "relevant_elements": ["4.1"]
+      },
+      {
+        "text": "1.5.2-Restore and conserve forestland with priority terrestrial and aquatic habitat by promoting conservation initiatives, partnerships and shared goals.",
+        "location": "Objectives (Goal 1 strategy table)",
+        "relevant_elements": ["4.1"]
+      },
+      {
+        "text": "These partnerships also bring together key partners in forestland conservation and are well positioned to accomplish shared objectives by combining and leveraging resources and funding.",
+        "location": "CURRENT CONDITIONS AND TRENDS (Goal 1, habitat/species section)",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "USFS Landscape-Scale Restoration (LSR) grants, critical to longleaf management training for natural resource professionals and landowners",
+        "location": "Collaboration on Regional and Multistate Priorities",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "National Fish and Wildlife Foundation (NFWF) grants, including the funding for trainings, dedicated to the effective management of forest habitats critical to threatened and endangered species as well as species of concern.",
+        "location": "Collaboration on Regional and Multistate Priorities",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "Climate change resulting in increased frequency and severity of weather events such as storms and",
+        "location": "NOTABLE THREATS (Goal 1 habitat section, table)",
+        "relevant_elements": ["1.1", "3.5", "3.6"]
+      },
+      {
+        "text": "2.3.1-Promote research and knowledge sharing targeted toward better understanding of potential direct impacts to trees and forests from climate change and air quality.",
+        "location": "Strategies (Goal 2)",
+        "relevant_elements": ["4.3", "4.5"]
+      },
+      {
+        "text": "Forestry best management practices (BMPs) are the primary mechanism for addressing water resource sustainability. Forestry BMPs remain a prime example of 'adaptive management' and may need to address changes in environmental/climatological factors",
+        "location": "Goal 4, Five key points",
+        "relevant_elements": ["4.5"]
+      },
+      {
+        "text": "Emerging recognition that forest resiliency can produce mutually beneficial outcomes for certain aspects of water resource resiliency; but, as climate-based influences continue to vary, there is a need to address and mitigate forestry-related impacts to and from water resources.",
+        "location": "Water Resources / CURRENT CONDITIONS AND TRENDS",
+        "relevant_elements": ["1.1", "3.5"]
+      },
+      {
+        "text": "K E Kunkel … North Carolina Climate Science Report, North Carolina Institute for Climate Studies, 2020",
+        "location": "References / Appendices",
+        "relevant_elements": ["2.3"]
+      }
+    ]
+  },
+  "concepts": {
+    "climate_vulnerability": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Climate change and major weather events will directly impact forest resources, creating challenges to traditional forest management strategies and potentially compounding other forest threats.",
+          "location": "NOTABLE RESOURCES NEEDED (Goal 2 intro)",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Increased levels of disturbance risk, resulting from climate change, worsen the profitability of forestry regardless of the forest productivity scenario.",
+          "location": "Economic and Financial Impacts to Forestry (Climate and Weather / CURRENT CONDITIONS AND TRENDS)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document discusses climate change as a threat to forests in general terms and lists climate threats extensively, but does not frame species or ecosystem vulnerability using the IPCC exposure/adaptive capacity axes. There is no vulnerability assessment framing, no explicit discussion of exposure metrics (e.g., climate velocity), and no discussion of adaptive capacity in the IPCC sense. The references to longleaf pine's tolerance traits (see 1.3 abiotic_niche) come closest but are not framed as adaptive capacity. Score is 1 (referenced generically) rather than 0 because climate vulnerability to forest resources is a recurring theme, but never decomposed into exposure or adaptive capacity components."
+    },
+    "adaptive_capacity_specificity": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Longleaf pine and its associated plant community's tolerance to fire, ability to grow in wet and dry weather condition, ability to withstand strong winds, and resistance to beetle infestation make it well suited to thrive under predicted climate changes.",
+          "location": "Forest Impacts (Climate and Weather / NOTABLE THREATS)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document references the capacity of longleaf pine to withstand predicted climate conditions via its biological traits. This is an implicit reference to adaptive capacity but not operationalized with the term 'adaptive capacity' or linked to specific components in any systematic way. Score is 1 (non-specific reference). Score 2 would require explicit identification of adaptive capacity components applied to the document's focal subjects."
+    },
+    "adaptive_capacity_components": {
+      "demography": {
+        "present": false,
+        "evidence": []
+      },
+      "distribution": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Northward and westward migration of other tree and plant species, as well as insects and pathogens due to rising temperatures, will have varying effects on forest productivity and health.",
+            "location": "Forest Impacts (Climate and Weather / NOTABLE THREATS)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "movement": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Rising temperatures will allow top-performing southern-origin loblolly pine families to be moved further north, thereby increasing pine plantation productivity.",
+            "location": "Forest Impacts (Climate and Weather / NOTABLE THREATS)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "evolutionary_potential": {
+        "present": false,
+        "evidence": []
+      },
+      "ecological_dependencies": {
+        "present": false,
+        "evidence": []
+      },
+      "abiotic_niche": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Longleaf pine and its associated plant community's tolerance to fire, ability to grow in wet and dry weather condition, ability to withstand strong winds, and resistance to beetle infestation make it well suited to thrive under predicted climate changes.",
+            "location": "Forest Impacts (Climate and Weather / NOTABLE THREATS)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "life_history": {
+        "present": false,
+        "evidence": []
+      }
+    },
+    "connectivity": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Several organizations and agencies have focused their efforts on forest habitat protection and restoration, prioritizing forest connectivity, rare and sensitive ecosystems, working forests, and promoting adaptive or resilient landscapes.",
+          "location": "CURRENT CONDITIONS AND TRENDS (Goal 1, habitat/species section)",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Maintain and establish corridors connecting large managed wildlife areas.",
+          "location": "Goals and Objectives of FLA for Public Benefit (Sandhills/Uwharries section)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "Connectivity is referenced generically multiple times (corridors, habitat linkages, connectivity for wildlife populations) but is never explicitly framed as supporting climate-driven range shifts. No passage links corridors or landscape permeability to tracking climate change or shifting suitable habitat. Score is 1 (generic), not 2 (climate-relevant)."
+    }
+  },
+  "tools": {
+    "vulnerability_models": {
+      "evaluable": true,
+      "score": 0,
+      "named_tools": [],
+      "evidence": [],
+      "absence_note": "No vulnerability models (CCVI, PVA, etc.) are referenced or applied anywhere in the document. The plan calls for research on species' tolerance and risk levels to climate conditions, but names no vulnerability model framework."
+    },
+    "niche_models": {
+      "evaluable": true,
+      "score": 0,
+      "named_tools": [],
+      "evidence": [],
+      "absence_note": "No species distribution models or niche models are referenced anywhere in the document."
+    },
+    "climate_models": {
+      "evaluable": true,
+      "score": 1,
+      "named_tools": [],
+      "evidence": [
+        {
+          "text": "\"By the end of this century, annual average temperature increases relative to the recent climate (1996-2015) for North Carolina are projected to be on the order of 6°-10°F under a higher scenario … and 2°-6°F under a lower scenario …\"",
+          "location": "Climate and Weather / NOTABLE THREATS",
+          "sub_component": null,
+          "citations": ["K E Kunkel et al., North Carolina Climate Science Report, North Carolina Institute for Climate Studies, 2020"]
+        },
+        {
+          "text": "It is estimated that by the year 2100 global average sea level will increase anywhere from 1.3 to 2.4 feet depending on greenhouse gas emissions.",
+          "location": "Figure 2.3.2. North Carolina Sea-Level Rise Vulnerability Map",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document draws on the North Carolina Climate Science Report 2020 for climate projections (temperature increases, sea level rise) referenced to end-of-century and framed as higher/lower scenarios, but no specific GCM, downscaling product, RCP, or SSP is named. The projections are referenced generally rather than applied to model new analysis. Score is 1.",
+      "time_horizon_years": [2100],
+      "emission_scenarios": []
+    },
+    "connectivity_models": {
+      "evaluable": true,
+      "score": 0,
+      "named_tools": [],
+      "evidence": [],
+      "absence_note": "No connectivity models (CircuitScape, least-cost path, etc.) are named or applied. GIS layers from the Southern Forest Land Assessment and the North Carolina Forest Action Plan are mentioned for priority mapping, but this is standard GIS spatial analysis, not quantitative connectivity modeling."
+    }
+  },
+  "context": {
+    "management_scale": {
+      "local": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "These strategies involve actions at various levels (ex. State, county, individual woodland owners) but all are aimed at making North Carolina's rural and urban forest resources healthier, more resilient and productive.",
+            "location": "Executive Summary",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "site": {
+        "present": false,
+        "evidence": []
+      },
+      "watershed": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "4.1.6-Retain and/or expand forestland cover in priority watersheds.",
+            "location": "Strategies (Goal 4 strategy table)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "city": {
+        "present": false,
+        "evidence": []
+      },
+      "county": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "These strategies involve actions at various levels (ex. State, county, individual woodland owners) but all are aimed at making North Carolina's rural and urban forest resources healthier, more resilient and productive.",
+            "location": "Executive Summary",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "within_state_region": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "In terms of region, the Piedmont region has more than 5 million acres of timberland, followed by the Southern Coastal Plain with 4.4 million acres, the Northern Coastal Plain with 3.2 million acres, and the Mountains region with 2.8 million acres.",
+            "location": "Status of North Carolina's Timberlands",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "state": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The 2020 North Carolina Forest Action Plan represents a clear path for protecting, conserving and enhancing North Carolina's forest resources and the many benefits we enjoy from them.",
+            "location": "Executive Summary",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "multistate": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "This plan addresses many forestry issues that overlap landowner and county boundaries. Some of these same forestry issues also extend beyond regional areas and even state boundaries.",
+            "location": "Collaboration on Regional and Multistate Priorities",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "national": {
+        "present": false,
+        "evidence": []
+      },
+      "transnational": {
+        "present": false,
+        "evidence": []
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "1.2-Conserve high-priority forest ecosystems and landscapes.",
+            "location": "Objectives (Goal 1)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecoregion": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Through ecozone mapping, the Southern Blue Ridge Fire Learning Network (SBRFLN) has identified oak-pine, shortleaf-oak, dry-mesic oak, dry oak, high elevation red oak, and mesic oak forests as ecosystems that are fire mediated.",
+            "location": "Oak Woodlands",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "province": {
+        "present": false,
+        "evidence": []
+      },
+      "section": {
+        "present": false,
+        "evidence": []
+      },
+      "subsection": {
+        "present": false,
+        "evidence": []
+      },
+      "lake": {
+        "present": false,
+        "evidence": []
+      },
+      "river": {
+        "present": false,
+        "evidence": []
+      },
+      "district": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["North Carolina", "Piedmont", "Southern Coastal Plain", "Northern Coastal Plain", "Mountains region", "Southern Appalachians", "Southern Blue Ridge", "Sandhills", "Coastal Plain"]
+    },
+    "biological_unit_score": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Northward and westward migration of other tree and plant species, as well as insects and pathogens due to rising temperatures, will have varying effects on forest productivity and health.",
+          "location": "Forest Impacts (Climate and Weather / NOTABLE THREATS)",
+          "sub_component": "species",
+          "citations": []
+        },
+        {
+          "text": "We will see a continued loss of forests along the coastal fringe as saltwater intrusion expands its reach inland. New management options will be needed for landowners in these areas.",
+          "location": "Forest Impacts (Climate and Weather / NOTABLE THREATS)",
+          "sub_component": "habitat",
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "biological_unit_components": {
+      "species": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Northward and westward migration of other tree and plant species, as well as insects and pathogens due to rising temperatures, will have varying effects on forest productivity and health.",
+            "location": "Forest Impacts (Climate and Weather / NOTABLE THREATS)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "population": {
+        "present": false,
+        "evidence": []
+      },
+      "habitat": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "We will see a continued loss of forests along the coastal fringe as saltwater intrusion expands its reach inland. New management options will be needed for landowners in these areas. A renewed emphasis may be needed to preserve, restore or reimagine the function/makeup of a maritime forest.",
+            "location": "Forest Impacts (Climate and Weather / NOTABLE THREATS)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecosystem": {
+        "present": false,
+        "evidence": []
+      },
+      "community": {
+        "present": false,
+        "evidence": []
+      },
+      "genotype_phenotype": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["longleaf pine", "loblolly pine", "shortleaf pine", "oaks", "coastal maritime forest", "saltwater-intolerant tree species"]
+    },
+    "partnerships_and_funding": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "USFS Landscape-Scale Restoration (LSR) grants, critical to longleaf management training for natural resource professionals and landowners, which is one of the fundamental reasons the species is beginning to be restored to its natural range.",
+          "location": "Collaboration on Regional and Multistate Priorities",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "National Fish and Wildlife Foundation (NFWF) grants, including the funding for trainings, dedicated to the effective management of forest habitats critical to threatened and endangered species as well as species of concern.",
+          "location": "Collaboration on Regional and Multistate Priorities",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document names many partners and mentions existing grant programs, but in the context of range-shift related work (climate adaptation, saltwater intrusion management, coastal forest management), it identifies resource needs as aspirational rather than describing active strategic investment. Partnerships are described broadly. Score is 1 rather than 2 because no active, funded partnership specifically targeting climate-driven range shift management is described."
+    },
+    "climate_threat_habitat_degradation": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "We will see a continued loss of forests along the coastal fringe as saltwater intrusion expands its reach inland. New management options will be needed for landowners in these areas.",
+          "location": "Forest Impacts (Climate and Weather / NOTABLE THREATS)",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Dramatic swings in wet and dry weather patterns are resulting in more intense fires, thus resulting in more acres burned and more resources needed to contain the fires.",
+          "location": "Forest Impacts (Climate and Weather / CURRENT CONDITIONS AND TRENDS)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_threat_species_vital_rates": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Salt intolerant trees in coastal areas and along tidally influenced rivers have been impacted by salt deposition from storm surge, storm tides and evaporated sea spray, likely causing loss of growth, stress and some scattered mortality.",
+          "location": "Forest Impacts (Climate and Weather / CURRENT CONDITIONS AND TRENDS)",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Repeated salt deposition will continue to impact coastal and tidally influenced riverine forests, causing eventual mortality to salt intolerant species and shifts in species composition to more tolerant species.",
+          "location": "Forest Impacts (Climate and Weather / NOTABLE THREATS)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_threat_biotic_stressors": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Northward and westward migration of other tree and plant species, as well as insects and pathogens due to rising temperatures, will have varying effects on forest productivity and health.",
+          "location": "Forest Impacts (Climate and Weather / NOTABLE THREATS)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    }
+  },
+  "actions": {
+    "priority_habitat_identification": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Priority Forested Watersheds, Statewide Overview",
+          "location": "Figure 4.1.3.",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "2.3.2-Develop and promote forest management practices specifically for areas most likely to be affected by sea-level change and saltwater intrusion.",
+          "location": "Strategies (Goal 2)",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Figure 2.3.2. North Carolina Sea-Level Rise Vulnerability Map",
+          "location": "SUPPORTING INFORMATION (Climate and Weather section)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document includes spatially explicit priority habitat maps (priority forested watersheds, sea-level rise vulnerability map, forest stewardship priority map, forest health risk maps, and Forest Legacy Area maps), and specifically addresses areas most affected by sea-level change and saltwater intrusion as priority areas for management. The sea-level rise vulnerability map and the priority watershed maps satisfy the spatial representation criterion for score 2, and the strategy (2.3.2) explicitly links spatial priority identification to climate threats (saltwater intrusion)."
+    },
+    "targeted_range_shift_actions": {
+      "evaluable": true,
+      "score": 0,
+      "evidence": [],
+      "absence_note": "The document notes northward species migration as a projected trend and discusses management needs for saltwater-intolerant coastal forests, but proposes no targeted actions specifically designed to facilitate, prevent, or respond to climate-driven range shifts. Strategy 2.3.2 (manage areas affected by sea-level change and saltwater intrusion) is the closest candidate, but it is framed as habitat/water management rather than as a range-shift management action. No assisted migration, climate corridors for range shifts, translocation motivated by climate, or similar targeted range-shift actions are proposed."
+    },
+    "time_bound_and_monitoring": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Projections above generally cover the long-term view through 2100. The projected threats and issues affecting trees, forests and forestry programs listed below are primarily limited to the 10-year period from 2020-2029.",
+          "location": "Climate and Weather / NOTABLE THREATS",
+          "sub_component": "deadline",
+          "citations": []
+        },
+        {
+          "text": "2.3.1-Promote research and knowledge sharing targeted toward better understanding of potential direct impacts to trees and forests from climate change and air quality.",
+          "location": "Strategies (Goal 2)",
+          "sub_component": "deadline",
+          "citations": []
+        }
+      ],
+      "absence_note": "The plan frames its climate-related objectives within a 10-year planning horizon (2020-2029) and includes EXAMPLE METRICS for climate-related objectives (e.g., 'Research projects that focus on identifying species'/ecosystems' tolerance and risk levels to climate conditions'). However, no specific deadlines or milestones are attached to individual climate-related actions, and effectiveness monitoring for climate adaptation actions is not operationalized at the action level. Score is 1 rather than 2 because there is no pairing of deadlines with effectiveness monitoring protocols for specific climate actions."
+    },
+    "evidence_of_efficacy": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Longleaf pine and its associated plant community's tolerance to fire, ability to grow in wet and dry weather condition, ability to withstand strong winds, and resistance to beetle infestation make it well suited to thrive under predicted climate changes.",
+          "location": "Forest Impacts (Climate and Weather / NOTABLE THREATS)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document's climate-related management strategies (e.g., develop practices for sea-level change areas, promote research, increase tree planting) are stated without citation to supporting studies or prior implementation experience. General ecological rationale is provided for some actions (e.g., longleaf pine's biological traits as a basis for favoring it), which constitutes first-principle justification rather than evidence of efficacy. No case studies, post-action evaluations, or applicable studies are cited for the climate-specific actions. Score is 1.",
+      "projects": []
+    },
+    "adaptation_planning_frameworks": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Forestry BMPs remain a prime example of 'adaptive management' and may need to address changes in environmental/climatological factors, policy governance, socio-cultural expectations and market dynamics.",
+          "location": "Goal 4, Five key points",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document references 'adaptive management' in a climate-relevant context (BMPs needing to adapt to climatological changes), which qualifies as a non-specific reference to a climate adaptation planning framework. No specific frameworks such as RAD, RRT, CCVA, SBDA, or Structured Decision Making are named. Score is 1 (referenced non-specifically). Score 2 would require naming one or more specific processes or tools."
+    }
+  },
+  "coding_meta": {
+    "coder": "llm:claude-sonnet-4-6",
+    "model": "claude-sonnet-4-6",
+    "provider": "claude",
+    "codebook_version": "0.4",
+    "ingest": "text",
+    "design": "single",
+    "temperature": null,
+    "thinking": null,
+    "thinking_effort": null,
+    "coded_at": "2026-07-07T00:31:31Z",
+    "notes": {}
+  }
+}

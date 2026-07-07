@@ -1,0 +1,846 @@
+{
+  "document_meta": {
+    "title": "Florida's State Wildlife Action Plan",
+    "year": 2019,
+    "jurisdiction": "Florida",
+    "document_type": "SWAP",
+    "document_id": "FL_SWAP_2019",
+    "page_count": 254
+  },
+  "orientation": {
+    "summary": "Florida's 2019 State Wildlife Action Plan (SWAP) is a comprehensive statewide wildlife conservation plan produced by the Florida Fish and Wildlife Conservation Commission (FWC). The document is strongly climate-aware: it frames climate change as a major cross-cutting threat to all three major ecosystems (terrestrial, freshwater, marine), explicitly acknowledging Florida's vulnerability due to its low elevation and extensive coastline. Range shifts are discussed substantively but mostly at a qualitative level—the document references species and habitat range shifts in response to climate, sea level rise, and dispersal barriers, but performs no original modeling. Analysis is largely drawn from referenced documents (especially FWC 2016a 'A Guide to Climate Change Adaptation for Conservation' and the SIVVA-NatCom Report) rather than being newly performed within the plan itself. The document includes climate-specific conservation actions at the ecosystem and species level, and an entire implementation goal objective addresses climate adaptation planning for SGCN.",
+    "evidence_index": [
+      {
+        "text": "Florida is among the most vulnerable states to climate change in the U.S. The extent of coastline in Florida, along with its low elevation and heavy development of coastal areas, will result in large-scale impacts both to human development and fish and wildlife habitat as sea levels continue to rise",
+        "location": "Florida's Climate",
+        "relevant_elements": ["1.1", "3.5"]
+      },
+      {
+        "text": "Changes in abiotic factors from a number of climate change-related drivers are likely to cause habitats and species to shift their ranges in response. This will be especially problematic for habitats that are unable to migrate because of natural or anthropogenic barriers, and for species that are rare, occur in isolated populations, and/or have poor dispersal capabilities.",
+        "location": "Florida's Climate",
+        "relevant_elements": ["1.1", "1.2", "1.3", "1.4", "3.3"]
+      },
+      {
+        "text": "Land-dependent wildlife may move to new feeding and reproductive grounds as vegetative communities begin to shift (FWC 2016a). Florida's unique combination of extensive coastline threatened by sea level rise and inland human-induced barriers to migration poses a challenge for land managers seeking to preserve a connected landscape under changing environmental conditions.",
+        "location": "Introduction: A Profile of Florida's Terrestrial Ecosystem",
+        "relevant_elements": ["1.4", "2.4", "3.5", "4.2"]
+      },
+      {
+        "text": "The SIVVA-NatCom Report scored sandhill as highly vulnerable to climate change, ranking ninth of 30 communities evaluated in Florida (Noss et al. 2014).",
+        "location": "Habitat Description: High Pine and Scrub",
+        "relevant_elements": ["1.1", "2.1"]
+      },
+      {
+        "text": "Pine rocklands are also one of Florida's most vulnerable habitats to climate change. Approximately 99% of total habitat is projected to be lost at three meters of sea level rise. The SIVVA-NatCom Report evaluated this habitat as the second most vulnerable of 30 natural communities analyzed (Noss et al. 2014).",
+        "location": "Habitat Description: Pine Flatwoods and Dry Prairie",
+        "relevant_elements": ["1.1", "2.1", "3.5"]
+      },
+      {
+        "text": "As climate change intensifies, habitat decline may accelerate as increased temperatures and changes in precipitation patterns create additional ecological strain. Scrub habitat is vulnerable to sea level rise, with anticipated habitat loss of ~10% under three meters.",
+        "location": "Habitat Description: High Pine and Scrub",
+        "relevant_elements": ["1.1", "3.5"]
+      },
+      {
+        "text": "Shifts in temperature and precipitation coupled with sea level rise are anticipated to result in ecosystem encroachment due to changes in species and habitat ranges. Climate variations will also affect hydrologic and fire regimes, metabolic processes, and pest and disease outbreaks.",
+        "location": "Threat #11: Climate Change (Terrestrial)",
+        "relevant_elements": ["1.1", "3.5", "3.7"]
+      },
+      {
+        "text": "Increased mortality of aquatic species due to extreme temperatures and range shifts are likely as warming occurs. Intensification of the hydrological cycle resulting in floods and droughts will become an increasingly significant threat to freshwater SGCN and their habitats.",
+        "location": "Introduction: Freshwater Ecosystem",
+        "relevant_elements": ["1.1", "3.6", "3.5"]
+      },
+      {
+        "text": "Freshwater areas will transition into brackish or marine waters causing changes in species ranges and available habitats. Increased air temperature along with decreased rainfall and droughts will lead to loss of habitat and decreased habitat connectivity as freshwater systems dry and are reduced in size.",
+        "location": "Threat #11: Climate Change (Freshwater table)",
+        "relevant_elements": ["1.1", "1.4", "3.5"]
+      },
+      {
+        "text": "Ecosystem encroachment is likely to cause major impacts to marine habitats in Florida such as inland migration of tidal wetlands in response to sea level rise, and the expansion or contraction of habitats in response to changing climatic conditions.",
+        "location": "Threat #11: Climate Change (Marine)",
+        "relevant_elements": ["1.1", "3.5", "4.2"]
+      },
+      {
+        "text": "Florida's SGCN may be especially vulnerable to longterm climatic changes linked to sea level rise and other severe climatic or weather events outside the natural range of variation. Changes in temperature, precipitation, and hydrologic regimes are expected to vary across the state.",
+        "location": "Threat #11: Climate Change (Chapter 4 SGCN)",
+        "relevant_elements": ["1.1", "1.2"]
+      },
+      {
+        "text": "These impacts may be particularly severe in the Everglades and the Florida Keys where SGCN such as the Key deer and Florida Keys mole skink already face significant barriers to dispersal even without sea level rise.",
+        "location": "Threat #11: Climate Change (Chapter 4 SGCN)",
+        "relevant_elements": ["1.1", "1.2", "1.3"]
+      },
+      {
+        "text": "More detailed information about the vulnerability of specific SGCN to climate change, including species level vulnerability assessments, can be found in 'A Guide to Climate Change Adaptation for Conservation' (FWC 2016a).",
+        "location": "Threat #11: Climate Change (Chapter 4 SGCN)",
+        "relevant_elements": ["1.1", "2.1"]
+      },
+      {
+        "text": "Action S11.1: Conduct climate vulnerability assessments for SGCN species and incorporate results into species management, action, and recovery plans.",
+        "location": "Threat #11: Climate Change (Chapter 4 SGCN)",
+        "relevant_elements": ["1.1", "2.1", "4.5"]
+      },
+      {
+        "text": "Action S11.3: Use decision support tools to select the most appropriate adaptation strategies and actions to implement to minimize impacts to SGCN and important habitats.",
+        "location": "Threat #11: Climate Change (Chapter 4 SGCN)",
+        "relevant_elements": ["4.5"]
+      },
+      {
+        "text": "Species with low adaptive capacity such as those with specialized habitat needs or limited dispersal ability face higher vulnerability to these changes",
+        "location": "Threat #11: Climate Change (Chapter 4 SGCN)",
+        "relevant_elements": ["1.1", "1.2", "1.3"]
+      },
+      {
+        "text": "black mangrove is expanding northward due to a decrease in the frequency of cold events in central and north Florida",
+        "location": "Featured Habitat: Mangrove Swamp",
+        "relevant_elements": ["1.1", "3.7"]
+      },
+      {
+        "text": "Adapting development practices to changing sea levels and assisting inland migration of intertidal habitats may be required to conserve SGCN endemic to intertidal habitats in the future.",
+        "location": "Habitat Description: Intertidal",
+        "relevant_elements": ["4.2", "3.5"]
+      },
+      {
+        "text": "Action T11.2: Identify, restore, and/or conserve likely future migration corridors for habitats and species in the face of climate change and sea level rise.",
+        "location": "Threat #11: Climate Change (Terrestrial)",
+        "relevant_elements": ["1.4", "4.1", "4.2"]
+      },
+      {
+        "text": "Action M11.1: Identify and conserve likely future migration corridors for habitats and species in the face of climate change and sea level rise (use a collaborative, partner-based process).",
+        "location": "Threat #11: Climate Change (Marine)",
+        "relevant_elements": ["1.4", "4.1", "4.2"]
+      },
+      {
+        "text": "Action F11.2: Identify, restore and/or conserve likely migration corridors for habitats and species in the face of climate change and sea level rise.",
+        "location": "Threat #11: Climate Change (Freshwater table)",
+        "relevant_elements": ["1.4", "4.1", "4.2"]
+      },
+      {
+        "text": "A regional habitat connectivity plan provides spatial layers depicting structural connectivity, network importance, landscape permeability, and climate connectivity.",
+        "location": "Conservation Planning and Management Resources / Landscape Conservation Planning",
+        "relevant_elements": ["1.4", "2.4", "4.1"]
+      },
+      {
+        "text": "Together these plans identify key areas to conserve and maintain biodiversity and habitat connectivity.",
+        "location": "Conservation Planning and Management Resources",
+        "relevant_elements": ["1.4", "4.1"]
+      },
+      {
+        "text": "LCC projects focused on conservation planning over broad spatial and temporal scales and included combining available data on habitat and species distributions with projections of sea level rise and urbanization to assist with prioritizing conservation actions.",
+        "location": "Status Monitoring - Additional Information on Habitat Monitoring Initiatives",
+        "relevant_elements": ["2.2", "2.3", "4.1"]
+      },
+      {
+        "text": "Implementing an appropriate prescribed fire regime is likely to become more challenging for natural resource managers under climate change, as altered conditions and extreme weather patterns are likely to narrow the window of optimal prescribed fire conditions.",
+        "location": "Fire Management (Working Lands)",
+        "relevant_elements": ["3.5"]
+      },
+      {
+        "text": "Difficulty in maintaining appropriate fire regimes along with changing precipitation patterns in the face of climate change are predicted to become more significant threats to dry prairie habitat.",
+        "location": "Habitat Description: Pine Flatwoods and Dry Prairie",
+        "relevant_elements": ["3.5"]
+      },
+      {
+        "text": "increasing sea surface temperatures are expected to increase the frequency of high-intensity tropical cyclones (Mendelsohn et al. 2012). Additionally, increasing sea surface temperature has already negatively impacted Florida's coral reefs.",
+        "location": "Florida's Climate",
+        "relevant_elements": ["3.6", "3.5"]
+      },
+      {
+        "text": "Climate variations will also directly impact freshwater species mortality, erosion and runoff, fire regimes, metabolic processes, water chemistry, and outbreaks of disease and harmful algal blooms.",
+        "location": "Threat #11: Climate Change (Freshwater table)",
+        "relevant_elements": ["3.6"]
+      },
+      {
+        "text": "An increase in severe/extreme weather events is also expected as are altered fire regimes, metabolic processes, and pest and disease outbreaks.",
+        "location": "Threat #11: Climate Change (Chapter 4 SGCN)",
+        "relevant_elements": ["3.6", "3.7"]
+      },
+      {
+        "text": "FWC biologists, working with federal, state and private partners, attempt to boost smaller, less established populations of red-cockaded woodpeckers by capturing and translocating the birds.",
+        "location": "Figure caption near Chapter 4",
+        "relevant_elements": ["4.2"]
+      },
+      {
+        "text": "Action S1.4: Conduct population management for SGCN species (e.g., translocation, repatriation).",
+        "location": "Threat #1: Residential and Commercial Development (Chapter 4)",
+        "relevant_elements": ["4.2"]
+      },
+      {
+        "text": "Conservation actions from the 2012 Action Plan were reviewed for continued relevancy and redesigning to fit within SMART criteria (Specific, Measurable, Achievable, Relevant, and Timely).",
+        "location": "Ecosystem Level Threats and Actions",
+        "relevant_elements": ["4.3"]
+      },
+      {
+        "text": "Action PM.3: Conduct performance monitoring (outputs and where possible, outcomes) of research and management actions to demonstrate conservation success and guide future research and management actions.",
+        "location": "Performance Monitoring Conservation Actions (Chapter 5)",
+        "relevant_elements": ["4.3", "4.4"]
+      },
+      {
+        "text": "Starting in 2018, FWC will move toward incorporating effectiveness monitoring into future Florida SWG-funded projects and report on project outcomes when possible.",
+        "location": "Measuring the Effectiveness of the State and Tribal Wildlife Grants Program",
+        "relevant_elements": ["4.3"]
+      },
+      {
+        "text": "Objective 3: By 2018, address comprehensive adaptation planning and incorporate these strategies into the Action Plan in response to the threat of climate change to SGCN and their habitats.",
+        "location": "Action Plan Implementation Goals 2012-2019",
+        "relevant_elements": ["4.5"]
+      },
+      {
+        "text": "Action S11.2: Support adaptive management through integrated observation and monitoring to identify key thresholds or tipping points.",
+        "location": "Threat #11: Climate Change (Chapter 4 SGCN)",
+        "relevant_elements": ["4.3", "4.5"]
+      },
+      {
+        "text": "FWC has partnered with more than 50 unique entities on nearly 300 projects, which have resulted in more than $50 million to conserve SGCN.",
+        "location": "Action Plan and Florida's Wildlife Legacy Initiative (figure/table)",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "Support provided by the State Wildlife Grant Program will enable coordination and implementation of many projects through Florida's Wildlife Legacy Initiative.",
+        "location": "Executive Summary",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "The Standardized Index for Vulnerability and Value of Natural Communities (SIVVA-NatCom) Report evaluated rockland hammock's vulnerability to climate change including sea level rise, ecosystem status, and conservation value using a spreadsheet-based tool (Noss et al. 2014).",
+        "location": "Habitat Description: High Pine and Scrub (table)",
+        "relevant_elements": ["2.1", "1.1"]
+      },
+      {
+        "text": "Within each map is the approximate acreage of the habitat, including acres in private or conservation ownership and those with ecological significance (i.e., Strategic Habitat Conservation Areas and Florida Forever projects).",
+        "location": "Statewide Habitat Maps",
+        "relevant_elements": ["4.1"]
+      },
+      {
+        "text": "Action T11.1: Research effects of climate change on ecosystem function and adapt habitat management techniques as needed.",
+        "location": "Threat #11: Climate Change (Terrestrial)",
+        "relevant_elements": ["4.5"]
+      },
+      {
+        "text": "Coastal habitats were prioritized due to the threat of sea level rise, and so expansion focused on supporting portions of the Seagrass Integrated Mapping and Monitoring Program (SIMM) and establishing two new Integrated Mapping and Monitoring Programs",
+        "location": "Status Monitoring - Additional Information on Habitat Monitoring Initiatives (table)",
+        "relevant_elements": ["4.1", "4.3"]
+      }
+    ]
+  },
+  "concepts": {
+    "climate_vulnerability": {
+      "evaluable": true,
+      "score": 3,
+      "evidence": [
+        {
+          "text": "Florida is among the most vulnerable states to climate change in the U.S. The extent of coastline in Florida, along with its low elevation and heavy development of coastal areas, will result in large-scale impacts both to human development and fish and wildlife habitat as sea levels continue to rise",
+          "location": "Florida's Climate",
+          "sub_component": "exposure",
+          "citations": []
+        },
+        {
+          "text": "These impacts may be particularly severe in the Everglades and the Florida Keys where SGCN such as the Key deer and Florida Keys mole skink already face significant barriers to dispersal even without sea level rise.",
+          "location": "Threat #11: Climate Change (Chapter 4 SGCN)",
+          "sub_component": "adaptive capacity",
+          "citations": []
+        },
+        {
+          "text": "The SIVVA-NatCom Report scored sandhill as highly vulnerable to climate change, ranking ninth of 30 communities evaluated in Florida (Noss et al. 2014).",
+          "location": "Habitat Description: High Pine and Scrub",
+          "sub_component": "exposure",
+          "citations": ["Noss et al. 2014"]
+        }
+      ],
+      "absence_note": {}
+    },
+    "adaptive_capacity_specificity": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Changes in abiotic factors from a number of climate change-related drivers are likely to cause habitats and species to shift their ranges in response. This will be especially problematic for habitats that are unable to migrate because of natural or anthropogenic barriers, and for species that are rare, occur in isolated populations, and/or have poor dispersal capabilities.",
+          "location": "Florida's Climate",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "These impacts may be particularly severe in the Everglades and the Florida Keys where SGCN such as the Key deer and Florida Keys mole skink already face significant barriers to dispersal even without sea level rise.",
+          "location": "Threat #11: Climate Change (Chapter 4 SGCN)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "adaptive_capacity_components": {
+      "demography": {
+        "present": false,
+        "evidence": []
+      },
+      "distribution": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Changes in abiotic factors from a number of climate change-related drivers are likely to cause habitats and species to shift their ranges in response.",
+            "location": "Florida's Climate",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "movement": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "This will be especially problematic for habitats that are unable to migrate because of natural or anthropogenic barriers, and for species that are rare, occur in isolated populations, and/or have poor dispersal capabilities.",
+            "location": "Florida's Climate",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "evolutionary_potential": {
+        "present": false,
+        "evidence": []
+      },
+      "ecological_dependencies": {
+        "present": false,
+        "evidence": []
+      },
+      "abiotic_niche": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Changes in temperature regimes are another cause of concern for marine organisms with ranges determined by abiotic conditions, including mean, minimum, and maximum temperatures.",
+            "location": "Threat #11: Climate Change (Marine)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "life_history": {
+        "present": false,
+        "evidence": []
+      }
+    },
+    "connectivity": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Action T11.2: Identify, restore, and/or conserve likely future migration corridors for habitats and species in the face of climate change and sea level rise.",
+          "location": "Threat #11: Climate Change (Terrestrial)",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Action M11.1: Identify and conserve likely future migration corridors for habitats and species in the face of climate change and sea level rise (use a collaborative, partner-based process).",
+          "location": "Threat #11: Climate Change (Marine)",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Florida's unique combination of extensive coastline threatened by sea level rise and inland human-induced barriers to migration poses a challenge for land managers seeking to preserve a connected landscape under changing environmental conditions.",
+          "location": "Introduction: A Profile of Florida's Terrestrial Ecosystem",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    }
+  },
+  "tools": {
+    "vulnerability_models": {
+      "evaluable": true,
+      "score": 2,
+      "named_tools": ["SIVVA-NatCom", "NatureServe CCVI"],
+      "evidence": [
+        {
+          "text": "The SIVVA-NatCom Report scored sandhill as highly vulnerable to climate change, ranking ninth of 30 communities evaluated in Florida (Noss et al. 2014).",
+          "location": "Habitat Description: High Pine and Scrub",
+          "sub_component": null,
+          "citations": ["Noss et al. 2014"]
+        },
+        {
+          "text": "The Standardized Index for Vulnerability and Value of Natural Communities (SIVVA-NatCom) Report evaluated rockland hammock's vulnerability to climate change including sea level rise, ecosystem status, and conservation value using a spreadsheet-based tool (Noss et al. 2014).",
+          "location": "Habitat Description: High Pine and Scrub (table)",
+          "sub_component": null,
+          "citations": ["Noss et al. 2014"]
+        },
+        {
+          "text": "More detailed information about the vulnerability of specific SGCN to climate change, including species level vulnerability assessments, can be found in 'A Guide to Climate Change Adaptation for Conservation' (FWC 2016a).",
+          "location": "Threat #11: Climate Change (Chapter 4 SGCN)",
+          "sub_component": null,
+          "citations": ["FWC 2016a"]
+        }
+      ],
+      "absence_note": {}
+    },
+    "niche_models": {
+      "evaluable": true,
+      "score": 0,
+      "named_tools": [],
+      "evidence": [],
+      "absence_note": "The document does not reference species distribution models, MaxEnt, or any niche modeling tools. The LCC discussion mentions 'habitat and species distributions' combined with sea level rise projections but attributes this to external LCC projects rather than performing or incorporating SDM results for focal SGCN."
+    },
+    "climate_models": {
+      "evaluable": true,
+      "score": 1,
+      "named_tools": [],
+      "evidence": [
+        {
+          "text": "By the end of the century, annual average temperatures are projected to increase in Florida across a range of emissions scenarios.",
+          "location": "Threat #11: Climate Change (Terrestrial)",
+          "sub_component": null,
+          "citations": ["FWC 2016a"]
+        }
+      ],
+      "absence_note": "The document references climate projections qualitatively (temperature increases, sea level rise, changed precipitation) with a general mention of 'a range of emissions scenarios' and a time horizon of end of century, but no specific GCM, CMIP, RCP, or SSP is named. Qualifies as 'referenced generally' (1) per the codebook.",
+      "time_horizon_years": [2100],
+      "emission_scenarios": []
+    },
+    "connectivity_models": {
+      "evaluable": true,
+      "score": 1,
+      "named_tools": ["CLIP"],
+      "evidence": [
+        {
+          "text": "A foundation of Florida's recent conservation landscape planning has been the Critical Lands and Waters Identification Project (CLIP). It is a collection of spatial data that identifies statewide priorities for a broad range of natural resources in Florida.",
+          "location": "Landscape Conservation Planning / CLIP",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "CLIP is referenced as a spatial planning tool used to identify conservation priorities including connectivity, but specific connectivity modeling tools (CircuitScape, Linkage Mapper, least-cost path) are not named and the document does not clearly apply connectivity modeling outputs to specific SGCN management decisions. Score 1 (referenced generally)."
+    }
+  },
+  "context": {
+    "management_scale": {
+      "local": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Therefore, this monitoring approach is flexible and targets multiple levels (i.e., species, guilds, habitats, conservation actions, and programs) as well as local, regional, and statewide scales.",
+            "location": "Foreword",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "site": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Within each map is the approximate acreage of the habitat, including acres in private or conservation ownership and those with ecological significance (i.e., Strategic Habitat Conservation Areas and Florida Forever projects).",
+            "location": "Statewide Habitat Maps",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "watershed": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The Strategy includes watershedspecific potential action lists mined from project proposals submitted to the online project portal as of July 2017.",
+            "location": "GEBF: National Fish and Wildlife Foundation Gulf Environmental Benefit Fund",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "city": {
+        "present": false,
+        "evidence": []
+      },
+      "county": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "It is located in the south-central portion of the Florida peninsula, divided among five counties -Glades, Okeechobee, Martin, Palm Beach, and Hendry.",
+            "location": "Featured Habitat: Lake Okeechobee",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "within_state_region": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Appendix A: Aligning FWC's Regional Assessments with the State Wildlife Action Plan outlines an approach taken by FWC to bring multiple planning documents to local implementation. This model features natural resource highlights and high priority conservation issues from each of FWC's five administrative regions.",
+            "location": "Foreword",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "state": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Florida's State Wildlife Action Plan (Action Plan) is a comprehensive, statewide plan for conserving the state's wildlife and vital natural areas for future generations.",
+            "location": "Executive Summary / Chapter 1",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "multistate": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "SECAS is a shared, longterm vision for lands and waters that sustain fish and wildlife populations and improve human quality of life across the southeastern United States and the Caribbean.",
+            "location": "SECAS: Southeast Conservation Adaptation Strategy (figure)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "national": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The Landscape Conservation Cooperative Network was launched by the U.S. Department of the Interior (USDOI) to provide science capacity and technical expertise for meeting shared natural and cultural resource priorities.",
+            "location": "Status Monitoring - Additional Information on Habitat Monitoring Initiatives",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "transnational": {
+        "present": false,
+        "evidence": []
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "the Action Plan has taken an ecosystem-based approach to conserving species by addressing the needs of their associated ecosystem. This chapter focuses on Florida's three major ecosystems and is divided into corresponding sections: Terrestrial, Freshwater, and Marine.",
+            "location": "ASP: Agency Strategic Plan",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecoregion": {
+        "present": false,
+        "evidence": []
+      },
+      "province": {
+        "present": false,
+        "evidence": []
+      },
+      "section": {
+        "present": false,
+        "evidence": []
+      },
+      "subsection": {
+        "present": false,
+        "evidence": []
+      },
+      "lake": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Lake Okeechobee, its name meaning 'big water' in the Seminole Indian language, is the largest lake in the Southeast and the second largest in the contiguous U.S.",
+            "location": "Featured Habitat: Lake Okeechobee",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "river": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The Apalachicola River spans three states -Alabama, Georgia, and Florida. Its drainage system flows from the Flint and Chattahoochee rivers in the north and then converges into the Apalachicola River.",
+            "location": "Habitat Description: Rivers and Streams",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "district": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["Apalachicola River", "Lake Okeechobee", "Florida Keys", "Everglades", "Lake Wales Ridge", "Big Bend Seagrasses Aquatic Preserve", "Guana Tolomato Matanzas National Estuarine Research Reserve", "Florida Keys National Marine Sanctuary"]
+    },
+    "biological_unit_score": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Changes in abiotic factors from a number of climate change-related drivers are likely to cause habitats and species to shift their ranges in response.",
+          "location": "Florida's Climate",
+          "sub_component": "species and habitat",
+          "citations": []
+        },
+        {
+          "text": "Ecosystem encroachment is likely to cause major impacts to marine habitats in Florida such as inland migration of tidal wetlands in response to sea level rise, and the expansion or contraction of habitats in response to changing climatic conditions.",
+          "location": "Threat #11: Climate Change (Marine)",
+          "sub_component": "ecosystem",
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "biological_unit_components": {
+      "species": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Florida's SGCN may be especially vulnerable to longterm climatic changes linked to sea level rise and other severe climatic or weather events outside the natural range of variation.",
+            "location": "Threat #11: Climate Change (Chapter 4 SGCN)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "population": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "These impacts may be particularly severe in the Everglades and the Florida Keys where SGCN such as the Key deer and Florida Keys mole skink already face significant barriers to dispersal even without sea level rise.",
+            "location": "Threat #11: Climate Change (Chapter 4 SGCN)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "habitat": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Ecosystem encroachment is likely to cause major impacts to marine habitats in Florida such as inland migration of tidal wetlands in response to sea level rise, and the expansion or contraction of habitats in response to changing climatic conditions.",
+            "location": "Threat #11: Climate Change (Marine)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Shifts in temperature and precipitation coupled with sea level rise are anticipated to result in ecosystem encroachment due to changes in species and habitat ranges.",
+            "location": "Threat #11: Climate Change (Terrestrial)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "community": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Land-dependent wildlife may move to new feeding and reproductive grounds as vegetative communities begin to shift (FWC 2016a).",
+            "location": "Introduction: A Profile of Florida's Terrestrial Ecosystem",
+            "sub_component": null,
+            "citations": ["FWC 2016a"]
+          }
+        ]
+      },
+      "genotype_phenotype": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["Florida panther", "Key deer", "Florida Keys mole skink", "mangroves", "sandhill habitat", "pine rocklands", "salt marsh", "coral reefs", "seagrass", "SGCN (Species of Greatest Conservation Need)"]
+    },
+    "partnerships_and_funding": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Since 2003, FWC has partnered with more than 50 unique entities on nearly 300 projects, which have resulted in more than $50 million to conserve SGCN.",
+          "location": "Action Plan and Florida's Wildlife Legacy Initiative (figure/table)",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Action M11.1: Identify and conserve likely future migration corridors for habitats and species in the face of climate change and sea level rise (use a collaborative, partner-based process).",
+          "location": "Threat #11: Climate Change (Marine)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_threat_habitat_degradation": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Freshwater areas will transition into brackish or marine waters causing changes in species ranges and available habitats. Increased air temperature along with decreased rainfall and droughts will lead to loss of habitat and decreased habitat connectivity as freshwater systems dry and are reduced in size.",
+          "location": "Threat #11: Climate Change (Freshwater table)",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Approximately 99% of total habitat is projected to be lost at three meters of sea level rise.",
+          "location": "Habitat Description: Pine Flatwoods and Dry Prairie",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_threat_species_vital_rates": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Increased mortality of aquatic species due to extreme temperatures and range shifts are likely as warming occurs.",
+          "location": "Introduction: Freshwater Ecosystem",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Climate variations will also directly impact freshwater species mortality, erosion and runoff, fire regimes, metabolic processes, water chemistry, and outbreaks of disease and harmful algal blooms.",
+          "location": "Threat #11: Climate Change (Freshwater table)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_threat_biotic_stressors": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "black mangrove is expanding northward due to a decrease in the frequency of cold events in central and north Florida",
+          "location": "Featured Habitat: Mangrove Swamp",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "An increase in severe/extreme weather events is also expected as are altered fire regimes, metabolic processes, and pest and disease outbreaks.",
+          "location": "Threat #11: Climate Change (Chapter 4 SGCN)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    }
+  },
+  "actions": {
+    "priority_habitat_identification": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Action T11.2: Identify, restore, and/or conserve likely future migration corridors for habitats and species in the face of climate change and sea level rise.",
+          "location": "Threat #11: Climate Change (Terrestrial)",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Within each map is the approximate acreage of the habitat, including acres in private or conservation ownership and those with ecological significance (i.e., Strategic Habitat Conservation Areas and Florida Forever projects).",
+          "location": "Statewide Habitat Maps",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Coastal habitats were prioritized due to the threat of sea level rise, and so expansion focused on supporting portions of the Seagrass Integrated Mapping and Monitoring Program (SIMM) and establishing two new Integrated Mapping and Monitoring Programs",
+          "location": "Status Monitoring - Additional Information on Habitat Monitoring Initiatives (table)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The plan includes statewide habitat maps for all major habitat types with acreages of conservation lands, Strategic Habitat Conservation Areas, and Florida Forever lands spatially represented. Climate-driven habitat migration corridors are identified as priority conservation actions. This supports score 2."
+    },
+    "targeted_range_shift_actions": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Action T11.2: Identify, restore, and/or conserve likely future migration corridors for habitats and species in the face of climate change and sea level rise.",
+          "location": "Threat #11: Climate Change (Terrestrial)",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Adapting development practices to changing sea levels and assisting inland migration of intertidal habitats may be required to conserve SGCN endemic to intertidal habitats in the future.",
+          "location": "Habitat Description: Intertidal",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "time_bound_and_monitoring": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Conservation actions from the 2012 Action Plan were reviewed for continued relevancy and redesigning to fit within SMART criteria (Specific, Measurable, Achievable, Relevant, and Timely). The actions are listed under the threat they are intended to abate.",
+          "location": "Ecosystem Level Threats and Actions",
+          "sub_component": "time-bound",
+          "citations": []
+        },
+        {
+          "text": "Objective 3: By 2018, address comprehensive adaptation planning and incorporate these strategies into the Action Plan in response to the threat of climate change to SGCN and their habitats.",
+          "location": "Action Plan Implementation Goals 2012-2019",
+          "sub_component": "time-bound",
+          "citations": []
+        },
+        {
+          "text": "Starting in 2018, FWC will move toward incorporating effectiveness monitoring into future Florida SWG-funded projects and report on project outcomes when possible.",
+          "location": "Measuring the Effectiveness of the State and Tribal Wildlife Grants Program",
+          "sub_component": "monitoring",
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "evidence_of_efficacy": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Each action within the 2012 Action Plan was reviewed for continued relevancy. Actions that no longer pertained directly to Florida's wildlife or habitats were removed.",
+          "location": "Identifying Conservation Actions for Florida's Ecosystems (Appendix D)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The plan references prior actions and their reviews but does not present specific evidence of efficacy for climate adaptation actions. Actions are presented as logical responses to threats but without citations or case studies demonstrating their effectiveness. Score is 1 (rationale outlined, no direct evidence of efficacy for actions).",
+      "projects": ["The 2012 Action Plan vulnerability assessment chapter (FWC 2016a 'A Guide to Climate Change Adaptation for Conservation') is cited as an existing resource providing species-level vulnerability information, but the plan does not directly evaluate its outcomes or efficacy.", "The SIVVA-NatCom Report (Noss et al. 2014) is cited as providing vulnerability rankings for Florida habitats, providing some evidence base for identifying at-risk habitats, though it is a vulnerability assessment tool rather than an action efficacy evaluation."]
+    },
+    "adaptation_planning_frameworks": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Action S11.3: Use decision support tools to select the most appropriate adaptation strategies and actions to implement to minimize impacts to SGCN and important habitats.",
+          "location": "Threat #11: Climate Change (Chapter 4 SGCN)",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Action S11.1: Conduct climate vulnerability assessments for SGCN species and incorporate results into species management, action, and recovery plans.",
+          "location": "Threat #11: Climate Change (Chapter 4 SGCN)",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Objective 3: By 2018, address comprehensive adaptation planning and incorporate these strategies into the Action Plan in response to the threat of climate change to SGCN and their habitats.",
+          "location": "Action Plan Implementation Goals 2012-2019",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document names specific climate adaptation planning tools: climate vulnerability assessments (CCVA), decision support tools for adaptation strategy selection, and references 'A Guide to Climate Change Adaptation for Conservation' (FWC 2016a) as an operational framework applied to Florida SGCN. The plan has dedicated objectives and actions around adaptation planning, qualifying for score 2."
+    }
+  },
+  "coding_meta": {
+    "coder": "llm:claude-sonnet-4-6",
+    "model": "claude-sonnet-4-6",
+    "provider": "claude",
+    "codebook_version": "0.4",
+    "ingest": "text",
+    "design": "single",
+    "temperature": null,
+    "thinking": null,
+    "thinking_effort": null,
+    "coded_at": "2026-07-06T18:39:20Z",
+    "notes": {}
+  }
+}

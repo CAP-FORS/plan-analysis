@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Appendix 17. Species Status Assessment Criteria Methodology for Fauna SGCN Selection</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<title level="a" type="main">Appendix 17. Species Status Assessment Criteria Methodology for Fauna SGCN Selection</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">3281F9D850F2CE49D6064E9486F8415D</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.1" ident="GROBID" when="2026-07-06T11:45+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>To assess the conservation status of all native, extant Iowa species in the fauna taxa groups included in this Plan, we utilized 8 criteria. The Wildlife Working Group developed a scoring process in which each criterion was weighted according to our understanding of the relative contribution of each factor to a species' overall conservation status. The theoretical potential score for an individual species ranges from 0 -3.75. Individual species scores ranged from 0.57 (for the Snuffbox Mussel, which may be extirpated) to 3.75 (for several species of low conservation concern that have been expanding their range within Iowa). The cutoff value was set at 2.844, meaning that if a species score was a 2.844 or lower, it was categorized as Species of Greatest Conservation Need.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Status Assessment Criteria</head><p>Species with 2 or more fields that are unknown went into a separate "Data Deficient" category of species for which information requirements are high. Data Deficient Species will be categorized as SGCN. If a species has been extirpated from the state, it was also put into a separate category for further discussion; some extirpated species may be included as SGCN and others may not, depending on whether the species is a candidate for restoration activities within the state.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Range-wide Factor</head><p>Criteria 1: Range Extent -Area encompassing all known and projected occurrences, excluding vagrancy. This includes the entire range, not just the range extent within Iowa. (Breeding range only for migratory species) (Note -This is not intended to be an estimate of the amount of occupied or potential habitat. The use of this parameter is to determine the degree to which risks from threatening factors are spread spatially across the geographic distribution of the species.) -0 = Severe threat to species endurance -1 = High threat to species endurance -2 = Medium threat to species endurance -3 = Low threat to species endurance -4 = no threat to species endurance</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Iowa-Only Factors</head></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head></head><label></label><figDesc>Criteria 2: Area of Occupancy • Extent of historical range within Iowa which currently supports the species. (Breeding and Migratory Range) -0 = Species known from &lt;10% historic range -1 = Species known from 11-25% historic range -2 = Species known from 26-50% historic range -3 = Species known from 51-75% historic range -4 = Species known from 76-100% historic range -5 = Species known from &gt;100% historic range Criteria 3: Long-term Trend • Can be population numbers, density, or area occupied since time of European settlement in Iowa (Breeding and migratory range) -0 = Species has declined by &gt;90% -1 = Species has declined by 68 -89% -2 = Species has declined by 41 -67% -3 = Species has declined by 11-40% -4 = Species has declined by 0 -10% -5 = Species has increased Criteria 4: Short-term Trend • Can be population numbers, density or area occupied for past ten years in Iowa. -0 = Species has declined by &gt;90% -1 = Species has declined by 68 -89% -2 = Species has declined by 41 -67% -3 = Species has declined by 11-40% -4 = Species has declined by 0 -10% -5 = Species has increased Criteria 5: Ecological Specialization (Population Concentration) • Degree to which individuals within populations congregate or aggregate seasonally or daily in Iowa (e.g. hibernacula, breeding sites, migration focal points). -0 = Majority of individuals congregate at a single location -1 = Individuals concentrate at 1-25 locations -2 = Individuals congregate at over 25 sites or do not concentrate Criteria 6: Ecological Specialization (Dietary) • Relates to the primary way in which local populations respond to decreases in availability of preferred food type. -0 = Number of individuals declines, no shift in diet -1 = Some shift in diet, population suffers but stabilizes -2 = Species shifts to different diet, no impact to population Criteria 7: Ecological Specialization (General) • Species has some unique life history requirement not addressed above (e.g. hibernacula requirements; narrow ambient temperature limits; specific roosting structure) -0 = Highly specialized -1 = Moderately specialized -2 = Not specialized Criteria 8: Threat Not Addressed Above • List and rank any threat not addressed above (e.g. mussels lack of recruitment; butterflies uni-or multi-voltine) If no threat, score as 4, if 0-3, articulate what threat is.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Rank Value Range in km 2 Range in square miles Examples of Comparable Size</head><label></label><figDesc></figDesc><table><row><cell></cell><cell>no occurrences believed to be</cell><cell></cell><cell></cell></row><row><cell>0</cell><cell>extant; species presumed</cell><cell>NA</cell><cell>NA</cell></row><row><cell></cell><cell>extinct</cell><cell></cell><cell></cell></row><row><cell>1</cell><cell>&lt;1000 km 2</cell><cell>&lt;about 400 square miles</cell><cell>Rocky Mountain Natl Park</cell></row><row><cell>2</cell><cell>1,000 -5000 km 2</cell><cell>400 -2,000 square miles</cell><cell>Prince Edward Island</cell></row><row><cell>3</cell><cell>5,000 -100,000 km 2</cell><cell>2,000 -40,000 square miles</cell><cell>Kentucky</cell></row><row><cell>4</cell><cell>100,000 -2,50,000 km 2</cell><cell>40,000 -1,000,000 square miles</cell><cell>Alaska + Texas</cell></row><row><cell>5</cell><cell>&gt;2,500,000 km 2</cell><cell>&gt;1,000,000 square miles</cell><cell>&gt;Alaska + Texas</cell></row></table></figure>
+		</body>
+		<back>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Methodology for Plant SGCN Selection</head><p>Taxonomy primarily from the Flora of North America (FNA) with exceptions for the genus Rubus <ref type="bibr" target="#b2">(Widrlechner, 1998)</ref>, and the federally listed species of Northern Wild Monkshood (Aconitum novaboracense) and Hall's Bulrush (Schoenoplectiella hallii) as presented in the Federal Register. The Committee met every month or every other month between March 2020 and December 2024. The primary purpose was to revise the State Threatened and Endangered Species list. They evaluated 519 species, representing approximately 33% of the native flora of Iowa. Those species considered included the ones that were on the Endangered, Threatened, and Special Concern list since 1994, species that have been reclassified by science (splitting and lumping of various species), new state records, and species nominated from the state experts.</p><p>Work included examining data from the Natural Areas Inventory database which is inclusive of records from comprehensive herbarium inventories, extensive field work, and literature review. In-depth discussions included species where new information suggested they were more common than previously documented or new populations had been documented, as well as the opposite, where species were more common historically but have been documented less frequently in recent years.</p><p>Decisions were based upon:</p><p>• Endangered = 5 or fewer records since 1980 </p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<monogr>
+		<title level="m" type="main">Final Determination that Eleven Plant Taxa are Endangered and Two Plant Taxa are Threatened</title>
+		<author>
+			<persName><forename type="first">U</forename><forename type="middle">S</forename><surname>Register</surname></persName>
+		</author>
+		<ptr target="https://www.federalregister.gov/citation/43-FR-17910" />
+		<imprint>
+			<date type="published" when="1978-04-26">April 26, 1978</date>
+			<biblScope unit="volume">43</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<title level="m" type="main">Species Status Assessment for Hall&apos;s Bulrush (Schoenoplectiella hallii)</title>
+		<ptr target="https://www.fws.gov/sites/default/files/documents/SSA_Hall%27sBulrush_202007.pdf" />
+		<imprint>
+			<date type="published" when="2020-03">2020. March 2020</date>
+			<publisher>U.S. Fish and Wildlife Service</publisher>
+			<pubPlace>Bloomington, Minnesota</pubPlace>
+		</imprint>
+	</monogr>
+	<note>(Version 1.0). U.S. Fish and Wildlife Service Great Lakes Region</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">The genus Rubus in Iowa</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">P</forename><surname>Widrlechner</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Castanea</title>
+		<imprint>
+			<biblScope unit="volume">63</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="415" to="465" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>
+

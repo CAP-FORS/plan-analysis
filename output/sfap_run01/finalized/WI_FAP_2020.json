@@ -1,0 +1,735 @@
+{
+  "document_meta": {
+    "title": "Wisconsin 2020 Statewide Forest Action Plan",
+    "year": 2020,
+    "jurisdiction": "Wisconsin",
+    "document_type": "Statewide Forest Action Plan",
+    "document_id": "WI_FAP_2020",
+    "page_count": 186
+  },
+  "orientation": {
+    "summary": "This is Wisconsin's 2020 Statewide Forest Action Plan (SWAP), a 10-year strategic planning document for the state's forestry community covering 2020-2030, prepared by the Wisconsin DNR. The document engages with climate change primarily as a threat to forest health, productivity, and management operations, with a dedicated 'Climate Change' section that discusses mitigation (carbon storage) and adaptation (resilience strategies). Regarding range shifts specifically, the document makes passing but explicit references to species/forest type range shifts under climate change (e.g., Central Hardwoods expanding, Boreal species at risk), but this is presented as an anticipated threat/context rather than as a central organizing framework. The plan itself does not perform any original climate modeling, species distribution modeling, or connectivity modeling—it synthesizes findings from prior reports (WICCI 2011, Janowiak et al. 2014, Handler 2016) and references a resilience scoring layer from The Nature Conservancy. Actions are primarily forest management-focused (prescribed fire, invasive species control, reforestation, carbon management), with connectivity discussed in terms of forest fragmentation prevention and habitat corridors for wildlife, though rarely framed explicitly in climate-shift terms.",
+    "evidence_index": [
+      {
+        "text": "Climate change is and will continue to be one of the most critical factors affecting Wisconsin's forests. Adapting Wisconsin's forests to climate change will be critical.",
+        "location": "Climate Change / GOAL J: FORESTS ARE RESILIENT AND ADAPTABLE",
+        "relevant_elements": ["1.1", "4.5"]
+      },
+      {
+        "text": "Temperatures have already warmed by about 2° F in Wisconsin and winters have warmed about twice as much as other seasons. Temperatures are projected to increase 3 to 9° F over the next century.",
+        "location": "Climate Change section (CLIMATE CHANGE & WISCONSIN'S FORESTS table)",
+        "relevant_elements": ["1.1", "2.3"]
+      },
+      {
+        "text": "Due to these changes, some forest types could have their ranges expand or contract. Central Hardwoods may expand their range, although it is uncertain how this forest type will be affected by much wetter or much drier conditions. Boreal species are at risk due to warmer winter temperatures and possible late summer droughts.",
+        "location": "Climate Change section (CLIMATE CHANGE & WISCONSIN'S FORESTS table)",
+        "relevant_elements": ["1.1", "1.3", "3.3", "3.5"]
+      },
+      {
+        "text": "Forest pests and diseases may be more damaging in stressed forests. Current natural pests could expand their range and new pests and/or pathogens may enter Wisconsin in the future.",
+        "location": "Climate Change: CONDITIONS & TRENDS",
+        "relevant_elements": ["3.7", "3.6"]
+      },
+      {
+        "text": "Invasive species will disproportionally benefit from warmer and wetter conditions because of their naturally more aggressive ability to colonize and exploit changed or disturbed areas.",
+        "location": "Climate Change: CONDITIONS & TRENDS",
+        "relevant_elements": ["3.7"]
+      },
+      {
+        "text": "In cases where forest simplification has occurred, these forests may be less resilient to the effects of climate change.",
+        "location": "Climate Change: CONDITIONS & TRENDS",
+        "relevant_elements": ["1.1", "1.2"]
+      },
+      {
+        "text": "Species with low adaptive capacity such as those with specialized habitat needs or limited dispersal ability face higher vulnerability to these changes.",
+        "location": "Climate Change section (CLIMATE CHANGE & WISCONSIN'S FORESTS table)",
+        "relevant_elements": ["1.1", "1.2", "1.3"]
+      },
+      {
+        "text": "Conifer lowlands are vulnerable due to sensitivity to changes in water tables and snow cover. Urban forests can respond well if cities replant with species suited to warmer temperatures.",
+        "location": "Climate Change section (CLIMATE CHANGE & WISCONSIN'S FORESTS table)",
+        "relevant_elements": ["1.1", "1.3"]
+      },
+      {
+        "text": "White-tailed deer are expected to benefit from warmer winters and reduced snow depth, which can result in greater impacts on forests across Wisconsin.",
+        "location": "Climate Change section (CLIMATE CHANGE & WISCONSIN'S FORESTS table)",
+        "relevant_elements": ["3.7"]
+      },
+      {
+        "text": "Habitat suitability will be altered for many species.",
+        "location": "Climate Change section (CLIMATE CHANGE & WISCONSIN'S FORESTS table)",
+        "relevant_elements": ["1.1", "3.3"]
+      },
+      {
+        "text": "Stress will increase from forest pests, diseases, and non-native species.",
+        "location": "Climate Change section (CLIMATE CHANGE & WISCONSIN'S FORESTS table)",
+        "relevant_elements": ["3.7"]
+      },
+      {
+        "text": "Young forests may be vulnerable due to stress and mortality from changing temperature and precipitation patterns, which may result in lower natural regeneration.",
+        "location": "Climate Change section (CLIMATE CHANGE & WISCONSIN'S FORESTS table)",
+        "relevant_elements": ["1.1", "3.6"]
+      },
+      {
+        "text": "With an expected decrease in frozen ground duration, certain forest management activities could become more limited.",
+        "location": "Climate Change: CONDITIONS & TRENDS",
+        "relevant_elements": ["3.5"]
+      },
+      {
+        "text": "10 basic strategies have been described by NIACS (Swanston et al., 2016) and include: Sustain fundamental ecological functions. Maintain or improve the ability of forests to resist pests and pathogens.",
+        "location": "Climate Change / MITIGATION & ADAPTATION",
+        "relevant_elements": ["4.5", "4.4"]
+      },
+      {
+        "text": "Promote landscape connectivity for more resilient and adapted ecosystems, by reducing fragmentation and creating corridors through reforestation, afforestation, or restoration.",
+        "location": "Summary of Goals & Strategies (Climate Change goal J strategies)",
+        "relevant_elements": ["1.4", "4.2", "4.1"]
+      },
+      {
+        "text": "Maintain current forested areas and avoid land use conversion, particularly of unique, sensitive, and at-risk communities to increase diversity and resilience under a changing climate.",
+        "location": "Summary of Goals & Strategies (Climate Change goal J strategies)",
+        "relevant_elements": ["4.1"]
+      },
+      {
+        "text": "Reduce the impacts of current biological stressors and monitor the spread of insects and diseases that are not yet found in Wisconsin but can due to a more favorable changing climate.",
+        "location": "Summary of Goals & Strategies (Climate Change goal J strategies)",
+        "relevant_elements": ["3.7", "4.3"]
+      },
+      {
+        "text": "Facilitate community adjustments through species transitions. Realign ecosystems after disturbance.",
+        "location": "Climate Change section (MITIGATION & ADAPTATION table listing strategies)",
+        "relevant_elements": ["4.2", "1.1"]
+      },
+      {
+        "text": "Maintain and create refugia.",
+        "location": "Climate Change section (MITIGATION & ADAPTATION table listing strategies)",
+        "relevant_elements": ["4.1", "4.2"]
+      },
+      {
+        "text": "The Nature Conservancy created a report and a map for Resilient Sites for Terrestrial Conservation in Eastern North America, where they defined resilient sites as 'an area of land with sufficient variability and microclimate options to enable species and ecosystems to persist in the face of climate change and which will maintain this ability over time' (Anderson et al., 2018).",
+        "location": "Priority Landscapes and Issues / Priority Geospatial Attributes of Resilient Forests in Wisconsin",
+        "relevant_elements": ["2.1", "4.1", "1.1"]
+      },
+      {
+        "text": "Areas with an above average resilient score should be maintain and prioritized as areas with the greatest potential to both mitigate and adapt for climate change. Ecological landscapes with more areas with an 'above average' resilient score, are scored higher.",
+        "location": "Priority Landscapes and Issues / Priority Geospatial Attributes of Resilient Forests in Wisconsin",
+        "relevant_elements": ["4.1", "1.1"]
+      },
+      {
+        "text": "The potential impact of climate change on species movement, intensity and frequency of natural hazards, and opportunities for mitigation are all important issues and should be prioritized but are difficult to map.",
+        "location": "Priority Issues of Forest Threats / Climate change",
+        "relevant_elements": ["1.3", "4.1"]
+      },
+      {
+        "text": "GOAL B: FORESTED LANDSCAPES PROVIDE CONNECTIVITY BETWEEN PATCHES OF FORESTS OF ALL SERAL STAGES AND TYPES FOR FOREST-DEPENDENT SPECIES AND RELATED NATURAL COMMUNITIES.",
+        "location": "GOAL B (Goals and Strategies section)",
+        "relevant_elements": ["1.4", "4.2"]
+      },
+      {
+        "text": "Forest fragmentation, especially of large blocks, reduces habitat for some interior forest species, limits connectivity, and may limit daily and seasonal movement patterns and dispersal.",
+        "location": "Wildlife: CONDITIONS & TRENDS table",
+        "relevant_elements": ["1.4", "1.3"]
+      },
+      {
+        "text": "As Wisconsin experiences effects from climate change such as increased annual rainfall, these windows may shift or close, making it difficult to conduct prescribed burns under the right weather prescription to achieve objectives.",
+        "location": "PRESCRIBED FIRE",
+        "relevant_elements": ["3.5"]
+      },
+      {
+        "text": "With the length of frozen ground conditions potentially getting shorter due to climate change, the windows of opportunity to harvest on those sites may diminish (see Climate Change section).",
+        "location": "SOIL PRODUCTIVITY AND WATER QUALITY",
+        "relevant_elements": ["3.5"]
+      },
+      {
+        "text": "Identify, conserve, and manage diverse forest genetic resources that are adaptable for future climatic conditions and maintain forest productivity and health.",
+        "location": "Summary of Goals & Strategies (Climate Change goal J strategies)",
+        "relevant_elements": ["1.3", "4.2"]
+      },
+      {
+        "text": "The Wisconsin Initiative on Climate Change Impacts (WICCI), an expert panel of forest researchers and managers, compiled information on climate change in their 'Wisconsin's Changing Climate: Impacts and Adaptation' report (WICCI, 2011).",
+        "location": "Climate Change section (CLIMATE CHANGE & WISCONSIN'S FORESTS table)",
+        "relevant_elements": ["2.3", "4.5"]
+      },
+      {
+        "text": "Forest Ecosystem Vulnerability Assessment and Synthesis for Northern Wisconsin and Western Upper Michigan (Janowiak et al., 2014).",
+        "location": "Climate Change section (CLIMATE CHANGE & WISCONSIN'S FORESTS table)",
+        "relevant_elements": ["2.1", "4.5"]
+      },
+      {
+        "text": "Resources currently available to aid forest managers in adaptation best practices include: Forest Adaptation Resources: Climate Change Tools and Approaches for Land Managers, 2nd edition (Swanston et al., 2016).",
+        "location": "Climate Change section (resources list table)",
+        "relevant_elements": ["4.5", "4.4"]
+      },
+      {
+        "text": "Landscape-scale management: Ideally, management should consider the larger ecological context, not just a specific site as landscape context has an important effect on ecological processes and influences the function and viability of a given site.",
+        "location": "Priority Issues of Resilient Forests",
+        "relevant_elements": ["3.1", "4.1"]
+      },
+      {
+        "text": "Large funding sources exist at the local, state and federal level. Landscape Scale Restoration (LSR) grants and Great Lakes Restoration Initiative (GLRI) grants have been resources for Forest Action Plan projects in the past.",
+        "location": "Summary of Goals & Strategies (resources for strategies table)",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "Increase management capacity by encouraging partnerships at different levels, from federal to local stakeholders.",
+        "location": "Summary of Goals & Strategies (Climate Change goal J strategies)",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "Wisconsin is one of the 24 States that comprise the United States Climate Alliance, a bipartisan coalition committed to reducing greenhouse gas emissions consistent with the goals of the 2015 Paris Agreement.",
+        "location": "Priority Landscapes and Issues (multi-state priorities table)",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "Jack pine could be resilient because it's adapted to extremely dry sandy sites and not so dependent on climate.",
+        "location": "Climate Change section (CLIMATE CHANGE & WISCONSIN'S FORESTS table)",
+        "relevant_elements": ["1.3", "1.1"]
+      },
+      {
+        "text": "Increased frequency and severity of catastrophic events may result in increased damage to forests, altered forest soils, loss of forest productivity and changes in forest composition.",
+        "location": "Climate Change: CONDITIONS & TRENDS",
+        "relevant_elements": ["3.5", "3.6"]
+      },
+      {
+        "text": "Use best available science and research on climate change adaptation strategies to guide forest management.",
+        "location": "Summary of Goals & Strategies (Climate Change goal J strategies)",
+        "relevant_elements": ["4.4", "4.5"]
+      },
+      {
+        "text": "Develop and implement climate change mitigation and adaption strategies in urban and community forests.",
+        "location": "GOAL V: URBAN AND COMMUNITY FORESTS ARE INCREASINGLY HEALTHY AND RESILIENT TO CURRENT AND EMERGING STRESSORS.",
+        "relevant_elements": ["4.5"]
+      },
+      {
+        "text": "Tree inventories, plans and climate change adaptation strategies can help inform urban forest management approaches for Wisconsin communities.",
+        "location": "Urban Forest Resilience (Priority Issues)",
+        "relevant_elements": ["4.5"]
+      }
+    ]
+  },
+  "concepts": {
+    "climate_vulnerability": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Conifer lowlands are vulnerable due to sensitivity to changes in water tables and snow cover. Urban forests can respond well if cities replant with species suited to warmer temperatures.",
+          "location": "Climate Change section (CLIMATE CHANGE & WISCONSIN'S FORESTS table)",
+          "sub_component": "sensitivity/exposure",
+          "citations": []
+        },
+        {
+          "text": "Due to these changes, some forest types could have their ranges expand or contract. Central Hardwoods may expand their range, although it is uncertain how this forest type will be affected by much wetter or much drier conditions. Boreal species are at risk due to warmer winter temperatures and possible late summer droughts.",
+          "location": "Climate Change section (CLIMATE CHANGE & WISCONSIN'S FORESTS table)",
+          "sub_component": "exposure",
+          "citations": []
+        },
+        {
+          "text": "In cases where forest simplification has occurred, these forests may be less resilient to the effects of climate change.",
+          "location": "Climate Change: CONDITIONS & TRENDS",
+          "sub_component": "adaptive capacity",
+          "citations": []
+        }
+      ],
+      "absence_note": "The document discusses climate exposure (warming, drought, precipitation shifts) and implies reduced adaptive capacity for some species/forests (simplified forests, limited dispersal), but never uses 'adaptive capacity' as an explicit term paired with exposure in a formal vulnerability framework. Score 2 reflects exposure plus implicit adaptive capacity but not a formal dual-axis treatment as required for 3."
+    },
+    "adaptive_capacity_specificity": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Habitat suitability will be altered for many species.",
+          "location": "Climate Change section (CLIMATE CHANGE & WISCONSIN'S FORESTS table)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document mentions adaptation and resilience broadly (e.g., 'forests are resilient and adaptable') but does not explicitly operationalize adaptive capacity as a concept with named components. References to dispersal, thermal tolerance, or genetic diversity as adaptive-capacity components are only implicit. Score 1 for non-specific reference to capacity to adapt."
+    },
+    "adaptive_capacity_components": {
+      "demography": {
+        "present": false,
+        "evidence": []
+      },
+      "distribution": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Due to these changes, some forest types could have their ranges expand or contract. Central Hardwoods may expand their range, although it is uncertain how this forest type will be affected by much wetter or much drier conditions. Boreal species are at risk due to warmer winter temperatures and possible late summer droughts.",
+            "location": "Climate Change section (CLIMATE CHANGE & WISCONSIN'S FORESTS table)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "movement": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The potential impact of climate change on species movement, intensity and frequency of natural hazards, and opportunities for mitigation are all important issues and should be prioritized but are difficult to map.",
+            "location": "Priority Issues of Forest Threats / Climate change",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "evolutionary_potential": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Identify, conserve, and manage diverse forest genetic resources that are adaptable for future climatic conditions and maintain forest productivity and health.",
+            "location": "Summary of Goals & Strategies (Climate Change goal J strategies)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecological_dependencies": {
+        "present": false,
+        "evidence": []
+      },
+      "abiotic_niche": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Conifer lowlands are vulnerable due to sensitivity to changes in water tables and snow cover.",
+            "location": "Climate Change section (CLIMATE CHANGE & WISCONSIN'S FORESTS table)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "life_history": {
+        "present": false,
+        "evidence": []
+      }
+    },
+    "connectivity": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Promote landscape connectivity for more resilient and adapted ecosystems, by reducing fragmentation and creating corridors through reforestation, afforestation, or restoration.",
+          "location": "Summary of Goals & Strategies (Climate Change goal J strategies)",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "GOAL B: FORESTED LANDSCAPES PROVIDE CONNECTIVITY BETWEEN PATCHES OF FORESTS OF ALL SERAL STAGES AND TYPES FOR FOREST-DEPENDENT SPECIES AND RELATED NATURAL COMMUNITIES.",
+          "location": "GOAL B (Goals and Strategies section)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document explicitly frames landscape connectivity as a strategy for resilience and adaptation to climate change ('Promote landscape connectivity for more resilient and adapted ecosystems...under a changing climate'), which satisfies the climate-relevant criterion for score 2."
+    }
+  },
+  "tools": {
+    "vulnerability_models": {
+      "evaluable": true,
+      "score": 2,
+      "named_tools": ["Forest Ecosystem Vulnerability Assessment and Synthesis (Janowiak et al. 2014)"],
+      "evidence": [
+        {
+          "text": "Forest Ecosystem Vulnerability Assessment and Synthesis for Northern Wisconsin and Western Upper Michigan (Janowiak et al., 2014).",
+          "location": "Climate Change section (CLIMATE CHANGE & WISCONSIN'S FORESTS table)",
+          "sub_component": null,
+          "citations": ["Janowiak et al., 2014"]
+        }
+      ],
+      "absence_note": "The document cites and substantively incorporates findings from the Janowiak et al. (2014) vulnerability assessment for Northern Wisconsin, which is the plan's focal region. This constitutes application per codebook §4 rule 2 (prior tool-based results incorporated into management decisions). No NatureServe CCVI or PVA named."
+    },
+    "niche_models": {
+      "evaluable": true,
+      "score": 0,
+      "named_tools": [],
+      "evidence": [],
+      "absence_note": "No species distribution models, MaxEnt, SDMs, or habitat suitability models are referenced in the document. The Climate Change Tree Atlas is not mentioned."
+    },
+    "climate_models": {
+      "evaluable": true,
+      "score": 1,
+      "named_tools": [],
+      "evidence": [
+        {
+          "text": "Temperatures are projected to increase 3 to 9° F over the next century.",
+          "location": "Climate Change section (CLIMATE CHANGE & WISCONSIN'S FORESTS table)",
+          "sub_component": null,
+          "citations": ["WICCI, 2011"]
+        }
+      ],
+      "absence_note": "The document references climate projections (temperature increase 3-9°F, precipitation changes) sourced from WICCI (2011) and other reports, but no GCM, RCP, SSP, CMIP, or named downscaling product is mentioned. Per codebook decision rule, 'climate projections' without naming a model class or scenario scores 1, not 2.",
+      "time_horizon_years": [2100],
+      "emission_scenarios": []
+    },
+    "connectivity_models": {
+      "evaluable": true,
+      "score": 0,
+      "named_tools": [],
+      "evidence": [],
+      "absence_note": "The document discusses connectivity as a concept and uses a Nature Conservancy resilience layer in spatial prioritization, but no connectivity modeling software (CircuitScape, Linkage Mapper, least-cost path models, etc.) is referenced."
+    }
+  },
+  "context": {
+    "management_scale": {
+      "local": {
+        "present": false,
+        "evidence": []
+      },
+      "site": {
+        "present": false,
+        "evidence": []
+      },
+      "watershed": {
+        "present": false,
+        "evidence": []
+      },
+      "city": {
+        "present": false,
+        "evidence": []
+      },
+      "county": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Encourage collaborative, large-scale planning at the town, county, state, tribal, and federal levels.",
+            "location": "GOAL B strategies",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "within_state_region": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Due to these changes, some forest types could have their ranges expand or contract. Central Hardwoods may expand their range...Boreal species are at risk due to warmer winter temperatures and possible late summer droughts.",
+            "location": "Climate Change section (CLIMATE CHANGE & WISCONSIN'S FORESTS table)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "state": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Promote landscape connectivity for more resilient and adapted ecosystems, by reducing fragmentation and creating corridors through reforestation, afforestation, or restoration.",
+            "location": "Summary of Goals & Strategies (Climate Change goal J strategies)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "multistate": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Wisconsin worked with neighboring states and the USDA Forest Service to develop the list of multi-state priority landscapes and issues.",
+            "location": "MULTI-STATE PRIORITIES",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "national": {
+        "present": false,
+        "evidence": []
+      },
+      "transnational": {
+        "present": false,
+        "evidence": []
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Climate change is exacerbating the impacts of catastrophic events on forests. Resilience is key to limiting impacts. Therefore, the highest priority landscapes for abiotic issues are forested areas where resilience can be improved or in protecting and mitigating damage in non-resilient rare forests.",
+            "location": "Priority Issues of Forest Threats / Climate change",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecoregion": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The ecological landscapes encompass 16 eco-regions of Wisconsin, each defined by similar ecological attributes and management opportunities.",
+            "location": "ECOLOGICAL LANDSCAPES OF WISCONSIN",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "province": {
+        "present": false,
+        "evidence": []
+      },
+      "section": {
+        "present": false,
+        "evidence": []
+      },
+      "subsection": {
+        "present": false,
+        "evidence": []
+      },
+      "lake": {
+        "present": false,
+        "evidence": []
+      },
+      "river": {
+        "present": false,
+        "evidence": []
+      },
+      "district": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["Northern Wisconsin", "Western Upper Michigan", "Northwoods", "Upper Mississippi Watershed", "Driftless Area", "16 Ecological Landscapes of Wisconsin"]
+    },
+    "biological_unit_score": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Due to these changes, some forest types could have their ranges expand or contract. Central Hardwoods may expand their range...Boreal species are at risk due to warmer winter temperatures and possible late summer droughts.",
+          "location": "Climate Change section (CLIMATE CHANGE & WISCONSIN'S FORESTS table)",
+          "sub_component": "species/habitat",
+          "citations": []
+        },
+        {
+          "text": "Habitat suitability will be altered for many species.",
+          "location": "Climate Change section (CLIMATE CHANGE & WISCONSIN'S FORESTS table)",
+          "sub_component": "ecosystem",
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "biological_unit_components": {
+      "species": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Boreal species are at risk due to warmer winter temperatures and possible late summer droughts. Jack pine could be resilient because it's adapted to extremely dry sandy sites and not so dependent on climate.",
+            "location": "Climate Change section (CLIMATE CHANGE & WISCONSIN'S FORESTS table)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "population": {
+        "present": false,
+        "evidence": []
+      },
+      "habitat": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Due to these changes, some forest types could have their ranges expand or contract. Central Hardwoods may expand their range, although it is uncertain how this forest type will be affected by much wetter or much drier conditions.",
+            "location": "Climate Change section (CLIMATE CHANGE & WISCONSIN'S FORESTS table)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Climate change is exacerbating the impacts of catastrophic events on forests. Resilience is key to limiting impacts. Therefore, the highest priority landscapes for abiotic issues are forested areas where resilience can be improved or in protecting and mitigating damage in non-resilient rare forests.",
+            "location": "Priority Issues of Forest Threats / Climate change",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "community": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Facilitate community adjustments through species transitions. Realign ecosystems after disturbance.",
+            "location": "Climate Change section (MITIGATION & ADAPTATION table)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "genotype_phenotype": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["Central Hardwoods", "Boreal species", "Jack pine", "Northern hardwood forest", "Aspen-birch", "Spruce/fir", "Sugar maple", "White oak", "Northern red oak", "American beech", "Emerald ash borer-impacted ash communities"]
+    },
+    "partnerships_and_funding": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Many funding sources exist at the local, state and federal level. Landscape Scale Restoration (LSR) grants and Great Lakes Restoration Initiative (GLRI) grants have been resources for Forest Action Plan projects in the past.",
+          "location": "Summary of Goals & Strategies (resources for strategies table)",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Increase management capacity by encouraging partnerships at different levels, from federal to local stakeholders.",
+          "location": "Summary of Goals & Strategies (Climate Change goal J strategies)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document describes general partnerships and mentions federal funding mechanisms (LSR grants, GLRI grants) in relation to climate adaptation goals, but the climate-range-shift-specific funding and partnerships are aspirational and not operationally detailed. Score 1 for some funding and partnerships described but limited/aspirational for range-shift actions."
+    },
+    "climate_threat_habitat_degradation": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "As Wisconsin experiences effects from climate change such as increased annual rainfall, these windows may shift or close, making it difficult to conduct prescribed burns under the right weather prescription to achieve objectives.",
+          "location": "PRESCRIBED FIRE",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Increased frequency and severity of catastrophic events may result in increased damage to forests, altered forest soils, loss of forest productivity and changes in forest composition.",
+          "location": "Climate Change: CONDITIONS & TRENDS",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_threat_species_vital_rates": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Young forests may be vulnerable due to stress and mortality from changing temperature and precipitation patterns, which may result in lower natural regeneration.",
+          "location": "Climate Change section (CLIMATE CHANGE & WISCONSIN'S FORESTS table)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document mentions mortality from stress due to changing temperature/precipitation patterns and notes forest pests may be more damaging in stressed forests. This is a direct climate-to-vital-rate link (mortality, regeneration failure). Score 1 awarded."
+    },
+    "climate_threat_biotic_stressors": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Invasive species will disproportionally benefit from warmer and wetter conditions because of their naturally more aggressive ability to colonize and exploit changed or disturbed areas.",
+          "location": "Climate Change: CONDITIONS & TRENDS",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Forest pests and diseases may be more damaging in stressed forests. Current natural pests could expand their range and new pests and/or pathogens may enter Wisconsin in the future.",
+          "location": "Climate Change: CONDITIONS & TRENDS",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    }
+  },
+  "actions": {
+    "priority_habitat_identification": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "The Nature Conservancy created a report and a map for Resilient Sites for Terrestrial Conservation in Eastern North America, where they defined resilient sites as 'an area of land with sufficient variability and microclimate options to enable species and ecosystems to persist in the face of climate change and which will maintain this ability over time' (Anderson et al., 2018).",
+          "location": "Priority Landscapes and Issues / Priority Geospatial Attributes of Resilient Forests in Wisconsin",
+          "sub_component": null,
+          "citations": ["Anderson et al., 2018"]
+        },
+        {
+          "text": "Areas with an above average resilient score should be maintain and prioritized as areas with the greatest potential to both mitigate and adapt for climate change. Ecological landscapes with more areas with an 'above average' resilient score, are scored higher.",
+          "location": "Priority Landscapes and Issues / Priority Geospatial Attributes of Resilient Forests in Wisconsin",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document spatially maps priority landscapes using a resilience score derived from The Nature Conservancy's resilient sites analysis (Map 19, Map 20), which explicitly represents areas able to persist under climate change. This constitutes spatially explicit priority habitat identification for climate adaptation, warranting score 2."
+    },
+    "targeted_range_shift_actions": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Promote landscape connectivity for more resilient and adapted ecosystems, by reducing fragmentation and creating corridors through reforestation, afforestation, or restoration.",
+          "location": "Summary of Goals & Strategies (Climate Change goal J strategies)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document proposes structural facilitation actions (connectivity corridors, refugia maintenance, species transitions) explicitly framed as climate adaptation. 'Maintain and create refugia' and 'Facilitate community adjustments through species transitions' also appear. No assisted migration or climate-motivated translocation is discussed. Score 1 for structural facilitation."
+    },
+    "time_bound_and_monitoring": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "The Statewide Forest Action Plan is a 10 year strategic plan for the forestry community that spans 2020-2030.",
+          "location": "Introduction",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The plan has a clear 10-year timeframe (2020-2030), providing a plan-level deadline. However, individual climate adaptation actions (e.g., promoting connectivity, maintaining refugia) do not have specific deadlines or milestones attached at the action level, and effectiveness monitoring protocols for climate-specific actions are not operationalized. Score 1 for the plan-level time bound but no action-level monitoring."
+    },
+    "evidence_of_efficacy": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "10 basic strategies have been described by NIACS (Swanston et al., 2016) and include: Sustain fundamental ecological functions. Maintain or improve the ability of forests to resist pests and pathogens.",
+          "location": "Climate Change / MITIGATION & ADAPTATION",
+          "sub_component": null,
+          "citations": ["Swanston et al., 2016"]
+        },
+        {
+          "text": "Resources currently available to aid forest managers in adaptation best practices include: Forest Adaptation Resources: Climate Change Tools and Approaches for Land Managers, 2nd edition (Swanston et al., 2016).",
+          "location": "Climate Change section (resources list table)",
+          "sub_component": null,
+          "citations": ["Swanston et al., 2016"]
+        }
+      ],
+      "absence_note": "The document references science-based frameworks (NIACS strategies, WICCI reports, Janowiak vulnerability assessment) that provide limited applicability evidence for actions. These are regional assessments and strategy guides rather than evaluations of implemented actions, placing this at score 2 (limited evidence) rather than 3 (strong evidence from case studies or directly applicable efficacy studies).",
+      "projects": ["NIACS Forest Adaptation Resources (Swanston et al. 2016): Referenced as a resource for adaptation best practices; provides a menu of forest management strategies developed from existing science, offering limited evidence of efficacy for specific Wisconsin forest conditions but grounded in regional research.", "Forest Ecosystem Vulnerability Assessment and Synthesis for Northern Wisconsin and Western Upper Michigan (Janowiak et al. 2014): Provides vulnerability-based rationale for management actions relevant to the plan's focal region, constituting evidence from a geographically applicable assessment, though not an efficacy evaluation of specific actions."]
+    },
+    "adaptation_planning_frameworks": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Resources currently available to aid forest managers in adaptation best practices include: Forest Adaptation Resources: Climate Change Tools and Approaches for Land Managers, 2nd edition (Swanston et al., 2016). USDA Forest Service Climate Change Resource Center. Climate Change Response Framework.",
+          "location": "Climate Change section (resources list table)",
+          "sub_component": null,
+          "citations": ["Swanston et al., 2016"]
+        },
+        {
+          "text": "The Wisconsin Initiative on Climate Change Impacts (WICCI), an expert panel of forest researchers and managers, compiled information on climate change in their 'Wisconsin's Changing Climate: Impacts and Adaptation' report (WICCI, 2011).",
+          "location": "Climate Change section (CLIMATE CHANGE & WISCONSIN'S FORESTS table)",
+          "sub_component": null,
+          "citations": ["WICCI, 2011"]
+        }
+      ],
+      "absence_note": "The document references specific climate adaptation planning frameworks by name: the NIACS Forest Adaptation Resources (Swanston et al. 2016), the Climate Change Response Framework (forestad aptation.org), and the WICCI Climate Change assessment. These are specific named climate adaptation planning tools, warranting score 2. The RAD or RRT frameworks are not explicitly named."
+    }
+  },
+  "coding_meta": {
+    "coder": "llm:claude-sonnet-4-6",
+    "model": "claude-sonnet-4-6",
+    "provider": "claude",
+    "codebook_version": "0.4",
+    "ingest": "text",
+    "design": "single",
+    "temperature": null,
+    "thinking": null,
+    "thinking_effort": null,
+    "coded_at": "2026-07-07T00:31:34Z",
+    "notes": {}
+  }
+}

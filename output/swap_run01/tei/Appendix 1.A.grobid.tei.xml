@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Delaware Wildlife Action Plan</title>
+				<funder ref="#_7M3AXYE #_g2BqKZW">
+					<orgName type="full">unknown</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><surname>Contents</surname></persName>
+						</author>
+						<title level="a" type="main">Delaware Wildlife Action Plan</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">DE3109D1AC6979137138B388927A692C</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.1" ident="GROBID" when="2026-07-06T11:24+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract xml:lang="de">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>DE SGCN Mammals (23) .</head></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>DE SGCN Mammals (23)</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Carnivores (3)</head><p>Lynx rufus Bobcat</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Mustela frenata</head><p>Long-tailed Weasel</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Neovison vison Mink</head><p>Tree Bats (4)</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Lasionycteris noctivagans</head><p>Silver-haired Bat</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Lasiurus borealis</head><p>Eastern Red Bat</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Lasiurus cinereus Hoary Bat</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Nycticeius humeralis</head><p>Evening Bat</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>DE SGCN Birds (184) Scientific Name Common Name</head><p>Aerial Insectivores (6)</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Caprimulgus carolinensis</head><p>Chuck-will's-widow</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Caprimulgus vociferous</head><p>Eastern Whip-poor-will</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Chaetura pelagica Chimney Swift</head><p>Chordeiles minor Common Nighthawk</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Petrochelidon pyrrhonota Cliff Swallow</head><p>Riparia riparia Bank Swallow</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Bay Waterfowl (8)</head><p>Aythya affinis Lesser Scaup</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Aythya americana Redhead</head><p>Aythya marila Greater Scaup</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Aythya valisineria Canvasback</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Branta bernicla Brant</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Bucephala albeola Bufflehead</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Bucephala clangula Common Goldeneye</head><p>Oxyura jamaicensis Ruddy Duck</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Beach-nesting Birds (5)</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Charadrius melodus Piping Plover</head><p>Haematopus palliatus American Oystercatcher</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Sterna hirundo Common Tern</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Sternula antillarum Least Tern</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Rynchops niger</head><p>Black Skimmer</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Migratory Terns (4)</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Chlidonias niger Black Tern</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Gelochelidon nilotica</head><p>Gull-billed Tern</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Sterna dougallii</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Roseate Tern</head><p>Thalasseus sandvicensis Sandwich Tern Colonial Waterbirds -Saltmarsh Nesting (4)</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Colonial Waterbirds Colonial Waterbirds -Cormorants (1)</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Larus argentatus</head><p>Herring Gull</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Larus marinus</head><p>Great Black-backed Gull</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Leucophaeus atricilla</head><p>Laughing Gull</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Sterna forsteri</head><p>Forster's Tern</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Forest Birds Forest Edge Birds (5)</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Colaptes auratus</head><p>Northern Flicker</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Icterus galbula</head><p>Baltimore Oriole</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Myiarchus crinitus</head><p>Great Crested Flycatcher</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Tyrannus tyrannus Eastern Kingbird</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Vireo gilvus Warbling Vireo</head><p>Forest Interior Birds (9) Freshwater Waterfowl (7)</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Anas acuta Northern Pintail</head><p>Anas americana American Wigeon</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Anas discors</head><p>Blue-winged Teal</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Anas platyrhynchos Mallard</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Branta canadensis</head><p>Canada Goose (Atlantic migratory population only)</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Cygnus columbianus Tundra Swan</head><p>Lophodytes cucullatus Hooded Merganser</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Grassland Birds (11)</head><p>Ammodramus henslowii Henslow's Sparrow</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Ammodramus savannarum Grasshopper Sparrow</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Bartramia longicauda Upland Sandpiper</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Dolichonyx oryzivorus Bobolink</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Eremophila alpestris Horned Lark</head><p>Falco sparverius American Kestrel</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Lanius ludovicianus Loggerhead Shrike</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Passerculus sandwichensis Savannah Sparrow</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Pooecetes gramineus Vesper Sparrow</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Spiza americana Dickcissel</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Sturnella magna Eastern Meadowlark</head><p>Marine Waterfowl (5) </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Snakes and Lizards (14) Sand Specialist Snakes and Lizards</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Cemophora coccinea Scarletsnake</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Heterodon platirhinos</head><p>Eastern Hog-nosed Snake</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Pantherophis guttatus</head><p>Red Cornsnake</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Scincella lateralis</head><p>Ground Skink</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Storeria occipitomaculata</head><p>Red-bellied Snake</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Other Snakes and Lizards</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Agkistrodon contortrix Copperhead</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Lampropeltis getula</head><p>Common Kingsnake</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Lampropeltis triangulum Milksnake</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Nerodia erythrogaster</head><p>Plain-bellied Watersnake</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Opheodrys aestivus</head><p>Rough Greensnake Delaware Wildlife Action Plan App. 1.A -14</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Plestiodon laticeps</head><p>Broad-headed Skink</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Regina septemvittata</head><p>Queen Snake</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Thamnophis sauritus Eastern Ribbonsnake</head><p>Virginia valeriae Smooth Earthsnake</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Turtles (10) River and Bay Turtles</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Malaclemys terrapin</head><p>Diamondback Terrapin</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Pseudemys rubriventris</head><p>Northern Red-bellied Cooter</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Sea Turtles</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Caretta caretta Loggerhead</head><p>Chelonia mydas Green Turtle</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Dermochelys coriacea Leatherback</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Eretmochelys imbricata Hawksbill</head><p>Lepidochelys kempii Kemp's Ridley Sea Turtle</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Wetland and Riparian Turtles</head><p>Clemmys guttata Spotted Turtle</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Glyptemys muhlenbergii Bog Turtle</head><p>Terrestrial Turtles </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Coastal Sharks</head><p>Carcharhinus brevipinna Spinner Shark</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Carcharhinus isodon</head><p>Finetooth Shark</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Carcharhinus leucas Bull Shark</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Carcharhinus limbatus Blacktip Shark</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Carcharhinus plumbeus Sandbar Shark</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Carcharhinus signatus Night Shark</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Carcharias taurus Sand Tiger</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Galeocerdo cuvier Tiger Shark</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Ginglymostoma cirratum Nurse Shark</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Heptranchias perlo Sharpnose Sevengill Shark</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Hexanchus griseus</head><p>Bluntnose Sixgill Shark</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Mustelus canis</head><p>Smooth Dogfish</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Negaprion brevirostris Lemon Shark</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Rhizoprionodon terraenovae Atlantic Sharpnose Shark</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Sphyrna lewini Scalloped Hammerhead</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Sphyrna mokarran Great Hammerhead</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Sphyrna tiburo Bonnethead Shark</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Sphyrna zygaena Smooth Hammerhead</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Squalus acanthias Spiny Dogfish</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Squatina dumeril</head><p>Angel Shark</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Estuarine Fish</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Apeltes quadracus Fourspine Stickleback</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Fundulus heteroclitus Mummichog</head><p>Delaware Wildlife Action Plan App. 1.A -16</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Fundulus luciae Spotfin Killifish</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Fundulus majalis Striped Killifish</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Menidia menidia Atlantic Silverside</head><p>Freshwater Fish</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Acantharchus pomotis</head><p>Mud Sunfish</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Amia calva Bowfin</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Cottus bairdii Mottled Sculpin</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Cottus caeruleomentum</head><p>Blue Ridge Sculpin</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Cyprinella analostana Satinfin Shiner</head><p>Enneacanthus chaetodon Blackbanded Sunfish</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Enneacanthus obesus</head><p>Banded Sunfish</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Etheostoma fusiforme Swamp Darter</head><p>Etheostoma vitreum Glassy Darter</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Exoglossum maxillingua Cutlip Minnow</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Hybognathus regius Eastern Silvery Minnow</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Lampetra aepyptera</head><p>Least Brook Lamprey</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Lepomis auritus</head><p>Redbreast Sunfish</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Lethenteron appendix American Brook Lamprey</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Moxostoma macrolepidotum Shorthead Redhorse</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Notropis amoenus</head><p>Comely Shiner</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Notropis bifrenatus Bridle Shiner</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Notropis chalybaeus</head><p>Ironcolor Shiner</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Notropis procne Swallowtail Shiner</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Noturus insignis Margined Madtom</head><p>Percina peltata Shield Darter</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Semotilus corporalis Fallfish</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Umbra pygmaea Eastern Mudminnow</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Marine / Estuarine Fish</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Ammodytes americanus American Sand Lance Brevoortia tyrannus</head><p>Atlantic Menhaden</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Centropristis striata Black Sea Bass</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Cynoscion nebulosus Spotted Seatrout</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Cynoscion regalis Weakfish</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Hemitripterus americanus Sea Raven</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Leiostomus xanthurus Spot</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Lophius americanus Goosefish</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Merluccius bilinearis</head><p>Silver Hake</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Microgadus tomcod Atlantic Tomcod</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Micropogonias undulatus</head><p>Atlantic Croaker</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>DE SGCN Invertebrates (333) Scientific Name Common Name</head><p>Estuarine / Marine Invertebrates (7) </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Beetles (17) Fireflies</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Photuris bethaniensis Bethany Beach Firefly</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Photuris pennsylvanica A Firefly</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Photinus floridanus A Firefly</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Photinus ignitus A Firefly</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Photuris cinctipennis A Firefly</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Photuris frontalis A Firefly</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Photuris hebes A Firefly</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Photuris pyralomimus A Firefly</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Photuris tremulans A Firefly</head><p>Pyractomena dispersa A Firefly</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Forest Fireflies</head><p>Photuris mysticalampas A Firefly</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Tidal Marsh Fireflies</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Photuris salina A Firefly</head><p>Pyractomena ecostata A Firefly</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Freshwater Beetles</head><p>Agabetes </p></div><figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="14,155.28,388.80,337.80,228.12" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Forest Interior Understory Birds (10)</head><label></label><figDesc></figDesc><table><row><cell>Buteo lineatus</cell><cell>Red-shouldered Hawk</cell></row><row><cell>Buteo platypterus</cell><cell>Broad-winged Hawk</cell></row><row><cell>Certhia americana</cell><cell>Brown Creeper</cell></row><row><cell>Pheucticus ludovicianus</cell><cell>Rose-breasted Grosbeak</cell></row><row><cell>Piranga olivacea</cell><cell>Scarlet Tanager</cell></row><row><cell>Piranga rubra</cell><cell>Summer Tanager</cell></row><row><cell>Setophaga cerulea</cell><cell>Cerulean Warbler</cell></row><row><cell>Setophaga dominica</cell><cell>Yellow-throated Warbler</cell></row><row><cell>Vireo flavifrons</cell><cell>Yellow-throated Vireo</cell></row><row><cell>Bonasa umbellus</cell><cell>Ruffed Grouse</cell></row><row><cell>Catharus fuscescens</cell><cell>Veery</cell></row><row><cell>Empidonax virescens</cell><cell>Acadian Flycatcher</cell></row><row><cell>Geothlypis Formosa</cell><cell>Kentucky Warbler</cell></row><row><cell>Helmitheros vermivorum</cell><cell>Worm-eating Warbler</cell></row><row><cell>Hylocichla mustelina</cell><cell>Wood Thrush</cell></row><row><cell>Mniotilta varia</cell><cell>Black-and-white Warbler</cell></row><row><cell>Parkesia motacilla</cell><cell>Louisiana Waterthrush</cell></row><row><cell>Setophaga citrina</cell><cell>Hooded Warbler</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>Forest Interior Wetlands Birds (3)</head><label></label><figDesc></figDesc><table><row><cell>Limnothlypis swainsonii</cell><cell>Swainson's Warbler</cell></row><row><cell>Protonotaria citrea</cell><cell>Prothonotary Warbler</cell></row><row><cell>Setophaga americana</cell><cell>Northern Parula</cell></row><row><cell></cell><cell>Pine Specialist Birds (2)</cell></row><row><cell>Melanerpes erythrocephalus</cell><cell>Red-headed Woodpecker</cell></row><row><cell>Sitta pusilla</cell><cell>Brown-headed Nuthatch</cell></row><row><cell></cell><cell>Freshwater Marsh Birds (9)</cell></row><row><cell>Actitis macularius</cell><cell>Spotted Sandpiper</cell></row><row><cell>Botaurus lentiginosus</cell><cell>American Bittern</cell></row><row><cell>Gallinago delicate</cell><cell>Wilson's Snipe</cell></row><row><cell>Himantopus mexicanus</cell><cell>Black-necked Stilt</cell></row><row><cell>Ixobrychus exilis</cell><cell>Least Bittern</cell></row><row><cell>Podilymbus podiceps</cell><cell>Pied-billed Grebe</cell></row><row><cell>Porzana carolina</cell><cell>Sora</cell></row><row><cell>Rallus elegans</cell><cell>King Rail</cell></row><row><cell>Rallus limicola</cell><cell>Virginia Rail</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_4"><head>Neotropical Passage Migrants (11)</head><label></label><figDesc></figDesc><table><row><cell></cell><cell cols="2">Delaware Wildlife Action Plan</cell></row><row><cell cols="3">Clangula hyemalis Melanitta americana Oceanodroma castro Onychoprion anaethetus Phalacrocorax carbo Podiceps auritus DE SGCN Herpetofauna (43) Long-tailed Duck American Scoter Band-rumped Storm-Petrel Bridled Tern Great Cormorant Horned Grebe</cell></row><row><cell>Melanitta fusca Pelagodroma marina</cell><cell></cell><cell>White-winged Scoter White-faced Storm-Petrel Wintering Passerines (7)</cell></row><row><cell cols="2">Melanitta perspicillata Phalaropus lobatus Carpodacus purpureus Scientific Name</cell><cell>Surf Scoter Red-necked Phalarope Purple Finch Common Name</cell></row><row><cell cols="3">Somateria mollissima Arenaria interpres Calidris alba Calidris alpina Calidris canutus Calidris fuscicollis Calidris melanotos Calidris pusilla Limnodromus griseus Limosa fedoa Limosa haemastica Numenius phaeopus Phalaropus tricolor Pluvialis squatarola Recurvirostra americana Tringa flavipes Tringa melanoleuca Tringa solitaria Pluvialis dominica Tryngites subruficollis Cardellina Canadensis Puffinus gravis Puffinus griseus Puffinus lherminieri Stercorarius longicaudus Sterna paradisaea Uria lomvia Ammodramus caudacutus Ammodramus maritimus Ammodramus nelsoni Anas rubripes Asio flammeus Circus cyaneus Cistothorus palustris Cistothorus platensis Laterallus jamaicensis Melospiza georgiana nigrescens Euphagus carolinus Passerella iliaca Plectrophenax nivalis Ephemeral Wetland Obligate Amphibians Common Eider Migratory Shorebirds (19) Ruddy Turnstone Sanderling Dunlin Red Knot White-rumped Sandpiper Pectoral Sandpiper Semipalmated Sandpiper Short-billed Dowitcher Marbled Godwit Hudsonian Godwit Whimbrel Wilson's Phalarope Black-bellied Plover American Avocet Lesser Yellowlegs Greater Yellowlegs Solitary Sandpiper American Golden-Plover Buff-breasted Sandpiper Canada Warbler Great Shearwater Sooty Shearwater Audubon's Shearwater Long-tailed Jaeger Arctic Tern Thick-billed Murre Saltmarsh Birds (13) Saltmarsh Sparrow Seaside Sparrow Nelson's Sparrow American Black Duck Short-eared Owl Northern Harrier Marsh Wren Sedge Wren Black Rail Rusty Blackbird Amphibians (18) Fox Sparrow Snow Bunting Spinus pinus Ambystoma maculatum Spotted Salamander Pine Siskin Spizella arborea Ambystoma opacum Marbled Salamander American Tree Sparrow Sitta canadensis Ambystoma tigrinum Tiger Salamander Red-breasted Nuthatch Hyla gratiosa Barking Treefrog Migratory / Wintering Raptors (9) Accipiter gentilis Lithobates sylvaticus Wood Frog Northern Goshawk Accipiter striatus Groundwater Lotic Amphibians Sharp-shinned Hawk Aegolius acadicus Desmognathus fuscus Northern Dusky Salamander Northern Saw-whet Owl Aquila chrysaetos Eurycea longicauda Longtail Salamander Golden Eagle Asio otus Pseudotriton montanus Mud Salamander Long-eared Owl Buteo lagopus Pseudotriton ruber Red Salamander Rough-legged Hawk Falco columbarius Other Amphibians Merlin Falco peregrinus Acris crepitans Northern Cricket Frog Peregrine Falcon Haliaeetus leucocephalus Anaxyrus fowleri Fowler's Toad Bald Eagle Eurycea bislineata Northern Two-lined Salamander Coastal Plain Swamp Sparrow Rallus longirostris Hemidactylium scutatum Four-toed Salamander Clapper Rail Tringa semipalmata Hyla chrysoscelis Cope's Gray Treefrog Willet Tyto alba Lithobates virgatipes Carpenter Frog Barn Owl Notophthalmus viridescens Eastern Newt Shrubland Birds (10) Coccyzus erythropthalmus Pseudacris kalmi New Jersey Chorus Frog Black-billed Cuckoo Colinus virginianus Northern Bobwhite Rana kauffeldi Atlantic Coast Leopard Frog</cell></row><row><cell>Catharus bicknelli Empidonax traillii</cell><cell></cell><cell>Bicknell's Thrush Willow Flycatcher</cell></row><row><cell>Contopus cooperi Icteria virens</cell><cell></cell><cell>Olive-sided Flycatcher Yellow-breasted Chat</cell></row><row><cell>Empidonax minimus Pipilo erythrophthalmus</cell><cell></cell><cell>Least Flycatcher Eastern Towhee</cell></row><row><cell>Setophaga caerulescens Scolopax minor</cell><cell></cell><cell>Black-throated Blue Warbler American Woodcock</cell></row><row><cell>Setophaga castanea Setophaga discolor</cell><cell></cell><cell>Bay-breasted Warbler Prairie Warbler</cell></row><row><cell>Setophaga fusca Spizella pusilla</cell><cell></cell><cell>Blackburnian Warbler Field Sparrow</cell></row><row><cell>Setophaga pensylvanica Toxostoma rufum</cell><cell></cell><cell>Chestnut-sided Warbler Brown Thrasher</cell></row><row><cell>Setophaga tigrina Vermivora cyanoptera</cell><cell></cell><cell>Cape May Warbler Blue-winged Warbler</cell></row><row><cell>Setophaga virens</cell><cell cols="2">Black-throated Green Warbler Wintering Coastal Birds (5)</cell></row><row><cell>Vermivora chrysoptera Calidris maritima</cell><cell></cell><cell>Golden-winged Warbler Purple Sandpiper</cell></row><row><cell>Gavia immer</cell><cell></cell><cell>Pelagic Birds (11) Common Loon</cell></row><row><cell>Morus bassanus Gavia stellate</cell><cell></cell><cell>Northern Gannet Red-throated Loon</cell></row><row><cell></cell><cell></cell><cell>App. 1.A -11 App. 1.A -12</cell></row></table><note><p><p>Delaware Wildlife Action Plan</p>App. 1.A -10</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_7"><head>Ground-nesting Bees and Wasps</head><label></label><figDesc></figDesc><table><row><cell></cell><cell></cell><cell>Delaware Wildlife Action Plan</cell></row><row><cell>Cicindela dorsalis media Callophrys augustinus</cell><cell></cell><cell>White Tiger Beetle Brown Elfin</cell></row><row><cell cols="2">Cicindela duodecimguttata Callophrys irus</cell><cell>Twelve-spotted Tiger Beetle Frosted Elfin</cell></row><row><cell cols="2">Cicindela formosa generosa Erynnis brizo brizo</cell><cell>Big Sand Tiger Beetle Sleepy Duskywing</cell></row><row><cell>Cicindela hirticollis Hesperia metea</cell><cell></cell><cell>Hairy-necked Tiger Beetle Cobweb Skipper</cell></row><row><cell>Cicindela lepida Hesperia sassacus</cell><cell></cell><cell>Ghost Tiger Beetle Indian Skipper</cell></row><row><cell>Cicindela marginata</cell><cell></cell><cell>Margined Tiger Beetle Moths (106)</cell></row><row><cell>Cicindela patruela</cell><cell></cell><cell>Northern Barrens Tiger Beetle Dune Herb-feeding Moths</cell></row><row><cell cols="2">Cicindela patruela consentanea Drasteria graphica</cell><cell>New Jersey Pine Barrens Tiger Beetle Graphic Moth</cell></row><row><cell>Cicindela purpurea Melitara prodenialis</cell><cell></cell><cell>Cow Path Tiger Beetle Eastern Cactus-boring Moth</cell></row><row><cell>Cicindela rufiventris Schinia spinosae</cell><cell></cell><cell>Eastern Red-bellied Tiger Beetle A Noctuid Moth</cell></row><row><cell>Cicindela scutellaris Sympistis perscripta</cell><cell></cell><cell>Festive Tiger Beetle A Noctuid Moth</cell></row><row><cell>Cicindela unipunctata</cell><cell></cell><cell>One-spotted Tiger Beetle Forest Herb-feeding Moths</cell></row><row><cell>Tetracha virginica Hadena ectypa</cell><cell></cell><cell>Virginia Big-headed Tiger Beetle A Noctuid Moth</cell></row><row><cell>Lintneria eremitus</cell><cell></cell><cell>Other Beetles Hermit Sphinx</cell></row><row><cell>Lucanus elaphus Papaipema astuta</cell><cell></cell><cell>Giant Stag Beetle Yellow Stoneroot Borer</cell></row><row><cell cols="2">Nicrophorus americanus Papaipema duplicatus</cell><cell>American Burying Beetle Dark Stoneroot Borer Moth</cell></row><row><cell>Papaipema lysimachiae</cell><cell></cell><cell>Bees &amp; Wasps (11) Loosestrife Borer Moth</cell></row><row><cell>Papaipema pterisii</cell><cell></cell><cell>Bumble Bees Bracken Borer Moth</cell></row><row><cell>Bombus affinis Papaipema rutila</cell><cell></cell><cell>Rusty-patched Bumble Bee Mayapple Borer Moth</cell></row><row><cell>Bombus ashtoni</cell><cell></cell><cell>Ashton's Cuckoo Bumble Bee Forest Litter-feeding Moths</cell></row><row><cell>Bombus auricomus Macrochilo louisiana</cell><cell></cell><cell>Black and Gold Bumble Bee Louisiana Macrochilo</cell></row><row><cell>Bombus fraternus</cell><cell cols="2">Southern Plains Bumble Bee Forest Tree Canopy-feeding Moths</cell></row><row><cell>Bombus pensylvanicus Catocala cerogama</cell><cell></cell><cell>American Bumble Bee Yellow Banded Underwing</cell></row><row><cell>Bombus vagans Catocala dejecta</cell><cell></cell><cell>Half-black Bumble Bee Dejected Underwing</cell></row><row><cell>Bombus variabilis Catocala flebilis</cell><cell></cell><cell>Variable Cuckoo Bumble Bee Mournful Underwing</cell></row><row><cell>Catocala habilis</cell><cell></cell><cell>Habilis Underwing</cell></row><row><cell>Colletes aestivalis Catocala innubens</cell><cell></cell><cell>A Cellophane Bee The Betrothed Underwing</cell></row><row><cell>Lasioglossum marinum Catocala insolabilis</cell><cell></cell><cell>A Sweat Bee Inconsolable Underwing</cell></row><row><cell>Lasioglossum nymphale Catocala lacrymosa</cell><cell></cell><cell>A Sweat Bee Tearful Underwing</cell></row><row><cell>Nomada rubicunda Catocala minuta</cell><cell></cell><cell>A Cuckoo Bee Little Underwing</cell></row><row><cell>Catocala nebulosa</cell><cell></cell><cell>Butterflies &amp; Skippers (41) Clouded Underwing</cell></row><row><cell>Catocala obscura</cell><cell cols="2">Early Successional Herbaceous Butterflies Obscure Underwing</cell></row><row><cell>Anatrytone logan Catocala residua</cell><cell></cell><cell>Delaware Skipper Residua Underwing</cell></row><row><cell>acuductus Boloria bellona Catocala ulalume</cell><cell></cell><cell>A Predaceous Diving Beetle Meadow Fritillary An Underwing Moth</cell></row><row><cell>Helocombus bifidus Danaus plexippus Lapara coniferarum</cell><cell></cell><cell>A Water-scavenger Beetle Monarch Southern Pine Sphinx</cell></row><row><cell>Hoperius planatus Erynnis baptisiae Sphinx franckii</cell><cell></cell><cell>A Predaceous Diving Beetle Wild Indigo Duskywing Franck's Sphinx</cell></row><row><cell>Hydrochus spangleri Pompeius verna Tolype notialis</cell><cell></cell><cell>Seth Forest Water Scavenger Beetle Little Glassywing Small Tolype Moth</cell></row><row><cell>Pontia protodice Zale metata</cell><cell></cell><cell>Tiger Beetles (14) Checkered White A Noctuid Moth</cell></row><row><cell>Cicindela dorsalis Speyeria idalia Zale metatoides</cell><cell></cell><cell>Eastern Beach Tiger Beetle Regal Fritillary Washed-out Zale Moth</cell></row><row><cell></cell><cell></cell><cell>App. 1.A -20 App. 1.A -22</cell></row></table></figure>
+		</body>
+		<back>
+
+			<div type="funding">
+<div><p><rs type="grantNumber">Fireflies ................................................................................................................................................ Forest Fireflies ..................................................................................................................................... Tidal Marsh Fireflies ............................................................................................................................. Freshwater Beetles .............................................................................................................................. Tiger Beetles (14) ................................................................................................................................. Other Beetles ....................................................................................................................................... Bees &amp; Wasps (11) .................................................................................................................................... Bumble Bees .......................................................................................................................................</rs>. <rs type="person">Ground-nesting Bees</rs> and <rs type="grantNumber">Wasps .......................................................................................................... Butterflies &amp; Skippers (41) ........................................................................................................................ Early Successional Herbaceous Butterflies ........................................................................................... Early Successional Shrubland Butterflies .............................................................................................. Floodplain Forest Butterflies ................................................................................................................ Forest Butterflies ................................................................................................................................. Forest Edge Butterflies ........................................................................................................................ Forest Understory Butterflies ............................................................................................................... Habitat Generalist Butterflies ............................................................................................................... Herbaceous Wetland Butterflies .......................................................................................................... Forested Wetland Butterflies ............................................................................................................... Tidal Wetland Butterflies ..................................................................................................................... Xeric Opening Butterflies ..................................................................................................................... Moths (106) .............................................................................................................................................. Dune Herb-feeding Moths.................................................................................................................... Forest Herb-feeding Moths .................................................................................................................. Forest Litter-feeding Moths ................................................................................................................. Forest Tree Canopy-feeding Moths ...................................................................................................... Forest Tree-feeding Moths ................................................................................................................... Forest Understory-feeding Moths ........................................................................................................ Freshwater Wetland Herb-feeding Moths ...........................................................................................</rs>.</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_7M3AXYE">
+					<idno type="grant-number">Fireflies ................................................................................................................................................ Forest Fireflies ..................................................................................................................................... Tidal Marsh Fireflies ............................................................................................................................. Freshwater Beetles .............................................................................................................................. Tiger Beetles (14) ................................................................................................................................. Other Beetles ....................................................................................................................................... Bees &amp; Wasps (11) .................................................................................................................................... Bumble Bees .......................................................................................................................................</idno>
+				</org>
+				<org type="funding" xml:id="_g2BqKZW">
+					<idno type="grant-number">Wasps .......................................................................................................... Butterflies &amp; Skippers (41) ........................................................................................................................ Early Successional Herbaceous Butterflies ........................................................................................... Early Successional Shrubland Butterflies .............................................................................................. Floodplain Forest Butterflies ................................................................................................................ Forest Butterflies ................................................................................................................................. Forest Edge Butterflies ........................................................................................................................ Forest Understory Butterflies ............................................................................................................... Habitat Generalist Butterflies ............................................................................................................... Herbaceous Wetland Butterflies .......................................................................................................... Forested Wetland Butterflies ............................................................................................................... Tidal Wetland Butterflies ..................................................................................................................... Xeric Opening Butterflies ..................................................................................................................... Moths (106) .............................................................................................................................................. Dune Herb-feeding Moths.................................................................................................................... Forest Herb-feeding Moths .................................................................................................................. Forest Litter-feeding Moths ................................................................................................................. Forest Tree Canopy-feeding Moths ...................................................................................................... Forest Tree-feeding Moths ................................................................................................................... Forest Understory-feeding Moths ........................................................................................................ Freshwater Wetland Herb-feeding Moths ...........................................................................................</idno>
+				</org>
+			</listOrg>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Setophaga ruticilla</head><p>App. 1.A -17</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Myoxocephalus octodecemspinosus</head><p>Longhorn Sculpin</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Opsanus tau</head><p>Oyster Toadfish</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Paralichthys dentatus</head><p>Summer Flounder</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Paralichthys oblongus Fourspot Flounder</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Peprilus triacanthus Butterfish Pogonias cromis</head><p>Black Drum</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Pomatomus saltatrix Bluefish</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Prionotus carolinus</head><p>Northern Searobin</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Prionotus evolans</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Striped Searobin Pseudopleuronectes americanus</head><p>Winter Flounder</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Sciaenops ocellatus</head><p>Red Drum</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Scomber scombrus Atlantic Mackerel</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Scomberomorus maculatus</head><p>Spanish Mackerel</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Scophthalmus aquosus Windowpane</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Sphoeroides maculatus Northern Puffer</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Stenotomus chrysops Scup</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Tautoga onitis Tautog</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Tautogolabrus adspersus Cunner Thunnus thynnus</head><p>Atlantic Bluefin Tuna</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Urophycis chuss</head><p>Red Hake</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Zoarces americanus</head><p>Ocean Pout </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Oceanic Sharks</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Pero ancetaria</head><p>Hübner's Pero</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Lichen-feeding Moths</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Cisthene kentuckiensis Kentucky Lichen Moth Cisthene tenuifascia</head><p>Thin-Banded Lichen Moth</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Nigetia formosalis Thin-winged Owlet Moth Parahypenodes quadralis</head><p>A Noctuid Moth Freshwater Aquatic Insects (12)</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Meadow Herb-feeding Moths</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Agarodes libalis Spring-loving Psiloneuran Caddisfly</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Anisocentropus pyraloides A Caddisfly</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Beraea fontana A Caddisfly</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Beraea nigritta A Caddisfly</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Cheumatopsyche virginica A Caddisfly</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Cheumatopsyche wabasha A Caddisfly</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Helicopsyche borealis A Caddisfly</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Hydropsyche hoffmani A Caddisfly</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Hydropsyche impula A Caddisfly</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Hydropsyche opthalmica A Caddisfly</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Neophylax delicatus A Caddisfly</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Polycentropus chenoides A Caddisfly</head><p>Ostrocerca prolongata Bent Forestfly</p></div>			</div>
+			<div type="references">
+
+				<listBibl/>
+			</div>
+		</back>
+	</text>
+</TEI>
+

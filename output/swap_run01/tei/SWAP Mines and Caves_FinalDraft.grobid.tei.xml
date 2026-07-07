@@ -1,0 +1,700 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Mines and Caves</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Contributors Eastern</orgName>
+								<orgName type="department" key="dep2">Department of Natural Resources</orgName>
+								<orgName type="institution">Michigan University U.S. Fish and Wildlife Service Keweenaw Bay Indian Community Michigan</orgName>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Mines and Caves</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">49F70DE0957CA74B9D9DFE8554126D62</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.1" ident="GROBID" when="2026-07-06T12:27+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>What are mines and caves?</head><p>A cave is defined as a cavity beneath the earth's surface, usually with openings that allow for access to the surface <ref type="bibr" target="#b3">(Cohen et al. 2025</ref>). The community is characterized by little or no light, no primary producers, and biotic communities of one or two trophic levels that import energy from outside the system. As a result of a lack of light, there usually are no plants found on the inside of caves. In Michigan, naturally occurring caves are predominantly found in the eastern Upper Peninsula, infrequently in the southwest Lower Peninsula, and, historically, in the southeast Lower Peninsula. Caves in southern Michigan have collapsed naturally or were filled intentionally for safety. Cave-dependent species, such as bats, use abandoned mines throughout the western Upper Peninsula as a substitute for caves.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Mines in this chapter refer to underground mines. An underground mine is a type of mining operation in which mineral resources are extracted from beneath the Earth's surface through a network of shafts, drifts, and stopes. Access to the mine is typically provided by mine shafts that connect surface facilities to underground workings. Unlike open-pit mines, underground mines are developed when valuable resources are located too deep to be economically or environmentally feasible to mine from the surface. These mines may include multiple levels and passageways designed to follow ore bodies while maintaining structural stability and safe working conditions.</p><p>Why are mines and caves important?</p><p>Mines and caves across Michigan play a vital role in bat conservation. These underground spaces provide the stable temperatures and humidity levels that bats need to hibernate through the winter. These habitats, and the bats that rely on them, face serious threats such as White-nose Syndrome (WNS; see Wildlife Health chapter for more information).</p><p>Protecting bats goes far beyond preserving a single species. Bats are key players in healthy ecosystems. They can eat more than their own weight in insects in a single night <ref type="bibr" target="#b9">(Kurta et al. 1989)</ref>, and a single colony may consume up to 1.3 million pest insects in a year <ref type="bibr">(Boyles et al. 2011)</ref>. Before the spread of WNS, bats were estimated to save Michigan farmers $500 million annually by reducing the need for pesticides <ref type="bibr">(Boyles et al. 2011)</ref>. Nationwide, bats contributed between $3.7 and $53 billion to U.S. agriculture (USGS 2025). Since WNS began reducing bat populations, farms have had to rely more heavily on pesticides, which can harm ecosystems and raise food costs for consumers <ref type="bibr" target="#b5">(Frank 2024)</ref>.</p><p>By protecting the mines and caves that bats depend on, we help safeguard not only bat species but also the health of Michigan's ecosystems and economy. These efforts are an essential part of the broader strategy to restore bat populations, protect biodiversity, and support sustainable agriculture across the state.</p><p>What is the health of Michigan's mines and caves?</p><p>These underground environments depend on consistent temperature, humidity and air flow to function as viable habitats. However, many mines and caves are vulnerable to disturbance from human activity, structural collapse and the spread of disease. White-nose Syndrome (WNS), a fungal disease devastating to hibernating bats, has highlighted the fragility of these ecosystems. WNS has been documented in at least 15 counties in Michigan, and many caves that have historically served as bat hibernacula have documented cases (USFWS). Since WNS began reducing bat populations, farms have had to rely more heavily on pesticides, which can harm ecosystems and raise food costs for consumers <ref type="bibr" target="#b5">(Frank 2024)</ref>. Healthy mines and caves are a key component of Michigan's broader conservation goals, supporting biodiversity, ecosystem stability and long-term species recovery. Land managers and conservation partners are working to assess and improve the condition of mine and cave systems across the state to reduce bat fatalities and future disease outbreaks. This includes installing protective gates to prevent unauthorized entry, monitoring microclimate stability and manipulating microclimate to mitigate impacts from WNS. Efforts also focus on reducing the risk of WNS transmission through public education, decontamination protocols and targeted research. Maintaining the health of these environments ensures they remain functional refuges for bats and other cave-dependent species.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Accomplishments</head><p>In 2025, Michigan Natural Features Inventory (MNFI) and Michigan Department of Natural Resources with input from the U.S. Fish and Wildlife Service launched a new community science Michigan Bat Roost Monitoring Program (MBRMP). During the first year of the program, 139 bat roosts have been reported primarily from private landowners across the state. 133 of these roosts were reported across the Lower Peninsula, with 6 from the Upper Peninsula. In addition, an emergence count survey was created and sent to those who submitted bat roost surveys. In 2025, emergence counts were conducted at seven of the roosts reported to the MBRMP.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Focal Species</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Little Brown Bat</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Myotis lucifugus</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>State Threatened, Federally Endangered Candidate</head><p>Little Brown Bats vary in color from dark brown to cinnamon. Once the most common bat species during Northern Michigan summers, some mines in the Upper Peninsula used to shelter more than 50,000 Little Brown Bats in winter <ref type="bibr" target="#b11">(Kurta and Smith 2014)</ref>. However, these bats have undergone an overall 89% decline in the state after the arrival of WNS (Kurta and Smith 2020) with the current Michigan population around 85,000 <ref type="bibr">[HCP]</ref>. Males are solitary in summer, but females gather in maternity colonies that used to contain hundreds or even thousands of individuals; these summer colonies typically are found in barns and other buildings but sometimes in hollow trees <ref type="bibr" target="#b10">(Kurta 2008</ref>). The U.S. Fish and Wildlife Service is currently evaluating the species for potential listing as Federally Endangered. This species has been documented from 103 sites in 51 counties in Michigan as of 2025 in the state's Natural Heritage Database and only 28 of these occurrences were observed within the last 30 years <ref type="bibr" target="#b17">(1995</ref><ref type="bibr">-2025;</ref><ref type="bibr">MNFI 2025)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Goals</head><p>• Maintain and protect known hibernacula sites.</p><p>• Investigate efficacy of providing artificial roosts in summer.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Northern Long-eared Bat</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Myotis septentrionalis</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Federally and State Endangered</head><p>Northern Long-eared Bats are medium to dark brown on the back with particularly long ears and a symmetrical, spear-like tragus <ref type="bibr" target="#b10">(Kurta 2008)</ref>. In winter, they are less social than other Myotis and hibernate alone or in small groups of 2-3 bats within crevices inside caves and mines <ref type="bibr" target="#b11">(Kurta and Smith 2014)</ref>. The total number of northern long-eared bats in any one hibernation site is typically less than 25 individuals. Northern long-eared bats hibernating in Michigan have undergone a 98.5% decline after arrival of WNS with an estimated population around 700 in Michigan <ref type="bibr" target="#b12">(Kurta and Smith 2020)</ref> [HCP]. In summer, adult females live in forested areas, where they gather in maternity colonies, usually in hollow trees or under exfoliating bark <ref type="bibr" target="#b10">(Kurta 2008)</ref>. In 2023, the Northern Long-eared Bat was listed as Federally Endangered in the United States. This species has been documented from 75 sites in 39 counties in Michigan as of 2025 in the state's Natural Heritage Database and 46 of these occurrences were observed within the last 30 years <ref type="bibr" target="#b17">(1995</ref><ref type="bibr">-2025;</ref><ref type="bibr">MNFI 2025)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Goals</head><p>• Maintain and protect known hibernacula sites.</p><p>• Investigate use of non-traditional hibernacula, such as cracks and crevices in cliff faces</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Tricolored Bat</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Perimyotis subflavus</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>State Threatened</head><p>Formerly known as the Eastern Pipistrelle, the Tricolored Bat was renamed after its distinctive hairs that are dark at the base and tip with yellow in the middle. In winter, these bats are known from a handful of caves and mines, where they often choose the warmest sites for hibernation <ref type="bibr" target="#b19">(Unger and Kurta 1998)</ref>. In summer these tiny bats form small maternity groups of 1 to 4 adult females and their twin offspring, often hanging amid a cluster of dead leaves on an otherwise healthy tree <ref type="bibr" target="#b10">(Kurta 2008)</ref>. Tricolored Bats hibernating in Michigan have undergone a 94% decline because of WNS and the hibernating population in the state may be as low as 100 bats <ref type="bibr">[HCP]</ref> (Kurta and Smith 2020). This species is proposed for addition to the U.S. list of endangered species. This species has been documented from 12 sites in nine counties in Michigan as of 2025 in the state's Natural Heritage Database and 10 of these occurrences were observed within the last 30 years <ref type="bibr" target="#b17">(1995</ref><ref type="bibr">-2025;</ref><ref type="bibr">MNFI 2025)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Goals</head><p>• Maintain and protect known hibernacula sites.</p><p>• Determine if and where reproduction occurs in the state.</p><p>• Determine summer habitat requirements.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Protect bats and subterranean habitats</head><p>While mines and caves are naturally buffered from atmospheric changes, the bat species that rely on these habitats face increasing threats from land use changes. One major concern is the expansion of wind energy development in ways that do not adhere to best practices for siting and operations, leading to significant impacts on bat populations (NASBR 2024). Protecting these species will require careful planning and the implementation of wildlife-friendly guidelines for energy infrastructure, as well as broader efforts to preserve and manage key bat habitats amid shifting land use patterns.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Focal species adaptive capacity</head><p>Adaptive capacity is a species' ability to tolerate or adapt to environmental change, whether that be through shifting in space or persisting in place <ref type="bibr" target="#b18">(Thurman et al. 2020)</ref>. Michigan Natural Features Inventory, with funding support from the Michigan Department of Natural Resources, assessed Adaptive Capacity for over 500 Midwest SGCN from 2023-2024 (Appendix 3). We chose to increase clarity at expense of precision in technical language used by <ref type="bibr" target="#b18">Thurman et al. (2020)</ref>  • Illegal entrance into hibernacula during the winter, disturbing bats in torpor and depleting their energy reserves. <ref type="bibr" target="#b16">(Speakman et al. 1991</ref><ref type="bibr" target="#b17">, Thomas 1995)</ref>.</p><p>• If not properly decontaminated, humans and their gear can transport invasive species and diseases into mines and caves (USFS 2012).</p><p>• Sealing mine and cave locations without using best management practices for preserving bat access/habitat.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Development and Natural Systems Modifications</head><p>• Loss of summer roosting habitat and high-quality foraging habitat in forests and surrounding landscapes.</p><p>Invasive &amp; Other Problematic Species, Genes &amp; Diseases</p><p>• While the biggest impacts by WNS occurred throughout the 2010s, the fungus still threatens bat hibernacula in Michigan. See the Wildlife Health Chapter for more information.</p><p>• Warmer hibernacula temperatures favoring fungus growth, making them unusable for wintering bats <ref type="bibr" target="#b7">(Hopkins et al. 2021</ref><ref type="bibr" target="#b22">, Verant et al. 2012</ref>). Threats and conservation actions for all focal species Threats Human Intrusion and Disturbance</p><p>• Wind energy development in close proximity to hibernacula threatens bats with increased mortality events.</p><p>• Lack of funding opportunities for WNS management.</p><p>• Lack of capacity for winter population and habitat surveys.</p><p>Invasive &amp; Other Problematic Species, Genes &amp; Diseases</p><p>• Population losses to WNS <ref type="bibr">(Cheng et al. 2021, Kurta and</ref><ref type="bibr" target="#b12">Smith 2020)</ref>.</p><p>• Pesticide use leads to a loss in insect populations, leading to a loss in prey populations for bats.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Lack of Knowledge</head><p>• The benefits of bats to health ecosystems continues to be poorly understood by the general public, leading to fear and persecution.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="4,72.00,315.64,274.86,225.35" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="5,72.00,213.90,293.21,221.60" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head></head><label></label><figDesc>in their paper. The Michigan Department of Natural Resources created broad management strategies based off assessment results and are intended to be stepped down based on management scale, capacity and resources. Management strategies for assessed 2025-2035 focal species are:</figDesc><table><row><cell></cell><cell>Lowest adaptive capacity</cell><cell>Strategy</cell></row><row><cell>Little Brown Bat</cell><cell>Population Size</cell><cell>Increase habitat connectivity</cell></row><row><cell>Tri-colored Bat</cell><cell>Population Size</cell><cell>Increase habitat connectivity</cell></row><row><cell>Northern Long-eared Bat</cell><cell>Population Size</cell><cell>Increase habitat connectivity</cell></row><row><cell cols="3">Threats and conservation actions for habitat</cell></row><row><cell>Threats</cell><cell></cell><cell></cell></row><row><cell cols="2">Human Intrusion and Disturbance</cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head></head><label></label><figDesc>Experiment with manipulation and enhancement of historic or severely declined hibernacula. MAC11. Encourage community science efforts to collect roost data through the Michigan Bat Roost Monitoring Program at MNFI. MAC12. Research into inter-hibernacula movement in winter. MAC13. Investigate Tippy Dam conditions and support research into replicating those conditions at other hibernacula.</figDesc><table><row><cell>Law &amp; Policy</cell></row><row><cell>MAC5. Take appropriate enforcement actions to illegal entrances to bat hibernacula during the winter. MAC6. Promote education and outreach to build public knowledge around decontaminating clothes before entering bat hibernacula. MAC7. Take appropriate enforcement actions for violations of the Michigan Threatened and Endangered Species Act (NREPA Part 365), the Invasive Species Order (NREPA Part 413) and maintain the Prohibited and Restricted Species list pursuant to the Natural Resources and Environmental Protection Act, P.A. 451 of 1994, as amended.</cell></row><row><cell>Conservation Designation &amp; Planning</cell></row><row><cell>MAC8. Following best management practices outlined in plans like the state forest management plan and Lake States Habitat Conservation Plan to conserve high-quality roost and foraging habitat. [SFMP, HCP] MAC9. Support and promote state wind facility best management practices to reduce bat mortalities.</cell></row><row><cell>Research &amp; Monitoring</cell></row><row><cell>MAC10.</cell></row><row><cell>Conservation Actions</cell></row><row><cell>Land &amp; Water Management</cell></row><row><cell>MAC1. Manage surrounding forest landscape as mosaic of diverse community types to produce high-quality summer habitat. [HCP] MAC2. Acquire and protect land that contains bat hibernacula. MAC3. Install bat-friendly gates to allow bat use of hibernacula sites while preventing human use. MAC4. Improve hibernating habitat quality for wintering bats by providing important microclimate variation.</cell></row></table></figure>
+		</body>
+		<back>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Places for partnership</head><p>This map was created in collaboration with partners and highlights focal areas to work in over the next 10 years. Creating shared goals helps focus efforts and build collaboration. While this map has a select few areas highlighted, conservation work benefitting any Mines and Caves is welcome and encouraged.</p><p>How will we monitor? </p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<monogr>
+		<title level="m" type="main">Continue to update element occurrences in the state&apos;s Natural Heritage Database. Links to other conservation plans [HCP] Lake States Bat Habitat Conservation Plan</title>
+		<imprint/>
+	</monogr>
+	<note>ICF 2023</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<title level="m" type="main">Michigan State Forest Management Plan (DNR in prep</title>
+		<imprint/>
+	</monogr>
+	<note>Literature cited</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">The scope and severity of white-nose syndrome on hibernating bats in North America</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">L</forename><surname>Cheng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Reichard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">T H</forename><surname>Coleman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">J</forename><surname>Weller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">E</forename><surname>Thogmartin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Reichert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Bennett</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">G</forename><surname>Broders</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Campbell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Etchison</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Feller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Geboy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Hemberger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Herzog</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">C</forename><surname>Hicks</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Houghton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Humber</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Kath</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>King</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">C</forename><surname>Loeb</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Masse</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">M</forename><surname>Morris</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Niederriter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Nordquist</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">W</forename><surname>Perry</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Reynolds</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">B</forename><surname>Sasse</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Scafini</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">C</forename><surname>Stark</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">W</forename><surname>Stihler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">C</forename><surname>Thomas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">C</forename><surname>Turner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Webb</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Westrich</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">F</forename><surname>Frick</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Conservation Biology</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="page" from="1586" to="1597" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">G</forename><surname>Cohen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Kost</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">S</forename><surname>Slaughter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Albert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Lincoln</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">P</forename><surname>Kortenhoven</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Wilton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">D</forename><surname>Enander</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">E</forename><surname>Anderson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Parr</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">J</forename><surname>Bassett</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">M</forename><surname>Korroch</surname></persName>
+		</author>
+		<ptr target="https://mnfi.anr.msu.edu/communities/classification" />
+		<title level="m">Michigan Natural Community Classification</title>
+		<meeting><address><addrLine>Lansing, MI</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2025">2025</date>
+		</imprint>
+		<respStmt>
+			<orgName>Michigan State University Extension</orgName>
+		</respStmt>
+	</monogr>
+	<note>Michigan Natural Features Inventory</note>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<monogr>
+		<title level="m" type="main">Assessing Climate Vulnerability &amp; Adaptive Capacity of Midwest Species of Greatest Conservation Need</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Earl</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">C</forename><surname>Branch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">A</forename><surname>Cole-Wick</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">M</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">M</forename><surname>Rowe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Badra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Wilton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Cuthrell</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2024">2024</date>
+			<publisher>Michigan Natural Features Inventory</publisher>
+			<biblScope unit="page">79</biblScope>
+			<pubPlace>Lansing, MI</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">The economic impacts of ecosystem disruptions: Costs from substituting biological pest control</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">G</forename><surname>Frank</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">385</biblScope>
+			<biblScope unit="issue">6713</biblScope>
+			<biblScope unit="page">344</biblScope>
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Curtailment and acoustic deterrents reduce bat mortality at wind farms</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">E</forename><surname>Good</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Iskali</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Lombardi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Mcdonald</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Dubridge</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Azeka</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Tredennick</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Journal of Wildlife Management</title>
+		<imprint>
+			<biblScope unit="volume">86</biblScope>
+			<biblScope unit="page" from="1" to="21" />
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Continued preference for suboptimal habitat reduces bat survival with white-nose syndrome</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">R</forename><surname>Hopkins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Hoyt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>White</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">M</forename><surname>Kaarakka</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Redel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Depue</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">H</forename><surname>Scullon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Kilpatrick</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">E</forename><surname>Langwig</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nature Communications</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="issue">166</biblScope>
+			<biblScope unit="page" from="1" to="9" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<monogr>
+		<title level="m" type="main">Lake States Forest Management Bat Habitat Conservation Plan</title>
+		<author>
+			<persName><surname>Icf</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2023">2023</date>
+			<pubPlace>Fairfax, VA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Energetics of pregnancy and lactation in freeranging little brown bats (Myotis lucifugus)</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Kurta</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">P</forename><surname>Bell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">A</forename><surname>Nagy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">H</forename><surname>Kunz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Physiological Zoology</title>
+		<imprint>
+			<biblScope unit="volume">62</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="804" to="818" />
+			<date type="published" when="1989">1989</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">A</forename><surname>Kurta</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2008">2008</date>
+			<biblScope unit="page">72</biblScope>
+			<pubPlace>Terre Haute, Indiana</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>Bats of Michigan. Indiana State University Center for North American Bat Research and Conservation</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Hibernating bats and abandoned mines in the Upper Peninsula of Michigan</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Kurta</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Smith</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Northeastern Naturalist</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="587" to="605" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Changes in population size and clustering behavior of hibernating bats in the Upper Peninsula of Michigan after arrival of white-nose syndrome</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Kurta</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Smith</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Northeastern Naturalist</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="763" to="772" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<monogr>
+		<title level="m" type="main">Michigan Department of Natural Resources [MDNR]. 2024. State Forest Management Plan. Michigan Department of Natural Resources</title>
+		<imprint>
+			<date type="published" when="1766">1766</date>
+			<pubPlace>Lansing, MI</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<monogr>
+		<title level="m" type="main">Michigan Natural Heritage Database</title>
+		<imprint>
+			<date type="published" when="2025">2025</date>
+			<publisher>Michigan Natural Features Inventory</publisher>
+			<pubPlace>Lansing, Michigan</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<monogr>
+		<title level="m">NASBR statement on wind energy impacts on bat populations</title>
+		<imprint>
+			<publisher>North American Society for Bat Research</publisher>
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Effects of disturbance on the energy expenditure of hibernating bats</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Speakman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">I</forename><surname>Webb</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">A</forename><surname>Racey</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Applied Ecology</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="1087" to="1104" />
+			<date type="published" when="1991">1991</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Hibernating bats are sensitive to nontactile human disturbance</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">W</forename><surname>Thomas</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Mammalogy</title>
+		<imprint>
+			<biblScope unit="volume">76</biblScope>
+			<biblScope unit="page" from="940" to="946" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Persist in place or shift in space? Evaluating the adaptive capacity of species to climate change</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">L</forename><surname>Thurman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Stein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Beever</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Foden</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Sr Geange</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Green</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Gross</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Lawrence</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Ledee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">M</forename><surname>Jd Olden</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Thompson</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Young</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Frontiers in Ecology and Evolution</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="issue">9</biblScope>
+			<biblScope unit="page" from="520" to="528" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>Unger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Kurta</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Status of the eastern pipistrelle</title>
+		<imprint>
+			<date type="published" when="1998">1998</date>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="page" from="423" to="437" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<monogr>
+		<title level="m" type="main">National White-Nose Syndrome Decontamination Protocol v06</title>
+		<ptr target="https://www.fs.usda.gov/sites/nfs/files/r06/giffordpinchot/publication/" />
+		<imprint>
+			<date type="published" when="2012">2012. 2012</date>
+			<publisher>United States Forest Service [USFS</publisher>
+		</imprint>
+		<respStmt>
+			<orgName>U.S. Department of Agriculture, U.S. Forest Service</orgName>
+		</respStmt>
+	</monogr>
+	<note>white%20nosed% 20syndrom%20decontamination.pdf</note>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<monogr>
+		<title level="m" type="main">Why are bats important?</title>
+		<idno>09/26/2025</idno>
+		<ptr target="https://www.usgs.gov/faqs/why-are-bats-important" />
+		<imprint>
+			<publisher>United States Geological Survey [USGS</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Temperature-dependent growth of Geomyces destructans, the fungus that causes bat white-nose syndrome</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Verant</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">G</forename><surname>Boyles</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Waldrep</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Wibbelt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">S</forename><surname>Blehert</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">PLoS One</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="issue">9</biblScope>
+			<biblScope unit="page">46280</biblScope>
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>
+

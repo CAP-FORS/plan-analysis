@@ -1,0 +1,5597 @@
+3 Nebraska Natural Legacy Project federal assistance to conserve species experiencing population declines, (even among species that have not met federal requirements for ESA listing), has not matched the urgency necessitated by the biodiversity crisis.
+In the mid-1990s, more than 6,000 organizations representing a diverse array of conservation organizations and wildlife enthusiasts created one of the largest grassroots coalitions in our nation's history, known as Teaming with Wildlife. This coalition demonstrated the importance and need for conservation funding to address the biodiversity crisis. In response, Congress established the Wildlife Conservation and Restoration program and the State Wildlife Grants program in 2001. To be eligible for funding, states developed State Wildlife Action Plans (SWAPs) containing eight required elements (listed below). These plans gave authority to the states to spend federal funding to conserve declining fish and wildlife species and aimed to provide voluntary and proactive conservation efforts to reverse their declines. While this was a necessary first measure in implementing these conservation actions, the roughly $65 million provided annually fell far short of the estimated $1.3 billion needed annually to successfully implement SWAPs. Efforts continue to be made to provide dedicated funding for the implementation of SWAPs; until those efforts are successful, states like Nebraska will continue to maximize the funding available and seek alternative funding sources to aid in implementing conservation actions.
+
+## Nebraska's State Wildlife Action Plan
+
+Nebraska's first SWAP was published in 2005. This edition became the foundation for all future Nebraska SWAPs. The goal was to create a guidance document that was scientifically based and supported. Additionally, rather than focus on an individual species approach, Nebraska took the perspective that prioritizing conservation efforts in key habitats (defined as Biologically Unique Landscapes; Chapter 4) would conserve the greatest diversity of species in the state. Because our state is more than 97% privately-owned, successful conservation cannot be accomplished on remaining public lands within state borders. Thus, working cooperatively and collaboratively with private landowners was integral to successful implementation of the plan. Since the SWAP is intended to be a guidance document and not a regulatory one, a primary focus during the drafting of the first plan was to gather the input and subsequent support from private landowners and landowner organizations. Listening sessions were hosted across the state to gather insight and perspectives from interested parties and create a plan with actions that landowners were invested in.
+The resulting document established the mission statement, guiding principles (defined at the beginning of this chapter), methodology (chapter 3), and overall format that has been retained through all three editions. It also established four goals:
+1 -Reverse the decline of at-risk species and avoid the need for state or federal listing as threatened or endangered: As mentioned above, this was the intent of the Wildlife Conservation and Restoration program, the State Wildlife Grants program, and SWAPs. Nebraska has identified these at-risk species as Species of Greatest Conservation Need (SGCN).
+4 Nebraska Natural Legacy Project 2 -Recover currently listed species and allow for their de-listing: While the main objective of the SWAP is to reverse the decline of at-risk species, those listed as state or federally threatened or endangered are the highest priority for conservation.
+3 -Keep common species common: At one point, many of the SGCN were common species in Nebraska. While the focus is on at-risk species, attention also should be placed on species that are currently common in the state and ensure they remain abundant.
+4 -Conserve natural communities: With more than 600 species identified in each edition of the SWAP, conserving one species at a time is not feasible. Thus, conserving the natural communities they occur in provides the greatest opportunity to maximize conservation efforts in the state.
+Because the first edition was developed on a foundation of gathering and incorporating feedback from partner organizations and the public, a proactive comprehensive review of the SWAP was initiated after five years to revisit the plan. The five-year comprehensive review used a similar process to the plan's initial development, and a second edition was published in 2011, which revised the SGCN and the Biologically Unique Landscape boundaries.
+Given the annual update of available data on abundance, distribution, and population trends of SGCN, a minor revision was completed in 2018 to update the list of SGCN. In this supplement, 51 species were added, and 84 species were removed. The decision to remove species included improved conservation status, presumed extirpation following 25 years with no documented occurrences, infrequent occurrence in the state, questionable taxonomy, and uncertainty of the species' origin 
+(i.e., introduced)
+.
+This third edition builds upon the success of the previous editions. In addition to updating the content within the plan and meeting the eight required elements (described below), the major additions to this edition were the inclusion of an aquatic conservation chapter and improving the relevancy of the plan. In previous editions, the focus has typically been placed on terrestrial systems; however, at-risk aquatic species conservation in recent years highlighted that aquatic systems, if conserved, could lead to the persistence or recovery of a large number of species. To improve the relevancy of the plan, this edition significantly enhances the actions and resources available for wildlife education and wildlife-related recreation. This addition should create new opportunities for a broader audience to access and use the SWAP.
+
+## Value of Conserving Nebraska's Natural Legacy
+
+Conservation of our natural world is vital for preserving Nebraska's natural heritage, supporting healthy ecosystems, sustaining agricultural practices, and fostering outdoor traditions. In a state where the economy is dependent on the land, it is easy to quantify the value of sustainable agricultural practices, and the revenue generated from hunting, fishing, wildlife viewing, and tourism. It can, however, be difficult to associate a monetary value of a healthy ecosystem or the state's biodiversity. Clean air, soil, and water are all staples of a functioning ecosystem and provide clear intrinsic values to our physical and mental health. Meanwhile, the health of these ecosystems is dependent upon the complex networks of relationships among Nebraska Natural Legacy Project plant and animal species. The removal of any one species creates a void with unknown effects to the system. That niche may be filled by another species, or it may start a cascading effect whereby other species begin to disappear from that system as well. Whether the benefits of a single species maybe realized, their disappearance may have unintended consequences resulting in complete ecosystem collapse.
+Over the past 20 years, SWAPs have served as blueprints for conserving at-risk species and habitats. However, in Nebraska, the plan has become so much more than that. The original authors of this plan recognized the unique opportunities this plan presented and used it as an opportunity to foster new partnerships and relationships in the name of at-risk species conservation. At the species level, this plan has recovered species like the North American River Otter, it has collected and incorporated valuable data on at-risk species for the Natural Heritage database, and it has been used as a means to bring awareness to the biodiversity crisis we are facing in our own state.
+Perhaps the most important success of this plan to date is how it has fostered a stewardship of the land focused on conserving at-risk species and habitats while also improving the quality of private working lands in our state. Our SWAP has showcased how conservation and agriculture do not have to be mutually exclusive for both to be successful. From the plan's development to its implementation, private landowners have been integral to the creation and adoption of wildlife-friendly farming and ranching practices that have allowed the state's biodiversity to persist and recover. Since 2005, over 500,000 acres of working lands have been directly affected by state wildlife grant dollars from prescribed burning and tree removal to the spraying of noxious weeds and deferred grazing. Going forward, we intend to continue using atrisk species funding to support landowners interested in adopting these practices.
+As a whole, Nebraska's SWAP has evolved beyond the conservation of at-risk species. Any single action will have minimal impacts to at-risk species recovery; however, the collective efforts through collaboration and investment by state and federal agencies, nongovernment organizations, Tribal Nations, private landowners, and the public have made this plan successful and can continue to make it a success. Our goal should be to leave behind a natural legacy that future generations can be proud of. As the first edition of our SWAP, it was fittingly renamed "the Nebraska Natural Legacy Project." It is now our responsibility to carry that natural legacy into the future.
+
+## Eight Required Elements of the State Wildlife Action Plan
+
+Congress identified eight required elements to be addressed in these wildlife conservation plans (see below). Further, the plan must identify and be focused on the "species in greatest need of conservation," yet address the "full array of wildlife" and wildlife-related issues. They must provide and make use of: Element 1. Species: Information on the distribution and abundance of species of wildlife, including low and declining populations as the State fish and wildlife agency deems appropriate, that are indicative of the diversity and health of the State's wildlife; and, Nebraska Natural Legacy Project Element 2. Habitats: Descriptions of locations and relative condition of key habitats and community types essential to conservation of species identified in (1); and, Element 3. Threats/stressors: Descriptions of problems that may adversely affect species identified in (1) or their habitats, and priority research and survey efforts needed to identify factors that may assist in restoration and improved conservation of these species and habitats; and, Element 4. Actions: Descriptions of conservation actions proposed to conserve the identified species and habitats and priorities for implementing such actions; and, Element 5. Monitoring: Proposed plans for monitoring species identified in (1) and their habitats, for monitoring the effectiveness of the conservation actions proposed in (4), and for adapting these conservation actions to respond appropriately to new information or changing conditions; and, Element 6. Review and revision: Descriptions of procedures to review the plan at intervals not to exceed ten years; and, Element 7. Partner involvement: Plans for coordinating the development, implementation, review, and revision of the plan with Federal, State, and local agencies and with Tribal Nations that manage significant land and water areas within the State or administer programs that significantly affect the conservation of identified species and habitats. Element 8. Public involvement: Congress also affirmed through legislation that broad public participation is an essential element of: (1) developing and implementing these plans, (2) the projects that are carried out while these plans are developed, and (3) the Species in Greatest Need of Conservation that Congress has indicated such programs and projects are intended to emphasize.
+Below, we provide a summary of how each of the eight elements was addressed in this third edition of the plan:
+Element 1 -Seven species expert work groups' meetings were completed in early 2025. Taxonomic experts from across the state (Appendix 1) were identified to review the lists of SGCN, which was last updated in 2018, to suggest species for considered addition. These work groups included birds, fish, reptiles and amphibians, invertebrates, mammals, mollusks, and plants. These suggestions were reviewed by the Science Team and approved by the Partnership Team. In total, 698 species were classified as SGCN; this includes 124 Tier 1 species and 574 Tier 2 species. Compared to the 2018 supplement, 58 species were removed and 5 were moved from a Tier list to the Species of Greatest Information Need list. Twenty-six species were added, including seven Tier 1 species and 17 Tier 2 species. See appendix 5 and 6 for the complete list of SGCN. See Chapter 3 for details on Tier 1 and Tier 2 designations. Nebraska Natural Legacy Project Element 2 -In the fall of 2024, a call for proposals was made to add, remove, or revise boundaries of our state's Biologically Unique Landscapes (BULs). Feedback on the proposals was provided by the Habitat Implementation Team to evaluate the ability to complete conservation actions in those areas; the Science Team then considered these comments along with their own feedback to determine whether proposals would be approved or rejected. Finally, the Partnership Team approved the recommendations from the Science Team. Of the ten proposals received, seven changes were approved. These included the creation of new Biologically Unique Landscapes (BULs): Running Water combined the former Lower Niobrara and Verdigris-Bazile BULs and added new areas, and Missouri River and Bluffs combined the former Missouri River BUL with the Indian Cave, Ponca, Rulo, and Thurston-Dakota Bluffs BULs and added new areas. Revisions also were made to the boundaries of the Elkhorn Confluence, Keya Paha, Middle Niobrara, and Willow Creek BULs. In addition, the entirety of the Nebraska Sandhills was recognized as a Biologically Unique Ecoregion. These changes added nine million acres to conservation priority. Priority Watersheds also were identified for conservation (Chapter 9). Priority watersheds were proposed using criteria suggested at an aquatic conservation workshop in February 2024 and selected by the Aquatics Team following feedback gathered from attendees of a separate workshop in early 2025. These recommendations were presented to the Science Team and approved by the Partnership Team. Twenty priority watersheds, consisting of 63 Hydrologic Unit Code (HUC) 10s and three HUC 12s, were identified to prioritize conservation of aquatic SGCN.
+Element 3 -Implementation input meetings were hosted at 11 locations 
+(Omaha, Lincoln, Norfolk, Ord, Valentine, North Platte, Kearney, Chadron, Scottsbluff, Beatrice and O'Neill)
+ across Nebraska between the fall of 2023 and spring of 2024 to review the existing threats and stressors to ecoregions and BULs. At these workshops, local conservation groups provided suggestions to update the language, remove irrelevant threats, and add novel threats. For new BULs and watersheds, proposals were encouraged to include threats, which were reviewed by the Habitat Implementation and Aquatic Teams, respectively. In the species expert work group meetings, taxonomic experts revised the threats to Tier 1 SGCN.
+Element 4 -The Core Team attempted to ensure actions for BULs and Priority Watersheds were identified to address each threat or stressor within that system. These actions were gathered from the implementation input meetings and watershed feedback surveys, respectively.
+Element 5 -The expansion of the fine-filter framework in this edition included a category that seeks to prioritize inventory and monitoring on species for which we lack data. The Species of Greatest Information Need (SGIN) designation was applied to 30 species across the taxa. Along with this designation, the information needed to remove the species from the list and therefore calculate a subnational rank is also listed (see Appendix 5). The SWAP continues to outline the need for species and natural communities' inventory and monitoring. This edition will use the populations of Nebraska Natural Legacy Project common species to help assess the effectiveness of conservation actions to inform conservation management in real time.
+Element 6 -The SWAP is intended to be a living and working document using the best science available; thus, it requires periodic review and revision. Within the next 10 years, a comprehensive review of the plan will be conducted. Retaining a similar process to the initial drafting of the plan, the two revisions, and the supplement, the incorporation of feedback and ideas from other conservation partners and members of the public will be integral to the successful development and revision of the plan. The Commission's Natural Heritage database will continue to be promoted and serve as a repository for information on at-risk species, habitats, and Biologically Unique Landscapes. As inventory and monitoring surveys and other research projects are completed, pertinent data will be integrated into the database.
+Element 7 -The involvement of partner organizations, through their feedback and expertise, helped make this SWAP revision possible. In addition to the Partnership Team, which helped promote participation in the revision process and review contents of the plan, representatives from partner organizations were members of the Aquatics, Habitat Implementation, Science, Wildlife Education, and Wildlife Recreation Teams, and participants in the implementation input meetings, the aquatic conservation workshop, the species expert work groups, and the wildlife education workshops.
+Element 8 -Public input meetings were hosted at 11 locations across the state in fall 2023 into early 2024. Presentations also were given at various events to share information about the SWAP revision process. In late July 2025, a draft of the third edition was made available for public comment and an informational meeting occurred in August 2025 to introduce the public to the third edition of the plan and the proposed changes. One primary objective of the 2026 edition was to improve the relevancy of the plan. Thus, feedback was gathered on wildlife education and wildlife-related recreation to significantly bolster these areas of the plan and allow for a larger contingency of Nebraskans to contribute to at-risk species conservation through the SWAP.
+
+## Partnership Team
+
+The Partnership Team includes representatives from federal and state agencies, nongovernmental organizations, and Indigenous Nations (see box). The team played a key role in developing guiding principles for the plan. Its responsibilities included ensuring the plan was effective and useful to a variety of entities, assisting with planning efforts and participating in input meetings, reviewing initial drafts of the plan, and providing guidance during plan implementation. The Partnership Team represents many of the entities and individuals that have been involved in implementing this blueprint. Nebraska Natural Legacy Project International Mountain Bicycling Association, Kearney Whitewater Association, Nebraska Horse Trails Committee, Northwest Nebraska Trails Association, West Point Trails Network, and Nebraska Natural Resources Districts. The team identified opportunities where nature-based recreation can strengthen people's connection to nature and build broader public support for wildlife conservation. Recognizing growing interest in diverse outdoor activities, the team emphasized sustainable recreation planning that balances access with conservation, ensuring long-term ecological health, and thriving outdoor experiences statewide.
+
+## Public Involvement
+
+The Partnership and Habitat Implementation Teams actively assisted with the public input process. These teams assisted in developing the structure of these meetings by determining what input would be valuable to gather, sponsoring or aiding in facilitating public meetings, and promoting the events to the public. These teams determined it would be best to carry on the tradition of hosting in-person meetings across the state representing each of the four ecoregions (Tallgrass Prairie, Mixed-grass Prairie, Sandhills, and Shortgrass Prairie). After evaluating the meeting locations for the previous editions of the plan, some locations were moved, and one additional location was added. These meetings were hosted during the fall of 2023 and early 2024 at 11 locations (Scottsbluff-October 11, Chadron-October 12, Omaha-October 17, Ord-October 19, Valentine-October 24, Lincoln-November 1, Beatrice-January 10, North Platte-January 17, O'Neill-January 23, and Norfolk-January 24, and Kearney-February 28).
+At these meetings, members of the public were introduced to the previous edition of the plan and learned about the process being used to revise it. Following the presentation, attendees were encouraged to share thoughts and feedback on the process or concerns regarding the current edition. Following the Q&A portion of the meeting, attendees were provided print conservation materials including the second edition of the plan and had the opportunity to meet and talk to local conservation practitioners from the Commission and other conservation organizations about the plan.
+In the summer of 2025, a complete draft of the third edition was made available for public comment on July 28 and an online meeting occurred on August 6 to introduce the changes made in this edition. Comments were received through August 15 and were used to finalize the third edition of the plan.
+
+## Conservation Practitioner Involvement
+
+Because this edition of the plan was a revision of the 2011 edition, the goal of the implementation input meetings was to review the existing information on strategies and stressors and update them accordingly. Corresponding with the public input meetings, 11 daylong workshops were hosted across the state in the fall of 2023 and early 2024 (Scottsbluff-October 11, Chadron-October 12, Omaha-October 17, Ord-October 19, Valentine-October 24, Nebraska Natural Legacy Project Lincoln-November 1, Beatrice-January 10, North Platte-January 17, Wood River-January 18, O'Neill-January 23, and Norfolk-January 24).
+
+## Map showing meeting locations for conservation professional input and public input
+
+At these meetings, conservation professionals were presented with the purpose of the Nebraska Natural Legacy Project, the process of the revision, and instructions for the workshop. The attendees were then broken into small groups to network and review the stressors to the ecoregions and the stressors to and actions within the Biologically Unique Landscapes relevant to the local area. For each stressor or action, the small groups were asked whether that topic was still applicable and whether any changes needed to be made. Once the stressors and actions were reviewed, participants had the opportunity to suggest any novel threats or stressors not identified in the previous edition of the plan. Across the 11 meetings, 192 individuals representing 44 organizations provided their expertise to inform the plan.
+At the conclusion of these meetings, an online survey was also distributed to gather feedback from those unable to attend the implementation input meetings, for those wanting to provide comments on areas that were not covered in the meeting they attended, or for those that had additional feedback following the workshop. The survey was completed by 30 people representing 18 organizations.
+
+## Aquatics Professionals
+
+The Aquatics Team developed questions to address aspects of the eight required elements of the Natural Legacy Project with regards to aquatic conservation. An in-person workshop was hosted in Aurora at the conclusion of the Nebraska Chapter of the American Fisheries Society meeting on February 14, 2024. This meeting was attended by 27 individuals representing six organizations. Questions ranged from criteria to consider when identifying priority watersheds to threats that aquatic systems are facing and actions to counteract those threats. After the meeting, an online survey was made available for those unable to attend the workshop or those who wanted to provide more feedback. In total, input was received from 51 aquatics experts representing 14 organizations.
+
+## Education Professionals
+
+To gather input on improving education and outreach, the Core Team hosted a workshop during the Nebraska Alliance for Conservation and Environmental Education (NACEE) conference at Ponca State Park on February 28, 2024; it was attended by 20 educators. The Fish and Wildlife Education Division also hosted five in-person workshops in the summer of 2024 to gather input for the plan revision (Gretna-two sessions-June 6, Scottsbluff-June 25, North Platte-June 26, and Hastings-June 28). These meetings were attended by 44 educators from across the state.
+
+## Species Expert Work Groups
+
+One-day workshops were conducted with experts on birds, fishes, mammals, insects, mollusks, reptiles/amphibians, and plants in Nebraska. The goals of the workshops were to review and revise the Natural Legacy Project list of at-risk species and gather information on Tier 1 at-risk species, including habitat requirements, stresses, research and inventory needs, and locations of populations not already in the Natural Heritage database. A wealth of information was gathered, much of which is included in Appendix 5. Information on locations of at-risk species was used to help select the Biologically Unique Landscapes (see Chapter 3). The meeting groups also assigned the SGIN designation to 30 species to highlight the need for more information on likely imperiled species. Nebraska Natural Legacy Project Chapter 3: Identifying Natural Communities, At-risk Species and Biologically Unique Landscapes
+
+## A Systematic Approach to Biological Diversity Conservation
+
+The task of conserving the biological diversity of Nebraska is daunting. Loss of habitat continues to occur, and the list of species that are declining and becoming at-risk is growing, while human and financial resources for conducting conservation work remain limited. Because of competing societal demands and limited funds, it is not feasible to conserve every tract of undeveloped land and certainly, in a given year, only a small fraction of the land may be conserved. While opportunistic or ad hoc approaches to conservation in the past have done good work, they do not appear to have stemmed the tide of species decline. Therefore, we need to improve the efficiency and effectiveness of conservation action by taking a more systematic approach to identifying and prioritizing what components of biological diversity we are trying to conserve and where in the state we should focus conservation efforts. (See 
+Margules and
+Pressey 2000, Groves 2003
+ for excellent overviews of systematic approaches to conservation planning).
+There are estimated to be more than 30,000 species in the state, the majority of which are insects. There is simply not enough time, personnel, knowledge, or money to work on all these species individually. Fortunately, these species do not occur randomly but co-occur in assemblages (natural communities or habitats) that are repeated across the landscape. The challenge is to focus on a subset of species and communities that will have a high likelihood of conserving the full array of biological diversity. One approach that has been used is known as the coarse filter/fine filter approach 
+(Noss 1987
+, Hunter 1991)
+. The coarse filter focuses at the scale of natural communities (habitats), both aquatic and terrestrial. Conserving and managing multiple, high-quality examples of each of the various community types in the state (e.g., types of prairies, wetlands, forests, etc.) should conserve viable populations of most species. For those species that fall through the pores in the coarse filter (primarily rare, imperiled, or wide-A Systematic Approach to Conservation • Identify which components of biological diversity to focus conservation actions on (e.g. species, natural communities) • Identify where to focus conservation actions o Select sites based on known occurrences of target species and natural communities o Select sites where there is a high probability that the target species and communities will persist over the long term o Select sites from across the range of distribution of the species or community to capture important variation • Set quantitative conservation goals so multiple populations of each target species and occurrences of each natural community are conserved Nebraska Natural Legacy Project ranging species), a species by species (fine filter) approach is needed. For this planning process, we identified a set of natural communities to use as the coarse filter and a set of at-risk species to use as the fine filter.
+While we want to increase conservation throughout the state, there is a need to focus scarce resources on areas that offer the best opportunities to conserve the full array of biological diversity and the best chances for success. To utilize the coarse filter/fine filter approach, we have selected as priorities those sites that have known occurrences of natural communities and populations of at-risk species. For many species that have low mobility or high site fidelity, it is important to conserve sites with known populations rather than sites with potential habitat for the species.
+To be most effective at conserving biological diversity, we need to focus on sites where there is the highest likelihood that populations and communities will persist over the long term. For individual species, this would include sites with a large population size, good age-class structure, and evidence of successful reproduction. For natural communities, this would include sites with a good representation of expected native species, few invasive exotics, and relatively intact ecological processes that maintain these communities (e.g., fire, grazing, flooding).
+Unfortunately, for some community types, such as saline or playa wetlands, few high-quality examples remain, and for other types, such as tallgrass prairie, no examples remain that are of a size similar to what historically would have been found here. In these cases, habitat restoration will play an important role in conservation.
+Another factor that affects viability is the landscape context within which the population or community exists. Species and communities do not occur in isolation but are part of a landscape mosaic. A number of species, particularly birds and mammals, utilize more than one habitat type during their life cycle and these habitats need to co-occur in close enough proximity to be useful. Species and communities are inextricably linked to the landscapes in which they occur and thus may not persist over the long term without adequate conservation of the larger system. Functional landscapes can be defined as those in which the mosaic of native community types is relatively intact and the ecological processes that sustain the species and communities
+
+## Example of the Coarse Filter/ Fine Filter Approach
+
+Conserving multiple examples of headwater streams should conserve most, but not all, of the species that occur in that habitat. The blacknose shiner is a rare, statelisted fish species that occurs in headwater streams in the northern portions of the Sandhills, Shortgrass Prairie, and Mixed-grass Prairie ecoregions in Nebraska. If one were to conserve 20 randomly selected, high-quality examples of headwater streams across this range, there is a high probability that none of them would contain blacknose shiner. Thus, to conserve this species we must focus on this species individually and conserve headwater streams that contain blacknose shiner populations. Nebraska Natural Legacy Project are still functioning or can be simulated through management 
+(Poiani et al. 2000)
+. We need to identify not only high-quality examples of at-risk species populations and natural communities but also those that are nested together and exist within functional landscapes. Seeking landscapes with clusters of at-risk species and high-quality communities also increases the efficiency of our conservation efforts.
+A strategic approach to conservation also needs to take into account the distribution of species and communities when selecting sites. Species vary genetically across their range of distribution. This variation may be important to the long-term survival of the species in the face of environmental change. In similar fashion, the species composition of individual community types can vary across the range of that type. For example, tallgrass prairie in the southeast portion of Nebraska can have a somewhat different assemblage of plants and animals than tallgrass prairie in the northeast part of the state. For the coarse filter to be effective, this variation needs to be captured in the planning process. While it is not practical to conduct detailed genetic analyses of all at-risk species or inventory all community types, a prudent alternative is to try and conserve examples of populations and communities from across their range.
+One of the most difficult questions facing conservation planners is: How much is enough? How many populations of a species or examples of a community do we need to conserve in order to ensure long-term survival? We know that conserving just one example is likely inadequate and that we need to conserve multiple, high-quality examples of each species and community type to provide redundancy and ensure persistence in the face of environmental and humaninduced change. In addition to identifying "how much," conservation goals should have a geographic component so that examples are selected from across the range of the species or communities. This will help capture the variation and ensure that "not all your eggs are in one basket."
+Although principles from genetics, conservation biology and ecology can offer guidance in setting quantitative conservation goals, our knowledge of the life history requirements of species and how ecosystems function is too incomplete to provide definitive answers. 
+Groves (2003)
+ suggests four reasons why it is important to set quantitative conservation goals, even with the uncertainties involved:
+1. Goals allow an evaluation of how effective a proposed system of conservation areas will be in representing the conservation targets. 2. Setting goals allows planners and managers to better understand and account for the trade-offs that often must be made in trying to sustain human communities and natural communities. 3. Goals will have a strong influence in determining the number of conservation areas that are needed. 4. Goals provide a vision for conservation success.
+For the Nebraska Natural Legacy Project (NNLP), we have set quantitative conservation goals using the best guidance currently available with the realization these goals are an approximation and will change as new knowledge becomes available. Our conservation goals Nebraska Natural Legacy Project were set for the number of populations of a given species to be conserved rather than an overall population size and for the number of occurrences of a given natural community type rather than an overall number of acres of that type. These goals facilitate a conservation strategy that focuses on sites with known occurrences of species populations and high-quality examples of natural communities.
+Another goal of the Nebraska Natural Legacy Project is to identify a set of priority landscapes and watersheds (see Chapter 9 for description of Priority Watersheds) that, if properly managed, would conserve the majority of Nebraska's biological diversity. These landscapes, which we call Biologically Unique Landscapes (BULs), were selected based on known occurrences of at-risk species and natural communities. In addition to at-risk species, these landscapes support a broad array of common species. In the case of one of our state's ecoregions, the BUL framework alone allowed some of the most connected and resilient lands to fall through the prioritization cracks. The Sandhills ecoregion is now being designated as a Biologically Unique Ecoregion (BUE; see below). The following sections describe the approach we used to identify the at-risk species, natural communities, BULs, and the Sandhills BUE.
+
+## Natural Communities: The Coarse Filter
+
+A variety of entities have been used as a coarse filter in conservation planning, including natural communities 
+(Anderson et al. 1999)
+, ecological systems 
+(Comer et al. 2003)
+, physical features, and landscapes. We have chosen to use natural communities as described in Natural Communities of Nebraska 
+(Rolfsmeier and Steinauer 2010)
+. Since the development of the initial Natural Legacy Project in 2005, the Natural Community classification has been revised. Appendix 7 includes the communities from the revised classification. The 84 terrestrial community types described here cover wetland and upland types (any habitat with rooted vegetation) and are part of the National Vegetation Classification system 
+(Grossman et al. 1998)
+, which is the standard classification used by federal agencies. Unfortunately, there currently is no statewide classification system for open water habitats (lakes, rivers, streams), and there is an urgent need for the development of such a system. Despite this, priority watersheds have been selected in an attempt to apply the coarse filter approach to conservation of the state's aquatic species in addition to its terrestrial diversity (see Chapter 9).
+We have chosen to use natural communities because of the fine scale of resolution of this system, which is effective at "capturing" the full array of species and ecological processes. For example, the upland hardwood forests along the Missouri River bluffs harbor an almost completely different suite of plants and animals than the shortgrass prairies in the panhandle, and both of these species assemblages would be distinct from the saline marshes in Lancaster County. To conserve the full array of species, we need to conserve examples of each of the community types.
+For natural communities to be an effective coarse filter in capturing biological diversity, we need to select examples of communities that contain as much of the representative habitat as possible and the full complement of species one would expect in that type. For example, a Nebraska Natural Legacy Project never-plowed prairie that is used as pasture and has been treated with a broadleaf herbicide will harbor far fewer species than a similar prairie that has not been so treated. Broadleaf species (forbs) typically make up 80-90% of the plant species diversity in a prairie, and numerous insects utilize those forbs. Therefore, the conservation of the pasture would be less effective at capturing biological diversity than conservation of the untreated prairie.
+Examples of communities selected for conservation should also be part of an intact landscape and have more ecological processes intact or be able to be simulated with management (e.g., fire, grazing). These examples have higher ecological integrity and are more likely to persist over the long term.
+The Nebraska Natural Heritage Program has been collecting and maintaining information on natural communities since 1987. Field surveys record not only the location of occurrences and species present but also rate the overall condition of the habitat. The Element Occurrence Ranking (EORanking) uses a four-level scale (A-D) to rank the habitat based on its size, condition and landscape context. For example, an "A" quality occurrence of a prairie would be of relatively large size, containing most of the native species one would expect in that prairie type and few invasive exotic species, and be surrounded by relatively intact landscape. Data from the Heritage database on the location and condition of natural communities were used in selecting the Biologically Unique Landscapes (see below) in the first and second editions of coarse filter framework.
+
+## Setting Conservation Goals
+
+Conservation goals for natural communities were set following the guidance in 
+Anderson et al. (1999)
+. Under these guidelines, the distribution of the community type in Nebraska relative to the rest of its range is a factor in setting goals. For example, a community type that occurs only in Nebraska (e.g., Sandhills fen, paper birch springbranch canyon forest) would have the highest quantitative goal since its conservation is entirely dependent on actions taken in Nebraska. Those community types whose distribution is mostly outside of Nebraska (peripheral) would have the lowest goals since they will be conserved primarily by actions that occur outside of the state.
+In addition to the distribution of the community, the patch type of the community was used in setting goals. Communities can be classified into three main types: matrix, large patch, and small patch. A few community types are dominant (matrix-forming) and historically covered thousands to millions of acres. In Nebraska, these would include the main prairie types (e.g., tallgrass, mixed-grass, sandsage). Most community types are patch types and nest within the matrix types, covering only a small portion of the landscape. Large patch communities may form extensive cover over some areas but usually their boundaries are correlated with a dominant local process such as hydrology, landform, soil-type, or fire pattern. These large patch types typically occur in patches of less than 1,000 acres. Examples in Nebraska include many of the forest and woodland communities. Small patch communities are even smaller and more restricted, requiring specific natural conditions. They typically occur in patches of 100 acres or less. Examples in Nebraska include many of the wetland and shrubland types. Nebraska Natural Legacy Project 
+Anderson et al. (1999)
+ noted that, as a general rule, conservation planners need to include more examples of patch communities to buffer against the higher probability of attrition over time because of environmental change. Patch communities are smaller in extent and multiple examples may be needed to add up to substantial area and viable populations for specialist component species. In addition, individual examples may be less likely to contain the full complement of component species than a large example of a matrix community and thus more examples are needed to capture the full complement of species.
+We developed the following criteria for setting goals for the number of occurrences of natural communities to conserve. Goals for each of the community types (e.g., tallgrass prairie) can be found in Appendix 7.
+
+## At-risk Species: The Fine Filter
+
+To prioritize which species to focus scarce resources on during the development of the first edition of the Nebraska Natural Legacy Project, the Science Team developed a two-tiered approach to identifying species that may be at-risk of extinction or extirpation from the state. The Tier 1 species are those that are globally or nationally at-risk. The Tier 2 list contains those species that are at-risk within Nebraska while apparently doing well in other parts of their range. The rationale for the two-tiered list was to focus attention and resources first on those species that may be headed for global extinction (and federal listing as Threatened or Endangered) and secondarily focus on those species that may be facing extirpation from Nebraska but appear to be stable globally. The Tier 1 list includes species that are currently state or federally listed as well as those that may be headed for listing. One goal of the Nebraska Natural Legacy Project is to prevent imperilment of species and the need for listing, Endemic/Restricted: communities that only occur within NE or generally have more than 90% of their range within the state.
+Limited: communities that occur primarily within one region (e.g., Great Plains).
+Widespread: communities that are common in a number of regions and widespread in NE.
+Peripheral: communities that are found mainly in other regions, generally less than 10% of the range is within NE. Endemic/Restricted: communities that only occur within NE or generally have more than 90% of their range within the state.
+
+## Goals for Natural
+
+Limited: communities that occur primarily within one region (e.g., Great Plains).
+Widespread: communities that are common in a number of regions and widespread in NE.
+Peripheral: communities that are found mainly in other regions, generally less than 10% of the range is within NE. Nebraska Natural Legacy Project and another goal is to recover currently listed species to allow for their de-listing. Additionally, a goal is to keep common species common, and the coarse filter (described in the previous section) should ensure this goal is met.
+Species were chosen from a variety of taxa including mammals, birds, reptiles, amphibians, fishes, mollusks, insects, and plants. We did not have adequate information to evaluate certain taxa (e.g., fungi, bryophytes), and only certain types of invertebrates (e.g., mollusks, some groups of insects) had adequate information to allow evaluation of their imperilment status.
+For the initial development of the Nebraska Natural Legacy Project in 2005, the Science Team developed criteria for selecting the Tier 1 and 2 species (see boxes below) and selected an initial set of species that fit the Tier 1 criteria. This list was sent to experts on the various taxa for review. These reviews were used to revise the list. Toward the end of the process to develop the Natural Legacy Project, we conducted a series of expert workshops (mammals, birds, reptiles, fish, insects), and the list was reviewed again and revised.
+For the 2011 revision, the Science Team reviewed and revised the selection criteria, and the taxa experts reviewed and revised the Tier 1 and Tier 2 lists in a series of workshops covering mammals, birds, reptiles, fish, insects, mollusks, and plants.
+In 2018, the Tier 1 and Tier 2 lists were reviewed and revised as part of a minor revision of the Natural Legacy Project. This revision process resembled the processes carried out in 2005 and 2011. Criteria for tier designation were kept the same, taxa experts were asked to suggest changes (additions, deletions, or tier shifts), workshops were held to review changes, and the Science and Partnership Teams reviewed the expert recommendations.
+For the third edition of the Natural Legacy Project, the fine filter revision process was similar to the previous editions. The Science Team reviewed the criteria for selecting Tier 1 and Tier 2 species and developed criteria for a new, third designation: Species of Greatest Information Need (SGIN). SGIN were species for which the experts could not answer the minimum number of ranking factor questions (see Appendix 5) to produce a subnational rank (S-Rank). Since all but one of the criteria for Tier 1 species are directly tied to S-Rank, this designation was devised to be used sparingly and only when accompanied by the ranking factor information that would allow for a more confident ranking in the next revision.
+Groups of taxa experts were assembled (see Appendix 1) and asked to suggest priorities for review. Since the process of using NatureServe's ranking calculator for a species can be time consuming, consensus among experts about which species to review prior to the daylong workshop meetings were achieved via email correspondence. In early 2025, daylong, hybrid (inperson and virtual attendance accommodated) meetings were hosted for bird, fish, insect, mammal, mollusk, plant, and herpetofauna experts. In total, more than 200 species were reviewed over the course of the seven meetings. While NatureServe's ranking calculator was used as the guiding framework to determine the level of imperilment, expert opinions during the workshops were used to make the final ranking determinations. Nebraska Natural Legacy Project
+
+## Criteria for Selecting Tier I At-risk Species
+
+Species were included in the Tier 1 list that met one or more of the following criteria:
+State-and Federally Listed Species: Species listed as Threatened or Endangered under the federal Endangered Species Act or the Nebraska Nongame and Endangered Species Conservation Act. Recovery and delisting of these species is a goal of the plan.
+Heritage-Ranked Species: Species ranked by NatureServe and the Natural Heritage Network as globally critically imperiled (G1), imperiled (G2) or vulnerable (G3). Or species ranked as either state critically imperiled (S1), imperiled (S2) or vulnerable (S3) in all or nearly all states in their range.
+Declining species: Species whose abundance and/or distribution has been declining across much of their entire range. For land birds, the Partners in Flight national watch list was used as a guide.
+Endemic Species (or nearly so): Species whose entire range of distribution occurs within or primarily within Nebraska. Conservation actions in Nebraska would be critical to the conservation of the species.
+Disjunct Species: Species whose populations in Nebraska are widely disjunct (200+ miles) from the species' main range of distribution. Such populations may contain genetic variations that could be important to the long-term survival of the species. Species must be ranked as critically imperiled (S1) or imperiled (S2) within Nebraska.
+
+## Criteria for Selecting Tier I At-risk Species
+
+Species were included in the Tier 1 list that met one or more of the following criteria:
+State-and Federally Listed Species: Species listed as Threatened or Endangered under the federal Endangered Species Act or the Nebraska Nongame and Endangered Species Conservation Act. Recovery and delisting of these species is a goal of the plan.
+Heritage-Ranked Species: Species ranked by NatureServe and the Natural Heritage Network as globally critically imperiled (G1), imperiled (G2) or vulnerable (G3). Or species ranked as either state critically imperiled (S1), imperiled (S2) or vulnerable (S3) in all or nearly all states in their range.
+Declining species: Species whose abundance and/or distribution has been declining across much of their entire range. For land birds, the Partners in Flight national watch list was used as a guide.
+Endemic Species (or nearly so): Species whose entire range of distribution occurs within or primarily within Nebraska. Conservation actions in Nebraska would be critical to the conservation of the species.
+Disjunct Species: Species whose populations in Nebraska are widely disjunct (200+ miles) from the species' main range of distribution. Such populations may contain genetic variations that could be important to the long-term survival of the species. Species must be ranked as critically imperiled (S1) or imperiled (S2) within Nebraska. One hundred and twenty-four species were identified as meeting the Tier 1 criteria; the list of Tier 1 species is found in Appendix 5. Each Tier 1 species profile includes information about its conservation status, range in Nebraska, stresses, inventory and research needs, and a list of the Biologically Unique Landscapes and additional Priority Watersheds where they are known to occur. We identified 574 species as meeting the Tier 2 criteria; the list is found in Appendix 6.
+
+## Criteria for Selecting
+
+During the development of the Nebraska Natural Legacy Project, the Heritage Subnational Ranks were reviewed and revised for amphibians, reptiles, mammals, fish, birds and a limited number of insects.
+We have identified 698 species in Nebraska as at-risk (i.e., having met Tier 1 or Tier 2 criteria). Because this list is far too extensive to address in a detailed manner in conservation planning, we will focus most of our effort on the Tier 1 species. These are the species for which we are setting quantitative goals and identifying sites important to the conservation of the species. Tier 2 species were also used in identifying Biologically Unique Landscapes but did not have specific goals set for them.
+The species expert work groups also identified 30 species across several taxa that are SGIN. For each species, the experts identified the information or data that needs to be collected to answer questions about the species vital to their conservation. While there are many species for which more information would aid in targeted conservation, the goal for this designation is to keep a manageable number of SGIN with data gaps that can be addressed within 10 years.
+The Tier 1, Tier 2, and SGIN species lists will be periodically reviewed and updated by taxon experts. As new information on abundance, distribution, and population trends becomes available, species will be added or removed from the lists. These lists were developed to help prioritize conservation planning/action and do not have legal or regulatory ramifications.
+
+## Setting Conservation Goals
+
+Population viability analyses (PVAs) have been used for setting conservation goals for a limited number of species. These analyses are a quantitative method used to predict the future status of a population or collection of populations. During conservation planning in Florida 
+(Cox et al 1994, Kautz and
+Cox 2001)
+, population viability analyses were conducted on 11 focal species (birds, reptiles, mammals). Their results suggested that an appropriate goal for all target species was to conserve a minimum of 10 populations. While detailed PVAs have been conducted for only a small number of species, the thought processes behind PVAs can be used in setting goals for other species. Using a simple equation 
+(Morris et al. 1999)
+, one can calculate the probability that all populations of a species will go extinct over a period of time given the probability of extinction of any given population. This model assumes that the fates of the individual populations are not correlated and that there is little movement among the populations.
+We set an initial goal of 10 populations as a minimum for conserving a species. Using the equation from 
+Morris et al. (1999)
+ and assuming moderate viability of each population (40% chance of survival over a 100-year period), conservation of 10 populations gave a greater than 99% probability of at least one population surviving over that time period. This goal was then Nebraska Natural Legacy Project modified based on the proportion of the species' total distribution that was contained within Nebraska. For species that were endemic to Nebraska (or found also within a limited range outside the state), the goal was set at 10. These are species whose long-term protection will depend primarily on conservation actions taken in Nebraska. The goals were then reduced as the proportion of the species range outside of the state increased (see box below for goals). These species will be conserved by actions in a number of states, not just action in Nebraska.
+Regardless of distribution patterns, we set a minimum goal of 10 populations for state-listed threatened and endangered species. This was to ensure the long-term survival of the species within Nebraska and enable delisting.
+Goals were also occasionally modified on a case-by-case basis. For example, the Ute ladies'tresses orchid (state and federally listed), after extensive surveys, has only two known populations in Nebraska. Populations of this species are sparsely distributed across its entire range, and it is likely that the current distribution in the state represents its pre-Euro-American settlement distribution. The goal for this species was set at two. Goals for all Tier 1 species are listed in Appendix 5. Limited: Species that occur primarily within one region (e.g., Great Plains).
+
+## Goals for
+
+Widespread: Species that are common in a number of regions and widespread in Nebraska.
+Peripheral: Species that are found mainly in other regions, generally less than 10% of the range is within Nebraska.
+Disjunct: Species whose populations in Nebraska are widely disjunct (200+ miles) from the species' main range of distribution.
+
+## Selecting Biologically Unique Landscapes
+
+The goal of this process was to identify a set of landscapes that offer some of the best opportunities for conserving the full array of biological diversity in Nebraska. This process began with the first edition of the Natural Legacy Project in 2005. Landscapes were selected Nebraska Natural Legacy Project based on known occurrences of natural communities and at-risk species and were selected to meet the goals we had set for each community type and Tier 1 species.
+While the Heritage Database represents the most comprehensive, statewide data on at-risk species and natural communities in the state, inventory work is far from complete in Nebraska.
+During initial development of the BUL framework, supplemental expert information was used to help delineate the landscapes. In addition to the above spatial data, conservation professionals developed a GIS layer in which the Commission's district field staff had delineated areas that contain relatively intact and high-quality habitat. They also conducted a series of workshops with species experts (bird, fish, insect, mammal, mollusk, plant, and herpetofauna).
+Participants in these workshops delineated areas in the state with high concentrations of at-risk species. In the case of the fish expert workshop, they also identified areas with high quality streams with a good overall diversity of species. And finally, they utilized the National Land Cover 
+Data (1993)
+ to help identify relatively intact landscapes.
+The additional layers were used to expand the boundaries of the landscapes so there were clusters of community and at-risk species occurrences within a relatively intact landscape.
+There was no prioritization among landscapes, each contains a somewhat different assemblage of communities and species, and therefore, each is needed to complete the conservation of Nebraska's biological diversity.
+
+## BUL Boundary Changes (2026)
+
+Since 2005, local biologists have focused their work in Biologically Unique Landscapes (BULs) and have collected more information about species and natural communities. The Science Team developed a set of criteria for evaluating proposed changes to the BUL system (see Appendix 11). A request for boundary change proposals was sent out to conservation practitioners who have been working in the BULs. The Science and Habitat Implementation Teams reviewed the initial proposals and made suggestions for changes to the proposals. This review process was facilitated with supplementary information from sources, such as the Midwest Landscape Initiative's Conservation Blueprint, The Nature Conservancy's Resilient Lands Mapping Tool, and USGS's Land Cover Dataset. The proposed boundaries were also laid over Heritage data to see if the changes would accommodate known habitats of at-risk species.
+The Science Team then reviewed the final proposals and made recommendations for each proposal to the Partnership Team for final approval.
+Two minor BUL boundary adjustments were approved: Keya Paha and Middle Niobrara. The minor changes were approved to match Hydrologic Unit Code (HUC) watershed boundaries and to eliminate previously omitted areas between these two bordering BULs.
+There were four major BUL boundary adjustments: Elkhorn Confluence, Missouri River and Bluffs, Running Water, and Willow Creek.
+Elkhorn Confluence -A portion near the city of Norfolk has been removed from the BUL as it has become increasingly industrialized and developed as home sites. A portion was added in the southeastern corner containing intact grasslands, riparian woodlands, and wetlands. Nebraska Natural Legacy Project
+Missouri River and Bluffs -This change resulted from the combination of the Missouri River, Rulo Bluffs, Indian Cave Bluffs, Thurston-Dakota Bluffs, and Ponca Bluffs BULs.
+Previously unincorporated oak woodlands throughout this corridor were added.
+Running Water -This change resulted from the combination of the Lower Niobrara River and the Verdigris-Bazile BULs. Additional land area includes areas of grasslands and oak woodlands.
+Willow Creek -An area was added with wet meadows and wetlands that provide habitat for several Tier 1 and 2 species.
+
+## Biologically Unique Ecoregion: A New Designation
+
+Throughout the previous two decades, the system of BULs has offered opportunities to work toward the conservation goals outlined in the Nebraska Natural Legacy Project. One shortcoming of the plan has been the lack of interconnection among the BULs within specific regions. While the BULs highlight the best habitats, the land between them is much more limited in conservation opportunities. However, they still play an important role in at-risk species recovery as the connection of populations presents opportunities for gene flow. This genetic diversity can make populations more resilient to changing conditions. If the long-term goal of the Nebraska Natural Legacy project is to restore populations of at-risk species and natural communities, then the long-term viability of these populations should be assessed.
+For the purposes of the Nebraska Natural Legacy Project, the Biologically Unique Ecoregion (BUE) will function as follows: an ecoregion that is largely intact and provides connectivity among BULs over a large geographic area. The stability and functionality of this ecoregion represents a continentally important area of biodiversity. It is unique on a continental scale in its resilience to habitat loss and fragmentation, and it contains multiple populations of at-risk species and natural communities. During Euro-American settlement, much of the tallgrass, mixed-grass, and shortgrass prairie ecoregions had been converted for agriculture and development; the Sandhills Biologically Unique Ecoregion, on the other hand, has remained largely intact due to the area's land-use practices and limited urban development. Among the four ecoregions, the Sandhills represented the only ecoregion warranting BUE designation (see Chapter 7 for more information).
+
+## Natural Legacy Demonstration Sites
+
+A set of demonstration sites was selected to represent examples of habitat conservation and outreach opportunities across the state that either demonstrate or have great potential to demonstrate the mission of the Nebraska Natural Legacy Project. In the third edition, prioritization was given to recognizing sites where ongoing conservation efforts were taking place or sites that occurred in BULs that did not previously have Demonstration Sites. The Nebraska Natural Legacy Project proposed sites were reviewed and selected by the Habitat Implementation Team. For more information on Natural Legacy Demonstration Sites, see Chapter 4. 
+
+## Chapter 4: Actions to Overcome Conservation Barriers
+
+During the planning phase of the Nebraska Natural Legacy Project (NNLP), conservation practitioners were asked to help identify new and review the current barriers that limit or preclude conservation, key stresses to species and habitats, and actions needed to overcome barriers and stresses to species and habitats. Barriers, stresses and actions were identified by (1) the public at input meetings conservation practitioners who participated in workshops, regional meetings, and online surveys, (2) species experts who attended a series of workshops, and (3) members of the public and conservation practitioners who provided comments during the review of the plan. Existing conservation plans were also reviewed and appropriate stresses, barriers and actions were incorporated into this plan.
+Conservation actions were reviewed by conservation professionals to ensure they were biologically sound, economically feasible and sensitive to private landowner needs. Although most input was gathered on an ecoregion basis and specific barriers, stresses and conservation actions have differing levels of importance in each of Nebraska's four ecoregions, most have statewide relevance. Therefore, issues were incorporated into a single chapter to reduce redundancy. Key barriers, stresses and actions in each ecoregion and Biologically Unique Landscape (BUL) are identified in ecoregion chapters.
+The Natural Legacy Project uses voluntary, incentive-based approaches to conservation. It does not evaluate existing state or federal regulatory programs that affect biological diversity (e.g., water-or air-quality regulatory programs, at-risk species protection laws). This strategy therefore does not provide recommendations for changes to regulatory programs that have been initiated already nor the need for additional such programs.
+Because 97% of the state is in private ownership (principally farms and ranches), conservation of the state's flora and fauna is largely dependent upon support and participation by private landowners. Extensive input helped ensure that proposed conservation actions were reasonable and practical. Economic feasibility should take into account the cost of conservation actions and direct impacts on local economies. Conservation actions should be evaluated considering costs and benefits for meeting conservation goals. With full implementation, the partnership and perspective of landowners is invaluable. Input from private landowners is sought continually throughout implementation.
+The stresses and actions identified in the following section, along with the at-risk species, communities, and priority landscapes identified in Chapters 5-8, comprise the nucleus of the conservation blueprint. Implementation of the conservation actions on a statewide level will help ensure that a significant number of opportunities for conservation of biological diversity in Nebraska are acted upon. Nebraska Natural Legacy Project
+
+## Continue to Advance Collaboration and Communication
+
+No single government agency or private organization has the authority, financial resources, or staff to assume the entire responsibility for conserving Nebraska's biological diversity. Effective implementation of a state wildlife action plan (SWAP) requires the cooperative efforts of governmental entities, private organizations and residents. Partnerships and cooperative arrangements can continue to be used to promote collaboration and communication. This approach should help reduce duplication, increase information sharing, establish and maintain trust, and promote more efficient allocation of resources to conservation priorities.
+Conservation partners involved in the Natural Legacy Project have worked through past issues, including lack of communication and collaboration that created tension and conflict at times. They have built a foundation of trust over the past 20 years that have set the stage for continued growth and development of conservation partnerships. There are still efforts underway to increase the availability of information about conservation opportunities and to make it easier for landowners and others to access that information.
+While it is still true many individuals who are interested in conservation programs may not be aware of conservation opportunities or know whom to contact, those that have been involved with implementation of the Natural Legacy Project have made great progress and should strive to continue to build upon that.
+Collaboration and communication are further strengthened through the Nebraska Natural Legacy Conference. This annual event brings together conservation and natural resource professionals, students, Master Naturalists, landowners, and others interested in conservation.
+The conference provides an opportunity to learn, exchange ideas, and hear about ongoing
+
+## Actions Needed to Overcome Barriers and Threats
+
+• Continue to advance collaboration and communication • Support existing and develop new regional conservation communities that include diverse representation from landowners, agencies, private organizations and others who participate in the exchange of ideas, networking, and collectively engage in problemsolving to address issues related to at-risk species management, public lands ownership and management, landowner confidentiality, private property rights, etc. Present Natural Legacy information at various community meetings. Work with local conservation partners' staff and landowners to conduct workshops, field tours and social events that promote communication, cooperation and the exchange of ideas. • Develop clear and concise sources of information about conservation programs and opportunities, stresses to biological diversity, and actions needed to conserve biological diversity. Make this information widely available in printed and online formats. • Regularly inform the public of proposed initiatives, management actions, policy changes, and conservation successes and failures through public meetings, workshops, field trips, one-on-one meetings, seminars, presentations at stakeholder meetings, media, and other effective venues. 
+
+## Increase Environmental Education
+
+Environmental Education (EE) is an essential tool for conservation. It helps people learn about the environment, gain new science knowledge, and develop skills to address environmental challenges (NAAEE 2024). For the Nebraska Natural Legacy Project to succeed, Nebraskans need to cultivate ecological literacy about the state's rich biological diversity and the threats it faces. As individuals spend time outdoors and participate in EE programming, they are apt to appreciate, understand, advocate, and take action to conserve biological diversity and maintain ecological integrity.
+An environmentally literate population has broad social, ecological, and economic benefits. These include informed decision-making, learning from the past to direct the future, improving physical and mental health, developing stewardship skills, fostering community connections, and creating appreciation for Nebraska's dynamic landscapes. EE includes various disciplines, such as environmental education, interpretation, science communication, conservation education, recreation, outdoor skills, cultural education, formal education, and historical education.
+However, several challenges hinder interaction with nature, such as urbanization, dependence on technology, limited access to outdoor spaces, fear of nature, and competition for unscheduled time. In education, additional hurdles include finite resources, evolving audience needs, limited administrative capacity, and a lack of inclusive spaces and programming. These challenges can be addressed through collaboration among organizations and the implementation of targeted strategies. The content of this section was developed and revised through a collaborative input process involving many people across Nebraska. The Education Team determined the seven areas of EE to focus on and incorporated the actions found in the previous Natural Legacy Project EE section. Input was gathered through digital surveys, in-person discussions, virtual meetings, and requests for comment to educators, administrators, natural resource professionals, and naturalist volunteers. A writing team drafted and revised the text for final public review. This collaborative engagement has raised awareness of the Natural Legacy Project, connected, and engaged educators, and resulted in a relevant guide for Nebraska's EE community.
+
+## Curriculum & Standards
+
+EE providers should work with school decision-makers (e.g., teachers, administrators, school boards, community college Board of Governors, and the Department of Education) to integrate environmental literacy and outdoor learning into school-based curricula and co-curricular activities at all levels. EE benefits students in core disciplines, helps educators meet key standards, and prepares students for further education or careers.
+• Work with the state Department of Education and Educational Service Units to include topics related to biological diversity, conservation, and environmental sustainability in state standards. • Develop a system to support teachers in implementing interdisciplinary EE programs during school hours. This includes developing storylines that run through units of study and approach standards through a lens of EE, creating digital and physical materials that highlight local ecosystems, and developing ways for teachers to access information about Nebraska Connections. • Provide pathways for educational programs to integrate field trips to local nature preserves, parks, and museums, enabling students to connect with nature and apply classroom knowledge to real-world environments. • Provide direction to help educators address complex topics like biodiversity loss. 
+
+## Training and Professional Learning
+
+Ongoing training is essential for educators and professionals to deepen their knowledge of local ecosystems and biological diversity, as well as to improve their ability to communicate these concepts effectively.
+• Work with universities and colleges to provide pre-service teachers with Nebraskaspecific science and EE before they graduate. 
+
+## Environmental Education Programming
+
+Offer a variety of inclusive and accessible EE programming that engages Nebraskans with the natural world while fostering a connection to biological diversity.
+• Expand opportunities for students and the public to explore Nebraska's ecosystems through field trips, tours, service learning, environmental festivals, and presentations. • Create and promote stewardship initiatives that empower people to improve their local environments.
+• Strengthen professional collaborations that support the delivery of EE programming.
+• Provide programming about land-use practices in urban, suburban, or rural settings that can positively affect biological diversity. • Collaborate with diverse community groups to design better programs that address specific interests and barriers to outdoor engagement. • Create guidelines for metrics to gather audience feedback and data to shape the future direction of EE programming and ensure it remains relevant and impactful.
+
+## Mass Communication
+
+Environmental education organizations should leverage mass communication to raise awareness and build public support for Nebraska's biological diversity.
+• Curate an EE media toolkit that includes best practices for communicating science, developing calls to action, addressing misconceptions, and celebrating conservation progress.
+• Use traditional media outlets (e.g., television, radio, print) and new media (e.g., social media, webinars, videos, podcasts) to reach diverse audiences. • Create engaging signage and exhibits at EE sites to communicate with visitors. Nebraska Natural Legacy Project
+• Provide educators and professionals with access to both print and online resources for teaching biological diversity and conservation.
+
+## Place-based Environmental Education
+
+Nature centers, parks, and other place-based EE providers play a crucial role in connecting people with the natural world. Access to outdoor spaces is essential for fostering a sense of place, leading to greater appreciation, understanding, and conservation efforts.
+• Continue to expand and support existing place-based EE sites across Nebraska.
+• Work to enhance or develop new outdoor spaces for place-based learning in areas where public access is limited, such as schools, parks, businesses, and community spaces.
+• Design, maintain, and update facilities to be environmentally sustainable, welcoming, and accessible to diverse audiences.
+
+## Resources: Materials, Programs & Grants
+
+Resources are vital for delivering high-quality EE. Nebraska-specific curricula, activity guides, kits, scholarships, and grant opportunities increase the capacity for EE by addressing barriers such as time, transportation, and access to materials.
+• Support funding and grant opportunities that enhance existing EE programs or launch new initiatives. • Provide financial assistance to cover transportation and admission costs for educational field trips for educators and childcare providers. • Create public transportation options to improve access to nature for all Nebraskans.
+• Develop and promote Nebraska-specific educational resources, including kits, trunks, and videos. 
+
+## Community Science
+
+Community science -where members of the public actively participate in research -can be a valuable tool for both education and conservation. These programs help people develop scientific skills, foster a connection to nature, and contribute data for conservation research.
+• Offer community science projects and programs that support the goals of the Natural Legacy Project. Nebraska Natural Legacy Project
+• Support a network of conservation-minded volunteers to assist community science initiatives. • Provide learning opportunities through community science initiatives accessible to people of various ages, abilities, backgrounds, time constraints, and locations. • Help Nebraska educators incorporate community science into their lessons, activities, and programming. • Collaborate with networks and organizations across Nebraska to promote community science opportunities.
+All Nebraskans benefit from the outcomes of EE as do the plants and animals that are a focus of the Natural Legacy Project. Environmental Education helps people understand the environment, develop the skills to address ecological challenges, and take action to conserve natural resources. Collaborative efforts among stakeholders and the strategic use of resources will enable EE providers to meet these challenges effectively.
+The EE community in Nebraska should celebrate past successes while continuously evaluating its efforts and adapting to future needs. Together, government agencies, nonprofits, schools, and community organizations provide the knowledge, inspiration, and action necessary to conserve Nebraska's natural ecosystems for generations to come.
+
+## Improve Conservation Programs and Incentives
+
+Most conservation practitioners and many private landowners can attest to the large number and complexity of conservation programs. In some cases, landowners with an interest in conservation often have to sort through a lot of paperwork and long lists of options in order to enroll in conservation programs. This can be overwhelming for landowners at times, especially as they try to weigh decisions related to conservation and business decisions. While there will always be multiple programs across agencies and organizations, better collaboration and information-sharing between agencies and organizations is needed to make the process more landowner-friendly.
+The demand for technical advice and financial assistance by landowners to do conservation work continues to grow and, in some areas, outpaces our collective ability to meet demand. Resources need to be increased and efficiency of conservation delivery needs to be improved to meet the demand. Some landowners simply need technical guidance provided from a best management practice guide, while others need direct assistance through one-on-one consultation by a wildlife biologist. Many landowners also require financial incentives to help with the feasibility of land management such as cost-share for implementing habitat improvements, infrastructure to change management, or direct payments to set aside habitat or to enroll in conservation easements.
+To be effective, resource professionals providing technical and financial assistance must have a familiarity and understanding of conservation programs offered by their entity, and by other conservation agencies/organizations. Although different resource professionals are unlikely to give identical advice to a landowner, it's important that management recommendations are Nebraska Natural Legacy Project based on the best available science and information. Landowners may become frustrated and lose confidence in the conservation community when resource professionals fail to communicate with each other or provide contradictory advice. When possible, conservation agencies and organizations should strive for consistency to maximize biological diversity conservation throughout the state.
+Conservation programs and financial incentives need to be voluntary, uncomplicated, flexible, and to the extent possible make economic sense in order for them to be acceptable and appealing to landowners. Conservation programs should not be overly rigid or take away decision-making authority of the landowners, and they should allow for adaptive management. While many landowners are willing to incur some financial loss to improve overall landscape condition, increase wildlife populations, and increase recreational opportunities, their bottom line should always be taken into consideration by resource professionals.
+Local economics play a significant role in conservation program participation. This includes property taxes, which are a significant barrier to conservation program participation. One issue is that changes in land use or policies that result in lower property taxes are often not desirable because the revenues available for schools and roads are reduced. Another issue is that many landowners, including recreational landowners, typically need their property to generate at least sufficient income to offset property taxes. This leads many landowners to seek management alternatives that provide fewer benefits for "at-risk" species. Additionally, in recent years, the value of high-quality wildlife recreation lands has risen at a higher rate than other lands, causing property values and associated property taxes to increase on lands managed for wildlife habitat.
+
+## Actions Needed to Improve Conservation Programs and Incentives
+
+• Seek private landowner and multi-organizational input when developing conservation incentive programs to 1) help ensure they are landowner-friendly (voluntary, incentivebased, adaptable, economically feasible, confidential, etc.), 2) support the missions of a broad array of conservation organizations, and 3) effectively conserve biological diversity. When possible, model new programs after successful programs used elsewhere and keep the overall process relatively simplified. 
+
+## Facilitate Species and Ecosystem Adaptation and Resiliency to Environmental Changes
+
+Some species distributions and abundance are shifting in response to changing environmental conditions. These shifts may alter fundamental interactions with other species and the physical environment, which could lead to a cascade of impacts throughout ecosystems. Managing for resilient populations and ensuring ecological connectivity will be essential for conserving biodiversity in the coming decades.
+Documented effects of a changing environment include: shifts in species distributions, changes in phenology of species, and decoupling of co-evolved interactions. In addition, these changes are expected to alter ecological processes such as fire regimes and hydrology, and exacerbate a number of existing stressors, such as habitat loss and fragmentation, pollution, and the spread of invasive species, pests, and pathogens.
+One way that species have historically responded to major environmental shifts, such as those following the last ice age, has been to shift their distribution to higher elevations or latitudes. Similar range shifts are already occurring and are expected to continue. However, these shifts are now complicated by significant habitat fragmentation and barriers to movement, as well as the accelerated pace of environmental change. Unlike in the past, species today are migrating at different rates and along different routes, rather than as intact natural communities. Thus, we are likely to see natural communities disaggregate, depending on intrinsic response rates, and reconfigure in potentially novel combinations, upslope or further north.
+Phenology refers to the timing of annual and seasonal natural events, particularly those related to the life cycles of plants, animals, and other organisms. Changing environmental conditions can shift phenology, disrupting important ecological relationships. Earlier onset of spring, for instance, has altered the timing of breeding, hibernation, migration, and insect emergence, sometimes decoupling interdependent species like pollinators and their host plants. Because species do not respond uniformly to environmental shifts, each may exhibit distinct changes in distribution or phenology. These mismatches can result in local extirpations and broader disruptions to ecosystem functions and services. This individualistic response may be one of the greatest challenges for many wildlife species, which might otherwise be able to adapt by shifting their ranges. For further discussion on how habitat fragmentation intensifies these challenges, see the Habitat Fragmentation section below. Additionally, potential effects of shifting environmental conditions on fire, hydrology, habitat fragmentation, pollution, and invasive species are discussed in subsequent sections of this chapter.
+Given uncertainties in how species and communities will interact with other ecological stressors, the Natural Legacy Project emphasizes broad, flexible strategies designed to provide conservation benefits under a range of future conditions. These approaches will be refined as new information becomes available. Nebraska Natural Legacy Project
+
+## Adaptation Strategies to Increase Species Resilience
+
+• Reduce the impacts of stressors: Addressing existing stressors like invasive species, pests, pathogens, pollution, and habitat loss, degradation, and fragmentation remains a low-risk and effective resiliency strategy. These stressors are often amplified by changing environmental conditions and can limit the ability of the species or ecosystems to remain resilient. • Restore and maintain ecological processes and ecosystem function: Natural systems are dependent on a variety of ecological processes including disturbance and hydrologic regimes (e.g., fire, flooding), energy and nutrient flows, and species dispersal. Past human alteration of these ecological processes has been a stressor on natural systems.
+Restoration and maintenance of these processes can increase the resiliency of a system.
+Restoring and maintaining biological diversity can also increase the ecological resilience of ecosystems, and thus increase their adaptive capacity.
+• Protect and maintain a network of conservation areas: Increase the extent and quality of protected terrestrial and aquatic habitats. This supports species movement and dispersal under changing environmental conditions. See Habitat Fragmentation section for additional corridor considerations. • Restore and maintain habitat and landscape connectivity: Conservation planning must prioritize connectivity to enable species relocation. For specific actions to reduce habitat fragmentation and enhance movement corridors, refer to the Habitat Fragmentation section.
+• Enhance understanding of environmental shifts and ecological responses: Uncertainty remains about how species and ecosystems will respond to ongoing environmental shifts. Improving our understanding of these dynamics is essential for developing effective conservation strategies. Filling these knowledge gaps through vulnerability assessments, monitoring, experiments, and modeling is important for improving conservation effectiveness.
+• Utilize an adaptive management approach in implementing adaptation strategies: Any strategy for conserving species and ecosystems should be implemented within an adaptive management framework. This allows managers to learn from outcomes and adjust tactics in response to new information and changing conditions.
+
+## Promote Biodiversity-Compatible Land Management
+
+Nebraska's 48,000 farms and ranches cover nearly 46 million acres (93% of the state's total land area) making landowners some of the primary stewards of Nebraska's biological diversity. Management of these lands directly impacts individual species, natural communities, and larger ecosystem processes, such as hydrology, stream quality, and nutrient cycling. According to the 2004 Nebraska Annual Social Indicators Survey (NASIS), over 90% of Nebraskans felt that farmers and ranchers should have a major or moderate role in conserving "at-risk" species in the state 
+(Bureau of Sociological Research, 2004)
+. To meet this public expectation, the state's private landowners and conservation organizations need to work together and share responsibility for conserving biological diversity. Nebraska Natural Legacy Project
+Nebraska has nearly 1,600 square miles of public conservation lands, including national wildlife refuges (NWRs), national forests, national monuments, state parks, and wildlife management areas (WMAs). These areas play a critical role in conserving habitat that supports our biological diversity. Expanding management activities for natural communities can increase the benefits for the full array of native species. For example, more public lands could be enhanced for native plants by using tools like prescribed fire and grazing practices, such as intense spring grazing, to better manage native prairies. Public opinion supports these ideas. According to the 2004 NASIS survey, 90% of Nebraskans feel that improving management on existing public lands is very or moderately important for reversing the decline of at-risk species 
+(Bureau of Sociological Research, 2004
+).
+Nebraska's urban and rural residents also want to take part in conserving the state's native flora and fauna. Biological diversity cannot be conserved solely on public lands. To be effective, conservation efforts should combine improved management on current public lands, protection of some additional lands through acquisition or conservation programs, and voluntary, incentive-based actions on private lands.
+Over the past 150 years, land use and management practices have significantly altered Nebraska's biological landscape and the natural processes that sustain the plants and animals. Prior to settlement, the primary forces shaping prairies, woodlands, and wetlands were climate (e.g., droughts, floods), fire, and grazing. Today, additional factors including human-made changes to hydrology, invasive species, habitat fragmentation, and pollution directly affect species and disrupt ecological processes, leading to habitat degradation.
+Conservationists identified six key stresses that affect biodiversity in Nebraska:
+• Altered natural fire frequency 
+
+## Fire Management Systems
+
+Prior to European settlement, fires likely occurred every one to five years in eastern Nebraska and every 10 to 20 years in the western part of the state. Suppression of fire has had negative impacts on native prairies, woodlands, and wetlands, and currently less than one percent of these communities are burned annually. Fire suppression has led to the rapid spread of eastern red-cedars and other woody species in prairies and woodlands, leading to habitat fragmentation, the shading out of native plants, and reduced forage for livestock. The use of prescribed fire can help reverse these negative effects. Areas with tall, dense trees, may require mechanical thinning prior to prescribed burning to reduce fuel loads and prevent standreplacement fires. Prescribed fire can also be used in combination with livestock grazing to enhance prairies and wetlands. Nebraska Natural Legacy Project
+In the past few decades, the wildfire season has lengthened, and the number of acres burned has significantly increased. In the Great Plains, the total acreage burned by large wildfires increased by 400% from 1985 to 2014. In addition, the average number of large wildfire events in the region rose significantly, from approximately 33 per year between 1985 and 1994 to nearly 117 per year from 2005 to 2014 
+(Donovan et al., 2017)
+. In Nebraska, an increase in wildfires will likely have a major impact on ponderosa pine woodlands in the Pine Ridge and Wildcat Hills, where years of fire suppression have increased fuel loads. Before settlement, wildfires in these areas were mostly low-intensity ground fires burning through open pine woodlands. Today, they are often high-intensity crown fires that have devastating, long-term impacts to these woodlands. Fire suppression has also reduced the frequency of fire in native grasslands, and prescribed fire would also benefit these systems.
+Although more Nebraska landowners are showing interest in prescribed fire, many lack the capacity (e.g., equipment, trained burn crews) or expertise to safely implement fire. Conservationists also face a shortage of resources needed to implement prescribed fires at the necessary scale. Many private landowners are hesitant to burn because of liability concerns. However, several efforts are in place to increase awareness and use of prescribed fire in Nebraska, including the Prescribed Burn Task Force, prescribed burn associations, and the Great Plains Fire Learning Network, which hold workshops and demonstration burns for private landowners. Significant progress has been made in education, outreach, and landowner adoption of prescribed fire. In some regions, interest has outpaced the ability to meet the demand for both training and equipment.
+
+## Actions Related to Prescribed Fire
+
+• Continue to promote the safe use of prescribed fire for grassland, woodland and wetland enhancement through public outreach. Conduct demonstration burns as a means to further the understanding and acceptance of burning. • Continue to increase the capacity of private landowners to burn by providing technical and financial assistance, equipment, fire-training workshops and how-to guides. • Identify and continue to work toward overcoming barriers that limit the ability to conduct prescribed burning on private and public lands. • Continue to develop and refine a prescribed fire implementation guide for enhancement of natural communities for biodiversity as well as production. • For select grasslands, evaluate the use of patch-burn grazing and other grazing systems that combine the interaction of fire and grazing to mimic pre-settlement disturbances. • Promote the practice of pre-and post-burn evaluations to minimize impacts to species that lack the ability to re-colonize a site following a burn. • Continue to promote and support the establishment of prescribed burn associations and cooperatives composed of local landowners, agencies and other partners. Identify opportunities to strengthen and expand existing landowner-led burn cooperatives. • In western Nebraska, promote the use of tree thinning and prescribed fire to reduce the damage to pine woodlands from intense wildfires. Haying and mowing can serve as alternatives to grazing and provide benefits to plant communities and species. These practices help control woody encroachment and thatch accumulation, but they lack some benefits of grazing such as selective herbivory, soil disturbance from hoof action, and nutrient cycling through animal waste. Continual annual haying, however, can reduce plant composition and structural diversity.
+
+## Actions Related to Grazing/Haying
+
+• Promote and support the use of diverse grazing/haying systems on private and public lands that enhance biological diversity and natural communities. Initiate research to evaluate the effectiveness and profitability of biological diversity-friendly grazing/haying systems, such as intense spring or winter grazing. • Promote and support the development of locally-based grazing cooperatives and incentive programs that facilitate grazing of playa wetlands, small and disjunct prairies and other sites with minimal grazing income potential or limited grazing infrastructure. • Promote and incentivize the utilization of annual forage crops on cropland near existing rangelands to facilitate rest of rangelands, with or without prescribed fire afterwards. Nebraska Natural Legacy Project
+• Promote haying methods on wet meadows and prairies that diversify the timing and height of haying, promote increased plant and animal diversity, and avoid peak nesting periods for grassland birds. • Promote the use and availability of local-ecotype seed for prairie restoration and grassland inter-seeding. • Promote livestock grazing/haying systems that have built-in drought management contingencies (e.g., grass banking). • Promote legislation and programs that help reduce the conversion of grasslands to cropland.
+
+## Altered Hydrology
+
+The Sandhills Biologically Unique Ecoregion stands out as containing some of the most unaltered rivers and streams remaining in the Great Plains. These aquatic systems are critical to Nebraska's biodiversity. Nearly half of the state's Tier 1 at-risk species depend on wetland or riverine habitats. Historically, Nebraska had approximately 3 million acres of wetlands and nearly 24,000 miles of rivers and streams. Unfortunately, 35% of these wetlands have been lost, including nearly 90% of some playas, saline wetlands, and wet meadows (LaGrange, 2022).
+Many rivers and streams have also been significantly modified due to reduced flows and channelization. Thus, continued conservation and restoration of the state's wetlands, rivers, and streams are critically important for sustaining biological diversity.
+Wetland loss has largely resulted from practices, such as tiling and field leveling, which eliminate natural pooling areas. This has drastically reduced habitat for many resident wildlife including amphibians and migratory species, such as shorebirds and waterfowl resulting in severe overcrowding for spring migrating waterbirds. The lack of management or disturbance of existing wetlands has led to the spread of invasive species, which are outcompeting native vegetation and further diminishing biodiversity. Although past governmental programs facilitated wetland drainage, a shift in public attitudes in the 1970's have spurred greater interest in wetland conservation by agencies, landowners, and communities.
+Although, droughts are a natural phenomenon in the Great Plains, prolonged dry periods can intensify competition and conflicts over limited water resources. Healthy wildlife and plant communities are well adapted to withstanding long periods of drought, but biological diversity is threatened as rivers and streams reach or exceed full appropriations. Water diversions from streams and rivers during droughts can greatly reduce the deep-water habitat available to fish and can raise water temperatures, increasing the risk of mortality for fish and aquatic invertebrates. Groundwater pumping for irrigation, municipal, and other uses lowers water table levels that would otherwise sustain grassland plants through hot and dry periods. Additionally, dams and other barriers on rivers and streams restrict fish and wildlife movements, leaving large expanses of potential habitat uninhabited or suppressing gene flow among populations.
+Beyond these local pressures, broader shifts in hydrological patterns across the region are expected to influence water availability and flow timing. Prolonged droughts, increased evapotranspiration rates, and more frequent heavy precipitation events are expected to persist, Nebraska Natural Legacy Project potentially leading to reduced base flows and more intense flooding events. In the Rocky Mountains, more winter precipitation is falling as rain rather than snow, reducing the overall snowpack. Coupled with an earlier onset of spring, this results in premature snowmelt. These changes affect the timing and amount of Platte River flows, and the species and habitats that depend on them, particularly in late summer.
+Nebraska's rivers have undergone substantial changes over the past two centuries. Historically, the state's largest rivers experienced large fluctuations in flows, particularly in the spring when snowmelt and spring rains scoured sandbars and moved sediment, creating treeless expanses favored by migratory birds and other species. Today, earlier snowmelt in winter has reduced the occurrence of traditional spring pulse flows. At the same time, direct diversion of surface flows and pumping from alluvial wells for irrigation and municipal uses have substantially reduced the base flows in many rivers, caused others to dry up completely, and impacted native aquatic and terrestrial communities.
+As public awareness of the value of wetlands and natural flowing rivers has changed, efforts to restore these important habitats on both private and public lands have increased. Across the state, hundreds of wetlands have been voluntarily restored and countless other restoration projects are planned in the future. The ability of landowners to use wetlands for grazing and hay production after restoration helps meet landowner needs for income and maintains some level of disturbance that promotes wetland health. We need to protect floodplains from development and allow the rivers to naturally migrate their pathways. Naturally meandering rivers and streams play a vital role in shaping diverse and dynamic habitats, while intact floodplains help absorb floodwaters, filter pollutants, and provide critical refuge for wildlife.
+Maintaining or closely simulating the natural hydrograph of rivers and streams is essential for sustaining the biological diversity of aquatic and riparian ecosystems.
+The conservation of Nebraska's streams, rivers, and their associated aquatic habitats will require hard work, compromise, and a shared vision for conserving Nebraska's biological diversity and sustaining an agricultural economy. Much is to be gained by conserving both, but change will be necessary. It is recognized that in some instances in the state, irrigation may augment habitat. Pools of water are generated in areas that would otherwise be dry. These water sources can be useful to wildlife. Innovative solutions are required to ensure there is enough water to meet the needs of people and wildlife and that effective measures are taken to maintain water quality.
+
+## Actions Related to Hydrology
+
+• Seek to maintain or restore the natural hydrology of rivers, streams, and wetlands to sustain biological diversity and ecosystem function. Accomplish this through the use of voluntary incentives, sound bio-engineering solutions, and through collaborative decision-making. Unfortunately, the vast majority of our native plant communities are now composed of a mix of native and non-native species. Non-native grasses such as smooth brome, Kentucky bluegrass and cheatgrass flourish under annual-mid-summer haying and long-term heavy grazing. Noxious weeds, such as Canada thistle and sericea lespedeza, impact both the biodiversity and production of grazing lands, and control efforts are often expensive. According to the Nebraska Invasive Species Council (NISC), each year, more than $2 million is spent on monitoring, mapping, managing, surveying, and controlling terrestrial and aquatic invasive species in Nebraska (NISC 2024 Annual Report). Non-native wetland species, such as common reed and Nebraska Natural Legacy Project saltcedar, impact the hydrology of wetlands, streams, and rivers through increased water consumption, severely reducing water flow and supply for Nebraska and its neighboring states.
+Introduced, non-native animal species are also impacting Nebraska's biological diversity. In streams, the western mosquitofish, for example, competes with and often excludes the native plains topminnow. Common carp can alter bottom substrates and impact water quality of lakes and streams, and in larger rivers, the filter-feeding silver carp can disrupt food chains. House sparrows and European starlings compete with native cavity nesting birds for nest sites. Additionally, free-ranging domestic cats pose a major ecological threat, killing an estimated 2.4 billion birds and 12.3 billion mammals annually in the U.S. Beyond direct predation, cats also affect wildlife through competition, disease transmission, behavioral changes, and broader ecological disruptions, making them the leading human-caused threat to native birds and a major contributor to biodiversity loss 
+(Schweitzer & Gillin, 2020)
+. Lastly, the highly aggressive zebra mussel threatens the state's native mollusks.
+Less is known about the impact of many pathogens or disease-causing agents on wildlife; however, the impact of some pathogens have been well-documented. Both avian cholera and Highly Pathogenic Avian Influenza have resulted in large die-offs of waterfowl during migrations, West Nile virus has caused mortality in more than 150 species, including humans. Chronic Wasting Disease can have population-level impacts on native ungulates, including deer and elk. Additional resources are needed to determine the impacts of disease-causing agents and other pathogens on biological diversity, and proactive solutions need to be identified and implemented.
+In all likelihood, invasive plant and animal species, as well as pathogens, will continue to spread and increase in abundance. This increase in invasive species will only amplify the stress of our native flora and fauna.
+
+## Actions Needed to Reduce the Impacts of Invasive Species and Pathogens
+
+• Support existing cooperatives and organizations, such as the Nebraska Invasive Species Council, that strive to gather and distribute information about the spread of all known invasive species and share the best methods of control. • Develop and implement early detection and rapid response programs for invasive species, pests, and pathogens. • Discourage the use of non-native species in prairie and other restoration efforts, while promoting the use of local-ecotype seed. • Promote and fund the removal of invasive fish, such as invasive carp, from lakes and streams with a goal to improve water quality, aquatic vegetation, and overall biological diversity.
+• Promote the use of only native plants within the horticulture and forage plant industries.
+• Promote the use of only native species in fish stocking programs.
+• Develop best management guides and other educational materials to reduce the inadvertent transport of invasive species, pests, and pathogens. Nebraska Natural Legacy Project
+• Collaborate with natural resource organizations and others to develop a list of preferred native plants (e.g., trees, shrubs, grasses, wildflowers) to be used in urban and rural plantings.
+• Develop best management guidelines for herbicides and biocontrol methods that are used to control invasive species to lessen the impacts to biological diversity. • Provide public outreach that highlights the ecological impacts of free-ranging domestic cats, including their role in the decline of native bird and mammal populations, and encourage responsible pet ownership practices such as keeping cats indoors or in enclosed outdoor spaces.
+• Investigate the factors leading to the spread of invasive species, diseases, and other pathogens and their impacts on biological diversity. • Develop and implement protocols to better monitor, assess impacts, respond to, and manage invasive species and pathogens in Nebraska.
+
+## Habitat Fragmentation
+
+Large-scale habitat fragmentation has occurred across most of Nebraska, with the Sandhills being a notable exception. The main drivers of this fragmentation include the conversion of grassland to crop fields and rural and urban development. Infrastructure, such as roads, dams, cellphone towers, energy development (e.g., wind turbines), and fences, also impacts wildlife by altering habitat use, disrupting movement, or increasing mortality (e.g., birds and bats colliding with wind turbines). Fragmentation can also increase the spread of non-native species, disrupt ecological processes and predator-prey relationships.
+Nebraska, the Arbor Day State, has a long and proud history of tree planting, with millions of trees planted as windbreaks, wildlife habitat, and in urban settings. However, the planting and spread of trees, such as eastern red-cedar has caused extensive fragmentation of native grasslands.
+Large-scale energy development continues to expand in the state. Unfortunately, energy development comes with environmental costs. Proper placement of energy development is needed to prevent further habitat fragmentation. For example, turbines should not be placed near wetlands, rivers, or riparian corridors, as they pose a risk to migrating songbirds and waterbirds, including the endangered whooping crane. The energy development guidelines, by the Nebraska Game and Parks Commission and its partners, include detailed recommendations for siting infrastructure in ways that minimize harm to native plant communities and wildlife.
+Many wildlife species' ranges are shifting as habitats are altered or lost. However, such shifts are only possible if appropriate habitat is available. For less mobile species, habitat fragmentation limits their ability to relocate. Conservationists need to be aware of this lack of connectivity and strategic planning and investment will be necessary to overcome it.
+One approach to offset the impacts of habitat fragmentation is to identify, restore, and conserve migration corridors. Identifying corridors can be challenging, as species do not always move in Nebraska Natural Legacy Project straight lines. Current models are limited in their ability to predict where suitable habitat conditions will exist in the future. Additionally, restoring and conserving habitat corridors in highly fragmented areas, such as the tallgrass prairie ecoregion, will be both expensive and politically challenging.
+
+## Actions Needed to Reduce Habitat Fragmentation
+
+• Provide incentives to private landowners to maintain natural habitats and to cooperatively manage large blocks of habitat that reduce fragmentation and conserve biological diversity. • Collaborate with planning commissions, county commissions, and building associations to site new housing units in a manner that limit fragmentation of native plant communities.
+• Use prairie, woodland and wetland restoration to reduce fragmentation and create migration corridors. • Discourage the placement of woody plantings and food plots in prairies.
+• Select sites for cellphone towers, wind turbines, dams, fences and other semipermanent structures that minimize landscape fragmentation. Preferred sites are cropland or near towns, cities or industrialized areas that make use of existing access roads and utility corridors. • Collaborate with transportation planners (e.g., Nebraska Department of Roads, Federal Highway Administration) to minimize impacts to at-risk species and their habitats. • Create bypasses around dams, road culverts and other structures that impede the movement of fish and other aquatic animals. • Work with energy companies building infrastructure to establish and sustain wildlifefriendly habitat corridors within their properties and easement areas.
+
+## Pollution
+
+Water pollution, both point and nonpoint source, includes toxic chemicals, sediment, nutrients, and human and animal waste, all of which stress biological diversity, particularly aquatic species. Pollutants can directly harm species, such as when toxic chemical spills kill fish, or they can disrupt natural communities and ecosystem functions, like fertilizer runoff from fields causing lake eutrophication. Additionally, the bioaccumulation of toxic substances can impact food chains and food webs, reducing the recreational value of our lakes and streams.
+Nebraska has more than 1,500 streams that flow over 16,000 miles, as well as 553 lakes and reservoirs covering more than 148,000 acres. 
+
+## Actions Needed to Reduce the Impacts of Pollution
+
+• Promote integrated pest management (e.g., nonchemical controls such as biocontrol and tillage, spot spraying) through outreach and incentives to minimize impacts to biological diversity. • Exchange information between conservationists, landowners, regulatory agencies and the public regarding the sources and impacts of pollution on wildlife. • Implement and seek funding for filter strips, grassed waterways, sediment control basins, and grassed buffers to minimize the effects of fertilizers and pesticides on wetlands, streams, rivers and reservoirs. • Install and implement conservation buffers, conservation tillage practices, etc., in watersheds in areas that maximize benefits to biological diversity. • Promote management practices that reduce nutrients, sedimentation, bacteria and pesticides to enhance quality, such manure application on crop fields, sediment control on construction sites, incentives for organic farming and low-chemical farming. • Promote the location of power plants, factories, animal-feeding operations, homes and other pollution sources in areas that will have minimal impact on river, stream, and wetland water quality. When optimal siting is not feasible, promote waste containment facilities.
+
+## Focus Conservation on the Best Opportunities
+
+Conserving Nebraska's biological diversity is a significant undertaking, particularly given the limited resources available. Past conservation efforts have often been opportunistic and may not have represented the most effective use of these limited resources. For example, using scarce funds to protect a lower-quality tallgrass prairie with less diversity could preclude the protection of a higher-quality prairie with greater diversity. A more systematic and focused approach is needed to identify and prioritize the conservation of biological diversity in our state.
+Multiple objectives can often be achieved using a habitat-based approach to conservation that benefits multiple species. Often, the most effective strategy is to conserve species-rich native plant communities in relatively intact landscapes. If the goal is to target specific species, sites should be chosen based on high viability (i.e., large population size, appropriate age class, successful reproduction, and few threats). For native plant communities, sites should feature a high percentage and diversity of native species, few non-native species, and the ability to implement ecological processes like fire and grazing. These sites will be more resilient.
+The development of the Nebraska Natural Legacy Project utilized a systematic approach to identify at-risk species, ecological communities, and Biologically Unique Landscapes (BULs; see Nebraska Natural Legacy Project
+Chapter 3). This effort was based on the best available data and represents a statewide, strategic approach to conserving biological diversity. Through adaptive management, conservationists continue to refine our wildlife conservation priorities and actions. We hope these efforts will help identify conservation targets and focal areas, ensuring the best use of our limited resources.
+
+## Actions Needed to Focus Conservation on the Best Opportunities
+
+• Conduct inventories of at-risk species and plant communities to identify additional BULs, or modify existing BUL boundaries, and to prioritize areas within BULs for conservation efforts.
+• Provide information to conservation planners and practitioners to help focus conservation actions. • Ensure that high-quality occurrences of all terrestrial and aquatic community types and viable populations of at-risk species are placed under long-term protection and management.
+
+## Maintain and Expand the Network of Public and Private Conservation Lands
+
+The continued loss and degradation of natural habitats undermine efforts to conserve biological diversity in the state. Nebraska's ranches, farms, and private and public conservation lands provide the foundation for a support system for the state's flora and fauna. Almost all existing habitat in Nebraska is under the stewardship of private landowners, and this will continue.
+Maintaining and improving existing habitat on working farms and ranches is key to conserving biological diversity and offers the greatest hope for success. There is also a need for some lands to be put under long-term protection and managed specifically for biological diversity. A network of conservation lands is needed that includes a combination of protected working private lands and public and private conservation areas managed for the purpose of perpetuating biological diversity.
+Habitat loss is the primary cause of species decline. Most of the state's natural communities, with the exception of those found in the Sandhills and a few other areas, have undergone extensive losses. Some, like the tallgrass prairie have been reduced to less than 2% of their original extent. While it is possible to restore cropland and other altered lands, reestablishing the full complement of biological diversity is often impractical and prohibitively expensive. To be able to conserve the full array of biological diversity, we need to conserve existing natural habitats that are still in relatively good condition. John Weaver the acclaimed prairie ecologist noted:
+"Prairie is much more than land covered with grass. It is slowly evolved, highly complex, and centuries old. Once destroyed, it can never be replaced by man."
+An important way to ensure that species, habitats, and ecosystem processes are maintained over time is to devote some portion of the landscape to those specific purposes. This can be Nebraska Natural Legacy Project done by expanding the network of lands that have long-term protection from conversion/ degradation and to manage these lands principally for biological diversity. This network of conservation lands does not have to be limited to those owned by government agencies or conservation organizations. Private lands with conservation easements, long-term leases or management agreements could also be included. Length of conservation easements and longterm management should be carefully considered. Collaboration with private landowners adjacent to lands under long-term protection can enlarge or buffer these lands resulting in larger blocks of habitat. These lands do not need to be managed to the exclusion of human uses. The key lies in the emphasis on biological diversity values, not as a collateral or subsidiary benefit, but as a primary goal for managing the land.
+Consideration of sites with greater habitat and topographic diversity will allow species to move locally to find suitable conditions if the current habitat changes. In addition, the more heterogeneous and complex a site, the more microhabitats are likely present that can meet requirements for a wide range of species. Selecting sites within intact landscapes will also facilitate species movement. A network of conservation areas should include representation of all habitat and community types as well as ample replication.
+New approaches to land conservation that take into account the dynamic nature of the environment will likely be needed. One approach that is being discussed is to protect a network of conservation "stages," nature reserves that capture the geophysical diversity (topography, soils, geology) of a region. Conserving a full spectrum of different geophysical settings, stratified across elevation zones and latitudes, may offer an approach to conservation that protects biological diversity for years to come. Instead of aiming to maintain a particular species composition, the conservation of ecosystems defined by geophysical settings puts more emphasis on accommodating dynamic processes, maintaining ecological function and building adaptive capacity. These approaches allow for species distributions to shift, and for novel communities to form, while still conserving the maximum biodiversity. This approach would conserve the ecological "stage" rather than the temporary "actors." This approach would need to be a combined strategy to ensure that the actors are able to move between stages.
+In some cases, voluntary acquisition of land by public agencies or private conservation organizations is an appropriate conservation alternative. With less than 3% of the state in public conservation lands, Nebraska has one of the lowest percentages of public land in the country. A large proportion of the state's public land is in the Sandhills and the northwestern corner of the state, leaving many natural communities underrepresented or not included at all as public trust lands. Acquisition of underrepresented natural communities from willing sellers by private or public conservation groups would help ensure the long-term conservation of biological diversity.
+In addition, 25% of the Tier 1 at-risk species have no documented occurrences on public lands and therefore are not ensured long-term habitat protection. A number of these species may have habitat management requirements that are not conducive to achieving an economic return. Thus, public or private conservation ownership may be the most practical way to maintain some species. To be acceptable to the public, these acquisitions should ensure that payments are made in lieu of property taxes to maintain the local tax base. Public lands have the additional benefits of meeting recreational, educational, research and other societal needs. Nebraska Natural Legacy Project
+There is also a need to improve management on existing public and private conservation lands so that the needs of a greater array of species can be met. Public land managers and private conservation groups often lack the financial and human resources to adequately manage their lands for biological diversity. Demands on managers' time to control invasive species and administer public use often leave little additional time to restore or manage natural communities. Insufficient capacity to monitor and evaluate management activities and a lack of information about species habitat requirements and management alternatives serve as barriers to improved conservation land management. These issues need to be addressed so that public and private conservation lands can more fully contribute to the conservation of our natural heritage.
+
+## Actions Needed to Improve the Network of Public and Private Conservation Lands
+
+• Identify and secure long-term protection for unique or high-quality natural communities through actions such as conservation programs, land exchanges, voluntary acquisition, or conservation buyer programs. 
+
+## Demonstrate Success
+
+Components of at-risk species conservation include demonstrating successful habitat management and sharing this story with the public. Engaging local communities is a necessary component of establishing the Nebraska Natural Legacy Project statewide as a guide for conservation. When local communities are engaged in local conservation initiatives, there is greater understanding of at-risk species conservation, willingness to participate in conservation actions, and greater collaboration among landowners and conservation practitioners. This sets the stage for collaborative habitat improvement projects that cross ownership boundaries.
+One way to demonstrate success and engage local individuals is through demonstration sites.
+There are many conservation projects and lands across Nebraska that offer improved wildlife habitat. Natural Legacy Demonstration Sites should capture Nebraska's representative habitat types and management that is currently fostering the mission of the Natural Legacy Project. Demonstration sites need to provide habitat for at-risk species and the support necessary for Nebraska Natural Legacy Project sustainable management. Demonstration sites should be open for the public to view conservation projects and results and learn more about a site's unique qualities, importance to at-risk species, and management practices that sustain biological diversity.
+
+## Actions Needed to Demonstrate Success
+
+• Establish Natural Legacy Demonstration Sites across Nebraska.
+• Advertise Natural Legacy Demonstration Sites and hold regular meetings to discuss management and at-risk species conservation. • Support conservation management actions at these locations.
+• Develop informational materials branded with the Nebraska Natural Legacy Project suitable for each location.
+The following sites have been selected as Nebraska Natural Legacy Demonstration Sites based on their locations across the state and potential for public demonstrations (see page 29).
+
+## Natural Legacy Demonstration Sites:
+
+1. Oglala National Grasslands 
+
+## Strengthen Connections to Nature through Nature-based Recreation
+
+Nature-based recreation includes outdoor activities in natural settings that directly involve elements of nature, such as wildlife viewing, fishing, hunting, hiking, kayaking, and mountain biking. By providing people with opportunities to engage with natural resources, nature-based recreation can create a more personal connection to wildlife and habitats. This cultivates an appreciation and support for conservation of natural resources.
+As the demand for nature-based recreation continues to rise, it's essential to offer sustainable opportunities that strengthen public connections to nature while aligning with long-term conservation goals. According to the 2022 National Survey of Fishing, Hunting, and Wildlife-Associated Recreation of people 16 years or older in the U.S., 39.9 million people fished, 14.4 million hunted, and 148.3 million (57% of the U.S. population age 16+) engaged in wildlife watching. Birdwatching was the most popular form, with 96 million birders (U.S. Fish and Wildlife Service, 2023, 2024).
+As interests expand beyond hunting and fishing, it's important to explore and support diverse recreation opportunities. Doing so builds stronger connections with nature across a broader audience, fostering more conservation support. According to the Sustainability in Parks and Recreation report, 93% of U.S. adults agree that conservation is an essential role of parks and recreation 
+(National Recreation and Park Association, 2023)
+. Recreationists also have the potential to support conservation through financial contributions and volunteer activities such as litter clean-ups. A national survey found that many wildlife viewers are willing to financially support state agencies if the funds are used for conserving preferred species, habitats, or improving wildlife viewing experiences 
+(Sinkular et al., 2022)
+. This highlights an opportunity to develop additional ways for recreationists to contribute to conservation efforts.
+
+## Nebraska's Opportunities
+
+Nebraska, with its varied landscapes and wildlife, offers abundant nature-based recreational opportunities. A survey of Nebraskans revealed 88.5% thought outdoor recreation was moderately to very important for their quality of life. Popular activities included using trails (99%), walking outdoors (91%), birding/wildlife viewing (54%), and hiking (53%; Bureau of Sociological Research, 2024). From the Missouri River in the east to the pine forests of the west and the wetlands and prairies in between, Nebraska boasts a rich variety of natural areas with diverse recreational opportunities. Nebraska Natural Legacy Project
+
+## Balancing Recreation and Conservation
+
+Without sustainable wildlife populations and intact natural communities, opportunities for nature-based recreation will be severely limited. Nature-based recreation can serve as a strong incentive for conserving biological diversity, but it must be managed carefully to prevent negative impacts. Poorly planned or over-crowded recreational activities can degrade natural systems, causing erosion, compacting soil, disturbing wildlife, and spreading invasive species.
+As the demand for recreation opportunities continues to grow, it's important that recreation development considers the social carrying capacity of natural areas and maintains a balance between access and protection to ensure people have quality experiences in nature.
+Invasive species also remain a growing concern. They can reduce biodiversity, impact recreational experiences, and be spread unintentionally by visitors. Educational campaigns like "Clean, Drain, Dry Your Watercraft" and "Look Before You Leave" aim to prevent the spread of species like zebra mussels and Eurasian watermilfoil. Expanding such outreach efforts is key to conserving recreation areas and natural ecosystems.
+
+## Strategic Planning and Partnerships
+
+To promote sustainable recreation while conserving natural resources, innovative strategies and planning are necessary. Nebraska's Statewide Comprehensive Outdoor Recreation Plan (SCORP) helps guide recreation development tailored to regional needs in private and public spaces like local or state parks, WMAs and other protected areas. Many state parks, WMAs, and other natural areas already offer a balance of recreation and conservation. Yet awareness of these areas and the recreational opportunities they offer remains a barrier. Over 40% of Nebraskans said that lack of information limited their outdoor participation (Bureau of Sociological Research, 2024). This aligns with a national survey that found wildlife viewers want more information about where to go observe wildlife 
+(Sinkular et al., 2022)
+. Online tools like the Game and Parks online maps and the Nebraska Birding Guide website highlight recreational opportunities across the state. These resources make it easier for the public to find and enjoy outdoor activities. Expanding the marketing of these current resources and developing new resources would help further connect people with nature. Partnerships with business and tourism sectors are also essential. Involving more individuals with nature-based recreation knowledge can help inform community leaders, promote opportunities, and strengthen the region's conservation and recreation economy.
+Creating more recreation opportunities, like multi-use trails, in urban areas may help curb the perceived crowding felt by more than a third of Nebraskans in the Omaha and Lincoln metro areas (Bureau of Sociological Research, 2024).
+Creating more recreation opportunities, like multi-use trails, in urban areas may help curb the perceived crowding felt by more than a third of Nebraskans in the Omaha and Lincoln metro areas (Bureau of Sociological Research, 2024).
+Creating more recreation opportunities, like multi-use trails, in urban areas may help curb the perceived crowding felt by more than a third of Nebraskans in the Omaha and Lincoln metro areas (Bureau of Sociological Research, 2024).
+Creating more recreation opportunities, like multi-use trails, in urban areas may help curb the perceived crowding felt by more than a third of Nebraskans in the Omaha and Lincoln metro areas (Bureau of Sociological Research, 2024).
+Creating more recreation opportunities, like multi-use trails, in urban areas may help curb the perceived crowding felt by more than a third of Nebraskans in the Omaha and Lincoln metro areas 
+(Bureau of Sociological Research, 2024)
+.
+Creating more recreation opportunities, like multi-use trails, in urban areas may help curb the perceived crowding felt by more than a third of Nebraskans in the Omaha and Lincoln metro areas (Bureau of Sociological Research, 2024).
+Creating more recreation opportunities, like multi-use trails, in urban areas may help curb the perceived crowding felt by more than a third of Nebraskans in the Omaha and Lincoln metro areas 
+(Bureau of Sociological Research, 2024)
+.
+Creating more recreation opportunities, like multi-use trails, in urban areas may help curb the perceived crowding felt by more than a third of Nebraskans in the Omaha and Lincoln metro areas 
+(Bureau of Sociological Research, 2024)
+.
+Creating more recreation opportunities, like multi-use trails, in urban areas may help curb the perceived crowding felt by more than a third of Nebraskans in the Omaha and Lincoln metro areas 
+(Bureau of Sociological Research, 2024)
+.
+Creating more recreation opportunities, like multi-use trails, in urban areas may help curb the perceived crowding felt by more than a third of Nebraskans in the Omaha and Lincoln metro areas (Bureau of Sociological Research, 2024).
+Closures of portions of a beach for nesting piping plovers can intensify crowding in the remaining open portions of the beach. Setting a max capacity to limit crowding on the beach can not only reduce crowding and disturbance to the nesting plovers, but also improve attitudes toward the species 
+(Jorgensen and Brown, 2016)
+.
+Closures of portions of a beach for nesting piping plovers can intensify crowding in the remaining open portions of the beach. Setting a max capacity to limit crowding on the beach can not only reduce crowding and disturbance to the nesting plovers, but also improve attitudes toward the species 
+(Jorgensen and Brown, 2016)
+.
+Closures of portions of a beach for nesting piping plovers can intensify crowding in the remaining open portions of the beach. Setting a max capacity to limit crowding on the beach can not only reduce crowding and disturbance to the nesting plovers, but also improve attitudes toward the species 
+(Jorgensen and Brown, 2016)
+.
+Closures of portions of a beach for nesting piping plovers can intensify crowding in the remaining open portions of the beach. Setting a max capacity to limit crowding on the beach can not only reduce crowding and disturbance to the nesting plovers, but also improve attitudes toward the species 
+(Jorgensen and Brown, 2016)
+.
+Closures of portions of a beach for nesting piping plovers can intensify crowding in the remaining open portions of the beach. Setting a max capacity to limit crowding on the beach can not only reduce crowding and disturbance to the nesting plovers, but also improve attitudes toward the species 
+(Jorgensen and Brown, 2016)
+.
+Closures of portions of a beach for nesting piping plovers can intensify crowding in the remaining open portions of the beach. Setting a max capacity to limit crowding on the beach can not only reduce crowding and disturbance to the nesting plovers, but also improve attitudes toward the species (Jorgensen and 59 Nebraska Natural Legacy Project
+
+## Economic Impact
+
+Beyond its ecological and cultural value, nature-based recreation offers significant economic benefits through trip-related and equipment expenditures, which supports jobs, and contributes to local, state and national tax revenue. In 2022, nature-based recreationists in the U.S. spent approximately $394.8 billion on expenditures related to these activities, with wildlife watching alone accounting for $250.2 billion in expenditures (U.S. Fish and Wildlife Service, 2023). In Nebraska, nature-based recreation contributed $4 billion to the economy in 2024, supporting local communities and jobs 
+(Nebraska Game and Parks Commission, 2024)
+. For rural communities in particular, wildlife viewing and other nature-based activities can provide a crucial economic boost by attracting visitors and generating spending in local businesses.
+Providing sustainable, well-managed nature-based recreation opportunities offers ecological, social, and economic benefits. When people enjoy wildlife and natural areas, they become more invested in conserving those resources. This nurtures a conservation-minded public that supports conservation efforts and boosts outdoor recreation economies.
+As nature-based recreation continues to grow, thoughtful planning is key to maintaining healthy ecosystems while expanding access to enriching outdoor experiences. With careful management, nature-based recreation can inspire lifelong connections to nature and help ensure the support of Nebraska's Natural Legacy for generations to come.
+
+## Recommended Actions to Provide Quality Nature-based Recreation
+
+Resources and Programs: Promoting and offering tools, outreach opportunities, and trainings can help build meaningful connections to nature while encouraging responsible recreation.
+• Promote resources and opportunities (e.g., recreation grants) that assist communities with sponsorship of nature-based recreation programs and events. Collaboration and Partnerships: Strong partnerships with a variety of stakeholders, such as public agencies, nonprofits, community groups, and recreation professionals, are essential to expanding and enhancing nature-based recreation while supporting conservation and community goals.
+• Collaborate with partners to develop, enhance, publicize, and increase accessibility of nature-based recreation opportunities (e.g., trail amenities, wildlife-viewing opportunities).
+• Provide resources and support to help communities develop new and connect existing green spaces that meet conservation, economic, and nature-based recreation goals (e.g., SCORP and Natural Playscape Guide found on the website (outdoorneraska.gov > community resources).
+• Collaborate with partners to develop and support urban nature-based recreation programs and multilingual resources to introduce diverse audiences to recreational opportunities in their neighborhoods and the wildlife habitats found within their communities (e.g., Urban Wetlands video teaching about wetlands close to communities). • Develop partnerships with landowners to increase access and opportunities for a variety of nature-based recreation opportunities on private lands and look into opportunities for compensation.
+• Foster partnerships with naturalist and recreation groups to enhance positive engagement and increase the capacity to inform and improve policies related to the conservation of at-risk species and their habitats.
+Recreation Management: Thoughtful recreation management and careful planning ensures outdoor activities are compatible with conservation priorities.
+• Increase assessments of potential impacts recreation use has on at-risk species and their habitats.
+• Use collaborative planning to develop and enhance infrastructure to meet demands and guide recreationists to appropriate places to minimize impacts on key habitats, wildlife, and rare plants.
+• Use a balanced approach when designing spaces that are suitable for habitat and recreation. Nebraska Natural Legacy Project
+
+## Chapter 5: Tallgrass Prairie Ecoregion Introduction
+
+Early European explorers described the tallgrass prairie, which stretched from eastern Nebraska to Indiana and from Texas to southern Canada, as "a sea of grass." The Tallgrass Prairie Ecoregion covers the eastern quarter of the state, but tallgrass prairie itself extends westward into central Nebraska along stream valleys, such as the Republican, Platte, Loup, and Niobrara rivers. Tallgrass prairie is one of our nation's most endangered ecosystems. In our state, roughly two percent of the original tallgrass prairie remains, mostly as smaller hay meadows and pastures.
+During the last few million years, glaciers, wind, and water shaped the topography of Nebraska's tallgrass landscape. Today, the land surface is mostly rolling hills intersected by stream valleys. Elevation ranges from 850 feet above sea level in the far southeastern Nebraska to about 1,700 feet at the western edge of the ecoregion. Receding glaciers left evidence of their presence through till deposits and hilly moraines. After the glaciers receded, windblown loess was deposited over the till in much of the region. Water erosion later cut loess into hills and valleys. Mainly loess and till parent materials, combined with organic matter accumulation from the deep-rooted prairies grasses, form the fertile soils that typify eastern Nebraska. Nebraska Natural Legacy Project
+The ecoregion receives 25 to 36 inches of annual precipitation, significantly more than other ecoregions in the state. About 75% of this precipitation falls between April and September, with May and June being the wettest months. Near Omaha, average winter high temperatures are in the mid-30s Fahrenheit, while average lows are in the mid-teens Fahrenheit. In summer, average high temperatures are in the mid-to high 80s, with average lows in the mid-60s.
+The ecoregion contains stretches of two of Nebraska's major rivers. The wide-valleyed, steepbluffed Missouri River, the state's largest river, forms the northern and eastern boundaries of the ecoregion. The Platte River is a classic prairie river that, historically, has a shallow, braided channel reaching three miles wide. The ecoregion also includes many smaller streams, such as Papillion, Turkey, and Bazile creeks.
+
+## Vegetation
+
+Prior to Euro-American settlement, tallgrass prairie prevailed across the uplands of the ecoregion, with the majority of woodlands and wetlands being restricted to stream valleys. Moist floodplains supported wet meadows, marshes, and cottonwood woodlands, while drier stream terraces supported deciduous woods of elms, ash, and oaks.
+Tall grasses (big bluestem, Indiangrass, switchgrass, and Canada wild rye) dominated the upland prairies, often reaching six or more feet tall on the loamy soils. The prairie was also home to hundreds of wildflower species, including showy goldenrod, prairie blazing star, silky aster, and purple coneflower.
+The loamy to sandy-soiled wet meadows of subirrigated floodplains were home to a lush vegetation of sedges, spikerushes, prairie cordgrass, and switchgrass. Marshes occurred in river floodplains and zones bordering the streams. Broadleaf cattails, bulrushes, bur-reed, smartweeds, and arrowheads were abundant along with other wetlands plants. Isolated playas were scattered in the uplands. The Todd Valley wetlands, located in a long-abandoned floodplain of the Platte River, are the region's largest playa complex. These shallow, often temporary wetlands support cattails, rushes, and a variety of annual plants.
+A unique wetland type of the region, the eastern saline wetlands, occur in swales and depressions within the floodplains of Salt Creek and its tributaries in Lancaster and southern Saunders counties. As the name suggests, the wetlands have saline soils that support salttolerant plants such as saltgrass, sea-blite, and saltwort. The salts originate from underground rock formations deposited by an ancient sea that once covered the central Plains; they are brought to the surface through artesian flow and accumulate on the soil surface through evaporation.
+Native woodlands are found mainly in more mesic and fire-protected stream valleys and bluffs and are most extensive in the Missouri River valley and its lower tributaries. Cottonwoods, willows, boxelders, and American elms dominate the wetter floodplain woodlands, while drier bluff woodlands support oaks, hickories, basswoods, black walnuts, and other deciduous trees.
+Eastern red-cedar woodlands were limited to fire-protected islands, steep, north-facing bluffs and canyon bottoms. Nebraska Natural Legacy Project
+
+## Animals
+
+More than 300 species of resident and migratory birds have been observed in the Tallgrass Prairie Ecoregion. Nesting waterbirds include wood duck, green heron, northern pintail, bluewinged teal, and mallard. The region also supports populations of greater prairie-chicken and a variety of grassland birds, including Henslow's sparrow, dickcissel, grasshopper sparrow, bobolink, vesper sparrow, and Swainson's hawk. Red-eyed vireo, black-and-white warbler, rosebreasted grosbeak, and orchard oriole are common woodland breeders.
+The ecoregion is home to more than 55 mammal species, most of which have a widespread distribution and are also found westward in Nebraska. Small prairie mammals include the plains pocket gopher, prairie vole, plains pocket mouse, thirteen-lined ground squirrel, and Franklin's ground squirrel. The masked shrew and jumping mouse are found in wet meadows and other wetlands. Before European settlement, the tallgrass prairie was home to large grazers and browsers, such as bison, elk, and mule deer. Today, white-tailed deer are the most common large ungulate in the region, although mule deer are still occasionally found in upland grasslands.
+Large predators that once lived in the region -such as mountain lions, black bears, grizzly bears, and gray wolves -are now extremely rare or have been extirpated. The most common large predators today are coyotes and bobcats. Other common predators include red fox, gray fox, American badger, least weasel, long-tailed weasel, and mink.
+Streams, rivers, and lakes in the Tallgrass Ecoregion are home to more than 75 species of fish. Big river generalists include channel catfish, flathead catfish, flathead chub, and river carpsucker. Sport fish such as northern pike, largemouth bass, walleye, and bluegill have been introduced into many lakes and ponds. Invasive species like grass carp, common carp, silver carp, and bighead carp now inhabit most major rivers and lakes in the region.
+Fifty-three species of amphibians and reptiles are found in the region, including two salamanders, five toads, six frogs, eight turtles, eight lizards, and 24 snakes. Although amphibians breed in wetlands, species such as the Great Plains toad, plains spadefoot, and Woodhouse's toad spend most of their adult lives in upland habitats. Common wetland reptiles include the northern painted turtle, false map turtle, and common snapping turtle. The six-lined racerunner and northern prairie skink are relatively common in grasslands but are rarely seen. Among the most common snakes are the bullsnake, western fox snake, yellow-bellied racer, and plains gartersnake. Venomous snakes such as the timber rattlesnake, western massasauga, and copperhead have very limited distributions in the southeastern portion of the state.
+Insects are the most diverse and least studied animal group in the ecoregion even though they play vital roles as herbivores, predators, pollinators, decomposers, soil aerators, and as food for other wildlife. The regal fritillary and monarch are two at-risk butterflies that inhabit tallgrass prairie. Nebraska Natural Legacy Project
+
+## History and Dominant Land Use
+
+Archaeological evidence suggests that Native Americans first hunted and foraged in eastern Nebraska about 12,000 years ago. In the early 1800s, the Otoe, Omaha, Ponca, and Pawnee tribes lived in eastern Nebraska often in earth-lodge villages. Farming and bison hunting were their primary form of subsistence.
+In 1804, the Lewis and Clark expedition mapped what would later become the eastern boundary of our state. In 1812, the St. Louis Missouri Fur Company built a post in present-day Washington County -one of the first Euro-American establishments in Nebraska. Bellevue, founded in 1823, was the first permanent settlement. During the 1840s and 1850s, tens of thousands of migrants passed through the region on the Oregon and California trails heading westward.
+The Homestead Act of 1862, which allowed settlers to claim 160 acres of free land, was the driving force behind settlement of the region. By 1900, the vast majority of eastern Nebraska was settled by people of European descent and being farmed. The bison herds that once sustained Native American had been wiped out decades prior, and the local tribes -and their culture -had been devastated by disease and relocated to reservations, many outside Nebraska. Today, all Native American reservations in Nebraska are located along the rugged terrain bordering the Missouri River, including those of the Santee, Omaha, Winnebago, Sac and Fox, and Ioway tribes.
+Presently, major crops grown in the Tallgrass Ecoregion include corn, soybeans, and alfalfa. Nebraska's dairy, pork, and poultry industries are based in the eastern part of the state, while the cattle grazing is more concentrated in central and western Nebraska. The livestock and poultry industries utilize a lot of corn and soybeans as feed, and significant portion of the corn harvest goes to ethanol production.
+Since the 1950s, advances in machinery and farming methods have made agriculture more efficient, reducing the number of people directly employed in farming, and farms have become fewer in number but larger in size. Many rural residents have been forced to move to cities and towns in search of other jobs.
+Nebraska's largest cities, Lincoln and Omaha, are in this ecoregion. Omaha was founded in 1854 and later became the eastern terminus of the first transcontinental railroad, which helped spur its early growth. In the early 1880s, the establishment of the South Omaha stockyards further fueled the cities' expansion. Today, Omaha continues to expand and is now the 41 st largest city in the U.S. Lincoln is Nebraska's second-largest city. Early settlers were drawn to the area by the salt industry, which was thriving there in the 1880s. In warm, dry weather, salt crust formed on the surface of saline wetlands and was collected for local use. The salt industry declined quickly after more efficient underground salt mines were developed in Kansas. In 1867, Lincoln was named the state capital and two years later the University of Nebraska was established there, further stimulating its growth. Nebraska Natural Legacy Project
+
+## Nature-based Recreation
+
+Several of the state's top tourist attractions are outdoors in nature and provide a combination of conservation, education and recreation opportunities. Omaha's Henry Doorly Zoo sits on 160 acres and offers day camps, Scout programs, and family-friendly activities with a conservation message. Lauritzen Gardens, Omaha's Botanical Center, provides opportunities to view wildlife like pollinators and birds in their extensive gardens. Lauritzen Gardens is also conducting conservation research on unique Great Plains plant communities like the sandsage prairie in southwest Nebraska and is a participating institution in the Center for Plant Conservation. Fontenelle Forest is a popular place for residents around the Omaha area to go to view and learn about wildlife and enjoy a quiet walk through the woods and prairies. For more than 100 years, this nonprofit has worked to conserve habitats along the Missouri River near Omaha, while also providing recreational and educational opportunities for the public.
+Nebraska Scenic Byway encourages travelers to enjoy the journey. 
+
+## Wildlife Viewing
+
+Wildlife viewing and birding enthusiasts find ample opportunities in this region with the diversity of habitats. More than 300 species of resident and migratory birds have been documented in this ecoregion. Fontenelle Forest, Indian Cave State Park, and Ponca State Park offer trails through wooded bluffs along the Missouri River that provide great opportunities to view numerous birds including warblers, thrushes, tanagers, and other birds seen almost exclusively in these areas during migration. Tallgrass prairie remnants, like the University of Nebraska's Nine-Mile Prairie and Audubon's Spring Creek Prairie, provide opportunities to see grassland nesting birds like Henslow's sparrow and bobolink. The saline wetlands in Lancaster and southern Saunders counties offer opportunities in and around the City of Lincoln to view a variety of wildlife, including waterfowl, shorebirds, white-tailed deer, and muskrats.
+
+## Trails
+
+There are opportunities for canoeing, kayaking, hiking, and biking in this region. The Elkhorn River meanders through hilly areas with steep slopes, woodlands and dense forested areas interspersed with farmland. The Platte River is braided but usually has one deeper, darker Nebraska Natural Legacy Project channel suitable for canoeing or kayaking. Sandbars in the river are used by waterfowl and shorebirds. The Missouri River has perhaps the greatest untapped potential as a nature-based recreation and tourism destination. This ecoregion includes a 59-mile stretch of the unchannelized Missouri River that has been designated as a National Recreational River. The stretch from Gavin's Point Dam to Ponca State Park is used by canoeists and kayakers but requires caution for navigating. Paddlers may also appreciate the unique geology of orange and white chalk and gray shale that is often exposed where the river has carved away at the bluffs.
+Rail-to-Trail conversions are prevalent in this ecoregion: Cowboy 
+Recreation and Nature Trail, Steamboat Trace, MoPac East Trail, Oak Creek Trail, Homestead Trail, Dark Island Trail, and Chief
+ Standing Bear Trail all offer walking, hiking, and biking opportunities; some even allow equestrian use. These rail-to-trails offer a low barrier to entry gateway to outdoor recreation.
+Most do not require a fee-based permit or pass.
+
+## Fishing
+
+Anglers can enjoy a diversity of fishing opportunities from large rivers to small farm ponds. Missouri River anglers can take advantage of smallmouth bass, walleye, sauger, and catfish, which are plentiful in the river. Paddlefish bowfishing and snagging in the Missouri River offer a unique fishing experience. Seasonal trout fishing opportunities are available at Crystal Cove Lake, David City Park Ponds, and several other lakes and ponds. Numerous impoundments and prairie streams offer warm-water angling opportunities throughout this region. In the Omaha metro area, there are numerous new lakes and renovations to existing lakes to improve angling access to urban residents. Bullfrog angling is permitted seasonally east of Highway 81 and yearround west of the highway.
+
+## Hunting
+
+The tallgrass prairie offers a diversity of hunting opportunities. Quail hunters find greater success south of the Platte River in Johnson and Pawnee counties. Turkeys are abundant along the Missouri River, Platte River, Big Nemaha, and Little Blue rivers. Waterfowl hunting along the Missouri River and its marshy backwaters is some of the best Nebraska has to offer. White-tailed deer can be found throughout the region. The Missouri River bluffs also support an excellent squirrel population. Wildlife Management Areas (WMAs) provide great public hunting access.
+
+## Challenges
+
+Over half of Nebraskans live in the Lincoln and Omaha metropolitan areas. The continuing urbanization of the state has significantly increased demands for both traditional and modern outdoor recreational opportunities in eastern Nebraska. According to the 2024 Nebraska Statewide Comprehensive Outdoor Recreation Plan Survey Summary Report, over a third of the respondents from the Omaha and Lincoln metro areas reported overcrowding at recreation sites was a limiting factor to their participation in outdoor recreational activities. As a result, some natural areas around urban centers are exceeding their social carrying capacity, with overcrowding becoming an issue. Additionally, more than 40% of respondents indicated that the desired recreational amenity or opportunity was too far away (Bureau of Sociological Research, 2024). To address this, expanding amenities and facilities in urban areas could make nature-Nebraska Natural Legacy Project based recreation more accessible to a larger population. For example, over the past decade, efforts have been made to increase fishing opportunities within the Omaha metro area by creating new lakes (e.g., Prairie Queen, Flanagan, Big Elk, Portal Lakes), with two to three more planned in the next eight years. Renovations of existing lakes (e.g., Wehrspann, Standing Bear, Cunningham Lakes) to improve angling access has also taken place. Expanding other naturebased recreation opportunities, like the new angling access, could help alleviate some of the barriers to participation.
+Another challenge in this region is managing for invasive species. Aquatic invasive species such as zebra mussels and Eurasian watermilfoil, pose a particular concern, especially in waterbodies near the state boundaries and the Missouri River, where recreation users frequently move from one lake to another. Expanding educational efforts and resources about the risk of invasive species hitching a ride on recreational equipment is crucial for preventing their further spread.
+Key individuals from the business, economic development, and agricultural sectors should be involved in planning, promotion, and development of nature and wildlife tourism. There are many quality opportunities for nature-based recreation in this region; however, promotion of nature-based recreation opportunities is limited. While new resources have been created to inform people about recreational opportunities (e.g., trail, fishing, and birding maps), they are spread out across various websites and guides. A centralized clearinghouse of all nature-based recreation information in this region would be beneficial for easily promoting the diverse opportunities that are available. To fully realize the potential of the region's nature-based recreation opportunities, more individuals who are knowledgeable about nature-based recreation are needed to help inform community leaders and the public about these opportunities.
+
+## Education
+
+The Robust nonformal education initiatives and regional partnerships support large-scale outdoor recreation events, water festivals, and outdoor education for schools and the public. These collaborations often involve community partners and organizations, such as Representative species with educational and community science opportunities:
+• Plains Spotted Skunk (Spilogale putorius)
+• Bobolink (Dolichonyx oryzivorus)
+• Bur Oak (Quercus macrocarpa)
+• Big Bluestem (Andropogon gerardii)
+
+## Ecoregion-specific Stresses Key Stresses
+
+In addition to the stresses and conservation actions identified in this chapter for the Tallgrass Prairie Ecoregion, statewide concerns are also identified in chapter four. Conservation practitioners identified the following stresses as the top threats in the ecoregion.
+Altered frequency and intensity of fire, grazing, and other natural disturbances: Tallgrass prairie, wetland, and forest habitats in the ecoregion were maintained historically by periodic flooding, fires, and grazing. The interaction of effects from these disturbances promoted structural heterogeneity and floristic diversity. Today, the relative lack of fire has resulted in the degradation of thousands of acres of prairie by invasive species including eastern red-cedar. The proliferation of deciduous trees and shrubs, some of which are fire resistant, in grassland habitats also threatens native herbaceous plant diversity. Grazing systems that do not prioritize heterogeneity often result in a loss of biodiversity and ecological function. Drought and flooding cycles have changed in frequency and intensity, resulting in altered plant communities, grazing patterns, and spread of invasive species. Nebraska Natural Legacy Project Spread of invasive species: Invasive and noxious species are threatening the ecoregion's biological diversity. Exotic cool-season grasses, aggressive woody plants, and other species have competitively excluded native plants and degraded habitat for fish and wildlife. Many plant and aquatic invasive species can hitchhike on maintenance machinery, recreational equipment, vehicles, pets, and clothing without being detected.
+Other causes of invasive species spread include interbasin water transfer and dumping fish bait into aquatic systems. Early detection monitoring and rapid response are key to preventing invasive and noxious species from becoming established and altering ecosystems. Treatment of invasive species should be weighed for potential costs to ecosystem health. Free-ranging cats are a major cause of anthropogenic mortality for birds and mammals. There is a need for improved communication, greater awareness, and education about the harmful effects that free-ranging cats can have on wildlife populations.
+Loss of pollinators: Pollinators are essential to a well-functioning ecosystem. Broadcast spraying of pesticides on fields harm pollinators and other native insects. There is a loss of largescale, diverse, season-long habitats that contain a diversity of forbs. Pollinator habitat restoration should only use native species and avoid broad spectrum pesticides. Currently, there is limited availability of local ecotype, forb-heavy, high-diversity seed mixes. Additionally, more monitoring efforts are needed to establish baseline population estimates for many of the pollinators in this ecoregion and across the state. More communication is needed to inform beekeepers about the negative impact honeybee parasites can have on native pollinator populations.
+Limited awareness about the region's biological diversity and ecological processes: Many residents have a desire to increase their knowledge and understanding of ecological processes and management that can help maintain biological diversity, but educational resources are often not available. Funding and collaboration among conservation agencies are essential to develop and implement relevant environmental education opportunities about native ecosystems and best management practices for conserving them. There is a lack of trusted advisors and community ambassadors that can provide peer-to-peer learning opportunities and share their experiences and knowledge about the financial relevance of ecosystem conservation. Increases in nonresident landowners and younger residents will require the use of new communication channels to deliver informational materials. Additionally, there is little school curriculum that teaches students about Nebraska's native species, habitats, and conservation issues. Although the region's remaining native grasslands, woodlands, and wetlands are unique and of high value, many of the ecoregion's residents have limited awareness of the importance of these habitats to biological diversity.
+Alteration of hydrology, channel degradation and sedimentation of rivers, streams, and wetlands: The installation of drainage tile, construction of moderate sized dams, development of flood-protection levees, declines in beaver populations, and other alterations have contributed to hydrological changes on the landscape. Historically, the ecoregion's rivers experienced spikes in flows during the spring and early summer. These Nebraska Natural Legacy Project spikes enabled sediment to be transported and deposited, which allowed channels to meander and migrate, creating habitats like sandbars that are important to many species, including piping plovers and least terns, and scour holes that harbor fish during drought conditions. Reductions in historical flows have reduced habitat available to fish and other species. Incised streams have led to channelization, lowering water tables of adjacent wetlands and affecting plant composition. The use of tiling practices has accelerated wetland loss in the ecoregion. The potential for interbasin water transfer could negatively impact wetlands in the region. Structures like dams and improperly sized culverts limit native fish and other aquatic species movement. Increasing and continuing communication and collaboration with counties on how to build fish-friendly culverts and other fish-movement structures that facilitate movement and maintain connectivity of populations in small streams.
+The proximity of urban development, construction sites, and annual row-crop fields to rivers, streams, and wetlands has resulted in large volumes of sediment entering the ecoregion's water bodies. Fewer cover crops are planted to hold soil over winter. Sedimentation increases stream turbidity and changes bottom substrates. Increased sedimentation of wetlands alters storage capacity and changes plant composition, reducing habitat available to aquatic species, including waterfowl. There is limited awareness of the grassland buffer program and the importance of riparian buffers. Additionally, there are inadequate technical and financial incentives available to encourage the preservation of riparian buffers, especially next to crop fields where soil erosion and nutrient and chemical runoff are more prevalent. Along the Platte River, dams and altered hydrology have prevented the natural flow of sedimentation that is essential for creating shallow braided streams and rivers that attract the sandhill cranes and endangered whooping cranes during their spring migration. In instances like this, an increase in sedimentation is needed to more accurately represent the historical flow regime.
+Point and nonpoint source pollution: Point and nonpoint pollution negatively impacts biodiversity. The introduction of pesticides, storm-sewer runoff, fertilizers and nitrates, and industrial pollutants into rivers and streams impacts water quality, exposes fish and other species to harmful agents, and causes algal blooms. Although there is often common ground on many issues related to conserving biological diversity, there remains some lack of trust and resolve to collaborate on issues important to all stakeholders. Staff turnover at conservation agencies has made it difficult to build meaningful relationships and has contributed to the lack of trust and communication with the agricultural communities. Opportunities exist to merge firsthand knowledge of the land with newly developed conservation practices that benefit producers and ecosystems alike. While progress is being made, there is still a need for improved communication with agricultural communities about current and changing contracts and their impacts on agricultural and conservation communities.
+Limited assessment, monitoring, and applied science to inform species and habitat conservation efforts: Conservation organizations and universities have limited capacity to monitor and assess many species, especially nongame and at-risk wildlife, and their habitats. There is a need for more baseline population estimates to better inform conservation decisions and listings of at-risk species. The lack of species and habitat monitoring overtime, especially in response to management efforts, hinders the understanding of an area and ways to best manage and conserve it. An increase in applied science efforts in this area could greatly enhance our understanding of this ecoregion. Additionally, wildlife diseases (e.g., Avian influenza, White-nose Syndrome, Snake Fungal Disease) impacting wild populations of birds, mammals, and reptiles should be monitored and researched further.
+
+## Primary Invasive Plant Species by Habitat Type
+
+Note: This list highlights key invasive species of concern in the Tallgrass Prairie Ecoregion and is not exhaustive. Nebraska Natural Legacy Project
+
+## Biologically Unique Landscapes of the Tallgrass Prairie Ecoregion
+
+One main goal of the Nebraska Natural Legacy Project is to identify priority landscapes that, when properly managed, will help conserve most of the state's biological diversity. These areas, called Biologically Unique Landscapes (BULs), were selected based on the presence of at-risk species and natural communities. See Chapter 3 for a full description of the selection methods.
+The map shows the BULs for the Tallgrass Prairie Ecoregion. Brief descriptions of each BUL follow the map, including information about the stresses affecting species and habitats, proposed conservation actions, and natural communities found in each landscape.
+In the Tallgrass Prairie Ecoregion, some BULs are truncated by the Nebraska state boundary.
+We suggest opportunities for wildlife conservation in these areas based on review of corresponding adjacent state wildlife action plans (SWAPs).
+
+## Tallgrass Biologically Unique Landscapes:
+
+• Elkhorn Confluence Descriptions of each site are found in the write-up for the BUL in which the site is located. The Spring Creek Prairie site is not within a BUL and the description is included here.
+
+## Spring Creek Prairie -National Audubon Society
+
+Spring Creek Prairie is one of the few large tracts of tallgrass prairie within easy driving distance from Lincoln. The 1,160 acres are predominantly undisturbed tallgrass prairie.
+Native oak woodlands and spring-fed riparian wetlands are also found on portions of the property. This prairie is managed using grazing, haying, prescribed burning, and prescribed rest. Spring Creek Prairie reaches up to 12,000 people per year, ranging from visitors enjoying the more than four miles of trails, as well as student and public education programs and events, workshops, trainings, and tours. Nebraska Natural Legacy Project 
+
+## Stresses Affecting Species and Habitats
+
+• Specific livestock grazing and haying practices that may reduce native plant diversity and promote uniform habitat structure. • Invasive plant species.
+• Limited use of prescribed fire on the landscape.
+• Tiling and drainage of wetlands and water diversion for agricultural irrigation. Nebraska Natural Legacy Project
+• Increased chemical runoff and nutrient loading into streams.
+• In-stream structures (e.g., culverts) that obstruct fish movement.
+• Conversion of grasslands to cropland.
+• Infrastructure development (e.g., housing, recreation, industrial, energy).
+• Limited awareness of native wildlife (e.g., pollinators) and management practices to improve their habitats.
+
+## Conservation Strategies
+
+• Implement planned grazing strategies on private and public lands, in combination with prescribed fire and rest, to improve native plant diversity and reduce exotic cool-season grass dominance. 
+
+## Lower Platte River
+
+## Biologically Unique Landscape Description
+
+This landscape includes a mostly 2-mile buffer on each side of the Platte River from its confluence with the Loup River in Platte County eastward to its mouth, where it flows into the Missouri River, in Sarpy County. The lower Platte is a large, shallow, braided river with sandbars and wooded islands and a wide floodplain. Much of the streambank is wooded, primarily with cottonwood and eastern red-cedar. Sandpits are common, and in many areas, riverbanks are lined with cabins. Most of the floodplain is now cropland, with scattered wet meadows and marshes.
+Primary lower Platte River tributaries include the Loup and Elkhorn rivers. This stretch of the Platte has more stable flows than the central Platte and its sandbars support colonies of the federal and state-endangered piping plover and the state-endangered interior least tern. Channel constriction from dikes and levees has eliminated most floodplain sloughs, backwaters, and wetlands. This has led to higher flow stages during runoff events, sometimes washing away tern and plover nests. The river also supports rare large-river fish, such as lake sturgeon, blue sucker, sturgeon chub, and pallid sturgeon. Some protected areas in this BUL include Two Rivers SRA, Louisville SRA, Platte River State Park, Schramm Park SRA, and Mahoney State Park.
+
+## Natural Legacy Demonstration Site
+
+## Schramm Park State Recreation Area -Nebraska Game and Parks Commission
+
+Schramm Park SRA is a relatively small but biologically-rich area on the lower Platte River. Uplands are covered with oak forest with small patches of prairie. The floodplain has a large area of mature riparian forest. Natural communities at the SRA include drymesic bur oak forest and woodland and upland tall-grass prairie. Ongoing land Nebraska Natural Legacy Project management at the park seeks to improve wildlife habitat through a variety of techniques, including prescribed woodland burns, tree thinning, and non-native invasive plant control. The Schramm Education Center offers engaging, high-quality environmental education that allows visitors to explore Nebraska's aquatic and terrestrial ecosystems through unique, interactive exhibits.
+
+## Stresses Affecting Species and Habitats
+
+• Proliferation of aquatic herbaceous invasive species, including Eurasian phragmites, on streambanks and sandbars, and in meadows, marshes, and woodlands. • Encroachment of eastern red-cedar and other woody species into woodlands and meadows.
+• Limited use of prescribed fire on the landscape.
+• Altered natural hydrology, including lack of periodic pulse flows and reduced sediment transport to maintain sandbars and aquatic habitats. • Dike and levee construction.
+• Armoring of streambanks.
+• Water withdrawal.
+• Increased chemical runoff and nutrient loading into the river.
+• Conversion of wet meadows to cropland, including wetland drainage and dewatering resulting from lower groundwater levels. • Continued cabin and house development adjacent to the river.
+• Sandpit and gravel mine development, which eliminates native meadows, woodlands, and river channel, and new mining practices that reduce the available piping plover nesting habitat. • Excessive recreational use of the river (e.g., air boats, four-wheelers), which disturbs tern and plover nesting. Limited awareness and knowledge about impacts to the nesting terns and plovers and the potential for transporting aquatic invasive species. • Light pollution, which adversely impacts much wildlife.
+• Lack of best management and logging practices for native woodlands. High-grade logging, especially harvest of mature trees that reduces age-class diversity of native woodlands. Oak blight and other tree diseases affecting woodlands.
+
+## Conservation Strategies
+
+• Develop and implement best management practices to control, manage, and remove invasive species. Encourage producers to employ integrated pest management (IPM) techniques.
+• Undertake eastern red-cedar and other invasive tree clearing programs, and develop tree remediation programs and incentives to protect woodlands adjacent to the river. • Increase implementation of prescribed burns.
+• Maintain the natural hydrology necessary to sustain ecosystem function and biodiversity. 
+
+## Missouri River and Bluffs
+
+## Biologically Unique Landscape Description
+
+This landscape includes the Missouri River channel, its floodplain, and the mostly wooded bluffs from the Nebraska-Kansas border to the Nebraska-South Dakota border. The bluffs are primarily covered by eastern deciduous forest. Remnants of tallgrass prairie and northern loess shale bluff prairie also occur on bluff tops. The bluffs are interspersed with cropland and residential development.
+Historically, the Missouri River was one of North America's most dynamic rivers more than a mile wide and 20 feet deep in places, with a channel consisting of many sandbars and forested islands. Its floodplain featured a mosaic of oxbow lakes, backwater marshes, wet prairies, and forests. River alteration began in 1829 with snag removal for steamboat navigation. Between the 1930s and 1960s, a bank stabilization project created a navigational channel from St. Louis to Sioux City. From 1940 to 1964, six mainstem dams were constructed upstream, resulting in managed flows along this stretch of the river. These changes have had major negative ecological impacts.
+Woodlands along the Missouri River bluffs support many at-risk species, including the timber rattlesnake, wood thrush, ginseng, and yellow lady's-slipper orchid. The Missouri River bluff corridor is an important migration route for songbirds, raptors, monarchs, and bats. Nine statelisted and five federally listed species occur in Nebraska's Missouri River valley. Unchannelized stretches from Sioux City to Gavins Point Dam and from the upper end of Lewis and Clark Lake to the South Dakota border are designated as National Recreational River segments. Large, protected areas include Indian Cave and Ponca state parks, Fontenelle Forest, and Boyer Chute and DeSoto national wildlife refuges (NWRs).
+
+## Natural Legacy Demonstration Sites
+
+## Boyer Chute National Wildlife Refuge -U.S. Fish and Wildlife Service
+
+Boyer Chute NWR was established to recover fish and wildlife habitat in the Missouri River and its floodplain. Refuge floodplains have been restored to near prechannelization conditions without affecting navigation on the main stem of the Missouri River. Boyer Chute is once again an ecologically functioning part of the river. Close to Nebraska Natural Legacy Project 4,040 acres of floodplain woodland, tallgrass prairie, and wetland habitats now benefit Missouri River fishes, migratory birds, pollinators, endangered species, and resident wildlife. Boyer Chute's proximity to the Omaha metro area makes it a convenient location for those living in urban areas to experience Missouri River habitat and the wildlife that calls it home.
+
+## Fontenelle Forest -Fontenelle Forest
+
+Fontenelle Forest, a nonprofit nature organization, owns and operates two properties in the Omaha area: Neale Woods, (27b) which contains about seven miles of trails on nearly 600 acres, and Fontenelle Forest, (27a) with 17 miles of trail, including a riverview boardwalk on 1,500 acres. Both properties are comprised of riverine floodplain, woodlands, forest, and small grassland reconstructions. Habitat restoration focuses on the oak woodland complex found along the Missouri River bluffs and includes prescribed fire, tree/shrub thinning, and invasive plant treatments. Outreach is done through formal school programs, public programming, on-the-go senior programs, and daily by the staff and volunteers around the nature center.
+
+## Indian Cave State Park -Nebraska Game and Parks Commission
+
+Indian Cave State Park is approximately 3,300 acres, comprised primarily of wooded bluffs along the Missouri River, along with areas of ridgetop prairies, floodplain wetlands, and restored backwater habitats. Natural communities at this park include oak-hickory-ironwood forest and red oak-basswood-ironwood forest. Ongoing land management at the park, and with surrounding neighbors, seeks to improve wildlife habitat through a variety of techniques including prescribed woodland burns, tree thinning, and non-native invasive plant control.
+
+## Ponca State Park -Nebraska Game and Parks Commission
+
+Ponca State Park contains approximately 2,284 acres and includes the steep bluffs covered in hardwood forest and floodplains of the unchannelized Missouri River. Ponca State Park is located in the portion of the Missouri River designated as a National Recreational River. Restored sandbars in the Missouri River and backwater provide habitat for several listed species, while allowing the channel to meander restores the dynamic floodplain. The park has bur oak-basswood-ironwood forest, dry-mesic bur oak forest and woodland, oak savanna, upland tall-grass prairie, and a human-made wetland. Habitat management occurs throughout the park and includes prescribed fire, timber thinning, wildlife surveys, and noxious weed control to improve the habitat for native species. Chemical, mechanical, and biological tactics are all used. Ponca State Park also provides outreach through events and signage to educate the public on the species and habitat management in the park Nebraska Natural Legacy Project
+
+## Stresses Affecting Species and Habitats
+
+• Specific livestock grazing and haying practices that may reduce native plant diversity and promote uniform habitat structure. • Invasive plant and animal species in prairies, woodlands, and rivers compounded by landowners' limited awareness of these species, their methods of spread, and effective treatment options. • Broadcast herbicide application to prairies.
+• Lack of best management and logging practices for native woodlands. High-grade logging, especially harvest of mature trees that reduces age-class diversity of native woodlands. Oak blight and other tree diseases affecting woodlands.
+• Limited use of fire on the landscape has led to woody encroachment in prairies and an increase of undesirable species and plant densities in woodlands.
+• Altered natural flows and lack of diverse instream habitat will continue to threaten atrisk aquatic species, as well as some terrestrial species whose life histories are closely linked to the availability of riverine habitat. • Wetland drainage and conversion.
+• Channel downcutting from lack of sediment, restricted channel, and bank stabilization practices.
+• Chemical runoff, pollution, and nutrient loading into rivers from adjacent cropland and developments leading to endocrine disruption in fish species, toxic algal blooms, and other negative impacts to aquatic species. • Conversion of oak woodland to cropland.
+• Infrastructure development and other forms of fragmentation (e.g., housing, ranchettes, recreation, industrial). • Energy infrastructure development (e.g., wind, solar, pipelines, limestone mining).
+• Light pollution, which adversely impacts much wildlife.
+• Limited applied science, including research, assessment, and monitoring.
+• Lack of awareness and knowledge by recreationists about SGCN (e.g., nesting piping plovers and least terns) and the spread of invasive species via recreational equipment. • Limited landowner awareness of management practices to improve prairie and woodland habitats and to manage invasive species.
+
+## Conservation Strategies
+
+• Implement ecologically sensitive planned grazing and prescribed fire strategies in native habitats on public and private lands. 
+
+## Saline Wetlands
+
+## Biologically Unique Landscape Description
+
+This landscape includes saline wetlands in the floodplains of Salt, Little Salt, and Rock creeks, along with portions of the surrounding uplands. Wetland salinity originates from deeply buried salts brought to the surface by artesian groundwater flow. The marsh vegetation is dominated by salt-tolerant species including saltgrass, sea-blite, and saltwort. Surrounding uplands are mostly cropland, with some tallgrass prairie remnants. Commercial and residential development is common in the uplands bordering the wetlands. This is Nebraska's only saline wetland complex. Over 90% of the original wetlands have been lost or severely degraded. The most viable remnants are in two core areas: the upper Little Salt Creek valley near Raymond and the Rock Creek valley near Ceresco. The Little Salt Creek wetlands contain the world's only known populations of the state-and federally endangered Salt Creek tiger beetle and the state-endangered saltwort. Examples of the protected areas in this BUL include Arbor Lake, Little Salt Creek, and Jack Sinn WMAs; the City of Lincoln's Shoemaker Marsh, Anderson Tract, and King tracts; and Lower Platte South Natural Resources District's Saline Wetland Nature Center, Warner Wetland, and Little Salt Fork Marsh.
+
+## Natural Legacy Demonstration Site
+
+## Saline Wetland Complex
+
+The Saline Wetland Complex includes 16 properties. All are open to public use; however, some of the best locations to visit include Marsh Wren (Lower Platte South NRD), Saline Meadows (Pheasants Forever), Little Salt Fork Marsh Preserve (Lower Platte South NRD), Little Salt Creek West WMA (Game and Parks), and Frank Shoemaker Marsh (City of Lincoln). Eastern saline wetlands are considered critically imperiled. These locations are actively managed, contain restored wetlands, existing or reestablished native prairie, and habitat for listed species. Natural communities at this location include eastern saline meadow, eastern saline marsh, and upland and lowland tall-grass prairie. The Saline Wetlands Conservation Partnership has been fundamental in facilitating collaboration between local entities to conserve the few remaining saline wetlands. Nebraska Natural Legacy Project
+
+## Stresses Affecting Species and Habitats
+
+• Specific livestock grazing and haying practices that may reduce native plant diversity and promote uniform habitat structure.
+• Lack of natural disturbances on the landscape.
+• Invasive plant species.
+• Excess vegetation on stream banks, which negatively impacts Salt Creek tiger beetle habitat.
+• Downcutting of streams leading to decline in groundwater levels, loss of salts from the wetlands, and general alteration of wetland hydrology. • Conversion of saline wetlands to freshwater wetlands.
+• Wetland drainage and sedimentation.
+• Lower plant diversity in many restored systems.
+• Urban residential and ranchette development.
+• Infrastructure development (e.g., energy infrastructure development, clay mining).
+• Limited applied science, including research, assessment, and monitoring.
+• Limited awareness of native wildlife and the unique habitats in this landscape.
+• Light pollution, which may adversely impact Salt Creek tiger beetles and other wildlife.
+
+## Conservation Strategies
+
+• Intensify management (e.g., prescribed fire and planned grazing) on conservation lands and private lands to improve the quality of saline wetlands. • Continue to develop and implement plans to control reed canary grass, narrow-leaf cattail, and other invasive plants in saline wetlands, especially on protected lands. • Develop, implement, and evaluate methods to improve Salt Creek tiger beetle habitat along the existing streambank pull-backs. • Use in-channel structures and restore natural meanders, where feasible, to stop stream downcutting and subsequent headcutting into wetlands. • Develop and implement methods (e.g., pumping) to restore the hydrology of saline wetlands.
+• Continue stream and wetland water-quality monitoring programs.
+• Reduce the number of wells that lower hydrologic pressure or interrupt the hydrologic system needed for saline ecology. • Continue to remap saline plant communities within the BUL and conduct studies to investigate saline soil properties. • Protect uplands in the watersheds surrounding these wetlands from development through use of conservation easements or other protection measures. • Channel stormwater away from saline wetlands in urban areas.
+• Protect high-quality wetlands through the use of conservation easements or voluntary fee title acquisition. The wetlands in need of protection have been prioritized by the Saline Wetland Conservation Partnership, along with identifying strategies for their protection. Nebraska Natural Legacy Project
+• Work with developers to increase use of cluster development in areas surrounding saline wetlands, protecting even very small saline habitats. 
+
+## Southeast Prairies
+
+## Biologically Unique Landscape Description
+
+This landscape encompasses the rolling hills of western Richardson, Pawnee, southern Johnson, and southern Gage counties. The dominant landcover is cropland, but many tallgrass prairie remnants remain as either hay meadows or pastures with hay meadows being in higher ecological condition. Reseeded native and exotic grasslands are common.
+The Big Nemaha River drains the eastern portion of the region, while the Big Blue River drains the western portion of the BUL. Oak woodlands occur along stream bluffs with cottonwood woodlands in floodplains. Larger streams have deeply incised channels, though higher-quality smaller streams -such as Wildcat, Turkey, Rock, and Yankee creeks -still persist.
+The abundance of native and restored grasslands supports stable populations of greater prairiechickens and other grassland birds. Burchard Lake WMA and Pawnee Prairie WMA are the largest protected areas. These sites are strongholds for the state's largest remaining western massasauga populations. The Barneston Bluff area in Gage County contains rocky woodlands that support timber rattlesnakes and copperheads.
+
+## Natural Legacy Demonstration Site
+
+## Burchard Wildlife Management Area -Nebraska Game and Parks Commission
+
+Burchard WMA totals 560 acres. It consists of a 150-acre reservoir and roughly 285 acres of native upland tallgrass prairie. Management is directed toward maintaining the Nebraska Natural Legacy Project current tallgrass prairie composition. Primary habitat management prescriptions replicate historic disturbance through the use of prescribed fire and rotational grazing. Supplemental habitat management practices include rotational haying and spot herbicide applications to control noxious and invasive plants. Greater prairie-chickens are a common sight on the property. The WMA also provides critical habitat for many native species of wildlife including Henslow's sparrows and western massasaugas.
+
+## Stresses Affecting Species and Habitats
+
+• Livestock grazing and haying practices that may reduce native plant diversity and promote uniform habitat structure. • Invasive plant species in prairies, woodlands, and wetlands.
+• Limited use of fire has led to woody encroachment in prairies, woodlands, and riparian corridors (e.g., Osage orange, honey locust, and eastern red-cedar). • Streambed and bank degradation.
+• Chemical runoff and nutrient loading into streams from adjacent cropland.
+• Conversion of native prairies and CRP to cropland.
+• Infrastructure development (e.g., road, industrial, energy).
+• Mining rare metals and byproduct runoff into rivers and streams is likely to become a threat.
+• Roadside and trail haying and mowing in areas with known populations of SGCN snakes.
+• Limited awareness of management practices to improve prairie and woodland habitats and to better manage invasive species.
+
+## Conservation Strategies
+
+• Implement planned grazing and haying strategies on public and private lands, in combination with prescribed fire and rest, to improve native plant diversity and reduce exotic grass dominance. • Conduct annual surveys and implement best management practices to control, manage, and remove invasive plant communities with a concerted effort on protected lands. 
+
+## Willow Creek
+
+## Biologically Unique Landscape Description
+
+This landscape includes the Willow Creek valley, Foster Bottoms, and surrounding uplands in Pierce County and parts of Madison and Antelope counties. Willow Creek is a meandering prairie stream, and its floodplain contains wet meadows dominated by big bluestem and prairie cordgrass. Cropland is also interspersed within the floodplain.
+The Willow Creek meadows support one of Nebraska's largest populations of the federally and state-threatened western prairie fringed orchid. The meadows serve as valuable stopover habitat for migrating waterbirds in both spring and fall. Sand dunes, supporting dry-mesic sand prairies, dominate the uplands bordering Willow Creek. Many of these prairies are hayed and in good condition; others are grazed and degraded. Cropland is also common on the dunes. There are around 1,000 acres under conservation easement.
+Foster Bottoms consists of wet meadows interspersed with cropland. These meadows and adjacent roadside ditches contain the state's largest population of the state-threatened small white lady's-slipper orchid.
+
+## Stresses Affecting Species and Habitats
+
+• Livestock grazing practices that may reduce native plant diversity and promote uniform habitat structure. • Annual mid-summer haying of wet meadows that impacts populations of the western prairie fringed orchid and native plant species diversity. • Invasive plant species in native prairies.
+• Broadcast herbicide application on prairies.
+• Limited use of fire has led to woody encroachment into prairies, and an increase of undesirable species in woodlands and riparian areas (e.g., eastern red-cedar). The Mixed-grass Prairie Ecoregion is a land of transition -a broad band in the central Great Plains where eastern tallgrass prairie species meet western shortgrass prairie species, along with a scattering of plants and wildlife unique to the ecoregion. As a vegetation zone, the region is not fixed. During prolonged droughts, the mixed-grass prairie shifts eastward into the tallgrass prairie, and during wet periods, it moves west into the shortgrass prairie. Its plant composition varies depending on soil type, topography, weather, and land use.
+This ecoregion is divided into two sections: a northern unit in north-central Nebraska and a larger southern unit in central and south-central Nebraska. The units are separated by the Sandhills Biologically Unique Ecoregion. The southern unit's primary geologic feature is a thick mantle of wind-blown loess, deposited during the last glacial period between 25,000 and 13,000 years ago. In areas such as the Central Loess Hills and Loess Canyons BULs, water erosion has carved the once-level loess plains into steep hills and valleys. In other areas, such as the Rainwater Basin BUL, younger, not yet eroded, loess plains dominate the landscape. Wind-98 Nebraska Natural Legacy Project excavated playas are common on the plain. An additional landscape feature south of the Platte and Loup rivers, sand dunes have formed from windblown river alluvium. Elevation in the ecoregion increases gradually from east to west, ranging from 1,650 to 3,000 feet above sea level.
+Major rivers in the southern unit include the Republican, Platte, and the South, Middle, and North Loup rivers. Several of the Platte River's major tributaries begin in Colorado and Wyoming, and, prior to the construction of upstream dams beginning in the early 1900s, mountain snowmelt caused annual spring floods that maintained a wide, braided, sandy channel. Reduced flows and flooding due to dams and irrigation diversion have allowed the channel to narrow and become choked with trees. The Republican River, which begins in eastern Colorado and exits Nebraska into Kansas near the town of Superior, flows along the region's southern boundary. Its flows have also been greatly reduced by dams on the river and its major tributaries along with diversion for irrigation. The South, Middle, and North Loup rivers headwater in the Sandhills Biologically Unique Ecoregion and therefore receive most of their water from groundwater discharge and maintain near constant year-round flows.
+The ecoregion's northern unit is characterized by rolling hills and river breaks. Soils here are formed from loess, sand, shale, and other sedimentary layers. The deep and wide Missouri River is the largest river in this unit. A 39-mile stretch of the Missouri -from Fort Randall Dam to the town of Niobrara -is designated as the Missouri National Recreational River. The Niobrara and Keya Paha rivers are the other major rivers in the northern unit. The Keya Paha flows into the Niobrara, which eventually merges with the Missouri River in Knox County.
+The region's annual precipitation ranges from about 20 inches in the west to 24 inches in the east, with May and June being the wettest months. In Kearney, average winter high temperatures are 36 to 40 °F, with average lows of 13 to 16 °F. In summer, highs average 83 to 87 °F, and lows average from 58 to 63 °F.
+Wetlands -primarily playas, river valley wet meadows, and marshes -are a key feature of the region. Playas are wind-formed, often circular depressions with a clay subsurface layer that limits water infiltration. The Rainwater Basin playas of south-central Nebraska are a vital spring migration staging area for waterfowl and shorebirds. The Central Table playas occur on level plains north of the Platte River, mainly in Custer County. The broad, subirrigated floodplains of the Platte and Loup rivers support extensive wet meadows, while abandoned channels within the meadows form marshes.
+
+## Vegetation
+
+Most of the unfarmed uplands in this ecoregion support loess mixed-grass prairie, which now includes a mix of native and non-native plants. The main non-natives are smooth brome, Kentucky bluegrass, and cheatgrass. Abundant native species include tall grasses like big bluestem and Indiangrass on moist lower slopes and bottoms; mid grasses like sideoats grama and little bluestem on mid and upper slopes; and short grasses like blue grama and buffalograss on drier, heavily grazed uplands. Common wildflowers -such as prairie clover, wild alfalfa, deervetch, leadplant, prairie coneflower, stiff sunflower, and dotted gayfeather -are still fairly Nebraska Natural Legacy Project common on well-managed sites. Due to fire suppression, eastern red-cedars have invaded extensive areas of mixed-grass prairie in the region.
+Before settlement, less than one percent of the ecoregion was covered by woodlands, which mostly occurred in stream valleys and associated ravines. Today, however, many watercourses are lined with riparian forests dominated by plains cottonwood, green ash, hackberry, and eastern red-cedar. Native bur oak woodlands occupy areas on bluffs and in ravines, especially in the eastern part of the ecoregion. Due to fire suppression, many of the oak stands are now heavily invaded by eastern red-cedar and fire-intolerant deciduous trees such as elms and hackberry.
+Wet meadows and wet prairies occur in creek and river floodplains and are dominated by sedges and grasses, including woolly sedge, Emory's sedge, big bluestem, switchgrass, and prairie cordgrass. The state-threatened small white lady's-slipper orchid grows in high-quality meadows in the floodplains of the Loup rivers. Playa wetlands -many of which have been farmed or altered hydrologically -are often dominated by dense stands of narrowleaf and hybrid cattails, river bulrush, and reed canary grass. Annual plants like smartweeds and barnyard grasses are also common in playas.
+
+## Animals
+
+More than 350 species of resident and migratory birds have been documented in the Mixedgrass Prairie Ecoregion. Common grassland birds include grasshopper sparrow, dickcissel, western meadowlark, bobolink, northern bobwhite, field sparrow, northern harrier, and greater prairie-chicken. The Platte River serves as an important stopover for the endangered whooping crane and provides critical spring staging habitat for over 80% of the world's sandhill cranes. In total, more than 300 bird species have been recorded along the Platte River, and 141 are known to nest there. Over two dozen waterfowl species regularly use the Rainwater Basin wetlands during migration, including over one-third of the continent's northern pintails, half of its mallards, and more than 90% of the mid-continent's greater white-fronted geese. Around 300,000 shorebirds, representing over 30 species, use the basins. These include Baird's sandpiper, stilt sandpiper, lesser yellowlegs, and large flocks of buff-breasted sandpipers. Each fall, thousands of Swainson's hawks migrate through the region. Reservoirs like Harlan County and Sherman support large numbers of American white pelicans and Franklin's gulls.
+Small mammals in the region include plains pocket gopher, prairie vole, North American least shrew, and eastern cottontail. Smaller populations of Ord's kangaroo rat, white-tailed jackrabbit, eastern woodrat, and black-tailed prairie dog occur in suitable habitats. White-tailed and mule deer are the most common large mammals, with mule deer more typical in the western grasslands. A small but growing elk herd is found in the loess canyons south of the North Platte River. Aquatic mammals like American beaver, river otter, muskrat, and mink are associated with rivers and streams. The most abundant large predator is the coyote. Other common predators include American badger, bobcat, red fox, raccoon, long-tailed weasel, and striped skunk. Bats commonly found here include the eastern red bat and big brown bat. 100 Nebraska Natural Legacy Project Common river fish include channel catfish, shortnose gar, flathead chub, and river carpsucker. Sportfish such as walleye, northern pike, largemouth bass, white bass, and bluegill have been introduced to reservoirs. Minnows and chubs in prairie streams include speckled chub, blacknose shiner, Topeka shiner, common shiner, northern pearl dace, finescale dace, plains topminnow, and brook stickleback.
+Turtles found in the ecoregion include smooth and spiny softshells, northern painted turtles, and common snapping turtles. Ornate box turtles live in native grasslands, while yellow mud turtles inhabit the Republican River valley. The northern watersnake is the ecoregion's only aquatic snake and is found near permanent water. The prairie rattlesnake is the only venomous snake and is most common on dry upland sites in the west. Other fairly common snakes include bullsnake, eastern yellow-bellied racer, terrestrial gartersnake, and common gartersnake. Western hognose snakes occur in dry, sandy prairies. Rare species include the smooth green snake and red-bellied snake, which can be found in open riparian areas and wet meadows.
+Four lizard species are common in the region. The lesser earless lizard prefers open, sandy soil with sparse vegetation. The six-lined racerunner uses a range of habitats in both uplands and lowlands. The northern prairie lizard favors sandy sites with weeds, brush, or mammal burrows. The Great Plains skink is found in open habitats. The only common salamander is the tiger salamander. The plains spadefoot toad lives in dry grasslands and rarely uses wetlands or river bottoms. Other common amphibians in wet areas include Woodhouse's toad, Great Plains toad, Blanchard's cricket frog, boreal chorus frog, bullfrog, and plains leopard frog.
+Relatively little is known about the ecoregion's invertebrates. The regal fritillary butterfly, though rare elsewhere, is relatively common in the ecoregion's mixed-grass prairies. A large population of the federally endangered American burying beetle also exists here.
+
+## History and Dominant Land Use
+
+The Pawnee were the primary tribe living in the ecoregion at the time of Euro-American settlement. The Pawnee built their first villages in Nebraska in the late 13 th and 14 th centuries along the Platte, Loup, and Republican rivers. Here, they grew corn, squash, beans, and sunflowers in the river bottoms, gathered wild turnips, grapes, plums, acorns, and other native plants, and hunted a variety of game species, including bison, elk, pronghorn, deer, rabbits, and waterfowl.
+Although hundreds of thousands of immigrants traveled through the ecoregion along the Oregon and Mormon trails in the mid-1800s, Euro-American settlement remained sparse until the passage of the Homestead Act and completion of the transcontinental railroad in the 1860s. After initial growth, the ecoregion's population went through cycles of expansion and decline in the late 1800s and early 1900s, often tied to periods of drought. Important early crops in the region included wheat, corn, and alfalfa.
+World War I increased demand for agricultural products and led to the expansion of farming into the drier western part of the ecoregion and, by the 1920s, most of the region's farmable 101 Nebraska Natural Legacy Project land was under cultivation. The depression of the 1930s, combined with severe drought, caused widespread hardship among the ecoregion's residents. Most cropland was not irrigated at the time, and crop yields fell sharply; corn yields dropped from about 24 bushels per acre to just two or three. Grasshopper outbreaks further damaged pastures, and frequent dust storms worsened the situation. The ecoregion's population declined by nearly 20% during the mid-1930s.
+The drought prompted the construction of Kingsley Dam on the North Platte River and other regional dams for irrigation. These irrigation efforts, along with cropping innovations, led to population growth in the ecoregion in the 1940s and 1950s. With the spread of center-pivot irrigation in the mid-1900s, more mixed-grass prairies were converted to cropland. By the early 1970s, the ecoregion's population increased further even though the number of farms had declined. That trend of fewer but larger farms continues today.
+Currently, about two-thirds of the land in the ecoregion is used for cropland and one-third for rangeland. Corn, soybeans, and alfalfa are now the primary crops, and the beef industry remains strong. The populations of smaller towns continue to decline, while larger cities like Grand Island, Kearney, North Platte, and Hastings continue to grow.
+
+## Nature-based Recreation
+
+This ecoregion offers a plethora of outdoor and nature-based recreation opportunities. It is recognized worldwide for premiere wildlife viewing spectacles. Each spring, over a million sandhill cranes stage in south-central Nebraska on their way to breeding grounds as far away as Siberia. Tens of thousands of visitors come to witness this migration. Another popular destination in this region is the 76-mile Niobrara National Scenic River, which offers great kayaking and wildlife watching opportunities.
+
+## Wildlife Viewing
+
+The sandhill crane spring congregation along the Platte River is an incredible experience that attracts wildlife viewers and photographers from around the world. National Audubon's Rowe Sanctuary and the Crane Trust Nature and Visitor Center provide viewing-blind tours and educational programming to thousands of visitors annually. Roadside viewing sites constructed by the Central Platte Natural Resources District provide additional crane-viewing opportunities. Visitors can find a plethora of crane-viewing and tourist information on the helpful Nebraska Flyway website.
+Although less known, the Rainwater Basin hosts outstanding spring waterfowl and shorebird viewing. Each spring, about 7-9 million waterfowl, including more than 3 million geese, stage here while concentrations of more than a million snow and Ross's geese congregate on larger basins. The basins also support 300,000 to over 500,000 shorebirds comprising more than 30 species, including some of the largest buff-breasted sandpiper concentrations. While public lands are abundant, viewing infrastructure is limited to a few sites including a waterfowl 102 Nebraska Natural Legacy Project observation tower at Massie Waterfowl Production Area (WPA) and an accessible blind at the Funk WPA Demonstration Site.
+During winter, bald eagles gather in significant numbers. The Central Nebraska Public Power and Irrigation District's J-2 facility near Lexington offers prime eagle viewing. Harlan County and Sherman Reservoirs also draw wintering and nesting eagles, with over 300 observed at once during winter at Harlan. The large reservoirs also host thousands of migrating American white pelicans and Franklin's gulls. Other unique opportunities include viewing and photographing sharp-tailed grouse and greater prairie-chickens from blinds, like those at Niobrara State Park.
+
+## Trails
+
+Trail systems in the ecoregion are expanding, but opportunities exist for further development.
+The Crane Trust's Nature and Visitor Center and Audubon's Rowe Sanctuary offer trail networks through Platte River habitats. Harlan County Reservoir, Lake Seldom, and WPAs such as Funk, Harvard, and Massie also have trails. Paved hike-bike trails can be accessed at Fort Kearny State Recreation Area (SRA) and throughout the city of Kearney. Many large towns also have trail systems tied to parks that offer access to natural settings. Long Pine SRA is somewhat of an outlier as it sits on the edge of the Sandhills Biologically Unique Ecoregion but offers natural surface trails through woodland habitat and access to the meandering, spring-fed, Long Pine Creek. Further west, the Cowboy Trail features a 145-foot-high bridge overlooking the creek, offering scenic views of the valley.
+The Republican River below Harlan County Dam, Cedar and Platte rivers are used by canoeists and kayakers, although access points, outfitters, and seasonal water levels can be limiting. The northern region's Niobrara National Scenic River remains a highlight for paddling and tubing. The river attracts over 80,000 floaters annually, many stopping at Smith Falls State Park. Outfitters near Valentine rent kayaks, canoes, and inner tubes. Smith Falls features an accessible boardwalk and viewing platform to Nebraska's tallest waterfall.
+
+## Fishing
+
+Anglers take to the ecoregion's reservoirs in search of walleye, largemouth bass, catfish, white bass, and bluegill. Popular fishing locations include Harlan County, Sherman County, Johnson Lake, and Swanson reservoirs. Harlan County Reservoir is known for its trophy-sized hybrid striped bass and frequently ranks among the state's top providers for master angler awards. Grove Lake Wildlife Management Area (WMA) offers seasonal trout fishing opportunities. Publicly owned sandpits offer quality fishing by shore or boat, and rivers and streams provide catfishing opportunities. West of Highway 81, bullfrog angling is available year-round.
+
+## Hunting
+
+There is a strong tradition of hunting in the ecoregion. More than 100,000 Canada geese winter along the Platte River, making it a top goose hunting destination. The Rainwater Basin wetlands provide ample, quality public waterfowl hunting sites. Snow goose conservation hunts draw many hunters in late winter and early spring. White-tailed deer hunting is popular across the ecoregion, especially along riparian corridors such as the Platte, Republican, and Loup rivers.
+103 Nebraska Natural Legacy Project Hunters can also harvest mule deer, though population declines have reduced their range to the western third of the ecoregion. Hunting opportunities also include pheasant, quail, turkey, prairie-chicken, and rabbit. Mountain lion hunting is permitted along the Middle Niobrara River.
+
+## Challenges
+
+Additional collaborations with business, economic development, and agriculture stakeholders is essential in planning, promoting, and developing wildlife tourism. For example, the Nebraska Flyway, a group of tourism professionals, successfully promotes sandhill crane viewing and prairie grouse tours every spring. However, beyond these spring birding attractions, other recreational opportunities receive limited promotion.
+While the region offers outstanding nature-based experiences, access can be limited or poorly marked. Interpretive signage is sparse and promotion of these opportunities is minimal. For example, the Rainwater Basin is an important stopover location for migratory waterfowl and shorebirds, yet the area lacks sufficient viewing infrastructure and interpretive information at the sites. To fully realize the potential of nature-based recreation in the region, communities need more individuals knowledgeable in outdoor recreation to help raise awareness and inform planning. Enhanced outreach, infrastructure, and engagement efforts are essential to ensuring long-term enjoyment and support for conserving these natural resources.
+
+## Education
+
+Nebraska's Mixed-grass Prairie Ecoregion boasts numerous successful environmental education initiatives. Public access Demonstration Sites like Niobrara State Park, The Nature Conservancy's Niobrara Valley Preserve, and The Crane Trust offer excellent opportunities for expanding educational outreach. Proposed park facilities and an education center in the region will further enhance these efforts.
+Programs such as Prairie Plains Resource Institute's "Summer Orientation About Rivers," Tri-Basin NRD's "Conservation Day," and Rowe Sanctuary's youth engagement programs have introduced thousands of students to Nebraska's diverse natural world. Additionally, the Cooperative Extension supports agricultural producers and post-secondary educators with curricula that emphasize techniques compatible with conservation and agricultural practices.
+To sustain and expand environmental education in this region, increased resources, broader outreach, and stronger partnerships are needed. Programs should engage diverse groupsincluding students, adults, and underserved communities -through both formal and nonformal education. Partnering with Educational Service Units (ESUs) can help integrate conservation education into school curricula, while hands-on learning experiences like the Kearney Outdoor Learning Area (KOLA) enrich science education.
+While existing programs have been impactful, more infrastructure, staffing, and funding are required to meet the region's educational goals. As technology and urbanization increase, it becomes increasingly difficult to connect people with nature, requiring innovative strategies to keep audiences engaged. By supporting local champions, expanding public access, and 104 Nebraska Natural Legacy Project addressing cultural and economic barriers, we can inspire deeper connections with the natural world.
+
+## Representative species with educational and community science opportunities:
+
+• Plains Spadefoot (Spea bombifrons)
+• Purple Coneflower (Echinacea angustifolia)
+• Dung Beetle (Melanocanthon nigricornis)
+• Prairie Rattlesnake (Crotalus viridis)
+
+## Ecoregion-specific Stresses
+
+## Key stresses
+
+In addition to the stresses and conservation actions identified in this chapter for the Mixedgrass Prairie Ecoregion, statewide concerns are identified in Chapter Four. Conservation practitioners identified the following stresses as the top threats in the ecoregion.
+Altered frequency and intensity of fire, grazing, and other natural disturbances: Mixed-grass prairie, wetland, and forest habitats in the ecoregion were maintained historically by periodic flooding, fires, and grazing. The interaction of effects from these disturbances promoted structural heterogeneity and floristic diversity. Decreased fire frequency has resulted in the degradation of prairie remnants by invasive species, including eastern red-cedar, and in a decline in grassland vigor. The proliferation of deciduous trees and shrubs, some of which are fire resistant, in grassland habitats also threatens native herbaceous plant diversity. Grazing systems that do not prioritize heterogeneity often result in a loss of biodiversity and ecological function. Historically, grazing patterns were likely driven in part by fire occurrences. Today, opportunities for fire and ecologically sensitive grazing are increasing in this ecoregion, but they are still under realized. Limited awareness about the region's biological diversity and ecological processes: Many residents have a desire to increase their knowledge and understanding of ecological processes and management that can help maintain biological diversity, but educational resources are often not available. Funding and collaboration among conservation agencies are essential to develop and implement relevant environmental education opportunities about native ecosystems and best management practices for conserving them. There is a lack of trusted advisors and community ambassadors that can provide peer-to-peer learning opportunities and share their experiences and knowledge about the financial relevance of ecosystem conservation. Increases in nonresident landowners and younger residents will require the use of new communication channels such as realtors, bankers, and social media to deliver informational materials. Additionally, there is little school curriculum that teaches students about Nebraska's native species, habitats, and conservation issues. Although the region's remaining native grasslands, woodlands, and wetlands are unique and of high value, many of the ecoregion's residents have limited awareness of the importance of these habitats to biological diversity.
+Alteration of hydrology, channel degradation, and sedimentation of rivers, streams, and wetlands: Historically, rivers in this region including the Platte and Republican rivers experienced spikes in flows during the spring and early summer. These spikes caused large-scale sediment movement and prevented the establishment of perennial vegetation on sandbars, islands, and accretion ground. However, dams and other diversions have reduced the flow of sediment and confined natural movement of streams and rivers, contributing to channelization. Meanwhile, the loss of Spencer Dam on the Niobrara River in 2019 coupled with flooding caused by large rain events have changed the hydrology of the river. Groundwater and surface water withdrawals and storage in upstream reservoirs have significantly reduced flow peaks and caused water tables adjacent to rivers to decline, affecting animal and plant diversity and abundance. Many of the ecoregion's streams now go dry; reduced inflows, stream channelization, and bank stabilization projects have altered natural geomorphic and hydrologic processes. Increased woody encroachment has also reduced stream flow. Changes to the historical natural flows have caused native mussel declines and reduced habitat available to fish and other species. Structures like dams and improperly sized culverts limit native fish and other aquatic species movement. Increasing and continuing communication and collaboration with counties on how to build fish-friendly culverts and other fish-movement structures that facilitate movement and maintain connectivity of populations in small streams. The potential for interbasin water transfer could negatively impact wetlands in the region.
+The proximity of urban development, construction sites, and annual row-crop fields to rivers, streams, and wetlands has resulted in large volumes of sediment entering the ecoregion's water bodies. Fewer cover crops are planted to hold soil over winter. Sedimentation increases stream turbidity and changes bottom substrates. Increased sedimentation of wetlands alters storage capacity and changes plant composition, reducing habitat available to aquatic species including waterfowl. There is limited Nebraska Natural Legacy Project awareness of the grassland buffer program and the importance of riparian buffers. Additionally, there are inadequate technical and financial incentives available to encourage the preservation of riparian buffers, especially next to crop fields where soil erosion and nutrient and chemical runoff are more prevalent. Along the Platte River, dams and altered hydrology have prevented the natural flow of sedimentation that is essential for creating shallow braided streams and rivers that attract sandhill cranes and endangered whooping cranes during their spring migration. Here, an increase in sedimentation is needed to more accurately represent the historical flow regime.
+Conversion and fragmentation of natural habitats: Most of the ecoregion's level, productive soils have already been converted to crop fields. However, center pivots have made conversion of steeper prairie sites more feasible to farm resulting in the conversion of thousands of additional acres of native prairie. Increased farming efficiency has also led to loss of non-cropped corridors between habitats and decreased resources for pollinators and other wildlife. Natural wetlands in the area continue to face drainage pressures due to agriculture. Decreases in crop diversity have also furthered the impact of agriculture on wildlife. Urban sprawl into peripheral intact habitats and riparian areas is accelerating conversion and fragmentation as well.
+Loss of natural areas because of local economics: Economic pressures are changing ownership patterns in this ecoregion. This may affect management decisions and stewardship of the land's natural resources. Conversion of remnant areas for agricultural purposes, development of agricultural areas for housing, and subdivision of large, grazed areas for recreational land use are potential sources of loss. Such changes result in increased fragmentation and loss of biodiversity. An increase in nonresident landownership, nonoperating landowners, and recreational landownership may make connections to local communities, economies, and information about conservation incentives less accessible.
+Loss of lands enrolled in conservation programs: Lands enrolled in conservation programs, such as the Conservation Reserve Program (CRP), provide significant benefits to wildlife, including at-risk species. Shifting agricultural economics and programmatic challenges may result in large tracts of conservation lands being converted to agricultural cropland. Retention of previously enrolled acres in programs, such as General and Continuous CRP, is vital to ensure that the benefits of these programs for local economies and wildlife populations persist. Placement of Grassland CRP in areas prone to conversion or implemented in a way to provide and manage habitat for targeted wildlife benefits will also be key to ensure benefits of the program are realized. The loss of even a modest percentage of these lands will result in impacts to terrestrial and aquatic species.
+Poorly sited utility-scale energy infrastructure: Utility-scale energy infrastructure development (e.g., solar farms, wind turbines, Co2 sequestration plant and pipelines, fracking waste, power lines) is expanding in the Great Plains. To conserve biodiversity in the ecoregion, it is important to carefully consider the energy infrastructure location and the associated transmission lines and pipelines in order to minimize negative impacts to wildlife and native habitats. Poorly sited energy infrastructure can fragment intact ecosystems, Nebraska Natural Legacy Project negatively impact important migratory corridors, harm migratory birds and bats, and disturb wildlife. Focus on siting energy infrastructure in already disturbed areas (e.g., cultivated lands, old railway/road corridors). Encourage companies to temporarily halt turbines during peak migration periods for bats and birds. Pre-and post-construction monitoring should be implemented. See Game and Parks' Environmental Review (Visit OutdoorNebraska.gov and search for Environmental Review) and TNC's Site Renewables Right (Search The Nature Conservancy Site Renewables Right: A Clean and Green Energy Future) webpages for guidelines.
+Wetland and wet meadow drainage: Past and current drainage of many of the ecoregion's playa wetlands, wet meadows, and riverine wetlands continues to impact wetland-dependent species. Temporary and seasonal wetlands were perhaps the most common wetland types historically but proportionally few have been restored. As the groundwater table becomes lower, it becomes harder to restore wetlands. Invasive species and woody encroachment are also negatively impacting wetlands and reducing habitat availability for native species.
+Need for greater collaboration between the agricultural and conservation communities: Past contention between the agriculture and conservation communities on issues related to water and threatened and endangered species have sometimes left deep divisions. Although there is often common ground on many issues related to conserving biological diversity, there remains some lack of trust and resolve to collaborate on issues important to all stakeholders. Staff turnover at conservation agencies has made it difficult to build meaningful relationships and has contributed to the lack of trust and communication with the agricultural communities. Opportunities exist to merge firsthand knowledge of the land with newly developed conservation practices that benefit producers and ecosystems alike. While progress is being made, there is still a need for improved communication with agricultural communities about current and changing contracts and their impacts on agricultural and conservation communities.
+
+## Primary Invasive Plant Species by Habitat Type
+
+Note: This list highlights key invasive species of concern in the Mixed-grass Ecoregion and is not exhaustive. 
+
+## Habitat Type Invasive Plant Species
+
+## Upland
+
+## Biologically Unique Landscapes of the Mixed-grass Prairie Ecoregion
+
+A goal of the Nebraska Natural Legacy Project is to identify priority landscapes that, if properly managed, would conserve the majority of the state's biological diversity. These landscapes, referred to as Biologically Unique Landscapes (BULs), were selected based on the occurrences of at-risk species and natural communities. See Chapter 3 for a description of the methods used to select the landscapes.
+The map shows the BULs for the Mixed-grass Prairie Ecoregion. Following the map are brief descriptions of each BUL including stresses affecting species and habitats, proposed conservation actions, and natural communities found in the landscape.
+In the Mixed-grass Prairie Ecoregion, some BULs are truncated by the Nebraska state boundary. We suggest opportunities for wildlife conservation in these areas based on review of corresponding adjacent state wildlife action plans (SWAP).
+
+## Mixed-grass Prairie Biologically Unique Landscapes
+
+• Central Loess Hills 
+
+## Demonstration Sites of the Mixed-grass Prairie Ecoregion
+
+Demonstration sites are locations across the state with potential for showcasing conservation projects and the results of sustainable management to the public. They provide opportunities for learning about the site's unique qualities and importance to at-risk species. See Chapter 4 for information on selecting demonstration sites. The Mixed-grass Prairie Ecoregion map shows the location of demonstration sites in the area. Descriptions of each site are found in the write-up for the BUL in which the site is found, except for the Niobrara State Park description which can be found in the Middle Niobrara BUL write-up in Chapter 7 -Sandhills Biologically Unique Ecoregion. The Gjerloff Prairie site serves as a representative site of the Mixed-grass Prairie Ecoregion, and its description is provided here.
+
+## Site
+
+## Gjerloff Prairie -Prairie Plains Resource Institute
+
+Gjerloff Prairie is managed by Prairie Plains Resource Institute and serves as an excellent example of the loess hills prairie, historically found throughout the Mixed-grass Prairie Ecoregion. The preserve is 390 acres and is managed using a combination of grazing, prescribed fire and tree removal. Management here supports a rich diversity of native flora, the seeds of which are harvested and used in restoration projects statewide.
+There are publicly accessible hiking trails through the prairie along which Species of Greatest Conservation Need (SGCN) such as the southern plains bumble bee, wild indigo duskywing, regal fritillary, and wooly milkweed can be seen. Prairie Plains provides summer programming for school children and hosts community events focused on prairies.
+111 Nebraska Natural Legacy Project
+
+## Central Loess Hills
+
+## Biologically Unique Landscape Description
+
+This landscape occupies the loess hills region of central Nebraska. It consists of rolling to steep hills formed from wind-deposited loess. The valleys of the Loup rivers dissect the loess hills. The hills now form a mosaic of loess mixed-grass prairie and cropland. Over a century of livestock grazing, along with invasion by non-native plants and widespread herbicide use, has greatly changed the plant species composition and overall biodiversity of the prairie. The level tablelands in this landscape contain playa wetlands, which are used by whooping cranes and many other waterbirds during migration.
+
+## Natural Legacy Demonstration Site
+
+## Pressey Wildlife Management Area -Nebraska Game and Parks Commission
+
+Pressey WMA is located five miles north of Oconto in Custer County. The area encompasses 1,700 acres of diverse habitats, which include mixed-grass prairie, warmseason grasslands, croplands, subirrigated native grasslands, wetlands, and riparian woodlands associated with the South Loup River. Habitat management activities utilized on the area are patch-burn grazing, prescribed fire, food plot management, early successional management, timber stand improvement, and removal of invasive trees and shrubs. Pressey WMA also hosts the High School Silhouette Shoot on an annual basis.
+
+## Stresses Affecting Species and Habitats
+
+• Specific livestock grazing and haying practices that may reduce native plant diversity and promote uniform habitat structure. • Invasive plant species in upland prairies, meadows, and woodlands, including eastern red-cedar and smooth brome. • Broadcast herbicide application to prairies.
+• Lack of best management and sustainable logging practices for native woodlands. Highgrade logging, especially harvest of mature trees, reduces age-class diversity of native woodlands. Oak blight and other tree diseases affecting woodlands. • Limited prescribed fire on the landscape and interruption of natural fire frequency leading to increased tree and shrub densities, primarily eastern red-cedar, litter accumulation, and exotic plant invasion. Shelter belts are a seed bank and can lead to the expansion of woody encroachment into the prairies. • Increased sedimentation and nutrients in streams and drainage of playa wetlands.
+• Reduced stream flows.
+• Conversion of grasslands to cropland.
+• Housing and ranchette development.
+• Infrastructure development (e.g., energy infrastructure development).
+112 Nebraska Natural Legacy Project
+• Limited awareness of management practices to improve prairie and woodland habitats and to manage invasive species.
+
+## Conservation Strategies
+
+• Implement planned grazing and haying strategies on private lands, in combination with prescribed fire and rest, to improve native plant diversity and vigor and reduce exotic grass dominance. • Develop and implement best management practices to control, manage, and remove invasive plants.
+• Seek and implement methods to control noxious and other invasive species that do not require broadcast spraying of grasslands. • Implement prescribed burns in native woodlands to enhance woodland structure, floral composition, and oak regeneration on public and adjacent private lands. Implement forest stand improvements on public and private lands for oak regeneration. Develop and implement practices to combat oak blight and other tree diseases. • Increase tree thinning, removal of unused shelter belts, and use of prescribed fire to reduce cedar and other woody species from encroaching into prairies. Continue to enhance efforts to educate landowners about the benefits and practices of prescribed burns. Offer trainings to increase their comfort level and awareness of the needs for prescribed burn plans and permits to address both safety and liability concerns. 
+
+## Central Platte River
+
+## Biologically Unique Landscape Description
+
+This BUL includes the Platte River channel and its floodplain, stretching from central Dawson County eastward to central Hamilton County. Before Euro-American settlement, the Platte River flooded annually from snowmelt from the Rocky Mountains. These floods maintained an open, sandy, braided channel that was several miles wide. Wet meadows and lowland tallgrass prairie then dominated the wide valley, while woodlands were mostly limited to some fireprotected islands.
+Settlement and upstream water development have greatly changed the central Platte River system. Floods and stream flows are now much reduced, and former channels and stream banks have been invaded by trees, mainly cottonwoods and eastern red-cedar. Sandpits are now common along the river, and many are surrounded by housing developments, further fragmenting the valley. Most of the river floodplain is now cropland, though scattered wet meadows and patches of lowland tallgrass prairie still remain. Sand dunes, originating from river alluvium, occur on the south side of the river in some areas.
+The spring staging of sandhill cranes on the central Platte River is a world-renowned event. Each spring, more than a million cranes gather here, roosting at scattered sites and foraging in nearby crop fields and grasslands. The loss of staging habitat along the Platte is a serious threat 114 Nebraska Natural Legacy Project to the mid-continental crane population. The river is also a key stopover site for migrating waterfowl and shorebirds along the Central Flyway. Several federally listed species are found along the central Platte, including the whooping crane, interior least tern, and piping plover. The stretch of river between Lexington and Shelton has been designated by the U.S. Fish and Wildlife Service as critical habitat for whooping cranes. The Crane Trust, the National Audubon Society, the Platte River Recovery Implementation Program, The Nature Conservancy, and the Game and Parks own and manage many protected areas within this BUL.
+
+## Natural Legacy Demonstration Sites
+
+## Crane Trust -Crane Trust, Inc.
+
+The Crane Trust is an area of over 6,000 acres located in south-central Nebraska. The property contains grassland, woodland, and wetland habitat. In fact, the Crane Trust owns the largest complex of remnant wet meadow and lowland tallgrass prairie habitat (Mormon Island, 1,807 acres) remaining in the Central Platte River valley. This area is critical to migratory birds including sandhill cranes and the endangered whooping crane. Management of Crane Trust properties includes grazing, haying, mowing, spraying, and prescribed burning. The Crane Trust prides itself in the maintenance of river habitat through disking accretions and sandbars along the Platte River to improve river conditions for use by cranes. Additionally, the Crane Trust maintains a bison herd of more than 100 individuals. Outreach events at the Crane Trust include tours during the spring crane migration, regular education events, a public speaker series, and virtual programs.
+
+## Platte River Prairies -The Nature Conservancy
+
+Platte River Prairies (PRP) consists of approximately 4,000 acres scattered along a 13mile stretch of the central Platte River owned by the Nature Conservancy. Habitats include wet, mesic and sandhills prairie, riparian woodlands, riverine habitat, and a variety of wetlands. The Conservancy uses cattle grazing, combined with prescribed fire and haying to manage for habitat heterogeneity in the grassland habitats. More than 1,000 acres of the Platte River Prairies are former cropland restored to diverse prairie using seed mixes containing between 150 and 200 plant species. PRP hosts many research projects, conducted by Conservancy staff and collaborating universities. In addition, most of the land stewardship and restoration work is designed to develop, test, and demonstrate a wide variety of approaches. Research and experimentation results are showcased during frequent habitat workshops for land managers and habitat advisors from across Nebraska, as well as through broader communication methods. Two public hiking trails are available, allowing the public to explore more than 300 acres of prairie near the Conservancy's Field Headquarters. In addition, PRP hosts a public field day each summer, geared toward families and nature enthusiasts.
+115 Nebraska Natural Legacy Project
+
+## Rowe Sanctuary -National Audubon Society
+
+Rowe Sanctuary is operated by the National Audubon Society and protects 3,000 acres along the Platte River. It is dedicated to the conservation of sandhill cranes, whooping cranes and other migratory birds and their habitats. Sanctuary habitats include riverine braided channels, slough wetlands, riparian woodlands, and grassland ecosystems. Adaptive management practices are used to promote ecosystem health, including prescribed fire, grazing, chemical and mechanical treatment for invasive species, as well as other management tools. The Iain Nicolson Audubon Center is located on the Sanctuary and provides educational exhibits, accessible walkways and trails. The building and trails are open to the public at no cost during posted hours. Rowe Sanctuary operates a thriving education program, offering programs to the public, field trips for school children, and education for visitors who come from all 50 states and internationally.
+
+## Stresses Affecting Species and Habitats
+
+• Specific livestock grazing and haying practices that may reduce native plant diversity and promote uniform habitat structure. • Invasive plant species in sandbars, meadows and woodlands.
+• Eastern red-cedar, and other nuisance shrub and tree encroachment of river sandbars, woodlands, uplands and meadows. • Altered natural hydrology, particularly lack of periodic pulse flows and reduced sediment transport to maintain sandbars and fish habitat and to prevent channel degradation and incision.
+• Sedimentation and drainage of backwater sloughs.
+• Stabilization of aquifer and ground water level issues along upper stretches of river.
+• Past conversion of wet meadows to cropland.
+• Continued cabin and home development on the Platte River that results in bank protection, armoring and stabilization. • Inconsistent zoning setbacks that result in bank destabilization and development in sensitive areas. • Sand-and gravel-mining development, which eliminates native meadows, woodlands, and river channels, and new mining practices that reduce the available piping plover nesting habitat. • Limited applied science, including research, assessment, and monitoring.
+• Excessive recreational use of river (e.g., boats, ATVs), which disturbs tern and plover nesting and other wildlife.
+
+## Conservation Strategies
+
+• Implement planned grazing strategies on private and public lands, in combination with prescribed fire and rest, to improve native plant diversity and reduce exotic grass dominance. Nebraska Natural Legacy Project
+• Implement best management practices to control and manage invasive plant species and work with landowners to identify site-specific management. • Undertake eastern red-cedar and other tree clearing to maintain open meadow habitat for sandhill and whooping crane migration and for breeding grassland birds. Maintain programs to control invasive species. Expand shrub and herbaceous vegetation clearing on the river sandbars for waterbird roosting and loafing habitat and to increase water connectivity. • Restore and/or maintain components of the Platte River hydrology that are necessary to sustain biological diversity and ecosystem function.
+• Facilitate sediment augmentation and bank stabilization to restore the river channel.
+• Restore wetland hydrology and connect backwater habitats to the river.
+• Restore additional grassland habitat in the valley on private and public lands, with a priority on grassland habitat connectivity, through high-diversity, local ecotype restorations, and landowner collaboration. • Acquire through voluntary fee title acquisition or place conservation easements on undeveloped reaches of the river, wet meadows, and woodlands to protect them from development. Encourage and implement zoning setbacks and ordinance to reduce habitat fragmentation and address bank stabilization along the river. • Develop best management practices for bridge construction and direct to environmental review teams. Update utilities, like burying power lines, to be more wildlife friendly. • Work with sand and gravel companies to site gravel pits away from ecologically sensitive areas of the floodplain and to restore sandpits to wetland communities once mining is completed.
+• Implement research, monitoring, and inventory projects to track status and trends of SGCN and to determine best management practices. • Provide outreach and communication about responsible recreation to minimize impacts to SGCN (e.g., nesting piping plovers) and their habitats. Increase signage and outreach at public access sites about the SGCN and invasive species that can hitch a ride on recreational equipment. 
+
+## Keya Paha
+
+## Biologically Unique Landscape Description
+
+This landscape covers the watershed of the Keya Paha River in Keya Paha and Boyd counties.
+The watershed is mainly a mix of cropland and mixed-grass prairie. The Keya Paha River has a deep and narrow floodplain dominated by wet meadows, cottonwood woodlands, and cropland. Bur oak woodlands grow on the bluffs and in the deeply cut lower valleys of many of its tributaries. The broad upper valleys of these tributaries often contain extensive areas of wet meadow. The state-threatened small white lady's-slipper occasionally grows in these meadows.
+The river has many cold-water tributaries that support several rare fish species, including the northern pearl dace, finescale dace, northern redbelly dace, and blacknose shiner. A population of the federally and state-threatened American burying beetle also occurs in this landscape. Holt Creek WMA is a protected area within this landscape.
+
+## Stresses Affecting Species and Habitats
+
+• Specific livestock grazing and haying practices that may reduce native plant diversity and promote uniform habitat structure. • Invasive plants species in meadows, upland prairies and woodlands.
+• Lack of best management and sustainable logging practices for native woodlands. Highgrade logging, especially harvest of mature trees reduces age-class diversity of native woodlands. Oak blight and other tree diseases affecting woodlands. • Limited prescribed fire on the landscape.
+• Modification of headwater streams in wet meadows through ditching, channelization, and large rain events and flooding. Nebraska Natural Legacy Project
+• Increased erosion, sedimentation and nutrients in streams.
+• Reduced stream flows in tributaries.
+• In-stream structures (e.g., culverts, dams) that obstruct native fish movement.
+• Conversion of grasslands to cropland.
+• Infrastructure development (e.g., energy infrastructure development).
+• Human-induced eradication of entire prairie dog colonies or the spread of diseases within prairie dog populations that can rapidly decimate an entire colony. • Limited awareness of management practices to improve prairie and woodland habitats and to manage invasive species.
+
+## Conservation Strategies
+
+• Implement planned grazing and haying strategies on wet meadows and upland prairies on private and public lands, in combination with prescribed fire and rest. 
+
+## Loess Canyons
+
+## Biologically Unique Landscape Description
+
+This landscape consists of steep loess hills and canyons south of the Platte River in Lincoln, Dawson, and northern Frontier counties. These hills support loess mixed-grass prairie with only scattered cropland on more level areas. Steeper areas of the landscape support higher-quality prairie due to limited access for cattle, while the prairie on gentler slopes is of lower quality. Due to the lack of wildfire, eastern red-cedars have heavily invaded the landscape, forming dense stands in many areas. The landscape contains no rivers or large streams. This BUL contains one of the largest populations of the federally and state-endangered American burying beetle. This landscape contains few protected areas, the largest being the Wapiti WMA. 
+
+## Cedar Valley Wildlife Management Area -Nebraska Game and Parks Commission
+
+Cedar Valley WMA encompasses 880 acres in southern Lincoln County, 1.5 miles southeast of Wellfleet. Approximately 180 acres of the WMA consists of the Medicine Creek bottom and associated floodplain. Eighty-three acres were historically farmland and have been replanted to native prairie and shrubs or are being cultivated as food plots. The remainder of the property is mixed-grass prairie and cedar-covered canyons. A small prairie dog town is located near the center of the property. Prescribed fire, mechanical removal, and herbicide treatments are being used to combat invasive woody species. Invasive cool-season grasses are actively managed with grazing, prescribed fire, and herbicide. Eleven American plum shrub thickets have been established over the years. Aggressive, perennial wetland vegetation is occasionally sprayed with herbicide to set back succession. Disking is also used on the formerly farmed areas to reduce the amount of grass and to promote forb growth. Cattle grazing and prescribed fire are used to mimic historic disturbances and promote floristic diversity.
+
+## Stresses Affecting Species and Habitats
+
+• Specific livestock grazing and haying practices that may reduce native plant diversity and promote uniform habitat structure. • Invasive plants species in upland prairies, primarily eastern red-cedar and exotic coolseason grasses. • Broadcast herbicide application to prairies.
+• Light pollution from acreage developments, which impacts the American burying beetle.
+• Energy infrastructure development (e.g., wind, solar).
+• Limited awareness among absentee landowners about integrated, large-scale land management practices to improve the prairies for wildlife, grazing, and recreation.
+
+## Conservation Strategies
+
+• Implement planned grazing strategies on private lands to reduce exotic cool-season grasses and improve native plant diversity and vigor. • Increase the use of prescribed fire and invasive tree cutting on public and private lands to reduce eastern red-cedar, improve native plant diversity, and improve grassland wildlife habitat. • Seek and implement methods to control invasive species that do not require broadcast spraying of grasslands. • Promote use of responsible outdoor lighting that will not interfere with American burying beetle habits. • Work with companies and agencies to select sites for development that minimize fragmentation and impacts to wildlife. Nebraska Natural Legacy Project
+• Continue to implement integrated public and private lands management. For example, work with private landowners with properties bordering public lands to manage larger habitat blocks. • Work with partners to offer educational programs and landowner workshops to encourage peer-to-peer learning and increase awareness about collaborative conservation strategies and practices that improve habitats and their benefits. • Offer trainings for identifying and treating invasive species. 
+
+## Lower Loup Rivers
+
+## Biologically Unique Landscape Description
+
+This BUL includes the lower reaches of the Middle Loup River (from north-central Custer County southeastward), the North Loup River (from southwest Garfield County southeastward), and the Loup River from its origin to the Nance County and Platte County line. The landscape includes the rivers' channels and a two-mile buffer on each side. Within the BULs, the rivers are medium-sized, with braided, sandy, and mostly shallow channels. Sandbars and wooded islands are common.
+The North Loup's flows have been altered by the upstream Taylor Dam and irrigation diversions, while the Middle Loup and Loup rivers have been modified by several water diversions. Although somewhat altered, the Loup rivers still maintain a fairly steady year-round flow due to groundwater discharge in their upper reaches in the Sandhills.
+The valley bottoms are mainly cropland, though large areas still support cottonwood woodlands, wet meadows, and marshes. The valley bluffs are mostly shallow-sloped and covered with mixed-grass prairie, with bur oak woodlands in the steeper areas and ravines.
+Sandbars on the lower reaches of the Loup River support nesting colonies of the federally and state-threatened piping plover and the state-threatened interior least tern. The endangered whooping crane uses sandbars and wet meadows in the Loup floodplains as migration stopover 122 Nebraska Natural Legacy Project habitat. Nebraska's most extensive populations of the state-threatened small white lady'sslipper occur in the Middle Loup River's floodplain meadows. Some protected areas in this BUL include the Don Dworak, George Syas, and Leonard Koziol WMAs.
+
+## Stresses Affecting Species and Habitats
+
+• Specific livestock grazing and haying practices that may reduce native plant diversity and promote uniform habitat structure. • Invasive plant species in sandbars, meadows and woodlands.
+• Proliferation of eastern red-cedar, Russian olive, and other invasive woody species in river sandbars, woodlands and meadows. • Water diversions.
+• Bank stabilization.
+• Drainage and sedimentation of wetlands.
+• Point and nonpoint source pollution, including nutrient loading into the river from adjacent livestock confinements. • Altered hydrology, extreme weather events, and in-stream structures (e.g., culverts) that obstruct fish movement. • Wet meadow and sand prairie conversion to cropland.
+• Continued cabin and home development on riverbanks.
+• Limited applied science, including research, assessment, and monitoring.
+• Excessive use of recreational vehicles and boats causing damage to habitat.
+
+## Conservation Strategies
+
+• Implement ecologically sensitive grazing strategies on wet meadows on both private and public lands, in combination with prescribed fire and rest. • Continue to refine and implement best management practices to control and manage invasive plant communities. • Implement invasive tree clearing projects on privately owned meadows, prairies and woodlands. • Restore and/or maintain river and stream hydrology necessary to sustain biological diversity and ecosystem function. • Restore wetland hydrology and connect backwater habitats to the river.
+• Create and maintain natural buffers around riparian areas to reduce sedimentation and filter chemical runoff. Site livestock confinements away from sensitive habitats and watersheds.
+• Work with counties to properly size and set culverts that facilitate native fish movement in small streams and promote stream connectivity. Find ways to ensure that in-stream structures allow for native aquatic organism movement (e.g., fish ladders), especially when culverts get washed out. Continue to innovate low-cost fish passage structures.
+123 Nebraska Natural Legacy Project
+• Coordinate with landowners interested in using conservation programs and voluntary acquisitions to protect undeveloped reaches of the river, wet meadows, and woodlands from development.
+• Encourage and implement zoning ordinances and setbacks to address development to minimize habitat fragmentation and impacts to wildlife and address bank stabilization along the river. • Implement research, monitoring, and inventory projects to track status and trends of SGCN and to determine best management practices. • Provide outreach and communication about responsible recreation to minimize impacts to SGCN (e.g., nesting piping plovers) and their habitats. Increase signage and outreach at public access sites about the SGCN and invasive species that can hitch a ride on recreational equipment. 
+
+## Platte Confluence
+
+## Biologically Unique Landscape Description
+
+This BUL includes the channels and valleys of the South Platte and North Platte rivers, as well as the narrow strip of uplands between them in Keith and Lincoln counties, just before they merge to form the Platte River. The BUL also includes a small area of Sandhills north of the North Platte River.
+Before Euro-American settlement, these rivers experienced annual spring floods from mountain snowmelt. The flooding maintained wide, shallow, and braided channels that were nearly treeless. The river's broad valleys were subirrigated and supported extensive wet meadow and lowland prairie complexes. Starting in the early 1900s, construction of upstream dams and water development greatly changed the flow, flooding, and morphology of the North and South Platte rivers. Their once-open channels have become choked with trees, mainly cottonwoods, Russian olive, and eastern red-cedar and much of the floodplain is now cropped. However, wet meadows and open sandbars remain more common along this stretch of river than in other parts of western Nebraska and sandhill cranes use these open habitats for spring staging.
+Whitetail, Birdwood, and White Horse creeks begin in the Sandhills north of the North Platte and flow south into the river. In their upper reaches, these creeks are cold-water streams that flow through meadow complexes and support several rare fish species, including the northern redbelly dace and finescale dace. Many at-risk trumpeter swans winter along these streams, feeding on submergent aquatic plants. There are no protected areas within this landscape.
+
+## Stresses affecting Species and Habitats
+
+• Specific livestock grazing and haying practices that may reduce native plant diversity and promote uniform habitat structure. • Invasive plant species in sandbars, meadows and woodlands.
+• Proliferation of eastern red-cedar, Russian olive, and other invasive woody species in river sandbars, woodlands and meadows. • Altered natural hydrology, particularly lack of high spring flows, low summer flows, and reduced sediment transport to maintain sandbars and fish habitat and to prevent channel degradation. • Sedimentation and drainage of backwater sloughs.
+• Conversion of wet meadows to cropland and housing development.
+• Infrastructure development (e.g., roads, homes, feedlots).
+
+## Conservation Strategies
+
+• Implement planned grazing strategies on wet meadows and riparian grasslands on both private and public lands, in combination with prescribed fire and rest, to improve native plant diversity and vigor and reduce exotic grass dominance.
+125 Nebraska Natural Legacy Project
+• Implement best management practices to control, manage and remove invasive plants.
+Expand shrub and herbaceous vegetation clearing along river channels and on sandbars for waterbird roosting and loafing habitat. 
+
+## Rainwater Basin
+
+## Biologically Unique Landscape Description
+
+This BUL occupies all or parts of 17 counties in south-central Nebraska. The topography is a flatto-gently-rolling loess plain. Prior to Euro-American settlement, the uplands of the region supported loess mixed-grass prairie. Soil survey maps from the early 1900s indicate that roughly 11,000 playas, covering about 200,000 acres, were scattered across the prairie-covered plain. These included temporary, seasonal, and semi-permanent wetlands.
+By the early 20th century, most uplands in the landscape had been converted to cropland, and by the 1980s, most wetlands had been drained or filled. Today, fewer than 20% of the historical playa wetlands remain and these make up less than one percent of the entire landscape (approximately 40,000 acres). It is likely that nearly all playas in the landscape have been farmed at some point since settlement.
+The Rainwater Basin playas are internationally recognized as a significant migratory bird area. They are a concentration point in the Central Flyway for an estimated 8.6 million waterfowl and 500,000 shorebirds during spring migration, along with whooping cranes, raptors, and other bird species. It is estimated that nearly the entire North American population of buff-breasted sandpipers stages in the eastern basins during spring migration. For these reasons, the Rainwater Basin is recognized as a landscape of hemispheric importance by the Western Hemisphere Shorebird Reserve Network (WHSRN) and as a waterfowl priority area by the North American Waterfowl Management Plan. Numerous U.S. Fish and Wildlife Service WPAs and state WMAs protect playas and adjacent uplands within this BUL.
+
+## Natural Legacy Demonstration Site
+
+## Funk Waterfowl Production Area -U.S. Fish and Wildlife Service
+
+Funk WPA is one of 62 public areas in the Rainwater Basin Wetland Management District managed by the U.S. Fish and Wildlife Service. This 1,998-acre property is open to public access and includes a hiking trail and viewing blind. The local ecotype prairie restorations and ongoing shallow playa wetland restorations provide a magnificent opportunity for sightseeing, exploration, and learning. The lands are managed with prescribed burning and grazing as well as water management. The nearby Funk Community Center supports educational outreach opportunities for the WPA, specifically for the endangered whooping crane.
+
+## Stresses affecting Species and Habitats
+
+• Specific livestock grazing and haying practices that may reduce native plant diversity and promote uniform habitat structure in uplands and wetlands. • Invasive plant species in uplands and wetlands.
+• Limited fire on the landscape.
+127 Nebraska Natural Legacy Project
+• Lack of regular disturbance coupled with increased nitrogen inputs resulting in a lack of open water and mudflats and an excess of plant litter accumulation. • Altered and/or reduced hydrologic function from draining, dams, dikes, pits, and accelerated sedimentation. • Chemical runoff into wetlands from adjacent cropland and nutrient loading that affects plant communities. • Inadequate protection and conservation of ephemeral wetlands.
+• Conversion of native prairie to cropland.
+• Lack of awareness about the benefits of wetland conservation easements.
+• Energy development, including an increase in the number of transmission lines through bird migration routes and potential wind farm development.
+• Limited applied science including research, assessment, and monitoring.
+• Limited landowner awareness of management practices to improve habitats and manage invasive species. • Impact of honeybees in native habitat types.
+
+## Conservation Strategies
+
+• Continue to work with public and private landowners to develop an efficient system to conduct ecologically appropriate cattle grazing and the use of wildlife-friendly fencing in the basins. • Develop and continue to implement best management practices to control and manage invasive plants.
+• Continue to enhance efforts to educate landowners about the benefits and practices of prescribed burns.
+• Restore the natural hydrology to wetlands and implement conservation strategies necessary to sustain biological diversity and ecosystem function (e.g., filling pits, reducing siltation). • Continue to provide a reliable water source when necessary for priority wetland acres to assure sufficient water quantity, quality, and distribution. • Create grassland buffers around basins and in uplands to reduce sedimentation and chemical runoff (e.g., promotion of CRP and other similar programs). • Continue to promote the importance of wetlands and the benefits of wetland conservation programs. Coordinate with willing landowners to protect and restore important wetland and upland habitats with a variety of conservation strategies that are compatible with working lands. • Work with energy companies to select sites for energy development that minimize fragmentation and impacts to wildlife. Take measures to reduce the negative impacts to migrating birds resulting from power lines (e.g., bird flight diverters). • Implement research, monitoring, and inventory projects to track status and trends of SGCN and to determine best management practices. Nebraska Natural Legacy Project
+• Continue to implement integrated public and private lands management. For example, work with private landowners with properties bordering public lands to manage larger habitat blocks. • Work with partners to offer educational programs and landowner workshops to encourage peer-to-peer learning and increase awareness about collaborative conservation strategies and practices that improve habitats and their benefits. • Offer trainings for identifying and treating invasive species. 
+
+## Running Water
+
+## Biologically Unique Landscape Description
+
+This BUL is composed of a mix of landscape types, including the watersheds of Verdigris Creek and Bazile Creek in Boyd, Knox, Holt, and Antelope counties. These watersheds are composed of a mosaic of cropland, restored native and non-native grasslands, and native tallgrass and mixed-grass prairie. The BUL also includes the Missouri River valley in Knox County, the lower Niobrara River valley from central Rock County eastward to its confluence with the Missouri River, and areas of sand dunes south of the Niobrara, and mixed-grass prairie north of the river.
+129 Nebraska Natural Legacy Project
+The lower Niobrara River has a broad, braided, and somewhat shallow channel and has fairly natural flows. The river has only one dam on its upper reaches in western Nebraska and no irrigation diversions. The reach of the Missouri River within the BUL remains unchannelized and has a deep channel and many sandbars and wooded islands. Its natural hydrology, however, has been greatly altered by upstream dams and it no longer experiences natural spring floods or low summer flows that are critical to the many of the large river fish that inhabit it.
+The valleys of both the Missouri and Niobrara rivers are composed mainly of cropland, though patches of wet meadow, marsh, and cottonwood woodland still remain. Deciduous woodlands and prairie occupy the bluffs, but most been degraded by cattle grazing, non-native plant encroachment, and tree invasion.
+The Missouri River within this BUL is designated as the Missouri National Recreational River. Sandbars along this section, as well as on the Niobrara River, support colonies of the federally and state-threatened piping plover and the state-endangered interior least tern. The Santee Sioux Indian Reservation is located within the BUL, and the Verdigris-Bazile watershed is also of cultural significance to the Ponca Tribe. Some protected areas within the landscape include Niobrara State Park, Lewis and Clark SRA, and several WMAs.
+
+## Natural Legacy Demonstration Sites
+
+## Grove Lake Wildlife Management Area -Nebraska Game and Parks Commission
+
+Grove Lake WMA runs along a 3.5-mile reach of the east branch of the Verdigris Creek in Antelope County. The property has undergone some of the most extensive oak woodland and grassland restoration efforts in the Running Water BUL. At the inception of the Nebraska Natural Legacy Project, Grove Lake WMA's oak savanna habitat was severely degraded by eastern red-cedar invasion and other undesirable trees and shrubs. With two decades of prescribed fire, timber stand improvement, and extensive mechanical brush removal across the property, Grove Lake WMA continues to serve as a key management site for bur oak woodland regeneration and grassland plant community health. Many Tier 1 and Tier 2 at-risk species have been detected in restored areas of the property.
+
+## Niobrara State Park -Nebraska Game and Parks Commission
+
+Niobrara State Park spans approximately 1,236 acres at the confluence of the Niobrara and Missouri rivers and features a diverse mix of grasslands, riparian woodlands, wetlands, and river bluff habitats. Habitat management efforts include the control of invasive species, such as purple loosestrife, leafy spurge, Canada thistle, eastern redcedar, and phragmites, conducted in-house and through partnerships. Managers are actively working to reduce the presence of cool-season grasses, like brome, and to increase the abundance of warm-season grasses and native forbs through timely 130 Nebraska Natural Legacy Project prescribed burns, targeted grazing, selective pesticide applications, and drill seeding of native species. The unchannelized Missouri River adjacent to the park supports dynamic braided river habitat that provides essential nesting areas for interior least terns and piping plovers. Outreach and monitoring efforts at the park include interpretive programming, environmental education, and ongoing surveys for monarchs and other butterflies, bats, spotted skunks, and bumble bees, often in collaboration with conservation partners.
+
+## Stresses affecting species and habitats
+
+• Specific livestock grazing and haying practices that may reduce native plant diversity and promote uniform habitat structure. • Drainage and sedimentation of wetlands.
+• Water diversions for center pivots.
+• Conversion of native prairies to cropland.
+• Continued cabin and home development on riverbanks and ranchettes on the landscape.
+• Energy infrastructure development (e.g., wind, solar).
+• Limited applied science including research, assessment, and monitoring.
+• Limited awareness among absentee landowners about integrated, large-scale land management practices to improve the prairies for wildlife, grazing, and recreation.
+
+## Conservation Strategies
+
+• Implement planned grazing strategies on public and private lands, in combination with prescribed fire and rest, to improve native plant diversity and reduce exotic cool-season grass dominance. • Develop and implement best management practices to control and manage invasive plant and animal species. • Increase the use of prescribed fire and invasive, woody species management on lands to reduce eastern red-cedar, and to improve native plant diversity and wildlife habitat. 
+
+## Chapter 7: Sandhills Biologically Unique Ecoregion Biologically Unique Ecoregion
+
+Among the four ecoregions, the Sandhills is the most intact landscape. Unlike the other ecoregions, the land between the individual Sandhill BULs is primarily native prairie and represents the most likely areas to allow for movement of organisms between the BULs within this ecoregion. The Sandhills are the largest intact grassland within the United States and the importance of this ecoregion goes beyond the borders of the state of Nebraska. Feedback during the development of third edition showed a clear preference to include the entire Sandhills ecoregion. The Nebraska Natural Legacy Science Team proposed two potential paths forward to achieve this inclusion: dissolve the previous Sandhills BULs to create a single BUL or keep the previous BULs and create a Biologically Unique Ecoregion. Given the history of prioritized conservation work within the previous BULs, conservation partners requested that current BULs be maintained to continue work within these areas while still acknowledging the importance of this entire ecoregion.
+
+## Introduction
+
+It's easy to be awestruck by the vastness of the Nebraska Sandhills and its unspoiled nature. Spanning 19,300 square miles in north-central Nebraska, the Sandhills Ecoregion includes the largest stabilized dune field in the Western Hemisphere and one of the largest intact native grasslands in North America.
+Geologically, the Sandhills are young, with the dunes forming during the Pleistocene. Over the past 13,000 years, several major episodes of dune movement transformed the region into an open sea of sand, similar to today's Sahara Desert. Lesser periods of blowing sand and dune movement have taken place during the last millennium. Sandhill dunes are aligned primarily in a northwesterly to southeasterly direction, following the prevailing winter winds, and some reach over 400 feet in height.
+The Sandhills climate is semiarid, with annual precipitation ranging from 23 inches in the east to less than 17 inches in the west. Average temperatures reach highs of about 89°F in summer and lows of around 13°F in mid-winter. The sandy dune soils have poorly developed, if any, topsoil due to sand movement and churning of the soil by burrowing rodents. High infiltration rates, up to 10 feet per day, allow rainwater and snowmelt to quickly percolate downward through the sand. This has led to the formation of extensive aquifers, up to 900 feet thick, in the sand and gravel deposits beneath the dunes. This underground reservoir is part of the Ogallala Aquifer, which holds an estimated 700-800 million acre-feet of groundwater, nearly twice the amount of water in Lake Erie.
+Where the region's high groundwater table is exposed in valleys, nearly 2,000 shallow lakes and over a million acres of marshes and wet meadows have formed. Most lakes and large marshes are clustered near stream headwaters and in the western portion of the Sandhills. Only a few lakes exceed 1,000 acres in size, and all are relatively shallow, with only a few reaching depths of over 10 feet. Most Sandhill lakes and wetlands have a near neutral pH. However, alkaline lakes and wetlands, common in the western Sandhills, have higher pH levels due to the accumulation of salts and carbonates.
+The Sandhills region contains some of the Great Plains' largest fens -groundwater-fed wetlands with peat or muck soils. These have mostly formed at stream headwaters and at the upper ends of Sandhill lakes and marshes, where groundwater discharge is abundant and constant over long periods. Their organic soils can be up to 21 feet thick, built up from the accumulation of undecomposed plant material over hundreds to thousands of years. These soils are often interspersed with layers of windblown sand.
+Southeasterly flowing streams, such as the North Loup, Middle Loup, Calamus, Cedar, and Dismal rivers, drain much of the central and eastern Sandhills. Their flows come almost entirely from groundwater discharge, with very little runoff. As a result, they are remarkably steady throughout the year, with few floods or low-water periods. The Niobrara River is the only Sandhills river that originates outside the ecoregion. Its headwaters are in eastern Wyoming, and it flows eastward through the northern Sandhills before entering the Missouri River in 135 Nebraska Natural Legacy Project northeastern Nebraska. The Sandhills also contain many smaller streams, such as the Minnechaduza, Pine, Boardman, and Birdwood Creeks.
+
+## Vegetation
+
+Nearly 700 plant species have been recorded in the Sandhills, growing in two primary habitats: upland dune prairie and valley wetlands. Dune prairie is dominated by sand-loving grasses, such as sand bluestem, prairie sandreed, and hairy grama, along with grasses that grow in various soils, like little bluestem and needle-and-thread. Common prairie wildflowers include stiff sunflower, bush morning glory, gilia, annual buckwheat, and plains gayfeather. Shrubs are also abundant and include sand cherry, leadplant, prairie rose, and yucca.
+Blowouts, wind-excavated depressions on dune tops, are home to early-successional plants, including the federally and state-endangered blowout penstemon. This species grows only in the Nebraska Sandhills and in a few dune complexes in Wyoming. Once widespread, blowouts are now uncommon due to the lack of wildfires and grazing systems that once maintained open, shifting sand.
+Native woodlands are uncommon in the region, occurring only in fire-protected river valleys and steep bluffs. Plains cottonwood, peachleaf willow, and coyote willow are the dominant tree species in riparian woodlands. The central Niobrara River's cool south bluff harbors the ecoregion's most diverse deciduous woodlands. Here, common trees include bur oak, basswood, black walnut and ironwood. Cool, spring-branch canyons also support glacial relict stands of aspen and paper birch, with a ground layer that includes disjunct northern mosses and herbaceous plants. Birch and aspen have declined in recent decades, possibly due to environmental factors.
+The steep, rocky, north-facing bluffs along the Niobrara River support ponderosa pine woodlands, typical of the Rocky Mountains, as well as sandhills prairie and northern mixedgrass prairie. A 30-mile stretch of the Niobrara River valley just east of Valentine is known as "The Biological Crossroads of the Midwest" because of its diverse mixture of plant communities and species that converge in the area.
+Sandhill valleys support a mosaic of tallgrass prairie, wet meadows, marshes, and lakes. The prairies grow on higher, non-subirrigated ground and are dominated by big bluestem, switchgrass, little bluestem, and various wildflowers. Subirrigated freshwater meadows support lush growth of sedges, spikerushes, prairie cordgrass, and switchgrass. Shrubs like sandbar willow and false indigo-bush also occur in these meadows. Alkaline wet meadows are dominated by inland saltgrass, foxtail barley, alkali sacaton, and scratchgrass. Sandhills fens feature meadow-like vegetation made up of grasses, sedges, and shrubs. Their saturated organic soils support nearly twenty at-risk plant species. Sandhill freshwater marshes often have standing water in spring and throughout much of the year and often occur as zones or bands bordering lakes and streams. Common marsh plants include ripgut sedge, common reed, smartweeds, hard-stem bulrush, broad-leaf cattail, duckweeds, and coontail. Alkaline marshes support sparser plant cover, with species such as Nevada bulrush, saltmarsh bulrush, and other salt-tolerant plants.
+136 Nebraska Natural Legacy Project Since settlement, most Sandhill lakes and wetlands have been modified due to haying activities. Regional ditches have drained many wetlands and lowered the water table. Areas that were once lakes or marshes have become wet meadows suitable for haying. Most wet meadows have been interseeded with non-native forage species, including reed canary grass, Garrison creeping foxtail, timothy, smooth brome, and various clovers. Annual mid-summer haying stresses native warm-season plants and favors the spread of these non-native, cool-season species. In recent decades, narrow-leaf and hybrid cattails have invaded and overtaken large areas of marshes and lakes, displacing native plants and reducing habitat quality for wildlife. Currently, there are few, if any, efforts to control the non-native plants that now dominate much of the valleys.
+
+## Animals
+
+More than 300 species of resident and migratory birds have been observed in the Sandhills. The region is a stronghold for sharp-tailed grouse and greater prairie-chicken, and it is an important breeding area for the long-billed curlew. The dunes also support large breeding populations of upland sandpiper, lark sparrow, lark bunting, grasshopper sparrow, and western meadowlark. The region hosts the highest concentration of northern harriers in the state, and ferruginous hawks breed in the western Sandhills.
+In spring, over a quarter million migratory waterfowl use the Sandhills, with mallards, bluewinged teal, and northern pintails being common breeders. Other waterbirds that nest in the Sandhills include Wilson's phalarope, American avocet, western grebe, and black tern. Woodland nesters include black-and-white warbler and rose-breasted grosbeak.
+The Sandhills are home to 55 species of mammals. Small dune mammals include the plains pocket gopher, white-tailed jackrabbit, Ord's kangaroo rat, and prairie voles, while the masked shrew, jumping mouse, and meadow vole occupy wet meadows and marshes. A rare mammal of this ecoregion is Bailey's eastern woodrat, a subspecies found only in wooded habitats in the central Niobrara River valley.
+The most abundant large ungulates in the Sandhills are mule deer and white-tailed deer, although elk herds are expanding in the region, and a few pronghorn inhabit more level areas of the dunes, particularly in the west. Although free-roaming bison no longer occur in the Sandhills, The Nature Conservancy's Niobrara Valley Preserve, Fort Niobrara National Wildlife Refuge (NWR), and several private ranges have fenced bison herds.
+Large predators in the region include the coyote, which is common, and the bobcat, which is generally limited to wooded stream valleys. Mountain lions occasionally wander through the Sandhills, and a small breeding population inhabits the Niobrara River valley. Small predators in the ecoregion include the American badger, mink, and both long-tailed and least weasels.
+Streams and lakes of the Sandhills are home to 75 species of fish. Common big-river generalists include the channel catfish, flathead chub, and river carpsucker. Cold, headwater streams are home to several northern disjunct species, including the blacknose shiner, northern pearl dace, northern redbelly dace, and finescale dace. Sport fish, primarily yellow perch, northern pike, largemouth bass, bluegill, and carp have been introduced into many lakes in the Sandhills, while brown and rainbow trout have been introduced into several cold-water streams. Carp have 137 Nebraska Natural Legacy Project degraded the water quality and vegetation of numerous Sandhills lakes, reducing their value as habitat for waterfowl, native plants and aquatic organisms.
+Twenty-seven species of amphibians and reptiles are found in the Sandhills, including one salamander, three toads, four frogs, six turtles, four lizards, and nine snakes. The Great Plains toad, plains spadefoot, and Woodhouse's toad use wetlands for breeding while spending most of their adult lives in the upland dunes. The ornate box turtle is a widespread upland turtle in the Sandhills, while the Blanding's turtle, a northern species whose range extends eastward to New England and is rare over most of its range, is common in lakes and marshes.
+Three common lizards inhabit the dunes: the six-lined racerunner, lesser earless lizard, and northern prairie lizard, each preferring slightly different habitats. The bullsnake and western hognose snake are the Sandhills' most common snakes, while the prairie rattlesnake is the region's only venomous snake. It inhabits prairie dog towns in dry valleys and the rocky Niobrara River valley.
+Insects are important to the ecology and economy of the Sandhills, serving as pollinators, decomposers, grazers, and food for other wildlife. They are also the Sandhills' most diverse, abundant, and least-studied animal group. For example, 70 species of scarab beetles have been observed in Thomas County alone. The region's rarest insect is possibly the federally and statethreatened American burying beetle, which inhabits lowland prairies. The Sandhills are one of the species' last strongholds.
+
+## History and Dominant Land Use
+
+Native American use of the Sandhills likely dates back at least 10,000 years, with the first inhabitants being nomadic hunter-gatherers who camped near lakes and streams. The first yearround settlements in the region likely appeared one to two thousand years ago. These people were also hunter-gatherers and may have practiced limited farming -growing corn, beans, and squash in stream valleys, especially in the eastern part of the region. Several tribes lived in or hunted across the Sandhills at or just prior to Euro-American exploration, including the Plains Apache, Pawnee, Comanche, Ponca, Omaha, Teton Sioux, Oglala, and Cheyenne.
+James McKay was the first known Euro-American explorer to enter the Sandhills and record his journey. During his 1796 expedition, he wrote that the region was "a great desert of drifting sand." In 1854, the Corps of Topographical Engineers assigned Lieutenant G.K. Warren to survey and map the trans-Mississippi West. As part of this effort, he traveled through the Sandhills and was not impressed, later writing that settlement of the region was unlikely due to its unfavorable climate, hilly topography, and sandy soils.
+In the 1870s, cattlemen first brought herds into the Sandhills and discovered its potential as rangeland. One of the first ranches in the region was established in 1877, when E.S. Newman founded a ranch along the Niobrara River to provide beef for the Pine Ridge Reservation. Newman initially kept his cattle out of the rugged dunes south of the river, believing them unfit for grazing, but later discovered that the dune grasses were excellent for fattening cattle. By the Nebraska Natural Legacy Project late 1880s, ranches had spread throughout much of the Sandhills, many of them unfenced, with cattle roaming freely.
+In 1904, the Kincaid Act was passed, allowing homesteaders to claim 640 acres of land instead of the standard 160 acres. This act encouraged more settlement in the Sandhills, and between 1910 and 1917, nearly nine million acres were claimed by "Kinkaiders." They struggled to farm the dry, sandy soils, and when the severe drought of the mid-1930s hit, many were forced to abandon their land, which was then converted to rangeland. Today, roughly 95% of the Sandhills remains native prairie used for grazing. Ranches vary widely in size, with some exceeding 50,000 acres. Collectively, Sandhill ranches support more than half a million beef cattle annually.
+A resurgence of farming in the Sandhills began in the 1950s after the development of centerpivot irrigation. Crop production in the region peaked in the 1970s as center-pivot technology improved. Most of the prairie converted to farmland was located on the more level periphery of the Sandhills. However, it soon became clear that center-pivot farming on sandy soils was largely misguided. A period of low crop prices discouraged further efforts, and much of the former cropland was reseeded with native grasses. Conservationists and others fear that history may repeat itself, and the push to farm the Sandhills could someday return.
+
+## Nature-based Recreation
+
+As one of the largest remaining intact grasslands, the Sandhills have a unique allure to those wishing to gain a glimpse of America's prairie past. This region is ideally suited for nature-based recreation, from wildlife viewing and hunting to stargazing and paddling rivers. The region has thousands of acres of public land, including four NWRs, two national forests, and numerous state managed areas. The 56,000-acre Niobrara Valley Preserve, owned by The Nature Conservancy, is one of the organization's largest preserves and lies on the border of the Sandhills and Mixed-grass Ecoregions. Increasingly, landowners and businesses in this region are catering to nature enthusiasts by offering lodging, canoe/kayak rentals, and access to private land for recreation.
+The Sandhills Scenic Byway (State Highway 2) is a stunning drive from Grand Island to Alliance, showcasing rolling dunes, natural lakes, and a National Forest. The sparsely populated Sandhills also offers incredible stargazing. Merritt Reservoir State Recreation Area (SRA) is certified as an International Dark Sky Park and hosts the annual Nebraska Star Party and other programs that highlight the benefits of dark skies to ecosystems and people.
+
+## Wildlife Viewing
+
+The Sandhills support more than 300 bird species, including iconic prairie species like long-billed curlews. Breeding pairs of trumpeter swans can be seen on the lakes in this region, as well as many migratory waterfowl and shorebirds, including large concentrations of pintails, grebes, and phalaropes. Springtime also brings the unforgettable sight of sharp-tailed grouse and greater prairie-chicken courtship displays. The Little Hay Road Wildlife Drive at Valentine NWR offers opportunities to view turtles, deer, ducks, grassland songbirds, and prairie grouse.
+139 Nebraska Natural Legacy Project Nearby, Fort Niobrara NWR offers chances to view a bison herd and a variety of grassland and woodland bird species.
+
+## Trails
+
+The Cowboy Recreation and Nature Trail spans the northern Sandhills, offering free access to hikers, cyclists, and horseback riders. The region also boasts some of Nebraska's most iconic water trails. The Middle Loup River offers peaceful floats through the Sandhills. While the Dismal River, known for its isolation and challenge, is a destination for adventurous paddlers. The Niobrara National Scenic River lies mostly in the adjacent mixed-grass ecoregion but borders the Sandhills and remains a popular destination. Backcountry experiences are available on federal lands, including McKelvie National Forest and the Bessey Ranger District of the Nebraska National Forest. Both motorized and non-motorized trails lead through vast, undeveloped landscapes.
+
+## Fishing
+
+Natural Sandhills lakes are known for bluegill, northern pike, yellow perch, and largemouth bass. Ice fishing is popular on numerous lakes in this region. Merritt and Calamus Reservoirs provide excellent fishing, as well as spectacular scenery. Although often overlooked, the rivers can offer quality fishing for catfish and other sport fish. Bullfrog angling is also available year-round throughout the region.
+
+## Hunting
+
+Big game, upland game, and waterfowl hunting in the Sandhills offer an unparalleled experience of panoramic views and solitude made possible by low hunter density. Abundant populations of mule deer, white-tailed deer, wild turkey, and even an occasional pronghorn provide pleasure to nature enthusiasts. Shallow lakes offer excellent waterfowl hunting, while the region's uplands are among the best for hunting sharp-tailed grouse and greater prairie-chickens.
+
+## Challenges
+
+Despite the high quality of recreational opportunities, the Sandhills face several challenges. Interpretive resources are limited, and promotion outside of the region and state is minimal. The Sandhills Journey National Scenic Byway website highlights local attractions, but broader promotion would help connect more people to the area's diverse offerings.
+Trail development is complicated by the region's sandy soils, which are highly susceptible to erosion. To prevent long-term erosion on natural surface trails, it is crucial to follow proper trail design and layout principles. Invasive species are another pressing concern. Dense stands of phragmites hinder recreation access to lakes and reduce habitat quality. Invasive carp impact the water quality and submerged aquatic vegetation, which degrades sport fish and native wildlife habitats. For decades, partner organizations worked to remove carp populations, and continued effort is needed to prevent their spread and sustain the unique recreational and ecological value of the Sandhills lakes. Nebraska Natural Legacy Project
+
+## Education
+
+The Sandhills Biologically Unique Ecoregion is home to residents with deep ties to the land, many of whom are ranchers with strong ecological knowledge. Partnerships like the Sandhills Task Force bring ranchers and conservation agencies together to promote sustainable practices, including educational programming and internships. The UNL Nebraska Ranch Practicum, hosted at the Gundmunson and Barta Brothers ranches, teaches students and landowners about sustainable ranching in the Sandhills. Ecotourism is another growing sector in the region, with private landowners offering unique education opportunities.
+The Niobrara Valley Outdoor Education Partnership, a coalition of natural resource professionals including The Nature Conservancy, Natural Resources Districts, and the Northern Prairies Land Trust, focuses on environmental education related to the Niobrara National Scenic River. This partnership includes organizations, such as the National Park Service, U.S. Fish and Wildlife Service, Nebraska Game and Parks Commission, local school districts, and landowners. The Nebraska Star Party at Merritt Reservoir is a collaboration that includes programming on light pollution and ecology alongside astronomy education.
+While some schools in the region incorporate ecoregion studies into their curriculum, there is significant demand for more environmental education resources. Post-secondary education is an underutilized tool for teaching sustainable agricultural practices. Programs in cooperation with the Cooperative Extension can help agricultural producers adopt habitat management techniques that benefit both conservation and production.
+
+## Representative species with educational and community science opportunities:
+
+• Blowout Penstemon (Penstemon haydenii) • Western Prairie Fringed Orchid (Platanthera praeclara) • Long-billed Curlew (Numenius americanus americanus) • Blanding's Turtle (Emydoidea blandingii)
+
+## Ecoregion-specific Stresses Key Stresses
+
+In addition to the stresses and conservation actions identified in this chapter for the Sandhills Biologically Unique Ecoregion, statewide concerns are also identified in chapter four. Conservation practitioners identified the following stresses as the top threats in the ecoregion.
+Altered frequency and intensity of fire, grazing, and other natural disturbances: Although the predominance of ranching in the Sandhills is responsible for sustaining a rich complement of biological diversity, grazing patterns do not exactly mirror grazing by native herbivores. Lack of variation in grazing from year-to-year has resulted in decreased diversity of vegetative composition and structure. Decreased fire frequency and the loss of the synergistic relationship between fire and grazing has allowed for an increase in woody vegetation, including shrubs such as sumac. Eastern red-cedar, the Nebraska Natural Legacy Project primary species of concern, has increased along rivers and streams and into surrounding upland prairies. Limited awareness about the region's biological diversity and ecological processes: Many residents have a desire to increase their knowledge and understanding of ecological processes and management that can help maintain biological diversity, but educational resources are often not available. Funding and collaboration among conservation agencies is essential to develop and implement relevant environmental education opportunities about native ecosystems and best management practices for conserving them. There is a lack of trusted advisors and community ambassadors who can provide peer-to-peer learning opportunities and share their experiences and knowledge about the financial relevance of ecosystem conservation. Increases in nonresident landowners and younger residents will require the use of new communication channels to deliver informational materials. Additionally, there is little school curriculum that teaches students about Nebraska's native species, habitats, and conservation issues. Although the region's remaining native grasslands, woodlands, and wetlands are unique and of high value, many of the ecoregion's residents have limited awareness of the importance of these habitats to biological diversity. Neonicotinoid seed treatments and disposal of treated seeds pollute surface waters and cause harm to insects, birds, and other wildlife. Wildlife, including birds, mammals, and insects, are increasingly threatened by light pollution. Artificial lights are impacting ecosystems and animal behaviors including their ability to find food, mates, and avoid predators.
+Loss of natural areas because of local economics: Economic pressures are changing ownership patterns in this ecoregion. This may affect management decisions and stewardship of the land's natural resources. Ranching economics must be favorable for grazing practices that benefit biodiversity to be adopted. Generational transitions of livestock operations are also affected by changes in local economics. This in turn may affect the long-term stewardship of large remnant prairies.
+Poorly sited utility-scale energy infrastructure development: Utility-scale energy infrastructure development (e.g., solar farms, wind turbines, Co2 sequestration plant and pipelines, fracking waste, power lines) is expanding in the Great Plains. When poorly sited, such infrastructure can cause ecological harm. For example, construction of an oil pipeline across the Sandhills could pollute the Ogallala aquifer due to the region's porous, sandy soils, which increase the risk of contamination from leaks. The pipeline would also fragment habitats and likely facilitate the spread of invasive species, which are often transported via heavy machinery and readily establish in disturbed soils typical of construction sites. Need for greater collaboration between the agricultural and conservation communities: Past contention and misunderstandings between the agriculture and conservation communities on issues related to water and threatened and endangered species have sometimes left deep divisions. Although there is often common ground on many issues related to conserving biological diversity, there remains some lack of trust and resolve to collaborate on issues important to all stakeholders. Staff turnover at conservation agencies has made it difficult to build meaningful relationships and has contributed to the lack of trust and communication with the agricultural communities. Opportunities exist to merge firsthand knowledge of the land with newly developed conservation practices that benefit producers and ecosystems alike. While progress is being made, there is still a need for improved communication with agricultural communities about current and changing contracts and their impacts on agricultural and conservation communities.
+Limited assessment, monitoring, and applied science to inform species and habitat conservation efforts: Conservation organizations and universities have limited capacity to monitor and assess many species, especially nongame and at-risk wildlife, and their habitats. There is a need for more baseline population estimates to better inform conservation decisions and listings of at-risk species. The lack of species and habitat monitoring overtime, especially in response to management efforts, hinders the understanding of an area and ways to best manage and conserve it. An increase in applied science efforts in this area could greatly enhance our understanding of this ecoregion. Additionally, wildlife diseases impacting wild populations of birds and mammals should be monitored and researched further. Nebraska Natural Legacy Project
+
+## Primary Invasive Plant Species by Habitat Type
+
+Note: This list highlights key invasive species of concern in the ecoregion and is not exhaustive.
+
+## Habitat Type Invasive Plant Species
+
+Upland Prairie Kentucky bluegrass, smooth brome, Japanese brome, downy brome, leafy spurge, and eastern red-cedar 
+
+## Biologically Unique Landscapes of the Sandhills Biologically Unique Ecoregion
+
+One main goal of the Nebraska Natural Legacy Project is to identify priority landscapes that, when properly managed, will help conserve most of the state's biological diversity. These areas, called Biologically Unique Landscapes (BULs), were selected based on the presence of at-risk species and natural communities. See Chapter 3 for a full description of the selection methods.
+The map shows the BULs for the Sandhills Biologically Unique Ecoregion. Brief descriptions of each BUL follow the map, including information about the stresses affecting species and habitats, proposed conservation actions, and natural communities found in each landscape.
+In this ecoregion, some BULs are truncated by the Nebraska state boundary. We suggest opportunities for wildlife conservation in these areas based on review of corresponding adjacent state wildlife action plans (SWAPs).
+
+## Sandhills Biologically Unique Landscapes:
+
+• Cherry County Wetlands 
+
+## Cherry County Wetlands
+
+## Biologically Unique Landscape Description
+
+This landscape occurs in Cherry County in the northern Sandhills. The area consists mostly of high, long linear dunes with interdunal valleys. Many valleys contain numerous lakes, marshes, wet meadows, and fens that form one of the Sandhills' largest wetland complexes. The upland dune grasslands remain intact, with only limited cropland in the BUL, primarily center-pivot irrigated in the drier valleys.
+The North Loup River and its tributaries originate in this region, while the Snake River flows through the northern portion of the landscape. This BUL is important for nesting and migratory waterbirds, and the wetlands support large populations of reptiles and amphibians. Wet meadows support a large population of the federally and state-threatened western prairie fringed orchid. The area is also habitat for several other federally and state-listed species, including the American burying beetle and whooping crane. The area's many cold-water streams support assemblages of rare fish, including the northern pearl dace, the state-and federally listed Topeka shiner, and the state-listed northern redbelly dace, blacknose shiner, and finescale dace. The Valentine NWR is one of the largest protected areas within the BUL.
+
+## Natural Legacy Demonstration Site
+
+## Valentine National Wildlife Refuge -U.S. Fish and Wildlife Service
+
+The 72,000-acre Valentine NWR was established by Congress in 1935 "as a breeding ground for migratory birds and other native wildlife." The sandhill prairie and wetlands found here support a diversity of native wildlife and refuge staff manage the land using grazing, prescribed fire, and invasive species control. The Refuge is home to 270 species of birds, 59 species of mammals, and 22 species of reptiles and amphibians. The refuge provides a wide range of recreational opportunities, including hunting, fishing, and wildlife viewing and photography.
+
+## Stresses Affecting Species and Habitats
+
+• Specific livestock grazing and haying practices that may reduce native plant diversity and promote uniform habitat structure. • Loss of active blowouts on dunes that provide habitat for the blowout penstemon. Some present-day range management practices have greatly reduced blowouts. • Invasive species.
+• Eastern red-cedar and other woody encroachment in uplands.
+• Interbasin water transfer, which can affect water supply, hydrology, aquatic organism movement, and enable the spread of invasive species. • Wetland drainage, which can also lead to lower groundwater levels and stream channel downcutting. Nebraska Natural Legacy Project
+• Loss of native riparian vegetation from stream downcutting and excessive grazing leading to increased runoff, sedimentation, and a lack of stream shading that results in altered water temperatures harmful to fish. • Increased chemical runoff and nutrient loading into ground and surface waters from adjacent livestock confinements. • Stream channelization, extreme weather events, and in-stream structures that obstruct fish movement. • Stocking sport fish into streams with native, at-risk fish species.
+• Energy infrastructure development 
+(e.g., wind, solar, communications)
+.
+
+## Conservation Strategies
+
+• Continue to improve implementation of biodiversity management, including increased use of prescribed fire and planned livestock grazing on the landscape. This is especially critical in meadows and wetlands where excessive thatch accumulation causes exotic cool-season grass dominance and loss of diversity. Continue to work with partners (e.g., Sandhills Task Force) to promote and encourage conservation programs. 
+
+## Dismal River Headwaters
+
+## Biologically Unique Landscape Description
+
+This landscape includes the Dismal River and its headwaters region in Cherry, Grant, Arthur, McPherson, and Hooker counties in the west-central Sandhills. The BUL consists of high, prairiecovered dunes with interdunal valleys. The region contains numerous lakes, marshes, wet meadows, and fens. Cropland, primarily center-pivot irrigated, occurs only occasionally in the valleys.
+The Middle Loup River and the north and south forks of the Dismal River originate in this region. Many waterbird species use the rivers, surrounding floodplains, and marshes for nesting and migration habitat. The landscape also supports large populations of reptiles and amphibians and includes populations of the federally and state-endangered blowout penstemon. Examples of protected areas within the landscape are Frye Lake and DeFair Lake WMAs.
+
+## Stresses Affecting Species and Habitats
+
+• Specific livestock grazing and haying practices that may reduce native plant diversity and promote uniform habitat structure.
+• Loss of active blowouts on dunes as habitat for the blowout penstemon. Some presentday range management practices have greatly reduced blowouts. • Invasive plants.
+• Limited prescribed fire on the landscape; shelter belts are a seed bank and can also lead to the expansion of woody encroachment. • Wetland ditching, which can also lead to lower groundwater levels and stream channel downcutting.
+• Loss of native riparian vegetation from excessive grazing leads to increased runoff and sedimentation.
+• Stream channelization and in-stream structures barring fish movement.
+• Stocking of exotic and sport fish in streams with native, at-risk fish species.
+• Conversion of prairie and groundwater depletions resulting from center-pivot irrigation development.
+• Energy infrastructure development.
+
+## Conservation Strategies
+
+• Continue to improve implementation of biodiversity management, including increased use of prescribed fire and strategic livestock grazing, on the landscape -especially in meadows and wetlands. • Work with partners to enhance education efforts and collaborate with private landowners to implement effective methods of forage utilization on wet meadows that avoid ditching. Work with private landowners to implement strategic grazing on uplands. Nebraska Natural Legacy Project
+• Where feasible, create and maintain blowout complexes as habitat for the blowout penstemon through use of intense livestock grazing. • Implement integrated noxious weed control strategies that do not negatively impact western prairie fringed orchid populations nor wetland plant diversity. • Work with extension agencies, the Nebraska Department of Transportation, the NRCS, and agronomists to prevent the promotion and planting of exotic forage grasses, such as Garrison creeping-foxtail and reed canary grass, and forbs in Sandhills wet meadows and public roadsides. Enhance education efforts about the value of native forbs. • Increase tree thinning, removal of unused shelter belts, and use of prescribed fire to reduce encroachment by eastern red-cedar and other species into prairies. Enhance efforts to educate landowners about the benefits and practices of prescribed fire and offer trainings. • Work with partners to ensure that wetlands enrolled in their programs allow occasional intensive grazing, burning, or haying to reduce vegetative litter accumulation and to promote biodiversity. • Work with landowners to install livestock watering facilities away from the stream channel. Create and maintain natural grassland buffers around riparian areas to reduce sedimentation and filter chemical runoff. • Restore and maintain the natural hydrology of streams, wet meadows and other wetlands through ditch plugging and water control structures. • Work with counties to properly size and set culverts that facilitate native fish movement in small streams and promote stream connectivity. Find ways to ensure that in-stream structures allow for aquatic passage when culverts get washed out (e.g., fish ladders). Continue to innovate low-cost fish passage structures. • Discontinue sport fish stocking in streams with native, at-risk fish species.
+• Coordinate with interested landowners to protect high-quality sites, with a priority on habitat connectivity, using a variety of conservation strategies that are compatible with working lands. Restore additional grassland habitat through high-diversity, local ecotype restorations, and landowner collaboration. • Work with energy companies to select sites for energy development that minimize fragmentation and impacts to wildlife. 
+
+## Elkhorn River Headwaters
+
+## Biologically Unique Landscape Description
+
+This landscape occurs in the northeastern Sandhills and includes large portions of Brown, Rock, Holt, Garfield, and Wheeler counties. The BUL consists mainly of level sand plains and low rolling dunes, with extensive wet meadows and scattered lakes and marshes. Center-pivotirrigated crop fields are locally common.
+The South Fork and North Fork of the Elkhorn River originate in this region. The BUL's wet meadows support the state's largest populations of the federally and state-threatened western prairie fringed orchid. The area is also habitat for several other federally and state-listed species, including the small white lady's-slipper orchid, American burying beetle, and whooping crane. Waterfowl and other waterbirds make extensive use of the region's wetlands. Some protected areas in the BUL include Goose Lake, Swan Lake, Dry Creek, and other WMAs.
+
+## Stresses Affecting Species and Habitats
+
+• Specific livestock grazing and haying practices that may reduce native plant diversity and heterogeneous habitat structure; limited implementation of sustainable grassland management strategies. • Invasive species.
+• Herbicide application in meadows to control leafy spurge and timing of haying and grazing threaten western prairie fringed orchid populations and plant diversity. • Lack of cottonwood regeneration along riparian corridors, and increasing density of eastern red-cedar in the understory. • Limited prescribed fire on the landscape and interruption of natural fire frequency have led to increased tree (primarily eastern red-cedar) and shrub densities, litter Nebraska Natural Legacy Project accumulation, and exotic plant invasion; shelterbelts are a seed source and can lead to the expansion of woody encroachment into prairies. • Loss of native riparian vegetation from excessive utilization (e.g., grazing, recreation use) in riparian zones may lead to soil compaction, erosion, and increased sediment and nutrient transfer into streams. • Wetland and meadow drainage and dewatering of the Elkhorn during droughts, which can also lead to lower groundwater levels and channel downcutting. • Stream channelization, extreme weather events, and in-stream structures (e.g., culverts) that obstruct fish movement. • Stocking of exotic and sport fish in streams with native, at-risk fish.
+• Conversion of prairie to cropland, and groundwater depletions resulting from centerpivot irrigation development.
+• Energy infrastructure development.
+• Limited applied science including research, assessment, and monitoring.
+• Limited awareness of management practices to improve habitats and to manage invasive species.
+
+## Conservation Strategies
+
+• Continue to improve implementation of biodiversity management, including increased use of prescribed fire and strategic livestock grazing, especially in meadows and wetlands.
+• Work with partners to enhance education efforts and collaborate with private landowners to implement effective methods of forage utilization on wet meadows that avoids ditching. Work with private landowners to implement strategic grazing on uplands.
+• Implement integrated noxious weed control strategies that do not negatively impact western prairie fringed orchid populations or plant diversity. • Work with Nebraska Extension, NDOT, and agronomists to prevent the promotion and planting of exotic forage grasses, such as Garrison creeping-foxtail and reed canary grass, and non-native forbs in Sandhills wet meadows and public roadsides. Enhance education efforts about the value of native forbs. • Seek and implement methods to control noxious and other invasive species that do not require broadcast spraying and that minimize impacts to Species of Greatest Conservation Need (SGCN; e.g., western prairie fringed orchid) and native plant diversity. • Increase tree thinning, removal of unused shelter belts, and use of prescribed fire to control woody encroachment and the spread of eastern red-cedar. • Restore native riparian flora.
+• Work with landowners to install livestock watering facilities away from streams. Create and maintain natural grassland buffers around riparian areas to reduce sedimentation and filter chemical runoff. Nebraska Natural Legacy Project
+• Continue to work with the USDA and private landowners to ensure that wetlands enrolled in conservation programs allow grazing, burning, or haying to reduce vegetative litter accumulation and to promote biodiversity and management of invasive plants.
+• Restore and maintain the natural hydrology of streams, wet meadows, and other wetlands through ditch plugging and water control structures. • Work with counties to properly size and set culverts that facilitate native fish movement in small streams and promote stream connectivity. Find ways to ensure that in-stream structures allow for aquatic passage when culverts get washed out (e.g., fish ladders). Continue to innovate low-cost fish passage structures. • Discontinue sport fish stocking in streams with native, at-risk fish.
+• Coordinate with interested landowners to protect high-quality sites, with a priority on habitat connectivity, using a variety of conservation strategies that are compatible with working lands. Restore additional grassland habitat through high-diversity, local ecotype restorations, and landowner collaboration.
+• Work with energy companies to select sites for energy infrastructure development that minimize fragmentation and impacts to wildlife. • Implement research, monitoring, and inventory projects to determine best management practices for SGCN. Promote community science monitoring. • Work with partners to offer educational programs and landowner workshops to encourage peer-to-peer learning and increase awareness about collaborative conservation strategies and practices that improve habitats and their benefits. • Offer trainings for identifying and treating invasive species. 
+
+## Middle Niobrara
+
+## Biologically Unique Landscape Description
+
+This landscape includes a 76-mile stretch of the Niobrara River in Cherry, Keya Paha, Rock, and Brown counties, designated as a National Wild and Scenic River. The BUL also includes sections of cold-water streams with deep, wooded valleys that flow into the river from the south, including Fairfield, Plum, and Long Pine creeks, as well as areas of sand dunes and gravel prairies to the south of the river.
+The Middle Niobrara River valley is deeply incised and marks the intersection of five diverse plant communities: northern mixed-grass prairie, Sandhills prairie, Rocky Mountain pine woodland, northern boreal woodland, and eastern deciduous woodland. As a result, the valley is home to an incredible diversity of native animal and plant species, including many glacial relict species. The Nature Conservancy's 56,000-acre Niobrara Valley Preserve alone contains 581 species of plants, 213 birds, 86 lichens, 70 butterflies, 44 mammals, 25 fish, 17 reptiles, and 8 amphibians. The valley also provides habitat for many at-risk species, including the whooping crane, piping plover, interior least tern, and Bailey's eastern woodrat, a subspecies endemic to the area. Examples of protected areas within the landscape include the Niobrara Valley Preserve, Fort Niobrara NWR, Smith Falls State Park, and several WMAs and SRAs.
+
+## Natural Legacy Demonstration Site
+
+## Niobrara Valley Preserve -The Nature Conservancy
+
+The 56,000-acre Niobrara Valley Preserve (NVP) includes a variety of habitat types, including extensive Sandhills prairie, deciduous woodland with boreal relict species, dry, rocky slopes with bur oak and ponderosa pine trees, riverine habitats, and more. Two large herds of bison graze on 22,000 acres of the preserve and a similar number of acres are grazed through cattle leases. Prescribed fire is used extensively to suppress eastern red-cedars, to focus grazing, and for other ecological purposes. NVP conducts and hosts many research projects, collaborating with a variety of universities and other Nebraska Natural Legacy Project organizations. In addition, preserve staff emphasize experimentation and innovation in their land management approaches, developing and testing new ideas for sustaining ecological resilience. Those ideas and results are shared with a broad audience through numerous workshops and field tours, in addition to presentations and written publications. The preserve hosts a long public hiking trail and multiple access points where people floating the Niobrara River can visit waterfalls. In addition, open access hunting is available in some portions of the site.
+
+## Stresses Affecting Species and Habitats
+
+• Specific livestock grazing and haying practices that may reduce native plant diversity and promote uniform habitat structure. • Invasive plants in stream channels, wetlands, woodlands, and grasslands.
+• Limited prescribed fire and interruption of natural fire frequency leading to increased densities of trees and shrubs, litter accumulation, exotic plant invasion, and risk of standreplacing wildfires. • Upstream dams and water diversion.
+• Stream and river channelization and in-stream structures barring fish movement.
+• Conversion of natural habitats to cropland.
+• Infrastructure development (e.g., homes, cabins, ranchettes, roads, recreational facilities, animal confinements). • Limited applied science including research, assessment, and monitoring.
+• Recreational use of the river that degrades habitat for wildlife.
+• Limited awareness of management practices to improve habitats and to manage invasive species.
+
+## Conservation Strategies
+
+• Continue to implement planned grazing and haying strategies on public and private lands, in combination with prescribed fire and rest, to improve native plant diversity and reduce exotic grass dominance. • Work with partners (e.g., Middle Niobrara Weed Awareness Group, National Park Service) to develop and implement best management practices to control, manage and remove invasive plants.
+• Increase tree thinning, use of prescribed fire, and creation of fuel breaks in the valley and the draws on private and public lands to reduce cedars, manage for healthy woodlands, and improve wildlife habitat. • Facilitate the establishment and/or support of prescribed burn associations. Continue to enhance efforts to educate landowners about the benefits and practices of prescribed burns and offer trainings. • Work with counties to properly size and set culverts that facilitate native fish movement in small streams and promote stream connectivity. Find ways to ensure that in-stream Nebraska Natural Legacy Project structures allow for native aquatic organism movement (e.g., fish ladders), especially when culverts get washed out. Continue to innovate low-cost fish passage structures. • Work with interested landowners to use conservation programs, easements, or voluntary fee title acquisition to protect important habitats within the valley from development.
+• Work with counties to implement zoning ordinances that minimize fragmentation and impacts to wildlife in the valley. • Implement research, monitoring, and inventory projects to determine best management practices for SGCN. • Expand education programs on invasive species identification, prevention, and inadvertent transfer along with communication about responsible recreation to minimize impacts to SGCN and habitats. • Continue to work with partners to offer educational programs and landowner workshops to encourage peer-to-peer learning and increase awareness about collaborative conservation strategies and practices that improve habitats and their benefits. • Offer trainings for identifying and treating invasive species. 
+
+## Sandhills Alkaline Lakes
+
+## Biologically Unique Landscape Description
+
+This landscape occurs in Sheridan, Morrill, and Garden counties in the western Sandhills. The area consists of prairie-covered high dunes and interdunal valleys. It has a poorly developed drainage system, and many of the region's wetlands and lakes are highly alkaline. This is the largest alkaline wetland complex in the state and provides vital nesting and migratory habitat for shorebirds and other waterbirds, including American avocets and black-necked stilts. The landscape supports the largest populations of the federally and state-endangered blowout penstemon in Nebraska. Examples of protected areas in the BUL include Crescent Lake NWR and Smith Lake WMA.
+
+## Natural Legacy Demonstration Site
+
+## Crescent Lake National Wildlife Refuge -U.S. Fish and Wildlife Service
+
+This NWR, located in the Nebraska Panhandle, encompasses over 45,000 acres of rolling sandhills and numerous wetlands. The grasslands range from the densely-vegetated meadows to the sparsely vegetated dune tops. Managers are challenged with management of several at-risk species, including those that need open sand blowouts. Natural communities within the refuge include wet meadow, hardstem bulrush marsh, alkaline meadow, alkaline marsh, and sandhill dune prairie.
+159 Nebraska Natural Legacy Project
+
+## Stresses Affecting Species and Habitats
+
+• Specific livestock grazing and haying practices that may reduce native plant diversity and promote uniform habitat structure; some present-day range management practices have greatly reduced blowout habitat for the blowout penstemon. • Invasive species.
+• Encroachment by eastern red-cedar and other woody species in prairies.
+• Wetland drainage, which can also lead to lower groundwater levels and stream channel downcutting.
+• Increased water alkalinity.
+• Stream channelization and in-stream structures barring fish movement.
+• Stocking of exotic sport fish in streams with native, at-risk fish species.
+• Conversion of prairie to cropland, and groundwater depletions resulting from centerpivot irrigation. • Energy infrastructure development.
+• Limited applied science, including research, assessment, and monitoring.
+
+## Conservation Strategies
+
+• Continue to improve implementation of biodiversity management, including increased use of prescribed fire and strategic livestock grazing on the landscape. This is especially critical in meadows and wetlands where excessive thatch accumulation causes exotic cool-season grass dominance and loss of diversity. • Work with partners (e.g., extensions, NRCS) to enhance education efforts and collaborate with private landowners to implement effective methods of forage utilization on wet meadows that avoid ditching. Also, work with private landowners to implement strategic grazing on uplands. • Where feasible, create and maintain blowout complexes as habitat for the blowout penstemon through use of intense livestock grazing. • Implement integrated noxious weed control strategies that have minimum impacts to plant diversity. Work with extension, department of roads, and agronomy groups to prevent the promotion and planting of exotic forage grasses, such as Garrison creepingfoxtail and reed canary grass, and non-native forbs in Sandhills wet meadows and public roadsides. Enhance education efforts about the value of native forbs. • Undertake eastern red-cedar and other tree clearing to maintain open prairie habitat.
+• Work with the partners to ensure that wetlands enrolled in their programs allow occasional intensive grazing, burning, or haying to reduce vegetative litter accumulation and to promote biodiversity. • Restore and maintain the natural hydrology of streams, wet meadows, and other wetlands through ditch plugging and water control structures (ensure that in-stream structures allow for fish passage). • Work with counties to properly size and set culverts that facilitate native fish movement in small streams and promote stream connectivity. Find ways to ensure that in-stream Nebraska Natural Legacy Project structures allow for native aquatic organism movement (e.g., fish ladders), especially when culverts get washed out. Continue to innovate low-cost fish passage structures. 
+
+## Snake River
+
+## Biologically Unique Landscape Description
+
+This landscape includes the upper reaches of the Snake River, six miles from Merritt Reservoir westward to the stream's headwaters. The BUL covers the river channel and a two-mile buffer on each side. The Snake River begins as a small, spring-fed stream flowing through Sandhills meadows. As it gains flow, its valley becomes deeply incised, with bluffs that support pine woodlands and Sandhills prairies.
+The Snake River is a pristine, cold-water stream that maintains a near-constant flow throughout the year due to its spring-fed origin. It supports an assemblage of rare fish, including the plains topminnow, northern pearl dace, northern redbelly dace, and finescale dace. Merritt Dam, 161 Nebraska Natural Legacy Project located on the lower Snake River, blocks fish movement into the upper reaches. There are currently no protected areas in this landscape.
+
+## Stresses Affecting Species and Habitats
+
+• Specific grazing and haying practices that may reduce native plant diversity and promote uniform habitat structure. • Invasive species.
+• Interruption of natural fire frequency leading to increased tree and shrub densities, litter accumulation, exotic plant invasion, and risk of stand-replacing wildfires. • Ditching and channel straightening in the upper reaches of the Snake River lead to stream downcutting, lower groundwater levels, and bars native aquatic organism movement.
+• Increased ground and surface water pollution.
+• Stocking exotic sport fish into the river and tributary streams with native, at-risk fish species.
+• Conversion of prairie to cropland, and groundwater depletions resulting from centerpivot irrigation development.
+• Energy infrastructure development (e.g., wind, solar, power line).
+• Limited applied science, including research, assessment, and monitoring.
+
+## Conservation Strategies
+
+• Work with partners (e.g., extensions, NRCS, agronomists) to enhance education efforts and to collaborate with private landowners to develop and implement effective methods of forage utilization on wet meadows that avoid repeated annual mid-summer haying and do not require ditching. Also, work with private landowners to implement strategic grazing on uplands. • Implement integrated undesirable weed control strategies that have minimal impacts to plant diversity. • Increase tree thinning, use of prescribed fire, and creation of fuel breaks in the valley and the draws on private and public lands to reduce cedar, manage for healthy woodlands, and improve wildlife habitat. • Restore and maintain the natural hydrology of streams, wet meadows, and other wetlands through ditch plugging and water control structures. Ensure that in-stream structures allow for fish passage. • Create and maintain natural grassland buffers around riparian areas to reduce sedimentation and filter chemical runoff. Coordinate with NRDs and utilize watershed planning to address potential water quality problems. • Work with counties to properly size and set culverts that facilitate native fish movement in small streams and promote stream connectivity. Find ways to ensure that in-stream structures allow for aquatic passage when culverts get washed out (e.g., fish ladders). Nebraska Natural Legacy Project
+• Discontinue exotic and sport fish stocking in the river and tributary streams. Continue to monitor at-risk stream fish to determine range and population trends and competition with exotic fish. • Coordinate with landowners interested in using conservation programs to protect highquality habitats.
+• Work with energy companies to select sites for energy infrastructure development that minimize fragmentation and impacts to wildlife. 
+
+## Upper Loup Rivers and Tributaries
+
+## Biologically Unique Landscape Description
+
+This landscape includes the upper reaches of the Middle Loup, Dismal, North Loup, and Calamus rivers, from their headwaters in the central Sandhills southeastward to where the rivers enter the loess hills. The BUL covers the river channels and a two-mile buffer on each side.
+These rivers begin as spring-fed, narrow streams flowing through Sandhills meadows. In many places, the meadows have been ditched, and the streams channelized. As the streams gain flow, their channels become meandering and braided. The valley bottoms support wet meadows with some cottonwood woodlands, marshes, and isolated cropland. The surrounding bluffs are primarily Sandhills dune prairie. Nebraska Natural Legacy Project
+The rivers maintain a near-constant flow due to their spring-fed nature. The Calamus Reservoir on the Calamus River is the only impoundment in the region. Downstream diversions for irrigation on the Loup rivers within the loess hills block fish movement into the upper reaches. Many small, cold-water tributary streams also flow into these rivers.
+The upper reaches and some tributaries support rare fish assemblages, including the Topeka shiner, blacknose shiner, and finescale dace. Federally and state-endangered whooping cranes use the braided stream channels and adjacent meadows as migratory stopover sites. The federally and state-threatened western prairie fringed orchid occurs in wet meadows within the valleys, and the American burying beetle is also found in this landscape. Examples of protected areas in this BUL include parts of the Nebraska National Forest and several smaller WMAs.
+
+## Natural Legacy Demonstration Site
+
+## Calamus Wildlife Management Area and State Recreation Area -Nebraska
+
+## Game and Parks Commission
+
+Calamus Reservoir and the adjacent Calamus WMA consist of 11,477 acres of land and water, including 4,818 acres of WMA, 1,188 acres of SRA, and 5,124 acres of surface water. The area exhibits a variety of habitats including sandhills dune prairie, sandhills freshwater marsh, and wet meadows. Management activities include prescribed grazing, prescribed fire, eastern red-cedar removal, food plots, and invasive plant control. Numerous conservation groups have conducted plant identification tours in the past. Visitation rates are high in this relatively central location in the state, making it beneficial for demonstrating habitat projects.
+
+## Stresses Affecting Species and Habitats
+
+• Specific livestock grazing and haying practices that may reduce native plant diversity and promote uniform habitat structure. • Invasive species.
+• Limited prescribed fire on the landscape and interruption of natural fire frequency have led to increased tree and shrub densities, litter accumulation, exotic plant invasion, and risk of stand-replacing wildfires. • Ditching and channel straightening in the upper stream reaches that often leads to channel degradation, reduced groundwater levels, and inhibits native aquatic organism movement.
+• Increased ground and surface water pollution.
+• Water diversion on the rivers, extreme weather events, and in-stream structures (e.g., dams, culverts) that impede fish movement. • Stocking exotic sport fish into tributary streams with native, at-risk fish.
+• Conversion of prairie to cropland. Groundwater depletion resulting from center-pivot irrigation. Nebraska Natural Legacy Project
+• Infrastructure development (e.g., homes, cabins, ranchettes, roads, recreational facilities), particularly along the Calamus River. • Energy infrastructure development (e.g., wind, solar, power line).
+• Excessive recreational use (e.g., ATV) that is incompatible with the habitat needs of native wildlife.
+
+## Conservation Strategies
+
+• Work with partners (e.g., Nebraska and South Dakota extensions, NRCS, agronomists) to enhance education efforts and collaborate with private landowners to implement effective methods of forage utilization on wet meadows that avoid repeated annual midsummer haying and do not require ditching. Also, work with private landowners to implement strategic grazing on uplands. • Continue to improve implementation of biodiversity management, including increased use of prescribed fire and planned livestock grazing. • Work with partners (e.g., Nebraska Forest Service, Nebraska Department of Transportation) to prevent the promotion, propagation, and planting of exotic plants.
+Enhance education efforts about the value of native forbs. • Increase monitoring for early detection and control of invasive plants. Implement integrated invasive weed control strategies that have minimal impacts on meadow and wetland plant diversity, including programs to reduce eastern red-cedar encroachment into grasslands. • Increase tree thinning, use of prescribed fire, and creation of fuel breaks in the valley and the draws on private and public lands to reduce cedar, manage for healthy woodlands, and improve wildlife habitat. • Facilitate the establishment and/or support of prescribed burn associations. Continue to enhance efforts to educate landowners about the benefits and practices of prescribed burns and offer trainings. • Restore and maintain the natural hydrology of streams, wet meadows and other wetlands through ditch-plugging and water control structures. Ensure that in-stream structures allow for native fish passage. • Create and maintain natural buffers around riparian areas to reduce sedimentation and filter chemical runoff. Coordinate with NRDs and utilize watershed planning to address potential water quality problems. • Work with counties to properly size and set culverts that facilitate native fish movement in small streams and promote stream connectivity. Find ways to ensure that in-stream structures allow for native aquatic organism movement (e.g., fish ladders), especially when culverts get washed out. Continue to innovate low-cost fish passage structures. • Discontinue exotic and sport fish stocking in the river and tributary streams. Continue to monitor at-risk stream fish to determine range, population trends, and competition with exotic fish. • Coordinate with landowners interested in using conservation programs to protect highquality habitats and undeveloped stretches of the river valley. Nebraska Natural Legacy Project
+• Work with energy companies to select sites for energy infrastructure development that minimize fragmentation and impacts to wildlife. • Expand education programs on invasive species identification, and inadvertent transfer along with communication about responsible recreation to minimize wildfire risks and impacts to SGCN and habitats. 
+
+## Introduction
+
+Geographers and botanists have long included the Nebraska Panhandle in a north-to-south band of the western Great Plains known as the shortgrass prairie region. Perhaps, in the distant past, bison kept the Panhandle prairies closely grazed and giving them the appearance of shortgrass prairie, a plant community which dominates uplands westward and southward of Nebraska. In reality, most uplands in western Nebraska support mixed-grass prairie -a mosaic of short, mid, and some tall grasses. Today in western Nebraska, true shortgrass prairiedominated by short grasses like blue grama, buffalograss, and threadleaf sedge -is limited to heavily grazed clayey hilltops and ridges.
+The topography of Nebraska's Shortgrass Ecoregion is diverse, as are its soils, which include gravels, sands, loams, and clays. Scattered across the vast prairie-covered hills and plains are rocky, pine-covered escarpments. The two main ones are the Wildcat Hills, south of the North Platte River, and the Pine Ridge in the Panhandle's northwest corner. Bordering the Pine Ridge to the north is a wide band of highly eroded, clayey badlands. Lush, grass-and shrub-covered sand dunes are scattered throughout the region.
+Annual precipitation in the region ranges from about 20 inches in the east to less than 16 inches in the west, much lower than in other parts of the state. Most rainfall occurs in May and June. Near Scottsbluff, average winter highs are about 41°F, with lows near 17°F. Summer highs 168 Nebraska Natural Legacy Project average about 87°F, with lows near 57°F. Humidity is generally lower than it is farther east in Nebraska.
+Several rivers traverse this ecoregion, each contributing to its diverse hydrology. In the southwest corner of the state, the upper Republican River cuts across the landscape. In the north, the upper reaches of the Niobrara and White rivers flow through the region. The shallow, braided South Platte and North Platte are the two main rivers that flow through the southern and central Panhandle. Many North Platte tributaries are cold-water streams. Some of the smaller creeks in the ecoregion, such as Lodgepole Creek, have been largely pumped dry for irrigation. The Frenchman Creek, for example, has suffered greatly reduced flows due to groundwater depletion from irrigation.
+Natural wetlands are limited in the region and some natural playas are common on level uplands in the southeast and scattered farther northward. Five large reservoirs and several smaller artificial lakes provide habitat for fish, amphibians, invertebrates, and waterbirds.
+
+## Southwestern Playas
+
+In southwestern Nebraska, there are approximately 13,689 playas. These playas are found predominantly within loess mixed-grass prairie, sandhills dune prairie, sandsage prairie, and threadleaf sedge mixed-grass prairie upland types. The playas are small (average size +1.2 acres), round, geographically-isolated recharge wetlands that support high biodiversity and are a primary source of recharge to the Ogallala aquifer. Playas have an extreme wet and dry cycle; on average, they are wet once every 10 years. When dry, cracks form in the clay soil at the bottom of the playa. During rainstorms, runoff flows into the playa and through the cracks toward the aquifer. As the soil becomes saturated, the cracks close and the playas fill with water. Once full, seeds begin to germinate, aquatic invertebrates hatch, and wildlife increase their use of the playa.
+Distinct wetland plants are found in playas that provide food for migrating waterfowl. Several native obligate and facultative wetland plants can be found in playas, such as bearded flatsedge, bearded sprangletop, blue mudplantain, bushy knotweed, cuman ragweed, disk waterhyssop, dwarf spikerush, eared redstem, foxtail barley, Pennsylvania smartweed, prairie cordgrass, and spreading yellowcress.
+While playas provide critical wetland habitat for wildlife, they also provide important benefits for the people who live in this region. Playas, when healthy, provide a sustainable water source for domestic use and rain-fed operations, water filtration, flood control, livestock forage, and recreation.
+A healthy playa has an intact basin without excavated pits or ditches, and the clay layer that allows groundwater recharge is not buried by soil from nearby fields. Water from the surrounding watershed freely enters the playa through a native vegetative buffer and is not diverted by roads, terraces or other impediments.
+169 Nebraska Natural Legacy Project In Nebraska, the primary threat to playas is culturally-accelerated sediment accumulation. Because playas are small depressions in relatively flat landscapes, they are easy to cultivate. Farming through playas can impair their function in two ways. First, the equipment mixes upland soil types with the clay layer reducing the ability of the soils to swell and shrink, thus limiting the recharge function of playas. Second, farming the playa and surrounding uplands increases the amount of sediments deposited through culturally-accelerated sedimentation. The additional sediment accumulation fills the playa, reducing the volume of water held and can bury seeds and eggs of macroinvertebrates -both important food sources for migrating wetland birds.
+
+## Vegetation
+
+Mixed-grass prairie dominates the region's uplands. Northwestern mixed-grass prairie is abundant north of the Pine Ridge, while threadleaf sedge western mixed-grass prairie prevails south of the escarpment. The most abundant grasses and sedges in these prairies are blue grama, prairie sandreed, needle-and-thread, green needlegrass, little bluestem, western wheatgrass, and threadleaf sedge. Common shrubs include skunkbush sumac, rubber rabbitbrush, sagebrushes, snowberry, yucca, and broom snakeweed. Common wildflowers include scarlet gaura, dotted gayfeather, skeletonplant, cutleaf ironplant, lemon scurf-pea, and scarlet globemallow.
+Shortgrass prairie often composed of blue grama, buffalograss, and threadleaf sedge occupies dry, clayey uplands. Wildflowers here include milk-vetches, scarlet gaura, cutleaf ironplant, prickly pear, purple locoweed, slender-flower scurf-pea, prairie coneflower, and scarlet globemallow. Sandsage prairie covers sand dunes in the southern half of the region. Sand sagebrush is a dominant shrub, while abundant grasses include blue grama, prairie sandreed, and needle-and-thread. Common wildflowers are yucca, sand lily, desert goosefoot, plains sunflower, bush morning-glory, and showy ipomopsis. In the northern part of the region, sandhills dune prairie is the dominant community on the dunes. It shares many species with sandsage prairie, but lacks the sandsage cover.
+Western alkaline meadows and marshes are scattered throughout the floodplains of the North Platte River, Niobrara River, and Pumpkin Creek. Common species include inland saltgrass, alkali sacaton, clustered field sedge, foxtail barley, bluegrass, spearscale, rayless alkali aster, viscid camphor-daisy, and entire-leaf thelypody. Freshwater meadows and marshes also occur in the floodplains, where various grasses, sedges, bulrushes, and cattails prevail.
+Cottonwood woodlands, where peachleaf willow sometimes co-dominates in the canopy, occur scattered in stream floodplains. The communities' sub-canopy often includes green ash, box elder, Russian olive (a non-native), and eastern red-cedar. The ground layer is usually sparse, with species such as field horsetail, Emory's sedge, woolly sedge, marsh muhly, and prairie cordgrass. Shrubs like sandbar willow, American plum, chokecherry, and silver buffaloberry are also common in and about these woodlands.
+Ponderosa pine is the dominant canopy tree on escarpments, with Rocky Mountain juniper as a common secondary species. A pine stand in Kimball County also contains Nebraska's only Nebraska Natural Legacy Project limber pine population. Eastern red-cedar and juniper hybrids have been expanding into the pine woodlands in recent decades due to the lack of wildfires. Common shrubs in the woodlands include Saskatoon serviceberry, chokecherry, dwarf juniper, skunkbush sumac, mountain mahogany, and wolfberry. Abundant herbaceous species include sun sedge, needlegrasses, prairie sandreed, bog buckbean, fragile fern, white sage, and yucca. Rock outcrop communities are common on escarpments and often have high plant diversity. Common species include milk-vetches, Hood's phlox, stemless tetraneuris, grama grasses, and thick-spike wheatgrass.
+Badlands are sparsely vegetated, with shrubs such as saltbush and rubber rabbitbrush, along with forbs like silver orache, and Russian thistle. Mixed-grass prairie commonly grows on the clay flats bordering these badlands.
+
+## Animals
+
+More than 300 species of resident and migratory birds have been recorded in the shortgrass prairie ecoregion. Some upland prairie species include thick-billed and chestnut-collared longspurs, Brewer's sparrow, horned lark, burrowing owl, western meadowlark, grasshopper sparrow, lark bunting, and the state-threatened mountain plover. Pine forest species include red crossbill, pygmy nuthatch, ovenbird, and mountain bluebird. Wetlands in the region support many waterfowl species including northern pintail, along with shorebirds such as American avocet.
+Ungulates of the region include white-tailed and mule deer, elk, pronghorn, and bighorn sheep. Coyotes and bobcats are the most common large predators, while mountain lions have established localized populations in the Wildcat Hills and Pine Ridge. The region is also one of the remaining strongholds for the state-endangered swift fox. Prairie dogs remain locally abundant despite a general decline in population. The federally endangered black-footed ferret, which relies heavily on prairie dogs for food, once inhabited the region but has since been extirpated. Other mammals found here include river otter, black-tailed jackrabbit, American badger, plains pocket gopher, and northern grasshopper mouse. The region's lakes and reservoirs are stocked with sport fish, such as walleye, largemouth bass, white bass, cutthroat trout, brook trout, and bluegill. Brown and rainbow trout are stocked in cold-water streams and ponds. River-associated fish include channel catfish, river carpsucker, western silvery minnow, suckermouth minnow, the state-threatened finescale dace, and the state-endangered blacknose shiner.
+Common amphibians in the region include the western tiger salamander, boreal chorus frog and Woodhouse's toad. Some of the reptiles in this region include bullsnake, common lesser earless lizard, mountain short-horned lizard, and ornate box turtle. The prairie rattlesnake is the region's only venomous snake. Nebraska Natural Legacy Project
+
+## History and Dominant Land Use
+
+At the time of settlement, nomadic bands of Pawnee, Sioux, and Northern Cheyenne hunted and gathered in the shortgrass ecoregion. Beginning in the mid-1840s, thousands of Euro-Americans traveled westward along the Oregon Trail and Mormon Trail through the North Platte River valley, though few chose to settle in the area.
+The first cattle ranch in the region was established in 1862. It was soon discovered that the nutritious short and mid grasses made cattle fat, and the word spread, attracting more ranchers to the area. Many herds grazed the open range on public lands.
+The Homestead Act of 1864 drew the first farmers to the ecoregion; they first settled and plowed the rich, moist soils along stream bottoms. The completion of the transcontinental railroad in the late 1860s accelerated settlement. The Kincaid Act of 1904 allowed homesteaders to claim up to 640 acres, making dryland farming in this arid region more practical. As farms began appearing across the open range, conflicts often arose between farmers and ranchers.
+Between 1888 and 1889, the Farmers' Canal Company in Cheyenne County built the region's first irrigation canals -Winter Creek, Minatare, and Enterprise -with more following in the coming decades. With irrigation, growing sugar beets and potatoes was now practical in the region. Other key crops in the early 1900s were wheat and dry beans.
+The 1920s saw increased prairie-to-cropland conversion, but the Dust Bowl of the 1930s, along with the Great Depression, brought economic hardship to many farmers and ranchers and slowed the plowing of prairies. The region's farming economy recovered from the drought in the 1940s.
+The introduction of center-pivot irrigation in the 1970s and 1980s, again stimulated conversion of prairie to cropland. Today, roughly 87% of the land in the northwestern part of the ecoregion is rangeland, while about 88% of the southeastern portion is under crop production. As in much of Nebraska, the current trend in the ecoregion is toward fewer, but larger, farms and ranches. Scotts Bluff is the largest city in the region.
+
+## Nature-based Recreation
+
+The shortgrass ecoregion is rich in natural amenities that attract nature enthusiasts, hunters, anglers, hikers, birders, and visitors drawn to its diverse landscapes and rich natural history. Many of these features rank among Nebraska's top tourist attractions and contribute significantly to local economies.
+On the eastern edge of the region is Lake McConaughy, Nebraska's largest reservoir. It's a prime destination for anglers, boaters, bird watchers, hunters, and campers. In the southern Panhandle, the Wildcat Hills rise above the North Platte River and offer dramatic views, pine forests, and diverse wildlife. In the northwest, the Pine Ridge features some of the most scenic landscapes in Nebraska. Fort Robinson State Park offers jeep and horseback tours, hiking, fishing, and wildlife viewing. Nearby recreational areas include Chadron State Park, several Nebraska Natural Legacy Project wildlife management areas (WMAs), the Nebraska National Forest, and Soldier Creek Wilderness. North of Pine Ridge, Oglala National Grassland and Toadstool Geologic Park provide unique habitats and outdoor recreation experiences.
+
+## Wildlife Viewing
+
+Lake McConaughy boasts more than 340 recorded bird species, more than any other site in Nebraska. During winter, hundreds of bald eagles can be observed from a heated viewing facility below Kingsley Dam. The Wildcat Hills Nature Center, with its bird feeders and water features, attracts pygmy nuthatches, red crossbills, pine siskins, and unique western bird species. During fall migration, the Bird Conservancy of the Rockies operates bird-banding stations at the nature center and Chadron State Park, welcoming visitors to observe and learn about bird conservation. Oliver Reservoir in the southern Panhandle is one of the best birding locations during migration. The shrubby, wooded riparian area offers crucial stopover habitat for songbirds amid the vast grasslands landscape. Year-round, bighorn sheep can be viewed at Williams Gap and Cedar Canyon WMAs. Fort Robinson's Smiley Canyon Scenic Drive provides a chance to see bison from the comfort of a vehicle. Prairie dog colonies offer a glimpse at burrowing owls, badgers, and raptors, while pronghorn, deer and elk can be observed throughout the region.
+
+## Trails
+
+The Wildcat Hills State Recreation Area (SRA) offers a system of multi-use trails for hikers, equestrians, and mountain bikers through a rugged pine forest escarpment. Scotts Bluff National Monument provides multiple hiking trails, including a scenic three-mile trek to the summit. A 6.3-mile greenway and trail system connects the monument to the cities of Scottsbluff and Gering. Annual gravel bike races draw cyclists from across the country to the area.
+In the Pine Ridge, Fort Robinson State Park offers over 100 miles of hiking and equestrian trails. The White River Trail is a flat route ideal for walking, biking, and wildlife viewing. The Northern Cheyenne Tribe is developing a "Healing Trail" from Fort Robinson to a memorial commemorating the Cheyenne Breakout tragedy. This accessible trail will offer cultural reflection, as well as nature viewing opportunities. The Cowboy Trail is also expanding in the region, with completed segments between Gordon and Rushville and an upcoming 24.5-mile extension between Rushville and Mile Marker 400, five miles east of Chadron is scheduled to open in 2026. Efforts are underway to connect Chadron to the western terminus of Cowboy Trail.
+
+## Fishing
+
+Lake McConaughy supports hybrid striped bass, smallmouth bass, and trophy walleye, while the adjacent Lake Ogallala is known as one of the best rainbow trout fisheries in the Great Plains. Coldwater streams in the panhandle also offer quality trout fishing. Bullfrog angling is permitted year-round throughout the region. Nebraska Natural Legacy Project
+
+## Hunting
+
+This region provides unique hunting opportunities for species not commonly found elsewhere in Nebraska, including elk, mule deer, pronghorn, mountain lion, and bighorn sheep. Hunters also enjoy opportunities to hunt turkey, white-tailed deer, pheasants, and other game species found in the region.
+
+## Challenges
+
+As economic conditions evolve, nature-based recreation is becoming a more integral part of the Panhandle's economy. With rural populations declining and traditional agricultural opportunities shifting, the region is seeing an increased focus on tourism centered on its natural assets. However, balancing recreational use with wildlife conservation remains a challenge. For example, portions of Lake McConaughy's beaches are closed during nesting season to protect piping plovers, a state-and federally threatened species. Recreationists may disturb nesting birds, leading to nest abandonment or even direct harm. Recognizing the social carrying capacity was exceeded in some locations of the lake, the Central Nebraska Public Power and Irrigation District has adopted the Lake McConaughy Lake Ogallala Master Plan to limit human disturbance and educate the public. These efforts include max visitor limits and piping plover educational campaigns, which have helped alleviate conflicts 
+(Nebraska Game and Parks Commission, 2016)
+. Continued stakeholder engagement will be vital for minimizing negative impacts and improving the social acceptance of the piping plovers 
+(Jorgensen & Brown, 2015)
+.
+Other challenges include wildfire risk, especially during prolonged dry periods. Visitors unfamiliar with fire-prone ecosystems may unintentionally spark wildfires through unattended campfires or off-road vehicle use. Increasing public education, posting fire safety signage, and enforcing local restrictions are essential to minimize these risks.
+The region offers numerous high-quality nature-based recreation opportunities; however, some access points are poorly marked, interpretive information is lacking, and promotion of outdoor opportunities is limited. Increasing the number of individuals and groups, like the Northwest Nebraska Trails Association, with expertise in nature-based recreation and tourism could help guide community leaders and residents in expanding and promoting these opportunities. By fostering partnerships among the business, tourism, conservation, and agricultural sectors, the region can ensure that natural amenities continue to support both economic vitality and ecological health.
+
+## Education
+
+This ecoregion offers rich opportunities for environmental education, thanks to its unique topography and diverse ecosystems. Several partners, including local, state, federal, and nonprofit organizations, collaborate to provide both indoor and outdoor educational experiences. These programs connect a wide range of audiences -from students to community members -with the natural and cultural heritage of the region. Nebraska Natural Legacy Project Key educational sites include Wildcat Hills Nature Center, Scotts Bluff National Monument, and Agate Fossil Beds National Monument, all of which offer immersive experiences that highlight the region's biodiversity. Educational Service Unit #13 collaborates with area schools and educators to provide annual programs like "Water Education for Tomorrow," "Branch Out," and "Outdoor Discovery Program." Despite these efforts, the geographic isolation of many schools in the panhandle presents challenges for environmental education. Limited resources, teacher training, and funding hinder the ability to provide students with hands-on outdoor learning experiences. Increased collaboration with local ranchers, farmers, and landowners can help bridge this gap, as these individuals often possess deep knowledge of the region's ecology and wildlife.
+Representative species with educational and/or community science opportunities:
+• Rocky Mountain Bighorn Sheep (Ovis canadensis) 
+
+## Ecoregion-specific Stresses Key Stresses
+
+In addition to the stresses and conservation actions identified in this chapter for the Shortgrass Prairie Ecoregion, statewide concerns are also identified in chapter four. Conservation practitioners identified the following stresses as the top threats in the ecoregion.
+Altered frequency and intensity of fire and grazing: Short-and mixed-grass prairie, wetland, and forest habitats in the ecoregion were maintained historically by periodic fires and grazing. The interaction from these disturbances promoted structural heterogeneity and floristic diversity. Fire suppression in forests and underutilization of fire as a management tool in grasslands and wetlands has altered stand diversity and density in forests, and species composition in grasslands. Heavy fuel loading resulting from fire suppression has increased the negative impact of wildfires when they occur. The loss of the beneficial, synergistic relationship between fire and grazing has affected the ability of livestock grazing to mirror grazing by native herbivores. Need for greater collaboration between the agricultural and conservation communities: Past contention and misunderstandings between the agriculture and conservation communities on issues related to water and threatened and endangered species have sometimes left deep divisions. Although there is often common ground on many issues related to conserving biological diversity, there remains some lack of trust and resolve to collaborate on issues important to all stakeholders. Staff turnover at conservation agencies has made it difficult to build meaningful relationships and has contributed to the lack of trust and communication with the agricultural communities. Opportunities exist to merge firsthand knowledge of the land with newly developed conservation practices that benefit producers and ecosystems alike. While progress is being made, there is still a need for improved communication with agricultural communities about current and changing contracts and their impacts on agricultural and conservation communities.
+Limited assessment, monitoring, and applied science to inform species and habitat conservation efforts: Conservation organizations and universities have limited capacity to monitor and assess many species, especially nongame and at-risk wildlife, and their habitats. There is a need for more baseline population estimates to better inform conservation decisions and listings of at-risk species. The lack of species and habitat monitoring overtime, especially in response to management efforts, hinders the understanding of an area and ways to best manage and conserve it. An increase in applied science efforts in this area could greatly enhance our understanding of this ecoregion. Additionally, wildlife diseases impacting wild populations of birds and mammals, like bighorn sheep and pronghorn, should be monitored and researched further. 
+
+## Biologically Unique Landscapes of the Shortgrass Prairie Ecoregion
+
+One main goal of the Nebraska Natural Legacy Project is to identify priority landscapes that, when properly managed, will help conserve most of the state's biological diversity. These areas, called Biologically Unique Landscapes (BULs), were selected based on the presence of at-risk species and natural communities. See Chapter 3 for a full description of the selection methods.
+The map shows the BULs for the Shortgrass Prairie Ecoregion. Brief descriptions of each BUL follow the map, including information about the stresses affecting species and habitats, proposed conservation actions, and natural communities found in each landscape.
+In this ecoregion, some BULs are truncated by the Nebraska state boundary. We suggest opportunities for wildlife conservation in these areas based on review of corresponding adjacent state wildlife action plans (SWAPs). Nebraska Natural Legacy Project Shortgrass Prairie Biologically Unique Landscapes:
+• Kimball Grasslands 
+
+## Stresses Affecting Species and Habitats
+
+• Specific livestock grazing and haying practices that may reduce native plant diversity and promote uniform habitat structure. • Invasive plant species.
+• Canada thistle invasion, herbicide spraying, and lowered groundwater levels in meadows where the Colorado butterfly plant occurs. • Tilling in fallow millet and wheat fields that destroy mountain plover nests and the increasing no-till dryland farming practices that reduce the availability of bare ground habitat that is required by nesting mountain plovers. • Sedimentation and hydrological alteration of playa wetlands.
+• Conversion of native prairie to cropland.
+• Decline in CRP enrollment.
+• Infrastructure development (e.g., roads, energy development, housing) in native grasslands.
+
+## Conservation Strategies
+
+• Implement ecologically sensitive grazing and haying strategies on native prairies on private lands, in combination with prescribed fire and rest. In appropriate areas, these strategies can be designed to benefit nesting shortgrass prairie birds. 
+
+## North Platte River
+
+## Biologically Unique Landscape Description
+
+This landscape includes the North Platte River channel and a two-mile buffer on each side of the channel, from the upper end of Lake McConaughy to the Wyoming border. The river is shallow and braided, with tree-lined banks. Most of the floodplain is farmed. Woodlands dominated by cottonwood, eastern red-cedar, and Russian olive often form narrow to wide bands on accretion land. Low-lying areas often contain mosaics of both alkaline and freshwater Nebraska Natural Legacy Project wet meadows and marshes. Most freshwater wetlands are heavily invaded by exotic grasses and cattails, while the alkaline meadows support a more native flora. These meadows support unique groups of insects, including tiger beetles, dragonflies, and butterflies. The valley wetlands are an important migratory stopover for waterfowl and shorebirds. Some protected areas in this landscape include Kiowa and Chet and Jane Fleisbach WMAs, as well as the Platte River Basin Environment's Spotted Tail Complex, and other properties.
+
+## Stresses Affecting Species and Habitats
+
+• Specific livestock grazing and haying practices that may reduce native plant diversity and promote uniform habitat structure. • Invasive plant species in sandbars, meadows, and woodlands.
+• Limited prescribed fire on the landscape.
+• Altered natural hydrology, particularly lack of high spring flows, low summer flows, and reduced sediment transport to maintain sandbars. • Ditching and draining of wetlands.
+• Sedimentation and draining of backwater sloughs.
+• Groundwater pumping and reduced instream flows that impact water levels in valley wetlands.
+• Conversion of meadows to cropland.
+• Urban and second home development.
+
+## Conservation Strategies
+
+• Implement planned grazing and haying strategies on public and private lands, in combination with prescribed fire and rest, to improve native plant diversity and vigor. 
+
+## Oglala Grasslands
+
+## Biologically Unique Landscape Description
+
+This landscape covers the plains and rolling hills in the northwestern Panhandle, north of the Pine Ridge. The region's uplands support mixed-grass prairie with very limited cropland making it one of Nebraska's largest intact grasslands. Rock outcrops and badlands are scattered throughout the prairie, along with small stream valleys. The soils are mostly clays formed from Pierre Shale, and the prairie is dominated by blue grama, green needlegrass, and western wheatgrass. Nebraska Natural Legacy Project Other Nebraska plant communities found only in this region include western floodplain terrace grassland, silver sagebrush shrub prairie, greasewood shrub prairie, and northwestern mixedgrass prairie. Small playas are scattered across level uplands. The region's grasslands support extensive prairie dog towns, swift fox populations, and habitat for grassland birds. The Oglala National Grassland occupies a large portion of this landscape.
+
+## Natural Legacy Demonstration Site
+
+## Oglala National Grasslands -U.S. Forest Service
+
+The Oglala National Grassland spans 94,520 acres and consists of shortgrass prairie, badlands, ponderosa pine forest, and hardwood riparian corridors in the northwest corner of Nebraska. These public lands, administered by the U.S. Forest Service, are managed for active, sustainable, multiple-use purposes, with grazing, recreation, and restoration being the primary public uses of the lands. Two world-renowned areas, Toadstool Park and Hudson-Meng Education and Research Center, provide opportunities to share both historical and current management techniques with the visiting public.
+
+## Stresses Affecting Species and Habitats
+
+• Specific livestock grazing and haying practices that may reduce native plant diversity and promote uniform habitat structure. • Invasive plant species, primarily exotic cool-season annual grasses.
+• Russian olive and other woody encroachment along streams.
+• Limited prescribed fire on the landscape.
+• Energy leases and infrastructure development in native grasslands.
+• Human-induced eradication of entire prairie dog colonies or the spread of diseases within prairie dog populations that can rapidly decimate an entire colony. • Fence type and placement that significantly hinder wildlife.
+
+## Conservation Strategies
+
+• Work with private landowners and the U.S. Forest Service to implement ecologically sensitive grazing strategies that reduce exotic cool-season annual grasses and promote native plant diversity and diverse wildlife habitats. • Restore sagebrush communities on selected sites.
+• Undertake Russian olive and other tree clearing to maintain stream corridors.
+• Increase the use of prescribed fire to enhance forb diversity in grasslands.
+• Work with energy companies to select sites for energy infrastructure development that minimize fragmentation and impacts to wildlife. • Manage public lands to maintain black-tailed prairie dog towns at an ecologically functional population level. • Promote fencing methods that are less obstructive to pronghorn antelope and other wildlife. Nebraska Natural Legacy Project protected areas in the BUL include the North Platte National Wildlife Refuge (NWR) and several small WMAs.
+
+## Stresses Affecting Species and Habitats
+
+• Specific livestock grazing and haying practices that may reduce native plant diversity and promote uniform habitat structure. • Invasive plant species, primarily exotic cool-season annuals.
+• De-watering of the Niobrara River.
+• Conversion of prairie to cropland (e.g., in the Niobrara River valley).
+• Potential losses in CRP enrollment and re-enrollment.
+• Infrastructure development (e.g., roads, energy development) in native grasslands.
+• Human-induced eradication of entire prairie dog colonies or the spread of diseases within prairie dog populations that can rapidly decimate an entire colony. • Fence type and placement that significantly hinders wildlife.
+
+## Conservation Strategies
+
+• Implement ecologically sensitive grazing and haying strategies on native prairies on private lands, in combination with prescribed fire and rest. In appropriate areas, these strategies can be designed to benefit nesting shortgrass prairie birds. • Increase the use of prescribed fire to enhance forb diversity in grasslands.
+• Environmental education to address water conservation strategies.
+• Coordinate with interested landowners to protect high-quality sites using conservation strategies that are compatible with working lands. Restore additional grassland habitat through high-diversity, local ecotype restorations, and landowner collaboration. 
+
+## Pine Ridge
+
+## Biologically Unique Landscape Description
+
+The Pine Ridge is a rocky escarpment that rises several hundred feet from the surrounding plains in Sioux, Dawes, and Sheridan counties in northwest Nebraska. The escarpment is composed of sandstone, siltstones, and volcanic ash. Ponderosa pine woodlands and forest occupy many of the north-and east-facing slopes and bottoms. Pine woodlands and mixedgrass prairie occupy the south-and west-facing slopes. Several streams, including the White River, Hat Creek, and Soldier Creek, originate in the Pine Ridge. The valleys of these northward flowing streams support deciduous woodlands and meadows in their floodplains.
+As a pine-dominated escarpment within the Great Plains grasslands, the Pine Ridge supports many at-risk species at the edge of their range, including a small population of Rocky Mountain bighorn sheep. There are several, large, protected areas within this landscape, including the Nebraska National Forest (Pine Ridge District), Fort Robinson State Park and several WMAs. 
+
+## Fort Robinson State Park -Nebraska Game and Parks Commission
+
+The majority of Fort Robinson is rolling prairie uplands, but this large park has riparian areas and towering buttes and rock outcrops. Pine woodlands characteristic of the Pine Ridge provide habitat for the bighorn sheep and other at-risk species. A large part of the park was burned in 1989. Areas of the Pine Ridge have western mixed-grass prairie, ponderosa pine forest, dry-mesic ponderosa pine woodland, dry ponderosa pine open woodland and savanna. There is much potential for a variety of management types at the park.
+
+## Ponderosa Wildlife Management Area -Nebraska Game and Parks Commission
+
+Ponderosa WMA is adjacent to U.S. Forest Service property. The WMA is primarily coniferous forest, with deciduous forest along Squaw Creek, which flows through the site. Natural communities within the WMA include western mixed-grass prairie, ponderosa pine forest, dry-mesic ponderosa pine woodland, dry ponderosa pine open woodland, and savanna. Prescribed fire and other management techniques are implemented on the WMA and other nearby properties.
+
+## Stresses Affecting Species and Habitats
+
+• Specific livestock grazing and haying practices that may reduce native plant diversity and promote uniform habitat structure. • Invasive plant species.
+• Lack of best management practices on private lands and commercial logging practices that disturb groundcover, create logging roads, and take old-growth trees, creating evenaged stands of trees. • Limited use of prescribed fire has led to excess fuel accumulation and increased densities of ponderosa pine, eastern red-cedar, and Rocky Mountain juniper, which can lead to catastrophic fires. • Housing and ranchette development.
+• Tree pest infestations and diseases impacting forest health.
+• Disease transmission affecting Rocky Mountain bighorn sheep.
+
+## Conservation Strategies
+
+• Implement planned grazing strategies on public and private lands to improve native plant diversity and vigor. 
+
+## Sandsage Prairie
+
+## Biologically Unique Landscape Description
+
+This landscape is made up of low rolling sand dunes and stream breaks across a four-county area in far southwest Nebraska. Loess mixed-grass prairie and western mixed-grass prairie occur on the breaks and bluffs of the Republican and Frenchman rivers, while sandsage prairie is found on the rolling sand dunes. Playas are found throughout the counties included in this BUL. The mixed-grass prairies are partly fragmented by cropland and are degraded in some areas due to livestock grazing that reduces plant diversity.
+Center-pivot irrigation has caused heavy fragmentation of the sandsage prairies. Before groundwater pumping for irrigation began, some valleys in this dune complex contained lakes, marshes, and wet meadows. These areas have since turned into dry valleys because of the lowering of the groundwater table.
+Irrigation in the region has also greatly reduced the flow of groundwater-fed streams, such as Frenchman Creek. However, several high-quality small streams that flow into the Republican River still remain, including Buffalo Creek and Rock Creek. The Republican River above Swanson Reservoir is less degraded than its lower stretches and still has a braided channel and open sandbars. This landscape is important for its large areas of sandsage prairie and high-quality loess mixed-grass prairies. The largest protected area in the ecoregion is Enders Reservoir SRA and WMA.
+
+## Natural Legacy Demonstration Site
+
+## Enders Reservoir State Recreation Area and Wildlife Management Area -Nebraska Game and Parks Commission
+
+Enders SRA and WMA spans 4,599 acres and includes a 1,707-acre reservoir. Approximately 2,150 acres are designated as a wildlife refuge. The landscape surrounding the reservoir ranges from gently rolling slopes of 0%-20% to steeper, more irregular terrain exceeding 20%. Soils in the area vary, with fine sand and loamy fine sand found in sandsage prairie, and silt loam in the lowland, riparian woodland, and upland regions. The area supports three primary cover types: sandsage prairie, characterized by sand sagebrush, needle and thread, and bush morning glory; lowland and riparian woodland areas, featuring species such as switchgrass, willows, and Nebraska Natural Legacy Project western chokecherry; and upland zones, where little bluestem, skunkbush sumac, prickly pear cactus, and prairie coneflower are common. Numerous wildlife species can frequently be observed in the area, including prairie dogs. Habitat management goals focus on controlling eastern red-cedar encroachment in the sandsage prairie, using prescribed fire to enhance prairie health and wildlife habitat, and planting food plots to further support diverse wildlife populations. Enders SRA and WMA offer a variety of recreational activities, including hunting, fishing, camping, wildlife viewing, and boating. Responsible management of this area is essential to ensure that future generations can continue to enjoy these outdoor experiences.
+
+## Stresses Affecting Species and Habitats
+
+• Specific livestock grazing and haying practices that may reduce native plant diversity and promote uniform habitat structure in prairies, which can lead to exotic plant invasion. • Invasive plant species, primarily smooth brome and cheatgrass and woody encroachment in prairies and riparian areas. • Broadcast spraying of sandsage prairies to reduce sand sagebrush abundance, which greatly reduces native plant diversity and degrades wildlife habitat. • Limited prescribed fire on the landscape.
+• Erosion and contamination from livestock watering in the river.
+• Groundwater withdrawal for center-pivot irrigation, which affects water levels in wetlands and streams. • Loss of native sandsage prairie to cropland.
+• Infrastructure development (e.g., roads, energy, housing) in native grasslands.
+
+## Conservation Strategies
+
+• Implement ecologically sensitive grazing strategies and intervals of prescribed fire on native prairies, specifically sandsage prairie. These strategies can be designed to eliminate the need to spray these sites to reduce sand sagebrush densities and control exotic cool-season grasses. the Sandhills in western Cherry County. Here, ponderosa pine woodlands cover parts of the bluffs, and cottonwood-dominated woodlands grow in parts of the floodplain. Cropland is mostly limited to small areas along the valley bottom.
+Box Butte Reservoir is the only impoundment on this stretch of the Niobrara River. Otherwise, river flows remain fairly natural, although they have been reduced due to groundwater pumping for pivot irrigation. The upper Niobrara River supports a unique group of cold-water fish, including the northern pearl dace, the state-listed blacknose shiner and finescale dace. Alkaline wet meadows in the Niobrara River valley in western Sioux County support the state's only known population of the Ute lady's-tresses orchid. Protected areas in this BUL include Agate Fossil Beds National Monument, The Nature Conservancy's Cherry Ranch, and Prairie Plains Resource Institute's Guadalcanal Memorial Prairie.
+
+## Stresses Affecting Species and Habitats
+
+• Specific livestock grazing and haying practices that may reduce native plant diversity and promote uniform habitat structure in both uplands and riparian areas. • Invasive plant and aquatic species.
+• Reduced river flows resulting from irrigation development and undesirable woody vegetation. This threat is most prevalent in the western reaches of the river. • Erosion and contamination from livestock watering in the river.
+• Increased chemical runoff and nutrient loading into the rivers and streams from adjacent croplands. • Stream channelization, extreme weather events, and instream structures (e.g., culverts) that obstruct fish movement. • Conversion of valley bottom and meadows to cropland.
+• Housing and ranchette development and limited zoning ordinance enforcement.
+
+## Conservation Strategies
+
+• Implement ecologically sensitive grazing and haying strategies on native prairies on private and public lands, in combination with prescribed fire and rest. • In meadows containing the Ute lady's-tresses orchid, adjust timing of haying and grazing to benefit the orchid and reduce competition from cool-season invasives. 
+
+## Stresses Affecting Species and Habitats
+
+• Specific livestock grazing and haying practices that may reduce native plant diversity and promote uniform habitat structure. • Invasive plant species.
+• Lack of forest stand improvement practices.
+• Limited grazing and prescribed fire have led to excess fuel accumulation and increased densities of ponderosa pine, eastern red-cedar, and Rocky Mountain juniper, which can lead to catastrophic fires. • Housing and ranchette development.
+• Infrastructure development (e.g., roads, energy development).
+• Limited awareness of native wildlife and the unique habitats in this landscape.
+• Limited landowner awareness of management practices to improve habitats, manage invasive species, and address the wildland urban interface. • Tree pest infestations and disease impacting forest health.
+• Transmission of diseases between domestic sheep, goats, and Rocky Mountain bighorn sheep.
+• Fence type and placement that significantly hinders wildlife movement.
+
+## Conservation Strategies
+
+• Implement strategic grazing strategies on public and private lands to improve native plant diversity and vigor. 
+
+## Chapter 9: Aquatic Conservation
+
+Over 16,000 miles of rivers and streams flow through Nebraska supporting a diverse array of aquatic species, offering habitat for important life stages of many other wildlife, and providing a necessary resource for our agriculturally dominated and increasingly urbanized state. The interconnectedness of these systems provides numerous challenges and opportunities for conservation. Unfortunately, compounding threats and stressors jeopardize these systems' abilities to provide necessary ecosystem functions to support agricultural practices, urbanization, and aquatic communities. Because over 98% of waterways in Nebraska occur on private lands, addressing these threats requires coordinated conservation efforts, improved land-use practices, and public awareness to ensure the long-term sustainability of our state's freshwater resources.
+
+## Key Stresses Affecting Species and Habitats
+
+Agricultural runoff and pollution: Runoff from agricultural fields introduces excess nutrients, pesticides, and sediments into waterways. This pollution can lead to harmful algal blooms and oxygen depletion. The degradation of riparian habitats facilitates increased runoff by reducing the buffer between land and water resources. Water quality impairments and pollutants (e.g., E. coli bacteria, blue-green algae, ammonia, pesticides, metals and inorganics, nitrogen, phosphorus) should meet Title 117 Surface Water standards. Supporting best management practices can aid in restoring or maintaining water quality in systems. Additionally, it is important to assess species specific limits to pollutants.
+Increased severity and frequency of floods and droughts: Nebraska experienced catastrophic flooding events in 2011 and 2019, breaching levees and damaging properties over thousands of acres. While flooding events naturally occurred in the state historically, they altered stream channels and increased opportunities for aquatic non-native and invasive species expansion. Conversely, prolonged drought conditions also significantly reduced stream flows and fragmented aquatic systems. To maintain their working lands, farmers and ranchers increased groundwater pumping and water diversion for irrigation.
+Groundwater reductions influence stream baseflow, water conditions, and water supply. Demands on groundwater have ultimately resulted in reduced stream flows in many areas. Shifts in precipitation and temperature affect flow timing and water temperature, respectively, altering aquatic Species of Greatest Conservation Need (SGCN) migration and reproduction cycles. It is important to understand the vulnerabilities of aquatic SGCN to these variable environmental conditions and how they respond to rapidly changing flows and temperatures.
+Habitat alteration: Habitat alteration is among the most pressing issues that negatively impacts aquatic SGCN. The construction of levees, dams, and channelization projects significantly changes natural hydrology and greatly reduces habitat heterogeneity. These modifications reduce the frequency and extent of seasonal flooding, disconnect Nebraska Natural Legacy Project waterways from their floodplain, and eliminate crucial backwater and side-channel habitats that once supported spawning and nursery areas for fish SGCN. Understanding the optimal and suitable habitats for aquatic SGCN will aid in determining where conservation efforts will be most impactful.
+Aquatic non-native and invasive species: The introduction and spread of aquatic non-native and invasive species places significant stress on native ecosystems. Invasive carp and western mosquitofish compete with native fish for food, while zebra mussels disrupt ecological balance and increase maintenance burdens. Sportfish that are stocked into lakes and reservoirs across the state occasionally migrate into surrounding waterways, increasing the likelihood of predation on fish SGCN. The looming threat of black carp into the southeastern corner of the state jeopardizes remnant populations of freshwater mussels and could significantly impact areas where mussel reintroduction efforts are taking place.
+Urban development: Many of the populated cities in Nebraska occur along waterways. A shift from rural to urban living has placed an increased demand on development in these areas. Such development degrades riparian areas for housing developments, increases human-wildlife conflicts, and leads to increased stormwater runoff and pollution.
+Species hybridization: Some fish SGCN are prone to hybridization. Finescale and northern redbelly dace occur in many Sandhills streams and display characteristics that are diagnostic of both species, increasing the difficulty of field identification and risk of hybridizing genetics from distinct source populations. Additionally, shovelnose and federally endangered pallid sturgeon hybridize in the Missouri River Basin. If efforts to propagate and reintroduce populations of these species are to occur or continue, necessary precautions, like those currently taking place at Gavins Point National Fish Hatchery, are needed to avoid producing hybrid individuals in hatcheries.
+
+## Conservation Strategies
+
+Evaluation of priority watersheds: To focus aquatic conservation at the system level, aquatics experts selected systems that could best conserve and recover the diverse array of aquatic SGCN identified in the Natural Legacy Project. There is a need to evaluate whether the priority watersheds selected will accurately meet this objective and refine the list as necessary for the next edition of the project.
+Improving habitat along the riparian corridor: Wetlands, woodlots, and other riparian buffers can reduce pollution, sedimentation and erosion that deteriorate waterways across the state. Revegetating banks can stabilize them and retain heterogeneity of the system. Careful planning with terrestrial and wetland habitat managers can ensure that restoration efforts extend from upland habitats to the stream channel.
+At-risk aquatic species monitoring: Our understanding of the current distribution and population trends for many aquatic SGCN is quite limited. The NFMRP provided a framework for mussel management and overall transparency of conservation, including the need to hire a state malacologist to coordinate, build, and run the mussel program. This plan needs to be reviewed and revised, and a malacologist needs to be hired to coordinate the plan and provide science-based direction to mussel culture staff to prioritize propagation and reintroduction efforts. A statewide mussel survey and inventory would also be needed to help update our current out-of-date information.
+Identification and monitoring of barriers: The development of an aquatic connectivity team to inventory stream barriers statewide using protocols like those of the Southeast Aquatic Resources Partnership (SARP) can aid in determining which barriers could be removed or altered to promote SGCN fish passage or, conversely, where to maintain barriers to prevent passage by aquatic non-native and invasive species. Studying the movement patterns of aquatic SGCN in response to habitat alteration could be used to inform stream restoration planning.
+Habitat suitability models and management plans: Many aquatic systems across the state have been degraded to a point that native aquatic SGCN have been extirpated from historic parts of their distribution. Combining historic data with recent data, researchers have begun to develop early models for predicting estimated occupancy and likelihood for species presence, while also determining environmental factors that may influence Nebraska Natural Legacy Project species distributions across river basins. These models allow researchers to predict where populations may still exist or where reintroduction would be most successful.
+Collaborations with state hatcheries could aid in reintroducing or augmenting populations of aquatic SGCN into these suitable systems.
+Propagation and reintroduction of aquatic SGCN: As many aquatic SGCN populations have experienced significant declines, intervention via reintroductions and population augmentation may be necessary for recovery. Through collaborations and networking with other hatcheries across the country, techniques can be developed and refined to propagate aquatic SGCN in captivity.
+Habitat improvement along the Missouri River: Many native species, including the endangered pallid sturgeon, rely on diverse and dynamic river habitats that have been lost or degraded due to decades of channelization, dam construction, and flow regulation.
+Reconnecting the river to its floodplain, restoring side channels, and reintroducing shallow-water habitats are critical for supporting spawning, nursery, and foraging needs. Continued engagement with state and federal partners is needed to recover some of the lost aquatic and terrestrial habitats.
+Assess movement patterns and the effect of fish passage structures on fish SGCN: Fish movement patterns vary depending on the species, time of year, and availability of suitable habitat. Evaluating when, where, and how far fish move can aid in determining how barriers could impact the persistence of a population. The installation of fish passage structures has recently been implemented in Nebraska, but their use by fish SGCN still needs to be studied.
+Improved communication with stakeholders and the public: Collaborative efforts among federal and state agencies, tribes, nongovernmental organizations, and local stakeholders will be vital to ensure coordinated implementation of recovery and management strategies.
+Advancing public education and stakeholder engagement will be important for fostering support for stewardship and sustainable use of aquatic systems into the future.
+Impact of aquatic non-native and invasive species: Many aquatic systems have been colonized by non-native and invasive species. In addition to preventing the spread of these species and eradicating them from existing locations, it is important to assess how their presence or absence impacts native SGCN.
+Monitor ecological stream function: Due to significant alterations to stream conditions, it is important to measure the availability of water and microhabitat and the movement and transportation of sediment. By collecting this baseline data, researchers can evaluate variances from normal hydrological conditions.
+Genetic analyses of aquatic SGCN: Volatile environmental conditions and anthropogenic changes have significantly altered the connectivity of aquatic systems. The results of such fragmentation have likely influenced gene flow across populations. Assessing and maintaining genetic diversity is imperative for sustaining healthy and resilient SGCN populations. Additionally, with potential hybridization of aquatic species, genetic 203 Nebraska Natural Legacy Project analyses are needed to differentiate between hybrids and non-hybrids and their prevalence in various systems across the state.
+
+## Priority Watersheds for Conservation
+
+One shortcoming of the Biologically Unique Landscape (BUL) framework of prioritizing conservation actions in certain areas has been its terrestrial focus. While nine of the current BULs do include larger riverine systems, they are simply buffered from the main river channel and do not include important tributaries and other systems that are necessary spawning habitats for many aquatic SGCN. Additionally, because of the connectedness among aquatic systems, the protection of headwaters, tributaries, and upstream habitats can be imperative for overall water quality and the health of the system.
+In this third edition of the Nebraska Natural Legacy Project, we attempted to address this issue by identifying priority waterways for at-risk species conservation. These differ from the BULs because the focus will be placed on the aquatic systems rather than the entire land area depicted within the boundary. Additionally, some segments of these systems have low diversity or abundance of SGCN; however, the conservation of the larger watershed is intended to improve the entire system and thereby the SGCN that occur there.
+In the fall of 2024, a team of aquatics system experts (hereafter the Aquatics Team) was formed to determine the criteria for establishing priority waterways and the spatial scale at which they would be assessed. They determined that the Hydrological Unit Code (HUC) 10 was the most effective scale to use. From there, the Aquatics Team was tasked with identifying candidate waterways in the state for at-risk species conservation. They considered a variety of factors including SGCN richness, habitat quality, connectivity, and flow when making these determinations. Once identified, those systems were mapped and distributed to the Nebraska Chapter of the American Fisheries Society for comments and opinions.
+In February 2025, the Aquatics Team met to review the feedback and make final determinations of which waterways to include as Priority Watersheds in the third edition of the Nebraska Natural Legacy Project. In total, 63 HUC10 watersheds were accepted by the Aquatics Team (see map below). Three systems, Big Creek, East Clear Creek, and Pass Creek were buffered at the HUC12 level due to their smaller size. For large river systems (Big Blue with West Fork of Big Blue, Elkhorn, Lower Platte, Missouri), we asked local experts to identify stretches (at the HUC12 level) that were most significant for at-risk species. These included areas with important spawning habitat, locations where mussel reintroductions were ongoing, or places where ongoing habitat work was already taking place.
+This new chapter will include information about the priority watersheds in a similar format as the BULs (description, at-risk species, threats, and conservation actions). There will likely be overlaps with some of the current BULs; however, these watersheds will not be mapped together with the BULs. Instead, there will be separate maps for depicting the priority watersheds. 
+
+## Bazile Creek
+
+## Priority Watershed Description
+
+The Bazile Creek watershed includes one HUC10 unit. This watershed flows north, from its headwaters near Brunswick on Highway 20 to its confluence at the Missouri River, where it is a major tributary to the larger river system. The habitat quality in this system is average to high with good sinuosity and riffle/run/pool sequences. The substrate is sand in most areas with some gravel cobble in the upstream reaches. The system is well connected with few barriers and a good connection to the surrounding floodplain. Continued collaborations with the Santee Sioux Nation and local landowners could help improve and maintain this high-quality system.
+
+## Stresses Affecting the Watershed
+
+• Aquatic non-native and invasive species present in the system.
+• Agricultural runoff and other forms of pollution. Nebraska Natural Legacy Project
+
+## Conservation Strategies
+
+• Control the spread of phragmites throughout with herbicide application.
+• Continue supporting best management practices, such as no till, cover crops, and buffer strips, to reduce water-quality issues to enable soil to hold more water and to limit runoff. • Identify opportunities to reintroduce native aquatic species.
+• Preserve existing habitats to sustain current aquatic SGCN community assemblage.
+• Identify direct source areas that consistently exceed state regulation limits (Total Maximum Daily Loads TMDLs -NDWEE's Integrated Reports) and determine areas where there is overlap with at-risk species distribution. 
+
+## Species of Greatest Conservation Need
+
+## Priority Watershed Description
+
+The Big Blue River watershed consists of seven HUC10 units extending from Osceola to the Kansas border. This system also includes the confluence of the West Fork Big Blue River. While the system has been highly modified resulting in an entrenched system with poor water quality and clarity, it historically boasted a significant number of aquatic SGCN and has been a focal area for freshwater mussel reintroduction efforts. Due to the challenges associated with dams, poor access, highly incised banks, and poor water quality, full-scale restoration of the system would be very difficult, but with the success and continuation of mussel reintroduction efforts, the system represents one of the best opportunities to conserve and restore populations in southeastern Nebraska. At present, the area also does not have invasive zebra mussels, but monitoring efforts should continue.
+
+## Spotlight Areas
+
+Four HUC12 units are highlighted within this system for their significance to at-risk species conservation. Beginning in 2018, reintroduction efforts began for the plain pocketbook and the fatmucket on Game and Parks properties and city grounds.
+
+## Stresses Affecting the Watershed
+
+• Aquatic non-native and invasive species present in the system.
+• Agricultural runoff.
+• High alteration from dams.
+
+## Conservation Strategies
+
+• Continue to monitor for the presence of zebra mussels and take measures to prevent them from entering the system. • Continue supporting best management practices, such as no till, cover crops, and buffer strips, to reduce water-quality issues to enable soil to hold more water and to limit runoff.
+• Conduct surveys of tributaries to identify important areas for SGCN conservation.
+• Continue to monitor the distribution and abundance of naturally occurring and reintroduction/population augmentation stocking of freshwater mussels. 
+
+## Species of Greatest Conservation Need
+
+## Big Creek
+
+## Priority Watershed Description
+
+The Big Creek watershed is a tributary of the North Loup River and contains two waterways: Big Creek and Horse Creek. It consists of a single HUC12 unit. This is a very sinuous, high-quality system with lateral pools and instream vegetation that flows predominantly through open rangeland. Occurring in the sandhills, this system contains a high diversity of glacial relict fish SGCN. Overall, the system is largely intact; maintaining the system should allow SGCN to persist.
+
+## Stresses Affecting the Watershed
+
+• Dredging and channelization of headwater wet meadows.
+
+## Conservation Strategies
+
+• Work collaboratively with local landowners to maintain the watershed in a high-quality state. 
+
+## Species of Greatest Conservation Need
+
+Tier 1: Blacknose Shiner, Finescale Dace, Flathead Chub, Northern Pearl Dace, Northern Redbelly Dace, Plains Topminnow, Topeka Shiner Tier 2: Clammy Hedge-hyssop, Loesel's Twayblade, Marsh-St. John's-wort, Northern Adder's-tongue, Pennsylvania Bitter Cress, Slender Cotton-grass, Spiked Muhly, Water Sedge, Western Blacknose Dace, Yellow Marsh-marigold
+
+## Birdwood Creek
+
+## Priority Watershed Description
+
+The Birdwood Creek is a tributary of the North Platte River between Lake McConaughy and North Platte. It consists of a single HUC10 unit which encompasses Birdwood Creek, West Birdwood Creek, and the North Fork Birdwood Creek ending at its confluence with Squaw Creek. This spring-fed system contains excellent in-stream habitat with submergent vegetation present. Barriers in the form of road crossings are low in number and present few obstacles for the species that occupy the system. While the presence of SGCN richness is low, this system 210 Nebraska Natural Legacy Project was selected as it is one of few in the state that has been maintained close to its natural state. Wetland restoration work is currently occurring in the system and conservation actions should be minimal if current land use in the area is maintained.
+
+## Stresses Affecting the Watershed
+
+• Aquatic non-native and invasive species present in the system.
+• Potential threat of invasive silver carp and bighead carp entering the system from the North Platte River.
+
+## Conservation Strategies
+
+• Implement efforts to remove non-native and invasive species from the system.
+• Continue monitoring the spread of silver and bighead carp through larger river systems.
+• Work collaboratively with local landowners to maintain the watershed in a high-quality state.
+• Revegetate bare stream banks in the areas where they occur.
+• Survey to evaluate how ongoing conservation efforts impact the distribution and presence of aquatic SGCN.
+
+## Species of Greatest Conservation Need
+
+Tier 1: Plains Topminnow Tier 2: Longnose Sucker Nebraska Natural Legacy Project
+
+## Bow Creek
+
+## Priority Watershed Description
+
+The Bow Creek Watershed is one of the larger, undammed tributaries on the Nebraska side of the unchannelized 59-mile stretch of the Missouri River. As such, it may provide vital spawning habitat for fish SGCN that depend on the free-flowing stretch of the Missouri River below Gavins Point Dam. The single HUC10 unit contains Bow Creek, East Bow Creek, Norwegian Bow Creek, Pearl Creek, Kerloo Creek and Dead Creek. This system supports an important stronghold population of flathead chub and represents the eastern periphery of robust plains topminnow populations. The lower Bow has mostly formed a new floodplain bench, regaining some of the function of a connected floodplain, even within an agriculturally dominated landscape. The Bow also lacks any small dams and reservoirs, and so it is a highly connected system. Any barriers to upstream movement would likely exist as road culvert crossings.
+The Bow Creek Watershed is also a priority focus of the Lewis and Clark Natural Resources District, which brings together resources from NDWEE, NRCS, and Game and Parks to focus on education and implementation of best management practices (from soil health to buffer strips) to improve watershed health. Annual education events are hosted in partnership between Game and Parks, the LCNRD, and local NRCS offices with local high schools, UNL Agronomy Nebraska Natural Legacy Project students, and local producers creating opportunities for Nebraska residents of all ages to understand stream health and interact with at-risk fish species annually.
+
+## Stresses Affecting the Watershed
+
+• Aquatic non-native and invasive species present in the system.
+• Spread of invasive silver and bighead carp from the Missouri River.
+• Agricultural runoff and pollution.
+
+## Conservation Strategies
+
+• Implement efforts to remove non-native and invasive species from the system.
+• Continue monitoring the spread of silver and bighead carp through larger river systems. 
+
+## Cedar River
+
+## Priority Watershed Description
+
+The Cedar River Priority Watershed includes three HUC10 units from its confluence with Dry Cedar Creek to the Loup River. The highly sinuous system is well connected to the floodplain and has few barriers impeding fish movement. One such barrier, Spalding Dam, currently has a fish bypass system that has been used quite effectively. The incorporation of a second fish bypass system at Ericson Dam would greatly improve connectivity. Overall, the watershed is in good condition where, if best management practices were implemented, it could support a diversity of SGCN. Because of its recreational use, collaborative efforts with local towns could provide educational opportunities for the significance of this system to SGCN conservation.
+
+## Stresses Affecting the Watershed
+
+• Stream fragmentation and alteration.
+
+## Conservation Strategies
+
+• Maintain the natural state of the system and install culverts that allow for fish passage to maintain the connectivity of the system. • Build fish bypass systems to allow for connectivity between large dams.
+• Work collaboratively with local landowners to maintain the watershed in a high-quality state.
+• Collaborate with local towns to provide education on the importance of the watershed.
+
+## Species of Greatest Conservation Need
+
+Tier 1: Blanding's Turtle, Flathead Chub, Plains Topminnow, Two-lined Stonefly Tier 2: Clammy Hedge-hyssop
+
+## East Clear Creek
+
+## Priority Watershed Description
+
+The East Clear Creek Watershed consists of one HUC12 extending from its headwaters in the Sandhills to its confluence with the North Platte River northwest of Sutherland Reservoir. The system has high quality habitat and low barrier density. Despite being a small, sinuous stream, it is unique in that fish SGCN documented in the system are more typically found in the Niobrara and Loup River basins. As a result, these may represent disjunct populations in the state. Because of its short length, collaboration with the few local landowners could help to maintain the system and allow for these SGCN to persist.
+
+## Stresses Affecting the Watershed
+
+• Aquatic non-native and invasive species present in the system.
+• Agricultural runoff.
+
+## Conservation Strategies
+
+• Implement efforts to remove non-native and invasive species from the system.
+• Continue supporting best management practices, such as no till, cover crops, and buffer strips, to reduce water-quality issues to enable soil to hold more water and to limit runoff. • Work collaboratively with local landowners to maintain the watershed.
+• Continue to monitor aquatic SGCN populations in the system.
+
+## Species of Greatest Conservation Need
+
+Tier 1: Finescale Dace, Northern Pearl Dace, Northern Redbelly Dace, Plains Minnow, Plains Topminnow, Western Silvery Minnow Tier 2: Beaked Spikerush, Longnose Sucker, Silverweed Nebraska Natural Legacy Project
+
+## Elkhorn River
+
+## Priority Watershed Description
+
+The Elkhorn River Watershed contains nine HUC10 units from its headwaters to its confluence with the North Fork Elkhorn River at Norfolk. Another stretch of the lower Elkhorn River Watershed is also identified as a Priority Watershed, but it is grouped with the Lower Platte River due to its significance to larger riverine SGCN.
+This system appears to be significant for Hybognathus and Macrhybopsis species, bluntnose minnow, Iowa and Johnny darters, and plains topminnow, which can be abundant in certain tributaries. The river and its tributaries also boast numerous and diverse mussel records for that part of the state. The presence of multiple Wildlife Management Areas (WMAs) along the river allows for access for mussel reintroduction efforts in the northeastern part of the state.
+
+## Spotlight Areas:
+
+Fifteen HUC12 units are highlighted within this system for their significance to at-risk species conservation. Several reaches along the Elkhorn River have been significant to mussel SGCN, such as the plain pocketbook. Holt Creek has seen recent freshwater mussel stocking efforts. Nebraska Natural Legacy Project
+The upper end of the Elkhorn River between Newport and Bassett contains numerous groundwater-driven wetlands and headwater streams. The amount of surface water in these areas is significant to several aquatic SGCN, including fish and Blanding's turtles, as well as migratory waterbirds. In the middle to upper Holt Creek, there are opportunities to restore hydrology to streamside meadows. Such efforts could improve aquatic habitats while also improving hay and forage production on working lands.
+
+## Stresses Affecting the Watershed
+
+• Aquatic non-native and invasive species present in the system.
+• Potential threat of invasive silver and bighead carp entering the system.
+• Agricultural runoff and other forms of pollution.
+• Lake impoundment.
+• Water availability -protection from in-stream water withdrawals.
+
+## Conservation Strategies
+
+• Continue monitoring the upstream movement of silver and bighead carp, along with other aquatic non-native and invasive species, through larger river systems. • Implement efforts to remove non-native and invasive species from the system.
+• Continue supporting best management practices, such as no till, cover crops, and buffer strips to reduce water-quality issues, to enable soil to hold more water, and to limit runoff. • Work collaboratively with local landowners to maintain the watershed.
+• Continue to monitor aquatic SGCN populations in the system.
+• Continue to monitor the distribution and abundance of naturally occurring freshwater mussels and explore opportunities for mussel reintroduction and population augmentation efforts. 
+
+## Gordon Creek
+
+## Priority Watershed Description
+
+The Gordon Creek Watershed is a Sandhills system consisting of two HUC10 units. This is a highquality, heterogeneous system surrounded by grazing lands and prairie that is very sinuous in its lower reaches, while the headwaters and surrounding wet meadows have become channelized. The barrier density in the area is highly variable but mostly consists of road crossing culverts. Wetland restoration has been occurring within the system, but there are still areas that are degraded. This Sandhills system contains a high diversity of fish SGCN, but the presence of northern pike threatens their distribution and abundance.
+
+## Stresses Affecting the Watershed
+
+• Stream fragmentation and alteration through ditching and culvert installation.
+• Introduction of large predator species into the system.
+• Hybridization of fish SGCN.
+• In-stream water withdrawals. Nebraska Natural Legacy Project
+
+## Conservation Strategies
+
+• Ditch mitigation.
+• Work collaboratively with local landowners to maintain the watershed in a high-quality state.
+• Maintain the natural state of the system and install or correct culvert/stream crossings that improve fish passage and maintain connectivity of the system. • Continue to monitor aquatic SGCN populations in the system.
+• Continue monitoring the potential impact of large predator fish species in areas with high densities of SGCN. 
+
+## Holt Creek
+
+## Priority Watershed Description
+
+The Holt Creek Watershed, consisting of one HUC12, includes the entirety of Holt Creek and East Holt Creek, extending north to the South Dakota border where it empties into the Keya Paha River. The heterogeneous system is high quality with a sinuous, consistent flow. The area has few barriers and even fewer known threats. The system is in good condition as is and is one of the few known locations for blacknose shiner in the state. Given the condition of the system, status quo can be maintained to allow for the persistence of this and other SGCN.
+
+## Stresses Affecting the Watershed
+
+• Potential threat of aquatic invasive species.
+• Bank destabilization from cattle access.
+• Hybridization of fish SGCN.
+
+## Conservation Strategies
+
+• Continue monitoring for aquatic invasive species presence. 
+
+## Priority Watershed Description
+
+The Long Pine Creek Watershed incorporates Long Pine Creek, Short Pine Creek, and Willow Creek as they meet and flow into the Niobrara River. The high-quality system has high-water Nebraska Natural Legacy Project clarity and is heavily vegetated both in-stream and on its banks. The waterways are well buffered from agricultural lands by wooded riparian areas and pasture. Long Pine Watershed Restoration Projects took place between 2020 and 2023, and the system is significant for Flathead Chub populations. This species uses Long Pine Creek for spawning runs coming from the Niobrara River.
+
+## Stresses Affecting the Watershed
+
+• Aquatic non-native and invasive species present in the system.
+• Agricultural runoff.
+
+## Conservation Strategies
+
+• Continue monitoring for aquatic non-native and invasive species presence.
+• Work collaboratively with local landowners to maintain the watershed in a high-quality state.
+• Continue to monitor aquatic SGCN populations in the system.
+• Continue supporting best management practices, such as no till, cover crops, and buffer strips, to reduce water-quality issues to enable soil to hold more water and to limit runoff.
+
+## Species of Greatest Conservation Need
+
+Tier 1: Flathead Chub, Northern Pearl Dace, Plains Topminnow Tier 2: Englemann's Flatsedge, Green-fruit Bur-reed, Western Blacknose Dace Nebraska Natural Legacy Project
+
+## Lower Platte and Lower Elkhorn Rivers
+
+## Priority Watershed Description
+
+This Priority Watershed includes six HUC10s, five on the Platte River and one on the Elkhorn River. The Platte River HUC extends from the confluence with the Elkhorn River to the Missouri River. The Elkhorn River HUC extends north to Nickerson. The system is characterized by its highly braided channels that provide spawning habitat for the federally endangered pallid sturgeon. Growing urbanization and poor buffering from agricultural land increase runoff and subsequent pollution, while high water demands lead to dewatering of the system.
+
+## Stresses Affecting the Watershed
+
+• Aquatic non-native and invasive species present in the system.
+• Presence of silver and bighead carp throughout the system.
+• Agricultural runoff.
+• Increased dewatering due to drought.
+• Increased urbanization in the area.
+
+## Conservation Strategies
+
+• Implement efforts to remove aquatic invasive species from the system.
+• Identify tributaries that present important spawning habitat for pallid sturgeon and other fish SGCN. • Continue to monitor aquatic SGCN populations in the system.
+
+## Species of Greatest Conservation Need
+
+Tier 1: Flathead Chub, Lake 
+
+## Priority Watershed Description
+
+Consisting of 17 HUC10s, the Missouri River Watershed is the largest of the Priority Watersheds and also boasts the highest diversity of aquatic SGCN in the state. The Missouri River, despite its size and historical significance, suffers from degraded habitat quality due to a variety of factors. Channelization for navigation has straightened and constricted the river, eliminating vital backwaters, side channels, and wetlands that once provided crucial spawning and nursery grounds for fish and other aquatic species. Dams along the river's course disrupt natural flow regimes, altering water temperature, sediment transport, and nutrient cycling, further impacting aquatic life. Agricultural runoff introduces pollutants like fertilizers and pesticides, contributing to algal blooms and oxygen depletion, while invasive species outcompete native organisms for resources. These combined stressors have significantly diminished the river's biodiversity and overall ecological health, impacting both wildlife and the ecosystem services it provides.
+Historically, the Missouri River had dramatic seasonal fluctuations, with high flows in spring and early summer and lower flows in late summer and winter. However, the construction of numerous dams and reservoirs along the river has significantly altered this natural flow regime, reducing the river's natural variability and leading to a more consistent but less dynamic flow. This altered flow regime has impacts on the river's ecosystem, affecting fish populations, riparian habitats, and the overall health of the river.
+The Missouri River supplies water for a multitude of uses. Its flow supports agriculture through extensive irrigation, enabling the production of crops in often arid regions. Municipalities rely on the river for drinking water, while industries utilize it for various processes. Furthermore, the system provides crucial habitat for aquatic life and supports recreational activities like boating and fishing. However, this heavy reliance on the river's water has led to competition and challenges, particularly during periods of drought. Army Corps of Engineers (ACOE) is authorized to maintain the channel for navigation.
+The Missouri River along Nebraska's border is a dynamic and complex ecosystem with a patchwork of diverse habitats shaped by the river's flow and human modifications. Remnant channels, backwaters, and side chutes provide vital spawning and nursery grounds for numerous fish SGCN, while sandbars and islands offer nesting sites for bird SGCN. Riparian forests, though often fragmented, line the banks, offering shelter and food for a variety of wildlife. However, this complexity is often challenged by channelization, dams, and agricultural runoff, which have altered the river's natural flow and impacted water quality.
+
+## Spotlight Areas
+
+Fifteen HUC12s are highlighted within this system for their significance to at-risk species conservation. Extensive effort has been put forth to identify river miles that are significant to the federally endangered pallid sturgeon. Areas where pallid sturgeon appear to congregate or where primary spawning areas have been identified include the following HUC12 watersheds: Beaver Creek, Horse Creek, Keg Creek, Lime Creek, and Tekamah Creek. Nebraska Natural Legacy Project
+
+## Stresses Affecting the Watershed
+
+• Presence of aquatic invasive species, including bighead carp, silver carp, and zebra mussels.
+• Agricultural runoff leading to sedimentation and pollution.
+• Fragmentation and alteration due to dams and channelization.
+• Removal of riparian vegetation.
+• Increased urbanization in the area.
+• Reduced flow due to drought and excess water use.
+
+## Conservation Strategies
+
+• Implement efforts to remove aquatic invasive species from the system.
+• Continue supporting best management practices, such as no till, cover crops, and buffer strips, to reduce water-quality issues to enable soil to hold more water and to limit runoff. • Plant and maintain riparian buffer zones to filter pollutants and stabilize shorelines.
+• Implement stricter stormwater management practices and wastewater treatment upgrades to reduce point-source pollution. 
+
+## Priority Watershed Description
+
+The Pass Creek Watershed consists of a single HUC12 unit in southern Cherry County. Despite its short length, this Sandhills tributary of the North Loup River contains a diverse array of glacial relict SGCN. The system has high sinuosity and few barriers and is surrounded by rangeland and hayed wet meadows. The federally endangered Topeka shiner has been found in nearby systems.
+
+## Stresses Affecting the Watershed
+
+• Potential threat of aquatic invasive species.
+• Stream fragmentation and alteration.
+
+## Conservation Strategies
+
+• Continue monitoring for aquatic invasive species presence.
+• Maintain the natural state of the system and install culverts that allow for fish passage to maintain the connectivity of the system. Nebraska Natural Legacy Project
+• Continue to monitor aquatic SGCN populations in the system. land area is mostly range and pasture, implementing best management practices to conserve water and prevent agricultural runoff will be imperative.
+
+## Species of Greatest Conservation
+
+## Stresses Affecting the Watershed
+
+• Aquatic non-native and invasive species present in the system.
+• Stream channelization.
+• Agricultural runoff.
+
+## Conservation Strategies
+
+• Maintain the natural state of the system and install culverts that allow for fish passage to maintain the connectivity of the system. • Continue supporting best management practices, such as no till, cover crops, and buffer strips, to reduce water-quality issues to enable soil to hold more water and to limit runoff. • Work collaboratively with local landowners to maintain the watershed.
+• Continue to monitor aquatic SGCN populations in the system.
+• Collaborate with Wyoming to maintain headwaters of Sheep Creek.
+
+## Species of Greatest Conservation Need
+
+Tier 1: Plains Topminnow Tier 2: Common Shiner, Longnose Sucker, Silverweed Nebraska Natural Legacy Project
+
+## Snake River
+
+## Priority Watershed Description
+
+The Snake River Watershed consists of two HUC10s from the river's headwaters to its confluence at the Niobrara River. This system is recognized both as a Biologically Unique Landscape and as a Priority Watershed. The system has high sinuosity but is hindered by barrier severity and density. Overall, the system contains a diverse assemblage of glacial relict SGCN.
+
+## Stresses Affecting the Watershed
+
+• Potential threat of aquatic invasive species.
+• Stream fragmentation and alteration.
+• Presence of sportfish in the system.
+
+## Conservation Strategies
+
+• Continue monitoring for aquatic non-native and invasive species presence.
+• Maintain the natural state of the system and evaluate the costs and benefits of installing culverts that allow for fish passage to maintain the connectivity of the system. • Continue to monitor aquatic SGCN populations in the system. Nebraska Natural Legacy Project
+
+## Species of Greatest Conservation Need
+
+Tier 1: Finescale Dace, Northern Pearl Dace, Northern Redbelly Dace, Plains Topminnow, Western Silvery Minnow Tier 2: Marsh-St. John's-wort, Northern Adder's-tongue, Water Sedge South Fork Little Nemaha River
+
+## Priority Watershed Description
+
+The South Fork Little Nemaha River Watershed consists of one HUC10 from the river's headwaters near Panama to its confluence at the Little Nemaha River. The system also contains Saunders Creek, Turkey Creek, and Coon Creek. The system is highly entrenched but does not have any known barriers along the main channel. Of the systems in southeastern Nebraska, this is arguably the most intact system remaining.
+
+## Stresses Affecting the Watershed
+
+• Presence of aquatic non-native and invasive species and the potential threat of black carp.
+• Stream fragmentation and alteration through channelization.
+• Agricultural runoff.
+
+## Conservation Strategies
+
+• Continue monitoring for aquatic non-native and invasive species presence.
+• Implement efforts to remove non-native and invasive species from the system.
+• Continue supporting best management practices, such as no till, cover crops, and buffer strips, to reduce water-quality issues to enable soil to hold more water and to limit runoff. • Continue to monitor aquatic SGCN populations in the system.
+
+## Species of Greatest Conservation Need
+
+Tier 1: Flathead Chub, Plains Minnow, Silver Chub, Western Silvery Minnow Tier 2: Tadpole Madtom South Fork Nemaha River Nebraska Natural Legacy Project
+
+## Priority Watershed Description
+
+The South Fork Nemaha River Watershed consists of one HUC10 from where the river crosses into the state from Kansas in Pawnee County to its confluence with the Big Nemaha River. The system also contains numerous creeks that present opportunities for conservation. Because the system is highly channelized, it is unlikely to be recovered. However, the system historically boasted a high diversity of freshwater mussel SGCN, and the tributaries may present opportunities to reintroduce and augment populations in the watershed. Since 2017, conservation efforts have been ongoing to reintroduce and create stable populations of plain pocketbook and fatmucket mussels at Kinter's Ford WMA.
+
+## Stresses Affecting the Watershed
+
+• Likely presence of aquatic non-native and invasive species, including the potential threat of black carp. • Stream fragmentation and alteration through channelization.
+• Agricultural runoff.
+
+## Conservation Strategies
+
+• Continue monitoring for aquatic invasive species presence.
+• Implement efforts to remove non-native and invasive species from the system.
+• Continue supporting best management practices, such as no till, cover crops, and buffer strips, to reduce water-quality issues to enable soil to hold more water and to limit runoff. • Continue to monitor the distribution and abundance of naturally occurring and reintroduction/population augmentation stocking of freshwater mussels. • Continue to monitor aquatic SGCN populations in the system.
+• Collaborate with Kansas to maintain headwaters of these waterways.
+
+## Species of Greatest Conservation Need
+
+Tier 1: Fatmucket, Western Silvery Minnow, Yellow Sandshell Tier 2: Spring Avens, Spring Bitter Cress, Threeridge Nebraska Natural Legacy Project
+
+## South Loup River
+
+## Priority Watershed Description
+
+The South Loup River Watershed consists of five HUC10s from the river's headwaters west of Stapleton to its confluence with the Middle Loup River. The system also contains Sand Creek and Spring Creek in Custer County. While segments of the river flow through irrigated cropland, the majority is well-buffered by wooded riparian habitat and pasture. The system boasts a high diversity of SGCN, but recent surveys have documented declines in a number of species.
+
+## Stresses Affecting the Watershed
+
+• Presence of aquatic invasive species.
+• Stream fragmentation and alteration through channelization.
+• Agricultural runoff.
+
+## Conservation Strategies
+
+• Continue monitoring for aquatic invasive species presence.
+• Implement efforts to remove non-native and invasive species from the system. Nebraska Natural Legacy Project
+• Continue supporting best management practices, such as no till, cover crops, and buffer strips, to reduce water-quality issues to enable soil to hold more water and to limit runoff. • Continue to monitor aquatic SGCN populations in the system.
+
+## Species of Greatest Conservation Need
+
+Tier 1: Flathead Chub, Plains Minnow, Silver Chub, Western Silvery Minnow Tier 2: Tadpole Madtom
+
+## Upper Niobrara River
+
+## Priority Watershed Description
+
+The Upper Niobrara River Watershed consists of four HUC10s from the Wyoming border to Box Butte Reservoir where a large impoundment (Box Butte) dam creates a barrier for fish movement. The area historically boasted a diverse assemblage of SGCN, but threats to the system (e.g., low dissolved oxygen, sportfish, aquatic invasive vegetation) may eradicate these Nebraska Natural Legacy Project species. Efforts to manage and maintain the system may allow SGCN to persist and recover in the area.
+
+## Stresses Affecting the Watershed
+
+• Presence of aquatic invasive species and sportfish (e.g., northern pike).
+• Increase in aquatic invasive vegetation.
+• Increased water temperatures resulting in lower dissolved oxygen.
+• Groundwater pumping has reduced flows, increasing the risk of dry riverbeds during drought years.
+
+## Conservation Strategies
+
+• Continue monitoring for aquatic invasive species presence.
+• Implement efforts to remove non-native and invasive species from the system.
+• Work with landowners on education for better land use practices.
+• Continue supporting best management practices, such as no till, cover crops, and buffer strips, to reduce water-quality issues to enable soil to hold more water and to limit runoff. • Continue to monitor aquatic SGCN populations in the system. This chapter presents a framework for adapting conservation actions in response to new information and changing conditions. The Nebraska Natural Legacy Project's adaptive management framework strives to improve our understanding of Nebraska's ecological systems. Management objectives should be achieved through a process that:
+
+## Species of Greatest Conservation
+
+• Involves stakeholders.
+• Is transparent and inclusive.
+• Acknowledges uncertainty about the system and the potential impacts of conservation actions.
+• Uses management actions and follow-up monitoring to improve subsequent decisions.
+• Improves the consistency of implementing conservation actions.
+This approach includes exploring alternative ways to meet management objectives, predicting the outcomes based on current knowledge, implementing selected alternative actions, monitoring their impacts, and using the results to update knowledge and adjust management actions. This approach helps ensure the most effective use of limited financial and operational resources.
+An integral component of adaptive management is monitoring to assess species and habitat responses to management actions. Several components are presented that should be included in a monitoring plan, the development of which is one of the priorities in implementing the Nebraska Natural Legacy Project. In addition, a list of priority inventory and research needs have been identified to fill critical data gaps, provide baseline information for monitoring and the knowledge needed to develop more effective conservation actions.
+
+## Adaptive Management
+
+Adaptive management is the process of continually improving management policies and practices by learning from the outcome of management actions (Figure 
+1
+). Broadly, adaptive management requires defining specific objectives, making a priori predictions (i.e., constructing models) about the effects of one or more management actions on those objectives, implementing management actions, monitoring outcomes, using results to revise model predictions and management actions, and then repeating the process in an iterative loop. Adaptive management seeks to speed up the learning process about cause-and-effect relations between management actions and outcomes thus, allowing managers to make more effective decisions in a shorter time. Nebraska Natural Legacy Project
+The fundamental motivation for using adaptive management is the uncertainty of the impacts of management actions on resources. Reducing this uncertainty through systematic learning enables more effective and timely progress toward meeting management objectives. However, not all decisions can or should be adaptive. In some cases, there is no opportunity to apply learning. In other cases, there is little uncertainty about which action to choose. Several conditions must apply:
+• The issue is important enough to warrant action.
+• There is institutional capacity and commitment to undertake and sustain adaptive management.
+• Real choices exist among alternative management strategies.
+• Learning can occur quickly enough to apply it to subsequent management decisions.
+• Resource management decisions can be revisited and modified over time.
+In its simplest form, adaptive management can involve applying a conservation action at a site, observing the results and adjusting the action in the future if warranted. However, it has its widest applicability when components of experimental design are incorporated into the monitoring process including replication, random assignment of treatments (including controls) and sites, and statistical analysis of results. Monitoring and evaluation provide the critical links between implementing conservation actions and revising management objectives and actions to be more effective. A feedback information loop ensures that conservation practice remains evidence-based and adaptable.
+Adaptive management can be a powerful tool for adapting to changing environmental conditions, where uncertainty is high, change may be rapid (e.g., flooding events), and management evaluation and responses must be dynamic with increasing knowledge. Implementing adaptation strategies within this framework allows for frequent reassessment and creative problem-solving based on emerging evidence. The mountain plover (Charadrius montanus) nest marking program is an example of an adaptive management project that identifies the issues that negatively impact a specific species, identifies and conducts priority research, and improves conservation actions accordingly. The mountain plover is a threatened species in Nebraska. The first conservation action for the mountain plovers was to survey the panhandle of Nebraska to estimate the abundance and location of nesting pairs. After this initial survey, many more pairs were detected than anticipated, but nests were primarily in agriculture fields on private lands. In neighboring states, this species typically nests in short-stature grasslands and prairie dog towns.
+An identified threat in the first addition of the Natural Legacy Project for mountain plovers was "agriculture practices" and a research question was to evaluate "the impact of nesting in agriculture fields vs. native grasslands on mountain plover productivity. The next steps for integrating adaptive management principles into implementation of the Natural Legacy Project include:
+• Develop plans that identify the goals and objectives at local and/or regional scales.
+• Identify priority questions appropriate for the application of adaptive management.
+• Collaborate with resource managers for implementation of adaptive management.
+
+## Monitoring
+
+Below is a framework for developing a monitoring plan, which is important to implementation of the Natural Legacy Project. Because of limitations of human, financial and information resources, there must be a strategy for selecting both what to monitor and how to monitor it. Monitoring of management actions is typically conducted at two levels: 1) response of individual species and 2) response of habitats or natural communities. In addition to monitoring biotic responses, one can monitor whether proposed conservation actions were carried out (implementation monitoring), the public/stakeholder understanding, acceptance and support of conservation actions, and/or the abatement of key threats to species or communities. To be Nebraska Natural Legacy Project successful, a monitoring strategy needs to be affordable, provide credible information that assesses effectiveness and is usable by decision makers.
+There is a need to develop long-term monitoring systems that are strategically designed to evaluate species and ecosystem responses to changing environmental conditions. It is vital to design and implement monitoring programs that can provide the best science-based information possible. Results can be used to better inform decision makers and habitat managers on the best adaptation strategies.
+
+## Implementation Monitoring
+
+An important component of the monitoring strategy will be to track the implementation of conservation actions that are proposed in the Nebraska Natural Legacy Project. These can be used to evaluate how well the goals set for conservation of natural communities and species are being met. Information collected would include the location, types of conservation actions, agencies and organizations involved, species and communities affected, acres or miles of stream, cost of project, funding sources, etc. The use and effectiveness of tools such as incentives, easements, voluntary acquisitions, management agreements, and restorations should also be monitored and analyzed, not only in terms of accomplishments but also costeffectiveness.
+
+## Species Monitoring
+
+Population monitoring is currently being conducted on a regular basis, mostly annually, for a handful of at-risk species including, American burying beetle 
+(Roberts et al. 2025)
+, monarch 
+(Paris & Anderson 2024)
+, regal fritillary 
+(Paris & Anderson, 2024)
+, piping plover 
+(Forsburg et al. 2024
+, Platte River Recovery Implementation Program, 2025)
+, interior least tern 
+(Forsburg et al. 2024
+, Platte River Recovery Implementation Program, 2025)
+, greater prairie-chicken 
+(Lusk, 2011)
+, long-billed curlew 
+(Jorgensen & Brenner, 2023)
+, pallid sturgeon 
+(Welker & Drobish 2020
+, Hall et al. 2025)
+, and Salt Creek tiger beetle 
+(Spomer & Fritz, 2011)
+. This type of monitoring allows researchers to determine if populations are increasing, stable, or decreasing, and can alert staff to the need for action in the case of declining populations.
+Monitoring is most effective when conducted prior to and following management actions to assess their impacts and to modify the actions to maximize the desired effect on species of interest. Given the expense of detailed population monitoring, careful evaluation is needed to determine which additional at-risk species should be monitored, as well as if the currently monitored species warrant continued evaluation.
+Standardized monitoring protocols exist for some well-studied species and should be used to ensure the compatibility with data gathered in other states. If no established protocols exist, they should be developed based on existing knowledge of the species. Monitoring protocols need to be specifically tailored to the species and management actions being evaluated.
+Monitoring should be designed to quantify population change and to understand the potential causes of the change. Nebraska Natural Legacy Project
+Monitoring factors might include direct measurements of populations or indirect measures, such as habitat. Direct measures can include population size, density, growth or condition, productivity, or survival. Habitat can serve as a surrogate for direct population measures if the relationship between habitat and population is well defined. In many cases, a combination of direct and indirect measures will be appropriate. In addition, habitat data are critical to the understanding of causes of population change.
+The overall conservation status of species will also be monitored. The Tier 1 and Tier 2 at-risk species lists will be periodically reviewed and revised by taxon experts. This revision will occur on an ongoing basis as new information on abundance, distribution, and population trends becomes available.
+
+## Habitat Monitoring
+
+Habitat monitoring can occur at two main levels: 1) monitoring trends in abundance, distribution, and condition of individual community types, and 2) monitoring the response of community examples to management actions, including restoration.
+Monitoring trends in abundance and distribution of different habitat types can be used to detect land use changes and help direct conservation action toward those showing the steepest declines. A map of historic vegetation 
+(Kaul and Rolfsmeier 1993
+) can be used to evaluate changes in abundance since pre-Euro-American settlement, while more recent trends can be examined using current surveys. This type of monitoring over a large-scale is best accomplished using remote sensing techniques.
+A challenge associated with monitoring at-risk species and ecosystems is that many Tier 1 and Tier 2 species occur at low densities, use specialized habitats, and/or require specialized survey techniques to detect. Thus, monitoring efforts focused on at-risk species may be unable to produce sufficient sample sizes to make inferences about the condition of broader habitats or the impacts of management actions. Instead, monitoring other relatively numerous species may provide better insight into habitat conservation needs. Nebraska is a grassland state, and grassland birds are declining at alarming rates. Therefore, a suite of grassland bird species is recommend for monitoring grassland habitats in the state. These species include, but are not necessarily limited to, the Western Meadowlark, Upland Sandpiper, Bobolink, and Grasshopper Sparrow. All four of these species are recognized as Regional Species of Greatest Conservation Need by the Midwest Landscape Initiative, and Nebraska and the Great Plains represent the core breeding ranges of these species. These species occur virtually statewide and have slightly different preferences for vegetative composition and structure, so collectively, they should provide a meaningful representation of the habitat quality of Nebraska's grasslands.
+There is a need to develop a set of best management practices for natural communities that maintain and enhance their biodiversity value. Monitoring responses of individual community types to various management practices will be a key component in developing those guidelines. Both formal experimentation testing different management practices, as well as monitoring existing practices on managed lands, will be needed. Floristic quality assessment is one Nebraska Natural Legacy Project approach that may be used for evaluating responses to treatments. One could also monitor responses of indicator species or exotic species within the community.
+
+## Databases
+
+The Nebraska Natural Heritage Program maintains the most comprehensive, statewide database on at-risk species and natural communities. Information on at-risk species from other Nebraska Game and Park Commission databases (Fisheries, Nongame Bird Program, Nongame Mammal Program) has been added to this database. Currently, there are more than 22,000 species records and 1,900 community records in the Natural Heritage database. This database is updated annually with new survey information from agency staff, university researchers, and biologists from conservation organizations. The Heritage database is linked to the Biologically Unique Landscapes layer (see Chapter 3) and will automatically update information on the landscapes as new survey information becomes available.
+All data added to the Heritage database are quality controlled and converted to a standard format. The quality control process ensures that the data are accurate and reliable, while the standard format allows data from many sources to be easily queried, summarized, and distributed. In addition, because the same standard format is used by programs in the Natural Heritage network (all 50 states, all Canadian provinces and several Latin American countries), the data can be easily combined into large datasets that allow for analyses across state and national boundaries. These multi-jurisdictional datasets allow for effective broad-scale conservation planning. Data standards as well as multi-jurisdictional datasets are developed and maintained by NatureServe in conjunction with its member Heritage Programs and Conservation Data Centers.
+Additional databases can be used to help track progress toward meeting the goals of the Natural Legacy Project.
+
+## Inventory and Research
+
+Development of the Nebraska Natural Legacy Project was hampered by lack of information in a variety of areas including species and natural community data, appropriate conservation strategies, and best management practices. In addition to inventory and research that may be conducted as a part of monitoring, there is a need to fill critical information gaps on the distribution, abundance, conservation status, threats, biology and ecology of at-risk species and natural communities. Below is a list of priority inventory and research projects that are needed to fill critical data gaps, provide baseline information for monitoring, and provide the knowledge needed to develop more effective conservation actions. Nebraska Natural Legacy Project
+
+## Biological Inventory
+
+## Species
+
+• For a number of the Tier 1 species, there were not enough documented occurrences of populations to fully meet the goals set for those species. Inventory of additional populations of these species should be a priority. There is also a strong need to assess the condition/viability of each population during inventory work. Appendix 5 identifies inventory and research needs for individual Tier 1 species. • Conduct inventory work to better document the distribution and abundance of Tier 2 atrisk species. Inventory work should be prioritized based on gaps in knowledge and the imperilment status of the species. In general, our inventory needs are greatest for invertebrates (both terrestrial and aquatic) and non-vascular plants.
+• Develop predictive models of species distribution for at-risk species to guide survey work and increase inventory efficiency. • Inventory the distribution and spread of key invasive species including garlic mustard, purple loosestrife, Eurasian phragmites, Russian-olive, saltcedar, and zebra mussel. • Conduct long-term monitoring studies to evaluate changes in distribution and abundance of selected Tier 1 species that have been identified as less adaptable to changing environmental conditions.
+
+## Natural Communities
+
+• There were insufficient documented occurrences of some of the natural community types to fully meet the goals set for those communities. Inventories to identify highquality examples of each type should be a high priority. • Develop am aquatic habitat classification system. Conduct inventories to identify highquality examples of each type.
+
+## Landscapes
+
+• Inventory priority landscapes for additional high-quality examples of Tier 1 species and natural communities. Identifying other occurrences within existing sites will improve the efficiency of the conservation efforts. For example, the Central Loess Hills BUL has been identified as a high priority for inventory work.
+
+## Biological Research
+
+## Species
+
+• Conduct research to better understand the biology/ecology of at-risk species. Appendix 5 lists research needs for individual Tier 1 species. • Evaluate the habitat requirements of at-risk species including the size, condition and landscape context of habitat(s) needed to sustain viable populations. • Evaluate the feasibility and efficacy of captive rearing. Develop and continue to improve captive rearing techniques for highly imperiled species that require re-introduction efforts to recover the species (e.g., Salt Creek tiger beetle). Nebraska Natural Legacy Project
+• Conduct studies to evaluate the impact of invasive species on native flora and fauna.
+• Evaluate the potential threat of candidate invasive species.
+• Develop control mechanisms for invasive species that have a high impact on at-risk species and natural communities.
+
+## Natural Communities
+
+• Increase understanding of ecological processes influencing communities; investigate grazing, fire, and hydrology, and the natural mosaic of disturbance and patch types in a landscape.
+• Identify thresholds for ecosystem-function impairment that affect the viability of at-risk species and biological diversity.
+• Conduct studies to evaluate the effects of management practices (e.g., burning, grazing, haying, hydrologic manipulation) on the composition, structure and function of natural communities.
+• Develop best management practices to promote native species diversity and maintain ecological processes in different community types. • Develop and refine habitat restoration techniques for community types with the greatest need of restoration and the least known about restoration (e.g., saline wetlands, freshwater streams).
+• Conduct studies to evaluate the success of habitat restoration projects.
+
+## Conservation and Environmental Education Research
+
+• Determine the most critical and requested educational materials and develop a prioritized list of needs. • Determine the need for additional educators who are trained in environmental education.
+• Conduct an inventory of outdoor education and nature centers in Nebraska and identify areas of the state that would benefit from new centers.
+
+## Nature-based Recreation Research
+
+• Continue to conduct statewide and regional economic impact studies of hunting, fishing, wildlife viewing, and other nature-based recreation to determine the economic benefits of these activities. Publish and promote the results from the studies for the public and tourism agencies to use for recreation planning and development. Expand efforts to broaden education about nature-based recreation opportunities. • Evaluate gaps and opportunities in existing nature-based recreation infrastructure, access, and facilities, and identify where improvements or expansions could enhance recreation experiences. • Conduct targeted studies of users engaged in non-consumptive, wildlife-dependent recreation (e.g., wildlife viewing, photography) to determine their specific needs, satisfaction levels, and the adequacy of sites and facilities supporting these activities. • Inventory existing public and private sites that offer wildlife viewing opportunities, and evaluate where enhancements to access or facilities are needed. • Identify potential new sites that could provide additional nature-based recreation opportunities while minimizing impacts to natural communities.
+
+## Economic Research
+
+• Conduct studies to evaluate the economic importance of nature tourism in Nebraska.
+• Conduct research on trends in economic development and population demographics in the state and assess their potential impact on biodiversity conservation. • Conduct research to assess the economic viability of habitat restoration. For example, evaluate the economic benefits of grazing restored wetlands compared to cropping flood-prone land.
+
+## Human Dimensions Research
+
+• Conduct surveys to determine public attitudes toward biological diversity, conservation and management practices. • Assess the success of methods of outreach to landowners and land managers in engaging them in wildlife-friendly practices and conservation programs.
+251 Nebraska Natural Legacy Project 
+Welker, T. L., Drobish, M. R., & Williams, G. A. (Eds.)
+
+## . (2020). Pallid Sturgeon Population
+
+Assessment Project: Guiding document (Vol. 2.0). U.S. Army Corps of Engineers, Omaha District. Nebraska Natural Legacy Project but not thoroughly enough to presume that it is extinct or eliminated throughout its range.
+
+## GX
+
+Presumed Extinct (species)-not located despite intensive searches and virutaly no likelihood of rediscovery.
+Presumed Eliminated (ecosystems)-eliminated throughout its range, due to loss of key dominant and characteristic taxa and/or elimination of the sites and ecological processes on which the type depends.
+
+## Subrank:
+
+T Infraspecific Taxon-the status of infraspecific taxa (subspecies or varieties) are indicated by a "T-rank" following the species' global rank. Rules for assigning Tranks follow the same principles outlined above. For example, the global rank of a critically imperiled subspecies of an otherwise widespread and common species would be G5T1. A T subrank cannot imply the subspecies or variety is more abundant than the species, for example, a G1T2 subrank should not occur. A vertebrate animal population (e.g., listed under the U.S. Endangered Species Act or assigned candidate status) may be tracked as an infraspecific taxon and given a T rank; in such cases a Q is used after the T-rank to demote the taxon's informatl taxonomic status.
+
+## Qualifiers:
+
+? Inexact Numeric Rank-denotes inexact numeric rank; this should not be used with any of the Variant Gloval Conservation Status Ranks or GX or GH.
+
+## Q
+
+Questionable taxonomy that may reduce conservation priority-distinctiveness of this entity as a taxon or ecosystem type at the currenct level is questionable; resulotion of this uncertainty may result in change from a species to a subspecies or hybrid, or inclusion of this taxon or time in another taxon or type, with the resulting taxon having a lower-priority (numerically higher) conservation status rank. The "Q" modifier is only used at a gloval level and not at a national or subnational level.
+
+## Subnational Ranks (S-Ranks) and associated qualifiers:
+
+S-Rank refers to numeric ranks (S1 through S5) of conservation status or relative endangerment within the state of species or ecological communities. Primary factors used in determining rank for species are population size, number of occurrences, viability of occurrences, population trend, and threats. Secondary factors are geographic distribution, environmental specificity, protection and management, and intrinsic vulnerability.
+• If more than one Specific Threat is of concern in a given Threat Category (bold type on scoresheet), an overall Threat Category score should be determined. See the Multiple Threats Scoring instructions on page 4. • If all the threats of concern are likely be in the low impact category, the spreadsheet does not need to be filled out and a note should be made that the overall threat impact is low.
+
+## Scope of Threat Scoring
+
+Pervasive: Affects all or most (71-100%) of the total population or occurrences Large: Affects much (31-70%) of the total population or occurrences
+Restricted: Affects some (11-30%) of the total population or occurrences Small: Affects a small (1-10%) proportion of the total population or occurrences Note: Scope is typically assessed within a 10-year time frame
+
+## Severity of Threat Scoring
+
+Extreme: Within the scope, the Threat is likely to destroy or eliminate the occurrences of species, or reduce the species population by 71-100%
+Serious: Within the scope, the Threat is likely to seriously degrade/reduce the affected occurrences or habitat, or reduce the species population by 31-70%
+Moderate: Within the scope, the Threat is likely to moderately degrade/reduce the affected occurrences or habitat, or reduce the species population by 11-30%
+Slight: Within the scope, the Threat is likely to only slightly degrade/reduce the affected occurrences or habitat, or reduce the species population by 1-10% Note: Severity is assessed within a 10-year or three-generation time frame, whichever is longer (up to 100 years) 
+
+## Threat Impact Calculation
+
+[FIGURE: Tallgrass Prairie Ecoregion features environmental education opportunities from Homestead National Monument and Indian Cave State Park in the south to the Omaha Nation Public Schools along the northeastern border. Many opportunities are concentrated around the Lincoln/Omaha Metro Areas. This region has established models of environmental education being integrated into formal education. For instance, the City of Lincoln offers early childhood environmental education through Nature Preschool at Pioneers Park Nature Center. The Lincoln Children's Zoo collaborates with Lincoln Public Schools through the Science Focus Program. Similarly, Omaha's Henry Doorly Zoo and Aquarium partners with local districts to offer the Zoo Academy, a science-focused alternative education option.]
+
+[FIGURE: Blacknose Shiner, Finescale Dace, Northern Pearl Dace, Northern Redbelly Dace, Plains Minnow, Plains Topminnow, Topeka Shiner, Western Prairie Fringed Orchid Tier 2: American Eelgrass, Western Blacknose Dace Sheep Creek Priority Watershed Description The Sheep Creek Watershed consists of one HUC10 extending from the Nebraska-Wyoming border to the North Platte River south of Mitchell. It contains Sheep Creek and Dry Sheep Creek, which flow into the North Platte River west of Morrill. The system flows larger and longer than the nearby Dry Spottedtail Creek. It also contains aquatic vegetation that supports fish SGCN by providing habitat and protection from predatory trout. Because the surrounding 229 Nebraska Natural Legacy Project]
+
+[FIGURE: Figure 1.]
+
+[FIGURE: Conduct a marketing assessment of current and potential nature-based tourism clients to understand what experiences attract visitors and what services they seek. • Continue to utilize the Nebraska Statewide Outdoor Recreation Plan (SCORP) generalized survey and other assessments to evaluate the needs, preferences, and satisfaction of the general public participating in nature-based recreation across the state. Nebraska Natural Legacy Project]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[TABLE]
+*Tier 2 At-risk Species Tier *
+
+| Criteria for Selecting Tier 2 At-risk Species |
+| --- |
+| Tier 2 species were those that did not meet the Tier 1 criteria but were ranked by the |
+| Nebraska Natural Heritage Program as either State Critically Imperiled (S1), State Imperiled |
+
+[/TABLE]
+
+[TABLE]
+*Tier 1 Species: Number of Populations to be Conserved *
+
+| Endemic/Restricted/State Listed | 10 |
+| --- | --- |
+| Limited | 7 |
+| Widespread | 4 |
+| Peripheral | 1 |
+| Disjunct | 1 |
+
+[/TABLE]
+
+[TABLE:  Ten new Demonstration Sites were recognized in the third edition: Cedar Valley Wildlife Management Area (WMA), Crane Trust, Fontenelle Forest and Neale Woods, Funk Waterfowl Production Area (WPA), Gjerloff Prairie, Grove Lake WMA, Oglala National Grasslands, Pressey WMA, Valentine National Wildlife Refuge (NWR), and Wood Duck WMA. Two sites were removed: Kissinger Basin WMA was replaced by Funk WPA as the latter has more representative habitat and outreach materials; and Lake McConaughy was removed as it does not occur within a BUL nor does it have representative habitat for a BUL or Ecoregion.]
+[TABLE: Actions Needed to Overcome Barriers and Threats Facilitate species and ecosystem adaptation and resiliency to environmental changes • Promote biodiversity-compatible land management • Focus conservation on the best opportunities • Maintain and expand the network of public and private conservation lands • Demonstrate success • Strengthen connections to nature through nature-based recreation]
+[TABLE: Actions Needed to Overcome Barriers and Threats Facilitate species and ecosystem adaptation and resiliency to environmental changes • Promote biodiversity-compatible land management • Focus conservation on the best opportunities • Maintain and expand the network of public and private conservation lands]
+
+[TABLE]
+*Actions Needed to Overcome Barriers and Threats to the Natural Legacy Project across the state. Attendees benefit from networking opportunities and gain insight into at-risk species research, habitat restoration projects, and a wide range of conservation initiatives taking place across Nebraska. Since its start in 2011, the conference has rotated locations throughout Nebraska, allowing participants to experience conservation efforts firsthand during field trips to both public and private lands. Each year, the conference also recognizes individuals and organizations who go above and beyond in conservation and education through the Natural Legacy Awards.*
+
+| Actions |
+| --- |
+| 82% of Nebraskan's feel that |
+| "at-risk" species would be |
+| conserved most effectively by a |
+| partnership of governmental |
+| and private organizations. |
+| Source 2004 NASIS Survey |
+| 82% of Nebraskan's feel that |
+| "at-risk" species would be |
+| conserved most effectively by a |
+| partnership of governmental |
+| and private organizations. |
+| Source 2004 NASIS Survey |
+| 82% of Nebraskan's feel that |
+| "at-risk" species would be |
+| conserved most effectively by a |
+| partnership of governmental |
+| and private organizations. |
+
+[/TABLE]
+
+[TABLE: Needed to Advance Collaboration and Communication Continue to develop and support existing locally-based conservation partnerships in each of Nebraska's ecoregions that include a diversity of stakeholders (e.g., farmers, ranchers, community leaders, public and private conservation organizations). When possible, any new partnerships should be modeled after existing successful partnerships (e.g., Sandhills Task Force, Rainwater Basin Joint Venture, Playa Lakes Joint Venture, Loess Canyons Rangeland Alliance, Central Platte Rangeland Alliance, Verdigris-Bazile Rangeland Cooperative).]
+[TABLE:  Design and conduct training programs that instruct conservation practitioners and others in effective public participation techniques.• Strive for shared responsibility between landowners, agencies, organizations, and communities when implementing the Nebraska Natural Legacy Project. Continue to enhance existing and develop new communication channels among conservation practitioners and their agencies/organizations to improve coordination, conflict resolution and message consistency to the public, ultimately refining the existing and developing new shared visions for conserving biological diversity. • Continue to facilitate conservation projects by providing information about possible funding sources, contractors, and resources, while striving to ensure that conservation efforts result in win-win outcomes or, at minimum, cause no net loss to profit margins for producers. Seek opportunities to facilitate understanding and collaboration between the rural and urban publics. • Continue to establish and build upon existing relationships between public land managers and neighboring private landowners to further improve communication, establish and grow respect, and develop trust, while working toward mutually-beneficial shared public and private conservation opportunities. • Continue to seek out and develop opportunities with neighboring states to implement conservation strategies for at-risk species across state lines and regionally. • Continue to host the Nebraska Natural Legacy Conference as a statewide forum to share conservation efforts, highlight achievements, and strengthen collaboration among partners.]
+[TABLE:  Nebraska Natural Legacy Project    Curriculum and standards, training and professional learning, EE programming, mass communication, place-based EE, educational resources, and community science are methods for developing an environmentally literate population. By using a variety of strategies, EE addresses barriers while creating opportunities to engage with nature. Collaborating with educators, government agencies, community organizations, and conservation organizations allows us to better understand the needs and interests of various communities. The North American Association for Environmental Education recognizes that high-quality EE is "a continuous process … learner-centered, equitable, inclusive, and culturally relevant and responsive, providing all participants with opportunities for minds-on, developmentally appropriate experiences and investigations" (NAAEE Guidelines for Excellence in Environmental Education Programs, 2022). Ultimately, this will help Nebraskans connect with nature and gain the knowledge, skills, and motivation to make responsible environmental decisions.]
+[TABLE: • Collaborate with universities and colleges to ensure students in science and natural resource fields are equipped with science communication skills. • Provide professional development for biological scientists and natural resource management professionals in public communication and EE. • Develop and support volunteer networks of educators who can lead EE programming and stewardship efforts across Nebraska utilizing best practices.]
+
+[TABLE]
+*• Assess the barriers (e.g., permit processes) to landowner participation in conservation programs and use that information to improve existing programs and in developing new programs. Continue to seek and develop opportunities to expand the focus of existing conservation programs and funding sources to better conserve biological diversity and natural communities. Nebraska Natural Legacy Project• Explore new funding sources that provide sustainable and equitable compensation for landowners who participate in programs that conserve biological diversity. Continue to regularly review and adjust incentive rates to reflect changing economic conditions. • Continue working to increase capacity across agencies and organizations to provide highquality technical assistance to private landowners interested in conserving biological diversity. Collaborate across the partnerships of organizations to provide the best opportunities for programs and technical assistance to landowners. Build upon new and existing partnerships where missions overlap on private lands. • Enhance onboarding and training for private lands conservationists by including foundational knowledge in agricultural economics and industry practices, helping them better relate to farmers and ranchers and increasing the likelihood of successful implementation of conservation actions. • Consider local economic impacts of conservation projects. Consider costs and benefits of actions to meet conservation goals, including needs for further conservation actions when goals have been met.*
+
+| Collaborate with the Nebraska Department of Water, Energy, and Environment, and |
+| --- |
+| Nebraska's Natural Resources Districts to discuss the impacts of watershed planning |
+| decisions made under LB962 on fish, wildlife, and related resources in those watersheds. |
+| Undertake a watershed-by-watershed assessment of the impacts of changing streamflow |
+| conditions on biological diversity, starting with the watersheds under the most threat |
+| from increased water use. |
+| • Explore opportunities to provide private landowners with incentives/income for assisting |
+| with restoration projects (e.g., native seed harvest), engaging in activities that support |
+| biological diversity (e.g., providing nature-based recreation opportunities, marketing of |
+| biological diversity-sustainable products), or being willing to tolerate wildlife-associated |
+| economic losses. |
+| Nebraska Natural Legacy Project |
+
+[/TABLE]
+
+[TABLE]
+*• Promote the use of prescribed fire, following mechanical thinning if necessary, to remove eastern red-cedar and restore native prairie and woodland ecosystems. Nebraska Natural Legacy Project*
+
+| Grazing Management Systems |
+| --- |
+| Nebraska contains approximately 22 million acres of rangeland and pasture. Most prairie plants |
+| have evolved with and adapted to grazing. Proper grazing can promote structural heterogeneity, |
+| native plant diversity, and can help control invasive species. However, timing and intensity of |
+| grazing is critical to achieving plant community health and diversity, maximizing benefits to the |
+| widest variety of species while maintaining livestock production. |
+| Historically, bison and other large ungulate grazing patterns were driven by fire and weather. |
+| Today, most grazing occurs in the absence of fire and with relatively little variation in timing and |
+| intensity. As a result, large areas of prairie have shifted from diverse mixes of native grasses and |
+| wildflowers to grasslands dominated by less diverse plant communities, including non-native |
+| species such as Kentucky bluegrass and smooth brome, and less palatable weedy species (e.g., |
+| western ragweed). The widespread application of herbicides and inter-seeding of non-native |
+| grasses further degraded rangelands. Enhancement of degraded prairies is generally a long- |
+| term process. |
+| Both overgrazing and a lack of grazing can be detrimental to biological diversity. Consistently |
+| overgrazing can change the plant species composition of grasslands, favoring disturbance- |
+| tolerant plants adapted to heavy grazing. Heavy grazing near streams and wetlands can cause |
+| erosion and increase sedimentation and pollutants entering water bodies. Conversely, the lack |
+| of fire and grazing can lead to a loss in plant diversity due to thatch accumulation, competition |
+| from non-native plants, and loss of microhabitats necessary for plant reproduction. A lack of |
+| grazing in wetlands can favor monocultures of the non-native cattails, common reed and reed |
+| canary grass. |
+
+[/TABLE]
+
+[TABLE]
+*Introduction of Invasive Species and Pathogens *
+
+| • Assess where current stream flows are inadequate and flow appropriations would most |
+| --- |
+| effectively contribute to the maintenance of biological diversity in Nebraska. |
+| • Promote the development of an integrated water management plan for all water uses |
+| throughout the state. |
+| • Promote and provide incentives for the use of wildlife-friendly conservation buffers, |
+| grassed waterways, sediment traps, etc., on lands adjacent to wetlands, rivers, streams, |
+| reservoirs, and lakes to prevent siltation and protect water quality. |
+| • Strengthen existing or establish new statewide partnerships responsible for promoting |
+| wetland, river, and stream conservation. |
+| • Promote the value of naturally meandering rivers and streams, role of floodplains as |
+| habitat, and the need to maintain or closely simulate the natural hydrograph of rivers |
+| and streams to benefit biological diversity. |
+| • Evaluate the impacts of new dams, additional groundwater and surface water |
+| withdrawals, channelization, and levy/dike construction on biological diversity. |
+| • Promote the development and use of water conservation measures such as more water- |
+| efficient irrigation systems, xeriscape landscaping, water-conserving appliances, etc. |
+| • Promote the importance of periodic pulse flow events (e.g., flooding) to accomplish |
+| necessary system functions such as sediment transport, channel formation, and the |
+| creation of deep-water refugia for aquatic species during drought conditions. |
+| Nebraska's native prairies, woodlands and wetlands have been highly degraded by non-native |
+| plants that were deliberately or accidentally introduced to America. Other non-native plants |
+| and animals, such as the common dandelion and ring-necked pheasant, appear to have little |
+| impact on our state's biodiversity. |
+| Aggressive non-natives negatively impact native species through competition, direct predation, |
+| disruption of food chains, or by altering habitat or ecological processes. Nationally, invasive |
+| species are considered the second leading threat to biological diversity, second only to direct |
+| habitat loss. Invasive species cost the U.S. more than $26 billion annually by damaging crops, |
+| reducing available grazing land, clogging waterways, and limiting nature-based recreation like |
+| fishing, boating, and hiking. In Nebraska alone, 600,000 acres of grasslands and have been |
+| degraded by woody plant encroachment from 2000-2017 (Fogarty et al. 2020). Additionally, 63 |
+| waterbodies are now infested with aquatic invasive species in the state. According to the 2004 |
+| NASIS survey, 58% of Nebraskans think that non-native species are very or moderately likely to |
+| threaten at-risk species in the state (Bureau of Sociological Research, 2004). |
+| • Establish an interdisciplinary working group that can develop a shared vision for the |
+| judicious use of limited water resources by developing drought mitigation strategies, |
+| alternative cropping/irrigation methods, etc. that conserve and enhance biological |
+| diversity and lead to increased economic sustainability. |
+| Nebraska Natural Legacy Project |
+
+[/TABLE]
+
+[TABLE:  Parks initiative, a public-private partnership, has expanded environmental education and recreation opportunities across four state parks within the Lower Platte River corridor.State parks, such as Schramm Park SRA, Natural Resources Districts, and private organizations, such as Fontenelle Forest and Spring Creek Prairie Audubon Center, offer high-quality environmental education field trips that allow students to engage in hands-on science and connect Nebraska's natural environment with key scientific concepts. However, barriers such as limited transportation, funding, and institutional support have made it difficult for students to access these experiences. More environmental education training and workshops for educators and partnerships with school administrators are needed to address these challenges, particularly within the largest school districts in the state. The region's colleges and universities present opportunities to prepare pre-service educators to incorporate Nebraska's natural resources into their curricula. The demand for nonformal education programs, such as after-school activities and summer camps, is growing, particularly for seniors and diverse communities. However, accessibility barriers continue to hinder participation from certain populations. Environmental educators must collaborate with diverse communities to foster connections with local green spaces and create inclusive programming that welcomes all groups.]
+
+[TABLE]
+* The loss of vegetative buffers around wetlands and riparian areas increases transport of chemicals into waterways. Advanced technology associated with pesticide development may create longer lasting chemicals in the environment and contribute to herbicide-resistant invasive weeds. Neonicotinoid seed treatments and disposal of treated seeds pollute surface waters and cause harm to insects, birds, and other wildlife. Wildlife, including birds, mammals, and insects, are increasingly threatened by light pollution. Artificial lights are impacting ecosystems and animal behaviors including their ability to find food, mates, and avoid predators. Nebraska Natural Legacy Project has led to loss of non-cropped corridors between habitats and decreased resources for pollinators and other wildlife. A decrease in crop diversity has also furthered the impact of agriculture on wildlife. Landowners have increasingly diverse goals for natural areas/communities, some of which are not compatible with biodiversity conservation. Urban sprawl into peripheral intact habitats is accelerating conversion of prairies, bluff woodlands, and wetlands.Loss of natural areas because of local economics: Economic pressures are changing ownership patterns in this ecoregion. This may affect management decisions and stewardship of the land's natural resources. Conversion of remnant areas for agricultural purposes, development of agricultural areas for housing, and subdivision of large, grazed areas for recreational land-use are potential sources of loss. Such changes result in increased fragmentation and loss of biodiversity. An increase in nonresident landownership, nonoperating landowners, and recreational landownership may make connections to local communities, economies, and information about conservation incentives less accessible.*
+
+| g., |
+| --- |
+| cultivated lands, old railway/road corridors). Encourage companies to temporarily halt |
+| turbines during peak migration periods for bats and birds. Pre-and post-construction |
+| monitoring should be implemented. See Game and Parks' Environmental Review (Visit |
+| OutdoorNebraska.gov and search for Environmental Review) and TNC's Site Renewables |
+| Right (Search The Nature Conservancy Site Renewables Right: A Clean and Green Energy |
+| Future) webpages for guidelines. |
+
+[/TABLE]
+
+[TABLE]
+*Map of Tallgrass Prairie Biologically Unique Landscapes and Demonstration Sites Nebraska Natural Legacy Project Elkhorn Confluence Biologically Unique Landscape Description This landscape includes land adjacent to the confluence of the North Fork of the Elkhorn River and the main branch of the Elkhorn River in Stanton County. The Elkhorn River floodplain is primarily cropland, but also contains cottonwood woodlands, wet meadows, and freshwater marshes. Sand dunes formed of windblown river alluvium are scattered south of the river and support dry-mesic sand prairie, mostly grazed, and bur oak woodlands. Most of the dunes have been converted to cropland. The uplands north of the river have loam soils that are largely cropped, although some degraded tallgrass prairies remain. Wood Duck WMA is the only protected area in this landscape.*
+
+| Natural |
+| --- |
+
+[/TABLE]
+
+[TABLE: Legacy Demonstration Site 19. Wood Duck Wildlife Management Area -Nebraska Game and Parks Commission Wood ]
+
+[TABLE]
+*• Implement woody encroachment clearing programs in combination with prescribed fire and planned grazing on private and public lands to improve native plant diversity and maintain open prairie habitat.• Facilitate the establishment and/or support of prescribed burn associations. Continue to enhance efforts to educate landowners about the benefits and practices of prescribed burns and offer trainings.*
+
+| Aquatic Communities: | Freshwater Seep |
+| --- | --- |
+| Mid-order, Warm Water River | Eastern Bulrush Deep Marsh |
+|  | Cattail Shallow Marsh |
+| Terrestrial Communities: | Reed Marsh |
+| Eastern Riparian Forest | Eastern Pondweed Aquatic Wetland |
+| Cottonwood-Peachleaf Willow Riparian | Upland Tall-grass Prairie* |
+| Woodland | Lowland Tall-grass Prairie* |
+| Cottonwood-Diamond Willow Woodland | Sandhills Dune Prairie |
+| Sandbar Willow Shrubland | Perennial Sandbar |
+| Riparian Dogwood-False Indigobush | Sandbar/Mudflat |
+| Shrubland |  |
+| Dry-mesic Bur Oak Forest and Woodland* |  |
+| Tier 1 Species: | Nebraska Fritillary |
+| Black-billed Cuckoo | Platte River Caddisfly |
+| Black-billed Magpie | Regal Fritillary |
+| Interior Least Tern | Smoky-eyed Brown |
+| Flathead Chub | Two-spotted Skipper |
+| Plains Minnow | Eastern Red Bat |
+| Shoal Chub | Hoary Bat |
+| Silver Chub | Silver-haired Bat |
+| Western Silvery Minnow | Plain Pocketbook |
+| Bucholz Black Dash | Yellow Sandshell |
+| Monarch | Blanding's Turtle |
+| Nebraska Natural Legacy Project |  |
+
+[/TABLE]
+
+[TABLE]
+*• Create and maintain natural buffers around riparian areas to filter chemical runoff. Nebraska Natural Legacy Project• Coordinate with landowners interested in placing conservation programs on undeveloped reaches of the river, wet meadows, and woodlands to protect them from development.• Encourage and implement zoning ordinances to minimize habitat fragmentation and impacts to wildlife. • Work with sand and gravel companies to site gravel pits away from ecologically sensitive areas of the floodplain and to restore pits to wetland habitat after sand and gravel extraction has been completed. • Provide outreach and communication about responsible recreation to minimize impacts to SGCN (e.g., nesting piping plovers) and their habitats. Increase signage and outreach at public access sites about the SGCN and invasive species that can hitch a ride on recreational equipment. • Work with the cities and developers to reduce light pollution. Provide education and outreach about light pollution. • Implement prescribed burns in native woodlands to enhance woodland structure, floral composition, and oak regeneration on public and private lands.*
+
+| Terrestrial Communities (cont.): | Lowland Tall-grass Prairie* |
+| --- | --- |
+| Eastern Sedge Wet Meadow* | Perennial Sandbar* |
+| Eastern Bulrush Deep Marsh | Sandbar/Mudflat |
+| Reed Marsh | Eastern Sandstone Bluff and Cliff |
+| Eastern Pondweed Aquatic Wetland |  |
+| Upland Tall-grass Prairie |  |
+| Tier 1 Species: | Northern Long-eared Myotis |
+| Smallmouth Salamander | Silver-haired Bat |
+| Black-billed Cuckoo | Tricolored Bat |
+| Interior Least Tern | Creeper |
+| Piping Plover | Blanding's Turtle |
+| Wood Thrush | Western Massasauga |
+| Flathead Chub | Small White Lady's-slipper |
+| Lake Sturgeon | Western Prairie Fringed Orchid |
+| Pallid Sturgeon |  |
+| Plains Minnow | Aquatic Communities: |
+| Plains Topminnow | Mid-order, Warm Water River |
+| Shoal Chub |  |
+| Silver Chub | Terrestrial Communities: |
+| Sturgeon Chub | Eastern Riparian Forest* |
+| Western Silvery Minnow | Cottonwood-Peachleaf Willow Riparian |
+| Monarch | Woodland* |
+| Nebraska Fritillary | Red Oak-Basswood-Ironwood Forest |
+| Ottoe Skipper | Oak-Hickory-Ironwood Forest |
+| Platte River Caddisfly | Mesic Bur Oak Forest and Woodland* |
+| Regal Fritillary | Dry-Mesic Bur Oak Forest and Woodland* |
+| Southern Plains Bumble Bee | Dry Upland Bur Oak Woodland* |
+| Two-spotted Skipper | Sandbar Willow Shrubland |
+| Variable Cuckoo Bumble Bee | Riparian Dogwood-False Indigobush |
+| Eastern Red Bat | Shrubland |
+| Hoary Bat | Freshwater Seep |
+| Little Brown Myotis | Eastern Cordgrass Wet Prairie* |
+| Nebraska Natural Legacy Project |  |
+
+[/TABLE]
+
+[TABLE]
+*• Continue to monitor and implement best management practices to control, manage, and remove invasive species with a concerted effort on protected lands and adjacent private lands. Seek partner collaboration and methods that do not require broadcast spraying of grasslands. Increase capacity for landscape-scale prescribed fire with partners, tribes, and landowners. Continue to enhance efforts to educate landowners about the benefits and practices of prescribed burns.• Implement forest stand improvement practices on public and private lands for oak regeneration. Develop and implement practices to combat the oak blight and other tree diseases.• Work with private landowners to implement tree and shrub thinning and prescribed burning within high-quality native woodlands and prairies. • Seek to alter river flow management to conform to more natural flows and coordinate with the U.S. Army Corps of Engineers to identify best management practices for riparian areas. • Restore river meandering where possible, especially in off-channel chutes. Reduce navigation channel where possible. • Restore sediment availability for river reaches downstream of Fort Randall Dam. Develop an erodible corridor for sediment input and floodplain connectivity. • Restore coarse particulate organic matter and large woody debris in the river.• Uphold wetland conservation processes (e.g., Swampbuster) and studies that evaluate the ability of aquatic wildlife to pass through dams. Encourage and implement zoning setbacks and ordinances to reduce habitat fragmentation and address bank stabilization along the Missouri River. Use bioengineered bank stabilization. • Work with energy companies to select sites for energy infrastructure development that minimize fragmentation and impacts to wildlife. • Work with the cities and developers to reduce light pollution and provide education and outreach about light pollution. • Assist with conservation planning and implementation as requested by tribes for reservation lands. • Implement research, monitoring, and inventory projects to determine best management practices for SGCN and continue to survey and inventory fungi. Work with partners to offer educational programs and landowner workshops to encourage peer-to-peer learning and increase awareness about the practices that improve habitats and their benefits. • Offer training for identifying and treating invasive species.*
+
+| Terrestrial Communities (cont.): | Riparian Dogwood-False Indigobush |
+| --- | --- |
+| Northern Chalk Bluff and Cliff | Shrubland* |
+| Northern Loess/Shale Bluff Prairie | Sandbar Willow Shrubland* |
+| Oak-Hickory-Ironwood Forest | Sandbar/Mudflat* |
+| Perennial Sandbar | Upland Tall-grass Prairie |
+| Red Oak-Basswood-Ironwood Forest |  |
+| Tier 1 Species: Reed Marsh* | Scaleshell Mussel |
+| Smallmouth Salamander | Yellow Sandshell |
+| Black-billed Cuckoo | Timber Rattlesnake |
+| Interior Least Tern | American Ginseng |
+| Piping Plover | Butternut |
+| Wood Thrush | Nodding-pogonia |
+| Flathead Chub | Snow Trillium |
+| Lake Sturgeon | Western Prairie Fringed Orchid |
+| Pallid Sturgeon | Woolly Milkweed |
+| Plains Minnow |  |
+| Plains Topminnow | Aquatic Communities: |
+| Shoal Chub | Headwater, Warm Water Stream |
+| Sicklefin Chub | Large, Warm Water River* |
+| Silver Chub |  |
+| Sturgeon Chub | Terrestrial Communities: |
+| Western Silvery Minnow | American Lotus Aquatic Wetland* |
+| Elusive Clubtail | Buffaloberry Shrubland |
+| Ghost Tiger Beetle | Bur Oak-Basswood-Ironwood Forest |
+| Iowa Skipper | Cattail Shallow Marsh* |
+| Monarch | Cottonwood-Diamond Willow Woodland |
+| Mottled Duskywing | Cottonwood-Peachleaf Willow Riparian |
+| Pawnee Stonefly | Woodland* |
+| Regal Fritillary | Dry Upland Bur Oak Woodland |
+| Southern Plains Bumble Bee | Dry-Mesic Bur Oak Forest and Woodland |
+| Two-lined Stonefly | Eastern Bulrush Deep Marsh* |
+| Two-spotted Skipper | Eastern Cordgrass Wet Prairie* |
+| Eastern Red Bat | Eastern Cottonwood-Dogwood Riparian |
+| Hoary Bat | Woodland* |
+| Little Brown Myotis | Eastern Pondweed Aquatic Wetland* |
+| Northern Long-eared Myotis | Eastern Riparian Forest |
+| Silver-haired Bat | Eastern Sandstone Bluff and Cliff |
+| Southern Flying Squirrel | Eastern Sedge Wet Meadow* |
+| Tricolored Bat | Freshwater Seep |
+| Creeper | Lowland Tall-grass Prairie |
+| Fatmucket | Mesic Bur Oak Forest and Woodland |
+| Flat Floater | Missouri River Floodplain Terrace |
+| Plain Pocketbook | Grassland* |
+| Pondmussel | Missouri River Valley Dune Grassland* |
+| Nebraska Natural Legacy Project |  |
+
+[/TABLE]
+
+[TABLE]
+*• Restrict energy and other infrastructure development in this landscape as it has been recognized as critical habitat for the federally endangered Salt Creek tiger beetle. The effects of development and runoff from site construction could be a threat to the beetle.• Implement research, monitoring, and inventory projects to determine best management practices for SGCN. • Continue to provide education and outreach about this landscape and the unique species that inhabit this area. • Work with the City of Lincoln and developers to reduce light pollution near saline wetlands. Monitor and review city lighting ordinance.This landscape includes the bluffs and breaks along the Little Blue River and Rose Creek in Jefferson and Thayer counties. Soils are shallow and derived from Dakota Sandstone with sandstone outcrops exposed on the surface. Large blocks of tallgrass prairie remain, although these prairies are often interspersed with cropland. Many prairies have been disturbed by past grazing and invasion by non-native cool-season grasses. Eastern red-cedar and other invasive trees and shrubs are also problematic. Bur oak woodlands occur in stream and ravine bottoms. Prairie fens appear occasionally on the side slopes and bottoms of deep, sandstone canyons.This landscape harbors some of Nebraska's largest tallgrass prairie remnants and last remaining populations of western massasauga and timber rattlesnakes in the state. The prairies here also provide habitat and breeding grounds for greater prairie-chickens and other grassland birds. While many prairies are degraded, the large size of the remaining patches makes this area valuable for landscape-scale conservation. Major protected areas include Rock Glen WMA, Rose Creek WMA, and Rock Creek Station State Historical Park (SHP).*
+
+| Sandstone Prairies |  |
+| --- | --- |
+| Biologically Unique Landscape Description |  |
+| Tier 1 Species: | Pondmussel |
+| Plains Minnow | Yellow Sandshell |
+| Shoal Chub | Saltwort |
+| Silver Chub |  |
+| Western Silvery Minnow | Aquatic Communities: |
+| Monarch Nebraska Fritillary Natural | Headwater, Warm Water Stream |
+| Regal Fritillary | Terrestrial Communities: |
+| Salt Creek Tiger Beetle | Sandbar Willow Shrubland |
+| Southern Plains Bumble Bee | Freshwater Seep |
+| Variable Cuckoo Bumble Bee | Eastern Saline Meadow* |
+| Eastern Red Bat | Cattail Shallow Marsh |
+| Hoary Bat | Eastern Saline Marsh* |
+| Northern Long-eared Myotis | Saline/Alkaline Aquatic Wetland* |
+| Silver-haired Bat | Upland Tall-grass Prairie |
+| Tricolored Bat |  |
+| Creeper |  |
+| Fatmucket |  |
+
+[/TABLE]
+
+[TABLE]
+*Legacy Demonstration Site 21. Rock Glen Wildlife Management Area and Rock Creek Station State Historical Park -Nebraska Game and Parks Commission Rock Limited use of fire has led to woody encroachment in prairies and woodlands. Chemical runoff and nutrient loading into streams from adjacent cropland and developed areas.• Conversion of native prairies to cropland and other uses.• Development (e.g., housing, energy infrastructure), clay mining for bricks, and fragmentation of habitat. • Roadside and trail haying and mowing in areas with known populations of SGCN snakes. Implement planned grazing and haying strategies on public and private lands, in combination with prescribed fire and rest, to improve native plant diversity and reduce exotic grass dominance. • Develop and implement best management practices to control, manage, and remove invasive plant communities. • Increase monitoring and surveys for invasive plants in woodlands and prairies, especially on public lands. Survey before and after management efforts to evaluate effectiveness of techniques. • Implement tree-clearing programs in combination with prescribed fire and planned grazing on grasslands on public and private lands to improve native plant diversity and maintain open prairie habitat. Expand incentives for prescribed burns. • Facilitate the establishment and/or support of prescribed burn associations. Continue to enhance efforts to educate landowners about the benefits and practices of prescribed burns and offer trainings.*
+
+| Tier 1 Species (cont.): | Freshwater Seep* |
+| --- | --- |
+| Timber Rattlesnake | Prairie Fen* |
+| Western Massasauga | Eastern Cordgrass Wet Prairie |
+| Woolly Milkweed | Eastern Sedge Wet Meadow |
+|  | Eastern Bulrush Deep Marsh |
+| Aquatic Communities: | Cattail Shallow Marsh |
+| Headwater, Warm Water Stream | Upland Tall-grass Prairie* |
+| Mid-order, Warm Water River | Dakota Sandstone Tall-grass Prairie* |
+|  | Lowland Tall-grass Prairie |
+| Terrestrial Communities: | Southern Sand/Gravel Prairie* |
+| Cottonwood-Peachleaf Willow Riparian | Perennial Sandbar |
+| Woodland | Sandbar/Mudflat |
+| Sandstone Upland Bur Oak Woodland* | Eastern Sandstone Bluff and Cliff* |
+| Sandbar Willow Shrubland |  |
+| Riparian Dogwood-False Indigobush |  |
+| Shrubland |  |
+| Tier 1 Species: | Eastern Red Bat |
+| Smallmouth Salamander | Hoary Bat |
+| Henslow's Sparrow | Northern Long-eared Myotis |
+| Loggerhead Shrike | Silver-haired Bat |
+| Byssus Skipper | Tricolored Bat |
+| Iowa Skipper | Creeper |
+| Monarch | Fatmucket |
+| Ottoe Skipper | Plain Pocketbook |
+| Regal Fritillary | Pondmussel |
+| Southern Plains Bumble Bee | Yellow Sandshell |
+| Nebraska Natural Legacy Project |  |
+
+[/TABLE]
+
+[TABLE]
+*• Implement woody encroachment clearing programs and forest stand improvement practices in combination with prescribed fire and planned grazing on public and private lands. Increase capacity for landscape-scale prescribed fire.• Facilitate the establishment and/or support of prescribed burn associations. Continue to enhance efforts to educate landowners about the benefits and practices of prescribed burns and offer trainings. • Restore degraded wetlands and stream reaches.• Create and maintain a natural grassland buffer around streams to reduce siltation and filter chemical runoff. Coordinate with NRDs and utilize watershed planning to address potential water quality problems. Coordinate with landowners interested in using conservation programs and voluntary fee title acquisition to protect high-quality prairies and establish riparian buffer strips. Nebraska Natural Legacy Project• Work with energy and mining companies to select sites for development that minimize fragmentation and impacts to wildlife. Encourage zoning ordinances to minimize fragmentation and impacts to wildlife. • Work with partners (e.g., Nebraska Department of Transportation) to avoid roadside and trail mowing during times when known populations of SGCN snakes are using the area.Enhance education efforts about SGCN snakes, their behavior, and habitat use. • Continue to implement integrated public and private lands management. For example, work with private landowners with properties bordering public lands to manage larger habitat blocks. • Work with partners to offer educational programs and landowner workshops to encourage peer-to-peer learning and increase awareness about collaborative conservation strategies and practices that improve habitats and their benefits. • Offer training for identifying and treating invasive species.*
+
+| Tier 1 Species: |  |
+| --- | --- |
+| Smallmouth Salamander | Aquatic Communities: |
+| Henslow's Sparrow | Headwater, Warm Water Stream* |
+| Loggerhead Shrike | Mid-order, Warm Water Stream |
+| Wood Thrush |  |
+| Plains Minnow | Terrestrial Communities: |
+| Silver Chub | Eastern Riparian Forest |
+| Western Silvery Minnow | Cottonwood-Peachleaf Willow Riparian |
+| Byssus Skipper | Woodland |
+| Fox Mayfly | Mesic Bur Oak Forest and Woodland* |
+| Iowa Skipper | Dry-Mesic Bur Oak Forest and Woodland* |
+| Monarch | Dry Upland Bur Oak Woodland* |
+| Regal Fritillary | Sandbar Willow Shrubland |
+| Eastern Red Bat | Riparian Dogwood-False Indigobush |
+| Hoary Bat | Shrubland |
+| Little Brown Myotis | Freshwater Seep |
+| Northern Long-eared Myotis | Eastern Cordgrass Wet Prairie* |
+| Silver-haired Bat | Eastern Sedge Wet Meadow |
+| Tricolored Bat | Eastern Bulrush Deep Marsh |
+| Creeper | Cattail Shallow Marsh |
+| Fatmucket | Upland Tall-grass Prairie* |
+| Pistolgrip | Lowland Tall-grass Prairie* |
+| Plain Pocketbook | Perennial Sandbar |
+| Pondmussel | Sandbar/Mudflat |
+| Yellow Sandshell |  |
+| Timber Rattlesnake |  |
+| Western Massasauga |  |
+| Missouri Sedge |  |
+| Woolly Milkweed |  |
+
+[/TABLE]
+
+[TABLE]
+*• Altered natural hydrology, increased sedimentation, and stream incision. Center pivot development, tiling, and wetland drainage that could lower groundwater levels and degrade native prairies.• Chemical runoff and nutrient loading into streams from adjacent cropland and livestock confinements. Energy infrastructure development and fragmentation of habitat. • Lack of applied science, including research, assessment, and monitoring Support voluntary implementation of ecologically-sensitive grazing and haying strategies on private and public lands in combination with prescribed fire and rest. Nebraska Natural Legacy Project • Develop and implement cooperative leafy spurge and other invasive species control methods, potentially using biocontrol agents, in orchid meadows and other native grasslands. Work with county weed authority and use care to protect sensitive areas (e.g., small white lady's-slipper habitat) and to map high-quality areas where broadcast spraying of ditches is not desired. • Offer training on invasive species and SGCN plant identification. • Implement tree clearing programs and forest stand improvement practices in combination with prescribed fire and planned grazing on public and private lands. • Increase capacity for landscape-scale prescribed fire. Facilitate the establishment and/or support of prescribed burn associations. Continue to enhance efforts to educate landowners about the benefits and practices of prescribed burns and offer trainings. • Restore the natural hydrology to wetlands and streams and implement conservation strategies necessary to sustain biological diversity and ecosystem function. • Create and maintain natural grassland buffers around riparian areas to reduce sedimentation and filter chemical runoff. Implement measures to site livestock confinements away from sensitive habitats and watersheds. • Promote conservation programs and coordinate with interested landowners to restore strategic areas of cropland to grassland through conservation programs or voluntary fee title acquisition, enhancing connectivity and establishing core habitats. • Coordinate with interested landowners and partners to manage and conserve areas with orchids and other high-quality prairies. • Work with energy companies to select sites for energy infrastructure development that minimize fragmentation and impacts to wildlife. • Implement research, monitoring, and inventory projects to determine best management practices for SGCN (e.g., western prairie fringed orchid).*
+
+| Tier 1 Species: | Terrestrial Communities: |
+| --- | --- |
+| Black-billed Magpie | Sandbar Willow Shrubland |
+| Loggerhead Shrike | Riparian Dogwood-False Indigobush |
+| Plains Topminnow | Shrubland |
+| Bucholz Black Dash | Freshwater Seep |
+| Monarch | Eastern Cordgrass Wet Prairie* |
+| Regal Fritillary | Eastern Sedge Wet Meadow* |
+| Eastern Red Bat | Eastern Bulrush Deep Marsh |
+| Hoary Bat | Cattail Shallow Marsh |
+| Silver-haired Bat | Reed Marsh |
+| Blanding's Turtle | Lowland Tall-grass Prairie* |
+| Small White Lady's-slipper | Eastern Sand Prairie* |
+| Western Prairie Fringed Orchid Conservation Strategies | Sandhills Dune Prairie Perennial Sandbar |
+| Aquatic Communities: | Sandbar/Mudflat |
+| Headwater, Warm Water Stream |  |
+|  | * Priority for conservation in this BUL |
+|  | 96 97 |
+| Nebraska Natural Legacy Project Nebraska Natural Legacy Project |  |
+
+[/TABLE]
+
+[TABLE: Chapter 6: Mixed-grass Prairie Ecoregion ]
+[TABLE:  Spread of invasive species: Invasive and noxious species are threatening the ecoregion's biological diversity. Exotic cool-season grasses, aggressive woody plants, and other species have competitively excluded native plants and degraded habitat for fish and wildlife. Many plant and aquatic invasives can hitchhike on maintenance machinery, recreational equipment, vehicles, pets, and clothing without being detected. Other causes of invasive species' spread include interbasin water transfer and dumping fish bait into aquatic systems. Early detection monitoring and rapid response are key to preventing invasive and noxious species from becoming established and altering ecosystems. Treatment of invasive species should be weighed for potential costs to ecosystem health. Free-ranging cats are a major cause of anthropogenic mortality for birds and mammals. There is a need for improved communication, greater awareness, and education about the harmful effects that free-ranging cats can have on wildlife populations. Nebraska Natural Legacy Project]
+
+[TABLE]
+* Deciduous Woodlands Sericea lespedeza, garlic mustard, Amur and other non-native honeysuckles, autumn olive, roughleaf dogwood, tree-of-heaven, white mulberry, honey locust, Osage orange, and eastern red-cedar*
+
+| Habitat Type | Invasive Plant Species |
+| --- | --- |
+| Wet Meadows | Smooth brome, Kentucky bluegrass, reed canary grass, tall |
+|  | wheatgrass, timothy, Canada thistle, leafy spurge, and non-native |
+|  | clovers |
+| Lakes and Marshes | European phragmites, reed canary grass, narrow-leaf/hybrid cattail, |
+|  | purple loosestrife, curly-leaf pondweed, and Eurasian watermilfoil |
+| Prairie | Kentucky bluegrass, smooth brome, Japanese brome, downy brome, |
+|  | crown vetch, wormwood sage, knapweeds, St. John's wort, leafy |
+|  | spurge, sericia lespedeza, red clover, yellow and white sweet clover, |
+|  | autumn olive, roughleaf dogwood, smooth sumac, eastern red-cedar, |
+|  | and Siberian elm |
+|  | 108 |
+| Nebraska Natural Legacy Project |  |
+
+[/TABLE]
+
+[TABLE]
+* Encourage and implement zoning ordinances to address development and to minimize habitat fragmentation and impacts to wildlife.• Work with companies and agencies to select sites for development that minimize fragmentation and impacts to wildlife. • Continue to implement integrated public and private lands management. Work with partners to offer educational programs and landowner workshops to encourage peer-topeer learning and increase awareness about the practices that improve habitats and their benefits. • Offer trainings for identifying and treating invasive species. Nebraska Natural Legacy Project*
+
+| Tier 1 Species: | Aquatic Communities: |
+| --- | --- |
+| Burrowing Owl | Headwater, Warm Water Stream |
+| Loggerhead Shrike | Mid-order, Warm Water River |
+| Whooping Crane |  |
+| Flathead Chub | Terrestrial Communities: |
+| Northern Redbelly Dace | Cottonwood-Peachleaf Willow Riparian |
+| Plains Minnow | Woodland |
+| Plains Topminnow | Dry Upland Bur Oak Woodland |
+| Shoal Chub | Sandbar Willow Shrubland |
+| Silver Chub | Riparian Dogwood-False Indigobush |
+| Monarch | Shrubland |
+| Regal Fritillary | Buckbrush Shrubland |
+| Southern Plains Bumble Bee | Freshwater Seep |
+| Variable Cuckoo Bumble Bee | Playa Wetland* |
+| Eastern Red Bat | Cattail Shallow Marsh |
+| Hoary Bat | Reed Marsh |
+| Silver-haired Bat | Loess Mixed-grass Prairie* |
+| Woolly Milkweed | Perennial Sandbar |
+|  | Sandbar/Mudflat |
+
+[/TABLE]
+
+[TABLE]
+*• Develop and implement best management practices to control, manage and remove invasive plant communities. Work with partners (e.g., Nebraska Department of Transportation, agronomists, Natural Resources Conservation Service) to prevent the promotion and planting of exotic forage grasses. Enhance education efforts about the value of native forbs. Work with counties to properly size and set culverts that facilitate native fish movement in small streams and promote stream connectivity. Find ways to ensure that in-stream structures allow for native aquatic organism movement (e.g., fish ladders), especially when culverts get washed out. Continue to innovate low-cost fish passage structures.• Coordinate with interested landowners to restore strategic areas of cropland to grassland through conservation programs or voluntary fee title acquisition to create connectivity and build core areas. • Work with companies and agencies to select sites for development that minimize fragmentation and impacts to wildlife. • Provide incentives to landowners to maintain black-tailed prairie dog towns at an ecologically functional level. Nebraska Natural Legacy Project peer learning and increase awareness about the practices that improve habitats and their benefits. • Offer trainings for identifying and treating invasive species.*
+
+| Tier 1 Species: | Aquatic Communities: |
+| --- | --- |
+| Black-billed Cuckoo | Headwater, Cold Water Stream* |
+| Burrowing Owl | Headwater, Warm Water Stream* |
+| Chestnut-collared Longspur | Mid-order, Warm Water River* |
+| Loggerhead Shrike |  |
+| Blacknose Shiner | Terrestrial Communities: |
+| Finescale Dace | Cottonwood-Peachleaf Willow Riparian |
+| Flathead Chub | Woodland |
+| Northern Pearl Dace | Dry Upland Bur Oak Woodland* |
+| Northern Redbelly Dace | Green Ash-Eastern Red-cedar Scarp |
+| Plains Minnow | Woodland |
+| Plains Topminnow | Sandbar Willow Shrubland |
+| Western Silvery Minnow | Buckbrush Shrubland |
+| American Burying Beetle | Buffaloberry Shrubland |
+| Iowa Skipper | Chokecherry-Plum Shrub Thicket |
+| Monarch | Freshwater Seep |
+| Regal Fritillary | Northern Cordgrass Wet Prairie* |
+| Bailey's Eastern Woodrat | Cattail Shallow Marsh |
+| Eastern Red Bat | Reed Marsh |
+| Hoary Bat | Eastern Sand Prairie* |
+| Plains Spotted Skunk | Sandhills Dune Prairie |
+| Silver-haired Bat | Great Plains Gravel-Cobble Prairie* |
+| Blanding's Turtle | Perennial Sandbar |
+| Prairie Moonwort | Sandbar/Mudflat |
+| Small White Lady's-slipper |  |
+| Woolly Milkweed |  |
+
+[/TABLE]
+
+[TABLE]
+*• Undertake eastern red-cedar and woody vegetation clearing to maintain open meadow habitat for sandhill cranes, whooping cranes, and grassland birds. Maintain programs to control other invasive species. • Restore and/or maintain Platte River hydrology necessary to sustain biological diversity and ecosystem function. • Facilitate sediment augmentation to restore the river channel and wetland hydrology and connect backwater habitats to the river. • Restore additional grassland habitat in the valley on private lands through high-diversity, local ecotype restorations, and landowner collaboration. • Work with companies and agencies to select sites for development that minimize fragmentation and impacts to wildlife.*
+
+| Tier 1 Species: |  |
+| --- | --- |
+| Black-billed Cuckoo | Aquatic Communities: |
+| Long-billed Curlew | Headwater, Cold Water Stream* |
+| Whooping Crane | Mid-order, Warm Water River* |
+| Finescale Dace |  |
+| Northern Pearl Dace | Terrestrial Communities: |
+| Northern Redbelly Dace | Cottonwood-Peachleaf Willow Riparian |
+| Plains Minnow | Woodland |
+| Plains Topminnow | Cottonwood Riparian Woodland |
+| Western Silvery Minnow | Sandbar Willow Shrubland |
+| Ghost Tiger Beetle | Buckbrush Shrubland |
+| Iowa Skipper | Buffaloberry Shrubland |
+| Monarch | Chokecherry-Plum Shrub Thicket |
+| Ottoe Skipper | Freshwater Seep |
+| Platte River Caddisfly | Western Alkaline Meadow* |
+| Regal Fritillary | Cattail Shallow Marsh* |
+| Sandy Tiger Beetle | Reed Marsh |
+| Two-spotted Skipper | Sandhills Dune Prairie |
+| Variable Cuckoo Bumble Bee | Perennial Sandbar* |
+| Eastern Red Bat | Sandbar/Mudflat* |
+| Hoary Bat | Riverine Gravel Flats* |
+| Plains Spotted Skunk |  |
+| Silver-haired Bat |  |
+| Creeper |  |
+| Niobrara Ambersnail |  |
+| Blanding's Turtle |  |
+| Large-spike Prairie-clover |  |
+|  | 126 |
+| Nebraska Natural Legacy Project |  |
+
+[/TABLE]
+
+[TABLE: • Invasive plant and animal species in sandbars, marshes, meadows, prairies, woodlands and streams. • Proliferation of eastern red-cedar, Russian olive, and other woody species in floodplains, meadows, woodlands, and prairies. • Lack of best management and sustainable logging practices for native woodlands. Highgrade logging, especially harvest of mature cottonwoods reduces age-class diversity of native woodlands. Oak blight and other tree diseases affecting woodlands.]
+
+[TABLE]
+*• Implement forest stand improvement practices on public and private lands for oak regeneration. Develop and implement practices to combat the oak blight and other tree diseases.• Facilitate the establishment and/or support of prescribed burn associations. Continue to enhance efforts to educate landowners about the benefits and practices of prescribed burns and offer trainings. Nebraska Natural Legacy Project• Restore and/or maintain river and wetland hydrology and backwater habitat necessary to sustain biological diversity and ecosystem function.• Maintain stream flows and hydrology needed to meet biological needs and ecological conservation goals. • Restore additional grassland habitat through high-diversity, local ecotype restorations, and landowner collaboration.• Coordinate with interested landowners to protect undeveloped stretches of the river and other habitats, with a priority on habitat connectivity, through conservation programs, easements, or voluntary fee title acquisition.• Work with energy companies to select sites for energy infrastructure that minimize fragmentation and impacts to wildlife. • Implement research, monitoring, and inventory projects to track status and trends of SGCN and to determine best management practices. • Continue to implement integrated public and private lands management. For example, work with private landowners with properties bordering public lands to manage larger habitat blocks. • Work with partners to offer educational programs and landowner workshops to encourage peer-to-peer learning and increase awareness about collaborative conservation strategies and practices that improve habitats and their benefits. • Offer trainings for identifying and treating invasive species.*
+
+| Terrestrial Communities: | Lowland Tall-grass Prairie |
+| --- | --- |
+| Buffaloberry Shrubland | Northern Chalk Bluff and Cliff* |
+| Cattail Shallow Marsh* | Northern Loess/Shale Bluff Prairie* |
+| Cottonwood-Peachleaf Willow Riparian | Perennial Sandbar |
+| Woodland* | Reed Marsh* |
+| Dry Upland Bur Oak Woodland* | Riparian Dogwood-False Indigobush |
+| Dry-Mesic Bur Oak Forest and Woodland* | Shrubland |
+| Eastern Cordgrass Wet Prairie | Sandbar Willow Shrubland |
+| Eastern Sand Prairie* | Sandbar/Mudflat |
+| Eastern Sedge Wet Meadow | Upland Tall-grass Prairie* |
+| Freshwater Seep* |  |
+| Great Plains Gravel-Cobble Prairie* |  |
+| Green Ash-Elm-Hackberry Canyon Bottom |  |
+| Woodland |  |
+| Tier 1 Species: | Regal Fritillary |
+| Black-billed Cuckoo | Two-lined Stonefly |
+| Buff-breasted Sandpiper | Two-spotted Skipper |
+| Burrowing Owl | Eastern Red Bat |
+| Interior Least Tern | Hoary Bat |
+| Loggerhead Shrike | Little Brown Myotis |
+| Piping Plover | Northern Long-eared Myotis |
+| Whooping Crane | Plains Spotted Skunk |
+| Wood Thrush | Silver-haired Bat |
+| Flathead Chub | Tricolored Bat |
+| Northern Pearl Dace | Fatmucket |
+| Pallid Sturgeon | Plain Pocketbook |
+| Plains Minnow | Blanding's Turtle |
+| Plains Topminnow | Rocky Mountain Bulrush |
+| Silver Chub | Woolly Milkweed |
+| Western Silvery Minnow |  |
+| American Burying Beetle |  |
+| Bucholz Black Dash | Aquatic Communities: |
+| Elusive Clubtail | Headwater, Cold Water Stream* |
+| Iowa Skipper | Headwater, Warm Water Stream* |
+| Monarch | Mid-order, Warm Water River* |
+| Ottoe Skipper |  |
+|  | 132 133 |
+| Nebraska Natural Legacy Project Nebraska Natural Legacy Project |  |
+
+[/TABLE]
+
+[TABLE:  Spread of invasive species: Invasive and noxious species are threatening the ecoregion's biological diversity. Exotic cool-season grasses, aggressive woody plants, and other species have competitively excluded native plants and degraded habitat for fish and wildlife. Many plant and aquatic invasive species can hitchhike on maintenance machinery, recreational equipment, vehicles, pets, and clothing without being detected. Other causes of invasive species spread include interbasin water transfer, addition of non-native species to seed mixes for pollinator plantings and dumping fish bait into aquatic systems. Early detection monitoring and rapid response are key to preventing invasive and noxious species from becoming established and altering ecosystems. Treatment of invasive species should be weighed for potential costs to ecosystem health. Loss of pollinators: Pollinators are essential to a well-functioning ecosystem. Broadcast spraying of pesticides on fields harm pollinators and other native insects. There is a loss of largescale, diverse, season-long habitats that contain a diversity of forbs. Pollinator habitat restoration should only use native species and avoid broad spectrum pesticides. Currently, there is limited availability of local ecotype, forb-heavy, high-diversity seed mixes. Additionally, more monitoring efforts are needed to establish baseline population estimates for many of the pollinators in this ecoregion and across the state. More communication is needed to inform beekeepers about the negative impact that honeybee parasites can have on native pollinator populations.]
+[TABLE:  Alteration of hydrology, channel degradation and sedimentation of rivers, streams, and wetlands: Large-scale export of Sandhills groundwater would significantly alter the region's natural hydrology by lowering the water table, impacting wetlands, and reducing stream and river flows. Groundwater and surface water withdrawals are depleting the Ogallala aquifer, further lowering water tables and decreasing surface water flows. Structures like dams and improperly sized culverts limit native fish and Nebraska Natural Legacy Project other aquatic species movement. Increasing and continuing communication and collaboration with counties on how to build fish-friendly culverts and other fish movement structures that facilitate movement and maintain connectivity of populations in small streams. Large volumes of sediment are entering the ecoregion's water bodies. Sedimentation increases stream turbidity and changes bottom substrates. Increased sedimentation of wetlands alters storage capacity and changes plant composition, reducing habitat available to aquatic species, including waterfowl. There is limited awareness of the grassland buffer program and the importance of riparian buffers. Additionally, there are inadequate technical and financial incentives available to encourage the preservation of riparian buffers, especially next to crop fields where soil erosion and nutrient and chemical runoff are more prevalent. Point and nonpoint source pollution: Point and nonpoint pollution negatively impacts biodiversity. The introduction of pesticides, storm-sewer runoff, fertilizers and nitrates, and industrial pollutants into rivers and streams impacts water quality, exposes fish and other species to harmful agents, and causes algal blooms. The loss of vegetative buffers around wetlands and riparian areas increases transport of chemicals into waterways. Advanced technology associated with pesticide development may create longer lasting chemicals in the environment and contribute to herbicide-resistant invasive weeds.]
+[TABLE:  Nebraska Natural Legacy ProjectTo conserve biodiversity in the ecoregion, it is important to carefully consider the placement of energy infrastructure, such as transmission lines and pipelines, to minimize negative impacts on wildlife and native habitats. Poorly sited energy infrastructure can fragment intact ecosystems, negatively impact important migratory corridors, harm migratory birds and bats, and disturb wildlife. See Game and Parks' Environmental Review (Visit OutdoorNebraska.gov and search for Environmental Review) and TNC's Site Renewables Right (Search The Nature Conservancy Site Renewables Right: A Clean and Green Energy Future) webpages for guidelines.Wetland and wet meadow drainage: Drainage of wetlands has ongoing impacts for aquatic resources in the Sandhills. Wet meadows are biologically diverse communities, but composition changes when natural hydrology is altered. Unique wetlands, such as fens, are often highly degraded when ditched. As the groundwater table becomes lower, it becomes harder to restore wetlands. Invasive species and woody encroachment are also negatively impacting wetlands and reducing habitat availability for native species.]
+
+[TABLE]
+*of the Sandhills Biologically Unique Ecoregion Demonstration sites are locations across the state with potential for showcasing conservation projects and the results of sustainable management to the public. They provide opportunities for learning about the site's unique qualities and importance to at-risk species. See Chapter 4 for information on selecting demonstration sites. The Sandhills Biologically Unique Ecoregion map shows the location of demonstration sites in the area.Descriptions of each site are found in the write-up for the BUL in which the site is found.*
+
+| Site name | # on map | BUL |
+| --- | --- | --- |
+| Calamus WMA and SRA | 11 | Upper Loup Rivers and Tributaries |
+| Crescent Lake NWR | 5 | Sandhills Alkaline Lakes |
+| Niobrara Valley Preserve | 9 | Middle Niobrara |
+| Valentine NWR | 8 | Cherry County Wetlands |
+|  |  | 147 |
+| Nebraska Natural Legacy Project |  |  |
+
+[/TABLE]
+
+[TABLE: • Work with partners (e.g., Natural Resources Conservation Services, extension office, and agronomists) to enhance education efforts and collaborate with private landowners to implement effective methods of forage utilization on wet meadows that avoid ditching.• Where feasible, create and maintain blowout complexes as habitat for the blowout penstemon through use of intense livestock grazing. Work with extension agencies and agronomists to prevent the promotion and planting of exotic forage grasses, such as Garrison creeping-foxtail and reed canary grass, and forbs in Sandhills wet meadows. • Undertake eastern red-cedar and other tree and shrub clearing to maintain open prairie habitat. Continue to collaborate with the USDA to ensure wetlands enrolled in their programs allow occasional moderate grazing, burning, or haying to reduce vegetative litter accumulation and to promote biodiversity. • Implement measures to site livestock confinements away from sensitive habitats and watersheds. Create and maintain natural grassland buffers around riparian areas to reduce sedimentation and filter chemical runoff. Coordinate with NRDs and utilize watershed planning to address potential water quality problems. • Restore and maintain the natural hydrology of streams, wet meadows and other wetlands through ditch plugging and water control structures (ensure that in-stream structures allow for fish passage).]
+
+[TABLE]
+*• Work with interested landowners to use conservation programs, easements, or voluntary fee title acquisition to protect important habitats.• Work with energy companies to select sites for energy infrastructure development that minimize fragmentation and impacts to wildlife. • Implement research, monitoring, and inventory projects to determine best management practices for shorebirds and SGCN.*
+
+| Tier 1 Species: | Aquatic Communities: |
+| --- | --- |
+| Black Tern | Alkaline Lake* |
+| Burrowing Owl | Freshwater Lake* |
+| Loggerhead Shrike | Headwater, warm water stream |
+| Long-billed Curlew | Mid-order, warm water river |
+| Potassium-loving Fairy Shrimp |  |
+| Plains Topminnow | Terrestrial Communities: |
+| Kohler's Fritillary | Chokecherry-Plum Shrub Thicket |
+| Monarch | Freshwater Seep |
+| Nine-spotted Ladybird Beetle | Western Alkaline Meadow* |
+| Regal Fritillary | Cattail Shallow Marsh |
+| Sandy Tiger Beetle | Reed Marsh |
+| Southern Plains Bumble Bee | Western Alkaline Marsh* |
+| Two-spotted Skipper | Northern Pondweed Aquatic Wetland |
+| Eastern Red Bat | Water-lily Aquatic Wetland |
+| Hoary Bat | Saline/Alkaline Aquatic Wetland* |
+| Silver-haired Bat | Sandhills Dune Prairie* |
+| Swift Fox | Sandhills Dry Valley Prairie |
+| Blowout Penstemon |  |
+| Large-spike Prairie-clover |  |
+
+[/TABLE]
+
+[TABLE]
+*• Implement research, monitoring, and inventory projects to determine best management practices for SGCN.*
+
+| Tier 1 Species: | Terrestrial Communities: |
+| --- | --- |
+| Finescale Dace | Green Ash-Elm-Hackberry Canyon Bottom |
+| Northern Pearl Dace | Woodland |
+| Northern Redbelly Dace | Sandbar Willow Shrubland |
+| Plains Topminnow | Chokecherry-Plum Shrub Thicket |
+| Western Silvery Minnow | Freshwater Seep |
+| Monarch | Northern Cordgrass Wet Prairie* |
+| Regal Fritillary | Sandhills Wet Meadow* |
+| Bailey's Eastern Woodrat | Cattail Shallow Marsh |
+| Eastern Red Bat | Reed Marsh |
+| Hoary Bat | Eastern Sand Prairie |
+| Silver-haired Bat | Sandhills Dune Prairie |
+| Blanding's Turtle | Sandhills Dry Valley Prairie |
+|  | Perennial Sandbar |
+| Aquatic Communities: | Sandbar/Mudflat |
+| Headwater, Cold Water Stream* |  |
+
+[/TABLE]
+
+[TABLE: • Northern Long-eared Myotis (Myotis septentrionalis) • Ute Ladies'-tresses (Spiranthes diluvialis) • Burrowing Owl (Athene cunicularia)]
+[TABLE:  Spread of invasive species: Invasive and noxious species are threatening the ecoregion's biological diversity. Exotic cool-season grasses, aggressive woody plants, and other species have competitively excluded native plants and degraded habitat for fish and wildlife. Many plant and aquatic invasive species can hitchhike on maintenance machinery, recreational equipment, vehicles, pets, and clothing without being detected.Other causes of invasive species spread include interbasin water transfer and dumping fish bait into aquatic systems. Early detection monitoring and rapid response is key to preventing invasive and noxious species from becoming established and altering ecosystems. Treatment of invasive species should be weighed for potential costs to Nebraska Natural Legacy Project ecosystem health. Free-ranging cats are a major cause of anthropogenic mortality for birds and mammals. There is a need for improved communication, greater awareness, and education about the harmful effects that free-ranging cats can have on wildlife populations.Loss of pollinators: Pollinators are essential to a well-functioning ecosystem. Broadcast spraying of pesticides on fields harm pollinators and other native insects. There is a loss of largescale, diverse, habitats that contain a diversity of forbs. Pollinator habitat restoration should only use native species and avoid broad spectrum pesticides. Currently, there is limited availability of local ecotype, forb-heavy, high-diversity seed mixes. Additionally, more monitoring efforts are needed to establish baseline population estimates for many of the pollinators in this ecoregion and across the state. More communication is needed to inform beekeepers about the negative impact that honeybee parasites can have on native pollinator populations.Limited awareness about the region's biological diversity and ecological processes: Many residents have a desire to increase their knowledge and understanding of ecological processes and management that can help maintain biological diversity, but educational resources are often not available. Funding and collaboration among conservation agencies are essential to develop and implement relevant environmental education opportunities about native ecosystems and best management practices for conserving them. There is a lack of trusted advisors and community ambassadors that can provide peer-to-peer learning opportunities and share their experiences and knowledge about the financial relevance of ecosystem conservation. Increases in nonresident landowners and younger residents will require the use of new communication channels to deliver informational materials. Additionally, there is little school curriculum that teaches students about Nebraska's native species, habitats, and conservation issues. Although the region's remaining native grasslands, woodlands, and wetlands are unique and of high value, many of the ecoregion's residents have limited awareness of the importance of these habitats to biological diversity.Alteration of hydrology, channel degradation and sedimentation of rivers, streams, and wetlands: Rivers, streams, and wetlands in the ecoregion are being stressed by surface water diversions, groundwater withdrawals, and water demands downstream. Reduced water flows in the Frenchman and Republican rivers threatens ecosystem function.Center-pivot irrigation, particularly in sandy soil areas has contributed significantly to the groundwater withdrawals. The declines in beaver populations has also contributed to a loss of wetlands, especially in the Pine Ridge region. Intense grazing around the remaining streams and creeks is impacting water quality. A lowering of the water table along rivers and streams changes plant composition and often promotes the spread of invasive species, which contribute further to the lowering water table. Irrigation in this ecoregion is changing the flow regime of rivers and streams with higher flows during mid-summer irrigation season instead of spring and fall and the quick emptying of canals into streams after large rain events. Dams and diversions are causing silt to build up in the North Platte River, causing more floods and bank erosion. Additionally, structures Nebraska Natural Legacy Project like dams and improperly sized culverts limit native fish and other aquatic species movement. Increasing and continuing communication and collaboration with counties on how to build fish friendly culverts and other fish movement structures that facilitate movement and maintain connectivity of populations in small streams.The proximity of development, construction sites, and annual row-crop fields to rivers, streams, and wetlands has resulted in large volumes of sediment entering the ecoregion's water bodies. Fewer cover crops are planted to hold soil over winter. Sedimentation increases stream turbidity and changes bottom substrates. Increased sedimentation of wetlands alters storage capacity and changes plant composition, reducing habitat available to aquatic species including waterfowl.Point and nonpoint source pollution: Point and nonpoint pollution negatively impacts biodiversity. The introduction of pesticides, storm-sewer runoff, fertilizers and nitrates, and industrial pollutants into rivers and streams impacts water quality, exposes fish and other species to harmful agents, and causes algal blooms. The loss of vegetative buffers around wetlands and riparian areas increases transport of chemicals into waterways. Advanced technology associated with pesticide development may create longer lasting chemicals in the environment and contribute to herbicide-resistant invasive weeds. Neonicotinoid seed treatments and disposal of treated seeds pollute surface waters and cause harm to insects, birds, and other wildlife. Wildlife, including birds, mammals, and insects, are increasingly threatened by light pollution. Artificial lights are impacting ecosystems and animal behaviors, including their ability to find food, mates, and avoid predators.Loss of natural areas because of local economies: The agricultural community in the ecoregion is driven by a high level of pride and personal responsibility for sustaining the region's unique natural resources. Economic pressures are changing ownership patterns (e.g., more nonresident owners, larger corporate farming operations), which could affect management decisions and ultimate stewardship of the land. Changes in local economies that encourage subdivision and land use change lead to fragmentation and loss of habitats that threaten biodiversity.Loss of lands enrolled in conservation programs: Lands enrolled in conservation programs, such as the Conservation Reserve Program (CRP), provide significant benefits to wildlife, including at-risk species. Shifting agricultural economics and programmatic challenges may result in large tracts of conservation lands being converted to agricultural cropland. Retention of previously enrolled acres in programs such as General and Continuous CRP is vital to ensure that the benefits of these programs for local economies and wildlife populations persist. Placement of Grassland CRP in areas prone to conversion, or implemented in a way that provides and manages habitat for targeted wildlife benefits, will also be key to ensuring the benefits of the program are realized. The loss of even a modest percentage of these lands will result in impacts to terrestrial and aquatic species. Nebraska Natural Legacy Project Poorly sited utility-scale energy infrastructure development: Utility-scale energy infrastructure development (e.g., solar farms, wind turbines, Co2 sequestration plant and pipelines, fracking waste, power lines) is expanding in the Great Plains. To conserve biodiversity in the ecoregion, it is important to carefully consider the placement of energy infrastructure, such as transmission lines and pipelines, to minimize negative impacts on wildlife and native habitats. Poorly sited energy infrastructure can fragment intact ecosystems, negatively impact important migratory corridors, harm migratory birds and bats, and disturb wildlife. Focus on siting energy development in already disturbed areas (e.g., cultivated lands, old railway/road corridors). Encourage companies to temporarily halt turbines during peak migration periods for bats and birds. Pre-and post-construction monitoring should be implemented. See Game and Parks' Environmental Review (Visit OutdoorNebraska.gov and search for Environmental Review) and TNC's Site Renewables Right (Search The Nature Conservancy Site Renewables Right: A Clean and Green Energy Future) webpages for guidelines.]
+
+[TABLE]
+*Primary Invasive Plant Species by Habitat Type Note Nebraska Natural Legacy  Project : This list highlights key invasive species of concern in the ecoregion and is not exhaustive.*
+
+| Habitat Type | Invasive Plant Species |
+| --- | --- |
+| Upland Prairie | Kentucky bluegrass, smooth brome, Japanese brome, |
+|  | downy brome, ventenata, medusahead, crested |
+|  | wheatgrass, sickleweed, St. John's wort, hound's- |
+|  | tongue, leafy spurge, yellow and white sweet clover, |
+|  | halogeton (fringe of badlands), eastern red-cedar and |
+|  | cedar hybrids |
+| Lowland Deciduous Woodlands | Smooth brome, Kentucky bluegrass, reed canary grass, |
+|  | eastern red-cedar |
+| Pine Woodlands | Kentucky bluegrass, smooth brome, Japanese brome, |
+|  | downy brome, eastern red-cedar/cedar hybrids |
+| Wet Meadows | Smooth brome, Kentucky bluegrass, reed canary grass, |
+|  | timothy, tall wheatgrass, quack grass/intermediate |
+|  | wheatgrass, Canada thistle, leafy spurge, non-native |
+|  | clovers |
+| Lakes and Marshes | European phragmites, reed canary grass, narrow- |
+|  | leaf/hybrid cattail, curly-leaf pondweed, Eurasian |
+|  | watermilfoil |
+
+[/TABLE]
+
+[TABLE]
+*Map of Shortgrass Prairie Biologically Unique Landscapes and Demonstration Sites Nebraska Natural Legacy Project Kimball Grasslands Biologically Unique Landscape Description This Demonstration sites are locations across the state with potential for showcasing conservation projects and the results of sustainable management to the public. They provide opportunities for learning about the site's unique qualities and importance to at-risk species. See Chapter 4 for information on selecting demonstration sites. The Shortgrass Prairie Ecoregion map shows the location of demonstration sites in the area.Descriptions of each site are found in the write-up for the BUL in which the site is found. Nebraska Natural Legacy Project landscape includes level-to-rolling hills and stream breaks in southwest Kimball County. Most level areas are planted in dryland crops, mainly wheat. Native mixed-grass prairie still covers the shallow-soil breaks along Lodgepole Creek and other stream valleys. Rock outcrops are found in rougher areas, such as stream bluffs. Lodgepole Creek is the BUL's largest stream, though its flow has been greatly reduced by groundwater pumping for irrigation.This landscape is unique because it supports the state's only population of the state-listed Colorado butterfly plant, found in the Lodgepole Creek valley (recent surveys show this population is nearing extirpation in Nebraska). The state-listed mountain plover nests in heavily grazed native grasslands and croplands, such as short wheat stubble and millet. Migrating shorebirds and waterfowl use the many playas located on level plains throughout Kimball County. The South Platte Natural Resources District's Oliver Reservoir Recreation Area is the only protected area in the BUL.*
+
+| • North Platte River |  |  |
+| --- | --- | --- |
+| • Oglala Grasslands |  |  |
+| • Panhandle Prairies |  |  |
+| • Pine Ridge |  |  |
+| • Platte Confluence (see Mixed-grass Ecoregion for description) |  |  |
+| • Sandsage Prairie (North and South combined) |  |  |
+| • Upper Niobrara River |  |  |
+| • Wildcat Hills (North and South combined) |  |  |
+| Demonstration Sites of the Shortgrass Prairie Ecoregion |  |  |
+| Site name | # on map | BUL |
+| Enders Reservoir SRA & WMA | 6 | Sandsage Prairie |
+| Fort Robinson State Park | 2 | Pine Ridge |
+| Oglala National Grasslands | 1 | Oglala Grasslands |
+| Ponderosa WMA | 3 | Pine Ridge |
+| Wildcat Hills | 4 | Wildcat Hills |
+
+[/TABLE]
+
+[TABLE]
+*• Develop and continue to implement best management practices to control and manage invasive plants.• Work with private landowners to identify areas with Colorado butterfly plant populations to help reduce impacts from herbicides. Nebraska Natural Legacy Project• Conduct voluntary nest clearing of millet and wheat fields to prevent damage to mountain plover nests. • Restore and maintain the hydrology of Lodgepole Creek needed to sustain floodplain biodiversity and ecosystem function.• Prevent sedimentation and restore the hydrology of the playa wetlands.• Develop management agreements with landowners to implement grazing and burning strategies on native grasslands that favor mountain plover and native plant diversity. • Re-enrollment of CRP lands • Work with companies and agencies to select sites for development that minimize fragmentation and impacts to wildlife.*
+
+| Tier 1 Species: |  |
+| --- | --- |
+| Brewer's Sparrow Burrowing Owl | Aquatic Communities: Headwater, Warm Water Stream |
+| Chestnut-collared Longspur Ferruginous Hawk Loggerhead Shrike Mountain Plover Thick-billed Longspur Plains Topminnow Colorado Rita Dotted Blue Lichen Grasshopper Monarch Regal Fritillary Southern Plains Bumble Bee Cheyenne Northern Pocket Gopher Eastern Red Bat Fringed Myotis Hoary Bat Silver-haired Bat Swift Fox | Terrestrial Communities: Pine-Juniper Scarp Woodland Sandbar Willow Shrubland Buckbrush Shrubland Chokecherry-Plum Shrub Thicket Freshwater Seep Wheatgrass Playa Grassland Cattail Shallow Marsh Western Sand Prairie Threadleaf Sedge Western Mixed-grass Prairie* Wheatgrass Western Mixed-grass Prairie Western Floodplain Terrace Grassland Perennial Sandbar Sandbar/Mudflat Rock Outcrop* |
+| Colorado Butterfly Plant | * Priority for conservation in this BUL |
+
+[/TABLE]
+
+[TABLE]
+*• Work with agronomists to discontinue use of tall, intermediate and crested wheatgrasses, reed canary grass, Kentucky bluegrass, and Garrison creeping-foxtail in plantings.• Develop and implement best management practices to control and manage invasive plants. Clear eastern red-cedar and Russian olive and undertake other tree clearings to maintain open meadow habitat for waterbirds and grassland birds. • Support prescribed burn associations and enhance efforts to educate landowners about the benefits and practices of prescribed burns, aiming to increase their acceptance and adoption of this land management technique. • Enhance the North Platte River hydrology that is necessary to sustain biological diversity and ecosystem function. Restore natural hydrology to other important streams in the BUL.• Restore wetland hydrology and connect backwater habitats to the river.• Coordinate with interested landowners to restore strategic areas of cropland to grassland through conservation programs or voluntary fee title acquisition, enhancing connectivity and establishing core habitats. Restore additional grassland habitat through high-diversity, local ecotype restorations, and landowner collaboration. Nebraska Natural Legacy Project• Encourage and implement zoning ordinances to address development to minimize habitat fragmentation and impacts to wildlife. Coordinate with landowners interested in using conservation programs and voluntary acquisitions on undeveloped reaches of the river and wet meadows to protect them from development.*
+
+| Tier 1 Species: |  |
+| --- | --- |
+| Black-billed Magpie | Terrestrial Communities: |
+| Burrowing Owl | Cottonwood-Peachleaf Willow Riparian |
+| Whooping Crane | Woodland |
+| Flathead Chub | Cottonwood Riparian Woodland |
+| Plains Minnow | Sandbar Willow Shrubland |
+| Plains Topminnow | Buckbrush Shrubland |
+| Western Silvery Minnow | Buffaloberry Shrubland |
+| Lichen Grasshopper | Chokecherry-Plum Shrub Thicket |
+| Monarch | Freshwater Seep |
+| Regal Fritillary | Western Alkaline Meadow* |
+| Souther Plains Bumble Bee | Western Subirrigated Alkaline Meadow* |
+| Eastern Red Bat | Western Sedge Wet Meadow* |
+| Hoary Bat | Cattail Shallow Marsh |
+| Little Brown Myotis | Reed Marsh |
+| Silver-haired Bat | Western Alkaline Marsh* |
+| Creeper | Perennial Sandbar* |
+| Fatmucket | Sandbar/Mudflat* |
+| Large-spike Prairie-clover | Riverine Gravel Flats* |
+| Platte River Dodder |  |
+| Aquatic Communities: |  |
+| Headwater, Warm Water Stream |  |
+| Mid-order, Warm Water River |  |
+
+[/TABLE]
+
+[TABLE]
+*• Re-enrollment of CRP lands and/or establishment of grazing strategies appropriate to the local flora on lands coming out of CRP enrollment.• Work with companies and agencies to select sites for development that minimize fragmentation and impacts to wildlife. • Manage public lands to maintain black-tailed prairie dog towns at an ecologically functional population level. • Promote fencing methods that are less obstructive to pronghorn antelope and other wildlife.*
+
+| Tier 1 Species (cont.): |  |
+| --- | --- |
+| Monarch | Terrestrial Communities: |
+| Nine-spotted Ladybird Beetle | Pine-Juniper Scarp Woodland |
+| Regal Fritillary | Rocky Mountain Juniper Woodland |
+| Sandy Tiger Beetle | Buckbrush Shrubland |
+| Simius Roadside-Skipper | Buffaloberry Shrubland |
+| Southern Plains Bumble Bee | Chokecherry-Plum Shrub Thicket |
+| Suckley's Cuckoo Bumble Bee | Freshwater Seep |
+| Two-spotted Skipper | Western Alkaline Meadow |
+| Western Bumble Bee | Western Sedge Wet Meadow* |
+| Eastern Red Bat | Cattail Shallow Marsh |
+| Hoary Bat | Sandsage Prairie |
+| Little Brown Myotis | Western Sand Prairie* |
+| Silver-haired Bat | Threadleaf Sedge Western Mixed-grass |
+| Swift Fox | Prairie* |
+| Sagebrush Lizard | Wheatgrass Western Mixed-grass Prairie* |
+| Blowout Penstemon | Western Floodplain Terrace Grassland |
+| Large-spike Prairie-clover | Rock Outcrop* |
+| Meadow Lousewort |  |
+| Ute Ladies'-tresses |  |
+| Aquatic Communities: |  |
+| Headwater, Warm Water Stream |  |
+| Tier 1 Species: | Thick-billed Longspur |
+| Black-billed Magpie | Whooping Crane |
+| Brewer's Sparrow | Finescale Dace |
+| Burrowing Owl | Northern Pearl Dace |
+| Chestnut-collared Longspur | Northern Redbelly Dace |
+| Ferruginous Hawk | Plains Topminnow |
+| Loggerhead Shrike | Large Marble |
+| Long-billed Curlew | Lichen Grasshopper |
+| Nebraska Natural Legacy Project |  |
+
+[/TABLE]
+
+[TABLE]
+*• Develop and implement best management practices to control and manage invasive plant species.• Provide incentives for the development and use of local, environmentally sound pine wood products from sustainable harvest.*
+
+| Terrestrial Communities (cont.): |
+| --- |
+| Northern Chalk Bluff and Cliff* |
+| Western Sandstone Cliff* |
+| Rock Outcrop* |
+| * Priority for conservation in this BUL |
+| 191 |
+| Nebraska Natural Legacy Project |
+
+[/TABLE]
+
+[TABLE]
+*• Work with conservation agencies, chemical companies, and crop consultants to eliminate the practice of herbicide spraying on private lands as a method of reducing sandsage abundance.• Facilitate the establishment and/or support of prescribed burn associations. Continue to enhance efforts to educate landowners about the benefits and practices of prescribed burns and offer trainings. • Remove invasive woody species, restore wetlands, and implement ecologically sensitive grazing within the Republican River valley upstream from Swanson Reservoir. Work with landowners to install livestock watering facilities in uplands to manage cattle watering away from streams. • Restore groundwater levels and wetlands in the sandsage prairie.*
+
+| 194 |
+| --- |
+| Nebraska Natural Legacy Project |
+
+[/TABLE]
+
+[TABLE]
+*• Develop and implement best management practices to control invasive plants. • Increase education efforts about aquatic invasive species control methods, water quality, and water conservation. • Maintain the natural hydrology of the Niobrara River and implement conservation strategies necessary to sustain biological diversity and ecosystem function (e.g., restoring center pivot lands to native grassland). • Work with landowners to install livestock watering facilities in uplands to manage cattle watering away from streams.*
+
+| 197 |
+| --- |
+| Nebraska Natural Legacy Project |
+
+[/TABLE]
+
+[TABLE]
+*• Develop and implement best management practices to control invasive plants.• Provide incentives for the development and use of local, environmentally sound pine wood products from sustainable harvest. • Conduct prescribed thinning of mixed age, mixed health trees on private and public land that will ensure resilient forests. • Work with public and private landowners to implement prescribed, low-intensity surface fires and planned grazing systems to control exotic plants, reduce Ponderosa pine, juniper, and eastern red-cedar densities, and reduce the threat of intense or devastating fires. • Carry out zoning ordinance enforcement to address ranchettes and fragmentation. • Coordinate with landowners interested in using conservation easements and voluntary acquisitions to protect important areas for conservation. • Work with companies and agencies to select sites for development that minimize fragmentation and impacts to wildlife. • Continue to implement integrated public and private lands management. For example, work with private landowners with properties bordering public lands to manage larger habitat blocks. Offer training for identifying and treating invasive species. Nebraska Natural Legacy Project • To avoid disease transmission, enhance outreach efforts and work with private landowners to limit interactions with domestic sheep and goats in areas used by bighorn sheep. • Promote fencing methods that are less detrimental to pronghorn antelope and other wildlife.*
+
+| Tier 1 Species: |  |
+| --- | --- |
+| Black-billed Magpie | Terrestrial Communities: |
+| Brewer's Sparrow | Ponderosa Pine Forest* |
+| Burrowing Owl | Dry Ponderosa Pine Open Woodland and |
+| Ferruginous Hawk | Savanna* |
+| Long-billed Curlew | Pine-Juniper Scarp Woodland* |
+| Pinyon Jay | Rocky Mountain Juniper Woodland |
+| Plains Topminnow | Buckbrush Shrubland |
+| Large Marble | Chokecherry-Plum Shrub Thicket |
+| Lichen Grasshopper | Mountain Mahogany Shrubland* |
+| Monarch | Freshwater Seep* |
+| Morrison's Bumble Bee | Western Alkaline Meadow |
+| Southern Plains Bumble Bee | Western Sedge Wet Meadow |
+| Nine-spotted Ladybird Beetle | Sandsage Prairie* |
+| Regal Fritillary | Western Sand Prairie* |
+| Eastern Red Bat | Threadleaf Sedge Western Mixed-grass |
+| Fringed Myotis | Prairie* |
+| Hoary Bat | Wheatgrass Western Mixed-grass Prairie* |
+| Plains Spotted Skunk | Western Floodplain Terrace Grassland |
+| Rocky Mountain Bighorn Sheep | Western Sandstone Cliff* |
+| Silver-haired Bat | Rock Outcrop* |
+| Swift Fox | Badlands* |
+| Sagebrush Lizard | Riverine |
+| Aquatic Communities: |  |
+| Headwater, Warm Water Stream |  |
+|  | 199 |
+| Nebraska Natural Legacy Project |  |
+
+[/TABLE]
+
+[TABLE:  From 2003 to 2018, Nebraska 201 Nebraska Natural Legacy ProjectGame and Parks Commission's Missouri River Program monitored riverine fish SGCN as part of pallid sturgeon recovery efforts. Modifications to that protocol have resulted in the removal of several sampling methods that could detect other SGCN; renewing those sampling efforts will allow researchers to evaluate the status of riverine SGCN. Game and Parks' Rivers and Streams program and Nebraska Department of Water, Energy, and Environment (NDWEE) inventory fish and aquatic invertebrates annually across the state. Efforts are underway to evaluate the effectiveness of using environmental DNA (eDNA) as it may be useful to prioritize sampling efforts. A comprehensive survey of freshwater mussels is greatly needed in the state; to date, most records are anecdotal. For other aquatic SGCN including aquatic plants, crayfish, fairy shrimp, and other macroinvertebrates, our understanding of the natural history of these species is severely limited. A long-term, standardized monitoring program is essential to track population trends, assess the effectiveness of management actions, and respond to emerging threats such as invasive species and climate-driven changes in flow and temperature regimes. Increased research on life history, habitat use, and reproductive success, especially for imperiled species, will help guide conservation efforts.Increased emphasis on freshwater mussel conservation: With nearly half of Nebraska's extant freshwater mussel species identified as SGCN, coordinated conservation efforts are necessary to restore populations. Restorations involve many steps, including species prioritization, stream selection, and propagation. A Technical Committee comprised of biologists and researchers from Game and Parks and the University of Nebraska-Lincoln developed a Nebraska Freshwater Mussel Restoration Plan (NFMRP) in 2019 to help managers move forward with restorations and navigate complexities of the processes.]
+
+[TABLE]
+*• Work collaboratively with local landowners to maintain the watershed in a high-quality state.• Revegetate bare stream banks in the areas where they occur.• Collaborate with local towns community groups to provide education on the importance of the watershed management. • Identify direct source areas that consistently exceed state regulation limits (Total Maximum Daily Loads TMDLs -NDWEE's Integrated Reports) and determine areas where there are overlap with at-risk species distribution. Blue Sucker, Bluntnose Minnow, Western Blacknose Dace Nebraska Natural Legacy Project*
+
+| Species of Greatest Conservation Need |
+| --- |
+| Tier 1: Flathead Chub, Plains Topminnow |
+| Tier 2: |
+
+[/TABLE]
+
+[TABLE]
+*• Identify direct pollution source areas that consistently exceed state regulation limits (Total Maximum Daily Loads TMDLs -NDWEE's Integrated Reports) and determine areas where there is overlap with at-risk species distribution.• Collaborate with local water users to maintain minimum stream base-flows or pursue instream flow rights.*
+
+| Species of Greatest Conservation Need |
+| --- |
+| Tier 1: Flathead Chub, Plain Pocketbook, Plains Minnow, Plains Topminnow, Shoal |
+| Chub, Small White Lady's-slipper, Western Prairie Fringed Orchid, Western Silvery |
+| Minnow |
+| Tier 2: Bluntnose Minnow, Brown Bog Sedge, Common Shiner, Englemann's Flatsedge, |
+| Green-fruit Bur-reed, Inflated Sedge, Narrow-leaf Paleseed, Roundstem Agalinis, |
+| Smooth False Foxglove, Tadpole Madtom, Twisted Yellow-eyed-grass, White Water-lily, |
+| Yellow-fruit Sedge |
+| 218 |
+| Nebraska Natural Legacy Project |
+
+[/TABLE]
+
+[TABLE]
+*• Develop genetic investigations to evaluate the level of hybridization across SGCN distributions.• Collaborate with local water users to maintain minimum stream base-flows or pursue instream flow rights.*
+
+| Species of Greatest Conservation Need |
+| --- |
+| Tier 1: Blacknose Shiner, Finescale Dace, Northern Pearl Dace, Northern Redbelly Dace, |
+| Plains Topminnow, Western Prairie Fringed Orchid |
+
+[/TABLE]
+
+[TABLE]
+*• Work collaboratively with local landowners to maintain the watershed in a high-quality state. • Continue to monitor aquatic SGCN populations in the system. • Develop genetic investigations to evaluate the level of hybridization across SGCN distributions. Blacknose Shiner, Finescale Dace, Northern Pearl Dace, Northern Redbelly Dace, Plains Minnow, Plains Topminnow Tier 2: Common Shiner, Western Blacknose Dace*
+
+| Species of Greatest Conservation Need |
+| --- |
+| Tier 1: Long Pine Creek |
+
+[/TABLE]
+
+[TABLE:  Sturgeon, Pallid Sturgeon, Plains Minnow, Plains Topminnow, Shoal Chub, Small White Lady's-slipper, Sturgeon Chub, Western Prairie Fringed Orchid, Western Silvery Minnow Tier 2: Blue Sucker, Canada Lousewort, Eastern Star Sedge, Floating Primrose-willow, Hooked Buttercup, Hop Sedge, Louisiana Waterthrush, Marsh Vetchling, Narrow-leaf Paleseed, Paddlefish, Spring Bitter Cress, Streambank Ragwort Missouri River Nebraska Natural Legacy Project]
+[TABLE: • Promote water conservation through efficient irrigation techniques and responsible residential use. • Identify opportunities to collaborate among stakeholders, including landowners, municipalities, and state and federal agencies, to develop and implement comprehensive conservation strategies that balance human needs with the health of the Missouri River ecosystem. • Identify tributaries that present important spawning habitat for pallid sturgeon and other fish SGCN. • Continue to monitor aquatic SGCN populations in the system.]
+
+[TABLE]
+*Species of Greatest Conservation Need Tier 1: Flat Floater, Flathead Chub, Lake Sturgeon, Pallid Sturgeon, Plains Minnow, Plains Topminnow, Scaleshell Mussel, Shoal Chub, Sturgeon Chub, Western Prairie Fringed Orchid, Western Silvery Minnow, Yellow Sandshell Tier 2: American Eel, Blue Sucker, Bluntnose Minnow, Bulblet Bladder Fern, Burbot, Canada Lousewort, Common Shiner, Eastern Star Sedge, Frank's Sedge, Frost Grape, Giant St. John's-wort, Graybark Grape, Hooked Buttercup, Nannyberry, Paddlefish, Raven Foot Sedge, Red-eared Slider, Sharpwing Monkey-flower, Spring Avens, Tadpole Madtom, Threeridge, Western Blacknose Dace, Zigzag Goldenrod*
+
+| Pass Creek |
+| --- |
+
+[/TABLE]
+
+[TABLE: Chapter 10: Adaptive Management, Monitoring, Inventory and Research Need Tier 1: Finescale Dace, Meadow Lousewort, Northern Pearl Dace, Northern Redbelly Dace, Plains Topminnow Tier 2: Marsh Arrow-grass, Mat Muhly, Short-ray Fleabane, Silverweed, Smooth False Foxglove Nebraska Natural Legacy Project]
+[TABLE:  " Action was taken to reduce the threat of nests being destroyed by tillage, through a nest marking program developed in cooperation with the Bird Conservancy of the Rockies. The nest marking program works with willing landowners to detect and mark nests in agriculture fields and provides landowners incentives to till around the marked nests. From 2005 to 2007, the nest marking program was evaluated and was successful, with less than 3% (7/246) of marked nests failing because of tillage (20% total nest failure rate). In 2007, 65% (34/52) of unmarked artificial nests (i.e., scrapes with similar-sized eggs painted to look like mountain plover eggs) failed (no eggs survived) because of tillage. The program was also a success because landowners became knowledgeable of mountain plovers and were interested in continuing the program. The next phase is to understand if chick survival in "nest marked" crop field is high enough to sustain or increase the resident population. Initial results of this study suggest that chick survival is high in crop fields participating in the nest marking program relative to native habitats, but another survey year is needed to determine if the nest marking program should be continued.]
+[TABLE: Table Nebraska Natural Legacy Project]
+
+[TABLE]
+*Appendix 11: Changes to Tier 1, Tier 2, and Species of Greatest Information Need Lists *
+
+|  | Common Name Common Name Common Name | Scientific Name Scientific Name Scientific Name | 2018 Legacy Status 2018 Legacy 2018 Legacy Status Status | 2026 Legacy Status 2026 Legacy 2026 Legacy Status Status |
+| --- | --- | --- | --- | --- |
+| Insects Plants Plants | Married Underwing Ebony Spleenwort New Mexico Fame-flower | Catocala nuptialis Asplenium platyneuron Phemeranthus confertiflorus | Tier 1 Tier 2 None | Tier 2 None Tier 2 |
+|  | Whitney's Underwing Short's Milkvetch Sand Fame-flower | Catocala whitneyi Astragalus shortianus Phemeranthus rugospermus | Tier 1 Tier 1 None | Tier 2 Tier 2 Tier 1 |
+| Common Name Transverse Lady Beetle Powell's Saltbush Water-thread Pondweed Amphibians Small-mouthed Salamander a sweat bee Short's Rock Cress Floating-leaf Pondweed Birds Baird's Sparrow a dieunomia bee Bearded Short-husk Saskatchewan Cinquefoil Bald Eagle Large Marble Nodding Brome Dwarf Chinquapin Oak Bullock's Oriole Harris' Sparrow Hudsonian Godwit Lesser Scaup Merlin Pied-billed Grebe Pileated Woodpecker Evening Primrose Leafcutter Cut-leaf Toothwort False bog-rush Bee a leafcutter bee Bush's Sedge Northern Dewberry a leafcutter bee Copycat Sedge Georgia Bulrush Spiny-legged Leafcutter Bee Common Buttonbush Southern Wild Senna Pale Fumewort Lesser Ladies'-tresses Robust Sunflower Leafcutter Plains Frostweed Hispid Hedge-nettle Bee a leafcutter bee Big-fruit Dodder Tharp's Spiderwort Pine Siskin a leafcutter bee Big-leaf Mullein-foxglove Humped Bladderwort Prothonotary Warbler a nomia bee Dwarf Larkspur Zigzag Bladderwort Red-shouldered Hawk Simius' Roadside Skipper Wolf's Spikerush Plains Cutleaf Violet Ruby-throated hummingbird Blue Shining Mason Bee Montana Wild-rye Reptiles Common Lesser Earless Lizard Savannah Sparrow Juanita Sphinx Tufted Fleabane Dekay's Brownsnake Short-eared Owl Sprague's Pipit Swamp Sparrow Townsend's Solitaire Tufted Titmouse Violet-Green Swallow Yellow Rail Yellow-throated warbler Fish Bigmouth Buffalo Black Buffalo Blue Sucker Deertoe Fatmucket Lilliput Matted Prickly Phlox Thickspike Gayfeather Rocky Mountain Gayfeather Creeper Star Duckweed Mollusks Black Sandshell Ground Juniper Spotted Ground Squirrel Butternut Southern Bog Lemming Ashy Sunflower Elusive Clubtail Great Basin Grasshopper Early Blue-top Fleabane Gordon's Wild Buckwheat Northern Diamond-backed Water Snake Mammals Eastern Gray Squirrel Spike-fescue Great Plains Rat Snake Plains Pocket Mouse Purple-head Sneezeweed Yellow Mud Turtle |  | Scientific Name Coccinella transversoguttata Atriplex powellii var. powellii Potamogeton diversifolius Ambystoma texanum Dieunomia apacha Boechera dentata Potamogeton natans Centronyx bairdii Dieunomia triangulifera Brachyelytrum erectum Potentilla hippiana Haliaeetus leucocephalus Euchloe ausonides Bromus porteri Quercus prinoides Icterus bullockii Zonotrichia querula Limosa haemastica Aythya affinis Falco columbarius Podilymbus podiceps Dryocopus pileatus Megachile anograe Cardamine concatenata Rhynchospora capitellata Megachile dakotensis Carex bushii Rubus flagellaris Megachile deflexa Carex simulata Scirpus georgianus Megachile dentitarsus Cephalanthus occidentalis Senna marilandica Corydalis favula Spiranthes ovalis Megachile fortis Crocanthemum bicknellii Stachys tenuifolia var. hispida Megachile mucorosa Cuscusta megalocarpa Tradescantia tharpii Spinus pinus Megachile rugifrons Dasistoma macrophylla Utricularia gibba Protonotaria citrea Nomia universitatis Delphinium tricorne Utricularia subulata Buteo lineatus Notamblyscirtes simius Eleocharis wolfii Viola viarum Archilochus colubris Osmia cyaneonitens Elymus albicans Holbrookia maculata Passerculus sandwichensis Proserpinus juanita Erigeron caespitosus Storeria dekayi Asio flammeus Anthus spragueii Melospiza georgiana Myadestes townsendi Baeolophus bicolor Tachycineta thalassina Coturnicops noveboracensis Setophaga dominica Ictiobus cyprinellus Ictiobus niger Cycleptus elongatus Truncilla truncata Lampsilis siliquoidea Toxolasma parvum Leptodactylon caespitosum pycnostachya Liatris pycnostachya var. Liatris ligulistylis Strophitus undulatus Lemma trisulca Ligumia recta Juniperus communis Xerospermophilus spilosoma Junglans cinerea Synaptomys cooperi Helianthus mollis Stylurus notatus Trimerotropis sparsa Erigeron vetensis Eriogonum gordonii Neroida rhombifer rhombifer Sciurus carolinensis Festuca kingii Pantherophis emoryi Perognathus flavescens perniger Helenium flexuosum Kinosternon flavescens | 2018 Legacy Status None Tier 2 Tier 2 Tier 2 None Tier 2 None Tier 1 None Tier 2 Tier 2 Tier 2 Tier 2 Tier 2 None Tier 2 None None Tier 2 Tier 2 Tier 2 Tier 2 None Tier 2 None None Tier 2 Tier 2 None None Tier 2 None Tier 2 Tier 2 Tier 2 None None Tier 2 Tier 2 None Tier 2 None Tier 2 None Tier 2 None Tier 2 None Tier 2 None Tier 2 Tier 2 Tier 1 Tier 2 Tier 2 None Tier 2 None Tier 2 None Tier 2 Tier 2 Tier 1 Tier 1 Tier 2 Tier 2 Tier 2 Tier 2 None Tier 2 None Tier 2 Tier 1 None Tier 2 None Tier 1 Tier 2 Tier 2 None None None Tier 2 None None None Tier 2 Tier 2 None Tier 2 Tier 1 None Tier 2 Tier 2 None Tier 1 None None | 2026 Legacy Tier 2 None None Status SGIN None Tier 2 Tier 1 SGIN None None SGIN Tier 1 None Tier 2 None None SGIN Tier 2 None None None SGIN None Tier 2 None None SGIN Tier 2 None SGIN None None SGIN None Tier 2 SGIN None None SGIN None Tier 2 None SGIN None Tier 2 None SGIN None Tier 2 None Tier 1 Tier 2 None None SGIN None SGIN None SGIN None None None SGIN SGIN None SGIN SGIN Tier 2 Tier 1 Tier 2 SGIN None Tier 2 None None Tier 1 Tier 2 SGIN SGIN None None SGIN Tier 1 None SGIN None None Tier 1 None Tier 2 SGIN Tier 2 None SGIN None SGIN Tier 2 SGIN |
+|  | Northern Pearl Dace Shoal Chub Silver Chub Perennial Bursage Pimpleback Dog Parsley Pink Heelsplitter Ostrich Fern | Margariscus nachtriebi Macrhybopsis hyostoma Macrhybopsis storeriana Ambrosia tomentosa Pustulosa pustulosa Lomatium nuttallii Potamilus alatus Matteuccia struthiopteris var. pensylvanica | Tier 2 Tier 2 Tier 2 Tier 2 Tier 1 Tier 1 None Tier 2 | Tier 1 Tier 1 Tier 1 None Tier 2 Tier 2 Tier 2 None |
+|  | Skipjack Herring Pondmussel A moss | Alosa chrysochloris Sagittunio subrostratus Molendoa ogalalensis | Tier 2 Tier 2 None | None Tier 1 Tier 1 |
+|  | Smallmouth Buffalo Yellow Sandshell Ghost Pipe | Ictiobus bubalus Lampsilis teres Monotropa uniflora | None Tier 2 Tier 2 | SGIN Tier 1 None |
+| Insects Plants | a wool-carder bee Nodding Wild Onion Cut-leaf Water-milfoil | Anthidium psoraleae Allium cernuum Myriophyllum pinnatum | None Tier 2 Tier 2 | SGIN None None |
+|  | Black-and-gold Bumble Bee Perennial Bursage Prickly Naiad | Bombus auricomus Ambrosia tomentosa Najas marina | None Tier 2 Tier 2 | Tier 2 None None |
+|  | Morrison's Bumble Bee Prairie Broomweed American Lotus | Bombus morrisoni Amphiachyris dracunculoides Nelumbo lutea | None Tier 2 Tier 2 | Tier 1 None None |
+|  | Variable Cuckoo Bumble Bee Angus' Underwing Green Dragon Pale Indian-plantain Fremont's Evening Primrose Clinton's Underwing Wooly Milkweed Scorpion-weed | Bombus variabilis Catocala angusi Arisaema dracontium Arnoglassum atriplicifolium Oenothera macrocarpa ssp. fremontii Catocala clintonii Asclepias lanuginosa Phacelia hastata var. hastata | Tier 2 None Tier 2 Tier 2 None None None Tier 2 | Tier 1 None None Tier 1 Tier 2 Tier 2 Tier 1 None |
+|  |  |  |  | 397 |
+| Nebraska Natural Legacy Project Nebraska Natural Legacy Project Nebraska Natural Legacy Project |  |  |  |  |
+
+[/TABLE]
+
+Nebraska Natural Legacy Project 
+* Priority for conservation in this BULChapter 6: Mixed-grass Prairie Ecoregion
+* Priority for conservation in this BULChapter 7: Sandhills Biologically Unique Ecoregion
+* Priority for conservation in this BULChapter 9: Aquatic Conservation
+Insects 
+........................................................................................................................................ AMERICAN BURYING BEETLE ........................................................................................................................ BUCHOLZ BLACK DASH ............................................................................................................................... BYSSUS SKIPPER ......................................................................................................................................... COLORADO RITA DOTTED BLUE .................................................................................................................... ELUSIVE CLUBTAIL ...................................................................................................................................... FOX MAYFLY ............................................................................................................................................. GHOST TIGER BEETLE ................................................................................................................................. HOURGLASS DRONEFLY ............................................................................................................................... IOWA SKIPPER ........................................................................................................................................... KOHLER'S FRITILLARY .................................................................................................................................. LAKOTA MAYFLY ........................................................................................................................................ LARGE MARBLE ......................................................................................................................................... LICHEN GRASSHOPPER ................................................................................................................................ LONGNOSE MAYFLY ................................................................................................................................... MONARCH ................................................................................................................................................ MORRISON'S BUMBLE BEE .......................................................................................................................... MOTTLED DUSKYWING ............................................................................................................................... NEBRASKA FRITILLARY ................................................................................................................................. NINE-SPOTTED LADYBIRD BEETLE ................................................................................................................. OTTOE SKIPPER ......................................................................................................................................... PAWNEE STONEFLY .................................................................................................................................... PLATTE RIVER CADDISFLY ............................................................................................................................ REGAL FRITILLARY ...................................................................................................................................... SALT CREEK TIGER BEETLE ........................................................................................................................... SANDY TIGER BEETLE .................................................................................................................................. SIMIUS ROADSIDE SKIPPER .......................................................................................................................... SMOKY-EYED BROWN ................................................................................................................................. SOUTHERN PLAINS BUMBLE BEE................................................................................................................... SUCKLEY'S CUCKOO BUMBLE BEE ................................................................................................................. TAWNY CRESCENT ...................................................................................................................................... TWO-LINED STONEFLY ................................................................................................................................ TWO-SPOTTED SKIPPER ............................................................................................................................... VARIABLE CUCKOO BUMBLE BEE .................................................................................................................. WESTERN BUMBLE BEE .............................................................................................................................. WINNEBAGO MAYFLY ................................................................................................................................. Species of Greatest Information Need .....................................................................................
+.
+Nebraska Game
+ and 
+Parks Commission Nebraska Grazing Lands Coalition Nebraska Land Trust Nemaha Natural Resources District Pheasants Forever Ponca Tribe of Nebraska Rainwater Basin Joint Venture Sandhills Task Force Santee Sioux Nation
+ The 
+Nature Conservancy U.S. Fish and Wildlife Service U.S. Forest Service The Nature Conservancy U.S. Fish and Wildlife Service U.S. Forest Service Chapter 2: Plan Development Process 11 Nebraska Natural Legacy
+ Project
+........................................................................................................................................ AMERICAN BURYING BEETLE ........................................................................................................................ BUCHOLZ BLACK DASH ............................................................................................................................... BYSSUS SKIPPER ......................................................................................................................................... COLORADO RITA DOTTED BLUE .................................................................................................................... ELUSIVE CLUBTAIL ...................................................................................................................................... FOX MAYFLY ............................................................................................................................................. GHOST TIGER BEETLE ................................................................................................................................. HOURGLASS DRONEFLY ............................................................................................................................... IOWA SKIPPER ........................................................................................................................................... KOHLER'S FRITILLARY .................................................................................................................................. LAKOTA MAYFLY ........................................................................................................................................ LARGE MARBLE ......................................................................................................................................... LICHEN GRASSHOPPER ................................................................................................................................ LONGNOSE MAYFLY ................................................................................................................................... MONARCH ................................................................................................................................................ MORRISON'S BUMBLE BEE .......................................................................................................................... MOTTLED DUSKYWING ............................................................................................................................... NEBRASKA FRITILLARY ................................................................................................................................. NINE-SPOTTED LADYBIRD BEETLE ................................................................................................................. OTTOE SKIPPER ......................................................................................................................................... PAWNEE STONEFLY .................................................................................................................................... PLATTE RIVER CADDISFLY ............................................................................................................................ REGAL FRITILLARY ...................................................................................................................................... SALT CREEK TIGER BEETLE ........................................................................................................................... SANDY TIGER BEETLE .................................................................................................................................. SIMIUS ROADSIDE SKIPPER .......................................................................................................................... SMOKY-EYED BROWN ................................................................................................................................. SOUTHERN PLAINS BUMBLE BEE................................................................................................................... SUCKLEY'S CUCKOO BUMBLE BEE ................................................................................................................. TAWNY CRESCENT ...................................................................................................................................... TWO-LINED STONEFLY ................................................................................................................................ TWO-SPOTTED SKIPPER ............................................................................................................................... VARIABLE CUCKOO BUMBLE BEE .................................................................................................................. WESTERN BUMBLE BEE .............................................................................................................................. WINNEBAGO MAYFLY ................................................................................................................................. Species of Greatest Information Need .....................................................................................
+Parks Commission Nebraska Grazing Lands Coalition Nebraska Land Trust Nemaha Natural Resources District Pheasants Forever Ponca Tribe of Nebraska Rainwater Basin Joint Venture Sandhills Task Force Santee Sioux Nation
+
+## Mission Statement
+
+The mission of the Nebraska Natural Legacy Project is to implement a blueprint for conserving Nebraska's flora, fauna and natural habitats through the proactive, voluntary conservation actions of partners, communities and individuals. Nebraska Natural Legacy Project
+• Discontinue sport fish stocking in streams with native, at-risk fish species. Work with public and private landowners to limit the movement (e.g., carp barriers) and impact of carp in lakes and streams. • Work with energy companies to select sites for energy infrastructure development that minimize fragmentation and impacts to wildlife. 
+
+## Panhandle Prairies
+
+## Biologically Unique Landscape Description
+
+This landscape occupies the plains and rolling hills of the northern Panhandle from the Pine Ridge south to the North Platte River valley. It includes the rough breaks and rocky outcrops associated with the Niobrara River in central Sioux County and the North Platte River in Scotts Bluff and Morrill counties. The plains include isolated sand dunes in west-central Sioux County that support sandhills dune prairie and sandsage prairie. The BUL has only scattered cropland and the intact grasslands support swift fox, prairie dog towns, and grassland birds. Examples of Nebraska Natural Legacy Project
+• Conduct prescribed thinning of mixed age, mixed health trees on private and public land that will ensure resilient forests. • Enhance efforts to educate public and private landowners about the benefits and practices of prescribed burns and work with them to implement prescribed, lowintensity surface fires to control exotic plants, reduce Ponderosa pine and eastern redcedar densities, and reduce frequency of catastrophic fires. • Encourage and implement zoning ordinances to minimize habitat fragmentation and impacts to wildlife. Coordinate with landowners interested in using conservation programs and voluntary acquisitions to protect areas for conservation. 
+
+## Upper Niobrara River
+
+## Biologically Unique Landscape Description
+
+This landscape includes the Niobrara River channel and a two-mile-wide buffer on each side, stretching from eastern Cherry County west to the Nebraska/Wyoming border. In its western reaches, the Niobrara River is a narrow, cold-water stream flowing through an open, gently sloping valley with few trees. Here, rock outcrops are common along the valley bluffs, along with threadleaf sedge western mixed-grass prairie. Farther east, as the river gains flow, the valley becomes deeply entrenched, reaching several hundred feet deep where the river enters Nebraska Natural Legacy Project
+• Create and maintain natural grassland buffers around riparian areas to reduce sedimentation and filter chemical runoff. • Work with counties to properly size and set culverts that facilitate native fish movement in small streams and promote stream connectivity. Find ways to ensure that instream structures allow for native aquatic organism movement (e.g., fish ladders), especially when culverts get washed out. Continue to innovate low-cost fish passage structures. • Restrict stocking of sport fish in the Niobrara River.
+• Coordinate with interested landowners to restore strategic areas of cropland to grassland through conservation programs or voluntary fee title acquisition, enhancing connectivity and establishing core habitats. Restore additional grassland habitat through high-diversity, local ecotype restorations, and landowner collaboration. • Encourage and implement zoning ordinances to address development to minimize habitat fragmentation and impacts to wildlife. 
+
+## Wildcat Hills
+
+## Biologically Unique Landscape Description
+
+The Wildcat Hills is a rocky escarpment that rises several hundred feet on the south side of the North Platte River in Scotts Bluff, Banner, and Morrill counties. The escarpment is made up mainly of sandstone, siltstone, and volcanic ash. Its steep north-facing bluff and deep canyons support ponderosa pine woodlands. Threadleaf sedge mixed-grass prairie, western sand prairie, rock outcrops, and scattered patches of mountain mahogany shrubland, skunkbrush sumac shrubland, and badlands cover the rest of the escarpment.
+The Wildcat Hills are important for supporting an intact mix of pine woodlands and mixed-grass prairie, as well as the largest stands of mountain mahogany shrubland in the state. Two of Nebraska's populations of Rocky Mountain bighorn sheep also live here. Several raptor species nest on the area's rock cliffs. Examples of protected lands in the Wildcat Hills include Scotts Bluff National Monument, several Platte River Basin Environment's properties, The Nature Conservancy's Murphy Ranch, Wildcat Hills SRA and several WMAs.
+
+## Natural Legacy Demonstration Site
+
+## Wildcat Hills Complex
+
+The Wildcat Hills contain many properties that are open to the public, including Buffalo Creek, Cedar Canyon, Montz Point, Wildcat Hills, and William's Gap WMAs, Platte River Basin Environments, Inc.'s Bead Mountain, Montz Point, and Carter Canyon ranches, Scotts Bluff National Monument, and The Nature Conservancy's Murphy Ranch. The entire wildlands complex encompasses approximately 30,000 acres and features rugged topography with ravines separated by steep, eroded rocky outcrops. This complex contains all the plant communities of the BUL. Ongoing land management at these sites seek to improve wildlife habitat through a variety of techniques, including grazing, tree thinning, and invasive species control. The Wildcat Hills Nature Center provides educational opportunities for the public to learn about the area's wildlife and habitats. Many of sites offer recreational opportunities, such as hunting, wildlife viewing, and hiking. Nebraska Natural Legacy Project
+
+## Appendices Appendix 1: Membership of the Teams Involved with the Revision
+
+See Chapter 2 for descriptions of the role of each team. Nebraska Natural Legacy Project representation as of June 2025:
+Natural Legacy Partnership Team Congress identified eight required elements for a State Wildlife Action Plan, with the expectation that "species in greatest need of conservation" will be identified, while addressing the full array of wildlife and wildlife-related issues.
+The NAAT believes it must make an affirmative finding that all of the eight required elements are satisfactorily fulfilled in order for an "approval" recommendation to be made to the Director of the U.S. Fish and Wildlife Service. Strategy reviews will first occur at the regional level, by NAAT member-teams, prior to full discussion and voting by the entire NAAT.
+Below follows a template the NAAT uses as it reviews the Strategies. There are eight major topic headings, which correspond to the eight elements prescribed by Congress. Under each element heading is a series of statements to help NAAT members think about whether or not the requirements of a particular element have been satisfactorily addressed. These statements, in effect, are examples of what the NAAT expects may be helpful in evaluating the merits of a Strategy. Strategy authors may want to offer additional reasons or factors as to why they believe they satisfactorily meet the requirements of a particular element, above or beyond the examples provided.
+The NAAT expects that Strategies will describe or identify sources of information, as well as critical information gaps, and plans for acquiring critical information for species in greatest need of conservation. The NAAT will consult the "Guiding Principles," developed by the International Association of Fish and Wildlife Agencies, when reviewing the Strategies. While this guide includes language regarding expectations that sections of the Strategies will provide sufficient information, the NAAT has not described or quantified the level of information expected, as each State or Territory will have different levels and sources of information available. The NAAT generally expects that Strategies will provide clear explanations of how information was used to reach conclusions. Strategies should explicitly draw logical connections between the problems that affect priority species and habitats, the conservation actions proposed to address those problems, and the indicators and monitoring approaches that will be used to measure the success of the conservation strategy.
+It is anticipated that the Strategy will include an executive summary, synopsis or appendix that highlights where in the document reviewers can find information about each of the elements.
+263 Nebraska Natural Legacy Project 1 st Element. Information on the distribution and abundance of species of wildlife, including low and declining populations as the State fish and wildlife agency deems appropriate, that are indicative of the diversity and health of the State's wildlife.
+A. The Strategy indicates sources of information (e.g., literature, databases, agencies, individuals) on wildlife abundance and distribution consulted during the planning process.
+B. The Strategy includes information about both abundance and distribution for species in all major groups to the extent that data are available. There are plans for acquiring information about species for which adequate abundance and/or distribution information is unavailable.
+C. The Strategy identifies low and declining populations to the extent data are available.
+D. All major groups of wildlife have been considered or an explanation is provided as to why they were not (e.g., including reference to implemented marine fisheries management plans). A. The Strategy provides a reasonable explanation for the level of detail provided; if insufficient, the Strategy identifies the types of future actions that will be taken to obtain the information.
+B. Key habitats and their relative conditions are described in enough detail such that the State can determine where (i.e., in which regions, watersheds, or landscapes within the State) and what conservation actions need to take place.
+3 rd Element. Descriptions of problems which may adversely affect species identified in the 1 st element or their habitats, and priority research and survey efforts needed to identify factors which may assist in restoration and improved conservation of these species and habitats.
+A. The Strategy indicates sources of information (e.g., literature, databases, agencies or individuals) used to determine the problems or threats.
+B. The threats/problems are described in sufficient detail to develop focused conservation actions (for example, "increased highway mortalities" or "acid mine drainage" rather than generic descriptions such as "development" or "poor water quality").
+264 Nebraska Natural Legacy Project C. The Strategy considers threats/problems, regardless of their origins (local, state, regional, national and international), where relevant to the State's species and habitats.
+D. If available information is insufficient to describe threats/problems, research and survey efforts are identified to obtain needed information.
+E. The priority research and survey needs, and resulting products, are described sufficiently to allow for the development of research and projects after the strategy is approved.
+4 th Element. Descriptions of conservation actions determined to be necessary to conserve the identified species and habitats and priorities for implementing such actions.
+A. The Strategy identifies how conservation actions address identified threats to species of greatest conservation need and their habitats.
+B. The Strategy describes conservation actions sufficiently to guide implementation of those actions through the development and execution of specific projects and programs.
+C. The Strategy links conservation actions to objectives and indicators that will facilitate monitoring and performance measurement of those conservation actions (outlined in Element #5).
+D. The Strategy describes conservation actions (where relevant to the State's species and habitats) that could be addressed by Federal agencies or regional, national or international partners and shared with other States.
+E. If available information is insufficient to describe needed conservation actions, the strategy identifies research or survey needs for obtaining information to develop specific conservation actions.
+F. The Strategy identifies the relative priority of conservation actions.
+5 th Element. Descriptions of the proposed plans for monitoring species identified in the 1 st element and their habitats, for monitoring the effectiveness of the conservation actions proposed in the 4 th element, and for adapting these conservation actions to respond appropriately to new information or changing conditions.
+A. The Strategy describes plans for monitoring species identified in Element #1, and their habitats.
+B. The Strategy describes how the outcomes of the conservation actions will be monitored.
+C. If monitoring is not identified for a species or species group, the Strategy explains why it is not appropriate, necessary or possible.
+265 Nebraska Natural Legacy Project D. Monitoring is to be accomplished at one of several levels including individual species, guilds, or natural communities.
+E. The monitoring utilizes or builds on existing monitoring and survey systems or explains how information will be obtained to determine the effectiveness of conservation actions.
+F. The monitoring considers the appropriate geographic scale to evaluate the status of species or species groups and the effectiveness of conservation actions.
+G. The Strategy is adaptive in that it allows for evaluation of conservation actions and implementing new actions accordingly.
+6 th Element. Descriptions of procedures to review the Strategy/Plan at intervals not to exceed ten years.
+A. The State describes the process that will be used to review the Strategy every ten years or less. G-Rank refers to numeric ranks (G1 through G5) of the conservation status or relative endangerment globally of species or ecological communities. Primary factors used in determining rank for species are population size, number of occurrences, viability of occurrences, population trend, and threats. Secondary factors are geographic distribution, environmental specificity, protection and management, and intrinsic vulnerability.
+
+## G1
+
+Critically imperiled-at very high risk of extinction due to very restricted range, very few populations or occurrences, very steep declines, very severe threats, or other factors.
+
+## G2
+
+Imperiled-at high risk of extinction or collapse due to restricted range, few populations or occurrences, steep declines, severe threats, or other factors.
+
+## G3
+
+Vulnerable-at moderate risk of extinction or collapse due to a fairly restricted range, relatively few populations or occurrences, recent and widespread declines, threats, or other factors.
+
+## G4
+
+Apparently secure-At fairly low risk of extintction or elimination due to an extensive range and/or many populations or occurrences, but with possible cause for some concern as a result of local recent declines, threats, or other factors.
+
+## G5
+
+Secure-At very low risk of extinction or elimination due to a very extensive range, abundance populations or occurrences, and little to no concern from declines or threats.
+G#G# Range Rank-a numeric range rank (e.g., G2G3, G1G3) is used to indicate uncertainty about the exact status of a taxon or ecosustem type. Ranges cannot skip more than two ranks (e.g. GU should be used rather than G1G4).
+
+## GU
+
+Unrankable-currently unrankable due to lack of information or due to substantially conflicting information about status or trends. Note: whenever possible (when the range of uncertainty is three consecutive ranks or less), a range rank (e.g., G2G3) should be used to delineate the limits (range) of uncertainty.
+
+## GH
+
+Possibly Extinct (species) or Possibly Eliminated (ecosystems)-known from only historical occurrences but still some hope of rediscovery. Examples of evidence include (1) that a species has not been documented in approximately 20-40 years despite some searching and/or some evidence of significant habitat loss or degradation;
+(2) that a species or ecosystem has been searched for unsuccessfully 268 Nebraska Natural Legacy Project
+
+## S1
+
+Critically imperiled-at very high risk of extirpation in the jurisdiction due to very restricted range, very few populations or ocurrences, very steep declines, severe threats, or other factors.
+
+## S2
+
+Imperiled-at high risk of extirpation in the jurisdiction due to restricted range, few populations or occurrences, steep declines, severe threats, or other factors.
+
+## S3
+
+Vulnerable-at moderate risk of extirpation in the jurisdiction due to a fairly restricted range, relatively few populations or occurrences, recent and widespread declines, threats, or other factors.
+
+## S4
+
+Apparently Secure-at a fairly low risk of extirpation in the jurisdiction due to an extensive range and/or many populations or occurrences, but with possible cause for some concern as a result of local recent declines, threats, or other factors.
+
+## S5
+
+Secure-at a very low or no risk of extirpation in the jurisdiction due to a very extensive range, abundance populations or occurrences, with little to no concern from declines or threats.
+
+## S#S#
+
+Range Rank-a numeric range rank (e.g., S2S3 or S1S3) is used to indicate any range of unvertainty abou the status of the species or ecosystem. Ranges cannot skip more than two ranks (e.g., SU is used rather than S1S4).
+
+## SH
+
+Possibly Extirpated-Known from ony historical records but still some hope of rediscovery. There is evidence that the species or ecosystem may no longer be present in the jurisdiction, but not enough to state this with certainty. Examples of such evidence include (1) that a species has not been documented in approximately 20-40 years despite some searching and/or some evidence of significant habitat loss or degradation;
+(2) that a species or ecosystem has been searched for unsuccessfullym but not thoroughly enough to presume that it is no longer present in the jurisdiction.
+
+## SX
+
+Presumed Extirpated-Species or ecosystem is believed to be extirpated from the jurisdiction. Not located despite intensive searches of historical sites and other appropriate habitat, and virtually no likelihood that it will be rediscovered. The instructions below were distributed to the species experts and discussions during the expert workgroup meetings were mainly focused on these and the ranking factor questions:
+
+## SNR
+
+## Instructions
+
+• Ranking factors should be evaluated with regard to the species' populations within Nebraska.
+• Use your best judgment to evaluate the species for the factors below.
+• If the uncertainty for a factor is greater than provided in individual scores, you can use a range of scores. For example, if you think the Nebraska population size is between 1,000 and 10,000 individuals, insert "DE" for the score. • If there is not sufficient information to develop an estimate for a factor, use the "U" score (Unknown). • Please provide comments about your confidence in the scoring of individual factors, if you think it would be helpful. • Insert letter codes and comments in the Conservation Status Ranking Scoresheet.
+• We will not be using the Number of Occurrences ranking factor unless a value was entered in a previous edition and can be confidently altered by the experts. • For the calculator to produce a rank the experts must be able to assign values for at least two rarity category factors, or one rarity factor and one threats or trends factor. In the case where these cannot be confidently assigned, we will discuss probable imperilment and possible addition of the species to the Species of Greatest Information Need (SGIN) list.
+
+## Ranking Factors
+
+Abundance
+
+## Range Extent:
+
+The area contained within the shortest continuous imaginary boundary that can be drawn to encompass all the known, inferred, or projected sites of present occurrence of the species within Nebraska, excluding cases of vagrancy.
+A = <100 km2 (less than about 40 square miles) B = 100-250 km2 (about 40-100 square miles) C = 250-1,000 km2 (100-400 square miles) D = 1,000-5,000 km2 (400-2,000 square miles) E = 5,000-20,000 km2 (2,000-8,000 square miles) F = 20,000-200,000 km2 (8,000-80,000 square miles) U = Unknown Null = Factor not assessed 271 Nebraska Natural Legacy Project Note: 2,000 square miles is roughly the size of Sioux County. 8,000 square miles is roughly the size of Cherry and Sheridan Counties combined. The entire state is roughly 77,000 square miles.
+
+## Population Size
+
+Z = Zero, species presumed to be extirpated from NE A = 1-50 individuals B = 50-250 individuals C = 250-1,000 individuals D = 1,000-2,500 individuals E = 2,500-10,000 individuals F = 10,000-100,000 individuals G = 100,000-1,000,000 individuals H = >1,000,000 individuals U = Unknown Null = Factor not assessed
+
+## Number of Occurrences
+
+Occurrence: The geographic location within which a species is known to occur and reproduce, separated from other occurrences by less suitable or unoccupied habitat.
+Examples include populations, sub-populations, stands, colonies, etc. 
+
+## Trends
+
+The observed, estimated, inferred, or suspected degree of change in population size, range extent, number of occurrences, and/or number of occurrences with good viability -whichever most significantly affects the trend value in the state. 
+
+## Long-term
+
+## Threats
+
+The threat score is a combination of scope of the threat and the threat severity, within Nebraska.
+• For each Specific Threat (non-bold type on scoresheet), that you think negatively impacts the species, estimate the scope and severity using the guidelines on page 4. When evaluating the severity of a threat, only consider that portion of the population that is being affected by the threat (i.e. within the scope of the threat). • Determine the threat impact using the Threat Impact Calculation 
+
+## Multiple Threats Scoring
+
+• If there are scores recorded for multiple Specific Threats within a given Threat Category, evaluate their degree of overlap. • If the Specific Threats overlap, identify which of them has the highest impact and assign the scope, severity, and impact values of this Specific Threat to the Threat Category in which it is included. • If the Specific Threats are substantially non-overlapping, then a Threat Category score that is higher than any of the Specific Threat scores may be justified. Use your best professional judgment to assign scope, severity, impact values to that Threat Category. *It is a judgement call whether specific threats within a threat category combine to have an overall impact that is higher than any of the specific threat impacts. 275 Nebraska Natural Legacy Project Appendix 5: Tier 1 At-risk Species Tier 1 species are those that are globally or nationally most at-risk of extinction and which occur in Nebraska. This list is used to help prioritize conservation planning and actions and does not have legal or regulatory ramifications. Conservation of these species is needed to prevent future state/federal listings and to help listed species recover.
+The Tier 1 at-risk species lists will be periodically reviewed and revised by taxon experts. This revision will occur on an on-going basis as new information on abundance, distribution, and population trends becomes available, with an overall review at least every five years. The Tier 1 list was reviewed and revised with input from taxon experts in workshops held in 2025.
+Species were selected for the Tier 1 when they met one or more of the following criteria:
+State and Federally Listed Species: Species listed as threatened or endangered under the federal Endangered Species Act or the Nebraska Non-game and Endangered Species Conservation Act. Recovery and de-listing of these species are goals of the plan.
+Heritage Ranked Species: Species either 1) ranked by NatureServe and the Natural Heritage Network as globally critically imperiled (G1), imperiled (G2), or vulnerable (G3) or 2) species ranked as either state critically imperiled (S1), imperiled (S2), or vulnerable (S3) in all or nearly all states in their range.
+Declining species: Species whose abundance and/or distribution has been declining across much of their entire range. For land birds, the Partners in Flight national watch list was used as a guide.
+Endemic Species (or nearly so): Species whose entire range of distribution occurs within or primarily within Nebraska. Conservation actions in Nebraska would be critical to the conservation of the species.
+Disjunct Species: Species whose populations in Nebraska are widely disjunct (200 miles +) from the species' main range of distribution. Species must be ranked as critically imperiled (S1) or imperiled (S2) within Nebraska. Such populations may contain genetic variations that could be important to the long-term survival of the species.
+Following the list of Tier 1 species is information on each one. Fields that are not selfexplanatory are described below.
+G-Rank, S-Rank: Explanation of ranks is found in Appendix 4.
+
+## Goal:
+
+The minimum number of populations to be conserved in Nebraska (see Chapter 3).
+
+## Nebraska Natural Legacy Project
+
+Distribution: The species distribution in Nebraska relative to its entire range. This was a factor used in setting the goal for each species (see Chapter 3).
+
+## Endemic:
+
+species occurs only within NE or generally have more than 90% of their range within the state.
+
+## Limited:
+
+species occurs primarily within one region (e.g., Great Plains) Widespread: species is common in a number of regions and widespread in NE. Peripheral: species is found mainly in other regions; generally, less than 10% of the range is within NE.
+
+## Estimated population in NE:
+
+Experts in the various taxa were queried as to their estimates of the current population sizes for tier species. A few of the estimates are from statisticallybased survey work and are published, while the majority are based on the opinion of experts with years of experience conducting field surveys for these species. The range of the estimate for a given species is an indication of the confidence in the estimate. For estimates based on publications, the publications are cited here and listed in the references section. Caution should be used when considering these estimates because most of them are not based on comprehensive and statistically based survey work. They are provided here to give an "order of magnitude" sense of the abundances among species, as understood by species experts. Additional survey work is needed for most Tier 1 species to better understand their distribution and abundance in Nebraska.
+
+## Trends since 2005 in NE:
+
+Based on data when available (primarily for birds) and on the consensus opinion of those attending the taxon experts workshops in 2025.
+Landscapes: These are the Biologically Unique Landscapes for which there were known occurrences of populations (or migratory stopover sites) for the species.
+Additional Priority Watersheds: For aquatic species Priority Watersheds that have occurrences outside of the BUL system are listed here Nebraska Natural Legacy Project 
+
+## Yellow Rail (Coturnicops noveboracensis)
+
+• Determine migration status and phenology
+• Determine stopover duration and abundance 
+
+## Landscapes None
+
+## Species of Greatest Information Need
+
+Juanita Sphinx (Proserpinus juanita)
+For the following species in addition to an expert who can identify them to the species level we also need to clarify their range extent, host plants, and population size in Nebraska:
+• Anthidium psoraleae 
+S3
+) (see appendix 4 for explanation of ranks). In some instances, the full process of answering each ranking factor question was not completed and taxon experts adjusted ranks based on their expertise and research. Because of the large number of at-risk plant species, only those species listed as S1 or S2 are included in the following list. The Tier 2 list is used to help prioritize conservation planning/actions and does not have legal or regulatory ramifications. Tier 2 species are typically those that are not at-risk from a global or national perspective but are rare or imperiled within Nebraska. Conservation of these species is needed to ensure they remain a part of Nebraska's flora and fauna.
+During the development of the Nebraska Natural Legacy Project, the Subnational Ranks or "S-Ranks" were reviewed and revised for amphibians, birds, mammals, fish, reptiles, mollusks, plants and a limited number of insects.
+The Tier 2 at-risk species lists will be periodically reviewed and revised by taxon experts. This revision will occur on an on-going basis as new information on the abundance, distribution, and population trends becomes available. The Tier 2 list was reviewed and revised with input from taxon experts in workshops held in 2025. 
+
+## Appendix 7: Terrestrial Natural Communities of Nebraska
+
+The following is the list of terrestrial natural communities for Nebraska used in developing the Nebraska Natural Legacy project. The 83 terrestrial community types include wetland and upland types (any habitat with rooted vegetation) and are part of the National Vegetation Classification (NVC) system 
+(Grossman et al. 1998
+) which is the standard classification used by federal agencies (see NatureServe.org for information on the NVC). Full descriptions of each community type are found in 
+Rolfsmeier and Steinauer (2010)
+. The sections on Biologically Unique Landscapes within the ecoregion chapters list the community types known from each landscape. Unfortunately, there is currently no statewide classification system for open water habitats (lakes, rivers, streams), though there is an urgent need for such a system.
+
+## Fields in the descriptions below include:
+
+G-Rank, S-Rank: Explanation of these ranks is found in Appendix 4.
+
+## Goal:
+
+The minimum number of occurrences or examples to be conserved in Nebraska.
+
+## Distribution:
+
+The distribution of the community type in Nebraska relative to its entire range. This was a factor used in setting the goal for each type (see Chapter 3).
+
+## Endemic:
+
+community types that are found only in Nebraska or generally have more than 90% of their range within the state. Limited: community types that occur primarily within one region (e.g., Great Plains). Widespread: community types that are common in a number of regions and widespread in Nebraska. Peripheral: community types that are found mainly in other regions, generally less than 10% of their range in Nebraska.
+Patch Size: Refers to the amount of area a typical example of a community type would have covered prior to Euro-american settlement. This factor was also used in setting the goal for each type (see Chapter 3). Below is a very basic classification of aquatic systems that was used to attribute the Biologically Unique Landscapes. There is an urgent need to develop a more rigorous aquatic habitat classification system for Nebraska.
+
+## LAKES
+
+## Alkaline
+
+Non-alkaline
+
+## RIVERS and STREAMS
+
+Headwater, cold water stream Headwater, warm water stream Mid-order, cold water river Mid-order, warm water river Large, warm water river 382 Nebraska Natural Legacy Project
+
+## Appendix 8: Map of the Ecoregions of Nebraska
+
+Ecoregions are relatively large units of land and water delineated by the biotic and abiotic factors (e.g., climate, topography, geology, vegetation) that regulate the structure and function of the ecosystems within them. There are two main ecoregion maps for the United States, one developed by the U.S. Forest Service 
+(Bailey et al. 1994
+) and the other developed by the U.S. Environmental Protection Agency 
+(Omernik et al. 1987)
+. For the Nebraska Natural Legacy Project, we delineated ecoregions using primarily Level III ecoregion lines from Ecoregions of Nebraska and Kansas 
+(Chapman et al. 2001)
+, which was a joint project of the USFS and EPA to blend the two systems. However, we used Bailey's Section level line to delineate the western boundary of tall-grass prairie south of the Sandhills since this was a better fit with 
+Kaul and Rolfsmeier's (1993)
+ map of the native vegetation of Nebraska.
+In this third edition of the wildlife action plan the Sandhills ecoregion has been granted an elevated priority designation of Biologically Unique Ecoregion (see Chapter 3). Biologically Unique Landscapes (BULs) were identified in order to increase the efficiency and effectiveness of conservation by focusing efforts in areas with concentrations of at-risk species and high quality natural communities, in a relatively intact landscape. These landscapes offer the best opportunities for conserving the full array of biological diversity in the state. These landscapes were delineated using the best available data at that time. It was recognized that BUL boundaries could be changed or new BULs added as new information became available on the distribution of at-risk species and high quality examples of natural communities.
+BULs were designed with the goal of including sites where there is the highest likelihood that the populations and communities will persist over the long term. For individual species, this would include sites with a large population size, good age-class structure and evidence of successful reproduction. For natural communities, this would include sites with a good representation of expected native species, few invasive exotics, and relatively intact ecological processes that maintain these communities (e.g., fire, grazing, flooding). BULs contain high quality examples of at-risk species populations and ecological communities that are nested together and exist within functional landscapes.
+
+## Major Additions or Deletions to the BUL System
+
+Adding new BULs or changing the size of existing BULs by more than 10%
+Analysis of the distribution and abundance of species and communities within BULs indicates that the original system of BULs does not provide ample opportunity to meet the Natural Legacy conservation goals for all at-risk species and natural communities. Also, in future revisions of the Nebraska Natural Legacy Project, new species and communities will likely be added to the at-risk species and natural communities' lists and their distributions may lie outside of existing BULs. In addition, portions of, or entire, BULs may become degraded to the point that they can no longer support the objectives for which they were designated. Thus, changes in the system will be needed.
+Additions to the system should complement the existing system and not merely repeat what is already there. They should provide opportunities to meet conservation goals for species and communities that can't be met in the existing system. Proposed additions should strive to include the most intact landscape available and contain multiple occurrences of at-risk species and/or natural communities.
+The following criteria were developed by the Natural Legacy Science Team to guide adjustments to the system. 385 Nebraska Natural Legacy Project Criteria for additions to the BUL system (expanding existing or adding new BULs): Addition must contain documented, high-quality occurrences of at-risk species and/or natural communities and provide opportunities to meet species and/or community goals that can't be met in the existing system of BULs.
+Criteria for deletions from the BUL system (removing portions of, or entire, BULs): The area to be removed is degraded to the point that it does not contain high-quality occurrences of at-risk species and/or natural communities and does not provide opportunities to meet species and/or community goals.
+
+## Minor Boundary Adjustments
+
+The original BUL boundaries were drawn using the best available information, typically using land-cover maps and including areas that appeared to be relatively intact natural habitats around core areas of documented species and community targets. Given the somewhat coarse scale at which the boundaries were drawn, they no doubt included some areas that are of low conservation value and excluded some adjacent areas that are of high conservation value. To increase the effectiveness of the boundaries, minor adjustments can be made to BUL boundaries. Proposals for minor boundary adjustments are encouraged to include recommendations for deletions, when appropriate, as well as additions. Again, proposed additions to a BUL should strive to include the most intact landscape available and contain multiple occurrences of at-risk species and/or natural communities. Proposals for minor boundary adjustments should meet the following criteria.
+
+## Criteria for minor boundary adjustments
+
+Addition to a BUL must contain documented, high-quality occurrences of at-risk species and/or natural communities.
+Area to be removed is degraded to the point that it does not contain high-quality occurrences of at-risk species and/or natural communities and does not provide opportunities to meet species and/or community goals.
+The boundary change is minor -moving the boundary a few miles or resulting in no more than 10% increase or decrease in the size of the BUL. 
+
+## Acris blanchardi
+
+Boreal Chorus Frog
+
+## Pseudacris maculata
+
+## Bullfrog
+
+## Lithobates catesbeianus
+
+Great Plains Toad
+
+## Anaxyrus cognatus
+
+Plains Leopard Frog
+
+## Lithobates blairi
+
+Plains Spadefoot
+
+## Spea bombifrons
+
+Western Tiger Salamander
+
+## Ambystoma mavortium
+
+Woodhouse's Toad
+
+## Anaxyrus woodhousii
+
+## Birds
+
+American White Pelican
+
+## Pelecanus erythrorhynchos
+
+Baird's Sandpiper
+
+## Calidris bairdii
+
+Bald Eagle
+
+## Haliaeetus leucocephalus
+
+Blue-winged Teal
+
+## Anas discors
+
+## Bobolink
+
+## Dolichonyx oryzivorus
+
+Canada Goose
+
+## Branta canadensis
+
+## Dickcissel
+
+## Spiza americana
+
+European Starling
+
+## Sturnus vulgaris
+
+Field Sparrow
+
+## Spizella pusilla
+
+Franklin's Gull
+
+## Larus pipixcan
+
+Grasshopper Sparrow
+
+## Ammodramus savannarum
+
+Greater White-fronted Goose
+
+## Anser albifrons
+
+Green Heron
+
+## Butorides virescens
+
+Horned Lark
+
+## Eremophila alpestris
+
+Lark Bunting
+
+## Calamospiza melanocorys
+
+Lark Sparrow
+
+## Chondestes grammacus
+
+Lesser Yellowlegs
+
+## Tringa flavipes
+
+## Mallard
+
+## Anas platyrhynchos
+
+Mountain Bluebird
+
+## Sialia currucoides
+
+Northern Bobwhite
+
+## Colinus virginianus
+
+Northern Harrier
+
+## Circus hudsonius
+
+Orchard Oriole
+
+## Icterus spurius
+
+Pine Siskin
+
+## Spinus pinus
+
+Red Crossbill
+
+## Loxia curvirostra
+
+Red-eyed Vireo
+
+## Vireo olivaceus
+
+Ring-necked Pheasant
+
+## Phasianus colchicus
+
+Rose-breasted Grosbeak
+
+## Pheucticus ludovicianus
+
+Ross's Goose
+
+## Chen rossii
+
+Sharp-tailed Grouse 
+
+## Chen caerulescens
+
+Stilt Sandpiper
+
+## Calidris himantopus
+
+Swainson's Hawk
+
+## Buteo swainsoni
+
+Upland Sandpiper
+
+## Bartramia longicauda
+
+Vesper Sparrow
+
+## Pooecetes gramineus
+
+Western Meadowlark
+
+## Sturnella neglecta
+
+Wild Turkey
+
+## Meleagris gallopavo
+
+Wilson's Phalarope
+
+## Phalaropus tricolor
+
+Wood Duck
+
+## Aix sponsa
+
+## Fish
+
+Bighead Carp
+
+## Hypophthalmichthys nobilis
+
+## Bluegill
+
+## Lepomis macrochirus
+
+Brook Stickleback
+
+## Culaea inconstans
+
+Brown Trout
+
+## Salmo trutta
+
+Channel Catfish
+
+## Ictalurus punctatus
+
+Common Carp
+
+## Cyprinus carpio
+
+Cutthroat trout
+
+## Oncorhynchus clarkii
+
+Flathead catfish
+
+## Pylodictis olivaris
+
+Grass Carp
+
+## Ctenopharyngodon idella
+
+Hybrid Striped Bass
+
+## Morone chrysops × M. saxatilis
+
+Iowa Darter
+
+## Etheostoma exile
+
+Johnny Darter
+
+## Etheostoma nigrum
+
+Largemouth Bass
+
+## Micropterus salmoides
+
+Northern Pike
+
+## Esox lucius
+
+## Paddlefish
+
+## Polyodon spathula
+
+Rainbow Trout
+
+## Oncorhynchus mykiss
+
+River Carpsucker
+
+## Carpiodes carpio
+
+## Sauger
+
+## Sander canadensis
+
+Shortnose Gar
+
+## Lepisosteus platostomus
+
+Shovelnose Sturgeon
+
+## Scaphirhynchus platorynchus
+
+Silver Carp
+
+## Hypophthalmichthys molitrix
+
+Smallmouth Bass
+
+## Micropterus dolomieu
+
+Speckled Chub
+
+## Macrhybopsis aestivalis
+
+Striped Bass
+
+## Morone saxatilis
+
+Suckermouth Minnow
+
+## Phenacobius mirabilis
+
+## Walleye
+
+## Sander vitreus
+
+Western Mosquitofish
+
+## Gambusia affinis
+
+White Bass
+
+## Morone chrysops
+
+Yellow Perch
+
+## Perca flavescens
+
+## Insects
+
+Dung Beetle
+
+## Melanocanthon nigricornis
+
+388 Nebraska Natural Legacy Project
+
+## Common Name
+
+Scientific Name
+
+## Mammals
+
+American Badger
+
+## Taxidea taxus
+
+American Beaver
+
+## Castor canadensis
+
+American Bison
+
+## Bison bison
+
+American Black Bear
+
+## Ursus americanus
+
+American Mink
+
+## Neogale vison
+
+Big Brown Bat
+
+## Eptesicus fuscus
+
+Black-footed Ferret
+
+## Mustela nigripes
+
+## Bobcat
+
+## Lynx rufus
+
+Common Muskrat
+
+## Ondatra zibethicus
+
+## Coyote
+
+## Canis latrans
+
+## Domestic Cat
+
+## Felis catus
+
+Eastern Cottontail
+
+## Sylvilagus floridanus
+
+Eastern woodrat
+
+## Neotoma floridana
+
+## Elk
+
+## Cervus canadensis
+
+Franklin's Ground Squirrel
+
+## Poliocitellus franklinii
+
+Gray Fox
+
+## Urocyon cinereoargenteus
+
+Gray Wolf
+
+## Canis lupus
+
+Grizzly Bear
+
+## Ursus arctos horribilis
+
+Least Weasel
+
+## Mustela nivalis
+
+Masked Shrew
+
+## Sorex cinereus
+
+Meadow Jumping Mouse
+
+## Zapus hudsonius
+
+Meadow Vole
+
+## Microtus pennsylvanicus
+
+Mule Deer
+
+## Odocoileus hemionus
+
+North American Least Shrew
+
+## Cryptotis parva
+
+North American River Otter
+
+## Lontra canadensis
+
+Northern Grasshopper Mouse
+
+## Onychomys leucogaster
+
+Ord's Kangaroo Rat
+
+## Dipodomys ordii
+
+Plains Pocket Gopher
+
+## Geomys bursarius
+
+Prairie Vole
+
+## Microtus ochrogaster
+
+## Pronghorn
+
+## Antilocapra americana
+
+## Raccoon
+
+## Procyon lotor
+
+Red Fox
+
+## Vulpes vulpes
+
+Striped Skunk
+
+## Mephitis mephitis
+
+Thirteen-lined Ground Squirrel
+
+## Ictidomys tridecemlineatus
+
+White-tailed Deer
+
+## Odocoileus virginianus
+
+## Mussels
+
+Zebra Mussel
+
+## Dreissena polymorpha
+
+## Reptiles
+
+## Bullsnake
+
+## Pituophis catenifer
+
+Common Gartersnake
+
+## Thamnophis sirtalis
+
+Common Snapping Turtle 
+
+## Chelydra serpentina
+
+## Plestiodon obsoletus
+
+Lesser Earless Lizard
+
+## Holbrookia maculata
+
+Northern Painted Turtle
+
+## Chrysemys picta
+
+Northern Prairie Lizard
+
+## Sceloporus undulatus garmani
+
+Northern Prairie Skink
+
+## Plestiodon septentrionalis
+
+Northern Watersnake
+
+## Nerodia sipedon
+
+Ornate Box Turtle
+
+## Terrapene ornata
+
+Plains Gartersnake
+
+## Thamnophis radix
+
+Prairie Rattlesnake
+
+## Crotalus viridis
+
+Six-lined Racerunner
+
+## Aspidoscelis sexlineata
+
+Spiny Softshell
+
+## Apalone spiinifera
+
+Western Fox Snake
+
+## Pantherophis ramspotti
+
+Western Hognose Snake
+
+## Heterodon nasicus
+
+Yellow Mud Turtle
+
+## Kinosternon flavescens
+
+## Plants
+
+Alfalfa
+
+## Medicago sativa ssp. sativa
+
+Alkali Sacaton
+
+## Sporobolus airoides
+
+American Elm
+
+## Ulmus americana
+
+American Lotus
+
+## Nelumbo lutea
+
+American Plum
+
+## Prunus americana
+
+Amur honeysuckle
+
+## Lonicera maackii
+
+Annual Buckwheat
+
+## Eriogonum annuum
+
+Autumn Olive
+
+## Elaeagnus umbellata
+
+Arrowhead Sagittaria spp.
+
+## Aspen
+
+Populus spp.
+
+## Basswood
+
+## Tilia americana
+
+Bearded Flatsedge
+
+## Cyperus squarrosus
+
+Bearded Sprangletop
+
+## Diplachne fusca
+
+Bedstraw Galium spp.
+
+## Big Bluestem
+
+## Andropogon gerardii
+
+Black Walnut
+
+## Juglans nigra
+
+## Bluegrass
+
+Poa spp.
+
+## Blue Grama
+
+## Bouteloua gracilis
+
+Blue Mudplantain
+
+## Heteranthera limosa
+
+Bog Buckbean
+
+## Menyanthes trifoliate
+
+Box-elder
+
+## Acer negundo
+
+Broad-leaf Cattail
+
+## Typha latifolia
+
+Broom Snakeweed
+
+## Gutierrezia sarothrae
+
+## Buffaloberry
+
+## Shepherdia canadensis
+
+## Buffalograss
+
+## Bouteloua dactyloides
+
+Buckbrush Symphoricarpos orbiculatus 390 Nebraska Natural Legacy Project
+
+## Common Name
+
+Scientific Name Plants (cont.)
+Bur Oak
+
+## Quercus macrocarpa
+
+Bur-reed Sparganium spp.
+
+## Bush Morning Glory
+
+## Ipomoea leptophylla
+
+## Bushy knotweed
+
+Polygonum ramosissimum ssp.
+
+## Canada Thistle
+
+## Cirsium arvense
+
+Canada Wild-rye
+
+## Elymus canadensis
+
+Caucasian bluestem
+
+## Bothriochloa bladhii
+
+## Cheatgrass
+
+## Bromus tectorum
+
+## Chokecherry
+
+## Prunus virginiana
+
+Clustered Field Sedge
+
+## Carex praegracilis
+
+Common Reed
+
+## Phragmites australis ssp. americanus
+
+## Coontail
+
+## Ceratophyllum demersum
+
+## Cottonwood
+
+Populus spp.
+
+## Coyote Willow
+
+## Salix exigua
+
+Crested Wheatgrass
+
+## Agropyron cristatum
+
+Crown Vetch
+
+## Securigera varia
+
+Cuman ragweed
+
+## Ambrosia psilostachya
+
+Curly-leaf pondweed
+
+## Potamogeton crispus
+
+Cutleaf Ironplant
+
+## Xanthisma spinulosum
+
+## Deervetch
+
+## Lotus unifoliolatus
+
+Desert Goosefoot
+
+## Chenopodium pratericola
+
+Disk Waterhyssop
+
+## Bacopa rotundifolia
+
+## Dogwood
+
+Cornus spp.
+
+## Dotted Gayfeather
+
+## Liatris punctata
+
+## Downy Brome
+
+## Bromus tectorum
+
+## Duckweed
+
+Lemna spp.
+
+## Dwarf Juniper
+
+## Juniperus communis var. depressa
+
+Dwarf Spikerush
+
+## Eleocharis parvula
+
+Eastern Bulrush
+
+## Schoenoplectus acutus
+
+Eastern Cottonwood
+
+## Populus deltoides
+
+Eastern Red-cedar
+
+## Juniperus virginiana
+
+Eared Redstem
+
+## Ammannia auriculata
+
+Elm (American)
+
+## Ulmus americana
+
+Emory's Sedge
+
+## Carex emoryi
+
+Entire-leaf Thelypody
+
+## Thelypodium integrifolium
+
+Eurasian Phragmites
+
+## Phragmites australis ssp. australis
+
+Eurasian Watermilfoil
+
+## Myriophyllum spicatum
+
+False Indigo-bush
+
+## Amorpha fruticosa
+
+Field Horsetail
+
+## Equisetum arvense
+
+Flatsedge Cyperus spp.
+
+## Foxtail Barley
+
+## Hordeum jubatum
+
+Fragile Fern
+
+## Cystopteris fragilis
+
+391 Nebraska Natural Legacy Project
+
+## Common Name
+
+Scientific Name Plants (cont.)
+
+## Garlic Mustard
+
+## Alliaria Petiolata
+
+Garrison Creeping-foxtail
+
+## Alopecurus arundinaceus
+
+Gilia Gilia spp.
+Green Ash
+
+## Fraxinus pennsylvanica
+
+Green Needlegrass
+
+## Nassella viridula
+
+## Greasewood
+
+## Sarcobatus vermiculatus
+
+## Hackberry
+
+## Celtis occidentalis
+
+Hairy Grama
+
+## Bouteloua hirsuta
+
+Halogeton Halogeton spp.
+Hard-stem Bulrush
+
+## Schoenoplectus acutus
+
+Hickory Carya spp.
+Hood's Phlox
+
+## Phlox hoodii
+
+Honey Locust
+
+## Gleditsia triacanthos
+
+Honeysuckle Lonicera spp.
+Hound's-tongue
+
+## Cynoglossum officinale
+
+## Indiangrass
+
+## Sorghastrum nutans
+
+Inland saltgrass
+
+## Distichlis spicata
+
+Intermediate Wheatgrass
+
+## Thinopyrum intermedium
+
+## Ironwood
+
+## Ostrya virginiana
+
+Japanese Brome
+
+## Bromus japonicus
+
+Juniper Juniperus spp.
+
+## Knapweeds
+
+Centaurea spp.
+
+## Kentucky Bluegrass
+
+## Poa pratensis
+
+## Leadplant
+
+## Amorpha canescens
+
+Leafy Spurge
+
+## Euphorbia esula
+
+Lemon Scurf-pea
+
+## Psoralidium lanceolatum
+
+Little Bluestem
+
+## Schizachyrium scoparium
+
+Marsh Mallow
+
+## Althaea officinalis
+
+Marsh Marigold
+
+## Caltha palustris
+
+Marsh Muhly
+
+## Muhlenbergia racemosa
+
+## Medusahead
+
+Taeniatherum caput-medusae
+
+## Milk-vetch
+
+Astragalus spp.
+
+## Mountain Mahogany
+
+## Cercocarpus montanus
+
+Narrow-leaf Cattail
+
+## Typha angustifolia
+
+Needle-and-thread
+
+## Hesperostipa comata
+
+Needlegrass Nassella spp.
+Osage Orange
+
+## Maclura pomifera
+
+Paper Birch
+
+## Betula papyrifera
+
+Peachleaf Willow
+
+## Salix amygdaloides
+
+Pennsylvania smartweed
+
+## Persicaria pensylvanica
+
+Plains Cottonwood
+
+## Populus deltoides
+
+## Plains Gayfeather
+
+Liatris squarrosa 392 Nebraska Natural Legacy Project
+
+## Common Name
+
+Scientific Name Plants (cont.)
+Plains Sunflower
+
+## Helianthus petiolaris
+
+Ponderosa Pine
+
+## Pinus ponderosa
+
+Prairie Blazing-star
+
+## Liatris pycnostachya
+
+Prairie Clover Dalea spp.
+
+## Prairie Coneflower
+
+Ratibida spp.
+Prairie (or Northern) Cordgrass
+
+## Spartina pectinata
+
+Prairie Sandreed
+
+## Calamovilfa longifolia
+
+Prairie Rose
+Rosa setigera Michx.
+Prickly Pear
+Opuntia sp.
+
+## Purple Coneflower
+
+## Echinacea angustifolia
+
+Purple Locoweed
+
+## Oxytropis lambertii
+
+Purple Loosestrife
+
+## Lythrum salicaria
+
+## Quackgrass
+
+## Elymus repens
+
+Rayless Alkali Aster
+
+## Symphyotrichum ciliatum
+
+Red Clover
+
+## Trifolium pratense
+
+Red Oak
+
+## Quercus rubra
+
+## Redtop
+
+## Agrostis gigantea
+
+Reed Canary Grass
+
+## Phalaris arundinacea
+
+Ripgut Sedge
+
+## Carex lacustris
+
+River Bulrush
+
+## Bolboschoenus fluviatilis
+
+Rough-leaf Dogwood
+
+## Cornus drummondii
+
+Rubber Rabbit-brush
+
+## Ericameria nauseosa
+
+Russian-olive
+
+## Elaeagnus angustifolia
+
+Russian Thistle
+Kali sp.
+
+## Sagebrush
+
+Artemisia spp.
+
+## Saltbush
+
+Atriplex spp.
+
+## Saltcedar
+
+## Tamarix ramosissima
+
+## Saltgrass
+
+## Distichlis spicata
+
+Saltmarsh Bulrush
+
+## Bolboschoenus maritimus
+
+Sandbar Willow
+
+## Salix exigua
+
+Sand Bluestem
+
+## Andropogon hallii
+
+Sand Cherry
+
+## Prunus pumila
+
+Sand-lily
+
+## Mentzelia nuda
+
+Sand Sagebrush
+
+## Artemisia filifolia
+
+Saskatoon Serviceberry
+
+## Amelanchier alnifolia
+
+Scarlet Globemallow
+
+## Sphaeralcea coccinea
+
+Scarlet Gaura
+
+## Oenothera suffrutescens
+
+## Scratchgrass
+
+## Muhlenbergia asperifolia
+
+Sea-blite
+
+## Suaeda calceoliformis
+
+Sericea Lespedeza
+
+## Lespedeza cuneata
+
+Showy Goldenrod
+
+## Solidago speciosa
+
+## Showy Ipomopsis
+
+Ipomopsis longiflora 393 Nebraska Natural Legacy Project
+
+## Common Name
+
+Scientific Name Plants (cont.)
+
+## Siberian Elm
+
+## Ulmus pumila
+
+## Sickleweed
+
+## Falcaria vulgaris
+
+## Sideoats Grama
+
+## Bouteloua curtipendula
+
+## Silky Aster
+
+## Symphyotrichum sericeum
+
+Silver Buffaloberry
+
+## Shepherdia argentea
+
+Silver Orache Atriplex sp.
+
+## Silver Sagebrush
+
+## Artemisia cana
+
+## Skeletonplant
+
+## Lygodesmia juncea
+
+## Skunkbush Sumac
+
+## Rhus aromatica
+
+Slender-flower Scurf-pea
+
+## Pediomelum tenuiflorum
+
+Smartweed Persicaria spp.
+
+## Smooth Brome
+
+## Bromus inermis
+
+Smooth Sumac
+
+## Rhus glabra
+
+## Snowberry
+
+## Symphoricarpos albus
+
+## Spearscale
+
+## Atriplex patula
+
+## Spikerush
+
+Eleocharis spp.
+
+## Spreading Yellowcress
+
+## Rorippa sinuata
+
+## Stemless Tetraneuris
+
+## Tetraneuris acaulis
+
+## Stiff Sunflower
+
+## Helianthus pauciflorus
+
+St. John's Wort
+
+## Hypericum perforatum
+
+## Sun Sedge
+
+## Carex heliophila
+
+Sweet Clover
+
+## Melilotus spp.
+
+## Switchgrass
+
+## Panicum virgatum
+
+Tall Wheatgrass
+
+## Thinopyrum ponticum
+
+Thick-spike Wheatgrass
+
+## Elymus lanceolatus
+
+Threadleaf sedge
+
+## Carex filifolia
+
+## Timothy Grass
+
+## Phleum pratense
+
+Tree-of-heaven
+
+## Ailanthus altissima
+
+## Ventenata
+
+## Ventenata dubia
+
+Viscid Camphor-daisy
+
+## Rayjacksonia annua
+
+Water-lily Nymphaea spp.
+
+## Western ragweed
+
+## Ambrosia psilostachya
+
+Western Sea-blite
+
+## Suaeda calceoliformis
+
+Western Wheatgrass
+
+## Pascopyrum smithii (Elymus smithii)
+
+## White Mulberry
+
+## Morus alba
+
+## White Sage
+
+## Artemisia ludoviciana
+
+## Wild Rice
+
+## Zizania aquatica
+
+Willow Salix spp.
+
+## Wolfberry
+
+## Symphoricarpos occidentalis
+
+## Wormwood Sage
+
+## Artemisia ludoviciana
+
+Woolly Sedge 
+
+## Carex pellita
+
+## Yellow gallium
+
+## Galium verum
+
+## Amphibian
+
+Small-mouthed Salamander X X X X
+
+## Birds
+
+Black-billed Cuckoo X X X X X X X X X X X Black-billed Magpie X X X X X X X X X X X Black Tern X X X X X Brewer's Sparrow X X X X X X Buff-breasted Sandpiper X X Burrowing Owl X X X X X X X X X X X X X X X X X X X Chestnut-collared Longspur X X X X Ferruginous Hawk X X X X X X X X Henslow's Sparrow X X X X
+Interior Least Tern X X X X X X X X 399 Nebraska Natural Legacy Project 
+Mountain Plover X Pinyon Jay X X X Piping Plover X X X X X X X Thick-billed Longspur X X X Whooping Crane X X X X X X X X X X X X X Wood Thrush X X X X
+
+## Crustaceans
+
+Ornate Fairy Shrimp X Potassium-loving Fairy Shrimp X X
+
+## Fish
+
+Blacknose Shiner X X X X Finescale Dace X X X X X X X X X X Flathead Chub X X X X X X X X X X X X X X 400 Nebraska Natural Legacy Project 
+
+## Insects
+
+American Burying Beetle X X X X X X X X X 401 Nebraska Natural Legacy Project 
+Regal Fritillary X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X Salt Creek Tiger Beetle X Sandy Tiger Beetle X X X X X X Simius Roadside-Skipper X X X Smoky-eyed Brown X X X X X X X X X 403 Nebraska Natural Legacy Project Southern Plains Bumble Bee X X X X X X X X X X X X X X X X Suckley's Cuckoo Bumble Bee X X Tawny Crescent X Two-lined Stonefly X X X X X Two-spotted Skipper X X X X X X X X X X X X X X Variable Cuckoo Bumble Bee X X X X Western Bumble Bee X X X Winnebago Mayfly
+
+## Mammals
+
+Bailey's Eastern Woodrat X X X X Cheyenne Northern Pocket Gopher X Eastern Red Bat X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X 404 Nebraska Natural Legacy Project Fringed Myotis X X X X Hoary Bat X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X Little Brown Myotis X X X X X X X X X X Northern Longeared Myotis X X X X X X X X X X Pierre Northern Pocket Gopher X X Plains Spotted Skunk X X X X X X X X X X Rocky Mountain Bighorn Sheep X X Silver-haired Bat X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X Southern Flying Squirrel 
+
+## Reptiles
+
+Blanding's Turtle X X X X X X X X X X X X X X X Glossy Snake X Red-bellied Snake X Sagebrush Lizard X X Timber Rattlesnake X X X 406 Nebraska Natural Legacy Project Sand Fame-flower X X X X X X Sandhill Goosefoot X Small White Lady's-slipper X X X X X X X Snow Trillium X Ute Ladies'-tresses X X Western Prairie Fringed Orchid X X X X X X X X Woolly Milkweed X X X X X X X X X X X X X X
+Guidelines for representing ecological communities in ecoregional conservation plans. The Nature Conservancy
+M
+Anderson
+P
+Comer
+D
+Grossman
+C
+Groves
+K
+Poiani
+M
+Reid
+R
+Schneider
+B
+Vickery
+A
+Weakley
+1999
+74
+Arlington, VA
+Ecoregions and subregions of the United States
+R
+G
+Bailey
+P
+Avers
+T
+King
+& McNab, W.
+1994
+USDA Forest Service
+Washington, D.C
+Migration chronology, nesting ecology, and breeding distribution of Mountain Plover (Charadrius montanus) in Nebraska
+B
+Bly
+L
+Snyder
+T
+Vercauteren
+2008
+Nebraska Bird Review
+76
+Elevation and soils explain Thick-billed Longspur's breeding distribution in northwestern Nebraska. Joint report of Audubon Nebraska and the Nongame Bird Program at the Nebraska Game and Parks Commission
+S
+J
+Brenner
+J
+G
+Jorgensen
+2022. 2004
+Department of Sociology
+University of Nebraska-Lincoln
+Nebraska annual social indicators survey
+Nebraska Outdoor Recreation Plan survey summary report
+University of Nebraska-Lincoln
+S
+S
+Chapman
+J
+Omernik
+J
+Freeouf
+D
+Huggins
+J
+Mccauley
+C
+Freeman
+G
+Steinauer
+R
+Angelo
+R
+Schlepp
+2001
+Ecoregions of Nebraska and Kansas. U.S. Geological Survey
+Ecological systems of the United States
+P
+Comer
+D
+Faber-Langendoen
+R
+Evans
+S
+Gawler
+C
+Josse
+G
+Kittel
+S
+Menard
+M
+Pyne
+M
+Reid
+K
+Schulz
+K
+Snow
+J
+Teague
+2003
+A working classification of U.S. terrestrial systems. NatureServe
+Closing the gaps in Florida's wildlife habitat conservation system
+J
+Cox
+R
+Kautz
+M
+Maclaughlin
+T
+Gilbert
+Florida Game and Fresh Water Fish Commission
+1994
+Surging wildfire activity in a grassland biome
+V
+M
+Donovan
+C
+L
+Wonkka
+D
+Twidwell
+Geophysical Research Letters
+44
+12
+2017
+Woody Plant Encroachment and the Sustainability of Priority Conservation Areas
+D
+Faber-Langendoen
+J
+Nichols
+L
+Master
+K
+Snow
+A
+Tomaino
+R
+Bittman
+G
+Hammerson
+B
+Heidel
+L
+Ramsay
+A
+Teucher
+B
+Young
+Natureserve
+V
+A
+Arlington
+D
+T
+Fogarty
+C
+P
+Roberts
+D
+R
+Uden
+V
+M
+Donovan
+C
+R
+Allen
+D
+E
+Naugle
+M
+O
+Jones
+B
+W
+Allred
+D
+Twidwell
+NatureServe Conservation Status Assessments: Methodology for Assigning Ranks
+2012. 2020
+12
+8321
+2024 interior Least Tern and Piping Plover annual report for the Lower Platte River
+E
+F
+Forsberg
+M
+P
+Vrtiska
+J
+G
+Jorgensen
+Tern and Plover Nebraska Natural Legacy Project Conservation Partnership and Nongame Bird Program
+Nebraska; Lincoln, NE
+Nebraska Game and Parks Commission
+2024
+Joint report
+Nest survival of Longbilled Curlew in Nebraska
+C
+J
+Gregory
+S
+J
+Dinsmore
+L
+A
+Powell
+J
+G
+Jorgensen
+Wader Study Group Bulletin
+118
+2
+2011
+International classification of ecological communities: Terrestrial vegetation of the United States
+D
+H
+Grossman
+D
+Faber-Langendoen
+A
+W
+Weakley
+M
+Anderson
+P
+Bourgeron
+R
+Crawford
+K
+Goodin
+S
+Landaal
+K
+Metzler
+K
+D
+Patterson
+M
+Pyne
+M
+Reid
+L
+Sneddon
+The National Vegetation Classification System: Development, status, and applications (The Nature Conservancy)
+Arlington, VA
+1998
+1
+Drafting a conservation blueprint: A practitioner's guide to planning for biodiversity
+C
+Groves
+2003
+Island Press
+Washington, D.C
+J
+Hall
+R
+Ruskamp
+D
+Kane
+K
+Steffensen
+2024 annual report: Pallid Sturgeon Population Assessment and Monitoring Program
+Prepared for the U.S. Army Corps of Engineers ISP -T & E Section. Nebraska Game and Parks Commission
+2025. January 7
+Coping with ignorance: The coarse filter strategy for maintaining biodiversity
+M
+L
+Hunter
+Jr
+L. A. Kohm
+1991
+Island Press
+Nongame Bird Program, Nebraska Game and Parks Commission, and Audubon Great Plains
+J
+G
+Jorgensen
+S
+J
+Brenner
+2023. 2016 and 2023
+Lincoln, NE
+Joint report
+Long-billed Curlew (Numenius americanus) surveys in the Nebraska Sandhills
+Impact perceptions and acceptance capacity toward Piping Plovers Charadrius melodus among visitors on a public beach in Nebraska
+J
+G
+Jorgensen
+M
+B
+Brown
+2016
+Wader Study
+123
+Evaluating recreationists' awareness and attitudes toward Piping Plovers (Charadrius melodus) at Lake McConaughy
+J
+G
+Jorgensen
+M
+B
+Brown
+Papers in Natural Resources
+674
+2015
+Nebraska, USA
+Buff-breasted Sandpiper density and numbers during migratory stopover in the Rainwater Basin
+J
+G
+Jorgensen
+J
+P
+Mccarty
+L
+Wolfenbarger
+Nebraska. The Condor
+110
+1
+2008
+Native vegetation of Nebraska
+R
+B
+Kaul
+S
+B
+Rolfsmeier
+1993
+Lincoln, NE
+University of Nebraska
+Strategic habitats for biodiversity conservation in Florida
+R
+S
+Kautz
+J
+A
+Cox
+Conservation Biology
+15
+1
+2001
+2022 wetlands guide. Nebraska Game and Parks Commission
+T
+Lagrange
+2022
+Distribution and abundance of the interior population of the Least Tern (Sternula antillarum), 2005: A review of the first complete range-wide survey in the Nebraska Natural Legacy Project context of historic and ongoing monitoring efforts (Final report)
+C
+A
+Lott
+2006
+U.S. Army Corps of Engineers
+Washington, DC
+Upland game program update. Research, Analysis, and Inventory Section, Nebraska Game and Parks Commission -Wildlife Division
+J
+J
+Lusk
+2011
+Systematic conservation planning
+C
+R
+Margules
+R
+L
+Pressey
+Nature
+405
+6783
+2000
+L
+Master
+D
+Faber-Langendoen
+R
+Bittman
+G
+Hammerson
+B
+Heidel
+L
+Ramsay
+K
+Snow
+A
+Teucher
+A
+Tomaino
+NatureServe Conservation Status Assessments: Factors for Evaluating Species and Ecosystem Risk
+NatureServe, Arlington, VA
+2012
+64
+A practical handbook for population viability analysis
+W
+Morris
+D
+Doak
+M
+Groom
+P
+Karueva
+J
+Fiegerg
+L
+Gerber
+P
+Murphy
+D
+Thomson
+1999
+The Nature Conservancy
+VA. National Recreation and Park Association
+Arlington
+2023
+Sustainability in parks and recreation
+2022 water quality integrated report
+V
+A
+Ashburn
+Nebraska Department of Water, Energy and Environment
+2023
+Nebraska Department of Water, Energy and Environment
+Lake McConaughy Lake Ogallala 2017-2037 Master Plan
+Nebraska Game and Parks Commission.
+2016
+Nebraska Game and Parks Commission
+2021-2025 Statewide comprehensive outdoor recreation plan (SCORP)
+Nebraska Game and Parks Commission.
+2021
+Nebraska Game and Parks Commission
+Nebraska Game and Parks Commission.
+Outdoor Nebraska: 2024 annual report
+Nebraska Game and Parks Commission
+2024
+Nebraska Invasive Species Council annual report
+Lincoln, NE
+Nebraska Invasive Species Council
+2024
+University of Nebraska-Lincoln
+Guidelines for Excellence Environmental Education Programs
+2022
+North American Association for Environmental Education
+Washington, DC
+From plant communities to landscapes in conservation inventories: A look at the Nature Conservancy (USA)
+R
+F
+Noss
+Biological Conservation
+41
+1
+1987
+Ecoregions of the conterminous United States
+J
+M
+Omernik
+Annals of the Association of American Geographers
+77
+1
+1987
+Wildlife Division research updates: The Nebraska rare butterfly survey
+S
+Paris
+B
+Andersen
+2024. September
+Wildlife Diversity Program, Nebraska Game and Parks Commission
+Platte River Recovery Implementation Program: Piping plover and interior least tern monitoring and research on the central Platte River
+2025
+Platte River Recovery Implementation Program
+Nebraska
+in 2024 (2024 annual report
+Biodiversity conservation at multiple scales: Functional sites, landscapes, and networks
+Nebraska
+Natural
+Legacy
+Project Poiani
+K
+A
+Richter
+B
+D
+Anderson
+M
+G
+Richter
+H
+E
+BioScience
+50
+2
+2000
+Population increases of the threatened American burying beetle (Nicrophorus americanus) linked to large-scale collaborations in a working lands ecoregion
+C
+P
+Roberts
+A
+K
+Ludwig
+D
+T
+Fogarty
+E
+F
+Stuber
+D
+R
+Uden
+T
+L
+Walker
+D
+Twidwell
+Biological Conservation
+301
+110865
+2025
+Terrestrial ecological systems and natural communities of Nebraska, Version IV. Nebraska Game and Parks Commission
+S
+B
+Rolfsmeier
+G
+Steinauer
+2010
+Lincoln, NE
+R
+Schneider
+K
+Stoner
+G
+Steinauer
+M
+Panella
+The Nebraska Natural Legacy Project: State Wildlife Action Plan
+M
+Humpert
+Nebraska Game and Parks Commission
+2011
+nd ed.
+Revision of the Tier 1 and 2 lists of species of greatest conservation need: A supplement to the Nebraska Natural Legacy Project State Wildlife Action Plan. Nebraska Game and Parks Commission
+R
+Schneider
+M
+Fritz
+J
+Jorgensen
+S
+Schainost
+R
+Simpson
+G
+Steinauer
+C
+Rothe-Groleau
+2018
+Toolkit to address free-ranging domestic cats (Felis catus) on agency lands managed for native wildlife and ecosystem health
+S
+H
+Schweitzer
+Gillin
+C. M.
+2020
+Nebraska's outdoor economy: Quantifying the 2016 economic contributions of hunting, fishing, wildlife viewing, and park visitation in Nebraska. Nebraska Game and Parks Commission
+E
+N
+Sinkular
+A
+A
+Dayer
+J
+C
+Barnes
+P
+C
+Pototsky
+S
+D
+Plante
+K
+K
+Jennings
+W
+A
+Chaves
+Virginia Tech
+2022. 2020
+Southwick Associates
+Blacksburg, VA; Lincoln, NE
+National and regional results from the wildlife viewer survey: Enhancing relevancy and engaging support from a broader constituency
+Salt Creek tiger beetle monitoring
+S
+Spomer
+M
+Fritz
+2011
+University of Nebraska-Lincoln
+Whooping crane recovery activities
+T
+Stehn
+2011. October 2010-August 2011
+U.S. Fish and Wildlife Service
+Large-scale levee setback playbook
+The Nature Conservancy.
+2021
+St. Louis, MO
+2022 national survey of fishing, hunting, and wildlifeassociated recreation
+2023
+U.S. Fish and Wildlife Service
+Birding in the United States: A demographic and economic analysis, addendum to the 2022 National Survey of Fishing, Hunting, and Wildlife-Associated Recreation
+2024
+U.S. Fish and Wildlife Service
+T
+L
+Welker
+Omaha District. BLACK-BILLED CUCKOO ............................................................................................................................... BLACK-BILLED MAGPIE ...............................................................................................................................
+Drobish
+Omaha District. BLACK-BILLED CUCKOO ............................................................................................................................... BLACK-BILLED MAGPIE ...............................................................................................................................
+Missouri River standard operating procedures for fish sampling and data collection
+M
+R
+U.S. Army Corps of Engineers
+2020
+2
+BLACK TERN .............................................................................................................................................. BREWER'S SPARROW .................................................................................................................................. BUFF-BREASTED SANDPIPER .......................................................................................................................
+BURROWING OWL ..................................................................................................................................... CHESTNUT-COLLARED LONGSPUR ................................................................................................................
+FERRUGINOUS HAWK ................................................................................................................................. HENSLOW'S SPARROW ................................................................................................................................ INTERIOR LEAST TERN ................................................................................................................................
+LOGGERHEAD SHRIKE ................................................................................................................................. LONG-BILLED CURLEW ...............................................................................................................................
+MOUNTAIN PLOVER ..................................................................................................................................
+PINYON JAY .............................................................................................................................................
+PIPING PLOVER .......................................................................................................................................... THICK-BILLED LONGSPUR ............................................................................................................................
+WHOOPING CRANE ...................................................................................................................................
+WOOD THRUSH ......................................................................................................................................... Species of Greatest Information Need: ....................................................................................
+Baird's Sparrow .............................................................................................................................................
+Harris' Sparrow .............................................................................................................................................. Short-eared Owl............................................................................................................................................. Sprague's Pipit ............................................................................................................................................... Yellow Rail ....................................................................................................
+.................................................
+Crustaceans............................................................................................................................... ORNATE FAIRY SHRIMP ............................................................................................................................... POTASSIUM-LOVING FAIRY SHRIMP .............................................................................................................
+Fish ............................................................................................................................................. BLACKNOSE SHINER ...................................................................................................................................
+FINESCALE DACE .......................................................................................................................................
+FLATHEAD CHUB .......................................................................................................................................
+LAKE STURGEON ........................................................................................................................................ NORTHERN PEARL DACE ............................................................................................................................. NORTHERN REDBELLY DACE ......................................................................................................................... PALLID STURGEON ..................................................................................................................................... PLAINS MINNOW ....................................................................................................................................... PLAINS TOPMINNOW ..............................................................
+...................................................................
+Bailey
+S EASTERN WOODRAT ...................................................................................................................... CHEYENNE NORTHERN POCKET GOPHER ........................................................................................................ EASTERN RED BAT.....................................................................................................................................
+FRINGED MYOTIS ....................................................................................................................................... HOARY BAT............................................................................................................................................... LITTLE BROWN MYOTIS .............................................................................................................................. NORTHERN LONG-EARED MYOTIS ................................................................................................................. PIERRE NORTHERN POCKET GOPHER ............................................................................................................. PLAINS SPOTTED SKUNK .............................................................................................................................. ROCKY MOUNTAIN BIGHORN SHEEP ............................................................................................................. SILVER-HAIRED BAT .................................................................................................................................... SOUTHERN FLYING SQUIRREL .....................
+.................................................................................................
+SWIFT FOX ................................................................................................................................................ TRICOLORED BAT ....................................................................................................................................... Species of Greatest Information Need .....................................................................................
+Plains Pocket Mouse ...................................................................................................................................... Southern Bog Lemming ................................................................................................................................. Spotted Ground Squirrel ...............................................................................................................................
+Mollusks ................................................................................................................................... CREEPER ................................................................................................................................................... FATMUCKET .............................................................................................................................................
+FLAT FLOATER ........................................................................................................................................... NIOBRARA AMERSNAIL ..............................................................................................................................
+OXBOW SNAIL ........................................................................................................................................... PISTOLGRIP ............................................................................................................................................... PLAIN POCKETBOOK ................................................................................................................................... PONDMUSSEL ............................................................................................................................................ SCALESHELL .............................................................................................................................................. YELLOW SANDSHELL ................................................................................................................................... Species of Greatest Information Need .......
+..............................................................................
+Black Sandshell .............................................................................................................................................. Lilliput ...........................................................................................................................................................
+Reptiles ..................................................................................................................................... BLANDING'S TURTLE ................................................................................................................................... GLOSSY SNAKE .......................................................................................................................................... RED-BELLIED SNAKE .....................................................................................
+.............................................
+SAGEBRUSH LIZARD .................................................................................................................................... TIMBER RATTLESNAKE ................................................................................................................................ WESTERN MASSASAUGA ............................................................................................................................. Species of Greatest Information Need .............................................
+........................................
+Yellow Mud Turtle ......................................................................................................................................... Great Plains Ratsnake .................................................................................................................................... Northern Diamond-backed Water Snake ...................................................................................................... Common Lesser Earless Lizard ............................................................................
+..........................................

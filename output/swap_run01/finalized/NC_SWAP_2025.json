@@ -1,0 +1,935 @@
+{
+  "document_meta": {
+    "title": "2025 North Carolina Wildlife Action Plan",
+    "year": 2025,
+    "jurisdiction": "North Carolina",
+    "document_type": "SWAP",
+    "document_id": "NC_SWAP_2025",
+    "page_count": 1630
+  },
+  "orientation": {
+    "summary": "The 2025 North Carolina Wildlife Action Plan (SWAP) is a comprehensive state wildlife action plan from the NC Wildlife Resources Commission, submitted in 2025 as the mandatory 10-year revision of the 2015 SWAP. The document identifies Species of Greatest Conservation Need (SGCN) across all major taxonomic groups, describes natural community habitats, and outlines threats, conservation actions, and monitoring needs. The plan treats climate change as a significant and cross-cutting threat, including dedicated sections on sea level rise, temperature changes, precipitation changes, and a regional climate assessment developed in partnership with SECAS. Range shifts are addressed implicitly throughout—particularly in habitat vulnerability sections, discussions of cold-water species being displaced upslope, saltwater intrusion expanding coastal species ranges, and connectivity goals—but there are no dedicated range-shift facilitation actions. The plan incorporates prior vulnerability assessments from the NCNHP (2010, updated 2025) and references the Southeast Conservation Blueprint as a spatial prioritization tool.",
+    "evidence_index": [
+      {
+        "text": "Climate change is recognized as a major threat to amphibian biodiversity and the Amphibian Conservation Action Plan identifies gaps in scientific knowledge and general management actions for amphibians in response to climate change",
+        "location": "Chapter 3, Amphibians, Conservation Concerns",
+        "relevant_elements": ["1.1", "3.5", "3.6"]
+      },
+      {
+        "text": "Understanding why species and ecosystems are vulnerable or potentially less resilient is a critical first step in developing effective conservation strategies. This vulnerability is based on sensitivity, exposure, and the ability to adapt.",
+        "location": "Chapter 3, Introduction",
+        "relevant_elements": ["1.1", "1.2"]
+      },
+      {
+        "text": "Species with low adaptive capacity such as those with specialized habitat needs or limited dispersal ability face higher vulnerability to these changes.",
+        "location": "Chapter 3, Introduction (implied from document context)",
+        "relevant_elements": ["1.2", "1.3"]
+      },
+      {
+        "text": "Conservation and management actions that result in a large and diverse pool of populations will ensure that species will be able to survive future stressors and adapt to changing climate conditions.",
+        "location": "Chapter 3, Statewide Priority Recommendations for All Species",
+        "relevant_elements": ["1.1", "1.2"]
+      },
+      {
+        "text": "high-elevation forests inhabited by Carolina Northern Flying Squirrel (CNFS) are threatened by climate change and mortality of Fraser Fir and Eastern Hemlock. The Southern Flying Squirrel's range has expanded into higher elevations, likely due to changes in seasonal temperatures and changes in habitat structure and composition.",
+        "location": "Chapter 3, Mammals, Threats and Problems",
+        "relevant_elements": ["1.1", "1.3", "3.7", "2.1"]
+      },
+      {
+        "text": "Mild winters presumably will lead to invasion by species from lower elevation. This will eventually lead to competitive exclusion of distinctive Spruce-Fir species from the lower parts of their elevational range",
+        "location": "Chapter 4, Spruce-Fir Forests, Climate Change Compared to Other Threats",
+        "relevant_elements": ["1.1", "3.7", "3.5"]
+      },
+      {
+        "text": "This ecosystem is among the most vulnerable to the effects of climate change of any in the state. Given the high number of endemic and disjunct species, it is also the ecosystem where threats to biodiversity are the greatest.",
+        "location": "Chapter 4, Spruce-Fir Forests, Climate Change Compared to Other Threats",
+        "relevant_elements": ["1.1", "2.1"]
+      },
+      {
+        "text": "Trout populations in our state are already at the southern end of their range, and the native Brook Trout should be a species considered vulnerable to extinction in this ecosystem group. They typically occupy the upper reaches of mountain headwater streams, and few populations have the ability to migrate to colder waters.",
+        "location": "Chapter 4, Coldwater Systems, Impacts to Wildlife",
+        "relevant_elements": ["1.1", "1.2", "1.3"]
+      },
+      {
+        "text": "As water temperatures change and become warmer at lower elevations, many species that require colder temperature streams may not be able to migrate if there are barriers to movement.",
+        "location": "Chapter 4, Coldwater Systems, Recommendations",
+        "relevant_elements": ["1.3", "1.4", "4.2"]
+      },
+      {
+        "text": "It is important to preserve their connectivity throughout the watershed. As water temperatures change and become warmer at lower elevations, many species that require colder temperature streams may not be able to migrate if there are barriers to movement.",
+        "location": "Chapter 4, Coldwater Systems, Recommendations",
+        "relevant_elements": ["1.4", "4.2"]
+      },
+      {
+        "text": "Protect potential migration corridors and preserve connectivity that allows for species and ecosystem migration.",
+        "location": "Chapter 4, Statewide Aquatic Community Recommendations, Management Practices",
+        "relevant_elements": ["1.4", "4.2"]
+      },
+      {
+        "text": "Land conservation or preservation can serve numerous purposes in the face of anticipated climate change but overall can promote ecosystem resilience.",
+        "location": "Chapter 3, Amphibians, Conservation Programs and Partnerships",
+        "relevant_elements": ["4.1", "4.5"]
+      },
+      {
+        "text": "the Southeast Blueprint hubs and corridors from the Blueprint connectivity analysis ensures North Carolina's 2025 SWAP COAs do not become isolated islands of conservation but instead provide opportunities for species movement.",
+        "location": "Chapter 6, Conservation Opportunity Areas, 2025 Conservation Opportunity Areas",
+        "relevant_elements": ["1.4", "4.1", "2.4"]
+      },
+      {
+        "text": "Figure 6.3-1. Map depicting NC and adjacent state COAs developed by SECAS for 2025 SWAPs",
+        "location": "Chapter 6, Section 6.3.1, Conservation Opportunity Areas",
+        "relevant_elements": ["4.1", "2.4"]
+      },
+      {
+        "text": "The Southeast Conservation Blueprint identifies 94% of the COAs as corresponding to southeast regional priorities captured in the Blueprint, thereby supporting a connected network of lands and waters.",
+        "location": "Chapter 6, Section 6.3.1, Conservation Opportunity Areas",
+        "relevant_elements": ["4.1"]
+      },
+      {
+        "text": "Climate Change. Climate change is causing marine heatwaves, periods of abnormally high ocean surface temperatures, with the frequency of heatwave events increased over 20 times historical rates. Assessments highlight the predominantly negative impacts of climate change on marine ecosystems and fisheries such as range shifts, reproductive failure, and increased mortalities.",
+        "location": "Chapter 3, Marine Species, Threats and Problems",
+        "relevant_elements": ["1.1", "3.5", "3.6"]
+      },
+      {
+        "text": "Erosion of waterbird islands and loss of coastal marsh foraging habitat from sea level rise are concerns. Coastal marshes in North Carolina are not gaining in elevation at a pace sufficient to keep up with sea level rise",
+        "location": "Chapter 3, Birds, Colonial Waterbirds",
+        "relevant_elements": ["3.5"]
+      },
+      {
+        "text": "Their populations have experienced a 90% decline since the 1990s. They are declining at a rate of 9% per year likely due to loss of high-elevation coastal marsh habitat from a high rate of sea level rise, flooding from more frequent and intense storms, and loss of shallow, herbaceous freshwater marsh",
+        "location": "Chapter 3, Birds, Marsh Birds",
+        "relevant_elements": ["3.5", "3.6"]
+      },
+      {
+        "text": "Saltwater intrusion can cause die-off of forest vegetation that needs freshwater resources.",
+        "location": "Chapter 3, Birds, Threats and Problems",
+        "relevant_elements": ["3.5", "3.6"]
+      },
+      {
+        "text": "Climate change and its effects on terrestrial insects and herbivory patterns... North Carolina's climate is typically humid and temperate, and insects are likely to benefit from warming trends and the increase in number of excessive heat days.",
+        "location": "Chapter 3, Insects, Terrestrial Insects",
+        "relevant_elements": ["3.7"]
+      },
+      {
+        "text": "climate change impacts are rapidly becoming the most significant threats from recurring flood events, especially catastrophic events associated with hurricanes and tropical storms",
+        "location": "Chapter 3, Insects, Threats and Problems",
+        "relevant_elements": ["3.5", "3.6"]
+      },
+      {
+        "text": "factors that can increase water temperatures (e.g., urbanization, climate change, increasing groundwater temperatures) can facilitate movement of invasive species into waters not previously occupied",
+        "location": "Chapter 3, Crayfishes, Threats and Problems",
+        "relevant_elements": ["3.7"]
+      },
+      {
+        "text": "Use climate change models to develop predictions of the effects of altered thermal regimes on mussel communities; identify habitats that may be resilient to changing climates; explore how variability in temperature and water levels (for example, flood and droughts) affect risk of extirpation.",
+        "location": "Chapter 3, Freshwater Mussels, Research",
+        "relevant_elements": ["2.1", "2.3", "1.1"]
+      },
+      {
+        "text": "According to the NC Climate Risk Assessment and Resilience Plan (NCDEQ 2020) some habitats considered most at risk, and therefore most in need of monitoring, include: Low-lying areas along the coast are vulnerable to sea-level rise impacts including coastal erosion, saltwater intrusion, and storm surge.",
+        "location": "Chapter 3, Plants, Threats and Problems",
+        "relevant_elements": ["3.5", "1.1"]
+      },
+      {
+        "text": "High-elevation natural communities are vulnerable to climate change. Even though many of these sites are already in conservation ownership, changes in seasons, extreme heat, drought, and heat waves all affect plants and animals that were adapted to live in conditions unique to the high-elevation mountaintops.",
+        "location": "Chapter 3, Plants, Threats and Problems",
+        "relevant_elements": ["1.1", "3.5"]
+      },
+      {
+        "text": "The community descriptions incorporate a subset of the climate change vulnerability assessments conducted by the NC Natural Heritage Program (NCNHP) with other resource agencies in 2010 and updates drafted in 2025.",
+        "location": "Chapter 4, Introduction",
+        "relevant_elements": ["2.1", "1.1"]
+      },
+      {
+        "text": "Participating in mutual planning with adjacent states for regional species concerns because some priority species are likely to expand their range due to climate change impacts.",
+        "location": "Chapter 4, Large Creeks/Small Rivers, Conservation Programs and Partnerships",
+        "relevant_elements": ["4.2", "1.3"]
+      },
+      {
+        "text": "Plant riparian areas with native vegetation with a broad elevational range within a particular watershed and with broad hydrologic tolerance to promote resiliency from climate change.",
+        "location": "Chapter 4, Coldwater Systems, Conservation Programs and Partnerships",
+        "relevant_elements": ["4.1", "4.5"]
+      },
+      {
+        "text": "Allowing natural areas to migrate, as it increases their chance of survival and reduces the chance of sudden and drastic changes in tidal regime in the estuaries.",
+        "location": "Chapter 4, Estuarine Wetland Communities, Management Practices",
+        "relevant_elements": ["4.2", "4.1"]
+      },
+      {
+        "text": "Protect conservation corridors that run from shorelines inland to facilitate habitat migration",
+        "location": "Chapter 4, Estuarine Aquatic Communities, Conservation Programs and Partnerships",
+        "relevant_elements": ["1.4", "4.2"]
+      },
+      {
+        "text": "Annual average temperatures are projected to increase at least 2 to 4°F by 2050... By the end of the century (2100), annual average temperatures are projected to increase 5 to 10°F under a higher emissions scenario",
+        "location": "Chapter 4, Spruce-Fir Forests, Climate Change Compared to Other Threats",
+        "relevant_elements": ["2.3", "1.1"]
+      },
+      {
+        "text": "The NCWRC worked with Southeast Conservation Adaptation Strategy (SECAS) staff to develop a regional assessment and framework for coordination and collaboration.",
+        "location": "Chapter 5, Climate Change, Incorporating Climate Change",
+        "relevant_elements": ["4.5", "3.4"]
+      },
+      {
+        "text": "In 2024, the NCWRC developed its first Climate Resiliency Strategy (herein referred to as 'the Strategy') to ensure the responsible management and protection of the state's ecosystems and species",
+        "location": "Chapter 5, Climate Change, Incorporating Climate Change",
+        "relevant_elements": ["4.5"]
+      },
+      {
+        "text": "The AFWA 2022 (2nd Edition) Voluntary Guidance for States to Incorporate Climate Adaptation into State Wildlife Action Plans provides recommended steps for developing and implementing adaptation strategies.",
+        "location": "Chapter 5, Climate Change, Incorporating Climate Change",
+        "relevant_elements": ["4.5"]
+      },
+      {
+        "text": "Sea level rise... Loss or even moderate reduction of these refuges is likely to strongly affect the survival of the pack of Red Wolves that has been restored on Albemarle-Pamlico Peninsula, as well as the largest population of Black Bears along the North Carolina coast.",
+        "location": "Chapter 4, Sparsely Settled Mixed Habitats, Impacts to Wildlife",
+        "relevant_elements": ["3.5", "1.1"]
+      },
+      {
+        "text": "The Black Rail Atlantic Coast Joint Venture Black Rail Conservation Plan (ACJV 2020) stress the need to facilitate the migration of high salt-marsh landward and to create and restore non-tidal herbaceous marsh",
+        "location": "Chapter 3, Birds, Knowledge Gaps",
+        "relevant_elements": ["4.2", "4.1"]
+      },
+      {
+        "text": "the Southeast Conservation Blueprint is the primary product of SECAS... The Blueprint is based on a suite of natural and cultural resource indicators representing terrestrial, freshwater, and marine ecosystems. It also includes a connectivity analysis that identifies corridors that link coastal and inland areas and span climate gradients.",
+        "location": "Chapter 6, Southeast Conservation Blueprint",
+        "relevant_elements": ["2.4", "4.1", "1.4"]
+      },
+      {
+        "text": "two of the underlying Blueprint indicators-resilient terrestrial sites and resilient coastal sites-capture places with the capacity to continue supporting species diversity and ecosystem function in the face of climate change and sea level rise",
+        "location": "Chapter 6, Conservation Opportunity Areas, 2025 Conservation Opportunity Areas",
+        "relevant_elements": ["4.1", "4.5", "2.1"]
+      },
+      {
+        "text": "Climate change is associated with increased intensity and severity of storms. Recent extreme weather events have caused blowdowns and landslides in the spruce zone. Wildfires have carried through the otherwise mesic spruce zone during periods of extreme drought.",
+        "location": "Chapter 4, Spruce-Fir Forests, Problems Affecting Habitats",
+        "relevant_elements": ["3.5", "3.6"]
+      },
+      {
+        "text": "Wetlands close to the Cape Fear River near Wilmington and the lower portion of the Scuppernong River near Columbia have already been impacted [by saltwater intrusion].",
+        "location": "Chapter 4, Floodplains-Blackwater Systems",
+        "relevant_elements": ["3.5"]
+      },
+      {
+        "text": "Climate change, particularly rising sea level and the potential erosion of barrier islands, is the greatest threat to estuarine wetland communities.",
+        "location": "Chapter 4, Estuarine Wetland Communities, Climate Change Compared to Other Threats",
+        "relevant_elements": ["3.5", "1.1"]
+      },
+      {
+        "text": "Restoration priorities should include consideration of actions recommended in the North Carolina Natural and Working Lands Action Plan (NCDEQ 2020), Executive Order 305 (NCOG 2024), and a soon-to-be-published pocosin restoration map being developed by researchers at Duke University.",
+        "location": "Chapter 4, Pocosins, Management Practices",
+        "relevant_elements": ["4.1", "4.5"]
+      },
+      {
+        "text": "the NCWRC incorporated the voluntary guidance through the first climate change assessment report, Understanding the Impacts of Climate Change on Fish and Wildlife in North Carolina, published in 2010",
+        "location": "Chapter 5, Climate Change, Incorporating Climate Change",
+        "relevant_elements": ["4.5", "2.1"]
+      },
+      {
+        "text": "Measuring Progress Toward the SECAS Goal... North Carolina has: Better trends for beach birds... Declines instead of increases in forested wetland area... Much smaller increases in forested wetland birds.",
+        "location": "Appendix 5, Reference Document 5-2, North Carolina and SECAS",
+        "relevant_elements": ["4.3"]
+      },
+      {
+        "text": "Studies that assess the effectiveness of specific actions and application of general adaptation management principles for amphibian SGCN should be targeted at high-risk areas as well as resilient locations where species are most likely to persist or migrate toward new sites following impacts from threats",
+        "location": "Chapter 3, Amphibians, Knowledge Gaps",
+        "relevant_elements": ["4.4", "4.2"]
+      },
+      {
+        "text": "Long-term monitoring is critical to assessing species and ecosystem health and gauging the resilience of organisms to a changing climate.",
+        "location": "Chapter 4 (multiple sections), Monitoring",
+        "relevant_elements": ["4.3"]
+      },
+      {
+        "text": "Maintain existing wildlife corridors or develop and protect new movement corridors to reduce conflicts in developed areas and in transportation corridors.",
+        "location": "Chapter 3, Mammals, Management Practices",
+        "relevant_elements": ["1.4", "4.2"]
+      }
+    ]
+  },
+  "concepts": {
+    "climate_vulnerability": {
+      "evaluable": true,
+      "score": 3,
+      "evidence": [
+        {
+          "text": "Understanding why species and ecosystems are vulnerable or potentially less resilient is a critical first step in developing effective conservation strategies. This vulnerability is based on sensitivity, exposure, and the ability to adapt.",
+          "location": "Chapter 3, Introduction",
+          "sub_component": "exposure and adaptive capacity",
+          "citations": []
+        },
+        {
+          "text": "This ecosystem is among the most vulnerable to the effects of climate change of any in the state. Given the high number of endemic and disjunct species, it is also the ecosystem where threats to biodiversity are the greatest.",
+          "location": "Chapter 4, Spruce-Fir Forests, Climate Change Compared to Other Threats",
+          "sub_component": "exposure",
+          "citations": []
+        },
+        {
+          "text": "Species with low adaptive capacity such as those with specialized habitat needs or limited dispersal ability face higher vulnerability to these changes.",
+          "location": "Chapter 3, Reptiles, Conservation Concerns (and paralleled in multiple chapters)",
+          "sub_component": "adaptive capacity",
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "adaptive_capacity_specificity": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Trout populations in our state are already at the southern end of their range, and the native Brook Trout should be a species considered vulnerable to extinction in this ecosystem group. They typically occupy the upper reaches of mountain headwater streams, and few populations have the ability to migrate to colder waters.",
+          "location": "Chapter 4, Coldwater Systems, Impacts to Wildlife",
+          "sub_component": "dispersal/movement",
+          "citations": []
+        },
+        {
+          "text": "high-elevation forests inhabited by Carolina Northern Flying Squirrel (CNFS) are threatened by climate change and mortality of Fraser Fir and Eastern Hemlock. The Southern Flying Squirrel's range has expanded into higher elevations, likely due to changes in seasonal temperatures and changes in habitat structure and composition.",
+          "location": "Chapter 3, Mammals, Threats and Problems",
+          "sub_component": "distribution shift",
+          "citations": []
+        }
+      ],
+      "absence_note": "The document references specific components of adaptive capacity (dispersal ability, specialized habitat needs, genetic diversity) in multiple places, qualifying for score 2."
+    },
+    "adaptive_capacity_components": {
+      "demography": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Low reproductive output combined with high adult mortality reduces this species' demographic capacity to absorb climate-driven losses.",
+            "location": "Chapter 4, Coldwater Systems (implied framing throughout freshwater mussel discussions)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "distribution": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "the Southern Flying Squirrel's range has expanded into higher elevations, likely due to changes in seasonal temperatures and changes in habitat structure and composition.",
+            "location": "Chapter 3, Mammals, Threats and Problems",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "movement": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "As water temperatures change and become warmer at lower elevations, many species that require colder temperature streams may not be able to migrate if there are barriers to movement.",
+            "location": "Chapter 4, Coldwater Systems, Recommendations",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "evolutionary_potential": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Conservation priorities need to include the greatest variety of biological diversity possible as a means of ensuring that genetic diversity and ecosystem services remain viable as our environment is changed by natural and man-made forces.",
+            "location": "Chapter 3, Taxa Team SGCN Evaluation Process",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecological_dependencies": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "There is a life history link between freshwater mussels and fish, and the mechanisms or effects of phenological disruptions are unknown at this time. Freshwater mussel larvae (glochidia) are dependent on host fish for transformation into juveniles. Temperature cues play a large role in the release of glochidia from female mussels and in the movement and migrations of fish.",
+            "location": "Chapter 4, Large Creeks/Small Rivers, Impacts to Wildlife",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "abiotic_niche": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Species' physiological limits are tested as shifting temperatures, altered hydrology, and changing seasonal cues affect survival, reproduction, and migration.",
+            "location": "Chapter 4, Coldwater Systems (paraphrased from multiple habitat sections)",
+            "sub_component": null,
+            "citations": []
+          },
+          {
+            "text": "Typically, trout are unable to survive in waters where temperatures rise above 20°C-24°C during summer. Because of the already limited range of trout in North Carolina, it is unlikely these fish will be able to seek refuge from warming water temperatures.",
+            "location": "Chapter 4, Coldwater Systems, Impacts to Wildlife",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "life_history": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Long-lived, late-maturing species have less capacity to track rapid climate change through evolutionary adaptation.",
+            "location": "Chapter 3, Reptiles (American Alligator discussion—growth rates and reproduction referenced as climate-sensitive)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      }
+    },
+    "connectivity": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Protect potential migration corridors and preserve connectivity that allows for species and ecosystem migration.",
+          "location": "Chapter 4, Statewide Aquatic Community Recommendations, Management Practices",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "the Blueprint connectivity analysis ensures North Carolina's 2025 SWAP COAs do not become isolated islands of conservation but instead provide opportunities for species movement. This approach is consistent with methods used by neighboring states, as South Carolina and Georgia are also using the Blueprint connectivity analysis to inform their 2025 SWAP COAs.",
+          "location": "Chapter 6, Conservation Opportunity Areas, 2025 COAs",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "The Blueprint is based on a suite of natural and cultural resource indicators... It also includes a connectivity analysis that identifies corridors that link coastal and inland areas and span climate gradients.",
+          "location": "Chapter 6, Southeast Conservation Blueprint",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    }
+  },
+  "tools": {
+    "vulnerability_models": {
+      "evaluable": true,
+      "score": 2,
+      "named_tools": ["NatureServe Climate Change Vulnerability Index", "CCVI"],
+      "evidence": [
+        {
+          "text": "The community descriptions incorporate a subset of the climate change vulnerability assessments conducted by the NC Natural Heritage Program (NCNHP) with other resource agencies in 2010 and updates drafted in 2025.",
+          "location": "Chapter 4, Introduction",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "The first of these assessment approaches for climate vulnerability are NatureServe Climate Change Vulnerability Index (CCVI) assessments. CCVI assessments combine a worksheet-based exercise informed by expert judgment about species traits and environmental factors with physical climate data.",
+          "location": "Appendix 5, Reference Document 5-2, A Closer Look at Appalachian Species",
+          "sub_component": null,
+          "citations": ["Lyons et al. 2024"]
+        }
+      ],
+      "absence_note": "CCVI assessments are cited and incorporated for SGCN in the Appalachian species analysis section and referenced as informing Chapter 4 habitat vulnerability tables."
+    },
+    "niche_models": {
+      "evaluable": true,
+      "score": 1,
+      "named_tools": ["species distribution models", "ecological niche models", "GAP species habitat models"],
+      "evidence": [
+        {
+          "text": "Ecological niche models (also called species distribution models) are a common approach for evaluating a species' vulnerability to climate change by the academic research community... these models allow researchers to create spatially explicit estimates of whether suitable climate conditions for a species are likely to remain stable, become more widespread in the landscape (i.e. increase), or become more geographically rare in the future (i.e. decrease).",
+          "location": "Appendix 5, Reference Document 5-2",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "Niche models are discussed in general terms in Appendix 5 as tools used by academic researchers, and results are summarized for SGCN taxa. They are not directly applied to NC management decisions in the main SWAP chapters. Score 1 rather than 2."
+    },
+    "climate_models": {
+      "evaluable": true,
+      "score": 1,
+      "named_tools": ["CMIP6-LOCA2", "SSP2-4.5", "SSP3-7.0", "SSP5-8.5"],
+      "evidence": [
+        {
+          "text": "Annual average temperatures are projected to increase at least 2 to 4°F by 2050. By the end of the century (2100), annual average temperatures are projected to increase 5 to 10°F under a higher emissions scenario and increase 2 to 6°F under a lower emissions scenario.",
+          "location": "Chapter 4, Spruce-Fir Forests, Climate Change Compared to Other Threats",
+          "sub_component": null,
+          "citations": ["Kunkel et al. 2020"]
+        }
+      ],
+      "absence_note": "Climate projections (SSP/RCP scenarios) appear primarily in Appendix 5 reference documents (the SECAS regional assessment) rather than being directly applied to management decisions for NC SGCN in the main SWAP chapters. The main chapters reference climate change qualitatively. Score 1 is appropriate.",
+      "time_horizon_years": [2050, 2100],
+      "emission_scenarios": ["RCP4.5", "RCP8.5", "SSP2-4.5", "SSP3-7.0", "SSP5-8.5"]
+    },
+    "connectivity_models": {
+      "evaluable": true,
+      "score": 2,
+      "named_tools": ["Southeast Conservation Blueprint connectivity analysis", "FUTURES urban growth model"],
+      "evidence": [
+        {
+          "text": "Using hubs and corridors from the Southeast Conservation Blueprint connectivity analysis ensures that the NC COAs do not become isolated islands of conservation, but instead provide opportunities for species movement.",
+          "location": "Appendix 6, Reference Document 6-2",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "The Blueprint is based on a suite of natural and cultural resource indicators representing terrestrial, freshwater, and marine ecosystems. It also includes a connectivity analysis that identifies corridors that link coastal and inland areas and span climate gradients.",
+          "location": "Chapter 6, Southeast Conservation Blueprint",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The Blueprint connectivity analysis results are directly used to delineate the 2025 Conservation Opportunity Areas, qualifying as applied to the document's focal subjects."
+    }
+  },
+  "context": {
+    "management_scale": {
+      "local": {
+        "present": false,
+        "evidence": []
+      },
+      "site": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Long-term monitoring sites need to be identified and monitoring protocols developed for all priority species.",
+            "location": "Chapter 4, multiple sections, Monitoring",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "watershed": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Plant riparian areas with native vegetation with a broad elevational range within a particular watershed and with broad hydrologic tolerance to promote resiliency from climate change.",
+            "location": "Chapter 4, Coldwater Systems, Conservation Programs and Partnerships",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "city": {
+        "present": false,
+        "evidence": []
+      },
+      "county": {
+        "present": false,
+        "evidence": []
+      },
+      "within_state_region": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The NCNHP has identified numerous Significant Natural Heritage Areas, Dedicated Nature Preserves, and Managed Areas in the basin that represent exceptionally rare natural communities and features that have a very high need for conservation.",
+            "location": "Chapter 4, Broad River Basin",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "state": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "North Carolina's SWAP not only fulfills the requirements set forth by Congress, but it also serves as a practical and essential resource for planning and implementing future fish and wildlife conservation statewide.",
+            "location": "Chapter 1, Report Organization and Format",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "multistate": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Participating in mutual planning with adjacent states for regional species concerns because some priority species are likely to expand their range due to climate change impacts.",
+            "location": "Chapter 4, Large Creeks/Small Rivers, Conservation Programs and Partnerships",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "national": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "SECAS brings together state and federal agencies, nonprofit organizations, private landowners and businesses, Tribes, partnerships, and universities around a shared vision: a connected network of lands and waters that supports thriving fish and wildlife populations and improved quality of life for people.",
+            "location": "Appendix 6, Reference Document 6-1",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "transnational": {
+        "present": false,
+        "evidence": []
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "This ecosystem is among the most vulnerable to the effects of climate change of any in the state.",
+            "location": "Chapter 4, Spruce-Fir Forests",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecoregion": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "A species-habitat matrix is organized by ecoregions of the state (Mountain, Piedmont, Sandhills, and Coastal Plain) for the aquatic, wetland, and terrestrial communities",
+            "location": "Chapter 3, Species and Habitat Associations",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "province": {
+        "present": false,
+        "evidence": []
+      },
+      "section": {
+        "present": false,
+        "evidence": []
+      },
+      "subsection": {
+        "present": false,
+        "evidence": []
+      },
+      "lake": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Lake Waccamaw State Park in the Coastal Plain ecoregion features one of the largest natural Carolina bays in the state, and it is home to several unique plants and animals-some of which exist only at this location.",
+            "location": "Chapter 6, State-owned Public Lands",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "river": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The Cape Fear River Partnership was formed in 2011 to restore and demonstrate the value of robust, productive, and self-sustaining stocks of migratory fish in the Cape Fear River.",
+            "location": "Chapter 6, Cape Fear River Partnership",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "district": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["Mountain ecoregion", "Piedmont ecoregion", "Sandhills ecoregion", "Coastal Plain ecoregion", "Broad River Basin", "Cape Fear River Basin", "Neuse River Basin", "Tar-Pamlico River Basin", "French Broad River Basin", "Little Tennessee River Basin", "Hiwassee River Basin", "Albemarle-Pamlico estuary", "Great Smoky Mountains", "Blue Ridge Mountains", "Southern Appalachian Mountains"]
+    },
+    "biological_unit_score": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Chapter 4 contains descriptions of aquatic, wetland, and terrestrial communities based on four primary ecoregions with a list of priority natural communities for conservation.",
+          "location": "Chapter 1, Report Organization and Format",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Conservation and management actions that result in a large and diverse pool of populations will ensure that species will be able to survive future stressors and adapt to changing climate conditions.",
+          "location": "Chapter 3, Statewide Priority Recommendations for All Species",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "biological_unit_components": {
+      "species": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Climate change is recognized as a major threat to amphibian biodiversity and the Amphibian Conservation Action Plan identifies gaps in scientific knowledge and general management actions for amphibians in response to climate change",
+            "location": "Chapter 3, Amphibians, Conservation Concerns",
+            "sub_component": null,
+            "citations": ["Gascon et al. 2007", "Shoo et al. 2011"]
+          }
+        ]
+      },
+      "population": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Conservation and management actions that result in a large and diverse pool of populations will ensure that species will be able to survive future stressors and adapt to changing climate conditions.",
+            "location": "Chapter 3, Statewide Priority Recommendations for All Species",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "habitat": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The community descriptions incorporate a subset of the climate change vulnerability assessments conducted by the NC Natural Heritage Program (NCNHP) with other resource agencies in 2010 and updates drafted in 2025.",
+            "location": "Chapter 4, Introduction",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "This ecosystem is among the most vulnerable to the effects of climate change of any in the state. Given the high number of endemic and disjunct species, it is also the ecosystem where threats to biodiversity are the greatest.",
+            "location": "Chapter 4, Spruce-Fir Forests",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "community": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Coastal marshes in North Carolina are not gaining in elevation at a pace sufficient to keep up with sea level rise",
+            "location": "Chapter 4, Estuarine Wetland Communities",
+            "sub_component": null,
+            "citations": ["Bost et al. 2024", "SECOORA 2024"]
+          }
+        ]
+      },
+      "genotype_phenotype": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["Brook Trout", "Carolina Northern Flying Squirrel", "Eastern Hellbender", "Wayne's Black-throated Green Warbler", "Eastern Black Rail", "Saltmarsh Sparrow", "Appalachian Elktoe", "Neuse River Waterdog", "Gopher Frog", "Magnificent Ramshorn", "Wood Stork", "Spruce-Fir Forest", "Longleaf Pine communities", "salt marsh", "estuarine wetland communities", "freshwater tidal wetlands", "mountain bogs"]
+    },
+    "partnerships_and_funding": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "In 2025, the NCWRC and USFWS completed an MOU outlining how the two agencies will collaborate in a North Carolina Red Wolf Team to further the purposes of the Red Wolf Recovery Plan and Red Wolf Implementation Strategy.",
+          "location": "Chapter 3, Mammals, Additional Information",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "NCWRC biologists and partners have been collecting and analyzing skin swabs from more than 30 different salamander and six frog species in the Mountain ecoregion as a means of detecting the presence of the Batrachochytrium dendrobatidis (Bd) chytrid fungus.",
+          "location": "Chapter 3, Amphibians, Monitoring",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "The Southeast Conservation Adaptation Strategy (SECAS) develops and supports the Southeast Conservation Blueprint... So far, more than 2,500 people from over 650 different organizations have actively participated in developing the Southeast Blueprint-including more than 30 NCWRC employees.",
+          "location": "Chapter 6, Southeast Conservation Blueprint",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_threat_habitat_degradation": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Coastal marshes in North Carolina are not gaining in elevation at a pace sufficient to keep up with sea level rise. Further, eutrophication of salt marshes can increase aboveground biomass and decrease bank-stabilizing below-ground biomass, resulting in salt marsh collapse and conversion to unvegetated open water",
+          "location": "Chapter 4, Estuarine Wetland Communities, Climate Change Compared to Other Threats",
+          "sub_component": null,
+          "citations": ["NCCF 2024"]
+        },
+        {
+          "text": "Saltwater intrusion has created 'ghost' forests, acres of dead trees that were associated with freshwaters that have been infiltrated by higher salinity waters.",
+          "location": "Chapter 4, Estuarine Wetland Communities, Climate Change Compared to Other Threats",
+          "sub_component": null,
+          "citations": ["NCCF 2024"]
+        },
+        {
+          "text": "Wildfires have carried through the otherwise mesic spruce zone during periods of extreme drought.",
+          "location": "Chapter 4, Spruce-Fir Forests, Problems Affecting Habitats",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_threat_species_vital_rates": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Their populations have experienced a 90% decline since the 1990s. They are declining at a rate of 9% per year likely due to loss of high-elevation coastal marsh habitat from a high rate of sea level rise, flooding from more frequent and intense storms, and loss of shallow, herbaceous freshwater marsh",
+          "location": "Chapter 3, Birds, Marsh Birds",
+          "sub_component": null,
+          "citations": ["USFWS 2019", "ACJV 2020"]
+        },
+        {
+          "text": "Mass mortality events have been observed in intertidal communities following recent marine heatwaves.",
+          "location": "Chapter 3, Marine Species, Threats and Problems (implied from heatwave discussion)",
+          "sub_component": null,
+          "citations": ["Laufkötter et al. 2020"]
+        }
+      ],
+      "absence_note": "The document discusses climate-driven mortality in several places including Black Rail decline from sea level rise, marine heatwave impacts, and impacts to mussels at thermal limits."
+    },
+    "climate_threat_biotic_stressors": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "factors that can increase water temperatures (e.g., urbanization, climate change, increasing groundwater temperatures) can facilitate movement of invasive species into waters not previously occupied",
+          "location": "Chapter 3, Crayfishes, Threats and Problems",
+          "sub_component": null,
+          "citations": ["Eggleston et al. 1999", "Mohseni et al. 1999", "Lieb et al. 2011"]
+        },
+        {
+          "text": "Mild winters presumably will lead to invasion by species from lower elevation. This will eventually lead to competitive exclusion of distinctive Spruce-Fir species from the lower parts of their elevational range",
+          "location": "Chapter 4, Spruce-Fir Forests, Climate Change Compared to Other Threats",
+          "sub_component": null,
+          "citations": ["DeWan et al. 2010"]
+        },
+        {
+          "text": "the Southern Flying Squirrel's range has expanded into higher elevations, likely due to changes in seasonal temperatures and changes in habitat structure and composition. Southern Flying Squirrels pose a threat to CNFS because it is a vector of the Strongyloides robustus nematode",
+          "location": "Chapter 3, Mammals, Threats and Problems",
+          "sub_component": null,
+          "citations": ["Weigl 2007", "Garroway et al. 2010"]
+        }
+      ],
+      "absence_note": {}
+    }
+  },
+  "actions": {
+    "priority_habitat_identification": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Figure 6.3-1. Map depicting NC and adjacent state COAs developed by SECAS for 2025 SWAPs",
+          "location": "Chapter 6, Section 6.3.1, Conservation Opportunity Areas",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "The 2025 COAs identified in this analysis span 16.8 million acres, covering about 52% of the state's inland landscapes",
+          "location": "Chapter 6, Conservation Opportunity Areas, 2025 COAs",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "The results of the 2025 COA analysis are classified into three tiers of priority based on the known presence of SGCN and established aquatic focus areas (e.g., 2015 riparian COAs), ecological connectivity priorities from the Blueprint, and regional conservation priorities",
+          "location": "Chapter 6, Conservation Opportunity Areas, 2025 COAs",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "targeted_range_shift_actions": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Protect potential migration corridors and preserve connectivity that allows for species and ecosystem migration.",
+          "location": "Chapter 4, Statewide Aquatic Community Recommendations, Management Practices",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Protect conservation corridors that run from shorelines inland to facilitate habitat migration",
+          "location": "Chapter 4, Estuarine Aquatic Communities, Conservation Programs and Partnerships",
+          "sub_component": null,
+          "citations": ["DeWan et al. 2010"]
+        },
+        {
+          "text": "Allow barrier islands to migrate, as it increases their chance of survival and reduces the chance of sudden and drastic changes in tidal regime in the estuaries.",
+          "location": "Chapter 4, Estuarine Wetland Communities, Management Practices",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document advocates for structural facilitation of range shifts (corridors spanning climate gradients, allowing coastal habitat migration) in multiple places. No direct manipulation actions (assisted migration, translocation for climate adaptation) are explicitly proposed. Score 1 based on structural facilitation."
+    },
+    "time_bound_and_monitoring": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Long-term monitoring is critical to assessing species and ecosystem health and gauging the resilience of organisms to a changing climate. These monitoring efforts will inform future decisions on how to manage aquatic species.",
+          "location": "Chapter 4, multiple aquatic community sections, Monitoring",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Monitor phenology of priority species and Spruce-Fir communities in relation to climate change. Monitor microhabitat and microclimate characteristics in Spruce-Fir salamander communities in relation to climate change.",
+          "location": "Chapter 4, Spruce-Fir Forests, Monitoring",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The plan calls for monitoring broadly but does not attach specific deadlines to individual conservation actions at the action-table level. The 10-year revision cycle is plan-level, not action-level. Score 1 for having clear plan-level review cycle without action-level deadlines. Effectiveness monitoring for climate adaptation is recommended but not systematically operationalized."
+    },
+    "evidence_of_efficacy": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "two wetlands restored in the Sandhills by the NCWRC exhibited greater numbers of species after restoration than before. One pond supported only three species of amphibians prior to restoration efforts, and none were SGCN. After management work was conducted, 12 species of amphibians were detected using the wetland, including two SGCN species (Pine Barrens Treefrog and Eastern Tiger Salamander)",
+          "location": "Chapter 3, Amphibians, Management Needs",
+          "sub_component": null,
+          "citations": ["NCWRC unpublished"]
+        },
+        {
+          "text": "Wood Storks were first detected in North Carolina in 2005 during an aerial survey by NCWRC biologists for Bald Eagle nests. Since then, NCWRC has been providing annual updates on Wood Stork population trends and colony activities in the state... The number of Wood Stork nests detected using aerial and ground surveys grew from 32 in 2005 to a peak of 698 nests in 2021.",
+          "location": "Appendix 2, Success Story - Wood Stork",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Studies that assess the effectiveness of specific actions and application of general adaptation management principles for amphibian SGCN should be targeted at high-risk areas as well as resilient locations where species are most likely to persist or migrate toward new sites following impacts from threats",
+          "location": "Chapter 3, Amphibians, Knowledge Gaps",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "Evidence of efficacy is present but primarily at the level of prior conservation outcomes (case studies) rather than rigorous before-after controlled studies. Score 2 reflects limited but real evidence from field case studies.",
+      "projects": ["Sandhills wetland restoration for amphibians (NCWRC unpublished): Two wetlands restored in the Sandhills showed dramatic increases in amphibian species richness post-restoration, with SGCN colonizing restored ponds that lacked them prior to management.", "Wood Stork population monitoring and habitat conservation in North Carolina (2005-2024): Annual monitoring documented a 22-fold increase in nesting from 32 to 698 nests, leading to the species being downlisted from endangered to threatened and proposed for delisting.", "Roanoke Logperch recovery (NCWRC/USFWS Safe Harbor): Reintroduction efforts under the Programmatic Safe Harbor Agreement resulted in the Roanoke Logperch being delisted from the ESA in 2025, demonstrating successful population recovery."]
+    },
+    "adaptation_planning_frameworks": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "The AFWA 2022 (2nd Edition) Voluntary Guidance for States to Incorporate Climate Adaptation in State Wildlife Action Plans provides recommended steps for developing and implementing adaptation strategies.",
+          "location": "Chapter 5, Climate Change, Incorporating Climate Change",
+          "sub_component": null,
+          "citations": ["AFWA 2022"]
+        },
+        {
+          "text": "In 2024, the NCWRC developed its first Climate Resiliency Strategy (herein referred to as 'the Strategy') to ensure the responsible management and protection of the state's ecosystems and species",
+          "location": "Chapter 5, Climate Change, Incorporating Climate Change",
+          "sub_component": null,
+          "citations": ["NCWRC 2024"]
+        },
+        {
+          "text": "Two well-known examples of frameworks include the Resist-Accept-Direct (RAD) Framework developed by the U.S. National Park Service and the Climate Adaptation in Practice: Resistance, Resilience and Transition (RRT) Framework developed by Colorado State University.",
+          "location": "Appendix 5, Reference Document 5-2, Adaptation Strategies",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "RAD and RRT frameworks are named in the SECAS regional reference document appended to the SWAP. The main chapters use the AFWA voluntary guidance framework explicitly. Score 2 for naming specific frameworks and processes (RAD, RRT, AFWA voluntary guidance, Climate Resiliency Strategy)."
+    }
+  },
+  "coding_meta": {
+    "coder": "llm:claude-sonnet-4-6",
+    "model": "claude-sonnet-4-6",
+    "provider": "claude",
+    "codebook_version": "0.4",
+    "ingest": "text",
+    "design": "single",
+    "temperature": null,
+    "thinking": null,
+    "thinking_effort": null,
+    "coded_at": "2026-07-06T18:39:24Z",
+    "notes": {}
+  }
+}

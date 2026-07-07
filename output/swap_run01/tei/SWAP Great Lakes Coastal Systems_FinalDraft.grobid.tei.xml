@@ -1,0 +1,2444 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main"></title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Rachel</forename><forename type="middle">A</forename><surname>Hackett</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Great Lakes Coastal Systems Contributors</orgName>
+								<orgName type="department" key="dep2">Nature Association Audubon Great Lakes U.S. Fish and Wildlife Service Michigan Department of Environment, Great Lakes and Energy (EGLE) Michigan Department of Natural Resources U.S. Geological Survey</orgName>
+								<orgName type="department" key="dep3">Michigan Department of Natural Resources</orgName>
+								<orgName type="institution" key="instit1">Michigan Natural Features Inventory Bay Mills Indian Community Keweenaw Bay Indian Community Michigan</orgName>
+								<orgName type="institution" key="instit2">Michigan Fish and Wildlife Cooperative Research Unit Lake Superior State University</orgName>
+								<address>
+									<settlement>Lansing</settlement>
+									<region>MI</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Logan</forename><forename type="middle">M</forename><surname>Rowe</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Great Lakes Coastal Systems Contributors</orgName>
+								<orgName type="department" key="dep2">Nature Association Audubon Great Lakes U.S. Fish and Wildlife Service Michigan Department of Environment, Great Lakes and Energy (EGLE) Michigan Department of Natural Resources U.S. Geological Survey</orgName>
+								<orgName type="department" key="dep3">Michigan Department of Natural Resources</orgName>
+								<orgName type="institution" key="instit1">Michigan Natural Features Inventory Bay Mills Indian Community Keweenaw Bay Indian Community Michigan</orgName>
+								<orgName type="institution" key="instit2">Michigan Fish and Wildlife Cooperative Research Unit Lake Superior State University</orgName>
+								<address>
+									<settlement>Lansing</settlement>
+									<region>MI</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Michael</forename><forename type="middle">J</forename><surname>Monfils</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Great Lakes Coastal Systems Contributors</orgName>
+								<orgName type="department" key="dep2">Nature Association Audubon Great Lakes U.S. Fish and Wildlife Service Michigan Department of Environment, Great Lakes and Energy (EGLE) Michigan Department of Natural Resources U.S. Geological Survey</orgName>
+								<orgName type="department" key="dep3">Michigan Department of Natural Resources</orgName>
+								<orgName type="institution" key="instit1">Michigan Natural Features Inventory Bay Mills Indian Community Keweenaw Bay Indian Community Michigan</orgName>
+								<orgName type="institution" key="instit2">Michigan Fish and Wildlife Cooperative Research Unit Lake Superior State University</orgName>
+								<address>
+									<settlement>Lansing</settlement>
+									<region>MI</region>
+								</address>
+							</affiliation>
+						</author>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">CF8F35149039B3B55213FAE15C4E0860</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.1" ident="GROBID" when="2026-07-06T12:27+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>What are Great Lakes Coastal Systems?</head><p>Michigan's Great Lakes shoreline is home to a wide variety of natural communities, including dunes, beaches, cliffs, bedrock lakeshores, and wetlands. These coastal systems are constantly shaped by changing lake levels, wind, waves, ice scour and other natural forces. With the exception of wetlands and wooded dune and swales, many of these coastal systems are sparsely vegetated with little or no soil development. Open dunes, predominantly composed of loose sand, are formed and reshaped by strong lake winds, resulting in a sparse plant community (Albert 1999). Similarly, sand and gravel shores are consistently shaped by wind, waves and ice, resulting in an unstable environment for plant communities (Albert 2007c). A variety of bedrock communities can be found along the Great Lakes coastal zone. Soil development and plant establishment are limited to depressions in the bedrock where organic matter can accumulate, resulting in sparse plant communities (</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Why are Great Lakes coastal systems important?</head><p>The Great Lakes shoreline is one of Michigan's most iconic features, drawing millions of visitors each year. With its sweeping sand dunes, gravel beaches, and scenic cliffs, the coast supports a $29 billion tourism industry. Beyond their beauty and recreational appeal, these places are also essential for wildlife and clean water.</p><p>The value of natural Great Lakes coastal ecosystems and the services they provide is often underestimated. Great Lakes Coastal Systems offer habitat for plants and animals found nowhere else. Meanwhile, coastal wetlands play a powerful role in protecting both people and the environment. For example, they absorb floodwaters from heavy rains and snowmelt, reducing flood risk in nearby communities. They also act as natural filters, removing excess nutrients, sediments, and pollutants from water before it reaches rivers, lakes, and groundwater. This improves water quality for swimming, drinking, and wildlife.</p><p>Wetlands are also some of the most wildlife-rich habitats in the state. They support a wide range of species including common loon, American mink, North American beaver, and bald eagle. These areas are also popular with hunters, anglers, kayakers, birdwatchers, and photographers.</p><p>What is the health of Great Lakes coastal systems?</p><p>In 2025, there were 434 documented Great Lakes Coastal Systems in Michigan's Natural Heritage Database, covering nearly 155,000 acres. The majority of these natural communities are ranked as having excellent or good viability for future persistence. The quality of remaining open dunes, wooded dune and swale complexes, Great Lakes marsh, and lakeplain prairies is generally lower than other systems primarily due to development pressure and invasive species. These coastal systems may need more protections, regulations and management than others.</p><p>Biodiversity conservation assessments were conducted for each of the Great Lakes, including their associated Great Lakes Marsh communities. Lake Erie and Lake Huron were assessed as having fair viability, whereas lakes Michigan and Superior were assessed as good viability <ref type="bibr" target="#b52">(Franks Taylor et al. 2010;</ref><ref type="bibr">Pearsall et al. 2012a;</ref><ref type="bibr">Pearsall et al. 2012b;</ref><ref type="bibr">Lake Superior Binational Program 2015)</ref>. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Natural communities found in Great Lakes</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Accomplishments</head><p>The number of Great Lakes Piping Plover mating pairs increased to 88 in 2025 after a decline due to high water levels in 2018-2020 that reduced the population to 64 pairs. Over the last 10 years, on average, 32 of these pairs were found at Sleeping Bear Dunes National Lakeshore (Cavalieri pers. comm.). </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Focal species</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Black Tern</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Chlidonias niger</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>State Threatened</head><p>Black terns are small migratory birds and the smallest tern species found in Michigan. Black terns prefer marshes with extensive stands of emergent vegetation such as bulrush, cattail, sedge, or wild rice and large areas of open water with floating plant material for nesting <ref type="bibr" target="#b89">(Soulliere et al. 2007)</ref>. They also need wetland complexes greater than 50 acres in size <ref type="bibr" target="#b89">(Soulliere et al. 2007)</ref>.</p><p>Habitat suitability appears to be determined more by landscape structure at a larger scale (wetland complex) than local vegetation conditions within wetlands, and terns selectively choose high-density wetland landscapes <ref type="bibr" target="#b56">(Heath et al. 2020</ref>). Among marsh bird species, Black Terns face the most significant declines in the Great Lakes <ref type="bibr">(Tozer 2015)</ref>. Between 1966 and 2019, Black Terns have declined 2.4% annually throughout the U.S., and by 7.6% in the state of Michigan <ref type="bibr" target="#b84">(Sauer et al. 2020)</ref>. Black Terns are predicted to lose 97% of breeding habitat across a significant proportion of their range by 2100, likely contributing to these population declines <ref type="bibr" target="#b94">(Steen and Powell 2012)</ref>. This decline in active colony sites has been further documented by a more recent statewide study by Audubon Great Lakes <ref type="bibr" target="#b37">(Beilke et al. 2025)</ref>. The long-term trend for Black Terns across their range and the Great Lakes region indicates a significant decline (Upper Mississippi and Great Lakes Region Joint Venture, unpublished report). This species has been documented from 35 sites in 20 counties in Michigan as of 2025 in the state's Natural Heritage Database and 14 of these occurrences were observed within the last 20 years <ref type="bibr">(2005</ref><ref type="bibr" target="#b91">-2025;</ref><ref type="bibr">MNFI 2025)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Goals</head><p>• Determine key population limiting factors.</p><p>• Develop an inventory, and categorize the health, of Black Tern nesting sites across Michigan. • Promote habitat management at large breeding colonies, including encouraging and maintaining floating vegetation mats for nesting.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Eastern Fox Snake</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Pantherophis gloydi</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>State Threatened</head><p>Eastern fox snakes are identified by the dark brown or black blotches down their back and sides and a yellowish to light brown body. They will buzz their tail when threatened and can be mistaken for a venomous snake. However, they are harmless and provide a great rodent control service. These snakes are seldom found far from water and can swim long distances <ref type="bibr">(Harding 1997)</ref>. They inhabit wetlands along the shorelines of the Great Lakes and can be associated with large rivers and impoundments <ref type="bibr" target="#b50">(Evers 1994)</ref>. They primarily occur in open wetlands but will occupy drier habitats such as vegetated dunes and beaches <ref type="bibr">(Harding 1997)</ref>. Uncommon or rare in many areas where they were once abundant, Eastern fox snakes occur only in the Great Lakes basin in southern Ontario, Michigan and Ohio. There has been a population reduction of more than 50% over the last 10 years. This species has been documented from 52 sites in 8 Michigan counties as of 2025 in the state's Natural Heritage Database. 34 of these occurrences were observed within the last 30 years <ref type="bibr">(1995</ref><ref type="bibr" target="#b91">-2025;</ref><ref type="bibr">MNFI 2025)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Goals</head><p>• Establish current status, distribution, abundance, threats and management needs of extant populations.</p><p>• Maintain or increase existing populations, particularly large and/or potentially stable populations.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Hine's Emerald Dragonfly</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Somatochlora hineana</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Federally and State Endangered</head><p>Hine's emerald adults have brilliant green eyes and can be distinguished from all other species of Somatochlora by a combination of their dark metallic green thorax with two distinct creamyyellow lateral lines and distinctively shaped terminal appendages. Hine's emerald primarily relies on coastal fen habitats, which are graminoid dominated wetlands that contain seeps, or slowmoving rivulets required by the larvae <ref type="bibr" target="#b46">(Cuthrell 1999)</ref>. This species has been documented from 16 sites in five counties in Michigan as of 2025 in the state's Natural Heritage Database and 11 of these occurrences were observed within the last 20 years <ref type="bibr">(2005</ref><ref type="bibr" target="#b91">-2025;</ref><ref type="bibr">MNFI 2025)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Goals</head><p>• Maintain existing viable populations.</p><p>• Maintain wetland hydrology and quality at known populations.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Lake Huron Locust</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Trimerotropis huroniana</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>State Threatened</head><p>Lake Huron locusts are small ash-gray grasshoppers with dark brown and white markings and wings with a prominent dark band (Bland 2023). They occur only in sparsely vegetated, highquality Great Lakes dunes along northern Lake Michigan, northern Lake Huron and eastern Lake Superior and primarily feed on dune grass, beach grass and wormwood, but will eat other forbs, including the federally threatened pitcher's thistle <ref type="bibr" target="#b80">(Rabe 1999)</ref>. Lake Huron locusts are endemic to the Great Lakes and the long-term decline is estimated to be as high as 50% (NatureServe 2025). This species has been documented from 90 sites in 18 counties in Michigan as of 2025 in the state's Natural Heritage Database and 13 of these occurrences were observed within the last 20 years (2005-2025; MNFI 2025).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Goals</head><p>• Maintain existing viable populations.</p><p>• Determine population status at 15 occurrences along the Great Lakes.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Piping Plover</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Charadrius melodus</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Federally and State Endangered</head><p>Piping plovers are small shorebirds (less than 8 inches tall) that nest on sand, gravel, or cobble beaches. They nest on sand, gravel or cobble beaches and prefer wide, sandy, open beaches with sparse vegetation and scattered cobble along the Great Lakes <ref type="bibr" target="#b60">(Hyde 1999)</ref>. Piping plover conservation is a priority for the U.S. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Goals</head><p>• Increase the number of breeding pairs in the Great Lakes to 150. <ref type="bibr">[PIPL]</ref> • Maintain the average number of chicks fledged per pair at or above 1.5. <ref type="bibr">[PIPL]</ref> Pitcher's Thistle </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Cirsium pitcheri</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Federally and State Threatened</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Goals</head><p>• Regularly monitor at least 50% of Michigan populations and document trends annually.</p><p>• Identify populations impacted by non-native weevils.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Maintain dynamic shoreline processes</head><p>Dunes, cobble shores and coastal marshes are dynamic ecosystems shaped and sustained by natural processes such as sand deposition, lake currents, wave action, ice scour and fluctuating lake levels. These fluctuations are essential for maintaining open dunes and shorelines. Coastal marshes have historically adapted to these variable conditions and disturbance regimes.</p><p>Preserving the natural variability and connectivity of shoreline and hydrologic processes is critical to sustaining the ecological integrity and resilience of Great Lakes coastal habitats.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Call Out Box: Great Lakes Coastal Systems on Public Lands</head><p>Most known dune, cobble shore and coastal marsh communities located upon state and federal public lands are generally identified and protected within management systems and provide continuity of habitat for associated focal species. For example, all known dune, cobble shore and coastal marsh communities on state forest land are protected as high conservation value Ecological Reference Areas, and most of the remainder of coastal dunes communities in Michigan are located within state and federal parks and national forest land.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Focal species adaptive capacity</head><p>Adaptive capacity is a species' ability to tolerate or adapt to environmental change, whether that be through shifting in space or persisting in place <ref type="bibr" target="#b96">(Thurman et al. 2020)</ref>  <ref type="bibr" target="#b89">(Soulliere et al. 2007</ref>).</p><p>• Invasive animals (e.g., quagga mussels, zebra mussels, mute swans, copi [formerly Asian carp], invasive thistle weevils) cause changes in nutrient dynamics and food webs, disease outbreaks including large-scale waterbird die-offs and displace native wildlife <ref type="bibr" target="#b73">(Mills et al. 1994;</ref><ref type="bibr">Herbert et al. 2014)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Development and Natural Systems Modifications</head><p>• Bulkheads, breakwalls, jetties, retaining walls, shoreline development and dredging alter hydrology and sediment transport and other natural ecosystem processes <ref type="bibr" target="#b27">(Albert 2001</ref>); these changes can significantly impact the types, quantity and quality of habitats and limit the capacity for dynamic coastal systems to change in space and time in response to fluctuating Great Lakes water levels.</p><p>• Loss of natural disturbance or lack of management that sets back succession in areas dependent on succession; lack of management can be due to inaccessibility or willingness of landowners.</p><p>• Fragmentation of large wetland complexes affects ecological functions.</p><p>• Habitat loss through filling of wetlands.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Transportation &amp; Service Corridors</head><p>• Dredging river mouths during low water levels can cause loss of sand replenishment.</p><p>• Excessive salting and sediment runoff can change plant and amphibian communities and invite invasive species establishment or expansion <ref type="bibr" target="#b95">(Stoler et al. 2018</ref><ref type="bibr" target="#b69">, Meindl et al. 2020)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Human Intrusions &amp; Disturbance</head><p>• Unrestricted beachgoers, jet skis and ORVs can introduce invasive species, disturb wildlife and destabilize habitats (USFWS 2003, <ref type="bibr" target="#b63">Kost et al. 2007</ref>).</p><p>• Limestone mining along coastal areas poses threats to habitat quality.</p><p>• Residential and commercial development can destroy habitat and impact coastal ecosystem functions including hydrology, nutrient cycling, sedimentation and more <ref type="bibr" target="#b67">(Lee et al. 2006)</ref>.</p><p>Agriculture &amp; Aquaculture</p><p>• Conversions to other land uses and tiling and draining of agricultural fields changes wetland hydrology <ref type="bibr" target="#b27">(Albert 2001</ref>).</p><p>• Sand mining permanently alters natural processes of dune and adjacent ecosystems.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Pollution</head><p>• Point and non-point source pollutions such as nutrient runoff from Areas of Concern (AOC), septic systems, lawns and agricultural increases rates of eutrophication sedimentation and other contaminants <ref type="bibr" target="#b27">(Albert 2001</ref><ref type="bibr" target="#b63">, Kost et al. 2007</ref>).</p><p>• Many factors contribute to harmful algae blooms (e.g., wind and water currents, excess nutrients, high water temperatures and extreme weather events; NOAA 2024), which may cause fish kills and discolored or foul-smelling water, affecting both human and ecosystem health.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Changing Weather Patterns</head><p>• Changing weather pattern effects like higher temperatures, summer drought, longer growing season and greater variability in lake level fluctuations will likely result in greater evapotranspiration and evaporation, less soil moisture and smaller/fewer wetlands (DeVries-Zimmerman et al. 2021).</p><p>• Precipitation is very likely to become more extreme and less consistent increasing the frequency and severity of flash flooding and drought resulting in less consistent moisture for wetlands and greater impacts from runoff pollution. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Threats and conservation actions for focal species</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Black Tern</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Threats</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Lack of Knowledge</head><p>• Lack of information on limiting factors, key habitat needs and basic biology throughout the species' life cycle. More research is needed to understand the habitat and other factors associated with nest colony abandonment and colonization <ref type="bibr" target="#b90">(Soulliere et al. 2018)</ref>.</p><p>Invasive &amp; Problematic Species, Pathogens &amp; Genes</p><p>• Disturbance from predators and humans (e.g., wake from shipping and water recreation, air boats running over nests) <ref type="bibr">(Currier 2000)</ref>.</p><p>• Predation of eggs by raccoons and mink has been consistently documented at multiple breeding sites (e.g., Wigwam Bay, Portage Marsh, Shiawassee NWR). Chicks may be taken by owls, raptors, and occasionally large fish such as northern pike. While predation does not appear to be the greatest threat across all colonies, localized predation events can cause significant nest failure.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Changing Weather Patterns</head><p>• Changing weather patterns could have a variety of impacts: higher lake levels could decrease available habitat; colonies could get swamped due to increased precipitation or intense storms; intense storms can also cause high chick mortality; changes in Great Lakes water levels can affect nesting colony locations and success <ref type="bibr" target="#b59">(Hoving et al. 2013)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conservation Actions</head><p>Conservation Designation &amp; Planning BT1. Maintain habitat in areas with existing nesting colonies <ref type="bibr" target="#b90">(Soulliere et al. 2018)</ref>. Promote floating vegetation mats and in some cases provide supplemental nesting habitat via platforms <ref type="bibr" target="#b37">(Beilke et al. 2025</ref>). [WHCS; SSCP; WBBB] BT2. Restore and enhance degraded emergent marsh, especially in areas where nesting colonies have been abandoned <ref type="bibr" target="#b90">(Soulliere et al. 2018</ref>). <ref type="bibr">[WHCS]</ref> Research &amp; Monitoring BT3. Identify limiting factors for Black Tern to aid management. [JV; JV2; WCA; PIF] BT4. Conduct rapid assessments of breeding sites with information gaps <ref type="bibr" target="#b37">(Beilke et al. 2025</ref>).</p><p>[SSCP] BT5. Determine migration pathways and important overwintering areas for Black Tern.</p><p>[WHCS; CBT] BT6. Determine key habitat components for Black Tern colony site selection and causes of colony abandonment. <ref type="bibr" target="#b10">[JV;</ref><ref type="bibr" target="#b11">JV2]</ref> Eastern Fox Snake</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Threats</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Lack of Knowledge</head><p>• Management decisions are hindered by the lack of information on current status, distribution, key habitat needs and basic biology of Eastern Fox Snake <ref type="bibr" target="#b68">(Lee 2009)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Residential &amp; Commercial Development</head><p>• Development and agriculture can destroy and degrade habitat <ref type="bibr">(Harding 1997</ref>).</p><p>• Roads and bank stabilization infrastructure, such as bulkheads and retaining walls, can cause mortality, disrupt movements and remove and/or fragment wetland and upland habitats <ref type="bibr" target="#b68">(Lee 2009)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Human Intrusions &amp; Disturbance</head><p>• Human persecution and illegal collection have contributed to the species' decline <ref type="bibr">(Harding 1997)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Natural System Modifications</head><p>• Inappropriate habitat management during critical life stages, specifically flooding important habitats during hibernation and dike mowing, can reduce individual survival and/or fitness and cause population declines <ref type="bibr" target="#b68">(Lee 2009</ref>).</p><p>• Degradation of habitat due to invasive species infestations can impact connectivity and access to resources, reducing species fitness and/or survival.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conservation Actions</head><p>Conservation Designation &amp; Planning FS1. Use conservation easements and acquisition to protect, secure and expand occupied sites.</p><p>Research &amp; Monitoring FS2. Conduct surveys and monitoring to determine current status, distribution and abundance of extant populations to identify large and potentially stable populations. FS3. Determine habitat requirements and identify limiting factors for the Eastern fox snake to aid management.</p><p>[CRA] FS4. Identify hibernacula and nesting areas for the Eastern fox snake. <ref type="bibr">[CAS; CRA]</ref> FS5. Investigate and compare survey and monitoring methods to increase effectiveness and efficiency in detecting and monitoring this species. FS6. Determine if the species is genetically distinct from the Western fox snake (Pantherophis vulpinus) and implications for species management in Michigan.</p><p>Land and Water Management FS7. Maintain, restore and/or expand availability and quality of suitable wetland and upland habitats at occupied sites, including controlling invasive species such as common reed/Phragmites and narrow-leaved cattail. <ref type="bibr">[BMPF]</ref> Law &amp; Policy FS8. Take actions to prevent illegal collection for the pet trade, such as work with DNR law enforcement and local authorities, and reduce incidental collection by the general public.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Hine's Emerald Dragonfly</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Threats</head><p>Lack of Knowledge</p><p>• Management decisions are hindered by the lack of information on specific habitat requirements (including impacts of fragmentation), hydrologic needs, general life history and impacts of herbicides <ref type="bibr">(USFWS 2001</ref><ref type="bibr">(USFWS , 2013))</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Residential &amp; Commercial Development</head><p>• Development of habitat leads to loss or degradation, reducing usable spaces for this species <ref type="bibr">(USFWS 2001</ref><ref type="bibr">(USFWS , 2013))</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Pollution</head><p>• Sensitive to degraded water quality (i.e., contamination via herbicides, oil, fertilizers and other contaminants) (USFWS 2001, 2013; Zercher and The Hine's Emerald Dragonfly Recovery Team 2001).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Changing Weather Patterns</head><p>• Sensitive to environmental extremes due to long larval stage <ref type="bibr">(USFWS 2001</ref><ref type="bibr">(USFWS , 2013))</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conservation Actions</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Species Management</head><p>HE1. Implement the Hine's Emerald Dragonfly Recovery Plan through multiple steps, including but not limited to surveys, conducting research (e.g., hydrology, population dynamics, ecology, life history, etc.) and habitat management. <ref type="bibr">[RPHE]</ref> Conservation Designation &amp; Planning HE2. Develop site conservation plans for Hine's Emerald Dragonfly. <ref type="bibr">[RPHE]</ref> Research &amp; Monitoring HE3. Determine feasibility and cost effectiveness of larval surveys for Hine's emerald dragonfly. HE4. Determine other limiting factors affecting populations to aid management through larval and adult population monitoring <ref type="bibr">[RPHE; FWHE]</ref> Lake Huron Locust</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Threats</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Lack of Knowledge</head><p>• Poor understanding of current status along the Great Lakes shoreline, including population trends and host plant availability.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Residential &amp; Commercial Development</head><p>• Increased residential and commercial development along shoreline alters or destroys habitat.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Human Intrusions &amp; Disturbance</head><p>• ORV trails and recreational use of lakeshore disturbs habitat.</p><p>Invasive &amp; Problematic Species, Pathogens &amp; Genes</p><p>• Invasive species (e.g., Spotted Knapweed, Baby's Breath) encroach on habitat, outcompeting host plants.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Climate Change &amp; Severe Weather</head><p>• Changes in Great Lakes water levels can affect habitat availability and connectivity for Lake Huron locust.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conservation Actions</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Species Management</head><p>LHL1. Protect and maintain the existing viable populations. <ref type="bibr">[RSLH]</ref> LHL2. Determine population status at 15 populations along the Great Lakes, including relative abundance and population trends. <ref type="bibr">[RSLH]</ref> Conservation Designation &amp; Planning • Because population numbers are so low, diseases like Type E Botulism and Avian Influenza can have significant impacts (USFWS 2009).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Changing Weather Patterns</head><p>• Changing weather patterns and severe weather events may have a variety of impacts, including sea-level rise on wintering grounds that restrict habitat, changes in food availability due to timing of insect emergence, temperature changes and increases in invasive species <ref type="bibr" target="#b59">(Hoving et al. 2013</ref>).</p><p>• High lake levels can flood habitats or wash out nests during storms <ref type="bibr" target="#b44">(Cuthbert et al. 2003</ref> </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Places for partnership</head><p>This map was created in collaboration with partners and highlights focal areas (yellow) to work in over the next 10 years while showcasing the general areas (green) covered by Great Lakes Coastal Systems. Creating shared goals helps focus efforts and build collaboration. While this map has a select few areas highlighted, conservation work benefitting any Great Lakes Coastal System is welcome and encouraged.</p><p>How will we monitor?</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Habitat</head><p>• Continue to survey and update quality rankings for Great Lakes Coastal Systems in the state's Natural Heritage Database.</p><p>• Develop monitoring protocols to evaluate the ecological integrity of Great Lakes Coastal systems and implement monitoring in reference sites.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Focal Species</head><p>Piping Plover</p><p>• Continue to use existing monitoring and research (color band) programs.</p><p>• Continue to update the state's Natural Heritage Database. Black Tern</p><p>• Continue the Michigan Marsh Bird Survey to assess distribution and abundance.</p><p>• Use community science programs, like eBird, to assess distribution and abundance.</p><p>• Work with partners, such as Audubon Great Lakes, to monitor known populations. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Linkages to other conservation plans</head><p>[ACPP] Guidelines for managing recreational activities in Piping Plover breeding habitat on the U.S. Atlantic coast to avoid take under section 9 of the Endangered Species Act <ref type="bibr">(USFWS 1994)</ref> [ACCP] Atlantic Coast Piping Plover Strategic Communications Plan: Reducing Human Disturbance, <ref type="bibr">2017</ref><ref type="bibr" target="#b75">-2021</ref><ref type="bibr">(USFWS 2017) )</ref> </p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head></head><label></label><figDesc>Fish and Wildlife Service, the Upper Mississippi River and Great Lakes Region Joint Venture and Michigan's Department of Natural Resources. Management efforts are ongoing as their populations are still critically low. Captive-rearing efforts continue to supplement the population and, in 2025, released 36 chicks into the wild, bringing the fledge rate to 1.6 chicks/pair (above the recovery goal of 1.5 chicks/pair annually). Despite gains made due to intense conservation efforts, the species remains vulnerable to extirpation in the Great Lakes Region<ref type="bibr" target="#b45">(Cuthbert 2011)</ref>. As of 2025, there were 66 breeding pairs in the state that fledged 70 chicks, an average of 1.06 chicks per pair. This species has been documented from 56 sites in 20 counties in Michigan as of 2025 in the state's Natural Heritage Database and 34 of these occurrences were observed within the last 20 years (2005-2025; MNFI 2025).</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Pitcher' s</head><label>s</label><figDesc>Thistle is a perennial, light pink-or white-flowered thistle. It spends several years as a blue-green, basal rosette of leaves and then one year it produces a long stem with blooms beginning mid-June. The entire plant is covered by white-wooly hairs and blooms are large and cream-colored, occasionally pinkish<ref type="bibr" target="#b58">(Higman and Penskar 1999</ref>). Pitcher's Thistle is endemic to sandy habitat along Great Lakes shores, especially open dunes. In sparsely vegetated Great Lakes Coastal Systems, this species is a keystone food supply for nectar feeders and pollinators when few other species are blooming on beaches. This species has been documented from 172 sites in 26 counties in Michigan as of 2025 in the state's Natural Heritage Database and 144 of these occurrences were observed within the last 40 years(1985<ref type="bibr" target="#b91">-2025;</ref> MNFI  2025).</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="5,72.00,72.00,249.50,249.50" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="6,72.00,72.00,244.80,244.80" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="7,72.00,72.00,268.00,268.00" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="10,72.00,72.00,235.50,235.50" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head></head><label></label><figDesc>Working in partnership, GEI, Michigan State University Department of Geography, Michigan Tech Great Lakes Research Center, Michigan Tech Research Institute, and Michigan Natural Features Inventory developed a rapid assessment methodology to evaluate ecological integrity and geomorphology in dunes and evaluated all of Michigan's dune complexes for designation as Critical Dune Areas.</figDesc><table><row><cell>Five new locations and 77 updated records of Pitcher's Thistle as a result of 2012-2016 field surveys (Slaughter and Cuthrell 2017).</cell></row><row><cell>With funding from U.S. Fish and Wildlife Service (USFWS), U.S. Environmental Protection Agency (EPA), Little Traverse Bay Bands of Odawa Indians, Michigan Department of Natural Resources (DNR), Little Traverse Conservancy, Huron Pines, and Michigan Department of Environment, Great Lakes and Energy, MNFI conducted surveys from 2015 through 2025 and documented 65</cell></row><row><cell>new occurrences of Great Lakes shoreline natural communities (MNFI 2025).</cell></row></table><note><p><p><p><p><p>Conservation efforts, at least partially funded by the Great Lakes Restoration Initiative, led to the establishment or re-establishment of 13 new Piping Plover sites across the Great Lakes since 2015, including six sites in Michigan (Cavalieri pers. comm.). Designed a unique floating platform to address nest failure and risks of Black Tern populations decline in Michigan by Stantec and Audubon Great Lakes (Stantec 2025). Confirmed breeding observations of Black Terns at 43 of 92 sites in Michigan from 2021-2024 by Audubon Great Lakes scientists.</p>In 2018-2020, Audubon Great Lakes treated invasive plants in Wigwam Bay State Wildlife Area with herbicide and monitored for seven marsh birds, including the Black Tern, resulting in population estimates and a conservation action plan (AGL 2021).</p>Michigan Natural Features Inventory developed draft monitoring protocols for evaluating the ecological integrity of coastal fen, Great Lakes marsh, lakeplain prairie, and open dunes</p><ref type="bibr" target="#b40">(Cohen and Enander 2019)</ref></p>.</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head></head><label></label><figDesc>. Michigan Natural Features Inventory, with funding support from the Michigan Department of Natural Resources, assessed Adaptive Capacity for over 500 Midwest SGCN from 2023-2024 (Appendix 3). We chose to increase clarity at expense of precision in technical language used by Thurman et al. (2020) in their paper. The Michigan Department of Natural Resources created broad management strategies based off assessment results and are intended to be stepped down based on management scale, capacity and resources. Management strategies for assessed 2025-2035 focal species are:</figDesc><table><row><cell></cell><cell cols="2">Lowest adaptive capacity Strategy</cell></row><row><cell>Black Tern</cell><cell>Range of Tolerances</cell><cell>Increase habitat connectivity</cell></row><row><cell>Eastern Fox Snake</cell><cell>Population Size</cell><cell>Increase habitat connectivity</cell></row><row><cell>Hine's Emerald Dragonfly</cell><cell>Movement</cell><cell>Manage genetic diversity</cell></row><row><cell>Lake Huron Locust</cell><cell>Movement</cell><cell>Manage genetic diversity</cell></row><row><cell>Piping Plover</cell><cell>Range of Tolerances</cell><cell>Enhance reproduction or survival</cell></row><row><cell cols="3">Threats and conservation actions for habitat</cell></row></table><note><p>Threats Invasive &amp; Other Problematic Species, Genes &amp; Diseases • Invasive plants (e.g., Phragmites, Lyme grass, baby's breath, glossy buckthorn, invasive cattails) cause changes in structural diversity, natural processes and microhabitats</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head></head><label></label><figDesc>Educate policymakers on the value and importance of Great Lakes coastal ecosystems and how to protect them. H11. Educate private landowners on the values of Great Lakes ecosystems, management and the wildlife that rely on them. Work with existing private lands programs within the U.S. Forest Service, U.S. Fish and Wildlife Service, Natural Resources Conservation Service, Department of Natural Resources and Department of Agriculture and Rural Development. H12. Promote voluntary best management practices for stopping the introduction and spread of invasive species by recreational users, researchers and industry. [TIS; AIS] H13. Continued support for voluntary best management programs like the Clean, Drain, Dry Initiative and Clean Boats, Clean Water and their grantees' efforts to increase awareness and reduce transportation of aquatic invasive species. Explore opportunities to work with the Army Corps of Engineers regarding sediment shifts to protect important Great Lakes wetlands. [MCMP] H20. Identify high-quality Great Lakes coastal ecosystems in climate resilient landscapes and incorporate into conservation planning and management. Focus survey efforts in Upper Peninsula where high-quality systems are most likely to occur and that are more vulnerable to development. [LSCC] H21. Develop best management practices and implement recommendations for climatesmart wetland infrastructure that is engineered to withstand projected extreme precipitation events over the design-life of the project rather than the mean of past precipitation events. [GLCC] H22. Re-evaluate Critical Dune Areas and assess new potential areas. [AMCD] Work with land planners and EPA 319 watershed groups to promote, develop and implement model ordinances and best management practices to support conservation and protection of wetland and shoreline communities. [RGLP; SBWLE] H24. Continue to administer an effective EGLE protection program for wetlands and provide incentives for conservation practices. H25. Target mitigation dollars from EGLE and Natural Resources Damage Assessment (NRDA) on priorities identified in this plan. H26. Support continuation of Great Lakes Restoration Initiative, Coastal Zone Management grants program, North America Wetlands Conservation Act and other programs that support Great Lakes coast conservation and management. [SSH] H27. Take appropriate enforcement actions for violations of the Michigan Threatened and Endangered Species Act (NREPA Part 365), the Invasive Species Order (NREPA Part 413) and maintain the Prohibited and Restricted Species list pursuant to the Natural Resources and Environmental Protection Act, P.A. 451. Work with EGLE, and conservation NGOs such as Audubon Great Lakes, on landscape level assessments of wetlands. H30. Fund work to better predict and mitigate climate effects on most vulnerable Great Lakes coastal ecosystems and species. H31. Develop monitoring protocols to evaluate the ecological integrity and biodiversity of Great Lakes Coastal Systems and implement monitoring of reference sites.</figDesc><table><row><cell>H5.</cell><cell>Use invasive plant species prioritization tools to focus restoration efforts in the</cell></row><row><cell>H6.</cell><cell>ecologically most important areas (Cohen et al. 2024). Implement Michigan's Aquatic and Terrestrial Invasive Species State Management Plans.</cell></row><row><cell cols="2">Raising Awareness</cell></row><row><cell cols="2">Conservation Actions Land &amp; Water Management H1. Restore, manage and protect Great Lakes coastal ecosystems on state, federal and private lands for focal species. [MLCP] H2. Soften shorelines from bulkheads or retaining walls to options that are more wildlife friendly. Use Areas of Concern remedial action plans to focus efforts. [MLCP] H3. Manage for priority invasive species and address factors causing ecosystem susceptibility to invasion (e.g., degraded water quality, salt from roads, altered flood H4. AIS; GLCC] Continue early detection and rapid response efforts for invasive species. [GSCP' TIS; management plans. [GSGP; TIS; AIS; GLCC; BMPF; WBBB] or hydrological regime). Develop long-term and regional integrated invasive H7. Develop and promote educational materials about natural processes of Great Lakes coastal ecosystems and responsible recreation. [MCMP] H8. Work with agencies and industry to make dredging and other projects more wildlife friendly. [GLCC] H9. Support and participate in Great Lakes Coastal Assembly. [GLCA] H10. Expand efforts to other recreational vehicles. [GSCP] H14. Promote and use Michigan's HerpAtlas website and app (http://www.miherpatlas.org), Midwest Invasive Species Information Network website and app (www.misin.msu.edu). H15. Regularly update and fund outreach on aquatic and terrestrial watch list invasive species. [TIS; AIS] Conservation Designation &amp; Planning H16. Use conservation easements and acquisition to increase long-term viability of restored habitats. [GLCC] H17. Find common conservation objectives and collaboration opportunities with Tribal communities, such as wild rice restoration to enhance marsh habitat. Consider cultural importance of natural communities beyond biological and economic significance. H18. Develop and promote best practices for including important habitat components for focal species during habitat management, similar to the waterfowl management handbook {Nelms et al. 2007). H23. Research &amp; Monitoring H19. Law &amp; Policy H28. Monitor management and restoration activities to evaluate results and share lessons learned. H29.</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_5"><head></head><label></label><figDesc>) and prolonged low lake levels can result in open beaches becoming densely vegetated but can also result in increased potential nesting habitat. Continue nest site identification, protection and monitoring for piping plovers.[RGLP]   PP3. Continue salvage captive rearing program for piping plovers and continue to evaluate and modify the program as needed to increase effectiveness. PP4. Continue to maintain current and historical prioritized habitat with invasive species management and coastal modifications (e.g., pushing back tree line, increasing beach width). . Use new technology, as it becomes available, to increase efficiency of work and quality of data for monitoring, planning and evaluations. PP10. Use existing citizen science efforts, such as eBird, to find new nesting sites of Piping Plover. PP11. Continue ongoing efforts to monitor and respond to Type E Botulism and other emergency issues. PP12. Continue color banding of piping plovers to determine population demographic information and movements.</figDesc><table><row><cell>Conservation Actions</cell></row><row><cell>Species Management</cell></row><row><cell>PP1. Continue predator management at piping plover sites using lethal and nonlethal techniques as needed and as permitted; explore using electric fencing and other options to exclude predators. [RGLP; MGPP; ACPP]</cell></row><row><cell>PP2. Raising Awareness</cell></row><row><cell>Conservation Designation &amp; Planning</cell></row><row><cell>PP6. Develop and implement long-term regional management plans for Piping Plover nesting areas that provide specific management guidance at current, historical and potential sites. [RGLP] PP7. Revise and implement the Piping Plover Recovery Plan and include a disease response plan. PP8. Develop a Piping Plover business plan with partners to create short-and long-term</cell></row><row><cell>budgets that address resources needed to continue conservation post-delisting of Piping Plover.</cell></row><row><cell>Research &amp; Monitoring</cell></row><row><cell>Pitcher's Thistle</cell></row></table><note><p>PP5. Continue and expand Piping Plover education and outreach efforts (e.g., social media); consider installing nest cameras in the wild or at captive nests, or conducting open houses to gain local support, etc. [RGLP; MGPP] PP9</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_6"><head></head><label></label><figDesc>• Continue to update the state's Natural Heritage Database. Eastern Fox Snake • Survey known and potential new sites to determine distribution and abundance. • Continue monitoring status, distribution and population demographics with existing databases such as the state's Natural Heritage Database, iNaturalist and HerpMapper. • Continue to update the state's Natural Heritage Database. Hine's Emerald Dragonfly • Conduct adult surveys at known occupied sites. • Survey for new Hine's emerald locations. • Continue to update the state's Natural Heritage Database. Lake Huron Locust • Conduct time-meander survey transects. • Continue to update the state's Natural Heritage Database. Pitcher's Thistle • Annually collect standardized count-based and density population measurements. • Annually document any observable changes within a population and its occupied area. • Continue to update the state's Natural Heritage Database.</figDesc><table /></figure>
+		</body>
+		<back>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Threats Human Intrusions &amp; Disturbance</head><p>• Trampling from beach and dune visitors and off-road vehicle use destroy plants and increase frequency of dune destabilization (USFWS 2002).</p><p>• Sand mining operations decrease the extent of dune habitat and potential habitat for Pitcher's thistle.</p><p>Invasive &amp; Problematic Species, Pathogens &amp; Genes</p><p>• Introduced thistle weevils decrease seed viability and plant vitality <ref type="bibr" target="#b55">(Havens et al. 2012</ref>).</p><p>• Shoreline invasive species like baby's breath and spotted knapweed impact habitat and populations <ref type="bibr" target="#b55">(Havens et al. 2012)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Natural System Modifications</head><p>• Habitat destruction and degradation through development, sand mining, beach and dune stabilization projects (USFWS 2002).</p><p>• Shoreline stabilization projects (e.g., jetties, seawalls) alters local dune processes and prevents the creation and maintenance of habitat (USFWS 2002).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Changing Weather Patterns</head><p>• More frequent high lake levels predicted with climate change will reduce the vitality of near-shore populations <ref type="bibr" target="#b106">(Vitt et al. 2024</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conservation Actions</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Species Management</head><p>PT1. Restore two historic sites where sufficient habitat remains in southern Lower Michigan <ref type="bibr">(USFWS 2002</ref><ref type="bibr" target="#b53">, Halsey et al. 2017</ref>).</p><p>[FWPT] PT2. Investigate potential assisted migration sites and plans <ref type="bibr" target="#b106">(Vitt et al. 2024)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conservation Designation &amp; Planning</head><p>PT3. Collect and bank seeds from a variety of representative populations, prioritizing populations where invasive weevils have not been observed, range edges and genetically unique and representative populations <ref type="bibr" target="#b107">(Vitt et al. 2010</ref>). PT4. Develop management plans for all occurrences in southern Lower Michigan and all complex perched dune systems (USFWS 2002). <ref type="bibr">[FWPT]</ref> Research &amp; Monitoring PT5. Regularly monitor populations to facilitate population-and species-level trend analysis (USFWS 2002). <ref type="bibr">[FWPT]</ref> PT6. Continued research into the effects of non-native weevils on Pitcher's thistle populations <ref type="bibr" target="#b55">(Havens et al. 2012</ref><ref type="bibr" target="#b106">, Vitt et al. 2024</ref>). PT7. Continued research into response and recovery of Pitcher's thistle to high-impact trampling, sand deposition and high-water levels <ref type="bibr" target="#b106">(Vitt et al. 2024</ref>).</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<monogr>
+		<title level="m" type="main">Michigan&apos;s Aquatic Invasive Species State Management Plan 2013 Update</title>
+		<imprint>
+			<date type="published" when="2013">2013</date>
+			<publisher>State of Michigan</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<title level="m" type="main">Information on the Proposed Delineation and Assessment of Michigan&apos;s Critical Dune Area</title>
+		<imprint/>
+	</monogr>
+	<note>EGLE 2025</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<title level="m" type="main">Best Management Practices: Western Foxsnake and Eastern Foxsnake (Missouri Department of Conservation</title>
+		<imprint>
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<title level="m" type="main">Advancing the national fish, wildlife, and plants climate adaptation strategy into a new decade (National Fish, Wildlife, and Plants Climate Adaptation Network</title>
+		<imprint>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<monogr>
+		<title level="m">Conservation of Black Terns -A Michigan Species of Special Concern [CRA] Clinton River Assessment</title>
+		<meeting><address><addrLine>Francis and Haas</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<monogr>
+		<title level="m" type="main">Pitcher&apos;s Thistle (Cirsium pitcheri) Recovery Plan</title>
+		<imprint>
+			<date type="published" when="2002">2002</date>
+			<publisher>USFWS</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<monogr>
+		<author>
+			<persName><forename type="first">'</forename><surname>Hine</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Emerald</forename><surname>Dragonfly</surname></persName>
+		</author>
+		<title level="m">Somatochlora Hineana) 5-year review</title>
+		<imprint>
+			<publisher>USFWS</publisher>
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<monogr>
+		<title level="m">Great Lakes Coastal Assembly 2025-2026 Action Plan</title>
+		<imprint>
+			<publisher>GLCA</publisher>
+			<date type="published" when="2025">2025</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<monogr>
+		<title level="m">Strategies for Adapting Great Lakes Coastal Ecosystems to Climate Change</title>
+		<imprint>
+			<date type="published" when="2022">Schmitt 2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<monogr>
+		<title level="m" type="main">Great Lakes Regional Collaboration Strategy: To Restore and Protect the Great Lakes</title>
+		<imprint>
+			<date type="published" when="2005">GSGP 2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<monogr>
+		<title level="m" type="main">Upper Mississippi Valley / Great Lakes Regional Shorebird Conservation Plan -Version 2</title>
+		<imprint>
+			<date type="published" when="2016">Russell et al. 2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<monogr>
+		<title level="m" type="main">Upper Mississippi River and Great Lakes Region Joint Venture waterbird habitat conservation strategy</title>
+		<imprint>
+			<date type="published" when="2007">Soulliere et al. 2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<monogr>
+		<title level="m" type="main">Lake Superior Climate Change Impacts and Adaptation</title>
+		<imprint>
+			<date type="published" when="2014">2014</date>
+			<pubPlace>Thomas</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration">CSO and EGLE 2025</orgName>
+		</author>
+		<imprint>
+			<publisher>Michigan Coastal Management Program</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<monogr>
+		<title level="m" type="main">Featured Species Habitat Management Guidance for Piping Plover</title>
+		<imprint>
+			<date type="published" when="2016">2016</date>
+			<publisher>MDNR</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<monogr>
+		<title level="m" type="main">Partners in Flight Bird Conservation Plan for the Upper Great Lakes Plain (Physiographic Area 16</title>
+		<imprint>
+			<date type="published" when="2001">2001</date>
+			<publisher>Knutson et al</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<monogr>
+		<title level="m" type="main">Great Lakes Piping Plover Recovery Plan</title>
+		<imprint>
+			<date type="published" when="2003">2003</date>
+			<publisher>USFWS</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<monogr>
+		<title level="m" type="main">Recovery Plan for the Great Lakes Piping Plover (Charadrius melodus)</title>
+		<imprint>
+			<date type="published" when="2003">2003</date>
+			<publisher>USFWS</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<monogr>
+		<title level="m" type="main">Hine&apos;s Emeral Dragonfly (Somatochlora hineana Williamson) Recovery Plan (Zercher and The Hine&apos;s Emerald Dragonfly Recovery Team</title>
+		<imprint>
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<monogr>
+		<title level="m" type="main">Recovery Strategy for the Lake Huron Grasshopper (Trimerotropis huroniana) in Ontario</title>
+		<imprint>
+			<date type="published" when="2018">Jones 2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<monogr>
+		<title level="m" type="main">Saginaw Bay to Western Lake Erie Coastal Wetland Conservation Blueprint [SSCP] Restoring Michigan&apos;s black tern populations: statewide status &amp; conservation action plan</title>
+		<imprint/>
+	</monogr>
+	<note>Beilke et al. 2025</note>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<monogr>
+		<title level="m" type="main">Tools and Tactics Guidebook Phase 2 (Sustainable Small Harbors</title>
+		<imprint>
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<monogr>
+		<title level="m">Terrestrial Invasive Species Management Plan (State of Michigan</title>
+		<imprint>
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<monogr>
+		<title level="m">Restoring Wigwam Bay for Breeding Marsh Birds: 2018-2020 Report and Conservation Action Plan</title>
+		<imprint/>
+	</monogr>
+	<note>AGL 2021</note>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<monogr>
+		<author>
+			<persName><surname>Kushlan</surname></persName>
+		</author>
+		<title level="m">Waterbird Conservation for the Americas: The North American Waterbird Conservation Plan, Version 1 (</title>
+		<imprint>
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<monogr>
+		<title level="m" type="main">Upper Mississippi River and Great Lakes Region Joint Venture Waterbird Habitat Conservation Strategy -2018 Revision (Soulliere et al. 2018) Literature Cited</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Natural community abstract for open dunes</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Albert</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Michigan Natural Features Inventory</title>
+		<meeting><address><addrLine>Lansing, MI, USA</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<monogr>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Albert</surname></persName>
+		</author>
+		<title level="m">Natural community abstract for Great Lakes marsh, updated 2010. Michigan Natural Features Inventory</title>
+		<meeting><address><addrLine>Lansing, MI, USA</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2001">2001</date>
+			<biblScope unit="page">13</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">2007a. Natural community abstract for granite bedrock lakeshore</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Albert</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Michigan Natural Features Inventory</title>
+		<meeting><address><addrLine>Lansing, MI, USA</addrLine></address></meeting>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<monogr>
+		<title level="m" type="main">2007b. Natural community abstract for Great Lakes Limestone cobble shore</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Albert</surname></persName>
+		</author>
+		<imprint>
+			<publisher>Michigan Natural Features Inventory</publisher>
+			<pubPlace>Lansing, MI</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<monogr>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Albert</surname></persName>
+		</author>
+		<title level="m">Natural community abstract for sand and gravel beach. Michigan Natural Features Inventory</title>
+		<meeting><address><addrLine>Lansing, MI, USA</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<monogr>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Albert</surname></persName>
+		</author>
+		<title level="m">Natural community abstract for Sandstone Lakeshore Cliff. Michigan Natural Features Inventory</title>
+		<meeting><address><addrLine>Lansing, MI, USA</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<monogr>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Albert</surname></persName>
+		</author>
+		<title level="m">Natural community abstract for Volcanic Bedrock Lakeshore. Michigan Natural Features Inventory</title>
+		<meeting><address><addrLine>Lansing, MI, USA</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<monogr>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Albert</surname></persName>
+		</author>
+		<title level="m">Natural community abstract for Sandstone Lakeshore Cliff. Michigan Natural Features Inventory</title>
+		<meeting><address><addrLine>Lansing, MI, USA</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<monogr>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Albert</surname></persName>
+		</author>
+		<title level="m">Natural community abstract for Volcanic Bedrock Glade. Michigan Natural Features Inventory</title>
+		<meeting><address><addrLine>Lansing, MI, USA</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<monogr>
+		<title level="m" type="main">Natural community abstract for wooded dune and swale complex</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Albert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Comer</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1999">1999</date>
+			<publisher>Michigan Natural Features Inventory</publisher>
+			<pubPlace>Lansing, MI</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Audubon Great Lakes (AGL). 2025. Restoring Michigan&apos;s Black Tern Population: Statewide Status and Conservation Plan</title>
+	</analytic>
+	<monogr>
+		<title level="j">Audubon Great Lakes</title>
+		<imprint>
+			<biblScope unit="page">20</biblScope>
+			<date type="published" when="2021">2021</date>
+			<pubPlace>Audubon Great Lakes, Chicago, Illinois, USA; Chicago, Illinois, USA</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Restoring Wigwam Bay for Breeding Marsh Birds: 2018-2020 Report and Conservation Action Plan</note>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<monogr>
+		<title level="m" type="main">Restoring Michigan&apos;s black tern populations: statewide status &amp; conservation action plan</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Beilke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Fuller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">R</forename><surname>Mcelrath</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">R</forename><surname>Hinickle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Bernard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Ford</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2025">2025</date>
+			<pubPlace>Audubon Great Lakes, Chicago, Illinois, USA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<monogr>
+		<title level="m">Great Lakes, and Energy (EGLE). 2025. Michigan Coastal Management Program (Section 309 Enhancement Assessment and Strategies</title>
+		<imprint>
+			<publisher>Water Resource Division, Department of Environment, Great Lakes, and Energy</publisher>
+			<date type="published" when="2026">2026 -2030</date>
+			<biblScope unit="page">103</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<monogr>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">G</forename><surname>Cohen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Albert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Kost</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">S</forename><surname>Slaughter</surname></persName>
+		</author>
+		<title level="m">Natural community abstract for coastal fen. Michigan Natural Features Inventory</title>
+		<meeting><address><addrLine>Lansing, MI, USA</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2010">2010</date>
+			<biblScope unit="page">16</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<monogr>
+		<title level="m" type="main">Rare coastal ecosystem monitoring</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">G</forename><surname>Cohen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">D</forename><surname>Enander</surname></persName>
+		</author>
+		<idno>Number 2019-08</idno>
+		<imprint>
+			<date type="published" when="2019">2019</date>
+			<biblScope unit="page">60</biblScope>
+			<pubPlace>Lansing, MI</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="report_type">Michigan Natural Features Inventory Report</note>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">Using GIS-based multicriteria decision analysis to prioritize invasive plant treatment: A creative solution for a pernicious problem</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">G</forename><surname>Cohen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Kost</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">S</forename><surname>Slaughter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Albert ; Cohen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">G</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">D</forename><surname>Enander</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">J</forename><surname>Bassett</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Wilton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">A</forename><surname>Cole-Wick</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ecological Modelling</title>
+		<imprint>
+			<biblScope unit="volume">495</biblScope>
+			<biblScope unit="page">110807</biblScope>
+			<date type="published" when="2015">2015. 2024</date>
+			<publisher>Michigan State University Press</publisher>
+			<pubPlace>East Lansing, Michigan</pubPlace>
+		</imprint>
+	</monogr>
+	<note>A field guide to the natural communities of Michigan</note>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<monogr>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">G</forename><surname>Cohen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Kost</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">S</forename><surname>Slaughter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Albert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Lincoln</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">P</forename><surname>Kortenhoven</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Wilton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">D</forename><surname>Enander</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">E</forename><surname>Anderson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Parr</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">J</forename><surname>Bassett</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">M</forename><surname>Korroch</surname></persName>
+		</author>
+		<ptr target="https://mnfi.anr.msu.edu/communities/classification" />
+		<title level="m">Michigan Natural Community Classification</title>
+		<meeting><address><addrLine>Lansing, MI</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2025">2025</date>
+		</imprint>
+		<respStmt>
+			<orgName>Michigan State University Extension</orgName>
+		</respStmt>
+	</monogr>
+	<note>Michigan Natural Features Inventory</note>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<monogr>
+		<title level="m" type="main">USA. 5 pp. Currier, C.L. 2000. Special animal abstract for Chlidonias niger (Black Tern)</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Comer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Cuthrell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Albert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Penskar</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1997">1997</date>
+			<publisher>Michigan Natural Features Inventory</publisher>
+			<biblScope unit="page">3</biblScope>
+			<pubPlace>Lansing, MI; Lansing, MI</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Natural community abstract for limestone bedrock lakeshore</note>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<monogr>
+		<title level="m" type="main">Status assessment and conservation recommendations for the common tern (Sterna hirundo) in the Great Lakes Region</title>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">J</forename><surname>Cuthbert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">R</forename><surname>Wires</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Timmerman</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2003">2003</date>
+			<publisher>U.S. Fish and Wildlife Service</publisher>
+			<biblScope unit="page">90</biblScope>
+			<pubPlace>Ft. Snelling, MN</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<analytic>
+		<title level="a" type="main">Piping Plover (Charadrius melodus)</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Cuthbert</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The Second Michigan Breeding Bird Atlas</title>
+		<editor>
+			<persName><forename type="first">A</forename><forename type="middle">T</forename><surname>Chartier</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Baldy</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Brenneman</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Kalamazoo, MI, USA</addrLine></address></meeting>
+		<imprint>
+			<publisher>Kalamazoo Nature Center</publisher>
+			<date type="published" when="2011">2011. 2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<monogr>
+		<title level="m" type="main">Special animal abstract for Somatochlora hineana (Hine&apos;s Emerald Dragonfly)</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Cuthrell</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1999">1999</date>
+			<publisher>Michigan Natural Features Inventory</publisher>
+			<pubPlace>Lansing, MI</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<analytic>
+		<title level="a" type="main">Breeding Season Management Is Unlikely to Improve Population Viability of a Data-Deficient Migratory Species in Decline</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">L</forename><surname>Davis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">P</forename><surname>Saunders</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Beilke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">R</forename><surname>Ford</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Fuller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Landgraf</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">F</forename><surname>Zipkin</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.biocon.2023.110104</idno>
+		<ptr target="https://doi.org/10.1016/j.biocon.2023.110104" />
+	</analytic>
+	<monogr>
+		<title level="j">Biological Conservation</title>
+		<imprint>
+			<biblScope unit="volume">283</biblScope>
+			<biblScope unit="page">110104</biblScope>
+			<date type="published" when="2023-07">2023. July</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<analytic>
+		<title level="a" type="main">Waxing and waning slacks: The changing ecohydrology of interdunal wetlands/slacks in a Lake Michigan coastal dune complex during rising Lake Michigan-Huron levels</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">J</forename><surname>Devries-Zimmerman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Yurk</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">M</forename><surname>Fast</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Donaldson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">C</forename><surname>Hansen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Great Lakes Research</title>
+		<imprint>
+			<biblScope unit="volume">47</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="1565" to="1580" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<monogr>
+		<title level="m" type="main">Assessing Climate Vulnerability &amp; Adaptive Capacity of Midwest Species of Greatest Conservation Need</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Earl</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">C</forename><surname>Branch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">A</forename><surname>Cole-Wick</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">M</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">M</forename><surname>Rowe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Badra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Wilton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Cuthrell</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2024">2024</date>
+			<publisher>Michigan Natural Features Inventory</publisher>
+			<biblScope unit="page">79</biblScope>
+			<pubPlace>Lansing, MI</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<monogr>
+		<title level="m" type="main">Endangered and threatened wildlife of Michigan</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">C</forename><surname>Evers</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1994">1994</date>
+			<publisher>University of Michigan Press</publisher>
+			<biblScope unit="page">412</biblScope>
+			<pubPlace>Ann Arbor, Michigan</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<monogr>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">J</forename><surname>Francis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">C</forename><surname>Haas</surname></persName>
+		</author>
+		<title level="m">Clinton River Assessment</title>
+		<meeting><address><addrLine>Lansing, MI</addrLine></address></meeting>
+		<imprint>
+			<publisher>Michigan Department of Natural Resources</publisher>
+			<date type="published" when="2006">2006</date>
+			<biblScope unit="page">367</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<monogr>
+		<title level="m" type="main">The Sweetwater Sea: An International Biodiversity Conservation Strategy for Lake Huron -Technical Report. A joint publication of The Nature Conservancy, Environment Canada, Ontario Ministry of Natural Resources Michigan Department of Natural Resources and Environment</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Franks Taylor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Derosier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Dinse</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Doran</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Ewert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Hall</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Herbert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Khoury</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Kraus</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Lapenna</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Mayne</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Pearsall</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Read</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Schroeder</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2010">2010</date>
+			<publisher>Michigan Natural Features Inventory Michigan Sea Grant and The Nature Conservancy of Canada</publisher>
+			<biblScope unit="page">264</biblScope>
+		</imprint>
+	</monogr>
+	<note>with Appendices</note>
+</biblStruct>
+
+<biblStruct xml:id="b53">
+	<analytic>
+		<title level="a" type="main">Initial transplant size and microsite influence transplant survivorship and growth of a threatened dune thistle</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">J</forename><surname>Halsey</surname></persName>
+			<affiliation>
+				<orgName type="collaboration">Great Lakes Coastal Assembly (GLCA</orgName>
+			</affiliation>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">J</forename><surname>Bell</surname></persName>
+			<affiliation>
+				<orgName type="collaboration">Great Lakes Coastal Assembly (GLCA</orgName>
+			</affiliation>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Bowles</surname></persName>
+			<affiliation>
+				<orgName type="collaboration">Great Lakes Coastal Assembly (GLCA</orgName>
+			</affiliation>
+		</author>
+		<ptr target="https://www.greatlakescoastalassembly.org/" />
+	</analytic>
+	<monogr>
+		<title level="m">Great Lakes Coastal Assembly 2025-2026 Action Plan. Web. Available</title>
+		<imprint>
+			<date type="published" when="2017">2025. 2017</date>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="page" from="52" to="59" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b54">
+	<monogr>
+		<title level="m" type="main">Amphibians and reptiles of the Great Lakes Region</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Harding</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Mifsud</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2017">2017</date>
+			<publisher>University of Michigan Press</publisher>
+			<biblScope unit="page">392</biblScope>
+			<pubPlace>Ann Arbor, MI</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Revised edition</note>
+</biblStruct>
+
+<biblStruct xml:id="b55">
+	<analytic>
+		<title level="a" type="main">Effects of a non-native biocontrol weevil, Larinus planus and other emerging threats on populations of the federally threatened Pitcher&apos;s thistle, Cirsium pitcheri</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Havens</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">L</forename><surname>Jolls</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Marik</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Vitt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">K</forename><surname>Mceachern</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Kind</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biological Conservation</title>
+		<imprint>
+			<biblScope unit="volume">155</biblScope>
+			<biblScope unit="page" from="202" to="211" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b56">
+	<monogr>
+		<title level="m" type="main">Birds of the World, Black Tern, Chlidonias niger</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">R</forename><surname>Heath</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">H</forename><surname>Dunn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Agro</surname></persName>
+		</author>
+		<idno>Version 1.0</idno>
+		<imprint>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b57">
+	<analytic>
+		<title level="a" type="main">Ecological Tracers Track Changes in Bird Diets and Possible Routes of Exposure to Type E Botulism</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">E</forename><surname>Hebert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Chao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Crump</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">B</forename><surname>Johnson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">D</forename><surname>Rudy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Sverko</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Williams</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Zaruk</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">T</forename><surname>Arts</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.jglr.2013.12.015</idno>
+		<ptr target="https://doi.org/10.1016/j.jglr.2013.12.015" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Great Lakes Research</title>
+		<imprint>
+			<biblScope unit="volume">40</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="64" to="70" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b58">
+	<monogr>
+		<title level="m" type="main">Special plant abstract for Cirsium pitcheri</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Higman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Penskar</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1999">1999</date>
+			<publisher>Michigan Natural Features Inventory</publisher>
+			<pubPlace>Lansing, MI, USA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b59">
+	<monogr>
+		<title level="m" type="main">Changing climate, changing wildlife: a vulnerability assessment of 400 species of greatest conservation need and game species in Michigan</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">L</forename><surname>Hoving</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">M</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Badra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">J</forename><surname>Klatt</surname></persName>
+		</author>
+		<idno>No. 3564</idno>
+		<imprint>
+			<date type="published" when="2013">2013</date>
+			<biblScope unit="page">82</biblScope>
+			<pubPlace>Lansing, MI</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="report_type">Wildlife Division Report</note>
+</biblStruct>
+
+<biblStruct xml:id="b60">
+	<monogr>
+		<title level="m" type="main">Special animal abstract for Charadrius melodus (Piping Plover)</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Hyde</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1999">1999</date>
+			<publisher>Michigan Natural Features Inventory</publisher>
+			<biblScope unit="page">4</biblScope>
+			<pubPlace>Lansing, MI</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b61">
+	<monogr>
+		<title level="m" type="main">Michigan Department of Environment, Great Lakes, and Energy (EGLE). 2025. Information on the Proposed Delineation and Assessment of Michigan&apos;s Critical Dune Area</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Huff</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Thomas</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2014">2014</date>
+			<publisher>Michigan Department of Environment, Great Lakes, and Energy</publisher>
+			<biblScope unit="page">21</biblScope>
+			<pubPlace>Lansing, MI</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Lake Superior Climate Change Impacts and Adaptation. Prepared for the Lake Superior Lakewide Action and Management Plan -Superior Work Group</note>
+</biblStruct>
+
+<biblStruct xml:id="b62">
+	<analytic>
+		<title level="a" type="main">Recovery Strategy for the Lake Huron Grasshopper (Trimerotropis huroniana) in Ontario</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Jones</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Ministry of the Environment, Conservation and Parks</title>
+		<title level="s">Ontario Recovery Strategy Series</title>
+		<meeting><address><addrLine>Peterborough, Ontario</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2018">2018</date>
+			<biblScope unit="page">36</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b63">
+	<monogr>
+		<title level="m" type="main">Natural communities of Michigan: classification and description</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Kost</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Albert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">G</forename><surname>Cohen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">S</forename><surname>Slaughter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">K</forename><surname>Schillo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">R</forename><surname>Weber</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">A</forename><surname>Chapman</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2007">2007</date>
+			<publisher>Michigan Natural Features Inventory</publisher>
+			<biblScope unit="page">322</biblScope>
+			<pubPlace>Lansing, MI</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b64">
+	<monogr>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Kushlan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Steinkamp</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">C</forename><surname>Parsons</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Capp</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Cruz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Coulter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Davidson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Dickson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Edelson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Elliot</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Erwin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Hatch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Kress</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Milko</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Miller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Mills</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Paul</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Phillips</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Salvia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Sydeman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Trapp</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Wheeler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Wohl</surname></persName>
+		</author>
+		<title level="m">Waterbird Conservation for the Americas: The North American Waterbird Conservation Plan, Version 1. Waterbird Conservation for the Americas</title>
+		<imprint>
+			<date type="published" when="2002">2002</date>
+			<biblScope unit="volume">84</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b65">
+	<analytic>
+		<title level="a" type="main">Partners in Flight Bird Conservation Plan for the Upper Great Lakes Plain (Physiographic Area 16)</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">G</forename><surname>Knutson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Butcher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Fitzgerald</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Shieldcastle</surname></persName>
+		</author>
+		<ptr target="https://pubs.usgs.gov/publication/94816" />
+	</analytic>
+	<monogr>
+		<title level="s">U.S. Geological Survey</title>
+		<imprint>
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b66">
+	<monogr>
+		<title level="m" type="main">A biodiversity conservation strategy for Lake Superior: a guide to conserving and restoring the health of the world&apos;s largest freshwater lake</title>
+		<imprint>
+			<date type="published" when="2015">2015</date>
+			<publisher>Lake Superior Binational Program</publisher>
+			<biblScope unit="volume">20</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b67">
+	<analytic>
+		<title level="a" type="main">Impact of Urbanization on Coastal Wetland Structure and Function</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">Y</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J K</forename><surname>Dunn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Young</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Connolly</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">E R</forename><surname>Dale</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Dehayr</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">J</forename><surname>Lemckert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Mckinnon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Powell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">R</forename><surname>Teasdale</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">T</forename><surname>Welsh</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1442-9993.2006.01581.x</idno>
+		<ptr target="https://doi.org/10.1111/j.1442-9993.2006.01581.x" />
+	</analytic>
+	<monogr>
+		<title level="j">Austral Ecology</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="149" to="163" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b68">
+	<monogr>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Lee</surname></persName>
+		</author>
+		<title level="m">Special animal abstract for Pantherophis gloydi (Eastern Fox Snake). Michigan Natural Features Inventory</title>
+		<meeting><address><addrLine>Lansing, MI</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2000">2000. 2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b69">
+	<analytic>
+		<title level="a" type="main">Exposure to metals (Ca, K, Mn) and road salt (NaCl) differently affect development and survival in two model amphibians</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">A</forename><surname>Meindl</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Schleissmann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Sander</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Lam</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Parker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Fitzgerald</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Oltmer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Jua</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Chemistry in Ecology</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="194" to="204" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b70">
+	<monogr>
+		<title level="m" type="main">Michigan Coastal and Estuarine Land Conservation Plan (Coastal Zone Management Program)</title>
+		<imprint>
+			<date type="published" when="2008">2008</date>
+			<publisher>National Oceanic and Atmospheric Administration</publisher>
+			<biblScope unit="volume">73</biblScope>
+		</imprint>
+		<respStmt>
+			<orgName>Michigan Department of Environmental Quality (MDEQ)</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b71">
+	<monogr>
+		<title level="m" type="main">Featured Species Habitat Management Guidance for Piping Plover</title>
+		<imprint>
+			<date type="published" when="2016">2016</date>
+			<publisher>Michigan Department of Natural Resources</publisher>
+			<pubPlace>Lansing, MI</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b72">
+	<monogr>
+		<title level="m">Michigan Natural Features Inventory (MNFI). 2025. Michigan&apos;s Natural Heritage Database</title>
+		<meeting><address><addrLine>Lansing, MI</addrLine></address></meeting>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b73">
+	<analytic>
+		<title level="a" type="main">Exotic Species and the Integrity of the Great Lakes</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">L</forename><surname>Mills</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Leach</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">T</forename><surname>Carlton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">L</forename><surname>Secor</surname></persName>
+		</author>
+		<idno type="DOI">10.2307/1312510</idno>
+		<ptr target="https://doi.org/10.2307/1312510" />
+	</analytic>
+	<monogr>
+		<title level="j">BioScience</title>
+		<imprint>
+			<biblScope unit="volume">44</biblScope>
+			<biblScope unit="issue">10</biblScope>
+			<biblScope unit="page" from="666" to="676" />
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b74">
+	<analytic>
+		<title level="a" type="main">Advancing the national fish, wildlife, and plants climate adaptation strategy into a new decade</title>
+		<ptr target="https://oceanservice.noaa.gov/facts/why_habs.html" />
+	</analytic>
+	<monogr>
+		<title level="m">Why do harmful algal blooms occur? National Ocean Service website</title>
+		<meeting><address><addrLine>Kirksville; Washington, D.C.</addrLine></address></meeting>
+		<imprint>
+			<publisher>Missouri Department of Conservation</publisher>
+			<date type="published" when="2021">2022. 2021. 2024. 25 Feb 2025</date>
+		</imprint>
+	</monogr>
+	<note>Association of Fish and Wildlife Agencies</note>
+</biblStruct>
+
+<biblStruct xml:id="b75">
+	<monogr>
+		<title level="m" type="main">Biotics 5 online help: EO Definitions of EO Ranks and Origin Subranks</title>
+		<author>
+			<persName><surname>Natureserve</surname></persName>
+		</author>
+		<ptr target="https://help.natureserve.org/biotics/" />
+		<imprint>
+			<date type="published" when="2021-06">2021. June 2021</date>
+			<pubPlace>NatureServe, Arlington, Virginia, USA. Website Available</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b76">
+	<monogr>
+		<title level="m" type="main">Wetland Management for Waterfowl Handbook. Mississippi River Trust, Natural Resources Conservation Service, United States Fish and Wildlife Service, and United States Department of Agriculture</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">D</forename><surname>Nelms</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Ballinger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Boyles</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2007">2007</date>
+			<biblScope unit="volume">136</biblScope>
+			<biblScope unit="page">pp</biblScope>
+			<pubPlace>Washington D.C</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b77">
+	<monogr>
+		<title level="m" type="main">Recovery Strategy for Pitcher&apos;s Thistle (Cirsium pitcheri) in Canada. Species at Risk Act Recovery Strategy Series</title>
+		<imprint>
+			<date type="published" when="2011">2011</date>
+			<publisher>Parks Canada Agency</publisher>
+			<biblScope unit="page">31</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b78">
+	<monogr>
+		<title level="m" type="main">Returning to a healthy lake: Lake Erie biodiversity conservation strategy</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Pearsall</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">C</forename><surname>De Grammont</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Cavalieri</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Chu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Doran</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Elbing</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Ewert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Hall</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Herbert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Khoury</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Kraus</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Mysorekar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Paskus</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Sasson</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2012">2012</date>
+			<publisher>Nature Conservancy of Canada and Michigan Natural Features Inventory</publisher>
+			<biblScope unit="page">340</biblScope>
+		</imprint>
+	</monogr>
+	<note type="report_type">Technical Report</note>
+	<note>A joint publication of The Nature Conservancy. with Appendices</note>
+</biblStruct>
+
+<biblStruct xml:id="b79">
+	<monogr>
+		<title level="m" type="main">Michigami: Great Water. Strategies to conserve the biodiversity of Lake Michigan</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Pearsall</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Carton De Grammont</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Cavalieri</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Doran</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Elbing</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Ewert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Hall</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Herbert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Khoury</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Mysorekar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Neville</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Paskus</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Sasson</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2012">2012</date>
+			<publisher>Michigan Natural Features Inventory</publisher>
+			<biblScope unit="volume">309</biblScope>
+		</imprint>
+	</monogr>
+	<note type="report_type">Technical Report</note>
+	<note>with Appendices</note>
+</biblStruct>
+
+<biblStruct xml:id="b80">
+	<monogr>
+		<title level="m" type="main">Special animal abstract for Trimerotropis huroniana (Lake Huron locust)</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Rabe</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1999">1999</date>
+			<publisher>Michigan Natural Features Inventory</publisher>
+			<pubPlace>Lansing, MI</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b81">
+	<analytic>
+		<title level="a" type="main">Conservation of Black Terns -A Michigan Species of Special Concern</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">N</forename><surname>Rowan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Audubon Great Lakes</title>
+		<imprint>
+			<biblScope unit="issue">6</biblScope>
+			<pubPlace>Chicago, IL</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b82">
+	<monogr>
+		<title level="m" type="main">Upper Mississippi Valley / Great Lakes Regional Shorebird Conservation Plan -Version 2.0. U. S. Fish and Wildlife Service, Division of Migratory Birds</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">P</forename><surname>Russell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">E</forename><surname>Koch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">J</forename><surname>Lewis</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2016">2016</date>
+			<biblScope unit="page">64</biblScope>
+			<pubPlace>Bloomington, MN</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b83">
+	<monogr>
+		<title level="m" type="main">The North American Breeding Bird Survey, results and analysis 1966 -2013. Version 01.30</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Sauer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Hines</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Fallon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">L</forename><surname>Pardieck</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Ziolkowski</surname><genName>Jr</genName></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">A</forename><surname>Link</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2014">2014. 2015</date>
+			<pubPlace>Laurel, Maryland</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>USGS Patuxent Wildlife Research Center</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b84">
+	<monogr>
+		<title level="m" type="main">The North American Breeding Bird Survey, Analysis Results</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Sauer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">A</forename><surname>Link</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Hines</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1966">2020. 1966-2019</date>
+		</imprint>
+	</monogr>
+	<note>Dataset</note>
+</biblStruct>
+
+<biblStruct xml:id="b85">
+	<monogr>
+		<title/>
+		<idno type="DOI">10.5066/P96A7675</idno>
+		<ptr target="https://doi.org/10.5066/P96A7675" />
+		<imprint>
+			<publisher>U.S. Geological Survey</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b86">
+	<analytic>
+		<title level="a" type="main">Black Tern (Chlidonias niger)</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">C</forename><surname>Scharf</surname></persName>
+		</author>
+		<ptr target="https://www.mibirdatlas.org" />
+	</analytic>
+	<monogr>
+		<title level="m">The second Michigan breeding bird atlas</title>
+		<editor>
+			<persName><forename type="first">A</forename><forename type="middle">T</forename><surname>Chartier</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Baldy</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Brenneman</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Kalamazoo, Michigan, USA. Available</addrLine></address></meeting>
+		<imprint>
+			<publisher>Kalamazoo Nature Center</publisher>
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b87">
+	<monogr>
+		<author>
+			<persName><forename type="first">K</forename><surname>Schmitt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Krska</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Deloria</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">D</forename><surname>Shannon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Cooper</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Eash</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">E</forename><surname>Johnson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Johnson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Magee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Mayne</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Nelson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Nigg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Sidie-Slettedahl</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Brandt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Handler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Janowiak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Butler-Leopold</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Ontl</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Swanston</surname></persName>
+		</author>
+		<title level="m">Strategies for Adapting Great Lakes Coastal Ecosystems to Climate Change</title>
+		<imprint>
+			<publisher>United States Department of Agriculture Forest Service</publisher>
+			<date type="published" when="2022">2022</date>
+			<biblScope unit="volume">66</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b88">
+	<monogr>
+		<title level="m" type="main">Status Assessment of Pitcher&apos;s Thistle and Hart&apos;s tongue Fern: Acquiring Contemporary Information for Recovery Planning and Five-Year Reviews</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">S</forename><surname>Slaughter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Cuthrell</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2017">2017</date>
+			<publisher>Michigan Natural Features Inventory</publisher>
+			<biblScope unit="page">106</biblScope>
+			<pubPlace>Lansing, MI</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b89">
+	<monogr>
+		<title level="m" type="main">Upper Mississippi River and Great Lakes Region Joint Venture waterbird habitat conservation strategy</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">J</forename><surname>Soulliere</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">A</forename><surname>Potter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Holm</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Granfors</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Monfils</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">J</forename><surname>Lewis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">E</forename><surname>Thogmartin</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2007">2007</date>
+			<publisher>U.S. Fish and Wildlife Service</publisher>
+			<biblScope unit="page">68</biblScope>
+			<pubPlace>Fort Snelling; Minnesota</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b90">
+	<analytic>
+		<title level="a" type="main">Upper Mississippi River and Great Lakes Region Joint Venture Waterbird Habitat Conservation Strategy -2018 Revision</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">J</forename><surname>Soulliere</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Al-Saffar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">L</forename><surname>Pierce</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Monfils</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">R</forename><surname>Wires</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">W</forename><surname>Loges</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">T</forename><surname>Shirkey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">S</forename><surname>Miller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">D</forename><surname>Schultheis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">A</forename><surname>Nelson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Sidie-Slettedahl</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Holm</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Sustainable Small Harbors. 2023. Tools and Tactics Guidebook Phase</title>
+		<meeting><address><addrLine>Bloomington, Minnesota</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2018">2018</date>
+			<biblScope unit="page">105</biblScope>
+		</imprint>
+		<respStmt>
+			<orgName>U.S. Fish and Wildlife Service ; Drummond Carpenter; Michigan Department of Environment, Great Lakes, and Energy; Sea Grant Michigan; Michigan State University; University of Michigan</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b91">
+	<monogr>
+		<title level="m" type="main">Creating a floating nest platform resilient to habitat disturbances and sustainable for years to come</title>
+		<author>
+			<persName><surname>Stantec</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2025">2025</date>
+			<pubPlace>Sidney, British Columbia</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b92">
+	<monogr>
+		<title level="m" type="main">Michigan&apos;s Aquatic Invasive Species State Management Plan 2013 Update. Water Resource Division</title>
+		<author>
+			<persName><surname>State Of Michigan</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2013">2013</date>
+			<biblScope unit="page">78</biblScope>
+			<pubPlace>Lansing, MI</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>Michigan Department of Environmental Quality</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b93">
+	<monogr>
+		<author>
+			<persName><surname>State Of Michigan</surname></persName>
+		</author>
+		<title level="m">Terrestrial Invasive Species Management Plan</title>
+		<meeting><address><addrLine>Lansing, MI</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2024">2024</date>
+			<biblScope unit="page">46</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b94">
+	<analytic>
+		<title level="a" type="main">Wetland selection by breeding and foraging black terns in the prairie pothole region of the United States</title>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">A</forename><surname>Steen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">B</forename><surname>Powell</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Condor</title>
+		<imprint>
+			<biblScope unit="volume">114</biblScope>
+			<biblScope unit="page" from="155" to="165" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b95">
+	<analytic>
+		<title level="a" type="main">Interactive effects of road salt and sediment disturbance on the productivity of seven common aquatic macrophytes</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Stoler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Sudol</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Mruzek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Relyea</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Freshwater Biology</title>
+		<imprint>
+			<biblScope unit="volume">63</biblScope>
+			<biblScope unit="issue">7</biblScope>
+			<biblScope unit="page" from="709" to="720" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b96">
+	<analytic>
+		<title level="a" type="main">Persist in place or shift in space? Evaluating the adaptive capacity of species to climate change</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">L</forename><surname>Thurman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Stein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Beever</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Foden</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Sr Geange</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Green</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Gross</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Lawrence</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Ledee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">M</forename><surname>Jd Olden</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Thompson</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Young</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Frontiers in Ecology and Evolution</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="issue">9</biblScope>
+			<biblScope unit="page" from="520" to="528" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b97">
+	<analytic>
+		<title level="a" type="main">Marsh bird occupancy dynamics, trends, and conservation in the southern Great Lakes basin: 1996 to</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">C</forename><surname>Tozer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Great Lakes Research</title>
+		<imprint>
+			<biblScope unit="volume">42</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="136" to="145" />
+			<date type="published" when="2013">2016. 2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b98">
+	<monogr>
+		<title level="m" type="main">Great Lakes Regional Collaboration Strategy: To Restore and Protect the Great Lakes</title>
+		<author>
+			<orgName type="collaboration">Great Lakes Regional Collaboration</orgName>
+		</author>
+		<imprint>
+			<date type="published" when="2005">2005</date>
+			<biblScope unit="volume">64</biblScope>
+		</imprint>
+	</monogr>
+	<note>The Great Lakes St. Lawrence Governors &amp; Premiers (GSGP)</note>
+</biblStruct>
+
+<biblStruct xml:id="b99">
+	<monogr>
+		<title level="m" type="main">Guidelines for managing recreational activities in Piping Plover breeding habitat on the U.S. Atlantic coast to avoid take under section 9 of the Endangered Species Act</title>
+		<imprint>
+			<date type="published" when="1994">1994</date>
+			<publisher>U.S. Fish and Wildlife Service</publisher>
+		</imprint>
+	</monogr>
+	<note>Northeast Region. 21 pp</note>
+</biblStruct>
+
+<biblStruct xml:id="b100">
+	<monogr>
+		<title level="m" type="main">Hine&apos;s Emerald Dragonfly (Somatochlora hineana) recovery plan</title>
+		<imprint>
+			<date type="published" when="2001">2001</date>
+			<publisher>U.S. Fish and Wildlife Service (USFWS)</publisher>
+			<biblScope unit="page">120</biblScope>
+			<pubPlace>Fort Snelling, MN</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b101">
+	<monogr>
+		<title level="m" type="main">Pitcher&apos;s Thistle (Cirsium pitcheri) Recovery Plan</title>
+		<imprint>
+			<date type="published" when="2002">2002</date>
+			<publisher>U.S. Fish and Wildlife Service (USFWS)</publisher>
+			<biblScope unit="page">92</biblScope>
+			<pubPlace>Fort Snelling, MN</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b102">
+	<analytic>
+		<title level="a" type="main">Recovery Plan for the Great Lakes Piping Plover (Charadrius melodus)</title>
+	</analytic>
+	<monogr>
+		<title level="j">Ft</title>
+		<imprint>
+			<date type="published" when="2003">2003</date>
+			<publisher>U.S. Fish and Wildlife Service (USFWS)</publisher>
+			<pubPlace>Snelling, MinnesMNota</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b103">
+	<monogr>
+		<title level="m" type="main">Piping Plover (Charadrius melodus) 5-year review: summary and evaluation</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Hadley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">East</forename><surname>Lansing</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2009">2009</date>
+			<publisher>U.S. Fish and Wildlife Service (USFWS)</publisher>
+			<biblScope unit="page">206</biblScope>
+			<pubPlace>MI</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b104">
+	<monogr>
+		<title level="m" type="main">Hine&apos;s Emerald Dragonfly (Somatochlora Hineana) 5-year review. USFWS, Midwest Region Chicago Ecological Field Office</title>
+		<imprint>
+			<date type="published" when="2013">2013</date>
+			<publisher>U.S. Fish and Wildlife Service (USFWS)</publisher>
+			<biblScope unit="volume">52</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b105">
+	<monogr>
+		<title level="m" type="main">Atlantic Coast Piping Plover Strategic Communications Plan: Reducing Human Disturbance</title>
+		<imprint>
+			<date type="published" when="2017">2017. 2017-2021. 24</date>
+			<publisher>U.S. Fish and Wildlife Service (USFWS)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b106">
+	<analytic>
+		<title level="a" type="main">Demography and threats to population growth of Cirsium pitcheri, a threatened dune plant</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Vitt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">B</forename><surname>Girdler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Gorra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">M</forename><surname>Knight</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Havens</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Wisconsin. Ecology and Evolution</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page" from="1" to="14" />
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b107">
+	<analytic>
+		<title level="a" type="main">Assisted migration of plants: Changes in latitudes, changes in attitudes</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Vitt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Havens</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">T</forename><surname>Kramer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Sollenberger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Yates</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biological Conservation</title>
+		<imprint>
+			<biblScope unit="volume">143</biblScope>
+			<biblScope unit="page" from="18" to="27" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b108">
+	<monogr>
+		<title level="m" type="main">Saginaw Bay to Western Lake Erie Coastal Wetland Conservation Blueprint. U.S. Fish and Wildlife Service</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Wong</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2024">2024</date>
+			<pubPlace>East Lansing, MI</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b109">
+	<analytic>
+		<title level="a" type="main">Black tern (Chlidonias niger) breeding site abandonment in U.S. Great Lakes coastal wetlands is predicted by historical abundance and patterns of emergent vegetation</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">E</forename><surname>Wyman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">J</forename><surname>Cuthbert</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Wetlands Ecology and Management</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page" from="583" to="596" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b110">
+	<monogr>
+		<title level="m" type="main">Hine&apos;s Emeral Dragonfly (Somatochlora hineana Williamson) Recovery Plan. Region 3, U.S. Fish and Wildlife Service</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Zercher</surname></persName>
+			<affiliation>
+				<orgName type="collaboration">s Emerald Dragonfly Recovery Team</orgName>
+			</affiliation>
+		</author>
+		<author>
+			<persName><forename type="first">The</forename><surname>Hine</surname></persName>
+			<affiliation>
+				<orgName type="collaboration">s Emerald Dragonfly Recovery Team</orgName>
+			</affiliation>
+		</author>
+		<imprint>
+			<date type="published" when="2001">2001</date>
+			<biblScope unit="page">133</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>
+

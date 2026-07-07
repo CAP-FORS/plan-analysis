@@ -1,0 +1,593 @@
+{
+  "document_meta": {
+    "title": "American Samoa Forest Action Plan 2020 / Forest Legacy Program Assessment of Need",
+    "year": 2020,
+    "jurisdiction": "American Samoa (US Territory)",
+    "document_type": "Forest Action Plan / Assessment of Need",
+    "document_id": "ASM_FAP_2020",
+    "page_count": 143
+  },
+  "orientation": {
+    "summary": "This document is a combined Forest Action Plan (FAP, 2020) and Forest Legacy Program Assessment of Need (AON, 2024) for American Samoa, a US territory administered by ASCC-ACNR, DMWR, and USFS. The document is a forestry management planning document focused on five critical issues: urban forest sustainability, coral reef protection, wetland conservation, freshwater quality, and native flora/fauna conservation. Climate change is mentioned only briefly and peripherally—primarily in the context of sea-level rise threatening mangroves and a general listing of threats—rather than as a central organizing frame. There is no systematic engagement with range shift science: the document does not discuss climate-driven distributional changes in species or habitats, does not apply vulnerability models, niche models, climate models, or connectivity models, and does not propose actions explicitly framed around managing range shifts. The document performs its own stakeholder-based spatial priority analysis for conservation landscapes; it references a 2016 climate change vulnerability assessment of mangroves (Mann 2016) in the bibliography but does not substantively incorporate it.",
+    "evidence_index": [
+      {
+        "text": "Topographical variation, climate change, along with human and natural disturbances, has influenced the growth and distribution of various rainforest types across American Samoa's landscapes.",
+        "location": "American Samoa's Forests",
+        "relevant_elements": ["1.1", "3.5"]
+      },
+      {
+        "text": "high susceptibility to severe storms and the effects of global climate change, and often",
+        "location": "[TABLE] (Regional Priorities section)",
+        "relevant_elements": ["1.1", "3.5"]
+      },
+      {
+        "text": "impacts of climate change, sea level rise, invasive species, pollution, and forest conversion continue to increase and harm our native species and natural resources.",
+        "location": "[TABLE] (closing statement)",
+        "relevant_elements": ["1.1", "3.5", "3.7"]
+      },
+      {
+        "text": "In American Samoa, mangroves are even more important due to our rapid relative sea level rise rate (RSLR). American Samoa is subsiding at 16mm/year and if you add the 3.2mm/year average eustatic (or global) sea level rise to that number, we are looking at almost 20mm/year.",
+        "location": "[FIGURE: Rhizophora mangle caption / Kelley Anderson Tagarino quote]",
+        "relevant_elements": ["1.1", "3.5"]
+      },
+      {
+        "text": "Mangroves help accrete (build) land and protect land from erosion, so we should do all we can to protect the mangroves we have and keep the surrounding areas clean and free from development to encourage more mangrove growth.",
+        "location": "[FIGURE: Rhizophora mangle caption / Kelley Anderson Tagarino quote]",
+        "relevant_elements": ["4.1", "3.5"]
+      },
+      {
+        "text": "Rising sea level and storms have caused major coastal erosions for several areas in Olosega.",
+        "location": "Threats to the Native Flora and Fauna",
+        "relevant_elements": ["1.1", "3.5"]
+      },
+      {
+        "text": "The impacts of climate change and economic status have pressured landowners into clearing such areas for agriculture or developments.",
+        "location": "[FIGURE: caption about forest clearing on steep terrain]",
+        "relevant_elements": ["1.1", "3.5"]
+      },
+      {
+        "text": "American Samoa Mangroves: Climate Change Vulnerability Assessment Summary S S Mann",
+        "location": "References / bibliography section",
+        "relevant_elements": ["2.1"]
+      },
+      {
+        "text": "Pacific island mangroves in a changing climate and rising sea E H Gilman J Van Lavieren V Ellison...",
+        "location": "References / bibliography section",
+        "relevant_elements": ["2.1", "3.5"]
+      },
+      {
+        "text": "With frequent cyclones and tropical storms, there is a high possibility that more invasive species will inhabit the Manu'a Islands.",
+        "location": "Threats to the Native Flora and Fauna",
+        "relevant_elements": ["3.7"]
+      },
+      {
+        "text": "Subsequent growth of invasive plant species may prevent the natural succession",
+        "location": "[TABLE] (Natural Disturbances section)",
+        "relevant_elements": ["3.7"]
+      },
+      {
+        "text": "All areas of Native Forests were assigned high priority for this issue. High priority landscapes determined from their native vegetation were concentrated in the northern portions of Tutuila Island, the summit and littoral areas of Ta'u...",
+        "location": "Priority Landscapes for Conservation of Native Flora and Fauna",
+        "relevant_elements": ["4.1"]
+      },
+      {
+        "text": "High priority landscapes identified include areas of rapid development and population growth in the Tafuna Plain, Pago Pago Harbor area, Nu'uuli, Vailoatai, Taputimu, Malaeloa, Faga'alu, the Manu'a Islands, and more.",
+        "location": "Priority Landscapes for Coral Reef Protection",
+        "relevant_elements": ["4.1"]
+      },
+      {
+        "text": "The priority landscapes for sustainability of urban forests include villages, commercial and privately-owned residential zones, government office grounds, schools, parks, sports fields, and churches.",
+        "location": "Priority Landscapes for Urban Forest Sustainability",
+        "relevant_elements": ["4.1"]
+      },
+      {
+        "text": "Strategies for issues 2, 3, and 4 will likely have the greatest impact and can be most efficiently planned, implemented, and evaluated if they can be focused at the watershed level, ideally combining efforts with other agencies in priority watersheds.",
+        "location": "Long-Term Strategies",
+        "relevant_elements": ["3.1", "4.3"]
+      },
+      {
+        "text": "The Forestry Program collaborates with government agencies both at the local and federal levels, regional organizations, and non-governmental organizations in program planning, implementation, and evaluation.",
+        "location": "American Samoa Forestry Program",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "The American Samoa Forestry Program is in the American Samoa Community College... The program continues to connect with Region and the Pacific Southwest Research Station as well as program guidance from the American Samoa Territorial Forestry Advisory Council.",
+        "location": "[TABLE] / American Samoa Forestry Program",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "Sharing ideas and expertise with regional partners in these Pacific organizations benefits all ASCC-ACNR forestry programs directly and indirectly.",
+        "location": "[TABLE] (Regional Priorities section)",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "Plans will need to be adapted according to community needs and successes or failures of early efforts.",
+        "location": "Issue 4 -Monitoring and Calibration",
+        "relevant_elements": ["4.3"]
+      },
+      {
+        "text": "Near the end of each calendar year, the program managers will review their progress in consultation with key stakeholders and outline an action plan and draft grant proposals for the coming year.",
+        "location": "TRANSLATING STRATEGIES INTO ACTIONS",
+        "relevant_elements": ["4.3"]
+      },
+      {
+        "text": "The Forestry Program must work with community partners and respond to the communities' needs which may change over time.",
+        "location": "Issue 1 -Monitoring and Calibration",
+        "relevant_elements": ["4.3"]
+      },
+      {
+        "text": "Better understanding of mangrove reintroduction and restoration leads to reintroduction and restoration success.",
+        "location": "Issue 3 -Performance Outcomes",
+        "relevant_elements": ["4.2", "4.4"]
+      },
+      {
+        "text": "They protect watersheds from erosion, protect coral reefs and fishing grounds from pollution, and mitigate climate change.",
+        "location": "[FIGURE: Scott Burch quote]",
+        "relevant_elements": ["1.1"]
+      },
+      {
+        "text": "climate change mitigation, and others will be developed and implemented.",
+        "location": "[TABLE] (staff capacity building list)",
+        "relevant_elements": ["1.1", "4.5"]
+      },
+      {
+        "text": "This statewide assessment and resource strategy document will provide the basic guidance for the American Samoa forestry programs over the next five years.",
+        "location": "TRANSLATING STRATEGIES INTO ACTIONS",
+        "relevant_elements": ["4.3"]
+      },
+      {
+        "text": "Conduct collaborative research on mangrove reintroduction and restoration methodologies",
+        "location": "Issue 3 actions table (encoded text)",
+        "relevant_elements": ["4.2", "4.4"]
+      },
+      {
+        "text": "Disturbed areas restored with native flora using proven effective methods.",
+        "location": "Issue 5 -Performance Outcomes",
+        "relevant_elements": ["4.4"]
+      }
+    ]
+  },
+  "concepts": {
+    "climate_vulnerability": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "high susceptibility to severe storms and the effects of global climate change, and often",
+          "location": "[TABLE] (Regional Priorities section)",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "impacts of climate change, sea level rise, invasive species, pollution, and forest conversion continue to increase and harm our native species and natural resources.",
+          "location": "[TABLE] (closing statement)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "Climate change is mentioned as a threat in a non-specific way. The document references sea-level rise impacts on mangroves and general climate change effects but does not operationalize vulnerability in terms of exposure or adaptive capacity components. Score 1 (referenced generically) rather than 2 or 3."
+    },
+    "adaptive_capacity_specificity": {
+      "evaluable": true,
+      "score": 0,
+      "evidence": [],
+      "absence_note": "The document does not reference adaptive capacity of species or ecosystems to climate change in any form. The concept is entirely absent from both the FAP and the AON sections."
+    },
+    "adaptive_capacity_components": {
+      "demography": {
+        "present": false,
+        "evidence": []
+      },
+      "distribution": {
+        "present": false,
+        "evidence": []
+      },
+      "movement": {
+        "present": false,
+        "evidence": []
+      },
+      "evolutionary_potential": {
+        "present": false,
+        "evidence": []
+      },
+      "ecological_dependencies": {
+        "present": false,
+        "evidence": []
+      },
+      "abiotic_niche": {
+        "present": false,
+        "evidence": []
+      },
+      "life_history": {
+        "present": false,
+        "evidence": []
+      }
+    },
+    "connectivity": {
+      "evaluable": true,
+      "score": 0,
+      "evidence": [],
+      "absence_note": "The document discusses habitat fragmentation and forest patches in a purely non-climate context (development pressure, invasive species). No connectivity corridors, climate corridors, or climate-gradient connectivity are mentioned. The concept of connectivity is not referenced in relation to climate-driven movement or range shifts."
+    }
+  },
+  "tools": {
+    "vulnerability_models": {
+      "evaluable": true,
+      "score": 0,
+      "named_tools": [],
+      "evidence": [],
+      "absence_note": "A reference 'American Samoa Mangroves: Climate Change Vulnerability Assessment Summary' by S.S. Mann (2016) appears in the bibliography, but it is not discussed in the narrative body of the document. Per the codebook rule, a citation appearing only in a bibliography with no in-text discussion does not count. No vulnerability models are applied or meaningfully referenced in the text."
+    },
+    "niche_models": {
+      "evaluable": true,
+      "score": 0,
+      "named_tools": [],
+      "evidence": [],
+      "absence_note": "No species distribution models, ecological niche models, or any named niche modeling tools are referenced in the document."
+    },
+    "climate_models": {
+      "evaluable": true,
+      "score": 0,
+      "named_tools": [],
+      "evidence": [],
+      "absence_note": "The document discusses climate change qualitatively (sea level rise, storms) but does not reference any GCMs, RCPs, SSPs, downscaled projections, climate scenarios, CMIP products, or any named climate modeling tool or framework.",
+      "time_horizon_years": [],
+      "emission_scenarios": []
+    },
+    "connectivity_models": {
+      "evaluable": true,
+      "score": 0,
+      "named_tools": [],
+      "evidence": [],
+      "absence_note": "No connectivity models (CircuitScape, least-cost path, Linkage Mapper, etc.) are referenced anywhere in the document."
+    }
+  },
+  "context": {
+    "management_scale": {
+      "local": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The priority landscapes for sustainability of urban forests include villages, commercial and privately-owned residential zones, government office grounds, schools, parks, sports fields, and churches.",
+            "location": "Priority Landscapes for Urban Forest Sustainability",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "site": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The largest parcel of lava-flow forest that remains of this is an area of approximately 27 contiguous acres in Ottoville on the Tafuna Plain known as the Naumati Forest, which is surrounded by suburban development.",
+            "location": "[TABLE] (Forest Legacy AON section)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "watershed": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Strategies for issues 2, 3, and 4 will likely have the greatest impact and can be most efficiently planned, implemented, and evaluated if they can be focused at the watershed level",
+            "location": "Long-Term Strategies",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "city": {
+        "present": false,
+        "evidence": []
+      },
+      "county": {
+        "present": false,
+        "evidence": []
+      },
+      "within_state_region": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "High priority landscapes determined from their native vegetation were concentrated in the northern portions of Tutuila Island, the summit and littoral areas of Ta'u, the steep slopes and littoral areas of Ofu and Olosega, and upland and littoral areas of Aunu'u Island.",
+            "location": "Priority Landscapes for Conservation of Native Flora and Fauna",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "state": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "This statewide assessment and resource strategy document will provide the basic guidance for the American Samoa forestry programs over the next five years.",
+            "location": "TRANSLATING STRATEGIES INTO ACTIONS",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "multistate": {
+        "present": false,
+        "evidence": []
+      },
+      "national": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The process served to link local priorities to the national State and Private Forestry program themes and objectives.",
+            "location": "INTRODUCTION",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "transnational": {
+        "present": false,
+        "evidence": []
+      },
+      "ecosystem": {
+        "present": false,
+        "evidence": []
+      },
+      "ecoregion": {
+        "present": false,
+        "evidence": []
+      },
+      "province": {
+        "present": false,
+        "evidence": []
+      },
+      "section": {
+        "present": false,
+        "evidence": []
+      },
+      "subsection": {
+        "present": false,
+        "evidence": []
+      },
+      "lake": {
+        "present": false,
+        "evidence": []
+      },
+      "river": {
+        "present": false,
+        "evidence": []
+      },
+      "district": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["Leone watershed", "Nu'uuli watershed", "Tafuna Plain", "Pago Pago Harbor", "Vatia", "Masefau", "Fagaitua", "Aoa", "Alao", "Tula", "Aunu'u", "Ofu", "Olosega", "Ta'u", "Tutuila"]
+    },
+    "biological_unit_score": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Key native forest types must be preserved in areas large enough to support healthy populations of these plants and animals.",
+          "location": "[FIGURE: Conservation of Native Flora and Fauna]",
+          "sub_component": "species/population",
+          "citations": []
+        },
+        {
+          "text": "Mangrove swamp is a unique forest community dominated by trees able to grow in the saline conditions on mudflats, along estuaries, and in sheltered lagoons",
+          "location": "Mangrove Swamp",
+          "sub_component": "community/habitat",
+          "citations": []
+        }
+      ],
+      "absence_note": "Species and habitat/community biological units are discussed in management contexts. No range-shift-specific framing applies; these are general conservation contexts. Score 2 because two biological unit types (species/populations and habitat/community) are discussed, even if not in range-shift framing specifically."
+    },
+    "biological_unit_components": {
+      "species": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The endemic Samoan swallowtail butterfly (Papilio godeffroyi), a species once found on all the larger Samoan islands, now appears restricted to American Samoa.",
+            "location": "Conservation of Native Flora and Fauna",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "population": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Key native forest types must be preserved in areas large enough to support healthy populations of these plants and animals.",
+            "location": "[FIGURE: Conservation of Native Flora and Fauna]",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "habitat": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Another threatened forest type in American Samoa is the mangrove forest. Out of the seven islands that comprise American Samoa, mangroves occur on only two, Tutuila and Aunu'u.",
+            "location": "American Samoa's Forests",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Reduced sedimentation and nutrient loading into wetlands results in improved function and longevity of wetland ecosystems.",
+            "location": "Issue 3 -Performance Outcomes",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "community": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Mangrove swamp is a unique forest community dominated by trees able to grow in the saline conditions on mudflats, along estuaries, and in sheltered lagoons",
+            "location": "Mangrove Swamp",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "genotype_phenotype": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["Samoan swallowtail butterfly (Papilio godeffroyi)", "Pacific sheath-tailed bat (Emballonura semicaudata rotensis)", "Mao (Gymnomyza samoensis)", "Samoan Fruit bat (Pteropus samoensis)", "Fruit bat (Pteropus tonganus)", "mangrove forest", "lowland lavaflow rainforest", "littoral forest", "montane forest", "secondary forest", "native wetlands"]
+    },
+    "partnerships_and_funding": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "The Forestry Program collaborates with government agencies both at the local and federal levels, regional organizations, and non-governmental organizations in program planning, implementation, and evaluation.",
+          "location": "American Samoa Forestry Program",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "American Samoa Community College Division of Agriculture, Community and Natural Resources, the American Samoa Department of Public Safety Fire Department, and the United States Department of Agriculture Forest Service collaboratively administer federally-funded forestry programs and services in American Samoa.",
+          "location": "INTRODUCTION",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Support for these programs are allocated through the Forest Service -State and Private Forestry program as a combination of consolidated and competitive funding.",
+          "location": "INTRODUCTION",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document describes active, multi-partner strategic implementation with named funding streams (Forest Legacy Program, State and Private Forestry, Forest Stewardship Program, Urban and Community Forestry). However, these partnerships are for general forest conservation, not specifically for range-shift actions. Scored 2 because strategic investment with active partnerships is described for implementing conservation actions (the plan's primary purpose), even though not range-shift-specific."
+    },
+    "climate_threat_habitat_degradation": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "In American Samoa, mangroves are even more important due to our rapid relative sea level rise rate (RSLR). American Samoa is subsiding at 16mm/year and if you add the 3.2mm/year average eustatic (or global) sea level rise to that number, we are looking at almost 20mm/year.",
+          "location": "[FIGURE: Rhizophora mangle caption / Kelley Anderson Tagarino quote]",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Rising sea level and storms have caused major coastal erosions for several areas in Olosega.",
+          "location": "Threats to the Native Flora and Fauna",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_threat_species_vital_rates": {
+      "evaluable": true,
+      "score": 0,
+      "evidence": [],
+      "absence_note": "The document discusses species threats from invasive species, hurricanes, and habitat loss, but does not frame climate-driven events (wildfire, emerging pathogens, heat mortality) as direct causes of mortality or vital rate changes. Cyclones are discussed as natural disturbances without explicit climate-change attribution to mortality. No direct climate-to-vital-rate chain is articulated."
+    },
+    "climate_threat_biotic_stressors": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "With frequent cyclones and tropical storms, there is a high possibility that more invasive species will inhabit the Manu'a Islands.",
+          "location": "Threats to the Native Flora and Fauna",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document links increased cyclone/storm frequency (implicitly climate-related in context) to increased invasive species spread, which qualifies as climate-driven biotic stressor. The broader invasive species discussion does not have strong explicit climate framing, but the Manu'a passage makes the connection. This is a borderline call; scored 1 because at least one passage explicitly connects climate/storm events to increased invasive species risk."
+    }
+  },
+  "actions": {
+    "priority_habitat_identification": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "All areas of Native Forests were assigned high priority for this issue. High priority landscapes determined from their native vegetation were concentrated in the northern portions of Tutuila Island, the summit and littoral areas of Ta'u, the steep slopes and littoral areas of Ofu and Olosega, and upland and littoral areas of Aunu'u Island.",
+          "location": "Priority Landscapes for Conservation of Native Flora and Fauna",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "The total mapped Forest Legacy Area is 12,179 acres which represents less than 34% of the forested land in the territory.",
+          "location": "American Samoa Forest Legacy Area Map Development",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Figure 3 Map of the American Samoa Forest Legacy Area based on the selection criteria.",
+          "location": "[FIGURE caption]",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "Priority landscapes are spatially delineated and mapped for all five critical issues, and the Forest Legacy Area is explicitly mapped (Figure 3, Figure 4). Score 2 is appropriate. Note that the prioritization is primarily driven by development threat and biodiversity, not climate-driven range shift considerations."
+    },
+    "targeted_range_shift_actions": {
+      "evaluable": true,
+      "score": 0,
+      "evidence": [],
+      "absence_note": "The document proposes mangrove reintroduction and restoration, and native species planting, but these are framed as general restoration/conservation actions, not as responses to climate-driven range shifts. No assisted migration, climate corridors, or other actions explicitly motivated by climate-driven distributional change are proposed. The mangrove restoration is motivated by past habitat loss from development and filling, not range shifts."
+    },
+    "time_bound_and_monitoring": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "This statewide assessment and resource strategy document will provide the basic guidance for the American Samoa forestry programs over the next five years.",
+          "location": "TRANSLATING STRATEGIES INTO ACTIONS",
+          "sub_component": "time-bound",
+          "citations": []
+        },
+        {
+          "text": "Near the end of each calendar year, the program managers will review their progress in consultation with key stakeholders and outline an action plan and draft grant proposals for the coming year.",
+          "location": "TRANSLATING STRATEGIES INTO ACTIONS",
+          "sub_component": "monitoring",
+          "citations": []
+        }
+      ],
+      "absence_note": "The document describes a five-year planning horizon and annual review cycle, but does not attach specific deadlines or milestones to individual conservation actions. Monitoring is described in general terms under each issue (e.g., monitoring adoption of best management practices) but is not operationalized with specific metrics tied to individual actions. Score 1 (deadlines at the plan level, no action-level effectiveness monitoring). Score 2 would require both action-level deadlines and effectiveness monitoring."
+    },
+    "evidence_of_efficacy": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Disturbed areas restored with native flora using proven effective methods.",
+          "location": "Issue 5 -Performance Outcomes",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document references 'proven effective methods' for reforestation and 'best management practices' for agroforestry and sediment control, but does not cite specific studies or case studies to support these as evidence of efficacy. General ecological principles are invoked (e.g., native trees reduce erosion, mangroves protect shorelines) as first principles rather than as tested evidence. Score 1 (rationale outlined, vague ecological assumptions as first principles, no cited evidence for specific actions).",
+      "projects": []
+    },
+    "adaptation_planning_frameworks": {
+      "evaluable": true,
+      "score": 0,
+      "evidence": [],
+      "absence_note": "The document does not reference any named climate adaptation planning framework (RAD, RRT, CCVA, Structured Decision Making, Scenario-Based Decision Analysis, adaptation menus, etc.). 'Climate change mitigation' appears once in a list of training topics, and adaptive management is implicitly invoked through the annual review cycle, but neither is framed in the context of decision-making under climate change. The monitoring and calibration sections describe general adaptive management principles but without climate-change framing."
+    }
+  },
+  "coding_meta": {
+    "coder": "llm:claude-sonnet-4-6",
+    "model": "claude-sonnet-4-6",
+    "provider": "claude",
+    "codebook_version": "0.4",
+    "ingest": "text",
+    "design": "single",
+    "temperature": null,
+    "thinking": null,
+    "thinking_effort": null,
+    "coded_at": "2026-07-07T00:31:30Z",
+    "notes": {}
+  }
+}

@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main"></title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">3958B8F14F2A8C9CB5BD908D5F7F500A</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.1" ident="GROBID" when="2026-07-06T11:45+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Habitats of Species of Greatest Conservation Need</head><p>Required Element #2: Descriptions of the extent and condition of habitats and community types essential to conservation of species of greatest conservation need. Habitat availability, quantity, and quality are primary factors influencing the viability of wildlife populations. To protect and manage for species of greatest conservation need it is essential to identify the distribution of species within the state and the natural resources critical to their survival in and around occupied areas. Categorizing Iowa's habitat types and the SGCN species that depend on them will aid the design of effective management practices that will directly benefit Iowa's wildlife. Table 4-1. 2024 National Land Cover Database Class Legend and Description (adapted for Iowa) Class/Value Classification Description Water 11 Open Water -areas of open water, generally with less than 25% cover of vegetation or soil. Developed 21</p><p>Developed, Open Space-areas with a mixture of some constructed materials, but mostly vegetation in the form of lawn grasses. Impervious surfaces account for less than 20% of total cover. These areas most commonly include large-lot single-family housing units, parks, golf courses, and vegetation planted in developed settings for recreation, erosion control, or aesthetic purposes.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>22</head><p>Developed, Low Intensity-areas with a mixture of constructed materials and vegetation. Impervious surfaces account for 20% to 49% percent of total cover. These areas most commonly include single-family housing units.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>23</head><p>Developed, Medium Intensity-areas with a mixture of constructed materials and vegetation. Impervious surfaces account for 50% to 79% of the total cover. These areas most commonly include single-family housing units.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>24</head><p>Developed High Intensity-highly developed areas where people reside or work in high numbers. Examples include apartment complexes, row houses and commercial/industrial. Impervious surfaces account for 80% to 100% of the total cover. Barren 31 Barren Land (Rock/Sand/Clay)-areas of bedrock, desert pavement, scarps, talus, slides, volcanic material, glacial debris, sand dunes, strip mines, gravel pits and other accumulations of earthen material. Generally, vegetation accounts for less than 15% of total cover. Forest 41 Deciduous Forest-areas dominated by trees generally greater than 5 meters tall, and greater than 20% of total vegetation cover. More than 75% of the tree species shed foliage simultaneously in response to seasonal change.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>42</head><p>Evergreen Forest-areas dominated by trees generally greater than 5 meters tall, and greater than 20% of total vegetation cover. More than 75% of the tree species maintain their leaves all year. Canopy is never without green foliage.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Organizing Frameworks -Ecoregions and Watersheds</head><p>In addition to hierarchical systems for classification of lifeforms (taxonomy) and habitat types, geographic classification frameworks are also used to organize natural resource management, research, and planning activities. Over the years, natural resource agencies have moved from using political (e.g., county or state) boundaries toward the use of more holistic, ecosystem-based (e.g., watershed or flyway) frameworks for planning and delivering conservation. Due to this shift in methodology, many potentially useful ecoregional classification systems have been developed. Using biotic and abiotic ecological principles and processes, numerous authors have developed hierarchical ecoregional classification systems for a range of geographical scales <ref type="bibr" target="#b1">(Cleland et al 1997)</ref>. The Iowa Wildlife Action Plan is intended to provide useful information to users of watershed-and ecoregional-based approaches, and to illustrate the complementary use of these frameworks. Previous iterations of the Plan (2012 and earlier) used the Landform Regions of Iowa (Iowa Geologic Survey, Iowa DNR) as a coarse-scale geographic framework, and watershed boundaries for some finer-scale analyses.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Ecoregions</head><p>One limitation of the Landform Regions of Iowa is that it was developed specifically for management and planning use in Iowa and, thus, does not follow a consistent hierarchical classification framework as other national ecoregional datasets. A variety of readily-available continental or national ecoregional datasets exist that were developed independent of political boundaries and are commonly used by conservation entities across the country. The Association of Fish &amp; Wildlife Agencies (AFWA) recommends that for the development of State Wildlife Action Plans, resource managers "select classification systems, mapping units, and other such methodologies and data sources that will support the ultimate integration of SWAP priorities into future implementation of regional and national conservation initiatives…" <ref type="bibr">(AFWA, 2012)</ref>. Although developed at a coarser scale than the Landform Regions of Iowa the Environmental Protection Agency (EPA) Ecoregions of the Continental U.S. is a dataset capable of providing consistency for the development of SWAPs (U.S. <ref type="bibr">EPA, 2013)</ref>. For more seamless collaboration across state and federal lines, this Plan utilizes the EPA ecoregional framework for describing terrestrial and aquatic resources and conservation management and planning in Iowa (Map 4-1 and Map 4-2). Watersheds are a useful spatial framework for establishing ecologically relevant boundaries for the evaluation of water quantity and quality, and subsequently aquatic habitats, across Iowa. The hierarchical nature of the HUC framework makes it scale-able to an issue of interest and the boundaries have been mapped and agreed-upon by most conservation entities in the U.S. Furthermore, HUCs are useful as units of evaluation because the water quantity and quality as measured at a given point along a flow line provides information about higher topographic areas from that point. Thus, the effects of natural processes or of management of land and water within a watershed can be evaluated. For these reasons, watersheds are used for a variety of analyses within this Plan, particularly those analyses which specifically focus on aquatic organisms or require a finer spatial resolution than the ecoregions provide.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Organizing Frameworks -Terrestrial and Aquatic Habitat Classes</head><p>Iowa has a variety of land use and land cover datasets useful in analysis of the extent and location of Iowa's wildlife habitat. A look at the predominant land use by watershed provides a current overview of the big picture of Iowa's habitat (Map 4-3). This version of the Plan uses the 2024 National Land Cover Database which is described in Mixed Forest-areas dominated by trees generally greater than 5 meters tall, and greater than 20% of total vegetation cover. Neither deciduous nor evergreen species are greater than 75% of total tree cover. Shrubland 52 Shrub/Scrub-areas dominated by shrubs; less than 5 meters tall with shrub canopy typically greater than 20% of total vegetation. This class includes true shrubs, young trees in an early successional stage or trees stunted from environmental conditions. Herbaceous 71 Grassland/Herbaceous-areas dominated by graminoid or herbaceous vegetation, generally greater than 80% of total vegetation. These areas are not subject to intensive management such as tilling, but can be utilized for grazing. Planted/Cultivated 81 Pasture/Hay-areas of grasses, legumes, or grass-legume mixtures planted for livestock grazing or the production of seed or hay crops, typically on a perennial cycle. Pasture/hay vegetation accounts for greater than 20% of total vegetation.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>82</head><p>Cultivated Crops-areas used for the production of annual crops, such as corn, soybeans, vegetables, tobacco, and cotton, and also perennial woody crops such as orchards and vineyards. Crop vegetation accounts for greater than 20% of total vegetation. This class also includes all land being actively tilled.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Class/Value</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Classification Description Wetlands 90</head><p>Woody Wetlands-areas where forest or shrubland vegetation accounts for greater than 20% of vegetative cover and the soil or substrate is periodically saturated with or covered with water.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>95</head><p>Emergent Herbaceous Wetlands-Areas where perennial herbaceous vegetation accounts for greater than 80% of vegetative cover and the soil or substrate is periodically saturated with or covered with water.</p><p>The proportion of each land cover type mapped in Iowa is provided in Table <ref type="table" target="#tab_3">4-2</ref>.  </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Aquatic Habitat Classes</head><p>The aquatic habitat types chosen for use in the IWAP are displayed in Table <ref type="table" target="#tab_0">4</ref>-4. In the natural world, there is no clear delineation between these aquatic habitat classes. Creeks grade into streams and streams grade into rivers. There are many sizes of water bodies between small ponds and large lakes. Shallow natural lakes, or open water marshes, provide a significant transition between lakes and streams. They are extremely sensitive to fluctuations in water quality, water level and invasive species. Aquatic classes may show differences in flow rate, bottom substrate, water quality and clarity, water temperature and dissolved oxygen content as well as differences in associated plant and animal species. Aquatic species utilizing vegetated herbaceous wetlands are included in the Wetland habitat class (Table <ref type="table" target="#tab_0">4</ref>-1).</p><p>Defining aquatic habitat classes helps describe the ecological need of aquatic species in a way that allows conservationists to focus on undertaking conservation actions in the right places for the right species. In addition, the following classes are all able to be mapped and therefore these classifications can be used to stratify the survey designs for aquatic organisms. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Surface Mines</head><p>Surface mines are artificial water bodies in excavated basins, often the result of sand and gravel mining operations, or resulting from excavations to provide fill materials for roadway construction like overpass ramps on major highways.</p><p>Iowa has over 19,000 miles of interior rivers and streams. There are 87 cold water streams located in northeast Iowa with a combined length of 266 miles. The 25 largest interior rivers extend over 3,500 miles and numerous smaller creeks and streams feed each.</p><p>All interior rivers and streams are part of either the Mississippi or the Missouri River systems. The Mississippi River watershed is 38,860 square miles (69 % of Iowa's surface area). The Missouri River drains 17,379 square miles (31%).</p><p>An oxbow is formed when a river channel changes course and sediments block the entrance and exit of a meander in the old channel. Large oxbows are found along the Missouri and Mississippi Rivers and smaller, pond-like oxbows are found along many interior rivers and streams.</p><p>There are four U.S. Army Corps of Engineers flood control reservoirs on Iowa rivers, including two on the Des Moines River (Saylorville and Red Rock reservoirs), one on the Iowa River (Coralville Reservoir) and one on the Chariton River (Rathbun Reservoir).</p><p>Natural lakes are most common in the Loess Prairies and the Des Moines lobe ecoregions. Thirty-one major natural lakes with a combined surface area of almost 29,000 acres and 17 marsh-like shallow lakes with over 3,000 acres of combined surface area are still present in Iowa in spite of the extensive drainage of the past 150 years.</p><p>Constructed lakes include recreational lakes, municipal water supplies, river impoundments and surface mine lakes. These are generally small; less than one-fourth of these are over 100 acres. More than 200 man-made dams on rivers, streams and creeks impound areas ranging from 15 acres to 19,000 acres.</p><p>There are more than 87,000 ponds statewide. Most are in the Rolling Loess Prairies and Central Irregular Till Plains ecoregions, south of Iowa Highway 92. Ponds are generally less than 10 acres. An estimated 53% of Iowa's surface water area is in private ownership, and that vast majority of that acreage is in farm ponds.</p><p>Wetlands are transitions between terrestrial and aquatic systems and have saturated soil for a majority of the growing season. All wetlands have three things in common: hydric soils, hydrology, and the presence of aquatic plants. Many different wetland classifications exist. In general, herbaceous wetlands can be classified as:</p><p>• Marshes, open and unforested wetlands dominated by cattails, sedges and grasses;</p><p>• Wet meadows which are dominated by sedges with very shallow water levels or are just saturated to soil level;</p><p>• Bogs and fens which are made up of unique living plants over partially decomposed organic matter (peat).</p><p>Wetlands in these categories are included with the terrestrial habitat classes under Emergent Herbaceous Wetlands (Table <ref type="table" target="#tab_3">4-1)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Habitat Maps</head><p>The maps on the following pages give a visual impression of the distribution of wildlife habitats, and they highlight two problems that are discussed later in the Plan. Most habitat blocks are small and highly fragmented compared to Iowa's original landscape. A century of sub-dividing the land for agricultural purposes has left few large blocks in any vegetative cover except for crops. This has implications for area-sensitive species that require large blocks of habitat to survive or reproduce successfully. It may also make it difficult for less mobile species to pioneer new habitats or to find replacement habitat if their habitat patch is destroyed or altered unacceptably. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Habitat Preferences of SGCN</head><p>The Wildlife Working Groups' Taxonomic Subcommittees assigned each SGCN to a habitat class or classes. Aspects of each species' biology and behavior complicated this process. Some are generalists and can occupy a variety of habitats; others have very narrow habitat tolerances. Some species require different habitats at different stages in their life cycles, at different seasons of the year or at different times of the day. Working Groups identified those habitats that were considered to be the most critical or limiting to the species distribution and abundance in Iowa. Habitat preferences are taken from the existing literature and do not necessarily include all of the terrestrial and aquatic habitat classes listed in this Plan. Habitat preferences for individual SGCN are found in Appendix 18.</p><p>Appendix 19 displays SGCN with common habitat preferences grouped into the habitat classes used in this Plan. Species with more than one preferred habitat were listed in each class. Groupings of SGCN by habitat class give a very general overview useful for identifying habitat protection or restoration priorities at the landscape level. Detailed habitat management plans for SGCN must consider their entire individual habitat needs. Habitat management guidance documents are developed and updated as information becomes available, and therefore not provided within the Plan.</p><p>Flowing water aquatic habitats had the greatest number of SGCN of any habitat class, followed by grasslands (Appendix 19).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Priorities for Habitat Protection</head><p>Given the lack of natural areas remaining in Iowa, general strategies for prioritization of habitat protection tend to focus on enlarging the size of habitat complexes, reducing fragmentation, and increasing connectivity between larger areas of habitat. However, there are many species that have very specific habitat requirements, and some of those specialist species require habitats that are rare in Iowa or particularly sensitive to human disturbance. Thus, conservation of wildlife will require an approach that addresses both coarse-scale as well as fine-scale habitat needs.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Landscape-Scale Prioritization</head><p>Land protection not only provides habitat for wildlife and recreational opportunities for people, but also offers opportunities to maintain and restore ecosystem functions such as water filtration, flood abatement, carbon storage, etc. Intact ecosystems tend to provide more benefits and are more resilient to outside stressors. Therefore, land protection efforts in Iowa should continue to focus on the following principles: 1. Development of functional landscapes -adding parcels to existing protected areas to create core areas of fish and wildlife habitat. 2. Decreasing fragmentation -using land protection to decrease the number of edges between habitat and nonhabitat areas. 3. Increasing connectivity -protecting and/or managing for wildlife use of areas between existing habitat core areas to facilitate movement between these areas. 4. Protection of native sod -protecting and/or managing for remnant prairies or other areas which have not been previously plowed. (See Iowa Tallgrass Prairie Working Group, 2013 for more information on this principle and how it's applied.)</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Rare and Sensitive Communities</head><p>Land protection and management efforts in Iowa should also continue to focus on preservation of rare and/or sensitive ecological communities, which in turn support rare wildlife species. Some of Iowa's unique landforms or natural communities are of global significance. For example, the Loess Hills of western Iowa comprise one of the most extensive Loess deposits in the world. Below are descriptions of important rare and sensitive communities in Iowa.</p><p>The following descriptions are all adapted from NatureServe Explorer (Faber-Langendoen et al. 2012).</p><p>1. Sand Prairie -This system is found in the northern Midwest, particularly in Minnesota, Wisconsin, Michigan, and possibly ranging into Ontario. It is often found on glacial features such as kames, eskers, moraines, lakeplains (though excluding the Great Lakes lakeplain) and sandplains, and along eolian dunes. In contrast to the deeper, richer soils supporting other tallgrass systems in the region, the underlying soils in this system tend to be more shallow, sandy, rocky, and/or gravelly outwash soils. Organic content is significantly lower. Fire and drought are the major dynamics influencing this system. If fire and periodic drought are not present, woody species begin to invade this system, especially in the eastern parts of its distribution. Wind can also play a role, especially on examples found on sandplains and/or eolian dunes. (From NatureServe North-Central Interior Sand and Gravel Tallgrass Prairie).</p><p>2. North-Central Interior Shrub-Graminoid Alkaline Fens -This fen system is found in the glaciated portions of the Midwest and southern Canada. Examples of this system can be located on level to sloping seepage areas, in pitted outwash or in kettle lakes associated with kettle-kame-moraine topography. Groundwater flows through marls and shallow peat soils, and groundwater is typically minerotrophic and slightly alkaline. Examples of this system contain a core fen area of graminoids surrounded by shrubs. Alterations in wetland hydrology and agricultural development can threaten examples of this system. (From NatureServe Explorer -North-Central Interior Shrub-Graminoid Alkaline Fen).</p><p>Algific Talus Slopes and Goat Prairies -This system is found in the driftless regions of southeastern Minnesota, southwestern Wisconsin, and northern Iowa and Illinois. This region was not glaciated like the surrounding areas and thus is predominated by rolling hills and bluff outcrops. This system is found primarily on blufftops and dry upper slopes along the Upper Mississippi River. This system contains a mosaic of woodlands, savannas, prairies and sparsely vegetated limestone, dolomite, and/or sandstone outcrops, with occasional talus, especially algific talus. Soils range from thin to moderately deep and are moderately to excessively well-drained with a high mineral content. Historically, fire was the most important dynamic maintaining these systems, however, fire suppression within the region has allowed more canopy cover and thus very few prairie openings remain. Algific talus harbors a number of unusual Pleistocene relict species, including plants and snails. (From NatureServe Paleozoic Plateau Bluff and Talus).</p><p>3. Prairie remnantsa. Central Tallgrass Prairies -this system is found primarily in the Central Tallgrass Prairie ecoregion ranging from eastern Kansas and Nebraska to northwestern Indiana. This system differs from other prairie systems to the north and south by being the most mesic with primarily deep, rich Mollisol soils. These soils are usually greater than 1 meter deep. This system is dominated by tallgrass species such as Andropogon gerardii, Sorghastrum nutans, and Panicum virgatum. These species typically grow to 1-2 m tall in the rich soils found in this system. Other mid-and shortgrass species, such as Bouteloua curtipendula, Hesperostipa spartea, and Schizachyrium scoparium, are usually present and can be common or locally dominant on patches of this system, particularly slopes or other areas with drier habitats. Several forb species are also associated with this system making it one of the most diverse grassland systems. As many as 300 herbaceous plant species could occur in this system across its range. The environment and habitat of this system do not prevent invasion by shrubs and trees. High-quality examples of this system have trees and shrubs widely scattered or clustered in areas that are wetter and/or more sheltered from fire than the surrounding grassland. Fire, drought, and grazing are the primary natural dynamics influencing this system and help prevent woody species from invading. However, conversion to agriculture has been the prime disturbance since post-European settlement. The rich soils and long growing season make this an ideal location for farming row crops, and as a result very few examples of this system remain. b. Northern Tallgrass Prairie -This system is found primarily in the Northern Tallgrass ecoregion ranging along the Red River basin in Minnesota and the Dakotas to Lake Manitoba in Canada. It constitutes the northernmost extension of the "true" prairies. Similar to Central Tallgrass Prairie (described above) this system is dominated by tallgrass species such as Andropogon gerardii, Sorghastrum nutans, and Panicum virgatum. However, the soils in this region are not as rich or deep, and thus this system does not have as much species diversity as grasslands to the south. This system is often found on well-drained, drier soils.</p><p>Grazing and fire influenced this system historically. Much of this system has been converted to agriculture with very few unaltered and highly fragmented examples remaining.</p><p>4. Great Plains Prairie Potholes -The prairie pothole system is found primarily in the glaciated northern Great Plains of the United States and Canada, and is characterized by depressional wetlands formed by glaciers scraping the landscape during the Pleistocene era. This system is typified by several classes of wetlands distinguished by changes in topography, soils and hydrology. Many of the basins within this system are closed basins and receive irregular inputs of water from their surroundings (groundwater and precipitation), and some export water as groundwater. Hydrology of the potholes is complex. Precipitation and runoff from snowmelt are the principal water sources, with groundwater inflow secondary. Evapotranspiration is the major water loss, with seepage loss secondary. Most of the wetlands and lakes contain water that is alkaline (pH &gt;7.4). The concentration of dissolved solids result in water that ranges from fresh to extremely saline. The flora and vegetation of this system are a function of the topography, water regime, and salinity. In addition, because of periodic droughts and wet periods, many wetlands within this system undergo vegetation cycles. This system includes elements of aquatic vegetation, emergent marshes, and wet meadows that develop into a pattern of concentric rings. This system is responsible for a significant percentage of the annual production of many economically important waterfowl in North America and houses more than 50% of North American's migratory waterfowl, with several species reliant on this system for breeding and feeding. Much of the original extent of this system has been converted to agriculture, and only approximately 40-50% of the system remains undrained.</p><p>(From NatureServe Great Plains Prairie Potholes).</p><p>5. Oak Savanna -This system is found primarily in the northern glaciated regions of the Midwest with the largest concentration in the prairie-forest border ecoregion. It is typically found on rolling outwash plains, hills and ridges. Soils are typically moderately well-to well-drained deep loams. This system is typified by scattered trees over a continual understory of prairie and woodland grasses and forbs. Quercus macrocarpa is the most common tree species and can range from 10-60% cover. The understory is dominated by tallgrass prairie species such as Andropogon gerardii and Schizachyrium scoparium associated with several forb species. Historically, frequent fires maintained this savanna system within its range and would have restricted tree canopies to 10-30%. Fire suppression in the region has allowed trees to establish more dense canopies. Periodic, strong wind disturbances and browsing also impact this system. Much of this system has also been converted to urban use or agriculture, and thus its range has decreased considerably. (From NatureServe North Central Interior Oak Savanna).</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head></head><label></label><figDesc>Protection Agency Level III Ecoregions of the Continental U.S. mapped in Iowa Map 4-2. Environmental Protection Agency Level IV Ecoregions of the Continental U.S. mapped in Iowa (Large font denotes the names of Level III ecoregions and small font, Level IV ecoregions.) Watersheds A watershed is a geographic area of land for which all surface water (storm or base flow) drains or flows to a point of lower elevation. Watersheds come in many shapes and sizes and can be delineated at several scales. The U.S. Geological Survey has created and mapped a hierarchical classification of hydrologic units, individually identified at each successively smaller level by a Hydrologic Unit Code (HUC), for representing variable levels of surface drainage basins or distinct hydrologic features.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head></head><label></label><figDesc>2012 versions of the IWAP utilized nine terrestrial vegetation classes defined by Iowa GAP as the basis for evaluating terrestrial wildlife habitats. Vegetation classes were mapped from digital remote sensing of 30 Landsat 5 Thematic Mapper (TM) images spanning 12 scenes across the state for obtaining statewide coverage and two to three images per scene from between 1990 and 1994 (Kane et al. 2003). The 2015 version of the plan used the Iowa 2009 High Resolution Land Cover dataset to display land use, and the habitat classes used in the 2015 edition of this plan were modeled after the Iowa 2009 HRLC.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="9,46.28,48.21,519.45,394.60" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="10,57.10,48.21,497.80,380.10" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="11,50.88,48.21,510.23,387.10" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 4</head><label>4</label><figDesc></figDesc><table><row><cell>-1 and provides more</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 4 -2. Proportion of each land cover type mapped within Iowa from the 2024 National Land Cover Database</head><label>4</label><figDesc>Wildlife habitats are not uniformly distributed throughout the state (Table4-3). Agriculture dominates all ecoregions and ranges from 29% of the land cover in the Loess Flats &amp; Till Plains ecoregion to 80% in the Northwest Iowa Loess</figDesc><table><row><cell>Land Cover Type</cell><cell>Acres</cell><cell>Percent of Iowa</cell></row><row><cell>Agricultural &amp; Grassland</cell><cell></cell><cell></cell></row><row><cell>Cultivated Crops</cell><cell>24,542,939</cell><cell>68%</cell></row><row><cell>Pasture/Hay</cell><cell>4,839,442</cell><cell>13%</cell></row><row><cell>Barren</cell><cell>64,138</cell><cell>0.2%</cell></row><row><cell>Grassland/Herbaceous</cell><cell>193,573</cell><cell>1%</cell></row><row><cell>All Agricultural &amp; Grassland</cell><cell>29,640,092</cell><cell>82%</cell></row><row><cell>Forest</cell><cell></cell><cell></cell></row><row><cell>Deciduous Forest</cell><cell>2,460,205</cell><cell>6.83%</cell></row><row><cell>Evergreen Forest</cell><cell>22,482</cell><cell>0.06%</cell></row><row><cell>Mixed Forest</cell><cell>47,807</cell><cell>0.13%</cell></row><row><cell>Shrub/Scrub</cell><cell>37,776</cell><cell>0.1%</cell></row><row><cell>All Forest</cell><cell>2,568,270</cell><cell>7%</cell></row><row><cell>Developed</cell><cell></cell><cell></cell></row><row><cell>Developed, Open Space</cell><cell>1,087,558</cell><cell>3%</cell></row><row><cell>Developed, Low Intensity</cell><cell>1,275,624</cell><cell>4%</cell></row><row><cell>Developed, Medium Intensity</cell><cell>345,282</cell><cell>1%</cell></row><row><cell>Developed, High Intensity</cell><cell>73,133</cell><cell>0.2%</cell></row><row><cell>All Developed</cell><cell>2,781,597</cell><cell>8%</cell></row><row><cell>Aquatic</cell><cell></cell><cell></cell></row><row><cell>Open Water</cell><cell>316,210</cell><cell>1%</cell></row><row><cell>Woody Wetlands</cell><cell>417,692</cell><cell>1%</cell></row><row><cell>Emergent Herbaceous Wetlands</cell><cell>294,081</cell><cell>1%</cell></row><row><cell>All Aquatic</cell><cell>1,027,983</cell><cell>3%</cell></row><row><cell>TOTAL SURFACE AREA</cell><cell>36,017,942</cell><cell>100%</cell></row><row><cell>Distribution of Terrestrial Habitats</cell><cell></cell><cell></cell></row></table><note><p>Prairies ecoregion. The largest total proportions of wooded, grassland, and wetland habitats exist in the Loess Flats &amp; Till Plains and the Paleozoic Plateau/Coulee Section ecoregions, and comprise 67% and 66% of the total land cover in each region, respectively. The Northwest Iowa Loess Prairie, Des Moines Lobe, and the Missouri Alluvial Plain contain the least total proportions of wooded, grassland, and wetland habitats, which together comprise 17%, 19%, and 19% of the total land cover in each ecoregion, respectively.</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 4 -3. Proportion of 2024 National Land Cover Database major cover types by Environmental Protection Agency Level III and IV Ecoregions in Iowa. Major land cover classes for ecoregions, as a proportion of each ecoregion's land area</head><label>4</label><figDesc></figDesc><table><row><cell>Ecoregion 1</cell><cell>Acres in Iowa</cell><cell>% of State</cell><cell cols="4">Wooded Grassland Wetland Total</cell><cell>Cultivated Crops</cell></row><row><cell>40. Central Irregular Plains</cell><cell>3,620,563</cell><cell>10%</cell><cell>21%</cell><cell>40%</cell><cell>1%</cell><cell>63%</cell><cell>30%</cell></row><row><cell>40a. Loess Flats &amp; Till Plains</cell><cell>3,620,563</cell><cell>10%</cell><cell>21%</cell><cell>40%</cell><cell>1%</cell><cell>63%</cell><cell>30%</cell></row><row><cell>47. Western Corn Belt Plains</cell><cell>30,171,226</cell><cell>84%</cell><cell>4%</cell><cell>11%</cell><cell>2%</cell><cell>17%</cell><cell>74%</cell></row><row><cell>47a. Northwest Iowa Loess Prairies</cell><cell>2,804,513</cell><cell>8%</cell><cell>1%</cell><cell>5%</cell><cell>1%</cell><cell>7%</cell><cell>85%</cell></row><row><cell>47b. Des Moines Lobe</cell><cell>7,814,565</cell><cell>22%</cell><cell>2%</cell><cell>6%</cell><cell>2%</cell><cell>9%</cell><cell>82%</cell></row><row><cell>47c. Eastern IA &amp; MN Drift Plains</cell><cell>5,444,713</cell><cell>15%</cell><cell>3%</cell><cell>6%</cell><cell>2%</cell><cell>11%</cell><cell>79%</cell></row><row><cell>47d. Missouri Alluvial Plain</cell><cell>636,685</cell><cell>2%</cell><cell>1%</cell><cell>4%</cell><cell>5%</cell><cell>9%</cell><cell>79%</cell></row><row><cell>47e. Steeply Rolling Loess Prairies</cell><cell>3,337,773</cell><cell>9%</cell><cell>2%</cell><cell>8%</cell><cell>1%</cell><cell>11%</cell><cell>83%</cell></row><row><cell>47f. Rolling Loess Prairies</cell><cell>9,120,039</cell><cell>25%</cell><cell>8%</cell><cell>20%</cell><cell>2%</cell><cell>30%</cell><cell>60%</cell></row><row><cell>47m. Western Loess Hills</cell><cell>1,012,938</cell><cell>3%</cell><cell>15%</cell><cell>18%</cell><cell>0%</cell><cell>33%</cell><cell>58%</cell></row><row><cell>52. The Driftless Area</cell><cell>1,783,771</cell><cell>5%</cell><cell>25%</cell><cell>20%</cell><cell>2%</cell><cell>47%</cell><cell>43%</cell></row><row><cell>52b. Paleozoic Plateau/ Coulee Section</cell><cell>1,492,085</cell><cell>4%</cell><cell>29%</cell><cell>22%</cell><cell>3%</cell><cell>54%</cell><cell>36%</cell></row><row><cell>52c. Rochester/ Paleozoic Plateau Upland</cell><cell>291,686</cell><cell>1%</cell><cell>4%</cell><cell>9%</cell><cell>0%</cell><cell>13%</cell><cell>80%</cell></row><row><cell>72. Interior River Valleys &amp; Hills</cell><cell>426,908</cell><cell>1%</cell><cell>3%</cell><cell>7%</cell><cell>14%</cell><cell>24%</cell><cell>59%</cell></row><row><cell>72d. Upper Mississippi Alluvial Plain</cell><cell>426,908</cell><cell>1%</cell><cell>3%</cell><cell>7%</cell><cell>14%</cell><cell>24%</cell><cell>59%</cell></row><row><cell>Total Acres</cell><cell cols="2">36,002,468 100%</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell></row></table><note><p>1 See Map 4-1 and Map 4-2 for locations of ecoregions. See Chapter 2 for more detailed descriptions of ecoregions. The remainder of the landcover for each Ecoregion is a combination of developed areas and open water.</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>Table 4 -4. Aquatic Habitat Classes Used in the IWAP Aquatic Habitat Description</head><label>4</label><figDesc>of water formed from artificial damming of a river, or stream, generally less than 500 acres in size and having a watershed to lake ratio &gt;80:1.Federal Flood Control ReservoirsIowa has 4 federal flood control reservoirs: Saylorville, Red Rock, Coralville, and Rathbun.Mississippi River PoolsPools on the Mississippi River caused by the construction of the lock and dam system.BackwaterSlow flowing bodies of water associated with larger river systems. Back-channel lowlying areas filled with water during high flow events but may be completely isolated from the river during low flow and may exhibit no flow during these periods. They are especially prevalent on the Mississippi River.OxbowA sub-class of backwaters, they are water bodies formed in old river channels that are now cut off from the main channel and flow of a river.Large bodies of water exhibiting little or no flow with emergent vegetation over less than 25% of the surface area."Publicly owned lake" means any constructed or natural lake having a watershed acreage-to-lake surface area ratio of less than 80 to 1 and owned by an Iowa county or municipal government or by the state of Iowa. (IAC 571 Chapter 31) Shallow lake Open freshwater systems where maximum depth is less than 10 feet. Normally in a permanent open water state due to the altered hydrology of watersheds and unmanaged outlet structures that maintain artificially high water levels. May be fringed by a border of emergent vegetation in water depths less than 6 feet. When clear, they are dominated by emergent and submergent vegetation. Pond Smaller standing body of water, less than 10 acres in size.</figDesc><table><row><cell>Aquatic Habitat</cell></row></table><note><p><p><p><p><p>River</p>Large flowing bodies of water. Third order and lower (larger). The Mississippi is a 10 th order river.</p>Stream</p>A. Warm Water B. Cold Water</p>Smaller flowing bodies of water that serve as tributaries to rivers. The stream class includes first and second order streams. Also referred to as headwater streams.</p></note></figure>
+		</body>
+		<back>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<monogr>
+		<title level="m" type="main">Best practices for State Wildlife Action Plans -voluntary guidance to states for revision and implementation</title>
+		<imprint>
+			<date type="published" when="2012">2012</date>
+			<publisher>Association of Fish and Wildlife Agencies</publisher>
+			<biblScope unit="volume">80</biblScope>
+			<pubPlace>Washington (DC</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Teaming With Wildlife Committee, State Wildlife Action Plan (SWAP) Best Practices Working Group</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<title level="m" type="main">Ecosystem Management Applications for Sustainable Forest and Wildlife Resources</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">T</forename><surname>Cleland</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Avers</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Mcnab</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Jensen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Bailey</surname></persName>
+		</author>
+		<author>
+			<persName><surname>King</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Russell</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1997">1997. 1997</date>
+			<publisher>Yale University Press</publisher>
+			<biblScope unit="page" from="181" to="200" />
+			<pubPlace>Boyce, MS; A Haney; New Haven, CT</pubPlace>
+		</imprint>
+	</monogr>
+	<note>National Hierarchical Framework of Ecological Units</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Classification and description of world formation types. Part I (Introduction) and Part II (Description of formation types)</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Faber-Langendoen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Keeler-Wolf</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Meidinger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Josse</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Weakley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Tart</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Navarro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Hoagland</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Ponomarenko</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Saucier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Fults</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Helmer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Federal Geographic Data Committee, FGDC Secretariat, US Geological Survey</title>
+		<meeting><address><addrLine>Reston, VA, and NatureServe, Arlington, VA</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+	<note>Hierarchy Revisions Working Group</note>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<title level="m" type="main">A plan for the conservation of tallgrass prairie in Iowa: Attaining the goals of the Northern Tallgrass Prairie Habitat Preservation Area</title>
+		<imprint>
+			<date type="published" when="2013">2013</date>
+			<biblScope unit="page">28</biblScope>
+			<pubPlace>Des Moines, IA</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>Iowa Tallgrass Prairie Working Group</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<monogr>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">L</forename><surname>Kane</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Klaas</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Kl Andersen</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Brown</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Mcneely</surname></persName>
+		</author>
+		<title level="m">The Iowa Gap Analysis Project Final Report. Iowa Cooperative Fish and Wildlife Research Unit</title>
+		<meeting><address><addrLine>Ames, IA, USA</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2003">2003</date>
+		</imprint>
+		<respStmt>
+			<orgName>Iowa State University</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<monogr>
+		<author>
+			<persName><surname>Natureserve</surname></persName>
+		</author>
+		<title level="m">International Ecological Classification Standard: Terrestrial Ecological Classifications. NatureServe Central Databases</title>
+		<meeting><address><addrLine>Arlington, VA, USA</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<monogr>
+		<title level="m" type="main">Level III and IV ecoregions of the continental United States: Corvallis, Oregon</title>
+		<ptr target="https://www.epa.gov/eco-research/level-iii-and-iv-ecoregions-continental-united-states" />
+		<imprint>
+			<date type="published" when="2013">2013</date>
+		</imprint>
+		<respStmt>
+			<orgName>U.S. Environmental Protection Agency ; U.S. EPA, National Health and Environmental Effects Research Laboratory</orgName>
+		</respStmt>
+	</monogr>
+	<note>map scale 1:3,000,000</note>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<monogr>
+		<idno type="DOI">10.5066/P94UXNTS</idno>
+		<ptr target="https://doi.org/10.5066/P94UXNTS" />
+		<title level="m">Annual NLCD Collection 1 Science Products: U.S. Geological Survey data release</title>
+		<imprint>
+			<publisher>U.S. Geological Survey (USGS)</publisher>
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>
+

@@ -1,0 +1,447 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main"></title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Terrell</forename><surname>Hyde</surname></persName>
+							<affiliation key="aff0">
+								<address>
+									<postCode>2025 2025</postCode>
+									<settlement>Wisconsin Wildlife Action Wisconsin Wildlife Action</settlement>
+								</address>
+							</affiliation>
+							<affiliation key="aff0">
+								<address>
+									<postCode>2025 2025</postCode>
+									<settlement>Wisconsin Wildlife Action Wisconsin Wildlife Action</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Shari</forename><surname>Koslowsky</surname></persName>
+							<affiliation key="aff0">
+								<address>
+									<postCode>2025 2025</postCode>
+									<settlement>Wisconsin Wildlife Action Wisconsin Wildlife Action</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Jackie</forename><surname>Mason</surname></persName>
+							<affiliation key="aff0">
+								<address>
+									<postCode>2025 2025</postCode>
+									<settlement>Wisconsin Wildlife Action Wisconsin Wildlife Action</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Advisors</forename><forename type="middle">Tara</forename><surname>Bergeson</surname></persName>
+							<affiliation key="aff0">
+								<address>
+									<postCode>2025 2025</postCode>
+									<settlement>Wisconsin Wildlife Action Wisconsin Wildlife Action</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Owen</forename><surname>Boyle</surname></persName>
+							<affiliation key="aff0">
+								<address>
+									<postCode>2025 2025</postCode>
+									<settlement>Wisconsin Wildlife Action Wisconsin Wildlife Action</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Nick</forename><surname>Anich</surname></persName>
+							<affiliation key="aff0">
+								<address>
+									<postCode>2025 2025</postCode>
+									<settlement>Wisconsin Wildlife Action Wisconsin Wildlife Action</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Andrew</forename><surname>Badje</surname></persName>
+							<affiliation key="aff0">
+								<address>
+									<postCode>2025 2025</postCode>
+									<settlement>Wisconsin Wildlife Action Wisconsin Wildlife Action</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Elizabeth</forename><surname>Braatz</surname></persName>
+							<affiliation key="aff0">
+								<address>
+									<postCode>2025 2025</postCode>
+									<settlement>Wisconsin Wildlife Action Wisconsin Wildlife Action</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Ryan</forename><surname>Brady</surname></persName>
+							<affiliation key="aff0">
+								<address>
+									<postCode>2025 2025</postCode>
+									<settlement>Wisconsin Wildlife Action Wisconsin Wildlife Action</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Lena</forename><surname>Carlson</surname></persName>
+							<affiliation key="aff0">
+								<address>
+									<postCode>2025 2025</postCode>
+									<settlement>Wisconsin Wildlife Action Wisconsin Wildlife Action</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Kevin</forename><surname>Doyle</surname></persName>
+							<affiliation key="aff0">
+								<address>
+									<postCode>2025 2025</postCode>
+									<settlement>Wisconsin Wildlife Action Wisconsin Wildlife Action</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Sharon</forename><surname>Fandel</surname></persName>
+							<affiliation key="aff0">
+								<address>
+									<postCode>2025 2025</postCode>
+									<settlement>Wisconsin Wildlife Action Wisconsin Wildlife Action</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Jason</forename><surname>Granberg</surname></persName>
+							<affiliation key="aff0">
+								<address>
+									<postCode>2025 2025</postCode>
+									<settlement>Wisconsin Wildlife Action Wisconsin Wildlife Action</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Sarah</forename><surname>Herrick</surname></persName>
+							<affiliation key="aff0">
+								<address>
+									<postCode>2025 2025</postCode>
+									<settlement>Wisconsin Wildlife Action Wisconsin Wildlife Action</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Dawn</forename><surname>Hinebaugh</surname></persName>
+							<affiliation key="aff0">
+								<address>
+									<postCode>2025 2025</postCode>
+									<settlement>Wisconsin Wildlife Action Wisconsin Wildlife Action</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Jeff</forename><surname>Janvrin</surname></persName>
+							<affiliation key="aff0">
+								<address>
+									<postCode>2025 2025</postCode>
+									<settlement>Wisconsin Wildlife Action Wisconsin Wildlife Action</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Heather</forename><surname>Kaarakka</surname></persName>
+							<affiliation key="aff0">
+								<address>
+									<postCode>2025 2025</postCode>
+									<settlement>Wisconsin Wildlife Action Wisconsin Wildlife Action</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Darcy</forename><surname>Kind</surname></persName>
+							<affiliation key="aff0">
+								<address>
+									<postCode>2025 2025</postCode>
+									<settlement>Wisconsin Wildlife Action Wisconsin Wildlife Action</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Lisie</forename><surname>Kitchel</surname></persName>
+							<affiliation key="aff0">
+								<address>
+									<postCode>2025 2025</postCode>
+									<settlement>Wisconsin Wildlife Action Wisconsin Wildlife Action</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Kimberly</forename><surname>Kuber</surname></persName>
+							<affiliation key="aff0">
+								<address>
+									<postCode>2025 2025</postCode>
+									<settlement>Wisconsin Wildlife Action Wisconsin Wildlife Action</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Carly</forename><surname>Lapin</surname></persName>
+							<affiliation key="aff0">
+								<address>
+									<postCode>2025 2025</postCode>
+									<settlement>Wisconsin Wildlife Action Wisconsin Wildlife Action</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Davin</forename><surname>Lopez</surname></persName>
+							<affiliation key="aff0">
+								<address>
+									<postCode>2025 2025</postCode>
+									<settlement>Wisconsin Wildlife Action Wisconsin Wildlife Action</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Mackenzie</forename><surname>Manicki</surname></persName>
+							<affiliation key="aff0">
+								<address>
+									<postCode>2025 2025</postCode>
+									<settlement>Wisconsin Wildlife Action Wisconsin Wildlife Action</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Josh</forename><surname>Martinez</surname></persName>
+							<affiliation key="aff0">
+								<address>
+									<postCode>2025 2025</postCode>
+									<settlement>Wisconsin Wildlife Action Wisconsin Wildlife Action</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Sumner</forename><surname>Matteson</surname></persName>
+							<affiliation key="aff0">
+								<address>
+									<postCode>2025 2025</postCode>
+									<settlement>Wisconsin Wildlife Action Wisconsin Wildlife Action</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Ryan</forename><surname>O'connor</surname></persName>
+							<affiliation key="aff0">
+								<address>
+									<postCode>2025 2025</postCode>
+									<settlement>Wisconsin Wildlife Action Wisconsin Wildlife Action</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Rori</forename><surname>Paloski</surname></persName>
+							<affiliation key="aff0">
+								<address>
+									<postCode>2025 2025</postCode>
+									<settlement>Wisconsin Wildlife Action Wisconsin Wildlife Action</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Randal</forename><surname>Piette</surname></persName>
+							<affiliation key="aff0">
+								<address>
+									<postCode>2025 2025</postCode>
+									<settlement>Wisconsin Wildlife Action Wisconsin Wildlife Action</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Jessica</forename><surname>Ross</surname></persName>
+							<affiliation key="aff0">
+								<address>
+									<postCode>2025 2025</postCode>
+									<settlement>Wisconsin Wildlife Action Wisconsin Wildlife Action</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Becky</forename><surname>Roth</surname></persName>
+							<affiliation key="aff0">
+								<address>
+									<postCode>2025 2025</postCode>
+									<settlement>Wisconsin Wildlife Action Wisconsin Wildlife Action</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Michael</forename><surname>Sorge</surname></persName>
+							<affiliation key="aff0">
+								<address>
+									<postCode>2025 2025</postCode>
+									<settlement>Wisconsin Wildlife Action Wisconsin Wildlife Action</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Amy</forename><surname>Staffen</surname></persName>
+							<affiliation key="aff0">
+								<address>
+									<postCode>2025 2025</postCode>
+									<settlement>Wisconsin Wildlife Action Wisconsin Wildlife Action</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Rich</forename><surname>Staffen</surname></persName>
+							<affiliation key="aff0">
+								<address>
+									<postCode>2025 2025</postCode>
+									<settlement>Wisconsin Wildlife Action Wisconsin Wildlife Action</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Jay</forename><surname>Watson</surname></persName>
+							<affiliation key="aff0">
+								<address>
+									<postCode>2025 2025</postCode>
+									<settlement>Wisconsin Wildlife Action Wisconsin Wildlife Action</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Chelsea</forename><surname>Weinzinger</surname></persName>
+							<affiliation key="aff0">
+								<address>
+									<postCode>2025 2025</postCode>
+									<settlement>Wisconsin Wildlife Action Wisconsin Wildlife Action</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Jesse</forename><surname>Weinzinger</surname></persName>
+							<affiliation key="aff0">
+								<address>
+									<postCode>2025 2025</postCode>
+									<settlement>Wisconsin Wildlife Action Wisconsin Wildlife Action</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Paul</forename><surname>White</surname></persName>
+							<affiliation key="aff0">
+								<address>
+									<postCode>2025 2025</postCode>
+									<settlement>Wisconsin Wildlife Action Wisconsin Wildlife Action</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Madison</forename><surname>Wikston</surname></persName>
+							<affiliation key="aff0">
+								<address>
+									<postCode>2025 2025</postCode>
+									<settlement>Wisconsin Wildlife Action Wisconsin Wildlife Action</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Matt</forename><surname>Zine</surname></persName>
+							<affiliation key="aff0">
+								<address>
+									<postCode>2025 2025</postCode>
+									<settlement>Wisconsin Wildlife Action Wisconsin Wildlife Action</settlement>
+								</address>
+							</affiliation>
+						</author>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">4DE64459D75F90240DCC57B321E6F81D</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.1" ident="GROBID" when="2026-07-06T16:20+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>The 2025-35 Wisconsin Wildlife Action Plan would not have been developed without the dedicated effort and commitment of the individuals acknowledged below. Through their hard work and expertise, this third iteration of the Plan, first published in 2005, reaffirms the biological and ecological richness of Wisconsin and the Midwest to bring conservation of our native wildlife, plants and habitat into the next decade. In addition, we extend our appreciation to all the individuals who provided their knowledge and comments and assisted us in numerous other ways.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Principal Coordinators and Team Participants</head><p>The following people participated in the production of this Plan. What is presented in these documents, tables and spreadsheets is the culmination of thousands of hours and over two years of research, discussion, data management, deliberation and organization of a vast amount of information and knowledge.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Contributors</head><p>Over 300 experts and professionals both within and outside the Wisconsin Department of Natural Resources were invited to contribute their knowledge to the content of the Wisconsin Wildlife Action Plan. The data, comments and guidance received were critical to revising the Plan.</p><p>The development of the 2025-2035 Wisconsin Wildlife Action Plan was made possible, by funding from the Wisconsin DNR Bureau of Natural Heritage Conservation.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Background</head><p>In 2001, Congress authorized the U.S. Fish &amp; Wildlife Service to implement and fund a program to help states proactively address the needs of declining wildlife species before they required listing as Endangered or Threatened. The State Wildlife Grants (SWG) Program provides federal grant funds for native wildlife, including species not hunted or fished. Wildlife, as defined by this program, is any species of wild, free-ranging fauna including fish and invertebrates. The SWG Program continues to be the nation's core program for preventing wildlife from becoming endangered.</p><p>States must have an approved State Wildlife Action Plan (SWAP) to receive the federal apportionment or competitive grants through the State Wildlife Grant program<ref type="foot" target="#foot_0">foot_0</ref> . The Wisconsin Wildlife Action Plan (WWAP) is constructed around USFWS's requirement that each state's SWAP address eight elements. How the elements are addressed is largely left up to the needs and circumstances of each state. Use and implementation of the information and conservation actions described in the WWAP are voluntary. Funds must be used to benefit animal species of greatest conservation need (SGCN) and their habitats<ref type="foot" target="#foot_1">foot_1</ref> as described in each state's Plan. All SWAPs must be revised at intervals not to exceed ten years to continue to receive federal SWG funds.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>The Eight Required Elements for State Wildlife Action Plans</head><p>(1) Element 1 Species [Species of Greatest Conservation Need (SGCN) and Species of Greatest Information Need (SGIN)]: Information on the distribution and abundance of species of wildlife, including low and declining populations as the State fish and wildlife agency deems appropriate, that are indicative of the diversity and health of the State's wildlife; and,</p><p>(2) Element 2 Habitats and Natural Communities: Descriptions of locations and relative condition of key habitats and community types essential to conservation of species identified in (1); and,</p><p>(3) Element 3 Threats: Descriptions of problems which may adversely affect species identified in (1) or their habitats, and priority research and survey efforts needed to identify factors which may assist in restoration and improved conservation of these species and habitats; and, (4) Element 4 Actions: Descriptions of conservation actions proposed to conserve the identified species and habitats and priorities for implementing such actions; and,</p><p>(5) Element 5 Monitoring: Proposed plans for monitoring species identified in (1) and their habitats, for monitoring the effectiveness of the conservation actions proposed in (4), and for adapting these conservation actions to respond appropriately to new information or changing conditions; and, (6) Element 6 Review and Revision: Descriptions of procedures to review the strategy at intervals not to exceed ten years; and, (7) Element 7 Partner Involvement: Provisions for coordination during the development, implementation, review, and revision of its Plan with Federal, State, and local agencies and Indian tribes that manage significant land and water areas within the State or administer programs that significantly affect the conservation of identified species and habitats; and, (8) Element 8 Public Involvement: Provisions to provide the necessary public participation in the development, revision and implementation of the Plan.</p><p>Currently, states receive funds from the State Wildlife Grants program on an annual basis, which are allocated according to a formula that considers each state's size and population. A portion of grant money is also allocated to competitive grants. Plans are submitted to a regional review team (RRT) comprised of regional representatives from state wildlife agencies and the USFWS, which makes recommendations to the Regional USFWS Director to approve (with or without condition) each revised plan.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Purpose</head><p>This Plan, which has been prepared with input from experts and partners across the state, provides information about species and their habitats to support meaningful conservation decisions regardless of whether conservation is the primary objective or incidental to other objectives.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Wisconsin's Approach to the WWAP</head><p>The WWAP is a comprehensive inventory of the nature and status of rare and declining species, referred to as Species of Greatest Conservation Need (SGCN), natural communities and ecological landscapes within our state.</p><p>The WWAP's application goes beyond that of meeting a federal grant requirement. It is a plan for all of Wisconsin to help rare and declining species so that they and the habitats where they live are sustained for future generations. The Wisconsin Wildlife Action Plan should not only inform, but be informed by the knowledge, experience and success of its users. Elements of the WWAP are part of a continuous effort of assessment, improvement and implementation.</p><p>It is our goal to make this third digital version of the WWAP more useful and accessible to all DNR programs, as well as individuals and organizations outside the DNR that carry out conservation actions in our state regardless of whether they are part of or secondary to their primary objectives. We hope that the WWAP will serve as a living document that both guides conservation priorities for SGCN and their habitat AND is guided by the progress, knowledge gained, and success toward achieving those goals. Together with partners and stakeholders that have a conservation interest, we are looking forward to continuing implementation of the WWAP with better tools to use the plan and monitor the success of our efforts.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Summary of Outcomes for the 2025 Wisconsin Wildlife Action Plan</head><p>Although there have been no significant changes to the approach taken to each of the eight elements in the 2025 WWAP, there have been important outcomes and conclusions from this revision.</p><p>• The current approaches used to fulfill major elements of the WWAP: NatureServe's conservation status methodology and ranking factors; input from people with knowledge and expertise; association scores to link SGCN, natural communities and landscapes; identification/description of Conservation Opportunity Areas as the best places to carry out conservation; and an organized classification and reporting of priority threats and actions, have persisted as a sound foundation for each iteration of the WWAP.</p><p>• Because the overall approach has not significantly changed, the 2025 WWAP and future WWAPs can focus on consistency and tools that take advantage of increasing amounts of data and information to improve accessibility, analysis and outcomes for each element.</p><p>• Increasing emphasis on digital or online formats for gathering information (e.g., communitybased monitoring) offers continuous and broad opportunities for input. It also offers access to important data and outcomes that conservation decisionmakers can use to meet their own objectives.</p><p>• Plants have been added as SGCN and SGIN to the 2025 WWAP. They have also been assigned association scores, are part of the COA attributes, and Threats and Actions Reports. Although not eligible for State Wildlife Grant funding, their addition fills a critical conservation actions presented in the WWAP will significantly improve conditions for these species, but the reader is reminded these are voluntary options. Both the Threats and Actions classifications follow the Conservation Measures Partnership nomenclature. <ref type="bibr">6</ref> Updated conservation actions and the issues and challenges they address are provided in this WWAP. They are presented by taxonomic group and community group as individual reports in Element 3-4 of the 2025 WWAP collection. This reflects the reality that many of the conservation actions (and threats to conservation) affect multiple species and communities and can be grouped as such.</p><p>Development and unsustainable resource use from multiple sectors was commonly cited for terrestrial SGCNs and their habitat, while water use and pollution in the form of fertilizer nutrients and chemicals were commonly cited for aquatic SGCNs and habitat. Actions for these issues were focused on support and compliance with best management practices and conservation planning to manage for diverse habitats to persist on landscapes mixed with these other uses. Improved awareness, training and education for regulatory compliance and to encourage voluntary adoption of standards and practices was frequently cited as essential to meet desired outcomes.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Summary Element 4 -Conservation Opportunity Areas</head><p>Conservation Opportunity Areas (COAs)<ref type="foot" target="#foot_6">foot_6</ref> are the best places in Wisconsin to implement conservation actions in the Wisconsin Wildlife Action Plan (WWAP) to protect and conserve SGCNs and their habitat. They are places on the landscape with significant ecological features, natural communities or SGCN habitats for which Wisconsin is responsible for protecting and conserving. Focusing conservation actions in these prioritized areas can increase the likelihood of long-term success, maximize effectiveness over larger landscapes, improve funding efficiency, and promote voluntary cooperative efforts across ownership boundaries.</p><p>Those undertaking conservation actions in our state, whether they are interested individuals, landowners, businesses, conservation groups or resource agencies may focus their actions in conservation opportunity areas. Because of how they are defined, these areas imply greater likelihood of success in helping SGCN and their habitat. COAs are mappable sites relying on readily available georeferenced information and do not identify all the places important or necessary for conservation in our state. Conversely, the boundaries of COAs do not imply that the same level of opportunity for conservation exists throughout them.</p><p>The same criteria originally used in the 2005 WWAP have been updated with more current and concise language. Each of the 193 COAs fulfills one or more of these criteria.</p><p>knowledge and expertise throughout the process. Opportunities to comment on the major WWAP elements was maintained on the WWAP web page throughout the revision.</p><p>Opportunities were noticed through emails, internal newsletter and news release.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Roadmap and Summary of Revisions to the Eight Elements</head><p>The WWAP collection is organized by each of the eight required elements. Each element contains its own collection that consists of a primary text describing the approach, changes from the 2015 WWAP and results. Spreadsheets, reports and other supporting material referenced in the primary text are provided as separate files within that same Element. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Descrip�on</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Level of Revision Change to Results</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Loca�on in the WWAP and Associated Online Material</head><p>Element 3: Problems that may adversely affect SGCN or their habitats, and priority research and surveys needed to identify factors that may assist in restoration and improved conservation of SGCN and their habitats.</p><p>Minor revision. Threats/Action reports updated since 2015. </p></div><figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table ES1 . Comparison of the Number of Species of Greatest Conservation Need (SGCNs) in the 2025 WWAP, 2015 WWAP and 2005 WWAP Taxon Group 2025 WWAP 2015 WWAP 2005 WWAP Vertebrate Animals</head><label>ES1</label><figDesc></figDesc><table><row><cell>Mammals</cell><cell>11</cell><cell>13</cell></row><row><cell>Birds</cell><cell>49</cell><cell>68</cell></row><row><cell>Reptiles</cell><cell>21</cell><cell>20</cell></row><row><cell>Amphibians</cell><cell>4</cell><cell>4</cell></row><row><cell>Fishes</cell><cell>23</cell><cell>26</cell></row><row><cell>Invertebrate Animals</cell><cell></cell><cell></cell></row><row><cell>Beetles</cell><cell>8</cell><cell>77</cell></row><row><cell>True bugs</cell><cell></cell><cell>6</cell></row><row><cell>Dragonflies and damselflies</cell><cell>18</cell><cell>28</cell></row><row><cell>Mayflies</cell><cell>10</cell><cell>18</cell></row><row><cell>Stoneflies</cell><cell>1</cell><cell>4</cell></row><row><cell>Caddisflies</cell><cell>1</cell><cell>7</cell></row><row><cell>Flies and midges</cell><cell></cell><cell>1</cell></row><row><cell>Bees, wasps and ants</cell><cell>16</cell><cell>11</cell></row><row><cell>Butterflies and moths</cell><cell>34</cell><cell>34</cell></row><row><cell>Grasshoppers and allies</cell><cell>1</cell><cell>29</cell></row><row><cell>Leaf-and planthoppers</cell><cell>10</cell><cell>24</cell></row><row><cell>Mussels</cell><cell>23</cell><cell>24</cell></row><row><cell>Snails</cell><cell>8</cell><cell>21</cell></row><row><cell>Crustaceans</cell><cell>2</cell><cell>1</cell></row><row><cell>Spiders</cell><cell></cell><cell></cell></row><row><cell>Worms</cell><cell></cell><cell></cell></row><row><cell>Plants and Lichens</cell><cell></cell><cell></cell></row><row><cell>Vascular Plants</cell><cell>295</cell><cell></cell></row><row><cell>Lichens</cell><cell>85</cell><cell></cell></row><row><cell>Mosses and liverworts</cell><cell>59</cell><cell></cell></row><row><cell>Total</cell><cell>679</cell><cell>416</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table ES2 . Number of SGCN, Species of Greatest Information Needs (SGIN) and Species that are Not SGCN or SGIN for Each Taxonomic Group in the 2025 WWAP</head><label>ES2</label><figDesc></figDesc><table><row><cell>0</cell><cell>100</cell><cell>200</cell><cell>300</cell><cell>400</cell><cell>500</cell><cell>600</cell><cell>700</cell></row><row><cell>Amphibians</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Birds</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Fishes</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Mammals</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Reptiles</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Bees, wasps and ants</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Beetles</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Butterlies and moths</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Caddisflies</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Crustaceans</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Dragonflies and damselflies</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Flies and midges</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Grasshoppers and allies Leafhoppers and planthoppers Mayflies</cell><cell></cell><cell></cell><cell></cell><cell cols="2">SGCN SGIN</cell><cell></cell><cell></cell></row><row><cell>Mussels Snails</cell><cell></cell><cell></cell><cell></cell><cell cols="2">Assessed</cell><cell></cell><cell></cell></row><row><cell>Spiders</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Springtails</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Stoneflies</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>True bugs</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Plants</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Lichens</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Mosses and liverworts</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table ES3 . Number of SGCNs Highly and Moderately Associated with Community Types in Each Community Group</head><label>ES3</label><figDesc></figDesc><table><row><cell>Taxon Group</cell><cell>Anthropogenic Habitats</cell><cell>Aquatic</cell><cell>Bare Soil and Bedrock</cell><cell>Barrens and Savannas</cell><cell>Northern Forests</cell><cell>Prairies</cell><cell>Southern Forests</cell><cell>Wetland</cell></row><row><cell>Mammals</cell><cell>2</cell><cell></cell><cell>5</cell><cell>6</cell><cell>7</cell><cell>3</cell><cell>5</cell><cell></cell></row><row><cell>Reptiles</cell><cell>13</cell><cell>7</cell><cell>8</cell><cell>15</cell><cell>5</cell><cell>20</cell><cell>9</cell><cell></cell></row><row><cell>Invertebrate Animal</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Bees, wasps and ants</cell><cell>8</cell><cell></cell><cell></cell><cell>8</cell><cell>4</cell><cell>9</cell><cell>1</cell><cell></cell></row><row><cell>Beetles</cell><cell></cell><cell>3</cell><cell>3</cell><cell>2</cell><cell></cell><cell>2</cell><cell></cell><cell></cell></row><row><cell>Butterflies and moths</cell><cell>3</cell><cell></cell><cell>3</cell><cell>17</cell><cell>8</cell><cell>15</cell><cell></cell><cell></cell></row><row><cell>Caddisflies</cell><cell></cell><cell>1</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Crustaceans</cell><cell>1</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>1</cell><cell>2</cell><cell></cell></row><row><cell>Dragonflies and damselflies</cell><cell></cell><cell>14</cell><cell></cell><cell></cell><cell>3</cell><cell></cell><cell>1</cell><cell></cell></row><row><cell>Grasshoppers and allies</cell><cell></cell><cell></cell><cell>1</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Leaf-and planthoppers</cell><cell></cell><cell></cell><cell>1</cell><cell>4</cell><cell></cell><cell>9</cell><cell></cell><cell></cell></row><row><cell>Mayflies</cell><cell></cell><cell>10</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Mussels</cell><cell></cell><cell>21</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Snails</cell><cell></cell><cell></cell><cell>7</cell><cell>1</cell><cell>4</cell><cell>1</cell><cell>6</cell><cell></cell></row><row><cell>Stoneflies</cell><cell></cell><cell>1</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Plants and Lichens</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Lichens</cell><cell>2</cell><cell>1</cell><cell>16</cell><cell>8</cell><cell>44</cell><cell>11</cell><cell>3</cell><cell></cell></row><row><cell>Taxon Group Mosses and liverworts Plants Grand Total</cell><cell>Anthropogenic Habitats 2 45</cell><cell>2 Aquatic 23</cell><cell>40 Bare Soil and Bedrock 90</cell><cell>48 Barrens and Savannas</cell><cell>24 66 Northern Forests</cell><cell>4 79 Prairies</cell><cell>5 68 Southern Forests</cell><cell>Wetland</cell></row><row><cell>Vertebrate Animal</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Amphibians</cell><cell>1</cell><cell>4</cell><cell>2</cell><cell></cell><cell>2</cell><cell>2</cell><cell>2</cell><cell>4</cell></row><row><cell>Birds</cell><cell>13</cell><cell>6</cell><cell>4</cell><cell>13</cell><cell>15</cell><cell>12</cell><cell>7</cell><cell>23</cell></row><row><cell>Fishes</cell><cell></cell><cell>23</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>116 180 122 182 168 109</head><label></label><figDesc></figDesc><table /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_4"><head>Table ES5 . Road Map and Summary of Revisions Descrip�on Level of Revision Change to Results Loca�on in the WWAP and Associated Online Material</head><label>ES5</label><figDesc></figDesc><table><row><cell>Element 1: Information on the distribution and abundance of species of wildlife, including low and declining populations as the State fish and wildlife agency deems appropriate, that are indicative of the</cell><cell>Minor revision. Plants, mosses and lichens added to SGCN. Lists updated using same approach as 2015. Improved resources to increase</cell><cell>462 species (mostly plants) added to the SGCN list. 199 species removed from SGCN list. 172 species added to SGIN list (including species moved from SGCN to SGIN).</cell><cell>E1. Species (SGCN &amp; SGIN) in the 2025 WWAP collection: -Proposed 2025 WWAP SGCN and SGIN list -Spreadsheet containing full list of species assessed, rarity ranks and SGCN decision. -Visit https://dnr.wi.gov/</cell></row><row><cell>diversity and health of</cell><cell>consistency and</cell><cell></cell><cell>search "biodiversity" for</cell></row><row><cell>the State's wildlife.</cell><cell>access to data.</cell><cell></cell><cell>descriptions and distributions</cell></row><row><cell></cell><cell></cell><cell></cell><cell>of rare species</cell></row><row><cell>Element 2: Descriptions of locations and relative condition of key habitats and community types essential to conservation of species identified in Element 1.</cell><cell>Minor revision. Three habitat types added since 2015. Improved resources to increase consistency in assigning scores.</cell><cell>Three natural communities and habitats added since 2015. Association scores were added/reviewed for all new SGCNs and updated for all previous SGCNs.</cell><cell>E2. Habitats &amp; Natural Communities in the 2025 WWAP collection: -E2.1 List of natural communities/habitats with a link to the DNR pages for descriptions and distribution -E2.2-E2.13 SGCN x Natural Community (NC) association</cell></row><row><cell></cell><cell></cell><cell></cell><cell>scores</cell></row><row><cell></cell><cell></cell><cell></cell><cell>-E2.14 SGCN x Ecological</cell></row><row><cell></cell><cell></cell><cell></cell><cell>landscape (EL) association</cell></row><row><cell></cell><cell></cell><cell></cell><cell>scores</cell></row><row><cell></cell><cell></cell><cell></cell><cell>-E2.15 NC x EL association</cell></row><row><cell></cell><cell></cell><cell></cell><cell>scores.</cell></row><row><cell></cell><cell></cell><cell></cell><cell>-E2.16 Sum of Scores Tool -</cell></row><row><cell></cell><cell></cell><cell></cell><cell>Downloadable spreadsheet</cell></row><row><cell></cell><cell></cell><cell></cell><cell>containing SGCN x NC x EL</cell></row><row><cell></cell><cell></cell><cell></cell><cell>scores to help identify</cell></row><row><cell></cell><cell></cell><cell></cell><cell>ecological priorities.</cell></row></table></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="1" xml:id="foot_0"><p>https://www.fws.gov/program/state-wildlife-grants (Search: USFWS State Wildlife Grant Program).</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="2" xml:id="foot_1"><p>SWG funding may be used for all animal SGCNs, including insects, bumblebees and other invertebrates, and their habitat, as well as surveys and monitoring for animal species that may become Species of Greatest Conservation Need (SGCN) [i.e., Species of Greatest Information Need (SGIN). While plants are not eligible for SWG funding, they are not precluded from being included in SWAPs and may indirectly benefit from conservation actions targeted at animal SGCNs.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="3" xml:id="foot_2"><p>In the 2005 WWAP invertebrates and vertebrates were assessed using different approaches and plants were not included until 2025.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="4" xml:id="foot_3"><p>http://dnr.wi.gov/ search "NHI".</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="5" xml:id="foot_4"><p>http://dnr.wi.gov/, search "landscapes".</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="6" xml:id="foot_5"><p>Threats and actions classifications developed by the Conservation Measures Partnership. Threats classification 4.0 and Actions classification 2.0 can be download from: https://www.conservationstandards.org/libraryitem/threats-and-actions-taxonomies/</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="7" xml:id="foot_6"><p>Conservation Opportunity Areas were originally defined in the 2005 WWAP follow-up Implementation Plan in 2008. http://dnr.wi.gov/, search "WWAP COA".</p></note>
+		</body>
+		<back>
+
+			
+			<div type="acknowledgement">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Acknowledgments</head></div>
+			</div>
+
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>gap in understanding and conserving our state's biodiversity and they may benefit indirectly from conservation actions for animal SGCNs and their habitat.</p><p>• The future of SWAPs lies in our ability to invest in the means to share, organize and access data and information about SGCN, habitats, threats and actions, and to use that investment to facilitate collaboration at all scales --local to regional and beyond.</p><p>This submittal of updates to the WWAP is organized into the Elements summarized below.</p><p>Once the 2025 WWAP is approved, it will replace content from the 2015 WWAP that is currently available to the public via web-based pages or online text and maps.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Summary Element 1 -Species of Greatest Conservation Need</head><p>The process by which Species of Greatest Conservation Need (SGCN) are selected has not changed from the 2015 WWAP, although an effort was made in the current revision to introduce greater consistency and provide easier access to data. Internal and external experts and professionals and internal teams used this process to produce a new list of SGCNs as well as Species of Greatest Information Need (SGIN), which are plants and animals that either need more information before they can be fully assessed or are borderline SGCN and need to be monitored.</p><p>Each major taxonomic group was reassessed. Many species were assessed with the use of NatureServe's Conservation Status Assessment methodology (also known as Natural Heritage Methodology) to derive state and global ranks (SRank and GRank). Ten factors were used to assess conservation status, grouped into three categories: rarity, threats, and trends. In addition to SRanks and GRanks, additional filters were used to place emphasis on characteristics relevant to Wisconsin, including high or moderate vulnerability to climate change, genetically isolated species, cultural significance, regional status, or species with unique habitats in our state. SGIN that could not be assessed were also identified. The same approach was applied to invertebrates, vertebrates and plants 3 . The SGCN selection process ensures a well-documented and consistent assessment of species, which can be readily updated as new information becomes available. Tables <ref type="table">ES1</ref> and<ref type="table">ES2</ref> summarize the results of the SGCN update for the 2025 WWAP and the two previous iterations. The Element 1 folder in the 2025 WWAP collection includes a detailed description of the SGCN selection process and provides SGCN lists, summaries and other related results by taxonomic group.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Summary Element 2 -SGCN Habitats</head><p>For each SGCN, the critical habitats needed to support healthy populations within Wisconsin and the distribution of those habitats in the state were identified in the form of association scores with Natural Communities and Ecological Landscapes (SGCN-NC and SGCN-EL scores rated from 0 = none to 3 = high). Association scores were updated and are summarized below in Tables <ref type="table">ES3</ref> and<ref type="table">ES4</ref>. Association scores for each SGCN by taxonomic group are provided in Element 2 of the 2025 WWAP collection. The DNR's Natural Heritage Inventory program 4 was used to identify and define most terrestrial, wetland and aquatic community types used in this analysis. Ecological landscape definitions were taken from the Ecological Landscapes of Wisconsin Report 5 .</p><p>All 111 vegetation community types are grouped within eight major habitat groups: anthropogenic, aquatic, barrens and savannas, bedrock and bare soil/sand, prairies and grasslands, northern forest, southern forest and wetland. Each of the 16 Ecological Landscapes were also evaluated to determine which of the natural communities occurring within it present the best opportunities for enhancement and restoration. These natural community and ecological landscape opportunity scores (NC-EL scores) were updated and their results are summarized in Table <ref type="table">ES5</ref>. All the NC-EL scores are provided in Element 2 of the 2025 WWAP collection for each community type within each of the eight groups.</p><p>The three scores (0 to 3) can be used individually or together. A Sum of Scores (Ecological Priorities) tool (0 to 9) was is provided to select and filter for combinations of SGCN, natural community and ecological landscape. Locations where the sum of scores is &gt; 6 indicates an ecological priority. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Summary Elements 3 and 4 -Threats and Conservation Actions for SGCN and their Habitat</head><p>Issues and challenges that affect conservation of SGCN and natural communities (habitat) and the conservation actions they address, were updated by the Taxon Teams and partners. Many issues and conservation actions operate on a habitat or natural community level and may be coordinated to simultaneously address the needs of multiple species. Implementing the  </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Summary Element 5 -Monitoring</head><p>Monitoring focuses on opportunities to measure the implementation of priority conservation actions. Given the breadth and complexity of the WWAP elements and the diversity of partners and WWAP users who implement conservation actions, it is not feasible to effect comprehensive WWAP monitoring. Rather Element 5 as it relates to SGCN, habitats, threats and actions, is currently fulfilled by NHC and the Department through multiple types of monitoring:</p><p>• Wisconsin Forest/Field Inventory and Reporting System (WisFIRS) allows foresters, biologists, and ecologists to store data collected in the field, plan for and track completed treatments.</p><p>• Annual Property Implementation Plans (APIP) and Plan Monitoring Reports share with the public and partners the major scheduled and completed forest and habitat management treatments, recreation and infrastructure development projects and other property management actions. • The Natural Heritage Inventory program applies a standard methodology for collecting, characterizing and managing data, making it possible to combine data at various scales to address local, state, regional and national issues. • Grant and Other Project Reporting such as the Wildlife Tracking and Reporting Actions for the Conservation of Species (TRACS), a reporting system used by the U.S. Fish &amp; Wildlife Service's (USFWS) Office of Conservation Investment (OIC) that captures information about conservation and related actions funded by its grant programs. • Surface Water Integrated Monitoring System (SWIMS) provides science-based monitoring, analysis and regulation of discharges to surface waters to protect and maintain the water quality in Wisconsin through management actions including aquatic plant management, aquatic invasive species initiatives, and lakes, rivers, and wetland grants.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Summary Element 6 -Plan Review and Revision</head><p>The SGCN selection process and effectiveness monitoring measures, as well as database support tools, are all intended to facilitate a timely and consistent evaluation of the status and response of SGCN and their habitats to conservation actions. Element 6 describes the tools and schedule that form the basis of a well-documented response to changing environmental conditions and changes in the status of SGCN and their habitat.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Summary Elements 7 and 8 Partner and Public Involvement</head><p>Elements 7 and 8 describe how conservation partners and the public have been involved in its development as well as plans for continued participation during plan implementation. A large group of experts representing a broad range of conservation interests from the state were invited to provide input for SGCN taxonomic groups, natural community groups, threats and actions. This includes state and federal agencies, private wildlife conservation organizations, the academic community, Tribal Nations and other programs within the Department. Over 200 species and natural community experts representing a range of organizations provided their </p></div>			</div>
+			<div type="references">
+
+				<listBibl/>
+			</div>
+		</back>
+	</text>
+</TEI>
+

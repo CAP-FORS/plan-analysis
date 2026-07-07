@@ -1,0 +1,750 @@
+{
+  "document_meta": {
+    "title": "Michigan Forest Action Plan 2020",
+    "year": 2020,
+    "jurisdiction": "Michigan",
+    "document_type": "Forest Action Plan",
+    "document_id": "MI_FAP_2020",
+    "page_count": 58
+  },
+  "orientation": {
+    "summary": "This is Michigan's 2020 Forest Action Plan (FAP), a state-level planning document covering all forest lands across ownerships in Michigan, produced by the Michigan DNR Forest Resources Division. The document acknowledges climate change as a cross-cutting threat to forest health, species, and management, treating it as a high-priority concern that introduces uncertainty into all forest management programs. Range shift science is referenced only superficially — the document mentions northward movement of species, potential range shifts due to climate stress, and the need to facilitate landscape connections and corridors for species movement — but does not conduct its own distributional or vulnerability analyses. The plan largely references these concepts in passing, while its primary analytical work involves landscape-scale forest assessments using FIA data and watershed-scale vegetation inventories.",
+    "evidence_index": [
+      {
+        "text": "Climate change is likely to impact forest health due to increasing weather extremes -precipitation and temperature -causing increased stress and potential range shifts.",
+        "location": "Criterion Three: Forest Health and Vitality (table)",
+        "relevant_elements": ["1.1", "3.5", "3.6", "C2"]
+      },
+      {
+        "text": "Climate changes can result in wiping out certain plants and animals and allow for the northward movement of unwanted plant and animal pests.",
+        "location": "Criterion Five: Carbon Cycles (table)",
+        "relevant_elements": ["1.1", "3.7", "C2"]
+      },
+      {
+        "text": "An increase in average low temperatures in winter could have a negative impact on Michigan's boreal tree species, which require cold winter temperatures.",
+        "location": "Criterion Five: Carbon Cycles (table)",
+        "relevant_elements": ["1.1", "3.5", "3.6"]
+      },
+      {
+        "text": "Changes in phenology could negatively affect ecological processes such as pollination of the many plant species that rely on insects and reproduction in animals that depend on insects to feed their young.",
+        "location": "Criterion Five: Carbon Cycles (table)",
+        "relevant_elements": ["3.7", "1.3"]
+      },
+      {
+        "text": "timing of ecological events (between plants and animals), commonly referred to as phenology, is changing.",
+        "location": "Criterion Five: Carbon Cycles (table)",
+        "relevant_elements": ["3.7"]
+      },
+      {
+        "text": "Genetic diversity scores are critically low for herbaceous outlier species and endangered species, very low for threatened and trailingedge species and poor for leading-edge species. For most species assessed, the trend is declining and is of concern.",
+        "location": "Criterion One: Conservation of Biological Diversity",
+        "relevant_elements": ["1.3", "1.1"]
+      },
+      {
+        "text": "Loss of genetic diversity is a definite threat for trailing-edge, leading-edge, threatened and endangered species and for plant populations isolated from their primary ranges.",
+        "location": "Criterion One: Conservation of Biological Diversity",
+        "relevant_elements": ["1.3", "1.1"]
+      },
+      {
+        "text": "Climate change will influence future species suitability, selection and establishment, especially in urban settings.",
+        "location": "Criterion One: Conservation of Biological Diversity",
+        "relevant_elements": ["1.1", "3.5"]
+      },
+      {
+        "text": "A changing climate influences almost every component of the forest: life histories and phenology, timing of management activities and changing composition of plant and animal species.",
+        "location": "Climate Change (Cross-Program Issues)",
+        "relevant_elements": ["1.1", "1.3", "3.7"]
+      },
+      {
+        "text": "Collectively, we will need to identify and promote native species that can be adapted to future conditions; identify management options for invasive species; and identify links between extreme weather events and the impact on trees, forests and pests.",
+        "location": "Climate Change (Cross-Program Issues)",
+        "relevant_elements": ["4.1", "4.2", "3.7"]
+      },
+      {
+        "text": "Include the impacts of climate change on trees and forest health, with respect to range and expansion and life history of invasive species.",
+        "location": "Goals, Strategies and Objectives (table, Goal 7)",
+        "relevant_elements": ["3.7", "1.3", "C2"]
+      },
+      {
+        "text": "One of our largest challenges is developing and security of forested landscape connections and corridors that permit northward movement of plant and animal species.",
+        "location": "Implementation",
+        "relevant_elements": ["1.4", "4.2", "C2"]
+      },
+      {
+        "text": "Additional federal funding would help to address this issue through fee acquisition the establishment of conservation easements.",
+        "location": "Implementation",
+        "relevant_elements": ["4.2", "3.4"]
+      },
+      {
+        "text": "The highest priority for inclusion in the program is usually given to larger parcels adjacent to existing protected areas that include characteristics such as quality forest conditions that have community support, important wildlife habitat, scenic value, ecologically significant resources, economic significance through traditional forest use, aquatic resources, cultural resources, water quality protection, public access, resistance to climate change and are under threat of conversion to non-forest conditions.",
+        "location": "IMPLEMENTATION (Forest Legacy table)",
+        "relevant_elements": ["4.1", "1.4"]
+      },
+      {
+        "text": "Use The Nature Conservancy's climate-resilient landscapes to identify areas that should have priority for protection; include this as a priority in project evaluation and scoring.",
+        "location": "Goals, Strategies and Objectives (table, Objective 4.1.9 area)",
+        "relevant_elements": ["4.1", "4.5"]
+      },
+      {
+        "text": "Update the Forest Legacy Program nomination application to focus on and prioritize protection of climate-resilient landscapes.",
+        "location": "Goals, Strategies and Objectives (table)",
+        "relevant_elements": ["4.1", "4.5"]
+      },
+      {
+        "text": "Encourage planting of appropriate tree species as part of Michigan's climate change adaptation response and the need to sequester and store more carbon in the forest.",
+        "location": "Goals, Strategies and Objectives (table, Objective 8.1.14)",
+        "relevant_elements": ["4.2", "4.5"]
+      },
+      {
+        "text": "Develop adaptation plans to address loss of plant species due to invasive species, disease and/or climate change, including developing species-specific action plans (i.e., white-tailed deer herbivory).",
+        "location": "Goals, Strategies and Objectives (table, Objective 2.2.6)",
+        "relevant_elements": ["4.2", "4.5", "3.7"]
+      },
+      {
+        "text": "Recommend silviculture, cultivation and stand/tree conversions that are ecologically suited to site and/or soil/pest/disease conditions and the changing climate.",
+        "location": "Goals, Strategies and Objectives (table, Objective 8.1.22)",
+        "relevant_elements": ["4.2", "4.5"]
+      },
+      {
+        "text": "Develop and distribute urban forestry best management practices for invasive species, climate adaptation and storm preparedness and response.",
+        "location": "Goals, Strategies and Objectives (table, Objective 2.2.2)",
+        "relevant_elements": ["4.5", "3.7"]
+      },
+      {
+        "text": "Assist communities in developing climate adaptation strategies and incorporating them in forest management plans, with information on urban tree selection, planting and maintenance that address community needs.",
+        "location": "Goals, Strategies and Objectives (table, Objective 4.3.3)",
+        "relevant_elements": ["4.5", "4.2"]
+      },
+      {
+        "text": "Implement components of a climate change communications plan, developed by the department and/or the division, and use supporting material emphasizing forest adaptation and resilience planning.",
+        "location": "Goals, Strategies and Objectives (table, Objective 4.3.2)",
+        "relevant_elements": ["4.5"]
+      },
+      {
+        "text": "The Climate Change Response Framework (https://forestadaptation.org/) is a collaborative, cross-boundary approach among scientists, managers and landowners to incorporate climate change considerations into natural resource management.",
+        "location": "Climate Change Response Framework (Midwest) Regions",
+        "relevant_elements": ["4.5", "3.4"]
+      },
+      {
+        "text": "A climate change adaptation workshop, sponsored by the DNR and hosted by the Northern Institute of Applied Climate Science, was also held in Gaylord and provided stakeholders with training on applied climate science.",
+        "location": "STAKEHOLDER ENGAGEMENT",
+        "relevant_elements": ["4.5", "3.4"]
+      },
+      {
+        "text": "Align the climate change approach in cooperative programs with regional and state climate action plan(s) and ensure there is a link to inventory, monitoring and assessment.",
+        "location": "Goals, Strategies and Objectives (table)",
+        "relevant_elements": ["4.5"]
+      },
+      {
+        "text": "Ensure that any government or department climate action plan includes communication and engagement activities and allows for collaboration with partner organizations.",
+        "location": "Goals, Strategies and Objectives (table)",
+        "relevant_elements": ["4.5", "3.4"]
+      },
+      {
+        "text": "Trees: Weather extremes could cause die-back in some species, create the potential for total mortality in others and could cause regeneration failure.",
+        "location": "Criterion Three: Forest Health and Vitality (table)",
+        "relevant_elements": ["3.6", "3.5"]
+      },
+      {
+        "text": "Invasive species: A change in climate could result in more rapid spread of invasive species already in Michigan and allow for new species to invade.",
+        "location": "Criterion Three: Forest Health and Vitality (table)",
+        "relevant_elements": ["3.7"]
+      },
+      {
+        "text": "Warmer winters make it challenging to conduct winter logging and trucking, which require frozen soil to support equipment.",
+        "location": "Criterion Five: Carbon Cycles",
+        "relevant_elements": ["3.5"]
+      },
+      {
+        "text": "Increasing temperatures and changing precipitation patterns threaten the health, structure and function of existing trees. This threatens their ability to mitigate the impacts of climate change.",
+        "location": "Criterion Five: Carbon Cycles",
+        "relevant_elements": ["3.5", "3.6", "1.1"]
+      },
+      {
+        "text": "Native pests and diseases consume about 25% of our forest health effort and with climate change, these forest health stressors could become some of our major concerns as they are well-established and thrive on stressed trees.",
+        "location": "PRIORITY LANDSCAPES (Map 12 description)",
+        "relevant_elements": ["3.5", "3.6", "3.7"]
+      },
+      {
+        "text": "With climate change moving our forest systems towards the oak-hickory type, it is not prudent to let red maple take over.",
+        "location": "PRIORITY LANDSCAPES (Map 1 description)",
+        "relevant_elements": ["3.7", "C2"]
+      },
+      {
+        "text": "Changing climate makes it difficult for managers to predict what species will thrive in 50 to 100 years.",
+        "location": "Criterion Five: Carbon Cycles",
+        "relevant_elements": ["1.1", "2.3"]
+      },
+      {
+        "text": "Develop partnerships to address the threats and impacts to forests from major stressors such as climate change, invasive pests and native insects and diseases.",
+        "location": "Goals, Strategies and Objectives (table, Goal 5 area)",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "The stakeholder engagement process identified several strategies that were common to two or more of the five cooperative programs.",
+        "location": "CROSS-PROGRAM ISSUES AND STRATEGIES",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "Effectiveness monitoring is not done at a broad scale but will be applied to some management components in the near future.",
+        "location": "Criterion Seven: Legal Management Framework",
+        "relevant_elements": ["4.3"]
+      },
+      {
+        "text": "Engage stakeholders in a collaborative effort to review and update the statewide forest action plan every five years.",
+        "location": "Goals, Strategies and Objectives (table)",
+        "relevant_elements": ["4.3"]
+      },
+      {
+        "text": "Collaborate with researchers to describe and quantify threats to urban trees and forests from climate change scenarios related to invasive species, insects/disease and storms.",
+        "location": "Goals, Strategies and Objectives (table, Objective 7.1.9 area)",
+        "relevant_elements": ["2.3", "3.7", "4.4"]
+      },
+      {
+        "text": "Species richness is generally high in urban and community areas; however, nearly 45% of all municipality-managed urban trees are of a single genus Acer (maple) resulting in a low level of richness at the genus level.",
+        "location": "Criterion One: Conservation of Biological Diversity",
+        "relevant_elements": ["3.3"]
+      },
+      {
+        "text": "Geographic priorities include private forest land within 70 miles of a primary forest products company, within a half-mile of surface water and within a mile of public recreation areas and forest types described in the Wildlife Action Plan.",
+        "location": "Forest Stewardship Program",
+        "relevant_elements": ["3.1", "4.1"]
+      }
+    ]
+  },
+  "concepts": {
+    "climate_vulnerability": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Climate change is likely to impact forest health due to increasing weather extremes -precipitation and temperature -causing increased stress and potential range shifts.",
+          "location": "Criterion Three: Forest Health and Vitality (table)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document frequently mentions that climate change poses threats to forests and species, but does not articulate exposure or adaptive capacity components as distinct analytical dimensions. Species vulnerability is referenced generically (e.g., trees under stress, potential range shifts) without formal vulnerability framing. Score 1 because climate vulnerability is referenced in a non-specific way."
+    },
+    "adaptive_capacity_specificity": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "A changing climate influences almost every component of the forest: life histories and phenology, timing of management activities and changing composition of plant and animal species.",
+          "location": "Climate Change (Cross-Program Issues)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "Several specific components (life history, movement, abiotic niche, ecological dependencies, distribution) are touched on, but not in a formal adaptive-capacity framework. The document scores 1 because specific components are referenced in context of climate adaptation but not in a systematic adaptive-capacity analysis."
+    },
+    "adaptive_capacity_components": {
+      "demography": {
+        "present": false,
+        "evidence": []
+      },
+      "distribution": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Climate change is likely to impact forest health due to increasing weather extremes -precipitation and temperature -causing increased stress and potential range shifts.",
+            "location": "Criterion Three: Forest Health and Vitality (table)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "movement": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "One of our largest challenges is developing and security of forested landscape connections and corridors that permit northward movement of plant and animal species.",
+            "location": "Implementation",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "evolutionary_potential": {
+        "present": false,
+        "evidence": []
+      },
+      "ecological_dependencies": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Changes in phenology could negatively affect ecological processes such as pollination of the many plant species that rely on insects and reproduction in animals that depend on insects to feed their young.",
+            "location": "Criterion Five: Carbon Cycles (table)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "abiotic_niche": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "An increase in average low temperatures in winter could have a negative impact on Michigan's boreal tree species, which require cold winter temperatures.",
+            "location": "Criterion Five: Carbon Cycles (table)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "life_history": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "A changing climate influences almost every component of the forest: life histories and phenology, timing of management activities and changing composition of plant and animal species.",
+            "location": "Climate Change (Cross-Program Issues)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      }
+    },
+    "connectivity": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "One of our largest challenges is developing and security of forested landscape connections and corridors that permit northward movement of plant and animal species.",
+          "location": "Implementation",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Climate change is likely to impact forest health due to increasing weather extremes -precipitation and temperature -causing increased stress and potential range shifts.",
+          "location": "Criterion Three: Forest Health and Vitality (table)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The corridors passage explicitly frames landscape connections as enabling northward movement of species in a climate-change-relevant context (facilitating range shifts), meeting the threshold for score 2."
+    }
+  },
+  "tools": {
+    "vulnerability_models": {
+      "evaluable": true,
+      "score": 0,
+      "named_tools": [],
+      "evidence": [],
+      "absence_note": "No vulnerability models (CCVI, PVA, etc.) are referenced anywhere in the document."
+    },
+    "niche_models": {
+      "evaluable": true,
+      "score": 0,
+      "named_tools": [],
+      "evidence": [],
+      "absence_note": "No species distribution models or niche models (MaxEnt, SDM, etc.) are referenced in the document."
+    },
+    "climate_models": {
+      "evaluable": true,
+      "score": 1,
+      "named_tools": [],
+      "evidence": [
+        {
+          "text": "Collaborate with researchers to describe and quantify threats to urban trees and forests from climate change scenarios related to invasive species, insects/disease and storms.",
+          "location": "Goals, Strategies and Objectives (table, Goal 7/research objectives)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document references 'climate change scenarios' in one future-oriented research objective but does not name any GCMs, RCPs, SSPs, or downscaled products. Qualitative discussions of warming, drought, and precipitation change are pervasive but do not constitute climate modeling. Score 1 (referenced generally, not applied).",
+      "time_horizon_years": [],
+      "emission_scenarios": []
+    },
+    "connectivity_models": {
+      "evaluable": true,
+      "score": 1,
+      "named_tools": ["The Nature Conservancy's climate-resilient landscapes"],
+      "evidence": [
+        {
+          "text": "Use The Nature Conservancy's climate-resilient landscapes to identify areas that should have priority for protection; include this as a priority in project evaluation and scoring.",
+          "location": "Goals, Strategies and Objectives (table, Objective 4.1.9 area)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The Nature Conservancy's 'climate-resilient landscapes' product is a connectivity/resilience analysis output. The document proposes using it for prioritization — a recommendation for future use rather than a fully applied connectivity modeling result integrated into current management decisions. Score 1 (referenced generally/aspiration). No specific connectivity model software (CircuitScape, Omniscape, etc.) is named."
+    }
+  },
+  "context": {
+    "management_scale": {
+      "local": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Assist communities in developing climate adaptation strategies and incorporating them in forest management plans, with information on urban tree selection, planting and maintenance that address community needs.",
+            "location": "Goals, Strategies and Objectives (table, Objective 4.3.3)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "site": {
+        "present": false,
+        "evidence": []
+      },
+      "watershed": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Forest area increased at the HUC8-watershed scale by 3.7% (more than 727,000 acres) and in the riverside areas -also known as riparian -at that same scale by 9.8% over the period from 2006-2016.",
+            "location": "Criterion One: Conservation of Biological Diversity",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "city": {
+        "present": false,
+        "evidence": []
+      },
+      "county": {
+        "present": false,
+        "evidence": []
+      },
+      "within_state_region": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "All regions in the state show slight increases in forested area based on FIA data with the largest in the southern Lower Peninsula.",
+            "location": "Criterion Two: Productive Capacity of the Forest",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "state": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Michigan's Forest Action Plan is the state's contribution to a national assessment and strategy for all forest land across all ownerships in the United States.",
+            "location": "INTRODUCTION",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "multistate": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "NRCS is also working with partners in the eight U.S. Great Lakes states.",
+            "location": "Other Great Lakes Basin Initiatives or Projects",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "national": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Michigan's Forest Action Plan is the state's contribution to a national assessment and strategy for all forest land across all ownerships in the United States.",
+            "location": "INTRODUCTION",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "transnational": {
+        "present": false,
+        "evidence": []
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "With climate change moving our forest systems towards the oak-hickory type, it is not prudent to let red maple take over.",
+            "location": "PRIORITY LANDSCAPES (Map 1 description)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecoregion": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The floodplain forests map is based on wildlife focal species occurrences in Cleland's level III and IV Ecoregions of Michigan.",
+            "location": "Fire-dependent Forest Types and Prescribed Fire (table)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "province": {
+        "present": false,
+        "evidence": []
+      },
+      "section": {
+        "present": false,
+        "evidence": []
+      },
+      "subsection": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Broadleaf tree diversity and evenness across the state is stable; 15 of the 45 eco-subsections show a slight decline in both values.",
+            "location": "Criterion One: Conservation of Biological Diversity",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "lake": {
+        "present": false,
+        "evidence": []
+      },
+      "river": {
+        "present": false,
+        "evidence": []
+      },
+      "district": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["HUC8 watersheds", "HUC12 watersheds", "western Upper Peninsula", "southern Lower Peninsula", "Great Lakes states", "Cleland's Level III and IV Ecoregions of Michigan"]
+    },
+    "biological_unit_score": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Climate change is likely to impact forest health due to increasing weather extremes -precipitation and temperature -causing increased stress and potential range shifts.",
+          "location": "Criterion Three: Forest Health and Vitality (table)",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "One of our largest challenges is developing and security of forested landscape connections and corridors that permit northward movement of plant and animal species.",
+          "location": "Implementation",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "Multiple biological units are engaged in range-shift contexts: species (specific named species and forest types), habitat (forest habitat types), and community/ecosystem (forest systems shifting toward oak-hickory type). Score 2."
+    },
+    "biological_unit_components": {
+      "species": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Climate changes can result in wiping out certain plants and animals and allow for the northward movement of unwanted plant and animal pests.",
+            "location": "Criterion Five: Carbon Cycles (table)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "population": {
+        "present": false,
+        "evidence": []
+      },
+      "habitat": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "One of our largest challenges is developing and security of forested landscape connections and corridors that permit northward movement of plant and animal species.",
+            "location": "Implementation",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "With climate change moving our forest systems towards the oak-hickory type, it is not prudent to let red maple take over.",
+            "location": "PRIORITY LANDSCAPES (Map 1 description)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "community": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Climate change is likely to impact forest health due to increasing weather extremes -precipitation and temperature -causing increased stress and potential range shifts.",
+            "location": "Criterion Three: Forest Health and Vitality (table)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "genotype_phenotype": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["boreal tree species", "white oak", "red maple", "oak-hickory forest type", "Kirtland's warbler", "jack pine", "Karner blue butterfly", "Indiana bat", "cerulean warbler", "Michigan forests"]
+    },
+    "partnerships_and_funding": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "The Climate Change Response Framework (https://forestadaptation.org/) is a collaborative, cross-boundary approach among scientists, managers and landowners to incorporate climate change considerations into natural resource management.",
+          "location": "Climate Change Response Framework (Midwest) Regions",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "A climate change adaptation workshop, sponsored by the DNR and hosted by the Northern Institute of Applied Climate Science, was also held in Gaylord and provided stakeholders with training on applied climate science.",
+          "location": "STAKEHOLDER ENGAGEMENT",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document references partnerships with the Northern Institute of Applied Climate Science and the Climate Change Response Framework for climate considerations, and mentions that grant proposals must consider climate change mitigation and adaptation principles. However, these are aspirational or peripheral — specific funding allocations for range-shift work are not identified, and active partnerships specifically for range-shift actions are not detailed. Score 1."
+    },
+    "climate_threat_habitat_degradation": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Increasing temperatures and changing precipitation patterns threaten the health, structure and function of existing trees. This threatens their ability to mitigate the impacts of climate change.",
+          "location": "Criterion Five: Carbon Cycles",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_threat_species_vital_rates": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Trees: Weather extremes could cause die-back in some species, create the potential for total mortality in others and could cause regeneration failure.",
+          "location": "Criterion Three: Forest Health and Vitality (table)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_threat_biotic_stressors": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Climate changes can result in wiping out certain plants and animals and allow for the northward movement of unwanted plant and animal pests.",
+          "location": "Criterion Five: Carbon Cycles (table)",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "With climate change moving our forest systems towards the oak-hickory type, it is not prudent to let red maple take over.",
+          "location": "PRIORITY LANDSCAPES (Map 1 description)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    }
+  },
+  "actions": {
+    "priority_habitat_identification": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Use The Nature Conservancy's climate-resilient landscapes to identify areas that should have priority for protection; include this as a priority in project evaluation and scoring.",
+          "location": "Goals, Strategies and Objectives (table, Objective 4.1.9 area)",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Update the Forest Legacy Program nomination application to focus on and prioritize protection of climate-resilient landscapes.",
+          "location": "Goals, Strategies and Objectives (table)",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "The highest priority for inclusion in the program is usually given to larger parcels adjacent to existing protected areas that include characteristics such as...resistance to climate change and are under threat of conversion to non-forest conditions.",
+          "location": "IMPLEMENTATION (Forest Legacy table)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document identifies priority habitat for climate resilience spatially through multiple maps (Maps 2-8, 10, 13, 14), references The Nature Conservancy's climate-resilient landscapes tool for spatial scoring, and uses Forest Legacy areas as a spatially bounded instrument. This meets the score-2 threshold for spatial representation of climate-related priority habitat."
+    },
+    "targeted_range_shift_actions": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "One of our largest challenges is developing and security of forested landscape connections and corridors that permit northward movement of plant and animal species. Additional federal funding would help to address this issue through fee acquisition the establishment of conservation easements.",
+          "location": "Implementation",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document explicitly frames corridor and landscape connection development as enabling northward movement of plant and animal species — a structural facilitation action for range shifts. This satisfies the codebook's structural facilitation criterion for score 1. No direct manipulation actions (assisted migration, translocation) are proposed."
+    },
+    "time_bound_and_monitoring": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Engage stakeholders in a collaborative effort to review and update the statewide forest action plan every five years.",
+          "location": "Goals, Strategies and Objectives (table)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The objectives table includes timelines (e.g., 2025, 2030, 'Ongoing') and the plan specifies a 10-year term with a five-year review, indicating time-bound strategies. However, effectiveness monitoring specifically tied to range-shift or climate adaptation actions at the action level is not operationalized — Criterion Seven notes 'Effectiveness monitoring is not done at a broad scale but will be applied to some management components in the near future.' Score 1 (deadlines present, effectiveness monitoring not sufficiently operationalized at action level for score 2)."
+    },
+    "evidence_of_efficacy": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Collectively, we will need to identify and promote native species that can be adapted to future conditions; identify management options for invasive species; and identify links between extreme weather events and the impact on trees, forests and pests.",
+          "location": "Climate Change (Cross-Program Issues)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document presents general ecological rationale and first principles (e.g., plant appropriate species for carbon, maintain corridors for northward movement) without citing specific studies or prior project evaluations to support the efficacy of proposed climate adaptation actions. Score 1 (rationale outlined, no evidence to support actions presented).",
+      "projects": []
+    },
+    "adaptation_planning_frameworks": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "The Climate Change Response Framework (https://forestadaptation.org/) is a collaborative, cross-boundary approach among scientists, managers and landowners to incorporate climate change considerations into natural resource management.",
+          "location": "Climate Change Response Framework (Midwest) Regions",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Demonstration projects (https://forestadaptation.org/) are real-world examples of how managers have integrated climate considerations into natural resource management planning and activities. These projects use the partnerships and resources developed through the framework to test new ideas and actions for responding to changing conditions.",
+          "location": "Climate Change Response Framework (Midwest) Regions",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document specifically names and describes the Climate Change Response Framework (forestadaptation.org) as a tool for incorporating climate change into natural resource management, and references climate adaptation strategies, adaptation plans for species loss, and climate resilience planning. This meets score 2 as a specific named planning framework for climate adaptation. The document also references scenario planning in one objective (Objective 5.2.6 mentions 'scenario planning')."
+    }
+  },
+  "coding_meta": {
+    "coder": "llm:claude-sonnet-4-6",
+    "model": "claude-sonnet-4-6",
+    "provider": "claude",
+    "codebook_version": "0.4",
+    "ingest": "text",
+    "design": "single",
+    "temperature": null,
+    "thinking": null,
+    "thinking_effort": null,
+    "coded_at": "2026-07-07T00:31:31Z",
+    "notes": {}
+  }
+}

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">SGCN x Natural Community (Habitat) Association Scores High/major (3) -Moderate/important (2) -Low/present (1) SGCNs Great Lakes Communities</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<title level="a" type="main">SGCN x Natural Community (Habitat) Association Scores High/major (3) -Moderate/important (2) -Low/present (1) SGCNs Great Lakes Communities</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">9E5FF25C813AB9D4A78117E339B49B22</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.1" ident="GROBID" when="2026-07-06T16:20+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract/>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0" /><figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head></head><label></label><figDesc>Species of Greatest Conservation Need x Natural Community Association ScoresWisconsin Wildlife Action Plan 2025-2035</figDesc><table><row><cell>SGCN x Natural Community (Habitat) Association Scores High/major (3) -Moderate/important (2) -Low/present (1) SGCNs</cell><cell cols="2">Bedrock Shore Great Lakes Communities Great Lakes Barrens Great Lakes Beach Great Lakes Dune Great Lakes Ridge and Swale Great Lakes Shore Fen Lake Michigan Great Lakes Alkaline Rockshore</cell><cell>Lake Superior</cell></row><row><cell>I-Bees, Wasps, Ants (Hymenoptera)</cell><cell></cell><cell></cell></row><row><cell>Rusty Patched Bumble Bee (Bombus affinis)</cell><cell></cell><cell>1</cell></row><row><cell>An Andrenid Bee (Andrena parnassiae)</cell><cell></cell><cell>3</cell></row><row><cell>I-Beetles (Coleoptera)</cell><cell></cell><cell></cell></row><row><cell>Hairy-necked Tiger Beetle (Cicindela hirticollis rhodensis)</cell><cell>3 2</cell><cell></cell></row><row><cell>Sandy Stream Tiger Beetle (Ellipsoptera macra)</cell><cell>2 2</cell><cell></cell></row><row><cell>I-Butterflies, Moths (Lepidoptera)</cell><cell></cell><cell></cell></row><row><cell>Phyllira Tiger Moth (Grammia phyllira)</cell><cell>3</cell><cell></cell></row><row><cell>Scribbled Sallow Moth (Sympistis perscripta)</cell><cell>3</cell><cell></cell></row><row><cell>A Noctuid Moth (Copablepharon michiganensis)</cell><cell>3</cell><cell></cell></row><row><cell>I-Dragonflies, Damselflies (Odonata)</cell><cell></cell><cell></cell></row><row><cell>Hine's Emerald (Somatochlora hineana)</cell><cell></cell><cell>2</cell></row><row><cell>Incurvate Emerald (Somatochlora incurvata)</cell><cell></cell><cell>1</cell></row><row><cell>I-Grasshoppers, Crickets (Orthoptera)</cell><cell></cell><cell></cell></row><row><cell>Lake Huron Locust (Trimerotropis huroniana)</cell><cell>2 3</cell><cell></cell></row><row><cell>I-Snails (Gastropoda)</cell><cell></cell><cell></cell></row><row><cell>Six-whorl Vertigo (Vertigo morsei)</cell><cell>1</cell><cell>1 3</cell></row><row><cell>Dentate Supercoil (Paravitrea multidentata)</cell><cell></cell><cell>2</cell></row><row><cell>Lichens</cell><cell></cell><cell></cell></row><row><cell>Lung Lichen (Lobaria pulmonaria)</cell><cell></cell><cell>1</cell></row><row><cell>Gold-eye Lichen (Teloschistes chrysophthalmus)</cell><cell>1</cell><cell></cell></row><row><cell>Needlepoint Cladonia (Cladonia acuminata)</cell><cell>2</cell><cell></cell></row><row><cell>Bighorn Cladonia (Cladonia cornuta)</cell><cell>1 1</cell><cell></cell></row><row><cell>Crumpled Rock Tarpaper Lichen (Lathagrium fuscovirens)</cell><cell>1</cell><cell></cell></row><row><cell>Sand Loving Iceland Lichen (Cetraria arenaria)</cell><cell cols="2">1 2</cell></row><row><cell>Mosses and Liverworts</cell><cell></cell><cell></cell></row><row><cell>A Liverwort (Kurzia pauciflora)</cell><cell>3</cell><cell></cell></row><row><cell>A Liverwort (Lophoziopsis longidens)</cell><cell>3</cell><cell></cell></row><row><cell>A Moss (Aongstroemia canadensis)</cell><cell>3</cell><cell></cell></row><row><cell>A Moss (Aulacomnium androgynum)</cell><cell>3</cell><cell></cell></row><row><cell>A Moss (Ditrichum flexicaule)</cell><cell></cell><cell>2</cell></row><row><cell>A Moss (Hyophila involuta)</cell><cell>3</cell><cell></cell></row><row><cell>A Moss (Meesia uliginosa)</cell><cell></cell><cell>3</cell></row></table></figure>
+		</body>
+		<back>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0" />			</div>
+			<div type="references">
+
+				<listBibl/>
+			</div>
+		</back>
+	</text>
+</TEI>
+

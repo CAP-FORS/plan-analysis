@@ -1,0 +1,760 @@
+{
+  "document_meta": {
+    "title": "Illinois Wildlife Action Plan - Implementation Guide",
+    "year": 2015,
+    "jurisdiction": "Illinois",
+    "document_type": "SWAP",
+    "document_id": "IL_SWAP_2022",
+    "page_count": 334
+  },
+  "orientation": {
+    "summary": "This is the 2015 Illinois Wildlife Action Plan (IWAP) Implementation Guide, an update and supplement to the 2005 Comprehensive Wildlife Conservation Plan & Strategy (CWCP) for the state of Illinois. The document is organized into seven campaign chapters (Farmland and Prairie, Forest and Woodland, Green Cities, Invasive Species, Lake Michigan, Streams, and Wetlands) with conservation actions for Species of Greatest Conservation Need (SGCN). The document acknowledges climate change as a threat multiplier and references it in multiple campaigns, but treats it primarily as a background stressor rather than the organizing framework for conservation actions. Climate-driven range shifts receive minimal direct treatment; the document's strongest engagement is in the Streams Campaign, where NatureServe CCVI assessments are cited, and in scattered references to species adjusting to environmental/landscape changes. The analysis is predominantly literature-based and expert-judgment-based rather than performing new modeling.",
+    "evidence_index": [
+      {
+        "text": "Develop resiliency and connectedness into habitats so species can adjust to landscape and environmental changes",
+        "location": "Introduction",
+        "relevant_elements": ["1.4", "4.2", "3.2"]
+      },
+      {
+        "text": "Species previously outside city limits may need to migrate through urban areas as they adjust to a changing climate (Hellmann et al. 2010).",
+        "location": "Green Cities - Description",
+        "relevant_elements": ["1.3", "2.2", "3.3", "C2"]
+      },
+      {
+        "text": "Compounding these threats is climate change, which disrupts food availability during migration and is changing the suitable climatic range for migratory species.",
+        "location": "Lake Michigan - Lake Michigan Migratory Flyway",
+        "relevant_elements": ["1.1", "3.5", "3.6"]
+      },
+      {
+        "text": "Climate change alters water levels, water temperatures, shoreline stability (due to increased storm frequency and intensity), and effects habitat quality and species composition.",
+        "location": "Lake Michigan - Stresses and Threats to Wildlife and Habitat",
+        "relevant_elements": ["3.5", "1.1"]
+      },
+      {
+        "text": "Freshwater habitats and species are consistently rated as highly vulnerable to climate change (e.g., Staudinger et al. 2015, Walk et al. 2011). Expected changes include increases in water temperature, altered hydrology brought about by differences in the timing and intensity of precipitation events, and higher rates of erosion and delivery of sediment and chemical loads (Hall 2012).",
+        "location": "Streams Campaign - Climate Change",
+        "relevant_elements": ["1.1", "3.5", "2.1"]
+      },
+      {
+        "text": "Climate change is expected to interact with hydrology, water chemistry, and biological interactions in complex ways and is considered a 'threat multiplier' that will increase the magnitude of other stressors (CNA Corporation 2007).",
+        "location": "Streams Campaign - Climate Change",
+        "relevant_elements": ["1.1", "3.5"]
+      },
+      {
+        "text": "Walk et al. (2011) conducted 584 climate change vulnerability assessments for 162 SGCN in Natural Divisions and Watersheds of Illinois using NatureServe's Climate Change Vulnerability Index (CCVI; Young et al. 2011). High proportions of mollusk and fish SGCN were rated as Extremely Vulnerable or Highly Vulnerable to climate change.",
+        "location": "Streams Campaign - Climate Change",
+        "relevant_elements": ["1.1", "2.1", "1.2"]
+      },
+      {
+        "text": "These assessments identified greater exposure, a limited ability to disperse, and increased sensitivity to thermal change (for coolwater species) as the primary factors associated with climate vulnerability for these species.",
+        "location": "Streams Campaign - Climate Change",
+        "relevant_elements": ["1.1", "1.2", "1.3"]
+      },
+      {
+        "text": "While all aquatic SGCN may respond to changes in water temperature or altered hydrology those with restricted distributions, limited dispersal capacity, and thermal preferences near the edge of current conditions are expected to be more vulnerable to changes in climate.",
+        "location": "Streams Campaign - Focal Species: Climate Change",
+        "relevant_elements": ["1.1", "1.2", "1.3"]
+      },
+      {
+        "text": "The effects, severity and rate of climate change is unknown, but models predict negative effects on many groups of species and native habitats.(Hall 2012, Staudinger et al 2015)",
+        "location": "Farmland and Prairie Campaign - table/stressors section",
+        "relevant_elements": ["1.1", "2.3"]
+      },
+      {
+        "text": "Climate models indicate a potential increase in mean annual temperature of 2 to 7 °F for this region. Projections for precipitation show an increase in winter and spring precipitation.",
+        "location": "Note on Climate Change",
+        "relevant_elements": ["2.3", "1.1"]
+      },
+      {
+        "text": "There is high agreement among multiple lines of evidence that many invasive plants, insect pests, and pathogens will increase or become more severe... a warming climate may make conditions more favorable for invasive species that are currently invading from farther south.",
+        "location": "Note on Climate Change",
+        "relevant_elements": ["3.7", "1.1"]
+      },
+      {
+        "text": "Incorporate fluctuating Lake Michigan water levels, and the possibility of dropping water levels with future climate change, into nearshore infrastructure plans.",
+        "location": "Lake Michigan - Shoreline and Connectivity",
+        "relevant_elements": ["3.5", "4.1", "4.3"]
+      },
+      {
+        "text": "Support research on the impacts of climate change on migration phenology and ensure that Lights Out policies are adaptive to changing conditions.",
+        "location": "Lake Michigan - Research and Analysis",
+        "relevant_elements": ["3.7", "4.3"]
+      },
+      {
+        "text": "Study the effects of climate change and determine adaptive management steps needed to maintain and enhance habitats to support SGCN.",
+        "location": "Green Cities - Targeted Action Recommendations",
+        "relevant_elements": ["4.5", "1.1"]
+      },
+      {
+        "text": "Climate change that is expected to compound and exacerbate existing stressors.",
+        "location": "Green Cities - Stresses and Threats",
+        "relevant_elements": ["1.1", "3.5"]
+      },
+      {
+        "text": "Determine value of urban areas for migration and climate change adaptation for species located and utilizing urban areas.",
+        "location": "Green Cities - Targeted Action Recommendations",
+        "relevant_elements": ["4.2", "1.3", "3.3"]
+      },
+      {
+        "text": "connect habitats via corridors and buffer strips where possible to facilitate movement of less mobile groups (herps, inverts, small mammals etc.)",
+        "location": "Farmland and Prairie Campaign - Actions",
+        "relevant_elements": ["1.4", "4.2"]
+      },
+      {
+        "text": "Increase statewide forest and woodland acreage by 350,000 acres, emphasizing restoration of floodplains and riparian corridors, increasing ecological connectivity among forests and other habitat patches, and reducing fragmentation of forests 500 acres and larger.",
+        "location": "Forest and Woodlands Campaign - Goals",
+        "relevant_elements": ["1.4", "4.1"]
+      },
+      {
+        "text": "Conservation Opportunity Areas (COAs)... the centerpiece of their analyses, however, was a dataset showing the state's key blocks of habitat (called hubs) and the corridors that connect them.",
+        "location": "Conservation Opportunity Areas - What are Conservation Opportunity Areas?",
+        "relevant_elements": ["1.4", "4.1"]
+      },
+      {
+        "text": "Fragmentation of habitats from roads and development that degrade land and water resources, inhibit species movement, and increase edge effect impacts on SGCN.",
+        "location": "Green Cities - Stresses and Threats",
+        "relevant_elements": ["1.4", "3.5"]
+      },
+      {
+        "text": "emphasize actions on treeless grasslands larger than 0.5 mile wide and ecological connectivity among grasslands and other habitat patches to conserve area-sensitive grassland Species of Greatest Conservation Need",
+        "location": "Farmland and Prairie Campaign - Actions",
+        "relevant_elements": ["1.4", "4.1"]
+      },
+      {
+        "text": "Provide diverse wetland habitats in close spatial proximity with upland buffers and corridors that provide for all herptile life stages.",
+        "location": "Wetlands Campaign - Actions",
+        "relevant_elements": ["1.4", "4.1"]
+      },
+      {
+        "text": "Investigate the cumulative impacts of land use alteration, climate change, and invasive species on SGCN and aquatic species assemblages.",
+        "location": "Streams Campaign - Actions",
+        "relevant_elements": ["1.1", "3.7"]
+      },
+      {
+        "text": "These wetlands should be connected with corridors to facilitate movement, distribution and population expansion.",
+        "location": "Wetlands Campaign - Amphibian & Reptile Goals",
+        "relevant_elements": ["1.4", "4.2"]
+      },
+      {
+        "text": "3. CLIMATE ADAPTATION Change Update to Chicago Wilderness Biodiversity Recovery Plan",
+        "location": "Green Cities - Status as of 2015",
+        "relevant_elements": ["4.5", "1.1"]
+      },
+      {
+        "text": "Unseasonable flooding... Exacerbated by increased water volume entering the river systems more rapidly... increased weather and precipitation variability due to climate change, and stream channelization.",
+        "location": "Wetlands Campaign - Stresses and Threats",
+        "relevant_elements": ["3.5", "1.1"]
+      },
+      {
+        "text": "Walk et al. (2011) conducted 584 climate change vulnerability assessments for 162 SGCN... using NatureServe's Climate Change Vulnerability Index (CCVI)",
+        "location": "Streams Campaign - Climate Change",
+        "relevant_elements": ["2.1", "1.1"]
+      },
+      {
+        "text": "A vulnerability assessment identifying potential threats to this species and their habitats is currently underway with funding through a State Wildlife Grant.",
+        "location": "Streams Campaign - Status as of 2015",
+        "relevant_elements": ["2.1"]
+      },
+      {
+        "text": "Investigate the feasibility of reintroduction success. Species reintroductions may be appropriate where species have been extirpated, where suitable habitat has been reestablished, and where fragmentation prevents re-colonization.",
+        "location": "Green Cities - Universal Management Recommendations",
+        "relevant_elements": ["4.2"]
+      },
+      {
+        "text": "Reintroduce extirpated inspect species. Establish protocols for identifying suitable host populations and developing captive rearing strategies that can lead to reintroductions.",
+        "location": "Green Cities - Fen wetlands",
+        "relevant_elements": ["4.2"]
+      },
+      {
+        "text": "Captive rearing and release of Piping Plovers.",
+        "location": "Lake Michigan - Beaches",
+        "relevant_elements": ["4.2"]
+      },
+      {
+        "text": "The Action Team includes members representing 26 different organizations including federal and state government and nonprofit organizations",
+        "location": "Introduction",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "The biggest gaps between what Illinois conservationists have and what they need is in the realms of leadership and funding (Fidler, 2015).",
+        "location": "Conservation Opportunity Areas - Ways to Accomplish the Work",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "Two types of measures will be used to assess the effectiveness of conservation actions at improving the status of SGCN and their habitats.",
+        "location": "Introduction",
+        "relevant_elements": ["4.3"]
+      },
+      {
+        "text": "The Implementation Guide has identified and strives towards four overarching goals: Establish desired number and distribution of viable populations for each SGCN and target Focal Species by 2025",
+        "location": "Introduction",
+        "relevant_elements": ["4.3"]
+      },
+      {
+        "text": "Based on 2011 monitoring data aquatic life use was fully supported in 60.8% of stream miles",
+        "location": "Streams Campaign - Status as of 2015",
+        "relevant_elements": ["4.4"]
+      },
+      {
+        "text": "Data from Oakwood Bottoms yielded results showing that tree thinning is having a positive effect on the relative abundance of several species of forest birds.",
+        "location": "Forest and Woodlands Campaign - Research and Monitoring",
+        "relevant_elements": ["4.4"]
+      },
+      {
+        "text": "Songbird nesting data from the Cache River watershed indicated that the reduction of forest fragmentation in the watershed has greatly reduced rates of cowbird parasitism (50% reduced to 20%) and marginally reduced rates of nest predation",
+        "location": "Forest and Woodlands Campaign - Research and Monitoring",
+        "relevant_elements": ["4.4"]
+      }
+    ]
+  },
+  "concepts": {
+    "climate_vulnerability": {
+      "evaluable": true,
+      "score": 3,
+      "evidence": [
+        {
+          "text": "Walk et al. (2011) conducted 584 climate change vulnerability assessments for 162 SGCN in Natural Divisions and Watersheds of Illinois using NatureServe's Climate Change Vulnerability Index (CCVI; Young et al. 2011). High proportions of mollusk and fish SGCN were rated as Extremely Vulnerable or Highly Vulnerable to climate change.",
+          "location": "Streams Campaign - Climate Change",
+          "sub_component": "exposure",
+          "citations": ["Walk et al. 2011", "Young et al. 2011"]
+        },
+        {
+          "text": "These assessments identified greater exposure, a limited ability to disperse, and increased sensitivity to thermal change (for coolwater species) as the primary factors associated with climate vulnerability for these species.",
+          "location": "Streams Campaign - Climate Change",
+          "sub_component": "adaptive capacity",
+          "citations": []
+        },
+        {
+          "text": "Freshwater habitats and species are consistently rated as highly vulnerable to climate change (e.g., Staudinger et al. 2015, Walk et al. 2011). Expected changes include increases in water temperature, altered hydrology brought about by differences in the timing and intensity of precipitation events",
+          "location": "Streams Campaign - Climate Change",
+          "sub_component": "exposure",
+          "citations": ["Staudinger et al. 2015", "Walk et al. 2011", "Hall 2012"]
+        }
+      ],
+      "absence_note": {}
+    },
+    "adaptive_capacity_specificity": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "These assessments identified greater exposure, a limited ability to disperse, and increased sensitivity to thermal change (for coolwater species) as the primary factors associated with climate vulnerability for these species.",
+          "location": "Streams Campaign - Climate Change",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "While all aquatic SGCN may respond to changes in water temperature or altered hydrology those with restricted distributions, limited dispersal capacity, and thermal preferences near the edge of current conditions are expected to be more vulnerable to changes in climate.",
+          "location": "Streams Campaign - Focal Species: Climate Change",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "adaptive_capacity_components": {
+      "demography": {
+        "present": false,
+        "evidence": []
+      },
+      "distribution": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "those with restricted distributions, limited dispersal capacity, and thermal preferences near the edge of current conditions are expected to be more vulnerable to changes in climate.",
+            "location": "Streams Campaign - Focal Species: Climate Change",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "movement": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "These assessments identified greater exposure, a limited ability to disperse, and increased sensitivity to thermal change (for coolwater species) as the primary factors associated with climate vulnerability for these species.",
+            "location": "Streams Campaign - Climate Change",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "evolutionary_potential": {
+        "present": false,
+        "evidence": []
+      },
+      "ecological_dependencies": {
+        "present": false,
+        "evidence": []
+      },
+      "abiotic_niche": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "those with restricted distributions, limited dispersal capacity, and thermal preferences near the edge of current conditions are expected to be more vulnerable to changes in climate.",
+            "location": "Streams Campaign - Focal Species: Climate Change",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "life_history": {
+        "present": false,
+        "evidence": []
+      }
+    },
+    "connectivity": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Develop resiliency and connectedness into habitats so species can adjust to landscape and environmental changes",
+          "location": "Introduction",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Species previously outside city limits may need to migrate through urban areas as they adjust to a changing climate (Hellmann et al. 2010).",
+          "location": "Green Cities - Description",
+          "sub_component": null,
+          "citations": ["Hellmann et al. 2010"]
+        },
+        {
+          "text": "Determine value of urban areas for migration and climate change adaptation for species located and utilizing urban areas.",
+          "location": "Green Cities - Targeted Action Recommendations",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document primarily discusses connectivity in generic habitat management terms (corridors, fragmentation). The climate-relevant framing appears in the Introduction's overarching goal about species adjusting to environmental changes, the Green Cities section referencing climate-driven movement through urban areas (Hellmann et al. 2010), and the Streams Campaign linking limited dispersal capacity to climate vulnerability. This earns a score of 2."
+    }
+  },
+  "tools": {
+    "vulnerability_models": {
+      "evaluable": true,
+      "score": 2,
+      "named_tools": ["NatureServe Climate Change Vulnerability Index", "CCVI"],
+      "evidence": [
+        {
+          "text": "Walk et al. (2011) conducted 584 climate change vulnerability assessments for 162 SGCN in Natural Divisions and Watersheds of Illinois using NatureServe's Climate Change Vulnerability Index (CCVI; Young et al. 2011). High proportions of mollusk and fish SGCN were rated as Extremely Vulnerable or Highly Vulnerable to climate change.",
+          "location": "Streams Campaign - Climate Change",
+          "sub_component": null,
+          "citations": ["Walk et al. 2011", "Young et al. 2011"]
+        }
+      ],
+      "absence_note": {}
+    },
+    "niche_models": {
+      "evaluable": true,
+      "score": 0,
+      "named_tools": [],
+      "evidence": [],
+      "absence_note": "No species distribution models or niche models are referenced in the document."
+    },
+    "climate_models": {
+      "evaluable": true,
+      "score": 1,
+      "named_tools": [],
+      "evidence": [
+        {
+          "text": "Climate models indicate a potential increase in mean annual temperature of 2 to 7 °F for this region. Projections for precipitation show an increase in winter and spring precipitation.",
+          "location": "Note on Climate Change",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "The effects, severity and rate of climate change is unknown, but models predict negative effects on many groups of species and native habitats.(Hall 2012, Staudinger et al 2015)",
+          "location": "Farmland and Prairie Campaign - table/stressors section",
+          "sub_component": null,
+          "citations": ["Hall 2012", "Staudinger et al 2015"]
+        }
+      ],
+      "absence_note": "The document references climate model projections (temperature increase of 2-7°F, precipitation changes) without naming any specific GCM, downscaling product, or emission scenario. This scores 1 (referenced generally) not 2.",
+      "time_horizon_years": [],
+      "emission_scenarios": []
+    },
+    "connectivity_models": {
+      "evaluable": true,
+      "score": 0,
+      "named_tools": [],
+      "evidence": [],
+      "absence_note": "The document discusses connectivity extensively but does not reference any specific connectivity modeling tools or outputs of such modeling applied to Illinois SGCN."
+    }
+  },
+  "context": {
+    "management_scale": {
+      "local": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Conservation Opportunity Areas are, quite simply, places in Illinois: where partners are willing to plan, implement, and evaluate conservation actions",
+            "location": "Conservation Opportunity Areas - What are Conservation Opportunity Areas?",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "site": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Focal Sites - The Forest and Woodland Campaign Implementation Team will to continue to focus on those sites where we've been working and are making progress. These include Oakwood Bottoms, Lake Shelbyville, Hidden Springs, Stephen A. Forbes, Trail of Tears, and Siloam Springs.",
+            "location": "Forest and Woodlands Campaign - Focus Areas",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "watershed": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Coordination of Lake Plain restoration with upstream watershed improvement projects to develop a more comprehensive watershed management approach.",
+            "location": "Lake Michigan - Lake Plain Habitat Restoration Partnership",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "city": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The Green Cities Campaign of the Illinois Wildlife Action Plan (IWAP) advances habitat conservation and restoration in support of wildlife and plant species within the state's developed metropolitan areas.",
+            "location": "Green Cities - Description",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "county": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Rockford Metropolitan Area: Boone, Winnebago, and Ogle Counties.",
+            "location": "Green Cities - Focus Areas",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "within_state_region": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The Wetlands Campaign focuses on the conservation of wetlands throughout Illinois, but with specific emphasis on priority Natural Divisions with the greatest wetland resources or potential",
+            "location": "Wetlands Campaign - Description",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "state": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The Illinois Comprehensive Wildlife Conservation Plan & Strategy (CWCP) was developed in 2005, and amended in 2022, to better coordinate conservation efforts in the State of Illinois",
+            "location": "Introduction",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "multistate": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Illinois shares Lake Michigan ownership with 3 other states: Indiana, Michigan, and Wisconsin. Management authority is shared by the states and a number of tribes",
+            "location": "Lake Michigan - Description",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "national": {
+        "present": false,
+        "evidence": []
+      },
+      "transnational": {
+        "present": false,
+        "evidence": []
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Lake Michigan is a deep-water, oligotrophic ecosystem comprised of nearshore and open water benthic and pelagic zones that support a diverse mix of native and non-native species.",
+            "location": "Lake Michigan - Description",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecoregion": {
+        "present": false,
+        "evidence": []
+      },
+      "province": {
+        "present": false,
+        "evidence": []
+      },
+      "section": {
+        "present": false,
+        "evidence": []
+      },
+      "subsection": {
+        "present": false,
+        "evidence": []
+      },
+      "lake": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Lake Michigan and the coastal area are located in the Mississippi Flyway.",
+            "location": "Lake Michigan - Lake Michigan Migratory Flyway",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "river": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Riparian habitat in the Rockford metro area is abundant, with four major rivers flowing through the area.",
+            "location": "Green Cities - Rockford Metropolitan Area",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "district": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["Illinois", "Lake Michigan", "Rock River", "Kishwaukee River", "Mississippi River", "Illinois River", "Cache River", "Wabash River", "Pecatonica River", "Sugar River", "Northeastern Morainal Natural Division", "Grand Prairie Natural Division", "Shawnee Hills", "Mason County Sands", "Chicago Metropolitan Area", "Rockford Metropolitan Area"]
+    },
+    "biological_unit_score": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Species previously outside city limits may need to migrate through urban areas as they adjust to a changing climate (Hellmann et al. 2010).",
+          "location": "Green Cities - Description",
+          "sub_component": "species",
+          "citations": ["Hellmann et al. 2010"]
+        },
+        {
+          "text": "Freshwater habitats and species are consistently rated as highly vulnerable to climate change",
+          "location": "Streams Campaign - Climate Change",
+          "sub_component": "habitat",
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "biological_unit_components": {
+      "species": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Walk et al. (2011) conducted 584 climate change vulnerability assessments for 162 SGCN in Natural Divisions and Watersheds of Illinois using NatureServe's Climate Change Vulnerability Index",
+            "location": "Streams Campaign - Climate Change",
+            "sub_component": null,
+            "citations": ["Walk et al. 2011", "Young et al. 2011"]
+          }
+        ]
+      },
+      "population": {
+        "present": false,
+        "evidence": []
+      },
+      "habitat": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Freshwater habitats and species are consistently rated as highly vulnerable to climate change",
+            "location": "Streams Campaign - Climate Change",
+            "sub_component": null,
+            "citations": ["Staudinger et al. 2015", "Walk et al. 2011"]
+          }
+        ]
+      },
+      "ecosystem": {
+        "present": false,
+        "evidence": []
+      },
+      "community": {
+        "present": false,
+        "evidence": []
+      },
+      "genotype_phenotype": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["Species of Greatest Conservation Need (SGCN)", "mollusk SGCN", "fish SGCN", "crustaceans", "coolwater species", "freshwater habitats", "aquatic SGCN"]
+    },
+    "partnerships_and_funding": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "The Action Team includes members representing 26 different organizations including federal and state government and nonprofit organizations (Appendix 3).",
+          "location": "Introduction",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "The biggest gaps between what Illinois conservationists have and what they need is in the realms of leadership and funding (Fidler, 2015).",
+          "location": "Conservation Opportunity Areas - Ways to Accomplish the Work",
+          "sub_component": null,
+          "citations": ["Fidler, 2015"]
+        }
+      ],
+      "absence_note": "The document describes broad partnerships (26-organization Action Team, multi-agency campaigns) but the funding discussion explicitly acknowledges gaps. No dedicated funding specifically for range-shift actions is described. Partnerships exist but are aspirational in nature for range-shift-specific work, scoring 1."
+    },
+    "climate_threat_habitat_degradation": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Climate change alters water levels, water temperatures, shoreline stability (due to increased storm frequency and intensity), and effects habitat quality and species composition.",
+          "location": "Lake Michigan - Stresses and Threats to Wildlife and Habitat",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Unseasonable flooding... Exacerbated by increased water volume entering the river systems more rapidly... increased weather and precipitation variability due to climate change, and stream channelization.",
+          "location": "Wetlands Campaign - Stresses and Threats",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_threat_species_vital_rates": {
+      "evaluable": true,
+      "score": 0,
+      "evidence": [],
+      "absence_note": "The document discusses climate change as a threat to habitats and species generally, but does not frame climate-driven events (wildfire, heat, pathogens) as causing direct mortality or reproduction failure in the specific 'climate event → vital rate impact' framing required. The Lake Michigan section mentions climate disrupting food availability during migration, but this is indirect (habitat/food chain) rather than direct mortality from a climate event."
+    },
+    "climate_threat_biotic_stressors": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "There is high agreement among multiple lines of evidence that many invasive plants, insect pests, and pathogens will increase or become more severe... a warming climate may make conditions more favorable for invasive species that are currently invading from farther south.",
+          "location": "Note on Climate Change",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    }
+  },
+  "actions": {
+    "priority_habitat_identification": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Based on the CWCP and new information, each Campaign has identified and mapped Focus Areas to target conservation actions.",
+          "location": "Introduction",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "The IDNR conducted GIS analysis of topography, forest cover, and slope aspect to identify state sites that offer the best potential to meet campaign goals if restoration and management is applied",
+          "location": "Forest and Woodlands Campaign - Focus Areas",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document identifies and maps Focus Areas and Conservation Opportunity Areas spatially, earning a score of 2. While not specifically climate-driven habitat prioritization, Focus Areas are spatially represented throughout the campaign chapters."
+    },
+    "targeted_range_shift_actions": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Develop resiliency and connectedness into habitats so species can adjust to landscape and environmental changes",
+          "location": "Introduction",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "connect habitats via corridors and buffer strips where possible to facilitate movement of less mobile groups (herps, inverts, small mammals etc.)",
+          "location": "Farmland and Prairie Campaign - Actions",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The connectivity actions are tied to the overarching goal of helping species 'adjust to landscape and environmental changes,' which includes climate change. This qualifies as structural facilitation. The reintroduction actions mentioned (Piping Plovers, Baltimore Checkerspot) are framed as recovery from extirpation rather than climate-driven range shift facilitation. Score = 1 for structural facilitation via corridors and connectivity in climate-adjustment framing."
+    },
+    "time_bound_and_monitoring": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Establish desired number and distribution of viable populations for each SGCN and target Focal Species by 2025",
+          "location": "Introduction",
+          "sub_component": "deadline",
+          "citations": []
+        },
+        {
+          "text": "Two types of measures will be used to assess the effectiveness of conservation actions at improving the status of SGCN and their habitats. First, performance measures are included in this Implementation Guide to assess progress toward the goals and objectives of the Campaigns rather than the effectiveness of individual conservation actions. Second, Focal Wildlife Species are identified in each Campaign and are intended to be used for monitoring and assessment of conservation actions.",
+          "location": "Introduction",
+          "sub_component": "monitoring",
+          "citations": []
+        }
+      ],
+      "absence_note": "The document specifies a 10-year implementation horizon (2015-2025) with a 2025 target for viable populations, and each campaign includes output and outcome performance measures tied to focal species monitoring. This qualifies for score 2 — deadlines plus effectiveness monitoring operationalized at the action level."
+    },
+    "evidence_of_efficacy": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Data from Oakwood Bottoms yielded results showing that tree thinning is having a positive effect on the relative abundance of several species of forest birds. Sixteen species of forest birds are showing a strong positive response to the thinning at Oakwood Bottoms",
+          "location": "Forest and Woodlands Campaign - Research and Monitoring",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Songbird nesting data from the Cache River watershed indicated that the reduction of forest fragmentation in the watershed has greatly reduced rates of cowbird parasitism (50% reduced to 20%) and marginally reduced rates of nest predation (60% reduced to 50%).",
+          "location": "Forest and Woodlands Campaign - Research and Monitoring",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The evidence presented is primarily from ongoing monitoring programs at specific sites (Oakwood Bottoms, Cache River) rather than from evaluations of climate-specific actions. The monitoring data is directly applicable (field conditions, relevant taxa, Illinois context). Score of 2 reflects 'limited evidence' — directly applicable monitoring studies exist but are for general forest management actions rather than climate-specific range-shift actions.",
+      "projects": ["Oakwood Bottoms Forest Management (Lake Shelbyville, Trail of Tears, etc.): Before-after-treatment-control monitoring of prescribed fire and tree thinning showed positive response of 16-20 species of forest birds including SGCN species, providing direct field evidence that specific forest management actions increase bird abundance.", "Cache River Watershed Reforestation: Data showed that reduction of forest fragmentation through bottomland forest restoration greatly reduced cowbird parasitism (50% to 20%) and nest predation (60% to 50%), directly supporting habitat connectivity actions.", "Walk et al. (2011) NatureServe CCVI Assessments: Applied 584 vulnerability assessments to 162 Illinois SGCN, providing evidence base for which species are most vulnerable to climate change and what factors (dispersal, thermal sensitivity) drive that vulnerability."]
+    },
+    "adaptation_planning_frameworks": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "The Forest and Woodland Campaign Implementation Team's primary focus has been promoting forest management, particularly restoring open woodlands habitats, using an adaptive resource management approach. Adaptive resource management is a structured, repeated process of robust decision making, with an aim to reducing uncertainty over time via system monitoring.",
+          "location": "Forest and Woodlands Campaign - Status as of 2015",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document references adaptive management in the Forest Campaign context but does not explicitly frame it as climate adaptation planning. The Green Cities section mentions a 'Climate Adaptation Update to Chicago Wilderness Biodiversity Recovery Plan' but only as a resource link without substantive integration. The overarching goals mention species adjusting to environmental change, but no specific climate adaptation frameworks (RAD, RRT, CCVA, scenario planning, SBDA) are named or described. Score = 1 for non-specific reference to adaptive management that is not explicitly climate-framed."
+    }
+  },
+  "coding_meta": {
+    "coder": "llm:claude-sonnet-4-6",
+    "model": "claude-sonnet-4-6",
+    "provider": "claude",
+    "codebook_version": "0.4",
+    "ingest": "text",
+    "design": "single",
+    "temperature": null,
+    "thinking": null,
+    "thinking_effort": null,
+    "coded_at": "2026-07-06T18:39:22Z",
+    "notes": {}
+  }
+}

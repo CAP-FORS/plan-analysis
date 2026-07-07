@@ -1,0 +1,977 @@
+{
+  "document_meta": {
+    "title": "Connecticut 2025 State Wildlife Action Plan",
+    "year": 2025,
+    "jurisdiction": "Connecticut",
+    "document_type": "SWAP",
+    "document_id": "CT_SWAP_2025"
+  },
+  "orientation": {
+    "summary": "The Connecticut 2025 State Wildlife Action Plan (SWAP) is a comprehensive state-level wildlife conservation planning document covering 573 SGCN and 515 SAPS across all major taxonomic groups and habitat types. The document is strongly climate-aware, treating 'shifting environmental conditions' as the most pervasive threat to Connecticut's SGCN and devoting substantial content to how warming temperatures, altered precipitation, sea-level rise, and related stressors are reshaping species distributions, vital rates, and habitats. Range shifts are explicitly discussed throughout—species are documented as already shifting ranges northward and to higher elevations, with cold-water refugia shrinking and warm-water species replacing cool-water ones. The document incorporates external analyses (particularly Burgio et al. 2024, Staudinger et al. 2024, Karmalkar et al. 2024) rather than performing its own modeling, but does apply Conservation Opportunity Area (COA) mapping using species distribution models for 14 focal SGCN via Zonation software. Actions include a climate adaptation framework referencing RAD (Resist-Accept-Direct) and RRT (Resistance-Resilience-Transformation), connectivity and refugia protection, and limited discussion of assisted migration for plants.",
+    "evidence_index": [
+      {
+        "text": "Climate Vulnerability Score: Vulnerability assessment typically considers intrinsic properties of sensitivity and adaptive capacity, along with the magnitude of climate change the species is exposed to",
+        "location": "Chapter 1 - SGCN and SAPS.pdf",
+        "relevant_elements": ["1.1", "1.2", "2.1"]
+      },
+      {
+        "text": "Understanding why species and ecosystems are vulnerable or potentially less resilient is a critical first step in developing effective conservation strategies. This vulnerability is based on sensitivity, exposure, and the ability to adapt.",
+        "location": "Chapter 3 - Issues.pdf",
+        "relevant_elements": ["1.1", "1.2"]
+      },
+      {
+        "text": "Forty-eight percent of all of Connecticut's 574 SGCN were classified as 'More Vulnerable' to shifting environmental conditions by the Taxa Teams, while 4.5% were classified as 'Less Vulnerable.'",
+        "location": "Chapter 3 - Issues.pdf",
+        "relevant_elements": ["1.1", "2.1"]
+      },
+      {
+        "text": "Species with low adaptive capacity such as those with specialized habitat needs or limited dispersal ability face higher vulnerability to these changes.",
+        "location": "Chapter 3 - Issues.pdf",
+        "relevant_elements": ["1.1", "1.2", "1.3"]
+      },
+      {
+        "text": "These pressures increasingly interact with land use change, reducing the adaptive capacity of already stressed ecosystems",
+        "location": "Chapter 3 - Issues.pdf",
+        "relevant_elements": ["1.1", "1.2"]
+      },
+      {
+        "text": "Coldwater fish like Brook Trout and Slimy Sculpin are watching their world shrink as reduced baseflow and warming stream temperatures eliminate the cool refugia they need to survive",
+        "location": "Chapter 3 - Issues.pdf",
+        "relevant_elements": ["1.1", "3.5", "3.6"]
+      },
+      {
+        "text": "range shifts resulting from some species' response to changing environmental conditions",
+        "location": "Chapter 1 - SGCN and SAPS.pdf, Regional Context (Amphibians)",
+        "relevant_elements": ["1.3", "3.3"]
+      },
+      {
+        "text": "This is likely to cause fish species to shift their ranges or become locally extinct",
+        "location": "Chapter 1 - SGCN and SAPS.pdf, SGCN Fish section",
+        "relevant_elements": ["1.3", "3.3", "3.5"]
+      },
+      {
+        "text": "Ensembles of warm-water-associated species are moving north into temperate habitats, generally replacing cold-water-associated species, which are migrating to deeper depths and higher latitudes in search of cold-water refugia",
+        "location": "Chapter 1 - SGCN and SAPS.pdf, SGCN Fish section",
+        "relevant_elements": ["1.3", "3.3", "3.5"]
+      },
+      {
+        "text": "As fish make distributional changes in range and phenology, primarily in response to warming sea surface and bottom temperatures, entire assemblages of species are reshuffling and reorganizing across Northeast coastal ecosystems",
+        "location": "Chapter 1 - SGCN and SAPS.pdf, SGCN Fish section",
+        "relevant_elements": ["1.3", "3.3"]
+      },
+      {
+        "text": "these range-edge species are the ones most likely to possess the genetic adaptations that will best prepare them to respond to the challenges of shifting environmental conditions. Therefore, conservation of range-edge species may be vital to the long-term resiliency of biodiversity",
+        "location": "Chapter 1 - SGCN and SAPS.pdf",
+        "relevant_elements": ["1.3", "1.2"]
+      },
+      {
+        "text": "Limited dispersal ability constrains this species' capacity to colonize newly suitable habitat... amphibians and reptiles have limited dispersal abilities, and many are tied to very specific habitat types",
+        "location": "Chapter 1 - SGCN and SAPS.pdf",
+        "relevant_elements": ["1.3"]
+      },
+      {
+        "text": "research exploring changing phenologies, range shifts, and climate refugia may be especially important in the future to identify potential adaptation strategies for these species",
+        "location": "Chapter 1 - SGCN and SAPS.pdf",
+        "relevant_elements": ["1.3", "4.1", "4.5"]
+      },
+      {
+        "text": "Lepidoptera are extremely sensitive to environmental changes and are threatened by herbicides, insecticides, habitat loss, pollution, and direct and indirect effects of shifting environmental conditions... shifts in range, behavior, development, and more",
+        "location": "Chapter 1 - SGCN and SAPS.pdf, Invertebrates section",
+        "relevant_elements": ["1.3", "3.5"]
+      },
+      {
+        "text": "Phenological mismatch can reduce survival when plants emerge before their host plant or after the host plant senesces",
+        "location": "Chapter 1 - SGCN and SAPS.pdf",
+        "relevant_elements": ["1.3", "3.7"]
+      },
+      {
+        "text": "Brook Trout are already restricted to cold, high-quality headwaters in Connecticut and are expected to experience range contraction as thermal thresholds are increasingly exceeded",
+        "location": "Chapter 3 - Issues.pdf",
+        "relevant_elements": ["1.3", "3.3", "3.6"]
+      },
+      {
+        "text": "Habitat fragmentation further limits their capacity to shift ranges in response to warming.",
+        "location": "Chapter 3 - Issues.pdf",
+        "relevant_elements": ["1.3", "1.4"]
+      },
+      {
+        "text": "Long-term efforts should aim to expand suitable habitats and protect critical migration corridors for SGCN.",
+        "location": "Chapter 2 - Habitats.pdf",
+        "relevant_elements": ["1.4", "4.2"]
+      },
+      {
+        "text": "regional connectivity, which allows species to track suitable climate conditions, maintain genetic diversity, and avoid population fragmentation. Protecting corridors and habitat linkages supports natural range shifts",
+        "location": "Chapter 4 - Actions.pdf",
+        "relevant_elements": ["1.4", "4.2", "4.5"]
+      },
+      {
+        "text": "Building resilience is a key component of environmental adaptation, focusing on protecting climate refugia and enhancing regional connectivity. Climate refugia, areas buffered from the most extreme effects of climate change, can help maintain species persistence",
+        "location": "Chapter 4 - Actions.pdf",
+        "relevant_elements": ["1.4", "4.1", "4.5"]
+      },
+      {
+        "text": "A regional habitat connectivity plan provides spatial layers depicting structural connectivity, network importance, landscape permeability, and climate connectivity.",
+        "location": "Chapter 4 - Actions.pdf, Connect COA section",
+        "relevant_elements": ["1.4", "2.4"]
+      },
+      {
+        "text": "The Connect COA aims to facilitate physical, structural, or functional connections amongst populations. The 14 SGCN models and seven key habitat maps, as well as the distance to protected areas data and Resilient and Connected Landscapes, were included in Zonation.",
+        "location": "Chapter 4 - Actions.pdf",
+        "relevant_elements": ["1.4", "2.4", "4.1"]
+      },
+      {
+        "text": "Coldwater refugia for freshwater fish and other species are expected to become more limited in the Northeast by the end of the century",
+        "location": "Chapter 1 - SGCN and SAPS.pdf",
+        "relevant_elements": ["1.4", "3.5", "4.1"]
+      },
+      {
+        "text": "CCVI scores were calculated... The 2015 SWAP vulnerability assessments are incorporated into the 2025 SGCN selection process",
+        "location": "Chapter 1 - SGCN and SAPS.pdf",
+        "relevant_elements": ["2.1"]
+      },
+      {
+        "text": "Climate Vulnerability Score: Vulnerability assessment typically considers intrinsic properties of sensitivity and adaptive capacity, along with the magnitude of climate change the species is exposed to",
+        "location": "Chapter 1 - SGCN and SAPS.pdf",
+        "relevant_elements": ["2.1"]
+      },
+      {
+        "text": "Ensembles of small models, a modeling approach well-suited for rare species, were used to fit and combine a series of bivariate models. Each model's predictions were based on the habitat associations identified by the taxa teams and existing literature.",
+        "location": "Chapter 4 - Actions.pdf",
+        "relevant_elements": ["2.2"]
+      },
+      {
+        "text": "The some data used in the mapping process included habitat suitability maps for 14 SGCN identified by the Taxa Teams.",
+        "location": "Chapter 4 - Actions.pdf",
+        "relevant_elements": ["2.2"]
+      },
+      {
+        "text": "The annual mean temperature by the end of this century is projected to reach about 55°F in a medium emissions scenario, RCP4.5, and about 60°F in a high emissions scenario, RCP8.5",
+        "location": "Addendum to Chapter 2.pdf",
+        "relevant_elements": ["2.3"]
+      },
+      {
+        "text": "The blue and red lines represent median projections under the medium and high scenarios, respectively, for RCP4.5 and RCP8.5. The shading indicates the spread in projections across nine climate models for each scenario.",
+        "location": "Addendum to Chapter 2.pdf",
+        "relevant_elements": ["2.3"]
+      },
+      {
+        "text": "Considering the medium emissions scenario (RCP4.5), Connecticut's average temperature is expected to increase between 1.2° and 4.3°F by 2059 and between 2.4° and 7.0°F by 2099",
+        "location": "Addendum to Chapter 2.pdf",
+        "relevant_elements": ["2.3"]
+      },
+      {
+        "text": "Input into the Zonation software to rank each pixel in a 10.0 m resolution grid of Connecticut based on its conservation value",
+        "location": "Chapter 4 - Actions.pdf",
+        "relevant_elements": ["2.4"]
+      },
+      {
+        "text": "Resilient and Connected Landscapes layer also had a higher weight of 5.0 due to the regional importance of the connected network.",
+        "location": "Chapter 4 - Actions.pdf",
+        "relevant_elements": ["2.4"]
+      },
+      {
+        "text": "The Northeast Continental Shelf is warming more rapidly than other water bodies worldwide",
+        "location": "Chapter 1 - SGCN and SAPS.pdf",
+        "relevant_elements": ["3.5"]
+      },
+      {
+        "text": "saltwater intrusion has been contaminating freshwater resources in the Northeast and throughout the United States, rendering them unsuitable for drinking and agricultural use",
+        "location": "Addendum to Chapter 2.pdf",
+        "relevant_elements": ["3.5"]
+      },
+      {
+        "text": "Brackish marshes, where fresh and saltwater mix...are highly vulnerable to climate change, particularly sea-level rise. Models predict a loss of 50 to 97 percent of high marsh by 2100",
+        "location": "Chapter 2 - Habitats.pdf",
+        "relevant_elements": ["3.5"]
+      },
+      {
+        "text": "Reptiles such as Eastern Box Turtle and Spotted Turtle, which exhibit temperature-dependent sex determination, produce heavily skewed clutches as nesting conditions warm up",
+        "location": "Chapter 3 - Issues.pdf",
+        "relevant_elements": ["3.6"]
+      },
+      {
+        "text": "Aerial insectivores like Tree Swallow and Eastern Whip-poor-will are discovering that timing is everything when earlier insect emergence leaves their chicks hungry at critical moments, reducing reproductive success",
+        "location": "Chapter 3 - Issues.pdf",
+        "relevant_elements": ["3.6", "3.7"]
+      },
+      {
+        "text": "Warming has allowed invasive cheatgrass to expand its range... Warming temperatures give invasive species an edge",
+        "location": "Chapter 3 - Issues.pdf",
+        "relevant_elements": ["3.7"]
+      },
+      {
+        "text": "Phenological mismatch...Species like the Monarch and Regal Fritillary are struggling with shifts in temperature, precipitation, and host plant timing.",
+        "location": "Chapter 3 - Issues.pdf",
+        "relevant_elements": ["3.7"]
+      },
+      {
+        "text": "shifting temperature and precipitation patterns create conditions that favor non-native species over the natives that evolved here",
+        "location": "Chapter 3 - Issues.pdf",
+        "relevant_elements": ["3.7"]
+      },
+      {
+        "text": "Conservation opportunity areas (COAs) represent locations where partners can take voluntary actions to benefit wildlife populations and habitats... Figure 4.14. All Conservation Opportunity Areas (COA) were created for the Wildlife Action Plan.",
+        "location": "Chapter 4 - Actions.pdf",
+        "relevant_elements": ["4.1"]
+      },
+      {
+        "text": "The Protect COA...Partners interested in purchasing land or changing the land protection status should use this COA.",
+        "location": "Chapter 4 - Actions.pdf",
+        "relevant_elements": ["4.1"]
+      },
+      {
+        "text": "Integrating refugia into conservation planning ensures short-term resistance to climate impacts and long-term adaptation by preserving critical habitats",
+        "location": "Chapter 4 - Actions.pdf",
+        "relevant_elements": ["4.1", "4.2", "4.5"]
+      },
+      {
+        "text": "The Resist-Accept-Direct (RAD) framework offers a structured decision-making tool that enables managers to respond to ecological shifts by resisting them, accepting them as inevitable, or directing them toward desired future conditions",
+        "location": "Chapter 4 - Actions.pdf",
+        "relevant_elements": ["4.2", "4.5"]
+      },
+      {
+        "text": "Protecting corridors and habitat linkages supports natural range shifts, reducing the risk of isolated populations trapped in unsuitable environments",
+        "location": "Chapter 4 - Actions.pdf",
+        "relevant_elements": ["4.2", "4.5"]
+      },
+      {
+        "text": "piloting assisted migration in select cases",
+        "location": "Chapter 4 - Actions.pdf, Plants section",
+        "relevant_elements": ["4.2"]
+      },
+      {
+        "text": "Taxa Teams categorized 94% of these actions as highest urgency, requiring initiation within the next 5 years, with 1% needing to be initiated 5-10 years from now, and 4% needing to be initiated in 10 years or more.",
+        "location": "Chapter 4 - Actions.pdf",
+        "relevant_elements": ["4.3"]
+      },
+      {
+        "text": "Incorporating the SMART framework into management projects and actions ensures transparency and accountability, and better allows for actions to work with adaptive management practices",
+        "location": "Chapter 4 - Actions.pdf",
+        "relevant_elements": ["4.3", "4.5"]
+      },
+      {
+        "text": "An adaptive management framework is critical to refining conservation strategies based on empirical data.",
+        "location": "Chapter 4 - Actions.pdf",
+        "relevant_elements": ["4.3", "4.5"]
+      },
+      {
+        "text": "By embedding adaptation into an iterative, evidence-based process, conservation actions remain dynamic and responsive to emerging threats",
+        "location": "Chapter 4 - Actions.pdf",
+        "relevant_elements": ["4.4", "4.5"]
+      },
+      {
+        "text": "The RAD framework, in conjunction with the Resistance-Resilience-Transformation (RRT) model, provides a structured approach to managing ecological uncertainty and aligning conservation efforts with long-term environmental trends",
+        "location": "Chapter 4 - Actions.pdf",
+        "relevant_elements": ["4.5"]
+      },
+      {
+        "text": "CT DEEP remains committed to supporting regional biodiversity conservation efforts, including the RCN Program, the RSGCN framework, and the Northeast Fish and Wildlife Diversity Technical Committee.",
+        "location": "Chapter 4 - Actions.pdf",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "CT DEEP allocates a portion of its federally apportioned wildlife and sport fish grants to support habitat conservation and research outside state borders",
+        "location": "Chapter 4 - Actions.pdf",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "Since 2015, CT DEEP has acquired 6,942 acres, including 1,322 acres of easements. In addition, the CT DEEP Open Space and Watershed Land Acquisition Grant Program has awarded grants to towns, private conservation groups, and water companies to protect between 13,800 and 14,800 acres since 2015.",
+        "location": "Chapter 1 - SGCN and SAPS.pdf, Plants section",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "statewide effort to map the distribution and abundance of all of Connecticut's Breeding Birds",
+        "location": "Chapter 1 - SGCN and SAPS.pdf, Birds section",
+        "relevant_elements": ["3.4"]
+      }
+    ]
+  },
+  "concepts": {
+    "climate_vulnerability": {
+      "evaluable": true,
+      "score": 3,
+      "evidence": [
+        {
+          "text": "Understanding why species and ecosystems are vulnerable or potentially less resilient is a critical first step in developing effective conservation strategies. This vulnerability is based on sensitivity, exposure, and the ability to adapt.",
+          "location": "Chapter 3 - Issues.pdf",
+          "sub_component": "exposure and adaptive capacity",
+          "citations": []
+        },
+        {
+          "text": "Forty-eight percent of all of Connecticut's 574 SGCN were classified as 'More Vulnerable' to shifting environmental conditions by the Taxa Teams, while 4.5% were classified as 'Less Vulnerable.'",
+          "location": "Chapter 3 - Issues.pdf",
+          "sub_component": "exposure",
+          "citations": []
+        },
+        {
+          "text": "Species with low adaptive capacity such as those with specialized habitat needs or limited dispersal ability face higher vulnerability to these changes.",
+          "location": "Chapter 3 - Issues.pdf",
+          "sub_component": "adaptive capacity",
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "adaptive_capacity_specificity": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Species with low adaptive capacity such as those with specialized habitat needs or limited dispersal ability face higher vulnerability to these changes.",
+          "location": "Chapter 3 - Issues.pdf",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "these range-edge species are the ones most likely to possess the genetic adaptations that will best prepare them to respond to the challenges of shifting environmental conditions. Therefore, conservation of range-edge species may be vital to the long-term resiliency of biodiversity",
+          "location": "Chapter 1 - SGCN and SAPS.pdf",
+          "sub_component": null,
+          "citations": ["Lesia and Allendorf, 1995", "Fraser, 2000", "Channell, 2004", "Klemens et al., 2021"]
+        }
+      ],
+      "absence_note": {}
+    },
+    "adaptive_capacity_components": {
+      "demography": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Many turtles will likely be impacted due to their complex life history and long generational times, preventing them from adapting to a rapidly changing environment.",
+            "location": "Chapter 1 - SGCN and SAPS.pdf",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "distribution": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Brook Trout are already restricted to cold, high-quality headwaters in Connecticut and are expected to experience range contraction as thermal thresholds are increasingly exceeded. Habitat fragmentation further limits their capacity to shift ranges in response to warming.",
+            "location": "Chapter 3 - Issues.pdf",
+            "sub_component": null,
+            "citations": ["Chambers et al., 2017"]
+          }
+        ]
+      },
+      "movement": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Species with low adaptive capacity such as those with specialized habitat needs or limited dispersal ability face higher vulnerability to these changes.",
+            "location": "Chapter 3 - Issues.pdf",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "evolutionary_potential": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "these range-edge species are the ones most likely to possess the genetic adaptations that will best prepare them to respond to the challenges of shifting environmental conditions. Therefore, conservation of range-edge species may be vital to the long-term resiliency of biodiversity in our region and beyond",
+            "location": "Chapter 1 - SGCN and SAPS.pdf",
+            "sub_component": null,
+            "citations": ["Lesia and Allendorf, 1995", "Fraser, 2000"]
+          }
+        ]
+      },
+      "ecological_dependencies": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Phenological mismatch can reduce survival when plants emerge before their host plant or after the host plant senesces",
+            "location": "Chapter 1 - SGCN and SAPS.pdf",
+            "sub_component": null,
+            "citations": ["Patterson et al., 2019"]
+          }
+        ]
+      },
+      "abiotic_niche": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Cold-water species in headwater streams show high sensitivity to summer temperature increases... Coldwater refugia for freshwater fish and other species are expected to become more limited in the Northeast by the end of the century",
+            "location": "Chapter 1 - SGCN and SAPS.pdf",
+            "sub_component": null,
+            "citations": ["Burgio et al., 2024"]
+          }
+        ]
+      },
+      "life_history": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Connecticut's turtles face a triple threat due to their long generation times, temperature-dependent sex determination, and inability to move quickly between habitats",
+            "location": "Chapter 3 - Issues.pdf",
+            "sub_component": null,
+            "citations": ["Burgio et al., 2024"]
+          }
+        ]
+      }
+    },
+    "connectivity": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "regional connectivity, which allows species to track suitable climate conditions, maintain genetic diversity, and avoid population fragmentation. Protecting corridors and habitat linkages supports natural range shifts, reducing the risk of isolated populations trapped in unsuitable environments",
+          "location": "Chapter 4 - Actions.pdf",
+          "sub_component": null,
+          "citations": ["Staudinger et al., 2024"]
+        },
+        {
+          "text": "Building resilience is a key component of environmental adaptation, focusing on protecting climate refugia and enhancing regional connectivity. Climate refugia, areas buffered from the most extreme effects of climate change, can help maintain species persistence and ecosystem function even as conditions shift",
+          "location": "Chapter 4 - Actions.pdf",
+          "sub_component": null,
+          "citations": ["Morelli et al., 2016", "Morelli et al., 2020"]
+        }
+      ],
+      "absence_note": {}
+    }
+  },
+  "tools": {
+    "vulnerability_models": {
+      "evaluable": true,
+      "score": 2,
+      "named_tools": ["CCVI"],
+      "evidence": [
+        {
+          "text": "Climate Vulnerability Score: Vulnerability assessment typically considers intrinsic properties of sensitivity and adaptive capacity, along with the magnitude of climate change the species is exposed to",
+          "location": "Chapter 1 - SGCN and SAPS.pdf",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "The agency incorporated vulnerability assessments into a dedicated chapter of the prior plan, considering sensitivity, exposure, and adaptive capacity across most focal species and related habitats.",
+          "location": "Chapter 3 - Issues.pdf",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "niche_models": {
+      "evaluable": true,
+      "score": 2,
+      "named_tools": ["Zonation", "ensemble small models"],
+      "evidence": [
+        {
+          "text": "Ensembles of small models, a modeling approach well-suited for rare species, were used to fit and combine a series of bivariate models. Each model's predictions were based on the habitat associations identified by the taxa teams and existing literature.",
+          "location": "Chapter 4 - Actions.pdf",
+          "sub_component": null,
+          "citations": ["Lomba et al., 2010", "Breiner et al., 2015", "Breiner et al., 2018"]
+        },
+        {
+          "text": "The some data used in the mapping process included habitat suitability maps for 14 SGCN identified by the Taxa Teams.",
+          "location": "Chapter 4 - Actions.pdf",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_models": {
+      "evaluable": true,
+      "score": 2,
+      "named_tools": ["RCP4.5", "RCP8.5", "CMIP (nine climate models)"],
+      "evidence": [
+        {
+          "text": "The annual mean temperature by the end of this century is projected to reach about 55°F in a medium emissions scenario, RCP4.5, and about 60°F in a high emissions scenario, RCP8.5, increasing by about 5-10˚F above the average over the recent three decades",
+          "location": "Addendum to Chapter 2.pdf",
+          "sub_component": null,
+          "citations": ["Karmalkar et al., 2024"]
+        },
+        {
+          "text": "The blue and red lines represent median projections under the medium and high scenarios, respectively, for RCP4.5 and RCP8.5. The shading indicates the spread in projections across nine climate models for each scenario.",
+          "location": "Addendum to Chapter 2.pdf",
+          "sub_component": null,
+          "citations": ["Karmalkar et al., 2024"]
+        }
+      ],
+      "absence_note": {},
+      "time_horizon_years": [2050, 2059, 2099, 2100],
+      "emission_scenarios": ["RCP4.5", "RCP8.5"]
+    },
+    "connectivity_models": {
+      "evaluable": true,
+      "score": 2,
+      "named_tools": ["Zonation"],
+      "evidence": [
+        {
+          "text": "input into the Zonation software to rank each pixel in a 10.0 m resolution grid of Connecticut based on its conservation value. Zonation iteratively ranks all grid cells based on their marginal loss in conservation value.",
+          "location": "Chapter 4 - Actions.pdf",
+          "sub_component": null,
+          "citations": ["Moilanen et al., 2005", "Moilanen et al., 2022"]
+        },
+        {
+          "text": "The Resilient and Connected Landscapes layer also had a higher weight of 5.0 due to the regional importance of the connected network.",
+          "location": "Chapter 4 - Actions.pdf",
+          "sub_component": null,
+          "citations": ["The Nature Conservancy 2016"]
+        }
+      ],
+      "absence_note": {}
+    }
+  },
+  "context": {
+    "management_scale": {
+      "local": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Protect ridgetop habitats and manage early successional habitats and grasslands to support species dependent on open landscapes.",
+            "location": "Chapter 2 - Habitats.pdf",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "site": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Integrating refugia into conservation planning ensures short-term resistance to climate impacts and long-term adaptation by preserving critical habitats and ecological processes",
+            "location": "Chapter 4 - Actions.pdf",
+            "sub_component": null,
+            "citations": ["Staudinger et al., 2024"]
+          }
+        ]
+      },
+      "watershed": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "watershed-scale approach to fish conservation will be critical to address cross-boundary stressors and ecological thresholds.",
+            "location": "Chapter 3 - Issues.pdf",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "city": {
+        "present": false,
+        "evidence": []
+      },
+      "county": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "At the county level, the highest projected urban growth by 2040 and 2080 is expected in Fairfield, New Haven, and Hartford counties",
+            "location": "Chapter 2 - Habitats.pdf",
+            "sub_component": null,
+            "citations": ["McGarigal et al., 2018"]
+          }
+        ]
+      },
+      "within_state_region": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Connecticut comprises four major biogeographic regions: the Northwestern Highlands, the Connecticut Valley, the Coastal Plains and Hills, and the Coastal Lowlands",
+            "location": "Chapter 2 - Habitats.pdf",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "state": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Forty-eight percent of all of Connecticut's 574 SGCN were classified as 'More Vulnerable' to shifting environmental conditions by the Taxa Teams",
+            "location": "Chapter 3 - Issues.pdf",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "multistate": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Connecticut actively participates in the regional collaboration for fish and wildlife conservation in the Northeast. The thirteen northeastern states (Virginia north to Maine) and the District of Columbia have a long history of cooperation through the Northeast Association of Fish and Wildlife Agencies (NEAFWA).",
+            "location": "Chapter 1 - SGCN and SAPS.pdf",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "national": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "CT DEEP remains committed to supporting regional biodiversity conservation efforts, including the RCN Program, the RSGCN framework, and the Northeast Fish and Wildlife Diversity Technical Committee.",
+            "location": "Chapter 4 - Actions.pdf",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "transnational": {
+        "present": false,
+        "evidence": []
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Connecticut is home to the largest area of estuarine habitat in the Northeast (TCI & NEFWDTC, 2023), making our state critical for the persistence of species that rely on estuaries.",
+            "location": "Chapter 2 - Habitats.pdf",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecoregion": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Connecticut comprises four major biogeographic regions...which are further subdivided into 'ecoregions'",
+            "location": "Chapter 2 - Habitats.pdf",
+            "sub_component": null,
+            "citations": ["EPA, 2024"]
+          }
+        ]
+      },
+      "province": {
+        "present": false,
+        "evidence": []
+      },
+      "section": {
+        "present": false,
+        "evidence": []
+      },
+      "subsection": {
+        "present": false,
+        "evidence": []
+      },
+      "lake": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Connecticut has approximately 2,300 lakes, ponds, and reservoirs.",
+            "location": "Chapter 2 - Habitats.pdf",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "river": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Connecticut is home to 5828 miles of rivers and streams",
+            "location": "Chapter 2 - Habitats.pdf",
+            "sub_component": null,
+            "citations": ["CT DEEP, 2022"]
+          }
+        ]
+      },
+      "district": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["Long Island Sound", "Connecticut River", "Housatonic River", "Thames River", "Northeast region", "Long Island Sound", "Northwest Atlantic continental shelf", "Northwestern Highlands", "Connecticut Valley"]
+    },
+    "biological_unit_score": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "As fish make distributional changes in range and phenology, primarily in response to warming sea surface and bottom temperatures, entire assemblages of species are reshuffling and reorganizing across Northeast coastal ecosystems",
+          "location": "Chapter 1 - SGCN and SAPS.pdf",
+          "sub_component": "species and community",
+          "citations": ["Weiskopf et al., 2020", "Staudinger et al., 2021"]
+        },
+        {
+          "text": "range shifts resulting from some species' response to changing environmental conditions... Coldwater fish like Brook Trout and Slimy Sculpin are watching their world shrink as reduced baseflow and warming stream temperatures eliminate the cool refugia they need to survive",
+          "location": "Chapter 1 - SGCN and SAPS.pdf / Chapter 3 - Issues.pdf",
+          "sub_component": "species",
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "biological_unit_components": {
+      "species": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Brook Trout are already restricted to cold, high-quality headwaters in Connecticut and are expected to experience range contraction as thermal thresholds are increasingly exceeded.",
+            "location": "Chapter 3 - Issues.pdf",
+            "sub_component": null,
+            "citations": ["Chambers et al., 2017"]
+          }
+        ]
+      },
+      "population": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "potential leading to local population declines and range contractions... During drought years, seasonal and semi-permanent wetlands lose salamander populations, a trend expected to intensify under future environmental scenarios",
+            "location": "Chapter 3 - Issues.pdf",
+            "sub_component": null,
+            "citations": ["Riddell et al., 2018", "Currinder et al., 2014"]
+          }
+        ]
+      },
+      "habitat": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Coastal species, like Saltmarsh Sparrows and Seaside Dragonlets, find themselves trapped between habitat loss from saltwater intrusion and development, often referred to as 'coastal squeeze'",
+            "location": "Chapter 3 - Issues.pdf",
+            "sub_component": null,
+            "citations": ["Shriver et al., 2015", "Burgio et al., 2024"]
+          }
+        ]
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "entire assemblages of species are reshuffling and reorganizing across Northeast coastal ecosystems",
+            "location": "Chapter 1 - SGCN and SAPS.pdf",
+            "sub_component": null,
+            "citations": ["Weiskopf et al., 2020", "Staudinger et al., 2021"]
+          }
+        ]
+      },
+      "community": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Ensembles of warm-water-associated species are moving north into temperate habitats, generally replacing cold-water-associated species, which are migrating to deeper depths and higher latitudes in search of cold-water refugia",
+            "location": "Chapter 1 - SGCN and SAPS.pdf",
+            "sub_component": null,
+            "citations": ["Friedland et al., 2020", "Pershing et al., 2021"]
+          }
+        ]
+      },
+      "genotype_phenotype": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "these range-edge species are the ones most likely to possess the genetic adaptations that will best prepare them to respond to the challenges of shifting environmental conditions.",
+            "location": "Chapter 1 - SGCN and SAPS.pdf",
+            "sub_component": null,
+            "citations": ["Klemens et al., 2021"]
+          }
+        ]
+      },
+      "named_entities": ["Brook Trout", "Saltmarsh Sparrow", "Wood Turtle", "Spotted Turtle", "Eastern Box Turtle", "Jefferson Salamander", "New England Cottontail", "Piping Plover", "Atlantic Sturgeon", "American Eel", "Alewife", "Blueback Herring", "American Shad", "Winter Flounder", "Northern Long-eared Bat", "Monarch Butterfly"]
+    },
+    "partnerships_and_funding": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "CT DEEP remains committed to supporting regional biodiversity conservation efforts, including the RCN Program, the RSGCN framework, and the Northeast Fish and Wildlife Diversity Technical Committee. These partnerships facilitate the implementation of coordinated natural resource plans across multiple states.",
+          "location": "Chapter 4 - Actions.pdf",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Since 2015, CT DEEP has acquired 6,942 acres, including 1,322 acres of easements. In addition, the CT DEEP Open Space and Watershed Land Acquisition Grant Program has awarded grants to towns, private conservation groups, and water companies to protect between 13,800 and 14,800 acres since 2015.",
+          "location": "Chapter 1 - SGCN and SAPS.pdf",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "The RCN 3 Program, launched in 2023, funds seven regional projects through 2028, including enhancing invertebrate conservation capacity in partnership with the U.S. Geological Survey.",
+          "location": "Chapter 4 - Actions.pdf",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_threat_habitat_degradation": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Brackish marshes, where fresh and saltwater mix...are highly vulnerable to climate change, particularly sea-level rise. Models predict a loss of 50 to 97 percent of high marsh by 2100",
+          "location": "Chapter 2 - Habitats.pdf",
+          "sub_component": null,
+          "citations": ["Boyd and Rubinoff, 2014"]
+        },
+        {
+          "text": "Coastal species, like Saltmarsh Sparrows and Seaside Dragonlets, find themselves trapped between habitat loss from saltwater intrusion and development, often referred to as 'coastal squeeze'",
+          "location": "Chapter 3 - Issues.pdf",
+          "sub_component": null,
+          "citations": ["Shriver et al., 2015", "Burgio et al., 2024"]
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_threat_species_vital_rates": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Reptiles such as Eastern Box Turtle and Spotted Turtle, which exhibit temperature-dependent sex determination, produce heavily skewed clutches as nesting conditions warm up",
+          "location": "Chapter 3 - Issues.pdf",
+          "sub_component": null,
+          "citations": ["Roberts et al., 2023", "Burgio et al., 2024"]
+        },
+        {
+          "text": "Aerial insectivores like Tree Swallow and Eastern Whip-poor-will are discovering that timing is everything when earlier insect emergence leaves their chicks hungry at critical moments, reducing reproductive success",
+          "location": "Chapter 3 - Issues.pdf",
+          "sub_component": null,
+          "citations": ["Shipley et al., 2022", "Callery, 2020", "Staudinger et al., 2024"]
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_threat_biotic_stressors": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "shifting temperature and precipitation patterns create conditions that favor non-native species over the natives that evolved here",
+          "location": "Chapter 3 - Issues.pdf",
+          "sub_component": null,
+          "citations": ["Burgio et al., 2024"]
+        },
+        {
+          "text": "Phenological mismatch can reduce survival when plants emerge before their host plant or after the host plant senesces",
+          "location": "Chapter 1 - SGCN and SAPS.pdf",
+          "sub_component": null,
+          "citations": ["Patterson et al., 2019"]
+        }
+      ],
+      "absence_note": {}
+    }
+  },
+  "actions": {
+    "priority_habitat_identification": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Conservation opportunity areas (COAs) represent locations where partners can take voluntary actions to benefit wildlife populations and habitats, thereby achieving conservation goals.",
+          "location": "Chapter 4 - Actions.pdf",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Figure 4.14. All Conservation Opportunity Areas (COA) were created for the Wildlife Action Plan. Protect COA prioritizes locations with suitable SGCN habitat and key habitats outside current protected areas. Connect COA prioritizes locations with suitable SGCN habitat and key habitats near current protected areas and Resilient and Connected landscapes.",
+          "location": "Chapter 4 - Actions.pdf",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Integrating refugia into conservation planning ensures short-term resistance to climate impacts and long-term adaptation by preserving critical habitats and ecological processes",
+          "location": "Chapter 4 - Actions.pdf",
+          "sub_component": null,
+          "citations": ["Staudinger et al., 2024"]
+        }
+      ],
+      "absence_note": {}
+    },
+    "targeted_range_shift_actions": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "regional connectivity, which allows species to track suitable climate conditions, maintain genetic diversity, and avoid population fragmentation. Protecting corridors and habitat linkages supports natural range shifts, reducing the risk of isolated populations trapped in unsuitable environments",
+          "location": "Chapter 4 - Actions.pdf",
+          "sub_component": null,
+          "citations": ["Staudinger et al., 2024"]
+        },
+        {
+          "text": "piloting assisted migration in select cases",
+          "location": "Chapter 4 - Actions.pdf, Plants section",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "time_bound_and_monitoring": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Taxa Teams categorized 94% of these actions as highest urgency, requiring initiation within the next 5 years, with 1% needing to be initiated 5-10 years from now, and 4% needing to be initiated in 10 years or more.",
+          "location": "Chapter 4 - Actions.pdf",
+          "sub_component": "time-bound",
+          "citations": []
+        },
+        {
+          "text": "An adaptive management framework is critical to refining conservation strategies based on empirical data. For instance, monitoring trends in aerial insectivore populations related to insect abundance can clarify whether wetland and grassland conservation efforts effectively support their needs.",
+          "location": "Chapter 4 - Actions.pdf",
+          "sub_component": "effectiveness monitoring",
+          "citations": []
+        },
+        {
+          "text": "Incorporating the SMART framework into management projects and actions ensures transparency and accountability, and better allows for actions to work with adaptive management practices",
+          "location": "Chapter 4 - Actions.pdf",
+          "sub_component": "time-bound and monitoring",
+          "citations": ["Aldridge and Colvin, 2024"]
+        }
+      ],
+      "absence_note": {}
+    },
+    "evidence_of_efficacy": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "The pollinator habitat management project surveyed and managed over 740 acres across ten states, collecting 81,000 records of bees and moths to assess the effectiveness of habitat treatments, ultimately informing best management practices",
+          "location": "Chapter 4 - Actions.pdf",
+          "sub_component": null,
+          "citations": ["Heilferty et al., 2023"]
+        },
+        {
+          "text": "The freshwater turtle project developed standardized monitoring protocols for Eastern Box and Spotted Turtles, conducted conservation genetics research, and completed regional status assessments.",
+          "location": "Chapter 4 - Actions.pdf",
+          "sub_component": null,
+          "citations": ["Northeast Eastern Box Turtle Working Group, 2021", "Spotted Turtle Working Group, 2019"]
+        }
+      ],
+      "absence_note": {},
+      "projects": ["Pollinator habitat management RCN project: managed over 740 acres across ten states, collected 81,000 records of bees and moths to assess effectiveness of habitat treatments; results directly informed best management practices for pollinators.", "Northeast freshwater turtle RCN project: developed standardized monitoring protocols, conservation genetics research, and regional status assessments for Eastern Box and Spotted Turtles; created conservation plans and road mortality mitigation strategies.", "New England Cottontail habitat restoration: over 4,000 records collected, habitat suitability tracked; provides evidence linking shrubland restoration to occupancy and population trends used in adaptive management."]
+    },
+    "adaptation_planning_frameworks": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "The Resist-Accept-Direct (RAD) framework offers a structured decision-making tool that enables managers to respond to ecological shifts by resisting them, accepting them as inevitable, or directing them toward desired future conditions",
+          "location": "Chapter 4 - Actions.pdf",
+          "sub_component": null,
+          "citations": ["Lynch et al., 2021", "Schuurman et al., 2022", "Thompson et al., 2021"]
+        },
+        {
+          "text": "The RAD framework, in conjunction with the Resistance-Resilience-Transformation (RRT) model, provides a structured approach to managing ecological uncertainty and aligning conservation efforts with long-term environmental trends",
+          "location": "Chapter 4 - Actions.pdf",
+          "sub_component": null,
+          "citations": ["Hemming et al., 2022"]
+        },
+        {
+          "text": "Incorporating the SMART framework into management projects and actions ensures transparency and accountability, and better allows for actions to work with adaptive management practices",
+          "location": "Chapter 4 - Actions.pdf",
+          "sub_component": null,
+          "citations": ["Aldridge and Colvin, 2024"]
+        }
+      ],
+      "absence_note": {}
+    }
+  },
+  "coding_meta": {
+    "coder": "llm:claude-sonnet-4-6",
+    "model": "claude-sonnet-4-6",
+    "provider": "claude",
+    "codebook_version": "0.4",
+    "ingest": "text",
+    "design": "single",
+    "temperature": null,
+    "thinking": null,
+    "thinking_effort": null,
+    "coded_at": "2026-07-06T18:39:20Z",
+    "notes": {}
+  }
+}

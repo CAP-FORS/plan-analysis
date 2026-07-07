@@ -1,0 +1,762 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">LOUISIANA 2020 FOREST ACTION PLAN</title>
+				<funder>
+					<orgName type="full">U.S. Department of the Interior [USDOI] U.S. Fish and Wildlife Service</orgName>
+				</funder>
+				<funder ref="#_xNNs3k4">
+					<orgName type="full">Louisiana Department of Agriculture and Forestry, Office of Forestry</orgName>
+				</funder>
+				<funder ref="#_sYUydw8">
+					<orgName type="full">U.S. Department of Agriculture [USDA] Forest Service</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">National Oceanic and Atmospheric Administration, National Integrated Drought Information System</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">U.S. Department of Commerce [USDC], U.S. Census Bureau</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">U.S. Department of Agriculture Forest Service</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2020-12">December 2020</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Rachel</forename><surname>Greene</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Louisiana Department of Agriculture and Forestry</orgName>
+								<orgName type="department" key="dep2">Department of Agriculture and Forestry LDWF Louisiana Department of Wildlife and Fisheries</orgName>
+								<orgName type="department" key="dep3">Department of Agriculture</orgName>
+								<orgName type="institution" key="instit1">CWPP Community Wildfire Protection Plan EPA Environmental Protection Agency FIA Forest Inventory and Analysis FLA Forest Legacy Area FLP Forest Legacy Program FPP Forest Productivity Program LDAF Louisiana</orgName>
+								<orgName type="institution" key="instit2">LFA Louisiana Forestry Association LSU Louisiana State University USDA United States</orgName>
+							</affiliation>
+						</author>
+						<title level="a" type="main">LOUISIANA 2020 FOREST ACTION PLAN</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published" when="2020-12">December 2020</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">AD1A160A9EF823151E5E7539AA106990</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.1" ident="GROBID" when="2026-07-06T21:32+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract/>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"> <ref type="figure">---------------------------------------------------------------------------------------</ref><p>Economic Impact -------------------------------------------------------------------------------------</p><p>Forests &amp; Water --------------------------------------------------------------------------------------Wildlife Habitat &amp; Recreation ---------------------------------------------------------------------</p><p>The 2010 Forest Resource Assessment and Strategy -------------------------------------------</p><p>The 2020 Forest Action Plan ----------------------------------------------------------------------- <ref type="figure">-------------------------------------------------------------------------</ref>Ecological Regions and Forest Ecosystems ------------------------------------------------------Southeastern Mixed Forest Province -----------------------------------------------------Outer Coastal Plain Mixed Forest Province ---------------------------------------------Lower Mississippi Riverine Forest Province --------------------------------------------EPA Ecoregions -----------------------------------------------------------------------------Forest Resource Conditions &amp; Trends -----------------------------------------------------------Forestland Area -----------------------------------------------------------------------------Forestland Distribution --------------------------------------------------------------------Forest Composition ------------------------------------------------------------------------Growth, Removals, &amp; Mortality ---------------------------------------------------------Characteristics of Private Forestland Ownership -----------------------------------------------Forestland in Family Forest Ownership------------------------------------------------- <ref type="figure">------------------------------------</ref>Threat 1: Lack of Active Management on Private Lands -------------------------------------Strategies ------------------------------------------------------------------------------------Threat 2: Challenges to Forest Health ------------------------------------------------------------Insects and Diseases -----------------------------------------------------------------------Invasive Species ----------------------------------------------------------------------------</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>FOREST RESOURCE ASSESSMENT -</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>SUSTAINING FOREST RESOURCES: THREATS AND STRATEGIES -</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>TABLE OF CONTENTS</head><p>The State of Louisiana hosts diverse forest ecosystems that provide important economic, ecological, and cultural services for its residents. Louisiana's forests occupy more than 13.2 million acres, most of which are forested wetlands or evergreen forest. Nearly 90% of forests and timberland are privately owned, and many large landowners rely on their forestland for income. Louisiana diversity of forest types provide a number of values, goods, and services to the public. Some of these benefits derived from forest resources have clear economic impacts-sawn pine logs for construction, paper manufacturing, hunting leases, and floodwater management. Other forestbased public services-improvements in air quality, viewsheds and aesthetic value, providing a sense of culture and place-are more difficult to assign a monetary value but are nonetheless valued by Louisiana's landowners and citizens.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Economic Impact</head><p>The forest products industry directly affects the Louisiana economy by providing jobs, wages, and tax payments, and stimulates other sectors of the economy by purchasing goods and services necessary for the production of forest products <ref type="bibr">(LSU AgCenter 2015)</ref>. Forest industry directly employs more than 19,000 workers, and its wood and paper manufacturing shipments alone are valued at $7.12 billion (American Forest and Paper Association 2018). The majority of workers directly employed in forest industry are concentrated in the 4 th and 5 th Congressional Districts, where local economies may be somewhat to moderately dependent on the forest product-based economy <ref type="bibr">(LSU AgCenter 2015)</ref>. Although demand for forest products has fluctuated, forest industry still accounts for a large segment of Louisiana's agricultural economy, currently contributing an annual $86 million in state and local taxes (American Forest and Paper Association 2018).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Forests &amp; Water</head><p>Forested riparian areas, floodplains, and wetlands act as expansive water filtration systems that regulate water quality and quantity. Forests are absolutely vital to providing clean public drinking water as they filter pollutants, moderate water availability, reduce the need of additional water treatments at utility facilities, and lower overall treatment costs. Watersheds that are stripped of forest cover and managed inappropriately are vulnerable to the emergence of new contaminants that are not currently tested or monitored, spikes in pollutant loads after storms and floods, and increased treatment and utility costs <ref type="bibr" target="#b2">(Barnes et al. 2009)</ref>. Because so much forestland along the Mississippi River has already been converted to non-forest use, and due to heavy use of fertilizers upstream in the Midwestern States, protecting and re-foresting wetlands is a critical step to securing clean water for Louisiana's public utilities and fisheries.</p><p>In addition to providing clean drinking water, marshes and forested wetlands also provide a</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>INTRODUCTION</head><p>natural defense against storm surge and flooding during tropical and extreme weather events. Hurricanes and tropical storms are near-annual occurrences, and the combination of an extensive coastline and vast low-lying areas make Louisiana vulnerable to flooding. The United States' wetlands are quickly disappearing due to habitat alteration and destruction as well as natural erosion processes.</p><p>Louisiana's wetlands represent 40% of all wetlands in the continental U.S., but approximately 80% of wetland losses have occurred in Louisiana <ref type="bibr">(Williams n.d.)</ref>. Louisiana coastal wetlands recede at a rate of 75 square kilometers annually-a staggering loss that impacts recreational and agricultural use as well as the State's billion-dollar seafood industry. Stabilizing wetlands has proven costly in many cases, but protection efforts, mitigation banks, and plantings are steadily making progress, at least in the case of forested wetlands. The floodplain of the Atchafalaya River hosts the best examples of forested wetlands in the State and the largest remaining floodplain swamp in the continental U.S.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Wildlife Habitat &amp; Recreation</head><p>Louisiana's forests and forested wetlands are highly valued for recreational opportunities and wildlife habitat. According to the 2016 National Survey of Fishing, Hunting, and Wildlife-Associated Recreation, the West South Central region of the U.S., which includes Louisiana, has a 17% fishing participation rate (national rate=14%), 5% hunting participation rate (national rate=4%), and 26% wildlife-watching participation rate (national rate=32%; USDOI &amp; USDC 2018). Louisiana's segment of the Mississippi Flyway is one of the most consistently hunted regions in the country. Each year, more than 325 bird species journey between northern breeding grounds to southern wintering grounds via the Mississippi Flyway, and Louisiana's forested wetlands play a key role in providing habitat that benefit birds and waterfowl hunters alike.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>The 2010 Forest Resource Assessment &amp; Strategy</head><p>The 2008 Farm Bill amended the Cooperative Forestry Assistance Act of 1978 directing States to develop a long-term Statewide Assessment and Strategy for Forest Resources. The purpose was to determine the status of the forest resource through an assessment-what's there, who owns it, what are its threats, and how can federal funds help to manage it. Strategies would then need to be developed to address issues raised from the assessment. The completion of the assessment and accompanying strategies enables States to be eligible to apply and compete for federal funds through annual grant cycles.</p><p>The Louisiana Department of Agriculture and Forestry (LDAF), in cooperation with the National Association of State Foresters, led the effort to complete the assessment and prepare the strategies for Louisiana. The goal of the 2010 effort was to describe the history of forestry and its role in shaping the state, identify external threats to healthy trees (e.g., insects and disease), and address issues related to maintaining forest as a land cover and use (e.g., urbanization).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Louisiana published its first Statewide Assessment and Strategy for Forest</head><p>Resources in July 2010.</p><p>The 2010</p><p>Assessment discussed several forestryrelated issues: wildfire protection, insects and disease, invasive species, urban sprawl, longleaf pine regeneration, cypress-tupelo management, extreme weather events, and hardwood regeneration.</p><p>The 2010 Assessment also evaluated the State's potential for a biomass industry; however, corporate interest in supporting a biomass market has waned.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>The 2020 Forest Action Plan</head><p>Ten years after the publication of states' first forest resource assessment and strategy, States were once again tasked with evaluating the conditions, sustainability, and threats to their forest resources. An updated assessment and strategy, commonly referred to as a Forest Action Plan, evaluates how forest resource conditions and threats have changed in the last decade and what strategies are most likely to support the economic, ecological, and cultural function of forests for the next decade. Louisiana's 2020 forest resource assessment provides a comprehensive analysis of the forest-related conditions, trends, threats, and opportunities within the state using a combination of qualitative, quantitative, and geospatial data.</p><p>Louisiana's forest resource strategy follows the assessment by providing a plan for investing state, federal, and partner resources to address the management and landscape priorities identified in the assessment. It incorporates existing statewide forest resource management plans, and provides the basis for future program, agency, and partner coordination.</p><p>The dominant threats identified in the assessment fall into three broad categories: For each threat, strategies are identified that can prevent further damage, mitigate current impacts, adapt to changing conditions, and enable landowners to take action as appropriate. Strategies also include the necessary resources the State Forester needs to successfully address threats and implement strategies. These strategies, when utilized in cooperation with our partners, will help to conserve working forest landscapes, protect forests from existing and emerging threats, and enhance public benefits from forests.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>ECOLOGICAL REGIONS AND FOREST ECOSYSTEMS</head><p>Three major terrestrial ecological subregions, or provinces, occur across Louisiana, as described by <ref type="bibr">McNab et al. (2007)</ref> and <ref type="bibr">USDA Forest Service: Southeastern Mixed Forest,</ref><ref type="bibr">Outer Coastal Plain Mixed Forest,</ref><ref type="bibr">and Lower Mississippi Riverine Forest (Figure 1)</ref>.  </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Southeastern Mixed Forest</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>FOREST RESOURCE ASSESSMENT</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Outer Coastal Plain Mixed Forest Province (Subregion 232)</head><p>Dominant forest types include longleaf-slash pine (P. palustris-P. elliotti), loblollyshortleaf pine, and oak-hickory cover types with oak-gum-cypress occurring along rivers. Large portions of this province have poorly draining soils, and large, shallow depressions are common. Hurricanes are a frequent disturbance.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Lower Mississippi Riverine Forest Province (Subregion 234)</head><p>Three sections occur in the Lower Mississippi Riverine Forest Province in Louisiana: Southern Mississippi Alluvial Plain, Atchafalaya and Red River Alluvial Plains, and Arkansas Alluvial Plains. Periodic flooding of the Mississippi River and other waterways shaped the ecology of this province.</p><p>Within Louisiana, this ecoregion encompasses all lands in the historic Mississippi River floodplain. Bottomland hardwood forests and cypress swamps, also referred to as forested wetlands, are the dominant natural plant communities in this region. Over the past two centuries, the extent of bottomland hardwood forests in the region has declined from 24 million acres to 4.9 million acres. In addition to the sheer loss of bottomland hardwoods, this once unbroken forest has since been divided into more than 40,000 distinct patches scattered throughout the floodplain, reducing the forests' capacity to regulate floodwaters, sedimentation, and runoff; filtrate and purify drinking water; and provide high-quality aquatic and riparian wildlife habitat. The high degree of forest fragmentation in the Mississippi Alluvial Plain has had dramatic effects on wildlife especially to Louisiana black bear (Ursus americanus lutelous), freshwater mussels, and more than 70 species of neotropical migrant songbirds. Although land cover was once dominated by mesophytic hardwoods, much of this province has been converted to agricultural land use. Fragmented natural vegetation consists of oak-gum-cypress, longleaf-slash pine, loblolly-shortleaf pine, oak-hickory, oak-pine, and prairie. The Lower Mississippi Riverine Forest Province approximates the Environmental Protection Agency's Level III Ecoregion of Mississippi Alluvial Plain (Figure <ref type="figure" target="#fig_3">2</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>EPA Ecoregions</head><p>The U.S. Environmental Protection Agency (EPA) has established ecoregions in a nested, hierarchical schematic that includes four levels, Level I being the coarsest and Level IV being the finest subdivision <ref type="bibr" target="#b4">(Bryce et al. 1999</ref><ref type="bibr">, U.S. Environmental Protection Agency 2005)</ref>. The EPA's approach to identifying ecoregions lies in the analysis of patterns of geology, physiography, vegetation, climate, soils, land use, wildlife, and hydrology. The continental U.S. contains 104 Level III ecoregions, six of which occur in Louisiana (Figure <ref type="figure" target="#fig_3">2</ref>). </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>FOREST RESOURCE CONDITIONS AND TRENDS</head><p>Most of the information for this section is summarized from data collected through the Forest Inventory and Analysis (FIA) Program of the USDA Forest Service. Through data collection on permanently established field plots, FIA reports on status and trends in forest area and location, in the species, size, and health of trees; in tree growth, mortality, and removals by harvest; in wood production and utilization rates by various products; and in forestland ownership. Geospatial data from the National Land Cover Database 2016 <ref type="bibr" target="#b20">(Yang et al. 2018)</ref> was used alongside USDA Forest Service's Forest Inventory and Analysis Program using static reports loaded in the online Design and Analysis Toolkit for <ref type="bibr">Inventory and Monitoring (FIA 2019)</ref>, Timber Products Output (USDA Forest Service 2012), and National Woodland Owner Survey <ref type="bibr" target="#b5">(Butler et al. 2016</ref><ref type="bibr" target="#b6">, Butler et al. 2020</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Summary of Forest Resource Conditions and Trends</head><p>• Forests occupy more than 13 million acres, or 44% of the state. On-the-ground estimates of forestland area from FIA indicate that forests have slightly expanded since the 2010 Louisiana Statewide Forest Resource Assessment and Strategy.</p><p>• The most heavily forested areas of Louisiana are the South Central Plains in northwestern Louisiana and Western Gulf Coastal Plain. The distribution of forest has remained relatively constant in the last decade.</p><p>• The most common forest type in Louisiana is loblolly-shortleaf pine followed by oakgum-cypress. Oak-gum-cypress and elm-ash-cottonwood forest types have expanded slightly since 2005.</p><p>• Annual timber removals have fallen each year from 2009 to present, resulting in a 21% decline in removals over the last decade. Concurrently, growth-to-drain ratios have increased slightly to 1.5.</p><p>• Average annual mortality has held constant over the last decade, but localized outbreaks of southern pine beetle continue to impact forest health and wildland fire fuel loading at smaller scales.</p><p>• Forestland and timberland have remained overwhelmingly in private ownership (87% and 88%, respectively). Nearly half of forestland is held by private corporate entities.</p><p>• Only 8 percent of landowners, affecting 25 percent of family forestland, have a forest management plan.</p><p>• The top concerns of family forest owners were trespassing and poaching followed by misuse of wooded land, keeping land intact, wildfire, and high property taxes.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Forestland Area</head><p>Louisiana's forests cover an estimated 13.26 million acres or 44 percent of the state (Table <ref type="table" target="#tab_1">1</ref>, Figure <ref type="figure" target="#fig_4">3</ref>) based on the most recent satellite imagery analysis from the National Land Cover Database <ref type="bibr" target="#b20">(Yang et al. 2018</ref>  </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Forest Distribution</head><p>The South Central Plains in northwestern Louisiana and Western Gulf Coastal Plain contain the most forested areas within the state. Of 64 Louisiana parishes, 22 are estimated to be &gt; 50 percent forested with Winn Parish having the greatest forest cover at 71 percent (Figure <ref type="figure" target="#fig_5">4</ref>). Nineteen parishes are 25 to 50 percent forested. Twenty-three parishes are estimated to be &lt; 25 percent forested and are mostly located in the Mississippi Alluvial Plain, where agricultural land use is dominant, and the Western Gulf Coastal Plain and coastline, characterized by complexes of emergent herbaceous wetlands. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Forest Composition</head><p>Forest types are used to describe assemblages of trees that occur on the landscape. The most common forest type in Louisiana is loblolly-shortleaf pine followed by oak-gum-cypress, occupying 5.3 million and 4 million acres, respectively (Figure <ref type="figure" target="#fig_6">5</ref>; FIA 2019). The longleaf-slash pine forest type has substantial presence in southwestern Louisiana between the Sabine River and Interstate-49. Additional pockets of longleaf-slash pine are present in the West Gulf Coastal Plain where gopher tortoise (Gopherus polyphemus) is a federally threatened species being managed by LDWF with prescribed fire and heightened landowner engagement <ref type="bibr" target="#b9">(Holcomb et al. 2015)</ref>. Oak-hickory, elmash-cottonwood (Ulmus-Fraxinus-Populus spp.), and oak-pine forest types are also common. The most significant changes in forest types since 2005 have been increases in oak-gum-cypress, elm-ash-cottonwood, and loblolly-shortleaf pine forest types concurrent with a decline in the oak-hickory forest type (Figure <ref type="figure" target="#fig_7">6</ref>). These changes are most likely due to plantings associated with mitigation banks and the Conservation Reserve Program.     <ref type="bibr" target="#b5">(Butler et al. 2016</ref><ref type="bibr" target="#b6">, Butler et al. 2020</ref>) suggest that about 87 percent of forestland and 88 percent of timberland in Louisiana are in private land holdings (families, partnerships, and forest industry). Nearly 49 percent of forestland is owned by corporate entities while families and individuals own 37 percent <ref type="bibr" target="#b5">(Butler et al. 2016)</ref>. Public lands account for 13 percent of forested area with 4 percent being managed by the U.S. Forest Service as National Forest and 9 percent held by state, local, and other federal agencies <ref type="bibr">(FIA 2019)</ref>. The following sections discuss privately owned forestland held in corporate and family forest ownerships, and is limited in scope to land holdings of at least 10 acres in size. Less than one percent of forestland in family forest ownership is in tract sizes of less than 10 acres <ref type="bibr" target="#b6">(Butler et al. 2020)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Forestland in Family Forest Ownership</head><p>More than 48,000 family forest ownerships (individuals, family LLCs, trusts and estates) hold an estimated 5,178,000 acres in tracts of at least 10 acres <ref type="bibr" target="#b6">(Butler et al. 2020)</ref>. The size of forest and woodland holdings is unevenly distributed. Of landowners with at least 10 acres, 59 percent hold less than 50 acres, making up 12 percent of forestland. Fortyone percent of land holdings are at least 500 acres and held by only three percent of family forest landowners (Figure <ref type="figure" target="#fig_9">8</ref>).  </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Percentage of Acres and Ownerships</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Size of Forest Holdings in Acres</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Acres Ownerships</head><p>The majority (51%) of landowners indicated that their forestland was acquired through inheritance, albeit some "inherited" land is purchased at a steep discount or from other heirs, and inheritance accounted for 71 percent of family-owned forestland area. Seventy-eight percent of landowners have owned their forestland for 10 to 49 years. Nineteen percent of landowners have acquired their property in the last 10 years. Louisiana's family forest owners are aging (Figure <ref type="figure">9</ref>), and issues related to land transfers, parcelization, and fragmentation are expected to increase in the next decade.</p><p>Only 8 percent of landowners, affecting 25 percent of family forestland, have a forest management plan. Of ownerships with forestland under a management plan, 53 percent claimed that they were "not at all familiar" with their plan <ref type="bibr" target="#b6">(Butler et al. 2020)</ref>.</p><p>When seeking land management advice, landowners used consulting foresters more than all other sources (e.g., state, extension, family, other landowners) of information combined.</p><p>Forty-seven percent of landowners indicated that timber had been harvested during their land tenure. Timber management, followed by land transfer, insects and diseases, and wildlife, was the most commonly selected topic for landowner assistance (Figure <ref type="figure">10</ref>). Nine percent of landowners indicated their use of property tax programs, seven percent have used conservation easements, and five percent have used cost-share programs. Thirty-seven percent of landowners, affecting 56 percent of family-owned forestland, have used leases to provide supplemental income with hunting leases being the most popular choice in terms of number of landowners and number of acres. When asked about their preferred assistance programs and policies, the most commonly selected answers were stronger timber markets and more favorable tax policies followed by cost-share programs.  <ref type="bibr" target="#b6">(Butler et al. 2020</ref>).</p><p>concern about trespassing and poaching followed by misuse of wooded land, keeping land intact, wildfire, high property taxes, insects and diseases, water pollution, and government regulation <ref type="bibr" target="#b6">(Butler et al. 2020</ref>).</p><p>Figure <ref type="figure">10</ref>. Percentage of family forest owners that were interested in a range of landowner assistance topics <ref type="bibr" target="#b6">(Butler et al. 2020</ref>). The 2020 Forest Action Plan identifies three primary threats to Louisiana's forest resource:</p><p>1. Lack of active management on private lands, 2. Challenges to forest health, and 3. Challenges facing wildland fire management.</p><p>These threats are decades in the making and deeply intertwined. For example, lack of sound forest management on private lands has led to a buildup of fuels that can increase the risk of wildfires more severe than the historic fire regime to which Louisiana's forests are adapted. Furthermore, unmanaged forests, especially closely spaced plantings, result in conditions more conducive to the spread of many forest insects and diseases including southern pine beetle. The following sections discuss the three primary threats to sustaining healthy forest resources and strategies for dealing with these ongoing challenges. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>THREAT 1: LACK OF ACTIVE MANAGEMENT ON PRIVATE LANDS</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>MARKETING AND SELLING TIMBER</head><p>• Be aware of current market conditions. Make decisions based on today's markets, not what conditions were when trees were planted.</p><p>• Moderate expectations regarding bids and logging outfits. Competing offers are no longer common. Most logging outfits have a long list of properties to harvest and will prioritize based on mill demands, weather, and access.</p><p>• Maintain clear access to your property for log trucks.</p><p>• Clearly mark property boundaries.</p><p>• Install firebreaks and use prescribed burns to reduce competing vegetation and make the property more attractive to loggers.</p><p>• Use cost-share programs for site preparation, planting, and vegetation control.</p><p>• </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Insects and Diseases</head><p>Louisiana has many threats to its pine and hardwood forests from both native and exotic invasive insects. Highways and waterways are potential pathways for pest introduction. Southern pine beetle is currently the single greatest forest health threat to Louisiana's forest industry.</p><p>LDAF conducts scheduled aerial monitoring surveys to detect outbreaks as early as possible and to reduce their potential to spread. LDAF informs landowners of infestations and offers technical assistance for any necessary harvesting or treatment. LDAF frequently assists urban, suburban, and rural landowners with small-scale inspections.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Emerald Ash Borer (EAB)</head><p>The emerald ash borer (EAB; Agrilus planipennis; Figure <ref type="figure" target="#fig_3">12</ref>) is an invasive, wood-boring beetle that was first detected in southeast Michigan in 2002. In the ensuing years, EAB has killed 99 percent of ash trees greater than 1 inch in diameter at the site of its original introduction. All species of the North American ash genus are susceptible. Infested trees die in two to four years. Adult beetles move short distances during flight. The major mode of spread is transport of infested firewood, tree limbs, and untreated lumber and bark.</p><p>Louisiana's major ash species, green ash (Fraxinus pennsylvanica) and white ash (F. americana), are susceptible to EAB. This insect made its appearance in southern Arkansas in 2014, and was discovered in </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Forest Tent Caterpillar (FTC) and Bald Cypress Leaf-roller (BCLR)</head><p>The defoliation of water tupelo (Nyssa aquatica) trees by FTC (Malacosoma disstria) is a recurring problem in and around the Atchafalaya Basin, near Lake Maurepas, and along the Pearl River.</p><p>During the 2019 aerial detection surveys, more than 165,000 acres were recorded as defoliated by FTC (Figure <ref type="figure" target="#fig_12">13</ref>). Outbreaks of the regular population cycles of FTC are extremely difficult to manipulate or control. Some loss of tree growth is experienced, but often no action is taken to treat the infestation due to the vastness of the areas affected, access issues in swamps, and costprohibitive treatments. Normally, the foliage recovers quickly after the outbreak, which is restricted to one generation per year. In close association to FTC is the bald cypress leaf-roller (BCLR; Archips goyerana) both in timing and locations of outbreaks. During the 2019 aerial detection surveys, more than 117,000 acres were recorded as defoliated by BCLR (Figure <ref type="figure" target="#fig_12">13</ref>). BCLR is allowed to take its course for much the same reasons as FTC.</p><p>Currently, LDAF primarily uses Digital Aerial SketchMapping (DASM) to identify outbreaks of FTC and BCLR. This method consists of identifying features on the ground from an aircraft and recording features on map. DASM remains the preferred method for identifying pest outbreaks due to its reliability and relatively low cost (Schrader-Patton n.d.  </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Redbay Ambrosia Beetle and Laurel Wilt</head><p>Redbay ambrosia beetles (Xyleborus glabratus) carry fungi that serve as a food source for adults and larvae living under the bark of host trees and shrubs. While most species of fungi are harmless to the tree, the Raffaelea lauricola fungus (Figure <ref type="figure" target="#fig_13">14</ref>) causes laurel wilt, which has swiftly decimated laurel trees in nine states since laurel wilt's identification in 2004.</p><p>According to Forest Inventory and Analysis data, as many as 300 million redbay (Persea borbonia) trees have already died, and many other trees in the laurel family, including sassafras (Sassafras albidum) are susceptible.</p><p>Laurel wilt spread rapidly through coastal plain forests of the southern U.S. In 2014, laurel wilt was discovered on sassafras trees in northern Louisiana, the first record of the disease west of the Mississippi River and outside the known range of R. lauricola's primary host, the redbay <ref type="bibr" target="#b8">(Fraedrich et al. 2015)</ref>. Research is ongoing to better understand how laurel wilt spreads and explore mitigation option     • Fusiform rust: In early spring, the fungus (Cronartiium quercuum) forms bright orange fruiting bodies, releasing spores that infest loblolly and slash pine trees (Figure <ref type="figure" target="#fig_17">17</ref>). Longleaf pine has a natural resistance.</p><p>Fusiform-resistant loblolly pine genotypes have been developed, but do not eliminate susceptibility completely. Burning and sanitation thinning is often recommended to reduce the risk of fusiform rust spread.</p><p>• Hypoxylon canker: A very common fungus (Entoleuca mammatum) on oaks stressed by root damage, wounds, and soil compaction. In an urban setting, hypoxylon canker is most prevalent around oaks that have been damaged during construction and road paving activities. Removal of the tree is often necessary.</p><p>• Needle casts and pine needle rust:</p><p>The various fungi that make up needle casts become more prevalent on the foliage of pines during wet, cool springs. Needles appear scorched as they die and turn brown. Pine needle rust is a fungus that develops unsightly, dense fruiting bodies. No practical control for either fungal disease is available. High- value Christmas trees may benefit from the use of fungicides or herbicides to remove any nearby alternative hosts.</p><p>• Annosus root rot: A fungus (Heterobasidion irregulare) that infests loblolly and slash pine through wound openings and roots grafts. Signs of disease include conks near the base of pines. Once the majority of a pine stand is infected, LDAF recommends a clearcut. When thinning an uninfected stand, sprinkling borax on stumps is an effective means of preventing the fungus' establishment.</p><p>Biocide Phlebia gigantean, containing an antagonistic fungus, should be used on stump surfaces of infected stands.</p><p>• Red heart: Echinodontium tinctorium usually develops in the xylem of older pines, causing decay and structural weakening of the tree (Figure <ref type="figure" target="#fig_18">18</ref>). Large, dark fruiting bodies may be the only visible indication of red heart.</p><p>When adjacent to houses and other valuable structures, it is recommended that a licensed arborist safely remove the tree. Rotted openings within tree stems may serve as housing for cavity-nesting birds such as redcockaded woodpecker (Dryobates borealis). </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Invasive Species</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Cogongrass</head><p>Cogongrass (Imperata cylindrica) is a warmseason, perennial grass originating from Asia.</p><p>Cogongrass is a federally-listed noxious weed and is widely considered the worst invasive species threat in the southern U.S. Since its multiple introductions in the early 20 th century, cogongrass has infested 1.2 million acres in the southeastern U.S., and annual spread rates are estimated in the thousands of acres <ref type="bibr" target="#b14">(Prince et al. 2018</ref>; Figure <ref type="figure" target="#fig_19">19</ref>). In Louisiana, cogongrass' distribution is concentrated in the Florida Parishes, between Baton Rouge and New Orleans, and in the Flatwoods Terrace <ref type="bibr" target="#b10">(Kartesz 2015)</ref>. Due to its ability to spread by seed and rhizomes, tolerance of shade, and resistance to drought, cogongrass aggressively spreads through pasture, grasslands, and rights-of-way and penetrates interior forests. Although cogongrass will not tolerate continued soil disturbance, it is a rapid colonizer of recently disturbed soil, often inhabiting road construction sites, industrial lands, and mechanically site-prepared timberland. Cogongrass is fire-adapated; it thrives in places where fire is a regular occurrence. In contrast to the frequent, low-intensity fires that characterize southern pine systems, fires fueled by cogongrass burn with higher heat intensity, spread quickly, and often result in higher tree mortality.  </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RECOMMENDATIONS FOR COGONGRASS</head><p>• Diligently clean equipment and machinery after use. Cogongrass seeds can cling to mowing, logging, and landscaping equipment, hitching a ride from an infested site to an uninfested site. Even equipment that looks clean can transport cogongrass seeds hundreds of miles.</p><p>• Take immediate action when new cogongrass plants are discovered. Cogongrass is notoriously difficult to remove once it becomes established. Removing cogongrass as soon as it is discovered is the best chance of success.</p><p>• When conducting a prescribed burn, survey the area for cogongrass plants that could colonize the newly burned site. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Chinese Privet</head><p>Chinese privet (Ligustrum sinense) was introduced to the U.S. in 1852 as an ornamental shrub. It is still commonly used in landscaping for ornamentation and hedgerows. Chinese privet has become so common in the southern U.S. that it is naturalized, meaning that its reproduction is sufficient to maintain its population without human aid. Chinese privet occurs in every parish of Louisiana.</p><p>Chinese privet is a semi-evergreen shrub or small tree that can grow to 20 feet. As a shrub, Chinese privet can form dense thickets, particularly along riparian edges and fence rows, that shade out and exclude understory plant species and may reduce tree recruitment (Figure <ref type="figure" target="#fig_3">20</ref>). Although Chinese privet prefers mesic soils, it is tolerant of some drier sites and a wide range of sunlight conditions.</p><p>Chinese privet produces abundant spherical fruits that persist through winter, supplying a consistent forage resource to birds and other wildlife. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RECOMMENDATIONS FOR CHINESE PRIVET</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Chinese Tallow Tree</head><p>Chinese tallow tree (Triadica sebifera; Figure <ref type="figure" target="#fig_20">21</ref>), also known as popcorn tree, is a pervasive invader of mesic and wet forests and grasslands and readily dominates disturbed vacant lots and abandoned agricultural land <ref type="bibr" target="#b7">(Evans et al. 2006)</ref>. Chinese tallow tree has tremendous reproductive potential due to early and long-lasting reproductive maturity, abundant annual seed production, and ability to resprout from stumps and roots. Once established, Chinese tallow tree is nearly impossible to remove. Seeds are dispersed by birds and by water, enabling colonization of undisturbed fields, forests, and riparian areas. Chinese tallow tree can be found in every Louisiana parish. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RECOMMENDATIONS FOR CHINESE TALLOW TREE</head><p>• Manual &amp; mechanical removal: Trees less than 3 feet tall may be removed by hand. Large trees can be felled, fruit removed from the area, and herbicide applied to stumps to discourage resprouting.</p><p>• Prescribed fire is often effective in removal on drier sites, pasture, and rangeland. If trees are not completely killed, then an additional burn, manual removal, and/or herbicide application is necessary to remove resprouting stems from roots.</p><p>• Herbicide applications as sprays and cut-surface treatments can be effective, but care must be taken to avoid non-target species. Refer to <ref type="bibr" target="#b7">Evans et al. 2006</ref> and Urbatsch 2000 for further guidance. The USDA considers Chinese tallow tree a large-scale ecosystem modifier (Urbatsch 2000) and Louisiana Department of Wildlife and Fisheries (LDWF) lists it as a Tier 1 invasive species <ref type="bibr" target="#b9">(Holcomb et al. 2015)</ref>. The 2015 Louisiana State Wildlife Action Plan identifies Chinese tallow tree as a threat because it replaces native vegetation, reduces native species diversity, and negatively affects wildlife, particularly resident birds and neotropical migrants inhabiting coastal prairie <ref type="bibr" target="#b3">(Bruce et al. 1995</ref><ref type="bibr" target="#b15">, Randall and Marinelli 1996</ref><ref type="bibr" target="#b9">, Holcomb et al. 2015)</ref>. However, tallow tree flowers are favored by honeybees, and its fruits are considered a desirable food source for birds (Urbatsch 2000).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Tungoil Tree</head><p>Tungoil tree (Vernicia fordii) is a small, deciduous tree native to China where it is cultivated for its milky white sap for use in lacquer, varnish, and polish. Tungoil tree grows best in full sun but can tolerate shade as an understory plant. This species is most often found along forest edges, in rights-ofway, and in urban green spaces. Its range is currently restricted to southern states along the Gulf of Mexico due to an intolerance of cold climates. In Louisiana, tungoil tree is most prevalent in the Florida Parishes.</p><p>Tungoil tree can grow to more than 60 feet tall. This species is readily identified by its heart-shaped or three-lobed leaves and the presence of two red glands located on the petiole (leaf stalk) near the leaf blade. Tungoil tree produces abundant clusters of white flowers with pink centers (Figure <ref type="figure" target="#fig_21">22</ref>). All parts of this plant are toxic, especially the fruits and seeds. Furthermore, Forest Productivity Program funds can be used after trees are established to remove invasive species such as Chinese tallow tree, privet, and yaupon that routinely compete with crop trees. LDAF will leverage the Forest Productivity Program (FPP) to provide financial assistance to eligible landowners for invasive pest management during site preparation and establishment of tree crops. Cost-share payments cover 75% of the total cost of implementing one or more approved forestry practices, not to exceed a maximum limit set for each individual practice. The FPP addresses invasive species twofold: by giving LDAF a platform with which to engage and educate landowners, and by directly funding invasive pest management. LDAF will target primarily Chinese tallow tree, Chinese privet, cogongrass, tungoil, and yaupon with FPP funds. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Cogongrass Treatment</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Strategy 1: Reduce Impacts of Insects, Disease, &amp; Invasives on Private Forestlands</head><p>Forest Service, Louisiana Department of Transportation and Development, Parish Forestry Associations, LSU AgCenter, Baton Rouge Green, and Louisiana National Guard.</p><p>Forest health monitoring efforts are key to early detection and treatment of insects, diseases, and invasive species. The Office of Forestry will continue aerial detection and trapping efforts for bald cypress leaf-roller, emerald ash borer, forest tent caterpillar, gypsy moth, redbay ambrosia beetle, and southern pine beetle. LDAF uses ground check crews to verify results from aerial monitoring, especially for SPB. Ground crews are responsible for verifying the causal agent of defoliation, confirming or correcting the geographical location identified by the aerial observer, determine the potential of additional timber loses, identify the direction of expansion, establish a priority for treatment, identify the landowner, and mark a buffer strip in the case of cut-and-remove and cut-and-leave treatment options.</p><p>Currently, LDAF is exploring the expansion of forest health monitoring with USDA Forest Service through the Good Neighbor Authority in Shared Stewardship. LDAF will notify Slow the Spread Program, an integrated pest management strategy funded by USDA, of emerging trends in gypsy moth activity to advance rangewide monitoring and mitigation efforts.</p><p>LDAF will continue educating landowners and the logging community about the need to clean equipment after logging jobs and address invasive species immediately. Management and eradication of invasive species has a much higher rate of success when action is taken immediately and before the invasive pest becomes firmly established. The LSU AgCenter's Forestry Forums will play a key role in delivering this message.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Strategy 2: Monitor Insect and Disease Outbreaks Strategy 3: Educate Landowners &amp; Loggers about Cleaning Equipment</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>THREAT 3: CHALLENGES FACING WILDLAND FIRE MANAGEMENT</head><p>The original role of the Louisiana Department of Agriculture and Forestry-Office of Forestry, formerly the Louisiana Forestry Commission, was to provide forest fire detection and suppression. The Office of Forestry is mandated "to protect, conserve, and replenish the natural resources of the state" with the Protection Branch specifically tasked "to protect the citizens, infrastructure and woodlands of the state from destructive wildfires" (Revised Statute 3.4271). As the average cost of fire suppression services increases, providing and maintaining personnel and equipment necessary for forest fire protection strain the Office of Forestry's budget, motivating the agency to find supplemental sources of funding through federal grant and assistance programs. The historic trends, issues, and strategies presented in this section address the legislative mandate and set the agenda for delivering effective wildfire protection and restoring a healthy, fire-adapted landscape in Louisiana.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>SUSTAINING FOREST RESOURCES:</head><p>THREATS &amp; STRATEGIES </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Ecological Importance of Fire</head><p>Louisiana's pine-dominated savannas, woodlands, and forests are notoriously welladapted to frequent fire.</p><p>Historically, longleaf pine ecosystems burned every 6 months to 5 years; slash pine, shortleaf pine, and pine-oak woodlands burned on a slightly longer fire return interval. These frequent fires can be characterized as low-intensity and low-severity, rarely resulting in mortality of healthy trees, and served to prevent buildup of combustible fuels that facilitate high-intensity, stand-replacing fires.</p><p>Due to past nationwide fire suppression efforts, land fragmentation and parcelization, smoke management concerns, liability laws, and need for prescribed fire practitioners, the fire ecology of Louisiana has changed. Few places in Louisiana are managed in congruence with Louisiana's past fire ecology, and much of the state is no longer managed with fire. As a result, pinedominated ecosystems have shifted from open-canopied woodlands to denser pine stands with midstory hardwood encroachment. Fuels on the forest floor have accumulated, and midstory shrubs and small trees act as ladders for fire to spread to tree crowns in the overstory. Today's wildfires are typically outside the ecological norm, having higher intensity, severity, and tree mortality than fires of centuries past. These wildfires are also more difficult and costly to suppress, occur at closer proximity to critical infrastructure and homes, and pose a threat to life, property, and timber resources. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Forest Protection Division: Detection, Suppression, &amp; Prevention</head><p>The primary objectives of the Forest Protection Division are the detection, suppression, and prevention of wildfires on 18.9 million acres statewide. Louisiana's wildfire occurrence is high by regional and national standards. Without the effort and dedication of Office of Forestry personnel, the loss from wildfire could be catastrophic.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Detection</head><p>Fires are detected by fixed-wing aircraft and reported by the public. Agency personnel inspect and maintain all aircraft within strict Federal Aviation Administration standards. Agency personnel maintain a statewide radio system of mobile, base, and hand-held equipment which provides constant and instant communications, not only in forest fire detection but in civil defense communications as needed.</p><p>In the mid-1950s, a fire-weather forecasting program begun with the cooperation of the U.S. Weather Bureau. Daily weather reports are relayed to the districts so that fire crews can be alert to current fire dangers. Smoke management guidelines and forecasts are issued by the Protection Branch to protect air quality and aid with forest prescribed burning programs throughout the state.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Suppression</head><p>The Office of Forestry Forest Protection Branch currently involves more than 100 wildland firefighters equipped with trucks, tractor-plows, and two-way radios. These trained professional crews are employed year-round.</p><p>The Forest Protection Branch annually conducts training programs for the agency's fire crews, stressing safe and effective firefighting techniques. The agency also has the cooperation of the USDA Forest Service, whose crews may support the Office of Forestry's fire suppression crews during extreme fire conditions.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Prevention</head><p>The Office of Forestry has issued guidelines for homeowners, prescribed fire practitioners, and natural resource managers to prevent wildfire ignition.</p><p>For homeowners, guidelines focus on safe disposal and burning of debris, creating a low-fuel and defensible space around the home, and using proper spark arrestors with machinery. The Certified Prescribed Burn Program instructs landowners and professionals on proper preparedness, ignition, and management of a planned burn in accordance with smoke management guidelines.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Recent Trends</head><p>Louisiana experiences approximately 5,000 wildfires per year. Approximately 34 percent are suppressed by Office of Forestry wildland firefighting personnel, and the remaining, particularly small (&lt;1 acre) fires, are suppressed by local fire departments. Risk of ignition is particularly high in the Florida Parishes and in the Flatwoods Terrace of inland southwestern Louisiana (Figure <ref type="figure" target="#fig_25">23</ref>), and ten-year averages of fire occurrence is highest in these two areas (Figure <ref type="figure" target="#fig_26">24</ref>). Northwestern Louisiana displays a consistent, moderately-high ignition risk and realized fire occurrence, albeit to a lesser degree compared to the Florida Parishes and Flatwoods Terrace. These fire patterns are congruous with the longleaf pine historic range in southern Louisiana and shortleaf pine-oak woodlands of northern and central Louisiana.   Fire occurrence and total acres burned in a fire seasons is correlated with drought conditions. History of drought conditions in Louisiana, obtained from U.S. Drought Monitor, demonstrate spikes in the state's area in Moderate, Severe, Extreme, and Exceptional drought conditions for years <ref type="bibr">2000</ref><ref type="bibr">-2001</ref><ref type="bibr">, 2005</ref><ref type="bibr">-2007</ref><ref type="bibr" target="#b11">, and 2010</ref><ref type="bibr">-2012 (Figure 26) (Figure 26)</ref>. Correspondingly, periods of high fire activity occurred in <ref type="bibr">1998</ref><ref type="bibr">-2000</ref><ref type="bibr">, 2005</ref><ref type="bibr" target="#b7">-2006</ref><ref type="bibr" target="#b11">, and 2010</ref><ref type="bibr">-2012 (Figure 25) (Figure 25)</ref>. According to the U.S. Drought Monitor, the longest duration of drought in Louisiana since 2000 lasted 107 weeks beginning on April 20, 2010 and ending on May 1, 2012. The most intense week of drought occurred during June when 65% of Louisiana was in the highest drought category (D4). During the 2010-2012 drought, the number of annual reported fires and acres burned doubled from previous years.</p><p>Monitoring drought conditions is part of situational awareness for wildland fire management in the Office of Forestry's Division of Forest Protection. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Smoke Management</head><p>Smoke management has been and will continue to be an important issue. LDAF has worked with several government agencies (e.g., LDWF) and citizen-driven groups (e.g., Louisiana Prescribed Fire Council) to promote prescribed burning and proper smoke management.</p><p>Prescribed fire is an indispensable and common management tool due to its effectiveness, cost-efficiency, and ecological benefits.</p><p>More than 300,00 acres are prescribe-burned annually on forestlands, rangelands, and agricultural lands, and this number is likely to increase as the number of prescribed fire practitioners increases. In order to lessen the impact of smoke generated </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Strategies</head><p>To combat destructive wildfire, LDAF has enumerated and implemented several strategies that prevent and mitigate impact of future wildfires by increasing prescribed burning and returning pine-dominated systems to ecologically-appropriate fire management, educating the public about preventing wildfires and protecting their property, and increasing capacity of state and local wildfire response.</p><p>The Office of Forestry currently retains 102 bulldozers and transports equipped with fire plows, 22 off-road pumper trucks, and 12 Cessna 182 planes for aerial detection and ground support. The Office of Forestry is part of the South Central Interstate Forest Fire Protection Compact, which allows Louisiana and other member states to call for equipment and personnel assistance in wildland firefighting when in-state resources are insufficient.</p><p>In the past, the Office of Forestry has relied on local fire departments for incident reports to gauge statewide wildfire activity and assess fire suppression needs. The Office of Louisiana State Fire Marshall is currently establishing a reporting system to capture data from rural fire departments based on a reporting model utilized by the Texas Forest Service. This information is vital for calculating costs, tracking statewide wildfire occurrence, and reporting results.</p><p>The Office of Forestry encourages landowners to reduce fuel loads when possible to mitigate risk of property loss by wildfire. Effective means of reducing fuel loads include timber thinning, mechanical brush removal, and prescribed fire. Regardless of method, the key to successful fuel load reduction is the removal of ladder fuels, which connect ground vegetation to tree crowns, and dense understory brush that may become volatile during drought conditions (Figure <ref type="figure" target="#fig_30">27</ref>).  LDAF has also developed two prescribed fire strike teams operating out of ? and ?. These are dedicated prescribed fire crews, meaning their first priority is implementing prescribed fire on private forestlands rather than responding to wildland fires.</p><p>The majority of volunteer fire departments (VFDs) are equipped and trained to fight structural fires. Many VFDs do not possess the necessary equipment for wildland firefighting nor are personnel trained in wildland firefighting tactics and response. The Office of Forestry has three means of increasing state and local wildfire response capacity: Forest Fire Protection Assessment, Federal Excess Personal Property program, and Volunteer Fire Assistance grant program.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Forest Fire Protection Assessment</head><p>The 1944 Louisiana legislature established Act 179: Forest Protection Acreage Assessment, which allows individual parishes to voluntarily levy a tax not to exceed two cents per acre on all forestland of the parish for the purpose of establishing forest fire protection. Landowners whose forest is classed as timberland are taxed at a rate of eight cents per acre. Non-forest land cover and use (e.g., cropland, pasture, coastal marsh, open water) are not eligible for the assessed fee. Funds from the Assessment are solely dedicated to the purchase and maintenance of equipment and supplies for wildfire suppression. Within a year of the Assessment's enactment, nine parishes representing 6.5 million acres adopted the Assessment. Today, x parishes representing x million acres have adopted the Tax, and total current tax assessment for these parishes is $x.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Federal Excess Personal Property Program</head><p>The Office of Forestry, in cooperation with the USDA Forest Service, provides excess military equipment to rural VFDs for fire suppression activities. Current inventory in the program has provided approximately 161 pieces of equipment valued at $4.5 million to VFDs. Equipment includes pickup trucks, ladder trucks, tanker trucks, and generators.</p><p>Participating VFDs overwhelmingly agree that FEPP is greatly beneficial for the protection of their communities. Most FEPPprovided equipment requires monetary investment to be ready for wildland firefighting service, and providing equipment as well as funding its refurbishment is critical to delivering effective wildfire suppression.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Strategy 4: Increase Capacity of State and Local Wildfire Response</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Volunteer Fire Assistance Grant Program</head><p>The Volunteer Fire Assistance (VFA) program, formerly known as the Rural Community Fire Protection program, is administered by State Forestry agencies in cooperation with USDA Forest Service. The VFA program allows applications for 50-50 cost-sharing grants that can be used to organize, train, and equip fire departments in rural areas, defined as having a population of no more than 10,000 persons. The Office of Forestry Protection Branch oversees the VFA program for the State of Louisiana. Over the last ten years, VFDs have been granted more than $2.8 million (not including administration fees) with an average annual granting of $281,090 to 55 VFDs. Individual application awards typically range from $1,000 to $7,000. The available of these funds have greatly increased rural VFDs efficiency and participation in wildfire suppression efforts across the state. As Louisiana's population increasingly centers in urban and suburban areas, natural resource managers must adopt policies and operational standards to meet challenges inherent in the expansion of the wildlandurban interface (i.e., where the natural and built environments comingle). The Office of Forestry increases public awareness to possible hazards through education campaigns in schools, demonstration areas, advocating for Community Wildfire Protection Plans, and introducing programs such as FireWise and Ready-Set-Go! LDAF makes a concerted effort in the month of November which is designated as Fire Prevention Month in Louisiana. The Office of Forestry runs an annual campaign in public schools to educate students on the importance of fire safety and preventing wildfire (Figure <ref type="figure" target="#fig_9">28</ref>). </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>FireWise &amp; Ready-Set-Go!</head><p>FireWise, founded by the National Fire Protection Association, seeks to increase awareness and preparedness among homeowners so that they and their communities can proactively adapt to wildfire risk.</p><p>FireWise is directed at homeowners and city councils in order to reduce the number of hazardous fuels immediately adjacent to valuable property and to develop exit strategies if an event necessitates evacuation. Louisiana does not yet have a certified FireWise site. Ready-Set-Go!, developed by Cal Fire, is an education campaign encouraging homeowners to 1) be ready-create and maintain a defensible space around a home, 2) get set-plan and prepare for possible evacuation routes, and 3) go!-take necessary evacuation steps when the need arises. Both FireWise and Ready-Set-Go! encourage homeowners and communities are to be proactive in reducing the risk of damage prior to a wildfire occurring and reducing risk to life by having a clear exit strategy. LDAF is committed to encouraging individual landowners and communities to adopt FireWise and Ready-Set-Go! principles.      <ref type="figure" target="#fig_32">30</ref>). These additions allow LDAF to expand opportunities for land acquisition and better meet the state's goals in protecting and maintaining large tracts of land important to wildlife habitat and water resources that are at risk of fragmentation and land use conversion.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>CREATING A COMMUNITY WILDFIRE PROTECTION PLAN</head><p>Currently, FLAs capture parishes with the highest wildland fire ignition risk and historic fire occurrence, areas with greatest risk of southern pine beetle, and dense pine plantations established in the aftermath of Hurricane Katrina.</p><p>For additional information on FLP requirements, refer to Appendix C. demand by mills. This short-term, overabundance of timber has led many landowners to question the value of continuing forestry on smaller (&lt;100 acres) parcels due to difficulty in luring loggers to cut and receiving acceptable compensation for timber. Increased development in the Baton Rouge area also presents a risk of landuse conversion to forestlands in East Baton Rouge parish.</p><p>Conservation efforts in the Florida Parishes FLA would concurrently address priorities identified by LDWF in the State Wildlife Action Plan, namely longleaf pine restoration and associated species of greatest concern need <ref type="bibr" target="#b9">(Holcomb et al. 2015)</ref>. LDWF is currently making a concerted effort to increase thinning, mechanical fuel reduction, and prescribed fire on private forestlands near populations of gopher tortoises, such as the Sandy Hollow Wildlife Management Area population. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>CENLA FLA</head><p>The CENLA FLA encompasses 2.1 million acres in four parishes located in the West Gulf Coastal Plain. The city of Alexandria and surrounding areas have seen extensive growth and restructuring over the last five years due, in part, to Hurricane Katrina, and many forested areas are at risk of development and fragmentation. CENLA FLA is also critical to protecting the Red River watershed, which is the main source of drinking water for the city of Alexandria and surrounding communities.</p><p>Long-term protection of this watershed is key to the health and security of the region's growing population.</p><p>CENLA FLA hosts some of the best remaining longleaf pine tracts in the southeast and is vital to maintaining habitat availability and connectivity for many species of greatest conservation need <ref type="bibr" target="#b9">(Holcomb et al. 2015)</ref>. The longleaf pine ecosystem has been extensively lost throughout the southeastern United States. The Mississippi Alluvial Plain separates the remnant longleaf pine patches of western Louisiana and eastern Texas from their eastern counterparts, resulting in the development of unique subspecies and differing associations and composition compared to eastern longleaf pine savanna and woodland. Flagship species of this region include the federally-endangered redcockaded woodpecker; Bachman's sparrow; Louisiana pine snake; and the statethreatened and endemic Louisiana Pearlshell mussel (Margaritifera hembeli), found only in a few small sandy streams in central Louisiana. Louisiana has responded to requests within the South Central Compact with a total of 108 deployments in the last 10 years.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Northwestern</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Pine Woodland and Savanna Restoration</head><p>Pine woodland and savanna restoration is a key priority for nearly every state forestry and wildlife agency in the southern U.S (Figure <ref type="figure" target="#fig_28">26</ref>). Pine woodlands and savannas (also, "open pine") represent a diverse suite of longleaf, slash, and loblolly-shortleaf pine communities inhabiting a range of soil types and slopes. Longleaf pine historically inhabited dry sandy ridges, steep slopes, and soil types too dry or nutrient-poor to support loblolly or slash pine. Shortleaf pine often co-occurs with longleaf, loblolly, and slash pine in the coastal plains and with pitch pine in the Appalachian Mountains. Although pine woodlands and savannas are diverse, these ecosystems have several key features held in common: stands dominated by one or two species of pine in the overstory; sparse midstory trees and shrubs; and a welldeveloped and diverse ground layer, usually dominated by bunch grasses and flowering plants. These key features are a result of frequent fire which controls hardwood encroachment and maintains an open stand structure with high visibility.</p><p>In Louisiana, restoration has focused on longleaf pine flatwoods and savanna in the Florida Parishes and longleaf pine rolling hill woodlands in central and north-central Louisiana. Both of these areas are captured in Louisiana's FLAs. Longleaf and loblollyshortleaf woodland restoration efforts are eligible for funding through the FLP. Additionally, the Office of Forestry's Forest Productivity Program can assist landowners with expenses associated with planting, prescribed burning, and release of pine from competing vegetation.</p><p>Longleaf pine restoration in the Florida Parishes is a key priority of LDWF due, in part, to the presence of federally-threatened gopher tortoises on Sandy Hollow WMA and surrounding private-owned properties <ref type="bibr">(Holcomb et al. 2015, pers. comm. Sarabeth Klueh-Mundy)</ref>.</p><p>Pine woodland and savanna restoration efforts in Louisiana advance concomitant conservation efforts in neighboring states by increasing regional habitat availability for atrisk species, increasing size of suitable habitat patches, and facilitating habitat connectivity for wildlife dispersal and movement. Localized efforts to promote longleaf pine restoration have been formalized through longleaf implementation teams (see <ref type="url" target="http://www.americaslongleaf.org/implementation/implementation-teams/">http://www.americaslongleaf.org/implement ation/implementation-teams/</ref>). Longleaf implementation teams that could potentially partner with LDAF and LDWF include the DeSoto-Camp Shelby Longleaf Implementation Team, West Central Louisiana Ecosystem Conservation Project, and Texas Longleaf Implementation Team. The DeSoto-Camp Shelby team recently Arkansas <ref type="bibr">Game and Fish Commission (2015)</ref>  </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Action: Promote Prescribed Burning</head><p>Over the past few years, the use of fire as a forest management tool has become significantly more difficult. Issues from air quality to smoke danger have plagued prescribed burning. Liability costs have driven contractors out of business causing further difficulties with implementing burns. As a result, fewer acres are prescribed burned each year. This situation creates greater forest fuel loads and adversely impacts management practices resulting in greater fire danger and loss due to wildfire.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Response</head><p>Louisiana Office of Forestry participate in the Louisiana Prescribed Fire Council. This organization is comprised of Federal, State, private, and non-profit organizations. The purpose of the council is to educate the general public, offer information to resource professionals, and promote the use of </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>PROTECT FORESTS FROM THREATS Action: Promote Wildfire Danger Awareness</head><p>As a member of the Southern Group of State Foresters (SGSF), Louisiana is included in the SGSF Wildfire Risk Assessment project. This data portal allows the user to simulate the risk to a given area by manipulating pertinent variables. Wildfire threats are increasing as are the values at risk in the fireprone landscapes. Fragmentation of state forestland and urban development make fire management increasingly complex. Louisiana Office of Forestry works with fire department personnel, parish landowner association members, and secondary education professionals to disseminate information and resources designed to inform the public about risks associated with wildfire.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Response</head><p>The SGSF Wildfire Risk Assessment application has been used to inform state legislators of the need for funding wildfire detection and suppression efforts in Louisiana. It has been made available to municipal planners for the purpose of developing emergency response plans.</p><p>Through programs such as FireWise, Louisiana's citizens are becoming better informed about ways to protect themselves and their homes from the threat of wildfire. As greater numbers of families move into forested areas, this effort becomes increasingly valuable in promoting public safety.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Action: Wildfire Detection and Suppression</head><p>Louisiana Office of Forestry utilizes fire patrol aircraft as a menas of wildfire detection and tractor-plow units in suppression efforts. Equipment and personnel are staged at various locations across the state to provide timely response to wildfire.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Response</head><p>Key personnel review procedures and equipment placement regularly to ensure that the best possible service is available to the citizens of Louisiana. Scheduled maintenance and training are routine.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Action: Response to Insect and Disease Threats</head><p>Louisiana Office of Forestry monitors forestland for potential damage from insects and disease. In addition, information and education programs as well as public awareness efforts are utilized throughout the state. Program directors coordinate with counterparts from other states and with other Louisiana State agencies to provide the latest information, prevention measures, and response to insect and disease threats.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Response</head><p>Program staff from Louisiana Office of Forestry use several means of monitoring potential insect and disease problems. Aerial surveys, trapping, and imaging are all sources of monitoring. Training opportunities and coordinated response efforts allow specific areas of interest to be handled from a greater perspective. Theater spots, billboards, and printed documents are popular components of statewide informational campaigns.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>ENHANCE PUBLIC BENEFITS FROM TREES AND FORESTS</head><p>Action: Promote Public Aware and Outreach Programs Louisiana Office of Forestry interacts with the public in many ways with activities ranging from presentations to elementary school students to forest landowner field days. Topics range from tree identification to water quality. With over 48% of Louisiana's land area covered with some forest type, and trees being Louisiana #1 agricultural crop, it is vital for Louisiana citizens to know just how important trees and forests are to the State.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Response</head><p>Louisiana Office of Forestry has delivered information on sound forestry practices and how managed forests protect water quality, reduce stormwater runoff, conserve energy, and enhance economic development in urban areas. Stewardship Committee met and reviewed the new areas, unanimously agreeing that these areas should be added to the Program. The addition of these new areas will allow us to expand our opportunities for land acquisitions through the Forest Legacy Program and to better meet the state's goals in protecting and maintaining important tracts of land to address forest fragmentation, wildlife habitat, and water resources. Four criteria were used in determining the eligibility of these new Legacy areas: 1) large contiguous blocks of productive forest land, 2) watershed protection, 3) wildlife habitat protection, and 4) degree of threat from development. These are the same criteria as outlined in Louisiana's 2010 AON.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>FOREST LEGACY ASSESSMENT OF NEED</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>FOREST LEGACY PROGRAM REQUIREMENTS</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>APPENDIX C: FOREST LEGACY PROGRAM</head></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head></head><label></label><figDesc>Two portions of this province occur in Louisiana: the Mid Coastal Plains-Western Section, occupying much of northwestern Louisiana, and the Coastal Plain-Loess Section, extending southward into Louisiana from Mississippi along the alluvial plain. In Louisiana, both sections of Southeastern Mixed Forest Province are characterized by loblolly-shortleaf (Pinus taeda-P. echinata) pine, oak-pine (Quercus-P. spp.) , oakhickory (Q.-Carya spp.), and oak-gumcypress (Q.-Nyssa-Taxodium spp.) forest types. While marine sands and clays typify the Mid Coastal Plains-Western Section, deep, fine-textured loess soils and gently rolling hills characterize the Coastal Plain-Loess Section.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Figure</head><label></label><figDesc>Figure 1. USDA Forest Service ecological subregions, or "provinces," in Louisiana (McNab et al. 2007).</figDesc><graphic coords="8,152.90,416.73,391.35,302.35" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>Figure 2 .</head><label>2</label><figDesc>Figure 2. U.S. Environmental Protection Agency's (2005) Level III ecoregion classifications in Louisiana.</figDesc><graphic coords="10,72.00,72.00,470.68,363.70" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head>Figure 3 .</head><label>3</label><figDesc>Figure 3. Land cover classes in Louisiana (National Land Cover Database; Yang et al. 2018).</figDesc><graphic coords="13,72.75,72.00,465.85,359.99" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_5"><head>Figure 4 .</head><label>4</label><figDesc>Figure 4. Percentage of surface area in forest by parish.</figDesc><graphic coords="14,76.35,72.00,458.75,354.50" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_6"><head>Figure 5 .</head><label>5</label><figDesc>Figure 5. Forest type composition of forestland in Louisiana, 2013 (FIA 2019).</figDesc><graphic coords="15,115.50,72.00,380.95,294.37" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_7"><head>Figure 6 .</head><label>6</label><figDesc>Figure 6. Change in forest type composition in Louisiana since Hurricane Katrina in August of 2005 (FIA 2019).</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_8"><head>-</head><label></label><figDesc></figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_9"><head>Figure 8 .</head><label>8</label><figDesc>Figure8. Percentage of acres and ownerships by size of forest holdings<ref type="bibr" target="#b6">(Butler et al. 2020</ref>).</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_12"><head>Figure 13 .</head><label>13</label><figDesc>Figure 13. Infestations of forest tent caterpillar and bald cypress leaf-roller recorded during aerial detection surveys in the Atchafalaya/Pearl River Basin, 2019.</figDesc><graphic coords="29,71.95,72.00,466.52,355.65" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_13"><head>Figure 14 .</head><label>14</label><figDesc>Figure 14. Redbay ambrosia beetles carry the fungus Raffaelea lauricola causing laurel wilt in redbay and sassafras trees. Photo: Jason Waguespack, LDAF.</figDesc><graphic coords="30,330.25,72.60,205.65,274.25" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_14"><head>Figure 16 .</head><label>16</label><figDesc>Figure 16. LDAF installs Lindgren traps each spring to monitor southern pine beetle activity. Photo courtesy of Brent Cutrer, LDAF.</figDesc><graphic coords="31,326.15,72.00,213.25,292.55" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_15"><head>Figure 15 .</head><label>15</label><figDesc>Figure 15. Most southern pine beetle spots are initiated in late spring or early summer. Photo: LDAF.</figDesc><graphic coords="31,72.00,497.35,318.00,222.60" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_16"><head>•</head><label></label><figDesc>Dutch elm disease: A beetle-spread fungus native to Asia that weakens American elms. Due to their resistance to Dutch elm disease, Chinese elms (Ulmus parvifolia) and other resistant elm varietals are currently in use to re-establish elm trees in urban plantings. Resistant seedlings are included in urban planting packets, available through LDAF.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_17"><head>Figure 17 .</head><label>17</label><figDesc>Figure 17. Fusiform rust on a pine stem. Photo courtesy of Robert L. Anderson, USDA Forest Service, Bugwood.org.</figDesc><graphic coords="32,340.85,72.00,199.35,299.00" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_18"><head>Figure 18 .</head><label>18</label><figDesc>Figure 18. Red heart weakens the structural integrity of older pines, causing trees to split or break. Photo courtesy of David J. Moorhead, University of Georgia, Bugwood.org.</figDesc><graphic coords="33,72.75,409.15,466.30,310.85" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_19"><head>Figure 19 .</head><label>19</label><figDesc>Figure 19. Cogongrass infestations by county in the southern U.S.</figDesc><graphic coords="34,72.65,399.57,466.70,296.47" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_20"><head>Figure 21 .</head><label>21</label><figDesc>Figure 21. The ripened fruit of Chinese tallow tree resembles popcorn, giving rise to an alternative common name-popcorn tree. Photo courtesy of Cheryl McCormick, University of Florida, Bugwood.org.</figDesc><graphic coords="37,313.90,495.80,224.45,149.60" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_21"><head>Figure 22 .</head><label>22</label><figDesc>Figure 22. Flower clusters of tungoil tree. Photo courtesy of James H. Miller, USDA Forest Service, Bugwood.org.</figDesc><graphic coords="38,69.00,396.00,464.45,310.90" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_22"><head></head><label></label><figDesc>Figure 14. Cogongrass infestation in an open field. Photo courtesy of Brent Cutrer, LDAF.</figDesc><graphic coords="39,322.75,72.00,217.35,163.00" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_23"><head>Figure # .</head><label>#</label><figDesc>Figure #. Prescribed fire. Photo: Gerald J. Lenhard, Louisiana State University, Bugwood.org.</figDesc><graphic coords="41,94.98,429.89,422.03,281.35" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_24"><head>Figure</head><label></label><figDesc>Figure #. Frequent, low-intensity fires is an integral component of Louisiana's pine woodlands and savannas. Photo: Chuck Bargeron, University of Georgia, Bugwood.org.</figDesc><graphic coords="42,324.00,72.00,216.00,324.00" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_25"><head>Figure 23 .</head><label>23</label><figDesc>Figure 23. A map of Louisiana's ignition risk demonstrates the high potential for wildland fire activity in the Flatwoods Terrace of inland southwestern Louisiana, the Florida Parishes, and, to a lesser extent, northwestern Louisiana.</figDesc><graphic coords="44,72.00,266.14,455.50,372.00" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_26"><head>Figure 24 .</head><label>24</label><figDesc>Figure 24. A map of Louisiana's fire occurrence areas demonstrates the high ignition rate in the Flatwoods Terrace of inland southwestern Louisiana, the Florida Parishes, and, to a lesser extent, northwestern Louisiana.</figDesc><graphic coords="45,72.00,72.00,468.00,385.40" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_27"><head>Figure 25 .</head><label>25</label><figDesc>Figure 25. Number of fires and acres burned in Louisiana has decreased since 1998.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_28"><head>Figure 26 .</head><label>26</label><figDesc>Figure 26. Recent history of drought in Louisiana as recorded by percent area in five drought categories: D0-Abnormally Dry, D1-Moderate Drought, D2-Severe Drought, D3-Extreme Drought, and D4-Exceptional Drought (U.S. Drought Monitor, accessed January 13, 2020).</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_29"><head></head><label></label><figDesc>during prescribed burning on public health, LDAF and the Louisiana Forestry Association have jointly developed voluntary smoke management guidelines for the State of Louisiana under the state's Smoke Management Program. Louisiana's Smoke Management Program establishes a basic framework of procedures and requirements for managing smoke based on the EPA's National Ambient Air Quality Standards (Louisiana Smoke Management Program 2012). The voluntary guidelines seek to minimize concentrations of smoke in sensitive areas (e.g., proximity to schools and hospitals) and maintain air quality standards while retaining fire as an ecological and economical land management option (LDAF &amp; LFA 2014).</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_30"><head>Figure 27 .</head><label>27</label><figDesc>Figure 27. Mechanical brush removal removes ladder and ground fuels to reduce risk of timber damage in a wildfire.</figDesc><graphic coords="48,324.35,500.35,207.95,160.35" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_31"><head>Strategy 5 :</head><label>5</label><figDesc>Figure 28. Smokey Bear at Olla Elementary School educates 224 students in kindergarten through third grade on the importance of preventing wildfires.</figDesc><graphic coords="50,74.10,451.11,459.45,258.40" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_32"><head>Figure 30 .</head><label>30</label><figDesc>Figure 30. Forest Legacy Areas identified by Louisiana's Stewardship Committee to receive funding through the USDA Forest Service-administered Forest Legacy Program for conservation of privately owned forestlands.</figDesc><graphic coords="59,72.00,72.00,458.00,351.45" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_33"><head>Figure 31 .</head><label>31</label><figDesc>Figure 31. Adult gopher tortoise. Photo: Dan Clark, U.S. Department of Interior, National Park Service, Bugwood.org.</figDesc><graphic coords="60,147.75,451.90,315.75,240.35" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_34"><head>Figure 26 .</head><label>26</label><figDesc>Figure 26. Longleaf pine woodland. Photo: Chuck Bargeron, University of Georgia, Bugwood.org.</figDesc><graphic coords="63,73.20,72.00,464.80,309.75" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="1,70.45,238.97,471.08,314.05" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="36,167.00,471.30,373.20,248.70" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="51,72.00,311.68,468.00,383.20" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 1 . Area by land cover class (National Land Cover Database 2016; Yang et al. 2018).</head><label>1</label><figDesc></figDesc><table><row><cell>).</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Forest-type Coverage (ac) FIA Inventory Year</head><label></label><figDesc></figDesc><table><row><cell cols="3">Growth, Removals, &amp; Mortality</cell><cell></cell><cell cols="6">ratios, which have increased from 1.3 in</cell></row><row><cell cols="4">Average annual net growth slightly decreased from 1.19 billion cubic feet in 2009 to 1.02 billion cubic feet in 2012; this downward trend was then reversed and annual net growth rebounded to 1.10 billion cubic feet during the 2016 inventory (Figure 7). Concurrently, annual removals fell each year from 2009 to current inventory, resulting in a 21% decline in removals in the last decade. Trends in growth and removals are reflected further in growth-to-drain</cell><cell cols="6">2009 to 1.5 at present. Average annual mortality has held relatively constant. However, local outbreaks of southern pine beetle and other forest pests have led to increased mortality in some parishes, acting as a "reset button" on the successional process. For example, a southern pine beetle outbreak in the Homochitto National Forest in Mississippi spread southward into Louisiana's Florida Parishes. This area of Mississippi and Louisiana remains a hotspot for southern pine beetle activity.</cell></row><row><cell>1,400,000</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>1,200,000</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>1,000,000</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>6,000,000 800,000</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>5,000,000 600,000</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>4,000,000 400,000</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>3,000,000 200,000</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>2,000,000 -</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>1,000,000</cell><cell>2009</cell><cell>2010</cell><cell>2011</cell><cell>2012</cell><cell cols="2">2013</cell><cell>2014</cell><cell>2015</cell><cell>2016</cell></row><row><cell></cell><cell>2005</cell><cell>2009</cell><cell>2010</cell><cell>2011</cell><cell>2012</cell><cell>2013</cell><cell>2014</cell><cell>2015</cell><cell>2016</cell></row><row><cell cols="10">Figure 7. Average annual net growth, removals, and mortality on forestland in Louisiana, 2009-</cell></row><row><cell cols="3">Longleaf / slash pine 2016 (FIA 2019).</cell><cell cols="4">Loblolly / shortleaf pine</cell><cell cols="2">Oak / pine</cell></row><row><cell cols="2">Oak / hickory</cell><cell></cell><cell cols="3">Oak / gum / cypress</cell><cell></cell><cell cols="3">Elm / ash / cottonwood</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>Thousand Cubic Feet FIA Inventory Year Growth Removals Mortality CHARACTERISTICS OF PRIVATE FORESTLAND OWNERSHIP</head><label></label><figDesc></figDesc><table><row><cell>Landowner studies and surveys provide statistics and capture trends in landowner demographics,</cell></row><row><cell>land characteristics, reasons for owning land, land ownership history, and landowner concerns.</cell></row><row><cell>The U.S. Forest Service conducts a National Woodland Owner Survey at least once per decade as</cell></row><row><cell>part of the Forest Inventory and Analysis program. Results from the National Woodland Owner</cell></row><row><cell>Survey</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_6"><head></head><label></label><figDesc>Challenges to forest health include native and non-native insects, diseases, and invasive plants. Louisiana's major insect and disease challenges often focus on a single tree species or small group of tree species that are dispersed throughout forested landscapes. The diffuse impacts of emerald</figDesc><table /><note><p><p><p>Keep informed of timber markets and non-timber sources of revenue (such as hunting leases) by joining parish landowner associations and attending Forestry</p>Forums held each winter and spring through the Louisiana State University AgCenter. Strategy 3: Educate Landowners about Marketing and Selling Timber Figure 11. The agenda from Louisiana State University Agricultural Center's Forestry Forum in northern Louisiana, January 2019.</p>THREAT 2: CHALLENGES TO FOREST HEALTH ash borer, European gypsy moth, redbay ambrosia beetle, and laurel wilt can be difficult to detect at a landscape scale. Other pests and diseases, such as forest tent caterpillar, bald cypress leafroller, and southern pine beetle, can cause large-scale defoliation events that can be detected by aerial monitoring and satellite imagery. Likewise, invasive species may be diffuse or concentrated with cogongrass well-known for developing dense monocultures while tungoil tree is more likely to inhabit forest edges and linear disturbances in forest landscapes. Due to these and other differences, methods for detection and monitoring and recommendations for prevention and mitigation differ for each insect, disease, and invasive species.</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_12"><head>use of Chinese privet as an ornamental plant.</head><label></label><figDesc></figDesc><table><row><cell>Chinese privet is categorized as a Tier 1</cell></row><row><cell>invasive species in the Louisiana State</cell></row><row><cell>Wildlife Action Plan (Holcomb et al. 2015)</cell></row><row><cell>with affected communities including</cell></row><row><cell>bottomland hardwood forest, coastal</cell></row><row><cell>prairie, eastern and western upland longleaf</cell></row><row><cell>pine woodland, hardwood slope forest,</cell></row><row><cell>mixed hardwood-loblolly pine forest, small</cell></row><row><cell>stream forest, and southern mesophytic</cell></row><row><cell>hardwood forest.</cell></row><row><cell>Figure 20.</cell></row><row><cell>Chinese privet</cell></row><row><cell>thicket along a</cell></row><row><cell>field edge.</cell></row><row><cell>Photo courtesy</cell></row><row><cell>of Chris Evans,</cell></row><row><cell>University of</cell></row><row><cell>Illinois,</cell></row><row><cell>Bugwood.org.</cell></row></table><note><p><p><p><p>• Remove colonies using mechanical removal, prescribed burning, and herbicide application, as appropriate. Refer to</p><ref type="bibr" target="#b7">Evans et al. 2006</ref> </p>for guidance.</p>• Discourage</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_14"><head></head><label></label><figDesc>The minimum requirements as described in the Healthy Forests Restoration Act are 1. Collaboration: A CWPP must be collaboratively developed by local and state government representatives, in consultation with federal agencies and other interested parties. 2. Prioritized Fuel Reduction: A CWPP must identify and prioritize areas for hazardous fuel reduction treatments that will protect one or more at-risk communities and essential infrastructure.3. Treatment of Structural Ignitability:A CWPP must recommend measures that homeowners and communities can take to reduce the ignitability of structures throughout the area addressed by the Plan.</figDesc><table><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>Financial</cell><cell>Additional State</cell><cell>Additional</cell><cell>Increased</cell></row><row><cell></cell><cell></cell><cell></cell><cell>Partnerships,</cell><cell>Assistance to</cell><cell>Dollars for</cell><cell>Federal Dollars</cell><cell>Technology &amp;</cell></row><row><cell></cell><cell></cell><cell></cell><cell>Government &amp;</cell><cell>Private</cell><cell>Program</cell><cell>for Program</cell><cell>Analytical</cell></row><row><cell></cell><cell></cell><cell></cell><cell>Non-government</cell><cell>Landowners</cell><cell>Delivery</cell><cell>Delivery</cell><cell>Capacity</cell></row><row><cell></cell><cell></cell><cell>S1: Increase Landowner</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Lack of Active</cell><cell>Management</cell><cell>Assistance, Timber Management S2: Increase Landowner Assistance, Prescribed Fire</cell><cell>•</cell><cell>•</cell><cell>•</cell><cell>•</cell></row><row><cell cols="6">See the Handbook for Wildland-Urban Interface Communities for more information (Society</cell><cell></cell></row><row><cell cols="3">of American Foresters 2004).</cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_18"><head></head><label></label><figDesc>Statewide priority areas focus on private forestland dominated by pine species. Because pine remains Louisiana's most important species group for industry, landowners with planted or naturally regenerating pine stands have the greatest potential to engage in forest products markets. Furthermore, statewide spatial priorities are located proximal to many of industry's pine sawlog and pulp mills. Figure 29. Louisiana's statewide and Forest Stewardship Program priority areas focus on efforts in the Flatwood Terraces, Florida Parishes, and northwestern Louisiana.</figDesc><table><row><cell cols="2">SUSTAINING FOREST RESOURCES: ADDRESSING NATIONAL PRIORITIES FOR STATE &amp; PRIVATE FORESTRY FOREST LEGACY PROGRAM</cell></row><row><cell cols="2">National priorities for state and private Development of the nation's forested areas PRIORITIES Louisiana's 2020 Forest Action Plan Authorized by the Farm Bill, the USDA forestry are captured in three themes: addresses all national priorities in some poses an increasing threat to maintaining the Forest Service delivers FLP funding through</cell></row><row><cell>conserving working forest landscapes, integrity of our country's valuable</cell><cell>capacity, the Plan directly and specifically the Forest Service Cooperative Forestry</cell></row><row><cell>protecting forests from harm, and enhancing forestlands. Intact forestlands supply timber</cell><cell>targets the following national priorities. through which Louisiana and other U.S.</cell></row><row><cell>public benefits from trees and forests. While products, wildlife habitat, soil and watershed</cell><cell>states qualify and compete nationally for</cell></row><row><cell cols="2">STATEWIDE &amp; FOREST STEWARDSHIP PROGRAM PRIORITY AREAS protection, recreation opportunities, and 75% of the grant funding on an annual basis.</cell></row><row><cell cols="2">This Forest Action Plan identifies three overarching threats to Louisiana's forest resources and enumerates strategies for addressing these threats. LDAF has identified spatial priority areas appealing aesthetics. As forestlands are Since 2007, fee simple and permanent NATIONAL PRIORITIES Conserve Working Forest Landscapes increasingly parcelized, fragmented, and conservation easement purchases to-date Protect Forests from Harm Enhance Public Benefits converted to non-forest use, the benefits total 7,348 acres valued at $3.8 million. Fee from Trees and Forests  High priority forest  Fire-adapted lands are Water quality or quantity provided by forests also decline. While local simple forestland purchases total 182 acres at</cell></row><row><cell cols="2">for implementing strategies based on a balance of where need is greatest and likelihood of ecosystems and restored and risk of is protected or enhanced. governments commonly guide development $341,250. Conservation easements total</cell></row><row><cell cols="2">success is highest. LDAF's statewide spatial priorities address the identified threats as follows. landscapes are identified wildfire impacts is away from some sensitive areas using zoning 7,166 acres for $3.5 million.</cell></row><row><cell cols="2">and conserved.  Forests are actively and sustainably managed. and performance standards, these measures reduced.  Threats to forest and ecosystem health are identified, managed and reduced. In 2007, the first FLP Assessment of Needs Air quality is improved or energy is conserved.  Communities plan for are insufficient to protect forests as a for Louisiana, developed with The Nature foundational resource to Louisiana's Conservancy, identified one Forest Legacy communities. Area (FLA) in the southeastern corner of the and reduce risks from wildfire. The Forest Legacy Program (FLP) identifies state commonly known as the Florida</cell></row><row><cell cols="2">• Challenges to Forest Health: Statewide priority areas include parishes historically and permanently protects ecologically Parishes. Having only a single FLA</cell></row><row><cell cols="2">impacted by southern pine beetle and parishes currently affected by laurel wilt.  The economic benefits important, privately owned forestlands that restricted LDAF in finding suitable tracts of</cell></row><row><cell cols="2">• Encouraging and funding active management on private forestlands within priority areas • • and values of trees and are threatened by conversion to non-forest land for consideration in FLP and hindered S4: Increase State &amp; Local Capacity • forests are maintained or uses, with emphasis often placed on working Louisiana from protecting significant natural can address other forest pests and diseases, especially those that thrive in dense monocultures and crowded conditions. enhanced. forests. The FLP is a voluntary program that resources located elsewhere in the state. In S5: Increase Public Awareness &amp; Community Preparedness • • Challenges Facing Wildland Fire Management: Statewide priority areas include all parishes with moderate to high ignition risk and historic fire occurrence. Promoting active forest management, such as thinning and prescribed burning, on private forestlands within statewide priority areas can reduce hazardous fuel loads, increase firebreaks, and provide defensible space near structures and roads. To focus effort and resources as much as possible, statewide priority areas are identical to priorities identified for the Forest Stewardship Program (Figure 29). Approximately five million acres are given high priority, with almost all of this acreage occurring in the Flatwood Terraces, Florida Parishes, and northwestern Louisiana. A further 8.9 million acres are given low encourages the protection of privately owned 2010, LDAF decided to designate additional  Wildlife or fish habitat forestlands by focusing on the acquisition of FLAs based on four criteria: are protected, conserved or enhanced. People are connected to trees and forests and are engaged in environmental stewardship activities. Trees and forests are conservation easements which legally 1. Presence of large, contiguous blocks transfer certain property rights without transferring property of productive forestland, ownership. 2. Importance to watershed protection, Conservation easements are negotiated with 3. Importance to wildlife habitat each landowner and often include restrictions availability and connectivity, and on property divisions (i.e., parcelization), 4. Risk of land use conversion due to number of residences and their proximity to development. waterways, activities occurring in close priority, and these low priority areas largely represent hardwood forests in private ownership. LDAF's Forest Legacy Areas, where the Forest Legacy Program funds can be administered, occur in areas of high priority and further consolidate LDAF's resources for maximum managed and restored to As a result, Louisiana amended its former proximity to waterways and riparian areas, help mitigate or adapt to FLP Assessment of Needs by adding two new and energy development activity. Benefits to changing conditions. FLAs in the state: the Northwestern landowners include lower property tax rates conservation impact. and assurance of a permanent forest legacy to Louisiana FLA and the Central Louisiana</cell><cell>• •</cell></row><row><cell>pass to their heirs.</cell><cell>(CENLA) FLA.</cell></row></table><note><p><p>• Lack of Active Forest Management:</p>The state Forest Stewardship Committee reviewed and unanimously approved the Northwestern Louisiana and CENLA FLAs as additions to the FLP (Figure</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_19"><head>Louisiana FLA</head><label></label><figDesc></figDesc><table><row><cell cols="5">MULTI-STATE PRIORITIES AND PROJECTS</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>The</cell><cell>Northwestern</cell><cell>Louisiana</cell><cell>FLA</cell></row><row><cell cols="3">Wildfire Protection</cell><cell></cell><cell></cell><cell>encompasses 1.55 million acres in three parishes: Caddo, Bossier, and Webster. This</cell></row><row><cell cols="5">Wildfire protection is a key forestry priority</cell><cell>region is part of the Upper West Gulf Coastal</cell></row><row><cell cols="5">nationally and for state agencies in the</cell><cell>Plain and hosts much of the state's remaining</cell></row><row><cell cols="5">southern U.S. Louisiana's Office of Forestry</cell><cell>shortleaf pine woodland. The Louisiana</cell></row><row><cell cols="5">belongs to the South Central Interstate Forest</cell><cell>Natural Heritage program estimates that less</cell></row><row><cell cols="5">Fire Protection Compact, which allows states</cell><cell>than 10% of the historic extent of shortleaf</cell></row><row><cell cols="5">within the compact to share equipment and</cell><cell>pine-hardwood open woodland remains due</cell></row><row><cell>personnel</cell><cell>for</cell><cell cols="2">out-of-state</cell><cell>wildland</cell><cell>to fragmentation and fire suppression efforts.</cell></row><row><cell cols="5">firefighting assignments. The South Central</cell><cell>The Northwestern Louisiana FLA also</cell></row><row><cell cols="5">Interstate Forest Fire Protection Compact</cell><cell>includes four distinct prairie types including</cell></row><row><cell cols="5">includes Texas, Arkansas, Louisiana,</cell><cell>the globally endangered morse clay</cell></row><row><cell cols="5">Mississippi, and Oklahoma. The Compact's</cell><cell>calcareous prairie. Thirty species of plants</cell></row><row><cell>purpose is</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>found in this region are considered globally</cell></row><row><cell cols="5">to promote effective prevention and</cell><cell>rare, threatened, or endangered, such as</cell></row><row><cell>control</cell><cell>of</cell><cell>forest</cell><cell cols="2">fires…by</cell><cell>slender blazing star (Liatris cylindracea),</cell></row><row><cell cols="5">development of integrated forest fire</cell><cell>Texas trillium (Trillium texanum), Louisiana</cell></row><row><cell cols="5">plans, by the maintenance of</cell><cell>bluestar (Amsonia ludoviciana), yellow</cell></row><row><cell cols="5">adequate forest fire fighting services</cell><cell>lady's</cell><cell>slipper</cell><cell>orchid</cell><cell>(Cypripedium</cell></row><row><cell cols="5">by the member States, by providing</cell><cell>parviflorum), and scarlet catchfly (Silene</cell></row><row><cell cols="5">for mutual aid in fighting forest fires</cell><cell>subciliata). Twenty-four species of fauna are</cell></row><row><cell cols="5">among the compacting States of the</cell><cell>considered globally rare, threatened, or</cell></row><row><cell cols="5">region and with States which are</cell><cell>endangered,</cell><cell>including</cell><cell>red-cockaded</cell></row><row><cell cols="5">party to other Regional Forest Fire</cell><cell>woodpecker, Bachman's sparrow, western</cell></row><row><cell cols="5">Protection compacts or agreements,</cell><cell>sand darter (Ammocrypta clara), bluehead</cell></row><row><cell cols="5">and for more adequate forest</cell><cell>shiner (Pteronotropis hubbsi), and pink</cell></row><row><cell cols="2">development</cell><cell></cell><cell></cell><cell></cell><cell>mucket mussel (Lampsilis orbiculata).</cell></row><row><cell cols="5">(The South Central Interstate Forest Fire</cell><cell>Although the Northwestern Louisiana FLA</cell></row><row><cell cols="5">Protection Compact, Alliance Forest Fire</cell><cell>has historically maintained its forest cover,</cell></row><row><cell>Compact).</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>rapid growth of the Shreveport and Bossier</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>City metropolitan areas with the presence of</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>I-20 and I-49 transportation corridors place</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>the Northwestern Louisiana FLA at risk of</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>widespread land use conversion.</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_20"><head>AND MANAGE WORKING FOREST LANDSCAPES FOR MULTIPLE VALUES AND USES Action: Promote Forest Stewardship The</head><label></label><figDesc>recently funded proposals to address priorities outlined in the Arkansas Wildlife Action Plan: West Gulf Coastal Plain pine woodland and savanna habitat restoration to benefit species of greatest conservation need (e.g., American woodcock [Scolopax minor], Henslow's sparrow [Centronyx henslowii], northern bobwhite [Colinus virginianus], red-headed woodpecker [Melanerpes erythrocephalus]), and identification of alternative winter roosting habitat for tricolored bats (Perimyotic subflavus). Louisiana Office of Forestry has been challenged to promote the Forest Stewaardship Program. With over 80% of Louisiana's forestland in private ownership, there exists a great opportunity to educate, encourage, and assist landowners in multiuse forestry practices. A large number of forest landowners have proven to be unaware of the option to manage their property as a whole rather thanthe sum of separate parts. State forestry personnel as well as private consulting foresters assist with creating functional management plans to include all land use types and landowner objectives. landowners have been heightened. A uniform Stewaardship Plan writing program has been customized and made available for use by other State and Federal agencies to satisfy land management planning requirements. The end result of these efforts is that a comprehensive Forest Stewardship Plan is available to any landowner desiring one. Consequently, the number of Forest Stewardship Plans written annually in Louisiana continues to increase.</figDesc><table><row><cell cols="2">CONSERVE Response</cell><cell></cell><cell></cell></row><row><cell cols="4">As a result of the increased effort,</cell></row><row><cell cols="4">Louisiana's forest landowners are becoming</cell></row><row><cell cols="4">better educated abou forest stewardship.</cell></row><row><cell cols="4">They are receiving information on the effects</cell></row><row><cell cols="4">of management practices, fragmentation,</cell></row><row><cell cols="4">wildlife corridors, and sustainability.</cell></row><row><cell>Working</cell><cell>relationships</cell><cell>among</cell><cell>State</cell></row><row><cell cols="2">employees, private</cell><cell cols="2">consultants, and</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_21"><head></head><label></label><figDesc>APPENDIX B: 2015 NATIONAL PRIORITIES REPORT ON ACCOMPLISHMENTS prescribed fire in forestry, agriculture, and marsh environments. The Louisiana Certified Prescribed Burner Program was established to create consistency in the use of prescribed burning and provide training and certification to program participants. Louisiana Office of Forestry works collaboratively with State university representatives to develop and deliver the program. As a result of these efforts, Louisiana has realized a decrease in the annual number of wildfires caused by improper prescribed burns, a reduced threat of wildfire in areas with prescribed burning, and increased knowledge, understanding, and skill of Louisiana's certified prescribed burners.</figDesc><table /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_22"><head></head><label></label><figDesc>In 2010, Louisiana amended its existing Forest Legacy Assessment of Need (AON) by adding two new Forest Legacy Areas to the existing Legacy Area in the Louisiana's Forest Legacy Program. These new areas are the Northwestern Louisiana Forest Legacy Area and the CENLA Forest Legacy Area. The original AON for Louisiana has only one Legacy area in the southeastern corner of the state and this has restricted us in finding suitable tracts of land for consideration into the Forest Legacy Program. Additionally, this has hindered Louisiana from protecting other important and significant natural resources within the state. Our state Forest</figDesc><table><row><cell>Amendment 1</cell></row></table></figure>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>Acknowledgments</head><p>Suggested citation: Greene, R., and <rs type="person">E. Brasher</rs>. <rs type="grantNumber">2020</rs>. <rs type="projectName">Louisiana 2020 Forest Action Plan: A Statewide Forest Resource Assessment and Strategy</rs>. <rs type="person">Baton Rouge</rs>, LA: <rs type="funder">Louisiana Department of Agriculture and Forestry, Office of Forestry</rs>.</p></div>
+			</div>
+			<div type="funding">
+<div><p>Urbatsch, L. 2000. Plant Guide: <rs type="person">Chinese Tallow Tree. Baton Rouge</rs>, LA: <rs type="institution">U.S. Department of Agriculture, Natural Resources Conservation Service</rs>, National Plant Data Center. <ref type="url" target="https://plants.usda.gov/plantguide/pdf/pg_trse6.pdf">https://plants.usda.gov/plantguide/pdf/pg_trs e6.pdf</ref>. [Date accessed: January 13, 2020]. <rs type="funder">U.S. Department of Agriculture [USDA] Forest Service</rs>. 2012. Timber Product Output (TPO) Reports. Knoxville, TN: <rs type="funder">U.S. Department of Agriculture Forest Service</rs>, <rs type="institution">Southern Research Station</rs>. <ref type="url" target="http://srsfia2.fs.fed.us/php/tpo_2009/tpo_rpa_int1.php">http://srsfia2.fs.fed.us/php/tpo_2009/tpo_rpa _int1.php</ref>. [Date accessed: November 8, 2019]. <rs type="funder">U.S. Department of Agriculture [USDA] Forest Service</rs>. 2020. Timber Product Output and Use for Louisiana, 2018. <rs type="institution">Resource Update FS-286. Asheville, NC: U.S. Department of Agriculture Forest Service</rs>. 2 p. <ref type="url" target="https://doi.org/10.2737/FS-RU-286">https://doi.org/10.2737/FS-RU-286</ref>. <rs type="funder">U.S. Department of the Interior [USDOI] U.S. Fish and Wildlife Service</rs>, and <rs type="funder">U.S. Department of Commerce [USDC], U.S. Census Bureau</rs>. 2018. 2016 National Survey of Fishing, Hunting, and Wildlife-Associated Recreation. 144 p. U.S. Drought Monitor. 2020. Drought in Louisiana. <rs type="funder">National Oceanic and Atmospheric Administration, National Integrated Drought Information System</rs>, U.S.</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funded-project" xml:id="_xNNs3k4">
+					<idno type="grant-number">2020</idno>
+					<orgName type="project" subtype="full">Louisiana 2020 Forest Action Plan: A Statewide Forest Resource Assessment and Strategy</orgName>
+				</org>
+				<org type="funding" xml:id="_sYUydw8">
+					<idno type="grant-number">10.2737/FS-RU-286</idno>
+				</org>
+			</listOrg>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Community Wildfire Protection Plans</head><p>Community Wildfire Protection Plans (CWPPs) identify and prioritize areas for hazardous fuel reduction treatments and recommends the types and methods of treatment on public and private forestlands in order to protect one or more at-risk communities and critical infrastructure. The process of creating a CWPP can be just as helpful as the Plan itself as it presents opportunities to create dialogue about what community-based forest planning mean and to clarify the community's priorities for the protection of life, property, and critical infrastructure.  </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RESOURCES NEEDED BY THE STATE FORESTER</head><p>The following </p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<monogr>
+		<title level="m" type="main">State Industry Economic Impact: Louisiana</title>
+		<imprint>
+			<date type="published" when="2018-08">2018. August 2018</date>
+			<publisher>American Forest and Paper Association</publisher>
+			<pubPlace>Washington, DC</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">p. Arkansas Game and Fish Commission. 2015. The Arkansas Wildlife Action Plan</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Anderson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Hayes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">D</forename><surname>Keyser</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Lituma</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">D</forename><surname>Sutter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Zollner</surname></persName>
+		</author>
+		<ptr target="http://shortleafpine.net/shortleaf-pine-initiative/shortleaf-pine-restoration-plan/shortleaf-pine-restoration-plan.67" />
+	</analytic>
+	<monogr>
+		<title level="m">Shortleaf Pine Initiative</title>
+		<meeting><address><addrLine>Little Rock, AR</addrLine></address></meeting>
+		<imprint>
+			<publisher>Arkansas Game and Fish Commission</publisher>
+			<date type="published" when="2016">2016</date>
+			<biblScope unit="page">686</biblScope>
+		</imprint>
+	</monogr>
+	<note>Shortleaf Pine Restoration Plan: Restoring an American Forest Legacy</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Forests, water, and people: Drinking water supply and forest lands in the Northeast and Midwest United States. U.S. Department of Agriculture Forest Service, Northeastern Area State and Private Forestry</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Barnes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Albert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">Whitney</forename><surname>Lilja</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Barten</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">W</forename><surname>Bentley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Howell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">G</forename><surname>Johnson</surname></persName>
+		</author>
+		<idno>NA-FR-01-08. 71</idno>
+	</analytic>
+	<monogr>
+		<title level="m">Resource Bulletin SRS-103</title>
+		<meeting><address><addrLine>Asheville, NC</addrLine></address></meeting>
+		<imprint>
+			<publisher>Southern Research Station</publisher>
+			<date type="published" when="2002">2009. 2005. 2002</date>
+			<biblScope unit="page">52</biblScope>
+		</imprint>
+	</monogr>
+	<note>Louisiana&apos;s Timber Industry-An Assessment of Timber Product Output and Use</note>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Initiation of a new woodland type on the Texas coastal prairie by the Chinese tallow tree (Sapium sebiferum (L.) Roxb.)</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">A</forename><surname>Bruce</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">N</forename><surname>Cameron</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">A</forename><surname>Harcombe</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Bulletin of the Torrey Botanical Club</title>
+		<imprint>
+			<biblScope unit="volume">122</biblScope>
+			<biblScope unit="page" from="215" to="225" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Ecoregions-A geographic framework to guide risk characterization and ecosystem management</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">A</forename><surname>Bryce</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Omernik</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">P</forename><surname>Larsen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Environmental Practice</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="141" to="155" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<monogr>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">J</forename><surname>Butler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Hewes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">J</forename><surname>Dickinson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Andrejczyk</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Butler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Markowski-Lindsay</surname></persName>
+		</author>
+		<title level="m">USDA Forest Service National Woodland Owner Survey: A Technical Document Supporting the Forest Service Update of the 2010 RPA Assessment. Resource Bulletin NRS-99</title>
+		<meeting><address><addrLine>Newtown Square, PA</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2016">2016</date>
+		</imprint>
+		<respStmt>
+			<orgName>U.S. Department of Agriculture, Forest Service, Northern Research Station</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Family Forest Ownerships of the United States</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">J</forename><surname>Butler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Butler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Caputo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Dias</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Robillard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">M</forename><surname>Sass</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Results from the USDA Forest Service</title>
+		<title level="s">National Woodland Owner Survey. General Technical Report-199</title>
+		<meeting><address><addrLine>Newtown Square, PA</addrLine></address></meeting>
+		<imprint>
+			<publisher>U.S. Department of Agriculture, Forest Service</publisher>
+			<date type="published" when="2018">2020. 2018</date>
+		</imprint>
+		<respStmt>
+			<orgName>Northern Research Station</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Invasive Plant Responses to Silvicultural Practices in the South</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">W</forename><surname>Evans</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Moorhead</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">T</forename><surname>Bargeron</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">K</forename><surname>Douce</surname></persName>
+		</author>
+		<ptr target="https://www.fs.fed.us/emc/rig/DATIM/index.shtml" />
+	</analytic>
+	<monogr>
+		<title level="m">2019. Design and Analysis Toolkit for Inventory and Monitoring web application, Version October 10</title>
+		<meeting><address><addrLine>Tifton, GA; St. Paul, LITERATURE CITED MN</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2006">2006. 2019 v11. November 8, 2019</date>
+		</imprint>
+		<respStmt>
+			<orgName>U.S. Department of Agriculture, Forest Service, Northern Research Station</orgName>
+		</respStmt>
+	</monogr>
+	<note>The University of Georgia Bugwood Network, BW-2006-03. 52 p. Forest Inventory and Analysis</note>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">W</forename><surname>Fraedrich</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">Wood</forename><surname>Johnson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">D</forename><surname>Menard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">C</forename><surname>Harrington</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Olatinwo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">S</forename><surname>Best</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">First report of Xyleborus glabratus (Coleoptera: Curculionidae: Scolytinae) and laurel wilt in Louisiana, USA: The disease continues westward on sassafras</title>
+		<imprint>
+			<date type="published" when="2015">2015</date>
+			<biblScope unit="volume">98</biblScope>
+			<biblScope unit="page" from="1266" to="1268" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<monogr>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">R</forename><surname>Holcomb</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">A</forename><surname>Bass</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">S</forename><surname>Reid</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Seymour</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">F</forename><surname>Lorenz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">B</forename><surname>Gregory</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Javed</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">F</forename><surname>Balkum</surname></persName>
+		</author>
+		<title level="m">Louisiana Wildlife Action Plan</title>
+		<meeting><address><addrLine>Baton Rouge, LA</addrLine></address></meeting>
+		<imprint>
+			<publisher>Louisiana Department of Wildlife and Fisheries</publisher>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">The Biota of North America Program (BONAP)</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">T</forename><surname>Kartesz</surname></persName>
+		</author>
+		<ptr target="http://www.bonap.net/tdc" />
+	</analytic>
+	<monogr>
+		<title level="m">Floristic Synthesis of North America, Version 1.0. Biota of North America Program (BONAP)</title>
+		<editor>
+			<persName><forename type="first">J</forename><forename type="middle">T</forename><surname>Kartesz</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Chapel Hill, NC</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2015">2015. 2015</date>
+		</imprint>
+	</monogr>
+	<note>Taxonomic Data Center</note>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Economic Impact of Forestry and Forestry Products on Louisiana&apos;s Congressional Districts</title>
+		<ptr target="http://www.ldaf.state.la.us/wp-content/uploads/2014/05/SmokeManagementProgram" />
+	</analytic>
+	<monogr>
+		<title level="m">Louisiana Statewide Forest Resource Assessment and Strategy: A Comprehensive Analysis of Forest-related Conditions, Trends, Threats, Opportunities, and Management Strategies</title>
+		<meeting><address><addrLine>Baton Rouge, LA; Baton Rouge, LA; Baton Rouge, LA; Baton Rouge, LA</addrLine></address></meeting>
+		<imprint>
+			<publisher>Louisiana Office of Forestry, Department of Agriculture and Forestry</publisher>
+			<date type="published" when="2010">2014. 2010. 2015</date>
+			<biblScope unit="volume">136</biblScope>
+		</imprint>
+		<respStmt>
+			<orgName>pdf Louisiana State University ; Louisiana State University AgCenter</orgName>
+		</respStmt>
+	</monogr>
+	<note>Louisiana Smoke Management Program. 2012. State of Louisiana Smoke Management Program</note>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">H</forename><surname>Mcnab</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">T</forename><surname>Cleland</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Freeouf</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Keys</surname><genName>Jr</genName></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">J</forename><surname>Nowacki</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>Carpenter</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+	<note>comps. 2007. Description of ecological subregions: sections of the conterminous United States [CD-ROM</note>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<monogr>
+		<title level="m" type="main">Report WO-76B</title>
+		<author>
+			<persName><forename type="first">Gen</forename><surname>Tech</surname></persName>
+		</author>
+		<imprint>
+			<publisher>U.S. Department of Agriculture, Forest Service</publisher>
+			<biblScope unit="page">80</biblScope>
+			<pubPlace>Washington, DC</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<monogr>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Prince</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">E</forename><surname>Macdonald</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">F</forename><surname>Enloe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">R</forename><surname>Coyle</surname></persName>
+		</author>
+		<title level="m">Cogongrass biology and management in the southeastern U.S. SREF-FH-010</title>
+		<meeting><address><addrLine>Athens, GA; Forest Health</addrLine></address></meeting>
+		<imprint>
+			<publisher>Southern Regional Extension Forestry</publisher>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Digital aerial sketchmapping (DASM) for invasive weeds. A Weed Manager&apos;s Guide to Remote Sensing and GIS-Mapping and Monitoring</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Randall</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Marinelli</surname></persName>
+		</author>
+		<ptr target="https://www.drought.gov/drought/states/louisiana" />
+	</analytic>
+	<monogr>
+		<title level="m">Handbook #149</title>
+		<title level="s">U.S. Department of Agriculture Forest Service, Remote Sensing Applications Center. Drought Portal</title>
+		<meeting><address><addrLine>Brooklyn, NY; Salt Lake City, UT</addrLine></address></meeting>
+		<imprint>
+			<publisher>Brooklyn Botanic Garden</publisher>
+			<date type="published" when="1996-01-13">1996. January 13. 2020</date>
+			<biblScope unit="page">99</biblScope>
+		</imprint>
+	</monogr>
+	<note>Invasive Plants, Weeds of the Global Garden</note>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<monogr>
+		<ptr target="ftp://newftp.epa.gov/EPADataCommons/ORD/Ecoregions/la/" />
+		<title level="m">Level III Ecoregions</title>
+		<imprint>
+			<publisher>U.S. Environmental Protection Agency</publisher>
+			<date type="published" when="2005-11-08">2005. November 8, 2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Geological Survey [USGS] Gap Analysis Project [GAP]</title>
+		<author>
+			<persName><forename type="first">U</forename><forename type="middle">S</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Protected Areas Database of the United States</title>
+		<imprint>
+			<publisher>PAD-US</publisher>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<monogr>
+		<author>
+			<persName><forename type="first">U</forename><forename type="middle">S</forename></persName>
+		</author>
+		<idno type="DOI">10.5066/P955KPLE</idno>
+		<ptr target="https://doi.org/10.5066/P955KPLE" />
+		<title level="m">Geological Survey data release</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Louisiana Coastal Wetlands: A Resource At Risk</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">J N</forename><surname>Williams</surname></persName>
+		</author>
+		<ptr target="https://pubs.usgs.gov/fs/la-wetlands/" />
+	</analytic>
+	<monogr>
+		<title level="j">Fact Sheet. U.S. Geological Survey</title>
+		<imprint>
+			<date type="published" when="2020-01-06">January 6, 2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">A new generation of the United States National Land Cover Database-Requirements, research priorities, design, and implementation strategies</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Yang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Jin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Danielson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">G</forename><surname>Homer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Gass</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Bender</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Case</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Costello</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Dewitz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Fry</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Funk</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">J</forename><surname>Granneman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">C</forename><surname>Liknes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">B</forename><surname>Rigge</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Xian</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.isprsjprs.2018.09.006</idno>
+		<ptr target="https://doi.org/10.1016/j.isprsjprs.2018.09.0" />
+	</analytic>
+	<monogr>
+		<title level="j">ISPRS Journal of Photogrammetry and Remote Sensing</title>
+		<imprint>
+			<biblScope unit="volume">146</biblScope>
+			<biblScope unit="page" from="108" to="123" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>
+

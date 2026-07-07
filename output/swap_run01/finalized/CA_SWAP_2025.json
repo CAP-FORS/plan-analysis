@@ -1,0 +1,931 @@
+{
+  "document_meta": {
+    "title": "California State Wildlife Action Plan 2025",
+    "year": 2025,
+    "jurisdiction": "California (CDFW)",
+    "document_type": "SWAP",
+    "document_id": "CA_SWAP_2025",
+    "page_count": 914
+  },
+  "orientation": {
+    "summary": "California SWAP 2025 is a comprehensive State Wildlife Action Plan prepared by the California Department of Fish and Wildlife (CDFW) for the state of California. The document is strongly climate-aware throughout, treating climate change as a crosscutting driver of ecosystem stress, habitat degradation, and species vulnerability. Regarding range shifts, the plan explicitly acknowledges that species will need to shift their geographic ranges in response to climate change and incorporates range-shift facilitation as a stated conservation strategy objective; however, the primary analysis (vulnerability assessments, connectivity modeling, species distribution modeling) is largely drawn from prior studies rather than performed de novo in this document. The plan's appendices provide extensive detail on connectivity modeling tools and spatial data already applied to California's focal species and habitats, and the main chapters describe statewide climate projections and their ecological implications, referencing a large body of peer-reviewed literature.",
+    "evidence_index": [
+      {
+        "text": "species may need to either shift within their existing ranges and/or shift their geographic range in response to climate change. These shifts may occur towards higher latitudes, higher elevations, cooler coastal environments, or local microclimatic refuges",
+        "location": "Section 2.5.3, Climate Change Stresses and Species and Habitat Vulnerability – Species Movement and Changing Community Composition",
+        "relevant_elements": ["1.1", "1.3", "C2"]
+      },
+      {
+        "text": "Vulnerability to climate change can be defined as the degree to which a system is exposed to, sensitive to, and able to adapt to, the effects of change. Vulnerability assessments are an important tool for determining the relative climate risk to different species and habitats",
+        "location": "Section 2.5.3, Vulnerability",
+        "relevant_elements": ["1.1", "1.2", "2.1"]
+      },
+      {
+        "text": "the intrinsic sensitivity of a given species and/or its habitat to climate exposure and related stresses, the adaptive capacity of species and habitat to these effects, and other existing environmental stresses unrelated to climate change",
+        "location": "Section 2.5.3, Vulnerability",
+        "relevant_elements": ["1.1", "1.2", "1.3"]
+      },
+      {
+        "text": "Species with low adaptive capacity such as those with specialized habitat needs or limited dispersal ability face higher vulnerability to these changes",
+        "location": "Section 2.5.3, Vulnerability",
+        "relevant_elements": ["1.1", "1.2", "1.3"]
+      },
+      {
+        "text": "climate change, which is shifting habitat ranges for many species and exposing others to new threats (e.g., drought, catastrophic wildfires), compounds the need for connectivity as species migrate to different latitudes or elevations to locate suitable habitat to survive",
+        "location": "Appendix H, Wildlife Connectivity Background",
+        "relevant_elements": ["1.4", "C2", "1.1"]
+      },
+      {
+        "text": "Linkages that could facilitate range shifts due to climate change, including areas that connect lower to higher elevations or connect to northern habitats",
+        "location": "Appendix H, Connectivity Work at CDFW",
+        "relevant_elements": ["1.4", "4.2", "C2"]
+      },
+      {
+        "text": "The Statewide Terrestrial Connectivity map, part of the CDFW Areas of Conservation Emphasis (ACE) project, presents a high-level view of connectivity across the state ... climate resilient corridors and refugia; the relative landscape intactness score",
+        "location": "Appendix H, Terrestrial Habitat Connectivity Map",
+        "relevant_elements": ["1.4", "2.4", "4.1"]
+      },
+      {
+        "text": "CDFW is currently working to fill remaining data gaps with additional fine-scale linkage studies across the state as fine-scale vegetation data become available... climate-informed linkages, which identify areas important to support species movement across the landscape in response to changing climate conditions",
+        "location": "Section 3.2.1 / Appendix H Fine-scale Connectivity Models",
+        "relevant_elements": ["1.4", "2.4", "4.1"]
+      },
+      {
+        "text": "The Nature Conservancy's Omniscape. Hexagons are then assigned to one of five ACE connectivity classes and accompanying ranks, indicating the relative importance of each area to providing opportunities for the movement and dispersal of organisms",
+        "location": "Appendix H, Terrestrial Habitat Connectivity Map",
+        "relevant_elements": ["2.4", "4.1"]
+      },
+      {
+        "text": "identified land facets (areas of land with uniform topographic and geologic features that will interact with future climate to support species and species movement under future climate conditions)",
+        "location": "Appendix H, Fine-scale Connectivity Models",
+        "relevant_elements": ["2.4", "1.4"]
+      },
+      {
+        "text": "For mammals, birds, and reptiles and amphibians, species were listed as climate vulnerable if they occur within a macrogroup that has been identified as highly vulnerable to climate change (Thorne et al. 2016a)",
+        "location": "Section 2.2, Criteria to Select Species of Greatest Conservation Need – Criterion 3",
+        "relevant_elements": ["1.1", "2.1"]
+      },
+      {
+        "text": "Species identified as Climate Priority I or Climate Priority II in A Climate Change Vulnerability Assessment of California's At-Risk Birds (Gardali et al. 2012) are included as SGCN under Criterion 3",
+        "location": "Section 2.2, Birds",
+        "relevant_elements": ["2.1", "1.1"]
+      },
+      {
+        "text": "Scientists determined the climate vulnerability for fish by using the methods and evaluation presented in Moyle et al. (2013). The methodology uses expert opinions of the authors and literature reviews of the status and biology of the fishes to score both status of each species ('baseline vulnerability') and likely impact of climate change ('climate vulnerability')",
+        "location": "Section 2.2, Fish",
+        "relevant_elements": ["2.1", "1.1"]
+      },
+      {
+        "text": "A 2016 assessment completed by UC Davis examined the climate vulnerability of California's terrestrial vegetation at the macrogroup level... This study found that 16 of 29 natural vegetation community types in California are highly or nearly highly vulnerable to end-of-century projections across four different climate futures (Thorne et al. 2016b)",
+        "location": "Section 2.5.3, Vulnerability",
+        "relevant_elements": ["2.1", "1.1"]
+      },
+      {
+        "text": "Climate exposure is one component of overall climate vulnerability and provides insight into where the climate is expected to change most drastically compared to the climate that is historically experienced by a single vegetative community",
+        "location": "Section 2.5.3, Vulnerability",
+        "relevant_elements": ["1.1"]
+      },
+      {
+        "text": "Statewide annual average maximum temperature is expected to increase roughly 5.5°F by mid-century (a 30-year period from 2035-2064) and 9°F by end-of-century (2070-2099) under a high-end emissions scenario (Pierce et al. 2018)",
+        "location": "Section 2.5.2, Temperature",
+        "relevant_elements": ["2.3"]
+      },
+      {
+        "text": "mean snow-water equivalent (a common indicator for snowpack) is projected to decline to less than two-thirds of its historical average by 2050, and to less than half the historical median by 2100 (Bedsworth et al. 2018)",
+        "location": "Section 2.5.2, Precipitation, Snowpack, and Hydrologic Regimes",
+        "relevant_elements": ["2.3", "3.5"]
+      },
+      {
+        "text": "The average area burned by wildfire could increase by 77% by the end of the century under a high-end emissions scenario, compared to a 1961-1990 baseline (Westerling 2018)",
+        "location": "Section 2.5.2, Wildfire Risk",
+        "relevant_elements": ["2.3", "3.5", "3.6"]
+      },
+      {
+        "text": "Projections were generated based on a high-end greenhouse gas emissions scenario (RCP 8.5) and multiple climate models",
+        "location": "Section 5.3, Climate Change – Temperature and Precipitation",
+        "relevant_elements": ["2.3"]
+      },
+      {
+        "text": "Act to facilitate species' and systems' ability to shift in space, tracking suitable climate conditions across the landscape, as appropriate (N)",
+        "location": "SWAP 2025 Conservation Strategy Categories / Appendix F Cross-Reference",
+        "relevant_elements": ["4.2", "C2"]
+      },
+      {
+        "text": "Identify, prioritize, protect, and manage wildlife corridors necessary to complete regional protected area networks across the entire region to facilitate the movement of native species whose distributions are projected to shift with climate change, and to provide 'refuge' areas, which may allow species to persist as the climate changes",
+        "location": "Section 5.5, South Coast Province, Target: American Southwest Riparian Forest and Woodland",
+        "relevant_elements": ["4.1", "4.2", "1.4"]
+      },
+      {
+        "text": "Consider active restoration methods for population enhancement or species reintroduction for island species that have not yet recovered from historic threats and consider climate adaptation opportunities for species naturally expanding their ranges into the California Current Ecosystem",
+        "location": "Appendix G, Conservation Strategy 3, Target: Offshore Islands",
+        "relevant_elements": ["4.2", "C2"]
+      },
+      {
+        "text": "Warming temperatures and persistent drought conditions have coincided with a large increase in the annual area burned by wildfire across the western U.S.",
+        "location": "Section 2.5.1, Wildfire Risk",
+        "relevant_elements": ["3.5", "3.6"]
+      },
+      {
+        "text": "Sea level rise brings with it an increase in coastal flooding and erosion risks... Accelerating sea level rise may result in the loss of substantial areas of important habitat for a variety of coastal species",
+        "location": "Section 2.5.3, Changing Habitat Availability and Access",
+        "relevant_elements": ["3.5"]
+      },
+      {
+        "text": "The problem of invasive species is likely to become more challenging in the future in both aquatic and terrestrial ecosystems, as climatic changes may favor the spread of these species",
+        "location": "Section 2.5.3, Spread of Invasive Species, Pests, Pathogens, and Disease",
+        "relevant_elements": ["3.7"]
+      },
+      {
+        "text": "The colonization by invasive species, particularly invasive grasses, is expected to increase with climate change (Sandel and Dangremond 2012)",
+        "location": "Section 2.5, Invasive Plants/Animals; Introduced Genetic Material",
+        "relevant_elements": ["3.7"]
+      },
+      {
+        "text": "Fire activity in 2020-2021 alone resulted in over 500 vertebrate species experiencing fire within their ranges (Ayars et al. 2023)",
+        "location": "Section 2.5.1, Wildfire Risk",
+        "relevant_elements": ["3.6"]
+      },
+      {
+        "text": "bark beetle populations have decimated tree species in California forests due to a newfound ability to survive milder minimum temperatures that occur with climate change",
+        "location": "Section 2.5.3, Spread of Invasive Species, Pests, Pathogens, and Disease",
+        "relevant_elements": ["3.7", "3.5"]
+      },
+      {
+        "text": "Changes in the timing of seasonal life-cycle events (i.e. phenology) can lead to mismatches in the timing of migration, breeding, pollination, and food availability",
+        "location": "Section 2.5.3, Changing Phenology",
+        "relevant_elements": ["3.7", "1.3"]
+      },
+      {
+        "text": "Species migration/movement and invasions, along with changes in behavior of climate-sensitive species, will alter species interactions and community dynamics; these changes may have negative effects on critical ecosystem services",
+        "location": "Section 2.5.3, Species Movement and Changing Community Composition",
+        "relevant_elements": ["3.7", "C2"]
+      },
+      {
+        "text": "ACE tool includes data on terrestrial resilience to climate change to identify areas that may serve as climate refugia in the future... some of the regional linkage studies mentioned above include climate-informed linkages, which identify areas important to support species movement across the landscape in response to changing climate conditions",
+        "location": "Section 3.2.1, Climate Change Data and Support Tools",
+        "relevant_elements": ["4.1", "2.4", "1.4"]
+      },
+      {
+        "text": "Habitat fragmentation inhibits the movement of individuals travelling between separate populations... In the case of plants, habitat fragmentation can reduce the movement of animals that carry pollen or propagules and prevent plant communities from moving over time in response to climate change",
+        "location": "Section 2.5.1, Change in Biotic Interactions and Habitat Fragmentation",
+        "relevant_elements": ["1.4", "1.3"]
+      },
+      {
+        "text": "Some of these areas, particularly in major watersheds, need to be restored to help reduce massive flows of smothering sediments... Climate change and other threats exacerbate this situation and add to the complexity of managing these unique and special islands",
+        "location": "Appendix G, Offshore Islands",
+        "relevant_elements": ["3.5"]
+      },
+      {
+        "text": "Well-placed, designed, and maintained wildlife connectivity projects, including underpasses, overpasses, and associated habitat protection and enhancement can help facilitate the safe movement of wildlife across the landscape",
+        "location": "Appendix H, Wildlife Connectivity Background",
+        "relevant_elements": ["1.4", "4.2"]
+      },
+      {
+        "text": "the NSNF project identified important core habitat areas for focal species and used species-specific data to model corridors between blocks of protected lands",
+        "location": "Appendix H, Fine-scale Connectivity Models",
+        "relevant_elements": ["2.4", "4.1"]
+      },
+      {
+        "text": "Many other tools have been developed by CDFW and others to support the translation of climate science into conservation applications. See CDFW's climate change website for additional information... such as the CDFW Adaptation Checklist for Climate-Smart Projects (CDFW and EcoAdapt 2022) and the Resist-Accept-Direct Framework (Williams 2022)",
+        "location": "Section 3.2.1, Climate Change Data and Support Tools",
+        "relevant_elements": ["4.5"]
+      },
+      {
+        "text": "Establish biological production goals for each species, coupled with specific, measurable, achievable, realistic, and time bound (i.e., SMART) ecological objectives, prioritized restoration actions, focused biotic and abiotic monitoring, and adaptive management planning frameworks",
+        "location": "Section 6, Sacramento-San Joaquin River Salmonid Ecoregion Conservation Targets",
+        "relevant_elements": ["4.3", "4.5"]
+      },
+      {
+        "text": "CDFW's intent is to improve the management of biological resources over time by incorporating adaptive management principles and processes, as appropriate, into conservation planning and resource management",
+        "location": "Section 8.3, Adaptive Management",
+        "relevant_elements": ["4.3", "4.5"]
+      },
+      {
+        "text": "Fuel load buildup, compounded with reoccurring periods of drought exacerbated by increasing temperatures due to climate change, and increased development in the wildlife urban interface (WUI), has altered fire regimes throughout the state",
+        "location": "Section 2.5.1, Fire and Fire Suppression",
+        "relevant_elements": ["3.5", "3.6"]
+      },
+      {
+        "text": "lower river flows will allow saltwater intrusion into the Bay and Delta, increasing salinity and disrupting the complex food web of the estuary",
+        "location": "Section 5.4.5, Central Valley Climate Change",
+        "relevant_elements": ["3.5"]
+      },
+      {
+        "text": "Additional methods used to identify SGCN fitting this criterion are described below for each taxonomic group... for which all MSSC expert reviewers agreed that climate change may have or is strongly suspected to have adverse effects on population or range size",
+        "location": "Section 2.2, Mammals",
+        "relevant_elements": ["1.1", "2.1"]
+      },
+      {
+        "text": "genetic diversity, habitat fragmentation and/or degradation, climate change and other anthropogenic stressors - these all influence how vulnerable or resilient an individual or population is to a pathogen",
+        "location": "Section 2.5.1, Wildlife Health",
+        "relevant_elements": ["1.1", "1.2", "1.3"]
+      },
+      {
+        "text": "This phase is designed to bolster the biota's resilience and adaptation in anticipation of climate change and to restore native species, vegetation cover, and ecological processes whose recovery has stalled",
+        "location": "Appendix G, Shared Goals for Offshore Islands",
+        "relevant_elements": ["4.5", "1.2"]
+      },
+      {
+        "text": "Population vital rates, age structure, population size, reproduction, recruitment, mortality as adaptive capacity drivers",
+        "location": "Section 3.2.1, Resource Assessment description",
+        "relevant_elements": ["1.3"]
+      }
+    ]
+  },
+  "concepts": {
+    "climate_vulnerability": {
+      "evaluable": true,
+      "score": 3,
+      "evidence": [
+        {
+          "text": "Vulnerability to climate change can be defined as the degree to which a system is exposed to, sensitive to, and able to adapt to, the effects of change. Vulnerability assessments are an important tool for determining the relative climate risk to different species and habitats",
+          "location": "Section 2.5.3, Vulnerability",
+          "sub_component": "exposure and adaptive capacity",
+          "citations": []
+        },
+        {
+          "text": "the intrinsic sensitivity of a given species and/or its habitat to climate exposure and related stresses, the adaptive capacity of species and habitat to these effects, and other existing environmental stresses unrelated to climate change",
+          "location": "Section 2.5.3, Vulnerability",
+          "sub_component": "exposure and adaptive capacity",
+          "citations": []
+        },
+        {
+          "text": "Climate exposure is one component of overall climate vulnerability and provides insight into where the climate is expected to change most drastically compared to the climate that is historically experienced by a single vegetative community",
+          "location": "Section 2.5.3, Vulnerability",
+          "sub_component": "exposure",
+          "citations": ["Thorne et al. 2016b"]
+        }
+      ],
+      "absence_note": {}
+    },
+    "adaptive_capacity_specificity": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Species with low adaptive capacity such as those with specialized habitat needs or limited dispersal ability face higher vulnerability to these changes",
+          "location": "Section 2.5.3, Vulnerability",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "genetic diversity, habitat fragmentation and/or degradation, climate change and other anthropogenic stressors - these all influence how vulnerable or resilient an individual or population is to a pathogen",
+          "location": "Section 2.5.1, Wildlife Health",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "adaptive_capacity_components": {
+      "demography": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Bats are long-lived and have low reproductive rates, living up to 40 years but typically giving birth to just 1-2 pups per year. Bats are vulnerable to noise and light pollution, habitat loss, climate change, white-nose syndrome, and wind energy",
+            "location": "Section 2.1, A Golden Bat for the Golden State",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "distribution": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "species may need to either shift within their existing ranges and/or shift their geographic range in response to climate change. These shifts may occur towards higher latitudes, higher elevations, cooler coastal environments, or local microclimatic refuges",
+            "location": "Section 2.5.3, Species Movement and Changing Community Composition",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "movement": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Species with low adaptive capacity such as those with specialized habitat needs or limited dispersal ability face higher vulnerability to these changes",
+            "location": "Section 2.5.3, Vulnerability",
+            "sub_component": null,
+            "citations": []
+          },
+          {
+            "text": "climate change, which is shifting habitat ranges for many species and exposing others to new threats (e.g., drought, catastrophic wildfires), compounds the need for connectivity as species migrate to different latitudes or elevations to locate suitable habitat to survive",
+            "location": "Appendix H, Wildlife Connectivity Background",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "evolutionary_potential": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Habitat fragmentation inhibits the movement of individuals travelling between separate populations. This reduced movement leads to inbreeding, which reduces genetic diversity and a population's ability to adapt to environmental changes",
+            "location": "Section 2.5.1, Change in Biotic Interactions and Habitat Fragmentation",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecological_dependencies": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Changes in the timing of seasonal life-cycle events (i.e. phenology) can lead to mismatches in the timing of migration, breeding, pollination, and food availability",
+            "location": "Section 2.5.3, Changing Phenology",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "abiotic_niche": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Temperature-sensitive terrestrial plant and animal species will be exposed to thermal stress as a result of warmer temperatures and the amount of additional warming and associated thermal stress may exceed the tolerance of some terrestrial species",
+            "location": "Section 2.5.3, Physiological Stress",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "life_history": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "depending upon interactions with precipitation, topography and soils, and species behavioral and life history characteristics",
+            "location": "Section 2.5.3, Species Movement and Changing Community Composition",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      }
+    },
+    "connectivity": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "climate change, which is shifting habitat ranges for many species and exposing others to new threats (e.g., drought, catastrophic wildfires), compounds the need for connectivity as species migrate to different latitudes or elevations to locate suitable habitat to survive",
+          "location": "Appendix H, Wildlife Connectivity Background",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Linkages that could facilitate range shifts due to climate change, including areas that connect lower to higher elevations or connect to northern habitats",
+          "location": "Appendix H, Connectivity Work at CDFW",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "some of the regional linkage studies mentioned above include climate-informed linkages, which identify areas important to support species movement across the landscape in response to changing climate conditions",
+          "location": "Section 3.2.1, Climate Change Data and Support Tools",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    }
+  },
+  "tools": {
+    "vulnerability_models": {
+      "evaluable": true,
+      "score": 2,
+      "named_tools": ["CCVI", "NatureServe CCVI"],
+      "evidence": [
+        {
+          "text": "For mammals, birds, and reptiles and amphibians, species were listed as climate vulnerable if they occur within a macrogroup that has been identified as highly vulnerable to climate change (Thorne et al. 2016a). For these taxonomic groups, species were also added as climate vulnerable if they were predicted to have high climate impacts across the majority of their potentially suitable habitat area regardless of future climate trajectory",
+          "location": "Section 2.2, Criterion 3",
+          "sub_component": null,
+          "citations": ["Thorne et al. 2016a", "Gogol-Prokurat and Hill 2019"]
+        },
+        {
+          "text": "A 2016 assessment completed by UC Davis examined the climate vulnerability of California's terrestrial vegetation at the macrogroup level, consistent with the terrestrial conservation targets identified in SWAP 2015. This study found that 16 of 29 natural vegetation community types in California are highly or nearly highly vulnerable to end-of-century projections across four different climate futures (Thorne et al. 2016b)",
+          "location": "Section 2.5.3, Vulnerability",
+          "sub_component": null,
+          "citations": ["Thorne et al. 2016b"]
+        },
+        {
+          "text": "Species identified as Climate Priority I or Climate Priority II in A Climate Change Vulnerability Assessment of California's At-Risk Birds (Gardali et al. 2012) are included as SGCN under Criterion 3",
+          "location": "Section 2.2, Birds",
+          "sub_component": null,
+          "citations": ["Gardali et al. 2012"]
+        }
+      ],
+      "absence_note": {}
+    },
+    "niche_models": {
+      "evaluable": true,
+      "score": 2,
+      "named_tools": ["RADMAP", "CWHR", "species habitat models"],
+      "evidence": [
+        {
+          "text": "The Range and Distribution Mapping and Analysis Project (RADMAP) identifies, develops, and maintains species habitat models and range maps for use in conservation decision making, with a focus on imperiled plants and animals... developing or updating existing (CWHR) ranges for imperiled taxa as needed, developing species-habitat models using state-of-the-art statistical modeling methods",
+          "location": "Section 3.2.1, RADMAP",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "90-100 percent of the (sub)species' currently occupied localities were predicted to decline in suitability by 2050 (Warren et al. 2014)",
+          "location": "Section 2.2, Amphibians and Reptiles, Criterion 3",
+          "sub_component": null,
+          "citations": ["Warren et al. 2014"]
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_models": {
+      "evaluable": true,
+      "score": 2,
+      "named_tools": ["Cal-Adapt", "Pierce et al. 2018 downscaled projections", "Westerling 2018 wildfire simulations", "California Climate Change Assessment"],
+      "evidence": [
+        {
+          "text": "Statewide, annual average maximum temperature is expected to increase roughly 5.5°F by mid-century (a 30-year period from 2035-2064) and 9°F by end-of-century (2070-2099) under a high-end emissions scenario (Pierce et al. 2018)",
+          "location": "Section 2.5.2, Temperature",
+          "sub_component": null,
+          "citations": ["Pierce et al. 2018"]
+        },
+        {
+          "text": "Annual area burned across the footprint of this province is expected to increase by approximately 57% by mid-century and 51% by the end of the century under a high-end emissions scenario, compared to a 1961-1990 baseline (Westerling 2018)",
+          "location": "Section 5.4.5, Wildfire Risk",
+          "sub_component": null,
+          "citations": ["Westerling 2018"]
+        },
+        {
+          "text": "Projections were generated based on a high-end greenhouse gas emissions scenario (RCP 8.5) and multiple climate models",
+          "location": "Section 5.3, Climate Change – Temperature and Precipitation",
+          "sub_component": null,
+          "citations": ["Pierce et al. 2018"]
+        }
+      ],
+      "absence_note": {},
+      "time_horizon_years": [2050, 2064, 2099, 2100],
+      "emission_scenarios": ["RCP 8.5"]
+    },
+    "connectivity_models": {
+      "evaluable": true,
+      "score": 2,
+      "named_tools": ["Omniscape", "CircuitScape", "Statewide Terrestrial Connectivity Map", "California Essential Habitat Connectivity Project (CEHC)", "ACE Connectivity"],
+      "evidence": [
+        {
+          "text": "The Nature Conservancy's Omniscape. Hexagons are then assigned to one of five ACE connectivity classes and accompanying ranks, indicating the relative importance of each area to providing opportunities for the movement and dispersal of organisms critical to maintaining healthy populations and species survival",
+          "location": "Appendix H, Terrestrial Habitat Connectivity Map",
+          "sub_component": null,
+          "citations": ["Landau et al. 2021"]
+        },
+        {
+          "text": "CDFW and partners have been working to develop regional, fine-scale connectivity analyses to identify important core areas and linkages for focal species. As of 2024, these regional analyses have been completed for approximately 60% of the state",
+          "location": "Section 3.2.1, California Terrestrial Habitat Connectivity Map",
+          "sub_component": null,
+          "citations": ["Spencer et al. 2010"]
+        },
+        {
+          "text": "In 2018, the California Biodiversity Initiative A Roadmap for Protecting the State's Natural Heritage directed CDFW to develop an updated statewide habitat connectivity map. To accomplish this, CDFW compiled available regional linkage models along with California Essential Habitat Connectivity output... and Omniscape, an ecological flow model (Landau et al. 2021)",
+          "location": "Appendix H, History of the Terrestrial Habitat Connectivity Map",
+          "sub_component": null,
+          "citations": ["Degagne et al. 2016", "Landau et al. 2021"]
+        }
+      ],
+      "absence_note": {}
+    }
+  },
+  "context": {
+    "management_scale": {
+      "local": {
+        "present": false,
+        "evidence": []
+      },
+      "site": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "CDFW is developing regional, fine-scale connectivity models to identify focal species-based habitat linkages in each region of the state",
+            "location": "Appendix H, Fine-scale Connectivity Models",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "watershed": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Target conservation actions at both landscape and watershed scales and at more local scales, based on identified desired features and attributes (N)",
+            "location": "SWAP 2025 Conservation Strategy Categories",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "city": {
+        "present": false,
+        "evidence": []
+      },
+      "county": {
+        "present": false,
+        "evidence": []
+      },
+      "within_state_region": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "As of 2024, these regional analyses cover approximately 60% of the state, including regions such as the San Francisco Bay area, California desert, Central Valley, Modoc Plateau, south coast, and the previously mentioned northern Sierra Nevada foothills",
+            "location": "Appendix H, Fine-scale Connectivity Models",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "state": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Compilation of existing habitat linkage data from multiple sources across the state into a single Statewide Terrestrial Habitat Connectivity map",
+            "location": "Appendix H, Modeling and Mapping",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "multistate": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The Cascades constitute a critical pathway for climate connectivity at a continental scale",
+            "location": "Appendix H, Fine-scale Connectivity Models (paraphrase of referenced context)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "national": {
+        "present": false,
+        "evidence": []
+      },
+      "transnational": {
+        "present": false,
+        "evidence": []
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Improving habitat connectivity and wildlife corridors through a mosaic of natural and developed areas is critical to conserving California's biodiversity and ecosystem resiliency now and into the future",
+            "location": "Appendix H, Wildlife Connectivity Background",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecoregion": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "SWAP 2025 uses 19 sections described in Bailey (1976) as the ecoregions for SWAP 2025",
+            "location": "Section 1.4, Conservation Targets",
+            "sub_component": null,
+            "citations": ["Bailey 1976"]
+          }
+        ]
+      },
+      "province": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "SWAP 2025 uses three geographic scales to organize California's terrestrial, freshwater aquatic, and marine ecosystems: provincial scale, regional conservation units, and local communities/habitats",
+            "location": "Chapter 5 introduction",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "section": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Terrestrial 'ecoregions' are defined as 'sections' in the Bailey (1995) nomenclature; these are subdivisions of provinces based on major terrain features",
+            "location": "Section 1.4, Conservation Targets",
+            "sub_component": null,
+            "citations": ["Bailey 1995"]
+          }
+        ]
+      },
+      "subsection": {
+        "present": false,
+        "evidence": []
+      },
+      "lake": {
+        "present": false,
+        "evidence": []
+      },
+      "river": {
+        "present": false,
+        "evidence": []
+      },
+      "district": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["Sierra Nevada", "Central Valley", "Bay Delta", "North Coast and Klamath Province", "South Coast Province", "Cascades and Modoc Plateau Province", "Bay Delta and Central Coast Province", "Deserts Province", "Pacific Flyway", "Salmonid Ecoregions", "Northern Sierra Nevada foothills", "San Francisco Bay area", "California desert"]
+    },
+    "biological_unit_score": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "species may need to either shift within their existing ranges and/or shift their geographic range in response to climate change",
+          "location": "Section 2.5.3, Species Movement and Changing Community Composition",
+          "sub_component": "species",
+          "citations": []
+        },
+        {
+          "text": "Species migration/movement and invasions, along with changes in behavior of climate-sensitive species, will alter species interactions and community dynamics",
+          "location": "Section 2.5.3, Species Movement and Changing Community Composition",
+          "sub_component": "community",
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "biological_unit_components": {
+      "species": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "species may need to either shift within their existing ranges and/or shift their geographic range in response to climate change. These shifts may occur towards higher latitudes, higher elevations, cooler coastal environments, or local microclimatic refuges",
+            "location": "Section 2.5.3, Species Movement and Changing Community Composition",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "population": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "for which all MSSC expert reviewers agreed that climate change may have or is strongly suspected to have adverse effects on population or range size",
+            "location": "Section 2.2, Mammals, Criterion 3",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "habitat": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Accelerating sea level rise may result in the loss of substantial areas of important habitat for a variety of coastal species",
+            "location": "Section 2.5.3, Changing Habitat Availability and Access",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "A 2016 assessment completed by UC Davis examined the climate vulnerability of California's terrestrial vegetation at the macrogroup level, consistent with the terrestrial conservation targets identified in SWAP 2015. This study found that 16 of 29 natural vegetation community types in California are highly or nearly highly vulnerable to end-of-century projections",
+            "location": "Section 2.5.3, Vulnerability",
+            "sub_component": null,
+            "citations": ["Thorne et al. 2016b"]
+          }
+        ]
+      },
+      "community": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Species migration/movement and invasions, along with changes in behavior of climate-sensitive species, will alter species interactions and community dynamics; these changes may have negative effects on critical ecosystem services",
+            "location": "Section 2.5.3, Species Movement and Changing Community Composition",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "genotype_phenotype": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["SGCN (Species of Greatest Conservation Need)", "HGCN (Habitats of Greatest Conservation Need)", "macrogroups (USNVC vegetation communities)", "salmon ESUs", "Steelhead DPS", "Tricolored Blackbird", "Gray Wolf", "Greater Sage-Grouse", "Desert Tortoise", "Western Joshua Tree", "Mule Deer", "Pronghorn", "Bighorn Sheep", "Elk", "Alpine Vegetation", "Salt Marsh", "Freshwater Marsh", "Vernal Pools", "Riparian Forest and Woodland"]
+    },
+    "partnerships_and_funding": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "An estimated ~$3 million/year is allocated to California to implement its SWAP through the SWG Program. To implement SWAP's strategies, CDFW fish and wildlife program managers meet annually to identify high priority actions to fund under the SWG program",
+          "location": "Section 3.4.1, State Wildlife Grant Program",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "CDFW, along with partners including Science and Collaboration for Connected Wildlands and the Conservation Biology Institute, have completed several fine-scale connectivity analyses to identify important regional core areas and linkages",
+          "location": "Appendix H, Fine-scale Connectivity Models",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "In 2023, CDFW established the Wildlife Connectivity Unit to prioritize and support connectivity. CDFW efforts include identifying areas where wildlife connectivity is impacted... CDFW launched a suite of online tools to identify terrestrial wildlife connectivity barriers across the state along with integrating connectivity goals throughout CDFW's programs",
+          "location": "Appendix H / Appendix I figure text",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_threat_habitat_degradation": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Fuel load buildup, compounded with reoccurring periods of drought exacerbated by increasing temperatures due to climate change, and increased development in the wildlife urban interface (WUI), has altered fire regimes throughout the state to the point that California wildfires are increasing in frequency, acreage, intensity, and severity",
+          "location": "Section 2.5.1, Fire and Fire Suppression",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Accelerating sea level rise may result in the loss of substantial areas of important habitat for a variety of coastal species. For example, coastal marshes are often constrained by deep water on one side and development on the upland side. Sea level rise could convert some of this habitat to open water",
+          "location": "Section 2.5.3, Changing Habitat Availability and Access",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "sea level rise will result in increased saltwater intrusion into freshwater resources near the coast, resulting in habitat loss for some freshwater species",
+          "location": "Section 2.5.3, Changing Habitat Availability and Access",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_threat_species_vital_rates": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Fire activity in 2020-2021 alone resulted in over 500 vertebrate species experiencing fire within their ranges (Ayars et al. 2023)",
+          "location": "Section 2.5.1, Wildfire Risk",
+          "sub_component": null,
+          "citations": ["Ayars et al. 2023"]
+        },
+        {
+          "text": "This marine heatwave had devastating effects on marine species and commercial fisheries (Rogers-Bennett and Catton 2019; Free et al. 2023)",
+          "location": "Section 2.5.1, Ocean Temperature and Chemistry",
+          "sub_component": null,
+          "citations": ["Rogers-Bennett and Catton 2019", "Free et al. 2023"]
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_threat_biotic_stressors": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "The problem of invasive species is likely to become more challenging in the future in both aquatic and terrestrial ecosystems, as climatic changes may favor the spread of these species. Invasive species are typically more competitive than native species, especially those in damaged/degraded environments",
+          "location": "Section 2.5.3, Spread of Invasive Species, Pests, Pathogens, and Disease",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "bark beetle populations have decimated tree species in California forests due to a newfound ability to survive milder minimum temperatures that occur with climate change",
+          "location": "Section 2.5.3, Spread of Invasive Species, Pests, Pathogens, and Disease",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Changes in the timing of seasonal life-cycle events (i.e. phenology) can lead to mismatches in the timing of migration, breeding, pollination, and food availability",
+          "location": "Section 2.5.3, Changing Phenology",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    }
+  },
+  "actions": {
+    "priority_habitat_identification": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "ACE tool includes data on terrestrial resilience to climate change to identify areas that may serve as climate refugia in the future, based on an assessment of predicted resiliency of vegetative communities to changes in climate throughout the state",
+          "location": "Section 3.2.1, Climate Change Data and Support Tools",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "The Statewide Terrestrial Connectivity map, part of the CDFW Areas of Conservation Emphasis (ACE) project, presents a high-level view of connectivity across the state ... climate resilient corridors and refugia; the relative landscape intactness score",
+          "location": "Appendix H, Terrestrial Habitat Connectivity Map",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Within the focus area, conservation management units are identified. These management units are based on climate, habitat quality, existing management authorities, and land ownership",
+          "location": "Section 5.6, Western Joshua Tree Conservation Plan",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "targeted_range_shift_actions": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Act to facilitate species' and systems' ability to shift in space, tracking suitable climate conditions across the landscape, as appropriate (N)",
+          "location": "SWAP 2025 Conservation Strategy Categories / Appendix F",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Identify, prioritize, protect, and manage wildlife corridors necessary to complete regional protected area networks across the entire region to facilitate the movement of native species whose distributions are projected to shift with climate change, and to provide 'refuge' areas, which may allow species to persist as the climate changes",
+          "location": "Section 5.5, South Coast Province, Target: American Southwest Riparian Forest and Woodland",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "time_bound_and_monitoring": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Establish biological production goals for each species, coupled with specific, measurable, achievable, realistic, and time bound (i.e., SMART) ecological objectives, prioritized restoration actions, focused biotic and abiotic monitoring, and adaptive management planning frameworks developed and overseen by established inter-organizational teams",
+          "location": "Section 6, Sacramento-San Joaquin River Salmonid Ecoregion Conservation Targets",
+          "sub_component": "time-bound",
+          "citations": []
+        },
+        {
+          "text": "The WCU will also work on securing internal and external funding to construct wildlife connectivity projects and monitor these projects effectiveness to improve future wildlife connectivity projects",
+          "location": "Appendix H, Connectivity Work at CDFW",
+          "sub_component": "monitoring",
+          "citations": []
+        }
+      ],
+      "absence_note": "The plan endorses adaptive management and SMART objectives broadly, but most conservation strategies in the provincial chapters lack specific deadlines attached to individual actions. The SMART objective language in Chapter 6 provides some time-bound framing but at a conceptual level rather than action-specific milestones paired with effectiveness monitoring protocols, which would be required for score 2."
+    },
+    "evidence_of_efficacy": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Lessons learned through these successful cooperative efforts described above have been published in scientific journals, textbooks, and popular media to disseminate information on conservation techniques to consider in other island conservation projects",
+          "location": "Appendix G, Offshore Islands",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Most of the introduced vertebrates were successfully removed from the Farallon and Channel Islands over the past four decades, and island fox populations, as well as populations of other native animals and plants, have made remarkable comebacks as a result",
+          "location": "Appendix G, Offshore Islands",
+          "sub_component": null,
+          "citations": ["Spatz et al. 2022"]
+        }
+      ],
+      "absence_note": "The document references numerous success stories and prior conservation outcomes (Channel Islands, dam removal, trout eradication) that constitute limited-to-moderate evidence of efficacy for specific actions. Evidence is drawn primarily from different taxa or systems than the full SGCN list, and most of the action tables do not cite specific efficacy studies. Score is 2 (limited evidence) rather than 3 (strong evidence) because the bulk of the action strategies lack directly applicable efficacy citations.",
+      "projects": ["Channel Islands invasive species eradication: Removal of feral animals and invasive species over four decades resulted in recovery of island fox populations (three ESA delistings), expansion of seabird colonies, and reestablishment of rare species, documented in scientific journals and cited as providing strong evidence for eradication-based management.", "Klamath River Dam Removal: Removal of four mainstem dams completed by fall 2024 allowed volitional fish passage to approximately 400 river miles; Coho Salmon entered tributaries above former dam sites for the first time in over 60 years, providing direct evidence of restoration efficacy for anadromous fish.", "Non-native trout removal from Sierra Nevada lakes: Three decades of trout eradication restored mountain yellow-legged frog populations in some basins, with studies documenting frog recovery following fish removal (Knapp et al. 2016), providing field-level evidence for this management action."]
+    },
+    "adaptation_planning_frameworks": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Many other tools have been developed by CDFW and others to support the translation of climate science into conservation applications. See CDFW's climate change website for additional information... such as the CDFW Adaptation Checklist for Climate-Smart Projects (CDFW and EcoAdapt 2022) and the Resist-Accept-Direct Framework (Williams 2022)",
+          "location": "Section 3.2.1, Climate Change Data and Support Tools",
+          "sub_component": null,
+          "citations": ["Williams 2022", "CDFW and EcoAdapt 2022"]
+        },
+        {
+          "text": "This appendix illustrates how the conservation strategies in the SWAP (Chapter 4), correspond with state and federal climate adaptation goals and strategies. The California Climate Adaption Strategy (state goals; CNRA 2025), described in Section 2.5, aligns with the national strategy, which is detailed in the National Fish, Wildlife, and Plants Climate Adaptation Strategy",
+          "location": "Appendix F, Climate Adaptation Strategies Cross-Reference Guide",
+          "sub_component": null,
+          "citations": ["CNRA 2025", "National Fish, Wildlife, and Plants Climate Adaptation Network 2021"]
+        },
+        {
+          "text": "This cross-reference highlights how implementing specific SWAP conservation strategies may contribute to implementing a state of national climate change goal or strategy, thereby helping to achieve climate adaptation co-benefits",
+          "location": "Appendix F, Climate Adaptation Strategies Cross-Reference Guide",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    }
+  },
+  "coding_meta": {
+    "coder": "llm:claude-sonnet-4-6",
+    "model": "claude-sonnet-4-6",
+    "provider": "claude",
+    "codebook_version": "0.4",
+    "ingest": "text",
+    "design": "single",
+    "temperature": null,
+    "thinking": null,
+    "thinking_effort": null,
+    "coded_at": "2026-07-06T18:39:20Z",
+    "notes": {}
+  }
+}

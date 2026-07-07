@@ -1,0 +1,647 @@
+{
+  "document_meta": {
+    "title": "Maine Forest Action Plan 2020",
+    "year": 2020,
+    "jurisdiction": "Maine",
+    "document_type": "Forest Action Plan",
+    "document_id": "ME_FAP_2020",
+    "page_count": 171
+  },
+  "orientation": {
+    "summary": "This is Maine's 2020 State Forest Action Plan (FAP), a federally required planning document produced by the Maine Forest Service (MFS) under the 2008 Farm Bill. The document covers forest resource conditions, threats, opportunities, and long-term strategies for Maine's forests, with a significant focus on timber economy, forest health (insects/diseases), fire management, landowner assistance, and biodiversity conservation. Climate change is acknowledged as a cross-cutting concern throughout the document, with a dedicated section on 'Address climate change and its impacts on Maine's forests' and a formal State Goal/Theme 3 on the topic. Regarding range shifts specifically, the document mentions projected changes in forest species composition under climate change (boreal species declining, southern species expanding), cites modeling work on eastern hemlock range expansion, and references a Manomet vulnerability assessment of habitats and priority species — but performs no original range-shift modeling itself, relying instead on cited external work. Management responses to climate are framed primarily in terms of forest resilience, active management, carbon sequestration, and forest composition adaptation rather than explicit wildlife range-shift facilitation.",
+    "evidence_index": [
+      {
+        "text": "Maine's climate is changing. All three of Maine's climate divisions are warmer than 30 years ago, and sea levels have risen several inches over the last century. The seasonality of weather events also is shifting, with earlier snowmelt, peak river flows, and ice-out on lakes.",
+        "location": "Address climate change and its impacts on Maine's forests",
+        "relevant_elements": ["1.1", "3.5"]
+      },
+      {
+        "text": "The modeling scenarios examined by the authors of 'Maine's Climate Future' suggest that for the 21st century, there is a strong trend in Maine toward warmer and wetter conditions in all seasons. More winter precipitation is likely to occur as rain.",
+        "location": "Address climate change and its impacts on Maine's forests",
+        "relevant_elements": ["1.1", "2.3", "3.5"]
+      },
+      {
+        "text": "Climate change modeling suggests that Maine will continue to have abundant forests, but the composition is likely to change, e.g. a decline in the presence of boreal species such as the spruces and balsam fir, as well as northern hardwoods, and an increase in the presence of mixed oak-hickory types, white pine, and more aggressive deciduous species such as red maple.",
+        "location": "Address climate change and its impacts on Maine's forests",
+        "relevant_elements": ["1.1", "2.2", "2.3", "3.3", "3.5"]
+      },
+      {
+        "text": "For example, modeling by Dunckel, Weiskittel, and Fiske showed potential for range expansion northward for eastern hemlock in Maine.",
+        "location": "Address climate change and its impacts on Maine's forests",
+        "relevant_elements": ["1.1", "2.2", "2.3", "3.3"]
+      },
+      {
+        "text": "Species will be most vulnerable at the southern extent of their ranges. Northern/boreal species such as spruce, balsam fir, and aspen are most vulnerable across the state and especially at the southern edge of their range.",
+        "location": "Address climate change and its impacts on Maine's forests",
+        "relevant_elements": ["1.1", "1.2", "1.3"]
+      },
+      {
+        "text": "Forest biodiversity likely will change as well, with some species of plants and animals disappearing while new ones become established, e.g. a recession of northern species at the southern edge of their native ranges, and an advancement of southern species at the northern edge of their native ranges (assuming no barriers to migration).",
+        "location": "Address climate change and its impacts on Maine's forests",
+        "relevant_elements": ["1.1", "1.3", "1.4", "3.3"]
+      },
+      {
+        "text": "Active forest management can make forests more resilient to the impacts of climate change. Actions that can improve forest resiliency include, but are not limited to: frequent monitoring of conditions, control of invasive species, planting tree species adapted to likely future conditions, maintaining a diversity of species across one's ownership",
+        "location": "Address climate change and its impacts on Maine's forests",
+        "relevant_elements": ["1.2", "4.1", "4.2", "4.5"]
+      },
+      {
+        "text": "5.18. Promote efforts to allow forests to adapt to climate change -e.g.: • Maintain large contiguous areas as forests; • Reduce other stressors; • Encourage species suited to future climates.",
+        "location": "State Goal/Theme 5: Maintain the health and resiliency of Maine's forests",
+        "relevant_elements": ["4.1", "4.2", "4.5"]
+      },
+      {
+        "text": "3.1 Explore opportunities to strengthen forest resilience and adaptive capacity.",
+        "location": "State Goal/Theme 3: Address climate change and its impacts on Maine's forests",
+        "relevant_elements": ["1.2", "4.5"]
+      },
+      {
+        "text": "3.3 Continue to monitor changes through FIA and provide for focused modeling.",
+        "location": "State Goal/Theme 3: Address climate change and its impacts on Maine's forests",
+        "relevant_elements": ["4.3", "2.3"]
+      },
+      {
+        "text": "3.4 Continue efforts to promote active forest management as a means to capture atmospheric carbon, create resilient forests, and adapt forests to climate change.",
+        "location": "State Goal/Theme 3: Address climate change and its impacts on Maine's forests",
+        "relevant_elements": ["4.2", "4.5"]
+      },
+      {
+        "text": "Indicators point to an increasing threat from human caused fires and weather conditions consistent with high fire danger resulting from climate change.",
+        "location": "Fire",
+        "relevant_elements": ["3.5", "3.6"]
+      },
+      {
+        "text": "Some climate change model scenarios predict wetter than normal spring and summer fire seasons coupled with high intensity, short duration droughts. Should such droughts materialize, it would be cause for concern, as Maine's spring fire season is driven by the drying of fine fuels",
+        "location": "Address climate change and its impacts on Maine's forests",
+        "relevant_elements": ["3.5", "3.6"]
+      },
+      {
+        "text": "Biologists generally agree that climate change, habitat loss, degradation, fragmentation, and invasive species pose the greatest current threats to biodiversity (NatureServe, 2002; Noss et al, 1995; B. Vickery, 2002, personal communication).",
+        "location": "Conserve forest biodiversity",
+        "relevant_elements": ["1.1", "1.4", "3.5"]
+      },
+      {
+        "text": "climate change has the potential to change radically the composition and structure of Maine's forests (Hong et al, 2002).",
+        "location": "Conserve forest biodiversity",
+        "relevant_elements": ["1.1", "3.5"]
+      },
+      {
+        "text": "The figure on the following page shows the most recent projections for impacts on major forest species (from Janowiak et al, 2018).",
+        "location": "Address climate change and its impacts on Maine's forests",
+        "relevant_elements": ["1.1", "2.1", "2.2"]
+      },
+      {
+        "text": "Climate change also is a common theme across agencies.",
+        "location": "Other Plans Incorporated in the Statewide Assessment and Strategy",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "In February 2019, Governor Janet Mills announced that Maine had joined the U.S. Climate Alliance. In June 2019, Governor Mills and the Legislature created the Maine Climate Council",
+        "location": "Other Plans Incorporated in the Statewide Assessment and Strategy",
+        "relevant_elements": ["3.4", "4.5"]
+      },
+      {
+        "text": "3.2 Establish a meaningful role for MFS in the work of the Maine Climate Council.",
+        "location": "State Goal/Theme 3: Address climate change and its impacts on Maine's forests",
+        "relevant_elements": ["3.4", "4.5"]
+      },
+      {
+        "text": "Some of the expansion may be attributable to warmer late-summer and early fall temperatures associated with a changing climate.",
+        "location": "Criterion 9: Forest Health",
+        "relevant_elements": ["3.7"]
+      },
+      {
+        "text": "The forestry community has paid increasing attention to the importance of proper sizing of stream crossings to allow for fish and other organism passage, maintain habitat continuity, and account for the impacts of a changing climate (e.g. more frequent severe storms and flashier flows).",
+        "location": "Criterion 2: Water quality, wetlands and riparian zones",
+        "relevant_elements": ["1.4", "3.5"]
+      },
+      {
+        "text": "Climate change will make the need for active community programs more important.",
+        "location": "Maintain healthy trees and woodlands in urban and community areas",
+        "relevant_elements": ["1.1"]
+      },
+      {
+        "text": "Achieve state carbon 2045 Reduce Maine's greenhouse gas emissions by the targets outlined in state law -45% below 1990 levels by 2030 and 80% below 1990. 2050 and Ensure that Maine people, industries, and communities are resilient to the impacts of climate change.",
+        "location": "References",
+        "relevant_elements": ["4.5"]
+      },
+      {
+        "text": "Whitman, A. 2013. Climate change and biodiversity in Maine: vulnerability of habitats and priority species.",
+        "location": "References",
+        "relevant_elements": ["2.1", "1.1"]
+      },
+      {
+        "text": "Maintaining and increasing carbon storage, contributing to reducing levels of atmospheric greenhouse gases, and facilitating the adaptation of forest systems to a changing climate.",
+        "location": "Overall goals for Maine's forests",
+        "relevant_elements": ["4.5", "1.1"]
+      },
+      {
+        "text": "Conserve working and natural lands and waters through a dedicated, sustained funding source to support a robust forest products and agricultural economy, increase carbon storage opportunities, avoid future emissions, and enhance climate adaptation and resilience.",
+        "location": "Other Plans Incorporated in the Statewide Assessment and Strategy",
+        "relevant_elements": ["4.5", "3.4"]
+      },
+      {
+        "text": "MFS has identified several critical and interrelated issues... • Insect and disease and non-native species threats. Several exotic insects and diseases, some established, some not yet here, threaten significant components of Maine's forests.",
+        "location": "Challenges",
+        "relevant_elements": ["3.7"]
+      },
+      {
+        "text": "Infection potential is largely driven by weather conditions of cool, wet springs and prolonged periods of wet weather in summers. Such weather trends are favorable to the fungus and have characterized weather in Maine for the past decade.",
+        "location": "Diseases a) White Pine needle diseases",
+        "relevant_elements": ["3.5", "3.6"]
+      },
+      {
+        "text": "Maine's 2015 State Wildlife Action Plan identified 378 'Species of Greatest Conservation Need,' of which over 40% are associated with Northern Hardwood and Conifer Forests.",
+        "location": "Criterion 9: Forest Health",
+        "relevant_elements": ["3.3", "4.1"]
+      }
+    ]
+  },
+  "concepts": {
+    "climate_vulnerability": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Species will be most vulnerable at the southern extent of their ranges. Northern/boreal species such as spruce, balsam fir, and aspen are most vulnerable across the state and especially at the southern edge of their range.",
+          "location": "Address climate change and its impacts on Maine's forests",
+          "sub_component": "sensitivity/exposure",
+          "citations": []
+        },
+        {
+          "text": "Climate change modeling suggests that Maine will continue to have abundant forests, but the composition is likely to change, e.g. a decline in the presence of boreal species such as the spruces and balsam fir, as well as northern hardwoods, and an increase in the presence of mixed oak-hickory types",
+          "location": "Address climate change and its impacts on Maine's forests",
+          "sub_component": "exposure",
+          "citations": []
+        },
+        {
+          "text": "Active forest management can make forests more resilient to the impacts of climate change. Actions that can improve forest resiliency include, but are not limited to: frequent monitoring of conditions, control of invasive species, planting tree species adapted to likely future conditions",
+          "location": "Address climate change and its impacts on Maine's forests",
+          "sub_component": "adaptive capacity",
+          "citations": []
+        }
+      ],
+      "absence_note": "The document references both climate exposure (projected range changes, vulnerability at southern range limits) and adaptive capacity (forest resilience, planting adapted species). However, neither axis is operationalized with formal vulnerability metrics or a structured IPCC-style decomposition — the framing is general/qualitative. Score 2 is assigned because both exposure and adaptive capacity are discussed, even if not via a formal framework. Score 3 requires both axes to be explicitly referenced together in a structured way."
+    },
+    "adaptive_capacity_specificity": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "3.1 Explore opportunities to strengthen forest resilience and adaptive capacity.",
+          "location": "State Goal/Theme 3: Address climate change and its impacts on Maine's forests",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "Adaptive capacity is mentioned in Strategy 3.1 and implicitly in discussions of forest resilience and species composition change, but is not broken down into specific biological components such as dispersal ability, evolutionary potential, or thermal niche. Score 1 reflects generic reference without specific component identification."
+    },
+    "adaptive_capacity_components": {
+      "demography": {
+        "present": false,
+        "evidence": []
+      },
+      "distribution": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Forest biodiversity likely will change as well, with some species of plants and animals disappearing while new ones become established, e.g. a recession of northern species at the southern edge of their native ranges, and an advancement of southern species at the northern edge of their native ranges (assuming no barriers to migration).",
+            "location": "Address climate change and its impacts on Maine's forests",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "movement": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Forest biodiversity likely will change as well, with some species of plants and animals disappearing while new ones become established, e.g. a recession of northern species at the southern edge of their native ranges, and an advancement of southern species at the northern edge of their native ranges (assuming no barriers to migration).",
+            "location": "Address climate change and its impacts on Maine's forests",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "evolutionary_potential": {
+        "present": false,
+        "evidence": []
+      },
+      "ecological_dependencies": {
+        "present": false,
+        "evidence": []
+      },
+      "abiotic_niche": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Species will be most vulnerable at the southern extent of their ranges. Northern/boreal species such as spruce, balsam fir, and aspen are most vulnerable across the state and especially at the southern edge of their range. Other common species, such as sugar maple and white pine, are expected to be vulnerable under more substantial warming and climate change.",
+            "location": "Address climate change and its impacts on Maine's forests",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "life_history": {
+        "present": false,
+        "evidence": []
+      }
+    },
+    "connectivity": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "5.18. Promote efforts to allow forests to adapt to climate change -e.g.: • Maintain large contiguous areas as forests; • Reduce other stressors; • Encourage species suited to future climates.",
+          "location": "State Goal/Theme 5: Maintain the health and resiliency of Maine's forests",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document references maintaining large contiguous forest areas as a climate adaptation strategy, and mentions 'no barriers to migration' in passing when discussing species range shifts. However, there is no explicit framing of connectivity as a climate corridor or climate-gradient mechanism. 'Assuming no barriers to migration' is a parenthetical caveat, not an operational connectivity discussion. The mention of large contiguous forests supports score 1 (generic connectivity reference) but does not rise to score 2 (explicit climate connectivity framing). The stream crossing discussion references habitat continuity for aquatic organisms but not climate-driven range shifts."
+    }
+  },
+  "tools": {
+    "vulnerability_models": {
+      "evaluable": true,
+      "score": 1,
+      "named_tools": ["climate vulnerability assessment"],
+      "evidence": [
+        {
+          "text": "Whitman, A. 2013. Climate change and biodiversity in Maine: vulnerability of habitats and priority species.",
+          "location": "References",
+          "sub_component": null,
+          "citations": ["Whitman, A. SEI-2013-03. 2013. Manomet Center for Conservation Sciences, Brunswick, ME."]
+        }
+      ],
+      "absence_note": "The document cites a climate vulnerability assessment of habitats and priority species for Maine (Whitman 2013), but does not apply its results to drive specific management decisions for the plan's focal species/habitats beyond general mentions of species vulnerability. The Janowiak et al. 2018 reference is also cited for projections on major forest species, but again not operationally applied. Score 1 for referenced generally."
+    },
+    "niche_models": {
+      "evaluable": true,
+      "score": 2,
+      "named_tools": [],
+      "evidence": [
+        {
+          "text": "For example, modeling by Dunckel, Weiskittel, and Fiske showed potential for range expansion northward for eastern hemlock in Maine.",
+          "location": "Address climate change and its impacts on Maine's forests",
+          "sub_component": null,
+          "citations": ["Dunckel, K., A. Weiskittel, and G. Fiske. 2017. Projected future distribution of tsuga canadensis across alternative climate scenarios in Maine. US. Forests 8(8):285."]
+        },
+        {
+          "text": "Climate change modeling suggests that Maine will continue to have abundant forests, but the composition is likely to change, e.g. a decline in the presence of boreal species such as the spruces and balsam fir",
+          "location": "Address climate change and its impacts on Maine's forests",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The Dunckel et al. 2017 reference to projected future distribution of eastern hemlock across alternative climate scenarios in Maine represents application of a species distribution model to a focal Maine species. This meets the 'applied' criterion per codebook §4 rule 2: the document substantively incorporates prior tool-based results (range expansion projections for hemlock) into discussion of its focal subject (Maine's forests and their composition change). Score 2."
+    },
+    "climate_models": {
+      "evaluable": true,
+      "score": 1,
+      "named_tools": [],
+      "evidence": [
+        {
+          "text": "The modeling scenarios examined by the authors of 'Maine's Climate Future' suggest that for the 21st century, there is a strong trend in Maine toward warmer and wetter conditions in all seasons.",
+          "location": "Address climate change and its impacts on Maine's forests",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document references 'modeling scenarios' from 'Maine's Climate Future' and 'Climate change modeling' generically without naming specific GCMs, RCPs, SSPs, or downscaling products. The Dunckel et al. 2017 paper references 'alternative climate scenarios' but the document itself does not specify which. Score 1 for general reference to climate model scenarios without naming specific tools or scenarios.",
+      "time_horizon_years": [],
+      "emission_scenarios": []
+    },
+    "connectivity_models": {
+      "evaluable": true,
+      "score": 0,
+      "named_tools": [],
+      "evidence": [],
+      "absence_note": "No connectivity modeling tools are referenced or applied. Qualitative mentions of 'large contiguous areas' and habitat continuity do not involve any modeling apparatus."
+    }
+  },
+  "context": {
+    "management_scale": {
+      "local": {
+        "present": false,
+        "evidence": []
+      },
+      "site": {
+        "present": false,
+        "evidence": []
+      },
+      "watershed": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The forestry community has paid increasing attention to the importance of proper sizing of stream crossings to allow for fish and other organism passage, maintain habitat continuity, and account for the impacts of a changing climate",
+            "location": "Criterion 2: Water quality, wetlands and riparian zones",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "city": {
+        "present": false,
+        "evidence": []
+      },
+      "county": {
+        "present": false,
+        "evidence": []
+      },
+      "within_state_region": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Northern/boreal species such as spruce, balsam fir, and aspen are most vulnerable across the state and especially at the southern edge of their range.",
+            "location": "Address climate change and its impacts on Maine's forests",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "state": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Climate change modeling suggests that Maine will continue to have abundant forests, but the composition is likely to change, e.g. a decline in the presence of boreal species such as the spruces and balsam fir",
+            "location": "Address climate change and its impacts on Maine's forests",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "multistate": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Forest biodiversity likely will change as well, with some species of plants and animals disappearing while new ones become established, e.g. a recession of northern species at the southern edge of their native ranges, and an advancement of southern species at the northern edge of their native ranges",
+            "location": "Address climate change and its impacts on Maine's forests",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "national": {
+        "present": false,
+        "evidence": []
+      },
+      "transnational": {
+        "present": false,
+        "evidence": []
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Climate change modeling suggests that Maine will continue to have abundant forests, but the composition is likely to change, e.g. a decline in the presence of boreal species such as the spruces and balsam fir, as well as northern hardwoods, and an increase in the presence of mixed oak-hickory types",
+            "location": "Address climate change and its impacts on Maine's forests",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecoregion": {
+        "present": false,
+        "evidence": []
+      },
+      "province": {
+        "present": false,
+        "evidence": []
+      },
+      "section": {
+        "present": false,
+        "evidence": []
+      },
+      "subsection": {
+        "present": false,
+        "evidence": []
+      },
+      "lake": {
+        "present": false,
+        "evidence": []
+      },
+      "river": {
+        "present": false,
+        "evidence": []
+      },
+      "district": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["Maine (state)", "Southern Maine", "Northern Maine", "Northern Forest Lands"]
+    },
+    "biological_unit_score": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Climate change modeling suggests that Maine will continue to have abundant forests, but the composition is likely to change, e.g. a decline in the presence of boreal species such as the spruces and balsam fir",
+          "location": "Address climate change and its impacts on Maine's forests",
+          "sub_component": "species",
+          "citations": []
+        },
+        {
+          "text": "Forest biodiversity likely will change as well, with some species of plants and animals disappearing while new ones become established, e.g. a recession of northern species at the southern edge of their native ranges, and an advancement of southern species at the northern edge of their native ranges",
+          "location": "Address climate change and its impacts on Maine's forests",
+          "sub_component": "community/ecosystem",
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "biological_unit_components": {
+      "species": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "For example, modeling by Dunckel, Weiskittel, and Fiske showed potential for range expansion northward for eastern hemlock in Maine.",
+            "location": "Address climate change and its impacts on Maine's forests",
+            "sub_component": null,
+            "citations": ["Dunckel, K., A. Weiskittel, and G. Fiske. 2017."]
+          }
+        ]
+      },
+      "population": {
+        "present": false,
+        "evidence": []
+      },
+      "habitat": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Whitman, A. 2013. Climate change and biodiversity in Maine: vulnerability of habitats and priority species.",
+            "location": "References",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Climate change modeling suggests that Maine will continue to have abundant forests, but the composition is likely to change, e.g. a decline in the presence of boreal species such as the spruces and balsam fir, as well as northern hardwoods, and an increase in the presence of mixed oak-hickory types",
+            "location": "Address climate change and its impacts on Maine's forests",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "community": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Forest biodiversity likely will change as well, with some species of plants and animals disappearing while new ones become established, e.g. a recession of northern species at the southern edge of their native ranges, and an advancement of southern species at the northern edge of their native ranges",
+            "location": "Address climate change and its impacts on Maine's forests",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "genotype_phenotype": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["spruce", "balsam fir", "aspen", "sugar maple", "white pine", "red maple", "eastern hemlock", "oak-hickory types", "northern hardwoods", "boreal species"]
+    },
+    "partnerships_and_funding": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "3.2 Establish a meaningful role for MFS in the work of the Maine Climate Council.",
+          "location": "State Goal/Theme 3: Address climate change and its impacts on Maine's forests",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "In June 2019, Governor Mills and the Legislature created the Maine Climate Council, an assembly of scientists, industry leaders, bipartisan local and state officials, and engaged citizens to develop a four-year plan to put Maine on a trajectory to reduce emissions by 45% by 2030 and at least 80% by 2050.",
+          "location": "Other Plans Incorporated in the Statewide Assessment and Strategy",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document describes some partnerships relevant to climate (Maine Climate Council, interagency coordination) and aspirational strategies (3.1-3.5), but no dedicated funding is allocated specifically for range-shift actions. Partnerships mentioned are aspirational or incipient (MFS seeking a 'meaningful role' in the Maine Climate Council), not active funded implementations. Score 1 for limited/aspirational partnerships."
+    },
+    "climate_threat_habitat_degradation": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Some climate change model scenarios predict wetter than normal spring and summer fire seasons coupled with high intensity, short duration droughts. Should such droughts materialize, it would be cause for concern, as Maine's spring fire season is driven by the drying of fine fuels that ignite larger fuels in forested setting.",
+          "location": "Address climate change and its impacts on Maine's forests",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_threat_species_vital_rates": {
+      "evaluable": true,
+      "score": 0,
+      "evidence": [],
+      "absence_note": "The document discusses insects and diseases affecting forest health extensively, and climate is mentioned as a contributing factor in some places (e.g., browntail moth expansion possibly attributable to warmer temperatures, drought predisposing trees to HWA mortality). However, the framing is not a direct climate-event-to-vital-rate chain. The browntail moth passage says only 'some of the expansion may be attributable to warmer…temperatures' — speculative and focused on pest range, not species vital rates. Red pine disease is linked to weather conditions but as a habitat/stand-level effect. No passage clearly frames climate → direct species mortality or reproduction failure in the requisite way."
+    },
+    "climate_threat_biotic_stressors": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Some of the expansion may be attributable to warmer late-summer and early fall temperatures associated with a changing climate.",
+          "location": "Criterion 9: Forest Health",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The browntail moth expansion linked (cautiously) to warming temperatures represents a climate-favored biotic stressor. Score 1. The invasive plant discussion does not include climate framing."
+    }
+  },
+  "actions": {
+    "priority_habitat_identification": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "5.18. Promote efforts to allow forests to adapt to climate change -e.g.: • Maintain large contiguous areas as forests; • Reduce other stressors; • Encourage species suited to future climates.",
+          "location": "State Goal/Theme 5: Maintain the health and resiliency of Maine's forests",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document identifies priority landscape areas (family woodlands, urban/community forests, rural/large parcels, important natural resources) with associated maps referenced in figures, but these are not specifically framed around climate-driven range shifts. The climate adaptation strategies discuss maintaining large contiguous forests but do not identify spatially explicit priority areas for range-shift management. Score 1 (discussed but not spatially represented in a climate range-shift context)."
+    },
+    "targeted_range_shift_actions": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Actions that can improve forest resiliency include, but are not limited to: frequent monitoring of conditions, control of invasive species, planting tree species adapted to likely future conditions, maintaining a diversity of species across one's ownership",
+          "location": "Address climate change and its impacts on Maine's forests",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The action 'planting tree species adapted to likely future conditions' represents structural facilitation — managing forest composition to track shifting climate suitability. Strategy 5.18 also mentions 'Encourage species suited to future climates.' These are direct management actions explicitly motivated by climate change and shifting habitat suitability. Score 1 (structural facilitation category). No assisted migration or wildlife translocation for climate purposes is mentioned."
+    },
+    "time_bound_and_monitoring": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "3.3 Continue to monitor changes through FIA and provide for focused modeling.",
+          "location": "State Goal/Theme 3: Address climate change and its impacts on Maine's forests",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The climate-related strategies (3.1-3.5) lack specific deadlines or milestones. Ongoing FIA monitoring is referenced (Strategy 3.3) and the document mentions the Maine Climate Council's four-year plan, but climate-specific actions do not have action-level time-bound commitments. Score 1 for monitoring reference without clear deadlines attached to specific actions."
+    },
+    "evidence_of_efficacy": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "The modeling scenarios examined by the authors of 'Maine's Climate Future' suggest that for the 21st century, there is a strong trend in Maine toward warmer and wetter conditions in all seasons.",
+          "location": "Address climate change and its impacts on Maine's forests",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "The figure on the following page shows the most recent projections for impacts on major forest species (from Janowiak et al, 2018).",
+          "location": "Address climate change and its impacts on Maine's forests",
+          "sub_component": null,
+          "citations": ["Janowiak, M. 2018. New England and New York forest ecosystem vulnerability assessment and synthesis."]
+        }
+      ],
+      "absence_note": "The document cites external studies (Janowiak 2018, Dunckel et al. 2017, Whitman 2013) to support climate adaptation actions. These studies provide limited evidence — they are regional/state-level projections and vulnerability assessments rather than direct evaluations of implemented actions. Score 2 (limited evidence from studies with some applicability but not direct efficacy testing of the specific actions proposed).",
+      "projects": ["Dunckel, Weiskittel, and Fiske (2017) modeled projected future distribution of eastern hemlock across alternative climate scenarios in Maine, providing limited direct evidence for range expansion projections that inform species-composition management actions. The study is directly applicable to a Maine focal species but tests projections rather than management action outcomes.", "Janowiak et al. (2018) New England and New York forest ecosystem vulnerability assessment is cited for projections on major forest species impacts, providing science-based rationale for climate adaptation actions but representing a regional vulnerability assessment rather than an evaluation of specific implemented actions."]
+    },
+    "adaptation_planning_frameworks": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "3.1 Explore opportunities to strengthen forest resilience and adaptive capacity.",
+          "location": "State Goal/Theme 3: Address climate change and its impacts on Maine's forests",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document references climate adaptation planning in a non-specific way (strengthening resilience, adapting forests to climate change, engaging with Maine Climate Council). No specific named framework such as RAD, RRT, Structured Decision Making, or adaptation menus is referenced. Strategy 3.1 references 'adaptive capacity' and 3.4 references promoting active management for climate adaptation, but these are not framed within any named planning process. Score 1 (referenced generically, not with a specific named framework)."
+    }
+  },
+  "coding_meta": {
+    "coder": "llm:claude-sonnet-4-6",
+    "model": "claude-sonnet-4-6",
+    "provider": "claude",
+    "codebook_version": "0.4",
+    "ingest": "text",
+    "design": "single",
+    "temperature": null,
+    "thinking": null,
+    "thinking_effort": null,
+    "coded_at": "2026-07-07T00:31:31Z",
+    "notes": {}
+  }
+}

@@ -1,0 +1,4705 @@
+## Introduction and Purpose
+
+Much of Connecticut is forested and we intend to keep it that way. The Connecticut Department of Energy and Environmental Protection (DEEP) and its many partners and constituents are striving to keep forests as forests. A statewide goal of no net forest loss will focus on keeping forests present, connected, healthy, and productive for the people and ecosystems of Connecticut. Maximizing the total amount of forest, its connectedness, and its health provides benefits for wildlife habitat, water quality protection, carbon storage and sequestration, biodiversity, resilience to damaging agents like weather and insects, forest products and economic benefits, recreational opportunities, among many others.
+Connecticut's forests and trees add immensely to the quality of life for the people of the state. They filter the air we breathe, safeguard private and public drinking water sources, produce locally-grown forest products, provide essential habitat for wildlife, and moderate summer and winter temperatures near homes. Whether people in Connecticut live in an urban, suburban, or rural setting, they are connected to the forest. Forests and trees are integral to the character of Connecticut.
+Depending on which data are used, Connecticut's forests cover approximately 56 -61% of the state. University of Connecticut's Center for Land Use Education and Research (CLEAR) used remote sensing to measure the amount of forest in the state in 2015 and found 1,873,471 forested acres (includes deciduous and coniferous forest, forested wetland, and utility right-of-way) out of 3,078,017 total land acres, which is about 61% (University of Connecticut Center for Land Use 
+Education and Research, 2016)
+. The United States Department of Agriculture, Forest Service (U.S. Forest Service) used its Forest Inventory and Analysis (FIA) sampling methods to determine the amount of forest in the state in 2018 and found 1,789,611 forested acres out of 3,203,694 total acres, which is about 56%. Using 2017 FIA data in summary of all the states had Connecticut as the 14 th most forested state in the United States 
+(Oswalt, 2018)
+. This is remarkable considering Connecticut is the fourth most-densely populated state. Only Massachusetts is similarly dense and as heavily forested.
+The State Forest Action Plan is required by the Cooperative Forest Assistance Act (CFAA) last amended by the Food, Conservation, and Energy Act of 2018, commonly referred to as the Farm Bill. All States wishing to be eligible to receive direct financial assistance, apply for competitive grants, and accept other support from the U.S. Forest Service through the CFAA must submit these reports by December 31, 2020. State Assessments are intended to identify key forestrelated issues and priorities to support development of the long-term State Strategies.
+State assessments and strategies focus on three national State and Private Forestry (S&PF) priorities:
+1. Conserve and manage working forest landscapes for multiple values and uses;
+2. Protecting forests from threats; and 3. Enhancing public benefits from trees and forests.
+State and Private Forestry Programs directly benefitting from CFAA and administered by the Forestry Division and the Connecticut Agricultural Experiment Station (CAES) improve the health, productivity, benefits and extent of rural, suburban and urban forests owned and managed by state, municipal, corporate, private organizations, and family landowners. These core programs are as follows:
+1. Forest Health Management -monitoring and managing harmful forest pests 2. Cooperative Fire (State Fire Assistance and Volunteer Fire Assistance programs)training for local wildland fire fighters, administering grants to fire departments for wildfire suppression readiness, and maintaining a nationally deployable wildfire response team.
+3. Forest Stewardship -providing education and outreach to family forest owners encouraging them to retain their forest as forest and achieve their stewardship goals.
+4. Urban and Community Forestry -improving urban and community forests by providing education, information, and financial resources to municipal and non-profit partners.
+5. Conservation Education -educating the next generation of environmental stewards through Project Learning Tree ® (PLT) and supporting the No Child Left Inside ® initiative.
+6. Forest Legacy Program and Community Forest Program -protecting privately-owned forests that protect water quality, provide habitat, forest products, opportunities for recreation, and other public benefits through of conservation easements and fee title transfers.
+Connecticut's Forest Action Plan is a guidance document meant for the DEEP's Forestry Division, and our forest conservation partners in governments (federal, state, regional, and municipal), academia, extension, non-profits, forest industry, and private landowners. It joins other statewide plans including the Wildlife Action Plan, the Statewide Comprehensive Outdoor Recreation Plan (SCORP), the Comprehensive Open Space Acquisition Strategy (Green Plan), and the Long Island Sound Blue Plan among others to manage and protect Connecticut's natural resources.
+The Governor's Council on Climate Change (GC3), originally established by Governor Malloy in 2015 and re-established and expanded in 2019 by Governor Lamont, aims to address mitigation strategies to reduce greenhouse gases and consider adaptation and resilience in the face of climate change impacts. The GC3 comprises seven working groups reporting to two subcommittees (Mitigation and Adaptation). (Connecticut Department of Energy and Environmental Protection, 2020)
+One of these working groups, the Working and Natural Lands Working Group, includes the Forests Sub-Group. The Forests Sub-Group Final Report puts forward recommendations that have the broadest consensus based on available science, expertise and experience of the Forests Sub-Group members, and considerable input from credible experts during the public comment period. (Governor's Council on Climate Change, Working and Natural Lands Working Group, Forests Sub-Group, 2020)
+According to the 2020 Forests Sub-Group Final Report, "Climate change is an enormous threat to Connecticut's forests and people, and we must respond boldly with urgent action. This report recommends policy, funding, conservation, research, and stewardship actions which would both make forests more resilient and enhance their potential for sequestering and storing carbon as a significant and growing offset for GHG emissions from other sectors." (Governor's Council on Climate Change, Working and Natural Lands Working Group, Forests Sub-Group, 2020)
+Following is a summary of the major recommendations and findings in this report (Governor's Council on Climate Change, Working and Natural Lands Working Group, Forests Sub-Group, 2020):
+• We are all forest dwellers • Resilient forests provide many benefits to people and nature The Forests Sub-Group Final Report will be added to those of all the other sub-groups and working groups to produce a final GC3 report. Once finalized the GC3 report will join the Connecticut Forest Action Plan and the other plans above to provide guidance to best manage our natural resources in our changing world.
+The public input process began at the beginning of 2019 with the contracting of CFPA to do public outreach. They subcontracted Mary Tyrrell to do the work and a steering committee helped develop an online survey (conducted between 
+April 3 and May 4, 2019)
+ and a series of six roundtable meetings (June 2019) where natural resource professionals and the public were able to discuss and comment on elements of the Forest Action Plan. The Forestry Division also sought and received input from DEEP colleagues and many of the organizations listed above between 2019 and 2020.
+A draft of the Forest Action Plan was released for public review and comment on November 23, 2020 and an informational webinar was held on December 4, 2020 hosted by CFPA. Comments were due to the Forestry Division by December 11, 2020 and the Forestry Division received more than 150 comments from organizations and individuals which were considered and resulted in some changes to this final report. Many of the comments revolved around recreation, clearing forests for solar development, urban forestry, carbon sequestration and storage, water quality, and low-grade wood markets.
+
+## Connecticut Forest Action Plan Summary Statewide Forest Resource Assessment
+
+• Connecticut is approximately 56% -61% forested (depending on the data source), making it the 14 th most forested state in the United States.
+• Forest loss has stabilized somewhat from significant declines in forestland between the 1980s and early 2000s, but remains a top issue that needs considerable attention.
+• There are approximately two people for every acre of forest which contributes to many of the pressures facing Connecticut's forests including conversion to non-forest, fragmentation, invasive species, and recreational issues.
+• Urban forests are also important parts of Connecticut's cities and towns. Connecticut has the highest urban tree cover in the nation at nearly 62%, but many communities are still lacking in forest and tree resources.
+• Connecticut's forests are dominated by oak/hickory type (69%), even though red maple is the most common tree, and most (85%) are in the large diameter size class.
+• While overall forest loss has decreased recently, fragmentation (breaking up large blocks of forest with non-forest) has continued as the loss of large core forests (connected forest blocks > 500 acres) to less ecologically important smaller core forests and patch and edge forests.
+• Connecticut's forestland is nearly 72% privately-owned, which makes working with coalitions across landscapes important to minimize fragmentation, keep forests as forests, and make forested landscapes as healthy and productive as possible.
+• Connecticut's forested habitats are important to many species of animal, rare and common alike. A variety of forested habitats can provide opportunities for species needing different resources and allows for diversity among the many animal species present in Connecticut.
+• Invasive pests and plants remain a significant cause of concern as recent widespread mortality events (spongy moth*/drought and emerald ash borer) have changed the forested landscape and have made some areas dangerous for recreation and susceptible to increased wildfire risk and invasive plant spread.
+• Forests play an important role in protecting Connecticut's soils, riparian areas, and water quality providing wildlife habitat and good drinking water.
+• Connecticut's forests store and sequester carbon in the live vegetation above ground, in the roots below ground, and long-lived wood products that people use every day.
+• The forest products industry provides significant benefits to the local economy through jobs in the industry and locally-grown wood products.
+• Recreation opportunities abound in forested landscapes as outdoor activities such as hiking see increased participation. Hunting, camping, bird-watching, and many other activities rely on forested landscapes near to where people live.
+• Connecticut has a goal of conserving 21% of the state's land area as open space by 2023 (10% State and 11% Partners). DEEP holds more than 80% of its statutory share of that goal. This includes state forests, parks, wildlife management areas, and other DEEP properties, and conservation easements held by the State through the Forest Legacy Program, Highlands Program, and others.
+
+## Statewide Forest Resource Strategy
+
+Connecticut's Desired Future Conditions
+The desired future conditions were affirmed by both the survey and roundtable discussions with stakeholders and the public. Participation in the public input process showed a broad concern about and strong connection to Connecticut's forests.
+* 'Spongy Moth' Adopted as New Common Name for Lymantria dispar | Entomological Society of America (entsoc.org).
+The previous name, "gypsy moth," was removed due to its use as a derogatory term for the Romani people. The change is the first undertaken by ESA's Better Common Names Project. All references to previous name changed on 12/27/2022.
+• The fact that all forests provide important public benefits will guide Connecticut's forest and land use policies.
+• Connecticut will increase the amount of forest protected from development following priority criteria based on core forest areas, forest legacy potential, and vulnerability.
+• Connecticut's forests will contain healthy and sustainable populations of native plants and animals.
+• Public agencies will manage Connecticut's public forestlands to enhance public benefits.
+• Policies will fully support and encourage private forest owners that have environmentally, socially, and economically balanced stewardship goals.
+• The people of Connecticut will understand and value the urban forests as essential parts of healthy urban ecosystems.
+• Connecticut's forests will support a broad spectrum of appropriate recreational activities that attract users to Connecticut's forests.
+• Connecticut will use its forests to stimulate learning about nature and ecology and to demonstrate various sustainable forest management strategies.
+• Connecticut's forests will support a viable forest products industry that provides marketable products from renewable and diverse forest resources.
+• Management of Connecticut's forests will use the best available scientific information and the best available data as the basis for sound conservation and management decisions.
+The Forestry Division and its partners need to continue and expand on collaborative partnerships and more resources are needed to realize many of these desired future conditions and to continue to contribute to Congress' three national priorities:
+• Conserve and manage working forest landscapes for multiple values and uses • Protect forests from threats • Enhance public benefits from trees and forest
+
+## Why we manage forests
+
+DEEP manages Connecticut's state forests, collectively the largest landholding in the state, to ensure that a viable and productive forest ecosystem provides clean air, water, and a sustainable supply of forest products while sequestering and storing carbon, and protecting unique, fragile, and threatened habitats. The state forests are held in the public trust to benefit future generations.
+The Forestry Division's mission is to manage the resources of the state forests in a professional manner, perpetuating a healthy, resilient, forest ecosystem of native species, preserving significant habitat values, while protecting the forest from fire, theft, exotic plants and insects, disease, and illegal/abusive practices. The Forestry Division uses scientific forest management to provide a variety of valuable ecosystem services to its citizens. The state forests serve as a resource management demonstration model for private landowners. They supply traditional and non-traditional forest products for a locally-sourced, forest-based economy in a sustainable manner.
+The Forestry Division considers many factors and strategies when creating forest management plans for Connecticut's state forests. They are looked at within the context of local, regional, and state-wide landscapes. While this list is not exhaustive, below are some of the primary reasons the Forestry Division manages state forests and hopes that private forest landowners may consider as well.
+1. Forest Ecosystem Health and Diversity -Healthy and diverse forest ecosystems provide highly functional, valuable, and resilient mix of habitats for plants and animals. 2. Wildlife Habitat -Many of Connecticut's wildlife species, both common and rare, use forested habitats of different varieties. It is important to offer a suite of different forested habitats for animals that have different needs.
+
+## Climate Change Mitigation through Sequestration and Storage -As climate change
+
+continues to be an important global issue, Connecticut's state forests offer an ability to be part of the global mitigation system and to sequester and store carbon in vegetation above and below ground and as long-lived wood products used locally and beyond. 4. Environmental Protection -Connecticut's state forests provide environmental benefits such as cleaning the air, protecting and improving water quality, and contributing to soil health. 5. Recreational/Health Benefits -Recreation opportunities abound across Connecticut's state forest system providing a local and economical way to stay healthy and active for Connecticut's residents and guests. 6. Economic Benefits -Sustainably harvesting forest products like timber, firewood, witchhazel, and maple syrup from Connecticut's state forests provide jobs as well as local goods that are sold in the local economy while providing a model for private forest landowners to consider when managing their own properties. 7. Forest Protection -Managing Connecticut's state forests helps reduce susceptibility to threats such as wildfire, weather events, and invasive plants and insects allowing them to remain healthy and productive while minimizing spread to neighboring private forestlands.
+Connecticut's state forest system has varying needs and goals throughout the state and the Forestry Division strives to use the latest science and stakeholder input to create forest management plans that best keep them thriving for future generations while demonstrating sustainable forestry for the state's citizens.
+
+## PART 1. STATEWIDE FOREST RESOURCE ASSESSMENT SECTION 1. Connecticut Forest Conditions and Trends Introduction
+
+Connecticut's framework for the State Forest Action Plan Assessment follows the seven criteria of sustainability as listed in the Montréal Process Criterion and Indicators. This criteria is commonly used at the national and international levels to monitor the sustainability of temperate and boreal forests. As suggested in the Northeast-Midwest State Foresters Alliance (NMSFA) Guide for State Forest Actions Plans, these criterion are used because (1) "they provide broad goals for sustainable forest management, encompassing ecological, social, and economic aspects of forests;
+(2) they are agreed to and monitored at multiple scales (international, national, regional, in some states, and finer), ( 
+3
+) some related state-level data are compiled and will be available on-line. NMSFA and the U.S. Forest Service, Eastern Region State and Private Forestry (R9 S&PF) have worked in partnership to assess and support forest sustainability at regional and state levels following the seven nationally-monitored criteria and 18 measurable base indicators of forest sustainability" (Northeast-Midwest State Foresters Alliance and USDA Forest Service Northeastern Area State and Private Forestry, 2018). A complete list of the base indicators and metrics used can be found in Appendix 1.
+
+## Criterion 1. Conservation of Biological Diversity
+
+From the Montréal Process (2015):
+Forests, and particularly native forests, support a substantial proportion of the planet's biological diversity and terrestrial species. Biological diversity enables an ecosystem to respond to external influences, to recover after disturbance, and to maintain essential ecological processes.
+Human activities and natural processes can impact adversely on biological diversity by altering and fragmenting habitats, introducing invasive species, or reducing the population or ranges of species. Conserving the diversity of organisms and their habitats supports forest ecosystems and their ability to function, reproduce, and remain productive.
+Indicator 1: Area of total land, forestland, and reserved forestland 1.1 Forest and total land area According to 2018 U.S. Forest Service FIA data, Connecticut contains approximately 3,203,694 acres of land, of which approximately 1,789,611 acres, or 56%, are forested. This was a decrease of one percent from the 2013 FIA analysis (USDA Forest Service, 2019).
+According to the University of Connecticut Center for Land Use Education and Research (CLEAR) remote sensing data from 2015, Connecticut contains approximately 3,078,017 acres of land, of which approximately 1,862,275 acres, or 61%, are forested. This estimate of forest cover includes deciduous, coniferous, and wetland forests (see Figure 
+1
+). It may include isolated scrub areas characterized by patches of dense woody vegetation, isolated low density residential areas, and some small water courses (University of Connecticut Center for Land Use 
+Education and Research, 2016)
+. This data set shows that forested area in Connecticut was stable between 2010 and 2015 after a significant decline between 1985 and 2006. The difference between U.S. Forest Service FIA data and CLEAR data is likely due to slightly differing definitions of forest and differenc measurement techniques. Both show that Connecticut's land cover is majority forested.
+
+## Forest Density
+
+According to 2018 FIA data (USDA Forest Service, 2019), Connecticut's forestland is 4% overstocked, 57% fully stocked, 32% medium stocked, 6% poorly stocked, and 1% non-stocked.
+Most of Connecticut's forests are quite dense which can be important for habitat and carbon storage. When forests become overstocked, forest health can become an issue and productivity can decrease. Understocked forests have unused potential that could be used for a number of positive benefits.
+
+## Forestland and population
+
+Connecticut ranks 14 th among the 50 states in percentage of land that is under forest cover at 58% 
+(Oswalt, 2018)
+. Connecticut is 29 th in total population with a 2019 estimate of 3,565,287, but fourth in population density with a density of 741 people per square mile (U.S. Census Bureau, 2019). There are 2 people per acre of forest in Connecticut which ranks as the seventh most in the US. So many people per forested acre can put increased pressure on forest conversion and on the forest resources as well.
+
+## Reserved Forestland
+
+According to 2018 FIA data (USDA Forest Service, 2019), there is approximately 30,621 acres of reserved forestland which is about 1.7% of Connecticut's forestland. Reserved forestland is defined as forestlands withdrawn from timber utilization by law or administrative regulation. This is occurring on municipal, land trust, and private land.
+Although there are no areas owned by the State that are classified as reserved forestland, there are areas designated as Natural Area Preserves by the Governor, which are not actively managed for timber. Management activities can be performed in these areas provided there is an approved management plan which supports Preserve goals. In addition, the Forestry Division uses classifications called either "Administrative Natural Area" or "Old Forestland Management Site" which withdraws forestland from timber utilization for the span of a management plan (10 years). It can be continued indefinitely with succeeding plans.
+Since the mid-1980s, there has been no timber harvesting on state park lands unless the harvesting is salvage related. The forested portion of State Parks, State Park Scenic Reserves, Historic Preserves, Natural Area Preserves, and State Park Trails totals 29,182 acres and there is another 5,238 acres of unmanaged forest on DEEP-owned Water Bodies, Water Access, Flood Control, Fish Hatchery, and Other properties.
+
+## Urban Forests
+
+According to "U.S. Urban Forest Statistics, Values, and Projections", in 2010 Connecticut had the fourth-highest percentage of urban land at 37.7% and the highest urban tree cover in the nation at 61.6%. Connecticut's urban land is projected to increase to 65.3% by 2060 which will only make urban forests more relevant in the coming years. 
+(Nowak & Greenfield, US Urban Forest Statistics, Values, and Projections, 2018)
+ Connecticut's urban forests can be found in all communities across the state from rural villages to the large cities. Urban forests provide many benefits to communities including providing clean air and water, wildlife habitat, carbon sequestration and storage, energy savings, and public health benefits while providing an identity for the community.
+Urban forests in Connecticut have been impacted negatively by emerald ash borer and the spongy moth/drought-caused oak mortality in the late 2010's. Many urban trees have died or are declining and have become unsafe. In many communities this has been quite taxing on municipalities and private landowners alike for not only removal costs, but replacement costs as well. It has also resulted in the loss of many large trees, that if replaced are replaced with much smaller trees whose benefits may be less substantial.
+In 3 of volume in trees over 5" in diameter, and 774 million trees over 1" diameter. These trees constitute a diverse mix of species. The 2018 FIA inventory identified 59 tree species, although many of these are uncommon. The ten most common species, listed in Figure 
+3
+, account for 81% of the total net volume of live trees and 76% of the total number of live trees greater than 1 inch diameter at breast height (DBH). Throughout Connecticut's history, different species have had varying prevalences. American chestnut was a major component of Connecticut forests in the early part of the twentieth century and was mostly wiped out by the chestnut blight. Northern red oak was the leading species by volume in inventories done in 
+1953 and 1972
+, but by a 1985 inventory had been replaced by red maple (USDA Forest Service Northern Research Station and Connecticut Department of Environmental Protection Division of 
+Forestry, 1998)
+. This is likely due to several factors including harvesting trends (especially past high-grading), spongy moth-related mortality, lack of oak regeneration due to harvesting techniques and deer browse, and red maples ability to grow in many habitats and conditions.
+
+## Size Class
+
+Nearly 85% of Connecticut's forestland is in the large diameter size class (sawtimber-sized trees > 11" diameter for hardwood and > 9" diameter for softwood). Medium diameter size class (poletimber sized trees > 5" diameter and < large diameter) comprises 9% and small diameter size class (sapling and seedling < 5" diameter) less than 5%. Approximately 1% of forestland is considered non-stocked (USDA Forest Service, 2019). Because much of the state's forest is relatively similar in age as stated below, much of the forest is mature and there is a lack of structural diversity. This can lead to a less resilient forest and greater susceptibility to significant mortality events, either pest or weather. The large sized class does store more carbon which is important in relation to climate change.
+
+## Age Group and Successional Stage
+
+The main reason 85% of Connecticut's forests are in the large diameter class is that 84% are over 61 years old. The state's forests were cut over repeatedly in the nineteenth and early twentieth centuries and began the most recent period of regrowth during the early part of the 1900s. Several factors converged to establish many of Connecticut's forests during this time. The early 1900s followed significant agricultural land abandonment and saw the end of charcoal production for the iron industry and the rapid decline of American chestnut due to chestnut blight. This timeframe also saw the creation of a state forest agency, the first state forests, and the first real efforts to protect and conserve natural resources, including a concerted effort to suppress wildland fire. The creation of the Civilian Conservation Corp (CCC) in the 1930s brought about large scale tree plantings, suppression of large forest fires, and the development of the state forest road infrastructure. All of these factors have resulted in the high percentage of trees estimated to be older than 60 years old (Figure 
+4
+). Due to the age of Connecticut's forests, the large size class dominates the forested landscape. The large size class has been steadily increasing at the expense of medium and small size classes since the middle of the 1900s (Figure 
+5
+). Although this is a positive for many wildlife species and the lumber industry, there are potential detrimental effects for forest product sustainability, for protection against catastrophic weather or insect and disease outbreaks, for climate resilience, and for wildlife species that depend on early successional habitats. As the trees in a stand get larger and become sawtimber, a gap may appear in the number of trees in the poletimber-size class. Seedling and sapling stocked areas have remained fairly constant statewide over the last decade. This is in part due to active management on both public and private lands that sustains early successional habitats for those species in need. To create an ecologically resilient ecosystem, Connecticut needs to be more active in creating a range of age and size classes within forests to best guard against damage from winds, hurricanes, ice, drought, insects, and diseases.
+Stocking is defined as a measure of the number and size of trees on each acre of forests. According to the 2018 FIA data, 57% of Connecticut's forests are considered fully stocked, and over 88% of Connecticut's forests are considered either fully or medium stocked. A small amount (4%) is considered overstocked, 6% is considered poorly stocked, and 1% is nonstocked. Indicator 3: Extent of forestland conversion, fragmentation, and parcelization
+
+## Forest fragmentation
+
+Approximately 950,655 acres, or 53%, of forestland is considered core forest (Figure 
+6
+ and Figure 
+7
+). Core forest is defined as being at least 300 feet away from non-forested areas (University of Connecticut Center for Land Use 
+Education and Research, 2016)
+. Large, unfragmented blocks of forest offer habitat for edge-intolerant species, provide connectivity and corridors for species migration in response to climate change, including warming temperatures and changes in precipitation, and increased opportunity to maintain overall biodiversity. CLEAR (2016) breaks down core forest into three size-classes based on scientific literature for general thresholds of patch size for different purposes. For edge-intolerant species, the recommended minimum core forest block size is 500 acres, while the absolute minimum is 250 acres. Less than 250 acre core forest blocks may not be useful for those species, but do have great value in terms of resiliency, carbon storage and sequestration, habitat, and forest management. -100,000 One possible factor for this reduction in land conversion could be the recession that started in 2008. Building rates slowed significantly as the economy struggled throughout the state. 
+
+## Additions to and conversions from forestland
+
+Between 2010 and 2020 the amount of forestland in Connecticut was relatively stable. While some forestland was converted to developed land and turf/grass (Figure 
+9
+), there were also areas that were reforested, most likely through natural processes, but including some areas that were planted to trees.
+This relative stability in forest cover in Connecticut may have several influences. Population between 2010 and 2019 actually decreased 0.2% (U.S. Census Bureau, 2019) and development was slower than previous eras due to the lack of population growth alongside the slow recovery of the economy following the Great Recession. 
+
+## Forest Parcel Sizes
+
+Nearly 72% of Connecticut's forests are privately owned which has remained relatively stable since at least 2007 (USDA Forest Service, 2019). These forests tend to be smaller than public forests and are more susceptible to parcelization. Parcelization occurs when larger parcels are split into multiple smaller parcels. Subdivision (usually for development) and passing a property to multiple heirs are common causes of parcelization.
+-60,000
+-40,000
+-20,000 0 20,000 40,000 60,000 
+1985-1990 1990-1995 1995-2002 2002-2006 2006-2010 2010-2015
+ Change in acres
+
+## Years
+
+Change in acreage by land cover type between 1985 and 2015 Developed Grasses Forest Agriculture Other
+The average parcel size of privately-owned forest of parcels greater than 1 acre in size is about 6.4 acres. There are approximately 122,100 private landowners who own between one and nine acres totaling 300,000 acres with an average size of 2.3 acres. That leaves roughly 16,700 private landowners that own 590,000 acres for an average size of 34 acres 
+(Tyrrell, 2015)
+. There is also a significant portion of privately-owned forest cover smaller than one acre in size in yards, urban settings, and other small groups of trees.
+Connecticut has an aging population and according to 
+Tyrrell (2015)
+, about 87% of the primary private forestland owners are older than 51 years old. While older people are more likely to own land, they are also more likely to sell it, subdivide it, or pass it on to multiple heirs, all of which can lead to increased parcelization which can lead to increased fragmentation.
+As parcel sizes decrease, the utility of forestland can decrease as well. As mentioned in the core forest section above, larger forest blocks tend to have more biodiversity and support certain species that do not thrive in smaller forest blocks. Parcelization can also interrupt continuity which can reduce resiliency and ability to adapt to a changing climate by decreasing connectivity and corridors allowing species migration due to increasing temperatures and changing precipitation regimes 
+(Janowiak, et al., 2018)
+, reduce viability and efficiency of harvesting forest products, and reduce recreational opportunities Publically-owned forested parcels tend to be larger with more stable ownerships and are much less susceptible to subdivision and parcelization. While helpful in maintaining larger parcels of forest, because most of the forestland in Connecticut is privately-owned, extra efforts need to be made to encourage private forestland owners to keep their properties as intact as possible.
+Indicator 4: Status of forest/woodland communities and associated species of concern.
+
+## Forest and Woodland Communities
+
+According to the 2015 Connecticut Wildlife Action Plan (CTWAP), "Connecticut's wildlife is remarkably diverse. There are 84 species of mammals, 335 species of birds, 50 species of reptiles and amphibians, 169 species of fish and an estimated 20,000 species of invertebrates. This diversity is due to the state's wide range of landscapes, waterscapes, and habitats from the coastal plain and Long Island Sound in the south to the northwest hills." 
+(Connecticut Department of Energy and Environmental Protection, 2015)
+.
+The 2015 CTWAP identified 10 Key Habitats, and 46 sub-habitats associated with the identified Greatest Conservation Need wildlife species in Connecticut (detailed below). Four of the Key Habitat types and many of their sub-habitats are of particular interest to this assessment (Figure 
+10
+). The map below (Figure 
+12
+) shows the general areas of concern for State and Federally Listed Species included in the Connecticut Endangered Species List 2020. The CT DEEP publishes a new version of this Natural Diversity Data Base (NDDB) map twice a year. The general locations of species and communities are symbolized as shaded areas on the maps. Exact locations have been masked to protect sensitive species from collection and disturbance and to protect landowner's rights whenever species occur on private property. In some cases an occurrence represents a location derived from literature, museum records, and specimens.
+(Connecticut Department of Energy and Environmental Protection, 2020) The CTWAP has identified species that are thought to be of Greatest Conservation Need (GCN).
+A variety of factors were considered in determining GCN species including status, abundance, distribution, and habitat associations. Trends in Connecticut have mirrored those nationally according to Paul Fusco, environmental analyst and wildlife photographer with DEEP, who stated in a Hartford Courant article "bird populations here have been experiencing long-term declines across the board" and Patrick Comins, executive director of the Connecticut Audubon Society, who also told the Hartford Courant "overall, it's safe to conclude that Connecticut is losing birds, and that matches the national study". 
+(Holahan, 2020)
+ According to Partners in Flight's Landbird Conservation Plan 2016, while some progress has been made, species and habitat abundance and quality continue to decline and face numerous challenges and addressing these issues needs to use strong and sustaining partnerships between public, private, and industrial sectors. Not only do endangered, threatened, and rare species need conserving, but keeping common birds common is also important. Partners in Flight recommended actions include: Implementing conservation practices in agricultural and rangeland landscapes, supporting sustainable forestry practices, reducing the loss of forests and other habitats, reducing the use of pesticides, reducing and preventing collisions with buildings, removing feral cats from public lands and keeping pet cats from roaming freely, preserving green space and using native plants in urban and suburban landscaping, using bird-friendly coffee and other sustainable products from neotropical countries, and supporting, promoting, and contributing to citizen science databases such as eBird, breeding bird surveys, and Christmas bird counts. 
+(Rosenberg, et al., 2016)
+ Connecticut is currently updating the Connecticut Bird Atlas which aims to map all bird species found in the state. The project looks to describe the distribution and abundance of each bird species, document changes since the first Bird Atlas done in the 1980s, identify the most important factors affecting distribution and abundance, develop methods to predict how a changing landscape will affect species, inform decision making for conservation priorities, and to make the data available to stakeholders. The Connecticut Bird Atlas is a joint project of DEEP Wildlife Division and UConn, with additional funding from non-profit groups. 
+(Connecticut Bird Atlas, 2020)
+ The United States Geological Survey (USGS) leads a collaborative effort to produce the North American Breeding Bird Survey (BBS) to monitor bird populations over large geographic areas. This data is used for the State of the Birds reports and many other outlets.
+
+## Criterion 2. Maintenance of Productive Capacity of Forest Ecosystems
+
+Indicator 5. Area of timberland Timberland is defined as any forestland capable of producing commercial crops of timber, while not being legally prohibited from doing so 
+(Bechtold & Patterson -Editors, 2005)
+. The amount of timberland in the State defines the total forest land base available to produce goods and services for the benefit of society. Connecticut and ash mortality is following the wave of EAB detection. • Between 2015 and 2019 a major outbreak of spongy moth occurred with many areas receiving multiple years of defoliation which was also coupled with two years of drought across much of the state in 2015, 2016, and through the spring of 2017. • Several intense wind events also hit parts of the state during this timeframe.
+Widespread oak mortality was especially prevalent in eastern Connecticut with many thousands of acres seeing some canopy loss including some areas where nearly all of the overstory trees died. There were attempts to salvage merchantable wood from dead and dying trees related to all of the causes, but in many areas, it was economically unfeasible, resulting in many dangerous areas along roads, trails, utilities, and in the forest. 
+
+## Wildfire
+
+Wildfire events are often weather dependent. Most of the fires and acres are burned during the traditional spring fire season, normally mid-March through mid-May. During the past 10 years the reported annual acreage burned has ranged from 45 acres to 920 acres (Figure 
+17
+). The Forest Protection Program is working to improve wildfire statistics collection, as it is believed many more fires occur and go unreported.
+The northeast and northwest corners of the state are predominantly rural and forested. Other large sections of rural landscape are in the southeast corner and south central parts of Connecticut. The northwestern part of Connecticut has the steepest terrain. Fuels are primarily hardwood leaf litter, as over 80% of the woodlands are hardwood species. Volatile fuels of concern in Connecticut are mountain laurel, huckleberry, greenbrier, and phragmites. 
+
+## Drought
+
+Drought is defined as the absence of rainfall for a period of time long enough to cause depletion of soil moisture and damage to plants. Much of Connecticut saw moderate drought starting in the spring of 2015 into the beginning of 2016 and after a brief reprieve saw the entire state in at least a moderate drought with much of Connecticut seeing severe drought and parts in extreme drought from mid-2016 through spring of 2017 (Figure 
+18
+). This 46 week stretch of at least moderate drought was the longest in Connecticut since 2000 and at the height 44.5% of the state was experiencing extreme drought. The summer/autumn of 2020 also saw significant drought conditions with nearly 40% of the state seeing extreme drought. (National Integrated Drought Information System, 2020) While the drought of 2020 was shorter and less widespread than in 2016-2017, the cumulative effects of repeated drought can have significant health impacts on trees especially if they do not fully recover between episodes of drought. Drought causes primary and secondary physical damage as well as physiological changes in trees. The primary physical effect of drought or dry soil conditions is direct damage to the roots and root death. Non-woody feeder roots, usually located in the top 15 inches of soil, are particularly sensitive and are the first ones affected. When these roots dry, shrivel, and become nonfunctional, a water deficit develops because the roots cannot provide water to the top of the plant. In addition, many metabolic changes occur which substantially alter the physiology of drought-stressed trees. Among these are changes in hormone levels and other physiological factors (e.g., factors that influence the number of leaf initials in buds for the next year or that are responsible for the closing of stomates).
+The drought between 2015 and 2017 contributed to and was coupled with severe spongy moth defoliation. The fungus that helps keep spongy moth populations in check needs a wet spring to activate and the dry springs during these drought periods allowed the spongy moth to flourish. The combined stresses of drought and spongy moth defoliation caused substantial mortality in many areas where the losses likely would not have been as severe if only one of these stressors was present. This was also followed up with two-lined chestnut borer in some areas as well to add another stressor to the mix.
+From a wildfire perspective, forest fires during drought conditions usually result in ground fires where the fire burns down into the soil profile, consuming any available organic materials. Ground fire is a cause for concern as it can kill tree roots, soil microbes, and other beneficial organisms. It is also very difficult and time consuming to extinguish a ground fire and dramatically increases the cost of fire suppression. The increased amount of wildfire in the State corresponds with drought years as seen in Figure 
+17
+ and Figure 
+18
+.
+
+## Other Weather Events
+
+Dramatic weather events play a role in the health of Connecticut's forests. Examples include hurricanes, tornados, ice storms, heavy wet snow storms, hail and microbursts. All of these events are irregular in occurrence but are not unusual. Effects can include individual trees suffering minor damage to dramatic instances of a complete forest cover type change. Some of these extreme weather events could become more frequent due to climate change.
+In 2011, Tropical Storm Irene and the October snow storm, and in 2012 Superstorm Sandy, all caused significant widespread damage to the forests of Connecticut and in May of 2018, several tornados and straight-line wind events caused significant damage to several areas including Sleeping Giant State Park.
+
+## Insects, diseases, plants, and animals
+
+## Insects and Diseases
+
+Connecticut has endured many outbreaks of forest pests and diseases over the last century. Significant pest issues have mostly been introduced from Europe and Asia. The impact of such diseases and pests such as Dutch elm disease, Chestnut blight, and spongy moth are well documented. Periodic outbreaks from native pests are normally of short duration and of minor economic and ecological significance.
+In the past fifty years, the spongy moth (Lymantria dispar) has been one of the most visible and detrimental introduced insects in Connecticut. Devastating outbreaks in the mid-1970s and early 1980s defoliated most of Connecticut and helped kill many oak trees. Outbreaks in 
+1989-1990 and in 2005-2006
+ were naturally controlled by a disease-causing fungus known as Entomophaga maimaiga, first introduced in 1910-1911 to control spongy moth and rediscovered by Connecticut Agricultural Experiment Station (CAES) scientists in 1989. The spongy moth fungus, E. maimaiga has become a significant regulator of spongy moth populations in Connecticut at both low and high densities, but activity is highly dependent upon rain and the fungus will not prevent all outbreaks or hotspots during some years. This was the case with the latest spongy moth outbreak between 2015 and 2019. Drought prevented the development of significant E. maimaiga populations and spongy moth was rampant for several years peaking in 2017 when more than one million acres were impacted by spongy moth defoliation. Two-lined chestnut borer, a native insect, has since attacked trees stressed by the spongy moth and drought, adding to the mortality of oaks.
+Hemlock wooly adelgid (HWA), Adelges tsugae, is an exotic insect from Asia first detected in Connecticut in 1985. It has now been found in every town in Connecticut causing decline and mortality of eastern hemlocks throughout the state often in concert with elongate hemlock scale (exotic insect) and hemlock looper (native insect). After significant HWA population declines due to severe cold weather in winters from 2014-2016 and 2018, an increase in elongate scale population and concurrent drought prevented significant health benefits from the reduction of HWA until recently after wetter years although HWA populations have started to rebound after a mild winter in 2020. 
+(Connecticut Agricultural Experiment Station, 2020)
+ Increasing temperatures due to climate change may help HWA populations remain high eliminating some of the cold weather population declines.
+Emerald ash borer (EAB) has spread across most of the state and continues to cause significant mortality among ash trees. It was first detected in 2012 and has since been detected in 159 of 169 towns in Connecticut. 
+(Connecticut Agricultural Experiment Station, 2020)
+ While not a major component, ash, mostly white ash, is found in many forests and is a modest component of urban forests as well. As this mortality follows the spread of EAB, landowners and municipalities are having to deal with removing dead and dying trees and in many cases, replacing them with other species. As of January 14, 2021, USDA Animal and Plant Health Inspection Service (APHIS) will remove the federal domestic EAB quarantine regulations. The quarantine did not prove effective in stopping the spread of EAB and resources are being shifted to management options like biological control agents.
+Winter moth, Operophtera burmata, is another exotic insect defoliater that has caused some defoliation issues in Connecticut, mainly southeastern areas. Southern pine beetle, Dendroctonus frontalis, was detected in Connecticut in spring 2015, although significant populations have not been sustained. This insect could pose problems for Connecticut's pitch pine which are often in areas considered critical habitat. Increased temperatures due to climate change could make conditions in Connecticut more favorable for southern pine beetle which is at the very northern edge of its expanding range.
+Beech leaf disease was discovered in Connecticut in 2019, causing premature leaf drop and thin canopies, making them more susceptible to other pests. A foliar nematode species, Litylenchus crenatae, seems to be associated although the disease is still in the early stages of being researched. 
+(Li, 2019)
+ It is unknown how this may affect beech trees in Connecticut or how it may interact with beech bark disease which is already widespread.
+Spotted lanternfly (SLF), Lycorma delicatula, was also recently found in Connecticut. One dead adult SLF was found in Farmington in the fall of 2018, one live adult was found in Southbury in the fall of 2019, with single individuals found in several towns in 2020. These instances were likely single imports from out-of-state travel. Multiple live adults have been found in Greenwich, New Canaan, and Stamford and could be an established populations. Surveys will be conducted in the spring of 2021 to determine the extent of the populations. (Connecticut Agricultural Experiment Station, 2020) (Polansky, 2020) A significant outbreak centered in southeastern Pennsylvania has been ongoing for several years and the ease of transporting these insects or their egg masses on vehicles, and the amount of traffic passing through the northeastern United States, made it inevitable that this insect would likely establish itself in Connecticut. SLF would likely have a more detrimental effect on agricultural crops such as apples, hops, and grapes than forest trees, but it could still pose problems in both urban forests and forestland in general.
+Asian longhorned beetle (ALB), Anoplophora glabripennis has not been detected in Connecticut yet, but has been in both New York and Massachusetts for years. The most significant infestation near Worcester, MA has been ongoing since 2008 and the quarantine area has spread to over 110 square miles. (Connecticut Department of Energy and Environmental Protection, 2020) Many Connecticut tree species are vulnerable to ALB and it would likely cause significant damage.
+Another organism that is not known to be in Connecticut yet, but is being monitored very closely is the fungus Phytophthora ramorum, which is also known by the common name of Sudden Oak Death (SOD). It is not known whether SOD can survive in Connecticut.
+Surveys for all of these potential pests and others are conducted annually. There is no established protocol for controlling and eradicating invasive plant species on State Lands. Foresters handle invasive encroachments individually as time, personnel and extent of the problem dictate. Some methods that have been used include the use of herbicides, the use of a backpack propane torch to kill Japanese barberry, and manually selectively cutting bittersweet vines. The Forestry Division has used funds from the Timber Harvest Revolving Fund to hire contractors to remove invasive species as well as using prescribed fire in some areas (Figure 
+19
+).
+Eradication and control of invasive species on private lands is minimal and sporadic. Funding is limited and fragmentation and parcelization make controlling landscape-wide invasive species 
+
+## Soil pH
+
+The pH of soil is important because soil solution carries nutrients that are essential for plant function. The pH of a soil solution needs to rise above a certain threshold for a particular nutrient to be made available to a plant. For example, the pH of a soil solution needs to be greater than 5.5 for nitrogen to be made available 
+(Jensen, 2010)
+. In Connecticut, the soil pH is generally slightly acidic to acidic and well suited for the growth of deciduous and coniferous trees.
+
+## Total soil carbon
+
+According to Forest Carbon: An essential natural solution for climate change, the oakhickory forest type, Connecticut's most common forest type by far (Figure 
+20
+), stores an estimated 69 metric tons of carbon per acre total. Of this, 21 metric tons per acre (31%) is stored as soil organic matter. 
+(Catanzaro & D'Amato, 2019
+) 
+
+## Calcium-aluminum ratio
+
+Calcium is an important mineral in plant development involved in cell wall, root, and leaf development. Aluminum, which can be beneficial in low concentrations, is generally considered to have negative effects on plants. Acid rain can cause the calcium to leach out of the soil and it can be replaced by aluminum which would potentially cause negative effects to tree/plant health. 
+(Perry & Amacher, 2012)
+ While acid rain levels have decreased in recent times, the northeastern United States was one of the areas most affected by it. This may have had negative effects on the calcium-aluminum ratio. Connecticut's mixed oak forests, the dominant type, are more tolerant to low calcium-aluminum ratio than maple/beech/birch type, but sugar maple is the one hardwood species with documented adverse effects linked to a low calcium-aluminum ratio 
+(Perry & Amacher, 2012)
+.
+Indicator 9: Area of forestland adjacent to surface water and forestland by watershed.
+
+## Forested Riparian Areas
+
+Forested riparian areas help to retain nutrients and sediment and maintain water quality, provide wildlife habitat and corridors, provide coarse and fine woody debris, moderate temperatures through shading, and stabilize banks, channels, and shorelines. 
+(Minnesota Forest Resources Council, 1999)
+ According to CLEAR, who analyzed the area buffering 300 feet along waterbodies in 
+, 2020)
+, showed that impaired streams not supporting aquatic life were more common in less forested watersheds, but impaired streams not supporting recreation was not as dependent on the percentage of forest in a watershed (Figure 
+23
+). Forests play an integral role in the global carbon cycle, primarily by regulating the climate, making Earth habitable for the animal kingdom. There is, however, scientific consensus that the Earth's climate is changing, that humans are the primary cause of the change (IPCC Working 
+Group 1, 1996
+) (IPCC, 2014)
+, and that Earth has begun to experience the effects 
+(Rustad et al. 2012)
+. In fact, the past 115 years have been the warmest in the history of modern civilization, with recent years containing record breaking climate-related weather extremes and some of the warmest temperatures on record for the globe 
+(Wuebbles, et al., 2017)
+. Changing climatic conditions will continue to impact northeastern forests, which otherwise serve as important sinks for atmospheric carbon, providing climate change mitigation and adaptation benefits.
+
+## Forest ecosystem biomass
+
+Forests contribute to climate regulation through carbon sequestration and storage 
+(Evans & Perschel, 2009)
+. Terrestrial ecosystems play a vital role in the global carbon cycle by offsetting atmospheric CO2 by storing carbon in above and belowground biomass. In fact, forests and their associated soils store an estimated 45% of all terrestrial carbon 
+(McGarvey, Thompson, Epstein, & Shugart Jr, 2015)
+.
+Though often used interchangeably, there is an important distinction between forest carbon uptake, carbon sequestration, and carbon storage. "Uptake" is the initial process by which aboveground biomass takes carbon from a source and transfers its energy to grow (e.g., photosynthesis). "Sequestration" is the process of carbon uptake by which carbon dioxide is removed from the atmosphere to aboveground biomass pools. "Storage" is the amount of carbon in aboveground biomass pools at any one time. It serves as an indicator of carbon stocks.
+Approximately 50 percent of tree biomass is carbon.
+In addition to sequestering and storing carbon, forests can prevent carbon emissions through wood substitution (e.g., wood instead of concrete for construction), biomass substitution (e.g., biomass fuels for energy instead of fossil fuels), wildfire behavior modification (e.g., biomass removal before wildfire emissions), and avoided land-use change (e.g., deforestation) 
+(Woodall, D'Amato, Bradford, & Finley, 2011)
+(Tyrrell, Ross, & Kelty, 2012)
+. Forests also reduce atmospheric concentrations of carbon through sequestration (e.g., increasing ecosystem carbon storage through standing live tree growth) and carbon storage in wood products (e.g., carbon stored in lumber and furniture) 
+(Ryan, et al., 2010)
+. Trees outside of the forest, such as city and yard trees, also shade buildings, reducing energy demand, and reducing heat island effects by also shading paved surfaces and cooling the air through evapotranspiration 
+(Safford, Larry, McPherson, Nowak, & Westphal, August 2013
+).
+In the Northeast, biomass (i.e., stored carbon) generally increases over time 
+(Barford, et al., 2014
+) 
+(Hadley & Schedlbauer, 2002)
+(Keeton, Whitman, & McGee, 2011)
+, but can exhibit decline in different stand conditions or due to stressors 
+(Fahey, et al., 2005)
+. The rate in forest carbon uptake in the Northeast is declining 
+(Birdsey, et al., 2019)
+, as has been observed in maturing forests 
+(Bormann & Likens, 1979
+) 
+(Keeton, Kraft, & Warren, 2007)
+. However, managing for complex forest structure, as often found in primary and mature or old-growth secondary forests, can yield an increase or maintenance in net carbon sequestration 
+(Luyssaert, et al., 2008)
+(Nunery & Keeton, 2010
+) 
+(Thom & Keeton, 2020)
+.
+Keeping forests as forests is essential to keeping carbon out of the atmosphere, making Earth a safe home for its inhabitants. Maintaining forest land cover also reduces atmospheric inputs of greenhouse gases by preventing energy-consumptive and carbon emitting land uses such as residential and commercial. However, to maximize carbon storage potential over the long-term, forests must be managed to promote ecosystem health and functions 
+(Fargione, et al., 2018)
+. This is particularly relevant to the forests of Connecticut and the northeastern United States at large, which are still recovering from a 400-year unique land-use history. Scientifically informed forest management encompasses a portfolio of options, including both reserve-based management and silviculture that promotes the structural complexity, improved growing conditions, and native species diversity. Management practices continue to adapt as we gain a better understanding of the relationships between forestry and atmospheric carbon. Reducing harvest frequency and favoring high levels of structural retention, for example, can sequester up to 57% more carbon 
+(Nunery & Keeton, 2010)
+. Reforestation also increases carbon sequestration 
+(Rhemtulla, Mladenoff, & Clayton, 2009)
+, and is considered an important natural climate solution, in addition to forest management and urban forestation 
+(Fargione, et al., 2018)
+.
+Further analysis has shown that forest management activities can be applied to Connecticut's forests in a manner that can increase the capacity of the forest to sequester carbon and store it 
+(Ontl, et al., 2020)
+, both as live trees and in forest products 
+(Hohl & Oliver, 2008)
+. In fact, many studies have documented that one of the key carbon sequestration benefits of active forest management is the substitution of products made from wood for those made from steel, aluminum, or concrete 
+(Oliver, Nassar, Lippke, & McCarter, 2014
+) 
+(Woodbury & Wightman, 2017)
+. Hardwood flooring, dimension lumber, and plywood are forms of stored carbon. The use of these products avoids carbon emissions from the extraction and production of more carbonintensive materials such as vinyl, carpet, concrete, and steel 
+(Oliver, Nassar, Lippke, & McCarter, 2014)
+. Wood utilization and technology continue to improve the production of wood products and increase associated carbon storage 
+(Tollefson, 2017)
+. In addition to the benefit from the carbon stored in durable wood products, there is less carbon released from harvesting and manufacturing wood products than from mining non-renewable resources and manufacturing products from them 
+(Bergman, Puettmann, Taylor, & Skog, 2014)
+. Furthermore, locally and regionally produced wood products have a relatively smaller carbon footprint due to lower transportation costs and are sourced from well-regulated forests ( 
+(Berlik, Kittredge, & Foster, 2002
+) 
+(Tyrrell, Ross, & Kelty, 2012)
+.
+
+## Forest carbon pools
+
+A carbon pool is "a component of the climate system which has the capacity to store, accumulate, or release carbon. Oceans, soils, atmosphere, and forests are examples of carbon pools." 
+(Agostini, Giuntoli, & Boulamanti, 2014)
+ Carbon stocks are "the absolute quantity of carbon held within a carbon pool at a specified time." 
+(Agostini, Giuntoli, & Boulamanti, 2014)
+ (USDA Forest Service, 2018) which matches the percent area of Oak/Hickory Forest Type relative to total forest area (Figure 
+2
+). In addition, the regenerative capacity of the ecosystem is largely in the soils. Connecticut is second in the U.S. Forest Service Northern Forest region with 38.0 tons per acre of aboveground carbon in live trees. 
+(USDA Forest Service, 2019)
+ In Connecticut, over the past 400 years, the area of forestland has declined from perhaps as high as 95% of the state in the early 1600's (around 3 million acres) to a low of about 30% (around 750,000 acres) in the early to mid-1800's, before rebounding to a recent high of about 60% of the state, or 1.9 million acres 
+(Foster & Aber, 2006)
+. The link between land-use, forests, and the global carbon cycle is made clear by the fact that the regional forest removal at this time caused an increase in global atmospheric CO2 levels 
+(Houghton, 2003)
+(Ollinger, Aber, Reich, & Freuder, 2002)
+. In fact, the forest clearing that took place between 1700 and 1935 resulted in a loss of 60% of the total forest carbon stocks, with directly associated carbon emissions peaking at 400-800 Tg C/year around 1900 
+(Houghton, 1999)
+(Birdsey, Pregitzer, & Lucier, 2006
+) (McKinley, et al., 2011)
+. This trend in decreasing forest land cover is at the expense of the total biomass (i.e., carbon) that would otherwise be stored in above and belowground pools of forested ecosystems. Land-use conversion prevents the recovery of carbon storage amounts reported in region's primary forests. In fact, that forest regrowth in the United States has recovered 40% of the carbon lost to the atmosphere through the deforestation and harvesting that took place prior to 1935 
+(Birdsey, Plantinga, & Heath, 1993)
+(Birdsey, Pregitzer, & Lucier, 2006)
+. Because a significant portion of former forestland is now cropland, pastureland, or developed 
+(Smith, Miles, Perry, & Pugh, 2007)
+, northeastern U.S. forests will not recover all of the forest carbon stocks present prior to European settlement without drastic land-use policy and forest management implications.
+The vast majority of forests in Connecticut are under private ownership (72%) (Figure 
+29
+, 
+Criterion 6)
+. Efforts to maintain and promote the major pools of forest carbon in Connecticut have to engage the owners of these lands. Promoting educating and conducting outreach to forest landowners, licensed forest practitioners, industry professionals, and policy makers on carbon forestry is a necessary first step.
+For decades, researchers have explored how to promote forest carbon storage through management. Reducing harvesting frequency 
+(Curtis, 1997)
+, increasing rotation lengths 
+(Harmon & Marks, 2002)
+(Ryan, et al., 2010)
+, and encouraging post-harvest structural complexity 
+(Keeton W. S., 2006)
+(Franklin, Mitchell, & Palik, 2007)
+(Swanson, 2009)
+(Puettmann, Coates, & Messier, 2009)
+(Urbano & Keeton, 2017)
+ have been found to increase stand level carbon storage. Increased rotation lengths more effectively maximizes carbon storage in highly stocked stands, but these conditions can result in lower levels of live tree carbon uptake (D'Amato, 
+Bradford, Fraver, & Palik, 2011)
+. Thus, maintaining adequate stocking of large trees 
+(Stephenson, et al., 2014)
+, while also allocating growing space for younger trees can promote higher rates of standlevel carbon storage and sequestration 
+(D'Amato, Bradford, Fraver, & Palik, 2011)
+. Similarly, a study conducted with U.S. Forest Inventory and Analysis (FIA) data from 30 eastern states (of the U.S.) found stand stocking to be the primary driver of live tree aboveground carbon storage 
+(Woodall, D'Amato, Bradford, & Finley, 2011)
+. Live aboveground carbon storage also depends on tree species mixtures, as maximum storage decreased by 33% in highly stocked stands when the majority of stocking was in a single species 
+(Woodall, D'Amato, Bradford, & Finley, 2011)
+. Modeling results indicate that management intensity strongly affects carbon storage potential 
+(Nunery & Keeton, 2010)
+. Adjusting harvest intensities and rotation lengths to mimic the forest's natural disturbance regimes can effectively enhance stand level carbon storage 
+(Ryan, et al., 2010
+) (D'Amato, Bradford, Fraver, & Palik, 2011)
+.
+Managing forests for greater carbon storage is stand-specific. Certain management prescriptions' effects on carbon sequestration and storage, for example, are dependent on stand age dynamics. Reducing harvesting frequency more effectively increases carbon sequestration in uneven-aged northeastern U.S. forests than in even-aged stands. Retaining biological legacies also promotes biological diversity by sustaining many organisms and critical ecosystem functions, such as soil stabilization, nutrient retention and recycling, and stand resilience to disturbance 
+(Franklin, Mitchell, & Palik, 2007)
+(Hanson, Lorimer, Halpin, & Palik, 2012)
+. Both field and simulation studies conducted throughout the U.S. support the superiority of silvicultural prescriptions that maintain a large proportion of mature trees in maintaining or increasing aboveground carbon storage 
+(D'Amato, Bradford, Fraver, & Palik, 2011)
+.
+The spatial pattern of harvests and the regeneration methods post harvests are also important considerations when managing forests for carbon storage 
+(Swanson, 2009)
+. Natural regeneration/recovery can yield a net reduction in landscape-scale carbon storage, while immediate replanting can enhance long-term carbon storage 
+(Swanson, 2009)
+. Comparatively, partial harvesting can increase forest carbon storage 
+(Neilson, et al., 2006)
+. Employing multiaged management systems, such as irregular shelterwood and selection systems, can maintain a large proportion of carbon stores in retained mature trees while using thinning to create spatial heterogeneity that promotes higher sequestration rates in smaller, younger trees (D'Amato, 
+Bradford, Fraver, & Palik, 2011)
+. This management approach promotes carbon storage while simultaneously enhancing structural and compositional complexity. Some forests may not need to be managed 
+(Seymour & Hunter, 1999)
+, and instead should develop without intensive human intervention. As mentioned by 
+Harmon et al. (1990)
+ and 
+Nunery & Keeton (2010)
+, this concept is particularly relevant when considering managing forests for carbon sequestration in the U.S. Pacific Northwest. Silvicultural approaches that emulate the frequency and scale of natural disturbances 
+(Seymour, White, & deMaynadier, 2002
+) 
+(Harmon, Moreno, & Domingo, 2009)
+(Ryan, et al., 2010)
+(Thom & Keeton, 2020)
+ and increase post-harvest structural retention 
+(Keeton W. S., 2006)
+(Franklin, Mitchell, & Palik, 2007
+) 
+(Puettmann, Coates, & Messier, 2009)
+(Ford & Keeton, 2017)
+, serve as the most appropriate options in managing for high aboveground biomass in northeastern United States forests.
+Urban and urban community forests are also an important carbon pool. About 3.2% of estimated carbon stores in trees occur in urban trees 
+(Nowak, Greenfield, Hoehn, & Lapoint, 2013)
+. As Connecticut the most urban tree cover in the nation 
+(Nowak & Greenfield, 2018)
+, this is an important source of carbon storage and sequestration. Urban trees in Connecticut store an estimated 23.3 million tons of carbon a year in urban areas and sequester, accounting for loss through mortality and decay, an estimated 535,760 tons per year. 
+(Nowak, Greenfield, Hoehn, & Lapoint, 2013)
+
+## Forest Carbon by forest type
+
+Carbon sequestration rates and storage vary by stand age, tree species, growing conditions (including soil type, regional climate, topography, and disturbance regimes (natural or silvicultural). Therefore, the overall carbon sequestered and stored by different forest types and ages vary. General trends in forest growth suggest a decrease in U.S. forest carbon uptakes 
+(Birdsey, Pregitzer, & Lucier, 2006)
+. This is likely because northeastern secondary forests are maturing 
+(Lorimer & White, 2003)
+, and a reduction in carbon uptake rates has been found in maturing forests 
+(Bormann & Likens, 1979)
+(Keeton, Kraft, & Warren, 2007)
+. Unless otherwise managed for, it is possible that carbon uptake rates will continue to decline as forests age. Even though carbon uptake rates decline with forest maturity, complex forest structure, as often found in primary and mature or old-growth secondary forests, can yield an increase or maintenance in net carbon sequestration 
+(Luyssaert, et al., 2008)
+(Nunery & Keeton, 2010)
+, with mature forests sequestering the greatest amounts of carbon worldwide 
+(Harmon, Ferrell, & Franklin, 1990)
+. Recent research suggests that stand age is strongly predictive of aboveground biomass in the Northeast, with other variables, including ecoregion and conifer component, accounting for 25-33% of variability 
+(Keeton, Whitman, & McGee, 2011)
+. While recognizing the possibility for early declines of aboveground biomass as reported by 
+Fahey et al. (2005)
+, 
+Keeton et al. (2011)
+suggest that aboveground biomass has the potential to accumulate late into succession; with maximum biomass values found in stands with dominate tree ages ranging between 350 and 400 years. Most northeastern secondary forests are between 40 and 140 years of age 
+(Lorimer & White, 2003)
+, and have mean aboveground biomass levels of about 107 Mg/ha 
+(Turner, Koerper, Harmon, & Lee, 1995)
+(Birdsey & Lewis, 2003)
+. Influenced by type and intensity of management 
+(Keeton W. S., 2006)
+(Harmon, Moreno, & Domingo, 2009)
+(Nunery & Keeton, 2010)
+, aboveground carbon storage in northeastern secondary forests has the potential to double 
+(Rhemtulla, Mladenoff, & Clayton, 2009)
+(Keeton, Whitman, & McGee, 2011)
+.
+
+## Change in forest carbon
+
+Connecticut's forests are under great pressure from competing interests, including interests that can lead to the forest being developed, fragmented, or unable to be managed. Many factors influence future trajectories of aboveground carbon sequestration and storage. Rising levels of atmospheric carbon along with other aspects of climate change, like changing disturbance regimes and the spread of invasive plants and insects, further complicate the already complex dynamics of aboveground biomass accumulation. As these forces and interests affect the forest, the global carbon cycle and quality of life in Connecticut may be significantly impacted.
+Changing climatic conditions are impacting northeastern United States forests. Predicting future effects, however, is difficult due to the complex interactions and numerous feedbacks associated with climate change. Climate change has the potential to alter successional dynamics, influencing the species compositions and the rate and development of aboveground biomass accumulation 
+(Aber, et al., 2001)
+(Bonan, 2008)
+(Rustad, et al., 2012)
+(Janowiak, et al., 2018)
+. Increased levels of CO2 emissions will not only disrupt the balance of carbon sources and sinks, but will also affect future carbon storage dynamics of northeastern secondary forests.
+It is widely supported that mean global temperatures are rising, and are expected to continue to rise with increasing greenhouse gas emissions. Global air temperature has increased. Connecticut's temperatures have increased about 3°F since the beginning of the 20 th century 
+(Runkle, et al., 2017)
+, with seasonal variation yielding greater temperature increases regionally in the winter 
+(Templer, et al., 2012)
+(Vose, Easterling, Kunkel, LeGrande, & Whener, 2017)
+. Anthropogenic atmospheric inputs of greenhouse gases are altering the natural carbon, water, and nitrogen cycles 
+(Aber, et al., 2001)
+(Tang, Beckage, & Smith, 2014)
+. These changes, along with the expected changes in precipitation 
+(Rustad, et al., 2012)
+(Easterling, et al., 2017)
+ and disturbance regimes 
+(Dale, et al., 2001)
+(Hayhoe, et al., 2007)
+(Kossin, et al., 2017)
+(Wehner, Arnold, Knutson, Kunkel, & LeGrande, 2017)
+(Janowiak, et al., 2018)
+ are altering forest processes (e.g., net primary production, litter decomposition, and nutrient cycling) 
+(Aber, et al., 2001)
+(Rustad, et al., 2012)
+(Tang, Beckage, & Smith, 2014)
+ and productivity 
+(Boisvenue & Running, 2006)
+, therefore affecting forest ecosystem carbon dynamics 
+(Scheller, et al., 2012
+) 
+(Tang, Beckage, & Smith, 2014)
+(Janowiak, et al., 2018)
+.
+Over the last century, the Northeast has experienced a 3.7 inch (9%) increase in precipitation 
+(Huntington, Richardson, McGuire, & Hayhoe, 2009)
+(Rustad, et al., 2012)
+, with more precipitation falling as rain 
+(Huntington, Richardson, McGuire, & Hayhoe, 2009)
+(Templer, et al., 2012)
+. Most of this increased precipitation occurs in late winter and early spring (February-April) 
+(Lynch, Seth, & Thibeault, 2016)
+, during forest dormancy. Due to increased air temperatures, particularly in winter months, ecosystems in this region are more likely to have a longer growing season. However, despite a trend toward more precipitation, the Northeast is seeing longer periods without rainfall. This results in a drier growing season, especially when temperatures and evapotranspiration rates are high (in the summer) 
+(Rustad, et al., 2012)
+. This summer drying is exacerbated by reduced recharge from spring snowmelt. So although the longer growing season within the Northeast could result in increased growth rates, and therefore increased carbon uptake 
+(Aber, et al., 2001)
+ when soil and nutrient availability are not limiting factors 
+(Nowak, Ellsworth, & Smith, 2004)
+, these processes may be limited by the effects of drought. As such, forest productivity will likely increase in the absence of drought or other disturbances 
+(Janowiak, et al., 2018)
+(Asbjornsen, et al., 2019)
+. Some model simulations found that increased temperatures and precipitation can either increase or have no effect on forests' net primary productivity (NPP) through 2050 
+(White, Cannell, & Friend, 1999)
+, making it conceivable that more extreme increases in temperature and precipitation or lack thereof can have adverse effects on temperate forests, causing a decline in NPP.
+Forests of the U.S. Northeast are impacted by altered natural (biotic and abiotic) disturbance regimes. Climate driven changes in temperature, precipitation, and disturbance frequencies and intensities influence forest health and function. As such, the capacity for forests to provide their critical services (e.g., carbon sequestration and storage) may be compromised or altered. Forest productivity is changing as a result of our warming climate. With warmer temperatures lasting longer, our plants have a longer growing season and more time to photosynthesize. This can lead to enhanced forest growth and carbon sequestration. However, plant respiration also increases with increasing temperatures 
+(Reich, et al., 2016)
+. It is therefore possible that increases in growth and productivity are offset by increases in respiration. Furthermore, rising temperatures affect bud break, leaf maturation, and leaf senescence of trees, which increases vulnerability to late spring frosts and soil freezing, stressing trees and reducing their productivity. Warmer temperatures paired with drier conditions during the growing season increase risk of drought and tree stress, with the potential to decrease overall forest productivity.
+Drought and other abiotic natural disturbances, make forests more vulnerable to secondary stressors like that of biotic disturbances (e.g., insects and pathogens). In fact, insects and pathogens can have major impacts on forest carbon stocks and fluxes, which can be large enough to effect regional carbon cycling 
+(Hicke, et al., 2012)
+. In this scenario, tree productivity is reduced by growth reductions such as defoliation, root herbivory, or disease. As a result of decreased carbon uptake by live biomass and increases in carbon loss through decomposition of dead biomass, net ecosystem productivity is reduced, resulting in a forest switching from a carbon sink to a carbon source. The potential of this effect is influenced by several other factors, but serves as a good example of the connection between forest health and forest carbon sequestration and productivity. Only healthy forests can adequately achieve their critical ecological, cultural, social, and economic services.
+According to modeling done by the Northern Institute of Applied Climate Science (NIACS) using the U.S. Forest Service Tree Atlas and LANDIS, common species in southern New England will have differing likely outcomes related to climate change. 
+(Janowiak, et al., 2018)
+ Some of the results of this work, "Climate Change Projections for Individual Tree Species -Connecticut" can be found in Appendix 4.
+Many factors, such as the interacting drivers of change, varying time scales of ecological response, time lags and legacy effects, temporal and spatial heterogeneity, variable speciesspecific responses, and human influences, are imperative to consider, but nearly impossible to include when estimating northeastern forests' response to climate change. It is crucial for policy makers, landowners, and all invested stakeholders to take note of the changing forested ecosystem dynamics as influenced by our changing climate.
+If climate change significantly alters the ability of northeastern forests to provide their multitude of ecosystem services, upon which humans are reliant, the Northeast is at risk of severe social and economic impacts. It is therefore important to understand carbon sequestration dynamics, one of the greatest ecosystem services forests provide, so landowners and managers can effectively work to mitigate threats by managing for high-magnitude long-term carbon storage.
+
+## Criterion 6. Maintenance and Enhancement of Long-Term Multiple Socioeconomic Benefits to Meet the Needs of Societies
+
+Indicator 12. Wood and wood products production, consumption, and trade
+
+## Value of wood-related products
+
+According to the Forest Products Industries' Economic Contributions: Connecticut 2020, the total output of Connecticut's Forest Products Industry was $3.96 billion. Of that, primary wood product manufacturing was $198 million, secondary wood product manufacturing was $402 million, wood furniture was $781 million, and paper manufacturing was $2.5 billion. Forestry and logging accounted for an additional $26 million in output. 
+(Public Sector Consultants & Emmerthal, 2020)
+
+## Production of roundwood
+
+According to the draft 2020 Annual Report Summary prepared by the Forestry Division's Forest Practices Act Program, between 2015 and 2018, Connecticut averaged 27. 5 million board feet of sawtimber and veneer purchased from all lands in the state. Approximately 7.6% of this harvest came from state land during this time period which is below the average of 10.2% between 1997 and 2018. These numbers do not include land clearing operations which have been estimated to account for nearly half of annual timber harvesting in Connecticut. Figure 
+25
+ shows the location of Primary Wood Processors in Connecticut. Some primary wood processors may have chosen not to be listed in the directory and the directory also does not include primary wood processors in other states that purchase wood in Connecticut.
+
+## Production and consumption of roundwood equivalent
+
+Utilizing the 2017 U.S. Census data and national wood products consumption data available from the U.S. Forest Service, Forest Products Laboratory, it is estimated that the national rate of consumption per person is 52. 
+
+## Recovered paper
+
+Recovered paper rate is the ratio of the total recovered paper used in paper and paperboard mills relative to the total product produced. Estimates of recovered paper were difficult to obtain. In the past, much of the recycled products were sent to China, but that flow has been drastically reduced with plastics and paper being hardest hit. A switch to single stream recycling in many towns in Connecticut has also reduced the market for recycled paper as it contains many more contaminates than when it was separated out. 
+(Spiegel, 2020)
+
+## Bioenergy
+
+The most recent Connecticut estimates for sustainable woody biomass potentially available for renewable energy production are those from the forest, industrial facilities (e.g. sawmills, pallet shops, and other primary producers) and urban sources. According to 2014 data from the National Renewable Energy Laboratory (NREL), Connecticut had approximately 549,422 dry tonnes of solid biomass resources from wood residues. Of that, 34,931 dry tonnes were from forest residues (logging residue and land clearing wood), 29,819 dry tonnes were from primary mill residues 
+(bark, slabs, trimmings, sawdust, etc.)
+, 64,290 dry tonnes from secondary mill residues (furniture, millwork, container and pallet manufacturing, etc.), and 420,382 dry tonnes from urban wood residues (wood chips, yard waste, utility tree trimming, construction/demolition wood, etc.). (National Renewable Energy Laboratory, 2014) One 37.5 megawatt project is located in eastern Connecticut (Plainfield). Currently, there is a BioBrick plant in Berlin. BioBricks are compressed sawdust designed to burn as a substitute for firewood in a conventional wood stove. In addition, pellet manufacturing companies have or are in the process of establishing manufacturing facilities around the state.
+12.6 Trade/wood flow "Due to its high quality and proximity to ports, trucking, and rail, a large portion of the timber harvested in Connecticut is exported to Canada and overseas, while a host of niche markets exist within the state. Markets include grade lumber, post and beam framing, treated railroad ties, naval timbers, custom pallets and blocking, cabin logs, and a variety of industrial lumber and wood packaging products." 
+(Public Sector Consultants & Emmerthal, 2020)
+
+## Nontimber forest products
+
+Connecticut produced more than 19,000 gallons of maple syrup per year between 2015 and 2017 which is 10 th -most in the United States. This produced values of $1,657,000 in 2015 and 
+$1,321,000 in 2016
+. (USDA National Agricultural Statistics Service, 2017)
+ Connecticut is also home to the world's largest witch hazel distillery, American Distilling, which converts the wood from witch hazel shrubs into a botanical ingredient used in medical, pharmaceutical, and personal care products. 
+(Public Sector Consultants & Emmerthal, 2020)
+ Indicator 13. Outdoor recreational participation and facilities
+
+## Participation in outdoor recreation
+
+Best estimates for statewide participation in outdoor recreation activities in Connecticut are taken from the Going Outside in Connecticut: The Statewide Comprehensive Outdoor Recreation Plan (SCORP) 2017 -2022.
+According to surveys done during the SCORP update, walking/hiking is by far the most common recreational activity with bird watching/wildlife viewing and geocaching/letterboxing also representing open space/forestland activities in the top ten (Connecticut Department of Energy and Environmental Protection, 2017). Outdoor recreation participation has seen a surge since the advent of the COVID-19 crisis with parks and forests commonly reaching capacity as people look for lower-risk entertainment options.
+It is evident from the data, that outdoor recreation is an important component of the lifestyles of Connecticut's residents. Therefore, the land and water base on which this recreation occurs is of significant value.
+
+## Federal land open to recreation
+
+Connecticut does not have a significant amount of federally owned lands. According to 2018 FIA estimates, approximately 1% of all forestland in the state is federally owned, much of that by the National Park Service (NPS), U.S. 
+2019)
+. There are several historic buildings among the meadows and forests that aim to preserve a significant site associated with American Impressionism, maintain the integrity of a setting that inspired artistic expression, and offer opportunities for the inspirational benefit and education of the American people. It is one of only two sites within the National Park System to focus primarily on the visual arts. (National Parck Service, 2020)
+• Appalachian National Scenic Trail, which totals 51.6 miles of linear trail mileage in five towns, with a total corridor of 6,488 acres (with another 1,044 acres in scenic easements) (see description below in 13.4 for more information).
+• A third nationally designated area, The Last Green Valley (formally known as the Quinebaug & Shetucket River Valleys National Heritage Corridor), is administered by the NPS, but not owned by them.
+
+## U.S. Fish and Wildlife Service
+
+USFWS owns and oversees three National Wildlife Refuges within Connecticut: 
+
+## Trails
+
+Connecticut is a state rich in trails, with more than 2,000 miles in DEEP's GIS mapping data, encompassing many different types of recreational uses. These trails provide many opportunities for people to experience nature, get exercise, and provide low-cost outdoor recreation.
+While trail use is a popular and important part of forest recreation, care must be taken in the planning and maintenance of trails so that they best fit in with the landscape in which they exist. Both authorized and unauthorized trail usage can be disruptive to wildlife, provide opportunities to collect and remove wildlife, introduce invasive species, fragment core habitat, cause erosion through overuse or poor trail location, and create conflicts between different user groups.
+Wildlife can be affected up to 400 feet from a trail including physiological and behavioral changes, reduction in reproductive success, and an increase in vulnerability to predation 
+(Stevens & Oehler)
+.
+Relevant DEEP divisions including Parks, Forestry, Wildlife, Environmental Conservation Police, Fisheries, Land and Water Resources, and user groups including Connecticut Forest and Park Association, the New England Mountain Bike Association (NEMBA), hunters, hikers, and others should work together to develop a sustainable recreation plan that best meets recreation needs while also protecting the natural resources.
+Below is a summary of the various trail opportunities in Connecticut. This is not all encompassing, as there may be local trails that are not widely known or advertised in addition to unauthorized trails.
+
+## Blue-Blazed Hiking Trails
+
+Connecticut Forest and Park Association (CFPA) manages and maintains the Blue-Blazed Hiking Trail system with more than 825 miles or trails across 88 towns (Figure 
+26
+). Established by CFPA in 1929 to better connect people to the land, the Blue-Blazed Hiking Trail System is widely recognized throughout the state and was designated an official state greenway. CFPA, partners, and volunteers maintain and protect these trails across public and private property.
+(Connecticut Forest and Park Association, n.d.)
+
+## Other Hiking Trails
+
+There are numerous hiking/walking trails located across the state. Opportunities on state parks and forestlands can be accessed at the CT DEEP website at 
+https://portal.ct.gov/DEEP/State-Parks/Explore/Hiking
+. Multi-use trails include hiking, mountain biking, equestrian, and other non-motorized uses. All trails in Connecticut state parks and forests are multi-use unless posted otherwise. Trail use information is included in the explanation on individual park and forest maps.
+
+## National Scenic Trails
+
+Connecticut is fortunate to have two nationally dedicated scenic trails which have portions located within the state boundaries:
+
+## Appalachian National Scenic Trail
+
+The 
+
+## Mountain Biking
+
+Mountain biking is a popular and growing recreational activity in Connecticut's forests. Mountain biking offers a healthy outdoor activity that can also impact local economies near trails. Organizations like the New England Mountain Bike Association (NEMBA) host rides, promote trail stewardship and ethics, and provide volunteers to maintain trails (New England Mountain Bike Association, 2020). While mountain biking is permitted on some trails, there is substantial use on existing trails where mountain biking is prohibited and there are areas with many unauthorized trails, especially on state forests. 
+
+## Recreational facilities in national forests
+
+There are no national forests in Connecticut.
+
+## Indicator 14. Investments in forest health, management, research, and wood processing
+
+Maintenance of healthy forests requires funding. Surveys for insects and diseases, monitoring of forest conditions, tree planting, and research in forestry all require time and money. Ensuring a properly trained wildland firefighting cadre to prepare for and respond to incidents across the state and provide assistance to our colleagues and neighbors across the country and beyond requires specialized training and equipment. Furthermore, landowners and communities require technical forestry assistance to maintain and manage their forest resources. Likewise, forest industries must invest in their operations if they are to remain competitive and continue to provide employment opportunities. Funding for forestland conservation also provides opportunities to keep forests as forest which can keep forests healthy and productive. Tracking the public and private funds invested in these various operations (forest health, management, research, and wood processing) is a good indicator of the likely success and long-term sustainability of forests and forestry in the state. 
+
+## State forestry agency funding
+
+Most of the funding for the Forestry Division comes from the General Fund including personal services, capital expenses, and other expenses. Environmental Conservation fees (EC fees), Regional Greenhouse Gas Initiative (RGGI) funds, Title V Support funds, and Northeastern Forest Fire Protection Commission, Passport to Parks, and Environmental Settlement funds provide some funding for the Forestry Division. The Timber Harvest Revolving Fund, established in 2011, is used to cover some permanent employee costs as well as the seasonal employee costs and improvement projects throughout the state forests. Two state lands foresters are also partly funded with Pittman-Robertson funds to assist with management of wildlife habitat.
+
+## & 14.4 Funding for forestry research at universities and U.S. Forest Service Research Funding
+
+The University of Connecticut and the UConn Cooperative Extension Program, Yale University, and the Connecticut Agricultural Experiment Station all receive grant funding to assist with forestry research in the state and elsewhere.
+
+## Capital expenditures by manufacturers of wood-related products
+
+According to the U.S. Census Bureau Annual Capital Expenditures Survey for 2018, the wood product manufacturing industry totaled $5.4 billion in total expenditures of which $4.8 billion were new expenditures. This included $722 million in expenditures for structures ($605M new and $118M used) and $4.7 billion in expenditures for equipment ($4.2B new and $434M used). (U.S. Census Bureau, 2020) These figures are national and do not include paper manufacturing ($10.8 billion in capital expenditures) or forestry, fishing, and agricultural services ($4.7 billion in capital expenditures). Connecticut's wood products industry is likely responsible for only a small portion of these national expenditures, but individual state data was unavailable. Support from various federal funding opportunities provides the basis for many of the forestry programs that occur in state. State funding is sufficient to cover salaries, but does not extend much beyond that. The wood products manufacturing industry in Connecticut is significant and directly contributes over $2.4 billion dollars to Connecticut's economy (includes solid wood and paper sectors). 
+(Public Sector Consultants & Emmerthal, 2020)
+ Indicator 15. Forest ownership, land use, and specially designated areas 15.1 Forestland Ownership Private landowners own the overwhelming majority of the forestland in Connecticut. Figure 
+29
+ illustrates the overall distribution of land ownership in the state. According to Understanding Connecticut Woodland Owners, "Private landowners include land trusts, corporations, churches, schools, utilities, water companies, clubs, foundations, and families. Families (about 140,000 family forest owners) are the largest group, owning about half of Connecticut's forests. How they manage their forests and whether or not they convert them to other uses is of significant public interest." 
+(Tyrrell, 2015)
+ With such an immense amount of forestland under private ownership, the future of Connecticut's forests are dependent on the goals and desires of these landowners. The Forestry Division and the University of Connecticut Cooperative Extension Service are available to assist these landowners on a limited basis through technical support and advice regarding the present care and future management of their forests, as well as estate planning advice. The Natural Resources Conservation Service provides some cost-share opportunities to assist private landowners accomplish their goals sustainably.
+Many of these private forestland owners (~122,000) own less than 10 acres of forestland. Because of a lack of staff and resources, oftentimes assistance is focused on larger parcels to be more efficient in the use of resources, but the importance of these small parcels and their effect on fragmentation, forest conversion, invasive species, and other factors should not be overlooked.
+There is no statewide private organization whose sole mission is assisting these private landowners with decisions regarding the management of their land, although many local nonprofit organizations include it as part of their mission.
+The landowners themselves have organized an association to assist other landowners. The Eastern Connecticut Forest Landowners Association (ECFLA)/Wolf Den Land Trust (WDLT) is a nonprofit 501-(c)(3) organization formed in 1972 to:
+• Promote the wise management of forestlands as a natural resource.
+• Provide an ongoing source of any and all information that members may need to make informed decisions concerning their forestland. 
+
+## Protected land
+
+In 1997, the Connecticut General Assembly set a goal of preserving 21 percent of the land area of Connecticut for open space for public recreation and natural resource conservation and preservation by 2023. To accomplish this goal DEEP was responsible for conserving 10% (320,576 acres) and DEEP's partners (municipalities, land trusts, water companies, etc.) would be responsible for conserving 11% (Connecticut Department of Energy and Environmental Protection, 2016). 
+
+## The latest version of
+
+## Community Forest Program
+
+The Community Forest Program (CFP) is a competitive grant program that provides financial assistance to local governments, qualified non-profit conservation organizations, and tribal entities to acquire and establish community forests that provide community benefits including: economic benefits through active forest management, clean water, wildlife habitat, educational opportunities, and public access for recreation. (USDA Forest Service, n.d.) Eligible projects must be private land purchased in fee by a qualifying entity with the U.S. Forest Service providing up to 50% of the project costs with at least 50% non-federal matching funds. Public access is required and each property must have a community forest plan developed by the community for the benefit of the community. (USDA Forest Service, n.d.) Three projects have been funded in Connecticut conserving approximately 174 acres in East Lyme, Madison, and Bolton.
+
+## Highlands Conservation Act Grant Program
+
+"The Highlands region spans 3.4 million acres across Connecticut, New Jersey, New York, and Pennsylvania. This iconic landscape is distinguished by Appalachian ridges, hills, and plateaus. It is marked by deciduous and coniferous forests, streams and lakes, and thousands of plant and animal species. It is not only ecologically diverse, but sustains forest management, working farms, nature-oriented recreational opportunities, and clean water for the many people who live in the region.
+"In an effort to conserve natural resources in the region, the Highlands Conservation Act was passed in 2004, founding the Highlands Conservation Act grant program. This grant program is among the many that the U.S. Fish and Wildlife Service administers to help partners conserve an array of plants, fish, wildlife, and their habitats. Grant funding also supports states, nongovernmental organizations and other conservation partners working to sustain key landscapes in the Highlands region for the benefit of both people and wildlife.
+"Since the passage of the Highlands Conservation Act in 2004, more than $20 million in federal funds, matched by $44.3 million in non-federal funds, have been awarded to permanently protect 9,405 acres of land. Projects supported by the Highlands Conservation Act grant program are led by state agencies and address lands that support key conservation objectives outlined in the Highlands Conservation Act such as clean drinking water, healthy forests, thriving wildlife populations, productive agriculture, and abundant recreational opportunities." (U.S Fish and Wildlife Service, 2020)
+
+## Private Land with public conservation easements
+
+The Department of Energy and Environmental Protection holds a variety of conservation easements. These include Forest Legacy easements, flood control easements, fishing easements, access easements, and possibly some hunting easements. There is no complete listing or acreage estimate of DEEP's conservation easements. There is also no comprehensive listing of easements held on private lands from other public entities. 
+
+## Forestland in tax reduction programs
+
+## Wood-related products manufacturing payroll and wages
+
+According to the Forest Products Industries' Economic Contributions: Connecticut 2020, the total annual payroll for the Forest Products Industry was $1.2 billion. Of this, Forestry was $960,000, logging was $13.3 million, primary solid wood products was $74.2 million, secondary solid wood products was $143 million, wood furniture was $340.5 million, and paper and secondary paper was $652.6 million. Legally mandated standards are those that are required by state statute, and include among them the licensing required for commercial arboriculture and the certification needed to legally conduct commercial forest practices. Professional standards are associated with those who do forest management, and may or may not be legally mandated. Performance standards pertain to the quality of the work being done more so than to the qualifications of the individual doing the work. Finally, there are those standards driven by public will that are statements of the public's desire for policy positions relative to forest management. This last category would include the state's policy goal, stated in Connecticut General Statutes 23-8, of holding 21% of the land area of the state as open space.
+
+## State forestry salaries
+
+## Voluntary and mandatory standards/guidelines
+
+Unless the requirement is simply for the purpose of registering participants, the establishment of a licensing or certification requirement automatically brings about standards associated with those requirements. In Connecticut, there are two such requirements closely associated with forest management.
+
+## Certification of Forest Practitioners
+
+The first of these is the certification required of all who would conduct commercial forest practices. Essentially, this means that if an operator advertises, solicits, contracts or engages in an activity which is undertaken in connection with the harvest of timber from a tract of forestland in excess of 50 cords, 150 tons or 25,000 board feet in any twelve month period, and the operator receives remuneration (income or goods and services in some form, including timber and firewood) for that work, certification is necessary. There are 3 separate levels of certification, each with its own distinct responsibilities and limitations. These three levels are:
+• Forester • Supervisory Forest Products Harvester • Forest Products Harvester
+To qualify as a certified forest practitioner, an individual must pass a rigorous exam, for the level of certification desired, offered by the Department of Energy and Environmental Protection Forestry Division. This examination is based on industry accepted standards regarding knowledge needed and practices acceptable in the field. Some of this is drawn from widely-used college texts and is considered common knowledge of those in professional practice. Other details are drawn from specific documents such as Best Management Practices (BMP's). All efforts are made to be clear to individuals what is required of them to qualify for certification.
+In addition, all certified individuals are required to demonstrate that they are maintaining their knowledge of advances in the field through the submission of Continuing Education Units (CEUs).
+
+## Arborist License
+
+In a similar manner, those who wish to practice commercial arboriculture in Connecticut must be licensed by the state. To do so, a person must pass a written examination administered by the DEEP, and also pass an oral examination before the Tree Protection Examining Board. These examinations test the candidate's knowledge of trees and tree care, general arboricultural practices, the specifics of diseases, insects, tree conditions and their treatments, and also their knowledge of pesticides relevant to arboriculture.
+For the most part, the arborist exam is based on general tree knowledge, the understanding of practices in general use in the field, and such specific standards as those adopted through the American National Standards Institute (ANSI) process. Continuing education credits are also required of those who wish to retain their arborist license.
+
+## Other certifications
+
+Beyond what is specifically required to allow them to work legally in Connecticut, many professionals aspire to additional demonstrations of professional competence and qualification. For example, while the requirements of professional certification through the Society of American Foresters or the International Society of Arborists hold no legal sway in Connecticut, many individuals seek to augment their credentials through such programs. In turn, the existence of such programs do influence the professional standards associated with the legally mandated licensing and certification programs.
+Professionals may also turn to independent associations in circumstances where there are no strict legal requirements, but in which there is a perceived need for established qualifications. A good example of this is the program of certification that is offered by the Tree Wardens Association of Connecticut. Through the Tree Wardens Association, individuals who wish to be certified as a tree warden may do so by demonstrating certain specific qualifications. In turn, the individual may show a municipality that is a potential employer this qualification. The expectation is that many cities and towns will realize the practical and legal benefits of having an individual qualified as tree warden in that city or town.
+The Northeast Master Logger Certification (MLC) Program offers third-party independent certification of logging companies' harvesting practices. The certification system is built around standards that have been cross-referenced to all of the world's major green certification systems. The content of the master logger program is based on a common vision for the rural communities and forest resources of the Northeast. These eight goals guide Master Loggers in their work: Document Harvest Planning, Protect Water Quality, Maintain Soil Productivity, Sustain Forest Ecosystems, Manage Forest Aesthetics, Ensure Workplace Safety, Demonstrate Continuous Improvement, and Ensure Business Viability. There are detailed harvest responsibilities with explicit performance standards under each goal (www.masterloggercertification.com). Three companies that possess Master Logger Certification have staffs that are certified to operate in Connecticut.
+There are no legal requirements for landowners to manage their forestlands to any specific standards, or for property owners to care for their trees in accord with any specific requirements. Individual property owners who wish to enroll in such voluntary programs as the Forest Foundation's American Tree Farm System or any of the other various third-party certification programs are welcome to do so; however, they do not receive any specific benefits from such participation apart from what they gain from the program itself. Even under the "PA 490" current use tax program, landowners are only required to keep their land as forestland; there is no requirement that they undertake any forest management activities to receive the reduction in property taxes.
+Associations such as the Connecticut Forest and Park Association play a key role in informing their members and the public at large about the status of forests and forest management in the state. CFPA's support of legislative initiatives is often critical. Organizations such as these help maintain an informed perspective regarding how forests are managed in the state and where additional resources or changes might be necessary.
+
+## Other Training Opportunities
+
+The Project Learning Tree (PLT) (www.plt.org) "is an award-winning environmental education program designed for teachers and other educators, parents, and community leaders working with youth from preschool through grade 12. PLT uses the forest as a 'window' into natural and built environments, helping people gain an awareness and knowledge of the world around them, as well as their place within it. Through hands-on, interdisciplinary activities, PLT provides students with opportunities to investigate environmental issues and encourages them to make informed, responsible decisions. PLT helps students learn how to think, not what to think, about the environment." (Connecticut Department of Energy and Environmental Protection, 2020) Many of Connecticut's environmental partner organizations outside of state agencies also provide educational opportunities and demonstration forests modeling sound forest management activities.
+
+## Monitoring of standards/guidelines
+
+Poor performance by a professional in the field can lead to legal ramifications. However, in the case of forest practices, this is most likely to occur through civil action at the local level. Connecticut is a strong "home rule" state. Municipal Inland Wetland Commissions often have broad authority over practices that are deemed harmful to inland wetlands and other environmental features, and so these municipalities are often effective in advancing improved forest practices throughout the state.
+The Forest Practices Act does give the state the ability to establish regulations governing standards for forest practices, but to date, the state has not established these specific field standards. At the state level, an individual who performs forest practices without proper certification may be subject severe penalties.
+Indicator 18. Forest-related planning, assessment, policy, and law
+
+## State forest planning
+
+The State owns approximately 262,000 acres in its system of parks, forests, wildlife management areas, scenic areas, and water access areas, which are all managed out of the Department of Energy and Environmental Protection. Of those 262,000 acres, approximately 172,000 acres are managed as 33 state forests across the state. The Forestry Division manages those state forests.
+The Forestry Division State Lands Standard Operating Procedure (SOP) guides the state lands program implementation, which includes the state forests. Within the SOP are criteria for state lands management plans. Management plans created for state forests address not only timber related activities, but wildlife, fisheries, and recreation, as well as site infrastructure, threatened and endangered species, and are evolving to include strategies to address climate change, carbon sequestration and storage.
+State forest management plans are developed with input and are reviewed by the other natural resource divisions and programs within the agency including the Fisheries Division, the Wildlife Division, Inland Wetlands, Parks and Recreation, Law Enforcement, and the Natural Diversity Database. These plans are approved by the Commissioner of DEEP or their designee. In addition plans are submitted to municipalities and partners for review prior to approval.
+DEEP has a goal to prepare management plans for all 33 state forests and to develop balanced management recommendations to protect the resources of the State. In 2015, 23 state forests had Forestry Division foresters assigned to manage them. Over the past five years, the equivalent of three full time employees have been added to the State Lands Program reducing the number of unassigned areas to five forests in 2020. This is a total area of approximately 18,000 acres. Natchaug State Forest is largest forest currently considered unmanaged, as there is not a full-time forester currently assigned to the unit.
+Figure 
+31
+ shows the current status of DEEP State Forest Management. Note that while many of the areas in red do not have active management plans, efforts are underway to update expired plans.
+Prior to harvesting timber on state-owned lands a forest operation plan is developed, reviewed and approved by Agency staff. These plans are written by the Connecticut Certified Forester assigned to the area and reviewed by the other programs within DEEP, including, inland wetland, fisheries, wildlife, operations, parks, natural diversity database, and the state forester. Plans may be reviewed by other natural resource programs and by other user groups or partners that work alongside DEEP. All harvests are monitored, with best management practices (BMP's) implemented. DEEP Foresters post educational signs during harvesting activities, as well as more permanent educational signs throughout the state forest system showcasing different forest management and timber harvesting activities. Immediately following the completion of acommercial operation on state lands foresters conduct a post-harvest inventory to determine if silvicultural objectives have been met for each stand.
+Interests in Forestry Division activities has increased in the past few years and Division staff have been working on developing additional social media tools to enhance outreach efforts, to engage additional partners and special interests groups, to share forestry knowledge and management experiences and to practice State Land Management that meets multiple objectives.
+There are other programs within DEEP that manage state owned forestlands for other specific purposes, which may not include timber management. These include state parks and wildlife management areas, each of which have their own procedures associated with their management.
+To showcase sound and sustainable forestry and habitat management techniques, educational facilities are located across the state. The Sessions Woods Wildlife Management Area, located in Burlington, introduces visitors to wildlife and natural resource management through various educational programs, demonstration sites, self-guided hiking trails, and displays. The Goodwin Conservation Center, located in the James L. Goodwin State Forest in Hampton, offers programs for the public, schools, educators, and those who use and impact Connecticut's forests, including landowners, foresters, loggers and municipal land use commissioners.
+
+## Private non-industry forest planning
+
+There is no requirement for private or municipal forestland owners to undertake any type of active management of their lands, even under those circumstances where a landowner claims current-use property tax break through the PA 490 program. However, whenever an individual or organization voluntarily chooses to undertake a management activity on their lands, including the development of a management plan or the harvest of forest products (conversion of forestland to non-forestland is exempted), the forest practitioner hired to undertake this management activity must be certified by the Forestry Division.
+As of July 2020, there are 148 certified foresters, 262 certified supervisory forest products harvesters and 36 certified forest products harvesters, including government employees. (Connecticut Department of Energy and Environmental Protection Forestry Division, July 2020) Estimates of the percentage of private forestland under active management, as indicated either by a viable forest management plan or recent harvest, vary.
+The Forestry Division supports the efforts of those who seek to use the services of a certified forest practitioner, as well as those who seek to manage and properly care for trees that are outside of what is commonly known as forestland. The Forestry Division Private and Municipal Lands Program provides a variety of services to private owners of forestland, to those who manage non-state owned public forestland, and to those who seek to care for their trees, including those individuals responsible for municipal tree programs. The Private and Municipal Lands Program consists of two parts. The service forestry program provides technical forestry assistance to private forest landowners. The urban forestry program provides outreach to municipalities, non-profits and private landowners on matters relating to trees not on forested land. Both programs provide support and assistance to those who manage publicly-owned forestland, such as that owned by municipalities.
+
+## Private Forestlands
+
+The service forestry program provides landowners (private and municipal) with unbiased and state-of-the-art forestry expertise, while respecting and balancing landowner goals with fiscally and environmentally sound management practices. Such expertise is provided in one-on-one consultations and site visits and through education and outreach programs.
+Often, service foresters aim to engage with landowners and direct them towards the appropriate private professionals and incentive programs. They will also inform landowners about their woodlands, point out any forest health concerns, suggest management options, and discuss the steps they should anticipate as they progress toward their management goals.
+In particular, the service foresters work with foresters and landowners in the preparation and implementation of Forest Stewardship Plans, following Forest Stewardship Program guidelines from U.S. Forest Service. They also are responsible for approving Forest Stewardship Plans written by private foresters, and for operating an annual monitoring program that tracks implementation and performance. The service foresters do this with the guidance and assistance of the State Forest Stewardship Committee, and in collaboration with partners and stakeholders, for the purpose of helping landowners achieve their resource objectives in a sustainable manner.
+
+## Forest Stewardship Plans
+
+Forest Stewardship Plans are forest management guiding documents prepared for individual landowners for specific parcels of forestland. Generally, Forest Stewardship Plans embody several interrelated concepts and ideas, under a conceptual framework that:
+• Identifies forest values, benefits and services to be sustained or enhanced in place(s) under consideration. (Ownership Goals)
+• Specifies indicators and desired future status for forest values and benefits. (Management Objectives)
+• Examines relationships between existing conditions, natural processes, and forest values.
+(Resource Inventory)
+• Considers whether human intervention can enhance identified forest values/benefits. (Actions to achieve a Desired Future Condition)
+• Manages forests and landscapes to maintain and enhance identified forest values and benefits. (Recommendations)
+• Monitors and evaluates indicators.
+
+## Connecticut Tree Farm Program
+
+The service foresters and private consulting foresters may encourage participation in the Connecticut Tree Farm Program, a part of the American Forest Foundation Tree Farm Program. Foresters and forestland owners in Connecticut have participated in this program for more than 50 years, providing recognition to forest landowners who exemplify sustainable forest management on their properties. Participation is voluntary, both by landowners and the professional forestry community. However, active participation is a way for landowners to have regular contact with peers, receive professional forestry advice and hear of the accomplishments of other Tree Farmers from around the region and the country. Currently this program is not very active in Connnecticut.
+
+## Urban Forestry
+
+The The CUFC has also been responsible for authoring a 5-year plan, completed regularly through 2010. More recently, in 2012, it produced a long-range plan that is intended to complement CUFC and the urban forestry program's contributions to the statewide Forest Action Plan.
+The major audiences for the Connecticut urban forestry effort include municipalities, non-profit groups, volunteer groups, professionals from a variety of backgrounds, and average citizens. Throughout its existence, the urban forestry program has tended to focus on building capacity within the state. Throughout, it has emphasized the basic building blocks of urban forestry, those that can be used to increase and grow the wide range of individual urban forestry efforts. Through its various planning processes, CUFC has identified the following 4 goals for the state program:
+Goal 1: Public Awareness: Education and Communication Continue developing public responsibility and government responsiveness by promoting an understanding of the social, economic, and environmental values of trees, forests, and related natural resources in communities.
+
+## Goal 2: Outreach and Environmental Equity
+
+Expand program participation to better engage all community members in all aspects of urban forestry.
+
+## Goal 3: Organizational Capacity
+
+Expand the capacity to address emerging issues and opportunities that support healthy, sustainable communities.
+
+## Goal 4: Natural Resource Management and Policy
+
+Support research that monitors and integrates the biophysical, social and economic attributes of urban forestry.
+The Connecticut program as a whole continues to expand capacity both at the local and statewide levels by providing outreach and support, as it also seeks to increase the number of people involved. This growth in capacity shows itself in many ways, including greater technical understanding among such groups as tree wardens, arborists and landscape architects; progress in meeting the specific needs and concerns of the many communities throughout the state, especially those in our more concentrated urban centers; and such economically-oriented initiatives as explorations of ways to increase the use of wood from the urban forests.
+
+## Community Accomplishments Reporting System (CARS)
+
+Connecticut participates in the Community Accomplishments Reporting System (CARS) for the U.S. Forest Service Urban and Community Forestry Program. CARS is a measure of the basic structural capacity of the municipalities throughout the state. CARS considers four criteria, based on whether each municipality has:
+• a management plan • a professional urban forestry staff • ordinances or established policies relative to urban forestry • advocacy or advisory groups within the community Connecticut uses these four criteria to measure the development of their urban forestry program witin each individual community. The use of CARS helps to identify and focus efforts towards municipalities that are not active or that are in the early stages of their development.
+
+## State Vegetation Management Task Force
+
+The State Vegetation Management Task Force was formed in 2012 in response to a recommendation of the Governor's Two Storm Panel which was an after action report following two damaging storms in 2011 (Tropical Storm Irene and the October Nor'easter snow storm). These storms had a significant impact on utilities infrastructure throughout the state and prompted recommendations to minimize catastrophic events in the future.
+The State Vegetation Management Task Force was to develop standards for roadside tree care, vegetation management practices and schedules for utility rights-of-way, "right tree/right place" tree plantings, and other items relating to tree wardens, municipal tree inventories, and tree pruning schedules. (Connecticut Department of Energy and Environmental Protection, 2020)
+The State Vegetation Management Task Force Final Report (State Vegetation Management Task Force, 2012) made recommendations that aimed avoid future losses and disruuptions through investment in roadside forest management including:
+• Requiring municipal tree wardens be certified.
+• Municipalities should develop 5-year roadside forest management plans.
+• All trees planted withing the public right-of-way on municipal land should be approved.
+• Centralize informational resources regarding roadside forests.
+• "Right Tree, Right Place" guidelines must be used when planting trees.
+• Roadside forests must be managed to become more storm-resistant over time.
+• Use science-based standards when removing, assessing, or replacing trees.
+• Educate property owners about the importance of stewardship/maintenance of trees.
+• Increase funding for roadside tree management through direct funding to municipalities from state and federal funding, municipalities increasing roadside forest management budgets, portions of utility vegetation management directed to remove hazard trees, and reduction of non-vegetative management costs such as traffic control.
+
+## America the Beautiful Small Grants Program
+
+While this program is currently suspended due to a lack of funding, among the most productive urban forestry programs in Connecticut is the small grants program known as the America the Beautiful Grant Program. This grant program invites applications from municipalities and nonprofits, in five categories:
+• Inner City Urban Forestry For grants involving tree planting, specifications for planting must be included in the application along with a detailed 5-year maintenance plan. The use of specialized publications such as the"Connecticut Tree Owner's Manual" (adapted from the national "Tree Owner's Manual" produced by the U.S. Forest Service) are highly encouraged. All areas with defoliation, discoloration, dieback and decline, breakage, and mortality above thresholds will be delineated. In addition, all other areas that are detected will be mapped and, where possible, identified by damaging agent. Canopy damage is photographed during aerial surveys. This information is used to predict next year's conditions.
+
+## Forest laws and policies Forest Laws
+
+There are several laws in Connecticut supporting forestland preservation, forest protection, sustainable forestry practices, and tree protection and care. Below is a summary of each.
+
+## Forestland Preservation Public Act 490
+
+In 1963 the Connecticut General Assembly enacted Public Act 63-490, "An Act Concerning the Taxation and Preservation of Farm, Forest, or Open Space". Commonly referred to as simply "PA-490," this act has become one of the most important laws in existence towards protecting an agricultural, forest and natural resource land base in Connecticut.
+With its roots in the 1913 Law "An Act Concerning the Taxation of Woodland", Public Act 490 states "(1) that it is in the public interest to encourage the preservation of farm land, forestland and open space land, and (2) that it is in the public interest to prevent the forced conversion of farm land, forestland and open space land to more intensive uses as the result of economic pressures caused by the assessment thereof for purposes of property taxation at values incompatible with their preservation as such farm land, forestland and open space land." A landowner with twenty-five acres or more of forestland in Connecticut may file an application along with a "Qualified Foresters Report" with their Assessor for classification as "forestland".
+To receive the reduced property tax rates, the property must meet the standards for classification as forestland as defined in Section 12-107b of the Connecticut General Statutes. In 2014 an amendment was passed to clarify language on exempted transfers.
+1913 Tax Law/10 Mill Law This law concerning the taxation of forested land was first passed in 1913 (Connecticut General Statues section 12-96 through 12-103) and subsequently amended several times to its present form (see Public Act 490 above). The law is a functioning anachronism in that there remain approximately 76 parcels in Connecticut (+/-7,363 acres) with active classifications of their land under this law, but it is no longer possible for new land to qualify for classification under this law. The law requires a minimum of 25 acres and that the land, exclusive of the timber thereon, has a value of not more than $100 per acre. Since there is no longer any forested land in Connecticut having a value anywhere near $100 per acre, the law remains valid, but no new land may be classified under it. Land classified under this law is taxed, based on 100 percent of the true valuation as established by the assessors at the time of classification. That the valuation is frozen for a 50-year period, providing the land use does not change. The Law then establishes a tax rate of no more than 10 mills. At the end of the 50-year period, a revaluation is made and the land is again taxed at a rate not to exceed 10 mills for another 50 years.
+The 10 Mill classification does not terminate upon sale or transfer of the land. It is tied to the land and is not personal to the owner. The owner of the land must pay a yield tax to the town on any timber cut, with the exception that timber cut for domestic use is exempt from the yield tax.
+There is also a substantial penalty to be paid upon cancellation of the classification. Any use of forestland classified under the 10 Mill law is permissible as long as the use does not cause a change in the basic character of the land as forestland. Any conversion of the land from its growth, management, and use as a forest is a change of use. It should be noted that the classification of land under the 10 Mill law is binding upon the entire tract of land and, when any portion of that tract must be removed from classification, the classification for the entire tract must be cancelled. 
+
+## Forest Practices Regulations -Connecticut General Statutes Section 23-65f
+
+The third component of the Forest Practices Act allowed the Department to adopt regulations governing on the ground-forest-practices. Although proposals have reached the public hearing process and discussions on their merit presently continue, regulations governing forest practices have not been adopted. Regulations were adopted in 2005 concerning the conduct of forest practitioners while conducting forest practices. These regulations resemble the Society of American Foresters ethical standards and those commonly found in other professional licensing standards.
+
+## Municipal Regulation of Forest Practices -Connecticut General Statutes Section 23-65k
+
+Municipalities may be authorized to govern some or all aspects of a forest practice through one of several state statutes. The Forest Practices Act names twenty towns that may adopt regulations governing on the ground forest practices. Those twenty towns, who had forestry regulations prior to the adoption of the Forest Practices Act, must submit the regulations to the Forestry Division for approval. Currently, only three or the twenty towns have approved forest practice regulations, Kent, Stafford and Willington. State forestry staff is available to provide technical assistance to towns developing or amending forest practice regulations.
+
+## Inland Wetlands and Watercourses Act
+
+In 1972, the state legislature enacted the Inland Wetlands and Watercourses Act which provides for the municipal regulation of activities affecting the wetlands and watercourses of our state. Many, but not all, activities associated with farming and forestry in wetland and watercourses are permitted as-of right under the Inland Wetlands and Watercourses Act, and therefore are not regulated activities. The interpretation of permitted as-of-right provision for forestry activities has been the subject of considerable educational efforts by the Forestry Division and Division of Inland Water Resources to assist all stakeholders in reaching a uniform understanding.
+
+## Tree Protection and Care
+
+Tree Warden Law -Connecticut General Statutes 23-58 and 23-59 and 23-59a
+The Tree Warden Law was first established in 1901. It requires each municipality to appoint a tree warden, who shall have "care and control" of all public trees, including authority over tree removals. Exceptions are trees alongside of state highways (these are the responsibility of the State Commissioner of Transportation) and, in municipalities where there is a Park Commission, public parks.
+Up until 2013, the Tree Warden Law did not require any basic qualifications for tree wardens. However, the Tree Wardens Association of Connecticut established a certification program for tree wardens that gained recognition as a base-level qualification for municipalities to consider when they appoint a new tree warden. In 2013 Connecticut General Statutes 23-59a was enacted requiring completion of coursework in tree biology, tree maintenance and pruning, urban forest management, and tree laws. A tree warden does not have to complete the coursework if they are a CT licensed arborist or if they appoint a deputy tree warden who is a CT licensed arborist or has passed the required coursework.
+
+## Arborist Law -Connecticut General Statutes 23-65a-f
+
+The Arborist Law was first established in 1919. It requires that anyone who practices commercial arboriculture in Connecticut be licensed by the State of Connecticut. Exceptions include tree removal and arboriculture done for an employer on the employer's property. Two Attorneys General have also issued opinions that tree work done for utility right of way also does not fall under the Arborist Law.
+The most significant outcome of the Arborist Law is that it allows very definite standards to be set as to what constitutes proper tree work. The licensing process involves detailed testing of the individual applicants. The tests involved in licensing are widely held to be thorough and difficult, and requiring that the individuals have extensive field knowledge as well as a good understanding of insects, diseases, tree biology, diagnosis and treatment.
+Currently, there are 940 licensed arborists in the state. Those who hold the arborist license are very protective of its standards and its privileges.
+
+## Other Tree Protection and Care Laws
+
+In addition to the Arborist Law, various pesticide laws and regulations apply to arborists, as the arborist license is also a supervisory pesticide license.
+In addition, Connecticut General Statutes 23-65 protects public trees from certain specific damages, and gives the tree warden the authority to act against such actions as vandalism or damage to public trees, shrubs and other objects in the public right of way. This statute establishes the "Guide to Plant Appraisal" as a reference to tree value and damage appraisal.
+A compilation of pertinent statues and regulations for arborists, foresters, tree wardens, and others involved with Connecticut's trees entitled "Connecticut Tree Laws" was updated in February 2010, and is available from the Forestry Division. This book has been widely distributed to appropriate audiences.
+
+## Forest Policies
+
+## Best Management Practices
+
+In 
+
+## Invasive Species
+
+Connecticut also has an active program geared towards reducing the impacts of invasive plants already found within the state and also working to prevent new invasions. It is the policy of the DEEP to discourage the planting of species that are non-native and invasive, so that the spread of these aggressive plants can be better controlled. Consistent with this policy, the Forestry Division is not able to provide funding for the planting of those tree and shrub species which the Department has determined to be non-native, invasive plants. Included on the list of non-native, invasive tree species compiled by DEEP are the following: 
+
+## Scientific Name Common Name Acer ginnala
+
+Amur maple
+
+## Acer platanoides
+
+Norway maple (including varieties) Acer pseudoplatanus
+
+## Sycamore maple Ailanthus altissima
+
+Tree-of-heaven Frangula alnus
+
+## European buckthorn Paulownia tomentosa
+
+Princess tree / empress tree Populus alba
+
+## White poplar
+
+## Rhamnus cathartica
+
+Buckthorn Robinia pseudoacacia Black locust
+In addition, there are several commonly planted shrubs on the invasive species list. Among the shrubs listed are Japanese barberry and several of the honeysuckles.
+
+## Biomass Harvesting Guidelines
+
+The 
+
+## Rural Fire Council
+
+The Connecticut Rural Fire council was organized in 2003 with four basic objectives:
+• Identify Rural Fire Issues • Look at and review Forestry Division/Fire programs and determine if those programs mesh with identified rural issues. • Make suggestions on Fire program changes • Provide for a more organized and direct conduit from the Fire program to the Fire Chiefs The Council is made up of representatives of the County Chiefs Organizations and generally meets twice per year. The Council is active, interested in their function and have been very influential in their work. DEEP Fire programs are better and more responsive to the needs of the fire departments because of it.
+
+## Connecticut Urban Forest Council
+
+The Connecticut Urban Forest Council (CUFC), is a statewide organization composed of representatives from Connecticut environmental organizations, state agencies, universities, research institutions, corporations, professional communities and citizen tree groups. Its purpose is to provide advice, assistance, education, information and support to urban and community forestry professionals, associated professionals, municipal, state and corporate leaders, and volunteers.
+The Council Seeks To:
+• Increase the number and quality of urban and community forestry programs in Connecticut towns and cities. • Inform community decisions makers, legislators, and the public about the essential benefits derived from urban and community forestry. • Provide continuing education and make educational resources available to arborists, tree wardens, foresters, community tree volunteers, public work employees and others practicing urban and community forestry in Connecticut. • Develop policies designed to promote progressive and appropriate urban and community forestry programs and practices throughout the state. (CUFC)
+
+## Tree Wardens Association
+
+The Tree Warden's Association of Connecticut, Inc. is a nonprofit organization dedicated to educating tree wardens and others about tree wardens roles and responsibilities (in the proper care and control of ornamental trees, shade trees, and shrubs for the purpose of assuring their continued preservation and natural beauty) through education and advocacy.
+(www.cttreewardens.org)
+
+## Connecticut Tree Protective Association
+
+CTPA is an educational association dedicated to advancing the care of Connecticut's trees. Currently, there are over 780 members, of whom approximately three-quarters are licensed arborists. About two-thirds of the licensed arborists in Connecticut are CTPA members.
+(www.ctpa.org)
+
+## Connecticut Invasive Plant Working Group
+
+The Connecticut Invasive Plant Working Group (CIPWG) includes federal, state, and municipal staff along with researchers, nurseries, educators, master gardeners, and interested citizens who share and discuss information about invasive plants and how they affect Connecticut. They gather and distribute information on the presence, distribution, and ecological impacts of invasive species. They also promote the use of native or non-invasive alternatives to invasive plants and work with partners to identify and develop management and control strategies. (cipwg.uconn.edu)
+
+## Connecticut Professional Timber Producers Association
+
+The Connecticut Professional Timber Producers Association (TIMPRO CT), is a 501 c ( 
+6
+
+## The Role of Urban Forestry in Connecticut
+
+Many of the issues identified in the previous Forest Action Plan -liability, health threats to the trees, education and volunteerism -continue to be of importance. The events of the past 10 years only serve to underscore the impact that major storms can have on the urban forest. New and newly recurring insect and disease outbreaks have proven how serious these biological threats can be. Together, they reinforce recognition of the need for all involved in urban forestry to continue to be aware and to be diligent in planning accordingly. The State Vegetation Management Task Force Report, released in 2012, placed at center stage the discussion of the roadside forest and the state's transportation and utility distribution systems. It also demonstrated the importance of cooperative efforts, and the agreement on such principles as 'the right tree in the right place'.
+Over the past decade, the role that urban trees play in promoting public health and in reducing the effects of climate change has gained prominence. In many ways, climate change and public health are concerns that are closely connected. Many of the impacts of climate change will be expressed through public health outcomes. Two examples of what that might mean are the need for trees to counter the effects of increasingly hot weather on the health of those living in densely populated urban cores and the increased exposure to tick-borne diseases that is likely for those using public parks and trails. As an example, support for tree planting often runs ahead of support for tree maintenance, even though tree maintenance is often a much greater need that will provide greater benefits over both the short and long-term. These sorts of messages that can expand public awareness need to be conveyed.
+In any discussion of urban forestry, it cannot be overlooked that urban forests often provide the most direct regular contact between the majority of the population and trees. Especially for people in highly urbanized areas, this contact with urban trees may well be their most sustained, and sustaining, contact with nature. Social equity and environmental justice must be a central part of the discussion in urban forestry. This includes efforts to welcome a more diverse group of people into urban tree and urban forest-related activities, including into leadership positions.
+Enhancing the connection between the state's urban forestry program and the state's equity and environmental justice program would be a good step in that direction.
+So often, these discussions come down to funding and the lack thereof. Funding difficulties cannot be allowed to be the factor that continuously derails discussions as to what are the appropriate priorities and issues of greatest concern in urban forestry. At the state level, the identification of costs and cost limitations, and the identification of means for addressing these cost limitations, must be put on the table if real progress is ever to be made in addressing fundamental concerns. Otherwise, it is likely that limits to the state's urban forestry program due to costs, at both the state and local levels, will only remain systemic and unresolved. 
+3,
+4,
+6,
+8,
+9,
+10,
+11,
+12,
+13,
+14,
+17,
+18,
+[22]
+[23]
+[24]
+[25]
+[26]
+[27]
+37,
+39,
+54,
+55,
+61,
+65,
+66,
+74,
+[80]
+[81]
+[82]
+83,
+92,
+98,
+100,
+103,
+105,
+108,
+113,
+117,
+119,
+120,
+121,
+124,
+127,
+128,
+129,
+131,
+132,
+133 • Public recreation opportunities 2,
+3,
+4,
+7,
+8,
+9,
+10,
+22,
+37,
+41,
+[52]
+[53]
+[54]
+[55]
+[56]
+[57]
+[58]
+[59]
+[63]
+[64]
+[65]
+[66]
+73,
+83,
+98,
+99,
+100,
+103,
+105,
+113,
+117,
+118,
+[123]
+[124]
+125,
+128,
+129,
+130,
+131,
+132,
+133 • Soil productivity 2,
+8,
+10,
+[36]
+[37]
+40,
+42,
+[44]
+[45]
+46,
+49,
+60,
+70,
+90,
+95,
+103,
+105,
+110,
+124,
+156 • Forest products and timber management opportunities 2,
+3,
+4,
+8,
+9,
+10,
+16,
+17,
+22,
+[27]
+[28]
+[29]
+42,
+43,
+[50]
+[51]
+[52]
+61,
+63,
+65,
+67,
+68,
+75,
+89,
+98,
+103,
+105,
+118,
+[125]
+[126]
+129,
+130,
+132,
+133,
+140,
+142,
+143,
+[147]
+[148]
+3,
+4,
+7,
+8,
+9,
+10,
+[36]
+[37]
+[38]
+[39]
+[40]
+[41]
+53,
+54,
+55,
+60,
+64,
+65,
+66,
+70,
+[87]
+[88]
+89,
+90,
+91,
+95,
+103,
+105,
+110,
+[113]
+[114]
+122,
+124,
+127,
+129,
+131,
+132,
+133
+, 156 b. The present and future threat -as defined by the State -of conversion of forest areas to non-forest uses 
+3, 4, 5, 6, 7-9, 12, 13, 18-22, 82, 84-85, 98-99, 100, 103-105, 108, 113-114, 117, 118, 119-120, 128 c
+. Historic or traditional uses of forest areas and trends and projected future uses of forest resources 
+16-17, 22-26, 28-29, 43-46, 52, 55, 61-63, 83, 84-85, 98-100, 108-115, 118-128, 140-144 d.
+ Current ownership patterns and size of tracts and trends and projected future ownership patterns 
+18-22, 61-67, 71, 84-85, 103, 108-110, 113-114, 118-
+
+## SECTION 3. Connecticut Forest Legacy Program Integration
+
+## Priority Map 4 -Forested Natural Diversity Database Areas
+
+The Natural Diversity Database (NDDB) areas represent approximate locations of state and federally listed species (endangered, threatened, species of concern) and significant natural communities. This map shows these areas that are forested. Keeping these areas forested and promoting good science-based stewardship would likely benefit any listed species or significant natural community found in these areas. 
+
+## Multi-State Priority Areas
+
+There are several conservation efforts in Connecticut that cross state boundaries. Each effort may have one or many partners, and may have one or several on the ground conservation or habitat/ecosystem management projects ongoing, or recently completed. It is anticipated that work will continue in these pre-designated priority areas, but also that new attention will be focused on them as time and resources allow. A few of the larger and better known efforts are described below, and depicted in the Multi-state Priority Area Map (Figure 
+42
+). Please note that this is not an attempt at creating an all-encompassing map of multi-state efforts, but it is meant to serve as a basis for determining existing priority landscape areas.
+• Berkshire-Taconic Landscape -CT, MA, NY, VT -Partnerships striving to conserve land along the mountainous spine along the boundaries of New York with Connecticut, Massachusetts, and Vermont. 
+43
+). (The Nature Conservancy, 2020)
+
+## Multi-state Priority Issues
+
+In addition to multi-state Priority Areas, there are also several priority issues that cross state boundaries and can be considered multi-state Priority Issues.
+• Biodiversity and forest habitats for wildlife • Biomass and renewable energy The process for developing the 2020 Forest Action Plan includes significant public input, from a broad swath of natural resource agencies and organizations, stakeholder groups, and the general public, to provide guidance to help conserve and manage working forest landscapes, protect forests from threats, and enhance public benefits from trees and forests across the entire state.
+The public input process has taken two forms: an online survey and six roundtable discussion meetings. This report summarizes the results of both the survey and the roundtable discussions. 
+
+## Key Points from the Public Input Process
+
+• The visions (Desired Future Conditions) from the 2010 Forest Action Plan were affirmed by both the survey and the roundtable discussions. All were ranked as either very important or moderately important by the survey respondents and the review during the roundtable sessions did not bring up any questions or concerns, only agreement.
+• The extent of participation in this public input process shows a broad concern about and strong connection to Connecticut's forests and woodlands. This is fortunate for many reasons, but especially because almost all the ideas generated at the roundtables would require strong partnerships between DEEP, other government agencies, and the private/non-profit sector to take meaningful action. Many would require a commitment to policy changes and an infusion of resources dedicated to the future of Connecticut's forests, in both the public and private/non-profit sectors.
+• The top survey responses to the open-ended question "What are your biggest concerns about Connecticut's forests and woodlands?" were loss/fragmentation, invasive species/pests, and recreational use/access. These three topics also generated the most ideas during the roundtable sessions.
+• The survey results show an overwhelming interest in forests and woodlands for conservation, wildlife, recreation, enjoyment, and lifestyle. About half of the respondents indicated forests and woodlands as valued for spiritual renewal and about half care about the value of urban trees. The more utilitarian uses of forests, such as hunting and resource management, were much lower. Consistent with this, conservation and recreation generated a lot of discussion and ideas at the roundtables. Also consistent with the survey results, the forest products industry generated the least amount of discussion at the roundtables, even though one of the Desired Future Condition statements was focused on a sustainable industry and markets for forest products.
+• Recreation issues generated the most ideas/comments at the roundtables by far. Next were concerns about invasive species, conserving open space, and research/science to support conservation and management particularly in light of climate change.
+• Various recreational use groups were represented at the roundtables and in the survey, although it was pointed out by participants at one of the roundtables that the survey did not get out to hunting clubs, so it is noted that the hunting interest may be underrepresented.
+• The input from natural resource professionals and the general public was relatively consistent in both the survey and the roundtables. The key differences are in the areas of forest industry/employment/management (professionals ranked higher) and recreation (public ranked higher), and familiarity with and use of the 2010 FAP (professionals significantly higher).
+
+## Connecticut's Desired Future Conditions
+
+The visions (Desired Future Conditions) from the 2010 Forest Action Plan were affirmed by both the survey and the roundtable discussions. All were ranked as either very important or moderately important by the survey respondents and the review during the roundtable sessions did not bring up any questions or concerns, only agreement.
+1. The fact that all forests provide important public benefits will guide Connecticut's forest and land use policies.
+2. Connecticut will increase the amount of forest protected from development following priority criteria based on core forest areas, connection, Forest Legacy potential, and vulnerability.
+3. Connecticut's forests will contain healthy and sustainable populations of native plants and animals.
+4. Public agencies will manage Connecticut's public forestlands to enhance public benefits.
+5. Policies will fully support and encourage private forest owners that have environmentally, socially, and economically balanced stewardship goals.
+6. The people of Connecticut will understand and value the urban forests as essential parts of healthy urban ecosystems.
+7. Connecticut's forests will support a broad spectrum of appropriate recreational activities that attract users to Connecticut's forests.
+8. Connecticut will use its forests to stimulate learning about nature and ecology and to demonstrate various sustainable forest management strategies.
+9. Connecticut's forests will support a viable forest products industry that provides marketable products from renewable and diverse forest resources.
+10. Management of Connecticut's forests will use the best available scientific information and the best available data as the basis for sound conservation and management decisions.
+
+## Complete Set of Agreed-Upon Visions, Principles, and Action Steps
+
+1. In the future, the fact that all forests provide important public benefits will guide Connecticut's forest and land use policies.
+
+## Principles:
+
+a) All forests -urban, suburban, and rural -provide some combination of important public benefits that have real value, but the benefits often do not pass through the marketplace or have prices.
+b) Connecticut policies affecting forests will use the best available scientific research and information in a collaborative manner.
+c) Citizen understanding of the important benefits provided by Connecticut's forests requires more education.
+d) Connecticut legislators will recognize that ensuring a future supply of these important benefits requires incentives for those who provide them (e.g., PA 490).
+
+## National Priorities
+
+a) Conserve and manage working forest landscapes for multiple values and uses.
+b) Enhance public benefits from trees and forests.
+
+## Action steps to accomplish this vision
+
+a) Connecticut policies and programs will promote active forest management to maintain a diversity of habitats.
+b) Forestry Division, CFPA, and other non-profit organizations will help coordinate and collaborate with public and private organizations and neighboring states.
+2. Connecticut will increase the amount of forest protected from development, following priority criteria based on core forest areas, connection, Forest Legacy potential, and vulnerability.
+
+## Principles:
+
+a) In the future, Connecticut forestlands will cover about 60% of the state's land area; at least a third of the forest area will be more than 300 feet from non-forested areas.
+b) Educational programs are necessary to develop public understanding and support for this vision. b) All organizations concerned with forestlands will increase public awareness of opportunities to protect forestlands, emphasizing public benefits.
+c) CUFC will increase public awareness of opportunities to protect urban forestlands and urban trees, emphasizing public benefits. g) Encourage conservation easements as important conservation tools.
+h) Reverse the fragmentation process through identification and protection of properties that will create or expand existing core forests or connected forested corridors.
+3. In the future, Connecticut's forests will contain healthy and sustainable populations of native plants and animals.
+
+## Principles:
+
+a) A diversity of habitats is necessary to maintain a diversity of wildlife and native plants, so Connecticut landowners should manage forests and other open spaces for a mix of land uses from grasslands to shrublands to mature forest stands.
+b) Prompt control of exotic invasive species will require public and/or private funds and coordination, given that removal often is very expensive and logistically challenging.
+
+## National Priorities
+
+a) Conserve and manage working forest landscapes for multiple values and uses.
+b) Protect forests from threats.
+
+## Action steps to accomplish this vision
+
+a) Encourage the establishment of oak regeneration on appropriate sites to ensure that oak remains an important component of Connecticut's forests.
+b) Establish a regional plan to manage exotic invasive species at a landscape level.
+c) Increase research on cost-effective control measures for exotic invasive species and make funding for these measures available.
+d) DEEP and non-profit organizations will encourage population reduction of locally over-abundant species that damage ecosystems, such as native white-tailed deer. This may require new legal frameworks to permit reduction of deer populations on lands that prohibit hunting; e.g., Goodwin State Forest.
+e) CFPA, UConn Cooperative Extension System, and other organizations will provide the education needed in schools and adult workshops so that Connecticut citizens understand the linkages between ecological diversity and plant and animal populations.
+f) UConn, Yale, and non-profits will encourage the natural resource professional and scientific communities to monitor species populations, where decline or disappearances occur, and they will promote efforts to restore habitats and return the species to its previous position in the overall environment.
+g) Use Garden Clubs and non-profit organizations with expertise to educate garden centers and consumers regarding sale of non-invasive plants.
+
+## 4.
+
+In the future, public agencies will manage Connecticut's public forestlands to enhance public benefits.
+
+## Principles:
+
+a) State-owned lands utilize the best, most current biological, physical, and social science information to make informed decisions.
+b) Healthy, well managed forests provide opportunities for carbon sequestration, carbon storage, climate change resiliency, and adaptation. c) Municipally owned forestlands also will utilize the best science, but the forest management goals may be quite different from those for state forests and other forested state lands (e.g., parks, wildlife refuges).
+d) Coordination among DEEP, DOT, utilities, and towns will improve management of the forest strips and corridors.
+
+## National Priorities
+
+a) Conserve and manage working forest landscapes for multiple values and uses.
+b) Enhance public benefits from trees and forests.
+
+## Action steps to accomplish this vision:
+
+a) DEEP will continue to use revenues generated from state-owned forests to sustainably manage those lands using the best science available.
+b) Local education programs will enhance the ability of municipal and state agencies to manage public forestlands for public benefits. 
+
+## Principles:
+
+a) Public and private programs will maximize (1) the area (acres) and ( 
+2
+) the number of parcels on which landowner goals and conservation of public benefit are aligned.
+
+## National Priorities
+
+a) Conserve and manage working forest landscapes for multiple values and uses.
+b) Enhance public benefits from trees and forests.
+
+## Action steps to accomplish this vision:
+
+a) Create effective, appropriately funded public/private support systems addressing education, research, consultation/advice, compensation/incentives, and communications. b) Local land management regulators will promote, and extension foresters, service foresters, and forestry consultants will encourage, forest owners, foresters, and forest harvesters to use Best Management Practices in all field operations. c) Explore markets/compensation options for landowners for ecosystem services markets including carbon credits and water quality protection.
+6. In the future, the people of Connecticut understand and value urban forests as essential parts of healthy urban ecosystems.
+
+## Principles:
+
+a) Urban forests are composed of the trees where we live and work -in public and private ownership -including all the trees: along our streets and highways; in parks and public spaces; around our schools; in our yards; on residential, commercial, industrial, institutional, retail, and recreational properties of all types; and in green and open spaces.
+b) Urban forests exist in all our communities -urban, suburban, and rural -and are not limited to a few large cities. c) Healthy forest ecosystems are necessary to the function of all landscapes.
+d) Urban forest management is a complex undertaking that involves knowledge of trees, the personal needs of people, and the difficulties and opportunities within the urban environment Professionals managing urban forests will also need to be versatile, with a skill set that draws upon a range of disciplines.
+
+## National Priorities
+
+a) Conserve and manage working forest landscapes for multiple values and uses.
+b) Protect forests from threats.
+c) Enhance public benefits from trees and forests.
+
+## Action steps to accomplish this vision:
+
+a) CUFC will work to increase public involvement in local urban forestry projects because community support is critical to the future of the urban forest.
+b) Municipalities, designers, architects, engineers, and urban foresters will explore and further develop ways by which urban trees will have a direct role in improving the functioning of the built environment; examples include cleaning the air, reducing storm water runoff, and reducing energy consumption.
+c) Identify or develop funding sources to help municipalities restore/expand their tree canopy following loss from storms, invasive pests, or utility vegetation management.
+d) Focus resources on disadvantaged communities and communities affected by environmental injustice. b) CUFC, CFPA, and others will help connect the tools, resources, and funding to teach about urban forestry and the tools to manage urban trees and forests. c) Forestry Division, CFPA, and educational organizations will collaborate with initiatives in education, communication, and efforts to realize the other forest visions. They will develop comprehensive information about Connecticut forests that is easy for the public to access and understand.
+9. In the future, Connecticut's forests will support a viable forest products industry that provides marketable products from renewable and diverse forest resources.
+
+## Principles:
+
+a) A viable forest industry is essential to sustainable management of forests.
+b) Both timber and non-timber forest products comprise a viable forest economy.
+
+## National Priorities
+
+a) Conserve and manage working forest landscapes for multiple values and uses.
+
+## Action steps to accomplish this vision:
+
+a) TIMPRO CT, its partners, and individuals will develop stronger DEEP and legislative support for public policies favorable to the industry and promote general initiatives to make Connecticut laws and regulations both simpler and more efficient for the industry.
+b) TIMPRO CT and other associations will advertise and promote the markets for Connecticut grown wood and fiber using the Connecticut Grown program and any other possible avenues.
+c) Explore ways to encourage Connecticut agencies and organizations to utilize more Connecticut grown forest products generating more demand for the local supply to fulfill.
+d) DEEP and partner organizations will promote education to increase awareness and understanding of the economic values forests provide.
+e) State legislation will support Federal Fair Trade laws to eliminate illegally harvested forest products in imported materials and require chain of custody certification on processed goods.
+f) TIMPRO CT and other organizations will argue to bring Connecticut truck weight limits into conformance with ME, MA, NH, NY, PA, RI, and VT.
+g) TIMPRO CT will promote a viable forest products industry that contributes to Connecticut's economy.
+10. Management of Connecticut's forests will use the best available scientific information and the best available data as the basis for sound conservation and management decisions.
+
+## Principles:
+
+a) Science enables our understanding of forests and their dynamics; it provides a basis for predicting responses of forests to management, and responses by people to changes in their forests.
+b) Adaptive management will be the standard practice with data-driven results providing feedback to improve ongoing management decisions. c) Research priorities will be the result of an ongoing dialogue among scientists, forest owners and managers, and outreach specialists.
+
+## National Priorities
+
+a) Conserve and manage working forest landscapes for multiple values and uses. 
+
+## Common Threads among Principles and Action Steps
+
+Several principles are applicable across many visions and received strong levels of agreement. These principles both set the tone of common ground among several interests and pave the way toward improved policies and on-the-ground practices. Progress in both rural and urban areas will highlight the importance of forests and trees to Connecticut citizens and help gain support for improved policies and management in the future. These principles help address the three National Priorities: conserving and managing working forest landscapes for multiple values and uses, protecting forests from threats, and enhancing public benefits from trees and forests.
+• All forests -urban, suburban, and rural -provide some combination of important public benefits that have real value; forest benefit values often do not have prices or appear in marketplace transactions.
+• Urban forests are composed of the trees where we live and work -in public and private ownership -including all the trees: along our streets and highways; in parks and public spaces; around our schools; in our yards; on residential, commercial, industrial, institutional, retail; and recreational properties of all types; and in green and open spaces.
+• Private forest owners provide the vast majority of public benefits without compensation, except for reduced property taxes for open space values (i.e., PA 490) and some support services (e.g., extension and service forestry programs).
+• A diversity of habitats is necessary to maintain a diversity of wildlife and native plants, so Connecticut landowners are encouraged to manage forests and other open spaces for a mix of land uses from grasslands to shrublands to mature forest stands.
+• Urban forests exist in all our communities -urban, suburban, and rural -and are not limited to a few large cities.
+• Healthy forest ecosystems are necessary to the function of all landscapes.
+• Connecticut's state forests will continue to serve as demonstration areas for sound forest management, as was one of the original purposes when Connecticut established state forests in the early 1900s.
+• K-12 and adult education will help Connecticut citizens understand the linkages between ecological diversity and plant and animal populations.
+
+## SECTION 2. Statewide Forest Resource Strategies Program Area Integration
+
+In addition to the Vision Statements, Principles and Action Steps developed during the Roundtable process, Forestry Division and CAES, implementers of the forestry programs statewide, developed a series of visions, missions, critical success factors, and strategies and actions that could be integrated into the Statewide Strategy.
+
+## Connecticut Department of Energy and Environmental Protection -Forestry Division 1) State Lands Management Program a) Vision
+
+The Forestry Division manages Connecticut's state forests, collectively the largest landholding in the state, to ensure that a viable and productive forest ecosystem provides clean air, water, and a sustainable supply of forest products while sequestering and storing carbon, and protecting unique, fragile, and threatened habitats. The state forests are held in the public trust to benefit future generations.
+
+## b) Mission
+
+The Forestry Division's mission is to manage the resources of the state forests in a professional manner, perpetuating a healthy, resilient, forest ecosystem of native species, preserving significant habitat values, while protecting the forest from fire, theft, exotic plants and insects, disease, and illegal/abusive practices. The Forestry Division uses scientific forest management to provide a variety of valuable ecosystem services to its citizens. The state forests serve as a resource management demonstration model for private landowners. They supply traditional and nontraditional forest products for a locally-sourced, forest-based economy in a sustainable manner. This mission supports other comprehensive plans of DEEP including Connecticut's Wildlife Action Plan (CTWAP), Statewide Comprehensive Outdoor Recreation Plan (SCORP), the Green Plan, and the Fisheries Habitat Conservation Enhancement Plan (HCEP). c) Critical Success Factors i) Perpetuate a forest ecosystem that promotes the natural regeneration of native, desirable tree species to the overstory. ii) Create a mosaic of different aged stands coordinated with the habitat needs of native wildlife populations. iii) Create diverse forest landscapes by applying silvicultural methods that efficiently sequester and store carbon, improve resilience, and allow adaptation to climate change. iv) Designate and protect core old forest land.
+v) Manage and slow the spread of exotic invasive plants and insects into public forest ecosystems. vi) Identify and protect all boundaries and implement a system to address encroachments. vii) Maintain and improve infrastructure to minimize loss of access. Make upgrades that will be able to accommodate climate change impacts such as increases in intense precipitation events. viii) Improve information management. ix) Support utilization and marketing as a management tool. Promote the climate benefits of carbon stored in long-lived wood products. Support the forest products industry and strengthen low-grade markets to keep forests healthy and provide locally-sourced raw material to the local economy. x) Develop a sustainable recreation model that balances ecosystem services with recreation demands. xi) Protect forest resources from illegal and unauthorized trail creation by developing a system to document and restore pre-existing conditions. 
+3
+) Control over-browsing by deer (supports CTWAP). Investigate methods in addition to hunting to increase regeneration success rates and to establish and maintain desirable seedling and sapling stocking. ( 
+4
+) Increase the number of acres of hunted state land to reduce deer and turkey populations (supports SCORP & CTWAP). Also, provide information to hunters where higher densities of deer might exist (e.g. recent regeneration harvests). ( 
+5
+) Revisit stands within 5 years of established regeneration with follow up silviculture treatment to ensure release of desirable regeneration.
+(6) Develop a comprehensive trail policy with the Bureau of Outdoor Recreation to avoid conflicts and make sure State Lands Management goals/strategies are met.
+Use trail design standards based on user needs to avoid interruption to the regeneration harvest sequence and protect core old forest land (supports SCORP & CTWAP). ( 
+7
+) Continue to establish old forest reserves on State-Forestlands in appropriate locations by assigning old forestland management status through the forest management planning process. (8) Explore a management system based on eco-regions with common landscapes and forest communities (southeast, northeast, central, northwest and southwest).
+Preserve and protect old forestland sites and watersheds (supports Watershed Forestry & CTWAP). ( 
+9
+) Incorporate climate adaptation and forest carbon planning into forest management plans prepared for State lands. ii) Manage and slow the spread of non-native plants and insects.
+(1) Assess invasive plant threat of all future management activities and develop a plan to mitigate any negative access impacts.
+(2) Monitor/prevent/control invasive insect infestations and monitor for potential diseases.
+(3) Use prescribed burning for ecosystem maintenance/restoration to control/eradicate/prevent invasive plants, improve wildlife habitat, and prepare stands for regeneration (supports CTWAP, Fire Management Program, and Forest Health Program). ( 
+4
+) Require operators to clean equipment before starting work on State Lands to reduce the spread of invasive plant seeds. (5) Provide haz-mat spill kits to all harvesting operators on DEEP lands. ( 
+6
+) Create a supply of portable timber bridges that can be loaned to harvesting operators working on DEEP land. ( 
+7
+) Mark forest boundaries on a regular cycle. (8) Implement a system to address encroachments, unauthorized illegal use (including motor vehicles), theft, and infrastructure damage (supports SCORP). ( 
+9
+) Purchase interior land parcels, inform public of open forest roads, post or gate closed DEEP-owned roads, and close illegal trails (supports SCORP). iii) Improve Information Management -improve the system of field data collection, compilation, storage, and dissemination to include GIS maps in-house and online for management planning.
+(1) Maintain DEEP biological database and GIS map system. Collect, store and distribute field data in partnership with other DEEP Divisions with portions available online. 
+4
+) Promote research and projects that allow better quantification of ecosystem services. For policy makers, landowners, land managers, and the public to fully embrace ecosystem services they need a greater understanding of how these benefits matter at the local level. ( 
+5
+) Disperse information to the public regarding the benefits of forest management integrated with improved wildlife habitat management, clean water, and wellplanned recreation using municipal involvement in management planning review, response to citizen concerns, clearly marked boundaries, and informational signs at harvest sites. ( 
+6
+) Publish harvest schedules, descriptions, and maps online to provide frequent Public updates for scheduled forest management activities (7) Develop outreach material to publicize that the state forests are not being overharvested. Cite growth to harvest data from DEEP and FIA. Point out that DEEP is managing with longer rotations and increased carbon storage and sequestration while still sustainably meeting a wide variety of goals including forest products, wildlife habitat, and water quality. ( 
+8
+) Create talking points for field foresters. Create informational signs to be placed at harvesting sites. e) National Priorities addressed by the State Lands Management Program i) Conserve and manage working forest landscapes for multiple values and uses.
+ii) Protect forests from threats.
+iii) Enhance public benefits from trees and forests.
+
+## 2) Forest Protection Program a) Background
+
+Connecticut Statutes require that the DEEP maintain personnel and equipment to be able to respond to requests for assistance in the suppression of wildfire. Consequently, Forestry Division staff and Parks and Recreation staff all have fire suppression as part of their job duties. Forestry Division fire staff maintains wildland fire equipment and provides training to DEEP staff to meet the intent of the law.
+Connecticut is a charter member of the Northeastern Forest Fire Protection Commission (commonly called the Northeast Compact) that was formed after the disastrous fires in New England in 1947. This forest fire protection compact was established to promote effective prevention and control of forest fires in the northeastern region of the United States and adjacent areas in Canada. It has grown over the years to include all of the New England states, New York, five Canadian provinces, and several associate partners including the U.S. Forest Service, the U.S. National Park Service, the U.S. Fish and Wildlife Service, the Bureau of Indian Affairs, and the Fire Department of New York. This is the oldest and most active fire compact in the country. Connecticut fire staff serve on Northeast Compact committees, train and coordinate all activities for compatibility.
+The DEEP has an agreement in place to move federally qualified firefighters and equipment to respond to fires anywhere in the U.S. Fire crews made up of twenty highly trained persons have responded to fires all over the country since 1978. In addition, individuals meeting very high training standards with specialized experience in various capacities have also responded over the years as single resources. Since 2016, DEEP has been sending engines out on national assignments. These "national mobilizations" form the background of a very skilled workforce that makes the fire staff the best in Connecticut. This workforce is called the Connecticut Interstate Fire Crew (CIFC), and is made up of both state employees and private individuals. Legislation passed in 2019 allows for private individuals on the CIFC crew to be hired by the state as temporary emergency workers if needed for in-state wildfire response.
+The National Wildfire Coordinating Group (NWCG) is the body that develop standards for training, equipment and experience for national response.
+Connecticut fire staff annually train DEEP employees in wildland fire suppression and tactics. In addition, free training is provided to any fire department through either regional trainings, or when possible, individual department trainings. Annually over 500 local firefighters are trained. Many more are exposed to wildland fire tactics and expertise as information is disseminated back to them by others trained in their department, including Connecticut Interstate Fire Crew members who often have on the ground practical experience.
+Volunteer, paid and combination fire departments in Connecticut operate independently and are struggling to maintain membership, training requirements and maintain high service to the public that they serve. The Forest Protection Program strives to maintain a close working relationship with local fire departments and faces an uphill challenge as the Program has limited staff to help with these fire department issues. The Forest Protection Program utilizes district fire wardens to assist with compiling fire bills for reimbursements, statistic collection, and providing a local resource for fire department communication.
+In 2003 the Connecticut Rural Fire Council (RFC) was formed to provide an improved conduit to the DEEP fire staff and the local fire chiefs. The Council is made up of representatives from county chief's organizations and identifies rural fire issues, reviews DEEP programs, and provides advice and make suggestions for improvements. Over the years, the RFC has been instrumental in helping collect data, make important suggestions and connections, and provide overall support to the Forest Protection Program to help achieve programmatic goals.
+Wildland Urban Interface (WUI) is where the "wildlands" and people coexist. These areas have increased wildland fire issues that emergency responders must deal with. In Connecticut, it is more of a wildland "intermix" as over 58 % of the state is forested, with much of the population living throughout the heavily forested urban and rural areas. This places it 14 th in the nation in terms for forest cover, and yet Connecticut is the third smallest state, and remains the 4 th most densely populated state in the U.S. with roughly 3.6 million people statewide, and 741 people per square mile. Unlike many western states, Connecticut's fire starts are generally human ignitions and an average of 500 acres a year burn across the state. Most wildfires in Connecticut are not thoroughly investigated due to prioritized workloads and lack of time and trained personnel to investigate.
+Connecticut's WUI issues include road access issues, isolated houses within a forested environment (often times flag lots); and heavy deciduous forests with abundant leaf litter, which due to the lack of vegetative management around houses, tends to collect against buildings. This lack of vegetative management also often does not allow for a break between wildlands and developed areas. Other WUI concerns arise from individuals who burn without a permit, and the dumping of hot ashes or coals in rural and suburban communities from households who heat with wood.
+Open burning of brush is allowed in Connecticut if a resident has a permit from the local open burning official, but there are conditions attached to that permit that restricts its use when there is an increased potential for degradation of air quality or when the Forest Fire Danger is high or above.
+The Forest Protection Program monitors the weather as it relates to fire danger, and broadcasts daily predictions for fire danger during the spring and fall fire seasons and at other times of the year when fire danger is elevated. Connecticut is currently working with the Northeast Compact to develop a more comprehensive and uniform fire danger rating system for the New England states and to improve daily fire danger metrics data collection.
+
+## b) Vision
+
+i) The Forestry Division has the skills necessary to meet the statutory requirements to assist fire departments with fire suppression through highly trained personnel and ready equipment. Fire departments depend on the Forestry Division for the highest quality wildfire training, suppression assistance, knowledge of the Incident Management System (ICS) and the National Incident Management System (NIMS).
+The Forestry Division has thorough knowledge of the rural fire needs and wildland urban interface concerns. A well-coordinated communications system and partnership between the state and the fire departments can help to achieve a safe wildfire-working environment, an efficient suppression effort, reduce the number of acres burned and protect the lives of Connecticut's citizens and reduce property damage. The Forestry Division is recognized for their emergency response capabilities, and are utilized to their fullest capacity, both in and out of the agency. 
+4
+) Utilize prescribed fire as a tool for hazard mitigation.
+(5) Continue to offer the dry hydrant sub-grant program as needed 
+(6)
+ Monitor and apply for grants that help achieve programmatic goals 
+(7)
+ Work to educate communities on how to improve road ingress/egress access points and identify limited access road areas within the state ( 
+8
+ working with the Northeast Compact to develop a more comprehensive and uniform fire danger rating system for the New England states. xvii) Revamp the Fire Warden program through active recruitment of fire wardens and scheduled meetings, for use assisting with fire bill reimbursements, fire statistics collection, and as an avenue for information exchange with fire departments. f) National Priorities addressed by the Forest Protection Program i) Protect forests from threats.
+
+## 3) Private and Municipal Lands Program a) Vision:
+
+i) Landowners (private and public) have all the resources (i.e., incentives, tools and guidance) at their disposal to completely understand and make intelligent, fully informed decisions regarding the environmentally and fiscally sound management of their forest lands. The policymakers, program partners, forest landowners, public and certified forest practitioners understand the many benefits of forests and forestry and cooperatively and aggressively work together to implement policies and programs that help keep forests as forests and promote forest health. A sufficient pool of competent certified professional loggers and foresters exists to meet the needs of forest landowners, municipalities and the industry. In addition, sufficiently strong local industries and markets exist for traditional and nontraditional forest products, non-timber products and ecosystem services to encourage and enable landowners to maintain healthy functioning of their forests as forests.
+
+## b) Mission:
+
+i) Forest Land Taxation (Public Act 490, 10 Mill) -Provide training and assistance to certified foresters, landowners and municipal assessors on statutes and regulations pertaining to the classification of land as forest land. ii) Landowner incentive programs -In collaboration with other state and federal agencies, provide guidance and assistance in the design and implementation of programs that provide incentives to landowners including, but not limited to, cost share programs.
+iii) Forest landowner assistance -Provide landowners (private and public) with thorough, accurate, unbiased and state-of-the-art forestry expertise respecting and balancing landowner goals with fiscally and environmentally sound management practices. Such expertise is provided in one-on-one consultations and site visits and through education and outreach programs. iv) Keeping forests as forests -Provide outreach, education and assistance to forest landowners, municipalities, policymakers, forest industry and citizens on the benefits and means by which landowners and communities may retain forests as forests. ii) Enhance public benefits from trees and forests.
+
+## 6) Urban and Community Forestry
+
+## Strategies for Urban Forestry
+
+To describe urban forestry in its simplest and broadest terms, it is a collection of programs that are about trees and people, and the relationship between trees and people, in a way that also involves some aspect of the built environment.
+The specific nature of these programs may vary widely. At their core, these programs strive for a safe and healthy tree canopy in and around the places where people live, work and congregate, combined with a focus on the benefits that these trees provide. It is not unusual for these programs to focus on the people as much as on the trees. By encouraging awareness, engagement and a sense of connection, these programs make life better and more sustainable for people, trees and society.
+It is a fundamental tenet of urban forestry that trees and urban forests are an essential component of modern life. The list of benefits from trees is wide-ranging. They extend from providing clean air and clean water to being a feature of neighborhood identity. Trees provide habitat for wildlife while also increasing property values and improving life for the people they share space with. In connection with that last point, trees have been shown to have a significant influence on public health, in a variety of ways.
+At the same time, these trees, despite their innate resiliency, live in an environment that is constantly being shaped and reshaped by humans in ways that are not always beneficial to trees.
+Because of this and because a safe urban tree canopy is critical to humans, the management aspect of urban forestry is crucial.
+In Connecticut, urban forestry is a statewide effort. It consists of programs that occur at the federal, state and local levels. At each level public, private and non-profit components are included. These levels are often integrated, within programs and across jurisdictions. These urban forestry programs may involve trees on public lands and/or trees on private lands. Taken as a whole, these programs are applicable to all communities in the state, from the smallest rural village to the most-densely populated city and address the three National Priorities: conserving and managing working forest landscapes for multiple values and uses, protecting forests from threats, and enhancing public benefits from trees and forests.
+Below are eight strategies for Urban and Community Forestry in Connecticut. These are being proposed to provide guidance to those who will be making decisions over the next ten years relating to urban forestry. Additional detail on these strategies are on the pages that follow.
+For these goals to be achieved, it is necessary that the many participants in urban forestry remain active and engaged. Develop and publish a list of the benefits of urban forests as they occur in a range of sites and as relates to a variety of beneficiaries. Included would be street trees, trees on residential and commercial properties, and trees within parks and urban woodlands. Beneficiaries could include individual segments of the population, such as the elderly, the underserved or the young.
+
+## Purpose:
+
+To engage in complete discussions regarding urban forests, it must be clear what urban forests do. These listings of benefits can be developed as stand-alone statements of facts, existing apart from whatever role they may play in policy discussions. At the same time, it is expected that this information would be used in policy discussions, as part of the factual context of the discussion.
+
+## Resources Needed:
+
+Discussions are needed as to what information is most important at the local level. Developing and formatting this information would require dedication of staff time, likely at the DEEP and perhaps also at UConn or CUFC.
+
+## Strategy -Establish a Statewide Urban Forest Data Bank
+
+Strategy: Establish a state-wide informational data bank. This data bank would include Urban Forest Inventory and Analysis (UFIA) data, local inventories, DOT's town road index, reports on events relating to tree health, utility work plans and other information that might be of use to those who are involved with urban forestry. Status reports on invasive insects and diseases would also be included.
+
+## Purpose:
+
+To give tree wardens and others important information about their own towns and to allow them to see information from other towns, allowing towns to share notes about common conditions. It would also allow investigators -whether university researchers, town planners or others -ready access to a range of useful data.
+
+## Resources Needed:
+
+For this data bank to be useful, it must contain the information that local tree wardens and others need. It must be in a format that would be readily accessible to the tree wardens as a whole. That will require a significant amount of effort, researching both of these needs. Gathering the data will then be another large challenge.
+
+## Strategy -Describe and Promote the Elements of a Successful Municipal Urban
+
+Forestry Program
+
+## Strategy:
+
+Determine and then clearly articulate the elements of a successful urban forestry program at the municipal level. This listing would recognize that the needs and capacities of all municipalities in the state are not the same. Examples of such elements might include a street tree inventory, an urban forest management plan and/or a citizen advisory committee.
+
+## Purpose:
+
+One of the strengths of the state program is the guidance and support that it provides municipalities. With guidance, the municipalities will be in a much better position to achieve strong, active and creative local programs. Strong local programs are the lifeblood of urban forestry within the state. This strategy would allow the state program to give focused support to the municipal programs.
+
+## Resources Needed:
+
+Regardless of the elements recommended, it will be up to the individual municipalities to take on the responsibility for implementing these recommendations, although the state programs, nonprofits and others can help. Having communities that can serve as models for other communities will also be helpful.
+
+## Strategy -Help to Build
+
+Communication and Dialogue Among Municipalities, especially Among Adjacent Communities That May Share Common Regional Concerns
+
+## Strategy:
+
+Implement the means by which discussion and feedback on issues of importance in urban forestry occur among cities and towns that are nearby to one another. Encouraging the conditions for sharing urban forestry experiences and challenge at this regional level.
+
+## Purpose:
+
+To highlight those issues that transcend municipalities but still are largely local in form and content. Also, to highlight the similarities and differences in issues at this scale from across the state. Topics for discussion might include local urban forest health issues, available equipment, tools and resources for urban forest managers, utility vegetation management and topics related to urban wood use, including waste reduction and disposal. Recent experiences with invasive insects has shown the value of this sort of regional communication.
+
+## Resources Needed:
+
+Identification of entities that could assume responsibility for taking on the responsibility for these sorts of interactions.
+
+## Strategy -Embrace Diversity and Encourage Cooperation and Inclusion Throughout Urban Forestry
+
+## Strategy:
+
+Recognize the ways that many entities -governmental, corporate, commercial, non-profit, volunteer, research and academic -have an interest in urban forestry. Recognize that, at its core, urban forestry is about people. Bring more people, and a more diverse group of people, into urban forestry at each of these levels. See to it that more people are not just the audience for urban forestry programs, but fully engaged cooperators in urban forestry efforts.
+
+## Purpose:
+
+Urban forestry often does not always invite the full range of people whom it might serve into its programs. Greater awareness and more targeted efforts should be made so that urban forestry programs as a whole reach this wider audience.
+
+## Resources Needed:
+
+Greater outreach so that more people know where the need is and so that people who are interested will know that they are wanted and should feel encouraged. An ALB management program relies on several approaches to eradicate the beetle. These are survey and detection to determine the limits of an infestation; eradication by cutting and chipping infested trees; chemical treatment of non-infested host trees; regulation to curtail movement of infested materials (firewood is considered to be a high-risk pathway for spread of the beetle); research on the beetle; education and outreach to citizens; and restoration efforts to both replace trees removed during eradication and to create a more diverse urban forest. Public outreach is a very important part of the program as all of the infestations have been detected by a citizen reporting the beetle to the proper authorities or bringing in a specimen for identification.
+Unfortunately, a second Asian insect, the emerald ash borer (EAB), Agrilus planipennis, is killing many of Connecticut's ash trees. This beetle was first detected in the United States in southwestern Michigan in 2002 and has spread throughout eastern North America. Although the beetle can fly and move several miles each year on its own, the rapid geographic spread of this pest has been primarily through the transport of infested firewood. Since its discovery, EAB has killed many tens of millions of ash trees in the many states where it has been found. As of July 2020, EAB had been officially detected, primarily through a biosurveillance program using the native wasp, Cerceris fumipennis, in all but 10 towns in Connecticut (Figure 
+44
+). Working with USDA-APHIS, two small stingless parasitoid wasps, Tetrastichus planipennisi and Oobius agrili, were released by CAES for the biological control of EAB starting in 2013. A third parasitoid, Spathius galinae was released starting in 2016. In 2015, T. planipennisi were recovered from EAB larvae at several initial release sites indicating that the parasitoid has become established. Since then, T. planipennisi and S. galinae have been detected at the majority of their release sites, as well as up to 7 miles from their original release sites (Figure 
+45
+). Oobius agrili, the egg parasitoid has been more difficult to recover due to its small size, but has been found in Cromwell, Plymouth and Middletown, Connecticut. As of January 14, 2021, USDA Animal and Plant Health Inspection Service (APHIS) will remove the federal domestic EAB quarantine regulations. Resources are being shifted from trying to stop the spread to these biological control agents.
+Firewood regulations were implemented to help reduce the risk of the importation of new exotic pests through infested firewood (CT Regulations Sec. 28-24-5g).
+A new potential exotic pest is the spotted lanternfly, Lycorma delicatula. This insect, a member of the planthopper family Fulgoridae (Hemiptera), is native to eastern Asia. It was first detected in Berks County, Pennsylvania in 2014. It attacks many hosts and has the potential to severely impact Connecticut's farm crops, particularly apples, grapes, and hops, as well as a number of tree species. Adults, especially females, are found only on a few hosts, including tree of heaven (Ailanthus altissima) and grape (Vitis vinifera), indicating that the reproductive host range is much more restricted. While this insect represents more a threat to Connecticut agriculture than our forests, it will bear watching. One dead adult was found in Farmington in 2018 (transported in on a vehicle from PA). A video of a single adult spotted lanternfly walking on the pavement of gas station in Southbury CT, was recorded in September 2019. No life stages of spotted lanternfly were found following subsequent surveys at either location.
+The question with all new exotic species is whether they will cause negative impacts like chestnut blight, hemlock woolly adelgid, or emerald ash borer. We can only guess what overall impacts organisms like Asian longhorned beetle, southern pine beetle, winter moth, or P. ramorum will cause in Connecticut's forests if or as they become established, but the potential consequences to the nursery industry, forest products industries, tourism, and environmental quality are huge. For example, while high value ash trees and lightly infested trees can be treated with systemic insecticides to protect them against the emerald ash borer, Connecticut is losing most of its forest and urban ash tree resources to this destructive insect. However, the release and establishment of EAB parasitoids has the promise of providing long-term control of EAB. At the current time, federal and state quarantine and eradication of ALB would be the goal of the program if this insect is detected in the state. The program objective is to identify, manage, and reduce threats to forest and ecosystem health.
+1. Address exotic invasive species and the impact they have on forest resources. The Experiment Station conducts research to address exotic invasive species and the impact these species have on forest resources. Research on forest health and exotic species are long-term activities, though some specific projects may be short-term 
+(1-5 years)
+ or long-term (+5 years) in duration. Regulatory activities will also address the introduction of exotic species. These will include:
+• • The Experiment Station will continue to monitor forest plantings of CAES timber hybrid chestnuts on state, private, and water company land to examine their potential for restoration of chestnut in our forests. Additional plantings will be made of CAES hybrids from seed orchards in Windsor and Griswold. This is a long-term project. Orchard chestnut trees in CAES plantings will be studied for potential as commercial cultivars and released to nurseries for distribution. • Necessary regulations will be drafted and submitted for approval as needed for new pests or situations (past example, regulation of firewood). See objective 9 on flexibility of response to emerging situations.
+2. Detect, monitor, and evaluate forest pests and forest health conditions.
+Monitor forest health at permanent plots -The Experiment Station will detect, identify, and evaluate population trends of pests known to cause serious forest damage using aerial surveys, permanent ground plots (51), and other ground surveys as needed to confirm aerial findings of damage and predict next year's conditions. CAES conducts an annual state-wide aerial survey for spongy moth defoliation and defoliation caused by other insects, such as the orange-striped oak worm and mortality due to the emerald ash borer. CAES also performs spongy moth egg mass surveys to delineate potential problem areas for the subsequent year. This is supported by the core forest health funding from the U.S. Forest Service and it is a long-term strategy (+5 years).
+Conduct surveys for potential pests as determined by the CAPS program and region specific pest concerns, as well as surveys for newly detected pests, such as the spotted lanternfly and beech leaf disease. The Experiment Station will determine if these pests and diseases are present in Connecticut through survey and outreach and identification/diagnostic services to the public, foresters, and other stakeholders. Surveillance is a long-term strategy depending upon detection/ presence of the pests, which have not been found in Connecticut at this time. However, some specific surveys are short term, 1-5 years, depending upon funding support. Detection of ALB (mainly through potential public reports), P. ramorum, and other potential pests of "regulatory concern" will initiate a regulatory response from USDA-APHIS-PPQ and the Experiment Station. Specifically;
+• CAES will conduct bio-surveillance for EAB with the native, solitary wasp Cerceris fumipennis (Hymenoptera: Crabronidae). Short-term, 1-5 years. • CAES will conduct Phytophthora ramorum surveys in wholesale nursery perimeter sites, a woodland site, and garden center perimeters. These locations complement the CAPS survey in Connecticut. Short-term, 1-5 years. 
+
+## SECTION 3. National Priorities
+
+As part of the required five-year review of the Forest Action Plan in 2015 was the addition of a new section titled "National Priorities". This section aimed to describe actions and success stories contributing to each of the three national priorities identified by Congress in the 2008 Farm Bill. The three national priorities are: 
+
+## Urban Forestry
+
+Accomplishment: Helped municipalities, professionals, and the public manage urban forests. While this theme is usually interpreted as being most applicable to working rural forests, no forests are harder working in terms of direct benefits to society than urban forests. A highly effective urban forestry program knits together the efforts of many actors and for many purposes. Connecticut has created a network of individuals from a variety of professional backgrounds and in a variety of roles that is highly influential in terms of promoting and helping implement urban forestry. As a result, Connecticut is highly aware of its urban forest, is pro-active in its management, and has sought to institutionalize the long-term recognition and care of this forest. The percentage of tree canopy cover in urban areas in this state leads the country.
+
+## Private and Municipal Lands
+
+Accomplishment: The collaborative originally formed in 2010 between DEEP, NRCS, and UConn continues to thrive and significantly impact stewardship in Connecticut.
+Efforts of the collaborative led to an unprecedented rise in financial assistance to landowners (Connecticut NRCS EQIP budget spent on forest planning and reached as high as 18% percent annually in 2016 from a previous high of 14%). Strong relationships with Yale University have allowed us to utilize their training facilities as well as assist with prescribed burns on University property.
+
+## Protect Forests from Threats
+
+Communications and partnerships have improved with local fire departments and governing officials in southeast Connecticut, an area of increased fuel loading and wildfire potential which was a direct result of significant tree mortality due to drought stress and previous spongy moth outbreak (see accomplishment below).
+Two Wildfire Risk Reduction Grants have been received to mitigate hazardous conditions in that area.
+Over the past several years, the Forest Protection Program has utilized Avenza as the primary mapping tool for instate fires. Use of this mapping tool has been taught to DEEP full time personnel, CIFC members, and limited numbers of fire department personnel. We have also sent multiple people for training with ESRI products (Collector, Survey 123) to better assist us with mapping, inventory, and managing other data.
+As mentioned in an accomplishment above, an extremely successful partnership has been built with the Connecticut Department of Transportation to build fire engines together. Three engines have been completed to date, the fourth is in the works.
+After a lengthy hiatus, the Forest Protection Program and the Army National Guard have begun talks to reinvigorate this partnership through mutually beneficial training opportunities, and understanding of emergency response capabilities.
+Accomplishment: Change the Connecticut Environmental Policy Act (CEPA) requirements to allow for larger prescribed burns on state forests While this change took affect during the 2010-2015 accomplishment period, we have since been able to implement the first burn over 20 acres (previous limit). A 136 acre burn was implemented in Cockaponset State Forest in 2016 to promote oak regeneration. Additional larger burns have been planned since then, but burn windows have not been favorable for implementation.
+Accomplishment: Improve ability to get precipitation data for fire weather predictions We have been working to improve our ability to make fire weather predictions. All staff attended training on the National Fire Danger Rating System (NFDRS) 2016 program rollout in 2019.
+Ongoing investigations are exploring the best methodology moving forward to benefit both local fire weather predictions and regional coordination efforts.
+Accomplishment: Fill vacancies within the Forest Protection Program Since 2015 the Forest Protection Program has experienced multiple instances of staffing shortages in the Western District Fire Control Officer position. In January 2020 the position was permanently filled.
+Accomplishment: Secure two Wildfire Risk Reduction Grants for hazard mitigation Extended drought coupled with a spongy moth infestation created extensive areas of oak mortality in parts of eastern Connecticut between 2016 and 2018. In order to proactively and effectively address hazards created by this mortality and the resulting fuel loading and snag potential, Connecticut applied for and received two $150,000 Wildfire Risk Reduction Grants. Implementation of these grants are ongoing at this time.
+Accomplishment: Create a Wildfire Reporting Application to assist in better statistics gathering and assistance to Fire Departments In order to better collect and compile wildland fire statistics across Connecticut, the Forest Protection Program developed an easy to use phone application that can be used on scene or at the office by fire department personnel. This application was introduced in 2020, and will be used to better understand occurrence and needs statewide, and will help populate federal reporting systems.
+Accomplishment: Maintain an active Rural Fire Council to advise the Forest Protection Program The Rural Fire Council continues to meet twice a year, charged with identifying rural fire issues, reviewing DEEP Fire programs for relevance to current issues, making suggestions on program changes when necessary, and acting as a conduit from the Chiefs to the Forestry Division. The Rural Fire Council was instrumental in securing the relationship with the Department of Transportation which has resulted in a successful engine building operation.
+
+## Urban Forestry
+
+Accomplishment: Provide outreach materials to towns regarding invasive species The emerald ash borer (EAB) is probably the highest profile current threat to Connecticut's urban forests, and perhaps its forests overall. At this point, the charge is not so much to protect the forests from EAB but to mitigate the impact from this insect, while maintaining vigilance regarding other exotic pests such as the Asian longhorned beetle.
+Invasive exotic plants are also of concern, especially as so many enter into the more native environment through roadsides and urban plantings of a variety of sorts. 
+
+## Urban Forestry
+
+Accomplishment: Encourage a more comprehensive view of urban ecosystems Several key leaders in urban forestry, including within the U.S. Forest Service, are actively encouraging the idea that urban forestry is much more than street trees and park trees and is, in fact, part of what is best described as the urban ecosystem. In a related manner, there has been a growing emphasis placed on recognizing the ecosystem benefits provided by urban trees. This way of thinking was incorporated in the urban forestry vision recorded in Connecticut's 2010 Forest Action Plan.
+Accomplishment: Assist non-forestry professionals in understanding urban ecosystems The role of trees and of the importance of urban ecosystem awareness is becoming important to managers with other primary interests, such as those in public health, those who manage storm water, air quality and "urban resilience", and those in economic development who hope to attract people and money to a specific municipality or location. For a long while people, including many researchers, managers, tree professionals and lay observers, have felt that urban trees provide a unique value to cities and towns, but have only been able to state those impressions in qualitative and anecdotal terms -that is, until recently. The investigations of engineers, scientists, epidemiologists, and others are increasingly pointing out, in quantitative terms, the types of real environmental, social, and economic value that urban trees provide. As many of these researchers and practitioners are not urban foresters, their primary concerns are not the health or existence of the trees. Rather, their interest is in the significance of the benefit that comes from these trees, such as improved public health or reduced peak storm water flow. For them, trees are simply a means to an end. This makes their assessment of the role of trees that much more credible.
+Accomplishment: Outreach to public With respect to its Community Accomplishment Reporting System (CARS) reports, Connecticut has consistently shown itself able to reach over 98% of its population through its urban forestry program.
+Accomplishment: Continue high standards for regulating tree wardens and arborists The state's statutes regarding tree wardens and arborists places the state in a leadership role with respect to its standards regarding both public and private tree care. The state's tree warden program took a major step forward in 2013 with the requirement that all tree wardens need to be qualified being added to the already existing requirement that all municipalities must have a tree warden. There is now a standard for what it takes for an individual to be considered as qualified as a tree warden.
+
+## Private and Municipal Lands
+
+Accomplishment: Provide educational outreach to forest landowners and the public DEEP and all of its collaborators provided significant educational outreach to forest landowners and the public including, but not limited to, one on one site visits, meetings with groups, serving as advising forester to landowner groups or local environmentally oriented boards and the updating or creation and distribution of publications, brochures, website and workshops.
+Examples include, but are not limited to the Coverts Project, spongy moths and publications such as the Woodland Owner Packet, Directory of Certified Forest Practitioners, Directory of Primary Processors, Directory of Connecticut Grown Forest Products Producers and Agriculture, Forestry and Wetlands.
+
+## Forest Practices Act
+
+Accomplishment: Continue to license and educate forest practitioners More than 500 loggers and foresters are certified pursuant to the Forest Practices Act. Certification is primarily achieved through examination. The Forestry Division approved more than 500 continuing education workshops over the past 5 years and certified practitioners logged in more than 19,000 hours of continuing education 
+(3,
+200
+ hours annually) on subjects such as safety, harvesting techniques, best management practices, silviculture, business practices, forest health, forested wetlands and laws affecting forest practices.
+Accomplishment: Offered forested wetland soil workshops. The Forestry Division worked with DEEP Land and Water Resources Division, NRCS, and UConn Extension to offer a well-attended series of workshops to loggers, foresters and municipalities about forested wetland soils. The workshop introduced new tools and technology as well as site visits to active logging operations.
+
+## Utilization and Marketing
+
+Accomplishment: Development of two publications on the economic importance of the forest industry. Connecticut, working along with 19 other states in the Northeast and Midwest and a team of economic experts, produced both state-level and regional publications utilizing IMPLAN, a widely recognized economic impact model, and 2017 data, to quantify the full economic impact the forest industry. This is the first time that the participating states have all used the exact same methods so results are both combinable into regional and national impacts as well as being comparable to the results in other states. The state and regional publications will provide a critical tools to advise policy makers at the state, region and national level on important economic matters involving forestry and the forest products industry.
+Accomplishment: The Forestry Division's Connecticut Grown Program developed an interactive online map, a new brand and DOT approved road signs. In 2010, the Forestry Division partnered with the Connecticut Department of Agriculture to expand their Connecticut Grown program to include forest products. The program is a celebration of locally produced forest products that allows consumers to purchase knowing the wood was locally grown, harvested sustainably and produced locally. Approximately 50% of the state's primary timber production capacity has joined the Connecticut Grown forest products program. The Connecticut Grown Forest Products program has achieved significant media attention since its inception. The interactive map and approved road signs along the states' highways help connect wood producers with market prospects. The new brand includes both a brand intended for burning into wood products and a modernized color version for advertising.
+Accomplishment: The Forestry Division Utilization/Marketing and State Lands programs combined efforts to prepare a business plan which successfully served as a road map for keeping its sawmill open, justifying the hiring of a qualified sawyer and leading toward the modernization its machinery and expanding its utility throughout DEEP and other state agencies.
+The sawmill produces forest products from DEEP's owned managed forests for use throughout its system. The sawmill had untapped capacity in both products produced and in its educational value both within the forest products industry and the public in general. 
+
+## Appendices
+
+## Introduction
+
+Forests cover nearly 60% of Connecticut, making it one of the most forested states in the country. Trees and forests add significantly to the quality of life through a great variety of factors across a broad spectrum of environments and communities. Whether in rural, suburban, or urban settings, trees and forests provide services and conditions that help keep people, animals, and ecosystems healthy and are integral to the character of the area.
+The Forest Action Plan is required by the U.S. Farm Bill and must be updated every 10 years and reviewed every five years. The next update is due in 2020. It includes an assessment of current conditions and strategies for the next 10 years.
+The process for developing the 2020 Forest Action Plan includes significant public input, from a broad swath of natural resource agencies and organizations, stakeholder groups, and the general public, to provide guidance to help conserve and manage working forest landscapes, protect forests from threats, and enhance public benefits from trees and forests across the entire state.
+The public input process has taken two forms: an online survey and six roundtable discussion meetings. This report summarizes the results of both the survey and the roundtable discussions. 
+
+## Key Points from the Public Input Process
+
+ The visions (Desired Future Conditions) from the 2010 Forest Action Plan were affirmed by both the survey and the roundtable discussions. All were ranked as either very important or moderately important by the survey respondents and the review during the roundtable sessions did not bring up any questions or concerns, only agreement.
+ The extent of participation in this public input process shows a broad concern about and strong connection to Connecticut's forests and woodlands. This is fortunate for many reasons, but especially because almost all the ideas generated at the roundtables would require strong partnerships between DEEP, other government agencies, and the private/non-profit sector to take meaningful action. Many would require a commitment to policy changes and an infusion of resources dedicated to the future of Connecticut's forests, in both the public and private/nonprofit sectors.
+ The top survey responses to the open-ended question "What are your biggest concerns about Connecticut's forests and woodlands?" were loss/fragmentation, invasive species/pests, and recreational use/access. These three topics also generated the most ideas during the roundtable sessions.
+
+## 202
+
+ The survey results show an overwhelming interest in forests and woodlands for conservation, wildlife, recreation, enjoyment, and lifestyle. About half of the respondents indicated forests and woodlands as valued for spiritual renewal and about half care about the value of urban trees. The more utilitarian uses of forests, such as hunting and resource management, were much lower. Consistent with this, conservation and recreation generated a lot of discussion and ideas at the roundtables. Also consistent with the survey results, the forest products industry generated the least amount of discussion at the roundtables, even though one of the Desired Future Condition statements was focused on a sustainable industry and markets for forest products.
+ Recreation issues generated the most ideas/comments at the roundtables by far. Next were concerns about invasive species, conserving open space, and research/science to support conservation and management particularly in light of climate change.
+ Various recreational use groups were represented at the roundtables and in the survey, although it was pointed out by participants at one of the roundtables that the survey did not get out to hunting clubs, so it is noted that the hunting interest may be underrepresented.
+ The input from natural resource professionals and the general public was relatively consistent in both the survey and the roundtables. The key differences are in the areas of forest industry/employment/management (professionals ranked higher) and recreation (public ranked higher), and familiarity with and use of the 2010 FAP (professionals significantly higher).
+ There were a few written comments sent after the roundtables which expressed strong concerns about forest management, biomass harvesting and roadside tree removal. They are included here as appendix 6.
+
+## Part 1: The Survey
+
+The survey was conducted via Survey Monkey and distributed to a broad range of groups and interest lists within Connecticut, as well as advertised on CT Department of Energy & Environmental Protection (DEEP) social media. See appendix 1 for the list of distribution channels and the text of the outreach message.
+The goals of the survey were to 1) provide an opportunity for the public to review and weigh in on the visions and priorities from the 2010 FAP; 2) get information about the extent of their awareness and use of the 2010 FAP; 3) find out what their concerns are related to Connecticut's forests and woodlands; and 4) find out why they care about Connecticut's forests and woodlands. See appendix 2 for a copy of the survey.
+
+## Survey Respondents
+
+There were 1,077 respondents from across the state (figure 
+1
+), representing just over half of Connecticut's 169 towns (figure 
+2
+). There were more respondents from the more heavily forested counties, which is to be expected. Nevertheless, the more urban/suburban counties had a reasonable number of responses (figure 
+3
+).
+Twenty-eight percent of the respondents work in the natural resource field, predominantly in conservation/environmental organizations (8%), government agencies (7%), forestry (5%) and academic/educational institutions (4%). Nearly 75% of respondents belong to an environmental organization, land trust, or recreation club (figure 
+4
+), many belong to more than one type of organization. Twenty-eight percent do not belong to any of these types of organizations. Thirty-two percent of respondents own woodland in Connecticut, most in small parcels (figure 
+5
+). This is an over-representation of woodland owners, which account for 10% of the households in Connecticut.
+Within the woodland owner respondents, the percent of larger landowners (37% over 10 acres) is higher than that of the Connecticut woodland owner population (12% over 10 acres). It is expected that the larger woodland owners would have a strong interest in the future of Connecticut's forests, more so than urban or suburban dwellers. Respondents were asked whether or not they were familiar with the 2010 Forest Action Plan. If they were familiar, they were asked a further set of questions related to their use of the plan and their perceived progress over the past 10 years. The list of uses of the plan is in order of the number of mentions. The results for those respondents who identified as working in the natural resource field vs those who did not are not significantly different for the most part. The big difference is that natural resource professionals are much more aware of and to have used the 2010 FAP, which is to be expected. The purpose of the roundtable discussion meetings was to bring together stakeholders and interested members of the public to provide input on the challenges to realizing the visions for Connecticut's forests and to suggest possible actions to address those challenges. The focus was mainly on actions, although there was an opportunity to review and comment on the visions.
+The process was designed such as to have separate meetings for stakeholders (natural resource professionals) and the general public, as it was thought that generally the two audiences would have different levels of background information and potential commitment to participating in the implementation of the plan. Nevertheless, there was some cross-over between professionals and general public in all of the sessions.
+The distribution channels for the roundtable invitations were the same as for the survey (see appendix 1). The meetings were held during June, 2019 in three locations geographically representing the central, eastern and western parts of the state. In each location, there was an afternoon session for natural resource professionals (3 ½ hours) and an evening session for the general public (2 hours). The formats were different, although the topics that were discussed were similar. Altogether there were 108 unique participants 
+
+## 216
+
+Participants were assigned to tables randomly as they arrived, thus there was a good mix of people from different organizations and backgrounds at each table. Participants were presented with a matrix that included the Desired Future Conditions (DFC) and Challenges associated with each DFC (see appendix 4) and were asked to review the DFCs and Challenges, and add anything they thought was missing. Then they were asked to brainstorm action ideas. Each table was assigned a different sequence in which to work so that although no table got through all of the DFCs, all of the DFCs were covered by at least one table. Tables were assigned a lead person who captured the main points on a flip chart and reported back to the whole group. Any other notes from the tables were also collected and included in the report for the session.
+
+## General Public Sessions
+
+These sessions were designed more as listening sessions and table discussions revolving around themes from the Forest Action Plan visions. Participants were asked to participate in the discussion of whichever theme most interested them. There was no expectation of specific action ideas, although participants were encouraged to put forth any ideas they had. All ideas, both from the 
+
+[FIGURE: Figure 1 -2015 forest cover from remote sensing data compiled by CLEAR (University of Connecticut Center for Land Use Education and Research, 2016).]
+
+[FIGURE: Figure 4 -Estimated Forestland Age Classes by percentage of all forestland (USDA Forest Service, 2019).]
+
+[FIGURE: Figure 5 -Timberland by Stand Size (USDA Forest Service, 2019). Forestland by stand size would look very similar as most (98%) of forestland is timberland.]
+
+[FIGURE: Figure 7 -2015 core forest map (University of Connecticut Center for Land Use Education and Research, 2016).]
+
+[FIGURE: Figure 8 -Change in Land Cover Type in CT between 1985 and 2015 (University of Connecticut Center for Land Use Education and Research, 2016).]
+
+[FIGURE: Figure 9 -Change in acreage by land cover type between 1985 and 2015 (University of Connecticut Center for Land Use Education and Research, 2016).]
+
+[FIGURE: Figure 12 -Areas of concern for State and Federal listed species and significant natural communities (Connecticut Department of Energy and Environmental Protection, 2020).]
+
+[FIGURE: Figure 13 summarizes Connecticut's GCN species. Full details can be found in the 2015 Connecticut Wildlife Action Plan (www.ct.gov/deep/ wildlifeactionplan).]
+
+[FIGURE: Figure 13 -Summary of Connecticut's GCN species (Connecticut Department of Energy and Environmental Protection, 2015).]
+
+[FIGURE: Figure 14 -Area of forestland and timberland by year (USDA Forest Service, 2019).]
+
+[FIGURE: Figure 16 -Maps showing defoliation in Connecticut between 2016 and 2018. Data source: Connecticut Agriculture Experiment Station.]
+
+[FIGURE: Initial attack is done by the local fire departments. The State Forestry Division has statutory responsibility to assist fire departments upon request. Firefighters come from the Department of Energy and Environmental Protection, primarily from State Park and Forest facilities and the Forestry Division staff. Members of the Connecticut Interstate Fire Crew (CIFC) are an additional workforce if needed. CIFC members are made up of both state employees and private individuals who are trained in wildfire response to be mobilized statewide, nationally, and internationally. Policy, training, safety and equipment standards for all assisting wildland firefighters are developed and/or facilitated by the Forestry Division.]
+
+[FIGURE: Figure 17 -The number and acreage of reported wildfires between 2009 and October 31, 2020. Background photo by North Windham Fire Department.]
+
+[FIGURE: Figure 18 -Percent area of Connecticut in drought conditions between 2015 and November 3, 2020. D0 -Abnormally Dry; D1 -Moderate Drought; D2 -Severe Drought; D3 -Extreme Drought; D4 -Exceptional Drought. (U.S. Drought Monitor, 2020)]
+
+[FIGURE: Figure 19 -Invasive species treatments on State Forests since 2015. Data and photo provided by Will Hochholzer.]
+
+[FIGURE: Figure 20 -Erosion on a Blue-Blazed Trail through Mattatuck State Forest (Photo by Jerry Milne).]
+
+[FIGURE: Figure 21 -Top map showing percent forest cover by major drainage basin. Bottom map showing percent forest cover by HUC-12 watersheds. Data sources: CLEAR and DEEP.]
+
+[FIGURE: Figure 22 -Map showing forested areas (red) within aquifer protection areas which are regulated by the Aquifer Protection Area laws (K. Czapla, personal communication, September 4, 2020).]
+
+[FIGURE: Figure 23 -Breakdown of impaired stream miles by percent forest in watershed (Connecticut Department of Energy and Environmental Protection -Bureau of Water Protection and Land Reuse, 2020).]
+
+[FIGURE: 4 cubic feet annually (U.S. Census Bureau, 2020) (Howard & Liang, 2019). Using 2017 Connecticut population estimates (Connecticut State Department of Public Health) with the above rate makes the total annual Connecticut rate of consumption an estimated 188 million cubic feet.]
+
+[FIGURE: Figure 25 -Location of Connecticut's Primary Wood Processors listed in the directory as of October 2020 (Connecticut Department of Energy and Environmental Protection, 2020).]
+
+[FIGURE: Fish and Wildlife Service (USFWS), and the U.S. Army Corps of Engineers (USACE). (USDA Forest Service, 2019) National Park Service NPS owns two properties in Connecticut, which are open to the public: • Weir Farm National Historic Site, totaling 110 acres, located in Wilton & Ridgefield, with an average of nearly 40,000 visitors annually since 2015 (National Park Service,]
+
+[FIGURE: Figure 26 -Map showing CFPA Blue-Blazed Hiking Trail system (light blue lines) with some selected side trails (dark blue lines) including the Appalachian Trail (dark blue line in northwest part of Connecticut). Data from CFPA interactive map (Connecticut Forest and Park Association, n.d.).]
+
+[FIGURE: Appalachian National Scenic Trail, often referred to as the Appalachian Trail (AT), is longest hiking-only footpath in the world, stretching 2,193 miles through 14 states from Maine to Georgia. (Appalachian Trail Conservancy, 2020) The Appalachian Trail traverses the northwestern corner of Connecticut for 51 miles and ranging in elevation from 260 feet to 2,316 feet and is maintained by the Appalachian Mountain Club Connecticut Chapter, and overseen by the Appalachian Trail Conservancy. (Appalachian Trail Conservancy, 2020) New England National Scenic Trail The New England National Scenic Trail was designated on March 30, 2009 comprised primarily of the Metacomet-Monadnock-Mattabesett (M-M-M) Trail system in Connecticut and Massachusetts. The route is approximately 215 miles long, and crosses 41 communities from Long Island Sound through central Connecticut and Massachusetts to the New Hampshire border. The Connecticut portion of the trail is maintained by CFPA working with the NPS. (New England National Scenic Trail, 2020)Connecticut Rail TrailsAccording to the Rails-to-Trails Conservancy, Connecticut has 28 rail-trails, trails created on former railroad beds, covering 221 miles.(Rails-to-Trails Conservancy, n.d.)  These trails are often owned by the State or municipalities and can offer greater accessibility than most trails due to their relatively flat grade and often paved or crushed stone surfaces. They are popular places to walk, run, or bike often in wooded settings.]
+
+[FIGURE: Figure 27 -USDA Forest Service funding to Connecticut since Fiscal Year 2015.]
+
+[FIGURE: Connecticut's Comprehensive Open Space Acquisition Strategy: 2016-2020 Green Plan, recommends the acquisition of lands for environmental and public recreation conservation around four major themes: • Natural Waters and Drinking Water Resources • Areas Significant to the Coast • Natural Heritage Resources • Natural Resource-based Outdoor Recreation As of 2020, DEEP held about 261,806 acres, or nearly 82% of its statutory share, while as of late 2015 DEEP's partners held an estimated 243,714 acres, or 69% of their share. Together this means the goal of preserving 21% of Connecticut's land area as open space by 2023 was more than 75% complete. (Connecticut Department of Energy and Environmental Protection, 2016) (M.Starr, personal communication, November 10, 2020) Both DEEP and its partners have acquired thousands of acres more in the years since, but reaching the goal of 21% by 2023 is unlikely due to funding concerns and acquisition opportunities. Efforts to conserve more open space will likely continue whenever funding allows as DEEP and its partners aim to protect the finite resource of open space land.]
+
+[FIGURE: Figure 30 -Protected open space in Connecticut. Based on latest DEEP information which is in the process of being updated.]
+
+[FIGURE: Figure 31 -Current status of DEEP state forest management plans (as of June 2020).]
+
+[FIGURE: Figure 33 -Invasive tree species in Connecticut.]
+
+[FIGURE: Figure 38 -2020 Forest Stewardship Program Priority Areas based on Stewardship Program properties (as of 10/9/2020) and Large (>500 acres) and Medium (250-500 acres) Core Forest on eligible private land. Total Stewardship Program Priority Area acreage is approximately 503,892 acres. Data from CLEAR and DEEP.]
+
+[FIGURE: Figure 39 -Privately-owned forestland in public water supply areas. Data from DEEP and CLEAR.]
+
+[FIGURE: Figure 40 -Natural Diversity Database (NDDB) areas of concern for state and federally listed species in forested areas. Data from DEEP updated June 2020.]
+
+[FIGURE: and manage working forest landscapes for multiple values and uses. b) Protect forests from threats. c) Enhance public benefits from trees and forests. Action steps to accomplish this vision: a) Develop statewide prioritization standards/criteria for open space protection.]
+
+[FIGURE: c) Municipal conservation planning efforts will identify key properties for conservation.d) Follow recommendations made by the Statewide Vegetation Management Task ForceReport and the Stormwise Initiative (www.stormwise.uconn.edu)5. In the future, policies will fully support and encourage private forest owners that have environmentally, socially, and economically balanced stewardship goals.]
+
+[FIGURE: ) Work with communities to educate and implement effective house numbering for 9-1-1 use. xv) Improve public knowledge and understanding of fire program (1) Notify chief elected officials of funding awards (2) Utilize press releases for widespread message delivery of program successes (3) Maintain information exchange between the Forest Protection Program and DEEP Communications (4) Maintain website information and improve website offerings as needed. (5) Continue to work with DEEP's Conservation Education program to provide quality wildfire prevention information. (6) Maintain a viable wildfire prevention program. (a) Continue to deliver a strong Smokey Bear message (b) Continue to have prevention materials available for distribution (c) Foster media relationships to deliver prevention messages during periods of high fire danger. xvi)Continue to research and explore ways to better collect fire danger data, and continue]
+
+[FIGURE: Figure 45 -Release and recovery of parasitoids in Connecticut since 2013. Legend shows where and which parasitoids have been recovered at least one year after their release. Sites in red are current release sites or will be sampled this year.]
+
+[FIGURE: Figure 44 -Emerald ash borer spread through Connecticut -2012-2020.]
+
+[FIGURE: The survey was conducted between April 3 and May 4, 2019. The roundtable meetings were held during June 2019 at three locations geographically representing the central, eastern and western parts of the state. The Connecticut Forest & Park Association (CFPA), Connecticut's oldest nonprofit forest conservation organization (established in 1895), was contracted by the CT Department of Energy & Environmental Protection (DEEP) to facilitate and summarize public input gathered through the survey and roundtable discussions. DEEP will incorporate the information in this report into the 2020 Forest Action Plan.]
+
+[FIGURE: Figure 1. Number of respondents by county]
+
+[FIGURE: Figure 4. Affiliations of survey respondents]
+
+[FIGURE: Figure 10. Questions related to the 2010 Forest Action Plan]
+
+[FIGURE: Question: Why do you care about Connecticut's forests and woodlands? Please check all that apply. Responses of Professionals vs. General Public.]
+
+[FIGURE: Figure 11. Why Do You Care about Connecticut's Forests and]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[TABLE:  Energize a Youth Conservation Corps • Vulnerable forest types require focused protection and management • Establlish forest carbon baseline and goals for Connecticut • Commitments to funding, programs, and resources are critical • Adopt a "No Net Loss of Forest" policy o Keeping forests as forests o Protecting healthy, intact forests o Offsetting all planned or permitted forest losses o Providing financial incentives for stewardship, forest retention, and forest resiliency o Protecting urban forests, building more parks, and planting more trees]
+
+[TABLE]
+*Indicator 2: Forest type, size class, age class, and successional stage 2.1 Forest Cover Type Groups Forestland within a state or region is often classified by forest type. Forest types are named for the predominant live tree species cover for the field location. Hardwoods and softwoods are first grouped to determine predominant group, and Forest Type is selected from the predominant group (FIA). Connecticut's forest type groups as listed below are based on inventories performed by the U.S. Forest Service through its FIA Program.*
+
+| • White oak/red oak/hickory |
+| --- |
+| (more than 61% of |
+| Oak/Hickory Group) |
+| • Northern red oak |
+| • Red maple/oak |
+| • Chestnut oak/black |
+| oak/scarlet oak |
+| • Cherry/white ash/yellow- |
+| poplar |
+| • Mixed upland hardwoods |
+| • Yellow-poplar/white |
+| oak/northern red oak |
+| • Scarlet oak |
+| • White oak |
+| • Elm/ash/black locust |
+| • Sassafras/persimmon |
+| • Chestnut oak |
+| According to 2018 FIA estimates, Connecticut's forests contain approximately 4.7 billion ft |
+| About 69% of Connecticut's forests are classified as an oak/hickory forest type group. An |
+| oak/hickory forest type group is made up of several forest types including (see Figure 2): |
+
+[/TABLE]
+
+[TABLE]
+*Change in core forest between 1985 and 2015. (University of Connecticut Center for Land Use Education and Research, 2016) *
+
+| Figure 6 - |  |  |  |  |
+| --- | --- | --- | --- | --- |
+|  |  | Forest Fragmentation |  |  |
+|  | 700,000 |  |  |  |
+|  | 600,000 |  |  |  |
+|  | 500,000 |  |  | Large Core |
+|  |  |  |  | Med Core |
+| Acres | 400,000 300,000 |  |  | Small Core Perforated |
+|  | 200,000 |  |  | Edge |
+|  |  |  |  | Patch |
+|  | 1985 | 1995 | 2006 | 2015 |
+
+[/TABLE]
+
+[TABLE: 3.2 Forestland developed Connecticut saw significant land cover change from 1985 through 2002, mostly forestland converted to developed land with some agriculture land converted to grasses and turf. Between 2002 and 2006 was a transition period where land conversion slowed quite a bit. The rate of land conversion slowed even more between 2006 and 2010 and further more between 2010 and 2015.]
+
+[TABLE]
+*Key forest-associated habitats and their condition in Connecticut (Connecticut Department of Energy and Environmental Protection, 2015). Young Forests, and Maritime Forests. Upland Woodland and Shrub Habitats include sub-habitats Red Cedar Glades, Pitch Pine-Scrub Oak Woodlands, and Reverting Field and Early Successional Shrubland. Forested Inland Wetland Habitats include sub-habitats Atlantic White Cedar Swamps, Red/Black Spruce Swamps, Northern White Cedar Swamps, Floodplain Forests, and Red Maple Swamps. In the Unique, Natural or Man-made Habitats, subhabitats Vernal Pools and Public Utility Transmission Corridors are also of interest to this assessment. A complete list of the Key Habitats and vegetative communities can be found in the CTWAP. Shrublands, Dry Acidic Forests, Dry Circumneutral Forests, Dry Subacidic Forests, Old Growth Forests, and Subacidic Cold Talus Forest/Woodland (University of Connecticut,2011). A statewide map, and more specific data on these and other Connecticut Critical Habitats can be found at the Connecticut Environmental Conditions Online website at www.cteco.uconn.edu. The 2015 Connecticut Wildlife Action Plan (CTWAP) lists a total of over 20,000 animal species found in Connecticut. This includes 84 mammal species, 335 bird species, 50 species of reptiles and amphibians, 169 species of fish, and an estimate of 20,000 invertebrates. No comprehensive list of forest associated species has been compiled in the 2015 CTWAP, although in lieu of this, the forest associated species listed in The Matrices in the New England WildlifeHabitat, Natural  History, and Distribution (DeGraaf & Yamasaki, 2001)  provides a basis from which to work.*
+
+| 4.2 Forest-associated and all species |  |
+| --- | --- |
+| Figure 10 -Habitat | Condition |
+| Upland Forest Key Habitat Group (primary habitat throughout CT) |  |
+| • Oak Forests (may have been impacted by spongy moth/drought | Good -Fair |
+| oak mortality after 2015) |  |
+| • Calcareous Forests | Fair |
+| • Coniferous Forests | Fair |
+| • Old Growth Forests | Fair |
+| • Northern Hardwood Forests | Fair |
+| • Mixed Hardwood Forests | Fair |
+| • Young Forests | Poor |
+| • Maritime Forests | Poor |
+| Upland Woodland and Shrub Key Habitat Group |  |
+| • Red Cedar Glades | Fair |
+| • Pitch Pine and Scrub Oak Woodlands | Poor |
+| • Maritime Shrublands | Poor |
+| • Reverting Field and Early Successional Shrubland | Fair |
+| Forested Inland Wetland Key Habitat Group |  |
+| • Red Maple Swamps | Good |
+| • Atlantic White Cedar Swamps | Poor |
+| • Northern White Cedar Swamps | Poor |
+| • Red/Black Spruce Swamps | Unknown |
+| • Floodplain Forests | Fair -Good |
+| Unique, Natural, or Man-made Key Habitat Group |  |
+| • Vernal Pools | Unknown |
+| • Public Utility Transmission Corridors | Good -Poor |
+
+[/TABLE]
+
+[TABLE: 3 Forest-associated species of concern by taxonomic group Regarding species of concern in Connecticut, the following chart summarizes the total number of wildlife species and their associated statuses. Lists of forest-associated Greatest Conservation Need (GCN) Species can be found in Chapter 4 of the CTWAP. These include Upland Forest Habitat (CTWAP Table4.3), Upland Woodland and Shrub Habitat (CTWAPTable 4.4), and  Forested Inland Wetland Habitat (CTWAP Table 4.6).(Connecticut Department of Energy and  Environmental Protection, 2015)]
+
+[TABLE]
+*Figure 11 -Status of wildlife diversity in Connecticut (Connecticut Department of Energy and Environmental Protection, 2015). *
+
+| Taxa | Species Found | State Listed | Federally | Imperiled |
+| --- | --- | --- | --- | --- |
+|  | in CT |  | Listed | Range-Wide |
+| Mammals | 84 | 11 | 2 | 1 |
+| Birds | 335 | 48 | 2 | 0 |
+| Reptiles & Amphibians | 50 | 22 | 5 | 2 |
+| Fish | 169 | 13 | 2 | 0 |
+| Invertebrates | 20,000 estimate | 194 | 4 | 11 |
+| Total |  | 288 | 15 | 14 |
+
+[/TABLE]
+
+[TABLE]
+* According to The State of the Birds 2019, forest birds have seen a 22% decrease nationally since 1970 and grassland birds have decreased 53% in that same time. Shorebird populations decreased 37% nationally since 1974. (North American Bird Conservation Initiative, 2019)*
+
+| Taxa | State | State | State Special | Total GCN | Total Species |
+| --- | --- | --- | --- | --- | --- |
+| Endangered |  | Threatened | Concern | Species^ | in CT |
+| Mammals | 6 | 0 | 5 | 26 | 84 |
+| Birds | 18 | 12 | 18 | 95 | 335 |
+| Herpetofauna | 6 | 5 | 11 | 31 | 50 |
+| Fish | 4 | 1 | 8 | 73 | 169 |
+| Invertebrates | 33 | 44 | 115 | 242 | >20000* |
+| Total | 67 | 62 | 157 | 467 |  |
+| * Invertebrates are underrepresented on lists of rare species because they are poorly studied |  |  |  |  |  |
+| compared to vertebrate taxa. |  |  |  |  |  |
+| ^ Total GCN includes species that are not currently state-listed, but are still species of greatest |  |  |  |  |  |
+| conservation need. |  |  |  |  |  |
+| 4.4 Bird populations |  |  |  |  |  |
+
+[/TABLE]
+
+[TABLE]
+*Annual removal of merchantable wood volume compared with net growth Connecticut's timberland accounts for 98% of the forestland in the state covering approximately 1,732,000 acres (Figure14). Between 1985 and 2007 timberland area in Connecticut declined by 177,000 acres due in large part to conversion of forest to non-forest. Between 2007 and 2013 there was some recovery with timberland area increasing by 94,000 acres, but between 2013 and 2018 there was a slight loss (USDA Forest Service, 2019).*
+
+| Indicator 6. Forest Practices Annual Activity Reports submitted to the Forestry Division by certified forest |  |  | Average Annual Harvest Removals (2007-2017) |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| practitioners in compliance with |  |  |  |  |  |  |  |  |
+| 1,700 1,800 1,900 2,000 2,100 Connecticut's forestlands between 2014 and 2017 averages approximately 4.8 million cubic feet per year (Connecticut Area (1,000 acres) Area of Forestland and Timberland by Year -500,000 1,000,000 Hardwood their certification provides 4,000,000 information from a different 3,500,000 perspective. Based on the 3,000,000 submitted data, the reports indicate annual timber harvesting (sawtimber, veneer, cordwood, and biomass) occurring on 1,500,000 2,000,000 2,500,000 Cubic Feet |  |  |  |  |  |  | Softwood |  |
+| 1,600 Department of Energy and |  |  |  | Sawtimber |  | Cordwood | Biomass |  |
+| Environmental Protection Forestry |  | Figure |  |  |  |  |  |  |
+| 1,500 Division, Forest Practices Act 1950 1960 Program, 2019). This number represents removals performed | 1970 |  | 1980 | Year | 1990 | 2000 | 2010 | 2020 |
+|  |  |  |  |  |  | Forestland |  | Timberland |
+
+[/TABLE]
+
+[TABLE: 15 -Average annual harvest of hardwood and softwood products according to the annual reports submitted to DEEP Forestry by Certified Forest Practitioners (Connecticut Department of Energy and Environmental Protection Forestry Division, Forest Practices Act Program, 2019). only by members of the certified forestry community on commercial forest practices (seeCriterion 7  for details on certification). This does not represent certified practitioners who failed to file an annual report or filled it out incorrectly or imprecisely. This also does not represent work carried out by uncertified practitioners, land clearing operations, or operations totaling less than 25,000 board feet, 50 cords, or 150 tons. The Forestry Division does not track these types of removals.Between the large sampling errors associated with the FIA data and the likely underreporting of the certified forest practitioners, these harvesting numbers may not be very accurate and may not provide the best picture of what is occurring on Connecticut's timberland. This is the best data available though and there is no other mechanism at present to get more precise numbers. The FIA data shows that in 2018, even though mortality has increased due to emerald ash borer, spongy moth, drought, and the general aging of the state's trees, Connecticut still grows significantly more volume than is removed by harvesting. Connecticut's net growth is nearly six times more than what is removed through harvesting or other means. The amount of lost volume from mortality is more than twice that removed by harvesting.]
+[TABLE: Maintaining Forest Ecosystem Health and Vitality Indicator 7. Area of forestland affected by potentially damaging agents 7.1 Tree mortality and damage type ]
+
+[TABLE]
+* The Connecticut Agricultural Experiment Station (CAES) has the lead in survey work. The Connecticut Agricultural Pest Survey (CAPS) coordinates many agencies in pest survey work including CAES, USDA Agricultural Plant Health Inspection Service (APHIS), Plant Protection Quarantine (PPQ), UConn, and DEEP.*
+
+| Plants |
+| --- |
+| In addition to the animal pests and |
+| diseases listed above, there are also |
+| many plants that are of concern in |
+| Connecticut. In accordance with PA 03- |
+| 136 (an Act Concerning Invasive Plants), |
+| the Connecticut Invasive Plants Council |
+| has compiled a list of species that have |
+| been determined to be invasive or |
+| potentially invasive in the State of |
+| Connecticut. The list was most recently |
+| revised in October 2018. (Connecticut |
+| Invasive Plant Working Group, 2019) |
+
+[/TABLE]
+
+[TABLE]
+*8.3 Estimated bare soil One significant factor leading to bare soils and erosion in Connecticut is heavy use of recreation trails. There are over 2,000 miles of trails in DEEP's mapping data across Connecticut. These range from the Appalachian Trail and the Connecticut Blue-Blazed trails to local trails and*
+
+| unauthorized trails. There are likely many more trails on public and private land that are not part |
+| --- |
+| of the DEEP's data as well. These trails vary widely in types of use, amount of use, amount of |
+| maintenance, and condition. With walking, running, and hiking far and away the most common |
+| recreational activity (Connecticut Department of Energy and Environmental Protection, 2017) |
+| and with the amount of use increasing during the COVID-19 pandemic in 2020, overuse of trails |
+| and inadequate maintenance in some cases can lead to erosion and other issues. |
+| 8.4 Bulk density |
+| "The measure of bulk density is used as an indicator of soil compaction. It is calculated as the |
+| dry weight of soil divided by its volume. Bulk density reflects the soil's ability to function for |
+| structural support, water and solute movement, and soil aeration." (Soil Quality for |
+| Environmental Health, 2011) In general, forest soils have lower bulk densities, which increase |
+| their ability to reduce runoff and erosion. |
+
+[/TABLE]
+
+[TABLE]
+* Connecticut, over 63% of riparian areas in Connecticut are forested (46% deciduous, 10% coniferous, 7% forested wetland). Between 1985 and 2015 the amount of forestland in riparian areas decreased 2.6% (mostly deciduous forest), almost all of which was lost to development or turf and grass. The rate of decrease has slowed since 2002 similar to the decrease in loss of*
+
+| overall forestland. |
+| --- |
+| (University of Connecticut |
+| Center for Land Use |
+| Education and Research, |
+| 2016) |
+| 9.2 Forestland by |
+| Watershed |
+| The top map in Figure 21 |
+| shows the eight major |
+| drainage basins and the |
+| percentage that is forested |
+| within each basin. Four of |
+| the eight drainage basins |
+| are considered to be |
+| forested at greater than |
+| 60%. Two of the remaining |
+| four are slightly below 60% |
+| and two basins, the South |
+| Central Coast, and |
+| Southwest Coast, are 47% |
+| and 43% forest cover. This |
+| is not surprising as the |
+| development pressure in |
+| southwestern Connecticut |
+| is extremely high |
+| considering its proximity to |
+| New York City (University |
+| of Connecticut Center for |
+| Land Use Education and |
+| Research, 2016). The |
+| bottom map in Figure 21 |
+| shows percent forest cover |
+| in 12-digit Hydrologic Unit |
+| Code (HUC-12) |
+
+[/TABLE]
+
+[TABLE]
+*Indicator 10: Water quality in forested areas. 10.1 Water quality in forested areas watersheds, even though the Connecticut River Basin is about 56%, when breaking it down into lower level watersheds, the forest is not evenly distributed. The northwest and southeast portions of the Connecticut basin are heavily forested and the central area around Hartford are not very forested.In addition to protecting surface runoff into streams, Connecticut's forests also play an instrumental role in protecting groundwater aquifers which supply the state's public drinking water. Connecticut's Aquifer Protection Area Program is administered and is in charge of designating Aquifer Protection Areas around the state which protect critical sand and gravel aquifers. Restrictions are in place to protect undeveloped areas from development and regulate land use activities that store, handle or dispose of hazardous materials (Connecticut Department of Energy and Environmental Protection, 2020).*
+
+| practitioners (foresters, supervising harvesters, harvesters). Local inland wetland commissions |
+| --- |
+| are responsible for reviewing and approving local harvests in town. |
+| In 2012, DEEP published a booklet to assist certified forest practitioners, private landowners and |
+| municipal officials towards a better understanding of the best management practices (BMPs) |
+| associated with the harvest of forest products titled Best management practices for water quality |
+| while harvesting forest products. BMPs for water quality are the minimum standards to be taken |
+| to ensure water and soil quality (see Criterion 7 for more details). |
+| Forests are important to water quality acting as a filter to keep water clean, providing shade to |
+| keep water cool, and providing critical habitat both near and in permanent and temporary surface |
+| water that help certain species thrive. Not only do forests protect the water quality for organisms |
+| living in or near the water, but they are the best tool to keep the surface drinking water clean for |
+| humans to use. The New York City drinking water supply system, the largest unfiltered water |
+| supply in the U.S. has found that keeping their watersheds forested has allowed them to avoid |
+| having to build a multi-billion dollar filtration plant while providing some of the best drinking |
+| water anywhere. (New York Department of Environmental Conservation, n.d.) |
+| According to DEEP's 2020 Integrated Water Quality Report, "Water quality in Connecticut has |
+| improved over the last few decades as a result of protective laws, remediation efforts, and a |
+| substantial investment in improved wastewater treatment. The latest statewide assessment |
+| showed that 76% of Connecticut's wadeable steams are healthy and meet aquatic life use support |
+| goals." (Connecticut Department of Energy and Environmental Protection -Bureau of Water |
+| Protection and Land Reuse, 2020) |
+| DEEP's Water Monitoring Program has been building water quality datasets as part of |
+| Connecticut's Healthy Waters Initiative which are being used to improve the understanding of |
+| healthy waters in Connecticut. Several efforts underway as part of Connecticut's Healthy Waters |
+| Initiative include land cover and impervious surface studies, incorporating the Biological |
+| Condition Gradient into assessments, a statewide Volunteer Water Monitoring Program, stream |
+| flow classification, and a cold water stream habitat map. (Connecticut Department of Energy and |
+| Environmental Protection Water Monitoring Program, 2020) More information about these |
+| efforts can be found at https://portal.ct.gov/DEEP/Water/Inland-Water-Monitoring/Connecticut- |
+| Healthy-Waters-Initiative. |
+| Water quality in Connecticut's state forests is maintained through the use of Best Management |
+| Practices (BMPs.). These include seasonal restrictions on harvesting, and controlling runoff on |
+| access road and skid trail systems by: using temporary bridges, culverts, riprap, post-harvest |
+| seeding, geo-textile, water bars and armored stream approaches. The BMPs are enumerated in |
+| timber sale contracts. DEEP foresters monitor and enforce all harvesting activity in the state |
+| forests. In addition, the DEEP requires certification of and continuing education for forest |
+
+[/TABLE]
+
+[TABLE]
+*10.2 Stream miles impaired by percentage of watershed forested *
+
+| According to Connecticut's 2020 Integrated Water Quality Report, an estimated 7,772 miles of |
+| --- |
+| rivers and streams are found in Connecticut, but only 3,116.41 miles are tracked. Of those |
+| 3,116.41 miles, 2,690.76 miles were assessed for the ability to support aquatic life with 65% |
+| fully supporting, 21% not supporting, and 14% having insufficient information. Of the 1,612.1 |
+| miles assessed for recreation, 24% fully supported recreation use, 58% did not support it, and |
+| 18% had insufficient information. All 3,116.41 tracked miles were assessed for fish consumption |
+| which found 0% fully supporting, 4% were not supporting, and 96% had insufficient |
+| information. (Connecticut Department of Energy and Environmental Protection -Bureau of |
+| Water Protection and Land Reuse, 2020) |
+| Using impaired stream data from the DEEP 2020 Integrated Water Quality Report (Connecticut |
+| Department of Energy and Environmental Protection -Bureau of Water Protection and Land |
+| Reuse, 2020) and forest cover by watershed from U.S. Forest Service's National Forests to |
+| Faucets 2.0 Assessment (USDA Forest Service |
+
+[/TABLE]
+
+[TABLE]
+*Percent Forest in Watershed Impaired Stream Miles for Aquatic Life Impaired Stream Miles for Recreation *
+
+| 80 -100% | 78 | 220 |
+| --- | --- | --- |
+| 70 -80% | 65 | 140 |
+| 60 -70% | 32 | 98 |
+| 50 -60% | 122 | 131 |
+| 40 -50% | 79 | 161 |
+| 0 -40% | 185 | 167 |
+| Total | 561 | 933 |
+
+[/TABLE]
+
+[TABLE: Criterion 5. Maintenance of Forest Contribution to Global Carbon Cycles Indicator 11: Forest Ecosystem biomass and forest carbon pools. ]
+
+[TABLE]
+*Forest Carbon Pool -All Forest Types 150,827,328 tons of carbon *
+
+| Within a forest system, various materials sequester and store different amounts |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| of carbon. Aboveground |  |  |  |  |
+| biomass (i.e., carbon) pools consist of live trees, dead | Forest |  |  |  |
+| trees, other forest vegetation, |  |  |  |  |
+| and ground cover materials |  |  |  |  |
+| (e.g., leaf litter, fine and |  |  |  |  |
+| coarse woody materials). |  | 7% |  |  |
+| Belowground biomass pools |  |  |  |  |
+| consist primarily of tree and |  |  |  |  |
+| plant roots and the soil. | 28% |  |  |  |
+|  |  |  | 50% |  |
+| A significant amount |  |  |  |  |
+| of carbon is stored aboveground in live tree | 5% | 10% |  |  |
+| biomass pools. Of the five |  |  |  |  |
+| forest components of forest |  |  |  |  |
+| biomass, aboveground |  |  |  |  |
+| biomass, belowground |  |  |  |  |
+| biomass, deadwood, forest |  |  |  |  |
+| floor litter, and soil organic |  |  |  |  |
+| carbon, aboveground biomass |  |  |  |  |
+| accounts for the largest |  | 7% |  |  |
+| percentage of forest carbon |  |  |  | Live aboveground |
+| (Figure 24) (USDA Forest Service, 2018). The second largest component of forest | 33% |  | 46% | Live belowground Litter |
+| carbon is soil organic carbon. |  |  |  |  |
+| In Connecticut this is true for |  |  |  | Soil organic |
+| the Oak/Hickory Forest Type as well as the total of all forest | 6% |  | 9% | Deadwood |
+| types. The Oak/Hickory |  |  |  |  |
+| Forest Type contains 69% of |  |  |  |  |
+| the total forest carbon in |  |  |  |  |
+| Connecticut (Figure 24) |  |  |  |  |
+
+[/TABLE]
+
+[TABLE: Carbon Pool -Oak/Hickory Forest Type 104,013,778 tons of carbon Live aboveground Live belowground Litter Soil organic Deadwood Figure 24 -Forest Carbon Pool breakdown -Top chart -Oak/Hickory Forest Type; Bottom chart -All Forest Types. (USDA Forest Service, 2018) ]
+[TABLE: • The Stewart B. McKinney National Wildlife Refuge encompasses over 800 acres and is comprised of 10 units spanning 70 miles of Connecticut's coastline. Headquartered in Westbrook, the refuge offers various wildlife-based recreational opportunities for the public, including environmental education, hunting, fishing, interpretation, photography, and wildlife observation. (U.S. Fish and Wildlife Service, 2020) • The Silvio O. Conte National Fish and Wildlife Refuge encompasses the entire 7.2 million acre Connecticut River Watershed in Vermont, New Hampshire, Massachusetts and Connecticut. The refuge was created to conserve, protect, and enhance the diversity and abundance of native plants, fish and wildlife, and the ecosystems upon which they depend within the watershed (MA DER). The Connecticut portion of the refuge comprises the 31-acre Deadman's Swamp Unit adjacent to the Connecticut River in Cromwell, the 56-acre Roger Tory Peterson Unit at the mouth of the Connecticut River in Old Lyme, the 714-acre Salmon River Division at the confluence of the Salmon and Connecticut Rivers in Haddam, and the 160-acre Whalebone Cove Division at the confluence of the Connecticut River and Whalebone Cove in Lyme. (U.S. Fish and Wildlife Service, 2019) (Lower Connecticut River Valley Council of Governments,2013)  Wildlife-based recreational opportunities may include environmental education, hunting, fishing, interpretation, photography, and wildlife observation. Mansfield Hollow Lake in Mansfield, West Thompson Lake in North Grosvenordale, and Black Rock Lake, Northfield Brook Lake, and Thomaston Dam all in Thomaston. The primary purpose of these projects is flood risk management while also conserving the natural resources, but they provide many recreation options including hiking, fishing, boating, canoeing, kayaking, picnicking, and cross-country skiing among other activities. (U.S. Army Corps of Engineers, 2019) The Thomaston Dam property is one of the few public properties open to two-wheeled trail bikes and has a cooperative agreement with Pathfinders Motorcycle Club. Ranch Military Reservation and Camp Niantic in East Lyme, Lyme, and Old Lyme operated by the Connecticut Army National Guard. Camp Niantic is a heavily developed 86-acre parcel along the Niantic River used mostly for officer training. Stone's Ranch Military Reservation is approximately 2,000 acres comprised of a mix of developed land and forestland. Most of the forested areas are used for light maneuver training. These areas are not open for public recreation. The Connecticut Army National Guard had for many years a special use permit to do orienteering training on nearby parcels of the Nehantic State Forest, but it was not renewed at the end of 2018.]
+[TABLE: 13.3 Recreational facilities on State land Connecticut DEEP owns and manages a total of 257,616 acres though their system of parks, forests, and wildlife management areas and of that, 216,480 acres of recreational land open to]
+[TABLE: Dirt Bikes/Motorcycles/All-terrain Vehicles Connecticut offers limited opportunities for off-road vehicle use on State property. The Pachaug State Forest Motorcycle Trail is a 60 mile trail system available for off-road motorcycles using a combination of forest roads and trails. Motorcycles must be street-legal and registered with the DMV and riders must have a DMV operator's license.(Connecticut Department of Energy and  Environmental Protection, 2002)    "Shenipsit State Forest in Stafford offers opportunities for dirt bike enthusiasts to participate in privately-organized enduro races once or twice a year. These competitive events are typically one day in duration and sponsored by a regional motorcycle club. Motorcycles must be registered, street legal and drivers must be licensed". (Connecticut Department of Energy and Environmental Protection, n.d.)Equestrian TrailsThere are many equestrian trails across the state. DEEP has several trails on State-owned lands, and even administers horse camping areas in Pachaug and Natchaug State Forests. As a way of "giving back", the Connecticut Horse Council has partnered with the DEEP to create the Volunteer Horse Patrol (VHP) to "ride and serve in State Parks & Forests, helping to patrol and provide assistance to the DEEP staff and public visitors to our State Forests and Parks"(CHC). In addition to patrol duties, the VHP also performs maintenance of various state owned trails. The CHC has lists of equestrian trails statewide on their website cthorsecouncil.org/.(Connecticut  Horse Council, Inc., 2009)    13.5 Campgrounds DEEP offers campgrounds in 14 state parks and forests including rustic cabins available at some sites and horse camping available in two state forests. (Connecticut Department of Energy and Environmental Protection, 2020) There are also many private campgrounds across the state.]
+
+[TABLE]
+*,783,000 Figure 28 -Estimated funding from NRCS cost-share programs for forestry-related activities in Connecticut. Source: NRCS Includes Landscape Scale Restoration, Wildfire Risk Reduction, Community Forest and Open Space, Wood Education and Resource Center, and Special Stewardship Projects ^ Includes core funding passed through to partner organizations to assist programs with accomplishing goals*
+
+| Year 2011 2012 2013 2014 2015 2016 2017 2018 2019 Total FY 2019 FY 2020 245,842 247,765 $ 65,180 64,880 $ 227,040 236,420 $ 95,984 102,879 $ 29,040 20,680 $ 70,336 78,630 $ 65,000 55,000 $ 8,400 26,280 $ 806,822 832,534 $ 1,450,000 -$ 872,625 297,570 $ >$5Program/Grant $300,000 Approx. Dollars $468,000 $640,000 $500,000 $400,000 $600,000 $875,000 >$1,000,000 >$1,000,000 FY 2015 FY 2016 FY 2017 FY 2018 Total Average State Fire Assistance 221,696 $ 228,455 $ 217,633 $ 249,200 $ $ 1,410,591 $ 235,099 $ Stewardship 84,113 $ 79,480 $ 76,500 $ 65,518 $ $ 435,671 $ 72,612 $ Urban Forestry 242,280 $ 227,720 $ 234,640 $ 225,720 $ $ 1,393,820 $ 232,303 $ Volunteer Fire Assistance 74,716 $ 72,355 $ 83,937 $ 91,353 $ $ 521,224 $ 86,871 $ Forest Legacy Admin 89,668 $ 27,840 $ 23,610 $ 19,540 $ $ 210,378 $ 35,063 $ Forest Health Management 71,080 $ 67,840 $ 68,200 $ 53,800 $ $ 409,886 $ 68,314 $ Core partner funding^45,000 $ 51,000 $ 56,000 $ 102,500 $ $ 374,500 $ 62,417 $ Core travel funds 7,660 $ 23,100 $ 15,720 $ 16,080 $ $ 97,240 $ 16,207 $ Total Core Funding 836,213 $ 777,790 $ 776,240 $ 823,711 $ $ 4,853,310 $ 808,885 $ Forest Legacy Projects 2,505,000 $ 1,430,000 $ -$ -$ $ 5,385,000 $ 897,500 $ Other competitive funding* -$ 14,000 $ 187,355 $ 320,816 $ $ 1,692,366 $ 282,061 $ Total All USFS Funding 3,341,213 $ 2,221,790 $ 963,595 $ 1,144,527 $ 3,129,447 $ 1,130,104 $ 11,930,676 $ 1,988,446 $ |
+| --- |
+
+[/TABLE]
+
+[TABLE: 71% 17% 11% 1% Forestland Ownership Private State Local Federal Figure 29 -Forestland ownership in Connecticut (USDA Forest Service, 2019) • Work to make continuous professional forestry assistance more accessible to the small forest landowner.• Work to make the ownership of forestland more attractive as an investment. • Improve communications among landowners, foresters, mill owners, timber harvesters and other members of the forest products industry. • Protect open space and professionally manage demonstration forests through WDLT. ECFLA represents "nearly 300 forest owners and their families who actively manage approximately 20,000 acres of woodlands and associated ponds, streams and wetlands." (Eastern Connecticut Forest Landowners Association/Wolf Den Land Trust, n.d.) No counterpart to this association exists in western Connecticut. 15.2 State lands DEEP owns more than 261,806 acres (as of November 2020) (Connecticut Department of Energy and Environmental Protection, 2016) (M. Starr, personal communication, November 10, 2020) in its series of parks, forests, wildlife management areas, and other land holdings. Of those 261,806 acres, approximately 172,000 of them are state forests, 37,000 are in state parks, 34,000 are in wildlife management areas, and the rest are in water access, fisheries, scenic, and natural resource management areas. Staffing over the past decade has decreased significantly, and the Department is exploring ways to maintain and improve services with fewer resources. Other Connecticut state agencies including the Departments of Transportation, Corrections, Mental Health and Addiction services, the University of Connecticut (UConn), and the state university and community college system manage land mostly for operational purposes as opposed to open space purposes. The UConn Department of Natural Resources and the Environment manages 2,100 acres near the main campus in Storrs as working forestland. At this time there is no comprehensive inventory of these properties. (Connecticut Department of Energy and Environmental Protection, 2016)]
+[TABLE: Recreation and Natural Heritage Trust Program Two programs exist within DEEP to assist in achieving The Green Plan's goal: "The Recreation and Natural Heritage Trust Program (RNHTP) is DEEP's main program for purchasing or conserving lands that add to the State's system of parks, forests, and wildlife management areas for conservation and public use and benefit. The purpose of the RNHTP is to acquire lands that represent the ecological diversity of Connecticut, including natural features such as rivers, mountains, coastal systems, and other natural areas, to ensure the preservation and conservation of such land for recreational, scientific, educational, cultural, and aesthetic purposes." (Connecticut Department ofEnergy and Environmental Protection, 2016)]
+
+[TABLE]
+*Open Space and Watershed Land Acquisition Grant Program "The DEEP-administered Open Space and Watershed Land Acquisition Grant Program (OSWA) leverages state, local, and private funds to create a cooperative open space acquisition program for Connecticut. Through OSWA, DEEP awards grants to municipalities and land trusts for the acquisition of open space and to water companies for the acquisition of Class I and II watershed lands. OSWA is funded by state bonding and the Community Investment Act." (Connecticut Department of Energy and Environmental Protection, 2016)There are also options available through state and federal partner programs for conserving forestlands. Connecticut DEEP partners with the U.S. Forest Service to implement the Forest Legacy Program. The Forest Legacy Program is used to identify and help conserve privately-owned environmentally important forests from conversion to non-forest uses. The main tool used for protecting these important forests in Connecticut is conservation easements. The Federal government may fund up to 75% of project costs, with at least 25% coming from private, state or local sources. The Forest Legacy Program protects "working forests", which is defined as those that protect water quality, provide habitat, forest products, opportunities for recreation and other public benefits (USDA Forest Service, n.d.).The Forest Legacy Program was created in 1990 and has now expanded to 53 states and territories while conserving more than 2.6 million acres of forestland. Since the start of the program in Connecticut in 1994, the Forest Legacy Program has helped to protect 9,065 acres in Connecticut using $9,773,320 in federal Forest Legacy funds and $12,398,528 in non-federal cost share for a total value of $22,171,848 (USDA Forest Service, 2020). As of November 1, 2020, Connecticut's Forest Legacy Program has 16 tracts totaling over 1,000 acres that have received funding, but have not yet been completed.*
+
+| Forest Legacy Program |
+| --- |
+
+[/TABLE]
+
+[TABLE]
+*16. Employment and wages in forest-related sectors 16.1 Wood-related products manufacturing employees Public Act 490, as described in Criterion 7, is the main tax reduction program in Connecticut. As of October 29, 2019 (with 88% of towns reporting) there are approximately 10,674 parcels totaling about 434,273 acres in PA 490 for forestland. Other classes of PA 490 exist, including agriculture which can include woodlands (11,960 parcels totaling 231,075 acres), and open space which can also include forestland (12,555 parcels totaling 175,547 acres). There are also still 76 parcels in the 10 Mill program totaling 7,363 acres. Third party certification on private lands is delivered through at least three programs, the Forest Stewardship Council (FSC), Sustainable Forestry Initiative (SFI), and the American Tree Farm System (ATFS), which is a program of the American Forest Foundation.Currently, there are no state lands under Forest Certification within Connecticut. Certification has been considered in the past, but an implementation mechanism has not yet been developed. There are currently 796 private forestland acres under FSC certification (as of May 2020). There were no available figures for SFI or ATFS. According to the Forest Products Industries' Economic Contributions: Connecticut, Connecticut employed 16,141 employees in the forest products industry. Of this, there were 64 employees in forestry, 278 employees in logging, 859 employees in the primary processing of solid wood products, 2,257 employees in the secondary processing of solid wood products, 4,480 employees in the wood furniture industry, and 8,204 paper, paperboard, and other paper manufacturing employees.(Public Sector Consultants & Emmerthal, 2020)*
+
+| 15.6 Forest certification |
+| --- |
+| Indicator |
+
+[/TABLE]
+
+[TABLE]
+*16.2 State forestry employees The Forestry Division includes 22 permanent employees as of the review of this report(December 30, 2020). This includes: one State Forester/Director, three Program Specialists (Program Leads for Forest Protection/Fire, State Lands, and Private & Municipal Lands/Forest Practices Act), one Forest Planner/Forest Legacy Coordinator/Federal Aid Coordinator, two Fire Control Officers, one Forest Protection Forester, one Enforcement Forester, nine State Lands Foresters, three Service Foresters, and one Secretary. The long-time Urban Forestry Coordinator retired in August 2020 and the new Urban Forestry Coodinator is expected to start before the end of January 2021. Seasonal employees can range from zero to 13 with State Lands and Forest Protection/Fire utilizing seasonals the most. Although the Division has taken measures to try and creatively make up staff deficiencies with more efficient program delivery, there have been programming/service cutbacks. Significant concern exists within the Division regarding the future of the Forestry Division. Several of the Division staff are at or near the retirement eligibility, mostly in State Lands and Forest Protection. Interdivisional program cross-training may be required should future staff reductions due to retirements result in permanent lost staff capacity. The University of Connecticut also has two employees that work on forestry programs; both work under the Cooperative Extension System. There are various regional U.S. Forest Service, R9 S&PF employees who work closely with the DEEP Forestry Division and associated partners through federally run programs. These programs include, but are not limited to Fire Management, Cooperative Forestry, Conservation Education, Forest Health Protection, Forest Legacy, and Urban and Community Forestry. None of the associated U.S. Forest Service employees are based in Connecticut. The U.S. Forest Service, Northern Research Station has a unit focused on the ecology and management of invasive species and forest ecosystems in Hamden/Ansonia. There are currently eight employees listed at the unit.*
+
+| 16.3 U.S. Forest Service Employees |
+| --- |
+
+[/TABLE]
+
+[TABLE]
+*7: Legal, Institutional, and Economic Framework for Forest Conservation and Sustainable Management Indicator 17. Forest management standards/guidelines 17.1 Types of forest management standards/guidelines According to Occupational Employment Statistics from the U.S. Bureau of Labor Statistics from May 2019, Connecticut has the sixth-highest mean annual wages for foresters at $73,310. (U.S. Bureau of Labor Statistics, 2020) U.S. Bureau of Labor Statistics did not have salary or employment data for the fallers, log graders and scalers, logging equipment operators, and all other logging workers categories. There are four basic types of standards associated with forest management in Connecticut.*
+
+| Criterion |
+| --- |
+
+[/TABLE]
+
+[TABLE:  Land Use Academy, a program out of the University of Connecticut Center for Land Use Education and Research (CLEAR) "provides practical education for local land use decision makers in Connecticut. The program focuses on the fundamental knowledge and skills needed to serve effectively on a local land use commission." The program offers "Basic Training" which is recognized by the Connecticut Office of Policy and Management (OPM) to be the official program for land use education for local commissioners. The program also offers "Advanced Training" that covers in-depth a wide array of topics that often come up at local land use commissions. The program is a partnership of CLEAR, the Connecticut Bar Association, and OPM and has been around for over 30 years. (University of Connecticut Center for Land Use Education and Research, n.d.) The Coverts Project is a special educational program of the University of Connecticut Cooperative Extension System and Connecticut Forest and Park Association (CFPA). "Since 1983, The Coverts Project has been reaching out to Connecticut's individual woodland owners and teaching them how sound management practices can make wildlife healthier, more diverse, and more abundant." (Univerisity of Connecticut Cooperative Extension) The Master Woodland Owner Program is a new model for engaging landowners currently in development using funding from a Fiscal Year 2019 Landscape Scale Restoration Grant provided by the U.S. Forest Service. CFPA is spearheading the effort and working with partner organizations throughout the state to provide continuous learning opportunities for landowners. The idea for the program is based on existing successful programs including the Master Gardener program and the Master Naturalist program.]
+[TABLE:  urban forestry program in Connecticut emphasizes administration, leadership, outreach, support, collaboration and goal-sharing among interested partners. In this effort, it seeks to follow the outline presented in the 2014 Urban and Community Forestry Program Guidance, as jointly agreed to by the U.S. Forest Service and the National Association of State Foresters. This Guidance documents requires that each state's Urban and Community Forestry Program must consist of 4 elements: 1. An urban and community forestry program coordinator 2. Volunteer/partnership coordination 3. An urban and community forestry council 4. State program strategic planningThe Program Guidance requires that the state program coordinator be an individual, full-time employee dedicated to that position. Connecticut's recent full-time State Urban Forestry Coordinator held that position for the past 20 years, until he retired at the beginning of August 2020. DEEP is in the process of hiring a new, full-time Urban Forestry Coordinator.The Program Guidance does not require that there be a full-time Volunteer Coordinator, although it does require that the role of the Volunteer Coordinator be filled so that it equates to the equivalent of a full-time employee. Connecticut has not had a single full-time Volunteer Coordinator since March 2013. Since then, the role has been filled by a combination of efforts that include contribution from the DEEP Service Foresters, the hiring of seasonal employees to undertake specific urban forestry assignments, and by the contributions of other individuals and groups.The Connecticut Urban Forest Council (CUFC) has been a highly active component of the state's urban forestry program. Over the past 10 years, it has played key roles in advising the State Forester and in helping to direct the state urban forestry program, has provided a forum for members of the urban forestry community to share ideas and of updates and it has convened the annual Connecticut Community Forestry Conference, a well-attended venue for outreach and engagement.The Connecticut Urban Forest Council seeks to increase the number and quality of urban and community forest programs in the state, inform community decision makers, legislators, and the public about the importance of urban and community forests, provide educational resources to arborists, tree wardens, foresters, volunteers, public works departments, and others practicing urban and community forestry in Connecticut, and to develop policies designed to promote progressive and appropriate urban and community forestry programs and practices throughout the state.(Connecticut Urban Forest Council, 2019)]
+[TABLE:  • Municipal Urban Forest Planning and Maintenance • Management of Urban Forest Woodlands • Planting or Maintenance of Legacy Trees • Other, General Urban Forestry Projects]
+
+[TABLE]
+*Partner Efforts in Non-industry Forest Planning The Tree City USA Program Connecticut also participates in The Tree City USA program. This program, sponsored by the Arbor Day Foundation in cooperation with the U.S. Forest Service and the National Association of State Foresters, provides direction, technical assistance, public attention, and national recognition for urban and community forestry programs across the nation.To qualify as a Tree City USA community, a town or city must meet four standards established by the National Arbor Day Foundation and the National Association of State Foresters. These standards are to ensure that each qualifying community has a viable tree management plan and an active program. Tree City USA is designed such that no community would be excluded because of size. The four standards for Tree City USA are:1. A Tree Board or Department 2. A Tree Care Ordinance 3. A Community Forestry Program with an annual budget of at least $2 per capita 4. An Arbor Day Observance and Proclamation Currently in Connecticut there are eighteen communities that have been designated as Tree City USAs. These communities are:Branford, Bridgeport, Brookfield, Danbury, East Hartford,  Fairfield, Greenwich, Groton, Hartford, Middletown, Monroe, New Haven, Norwalk, Ridgefield,  Southbury, Stamford, Wethersfield, and Wilton.  Additionally, the University of Connecticut campus has been designated as a Tree Campus USA. (Connecitcut Department of Energy and Environmental Protection, 2020) There are many private non-industry forest planning efforts on a regional and local scale in Connecticut. In addition to these local and regional efforts, several organizations have targeted statewide forest protection priorities including the Connecticut Chapter of The Nature Conservancy, Audubon Connecticut, Nature's Network, Partners in Flight, and Partners in Amphibian and Reptile Conservation. The Important Bird Areas under Audubon Connecticut are also a significant planning and assessment effort. Important Bird Areas (IBA) Program is a global effort to identify and protect habitat that will protect sustainable populations of birds. The IBA Program is built around an adaptable, science-based blueprint that allows Audubon and other conservation partners to make sound conservation decisions in the face of considerable uncertainty from the changing climate, the economy, and gaps in our knowledge of the abundance and distribution of our highest priority species. "Connecticut's IBA Program strives to complement the conservation programs of our state, federal, and nonprofit partners. By connecting people with nature, working with land stewards to develop conservation strategies, and supporting the implementation of these plans at a local level, the IBA Program fills an important niche in statewide conservation efforts by working to protect areas that aren't easily protected under other conservation programs." (Audubon Connecticut, n.d.)As of July 2020, Connecticut has 33 recognized Important Bird Areas, of which 10 are globally important. There are also seven Landscape-level Important Bird Areas which include state-Since there are so few recognized forest IBAs, Audubon Connecticut has created a map noting the locations of Key Bird Habitats in Connecticut, which identifies primary forest blocks in Connecticut that are important to bird species. Additional data are needed on distribution and abundance of forest birds to refine the inventory of focal areas for bird conservation (Figure32). Audubon Connecticut's Forest for Birds program works with foresters and private landowners to perform habitat assessments and prepare reports aimed at maintaining, enhancing, or creating quality habitat on private property. (Audubon Connecticut, 2020) Based on a program developed in Vermont, Audubon conservation biologists work with licensed foresters with specific training to provide landowners science-based information on how to provide the best habitat for breeding forest birds along the Atlantic Flyway. Since the program began in Connecticut an estimated 25,467 acres have been covered by the habitat assessments and many more acres are managed by foresters trained the the Forest for Birds program. (E. Fielding, personal communication, December 28, 2020) Protect and ensure the integrity of environmental assets critical to public health and safety. (Connecticut Department of Office and Policy Management, 2019)The Connecticut Comprehensive Open Space Acquisition Strategy -the 2016-2020 Green Plan was developed by DEEP to update the previous Green Plan The updated plan provides general guidance for program managers, is a tool for those who want to work with the State in preserving land, and offers a basic overview for the public of the State's land acquisition and protection program. Forestland Protection Other planning efforts revolve around forestland protection. Connecticut is a charter member of the Northeastern Forest Fire Protection Commission (Northeast Compact or NFFPC). The Northeast Compact was formed after the disastrous fires in northern New England in 1947. Created in 1949, this became the first fire compact authorized by the U.S. Congress. The purpose of the Northeast Compact was to promote effective prevention and control of forest fires in the northeastern region of the U.S. and adjacent areas of eastern Canada. Presently the Northeast Compact membership is made up of Connecticut, Maine, Massachusetts, New Hampshire, New York, Rhode Island, Vermont, New Brunswick, Quebec, Nova Scotia, Prince Edward Island, and Newfoundland and Labrador. Associate members include the U.S. Forest Service, National Park Service (NPS), U.S. Fish and Wildlife Service (USFWS), Bureau of Indian Affairs (BIA), and the Fire Department of New York (FDNY). The Northeast Compact is administered by a Commission set up within the law. Council on Climate Change (GC3) Report The GC3 Report will include reports from working groups including Public Health and Saftey, Financing and Funding Adaptation and Resilience, Infrastructure and Land Use Adaptation, Equity and Environmental Justice, Progress on Mitigation Strategies, Science and Technology, and Working and Natural Lands. The Working and Natural Lands Working Group contains four sub-groups: Forests, Wetlands, Agriculture/Soils, and Rivers. All of these reports together offer a guide to adapting to and mitigating climate change in Connecticut. The 2020 Forests Sub-Group Final Report makes recommendations regarding forests that have broad consensus and complement those in the Connecticut Forest Action Plan. Connecticut Wildlife Action Plan Connecticut's 2015 Wildlife Action Plan identifies species of greatest conservation need and their affiliated habitats as well as priority research needs and conservation actions necessary to address problems facing these species and habitats. The 2017 -2022 Statewide Comprehensive Outdoor Recreation Plan (SCORP) is a planning document which assesses both the demand for and the supply of outdoor recreational facilities statewide. Using the data and insights obtained through the preparation of the SCORP, both the state and its municipalities can more effectively provide and improve outdoor recreational opportunities for Connecticut's residents and visitors. Forest Inventory and Analysis Connecticut participates in the U.S Forest Service's Forest Inventory and Analysis (FIA) program. FIA utilizes a series of permanent plots located throughout the state to analyze and assess the forest resources. FIA reports on status and trends in forest area and location; in the species, size, and health of trees; in total tree growth, mortality, and removals by harvest; in wood production and utilization rates by various products; and in forestland ownership. Connecticut has also started participating in the Urban Forest Inventory and Analysis. Current surveys conducted by the Connecticut Agricultural Experiment Station (CAES) include performing spongy moth egg mass surveys to delineate potential problem areas for the subsequent year, as well as conducting surveys for the presence of Asian longhorned beetle, emerald ash borer, Phytophthora ramorum and Sirex woodwasp (Sirex noctilio) in Connecticut. The Forest Health Monitoring (FHM) Off-Plot Program supplements plot data with landscape level data on forest stressors. Annual Aerial Detection Surveys are conducted by CAES statewide to evaluate tree health and identify stress problems across the landscape. The surveys are carried out on State and private lands through the U.S. Forest Service Cooperative Forest Health Program and State partners.*
+
+| Forest Health Surveys |
+| --- |
+| Audubon Connecticut "Audubon's Other Assessments Governor's Statewide Comprehensive Outdoor Recreation Plan (SCORP) |
+
+[/TABLE]
+
+[TABLE]
+* Public Act 11-198 "allows an owner of forestland enrolled in the state's '10 Mill program' to convert to the state's forest preservation program ('490 program') without penalty, including penalties for the value of standing timber, if a sale or donation of the land to a nonprofit land preservation organization or a permanent conservation easement on the land occurs before the conversion. Alternatively, the act specifies that woodlands retaining a 10 mill classification on their 50th-year revaluation will be assessed at a tax rate not to exceed the similar properties classified as 'forestland' under the 490 program. Any landowner who elects to discontinue participation in the 10 mill program will be subject to applicable penalties."Forestland ProtectionThere are many fire statutes that govern the Department of Energy and Environmental Protection Forestry Division, Forest Protection Unit. Many date back to the 1930's and 1940's. A number of them were updated in the mid-1990s. Many of these statutes are common between states and deal with powers and duties of Fire Control Personnel, compensation to fire departments and Fire Wardens, open burning, etc. There are two overriding statutes that play a primary role in governing how and why the program functions.Section 23-35 mandates the State Forest Fire Warden (DEEP Commissioner) to equip trained fire-fighting crews at major Department installations. These crews must be able to respond to requests for assistance for wildfire suppression from Connecticut fire departments, other states, and the U.S. Forest Service.Section 23-36 defines the powers and duties of the State Forest Fire Warden. This statute allows the State to enter into agreements with the Federal Government, municipalities, fire departments, etc. It also allows for the creation of a fire warden system and payment (reimbursement) opportunities for individuals and fire departments for wildfire suppression. In 1991, the Connecticut legislature overwhelmingly approved Connecticut's first Forest Practices legislation known as the Forest Practices Act (Connecticut General Statutes 23-65 f-o). Made up of three main sections, the goal of the legislation was to protect and conserve Connecticut's forest resources by encouraging their wise and careful use. Forest practices such as commercial timber harvesting for logs or firewood are key examples of operations that are covered by the law. Connecticut General Statutes Section 23-65h One important component of the Forest Practices Act is the requirement of forest practitioners to be certified by the Department of Energy and Environmental Protection prior to conducting any commercial forest practices in Connecticut. Forest Practitioners (people who design, supervise or participate in forest practices such as timber harvesting for logs or firewood) must now be certified to conduct commercial forest practices within the State of Connecticut. Certification is not required for harvesting trees for the purpose of converting forestland to another land use provided certain statutory requirements are achieved.Since 1996 regulations have required anyone who advertises, solicits, contracts or engages in commercial forest practices within Connecticut at any time to have the appropriate certificate issued in accordance with the law. Essentially, this means that if an operator advertises, solicits, contracts or engages in an activity which is undertaken in connection with the harvest of timber from a tract of forestland in excess of 50 cords, 150 tons or 25,000 board feet in any twelve month period, and the operator receives remuneration (income or goods and services in some form, including timber and firewood) for that work, certification is necessary.There are three levels of certification offered; Forester, Supervising Forest Products Harvester and Forest Products Harvester. Each level has a specific description of what activities they are permitted to do under the law. Addition information on those specific activities each level of certification may perform in accordance to the law may be found on the Forestry Division website at: www.ct.gov/deep/forestry.The regulations which govern Connecticut forest practitioner certification (Connecticut General Statutes Section 23-65i) require that all certified forest practitioners participate every two year (biennial) period for the life of their certification in a relevant program of professional education to improve or maintain professional forestry skills.*
+
+| Sustainable Forestry Practices |
+| --- |
+| Forest Practices Act |
+| Forest Practitioner Certification - |
+
+[/TABLE]
+
+[TABLE: brochure Agriculture, Forestry, and Connecticut's Inland Wetlands and Watercourses Act The Agriculture, Forestry, and Connecticut's Inland Wetlands and Watercourses Act brochure was devised by the DEEP Land and Water Resources Division in collaboration with the Forestry Division with the purpose of educating municipal regulatory bodies, agricultural entities which includes forest practitioners, and the general public on how state statutes and regulations impact agriculture and forest practices in and around wetlands and watercourses. Since state statues authorize municipalities to adopt regulations governing certain activities in and around wetlands and watercourses this is a key guidance document for all stakeholders. (Connecticut Department ofEnergy and Environmental Protection Land and Water Resources Division, 2016)]
+
+[TABLE]
+*18.6. State forest advisory committees The Forest Practices Advisory Board Wildland Fire FightingIn relation to wildland firefighting activities, the National Wildfire Coordinating Group (NWCG) is the body that develops standards for training, equipment and experience for national response. Connecticut fire staff annually train DEEP employees in wildland fire suppression and tactics that are used both locally and nationally. NIMS) compliance, incident management, etc. It is the goal to provide a document that maintains high standards but allows for flexibility for fire managers when appropriate. As is true for most states, full compliance with National Standards within the NWCG is not fully attainable or desirable. Fire activities within Connecticut receive direction and standards through the Fire SOP. Any resources responding to a National mobilization are fully NWCG compliant. The Forest Practices Advisory Board was established by State Statute (Connecticut General Statutes 23-65g) in 1991. The board consists of the State Forester or his designee and nine public members. The Board is charged with three primary duties:• To periodically review applicable regulations concerning forest practices and the certification of forest practitioners and, as needed, issue recommendations to the Commissioner of Environmental Protection for changes to such regulations; • To periodically review the programs and policies of the department regarding forests, forest health and forest practices and issue recommendations to the commissioner for changes, as needed, to such programs and policies; and • To provide advice and guidance to the commissioner regarding the certification of technically proficient forest practitioners and the revocation or suspension of such certifications. The Connecticut State Forest Stewardship Committee provides advice and guidance to the State Forester's office to administer the Forest Stewardship Program and the Forest Legacy Program as well as providing input to the Forest Action Plan. The State Forest Stewardship Committee is comprised of individuals, organizational and agency representatives (government, NGO, and private), and other stakeholders who have an interest in private lands forest management and public assistance for private forest landowners to accomplish forest stewardship planning.*
+
+| (USDA Natural Resources Conservation Service, 2016) DEEP Municipal Inland Wetland Commissioners Training Program Each year the Wetlands Management Section of the Connecticut DEEP provides extensive training, regulatory, and technical assistance to Connecticut's Municipal Inland Wetlands Agencies. Beginning in the mid 1990's the Forestry Division has participated in this annual training with the purpose of educating municipal employees whose regulatory responsibility may expose them to forest practices. The training opportunities include an online program, continuing education workshops and archived training material. Current training opportunities can be viewed at: The Forestry Division Fire Program (housed in the Forest Protection Program) has a written Standard Operating Procedures (SOP) document that provides policy on all aspects of programming, suppression, training, safety, air operations, prescribed burning, National Incident Management System (State Forest Stewardship Committee |
+| --- |
+
+[/TABLE]
+
+[TABLE]
+*IMPORTANT PARTNERS The Yale School of Forestry at the Yale School of the Environment (YSE Forest School) Since ) nonprofit trade organization representing the forest products industry in Connecticut. The Association represents all aspects of the forest products industry, including timber harvesters, truckers, foresters, sawmills, and associated businesses. TIMPRO CT's mission is to enhance the image and understanding of the forest products profession throughout the State of Connecticut through public outreach programs, education and a commitment to professionalism amongst its membership. (www.timproct.org)*
+
+| The University of Connecticut (UConn), College of Agriculture, Health and Natural |
+| --- |
+| Resources (CAHNR) |
+| Established as the Storrs Agricultural School in 1881, the College of Agriculture, Health and |
+| Natural Resources has been an important part of UConn since its inception. As the state's land- |
+| grant institution, it fulfills the land grant mission of teaching, developing new knowledge |
+| through research and delivering that knowledge to Connecticut citizens through formal and |
+
+[/TABLE]
+
+[TABLE]
+*Connecticut Forest Issues, Threats, and Opportunities INTRODUCTION TO CONNECTICUT'S FOREST ISSUES The following issues were originally derived from stakeholder input during the planning and research phases of the 2004-2013 Connecticut Statewide Forest Resource Plan (CTFRP). A series of ten focus groups were held targeting different stakeholder groups to define issues and create action steps to address those issues. The results were used in development of the CTFRP and have been a guiding force during the implementation of the CTFRP. To fulfill this Statewide Forest Action Plan requirement, the original issues were put out to a targeted group of stakeholders to reaffirm that the issues were still relevant in 2010. In 2019, Department of Energy and Environmental Protection Forestry Division (Forestry Division) working with the Connecticut Forest and Park Association (CFPA) conducted an online survey completed by over 1,000 people and six roundtable sessions with more than 100 unique individuals attending one or more sessions to get input on the issues and desired future conditions of Connecticut's forests. Both the survey and the roundtable sessions affirmed the existing issues as still important today.*
+
+| iii. Multi-flora rose c. Local regulations Opportunities c. Tariffs/export markets 2. Regional councils of government are working across municipal boundaries |
+| --- |
+| iv. Winged euonymous 1. Control invasive species Opportunities 5. Regulatory concerns |
+| v. Tree-of-heaven vi. Garlic mustard 2. Diversify age/species/structure/composition 3. Conserve forestland 1. Availability of technical and financial assistance 2. Revenues from land ownership 6. Revenue sources a. Economy of scale ISSUE 8 -IMPORTANCE OF ONGOING FOREST RESEARCH |
+| vii. Kudzu 4. Increase prescribed burns in fire-dependent and fire-adapted ecosystems 3. Programs to reduce forest ownership costs b. Decrease in the volume of timber being harvested from State property Threats |
+| viii. Mile-a-minute 5. Assess and evaluate forestlands to identify important habitats, flora, and fauna Opportunities 1. Lack of state-supported biological research in Connecticut |
+| 2. Native species a. Deer 1. Locally-grown program 2. Lack of Connecticut-specific social research ISSUE 4 -PROVIDE FOR FOREST-BASED RECREATIONAL OPPORTUNITIES 2. Non-traditional revenue sources 3. Need for effective dissemination/extension of research information |
+| a. Exotic insects/diseases i. Chestnut blight ii. Dutch elm disease iii. Spongy moth iv. Emerald ash borer (EAB) v. Hemlock woolly adelgid (HWA) vi. Elongate hemlock scale ix. Asian longhorned beetle x. Spotted lanternfly xi. Sudden oak death xii. Unknown exotic threats b. Plants i. Japanese barberry ii. Asiatic bittersweet a. Parcelization b. Forest fragmentation c. Landscape-scale objectives 7. Insufficient scientific knowledge of flora and fauna and their relationships a. Landscape-scale interactions not well understood making it harder to plan and manage across this scale b. Lack of information may lead to reduced adaptability/resilience to climate change b. Decrease in labor force 1. Governor's Council on Climate Change (GC3) report due out in 2021 b. Liability concerns a. Increased operating costs Opportunities a. Boundary issues/trespassing 4. Outside influences affecting sustainability 5. Interpretation and implementation of regulations 3. Legal and regulatory challenges 3. Gradual loss of historically economically important species 4. Use of open space lands designation within towns c. Forest product worth 2. Limited markets for low-grade material 3. Ecosystems and habitat issues that cross municipal boundaries b. Development economics 1. Lack of age diversity within Connecticut's forests 2. Inconsistent planning, zoning, and building regulations a. Property taxes Threats 1. Lack of comprehensive land-use plans 2. Cost of land ownership viii. Beech leaf disease 6. Aging landowner population and intergenerational transfer 1. Intergenerational transfer Threats ISSUE 5 -SUPPORT A SUSTAINABLE FOREST-BASED ECONOMY vii. Beech bark disease b. Native insects/diseases ISSUE 2 -PROMOTE STEWARDSHIP OF PUBLIC FORESTS Threats a. Witch-hazel Opportunities i. Two-lined chestnut borer Threats 1. Lack of availability b. Agroforestry (https://www.fs.usda.gov/nac/) 1. Connecticut Agricultural Experiment Station, University of Connecticut, Yale University, ii. Hemlock looper 1. Personnel limitations a. Access and others continue to contribute research as funding allows iii. Southern pine beetle iv. White pine weevil 2. Funding shortages for purchase and maintenance of public lands 3. Lack of constituency support of forest management b. Cost c. Unmet trail needs 2. Understanding Connecticut's Woodland Owners by Mary Tyrrell was published in 2015 ISSUE 6 -FOSTER PUBLIC AWARENESS AND SUPPORT OF FORESTS and addresses Connecticut-specific social research v. Armyllaria fungus 4. Lack of direction in developing local vision for local public forests 2. Unauthorized uses Threats 3. Streamlined and logical information access c. Native plants i. Ferns ii. American beech iii. Black birch iv. Red maple v. Mountain laurel 3. Natural disturbance a. Climate change b. Extreme weather i. Wind storms ii. Drought iii. Ice storms 4. Lack of balanced forest structure a. Age diversity b. Species diversity/composition. 5. Lack of fire in fire-dependant and fire-adapted ecosystems b. Dry upland oak habitats Threats POLICY a. Pitch pine habitats 5. Lack of good examples of towns practicing forest management 6. Lack of understanding of the benefits of management 7. Active opposition to management on public lands Opportunities 1. Enhance ecosystem services 2. Provide social benefits a. Recreation b. Aesthetics c. Forest products a. ATV/off-road vehicles 1. Lack of standardization and availability of educational material regarding Connecticut's b. Illegal fires c. Off-leash dogs forests ISSUE 9 -THE ROLE OF URBAN FORESTRY IN CONNECTICUT 2. Lack of funding for outreach programs d. Trespassing/dumping 3. Lack of environmental educators Threats 3. Lack of an umbrella organization to represent all recreation users in Connecticut 4. Challenge of getting youth outdoors 1. Liability 4. Lack of coordination between stakeholders 5. Reaching private forest landowners 2. Health threats 5. Funding and staffing Opportunities 3. Lack of funding a. Planning 1. Use the increase in outdoor recreation due to COVID-19 to keep youths interested in 4. Lack of education b. Maintenance nature and forests 5. Need to involve community members c. Enforcement of policies 3. Outreach and education 6. Hazardous trees 2. Master Woodland Owner program spearheaded by CFPA will aim to increase the number Opportunities a. Demonstrate management techniques b. Promote interest in the natural world c. Promote stewardship ethic to help all users value forests. ISSUE 7 -ADVOCATE AND IMPLEMENT EFFECTIVE FOREST PLANNING AND ISSUE 3 -PROTECT PRIVATE FORESTLANDS of environmental educators 1. Urban Forest Inventory and Analysis work has begun with data and reporting coming in Opportunities 3. With three service foresters for the first time in many years, the Forestry Division Private the near future 1. Passport to Parks Program and Municipal Lands Program will have more capacity to reach private forest landowners 2. Increase awareness in social and environmental justice movements may lead to better 2. Increase focus on underserved communities 3. Inter-agency and stakeholder cooperation for overarching forest-based recreation plan community engagement |
+
+[/TABLE]
+
+[TABLE:  Education, outreach, and community engagement are also issues of critical importance. So much of what happens in urban forestry depends upon the active participation of individuals and groups at the local level. Knowledge of issues relating to trees is what will drive this local engagement. Likewise, this same knowledge of tree issues is critical for local officials such as municipal Tree Wardens to receive the support they need. People need to know what the concerns, intentions, likely outcomes, alternatives, and probable benefits associated with urban forestry efforts are if they are to get behind them. At the local and state level, education must be put in the forefront of urban forestry's goals.]
+
+[TABLE]
+*Table of completed Forest Legacy Projects through 2020. Connecticut DEEP partners with the U.S. Forest Service to implement the Forest Legacy Program. The Forest Legacy Program is used to identify and help conserve privately-owned environmentally important forests from conversion to non-forest uses. The main tool used for protecting these important forests in Connecticut is conservation easements. The Federal government may fund up to 75% of project costs, with at least 25% coming from private, state or local sources. The Forest Legacy Program protects "working forests", which is defined as those that protect water quality, provide habitat, forest products, opportunities for recreation and other public benefits (USDA Forest Service, n.d.). The AON defined the Eligibility Criteria that was used in the identification of important forest areas that became the Western and Eastern Forest Legacy Areas (FLAs) in which Forest Legacy activities can occur (Figure34); and determined through analysis what defines "threatened" and "environmentally important forests"; and outlined the State's project evaluation and prioritization procedures. The AON was developed in consultation with the State Forest Stewardship Committee and approved by the State lead agency and the U.S. Forest Service. The boundaries of the Western Forest Legacy Area were modified and approved in 2001 and remain unchanged since. Approval letters and FLA descriptions are in Appendix 3.Through the public input process for the State Forest Action Plan, analysis of the forest resources in Connecticut, and meetings between the State Lead Agency and the State Forest Stewardship Committee, it was determined that the same factors leading to the development of the original Forest Legacy Areas and Assessment of Need are still relevant today. The topic of changing the Forest Legacy Areas, either subtractions or additions, was discussed between the State Lead Agency and the State Forest Stewardship Committee and it was decided that is was best to continue with the existing areas. These areas contain most of Connecticut's environmentally important forests and threatened forests. As one of the most densly populated states, there is constant pressure on forestland of conversion to non-forest throughout the Forest Legacy Areas from residential, commercial, and industrial development, including solar array development.The main conservation goals for each Forest Legacy Area is to keep as much forest as forest as possible. Connecticut is looking to develop a "No Net Forest Loss" policy and the Forest Legacy Program can be an important avenue to help accomplish the conservation of forest land, mostly through conservation easements on private forestland (72% of Connecticut's forestland).Conserving forestland through the Forest Legacy Program provides numerous public benefits justifying federal investment in the forests of Connecticut, including protecting aesthetic and scenic values, wildlife habitat, public recreation opportunities, soil health and productivity, providing forest products and jobs for the local economy, preserving water quality especially for public drinking water supplies, sequestering and storing carbon to help mitigate the effects of climate change, and providing public health benefits including clean air. Public input through a survey and stakeholder meetings stated that the loss of forestland/conversion to non-forest was the greatest concern regarding forest resources in the state of Connecticut. The Forest Legacy Program was created in 1990 and has now expanded to 53 states and territories while conserving more than 2.6 million acres of forestland. Since the start of the program in Connecticut in 1994, the Forest Legacy Program has helped to protect 9,065 acres in Connecticut using $9,773,320 in federal Forest Legacy funds and $12,398,528 in non-federal cost share for a total value of $22,171,848 (USDA Forest Service, 2020). As of November 1, 2020, Connecticut's Forest Legacy Program has 16 tracts totaling over 1,000 acres that have received funding, but have not yet been completed.*
+
+| Figure 36 -Forest Legacy Program Crosswalk |  |
+| --- | --- |
+| Forest Legacy Program Requirement | SFAP Location Assessment/Strategy Page(s) |
+| a. Forest resources and benefits including: |  |
+| • Aesthetic and scenic values | 57, 103, 105, 127 |
+| • Fish and wildlife habitat | 2, |
+| # of Tracts 1 1 1 4 5 2 7 1 1 6 1 3 33 * As of 11/1/2020 the Whip-poor-will Woods project has 4 remaining tracts totaling 556 acres that will be CE or Fee Acres Funding Year Federal Funds Cost-Share Total Value Maplewood Farm CE 172 1995 $210,000 $0 $210,000 Pogmore CE 53 1995 $80,000 $0 $80,000 Pine Brook CE 126 1998 $100,000 $0 $100,000 Western Legacy Area Fee 313 2000 $0 $709,550 $709,550 Eastern Legacy Area Fee 597 2000 $0 $1,171,500 $1,171,500 Great Mountain Forest CE & Fee 5,528 2001 $4,089,378 $1,363,126 $5,452,504 Stonehouse Brook CE 478 2003 $596,000 $198,667 $794,667 Peaceful Hill Tree Farm CE 35 2004 $162,714 $54,238 $216,952 Western Legacy Area Fee 45 2005 $0 $311,675 $311,675 Skiff Mountain CE 705 2006 $1,732,728 $6,712,272 $8,445,000 Tulmeadow Farm CE 73 2010 $1,415,000 $1,415,000 $2,830,000 Whip-poor-will Woods* CE 940 2015 & 2016 $1,387,500 $462,500 $1,850,000 Totals 9,065 $9,773,320 $12,398,528 $22,171,848 completed before 5/19/2021. The Ashford Woodlands project was funded in 2019 to conserve about 458 acres, Figure 35 -Project but none of the tracts have yet been completed. |  |
+
+[/TABLE]
+
+[TABLE]
+*Priority Map 2 -Stewardship Program Priority Areas Participation in the U.S. Forest Service Forest Stewardship Program requires states to submit Forest Stewardship Priority Areas that are aligned with Forest Action Plan priorities. The Forest Stewardship Program will focus Program delivery efforts in these areas that cover almost 504,000 acres of large and medium core forest on eligible private land.*
+
+| Forest Legacy Program Requirement | SFAP Location Assessment/Strategy Page(s) |
+| --- | --- |
+| a. Identification of applicable eligibility criteria | 103-105 |
+| b. Identification of specific Forest Legacy Areas (FLAs): |  |
+| • Location of each geographic area on a map and a | 104, Appendix 3 (227-231) |
+| written description of the FLA boundary |  |
+| • Summary of the analysis used to identify the FLA | 103-105 |
+| and its consistency with the eligibility criteria |  |
+| • Identification of important environmental values | 103-105 |
+| and how they will be protected and conserved |  |
+| • Conservation goals or objectives in each FLA | 103-105 |
+| • List of public benefits derived from each FLA | 103-105 |
+| • Identification of the governmental entity that | 103-105 |
+| may hold lands or interests in lands |  |
+| • Documentation of the public involvement | 103-105, 116-117, Appendix 2 (200- |
+| process and analysis of the issues raised | 226) |
+| c. Specific goals and objectives to be accomplished by | 103-105 |
+| the FLP |  |
+| d. Process used by the State lead agency to evaluate | 103-105, Appendix 3 (241-246) |
+| and prioritize projects to be considered for inclusion |  |
+| in the FLP |  |
+|  | 120 |
+| e. Cultural resources that can be effectively protected | 82, 103 |
+| f. Outstanding geological features | 103 |
+| g. Threatened and endangered species | 24-26, 92, 103, 111, 113 |
+| h. Other ecological values | 41-50, 103 |
+| i. Mineral resource potential | 103 |
+| j. Protected land in the State, to the extent practical, | 53-55, 57, 59, 63-67, 103-105 |
+| including federal, state, municipal, and private |  |
+| conservation organization lands |  |
+| k. Issues identified by the State Forest Stewardship | 92, 96-101, 103-105, 108-115, 116- |
+| Coordinating Committee and through the public- | 117, 118-128 |
+| involvement process |  |
+
+[/TABLE]
+
+[TABLE: • Connecticut River Watershed -CT, MA, NH, VT -Landscape encompassing New England's largest river ecosystem, the Connecticut River, a National Heritage River/National Blueway coterminous with the Silvio O. Conte National Wildlife Refuge. •]
+[TABLE: Highlands Region of Connecticut, New Jersey, New York, and Pennsylvania ]
+[TABLE: England Cottontail (NEC) Focus Areas -CT, MA, ME, NH, NY, RI, VT -A young forest initiative that originally aimed to keep the New England Cottontail from becoming a federally endangered species that has grown to include other species needing young forest to thrive. Includes the Great Thicket National Wildlife Refuge.•]
+[TABLE: Southern New England Heritage Forest/The Last Green Valley - CT, MA, RI -The largest remaining rural landscape in southern New England that has several active smaller landscape initiatives within it. •]
+[TABLE: The Nature Conservancy Resilient and Connected Network - Eastern United States and Atlantic portions of Canada -The Resilient and Connected Network in Priority Map 5 also crosses political boundaries and links landscapes across eastern North America providing connection to allow for resiliency and flow of biodiversity related to climate change (Figure]
+
+[TABLE]
+*Figure 42 -Multi-State Priority Map. Source: USDA Forest Service Figure 43 -Regional view of TNC's Resilient and Connected Networks. (The Nature Conservancy, 2020) PART 2. STATEWIDE FOREST RESOURCE STRATEGY SECTION 1. Desired Future Conditions of Connecticut's Forests Stakeholder Input Process *
+
+| From (Tyrrell, Report on the Public Input Process to the Connecticut Forest Action Plan 2020, |
+| --- |
+| 2019) -See Appendix 2 |
+
+[/TABLE]
+
+[TABLE]
+* The survey was conducted between April 3 and May 4, 2019. The roundtable meetings were held during June 2019 at three locations geographically representing the central, eastern and western parts of the state.*
+
+| The Connecticut Forest and Park Association (CFPA), Connecticut's oldest nonprofit forest |
+| --- |
+| conservation organization (established in 1895), was contracted by the CT Department of Energy |
+| & Environmental Protection (DEEP) to facilitate and summarize public input gathered through |
+| the survey and roundtable discussions. DEEP will incorporate the information in this report into |
+| the 2020 Forest Action Plan. |
+
+[/TABLE]
+
+[TABLE:  d) CFPA and land trusts will consider advocating for Connecticut income tax deductions for gifts of land or below-value sale of conservation easements that will preclude development of private forestlands.]
+
+[TABLE]
+*7. In the future, Connecticut's forests will support a broad spectrum of appropriate recreational activities that attract users to Connecticut's forests. Recreation activities should accommodate users while minimizing impact to other resources such as wildlife, infrastructure, soils, water, and vegetative communities. Work with stakeholders and partners to create comprehensive plan and policy to best locate and design recreational opportunities that are sustainable. Relevant DEEP divisions including Parks, Forestry, Wildlife, Environmental Conservation Police, Fisheries, Land and Water Resources, and user groups including Connecticut Forest and Park Association, the New England Mountain Bike Association (NEMBA), hunters, hikers, and others should work together to develop a sustainable recreation plan that best meets recreation needs while also protecting the natural resources. Allocate funding for activities, such as off-road vehicle use, currently prohibited in many locations. Specific areas would be designated that alleviate reasons for prior prohibitions. Design, control, maintenance, and cost issues will need resolution.*
+
+|  | d) National Priorities |
+| --- | --- |
+|  | a) Conserve and manage working forest landscapes for multiple values and uses. |
+|  | b) Enhance public benefits from trees and forests. |
+|  | Action steps to accomplish this vision: |
+|  | a) i) Improve opportunities for willing private landowners to provide areas for some or all Principles: forest-based recreation activities. |
+|  | a) Outdoor recreation is the single most common reason why people are in the forest and j) Towns and the State should appropriate adequate funds to enforce restrictions on develop an appreciation of its many values. activities, licenses, etc., because unenforced laws encourage disregard for laws and |
+|  | b) Recreation activities and sites provide excellent opportunities for education about leave people unprotected. |
+| 8. | forest management |
+|  | c) Outdoor recreation in forests can benefit state tourism aspects and increase revenue |
+|  | from tourist activities. |
+
+[/TABLE]
+
+[TABLE]
+*In the future, Connecticut will use its forests to stimulate learning about nature and ecology and to demonstrate various sustainable forest management strategies. Increase the emphasis on nature and ecology in schools because education is integral to the success and sustainability of healthy forest ecosystems. Extension forestry, service forestry, and local organizations will use existing programs, such as Coverts and Goodwin Forest Outreach, and programs in development, such as the Master Woodland Owner program, as excellent templates for statewide replication to address adult education needs for forest landowners.*
+
+| Principles: |
+| --- |
+| a) b) Adults learn more rapidly and thoroughly about forests through experiential education |
+| focused on areas of specific interest to them (e.g., forest management, recreation, |
+| urban environment, etc.) |
+| National Priorities |
+| a) Conserve and manage working forest landscapes for multiple values and uses. |
+| b) Enhance public benefits from trees and forests. |
+| Action steps to accomplish this vision: |
+| a) |
+
+[/TABLE]
+
+[TABLE: Action steps to accomplish this vision: a ) Increase state funding for forest research by the Connecticut Agricultural Experiment Station and University of Connecticut and other entities; advocate increased federal competitive grants for forestry research from U.S. Forest Service, Department of Energy, National Science Foundation, and other funding opportunities that are open to all state research organizations concerned with forests. b) Increase state funding for extension and service forestry programs and advocate for increased federal support. Working forests are the least expensive way to maintain open space and produce public benefits from forestlands (e.g., clean water, scenery, wildlife habitat, carbon sequestration, etc.) c) Improve data and information management and enable easier access to a broader range of users needing the information. d) Outreach specialists will provide mechanisms to disseminate research findings to land managers and interested parties in ways that they can understand and use. e) Develop training programs to improve the collaborative dialogue among practicing foresters, forest landowners, and information service providers; hold regular meetings and field tours that bring these groups together for dialogue and planning.]
+[TABLE:  xii) Expand use of social media tools to improve public awareness, communication and engagement of State Land Management Activities. xiii) Use sound, science-based harvesting and best management practices to manage forests sustainably. Revise the 2008 Sustainability study to develop statewide growth and yield rates to facilitate carbon cycle planning on state forest lands. Over the 2015-2019 SFAP period Forestry Division records indicate the annual growth to harvest ratio on Connecticut state forests was 5.75:1. Using growth rates cited in the 2008 Yale study, the Forestry Division harvested on average, 17.3% of annual growth over the preceding 2015-2019 SFAP period. (2) Establish, perpetuate, and promote desirable native regeneration, to facilitate graduation into successively larger size-classes. (]
+[TABLE:  Utilization and Marketing (1) Convey to the public and policy makers the economic importance and social value of Connecticut's forest industry. (Supports SCORP, CTWAP, Forest Utilization and Marketing, FPA Mission). (a) Promote the value of traditional forest products, such as timber and firewood, including the opportunity to use local products contributing to the local economy. (b) Demonstrate the climate change benefits of stored carbon in high value, longlived forest products. (c) Promote the value of non-traditional, non-timber products (e.g. boughs, biomass, maple sugar/syrup, mushrooms,); low-impact, contemplative recreational opportunities (e.g. birdwatching, hiking, hunting, and camping), and ecosystem services (e.g. clean fresh water streams, healthy wildlife populations, carbon sequestration, and climate resilience and adaptation). (d) State forests provide a reliable, renewable, and sustainable variety of products to the State-certified professional forest products industry and citizens. For over 100 years state forests have contributed to local economies with jobs, equipment and fuel sales, and business opportunities throughout the state. (2) Prepare a biomass harvesting and wood energy strategy that addresses early intervention in younger stands, promotion of advanced regeneration, nutrient replenishment, and sustainability, while improving low-grade market opportunities. v) Cultivate alliances with user groups for cooperative trail management agreements, Institute paid recreational passes for horses and wheeled vehicles (supports SCORP). vi) Provide conservation education and demonstration (1) Partner with the Private & Municipal Land Program (P&ML), landowner groups, conservation organizations, and other DEEP Divisions to establish Conservation/Demonstration harvest schedules and tours. Inform and encourage landowners to learn the importance and apply principles of sustainable forest management using partners like the University of Connecticut, Connecticut College, The Nature Conservancy and The Connecticut Forest and Park Association (supports CTWAP, Forest Stewardship Program, Conservation Education). (2) Assist with Envirothon and No Child Left Inside ® . Project Learning Tree (3) Provide forestry presentations to schools, such as A.P. Environmental Science classes. Participate in Career Days. (]
+
+[TABLE]
+* Prescribe burning is a well-utilized management tool in Connecticut with the Forestry Division able to provide help and expertise to other entities. The Forestry Division contains sufficient staffing to perform the above duties and achieve the vision. Maintain state, NWCG, and other appropriate safety standards for Connecticut wildland fire fighters. ii) Maintain/improve annual wildland fire training for Connecticut wildland firefighters, including fire department personnel. iii) Maintain/improve all equipment. Add equipment to improve efficiency and service. iv) Maintain an active Connecticut Rural Fire Council. v) Strive to get active Northeast Compact Commissioners appointed by the Governor's office. vi) Continue with strong Northeast Compact support and maintain active participation at all levels. vii) Improve Wildland fire statistics. viii) Continue with national support of emergency management needs by providing crew, engine, and single resource personnel. ix) Improve statewide capacity of Wildland Fire Investigation. x) Develop, promote, and maintain a group of NWCG qualified people to act as an instate Incident Management Team (IMT), as well as provide support to the Northeast Compact IMT. xi) Improve relationships/build coalition with partners and potential partners, through an information strategy and education and outreach. xii) Mitigate hazards as they apply to wildfire and safety of public. xiii) Improve our Prescribed fire program xiv)Improve the public/DEEP agency knowledge of the fire program. xv) Increase efforts to address Rural Fire Issues identified by the Connecticut Rural Fire Council. xvi)Improve ability to get precipitation data for fire weather predictions. d) Critical Success Factors i) Maintain funding from U.S. Department of Agriculture Forest Service (U.S. Forest Service) for operational needs. ii) Continue to receive the highest quality training for staff. iii) Get DEEP buy in for program. Develop stronger relationships across the agency. iv) Maintain an active Rural Fire Council. v) Strengthen our involvement with Non-Governmental Agencies (NGOs) to foster close working relationships. vi) Strengthen our relationship with the Division of Emergency Management and Homeland Security (DEMHS) including IMT development. vii) Evaluate and adjust internal agency policies to address limitations on the use of prescribed burns as a management tool for multiple disciplines. viii) Increase Forest Protection staffing to a level of four Fire Control Officers. Maintain state, NWCG, and other appropriate safety standards for Connecticut wildland fire fighters in regards to personal protective gear, wildland fire training qualifications, and fire shelter use. (1) Maintain situational awareness with changes in state and national policy and environment and safety issue standards, and update program protocols as necessary. (2) Keep informed and updated on Lesson Learned reports, and utilize lessons and After Action Reviews to implement safer work practices. (3) Be aware and informed on current environmental weather patterns and the effect on vegetation availability. (4) Actively monitor for newly developed or improved PPE to ensure firefighter safety. (5) Monitor NWCG qualifications for new requirements for courses and training (6) Continue to have all Program trained firefighters remain current in fire shelter deployment training every 2 years ii) Maintain/improve annual wildland fire training for Connecticut wildland fire fighters including fire department personnel. (1) Continue to create new training materials for in-state firefighters and offer appropriate NWCG training classes. Keep current with national standards. (2) Improve flexibility of personnel through training/experience, including integration of fire department personnel on scene when opportunities arise. (3) Utilize Northeast Compact to provide training assistance as needed. (4) Provide training assistance to Northeast Compact as needed/requested. Educate DEEP liaison of Forest Protection and CIFC capabilities so they can better inform other agencies (2) Find opportunities to engage more with Division of Emergency Management and Homeland Security (DEHMS) on coordinated activities (3) Build broader capabilities for all wildland fire positions. (4) Utilize qualified trained CIFC members/DEEP employees in storm recovery and response, search and rescue, and other Emergency Management functions as needed xi) Maintain equipment and inventory in the Federal Excess Property Program (FEPP) (1) Maintain current FEPP equipment and inventory (a) Evaluate the current Fire Fighter Program. xii) Utilize the media in a more formal manner to meet our needs and advertise our services and accomplishments xiii) Implement a Prescribed Fire Program (1) Evaluate and adjust internal DEEP policies to address restrictions that hinder the use of prescribed burns as a management tool for multiple disciplines, including state imposed burn size and growing season restrictions. (2) Increase the number of qualified burn bosses and safety officers. (3) When able, provide technical assistance to fire departments and nongovernmental organizations (NGO's) with their prescribed burn programs. xiv)Address issue of Rural Fire needs and WUI (1) Investigate development of Community Wildfire Protection Plans in applicable areas. Currently Connecticut has no Community Wildfire Protection Plans. (2) Review Firewise and other educational programs for applicability (3) Review areas of State property where fuel reduction could be a concern and develop plans to mitigate situation. (*
+
+| Compact IMT. |
+| --- |
+| (1) |
+| c) Mission |
+| i) ix) Review State Fire Standard Operating Procedures (SOP) annually and update as |
+| needed. |
+| e) Strategies & Actions |
+| i) (5) Utilize Federal grant funds through the Northeast Compact for training as |
+| necessary. |
+| (6) Provide Leadership classes as appropriate. |
+| (7) Provide targeted specialty classes as needed. |
+| (8) Provide maximum number of quality opportunities for training and mobilization |
+| for all qualified personnel; through classroom exercises, wildfire response |
+| mobilization, or other incidents to prevent red card expiration or loss of |
+
+[/TABLE]
+
+[TABLE]
+*) Critical Success Factors i v) Promote forest health and productivity (Protecting and promoting long-term health and sustainability of our private and municipal forest lands) -Inform landowners of the value of active forest management, when it may be appropriate, and to identify and respond to active threats to forest health. vi) Public outreach and education -Provide or assist schools, program partners and other organizations, municipalities, forest industry professionals, policy makers, and the public with education and training on forests and forestry. vii) Forest Stewardship -With the guidance and assistance of the Forest Stewardship Committee, Natural Resources Conservation Service (NRCS) State Technical Committee, and the Forest Practices Advisory Board, and in collaboration with our partners and stakeholders, work with foresters and landowners in the preparation and implementation of forest stewardship plans that help landowners achieve their resource objectives in a sustainable manner. In addition, the Division has the responsibility of approving stewardship plans written by private foresters and operating a monitoring program, developed by U.S. Forest Service, which tracks implementation performance. viii) Climate change -Incorporate the best available climate science and management practices for carbon forestry in our programmatic activity. c) Maintain a well-trained and knowledgeable program staff that is apprised of current forestry issues and of the best available techniques, programs or resources available to address those issues. ii) Build and maintain partnerships -The key to future success will be built upon maintaining existing and cultivating new partnerships that support private forest lands, forest stewardship and sustainable forest management. iii) Support additional research in critical areas such as best management practices, carbon forestry, Connecticut's forest landowner dynamics and communications, and social impacts on forests and forestry that will lead to improvements in environmental performance and provide greater understanding of the interactions between landowners, society and the environment. The outcomes of such research will help direct the Division as it focuses limited resources on key issues such as fragmentation, regressive harvesting, climate change, and invasive species control. iv) There are more than 25,000 landowners owning ten acres of forest or more, leaving each service forester to service more than 8,000 owners each. With these numbers in mind, maintaining a minimum of three service foresters is essential to implementation and achievement of the Division's vision, missions and strategies. In collaboration with non-government organizations and government program partners, provide or assist with outreach and education efforts with schools, private and municipal organizations, and the public on understanding the many benefits of forests and forest stewardship. Invest in software, resources and programmatic development to conduct outreach and education efforts virtually. Continue collaboration with and support of the Bureau of Outdoor Recreation on their very successful No Child Left Inside ® program and expand collaboration with the Department's Air, Waste, and Energy programs regarding their integration with forests and the forest products industry. Continue support of other key efforts such as the Envirothon and Project Learning Tree. ii) Staff training: Attendance by program staff to critical training and informational meetings is essential. Beyond the technical aspect of such meetings they often provide the opportunity for peer to peer exchange of ideas, experiences and discussions on issues and potential resolutions that are of particular importance. It is also imperative that interested staff from other programs be given the opportunity to cross-train. iii) Research: Research concerning Connecticut's forest landowner owner population is essential and must continue to monitor for changes in landowner demographics and attitudes. Identifying who these landowners are and understanding their attitudes has and will continue to greatly improve our ability to efficiently and effectively provide services. iv) Landowner incentives: Advocate for policy and laws that build strong and diverse local industries and markets. Advocate for favorable state and federal tax laws regarding estates and the sale of products. Explore the American Forest Foundation/TNC's Family Forest Carbon Program as an opportunity for landowners with smaller parcels to bring in income as they sequester and store carbon. As favorable incentives are created, it is essential that the Division be a strong advocate of and actively work toward breaking down and eliminating disincentives such as liability, timber encroachments and theft, and poorly written and implemented municipal laws governing forest practices be eliminated. v) Forest Stewardship: Continue to support and assist landowners and forestry professionals writing, implementing, monitoring, and updating forest stewardship plans. vi) Partnerships: The Division must continue to collaborate with and support the forest stewardship and forest land conservation related efforts of organizations such as, UConn Extension, Great Mountain Forest, Connecticut Forest and Park Association, Eastern Connecticut Forest Landowners, Conservation Districts, The Nature Conservancy, Trust for the Public Lands, Audubon Connecticut and Connecticut Audubon, Connecticut Land Conservation Council, The Last Green Valley, the Goodwin Collaborative and other stakeholders. vii) Monitor forest land tax laws and propose changes to ensure they work as effectively as possible at keeping forests as forests, promoting forest health, and supporting Connecticut's forest products industry. viii) Continue working with the Division's State Lands Management program and the Goodwin Conservation Center in demonstrating forest land management and providing conservation education. e*
+
+| v) Landowner incentives -Financial assistance programs (cost-sharing) through NRCS |
+| --- |
+| have been successful in connecting forest landowners with forestry professionals. |
+| Landowner incentives must go beyond traditional cost sharing programs, including |
+| but not limited to: |
+| (1) Building strong and diverse local markets for traditional and nontraditional forest |
+| products, non-timber products and ecosystem services provide powerful |
+| incentives for landowners to keep their forests as forests. |
+| (2) Creation of favorable state and federal taxes laws regarding estates and the sale of |
+| products are also critical. |
+| (3) Disincentives such as liability, timber encroachments and theft and poorly written |
+| or inconsistently implemented municipal laws governing forest practices be |
+| eliminated. |
+| d) Strategies & Actions |
+| i) Outreach and education: |
+| (1) Landowners (private and municipal) -In collaboration with non-government |
+| organizations and government program partners, provide assistance and guidance |
+| in forest management including but not limited to silviculture and carbon forestry, |
+| invasive species identification and control methods, landowner incentives, forest |
+| land taxation and fragmentation. Efforts using traditional means such as one-on- |
+| one correspondence, workshops, meetings, demonstrations, publications and |
+| internet resources and social media should continue, but identifying and investing |
+| in additional effective and efficient means of outreach to traditional and |
+| nontraditional landowners is essential to long-term success. Examples of such |
+| outreach includes, but is not limited to the establishment of the Goodwin |
+| Demonstration Forest, continued contribution to the Keney Park Climate Change |
+| Adaptation Project and CAES' Cutting Methods Project, program development |
+| and implementation of the Master Woodland Owner Program, and Coverts. |
+| Information on carbon forestry should be developed, included in the Woodland |
+| Owner Primer, and distributed elsewhere. |
+| (2) Public - |
+
+[/TABLE]
+
+[TABLE]
+*) National Priorities addressed by the Private and Municipal Lands Program i) Conserve and manage working forest landscapes for multiple values and uses. ii) Protect forests from threats. iii) Enhance public benefits from trees and forests. The implementation and enforcement of the certification and conduct regulations authorized by the Forest Practices Act has contributed significantly to the credibility of the profession and provided a firm footing for improving the public's perception of forestry and timber harvesting. The success of this program was and remains a critical factor in aiding private forest landowners in keeping forests as forests. ii) The future success of the program will be built on maintaining an environment whereby forest landowners are served by highly competent certified forestry and logging professionals. Understanding landowner's goals, certified forest practitioners use their expertise to guide landowners toward the implementation of safe and environmentally sound forest practices. Establish, implement and maintain an outreach and education program targeting the forest industry, forest landowners and regulating government agencies on the provisions of the Forest Practices Act and other statutes and regulations that impact forest management and operations. iii) Collaborate with other Division programs and partners to coordinate and implement a program of outreach and education with the forest industry, forest landowners, public and regulating government agencies on best management practices and matters relating to forest operations and forest management. iv) Enforce the Forest Practices Act and all subsequent regulations and collaborate and support other local, state and federal agencies with compliance of all other environmental laws (civil and criminal) related to forestry practices. v) Collaborate with other Division programs and partners to assure that forest landowners have the opportunity to consider, without bias, all available options to manage their lands.vi) Encourage cooperation and understanding between the forest industry, forest landowners, the public and local and state agencies on issues surrounding forestry and related environmental policies and practices. vii) Collect, observe, assess and report on the annual forest management and utilization activities of Connecticut's certified forestry professionals. Maintain a knowledgeable and experienced program staff at current levels -while the primary charge of the program requires regulatory skills, significant knowledge and experience in non-regulatory subjects such as utilization and marketing is often required to work with the industry and service forestry skills is often employed while working with landowners. ii) Building and maintaining partnerships -while the Division stands alone during the conduct of its regulatory function, the key to success is built upon its partnerships and non-regulatory outreach and education of forest landowners, regulating government agencies, the forest industry and the public. iii) Support additional research in areas such as best management practices and forest landowner dynamics and communications that will help maintain standards and better enable the program to focus its limited resources iv) Municipalities, forest landowners, the general public and the forest industry have all benefitted from the increased professionalism and goodwill generated through the continuing education component of the Forest Practices Act required of all certified forest practitioners. For continued success, the program must build on this momentum and strive to improve the program by addressing several key issues such as the course cost and availability and course saturation. v) Continue to seek the advice and guidance of the Forest Practices Advisory Board Working collaboratively with our partners and other Division programs, utilize established, new and innovative means and tools to provide landowners with critical information enabling them to make intelligent decisions concerning the management of their forestlands. Such information will include but not be limited to: Best Management Practices, programs governing the certification and conduct of forest practitioners, forest management and harvesting operations. iv) Local and state agency assistance, outreach and education:(1) Working collaboratively with new and established government and nongovernment partners, provide information and training opportunities for regulatory agencies whose responsibilities impact the conduct of forest practices. (2) Provide technical assistance to municipalities, other agencies and programs with respect to the conduct of a particular forest practice(s).*
+
+|  | ii) Continuing education of certified practitioners: |
+| --- | --- |
+|  | (1) Working collaboratively with new and established government and |
+|  | nongovernment partners, continue seeking improvements in this very successful |
+|  | continuing education program addressing the need for new and innovative |
+|  | training methods and classes and assuring that a variety of quality educational |
+| 4) Forest Practices Act Program a) Vision: i) b) Mission: i) Establish, implement and maintain minimum standards for excellence that forest practitioners must demonstrate to achieve and maintain certification while promoting an environment that encourages certified forest practitioners to perform beyond such standards (Connecticut General Statutes Section 23-65h). municipalities authorized to implement such regulations (Connecticut General Statutes Section 23-65k). opportunities are offered at the lowest cost possible, at sufficient intervals while avoiding course saturation. iii) Landowner assistance, outreach and education: ii) viii) Review and approve regulations to govern forest practices from those c) Critical Success Factors (1) (3) Review and approve regulations to govern forest practices submitted by those municipalities authorized to implement such regulations (Connecticut General Statutes Section 23-65k) v) Annual reports: (1) Collect, evaluate and report Connecticut's forestry activities through the collection of annual reports that are submitted to the Forestry Division by certified forest practitioners. vi) Communications: i) (Established pursuant to Connecticut General Statutes Section 23-65g) and other (1) Utilize established, new and innovative ways to improve understanding and |  |
+|  | stakeholders concerning the Division's programs, regulations and policies regarding cooperation between forest landowners, the forest industry, the general public and |
+|  | forests, forest health, forest practices and certification of technically proficient forest regulating government agencies. |
+|  | practitioners. vii) Forest Practitioner Certification: |
+|  | vi) Cross training and mentoring of staff in other Division programs (1) Working collaboratively with partners, continue to provide comprehensive and |
+| d) Strategies & Actions current training materials to enable applicants to meet the minimum standards for |  |
+|  | i) Staff training: excellence that forest practitioners must demonstrate to achieve and maintain |
+|  | (1) Attendance to critical training and information meetings is essential. Beyond the certification. |
+|  | technical aspect of such meetings they often provide the opportunity for peer to (2) Maintain an active and effective program measuring and enforcing practitioner |
+|  | peer exchange of ideas, experiences and discussions on issues and potential certification, practitioner conduct and best management practice compliance. |
+| e) | resolutions that are of particular importance. |
+
+[/TABLE]
+
+[TABLE]
+*National Priorities addressed by the Forest Practices Act Program i) Conserve and manage working forest landscapes for multiple values and uses. ii) Protect forests from threats. iii) Enhance public benefits from trees and forests. Encourage the development of sustainable markets for traditional and non-traditional forest products, non-timber products and ecosystem services from the state's rural and urban forests. ii) Convey to the public and policy makers the economic importance and social value of Connecticut's forest industry and forest products, including the economic importance and social value of traditional and non-traditional forest products, non-timber products, and ecosystem services. iii) Encourage and support existing and future opportunities for third party green certification. iv) Observe, assess and report on the annual forest management and utilization activities of Connecticut's certified forestry professionals. v) Collect, assess and convey information concerning new and innovative business and market opportunities. vi) Promote the sustainable use of Connecticut's forest resource in a way that maintains or improves biodiversity. vii) Encourage and support a strong forest industry and solid markets for Connecticut forest products so as to better enable forest landowners to maintain their forests as forests viii) Provide outreach and education to the forest industry to improve safety, Supporting existing partnerships and encourage the development of new partnerships.iii) Collaborate with partners to provide educational opportunities for the forest industry, forest landowners, and government agencies on matters concerning and impacting forestry practices. iv) Enhance cooperation and communications among the forest industry and local government and state regulatory agencies. v) Promote research and projects that allow better quantification of ecosystem services.For policy makers, landowners, land managers and the public to fully embrace ecosystem services they need a greater understanding of how these benefits matter at the local level. vi) Cross training and mentoring of staff in other Division programs. vii) Expand collaboration with the Department's Air and Waste programs concerning the utilization of biomass. d) Strategies & Actions i) Engage the forest industry concerning evolving issues through the Forest Practices Advisory Board and through cooperation and partnerships with professional forestry organizations such as the Connecticut Professional Timber Producers Association (TIMPRO CT), and the Society of American Foresters. ii) Improve cooperation and communication among the forest industry, forest landowners and local government and state government. iii) Collect, evaluate and report on Connecticut's forestry activities through the collection of annual reports that are submitted to the Forestry Division by certified forest practitioners. iv) Revise and update the "The Forests and the Connecticut Economy". This report, which describes the role of forest products industry in Connecticut's economy, is based on data that is nearly ten years old. The report should be expanded to include non-traditional forest products, non-timber products, and especially ecosystem services. v) Gather and analyze information on the impact of woody biomass harvesting. Utilize the outcome to establish a comprehensive set of best management practices for woody biomass harvesting. vi) Collect and report data concerning the state's primary and secondary wood processors vii) Collect, assess and report data pertaining to harvesting, the forest industry, forest landowners, public views and government regulations. viii) Have staff and, where possible, key partners attend critical training and information meetings such as the Northeast-Midwest State Foresters Alliance (NMSFA) Forest Utilization Committee. Such meetings provide the opportunity for peer to peer exchange of ideas, experiences and discussions on issues and potential resolutions that are of particular importance. ix) Continue to provide support to the Master Logger and Tree Farm programs through which Connecticut's forest landowners are able to enter into the green certified wood market. x) Create and encourage projects which demonstrate the best ways to utilize wood produced from urban forests. xi) Collaborate with other Division programs and partners to provide continuing education opportunities to improve safety, competitiveness and environmental performance of the forest industry. xii) Engage and support research and projects which quantify ecosystem services fromboth the rural and urban forests that will lead to greater understanding by the public and policy makers of the importance and potential value of those benefits. e*
+
+| 5) Utilization and Marketing Program |
+| --- |
+| a) Vision: |
+| i) Connecticut's forest landowners and industry are able to provide traditional and non- |
+| traditional forest products, non-timber products and ecosystem services to the state, |
+| nation and world from a sustainable and diverse forest resource. Success creates local |
+| jobs and provides landowners with the means to maintain their forests as forests and |
+| supports a robust and stable forest products industry. |
+| b) Mission: |
+| i) competitiveness and environmental performance |
+| ix) Promote cooperation and understanding between local and state regulating entities |
+| and the forest industry and landowners |
+| c) Critical Success Factors |
+| i) Maintain a well-trained and knowledgeable program staff that is apprised of current |
+| industry issues and is aware of the techniques, programs or resources available to |
+| address those issues. |
+| ii) |
+
+[/TABLE]
+
+[TABLE: ) National Priorities addressed by the Utilization and Marketing Program i) Conserve and manage working forest landscapes for multiple values and uses.]
+
+[TABLE]
+*Clearly and Explicitly, the Benefits of Urban Forests 2. Establish a Statewide Urban Forest Data Bank 3. Describe and Promote the Elements of a Successful Municipal Urban Forestry Program 4. Help to Build Communication and Dialogue Among Municipalities, especially Among Adjacent Communities That May Share Common Regional Concerns 5. Embrace Diversity and Encourage Cooperation and Inclusion Throughout Urban Forestry 6. Work to Secure Urban Forestry's Place as a Major Contributor to the Management of the Modern Urban Environment 7. Prepare for the Effects of Climate Change while Helping to Mitigate its Causes 8. Encourage Innovation 1. Strategy -Publicize, Clearly and Explicitly, the Benefits of Urban Forests Strategy: It is also important that the State of Connecticut continue to support urban forestry. This support should include the hiring of the staff needed to fill all positions in the state program. It should also include financial support, such as has been provided in the past through the America the Beautiful grant program.*
+
+| Strategies |
+| --- |
+| 1. Publicize, |
+
+[/TABLE]
+
+[TABLE]
+*6. Strategy -Work to Secure Urban Forestry's Place as a Major Contributor to the Management of the Modern Urban Environment Strategy: Identify the specific ways in which urban forestry contributes to the resolution of management challenges in modern urban areas. Recognize the many ways in which urban forestry contributes to the common solutions that other disciplines, such as public health, planning and transportation design, are proposing. Recognize also the unique contributions that urban forestry and urban foresters, have to offer. Expand the means by which urban foresters can be called upon, to help in dealing cooperatively with the issues facing the state's cities and towns. Connecticut has experienced many forest health problems in the last century. Chestnut blight, Dutch elm disease, spongy moth, red pine scale, and butternut canker have all affected the structure and composition of Connecticut's forests. For example, chestnut accounted for 25% of Connecticut's growing stock before chestnut blight arrived. Now it forms only an understory shrub layer that is periodically killed back. The Experiment Station continues research to develop blight-resistant Chestnut trees and reintroduce them to Connecticut's forests.The hemlock woolly adelgid (HWA), an exotic insect from Asia, first appeared in south central Connecticut in 1985 and has been reported from all of the state's 169 towns, infesting eastern hemlock, Tsuga canadensis, which comprises 9% of Connecticut's forests. The adelgid causes tip branch dieback, needle loss, and tree mortality across the State, often in combination with other insects like elongate hemlock scale (EHS) (another exotic species) and hemlock looper (a native defoliator). Alternatives for managing the adelgid, particularly in forests, are limited. Suppression of HWA by the Experiment Station working with the U.S. Forest Service has been provided by research on systemic insecticides and the mass rearing and release of the ladybeetle HWA predator Sasajiscymnus tsugae which is native to Japan. The earliest North American releases of S. tsugae were in Connecticut in all counties of the state between 1995-2007 when releases of over 176,000 adult beetles were made in 26 forest sites throughout the state. Long term recovery of previously infested hemlocks has been recorded in monitored beetle release sites. Successive recent severe winters from 2014-2016 and 2018 have also significantly reduced populations of HWA to the lowest levels in many years. Concurrently, hemlocks were severely stressed recently by an extended extreme drought from 2015-2017, resulting in some decline and native hemlock borer outbreaks in 2016 with some mortality on marginal sites. While HWA populations decreased due to winter kill, concurrent EHS infestations on drought-stressed hemlocks increased significantly, resulting in further hemlock decline, and scale infestations have spread east of the Connecticut River. However, the drought ended in spring 2017 and was then followed by above normal precipitation in 2018 and ample rains in 2019. This has resulted in rapid and widespread hemlock recovery which has continued into 2020 at most sites. However, HWA has also reinvaded and expanded due to the warm winter in 2020, which has allowed adelgid populations to rebound substantially in some areas. Chemical control is no longer favored due to pollinator concerns. In 2017 and 2020, biological control using S. tsugae was again implemented by an Experiment Station scientist through coordinated donations and purchases from Tree-Savers, PA, the only commercial producer of S. tsugae. The objectives of these targeted predator releases are to manage HWA resurgence after mild winters and mitigate damage to hemlocks through continued cooperative releases with state, public and private partners. As of 2020, >185,000 S. tsugae have been released in 37 sites throughout the state.In addition, historical eastern hemlock provenance plots started by the Experiment Station in the late 1950s were recently rediscovered. These will be evaluated by an Experiment Station scientist and seeds collected for propagation with the goal of potentially developing new intraspecific hybrid eastern hemlock progeny more adapted to climate extremes and variability.Another insect native to Asia poses a significant threat to our forests and the nursery industry in Connecticut. The Asian longhorned beetle, (ALB), Anoplophora glabripennis, was first discovered in Brooklyn, NY in 1996, in other areas around New York City, and then in nearby areas in New Jersey (which has been released from quarantine). Other infestations have been found in Chicago and Boston, Toronto, Worcester, MA, Clermont County, OH in 2011, and most recently in Charleston County, SC in 2020. The U.S. Department of Agriculture's Animal and Plant Health Inspection Service (USDA-APHIS), working with local and state partners, has quarantined infested areas and is attempting to eradicate the beetle by cutting and chipping infested and nearby host-associated trees. The Worcester infestation was estimated to be 12-15 years old when detected, and as of June 2020, the quarantine area encompassed 110 square miles, unchanged since 2015, with over 24,208 infested trees found and a total of just over 36,000 trees removed (these statistics do not include host trees removed through acreage cuts within the regulated area). The risk of this beetle being in or introduced to Connecticut is considered high.*
+
+| Critical Success Factors |
+| --- |
+
+[/TABLE]
+
+[TABLE:  Conduct HWA surveys to determine HWA suppression or resurgence throughout Connecticut in response to biological control efforts, concurrent pests such as elongate hemlock scale and hemlock borer, and abiotic factors such as winter mortality with extended low temperatures. See objective 4. • Japanese barberry is listed as invasive in 20 states and is associated with enhanced densities of blacklegged ticks and detrimental impacts on Connecticut's native forested ecosystems and forest regeneration. Experiment Station research will continue on the effectiveness and relative costs of treatment combinations to control this plant, which will promote improved forest health throughout the state. Connecticut had a major outbreak from 2015-2019. In 2017, there were 1,175,000 acres impacted by the caterpillars, the greatest extent of defoliation seen since the early 1980s. But for scattered hot spots, spongy moth populations collapsed in 2019, brought under control by the entomopathogenic fungus Entomopaga maimaiga. In 2019, we recorded 166,636 acres affected by spongy moth, primarily in the eastern half of the state. Approximately 153,983 acres were dead, due to successive years of defoliation and drought stress. In December 2019 through March 2020, a spongy moth egg mass survey was conducted in 80-95% favorable host sites on a 7-mile grid (102 sites) throughout Connecticut. Egg mass counts were low to non-existent in most locations, indicating the severe outbreak is coming to a close in 2020.]
+
+[TABLE]
+* • CAES will conduct surveys for spotted lanternfly, a minor pest of forest trees but a major pest of other agricultural crops, such as grapes.• CAES will conduct Cooperative Agricultural Pest Surveys (CAPS) as well as PPA supported surveys for pests of potential concern as determined by the state CAPS committee and national CAPS guidelines. Trapping is conducted from June to October, depending on the target pest or disease. Short-term, 1-5 years.Conduct plant pest diagnostics -The Experiment Station will perform diagnostic sample processing and identification of forest pests and pathogens using Station expertise. The Experiment Station is a member of the National Plant Diagnostic Network (NPDN). The diversity of arthropod pests and plant pathogens received for identification is large. The Insect Information Office in the Department of Entomology handled 11,369 inquiries in 2018-2019. The spongy moth was a leading pest of concern in 2015-2017 because of an outbreak, due in part, to a spring drought. The Plant Disease Information Office (PDIO) in the Department of Plant Pathology and Ecology handled 5,112 inquiries in 2018-This is an ongoing, long-term strategy (+5 years). 3. Conduct activities to maintain and improve forest health conditions and sustainability. The Experiment Station's ongoing research is developing innovative methods of pest control and forest management that improve productivity while maintaining forest health. Other studies are examining the potential of prescribed fire to enhance oak regeneration, silviculture methods to increase tree crop production to help produce a sustainable economic return for private forest owners, tree populations in our cities and towns, barberry control impact on forest health, and forest dynamics over an 80-year period (the oldest such study in the United States). For example, carefully timed series of crop tree releases could increase regional forest productivity by 60%. The monitoring of forest dynamics is a very long-term program with assessments conducted every 10 years. 4. Reduce damage through effective pest management, including suppression and/or eradication. With U.S. Forest Service, McIntire-Stennis, and Hatch fund support, research and suppression activities that will reduce damage or help improve pest management will include reducing damage through continued biological control of HWA with targeted releases of S. tsugae and biological control of EAB with targeted releases of T. planipennisi, S. galinae, and O. agrili. • Continued implementation of biological control of HWA in Connecticut. Evaluations will focus on assessment of hemlock health in stands where predators have been released and Sasajiscymnus tsugae survival, impact and establishment. Long term, +5 years. • Evaluation of historical 60-year eastern hemlock provenance studies started at the Experiment Station to identify potentially superior resilient hemlocks Long term, +5 years • Continue wasp releases and monitor establishment of biological control of the EAB. Long term, +5 years. • Refine chemical control of HWA and EAB and evaluate bark applications of systemic insecticides on hemlock, ash, and maple. Short-term, 1-5 years. 5. Represent forest entomology and pathology expertise within Connecticut As a research institution, The Connecticut Agricultural Experiment Station has five Departments and the Valley Laboratory; each is led by a chief scientist who still conducts research and reports to the Station Director. The Forest Health Unit at The Connecticut Agricultural Experiment Station currently consists of the State Entomologist, Deputy State Entomologist, two full-time plant inspectors (two retired and a requested single replacement position remains unfilled), one full time apiary inspector, and the State Survey Coordinator in the Department of Entomology. There are 13 scientists in the Departments of Entomology, Plant Pathology and Ecology, and Forestry and Horticulture who conduct research and survey on forest pests, diseases, or other forestry-related problems. Information gained from surveys and research is delivered to stakeholders by giving talks to civic groups; reports to town, state and federal officials; interviews with the media; scientific publications; and reports to the legislature, Eastern Plant Board, Forest Health Cooperators, and other relevant forestry meetings and workshops. In addition, the Experiment Station is a member of the National Plant Diagnostic Network. 6. Include education efforts where needed, such as the "do not move firewood" campaign and forest pest survey and outreach project to limit the spread of invasive insects and educate stakeholders on how to manage existing forest pests. Experiment Station staff will continue to provide talks and interviews on research and other activities to state foresters, the public, stakeholder organizations, and the public media. In addition, The Experiment Station participated in an ALB survey and outreach program (i.e., the Northeast Forest Pest Survey and Outreach Program supported by USDA/APHIS and U.S. Forest Service) in 2009. The "do not move firewood" campaign was part of this outreach. All ALB infestations to date have been detected and reported by the public. DEEP and CAES worked closely on messaging on impacts and management during the 2015-2019 spongy moth outbreak. Activities include the transfer information through presentations at annual meetings like the Eastern Plant Board, Forest Health Workshop, Cooperators Meeting, Northeastern Forest Pest Council, and Plant Science Day Open House. CAES provides articles for the Tree Protective Association Newsletter, Frontiers of Plant Science, and the Connecticut Weekly Agricultural Report. Our annual Forest Health Monitoring workshop (March) fosters closer working relationships and transfers up-to-date information to the State Forester and Forestry Division staff. This meeting is highly anticipated and has had increasing attendance every year. 7. Involve lead agencies for Cooperative Forest Health. The Experiment Station is the lead agency for Cooperative Forest Health and a partner to the State Forester and the Forestry Division, Connecticut Department of Energy and Environmental Protection (DEEP) in the Statewide Forest Resource Strategy. 8. Collaborate regionally and nationally; collect forest health data compatible with other states. The Connecticut Agricultural Experiment Station maintains excellent communication and working relationships with the State Forester and other foresters in the DEEP, U.S. Forest Service, USDA APHIS, and forestry and plant health officials in the region. Survey about 1.8 million acres of forested land using national aerial survey standards. Maps will be either 1:100,000 or 1:50,000 scale. All areas with defoliation, discoloration, dieback and decline, breakage, and mortality above thresholds will be delineated. In addition, all other areas that are detected will be mapped and, where possible, identified by damaging agent. Damage will be verified by ground surveys. No fly (survey) areas will be indicated. Hard copy and digital aerial survey maps and insect and disease narratives will be provided to the U.S. Forest Service, R9 S&PF Durham, NH Field Office by December 15th of each year. However, CAES did not conduct aerial survey in summer 2020 due to COVID-19 risks associated with the close confines of a plane. We relied on satellite reflectance data to estimate damage to the forest canopy. Data was received every 8 days and applied to the forest maps. Flights will resume in 2021. A representative of the State's Forest Health Program will attend the National Forest Health Monitoring working group meeting to report Off-Plot survey results. Canopy damage will be photographed during aerial surveys.9. Include flexibility to respond to emerging situations that threaten forest health.The Experiment Station will continue to monitor and respond to emerging situations in a timely manner. For example, pursuant to Section 4-170 of the Connecticut General Statutes, new regulations were proposed and adopted to quarantine the Asian longhorned beetle and emerald ash borer in Connecticut and implement regulations on the movement of firewood.*
+
+| Prioritized Implementation Schedule |
+| --- |
+| Many of the strategies planned for the Forest Health Program have been implemented or are part |
+| of ongoing survey, research, and outreach activities. |
+| The Forest Health Monitoring (FHM) Off-Plot Program supplements plot data with landscape |
+| level data on forest stressors. The program promotes survey standardization among states, |
+| enhanced surveys of specific health problems, and regional forest health mapping and reporting |
+| to promote healthy sustainable forests. Long-term, +5 years. Specific activities in Connecticut |
+| supported by the Forest Health Monitoring Off-Plot Program are: |
+
+[/TABLE]
+
+[TABLE: • Conserve and Manage Working Forest Landscapes for Multiple Values and Uses • Protect Forests from Threats • Enhance Public Benefits from Trees and Forests]
+
+[TABLE]
+*Conserve and Manage Working Forest Landscapes for Multiple Values and Uses *
+
+| State Lands Management |  |  |  |
+| --- | --- | --- | --- |
+| Accomplishment: Purchased new state forest land DEEP purchased an additional 1,756 acres of state forest land, primarily inholdings, abutting properties, or lands adjacent to existing state forest land between fiscal years 2016-2020. Much of | Clearcut Final Harvest Final Shelterwood First Shelterwood Irregular Shelterwood Patch cuts |  | acres acres acres acres acres acres |
+| this land was purchased through the | Pre-Salvage Irregular Shelterwood |  | acres |
+| Recreation and Natural Heritage Trust | Pre-Salvage Selection Harvest |  | acres |
+| Program which was established in 1986 | Pre-Salvage Thinning |  | acres |
+| to preserve Connecticut's natural heritage | Red pine salvage, selection |  | acres |
+| and is DEEP's primary program for | Salvage |  | acres |
+| acquiring land. Several parcels were | Salvage ash |  | acres |
+| purchased using Pittman-Robertson Funds and two were donations to the State. | Salvage Irregular Shelterwood Salvage Second Phase Shelterwood Salvage, Irregular Shelterwood |  | acres acres acres |
+| Accomplishment: Hired Four New Foresters two full time Foresters and two 50/50 split funding State lands and | Salvage-Final Shelterwood Second Shelterwood Selection Harvest |  | acres acres acres |
+| Wildlife Foresters. | Selection Harvest/Hemlock Salvage |  | acres |
+| With additional staffing, DEEP has been | Shelterwood |  | acres |
+| able to designate primary assignment to | Thin/Selection/Hemlock Salvage |  | acres |
+| 28 of 33 State forests, with only 5 State | Thinning |  | acres |
+| forests or 18,000 acres of state forest land | Thinning, hemlock salvage |  | acres |
+| unassigned. In 2015, staff foresters were assigned primary responsibilities to only 23 State forests. The Timber Sale | Selection Harvest Total | 2,894 | acres |
+| Revolving Account (PA 11-192) |  |  |  |
+| established by the Connecticut Legislature |  |  |  |
+
+[/TABLE]
+
+[TABLE: acres Figure 46 -Silvicultural work completed on state lands - 2016 -2020 on July 13, 2011  has been instrumental to the growth of the State Lands Program as two new employees are partially funded by the account. These funds have been used to create access to support utilization and marketing as a management tool for locally grown traditional and nontraditional forest products, for invasive plant control to provide favorable conditions to regenerate forest stands and a healthy ecosystem of native plants, to support information management and increase field staff's ability to collect, compile, store, and disseminate data for management planning and improving public information. Revenues have also been used fund 4-5 seasonal resource assistant positions per year to assist field foresters with associated work duties.In addition, all wildlife management areas (WMA's) approximately 34,000 acres are now assigned to a forester to assist wildlife biologist with habitat work across the state. State WMA's are managed to provide habitat for both common and uncommon wildlife and to provide for wildlife based recreation (hunting, fishing, trapping and wildlife viewing) in support of the Wildlife Division's overall mission of conserving the state's wildlife resources for the use and appreciation of the public. The vast majority of the funding to manage these lands comes from the U.S. Fish and Wildlife Service Wildlife and Sport Fish Restoration (WSFR) program. WSFR funding is provided to restore, conserve, manage and enhance wildlife habitat and to provide wildlife based recreation. Activities, uses or encumbrances which interfere with the purpose of the WSFR funding are not allowed. The system of WMA's provide a range of benefits and services to the public including restoration and enhancement of wildlife, recreation, clean air and water, soil conservation and climate change mitigation.Accomplishment: Completed silvicultural treatments on over 2,894 acres Between 2016 and 2020 approximately 2,894 acres of state lands received some form of silvicultural treatment. The follow table provides a breakdown of treatments.]
+
+[TABLE]
+* State Lands ManagementAccomplishment: Forest Health and Hazard Tree Mitigation Connecticut experienced a significant forest disturbance during the past five years which shifted management priorities to forest health and hazard tree mitigation. Emerald ash borer has continued its eastward expansion across the state and repeated spongy moth defoliations in2015,  2016, 2017, and 2018  coupled with drought and drought like conditions caused significant tree mortality across the state. Twenty-four salvage operations have been contracted over 1500 acres. Treatments have, or will remove three million board feet of dead and dying timber while applying silvicultural treatments to favor the return of oak forests. In addition, nearly 20,000 trees have been identified across the DEEP lands that were deemed immediate hazards to the public. The investment in technology has accelerated the agency's ability to respond, pooling resources and mitigating hazards using numerous strategies. DEEP has strengthened research partnerships with the U.S. Forest Service Forest Health Protection Program, UCONN, and CAES by facilitating spongy moth and drought-impact related research on State Land. DEEP has partnered with U.S. Forest Service on Wildfire Risk Reduction grant for spongy moth-affected portions of southeastern Connecticut. The Forestry Division has also implemented healthenhancement management on remaining examples of pitch pine forest, to help the Pitch Pine -Scrub Oak Sand Plain Natural Community (one of Connecticut's thirteen imperiled natural communities) resist impacts from southern pine beetle following range expansion and identification in Connecticut in 2015. Accomplishment: Rectify boundary line issues and create boundary geo-database Over the past 5 years, State Land Foresters have identified and reported 15 boundary line issues and 16 encroachments to the Division of Land Acquisition and Management (LAM) which have been resolved. LAM has also developed new surveys on 10 properties allowing foresters to accurately post and protect state lands. Maintained a rigorous high quality wildland firefighter training program Train an average of 18 new people a year and recertify another 65 people a year for our Connecticut Interstate Fire Crew (CIFC) under National Wildfire Coordinating Group standards.Train an average of 80 DEEP personnel for "in state" fire response. Specialty training given includes but is not limited to S-131 (Incident Commander Type 5), S-211 (Portable Pumps and Water Use), S-212 (Wildland Fire Chain Saws), and L-280 (Followership to Leadership). For those specialty trainings that we do not provide, we send our wildland fire fighters to appropriate trainings nationwide. We developed a curriculum and hosted an Engine Operator Course (ENOP) for both DEEP personnel and CIFC members. This course will become part of our rotation with other specialty classes offered. In 2016 we hosted an in-state Incident Commander class for individuals that may act as an Incident Commander on local incidents for us. The Forest Protection Program has conducted regional fire department training over the last several years, and has trained between 150 and 250 firefighters a year, from an average of 45 Volunteer Fire Departments. We also train an average of 60 cadets a year. Additionally, we provide trainers, and participate as trainees, at various Northeastern Forest Fire Protection Commission (Northeast Compact) trainings.Accomplishment: Maintained/improved wildfire response equipment The Forest Protection Program has spent the last several years updating the fleet of fire vehicles within the program. We have been able to purchase one new Type 6 engine, two Type 4 engines, and one new patrol truck. Through a successful partnership with the Connecticut Department of Transportation, we have been able to build the engines in house (including building an engine that was purchased prior to 2015-2020 accomplishments). In addition, we have purchased four small portable pumps and 10,000' of 1" Forestry hose and 24,000' of 1 ½" Forestry hose. These improvements have allowed for more efficiency and better service from the program.Accomplishment: Support national mobilizations for wildfire and other emergency response Connecticut has provided ample support having mobilized four 20-person hand crews for national mobilizations over the past five years (CA, ID, and CO), and two 10-person suppression modules (both to CA). Over the time frame of this report Connecticut as well as our partner agencies have struggled with agency limitations, staffing levels and AD restrictions which gave us an opportunity to contribute a total of 21 personnel to 7 different Interagency Crews, with two of them filling Crew Boss positions. One of the great benefits of interagency crews is crew members of multiple states and agencies get an opportunity to share ideas, methodologies, and practices. Numerous single resources (12) have been mobilized as well across the nation in a variety of positions. Connecticut maintains one Type 2 Incident Commander (IC) that oversees the Northeast Compact Incident Management Team (IMT). This IMT mobilized to ID in 2015, and managed the National Cohesive Strategy Conference in Plymouth MA in 2019. This highly qualified individual has also mobilized as Operations Section Chief with the Eastern Area Silver Team, and is a standing alternate to both the Silver and Gold Teams. Beginning in 2016, Connecticut made engines available for national mobilizations, and since then has mobilized a Type 4 and two Type 6's to incidents across the nation (TN, CA, SC). On the Tennessee assignment three separate engine crews were rotated allowing the engine to continue working for over a month.Accomplishment: Improve relationships with partners and non-governmental organizations The relationship with the Air Bureau in our own agency continues to improve, to better inform and address compliance concerns associated with permitting for prescribed burning. DEEP has reinvigorated the department's Communication Program with multiple new hires, enabling us to build stronger relationships with them, and expand our outreach through a close partnership.We have broadened our relationship with DEEP's Bureau of Materials Management and Compliance Assurance, sharing ideas and modern technology beneficial to both units, including drone use for fire mapping and hot spot identification. We have also worked with them to achieve better compliance and training through participation in Emergency Vehicle Operator Course training.The Forest Protection Program provides information to and participates in the Connecticut Interagency Drought Workgroup, activated during potential drought situations in Connecticut. This group informs and advises the Governor of drought indicators and drought status in Connecticut.We are currently working to update and improve our Fire Warden Program through appointing new Wardens to fill vacancies, and improve reporting mechanisms. Associated with this is a roll out of a new Wildfire Reporting Application for use by local fire departments to ease burdens of reporting, while improving our capabilities to collect more accurate and complete statistics on fire starts (see related accomplishment below).During the 2015-2020 accomplishment period we had a new Commissioner appointed to the Northeastern Forest Fire Protection Commission (Northeast Compact) to help represent Connecticut in the Northeast Compact. We continue to work to fill one existing vacancy. The Forest Protection Program employees continue to be active members of the Northeast Compact through membership on various Working Teams (Training, Equipment and Technology, Fire Science, Prevention) as well as on the Operations Committee. We also have staff that represent the Eastern Area Operations Working Team and the CIMC steering committee at the national level.Work done with the State Police Investigations Unit in 2016 resulted in two arrests for reckless endangerment and led to other arson arrests.*
+
+| Forest Protection |
+| --- |
+| Accomplishment: |
+
+[/TABLE]
+
+[TABLE]
+*Public Benefits from Trees and Forests State Lands Management The Urban Forestry Program encourages planting native species. Accomplishment: Rectify boundary line issues and create boundary geo-database Over the past 5 years, State Land Foresters have identified and reported 20 boundary line issues and 25 encroachments to the Division of Land Acquisition and Management which have been resolved. In 2014, The State Lands Program developed a boundary geo-database to manage and track boundary line maintenance, encroachments, and hazardous trees on state lands. The process has improved staffs abilities to identify maintenance needs and share site specific information to other Divisions to address public safety or encroachment issues.*
+
+| Enhance |
+| --- |
+
+[/TABLE]
+
+[TABLE]
+*Appendix 1 -Criteria and Indicators NMSFA and U.S. Forest Service R9 S&PF Base Indicators (and Metrics) of Forest Sustainability The Montreal Process criteria listed below provide broad categories or goals for sustainable forest management and are used at national and international levels. The Northeast-Midwest State Foresters Alliance and U.S. Forest Service, R9 S&PF indicators and metrics were developed for use in region-wide and state-level forest assessments to measure the criteria.*
+
+| Criterion 1. Conservation of Biological Diversity |
+| --- |
+| 1. |
+
+[/TABLE]
+
+[TABLE]
+*Area of total land, forest land, and reserved forest land *
+
+| 1.1 | Forest and total land area |
+| --- | --- |
+| 1.2 | Forest density |
+| 1.3 | Forest land and population |
+| 1.4 | Reserved forest land |
+| 1.5 | Urban forest |
+| 2. |  |
+
+[/TABLE]
+
+[TABLE]
+*Forest type, size class, age class, and successional stage *
+
+| 2.1 | Forest cover type groups |
+| --- | --- |
+| 2.2 | Size class |
+| 2.3 | Age group and successional stage |
+| 3. Extent of forest land conversion, fragmentation, and parcelization |  |
+| 3.1 | Fragmentation |
+| 3.2 | Forest land developed |
+| 3.3 | Net change in forest land |
+| 3.4 | Additions to and conversions from forest land |
+| 3.5 | Forest parcel sizes |
+| 4. |  |
+
+[/TABLE]
+
+[TABLE]
+*Status of forest/woodland communities and associated species of concern *
+
+| 4.1 | Forest and woodland communities |
+| --- | --- |
+| 4.2 | Forest-associated and all species |
+| 4.3 | Forest-associated species of concern by taxonomic group |
+| 4.4 | Bird populations |
+| Criterion 2. Maintenance of Productive Capacity of Forest Ecosystems |  |
+| 5. Area of timberland |  |
+| 5.1 | Amount of timberland |
+
+[/TABLE]
+
+[TABLE]
+*Annual removal of merchantable wood volume compared with net growth Criterion 3. Maintenance of Forest Ecosystem Health and Vitality 7.*
+
+| 6.2 | Type of removals |
+| --- | --- |
+| 6.1 | Net growth and removals |
+
+[/TABLE]
+
+[TABLE]
+*Area of forest land affected by potentially damaging agents Criterion 4. Conservation and Maintenance of Soil and W ater Resources*
+
+| 7.1 | Tree mortality and damage type |
+| --- | --- |
+| 7.2 | Wildfire |
+| 7.3 | Drought |
+| 7.4 | Insects, diseases, plants, and animals |
+| 8. Soil quality on forest land |  |
+| 8.1 | Soil pH |
+| 8.2 | Total soil carbon |
+| 8.3 | Estimated bare soil |
+| 8.4 | Bulk density |
+| 8.5 | Calcium-aluminum ratio |
+| 9. |  |
+
+[/TABLE]
+
+[TABLE]
+*Area of forest land adjacent to surface water, and forest land by watershed Water quality in forested areas 10.2 Stream miles impaired by percentage of watershed forested Criterion 5. Maintenance of Forest Contribution to Global Carbon Cycles*
+
+| 9.1 | Forested riparian area |
+| --- | --- |
+| 9.2 | Forest land by watershed |
+
+[/TABLE]
+
+[TABLE: 11. Forest ecosystem biomass and forest carbon pools 11 .1 Forest ecosystem biomass 11.2 Forest carbon pools 11.3 Forest carbon by forest type 11.4 Change in forest carbon Criterion 6. Maintenance and Enhancement of Long-Term Multiple Socioeconomic Benefits to Meet the Needs of Societies]
+
+[TABLE]
+*12. Wood and wood products production, consumption, and trade *
+
+| 12.1 Value of wood-related products |
+| --- |
+| 12.2 Production of roundwood |
+| 12.3 Production and consumption of roundwood equivalent |
+| 12.4 Recovered paper |
+| 12.5 Bioenergy |
+| 12.6 Trade/wood flow |
+| 12.7 Nontimber forest products |
+
+[/TABLE]
+
+[TABLE]
+*Resource Professional Sessions (Stakeholders) 1 representing 62 organizations. The list of organizations is in appendix 3.These sessions were designed to quickly move to discussion about possible strategies and actions to achieve the goals of the Forest Action Plan as indicated by the vision statements. The vision statements were presented as "Desired Future Conditions" and were directly from the 2010 Plan.Agenda -NaturalResource Professional Sessions (3 ½ hours) Introduction and goals for the session Update on forest assessment Accomplishments since 2010/2015 plan Presentation and discussion of survey results Roundtable sessions Review/revise Desired Future Conditions and Challenges; Brainstorm specific actions for moving forward towards Desired Future Conditions Wrap-up: Further comments, input; next steps*
+
+| Date | Location |  | Number of participants |  |
+| --- | --- | --- | --- | --- |
+|  |  |  | Professional | Public |
+| 6/11/2019 Hampton |  | EastCONN | 23 | 14 |
+| 6/13/2019 Waterbury |  | Naugatuck valley Community College | 18 | 19 |
+| 6/25/2019 Middletown Middlesex Community College |  |  | 24 | 21 |
+| Natural |  |  |  |  |
+
+[/TABLE]
+
+[TABLE]
+*Table discussion themes table report-outs and the general discussion were captured. Private Woodland Owners -What are the challenges for private woodland owners (i.e. keeping their land intact; management challenges; etc.)? What can be done? Public benefits of forests/ Public awareness of the importance of forests -What are the important public benefits of Connecticut's forests? How can we increase public awareness of the benefits of Connecticut's forests for all? Public Land Management Challenges -What are the challenges for managing Connecticut's public forests? How can we overcome these challenges? Recreation -What are the challenges with providing a broad spectrum of appropriate recreational activities in Connecticut's forests? Action: Encourage use of conservation easements as a conservation tool More public education about conservation options; reduce the costs and barriers to the use of conservation easements -it's too complicated Theme: Climate Change Action: Fully explore and invest in climate change mitigation and adaptation; consider resilience and carbon storage Action: Provide forest managers with training and resources on managing forests with climate change implicationsAction: Make a concerted effort to establish reserves in the state Theme: Broad education about the values and benefits of forests leading to public support for policy initiative and resources, broad citizen enjoyment of forests and woodlands, and increased interest in careers in natural resources Action: More forests/woods educational programs that increase awareness about healthy forests, forest management, public benefits Develop process for cross-pollination of organizations doing educational programs multilingual signage/interpretive information Network to land trusts, sportsmen's groups, etc.*
+
+| Agenda -General Public Sessions (2 hours) |
+| --- |
+| Introduction and goals for the session Update on |
+| forest assessment Accomplishments since 2010/2015 |
+| plan Presentation and discussion of survey results Q |
+| and A |
+| Small table discussions Listening Funding to NGOs for educational programs |
+| Session Use grassroots tools Holistic |
+| Wrap-up: Further comments, input; next steps online training |
+| Incorporate natural resource management professional training/education/awareness in public |
+| schools, trade schools |
+| Action: Encourage/increase forest-based educational activities |
+| Provide sponsorships for participation in envirothons, NRCA Academy at UCONN, etc. |
+| Forest based bioblitz |
+| Citizen science programs No |
+| child left inside |
+| Forest-based internship/community service for youth State |
+| forester hosting workshops for youth |
+
+[/TABLE]
+
+## Acknowledgements
+
+The 
+Connecticut Department of Energy and Environmental Protection Forestry Division
+Parks/Camping/Camping---CT-State-Parks-and-Forests Connecticut Department of Energy and Environmental Protection. (2020, January). Connecticut Project Learning Tree. Retrieved July 25, 2020, from Connecticut Department of Energy and Environmental Protection. (2020, September 15). Governor's Council on Climate Change. Retrieved November 3, 2020, from Department of Energy and Environmental Protection -Climate Change: Change Connecticut Department of Energy and Environmental Protection. (2020). Locate a Connecticut Primary Wood Processor. Retrieved October 14, 2020, from Connecticut Primary Wood Processors: b35804b2e949e60c Connecticut Department of Energy and Environmental Protection. (2020, August 18). Natural Diversity Data Base (NDDB) Maps. Retrieved October 12, 2020, from CT DEEP Endangered Species: Diversity-Data-Base-Maps Connecticut Department of Energy and Environmental Protection. (2020, January 7). Natural Diversity Data Base Maps. Retrieved August 1, 2020, from Connecticut Department of Energy and Environmental Protection. (2020, January 21). The State Vegetation Management Task Force. Retrieved from Department of Energy and Environmental Protection Forestry Division: Task-Force/Vegetation-Management-Task-Force Connecticut Department of Energy and Environmental Protection. (2020, March 24). Training for Municipal Inland Wetlands Agencies. Retrieved July 28, 2020, from Department of Energy and Environmental Protection Water: Agencies#:~:text=The%20Municipal%20Inland%20Wetlands%20Agency%20Compr ehensive%20Training%20Program%20is%20a,and%20Watercourses%20Act%20(IW WA). Connecticut Department of Energy and Environmental Protection. (n.d.). All Terrain Vehicle (ATV) and Other Off-Road Vehicle Use in Connecticut. Retrieved August 10, 2020, from Vehicles---CT-State-Parks-and-Forests Connecticut Forest and Park Association. (n.d.). Blue Blazed Hiking Trails -Trail Info. Retrieved August 8, 2020, from trails/trail-info Connecticut Forest and Park Association. (n.d.). Blue-Blazed Hiking Trails Interactive Map.
+https://portal.ct.gov/DEEP/Forestry/Forest-Protection/Asian-Longhorned-Beetle
+ Connecticut Department of Energy and Environmental Protection. (2020, June). Camping. Retrieved August 10, 2020, from 
+https://portal.ct.gov/DEEP/State-
+Parks/Camping/Camping---CT-State-Parks-and-
+Forests Connecticut Department of Energy and Environmental Protection
+. (2020, January). Connecticut Project Learning Tree. Retrieved July 25, 2020, from 
+https://portal.ct.gov/DEEP/Education/PLT/Connecticut-Project-Learning-Tree
+ Connecticut Department of Energy and Environmental Protection. (2020, September 15). Governor's Council on Climate Change. Retrieved November 3, 2020, from 
+Department of Energy and Environmental Protection -Climate Change
+: 
+https://portal.ct.gov/DEEP/Climate-Change/GC3/Governors-Council-on-Climate-
+Change Connecticut Department of Energy and Environmental Protection. (2020). Locate a 
+Connecticut Primary Wood Processor
+. Retrieved October 14, 2020, from Connecticut Primary Wood Processors: 
+https://ctdeep.maps.arcgis.com/apps/webappviewer/index.html?id=1f48c8ce83834f2e
+ b35804b2e949e60c 
+Connecticut Department of Energy and Environmental Protection
+. (2020, August 18). Natural Diversity Data Base (NDDB) Maps. Retrieved October 12, 2020, from 
+CT DEEP
+ Endangered Species: 
+https://portal.ct.gov/DEEP/Endangered-Species/Natural-
+Diversity-Data-
+Base-Maps Connecticut Department of Energy and Environmental Protection
+. (2020, January 7). Natural Diversity Data Base Maps. Retrieved August 1, 2020, from 
+https://portal.ct.gov/DEEP/Endangered-Species/Natural-Diversity-Data-Base-Maps
+ Connecticut Department of Energy and Environmental Protection. (
+2020
+, 
+January 21
+). The 
+State Vegetation Management Task Force
+. Retrieved from 
+Department of Energy and Environmental Protection Forestry Division
+: 
+https://portal.ct.gov/DEEP/Forestry/VM-
+Task-Force/Vegetation-Management-Task-Force Connecticut Department of Energy and Environmental Protection. (2020, March 24). Training for Municipal Inland Wetlands Agencies. Retrieved July 28, 2020, from 
+Department of Energy
+ and Environmental Protection Water: 
+https://portal.ct.gov/DEEP/Water/Inland-Wetlands/Training-for-Inland-Wetlands-
+Agencies#:~:text=The%20Municipal%20Inland%20Wetlands%20Agency%20Compr ehensive%20Training%20Program%20is%20a,and%20Watercourses%20Act%20(IW WA). Connecticut 
+Department of Energy and Environmental Protection
+. (n.d.). All Terrain Vehicle (ATV) and 
+Other Off-Road Vehicle Use in Connecticut
+. Retrieved August 10, 2020, from 
+https://portal.ct.gov/DEEP/State-Parks/Recreation-Information/Off-Road-
+Vehicles---CT-State-Parks-and-Forests Connecticut Forest and Park Association. (n.d.). 
+Blue Blazed Hiking Trails -Trail Info
+. Retrieved August 8, 2020, from 
+https://www.ctwoodlands.org/blue-blazed-hiking-
+trails/trail-info 
+Connecticut Forest
+ and 
+Park Association
+. (n.d.). 
+Blue-Blazed Hiking Trails Interactive Map
+.
+Forest-Protection/Asian-Longhorned-Beetle Connecticut Department of Energy and Environmental Protection
+Forests Connecticut Department of Energy and Environmental Protection
+Connecticut Primary Wood Processor
+Climate-Change Connecticut Department of Energy and Environmental Protection
+Connecticut-Project-Learning-Tree Connecticut Department of Energy and Environmental Protection
+Base-Maps Connecticut Department of Energy and Environmental Protection
+2020
+Base-Maps Connecticut Department of Energy and Environmental Protection
+January 21
+Forestry/VM-Task-Force/Vegetation-Management-Task-Force Connecticut Department of Energy and Environmental Protection. (2020, March 24). Training for Municipal Inland Wetlands Agencies. Retrieved July 28, 2020
+Blue Blazed Hiking Trails -Trail Info
+State-Parks/Recreation-Information/Off-Road-Vehicles---CT-State-Parks-and-Forests Connecticut Forest and Park Association
+Blue-Blazed Hiking Trails Interactive Map
+https://portal.ct.gov/-
+/media/DEEP/forestry/best_management_practices/BestPracticesManualpdf.pdf
+
+## Connecticut Agricultural Experiment Station (CAES)
+
+The Experiment Station, founded in 1875 as the first agricultural experiment station in the country, is chartered by the State's General Assembly as an independent agency governed by a board of control. Station staffers are state employees. They are not part of the Connecticut Department of Agriculture (DoAg), Connecticut Department of Energy and Environmental Protection (DEEP), or UConn, but they work with all three institutions, and the Cooperative Extension Service located at UConn. Station scientists make inquiries and conduct experiments regarding plants and their pests, insects, soil and water quality, food safety, and perform analyses for other State agencies. 
+(Connecticut Agricultural Experiment Station, 2020)
+ Since 1993, CAES has implemented the State's Cooperative Forest Health Program. CAES is the plant pest regulatory agency for Connecticut. The Forest Health Program provides states with federal funds to detect, monitor, and evaluate forest health conditions on state and private lands. The funding enables states to collect forest health data in a standardized manner so it is compatible with other states for regional reporting. CAES is in a unique position that combines forest research, pest survey, outreach, and regulatory response in one agency.
+
+## SECTION 4. Connecticut and Multi-State Priority Areas
+
+Keeping as much forest as forest is the overarching goal of the Forest Action Plan. While Connecticut explores "No Net Loss of Forest" policies and funding is always a challenge, the following priority areas and issues can help organizations and managers prioritize ecologically important forests when considering conservation, landowner outreach, and stewardship of Connecticut's forestland.
+
+## Connecticut Priority Area Maps Priority Map 1 -Core forest areas
+
+Core forests provide an opportunity to prioritize larger blocks of ecologically important forestland. Core forest, especially large core forest, provide important benefits for wildlife habitat, forest connectivity, and forest resiliency among other benefits. 
+
+## qualifications.
+
+iii) Maintain/improve all equipment. Maintain to NWCG specifications or higher where appropriate for our fleet of fire engines.
+(1) Make/upgrade equipment to achieve maximum flexibility.
+(2) Maintain minimum NWCG standards for all engines. (a) Strive to have a minimum of 3 Type 6 engines and 1-2 Type 4's available for national assignments at all times. (3) Replace laptops as needed with appropriate software. 
+(4)
+ Research and implement new technology as it becomes available to improve work efficiencies and outputs. 
+(5)
+ Replace assigned vehicles as needed. 
+(6)
+ (2) Collaborate better with law enforcement (internal and external) (3) Improve/update statutes as needed to address shortfalls in statute language. x) Develop, promote, and maintain a group of NWCG qualified people to act as an instate Incident Management Team (IMT), as well as provide support to the Northeast
+
+## Purpose:
+
+Urban forestry overlaps extensively with other fields. In many situations, the efforts of urban foresters can produce results of direct value to those in these other fields. Urban foresters, and urban forestry, should be given recognition for this capacity among a wider audience, so that the contributions of urban foresters will be sought by others and not just promoted by and to urban foresters.
+Through this approach, the inherent synergies among these groups can be expanding while also pooling creativity. Better work will be accomplished as a result of these interactions. Work will likely be done more efficiently and effectively. Within urban forestry, these partnerships will make for a broader and stronger base of support for the field.
+
+## Resources Needed:
+
+An open mind along with a willingness to cultivate connections.
+
+## Strategy -Prepare for the Effects of Climate Change while Helping to Mitigate its Causes
+
+## Strategy:
+
+Based on modelling and predictions and on detailed knowledge of the state's urban forest, determine what are likely to be the major effects of climate change on the urban forests of Connecticut. Develop plans for dealing with the effects, including the meteorological impacts. These impacts are likely to include an increase in intense precipitation events, periods of drought, and higher temperatures. These plans should also promote the role that urban trees can play in the mitigation of climate change.
+
+## Purpose:
+
+1) We have advanced warning with regards to the likely effects of climate change. Some of these effects will have a deep impact on urban trees and urban forests, such as the increased likelihood of severe storm damage. Urban foresters should be aware of and be actively planning to deal with these impacts before they occur. 2) Urban forestry also has a role to play in helping to deal with the causes of climate change.
+This includes urban trees' capacity for carbon storage, reduced energy consumption and safer, more pedestrian and non-motorized local environments. These should be recognized and developed.
+
+## Resources Needed:
+
+Better understanding of what the impacts of climate change will be and where they will occur. Also needed is a more detailed understanding of who will be impacted by climate change at the local level and how trees can play a role in reducing these impacts.
+
+## Strategy -Encourage Innovation
+
+## Strategy:
+
+Explore the ways in which new tools and technologies -such as those in mapping and geographic information systems, those being developed in the fields of public works and public health, new knowledge regarding trees and tree care techniques, and so on -can be used to spur innovation in the practice of urban forestry in Connecticut. This innovation should also be guided by increased recognition of the needs of people in the state and the condition of the trees within in Connecticut.
+
+## Purpose:
+
+There are so many new ideas, approaches and opportunities within urban forestry that it can be difficult for an urban forest manager to keep up. Also, trying new ideas and approaches often comes with some degree of increased risk. Yet, not exploring innovations of these sorts comes with its own risk, that people in the state will not receive the advantages and benefits of these innovations in a timely manner. By being purposeful in exploring and encouraging innovation, the state will be in a better position to reap the benefits of those innovations that prove their worth. In addition, urban foresters within the state will not be 'left out of the conversation' as additional new ideas, approaches and technologies come along. • Maintain survey and detection programs like the Cooperative Agricultural Pest Survey (CAPS), Plant Protection Act (PPA) (formerly known as Farm Bill), and National Plant Diagnostic Network (NPDN), and public access for pest reporting and identification. CAES is the lead agency for the CAPS program and a participant in the NPDN. Insect and plant pathogens are routinely identified for the green industry and the public through our insect inquiry and plant disease diagnostic laboratories. Many pests are detected through reports or specimens brought to diagnostic agencies and laboratories.
+• Input from existing pest response and mitigation programs through after action reviews for U.S. quarantine pests such as ALB, for which the USDA-APHIS-PPQ still maintains an eradication program.
+• Develop and maintain appropriate regulatory structure, regulations, and response related to plant pests. The Experiment Station Director has Connecticut statutory authority for the regulation of plant pests (CT Statute Sec. 22-84).
+
+## Forest Health Program Strategies & Actions for Objectives
+
+Connecticut's Cooperative Forest Health Program will accomplish the second S&PF national themes and objectives to protect forests from harm by identifying, managing, and reducing threats to forest and ecosystem health. The program addresses, in whole or in part, all the following nine elements suggested for a State Strategy for Forest Health. Specific actions for each objective follow. Some activities will fit under more than one objective.
+Accomplishment: Hired three DEEP Service Foresters enabling full coverage and service to the private and municipal woodland owners by fall of 2020. Service forestry staff are responsible for providing unbiased forest stewardship technical assistance to Connecticut's landowners.
+Beginning in 2014 when the Service Forester covering the central region, full coverage and service to woodland owners was interrupted. The eastern region forester retired in mid-2019 and the western region forester in early 2020. Replacement service forestry staff arrived starting in early 2019 for the central region, the eastern region in the spring of 2020 and anticipated replacement of the forester in the western region will occur by the fall of 2020. Reaching full staffing in the fall of 2020 will mean a return to providing statewide coverage.
+Accomplishment: Refocused programmatic efforts to more closely align with landowner needs. This was an open-ended question, with space for three short answers. Each answer was coded into categories as shown in table 
+1
+. The categories were then condensed and tabulated -figure 
+6
+ shows the results for categories which had 47 or more mentions (2%). The total number of answers was 2,639, which was used as the total number of "mentions" for analysis purposes.
+The biggest concern is forest loss/fragmentation, often mentioned as development taking over forested areas. Next is invasive species taking over from native plant communities combined with pests/diseases that are killing trees. Recreational use/access comes in third, the bulk of which is related to needing more and better public access for various types of recreation. It includes comments about trails, trail maintenance, mountain bike and off-road vehicle access or restrictions, as well as general comments such as "access" or needing more public access. Management includes comments about how forests are being managed, both criticism about actual management practices as well as concern that they are not being managed at all. Logging/harvesting includes any specific negative comments about logging/tree removal. Government policy includes mostly complaints about regulation, sale of government lands, and government interference in property rights, or neglect of public lands and poor land use planning.
+Resource constraints includes comments mostly related to DEEP staffing and funding and general lack of resources for land management. 
+
+## 209
+
+Question: There are many challenges facing Connecticut's forests and woodlands. Please rate each of the following on a scale of high priority to low priority for the action plan over the next ten years.
+This question presented a list of the challenges that were identified in the 2010 FAP, using the same wording as in the plan. See below for the exact wording of the items on the list. 
+
+## Ideas generated from the roundtable discussions
+
+This process generated a lot of ideas, some specific and others more general. The ideas from the public sessions have been combined with those from the stakeholder sessions, which were more detailed and robust in general. The ideas for strategies and actions are organized by themes that emerged from the analysis of the hundreds of comments that were made at the 6 sessions. The ideas are also presented in a matrix organized by Desired Future Condition in appendix 5.
+Theme Outreach message for FAP 2020 Survey Help shape the 2020 Connecticut Forest Action Plan.
+Let your voice be heard -click on the link below to provide input on the 2020 Forest Action Plan . This is your opportunity to help shape the health and future of our forests and woodlands across the rural, suburban, and urban landscapes of Connecticut -your input is a critical component of the Forest Action Plan. Forests and woodlands are crucial to the health, well-being, and economy of Connecticut. To keep your forests and woodlands healthy requires well thought out strategies, policies, and plans that should consider input from Connecticut residents like you who care about forests and woodlands for all sorts of reasons. This is not an academic exercise! That is why the Connecticut Forest & Park Association (the state's oldest nonprofit conservation group) was contracted to work with partners and solicit public input that would help guide the policy, management, and financial decisions of the Connecticut Division of Forestry, the USDA Natural Resources Conservation Service, and the U.S. Forest Service over the next 10 years. The plan is also used by Connecticut's many and varied conservation and working lands organizations as a guide to how their work fits with the overall direction for the future of our forests and woodlands.
+It all starts with you doing two things right now:
+1. Take the Connecticut Forest Action Plan 2020 Survey by clicking on the link below. The survey should take 10 -15 minutes.
+2. Sign up to attend a public roundtable discussion to help shape the strategies and actions to conserve and manage forests in Connecticut. The roundtables will be 2-4 hours long, and will be held on June 11, June 13 and June 25 in different parts of the state. You can register for a roundtable discussion by following the link below and at the end of the survey, or by sending an email to ekravet@ctwoodlands.org. Thence, southwesterly along Interstate 95 to its junction with Route 49; a distance of 3 miles, more or less.
+Thence, south along Route 49 to its junction with Route 2; a distance of 1 mile, more or less.
+Thence, southeasterly along Route 2 to its junction with Route 1; a distance of 2 miles, more or less.
+Thence, west along Route 1 to its junction with Route 27 in Mystic; a distance of 7 miles, more or less.
+Thence, north along Route 27 to its junction with Route 184 in Old Mystic; a distance of 3 miles, more or less.
+Thence, northeasterly along Route 184 to its junction with Route 201; a distance of 2 miles, more or less.
+Thence, northeasterly along Route 201 to its junction with Route 2; a distance of 4 miles, more or less.
+Thence, westerly along Route 2 to its junction with Route 82 in Norwich; a distance of 11 miles, more or less.
+Thence, westerly along Route 82 to its junction with Interstate 395; a distance of 2 miles, more or less.
+Thence, south along Interstate 395 to its junction with Route 32; a distance of 5 miles, more or less.
+Thence, southeasterly along Route 32 to its junction with Route 1 in New London, a distance of 5 miles, more or less.
+Thence, southwesterly along Route 1 to its junction with Route 213; a distance of 1.5 miles, more or less.
+Thence, southerly along Route 213/Montauk Avenue to the shoreline of Long Island Sound; a distance of 2.5 miles, more or less.
+Thence, westerly along the shoreline of Long Island Sound to the junction of Route 154 in the Town of Fenwick; a distance of 30 miles, more or less.
+Thence, westerly along Route 154 to the intersection of Route 1; a distance of 3 miles, more or less.
+Thence, westerly along Route 1 to its junction with Route 153; a distance of 4 miles, more or less.
+Thence, northeasterly along Route 153 to its junction with Interstate 95; a distance of 0.5 mile, more or less.
+Thence, westerly along Interstate 95 to its junction with Route 100 in East Haven; a distance of 22 miles, more or less.
+Thence, northeasterly along Route 100 to its junction with Route 80 in Foxon; a distance of 3 miles, more or less.
+Thence, east along Route 80 to its junction with Route 22 in North Branford; a distance of 2.5 miles, more or less.
+Thence, north along Route 22 to its junction with Route 17; a distance of 4 miles, more or less.
+Thence, northeasterly along Route 17 to its junction with Route 68 in Durham; a distance of 9 miles, more or less.
+Thence, west along Route 68 to its junction with Interstate 91; a distance of 5 miles, more or less.
+Thence, northerly along Interstate 91 to its junction with Route 15; a distance of 4 miles, more or less.
+Thence, north along Route 15 to its junction with Route 372; a distance of 6.5 miles, more or less.
+Thence, southeasterly along Route 372 its junction with Route 9; a distance of 4 miles.
+Thence, southeasterly along Route 9 to its junction with Route 66 (Portland Bridge) and the Connecticut River; a distance of 3 miles, more or less.
+Thence, northerly along the centerline of the Connecticut River to its junction with Route 3 (Putnam Bridge); a distance of 13 miles, more or less.
+Thence, northeasterly along Route 3 to its junction with Route 2; a distance of 2 miles, more or less.
+Thence, southeasterly along Route 2 to its junction with Route 94; a distance of 1.5 miles, more or less.
+Thence, easterly along Route 94 to its junction with Route 83; a distance of 3.5 miles, more or less.
+Thence, northerly along Route 83 to its junction with Route 30; a distance of 7 miles, more or less.
+Thence, northwesterly along Route 30 to its junction with Route 194; a distance of 2 miles, more or less.
+Thence, northwesterly along Route 194 to its junction with Route 5 in East Windsor; a distance of 3.5 miles, more or less.
+Thence, northerly along Route 5 to its junction with Route 140; a distance of 5 miles, more or less.
+Thence, westerly along Route 140 to its junction with Route 159; a distance of 1 mile, more or less.
+Thence, northerly along Route 159 to its junction with Bridge Street; a distance of 3.5 miles, more or less.
+Thence, westerly along Bridge Street to its junction with Route 168 and Route 75; a distance of 2 miles, more or less.
+Thence, westerly along Route 168 to its junction with the Massachusetts state line near Ebbs Corner; a distance of 7 miles, more or less. Thence, southeasterly along Route 1 to its junction with Flanders Road; a distance of 4 miles, more or less.
+Thence, northerly along Flanders Road to its junction with Lambtown Road and Route 184; a distance of 3 miles, more or less.
+Thence, northerly along Lambtown Road to its junction with Colonel Ledyard Highway; a distance of 1 mile, more or less.
+Thence, northerly along Colonel Ledyard Highway to jts junction with Route 117 in Ledyard Center; a distance of 4 miles, more or less.
+Thence, northerly along Route 117 to its junction with Route 214; a distance of 1 mile, more or less.
+Thence, westerly along Route 214 to the point of beginning; a distance of 3.5 miles, more or less. Thence, northeasterly along Route 110 to its junction with Route 8 in Shelton; a distance of 9 miles, more or less.
+Thence, northeasterly along Route 8 to its junction with Route 34 in Derby; a distance of 0.5 miles, more or less.
+Thence, easterly along Route 34 to its junction with Route 15 (Wilbur Cross Parkway) in Orange; a distance of 3 miles, more or less.
+Thence, northeasterly along Route 15 (Wilbur Cross Parkway) to its junction with Route 10 in Hamden; a distance of 7.5 miles, more or less.
+Thence, north along Route 10 to its junction with Route 68 in Cheshire; a distance of 8.5 miles, more or less.
+Thence, west along Route 68 to its junction with Route 63; a distance of 8.5 miles, more or less.
+Thence, north along Route 63 to its junction with Interstate 84; a distance of 3 miles, more or less.
+Thence, easterly along Interstate 84 to its junction with Route 691; a distance of 10 miles, more or less.
+Thence, easterly along Route 691 to its junction with Route 71; a distance of 5 miles, more or less.
+Thence, northerly along Route 71 to its junction with Route 71A; a distance of 4.5 miles, more or less.
+Thence, northerly along Route 71A to its junction with Route 72; a distance of 2.5 miles, more or less.
+Thence, northwesterly along Route 72 to its junction with Route 177; a distance of 5 miles, more or less.
+Thence, north on Route 177 to its junction with Route 44; a distance of 11.5 miles, more or less.
+Thence, easterly on Route 44 to its junction with Route 167; a distance of 1 mile, more or less.
+Thence, north on Route 167 to its junction with Route 309; a distance of 4.5 miles, more or less.
+Thence, east on Route 309 to its junction with Route 202 and Route 10; a distance of 1 mile, more or less.
+Thence, north on Route 202 and Route 10 to its junction with Route 189; a distance of 6 miles, more or less.
+Thence, on Route 189 to its junction with the Massachusetts state line; a distance of 7 miles, more or less.
+Thence, west along the Connecticut and the Massachusetts state line to the point of beginning; a distance of 32 miles, more or less. Coordinator and appropriate Service Forester.) A mean average will be used. Any wildly different scoring will be discussed between scorers to determine if there was any confusion or other issue creating the discrepancy.
+
+## CT Forest Legacy Program -Prioritization and Submission Process
+
+V. STATE SCORING PROCESS • All eligible projects (Scoring a minimum of 60% of total points) are presented to the State Forest Stewardship Committee. • Merits and Drawbacks of all projects are discussed.
+• The committee then votes to rank the projects in order of merit.
+• The top 1-3 projects are recommended for national consideration.
+• The CT FLP Coordinator makes the final determination on how many projects are put through for national consideration.
+
+## VI. PROJECT RESEARCH
+
+• Follow-up site visit if needed.
+• Data compilation done by the CT FLP Staff, landowner, and/or third parties.
+• Data entry in the Forest Legacy Information System (FLIS) by appropriate date.
+• The application is reviewed by a regional mock panel. The projects are scored/ranked and recommendations are given for improvement. • Final data entry and corrections due by the appropriate date for national review.
+
+## Appendix 4 -NIACS Climate Change Projections for Tree Species
+
+Forest Processes and Global Environmental Change: Predicting the Effects of Individual and Multiple Stressors
+J
+Aber
+R
+Neilson
+S
+Mcnulty
+J
+Lenihan
+D
+Bachelet
+R
+Drapek
+Bioscience
+51
+9
+2001
+Carbon accounting of forest bioenergy
+A
+Agostini
+J
+Giuntoli
+A
+Boulamanti
+25354en_onlin e.pdf Appalachian Trail Conservancy
+Luxembourg
+2014. July 23, 2020. 2020. August 8, 2020
+European Commission -Joint Research Centre Institute for Energy and Transport
+Explore -About the AT
+Managing Effects of Drought in the Midwest and Northeast United States
+H
+Asbjornsen
+J
+L
+Campbell
+A
+W
+D'amato
+J
+Garnas
+J
+S
+Gunn
+L
+R
+Iverson
+.
+.
+Shannon
+P
+D
+Effects of drought on forests and rangelands in the Unites States: translating science into management responses
+J
+M
+Vose
+D
+L
+Peterson
+C
+H
+Luce
+T
+Patel-Weynand
+2019
+98
+Chapter 8
+DC: US Department of Agriculture, Forest Service, Washington Office
+Washington
+Working Lands -Forest for Birds Habitat Assessment Program
+Audubon Connecticut.
+birds#:~:text=Audubon%20Connecticut's%20Forest%20for%20Birds
+2020. December 20, 2020
+songbirds%20al ong%20the%20Atlantic%20Flyway
+Important Bird Areas
+Audubon Connecticut
+July 25, 2020
+C
+C
+Barford
+S
+C
+Wofsy
+M
+L
+Goulden
+J
+W
+Munger
+E
+H
+Pyle
+S
+P
+Urbanski
+.
+.
+Moore
+K
+Factors Controlling Long-and Short-Term Sequestration of Atmospherich CO2 in a Mid-Latitude Forest
+2014
+294
+W
+A
+Bechtold
+P
+L
+Patterson -Editors
+The Enhanced Forest Inventory and Analysis Program -National Sampling Design and Estimation Procedures
+Asheville, NC
+USDA Forest Service
+2005
+Southern Research Station
+The Carbon Impacts of Wood Products
+R
+Bergman
+M
+Puettmann
+A
+Taylor
+K
+E
+Skog
+Forest Products Journal
+64
+2014
+The illusion of preservation: a global environmental argument for the local production of natural resources
+M
+M
+Berlik
+D
+B
+Kittredge
+D
+R
+Foster
+Journal of Biogeography
+29
+2002
+Carbon in US Forests and wood products, 1987-1997: state-by-state estimates
+R
+A
+Birdsey
+G
+M
+Lewis
+2003
+Diane Publishing
+Assessment of the influence of disturbance, management activities, and environmental factors on carbon stocks of U.S. national forests
+R
+A
+Birdsey
+A
+J
+Dugan
+S
+P
+Healey
+K
+Dante-Wood
+F
+Zhang
+G
+Mo
+.
+.
+Mccarter
+J
+Gen
+2019
+USDA Forest Service
+Fort Collins, CO
+Rocky Mountain Research Station
+Tech. Rep. RMRS-GTR-402
+Past and prospective carbon storage in United States forests
+R
+A
+Birdsey
+A
+J
+Plantinga
+L
+S
+Heath
+Forest Ecology and Management
+58
+1-2
+1993
+Forest carbon management in the United States: 1600-2100
+R
+A
+Birdsey
+K
+Pregitzer
+A
+Lucier
+Journal of Environmental Quality
+35
+4
+2006
+Impacts of climate change on natural forest productivity -evidence since the middle of the 20th century
+C
+Boisvenue
+S
+W
+Running
+Global Change Biology
+12
+5
+2006
+Forests and climate change: forcings, feedbacks, and the climate benefits of forests
+G
+B
+Bonan
+Science
+320
+5882
+2008
+Pattern and Process in a Forested Ecosystem
+F
+H
+Bormann
+G
+E
+Likens
+1979
+Springer-Verlag
+New York
+Forest Carbon: An essential natural solution for climate change
+P
+Catanzaro
+A
+Amato
+2019
+Amherst, MA
+University of Massachusetts Amherst
+Connecticut's Tree Cities USA
+Connecticut-Tree-Cities-USA Connecticut Agricultural Experiment Station
+Greenwich, Connecticut; New Haven, CT
+2020, November. 2020. September 21
+Connecitcut Department of Energy and Environmental Protection ; Department of Energy and Environmental Protection
+Connecticut Agricultural Experiment Station
+Volunteer Horse Patrol
+Connecticut Horse Council, Inc
+2009. August 10, 2020
+Annual State & County Population with Demographics -2017 State-level ASRH estimate table
+Reporting/Population/Annual-State--County-Population-with-Demographics Connecticut Urban Forest Council
+Connecticut State Department of Public Health
+2019. August 2, 2020. November 5, 2020. 2019
+Connecticut Invasive Plant Working Group ; Connecticut State Department of Public Health
+Invasive Plant List
+The role of extended rotations
+R
+Curtis
+Creating a Forestry for the 21st Century: The Science of Ecosystem Management
+K
+A
+Kohm
+J
+F
+Franklin
+Washington, DC
+Island Press
+1997
+Climate change and forest disturbances
+V
+H
+Dale
+L
+A
+Joyce
+S
+Mcnulty
+R
+P
+Neilson
+M
+P
+Ayres
+M
+D
+Flannigan
+.
+.
+Peterson
+C
+J
+Bioscience
+51
+9
+2001
+Forest management for mitigation and adaptation to climate change: insights from long-term silviculture experiments
+A
+W
+D'amato
+J
+B
+Bradford
+S
+Fraver
+B
+J
+Palik
+Forest Ecology and Management
+262
+5
+2011
+Climate Change and Forest Soil Carbon
+D
+D'amore
+E
+Kane
+2016. July 23, 2020
+USDA Forest Service
+Climate Change Resource Center
+New England Wildlife: Habitat, Natural History, and Distribution
+R
+M
+Degraaf
+M
+Yamasaki
+2001
+University Press
+Lebanon, NH; New England
+Precipitation changes in the United States
+D
+R
+Easterling
+K
+E
+Kunkel
+J
+R
+Arnold
+T
+Knutson
+A
+N
+Legrande
+L
+R
+Leung
+.
+.
+Wehner
+M
+F
+10.7930/J0H993CC
+Climate Science Special Report: Fourth National Climate Assessment
+D
+J
+Wuebbles
+D
+W
+Fahey
+K
+A
+Hibbard
+D
+J
+Dokken
+B
+C
+Stewart
+T
+K
+Maycock
+Washington, DC
+US Global Change Research Program
+2017
+I
+Climate extremes: observations, modeling, and impacts
+D
+R
+Easterling
+G
+A
+Meehl
+C
+Parmesan
+S
+A
+Changnon
+T
+R
+Karl
+L
+O
+Mearns
+Science
+289
+5487
+2000
+A
+M
+Evans
+R
+Perschel
+A review of forestry mitigation and adaptation strategies in the Northeast U.S. Climate Change
+2009
+96
+The biogeochemistry of carbon at Hubbard Brook
+T
+J
+Fahey
+T
+G
+Siccama
+C
+T
+Driscoll
+G
+E
+Likens
+J
+Campbell
+C
+E
+Johnson
+.
+.
+Yanai
+R
+D
+Biogeochemistry
+75
+2005
+Natural climate solutions for the United States
+J
+E
+Fargione
+S
+Bassett
+T
+Boucher
+S
+D
+Bridgham
+R
+T
+Conant
+S
+C
+Cook-Patton
+.
+.
+Griscom
+B
+W
+10.1126/sciadv.aat1869
+Science Advances
+4
+11
+2018
+C
+Folsom-O'keefe
+Map showing key bird habitats in Connecticut
+Audubon Connecticut
+2015
+Enhanced carbon storage through management for oldgrowth characteristics in northern hardwood-conifer forests
+S
+E
+Ford
+W
+S
+Keeton
+10.1002/ecs2.1721
+Ecosphere
+8
+4
+2017
+Forests in Time: The Environmental Consequences of 1,000 years of Change in New Enland
+D
+R
+Foster
+J
+D
+Aber
+2006
+Yale University Press
+New Haven, CT
+Natural disturbance and stand development princilples for ecological forestry
+J
+F
+Franklin
+R
+J
+Mitchell
+B
+J
+Palik
+Gen
+2007
+USDA Forest Service
+Newtown Square, PA; Northern Research Station
+Tech. Rep. NRS-19
+P
+C
+Frumhoff
+J
+J
+Mccarthy
+J
+M
+Melillo
+S
+C
+Moser
+D
+J
+Wuebbles
+Confronting Climate Change in the U.S. Northeast: Science, Impacts, and Solutions. Synthesis report of the Northeast Climate Assessment (NECIA)
+Cambridge, MA
+Union of Concerned Scientists (UCS)
+2007
+pdf Governor's Council on Climate Change Working and Natural Lands Working Group Forests Sub-Group
+E
+Gluck
+Biological Integrity Issues in Connecticut's Upland Forest Ecosystems. The Habitat
+Hartford, CT
+2010. August 2, 2020. Habitat%2010%20spring%203-9-10.. 2020. 2020
+22
+GC3 Forests Sub-Group Draft Report
+Governor's Council on Climate Change. Retrieved October. Report%20from%20Fore sts%20Sub-Group%20for%20Public%20Comment%209.10.20.pdf
+Governor's Council on Climate Change, Working and Natural Lands Working Group, Forests Sub-Group
+2020
+Hartford, CT
+2020 Forests Sub-Group Final Report
+Governor's Council on Climate Change
+Carbon exchange of an old-growth eastern hemlock (Tsuga canadensis) forest in central New England
+J
+L
+Hadley
+J
+L
+Schedlbauer
+Tree Physiology
+22
+2002
+Ecological forestry in an uneven-aged, late-successional forest: Simulated effects of contrasting treatments on structure and yield
+J
+J
+Hanson
+C
+G
+Lorimer
+C
+R
+Halpin
+B
+J
+Palik
+Forest Ecology and Management
+270
+2012
+Effects of silvicultural practices on carbon stores in Douglas-fir/western hemlock forests in the Pacific Northwest, U.S.A: results from a simulation model
+M
+E
+Harmon
+B
+Marks
+Canadian Journal of Forest Research
+32
+2002
+Effects on carbon storage of conversion of old-growth forests to young forests
+M
+E
+Harmon
+W
+K
+Ferrell
+J
+F
+Franklin
+Science
+247
+4943
+1990
+Effects of partial harvest on the carbon stores in Douglas-fir/western hemlock forests: a simulation study
+M
+E
+Harmon
+A
+Moreno
+J
+B
+Domingo
+Ecosystems
+12
+2009
+Past and future changes in climate and hydrological indicators in the US Northeast
+K
+Hayhoe
+C
+P
+Wake
+T
+G
+Huntington
+L
+Luo
+M
+D
+Schwartz
+J
+Sheffield
+.
+.
+Wolfe
+D
+Climate Dynamics
+28
+4
+2007
+Effects of biotic disturbances on forest carbon cycling in the United States and Canada
+J
+A
+Hicke
+C
+D
+Allen
+A
+R
+Desai
+M
+C
+Dietze
+R
+J
+Hall
+E
+H
+Hogg
+.
+.
+Vogelmann
+J
+Global Change Biology
+18
+1
+2012
+A Preliminary Analysis of the Sustainable Yield of the State of Connecticut's Division of Forestry Timberlands
+A
+M
+Hohl
+C
+D
+Oliver
+2008
+Report submitted to the State of Connecticut Department of Environmental Protection, Division of Forestry
+Connecticut is losing many of its birds
+D
+Holahan
+Hartford Courant. Retrieved
+2020. January 16. August 1, 2020
+gquwemuq3vdublh5xkpy6cddtmstory.html
+The annual net flux of carbon to the atmosphere from changes in land use 1850-1990
+R
+A
+Houghton
+Tellus B
+51
+2
+1999
+Revised estimates of the annual net flux of carbon to the atmosphere from changes in land use and land management 1850-2000
+R
+A
+Houghton
+Tellus B
+55
+2
+2003
+U.S. timber production, trade, consumption, and price statistics
+J
+L
+Howard
+S
+Liang
+2019. 1965-2017
+USDA Forest Service
+96
+Madison, WI
+Forest Products Labratory
+Research Paper FPL-RP-701
+Climate and hydrological changes in the northeastern United States: recent trends and implications for forested and aquatic ecosystems
+T
+G
+Huntington
+A
+D
+Richardson
+K
+J
+Mcguire
+K
+Hayhoe
+Canadian Journal of Forest Research
+39
+2
+2009
+Climate Change
+Ipcc
+Synthesis Report. Contribution of Working Groups I, II and III to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change
+R
+K
+Pachauri
+L
+A
+Meyer
+Geneva, Switzerland
+IPCC
+2014. 2014
+151
+Climate Change 1995: The Science of Climate Change
+IPCC Working Group 1.
+J. T. Houghton, L. G. Meira Filho, B. A. Callander, N. Harris, A. Kattenberg, & K. Maskell
+1996
+Cambridge University Press for the Intergovernmental Panel on Climate Change
+New York, NY, USA
+M
+K
+Janowiak
+A
+W
+D'amato
+C
+W
+Swanston
+L
+Iverson
+Matthews
+S
+Matthews
+.
+.
+Templer
+P
+H
+New England and northern New York forest ecosystem vunerability assessment and synthesis: a report from the New England Climate Change Response Framework project
+Newtown Square, PA
+USDA Forest Service
+2018
+Soil pH and the Availability of Plant Nutrients
+T
+L
+Jensen
+IPNI Plant Nutrition TODAY
+2010
+Fall)
+Managing for late-successional/old-growth characteristics in northern hardwood-conifer forests
+W
+S
+Keeton
+Forest Ecology and Management
+235
+2006
+Mature and old-growth riparian forests: structure, dynamics, and effects on Adirondack stream habitats
+W
+S
+Keeton
+C
+E
+Kraft
+D
+R
+Warren
+Ecological Applications
+17
+3
+2007
+Late-successional biomass development in northern hardwood-conifer forests of the northeastern United States
+W
+S
+Keeton
+A
+A
+Whitman
+G
+G
+Mcgee
+Forest Science
+57
+6
+2011
+Extreme storms
+J
+P
+Kossin
+T
+Hall
+T
+Knutson
+K
+E
+Kunkel
+R
+J
+Trapp
+D
+E
+Waliser
+M
+F
+Wehner
+10.7930/J07S7KXX
+Climate Science Special Report: Fourth National Climate Assessment
+D
+J
+Wuebbles
+D
+W
+Fahey
+K
+A
+Hibbard
+D
+J
+Dokken
+B
+C
+Stewart
+T
+K
+Maycock
+Washington, DC
+US Global Change Research Program
+2017
+I
+Beech Leaf Disease
+Y
+Li
+2019
+Connecticut Agricultural Experiment Station
+New Haven, CT
+Scale and frequency of natural disturbances in the northeastern US: Implications for early successional forest habitats and regional age distributions
+C
+Lorimer
+A
+S
+White
+Forest Ecology and Management
+185
+1
+2003
+Friends of Roger Tory Peterson Unit, Conte. Patch.com -The Haddams
+2013. March 14. August 8, 2020
+Lower Connecticut River Valley Council of Governments
+Killingworth, CT
+Old-growth forests as global carbon sinks
+S
+Luyssaert
+E
+D
+Schulze
+A
+Börner
+A
+Knohl
+D
+Hessenmöller
+B
+E
+Law
+.
+.
+Grace
+J
+Nature
+455
+7210
+2008
+Recent and Projected Annual Cycles of Temperature and Precipitation in the Northeast United States from CMIP5
+C
+Lynch
+A
+Seth
+J
+Thibeault
+Journal of Climate
+29
+1
+2016
+A family's refuge for four generations, a wildlife refuge in perpetuity
+B
+Macdonald
+2020. August 13
+39
+Retrieved August 16, 2020, from Medium.com -Conserving the Nature of the Northeast
+Carbon storage in old-growth forests of the Mid-Atlantic: toward better understanding the eastern forest carbon sink
+J
+C
+Mcgarvey
+J
+R
+Thompson
+H
+E
+Epstein
+H
+H
+Shugart
+Jr
+Ecology
+96
+2
+2015
+A synthesis of current knowledge on forests and carbon storage in the United States
+D
+C
+Mckinley
+M
+G
+Ryan
+R
+A
+Birdsey
+C
+P
+Giardina
+M
+E
+Harmon
+L
+S
+Heath
+.
+.
+Skog
+K
+E
+Ecological Applications
+21
+6
+2011
+Thirteen of Connecticut's most imperiled ecosystems
+K
+J
+Metzler
+D
+L
+Wagner
+1998
+Hartford, CT
+Connecticut Department of Energy and Environmental Protection
+National Integrated Drought Information System
+Minnesota Forest Resources Council.
+Sustaining Minnesota Forest Resources: Voluntary Site-Level Forest Management Guidelines for Landowners, Loggers and Resource Managers. St. Paul, MN: Minnesota Forest Resources Council
+Drought.gov -U.S. Drought Portal
+1999. 2020, November 3. November 10, 2020
+). Drought.gov -Drought in Connecticut. text=Drought%20in%20Conn ecticut&text=Since%202000%2C%20the%20longest%20duration,affected%2044.5% 25%20of%20Connecticut%20land
+Weir Farm NHS Recreation Visitors
+Management. Retrieved from Weir Farm National Historic Site
+2020. April 3. 2019. June 23, 2020
+National Parck Service
+Park%20Specific%20Reports/Annual%20Par k%20Recreation%20Visitation%20(1904%20-%20Last%20Calendar%20Year
+Biomass Resource Data, Tools, and Maps. Retrieved from NREL Geospatial Data Science
+2014. January 14
+National Renewable Energy Laboratory
+Modeling carbon sequestration with CO2 Fix and a timber supply model for use in forest management planning
+E
+T
+Neilson
+D
+A
+Maclean
+P
+A
+Arp
+F
+R
+Meng
+C
+P
+Bourque
+-A
+Bhatti
+J
+S
+Canadian Journal of Soil Science
+86
+2
+2006
+Retrieved October 11
+New England Mountain Bike Association
+2020. 2020
+New England Mountain Bike Association
+New York City Water Supply
+New York Department of Environmental Conservation
+New England Trail
+New England National Scenic Trail
+2020. August 8, 2020. August 3, 2020
+Northeast-Midwest State Foresters Alliance and USDA Forest Service Northeastern Area State and Private Forestry
+2019. 2019. August 1, 2020. 2018
+USDA Forest Service
+Guide for State Forest Action Plans
+US Urban Forest Statistics, Values, and Projections
+D
+J
+Nowak
+E
+J
+Greenfield
+Journal of Forestry
+116
+2
+2018. March
+Carbon storage and sequestration by trees in urban and community areas of the United States
+D
+J
+Nowak
+E
+J
+Greenfield
+R
+E
+Hoehn
+E
+Lapoint
+Environmental Pollution
+178
+2013. July 24, 2020
+Functional responses of plants to elevated atmospheric CO2 -Do photosynthetic and productivity data from face experiments support early predictions?
+R
+S
+Nowak
+D
+S
+Ellsworth
+S
+D
+Smith
+New Phytologist
+162
+2
+2004
+Forest carbon storage in then northeastern United States: Net effects of harvesting frequency, post-harvest retention, and wood products
+J
+S
+Nunery
+W
+S
+Keeton
+Forest Ecology and Management
+259
+8
+2010
+Carbon, fossil fuel, and biodiversity mitigation with wood and forests
+C
+D
+Oliver
+N
+T
+Nassar
+B
+R
+Lippke
+J
+B
+Mccarter
+Journal of Sustainable Forestry
+33
+3
+2014
+Interactive effects of nitrogen deposition, tropospheric ozone, elevated CO2 and land use history on the carbon dynamics of northern hardwood forests
+S
+V
+Ollinger
+J
+D
+Aber
+P
+B
+Reich
+R
+J
+Freuder
+Global Change Biology
+8
+6
+2002
+Forest management for carbon sequestration and climate adaptation
+T
+A
+Ontl
+M
+K
+Janowiak
+C
+W
+Swanston
+J
+Daley
+S
+Handler
+M
+Cornett
+.
+.
+Patch
+N
+Journal of Forestry
+118
+1
+2020
+Forest Resources of the United States, 2017: A Technical Document Supporting the Forest Service 2020 RPA Assessment
+S
+N
+Oswalt
+2018
+USDA Forest Service
+Washington, DC; Washington Office
+Patterns of soil calcium and aluminum across the conterminous United States
+C
+H
+Perry
+M
+C
+Amacher
+2012. July 19, 2020
+Southern Research Station
+Asheville, NC
+Population of farm-damaging spotted lanternfly discovered in CT
+R
+Polansky
+2020, October 15
+article_91382d3a-0efb-11eb-be55f3bba3a5cdcf.html
+Forest Products Industries' Economic Contributions: Connecticut
+Sector
+Public
+Consultants
+D
+Emmerthal
+2020
+Public Sector Consultants
+Lansing, MI
+K
+J
+Puettmann
+K
+D
+Coates
+C
+C
+Messier
+A Critique of Silviculture: Managing for Complexity
+Washington, DC
+Island Press
+2009
+Rail-Trail Stats and Info by State -Connecticut
+August 8, 2020
+Boreal and temperate trees show strong acclimation of respiration to warming
+P
+Reich
+K
+Sendall
+A
+Stefanski
+X
+Wei
+R
+Rich
+R
+Montgomery
+10.1038/nature17142
+Nature
+531
+2016
+Historical forest baselines reveal potential for continued carbon sequestration
+J
+M
+Rhemtulla
+D
+J
+Mladenoff
+M
+K
+Clayton
+Proceedings of the National Academy of Sciences
+2009
+K
+V
+Rosenberg
+J
+A
+Kennedy
+R
+Dettmers
+R
+P
+Ford
+D
+Reynolds
+J
+D
+Alexander
+.
+.
+Will
+T
+Partners in Flight Landbird Conservation Plan: 2016 Revision for Canada and Continental United States. Partners in Flight Science Committee
+2016
+J
+Rowland-Shea
+S
+Doshi
+S
+Edberg
+R
+Fanger
+The Nature Gap
+Washington, DC
+Center for American Progress and Hispanic Access Foundation
+2020
+Connecticut State Climate Summary
+J
+Runkle
+K
+E
+Kunkel
+S
+Champion
+D
+Easterling
+B
+Stewart
+R
+Frankson
+W
+Sweet
+NESDIS 149-CT
+2017
+NOAA Technical Report
+Retrieved from State Climate Summaries
+Changing climate, changing forests: The impacts of climate change on forests of the northeastern United States and eastern Canada
+L
+Rustad
+J
+Campbell
+J
+S
+Dukes
+T
+Huntington
+K
+Fallon Lambert
+J
+Mohan
+N
+Rodenhouse
+Gen
+2012
+USDA Forest Service
+Newtown Square, PA
+Northern Research Station
+Tech. Rep. NRS-99
+A synthesis of the science on forests and carbon for U.S. forests
+M
+G
+Ryan
+M
+E
+Harmon
+R
+A
+Birdsey
+C
+P
+Giardina
+L
+S
+Heath
+R
+A
+Houghton
+.
+.
+Skog
+K
+E
+Issues in Ecology
+13
+2010
+Urban Forests and Climate Change. U.S. Department of Agriculture, Forest Service, Climate Change Resource Center
+H
+Safford
+E
+Larry
+E
+G
+Mcpherson
+D
+J
+Nowak
+L
+M
+Westphal
+USDA Forest Service Climate Change Resource Center
+August 2013
+Divergent carbon dynamics under climate change in forests with diverse soils, tree species, and land use histories
+R
+M
+Scheller
+A
+M
+Kretchun
+S
+Van Tuyl
+K
+L
+Clark
+M
+S
+Lucash
+J
+Hom
+Ecosphere
+3
+11
+110
+2012
+Principles of Ecological Forestry
+R
+S
+Seymour
+M
+L
+Hunter
+Maintaining Biodiversity in Forest Ecosystems
+M
+L
+Hunter
+Cambridge
+Cambridge University Press
+1999
+Natural disturbance regimes in northeastern North America -evaluating silvicultural systems using natural scales and frequencies
+R
+S
+Seymour
+A
+S
+White
+P
+G
+Forest Ecology and Management
+155
+2002
+B
+W
+Smith
+P
+D
+Miles
+C
+H
+Perry
+S
+A
+Pugh
+Forest Resources of the United States: a technical document supporting the Forest Service 2010 RPA assessment
+Washington, DC; Washington Office
+USDA Forest Service
+2007
+Bulk Density
+Soil Quality for Environmental Health
+2011, September 19. July 19, 2020
+Connecticut's waste wake-up call: Is Connecticut's outdated recycling system in line for an overhaul? CT Mirror
+J
+E
+Spiegel
+2020. February 17. November 5, 2020
+State Vegetation Management Task Force Final Report Issued to the Connecticut Department of Energy and Environmental Protection
+State Vegetation Management Task Force
+2012
+Rate of tree carbon accumulation increases continuously with tree size
+N
+L
+Stephenson
+A
+J
+Das
+R
+Condit
+S
+E
+Russo
+P
+J
+Baker
+N
+G
+Beckman
+.
+.
+Zavala
+M
+A
+Nature
+507
+7490
+2014
+Trails for People and Wildlife: A guide to planning trails that allow people to enjoy nature and wildlife to thrive
+R
+Stevens
+J
+Oehler
+H. Andreozzi, K. Bennett, D. Goard, & E. Preston
+December 27, 2020
+New Hampshire Fish and Game
+Modeling the effects of alternative management strategies on forest carbon in the Nothofagus forests of Tierra del Fuego
+M
+E
+Swanson
+Chile. Forest Ecology and Management
+257
+2009
+Potential future dynamics of carbon fluxes and pools in New England forests and their climatic sensitivities: A model-based study
+G
+Tang
+B
+Beckage
+B
+Smith
+Global Biogeochemical Cycles
+28
+3
+2014
+Impact of a reduced winter snowpack on litter arthropod abundance and diversity in a northern hardwood forest ecosystem
+P
+H
+Templer
+A
+F
+Schiller
+N
+W
+Fuller
+A
+M
+Socci
+J
+L
+Campbell
+J
+E
+Drake
+T
+H
+Kunz
+Biology and Fertility of Soils
+48
+4
+2012
+The Montreal Process: Criteria and Indicators for the Conservation and Sustainable Management of Temperate and Boreal Forests
+2015
+The Montreal Process
+Fifth Edition. Montreal Process
+Resilient and Connected Landscapes
+The Nature Conservancy -Conservation Gateway
+The Nature Conservancy
+2018
+Resilient Land Mapping Tool
+The Nature Conservancy.
+2020
+Retrieved from The Nature Conservancy Maps
+Disturbance-based silviculture for habitat diversification: Effects on forest structure, dynamics, and carbon storage
+D
+Thom
+W
+S
+Keeton
+10.1016/j.foreco.2020.118132
+Forest Ecology and Management
+469
+2020. 118132
+The wooden skyscrapers that could help to cool the planet
+J
+Tollefson
+Nature
+545
+7654
+2017
+Carbon sequestration by forests of the United States. Current status and projections to the year 2040
+D
+P
+Turner
+G
+J
+Koerper
+M
+E
+Harmon
+J
+J
+Lee
+Tellus B: Chemical and Physical Meterology
+47
+1-2
+1995
+M
+L
+Tyrrell
+Understanding Connecticut Woodland Owners -A Report on the Attitudes, Values and Challenges of Connecticut's Family Woodland Owners. New Haven: Yale School of Forestry & Environmental Studies -Global Institute of Sustainable Forestry
+2015
+M
+L
+Tyrrell
+Report on the Public Input Process to the Connecticut Forest Action Plan 2020
+Rockfall, CT
+Connecticut Forest and Park Association
+2019
+Carbon Dynamics in the Temperate Forest
+M
+L
+Tyrrell
+J
+Ross
+M
+Kelty
+Managing Forest Carbon in a Changing Climate
+M
+Ashton
+M
+Tyrrell
+D
+Spalding
+B
+Gentry
+Springer Science and Business Media
+2012
+The Highlands Conservation Act Grant Program
+2020. June 4
+U.S Fish and Wildlife Service
+U.S. Fish & Wildlife Service
+Connecticut Recreation Areas
+U.S. Army Corps of Engineers
+2019, May 6. August 8, 2020
+Recreation -Thomaston Dam
+2020, July 9. August 10, 2020
+U.S. Army Corps of Engineers
+Occupational Employment and Wages
+Occupational Employment Statistics
+2020, July 6. May 2019 -19-1032 Foresters. Retrieved August 16, 2020
+U.S. Bureau of Labor Statistics
+Quick Facts -Connecticut
+2019, July 1. March 3, 2020
+U.S. Census Bureau
+2018 Annual Capital Expenditures Survey
+2020
+U.S. Census Bureau
+Washington, DC
+United States Drought Monitor -Time Series
+2020, November 3. November 10, 2020
+U.S. Drought Monitor
+United States Drought Monitor
+Carbon Storage in Forests
+2018
+U.S. Environmental Protection Agency
+US Environmental Protection Agency
+Great Thicket National Wildlife Refuge -Release of Final Land Protection Plan and Environmental Assessement
+2017. January 17. August 16, 2020
+U.S. Fish and Wildlife Service
+UConn College of Agriculture, Health and Natural Resources
+Land Use Academy: Outreach Education for Connecticut's Municipal Officials
+U.S. Fish and Wildlife Service
+2020. June 9. August 8, 2020. July 25, 2020. 2011. March. July 17, 2020. 2016. February 7, 2020. 2016. July 20, 2020. 2016. February 7, 2020. July 25. 2020. 2019. July 29. 2020
+Stewart B. McKinney National Wildlife Refuge ; Univerisity of Connecticut Cooperative Extension ; University of Connecticut Center for Land Use Education and Research ; University of Connecticut Center for Land Use Education and Research ; University of Connecticut Center for Land Use Education and Research ; University of Connecticut College of Agriculture, Health and Natural Resources
+Connecticut's Changing Landscape -Core Forest Explained
+Carbon dynamics and structural development in recovering secondary forests of the northeastern U
+A
+R
+Urbano
+W
+S
+Keeton
+S. Forest Ecology and Management
+392
+2017
+Forest Legacy Program Implementation Guidelines. FS-1088
+USDA Forest Service
+2016. June 22. March 9, 2020. 2017. May 2017
+Forest Inventory and Analysis Glossary
+Forest Carbon Pool 1: Live Aboveground; Forest Carbon Pool 2: Live Belowground; Forest Carbon Pool 3: Dead wood; Forest Carbon Pool 4: Litter; Forest Carbon Pool 5: Soil Organic. Retrieved from FIA Datamart: FIAdb Version 5.1: go.usa
+USDA Forest Service
+2018
+Ecosystem Services
+USDA Forest Service
+2019, July 23. July 13, 2020
+Forests of Connecticut
+Forest
+Usda
+Service
+10.2737/FS-RU-209
+2019. 2018
+U.S. Department of Agriculture, Forest Service
+Madison, WI
+Forest
+Usda
+Service
+Forests of the Northern Forest Inventory & Analysis Program (version 10)
+Houghton, MI
+2019. February 7, 2020
+U.S. Department of Agriculture, Forest Service, Northern Research Station
+National Forests to Faucets 2.0 Assessement
+Forest Legacy Conservation Land
+FLIS -2.0
+Forest Legacy
+U.S. Forest Service; U.S. Forest Service; Newtown Square, PA
+USDA FS NRS
+2020, October 23. 2020. August 3, 2020. November 1, 2020. 1998
+Forest Service Northern Research Station and Connecticut Department of Environmental Protection Division of Forestry
+Community Forest Program. Trends in Connecticut's Forests: A Half-Century of Change
+United States Maple Syrup Production
+2017
+Washington, DC
+USDA National Agricultural Statistics Service ; USDA National Agricultural Statistics Service
+Soil Sustainability of Forest Biomass Harvesting in Connecticut. USDA Natural Resources Conservation Service
+2016. July 28, 2020
+USDA Natural Resources Conservation Service
+608
+Temperature changes in the United States
+R
+S
+Vose
+D
+R
+Easterling
+K
+E
+Kunkel
+A
+N
+Legrande
+M
+F
+Whener
+Climate Science Special Report: Fourth National Climate Assessment
+D
+J
+Wuebbles
+D
+W
+Fahey
+K
+A
+Hibbard
+D
+J
+Dokken
+B
+C
+Stewart
+T
+K
+Maycock
+2017
+I
+DC: US Global Change Research Program
+Washington
+10.7930/J0N29V45
+Droughts, floods, and wildfires
+M
+F
+Wehner
+J
+R
+Arnold
+T
+Knutson
+K
+E
+Kunkel
+A
+N
+Legrande
+10.7930/J0CJ8BNN
+Climate Science Special Report: Fourth National Climate Assessment
+D
+J
+Wuebbles
+D
+W
+Fahey
+K
+A
+Hibbard
+D
+J
+Dokken
+B
+C
+Stewart
+T
+K
+Maycock
+Washington, DC
+US Global Change Research Program
+2017
+I
+Climate change impacts on ecosystems and the terrestrial carbon sink: A new assessment
+A
+White
+M
+G
+Cannell
+.-R
+A
+D
+Friend
+Global Environmental Change
+9
+1999
+Effects of stand and inter-specific stocking on maximizing standing tree carbon stocks in the eastern United States
+C
+W
+Woodall
+A
+W
+D'amato
+J
+B
+Bradford
+A
+O
+Finley
+Forest Science
+57
+5
+2011
+Forest Management & Greenhouse Gas Mitigation Opportunities
+P
+Woodbury
+J
+Wightman
+Information Sheet
+7
+2017
+Cornell University
+Executive Summary
+D
+J
+Wuebbles
+D
+W
+Fahey
+K
+A
+Hibbard
+B
+Deangelo
+S
+Doherty
+K
+Hayhoe
+.
+.
+Weaver
+C
+P
+Climate Science Special Report: Fourth National Climate Assessment
+D
+J
+Wuebbles
+D
+W
+Fahey
+K
+A
+Hibbard
+D
+J
+Dokken
+B
+C
+Stewart
+T
+K
+Maycock
+2017
+I
+DC: US Global Change Research Program
+Washington
+10.7930/J0DJ5CTG
+Yale School of the Environment
+Yale School of the Environment
+2020
+Retrieved July 29, 2020, from environment.yale.edu
+Outdoor recreational participation and facilities 13.1 Participation in outdoor recreation 13.2 Federal land open to recreation
+Investments in forest health, management, research, and wood processing 14.1 U.S. Forest Service R9 S&PF funding 14.2 State forestry agency funding 14.3 Funding for forestry research at universities 14
+Forest Service Research funding 14.5 Capital expenditures by manufacturers of wood-related products
+Wood-related products manufacturing payroll and wages 16.5 State forestry salaries Criterion 7. Legal, Institutional, and Economic Framew ork for Forest Conservation and Sustainable Management 17
+Forest management standards/guidelines 17.1 Types of forest management standards/guidelines
+2 Voluntary and mandatory standards/guidelines 17.3 Monitoring of standards/guidelines
+Forest-related planning, assessment, policy, and law
+Address municipal-level management. Action: Increase research on invasive species including cost effective control measures; Continue/increase CAES funding for research Action: Co-manage deer and invasive plants; re-brand hunting in context of invasive species Action: Make funding for implementation of invasive control available and easier to obtain Action: Educate and train public on prevention and control Action: Educate public/nurseries/landscaping industry about invasive plants and native alternatives Theme: Private lands management Action: Assure sustainable timber harvesting on private lands State-wide requirement for timber harvest permits with plans Courses for landowners on timber harvesting System for shared resources/equipment Action: Provide resources for landowners to learn about and practice sustainable management Master woodland owner certification Improve awareness of and connections to support services such as foresters, contractors, NGOs Management for other resources besides timber, such as wildlife Reduce barriers to obtaining forest management plans Frequent communication with landowners Action: Explore compensation options for landowners such as carbon credits, other incentives for landowners to create good future conditions Theme: Resource constraints Action: Increase resources for DEEP; more field staff needed -it shouldn't all fall on division of forestry, need enough parks staff, law enforcement, etc. Action: Promote CT educational institutions for studying natural resource management; work with tech schools/colleges to find next job force Action: Increase funding; address revenue issues; Capacity building for land use planning and land stewardship, especially for small towns, land trusts Pennsylvania-like program; 10% of harvesting income to regeneration on public lands; 5% to research Funding to CAES Action: Provide more educational resources for landowners (service foresters, extension, NRCS) Theme: Research, Data, Information dissemination Action: Develop and implement a research agenda that supports sound conservation and management decisions More research
+Support/increase Connecticut grown wood marketing, outreach and incentives Action
+Conduct research on the situation/baseline of markets and barriers Action: Support insurance reform to reduce the cost of logging Theme: Invasive Species Action: Establish a regional plan of action and communication Take a landscape approach to invasives management which includes assessment of conditions and early intervention, prioritization of mass mortality areas for invasive removal. interdisciplinary science, on changing forest dynamics, predictions of new species, species resiliency, medicines Interdisciplinary work with social scientists, ecologists to get public on board Demographic studies of perennials -viable populations
+Develop a systematic valuation of forests and ecosystem services Use citizen science programs Ongoing wildlife monitoring Support Connecticut Agricultural Experiment Station funding Action: Establish effective dissemination processes for
+Continue/establish close ties with academic institutions (student projects
+research results to reach practitioners/managers/educators/policy makers
+Use I-tree and I-tree landscape to educate public and open space users about the ecosystem services of trees and community forests Highlight new research on value of urban trees Continue/establish close ties with academic institutions (student projects
+with presentations to practitioners/managers/educators CT woodlands "new research" section CT Forest Legacy Program -Application Scoring Guidance
+Threatened by conversion to non-forest use (maximum 14 points) a. Feasibility of development (maximum 7 points) i. Zoning ii. Environmental conditions (soils/septic suitability) iii. Highest and best use of property (determined through appraisal if possible) iv. Plan of Conservation and Development
+designated areas of development
+Land cover change (CLEAR 1985-2015) iii
+Forest fragmentation (CLEAR
+Productivity of forest soils (high-2, medium-1, low-0) (maximum 8 points) a. Tree growth (average of site indices on property) b. Vigor (visual inspection and/or tree rings) c. Vegetative growth (regeneration present, balance against invasives) d. Quality of wildlife habitat
+visual inspection
+Estimated cost of acquiring development rights (maximum 30 points) a. Gift of conservation interest (30 points) b. Bargain sale match/matching funds (25% minimum) i. 75% gift/non-fed funds -25% federal funds (20 points) ii. 50% gift/non-fed funds -50% federal funds (15 points) iii. 25% gift/non-fed funds -75% federal funds (10 points) c. Estimated cost of development rights i
+Over $7,000/acre (-10 points) ii
+Scenic resources (maximum 10 points) a. Visible from national, state, and/or local designated scenic roads (4 points) b. Included in or visible from other federal, state, and/or local designated resource areas (historic district, National Heritage Area
+3 points
+Visible from officially designated trail or protected property (2 points) d. Provides locally important views or contains scenic qualities
+point
+Willingness to allow public access (maximum 16 points) a. Public access provided (maximum 16 points) b
+Restricted access (maximum 8 points) c. No access allowed (0 points
+Recreation values (diversity of allowed public access) (maximum 10 points) a. Water based recreation (boat/swim/fish) (maximum 3 points) b. Trail based/day use recreation (hike/picnic/horseback/cross country skiing
+maximum 3 points
+Natural resource based recreation (camp/hunt/trap/nature tour/nature viewing
+maximum 3 points
+Other (snowmobile/mountain bike/etc.) (maximum 1 point)
+Located along a river/stream/water body (maximum 3 points) b. Surficial deposits for groundwater recharge (maximum 3 points) c. Within the watershed of a public water supply (maximum 3 points) d. Water quality classifications
+A
+A
+A
+G
+A
+Gaa
+)
+Riparian/hydrologic resource
+maximum 14 points. maximum 2 points) e. Area contains important wetland resources/flood plain (maximum 3 points
+Critical habitat as identified in the CT Wildlife Action Plan (maximum 3 points) b. Key habitat as identified in the CT Wildlife Action Plan (maximum 2 points) c. Connective habitats (corridors/linkages) (maximum 2 points) d. Scientific recognition of specific wildlife habitat values or populations (vernal pools
+Fish and wildlife habitat (contains/provides. maximum 12 points. cold water fisheries, etc) (maximum 2 points
+Known threatened and endangered species (maximum 12 points) a. Federally listed plant/animal species (maximum 6 points) b. Plant/animal species on state list as endangered, threatened, or special concern
+maximum 4 points
+Mix of ecological communities (biodiversity) (maximum 4 points) b. Unique features (bedrock, geology, etc) (maximum 4 points) c. Other exemplary attributes
+Geological/physiographic resources
+maximum 1 point
+History of property stewardship (maximum 9 points) a. Participate in state or federal cost-share programs (maximum 2 points) b. Stewardship plan, Tree Farm plan
+maximum 3 points
+Extra points -How property fits into larger strategic conservation planning effort a. National efforts (Highlands of CT, TNC matrix forest blocks
+Conte National Fish & Wildlife Refuge
+Southern New England Heritage Forest
+point/effort
+Regional efforts (New England Cottontail Initiative
+MassConn Sustainable Forest Partnership
+0.75 point/effort
+State efforts (CT Regional Planning Organizations, etc.) (0.5 point/effort) Applications must score a minimum of 60% of the total points (120 out of 200)
+At least two people will score the project independently and the mean average will be used

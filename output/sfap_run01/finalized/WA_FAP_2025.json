@@ -1,0 +1,868 @@
+{
+  "document_meta": {
+    "title": "Washington State Forest Action Plan 2025",
+    "year": 2025,
+    "jurisdiction": "Washington State (DNR)",
+    "document_type": "Forest Action Plan / State Forest Action Plan",
+    "document_id": "WA_FAP_2025",
+    "page_count": 156
+  },
+  "orientation": {
+    "summary": "This is Washington State's 2025 Forest Action Plan (FAP), produced by the Washington Department of Natural Resources (DNR). It is a comprehensive statewide forest management strategy that integrates multiple sub-plans (20-Year Eastern Washington Forest Health Strategic Plan, Western Washington Forest Health Strategic Plan, Wildland Fire Protection 10-Year Strategic Plan). The document is strongly climate-aware — it treats climate change as a primary threat driver for drought, wildfire, insect outbreaks, and habitat change — but its posture is primarily oriented toward forest health, wildfire resilience, and watershed management rather than species range shift science per se. References to species range shifts are present but largely incidental (e.g., whitebark pine declining, bark beetle range expansion, assisted migration mentioned briefly in the reforestation context). The document performs its own spatial prioritization analysis for western Washington (watershed-level composite scoring using 15 data layers including climate exposure and connectivity) and references externally-produced tools including the Washington Habitat Connectivity Action Plan (WAHCAP, 2025) and references to CCVI evaluations as recommended future actions. Most range-shift-adjacent analysis is performed by or referenced from external plans rather than conducted within this document itself.",
+    "evidence_index": [
+      {
+        "text": "Across all emissions scenarios, Washington is projected to experience hotter, drier summers, reduced snowpack and earlier spring runoff, lower late-summer stream flows, higher water temperatures, and more intense rainfall during winter storms.",
+        "location": "ECOLOGICAL CONDITIONS AND THREATS FACING FORESTS",
+        "relevant_elements": ["1.1", "3.5", "2.3"]
+      },
+      {
+        "text": "Climate-driven stressors like drought, extreme heat, and altered snowpack are affecting forest productivity, regeneration, and resilience.",
+        "location": "THE PRIORITIES AND ACTIONS IDENTIFIED IN THE PLAN...",
+        "relevant_elements": ["1.1", "3.5", "3.6"]
+      },
+      {
+        "text": "Species shifts at higher elevations, with cold-adapted species like whitebark pine declining in range due to warming temperatures even as growing seasons lengthen.",
+        "location": "CLIMATE CHANGE AND FUTURE DROUGHT IN WASHINGTON",
+        "relevant_elements": ["1.1", "1.3", "3.3", "C2"]
+      },
+      {
+        "text": "Some species may no longer be suitable for particular locations, necessitating shifts in species selection or seed sources (i.e. assisted migration).",
+        "location": "REFORESTATION AND SEED SUPPLY CHALLENGES",
+        "relevant_elements": ["4.2", "1.3", "C2"]
+      },
+      {
+        "text": "Potential mismatch between seed zones and future climate conditions.",
+        "location": "REFORESTATION AND SEED SUPPLY CHALLENGES",
+        "relevant_elements": ["1.3", "1.1"]
+      },
+      {
+        "text": "Planting with seed sources well adapted to the predicted climate(s) during the tree's lifespan.",
+        "location": "Insect and Disease",
+        "relevant_elements": ["4.2", "1.3", "4.5"]
+      },
+      {
+        "text": "Selectively removing species that are or may soon be maladapted for their current location.",
+        "location": "Insect and Disease",
+        "relevant_elements": ["4.2", "4.5"]
+      },
+      {
+        "text": "Climate change is anticipated to lead to shifts in species distributions and abundances, increased presence of invasive species, and the emergence of novel ecological communities.",
+        "location": "STR ATEGIES / Wildlife and Salmon Recovery section",
+        "relevant_elements": ["1.1", "1.3", "3.3", "3.7", "C2"]
+      },
+      {
+        "text": "Partner with WDFW, State Parks, and others to assess vulnerability and enhance monitoring of DNR natural areas. Fund and complete management plans for DNR Natural Areas to provide guidance for long-term management actions including consideration of potential climate change effects.",
+        "location": "Wildlife and Salmon Recovery Goal 2",
+        "relevant_elements": ["1.1", "4.1", "4.3"]
+      },
+      {
+        "text": "Provide core funding for Natural Heritage Program staff to plan and implement species and ecosystem inventory efforts. Partner with WDFW and others to complete Climate Change Vulnerability Index evaluations for rare species and ecosystems to determine risks to key species and habitats.",
+        "location": "Wildlife and Salmon Recovery Goal 2",
+        "relevant_elements": ["2.1", "1.1", "1.2"]
+      },
+      {
+        "text": "Promote climate-suitable strategies for at-risk species, with a focus on public forests. For example, thin low-quality or non-habitat areas for northern spotted owls to accelerate the development of older forests, where consistent with other objectives.",
+        "location": "Wildlife and Salmon Recovery Goal 2",
+        "relevant_elements": ["4.1", "4.2", "1.1"]
+      },
+      {
+        "text": "Increased disturbance from wildfire, drought, and insect outbreaks can degrade or eliminate critical habitat for forest-dependent species. Changing conditions may outpace existing habitat conservation and species recovery strategies.",
+        "location": "IMPACTS TO AT-RISK SPECIES AND HABITATS",
+        "relevant_elements": ["1.1", "3.5", "3.6"]
+      },
+      {
+        "text": "Declining canopy cover or shade and warming water temperatures that will threaten cold-water fish species. Shifts in vegetation communities and associated disturbance regimes critical for threatened birds and mammals. Mismatches in timing between species life cycles and habitat conditions.",
+        "location": "IMPACTS TO AT-RISK SPECIES AND HABITATS",
+        "relevant_elements": ["1.1", "1.3", "3.6", "3.7"]
+      },
+      {
+        "text": "WAHCAP identified or developed indicators for ten key connectivity values in Washington including: Ecosystem connectivity, Network importance, Landscape permeability, Hot spots of species of greatest conservation need, Focal species functional connectivity, Climate connectivity, Consistency with pre-existing landscape conservation priorities.",
+        "location": "Washington Habitat Connectivity Action Plan",
+        "relevant_elements": ["1.4", "2.4", "4.1"]
+      },
+      {
+        "text": "WDFW synthesized these metrics into a layer mapping and quantifying connectivity values across the state. This synthesized layer was used to identify 13 terrestrial Connected Landscapes of Statewide Significance (CLOSS)",
+        "location": "Washington Habitat Connectivity Action Plan",
+        "relevant_elements": ["1.4", "2.4", "4.1"]
+      },
+      {
+        "text": "Seek to maintain, restore, and conserve habitat connectivity in Washington state and bordering areas to support priorities identified in the SWAP and other conservation strategies. Addressing fragmentation and habitat linkages based on the landscape-scale patterns identified in the Washington Habitat Connectivity Action Plan analyses",
+        "location": "STR ATEGIES / Wildlife and Salmon Recovery Goal 1",
+        "relevant_elements": ["1.4", "4.2", "4.1"]
+      },
+      {
+        "text": "a customized wildlife habitat connectivity map to capture immerging forest health and resilience concerns for western Washington. The resulting data-driven prioritization map, along with input from partners about their geographic priorities, informed conversations between DNR and external partners to revise priority landscape designations.",
+        "location": "Western Washington Forest Health Watershed Prioritization and Priority Landscapes",
+        "relevant_elements": ["2.4", "4.1", "1.4"]
+      },
+      {
+        "text": "In fragmentation limits the movement of wildlife, increases vulnerability to invasive species, alters hydrology, and erodes the resilience of forests to wildfire, drought, and climate change.",
+        "location": "CONVERSION OF FORESTLANDS",
+        "relevant_elements": ["1.4", "1.1"]
+      },
+      {
+        "text": "Native insect and disease outbreaks may expand in frequency and range. Non-native pests and pathogens may establish or spread more rapidly.",
+        "location": "Insect and Disease",
+        "relevant_elements": ["3.7", "3.6"]
+      },
+      {
+        "text": "California fivespined Ips, a bark beetle species not known to kill pines in Washington prior to 2010, has become a frequent cause of pine mortality in areas west of the Cascades previously not known to be affected by said beetle. This expanded range is likely tied to drought and extreme heat stress.",
+        "location": "Insect and Disease",
+        "relevant_elements": ["3.7", "C2"]
+      },
+      {
+        "text": "Wildfire damage to trees, scorching (red dead foliage) some of the most exposed southwest portions of mature tree foliage and mortality of young seedlings.",
+        "location": "Insect and Disease",
+        "relevant_elements": ["3.6"]
+      },
+      {
+        "text": "In 2015, historic low snowpack led to severely reduced stream flows, record-breaking wildfires, and an estimated $336 million in agricultural losses. Prolonged low flows and warming stream temperatures caused widespread fish mortality, including in species critical to Tribal, commercial, and recreational fisheries.",
+        "location": "ECOLOGICAL CONDITIONS AND THREATS FACING FORESTS",
+        "relevant_elements": ["3.5", "3.6"]
+      },
+      {
+        "text": "The increased frequency of high-severity wildfires and other disturbances will likely outpace current seed and seedling supply, especially for drought-adapted or genetically appropriate stock.",
+        "location": "REFORESTATION AND SEED SUPPLY CHALLENGES",
+        "relevant_elements": ["3.6", "1.3"]
+      },
+      {
+        "text": "Identify and prioritize opportunities for reforestation to ensure forests are sustained for the long-term in high priority sites to facilitate habitat connectivity and climate adaptation as well as on areas disturbed by natural disasters",
+        "location": "PRIORITY ACTIONS FOR REFORESTATION / Reforestation Goal 3",
+        "relevant_elements": ["4.1", "4.2", "1.4"]
+      },
+      {
+        "text": "Develop climate-ready methods, strategies, and a template for planting prescriptions that consider the future impact of climate change on seedling survival.",
+        "location": "PRIORITY ACTIONS FOR REFORESTATION / Reforestation Goal 3",
+        "relevant_elements": ["4.5", "4.2"]
+      },
+      {
+        "text": "Deficit was calculated at 90m pixel resolution for the 1981-2010 and 2041-2070 time periods (ensemble of global circulation models under the R8.5 \"business as usual\" emissions scenario). The average value of the absolute difference between the current and future was used as the score for each HUC 6.",
+        "location": "RISK OF FOREST CONVERSION / APPENDIX B",
+        "relevant_elements": ["2.3"]
+      },
+      {
+        "text": "Climate data and climate projections from Climate North America were used (Mahony et al. 2022, Wang et al. 2016, 2025).",
+        "location": "RISK OF FOREST CONVERSION / APPENDIX B",
+        "relevant_elements": ["2.3"]
+      },
+      {
+        "text": "Warming temperatures and prolonged dry periods are expected to reduce soil moisture. Water stress weakens trees and reduces their resistance to bark beetles, root diseases, foliar pathogens, and other pests.",
+        "location": "ECOLOGICAL CONDITIONS AND THREATS FACING FORESTS",
+        "relevant_elements": ["3.5", "3.7"]
+      },
+      {
+        "text": "Forest fragmentation -the breaking up of large, contiguous forests into smaller parcels -undermines habitat connectivity and forest management options. Fragmentation limits the movement of wildlife, increases vulnerability to invasive species, alters hydrology, and erodes the resilience of forests to wildfire, drought, and climate change.",
+        "location": "CONVERSION OF FORESTLANDS",
+        "relevant_elements": ["1.4", "1.1"]
+      },
+      {
+        "text": "Washington State faces a growing reforestation need from timber harvest and high-severity wildfires, currently estimated together at 983,275 acres. Washington State's reforestation needs are projected to rise sharply, particularly in fire-prone Eastern Washington, where demand could increase by over 500% by the 2060s.",
+        "location": "REFORESTATION AND SEED SUPPLY CHALLENGES",
+        "relevant_elements": ["3.5", "3.6"]
+      },
+      {
+        "text": "Expand existing seed collection programs to support both timber and non-timber species. A specific strategy is required for post-fire reforestation efforts. Potential actions include establishing a post-fire seed collection program and forming a seed sourcing cooperative among multiple agencies, Tribes, landowners, organizations, and neighboring states to ensure the production of genetically diverse and climate-resilient seedlings",
+        "location": "FIGURE caption / Reforestation section",
+        "relevant_elements": ["1.3", "4.2"]
+      },
+      {
+        "text": "Management strategies have been proposed for current and changing climate scenarios to enhance resistance and resilience to insect and disease outbreaks.",
+        "location": "Insect and Disease",
+        "relevant_elements": ["4.5", "1.1"]
+      },
+      {
+        "text": "Landscape resilience and forest health indicators include data that represent anticipated exposure to climate change, drought risk, wildfire hazard, forest productivity, and amount of midaged, closed canopy forest.",
+        "location": "APPENDIX B table",
+        "relevant_elements": ["1.1", "2.3"]
+      },
+      {
+        "text": "Washington has secured seven Landscape Scale Restoration grants since 2020 totaling $2,068,154 in federal funding to make meaningful progress on our Forest Action Plan goals across six priority landscapes.",
+        "location": "Landscape Scale Restoration Competitive Grant Program",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "DNR will continue to invest in Forest Health Tracker and other tools to help partners plan and track our collective progress toward shared goals.",
+        "location": "Monitoring and Progress Reporting",
+        "relevant_elements": ["4.3"]
+      },
+      {
+        "text": "In odd-numbered years, DNR will publish a Forest Action Plan Progress Report... In even-numbered years, DNR will publish the biennial Legislative Report for the Forest Health Assessment and Treatment Framework",
+        "location": "BIENNIAL REPORTING SCHEDULE",
+        "relevant_elements": ["4.3"]
+      },
+      {
+        "text": "Goal 1: Conduct 1.25 million acres of scientifically sound, landscape-scale, cross-boundary management and restoration treatments in priority watersheds to increase forest and watershed resilience by 2037.",
+        "location": "PLAN GOALS / 20-Year Forest Health Strategic Plan",
+        "relevant_elements": ["4.3", "4.1"]
+      },
+      {
+        "text": "As of December 2024 DNR has identified 2.0-2.9 million combined treatment acres that are needed to restore 1.1-1.6 million footprint acres of forest to resilient forest conditions in eastern Washington forest health priority planning areas.",
+        "location": "PROGRESS TO DATE",
+        "relevant_elements": ["4.1", "4.3"]
+      },
+      {
+        "text": "Focusing agency investments and collaboration in these priority landscapes will lead to increased forest health and landscape resilience in western Washington... This priority map is a composite of 15 different data layers, such as fish and wildlife, climate change, and drinking water.",
+        "location": "Western Washington Forest Health Watershed Prioritization and Priority Landscapes",
+        "relevant_elements": ["4.1", "2.4"]
+      },
+      {
+        "text": "Support research on and monitoring of the forest conditions that will support northern spotted owls, marbled murrelets, lynx, and other SGCN, and remain resilient in a changing climate",
+        "location": "CONFEDERATED TRIBES / SGCN section",
+        "relevant_elements": ["1.1", "3.3", "4.3"]
+      },
+      {
+        "text": "Apply Indigenous knowledge and approaches to climate adaptation and landscape resilience that promote forest health and resilience.",
+        "location": "STR ATEGIES / Tribal section",
+        "relevant_elements": ["4.5"]
+      },
+      {
+        "text": "Identifying and protecting drought refugia -microclimates that retain soil moisture and provide important habitat under drying conditions.",
+        "location": "BUILDING CLIMATE RESILIENCE IN FORESTS",
+        "relevant_elements": ["1.4", "4.1", "4.2"]
+      },
+      {
+        "text": "Develop and implement a forest health resilience monitoring program that establishes criteria, tools, and processes to monitor forest and watershed conditions, assess progress, and reassess strategies over time.",
+        "location": "PLAN GOALS / 20-Year Forest Health Strategic Plan",
+        "relevant_elements": ["4.3"]
+      },
+      {
+        "text": "Develop species distribution models for forest-dependent species.",
+        "location": "Wildlife and Salmon Recovery Goal 3",
+        "relevant_elements": ["2.2"]
+      },
+      {
+        "text": "long-term climate shifts may render some previously forested areas unsuitable for forests in the future, many forests can be restored and maintained with active reforestation assistance",
+        "location": "REFORESTATION AND SEED SUPPLY CHALLENGES",
+        "relevant_elements": ["1.1", "1.3", "C2"]
+      },
+      {
+        "text": "In western Washington, treatments such as prescribed fire can carry important socio-ecological or cultural benefits, however little is known about the efficacy of fuels management at a landscape-scale.",
+        "location": "FOREST RESOURCE ASSESSMENT / Western Washington Fire",
+        "relevant_elements": ["4.4"]
+      },
+      {
+        "text": "This plan includes present-day actions, based on best available evidence, with the goal of reducing risk and being more prepared and resilient when wildfires occur.",
+        "location": "WESTERN WASHINGTON WILDFIRE",
+        "relevant_elements": ["4.4"]
+      },
+      {
+        "text": "Favoring site-appropriate or drought-tolerant species and seed zones during planting and regeneration.",
+        "location": "BUILDING CLIMATE RESILIENCE IN FORESTS",
+        "relevant_elements": ["4.2", "1.3"]
+      }
+    ]
+  },
+  "concepts": {
+    "climate_vulnerability": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Increased disturbance from wildfire, drought, and insect outbreaks can degrade or eliminate critical habitat for forest-dependent species. Changing conditions may outpace existing habitat conservation and species recovery strategies. Climate change will exacerbate risks for species already listed under the Endangered Species Act",
+          "location": "IMPACTS TO AT-RISK SPECIES AND HABITATS",
+          "sub_component": "exposure",
+          "citations": []
+        },
+        {
+          "text": "Species shifts at higher elevations, with cold-adapted species like whitebark pine declining in range due to warming temperatures even as growing seasons lengthen.",
+          "location": "CLIMATE CHANGE AND FUTURE DROUGHT IN WASHINGTON",
+          "sub_component": "exposure",
+          "citations": []
+        },
+        {
+          "text": "Partner with WDFW and others to complete Climate Change Vulnerability Index evaluations for rare species and ecosystems to determine risks to key species and habitats.",
+          "location": "Wildlife and Salmon Recovery Goal 2",
+          "sub_component": "exposure",
+          "citations": []
+        }
+      ],
+      "absence_note": "The document engages with climate exposure clearly and repeatedly (e.g., projected warming, drought, wildfire increasing). Adaptive capacity in the formal IPCC sense is not explicitly discussed for individual species or ecosystems; there are passing references to resilience/adaptability in a management context. The CCVI mention is future-oriented (recommended future action), not an applied assessment. Score 2 (exposure referenced, adaptive capacity not explicitly operationalized at species level)."
+    },
+    "adaptive_capacity_specificity": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "long-term climate shifts may render some previously forested areas unsuitable for forests in the future, many forests can be restored and maintained with active reforestation assistance",
+          "location": "REFORESTATION AND SEED SUPPLY CHALLENGES",
+          "sub_component": null,
+          "citations": ["Davis et al. 2019"]
+        }
+      ],
+      "absence_note": "Adaptive capacity is referenced non-specifically in relation to forest management and species resilience, but no systematic framework or named components (dispersal ability, thermal tolerance, etc.) for organisms is applied. Score 1."
+    },
+    "adaptive_capacity_components": {
+      "demography": {
+        "present": false,
+        "evidence": []
+      },
+      "distribution": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Climate change is anticipated to lead to shifts in species distributions and abundances, increased presence of invasive species, and the emergence of novel ecological communities.",
+            "location": "STR ATEGIES / Wildlife and Salmon Recovery section",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "movement": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Fragmentation limits the movement of wildlife, increases vulnerability to invasive species, alters hydrology, and erodes the resilience of forests to wildfire, drought, and climate change.",
+            "location": "CONVERSION OF FORESTLANDS",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "evolutionary_potential": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "the production of genetically diverse and climate-resilient seedlings for reforestation of burned lands and other deforested areas.",
+            "location": "FIGURE caption / Reforestation section",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecological_dependencies": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Mismatches in timing between species life cycles and habitat conditions.",
+            "location": "IMPACTS TO AT-RISK SPECIES AND HABITATS",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "abiotic_niche": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Species shifts at higher elevations, with cold-adapted species like whitebark pine declining in range due to warming temperatures even as growing seasons lengthen.",
+            "location": "CLIMATE CHANGE AND FUTURE DROUGHT IN WASHINGTON",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "life_history": {
+        "present": false,
+        "evidence": []
+      }
+    },
+    "connectivity": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "WAHCAP identified or developed indicators for ten key connectivity values in Washington including: Ecosystem connectivity, Network importance, Landscape permeability, Hot spots of species of greatest conservation need, Focal species functional connectivity, Climate connectivity",
+          "location": "Washington Habitat Connectivity Action Plan",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Seek to maintain, restore, and conserve habitat connectivity in Washington state and bordering areas to support priorities identified in the SWAP and other conservation strategies. Addressing fragmentation and habitat linkages based on the landscape-scale patterns identified in the Washington Habitat Connectivity Action Plan analyses",
+          "location": "STR ATEGIES / Wildlife and Salmon Recovery Goal 1",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Identify and prioritize opportunities for reforestation to ensure forests are sustained for the long-term in high priority sites to facilitate habitat connectivity and climate adaptation",
+          "location": "PRIORITY ACTIONS FOR REFORESTATION / Reforestation Goal 3",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    }
+  },
+  "tools": {
+    "vulnerability_models": {
+      "evaluable": true,
+      "score": 1,
+      "named_tools": ["CCVI", "Climate Change Vulnerability Index"],
+      "evidence": [
+        {
+          "text": "Partner with WDFW and others to complete Climate Change Vulnerability Index evaluations for rare species and ecosystems to determine risks to key species and habitats.",
+          "location": "Wildlife and Salmon Recovery Goal 2",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "CCVI is referenced as a recommended future action — the document has not applied it to focal species yet. Score 1 (referenced generally, not applied)."
+    },
+    "niche_models": {
+      "evaluable": true,
+      "score": 1,
+      "named_tools": ["species distribution models"],
+      "evidence": [
+        {
+          "text": "Develop species distribution models for forest-dependent species.",
+          "location": "Wildlife and Salmon Recovery Goal 3",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "Species distribution models are mentioned as a future goal, not as an applied tool. Score 1 (referenced generally)."
+    },
+    "climate_models": {
+      "evaluable": true,
+      "score": 2,
+      "named_tools": ["global circulation models", "Climate North America", "CMIP6"],
+      "evidence": [
+        {
+          "text": "Deficit was calculated at 90m pixel resolution for the 1981-2010 and 2041-2070 time periods (ensemble of global circulation models under the R8.5 \"business as usual\" emissions scenario).",
+          "location": "RISK OF FOREST CONVERSION / APPENDIX B",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Climate data and climate projections from Climate North America were used (Mahony et al. 2022, Wang et al. 2016, 2025).",
+          "location": "RISK OF FOREST CONVERSION / APPENDIX B",
+          "sub_component": null,
+          "citations": ["Mahony et al. 2022", "Wang et al. 2016, 2025"]
+        }
+      ],
+      "absence_note": {},
+      "time_horizon_years": [2041, 2070, 2100],
+      "emission_scenarios": ["RCP8.5"]
+    },
+    "connectivity_models": {
+      "evaluable": true,
+      "score": 2,
+      "named_tools": ["Washington Habitat Connectivity Action Plan", "WAHCAP"],
+      "evidence": [
+        {
+          "text": "a customized wildlife habitat connectivity map to capture immerging forest health and resilience concerns for western Washington. The resulting data-driven prioritization map, along with input from partners about their geographic priorities, informed conversations between DNR and external partners to revise priority landscape designations.",
+          "location": "Western Washington Forest Health Watershed Prioritization and Priority Landscapes",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "WDFW synthesized these metrics into a layer mapping and quantifying connectivity values across the state. This synthesized layer was used to identify 13 terrestrial Connected Landscapes of Statewide Significance (CLOSS)",
+          "location": "Washington Habitat Connectivity Action Plan",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The connectivity modeling output from WAHCAP (Michalak et al. 2025) is incorporated as a data layer into DNR's western Washington watershed prioritization map, and the CLOSS network informs management decisions. This qualifies as applied per codebook rule 2. Named underlying tool (CircuitScape etc.) is not specified but the output is substantively incorporated."
+    }
+  },
+  "context": {
+    "management_scale": {
+      "local": {
+        "present": false,
+        "evidence": []
+      },
+      "site": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Identifying and protecting drought refugia -microclimates that retain soil moisture and provide important habitat under drying conditions.",
+            "location": "BUILDING CLIMATE RESILIENCE IN FORESTS",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "watershed": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Goal 1: Conduct 1.25 million acres of scientifically sound, landscape-scale, cross-boundary management and restoration treatments in priority watersheds to increase forest and watershed resilience by 2037.",
+            "location": "PLAN GOALS / 20-Year Forest Health Strategic Plan",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "city": {
+        "present": false,
+        "evidence": []
+      },
+      "county": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "In western Washington, forests near the I-5 corridor (particularly in Clark, King, Pierce, Snohomish, and Thurston counties) are under the greatest pressure.",
+            "location": "CONVERSION OF FORESTLANDS",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "within_state_region": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "At the same time, wildfires are increasing in size and severity, particularly in eastern Washington.",
+            "location": "THE PRIORITIES AND ACTIONS IDENTIFIED IN THE PLAN...",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "state": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "This Forest Action Plan emphasizes the importance of identifying high-priority landscapes, investing in active management, and expanding partnerships to achieve shared goals.",
+            "location": "Integrated Strategic Plans",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "multistate": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Strengthening coordination of relevant forest health and wildfire activities with Idaho and Oregon creates an important opportunity to accelerate implementation across boundaries.",
+            "location": "MULTI-STATE PRIORITY LANDSCAPES",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "national": {
+        "present": false,
+        "evidence": []
+      },
+      "transnational": {
+        "present": false,
+        "evidence": []
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Washington's forests span a wide range of ecosystems from lowland urban forests in the Puget Sound and temperate rainforests on the Olympic Peninsula to dry ponderosa pine forests in the east Cascades.",
+            "location": "THE PRIORITIES AND ACTIONS IDENTIFIED IN THE PLAN...",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecoregion": {
+        "present": false,
+        "evidence": []
+      },
+      "province": {
+        "present": false,
+        "evidence": []
+      },
+      "section": {
+        "present": false,
+        "evidence": []
+      },
+      "subsection": {
+        "present": false,
+        "evidence": []
+      },
+      "lake": {
+        "present": false,
+        "evidence": []
+      },
+      "river": {
+        "present": false,
+        "evidence": []
+      },
+      "district": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["Eastern Washington", "Western Washington", "Olympic Peninsula", "Puget Sound", "Cascades", "Blue Mountains", "Columbia Plateau", "Clark County", "King County", "Pierce County", "Snohomish County", "Thurston County", "Kittitas County", "Spokane County", "Stevens County", "Chelan County", "Stemilt watershed", "Middle Snohomish watershed", "HUC 6 watersheds"]
+    },
+    "biological_unit_score": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Climate change is anticipated to lead to shifts in species distributions and abundances, increased presence of invasive species, and the emergence of novel ecological communities.",
+          "location": "STR ATEGIES / Wildlife and Salmon Recovery section",
+          "sub_component": "species / community",
+          "citations": []
+        },
+        {
+          "text": "Declining canopy cover or shade and warming water temperatures that will threaten cold-water fish species. Shifts in vegetation communities and associated disturbance regimes critical for threatened birds and mammals.",
+          "location": "IMPACTS TO AT-RISK SPECIES AND HABITATS",
+          "sub_component": "species / habitat",
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "biological_unit_components": {
+      "species": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Species shifts at higher elevations, with cold-adapted species like whitebark pine declining in range due to warming temperatures even as growing seasons lengthen.",
+            "location": "CLIMATE CHANGE AND FUTURE DROUGHT IN WASHINGTON",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "population": {
+        "present": false,
+        "evidence": []
+      },
+      "habitat": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Increased disturbance from wildfire, drought, and insect outbreaks can degrade or eliminate critical habitat for forest-dependent species.",
+            "location": "IMPACTS TO AT-RISK SPECIES AND HABITATS",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Climate change is anticipated to lead to shifts in species distributions and abundances, increased presence of invasive species, and the emergence of novel ecological communities.",
+            "location": "STR ATEGIES / Wildlife and Salmon Recovery section",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "community": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Shifts in vegetation communities and associated disturbance regimes critical for threatened birds and mammals.",
+            "location": "IMPACTS TO AT-RISK SPECIES AND HABITATS",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "genotype_phenotype": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["whitebark pine", "western redcedar", "bigleaf maple", "grand fir", "western hemlock", "ponderosa pine", "Douglas-fir", "northern spotted owl", "marbled murrelet", "lynx", "Chinook salmon", "Southern Resident Orcas", "fisher", "cold-water fish species", "Garry oak ecosystems", "bark beetles", "western spruce budworm", "mountain pine beetle", "California fivespined Ips", "emerald ash borer"]
+    },
+    "partnerships_and_funding": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Washington State has secured seven Landscape Scale Restoration grants since 2020 totaling $2,068,154 in federal funding to make meaningful progress on our Forest Action Plan goals across six priority landscapes.",
+          "location": "Landscape Scale Restoration Competitive Grant Program",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "In 2024, DNR administered a groundbreaking $8 million Community Forestry Assistance Grant cycle, combining federal and state funding. This supported more than 40 urban forestry projects across the state from rural communities to city centers.",
+          "location": "Urban and Community Forestry Program Impact Summary",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Community carbon projects received $27,021,650 in state funding between 2019 and 2027, which led to permanent protection of 12,736 acres of forestland.",
+          "location": "FOREST LEGACY PROGRAM / Community Forest table",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_threat_habitat_degradation": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Climate-driven stressors like drought, extreme heat, and altered snowpack are affecting forest productivity, regeneration, and resilience.",
+          "location": "THE PRIORITIES AND ACTIONS IDENTIFIED IN THE PLAN...",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "As the climate warms and dry seasons lengthen, the frequency, size, and severity of wildfires are projected to increase on both the east and west sides of the state. Warmer temperatures, lower soil and fuel moisture, and earlier snowmelt contribute to longer fire seasons and more extreme fire behavior.",
+          "location": "INCREASED WILDFIRE POTENTIAL ACROSS THE STATE",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_threat_species_vital_rates": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Prolonged low flows and warming stream temperatures caused widespread fish mortality, including in species critical to Tribal, commercial, and recreational fisheries.",
+          "location": "ECOLOGICAL CONDITIONS AND THREATS FACING FORESTS",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Washington experienced a \"heat dome\" in June 2021 when extremely high temperatures occurred over a period of three days. This weather event caused direct damage to trees, scorching (red dead foliage) some of the most exposed southwest portions of mature tree foliage and mortality of young seedlings.",
+          "location": "Insect and Disease",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_threat_biotic_stressors": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "California fivespined Ips, a bark beetle species not known to kill pines in Washington prior to 2010, has become a frequent cause of pine mortality in areas west of the Cascades previously not known to be affected by said beetle. This expanded range is likely tied to drought and extreme heat stress.",
+          "location": "Insect and Disease",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Native insect and disease outbreaks may expand in frequency and range. Non-native pests and pathogens may establish or spread more rapidly.",
+          "location": "Insect and Disease",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    }
+  },
+  "actions": {
+    "priority_habitat_identification": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Focusing agency investments and collaboration in these priority landscapes will lead to increased forest health and landscape resilience in western Washington... This priority map is a composite of 15 different data layers, such as fish and wildlife, climate change, and drinking water.",
+          "location": "Western Washington Forest Health Watershed Prioritization and Priority Landscapes",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "WDFW synthesized these metrics into a layer mapping and quantifying connectivity values across the state. This synthesized layer was used to identify 13 terrestrial Connected Landscapes of Statewide Significance (CLOSS)",
+          "location": "Washington Habitat Connectivity Action Plan",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Identifying and protecting drought refugia -microclimates that retain soil moisture and provide important habitat under drying conditions.",
+          "location": "BUILDING CLIMATE RESILIENCE IN FORESTS",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "targeted_range_shift_actions": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Some species may no longer be suitable for particular locations, necessitating shifts in species selection or seed sources (i.e. assisted migration).",
+          "location": "REFORESTATION AND SEED SUPPLY CHALLENGES",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Favoring site-appropriate or drought-tolerant species and seed zones during planting and regeneration.",
+          "location": "BUILDING CLIMATE RESILIENCE IN FORESTS",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "time_bound_and_monitoring": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Goal 1: Conduct 1.25 million acres of scientifically sound, landscape-scale, cross-boundary management and restoration treatments in priority watersheds to increase forest and watershed resilience by 2037.",
+          "location": "PLAN GOALS / 20-Year Forest Health Strategic Plan",
+          "sub_component": "time-bound",
+          "citations": []
+        },
+        {
+          "text": "In odd-numbered years, DNR will publish a Forest Action Plan Progress Report. This report will summarize implementation progress against plan goals and priority actions, highlight success stories, and identify emerging challenges and opportunities.",
+          "location": "BIENNIAL REPORTING SCHEDULE",
+          "sub_component": "monitoring",
+          "citations": []
+        },
+        {
+          "text": "Develop and implement a forest health resilience monitoring program that establishes criteria, tools, and processes to monitor forest and watershed conditions, assess progress, and reassess strategies over time.",
+          "location": "PLAN GOALS / 20-Year Forest Health Strategic Plan",
+          "sub_component": "monitoring",
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "evidence_of_efficacy": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "In western Washington, treatments such as prescribed fire can carry important socio-ecological or cultural benefits, however little is known about the efficacy of fuels management at a landscape-scale.",
+          "location": "FOREST RESOURCE ASSESSMENT / Western Washington Fire",
+          "sub_component": null,
+          "citations": ["Halofsky et al. 2018", "Reilly et al. 2022"]
+        },
+        {
+          "text": "This plan includes present-day actions, based on best available evidence, with the goal of reducing risk and being more prepared and resilient when wildfires occur. The plan also recommends investments in scientific research, monitoring, and planning to ensure our strategies adapt to changing climatic conditions over time.",
+          "location": "WESTERN WASHINGTON WILDFIRE",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document provides some evidence for specific actions (landscape-scale thinning has made measurable progress; references to peer-reviewed literature supporting management strategies for insect/disease resistance), but much of this is limited applicability evidence (different ecological contexts, principled rather than direct outcome evaluation). Score 2 (limited evidence) rather than 3 because direct evaluation of range-shift-specific actions (assisted migration, climate refugia protection) lacks cited applied studies.",
+      "projects": ["The 20-Year Forest Health Strategic Plan (Eastern Washington, adopted 2017) serves as an evidence base: 589,520 acres of combined treatments completed in 45 forest health priority planning areas by October 2025, representing 20-29% of combined treatment need. This provides direct evidence for the efficacy of landscape-scale forest health treatment at scale.", "The Nisqually Land Trust's Ashford III IFM carbon project (520 acres, Pierce County, since 2012) has issued approximately 61,000 credits; developed with Microsoft as purchaser, providing an early case study for forest carbon project design.", "Western Washington prescribed fire efficacy is specifically noted as uncertain: 'little is known about the efficacy of fuels management at a landscape-scale' in western Washington, indicating evidence gaps for a key action."]
+    },
+    "adaptation_planning_frameworks": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Management strategies have been proposed for current and changing climate scenarios to enhance resistance and resilience to insect and disease outbreaks. That said, a changing climate will likely create novel conditions for which previous experience is unavailable. Therefore, in addition to increasing landscape resiliency and drought mitigation, an emphasis is also needed on forest health strategies that consider ecosystem adaptability",
+          "location": "Insect and Disease",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Science and adaptive management: using the best available science, monitoring outcomes, and adjusting strategies as conditions change.",
+          "location": "20-Year Forest Health Strategic Plan: Eastern Washington",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Respondents recommended using climate adaptation tools to guide species selection, reforestation, and genetic research. Respondents restoration. Suggestions included reassessing forest practices rules, improving management of riparian areas, and aligning with the USDA Forest Service, Tribes, local governments, and other partners to ensure consistent, landscape-scale",
+          "location": "APPENDIX A / open-ended survey responses",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document references adaptive management explicitly in a climate context (monitoring and adjusting strategies as climate changes), and references to climate scenario planning and climate-adapted planting prescriptions (Reforestation Goal 3: 'Develop climate-ready methods, strategies, and a template for planting prescriptions that consider the future impact of climate change on seedling survival'). These are specific climate adaptation planning framework references. Score 2."
+    }
+  },
+  "coding_meta": {
+    "coder": "llm:claude-sonnet-4-6",
+    "model": "claude-sonnet-4-6",
+    "provider": "claude",
+    "codebook_version": "0.4",
+    "ingest": "text",
+    "design": "single",
+    "temperature": null,
+    "thinking": null,
+    "thinking_effort": null,
+    "coded_at": "2026-07-07T00:31:34Z",
+    "notes": {}
+  }
+}

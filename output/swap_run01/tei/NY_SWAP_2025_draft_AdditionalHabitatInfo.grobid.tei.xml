@@ -1,0 +1,596 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main"></title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">3C2827113F05F6C5DE3B0000FA4BB680</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.1" ident="GROBID" when="2026-07-06T15:18+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract/>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Habitats of the Northeast</head><p>Table <ref type="table" target="#tab_0">A3</ref>-1 includes descriptive definitions for habitat classes and habitat types in the Northeast, derived and adapted from NatureServe Biotics 5 and used in the 2025 NY SWAP.  </p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>2 .</head><label>2</label><figDesc>Open Upland -Terrestrial habitats characterized by &lt;25% tree cover a. Grasslands -habitat dominated by herbaceous vegetation with few, if any, trees b. Shrublands -habitat composed of shrubs (many-stemmed woody plants, generally less than 5 m tall) c. Glades, Barrens &amp; Savannas -habitat composed of sparse, low, and open vegetation with some tree cover d. Agriculture -Cropland/Pastures -cultivated fields, pastures, and hayfields e. Alpine -Barren substrate or herbaceous and low shrubby vegetation above mountain timberline f. Cliff &amp; Talus -Expanses of bedrock or broken rock generally lacking vascular plants, including vertical or nearly vertical rock outcrops 3. Subterranean -Habitats below the soil surface a. Caves &amp; Karst -naturally occurring air-filled spaces, ranging in size Habitat Class Habitat Type b. Mines &amp; Tunnels -human created air-filled spaces below the natural land surface, whether open to daylight or not c.Other Subterranean -all other habitat uses below the soil surface 4. Developed -Terrestrial habitats that are dominated by residential, commercial or industrial land uses, including managed open spaces such as parks, gardens, athletic fields, airports, cemeteries and golf courses 5. Riverine a. Big Rivers -The largest channels, characterized by large perennial flows, large quantities of nutrients and organic matter, high turbidity, and fine sediments. [e.g., Connecticut, Hudson, Delaware, Susquehanna, Potomac, Ohio, St. Lawrence] b. Rivers &amp; Streams -Perennial tributaries to big Rivers c. Tidal Rivers &amp; Streams -lower reaches of flowing water with brackish water and tidal influence 6. Lacustrine -Perennial bodies of water a. Great Lakes -Lake Ontario, Lake Erie, Lake Champlain b. Lakes &amp; Ponds -naturally occurring bodies of freshwater 7. Land-water interface -The zone where terrestrial and aquatic habitats meet and interact, with a boundary that shifts in space, over time, and under different weather conditions a. Riparian &amp; Floodplains -a zone of habitats directly associated with stream sides that may be periodically flooded b. Shorelines -non-beach and dune habitat bordering large waterbodies where vegetation is limited by fluctuating water levels, waves and/or tides c. Beaches &amp; Dunes -habitat dominated by sand deposits where wind, tides, and/or waves (current or historical) shape substrate; vegetation is often sparse or absent 8. Palustrine -Areas where water either covers the soil or is present at or near the surface of the soil for at least some portion of the year Habitat Class Habitat Type a. Non-Tidal Wetlands -wet areas, with or without emergent vegetation b. Tidal Wetlands &amp; Flats -wetlands, with or without emergent vegetation, that are strongly influenced by tidal forces c. Vernal Pools -small depressions in which surface water is present for an extended period of time in the spring but is absent by the end of the season in most years 9. Estuarine a. Estuaries -subtidal (continuously submerged) open brackish water, excluding river mouths 10. Marine a. Marine Nearshore -coastal subtidal marine habitats, extending outward as far as wave action and light penetration to the bottom b. Marine Offshore &amp; Oceanic -pelagic and abyssal zones of open ocean waters Anthropogenic habitat types in italics</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table A3 -</head><label>A3</label><figDesc>1. Northeast Habitat Classifications and Definitions</figDesc><table><row><cell>Habitat Class</cell><cell>Habitat Type</cell></row><row><cell cols="2">1. Forested Upland -</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Terrestrial habitats characterized by woody vegetation at least 5 m tall with &gt;25% tree canopy cover</head><label></label><figDesc></figDesc><table><row><cell>c. High Elevation Forest -Forested upland generally above 1500 ft (500m) in elevation whose structure is influenced by</cell></row><row><cell>shallow soils, increased precipitation, and severe weather</cell></row></table><note><p>a. Forests &amp; Woodlands -forested upland that does not have the primary goal of producing products for people. (Trees can be thinned or logged, with wood products sold, as part of a forest management plan.) b. Agriculture: Plantations/Orchards -forested upland with the primary goal of producing products for people</p></note></figure>
+		</body>
+		<back>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Appendix 3. Additional Habitat Information</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Northeast Habitat Modifiers</head><p>Table <ref type="table">A3</ref>-2 includes modifiers developed by <ref type="bibr">Terwilliger and NEFWDTC (2022)</ref> to describe habitat requirements for Northeast Regional Species of Greatest Conservation Need. Not all species have modifiers identified, and not all modifiers are used in the 2025 NY SWAP. Tidal <ref type="bibr">Zone [supratidal, intertidal, subtidal, multiple, unknown</ref>, NA] D.</p><p>Substrate <ref type="bibr">[sand, clay, organic, rocky, unknown</ref> Temperature Class [warm, cold, not a temperature specialist, unknown, NA] D. Features / Formations <ref type="bibr">[SAV, Ocean Banks, shellfish beds, reefs &amp; live rock, Sargasso Sea, artificial structures, deep water, benthic, aerial, gravel &amp; sand bars, burrows]</ref> Recommended modifiers are in italics. Additionally, the "Features" associated with each habitat class can provide important information about niches within habitat types where species can be found during certain life stages</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Aquatic Habitat Classification</head><p>Table <ref type="table">A3</ref>-3 includes aquatic habitat classes and habitat types, with modifiers developed by <ref type="bibr">Olivero and Anderson (2008)</ref>. These variables were used to describe habitat requirements for many aquatic species in the 2025 NY SWAP. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Aquatic Habitat Definitions</head><p>Table <ref type="table">A3</ref>-4 includes definitions of the aquatic habitat classifications as described by <ref type="bibr">Olivero and Anderson (2008)</ref> and used in the 2025 NY SWAP. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Marine Habitat Classification</head><p>Table <ref type="table">A3</ref>-5 includes marine habitat classes and habitat types, with additional substrate and features as described in the 2015 SWAP. </p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<monogr>
+		<title level="m" type="main">Life Stage [breeding, rearing / development of young, feeding, wintering or hibernation</title>
+		<author>
+			<persName><forename type="first">A</forename></persName>
+		</author>
+		<imprint/>
+	</monogr>
+	<note>migration stopover</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">B</forename><surname>Type</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+	<note>deciduous, coniferous, mixed, unknown, NA</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<title level="m" type="main">Age Class [young forest, mature forest, old growth, not a specialist</title>
+		<author>
+			<persName><forename type="first">C</forename></persName>
+		</author>
+		<imprint/>
+	</monogr>
+	<note>unknown, NA</note>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">D</forename><surname>Substrate</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+	<note>clay, silt, sand, organic, rocky, unknown, NA</note>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<monogr>
+		<title level="m" type="main">Soil Moisture Specialist [xeric, mesic, hydric, not a moisture specialist</title>
+		<author>
+			<persName><forename type="first">E</forename></persName>
+		</author>
+		<imprint/>
+	</monogr>
+	<note>unknown, NA</note>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<monogr>
+		<author>
+			<persName><forename type="first">F</forename><surname>Understory</surname></persName>
+		</author>
+		<title level="m">Vegetation Density [absent (0%), sparse (1-10%), low (10-25%), moderate (25-60%), high (60-100%)</title>
+		<imprint/>
+	</monogr>
+	<note>not specialist, unknown, NA</note>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<monogr>
+		<author>
+			<persName><forename type="first">G</forename><surname>Midstory</surname></persName>
+		</author>
+		<title level="m">Vegetation Density [absent (0%), sparse (1-10%), low (10-25%), moderate (25-60%), high (60-100%)</title>
+		<imprint/>
+	</monogr>
+	<note>not specialist, unknown, NA</note>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<monogr>
+		<title level="m" type="main">Overstory Vegetation Density [absent, sparse, low, moderate, high, not specialist</title>
+		<author>
+			<persName><forename type="first">H</forename></persName>
+		</author>
+		<imprint/>
+	</monogr>
+	<note>unknown, NA</note>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<monogr>
+		<title level="m" type="main">Fire Dependent</title>
+		<author>
+			<persName><forename type="first">I</forename></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<monogr>
+		<title level="m" type="main">Features / Formations [snags, logs &amp; woody debris, surface litter, outcrops &amp; epikarst, edge habitat, interior habitat, burrows, rights-of-way, artificial structures</title>
+		<author>
+			<persName><forename type="first">J</forename></persName>
+		</author>
+		<imprint/>
+	</monogr>
+	<note>abandoned buildings, occupied buildings</note>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<monogr>
+		<title level="m">Barrens &amp; Savannas; Agricultural: Cropland/Pastures; Alpine; Cliff &amp; Talus] A. Life Stage [breeding, rearing / development of young, feeding, wintering or hibernation</title>
+		<imprint>
+			<publisher>Open Upland Habitat Class [Grasslands; Shrublands; Glades</publisher>
+		</imprint>
+	</monogr>
+	<note>migration stopover</note>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">B</forename><surname>Substrate</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+	<note>clay, silt, sand, organic, rocky, unknown, NA</note>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<monogr>
+		<title level="m" type="main">Soil Moisture Specialist [xeric, mesic, hydric, not a moisture specialist</title>
+		<author>
+			<persName><forename type="first">C</forename></persName>
+		</author>
+		<imprint/>
+	</monogr>
+	<note>unknown, NA</note>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<monogr>
+		<title level="m" type="main">Fire Dependent</title>
+		<author>
+			<persName><forename type="first">D</forename></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<monogr>
+		<title level="m" type="main">Grass/Forb Density [absent, sparse, low, moderate, high, not specialist</title>
+		<author>
+			<persName><forename type="first">E</forename></persName>
+		</author>
+		<imprint/>
+	</monogr>
+	<note>unknown, NA</note>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<monogr>
+		<title level="m" type="main">Shrub Density [absent, sparse, low, moderate, high, not specialist</title>
+		<author>
+			<persName><forename type="first">F</forename></persName>
+		</author>
+		<imprint/>
+	</monogr>
+	<note>unknown, NA</note>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<monogr>
+		<title level="m" type="main">Tree Density [absent, sparse, low, moderate, high, not specialist</title>
+		<author>
+			<persName><forename type="first">G</forename></persName>
+		</author>
+		<imprint/>
+	</monogr>
+	<note>unknown, NA</note>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<monogr>
+		<title level="m" type="main">Features / Formations [balds, snags, logs &amp; woody debris, surface litter, outcrops &amp; epikarst, burrows, rights-of-way, airports / airfields, no till agriculture, till agriculture, artificial structures</title>
+		<author>
+			<persName><forename type="first">H</forename></persName>
+		</author>
+		<imprint/>
+	</monogr>
+	<note>abandoned buildings, occupied buildings</note>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<monogr>
+		<title level="m">Subterranean Habitat Class</title>
+		<imprint/>
+	</monogr>
+	<note>Subterranean Areas</note>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<monogr>
+		<title level="m" type="main">Life Stage [breeding, rearing / development of young, feeding, wintering or hibernation</title>
+		<author>
+			<persName><forename type="first">A</forename></persName>
+		</author>
+		<imprint/>
+	</monogr>
+	<note>migration stopover</note>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">B</forename><surname>Zone</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+	<note>entry, twilight, dark, multiple, unknown, NA</note>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<monogr>
+		<title level="m" type="main">Soil Moisture Specialist [xeric, mesic, hydric, not a moisture specialist</title>
+		<author>
+			<persName><forename type="first">C</forename></persName>
+		</author>
+		<imprint/>
+	</monogr>
+	<note>unknown, NA</note>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">D</forename><surname>Substrate</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+	<note>clay, silt, sand, organic, rocky, unknown, NA</note>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<monogr>
+		<title level="m" type="main">Life Stage [breeding, rearing / development of young, feeding, wintering or hibernation</title>
+		<author>
+			<persName><forename type="first">A</forename></persName>
+		</author>
+		<imprint/>
+	</monogr>
+	<note>migration stopover</note>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<monogr>
+		<title level="m" type="main">River Basin</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Major</surname></persName>
+		</author>
+		<imprint>
+			<pubPlace>Connecticut, Hudson, Delaware, Susquehanna, Potomac, Ohio, St. Lawrence, NA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<monogr>
+		<title level="m" type="main">Size [headwater, streams, small-medium rivers, large rivers-mainstems</title>
+		<author>
+			<persName><forename type="first">C</forename></persName>
+		</author>
+		<imprint/>
+	</monogr>
+	<note>Big Rivers, multiple, unknown, NA</note>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<monogr>
+		<title level="m" type="main">Associated Upland Habitat</title>
+		<author>
+			<persName><forename type="first">D</forename></persName>
+		</author>
+		<imprint/>
+	</monogr>
+	<note>forest, grassland, shrubland, developed, multiple, unknown, NA</note>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<monogr>
+		<title level="m" type="main">Temperature Class [warm (&gt;21° C), cold (&lt;21° C)</title>
+		<author>
+			<persName><forename type="first">E</forename></persName>
+		</author>
+		<imprint/>
+	</monogr>
+	<note>not specialized, unknown, NA</note>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<monogr>
+		<title level="m" type="main">Oxygen Level [low, mixed, high, not specialized</title>
+		<author>
+			<persName><forename type="first">F</forename></persName>
+		</author>
+		<imprint/>
+	</monogr>
+	<note>unknown, NA</note>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">G</forename><surname>Ph</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+	<note>alkaline, mixed, acidic, not specialized, unknown, NA</note>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">H</forename><surname>Substrate</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+	<note>clay, silt, sand, gravel, cobble, boulder/slabrock, bedrock, organic, multiple, unknown, NA</note>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<monogr>
+		<title level="m" type="main">Emergent Vegetation Density [absent, sparse, low, moderate, high, not specialist</title>
+		<author>
+			<persName><forename type="first">I</forename></persName>
+		</author>
+		<imprint/>
+	</monogr>
+	<note>unknown, NA</note>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<monogr>
+		<title level="m" type="main">Floating Vegetation Density [absent, sparse, low, moderate, high, not specialist</title>
+		<author>
+			<persName><forename type="first">J</forename></persName>
+		</author>
+		<imprint/>
+	</monogr>
+	<note>unknown, NA</note>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<monogr>
+		<title level="m" type="main">Submerged Vegetation Density [absent, sparse, low, moderate, high, not specialist</title>
+		<author>
+			<persName><forename type="first">K</forename></persName>
+		</author>
+		<imprint/>
+	</monogr>
+	<note>unknown, NA</note>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<monogr>
+		<title level="m" type="main">Gradient [low, moderate, high/steep, not specialized</title>
+		<author>
+			<persName><forename type="first">L</forename></persName>
+		</author>
+		<imprint/>
+	</monogr>
+	<note>unknown, NA</note>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<monogr>
+		<title level="m" type="main">Features / Formations [headwaters, logs &amp; woody debris, surface litter, riffles, pools, slackwater, oxbow, benthic, gravel &amp; sand bars, aerial</title>
+		<author>
+			<persName><forename type="first">M</forename></persName>
+		</author>
+		<imprint/>
+	</monogr>
+	<note>artificial structures, burrows</note>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<monogr>
+		<title level="m" type="main">Life Stage [breeding, rearing / development of young, feeding, wintering or hibernation</title>
+		<author>
+			<persName><forename type="first">A</forename></persName>
+		</author>
+		<imprint/>
+	</monogr>
+	<note>migration stopover</note>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">Great</forename><surname>Lake</surname></persName>
+		</author>
+		<imprint>
+			<pubPlace>Erie, Ontario, Champlain, unknown, NA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">C</forename><surname>Size</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Great</forename><surname>Lake</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+	<note>not size specialist, unknown, NA</note>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<monogr>
+		<title level="m" type="main">Associated Upland Habitat</title>
+		<author>
+			<persName><forename type="first">D</forename></persName>
+		</author>
+		<imprint/>
+	</monogr>
+	<note>forest, grassland, shrubland, developed, multiple, unknown, NA</note>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<monogr>
+		<title level="m" type="main">Temperature Class [warm, cold, not specialized</title>
+		<author>
+			<persName><forename type="first">E</forename></persName>
+		</author>
+		<imprint/>
+	</monogr>
+	<note>unknown, NA</note>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<monogr>
+		<title level="m" type="main">Substrate [clay, silt, sand, gravel, cobble, boulder/slabrock, bedrock, organic, multiple</title>
+		<author>
+			<persName><forename type="first">F</forename></persName>
+		</author>
+		<imprint/>
+	</monogr>
+	<note>unknown, NA</note>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<monogr>
+		<title level="m" type="main">Emergent Vegetation Density [absent, sparse, low, moderate, high, not specialist</title>
+		<author>
+			<persName><forename type="first">G</forename></persName>
+		</author>
+		<imprint/>
+	</monogr>
+	<note>unknown, NA</note>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<monogr>
+		<title level="m" type="main">Floating Vegetation Density [absent, sparse, low, moderate, high, not specialist</title>
+		<author>
+			<persName><forename type="first">H</forename></persName>
+		</author>
+		<imprint/>
+	</monogr>
+	<note>unknown, NA</note>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<monogr>
+		<title level="m" type="main">Submerged Vegetation Density [absent, sparse, low, moderate, high, not specialist</title>
+		<author>
+			<persName><forename type="first">I</forename></persName>
+		</author>
+		<imprint/>
+	</monogr>
+	<note>unknown, NA</note>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<monogr>
+		<title level="m" type="main">Trophic State [eutrophic, mesotrophic, oligotrophic, not specialized</title>
+		<author>
+			<persName><forename type="first">J</forename></persName>
+		</author>
+		<imprint/>
+	</monogr>
+	<note>unknown, NA</note>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<monogr>
+		<title level="m" type="main">Features / Formations [salt ponds, logs &amp; woody debris, surface litter, low fetch, deep water, benthic, impoundments &amp; reservoirs, reefs &amp; live rock, gravel &amp; sand bars</title>
+		<imprint/>
+	</monogr>
+	<note>artificial structures, aerial, burrows</note>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<monogr>
+		<title level="m">Shorelines; Beaches &amp; Dunes; Riparian &amp; Floodplains] A. Life Stage [breeding, rearing / development of young, feeding, wintering or hibernation</title>
+		<imprint>
+			<publisher>Land-Water Interface Habitat Class</publisher>
+		</imprint>
+	</monogr>
+	<note>migration stopover</note>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">B</forename><surname>Salinity</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+	<note>freshwater, brackish, marine, unknown, NA</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>
+

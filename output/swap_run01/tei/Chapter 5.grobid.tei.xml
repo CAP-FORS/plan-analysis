@@ -1,0 +1,490 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main"></title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">BD28D54288929D6D176CFE0ECFA63563</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.1" ident="GROBID" when="2026-07-06T11:26+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract/>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Tables</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Introduction</head><p>Monitoring Delaware's species of greatest conservation need (SGCN), their habitats, and the effectiveness of the conservation actions identified in the previous chapters will provide information for Delaware Department of Natural Resources and Environmental Control, Division of Fish &amp; Wildlife (DNREC DFW) and its partners to measure success of the Delaware Wildlife Action Plan (DEWAP) (Element 5). Monitoring will help determine the effectiveness of conservation actions, ensuring the most efficient use of limited staffing and funds, and will reduce or eliminate threats facing the state's fish and wildlife resources. As conditions change (e.g., land use patterns, climate change, global or national population trends, new data and information), adaptive management and implementation of the conservation actions identified in Chapter 4 will allow DNREC DFW to respond appropriately. Adaptive management has received ample attention in the conservation community as an effective method for long-term conservation (e.g., <ref type="bibr" target="#b9">Johnson and Case 2000;</ref><ref type="bibr" target="#b19">TNC 2000</ref><ref type="bibr" target="#b2">, Brown et al. 2001;</ref><ref type="bibr" target="#b7">Groves et al. 2002;</ref><ref type="bibr">Pew Oceans Commission 2003;</ref><ref type="bibr">USFWS 2004;</ref><ref type="bibr" target="#b15">and Salafsky et al. 2001</ref><ref type="bibr" target="#b16">and Salafsky et al. , 2002</ref><ref type="bibr" target="#b17">and Salafsky et al. , and 2003))</ref>.</p><p>The DEWAP is strategic in nature and presents a monitoring and adaptive management framework that will be used to assess the status of SGCN and habitats as well as monitor the effectiveness of conservation actions. Delaware's approach identifies existing monitoring efforts and tools currently used by DNREC DFW and partners to assess SGCN, key habitats and related issues, as listed in the plans and programs in Appendix 5. If monitoring is not identified for an SGCN or species group/taxa, Chapter 4 of this state wildlife action plan (SWAP) describes monitoring actions for other species which occupy the same habitats or for the habitats themselves. In cases where not enough information exists to monitor a species or group, or for which monitoring protocols have not yet been developed, this need is documented and followed by a conservation action intended to address that need. In cases where standardized protocols need to be developed and baseline data do not exist to form the basis of a monitoring protocol, these needs are described in Chapter 1 under the appropriate taxa. The same is true with habitats listed in Chapter 2. Where additional data or monitoring is neededfor habitats or spatial data, actions are listed in Chapter 4. As the information gaps are filled, any relevant monitoring can be adapted to be more quantitative and specific <ref type="bibr">(Holling 1978)</ref>. When possible standard protocols will be used, but where new monitoring protocols are needed, <ref type="bibr" target="#b13">Oakley et al. (2003)</ref> provides guidelines on how to develop them. This chapter describes how Delaware will use tools for information management and conservation planning to monitor the implementation and effectiveness of conservation actions. These tools include the Northeast Regional Monitoring and Performance Reporting Framework collaboratively funded by the National Fish and Wildlife Foundation (NFWF, see NEAFWA 2008) and its successors, the State Wildlife Grants Effectiveness Measures Project (AFWA 2012) funded by the Doris Duke Foundation, the Northeast Lexicon Project <ref type="bibr">(Crisfield and NEFWDTC 2013)</ref>, and the national Wildlife Tracking and Reporting Actions for the Conservation of Species (Wildlife TRACS) database funded by the U.S. Fish and Wildlife Service (USFWS).</p><p>The framework starts with a specific conservation action, and then a basic results chain is created linking the action to relevant issues, habitats, and species. Next, indicators and measures are selected for each step in the chain, and monitoring data are used to track those indicators. Measurement of these indicators over time will provide the essential information needed for evaluating the effectiveness of each conservation action.</p><p>This chapter also describes the process that Delaware will use to review, revise, and update the DEWAP and address Element 6. Delaware will use the annual performance report requirement for State Wildlife Grant (SWG) funded projects as a basis for an annual assessment toward achieving DEWAP objectives. It will also utilize existing monitoring programs in place (listed later in this chapter and in Appendix 5, and develop new ones as listed in the priority conservation actions in Chapter 4.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Regional Coordination and Context</head><p>The development of regional monitoring activities remains a high priority for the Northeast Fish and Wildlife Diversity Technical Committee (NEFWDTC) of Northeast Association of Fish and Wildlife Agencies (NEAFWA) due to the large number of shared priority species and habitats, the relatively limited funding available in any one state for monitoring, and the presence of many regional experts who have knowledge of particular taxa or ecosystems. NEFWDTC planning efforts have led to several key monitoring projects funded by the Regional Conservation Needs (RCN) Grant Program, and support of the RCN program and other important regional monitoring partnerships (i.e., NALCC, The Nature Conservancy [TNC], University of Massachusetts, etc.) remains a high priority in the DEWAP.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>The Monitoring and Performance Reporting Framework</head><p>The NEAFWA Monitoring and Performance Reporting Framework <ref type="bibr">(NEAFWA 2008</ref>) is intended to help each state in the Northeast to meet the expectations set by Congress and the USFWS for the SWAPs and the SWG programs. The goal of this framework is to assess the status and trends of SGCN and their habitats and to evaluate the effectiveness of activities intended to conserve species and habitats across the Northeast.</p><p>For more information and to review project reports, please visit: <ref type="url" target="http://rcngrants.org/content/regionalmonitoring-and-performance-framework">http://rcngrants.org/content/regionalmonitoring-and-performance-framework</ref>.</p><p>The NEAFWA monitoring framework identified eight conservation targets defined as species, landscape features, or vegetation communities important to fish and wildlife: forests, freshwater streams and river systems, freshwater wetlands, highly migratory species, lakes and ponds, managed grasslands and shrublands, regionally significant SGCN, and unique habitats in the Northeast. Each of these targets is discussed under the appropriate chapter for species and habitats. For each target, key issues were identified, along with conservation actions that could help alleviate or eliminate the effects of that particular stressor.</p><p>Indicators were proposed for tracking status and trends of each of the targets, and data sources were identified for each of the indicators <ref type="bibr">(NEAFWA 2008</ref><ref type="bibr">). Table 5.1, excerpted from NEAFWA (2008)</ref>, lists the indicators and issues that were selected by workshop participants for each of the eight conservation targets. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Northeast Lexicon for Common Planning and State Wildlife Action Plan Database</head><p>Wildlife conservation planners in the Northeast have long recognized a potential ambiguity in many of the terms that are used to describe fish and wildlife conservation activities. For example, a "target" may refer to a number, an area, a specific site, a species, a group or guild of species, a vegetation community, or an ecosystem type. There is an acute need to develop a standard lexicon that provides conservationists with a uniform terminology that accurately and adequately describes the work of state fish and wildlife agencies.</p><p>Although lexicons have been developed by the IUCN and the CMP, they are designed primarily for international conservation and sustainable development projects, activities that differ in many important ways from fish and wildlife conservation activities in the northeastern states. Thus, the NEFWDTC developed a regional conservation lexicon that can be used by state wildlife agencies and partners to describe their conservation projects <ref type="bibr">(Crisfield and NEFWDTC 2013)</ref>.</p><p>The Northeast SWAP Database is a data management tool developed by Kevin Kalasz, Karen Terwilliger, and</p><p>Jonathan Mawdsley that provides a basic structure for storing and querying data collected by the individual states as part of their SWAP revisions. The database includes full support for results chains as well as indicators and the AFWA SWG Effectiveness Measures.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Region-wide Taxa-specific Surveys and Monitoring</head><p>There are numerous taxa-specific surveys, inventory, or monitoring programs that have been developed and implemented with NEAFWA's support and through other regional collaborations. With RCN funding, surveys and assessments have been conducted or are in the process of being conducted for wood turtle, Eastern ). An online database of museum specimen records for SGCN invertebrates in the Northeast was developed by <ref type="bibr" target="#b4">Fetzner (2011)</ref>. More in-depth reports describing the methods and results of these surveys and associated data products are available at the RCN website: <ref type="url" target="http://www.rcngrants.org">http://www.rcngrants.org</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Regional Monitoring Protocols and Databases</head><p>Northeast states have also developed monitoring protocols and databases through regional multi-state collaborative efforts. With funding from the RCN Grant Program, monitoring protocols have been developed, reviewed, or revised for several species of regional conservation interest, including New England cottontail <ref type="bibr" target="#b5">(Fuller and Tur 2012)</ref>, shrubland-dependent birds (McDowell 2011), freshwater aquatic habitats <ref type="bibr" target="#b14">(Olivero and Anderson. 2008)</ref>, and frogs. Ongoing RCN projects are also developing monitoring protocols for wood turtle, Eastern black rail, and odonates (dragonflies and damselflies). The consistent and widespread use of common monitoring methodologies and survey protocols will help support regional assessments of the status and trends of SGCN and their habitats. In addition, NEAFWA has also funded development of a database for regional invertebrate species of greatest conservation need through a partnership with the Carnegie Museum of Natural History in Pittsburgh <ref type="bibr" target="#b4">(Fetzner 2011)</ref>. A more comprehensive database has been proposed that would include data on all species, habitats, actions, and issues from the individual SWAPs in the Northeast; for introductory information and a lexicon of terms that would be used in such a database see <ref type="bibr">Crisfield and NEFWDTC 2013</ref>. Links to monitoring plans and tools developed through the RCN Grant</p><p>Program are available on the web site.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Delaware's Species and Habitat Monitoring Programs</head><p>Delaware is blessed with a wealth of monitoring programs that provide important information about wildlife species and their habitats. The following tables of wildlife species and habitat monitoring programs in Delaware were originally developed for the first edition of the DEWAP. They have been updated and enhanced based on information provided during the process of revising the DEWAP. The tables list individual monitoring programs, the associated organization(s) with each program, and the type and level of monitoring, whether single-species, guild-focused, or habitat-focused. Data from these programs and process-related information from individual implementation projects (e.g., number of meetings held, number of reports produced, number of people contacted through outreach efforts, number of plans developed, etc.) will be reported to the USFWS and tracked using the Wildlife TRACS database.</p><p>A key part of adaptive management is the determination of specific management objectives for SGCN, key habitats, and abatement of threats from conservation issues. These would take the form of population levels for SGCN, areal extent and dispersion for key habitats, and maximum limits for impacts from "direct threat" conservation issues. Such objectives are often difficult to determine given the complexity of most natural systems, and they are beyond the scope of this plan. However, population objectives are available for some species in regional and national conservation initiatives (e.g., Partners in Flight and endangered species recovery plans), and there is extensive literature on population viability analysis that can be applied to other species. Habitat objectives are less well developed, although there is a growing body of knowledge about patch size and isolation, connectivity, edge effects and similar factors that influence habitat viability. Some thresholds for impacts are well established, while others are poorly understood and require additional research.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Species Monitoring</head><p>Delaware has numerous monitoring programs already in place that monitor individual wildlife species as well as important species guilds such as shorebirds (Figure <ref type="figure" target="#fig_0">5</ref>.1) or waterfowl and diadromous fish (Appendix 5).</p><p>These existing programs will be the primary method for monitoring and tracking species identified as SGCN in the current revision of the DEWAP. Data from these programs are collected and reported to the relevant wildlife managers at the state and federal level, in order to provide information that can be used for adaptively managing these important wildlife populations.</p><p>Because species monitoring programs listed in this table have been designed for different purposes and may track different attributes of individual species or groups of species, the existing species monitoring programs in Delaware may not all be reporting similar types of data for all species that are being tracked in the state.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Habitat Monitoring</head><p>Delaware also has numerous monitoring programs already in place that monitor various attributes of wildlife habitats, from the site-specific local level all the way up to statewide and regional levels (Appendix 5). These existing programs will be the primary means for monitoring the condition, extent, and status of wildlife habitats identified in this SWAP. Data from these programs are collected and reported to the relevant wildlife managers at the state and federal level, in order to provide information that can be used for adaptively managing these important wildlife habitats.</p><p>Because the habitat monitoring programs have been designed for different purposes and may track different attributes of individual sites or ecological communities, the existing habitat monitoring programs in Delaware may not all be reporting similar types of data for all habitats that are being tracked in the state.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Important Data Gaps in Delaware</head><p>Although limited resources prevent the monitoring of a significant number of the aspects of the natural or human environment relevant to fish and wildlife conservation efforts, it is possible to identify high-priority target areas where additional data would be helpful for developing management prescriptions for fish and wildlife species and their habitats. Chapter 1 and Chapter 4 both include the high priority data gaps identified by taxa experts, planners, and stakeholders through the DEWAP review process. Examples include taxa such as invertebrates, small mammals and fresh water nongame fish where baseline data do not exist to form the basis of a monitoring protocol. DNREC plans to work with partners to develop monitoring programs to address these gaps including species, taxa, habitat and community-level monitoring. This will be an important step towards providing wildlife managers in Delaware with the information they need. The timeliest measures of success are those that directly monitor the rate of plan implementation, but the degree to which partners integrate SGCN, key habitats and conservation actions into their plans and programs is just as important as a SWAP performance measure. To that end, each partner will receive the final DEWAP with the request that they incorporate its species and habitats into their programs and coordinate with DNREC DFW to implement appropriate conservation actions.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Effectiveness of Conservation Actions</head><p>The purpose of tracking effectiveness measures is to obtain the information needed to adaptively manage fish and wildlife species and habitats in the state. Delaware is committed to an adaptive management approach to fish and wildlife conservation. The next sections of this chapter describe a conceptual model for the DEWAP, with corresponding results chains, and illustrate how the SWG effectiveness measures function within an adaptive management context. The effectiveness of conservation actions described in this plan will be measured using a set of standardized effectiveness measures that have been developed by AFWA and described in their 2011 Measuring the Effectiveness of State Wildlife Grants Final Report <ref type="bibr">(AFWA 2011)</ref>.</p><p>Actual values for these measures will be entered into the USFWS Wildlife TRACS database, and comparisons of the values of these measures over time will be used to establish the degree of effectiveness of individual projects as well as broader conservation programs. Terms and standard definitions are derived from <ref type="bibr" target="#b10">Margoluis and Salafsky (1998)</ref> and <ref type="bibr" target="#b18">Salafsky et al. (2008)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conceptual Model for the Delaware Wildlife Action Plan</head><p>Conceptual models are at the heart of adaptive management approaches for species and habitat elements. Arrows between actions and issues show that the action is intended to remediate or ameliorate the issue. Arrows between issues and targets show that the issue affects that target.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Figure 5. 2 Conceptual Model Showing Linkages between SWAP Elements</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>From Conceptual Model to Results Chains</head><p>The conceptual model in Figure <ref type="figure" target="#fig_0">5</ref>.2 can be used to construct a set of results chains for each of the different conservation actions in the yellow hexagons. A results chain shows the logical linkages between a conservation action and the target that is the intended beneficiary of that action (Figure <ref type="figure" target="#fig_0">5</ref>.3). Results chains also include issues, in cases when the conservation action is intended to reduce a specific issue, and may also include intermediate outcomes between the action and its intended benefits to the target. DNREC DFW and its partners will develop project-specific results chains for the individual conservation actions that are selected for implementation. At the same time, the state will be using existing results chains that have been developed by NEAFWA and AFWA to identify potential indicators and effectiveness measures for the categories of conservation actions in the conceptual model above.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results Chains and Effectiveness Measures for Conservation Actions</head><p>Results chains were originally developed as tools for developing an individual conservation project. It is also possible to develop generalized results chains that show the relationships between the basic classes of elements (e.g., actions, issues, outcomes, and targets) for particular types or classes of conservation projects. These generalized results chains can be very helpful in identifying indicators and measures that can be used to track progress towards conservation goals across a broader suite of similar projects. If projects are tracked using identical or compatible indicators and measures, the information about project accomplishments can then be "rolled up" across the suite of projects in order to report broader progress to funding agencies and the general public. Scenario: Delaware Shorebird Project -Data Collection</p><p>The following example describes a proposed approach for Delaware's framework for monitoring and effectiveness measures. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>The Delaware Shorebird Project</head><p>The Delaware Shorebird Project is a team of scientists, local volunteers, researchers, and bird watchers working to mitigate issues to shorebirds. Since 1997, they have researched the populations of migratory shorebirds and conducted horseshoe crab egg surveys as the primary food source for shorebirds in Delaware</p><p>Bay. Their research contributes to an international network that supports and directs shorebird habitat protection and management plans (e.g., the Northern Atlantic Regional Shorebird Plan). Survey results are used to help support local and regional management efforts for both shorebirds and horseshoe crabs with key audiences including the adjacent state fish and wildlife agencies, USFWS, National Marine Fisheries Service, and Atlantic States Marine Fisheries Commission.</p><p>To collect and report data on shorebirds in Delaware Bay, managers use surveys and reporting to make informed management decisions. For this conservation action, an example basic results chain (Figure <ref type="figure" target="#fig_0">5</ref>.5) has been developed.</p><p>The diagram shows the logical connections between the four basic conservation elements: action, objectives, issues, and targets (species and/or habitats). In this case, these elements are defined as follows:</p><p>• Action: Use surveys to gather data on Delaware Bay shorebird species and report results to relevant partners;</p><p>• Objective: To make informed decisions that support shorebird populations;</p><p>• Issue: Management may not address needs of shorebird species; and</p><p>• Target: Species -shorebirds.</p><p>For each element in the results chain, an indicator and a method or measure by which that indicator will be tracked is identified. The AFWS's 2011 report on Effectiveness Measures for State Wildlife Grants classifies surveys as a "Data Collection and Analysis." Recommended indicators and performance measures for projects that involve Data Collection and Analysis include the following:</p><p>• Evidence that clear management needs and outcomes have been identified with input from relevant data users;</p><p>• Evidence that the researcher clearly provides answers to relevant questions;</p><p>• Evidence that data are reaching relevant audiences;</p><p>• Evidence that data collection effort resulted in conservation action recommendations; and</p><p>• Evidence data are being used to inform conservation actions.</p><p>For the specific management action (shorebird surveys and reporting), the indicator "percent of Information and Data Collection Actions in which researcher provided relevant answers to questions," will be measured by tracking the reports of annual shorebird surveys completed within one year of survey completion. The data collected include shorebird survivorship and horseshoe egg surveys. This information is very relevant and providing it in a timely manner will help ensure that management decisions will have the information to manage species based on annual fluctuations.</p><p>For the objective (Informed Decisions), the indicator "data collection efforts in which data are reaching relevant audiences" will be measured by tracking the number of data requests by year and audience.</p><p>For the issue (Management addresses needs of shorebird species), the indicator "percent of Information and Data Collection Actions that resulted in recommendations" will be measured by tracking the percent of shorebird management plans that cite the shorebird survey. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>5-17</head><p>For the targets (shorebird species), the indicator population estimates of shorebirds using the red knot as an example can be measured.</p><p>To implement and track these indicators, managers will need to record basic information about the indicators in the DEWAP database including: the description of a specific measure for the indicator, the values of that measure in 2015 and 2025, the units for the measure, and the name of any monitoring</p><p>program that provides data on that measure and indicator. Data from the database can also be reported to the USFWS, using the Wildlife TRACS database to record progress towards achievement of conservation objectives as individual projects are completed.</p><p>In Based on these charts, this would appear to be a successful data collection action. These charts illustrate one way to track project effectiveness over time for this example project.</p><p>Scenario: Habitat Management for Breeding Amphibians</p><p>An example using the spotted salamander is used her to illustrate the proposed approach for Delaware's framework for monitoring and effectiveness measures. Nature Society, and private land owners.</p><p>In this example, DNREC DFW, NRCS, and private land managers identify the following specific conservation action: plant riparian buffers to improve water quality, to help make the habitat more suitable for breeding amphibians. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>5-19</head><p>For this action, an example basic results chain (Figure <ref type="figure" target="#fig_0">5</ref>.8) is developed that shows the logical connections between the four basic conservation elements: action, objectives, issues, and targets (species and habitats).</p><p>In this case, these elements are defined as follows:</p><p>• Action: Plant riparian buffers by planting vegetation along coastal ponds;</p><p>• Objective: Restore riparian buffers to improve water quality in support of breeding amphibian populations;</p><p>• Issue: Nitrates from land uses near the ponds result in poor water quality; and</p><p>• Targets: Habitat-coastal ponds, Species-breeding amphibians.</p><p>For each element in the results chain, an indicator and a method or measure by which that indicator will be tracked is identified.</p><p>AFWA's 2011 report on effectiveness measures for SWGs classifies restoring riparian buffers as a "Direct Management of Natural Resources." Recommended indicators and performance measures for projects that involve Direct Management of Natural Resources include the following:</p><p>• Percent management actions implemented as planned;</p><p>• Evidence that direct management action is reducing key issues;</p><p>• Degree to which target SGCNs respond as expected from direct management actions;</p><p>• Degree to which target habitats/processes respond as expected from direct management actions;</p><p>• Species measures (e.g., population size, reproductive success); and</p><p>• Habitat Measures (e.g., size, condition).</p><p>For the specific management action (vegetation planting), the indicator "ponds that have received riparian buffer restoration," will be measured by tracking the number of ponds that are subjected to vegetation planting each year.</p><p>For the objective (restoration of riparian buffer), the indicator "ponds that have sufficient riparian buffer," will be measured by tracking the ponds meeting certain vegetation requirements (NRCS 2015). For the issue (poor water quality -nitrate levels), the indicator "average nitrate levels of ponds" will be measured by tracking water quality through DNREC's Ambient Surface Water Quality Monitoring Program, Delaware Center for Inlands Bays, and Delaware Nature Society monitoring efforts.</p><p>For the targets (coastal ponds), the indicators "number of ponds with breeding amphibian populations" and "ponds with high quality coastal pond habitat" can be measured. The indicator for the breeding amphibian populations will be measured using egg mass surveys. High quality riparian habitat will be tracked by the same measures used to track habitat condition (Chapter 4).</p><p>To implement and track these indicators, managers will record basic information about these indicators including: the description of a specific measure for the indicator, the values of that measure in 2015 and 2025, the units for the measure, and the name of any monitoring program that provides data on that measure and indicator. Data can also be reported to the USFWS, using the Wildlife TRACS database to record progress towards achievement of conservation objectives as individual projects are completed.</p><p>In 2025, the basic results chain shown above and a chart or diagram will show how the values of each indicator for the chain have changed over the years since the project was implemented. The following charts (Figure <ref type="figure" target="#fig_0">5</ref>.9) are provided as examples of how these data might be presented in the 2025 DEWAP.These four charts graphically illustrate progress towards the conservation goals for coastal pond riparian habitats and the breeding amphibian populations. By restoring riparian buffers for a relatively small number of ponds each year, the water quality greatly improves (decreases nitrate levels) over ten years, and the number of ponds with high quality riparian habitat is increased. The number of ponds occupied by breeding amphibians also increases over time, demonstrating progress towards the overall goal of conserving this suite of species in the state. Based on these charts, this would appear to be a successful conservation management action.</p><p>These charts illustrate one way to track and report project effectiveness over time for this example project.  </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Adaptive Management Cycle</head><p>Delaware is committed to an adaptive management approach to fish and wildlife conservation and will track effectiveness measures in order to obtain the information necessary to do so. Adaptive management of SGCN, key habitats, and conservation issues will be facilitated primarily through regular progress reviews by the Core Team (Figure <ref type="figure" target="#fig_0">5</ref>.10). This process can be visualized as follows:</p><p>Implementation performance indicators for measuring success are shown in Table <ref type="table" target="#tab_0">5</ref>.2, which is organized by the DEWAP's Guiding Principles for Conservation Actions. Once a decision support application is in place, information on all of these indicators may be collected initially. However, it is anticipated that, with experience, a subset will be selected that best measures the effectiveness of the plan as a whole.   The next section describes the process that Delaware will use to review, revise, and update the plan and address Element 6. Delaware will use the annual performance report requirement for SWG funded projects as a basis for an annual assessment toward achieving DEWAP objectives. The section also addresses the coordination with partners' monitoring efforts both during the 2015 revision process and the approach to be taken over the next 10-year implementation period.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>DEWAP Review and Revision (Element 6)</head><p>The DEWAP will be periodically reviewed and revised according to the development and implementation timeframes of DNREC DFW and partners scheduled programs and updates (Element 6). This will be necessary as the monitoring components discussed in this chapter contribute to the adaptive management of this plan. Interim sections will be reviewed and revised throughout the 10-year period with a full revision completed in 10 years.</p><p>The Federal Grant Agreement reporting process, now including TRACS, offers an effective way to review and revise the accomplishments of the DEWAP. Since this is an existing DNREC process, it will assist in the DEWAP database updates and project reporting. Federal USFWS grants require use of the TRACS reporting system, so DEWAP actions and performance measures are coded to TRACS, thus facilitating project reporting and updating of the database. Annual coordination with partners will provide their accomplishment information, which can also be recorded in the database as the Northeast Template is being used and there are fields to capture all this information.</p><p>As data gaps are filled, new ones will be identified. The resulting increases in scientific knowledge on which this DEWAP is based will keep it as up-to-date as possible. The plan is predicated upon the changing state of knowledge and is recognized as a dynamic document. Successful implementation of conservation measures and reduction in the threats facing the SGCN and key habitats will allow DNREC DFW and its partners to be able to make better, informed management decisions and maintain efficient use of limited funding and staffing resources. The many operational, conservation and management plans already in existence provide opportunities to regularly review and revise the DEWAP within the current DNREC administrative framework.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>DEWAP Review Process Adaptive Management</head><p>Many of the existing conservation and management plans in Delaware are adaptive in nature and have regularly scheduled reviews. The need to revisit conservation plans periodically, updating them to reflect new information, additional programs, and changing conditions is also recognized by several international, national, and regional management plans. In addition to the plans and programs listed in Appendices 1 and 5, Table <ref type="table" target="#tab_0">5</ref>.3 outlines the plan review schedules for some of the key plans that will be targeted for DEWAP information incorporation into their revisions, just as revision of these plans will be incorporated into the DEWAP review and revision process. While the evaluation of conservation actions will continue annually through annual project reporting in TRACS and Federal Aid reports, and as new information becomes available, the DEWAP document will be amended as needed and revised every ten years. A 5-year review and evaluation schedule is the most common timeframe for existing management plans in Delaware, and Federal Assistance (Application for Federal Assistance-AFA) paperwork is also consistent with those plans (Table <ref type="table" target="#tab_0">5</ref>.3). This 10-year revision will incorporate all annual, biannual, and 5-year review and evaluation information and updates so that the 10year revision will not be a total rewriting, but an incremental and iterative review and revision process incorporating new information on a regular basis. Annual federal assistance reports will provide new information from SWG and other Federal Aid projects that will be entered into TRACS, the DEWAP database, and GIS spatial data coverage in order to capture and update the annual accomplishments, changes in SGCN and key habitat status, and the effectiveness of actions. DNREC DFW staff and technical committees will assess the status of SGCN and key habitats as new data are entered annually or at the end of these projects. This 10-year revision schedule will be long enough to be practical in terms of CHAPTER 5: Monitoring, Review and Revision 5-29 administrative loads but short enough to be responsive to changing conditions, monitoring and research results, and adaptive management revisions.</p><p>A comprehensive review of the entire DEWAP and creation of a new updated document will be completed in 2025. Input from conservation partners and the public will be sought using methods similar to those used in the development of the DEWAP.</p><p>In summary, the DEWAP evaluation, review and revision schedule will have the following benchmarks:</p><p>• Annual reporting for SWG and other Federal Aid grant requirements and product delivery through </p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>FiguresFigure 5</head><label>5</label><figDesc>Figures</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Figure 5 . 2</head><label>52</label><figDesc>Figure 5. 2 Conceptual Model Showing Linkages between SWAP Elements ..................................................</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Figure 5 . 3</head><label>53</label><figDesc>Figure 5. 3 Sample Results Chain Showing the Linkages between these Basic Elements ..............................</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>Figure 5 . 4</head><label>54</label><figDesc>Figure 5. 4 Red knots, Mispillion Harbor, DE. Photo: Gregory Breese/USFWS ..............................................</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head>Figure 5 . 5</head><label>55</label><figDesc>Figure 5. 5 Results chain for shorebird data collection and reporting ............................................................</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_5"><head>Figure 5 . 6</head><label>56</label><figDesc>Figure 5. 6 Example data to show the impact of surveys and reporting on shorebird species conservation ....</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_6"><head>Figure 5 . 7</head><label>57</label><figDesc>Figure 5. 7 Spotted salamander (Ambystoma maculatum), Photo: USFWS and Coastal Plain seasonal pond. Photo: DNREC. ............................................................................................................................................</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_7"><head>Figure 5 . 8</head><label>58</label><figDesc>Figure 5. 8 The Logical Relationships between these Elements in the Standard Results Chain Format .........</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_8"><head>Figure 5 . 9</head><label>59</label><figDesc>Figure 5. 9 Examples of How Data Could Be Presented in the 2025 DEWAP .................................................</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_9"><head>Figure 5 .</head><label>5</label><figDesc>Figure 5. 10 Adaptive Management Strategy Flow Chart .............................................................................</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_10"><head></head><label></label><figDesc>black rail, odonates (dragonflies and damselflies), shrubland birds (McDowell 2011), terrestrial and aquatic habitats (Gawler 2008 and Olivero and Anderson. 2008 ), and frogs. Detailed avian indicators have also been developed for assessing the magnitude of issues and the effectiveness of conservation measures (Northeast Coordinated Bird Monitoring Partnership 2007</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_11"><head>Figure 5 . 1</head><label>51</label><figDesc>Figure 5. 1 Delaware Shorebird Project, banded red knot and bird count surveyor. Photo: DNREC DFW</figDesc><graphic coords="11,340.80,72.00,195.58,216.00" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_12"><head></head><label></label><figDesc>conservation. Although there are many different kinds of conceptual models, Margoluis and Salafsky (1998) introduced a simple form of box-and-arrow diagram that shows causal linkages between the basic conservation elements for an individual project, including targets, threats, and conservation actions. The conceptual model for the DEWAP shown in Figure 5.2 illustrates the linkages between the core plan elements, including species and habitats, issues, and actions. This conceptual model is intended to be a generalized representation of the interactions between the plan elements. Not all of the issues and actions shown in the diagram will apply to every species or habitat. What the diagram shows is the set of possible issues and actions that could affect a particular species or habitat. Conservation actions are shown in yellow hexagons; issues or information needs are shown in lavender boxes, and targets are shown in blue ovals. Arrows indicate the logical causal linkages between the CHAPTER 5: Monitoring, Review and Revision 5-13</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_13"><head>Figure 5 . 3</head><label>53</label><figDesc>Figure 5. 3 Sample Results Chain Showing the Linkages between these Basic ElementsFully developed results chains also incorporate indicators for each of the individual elements (e.g., action, issue, outcome, and target). A specific measure is then identified for each indicator, showing exactly how that indicator will be measured over time. Data from existing monitoring programs can be used to track the values of these measures. Reviewing data from monitoring programs can help managers adjust their management prescriptions and adaptively manage wildlife species and their habitats.</figDesc><graphic coords="14,73.56,179.64,467.56,75.97" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_14"><head></head><label></label><figDesc>NEAFWA and AFWA have both developed sets of generalized results chains for common conservation actions described in the SWAPs. The AFWA report on SWG Effectiveness Measures (AFWA 2011) also included a set of recommended indicators for each of a set of generalized results chains. Because these indicators are intended to track progress on conservation projects, they are also known as "effectiveness measures" or "performance measures." Effectiveness measures will be tracked by DNREC DFW for particular classes of conservation actions. These effectiveness measures have been developed by the AFWA SWG CHAPTER 5: Monitoring, Review and Revision5-15Effectiveness Measures Working Group (AFWA 2011) and will be reported and tracked as part of the State of Delaware's regular reporting to the USFWS via the Wildlife TRACS database.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_15"><head>Figure 5 . 4</head><label>54</label><figDesc>Figure 5. 4 Red knots, Mispillion Harbor, DE. Photo: Gregory Breese/USFWS Each spring, hundreds of thousands of shorebirds (Figure 5.4) stop along on the shores of the Delaware Bay.The Bay is an integral rest stop for shorebirds that have traveled thousands of miles. They stop here to eat vast numbers of protein-packed horseshoe crab eggs. This provides the energy they need to continue on their journey to the breeding grounds in the Canadian Arctic. Due to various issues, the numbers of migratory shorebirds stopping in Delaware Bay have declined dramatically.</figDesc><graphic coords="15,72.00,173.64,423.96,164.09" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_16"><head>Figure 5 . 5</head><label>55</label><figDesc>Figure 5. 5 Results chain for shorebird data collection and reporting</figDesc><graphic coords="16,73.56,72.00,467.64,74.52" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_17"><head></head><label></label><figDesc>Figure 5. 6 Example data to show the impact of surveys and reporting on shorebird species conservation</figDesc><graphic coords="17,317.52,470.28,231.36,140.64" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_18"><head></head><label></label><figDesc>Several SGCN amphibians (spotted salamander (Figure 5.7), four-toed salamander, Cope's gray treefrog, Eastern spadefoot, tiger salamander, and barking treefrog) use Coastal Plain seasonal ponds to breed. Many of these ponds are threatened by degraded water quality with the loss of riparian buffers and no longer support breeding amphibians. A statewide analysis of Coastal Plain ponds found that about 25% of pond habitat is surrounded half or less by a forested buffer adequate for the conservation of typical pond-breeding salamanders; less than 20% is completely surrounded by such a buffer. Priority conservation actions that have been identified to improve the conservation of breeding amphibians and their aquatic habitat include: (1) support implementation of more natural flow regimes and full compliance with water quality standards; (2) improve water and habitat quality by supporting riparian habitat restoration projects; and (3) preserve adjacent contiguous forested habitats. Key partners to implement these conservation actions include the USFWS, Natural Resources Conservation Service (NRCS), DNREC's Ambient Surface Water Quality Monitoring Program, Delaware Center for Inlands Bays, Delaware</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_19"><head>Figure 5 . 7</head><label>57</label><figDesc>Figure 5. 7 Spotted salamander (Ambystoma maculatum), Photo: USFWS and Coastal Plain seasonal pond. Photo: DNREC.</figDesc><graphic coords="18,315.24,202.56,180.48,157.08" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_20"><head></head><label></label><figDesc>Figure 5. 8 The Logical Relationships between these Elements in the Standard Results Chain Format</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_21"><head>CHAPTER 5 :</head><label>5</label><figDesc>Monitoring, This adaptive management approach will allow DNREC DFW to not only quantify these performance measures, but to compare the results of the species monitoring to infer whether the conservation actions are improving the breeding amphibian populations each year. If breeding amphibians show no significant improvement, then the conservation actions can be modified to intensify habitat protection measures, or target key areas and cooperative projects with partners. Tracking indicators and effectiveness measures will put Delaware in an excellent position to show the effectiveness of DEWAP implementation efforts in the future.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_22"><head>Figure 5 . 9</head><label>59</label><figDesc>Figure 5. 9 Examples of How Data Could Be Presented in the 2025 DEWAP</figDesc><graphic coords="21,301.20,258.48,229.44,210.72" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_23"><head></head><label></label><figDesc>Implementation performance indicators are measures of overall plan success, and validation indicators are applied across all conservation actions. On the other hand, effectiveness indicators are specific to individual actions, and will be developed as actions are employed; a few examples of these are detailed in Table 5.2. Also, any indicator may require modification over time, or additional indicators may need development if entirely new conservation actions arise as part of an adaptive management approach.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_24"><head>Figure 5 .</head><label>5</label><figDesc>Figure 5. 10 Adaptive Management Strategy Flow Chart</figDesc><graphic coords="22,72.36,165.72,432.00,324.00" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_26"><head>TRACS••</head><label></label><figDesc>Annual input and incorporation of data and GIS to DNREC and partner databases • Annual tracking of species and habitat status (DNREC DFW data programs and GIS) • Annual incorporation and updates with priority WAP Conservation Actions into DNREC programs' plans • Every five years: status review of SGCN • Every five years: implementation and review of DEWAP through multiple partners plans' revisions and incorporations Every five years: AFA project review and reporting • Monitoring and evaluation review at multiple time and geospatial scales according to DNREC • Complete revision in 10 years, incorporating the above interim updates/reviews of identified sections</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 5 .</head><label>5</label><figDesc>1 List of Northeast Conservation Targets and Proposed Indicators. Source: NEAFWA 2008 ............. Table 5. 2 Guiding Principles and Performance Indicators for Conservation Actions ..................................... Table 5. 3 Review Schedule for Existing Conservation and Management Plans ............................................</figDesc><table /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 5 . 1 List of Northeast Conservation Targets and Proposed Indicators. Source</head><label>5</label><figDesc></figDesc><table><row><cell>: NEAFWA 2008</cell></row></table><note><p>http://wsfrprograms.fws.gov/Subpages/TRACS/TRACS.html.</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 5 . 2 Guiding Principles and Performance Indicators for Conservation Actions Guiding Principle for Conservation Actions Implementation Performance Indicators Management on Conservation Lands</head><label>5</label><figDesc></figDesc><table><row><cell>-Direct</cell><cell></cell></row><row><cell>management in state wildlife areas -and state</cell><cell>• # of acres/miles of viable key habitats</cell></row><row><cell>parks and state forests in keeping with their</cell><cell>protected or restored in managed areas in GI</cell></row><row><cell>primary missions -towards key habitats and</cell><cell>Natural Resources Focus Area</cell></row><row><cell>SGCN in the Green Infrastructure (GI) Natural</cell><cell>• # of managed area plans incorporating</cell></row><row><cell>Resources Focus Area, in order to protect and</cell><cell>conservation actions in GI Natural Resources</cell></row><row><cell>restore habitats and species, and to abate the</cell><cell>Focus Area</cell></row><row><cell>impacts of conservation issues. Encourage</cell><cell>• Response of targeted SGCN or Key Habitat</cell></row><row><cell>Federal and NGO land managers to focus on this</cell><cell>to management actions</cell></row><row><cell>same objective.</cell><cell></cell></row><row><cell></cell><cell>• # of landowners enrolled in conservation</cell></row><row><cell></cell><cell>programs in GI Natural Resources Focus</cell></row><row><cell>Management on Private Lands -Direct private</cell><cell>Area</cell></row><row><cell>lands management towards buffering and</cell><cell>• # of acres/miles of key habitats protected or</cell></row><row><cell>connecting conservation lands in the Green</cell><cell>restored in GI Natural Resources Focus Area</cell></row><row><cell>Infrastructure Natural Resources Focus Area, and</cell><cell>• # of dollars appropriated or spent for</cell></row><row><cell>towards protecting outlying small patch habitats</cell><cell>incentive programs in GI Natural Resources</cell></row><row><cell>and SGCN.</cell><cell>Focus Area</cell></row><row><cell></cell><cell>• # of turnkey services developed</cell></row><row><cell></cell><cell>• Response of targeted SGCN or Key Habitat</cell></row><row><cell></cell><cell>to management actions</cell></row><row><cell></cell><cell>• % of conservation actions initiated or</cell></row><row><cell>Measures of Success, Monitoring, Research and</cell><cell>completed by DFW</cell></row><row><cell>Adaptive Management -Establish performance</cell><cell>• # of standardized monitoring protocols</cell></row><row><cell>indicators to measure the success of conservation</cell><cell>developed</cell></row><row><cell>actions and plan implementation. Monitor</cell><cell>• # of specific performance indicators</cell></row><row><cell>species, habitats and impacts of conservation</cell><cell>developed</cell></row><row><cell>issues, and conduct applied research, so as to</cell><cell>• # of management plans incorporating</cell></row><row><cell>facilitate adaptive management.</cell><cell>adaptive management framework</cell></row><row><cell></cell><cell>• Scorecard developed or updated</cell></row><row><cell></cell><cell>• # of spatial database applications for</cell></row><row><cell>Data Collection and Information Management</cell><cell>decision support installed or updated</cell></row><row><cell>-Collect, manage and analyze data to support</cell><cell>• # of users of decision support applications</cell></row><row><cell>wildlife diversity conservation efforts with sound</cell><cell>• # of agencies and organizations</cell></row><row><cell>science.</cell><cell>incorporating SGCN and key habitat data</cell></row><row><cell></cell><cell>into decision making</cell></row></table></figure>
+		</body>
+		<back>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<monogr>
+		<title level="m" type="main">Conservation Status of Fish, Wildlife, and Natural Habitats in the Northeast Landscape: Implementation of the Northeast Monitoring Framework. The Nature Conservancy</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">G</forename><surname>Anderson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">Olivero</forename><surname>Sheldon</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2011">2011</date>
+			<publisher>Eastern Conservation Science</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Best Practices for State Wildlife Action Plans-Voluntary Guidance to States for Revision and Implementation</title>
+		<ptr target="http://www.fishwildlife.org/files/SWAPBestPractices.pdf" />
+	</analytic>
+	<monogr>
+		<title level="m">Association of Fish and Wildlife Agencies (AFWA)</title>
+		<meeting><address><addrLine>Washington, DC</addrLine></address></meeting>
+		<imprint>
+			<publisher>Association of Fish and Wildlife Agencies</publisher>
+			<date type="published" when="2011">2011. 2012</date>
+		</imprint>
+	</monogr>
+	<note>Teaming With Wildlife Committee, State Wildlife Action Plan Best Practices Working Group</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<author>
+			<persName><forename type="first">S</forename><surname>Brown</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Hickey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Harrington</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Gill</surname></persName>
+		</author>
+		<title level="m">The United States Shorebird Conservation Plan. Manomet Center for Conservation Sciences</title>
+		<imprint>
+			<date type="published" when="2001-05">2001. May 2001 2</date>
+		</imprint>
+	</monogr>
+	<note>nd Edition</note>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<title level="m" type="main">The Northeast Lexicon: Terminology Conventions and Data Framework for State Wildlife Action Plans in the Northeast Region. A report submitted to the Northeast Fish and Wildlife Diversity Technical Committee</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Crisfield</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2013">2013</date>
+			<publisher>Terwilliger Consulting, Inc</publisher>
+			<pubPlace>Locustville, VA</pubPlace>
+		</imprint>
+	</monogr>
+	<note>and the Northeast Fish and Wildlife Diversity Technical Committee (NEFWDTC)</note>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<monogr>
+		<title level="m" type="main">SGCN Invertebrates: A database and associated website of museum specimen occurrence records for invertebrate species of greatest conservation need in the northeastern region</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">W</forename><surname>Fetzner</surname><genName>Jr</genName></persName>
+		</author>
+		<ptr target="http://iz.carnegiemnh.org/SGCNinverts/" />
+		<imprint>
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<monogr>
+		<author>
+			<persName><forename type="first">S</forename><surname>Fuller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Tur</surname></persName>
+		</author>
+		<ptr target="http://newenglandcottontail.org/sites/default/files/conservation_strategy_final_12-3-12.pdf" />
+		<title level="m">Conservation strategy for the New England cottontail</title>
+		<imprint>
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+	<note>New England Cottontail Technical Committee</note>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Report to the Virginia Department of Game and Inland Fisheries on behalf of the Northeast Association of Fish and Wildlife Agencies and the National Fish and Wildlife Foundation</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">C</forename><surname>Gawler</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">NatureServe</title>
+		<imprint>
+			<date type="published" when="2008">2008</date>
+			<pubPlace>Boston, Massachusetts</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Northeastern Terrestrial Wildlife Habitat Classification</note>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Planning for Biodiversity Conservation: Putting Conservation Science into Practice</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">R</forename><surname>Groves</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">B</forename><surname>Jensen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">L</forename><surname>Valutis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">H</forename><surname>Redford</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Bioscience</title>
+		<imprint>
+			<biblScope unit="volume">52</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="499" to="512" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<monogr>
+		<title level="m">Adaptive environmental assessment and management</title>
+		<editor>
+			<persName><forename type="first">C</forename><forename type="middle">S</forename><surname>Holling</surname></persName>
+		</editor>
+		<meeting><address><addrLine>New York, New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>John Wiley</publisher>
+			<date type="published" when="1978">1978</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Adaptive regulation of waterfowl harvests: lessons learned and prospects for the future</title>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">A</forename><surname>Johnson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Case</surname></persName>
+		</author>
+		<ptr target="http://migratorybirds.fws.gov/reports/ahm02/johnson-case-2000.pdfCHAPTER" />
+	</analytic>
+	<monogr>
+		<title level="j">Transactions of the North American Wildlife and Natural Resource Conference</title>
+		<imprint>
+			<biblScope unit="volume">65</biblScope>
+			<biblScope unit="page" from="5" to="31" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+	<note>Monitoring, Review and Revision</note>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<monogr>
+		<title level="m" type="main">Measures of Success: Designing, Managing, and Monitoring Conservation and Development Projects</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Margoluis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Salafsky</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1998">1998</date>
+			<publisher>Island Press</publisher>
+			<pubPlace>Washington, DC, USA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Restoration of Shrubland Bird Habitat in the Northern Appalachian Mountain Bird Conservation Region. Wildlife Management Institute. Natural Resources Conservation Service (NRCS)</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Mcdowell</surname></persName>
+		</author>
+		<ptr target="http://www.nrcs.usda.gov/wps/portal/nrcs/detailfull/national/landuse/forestry/sustain/guidance/?cid=nrcsdev11_009302" />
+	</analytic>
+	<monogr>
+		<title level="m">Guidance on Forested Riparian Buffers</title>
+		<imprint>
+			<date type="published" when="2011">2011. 2015. April 2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Monitoring the Conservation of Fish and Wildlife in the Northeast</title>
+		<ptr target="http://www.nebirdmonitor.org/framework" />
+	</analytic>
+	<monogr>
+		<title level="m">NE%20Monitoring%20and%20Performance%20Reporti ng%20Framework.pdf Northeast Coordinated Bird Monitoring Partnership. 2007. A Framework for Coordinated Bird Monitoring in the Northeast. Northeast Coordinated Bird Monitoring Partnership Report</title>
+		<imprint>
+			<publisher>Northeast Association of Fish and Wildlife Agencies (NEAFWA)</publisher>
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Guidelines for long-term monitoring protocols</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">L</forename><surname>Oakley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">P</forename><surname>Thomas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">G</forename><surname>Fancy</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Wildlife Society Bulletin</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="page" from="1000" to="1003" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Northeast Aquatic Habitat Classification System. Submitted to the Regional Conservation Needs Grants Program of the Northeast Association of Fish and Wildlife Agencies. The Nature Conservancy</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Olivero</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Anderson</surname></persName>
+		</author>
+		<ptr target="http://www.pewoceans.org" />
+	</analytic>
+	<monogr>
+		<title level="m">Eastern Conservation Science</title>
+		<meeting><address><addrLine>Arlington, Virginia</addrLine></address></meeting>
+		<imprint>
+			<publisher>Pew Oceans Commission</publisher>
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+	<note>habitat-classification-project Pew Oceans Commission. 2003. America&apos;s living oceans: charting a course for sea change. A report to the nation, recommendations for a new ocean policy</note>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<monogr>
+		<title level="m" type="main">Adaptive management: a tool for conservation practitioners. The Biodiversity Support Program</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Salafsky</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Margoluis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Redford</surname></persName>
+		</author>
+		<ptr target="http://www.bsponline.org/bsp/publications/aam/112/titlepage.htm" />
+		<imprint>
+			<date type="published" when="2001">2001</date>
+			<publisher>World Wildlife Fund, Inc</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Improving the practice of conservation: a conceptual framework and research agenda for conservation science</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Salafsky</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Margoluis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">H</forename><surname>Redford</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">G</forename><surname>Robinson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Conservation Biology</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page" from="1469" to="1479" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<monogr>
+		<title level="m" type="main">Conventions for defining, naming, measuring, combining, and mapping threats in conservation: an initial proposal for a standard system. Foundations of Success, The Nature Conservancy Measures and Audit Team and Global Priorities Group</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Salafsky</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Salzer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Ervin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Boucher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Ostlie</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2003">2003</date>
+			<pubPlace>Bethesda, Maryland</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<author>
+			<persName><forename type="first">N</forename><surname>Salafsky</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Salzer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J</forename><surname>Stattersfield</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Hilton-Taylor</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">A Standard Lexicon for Biodiversity Conservation: Unified Classifications of Threats and Actions</title>
+		<imprint>
+			<date type="published" when="2008">2008</date>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="5" to="32" />
+		</imprint>
+	</monogr>
+	<note>Delaware Wildlife Action Plan</note>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">The five-S framework for site conservation: a practitioner&apos;s handbook for site conservation planning and measuring conservation success</title>
+		<author>
+			<persName><forename type="first">)</forename><surname>Tnc</surname></persName>
+		</author>
+		<ptr target="http://www.fws.gov/refuges/policiesandbudget/pdfs/WritingRefugeGoals_022504.pdf" />
+	</analytic>
+	<monogr>
+		<title level="m">Writing refuge management goals and objectives: a handbook. U.S. Department of the Interior</title>
+		<meeting><address><addrLine>Arlington, Virginia; Washington, D.C</addrLine></address></meeting>
+		<imprint>
+			<publisher>The Nature Conservancy</publisher>
+			<date type="published" when="2000">2000. 2004</date>
+		</imprint>
+	</monogr>
+	<note>United States Fish and Wildlife Service (USFWS)</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>
+

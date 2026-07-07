@@ -1,0 +1,823 @@
+{
+  "document_meta": {
+    "title": "Wyoming State Wildlife Action Plan 2017",
+    "year": 2017,
+    "jurisdiction": "Wyoming",
+    "document_type": "SWAP",
+    "document_id": "WY_SWAP_2017",
+    "page_count": 1692
+  },
+  "orientation": {
+    "summary": "Wyoming's 2017 State Wildlife Action Plan (SWAP) is a comprehensive conservation strategy for the Wyoming Game and Fish Department, covering 229 Species of Greatest Conservation Need (SGCN) across all major taxa and 11 terrestrial habitat types plus 6 aquatic basins. The document engages substantively with climate change as one of five leading conservation challenges, dedicating a full chapter to climate threats, vulnerability assessment, and adaptation recommendations. It explicitly references range shifts in the context of species with limited dispersal, boreo-alpine species, and generalist vs. specialist vulnerability, and discusses connectivity, refugia, and climate corridors as management strategies. The plan incorporates results from an applied vulnerability analysis (Pocewicz et al. 2014) covering exposure, sensitivity, and resilience for Wyoming's SGCN and 11 terrestrial habitat types, and references climate modeling tools (GCMs, NARCCAP, bioclimatic/niche models). Analysis is largely synthesized from existing work rather than new modeling, with extensive species accounts and habitat sections referencing climate impacts.",
+    "evidence_index": [
+      {
+        "text": "Vulnerability was investigated by evaluating each species' potential exposure and sensitivity to these threats. Research results are found within the Leading Conservation Challenges sections on energy development, rural development, and climate change, as well as within all terrestrial habitat chapters.",
+        "location": "Activities since the 2010 State Wildlife Action Plan – Vulnerability Analysis section",
+        "relevant_elements": ["1.1", "2.1"]
+      },
+      {
+        "text": "The Wyoming Chapter of the Nature Conservancy, WYNDD, and WGFD completed research evaluating the vulnerability of Wyoming 2010 SGCN and the 11 SWAP terrestrial habitat types to climate change, residential development, energy development, and wildlife disease, as well as cumulative vulnerability to all four of these stressors.",
+        "location": "Activities since the 2010 State Wildlife Action Plan – Vulnerability Analysis section",
+        "relevant_elements": ["1.1", "2.1"]
+      },
+      {
+        "text": "Understanding why species and ecosystems are vulnerable or potentially less resilient is a critical first step in developing effective conservation strategies. This vulnerability is based on sensitivity, exposure, and the ability to adapt.",
+        "location": "Climate Change section – Climate Change Certainties and Uncertainties",
+        "relevant_elements": ["1.1", "1.2"]
+      },
+      {
+        "text": "Species that are endemic to a particular area may be at greater risk than those that are geographically widespread. Similarly, species with an ability to move and adjust their range with changing conditions may have more success adapting than those that are unable to disperse or are relatively sedentary.",
+        "location": "Climate Change section – Abundance and Biodiversity",
+        "relevant_elements": ["1.1", "1.2", "1.3"]
+      },
+      {
+        "text": "Boreo-alpine taxa, which are already restricted to high elevations, will have limited options for population migration/dispersal as the climate warms and becomes more arid.",
+        "location": "Climate Change section (terrestrial habitat impacts table)",
+        "relevant_elements": ["1.1", "1.3", "C2"]
+      },
+      {
+        "text": "Species that are habitat specialists or rely on specific interactions with other species, organisms, or physical aspects of the environment may be at greater risk of adverse effects of climate change than species that are more generalist in nature. Additionally, climate change has the potential to negatively impact species with low physiological tolerances to changing atmospheric, local weather, or environmental quality conditions.",
+        "location": "Climate Change section (terrestrial habitat impacts table)",
+        "relevant_elements": ["1.1", "1.3"]
+      },
+      {
+        "text": "Finally, populations of species that have low genetic diversity or that have experienced recent or ongoing declines in population size may be more vulnerable to the effects of climate change than those species that have populations that are both rich and abundant.",
+        "location": "Climate Change section (terrestrial habitat impacts table)",
+        "relevant_elements": ["1.1", "1.3"]
+      },
+      {
+        "text": "Species survival depends largely on sufficient and healthy habitat; intact critical areas, such as breeding grounds or spawning beds; and connectivity among these areas.",
+        "location": "Climate Change section – Potential Impacts of Climate Change on Habitat",
+        "relevant_elements": ["1.4", "3.5"]
+      },
+      {
+        "text": "Riparian areas may become increasingly important as corridors for species movement to more suitable habitat, refuge, and also important areas for terrestrial grazers.",
+        "location": "Climate Change section (terrestrial habitat impacts, long table excerpt)",
+        "relevant_elements": ["1.4", "C2"]
+      },
+      {
+        "text": "Increasing the overall amount and connectivity of habitat, including migration corridors, transitional areas, and refugia, is a strategy that will build ecosystem health and species resilience to a variety of stressors. Porous landscapes, or those that are easily traversed by fish and terrestrial wildlife, will allow some species to adjust to changing environmental conditions through population movement.",
+        "location": "Climate Change section – Recommendations: Habitat Management",
+        "relevant_elements": ["1.4", "4.1", "4.2"]
+      },
+      {
+        "text": "WGFD should use existing knowledge to map and prioritize wildlife corridors, transitional grounds, and refugia as an ongoing strategy to aid future management and land conservation efforts under changing climate conditions.",
+        "location": "Climate Change section – Recommendations: Habitat Management",
+        "relevant_elements": ["1.4", "4.1"]
+      },
+      {
+        "text": "Climate corridors are explicitly designed to connect habitats along a climate gradient allowing altitudinal and latitudinal range shifts.",
+        "location": "Climate Change section – Recommendations: Habitat Management",
+        "relevant_elements": ["1.4", "4.2", "C2"]
+      },
+      {
+        "text": "Bioclimatic models, also called envelope models or ecological niche models, may be used for predicting the future range and distribution of native and invasive species. Resource managers may be able to use these models to help target management strategies on focal areas where plant or animal species are most likely to survive in the future given climate constraints on the landscape.",
+        "location": "Climate Change section – Climate Change and Uncertainty Regarding Impacts on Species and Species Interactions",
+        "relevant_elements": ["2.2"]
+      },
+      {
+        "text": "The North American Regional Climate Change Assessment Program (NARCCAP) is an international partnership using regional climate models (RCMs), atmosphere-ocean general circulation models (AOGCMs), and special report emissions scenarios (SRES) to generate future climate change scenarios for the purpose of analysis, impact studies, or further downscaling. The climate scenarios that are generated model historical climate trends and project future climate trends (2041-2070) for the conterminous U.S.",
+        "location": "Climate Change section – Current Initiatives: International",
+        "relevant_elements": ["2.3"]
+      },
+      {
+        "text": "At present, General Circulation Models (GCMs) use simplified representations of Earth's oceans, atmosphere, and land surface, and the interactions among these units to help paint a broad picture of general climate patterns and trends and to make projections regarding future possibilities.",
+        "location": "Climate Change section – Climate Modeling",
+        "relevant_elements": ["2.3"]
+      },
+      {
+        "text": "NatureServe is responsible for the development of the Climate Change Vulnerability Index (CCVI), which is a tool that can be used to rank the level of vulnerability of individual species to climate change.",
+        "location": "Climate Change section – Current Initiatives: National",
+        "relevant_elements": ["2.1"]
+      },
+      {
+        "text": "The Wyoming Nature Conservancy, WYNDD, and WGFD completed research evaluating the vulnerability of Wyoming SGCN and the 11 SWAP terrestrial habitat types to climate change, residential and energy development, and wildlife disease, as well as cumulative vulnerability to all three of these stressors.",
+        "location": "Climate Change section – Recommendations: Species Management",
+        "relevant_elements": ["2.1", "1.1"]
+      },
+      {
+        "text": "CCVI scores were calculated for the 50 SGCN identified in this plan... Vulnerability is a function of a species' or habitat's exposure to changes and its resilience to those changes.",
+        "location": "Climate Change section – Recommendations: Species Management (Assess vulnerability of SGCN)",
+        "relevant_elements": ["2.1", "1.1"]
+      },
+      {
+        "text": "Evaluate the feasibility of developing approaches to model future species distribution based on multiple drivers, including climate change. Build databases and produce maps depicting future species distribution including climate as a driver as a long-term consideration.",
+        "location": "Climate Change section – Recommendations: Species Management",
+        "relevant_elements": ["2.2"]
+      },
+      {
+        "text": "Downscaled climate data and finer-scale climate models may be necessary to make appropriate species management decisions in the future.",
+        "location": "Climate Change section – Recommendations: Species Management",
+        "relevant_elements": ["2.3"]
+      },
+      {
+        "text": "Scenario planning is a strategy that allows resource managers to evaluate current goals and objectives in light of climate change and to identify management actions that will address a range of issues facing aquatic and terrestrial wildlife populations.",
+        "location": "Climate Change section – Recommended Conservation Actions",
+        "relevant_elements": ["4.5"]
+      },
+      {
+        "text": "In addition to scenario planning, adaptive management techniques may help wildlife and habitat managers deal with the uncertainty surrounding future climate conditions.",
+        "location": "Climate Change section – Recommended Conservation Actions",
+        "relevant_elements": ["4.5"]
+      },
+      {
+        "text": "Climate change may significantly impact hydrology in terms of both water quality and quantity, which could have far reaching impacts on aquatic habitat and the species that rely on that habitat. Warmer water temperatures resulting from increasing average surface temperatures decrease the oxygen saturation of the water and may negatively affect the viability of the habitat for some native aquatic species.",
+        "location": "Climate Change section – Aquatic Habitat",
+        "relevant_elements": ["3.5", "3.6"]
+      },
+      {
+        "text": "Wildfire is increasingly causing stress to mid-elevation forests as both the length of the fire season and the average area burned each year increases in the U.S. The length of the fire season has increased 78 days over the past 3 decades, and is expected to grow by an additional 2-3 weeks by 2070.",
+        "location": "Climate Change section (long table excerpt, terrestrial habitat impacts)",
+        "relevant_elements": ["3.5", "3.6"]
+      },
+      {
+        "text": "In particular, warmer surface temperatures could alter the survival and reproduction rates of some pathogens and vectors, which may currently be constrained by temperature minimums and maximums, potentially affecting the virulence and incidence of wildlife diseases like brucellosis, chronic wasting disease, whirling disease, West Nile virus, and bluetongue disease.",
+        "location": "Climate Change section – Abundance and Biodiversity",
+        "relevant_elements": ["3.6", "3.7"]
+      },
+      {
+        "text": "A warmer, more variable climate, which some predict for Wyoming, may provide a competitive advantage for cheatgrass over native plants, further facilitating its spread.",
+        "location": "Leading Conservation Challenges – Invasive Species",
+        "relevant_elements": ["3.7"]
+      },
+      {
+        "text": "Climate change and associated changes in atmospheric carbon dioxide levels, modified precipitation regimes, increased ambient temperatures, and altered nitrogen distribution is expected to intensify problems associated with invasive species.",
+        "location": "Leading Conservation Challenges – Invasive Species",
+        "relevant_elements": ["3.7"]
+      },
+      {
+        "text": "SWAP priority area maps evaluate level of habitat intactness based upon 8 habitat disturbances. Land ownership and associated level of protection is also displayed for all terrestrial habitat types.",
+        "location": "Habitats Introduction – Figure caption description",
+        "relevant_elements": ["4.1"]
+      },
+      {
+        "text": "A revised terrestrial SGCN habitat priority identification process was established to meet these goals based on four electronic map layers: 1. SGCN richness; 2. Habitat intactness; 3. Land ownership of various habitat types; 4. SWAP terrestrial habitat types. All maps are electronically available to the public individually and in combination.",
+        "location": "Activities since the 2010 SWAP – Improved Terrestrial Habitat Prioritization section",
+        "relevant_elements": ["4.1"]
+      },
+      {
+        "text": "Climate change vulnerability was calculated as exposure to climate change minus resilience to climate change... The 11 habitat types are ranked in order of increasing vulnerability to climate change.",
+        "location": "Habitats Introduction – FIGURE 3. Climate Change Habitat Vulnerability",
+        "relevant_elements": ["4.1", "1.1"]
+      },
+      {
+        "text": "Each of the five leading wildlife conservation challenges contains a section on recommended monitoring to track impacts and evaluate the success of conservation actions.",
+        "location": "Introduction – Table 2 Road Map to Required SWAP Elements",
+        "relevant_elements": ["4.3"]
+      },
+      {
+        "text": "Warmer and drier conditions, which have been predicted for Wyoming, will fundamentally alter historic disturbance regimes, especially in regards to their frequency and intensity. Greater habitat diversity associated with integrating disturbance regime principles into management practices will increase ecosystem resilience to climate change.",
+        "location": "Disruption of Historic Disturbance Regimes – Evaluating/Monitoring Success",
+        "relevant_elements": ["3.5", "4.5"]
+      },
+      {
+        "text": "The Climate Shield website hosts geospatial data and related information that describes specific locations of cold-water refuge streams for native cutthroat trout and bull trout across the American West. Predictions about the locations of refugia could enable the improve the odds of preserving native trout populations into the future.",
+        "location": "Climate Change section – Recommendations: Species Management",
+        "relevant_elements": ["4.1", "C2"]
+      },
+      {
+        "text": "If the climate becomes warmer and drier in Wyoming, as some climate modeling predicts, the distribution of some shrub species may recede from areas where growing conditions are currently marginal.",
+        "location": "Foothill Shrublands – Drought and potential climate change",
+        "relevant_elements": ["3.5", "C2"]
+      },
+      {
+        "text": "Drought and climate change -High. In recent years, there have been dramatic die-offs of aspen in a number of locations in the West including Wyoming, Colorado, and Utah. The phenomenon has been termed Sudden Aspen Decline (SAD).",
+        "location": "Aspen/Deciduous Forest – Drought and climate change threat",
+        "relevant_elements": ["3.5", "3.6"]
+      },
+      {
+        "text": "American Pika is one of the least studied bird species in the western United States... Stressors to American Pipit include climate change, natural weather events, and human disturbance. Subalpine, alpine, and arctic habitats are being altered by climate change, thereby reducing the available breeding habitat of American Pipit.",
+        "location": "American Pipit species account – Extrinsic Stressors",
+        "relevant_elements": ["1.1", "3.5", "C2"]
+      },
+      {
+        "text": "The great concern for Brown-capped Rosy-Finch is global climate change. The already limited suitable alpine tundra habitat in Wyoming and across its range may decrease in area due to global climate change.",
+        "location": "Brown-capped Rosy-Finch – Extrinsic Stressors",
+        "relevant_elements": ["1.1", "3.5"]
+      },
+      {
+        "text": "Climate change, natural weather events, and human disturbance... Subalpine, alpine, and arctic habitats are being altered by climate change, thereby reducing the available breeding habitat of American Pipit. In addition, climate change could alter alpine environments by raising the treeline elevation, which may lead to local population extinctions.",
+        "location": "American Pipit – Ecological Information Needs",
+        "relevant_elements": ["1.1", "3.5", "C2"]
+      },
+      {
+        "text": "The species' physiological limits are tested as shifting temperatures, altered hydrology, and changing seasonal cues affect survival, reproduction, and migration.",
+        "location": "Sagebrush Shrublands – implicit in habitat descriptions",
+        "relevant_elements": ["1.3"]
+      },
+      {
+        "text": "Extrinsic Stressors: Climate change is likely the single most important stressor to the American Pika... The mechanisms of how climate limits American Pika in Wyoming remain unclear.",
+        "location": "American Pika species account – Extrinsic Stressors",
+        "relevant_elements": ["1.1", "3.5"]
+      },
+      {
+        "text": "Some climate models predict that Wyoming's climate will become drier. More frequent and severe dry years could decrease the establishment of new sagebrush plants and slow or prevent recovery of sagebrush stands following fire.",
+        "location": "Sagebrush Shrublands – Drought and climate change",
+        "relevant_elements": ["3.5"]
+      },
+      {
+        "text": "Retaining the role of riparian habitats in providing travel corridors for wildlife will become an increasingly important component of effective mitigation plans for human development as well as climate change. Riparian corridors are critical to supporting the seasonal migration of wildlife and to retaining the future ability of wildlife to relocate to more suitable habitats.",
+        "location": "Riparian Areas – Recommended Conservation Actions",
+        "relevant_elements": ["1.4", "4.2", "C2"]
+      }
+    ]
+  },
+  "concepts": {
+    "climate_vulnerability": {
+      "evaluable": true,
+      "score": 3,
+      "evidence": [
+        {
+          "text": "Understanding why species and ecosystems are vulnerable or potentially less resilient is a critical first step in developing effective conservation strategies. This vulnerability is based on sensitivity, exposure, and the ability to adapt.",
+          "location": "Climate Change section – Climate Change Certainties and Uncertainties",
+          "sub_component": "both exposure and adaptive capacity",
+          "citations": []
+        },
+        {
+          "text": "Vulnerability is a function of a species' or habitat's exposure to changes and its resilience to those changes.",
+          "location": "Climate Change section – Recommendations: Species Management (Assess vulnerability of SGCN)",
+          "sub_component": "exposure",
+          "citations": ["Pocewicz et al. 2014"]
+        },
+        {
+          "text": "Species that are habitat specialists or rely on specific interactions with other species… may be at greater risk of adverse effects of climate change than species that are more generalist in nature. Additionally, climate change has the potential to negatively impact species with low physiological tolerances to changing atmospheric, local weather, or environmental quality conditions.",
+          "location": "Climate Change section (terrestrial habitat impacts table)",
+          "sub_component": "adaptive capacity",
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "adaptive_capacity_specificity": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Species with an ability to move and adjust their range with changing conditions may have more success adapting than those that are unable to disperse or are relatively sedentary. Boreo-alpine taxa, which are already restricted to high elevations, will have limited options for population migration/dispersal as the climate warms and becomes more arid.",
+          "location": "Climate Change section (terrestrial habitat impacts table)",
+          "sub_component": "movement/dispersal as adaptive capacity component",
+          "citations": []
+        },
+        {
+          "text": "Species with low adaptive capacity such as those with specialized habitat needs or limited dispersal ability face higher vulnerability to these changes.",
+          "location": "Climate Change section – Abundance and Biodiversity",
+          "sub_component": "specific components named",
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "adaptive_capacity_components": {
+      "demography": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Finally, populations of species that have low genetic diversity or that have experienced recent or ongoing declines in population size may be more vulnerable to the effects of climate change than those species that have populations that are both rich and abundant.",
+            "location": "Climate Change section (terrestrial habitat impacts table)",
+            "sub_component": null,
+            "citations": ["Midgley et al. 2002"]
+          }
+        ]
+      },
+      "distribution": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Species that are endemic to a particular area may be at greater risk than those that are geographically widespread. Similarly, species with an ability to move and adjust their range with changing conditions may have more success adapting.",
+            "location": "Climate Change section – Abundance and Biodiversity",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "movement": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Boreo-alpine taxa, which are already restricted to high elevations, will have limited options for population migration/dispersal as the climate warms and becomes more arid.",
+            "location": "Climate Change section (terrestrial habitat impacts table)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "evolutionary_potential": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Finally, populations of species that have low genetic diversity or that have experienced recent or ongoing declines in population size may be more vulnerable to the effects of climate change than those species that have populations that are both rich and abundant.",
+            "location": "Climate Change section (terrestrial habitat impacts table)",
+            "sub_component": null,
+            "citations": ["Midgley et al. 2002"]
+          }
+        ]
+      },
+      "ecological_dependencies": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Species that are habitat specialists or rely on specific interactions with other species, organisms, or physical aspects of the environment may be at greater risk of adverse effects of climate change than species that are more generalist in nature.",
+            "location": "Climate Change section (terrestrial habitat impacts table)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "abiotic_niche": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Additionally, climate change has the potential to negatively impact species with low physiological tolerances to changing atmospheric, local weather, or environmental quality conditions.",
+            "location": "Climate Change section (terrestrial habitat impacts table)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "life_history": {
+        "present": false,
+        "evidence": []
+      }
+    },
+    "connectivity": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Climate corridors are explicitly designed to connect habitats along a climate gradient allowing altitudinal and latitudinal range shifts.",
+          "location": "Climate Change section – Recommendations: Habitat Management",
+          "sub_component": "climate connectivity",
+          "citations": []
+        },
+        {
+          "text": "Riparian areas may become increasingly important as corridors for species movement to more suitable habitat, refuge, and also important areas for terrestrial grazers.",
+          "location": "Climate Change section (terrestrial habitat impacts table)",
+          "sub_component": "climate-relevant connectivity",
+          "citations": ["Western Governors' Association 2008"]
+        },
+        {
+          "text": "Retaining the role of riparian habitats in providing travel corridors for wildlife will become an increasingly important component of effective mitigation plans for human development as well as climate change. Riparian corridors are critical to supporting the seasonal migration of wildlife and to retaining the future ability of wildlife to relocate to more suitable habitats.",
+          "location": "Riparian Areas – Recommended Conservation Actions",
+          "sub_component": "climate connectivity",
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    }
+  },
+  "tools": {
+    "vulnerability_models": {
+      "evaluable": true,
+      "score": 2,
+      "named_tools": ["CCVI", "NatureServe CCVI"],
+      "evidence": [
+        {
+          "text": "The Wyoming Chapter of the Nature Conservancy, WYNDD, and WGFD completed research evaluating the vulnerability of Wyoming 2010 SGCN and the 11 SWAP terrestrial habitat types to climate change, residential development, energy development, and wildlife disease, as well as cumulative vulnerability to all four of these stressors.",
+          "location": "Activities since the 2010 SWAP – Vulnerability Analysis section",
+          "sub_component": null,
+          "citations": ["Pocewicz et al. 2014"]
+        },
+        {
+          "text": "NatureServe is responsible for the development of the Climate Change Vulnerability Index (CCVI), which is a tool that can be used to rank the level of vulnerability of individual species to climate change.",
+          "location": "Climate Change section – Current Initiatives: National",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Research results give an indication of which species and taxonomic groups are potentially vulnerable to climate change, as well as helps to direct future research to address information gaps.",
+          "location": "Climate Change section – Recommendations: Species Management",
+          "sub_component": null,
+          "citations": ["Pocewicz et al. 2014"]
+        }
+      ],
+      "absence_note": {}
+    },
+    "niche_models": {
+      "evaluable": true,
+      "score": 1,
+      "named_tools": ["bioclimatic models", "envelope models", "ecological niche models"],
+      "evidence": [
+        {
+          "text": "Bioclimatic models, also called envelope models or ecological niche models, may be used for predicting the future range and distribution of native and invasive species. Resource managers may be able to use these models to help target management strategies on focal areas where plant or animal species are most likely to survive in the future given climate constraints on the landscape.",
+          "location": "Climate Change section – Climate Change and Uncertainty Regarding Impacts on Species",
+          "sub_component": null,
+          "citations": ["Jeschke and Strayer 2008", "Bradley 2010"]
+        }
+      ],
+      "absence_note": "The document references niche/bioclimatic models generally as tools that 'may be used' and recommends their development for SGCN, but does not describe them as having been applied to Wyoming focal species in producing this plan."
+    },
+    "climate_models": {
+      "evaluable": true,
+      "score": 2,
+      "named_tools": ["GCMs", "NARCCAP", "AOGCMs", "RCMs"],
+      "evidence": [
+        {
+          "text": "The North American Regional Climate Change Assessment Program (NARCCAP) is an international partnership using regional climate models (RCMs), atmosphere-ocean general circulation models (AOGCMs), and special report emissions scenarios (SRES) to generate future climate change scenarios for the purpose of analysis, impact studies, or further downscaling. The climate scenarios that are generated model historical climate trends and project future climate trends (2041-2070) for the conterminous U.S.",
+          "location": "Climate Change section – Current Initiatives: International",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "At present, General Circulation Models (GCMs) use simplified representations of Earth's oceans, atmosphere, and land surface, and the interactions among these units to help paint a broad picture of general climate patterns and trends and to make projections regarding future possibilities. GCMs can also be run under various assumptions about future greenhouse gas emission levels.",
+          "location": "Climate Change section – Climate Modeling",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "NARCCAP projections are discussed as informing the plan's understanding of future climate trends; GCMs are discussed extensively. The plan also references that cheatgrass thrives 'in a climate that is warmer and has more variability in precipitation which is commonly predicted for Wyoming in many climate change models' (Bradley et al. 2008), and multiple habitat sections cite Christensen et al. 2007 for regional climate projections, suggesting climate model outputs informed management decisions.",
+      "time_horizon_years": [2070],
+      "emission_scenarios": ["SRES"]
+    },
+    "connectivity_models": {
+      "evaluable": true,
+      "score": 1,
+      "named_tools": [],
+      "evidence": [
+        {
+          "text": "A regional habitat connectivity plan provides spatial layers depicting structural connectivity, network importance, landscape permeability, and climate connectivity.",
+          "location": "Energy Development section (GIS tools discussion)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The plan references a 'regional habitat connectivity plan' with spatial layers including climate connectivity as an output product. No specific connectivity modeling software (e.g., CircuitScape) is named. The plan recommends mapping wildlife corridors and refugia but doesn't describe applying a named connectivity model to focal subjects."
+    }
+  },
+  "context": {
+    "management_scale": {
+      "local": {
+        "present": false,
+        "evidence": []
+      },
+      "site": {
+        "present": false,
+        "evidence": []
+      },
+      "watershed": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Connectivity, both in terms of animals that migrate seasonally as well as corridors between localized population segments, should be incorporated into mitigation planning.",
+            "location": "Energy Development section – Recommended Conservation Actions",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "city": {
+        "present": false,
+        "evidence": []
+      },
+      "county": {
+        "present": false,
+        "evidence": []
+      },
+      "within_state_region": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Wyoming is divided unevenly by five LCCs, but the majority of the state's land area is covered by two cooperatives, the Plains and Prairie Potholes LCC and the Great Northern LCC.",
+            "location": "Climate Change section – Current Initiatives: National",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "state": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Wyoming's SWAP will certainly evolve overtime as successes are expanded, shortcomings corrected, new information becomes available, threats change, and new partners become engaged.",
+            "location": "Foreword",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "multistate": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Statewide and regional interagency collaboration will facilitate information sharing, the assignment of appropriate roles to partner agencies, the request of appropriate data products from partner agencies, and the more efficient allocation of scarce resources for wildlife and landscape conservation.",
+            "location": "Climate Change section – Recommended Conservation Actions",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "national": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The USFWS also emphasizes landscape-scale approaches as part of the agency's National Fish and Wildlife Climate Adaptation Strategy.",
+            "location": "Climate Change section – Current Initiatives: National",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "transnational": {
+        "present": false,
+        "evidence": []
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Regional climate modeling may help resource managers identify ecosystems at risk of transformative change.",
+            "location": "Climate Change section – Climate Change and Uncertainty Regarding Impacts",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecoregion": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Wyoming is divided unevenly by five LCCs, but the majority of the state's land area is covered by two cooperatives, the Plains and Prairie Potholes LCC and the Great Northern LCC.",
+            "location": "Climate Change section – Current Initiatives: National",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "province": {
+        "present": false,
+        "evidence": []
+      },
+      "section": {
+        "present": false,
+        "evidence": []
+      },
+      "subsection": {
+        "present": false,
+        "evidence": []
+      },
+      "lake": {
+        "present": false,
+        "evidence": []
+      },
+      "river": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "WGFD should use existing knowledge to map and prioritize wildlife corridors, transitional grounds, and refugia as an ongoing strategy to aid future management and land conservation efforts under changing climate conditions.",
+            "location": "Climate Change section – Recommendations: Habitat Management",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "district": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["Greater Yellowstone Ecosystem", "Plains and Prairie Potholes LCC", "Great Northern LCC", "Wyoming Basin", "Bighorn Mountains", "Wind River Range", "Black Hills"]
+    },
+    "biological_unit_score": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Species that are endemic to a particular area may be at greater risk than those that are geographically widespread. Similarly, species with an ability to move and adjust their range with changing conditions may have more success adapting.",
+          "location": "Climate Change section – Abundance and Biodiversity",
+          "sub_component": "species",
+          "citations": []
+        },
+        {
+          "text": "The 11 terrestrial habitat types that are described in this SWAP include various types of forested land, shrublands, and grasslands; riparian areas and wetlands; and rocky areas with little vegetation. Wyoming's diverse terrestrial habitats are home to SGCN and non-SGCN alike, and all are influenced by regional climate and will be affected in some way by changing climate conditions.",
+          "location": "Climate Change section – Potential Impacts of Climate Change on Habitat – Terrestrial Habitat",
+          "sub_component": "ecosystem/habitat",
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "biological_unit_components": {
+      "species": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Species that are endemic to a particular area may be at greater risk than those that are geographically widespread. Similarly, species with an ability to move and adjust their range with changing conditions may have more success adapting than those that are unable to disperse or are relatively sedentary.",
+            "location": "Climate Change section – Abundance and Biodiversity",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "population": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Boreo-alpine taxa, which are already restricted to high elevations, will have limited options for population migration/dispersal as the climate warms and becomes more arid.",
+            "location": "Climate Change section (terrestrial habitat impacts table)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "habitat": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The 11 terrestrial habitat types that are described in this SWAP include various types of forested land, shrublands, and grasslands; riparian areas and wetlands; and rocky areas with little vegetation… all are influenced by regional climate and will be affected in some way by changing climate conditions.",
+            "location": "Climate Change section – Potential Impacts of Climate Change on Habitat",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Regional climate modeling may help resource managers identify ecosystems at risk of transformative change.",
+            "location": "Climate Change section – Climate Change and Uncertainty Regarding Impacts",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "community": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Changing species relationships will have a more significant impact on ecosystem structure and function than changes to any one particular species.",
+            "location": "Climate Change section – Abundance and Biodiversity",
+            "sub_component": null,
+            "citations": ["Harrington et al. 1999", "Visser and Both 2005"]
+          }
+        ]
+      },
+      "genotype_phenotype": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["SGCN", "Greater Sage-Grouse", "American Pika", "Canada Lynx", "Wolverine", "Yellowstone Cutthroat Trout", "Colorado River Cutthroat Trout", "Black-footed Ferret", "Pygmy Rabbit", "Trumpeter Swan"]
+    },
+    "partnerships_and_funding": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "The WGFD has received more than $3,190,000 from the SWG program for fiscal years 2011-2016.",
+          "location": "Activities since the 2010 SWAP – Sensitive Species Funding Sources",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Statewide and regional interagency collaboration will facilitate information sharing, the assignment of appropriate roles to partner agencies, the request of appropriate data products from partner agencies, and the more efficient allocation of scarce resources for wildlife and landscape conservation. Additionally, partnerships may offer funding opportunities for climate-related research, mitigation, and adaptation projects.",
+          "location": "Climate Change section – Recommended Conservation Actions",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "While funding amounts are mentioned for non-climate SGCN work and partnerships are discussed as aspirational strategies for climate adaptation, there is no evidence of dedicated, active partnerships specifically for range-shift actions. The framing is largely aspirational ('should,' 'may offer') rather than describing active implementations."
+    },
+    "climate_threat_habitat_degradation": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Long periods of drought may cause a decline in forested area as the land becomes too arid to support forest ecosystems, and may further increase the susceptibility of forests to insect epidemics. Decreasing soil moisture could also kill trees planted for shelterbelts and cottonwood galleries, both of which provide important habitat for numerous terrestrial species.",
+          "location": "Climate Change section (terrestrial habitat impacts table)",
+          "sub_component": null,
+          "citations": ["Joyce et al. 2007", "The National Academies 2009", "Logan et al. 2003"]
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_threat_species_vital_rates": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "In particular, warmer surface temperatures could alter the survival and reproduction rates of some pathogens and vectors, which may currently be constrained by temperature minimums and maximums, potentially affecting the virulence and incidence of wildlife diseases like brucellosis, chronic wasting disease, whirling disease, West Nile virus, and bluetongue disease.",
+          "location": "Climate Change section – Abundance and Biodiversity",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_threat_biotic_stressors": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "A warmer, more variable climate, which some predict for Wyoming, may provide a competitive advantage for cheatgrass over native plants, further facilitating its spread.",
+          "location": "Leading Conservation Challenges – Invasive Species",
+          "sub_component": null,
+          "citations": ["Bradley et al. 2008"]
+        }
+      ],
+      "absence_note": {}
+    }
+  },
+  "actions": {
+    "priority_habitat_identification": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "A revised terrestrial SGCN habitat priority identification process was established to meet these goals based on four electronic map layers: 1. SGCN richness; 2. Habitat intactness; 3. Land ownership of various habitat types; 4. SWAP terrestrial habitat types. All maps are electronically available to the public individually and in combination to enable users to receive SGCN geographic data in relation to their project needs.",
+          "location": "Activities since the 2010 SWAP – Improved Terrestrial Habitat Prioritization section",
+          "sub_component": "spatial representation",
+          "citations": []
+        },
+        {
+          "text": "WGFD should use existing knowledge to map and prioritize wildlife corridors, transitional grounds, and refugia as an ongoing strategy to aid future management and land conservation efforts under changing climate conditions.",
+          "location": "Climate Change section – Recommendations: Habitat Management",
+          "sub_component": "climate-relevant priority habitat",
+          "citations": []
+        },
+        {
+          "text": "The Climate Shield website hosts geospatial data and related information that describes specific locations of cold-water refuge streams for native cutthroat trout and bull trout across the American West. Predictions about the locations of refugia could enable the improve the odds of preserving native trout populations into the future.",
+          "location": "Climate Change section – Recommendations: Species Management",
+          "sub_component": "refugia identification",
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "targeted_range_shift_actions": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Climate corridors are explicitly designed to connect habitats along a climate gradient allowing altitudinal and latitudinal range shifts.",
+          "location": "Climate Change section – Recommendations: Habitat Management",
+          "sub_component": "structural facilitation",
+          "citations": []
+        },
+        {
+          "text": "Increasing the overall amount and connectivity of habitat, including migration corridors, transitional areas, and refugia, is a strategy that will build ecosystem health and species resilience to a variety of stressors. Porous landscapes, or those that are easily traversed by fish and terrestrial wildlife, will allow some species to adjust to changing environmental conditions through population movement.",
+          "location": "Climate Change section – Recommendations: Habitat Management",
+          "sub_component": "structural facilitation",
+          "citations": []
+        }
+      ],
+      "absence_note": "The document proposes climate corridors and refugia as habitat management actions explicitly framed around enabling range shifts under climate change. No assisted migration or climate-motivated translocation actions are proposed."
+    },
+    "time_bound_and_monitoring": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Each of the five leading wildlife conservation challenges contains a section on recommended monitoring to track impacts and evaluate the success of conservation actions.",
+          "location": "Introduction – Table 2 Road Map to Required SWAP Elements, Element 5",
+          "sub_component": "monitoring",
+          "citations": []
+        }
+      ],
+      "absence_note": "The plan has an extensive section on monitoring recommendations for the climate change chapter but actions lack specific deadlines tied to individual climate adaptation actions. The plan describes ongoing strategies rather than time-bound milestones. Score of 1 reflects the clear articulation of monitoring needs but lack of action-level deadlines for climate-specific actions."
+    },
+    "evidence_of_efficacy": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Strategies that are practical across a range of possible future climate conditions will provide wildlife and habitat managers with the flexibility needed to adjust those strategies as appropriate and will not limit or inhibit future management options.",
+          "location": "Climate Change section – Recommended Conservation Actions",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The plan provides general ecological rationale for recommended adaptation strategies (e.g., maintaining connectivity, reducing non-climate stressors) but does not cite specific studies demonstrating efficacy of those strategies for facilitating range shifts or testing climate adaptation actions. Recommendations are framed as 'good management' principles without citing evidence from implemented projects or applicable field studies.",
+      "projects": []
+    },
+    "adaptation_planning_frameworks": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Scenario planning is a strategy that allows resource managers to evaluate current goals and objectives in light of climate change and to identify management actions that will address a range of issues facing aquatic and terrestrial wildlife populations. Building scenarios involves the consideration of several likely directions and intensities of future climate change without requiring exact temperature and precipitation predictions.",
+          "location": "Climate Change section – Recommended Conservation Actions",
+          "sub_component": "Climate Change Scenario Planning",
+          "citations": []
+        },
+        {
+          "text": "In addition to scenario planning, adaptive management techniques may help wildlife and habitat managers deal with the uncertainty surrounding future climate conditions. Adaptive management involves the continual reevaluation through monitoring and improvement of management strategies as climate change plays out.",
+          "location": "Climate Change section – Recommended Conservation Actions",
+          "sub_component": "Adaptive management in climate context",
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    }
+  },
+  "coding_meta": {
+    "coder": "llm:claude-sonnet-4-6",
+    "model": "claude-sonnet-4-6",
+    "provider": "claude",
+    "codebook_version": "0.4",
+    "ingest": "text",
+    "design": "single",
+    "temperature": null,
+    "thinking": null,
+    "thinking_effort": null,
+    "coded_at": "2026-07-06T18:39:26Z",
+    "notes": {}
+  }
+}

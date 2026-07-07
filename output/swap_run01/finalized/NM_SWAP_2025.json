@@ -1,0 +1,946 @@
+{
+  "document_meta": {
+    "title": "State Wildlife Action Plan for New Mexico 2025",
+    "year": 2025,
+    "jurisdiction": "New Mexico",
+    "document_type": "SWAP",
+    "document_id": "NM_SWAP_2025",
+    "page_count": 781
+  },
+  "orientation": {
+    "summary": "This is the 2025 State Wildlife Action Plan (SWAP) for New Mexico, produced by the New Mexico Department of Wildlife, covering 505 Species of Greatest Conservation Need (SGCN) across six Level II ecoregions. The document treats climate change as a central, dedicated theme (Chapter 4), discussing projected changes to temperature, precipitation, and habitats in detail, with an additional new Appendix F devoted to climate vulnerability analysis. With respect to range shifts, the document explicitly addresses species moving northward/upslope, discusses climate refugia at length (including spatially explicit refugia maps and tables by Conservation Opportunity Area), and incorporates a Climate Change Vulnerability Index (CCVI) assessment for 295 vertebrate SGCN. The document incorporates substantial new analyses performed for this revision—including a CCVI-based vulnerability assessment by NRI/Texas A&M, climate refugia identification by USFS RMRS, and SDM-based future habitat modeling by NHNM—alongside references to broader scientific literature.",
+    "evidence_index": [
+      {
+        "text": "Climate change vulnerability is sometimes defined by the effects of exposure, sensitivity, and adaptive capacity (Glick et",
+        "location": "VULNERABILITY OF SGCN TO CLIMATE CHANGE / DEFINING VULNERABILITY",
+        "relevant_elements": ["1.1", "1.2"]
+      },
+      {
+        "text": "vulnerability to climate change will vary by population, species, and taxonomic group due to differences in exposure, sensitivity, and adaptive capacity to environmental change (Glick et al. 2011, Lyons et al. 2024).",
+        "location": "SPECIES VULNERABILITY TO CLIMATE CHANGE",
+        "relevant_elements": ["1.1", "1.2", "1.3"]
+      },
+      {
+        "text": "The adaptive capacity factors considered in the CCVI are broken into the following seven categories: distribution, movement, life history, demography, evolutionary potential, ecological role, and abiotic niche.",
+        "location": "SPECIES VULNERABILITY TO CLIMATE CHANGE",
+        "relevant_elements": ["1.2", "1.3"]
+      },
+      {
+        "text": "A species vulnerable to climate change due to its low dispersal ability may benefit from translocation or creation of habitat corridors.",
+        "location": "MANAGING CLIMATE CHANGE VULNERABILITY",
+        "relevant_elements": ["1.4", "4.2", "1.3"]
+      },
+      {
+        "text": "Accommodate future species range shifts by: (1) maintaining connectivity between protected areas and future suitable habitats for native species; and (2) planning invasive species monitoring and control efforts in areas where they are expected to expand.",
+        "location": "Summarizing Approaches to Managing for Climate Change Vulnerability",
+        "relevant_elements": ["1.4", "4.1", "4.2"]
+      },
+      {
+        "text": "NRI staff used the Climate Change Vulnerability Index (CCVI) Version 4.0 to score the climate change vulnerability of each focal species (Lyons et al. 2024). The CCVI was created by NatureServe and the US Geological Survey and considers the following variables when evaluating a species' climate change vulnerability: (1) exposure to local climate change; (2) exposure to sea level rise; (3) overall adaptive capacity; (4) threat multipliers that affect climate change vulnerability (e.g., barriers to movement); and (5) documented or modeled response to climate change.",
+        "location": "SPECIES VULNERABILITY TO CLIMATE CHANGE",
+        "relevant_elements": ["2.1", "1.1", "1.2"]
+      },
+      {
+        "text": "Researchers with the Natural Resources Institute (NRI) at Texas A and M University analyzed climate vulnerability for 295 vertebrate SGCN for the 2025 SWAP.",
+        "location": "SPECIES VULNERABILITY TO CLIMATE CHANGE",
+        "relevant_elements": ["2.1"]
+      },
+      {
+        "text": "Using species distribution modeling (SDM) techniques, NHNM modeled the potential current and projected future (2075) distribution of suitable environmental conditions for these species.",
+        "location": "CLIMATE CHANGE REFUGIA / Potential Future Climate Refugia for SGCN in Conservation Opportunity Areas",
+        "relevant_elements": ["2.2"]
+      },
+      {
+        "text": "Data were obtained from the AdaptWest project, Bureau of",
+        "location": "CLIMATE CHANGE REFUGIA",
+        "relevant_elements": ["2.3"]
+      },
+      {
+        "text": "Data were obtained from the AdaptWest Project (2022) and represent the Coupled Model Intercomparison Project 6 (CMIP6) Shared Socioeconomic Pathway (SSP5)-Representative Concentration Pathway (RPC) 8.5 scenario for fossil fuel emissions.",
+        "location": "Figure 14. Projected changes in climate from 2001-2020 to 2041-2060",
+        "relevant_elements": ["2.3"]
+      },
+      {
+        "text": "average temperatures may increase by as much as 3.9 °C (7 °F) by 2070, with higher rises anticipated in the northwestern corner of New Mexico (NMBGMR 2022).",
+        "location": "Chapter 4: Climate Change and Severe Weather",
+        "relevant_elements": ["2.3", "1.1"]
+      },
+      {
+        "text": "Losses tended to be less by approximately 15% under the moderate RCP 4.5 emission scenario versus the more extreme RCP 8.5 scenario.",
+        "location": "CLIMATE CHANGE REFUGIA / Potential Future Climate Refugia for SGCN in Conservation Opportunity Areas",
+        "relevant_elements": ["2.3"]
+      },
+      {
+        "text": "A regional habitat connectivity plan provides spatial layers depicting structural connectivity, network importance, landscape permeability, and climate connectivity.",
+        "location": "RIPARIAN CONSERVATION OPPORTUNITY AREAS",
+        "relevant_elements": ["1.4", "2.4"]
+      },
+      {
+        "text": "Promote land-management practices, standards, and guidelines to conserve and/or restore structure and function of corridors that provide important habitat for SGCN and ability for animals to move as climate conditions change.",
+        "location": "CLIMATE CHANGE AND SEVERE WEATHER (Madrean Archipelago Conservation Profile)",
+        "relevant_elements": ["1.4", "4.2"]
+      },
+      {
+        "text": "The transportation sector is the most targeted form of development in policies focused on protecting wildlife corridors and enhancing landscape connectivity (Brammer et al. 2024).",
+        "location": "TRANSPORTATION AND SERVICE CORRIDORS",
+        "relevant_elements": ["1.4"]
+      },
+      {
+        "text": "In 2019, the New Mexico Wildlife Corridors Act was enacted (NMS 2019), which mandated the development of a Wildlife Corridors Action Plan (WCAP)(Cramer et al. 2022).",
+        "location": "TRANSPORTATION AND SERVICE CORRIDORS (table section)",
+        "relevant_elements": ["1.4", "4.2"]
+      },
+      {
+        "text": "Most woody species are expected to shift northward to track suitable climate conditions. Many higher-elevation species are projected to experience range contractions as suitable climates disappear.",
+        "location": "FORESTS",
+        "relevant_elements": ["1.1", "4.1"]
+      },
+      {
+        "text": "Climate change will decrease the availability of cold-water stream habitat suitable for cold-adapted species. Many reaches within lower-elevation and southern sites may no longer be suitable for cold-water species.",
+        "location": "PERENNIAL COLD-WATER STREAMS",
+        "relevant_elements": ["3.5", "1.1"]
+      },
+      {
+        "text": "Wetlands are often widely dispersed across the landscape, limiting the capacity of wetland-dependent species to migrate to new locations as temperatures and water levels change and increasing the risk of extinction for wetland-endemic species.",
+        "location": "PERENNIAL MARSHES, CIENEGAS, SPRINGS, AND SEEPS",
+        "relevant_elements": ["3.5", "1.3"]
+      },
+      {
+        "text": "The distribution of both native and exotic invasive species will be influenced by climate change. Within aquatic systems, warmer waters may help establish aquatic invasive species such as the zebra and quagga mussels and simultaneously reduce the effectiveness of biological and chemical control agents (Hellmann et al. 2008).",
+        "location": "INVASIVE AND OTHER PROBLEMATIC SPECIES, GENES, AND DISEASES",
+        "relevant_elements": ["3.7"]
+      },
+      {
+        "text": "Changes in the timing of precipitation (from summer to winter-dominated rainfall) and increasing carbon dioxide (CO 2 ) are expected to increase the encroachment of woody plant species into grasslands (Morgan et al. 2007).",
+        "location": "INVASIVE AND OTHER PROBLEMATIC SPECIES, GENES, AND DISEASES",
+        "relevant_elements": ["3.7"]
+      },
+      {
+        "text": "increasing spring and summer temperatures, reduced soil and fuel moisture, and drought contribute to increased wildfire activity (Ryan et al. 2008). Wildfires are larger, more frequent, and more intense under recent conditions characterized by higher temperatures, earlier spring snowmelt, and drought",
+        "location": "NATURAL SYSTEM MODIFICATIONS",
+        "relevant_elements": ["3.5", "3.6"]
+      },
+      {
+        "text": "These uncharacteristically large high-severity wildfires kill wildlife and destroy wildlife habitat and can result in habitat conversion from forest to shrub or grassland habitats",
+        "location": "BIOLOGICAL RESOURCE USE (table section)",
+        "relevant_elements": ["3.5", "3.6"]
+      },
+      {
+        "text": "A portfolio of 2,339 RCOAs has been built for the state that provides the foundation for planning and tracking conservation and restoration actions (Figure 13).",
+        "location": "THE NEW MEXICO RCOA PORTFOLIO",
+        "relevant_elements": ["4.1"]
+      },
+      {
+        "text": "Conservation Opportunity Areas (COAs) are sites along river corridors that may be especially appropriate for conservation or restoration activities aimed at enhancing habitat quality for a diversity of SGCN, wildlife habitat connectivity, and ecosystem service provision.",
+        "location": "THE NEW MEXICO RCOA PORTFOLIO",
+        "relevant_elements": ["4.1"]
+      },
+      {
+        "text": "The results of this project were used to add information on potential climate refugia within, and adjacent to, a subset of the updated, 2025 COAs to COA descriptions presented in Chapters 5 through 10.",
+        "location": "CLIMATE CHANGE REFUGIA",
+        "relevant_elements": ["4.1"]
+      },
+      {
+        "text": "Direct systems toward desired future conditions where change is unavoidable (e.g., assist organisms in moving to areas with more suitable conditions, plant species that are better adapted to hotter and drier conditions when restoring disturbed sites).",
+        "location": "Summarizing Approaches to Managing for Climate Change Vulnerability",
+        "relevant_elements": ["4.2"]
+      },
+      {
+        "text": "Climatic variation will also include wet or productive years and habitat-restoration or translocation programs can be timed to correspond with these events.",
+        "location": "MANAGING CLIMATE CHANGE VULNERABILITY",
+        "relevant_elements": ["4.2"]
+      },
+      {
+        "text": "The SWAP is a non-regulatory planning document... The Department will submit its next 10-year, comprehensive review and revision of the SWAP by October 1, 2035.",
+        "location": "REVIEW AND REVISION",
+        "relevant_elements": ["4.3"]
+      },
+      {
+        "text": "the provisions for periodic monitoring of SGCN and their habitats, for monitoring the effectiveness of conservation actions, and for adapting conservation actions as appropriate to respond to new information or changing conditions",
+        "location": "REQUIRED ELEMENTS OF THE PLAN",
+        "relevant_elements": ["4.3"]
+      },
+      {
+        "text": "Management frameworks such as Resist-Accept-Direct (RAD) are intended to help managers navigate the challenges, including a lack of predictability, associated with ecosystem transformations",
+        "location": "MANAGING CLIMATE CHANGE VULNERABILITY (table section)",
+        "relevant_elements": ["4.5"]
+      },
+      {
+        "text": "Incorporate appropriate climate adaptation strategies and frameworks into projects designed to address these synergistic effects. This may include enhancing connectivity (CEQ 2023), facilitating a species' innate adaptive capacity (Thurman et al. 2022), enhancing genetic diversity (Powell 2023), considering local adaptation (Meek et al. 2023), or considering whether it is most appropriate to resist, accept, or direct ecosystem transformation (Lynch et al. 2021, Stevens et al. 2021).",
+        "location": "ACTIONS THAT ADDRESS MULTIPLE THREATS (High Plains and Tablelands)",
+        "relevant_elements": ["4.5"]
+      },
+      {
+        "text": "Management actions designed to cope with climate change effects encompass four main strategies: resistance, resilience, response (or direct), and realignment (or accept) (Millar et",
+        "location": "Summarizing Approaches to Managing for Climate Change Vulnerability",
+        "relevant_elements": ["4.5"]
+      },
+      {
+        "text": "Use longer-term strategies that enhance species and ecosystem resilience to and adaptive capacity in the face of climate-related stressors (e.g., conserve genetic diversity to enhance a species' ability to adapt to changing conditions, protect climate refugia that allow species more time to acclimate or adapt to changing conditions).",
+        "location": "Summarizing Approaches to Managing for Climate Change Vulnerability",
+        "relevant_elements": ["1.2", "1.3", "4.1"]
+      },
+      {
+        "text": "The Department alone does not have the authority or resources to implement all conservation actions identified in this SWAP... Thus, collaboration with appropriate and willing federal, Tribal, state, and local government agencies, non-profit organizations, private landowners, and interested and affected publics is key to the successful implementation of this SWAP.",
+        "location": "CONSERVATION ACTIONS: AN OVERVIEW",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "Land of Enchantment Legacy Funds (75-12-1 through 75-12-2 New Mexico Statutes Annotated 1978) and Government Results and Opportunity Program Funds (NMHR 2025) allocated to the Department starting in 2024 and 2025, respectively, for work on SGCN have dramatically expanded financial resources available for these activities.",
+        "location": "SPECIES AND HABITAT MONITORING",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "Species already at risk of extinction may be particularly vulnerable to these impacts. A review of special status species in the Middle Rio Grande region revealed that at-risk terrestrial species were more vulnerable or likely to experience population declines",
+        "location": "SPECIES VULNERABILITY TO CLIMATE CHANGE",
+        "relevant_elements": ["1.1", "2.1"]
+      },
+      {
+        "text": "For all taxonomic groups, specialist and sedentary species are considered more vulnerable than generalist and highly mobile species (Foden et al. 2009, Gilman et al. 2010). Specialists are species that survive under a narrow range of environmental conditions",
+        "location": "SPECIES VULNERABILITY TO CLIMATE CHANGE",
+        "relevant_elements": ["1.3", "1.1"]
+      },
+      {
+        "text": "Invertebrates are typically not as well represented in climate change assessments but, like most vertebrates, are expected to move northward and to higher elevations (Brantley and Ford 2012).",
+        "location": "SPECIES VULNERABILITY TO CLIMATE CHANGE",
+        "relevant_elements": ["1.1", "3.3"]
+      },
+      {
+        "text": "Mammals, though generally mobile, may be vulnerable to habitat change associated with climate change if they are geographically isolated (e.g., high elevation, riparian) or migratory.",
+        "location": "SPECIES VULNERABILITY TO CLIMATE CHANGE",
+        "relevant_elements": ["1.3", "1.1"]
+      },
+      {
+        "text": "Species with distributions outside of New Mexico for which conditions may improve in the State may expand or shift their range into New Mexico",
+        "location": "SPECIES RESILIENCE AND ADAPTIVE CAPACITY IN THE FACE OF CLIMATE CHANGE",
+        "relevant_elements": ["1.1", "3.3"]
+      },
+      {
+        "text": "A species' level of adaptive capacity can be driven by several of the ecological and biological traits listed above (e.g., dietary breadth and habitat specialization) but is also related to a diversity of other traits, including those associated with dispersal, migration, inter-specific interaction, mating, and reproduction and to population characteristics (e.g., age structure) (Thurman et al. 2020).",
+        "location": "SPECIES RESILIENCE AND ADAPTIVE CAPACITY IN THE FACE OF CLIMATE CHANGE",
+        "relevant_elements": ["1.2", "1.3"]
+      },
+      {
+        "text": "Physiological requirements and limitations related to temperature and moisture determine critical components of energetics, survival, and reproduction",
+        "location": "SPECIES VULNERABILITY TO CLIMATE CHANGE",
+        "relevant_elements": ["1.3"]
+      },
+      {
+        "text": "Increasingly, tools to measure vulnerability are incorporating many facets of adaptive capacity, including factors related to dispersal and migration, genetic diversity, the extent to which the species has a specialized diet or habitat association, and life history factors related to mating and reproduction(Thurman et al. 2020, Lyons et al. 2024).",
+        "location": "SPECIES VULNERABILITY TO CLIMATE CHANGE (table section)",
+        "relevant_elements": ["1.2", "1.3", "2.1"]
+      },
+      {
+        "text": "Riparian Conservation Opportunity Areas (RCOAs) are sites along river corridors that can serve as targets for conservation and/or restoration actions that will lead to enhanced habitat quality for a diversity of animals, connectivity for wildlife movements, and provision of ecosystem services.",
+        "location": "RIPARIAN CONSERVATION OPPORTUNITY AREAS",
+        "relevant_elements": ["4.1", "1.4"]
+      },
+      {
+        "text": "Identify climate change (e.g., Michalak et al. 2020) or disturbance refugia (e.g., Rodman et al. 2023) for SGCN and their habitats and implement conservation actions to conserve, expand, or enhance these refugia.",
+        "location": "CLIMATE CHANGE AND SEVERE WEATHER (Southern Rocky Mountains Conservation Profile)",
+        "relevant_elements": ["4.1", "4.2"]
+      },
+      {
+        "text": "Locally relevant research and effectiveness monitoring are needed to address knowledge gaps and appropriately apply assisted migration efforts.",
+        "location": "MANAGING CLIMATE CHANGE VULNERABILITY (table section - assisted migration section)",
+        "relevant_elements": ["4.2", "4.4"]
+      },
+      {
+        "text": "Translocation, or movement of individuals to historically occupied locations, is less controversial and may help species cope with short-term habitat change, dispersal barriers, or increasing population fluctuations. Programs to move populations, however, tend to be costly and are often unsuccessful(Fischer and Lindenmayer 2000).",
+        "location": "MANAGING CLIMATE CHANGE VULNERABILITY (table section)",
+        "relevant_elements": ["4.2", "4.4"]
+      },
+      {
+        "text": "climate-smart projects that help maintain, or accommodate for or facilitate climate-related shifts in (e.g., Stanturf et al. 2024, USFWS 2024a), the distribution and natural functioning, including disturbance regimes, of these impacted species and habitats.",
+        "location": "CLIMATE CHANGE AND SEVERE WEATHER (Southern Rocky Mountains)",
+        "relevant_elements": ["4.2", "4.5"]
+      },
+      {
+        "text": "Implement monitoring programs to detect population trends and evaluate the success of climate-related management actions.",
+        "location": "Summarizing Approaches to Managing for Climate Change Vulnerability",
+        "relevant_elements": ["4.3"]
+      },
+      {
+        "text": "the Department plans to explore development of a Conservation Action Tracker, to document implementation of conservation actions using State Wildlife Grant (SWG) funds.",
+        "location": "CONSERVATION ACTIONS: AN OVERVIEW",
+        "relevant_elements": ["4.3"]
+      },
+      {
+        "text": "New Mexico encompasses parts of six Level II ecoregions, the most of any state. These ecoregions extend south to central Mexico and north to Canada",
+        "location": "ECOREGIONS",
+        "relevant_elements": ["3.1"]
+      },
+      {
+        "text": "New Mexico is also a voting member of the Central Flyway Council and a non-voting member of the Pacific Flyway Council.",
+        "location": "REGIONAL SGCN CONSERVATION EFFORTS",
+        "relevant_elements": ["3.1", "3.4"]
+      },
+      {
+        "text": "The Southwest Group has continued to meet monthly and has submitted a competitive State Wildlife Grant application for a project focused on assessing habitat connectivity for a diversity of species across three southwestern states.",
+        "location": "REVIEW AND REVISION COORDINATION WITH NEIGHBORING STATES",
+        "relevant_elements": ["3.4", "1.4"]
+      }
+    ]
+  },
+  "concepts": {
+    "climate_vulnerability": {
+      "evaluable": true,
+      "score": 3,
+      "evidence": [
+        {
+          "text": "vulnerability to climate change will vary by population, species, and taxonomic group due to differences in exposure, sensitivity, and adaptive capacity to environmental change (Glick et al. 2011, Lyons et al. 2024).",
+          "location": "SPECIES VULNERABILITY TO CLIMATE CHANGE",
+          "sub_component": "exposure and adaptive capacity",
+          "citations": ["Glick et al. 2011", "Lyons et al. 2024"]
+        },
+        {
+          "text": "The CCVI was created by NatureServe and the US Geological Survey and considers the following variables when evaluating a species' climate change vulnerability: (1) exposure to local climate change; (2) exposure to sea level rise; (3) overall adaptive capacity; (4) threat multipliers that affect climate change vulnerability",
+          "location": "SPECIES VULNERABILITY TO CLIMATE CHANGE",
+          "sub_component": "exposure and adaptive capacity",
+          "citations": ["Lyons et al. 2024"]
+        },
+        {
+          "text": "Low vulnerability can be taken to mean low susceptibility or higher resilience to negative impacts. Some species may even experience increasing or expanding populations and distributions as the climate changes. Climate change vulnerability is sometimes defined by the effects of exposure, sensitivity, and adaptive capacity",
+          "location": "VULNERABILITY OF SGCN TO CLIMATE CHANGE / DEFINING VULNERABILITY",
+          "sub_component": "exposure and adaptive capacity",
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "adaptive_capacity_specificity": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "The adaptive capacity factors considered in the CCVI are broken into the following seven categories: distribution, movement, life history, demography, evolutionary potential, ecological role, and abiotic niche.",
+          "location": "SPECIES VULNERABILITY TO CLIMATE CHANGE",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "A species' level of adaptive capacity can be driven by several of the ecological and biological traits listed above (e.g., dietary breadth and habitat specialization) but is also related to a diversity of other traits, including those associated with dispersal, migration, inter-specific interaction, mating, and reproduction and to population characteristics (e.g., age structure) (Thurman et al. 2020).",
+          "location": "SPECIES RESILIENCE AND ADAPTIVE CAPACITY IN THE FACE OF CLIMATE CHANGE",
+          "sub_component": null,
+          "citations": ["Thurman et al. 2020"]
+        }
+      ],
+      "absence_note": {}
+    },
+    "adaptive_capacity_components": {
+      "demography": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The adaptive capacity factors considered in the CCVI are broken into the following seven categories: distribution, movement, life history, demography, evolutionary potential, ecological role, and abiotic niche.",
+            "location": "SPECIES VULNERABILITY TO CLIMATE CHANGE",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "distribution": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The adaptive capacity factors considered in the CCVI are broken into the following seven categories: distribution, movement, life history, demography, evolutionary potential, ecological role, and abiotic niche.",
+            "location": "SPECIES VULNERABILITY TO CLIMATE CHANGE",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "movement": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "A species vulnerable to climate change due to its low dispersal ability may benefit from translocation or creation of habitat corridors.",
+            "location": "MANAGING CLIMATE CHANGE VULNERABILITY",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "evolutionary_potential": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Use longer-term strategies that enhance species and ecosystem resilience to and adaptive capacity in the face of climate-related stressors (e.g., conserve genetic diversity to enhance a species' ability to adapt to changing conditions, protect climate refugia that allow species more time to acclimate or adapt to changing conditions).",
+            "location": "Summarizing Approaches to Managing for Climate Change Vulnerability",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecological_dependencies": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "the response of one species to climate change may trigger a population change in another via inter-specific interactions including predator-prey and host-disease relationships, pollination, parasitism, or mutualism (interactions between individuals of different species that benefit both species). These changes in interactions between species can further alter species vulnerability if they are tied to survival or reproduction",
+            "location": "SPECIES VULNERABILITY TO CLIMATE CHANGE",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "abiotic_niche": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Physiological requirements and limitations related to temperature and moisture determine critical components of energetics, survival, and reproduction",
+            "location": "SPECIES VULNERABILITY TO CLIMATE CHANGE",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "life_history": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The adaptive capacity factors considered in the CCVI are broken into the following seven categories: distribution, movement, life history, demography, evolutionary potential, ecological role, and abiotic niche.",
+            "location": "SPECIES VULNERABILITY TO CLIMATE CHANGE",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      }
+    },
+    "connectivity": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Promote land-management practices, standards, and guidelines to conserve and/or restore structure and function of corridors that provide important habitat for SGCN and ability for animals to move as climate conditions change. This should include both mesic and xeric riparian communities that serve as important migratory corridors for birds and other wildlife while providing ecosystem services and wildlife corridors that link isolated mountain ranges",
+          "location": "CLIMATE CHANGE AND SEVERE WEATHER (Madrean Archipelago Conservation Profile)",
+          "sub_component": null,
+          "citations": ["Powledge 2003"]
+        },
+        {
+          "text": "Accommodate future species range shifts by: (1) maintaining connectivity between protected areas and future suitable habitats for native species; and (2) planning invasive species monitoring and control efforts in areas where they are expected to expand.",
+          "location": "Summarizing Approaches to Managing for Climate Change Vulnerability",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "A regional habitat connectivity plan provides spatial layers depicting structural connectivity, network importance, landscape permeability, and climate connectivity.",
+          "location": "RIPARIAN CONSERVATION OPPORTUNITY AREAS",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    }
+  },
+  "tools": {
+    "vulnerability_models": {
+      "evaluable": true,
+      "score": 2,
+      "named_tools": ["CCVI", "NatureServe CCVI"],
+      "evidence": [
+        {
+          "text": "NRI staff used the Climate Change Vulnerability Index (CCVI) Version 4.0 to score the climate change vulnerability of each focal species (Lyons et al. 2024). The CCVI was created by NatureServe and the US Geological Survey",
+          "location": "SPECIES VULNERABILITY TO CLIMATE CHANGE",
+          "sub_component": null,
+          "citations": ["Lyons et al. 2024"]
+        },
+        {
+          "text": "Researchers with the Natural Resources Institute (NRI) at Texas A and M University analyzed climate vulnerability for 295 vertebrate SGCN for the 2025 SWAP.",
+          "location": "SPECIES VULNERABILITY TO CLIMATE CHANGE",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Mammals and birds, as species better able to persist in place or more mobile species, were typically found to be less vulnerable (at least 71% of bird SGCN and 72% of mammal SGCN) to climate change than species in other taxonomic groups.",
+          "location": "SPECIES VULNERABILITY TO CLIMATE CHANGE",
+          "sub_component": null,
+          "citations": ["NRI 2025"]
+        }
+      ],
+      "absence_note": {}
+    },
+    "niche_models": {
+      "evaluable": true,
+      "score": 2,
+      "named_tools": ["SDM", "species distribution modeling"],
+      "evidence": [
+        {
+          "text": "Using species distribution modeling (SDM) techniques, NHNM modeled the potential current and projected future (2075) distribution of suitable environmental conditions for these species.",
+          "location": "CLIMATE CHANGE REFUGIA / Potential Future Climate Refugia for SGCN in Conservation Opportunity Areas",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Model results were then compared to the 2017 COA boundaries to gauge how well this 2017 COA portfolio might capture suitable conditions for a diversity of SGCN into the future.",
+          "location": "CLIMATE CHANGE REFUGIA / Potential Future Climate Refugia for SGCN in Conservation Opportunity Areas",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "the 2017 COA portfolio generally captures relatively small percentages of the total geographic ranges of the SGCN for which SDMs were developed.",
+          "location": "CLIMATE CHANGE REFUGIA",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_models": {
+      "evaluable": true,
+      "score": 2,
+      "named_tools": ["CMIP6", "AdaptWest Project", "SSP5-RCP8.5"],
+      "evidence": [
+        {
+          "text": "Data were obtained from the AdaptWest Project (2022) and represent the Coupled Model Intercomparison Project 6 (CMIP6) Shared Socioeconomic Pathway (SSP5)-Representative Concentration Pathway (RPC) 8.5 scenario for fossil fuel emissions.",
+          "location": "Figure 14. Projected changes in climate from 2001-2020 to 2041-2060",
+          "sub_component": null,
+          "citations": ["AdaptWest Project 2022"]
+        },
+        {
+          "text": "average temperatures may increase by as much as 3.9 °C (7 °F) by 2070, with higher rises anticipated in the northwestern corner of New Mexico (NMBGMR 2022).",
+          "location": "Chapter 4: Climate Change and Severe Weather",
+          "sub_component": null,
+          "citations": ["NMBGMR 2022"]
+        },
+        {
+          "text": "Losses tended to be less by approximately 15% under the moderate RCP 4.5 emission scenario versus the more extreme RCP 8.5 scenario.",
+          "location": "CLIMATE CHANGE REFUGIA / Potential Future Climate Refugia for SGCN in Conservation Opportunity Areas",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {},
+      "time_horizon_years": [2050, 2070, 2075, 2100],
+      "emission_scenarios": ["SSP5-8.5", "RCP4.5", "RCP8.5"]
+    },
+    "connectivity_models": {
+      "evaluable": true,
+      "score": 1,
+      "named_tools": [],
+      "evidence": [
+        {
+          "text": "A regional habitat connectivity plan provides spatial layers depicting structural connectivity, network importance, landscape permeability, and climate connectivity.",
+          "location": "RIPARIAN CONSERVATION OPPORTUNITY AREAS",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document references wildlife corridor planning outputs and a connectivity plan with spatial layers (structural connectivity, network importance, landscape permeability, climate connectivity) but does not name a specific connectivity modeling software or algorithm (e.g., CircuitScape, Linkage Mapper). The Wildlife Corridors Action Plan (WCAP) identifies priority road-crossing projects but the underlying modeling methodology is not specified."
+    }
+  },
+  "context": {
+    "management_scale": {
+      "local": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Riparian Conservation Opportunity Areas (RCOAs) are sites along river corridors that can serve as targets for conservation and/or restoration actions that will lead to enhanced habitat quality for a diversity of animals, connectivity for wildlife movements, and provision of ecosystem services.",
+            "location": "RIPARIAN CONSERVATION OPPORTUNITY AREAS",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "site": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The minimum size of an RCOA was set at 5 ha (12 ac) to identify areas that are more likely to be large enough to make any implementation of conservation or restoration actions in an RCOA economically viable.",
+            "location": "RIPARIAN CONSERVATION OPPORTUNITY AREAS",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "watershed": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "This distribution of HUC12s was then compared to the boundaries of 2025 SWAP Conservation Opportunity Areas (COAs) and ecoregions and used to determine the percent areas of COAs and ecoregions intersecting HUC12s with a high likelihood of containing climate refugia",
+            "location": "CLIMATE CHANGE REFUGIA",
+            "sub_component": null,
+            "citations": ["Friggens et al. 2025"]
+          }
+        ]
+      },
+      "city": {
+        "present": false,
+        "evidence": []
+      },
+      "county": {
+        "present": false,
+        "evidence": []
+      },
+      "within_state_region": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "New Mexico encompasses parts of six Level II ecoregions, the most of any state. These ecoregions extend south to central Mexico and north to Canada and include desert (Cold Desert, Warm Desert, and Western Sierra Madre Piedmont), montane (Western Cordillera, Upper Gila Mountains), and prairie (South-Central Semi-arid Prairie) ecosystems",
+            "location": "ECOREGIONS",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "state": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "A portfolio of 2,339 RCOAs has been built for the state that provides the foundation for planning and tracking conservation and restoration actions (Figure 13).",
+            "location": "THE NEW MEXICO RCOA PORTFOLIO",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "multistate": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The Southwest Group has continued to meet monthly and has submitted a competitive State Wildlife Grant application for a project focused on assessing habitat connectivity for a diversity of species across three southwestern states.",
+            "location": "REVIEW AND REVISION COORDINATION WITH NEIGHBORING STATES",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "national": {
+        "present": false,
+        "evidence": []
+      },
+      "transnational": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The importance of considering conservation action implementation regionally is highlighted by the prevalence of migratory birds that breed in New Mexico but winter in Mexico and Central America",
+            "location": "REGIONAL SGCN CONSERVATION EFFORTS",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Projections indicate that climate change will have profound impacts on forest ecosystems across western North America. Most woody species are expected to shift northward to track suitable climate conditions.",
+            "location": "FORESTS",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecoregion": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "New Mexico encompasses parts of six Level II ecoregions, the most of any state. These ecoregions extend south to central Mexico and north to Canada",
+            "location": "ECOREGIONS",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "province": {
+        "present": false,
+        "evidence": []
+      },
+      "section": {
+        "present": false,
+        "evidence": []
+      },
+      "subsection": {
+        "present": false,
+        "evidence": []
+      },
+      "lake": {
+        "present": false,
+        "evidence": []
+      },
+      "river": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The Lower Pecos and Black Rivers Reservoir Conservation Opportunity Area (COA) (Figure 37) spans approximately 52,543 ha (129,837 ac), extends from Lake McMillan to about 25 km (16 mi) northwest of Carlsbad, and follows the Pecos River valley downstream to the Texas state line.",
+            "location": "CONSERVATION OPPORTUNITY AREAS LOWER PECOS AND BLACK RIVERS",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "district": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["Colorado Plateaus", "Southern Rocky Mountains", "High Plains and Tablelands", "Chihuahuan Desert", "Madrean Archipelago", "Arizona/New Mexico Mountains", "Rio Grande", "Pecos River", "San Juan River", "Gila River", "Jemez Mountains", "Sacramento Mountains", "Sangre de Cristo Mountains"]
+    },
+    "biological_unit_score": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "vulnerability to climate change will vary by population, species, and taxonomic group due to differences in exposure, sensitivity, and adaptive capacity to environmental change",
+          "location": "SPECIES VULNERABILITY TO CLIMATE CHANGE",
+          "sub_component": "species and population",
+          "citations": ["Glick et al. 2011", "Lyons et al. 2024"]
+        },
+        {
+          "text": "community composition may change, including shifts toward more heat-tolerant trees (Rosenblad et al. 2023). Alpine habitats are likely to all but disappear (Hansen et al. 2001).",
+          "location": "FORESTS",
+          "sub_component": "community",
+          "citations": ["Rosenblad et al. 2023", "Hansen et al. 2001"]
+        }
+      ],
+      "absence_note": {}
+    },
+    "biological_unit_components": {
+      "species": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Invertebrates are typically not as well represented in climate change assessments but, like most vertebrates, are expected to move northward and to higher elevations (Brantley and Ford 2012).",
+            "location": "SPECIES VULNERABILITY TO CLIMATE CHANGE",
+            "sub_component": null,
+            "citations": ["Brantley and Ford 2012"]
+          }
+        ]
+      },
+      "population": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "vulnerability to climate change will vary by population, species, and taxonomic group due to differences in exposure, sensitivity, and adaptive capacity to environmental change",
+            "location": "SPECIES VULNERABILITY TO CLIMATE CHANGE",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "habitat": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Climate change will decrease the availability of cold-water stream habitat suitable for cold-adapted species. Many reaches within lower-elevation and southern sites may no longer be suitable for cold-water species.",
+            "location": "PERENNIAL COLD-WATER STREAMS",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Projections indicate that climate change will have profound impacts on forest ecosystems across western North America. Most woody species are expected to shift northward to track suitable climate conditions.",
+            "location": "FORESTS",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "community": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "actual shifts in communities are likely to differ from projected responses because individual species will respond uniquely to climate change (e.g., Rehfeldt et al. 2006) and community composition may change, including shifts toward more heat-tolerant trees",
+            "location": "FORESTS",
+            "sub_component": null,
+            "citations": ["Rehfeldt et al. 2006", "Rosenblad et al. 2023"]
+          }
+        ]
+      },
+      "genotype_phenotype": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["American pika", "Grace's warbler", "gray vireo", "Gunnison's prairie dog", "banded rock rattlesnake", "pinyon jay", "brown-capped rosy-finch", "Rio Grande silvery minnow", "Jemez Mountains salamander", "Chiricahua leopard frog", "boreal toad", "Gila trout", "lesser prairie-chicken", "Mexican gray wolf", "western yellow-billed cuckoo", "southwestern willow flycatcher", "spikedace", "loach minnow", "Colorado pikeminnow", "razorback sucker"]
+    },
+    "partnerships_and_funding": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "The Department alone does not have the authority or resources to implement all conservation actions identified in this SWAP and action implementation is voluntary. Thus, collaboration with appropriate and willing federal, Tribal, state, and local government agencies, non-profit organizations, private landowners, and interested and affected publics is key to the successful implementation of this SWAP.",
+          "location": "CONSERVATION ACTIONS: AN OVERVIEW",
+          "sub_component": "partnerships",
+          "citations": []
+        },
+        {
+          "text": "Land of Enchantment Legacy Funds (75-12-1 through 75-12-2 New Mexico Statutes Annotated 1978) and Government Results and Opportunity Program Funds (NMHR 2025) allocated to the Department starting in 2024 and 2025, respectively, for work on SGCN have dramatically expanded financial resources available for these activities.",
+          "location": "SPECIES AND HABITAT MONITORING",
+          "sub_component": "funding",
+          "citations": []
+        },
+        {
+          "text": "The Southwest Group has continued to meet monthly and has submitted a competitive State Wildlife Grant application for a project focused on assessing habitat connectivity for a diversity of species across three southwestern states.",
+          "location": "REVIEW AND REVISION COORDINATION WITH NEIGHBORING STATES",
+          "sub_component": "partnerships",
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_threat_habitat_degradation": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "increasing spring and summer temperatures, reduced soil and fuel moisture, and drought contribute to increased wildfire activity (Ryan et al. 2008). Wildfires are larger, more frequent, and more intense under recent conditions characterized by higher temperatures, earlier spring snowmelt, and drought",
+          "location": "NATURAL SYSTEM MODIFICATIONS",
+          "sub_component": null,
+          "citations": ["Ryan et al. 2008", "Westerling et al. 2006", "Lettenmaier 2008"]
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_threat_species_vital_rates": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "These uncharacteristically large high-severity wildfires kill wildlife and destroy wildlife habitat and can result in habitat conversion from forest to shrub or grassland habitats",
+          "location": "BIOLOGICAL RESOURCE USE (table section)",
+          "sub_component": null,
+          "citations": ["Guiterman et al. 2017", "Parks and Abatzoglou 2020"]
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_threat_biotic_stressors": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "The distribution of both native and exotic invasive species will be influenced by climate change. Within aquatic systems, warmer waters may help establish aquatic invasive species such as the zebra and quagga mussels and simultaneously reduce the effectiveness of biological and chemical control agents (Hellmann et al. 2008).",
+          "location": "INVASIVE AND OTHER PROBLEMATIC SPECIES, GENES, AND DISEASES",
+          "sub_component": null,
+          "citations": ["Hellmann et al. 2008"]
+        }
+      ],
+      "absence_note": {}
+    }
+  },
+  "actions": {
+    "priority_habitat_identification": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "A portfolio of 2,339 RCOAs has been built for the state that provides the foundation for planning and tracking conservation and restoration actions (Figure 13).",
+          "location": "THE NEW MEXICO RCOA PORTFOLIO",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "This distribution of HUC12s was then compared to the boundaries of 2025 SWAP Conservation Opportunity Areas (COAs) and ecoregions and used to determine the percent areas of COAs and ecoregions intersecting HUC12s with a high likelihood of containing climate refugia (Table 11, Table 12)",
+          "location": "CLIMATE CHANGE REFUGIA",
+          "sub_component": null,
+          "citations": ["Friggens et al. 2025"]
+        },
+        {
+          "text": "Identify climate change (e.g., Michalak et al. 2020) or disturbance refugia (e.g., Rodman et al. 2023) for SGCN and their habitats and implement conservation actions to conserve, expand, or enhance these refugia.",
+          "location": "CLIMATE CHANGE AND SEVERE WEATHER (Southern Rocky Mountains Conservation Profile)",
+          "sub_component": null,
+          "citations": ["Michalak et al. 2020", "Rodman et al. 2023"]
+        }
+      ],
+      "absence_note": {}
+    },
+    "targeted_range_shift_actions": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Direct systems toward desired future conditions where change is unavoidable (e.g., assist organisms in moving to areas with more suitable conditions, plant species that are better adapted to hotter and drier conditions when restoring disturbed sites).",
+          "location": "Summarizing Approaches to Managing for Climate Change Vulnerability",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "time_bound_and_monitoring": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "the provisions for periodic monitoring of SGCN and their habitats, for monitoring the effectiveness of conservation actions, and for adapting conservation actions as appropriate to respond to new information or changing conditions",
+          "location": "REQUIRED ELEMENTS OF THE PLAN",
+          "sub_component": "monitoring",
+          "citations": []
+        },
+        {
+          "text": "The Department will submit its next 10-year, comprehensive review and revision of the SWAP by October 1, 2035.",
+          "location": "REVIEW AND REVISION",
+          "sub_component": "deadline",
+          "citations": []
+        }
+      ],
+      "absence_note": "The document mandates a 10-year review cycle (by October 1, 2035) and requires monitoring of effectiveness of conservation actions as a SWG program requirement. However, individual conservation actions in the ecoregion chapters are framed as 'proposed, voluntary conservation actions' without specific deadlines or milestones attached to each. The monitoring chapter discusses approaches but does not specify time-bound effectiveness monitoring protocols for individual actions. This satisfies a general adaptive management principle (score 1) but does not reach score 2, which requires action-level deadlines AND effectiveness monitoring operationalized per action."
+    },
+    "evidence_of_efficacy": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Researchers with the Natural Resources Institute (NRI) at Texas A and M University analyzed climate vulnerability for 295 vertebrate SGCN for the 2025 SWAP. Vertebrates were chosen as the focus for this analysis due to the greater availability of information for most of these species",
+          "location": "SPECIES VULNERABILITY TO CLIMATE CHANGE",
+          "sub_component": null,
+          "citations": ["NRI 2025"]
+        },
+        {
+          "text": "Among the 10 modeled SGCN, results suggested that the conservation of at-risk species in New Mexico in the context of a changing climate over the next 50 years will present substantial challenges. Almost all selected species had significant projected overall loss of suitable environmental conditions.",
+          "location": "CLIMATE CHANGE REFUGIA / Potential Future Climate Refugia for SGCN in Conservation Opportunity Areas",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Translocation, or movement of individuals to historically occupied locations, is less controversial and may help species cope with short-term habitat change, dispersal barriers, or increasing population fluctuations. Programs to move populations, however, tend to be costly and are often unsuccessful(Fischer and Lindenmayer 2000).",
+          "location": "MANAGING CLIMATE CHANGE VULNERABILITY (table section)",
+          "sub_component": null,
+          "citations": ["Fischer and Lindenmayer 2000"]
+        }
+      ],
+      "absence_note": {},
+      "projects": ["CCVI application to 295 vertebrate SGCN by NRI/Texas A&M (NRI 2025): provides directly applicable vulnerability scores for New Mexico SGCN using a validated framework, supporting prioritization of conservation actions.", "SDM-based refugia study by NHNM for 10 SGCN within the Jemez Mountains COA (Muldavin 2024): modeled current and future (2075) habitat suitability under RCP4.5 and RCP8.5, showing variable refugia effectiveness across species—providing limited but real evidence that some COAs will serve as climate refugia.", "USFS RMRS climate refugia analysis (Friggens et al. 2025): compiled 70+ macro- and microrefugia indicators across watersheds, cross-walked to COAs and ecoregions, providing applied spatial evidence for prioritizing conservation actions."]
+    },
+    "adaptation_planning_frameworks": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Management frameworks such as Resist-Accept-Direct (RAD) are intended to help managers navigate the challenges, including a lack of predictability, associated with ecosystem transformations (emergence of ecological systems that are dramatically divergent from previous ecosystem structure and function) resulting from climate change and other forcings(Lynch et al. 2021).",
+          "location": "MANAGING CLIMATE CHANGE VULNERABILITY (table section)",
+          "sub_component": null,
+          "citations": ["Lynch et al. 2021"]
+        },
+        {
+          "text": "Management actions designed to cope with climate change effects encompass four main strategies: resistance, resilience, response (or direct), and realignment (or accept) (Millar et",
+          "location": "Summarizing Approaches to Managing for Climate Change Vulnerability",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Incorporate appropriate climate adaptation strategies and frameworks into projects designed to address these synergistic effects. This may include enhancing connectivity (CEQ 2023), facilitating a species' innate adaptive capacity (Thurman et al. 2022), enhancing genetic diversity (Powell 2023), considering local adaptation (Meek et al. 2023), or considering whether it is most appropriate to resist, accept, or direct ecosystem transformation (Lynch et al. 2021, Stevens et al. 2021).",
+          "location": "ACTIONS THAT ADDRESS MULTIPLE THREATS (High Plains and Tablelands)",
+          "sub_component": null,
+          "citations": ["Lynch et al. 2021", "Stevens et al. 2021"]
+        }
+      ],
+      "absence_note": {}
+    }
+  },
+  "coding_meta": {
+    "coder": "llm:claude-sonnet-4-6",
+    "model": "claude-sonnet-4-6",
+    "provider": "claude",
+    "codebook_version": "0.4",
+    "ingest": "text",
+    "design": "single",
+    "temperature": null,
+    "thinking": null,
+    "thinking_effort": null,
+    "coded_at": "2026-07-06T18:39:24Z",
+    "notes": {}
+  }
+}

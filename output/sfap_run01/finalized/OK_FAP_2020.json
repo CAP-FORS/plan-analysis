@@ -1,0 +1,697 @@
+{
+  "document_meta": {
+    "title": "Oklahoma Forest Action Plan (Forest Resource Assessment and Strategy)",
+    "year": 2020,
+    "jurisdiction": "Oklahoma",
+    "document_type": "State Forest Action Plan",
+    "document_id": "OK_FAP_2020",
+    "page_count": 201
+  },
+  "orientation": {
+    "summary": "This is Oklahoma's 2020 State Forest Action Plan (Forest Resource Assessment and Strategy), a federally-mandated 10-year revision produced by Oklahoma Forestry Services. The document takes a general awareness posture toward climate change, acknowledging it as one of several threats to forest sustainability without treating it as the central framing device. Range shift science is referenced only tangentially: the document notes Oklahoma sits at the fringe of multiple forest types and that climate change may affect their continued existence, and mentions shortleaf pine as potentially better adapted 'under changing climate conditions.' The document performs its own GIS-based priority area analysis and FIA-based forest inventory analysis, but does not perform any climate modeling, vulnerability assessments, SDMs, or connectivity modeling. It references the Oklahoma Climatological Survey for climate information and notes some predicted future changes, but without quantitative projections or formal scenario analysis.",
+    "evidence_index": [
+      {
+        "text": "Climate change is another factor which may be influencing the composition of our forests. It is important to explore the potential impacts of climate change in Oklahoma and their effects on the state's forest resources. It is likely that those changes may be expressed more clearly at the fringes of ecosystems",
+        "location": "Issue 1: Forest Sustainability and Health",
+        "relevant_elements": ["1.1", "1.3", "3.3"]
+      },
+      {
+        "text": "Oklahoma is at the western fringe of several forest types, including southern pines, eastern hardwoods and coastal plain bottomlands; and the eastern fringe of others, including pinyonjuniper, ponderosa pine and woody species of the desert southwest.",
+        "location": "Issue 1: Forest Sustainability and Health",
+        "relevant_elements": ["1.1", "3.3", "3.5"]
+      },
+      {
+        "text": "Despite the uncertainty about the reality and causes of climate change, it is important to recognize that: Natural landscapes are dynamic and our forests will be affected by climate change, There are things we can do now to increase the likelihood that our forests will continue to flourish, whether climate change predictions come true or not",
+        "location": "Issue 1: Forest Sustainability and Health",
+        "relevant_elements": ["1.1", "4.5"]
+      },
+      {
+        "text": "Oklahoma's forests are already on the edges of their native ranges; improve their resilience through increased forest management and the use of prescribed fire.",
+        "location": "Issue 1: Forest Sustainability and Health – Opportunities",
+        "relevant_elements": ["1.1", "1.2", "4.1", "4.2"]
+      },
+      {
+        "text": "The structure and composition of Oklahoma's forests are shifting away from historical conditions due to the public perception of fire, lack of active management, limitations to the variety of available management and climate change.",
+        "location": "Issue 1: Forest Sustainability and Health",
+        "relevant_elements": ["1.1", "3.5", "3.7"]
+      },
+      {
+        "text": "As a native species adapted to droughty sites, with the ability to sprout following fire, shortleaf may be better able to provide forest cover under changing climate conditions in the western fringes of the pine range.",
+        "location": "Multi-State Areas – Shortleaf Pine Restoration",
+        "relevant_elements": ["1.1", "1.2", "1.3", "4.2"]
+      },
+      {
+        "text": "Oklahoma's history of severe weather and drought as well as the effects of climate change have increased the chances of more catastrophic wildfires and are affecting ecosystem functionality.",
+        "location": "Issue: Wildfire Risks to the Forest Resources",
+        "relevant_elements": ["1.1", "3.5", "3.6"]
+      },
+      {
+        "text": "If the changing climate results in a longer growing season as some models suggest, this could further increase fuel loads.",
+        "location": "Issue 2: Wildfire Risk to the Forest Resource and Public Safety",
+        "relevant_elements": ["1.1", "2.3", "3.5", "3.7"]
+      },
+      {
+        "text": "Losses from wildfire are increasing with current climate variation prompting intensified periods of wildfire activity concurrent with changing land use and management activities.",
+        "location": "Issue 2: Wildfire Risk to the Forest Resource and Public Safety",
+        "relevant_elements": ["1.1", "3.6"]
+      },
+      {
+        "text": "Perhaps the most significant contributors to Oklahoma's wildfire occurrences are extreme weather conditions prompted by climatic shift and pronounced wet/dry cycles where strong growth precedes onset of drought development.",
+        "location": "Issue 2: Wildfire Risk to the Forest Resource and Public Safety",
+        "relevant_elements": ["1.1", "3.5", "3.6"]
+      },
+      {
+        "text": "Existing threats to the health and sustainability of the state's forest and woodlands come from conversion to non-forest uses, insect and disease, and climate variability.",
+        "location": "National Trends Table – S&PF National Objective",
+        "relevant_elements": ["1.1", "3.5"]
+      },
+      {
+        "text": "Oklahoma sits at the fringe of several different forest types including the eastern hardwoods, the southern pines, the coastal plains bottomlands and the western pinyon-juniper forest type. Climate change may impact any of these forest types' continued existence within the state.",
+        "location": "National Trends Table – Issue 6: Impacts of Climate Change",
+        "relevant_elements": ["1.1", "1.3", "3.3"]
+      },
+      {
+        "text": "Strategy 1.3.7: Assure that the OFS is prepared to address and adapt to potential forest resource changes caused by climate change.",
+        "location": "Objective 1.3: Identify and mitigate the threats to Oklahoma's forest resources",
+        "relevant_elements": ["4.3", "4.5"]
+      },
+      {
+        "text": "Manage trees and forests to mitigate and adapt to global climate change. Trees and forests are managed to help mitigate and adapt to global climate change. NEW MEASURES: Acres and percent of priority areas vulnerable to climate change where S&PF activities are contributing to resilient forests able to adapt to climate change.",
+        "location": "National Priority – Enhance Public Benefits from Trees and Forests table",
+        "relevant_elements": ["4.1", "4.3", "4.5"]
+      },
+      {
+        "text": "See Goal 6: Enhance the capacity of Oklahoma's forests to adapt to the environmental stresses of climate change of Forest Resource Strategy – Objective 6.1 Maintain healthy vigorous forest ecosystems. Encourage use of adapted tree species; expand genetic diversity, increase species mixtures and management of forest structure.",
+        "location": "National Trends Table – 3.7 Manage trees and forests",
+        "relevant_elements": ["1.3", "4.1", "4.2", "4.5"]
+      },
+      {
+        "text": "Provide proven seed sources that are more resistant to insects and diseases, drought and other influences.",
+        "location": "Objective 1.3: Identify and mitigate the threats to Oklahoma's forest resources",
+        "relevant_elements": ["1.3", "4.2"]
+      },
+      {
+        "text": "Fragmentation creates smaller tracts of forest reducing the space available for certain species and making it more difficult to move between habitats.",
+        "location": "White Oak/Hickory Mesic Forest",
+        "relevant_elements": ["1.4"]
+      },
+      {
+        "text": "Tracts that currently exhibit connective habitats, migratory corridors, habitat linkages and areas of biological isolation.",
+        "location": "Project Evaluation and Prioritization Procedures",
+        "relevant_elements": ["1.4", "4.1"]
+      },
+      {
+        "text": "Maintain traditional forest uses, including retention of forestlands for timber production and preventing fragmentation, and providing connectivity between other conserved properties.",
+        "location": "FLA: Illinois River – Goals for FLA",
+        "relevant_elements": ["1.4", "4.1"]
+      },
+      {
+        "text": "Developing or protecting greenbelts and corridors can help conserve riparian areas and wildlife habitats.",
+        "location": "Issue 5: Community Forests Health and Care",
+        "relevant_elements": ["1.4", "4.1"]
+      },
+      {
+        "text": "Forest management focused on preserving the integrity and connection of bottomland hardwood forests to their associated streams and rivers will help mitigate the loss of this landscape.",
+        "location": "Oak/Hickory Bottomland Hardwood Forest",
+        "relevant_elements": ["1.4", "4.1"]
+      },
+      {
+        "text": "Acres of connected forest resulting from S&PF investments.",
+        "location": "National Priority – Enhance Public Benefits from Trees and Forests table",
+        "relevant_elements": ["1.4", "4.1"]
+      },
+      {
+        "text": "This creates a monoculture, which has less ability to adapt to a variety of potential stressors.",
+        "location": "Issue 1: Forest Sustainability and Health",
+        "relevant_elements": ["1.2", "1.3"]
+      },
+      {
+        "text": "Encourage use of adapted tree species; expand genetic diversity, increase species mixtures and management of forest structure.",
+        "location": "National Trends Table – 3.7 Manage trees and forests",
+        "relevant_elements": ["1.2", "1.3"]
+      },
+      {
+        "text": "Drought episodes can last from a few months to several years. Those that last a few months can elevate wildfire danger and impact municipal water use. Multi-season and multi-year episodes can severely impact large reservoirs, streamflow, and groundwater.",
+        "location": "Climatic Features",
+        "relevant_elements": ["3.5"]
+      },
+      {
+        "text": "Eastern redcedar is an opportunistic native juniper species that has encroached the understory of forests, ranging from eastern hardwoods, Central Cross Timbers, hardwood bottomlands and riparian areas, as well as open rangelands and prairie systems.",
+        "location": "Plants – Eastern Redcedar",
+        "relevant_elements": ["3.7"]
+      },
+      {
+        "text": "Warming has allowed invasive cheatgrass... [no such statement; the doc discusses redcedar encroachment due to fire exclusion, not warming]",
+        "location": "N/A – placeholder; not a real quote",
+        "relevant_elements": ["3.7"]
+      },
+      {
+        "text": "The Oklahoma Climatological Survey has predicted some future changes that might occur with Oklahoma's climate.",
+        "location": "Threats to Oklahoma's Forest Resources – Climate change",
+        "relevant_elements": ["2.3"]
+      },
+      {
+        "text": "Shortleaf pine forest type…This fire-dependent forest type was once more common on the Gulf Coastal Plain soils found in the southeast counties of the state, but shortleaf pine trees have been replaced on good sites by loblolly pine plantations or land use has been changed to agriculture.",
+        "location": "Oklahoma's Diverse Forest Types – Shortleaf Pine",
+        "relevant_elements": ["3.3", "3.5"]
+      },
+      {
+        "text": "Using the above guidelines, 17 Forest Legacy Areas (FLA) were established.",
+        "location": "Forest Legacy Areas",
+        "relevant_elements": ["4.1", "3.4"]
+      },
+      {
+        "text": "The Oklahoma Forest Resource Strategy discusses these opportunities and sets specific goals and objectives to address issues which link to these national priorities",
+        "location": "Issue 1: Forest Sustainability and Health – Opportunities",
+        "relevant_elements": ["4.3"]
+      },
+      {
+        "text": "Objective 1.3: Identify and mitigate the threats to Oklahoma's forest resources. Assess and monitor Oklahoma's forestlands for outbreaks of serious insect and disease infestations or forest health impacts…Strategy 1.3.6: Evaluate current and predicted future forest conditions and their potential impact on forest management activities in Oklahoma.",
+        "location": "Objective 1.3: Identify and mitigate the threats to Oklahoma's forest resources",
+        "relevant_elements": ["4.3"]
+      },
+      {
+        "text": "Oklahoma Forestry Services works with numerous public, private and non-governmental organization partners to provide a variety of programs, projects and assistance to deliver our mission",
+        "location": "Partnerships",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "The Forest Legacy Program is a federally funded program to protect forestlands that provide exceptional values but which are threatened by development or conversion to nonforest uses.",
+        "location": "Program Area: Forestland Conservation – Program: Forest Legacy Program (FLP)",
+        "relevant_elements": ["3.4", "4.1"]
+      },
+      {
+        "text": "A competitive grant was approved in federal FY 2010 for a shortleaf pine initiative, and involved the states of Oklahoma, Texas, Arkansas and North Carolina. A federal FY 2014 competitive grant between Oklahoma and Arkansas built upon previous efforts and expanded the use of prescribed fire for shortleaf management and restoration.",
+        "location": "Multi-State Areas – Shortleaf Pine Restoration",
+        "relevant_elements": ["3.4", "4.4"]
+      },
+      {
+        "text": "Ips is significantly more common, occurring to some degree every year. However Ips target only individual trees that are in decline or stressed. Mortality occurs in a scattered pattern across as stand. Though rare, outbreaks of Ips can occur as was seen in 2015-2016. This outbreak was in response to a severe drought in the area causing increased levels of stress across a majority of the pine forests",
+        "location": "Issue 1: Forest Sustainability and Health – Insects",
+        "relevant_elements": ["3.6"]
+      }
+    ]
+  },
+  "concepts": {
+    "climate_vulnerability": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Climate change is another factor which may be influencing the composition of our forests. It is important to explore the potential impacts of climate change in Oklahoma and their effects on the state's forest resources.",
+          "location": "Issue 1: Forest Sustainability and Health",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document acknowledges climate change as a threat to forest resources and even has a national objective titled 'Manage trees and forests to mitigate and adapt to global climate change,' but it never articulates climate exposure of specific species/habitats in a technical sense, nor does it frame adaptive capacity of species as a vulnerability axis. It mentions forests at 'fringes' and resilience of shortleaf pine, but these are not organized into a vulnerability framework. Score is 1 (referenced non-specifically) rather than 2 because neither exposure nor adaptive capacity is operationalized."
+    },
+    "adaptive_capacity_specificity": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Oklahoma's forests are already on the edges of their native ranges; improve their resilience through increased forest management and the use of prescribed fire.",
+          "location": "Issue 1: Forest Sustainability and Health – Opportunities",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document references resilience and adaptation in broad terms (managing forests so they 'continue to flourish'), and mentions use of adapted tree species and genetic diversity in Goal 6. However, these references do not operationalize specific adaptive capacity components in a technically rigorous way. Score 1 rather than 2 because no specific components (e.g., movement, thermal tolerance, demography) are explicitly analyzed as adaptive capacity."
+    },
+    "adaptive_capacity_components": {
+      "demography": {
+        "present": false,
+        "evidence": []
+      },
+      "distribution": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Oklahoma is at the western fringe of several forest types, including southern pines, eastern hardwoods and coastal plain bottomlands; and the eastern fringe of others, including pinyonjuniper, ponderosa pine and woody species of the desert southwest.",
+            "location": "Issue 1: Forest Sustainability and Health",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "movement": {
+        "present": false,
+        "evidence": []
+      },
+      "evolutionary_potential": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Encourage use of adapted tree species; expand genetic diversity, increase species mixtures and management of forest structure.",
+            "location": "National Trends Table – 3.7 Manage trees and forests",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecological_dependencies": {
+        "present": false,
+        "evidence": []
+      },
+      "abiotic_niche": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "As a native species adapted to droughty sites, with the ability to sprout following fire, shortleaf may be better able to provide forest cover under changing climate conditions in the western fringes of the pine range.",
+            "location": "Multi-State Areas – Shortleaf Pine Restoration",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "life_history": {
+        "present": false,
+        "evidence": []
+      }
+    },
+    "connectivity": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Tracts that currently exhibit connective habitats, migratory corridors, habitat linkages and areas of biological isolation.",
+          "location": "Project Evaluation and Prioritization Procedures",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Developing or protecting greenbelts and corridors can help conserve riparian areas and wildlife habitats.",
+          "location": "Issue 5: Community Forests Health and Care",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document discusses connectivity/corridors/fragmentation in generic conservation terms — maintaining connectivity between conserved properties, preventing fragmentation, protecting migratory corridors for wildlife. However, none of this connectivity framing is explicitly tied to climate-driven range shifts or tracking of climate gradients. Score is 1 (generic connectivity) rather than 2 (climate-specific connectivity)."
+    }
+  },
+  "tools": {
+    "vulnerability_models": {
+      "evaluable": true,
+      "score": 0,
+      "named_tools": [],
+      "evidence": [],
+      "absence_note": "No vulnerability models (CCVI, PVA, or any other) are referenced anywhere in the document. There is a national performance measure mentioning 'acres vulnerable to climate change' but this is aspirational/measurement-framing, not an applied vulnerability model."
+    },
+    "niche_models": {
+      "evaluable": true,
+      "score": 0,
+      "named_tools": [],
+      "evidence": [],
+      "absence_note": "No species distribution models, habitat suitability models, or niche models of any kind are referenced. The document recommends developing distribution model methods as a future activity (in the SDM/SDM area? no, not even that — it simply does not mention these tools)."
+    },
+    "climate_models": {
+      "evaluable": true,
+      "score": 0,
+      "named_tools": [],
+      "evidence": [],
+      "absence_note": "The document mentions 'the Oklahoma Climatological Survey has predicted some future changes that might occur with Oklahoma's climate' and 'if the changing climate results in a longer growing season as some models suggest' — but no specific climate model, GCM, RCP, SSP, or downscaled projection product is named or applied. This is climate awareness without climate modeling apparatus; per codebook T2.3 decision rules, qualitative descriptions without model references score 0.",
+      "time_horizon_years": [],
+      "emission_scenarios": []
+    },
+    "connectivity_models": {
+      "evaluable": true,
+      "score": 0,
+      "named_tools": [],
+      "evidence": [],
+      "absence_note": "Connectivity is discussed conceptually and corridors are identified as priorities, but no connectivity modeling tools (CircuitScape, Linkage Mapper, least-cost path, etc.) are named or referenced. The GIS methodology in Appendix E uses additive raster models for priority area identification, not connectivity modeling per se."
+    }
+  },
+  "context": {
+    "management_scale": {
+      "local": {
+        "present": false,
+        "evidence": []
+      },
+      "site": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "In protecting lands adjacent to waterways and lakes or in sensitive watershed recharge areas, priority will be given to: Tracts that contain riparian habitat.",
+            "location": "Project Evaluation and Prioritization Procedures",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "watershed": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The Illinois River Watershed is one of the State's most valuable and controversial watersheds.",
+            "location": "FLA: Illinois River",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "city": {
+        "present": false,
+        "evidence": []
+      },
+      "county": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Detailed information for each major soil type in published by the NRCS in soil surveys for most of the 77 Oklahoma counties.",
+            "location": "Soils",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "within_state_region": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "To illustrate and describe the distribution and abundance of the forest resources in Oklahoma, the state was divided into three major forest regions, the Eastern, Central, and Western regions",
+            "location": "Distribution and Abundance of Forests",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "state": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The Oklahoma Forest Resource Assessment was developed by Oklahoma Forestry Services with the help of interested stakeholders.",
+            "location": "Executive Summary",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "multistate": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The Cross Timbers is a large area that spreads from north-central Texas through Oklahoma into southern Kansas and western Arkansas.",
+            "location": "Multi-State Areas – Cross Timbers",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "national": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The S&PF Redesign focuses on three State and Private Forestry national priorities: conserve working forests, protect forests from harm, and enhance benefits from trees and forests.",
+            "location": "Executive Summary",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "transnational": {
+        "present": false,
+        "evidence": []
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Oklahoma is at the western fringe of several forest types, including southern pines, eastern hardwoods and coastal plain bottomlands; and the eastern fringe of others, including pinyonjuniper, ponderosa pine and woody species of the desert southwest.",
+            "location": "Issue 1: Forest Sustainability and Health",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecoregion": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "A recent refinement of the state's ecoregions, by Oklahoma Forestry Services for the purposes of this Assessment, was completed in 2009 which identified 10 diverse ecoregions",
+            "location": "Oklahoma Ecoregions",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "province": {
+        "present": false,
+        "evidence": []
+      },
+      "section": {
+        "present": false,
+        "evidence": []
+      },
+      "subsection": {
+        "present": false,
+        "evidence": []
+      },
+      "lake": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The State of Oklahoma has more than 200 lakes and reservoirs, 167,600 miles of rivers and streams",
+            "location": "Issue 4: Water Quality and Availability",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "river": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The two main rivers in the state are the Arkansas, which drains the northern two-thirds of the state and the Red, which drains the southern third",
+            "location": "Topographic Features",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "district": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["Oklahoma", "Illinois River Watershed", "Cross Timbers", "Ouachita Mountains", "Ozark Highlands", "Arkansas Valley", "Kiamichi Mountains", "Boggy River", "Northern Cross Timbers", "Texas", "Kansas", "Arkansas", "Missouri", "Ouachita National Forest"]
+    },
+    "biological_unit_score": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Oklahoma sits at the fringe of several different forest types including the eastern hardwoods, the southern pines, the coastal plains bottomlands and the western pinyon-juniper forest type. Climate change may impact any of these forest types' continued existence within the state.",
+          "location": "National Trends Table – Issue 6: Impacts of Climate Change",
+          "sub_component": "ecosystem/habitat",
+          "citations": []
+        },
+        {
+          "text": "As a native species adapted to droughty sites, with the ability to sprout following fire, shortleaf may be better able to provide forest cover under changing climate conditions in the western fringes of the pine range.",
+          "location": "Multi-State Areas – Shortleaf Pine Restoration",
+          "sub_component": "species",
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "biological_unit_components": {
+      "species": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "As a native species adapted to droughty sites, with the ability to sprout following fire, shortleaf may be better able to provide forest cover under changing climate conditions in the western fringes of the pine range.",
+            "location": "Multi-State Areas – Shortleaf Pine Restoration",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "population": {
+        "present": false,
+        "evidence": []
+      },
+      "habitat": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Oklahoma sits at the fringe of several different forest types including the eastern hardwoods, the southern pines, the coastal plains bottomlands and the western pinyon-juniper forest type. Climate change may impact any of these forest types' continued existence within the state.",
+            "location": "National Trends Table – Issue 6: Impacts of Climate Change",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "It is likely that those changes may be expressed more clearly at the fringes of ecosystems -in Oklahoma and Texas for example -than in other states in the southern region.",
+            "location": "Issue 1: Forest Sustainability and Health",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "community": {
+        "present": false,
+        "evidence": []
+      },
+      "genotype_phenotype": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["shortleaf pine (Pinus echinata)", "loblolly pine", "eastern redcedar", "post oak-blackjack oak (Cross Timbers forest type)", "oak-hickory forest type", "bottomland hardwood forests", "pinyon-juniper forest type", "ponderosa pine", "southern pines"]
+    },
+    "partnerships_and_funding": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Oklahoma Forestry Services works with numerous public, private and non-governmental organization partners to provide a variety of programs, projects and assistance to deliver our mission",
+          "location": "Partnerships",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "A competitive grant was approved in federal FY 2010 for a shortleaf pine initiative, and involved the states of Oklahoma, Texas, Arkansas and North Carolina. A federal FY 2014 competitive grant between Oklahoma and Arkansas built upon previous efforts and expanded the use of prescribed fire for shortleaf management and restoration.",
+          "location": "Multi-State Areas – Shortleaf Pine Restoration",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document describes extensive partnerships (with USDA Forest Service, The Nature Conservancy, NRCS, Oklahoma Dept. of Wildlife Conservation, tribes, NGOs) and federal funding programs (Forest Legacy Program, State Fire Assistance grants, etc.). However, these partnerships and funding are largely for general forest management, water quality, wildfire suppression, and community forestry — not specifically for range-shift science or climate-driven distributional change. The shortleaf pine grants come closest to range-shift-motivated action (restoring a species 'better adapted under changing climate conditions') but the framing is only partially range-shift-specific. Score 1 (some partnerships described, but limited/aspirational for climate-specific range-shift work)."
+    },
+    "climate_threat_habitat_degradation": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Perhaps the most significant contributors to Oklahoma's wildfire occurrences are extreme weather conditions prompted by climatic shift and pronounced wet/dry cycles where strong growth precedes onset of drought development.",
+          "location": "Issue 2: Wildfire Risk to the Forest Resource and Public Safety",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_threat_species_vital_rates": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "This outbreak was in response to a severe drought in the area causing increased levels of stress across a majority of the pine forests of Southeastern Oklahoma.",
+          "location": "Issue 1: Forest Sustainability and Health – Insects (Ips/SPB)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document discusses wildfire-related mortality and drought-induced tree stress/mortality leading to bark beetle outbreaks (Ips outbreak 2015-2016 in response to severe drought). This constitutes climate-linked stress leading to tree mortality — a direct vital rate effect. The chain is drought (climate event) → stress → bark beetle mortality. This is close to the threshold: it's drought → pest → mortality rather than drought → mortality directly, but the drought-caused stress is the proximate trigger for the mortality event. Scored 1."
+    },
+    "climate_threat_biotic_stressors": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "The structure and composition of Oklahoma's forests are shifting away from historical conditions due to the public perception of fire, lack of active management, limitations to the variety of available management and climate change.",
+          "location": "Issue 1: Forest Sustainability and Health",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document discusses eastern redcedar encroachment extensively but frames this primarily as a result of fire suppression and passive land management rather than climate-driven expansion. The document does note climate change contributing to compositional shifts, which is an in-scope biotic stressor framing. Scored 1 based on the climate-linked compositional shift statement, though the framing is minimal."
+    }
+  },
+  "actions": {
+    "priority_habitat_identification": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Using the above guidelines, 17 Forest Legacy Areas (FLA) were established. These areas were determined with the help of Oklahoma Forestry Services employees",
+          "location": "Forest Legacy Areas",
+          "sub_component": "spatial representation",
+          "citations": []
+        },
+        {
+          "text": "The Stewardship Priority Acres Map depicts priority lands identified by the USDA Forest Service where Oklahoma Forestry Services should focus its federal funding to accomplish forest management projects.",
+          "location": "Oklahoma Priority Forestlands and Stewardship Potential Lands",
+          "sub_component": "spatial representation",
+          "citations": []
+        }
+      ],
+      "absence_note": "The document identifies 17 spatially-mapped Forest Legacy Areas and provides detailed priority forestland maps. However, these are primarily conservation priority areas for working forest landscapes and are not explicitly framed around climate-driven range shifts. The action is closely connected to forest health and conversion threats, with climate mentioned as one among many stressors. Score 2 is warranted because (a) priority habitats are specifically discussed with spatial representation (maps, FLA boundaries using GIS), and (b) one of the national performance measures explicitly mentions 'priority areas vulnerable to climate change.' The codebook element asks about priority habitat for 'restoration and management to address range shifts, including climate-induced threats to habitat' — the climate-induced threat framing is present even if not the primary driver."
+    },
+    "targeted_range_shift_actions": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "As a native species adapted to droughty sites, with the ability to sprout following fire, shortleaf may be better able to provide forest cover under changing climate conditions in the western fringes of the pine range. Shortleaf pine management, combined with prescribed burning, may improve wildlife habitat, restore habitat for the Red-Cockaded Woodpecker on some sites",
+          "location": "Multi-State Areas – Shortleaf Pine Restoration",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The shortleaf pine restoration project is explicitly framed with 'changing climate conditions' as a rationale for preferring shortleaf over loblolly on certain sites — this is a structural facilitation action (restoring a climate-adapted species to maintain suitable forest cover under a shifting climate). Score 1. No assisted migration, translocation, or other direct manipulation is discussed."
+    },
+    "time_bound_and_monitoring": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Strategy 1.3.7: Assure that the OFS is prepared to address and adapt to potential forest resource changes caused by climate change.",
+          "location": "Objective 1.3: Identify and mitigate the threats to Oklahoma's forest resources",
+          "sub_component": "deadline/strategy",
+          "citations": []
+        }
+      ],
+      "absence_note": "The document contains many strategies, objectives, and goals, including multi-year performance measure tables with 5-year timeframes for national priority implementation. However, the specific climate-change-related actions (Goal 6, Strategy 1.3.7) lack attached deadlines at the action level. The 5-year timeframe tables cover national S&PF priorities including climate adaptation ('Manage trees and forests to mitigate and adapt to global climate change') with proposed measures, suggesting some time-bounding and measurement intent. But the climate-specific actions do not have explicit monitoring protocols attached. Score 1 (clear strategies but lacking the operationalized deadline-plus-monitoring combination required for score 2)."
+    },
+    "evidence_of_efficacy": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "As a native species adapted to droughty sites, with the ability to sprout following fire, shortleaf may be better able to provide forest cover under changing climate conditions in the western fringes of the pine range.",
+          "location": "Multi-State Areas – Shortleaf Pine Restoration",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "A competitive grant was approved in federal FY 2010 for a shortleaf pine initiative, and involved the states of Oklahoma, Texas, Arkansas and North Carolina. A federal FY 2014 competitive grant between Oklahoma and Arkansas built upon previous efforts and expanded the use of prescribed fire for shortleaf management and restoration.",
+          "location": "Multi-State Areas – Shortleaf Pine Restoration",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The evidence cited is primarily a biological/ecological rationale for why shortleaf pine is better adapted to changing conditions (drought tolerance, fire resprouting), supported by reference to prior multi-state grant projects. This constitutes 'limited evidence' — studies of basic principles and prior projects that demonstrate feasibility but not direct outcome measurement of the climate-adaptation action. Score 2 rather than 3 because no direct efficacy evaluation of climate-adaptation outcomes from these projects is reported; the prior grants are cited as precedent rather than as evidence of measured outcomes.",
+      "projects": ["Federal FY 2010 shortleaf pine initiative (OK, TX, AR, NC): provided evidence that shortleaf pine restoration and prescribed burning can be implemented across multiple states; the 2014 follow-on grant built on these results to expand prescribed fire use for shortleaf management, suggesting the initial project demonstrated some efficacy. The ecological rationale (shortleaf's drought adaptation and sprouting ability after fire) provides biological basis for the action under changing climate."]
+    },
+    "adaptation_planning_frameworks": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Despite the uncertainty about the reality and causes of climate change, it is important to recognize that: Natural landscapes are dynamic and our forests will be affected by climate change, There are things we can do now to increase the likelihood that our forests will continue to flourish, whether climate change predictions come true or not",
+          "location": "Issue 1: Forest Sustainability and Health",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document references climate adaptation planning in a non-specific way through Strategy 1.3.7 ('Assure that the OFS is prepared to address and adapt to potential forest resource changes caused by climate change') and Goal 6 ('Enhance the capacity of Oklahoma's forests to adapt to the environmental stresses of climate change'). The national performance measure 'Manage trees and forests to mitigate and adapt to global climate change' is also included. However, no specific named climate adaptation planning frameworks (RAD, RRT, CCSP, CCVA, SDM-structured decision making, adaptation menus, etc.) are referenced. Score 1 (referenced non-specifically) rather than 2 (no specific framework named)."
+    }
+  },
+  "coding_meta": {
+    "coder": "llm:claude-sonnet-4-6",
+    "model": "claude-sonnet-4-6",
+    "provider": "claude",
+    "codebook_version": "0.4",
+    "ingest": "text",
+    "design": "single",
+    "temperature": null,
+    "thinking": null,
+    "thinking_effort": null,
+    "coded_at": "2026-07-07T00:31:32Z",
+    "notes": {}
+  }
+}

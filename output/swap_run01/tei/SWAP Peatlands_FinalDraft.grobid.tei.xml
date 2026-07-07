@@ -1,0 +1,1462 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main"></title>
+				<funder>
+					<orgName type="full">USFWS</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Natural Resources Ducks Unlimited</orgName>
+								<orgName type="institution" key="instit1">Peatlands Contributors Michigan Natural Features Inventory Michigan Nature Association Michigan</orgName>
+								<orgName type="institution" key="instit2">John Ball Zoo U.S. Geological Survey</orgName>
+								<orgName type="institution" key="instit3">Michigan Fish and Wildlife Cooperative Research Unit</orgName>
+							</affiliation>
+						</author>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">06BBA8BC33C46FCD79B4138A33942F78</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.1" ident="GROBID" when="2026-07-06T12:27+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>What are peatlands?</head><p>Peatlands are a special type of wetland found across Michigan. They are characterized by organic soils called peat, which builds up over time and is composed of partially decayed plant material. Peat develops because the water in these areas slows down the natural breakdown of dead plants, allowing organic matter to accumulate, sometimes more than a foot deep.</p><p>There are two main types of peatlands in Michigan: ombrotrophic peatlands (bogs and muskegs) and minerotrophic peatlands (fens). Ombrotrophic peatlands receive their water and nutrients from precipitation. Minerotrophic peatlands receive minerals and nutrients from either surface water or groundwater sources that have been in contact with mineral soils or bedrock. Bogs and muskegs are usually acidic, while fens range from slightly acidic to alkaline <ref type="bibr" target="#b9">(Cohen et al. 2015</ref><ref type="bibr" target="#b11">, Cohen et al. 2025)</ref>.</p><p>Each peatland type forms in different parts of the landscape. Bogs often form in deep holes left by glaciers (called kettle depressions), while muskegs grow in larger, flatter areas of former lakeplain. Fens also form in glacial landscapes and rely on groundwater that can travel for miles before reaching them, making it hard to track and manage threats <ref type="bibr" target="#b38">(Sampath et al. 2015</ref><ref type="bibr" target="#b39">(Sampath et al. , 2016))</ref>.</p><p>Non-forested peatlands are the focus of this chapter. They are covered in mosses, grasses, sedges, wildflowers, low shrubs, and sometimes small and scattered conifer trees. The chemistry of their water and soil creates just the right conditions for unique plants and animals, many of which can't live anywhere else. These natural communities are also shaped by natural events like flooding, fire, beaver activity, wind, and insect outbreaks <ref type="bibr" target="#b9">(Cohen et al. 2015</ref><ref type="bibr" target="#b11">, Cohen et al. 2025)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Why are peatlands important?</head><p>Peatlands are the result of thousands of years of interaction among geology, climate, and plant life and they play an important role in both our environment and economy. Accomplishments Michigan Natural Features Inventory (MNFI) developed a habitat suitability model for Mitchell's Satyr for Michigan's Lower Peninsula. The Mitchell's Satyr Working Group established a captive propagation facility for Mitchell's Satyr in partnership with the U.S. Fish and Wildlife Service (USFWS), MNFI, John Ball Zoo and Kalamazoo Nature Center, which has already established a new satyr population in Washtenaw County. Initial success of Poweshiek Skipperling captive rearing program in partnership with MNFI, Minnesota Zoo, and John Ball Zoo. Over 1000 adult butterflies were released in 2025 with plans for more releases in 2026 and beyond.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>One of the most important functions of peatlands is carbon storage. Although they cover only about 3% of the Earth's surface, they store an estimated 30% of the world's soil carbon <ref type="bibr" target="#b40">(Scharlemann et al. 2014</ref><ref type="bibr" target="#b13">, Dargie et al. 2017</ref><ref type="bibr" target="#b24">, Leifeld and Menichetti 2018)</ref>. That makes them powerful carbon sinks by locking away carbon dioxide in slowly decomposing plant matter.</p><p>Peatlands also support a wide range of wildlife like American woodcock, ruffed grouse, Eastern cottontail, muskrats, American mink, and North American beaver. Open pools attract frogs, turtles, and waterfowl, while endangered Hine's emerald dragonflies and Mitchell's satyrs bask near springs and seeps. Whether you're a hunter, birder, or botanist, peatlands offer a wealth of life to observe and explore.</p><p>Fens are particularly vital for Michigan's water supply. As the final natural filter for groundwater before it enters streams and rivers, fens help keep our water clean. This is critical for public health: 56% of Michigan residents get their drinking water from surface sources like rivers and lakes, while the remaining 44% rely on groundwater (MDHHS). Both are connected to fens. Clean water is essential not just for drinking, but also for farming, fishing, industry, tourism and recreation. Protecting these wetlands protects everything downstream.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>What is the health of peatlands?</head><p>Michigan's Natural Heritage Database tracks natural communities and provides information about their locations, their quality and associated plants and wildlife. This data provides an index of the overall health of natural communities across the state. In 2025, there were 324 documented fens and 166 documented bogs and muskegs covering over 125,000 acres <ref type="bibr">(MNFI 2025)</ref>. Forty-six percent of Michigan fens, bogs and muskegs are ranked excellent or good viability for future persistence. Although prairie fens are the most numerous, compared to other peatland types, they are not as likely to remain viable in the future due to development pressure, invasive species, fire suppression and hydrological alterations. The threats to prairie fens also affect numerous rare species including the focal species Mitchell's Satyr, Eastern Massasauga, Spotted Turtle and Greenstar Sedge; as well as the Federally Endangered Poweshiek Skipperling and over 50 other State Endangered, Threatened and Special Concern species.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Natural communities found in Peatlands Bog</head><p>Northern Fen Coastal Fen Patterned Fen Hanging Bog</p><p>Poor Fen Muskeg Prairie Fen</p><p>Helpful resources for identifying and understanding Michigan's natural communities include Michigan Natural Features Inventory's natural community classification <ref type="bibr" target="#b9">(Cohen et al. 2015</ref><ref type="bibr" target="#b11">, Cohen et al. 2025</ref>) and natural community abstracts, both of which are available online along with photos, comprehensive descriptions, distribution maps, and thorough references from the scientific literature. MNFI's most detailed bibliography on Michigan's natural communities can be found in the publication "Distribution Maps of Michigan's Natural Communities" <ref type="bibr" target="#b2">(Albert et al. 2008)</ref>, which is also available for viewing and downloading at the MNFI website.</p><p>With funding from USFWS and MDNR, MNFI and regional partners conducted Spotted Michigan Natural Features Inventory developed draft monitoring protocols for evaluating the ecological integrity of prairie fen and coastal fen <ref type="bibr" target="#b10">(Cohen and Enander 2019)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Focal species</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Eastern Massasauga</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Sistrurus catenatus catenatus</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Federally and State Threatened</head><p>The Eastern massasauga is Michigan's only rattlesnake. This medium-sized (18 to 30 in long), thick-bodied snake is brown or gray with dark brown rectangular or saddle-shaped blotches down the middle of its body, a black underside and a tan or yellow rattle at the end of its tail. When threatened, they typically try to escape and/or sound their rattle. Eastern massasaugas inhabit a variety of open wetland habitats such as fens, bogs, marshes and wet meadows and prairies as well as shrub and forested wetlands <ref type="bibr" target="#b22">(Lee and</ref><ref type="bibr">Legge 2000, Szymanski et al. 2016)</ref>. They also use adjacent open and forested upland habitats for foraging, migrating and giving birth to their young. Michigan is the last stronghold for this snake in the United States. This species has been documented from 313 sites in 52 counties in Michigan as of 2025 in the state's Natural Heritage Database and 197 of these occurrences were observed within the last 30 years <ref type="bibr">(1995</ref><ref type="bibr">-2025;</ref><ref type="bibr">MNFI 2025)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Goals</head><p>• Maintain known populations including at least 40 viable populations distributed across the species' range in Michigan. [EMR-RIS]</p><p>• Establish or continue long-term monitoring of 8 to 10 populations distributed across the species' range in Michigan to assess and monitor abundance, demographics, status, trends and viability.</p><p>• Monitor and document population contributions towards recovery criteria as outlined in the rangewide recovery plan.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>[EMR-RRP]</head><p>Frigga Fritillary</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Boloria frigga</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Special Concern</head><p>The Frigga fritillary is a circumboreal species of butterfly that is limited in Michigan to the Upper Peninsula. It is a medium-sized fritillary that is similar to a few other common species when viewed from above, with an orange background containing a variety of black spots. It is darker nearer the body, especially on the hind wing. Below, it has a purplish hoariness over the outer half of the hindwing, with distinct white spots in the middle of the hindwing and on the front edge near the body. The Frigga fritillary is restricted to bogs and patterned fens and may fly in the same area as the Freija fritillary, but rarely at the same time. Recent Michigan surveys have detected few observations and the species is currently listed as Special Concern. This species has been documented from 16 sites in 8 counties in Michigan as of 2025 in the state's Natural Heritage Database and 5 of these occurrences were observed within the last 20 years (2005-2025; MNFI 2025).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Goals</head><p>• Establish baseline status and distribution in Michigan.</p><p>• Identify and ensure protection for 3 to 4 of the largest populations in the state.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Greenstar Sedge</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Carex viridistellata</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>State Threatened</head><p>Greenstar Sedge is a green, clumped sedge with spherical to short, cylindrical spikes of fruits with long beaks resembling a spikey ball or "star" that is 0.4 to 0.6 inches wide. It differs from similar species with its larger fruit and inconspicuous fruit scales. It is found in wetlands with high calcium levels, typically near sunny, wet, sandy soils over limestone or marly areas, including prairie fens. It is a newly recognized species, endemic to the southern Great Lakes region (southern Michigan, Indiana and Ohio). It can be overlooked or mistaken for the smaller Northeastern sedge, so targeted survey efforts may reveal previously undocumented populations. This species has been documented from one site as of 2025 in Michigan in the state's Natural Heritage Database (MNFI 2025).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Goals</head><p>• Evaluate the distribution of populations on the landscape.</p><p>• Ensure long-term preservation of representative specimens from healthy populations in herbaria.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Michell's Satyr</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Neonympha mitchellii mitchellii</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Federally and State Endangered</head><p>Mitchell's satyr is a medium-sized, chocolate-colored butterfly with yellow-ringed black eyespots that are dotted with silver or yellow scales <ref type="bibr" target="#b19">(Hyde 2012)</ref>. It stays close to the ground and doesn't fly far, moving about in a slow, bobbing flight pattern <ref type="bibr" target="#b19">(Hyde 2012</ref>). Mitchell's satyr habitat is usually dominated by narrow-leaved sedges, including Carex stricta, and contain scattered tamarack and poison sumac <ref type="bibr" target="#b21">(Kost and Hyde 2009)</ref>. Because of habitat fragmentation, dispersal among populations and colonization of new sites is highly unlikely if unassisted. Mitchell's satyr is of the most endangered butterflies in North America with Michigan serving as the stronghold for this species. Unfortunately, satyr populations continue to decline in the state. This species has been documented from 26 sites in 11 counties in Michigan as of 2025 in the state's Natural Heritage Database and 9 of these occurrences were observed within the last 20 years; of these populations only 1 is considered to be likely viable and 5 are considered to be potentially viable <ref type="bibr" target="#b36">(2005</ref><ref type="bibr">-2025;</ref><ref type="bibr">MNFI 2025)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Goals • Maintain at least six viable populations in Michigan. [MSB-RP]</head><p>• Find sustaining funding for the ex-situ breeding program.</p><p>• Establish a second and third experimental population of Mitchell's Satyr.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Secretive Locust</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Appalachia arcana</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Special Concern</head><p>Secretive locusts are small, short-winged grasshoppers that do not sing or fly. They are endemic to Michigan and listed as globally vulnerable/imperiled. As adults they spend most of their day sunning themselves and move with the sun <ref type="bibr" target="#b35">(Rabe et al. 1996)</ref> </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Goal</head><p>• Establish baseline status and distribution.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Spotted Turtle</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Clemmys guttata</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>State Threatened</head><p>Spotted turtles are one of Michigan's smallest turtle species, rarely exceeding 5 inches in length.</p><p>Named for their bright yellow spots, which pattern their dark brown to black shells and bodies, this turtle inhabits a variety of wetland types across its range. In Michigan spotted turtles are almost exclusively found within non-forested wetlands such as fens, bogs, wet meadows and wet prairies. They also use nearby vernal pools seasonally (e.g., in spring) when they are filled with water. Spotted turtle numbers have been declining since the mid-20 th century due to poaching for the pet trade, wetland destruction and degradation, road mortality and an overabundance of racoons and other predators of eggs and juveniles <ref type="bibr">(Lee 2000, Harding and</ref><ref type="bibr" target="#b15">Mifsud 2017)</ref>. Many of the wetlands required by this species are rapidly becoming unsuitable due to invasion by glossy buckthorn and other invasive species. This species primarily occurs in small, isolated populations in the southern and northwestern Lower Peninsula. This species has been documented from 195 sites in 41 counties in Michigan as of 2025 in the state's Natural Heritage Database and 81 of these occurrences were observed within the last 30 years (1995-2025; MNFI 2025).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Goals</head><p>• Establish baseline status, distribution, threats and conservation opportunities.</p><p>[ST]</p><p>• Maintain at least 50% of known populations across the species' range in Michigan.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Safeguard peatlands and carbon storage</head><p>Peatlands store more carbon than any other ecosystem in Michigan. However, they are highly sensitive to changing weather patterns. Drought and rising temperatures can dry peat soils, accelerating microbial activity that releases stored carbon into the atmosphere. These changes also increase the vulnerability of peatlands to invasive species and ecosystem degradation.</p><p>Protecting the hydrology of these systems, through the maintenance of surface water for bogs and groundwater for fens, is essential to preserving their ecological function and resilience.</p><p>Ensuring a stable and clean water supply will help safeguard peatlands as vital carbon sinks.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Call Out Box: Peatlands on Public Lands</head><p>Many known peatland natural communities (bogs, muskeg, patterned fed, and northern fen) located upon state and federal public lands are generally identified and protected within management systems and provide continuity of habitat for associated focal species. For example, almost all known peatland communities on state forest land are protected as high conservation value Ecological Reference Areas and the largest federal peatland in Michigan is located in the Seney National Wildlife Refuge.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Focal species adaptive capacity</head><p>Adaptive capacity is a species' ability to tolerate or adapt to environmental change, whether that be through shifting in space or persisting in place <ref type="bibr" target="#b43">(Thurman et al. 2020)</ref> • Invasive species such as glossy buckthorn, narrow-leaved cattails and Phragmites can outcompete native plants and create unsuitable habitat for rare animals.</p><p>• Insect outbreaks, such as spruce budworms, can change plant community composition in northern peatlands, impacting nutrient cycling and habitat structure in ways that can benefit invasive species.</p><p>• Overpopulation of herbivorous mammals (e.g., white-tailed deer, rabbits) can result in over-browsing. Effects can include local extinction of rare species, decreased biodiversity, disruption of long-term natural processes and spread of non-native species <ref type="bibr" target="#b5">(Bernardo et al. 2018</ref><ref type="bibr" target="#b17">, Hill Bermingham 2010</ref><ref type="bibr" target="#b12">, Courchesne et al. 2018)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Natural Systems Modifications</head><p>• Ecosystem degradation through loss of disturbance regimes that historically maintained open peatland ecosystems, such as fire and hydrology. Prescribed fire can be difficult to implement due to the location of individual peatlands and concerns over rare species impacts (USFWS 1997).</p><p>• Changes in surface and sub-surface hydrology within or near a peatland or groundwater recharge area of a fen can significantly alter peatlands (e.g., dams, water table lowering, filling wetlands). These changes can come from development, roads, gravel mines, highcapacity wells, or ponds created for personal and agricultural use <ref type="bibr" target="#b3">(Bart et al. 2020</ref><ref type="bibr">, USFWS 2001</ref><ref type="bibr" target="#b38">, Sampath et al. 2015</ref><ref type="bibr" target="#b39">, Sampath et al. 2016)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Agriculture &amp; Aquaculture</head><p>• Groundwater extraction including high-capacity well usage can alter fen hydrology <ref type="bibr" target="#b39">(Sampath et al. 2016</ref><ref type="bibr">, USFWS 2001)</ref>.</p><p>• Drains and tiling alter peatland hydrology (USFWS 1997).</p><p>• Intensive grazing of livestock can reduce biodiversity <ref type="bibr" target="#b28">(Middleton et al. 2006</ref><ref type="bibr" target="#b4">, Bart 2021)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Residential and Commercial Development</head><p>• Development that increases impervious surfaces in the watershed can alter the chemical properties, amount, frequency and timing of water entering peatlands (e.g., groundwater, precipitation; <ref type="bibr" target="#b39">Sampath et al. 2016</ref>).</p><p>• Leaking septic fields from housing developments surrounding peatlands can increase eutrophication (USFWS 2001).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Human Intrusions &amp; Disturbance</head><p>• Peat mining drastically reduces the structure, hydrology and function of peatlands <ref type="bibr" target="#b20">(Konyha et al. 1988</ref><ref type="bibr" target="#b29">, Nilsson et al. 2000)</ref>.</p><p>• Mining of gravel and other resources within groundwater recharge area of peatlands can significantly alter hydrology <ref type="bibr" target="#b39">(Sampath et al. 2016</ref>).</p><p>• Unregulated off-road vehicle use (e.g., mud bogging) scars peatland structure, alters local hydrology and spreads invasive species (Canada: Recreation Site 2019).</p><p>• Broad use of non-selective herbicide near sensitive areas can reduce biodiversity and damage rare species populations.</p><p>• Runoff of salt from roads can reduce biodiversity, aid invasive species colonization and degrade habitats <ref type="bibr" target="#b49">(Wayne et al. 2024)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Pollution</head><p>• Increased chance of environmental disaster (e.g., oil spill, train derailment) caused by deteriorating and failing infrastructure along peatlands that can contaminate surface and groundwater.</p><p>• Injection wells for wastewater from fracking can contaminate the long-term groundwater recharge of fens <ref type="bibr" target="#b48">(Vengosh et al. 2013)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Changing Weather Patterns</head><p>• Increased decomposition in peatlands as a result of drying may release sinks of carbon and alter nutrient cycles <ref type="bibr" target="#b32">(Pearson et al. 2015</ref><ref type="bibr" target="#b30">, Offermanns et al. 2023</ref>).</p><p>• Long-term effects of environmental change and changing weather patterns on peatlands have demonstrated an overall decrease in biodiversity (Sperle and Bruelheide 2021).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conservation Actions</head><p>Land &amp; Water Management H1.</p><p>Conduct habitat management to mimic natural disturbance regimes and control invasive species. H2.</p><p>Work with road commissions and utilities to develop and/or implement best management practices around important peatlands. H3.</p><p>Implement invasive species decontamination and prevention protocols and continue early detection and rapid response. Complete planning and then implement peatland ecological reference areas in the State Forest management system. H9.</p><p>Protect hydrological conditions unique to bogs and fens. For example, consider protecting adjacent buffers that influence rainwater sources for bogs and known infiltration sites that serve as groundwater sources for fens. H10. Create and leverage partnerships to help fund, incentivize, and otherwise enable peatland protection through land acquisition.</p><p>Law &amp; Policy H11. Take appropriate enforcement actions for violations of the Michigan Threatened and Endangered Species Act (NREPA Part 365), the Invasive Species Order (NREPA Part 413) and maintain the Prohibited and Restricted Species list pursuant to the Natural Resources and Environmental Protection Act, P.A. 451 of 1994, as amended. H12. Continue to support an effective Michigan Department of Environment, Great Lakes and Energy protection program for wetlands and provide incentives for conservation practices. H13. Encourage and leverage the preservation of peatlands as carbon sinks <ref type="bibr" target="#b6">(Blann et al. 2025)</ref>.</p><p>Research &amp; Monitoring H14. Develop or use an existing system to track peatland management across the state. H15. Research how to increase success of restoration and management of peatlands. H16. Use and promote the Midwest Invasive Species Information Network (MISIN) to monitor invasive species. H17. Conduct systematic surveys to identify high-quality peatlands across state lands.</p><p>Despite the importance of peatlands in terms of biodiversity conservation and carbon sequestration, there has never been a systematic survey across northern Michigan lands in to identify the highest-quality remaining peatlands. H18. Develop monitoring protocols to evaluate the ecological integrity of peatlands and implement monitoring in reference sites.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Threats and conservation actions for focal species</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Eastern Massasauga Threats</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Lack of Knowledge</head><p>• Lack of information on the prevalence and effects of snake fungal disease on Massasauga populations, hibernacula habitat requirements and locations, gestation or parturition locations and factors that affect persistence and viability including population abundance, demographics, threats and trends <ref type="bibr" target="#b42">(Szymanski et al. 2016)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Residential &amp; Commercial Development</head><p>• Fragmentation and lack of connectivity between key habitats can be a significant limiting factor, resulting in reduced genetic diversity, inbreeding depression, decreased fitness and population decline and potential extirpation <ref type="bibr" target="#b22">(Lee and</ref><ref type="bibr">Legge 2000, Szymanski et al. 2016)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Human Intrusions &amp; Disturbance</head><p>• Persecution and poaching from humans have contributed to population declines <ref type="bibr" target="#b22">(Lee and</ref><ref type="bibr">Legge 2000, Szymanski et al. 2016)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Natural System Modifications</head><p>• Poorly timed habitat management without sufficient refugia provisions <ref type="bibr" target="#b42">(Szymanski et al. 2016</ref>).</p><p>• Beaver flooding can cause mortality as well as displace individuals when occurring in or near active season habitats and overwintering sites <ref type="bibr" target="#b42">(Szymanski et al. 2016)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Changing Weather Patterns</head><p>• Increases in temperature fluctuations, extreme weather events, flooding and growing season droughts, longer active seasons and reduced winter snow cover may cause increased predation, decreases in prey, smaller body sizes, decreases in reproductive success, direct mortality and lower survival <ref type="bibr" target="#b18">(Hoving et al. 2013</ref><ref type="bibr" target="#b34">, Pomara et al. 2014</ref><ref type="bibr" target="#b16">, Helferich et al. 2025</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conservation Actions</head><p>Land &amp; Water Management </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Frigga Fritillary</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Threats</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Lack of Knowledge</head><p>• Lack of information about causes of species decline and critical life history needs.</p><p>• Missing distribution information for the species in Michigan. Pollution</p><p>• Pesticides and herbicides may significantly impact butterfly populations by harming individuals or leading to mortalities and population decline <ref type="bibr" target="#b33">(Pecenka and Lundgren 2015)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Changing Weather Patterns</head><p>• Concerns over mismatching phenology with plant hosts severe weather and environmental changes take place <ref type="bibr" target="#b18">(Hoving et al. 2013)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conservation Actions</head><p>Conservation Designation &amp; Planning FF1. Develop, implement, and promote a Peatland Insects Habitat Conservation Plan, which provides guidance for habitat management to limit negative impacts on several species. FF2. Develop and implement a Rare Peatland Insects recovery plan or conservation strategy.</p><p>Research &amp; Monitoring FF3. Determine impacts of herbicides and pesticides to Frigga fritillary populations. FF4. Determine causes of Frigga Fritillary population declines.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Greenstar Sedge Threats</head><p>Lack of Knowledge</p><p>• Due to lack of systematic surveys, there are likely unrecorded populations in Michigan.</p><p>Invasive &amp; Problematic Species, Pathogens &amp; Genes</p><p>• Wetland invasive species like glossy buckthorn and invasive cat-tail impact habitat and populations.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Natural System Modifications</head><p>• Local and regional hydrological alterations alterations including high-capacity wells, development and gravel mining may affect conditions suitable given greenstar sedge's preference for groundwater seeps and wetlands with high calcium levels.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Changing Weather Patterns</head><p>• Growing season droughts due to changing weather patterns may cause changes in hydrological conditions.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conservation Actions</head><p>Raising Awareness GS1. Utilize and develop participatory science tools or campaigns to advance knowledge of habitat and range.</p><p>Conservation Designation &amp; Planning GS2. Develop, implement and adapt conservation and management plans for fen habitat that support greenstar sedge.</p><p>Research &amp; Monitoring GS3. Survey for Greenstar Sedge to more accurately delimit its range in Michigan.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Mitchell's Satyr Threats</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Lack of Knowledge</head><p>• Lack of information on the effects of Wolbachia, a bacteria, on Mitchell's Satyr populations (USFWS 2014).</p><p>• Lack of understanding of the species/subspecies complex between populations in Michigan (north) and Mississippi and Alabama (south)</p><p>• Lack of surveys on private/non-protected properties in southern Michigan</p><p>Invasive &amp; Other Problematic Species, Genes &amp; Diseases</p><p>• Invasive plant and animal species may be impacting populations (USFWS 2014).</p><p>• Beaver flooding can be problematic when occurring in or near habitats depending on water-level fluctuation, longevity and available refugia <ref type="bibr" target="#b36">(Roddoch and Roddoch 2005</ref><ref type="bibr" target="#b19">, Hyde 2012</ref><ref type="bibr" target="#b25">, Little et al. 2012)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Natural Systems Modifications</head><p>• Inbreeding depression is a concern due to low population numbers.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Pollution</head><p>• Pesticides and herbicides may significantly impact butterfly populations near agricultural fields (USFWS 2014, Pecenka and Lundgren 2015).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Changing Weather Patterns</head><p>• Changing weather patterns and severe weather could have a variety of impacts: less consistent precipitation can affect winter survival, consistent snow cover is needed or eggs can desiccate; more growing season droughts and increased temperatures can affect reproduction; and more intense storms and precipitation can kill larvae and adults during flight <ref type="bibr" target="#b18">(Hoving et al. 2013</ref><ref type="bibr">, USFWS 2014)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Human Intrusions &amp; Disturbance</head><p>• Turtles are especially vulnerable to the loss of adults from populations and illegal collection for the pet trade could threaten the long-term viability of spotted turtle populations.</p><p>Invasive &amp; Problematic Species, Pathogens &amp; Genes </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Places for partnership</head><p>This map was created in collaboration with partners and highlights focal areas to work in over the next 10 years. Creating shared goals helps focus efforts and build collaboration. While this map has a select few areas highlighted, conservation work benefitting any Peatland is welcome and encouraged.</p><p>How will we monitor?</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Habitat</head><p>• Continue to survey and update quality rankings for Peatland natural communities in the state's Natural Heritage Database.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Focal Species</head></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head></head><label></label><figDesc>. Little else is known about their life history. Adults are found most frequently in leatherleaf dominated sphagnum bogs surrounded by jack pine and some tamarack. This species has been documented from 70 sites in 13 counties in Michigan as of 2025 in the state's Natural Heritage Database and 38 of these occurrences were observed within the last 20 years (2005-2025; MNFI 2025). Recent surveys documented a 40% decline in the number of occupied secretive locust occurrences in the Michigan Natural Heritage Database and low population numbers at extant sites (Rowe et al. 2023).</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="4,72.00,370.71,240.00,240.00" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="5,72.00,296.67,282.50,282.50" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="6,72.00,236.80,229.50,229.50" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="9,72.00,72.00,261.50,261.50" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head></head><label></label><figDesc>. Michigan Natural Features Inventory, with funding support from the Michigan Department of Natural Resources, assessed Adaptive Capacity for over 500 Midwest SGCN from 2023-2024 (Appendix 3). We chose to increase clarity at expense of precision in technical language used by Thurman et al. (2020) in their paper. The Michigan Department of Natural Resources created broad management strategies based off assessment results and are intended to be stepped down based on management scale, capacity and resources. Management strategies for assessed 2025-2035 focal species are: Invasive plants and animals can degrade habitats including reductions of important native food sources (Fiedler and Landis 2012, Kost and Hyde 2009, USFWS 2001).</figDesc><table><row><cell></cell><cell>Lowest adaptive capacity</cell><cell>Strategy</cell></row><row><cell cols="2">Eastern Massasauga Rattlesnake Population Size</cell><cell>Increase habitat connectivity</cell></row><row><cell>Mitchell's Satyr Butterfly</cell><cell>Movement</cell><cell>Manage genetic diversity</cell></row><row><cell>Spotted Turtle</cell><cell cols="2">Life Span and Age Structures Increase habitat connectivity</cell></row><row><cell cols="2">Threats and conservation actions for habitat</cell><cell></cell></row><row><cell>Threats</cell><cell></cell><cell></cell></row><row><cell cols="2">Invasive &amp; Other Problematic Species, Genes &amp; Diseases</cell><cell></cell></row><row><cell>•</cell><cell></cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head></head><label></label><figDesc>EM1. Implement and promote the Eastern Massasauga (EMR) Candidate ConservationAgreement with Assurances practices, which provides guidance for habitat management to limit negative impacts on the species. Update guidance on practices as needed and as additional information on EMR life history, ecology and habitat use becomes available. [EMR-CCAA] EM2. Maintain, restore and/or expand suitable habitat at existing populations, particularly critical habitats for successful reproduction and overwintering and at stable/viable populations.</figDesc><table><row><cell>Raising Awareness</cell></row><row><cell>EM3. Continue outreach and education on snakes, their ecological value and management</cell></row><row><cell>and conservation needs.</cell></row><row><cell>Law &amp; Policy</cell></row><row><cell>EM4. Take actions to prevent illegal collection for the pet trade, such as work with DNR law</cell></row><row><cell>enforcement and local authorities.</cell></row><row><cell>Conservation Designation &amp; Planning</cell></row><row><cell>EM5. Continue to implement and revise Eastern Massasauga Recovery Implementation</cell></row><row><cell>Strategy (RIS) for the state. [EMR-RIS]</cell></row><row><cell>EM6. Implement monitoring strategy outlined in the Michigan recovery implementation</cell></row><row><cell>strategy. [EMR-RIS]</cell></row><row><cell>Research &amp; Monitoring</cell></row><row><cell>EM7. Evaluate cost-effective monitoring protocol/frameworks, such as ADRiFT, for</cell></row><row><cell>determining the status and viability of Eastern Massasauga populations and identifying</cell></row><row><cell>stable/viable populations to contribute to species recovery in Michigan and</cell></row><row><cell>rangewide.</cell></row><row><cell>EM8. Survey and assess viability at new sites to implement appropriate management.</cell></row><row><cell>EM9. Identify critical habitats (active season habitat, gestation/birthing sites, overwintering</cell></row><row><cell>areas) to implement appropriate management</cell></row><row><cell>EM10. Determine impacts of different management activities to better inform management</cell></row><row><cell>and policies.</cell></row><row><cell>EM11. Determine prevalence and potential impacts of snake fungal disease on existing</cell></row><row><cell>populations, particularly priority populations that may be viable or stable.</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_4"><head>•</head><label></label><figDesc>Invasive species, particularly shrubs like glossy buckthorn, alter the open-canopy structure of wetlands occupied by spotted turtles in Michigan. Finalize and implement the spotted turtle population viability analysis to guide site specific headstarting needs and goals. ST2. Augment existing and potentially reintroduce populations through head-starting where appropriate/feasible. Take actions to prevent illegal collection for the pet trade, such as work with DNR law enforcement and local authorities, and reduce incidental collection by the general public.Land and Water Management ST4. Maintain, restore and/or expand suitable habitat at known sites by reducing woody encroachment and controlling invasive species (e.g., glossy buckthorn, Phragmites). Develop a conservation plan or strategy for spotted turtles in Michigan that prioritizes the long-term protection of viable spotted turtle populations and occupied wetlands, including land acquisition, habitat management and a framework for head-starting turtles.[ST]Research &amp; Monitoring ST6. Conduct focused demographic monitoring on select, representative populations to understand population trends and habitat needs and identify viable populations. ST7. Research the impact on spotted turtle populations of predation on nests and juveniles by mesopredators and develop effective strategies to reduce predation.</figDesc><table><row><cell>Natural System Modifications</cell></row><row><cell>• Hydrological alterations threaten wetlands used by spotted turtles.</cell></row><row><cell>Conservation Actions</cell></row><row><cell>Species Management</cell></row><row><cell>ST1. Law &amp; Policy</cell></row><row><cell>ST3. Conservation Designation &amp; Planning</cell></row><row><cell>ST5.</cell></row></table></figure>
+		</body>
+		<back>
+
+			<div type="funding">
+<div><p><rs type="person">Michigan Poweshiek Habitat Team</rs> founded to better understand management effects on prairie fens and potential impacts related to the Poweshiek Skipperling habitat by <rs type="institution">Central Michigan University, Blue Heron Land Conservancy, Michigan Department of Natural Resources (DNR), MNFI, Michigan Nature Association (MNA)</rs>, <rs type="institution">The Nature Conservancy Michigan, Springfield Township of Oakland County, Michigan</rs>, and <rs type="funder">USFWS</rs>. MNFI, in collaboration with and funding from, <rs type="affiliation">USFWS, Huron-Manistee National Forests, DNR, Michigan Department of Military</rs> and <rs type="person">Veteran Affairs</rs>, and MNA, surveyed several long-term Eastern Massasauga monitoring studies across the state. Surveys and long-term monitoring in the Huron-Manistee National Forests documented new and expanding massasauga populations, identified the state's largest known population, detected snake fungal disease for the first time, and are informing conservation and recovery efforts.</p></div>
+			</div>
+			<listOrg type="funding">
+			</listOrg>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Secretive Locust Threats</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Lack of Knowledge</head><p>• Lack of information on distribution, specific habitat characteristics and impacts of prescribed fire <ref type="bibr" target="#b35">(Rabe et al. 1996)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Changing Weather Patterns</head><p>• As the historical climate niche for the locust shifts northward, its poor dispersal capability and landscape barriers to movements may be an issue <ref type="bibr" target="#b18">(Hoving et al. 2013</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conservation Actions</head><p>Research &amp; Monitoring SL1. Develop survey protocols for Secretive Locust. SL2. Work with existing community science efforts to survey bogs for Secretive Locust. SL3. Conduct studies to better understand habitat needs during different life stages and effects of timber and fire management. <ref type="bibr">[SFMP]</ref> Spotted Turtle Threats</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Lack of Knowledge</head><p>• Lack of information on population status, trends and distribution. Potential exists for additional, new populations to be documented and the demographic status and habitat use of most known populations is poorly understood.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Residential &amp; Commercial Development</head><p>• Wetland degradation and destruction from development reduces the amount, quality and connectivity of suitable habitat for spotted turtles.</p><p>• Mortalities from mesopredators and roads threaten recruitment and adult survival needed to maintain stable or viable populations.</p><p>Eastern Massasauga Rattlesnake</p><p>• Continue monitoring status, distribution and population demographics with existing database such as the state's Natural Heritage Database, iNaturalist and HerpMapper.</p><p>• Continue annual surveys, population blitz surveys and occupancy, abundance and population demographic modelling.</p><p>• Implement reliable, cost-effective survey techniques such AHDRiFT camera arrays.</p><p>• Update occurrences in the state's Natural Heritage Database.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Frigga Fritillary</head><p>• Conduct time-meander survey transects.</p><p>• Update occurrences in the state's Natural Heritage Database.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Greenstar Sedge</head><p>• Every five years or less, collect standardized count-based and density population measurements.</p><p>• Every five years or less, document any observable changes with the area occupied for a population.</p><p>• Update occurrences in the state's Natural Heritage Database.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Mitchell's Satyr</head><p>• Conduct time-meander survey transects.</p><p>• Update occurrences in the state's Natural Heritage Database.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Secretive Locust</head><p>• Conduct standardized surveys to determine and update distribution and abundance.</p><p>• Update occurrences in the state's Natural Heritage Database.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Spotted Turtle</head><p>• Continue monitoring status, distribution and population demographics with existing databases such as the state's Natural Heritage Database, iNaturalist and HerpMapper.</p><p>• Continue trapping, mark and recapture studies and population modelling efforts throughout the species' range.</p><p>• Update occurrences in the state's Natural Heritage Database.</p><p>Links to other conservation plans </p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">MSB-HCP] Mitchell&apos;s Satyr and Poweshiek Habitat Conservation Plan [ST] Status Assessment and Conservation Plan for the Spotted Turtle in the North Eastern United States</title>
+		<author>
+			<persName><surname>Msb-Rp</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Recovery Plan for Mitchell&apos;s Satyr Butterfly (USFWS 1997)</title>
+		<imprint>
+			<date type="published" when="2022">Willey et al. 2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<title level="m">State Forest Management Plan 2024 (MDNR 2024)</title>
+		<imprint/>
+	</monogr>
+	<note>Literature cited</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Albert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">G</forename><surname>Cohen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Kost</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">S</forename><surname>Slaughter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">D</forename><surname>Enander</surname></persName>
+		</author>
+		<idno>Number 2008-01</idno>
+		<ptr target="https://mnfi.anr.msu.edu/reports/MNFI-Report-2008-01.pdf" />
+		<title level="m">Distribution Maps of Michigan&apos;s Natural Communities. Michigan Natural Features Inventory</title>
+		<meeting><address><addrLine>Lansing, MI</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+	<note type="report_type">Report</note>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Impacts of groundwater extraction on calcareous fen floristic quality</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Bart</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Booth</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">P</forename><surname>Loheide</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Bernthal</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Environmental Quality</title>
+		<imprint>
+			<biblScope unit="volume">49</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="723" to="734" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Vegetation changes associated with release from cattle grazing in a WI calcareous fen</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Bart</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Wetlands Ecology and Management</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="67" to="79" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Count population viability analysis finds that interacting local and regional threats affect the viability of a rare plant</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">L</forename><surname>Bernardo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Vitt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Goad</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Masi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">M</forename><surname>Knight</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ecological Indicators</title>
+		<imprint>
+			<biblScope unit="volume">93</biblScope>
+			<biblScope unit="page" from="822" to="829" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<monogr>
+		<title level="m" type="main">Minnesota Peatlands: Protecting &amp; Restoring Minnesota&apos;s Peatlands as a Natural Climate Solution. The Nature Conservancy</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Blann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Lenhart</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Felice</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Swope</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Ettinger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Benham</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2025">2025. Jan25</date>
+		</imprint>
+	</monogr>
+	<note>pdf</note>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<monogr>
+		<ptr target="https://news.gov.bc.ca/releases/2019FLNR0071-000664" />
+		<title level="m">Recreation site to be protected from mud bogging damage</title>
+		<imprint>
+			<publisher>British Columbia Government News</publisher>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Inbreeding reduces fitness in spatially structured populations of a threatened rattlesnake</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">I</forename><surname>Clark</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">T</forename><surname>Hileman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Moore</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">J</forename><surname>Faust</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">E</forename><surname>Junge</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">N</forename><surname>Reid</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">R</forename><surname>Bradke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">S</forename><surname>Bradburd</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">W</forename><surname>Fitzpatrick</surname></persName>
+		</author>
+		<idno type="DOI">10.1073/pnas.2501745122</idno>
+		<ptr target="https://doi.org/10.1073/pnas.2501745122" />
+	</analytic>
+	<monogr>
+		<title level="j">Proceedings of the National Academy of Sciences</title>
+		<imprint>
+			<biblScope unit="volume">122</biblScope>
+			<biblScope unit="issue">34</biblScope>
+			<biblScope unit="page" from="1" to="9" />
+			<date type="published" when="2025">2025</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<monogr>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">G</forename><surname>Cohen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Kost</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">S</forename><surname>Slaughter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Albert</surname></persName>
+		</author>
+		<title level="m">A field guide to the natural communities of Michigan</title>
+		<meeting><address><addrLine>East Lansing, MI</addrLine></address></meeting>
+		<imprint>
+			<publisher>Michigan State University Press</publisher>
+			<date type="published" when="2015">2015</date>
+			<biblScope unit="page">362</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<monogr>
+		<title level="m" type="main">Rare coastal ecosystem monitoring</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">G</forename><surname>Cohen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">D</forename><surname>Enander</surname></persName>
+		</author>
+		<idno>Number 2019-08</idno>
+		<imprint>
+			<date type="published" when="2019">2019</date>
+			<biblScope unit="page">60</biblScope>
+			<pubPlace>Lansing, MI</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="report_type">Michigan Natural Features Inventory Report</note>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<monogr>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">G</forename><surname>Cohen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Kost</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">S</forename><surname>Slaughter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Albert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Lincoln</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">P</forename><surname>Kortenhoven</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Wilton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">D</forename><surname>Enander</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">E</forename><surname>Anderson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Parr</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">J</forename><surname>Bassett</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">M</forename><surname>Korroch</surname></persName>
+		</author>
+		<ptr target="https://mnfi.anr.msu.edu/communities/classification" />
+		<title level="m">Michigan Natural Community Classification</title>
+		<meeting><address><addrLine>Lansing, MI</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2025">2025</date>
+		</imprint>
+		<respStmt>
+			<orgName>Michigan State University Extension</orgName>
+		</respStmt>
+	</monogr>
+	<note>Michigan Natural Features Inventory</note>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Chronic deer browsing leads to biotic homogenization of minerotrophic peatlands</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Courchesne</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Pellerin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Bachand</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">D</forename><surname>Côté</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Poulin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Botany</title>
+		<imprint>
+			<biblScope unit="volume">96</biblScope>
+			<biblScope unit="page" from="499" to="509" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Age, extent and carbon storage of the central Congo Basin peatland complex</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">C</forename><surname>Dargie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">L</forename><surname>Lewis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">T</forename><surname>Lawson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">T A</forename><surname>Mitchard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">E</forename><surname>Page</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">E</forename><surname>Bocko</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">A</forename><surname>Ifo</surname></persName>
+		</author>
+		<idno type="DOI">10.1038/nature21048</idno>
+		<ptr target="https://doi.org/10.1038/nature21048" />
+	</analytic>
+	<monogr>
+		<title level="j">Nature</title>
+		<imprint>
+			<biblScope unit="volume">542</biblScope>
+			<biblScope unit="page" from="86" to="90" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Biotic and abiotic conditions in Michigan prairie fen invaded by glossy buckthorn (Frangula alnus)</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">K</forename><surname>Fiedler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Landis</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Natural Areas Journal</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="41" to="53" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<monogr>
+		<title level="m" type="main">Amphibians and Reptiles of the Great Lakes Region</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Harding</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Mifsud</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2017">2017</date>
+			<publisher>University of Michigan Press</publisher>
+			<biblScope unit="page">392</biblScope>
+			<pubPlace>Ann Arbor, MI</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Revised edition</note>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Projected climate change effects on individual growth rates and size in a threatened pit viper</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">N</forename><surname>Helferich</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">B</forename><surname>King</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">J</forename><surname>Faust</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">B</forename><surname>Baker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Dreslik</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Otterbein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Moore</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Wynn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">A</forename><surname>Bell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">L</forename><surname>Bailey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Wildman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Johnson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Kleitch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Cedar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Paloski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Choquette</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Adamski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Hileman</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.ecochg.2024.100091</idno>
+		<ptr target="https://doi.org/10.1016/j.ecochg.2024.100091" />
+	</analytic>
+	<monogr>
+		<title level="j">Climate Change Ecology</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page">100091</biblScope>
+			<date type="published" when="2025">2025. 2025</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Deer herbivory and habitat type influence long-term population dynamics of a rare wetland plant</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Hill Bermingham</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Plant Ecology</title>
+		<imprint>
+			<biblScope unit="volume">210</biblScope>
+			<biblScope unit="page" from="359" to="378" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<monogr>
+		<title level="m" type="main">Changing climate, changing wildlife: a vulnerability assessment of 400 species of greatest conservation need and game species in Michigan</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">L</forename><surname>Hoving</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Badra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">J</forename><surname>Klatt</surname></persName>
+		</author>
+		<idno>No. 3564</idno>
+		<imprint>
+			<date type="published" when="2013">2013</date>
+			<biblScope unit="page">82</biblScope>
+			<pubPlace>Lansing, MI</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="report_type">Wildlife Division Report</note>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<monogr>
+		<title level="m" type="main">Update of Lee, Y. 2000. Special animal abstract for Mitchell&apos;s satyr butterfly (Neonympha mitchellii mitchellii)</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Hyde</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2012">2012</date>
+			<publisher>Michigan Natural Features Inventory</publisher>
+			<pubPlace>Lansing, MI</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Evaluating Peat Mining Hydrology using Drainmod</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">D</forename><surname>Konyha</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">D</forename><surname>Robbins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">W</forename><surname>Skaggs</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Irrigation and Drainage Engineering</title>
+		<imprint>
+			<biblScope unit="volume">114</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="490" to="504" />
+			<date type="published" when="1988">1988</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Exploring the prairie fen wetlands of Michigan</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Kost</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Hyde</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Extension Bulletin E-3045. Michigan Natural Features Inventory</title>
+		<meeting><address><addrLine>MI</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2009">2009</date>
+			<biblScope unit="page">106</biblScope>
+		</imprint>
+		<respStmt>
+			<orgName>Michigan State University Extension, East Lansing</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<monogr>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Lee</surname></persName>
+		</author>
+		<title level="m">Special animal abstract for Clemmys guttata</title>
+		<meeting><address><addrLine>Lansing, MI</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2000">2000</date>
+			<biblScope unit="page">4</biblScope>
+		</imprint>
+	</monogr>
+	<note>Michigan Natural Features Inventory</note>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<monogr>
+		<title level="m" type="main">Special animal abstract for Sistrurus catenatus catenatus (Eastern massasauga)</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">T</forename><surname>Legge</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2000">2000</date>
+			<publisher>Michigan Natural Features Inventory</publisher>
+			<pubPlace>Lansing, MI</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">The underappreciated potential of peatlands in global climate change mitigation strategies</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Leifeld</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Menichetti</surname></persName>
+		</author>
+		<idno type="DOI">10.1038/s41467-018-03406-6</idno>
+		<ptr target="https://doi.org/10.1038/s41467-018-03406-6" />
+	</analytic>
+	<monogr>
+		<title level="j">Nature</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page">1071</biblScope>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Wetland vegetation dynamics in response to beaver (Castor canadensis) activity at multiple scales</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Little</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">R</forename><surname>Guntenspergen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">F</forename><surname>Allen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ecoscience</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="246" to="257" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<ptr target="https://www.michigan.gov/mdhhs/safety-injury-prev/environmental-health/topics/care-for-mi-drinking-water/sources" />
+	</analytic>
+	<monogr>
+		<title level="m">SOM -State of Michigan</title>
+		<title level="s">MDHHS). n.d. MI Drinking Water Sources</title>
+		<meeting><address><addrLine>Lansing, MI</addrLine></address></meeting>
+		<imprint>
+			<publisher>Michigan Department of Natural Resources</publisher>
+			<date type="published" when="2024">24 April 2025. 2024</date>
+			<biblScope unit="page">1749</biblScope>
+		</imprint>
+	</monogr>
+	<note>State Forest Management Plan</note>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Michigan Eastern Massasauga Rattlesnake Recovery Working Group</title>
+	</analytic>
+	<monogr>
+		<title level="m">Michigan Eastern Massasauga Rattlesnake Recovery Implementation Strategy</title>
+		<imprint>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Michigan Natural Heritage Database</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">I</forename><surname>Lansing</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">A</forename><surname>Middleton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Holsten</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Van Diggelen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biodiversity Management of Fens and Fen Meadows by Grazing, Cutting and Burning. Applied Vegetation Science</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="307" to="316" />
+			<date type="published" when="2006">2025. 2006</date>
+			<publisher>Michigan Natural Features Inventory (MNFI)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Fluxes of methane and carbon dioxide on peatmining areas in Sweden</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Nilsson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Mikkela</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Granberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">H</forename><surname>Svensson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Sundh</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">AMBIO -A Journal of the Human Environment</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="issue">8</biblScope>
+			<biblScope unit="page">499</biblScope>
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">High greenhouse gas emissions after grassland renewal on bog peat soil</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Offermanns</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Tiemeyer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">U</forename><surname>Dettmann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Rüffer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Düvel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Vogel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Brümmer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Agricultural and Forest Meteorology</title>
+		<imprint>
+			<biblScope unit="volume">331</biblScope>
+			<biblScope unit="page">109309</biblScope>
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Global and regional importance of the tropical peatland carbon pool</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">E</forename><surname>Page</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">O</forename><surname>Rieley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">J</forename><surname>Banks</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Global Change Biology</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page" from="798" to="818" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Effects of temperature rise and water-table-level drawdown on greenhouse gas fluxes of boreal sedge fens</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Pearson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Penttilä</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Harjunpää</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Laiho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Laine</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Sarjala</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Silvan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Silvan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Boreal Environmental Research</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page" from="489" to="505" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Non-target effects of clothianidin on monarch butterflies</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Pecenka</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">G</forename><surname>Lundgren</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s00114-015-1270-y</idno>
+		<ptr target="https://doi.org/10.1007/s00114-015-1270-y" />
+	</analytic>
+	<monogr>
+		<title level="j">Sci Nat</title>
+		<imprint>
+			<biblScope unit="volume">102</biblScope>
+			<biblScope unit="page">19</biblScope>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Demographic consequences of climate change and land cover help explain a history of extirpations and range contraction in a declining snake species</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">Y</forename><surname>Pomara</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">E</forename><surname>Ledee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">J</forename><surname>Martin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Zuckerberg</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Global Change Biology</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page" from="2087" to="2099" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<monogr>
+		<title level="m" type="main">Special animal abstract for Appalachia arcana (secretive locust)</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Rabe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">T</forename><surname>Legge</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Hyde</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1996">1996</date>
+			<publisher>Michigan Natural Features Inventory</publisher>
+			<pubPlace>Lansing, MI</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Flooding on a Small Fen in Southwestern Quebec</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Roddoch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">H</forename><surname>Roddoch</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Canadian Field-Naturalist</title>
+		<imprint>
+			<biblScope unit="volume">119</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="385" to="394" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+	<note>Consequences of Beaver, Caster canadensis</note>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<monogr>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">M</forename><surname>Rowe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Cuthrell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Earl</surname></persName>
+		</author>
+		<title level="m">Surveys for Blazing Star Borer Moth and Secretive Locust in Michigan. Michigan Natural Features Inventory Report No. 2023-34</title>
+		<meeting><address><addrLine>Lansing, MI</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2023">2023</date>
+			<biblScope unit="page">33</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<monogr>
+		<title level="m" type="main">Understanding the Groundwater Hydrology of a Geographically-Isolated Prairie Fen: Implications for Conservation</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">V</forename><surname>Sampath</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Liao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><forename type="middle">K</forename><surname>Curtis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Doran</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">E</forename><surname>Herbert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>May</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Li</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+	<note>PLOSone 10:e0140430</note>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">Understanding fen hydrology across multiple scales</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">V</forename><surname>Sampath</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Liao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><forename type="middle">K</forename><surname>Curtis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">E</forename><surname>Herbert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Doran</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>May</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Landis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Li</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Hydrological Processes</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="page" from="3390" to="3407" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">Global soil carbon: understanding and managing the largest terrestrial carbon pool</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P W</forename><surname>Scharlemann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">V J</forename><surname>Tanner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Hiederer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Kapos</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Carbon Management</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="81" to="91" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">Climate change aggravates bog species extinctions in the Black Forest (Germany)</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Sperle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Bruelheide</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diversity and Distributions</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page" from="282" to="295" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<author>
+			<persName><forename type="first">J</forename><surname>Szymanski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Pollack</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Ragan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Redmer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Clemency</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Voorheis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Jaka</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Species Status Assessment for the Eastern Massasauga Rattlesnake (Sistrurus catenatus)</title>
+		<imprint>
+			<publisher>U.S. Fish and Wildlife Service</publisher>
+			<date type="published" when="2016-07">2016. July 2016</date>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page">117</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<title level="a" type="main">Persist in place or shift in space? Evaluating the adaptive capacity of species to climate change</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">L</forename><surname>Thurman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Stein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Beever</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Foden</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Sr Geange</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Green</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Gross</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Lawrence</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Ledee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">M</forename><surname>Jd Olden</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Thompson</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Young</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Frontiers in Ecology and Evolution</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="issue">9</biblScope>
+			<biblScope unit="page" from="520" to="528" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<monogr>
+		<title level="m" type="main">Recovery plan for Mitchell&apos;s Satyr butterfly Neonympha mitchellii mitchellii French (Lepidoptera: Nymphalidae: Satyrinae)</title>
+		<imprint>
+			<date type="published" when="1997">1997</date>
+			<publisher>U.S. Fish and Wildlife Service (USFWS)</publisher>
+			<biblScope unit="page">71</biblScope>
+			<pubPlace>Fort Snelling, MN</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<monogr>
+		<title level="m" type="main">Hine&apos;s Emerald Dragonfly (Somatochlora hineana) recovery plan</title>
+		<imprint>
+			<date type="published" when="2001">2001</date>
+			<publisher>U.S. Fish and Wildlife Service (USFWS)</publisher>
+			<biblScope unit="volume">120</biblScope>
+			<pubPlace>Fort Snelling, MN, USA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<monogr>
+		<title level="m" type="main">Mitchell&apos;s satyr butterfly (Neonympha mitchellii mitchellii) 5-Year Review: summary and Evaluation. U.S. Fish and Wildlife Service, Midwest Region</title>
+		<imprint>
+			<date type="published" when="2014">2014</date>
+			<publisher>East Lansing Field Office. East Lansing</publisher>
+			<pubPlace>MI, USA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<analytic>
+		<title level="a" type="main">Recovery plan for the Eastern Massasauga Rattlesnake (Sistrurus catenatus)</title>
+	</analytic>
+	<monogr>
+		<title level="m">USFWS Great Lakes Region (Region 3)</title>
+		<meeting><address><addrLine>Bloomington, Minnesota</addrLine></address></meeting>
+		<imprint>
+			<publisher>U.S. Fish and Wildlife Service (USFWS)</publisher>
+			<date type="published" when="2021">2021</date>
+			<biblScope unit="page">15</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<analytic>
+		<title level="a" type="main">The effects of shale gas exploration in hydraulic fracturing on the quality of water resources in the United States</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Vengosh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Warner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Jackson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Darrah</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Procedia Earth and Planetary Science</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page" from="863" to="866" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<analytic>
+		<title level="a" type="main">Accumulation of road salt in a calcareous fen: Kampoosa Bog, western Massachusetts</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Wayne</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J</forename><surname>Guswa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">L</forename><surname>Rhodes</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">PLoS ONE</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="issue">10</biblScope>
+			<biblScope unit="page" from="1" to="24" />
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<analytic>
+		<title level="a" type="main">2022. Status Assessment and Conservation Plan for Spotted Turtles in the Eastern United States</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">L</forename><surname>Willey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">K</forename><surname>Parren</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="s">of Wildlife Resources and the U.S. Fish and Wildlife Service</title>
+		<editor>
+			<persName><forename type="first">M</forename><forename type="middle">T</forename><surname>Jones</surname></persName>
+		</editor>
+		<imprint/>
+	</monogr>
+	<note type="report_type">Technical Report</note>
+	<note>to the Virginia Dept</note>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<analytic>
+		<title level="a" type="main">Global peatland dynamics since the Last Glacial Maximum</title>
+		<author>
+			<persName><forename type="first">Z</forename><forename type="middle">C</forename><surname>Yu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Loisel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">P</forename><surname>Brosseau</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">W</forename><surname>Beilman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">J</forename><surname>Hunt</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Geophysical Research Letters</title>
+		<imprint>
+			<biblScope unit="volume">37</biblScope>
+			<biblScope unit="page">13402</biblScope>
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>
+

@@ -1,0 +1,706 @@
+{
+  "document_meta": {
+    "title": "Alabama State Wildlife Action Plan 2015",
+    "year": 2015,
+    "jurisdiction": "Alabama",
+    "document_type": "SWAP",
+    "document_id": "AL_SWAP_2015",
+    "page_count": 491
+  },
+  "orientation": {
+    "summary": "This is Alabama's 2015 State Wildlife Action Plan (SWAP), a 10-year update to the 2005 Comprehensive Wildlife Conservation Strategy, produced by the Alabama Department of Conservation and Natural Resources (ADCNR). The document identifies 366 Species of Greatest Conservation Need (SGCN), 16 key terrestrial habitats, and 15 river basins. Climate change is treated as one of several threats in Chapter 3, with a dedicated subsection ('Climate Change and Severe Weather') and a habitat vulnerability table, but the document's overall posture toward climate change is peripheral rather than central — the plan is primarily organized around traditional conservation threats (habitat loss, dams, invasive species, water quality). Range shifts are mentioned briefly in the context of habitat shifting/alteration (sea level rise, northward/upslope shifts) and in scattered passages about connectivity, refugia, and resilient sites, but are not a primary organizing frame. Most analysis in the document is species- and habitat-specific conservation planning; climate-related analysis is drawn from external references rather than performed in-house.",
+    "evidence_index": [
+      {
+        "text": "Urbanization and forest fragmentation are inextricably linked to the effects of climate change, because the dispersal and migration of forest plants and animals are disrupted by development and roads.",
+        "location": "Transportation and Service Corridors",
+        "relevant_elements": ["1.1", "1.3", "1.4", "3.5"]
+      },
+      {
+        "text": "Species and populations likely to have greater sensitivities to climate change include those with highly specialized habitat requirements, native species already near temperature limits or having other narrow environmental tolerances, currently isolated, rare, or declining populations with poor dispersal abilities",
+        "location": "Climate Change and Severe Weather",
+        "relevant_elements": ["1.1", "1.2", "1.3"]
+      },
+      {
+        "text": "Species with these traits will be even more vulnerable if they have a small population, a low reproductive rate, long generation times, low genetic diversity, or are threatened by other factors (Bagne et al. 2014, Gardali et al. 2012, Johnson, 2014, Lankford et al. 2014, NFWPCAP 2014, Small-Lorenz et al. 2013).",
+        "location": "Climate Change and Severe Weather",
+        "relevant_elements": ["1.1", "1.2", "1.3"]
+      },
+      {
+        "text": "Major changes in habitat composition and location may include sea level rise and northward or upslope shifting of natural community types.",
+        "location": "Habitat Shifting and Alteration",
+        "relevant_elements": ["1.1", "2.2", "3.5", "3.3"]
+      },
+      {
+        "text": "Sea level rise poses significant threats to coastal ecosystems that may become inundated, resulting in habitat changes and losses, and adverse impacts to species or communities that depend on these habitats.",
+        "location": "Habitat Shifting and Alteration",
+        "relevant_elements": ["1.1", "3.5"]
+      },
+      {
+        "text": "Periods in which temperatures exceed or go below the normal range of variation may manifest as heat waves, cold spells, and oceanic temperature changes, all of which can affect the distribution of species. Those occurring at the southern periphery of their range, such as the Wood Frog and Cerulean Warbler, may be most affected.",
+        "location": "Temperature Extremes",
+        "relevant_elements": ["1.1", "2.2", "3.6"]
+      },
+      {
+        "text": "Periods in which precipitation falls below the normal range of variation may result in loss of surface water sources. Amphibian breeding sites may not hold water for a sufficient length of time for metamorphosis to occur.",
+        "location": "Droughts",
+        "relevant_elements": ["3.5", "3.6"]
+      },
+      {
+        "text": "The Nature Conservancy (Anderson. et al. 2014) estimated the resilience to climate change of distinct geophysical settings across the southeastern United States (Figure 3-27). The methodology identified sites for all the geophysical settings that are likely to retain species and functions longer under a changing climate",
+        "location": "Climate Change and Severe Weather",
+        "relevant_elements": ["1.1", "4.1", "4.5"]
+      },
+      {
+        "text": "Critical habitats-those areas in which targeted species can persist and/or relocate over time-may provide a refuge from climate change impacts and become high-priority candidates for acquisition and enhanced conservation efforts. Research can be conducted to identify structurally diverse and species-rich habitats as well as important movement corridors.",
+        "location": "Climate Change and Severe Weather",
+        "relevant_elements": ["1.4", "4.1", "4.2"]
+      },
+      {
+        "text": "Cool-water streams and cold-water fish habitat can be incorporated into buffer strategies in order to conserve connected water bodies and protect vegetative canopies over streams to help reduce impacts of warming temperatures.",
+        "location": "Climate Change and Severe Weather",
+        "relevant_elements": ["1.4", "4.1"]
+      },
+      {
+        "text": "Table 3-4 provides a summary of the vulnerability of key Alabama habitats to the impacts of climate change as determined by the SWAP Technical Teams. Habitats of highest vulnerability are coastal, primarily due to the combined impacts of sea level rise and increases in storm frequency and intensity.",
+        "location": "Vulnerability of Alabama Habitats to Climate Change",
+        "relevant_elements": ["1.1", "2.1", "4.1"]
+      },
+      {
+        "text": "preserved forest areas should be relatively large to function effectively as resilient reserves, and some larger organizations or partnerships of various groups are capable of assembling such acquisitions.",
+        "location": "Climate Change and Severe Weather",
+        "relevant_elements": ["1.4", "4.1"]
+      },
+      {
+        "text": "By conserving all types of geophysical settings and using site resilience criteria to select places for conservation action, the variety of diversity conserved may be expanded with increased probability of persistence over time.",
+        "location": "Climate Change and Severe Weather",
+        "relevant_elements": ["4.1", "4.5"]
+      },
+      {
+        "text": "Climate change and emerging diseases are examples of threats where more updated information was incorporated into the threats determination, assessment, and ranking process.",
+        "location": "Identifying Threats to Alabama's Wildlife and Key Habitats",
+        "relevant_elements": ["1.1"]
+      },
+      {
+        "text": "As conditions change (e.g., land use patterns, climate change, global or national population trends, new data and information), adaptive management and implementation of the conservation actions identified in Chapter 4 will allow DWFF to respond appropriately.",
+        "location": "Introduction",
+        "relevant_elements": ["4.3", "4.5"]
+      },
+      {
+        "text": "Structured decision-making (SDM, Martin et al. 2009) is a useful process to analyze problems, create objectives, and explore tradeoffs, consequences, and alternative paths within a framework that is based on science, values, and policy.",
+        "location": "Introduction",
+        "relevant_elements": ["4.5"]
+      },
+      {
+        "text": "This protection mosaic has conserved important populations of SGCN, such as the Alabama Beach Mouse, and their habitats. However, this reserve system was established during a time when the challenge of climate change and resulting shifting coastlines and habitats was not fully appreciated.",
+        "location": "Climate Change and Severe Weather",
+        "relevant_elements": ["1.1", "3.5", "4.1"]
+      },
+      {
+        "text": "Identify movement corridors, document all sightings, and monitor distribution and habitat use. Measure(s): Identification of important migration corridors, areas inhabited, habitat requirements, data to expand GIS coverages",
+        "location": "Dry Longleaf Pine Forest",
+        "relevant_elements": ["1.4", "4.1"]
+      },
+      {
+        "text": "Maps of terrestrial habitats were prepared by the State Lands Division, using the 2007 Alabama GAP data...Priority Conservation Areas are defined at the end of this chapter and summarized in Figure 4-64.",
+        "location": "Conservation Actions for Terrestrial SGCN by Habitat",
+        "relevant_elements": ["4.1"]
+      },
+      {
+        "text": "Maintain or, where feasible, restore contiguous gradients (ecotones) into adjacent habitats such as floodplain forests. High-intensity roads, development, agriculture, and intensive silvicultural activities that are placed between complementary habitats may alter seasonal movements and make natural dispersal patterns difficult or even impossible",
+        "location": "Terrestrial Habitats",
+        "relevant_elements": ["1.4", "4.2"]
+      },
+      {
+        "text": "The implementation of SWAP priority conservation actions will be monitored via a DWFF tracking system...As conservation actions are implemented, their effectiveness will be reviewed biennially by DWFF, and the status of species and habitats reassessed by the expert taxa committees and Technical Team.",
+        "location": "EXECUTIVE SUMMARY",
+        "relevant_elements": ["4.3"]
+      },
+      {
+        "text": "The SWAP will be updated every 10 years to reflect this adaptive management approach, allowing the document to remain current to Alabama's needs to comprehensively conserve its fish and wildlife resources and their habitats.",
+        "location": "EXECUTIVE SUMMARY",
+        "relevant_elements": ["4.3", "4.5"]
+      },
+      {
+        "text": "Acquire better spatial data through remote sensing and ground truthing, and identify any extensive (at least 400-hectare; 1,000-acre) natural communities. Contact landowners to seek protection through willing seller purchase and/or conservation easements.",
+        "location": "Terrestrial Habitats",
+        "relevant_elements": ["4.1"]
+      },
+      {
+        "text": "reintroduced threatened species",
+        "location": "EXECUTIVE SUMMARY",
+        "relevant_elements": ["4.2"]
+      },
+      {
+        "text": "Voluntary Guidance for States to Incorporate Climate Change Into Swaps and Other Management Plans AFWA 2009",
+        "location": "Literature Cited",
+        "relevant_elements": ["4.5"]
+      },
+      {
+        "text": "National Fish, Wildlife, and Plants Climate Adaptation Strategy National Fish, Wildlife and Plants Climate Adaptation Partnership 2014",
+        "location": "Literature Cited",
+        "relevant_elements": ["4.5"]
+      },
+      {
+        "text": "A partnership of the Geological Survey of Alabama, U.S. Fish and Wildlife Service, and ADCNR has selected watersheds and river segments in the five HUC-4 subregions in Alabama to focus conservation activities",
+        "location": "Identifying Key Aquatic Habitats: SHUs and SRRUs",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "Local, state and federal agencies and tribal partners were asked not only for input, but to review the draft SWAP, and their comments were incorporated into the final document.",
+        "location": "EXECUTIVE SUMMARY",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "The SHUs and Strategic River Reach Units (SRRUs) include a substantial part of Alabama's remaining high-quality rivers and streams and reflect the variety of small stream to large river habitats occupied by these species historically and/or currently (Figure 2-3-4-5-6).",
+        "location": "Identifying Key Aquatic Habitats: SHUs and SRRUs",
+        "relevant_elements": ["4.1"]
+      },
+      {
+        "text": "Monitoring is also necessary to track the success of conservation actions, ensuring the most efficient use of limited staffing and funds.",
+        "location": "Introduction",
+        "relevant_elements": ["4.3"]
+      },
+      {
+        "text": "DWFF proposes to complete a comprehensive revision of the SWAP in ten years, and to review, evaluate, and update sections annually through the existing Wildlife and Sport Fish Restoration program reporting system and grant administration.",
+        "location": "SWAP Review and Revision",
+        "relevant_elements": ["4.3"]
+      }
+    ]
+  },
+  "concepts": {
+    "climate_vulnerability": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Species and populations likely to have greater sensitivities to climate change include those with highly specialized habitat requirements, native species already near temperature limits or having other narrow environmental tolerances, currently isolated, rare, or declining populations with poor dispersal abilities",
+          "location": "Climate Change and Severe Weather",
+          "sub_component": "sensitivity/exposure",
+          "citations": ["Bagne et al. 2014", "Gardali et al. 2012", "Johnson, 2014", "Lankford et al. 2014", "NFWPCAP 2014", "Small-Lorenz et al. 2013"]
+        },
+        {
+          "text": "Table 3-4 provides a summary of the vulnerability of key Alabama habitats to the impacts of climate change as determined by the SWAP Technical Teams. Habitats of highest vulnerability are coastal, primarily due to the combined impacts of sea level rise and increases in storm frequency and intensity.",
+          "location": "Vulnerability of Alabama Habitats to Climate Change",
+          "sub_component": "exposure",
+          "citations": []
+        }
+      ],
+      "absence_note": "The document references climate vulnerability for habitats and species but does not operationalize 'adaptive capacity' as the other side of the vulnerability equation. It mentions 'poor dispersal abilities' and 'low genetic diversity' as factors but these appear in a list of sensitivity/exposure traits rather than a distinct treatment of adaptive capacity. Score 2 (exposure referenced; adaptive capacity not articulated as a distinct axis) rather than 3."
+    },
+    "adaptive_capacity_specificity": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Species with these traits will be even more vulnerable if they have a small population, a low reproductive rate, long generation times, low genetic diversity, or are threatened by other factors",
+          "location": "Climate Change and Severe Weather",
+          "sub_component": null,
+          "citations": ["Bagne et al. 2014", "Gardali et al. 2012"]
+        }
+      ],
+      "absence_note": "The document touches on characteristics that implicitly relate to adaptive capacity (dispersal, genetic diversity, reproductive rate) but does not operationalize 'adaptive capacity' as a distinct concept or apply any of its specific components systematically to focal species. Score 1 rather than 2."
+    },
+    "adaptive_capacity_components": {
+      "demography": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Species with these traits will be even more vulnerable if they have a small population, a low reproductive rate, long generation times, low genetic diversity, or are threatened by other factors",
+            "location": "Climate Change and Severe Weather",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "distribution": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Major changes in habitat composition and location may include sea level rise and northward or upslope shifting of natural community types.",
+            "location": "Habitat Shifting and Alteration",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "movement": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "currently isolated, rare, or declining populations with poor dispersal abilities, and groups especially sensitive to pathogens.",
+            "location": "Climate Change and Severe Weather",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "evolutionary_potential": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Species with these traits will be even more vulnerable if they have a small population, a low reproductive rate, long generation times, low genetic diversity, or are threatened by other factors",
+            "location": "Climate Change and Severe Weather",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecological_dependencies": {
+        "present": false,
+        "evidence": []
+      },
+      "abiotic_niche": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "native species already near temperature limits or having other narrow environmental tolerances, currently isolated, rare, or declining populations with poor dispersal abilities",
+            "location": "Climate Change and Severe Weather",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "life_history": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Species with these traits will be even more vulnerable if they have a small population, a low reproductive rate, long generation times, low genetic diversity, or are threatened by other factors",
+            "location": "Climate Change and Severe Weather",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      }
+    },
+    "connectivity": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Critical habitats-those areas in which targeted species can persist and/or relocate over time-may provide a refuge from climate change impacts and become high-priority candidates for acquisition and enhanced conservation efforts. Research can be conducted to identify structurally diverse and species-rich habitats as well as important movement corridors.",
+          "location": "Climate Change and Severe Weather",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Urbanization and forest fragmentation are inextricably linked to the effects of climate change, because the dispersal and migration of forest plants and animals are disrupted by development and roads.",
+          "location": "Transportation and Service Corridors",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document explicitly links connectivity (movement corridors) to climate-driven range persistence and movement, earning score 2. The connectivity is framed as a tool to support species relocation in response to climate change impacts."
+    }
+  },
+  "tools": {
+    "vulnerability_models": {
+      "evaluable": true,
+      "score": 1,
+      "named_tools": ["CCVI"],
+      "evidence": [
+        {
+          "text": "Voluntary Guidance for States to Incorporate Climate Change Into Swaps and Other Management Plans AFWA 2009",
+          "location": "Literature Cited",
+          "sub_component": null,
+          "citations": ["AFWA 2009"]
+        }
+      ],
+      "absence_note": "The document produces a habitat vulnerability table (Table 3-4) ranking Alabama habitats by climate change vulnerability, generated by 'SWAP Technical Teams,' but uses no named vulnerability model or formal framework. CCVI appears in the literature cited (Gardali et al. and others reference climate vulnerability assessments) but no CCVI scores are applied to focal species. The habitat vulnerability table is an internally generated ranking rather than application of a named model. Score 1 (referenced generally via literature) rather than 2."
+    },
+    "niche_models": {
+      "evaluable": true,
+      "score": 0,
+      "named_tools": [],
+      "evidence": [],
+      "absence_note": "No species distribution models or ecological niche models are applied to or referenced for the plan's focal species. Range maps are mentioned but no SDM framework is invoked."
+    },
+    "climate_models": {
+      "evaluable": true,
+      "score": 0,
+      "named_tools": [],
+      "evidence": [],
+      "absence_note": "The document discusses climate change qualitatively (warming, sea level rise, altered precipitation) and cites climate-relevant literature but does not reference any specific climate model, GCM, downscaling product, RCP, SSP, or emission scenario. No climate projections are applied to the plan's focal subjects.",
+      "time_horizon_years": [],
+      "emission_scenarios": []
+    },
+    "connectivity_models": {
+      "evaluable": true,
+      "score": 0,
+      "named_tools": [],
+      "evidence": [],
+      "absence_note": "Connectivity and corridors are discussed conceptually and in conservation action contexts, but no named connectivity modeling tool is referenced or applied."
+    }
+  },
+  "context": {
+    "management_scale": {
+      "local": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Conservation occurs at multiple scales, from populations at the local level to broader, overarching taxa and statewide geographic scales.",
+            "location": "Identifying and Prioritizing Conservation Actions",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "site": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Maps of terrestrial habitats were prepared by the State Lands Division, using the 2007 Alabama GAP data...Priority Conservation Areas are defined at the end of this chapter and summarized in Figure 4-64.",
+            "location": "Conservation Actions for Terrestrial SGCN by Habitat",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "watershed": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "SHUs and SRRUs facilitate and coordinate watershed management and restoration efforts as well as to focus funding to address habitat and water quality issues.",
+            "location": "Identifying Key Aquatic Habitats: SHUs and SRRUs",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "city": {
+        "present": false,
+        "evidence": []
+      },
+      "county": {
+        "present": false,
+        "evidence": []
+      },
+      "within_state_region": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "SGCN were associated with 16 key habitats and 15 river basins, including several types of forest, wetlands, and other unique communities such as caves and coastal beaches.",
+            "location": "EXECUTIVE SUMMARY",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "state": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Overarching statewide conservation actions were also developed, as many actions recurred for many species and habitats, and in existing conservation plans. Alabama's conservation actions therefore addressed needs at multiple scales and levels.",
+            "location": "EXECUTIVE SUMMARY",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "multistate": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The Tennessee River basin encompasses portions of seven states and drains more than 40,000 square miles.",
+            "location": "Tennessee River Basin",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "national": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "National Fish, Wildlife, and Plants Climate Adaptation Strategy National Fish, Wildlife and Plants Climate Adaptation Partnership 2014",
+            "location": "Literature Cited",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "transnational": {
+        "present": false,
+        "evidence": []
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Under rising global temperatures, sea water undergoes expansion, and ice caps and glaciers melt and contribute to rising sea levels. Sea level rise poses significant threats to coastal ecosystems that may become inundated",
+            "location": "Habitat Shifting and Alteration",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecoregion": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "At a coarse-scale level, this plan uses a revision of Omernik's (1987) system, which identifies six Level III and 29 Level IV ecoregions for Alabama (Figure 2-1).",
+            "location": "Physiography and Ecoregions",
+            "sub_component": null,
+            "citations": ["Omernik 1987", "Griffith et al. 2001"]
+          }
+        ]
+      },
+      "province": {
+        "present": false,
+        "evidence": []
+      },
+      "section": {
+        "present": false,
+        "evidence": []
+      },
+      "subsection": {
+        "present": false,
+        "evidence": []
+      },
+      "lake": {
+        "present": false,
+        "evidence": []
+      },
+      "river": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The following actions are broken down into 15 river basins and one estuarine habitat.",
+            "location": "Conservation Actions for Aquatic SGCN by River Basin",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "district": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["Tennessee River basin", "Mobile River basin", "Cahaba River", "Black Warrior River", "Tombigbee River", "Alabama River", "Coosa River", "Tallapoosa River", "Choctawhatchee River", "Conecuh River", "Yellow River", "Perdido River", "Southeastern Plains ecoregion", "East Gulf Coastal Plain", "Interior Plateau", "Southwestern Appalachians", "Ridge and Valley", "Piedmont", "Southern Coastal Plain"]
+    },
+    "biological_unit_score": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Major changes in habitat composition and location may include sea level rise and northward or upslope shifting of natural community types.",
+          "location": "Habitat Shifting and Alteration",
+          "sub_component": "community/habitat",
+          "citations": []
+        },
+        {
+          "text": "Periods in which temperatures exceed or go below the normal range of variation may manifest as heat waves, cold spells, and oceanic temperature changes, all of which can affect the distribution of species. Those occurring at the southern periphery of their range, such as the Wood Frog and Cerulean Warbler, may be most affected.",
+          "location": "Temperature Extremes",
+          "sub_component": "species",
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "biological_unit_components": {
+      "species": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Those occurring at the southern periphery of their range, such as the Wood Frog and Cerulean Warbler, may be most affected.",
+            "location": "Temperature Extremes",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "population": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "currently isolated, rare, or declining populations with poor dispersal abilities, and groups especially sensitive to pathogens.",
+            "location": "Climate Change and Severe Weather",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "habitat": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Table 3-4 provides a summary of the vulnerability of key Alabama habitats to the impacts of climate change as determined by the SWAP Technical Teams.",
+            "location": "Vulnerability of Alabama Habitats to Climate Change",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Major changes in habitat composition and location may include sea level rise and northward or upslope shifting of natural community types.",
+            "location": "Habitat Shifting and Alteration",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "community": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Major changes in habitat composition and location may include sea level rise and northward or upslope shifting of natural community types.",
+            "location": "Habitat Shifting and Alteration",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "genotype_phenotype": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["Wood Frog", "Cerulean Warbler", "Alabama Beach Mouse", "Longleaf pine communities", "Coastal ecosystems", "Dry Longleaf Pine Forest", "Mesic Hardwood Forest", "Beach and Dune habitat", "Intertidal Marshes"]
+    },
+    "partnerships_and_funding": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "The implementation of conservation actions will be coordinated with key partners wherever possible, including the U.S. Fish and Wildlife Service, U.S. Forest Service, Natural Resources Conservation Service, U.S. Army Corps of Engineers, Tennessee Valley Authority, Alabama Forestry Commission, Tennessee Aquarium Research Institute, The Nature Conservancy, Partners in Flight, watershed groups, Forever Wild, land trusts, and many others.",
+          "location": "EXECUTIVE SUMMARY",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "Many partners are named throughout the document, and the SWAP process involved active coordination, but climate-specific or range-shift-specific partnerships and funding are not distinguished from general SWAP partnerships. Score 1 (some partnerships described but aspirational/general rather than strategic investment in range-shift actions specifically)."
+    },
+    "climate_threat_habitat_degradation": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Sea level rise poses significant threats to coastal ecosystems that may become inundated, resulting in habitat changes and losses, and adverse impacts to species or communities that depend on these habitats.",
+          "location": "Habitat Shifting and Alteration",
+          "sub_component": null,
+          "citations": ["Frumhoff et al. 2007", "Karl et al. 2009", "IPCC 2007"]
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_threat_species_vital_rates": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Periods in which precipitation falls below the normal range of variation may result in loss of surface water sources. Amphibian breeding sites may not hold water for a sufficient length of time for metamorphosis to occur.",
+          "location": "Droughts",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The drought passage describes a direct climate effect on vital rates (reproductive failure — metamorphosis cannot occur). This is a direct chain: climate event (drought) → vital rate failure (recruitment failure). Score 1."
+    },
+    "climate_threat_biotic_stressors": {
+      "evaluable": true,
+      "score": 0,
+      "evidence": [],
+      "absence_note": "Invasive species are discussed extensively but without climate framing. Succession is mentioned in the context of fire suppression, not climate change. No phenological mismatch or climate-favored invasion is explicitly discussed."
+    }
+  },
+  "actions": {
+    "priority_habitat_identification": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Maps of terrestrial habitats were prepared by the State Lands Division, using the 2007 Alabama GAP data, the best available at this time. The featured habitat is shaded green in all but the cave map...Priority Conservation Areas are defined at the end of this chapter and summarized in Figure 4-64.",
+          "location": "Conservation Actions for Terrestrial SGCN by Habitat",
+          "sub_component": "spatial representation",
+          "citations": []
+        },
+        {
+          "text": "Critical habitats-those areas in which targeted species can persist and/or relocate over time-may provide a refuge from climate change impacts and become high-priority candidates for acquisition and enhanced conservation efforts.",
+          "location": "Climate Change and Severe Weather",
+          "sub_component": "climate-relevant habitat identification",
+          "citations": []
+        }
+      ],
+      "absence_note": "The document includes mapped priority areas (Figure 4-64 for terrestrial, SHU/SRRU maps for aquatic), earning score 2. Climate refugia are specifically mentioned as priority candidates for acquisition."
+    },
+    "targeted_range_shift_actions": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Critical habitats-those areas in which targeted species can persist and/or relocate over time-may provide a refuge from climate change impacts and become high-priority candidates for acquisition and enhanced conservation efforts. Research can be conducted to identify structurally diverse and species-rich habitats as well as important movement corridors.",
+          "location": "Climate Change and Severe Weather",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document recommends identifying movement corridors and protecting refugia in the context of climate change (structural facilitation), earning score 1. However, there is no explicit assisted migration, climate-motivated translocation, or similarly direct range-shift action targeting specific SGCN. The corridor/refugia language is general rather than species-specific."
+    },
+    "time_bound_and_monitoring": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "The implementation of SWAP priority conservation actions will be monitored via a DWFF tracking system...As conservation actions are implemented, their effectiveness will be reviewed biennially by DWFF, and the status of species and habitats reassessed by the expert taxa committees and Technical Team.",
+          "location": "EXECUTIVE SUMMARY",
+          "sub_component": "monitoring",
+          "citations": []
+        },
+        {
+          "text": "DWFF proposes to complete a comprehensive revision of the SWAP in ten years, and to review, evaluate, and update sections annually through the existing Wildlife and Sport Fish Restoration program reporting system and grant administration.",
+          "location": "SWAP Review and Revision",
+          "sub_component": "time-bound",
+          "citations": []
+        }
+      ],
+      "absence_note": "The document includes action-level measures (Measure(s) fields per action listing timelines and specific deliverables), biennial effectiveness review, and a 10-year plan revision cycle. This operationalizes both deadlines and monitoring at the action level, meeting the threshold for score 2."
+    },
+    "evidence_of_efficacy": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "The Nature Conservancy (Anderson. et al. 2014) estimated the resilience to climate change of distinct geophysical settings across the southeastern United States (Figure 3-27). The methodology identified sites for all the geophysical settings that are likely to retain species and functions longer under a changing climate",
+          "location": "Climate Change and Severe Weather",
+          "sub_component": null,
+          "citations": ["Anderson et al. 2014"]
+        }
+      ],
+      "absence_note": "Actions in Chapter 4 consistently list 'Measure(s)' (performance metrics) but do not provide evidence of prior efficacy for most. General ecological first-principles and literature citations support the approach (score 1) but direct efficacy evidence for climate-specific actions is absent. The TNC resilient sites study cited is relevant but addresses general climate resilience, not specific range-shift management actions.",
+      "projects": ["The 2005 CWCS accomplishments section describes prior SGCN reintroduction actions (e.g., mussel releases at AABC, dam removals) with outcome counts (61,155 lab-reared mussels released), providing limited evidence that the approach produces measurable population-level results.", "The Nature Conservancy's Anderson et al. 2014 'Resilient Sites' analysis is cited as evidence supporting the site-resilience approach to conservation planning under climate change — a referenced study with some applicability to the plan's actions."]
+    },
+    "adaptation_planning_frameworks": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Structured decision-making (SDM, Martin et al. 2009) is a useful process to analyze problems, create objectives, and explore tradeoffs, consequences, and alternative paths within a framework that is based on science, values, and policy.",
+          "location": "Introduction",
+          "sub_component": "Structured Decision Making",
+          "citations": ["Martin et al. 2009"]
+        },
+        {
+          "text": "As conditions change (e.g., land use patterns, climate change, global or national population trends, new data and information), adaptive management and implementation of the conservation actions identified in Chapter 4 will allow DWFF to respond appropriately.",
+          "location": "Introduction",
+          "sub_component": "adaptive management",
+          "citations": []
+        }
+      ],
+      "absence_note": "Structured Decision Making (SDM) is specifically named in a climate-change context, and adaptive management is framed explicitly around climate-driven change, earning score 2. The RAD/RRT frameworks are not referenced. CCVA is referenced implicitly through the habitat vulnerability table but the framework is not named."
+    }
+  },
+  "coding_meta": {
+    "coder": "llm:claude-sonnet-4-6",
+    "model": "claude-sonnet-4-6",
+    "provider": "claude",
+    "codebook_version": "0.4",
+    "ingest": "text",
+    "design": "single",
+    "temperature": null,
+    "thinking": null,
+    "thinking_effort": null,
+    "coded_at": "2026-07-06T18:39:19Z",
+    "notes": {}
+  }
+}

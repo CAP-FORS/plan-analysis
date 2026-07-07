@@ -1,0 +1,935 @@
+{
+  "document_meta": {
+    "title": "California's Forests and Rangelands: 2017 Assessment and 2020 Strategy Report",
+    "year": 2020,
+    "jurisdiction": "California",
+    "document_type": "Forest and Range Assessment / Strategy Report",
+    "document_id": "CA_FAP_2020",
+    "page_count": 481
+  },
+  "orientation": {
+    "summary": "This document is a combined California state Forest and Range Assessment (2017) and associated Strategy Report (2020), produced by CAL FIRE (California Department of Forestry and Fire Protection). The document is highly climate-aware, treating climate change as a fundamental threat to forest and rangeland sustainability, wildfire regimes, carbon storage, water resources, and wildlife habitat. It discusses range shifts and vegetation type conversions driven by climate change, particularly for timberlands, oak woodlands, Joshua tree, and aspen habitats, using niche modeling outputs from GCMs (CNRM CM5 and MIROC ESM under RCP8.5) to project future habitat suitability. The assessment primarily synthesizes analyses performed by external researchers and state programs (e.g., Thorne et al. 2017), rather than conducting new modeling itself. Management actions addressing climate adaptation include reforestation using climate-appropriate seed sources, habitat connectivity, refugia identification, assisted migration (mentioned for seed zones), and conservation easements.",
+    "evidence_index": [
+      {
+        "text": "With warmer temperatures, tree species in California are likely to respond by migrating both northward and to higher altitudes. As the rate of climate change increases some tree species may not be able to adapt to changed conditions. Species with currently restricted ranges will be most vulnerable",
+        "location": "Chapter 7: Climate Change, Climate Trends and Implications, Impacts on Tree Species",
+        "relevant_elements": ["1.1", "1.2", "1.3", "2.2", "3.3"]
+      },
+      {
+        "text": "Under a high greenhouse gas emission scenario simulated in two different climate models, by 2069 between 3-8% of California timberlands will no longer have suitable conditions to support the tree species that are of primary commercial value in California.",
+        "location": "Executive Summary, Climate Change Impact",
+        "relevant_elements": ["1.1", "2.2", "2.3", "3.5"]
+      },
+      {
+        "text": "Future conditions were modeled under a high emission scenario (RCP8.5) that best matches the current global trajectory. Two Global Climate Models (GCMs) were used: 1) CNRM CM5... 2) MIROC ESM",
+        "location": "Chapter 1: Sustainable Working Forests, Climate Change Impact",
+        "relevant_elements": ["2.2", "2.3"]
+      },
+      {
+        "text": "The results show that 15 of 31 tree species are projected to lose 75% of their current suitable range by 2099.",
+        "location": "Chapter 7: Climate Change, Impacts on Tree Species",
+        "relevant_elements": ["1.1", "2.2", "3.3"]
+      },
+      {
+        "text": "Thorne et al. evaluated the climate exposure to California Wildlife Habitat Relationship (CWHR) vegetation types (Figure 7.5). This analysis provides a measure of stress to vegetation from changing climatic conditions.",
+        "location": "Chapter 7: Climate Change, Impacts on Tree Species",
+        "relevant_elements": ["1.1", "2.2", "2.3", "4.1"]
+      },
+      {
+        "text": "Habitat types such as Joshua Tree are projected to have severe impacts under the two hotter/dryer and warmer/wetter climate scenarios. For habitat types such as Red Fir, the future climate scenario has major implications in terms of loss.",
+        "location": "Chapter 10: Wildlife Habitat, Habitat Vulnerability to Climate Change indicator i10.4",
+        "relevant_elements": ["1.1", "2.2", "4.1", "3.3"]
+      },
+      {
+        "text": "In addition to losses, changing climate provides opportunities for habitat types to 'migrate' into areas that were climatically unsuitable in the past. Whether these opportunities are realized will depend on the adaptability of the habitat types to these new sites",
+        "location": "Chapter 10: Wildlife Habitat, Habitat Vulnerability to Climate Change",
+        "relevant_elements": ["1.1", "1.3", "2.2", "4.2"]
+      },
+      {
+        "text": "Climate impacts were simulated under two climate scenarios (CNRM CM5 and MIROC ESM), both assuming high carbon emissions. Impacts are estimated based on the percent of the current mapped area of a habitat type that will be climatically unsuitable by 2069.",
+        "location": "Chapter 10: Wildlife Habitat, Data Sources and Quality",
+        "relevant_elements": ["2.2", "2.3"]
+      },
+      {
+        "text": "Understanding why species and ecosystems are vulnerable or potentially less resilient is a critical first step in developing effective conservation strategies. This vulnerability is based on sensitivity, exposure, and the ability to adapt.",
+        "location": "Chapter 10: Wildlife Habitat, Habitat Quality and Degradation",
+        "relevant_elements": ["1.1"]
+      },
+      {
+        "text": "Species with low adaptive capacity such as those with specialized habitat needs or limited dispersal ability face higher vulnerability to these changes.",
+        "location": "Chapter 10: Wildlife Habitat, Habitat Quality and Degradation",
+        "relevant_elements": ["1.2", "1.3"]
+      },
+      {
+        "text": "The increased frequency and intensity of these events due to a changing climate, combined with the increased loss of habitat through land use alteration and habitat fragmentation, is causing species to become more vulnerable to disturbances.",
+        "location": "Chapter 10: Wildlife Habitat, Habitat Quality and Degradation",
+        "relevant_elements": ["1.1", "3.5", "3.6"]
+      },
+      {
+        "text": "Species' physiological limits are tested as shifting temperatures, altered hydrology, and changing seasonal cues affect survival, reproduction, and migration.",
+        "location": "Chapter 10: Wildlife Habitat, Habitat Quality and Degradation",
+        "relevant_elements": ["1.3", "3.6"]
+      },
+      {
+        "text": "White pine blister rust is thought to be gradually moving south through the range of sugar pine and into higher elevation five needle pine species.",
+        "location": "Chapter 5: Forest Pests, Analysis of Tree Mortality",
+        "relevant_elements": ["3.7"]
+      },
+      {
+        "text": "Restoring natural fire regimes, and decreasing the impact of invasive species. To achieve their goals, the Forest Service would need to find the resources to increase ecological restoration activities from the current 200,000 acres a year to approximately 500,000 acres per year.",
+        "location": "Chapter 1: Sustainable Working Forests, Management Context",
+        "relevant_elements": ["4.2", "3.4"]
+      },
+      {
+        "text": "The current uneven pattern of protected areas across ownerships and elevations creates issues for habitat connectivity. Easements are one way to expand and connect biologically important fragmented areas into more viable habitats.",
+        "location": "Executive Summary, Habitat Conversion and Protection",
+        "relevant_elements": ["1.4", "4.1"]
+      },
+      {
+        "text": "Forest Service goals set in 2011 include treatments to improve forest resiliency and other ecological restoration activities such as restoring degraded meadows, reforestation of burned areas, increasing habitat connectivity",
+        "location": "Chapter 1: Sustainable Working Forests, Management Context",
+        "relevant_elements": ["1.4", "4.2"]
+      },
+      {
+        "text": "Maintain connectivity across forest landscapes by reducing fragmentation and identifying important habitat corridors and key linkages between conservation areas.",
+        "location": "Chapter 7: Climate Change, Strategy 7.3",
+        "relevant_elements": ["1.4", "4.2"]
+      },
+      {
+        "text": "Implement planning efforts aimed to establish a system of sustainable habitat connectivity and wildlife corridors, reduce mortality from roadways and increase fish passage.",
+        "location": "Chapter 10: Wildlife Habitat, Strategy 10.2, Action G",
+        "relevant_elements": ["1.4", "4.2"]
+      },
+      {
+        "text": "Climate change is projected to impact the distribution and quality of important rangeland vegetation types, with associated changes in productivity.",
+        "location": "Chapter 2: Sustainable Rangelands, Summary",
+        "relevant_elements": ["1.1", "3.5", "3.3"]
+      },
+      {
+        "text": "Vegetation types associated with rangeland will likely lose a portion of their current extent, and in some cases migrate to new areas with suitable future climate.",
+        "location": "Chapter 2: Sustainable Rangelands, Climate Change Impact on Rangelands",
+        "relevant_elements": ["1.1", "2.2", "3.3"]
+      },
+      {
+        "text": "In California, climate change is leading to longer, hotter and drier summers, with more pronounced fire activity and increased tree mortality from pest outbreaks. Extreme weather events, hotter droughts and severe flooding are expected to occur more frequently with global warming.",
+        "location": "Chapter 7: Climate Change, Population Growth and Development Impacts",
+        "relevant_elements": ["1.1", "3.5", "3.6"]
+      },
+      {
+        "text": "Projected climate change results in potential losses in significant portions of this habitat, and the impact appears to increase from north to south.",
+        "location": "Chapter 10: Wildlife Habitat, Southern Sierra Oak Woodlands",
+        "relevant_elements": ["4.1", "2.2", "3.3"]
+      },
+      {
+        "text": "Modeling conducted in this study found up to a 90% reduction in their current distribution due to climate stress (i.e. increase temperature and decreased precipitation).",
+        "location": "Chapter 10: Wildlife Habitat, Mojave Desert",
+        "relevant_elements": ["2.2", "4.1", "3.3"]
+      },
+      {
+        "text": "there are substantial areas in all south Sierra counties that currently do not contain Blue Oak, but will be climatically suitable for the species in the future, and could represent areas for future migration in response to climate change. Generally, this involves an uphill migration",
+        "location": "Chapter 10: Wildlife Habitat, Southern Sierra Oak Woodlands figure caption",
+        "relevant_elements": ["2.2", "4.1", "3.3"]
+      },
+      {
+        "text": "Statewide, there is a projected loss of between .6 (3%) and 1.4 million acres (8%) of timberland under the warmer/wetter and hotter/drier climate change scenarios, respectively. These former timberlands will likely transition into oak woodland, brush, or grassland",
+        "location": "Chapter 1: Sustainable Working Forests, The Resource Base",
+        "relevant_elements": ["2.2", "3.3", "3.5"]
+      },
+      {
+        "text": "Evaluation, monitoring and protection of habitat that serves as key refugia on forests and rangelands.",
+        "location": "Chapter 7: Climate Change, Strategy 7.3, Action F",
+        "relevant_elements": ["4.1", "1.4"]
+      },
+      {
+        "text": "Make sure genetic material from threatened southern populations of conifers is conserved for possible assisted migration.",
+        "location": "Chapter 7: Climate Change, Strategy 7.2, Action E",
+        "relevant_elements": ["4.2", "1.3"]
+      },
+      {
+        "text": "Implement seed collection focused on southern populations of key tree species for likely future use in planting zones to the north.",
+        "location": "Chapter 7: Climate Change, Strategy 7.2, Action E",
+        "relevant_elements": ["4.2"]
+      },
+      {
+        "text": "Utilize species distribution and climate models to help inform land management and policy decisions and to maintain insight into mechanisms and awareness of the potential magnitude of climate change effects.",
+        "location": "Chapter 10: Wildlife Habitat, Strategy 10.3, Action K",
+        "relevant_elements": ["2.2"]
+      },
+      {
+        "text": "Consider predicted climate change effects during conservation planning and restoration.",
+        "location": "Chapter 10: Wildlife Habitat, Strategy 10.2, Action L",
+        "relevant_elements": ["4.5"]
+      },
+      {
+        "text": "Warming has allowed invasive cheatgrass to expand its range into higher elevations previously dominated by native bunchgrasses",
+        "location": "Chapter 2: Sustainable Rangelands, Vegetation Changes and Productivity",
+        "relevant_elements": ["3.7"]
+      },
+      {
+        "text": "invasion of grasslands and shrublands in northeastern California by western juniper has had a significant impact on ecosystem services and wildfire risk, and is one of the principal reasons for the proposed listing of the sage grouse as an endangered species. The invasion of desert vegetation types by exotic grasses such as red brome and cheat grass has been attributed to nutrient enrichment by atmospheric nitrogen deposition",
+        "location": "Chapter 2: Sustainable Rangelands, Rangeland plant communities figure",
+        "relevant_elements": ["3.7"]
+      },
+      {
+        "text": "Sudden oak death continues to slowly spread northward through previously uninfected stands within its potential host range.",
+        "location": "Chapter 5: Forest Pests, Exotic Forest Pests",
+        "relevant_elements": ["3.7"]
+      },
+      {
+        "text": "climate change is increasing drought and heat stress and driving forest systems outside the range of normal variation, in part due to an expansion of the geographic and seasonal range of some important pest species",
+        "location": "Chapter 5: Forest Pests, Summary",
+        "relevant_elements": ["3.7", "3.6"]
+      },
+      {
+        "text": "Develop a contingency plan for ecological impacts of climate change, including seed banks and land trades adjusted to ranges of vegetation types.",
+        "location": "Chapter 7: Climate Change, Strategy 7.2, Action C-2",
+        "relevant_elements": ["4.5", "4.2"]
+      },
+      {
+        "text": "Support Adaptation Needs for Forests by Assessing Climate Vulnerabilities, Improving Institutional Capacity, and Promoting a Priority Research Agenda.",
+        "location": "Chapter 7: Climate Change, Strategy 7.2",
+        "relevant_elements": ["4.5"]
+      },
+      {
+        "text": "In a recent report from California Department of Fish and Wildlife, vegetation macrogroups were given a mean vulnerability rank based on results for two future emission levels and two climate models.",
+        "location": "Chapter 2: Sustainable Rangelands, Climate Change Impact on Rangelands figure",
+        "relevant_elements": ["2.1", "1.1"]
+      },
+      {
+        "text": "Completion of the 2019 Draft Natural and Working Lands Climate Change Implementation Plan that identifies the potential roles for forestlands in climate change mitigation and adaptation.",
+        "location": "CA_FAP-S_2020.pdf, Progress Since Publication of the Strategies 2010 Document",
+        "relevant_elements": ["4.5"]
+      },
+      {
+        "text": "The 2018 California Forest Carbon Plan sets State and Federal goals for conducting fuels treatments on a total of one million acres per year.",
+        "location": "CA_FAP-S_2020.pdf, Table ES-1",
+        "relevant_elements": ["4.3"]
+      },
+      {
+        "text": "A landmark accomplishment occurred for the Forest Legacy program (FLP) in 2014 with the completion of the 50,000-acre working forest conservation easement on Usal Forest, in collaboration with other state agencies and The Conservation Fund.",
+        "location": "CA_FAP-S_2020.pdf, Progress Since Publication",
+        "relevant_elements": ["3.4", "4.1"]
+      },
+      {
+        "text": "The State and the Forest Service are committed to these actions: 1. Sustainably treat one million acres per year, with each party responsible for half of this total; 2. Develop a joint twenty-year project plan for forest and vegetation management",
+        "location": "CA_FAP-S_2020.pdf, Forest Service Partnership",
+        "relevant_elements": ["3.4", "4.3"]
+      },
+      {
+        "text": "Declining mountain snowpack, declining spring runoff, and increased climatic water deficit all suggest drier conditions and increased moisture stress that may affect forest vegetation distribution.",
+        "location": "Chapter 7: Climate Change, Hydrology",
+        "relevant_elements": ["1.1", "3.5"]
+      },
+      {
+        "text": "Since the recent drought, annual grassland areas in eastern San Luis Obispo County changed in grass species composition from soft chess (Bromus hordeaceus)...to red brome (Bromus madritensis)...Red brome is already dominant in annual grassland areas further south, so this change is consistent with the type of change expected with a warming climate.",
+        "location": "Chapter 2: Sustainable Rangelands, Climate Change Impact on Rangelands figure",
+        "relevant_elements": ["3.7", "3.5"]
+      },
+      {
+        "text": "Drought stress allowed pests to kill trees that might otherwise have survived and resulted in a bark beetle epidemic that threatened to spread statewide.",
+        "location": "CA_FAP-S_2020.pdf, Challenges, Drought and Elevated Tree Mortality",
+        "relevant_elements": ["3.6"]
+      },
+      {
+        "text": "Statewide, the Wildland Urban Interface (WUI) footprint spans across 17.7 million acres...There are an estimated 2.2 million housing units within the WUI footprint",
+        "location": "Executive Summary, Wildfire - Community Impacts",
+        "relevant_elements": ["3.1"]
+      },
+      {
+        "text": "Areas of Extreme Fire Threat are concentrated in the South Coast and Mountains ecoregion (26%). The Klamath-North Interior region has a high proportion of Very High Fire Threat (64%). The Sierra-Cascades region is classified in roughly equal proportions of High (45%) and Very High (40%) Fire Threat",
+        "location": "Chapter 4: Wildfire, Fire Threat (i4.2)",
+        "relevant_elements": ["3.1", "4.1"]
+      },
+      {
+        "text": "Significant impacts to the aspen communities are expected in all counties under either climate scenario...Given that quaking aspen occurs on specialized sites at mid-to-high elevations, it is likely that there are limited opportunities for the species to migrate up to new sites that become climatically suitable.",
+        "location": "Chapter 10: Wildlife Habitat, Quaking Aspen",
+        "relevant_elements": ["1.1", "1.3", "3.3", "4.1"]
+      },
+      {
+        "text": "The Board of Forestry and Fire Protection established the Effectiveness Monitoring Committee (EMC) in 2014 to create an independent body to assess the efficacy of the Forest Practice Rules",
+        "location": "CA_FAP-S_2020.pdf, Progress Since Publication",
+        "relevant_elements": ["4.3", "4.4"]
+      },
+      {
+        "text": "Reforestation of harvested areas using tree seed adapted to local conditions reduces susceptibility of planted trees and is required by the FPR.",
+        "location": "Chapter 5: Forest Pests, Active Forest Management",
+        "relevant_elements": ["4.4"]
+      },
+      {
+        "text": "One very promising tool that pertains to this opportunity is the Seedlot Selection Tool (SST). The SST is a web-based mapping application designed to help managers match seedlots with planting sites based on climatic information. The SST can be used to map current climates or future climates based on selected climate change scenarios.",
+        "location": "Chapter 1: Sustainable Working Forests, Collaborative Projects table",
+        "relevant_elements": ["4.2", "4.5"]
+      },
+      {
+        "text": "Forest Service specialists have recommended utilizing seed from sources that are one elevation band (500 feet) up and/or one seed zone south to north from the proposed planting site.",
+        "location": "Chapter 1: Sustainable Working Forests, Collaborative Projects table",
+        "relevant_elements": ["4.2", "4.4"]
+      },
+      {
+        "text": "A more systematic approach to conservation planning is needed to better manage for the persistence of ecological processes and biodiversity. A systematic approach would guide decisions to conserve areas based on location, configuration, habitat linkages, and management.",
+        "location": "Chapter 10: Wildlife Habitat, Background",
+        "relevant_elements": ["4.1", "4.5"]
+      },
+      {
+        "text": "Conservation planners are turning toward target-based designs that rank the landscape for conservation by selecting target species for protection and prioritizing variables such as optimal connectivity between reserves, opportunities for expanding reserves",
+        "location": "Chapter 10: Wildlife Habitat, Background",
+        "relevant_elements": ["4.1", "1.4"]
+      },
+      {
+        "text": "The California Forest Carbon Plan outlines a range of management options that include: Increased use of easements to retain forested ecosystems...Restoration - Replanting of forests that have been impacted from wildfire and mortality from pest outbreaks using climate-smart forestry practices.",
+        "location": "Chapter 7: Climate Change, Opportunities",
+        "relevant_elements": ["4.1", "4.2", "4.5"]
+      },
+      {
+        "text": "Support forest sector research and monitoring. F-1. Continued investment in Forest Health Research Grants. F-2. Expand monitoring for prescribed burning and related fuel reduction projects.",
+        "location": "CA_FAP-S_2020.pdf, Strategy 7.2, Action F",
+        "relevant_elements": ["4.3"]
+      },
+      {
+        "text": "Genetic diversity may buffer trailing-edge populations against warming-driven decline... changes in the use of genetic stock, planting a combination of species for different purposes",
+        "location": "Chapter 7: Climate Change, Carbon Storage discussion",
+        "relevant_elements": ["1.3"]
+      },
+      {
+        "text": "Areas were prioritized based on numerous biological values, current degree of human disturbance, and threat of future development.",
+        "location": "Chapter 2: Sustainable Rangelands, Management Initiatives figure",
+        "relevant_elements": ["4.1"]
+      },
+      {
+        "text": "Refine priority landscapes by promoting regionally-based vulnerability assessments.",
+        "location": "CA_FAP-S_2020.pdf, Strategy 7.2, Action A-1",
+        "relevant_elements": ["4.5", "2.1"]
+      },
+      {
+        "text": "Target funding to recover sensitive species through improved data collection strategies, conservation planning on private lands, and effectiveness monitoring to validate selected avoidance and mitigation measures.",
+        "location": "CA_FAP-S_2020.pdf, Strategy 10.1, Action B",
+        "relevant_elements": ["4.3"]
+      }
+    ]
+  },
+  "concepts": {
+    "climate_vulnerability": {
+      "evaluable": true,
+      "score": 3,
+      "evidence": [
+        {
+          "text": "Understanding why species and ecosystems are vulnerable or potentially less resilient is a critical first step in developing effective conservation strategies. This vulnerability is based on sensitivity, exposure, and the ability to adapt.",
+          "location": "Chapter 10: Wildlife Habitat, Habitat Quality and Degradation",
+          "sub_component": "exposure and adaptive capacity",
+          "citations": []
+        },
+        {
+          "text": "Species with low adaptive capacity such as those with specialized habitat needs or limited dispersal ability face higher vulnerability to these changes.",
+          "location": "Chapter 10: Wildlife Habitat, Habitat Quality and Degradation",
+          "sub_component": "adaptive capacity",
+          "citations": []
+        },
+        {
+          "text": "In a recent report from California Department of Fish and Wildlife, vegetation macrogroups were given a mean vulnerability rank based on results for two future emission levels and two climate models.",
+          "location": "Chapter 2: Sustainable Rangelands, Climate Change Impact on Rangelands figure",
+          "sub_component": "exposure",
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "adaptive_capacity_specificity": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Species with low adaptive capacity such as those with specialized habitat needs or limited dispersal ability face higher vulnerability to these changes.",
+          "location": "Chapter 10: Wildlife Habitat, Habitat Quality and Degradation",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "As the rate of climate change increases some tree species may not be able to adapt to changed conditions. Species with currently restricted ranges will be most vulnerable, while species with broader climate tolerances may be able to adapt more",
+          "location": "Chapter 7: Climate Change, Impacts on Tree Species",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "adaptive_capacity_components": {
+      "demography": {
+        "present": false,
+        "evidence": []
+      },
+      "distribution": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "With warmer temperatures, tree species in California are likely to respond by migrating both northward and to higher altitudes.",
+            "location": "Chapter 7: Climate Change, Impacts on Tree Species",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "movement": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Species with low adaptive capacity such as those with specialized habitat needs or limited dispersal ability face higher vulnerability to these changes.",
+            "location": "Chapter 10: Wildlife Habitat, Habitat Quality and Degradation",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "evolutionary_potential": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "changes in the use of genetic stock, planting a combination of species for different purposes (e.g. for wood products and for carbon storage), and innovative ways to reduce risk.",
+            "location": "Chapter 7: Climate Change, Carbon Storage discussion",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecological_dependencies": {
+        "present": false,
+        "evidence": []
+      },
+      "abiotic_niche": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Species' physiological limits are tested as shifting temperatures, altered hydrology, and changing seasonal cues affect survival, reproduction, and migration.",
+            "location": "Chapter 10: Wildlife Habitat, Habitat Quality and Degradation",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "life_history": {
+        "present": false,
+        "evidence": []
+      }
+    },
+    "connectivity": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "The current uneven pattern of protected areas across ownerships and elevations creates issues for habitat connectivity. Easements are one way to expand and connect biologically important fragmented areas into more viable habitats.",
+          "location": "Executive Summary, Habitat Conversion and Protection",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Maintain connectivity across forest landscapes by reducing fragmentation and identifying important habitat corridors and key linkages between conservation areas.",
+          "location": "Chapter 7: Climate Change, Strategy 7.3",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Coordinate land acquisitions and easements to connect biologically important areas to each other, connect upland and downslope habitats, and expand and connect ecologically fragmented areas into more viable habitats.",
+          "location": "CA_FAP-S_2020.pdf, Table 1, Criterion 1",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document consistently frames connectivity in an adaptation-to-climate-change context, discussing the need to connect habitats along elevation and latitude gradients. Score is 2 because connectivity is explicitly linked to climate adaptation needs."
+    }
+  },
+  "tools": {
+    "vulnerability_models": {
+      "evaluable": true,
+      "score": 2,
+      "named_tools": ["CCVI", "NatureServe CCVI"],
+      "evidence": [
+        {
+          "text": "In a recent report from California Department of Fish and Wildlife, vegetation macrogroups were given a mean vulnerability rank based on results for two future emission levels and two climate models. Among the macrogroups most associated with rangelands in the state, ranks varied from Moderate...to Mid-High...to high",
+          "location": "Chapter 2: Sustainable Rangelands, Climate Change Impact on Rangelands figure",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document references a CDFW vulnerability ranking assessment applied to California rangeland vegetation macrogroups (focal subjects), qualifying as applied. The NatureServe CCVI is mentioned in the broader SGCN context. Score is 2 as vulnerability ranking is directly applied to California habitats."
+    },
+    "niche_models": {
+      "evaluable": true,
+      "score": 2,
+      "named_tools": ["SDM", "CWHR", "Climate Change Tree Atlas"],
+      "evidence": [
+        {
+          "text": "Future conditions were modeled under a high emission scenario (RCP8.5)...Based on our modeled scenarios, in the future a portion of current timberlands will no longer be suitable for growing the tree species that are of primary commercial value in California",
+          "location": "Chapter 1: Sustainable Working Forests, Climate Change Impact",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Climate impacts were simulated under two climate scenarios (CNRM CM5 and MIROC ESM), both assuming high carbon emissions. Impacts are estimated based on the percent of the current mapped area of a habitat type that will be climatically unsuitable by 2069.",
+          "location": "Chapter 10: Wildlife Habitat, Data Sources and Quality",
+          "sub_component": null,
+          "citations": ["Thorne, J.H., CAL FIRE Fire and Resource Assessment Program (FRAP), 2017"]
+        },
+        {
+          "text": "The results show that 15 of 31 tree species are projected to lose 75% of their current suitable range by 2099.",
+          "location": "Chapter 7: Climate Change, Impacts on Tree Species",
+          "sub_component": null,
+          "citations": ["Thorne, et al., 2017"]
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_models": {
+      "evaluable": true,
+      "score": 2,
+      "named_tools": ["CNRM CM5", "MIROC ESM", "GCM"],
+      "evidence": [
+        {
+          "text": "Future conditions were modeled under a high emission scenario (RCP8.5) that best matches the current global trajectory. Two Global Climate Models (GCMs) were used: 1) CNRM CM5: Under this warmer and wetter scenario...2) MIROC ESM: Under this hotter and drier scenario",
+          "location": "Chapter 1: Sustainable Working Forests, Climate Change Impact",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Both GCMs predict continued warming, but the amount of warming varies among GCM and Representative Concentration Pathway (RCP) emissions scenarios (RCP 4.5 and RCP 8.5). Based on the two GCMs shown in Figure 7.2, annual maximum air temperatures are predicted to increase by 3-14°F by 2099",
+          "location": "Chapter 7: Climate Change, MIROC ESM figure",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {},
+      "time_horizon_years": [2069, 2099],
+      "emission_scenarios": ["RCP8.5", "RCP4.5"]
+    },
+    "connectivity_models": {
+      "evaluable": true,
+      "score": 1,
+      "named_tools": [],
+      "evidence": [
+        {
+          "text": "A regional habitat connectivity plan provides spatial layers depicting structural connectivity, network importance, landscape permeability, and climate connectivity.",
+          "location": "Chapter 10: Wildlife Habitat, Background",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document references connectivity planning and maps but does not name or apply specific connectivity modeling software (e.g., CircuitScape, Linkage Mapper) to focal subjects. Score is 1 — referenced generally."
+    }
+  },
+  "context": {
+    "management_scale": {
+      "local": {
+        "present": false,
+        "evidence": []
+      },
+      "site": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The site-specific management actions recommended in recovery plans for species listed as threatened or endangered under the Endangered Species Act (ESA).",
+            "location": "CA_FAP-S_2020.pdf, USDA-NRCS: Healthy Forests Reserve Program",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "watershed": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Target fuel reduction in headwater areas that provide significant water supply. Support reforestation of areas subjected to severe wildfire.",
+            "location": "Chapter 9: Water Resources, Policy Issues",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "city": {
+        "present": false,
+        "evidence": []
+      },
+      "county": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Potential habitat losses are greatest under both climate scenarios in southern counties such as Kern and Tulare.",
+            "location": "Chapter 10: Wildlife Habitat, Southern Sierra Oak Woodlands figure",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "within_state_region": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "For both modeled scenarios, most of these losses are in the Southern Forest District, especially in lower elevations of the southern ranges of the Sierra Nevada.",
+            "location": "Chapter 1: Sustainable Working Forests, Climate Change Impact",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "state": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Statewide, there is a projected loss of between .6 (3%) and 1.4 million acres (8%) of timberland under the warmer/wetter and hotter/drier climate change scenarios, respectively.",
+            "location": "Chapter 1: Sustainable Working Forests, The Resource Base",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "multistate": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "This MOU was executed in December 2018 by California, Washington, and British Columbia. Oregon became a signatory in November 2019. It recognizes that the Pacific Coast's temperate forests have the capacity to sequester more carbon per acre than any other forest type around the world.",
+            "location": "CA_FAP-S_2020.pdf, Memorandum of Understanding (MOU) on Pacific Coast Temperate Forests",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "national": {
+        "present": false,
+        "evidence": []
+      },
+      "transnational": {
+        "present": false,
+        "evidence": []
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "An ecosystem-level, large-scale landscape approach to conservation is generally a more desirable conservation approach to maintain ecological integrity and biodiversity",
+            "location": "Chapter 10: Wildlife Habitat, Background",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecoregion": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The Klamath-North Interior region has a high proportion of Very High Fire Threat (64%). The Sierra-Cascades region is classified in roughly equal proportions of High (45%) and Very High (40%) Fire Threat",
+            "location": "Chapter 4: Wildfire, Fire Threat (i4.2)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "province": {
+        "present": false,
+        "evidence": []
+      },
+      "section": {
+        "present": false,
+        "evidence": []
+      },
+      "subsection": {
+        "present": false,
+        "evidence": []
+      },
+      "lake": {
+        "present": false,
+        "evidence": []
+      },
+      "river": {
+        "present": false,
+        "evidence": []
+      },
+      "district": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "most of these losses are in the Southern Forest District, especially in lower elevations of the southern ranges of the Sierra Nevada.",
+            "location": "Chapter 1: Sustainable Working Forests, Climate Change Impact",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "named_entities": ["Sierra Nevada", "South Coast", "North Coast", "Klamath-North Interior", "Southern Forest District", "Sierra-Cascades ecoregion", "Mojave Desert", "Southern California", "Central Valley", "San Luis Obispo County", "Sierra Nevada Conservancy Watershed Improvement Program"]
+    },
+    "biological_unit_score": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "With warmer temperatures, tree species in California are likely to respond by migrating both northward and to higher altitudes.",
+          "location": "Chapter 7: Climate Change, Impacts on Tree Species",
+          "sub_component": "species",
+          "citations": []
+        },
+        {
+          "text": "In addition to losses, changing climate provides opportunities for habitat types to 'migrate' into areas that were climatically unsuitable in the past.",
+          "location": "Chapter 10: Wildlife Habitat, Habitat Vulnerability to Climate Change",
+          "sub_component": "habitat",
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "biological_unit_components": {
+      "species": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "With warmer temperatures, tree species in California are likely to respond by migrating both northward and to higher altitudes. As the rate of climate change increases some tree species may not be able to adapt to changed conditions.",
+            "location": "Chapter 7: Climate Change, Impacts on Tree Species",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "population": {
+        "present": false,
+        "evidence": []
+      },
+      "habitat": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "In addition to losses, changing climate provides opportunities for habitat types to 'migrate' into areas that were climatically unsuitable in the past. Whether these opportunities are realized will depend on the adaptability of the habitat types to these new sites",
+            "location": "Chapter 10: Wildlife Habitat, Habitat Vulnerability to Climate Change",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "These former timberlands will likely transition into oak woodland, brush, or grassland, with different ecological and economic values.",
+            "location": "Chapter 1: Sustainable Working Forests, Climate Change Impact",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "community": {
+        "present": false,
+        "evidence": []
+      },
+      "genotype_phenotype": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["Douglas-fir", "coast redwood", "Jeffrey pine", "ponderosa pine", "red fir", "sugar pine", "white fir", "incense cedar", "Joshua tree (Yucca brevifolia)", "pinyon pine", "quaking aspen (Populus tremuloides)", "blue oak (Quercus douglasii)", "valley oak (Q. lobata)", "California timberlands", "oak woodlands", "Sierra Nevada mixed conifer forests", "Red Fir habitat", "Subalpine Conifer", "Coastal Scrub", "cheatgrass", "red brome"]
+    },
+    "partnerships_and_funding": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "The State and the Forest Service are committed to these actions: 1. Sustainably treat one million acres per year, with each party responsible for half of this total; 2. Develop a joint twenty-year project plan for forest and vegetation management",
+          "location": "CA_FAP-S_2020.pdf, Forest Service Partnership",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "CAL FIRE Forest Health Grant Program provided $142.6 million total in grants for FYs 2018-19 and 2019-20.",
+          "location": "CA_FAP-S_2020.pdf, Table ES-1",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "The CAL FIRE Forest Health Grant Program and Fire Prevention Grant Program have targeted $219 million dollars of CCI monies to restoring resilient forest conditions, increasing the use of prescribed fire, reducing fire risks, and supporting research needs",
+          "location": "CA_FAP-S_2020.pdf, Table ES-1, Strategy 4.1",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_threat_habitat_degradation": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "In California, climate change is leading to longer, hotter and drier summers, with more pronounced fire activity and increased tree mortality from pest outbreaks. Extreme weather events, hotter droughts and severe flooding are expected to occur more frequently with global warming.",
+          "location": "Chapter 7: Climate Change, Population Growth and Development Impacts",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Statewide, there is a projected loss of between .6 (3%) and 1.4 million acres (8%) of timberland under the warmer/wetter and hotter/drier climate change scenarios, respectively. These former timberlands will likely transition into oak woodland, brush, or grassland",
+          "location": "Chapter 1: Sustainable Working Forests, The Resource Base",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_threat_species_vital_rates": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Drought stress allowed pests to kill trees that might otherwise have survived and resulted in a bark beetle epidemic that threatened to spread statewide.",
+          "location": "CA_FAP-S_2020.pdf, Challenges, Drought and Elevated Tree Mortality",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Species' physiological limits are tested as shifting temperatures, altered hydrology, and changing seasonal cues affect survival, reproduction, and migration.",
+          "location": "Chapter 10: Wildlife Habitat, Habitat Quality and Degradation",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_threat_biotic_stressors": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "climate change is increasing drought and heat stress and driving forest systems outside the range of normal variation, in part due to an expansion of the geographic and seasonal range of some important pest species",
+          "location": "Chapter 5: Forest Pests, Summary",
+          "sub_component": null,
+          "citations": ["Allen, Macalady et al. 2010"]
+        },
+        {
+          "text": "Since the recent drought, annual grassland areas in eastern San Luis Obispo County changed in grass species composition from soft chess (Bromus hordeaceus)...to red brome (Bromus madritensis)...Red brome is already dominant in annual grassland areas further south, so this change is consistent with the type of change expected with a warming climate.",
+          "location": "Chapter 2: Sustainable Rangelands, Climate Change Impact on Rangelands figure",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    }
+  },
+  "actions": {
+    "priority_habitat_identification": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Habitat types such as Joshua Tree are projected to have severe impacts under the two hotter/dryer and warmer/wetter climate scenarios. For habitat types such as Red Fir, the future climate scenario has major implications in terms of loss.",
+          "location": "Chapter 10: Wildlife Habitat, Habitat Vulnerability to Climate Change indicator i10.4",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Projected climate change results in potential losses in significant portions of this habitat, and the impact appears to increase from north to south (Figure 10.",
+          "location": "Chapter 10: Wildlife Habitat, Southern Sierra Oak Woodlands",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Evaluation, monitoring and protection of habitat that serves as key refugia on forests and rangelands.",
+          "location": "Chapter 7: Climate Change, Strategy 7.3, Action F",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document includes spatially-specific maps (Figures 10.2, 10.3, 10.4, 10.5, Figure 7.5) showing projected habitat loss by county, vegetation type and ecoregion under climate change scenarios — this constitutes spatial representation of priority habitats for conservation. Score 2 is warranted."
+    },
+    "targeted_range_shift_actions": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Make sure genetic material from threatened southern populations of conifers is conserved for possible assisted migration.",
+          "location": "Chapter 7: Climate Change, Strategy 7.2, Action E",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Implement seed collection focused on southern populations of key tree species for likely future use in planting zones to the north.",
+          "location": "Chapter 7: Climate Change, Strategy 7.2, Action E",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "time_bound_and_monitoring": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "The State and the Forest Service are committed to these actions: 1. Sustainably treat one million acres per year, with each party responsible for half of this total; 2. Develop a joint twenty-year project plan for forest and vegetation management",
+          "location": "CA_FAP-S_2020.pdf, Forest Service Partnership",
+          "sub_component": "time-bound",
+          "citations": []
+        },
+        {
+          "text": "The Board of Forestry and Fire Protection established the Effectiveness Monitoring Committee (EMC) in 2014 to create an independent body to assess the efficacy of the Forest Practice Rules and other related laws and regulations.",
+          "location": "CA_FAP-S_2020.pdf, Progress Since Publication",
+          "sub_component": "monitoring",
+          "citations": []
+        },
+        {
+          "text": "The 2018 California Forest Carbon Plan sets State and Federal goals for conducting fuels treatments on a total of one million acres per year.",
+          "location": "CA_FAP-S_2020.pdf, Table ES-1",
+          "sub_component": "time-bound",
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "evidence_of_efficacy": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "These techniques have been demonstrated through modeling and real-world wildfires to be effective for both facilitating suppression and moderating fire severity within and outside treated areas",
+          "location": "Chapter 4: Wildfire, Fuel Treatment Area",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Reforestation of harvested areas using tree seed adapted to local conditions reduces susceptibility of planted trees and is required by the FPR.",
+          "location": "Chapter 5: Forest Pests, Active Forest Management",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "Evidence of efficacy is present but tends to be from tangentially related studies (fuel treatment fire behavior modeling, general forestry studies) rather than directly from climate-adaptive range shift actions. Score is 2 (limited evidence) rather than 3.",
+      "projects": ["King Fire ponderosa and sugar pine reforestation experiment: 12 sources of ponderosa and sugar pines are being evaluated under 'operational' conditions to determine if seed source influences growth, with source locations correlated with climatic variables. Provides evidence on climate-adaptive seed sourcing.", "Sierra Nevada Adaptive Management Program (SNAMP): Measured water quality and quantity variables before and after treatment implementation. Found that non-commercial thinning has minimal hydrologic impacts, providing evidence for forest health treatment efficacy.", "Vasco Wind Energy Center turbine replacement: Tripled energy production and achieved 70% reduction in avian mortality, providing case-study evidence for best practices in renewable energy impacts.", "Effectiveness Monitoring Committee (EMC) under Board of Forestry: Ongoing program assessing the efficacy of Forest Practice Rules at protecting forest resources, providing iterative feedback to policymakers."]
+    },
+    "adaptation_planning_frameworks": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Support Adaptation Needs for Forests by Assessing Climate Vulnerabilities, Improving Institutional Capacity, and Promoting a Priority Research Agenda.",
+          "location": "Chapter 7: Climate Change, Strategy 7.2",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Completion of the 2019 Draft Natural and Working Lands Climate Change Implementation Plan that identifies the potential roles for forestlands in climate change mitigation and adaptation.",
+          "location": "CA_FAP-S_2020.pdf, Progress Since Publication",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Refine priority landscapes by promoting regionally-based vulnerability assessments.",
+          "location": "CA_FAP-S_2020.pdf, Strategy 7.2, Action A-1",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document explicitly references climate change vulnerability assessment as a planning framework (Strategy 7.2 header and Action A-1), and builds strategies around the California Forest Carbon Plan, Safeguarding California Plan, and the Natural and Working Lands Climate Change Implementation Plan. These are specific, named climate adaptation planning frameworks. Score is 2."
+    }
+  },
+  "coding_meta": {
+    "coder": "llm:claude-sonnet-4-6",
+    "model": "claude-sonnet-4-6",
+    "provider": "claude",
+    "codebook_version": "0.4",
+    "ingest": "text",
+    "design": "single",
+    "temperature": null,
+    "thinking": null,
+    "thinking_effort": null,
+    "coded_at": "2026-07-07T00:31:30Z",
+    "notes": {}
+  }
+}

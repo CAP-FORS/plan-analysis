@@ -1,0 +1,878 @@
+{
+  "document_meta": {
+    "title": "Ohio Forest Action Plan (Forest Resource Assessment and Strategy)",
+    "year": 2020,
+    "jurisdiction": "Ohio (ODNR Division of Forestry)",
+    "document_type": "State Forest Action Plan (Assessment + Strategy)",
+    "document_id": "OH_FAP_2020",
+    "page_count": 306
+  },
+  "orientation": {
+    "summary": "The 2020 Ohio Forest Action Plan (OFAP) is a combined Forest Resource Assessment and Forest Resource Strategy produced by the Ohio Department of Natural Resources (ODNR) Division of Forestry, required under the 2008 Farm Bill. It is a comprehensive statewide forest resource document covering biological diversity, productive capacity, ecosystem health, soil and water, carbon cycles, socioeconomic benefits, and legal frameworks. The document engages substantively with climate change as a current and future threat to Ohio's forests, referencing warming trends, altered precipitation, and projected shifts in species ranges and hardiness zones. Range shifts are addressed primarily through the lens of tree species distribution modeling (Climate Change Tree Atlas, RCP scenarios applied to Ohio quadrants), with explicit discussion of assisted migration as a management option. The document performs its own geospatial analysis for priority areas and incorporates results from external vulnerability assessments and species distribution models; it references but does not independently develop climate models.",
+    "evidence_index": [
+      {
+        "text": "Climate change is an environmental pressure that will need to be considered when managing Ohio's forests for the future.",
+        "location": "Indicator 7 – Area and percent of forest land affected by biotic and abiotic processes and agents",
+        "relevant_elements": ["1.1", "3.5"]
+      },
+      {
+        "text": "An assessment evaluating the vulnerability of forest ecosystems in the Central Appalachians of Ohio, West Virginia, and Maryland was completed for a range of future climates (Butler et al., 2015) and several components of that document are summarized below. Generally, the changing climate tends to intensify the stressors that may already exist for many species and increases susceptibility to drought, pests, diseases, or competition from other species.",
+        "location": "Climate change section, Indicator 7",
+        "relevant_elements": ["1.1", "1.2", "2.1"]
+      },
+      {
+        "text": "Nine forest ecosystems were assessed in the Central Appalachians Vulnerability Assessment (Butler et al. 2015) and assessments of five of the forest ecosystem types most prevalent in Ohio are summarized below.",
+        "location": "Ecosystem responses (vulnerabilities), Indicator 7",
+        "relevant_elements": ["1.1", "2.1"]
+      },
+      {
+        "text": "The high number of invasive species outcompeting natives has already reduced the adaptive capacity of this ecosystem, and mortality of ash species from emerald ash borer is likely to essentially eliminate these species by mid-century, reducing overall native species diversity.",
+        "location": "Ecosystem responses (vulnerabilities), large stream floodplain ecosystem",
+        "relevant_elements": ["1.1", "1.2", "1.3"]
+      },
+      {
+        "text": "Species with low adaptive capacity such as those with specialized habitat needs or limited dispersal ability face higher vulnerability to these changes.",
+        "location": "Ecosystem responses (vulnerabilities), Indicator 7",
+        "relevant_elements": ["1.1", "1.2", "1.3"]
+      },
+      {
+        "text": "The dry oak and oak/pine forest and woodland ecosystem was rated low vulnerability to climate change. This ecosystem is the most resilient to heat and drought, with many of the species currently doing well, and projected to do well under future climate.",
+        "location": "Ecosystem responses (vulnerabilities), Indicator 7",
+        "relevant_elements": ["1.1", "2.1"]
+      },
+      {
+        "text": "The mixed mesophytic and cove forest ecosystem was rated moderately vulnerable to climate change. The ability of coves to collect water and nutrients from upslope areas and their protected positions may benefit species by creating refugia from temperature increases, precipitation changes, and wind.",
+        "location": "Ecosystem responses (vulnerabilities), Indicator 7",
+        "relevant_elements": ["1.1", "1.4", "4.1", "2.1"]
+      },
+      {
+        "text": "the changing climate tends to intensify the stressors that may already exist for many species and increases susceptibility to drought, pests, diseases, or competition from other species (Butler et al. 2015).",
+        "location": "Climate change section, Indicator 7",
+        "relevant_elements": ["1.1", "3.5", "3.6", "3.7"]
+      },
+      {
+        "text": "Increases in carbon dioxide can increase plant productivity, and warmer temperatures may allow some invasive plant species to expand their ranges northward, such as Asian bush honeysuckles, privet, kudzu, and cogongrass (Ziska 2003).",
+        "location": "Invasive plants, insect pests, and pathogens section, Indicator 7",
+        "relevant_elements": ["3.7", "C2"]
+      },
+      {
+        "text": "Warmer conditions have been linked to an increased number of generations for emerald ash borer and range expansion for hemlock woolly adelgid (DeSantis et al. 2013; Venette and Abrahamson 2010; Wei et al. 2007)",
+        "location": "Invasive plants, insect pests, and pathogens section, Indicator 7",
+        "relevant_elements": ["3.7", "3.6", "C2"]
+      },
+      {
+        "text": "A warming climate is allowing some invasive plant species, insect pests, and pathogens to survive farther north than they have previously.",
+        "location": "Model results / threats discussion, Indicator 7",
+        "relevant_elements": ["3.7", "C2"]
+      },
+      {
+        "text": "Shift in plant hardiness zones (Figure 64) leads to northern expansion of species from the southern U.S., including non-native invasive plants.",
+        "location": "Climate change section, some potential impacts, Indicator 7",
+        "relevant_elements": ["3.7", "C2", "1.1"]
+      },
+      {
+        "text": "The potential for intense physiological drought is also projected to increase, due to higher temperatures coupled with longer durations between storm events especially in late summer (Butler et al. 2015; Frankson et al. 2017).",
+        "location": "Climate change section, Indicator 7",
+        "relevant_elements": ["1.1", "3.5"]
+      },
+      {
+        "text": "Moisture stress is likely to occur when increases in evapotranspiration are not offset by a corresponding increase in precipitation.",
+        "location": "Drought stress and mortality, Indicator 7",
+        "relevant_elements": ["1.1", "3.5", "3.6"]
+      },
+      {
+        "text": "Also presented for each of the four 1 x 1° blocks is a list of species that could be considered for proactive, assisted migration while considering the potential future climate under RCP 8.5 (Table 15) along with the model reliability (MR) and adaptability (Adap) of the species.",
+        "location": "Climate change section / Tree species responses, Indicator 7",
+        "relevant_elements": ["4.2", "2.2", "2.3", "C2"]
+      },
+      {
+        "text": "These are species with models projecting habitat moving into the area, and with at least a small potential for the species to arrive there naturally within 100 years, according to the SHIFT model (Iverson et al. 2019c; Prasad et al. 2016).",
+        "location": "Climate change section / Tree species responses, Indicator 7",
+        "relevant_elements": ["4.2", "2.2", "C2"]
+      },
+      {
+        "text": "Models have been generated by the Landscape Change Research Group of the Northern Institute of Applied Climate Science which provide potential futures for tree species throughout the eastern U.S. Potential tree species' responses to two climate emission scenarios at the end of the century are presented below for the tree species from 1 x 1° areas representing the four corners of Ohio",
+        "location": "Tree species responses / Figure 64 caption, Indicator 7",
+        "relevant_elements": ["2.2", "2.3", "C2"]
+      },
+      {
+        "text": "the potential for the habitat suitability to increase, decrease or remain the same under lower emissions (Representative Concentration Pathway, RCP 4.5) or higher emissions (RCP 8.5)",
+        "location": "Tree species responses table description, Indicator 7",
+        "relevant_elements": ["2.3", "2.2"]
+      },
+      {
+        "text": "The Climate Change Tree Atlas modeled potential changes in suitable habitat for 66 (northwest Ohio) to 81 (southeast Ohio) species.",
+        "location": "Tree species responses / Figure 64 caption, Indicator 7",
+        "relevant_elements": ["2.2", "C2"]
+      },
+      {
+        "text": "Resilient and Connected Landscapes: Areas identified to be resilient to a changing climate and that may function as connected corridors for movement of plants and animals under a changing climate (The Nature Conservancy)",
+        "location": "Table 30, Geospatial Analysis / Section 5 – Priority Forest Areas",
+        "relevant_elements": ["1.4", "4.1", "2.4"]
+      },
+      {
+        "text": "In the mountains, species may be able to migrate upwards more easily than northwards to escape warming temperatures.",
+        "location": "Ecosystem responses (vulnerabilities), mixed mesophytic ecosystem, Indicator 7",
+        "relevant_elements": ["C2", "1.3"]
+      },
+      {
+        "text": "The Central Appalachian Climate Response Framework provides an integrated set of tools, partnerships, and actions to support climate-informed conservation and management. These include a vulnerability assessment, forest adaptation resources, and adaptation demonstration areas and workshops.",
+        "location": "State Priority Issues – Climate Change / Central Appalachian Climate Response Framework",
+        "relevant_elements": ["4.5", "1.1", "2.1"]
+      },
+      {
+        "text": "In October, 2015, staff from the Ohio Division of Forestry worked with the Northern Institute of Applied Climate Sciences (NIACS) and the Wayne National Forest to consider broad climate trends summarized in the Central Appalachians Forest Ecosystem Vulnerability Assessment",
+        "location": "Strategy Implementation Highlights / Objective 5.4",
+        "relevant_elements": ["4.5", "2.1", "1.1"]
+      },
+      {
+        "text": "Assessment, and identify specific climate change impacts that are relevant to the site conditions within the 243-acre Hobey Hollow project area of Shawnee State Forest. Some of these impacts included warmer temperatures throughout the year, increased variability in precipitation and soil moisture, more frequent extreme weather events, changes in tree species abundance (potentially favoring oak and hickory species and becoming less suitable for maples), increases in invasive species, and increased wildfire severity.",
+        "location": "Strategy Implementation Highlights / Objective 5.4",
+        "relevant_elements": ["4.5", "1.1", "3.5", "3.7"]
+      },
+      {
+        "text": "Several potential actions to adapt to these changing conditions were identified, including restoring and maintaining fire in fire-adapted ecosystems, maintain or restore hydrology, promote forest age class diversity, establish or encourage new mixes of native species expected to perform well in future climate projections, maintain or improve forest health through appropriate silvicultural methods, and prevent introduction and establishment of invasive species through early detection and rapid response.",
+        "location": "Strategy Implementation Highlights / Objective 5.4",
+        "relevant_elements": ["4.5", "4.2", "4.1"]
+      },
+      {
+        "text": "Strategies to address climate change impacts to forest ecosystems may include reducing the impact of biotic (i.e., insects and diseases) and abiotic (i.e., wildfire) stressors, maintaining or creating refugia and unique sites, maintaining biological diversity, promoting landscape connectivity, facilitating and promoting species",
+        "location": "State Issue 5 table / approach section",
+        "relevant_elements": ["4.2", "1.4", "4.1", "4.5"]
+      },
+      {
+        "text": "5.2.1 Consider climate change impacts in ODNR Division of Forestry programs 5.2.2 Evaluate potential climate change impacts to Ohio's forests and plan and implement strategies to minimize those impacts 5.2.3 Position Ohio's urban forestry managers to manage and adapt to the impacts of climate change",
+        "location": "State Issue 5: Threats to Forest Health / Objectives and Strategies",
+        "relevant_elements": ["4.5", "4.3"]
+      },
+      {
+        "text": "5.2 Increase the resiliency of Ohio's forests to a changing climate",
+        "location": "State Issue 5 strategy table",
+        "relevant_elements": ["4.5", "1.1"]
+      },
+      {
+        "text": "Current and future climate change is likely to have various impacts on Ohio's forests, including shifts in plant hardiness zones and species ranges, changes in seasonality and amount of precipitation, and increased forest productivity which may be offset by increased stressors (i.e., summer droughts, expansion of invasive plants, pests, and diseases, increased wildfire, and decreased air quality).",
+        "location": "Summary, Criterion 3",
+        "relevant_elements": ["1.1", "3.7", "C2"]
+      },
+      {
+        "text": "The distribution of southern pine beetle appears to be expanding northward in recent years, making it a forest health threat of concern for Ohio.",
+        "location": "Southern pine beetle section, Indicator 7",
+        "relevant_elements": ["3.7", "C2"]
+      },
+      {
+        "text": "The ODNR Division of Wildlife's approach for sustaining Ohio's forest wildlife species, as outlined in the SWAP, is to use two conservation opportunity areas-the Appalachian Foothills and Tecumseh Forest Conservation Opportunity Areas (Figure 34).",
+        "location": "Status of forest-associated and all species of concern, Criterion 1 Indicator 4",
+        "relevant_elements": ["4.1", "3.4"]
+      },
+      {
+        "text": "In 2015, a special forestry EQIP program was established that emphasizes oak management in a 17-county area in southeastern Ohio.",
+        "location": "USDA Natural Resources Conservation Service & Farm Service Agency section",
+        "relevant_elements": ["3.4", "4.1"]
+      },
+      {
+        "text": "Ohio's approach to identifying priority forest areas relies heavily on geospatial analyses. Separate geospatial analyses were used for both the rural land category and wildland-urban interface (WUI) lands.",
+        "location": "Section 5 – Priority Forest Areas and Issues",
+        "relevant_elements": ["4.1", "3.1"]
+      },
+      {
+        "text": "Forest connectivity is highest in southeastern Ohio, and lowest in northwestern Ohio (Albright et al. 2018)",
+        "location": "Indicator 3 – Extent of forest land conversion, fragmentation, and parcelization",
+        "relevant_elements": ["1.4"]
+      },
+      {
+        "text": "promoting landscape connectivity, facilitating and promoting species",
+        "location": "State Issue 5 table / approach section",
+        "relevant_elements": ["1.4", "4.2"]
+      },
+      {
+        "text": "6.2.2 Promote retention and establishment of green and wildlife corridors",
+        "location": "State Issue 6 / Objectives and Strategies",
+        "relevant_elements": ["1.4", "4.2"]
+      },
+      {
+        "text": "Spatial integrity index (SII) was developed by the USDA Forest Service and integrates three important facets of forest fragmentation that can affect forest ecosystem functions-patch size, local forest density, and patch connectivity to core forest areas-into one metric.",
+        "location": "Appendix C – Geospatial Analysis: Rural Lands Methodology",
+        "relevant_elements": ["1.4", "4.1"]
+      },
+      {
+        "text": "Oaks are generally warm-adapted species (Nowacki and Abrams 2015), which may be a key reason for their increase in abundance after the recession of the Wisconsinan Ice Sheet, during the early Holocene warming",
+        "location": "Indicator 2 – Forest type, structure, and successional stage",
+        "relevant_elements": ["1.3"]
+      },
+      {
+        "text": "Many tree species that are currently present may fare worse with warmer temperatures and altered precipitation patterns. Other species may do better under these conditions, and some species not currently present may have the potential to do well if conditions allow them to disperse to newly suitable areas.",
+        "location": "State Priority Issues – Climate Change / Ohio River Basin section",
+        "relevant_elements": ["1.3", "C2", "1.1"]
+      },
+      {
+        "text": "the adaptability of the species to the expected climatic changes (Adap, scored as low, medium, or high); the capability of the species to cope with the expected climatic changes",
+        "location": "Tree species responses table description, Indicator 7",
+        "relevant_elements": ["1.2", "1.3"]
+      },
+      {
+        "text": "High stand density may compound susceptibility to moisture stress because high-density stands face increased competition for available moisture (Keyser and Brown 2014; Olano and Palmer 2003). Additionally, drought-stressed trees are typically more vulnerable to insect pests and diseases (Dukes et al. 2009).",
+        "location": "Drought stress and mortality, Indicator 7",
+        "relevant_elements": ["1.1", "3.6"]
+      },
+      {
+        "text": "A study by Tang et al. (2015) suggests a future increase in the number of days with a high Haines Index...When climate data from the Coupled General Circulation Model 3.1T47 (CGCM) was applied to the PC2FM, fire probability was estimated to increase by 40 to 60 percent across southern Ohio",
+        "location": "Wildfire section, Indicator 7",
+        "relevant_elements": ["2.3", "3.5"]
+      },
+      {
+        "text": "This Forest Resource Assessment has a life expectancy of 10 years, and it will be updated at the end of that period, in conjunction with the accompanying Forest Resource Strategy document.",
+        "location": "Indicator 18 – Forest-related planning, assessment, policy, and law",
+        "relevant_elements": ["4.3"]
+      },
+      {
+        "text": "The strategy section... This Strategy introduces objectives and strategies that will help guide forestry programs in the state over the next 10 years to address these issues effectively and efficiently.",
+        "location": "Introduction, Strategy document",
+        "relevant_elements": ["4.3"]
+      },
+      {
+        "text": "Column 3: the expected timeframe for strategy completion",
+        "location": "Ohio's Statewide Forest Issues / Introduction, Strategy document",
+        "relevant_elements": ["4.3"]
+      },
+      {
+        "text": "The Northern Research Station of the USDA Forest Service has a research laboratory in Delaware, Ohio... NRS-2 'Sustaining Forests in a Changing Environment,' NRS-5 'Forest Inventory and Analysis,' NRS-6 'Climate, Fire, and Carbon Cycle Sciences'",
+        "location": "Indicator 14 – Investments in forest health, management, research, and wood processing",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "The Ohio Interagency Forestry Team was formed in 2008 to effectively address key forest issues in Ohio. Founding members were the ODNR Division of Forestry, Wayne National Forest, and Ohio office of the USDA Natural Resources Conservation Service.",
+        "location": "Ohio Interagency Forestry Team section, Indicator 18",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "In 2019, a Great Lakes Restoration Initiative grant was awarded to The Nature Conservancy and partner agencies and organizations for eastern hemlock pest survey and treatment in the Lake Erie watershed of northeastern Ohio.",
+        "location": "Hemlock woolly adelgid and elongate hemlock scale section, Indicator 7",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "Extreme weather events are becoming more frequent and intense, resulting in direct and indirect impacts to Ohio's urban forest resources from storm damage, drought, flooding, and increasing pressures from pests and diseases. Addressing climate change and its associated threats and pressures is a priority urban forest issue in Ohio.",
+        "location": "Urban Forest Threats and Pressures, Section 5 – Priority Forest Areas",
+        "relevant_elements": ["3.5", "3.6", "1.1"]
+      },
+      {
+        "text": "wildfire risk assessment map for Ohio can help guide fire management programs, like the development of community wildfire protection plans",
+        "location": "State Issue 5 table / approach section",
+        "relevant_elements": ["4.1"]
+      },
+      {
+        "text": "Large stream floodplain and riparian forest ecosystem was rated high vulnerability to climate change. Climate change is expected to alter the water regimes in riparian systems, and may amplify the effects of drought, insect pests, invasive species, and pollution.",
+        "location": "Ecosystem responses (vulnerabilities), Indicator 7",
+        "relevant_elements": ["1.1", "3.5", "3.6"]
+      },
+      {
+        "text": "Susceptibility of trees to sudden oak death (caused by the water mold Phytophthora ramorum) is linked to periods of drought stress.",
+        "location": "Invasive plants, insect pests, and pathogens section, Indicator 7",
+        "relevant_elements": ["3.6", "3.7"]
+      }
+    ]
+  },
+  "concepts": {
+    "climate_vulnerability": {
+      "evaluable": true,
+      "score": 3,
+      "evidence": [
+        {
+          "text": "Nine forest ecosystems were assessed in the Central Appalachians Vulnerability Assessment (Butler et al. 2015) and assessments of five of the forest ecosystem types most prevalent in Ohio are summarized below.",
+          "location": "Ecosystem responses (vulnerabilities), Indicator 7",
+          "sub_component": "exposure",
+          "citations": ["Butler et al. 2015"]
+        },
+        {
+          "text": "The high number of invasive species outcompeting natives has already reduced the adaptive capacity of this ecosystem, and mortality of ash species from emerald ash borer is likely to essentially eliminate these species by mid-century, reducing overall native species diversity.",
+          "location": "Ecosystem responses (vulnerabilities), large stream floodplain ecosystem, Indicator 7",
+          "sub_component": "adaptive capacity",
+          "citations": []
+        },
+        {
+          "text": "the changing climate tends to intensify the stressors that may already exist for many species and increases susceptibility to drought, pests, diseases, or competition from other species (Butler et al. 2015).",
+          "location": "Climate change section, Indicator 7",
+          "sub_component": "exposure",
+          "citations": ["Butler et al. 2015"]
+        }
+      ],
+      "absence_note": {}
+    },
+    "adaptive_capacity_specificity": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "the adaptability of the species to the expected climatic changes (Adap, scored as low, medium, or high); the capability of the species to cope with the expected climatic changes",
+          "location": "Tree species responses table description, Indicator 7",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "The high number of invasive species outcompeting natives has already reduced the adaptive capacity of this ecosystem, and mortality of ash species from emerald ash borer is likely to essentially eliminate these species by mid-century, reducing overall native species diversity.",
+          "location": "Ecosystem responses (vulnerabilities), large stream floodplain ecosystem, Indicator 7",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "adaptive_capacity_components": {
+      "demography": {
+        "present": false,
+        "evidence": []
+      },
+      "distribution": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Many tree species that are currently present may fare worse with warmer temperatures and altered precipitation patterns. Other species may do better under these conditions, and some species not currently present may have the potential to do well if conditions allow them to disperse to newly suitable areas.",
+            "location": "State Priority Issues – Climate Change / Ohio River Basin section",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "movement": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "These are species with models projecting habitat moving into the area, and with at least a small potential for the species to arrive there naturally within 100 years, according to the SHIFT model (Iverson et al. 2019c; Prasad et al. 2016).",
+            "location": "Climate change section / Tree species responses, Indicator 7",
+            "sub_component": null,
+            "citations": ["Iverson et al. 2019c", "Prasad et al. 2016"]
+          }
+        ]
+      },
+      "evolutionary_potential": {
+        "present": false,
+        "evidence": []
+      },
+      "ecological_dependencies": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The high number of invasive species outcompeting natives has already reduced the adaptive capacity of this ecosystem, and mortality of ash species from emerald ash borer is likely to essentially eliminate these species by mid-century, reducing overall native species diversity.",
+            "location": "Ecosystem responses (vulnerabilities), large stream floodplain ecosystem, Indicator 7",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "abiotic_niche": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The dry oak and oak/pine forest and woodland ecosystem was rated low vulnerability to climate change. This ecosystem is the most resilient to heat and drought, with many of the species currently doing well, and projected to do well under future climate.",
+            "location": "Ecosystem responses (vulnerabilities), Indicator 7",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "life_history": {
+        "present": false,
+        "evidence": []
+      }
+    },
+    "connectivity": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Resilient and Connected Landscapes: Areas identified to be resilient to a changing climate and that may function as connected corridors for movement of plants and animals under a changing climate (The Nature Conservancy)",
+          "location": "Table 30, Geospatial Analysis / Section 5 – Priority Forest Areas",
+          "sub_component": null,
+          "citations": ["The Nature Conservancy"]
+        },
+        {
+          "text": "promoting landscape connectivity, facilitating and promoting species",
+          "location": "State Issue 5 table / approach section",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    }
+  },
+  "tools": {
+    "vulnerability_models": {
+      "evaluable": true,
+      "score": 2,
+      "named_tools": ["Central Appalachians Vulnerability Assessment"],
+      "evidence": [
+        {
+          "text": "An assessment evaluating the vulnerability of forest ecosystems in the Central Appalachians of Ohio, West Virginia, and Maryland was completed for a range of future climates (Butler et al., 2015) and several components of that document are summarized below.",
+          "location": "Climate change section, Indicator 7",
+          "sub_component": null,
+          "citations": ["Butler et al. 2015"]
+        },
+        {
+          "text": "Nine forest ecosystems were assessed in the Central Appalachians Vulnerability Assessment (Butler et al. 2015) and assessments of five of the forest ecosystem types most prevalent in Ohio are summarized below.",
+          "location": "Ecosystem responses (vulnerabilities), Indicator 7",
+          "sub_component": null,
+          "citations": ["Butler et al. 2015"]
+        }
+      ],
+      "absence_note": {}
+    },
+    "niche_models": {
+      "evaluable": true,
+      "score": 2,
+      "named_tools": ["Climate Change Tree Atlas", "SHIFT model"],
+      "evidence": [
+        {
+          "text": "The Climate Change Tree Atlas modeled potential changes in suitable habitat for 66 (northwest Ohio) to 81 (southeast Ohio) species.",
+          "location": "Tree species responses / Figure 64 caption, Indicator 7",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Also presented for each of the four 1 x 1° blocks is a list of species that could be considered for proactive, assisted migration while considering the potential future climate under RCP 8.5 (Table 15) along with the model reliability (MR) and adaptability (Adap) of the species.",
+          "location": "Climate change section / Tree species responses, Indicator 7",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "These are species with models projecting habitat moving into the area, and with at least a small potential for the species to arrive there naturally within 100 years, according to the SHIFT model (Iverson et al. 2019c; Prasad et al. 2016).",
+          "location": "Climate change section / Tree species responses, Indicator 7",
+          "sub_component": null,
+          "citations": ["Iverson et al. 2019c", "Prasad et al. 2016"]
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_models": {
+      "evaluable": true,
+      "score": 2,
+      "named_tools": ["Coupled General Circulation Model 3.1T47 (CGCM)", "PC2FM (Physical Chemistry Fire Frequency Model)"],
+      "evidence": [
+        {
+          "text": "the potential for the habitat suitability to increase, decrease or remain the same under lower emissions (Representative Concentration Pathway, RCP 4.5) or higher emissions (RCP 8.5)",
+          "location": "Tree species responses table description, Indicator 7",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "When climate data from the Coupled General Circulation Model 3.1T47 (CGCM) was applied to the PC2FM, fire probability was estimated to increase by 40 to 60 percent across southern Ohio and by 60 to 80 percent in northern Ohio (Guyette et al. 2014; Figure 63).",
+          "location": "Wildfire section, Indicator 7",
+          "sub_component": null,
+          "citations": ["Guyette et al. 2014"]
+        }
+      ],
+      "absence_note": {},
+      "time_horizon_years": [2099],
+      "emission_scenarios": ["RCP 4.5", "RCP 8.5"]
+    },
+    "connectivity_models": {
+      "evaluable": true,
+      "score": 2,
+      "named_tools": ["Resilient and Connected Landscapes (The Nature Conservancy)"],
+      "evidence": [
+        {
+          "text": "Resilient and Connected Landscapes: Areas identified to be resilient to a changing climate and that may function as connected corridors for movement of plants and animals under a changing climate (The Nature Conservancy)",
+          "location": "Table 30, Geospatial Analysis / Section 5 – Priority Forest Areas",
+          "sub_component": null,
+          "citations": ["The Nature Conservancy"]
+        }
+      ],
+      "absence_note": "The Nature Conservancy 'Resilient and Connected Landscapes' data layer was directly applied in the weighted overlay geospatial analysis to identify priority forest areas, qualifying as application to the document's focal subject."
+    }
+  },
+  "context": {
+    "management_scale": {
+      "local": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The ODNR Division of Forestry's Urban Forestry Assistance Program maintains records of local urban forestry program development and state technical assistance",
+            "location": "Urban and community forestry, Criterion 1 Indicator 1",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "site": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "identify specific climate change impacts that are relevant to the site conditions within the 243-acre Hobey Hollow project area of Shawnee State Forest.",
+            "location": "Strategy Implementation Highlights / Objective 5.4",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "watershed": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Priority watersheds: Union of Ohio EPA's 401 water quality certification 'ineligible' and 'possibly eligible' areas with areas identified by the USDA Forest Service 'Forests 2 Faucets 2.0' data that have ≥80 (on a 0-100 scale, 0 being lowest risk) relative risk to water yield, by 12 digit HUC watersheds",
+            "location": "Table 30, Geospatial Analysis",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "city": {
+        "present": false,
+        "evidence": []
+      },
+      "county": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "From 2006 to 2016, the percent forest cover of most counties remained relatively stable at less than a 1% change, while several counties experienced greater change, with Lawrence County having the greatest gain in forest cover (2.6%) and Franklin having the greatest loss of forest cover (3.7%)",
+            "location": "Total land area and area and percent of forest and other land cover, Criterion 1 Indicator 1",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "within_state_region": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The 17-county southeastern Ohio collaborative focus area (Figure 104) contains Ohio's only national forest (the Wayne National Forest), 17 out of 21 state forests and 46% of the total forest resource in Ohio.",
+            "location": "Southeastern Ohio Collaborative Focus Area",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "state": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Ohio's approach to identifying priority forest areas relies heavily on geospatial analyses. Separate geospatial analyses were used for both the rural land category and wildland-urban interface (WUI) lands.",
+            "location": "Section 5 – Priority Forest Areas and Issues",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "multistate": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "An assessment evaluating the vulnerability of forest ecosystems in the Central Appalachians of Ohio, West Virginia, and Maryland was completed for a range of future climates (Butler et al., 2015)",
+            "location": "Climate change section, Indicator 7",
+            "sub_component": null,
+            "citations": ["Butler et al. 2015"]
+          }
+        ]
+      },
+      "national": {
+        "present": false,
+        "evidence": []
+      },
+      "transnational": {
+        "present": false,
+        "evidence": []
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Nine forest ecosystems were assessed in the Central Appalachians Vulnerability Assessment (Butler et al. 2015) and assessments of five of the forest ecosystem types most prevalent in Ohio are summarized below.",
+            "location": "Ecosystem responses (vulnerabilities), Indicator 7",
+            "sub_component": null,
+            "citations": ["Butler et al. 2015"]
+          }
+        ]
+      },
+      "ecoregion": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "By ecological sections (Cleland et al. 2007; Figure 3), the Southern Unglaciated Allegheny Plateau in southeast Ohio is the most heavily forested",
+            "location": "Total land area and area and percent of forest, Criterion 1 Indicator 1",
+            "sub_component": null,
+            "citations": ["Cleland et al. 2007"]
+          }
+        ]
+      },
+      "province": {
+        "present": false,
+        "evidence": []
+      },
+      "section": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "By ecological sections (Cleland et al. 2007; Figure 3), the Southern Unglaciated Allegheny Plateau in southeast Ohio is the most heavily forested, followed by the Western Glaciated Allegheny Plateau in northeast Ohio.",
+            "location": "Total land area and area and percent of forest, Criterion 1 Indicator 1",
+            "sub_component": null,
+            "citations": ["Cleland et al. 2007"]
+          }
+        ]
+      },
+      "subsection": {
+        "present": false,
+        "evidence": []
+      },
+      "lake": {
+        "present": false,
+        "evidence": []
+      },
+      "river": {
+        "present": false,
+        "evidence": []
+      },
+      "district": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["Ohio", "Southeastern Ohio (17-county collaborative focus area)", "Central Appalachians", "Southern Unglaciated Allegheny Plateau", "Western Glaciated Allegheny Plateau", "Wayne National Forest", "Shawnee State Forest", "Hobey Hollow project area", "Grand River Lowlands FLA", "Unglaciated Appalachian Plateau FLA", "Great Lakes watershed", "Ohio River Basin"]
+    },
+    "biological_unit_score": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Nine forest ecosystems were assessed in the Central Appalachians Vulnerability Assessment (Butler et al. 2015) and assessments of five of the forest ecosystem types most prevalent in Ohio are summarized below.",
+          "location": "Ecosystem responses (vulnerabilities), Indicator 7",
+          "sub_component": null,
+          "citations": ["Butler et al. 2015"]
+        },
+        {
+          "text": "Current and future climate change is likely to have various impacts on Ohio's forests, including shifts in plant hardiness zones and species ranges, changes in seasonality and amount of precipitation",
+          "location": "Summary, Criterion 3",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "biological_unit_components": {
+      "species": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Current and future climate change is likely to have various impacts on Ohio's forests, including shifts in plant hardiness zones and species ranges",
+            "location": "Summary, Criterion 3",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "population": {
+        "present": false,
+        "evidence": []
+      },
+      "habitat": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "the potential for the habitat suitability to increase, decrease or remain the same under lower emissions (Representative Concentration Pathway, RCP 4.5) or higher emissions (RCP 8.5)",
+            "location": "Tree species responses table description, Indicator 7",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Nine forest ecosystems were assessed in the Central Appalachians Vulnerability Assessment (Butler et al. 2015) and assessments of five of the forest ecosystem types most prevalent in Ohio are summarized below.",
+            "location": "Ecosystem responses (vulnerabilities), Indicator 7",
+            "sub_component": null,
+            "citations": ["Butler et al. 2015"]
+          }
+        ]
+      },
+      "community": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Many invasive plant and animal species that currently threaten Ohio forests are expected to benefit directly from projected climate change or simply outcompete slower responding native species.",
+            "location": "Invasive plants, insect pests, and pathogens section, Indicator 7",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "genotype_phenotype": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["Eastern hemlock (Tsuga canadensis)", "Oaks (Quercus spp.)", "Sugar maple", "American beech", "Emerald ash borer", "Hemlock woolly adelgid", "Asian bush honeysuckle", "Southern pine beetle", "Dry oak and oak/pine forest and woodland ecosystem", "Large stream floodplain and riparian forest ecosystem", "Mixed mesophytic and cove forest ecosystem", "North-central interior beech/maple forest ecosystem"]
+    },
+    "partnerships_and_funding": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "5.2.1: Consider climate change impacts in ODNR Division of Forestry programs ... Partners: USFS-NRS, NIACS, FWS, NWF, TNC, USFS-Wayne, USFS-SPF, Coop-Ext",
+          "location": "State Issue 5 strategy implementation table",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "In October, 2015, staff from the Ohio Division of Forestry worked with the Northern Institute of Applied Climate Sciences (NIACS) and the Wayne National Forest to consider broad climate trends summarized in the Central Appalachians Forest Ecosystem Vulnerability Assessment",
+          "location": "Strategy Implementation Highlights / Objective 5.4",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "Partnerships for climate-related range shift work are listed as future/aspirational partners in strategy matrices (e.g., NIACS, TNC), with only one completed collaborative event described. Funding for climate adaptation actions is not specifically budgeted. Score 1 (some partnerships described but limited/aspirational for range-shift specific work)."
+    },
+    "climate_threat_habitat_degradation": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "The large stream floodplain and riparian forest ecosystem was rated high vulnerability to climate change. Climate change is expected to alter the water regimes in riparian systems, and may amplify the effects of drought, insect pests, invasive species, and pollution.",
+          "location": "Ecosystem responses (vulnerabilities), Indicator 7",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Extreme weather events are becoming more frequent and intense, resulting in direct and indirect impacts to Ohio's urban forest resources from storm damage, drought, flooding, and increasing pressures from pests and diseases. Addressing climate change and its associated threats and pressures is a priority urban forest issue in Ohio.",
+          "location": "Urban Forest Threats and Pressures, Section 5",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_threat_species_vital_rates": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Warmer conditions have been linked to an increased number of generations for emerald ash borer and range expansion for hemlock woolly adelgid (DeSantis et al. 2013; Venette and Abrahamson 2010; Wei et al. 2007), and outbreaks of native pest species (i.e., forest tent caterpillar and spruce budworm), are observed more often when trees are stressed by factors such as drought",
+          "location": "Invasive plants, insect pests, and pathogens section, Indicator 7",
+          "sub_component": null,
+          "citations": ["DeSantis et al. 2013", "Venette and Abrahamson 2010", "Wei et al. 2007"]
+        }
+      ],
+      "absence_note": "The link here is climate (warming) → increased pest pressure/generations → tree mortality, which is a direct climate-driven vital rate impact via pest outbreaks. The drought stress discussion also links climate → moisture stress → increased vulnerability. This qualifies under 3.6 as climate events driving increased mortality."
+    },
+    "climate_threat_biotic_stressors": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Increases in carbon dioxide can increase plant productivity, and warmer temperatures may allow some invasive plant species to expand their ranges northward, such as Asian bush honeysuckles, privet, kudzu, and cogongrass (Ziska 2003).",
+          "location": "Invasive plants, insect pests, and pathogens section, Indicator 7",
+          "sub_component": null,
+          "citations": ["Ziska 2003"]
+        }
+      ],
+      "absence_note": {}
+    }
+  },
+  "actions": {
+    "priority_habitat_identification": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Ohio's approach to identifying priority forest areas relies heavily on geospatial analyses. Separate geospatial analyses were used for both the rural land category and wildland-urban interface (WUI) lands.",
+          "location": "Section 5 – Priority Forest Areas and Issues",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Resilient and Connected Landscapes: Areas identified to be resilient to a changing climate and that may function as connected corridors for movement of plants and animals under a changing climate (The Nature Conservancy)",
+          "location": "Table 30, Geospatial Analysis / Section 5 – Priority Forest Areas",
+          "sub_component": null,
+          "citations": ["The Nature Conservancy"]
+        },
+        {
+          "text": "The mixed mesophytic and cove forest ecosystem was rated moderately vulnerable to climate change. The ability of coves to collect water and nutrients from upslope areas and their protected positions may benefit species by creating refugia from temperature increases, precipitation changes, and wind.",
+          "location": "Ecosystem responses (vulnerabilities), Indicator 7",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "targeted_range_shift_actions": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Also presented for each of the four 1 x 1° blocks is a list of species that could be considered for proactive, assisted migration while considering the potential future climate under RCP 8.5 (Table 15) along with the model reliability (MR) and adaptability (Adap) of the species.",
+          "location": "Climate change section / Tree species responses, Indicator 7",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "time_bound_and_monitoring": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Column 3: the expected timeframe for strategy completion ... Short=1-5 yrs, Long=5+ yrs",
+          "location": "Ohio's Statewide Forest Issues / Introduction, Strategy document",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "5.2.1: Consider climate change impacts in ODNR Division of Forestry programs ... Timeframe: Short",
+          "location": "State Issue 5 strategy implementation table",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The strategy matrices include timeframes (short/long) for each strategy, including climate-related strategies 5.2.1–5.2.3. However, effectiveness monitoring is not specified at the action level for climate/range-shift actions specifically. The document endorses adaptive management at a high level but does not operationalize monitoring tied to climate-specific actions. Score 1 (deadlines present at strategy level, but no paired effectiveness monitoring for climate actions)."
+    },
+    "evidence_of_efficacy": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "In October, 2015, staff from the Ohio Division of Forestry worked with the Northern Institute of Applied Climate Sciences (NIACS) and the Wayne National Forest to consider broad climate trends summarized in the Central Appalachians Forest Ecosystem Vulnerability Assessment, and identify specific climate change impacts that are relevant to the site conditions within the 243-acre Hobey Hollow project area of Shawnee State Forest.",
+          "location": "Strategy Implementation Highlights / Objective 5.4",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Models have been generated by the Landscape Change Research Group of the Northern Institute of Applied Climate Science which provide potential futures for tree species throughout the eastern U.S.",
+          "location": "Tree species responses / Figure 64 caption, Indicator 7",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "Evidence is limited (score 2 rather than 3): the studies cited are regional/cross-taxa rather than Ohio-specific field experiments testing the efficacy of specific adaptation actions. The assisted migration recommendation is based on model projections rather than field trials.",
+      "projects": ["Central Appalachians Forest Ecosystem Vulnerability Assessment (Butler et al. 2015): Applied to Ohio, West Virginia, and Maryland forest ecosystems. Assessed vulnerability of nine forest ecosystem types, providing ratings (low/moderate/high) that directly inform management planning. Results are incorporated into Ohio's strategy for identifying resilient vs. vulnerable forest types.", "Climate Change Tree Atlas (Iverson et al. 2019c / Prasad et al. 2014): Applied to four 1x1° blocks covering Ohio. Modeled future habitat suitability for 66–81 tree species under RCP 4.5 and RCP 8.5, providing evidence of which species are likely to gain or lose habitat and which are candidates for assisted migration. Results directly inform tree species management recommendations.", "Hobey Hollow Climate Adaptation Planning (2015, Shawnee State Forest): ODNR worked with NIACS to assess site-specific climate impacts and identify adaptation actions for a 243-acre demonstration area, providing a proof-of-concept for integrating vulnerability assessment into local forest management."]
+    },
+    "adaptation_planning_frameworks": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "The Central Appalachian Climate Response Framework provides an integrated set of tools, partnerships, and actions to support climate-informed conservation and management. These include a vulnerability assessment, forest adaptation resources, and adaptation demonstration areas and workshops.",
+          "location": "State Priority Issues – Climate Change / Central Appalachian Climate Response Framework",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "In October, 2015, staff from the Ohio Division of Forestry worked with the Northern Institute of Applied Climate Sciences (NIACS) and the Wayne National Forest to consider broad climate trends summarized in the Central Appalachians Forest Ecosystem Vulnerability Assessment",
+          "location": "Strategy Implementation Highlights / Objective 5.4",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    }
+  },
+  "coding_meta": {
+    "coder": "llm:claude-sonnet-4-6",
+    "model": "claude-sonnet-4-6",
+    "provider": "claude",
+    "codebook_version": "0.4",
+    "ingest": "text",
+    "design": "single",
+    "temperature": null,
+    "thinking": null,
+    "thinking_effort": null,
+    "coded_at": "2026-07-07T00:31:32Z",
+    "notes": {}
+  }
+}

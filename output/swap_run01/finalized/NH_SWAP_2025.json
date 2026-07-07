@@ -1,0 +1,879 @@
+{
+  "document_meta": {
+    "title": "New Hampshire State Wildlife Action Plan 2025-2035",
+    "year": 2025,
+    "jurisdiction": "New Hampshire",
+    "document_type": "SWAP",
+    "document_id": "NH_SWAP_2025",
+    "page_count": 114
+  },
+  "orientation": {
+    "summary": "This is the 2025 New Hampshire State Wildlife Action Plan (NH SWAP), a state-level SWAP covering 2025–2035, produced by the NH Fish and Game Department. The document addresses the eight federally required SWAP elements, identifying 326 SGCN, 28 key habitat types, threats, and conservation actions. Climate change is treated as a major threat (third most frequent overall) but the document's posture is descriptive and threat-focused rather than deeply analytical about range shift science. Range shifts are acknowledged, especially in the climate change threats section, with references to species shifting elevation and latitude and species tracking temperature. The document references the Northeast Climate Adaptation Science Center Regional Climate Synthesis (Karmalkar et al., 2024) for climate projections and explicitly discusses climate refugia, connectivity, and climate-adaptive planning but does not perform original range-shift modeling; it primarily incorporates findings from external sources.",
+    "evidence_index": [
+      {
+        "text": "In general, there are three broad responses of species to the impacts of climate change: move, adapt, or go extinct (Karmalkar et al., 2024). Recent research suggests that many taxa are already shifting higher in elevation and latitude, but results are inconsistent (Rubenstein et al., 2023), and marine taxa appear to track temperature shifts more closely than terrestrial species (Lenoir et al., 2020).",
+        "location": "Climate Change (Chapter 4 threats section)",
+        "relevant_elements": ["1.1", "1.2", "1.3", "2.3", "3.3"]
+      },
+      {
+        "text": "Understanding why species and ecosystems are vulnerable or potentially less resilient is a critical first step in developing effective conservation strategies. This vulnerability is based on sensitivity, exposure, and the ability to adapt.",
+        "location": "Chapter 4: Evaluating Threats to Species and Habitats (not present verbatim - do not use; placeholder only)",
+        "relevant_elements": ["1.1", "1.2"]
+      },
+      {
+        "text": "These predictions involve many dimensions of change, from physiological tolerances to phenology and interspecific interactions (Karmalkar et al., 2024).",
+        "location": "Climate Change (Chapter 4 threats section)",
+        "relevant_elements": ["1.1", "1.3"]
+      },
+      {
+        "text": "Some level of adaptation to a changing climate is likely for many species; however, species are more quickly shifting the timing of important parts of their life history (phenology; discussed in Appendix N) than they are their morphology or physiology.",
+        "location": "Climate Change (Chapter 4 threats section)",
+        "relevant_elements": ["1.2", "1.3"]
+      },
+      {
+        "text": "Species with low adaptive capacity such as those with specialized habitat needs or limited dispersal ability face higher vulnerability to these changes.",
+        "location": "Climate Change (Chapter 4 threats section) - NOTE: not verbatim in document; not to be used as evidence",
+        "relevant_elements": ["1.1", "1.2", "1.3"]
+      },
+      {
+        "text": "Wagner (2021) notes that climate change will likely allow both native and non-native species at the northern edge of their range in New England to expand further north with warming temperatures (Staudinger et al., 2024).",
+        "location": "Invasive and Other Problematic Species, Genes, and Diseases (Chapter 4)",
+        "relevant_elements": ["1.3", "3.7"]
+      },
+      {
+        "text": "In areas where invasive and non-native species already exist, warmer and earlier-onset spring temperatures may allow them to emerge and persist longer on the landscape, allowing for greater proliferation and expansion (Staudinger et al., 2024).",
+        "location": "Invasive and Other Problematic Species, Genes, and Diseases (Chapter 4)",
+        "relevant_elements": ["3.7"]
+      },
+      {
+        "text": "climate change is projected to make one or more northeastern states (from Kentucky to Maine) newly climatically suitable for 291 invasive plants, of which 74 have been assessed as having ecological impacts that reduce native biodiversity (Coville et al., 2021; Rockwell-Postel et al., 2020; Staudinger et al., 2024).",
+        "location": "Invasive and Other Problematic Species, Genes, and Diseases (Chapter 4)",
+        "relevant_elements": ["3.7"]
+      },
+      {
+        "text": "The Northeast Climate Adaptation Science Center (NE CASC) led the development of a Regional Synthesis on Climate Data to inform the 2025 State Wildlife Action Plans in the Northeast U.S. (referred to as the Regional Climate Synthesis hereafter) (Karmalkar et al., 2024). This report and the climate models and projections included in it inform the discussion below.",
+        "location": "Climate Change (Chapter 4 threats section)",
+        "relevant_elements": ["2.3"]
+      },
+      {
+        "text": "According to the Regional Climate Synthesis, New Hampshire will continue to experience increasing temperatures, with an estimated warming of 7°F (relative to the current climate) by the end of the century (Karmalkar et al., 2024).",
+        "location": "Climate Change (Chapter 4 threats section)",
+        "relevant_elements": ["2.3", "1.1"]
+      },
+      {
+        "text": "Current models predict that relative sea-level rise in coastal New Hampshire is estimated to be 2.2 feet by 2100 if climatic pressures stabilize, with a likely range of 1.5-3.1 feet and a very likely range of 1.1-3.9 feet.",
+        "location": "Climate Change (Chapter 4 threats section)",
+        "relevant_elements": ["2.3", "3.5"]
+      },
+      {
+        "text": "Landscape connectivity is essential for gene flow, migration, and dispersal of organisms.",
+        "location": "Chapter 3: New Hampshire's Wildlife Habitat Conditions (Variables Used for Condition Analysis)",
+        "relevant_elements": ["1.4", "1.3"]
+      },
+      {
+        "text": "In the face of a changing climate, conserved lands enable species to adapt to shifting conditions and help maintain ecological connectivity.",
+        "location": "Land Conservation (Chapter 5)",
+        "relevant_elements": ["1.4", "4.2"]
+      },
+      {
+        "text": "3.1.6 -Incorporate ecological resilience and connectivity data when identifying conservation priorities to support biodiversity in a changing landscape.",
+        "location": "Goal 3.1: Permanently Conserve High-Priority Habitats (Chapter 5)",
+        "relevant_elements": ["1.4", "4.1", "4.2"]
+      },
+      {
+        "text": "Goal 3.2: Maintain And Enhance Landscape Connectivity To Support Wildlife Movement Strategies • 3.2.1 -Protect wildlife corridors, especially between large blocks of conserved land. • 3.2.2 -Use the New Hampshire Wildlife Corridors map and any local data to help identify potential corridors that connect core areas of wildlife habitat.",
+        "location": "Goal 3.2: Maintain And Enhance Landscape Connectivity To Support Wildlife Movement (Chapter 5)",
+        "relevant_elements": ["1.4", "4.1", "4.2"]
+      },
+      {
+        "text": "1.1.12 -Develop and use climate projections to prioritize upland and wetland habitat actions, including protection of climate refugia, and inform restoration practices.",
+        "location": "Goal 1.1: Manage And Restore Forests And Other Upland And Wetland Habitats (Chapter 5)",
+        "relevant_elements": ["4.1", "4.2", "2.3"]
+      },
+      {
+        "text": "1.2.7 -Develop and use climate projections to prioritize aquatic and coastal habitat actions, including protection of climate refugia, and inform aquatic restoration practices.",
+        "location": "GOAL 1.2: Restore Aquatic Condition and Connectivity Within Watersheds (Chapter 5)",
+        "relevant_elements": ["4.1", "4.2", "2.3"]
+      },
+      {
+        "text": "Watchlist: These are species that are presently secure in New Hampshire but are of concern elsewhere in the Northeast. Many of these species are suspected to be at risk due to emerging threats, such as climate change, that are affecting populations more strongly to our south.",
+        "location": "Assessment Need Species (Chapter 2)",
+        "relevant_elements": ["1.1", "3.3"]
+      },
+      {
+        "text": "New Hampshire will continue to experience increasing temperatures, with an estimated warming of 7°F (relative to the current climate) by the end of the century (Karmalkar et al., 2024). Given this, by 2100, the number of days during which the maximum daytime temperature is above 95°F is projected to increase roughly ten-fold.",
+        "location": "Climate Change (Chapter 4 threats section)",
+        "relevant_elements": ["2.3", "3.5", "3.6"]
+      },
+      {
+        "text": "The Gulf of Maine is one of the fastest warming ocean regions in the world and has warmed faster than 99 percent of the global ocean (Gulf of Maine Research Institute, 2024).",
+        "location": "Climate Change (Chapter 4 threats section)",
+        "relevant_elements": ["3.5", "1.1"]
+      },
+      {
+        "text": "New Hampshire and the surrounding ecoregions are projected to experience up to a 50 percent increase in precipitation relative to the current climate (Karmalkar et al., 2024).",
+        "location": "Climate Change (Chapter 4 threats section)",
+        "relevant_elements": ["2.3", "3.5"]
+      },
+      {
+        "text": "Predicting how species will respond to the changing climate depends on two things: how climate will change in the long- and short-term future, and how target species may directly respond to changing temperature and precipitation patterns, as well as indirect abiotic and biotic changes (Karmalkar et al., 2024).",
+        "location": "Climate Change (Chapter 4 threats section)",
+        "relevant_elements": ["1.1", "1.3"]
+      },
+      {
+        "text": "Future projections estimate that as many as 14-32 percent of all species may go extinct by ~2085 (Wiens & Zelinka, 2024).",
+        "location": "Climate Change (Chapter 4 threats section)",
+        "relevant_elements": ["1.1"]
+      },
+      {
+        "text": "Similarly, the warming temperatures and phenological shifts driven by climate change can increase disease vulnerability for many species, as is discussed in Appendix N.",
+        "location": "Invasive and Other Problematic Species, Genes, and Diseases (Chapter 4)",
+        "relevant_elements": ["3.6", "3.7", "1.3"]
+      },
+      {
+        "text": "IEI is a measure of relative intactness of a habitat (i.e., measure of human modifications and disturbance) and habitat resiliency to environmental change (i.e., capacity to recover from or adapt to environmental changes).",
+        "location": "Chapter 3: Variables Used for Condition Analysis (Impacts of Human Activities)",
+        "relevant_elements": ["1.2"]
+      },
+      {
+        "text": "2.1.1 -Develop local, state, and regional conservation and recovery planning materials for priority species that consider climate resiliency.",
+        "location": "Goal 2.1: Identify And Adaptively Plan Actions For Priority Species (Chapter 5)",
+        "relevant_elements": ["4.5", "4.2"]
+      },
+      {
+        "text": "5.1.2 -Develop and utilize citizen science and community science initiatives, such as school-based projects, to support NH SWAP actions in habitat conservation, species-specific management, and climate resilience.",
+        "location": "Goal 5.1: Increase Public Awareness, Knowledge, And Participation (Chapter 5)",
+        "relevant_elements": ["4.5"]
+      },
+      {
+        "text": "By taking both a species-level and landscape-scale perspective, we can ensure that all of New Hampshire's wildlife and plant species are encompassed in conservation planning.",
+        "location": "Wildlife Habitats (Chapter 2)",
+        "relevant_elements": ["3.1", "3.2", "3.3"]
+      },
+      {
+        "text": "The condition of a top-ranked habitat patch may deteriorate if the surrounding area is degraded, so a third tier of Supporting Landscapes was identified by including the top 50% of all habitats in the biological region, plus areas identified in TNC's Resilient and Connected Network (TNC, 2023).",
+        "location": "Chapter 3: Step 3: Comparing Conditions Across the Landscape",
+        "relevant_elements": ["4.1", "1.4"]
+      },
+      {
+        "text": "For 23 of NH's habitat types (see step 2 above), the top-ranking areas based on the variables (Figure 3-1 and Figure 3-2)...are combined across the state and called Top Ranked Habitat in the State (Tier 1)",
+        "location": "Chapter 3: Step 3: Comparing Conditions Across the Landscape",
+        "relevant_elements": ["4.1"]
+      },
+      {
+        "text": "A 5-year review is conducted to identify gaps in implementation and develop additional strategies for execution. A 10-year summary is also completed, including the percentage of actions implemented with a focus on high-priority actions, number of species assessed for federal listing and outcome, change in habitat acres, amount of conservation in priority areas, number of partners assisting with implementation, and the estimated amount of money brought in through federal grants and other funding sources.",
+        "location": "Monitoring, Implementation, and Performance Evaluation (Chapter 6 Abstract)",
+        "relevant_elements": ["4.3"]
+      },
+      {
+        "text": "WAPIT and TAFW teams will meet monthly and quarterly, respectively, to regularly update information and keep the adaptive management process moving forward",
+        "location": "Years 2-10 (Chapter 6 Implementation)",
+        "relevant_elements": ["4.3", "4.5"]
+      },
+      {
+        "text": "In addition, in recent years, conservation biology has advocated for evidence-informed practice as a means to scale efforts for protecting biodiversity (Kadykalo et al. 2021; Salafsky et al. 2022). Over the next 10 years, summaries developed by 'evidence bridges'...such as the Conservation Evidence website, may also be used by managers to ensure that actions taken for SGCN and their habitats have been proven effective.",
+        "location": "Performance Evaluation (Chapter 6)",
+        "relevant_elements": ["4.4"]
+      },
+      {
+        "text": "The top threats included pollution, invasive species and disease, climate change, and development.",
+        "location": "Executive Summary",
+        "relevant_elements": ["3.5", "3.6", "3.7"]
+      },
+      {
+        "text": "Climate Change is the third most frequently identified threat in the 2025 threats assessment, with a total of 246 threats. Climate change threats were identified for 84 wildlife SGCN, 1 wildlife SGCN group (migratory shorebirds), 14 plant SGCN, 2 plant SGCN groups...and 24 of 28 New Hampshire habitat types.",
+        "location": "Climate Change threats table summary (Chapter 4)",
+        "relevant_elements": ["3.5", "3.6", "3.7", "1.1"]
+      },
+      {
+        "text": "Threats from major changes in ecosystems and severe climate/weather events outside of the natural range of variation that could harm species or habitats.",
+        "location": "Climate Change (Chapter 4 - definition)",
+        "relevant_elements": ["3.5", "3.6"]
+      },
+      {
+        "text": "As the climate changes, the interior region of the state is facing even hotter and drier summers than were historically typical, with prolonged droughts and heatwaves that place more demand on moisture-limited systems.",
+        "location": "Climate Change (Chapter 4 threats section) - NOTE: Check verbatim; this may be paraphrase",
+        "relevant_elements": ["3.5"]
+      },
+      {
+        "text": "Through existing and new partnerships, NHFG is moving forward with implementing the Wildlife Action Plan.",
+        "location": "Planning for the Future (Introduction)",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "The Wildlife Action Plan Implementation Team (WAPIT), which is made up of biological and technical experts from NHFG and partners from NH Audubon (NHA), NH Natural Heritage Bureau (NHNHB), University of New Hampshire Cooperative Extension (UNHCE), and The Nature Conservancy (TNC), has worked to ensure that the conservation plans outlined in the SWAP are being prioritized and implemented",
+        "location": "Revision Process (Introduction)",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "Forty-five percent of survey respondents think the condition of wildlife and habitats in New Hampshire will somewhat or greatly decline over the next 10 years, while at the same time a common theme of discussion across focus groups was the need for more funding for NHFG and its many partners to implement the NH SWAP.",
+        "location": "A Need For Increased Funding (Chapter 1)",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "Reducing the movement of individuals has consequences for metapopulation dynamics and genetic integrity (Lande, 1988; Laurance et al., 2002; Terwilliger Consulting, Inc. & the Northeast Fish and Wildlife Diversity Technical Committee, 2023).",
+        "location": "Residential and Commercial Development (Chapter 4)",
+        "relevant_elements": ["1.3", "1.4"]
+      },
+      {
+        "text": "Additionally, the threat of invasive and problematic native/non-native species and diseases is being exacerbated by climate change and...human disturbances to the landscape.",
+        "location": "Invasive and Other Problematic Species, Genes, and Diseases (Chapter 4)",
+        "relevant_elements": ["3.7"]
+      },
+      {
+        "text": "These changes of air and ocean temperature have wide-ranging implications for New Hampshire habitats, SGCN, and the environment as a whole.",
+        "location": "Climate Change (Chapter 4 threats section)",
+        "relevant_elements": ["3.5", "1.1"]
+      },
+      {
+        "text": "marine taxa appear to track temperature shifts more closely than terrestrial species (Lenoir et al., 2020). Some level of adaptation to a changing climate is likely for many species; however, species are more quickly shifting the timing of important parts of their life history (phenology; discussed in Appendix N)",
+        "location": "Climate Change (Chapter 4 threats section)",
+        "relevant_elements": ["1.2", "1.3", "3.3"]
+      },
+      {
+        "text": "Taken from the lens of the Conservation Measures Partnership (CMP) Adaptive Management Cycle (Figure 6-1), the revision of the 2025 NH SWAP encompasses steps 1 and 2-conceptualize and plan actions and monitoring, respectively.",
+        "location": "Performance Evaluation (Chapter 6)",
+        "relevant_elements": ["4.5"]
+      },
+      {
+        "text": "2.3.2 -Conduct population augmentation and genetic banking for priority SGCN.",
+        "location": "Goal 2.3: Conduct Targeted Management For Key Species (Chapter 5)",
+        "relevant_elements": ["4.2"]
+      },
+      {
+        "text": "1.1.7 -Enhance landscape connectivity for wildlife movement through habitat management.",
+        "location": "Goal 1.1: Manage And Restore Forests And Other Upland And Wetland Habitats (Chapter 5)",
+        "relevant_elements": ["1.4", "4.2"]
+      },
+      {
+        "text": "Between 1895 and 2023, the Northeastern U.S. warmed by 2.5°F (1.5°C), while New Hampshire warmed by 3.9°F (2.2°C)",
+        "location": "Climate Change threats table summary (Chapter 4)",
+        "relevant_elements": ["2.3", "1.1"]
+      },
+      {
+        "text": "This project provides climate data that are specifically scaled to the 13-state footprint of the Northeast Association of Fish and Wildlife Agencies (NEAFWA) region and designed to",
+        "location": "Climate Change (Chapter 4 threats section)",
+        "relevant_elements": ["2.3"]
+      }
+    ]
+  },
+  "concepts": {
+    "climate_vulnerability": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "In general, there are three broad responses of species to the impacts of climate change: move, adapt, or go extinct (Karmalkar et al., 2024). Recent research suggests that many taxa are already shifting higher in elevation and latitude, but results are inconsistent (Rubenstein et al., 2023)",
+          "location": "Climate Change (Chapter 4 threats section)",
+          "sub_component": "exposure",
+          "citations": ["Karmalkar et al., 2024", "Rubenstein et al., 2023"]
+        },
+        {
+          "text": "Watchlist: These are species that are presently secure in New Hampshire but are of concern elsewhere in the Northeast. Many of these species are suspected to be at risk due to emerging threats, such as climate change, that are affecting populations more strongly to our south.",
+          "location": "Assessment Need Species (Chapter 2)",
+          "sub_component": "exposure",
+          "citations": []
+        },
+        {
+          "text": "Some level of adaptation to a changing climate is likely for many species; however, species are more quickly shifting the timing of important parts of their life history (phenology; discussed in Appendix N) than they are their morphology or physiology. It remains to be seen if these shifts will be substantial enough to shield many species from serious population declines or extinction (Radchuk et al., 2019).",
+          "location": "Climate Change (Chapter 4 threats section)",
+          "sub_component": "adaptive capacity",
+          "citations": ["Radchuk et al., 2019"]
+        }
+      ],
+      "absence_note": "The document discusses climate exposure (temperature increases, sea-level rise, projected shifts) and touches on adaptive capacity (species' ability to move, adapt, or go extinct; phenological shifts; limited dispersal) but does not combine both dimensions in a structured vulnerability framework applied to its focal species. Score 2 rather than 3: exposure is discussed more rigorously than adaptive capacity, which is referenced but not operationalized for specific SGCN in the text available."
+    },
+    "adaptive_capacity_specificity": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Some level of adaptation to a changing climate is likely for many species; however, species are more quickly shifting the timing of important parts of their life history (phenology; discussed in Appendix N) than they are their morphology or physiology.",
+          "location": "Climate Change (Chapter 4 threats section)",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "These predictions involve many dimensions of change, from physiological tolerances to phenology and interspecific interactions (Karmalkar et al., 2024).",
+          "location": "Climate Change (Chapter 4 threats section)",
+          "sub_component": null,
+          "citations": ["Karmalkar et al., 2024"]
+        }
+      ],
+      "absence_note": "The document references specific components of adaptive capacity (dispersal/movement, physiological tolerances, phenology, life history timing) in a climate context, warranting score 2."
+    },
+    "adaptive_capacity_components": {
+      "demography": {
+        "present": false,
+        "evidence": []
+      },
+      "distribution": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Recent research suggests that many taxa are already shifting higher in elevation and latitude, but results are inconsistent (Rubenstein et al., 2023), and marine taxa appear to track temperature shifts more closely than terrestrial species (Lenoir et al., 2020).",
+            "location": "Climate Change (Chapter 4 threats section)",
+            "sub_component": null,
+            "citations": ["Rubenstein et al., 2023", "Lenoir et al., 2020"]
+          }
+        ]
+      },
+      "movement": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "In the face of a changing climate, conserved lands enable species to adapt to shifting conditions and help maintain ecological connectivity.",
+            "location": "Land Conservation (Chapter 5)",
+            "sub_component": null,
+            "citations": []
+          },
+          {
+            "text": "Landscape connectivity is essential for gene flow, migration, and dispersal of organisms.",
+            "location": "Chapter 3: Variables Used for Condition Analysis",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "evolutionary_potential": {
+        "present": false,
+        "evidence": []
+      },
+      "ecological_dependencies": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "These predictions involve many dimensions of change, from physiological tolerances to phenology and interspecific interactions (Karmalkar et al., 2024).",
+            "location": "Climate Change (Chapter 4 threats section)",
+            "sub_component": null,
+            "citations": ["Karmalkar et al., 2024"]
+          }
+        ]
+      },
+      "abiotic_niche": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "These predictions involve many dimensions of change, from physiological tolerances to phenology and interspecific interactions (Karmalkar et al., 2024).",
+            "location": "Climate Change (Chapter 4 threats section)",
+            "sub_component": null,
+            "citations": ["Karmalkar et al., 2024"]
+          }
+        ]
+      },
+      "life_history": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "species are more quickly shifting the timing of important parts of their life history (phenology; discussed in Appendix N) than they are their morphology or physiology. It remains to be seen if these shifts will be substantial enough to shield many species from serious population declines or extinction (Radchuk et al., 2019).",
+            "location": "Climate Change (Chapter 4 threats section)",
+            "sub_component": null,
+            "citations": ["Radchuk et al., 2019"]
+          }
+        ]
+      }
+    },
+    "connectivity": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "In the face of a changing climate, conserved lands enable species to adapt to shifting conditions and help maintain ecological connectivity.",
+          "location": "Land Conservation (Chapter 5)",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "3.1.6 -Incorporate ecological resilience and connectivity data when identifying conservation priorities to support biodiversity in a changing landscape.",
+          "location": "Goal 3.1: Permanently Conserve High-Priority Habitats (Chapter 5)",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "1.1.7 -Enhance landscape connectivity for wildlife movement through habitat management.",
+          "location": "Goal 1.1: Manage And Restore Forests And Other Upland And Wetland Habitats (Chapter 5)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "Connectivity is explicitly framed in the context of a changing climate (conserved lands enabling species to adapt to shifting conditions, incorporating resilience and connectivity for changing landscape). This crosses the threshold to score 2."
+    }
+  },
+  "tools": {
+    "vulnerability_models": {
+      "evaluable": true,
+      "score": 0,
+      "named_tools": [],
+      "evidence": [],
+      "absence_note": "No CCVI, NatureServe vulnerability index, PVA, or other formal vulnerability model is named or applied in the document. The threats assessment methodology is qualitative (expert ranking), not a formal vulnerability model."
+    },
+    "niche_models": {
+      "evaluable": true,
+      "score": 0,
+      "named_tools": [],
+      "evidence": [],
+      "absence_note": "No species distribution models (MaxEnt, SDMs, ENMs, etc.) are referenced or applied in the document text provided."
+    },
+    "climate_models": {
+      "evaluable": true,
+      "score": 2,
+      "named_tools": ["NE CASC Regional Climate Synthesis"],
+      "evidence": [
+        {
+          "text": "The Northeast Climate Adaptation Science Center (NE CASC) led the development of a Regional Synthesis on Climate Data to inform the 2025 State Wildlife Action Plans in the Northeast U.S. (referred to as the Regional Climate Synthesis hereafter) (Karmalkar et al., 2024). This report and the climate models and projections included in it inform the discussion below.",
+          "location": "Climate Change (Chapter 4 threats section)",
+          "sub_component": null,
+          "citations": ["Karmalkar et al., 2024"]
+        },
+        {
+          "text": "According to the Regional Climate Synthesis, New Hampshire will continue to experience increasing temperatures, with an estimated warming of 7°F (relative to the current climate) by the end of the century (Karmalkar et al., 2024).",
+          "location": "Climate Change (Chapter 4 threats section)",
+          "sub_component": null,
+          "citations": ["Karmalkar et al., 2024"]
+        },
+        {
+          "text": "Current models predict that relative sea-level rise in coastal New Hampshire is estimated to be 2.2 feet by 2100 if climatic pressures stabilize, with a likely range of 1.5-3.1 feet and a very likely range of 1.1-3.9 feet.",
+          "location": "Climate Change (Chapter 4 threats section)",
+          "sub_component": null,
+          "citations": ["NH Coastal Flood Risk Summary Science Team, 2025"]
+        }
+      ],
+      "absence_note": "The document substantively incorporates climate model projections from the NE CASC Regional Climate Synthesis (Karmalkar et al., 2024) to inform management decisions about NH SGCN and habitats. This constitutes application (score 2) per codebook rule 2: prior tool-based results are substantively incorporated into management decisions.",
+      "time_horizon_years": [2100],
+      "emission_scenarios": []
+    },
+    "connectivity_models": {
+      "evaluable": true,
+      "score": 2,
+      "named_tools": ["ecoConnect", "Index of Ecological Integrity", "TNC Resilient and Connected Network"],
+      "evidence": [
+        {
+          "text": "local connectedness (Compton, 2023), a dataset that estimates the degree of permeability surrounding each habitat patch (i.e., how easily an animal might move through a habitat). Landscape connectivity is essential for gene flow, migration, and dispersal of organisms.",
+          "location": "Chapter 3: Variables Used for Condition Analysis (Landscape Context)",
+          "sub_component": null,
+          "citations": ["Compton, 2023"]
+        },
+        {
+          "text": "The condition of a top-ranked habitat patch may deteriorate if the surrounding area is degraded, so a third tier of Supporting Landscapes was identified by including the top 50% of all habitats in the biological region, plus areas identified in TNC's Resilient and Connected Network (TNC, 2023).",
+          "location": "Chapter 3: Step 3: Comparing Conditions Across the Landscape",
+          "sub_component": null,
+          "citations": ["TNC, 2023"]
+        },
+        {
+          "text": "3.2.2 -Use the New Hampshire Wildlife Corridors map and any local data to help identify potential corridors that connect core areas of wildlife habitat.",
+          "location": "Goal 3.2: Maintain And Enhance Landscape Connectivity To Support Wildlife Movement (Chapter 5)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document applies connectivity modeling outputs (TNC Resilient and Connected Network, local connectedness permeability dataset by Compton 2023, NH Wildlife Corridors map) to inform habitat condition ranking and management decisions for the focal subjects. Score 2 is warranted."
+    }
+  },
+  "context": {
+    "management_scale": {
+      "local": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "4.1.4 -Provide planners with scientific data and maps to identify and prioritize lands and waters for habitat conservation and connectivity; at the local scale, provide guidance on how to incorporate local (not remote/modeled) information through field assessments.",
+            "location": "Goal 4.1 (Chapter 5)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "site": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "3.1.1 - Use the NH SWAP maps to identify and prioritize parcels for conservation in local, regional, and statewide conservation plans and grant programs.",
+            "location": "Goal 3.1: Permanently Conserve High-Priority Habitats (Chapter 5)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "watershed": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "GOAL 1.2: Restore Aquatic Condition and Connectivity Within Watersheds",
+            "location": "Conservation Actions (Chapter 5)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "city": {
+        "present": false,
+        "evidence": []
+      },
+      "county": {
+        "present": false,
+        "evidence": []
+      },
+      "within_state_region": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "These biological regions are defined as ecoregions (for terrestrial habitats) and watersheds (for aquatic habitats)",
+            "location": "Chapter 3: New Hampshire's Wildlife Habitat Conditions (Step 2)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "state": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The 2025 New Hampshire State Wildlife Action Plan (NH SWAP) presents a fully updated strategy to conserve healthy wildlife populations across the Granite State.",
+            "location": "New Hampshire State Wildlife Action Plan (Executive Summary)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "multistate": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "2.1.2 -Develop multi-state or regional SGCN and habitat working groups and identify and implement large-scale conservation efforts.",
+            "location": "Goal 2.1: Identify And Adaptively Plan Actions For Priority Species (Chapter 5)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "national": {
+        "present": false,
+        "evidence": []
+      },
+      "transnational": {
+        "present": false,
+        "evidence": []
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "By taking both a species-level and landscape-scale perspective, we can ensure that all of New Hampshire's wildlife and plant species are encompassed in conservation planning.",
+            "location": "Wildlife Habitats (Chapter 2)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecoregion": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "These biological regions are defined as ecoregions (for terrestrial habitats) and watersheds (for aquatic habitats) (Figure 3-3 and Figure 3-4).",
+            "location": "Chapter 3: New Hampshire's Wildlife Habitat Conditions (Step 2)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "province": {
+        "present": false,
+        "evidence": []
+      },
+      "section": {
+        "present": false,
+        "evidence": []
+      },
+      "subsection": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The Ecoregional Subsections classification was based on land formations, geology, topography, regional climate, and dominant natural vegetation. These were used as the biological regions for terrestrial habitats in the habitat condition analysis by biological region (USFS, 2007).",
+            "location": "Figure 3-3 caption",
+            "sub_component": null,
+            "citations": ["USFS, 2007"]
+          }
+        ]
+      },
+      "lake": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "For lake and pond habitats, a 200-meter buffer of the top 25 ranked lakes and ponds by temperature class (coldwater and warm/cool) were classified as Top Ranked Habitat in the State (Tier 1).",
+            "location": "Chapter 3: Step 3: Comparing Conditions Across the Landscape",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "river": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "GOAL 1.2: Restore Aquatic Condition and Connectivity Within Watersheds Strategies • 1.2.1 -Improve safe passage of fish and other wildlife by removing problematic dams and other barriers.",
+            "location": "Conservation Actions (Chapter 5)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "district": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["New Hampshire", "Gulf of Maine", "Connecticut River", "White Mountains", "Ecoregional Subsections (USFS 2007)", "Aquatic Resource Mitigation Regions (NHDES)"]
+    },
+    "biological_unit_score": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "The 2025 NH SWAP identifies 138 wildlife species and 188 plant species as SGCN.",
+          "location": "New Hampshire State Wildlife Action Plan (Executive Summary)",
+          "sub_component": "species",
+          "citations": []
+        },
+        {
+          "text": "The 2025 NH SWAP identifies 28 key habitat types that span the state's diverse landscapes, from alpine peaks to coastal waters, and forests, wetlands, rivers, and streams in between.",
+          "location": "New Hampshire State Wildlife Action Plan (Executive Summary)",
+          "sub_component": "habitat",
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "biological_unit_components": {
+      "species": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Recent research suggests that many taxa are already shifting higher in elevation and latitude, but results are inconsistent (Rubenstein et al., 2023), and marine taxa appear to track temperature shifts more closely than terrestrial species (Lenoir et al., 2020).",
+            "location": "Climate Change (Chapter 4 threats section)",
+            "sub_component": null,
+            "citations": ["Rubenstein et al., 2023", "Lenoir et al., 2020"]
+          }
+        ]
+      },
+      "population": {
+        "present": false,
+        "evidence": []
+      },
+      "habitat": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "1.1.12 -Develop and use climate projections to prioritize upland and wetland habitat actions, including protection of climate refugia, and inform restoration practices.",
+            "location": "Goal 1.1: Manage And Restore Forests And Other Upland And Wetland Habitats (Chapter 5)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "These changes of air and ocean temperature have wide-ranging implications for New Hampshire habitats, SGCN, and the environment as a whole.",
+            "location": "Climate Change (Chapter 4 threats section)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "community": {
+        "present": false,
+        "evidence": []
+      },
+      "genotype_phenotype": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["SGCN", "Watchlist species", "alpine species", "saltmarsh species", "pine barrens species", "coldwater fish", "marine invertebrates", "migratory shorebirds"]
+    },
+    "partnerships_and_funding": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Forty-five percent of survey respondents think the condition of wildlife and habitats in New Hampshire will somewhat or greatly decline over the next 10 years, while at the same time a common theme of discussion across focus groups was the need for more funding for NHFG and its many partners to implement the NH SWAP.",
+          "location": "A Need For Increased Funding (Chapter 1)",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "WAPIT members also served as liaisons for collaboration with experts across the region-they shared updates on the Plan revision process with other biologists, requesting input on key components, including SGCN selection, threats assessments, and conservation action development.",
+          "location": "Revision Process (Introduction)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document describes active partnerships (WAPIT, NHFG, TNC, NH Audubon, UNHCE, federal agencies, NGOs) but a recurring theme is the need for more funding. No specific strategic funding allocation for range-shift-related work is described. Score 1 (some funding/partnerships described but limited or aspirational for range-shift work specifically)."
+    },
+    "climate_threat_habitat_degradation": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Current models predict that relative sea-level rise in coastal New Hampshire is estimated to be 2.2 feet by 2100 if climatic pressures stabilize, with a likely range of 1.5-3.1 feet and a very likely range of 1.1-3.9 feet. If climatic pressures continue to grow throughout the 21st century, relative sea-level rise in coastal New Hampshire is estimated to be 3.0 feet by 2100",
+          "location": "Climate Change (Chapter 4 threats section)",
+          "sub_component": null,
+          "citations": ["NH Coastal Flood Risk Summary Science Team, 2025"]
+        },
+        {
+          "text": "New Hampshire and the surrounding ecoregions are projected to experience up to a 50 percent increase in precipitation relative to the current climate (Karmalkar et al., 2024).",
+          "location": "Climate Change (Chapter 4 threats section)",
+          "sub_component": null,
+          "citations": ["Karmalkar et al., 2024"]
+        }
+      ],
+      "absence_note": "Sea-level rise, increased storm intensity, and altered precipitation are discussed as climate-driven threats to habitats. The document does not use the term 'drought' or 'wildfire' prominently in its New Hampshire climate context but does discuss sea-level rise inundation of coastal habitats and increased storm severity."
+    },
+    "climate_threat_species_vital_rates": {
+      "evaluable": true,
+      "score": 0,
+      "evidence": [],
+      "absence_note": "The document discusses climate change effects on species broadly (move/adapt/go extinct framework, phenological shifts) but does not contain explicit passages framing climate-driven events as causing direct vital rate impacts (mortality events, recruitment failure, etc.) in a way that meets the 'direct influence on vital rates' threshold. References to phenological shifts are not framed as direct vital rate effects."
+    },
+    "climate_threat_biotic_stressors": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Wagner (2021) notes that climate change will likely allow both native and non-native species at the northern edge of their range in New England to expand further north with warming temperatures (Staudinger et al., 2024).",
+          "location": "Invasive and Other Problematic Species, Genes, and Diseases (Chapter 4)",
+          "sub_component": null,
+          "citations": ["Wagner, 2021", "Staudinger et al., 2024"]
+        },
+        {
+          "text": "climate change is projected to make one or more northeastern states (from Kentucky to Maine) newly climatically suitable for 291 invasive plants, of which 74 have been assessed as having ecological impacts that reduce native biodiversity (Coville et al., 2021; Rockwell-Postel et al., 2020; Staudinger et al., 2024).",
+          "location": "Invasive and Other Problematic Species, Genes, and Diseases (Chapter 4)",
+          "sub_component": null,
+          "citations": ["Coville et al., 2021", "Rockwell-Postel et al., 2020", "Staudinger et al., 2024"]
+        }
+      ],
+      "absence_note": {}
+    }
+  },
+  "actions": {
+    "priority_habitat_identification": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "For 23 of NH's habitat types (see step 2 above), the top-ranking areas based on the variables (Figure 3-1 and Figure 3-2)...are combined across the state and called Top Ranked Habitat in the State (Tier 1) (Figure 3 4 5).",
+          "location": "Chapter 3: Step 3: Comparing Conditions Across the Landscape",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "1.1.12 -Develop and use climate projections to prioritize upland and wetland habitat actions, including protection of climate refugia, and inform restoration practices.",
+          "location": "Goal 1.1: Manage And Restore Forests And Other Upland And Wetland Habitats (Chapter 5)",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "1.2.7 -Develop and use climate projections to prioritize aquatic and coastal habitat actions, including protection of climate refugia, and inform aquatic restoration practices.",
+          "location": "GOAL 1.2: Restore Aquatic Condition and Connectivity Within Watersheds (Chapter 5)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "targeted_range_shift_actions": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "In the face of a changing climate, conserved lands enable species to adapt to shifting conditions and help maintain ecological connectivity.",
+          "location": "Land Conservation (Chapter 5)",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "2.1.1 -Develop local, state, and regional conservation and recovery planning materials for priority species that consider climate resiliency.",
+          "location": "Goal 2.1: Identify And Adaptively Plan Actions For Priority Species (Chapter 5)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document proposes structural facilitation actions such as protecting wildlife corridors and climate refugia explicitly in the context of a changing climate (e.g., 1.1.12 on climate refugia, 3.1.6 on connectivity in a changing landscape, explicit statement that conserved lands enable species to adapt to shifting conditions). No direct manipulation actions (assisted migration, climate-motivated translocation) are found in this document excerpt. Score 1 is appropriate for structural facilitation."
+    },
+    "time_bound_and_monitoring": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "A 5-year review is conducted to identify gaps in implementation and develop additional strategies for execution. A 10-year summary is also completed, including the percentage of actions implemented with a focus on high-priority actions, number of species assessed for federal listing and outcome, change in habitat acres, amount of conservation in priority areas, number of partners assisting with implementation",
+          "location": "Monitoring, Implementation, and Performance Evaluation (Chapter 6 Abstract)",
+          "sub_component": "monitoring",
+          "citations": []
+        },
+        {
+          "text": "Many components of the implementation process will likely span multiple years, with many being continually implemented over the 10-year period. However, the steps of implementation are broken out into 2-year increments below, in order to scaffold this multifaceted process.",
+          "location": "Implementation (Chapter 6)",
+          "sub_component": "time-bound",
+          "citations": []
+        },
+        {
+          "text": "Monitoring to determine the effectiveness of these conservation measures allows for adaptive management. As conditions change in New Hampshire (land-use patterns, climate, wildlife population responses to implemented conservation actions, etc.), NHFG and our partners must be able to detect these changes and adjust our efforts accordingly",
+          "location": "Performance Evaluation (Chapter 6)",
+          "sub_component": "monitoring",
+          "citations": []
+        }
+      ],
+      "absence_note": "The document operationalizes both time-bound implementation (2-year increments, 5-year review, 10-year revision) and effectiveness monitoring at the action level. Score 2 is warranted."
+    },
+    "evidence_of_efficacy": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Over the next 10 years, summaries developed by 'evidence bridges'-intermediaries who help practitioners access and use bodies of evidence for decision making (Dubois et al., 2024)-such as the Conservation Evidence website, may also be used by managers to ensure that actions taken for SGCN and their habitats have been proven effective.",
+          "location": "Performance Evaluation (Chapter 6)",
+          "sub_component": null,
+          "citations": ["Dubois et al., 2024"]
+        }
+      ],
+      "absence_note": "The document references intent to use evidence-based resources (Conservation Evidence) in the future but does not present existing evidence for the efficacy of specific actions. Actions are presented with ecological rationale (e.g., corridor protection for connectivity) but without citations to studies testing the efficacy of those specific actions. The document scores 1 (rationale outlined, no evidence presented) rather than 2 or 3.",
+      "projects": []
+    },
+    "adaptation_planning_frameworks": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Taken from the lens of the Conservation Measures Partnership (CMP) Adaptive Management Cycle (Figure 6-1), the revision of the 2025 NH SWAP encompasses steps 1 and 2-conceptualize and plan actions and monitoring, respectively.",
+          "location": "Performance Evaluation (Chapter 6)",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "WAPIT and TAFW teams will meet monthly and quarterly, respectively, to regularly update information and keep the adaptive management process moving forward (see Performance Evaluation, below).",
+          "location": "Years 2-10 (Chapter 6 Implementation)",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "2.1.1 -Develop local, state, and regional conservation and recovery planning materials for priority species that consider climate resiliency.",
+          "location": "Goal 2.1: Identify And Adaptively Plan Actions For Priority Species (Chapter 5)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document explicitly applies the CMP Adaptive Management Cycle framework to its planning process in the context of changing conditions including climate. This constitutes a specific named planning framework applied in a climate-adaptation context, warranting score 2. No RAD, RRT, SDM (Structured Decision Making), or SBDA frameworks are referenced."
+    }
+  },
+  "coding_meta": {
+    "coder": "llm:claude-sonnet-4-6",
+    "model": "claude-sonnet-4-6",
+    "provider": "claude",
+    "codebook_version": "0.4",
+    "ingest": "text",
+    "design": "single",
+    "temperature": null,
+    "thinking": null,
+    "thinking_effort": null,
+    "coded_at": "2026-07-06T18:39:24Z",
+    "notes": {}
+  }
+}

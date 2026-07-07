@@ -1,0 +1,930 @@
+{
+  "document_meta": {
+    "title": "2025 North Dakota State Wildlife Action Plan",
+    "year": 2025,
+    "jurisdiction": "North Dakota",
+    "document_type": "SWAP",
+    "document_id": "ND_SWAP_2025",
+    "page_count": 326
+  },
+  "orientation": {
+    "summary": "The 2025 North Dakota State Wildlife Action Plan (SWAP) is a state-level wildlife conservation planning document covering 134 SGCN and 98 SGIN species across North Dakota's major habitat types. The document is strongly engaged with climate change as a contextual threat, dedicating a full 'Changing Climate' chapter with GCM-based projections and two in-depth climate adaptation case studies (butterflies, wetland dynamics). Regarding range shifts specifically, the plan is substantively engaged: it discusses projected northward/range shifts for Dakota skipper and regal fritillary using published SDMs with climate scenarios, and notes multiple SGCN classified as 'climate-endangered' with projected distribution losses (Audubon). Most climate-specific analysis references external studies rather than being conducted internally, though the plan incorporates those results into SGCN accounts and conservation framing. Connectivity is treated both generically and in a climate-specific way through the climate resiliency/connected landscapes framework.",
+    "evidence_index": [
+      {
+        "text": "Shifts in long-term temperatures and precipitation patterns, as well as the frequency of extreme events, and seasonality, is referred to as climate change. As these patterns shift, North Dakota could be impacted in several ways: more severe droughts, increased flooding, changes in growing season, etc.",
+        "location": "A Changing Climate",
+        "relevant_elements": ["1.1", "3.5"]
+      },
+      {
+        "text": "It is important to understand climate change and predicted patterns to anticipate and prepare for how a changing climate alone, or in combination with other threats, might impact the state's wildlife and habitat.",
+        "location": "A Changing Climate",
+        "relevant_elements": ["1.1", "1.2"]
+      },
+      {
+        "text": "A climate change scenario planning approach was used to select a set of plausible yet contrasting future conditions that encompass the range of critical uncertainties for the climate variables of interest in North Dakota (Lawrence et al., 2021; Miller et al., 2022).",
+        "location": "Justification for Approach",
+        "relevant_elements": ["2.3", "4.5"]
+      },
+      {
+        "text": "A combination of 20 global circulation models CMIP5 (GCMs) for two emission scenarios (RCP4. 5 RCP 8.5) were used to select the representative potential climate futures",
+        "location": "Justification for Approach",
+        "relevant_elements": ["2.3"]
+      },
+      {
+        "text": "The time-period used for all climate projections is a mid-century planning period centered around 2055 (2040 -2069); this time period allows the incorporation of climate change into both short-term and long-term planning.",
+        "location": "Justification for Approach",
+        "relevant_elements": ["2.3"]
+      },
+      {
+        "text": "Climate change can impact fish, wildlife, and the habitats they depend on in significant ways: shifts in species ranges, changes in behavioral or morphological traits, shifts in phenology, changes in species composition, increased pressure from non-native species, changes in predator/prey dynamics, etc.",
+        "location": "Adapting to a Changing Climate",
+        "relevant_elements": ["1.1", "1.3", "3.2", "3.7", "C2"]
+      },
+      {
+        "text": "Barnes et al. (9) specifically modeled the influence of climate conditions on Dakota skipper habitat use. Their modeling efforts allowed them to map future distributions of the species under different climate change scenarios (Figure 1). Their analysis showed that by the year 2100, most of the suitable habitat for Dakota skipper in the Northern Great Plains, including North Dakota, will be lost and shifted further north",
+        "location": "Effects of climate change on the distribution of Dakota skippers",
+        "relevant_elements": ["1.1", "2.2", "3.3", "C2"]
+      },
+      {
+        "text": "under a moderate warming scenario, regal fritillary distributions would be expected to shift northward, resulting in a potential increase in habitat use in North Dakota's Prairie Pothole Region",
+        "location": "Effects of climate change on the distribution of regal fritillaries",
+        "relevant_elements": ["1.1", "2.2", "3.2", "3.3", "C2"]
+      },
+      {
+        "text": "These panels were created assuming a SSP2-4.5 warming scenario, which is regarded as a middle-of-the-road scenario in terms of warming.",
+        "location": "Effects of climate change on the distribution of Dakota skippers",
+        "relevant_elements": ["2.3"]
+      },
+      {
+        "text": "Panel B shows habitat use under moderate warming (Representative Concentration Pathway 4.5) in year 2100; and panel C shows habitat use under severe warming (Representative Concentration Pathway 8.5) in year 2100.",
+        "location": "Effects of climate change on the distribution of regal fritillaries",
+        "relevant_elements": ["2.3"]
+      },
+      {
+        "text": "Species with low adaptive capacity such as those with specialized habitat needs or limited dispersal ability face higher vulnerability to these changes.",
+        "location": "Adapting to a Changing Climate",
+        "relevant_elements": ["1.1", "1.2", "1.3"]
+      },
+      {
+        "text": "Climate resiliency identifies lands and waters that can properly function under changing climate conditions. These areas are prioritized based on landscape diversity and connectedness. Components of the dataset include data from the resilient and connected network (RCN), recognized biodiversity values, connectivity and climate flow scores",
+        "location": "Climate Case Study: Climate Resiliency and Management Planning",
+        "relevant_elements": ["1.4", "4.1", "4.5"]
+      },
+      {
+        "text": "Area's that are most resilient are comprised of healthy native communities and restoring areas adjacent to these parcels can expand and/or connect these areas of refugia and will likely have much greater benefits than restorations done in areas surrounded by least resilient lands.",
+        "location": "Climate Case Study: Climate Resiliency and Management Planning",
+        "relevant_elements": ["1.4", "4.1", "4.2"]
+      },
+      {
+        "text": "Classified as climate-threatened, American Golden-Plover is projected to lose more than half of its current distribution by 2080, with potential net gains of new areas (Audubon).",
+        "location": "American Golden-Plover",
+        "relevant_elements": ["1.1", "3.2", "C2"]
+      },
+      {
+        "text": "Classified as climate-endangered, Golden Eagle is projected to lose more than half of its current distribution by 2050, with no net gains of new areas (Audubon).",
+        "location": "Golden Eagle Aquila chrysaetos",
+        "relevant_elements": ["1.1", "C2"]
+      },
+      {
+        "text": "Classified as climate-endangered, Baird's Sparrow is projected to lose more than half of its current distribution by 2050, with no net gains of new areas (Audubon).",
+        "location": "Baird's Sparrow Centronyx bairdii",
+        "relevant_elements": ["1.1", "C2"]
+      },
+      {
+        "text": "Classified as climate-endangered, Nelson's Sparrow is projected to lose more than half of its current distribution by 2050, with no net gains of new areas (Audubon).",
+        "location": "Nelson's Sparrow Ammospiza nelsoni",
+        "relevant_elements": ["1.1", "C2"]
+      },
+      {
+        "text": "provide habitat connectivity to ease species shifts",
+        "location": "RIVERS, STREAMS AND RIPARIAN THREATS AND ACTIONS (Table entry under 11.1 Ecosystem Encroachment)",
+        "relevant_elements": ["1.4", "4.2"]
+      },
+      {
+        "text": "Hydrologic shifts in wetlands of the PPR due to wetland consolidation and drainage, climate and land use changes (i.e. lakeification).",
+        "location": "Nelson's Sparrow Ammospiza nelsoni",
+        "relevant_elements": ["3.5", "1.1"]
+      },
+      {
+        "text": "The climate has shifted to a wetter period in North Dakota, evident since the early 1990s. This wetter period has resulted in more surface water runoff into wetlands.",
+        "location": "RIVERS, STREAMS AND RIPARIAN THREATS AND ACTIONS (Wetlands case study)",
+        "relevant_elements": ["3.5"]
+      },
+      {
+        "text": "Flash droughts driven by warmer temperatures may increase in North Dakota.",
+        "location": "A Changing Climate",
+        "relevant_elements": ["3.5"]
+      },
+      {
+        "text": "Warming climate brings earlier springs and, when moisture is sufficient, extends plant growth later into the fall; plant and animal adjustments to these changes are species-specific and not always predictable.",
+        "location": "THREATS AND ACTIONS (Prescribed fire case study)",
+        "relevant_elements": ["3.7", "3.6"]
+      },
+      {
+        "text": "Moreover, warming climate may bring new invasive species with growth patterns that overlap natives' to the region",
+        "location": "THREATS AND ACTIONS (Prescribed fire case study)",
+        "relevant_elements": ["3.7"]
+      },
+      {
+        "text": "changes in species composition ... changes in phenology ... increased pressure from non-native species, changes in predator/prey dynamics",
+        "location": "Adapting to a Changing Climate",
+        "relevant_elements": ["3.7", "1.3"]
+      },
+      {
+        "text": "The Midwest Landscape Initiative, using data from The Nature Conservancy, has mapped areas throughout the Midwest that are climate resilient... The map in Figure 13 shows the least resilient to the most resilient lands based on these data.",
+        "location": "Climate Case Study: Climate Resiliency and Management Planning",
+        "relevant_elements": ["4.1", "1.4", "2.4"]
+      },
+      {
+        "text": "Figure 13. Priority areas based on landscape diversity and connectedness (Midwest Conservation Blueprint).",
+        "location": "Climate Case Study: Climate Resiliency and Management Planning",
+        "relevant_elements": ["4.1"]
+      },
+      {
+        "text": "The KNWHA spatial layer was developed using the ND State Wildlife Action Plan Focus Areas, landscapes where unbroken grassland is ≥ 40% within a 4 square mile area",
+        "location": "KEY NATIVE WILDLIFE AND HABITAT AREAS",
+        "relevant_elements": ["4.1"]
+      },
+      {
+        "text": "a presentation from the North Central Climate Adaptation Science Center on incorporating climate change in the SWAP",
+        "location": "THREATS AND ACTIONS",
+        "relevant_elements": ["4.5"]
+      },
+      {
+        "text": "The NDGF identified adaptive management as being critical to the success of the SWAP and is best suited for selecting between or prioritizing management actions to address the identified threats or stressors.",
+        "location": "THREATS/STRESSORS",
+        "relevant_elements": ["4.3", "4.5"]
+      },
+      {
+        "text": "Adaptive management (Hollings 1987) is an iterative process to improve the speed with which we learn and incorporate that learning into management and planning.",
+        "location": "ADAPTIVE MANAGEMENT",
+        "relevant_elements": ["4.3", "4.5"]
+      },
+      {
+        "text": "The SWAP will undergo another revision in 2035, reinforcing its status as a living document that is routinely updated and adapts to changes and new information over time.",
+        "location": "Key components of the 2025 SWAP",
+        "relevant_elements": ["4.3"]
+      },
+      {
+        "text": "As SWG funded conservation actions are implemented, monitoring the effectiveness of the actions will be a requirement of each project. Each project will identify specific objectives, deliverables, and a plan, including the appropriate geographic scale, for how it will be monitored.",
+        "location": "MONITORING CONSERVATION ACTIONS",
+        "relevant_elements": ["4.3"]
+      },
+      {
+        "text": "This case study focuses on two grassland butterfly species regarded as Species of Greatest Conservation Need by North Dakota Game and Fish: the regal fritillary (Speyeria idalia) and Dakota skipper (Hesperia dacotae). We highlight the potential effects of climate change on these species and discuss scenario-based approaches to understanding and addressing potential effects.",
+        "location": "CLIMATE ADAPTATION CASE STUDY (butterflies)",
+        "relevant_elements": ["1.1", "2.2", "3.3", "4.5"]
+      },
+      {
+        "text": "When used within a formal decisionmaking framework, scenarios can help to assess how different management or conservation strategies, such as landscape-level planning, may perform under different conditions. But such analyses may also be useful in more informal ways. For example, scenario thinking could be used by managers to explore best-and worst-case futures and develop plans for how to respond to those futures.",
+        "location": "CLIMATE ADAPTATION CASE STUDY (butterflies)",
+        "relevant_elements": ["4.5", "4.2"]
+      },
+      {
+        "text": "Over the past two decades, nearly 75 SWG partner projects have been completed, encompassing all taxa and providing valuable research and conservation implementation based on the SWAP.",
+        "location": "COORDINATING WITH PARTNERS",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "In 2021, the Meadowlark Initiative Regional Conservation Partnership Program (RCPP) was approved by the USDA Natural Resources Conservation Service. Fourteen partner organizations have committed to combining their resources to leverage RCPP funding",
+        "location": "STATE WILDLIFE ACTION PLAN PARTNER SUCCESS STORY (Meadowlark Initiative)",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "The average annual federal apportionment the Department received from FY15-FY24 is $599,051 (Figure 1) and provided North Dakota with approximately $6 million in federal funding",
+        "location": "CHAPTER 1 INTRODUCTION",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "Coping with uncertainty about the future is a difficult task for scientists and managers alike. To address uncertainties when considering climate change, it may be especially useful to craft multiple divergent scenarios to explore what plausible futures might look like and then design management strategies around those scenarios",
+        "location": "CLIMATE ADAPTATION CASE STUDY (butterflies)",
+        "relevant_elements": ["4.5"]
+      },
+      {
+        "text": "our butterfly case studies suggest that local populations of two butterfly species in North Dakota could possibly disappear over time as the climate changes. Although grassland management will continue to be crucial for many species in the future, the specific species prioritized in the State Wildlife Action Plan may shift depending on the direction and magnitude of climate change.",
+        "location": "CLIMATE ADAPTATION CASE STUDY (butterflies)",
+        "relevant_elements": ["1.1", "4.2", "C2"]
+      },
+      {
+        "text": "Connecting the SGCN and SGIN to 10 of the MAFWA habitats plus the addition of 'badlands' habitat. Each species was assigned up to four (4) habitat associations",
+        "location": "SGCN and SGIN HABITAT ASSOCIATIONS",
+        "relevant_elements": ["3.3"]
+      },
+      {
+        "text": "From 1950 to 2010, the number of snow-cover days declined within the greater Northern Great Plains region (NCA5). Despite projected increases in wintertime precipitation (Figure 9), warmer temperature drives faster snow loss.",
+        "location": "A Changing Climate",
+        "relevant_elements": ["3.5"]
+      },
+      {
+        "text": "Classified as climate-endangered, Sharp-tailed Grouse is projected to lose more than half of its current distribution by 2050, with no net gains of new areas (Audubon).",
+        "location": "Sharp-tailed Grouse Tympanuchus phasianellus",
+        "relevant_elements": ["1.1", "C2"]
+      },
+      {
+        "text": "A lack of habitat corridors between outlying populations prevents interconnectivity among populations.",
+        "location": "Greater Prairie-Chicken (Threats)",
+        "relevant_elements": ["1.4"]
+      },
+      {
+        "text": "Create habitat corridors to connect isolated populations.",
+        "location": "Greater Prairie-Chicken (Management Recommendations)",
+        "relevant_elements": ["1.4", "4.2"]
+      },
+      {
+        "text": "Develop connectivity between quality habitats.",
+        "location": "Multiple invertebrate species accounts (Monarch Butterfly, Dakota Skipper, etc.)",
+        "relevant_elements": ["1.4", "4.2"]
+      },
+      {
+        "text": "Connectivity of Swift Fox to breeding populations in South Dakota and Montana is a threat to natural repopulation of suitable habitat in North Dakota.",
+        "location": "Swift Fox Vulpes velox",
+        "relevant_elements": ["1.4", "1.3"]
+      },
+      {
+        "text": "Identify habitat corridors and surrounding areas between habitat blocks for protection.",
+        "location": "Swift Fox Vulpes velox (Management Recommendations)",
+        "relevant_elements": ["1.4", "4.2"]
+      },
+      {
+        "text": "The recent translocation of sage-grouse from Wyoming to ND to augment the population was mostly unsuccessful.",
+        "location": "Greater Sage-Grouse (Research and Monitoring)",
+        "relevant_elements": ["4.4"]
+      },
+      {
+        "text": "NDGF fisheries staff recently reintroduced lake sturgeon to the Pembina River.",
+        "location": "Lake Sturgeon Acipenser fulvescens",
+        "relevant_elements": ["4.2", "4.4"]
+      },
+      {
+        "text": "The conservation actions identified in Tables 29 to 33 are either proven to be effective in North Dakota or represent practical solutions to help address the identified threats.",
+        "location": "THREATS/STRESSORS",
+        "relevant_elements": ["4.4"]
+      },
+      {
+        "text": "Manage riparian habitats to maintain snags, connecting corridors, and edges.",
+        "location": "Big Brown Bat (Management Recommendations)",
+        "relevant_elements": ["1.4"]
+      },
+      {
+        "text": "Limited habitat availability, land development, climate change, sedimentation, energy development, agricultural practices and habitat modification and inundation due to damming of river systems.",
+        "location": "Lachlania saskatchewanensis (Threats)",
+        "relevant_elements": ["3.5", "3.6"]
+      },
+      {
+        "text": "The analyses by Barnes et al (9) and Post van der Burg et al. (11) provide insights into how uncertainty can be harnessed to inform managers about potential futures.",
+        "location": "CLIMATE ADAPTATION CASE STUDY (butterflies)",
+        "relevant_elements": ["4.4", "4.5"]
+      }
+    ]
+  },
+  "concepts": {
+    "climate_vulnerability": {
+      "evaluable": true,
+      "score": 3,
+      "evidence": [
+        {
+          "text": "Climate change can impact fish, wildlife, and the habitats they depend on in significant ways: shifts in species ranges, changes in behavioral or morphological traits, shifts in phenology, changes in species composition, increased pressure from non-native species, changes in predator/prey dynamics, etc.",
+          "location": "Adapting to a Changing Climate",
+          "sub_component": "exposure",
+          "citations": []
+        },
+        {
+          "text": "Species with low adaptive capacity such as those with specialized habitat needs or limited dispersal ability face higher vulnerability to these changes.",
+          "location": "Adapting to a Changing Climate",
+          "sub_component": "adaptive capacity",
+          "citations": []
+        },
+        {
+          "text": "Classified as climate-endangered, Baird's Sparrow is projected to lose more than half of its current distribution by 2050, with no net gains of new areas (Audubon).",
+          "location": "Baird's Sparrow Centronyx bairdii",
+          "sub_component": "exposure",
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "adaptive_capacity_specificity": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Species with low adaptive capacity such as those with specialized habitat needs or limited dispersal ability face higher vulnerability to these changes.",
+          "location": "Adapting to a Changing Climate",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "This species does not have the ability to move great distance so suitable sites may be absent of Dakota Skipper from lack of immigration from other populations.",
+          "location": "Dakota Skipper (Threats)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "adaptive_capacity_components": {
+      "demography": {
+        "present": false,
+        "evidence": []
+      },
+      "distribution": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Their analysis showed that by the year 2100, most of the suitable habitat for Dakota skipper in the Northern Great Plains, including North Dakota, will be lost and shifted further north",
+            "location": "Effects of climate change on the distribution of Dakota skippers",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "movement": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Species with low adaptive capacity such as those with specialized habitat needs or limited dispersal ability face higher vulnerability to these changes.",
+            "location": "Adapting to a Changing Climate",
+            "sub_component": null,
+            "citations": []
+          },
+          {
+            "text": "This species does not have the ability to move great distance so suitable sites may be absent of Dakota Skipper from lack of immigration from other populations.",
+            "location": "Dakota Skipper (Threats)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "evolutionary_potential": {
+        "present": false,
+        "evidence": []
+      },
+      "ecological_dependencies": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Specialist pollinators with single host plant species... Cuckoo bees are kleptoparasitic and depend on other bee species to host their young. Declines of host species play a large role in the declines of cuckoo bees.",
+            "location": "Indiscriminate Cuckoo Bumble Bee (Threats)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "abiotic_niche": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "under a moderate warming scenario, regal fritillary distributions would be expected to shift northward... However, when considering more extreme climate warming scenarios, the habitat use of this butterfly is projected to steeply decline",
+            "location": "Effects of climate change on the distribution of regal fritillaries",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "life_history": {
+        "present": false,
+        "evidence": []
+      }
+    },
+    "connectivity": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Climate resiliency identifies lands and waters that can properly function under changing climate conditions. These areas are prioritized based on landscape diversity and connectedness. Components of the dataset include data from the resilient and connected network (RCN), recognized biodiversity values, connectivity and climate flow scores",
+          "location": "Climate Case Study: Climate Resiliency and Management Planning",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "provide habitat connectivity to ease species shifts",
+          "location": "RIVERS, STREAMS AND RIPARIAN THREATS AND ACTIONS (Table entry under 11.1 Ecosystem Encroachment)",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Area's that are most resilient are comprised of healthy native communities and restoring areas adjacent to these parcels can expand and/or connect these areas of refugia and will likely have much greater benefits than restorations done in areas surrounded by least resilient lands.",
+          "location": "Climate Case Study: Climate Resiliency and Management Planning",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    }
+  },
+  "tools": {
+    "vulnerability_models": {
+      "evaluable": true,
+      "score": 0,
+      "named_tools": [],
+      "evidence": [],
+      "absence_note": "The document does not reference CCVI, PVA, or other vulnerability assessment frameworks. Species accounts use Audubon's 'climate-threatened/climate-endangered' designations, but no formal vulnerability model framework (e.g., NatureServe CCVI) is referenced or applied to the focal species."
+    },
+    "niche_models": {
+      "evaluable": true,
+      "score": 2,
+      "named_tools": [],
+      "evidence": [
+        {
+          "text": "Barnes et al. (9) specifically modeled the influence of climate conditions on Dakota skipper habitat use. Their modeling efforts allowed them to map future distributions of the species under different climate change scenarios",
+          "location": "Effects of climate change on the distribution of Dakota skippers",
+          "sub_component": null,
+          "citations": ["Barnes et al. (9) / Barnes KW, Toso LB, Niemuth ND. 2024. Front. Ecol. Evol 12: 1304748."]
+        },
+        {
+          "text": "Climate envelopes were defined as the range of bioclimatic conditions that were associated with suitable Dakota skipper habitat. The green polygons show where suitable bioclimatic conditions occur assuming current conditions.",
+          "location": "Effects of climate change on the distribution of Dakota skippers",
+          "sub_component": null,
+          "citations": ["Barnes et al. (9)"]
+        },
+        {
+          "text": "Post van der Burg et al. (10) found that habitat use by regal fritillaries was controlled by the availability of grassland habitat and spring weather conditions. Therefore, under a moderate warming scenario, regal fritillary distributions would be expected to shift northward",
+          "location": "Effects of climate change on the distribution of regal fritillaries",
+          "sub_component": null,
+          "citations": ["Post van der Burg et al. (10)/(11)"]
+        }
+      ],
+      "absence_note": "No named SDM tools (MaxEnt, BIOCLIM, etc.) are explicitly identified, but the document substantively incorporates results of species distribution/climate envelope models applied to Dakota skipper and regal fritillary, two focal SGCN."
+    },
+    "climate_models": {
+      "evaluable": true,
+      "score": 2,
+      "named_tools": ["CMIP5", "GCMs"],
+      "evidence": [
+        {
+          "text": "A combination of 20 global circulation models CMIP5 (GCMs) for two emission scenarios (RCP4. 5 RCP 8.5) were used to select the representative potential climate futures",
+          "location": "Justification for Approach",
+          "sub_component": null,
+          "citations": ["Lawrence et al., 2021", "Miller et al., 2022"]
+        },
+        {
+          "text": "The time-period used for all climate projections is a mid-century planning period centered around 2055 (2040 -2069); this time period allows the incorporation of climate change into both short-term and long-term planning.",
+          "location": "Justification for Approach",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "These panels were created assuming a SSP2-4.5 warming scenario, which is regarded as a middle-of-the-road scenario in terms of warming.",
+          "location": "Effects of climate change on the distribution of Dakota skippers",
+          "sub_component": null,
+          "citations": ["Barnes et al. (9)"]
+        }
+      ],
+      "absence_note": {},
+      "time_horizon_years": [2055, 2100],
+      "emission_scenarios": ["RCP4.5", "RCP8.5", "SSP2-4.5"]
+    },
+    "connectivity_models": {
+      "evaluable": true,
+      "score": 2,
+      "named_tools": [],
+      "evidence": [
+        {
+          "text": "The Midwest Landscape Initiative, using data from The Nature Conservancy, has mapped areas throughout the Midwest that are climate resilient... Components of the dataset include data from the resilient and connected network (RCN), recognized biodiversity values, connectivity and climate flow scores, geophysical settings, landforms, landscape diversity values, local connectedness metrics, and terrestrial resilience scores.",
+          "location": "Climate Case Study: Climate Resiliency and Management Planning",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "The map in Figure 13 shows the least resilient to the most resilient lands based on these data. Using this information, land managers can make better decisions on where to prioritize restoration projects.",
+          "location": "Climate Case Study: Climate Resiliency and Management Planning",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "No specific named connectivity modeling software (CircuitScape, Linkage Mapper, etc.) is identified. However, the document applies outputs from the MLI's spatially explicit climate connectivity/resilience mapping (Midwest Conservation Blueprint, Resilient and Connected Network) to inform habitat prioritization decisions for the plan's focal subjects."
+    }
+  },
+  "context": {
+    "management_scale": {
+      "local": {
+        "present": false,
+        "evidence": []
+      },
+      "site": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "boundaries of specific Level IV ecoregions were selected and adjusted (digitized) based on existing native vegetation and key biological data, highlighting areas where the highest concentration of SGCN may occur. From that, 20 Focus Areas were developed",
+            "location": "ELEMENT 2 (SWAP Summary Template)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "watershed": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "coordinated watershed-scale conservation activities can mitigate the water level increases from climate change",
+            "location": "RIVERS, STREAMS AND RIPARIAN THREATS AND ACTIONS (Wetlands case study)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "city": {
+        "present": false,
+        "evidence": []
+      },
+      "county": {
+        "present": false,
+        "evidence": []
+      },
+      "within_state_region": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Twenty Focus Areas are identified in the 2025 SWAP (Figure 28). Wetlands are considered a key component within these Focus Areas where they are present.",
+            "location": "FOCUS AREAS",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "state": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The 2025 North Dakota State Wildlife Action Plan (SWAP) is a strategy to conserve fish, wildlife, and their habitats with a focus on preventing species from becoming endangered.",
+            "location": "EXECUTIVE SUMMARY",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "multistate": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Their analysis showed that by the year 2100, most of the suitable habitat for Dakota skipper in the Northern Great Plains, including North Dakota, will be lost and shifted further north",
+            "location": "Effects of climate change on the distribution of Dakota skippers",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "national": {
+        "present": false,
+        "evidence": []
+      },
+      "transnational": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Figure 1 shows that the regions where suitable climate conditions may exist in the future are mainly in central Canada.",
+            "location": "Effects of climate change on the distribution of Dakota skippers",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "This approach enhances the ability to address conservation needs at a broader, landscape level, ensuring that management actions are more effective and aligned with ecological realities.",
+            "location": "CHAPTER 4 HABITAT AND COMMUNITY TYPES",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecoregion": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The EPA's Level IV ecoregions served as the foundation for identifying these Focus Areas in the 2015 SWAP.",
+            "location": "FOCUS AREAS",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "province": {
+        "present": false,
+        "evidence": []
+      },
+      "section": {
+        "present": false,
+        "evidence": []
+      },
+      "subsection": {
+        "present": false,
+        "evidence": []
+      },
+      "lake": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "These historically semipermanent wetlands that have shifted to lakes are generally not being replaced by shifts in smaller wetlands, resulting in losses to this important wetland class.",
+            "location": "RIVERS, STREAMS AND RIPARIAN THREATS AND ACTIONS (Wetlands case study)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "river": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The Missouri River, the longest river in the United States... forms the largest river system in North Dakota.",
+            "location": "Missouri River System/Breaks (Focus Areas)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "district": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["Prairie Pothole Region", "Northern Great Plains", "Missouri River", "Red River", "Sheyenne River", "Turtle Mountains", "Pembina Hills", "Midwest Association of Fish and Wildlife Agencies (MAFWA) region", "Canada (central)"]
+    },
+    "biological_unit_score": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Climate change can impact fish, wildlife, and the habitats they depend on in significant ways: shifts in species ranges, changes in behavioral or morphological traits, shifts in phenology, changes in species composition",
+          "location": "Adapting to a Changing Climate",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Classified as climate-endangered, Baird's Sparrow is projected to lose more than half of its current distribution by 2050, with no net gains of new areas (Audubon).",
+          "location": "Baird's Sparrow Centronyx bairdii",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "biological_unit_components": {
+      "species": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Barnes et al. (9) specifically modeled the influence of climate conditions on Dakota skipper habitat use. Their modeling efforts allowed them to map future distributions of the species under different climate change scenarios",
+            "location": "Effects of climate change on the distribution of Dakota skippers",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "population": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "local populations of two butterfly species in North Dakota could possibly disappear over time as the climate changes.",
+            "location": "CLIMATE ADAPTATION CASE STUDY (butterflies)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "habitat": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Hydrologic shifts in wetlands of the PPR due to wetland consolidation and drainage, climate and land use changes (i.e. lakeification).",
+            "location": "Nelson's Sparrow Ammospiza nelsoni (Threats)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "changes in species composition ... increased pressure from non-native species, changes in predator/prey dynamics",
+            "location": "Adapting to a Changing Climate",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "community": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "changes in species composition ... changes in predator/prey dynamics",
+            "location": "Adapting to a Changing Climate",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "genotype_phenotype": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["Dakota skipper (Hesperia dacotae)", "regal fritillary (Speyeria idalia)", "Western Meadowlark", "Prairie Pothole wetlands", "grasslands", "wetlands", "riparian areas", "Baird's Sparrow", "Northern Harrier", "Sharp-tailed Grouse", "American Bittern"]
+    },
+    "partnerships_and_funding": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "In 2021, the Meadowlark Initiative Regional Conservation Partnership Program (RCPP) was approved by the USDA Natural Resources Conservation Service. Fourteen partner organizations have committed to combining their resources to leverage RCPP funding",
+          "location": "STATE WILDLIFE ACTION PLAN PARTNER SUCCESS STORY (Meadowlark Initiative)",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Over the past two decades, nearly 75 SWG partner projects have been completed, encompassing all taxa and providing valuable research and conservation implementation based on the SWAP.",
+          "location": "COORDINATING WITH PARTNERS",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "The average annual federal apportionment the Department received from FY15-FY24 is $599,051 (Figure 1) and provided North Dakota with approximately $6 million in federal funding (Figure 2) during that time frame.",
+          "location": "CHAPTER 1 INTRODUCTION",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_threat_habitat_degradation": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Flash droughts driven by warmer temperatures may increase in North Dakota. Heavier rainfall, combined with changes in land use and other factors is leading to increasing flood damage in the region (NCA5).",
+          "location": "A Changing Climate",
+          "sub_component": null,
+          "citations": ["NCA5"]
+        },
+        {
+          "text": "The climate has shifted to a wetter period in North Dakota, evident since the early 1990s. This wetter period has resulted in more surface water runoff into wetlands.",
+          "location": "RIVERS, STREAMS AND RIPARIAN THREATS AND ACTIONS (Wetlands case study)",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Hydrologic shifts in wetlands of the PPR due to wetland consolidation and drainage, climate and land use changes (i.e. lakeification).",
+          "location": "Nelson's Sparrow Ammospiza nelsoni (Threats)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_threat_species_vital_rates": {
+      "evaluable": true,
+      "score": 0,
+      "evidence": [],
+      "absence_note": "The document discusses climate as a threat to species distributions and habitats extensively, but does not make explicit 'climate event → vital rate impact' framings (e.g., mass mortality from heat, climate-caused reproductive failure). Indirect pathways (habitat loss → species decline) are discussed but not direct vital rate effects per the codebook definition."
+    },
+    "climate_threat_biotic_stressors": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Moreover, warming climate may bring new invasive species with growth patterns that overlap natives' to the region",
+          "location": "THREATS AND ACTIONS (Prescribed fire case study)",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Warming climate brings earlier springs and, when moisture is sufficient, extends plant growth later into the fall; plant and animal adjustments to these changes are species-specific and not always predictable.",
+          "location": "THREATS AND ACTIONS (Prescribed fire case study)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    }
+  },
+  "actions": {
+    "priority_habitat_identification": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "The map in Figure 13 shows the least resilient to the most resilient lands based on these data. Using this information, land managers can make better decisions on where to prioritize restoration projects.",
+          "location": "Climate Case Study: Climate Resiliency and Management Planning",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Area's that are most resilient are comprised of healthy native communities and restoring areas adjacent to these parcels can expand and/or connect these areas of refugia and will likely have much greater benefits than restorations done in areas surrounded by least resilient lands.",
+          "location": "Climate Case Study: Climate Resiliency and Management Planning",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "The KNWHA spatial layer was developed using the ND State Wildlife Action Plan Focus Areas, landscapes where unbroken grassland is ≥ 40% within a 4 square mile area, and landscapes where the accessibility for breeding duck pairs per square mile is greater than 60",
+          "location": "KEY NATIVE WILDLIFE AND HABITAT AREAS",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "targeted_range_shift_actions": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "provide habitat connectivity to ease species shifts",
+          "location": "RIVERS, STREAMS AND RIPARIAN THREATS AND ACTIONS (Table entry under 11.1 Ecosystem Encroachment)",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Area's that are most resilient are comprised of healthy native communities and restoring areas adjacent to these parcels can expand and/or connect these areas of refugia and will likely have much greater benefits than restorations done in areas surrounded by least resilient lands.",
+          "location": "Climate Case Study: Climate Resiliency and Management Planning",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "Structural facilitation (connectivity actions framed for climate-driven species shifts) qualifies. The grassland/forest/wetland threat tables also include 'provide habitat connectivity to ease species shifts' as a specific climate change action. No assisted migration or climate-motivated translocation actions are proposed for the SGCN (sage-grouse translocation was not climate-motivated; lake sturgeon reintroduction is recovery-framed)."
+    },
+    "time_bound_and_monitoring": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "The Department commits to a Major Revision of the SWAP in 2035.",
+          "location": "CHAPTER 7 REVIEWING THE STATE WILDLIFE ACTION PLAN",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "As SWG funded conservation actions are implemented, monitoring the effectiveness of the actions will be a requirement of each project. Each project will identify specific objectives, deliverables, and a plan, including the appropriate geographic scale, for how it will be monitored.",
+          "location": "MONITORING CONSERVATION ACTIONS",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The plan endorses adaptive management and effectiveness monitoring as principles, and commits to a 2035 revision, but action-level deadlines (specific milestones attached to individual conservation actions in the threat/action tables) are absent. The monitoring chapter describes a framework but does not operationalize specific deadlines for conservation actions. Score 1 is appropriate: the plan-level time-binding (2035 revision) exists, but action-level deadlines required for score 2 are not present."
+    },
+    "evidence_of_efficacy": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "The analyses by Barnes et al (9) and Post van der Burg et al. (11) provide insights into how uncertainty can be harnessed to inform managers about potential futures.",
+          "location": "CLIMATE ADAPTATION CASE STUDY (butterflies)",
+          "sub_component": null,
+          "citations": ["Barnes et al. 2024", "Post van der Burg et al. 2023/2025"]
+        },
+        {
+          "text": "The conservation actions identified in Tables 29 to 33 are either proven to be effective in North Dakota or represent practical solutions to help address the identified threats.",
+          "location": "THREATS/STRESSORS",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "The recent translocation of sage-grouse from Wyoming to ND to augment the population was mostly unsuccessful.",
+          "location": "Greater Sage-Grouse (Research and Monitoring)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The plan references academic studies supporting the case for concern about range shifts for specific SGCN, including published SDM work and case studies with published references. The sage-grouse translocation example provides direct evidence from a prior implementation. However, the studies referenced are primarily projective/diagnostic rather than testing conservation action efficacy — hence score 2 (limited evidence) rather than 3.",
+      "projects": ["Barnes et al. (2024) Dakota skipper distribution modeling under climate scenarios: This published study modeled how climate change would affect Dakota skipper habitat in the Northern Great Plains, providing spatially explicit projections of distribution loss and northward shift under SSP2-4.5 across three time periods. This constitutes limited evidence for climate-driven range shift management because it projects future suitable habitat but does not test conservation actions directly.", "Post van der Burg et al. (2023, 2025) regal fritillary habitat use modeling: Modeled the relationship between grassland availability, spring weather, and regal fritillary habitat use under RCP4.5 and RCP8.5 scenarios. Results informed understanding of how distributions might shift northward under moderate warming. Limited applicability evidence as it characterizes risk rather than testing management interventions.", "Greater Sage-Grouse translocation from Wyoming to North Dakota: Referenced in the plan as 'mostly unsuccessful,' providing a cautionary case study for direct manipulation (translocation) as a range-shift management action. This is a case-study-level evidence of limited efficacy for this specific action in this system."]
+    },
+    "adaptation_planning_frameworks": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "A climate change scenario planning approach was used to select a set of plausible yet contrasting future conditions that encompass the range of critical uncertainties for the climate variables of interest in North Dakota (Lawrence et al., 2021; Miller et al., 2022).",
+          "location": "Justification for Approach",
+          "sub_component": null,
+          "citations": ["Lawrence et al., 2021", "Miller et al., 2022"]
+        },
+        {
+          "text": "To address uncertainties when considering climate change, it may be especially useful to craft multiple divergent scenarios to explore what plausible futures might look like and then design management strategies around those scenarios",
+          "location": "CLIMATE ADAPTATION CASE STUDY (butterflies)",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "better information on the relative rate and magnitude of effects of changing landscape conditions across different watersheds could help to inform where an approach of resisting the loss of semipermanent wetlands may be possible, and where the impacts are great enough for resistance to be impractical so that an approach of accepting or even directing some areas to shift to interconnected lakes may be appropriate.",
+          "location": "RIVERS, STREAMS AND RIPARIAN THREATS AND ACTIONS (Wetlands case study)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The plan explicitly uses climate change scenario planning (CCSP) as its approach to climate uncertainty in Chapter 1's climate section, referencing Lawrence et al. (2021) and Miller et al. (2022). It also implicitly invokes a Resist-Accept-Direct (RAD) framework in the wetlands case study discussion without using the specific term. Adaptive management is framed specifically in the context of managing under climate change and uncertainty."
+    }
+  },
+  "coding_meta": {
+    "coder": "llm:claude-sonnet-4-6",
+    "model": "claude-sonnet-4-6",
+    "provider": "claude",
+    "codebook_version": "0.4",
+    "ingest": "text",
+    "design": "single",
+    "temperature": null,
+    "thinking": null,
+    "thinking_effort": null,
+    "coded_at": "2026-07-06T18:39:24Z",
+    "notes": {}
+  }
+}

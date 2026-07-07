@@ -1,0 +1,6236 @@
+===== DOCUMENT PART: MT_FAP-RA_2020.pdf =====
+
+## Statewide Assessment of Forest Conditions
+
+The purpose of the Statewide Assessment of Forest Conditions is to identify conditions and trends concerning state forest resources and highlight threats to forest lands and resources consistent with national priorities. The Montana Forest Action Advisory Council (MFAAC) has worked in earnest to identify components of this assessment with the objective of informing future cross-boundary actions. This document represents the work of MFAAC members and that of over 30 contributing authors from state, federal, and tribal governments, as well as other partners who conduct research on topics relevant to Montana's forests. 
+Assessment of Forest Conditions (Assessment)
+ aims to facilitate understanding and communication regarding conditions and issues common to all forest lands in Montana, with a primary focus on forest health and wildfire risk.
+
+## Montana's Statewide
+
+The Assessment opens with a general overview of information on the following topics deemed important by the MFAAC: climate change as it relates to Montana's forests; a brief history of Indigenous peoples and forests; a breakdown of Montana forest ownership; and a short background on forest-based collaboration and collaborative capacity. Following this introductory information, the Assessment covers six main topics: Forest Health; Wildfire Risk; Working Forests & Economies; Biodiversity & Habitat Conservation; Human Health & Community Considerations; and Urban & Community Forestry. The MFAAC and contributors have included information in these sections that is general enough to be applicable statewide yet specific enough to capture key information for understanding the scope and scale of issues facing Montana's forests.
+The general format for these six sections is as follows:
+> Introduction; > Current Conditions & Trends; > Issues, Threats, & Challenges that perpetuate current conditions and trends; > Opportunities to resolve issues, threats, and challenges; > Existing Strategies that take advantage of those opportunities to address issues, threats, and challenges; and > Data & Program Gaps that, if addressed, would help managers better understand or develop strategies.
+The information in this Assessment was key in driving the identification of Priority Areas for Focused Attention and in the development of the Statewide Forest Resource Strategies, and is summarized as key findings in the Montana Forest Action Plan.
+
+## Montana's Forested Landscapes
+
+Forests are one of Montana's most significant natural resources, covering over 23 million acres, or one-fourth of the state's total area. Montana has always been shaped by its forests. Whether it's the mixed conifer forests of the west or the predominant ponderosa pine and riparian cottonwood stands of the east, Montana's forested environments span the state, creating extensive and diverse landscapes that benefit Montana communities. Montana's forest lands hold great significance for the identities and economies of its residents, forming the foundations of people's livelihoods and providing the raw materials for industries that have built strong rural economies. These forests continue to shape Montana in new and emerging ways, and to this day, Montanans hold powerful personal, economic, and cultural connections to forests across the state. For some, forests are places of growth, exploration, and connection with family, friends, and communities. For others, they are the source of livelihoods, an opportunity for recreation, and a retreat from the urban landscape many Montanans live in.
+
+## Montana has over 23 million acres of forested land
+
+The subsequent pillars of the Assessment-Forest Conditions, Wildfire Risk, Working Forests & Economies, Biodiversity & Habitat Conservation, Human Health & Community Considerations, and Urban & Community Forestry-are all affected by climate change in various ways. Understanding current and future changes in climate is of critical importance to the state of Montana because of the potential effects on natural resources, the economy, and well-being. This section of the Assessment discusses climate change as it relates to Montana's forested landscapes and is a synthesis of findings from the Montana Climate Assessment 
+(Whitlock et al., 2017)
+.
+Given climate change's potential impacts on Montana's forests and communities, short and long-term planning efforts should focus on managing Montana's forests for future resiliency while reducing the threat of wildfire to communities and infrastructure.
+The Montana Climate Assessment is a peer-reviewed statewide assessment that provides scientific information on the current and projected effects of climate change on the state's water resources, agricultural industry, and forested lands. The following is a summarization of key messages from the Montana Climate Assessment:
+> From 1950-2015, annual average temperatures rose between 2-3 °F across
+Montana, approximately double the rate of the nation as a whole. > From 1950-2015, winter and spring average temperatures rose by 3.9 °F. > The growing season in Montana increased by 12 days from 1951-2010. > From 1951-2010, the number of warm days per year-where the maximum temperature rises above 90 °F-increased by 2% and the number of cool nights per year, based on historical conditions, decreased by 4.6%. > From 1950-2015, the "average winter precipitation has decreased by 0.9 inches" across the state and average spring precipitation has increased by 1.3-2 inches in the east. > Temperatures across the state are projected to increase by 
+4.5-6 °F by 2050 and by 5.6-9.8
+ °F by 2100, which is higher than projected for much of the country. > Daily temperatures are expected to rise above 90 °F more often across the state, especially in the east, and frost-free days are expected to increase across the state, especially in the west. > Precipitation is projected to decline in summer months, particularly in central and southern Montana, but increase in all other months, particularly in the south. > Snowpack is expected to continue to decline substantially.
+Scientists expect that climate change will likely have profound and lasting effects on Montana's forested landscapes. Past and current forest conditions, weather, climate, and site-specific ecological conditions-such as species composition, soils, nutrients, slope, aspect, and water availability-will all factor into determining the severity and types of effects across the state. Individual tree species will likely respond differently to various effects of climate change. At the same time, climate change will alter disturbance regimes, including fire and insect and disease outbreaks. Increased temperatures combined with historical fire suppression practices already extend the length of Montana's fire season by increasing the probability and severity of wildfires. Climate change will likely only further exacerbate these issues. Warmer winter temperatures will increase bark beetle survival. As extended periods of drought further stress trees, forests will be even more susceptible to bark beetle attack.
+Climate change will also affect the distribution of forests across the landscape; some tree species will expand their geographic ranges while others will contract. Due to the pace and magnitude of climate change, forest mortality may outpace any gains in forest growth, resulting in an overall loss of forested landscapes in Montana 
+(Whitlock et al., 2017)
+. Maintaining and managing forests as healthy ecosystems and preventing losses to conversion and uncharacteristic wildfire will become increasingly important into the future.
+The effects of climate change, however, may be more or less severe depending on how the landscape is managed and used. Managers are seeking to better understand climate change and build adaptive capacity into their management practices. With responsible management decisions, Montanans can help reduce the effects of climate change in Montana.
+
+## Photos courtesy of Amber Drysdale & USDA Forest Service
+
+## Indigenous Peoples & Forests
+
+The state of Montana is now 131 years old. Indigenous Peoples have lived in our valleys, mountains, prairies, and woodlands from at least the end of the last ice age-over 12,000 years ago. Over that vast period, native nations have developed profound understandings of forest ecosystems and what it means to live with them in healthy and sustainable ways.
+To better address the effects of climate change in Montana and achieve To better address the effects of climate change in Montana and achieve goals identified in the 2019 legislative session, Governor Bullock created the goals identified in the 2019 legislative session, Governor Bullock created the Climate Solutions Council. As of 2020, this council is currently working to: Climate Solutions Council. As of 2020, this council is currently working to: > > Make recommendations for achieving an interim goal of net greenhouse Make recommendations for achieving an interim goal of net greenhouse gas neutrality for average annual electric loads by no later than 2035 and gas neutrality for average annual electric loads by no later than 2035 and a goal of net-zero greenhouse gas emissions economy-wide at a date to a goal of net-zero greenhouse gas emissions economy-wide at a date to be determined by the council; be determined by the council; Where applicable, the Climate Solutions Council's findings will be Where applicable, the Climate Solutions Council's findings will be incorporated into the Montana Forest Action Plan. There has been ongoing incorporated into the Montana Forest Action Plan. There has been ongoing coordination between the work products and findings of the Climate coordination between the work products and findings of the Climate Solutions Council and the Montana Forest Action Advisory Council. Solutions Council and the Montana Forest Action Advisory Council.
+Climate change and its effects, as they pertain to specific forest concerns, are further addressed in the forthcoming sections.
+Governor Bullock stated in the 2019 executive order establishing the Montana Forest Action Advisory Council, "Montana's forests are culturally, biologically, and economically significant to Tribal Nations throughout the state." As we develop our action plan for Montana's forests, we would be wise to listen to and learn from the perspectives and experiences of the people who have been here from the beginning of human time.
+In doing so, we are acting in full accord with both Governor Bullock's vision, as well as numerous presidential directives regarding consultation with Tribal Nations, including President Bill Clinton's Executive Order 13175 
+(2000)
+, President George W. Bush's memorandum on "Government-to-Government Relationship with Tribal Governments" ( 
+2004
+), and President Barack Obama's "Memorandum on Tribal Consultation" (2009). 
+, 1996
+, (SQCC, 1996))
+.
+Within the state of Montana, there are eight federally recognized tribal nations, seven reservations, and twelve major tribes. Each has its own distinct culture, history, and language, and each can provide unique insights into the diverse forest types and their management. In all of Montana's disparate tribal cultures and histories, however, there are also certain shared aspects, many of which bear directly upon efforts to reassess forest management at the state level.
+In the traditions of all twelve tribes, the world we inhabit is a gift from the animals, spirits, and Creator. Human beings were given a good and bountiful environment, prepared for and entrusted to us, full of everything we need to sustain life. We were given clean waters and fine land, abundant in all the plants needed for food and medicine and and materials, and plentiful in animals and fish and and birds, who offered to be food or provide clothing or tools for us, the human-beings-yet-to-come.
+The diverse tribal relationships with forests all rest upon this shared foundation: a cultural imperative to remember that these are gifts that were given to human beings (Figure 
+1
+). We are therefore obligated to respect and care for them. The ethic of avoiding waste of the natural world and of ensuring its well-being for future generations is deeply woven into the fabric of all the tribal cultures of the region. Those cultural values of respect are reflected not only in creation stories and in ceremonial and spiritual practices, but also in many of the formally adopted policies and programs of modern tribal governments, including policies relating to forest management.
+For hundreds of generations, Indigenous Peoples in what is now Montana subsisted entirely or primarily by hunting, fishing, and gathering. They moved with the seasons and the fluctuating populations of animals and plants in a finely tuned seasonal cycle of life, which necessitated a highly-developed understanding of the region's ecology. Tribal people generally gathered enough food and medicine and material things for their own use, and sometimes a surplus to exchange with other groups, bands, or tribes. This was an economy based on subsistence needs and on tribalism as the organizing social system 
+(McNickle, 1993)
+. People conducted many activities communally for the collective needs and well-being of the community, and owned little personal property.
+There was no concept of land as something that could be owned or exchanged in a marketplace.
+
+## Tribal Relationships with Fire
+
+While tribal peoples generally lived lightly upon the land, usually working within the terms and limits of natural systems rather than forcefully transforming them, theirs was not a passive relationship with the environment. Tribes actively employed many tools to nurture and augment the foods and materials that were of importance to human life. The single most powerful of those tools-the tool that most expansively shaped our forests-was fire. All of Montana, both east and west of the Continental Divide, was shaped by fire, whether of natural origin or human-caused. But in many places, the latter was far more frequent. For thousands of years, much of the region, including both prairies and woodlands, was primarily shaped by the deliberate, purposeful, and careful application of fire by Indigenous people.
+Tribal nations treated the forests with fire for a variety of reasons and in many specific ways, each of them learned, honed, and perfected over their millennia of living in this place. Salish-Kalispel elders have described how the application of fire was a difficult, complicated, and dangerous task, one only learned through long experience, and entrusted to a person referred to as the sxwpaám, the one who makes fire, a person of high knowledge and training. The sxw paám and his assistants used fire in certain places, times of the year, and conditions. They did so for a variety of purposes. One objective was to create and maintain lowland forests in an open, park-like state dominated by old-growth ponderosa pine and larch. Through the centuries, these practices produced the cathedrallike groves of massive trees that were often noted by early Euro-Americans, most of whom did not realize that they were observing not just natural landscapes, but also cultural landscapes 
+(USDA FS, 1997)
+.
+Tribal people also used fire to revitalize important medicinal and food plants, such as camas and huckleberries. They applied fire to clear trails that had been blocked by downed trees and employed fire as part of their hunting practices. They often applied fire to the prairies and grasslands to ensure rich and productive grazing for bison and other ungulates, and in more recent centuries, for horses (Figure 
+2
+). As the elders remind us, the ancestors used fire not only to benefit human beings, but also to help the plants and animals for their own sake.
+
+## Huckleberries foraged near Columbia
+
+Falls / Photo by Amber Auld & courtesy of USDA Forest Service
+The Transformation of Montana's Forests
+The traditional use of fire, and Indigenous relationships with forests in a larger sense, were tied to a defining aspect of tribal life here. Because there was nothing approximating money or markets in tribal economies, Indigenous people and tribal economies directly engaged with natural resources to meet the spiritual and material needs of the people. Tribal relationships with animals-and with plants and forests-were and are defined by something that can perhaps be encapsulated by the word respect.
+Those relationships have always been imbued with a sense of spiritual gratitude and indebtedness, frequently renewed and reaffirmed in ceremony and prayer.
+The fur trade introduced a new set of relationships with Indigenous lands and resources.
+Traders and trappers treated beaver, bison, and other animals as commodities, killed not for direct subsistence or cultural needs, but to make money by shipping hides and meat to national and international markets. Driven by this new economic dynamic, trappers quickly decimated populations of fur-bearing species in entire drainage systems, where tribal people had until then coexisted with those animals for millennia 
+(Ott, 2003)
+.
+Once the railroads reached Montana in the 1880s, non-Indigenous people were able to apply this intensity of exploitation to other resources that had until then been protected by geographic barriers from the phenomena of commodification and marketization.
+The railroads enabled the transport of goods of virtually any quantity or weight. Now livestock, grain, ore, and trees were connected to the demands of a rapidly industrializing world. The railroads thus sparked the explosion of the agricultural, mining, and timber industries (Figure 
+3
+). It was at that point in our history, in short, that forests and trees became lumber, a commodity to be harvested and sold.
+In that process, Indigenous ways of life were rapidly pushed to the margins of Montana society. In the case of tribal management of forests, this meant the repression of the traditional use of fire and deforestation. A quarter century earlier, in the various treaty negotiations between native nations and the U.S. government, tribal leaders consistently sought to ensure the continuance not only of their political sovereignty, but also of their ways of life on and off designated reservations. The use of fire to manage landscapes was an important component of those ways of life and essential for maintaining the cultural ecologies that long sustained tribal people. But non-Indigenous people generally assumed that tribal fire practices, and the cultures of which they were a part, were "primitive" and at odds with "progress." In recent decades, researchers have assembled massive documentation of the ways in which Indigenous people used fire to shape the Northern Rockies and surrounding areas. The evidence comes from many sources and in many forms: tribal oral traditions; journals, letters, and reports of early trappers, traders, explorers, and missionaries; scientific studies of tree rings and soils; and the photographic record.
+The specific documentation to date is as varied as it is voluminous:
+> Recordings of tribal elders describing the traditional use of fire and the U.S. government's suppression of this practice beginning as early as the 1860s. > First-hand observations of early trappers, such as Peter Fiedler, who detailed Piegan use of fire on the buffalo prairies of Alberta in the 1790s. > Salish-upper Kalispel studies of fire-related place names across their aboriginal territories. > Tree-borings of old ponderosa stands in the Bitterroot Valley and studies of the frequent occurrence of fire, even in moist old-growth larch groves near Seeley Lake. > Eyewitness accounts from the Isaac Stevens expedition of tribal use of fire in the Coeur d'Alene Mountains in the 1850s. > Extensive archival records reflecting aggressive repression of tribal burning practices beginning with early Montana territorial governments 
+(Confederated Salish and Kootenai Tribes, 2006)
+.
+Site preparation for planting on the South Fork Road / Photo by Amanda Rollwage & courtesy of USDA FS
+As non-Indigenous governing capacity expanded, federal, state, and local officials increasingly repressed tribal burning of prairies and woods and-often at the same time-repressed off-reservation hunting 
+(Confederated Salish and Kootenai Tribes, 2006)
+.
+Tribal hunters and fire-keepers had always been honored and respected for their ability to harvest game and to burn the woods and prairies in ways that helped ensure the future productivity of the land. Suddenly, newly-established non-Indigenous authorities were arresting them for those same actions, now characterized as "depredations" (J. B. 
+Collins, personal communication, July 27, 1900)
+. At times, military or police units used lethal force to suppress the tribal use of fire. On December 21, 1875, for example, the Missoula Pioneer reported that 183 lodges of Pend d'Oreille (Qlispé or upper Kalispel) and allied tribes were hunting near the Canadian border when officers of the International line shot and killed two members of the party. They were killed neither for hunting nor for brandishing weapons. They were killed for setting fire to the prairie grass.
+After the completion of the railroads, non-Indigenous settlement grew dramatically, but tribal life-and tribal forest management-was changed at least as much by the sudden availability of trains to haul almost unlimited quantities of logs to Montana mines, distant cities, and other markets. The transformation of the forests into commodities fueled and intensified non-Indigenous friction with tribal parties trying to continue their fire management practices. Many of the richest timberlands were now owned directly by the Northern Pacific Railroad (NPRR), which Congress helped fund through the allocation of vast land grants 
+(Schwinden, 1950)
+. Over the course of the late 19th and early 20th centuries, the NPRR gradually inventoried the potential merchantable timber of its forests and logged them heavily, often running into conflict with tribal parties exercising their off- reservation rights to hunt-and also to burn. NPRR managers frequently enlisted federal and state officers to protect the railroad's interests against Indigenous hunting parties, despite the guaranteed rights delineated in duly ratified treaties. Even within reservations, federal officials began using their newly established systems of Indigenous police, judges, and jails to suppress the traditional use of fire 
+(Peter Ronan, personal communication, 1885)
+.
+During the last quarter of the 19th century, the United States forced many Indigenous people off of lands that the government had previously guaranteed to them, with actions including:
+> The 1880 executive order of President Rutherford B. Hayes, which drastically reduced the northern Montana reservation for the Gros Ventre, Piegan, Blood, Blackfeet, and River Crow tribes. > Congressional acts in 1882, 1891, and 1904 that greatly diminished the size of the Crow Reservation. > The government's forced removal of the Salish from the Bitterroot Valley in 1889-1891. > The government's taking of the "ceded strip" from the Blackfeet in 1895.
+Meanwhile, as the federal government developed its management of forests during this time, officials imposed increasing restrictions on tribal people entering public lands, as well as outright prohibitions on burning 
+(William H. Smead, personal communication, June 22, 1899)
+. All of these developments further reduced tribal use and management of Montana forests. Throughout Montana, Indigenous people resisted these pressures, and where possible, continued to use fire, even at the considerable risk of openly defying non-Indigenous authorities. Numerous studies have documented a consistent record of burning throughout the 19th century in those parts of western Montana where tribal people were able to maintain their traditional practices 
+(USDA FS, 1997)
+. In most areas, however, the increasingly widespread exclusion of Indigenous burning quickly resulted in the overgrowth of once open forests and the massive buildup of fine and woody fuels. By 1889, the year that Montana was granted statehood, the effects of the diminution of native burning over the previous two decades, combined with a massive drought and unusually high summer temperatures, resulted in forest fires raging across the Northern Rockies. By some estimates, the total burned acreage exceeded that of the Great Fire of 1910 
+(Peter Ronan, personal communication, July 1889)
+.
+But it was the 1910 fire-the Big Blowup, as it was called-that marked the culmination of the preceding half-century of dispossession and transformation, the end result of removing from the land both Indigenous people and Indigenous use of fire to manage the forests 
+(Pyne, 2001)
+. The 1910 fires burned most intensely over an area that was overlapping territories of the Salish, upper Kalispel, Coeur d'Alene, and Nez Perce nations. Fire historian Stephen Pyne has noted:
+As noted above, railroads had for decades played a decisive role in changing-in many cases, devastating-the region's forests. In July 1910, that pattern continued, as the newly completed Milwaukee Road literally lit the fuse. Along its tracks running through the northern Bitterroot Range and adjacent areas, the Milwaukee's coal-fired locomotives set off most of the initial fires, which over the following month gradually coalesced into the Big Burn 
+(Pyne, 2001)
+.
+The most lasting environmental change stemming from the Great Fire came not from the flames themselves, but from the subsequent reaction of the U.S. Forest Service and other federal agencies. The few non-Indigenous voices that questioned the wisdom of the preceding decades of exclusion of Indigenous burning were quickly silenced. The federal government not only doubled down on preventing tribal use of fire, but now created the infrastructure of active fire suppression, including a vast fire-fighting system of lookout towers, roads, supply lines, and command centers, all of it organized with military discipline.
+After 1910, professional foresters developed a nearly unanimous consensus that any forest fire, including "light burning," should be avoided as something wholly destructive and even morally evil. They came to define their primary responsibility as preventing fires from starting and putting them out immediately when they did 
+(Pyne, 2001)
+. In the following decades, the use of fire to manage the forests of the Northern Rockies was virtually eliminated, creating a vicious cycle of fuel buildup and devastating fires 
+(Confederated Salish and Kootenai Tribes, 2006)
+.
+In April 1935, the Chief Forester, Ferdinand Augustus Silcox, announced the "10 AM policy." In every national forest in the country, fires of any size, in any location, were to be controlled by 10 AM the following day. This directive would govern national fire policy for decades 
+(Pyne, 2001)
+.
+In the early 20th century, even the sovereign lands of Montana's Indigenous reservations were subjected to the paired policies of fire suppression and intensified timber operations. During this time, the power of tribal governments reached its nadir, especially after the General Allotment Act was passed by Congress, subjecting reservations to non-Indigenous settlement in violation of the treaties that originally established them. These were also the years prior to the 1934 Indian Reorganization Act (IRA), in which the federal government partially reversed its previous policies and began supporting the restoration of tribal sovereignty. From the 1890s to the 1930s, and especially after 1910, the federal government systematically sought to undermine the social and political power of chiefs and other traditional leaders within reservations, often establishing "business councils" comprised of tribal members selected by U.S. officials in the hope that they would be more amenable to the rapid development of a market system and the commodification of reservation resources. During this time, federal Indian agents or superintendents were free of any oversight as they developed corrupt deals with private business interests, often resulting in the devastation of tribal resources (Confederated Salish and Kootenai Tribes, "The winds riled old burns all over the region. But their main force smashed with particular power along the Bitterroots between [the] Pend Oreille 
+[River and lower Clark Fork River]
+ in the north and the Selway River in the south. Four great blotches of fire scoured out the landscape in roughly east-west swaths." 
+(Pyne, 2001
+(Pyne, ). 2006))
+. The pace and extent of logging on the Flathead Reservation is an illustrative case. 
+Between 1917 and
+1928
+, close to half a billion board feet of lumber was stripped from reservation lands by non-Indigenous companies (Figure 
+4
+). Some of the timber consisted of ponderosa pines so large that individual logs filled entire rail cars 
+(Confederated Salish and Kootenai Tribes, 2006)
+.
+Even after Franklin Roosevelt's New Deal began instituting greater accountability on reservations and rebuilding tribal governing capacities, the federal government in other ways continued and even intensified policies that had transformed Montana's forests over the preceding half century. Civilian Conservation Corps (CCC) programs in Indigenous country, for example, devoted significant resources to building the infrastructure necessary to suppress fires, as well as assembling fire-fighting crews comprised of tribal members. For many tribal families, the employment meant a great deal during the Great Depression; any concerns about the cultural and ecological changes stemming from the CCC initiatives were pushed to the background.
+
+## Tribal Nations & Forest Management
+
+Gradually, from the 1930s to the present, tribal nations throughout Montana have restrengthened their sovereignty and developed their governing capacities. They have been supported by additional federal laws and policies that expanded upon the IRA, including the Indian Self-Determination and Education Assistance 
+Act of 1975 (Public Law 93-638)
+. Many Indigenous communities have organized and funded efforts to document, protect, and revitalize their languages and cultural practices-including the use of fire to manage the land.
+Aftermath of the 1910 Big Blow Up fire in a forest stand near Coure d'Alene, Idaho / Library of Congress Throughout all of these efforts, tribal nations have helped lead a shift in perspective in American forestry and forest management that has taken root over the past quarter century. On the Flathead Reservation, this was demonstrated in 1995, when the Confederated Salish and Kootenai Tribes (CSKT) used Public Law 93-638 to take direct control of the reservation's forestry program from the Bureau of Indian Affairs. In May 2000, after many months of study and meetings involving a wide range of tribal members from professional foresters to traditional elders, the governing tribal council unanimously adopted a new forest management plan that in many ways stood as a revolutionary departure from previous policies 
+(Confederated Salish and Kootenai Tribes, 1999)
+. The new plan put a premium on the restoration of pre-European forest conditions, replacing commodity lumber production as the primary driving force. Its goal was a balance between what it called the needs of sensitive species and human uses of the forest.
+Where logging continued, it would now strive to mimic natural disturbances as much as possible. Once again fire would be returned to the landscape in a widespread, systematic fashion: Silvicultural treatments would be designed to reverse the effects of fire exclusion and undesirable forest practices of the past. The plan reestablished prescribed fire as a major tool.
+Tony Incashola, Director of the Séliš-Qlispé Culture Committee, articulated the larger purpose of CSKT control of the forestry program, and the new vision of the CSKT Forestry Plan:
+Both tribal histories and current tribal policies show us that a different path, a healthier and more sustainable relationship with our forests, is both possible and preferable. Certainly, the rapidly accelerating and worsening climate crisis will make this already difficult task far more difficult. We must do whatever we can to halt and reverse our contributions to global warming. For us to reach our goals, we will certainly need the full might of modern scientific inquiry and technological innovation. But as we consider the Indigenous history of woodlands in the area we now call Montana, it becomes clear that the change we need will also require a cultural shift. It will require us to take seriously the ways shown by the ancestors-to develop an approach defined by respect for the forests as living entities-and a more humble sense of our own place as human beings. 
+
+## Montana's Forest Ownership
+
+Forest management in Montana today is characterized by diverse land ownership, multiple uses and values for forest resources, and challenges related to balancing the needs of diverse economies and populations. Montana's forest owners include private industrial and non-industrial forest landowners, tribal nations, and local, state, and federal public land management agencies (Figure 
+5
+).
+Of the 23 million acres of forest in Montana, the majority (59%) is federally managed by the United States Forest Service, followed by non-industrial private ownership (19%), tribal ownership (5%), and other federal and state land managers (12%) (Figure 
+6
+).
+Private landowners may range from family tree farms to multi-purpose working forests to permanent or absentee residential tracts. Motivations for active management may be equally diverse, often in response to economic opportunity or need, or the immediate threat of wildfire or insect infestation. Similarly, federal and state land management agencies have differing and sometimes divergent missions that increase challenges to coordination in management.
+"We need to keep in mind as we go forward here to reintroduce fire, the reason we're doing it...to retain a culture, is to retain a way of life...look back to the mountains...Our religion is up there, our prayers. Everything that is as important to traditional people is there."
+
+## Forest Collaboration & Collaborative Capacity in Montana
+
+## Context of Forest Collaboration in Montana
+
+Montana has a long history of collaboratively managing its natural resources for public benefit. Many forests are managed with extensive input from official collaboratives or councils, and managers seek to uphold their agency missions with respect to forest resources through use of the best available science, adaptive management, and transparent public engagement processes. As forest managers seek to address forest health and wildland fire risk issues that are common across ownership boundaries, it is critical that federal, state, local, and tribal governments continue to establish more integrated approaches to leverage and prioritize investments in order to achieve the greatest impact on the landscape. Collaboration ensures local voices are heard, improves processes between local, state, and federal agencies, and leads to solutions that are supported by local citizens and best serve the unique needs of their landscapes (The Wilderness Society, 2014). In Montana and nationally, forest management was a contentious topic in the 1980s and 1990s. Many people thought that resource managers made management decisions based on a binary-either jobs or the environment. At the same time, people across the country grew frustrated with the pace and scale of work happening on publicly managed forests. They responded creatively by developing community-based collaborative groups. In Montana and elsewhere, the early 1990s marked the beginning of dialogue across forest management interests, leading to the formation of community-based watershed groups and forest councils. Word soon spread about groups who had successfully developed mutually agreed-upon approaches to managing public lands. Continuing into the next decade, more and more collaborative efforts formed around a shared commitment to the land. These communitybased efforts tend to approach forest and watershed management through a comprehensive lens of achieving ecological, social, and economic objectives.
+Community-based approaches to private and public land management have a long history in Montana, as evidenced by past cooperative management of drought, watersheds, weeds, wildlife, and forests. The Blackfoot Challenge and Madison Valley Ranchlands Group are just two examples of neighbors-including public land managers and private landownersworking together to achieve mutual benefit.
+At a statewide level, the Montana Forest Restoration Working Group was founded in 2007 to bring together people with diverse and historically conflicting perspectives to develop forest restoration principles 
+(Montana Forest Collaboration Network Principles, n.d.)
+. In its first year, the Montana Forest Restoration Working Group articulated a collective vision and set of principles for forest restoration on national forests in Montana. They also identifed collaboration as a preferred practice. Specifically, the seventh principle states:
+Community involvement and support enhances the ability to achieve restoration on the ground. Successful restoration seems to occur when there is a consensus-building, grassroots collaborative group whose mission is to coordinate efforts that enhance, conserve and protect natural resources and local lifestyles for present and future generations. Restoration efforts should be developed jointly by agency staff, community members, and other interested parties. This cooperation will lead to better and more productive outcomes, and the wide range of knowledge, opinions and interests will contribute to project design and implementation. Finally, landscape level approaches are more efficient and effective than smaller individual project efforts and should lead to increased quality of life and a greater sense of connection to the landscape.
+-Montana Forest Collaboration Committee Principles (n.d.)
+The Montana Forest Restoration Working Group decided to continue working together to implement those principles and changed their name to the Montana Forest Restoration Committee. The group expanded council membership and began a statewide effort to assist collaboratives, reformulating in 2016 as the Montana Forest Collaboration Network, and it exists today under that name.
+Ways collaboration can be supported, from The Wilderness Society's Collaboration at a Crossroads:
+Montana's political leadership can: > Support legislation in Congress that advances collaborative efforts.
+Congress needs to recognize the importance of collaborativelydeveloped solutions and ensure that these efforts receive top priority in legislation while creating new incentives for collaborative work. > Increase the proportion of Forest Service funding that is dedicated to implementing collaboratively-developed solutions and prioritize these efforts. The Collaborative Forest Landscape Restoration Program has delivered huge benefits to Montana through the Southwestern Crown Collaborative. Increased funding would enable other collaborative efforts to flourish as well. > Improve compliance requirements for collaboratively-developed projects. Some collaboratively-developed projects are not implemented because of the time and money it takes to analyze them.
+Improving the analysis process could help ensure that collaborative projects are implemented in a timely manner.
+
+## Citizens can:
+
+> Support local collaborative forest management efforts on the ground. > Urge elected officials to support collaboratively-developed proposals and encourage Montana's congressional delegation to recognize the importance of collaboratively-developed solutions and ensure that these efforts receive top priority in legislation.
+Smoky sunrise from the Howe Ridge Fire / Photo by Erika Williams & courtesy of USDA Forest Service
+Collaborative forest groups, specifically focusing on National Forest System lands, became much more visible in the 2000s in Montana. This growth is attributed to many factors, including:
+> The Montana Forest Collaboration Network's formation of forest-level committees (such as the Lolo and Bitterroot Restoration Committees); > The mutual desire between the Forest Service and partners to improve relationships (as in the Beaverhead-Deerlodge Working Group); and > Communities seeking to replicate the successes they see elsewhere.
+Grant and capacity support from organizations such as the National Forest Foundation have helped build relationships and organizational strength; this more readily allows collaborative groups to take advantage of opportunities like the Collaborative Forest Landscape Restoration 
+Program. This Program, launched in 2009
+, has been critical in supporting cross-boundary collaborative forest restoration and management. Examples of these projects include the Southwest Crown of the Continent Collaborative, and more recently, the Beaverhead-Deerlodge Working Group, which works within the Beaverhead-Deerlodge and Bitterroot National Forests.
+Beartooth Mountain. NPS / Jacob W. Frank
+
+## Capacity Needs
+
+The National Forest Foundation conducted a Collaborative Needs Assessment in 2014 in Forest Service Regions 1 and 4 (the Intermountain West), and found gaps in the following types of capacity: > Coordination and facilitation; > Increased technical capacity for GIS, landscape analysis and assessment, etc.; > Monitoring; > Landscape scale efforts; > Project specific support; and > Travel (collaborative members often cover their own travel costs to meetings).
+Collaborative groups in Montana tend to operate with very low budgets in order to sustain their efforts. While people are motivated to build partnerships and work collaboratively, support for coordination, communication, and neutral facilitation is lacking in many places.
+The state of Montana continues to invest funding for collaborative capacity through its Forests in Focus Initiative and through legislative appropriation. Other entities such as counties, the forest products industry, and conservation organizations also contribute funding to sustain collaboration.
+In 2015 the Montana Legislature began funding a Local Government Program that includes grant funds for counties and their collaborative groups to engage with federal land management. This funding, which supports local collaboration, has continued each year.
+Photo courtesy of USDA Forest Service
+
+## Forest Health
+
+Across the state, Montana has over 23 million acres of forested land-both within and outside of communities-which is critical to maintaining excellent air quality, a healthy drinking water supply, other beneficial water uses, important wildlife and fisheries habitat for a diverse range of species, soil health and conservation, outstanding recreational opportunities, and a wide array of wood products and services vital to a strong forest products economy.
+Over the past few decades, Montanans have experienced increased debate over use, management and protection of forest lands. These debates reflect the different values that individuals and groups place on forests and natural resources. Accordingly, Montanans also have different perspectives on forest health that are influenced by individual and cultural viewpoints, land management objectives, and spatial and temporal scales. There is no single metric or correct set of metrics of forest health. Rather, each seral-stage of a particular forest ecosystem type is characterized by different health conditions, with any meaningful definition of forest health incorporating the capacity for replacement within a time period of successional processes. It is with this in mind that the Montana Forest Action Advisory Council sets forth the following components of forest health rather than a single definition.
+With this in mind, the Montana Forest Action Advisory Council deemed it necessary to agree upon a description of forest health early on in the development of the Forest Action Plan. MFAAC's agreed upon description of forest health components is as follows:
+> Growth, structure, composition, and function representative of historical and natural ranges of variability, disturbance regimes, and forest dynamics considering forest type under conditions of projected future climate change; > Resilience against disturbance from fire, windthrow, insects and diseases, invasive species, drought, management, and impacts of climate change; > Diversity of tree species and age classes that support a diverse array of plants, animals, and microbes; and > Sustainable capacity to indefinitely and concurrently provide clean air and water, biodiversity, critical habitat, recreation opportunities, aesthetics, and forest products.
+
+## Forest Stand Conditions
+
+## Current Conditions & Trends
+
+## Forest Types & Stand Conditions
+
+Forest land trends for each region of the United States generally show stability throughout time, with the exception of the time period between initial European colonization and the first statistical inventories of the nation's forests. Although national forested acreage totals remain stable, changes have occurred at regional and local scales, often in dynamic ways not reflected by summed acreages. Local changes in Montana's forests over the past century include a wide range of disturbance patterns, intensities, and scales from wildfires and insect and disease outbreaks, and encroachment of conifers onto meadows and rangelands.
+Forest lands in the United States occupy approximately 766 million acres, or slightly more than one-third of the total U.S. land base. In Montana, more than 23 million acres out of the total 93-million-acre land base are forest lands, which is approximately one-fourth of the state's total area. These forested areas are found primarily in large contiguous blocks of federally managed forests in western Montana, but they are also found in state, tribal, or private ownership throughout all but the northeastern part of the state.
+Climate scientists predict that nationally and regionally, climatic extremes will drive biophysical changes in terrestrial and aquatic ecosystems as temperatures increase and precipitation becomes more variable. Predicting exactly where the impacts will occur is difficult, but scientists expect droughts of increasing frequency and magnitude 
+(Schoennagel et al., 2017)
+. These changes will likely promote an increase in wildfires, insect outbreaks, and impacts from nonnative species 
+(Halofsky et al., 2018)
+. These periodic disturbances can rapidly alter productivity and structure of vegetation, potentially altering the distribution and abundance of dominant plant species and animal habitat.
+The following data and information on Montana forest types, growth, and mortality is derived from the 
+USDA FS Rocky Mountain Research Station Montana Forest Resources 2006
+-2015
+ report. The report is compiled from the most recent Forest Inventory & Analysis data. The full report is located at 
+https://www.fs.usda.gov/treesearch/pubs/59034
+.
+Forest types described below are the most dominant types found in Montana (Figure 
+7
+). Other forest types, with only minor representation, are not described.
+The state's most abundant forest type is the Douglas-fir type, comprising 29% (7.5 million acres) of forested land in the state 
+(USDA, FS, 2019)
+. This ecosystem is characterized by a climax community of Douglas-fir alone or in codominance with Rocky Mountain juniper (Juniperus scopulorum), limber pine, ponderosa pine, western larch, grand fir (Abies grandis), Engelmann spruce (Picea engelmannii), subalpine fir (Abies lasiocarpa), aspen (Populus sp.), willows (Salix sp.), and lodgepole pine. Douglas-fir is well adapted to a variety of climatic conditions. It is also more shade tolerant, but less fire resistant, than some of its associated sub-climax species. Studies indicate that during the last 100-1500 years the Douglas-fir has increased, (Douglas-fir continued) particularly in the lower elevation and drier ponderosa pine sites.
+Additionally, it has invaded sagebrush grasslands due to fire suppression, selective logging, and climatic variation 
+(Steinberg, 2002)
+. A study by 
+Arno & Gruell in 1986
+ estimated that in the Galena Study Area near Butte, Montana, forested area increased from 48% in 1878 to 75% in 1984 
+(Steinberg, 2002)
+. Observations in forest composition change across different elevational ranges in the Bitterroot Mountains estimated that in the warm dry ponderosa pine zone, Douglas-fir increased from 19% in 1900 to 55% in 1995, while ponderosa pine decreased by about half 
+(Steinberg, 2002)
+. Western larch mesic mixed conifer forest type occupies about 930,000 acres in Montana (USDA, RMRS, 2019). Western larch was a dominant species in northwest Montana on mesic sites and the primary timber species during most of the 1900s. Western larch primarily occurs in mixed conifer forests. Associated species found with western larch include Douglas-fir, ponderosa pine, grand fir, western white pine, western hemlock, western red cedar, Engelmann spruce, subalpine fir, lodgepole pine, and mountain hemlock 
+(Scher, 2002)
+. Western larch composition has decreased through extensive logging and fire exclusion, and forest harvest during the early to mid-20th century removed many mature western larch that could survive fires and provide future seed sources (USDA FS, 2018). Fire exclusion in this forest type has led to increased tree density, altering surface fuel loads and potentially increasing fire severity (USDA FS, 2018). As 
+Arno (1998
+), Davis (1980
+), and Norum (1974)
+ have noted, continued fire exclusion will more than likely further the decline of western larch. Fire exclusion increases the density of other conifers on the site, creating fuel buildup that alters fire behavior and increases competition, which reduces tree vigor and creates greater susceptibility to insects and disease 
+(Davis et al., 2019)
+. 
+2018)
+, and it is a valuable timber species 
+(Griffith, 1992)
+. In addition to blister rust, other factors influencing the decline of western white pine are exclusion of fire, rapid succession to more shade-tolerant conifers, and the low level of blister rust resistance in the native western white pine population (USDA, FS, 2018).
+Riparian forest community type is found throughout Montana, often associated with streams, wetlands, and other aquatic habitats. These areas, influenced by shallow subterranean water, make up less than 4% of the state's landcover but are among the most important for providing seasonal and yearlong habitats for a broad diversity of wildlife species. Riparian areas support breeding, hiding, and thermal cover; nesting structure; a variety of food types; travel corridors; and a host of other ecological and societal values. The shade provided by tall shrubs and trees and the soil-holding value of extensive deep root systems associated with riparian vegetation are critical for providing cool, clean water and integral to providing stream and river channel integrity, which is critical for many fish species and other aquatic life. habitats, affecting 15 species of greatest conservation need, including federally-listed bull trout, pallid sturgeon, and white sturgeon. The integrity of riparian forests and associated aquatic habitats is also strongly influenced by the condition and management of adjacent uplands. For instance, controlling noxious weeds, providing soil cover, and managing grazing in a manner that sustains native vegetation all directly influence riparian habitats.
+
+## Growth & Mortality in Montana's Forests
+
+Forest Inventory and Analysis (FIA) plots are designated across multiple ownerships and are re-measured at periodic intervals. Measurement of these plots provides valuable coarse scale information of Montana's forests at a statewide level. The FIA group produces reports with analysis from the latest data available to the public at the time of the report. Montana's Forest Resources 2006-2015 (USDA, RMRS, 2019) reported that 2 million acres of Montana forest land was classified as "non-stocked" as a result of clear-cut harvesting or as "highly disturbed" by fire, disease, or insect outbreaks. The increase in large, high severity wildfires (as a result of climate change and fuel loading) is reflected in the increase in this forest condition classification.
+The report (USDA, RMRS, 2019) notes that high mortality offsets the live-tree growth gains, resulting in a net loss of growing stock on an annual basis. The following figures summarize average annual net volume of growth (Figure 
+8
+) and average annual volume of mortality by disturbance type (Figure 
+9
+). 
+Montana, 2006
+-2015
+(Witt et al., 2019)
+. Forest types, which are also known as forest cover types, are defined by dominant forest vegetation (species composition and density); these have shown reductions in early seral, shade-intolerant conifer species-for example, ponderosa pine, western larch, western white pine and lodgepole pine in some geographic areas-with a subsequent increase in late seral, shade-tolerant conifers-for example, Douglas-fir and true firs 
+(Keane et al., 2002)
+. This change in species composition is particularly evident in the warm dry forest types, which typically experience high frequency, low severity fire. Shifts in species composition are related to changes in natural disturbance processes, such as fire frequency and severity, along with the levels and frequency of insect infestation, past timber harvest practices, and introduction of non-native pathogens (e.g. white pine blister rust). Density of conifers has increased in some forest types, particularly the warm dry types 
+(Halofsky et al., 2018;
+Keane et al., 2002)
+.
+
+## Issues, Threats, & Challenges
+
+Structural stages (the way in which a stand of trees develops and grows, competes, and dies) have departed from NRV through a reduction in the amount of stand initiation and old forest types. The warm dry forest types are experiencing a reduction in the young forest, multi-story stage (USDA FS, 2014). Many forest types have a reduction from the NRV in medium, large, and/or very large trees along with large tree structure, depending on the species within a particular forest type 
+(USDA, 2014;
+USDA FS, 2015;
+Halofsky et al., 2018)
+. Additionally, changes in fire frequency have created greater homogeneity in age classes across the landscape, thereby reducing diversity in age classes.
+Patch density, structure and size (the number of patches per unit area) have shown changes from NRV. While patch size itself has decreased in many cases, patch size density has increased across many forest types. This is a generalization, as patch characteristics fluctuate over time depending on interactions between the vegetation, climate, and disturbance occurring 
+(Halofsky et al., 2018)
+. The increase in patch density and reduction in patch size compared with historic conditions is related primarily to changes in fire frequency and past management activities. Currently, many forest cover types and/or structural classes exhibit landscape patch sizes smaller than what has historically occurred (USDA FS, 2014). Some forest cover types, however, have larger patch sizes compared with historic conditions due to the decrease or lack of fire. These larger, more homogenous patch sizes increase the potential for large insect or disease infestations 
+(Keane et al., 2002)
+. With recent large fires occurring within the region, patch size is increasing in certain areas and may be moving closer to NRV in some forest types, thus reducing fragmentation of landscape cover (USDA FS, 2014).
+For more information on the current conditions of insects and disease and the extent of the impact on Montana's forests, please see the Insect & Disease section under Forest Health.
+
+## Climate Change Impacts
+
+The direct effects of climate change on forests include increased temperatures and shifts in precipitation. Together, these alter the humidity, soil moisture, and vegetative water stress. Among the greatest impacts is earlier occurance of snowmelt and increased frequency of drought. The 2017 Montana Climate Assessment's primary findings regarding climate change and Montana's forests are as follows:
+> Increased temperatures will have positive or negative effects on individual trees and forest-wideprocesses, depending on local site and stand conditions, but impacts from increased extremeheat will be negative; > Direct effects of climate change on individual trees will be driven by temperature in energy-limited forests and moisture in water-limited forests; and > The speed and magnitude of climate change may mean that increased forest mortality andcontractions in forest distribution will outpace any gains in forest growth and productivity overthe long run, leading to a net loss of forested area in Montana.
+Based on the results of statewide research efforts, Table 
+1
+ summarizes the effects of drought, fire, and insects and disease on different Montana tree species. Although rising temperatures will have variable effects on trees and forests across the state depending on site-specific conditions, extreme heat conditions will inevitably increase the impacts of wildfires.
+Climate scientists expect that a changing climate will have both direct effects (increased temperatures and changing precipitation) and indirect effects (shifting disturbance regimes) on Montana's forests. Increased temperatures and changing precipitation will affect forest establishment, regeneration, growth, productivity, and mortality. The overall effect is expected to be negative, particularly in areas vulnerable to increased temperature or decreased water availability. For a deeper discussion, see the Climate Change section.
+
+## Resource Availability & Capacity
+
+Currently, the scale of Montana's forest health issues far exceeds the state's management capacity to help create forests that are more resilient to wildfire, insects, disease, and a changing climate at a landscape scale. Management activities are rarely coordinated across jurisdictional boundaries to address these common issues. Although recent initiatives and authorities have helped facilitate better planning and management across boundaries, agencies still face significant barriers. More can be done to support formal coordination at the local level to ensure that interagency and cross-boundary work becomes a normal part of management. 
+
+## Retention of Montana's Forest Industry
+
+Montana is working to balance the need to sustain healthy forests with the need to maintain a vibrant forest products industry. Many Montanans understand the need to improve forest conditions, enhance recreational activities, improve wildlife habitat, reduce excessive fuel loads, and protect watersheds. Retaining a viable forest products industry is integral to the future of forest management in Montana. Restoring forests is not an inexpensive propositiontreatments for fuel reduction work range from $500 to several thousand dollars per acre. One of the ways to offset the high costs of these restoration treatments is by harvesting commercial timber. In some cases, the value of commercial timber can easily cover the cost of the entire project. At a minimum, net costs are reduced. This option, however, is dependent on having a purchaser for raw materials generated by forest management.
+Although there have been several recent mill closures in Montana and parts of the state are experiencing a decline, the state's remaining logging industry and milling infrastructure is largely still intact and integrated throughout the state. Montana's forest industry is integral to the ability to manage forests for many of the benefits they provide. For more information on working forests, please see the Working Forests & Economies section.
+
+## Opportunities
+
+Coordinating Forest Management Across Jurisdictional Boundaries Recent initiatives at the state and federal level aim to convene partners across Montana's complex forested ecosystems to improve forest health and wildfire risk and to increase collective capacity to carry out management and restoration objectives. Additionally, various improved policies and authorities have been developed that increase collective capacity and ability to work across boundaries.
+
+## Stewardship Program
+
+Non-industrial private forest lands-often referred to as "family forests" or "community forests"-are an essential piece of Montana's landscape and natural beauty. In addition to the profound ways they enrich the lives of their owners, these lands provide numerous public benefits including clean air and water, access to open space, recreational opportunities, timber supply, and habitat for abundant wildlife. Technical Assistance:
+The DNRC employs Service Foresters throughout the state who provide expert forestry knowledge to assist landowners in better understanding the forest and landscape systems to which their family and community forests belong.
+Service Foresters can help landowners to:
+> Develop a forest stewardship or management plan; > Plan and complete a timber sale; > Understand and comply with forest practices, laws, and rules; > Identify forest insects and disease and make treatment recommendations; and > Manage their forest to reduce the risk of wildfire.
+
+## Financial Assistance:
+
+Through a diverse network of partnerships and direct administration, the Stewardship Program offers periodic cost-share grant assistance throughout the state to help landowners manage their forests to:
+> Reduce the risk of uncharacteristic wildfires around communities, homes, and properties; > Maintain or improve water quality and watershed function; > Improve the health and resiliency of forest ecosystems; and > Improve critical fish and wildlife habitat.
+
+## Information & Education:
+
+The Stewardship Program provides information, resources, and educational opportunities to landowners, educators, students, and natural resource professionals through: > Educational workshops; > Forest stewardship plan development; > Experiential field days; and > Informational publications.
+
+## Existing Strategies
+
+## Outreach & Education
+
+An array of partners and programs offer a variety of presentations, workshops, and training sessions on the topic of forest health that target a range of audiences. Some recent efforts have included: Montana is home to one of the premier forestry programs in the nation. Established in 1907 as a ranger school and then as a forestry school in 1917, the University of Montana is home to one of the first SAF accredited forestry programs in the country. The experimental station, established in 1923, provides state-of-the-art research on forestry and forest productivity.
+
+## Surveillance of Forest Insects & Disease Outbreaks
+
+The Forest Health Protection (FHP) Program is a state-federal partnership providing technical and financial assistance services to all lands in Montana. Program field offices include specialists from a wide range of disciplines and sectors across academia, state and tribal governments, and the federal government. Key components of the proram include:
+> FHP personnel focus on the areas of entomology, plant pathology, weed biological control, pesticide use, survey and monitoring, technology development, and other forest health-related services; > Aerial detection surveys are an overview assessment designed to locate and document forest disturbance events caused by insects and disease as seen from the air. It allows trained specialists to survey large tracts of forested land in a relatively short period of time. Detection flights are covered in greater detail in the Insects & Disease section of the Assessment; and > Early detection allows managers to address outbreaks as they occur on the landscape.
+
+## Data & Program Gaps
+
+## Resource Constraints & Better Coordination
+
+> Given the magnitude of impacts from forest insects and disease as well as a centurylong alteration of natural processes, the scale of work that Montana's forests require far exceeds available resources. Prioritizing work across ownerships is an absolute necessity and will be critical to meaningfully addressing the condition of Montana's forests. Although recent initiatives and authorities help facilitate better planning and management across boundaries, there are some barriers or gaps in agencies' ability to employ those tools. Many agencies that have the ability to utilize new tools and authorities may not have capacity to actually put them to work. Additionally, many forestry professionals may not fully understand the suite of tools available to them or how to utilize those tools effectively. Lastly, while there are initiatives and authorities that facilitate cross-boundary work, there is a lack of formal coordination at the local level to ensure that this work becomes a normal part of doing business.
+
+## Need for Effective, Efficient Forest Monitoring & Assessment
+
+> For over 80 years, the Forest Inventory and Analysis program has reported on the status, condition, and trends of the nation's forests. As a central research component of the USDA Forest Service, FIA provides information that assists resource managers, policymakers, investors, and the general public in making informed decisions. > Experts predict that the demand for robust forest inventory and analysis will increase dramatically due to the following factors: expansion of the wildland urban interface, land conversion, an increase in wildland fire, and invasive species spread. > There are 15,854 permanent forest inventory plots in Montana and about 28% of these plots contain accessible forest land that will continue to be measured by field crews every 10 years (USDA FS, 2019). Maintenance and access to these plots will require an ongoing commitment of resources. > The need for rural-urban assessments of forests across Montana will increase dramatically as urban areas expand and issues such as land conversion, wildland fire, and invasive species spread become more important (USDA FS, 2018).
+
+## Data at the All-Lands Scale
+
+> To accurately and effectively manage Montana's forests, managers must have accurate and up-to-date geospatial information on forest conditions across all land ownerships. > Work is underway to integrate rural and urban forestry information across all ownerships in Montana. > Species composition shift with Montana forest types data would help inform where and how much change has occurred in an identified time period. Understanding species composition shifts within a certain temporal scale could inform understanding of landscape vegetation trends, potential future disturbance risks, and possible prioritization of restoration and cross-boundary projects.
+
+## Forest Soil Conditions
+
+## Current Conditions & Trends
+
+Soil quality and productivity is fundamental to forest health and exerts significant influence on stand conditions and overall ecosystem productivity. Soil quality is understood to mean a collection of soil physical and biochemical properties that sustain the native biodiversity, processes, and activity of soil biota and the proliferation of roots of forest species 
+(Doran et al., 1996;
+DeLuca et al., 2019)
+. Soil quality and ecosystem function are interrelated and combine to impact the range of soil properties and associated ecological processes that characterize forested systems in Montana 
+(Bisbing et al., 2010)
+. Soil formation, and hence its resulting morphology, composition, and function, is influenced by five primary variables, known as the "five factors of soil formation":
+1. Time (the age of the soil, time since deposition of the material in which the soil is forming); 2. Parent material (the geologic deposition in which soil is forming); 3. Topography; 4. Climate under which the soil formed; and 5. Biological organisms present 
+(Jenny, 1941)
+. Tree or stand growth can be used as an indicator of soil productivity and is a chief concern for forest managers 
+(Page-Dumroese et al., 2010)
+.
+Reflecting the range of conditions in the five factors outlined above, soils are highly variable and affect the composition and distribution of species, habitats, and plant communities across Montana. At least 700 soil types have been described statewide, which presents challenges in drawing generalized conclusions about soil health 
+(Montagne et al., 1982)
+. In general, soils in Montana's forested regions are rocky to loamy, reflective of steep, mountainous topography. Due to glaciation that persisted until approximately 15,000 years ago in northern and western Montana, soils in these regions are relatively young and poorly to lightly developed 
+(Montagne et al., 1982)
+. Overall, soils on leeward slopes tend to be better developed than windward slopes west of the Continental Divide, whereas soils in wetter areas tend to be more productive than those in drier areas, which is reflective of the accumulation of organic matter over long time periods 
+(Montagne et al., 1982)
+.
+
+## Issues, Threats, & Challenges
+
+Landscape changes or disturbances can alter soil quality and function, which have important consequences for forest health. In Montana, timber harvest activities and wildfire-in terms of both their intensity and extent-have had the greatest impact on soil quality. Many forest types in Montana, particularly low-elevation ponderosa pine, have historically experienced low-severity fire that promoted stands dominated by largediameter trees and diverse understory. Eliminating these low-intensity disturbances resulted in significant ecosystem changes, including alterations in soil chemical, physical, and biological characteristics (see the Wildfire Risk section for details). Heat generated during fire events oxidizes organic soil matter, altering the carbon and nitrogen availability, which in turn effects how readily the microbial organisms recover from fire events 
+(Choromanska & DeLuca, 2002)
+. Without fire as a regular disturbance, nutrients critical for tree and other plant growth become more limited 
+(DeLuca & Sala, 2006)
+. Despite the capacity of soil to act as an insulator against heat transfer, severe wildfires can be detrimental for soil health, burning so hot that they alter soil chemical composition, increase soil temperatures, increase erosion, and create a surface layer impermeable to water 
+(Page-Dumroese et al., 2010)
+.
+There has been a marked thickening of above-ground vegetation which intercepts precipitation, increases direct loss of moisture to the atmosphere, and interrupts the carbon and nitrogen cycles. Studies comparing low-intensity prescribed burns, thinning, and a combination of the two forestry prescriptions have demonstrated that fire increases nutrient availability, specifically nitrogen 
+(DeLuca & Zouhar, 2000;
+Choromanska & DeLuca, 2001)
+. A shortage of nitrogen limits native tree and understory plant growth, which further compromises the overall health of Montana's forests. Frequent fire increases inorganic nitrogen availability in the long term, which plays an important role for forests dependent on fire and their associated soils 
+(DeLuca & Sala, 2006)
+. Active forest management that utilizes various harvest prescriptions in conjunction with fire may improve soil productivity and better prepare forests to withstand wildfire events 
+(Choromanska & DeLuca, 2001)
+.
+Depending on the harvest strategy, harvest operations can result in soil compaction, soil loss via increased erosion, or complete removal of soil layers as a result of infrastructure development. Timber harvest can also impact organic matter and the quantity of woody debris left on a site, which decreases soil productivity by limiting nutrients 
+(Jurgensen et al. 1997
+). Although harvest activities can have negative impacts on soils, forestry practices have greatly advanced over time to minimize those impacts. Additionally, restoration treatments are important to reduce fuel loading and thereby decrease the likelihood of a catastrophic wildfire that would be detrimental to soils.
+Harvest surveys overlooking Ashley Lake / Photo by Erika Williams & courtesy of USDA Forest Service
+
+## Opportunities
+
+Soils represent the largest terrestrial body of carbon on earth and can act as a sink where carbon is stored 
+(DeLuca & Boisvenue, 2012)
+. Globally speaking, forest soils contain almost three times the carbon as the standing biomass (plants and trees). Therefore, maintaining healthy soils and avoiding the impacts that release carbon are of great importance not just for Montana, but for the global ecosystem 
+(DeLuca & Boisvenue, 2012)
+.
+Forestry Best Management Practices (BMPs) require practices to limit large-scale or intense disturbances that would alter soil stability, structure, and composition 
+(DNRC, 2015)
+. BMPs-aimed at minimizing impacts-include harvesting on frozen soils or skidding timber on beds of slash, and have been extremely successful in Montana, providing a framework for public and private landowners to responsibly steward their soil resources.
+In total, the voluntary Forestry BMPs support the protection of soil and water quality during logging operations. They educate and inform on log skidding, road construction design and maintenance, and overall forest management operations. BMPs originated in 1987 when the Montana Legislature passed House Joint Resolution 49. This led to the establishment of the Forestry BMP Working Group that developed Montana's first statewide forestry BMPs. The BMP Working Group continues to oversee the BMPs and adjusts them as needed to reflect new technologies, new information, or changes in harvest methods.
+
+## Insects and Diseases
+
+Insects and diseases play an important ecological role in Montana's forests, remaining largely unnoticed until populations build up to outbreak levels. Forests adapt to and evolve with insects and diseases, but have struggled to do so with current increased rates of large-scale outbreaks. During outbreaks, these organisms can cause notable widespread damage across the landscape. Outbreaks are commonly interrelated with climate, weather, fire, and forest conditions. While each specific insect or disease can be targeted as the damaging agent, the actual trigger of an outbreak is usually the underlying condition of the tree, such as competition amongst densely stocked trees, temperature and moisture stress, fire scorch, and wind or snow damage. Underlying conditions that favor insect and disease outbreaks are increasingly common across Montana forests 
+(USDA, 2015)
+, and the recent occurrences of mountain pine beetle, western spruce budworm, and root diseases can be linked to current forest composition and structure 
+(Agne et al., 2018)
+. weaken the tree and create a path for other organisms to infest the tree 
+(Edmunds Jr, 1973)
+. Although not currently a landscape scale concern, it may be a precursor to future ponderosa pine mortality in an increasingly drier climate.
+Root diseases are often overlooked when discussing forest conditions but nonetheless cause significant tree decline and mortality. More than 5.7 million acres across Montana and Idaho are currently infested with one or more root diseases, leading to an estimated loss of over 166 million cubic feet of timber per year (USDA FS, 2016). The main root diseases impacting Montana forests are Armillaria root disease (Armillaria spp.), Heterobasidion root disease (Heterobasidion irregulare), tomentosus root rot (Onnia tomentosa), laminated root rot (Coniferiporia sulphurascens), and schweinitzii root and butt rot (Phaeolus schweinitzii). Root diseases persist in the environment for decades and are difficult, if not impossible, to eradicate. Several factors contribute to root disease proliferation across the landscape. For example, fire suppression fosters a shift toward species that are highly susceptible to Armillaria root disease. The effects of root diseases are projected to increase substantially over the next 15 years, and as climate changes favor infection, the rate of tree mortality may be more than we currently understand (USDA FS, 2016; Figure 
+11
+). The prevailing recommendations are to promote tree species that are generally resistant to the disease.
+Dwarf mistletoes (Arceuthobium spp.) are a collection of native parasitic plants that draw energetic reserves from their host and can ultimately kill mature trees. These parasitic plants are often species-specific and commonly occur in western larch, Douglas-fir, lodgepole pine, and limber pine. Dwarf mistletoe plants alter the hormonal composition of the host tree and create brooms of dense, thick branches that can break from the tree or deplete the tree's energy reserves. These extremely dense and flammable brooms often ignite in a fire, causing flames that might otherwise be limited to the understory to spread into the tree crowns 
+(Kipfmueller & Baker, 1998)
+. The absence of fire can be indicated by the presence of large mistletoe brooms, particularly in Douglas-fir. Mistletoe seeds are ejected explosively from the fruiting plants, and can travel far enough to infect neighboring trees. Managing the spread of dwarf mistletoes is challenging, but can be done by removing heavily infected trees. 
+
+## 52
+
+White pine blister rust (Cronartium ribicola) was introduced from Europe in approximately 1900 and has since altered five-needle pine communities throughout North America. The disease causes a canker that girdles twigs, reduces cone production, and eventually kills the tree. Since its introduction, white pine blister rust has irreversibly altered 5-needle pine ecosystems across Montana landscapes. Five-needle pines are far-reaching and include the stately western white pine valued for its timber, whitebark pine essential for snowpack retention in high elevation forests, and limber pine that provides valuable wildlife habitat along the Rocky Mountain Front. Each of these species is an iconic component of Montana forests, and each of these species has been markedly damaged by white pine blister rust. Ongoing efforts aim to restore 5-needle pines that are genetically resistant to this ubiquitous disease, but habitats are changing swiftly as trees die or fail to regenerate.
+Mountain pine beetles also kill each of these tree species. In the cold, high altitude environments of whitebark pine, the mountain pine beetle would switch between a one and two-year life cycle. Recent and projected increasing temperatures may promote a switch to one-year life cycles, and thus enable beetles to develop within a single year and kill trees at an exponentially higher rate. Furthermore, the absence of fire has allowed subalpine fir to encroach into whitebark pine habitat and compete with whitebark pine seedling germination and survival. This suite of stressors has drastically hampered the long-term survival and function of whitebark pine in high elevation forest systems throughout its host range.
+Remnants of a whitebark pine in Glacier National Park / Photo courtesy of USDA Forest Service
+
+## Issues, Threats, & Challenges
+
+Climate change creates uncertainty about future conditions and will likely alter tree-insect interactions in various ways. Changes in moisture and temperature can impact trees' vigor and ability to defend against insects, whereas changes in climate may also alter insects' ability to survive. Trees typically defend against bark beetles by exuding resin that can expel the beetle from the tree. This defense mechanism requires adequate moisture and pressure to effectively flood out the attacking beetles, which is limited under drought conditions. Many secondary beetles can only attack trees with marginalized defense mechanisms. If future scenarios create tree stress on a broad landscape, these otherwise non-aggressive beetles may become increasingly common and destructive. Unfortunately, these secondary beetles are lesser known and management options are not as widely understood or available as for the most common bark beetles. Temperature strongly influences insect development, and warmer seasons may accelerate maturation, as could an extension of frost-free periods. Many diseases propagate in cool, moist conditions which could be increasingly common under certain climate scenarios, particularly wet spring seasons.
+Aerial detection surveys offer a snapshot of conditions, but accuracy can depend on individual surveyor style and skill. Timing of flights can also influence whether a condition is mapped if the organism has not yet done extensive damage. Defoliators, for example, can be active later in the season, so early season flights might not capture the damage. Trees infested with bark beetles do not usually show symptoms until one year after attack, creating a lag between infestation and detection. Root rot symptoms are not reliably visible in the tree crowns, making aerial flights to assess fungal infections ineffectual. Wilderness is not surveyed by the USDA FS Aerial Survey Program, therefore extensive tracts of Montana's forest lands are not assessed for insect and disease conditions. Of particular note is whitebark pine, which occupies high elevation regions that are typically classified as wilderness and not surveyed, leaving an entire species of tree underrepresented.
+Non-native invasive insects and diseases have the potential to severely alter the structure and function of Montana forests. Many of these pests can be unwittingly transported in untreated firewood. Out-of-state firewood transport is a primary pathway for invasive insects and diseases, primarily bark beetles and wood-boring insects.
+
+## Opportunities
+
+A great diversity of insects and disease are addressed by similar treatment methods: > Thin stands to increase sunlight and heat on the main bole of the tree; > Reduce stocking to minimize individual tree competition for light, water, and nutrients; and > Diversify age classes and species so that live trees remain in the stand following an outbreak on specific host tree species.
+The common management recommendation for fungal diseases is to promote tree species that are generally resistant to the diseases. This requires comprehensive vegetation management, planning, and foresight to shift species compositions away from climax and toward early seral species.
+> Larch and ponderosa pine are both relatively resistant to the most common root disease species, Armillaria sp. > Both species are early seral trees that thrive in conditions following fire. > Reduce the density of susceptible species and create openings in which to plant or promote the disease-resistant, early seral species. > New technologies and management tactics are continuously under development and worth incorporation into traditional approaches. > The Forest Pest Management Program hosts a diversity of research and technology development projects with the intent of further expanding forest management options.
+Prescribed fire is a proven means of reducing fuels and realigning disturbance regimes, and is also an effective means of managing insects and diseases.
+> Fire functions to reduce density of trees, and also serves to reduce deep duff layers that inhibit the germination of early seral species, such as larch and ponderosa pine, that are resistant to root diseases. > Prescribed burning treatments promote the regeneration and sprouting of aspen clones, which provide critical habitat for wildlife and create diverse patches of tree species amongst conifers and sage. > Whitebark and limber pine are not valued as timber species and are not widely mapped or assessed in the state. > Despite their low timber value, both species provide critical water regulation and wildlife habitat. > In Montana, the range of limber pine is quite extensive and comprises a significant amount of forest lands east of the Continental Divide. > Collaboration across agencies, research institutions, and private entities currently surveying whitebark and limber pine is necessary to further knowledge of these species' range. > Resources could be directed to support better understanding of the distribution and condition of such ecologically important and imperiled species. > Support for range-wide surveys and identification of individual trees that are genetically resistant to white pine blister rust are essential for the conservation of these imperiled species.
+
+## Existing Strategies
+
+The 
+
+## Data & Program Gaps
+
+> Whitebark and limber pine are important considerations when assessing Montana's forest conditions, however data on the status and distribution of these species is incomplete and does not exist as a continuous dataset. Support for range-wide surveys and identification of individual trees is essential for conservation of these species and to provide a more complete picture of forest health in Montana.
+> Root disease is comprised of multiple species and is a generally underrated driver of forest change, structure, composition, and function. > Diseases, particularly root diseases, are a somewhat underrepresented category of forest pests despite their tremendous impact on forest resources.
+> Surveying whitebark and limber pine forests for bark beetle outbreaks during statewide surveys could help inform managers about outbreaks on private land and wilderness areas, and how they may affect surrounding areas that are surveyed and managed for outbreaks.
+> These diseases can kill trees slowly, and subtly shift forests over the course of decades. > Furthermore, impacts are difficult to detect from aerial survey and are not consistently mapped from the ground.
+> The National Insect and Disease Risk Map (NIDRM) is a dataset developed by the Forest Service to model tree species risk due to insects, diseases, and other hazards.
+
+## Invasive Species
+
+Invasive species include those that have been introduced outside of their natural range and can cause significant harm to natural and cultural resources, the economy, or human health 
+(National Invasive Species Council, 2006)
+. They are found both on land (terrestrial) and in water (aquatic). It is important to note that not all non-native species are harmful. The term 'invasive' is reserved for those that are the most aggressive and pose threats to other species, economies, communities, and ways of life in Montana.
+> Confirmation of disease requires specific training and field time to diagnose. Symptoms are often masked by other organisms, such as Douglas-fir beetle, that attack weakened trees and appear to be the primary agent of malady, whereas root disease is the true cause of the trees' health decline. > A central database for root disease detections could effectively compile spatial data for root diseases throughout the state. These reports could be confirmed by experienced pathologists to validate the detections and enhance integrity of the data. > Current funding for the Forest Pest Management Program does not cover an entomologist/program coordinator along with a year-round technician and pathologist; DNRC does not currently have a pathologist on staff. > A year-round technician has been helpful in meeting field responsibilities along with conducting education and outreach programs, allowing the coordinator to focus on programmatic work. Nonetheless, pathology is a specialized discipline and requires expert staff as well.
+> NIDRM is based on suitable conditions and depends on assumptions made in the model along with the accuracy of vegetation condition layers. > Modeling data can be difficult and results misleading if the assumptions of the model are not accurately matched to the actual conditions observed.
+Cheatgrass, an invasive grass found across much of the western United States / Photo by Jennifer Strickland, U.S. Fish and Wildlife Service.
+DNRC plays many roles in invasive species prevention and management, including but not limited to forest pest management, aquatic invasive species grant administration, weed management on trust lands, and the oversight and staffing of two administrative attachments dedicated to invasive species mitigation: the Montana Invasive Species Council and the Upper Columbia Conservation Commission. Due to the multi-jurisdictional nature of invasive species, there is also an emphasis on coordination with many other agencies and entities that are involved in invasive species management.
+In Montana, DNRC works closely with the other state agencies that manage invasive species, which include: Invasive species are largely transported by humans, often inadvertently, by activities associated with shipping, travel, and trade. Weed seeds move easily in muddy boots, equipment, and vehicles. Some invasive plants are beautiful, which has led to an issue with ornamental plants being cultivated, as well as invasives being transported by nursery stock, potting mixes, wildflower seeds mixes, and even home décor from raw wood products. A number of insects and disease tree pests can move in firewood, pallets, or wood packing materials. While unintentional, these pathways have made Montana's waters, lands, and forests more vulnerable to invasive species introductions. For more information on Montana's forest pests, please see the Insects & Disease section.
+> Montana Department
+Invasive species are known for their adaptability, rapid reproduction, and lack of natural controls. This can severely impact native species, which have evolved without the influences and competition from the newly-introduced species. Globally, invasive species are considered to be one of the biggest threats to resource conservation and are the leading cause of biodiversity loss, second only to habitat loss 
+(Coblentz, 1990)
+. Some nonnative plants and animals have caused serious damage to Montana's natural resources as well as its economy. Economic losses and damages attributed to invasive species are estimated to be over $120 billion annually in the United States, which equates to approximately $1,100 per household 
+(Pimental et al., 2005)
+. Annual economic impacts of forest pests imported into the US range from $1.5-2 billion dollars per sector, which is a significant draw on limited resources from local and federal governments, homeowners, timber owners, mills, and others 
+(Lovett et al., 2016)
+.
+Forests under state and federal government jurisdiction belong to the public. Impairments to the health of these forests by invasive species can affect millions of people who benefit from the ecosystem services the forests provide, such as recreational opportunities, wildlife habitat, and water supplies.
+Thankfully, many of the invasive species that are causing problems in other areas of North America have not yet become established in Montana. However, some of these species, such as feral hogs and the emerald ash borer, could have devastating consequences on many ecosystems, including forested ecosystems, if they are detected. There are also some troubling trends at the landscape-level with emerging invasive plants that have recently been detected in Montana, such as medusahead and ventenata. These invasive plants can result in irreparable habitat degradation that includes forage competition with native grass species, decreasing vegetation diversity and productivity, and water quality impacts due to erosion. These invasive grasses also pose an increased danger for fire ignitions as ladder fuels. In order to protect critical natural resources, the state dedicates considerable funding not only for prevention but also control of invasive species when they are detected. For example, since the detection of invasive larval zebra and quagga mussels in 2016, Montana has more than doubled its annual spending for aquatic invasive species to protect critical freshwater resources and infrastructure. A zebra or quagga mussel infestation is estimated to cost the state of Montana up to $234 million annually, given their threat to water-dependent resources and industries. Prevention is a much more cost-effective way to manage invasive species than initiating expensive and oftentimes difficult control measures 
+(Nelson, 2019)
+.
+
+## Issues, Threats & Challenges
+
+The transport of new invasive species across jurisdictions is an issue for everyone. From boats being transported by private and commercial vehicles to firewood on RVs, logging and firefighting equipment, and hitchhikers in packing materials, the pathways are abundant. Public outreach has increased significantly to target travelers and recreationists about the importance of preventing the movement of invasive species. Targeting audiences associated with each pathway is paramount to reducing the likelihood of new introductions. Developing response plans with clear authority and funding mechanisms is also key. Some of the most severe emerging threats in Montana include forest pests. The Emerald Ash Borer An example of a threatening species new to Montana is the emerald ash borer. This is a non-native, invasive beetle that kills healthy ash trees. First detected in 2002 in Michigan, the emerald ash borer has now been identified in most of the United States, including along Montana's eastern border with South Dakota. Since initial detection, emerald ash borer has been the cause of mortality of millions of ash trees and has cost communities, property owners, nurseries, and the forest products industry billions of dollars. The costs associated with tree removal, protection, and replacement by private property owners can exceed $1 billion annually in urban areas, and if suburban trees are included, costs are estimated to double 
+(Kovacs, 2010)
+. This species is native to Asia and was introduced through wood packing material. The insect can be transported in nursery stock and firewood, both of which are commonly brought to Montana. Many communities and shelterbelts are planted with ash trees, along with extensive riparian corridors in the east. The emerald ash borer has the potential to drastically change Montana's communities and rivers by killing the trees that provide shade, erosion control, wildlife habitat, shelter, and aesthetics. It is estimated that ash trees comprise 30% of all trees planted in Montana communities. On its own, emerald ash borer is capable of moving less than four miles in a single year. But with help from humans, these beetles can cover vast distances as they are transported in firewood, nursery stock, packing material, or personal belongings 
+(DNRC, 2015)
+. For more information on the emerald ash borer, see the Urban & Community Forestry section.
+Other forest pests of concern that have not yet been detected within Montana's borders include the Asian longhorned beetle and the gypsy moth. The Asian longhorned beetle is a wood-boring insect that attacks a wide range of hardwood hosts including maple, elm, and willow. The gypsy moth feeds on a wider array of tree species, both conifer and hardwood. When estimating the potential value of urban trees that could be killed by the Asian longhorned beetle, assuming that the beetle will kill all the trees of its preferred host species, economic damages range from $72 million to $2.3 billion per city. This estimate only considers the impact to nine cities 
+(Nowak et al., 2001)
+. The gypsy moth is well established in the eastern United States, and its egg masses are notorious for being transported long distances via firewood. Detecting new invasive species comes with a fair number of challenges. There is a vast amount of land and water in Montana. Most people are not trained to identify invasive species, especially new species that pose threats to the state's land and water. Regular monitoring and surveillance is of the utmost importance, as eradicating a new invasive species is much more manageable if it is caught right away, which is referred to as 'early detection, rapid response.' Once a species is detected in the state or adjacent jurisdictions, it becomes much harder to keep it from spreading. Common pathways of spread include vehicles and equipment (for terrestrial plants) and boats and equipment used in water (for aquatic invasive species). Montana addresses the potential spread of invasives with education and outreach programs directed at the general public, as well as to more specific audiences that are more likely to inadvertently move invasive species from one location to another. Other mitigation measures include watercraft inspections, boot brushing stations, weed and AIS wash stations at wildfire camps, and in some high priority cases, establishing special rules to address the movement of invasive species.
+Managing invasive species across jurisdictions can be very difficult. Tribes, First Nations, foreign nations, and neighboring states often have their own regulations and priorities about invasive species, which may be different than adjacent lands. Therefore, coordination and communication through organizations such as local weed districts, Cooperative Weed Management Areas, the Montana Weed Control Association, MISC, and transboundary natural resource groups such as the Pacific Northwest Economic Region and the Crown Managers Partnership are critical to managing Montana's invasive species populations.
+
+## Feral Swine
+
+Feral swine are descendants of escaped or released domestic pigs. They are a dangerous, destructive, invasive species. Feral swine damage crops, pastures, and plant and tree communities by consumption, rooting, trampling, rubbing, or wallowing behaviors. They can transmit pathogens to livestock; compete with native wildlife for food, habitat and water; and spread invasive species. They increase erosion along riparian areas, inhibit water filtration, and contaminate water sources, resulting in an increased disease risk for humans, wildlife, and livestock. Their rooting behaviors disturb soils and can increase the presence of invasive exotic plants 
+(Singer et al., 1984)
+. Some studies have also linked feral swine to reduced tree recruitment, growth, stem density, and species richness (Garcia- 
+Barrios & Ballaria, 2012)
+. They are established in Alberta and Saskatchewan, but have not yet been detected in Montana. The state is currently trying to work with the Canadian provinces to increase monitoring, public awareness, and management options. Climate change is aiding the spread of invasive species. Two key drivers of biodiversity loss today are climate change and invasive species. Acting together, the impacts of each of these drivers of change are compounded, and interactions between these two threats present event greater challenges to conservationists and managers alike.
+Invasive species are capable of relatively rapid genetic change, enhancing their ability to invade new areas in response to anthropogenic ecosystem modification. Predictions suggest that range expansions by many invasive plant populations are in the process of developing adaptations that could lead to exponential population growth in the near future 
+(Clements & Dittommaso, 2011)
+. Warmer water temperatures, reduced ice cover, altered flow regimes, increased salinization, and the need for more reservoirs and canals will remove filters that currently limit the geographic range and local abundance of many invasive species 
+(Burgiel & Muir, 2010)
+. Many of the management strategies are those already recommended for protecting biodiversity and managing natural resources: prevention is the best strategy for addressing invasive species in the face of climate change.
+The invasion curve demonstrates that eradication of an invasive species becomes less likely and control costs increase as an invasive species spreads over time (Figure 
+12
+). Prevention is the most cost-effective solution, followed by eradication. If a species is not detected and eradicated early on, high-dollar long-term control efforts will be unavoidable 
+(Harvey & Mazzotti, 2014)
+. 
+
+## Opportunities
+
+Expanding early detection and rapid response programs can minimize new invasive species outbreaks. Opportunities for improvement include: > Regular monitoring for invasive species presence across all taxa and habitatsforest, public and private lands, riparian areas, and waterbodies. > Utilizing technology, which has made early detection and citizen science much easier over the years with the development of easily downloaded apps for identifying and reporting invasive species. > Leveraging and supporting citizen science efforts such as EDDMapS, Wildspotter, and FWP's AIS monitoring app are some ways that Montana programs are currently utilizing technology for citizen science opportunities. > Research and development have brought new monitoring methods, such as environmental DNA (eDNA) analysis, for a less labor-intensive detection of invasive species. > There are many opportunities when it comes to increasing success with early detection and citizen science, and no doubt more to come in the future.
+> As living organisms move through their environment, they shed genetic material in the form of DNA. > This material lingers, providing insight into the past and present of the animals that left it behind. > This type of sampling allows genetic material to be obtained directly from environmental samples without any obvious signs of biological source materials. > Recently, eDNA has been utilized to detect rare or invasive species and pathogens in a broad range of environments.
+
+## 67
+
+Montana agencies use a variety of tools for citizen science and reporting, including:
+> The Montana Natural Heritage Program has added invasive species to their field guides and maps. > Response planning is essential to invasive species management. > To effectively prevent new introductions of invasive species, it is imperative that the state has authority in the form of statutes, laws, rules, and policies. > These usually include a list of prohibited species that aren't allowed to be imported into the state without a permit issued by the authorizing agency. > The law is not enough: to prevent invasive species importation, industries that regularly import wildlife, plants, and forest products (such as pet stores and nurseries) must be aware of legally prohibited species. > For the explicit purpose of preventing new introductions of forest pests, it is against US law to bring any untreated firewood for personal use (including hardwood and softwood/conifer) from Canada into the US.
+
+## Existing Strategies
+
+Many agencies and partners conduct the management of invasive species in Montana. This management involves policy, legislation, education and outreach, monitoring and reporting, response planning, and prevention. Depending on the taxa, location, and specific situation, there may be multiple agencies, partners, and stakeholders involved. In order to be successful, these programs cannot exist in a vacuum; they must be collaborative, communicative, and proactive. Montana has a long history of invasive species management and has many existing strategies for the prevention and management of invasive species. 
+
+## Prevention
+
+One of the most vital components of invasive species prevention is public outreach and education. This is done in a variety of ways, but predominately through the use of campaigns that target audiences with displays and booths at events, campgrounds, travel centers, boat launches, and other locations, as well as via social media, TV, radio, and print media.
+There are a myriad of active state, regional, national, and international invasive species campaigns in Montana. Each campaign targets specific categories of invasive species as well as specific audiences that are either at risk of being impacted by a species or known to be a pathway. Examples include: 
+> 'Clean
+
+## Develop Coordinated Prevention Programs
+
+> Identify potentially invasive species from outside of the state and country. > Support more thorough border inspections. > Provide accountability throughout transport using a permit system that identifies potential invasive plants and prevents sales of invasive and noxious species. > Ensure that wholesalers and retailers are fully aware of import restrictions, proper identification of plants, and where to report suspect invasive species. > Require all projects promoting non-native species for forage, revegetation, erosion control, and similar projects to screen species and cultivars for invasiveness prior to use. > Include enforcement and controls, coupled with adequate education, from importation to the end-user. > Adequately document the impacts of invasive plant species on the economics and environment of the United States.
+
+## Increase Education & Public Awareness
+
+> At the national level, expand media coverage and target social awareness of the threat of invasive weeds as biological pollutants in the urban sector. > Improve educational programs within the nursery industry and among users of areas threatened by invasive plants. > Provide funding for increased support of educational programs, including a comprehensive K-12 education curriculum. > Improve detection and reporting systems by developing an easily recognized central rapid response center for reporting new invasive weed populations. > Use the most effective current state programs as models to encourage regional and national programs. > Develop and implement additional integrated approaches to management, including chemical control methods, that are consistent across political boundaries and can be implemented regionally. > Develop restoration programs that encourage the use of beneficial species in areas of infestation. > Develop consistent regional and area-wide management programs that encourage cooperation among land managers and landowners and include a "strike force" operation to stop incipient infestations. 
+
+## Wildfire Risk
+
+## Wildfire in Montana
+
+Montana's landscape is shaped by fire, whether of natural origin or human-caused. For thousands of years, much of the region was primarily shaped by the deliberate, purposeful, and careful application of fire by Indigenous peoples, on both grasslands and forests. Many wildlands are historically adapted to periodic disturbances by fire, and fire is a necessary process for ecosystem management and restoration ecology 
+(Calkin et al., 2013;
+Neary & Leonard, 2015)
+. Fires cover a spectrum of conditions from low severity localized prescribed fires to landscape-scale high severity wildfires 
+(Neary & Leonard, 2015)
+.
+Though fires played a critical role in shaping the landscape, uncharacteristic wildfires now pose an extreme threat to communities, critical infrastructure, and millions of acres of forest lands and grasslands across Montana. The cumulative impacts of past fire suppression policies, climate change, insect and disease outbreaks, drought, and development within or adjacent to fire-prone ecosystems have created a landscape that is more susceptible to large and destructive wildfires 
+(Calkin et al., 2013;
+USDA, 2019)
+. Since 2009, on average, suppressing wildfires on state and private land in Montana has cost $20.4 million per year (DNRC, 2019). Similar to other states throughout the west, Montana's wildfire seasons are becoming longer and more severe, and over 85% of Montana's forests are at elevated risk of wildfire 
+(Keegan et al., 2003;
+Freeborn et al., 2016;
+Abatzoglou & Williams, 2016;
+Holden et al., 2018;
+Covington & Moore, 1994;
+Pollet & Omi, 2002)
+. The risk of wildfire to lives, property, and natural resources is a growing crisis in Montana, and minimizing its destructive effects will require a comprehensive approach to community protection and forest management.
+
+## History of Wildfire Protection in Montana
+
+For hundreds of generations, Indigenous peoples managed Montana's forests-particularly the lower-elevation forests dominated by ponderosa pine and western larch-with the deliberate, frequent, highly knowledgeable use of fire. The burns were usually low intensity, clearing undergrowth but leaving intact the larger trees. Indigenous people applied fire at specific times and places, with many objectives: nurturing certain plants of value for food or medicine, providing more forage for deer and elk, making travel easier, and other reasons 
+(Confederated Salish and Kootenai Tribes, 2006)
+.
+Surveying the Condon Fire / Photo by Erika Williams & courtesy of USDA Forest Service
+Prior to statehood, the Territory of Montana enacted strongly worded laws for the protection of timber from wildfire. In 1909, the Montana Legislature created the Office of the State Forester, and part of the state forester's duty was to take authorized action to prevent and extinguish brush and grass fires. In the early days, the state carried out its fire protection responsibilities through a system of ex officio fire wardens. 
+
+## Fighting Wildfire on Federal Lands
+
+Five federal agencies, including the Department of the Interior's Bureau of Land Management, Bureau of Indian Affairs, National Park Service, and U.S. Fish and Wildlife Service, along with the Department of Agriculture's Forest Service manage and maintain the primary fire protection responsibilities on more than 30 million acres in Montana.
+Figure 
+13
+. Fire protection boundaries by land owner (DNRC, 2020).
+On federal lands in Montana, the federal governing agency is responsible for fire protection, while all state and private lands are the responsibility of DNRC and the state's county cooperators, as authorized by state law (Figure 
+13
+). DNRC's Fire Protection Program directly protects 5.2 million acres of state, federal (through the exchange of protection), and private lands and assists all 56 cooperating counties when fires exceed their capabilities on over 45 million acres of state and private lands.
+Montana, in keeping with other states and geographic areas, follows the vision and goals from the National Cohesive Wildland Fire Management Strategy. The primary national goals as identified in the Cohesive Strategy are:
+> Restore and Maintain Landscapes: Landscapes across all jurisdictions are resilient to fire related disturbances in accordance with management objectives; > Fire-adapted Communities: Human populations and critical infrastructure can withstand a wildfire without loss of life and property; and > Wildfire Response: All jurisdictions participate in making and implementing safe, effective, and efficient risk-based wildfire management decisions.
+
+## The Mission of the DNRC Fire Protection Program
+
+"We protect lives, property, and natural resources from wildfire by providing safe and effective services to Montana's citizens as well as leadership, coordination, and resources to the state's wildfire organizations."
+Montana state law establishes DNRC's primary wildfire protection responsibility as the duty to ensure the protection of land under state and private ownership and to suppress wildfires on land under state and private ownership (76-13-104, Montana Code Annotated). Montana law also provides for the delivery of local government fire protection services through various jurisdictional delivery models. County governing bodies are authorized under state statute (7-33-2201, MCA) to organize rural fire protection for the protection and conservation of range, farm, and forest resources within their jurisdictional boundaries. Counties fulfill this statutory authority by establishing a basic level of fire protection through a system of volunteers and county personnel from rural fire districts, fire service areas, and volunteer fire companies. Typically, these local fire protection services are formed to provide a higher level of fire protection and emergency response to their jurisdictional area (i.e. structure fires, emergency medical services, and search and rescue). As of 1997, all 56 counties in Montana have entered the County Coop arrangement with the DNRC. This enables the state to provide organizational and planning assistance, equipment, training, and direct fire control assistance to the counties in exchange for protection, by the counties, for those lands that are not under the umbrella of a recognized fire protection agency.
+
+## Wildfire Protection Roles & Responsibilities
+
+Wildfire protection agencies have different responsibilities and mandates for wildfire management:
+> DNRC is required by state law to suppress all wildfires on land under state and private ownership and employs aggressive initial attack on wildland fire starts within its protection. > Federal agencies are predominantly responsible for fire protection on land that they directly manage. In these areas, the federal agencies consider the full range of strategic and tactical options available in response to every fire based on guiding principles for Federal Wildland Fire Management Policy 
+(NIFC, 2009)
+. Federal suppression responses can range from aggressive direct attack to long term monitoring. > In order to achieve operational efficiencies, DNRC and federal agencies 'off-set' 1.7 million acres of fire protection, meaning federal agencies protect state and private land and DNRC protects an equivalent amount of federal land. > Federal policy also recognizes the importance of using the best available science, ensuring that response risks and costs are commensurate with values at risk, and close coordination and cooperation with partners. > All wildfire protection agencies prioritize firefighter and public safety along with coordination and cooperation with other responding agencies.
+
+## Current Conditions & Trends
+
+## Fire Ecology & Fire Regime
+
+In many ways, fire is both predictable and uncertain. Wildfires can have variable impacts over time and across landscapes, and it is an integral component of wildland ecosystems that affects vegetation, soils, water, fauna, air, and cultural resources 
+(Neary & Leonard, 2015)
+. Fire is a critical component of forest processes and has historically been the dominant disturbance in the western United States 
+(Baker, 2009;
+Marlon et al., 2012;
+USDA, 2019)
+. Fires do not move evenly through landscapes, so the resulting mosaic pattern of burned and unburned vegetation creates a mixed diversity of species that support a wide variety of plant and animal species (USDI NPS, 2015).
+A fire regime is commonly defined as the general character of a fire that occurs within a particular vegetation type or ecosystem across long successional time frames, typically centuries. The fire regime describes the typical fire severity that occurs, but it is recognized that, on occasion, fires of greater or lesser severity also can occur. The fire regime concept is useful for comparing the relative role of fire between ecosystems and for describing the degree of departure from historical conditions (Taken from 
+Neary & Leonard 2015, pg. 36.)
+.
+Fires burn frequently and widely across Montana, and the forests and grasslands are well adapted to periodic disturbance by wildfires 
+(Westerling et al., 2006;
+Ager et al., 2015;
+Calkin et al., 2013;
+McWethy et al., 2019)
+. For example, ponderosa pine communities historically had a mixed-severity fire regime of frequent low to moderate intensity surface fires and less frequent stand-replacement or crown fires. Fire exclusion policies, coupled with past forest management practices and a variety of other factors, have led to altered fire regimes in many ecosystems, which often leads to larger fires that are more severe than fires in pre-settlement times 
+(Arno et al., 1997;
+FEIS, 2016)
+.
+Despite the role natural and human-caused fires have played across Montana for centuries, uncharacteristically large wildfires with devastating effects on human communities have become increasingly common within the past two decades 
+(Ager et al., 2015;
+Calkin et al., 2013;
+McWethy et al., 2019
+; Figure 
+14
+). These wildfires are atypical in their size and severity and have taken lives, affected densely populated regions with smoke, damaged homes and structures, and forced the evacuation of many residents 
+(McWethy et al., 2019;
+USDA FS, 2016)
+. According to the USDA FS, recent increased fire activity is due to at least four factors:
+> Increasingly hot and dry summers; > Stronger winds; > Insect and disease infestations; and > Human population growth in the Wildland Urban Interface.
+The challenge for fire scientists, land managers, fire suppression, and other personnel is to evaluate the fire effects on Montana's modified ecosystems and determine the costs and benefits associated with the natural and planned use of fire as a component of ecosystem management 
+(Neary & Leonard, 2015)
+.
+
+## Disturbance History
+
+Fire is arguably one of the most important forest and rangeland disturbance processes in the West. Two hundred years of settlement, management, and climate change have transformed historic fire regimes, as well as the vegetation and fuel patterns of forested landscapes 
+(Hessburg & Agee, 2003)
+. Many factors have contributed to the altered forest conditions in Montana, from the discontinuation of Indigenous burning practices to fire exclusion policies. After the catastrophic fires in the early 1900s, federal land management agencies adopted policies to suppress all wildfires.
+
+## Ferdinand A. Silcox, Chief of the Forest Service implemented a new
+
+The Up Top Fire in 2011 / Photo courtesy of USDA Forest Service "quick-action strategy" in 1935 to ensure the rapid response to forest fires.
+This new policy required that all fires were to be controlled by 10 a.m. of the day following discovery, and required "fast, energetic, and thorough suppression of all fires in all locations" 
+(Smith, 2017)
+.
+Fire suppression policies combined with other land use practices dramatically altered landscape conditions across the western U.S., creating an unnatural buildup of vegetation or fuels. The effectiveness of fire suppression efforts inevitably led to ecologically significant wildfires with higher intensities and rapid growth rates that are unable to be contained 
+(Calkin et al., 2013;
+Williams, 2013)
+. Over the past two decades, these larger, high intensity fires have increasingly affected human values and assets, as well as ecosystem services. Humans have altered historic fire regimes through a variety of activities, including development in the wildland urban interface, timber harvesting, fire suppression, and introduction of invasive species 
+(Mortiz et al., 2014)
+. Many forests now have lengthened fire-return intervals, increased densities of smaller trees, and shifted regimes of mostly low-severity fires to include more high-severity stand-replacing fires 
+(Mortiz et al., 2014)
+.
+A fire crew works in the Bitterroot range during the 2011 fire season / Photo courtesy of USDA Forest Service
+Montana now faces escalating wildfire risk, as fires spread to larger land areas and become increasingly difficult to contain. It is important to note, the increasing presence of people and structures in the path of wildfires further complicates wildfire response efforts, putting lives and property at great risk and creating a social imperative for wildfire control (Figure 
+15
+). 
+
+## The Era of Megafires
+
+Wildfires have grown in size and severity across the western United States. Forty years ago, a wildfire larger than 10,000 acres was relatively rare. Twenty years ago, a wildfire larger than 100,000 acres was relatively rare. Today, we experience megafires, or fires greater than 100,000 acres, nearly every year.
+Spotlight: The 2017 Wildfire Season > Drought conditions appeared early and spread across the state. Soil moisture declined rapidly in conjunction with near-record low precipitation. Above-normal temperatures and wind speeds from mid-May to June increased evapotranspiration. > Typically, fire season begins in eastern Montana and moves west by August.
+However, exceptionally hot and dry periods caused dangerous and costly wildfire conditions to spread rapidly across the state much earlier, with severe fires beginning in eastern Montana in early July. > A total of 1.4 million acres burned in Montana, marking the largest area burned since 1910 (Figure 
+15
+). > In Garfield County, the Lodgepole Complex was the second largest fire in Montana history, and burned 270,743 acres, which devastated local landowners and businesses.
+The estimated state fire cost for the 2017 season was $74.4 million, more than three times the 10-year average cost. The total estimated cost for all fire agencies was more than $400 million. 
+
+## Climate Change
+
+The impacts of climate change will affect the occurrence, severity, and duration of wildfires in Montana. The Montana Climate Assessment predicts increasing fire severity due to warmer weather, shifting precipitation patterns, and past fire suppression efforts 
+(Whitlock et al., 2017)
+. Recent research shows that seasonal maximum temperatures are increasing, snowmelt is occurring earlier, minimum relative humidities are decreasing, and fuels are becoming drier 
+(Jolly et al., 2015;
+Seager, 2015;
+Whitlock et al., 2017)
+.
+The cumulative effects of longer and more frequent droughts, higher temperatures, and growing infestations of insects and diseases all increase the likelihood of uncharacteristic wildfires.
+
+## Municipal Water Supplies
+
+Millions of people across the world depend on water from forested watersheds. Large wildfires and longer wildfire seasons raise concerns for municipal water supplies. Fire impacts can include the loss of canopy cover, increased soil erosion, higher surface runoff, and lower transpiration 
+(Blandon, 2018)
+.
+In Montana, wildfire season has become longer, such that what was once a three to fourmonth fire season now can last six to eight months or longer. In recent years, wildfire protection agencies have responded to fires as late as December and as early as January 
+(Abatzoglou & Williams, 2016;
+Holden et al., 2018;
+Freeborn et al., 2016)
+. The impacts of climate change, coupled with various land management decisions that led to the steady accumulation of trees and other vegetation fuels, have created a more fire-prone landscape susceptible to uncharacteristic wildfire disturbances.
+
+## The Fire Year
+
+Fire seasons are no longer limited to three or four months. Fire season now spans the whole year. Wildfire protection agencies are now starting to talk about the fire year, not the fire season (Christensen, 2018).
+
+## Growth & Development in the Wildland Urban Interface
+
+The growth of the Wildland Urban Interface (WUI), areas within an at-risk community or adjacent to a community where humans and their development meet or intermix with wildland fuels, has changed the way wildfires burn and corresponding fire response strategies. As homes, businesses, and communities grow throughout Montana, the continued buildout of the WUI places lives and properties at great risk (Figure 
+16
+). This development pattern increases the complexity and cost of fighting wildfires and is a trend that is not limited to Montana. Research indicates that across the western United States, the WUI has expanded by over 60% since 1970 
+(Mortiz et al., 2014;
+Radeloff et al., 2018)
+. The complexity of fighting wildfires in the WUI is in part due to the combination of wildfire suppression strategies and tactics and structure defense demands. Structure defense oftentimes draws valuable resources away from the fireline to protect lives and property.
+Wildfire hazards are numerous around farm and ranch communities. Rural Montanans are familiar with the destruction a wildfire can cause-crops, livestock, equipment, fences, structures, and lives are all at stake when a wildfire gets out of control. Since 1990, a large percentage of new homes and commercial developments in the U.S. have pushed into wildlands, directly in harm's way:
+> Annual estimates on structure loss due to wildfires have increased steadily for more than six decades; > More than 3,000 communities nationwide had a wildfire of 100+ acres burn within ten miles; and > In Montana, 64% of residents live in the WUI 
+(Radeloff et al. 2018)
+.
+Wildland firefighters are neither trained nor equipped to fight structure fires and many wildfires today involve some degree of urban interface. The increasingly complex nature of fighting fire necessitates that wildfire protection agencies coordinate and work in close partnership with city, state, county, tribal, and rural fire departments on a routine basis. Additionally, when homes and communities are built in or around the WUI there are more unintentional human-ignitions.
+
+## Staffing, Capacity, & Preparedness
+
+Montana's population and demographics are in flux. The population in some Montana counties is growing dramatically while the population in others continues to fall considerably. Montana now also has resort communities with seasonal populations, and second and third homes make up large developments. Absentee landowners (i.e. those living out of state) are consolidating large land holdings with little local presence. People are commuting longer distances for work and play and are often not available locally to assist with core community needs like firefighting.
+More than 11,000 new homes-or one out of every eight-were built in high wildfire hazard areas in western Montana during the last 26 years. Eight counties-Ravalli, Missoula, Gallatin, Lewis & Clark, Lake, Granite, and Park-account for 96% of the new houses in areas of high wildfire hazard areas 
+(Headwaters Economics, 2018)
+.
+
+## Fire lookout at sunset / Photo by Mark Hufstetler
+
+Volunteerism in local fire departments has decreased overall and, although there are many strong and capable volunteer fire departments in Montana, there are areas where there are simply too few volunteers to maintain an adequate fire department roster. Local fire departments find it challenging to attract and retain new members for a range of reasons, including fewer people in rural communities to draw from, increased demands on people's time, longer commuting distances to and from work, the necessity of two-income households, and increased training requirements.
+Federal and state agencies also face several challenges when it comes to recruiting, developing, and retaining the workforce necessary to remain effective in the future. Additionally, current and historic models of fire response and staffing are heavily based on initial attack and fire suppression. This traditional approach to managing fire risk is highly reactive and does not adequately address community needs to proactively minimize risk and prepare for wildfires. Given deteriorating forest health conditions, the firefighting workforce needs to broaden their skills and expertise beyond suppressioncentric activities to both protect communities and restore landscapes across Montana. This dynamic environment presents both challenges and opportunities for the future of fire protection programs.
+
+## Prescribed Fire
+
+Fire has shaped the occurrence and distribution of different ecosystems for centuries, simultaneously impacting the human, plant, and animal communities in and around Montana's forests. Over the past century, a culture of fire exclusion removed the natural role of fire from the landscape and the public consciousness. When combined with previous timber harvest practices in some areas, fire exclusion led to homogenous forest stand conditions and the build-up of forest fuels to unprecedented levels. When combined with a warming climate, wildfires burning in these conditions often burn with uncharacteristic intensity, which can endanger human safety, destroy homes and infrastructure, and result in severe and lasting natural resource damage. Today, over 85% of Montana's forests are at an elevated risk of uncharacteristic wildfire 
+(Keegan et al., 2003;
+Freeborn et al., 2016)
+.
+Local fire organizations face response challenges that are often compounded by the fact that fuel types in rural Montana are prone to rapid fire growth and fast-moving wildfires. Wildfires occurring in rural areas can often go undetected for longer periods of time than those near more developed areas. Once alerted of a wildland fire, it can take considerable time for local suppression forces to respond given the vastness of response distances. While rural fire organizations routinely perform remarkably well by suppressing most wildland fires once they start, local fire forces are often forced to manage large escalating wildfires of high consequence with very few resources. Several of Montana's most destructive fires have occurred in rural parts of eastern Montana, where response capabilities were often limited.
+
+## Rural Fire Issues
+
+When forest vegetation and debris (e.g., dead trees, branches, leaves, needles, and grasses) accumulate over large areas, it creates continuous fuels where fires may burn with greater intensity and speed 
+(Ager et al., 2014;
+USGAO, 2019)
+. Federal, state, tribal, and local fire managers and scientists learned that by managing hazardous fuels in areas of strategic value, fire protection agencies can mitigate some of the impacts of subsequent wildfires. Hazardous fuels reduction includes two commonly applied approaches: mechanical thinning and prescribed fire. Prescribed fire, also called prescribed burning or controlled burning, is a land management tool in which fire is intentionally introduced on the landscape under specific weather and moisture conditions to meet specific objectives. Two broad categories of prescribed fire are commonly used: > Broadcast burning, where fire is applied across an area that can range in size from an acre to thousands of acres; and > Pile burning, which involves collecting leftover material from mechanical treatments into piles and burning them with little to no spread between piles.
+Prescribed burn near the Swamp Rat area / Photo by Erika Williams & courtesy of USDA Forest Service
+For each type of prescribed fire, land managers compose an agency-specific prescribed burn plan that clearly defines, or prescribes, the suitable weather and fuel conditions, the desired fire behavior, and the effects needed to meet predetermined objectives (USGAO, 2019). Prescribed fire is an essential hazardous fuel reduction tool and, when used in the right place at the right time, can yield many benefits, including:
+> Reducing hazardous fuel accumulations; > Minimizing the spread of insects and disease; > Removing unwanted or invasive species that threaten native species; > Providing forage for game and livestock grazing; > Improving habitat for threatened and endangered species; > Recycling nutrients back to the soil; > Promoting the growth of fire-adapted trees, grasses, and other plants; and > Providing seedbed for natural regeneration of forests.
+Although hazardous fuel reduction treatments do not prevent wildfires from occurring, they can influence how wildfires burn and the smoke emissions they emit 
+(Finney et al., 2005)
+. Active hazardous fuels reduction can also increase firefighter safety and effectiveness.
+While some fuel reduction projects are completed with a single treatment method, other projects may require multiple treatments spanning several years. For example, a project may first use a mechanical treatment to thin accumulated vegetation, followed by a prescribed burn to remove the remaining slash and litter on the ground. Finally, once a project is completed, it needs to be maintained over time to retain its effectiveness as vegetation grows back and surface fuels accumulate.
+
+## Montana's Fire Policy States:
+
+"Sound forest management activities to reduce fire risk, such as thinning, prescribed burning, and insect and disease treatments, improve the overall diversity and vigor of forested landscapes and improve the condition of related water, wildfire, recreation, and aesthetic resources."
+
+## Issues, Threats, & Challenges
+
+## Threats to Life & Property
+
+Firefighter and public safety is and always will be the highest priority for all wildfire protection agencies. With more Montanans living in fire-prone landscapes, where there are high hazardous fuel loads, variable weather patterns, and deteriorating forest health conditions, wildfire has been identified as a year-round risk and priority issue across the West. As development in the WUI continues and risks increase, Montana needs to be better prepared to respond to this growing problem. All Montanans share in the responsibility to combat the inherent risk of wildfires in and around their communities and homes and to help create a wildfire-resilient future.
+DNRC considers a fire-adapted community to be one that can survive and remain viable without extraordinary intervention by fire services when wildfire moves through or near the community. A fire-adapted community consists of informed and prepared residents collaboratively planning and taking action to safely live with wildfire. Some of the greatest opportunities for mitigation are in the home ignition zone, or the zone including the house itself and up to 30 feet away. Simple steps can make a home safe from windblown embers and radiant heat. Focusing on treatment in the home ignition zone as well as community-scale fuel reduction initiatives and addressing wildfire risk on landscapes adjacent to communities are critical to success (Figure 
+17
+). Across the state, fire-adapted community work improves firefighter and public safety, reduces wildfire suppression costs, minimizes property losses, preserves tax bases, and makes communities across Montana more resilient. 
+
+## Community Preparedness
+
+Agencies and or ganizations across the state deliberately engage Montanans to prepare themselves, their property, and their communities for wildfire. Fire-adapted Communities are the product of an informed and prepared citizenry who recognize wildfire is a part of the landscape in which they live.
+
+## Deteriorating Forest Health & Fuel Loading
+
+Forests on public and private lands provide ecosystem services and economic benefits. However, the ability of forested landscapes to continue to provide goods and services to Montanans is threatened by changing climatic conditions and increases in extreme disturbances, such as insect and disease outbreaks and uncharacteristic wildfires 
+(Vose et al., 2018)
+. For example, wildfires in densely stocked forest stands already under stress from other contributing factors can burn at an intensity and severity that can greatly reduce the absorptive capacity of soils and damage other vital ecosystem services. These high severity wildfire events prevent regeneration and threaten other vital natural resources such as cold water streams 
+(Marlon et al., 2012)
+. For more information on forest health issues across Montana, please see the Forest Conditions section.
+
+## Workforce Demands
+
+As the wildland fire operating environment becomes more complex, demands on the firefighting workforce change and increase. Uncharacteristically large and severe wildfires are increasingly common, and firefighters find themselves in very dynamic and complex situations. Wildfire seasons are also longer, necessitating staffing needs that seasonal hiring systems and a seasonal workforce partly comprised of college students cannot meet. College students typically return to school in August and, with longer wildfire seasons, it puts the agency at a reduced capacity to protect state and private lands.
+Like many occupations, wildland fire agencies confront issues including hiring, staffing, retention, succession planning, wage competition, fatigue management, mental health, and morale. Competing responsibilities coupled with the time required to achieve fireline qualifications have led to a declining number of personnel available to fill incident management needs, which increases the burden on those employees who can make themselves available.
+
+## Rural Fire Protection
+
+Local government fire resources often serve as the primary line of defense for wildland fires in Montana. Out of over 400 local government fire protection organizations in the state, only 14 have any paid career firefighters. Consequently, Montana is heavily dependent on a system of an estimated 8,000 volunteers to provide rural fire protection services. In 2019, the number of volunteer firefighters in the U.S. reached an all-time low even though call volume has tripled in the last 30 years 
+(NVFC, 2019)
+. Every fire department faces challenges, but they're often more pressing for small, rural departments and Montana has not been immune to the trends and impacts that plague the sector.
+Today, people expect most local fire organizations to provide a wide range of servicesincluding emergency medical services, hazardous materials cleanup, and search and rescue-all of which pose further challenges for resource-constrained departments. Recruitment challenges include increased time demands and more rigorous training requirements. The cost savings provided by fire service volunteers is tremendous, but for many communities, switching to a paid career staffing model is not feasible. Faced with the pressures described above, DNRC is striving to modernize the County Coop Program by focusing a sustained effort on improving the fire protection service that DNRC and its local government partners provide across Montana.
+
+## Technological Limitations
+
+All wildfire protection agencies are focused on wildfire technology modernization to promote interagency collaboration and the business mission of wildland fire programs. Modern technology has the potential to change the way agencies and first responders gather and share information about wildfires; however, there are still many challenges in operationalizing and integrating new technologies. For example, there are several different systems used to track data, including where a fire started, its size, and how many resources are assigned to an incident. Across the country, this proliferation of systems leads to inconsistencies in fire reporting and redundant or duplicative efforts, especially for dispatch staff.
+Currently, the state's fire program lacks adequate database and information storage systems to reliably inform the decision-making required to strategically execute its mission. Obtaining adequate information management systems presents a challenge Saddle and Stud fires / Photo courtesy of USDA Forest Service because of the continuous rapid changes in technology, the number of applications requiring support, and technology costs, as well as the wide range of systems and procedures in place across Montana's 56 counties. These variable operating procedures and data collection standards create disparities in fire occurrence, fire reporting data, and other knowledge gaps relating to wildfire management and response.
+Many wildland fire protection agencies in Montana make management decisions, ranging from engine and aircraft distribution to budget allocations, based on little or no data. Integrated interagency fire reporting capabilities and automated reporting that leverages existing data will be key to managing Montana's fire protection program moving forward.
+
+## Fire Smoke Management & Policy
+
+Smoke from large wildfires can inundate communities and cloud the skies across Montana. When that dense smoke spreads regionally and covers urban areas, thousands of people are potentially affected. Satellite mapping shows that dense areas of smoke can span county, state, and even continental scales.
+Living in an area far removed from a forest is no longer a guarantee that residents will not have to deal with wildfire smoke.
+There is also a risk of smoke when fire managers use prescribed fire. Both prescribed fires and wildfires produce smoke; however, prescribed fires are regulated by the Montana Department of Environmental Quality and are subject to strict air-quality standards. Occasionally, smoke from a prescribed fire can inundate a community, but the impacts are usually light and dissipate in a few hours. In contrast, wildfires burn uncontrolled for an undetermined amount of time making it nearly impossible to manage how much smoke is produced and where it accumulates 
+(Navarro et al., 2018)
+. Research indicates that wildfire air quality effects are substantially greater than those of a planned, localized prescribed fire (USDOI, 2014). What's in Smoke From a Wildfire? Smoke is a complex mixture of water vapor, particulate matter, carbon monoxide, carbon dioxide, hydrocarbons, other organic chemicals, nitrogen oxides, and trace materials. Particulate matter is the principal pollutant of concern from wildfire smoke (Figure 
+18
+). There are many challenges to smoke management, including limits on the use of prescribed fire due to air quality regulations, winter inversions preventing burning during the off season, and the public perception and understanding of smoke. Part of the problem is heavy fuel loading, where densely stocked forest stands prone to rapid fire growth release thousands of tons of fine particles in a single day, saturating the air with smoke 
+(Long et al., 2017)
+. This smoke has detrimental impacts to human health, including eye and respiratory system irritation, and can worsen preexisting conditions, such as lung disease and asthma. For more information on the public health effects of smoke, please see the Air Quality section. 
+
+## Deteriorating Forest Health & Fuel Loading
+
+> Partner with agencies and landowners to implement cross-boundary forest management and restoration projects and reduce hazardous fuel loading in and around communities. > Increase the pace and scale of hazardous fuels treatments and use a variety of treatment types including prescribed fire, chemical, biological, and mechanical options. > Provide technical and financial resources to communities to treat landscapes adjacent to federal lands. > Educate the public on the historic role of fire in landscape condition and function and the fundamental role that fire plays in maintaining healthy western forest ecosystems. > Restore the ecological role of fire on the landscape. > Educate the public on forest restoration practices and techniques. > Prioritize the removal of invasive species and other low-value wood products.
+
+## 97
+
+Workforce Demands > Create training and development programs to better utilize the existing wildland firefighting workforce. > Provide year-round employment opportunities to assist with the development of a cross-functional workforce. > Engage in succession planning to fill the gaps of developing a workforce for the future. > Provide additional resources and training beyond the traditional scope of wildland firefighting. > Encourage and provide resources to support a leadership development program that emphasizes peer-to-peer mentorship and coaching.
+
+## Rural Fire Protection
+
+> Expand upon the traditional response-based focus of the County Co-op fire protection arrangement to also provide support for local government efforts associated with the Cohesive Strategy's tenets regarding fire-adapted communities and resilient landscapes. > Provide incentives for local government fire services to be healthy, robust, and effective wildland fire response organizations. > Strategically prioritize actions and investments to develop the capacity of rural fire protection entities at the local level. > Ensure all equipment and training provided by DNRC to local government firefighters incorporates technologies to support the effectiveness of a smaller and changing volunteer fire workforce.
+
+## Technological Limitations
+
+> Continue cross-agency collaboration to initiate implementation of Unmanned Aircraft Systems, location systems for wildland firefighters, decision support systems, and smoke projections and modeling. > Determine current data gaps as well as future data needs when upgrading or replacing software and data systems. > Establish baseline expectations with counties regarding wildland fire data needs and reporting. > Conduct a business analysis to ensure the state has the baseline systems to capture and analyze data. > Adopt a nationally available wildland fire software and data system to meet the statewide need in Montana.
+
+## Prescribed Fire, Smoke Management, & Policy
+
+> Adopt a proactive fire management strategy, implementing large-scale prescribed fire where appropriate and allowing naturally occurring low severity fires far from communities to occur with strategies in place to avoid chances of catastrophic spread. > Develop the human capital and social license to implement prescribed fires. > Procure resources to translate airshed modeling and monitoring data into coherent, consistent messages for the public. > Partner with public health agencies to educate the public on steps they can take to decrease the risks posed by wildfire smoke. > Encourage the public, especially sensitive populations, to evacuate early if air quality conditions deteriorate.
+
+## Existing Strategies
+
+National Cohesive Wildland Fire Management Strategy The Cohesive Strategy emphasizes an "all-hands, alllands" approach, focusing on developing and growing partnerships. This inclusive approach to wildfire management allows fire protection agencies to focus on the primacy of their missions while working to support local governments and a shared mission of fostering fire-adapted communities. Wildfire protection agencies embrace the three goals of the Cohesive Strategy and are committed to the vision of safely and effectively extinguishing fire when needed, using fire where allowable, managing natural resources, and learning to live with wildland fire. 
+
+## DNRC Fire Protection Strategic Plan
+
+The purpose of the strategy embodied in the Fire Program Strategy is to position the program for long-term success in an operating environment undergoing constant fundamental change. The strategy also prepares the DNRC Fire Program to adapt to both the changing physical environment in which they work, as well as the changing needs of Montana's citizens and their agency cooperators. The strategy focuses on the following elements:
+> Developing a well-rounded fire protection program incorporating, as critical components, safe and effective fire response; training professional development and organizational learning; community preparedness, homeowner risk reduction, and fire prevention; as well as prescribed fire and hazardous fuels reduction; > Maintaining stable and adequate purchasing power in the Fire Protection Program preparedness budget and a stable fire suppression account to ensure program delivery; > Instituting the systems and processes to recruit, prepare, develop, and retain the workforce necessary to achieve the goals and objectives of the strategythe resulting workforce will be adequate, amply diverse, properly distributed, appropriately trained, and sufficiently cross-functional, and will be organized around a core of longer-term employees with an extensive skillset; > Developing an aviation strategy to transition from the current aircraft to the next generation aircraft over time, including a legislative strategy for future capital expenditures; > Implementing a dynamic legislative strategy aligned with the Fire Protection Program strategy and the needs of stakeholders and strategic partners; and > Defining the wildland fire information and technology business needs and developing a strategy on how to meet those needs in a timely and cost-effective manner where the resulting software systems will allow the Bureau to make data-informed strategic decisions.
+
+## Bureau of Land Management's Wildland Fire Community Assistance Program
+
+The Bureau of Land Management Wildland Fire Community Assistance Program is designed to support wildfire education, prevention, cooperator assistance, and mitigation. Fire prevention efforts are designed to reduce human caused wildfires, and BLM's fire education efforts focus on helping communities learn how to build and live compatibly with wildland fire. With a long tradition of working with local cooperators, the BLM provides wildland fire training and other assistance to local cooperators who are often first on scene with BLM fire crews. The fire mitigation efforts involve providing funding and technical expertise to reduce flammable vegetation on non-federal lands.
+It can also include assistance with developing community wildfire protection plans. BLM provides funding through assistance agreements with cooperators, and the BLM Montana/Dakotas awarded more than $1.9 million to 24 local counties, cities, rural fire departments, and non-governmental organizations to promote fire-adapted communities, resilient landscapes, and a safe and effective wildfire response in 2019.
+
+## Community Wildfire Protection Plans
+
+Community Wildfire Protection Plans (CWPP) are plans for at-risk communities to reduce wildfire risk. A valid CWPP has three requirements as defined by the Healthy Forest Restoration Act of 2003:
+> It must be developed collaboratively by local and state government representatives in consultation with federal agencies and other interested parties near the at-risk community; > It must identify and prioritize areas for hazardous fuel reduction treatments and recommend methods of treatment that will protect the at-risk communities and critical infrastructure; and > It must recommend measures to reduce structure ignitability throughout the at-risk community.
+Currently 54 counties in Montana have CWPPs of varying age. DNRC is committed to expanding investment in local government capacity to both contribute to the three tenets of the Cohesive Strategy and support partners in realizing the goals and objectives outlined in their CWPP.
+
+## Fire Adapted Montana Learning Network
+
+The mission of the Fire Adapted Montana Learning Network is to connect and support people and communities who strive to live safely with wildfire. The network works collaboratively to develop new ideas, connect people, and share strategies across Montana to support fire-adapted communities. Members of the network share knowledge about community and homeowner preparedness, lessons learned, education and outreach material, and financial opportunities to spark interest and build support for local efforts across Montana.
+
+## National Fire Capacity
+
+Formerly known as State Fire Assistance (SFA), the NFC grant program supports the DNRC's statewide Fire Protection Program by increasing the capability and preparedness of Montana's wildland fire suppression forces and promoting resilient landscapes, fireadapted communities, and safe and effective wildfire responses. Funding from this program is allocated by the USDA Forest Service; it improves firefighter training (including leadership, aviation, chainsaw, structure ignition, and engine academies) and cultivates fire prevention and community wildfire adaptation programs. Funding from this program can also be used to modernize and upgrade mobile fire equipment to maintain state and local government equipment cache and fleet of fire engines, water tenders, and support vehicles. A portion of this funding is released regionally through a competitive grant program to increase education and reduce hazardous fuel conditions in the WUI. Over the past ten years, Montana received more than $11 million in funding from NFC and an additional $15 million in grants.
+
+## Rural Fire Capacity Grant Program
+
+Montana's Rural Fire Capacity Grant Program provides cost-share financial assistance to rural volunteer fire departments in communities of 10,000 persons or less for organizing, training, and equipping local firefighters. The program provides an excellent opportunity for qualifying rural fire departments to receive much needed equipment, training, and supplies that otherwise may be inaccessible due to funding constraints. Using funds received from the U.S. Forest Service, Montana DNRC administers and awards these grants through a competitive process focusing on areas of greatest impact and need.
+Annually, DNRC has awarded grants to 65 rural fire departments in amounts ranging from $1,000 to $13,000 each. These grants routinely improve the effectiveness of fire protection in rural areas and complement other State-County Cooperative Fire Protection Programs across the state.
+A firefighter puts out a hot spot in the Granite Pass fire complex / Photo by Michael Guy & courtesy of USDA Forest Service
+
+## State-County Cooperative Fire Protection Program
+
+By formally partnering with all 56 Counties in Montana, DNRC ensures wildland fire protection on over 45 million acres of state and private land through an arrangement known as the State-County Coop Fire Protection arrangement. Through this arrangement, Montana counties agree to provide the basic level of wildland fire protection through a system of rural firefighting organizations and local personnel. These county and local government firefighters provide initial attack and, in most cases, extended attack on wildland fires in their jurisdiction. Thousands of fires are contained and controlled each year without large-scale intervention by wildland fire protection agencies due to the effectiveness of the program.
+
+## Data & Program Gaps
+
+Prescribed Fire Coordination & Capacity > The projected need for ecological restoration through broad landscape scale application of fire remains unmet. > There is a need for increased resource sharing and coordination between partner agencies and private landowners. > Montana needs a coordinating body to organize and expand the application of prescribed fire.
+
+## Predicted Growth & Development in the WUI
+
+> The projected growth of both the number of homes and the total footprint of the WUI will have many implications for wildland fire management and the associated land use changes. > Past wildfire management policies have focused on fighting and preventing wildfires, but more needs to be done to address the continued growth and development. > There is no single indicator or metric that accurately predicts growth and development in these highly valued landscapes.
+
+## Rural Fire Data Collection
+
+> Rural fire departments in Montana, through the County Co-op Program, suppress an estimated 3,000-4,000 wildland fires per year, often at little or no cost to the state. > Currently, the state and rural fire departments lack the ability to effectively capture and quantify this workload. > Data capture systems that standardize the collection of rural fire data across the state are needed to inform programmatic decisions, allocation of resources, and program effectiveness.
+
+## Calculating the Avoided Costs of Wildfire
+
+> Wildfire protection agencies in Montana catch over 95% of wildfires before they reach ten acres. > Despite a commitment to aggressive initial attack, fire protection agencies do not have a way to quantify the avoided costs of large, catastrophic wildfires. > A comprehensive method to estimate the costs and savings that result from effective suppression and wildfire prevention efforts is needed.
+
+## Statewide Response Capability -Capacity of Local Governments
+
+> There is a great deal of variance in the resources (financial, equipment, staff) of local government fire organizations across Montana. > The ability to gauge the capacity of these services on any day, in any given location, is speculative at best. > Bolstering cooperative relationships and operational practices for increasing capacity and/or incentivizing personnel in understaffed or under-resourced rural fire organizations during critical fire conditions would help minimize uncertainties of response capabilities.
+
+## Working Forests & Economies
+
+Montana is fortunate to have an intact and integrated forest industry, which plays a significant role in the local economy of many communities and supports economically sustainable management of public and private forests throughout the state. A healthy forest industry is critical to and dependent upon healthy working forests. Montana communities not only rely on the economic benefits of the forest industry, but also the community-protection and forest-use benefits it provides. Actively, sustainably managed working forests:
+> Reduce the potential negative impacts of severe wildfire to communities; > Improve forest health conditions which provide clean water, air, and recreational benefits to communities; > Provide income to private landowners and revenue to local economies; and > Provide road access to the forest.
+Montana's forest industry faces several challenges that must be addressed in order to retain the industry and the benefits it provides into the future.
+
+## History of Logging in Montana
+
+Timber production in Montana has evolved from its initial role during statehood. Today the forest industry plays a vital role in providing the labor and equipment to reduce excessive fuel loads, complete watershed restoration work, improve wildlife habitat, and complete other restoration work. The sale of wood by-products from some of these activities generates revenue that pays for much of the work. Without the forest products industry, many of these treatments would be cost prohibitive at a landscape scale.
+Forests across Montana have figured prominently in the state's development throughout settlement, statehood, and the establishment of the railroad and mining industries. Harvested timber played a critical role in developing community infrastructure and growth, drawing people to the state in search of economic opportunity, and providing essential materials for the railroads that ultimately connected Montana to the rest of the country.
+The earliest sawmills predate statehood; the first was constructed in 1845 at St. Mary's Mission in the Bitterroot, followed by a second at St. Ignatius in 1856 
+(Strong & Schutza, 1978)
+. Timber development increased in the following decades to provide the rapidly growing mines with infrastructure materials. Sawmills in western Montana supplied lumber for the mines to be used in sluices, flumes, tunnels, structures, and for firewood. By 1902, there were 26 mills in the Bitterroot Valley alone, from Missoula to Darby 
+(Strong & Schutza, 1978)
+. Timber resource development, associated with the expansion of the mining and railroad industries, continued to drive economic growth well into the 1920s, essentially up until the Great Depression. Montana's forests supplied timber for railroad ties, tunnels, bridges, and structures. Early mills also supplied the lumber needed for residences and commercial enterprises as Montana's towns grew into cities, trade centers, and thriving communities. Timber quality in the early decades of the industry also attracted national attention. Demand for ponderosa pine, Douglas-fir, larch, and lodgepole pine increased and Montana A logjam on the Swan river / Photo courtesy of USDA FS began to supply timber to growing markets in communities throughout the Pacific Northwest.
+The early decades of forestry set the stage for the post-war period that defined forest policy and management from the 1940s to 1980s. Congress passed the Multiple-Use Sustained Yield Act in 1960 in order to balance competing demands for resources in the national forests. This act required the U.S. Forest Service to give outdoor recreation, range, timber, watershed, and wildlife needs equal weight in planning and project decisions. As new technologies and equipment made it possible to harvest timber from steeper slopes and at greater distances from navigable waterways or mills, logging expanded. Growing demand and improved technologies also contributed to diversification of forest products produced in Montana. In the post-war decades, the timber industry expanded to include other wood products, such as plywood and pulp products 
+(Hirt & Goble, 1999)
+. The housing market's rapid growth was met by new harvest technologies, which enabled timber production to increase over these decades. Production peaked twice, in 1966 and 1987, at about 1.3 billion board feet per year (BBER, 2019).
+The ecological consequences of early timber practices led to increased scientific and political scrutiny of national forest management, especially in Montana 
+(Bolle, 1970)
+. Additionally, the National Forest Management Act of 1976 reflected a shift in management priorities away from timber as a primary focus to sustaining forests for multiple uses at a landscape scale.
+Logging in Flathead National Forest / Photo courtesy of USDA Forest Service
+The economics of the forestry and wood products sector in Montana have also changed since statehood. Legislation, case law, and forest policy in the latter part of the 20th century have influenced forest management, which has changed significantly since the 1980s. Industrial timber landowners largely consolidated, occasionally selling land to other private landowners and conservation organizations such as the Trust for Public Land and the Nature Conservancy, or to federal and state agencies. As of 2017, there were approximately 80 mills remaining in Montana (BBER, 2017) and the eight largest sawmills accounted for nearly 95% of the state's timber production 
+(Hayes & Morgan, 2016)
+.
+
+## Forest Products: Industry, Market Development, & Innovation
+
+## Current Conditions & Trends
+
+Montana's forest industry faces several issues: limited log supply, labor shortages, distance to mills, and competition in national and international markets. Many of these issues are interrelated; addressing them will be critical to ensuring the long-term success of Montana's forest products industry and the services it provides to Montanans.
+Across the West there is a focus on increasing the pace and scale of forest and rangeland restoration management activities, on all ownerships, to remediate current forest health issues and reduce high-risk wildfire conditions. A diverse forest products industry plays a critical role in accomplishing the diverse array of forest management and restoration objectives that Montana's forests require. Having an integrated and robust industry sector that can utilize wood in log form from all species and all tree sizes, utilize forest residues, and mill by-products enables forest managers to make these management and restoration activities cost effective. Through market development and innovative wood product utilization, these restoration treatments may dramatically increase the use of smaller diameter timber and traditionally non-commercial species.
+Montana's forests have garnered interest from new wood products producers and industries due to the state's favorable business climate and forest resources. The state's larger mills have been upgrading processing lines with new equipment and technology and Montana has been at the forefront of the movement to adopt new technologies like mass timber into commercial construction. The first commercial mass timber building in the United States was built in Montana, and Montana is home to the first U.S. manufacturer of cross-laminated timber. In 2019 the region's first thermally-modified wood production facility started production in Montana, and in 2013 one of the larger sawmills in the state began producing co-generated electricity in their biomass boiler.
+
+## Timber Resource & Harvest
+
+Montana contains approximately 20 million acres of non-reserved timberland (lands not permanently reserved) such as wilderness areas, national parks, and monuments. Over 60% of this land is National Forest System land managed by the USDA Forest Service, and over 76% of standing sawtimber tree volume is found on these lands (USDA FS, 2020; Figure 
+19
+). Non-industrial private and tribal lands account for 25-30% of total volume. State lands (i.e., DNRC Trust Lands and FWP lands) account for an average of 12-15% of the volume harvested in any given year. NFS harvest accounts for approximately 20-40% of the statewide harvest in the last five years. In 2018, NFS timber accounted for about 38% of the statewide harvest while BLM accounted for approximately 2%. In Montana, 88% of timber harvested is milled into commodity lumber and distributed throughout local, domestic, and international markets via direct sales, distributors, and wholesalers 
+(Hayes & Morgan, 2017)
+. Commodity markets are volatile; they can fluctuate rapidly and dictate the cost of raw materials-in this case, logs. Maintaining working forests, improving rangeland health, and providing economic returns to landowners all require strong markets for material produced by active forest management, forest restoration, and rangeland restoration. Across Montana, low log prices and limited options for low-quality and sub-merchantable diameter trees can hamper cost effective timber harvest 
+(Hayes et al., 2012)
+. Stronger markets for all material produced by active forest management, forest restoration and, more recently, rangeland restoration are needed to maintain working forests and improve rangeland health. Timber harvest by ownership has changed significantly over the past 75 years (Figure 
+20
+). At its peak, Montana harvest levels exceeded one billion board feet per year. The current five-year average annual timber harvest is approximately 360 million board feet (MMBF). Specifically, NFS and industrial harvest have declined significantly from previous levels. Since 2008, total harvest has declined to 300-400 MMBF per year, and Montana has lost five larger mills, including the state's only pulp mill. 
+
+## Forest Products Industry
+
+Currently Montana has eight sawmills producing more than 10 MMBF of lumber annually. These mills account for nearly 95% of the state's lumber production (USDA FS, 2020). Additionally, there are about 70 smaller mills, producing anywhere from 10,000 board feet to over 1.5 MMBF per year. These small mills are scattered throughout the state and make up less than 5% of the total lumber output statewide. However, these smaller mills can be incredibly important to the economic viability of rural communities, landowners trying to manage their forests, and to the diversity of the forest products industry. Figure 
+21
+ shows the location of Montana's primary forest products manufacturers. Historically, Montana's main market for the smaller material was the pulp mill in Frenchtown, which closed in 2010. There are two log chipping facilities, several post and pole mills, one shavings mill, and other small wood products facilities throughout the state (USDA FS, 2020). Most mill residuals in the state are utilized at secondary manufacturing facilities producing medium density fiberboard, particle board, and a variety of paper and cardboard products. Bark is also used to provide heat for the kilns used in the lumber drying process and various soil amendments. Almost all (99.5%) of mill residuals generated by Montana mills are currently utilized 
+(Hayes & Morgan, 2017)
+. Slash utilization (submerchantable trees, limbs and branches, etc.) has only advanced incrementally, but a focus on commercializing biochar (engineered charcoal with many beneficial uses) and bio-fuels (petroleum replacements made from plants) has resulted in the establishment of small-scale bio-char production in the state. Additionally, the state is home to several niche enterprises selling finished wood products which yield positive economic impacts. From custom flooring, doors, and trim packages, to furniture and frames, many individuals and communities rely on the sustainable management of Montana's forests for their livelihood.
+
+## Wood Use & Production
+
+In 2018, Montana wood products manufacturers reported a total sales value of primary wood products of $553 million (USDA FS, 2020). Sales of lumber, plywood, and other products accounted for nearly 54% of the total sales value and decreased approximately 13% from 2014 sales. Approximately 84% ($467 million) of Montana's wood products sales were outside of the state, 29% of which was sold to markets in the North-Central states (USDA FS, 2020). Not only have sales decreased, but timber harvest levels have declined by 70% compared to harvest levels 40 years ago (Figure 
+22
+; USDA FS, 2020). 
+
+## Industry Employment
+
+In the late 1980s, both employment and wages in the forest industry reached their peak 
+(Morgan et al., 2019)
+. Over the years, Montana's forest industry has experienced a downward trend in employment, losing approximately 80 manufacturing facilities and approximately 5,000 jobs between 1990 and 2014 
+(BBER, 2017b;
+BBER, 2017)
+. Presently, wood products manufacturing, combined with forestry and logging employment, is estimated at approximately 4,500 jobs, a decline of 5% from 2014. Forest industry support employment, such as tree planters, tree thinners, wildland firefighters, and other relevant positions, was estimated at 3,498 jobs in 2018, an increase of almost 700 jobs since 2014 (USDC BEA, 2019; USDL BLS, 2019).
+Mill wages are typically competitive with other Montana industries. The average primary wood products manufacturing employee earned $49,966 in 2018 (USDA FS, 2020; USDC BEA, 2019; USDL BLS, 2019). Labor income from the forest products industry accounted for nearly $358 million (USDA FS, 2020).
+
+## Issues, Threats, & Challenges
+
+The following are key issues affecting the forest products industry, market development, and wood products innovations in Montana: market competition and fluctuations, technology costs associated with product diversification, consistent log supply, and available workforce.
+Not only is log supply constrained, but the supply itself is at high risk of loss, threatened by catastrophic wildfire and insect outbreaks. To stimulate meaningful investment in existing industry, as well as develop new products and reach new markets, the volume available for harvest likely needs to be increased to levels that are greater than the milling infrastructure is currently utilizing 
+(Morgan et al., 2005)
+.
+Montana's forest products face competition in regional, national, and international commodity markets. Trade in these markets is often demand-driven and traditionally cyclical. International trade is often predisposed to political influences beyond the control of the local industry. At times, east-Asian markets have provided viable outlets for Montana forest products, but the stability of those markets can be uncertain. This creates opportunistic market outlets for the industry, but not necessarily sustainable outlets. Additionally, Canada and the U.S. often compete for representation in North American lumber markets, which is heavily influenced by housing construction in the U.S. Trade disputes over the concern for fair prices in these markets led to the creation of the U.S. & Canada Softwood Lumber Agreement. Through tariffs on Canadian lumber, the agreement has aimed to balance the harvest and production costs of softwood lumber between the two countries. Having been disputed and reenacted several times, the agreement is presently expired, and negotiations for renewal are ongoing. Fair competition in lumber markets will enable Montana's mills to remain viable and productive, now and into the future.
+Distance to markets is also a challenge for establishing new wood product businesses and limiting returns for the existing industry. Currently, the majority of wood milled in Montana is exported to markets where it must compete with other commodity lumber, which is often sourced closer to the consumer. Transport to markets substantially reduces the profit margin for most of the existing industry.
+Mills that have weathered market fluctuations and avoided closures have survived by relying on product diversification and investment in technology capable of economically processing smaller diameter material. Future diversification of timber products will remain necessary, and challenging, as the market for forest products shifts. Diversification and investment in new technologies is limited by the cost of these investments. The cost of most upgrades and investments in new equipment is in the millions or tens of millions of dollars.
+Labor supply challenges are not unique to Montana's forest products industry. The forest products industry, much like the general manufacturing sector in the U.S., still faces the issue of skill gaps in potential employees. Attracting a skilled workforce may be difficult if potential workers believe an industry is declining. As an essential industry, there is potential for wood products to capitalize on the growing number of unemployed workers (available labor) as long as timber supply is consistently available as wood product markets rebound. A consistent or increasing log supply may signal to potential workers that the forest products industry remains viable and can once again grow and thrive in Montana.
+Across Montana, available timber supply is a major factor impacting the size and health of the forest products industry 
+(BBER, 2018;
+BBER, 2019)
+. An inconsistent log supply has resulted in a lack of stability in Montana's wood products industry, which has cascading effects on the industry's work force (Figure 
+23
+). Finding solutions to the issue of inconsistent timber supply and increasing the utilization of forest products is integral to retaining a viable industry and workforce, sustaining forest-dependent communities, and restoring healthy and resilient forests. While these issues are not new, they have continued to shape the industry, especially in the last few decades. Finding solutions to these issues is critical in supporting and maintaining a healthy, viable forest products industry across Montana.
+> More secure fiber agreements to harvest from federal lands provide significant opportunities to both existing and new industry.
+> Joint Venture business structures, where multiple parties share resources and risk, may provide a significant opportunity for both existing industry and businesses new to Montana.
+> Changes in certification protocols may also provide new opportunities.
+> The federal 2018 Omnibus Budget Bill, (Division O, Title II, Sections 204-207) extended the maximum duration of stewardship contracts and agreements up to 20 years in areas where the majority of federal lands are in Fire Regime Groups I, II, and III. > The extension of the stewardship contract period to 20 years provides a more dependable fiber source to support long debt-financing periods and major capital investments, which are required in order to establish new industry. > The bill also allows federal agencies to give a procurement preference for innovative uses of forest products, which could enable increased conversion of low value material into value-added products. This preference may also facilitate market diversification, which is an indicator of a robust and resilient industry.
+> Existing industry, which has better accessibility to resources through established relationships and networks, has more influence in the state than new independent ventures. These entities have existing capacity and long-term relationships with log suppliers and the logging industry, but have limited onhand capital to modernize and diversify production. > Joint ventures provide logical solutions where new entities can partner with existing industry to diversify production at existing mills without subjecting existing industry to unacceptable levels of financial risk, in which they carry all debt. > Joint ventures provide opportunities for combining resources and expertise, diversifying production and distribution, and distributing investment risk.
+> In 2019 the Forest Stewardship Council completed their supplementary requirements for certification of USDA Forest Service lands, enabling certification of National Forests at the forest level 
+(FSC, 2019)
+. > This provides opportunities for existing industry to source Forest Stewardship Council certified wood, new businesses to establish themselves in the state, and provides an opportunity to develop stronger relationships between individual entities and forests. Historically, areas with large federal land ownership have been excluded as a resource supply.
+> The United Nations Intergovernmental Panel on Climate Change Report 
+(2007)
+ states that "in the long term, a sustainable forest management strategy aimed at maintaining or increasing forest carbon stocks, while producing an annual sustained yield of timber, fiber, or energy from the forest will generate the largest sustained mitigation benefit."
+> The use of technology in the industry has created an opportunity for wood processing improvements that increase the production capacity of harvested trees, minimize processing waste, and maximize the potential for value-added wood byproducts. Technology development focused on improving the economic feasibility of managing small diameter fuels and fuels in the WUI will be critical to effectively reducing wildfire risk to communities and infrastructure.
+> With growing interest in climate solutions and carbon mitigation, there is a resurgence of interest in wood as a building material, fuel source, and manufacturing material for a multitude of innovative products. > Wood is the only major building material that sequesters more carbon in the growth phase than is emitted in harvesting, processing, and transport, making it a powerful tool for storing carbon in the built environment 
+(IPCC, 2007)
+. > Using wood for energy provides a carbon neutral strategy for providing energy and heat (IPCC, 2019). > The forest industry may benefit from increased wood demand as carbon and climate mitigation become increasingly important.
+> In the sawmilling industry, technological improvement has increased the amount of lumber and other products that come from each log 
+(Keegan et al., 2010 a, b;
+Blattner et al., 2013)
+. Many mills have computerized scanners that optimize the amount of lumber sawn from each log and remove workers from dangerous and repetitive jobs that historically contributed to injuries. > While increasing reliance on new technologies may reduce the total number of jobs per unit of timber product produced, these technological improvements have led to better utilization of material and added value for the industry as well as a potential growth in demand for mill workers due to higher processing capacity. The state must actively support the expansion of the existing wood products industry markets and diversification of the manufacturing capacity of forest products, with a focus on increasing the utilization of currently low-value material in value-added products. The Wood Products and Biomass Program, serving to meet these objectives, is carried out by DNRC and is largely reliant on funds received from USDA FS' State and Private Forestry Program, with funds appropriated from Congress.
+> The DNRC Wood Products program builds off the "no markets, no management" paradigm with the knowledge that diversified markets increase opportunities on multiple fronts. > The program supports a diverse forest products economy to increase employment opportunities and revenue generation in rural communities; provides a broader range of silvicultural options available to managers; increases the resilience of forests and communities to wildfire; and increases the industry's resilience to economic shifts and consumer trends. > This program directly addresses the three intertwined goals of reducing hazardous fuels and improving forest health, reducing the costs of forest management, and promoting the economic and environmental health of communities. Some of the program's most recent services include: > Feasibility assessments and engineering and design of commercial scale wood energy systems; > Creating a publicly held Montana wood brand that all wood products producers can incorporate into their individual marketing strategies; > Bringing wood design professionals into the state for professional development of the design-build sector; and, > Supporting continued education in the design-build sector, information sharing, networking, and due diligence for wood product manufacturers and entrepreneurs interested in doing business in Montana.
+
+## Forestry Best Management Practices
+
+Montana's forest practices guidance and regulations are a two-tiered approach to protecting the environment during timber harvest operations, with particular focus on protecting soil and water quality. Montana has a mix of mandatory regulatory laws and voluntary Best Management Practices (BMPs). The regulatory requirements consist of:
+> The Streamside Management Zone (SMZ) Law: passed in 1991, this regulates commercial forest operations that occur adjacent to waterbodies. Rules to implement the law were adopted in 1993 and updated in 2006. The SMZ law regulates the number of trees that can be cut along waterbodies, restricts what equipment can be used, determines where roads can be installed and slash disposed of, and determines when and how equipment can be utilized. > The Forest Practices Notification Law: requires operators or landowners to notify DNRC when forest practices are going to take place on private lands and sets standards for those practices. > The Slash Hazard Reduction Law: requires logging slash be treated following commercial forest management activity. The most common treatments include burning, scattering, grinding, and chipping. In most cases, concentrations of slash are not allowed to be left untreated and a general standard applies to all lands involved in a harvest operation.
+These practices were defined and finalized in 1989. The BMP Working Group oversees and adjusts these practices as needed to reflect new technologies, new information, or changes in harvest methods. DNRC investigates all violations to determine the extent and severity as well as what work is required to mitigate the impacts. DNRC has the authority to impose fines and require restorative actions.
+The law and rules are straightforward in their application and operators have made it their standard operating practice to follow them, leading to a compliance rate of 95% or higher over the last 21 years (DNRC, 2018).
+The Montana DNRC oversees and coordinates a field review of forest practices for BMPs and SMZ compliance every two years. This field review process evaluates whether implemented BMPs and SMZs are effectively limiting non-point source pollution resulting from timber harvest operations in Montana, as required by the Clean Water Act of 1972.
+To keep the public and professionals informed on BMP laws, classes are held annually across the state and DNRC publishes BMP guidebooks and annual reports each year with findings and analysis.
+> Through the Forest Utilization Network, the program completed two analyses of emerging markets. > More analyses of varied wood products are necessary to diversify how the state of Montana utilizes its timber. > Funds have been secured for additional analysis of several potential markets, including biomass export pellets, wood fiber insulation, and wood-wool cement. > These markets were all identified as prime for analysis since they utilize submerchantable sized and quality material, and could operate without direct competition for resources with the state's existing infrastructure. > Robust data on the viability of these markets would enable the Wood Products
+Program and industry to make informed decisions on future product investment. 
+
+## Road Infrastructure on Forested Lands
+
+## Current Conditions & Trends
+
+Roads are a critical and complex component of forest land management that provide necessary access to forested lands. Montana's forest road networks were developed predominantly over the last 70 years and provide land managers and landowners with access to forested lands for active forest, minerals, and grazing management, as well as wildland fire suppression efforts. Roads also provide the general public with access to forested lands for hunting and recreation opportunities and subsistence activities, which are particularly important to rural Montana communities. In contrast to these and other benefits, roads and associated maintenance activities can negatively affect many aspects of the natural environment, including:
+> Stream connectivity; > Water quality (e.g., increased sedimentation from road surface erosion or mass wasting); > Habitat quality (e.g., increased fragmentation, avoidance of habitats); and > Wildlife use (e.g., increased human contact or hunting pressure) (USFWS, 2010). While forest land managers and owners face challenges in managing these extensive road networks, advances in engineering and technology, as well as modern forestry and conservation practices, have helped to minimize and mitigate the impacts of roads on other resources. The existing road system on forested lands of all ownerships was initially constructed to develop areas for public access and timber harvest. In the early years of development, roads were often placed along drainages following creeks, rivers, and existing roads and trails to allow for easier access to forested landscapes (Figure 
+24
+). As understanding of the impacts of roads on forested systems advanced, land managers were challenged with addressing many of these legacy issues.
+Foresters and engineers found that today's road construction practices result in fewer and less intensive adverse environmental impacts than earlier construction methods (USDA FS, 2001). Land managers now use these policies and practices to minimize new road construction, monitor the conditions of existing roads, and actively upgrade and maintain roads to certain standards, which can include restricting the public's access when and where necessary. This becomes more complex as Montana's forest road networks become increasingly important for recreational uses. As populations in counties with higher percentages of federal lands continue to grow faster than counties with fewer federal lands, pressures on recreational infrastructure, especially roads, also increases.
+Montana's forest road network is vast, with tens of thousands of roads mile combined on state, federal, tribal, and private industrial forested lands. The expanding forest road network results in a system of more than 32,000 miles of roads on Forest Service lands Figure 
+24
+. Miles of forest roads in proximity to Montana's watersheds (DNRC, 2020). alone and creates opportunities for new forest uses and activities (USDA FS, 1999). While these entities make up roughly 80% of the forest owners and managers, private nonindustrial forest owners account for the remaining 20% and very little is known about the extent and condition of road networks on these ownerships.
+
+## Issues, Threats, Challenges
+
+## Management Access & Maintenance Costs
+
+Road systems enable landowners and managers to access forested land for active management and are critical for rapid response and effective suppression of wildland fires. Maintaining road networks adjacent to private lands and critical infrastructure, particularly in the wildland urban interface, is integral to protecting lives and properties in the event of a wildfire.
+The configuration of forested land ownership can influence overall transportation system location and design and can pose challenges to gaining temporary or permanent legal access to forested parcels. As the number of landowners increases in any given area, so does the complexity of transportation planning and access management. Individual agency and landowner efforts to construct road infrastructure do not necessarily consider landscape-scale needs or designs across ownerships. This may result in missed opportunities for access, road system redundancy, or removal of roads on one ownership that may be beneficial to adjacent owners.
+
+## Road to access Canyon Campground / Photo by Barbara Timms & courtesy of USDA FS
+
+In some cases, fragmentation of ownership can inhibit temporary or permanent access efforts if landowners restrict or deny access across their land to adjacent properties. Federal, tribal, state, and private industrial forest landowners have traditionally been motivated to partner in reciprocal grants of access, in order to manage their large tracts of land and share in the costs of roads whereas small landowners are less likely to have similar needs.
+Where cooperative infrastructure opportunities do exist and are identified, the lengthy process, staff time, and expertise required may inhibit efforts. Disparity in road needs and standards among traditional partners can make cooperative infrastructure development cost prohibitive. Existing and proposed road infrastructure have associated maintenance obligations, which can be challenging to adequately fund, particularly in the absence of road maintenance or cost-sharing agreements or if they are not a part of commercial harvest activity. As managers and forest owners try to reach more challenging ground for active management, the cost of road construction increases with more difficult terrain. Existing road systems are seeing increased use from the public and recreationists, adding to the maintenance requirements.
+
+## Public Recreational Access
+
+Montanans use access to public and private lands for recreational and subsistence opportunities, such as hunting, fishing, hiking, motorized sports, firewood gathering, and camping. Transportation systems are often critical to providing for and sustaining those activities. State, tribal, and federal governments as well as private industrial landowners may allow for either yearlong or seasonal access along various road systems. As Montana's population and tourism industry grow, the pressure on public and private industrial forest ownerships increases. With more building and housing development adjacent to public or large forest lands, public access may become more challenging to obtain and maintain 
+(USDA FS, 2007)
+. Increased recreational pressure can make small private landowners unwilling to grant unrestricted public access across their properties for fear of vandalism, liability, or conflict with their desire for privacy or exclusive use (USDA FS, 2017). Alternatively, increased housing development adjacent to national forests could lead to easier access and exacerbate overuse issues associated with multiple entry points 
+(USDA FS, 2007)
+.
+Nationally, it is estimated that 17.3 million acres (9%) of all National Forest System lands, and 20 million acres (approximately 4%) of BLM lands have no legal right to public access 
+(Green, 2014)
+. Additionally, a recent report by the Theodore Roosevelt Conservation Partnership and onX cites that nearly 13% of state lands across 11 western states are landlocked by private lands and therefore inaccessible to the public without express permission from a neighboring landowner 
+(TRCP, 2019)
+. In Montana, it is estimated that over 1.52 million acres of federal land and 1.56 million acres of state land are inaccessible to the public (Montana State Senate, 2019).
+
+## Impacts of Roads on Water Quality
+
+Forest roads have the potential to increase erosion by disturbing soils and removing vegetation, which reduces the ground's ability to intercept and filtrate precipitation 123 
+(Swanson et al., 1987)
+. This increases surface runoff, which can deliver sediment and degrade water quality, channel conditions, and aquatic habitat. Roads can influence surface runoff, particularly during storms and rapid snowmelt, and the overall length and density of roads can indicate the sediment loading potential within a given area. Sedimentation is mostly likely to occur where roads run adjacent to water bodies or cross stream channels. Additionally, the potential for soil erosion from road areas is greatest immediately after construction and lessens with time 
+(Grace, 2000)
+. Increased sedimentation in streams, rivers, lakes, and wetlands can lead to higher water temperatures, the potential introduction of pollutants, higher nutrient load, and decreased soluble oxygen 
+(US EPA, 1991)
+. All of these factors can impact the quality of habitat for fisheries and other aquatic life, particularly for species that require cold and clear water, and substrates that lack fine sedimentation.
+
+## Impacts of Roads to Wildlife
+
+As human development and associated roads increase, the changes to the landscape can result in the direct loss of habitat, reduced habitat productivity, and increase in humanwildlife conflicts 
+(McKinney, 2002;
+Hansen et al., 2005;
+McCance et al., 2017)
+. Eliminating or fragmenting habitats can lead to local extirpation or reduced resilience to new stressors, such as climate change or other factors 
+(Beller et al., 2019;
+Hames et al., 2006)
+. There are indirect effects of roads to wildlife, such as the introduction of exotic plants and increased human activities 
+(Hansen et al., 2005;
+Beissinger & Osborne, 1982)
+. Individual habitat changes in isolation may seem minor, but effects of habitat changes can accumulate over time, magnifying their overall impact 
+(Smith et al., 2011;
+McGarigal et al., 2001;
+Nitschke, 2008)
+. Some species of wildlife may also become restricted and unable to complete migrations to important seasonal habitats as a result of fragmentation. Roads can impede genetic flow across regions, which impacts long-term population health 
+(Pelletier et al., 2017;
+Miller & Waits, 2003;
+Keyghobadi, 2007)
+. This impact is of particular concern for large carnivores and ungulates, species that naturally exist at low densities and require expansive home ranges through both forested and open areas 
+(Dixon et al., 2007)
+. Such barriers to movement and migration include physical restrictions like fences, areas of avoidance like busy highways or railroads, or areas where human-wildlife conflicts may occur (particularly for large carnivores) such as housing developments. Animal species respond differently to barriers across the landscape and to levels of human use, making the total effect of fragmentation difficult to assess. For example, bears will use road corridors to travel through their ranges, and consequently have seen an increase in human-caused mortalities by vehicle collision 
+(Gunther & Biel, 1999)
+. Lynx and mountain lions move away from roads, getting pushed out of preferred habitat into less desirable areas. This impact will only increase as more roads fragment the landscape 
+(Basile et al., 2013)
+. Roads add to forest fragmentation more than clearcuts because they dissect large patches into smaller pieces and convert forest interior habitat into edge habitat 
+(Reed et al., 1996)
+. In Montana, population growth patterns are heavily concentrated in the western part of A black bear crosses a road in Glacier National Park / Photo courtesy of USDA FS the state, in areas that correspond with heavy forest cover. Much of this growth increases pressure on forest habitats, as it brings an influx of new house construction further into core habitat and migration corridors 
+(Adhikari & Hansen, 2018)
+.
+
+## Opportunities & Existing Strategies Transportation Planning
+
+Large forest landowners and managers provide opportunities to communicate transportation planning across multiple ownerships and potentially coordinate beyond the scale of individual projects. Federal agency transportation planning efforts associated with land and resource management plans offer the public and partnering agencies the opportunity to engage in road network design. These opportunities should be pursued to ensure that road systems remain or become available for public recreation, wildland fire suppression, and management needs. Better coordination across ownership boundaries could also reduce overall costs and environmental impacts.
+
+## Access Policies, Laws, & Statutes
+
+State and federal policies provide opportunities for agencies to coordinate access to public lands through various means, including land exchange, land purchase, reciprocal access agreements, direct negotiations with landowners to secure easements, and establishing existing and historic rights of way (USDA FS, 2017). These methodologies allow for management access, and many of the guidelines and policies also allow for and encourage agencies to pursue public access (e.g. 
+DNRC, 2006)
+.
+The Montana Legislature recently passed legislation aimed at increasing public access to otherwise inaccessible public lands in the state. The 2017 legislature created The Montana Public Lands Access Network (MT-PLAN) to facilitate collaboration among recreationists, private landowners, and land management agencies to enhance public access throughout the state (DNRC, n. d.). Through MT-PLAN, DNRC collects voluntary contributions and awards grants that help eligible groups gain access to hard-to-reach public lands for recreational purposes by acquiring easements across private land. In 2019, the Public Access to Lands Act was passed, providing additional funding for FWP to negotiate agreements with private landowners in order to secure public access to inaccessible public lands.
+The Land and Water Conservation Fund (LWCF) Coalition, established by Congress in 1964, calls for the use of revenue from offshore gas and oil development to protect national parks, areas around rivers and lakes, national forests, and national wildlife refuges from development as well as to provide matching grants for state and local parks and recreation projects (LWCF, n. d). Over time, the LWCF grew to include grants to protect working forests, wildlife habitat, critical drinking water supplies, and an increased use of easements. 40% of the program's funding must be directed to individual states for the acquisition and development of outdoor recreation and facilities. This funding could help provide access to public lands. Most recently, the Great American Outdoors Act of 2020 made the LWCF permanent, ensuring the protection of public lands for generations to come (US 116th Congress, 2020).
+
+## Road Costs & Commercial Forest Management
+
+Land managers are more likely to accept infrastructure development when it's viewed as an investment rather than just a cost. Commercial timber harvest is often a cost-effective way to pay for road improvements, reconstruction, and to develop new roads necessary for management purposes. When a timber sale is advertised, potential purchasers account for the road costs and adjust their bid accordingly. This allows agencies to achieve transportation management simultaneously, as they accomplish forest management objectives without having to spend limited appropriated dollars.
+
+## Agency Specific Guidelines for Road Management
+
+State and federal agencies develop policies, rules, and handbooks that guide overall road management, as well as practices for road construction, placement, and maintenance. Montana law requires both private and governmental entities to adhere to specific guidelines when building or maintaining roads, which many agencies incorporate into their respective policies. For example, Administrative Rules of Montana 
+(ARM 36.11
+.421) provides DNRC with specific guidelines for road design, construction, use, inspection, and maintenance. The ARM requires DNRC to comply with applicable BMPs for road management, as well as the SMZ law and the Montana Stream Protection Act. The USDA Forest Service's National Core Best Management Practices Technical Guide (USDA FS, 2012) provides site-specific criteria for new road design and existing road improvements on USDA Forest Service-managed roads. It also states that improvements to existing Forest Service road systems are made on a priority basis that considers road and resource condition, values at risk, available funding, and cost. The consideration for improvement coincides with the overall objective to avoid, minimize, or mitigate adverse effects to soil, water quality, and riparian resources.
+Conservation commitments in several state, tribal, and federal policies also require those entities to regularly inventory roads and road closures, and to implement corrective actions within a specified timeframe to address issues discovered in the inventories.
+
+## Streamside Management Zone Law
+
+The Streamside Management Zone (SMZ) Law regulates road-related activities conducted immediately adjacent to streams, lakes, and other waterbodies that provide effective sediment filtration to maintain high water quality. The SMZ Law prohibits the construction of roads in an SMZ except when necessary to cross a stream. It also prohibits depositing road fill material within an SMZ during road construction, except when necessary to construct a stream crossing.
+
+## Forestry Best Management Practices
+
+Montana's Forestry Best Management Practices (BMPs) support soil and water quality protection during logging operations. The following agencies voluntarily adhere to BMPs: the forest products industry, private forest landowners, and state, tribal, and federal agencies. BMPs promote minimizing the number of road and stream crossings, designing roads to minimize erosion, installing adequate drainage, and maintaining roads to certain standards to minimize disturbance over time. For more information on BMPS, see the Working Forests & Economies section.
+
+## Montana Streambed and Bank Preservation Act & Montana Stream Protection Act
+
+The Montana Streambed and Bank Preservation Act and Montana Stream Protection Act aim to minimize impacts to streams and rivers from management activities that may alter the beds and banks of streams and rivers. Private, local, state, and federal government entities must obtain permits to conduct road construction work in or near stream channels, and must make efforts to minimize adverse impacts to water quality and fisheries and aquatic habitat.
+
+## Habitat Conservation Plans
+
+Habitat Conservation Plans (HCPs) offer opportunities for non-federal entities to partner with the federal government to develop conservation strategies that contribute to the recovery of species listed under the Endangered Species Act. Plans outline how those entities will minimize and mitigate impacts related to management activities. In Montana, DNRC and private industrial forest owners developed HCPs associated with forest management activities and, specifically, forest road management. Among other things, the conservation strategies in these plans are aimed at managing for baseline road densities, employing strategies to minimize road sedimentation to waterways, and managing human use of forest roads to minimize impacts to grizzly bears. Additionally, these strategies outline annual programs and road inventory methodologies, as well as make timely corrective actions to identified issues.
+
+## 127
+
+Data & Program Gaps > Lack of or incomplete road inventories on all ownerships, including status and condition. > Lack of easily accessible right-of-way data and mutually-beneficial cross-boundary projects. > Lack of emphasis on joint transportation planning or a comprehensive approach for large-scale, effective, and efficient systems. > Loss of institutional knowledge regarding how to implement existing programs or mechanisms for shared access, road construction, and road maintenance. > Lack of shared data among stakeholders. > Lack of statewide comprehensive public access data.
+
+## Biodiversity & Habitat Conservation
+
+## Wildlife
+
+The forested ecosystems in Montana are diverse and extensive, providing suitable habitat of sufficient quality and extent to support species and ecosystems that are of conservation concern. Fish and wildlife provide ecological, recreational, economic, and aesthetic values to the state, its citizens, and visitors. Many species serve as indicators of ecological integrity, with direct ties to human wellbeing.
+The distribution and abundance of species is determined by their habitat requirements, which therefore indicate where individual species and communities will be distributed geographically 
+(Hanski, 1982)
+. Native fish and wildlife are adapted to the conditions of their native plant and aquatic communities, which themselves have historically operated within a natural range of variation. Generally, managing forested habitats within this range accommodates habitat requirements of wildlife. Whereas this approach to managing forests A tree swallow perched in Lolo National Forest / Photo courtesy of USDA FS works as a general rule, some species-specific habitat requirements or unique habitat settings may require more customized forest management strategies.
+Studies have found that the species composition within a forested ecosystem changes as the frequency of natural disturbance regimes changes 
+(Long, 2009)
+. Managing forests for a temporal and spatial range of natural disturbance patterns is critical for the maintenance of healthy, functioning ecosystems 
+(Thom & Seidl, 2016)
+. Management for ecological resilience also must address anthropogenic disturbance patterns, including those resulting from recreation, roads, structure development, and changing land uses. As human activities and developments disrupt these natural systems, they affect the current status and future trends of ecosystems and their component fish, wildlife, and plant communities 
+(Haddad et al., 2015;
+Seidl et al., 2016)
+.
+Forest ecosystems are dynamic and constantly undergoing some degree of change within a natural range of variability, but currently face challenges that threaten their ability to provide the habitat and conditions necessary for healthy, viable fish and wildlife populations 
+(Hansen et al., 2002;
+Mortelliti et al., 2010;
+Prugh et al., 2010)
+. Montana FWP coordinates with federal land management agencies (USDA FS, BLM, NPS), the Montana DNRC, tribal governments, non-governmental organizations, and private landowners to minimize adverse impacts on unique fish and wildlife resources. Montana FWP is mandated to consider not only the needs of popular game species, but all other species with critical conservation needs 
+(Montana FWP, 2011)
+. In Montana, a variety of entities with applicable expertise (such as state and federal agencies, private consulting firms, universities, and NGOs) have resources that can provide project-specific information and recommendations where fish and wildlife habitats are affected by land management activities, including forest management.
+
+## Current Conditions & Trends
+
+The following discussion covers the key components of biodiversity and habitat conservation in Montana: ecosystems, ecosystem processes, and species that depend on particular habitats within the ecosystem.
+
+## Species, Plant Communities, & Ecosystems of Concern
+
+A general goal for effectively conserving forested fish and wildlife habitat is to "maintain natural forest characteristics at scales of size that are sufficient for sustaining ecosystem functions, in a manner that retains connections between intact ecosystems and accounts for human disturbance." Priority fish and wildlife habitats (within intact ecosystems) comprise aquatic and terrestrial areas that support seasonal, yearlong, or connectivity needs of game species, furbearers, and species of greatest conservation need.
+
+## Ecosystems & Ecosystem Processes: Forest Community Types
+
+Montana's State Wildlife Action Plan (SWAP), released in 2015, identifies community types and non-game species of concern with a focus on Community Types of Greatest Conservation Need as well as fish and wildlife "species of greatest conservation need." For fish and wildlife, these are equivalent to Montana's Species of Concern, a list maintained by the Montana Natural Heritage Program, which is regularly updated as new information becomes available. This list also includes federally-listed species under the federal Endangered Species Act. The SWAP serves as a guide for habitat conservation throughout the state and specifically describes four priority forested wildlife habitats as adapted here.
+Montana's list of Species of Concern consists of over 200 species including Pallid bat, Black-footed ferret, Clark's grebe, Spiny softshell, Brown's microcylloepus riffle beetle, Idaho giant salamander, and white sturgeon 
+Mesic-Wet Conifer-Dominated Forest
+ This forest community type occurs predominantly in northwestern Montana and extends south along the state line with Idaho (Figure 
+25
+). At elevations ranging from 2,000-5,200 feet, mixed conifer forest is dominated by western hemlock (Tsuga heterophylla), western red cedar (Thuja plicata), and grand fir (Abies grandis), with Engelmann spruce (Picea engelmannii) and subalpine fir (Abies lasiocarpa) found at elevations of 2,900-8,800 feet. Given the productivity of this community type, it has been a priority for timber production in northwestern Montana. Old stumps from past harvest activities provide evidence that large diameter trees used to be much more abundant on the landscape than they are today. This community type supports 27 species of greatest conservation need including the federally-listed grizzly bear (Ursus arctos horribilis), Canada lynx (Lynx canadensis), bull trout (Salvelinus confluentus), and white sturgeon (Acipenser transmontanus). These habitats also support game and furbearer species that commonly occur in this part of Montana, including white-tailed deer (Odocoileus virginianus), elk (Cervus elaphus), black bear (Ursus americanus), mountain lion (Felis concolor), bobcat (Lynx rufus), fisher (Pekania pennanti), and pine marten (Martes martes). 
+
+## Xeric-Mesic Conifer-Dominated Forest
+
+This community type, defined by a tolerance to dry environmental conditions, experiences long precipitation-free periods throughout the summer months (Montana FWP, 2015; Figure 
+26
+). The xeric-mesic community type is found throughout Montana, particularly in montane areas from 2,900-9,500 feet in elevation. The mix of dominant conifer species, which varies based on elevation and soil type, includes lodgepole pine (Pinus contorta), Engelmann spruce and subalpine fir, whitebark pine (Pinus albicaulis), ponderosa pine (Pinus ponderosa, above), Douglas-fir (Pseudotsuga menziesii), western larch (Larix occidentalis), western white pine (Pinus monticola) and limber pine (Pinus flexilis), and rocky mountain juniper (Juniperus scopulorum). This community type supports a diverse mix of fish and wildlife including nearly 50 species of greatest conservation need. Specific areas of the state support the federally-listed grizzly bear, Canada lynx, yellow-billed cuckoo (Coccyzus americanus), pallid sturgeon, and bull trout. Nearly all game and furbearer species associated with forests or montane habitats have ties to this forest type. 
+
+## Floodplain & Riparian Forests
+
+This community type is found throughout Montana, in association with streams, wetlands, and other aquatic habitats (Figure 
+27
+). These areas, influenced by shallow subterranean water, make up less than 4% of the state's landcover but are among the most important for providing seasonal and yearlong habitats for a broad diversity of wildlife species. Riparian areas support breeding, hiding, and thermal cover; nesting structure; a variety of food types; travel corridors; and a host of other ecological and societal values. The shade provided from tall shrubs and trees and the soil-holding value of extensive deep root systems associated with riparian vegetation can be critical for providing cool, clean water, and is integral to providing stream and river channel integrity-critical for many fish species and other aquatic life. Common tree and shrub species include plains cottonwood (Populus deltoides), black cottonwood (Populus trichocarpa), green ash (Fraxinus pennsylvanica), dogwood (Cornus sericea), alder species (Alnus spp.), and willow species (Salix spp.). Over 70 terrestrial species of greatest conservation need inhabit riparian forests, including federally-listed grizzly bear, yellow-billed cuckoo, and northern long-eared bat (Myotis septentrionalis). Riparian habitats have direct ties to aquatic habitats, affecting 15 species of greatest conservation need, including federally-listed bull trout, pallid sturgeon, and white sturgeon. The integrity of riparian forests and associated aquatic habitats are also strongly influenced by the condition and management of adjacent uplands. For instance, controlling noxious weeds, providing soil cover, and managing grazing in a manner that sustains native vegetation, all directly influence riparian habitats. 
+
+## Deciduous-Dominated Forest
+
+This community type occurs as woody draws and woodland patches scattered across the state and is at times indistinguishable from riparian forests (Figure 
+28
+). Common tree species associated with this type in eastern Montana include green ash (Fraxinus pennsylvanicus) and boxelder (Acer negundo). In montane areas, aspen (Populus tremuloides) is more common. These deciduous habitats are uniquely productive, offering high value habitat in the form of nesting cover, browse, and moist understory vegetation, which is attractive to a diversity of mammals and birds, including game species such as deer, elk, and ruffed grouse (Bonasa umbellus), as well as 32 species of greatest conservation need, including the federally-listed grizzly bear. 
+
+## Yellow-billed cuckoo / Photo by Kelly Cogan Azar
+
+Green ash leaves
+At-Risk Species (Species of Greatest Conservation Need)
+Similar to the situation confronting other western states, changes in Montana's landscape over the past 150 years have resulted in significant declines and losses to many of the state's native species, particularly species reliant on forested ecosystems 
+(Keane & Arno, 1993)
+. Both state and federal agencies, as well as conservation organizations, maintain data, monitor species of conservation concern, and identify habitat considerations associated with these species.
+The federal Endangered Species Act, administered by the United States Fish and Wildlife Service, is the primary legislative tool used to manage for recovery of endangered or threatened species. There are currently 16 animal and three plant species in Montana listed as threatened or endangered under the ESA, and many more are considered "species of concern" by the Montana Natural Heritage 
+Program (MTNHP, 2019)
+. Other federal agencies identify species that overlap with the ESA species, from the BLM's Special Status Species to USDA FS's Species of Conservation Concern. These listed individuals include eight animal species (mammals, birds, and invertebrates) that depend on the cold, clean waters of forested ecosystems for their survival and future success.
+
+## Issues, Threats, & Challenges
+
+## Change in Historic Disturbances
+
+As discussed in the sections on Forest Health and Wildfire Risk in this document, disruption of the natural fire regime and other land use changes have had an impact on forested ecosystems, which has had significant implications for habitat and biodiversity 
+(Bradstock et al., 2005)
+. A natural fire regime once maintained a range of plant communities and structural conditions 
+(Arno et al., 2000)
+, which are important to a variety of native aquatic and terrestrial animal species. The shift away from natural fire regimes has shifted the plant communities in Montana's forests away from those that are fire resistant. Low to mid-elevation ponderosa pine forests across the state are denser, with more trees per acre, while the species composition has gradually shifted to include more fire-susceptible species. 
+(Keeling et al., 2006)
+. Recent research on the effects of reintroducing frequent, mixed-severity fire to such altered forest ecosystems indicates it can restore historic tree and shrub species compositions, and thereby improve habitat conditions for native fish and wildlife 
+(Larson et al., 2013)
+.
+Conifer expansion into grass or shrub-dominated uplands, often due to a lack of fire, can reduce the value of these important habitats for a variety of wildlife species 
+(Coates et al., 2017;
+Schirokauer, 1996;
+Grove et al., 2005;
+Hamilton et al., 2019)
+. For example, sagegrouse avoid tall conifers that pioneer into sagebrush grasslands, thus directly reducing their habitats for varying periods of time 
+(Severson et al., 2017)
+. Shading from coniferous trees can also reduce preferred forage of ungulates-browse or grasses-particularly important within wintering areas.
+Without natural fire disturbance, there has been an increase in Douglas-fir, which is able to out-compete other tree seedlings that cannot become established under shadier or densely stocked stands. In western Montana, Douglas-fir has replaced ponderosa in 40% of its original area, and western white pine has been reduced by 95% due to insect and disease outbreaks 
+(Arno et al., 2000;
+Keeling et al., 2006)
+. Over time, the density of Douglas-fir, lodgepole pine, and Engelmann spruce has increased and replaced stands that were once composed of sparse ponderosa pine. The natural fire regime has been further altered by harvest of large ponderosa pine trees, which left behind other fire-susceptible species in their place. The resulting dense forests of differing composition provide habitats that represent a departure from historic conditions, which may not support the same communities of wildlife species as they once did.
+
+## Severe Wildfires
+
+Wildfires that burn hot enough to kill perennial vegetation and sterilize soils over large contiguous areas, resulting in a loss of the soil seedbank and adjacent seed sources, have extensive long-term impacts on both ecosystem functions and habitat productivity. These fires differ from natural high severity fires in that they are stand replacing, burning the mature trees that may otherwise be adapted to withstanding severe fires and have evolved mechanisms to benefit from fire. Basic ecological functions disrupted by these types of events include increased water runoff and soil loss, increased water sediment loads in streams, loss of overhead and understory cover, and increased water temperatures due to lack of shading. All of these factors culminate in basic changes to habitat functions and productivity for fish and wildlife.
+Examples include loss of hiding cover, loss of food items for herbivores and carnivores, emergence and expansion of invasive plant species, dense dead timber inhibiting ungulate movements, and loss of cold-water fisheries.
+
+## Climate Change
+
+Daily weather and longer-term weather patterns directly affect the productivity of fish and wildlife habitats. For instance, well-timed early-summer moisture can enhance cover and forage availability. Average or better snow pack can assure streams are well watered through the heat of summer. However, weather patterns or actual shifts in climate can affect habitat types, water quality, species occurrence, and overall ecological processes.
+Managing native habitats in a manner that is sustainable over time and resilient to long term weather patterns and shifts in climate is important for maintaining functional forest habitats and landscape connectivity. Employing management strategies that support a diversity and age class of tree species (particularly those that will be better adapted to Photo courtesy of USDA Forest Service predicted climate patterns), control invasive species, and retain soil and water resources are critical for long-term forest and habitat resilience. Over time, areas of biodiversity and resilience may offer priorities for conservation and managing as refugia, particularly for climate-sensitive species 
+(Keppel & Wardell-Johnson, 2012)
+. In addition to earlier recognition of the importance of wildlife habitat connectivity, shifts in climate may also require species to move within and between intact landscapes 
+(Carroll et al., 2018)
+.
+
+## Quality of Habitat
+
+Also referred to as habitat effectiveness or productivity, this pertains to wildlife habitat features associated with a particular area, such as hiding cover and security, forage quality and availability, water availability, space that allows for daily movement and migration, and specific seasonal habitat features. The effectiveness of forested habitats in supporting wildlife needs can be influenced by ecological succession, fire, grazing by livestock and wild ungulates, timber harvest, invasive species, plant disease, human developments, a changing climate, and other factors 
+(Marzluff et al., 2002)
+.
+Public lands often play critical roles for buffering natural areas and providing migration corridors for wildlife. Recreation on public lands can impact wildlife by exploitation, disturbance, habitat modification, and pollution 
+(Knight & Cole, 1995)
+. As outdoor recreation activity increases in popularity, it increases the pressure on wildlife. Wildlife react to recreation activities with behavioral and physiological responses, such as reduced breeding success, changes in abundance, community composition shifts, impacted energy and fitness from fleeing when encountering humans, changes in vigilance, avoidance of disturbed areas , and death 
+(Coppes et al., 2018)
+. Outdoor recreation planning should balance user demands with wildlife and their habitats and promote healthy ecological functioning (MTFWP, 2019).
+
+## Habitat Fragmentation
+
+As human developments or other forms of habitat conversion occur across Montana, such changes can result in the direct loss of habitat, reduced habitat productivity, and human-wildlife conflicts 
+(McKinney, 2002;
+Hansen et al., 2005;
+McCance et al., 2017)
+.
+Eliminating or fragmenting habitats can lead to local extirpation or reduced resilience to new stressors, such as climate change or other factors 
+(Beller et al., 2019;
+Hames et al., 2006)
+. In addition to the direct effects of habitat conversion, there are also indirect effects such as introduction of exotic plants, increased human activities, noises, and roaming pets 
+(Hansen et al., 2005;
+Beissinger & Osborne, 1982)
+. Individual habitat changes in isolation may seem minor, but effects of habitat changes can accumulate over time, magnifying their overall impact 
+(Smith et al., 2011;
+McGarigal et al., 2001;
+Nitschke, 2008)
+.
+Fragmentation may also restrict some species of wildlife and disrupt migrations to important seasonal habitats. Barriers can also impede genetic flow across regions, which impacts long-term population health 
+(Pelletier et al., 2017;
+Miller & Waits, 2003;
+Keyghobadi, 2007)
+. This impact is of particular concern for large carnivores and ungulates-species that naturally exist at low densities and require expansive home ranges through both forested and open areas 
+(Dixon et al., 2007)
+. Barriers to movement and migration include physical restrictions such as fences, areas of avoidance such as busy highways or railroads, or areas where human-wildlife conflicts may occur (particularly for large carnivores) such as housing developments. Animal species respond differently to barriers across the landscape and to levels of human use, making the total effect of fragmentation difficult to assess. For example, bears will use road corridors to travel through their ranges, and consequently have seen an increase in human-caused mortalities by vehicle collision 
+(Gunther & Biel, 1999)
+. Lynx and mountain lions move away from roads, getting pushed out of preferred habitat into less desirable areas. This impact will only increase as more roads fragment the landscape 
+(Basile et al., 2013)
+. Roads add to forest fragmentation more than clearcuts because they dissect large patches into smaller pieces and convert forest interior habitat into edge habitat 
+(Reed et al., 1996)
+. In Montana, population growth patterns are heavily concentrated in the western part of the state, in areas that correspond with heavy forest cover. Much of this growth increases pressure on forest habitats, as it brings an influx of new house construction further into core habitat and migration corridors 
+(Adhikari & Hansen, 2018)
+.
+Severe, uncharacteristic disturbance of significant extent can also compromise habitat continuity and connectivity. Damage caused by large wildfires and widespread mortality from insect and disease outbreaks can degrade habitat within core forested areas, interrupting key migration corridors 
+(Adhikari & Hansen, 2018)
+.
+Identifying areas that are critical for habitat connectivity and working collaboratively across affected agencies and land ownerships to mitigate or conserve habitats is a conservation priority identified in the State Wildlife Action Plan 
+(MTFWP, 2015)
+. The 2020 Montana Action Plan for Implementation of Department of the Interior outlined specific guidelines to improve habitat and migration corridors for wildlife species along with secretarial orders that address individual concerns. These orders set a pathway for state and federal wildlife agencies to collaborate and coordinate in conducting new research and analyzing existing data sets to better define connectivity priorities.
+Pine squirrel / Photo courtesy of USDA Forest Service 138
+
+## Aquatic & Riparian Habitats
+
+Water and associated riparian plant communities are essential to a majority of wildlife species in Montana, and these moist areas tend to provide increased productivity, particularly within dryer habitats 
+(Poff et al., 2011)
+. Deciduous tree and shrub species commonly add to the value of these habitats. Site deterioration can occur if deciduous species are over-browsed or trampled by domestic livestock or wild ungulates, or cleared to promote growth of hay crops, timber, or other land use changes 
+(MTNHP, 2010;
+Poff et al., 2011)
+. These habitats can also be impacted by logging practices within the watershed, which influences timing and intensity of annual runoff 
+(Wang et al., 2013;
+McBroom et al., 2007;
+Fukuyama et al., 2010)
+. Domestic ungulates, and to a lesser extent wild ungulates, can also reduce productivity through soil compaction and impacts to stream channel morphology 
+(Belsky et al., 1999)
+. Natural succession can result in riparian sites being taken over by less productive conifer species-shading out deciduous shrubs and trees.
+Invasive or introduced species, such as Russian olive, buckthorn, tamarisk, Kentucky bluegrass, leafy spurge and houndstongue, can out-compete native plants that wildlife species prefer (MTNHP, 2010). Non-native, invasive forage tends to have lower nutrient value throughout the year and provides lower quality food sources for wildlife 
+(Litt & Pearson, 2013)
+. The overall reduction in habitat quality and productivity is a direct threat to wildlife, both at the individual and population level. For an in-depth discussion of aquatic ecology, see the Aquatic Ecology section.
+Anthropogenic activities including road construction, residential development, logging, and mining can also directly impact riparian and aquatic habitats 
+(MTNHP, 2010;
+Poff et al., 2011)
+. Modifying or removing native vegetation changes habitat features and functions; disturbing soils and compacting surfaces can result in increased water runoff and water 
+(Gaynor et al., 2018;
+Knopf et al., 1988;
+Smith, 2002;
+Fletcher & Hutto, 2008)
+. Increases in sedimentation and pollution and reduced riparian canopy cover can negatively impact water quality for aquatic life adapted to cool, clean forested streams 
+(Beschta et al., 1987;
+Herbst et al., 2011)
+. For an in depth discussion of water issues related to runoff and human development, see the Water Use in Montana section.
+
+## Opportunities
+
+Wildlife Conservation Resources > Montana Fish, Wildlife, and Parks has statutory responsibility for managing and conserving resident wildlife in the state and to administer a variety of fish and wildlife conservation programs. > FWP aids the USFWS in management of migratory birds, fish, and wildlife species listed as threatened or endangered under the ESA. > The USFWS has primary responsibility for managing and recovering federallylisted species under the Endangered Species Act. Actively managing forests where federally-listed species occur may require special considerations to mitigate potential impacts to listed species and support the recovery of listed species. > Professional fish and wildlife staff from a variety of government agencies and private consulting firms can provide information on species occurrence, critical habitat areas, and how forest management can be used to enhance or maintain habitat productivity while also minimizing potentially negative impacts. They can also assist with determining permitting requirements. > Resources are available specifically for private landowners, which is covered under Private Land Conservation.
+
+## Habitat Conservation Plans
+
+> Habitat Conservation Plans are subsection 10(a)(1)(B) of the ESA that provide for partnerships with non-federal parties to conserve the ecosystems that threatened and endangered species rely on. > These are agreements between a landowner and the USFWS in which the landowner agrees to comply with specific conservation initiatives for a federally-listed species 
+(HCP, n.d.)
+. > This aids the landowner by defining what management activities are appropriate within the habitat of a listed species, and provides assurances that the government will honor the agreement without additional limitations to activities conducted on the land. > Without HCPs, landowners are not able to apply for incidental take permits, which allow the landowner to legally proceed with an activity that would otherwise violate the ESA by unlawfully causing harm to a listed species. > Montana has 3 active HCPs, covering approximately 1.5 million acres (USFWS, 2020).
+> The Montana Department of Natural Resources and Conservation HCP covers land throughout the western portion of the state, managing more than 629,000 state-owned acres for optimal habitat use by five target species for the next 50 years and with the intention to add more land as they can (DNRC, 2011) > The Plum Creek Native Fish HCP manages over 969,000 acres of land for optimal habitat use by four target species. > The Burlington Northern and Santa Fe Railway Company Grizzly Bear HCP covers land in the Middle Fork Flathead River Corridor, which forms the southern boundary of Glacier National Park and lies north of the Great Bear Wilderness. This HCP is specific to railroad operations that may directly or indirectly impact grizzly bears.
+Westslope cutthroat trout / Photo courtesy of USFWS 141
+
+## Candidate Conservation Agreements
+
+A Candidate Conservation Agreement is a formal agreement between the USFWS and one or more parties to address the conservation needs of proposed or candidate species, or species likely to become candidates, before they become listed as endangered or threatened. Landowners voluntarily commit to conservation actions that will help stabilize or restore the species with the goal that listing will become unnecessary. Candidate Conservation Agreements may benefit landowners in several ways:
+> 1. If the actions preclude listing, the landowner is not regulated by the Endangered Species Act. > 2. If the conservation actions are not sufficient and the species is listed, the Agreement automatically becomes a permit authorizing the landowner incidental take of the species. Thus, the agreements provide landowners with assurances that their conservation efforts will not result in future regulatory obligations in excess of those they agree to at the time they enter into the Agreement. > 3. For landowners who want to conserve the species or want to manage habitat on their land, the Agreement provides an avenue to potential federal or state cost-share programs.
+
+## Existing Strategies
+
+Planning Resources FWP, along with partner agencies and organizations, has conducted extensive work identifying species distribution, habitat priorities, conservation strategies, and guiding documents. With ongoing monitoring, baseline studies, research, and modeling, information on habitat priorities continues to be refined and updated. These resources do not override federal strategies for the recovery of threatened and endangered species nor the direction contained in federal land and resource management plans from USDA FS and BLM. The following information resources on this topic are publicly available and intended to be used in concert with existing conservation and habitat management strategies:
+> The Crucial Areas Planning System was developed to provide useful and nonregulatory information during the early planning stages of development projects, conservation opportunities, and environmental review. The web-based GIS system is available for public use through FWP's website, under "Fish and Wildlife" and then "Crucial Areas Assessment." The system is a coarse scale reference, with data resolution to 1 square mile or at the waterbody level. > The State Wildlife Action Plan identifies species and community types of greatest conservation need and their associated threats and conservation strategies. > The Forest Legacy Assessment of Need, which is being updated in concert with this Forest Action Plan, provides a layout of conservation priorities for "working forests" that encompasses wildlife habitat attributes and a variety of other ecosystem services.
+> The State Wildlife Grant program was created in 2000 by the USFWS in order to support state fish and wildlife conservation plans nationwide. State Wildlife Grant funds are used for the development and implementation of programs that benefit wildlife and their habitat and include species that are not hunted or fished. > The 2020 version of the Montana Action Plan for Implementation of Department of the Interior Secretarial Order 3362: "Improving Habitat Quality in Western Big-Game Winter Range and Migration Corridors," identifies priorities and provides funding for habitat conservation and restoration efforts targeting mule deer and elk in forested portions of Montana. > Other Map Layers: FWP also maintains finer scale maps of priority habitats, species distributions, and in some cases predicted distributions for individuals and groups of fish and wildlife species. > The Montana Natural Heritage Program maintains and distributes information on the status, distribution, and ecology of fish and wildlife, invertebrates, vascular plants, bryophytes, lichens, and ecological systems. > The U.S. Fish and Wildlife Service houses information specifically pertaining to federally-listed species and associated critical habitats.
+Each of these resources serves as a general reference for early planning and anticipating potential future forest management concerns. Forest management planning is most effective when landowners and managing agencies contact state and federal wildlife staff early in the planning process. The resources, information, and requirements of the above strategies help to inform appropriate management regarding forestry operations, minimizing human-wildlife conflict, and private land conservation as discussed below.
+Flathead National Forest / Photo courtesy of USDA Forest Service
+
+## Forestry
+
+Simultaneously managing forest conditions to benefit fish and wildlife habitat while managing public and private forests through silvicultural planning and prescriptions helps ensure wildlife sustainability and, in many cases, results in habitat improvement for targeted species groups.
+> Silvicultural practices can affect plant community composition, seral stage, and structure; invasive species occurrence and abundance; habitat security; stream temperature and sediment loads; and a variety of other habitat characteristics. > Montana's voluntary Forestry Best Management Practices and the Stream Management Zone statute serve to provide basic protections for soils, streams and wetlands, and riparian habitats. > Fish and wildlife habitat values vary from area to area and may also be influenced by management of adjacent lands. Land managers should consider the potential for their management prescriptions to meet their goals in the context of individual species needs and adjacent land uses.
+> Management that emulates natural disturbances and reduces the risk of catastrophic wildfire can improve forest conditions and promote wildlife habitat into the future.
+
+## Human-Wildlife Conflict & Co-existence
+
+Forested habitats are subject to a variety of uses beyond forestry including livestock grazing, recreation, transportation, and exurban development.
+> Some uses, such as grazing and recreation, can be conducted in a manner that is compatible with habitat values or may even serve as a habitat enhancement. > Other uses, including human developments, can be difficult to design to reduce impacts. > Identification and conservation of key habitats is often the most effective approach for minimizing threats to fish and wildlife. > For all substantial uses of forest land, involving professional fish and wildlife staff early in the planning process is key for understanding potential impacts and mitigative options. > Montana Fish, Wildlife & Parks provides information to landowners on ways to minimize wildlife conflicts and more effectively coexist with wildlife.
+> For instance, building a road network into an area that provides security for ungulates could result in displacement to adjacent habitats. If such a treatment took place in an area where there is plenty of alternative security habitat, this impact may be minimal. > If the same activity were to occur in an area where security is limited, the treatment could be deleterious and may even be cause for other management challenges, such as displacement of public wildlife from public to private lands. The field of wildlife conservation benefits from ongoing research and modeling to help answer a variety of questions, such as how fish and wildlife use their habitats, how they move across landscapes, what habitat characteristics are most suited to sustaining populations, and how changes in habitat affect their productivity.
+
+## Private Land Conservation
+
+> New findings and new research questions are constantly emerging. > Wildlife biologists must adapt management strategies based on the latest science. > FWP, USDA FS, and partners have a considerable history of investigating management-pertinent topics, including topics that involve forest species and forested habitats.
+The 2015 State Wildlife Action Plan identified species of greatest inventory need, which are species at risk of extirpation but for which there is very little data on the population status.
+> FWP is systematically working to address these data gaps but funding is very limited; typically these species are difficult to survey due to their remote locations, low densities, and unique life-history adaptations. > There is no consistent estimate of population status for the vast majority of Montana's wildlife species. Large-scale trends in abundance are largely unknown for many species. > For the past several years Congress has made an effort to make supplemental funds available for management of fish and wildlife species of greatest conservation need as determined by state fish and wildlife agencies.
+
+## Aquatic Ecology
+
+This section describes aquatic ecology through four focus areas: forest and ecosystem health; aquatic ecological systems; climate change; and freshwater riparian conditions. For more detailed information on water resources and human use, see the Water Resources section.
+In Montana, water connects terrestrial and aquatic ecosystems, providing crucial habitat and ecosystem services from snow-fed or glacial headwaters to forested streams, wetlands, rivers, and lakes. Maintaining aquatic ecosystem health in Montana, as throughout western North America, requires a focus on large-scale landscape > Among current research topics, FWP and partners are collaborating on more complete and accurate statewide delineation of key travel zones and travel impediments for ungulates and carnivores. > Movements include daily movements, seasonal migrations, and routes that support genetic connectivity between populations. > A better understanding of this topic will help guide priorities for investing in habitat conservation, identifying and mitigating impediments to animal movements, collaborative landscape planning, and considering different forest treatment options.
+conservation 
+(Noss et al., 2002;
+Hauer & Muhlfeld, 2010)
+. Aquatic ecosystems have been impaired due to impacts from a wide range of historical and current land uses. Specifically, the waste products generated by many land uses (e.g., mining, road building, agricultural activities) are transferred directly to aquatic ecosystems through runoff, either during spring snowmelt, rainfall, or irrigation. Human needs place a disproportionate demand on aquatic resources relative to neighboring terrestrial lands, which compound downstream as streams and rivers converge.
+The anticipated changes in Montana's climatic conditions will alter air temperature, precipitation, and snowpack in ways that will shift hydrologic regimes of river and stream networks, shrink or eliminate isolated wetlands, and put additional stress on groundwater, surface water reservoirs, and water delivery systems 
+(Whitlock et al., 2017)
+.
+What is an aquatic ecosystem? Aquatic ecosystems support a wide range of organisms, including fish, amphibians, plants, invertebrates, and microorganisms.
+Aquatic biodiversity is a critical consideration in water conservation, restoration projects, and water resource management. Concern regarding the biological health of wetlands, rivers, and lakes has spawned the concept of 'ecosystem services' as a means to assess the societal value provided by different natural environments such as aquatic environments. While this lens can focus on larger species of commercial value (e.g., fish), it is widely accepted that healthy waters require the full spectrum of organisms as part of a functioning aquatic ecosystem.
+
+## Current Conditions & Trends
+
+## Forest Influence on Aquatic Ecosystem Health
+
+In addition to providing direct material and human health benefits, Montana's forests support vital aquatic ecosystem services. Linked upland and aquatic forested ecosystems provide a range of services that humans depend on, including flood mitigation, water filtration, improved soil fertility, preventing runoff and sedimentation, buffering against drought, and protecting critical drinking water resources 
+(Karjalainen et al., 2010;
+Tkacz et al., 2008)
+. For their primary drinking water supply, more than 44 municipalities in Montana depend on surface water sources whose headwaters are in forested areas-mostly on public land. For these communities, healthy aquatic ecosystems have direct impacts on downstream water quality and human health. Maintaining overall forest health in these watersheds, including wetland cover, stream buffers, and native vegetation, has direct positive benefits on stream health and water quality 
+(Horner et al., 2001)
+. Conversely, dense and overgrown forests or those that have been degraded near streams, wetlands, ponds, or rivers have limited ability to provide those ecosystem services for ecological and human benefit.
+
+## Wildfire & Aquatic Ecosystem Health
+
+A large body of existing research explains how wildfires impact stream temperatures, sediment runoff, nutrient cycles, and food webs 
+(Mahlum et al., 2011;
+Spencer et al., 2003)
+. Wildfires can increase erosion, stream sedimentation, and large woody debris presence in streams; this can hinder or enhance individual ecological functions, which can shape and maintain the integrity of aquatic ecosystems. Wildfire also has an immediate impact on the physical, chemical, and biological characteristics of freshwater habitats, as well as lasting effects on aquatic systems, depending on the severity of the wildfire and upland forest recovery following wildfire. During a severe wildfire, nutrient levels, particularly nitrogen and phosphorus, increase sharply when ash and sediment enters the water. These excess nutrients are leached out of upland areas at abnormal rates and
+Clearwater River / Photo courtesy of USDA Forest Service can contribute to harmful algal blooms and low dissolved oxygen levels, both detrimental to aquatic health. The effects of wildfire on water chemistry can last many years after a wildfire event, with nutrient concentrations increasing periodically, especially during spring run-off 
+(Spencer et al., 2003)
+. For a deeper discussion of fire effects on the landscape, see the Wildfire Risk section.
+
+## Aquatic Ecological Systems
+
+Healthy watersheds and aquatic habitats are vital for sustaining productive and diverse aquatic resources across the ecosystem. Freshwater habitats-lakes, rivers, streams, ponds, and wetlands-occur throughout the state of Montana. The state Water Management Bureau has organized surface and groundwater management based on regional watershed basins, consisting of four major river basins: Clark Fork/Kootenai River Basins, Lower Missouri River Basin, Upper Missouri River Basin, and Yellowstone River Basin (DNRC, n.d.; Figure 
+29
+). Each watershed basin has a specific water plan, prepared by DNRC, that outlines the socioeconomic impacts, water use profile, and environmental concerns associated with the watershed. The technical information that contributes to water plans includes surface water reports and groundwater reports. 
+
+## Issues, Threats, & Challenges
+
+Threats-which are considerable and diverse-to Montana's aquatic ecosystems and their associated biodiversity include wildfires, climate change, land use change, novel disease, and threats posed by invasive species. Ecological changes are commonly the result of complex interactions among multiple stressors, and this change often continues long after the stressors are relaxed 
+(Craig et al., 2017;
+Likens et al., 1970;
+Trombulak & Frissell, 2000)
+. 80% of all water in Montana originates as snow or rain (as opposed to flowing into the state in rivers that originate elsewhere), which is why it is considered a headwaters state 
+(DNRC, 2015)
+. Developing management strategies for the sustainable use of water resources will require a deeper understanding of the underlying mechanism behind forest ecosystem dynamics and water-land interactions.
+
+## Climate Change
+
+Changes to climate are the principle drivers of change for water resources. Climate change affects where, when, and how much water is available. Annual streamflow, or the amount of runoff generated by a watershed throughout the year, is affected by the quantity and timing of rainfall, snowmelt runoff, groundwater discharge, and glacial runoff. Snowpack in Montana is declining in the mountains east and west of the continental divide, with the decline since the 1980s being the most pronounced 
+(Whitlock et al., 2017)
+. Warming temperatures are expected to reduce snowpack at mid and low elevations, with a shift toward earlier snowmelt. This means that spring runoff associated with snowmelt will occur earlier in the year, reducing late-summer water availability in watersheds that rely on snowmelt as a primary source of water 
+(Whitlock et al., 2017)
+ With snowmelt occurring earlier and in a shorter duration, the potential for streamflow volumes to exceed the capacity of the water body are greater, which increases risk of flooding. The influence of climate on snowpack is one of the major linkages between climate change and water supply 
+(Whitlock et al., 2017)
+.
+Aquatic communities are adapted to periodic flooding, but floods beyond the range of natural variability have the potential to drastically alter floodplain structure, function, and associated riparian communities 
+(Hjalten et al., 2016)
+. Floods can move large amounts of soil, sand, gravel, silt, and nutrients, depositing the debris downstream as the velocity slows. Floods also transport aquatic organisms themselves and can result in widespread mortality of specific populations of species that may not be able to return to their original territory or adapt to their new habitat. Both the loss of substrate upstream and the sudden increase of substrate downstream impact aquatic ecosystems.
+Increased temperatures will not only affect snowpack, they will also have impacts on all the processes involved in the water cycle (Figure 
+30
+). Climate warming will increase the speed of evaporation in seasonal wetlands, water sources that are vitally important to fish and amphibian species, as well as insects and plants 
+(Sepulveda & Ray, 2017)
+. These lowlying floodplains have changed over time, partly due to human alterations. In Yellowstone National Park, long term monitoring of wetlands and their associated amphibian populations has shown an alarming trend.
+The number of seasonal wetlands has decreased sharply, and those that have not dried and disappeared entirely have been less able to support amphibian populations 
+(McMenamin et al., 2008)
+. Amphibian populations, being extremely sensitive to changes in the aquatic environment, have been used as an indicator species for overall understanding of environmental degradation. A black tern in a wetland in Lolo National Forest / Photo courtesy of USDA Forest Service
+Ecosystem Engineers: The Case for Beavers
+Post-settlement human activity in Montana has severely altered floodplain structure and function. Historically, beavers (Castor canadensis) were present in much greater numbers before European colonization 
+(Wohl, 2006)
+. Beaver dams increase riparian vegetation, raise water levels, reduce the effects of peak flows from floods, and prevent sediment from being transported downstream 
+(McCullough et al., 2005)
+. Dams form low-flow areas within the water body, adding fish cover and breeding habitat for amphibians, as well as increased habitat suitability for some aquatic insects 
+(Marcus et al., 2002)
+. Beavers are widely known as "ecosystem engineers," providing structure to wetlands and streams, and changing nearby forest structure. Beaver-dammed riparian corridors have also been shown to remain unaffected by wildfire when compared to similar riparian areas without beaver dams. Beaver activity plays a significant role in riparian vegetation fire resistance and refugia creation (Fairfax & Whittle, 2020). The large reduction in beaver populations is a leading cause of the loss of wetland habitat and deteriorating riparian ecosystem health 
+(Marston, 1994)
+. Natural resource managers around Montana are working to reintroduce beavers or install "beaver analog" devices to targeted watersheds; the goal is to increase water storage capacity and restore riparian functions to provide more cool, clean water for downstream needs. Water temperature is an important trait of aquatic habitats and a primary driver for the distribution of aquatic species 
+(Herb & Stefan, 2011)
+. Water temperature is used to classify streams and aquatic species and also affects and controls macroinvertebrates that serve as food sources 
+(Durance & Ormerod, 2007)
+. The effects of climate change on fresh waters have already been seen, with decreased ice cover duration on lakes and rivers, warming temperatures shifting the species composition of fish assemblages, and the subsequent altered trophic dynamics of aquatic species 
+(Buisson et al., 2008)
+. Cold-water sources are maintained by a combination of hydrological and climatological processes, such as groundwater inflow rate and temperature, riparian shading, stream width, and snow and ice. Cold water streams provide crucial habitat for many of Montana's aquatic species, including federally-listed bull trout. As air and water temperatures rise with continuing climate changes, the impact on aquatic species will be seen in a loss of habitat, non-native species invasions, species distribution changes and loss of biodiversity, and widespread extinction of cold-water reliant species 
+(Chu et al., 2005)
+.
+
+## Climate Change & Species Displacement
+
+Bull trout, an endangered native fish species, require cold-water streams to thrive. The increase in water temperatures due to climate change have caused bull trout to shift their distribution upstream, as they seek access to cooler habitats 
+(Eby et al., 2014)
+. Species like bull trout that require cold-water streams will likely be reduced in distribution as they move toward cold headwater streams to survive. Warmer waters favor introduced salmonid species that directly compete with bull trout for resources and can also hybridize with them, potentially breeding them out of existence. Furthermore, warm-water fish species can move out of their normal ranges into areas that used to be occupied by cold-water species. This change in species composition can ripple across the ecosystem, affecting other aquatic species such as the plants and insects that fish consume.
+Bull trout / Photo by Joel Sartore
+Drought is a climate feature that varies from region to region and can have broad and devastating environmental impacts 
+(Whitlock et al., 2017)
+. Driven by both climate and human-related factors, hydrological drought is characterized by reduced water levels in streams, lakes, and aquifers. Of specific concern is the duration of drought, which can be seasonal (lasting for months), or persistent (spanning multiple years). In Montana, seasonal drought is common, though the historical record of precipitation has shown long periods of persistent drought. Drought causes decreased water levels, which in turn lead to increased water temperatures in streams, rivers, and lakes.
+According to the Montana Climate Assessment, lower flows are a concern for multiple reasons, such as:
+> Projected increase in the severity of seasonal drought; > Short-term drought during the warmest months can test water supply infrastructure and have severe consequences for both human and natural systems; > Projected increases in streamflow earlier in the year can make maintaining stream flows during warm season months more difficult, and will likely require reconsidering water storage and reservoir management; and > Rising stream and air temperatures will have catastrophic impacts on some aquatic species.
+Low water in Hungry Horse reservoir / Photo by Erika Williams & courtesy of USDA FS
+
+## Land Use Change
+
+The strong linkages between waters and their contributing basins suggest that land use and land use change can have dramatic influences on aquatic ecosystems. Agricultural, industrial, and urban land uses can alter aquatic ecosystems in unique but significant ways. Nutrient inputs, introduction of contaminants, water withdrawals, flood and erosion control, and habitat alterations all pose significant threats to Montana's aquatic ecosystems 
+(Henderson et al., 2017)
+. Similarly, vegetation or land use changes, particularly in forested watersheds, contribute more to reductions in aquatic biodiversity relative to stresses related to climate change 
+(Kuemmerlen et al., 2015)
+.
+Water and associated riparian plant communities are essential to a majority of wildlife species in Montana, and these moist areas tend to provide increased productivity, particularly within dryer habitats 
+(Poff et al., 2016)
+. Deciduous tree and shrub species commonly add to the value of these habitats. Site deterioration can occur if deciduous species are over-browsed, trampled by domestic livestock or wild ungulates, or cleared to promote growth of hay crops, timber, or other land use changes 
+(MTNHP, 2010;
+Poff et al., 2016)
+. Domestic ungulates, and to a lesser extent wild ungulates, can also reduce productivity through soil compaction and impacts to stream channel morphology 
+(Belsky et al., 1999)
+.
+
+## Photo by Rick and Susie Graetz & courtesy of University of Montana
+
+Natural succession can result in riparian sites being taken over by less productive conifer species, which shade out deciduous shrubs and trees. Invasive or introduced species, such as Russian olive, buckthorn, tamarisk, Kentucky bluegrass, leafy spurge and houndstongue, can out-compete native plants that wildlife species prefer (MTNHP, 2010). Non-native, invasive forage tends to have lower nutrient value throughout the year and provides lower quality food sources for wildlife 
+(Litt & Pearson, 2013)
+. The overall reduction in habitat quality and productivity is a direct threat to the success of wildlife, both at the individual and population level.
+Anthropogenic activities including road construction, residential development, logging, and mining can also directly impact riparian and aquatic habitats 
+(MTNHP, 2010;
+Poff et al., 2011)
+. Modifying or removing native vegetation changes habitat features and functions. Disturbing soils and compacting surfaces can result in increased water runoff and water sediment loads. Ongoing human development and activities can cause animal displacement and reduced habitat effectiveness within aquatic and riparian habitats 
+(Gaynor et al., 2018;
+Knopf et al., 1988;
+Smith, 2002;
+Fletcher & Hutto, 2008)
+. Increases in sedimentation and pollution and reduced riparian canopy cover can negatively impact water quality for aquatic life adapted to cool, clean forested streams 
+(Beschta et al., 1987;
+Herbst et al., 2011)
+. For an in-depth discussion of water issues related to runoff and human development, see the Water Use in Montana section.
+
+## Emerging Diseases
+
+Disease is an emerging threat in aquatic ecosystem conservation. Disease has been implicated in fish and amphibians population declines in Montana; however, understanding of these threats and their interactions with habitat alteration, increased recreational use, and climate-induced hydrologic changes is limited.
+
+## Aquatic Invasive Species
+
+The large and sometimes irreversible impacts of aquatic invasive species on aquatic ecosystem health have been well studied. For this reason, state and federal agencies are working to protect Montana's uninvaded waters and conserve strongholds for native and sensitive species 
+(Rieman et al., 2000;
+Muhlfeld et al., 2014)
+. In Montana, a comprehensive monitoring program consisting of surveillance activities and boat check stations is helping to protect Montana's waters and educate an ever-increasing number of users to the threats of AIS. New, technological surveillance tools will be used to complement ongoing surveillance activities and will include the deployment of DNA-based detection tools at U.S. Geological Survey flow monitoring stations 
+(Sepulveda et al., 2019)
+. When distributed state-wide, these tools provide a framework for continuously surveilling some of Montana's most used-and vulnerable-aquatic resources. For more information on aquatic invasive species, see the Invasive Species section.
+
+## Zebra mussels / Photo courtesy of USFWS
+
+Balancing the threats of catastrophic wildfire, land use change, habitat loss and fragmentation, increased recreational pressures, invasive species, and climate change with aquatic resource protection calls for systematic conservation planning 
+(Leonard et al., 2017)
+. Such an approach involves a publicly-transparent planning process that focuses on identifying threats and vulnerabilities as well as prioritizing lands and waters that support functioning ecosystems and maintain biodiversity. In addition, relevant, robust, unbiased science will need to:
+> Inform planning and subsequent policy; > Help identify and assess current and future threats to Montana's aquatic ecosystems; > Reduce uncertainty associated with real-world problems that aquatic resource managers face; and > Aid in the protection of Montana's intact aquatic ecosystems and conservation of its world-class wildlife and fisheries.
+
+## Existing Strategies
+
+> Aquatic invasive species monitoring programs. > Forest planning and conservation of watersheds can be accomplished by watershed-specific restoration strategies, developed by coalitions throughout the state, and guided by a science-based, community-focused approach to watershed management. > The USFWS has many aquatic-focused programs to facilitate water stewardship, including six Fish and Wildlife Conservation Offices that focus on managing populations and habitats by partnerships to conserve fisheries and wildlife. These offices:
+> Montana Water Center: investigate and resolve water issues in Montana by fostering water-resource stewardship and sponsoring statewide water-related research.
+> Provide support to tribal fisheries and wildlife management programs, and provide assistance to stakeholders on both fish and wildlife issues. > Monitor and control invasive species. > Evaluate native fish stocks and their habitats, and restore habitat through the National Fish Passage Program and the National Fish Habitat Partnership. > Develop aquatic conservation strategies with Montana DNRC to protect three fish species covered by Habitat Conservation Plans, and contribute to habitat restoration and rehabilitation to habitats that may have been affected by past DNRC forest management strategies.
+> Willow cuttings waiting to be planted in Lolo National Forest / Photo courtesy of USDA FS > Encourages protection of Montana's wetland resources through restoration, protection and management, mapping, monitoring and assessing, land use planning, public education and communications, and policy tools, with a focus on vulnerable and impacted wetlands; and > Facilitates participants' understanding of work being done to ensure crosscollaboration and access to useful information for informed management decisions. > Participants include federal and state agencies, tribal governments, local governments, non-profit organizations, and the private sector.
+> Faculty seed grant program: available to support water-related research for early-career faculty members.
+
+## Data & Program Gaps
+
+> Better understanding of the intersection of climate change and water demand and/or water management is necessary.
+> Improving the accuracy of climate-hydrology projections specific to Montana > Maintaining and expanding the water monitoring network:
+> New solutions are required to balance multiple, and sometimes competing, demands for water in the context of changes to water supplies 
+(Poff et al, 2016)
+. > Communication and collaboration among stakeholders, including universities, agencies, non-governmental organizations, and citizen groups is crucial.
+> Regional basin water plans in Montana have laid the foundation for regional understanding of water use and management across the state.
+> Despite the confidence that the direction of projected changes from downscaled modeling of climate-hydrology are true, we have less understanding of the magnitude of change for specific river basins. > We know that groundwater-surface water interactions are critical for projecting climate change impacts on water resources (particularly in snowmeltdominated watersheds), but these interactions are not typically integrated in hydrologic models. > Hydrological models are linked to the water cycle; climate-related changes in components of the water cycle (such as evapotranspiration) can be difficult to quantify.
+> 
+
+## Human & Community Health
+
+Air Quality
+As a sparsely populated state without major urban centers that is renowned for its amazing vistas, stunning, intact landscapes, and big skies, maintaining excellent air quality is extremely important to Montanans. While the state enjoys excellent air quality overall, increasingly long and more severe wildfire seasons, the need for fuels management, and prescribed burning all impact Montana's airsheds. Summer wildfires in the state and throughout the Pacific Northwest and Western Canada cause significant smoke impacts to communities throughout the fire season. During the winter, inversions trap pollutants in the valleys, which limits the days that prescribed or open burning may be conducted safely. Each of these factors influences how agencies must work to coordinate and regulate air quality across the state and beyond to reduce the impacts of hazardous smoke to the public, while accomplishing necessary wildfire fuel reduction projects.
+The Department of Environmental Quality Air Quality Bureau regulates air emissions through permitting and compliance processes and works closely with other agencies to communicate with the public about air quality considerations and hazards. The Air Quality Bureau's Smoke Management Program coordinates with all federal, state, and private entities interested in conducting burning activities within the state of Montana. Intentionally planned burning activities in Montana are conducted primarily for two reasons, either to remove slash following timber management at small or large-scale sites to comply with Montana's HRA Laws, or to accomplish land management goals benefiting wildlife habitat or fuels management using prescribed fire.
+> Increase water use efficiency and water conservation; > Expand efforts to quantify surface water supplies and availability; > Support and expand Montana's existing drought preparedness and planning efforts; > Improve and expand efforts to characterize groundwater; > Provide sufficient protection for instream flows within the prior appropriation framework to maintain aquatic and riparian systems; > Support proactive, coordinated efforts to reduce invasive species and protect endangered species in Montana; and > Encourage collaboration, coordination, and communication across local, state and federal agencies, and tribal governments.
+Specific requirements in the Administrative Rules of Montana (ARM, 17.8, Subchapter 6) describe the process to authorize burns. Burning from both major and minor sources can have significant impacts on air quality, so the Smoke Management Program directs all burners to follow best smoke management practices in order to minimize negative effects.
+ARM 17.8, Subchapter 6, defines a "major open burning source" as any source which emits more than 500 tons of carbon monoxide (CO) or 50 tons of any other pollutant per calendar year. The term "minor open burning source" is defined as any other source which does not meet this threshold.
+Major burners work in conjunction with the Montana-Idaho Airshed Group to determine the ideal time to conduct large controlled burns. The Montana-Idaho Airshed Group consists of multiple stakeholders including tribal, federal, and state agencies, as well as private companies and non-governmental organizations.
+Decisions to approve these burn projects are based on atmospheric conditions, acreage, fuel loading, airshed capacity, and elevation.
+Smoke from the Saddle fire in the Bitterroot range / Photo courtesy of USDA FS Similar to other forests throughout the West, Montana's fire seasons are becoming longer and more severe. Increasingly, Montana experiences megafires-those over 100,000 acres-and the average fire season is 40 days longer than it was 30 years ago. Severe fire conditions can lead to poor air quality; not only can they have serious impacts on human health, but they present significant economic impacts 
+(Nolen, 2016)
+. Smoke contributes particulate matter to the atmosphere, which presents different hazards to different populations, and the effects can range from moderate annoyance for healthy individuals to life-threatening conditions for at-risk populations.
+According to the American Lung Association, Montana is home to six of the 25 counties in the US most affected by short-term particle pollution: Ravalli, Lewis and Clark, Missoula, Lincoln, Silver Bow, and Flathead (ALA, n.d.). For reference, there are 3,007 counties in the United States.
+The city of Missoula ranks as the fifth-worst affected by short term particle pollution, and eleventh for year-round particle pollution 
+(ALA, n.d.)
+.
+Air quality across the state is highly variable depending on location, time of year, and the severity of the wildfire season. During the winter, strong high-pressure systems decrease atmospheric mixing and dispersion, which results in smoke becoming trapped in bowl-shaped valleys across much of western Montana. Smoke can linger for days until an unsettled weather system moves through. Many of these areas are also significant population centers in the state, meaning that communities are often more heavily impacted by compromised air quality. In summertime, wildfire smoke can cause significant impacts even on the open plains of the central and eastern parts of the state depending on wind and other weather patterns.
+Factors like these have led state governments in Montana and Idaho to develop coordinated policies to address the quantity, timing, and public understanding of air quality in the region. While we can't control the smoke from wildfire, we can regulate air pollutants from other sources and help prepare communities for unhealthy air days. In the shoulder seasons and in winter, this same topography traps smoke from prescribed fires and minor open burning, including wood stoves, and other anthropogenic sources.
+The cooperation through the Montana-Idaho Airshed Group has resulted in a large number of requested burns being approved. In 2019, the Montana DEQ approved 95% of the proposed burns. Similarly, that percentage was 90% in 2018 and 93% in 2017. Of 4,827 total units requested in the AMS system in 2019, 4,628 were approved and 218 were restricted. This represents a 95% unit approval rate for 2019. Acreage-wise, there were 331,726 acres requested through the AMS system in 2019. 314,301 acres were approved, and 17,425 acres were restricted. However, the timing of burn approval can be suboptimal if it occurs outside the ideal time window for achieving desired conditions for residualslash, wildlife habitat, and other resource objectives.
+The current process ensures efficient communication between the coordinating group and Montana DEQ. Burners can request to burn days in advance, and DEQ works with major burning sources to determine the ideal timing to complete prescribed burns. DEQ aims to approve as many burns as possible, provided that atmospheric conditions are ideal for burning.
+ARM 
+
+## Issues, Threats, & Challenges
+
+Regarding air quality, impediments to burning include: meteorology, topography, understanding of the smoke management program, and airshed capacity.
+Meteorology and topography can be a challenge to accomplishing prescribed burning. Atmospheric inversions contribute to poor air quality in valleys, especially in the winter months. Western Montana's rugged geography makes certain locations especially prone to inversions. Inversions occur when cold, dense air settles in valleys with a layer of warm air aloft, resulting in a vertical temperature profile which increases with height. The typical temperature-elevation relationship is inverse. This setup allows for very little atmospheric mixing, because the cold air at the valley floor is denser than the warm air aloft, trapping any low-lying pollutants below the inversion layer. During the winter months when the sun angle is low, valleys receive very little solar radiation and heating, which makes it very difficult for cold air in the valleys to warm up and mix out. Inversions can be very persistent in the wintertime, lasting for days, or in some cases, weeks.
+Another issue is the burner's understanding of the burn permit process, including confusion for both major and minor burners about "burn seasons. 
+
+## Opportunities
+
+> Inform the public that prescribed fire throughout the year will help decrease the severity of smoke during wildfire season. We can engage many stakeholders, burners, local governments, tourists, and the citizens of Montana. > There is recent research showing the differences in PM 2.5 concentrations between wildfire and prescribed fire smoke exposures 
+(Navarro et al., 2018)
+. Agencies may incorporate this information as part of a broader educational program. > There are benefits to a combination of mechanical treatments and prescribed fire use, such as the reduction of fuel loads and fire intensity, which can reduce the amount of smoke produced when unplanned wildland fire occurs. A longer effect of combined treatments is that a forest may experience fewer fires of low intensity, which overall produce less smoke.
+Smoke rises from the Horseshoe West prescribed burn area / Photo courtesy of USDA FS > Historically, the Smoke Management program has been associated with a message that burning is 'closed' or restricted, or 'open' during certain seasons. Implementation of the program has changed significantly over the past 5 years, with more effort placed on the messaging that burning can be accomplished throughout the year, under the right conditions. The education and outreach portion of the program has increased and centered on informing the burners, both major and minor, on the process to find opportunities to burn. This is a critical component of successfully integrating air quality impacts to allow for more prescribed burning, with the intention of mitigating increased wildfire risks. > The Montana/Idaho Airshed Group is composed of state, federal, tribal, and private member organizations who are dedicated to the preservation of air quality in Montana and Idaho. Its members are major prescribed burners and the public health and regulatory agencies that regulate this burning working cooperatively to prevent smoke impacts while using fire to accomplish land management objectives. > The Smoke Management Unit of the Montana/Idaho Airshed Group, located in Missoula, Montana, coordinates the prescribed burning activities of the three units, taking into consideration airshed capacity, topography, and weather conditions. The organizations jointly use the Airshed Management System database to coordinate burning. Airshed Group members observe operating procedures administered by the Smoke Management Unit in order to prevent adverse smoke impacts.
+
+## Data & Program Gaps
+
+> Although DEQ's Air Quality Bureau has been working to advance a message of cooperation regarding smoke impacts and prescribed fire, there is a misunderstanding that burning is restricted during certain seasons rather than due to atmospheric conditions. Therefore, more stakeholder engagement is needed to advance the message of cooperation, and communicate the air quality goals for prescribed fire. > It is not uncommon for minor burners to find different messaging between DEQ's Air Quality Bureau and local county authorities, fire officials, public health officials, and forest management officers throughout the various forest districts. Often, a message of 'restrictions on burning due to fire safety' is confused with open burning being closed due to 'air quality impacts.' This confusion extends to how minor burners obtain their permits and who they obtain them from. A large portion of the effort to allow more prescribed fire needs to be focused on finding adequate ways to communicate and coordinate the varying messages. > DEQ's Air Quality Bureau will consult with stakeholders to determine how we can provide additional funding to encourage year-round burning.
+
+## Water Resources
+
+Water is essential to the health and economic well-being of all Montanans. Not only is water critical for municipal and domestic uses, water also supports the agricultural and mining industries, fisheries, and recreational activities. Forested landscapes play an important role in ensuring that both surface and groundwater is clean and abundant by slowing runoff, reducing erosion, and enabling groundwater recharge. Organic litter on the forest floor and root systems in the soil help filter water through the ground rather than as surface water, reducing overland flow even during large storms (DNRC, 2015b).
+In Montana, we are lucky to live in or near headwaters and groundwater recharge areasareas that are often forested. Montana's forest management practices are designed with the intent of maintaining and improving water resource conditions.
+This section describes water resources as they relate to human use, with some necessary overlap with aquatic habitat. The section breaks water resources into different topic areas: water quantity for both surface and groundwater, water quality, and human use.
+For more detailed information on aquatic habitat, see the Aquatic Ecology section.
+Connecting Surface & Groundwater Water on the earth's surface is closely connected with water underground. Groundwater can be replenished, or recharged, when water from precipitation or snowmelt seeps through the land surface. The water we can see in lakes, rivers, and wetlands can be replenished from precipitation and snowmelt, but also from water flowing underground into surface water, known as base flows.
+A kayaker on Placid Lake / Photo courtesy of USDA FS
+
+## Current Conditions & Trends
+
+Water Quantity What is an Acre-Foot?
+An acre-foot is the amount of water it would take to cover one acre of land (a football field) with water that's one foot deep. It's about 326,000 gallons of water.
+Groundwater is also an important source of water in Montana. Surficial aquifers, which are shallow aquifers in sand and gravel substrates along the floodplains of major streams and rivers, are critical water sources for agricultural, municipal, domestic, and industrial uses (Figure 
+32
+). Predominantly found in eastern Montana, bedrock aquifers are formed when water is confined within hard bedrock layers. They occur along fractures and fault lines in western Montana and in sandstone and limestone formations in central and eastern Montana (Figure 
+33
+). Bedrock aquifers provide a source of water for individual households and small public systems through wells in the west, while in the east they can provide a source of water to households, for livestock uses, and occasionally for larger municipal and industrial uses, but typically not irrigation. Groundwater also contributes flows to surface water systems, known as base flow (Figure 
+34
+), which is critically important for maintaining surface water flows throughout the year. 169
+Water Quality
+The Montana Department of Environmental Quality assesses water quality and manages water quality programs across the state (Legislative Environmental Policy Office, 2015).
+Forested landscapes can help protect water quality and ensure that water resources are clean. Water moves differently through forested landscapes than in other places-tree roots and organic materials deposited from vegetation help slow the flow of water over the surface, allowing water to seep into the ground and keeping surface water clean of sediment and chemical pollutants. Forested landscapes also provide shade around water bodies, keeping water cool for aquatic life. Forestry practices can alter these natural processes and result in negative effects to water quality. Best management practices implemented across the state are designed specifically to minimize negative effects of forestry on water quality and have been largely successful.
+
+## Key Features of the Federal Clean Water Act:
+
+> The Clean Water Act requires that state agencies manage water quality to certain standards. In Montana, the responsible agency is DEQ, or an agency with delegated authority from DEQ. > Under Section 303(d) of the Clean Water Act, DEQ is required to monitor impaired water bodies, which are water bodies that do not meet water quality standards. DEQ publishes a list of these impaired water bodies, known as the 303(d) list, and describes the causes and sources of impairment. > The Clean Water Act allows DEQ to establish Total Maximum Daily Loads (TMDLs) for impaired and threatened waterbodies. A TMDL is "the maximum amount of a pollutant a waterbody can receive from all sources combined and still meet its water quality standards" (DEQ, 2019a). Using measurements for each pollutant, DEQ can come up with a plan for how to reduce pollutants from various sources and meet TMDLs. Although forest management practices can affect all types of water consumption, the Forest Action Plan focuses on municipal water use (through public water systems, typically for household purposes) and domestic water use (through individually operated wells) because municipal and domestic water use, water quantity and quality, and forested landscapes are closely connected. Of the 72,000 acre-feet consumed for municipal purposes, over half comes from surface water across the state. Groundwater plays a particularly important role in the Lower Missouri River Basin-where surface water of sufficient quality is scarce-and in the Clark Fork Basin, where both surface and groundwater are important to support the growing population. In addition to public municipal water use, private wells for domestic purposes use 13,900 acre-feet across the state (DNRC, 2015a).
+
+## Climate Change & Disturbance Regime Shifts
+
+According to climate scientists, climate change will have considerable effects on the natural environment, including forests and water resources. Climate change is likely to increase the intensity and frequency of natural disturbances. Of particular note is the effect of more frequent and intense wildfires, which cause ash to plug soil pore spaces, leading to increased overland flow and erosion, which deposits sediment and temperature pollutants in streams. More frequent and intense wildfires may also lead to changing nutrient composition in soils and waterbodies. Other disturbance events that may impact soils and water quality include drought, insect infestation, disease, landslides, and floods.
+Severe wildfires can be devastating to communities and lead to long-term changes on the landscape. With a significant amount of Montana's drinking water supply originating in forested watersheds, reducing wildfire risk across these landscapes is a critical issue facing land managers. Watersheds impacted by wildfire are susceptible to increased flooding, erosion, and debris flows, which can impair reservoirs, water quality, and drinking-water treatment processes (Writer & Murphy, 2012).
+
+## Forestry Practices
+
+Logging roads and skid trails can act directly as a channel for water to move sediment into streams or indirectly by exacerbating erosion and subsequent sedimentation. Roads account for approximately 90% of all sedimentation from forestry activities (DNRC, 2015b). Roads may result in:
+> Reduced absorption and increased flow due to compact surfaces; > Diverted/altered flow paths due to compact surfaces, ditches, culverts, and road cuts; and, > Increased flow rates and changed timing of runoff due to ditches that divert water directly into streams rather than through natural absorption processes. > Nutrient leaching into waterways, which can negatively effect water quality. > o Nutrients are maintained in soils through deposition and decay of organic materials, but can be lost through leaching of exposed soils. After forestry activities occur, woody residuals, or slash, are often left behind, negatively impacting water resources. Too much slash can be a hazard for wildfire, while not enough slash can leave soil exposed and enable erosion, sedimentation, and compaction. Furthermore, not enough slash can mean that there is insufficient organic matter in the system to regenerate new vegetation. BMPs for fuels treatment are site specific and depend on the management goals of the area.
+Hazardous substances are those that are dangerous to humans or may result in environmental contamination. Forestry activities involve petroleum products, pesticides, herbicides, chemicals, and biological wastes that have to potential to reduce water quality in nearby waterbodies.
+
+## Increased Population & Demand on Water Resources
+
+As Montana's population continues to increase and land use is converted from rural to urban and suburban landscapes, demands on the state's water resources will continue to grow. A key challenge in the future will be how to manage resources, including forested landscapes, to ensure healthy water resources for Montanans.
+
+## Forest Restoration
+
+Across jurisdictions, land managers work to reduce the risk of uncharacteristic wildfires in order to ensure a high-quality, predicable remaining water supply for municipalities. This is accomplished in part by managing fire-prone forested landscapes surrounding critically important watersheds to prevent or minimize impacts of wildfire on downstream water resources 
+(Tecle & Neary, 2015)
+. Land managers seek to create vegetation and fuel conditions that will reduce the risk of severe wildfires, thereby reducing the likelihood that excess sediment and ash will reach municipal watershed intake diversions following a severe wildfire event. Sediment and ash are considered major sources of drinking water contamination and can result in a loss of water supply.
+Logging activities in BItterroot National Forest / Photo courtesy of USDA Forest Service
+While forestry practices have the potential to negatively affect water quantity and quality, active forest management is a necessary and important tool to address these issues and ensure municipal watershed health. This is especially true for fuel treatment, as severe wildfires are becoming increasingly common and can have particularly negative effects on municipal watersheds.
+> Prior to fire suppression and unusually high precipitation in the 20th century, Montana's forests were better adapted to disturbance regimes due to their diversity and thin forest stand structure. > One opportunity to improve the resiliency and adaptive capacity of Montana's forests is to encourage "forest stand mosaics," which were common prior to the 1900s. > Another opportunity is to use mechanical thinning of tree densities and prescribed fire to reduce the likelihood of high intensity fires and increase soil moisture so that forests can better withstand disturbances such as drought, insects, and disease. > All of these strategies to improve forest resilience will also help improve watershed health and secure water resources (DNRC, 2015b).
+Strategically designing and locating fuel treatments to disrupt a wildfire's progression can alter the way wildfires burn through forests and watersheds. Although the cumulative impact of treatments such as thinning and prescribed fire depend on a variety of factors, the treatment locations, timing, and scale can impact fire behavior and burn severity 
+(Finney, 2003;
+Elliot et al., 2010)
+. Fuel reduction treatments can be accomplished through a variety of management actions such as thinning and prescribed fire, and can be applied alone, sequentially, or in various combinations 
+(Elliot et al., 2010)
+. 
+
+## Existing Strategies
+
+Water is integrated into social and environmental systems in an extremely complex manner and as such is managed directly and indirectly by numerous agencies and groups throughout the state of Montana. When surveyed, 87% of Montanans identified themselves as outdoor recreation enthusiasts, with 96% believing that outdoor recreation is critical to the economic future of the state 
+(Montana Outdoor Heritage Project, 2019)
+.
+However, the exceptional recreation opportunities that Montana's forested landscapes provide can also present management challenges for land managers and local government. With growing popularity and use comes increased pressure on natural ecosystems, infrastructure, and the strategies used to balance these varied uses. Areas of high recreational use are highlighted in the Statewide Comprehensive Outdoor Recreation Plan, along with recommendations that focus on cross-agency cooperation and collaboration to inform users about the different recreation opportunities throughout the state while helping to alleviate some of the impacts to popular recreation areas 
+(MTFWP, 2019)
+.
+This section lays out some recent trends in the outdoor recreation industry across the state of Montana. While there are significant recreation opportunities on both forested and non-forested lands statewide, this section does not draw a distinction between the two. Further, it is important to note that this description of recreation trends does not distinguish between impacts on public (federal or state) and private lands.
+
+## Current Conditions & Trends
+
+## Economic Impact
+
+Recreation plays a significant role in Montana's economy, both in small towns and larger population centers. In 2018, outdoor recreation contributed $7.1 billion in consumer spending; provided 71,000 direct jobs, representing 10% of all jobs in Montana; and contributed $2.2 billion in wages and salaries to Montana workers 
+(Headwaters Economics, 2018;
+MTFWP, 2019)
+. This represents an increase from $3.3 billion in wages and 42,900 jobs in 2012 (Montana Department of Commerce, 2013).
+For many communities, access to year-round outdoor recreation has provided essential economic opportunities and benefits. Montana outpaces the rest of the United States in terms of outdoor recreation contributions to personal and per capita income 
+(Headwaters Economics, 2018)
+. Outdoor recreation is predicted to grow statewide, which will increase both challenges and opportunities for local economies, but it is critical that future forest management take recreation into consideration 
+(Nickerson et al., 2019)
+.
+
+## Recreation & Visitation Increases
+
+Across activity and geography, outdoor recreational use and overall visitation has increased over the last ten years. Visitation to state parks and campgrounds has gone up over 50% since 2011 
+(Montana Outdoor Heritage Project, 2019)
+. Glacier and Yellowstone National Parks each top 3 million visitors annually, and Montana's state parks are consistently breaking visitation records 
+(Montana State Parks, 2016)
+.
+In a recent survey of Montana residents, respondents said that the top outdoor recreationrelated activities were scenic driving (35%), day hiking (19%), and watching wildlife (16%) (Table 
+2
+; MTFWP, 2019). Many communities have responded to these trends by investing in outdoor recreation infrastructure, particularly in trail construction and maintenance, access to nearby state and national parks, and improvements to attract cycle tourism. Outdoor recreationists are both residents and out-of-state visitors, which brings a diversity of revenue to the sector, making it less susceptible to broader economic fluctuations. The Wilderness Act defines a wilderness area as follows:
+"A wilderness, in contrast with those areas where man and his own works dominate the landscape, is hereby recognized as an area where the earth and its community of life are untrammeled by man, where man himself is a visitor who does not remain. An area of wilderness is further defined to mean in this chapter an area of underdeveloped Federal land retaining its primeval character and influence, without permanent improvements or human habitation, which is protected and managed so as to preserve its natural conditions and which (1) generally appears to have been affected primarily by the forces of nature, with the imprint of man's work substantially unnoticeable; ( 
+2
+) has outstanding opportunities for solitude or a primitive and unconfined type of recreation; ( 
+3
+) has at least five thousand acres of land or is of sufficient size as to make practicable its preservation and use in an unimpaired condition; and ( 
+4
+) may also contain ecological, geological, or other features of scientific, educational, scenic, or historical value."
+Montana's wilderness areas are home to thousands of species of flora and fauna-a number of them threatened or endangered. For many, wilderness areas are places of growth, reflection, and solitude. Montana's wilderness areas help maintain a connection to the land that can be difficult to find elsewhere: the silent, breathtaking views; the still turquoise waters of the glacial lakes; the rugged ridgelines dotted with snow year-round; and the sense of awe that these wild places instill.
+Wilderness areas are not only spectacular places to find quiet and connection, but they are among the most vulnerable to change. Plant and animal communities, particularly in high-alpine areas, are slow to respond to changing conditions; threats such as insect and disease outbreaks and wildfire can greatly impact wilderness areas.
+Wilderness areas are not surveyed in the statewide insect and disease mapping efforts, leaving large areas of land unassessed. Wilderness areas preserve the qualities of natural, untrammeled, and undeveloped land. Wilderness areas, along with roadless areas and wilderness study areas provide a network of diverse habitats contributing to the biodiversity seen across Montana.
+
+## Geographic Trends
+
+Perhaps unique to the outdoor recreation industry, growth in this sector is not restricted to one particular area of the state. The state parks that saw the greatest increase in visitation in 2015 spanned across Montana, including parks near Great Falls, Flathead Lake, 
+Roberts, Billings, and Helena (Montana State Parks, 2016)
+. Communities in eastern Montana that have experienced significant economic decline are re-investing in recreation opportunities, particularly hunting and river-based recreation 
+(Headwaters Economics, 2018)
+. Towns across western Montana have seen larger and more consistent year-round recreationbased contributions to their local economies. Outdoor recreation primarily occurs on public lands, even though only 29% of land in Montana is publicly owned, and most of it is concentrated in the western portion of the state 
+(Vincent et al., 2017)
+.
+
+## Funding Trends
+
+Public spending and investment in recreation opportunities, access, and infrastructure has not kept pace with the increases in visitation and use. Montana invests 30% less in its state parks than neighboring states (Montana Outdoor Heritage Project, 2019). State parks staff struggle to balance growing demand with failing infrastructure and recognize that there are insufficient resources to maintain existing trails, services, and amenities (Montana State Parks, 2018). Similarly, Montana's National Forests have tight budgets and have been heavily impacted by wildfire fighting costs. Without an increase in the financial resources available to public land management agencies, these recreation hubs may continue to experience significant ecological damage and negative visitor experiences.
+
+## Issues, Threats, & Challenges
+
+## Increasing Visitation & Use
+
+As highlighted in the previous section, outdoor recreation has increased significantly over the past ten years, which poses challenges for resource managers. Increased pressure from outdoor recreators can negatively impact trail and road conditions, increase soil erosion and compaction, damage sensitive vegetation, degrade water quality, and disrupt wildlife 
+(Buckley, 1991)
+. Rural areas in the central and western parts of Montana are growing in population, increasing year-round use by residents 
+(Grau et al., 2018)
+. While increased visitation from out-of-state and out-of-area tourists for outdoor recreation purposes brings increased revenue to communities, it can also put a strain on front and back-country infrastructure. Adopting policies that attempt to regulate use, such as permitting or hardening of popular use sites, can be effective but often fail to proactively address threats to native ecosystems and infrastructure.
+In spite of growing demand for outdoor recreation opportunities in Montana, in 2017, 25% of Montana adults reported no past month leisure time physical activity and furthermore, nearly half (45%) of Montana adults did not meet the federal physical activity guidelines for aerobic activity 
+(MTFWP, 2019)
+.
+
+## Funding Challenges
+
+Responsibly managing increased use of Montana's forest-based recreation resources is dependent on funding. Although visitation and use have consistently increased over the past decade, federal and state public lands agencies have seen their recreation budgets flatten or decline over time.
+Since 2010, recreation budgets for the BLM and USDA FS have declined by 18% and 16%, respectively, while visitation has increased by 15% 
+(Rasker, 2019)
+. The practice of "fire borrowing," whereby the Forest Service transfers funds from its other programs to offset wildfire suppression costs, further constrained budgets up until 2019.
+Glacier and Yellowstone National Parks have each experienced record-setting increases in visitation, but with budgetary increases insufficient to keep pace with demand (Rasker, 2019). In Montana, the funding challenge has been further deepened by cuts to state budgets, particularly since 2017. For example, while visitation to Montana state parks increased by 40%, budgets decreased by 2% (Montana Biennium, 2019).
+Forest-based recreation opportunities and experiences, in both summer and winter, are inherently dependent upon forest conditions. Although dead and dying trees are a natural part of a forest, they can pose a particular threat to life and property when located in or near developed recreation sites such as campgrounds, trailheads, and fishing access sites, as well as along public roads (Figure 
+38
+). The mountain pine beetle epidemic of a decade ago left behind massive expanses of dead or dying trees along roads and in areas frequented by recreationists. To ensure visitor safety, hazard trees were removed from these areas as funding allowed. In some instances, the effects of the beetle were so extensive that some sites were closed for extensive periods of time to facilitate safe removal operations. For example, in the wake of the most recent mountain pine beetle epidemic, the Helena-Lewis & Clark National Forest found it necessary to remove hazard trees along 491 miles of public roads, equating to approximately 9,415 acres of work. Similar work took place on other national forests in Montana, as well as on other public lands managed by state or federal agencies, typically relying on the forest products industry to implement the work. Where feasible, commercial timber harvest of roadside hazard trees offers a significant cost advantage when compared with non-timber-sale removal (service contract) of hazard trees. For example, the estimated ( 
+2010
+) costs involved with removal of hazard trees along forest roads located on the Beaverhead-Deerlodge National Forest were approximately 15 times higher as a service contract (no commercial harvest) as opposed to a timber sale (USDA FS, 2011).
+Resorts, camps, ski areas, and recreation residences that are located on National Forest System or BLM public lands are operated under special use permit by the respective land management agency. Responsibility for vegetation management and hazard tree removal varies depending on the type of use or facility, although in general the permit holder has responsibility for managing the vegetation within the permit boundary. The increased number of dead and dying trees after the most recent mountain pine beetle epidemic within permitted boundaries resulted in significant costs to remove or address. Montana's fifteen ski areas rely on forest cover to provide shade and wind-shelter to aid in retention of snow. Snags can pose threats not only to skiers and employee safety but also to the integrity of the ski area's critical infrastructure (lifts, roads, etc). > Because the outdoor recreation industry is quickly evolving in terms of new uses and technologies, agencies must stay abreast of these developments. > To keep pace with these changes, ongoing coordination and communication between agencies, partners, and the recreating public will be critical to ensure that management approaches remain adaptive. > This will require a continued effort on the part of land management agencies, as well as permittees, partners, and the recreating public. > Coordination between forest management and recreation management efforts will continue to be critical, as new forest health threats influence the composition and health of Montana's forests, and hence, the array of recreation opportunities that these forests offer. > Relatively flat (or decreasing) budgets mean an increasing reliance on volunteers to clear trails or perform other critical maintenance. > While many partner organizations provide invaluable (and often coordinated)
+volunteer assistance (such as the Backcountry Horsemen, Montana Conservation Corps, etc.), individuals are also an important, and perhaps largely untapped, resource. > A state-level volunteer "clearinghouse" could help match willing volunteers with a particular task or agency. > Public lands that require egress through private lands can be inaccessible without easement from the land owner, which puts more strain and a heavier impact on easily accessible areas. > Appropriate infrastructure to accommodate increased recreational use, both in the backcountry and in towns neighboring public access areas, is lacking.
+
+## Community Readiness & Capacity
+
+The ability to understand and plan for natural hazards and disasters is imperative in order to protect Montana's communities and natural resources from damage or, in the most severe cases, loss of life. A disaster is the occurrence or imminent threat of widespread or severe damage, injury, or loss of life or property resulting from any natural or artificial cause (Montana Code Annotated 10-3-1-3( 
+4
+)). Taking action to reduce hazards, whether from severe weather, floods, wildfires, or drought, is important across all land ownerships. In Montana, federal, state, tribal, and local agencies are developing comprehensive approaches to emergency management, which include disaster preparedness, mitigation, response, and recovery.
+
+## State of Montana Multi-Hazard Mitigation Plan -Statewide Hazard Assessment
+
+The Montana Disaster and Emergency Services Division updated the state's Multi-Hazard Mitigation Plan (MHMP) in 2018 to address major hazards with respect to risk and vulnerabilities in Montana.
+Eleven natural and man-made hazards were profiled and prioritized:
+The MHMP includes the following in each hazard profile: a hazard description, history of occurrence, probability and magnitude, mapping (where possible), vulnerabilities to projected variability associated with a changing climate, data limitations, and other factors.
+
+## Current Conditions & Trends
+
+As discussed in the sections above, Montana is a large, sparsely-populated state with an economy historically dependent on agriculture and natural resource-linked industries (MDMA DES, 2018 The President of the United States or the Governor of Montana may declare that a major emergency or disaster exists which exceeds the response capabilities of jurisdictions in Montana. On average, in a single year, Montana can experience multiple events that qualify for a governor's emergency declaration related to impacts from wildfire, flooding, or severe weather (Figure 
+39
+).
+
+## Wildland & Rangeland Fires
+
+Wildland and rangeland fires occur every year in Montana and pose a substantial threat to communities, critical infrastructure, and millions of acres of forest lands and grasslands across the state. From 2000 through 2014, there were more than 240 large wildfires (a large fire is greater than 5,000 acres) within 10 miles of Montana communities, affecting more than 230,000 Montanans. For more information about wildfires in Montana and wildfire risk, please see the Wildfire Risk section. Grassland and rangeland fires in eastern Montana have been equally devastating.
+Grassland & Rangeland Fires by the Numbers: All of Montana is vulnerable in one form or another to wildland and rangeland fires. The probability and severity of wildfires are highly dependent upon weather conditions and fuel loading and will change from year to year. This vulnerability, coupled with increased population growth over the past two decades and the expansion of the Wildland Urban Interface, will continue to place more lives, property, and communities at great risk.
+
+## The Roaring Lion Fire
+
+The Roaring Lion fire ignited in July of 2016, five miles south of 
+Hamilton, Montana.
+ In about three hours, the fire grew quickly due to strong winds, sustained at 30 to 40 miles per hour with gusts up to 50 miles per hour. Approximately 850 homes were evacuated, and 16 homes were destroyed.
+The fire burned 8,274 acres and cost over $7 million to suppress.
+
+## Flooding
+
+Flooding in Montana is a common occurrence and is defined as the accumulation of too much water in too little time in a specific area 
+(MDMA DES, 2018)
+. Similar to wildfire, flooding becomes a hazard when people and property encroach on natural floodplains. Urban, industrial, and other developments in natural floodplain areas of Montana coupled with increasing impervious surface area have increased vulnerability to serious flooding (Figure 
+40
+). For more information relating flooding to the effects of wildfire, see the Wildfire Risk section. Over the past 50 years, Montana has endured a period largely characterized by years of below average precipitation, punctuated by the extremely dry years of 
+1977
+, 1987
+to 1988
+, 1992
+, 1994
+, 2004
+, and 2017
+(MDMA DES, 2018)
+. According to the National Drought Mitigation Center, Montana has been in severe and extreme drought between 10 and 20% of the time in the last 100 years 
+(National Drought Mitigation Center, 2018)
+. Drought impacts natural resources and ecosystem services on forest and rangelands, resulting in lower growth rates, higher plant stress, and greater susceptibility to disease 
+(MDMA DES, 2018)
+. Drought can also cause decreased stream flows and increased stream temperatures, which can negatively impact aquatic species, especially cold-water dependent species such as bull trout.
+
+## The 2017 Drought in Montana
+
+The drought of 2017 was extensive, stretching 680 miles west to east from Noxon to Sidney, Montana (Figure 
+41
+). This was the first summer in 10 years that large portions of the state experienced drought conditions at the same time and the first year since 2004 that more than 10% of the state was in extreme drought. Temperatures that summer averaged four degrees above normal and the persistent high temperatures coupled with record low rainfall pushed the state rapidly into extreme drought conditions by mid-summer. The speed of the transition from the relatively wet spring to the extreme drought inspired the term "Flash Drought" 
+(National Drought Mitigation Center, 2019;
+Lutey, 2017b;
+Kendall, 2017)
+. Drought disasters are unique, as they typically do not require evacuations or constitute an imminent threat to life or property. The actions taken across Montana to mitigate drought impacts vary due to Montana's diverse topography and precipitation regimes, but any place in the state can be considered vulnerable to drought. As such, according to the National Drought Mitigation Center, drought losses are sustained every year in Montana, although some years are more severe than others 
+(MDMA DES, 2018;
+National Drought Mitigation Center, 2018)
+.
+
+## Severe Weather
+
+Severe weather is not limited to a specific season in Montana and ranges from thunderstorms to hailstorms, high winds, tornados, extreme heat, heavy snow, freezing rain, freezing temperatures, and sleet. Severe weather is one of the greatest threats to life of any hazard in Montana (MDMA DES, 2018). Severe weather can also cause extended road closures, long-term power outages, and significant isolation problems. The magnitude of severe weather is measured by the event's severity and resulting damage, and the entire state is considered equally vulnerable to severe weather. Severe weather also impacts forested resources in various direct and indirect ways, including outright tree loss, altered water flows, and enhanced vulnerability to nonnative species invasion following a major disturbance (MDMA DES, 2018).
+The National Weather Service reports that severe summer weather has caused $51.5 million in property damage and $26.3 million in crop damages over the past 60 years in Montana 
+(MDMA DES, 2018)
+.
+
+## Issues, Threats, & Challenges
+
+According to the statewide risk assessment and vulnerability analysis, the top five threats and hazards in Montana are:
+
+## Threats to Life & Property
+
+Disasters continue to pose a threat to lives and property across the state. Federal, state, tribal, and local governments, businesses, organizations, and individuals have spent trillions of dollars recovering from disasters 
+(MDMA DES, 2018)
+. Across Montana's forested landscapes, the primary threats are from wildland and rangeland fires, floods, droughts, and severe weather. According to the 2017 Montana Climate Assessment, climate change encompasses both increases and decreases in temperature, shifts in precipitation, changing risk of certain types of severe weather events, and changes to other features of the climate system 
+(Whitlock et al., 2017)
+. The 2017 Montana Climate Assessment found that average annual temperatures have risen between 2.0 -3.0 °F across the state since 1950 and Montana is projected to continue to warm in all geographic locations, seasons, and under all emission scenarios 
+(Whitlock et al., 2017)
+. Accordingly, the frequency of severe weather evens has increased steadily over the last century 
+(MDMA DES, 2018)
+. The number of weatherrelated disasters during the 1990s was four times that of the 1950s, and cost 14 times as much in economic losses (MDMA DES, 2018).
+
+## Resource & Workforce Demands
+
+One consequence of climate change is a rise in the number of extreme weather events, which can cause significant tree loss 
+(FAO, 2006)
+. Severe weather can also have indirect impacts on the water flows on which trees depend, impacting forest health as well as making forested landscapes vulnerable to the invasion of non-native species following major disturbances 
+(FAOUN, 2006)
+.
+
+## Opportunities
+
+## Community Preparedness
+
+> Engage communities and landowners, through concerted public outreach and education, on how to prepare for disasters in order to facilitate understanding of the risks and potential mitigation actions that can save lives and property.
+> Provide disaster preparedness grants to county and tribal governments to support plan development, train key stakeholders, and purchase critical equipment to respond to and recover from an incident.
+> Initiate information sharing and lessons learned from counties and tribes that received a major disaster declaration.
+> Provide assistance and guidance to counties who receive mitigation grants to ensure the efficient and effective use of grant funding. Mitigation projects include, but are not limited to:
+> Encourage counties and tribes to participate in training and exercises at the state level and initiate their own training and exercises at the local level to help them prepare for, protect against, respond to, recover from, and mitigate the potential effects of all types of disasters and emergencies. 
+
+## Disaster Mitigation Strategies
+
+The State of Montana's Multi-Hazard Mitigation Plan has identified the following high priority mitigation strategies for wildland and rangeland fires, flooding, drought, and severe weather.
+
+## Wildland & Rangeland fires
+
+> Conduct wildland fuel reduction on state property including parks, day-use facilities, and highway rights-of-way. > Encourage fuel reduction in the WUI and along evacuation routes on county, tribal, and privately-owned lands. > Encourage utilities and private landowners to conduct fuel reduction in rights-of-way. > Support and coordinate hazardous fuels reduction projects and emphasize the importance of projects that support wood products industry and biomass facilities. > Participate in the coordination of mitigation projects on federal lands adjacent to state and private holdings. > Promote partnerships that facilitate immediate assistance to communities, producers, and businesses after a wildfire. > Assist local and tribal partners with updating Community Wildfire Preparedness Plans. > Promote public responsibility through education and marketing that inspires people to prepare their property and communities for wildfire, especially residents who live in the wildland urban area or high wildfire areas. > Update templates for smoke messaging. > Identify and further develop resilient landscapes and post-fire events such as monitoring, grass planting, and erosion control. > Promote and educate local jurisdictions on the benefits of plans, land use regulations, revenue-generating strategies, and voluntary measures (i.e. WUI Code, subdivision regulations, zoning, and building codes). > Consolidate the permitting process between DEQ and counties regarding burn permits. > Ensure that continuity of operations can be maintained during wildfire events. Committee, Conservation Districts, Drought and Water Supply Committee, Silver Jackets, etc.). > Implement appropriate mitigation for highways and transportation crossings including upgrades to undersized bridges or those with scour damage. > Support local communities' efforts to elevate their water systems so that they are no longer vulnerable to flooding, and to install or enhance storm water systems to reduce flood damage. > Encourage projects that will increase stream length to regain natural function and reduce the impact of flooding. > Continue to provide education on the benefits of the National Flood Insurance
+Program. > Provide outreach and technical assistance in joining the National Flood Insurance
+Program Community Rating System for reducing flood insurance premiums. > Educate the public on the need to limit future development in the floodplain. > Manage forested areas to keep riparian zones intact, stabilize soils, and prioritize efforts to retain streambank integrity.
+
+## Drought
+
+> Provide outreach on management practices for minimizing drought impacts. > Develop a toolbox to assist local and tribal partners with drought management planning. > Develop drought plans as an addendum to the local and tribal mitigation plan. > Continue to implement angling restrictions and closures to reduce drought impacts on Montana fisheries. > Continue to administer Fish, Wildlife, and Parks' Water Rights and Water Reservations to protect instream flows during drought for the benefit of fish and wildlife. > Encourage passive water storage where it will enhance natural function and increase water supply security. > Manage drought-affected tree stands to eliminate hazard trees and reduce any unnatural accumulation of hazardous fuels.
+
+## 201
+
+Severe Weather > Maintain partnerships with the National Weather Service and the media in order to educate the public on advisories, watches, and warnings when weather hazards are forecast to impact Montana. State Law requires all jurisdictions to have an Emergency Operations Plan. The Emergency Operations Plan is a document that assigns responsibility to organizations and individuals for carrying out specific actions at projected times and places, sets forth lines of authority, identifies resources available, and describes how people and property will be protected in an emergency that exceeds the capability or routine responsibility of any one agency.
+A federally approved Multi-Hazard Mitigation Plan is required for certain types of nonemergency disaster assistance funding from the Federal Emergency Management Agency. The MHMP discusses jurisdictions hazards, potential losses from those hazards, and mitigation strategies to reduce or avoid losses from identified hazards.
+
+## Data & Program Gaps
+
+Annually, the Montana Disaster and Emergency Services Division conducts a Threat and Hazard Identification and Risk Analysis. The most recent analysis identified the following areas in need of improvement across the state:
+> Operational Coordination: There is a need to establish and maintain a unified and coordinated operational structure and process that appropriately integrates all critical stakeholders and supports all emergency response functions. > Public Information and Warning: There is a need to deliver coordinated, prompt, and reliable information to the whole community through clear, consistent, accessible, and culturally appropriate methods in order to effectively relay information regarding a threat or disaster, as well as to take action and offer assistance to Montanans. > Planning: There is a need to conduct a systematic process to engage entire communities as appropriate in the development of strategic, operational, or tactical approaches to prepare for, respond to, and recover from disasters. > Operational Communications: There is a need to ensure the capacity for timely communications in support of security and situational awareness between affected communities and the incident response personnel. > Situational Assessment: There is a need to provide all decision makers with the appropriate information regarding the nature and extent of the threat or disaster, any cascading effects, and the status of the response and recovery efforts.
+
+## Urban & Community Forestry
+
+Montana's urban public trees are integral to the environmental, social, and economic wellbeing and sustainability of the state's communities. The DNRC Urban Forestry Program recognizes trees as one of the greatest assets within community infrastructure. The state's urban forests and publicly owned trees are highly valued as a community resource, are vital to urban infrastructure, and form an important part of Montana's history and identity.
+Urban forestry is the care and management of trees in urban settings (i.e., streets, backyards, and public open spaces). Urban forestry promotes the role of trees as a critical part of urban landscapes and infrastructure 
+(Carreiro et al., 2008)
+. Urban forests are dynamic ecosystems that provide environmental services such as energy conservation, better air quality, economic vitality, reduced storm water runoff, carbon sequestration, wildlife habitat, and community beautification 
+(Blum, 2016
+). An urban forest ecosystem differs from the natural forest in many ways, notably in the amount of maintenance it receives and how it is impacted by development, however both urban and natural forest systems have similar requirements for maximizing health and vigor. An urban forest has a microclimate-a subset of the surrounding biotic community (i.e. landscape or watershed)-with defined environmental factors of a concentrated area, such as differences in temperature, soils, surroundings, and general atmosphere.
+Urban foresters manage these resources by planting and maintaining trees, selecting appropriate trees according to conditions, supporting forest preservation, and conducting and communicating research on the many benefits trees provide for Montana's communities. Urban forestry is practiced by municipal and commercial arborists, municipal and utility foresters, environmental policymakers, city planners, consultants, educators, researchers, and community volunteers.
+
+## Urban Forest Health
+
+Montana's Urban & Community Forestry Program coordinates and supports urban forest management across the state and is administered by the Montana DNRC. The program is primarily funded through a grant from the USDA Forest Service. Staff includes a state coordinator, tree inventory specialist, and five service forester contacts who provide regional assistance to individual communities managing their urban forest resources.
+
+## The Community Forest Program
+
+The Community Forest Program is a competitive grant program that provides financial assistance to tribal entities, local governments, and qualified conservation non-profit organizations. Funds are used to acquire and establish community forests that provide community benefits such as economic benefits (through active forest management), clean water, wildlife habitat, educational opportunities, and public access for recreation. Montana currently has three community forests:
+> Mount Ascension Park, adjacent to the city of Helena; > Foy's Community Forest, adjacent to Heron Park, outside of Kalispell; and > Alvord Lake, three miles from Libby.
+Establishing community forests helps to protect forested areas recognized as important and valuable to local people and areas. According to the Green Industry Economic Impact Report 
+(USDA, 2005)
+ by the National Urban and Community Forestry Advisory Council, Montana's green industry contributed $357 million dollars to the economy. The industry brought 6,000 jobs to the state and contributed $219 million from sectors including production and manufacturing, horticultural services, and wholesale and retail trades 
+(USDA, 2005)
+.
+To better understand Montana's community forests, DNRC commissioned a statewide urban tree inventory analysis and assessment in 2017. With state and federal funding, DNRC collected and compiled public tree inventory information from 61 communities. This data was used to produce a statewide in-depth analysis of 138,420 trees located within street rights-of-way, municipally-managed public areas, and city parks. Outputs from this effort include a quantified analysis using best available science to determine benefits to tree species, as well as developing a quantified analysis of the current structure, function, and value of community forests 
+(DNRC, 2017)
+. The data also produced GIS layers that include individual tree information including species, size, condition, and geographic location for public trees, which are those within municipal areas but not located on private property (DNRC, 2019).
+The tree inventory assessment and software tool provides baseline data that:
+> Quantify the values and benefits of public trees in Montana communities; > Assist managers and residents in making informed, proactive decisions about public trees; > Inform communities that would be most affected by species-specific insect or disease outbreaks; > Set future management goals and establish maintenance and long-term management plans; and > Prioritize areas to increase canopy cover, identify and manage high-risk or vulnerable tree populations, and decide where to focus available resources and how to leverage new resources.
+
+## Urban Forest Composition
+
+The 2017 inventory contributed to a better understanding of Montana's urban forest resource by identifying factors such as species distribution, health, condition, size, and structure. This study identified:
+> More than 180 unique tree species were identified throughout the state. > 86% of the total tree population are broadleaf deciduous species. > Ash species (including green and white ash species) make up roughly 30% of the total inventoried tree population followed by Norway maple at 10% and crabapple at 4%. > 55% of the trees are considered in good condition, whereas 14% are in dead/dying condition (Figure 
+42
+). > Replacing Montana's inventoried community trees with trees of similar size, species, and condition would cost nearly $185.5 million, or an average of $1,340 per tree. > The inventoried community trees in Montana provide over $17 million per year in environmental, economic, and health benefits. This averages to $124 in benefits per tree. 19,378 individual trees are considered dead or dying statewide, representing a serious cost to urban forest and infrastructure managers. It is estimated that the average cost of removal for a medium-sized tree is $600, bringing the total cost of removing all dead and dying trees to $11. 
+6
+ million.
+
+## Urban Forest Benefits
+
+Trees in urban settings support critical environmental functions and are essential for human health and wellbeing. The UCF program identified three main categories of benefits from urban trees: public health, environmental, and socio-economic. Montana's tree inventory data calculated these benefits using the software analysis data and iTree calculations, a state-of-the-art, peer-reviewed research tool. The iTree tool provides extensive forest and individual tree analysis for ecosystem services such as pollution removal, carbon sequestration, and human health impacts. It also analyses species condition and distribution, leaf area, biomass, and relative performance.
+
+## Urban Ecosystem Services
+
+The term ecosystem services, simply put, refers to the benefits people receive from ecosystems 
+(Millennium Ecosystem Assessment, 2005)
+. Trees are a perfect model of ecosystem services and a direct solution for addressing the environmental impacts of urban settings.
+Services provided by trees include improved air quality, storm water reduction, reduced energy costs, carbon storage, and mitigated heat island effects. Trees and the urban forests can be used to modify the impacts of these environmental challenges in urban areas. These services are important in Montana because of frequent extreme temperature fluctuations, high winds, and the overall variability of climate in communities across the state. Some examples of using trees to enhance urban infrastructure include:
+> Trees planted to provide windbreaks and shelterbelts in high-wind areas like Browning, Cut Bank, Livingston, and Shelby. Windbreaks can protect buildings, crops, and nearby areas by cutting windspeeds in half. They also act as a buffer from noise, provide visual screens, and capture dust. > Provide cooling in high temperature areas, for example in urban heat islands. Shaded spaces can mean the difference of 20-40 degrees F cooler than peak temperatures of exposed surfaces (EPA, 2019). > Community retail economies and tourism. Studies show that in business districts with an urban forest, trees promote better business. People spend more time shopping and are willing to pay 9-12% more for goods and services 
+(Wolf, 2007)
+. > Edible forest gardens. Edible forests are making headway in cities across the country, as they are now understood to be highly sustainable, self-maintaining systems that offer food production. The city of Helena has been developing an edible forest for several years, utilizing a town lot that has been converted into greenspace. These systems are highly functional, drought tolerant, nutrient-filled patches that promote locally-sourced food and plants adapted to the region. > Work with tribal communities. Montana cities such as Browning, Polson, Pryor, and Wyola place added importance on community tree plantings, using information and trees that are considered culturally significant for food, materials, ceremonies, and heritage. > Technology in planning and infrastructure. Missoula, and soon Hamilton, are introducing tree technologies such as permeable pavement and structural soils in their downtown areas. These designs minimize soil compaction, allow better water infiltration, and allow trees to grow to their best potential. Columbia Falls and Shelby successfully installed solar powered irrigation systems for trees in remote areas, such as walking paths on the outskirts of town.
+
+## Energy
+
+By reducing energy consumption, trees reduce emissions generated by indoor heating and cooling. Through shade and transpiration, trees and vegetation help moderate temperatures in urban settings. Shade from trees reduces radiant heat, thereby regulating the heat-island effect caused by paved surfaces and buildings. In addition, trees provide protection from wind in winter, which helps homes conserve energy.
+Annually, Montana's urban trees reduce energy consumption by 12,456 megawatt hours and 1.16 million therms, for a total retail savings of $1.8 million or $13.32 per tree. The amount of electricity saved is equivalent to running 2,490 home central air-conditioning units for 1,000 hours each. The natural gas savings is equivalent to heating 8,000 houses (2,500 sq. ft. each) for a month (DNRC, 2017).
+Montana's urban forests lessen the demand for heating and cooling energy, which reduces CO2 emissions from natural gas and electricity consumption. This reduced consumption prevents the release of 11.7 million pounds of CO2 per year (DNRC, 2017).
+
+## Mental Health
+
+Research suggests a direct correlation between community trees and human health and well-being. Some relevant benefits for Montana include:
+> Children with attention-deficit disorders who spend time in nature have significantly less severe symptoms than those who play in windowless indoor settings 
+(Wolf et al., 2014)
+; > Spending time in treed settings improves short-term memory, boosts the immune system, restores mental energy, and relieves stress (Kuo, 2015); > Patients recovering from surgery have less reliance on medication and recover more quickly when their room has a view of trees (Ulrich, 1986); and > The presence of trees helps slow traffic speeds and contributes to reduced crime rates 
+(Donovan & Prestemon, 2012)
+.
+
+## Air Quality
+
+In Montana, air quality issues include drought-related dust in the eastern communities and smoke inversions in the western valleys. In these areas, large wildfires can pump as much carbon dioxide into the atmosphere in just a few weeks as cars do in an entire year.
+> A healthy urban tree population can help trap, settle, and hold dust and particulate pollutants from smoke and combat some emissions from wildland fires. (Chen et al., 2017; Nowak & Dwyer, 2010; Table 
+3
+) > Each year urban trees in Montana remove 47,513 pounds (21.6 metric tons) of pollutants including nitrogen dioxide, sulfur dioxide, small particulate matter, and ozone. > Research has shown a direct correlation between tree loss in neighborhoods (due to emerald ash borer) and increased symptoms of respiratory illness. In some communities with a high percentage of ash, tree loss could cause health related issues 
+(Donovan et al., 2013)
+.
+Table 
+3
+. Air Quality Strategies-Urban forest management practices and benefits to air quality (DNRC).
+
+## Carbon Sequestration
+
+Inventoried trees in Montana annually sequester 9.5 million pounds of carbon dioxide.
+Trees reduce atmospheric carbon by pulling carbon dioxide from the air and storing it in leaves, branches, trunks, roots, and soil. Annual total carbon benefits, including carbon dioxide sequestered and avoided, are valued at $147,635.
+A mile of highway produces between 2,330-3,730 tons of carbon dioxide per year. Conversely, a healthy tree stores about 13 pounds of carbon annually, or 2.6 tons per acre each year. An acre of trees absorbs enough carbon dioxide per year to equal the amount produced by driving a car 26,000 miles (USDA FS, 2010; DNRC, 2017).
+
+## Water Quality
+
+During heavy rain events, trees intercept rainfall in their canopies, reducing stormwater runoff. Tree roots help the capacity and rate of water entering the soil. Trees also filter out sediments and other pollutants from stormwater, easing the burden of water treatment facilities.
+Urban trees in Montana intercept more than 122.4 million gallons of stormwater annually, or an average of 884 gallons per tree. The value of this benefit is over $1.3 million, an average of $9.55 per tree 
+(DNRC, 2017)
+. Communities that rely on well water for drinking water supply may see positive impacts in water quality due to filtration benefits provided by urban forests.
+
+## Riparian Forests
+
+A key element of urban forests are riparian forests, also called riparian forest buffers, which are the forested areas adjacent to a stream, lake, wetland, or canal that contain trees, shrubs, grasses, and other native plants (USDA, n.d.). Riparian forest buffers are typically managed differently than the surrounding landscape in order to conserve ecosystem service benefits. These riparian forest zones provide a number of benefits to Montana communities, including improving water quality by filtering nutrients and sediment before they enter streams; stabilizing river, stream, or creek banks that would otherwise erode; providing urban wildlife habitat; enhancing spaces for recreation; and protecting downstream cropland and communities from flooding and water pollution (Figure 
+43
+). For agricultural landowners, riparian forest zones can also provide additional sources of income when the species selected provide fruit, nut, forage, or wood. While these narrow-forested strips represent only a modest percentage of forested area in Montana, the ecosystem services they provide benefit Montana communities, farmers, and other landowners. Riparian forests flourish in rural and wild lands as well, but are particularly beneficial in urban areas where there is high potential for damage to infrastructure, water quality, and water quantity. Urban activity increases the potential for harmful pollutants to enter streams and cause problems downstream, meaning that communities must spend potentially millions of dollars yearly to treat contaminated waters 
+(Klapproth & Johnson, 2009)
+. Sediment runoff can clog stormwater systems and irrigation canals, resulting in costly maintenance and increasing the risk of further damage to infrastructure in severe rain events 
+(Ribaudo, 1986)
+.
+In Montana, protecting and maintaining riparian forest buffers is especially beneficial for communities at high risk of flood damage. Riparian buffers provide a natural area for floodwaters to spread, allowing the water to slow down and lose energy, which reduces the severity of erosion and captures sediment and other materials being carried by floodwater. By restoring or preserving riparian forests in urban areas, communities can protect their homes from costly flood damage.
+Protecting riparian forests is also beneficial for Montana's agricultural producers. Riparian forest buffers along crop fields and pastures help to prevent soil erosion, meaning that farmers and ranchers lose less topsoil during rain and flood events 
+(Klapproth & Johnson, 2009)
+.
+A riparian area in Beaver-Deerlodge National Forest / Photo by Roger Peterson & courtesy of USDA Forest Service
+Buffer strips just 30 feet wide can remove 84% of sediment from runoff water 
+(Dillaha et al., 1986)
+. This not only protects downstream water quality, but enhances agricultural productivity by keeping valuable topsoil and nutrients in fields and pastures where it is needed. Riparian buffers can be managed to incorporate trees for timber, fruit, or nut products, providing an alternative income stream for producers.
+Another benefit that riparian forest buffers provide is enhanced public spaces for recreation benefits. Riparian forests are attractive wildlife habitat, improving connectivity between other nesting, breeding, or migratory routes. Riparian forests and wetlands occupy just 4% of the land surface in Montana, yet support more than 80 bird species found in the state (USFWS, 2014). Urban residents have better opportunities to view wildlife normally found in wildlands, particularly birds and mammals. Riparian forests help maintain stream conditions favorable to fish species, providing cold temperatures, improving dissolved oxygen levels, and filtering out sediment and urban pollutants. Riparian forests also reduce water loss to evaporation and recharge surface water, increasing stream flow in the hot summers and maintaining stream connectivity for fish from feeding to spawning grounds. The water quality benefits from riparian forests help to ensure that urban waterways are safe and communities have clean water for all needs and purposes.
+
+## Issues, Threats, & Challenges
+
+## Insects & Disease
+
+Emerald ash borer poses a huge threat to Montana's urban forests and native riparian draws. The green ash naturally grows in riparian corridors, most abundantly in eastern Montana (Montana Natural Heritage 
+Program, n.d.)
+. These areas are highly valued, as they provide excellent habitat, multi-level canopy structure, and prevalence of foliage, fruits, and buds 
+(Lesica & Marlow, 2011)
+. While emerald ash borer has not yet been detected in Montana, it has been discovered in neighboring South Dakota and Wyoming, close to the Montana border. For more information about the emerald ash borer, see the Insects & Disease section.
+Ash species are the most commonly planted trees in several Montana communities, especially east of the Continental Divide (Figure 
+44
+). Nearly 30% of all trees inventoried statewide in the 2017 assessment were ash, which dominates the urban forest in places like 
+Dillon, Helena, and Livingston (DNRC, 2017)
+.
+Green ash is the most dominant ash species in Montana Ash species comprise over 40% of community forests in eighteen communities in Montana. They account for 68-70% of forests in population centers like Havre, Roundup, Laurel, and Columbus, which are at great risk of losing a significant portion of their urban forests. In addition to losing ecosystem service benefits, these communities will also incur high direct expenses for tree removal and replacement. Emerald ash borer also poses a threat to riparian ecosystems, both within and adjacent to communities.
+Dutch Elm Disease continues to be a challenge for Montana communities and has effectively wiped out most American elms throughout the state over the past fifty years. The cities of Kalispell, Lewistown, and Great Falls reported a large loss of legacy elms over the last ten years.
+Urban and community forests are also vulnerable to other insects and diseases. Verticillium wilt, anthracnose, fire blight, and-of particular concern, pests like bark beetles, borers, and the Asian longhorned beetle-all pose threats to Montana's urban forests. These pests and diseases vary in severity based on geography and specific urban forest composition; strategies to address them should vary accordingly. 215
+
+## Climate
+
+When selecting proper trees and plants for Montana, most professionals use the USDA's plant hardiness information. Montana's plant hardiness zones consist of a large range of temperature extremes, creating a unique-and challenging-set of conditions for tree establishment and growth (Figure 
+45
+). With warming trends and extreme weather events, Montana's trees are extremely stressed and predisposed for a secondary factor, such as insects, disease, fire, or an extreme weather event, to cause widespread mortality. In recent years, several community forests have been affected by weather events and have had to spend hundreds of thousands of dollars in response to tree damage. Climate projections for the region include an increase in the severity and frequency of large storm events, indicating that communities are likely to incur increased costs for removal of compromised urban trees. In 2012, the national USDA Plant Hardiness Map was updated using the newest data, including elevation, urban heat, and proximity to large bodies of water. The update also reflects the warming trends in average temperatures throughout the country. In Montana, many zones were reclassified and shifted into a warmer climate zone. For example, northwest Montana moved from a 5b to a 6a zone, while in southeast Montana, Billings moved from a zone 3 to a zone 4 (Figure 
+46
+). Communities across the state have recently been impacted by severe storms outside of historic ranges, including high wind events, hail storms, unseasonable snow, heavy rains, drought, and frequent extreme temperature fluctuations. These weather events, associated with long-term climatic change, cause increased damage, stress, and mortality in trees. According to the Montana Climate Assessment, the growing season is on average twelve days longer than it was in 1950 
+(Whitlock et al., 2017)
+. The change in temperature trends affects seasonal dormancy cycles in trees, causing them to bud out earlier in the spring and remain in leaf further into the fall. Earlier leaf out means that trees in full foliage are more vulnerable to frost or heavy snow in the extended season. While some plants will be more available for growth, others may not fare well with the warmer winters and climates, opening the door for additional insects and disease.
+
+## Urban Planning & Development
+
+Population growth in some of Montana's urban centers presents challenges for urban planning and development, particularly regarding management and maintenance of urban and community forests. While municipalities cover only 1.2% of the state's land mass, 53.8% of the population lives within a city or town (US Census Bureau, 2010). All of Montana's communities, both incorporated towns and unincorporated centers, cover just 2.6% of the state's land mass, yet 69.5% of the population lives within these census designated places 
+(US Census Bureau, 2010)
+. As the population grows, the impacts to the landscape will create additional pressure on natural resources, including community forest fragmentation and canopy loss. Further, city and community planners recognize that the interactions between people and their immediate environments is an important consideration for Montanans. The ecosystem services provided by urban trees will be integral pieces of sustainable, cost-effective infrastructure as the built environment grows.
+The most significant challenge that municipalities face, especially smaller towns, is the lack of capacity and professional staff in urban and community forestry. These professionals can help ensure that new developments incorporate community and urban forests, and plan to mitigate or avoid the known threats and challenges facing Montana's urban tree canopy. Development into the Wildland Urban Interface, for example, brings challenges with potential fire encroachment and a need for introducing adaptive landscaping. With some foresight, planning, and expertise in local context, communities can create a more functional, aesthetic, and ecologically functional landscape that considers all factors for each situation.
+
+## Age & Decline of Urban Forests
+
+Most urban forests in the state are reaching the end of their first life cycles, that is, the natural age and decline of the dominant age cohort of urban trees. As Montana's communities are reaching or surpassing a century in age, the trees planted at their first founding or development are reaching the end of their natural lifespan. Systematic removals and replacements are overdue to prevent further decline that could pose a liability and safety risk. Removal costs for some of the massive trees can cost up to $13,000.
+
+## Urban Tree Species Diversity
+
+With just three species (ash, maple, crabapple) representing 42% of Montana's urban tree population (DNRC, 2017), the risk is high for widespread mortality, especially from the likely emergence of Emerald ash borer. Adding diversity and a mix of species will increase resiliency and create a healthier urban forest.
+
+## Opportunities
+
+Montana's Urban and Community Forestry programs are predominantly funded by USDA FS' State and Private Forestry Program; additional federal funds come from the NRCS, and the remainder of program funding comes from state and local government funds. As additional funds or funding sources are made available, the capacity to support urban and community forests and the benefits they provide increases.
+> In recent federal budget planning, decision makers are paying specific attention to urban forest health overall, and insect and disease threats in particular. > The Montana UCF program could increase proactive collaboration with state stakeholders and federal agencies to bring needed resources into the state. > Community forest managers could better align with national resources and educational campaigns that seek to prevent transporting potentially infested trees, logs, or firewood within the state (Don't Move Firewood, 2019).
+> Urban wood use keeps carbon out of the atmosphere, provides jobs, and reduces need to transport from elsewhere. The UCF program can support wood utilization and bring more opportunities for the state. > With approximately one third of Montana's 129 incorporated cities and towns a Tree City USA, this number could be increased with more resources at either the local or statewide level.
+
+## Tree Species Diversity
+
+There is also tremendous opportunity to increase the diversity of tree species that make up the urban forests in Montana.
+> A generally accepted guideline in UCF management suggests that no single species should represent more than 10% of the overall urban forest composition 
+(Clark et al., 1997)
+. Though new research suggests 5% as the ideal species diversity, Montana's growing conditions make this difficult to achieve. > By striving to meet this 10% benchmark, communities can achieve large gains in reducing the risk of widespread damage due to insects and disease.
+
+## Climate Adaptations
+
+As Montana's climate changes, it is critical that UCF managers consider a broad range of species to incorporate into urban and community forests.
+> Both non-native (but non-invasive) and native species found in different plant hardiness zones should be considered in the built environment. > Non-native species can sometimes be the hardiest for transplant and establishment in urban areas, and will grow, function, and adapt to heavily managed areas more readily than many native species 
+(Zettlemoyer et al., 2019)
+. > This is because of key differences between the urban forest ecosystem and natural forests. > By selecting hardier species from a range of ecosystems, managers can ensure more robust forests over the long term.
+As climate change alters temperature, precipitation, and storm patterns across Montana, managers will need to consider how to adapt urban and community forests to new conditions.
+> In an urban area, soils are highly disturbed, compacted, or brought in from other areas; concrete and other impermeable sources limit water availability; pavement increases overall temperatures; and there is usually a higher level of toxins and pollutants.
+> Urban and Community forestry presents one of the most effective means to mitigate impacts of higher ambient temperatures by providing the cooling effects of shade. Shaded spaces can mean the difference of 20-40 degrees F lower than peak temperatures of exposed surfaces (EPA, 2019). > Trees can be used as an important strategy to adapt to new conditions, if planted in a way that maximizes ecosystem services such as carbon sequestration, air and water quality services, and using canopy cover to reduce urban surface temperatures. > Community foresters also have the opportunity to explore new species that show greater resilience and hardiness to weather extremes, or that have higher performance in terms of carbon sequestration or water filtration. > With predicted scenarios of 'flash drought' and concerns about water availability, use of bioswales and other water conservation techniques for urban settings will need to be further explored. > Managers have the opportunity to consider carbon offsets, financial incentives, and engagement with programs toward lowering net carbon emissions within communities.
+
+## Urban Planning & Development
+
+Planning with trees in mind for developments, urban expansion, and population growth will help mitigate some of the negative consequences of growth.
+> A long-term vision, strategic management plan, proactive tree care, and dedicated staff at the local level creates a strong foundation for sustainable growth. > Success with adopting management plans has created additional local funds directed towards tree care and management, and in several cases new positions were hired to manage the city trees. > Integrate urban forestry concepts into Community Wildfire Protection Plans.
+
+## Payments for Ecosystem Services
+
+Use community trees as a carbon sequestration tool, and consider marketable or economic strategies to invest into urban forestry environmental services. City Forest Credits is an example program that could bring new investment and sources of funding to Montana.
+
+## Data Management
+
+Continue to update and maintain statewide urban forest inventory data. This living tree inventory dataset can be used as a long-term tool and, along with the 2017 assessment, provide a baseline for analyzing trends and changes in Montana's community forests.
+> DNRC distributes grants to communities that support and encourage local urban forestry program development. > New Dutch Elm Disease-resistant cultivars and varieties of tree species are being introduced through nurseries and arboretums. Use of these trees will allow for continued diversity and resilience. > DNRC has a statewide emerald ash borer readiness and response plan, developed in 2015. Currently DNRC is actively working with other agencies and organizations to collaborate and share information regarding the response, management, and protocols for dealing with emerald ash borer. > The data from the statewide inventory is an essential tool towards identifying communities with low species diversity. > Statewide partners and organizations have been working collaboratively in recent years to expand available resources for urban forestry in Montana's communities. > Some progress includes work towards resource-sharing.
+
+## Data & Program Gaps
+
+> Wildland Urban Interface -There is a need to emphasize the connection between WUI trees, forests, and watersheds, managed and protected in many cases with UCF programming.
+> The Montana Urban and Community Forestry Association advises the state urban forestry program on direction and helps facilitate statewide collaboration. It is the primary advocacy group for urban and community forestry. > For example, the City of Missoula invested in a tree tomograph, a specialized piece of equipment for scanning the inside of trees for rot and decay. > The City of Missoula is currently working to make this resource available to other Montana communities. > Kalispell, Columbia Falls, and Whitefish are researching ways to share tree equipment such as a chipper and a bucket truck. > Townsend recently created a partnership in large tree orders and delivery to communities around the state, including Roundup and Sidney. > Anaconda-Deer Lodge and Butte-Silver Bow considered a split arborist position to provide services for both towns.
+> This data is a reliable resource for communities to utilize in tracking changes in tree species composition over time and helping to plan for a changing environment. > Therefore, it is important to keep current and frequently updated.
+> Urban tree canopy cover -More data and statistical information is needed to assess the current cover within Montana's communities. Fragmentation of forests and canopy loss is a nationwide issue, and Montana is showing symptoms of similar changes.
+> Include community trees and forests when looking at statewide and landscape scale forest data. Tools are needed to strengthen the use of tree and forest inventories, monitoring, and assessment across all lands.
+Priority Areas for Focused Attention
+
+## Description of Priority Areas for Focused Attention
+
+Drawing from the Montana Statewide Assessment of Forest Conditions, the Montana Forest Action Advisory Council applied their expertise and experience to identify Priority Areas for Focused Attention. These areas require active landscape-scale forest restoration and management in order to address prevalent wildland fire risk and forest health issues across all forested lands in the state of Montana. The identification process focused on forest health and fire adaptation, with the intent of addressing community protection, industry retention and economic development, recreation and tourism, wildlife and aquatic habitat, watershed restoration, and other areas as identified by the council.
+Geospatial models and data-driven analysis on all forested lands across Montana identified areas with the highest wildfire risk to communities and infrastructure, as well as areas with significant forest health concerns. These areas have been termed
+> DNRC, with funding and analysis support from the USDA FS, recently initiated a project to map the extent of tree canopy and forest cover alongside building and parcel data in urban areas and regions. This mapping is especially powerful when combined with other information, such as socioeconomic data, and can provide incredible insight regarding risks, resource needs, and tradeoffs. This can also help prioritize fire mitigation efforts and determine appropriate places for future tree plantings.
+> Vegetation and canopy cover change analysis -As communities continue to grow in population and further develop, there is a substantial impact to surface cover. Temperatures are significantly higher in areas called 'urban heat islands,' by as much as 8 degrees.
+"areas with elevated fire risk and degraded forest health." MFAAC further refined this area of analysis by emphasizing areas with existing road infrastructure and lower elevation forest types, more frequently found around communities and infrastructure, to determine the areas of highest priority for implementing landscape-scale cross-boundary forest restoration and management activities. These Priority Areas for Focused Attention will help land managers sequence programs of work and collaborate across jurisdictional boundaries to address wildfire risk and forest health issues while ensuring resilience in communities and infrastructure.
+The purpose of the Montana Forest Action Plan's "Priority Area for Focused Attention" designation is to describe current landscape attributes, draw attention to the urgency with which action should be considered, and identify resources that should be allocated, in order to protect Montana's communities and infrastructure and improve forest health conditions. MFAAC's Priority Area Identification process is meant to inform land managers on the status of Montana's forests and provide a range of consensus-derived recommendations that allow for collective organization behind common goals and to accomplish work at the landscape scale. Furthermore, no proposed implementation or management strategy shall counter or conflict with existing land management plans, and the Forest Action Plan will not prescribe management activities.
+Priority Areas for Focused Attention are displayed via an interactive web map that can be found at 
+https://www.montanaforestactionplan.org/pages/data
+.
+
+## Priority Area Identification and Methodology
+
+A Geographic Information System (GIS) is a technological system for gathering, managing, and analyzing spatial data. The concept of spatial data includes an understanding of location and how information is organized geographically 
+(ESRI, n.d.)
+. By organizing information into spatial layers and visualizing them with maps or 3D displays, GIS can reveal patterns, relationships, and situations that enable decision makers 
+(ESRI, n.d.)
+. This data-derived GIS methodology was used to identify the landscape-scale areas that represent the greatest risk of wildfire and forest health.
+One of the most applicable uses of GIS is for planning and land management, particularly suitability mapping 
+(Collins et al., 2001)
+. GIS land use suitability analysis has been applied to a range of management processes, including landscape evaluation, site selection, regional planning, and environmental impact assessments 
+(Malczewski, 2004)
+. A landscape evaluation using GIS involves gathering datasets of interest and performing a GIS overlay, an operation that layers the datasets and identifies any relationships 
+(Clarke, 1997)
+. The resulting composite product identifies spatial regions in which multiple input factors are found to occur. Furthermore, by utilizing raster data (uniformly sized pixels that are used to store data that varies continuously), the overlay becomes increasingly nuanced by utilizing classes of different values within each dataset that identify variations of risk within the datasets. These dataset classes are assigned numerical values, which are then mathematically merged together to produce a single dataset with a new range of values 
+(ESRI, n.d.)
+. This modeling process allows land managers to assign relative value to each dataset, weighting the resulting output accordingly.
+
+## Data Sources Primary Data Sources
+
+A variety of statewide datasets were examined for GIS modeling suitability. Raster datasets with statewide extent and the most current data were preferred. Ultimately, six publicly available datasets were chosen for inclusion in the GIS model. These six datasets provide spatial information for different aspects of wildfire risk and forest health in Montana.
+The Wildfire Hazard Potential model provides information on the relative potential for wildfire that would be difficult for fire crews to contain. Areas with higher wildland fire potential values represent fuels with a higher likelihood of experiencing high-intensity fire with torching, crowning, and other forms of extreme fire behavior 
+(Dillon et al., 2015)
+. This dataset is derived from the Large Fire Simulation System (LFSim) produced as part of the Fire Program Analysis System by the USDA Forest Service's Fire Modeling Institute. The mapping process incorporates multiple indicators of fire intensity and fire probability to assess risk.
+To determine fire probability, the mapping process includes LFSim burn probability, crown fire potential, and known small fire occurrence points derived from LANDFIRE datasets. Fire intensity is measured through LFSim flame length. The layer is useful for analyses of wildfire risk, hazardous fuels prioritization, and strategic planning across large landscapes (hundreds of square miles) up through regional and national scales. When paired with spatial data depicting highly valued resources, land managers can use these data to create value-specific risk maps 
+(Dillon et al., 2015)
+. The map assigns five classes representing wildfire risk:
+> Very Low > Low > Moderate > High > Very High
+The Recent Fire History dataset further informs the wildfire hazard potential model. Montana has experienced significant wildfire seasons since the release of the latest wildfire hazard potential model. Thus, a secondary dataset was required to capture wildland fire disturbances that were not considered by the wildfire hazard potential model.
+To achieve this, DNRC fire perimeters from the 2015 fire season to present were used. The addition of these fire perimeters further informs understanding of Montana's fire potential.
+In particular, the aftermath of the extensive 2017 fire season is made apparent through the inclusion of this dataset, particularly the Lolo Peak, Rice Ridge, Myers, and Lodgepole fire complexes.
+Distance to the Wildland Urban Interface provides an assessment of areas that are in or near the Wildland Urban Interface. The WUI comprises areas within an at-risk community or adjacent to a community where humans and their development meet or intermix with wildland fuel 
+(Stein et al., 2013)
+. Communities at risk often consist of homes and other structures with basic infrastructure near federal land. Within the WUI, natural conditions can be conducive to major wildland fire disturbances that disproportionately threaten infrastructure and human life.
+DNRC utilizes a definition of WUI that includes all known structures in the state of Montana, including a half-mile of land buffered around each structure. This definition is used by the Fire Bureau Agency to inform wildland fire decision management. In addition, DNRC maintains a structures database from which the WUI dataset used for modeling was derived. A multi-ring buffer was constructed around each structure at the following distance intervals:
+> Less than 1/2 mile > 1/2-1 1/2 miles > 1 1/2-3 miles > 3-5 miles > 5-10 miles > More than 10 miles
+Areas within the WUI, or identified as being within a close distance to the WUI, were given a higher model weighting, while areas at greater distances from the WUI were correspondingly weighted lower.
+To identify future risks and threats to Montana's forests, the National Insect and Disease Risk Map was used. This U.S. Forest Service map depicts predicted future forest loss through 2027 
+(Krist et al., 2014)
+. A variety of inputs were used to quantify the risk of tree mortality from a variety of insects and forest pests, including current forest conditions, known and active infestations, localized climate systems, and expected future climatic conditions. The model considers a forest to be "at risk" if cumulative risk from all forest pests is likely to cause a 25% loss in forest basal area 
+(Krist et al., 2014)
+. There are four classes in the NIDRM dataset:
+> No risk > Low risk > Elevated risk > High risk
+Areas of elevated risk represent landscapes that were classified as high risk in previous versions of NIDRM and have since experienced insect outbreaks. While risk still remains in these areas, overall risk of a future outbreak has been reduced.
+Insect & Disease Risk was measured using aerial disease surveys conducted by the USDA FS. The surveys are designed to detect and assess insect infestation and disease conditions affecting trees throughout forests and the USDA FS issues an annual update of existing conditions (USDA, 2011). This dataset is the primary method of collecting data on the health of treed areas affected by insects and diseases. Detection surveys are an efficient and economical method of collecting and reporting data on forest insects, diseases, and other disturbances across state, private, and federal lands (USDA, 2011). To identify recent and ongoing disease impacts, areas that have experienced tree mortality over the previous decade were identified using the aerial disease survey datasets. Specifically, insects and pathogens known to cause extensive mortality in Montana were identified, including mountain pine beetle, Douglas-fir beetle, fir engraver, and dwarf mistletoe.
+Due to a lack of available, statewide data assessing the severity of past outbreaks, this dataset measures where tree mortality is known to have occurred without classifying by severity.
+Western Spruce Budworm Recurrence identifies forests that have experienced chronic outbreaks of this forest pathogen over multiple years. The western spruce budworm is the most widely distributed and destructive defoliator of coniferous forests in western North America 
+(Fellin & Dewey, 1982)
+. In Montana, outbreaks of spruce budworm can indicate areas where Douglas-fir are in chronic stress from defoliation, and potentially from overstocking. Chronic outbreaks strongly correlate to stand conditions and can indicate ongoing forest health issues. Unlike mountain pine beetle or Douglas-fir beetle, outbreaks of western spruce budworm result in further stress to forests rather than extensive mortality. Thus, due to this disparity in measuring the effects of this pathogen, western spruce budworm was considered separately from mortality-causing insects.
+To identify forest landscapes with chronic infestations, aerial detection survey data from 2010-2019 was modeled using an overlay analysis. The results were placed into the following classes to measure recurrence:
+> No presence detected > 1-3 years (Low) > 3-5 years (Moderate) > More than 5 years (High)
+
+## Informational Data Sources
+
+In addition to the primary datasets, two informational data sources were used. These datasets were not weighted as part of the model's raster overlay analysis but were included to provide boundaries to the landscape analyzed by the model.
+Classified Forest Lands were developed for fire protection purposes in Montana. Classified land is defined as any land that, in the judgement of the department, poses a fire menace to life or property. For modeling purposes, the landscape analyzed was restricted to classified forest lands. In addition, classified lands are identified based on stocking and size of trees and the capacity of the land to produce commercial timber or wood products-in an intermingled or contiguous fashion-with a buffer extending 0.5 miles from contiguous fuels into non-classified forest lands. DNRC may classify the forest land areas of the state that reasonably require conservation and fire protection measures, and change or modify the classification from time to time as circumstances evolve.
+Certain Federally Managed Lands were excluded from modelling to avoid conflicts with existing management plans. The designated lands excluded from analysis included National Park lands, National Wildlife Refuges, Wilderness Areas, and Wilderness Study Areas.
+
+## Priority Area Development
+
+## Forest Regions
+
+Montana contains 23 million acres of forested land across multiple climatic boundaries. Consequently, there is significant variation in regional vegetation patterns, and this variation influences both fire risk and specific insect pathogens that are limited by the prevailing vegetation type. To ensure that local variations in the relative importance of fire risk and forest health indicators were accounted for, the GIS model output was normalized by forest regions in Montana. These forest regions were developed to serve as a geographic reference for vegetation patterns across the state, as well as to inform regional classifications developed by federal agencies 
+(Arno, 1979)
+. Each forest region is defined by a unique ensemble of vegetation communities, prevailing climate, topographic barriers, and vertical zonation.
+The Northwest Forest Region consists of the Kootenai, Flathead, and lower Clark Fork watersheds and is bounded by the Continental Divide to the east, Idaho to the west, the Bitterroot Mountains to the southwest, and the Blackfoot/Rattlesnake watersheds to the southeast. This forest region is heavily influenced by Pacific species that are less common or absent from the rest of the state 
+(Arno, 1979)
+. Important tree species in this region include western hemlock, western red cedar, grand fir, Pacific yew, and western white pine. Unlike other forest regions in Montana, the northwestern region is heavily forested, even in the lowest elevation valleys (as low as 1,800 feet in elevation) 
+(Arno, 1979)
+.
+The West-Central Forest Region includes the Clark Fork watershed upstream of Frenchtown, with the exception of the headwaters region upstream from Nevada Peak. The region also extends west to the Bitterroot Range. The climate in this region is influenced by Pacific weather patterns, albeit to a lesser extent than the northwestern region. Drier conditions make Pacific species rarer, and they are generally restricted to moist canyons at the limit of their ranges 
+(Arno, 1979)
+. Grand fir is common but less abundant than in the northwestern region. Intermountain forest species dominate this region, including western larch, ponderosa pine, and Douglas-fir 
+(Arno, 1979)
+. Around 80% of the landscape is potentially forested, with grassland occupying broad, low-elevation valleys 
+(Arno, 1979)
+.
+The North-Central Forest Region includes a narrow belt of forested land along the eastern slope of the Continental Divide from the Dearborn River north to the Canadian border. In addition, islands of forest as far east as Havre are included. The region is most similar to southern Alberta and is just 10% forested, limited by a severe continental climate, short growing seasons, and dramatic temperature fluctuations caused by chinook winds 
+(Arno, 1979)
+. Pacific species and many intermountain species are absent. The most extensive forests of quaking aspen are found here, with limber pine and subalpine fir being the dominant conifer species 
+(Arno, 1979)
+.
+The Central Forest Region includes all of the forested terrain from the Continental Divide west of Helena and eastward to the Fort Peck Reservoir. The region is bounded on the north by the Dearborn River and on the south by the Boulder River divide. Many of Montana's island mountain ranges fall into this region, including the Little Belt, Big Snowy, Little Rocky, Bear Paw, and Highwood mountains. 20% of the landscape is forested, generally within the island ranges, while lower elevations consist of grasslands 
+(Arno, 1979)
+. The climate is continental, though less severe than in the north-central region, and eastside vegetation species predominate. Most of the region has a low-elevation belt of ponderosa pine, though a different subspecies than in western Montana. Other prominent tree species include limber pine and juniper 
+(Arno, 1979)
+.
+The Southwestern Forest Region extends east from the Continental Divide and covers the Jefferson, Madison, and Boulder watersheds. The Clark Fork headwaters around Butte are included in this region as well. 25% of this region is forested, with non-forest land consisting of semiarid steppe 
+(Arno, 1979)
+. Unlike the central region, vegetation patterns in the southwestern region are driven primarily by aridity rather than continentality. Lower elevations and warmer sites are occupied by Douglas-fir and limber pine while higher elevations are dominated by lodgepole pine, with undergrowth being more scarce than surrounding regions 
+(Arno, 1979)
+.
+The South-Central Forest Region includes the high-elevation forests within the Greater Yellowstone Ecosystem as far east as the Pryor Mountains. The landscape is continental and up to 50% forested and experiences wetter conditions than southwestern Montana, due to the higher base elevation 
+(Arno, 1979)
+. Most of the forests consist of Douglas-fir and lodgepole pine with undergrowth more prevalent 
+(Arno, 1979)
+.
+The Southeastern Forest Region consists of hilly terrain along and south of the lower Yellowstone watershed toward Montana's eastern and southern borders. This region lacks significant topographic variation, and thus lacks extensive forests. Much of the region is continental grassland, but low elevations and less severe winters enable ponderosa pine to thrive in almost pure, savanna-like stands 
+(Arno, 1979)
+. In addition, two eastern deciduous species, green ash and American plum, can be found on moist north slopes or along streams 
+(Arno, 1979)
+.
+Northeastern Montana includes the area east of Fort Peck Reservoir and north of Miles City. This region consists almost entirely of grassland, with the exception of eastern cottonwood that occurs alongside major streams. There are no upland forests, due to extremely cold, continental winters and high-intensity drying winds, which prevent ponderosa pine from growing in this region 
+(Arno, 1979)
+. Due to the lack of a significant forested landscape, this region was excluded from the normalization process and was largely absent from the six primary datasets.
+
+## Raster Overlay Analysis
+
+GIS suitability modeling was performed in GeoPlanner for ArcGIS, a web platform specializing in raster overlay analysis. Two primary models were created for aggregated fire risk and forest health risk. Within the fire risk component, wildfire hazard potential received 50% weighting, and distance to WUI received 50% weighting. Within the forest health component, 50% weighting was applied to the insect & disease risk dataset, with the remaining 50% representing existing insect and disease condition and split equally between insect and disease impact and spruce budworm recurrence. Finally, the classified forest lands and federally managed lands datasets were implemented to restrict the scope of the model output to forested lands outside of national parks and wilderness areas.
+The primary model was run across each of the forest regions in Montana, excluding the northeastern forest region. The delineated forest regions were used to spatially bound iterative runs of the GIS overlay analysis model. Within each region, raster cell values were adjusted relative to a cell's standard deviation from the mean, effectively scoring the landscape relative to the average conditions within each forest region rather than the entire state. The results were merged into two composite fire risk and forest health model outputs that maintained the relative scores within each forest region as single, statewide datasets. Additionally, the southeastern region was excluded from the composite forest health model, because the region lacks insect and disease issues at the landscape scale, something evidenced by the lack of data in this region for the three forest health datasets.
+A secondary fire risk model, more limited in geographic scope, was developed specifically to address the impacts of recent fire seasons that were not reflected in the most recent wildfire hazard potential dataset. This model used the recent fire history dataset as both a weighted indicator and a landscape delimiter. The model was limited to areas that had experienced disturbances since 2015, and the fire risk component of this model was restructured to include recent fire history disturbances. Weightings for the wildfire hazard potential and distance to WUI layers were reduced from 50% to 33%, and recent fire history was also given a 33% weighting. Results from the secondary fire model were then superimposed onto the composite fire risk model.
+The resulting aggregated outputs represent the relative risk of wildfire to human infrastructure, and the relationship between forest health issues in Montana's forests, normalized across seven forest regions in the state. Both output models were re-classified on a scale of 1-9, with the highest value representing a significant confluence of both fire risk and forest health concerns.
+
+## Raster Generalization
+
+To obtain landscape-level areas of elevated fire risk and degraded forest health, post-processing of the aggregated model outputs was required through GIS image generalization techniques. This process identifies potentially misclassified areas and removes isolated zones that are too small to be relevant to the scope of the project 
+(ESRI, n.d.)
+. A geoprocessing workflow was developed to help operationalize the model output.
+The majority filter tool was used first to remove single, isolated raster cells from the model output. Second, the boundary clean tool smoothed the boundaries between zones by identifying and replacing smaller zones surrounded by larger zones.
+The previously identified geoprocessing tools adjust zone boundaries at a small scale. To identify larger, more contiguous zones representative of a landscape-scale analysis, the Region Group tool is necessary 
+(ESRI, n.d.)
+. Contiguous zones below 5,000 square meters in size were identified and removed using the Region Group tool and Extract by Attributes tool. Using the Nibble tool, each cell location was reviewed and replaced with the nearest neighbor using math algebra, thereby generalizing small regions and zone protrusions.
+The generalized model outputs were converted from a raster dataset to a vector feature class, identifying contiguous, discrete polygon regions that totaled 9.1 million acres of forest across Montana. The fire risk and forest health polygons were then intersected to identify three types of polygon areas: regions experiencing significant fire risk, regions experiencing significant forest health issues, and regions experiencing both fire risk and forest health issues. Some polygons identified were extensive and trans-regional, covering hundreds of thousands of acres. Thus, it was desirable to subdivide larger polygons to represent conditions within identified areas at an understandable, human scale. Priority Area polygons were intersected with watersheds (HUC-10) and major transportation corridors to create discrete localized areas of elevated fire risk and degraded forest health across the state.
+
+## Priority Areas for Focused Attention
+
+A second iteration of raster overlay analysis, followed by raster generalization, was conducted within the scope of the areas of elevated fire risk and degraded forest health. This iteration added two more datasets to the model, designed to evaluate issues of accessibility and human values on the landscape. The resulting output reduced the scope of the identified landscape to 3.8 million acres.
+Vegetation Type identifies the current distribution of 122 distinct vegetation communities in the state of Montana. This dataset is derived from LANDFIRE's Existing Vegetation Type (EVT) dataset, developed by NatureServe. EVT is mapped using a combination of Landsat imagery, field data collection, elevation data, and computational models 
+(NatureServe, 2003)
+. This dataset was reclassified, yielding Alpine Dwarf-Shrubland, Spruce-Fir Forest, and Subalpine Woodland as a distinct vegetation class. This aggregated class was de-emphasized in developing the Priority Areas for Focused Attention, because these forest types typically occur in remote, high elevation areas that are difficult to access. Furthermore, these remote areas hold high conservation value, are typically at lower risk to the three insect pathogens assessed in this plan, and experience fire regimes of intermittent stand replacements that are less likely to pose a threat to human lives or infrastructure.
+Road Proximity was derived from a statewide developed roads dataset maintained internally by the Montana Department of Natural Resources and Conservation. This dataset was developed in concert with the Montana Spatial Data Library and the DNRC Trust Lands Division and is periodically updated by field staff. Within the scope of the areas of elevated fire risk and degraded forest health, a multi-ring buffer was created around each road at the following interval ranges:
+> 0-0.1 miles > 0.1-0.25 miles > 0.25-0.5 miles > 0.5-0.75 miles > 0.75-1 miles > More than 1 mile Areas greater than 0.5 miles from the road network were de-emphasized in developing the Priority Areas for Focused Attention, because the lack of access to these areas increase the difficulty of any management plan. Furthermore, many of these areas are part of an Inventoried Roadless Area.
+
+## Multi-State Priority Areas
+
+The issues described and identified in this Forest Action Plan do not stop at the borders of our state. The challenges we face here in Montana are faced in other states as well, especially the states that border our own. Montana shares borders with four states and three Canadian provinces, providing multiple opportunities to develop relationships and solve problems collaboratively across the region at a larger scale. Using alignment opportunities developed through the Forest Action Plan, DNRC intends to continue to intentionally engage with partners in the identification of multi-state and multi-national shared priority areas. Montana is committed to working not just with partners within the state, but also with those who share borders, rivers, ecosystems, and mountain ranges.
+As part of the implementation recommendations outlined in the Statewide Resource Strategy, Montana will lead efforts and seek out opportunities for multi-state and multinational projects. Future opportunities will be explored with continued support for ongoing projects.
+Crown Managers Partnership -The Crown Managers Partnership is a multi-jurisdictional partnership amongst federal, state, provincial, tribal, and First Nation agency managers and universities in Montana, Alberta, and British Columbia. We recognize that no single agency has the mandate or resources to address regional environmental issues, so we work across borders to address common ecological challenges throughout the Crown of the Continent Ecosystem. The partnership focuses on transboundary conservation issues with priorities in native salmonids, five needle pine, terrestrial and aquatic invasive species, meso carnivores and land use change.
+For additional information please visit: 
+https://www.crownmanagers.org/
+.
+High Elk Divide Collaborative -The High Elk Divide Collaborative is a multistate partnership of public lands managers, state wildlife agencies, landowners, local community leaders, scientists, and conservation groups working to conserve lands of importance for local communities and to protect the ecological integrity at the landscape scale.
+For additional information please visit: 
+https://highdivide.org/
+.
+Council members were supported by the leadership committee, the council chairs, the core team, and the facilitation team (Figure 
+47
+). The leadership committee, named by the governor and consisting of a balanced representation of interests on the council, was charged with strategizing and planning the overall process of the council. The council chairs included the Montana State Forester of DNRC and the Northern Regional Forester of the USDA Forest Service, who provided leadership and direction for the council. The core team consisted of DNRC staff, including a Project Manager, a Communications Specialist, Forestry Division Program staff, and the USDA Forest Service State Liaison to develop the FAP with direction from the council. Ex officio participants were nonvoting and consisted of representatives from state and federal agencies to support the council and the core team as needed. The facilitation team consisted of National Forest Foundation facilitators who supported the design of the process and facilitated dialogue both in meetings and in an on-going basis as needed. The council met several times to provide direction and substantive input in developing the Statewide Assessment of Forest Conditions. The conversation was iterative, recognizing that the Assessment forms the foundation of the Forest Action Plan and is critical for both identifying appropriate priority areas and developing the statewide forest resource strategy. The following summarizes the council's discussion and input:
+> August 6-7, 2019: The council provided input on desired elements to include in the FAP, aspects of the FAP that would make it useful and useable, and information required in order to examine current conditions and trends affecting Montana's forested lands. The council also created a data committee to work with the core team on providing data and developing the Assessment. After this meeting, the core team and the data committee worked together based on direction from the council to refine the Assessment. > October 29-30, 2019: The council reviewed the framework for the Assessment and provided feedback on its development. The council also examined the Assessment framework in the context of identifying priority areas. > December 11-12, 2019: The council provided input for an outline of the Statewide Assessment of Forest Conditions and a draft process for identifying priority areas.
+The council also developed a working understanding of forest health and its various components. > January 29-30, 2020: The council reviewed and refined the definition of forest health and discussed how it will help guide the identification of priority areas. The council reviewed the statewide priority area identification criteria, worked to define the Urban and Community Forestry priority areas, and discussed what those criteria will mean in terms of implementation. A draft of the Assessment was released to the council for review, comments, and input. > March 17-18, 2020: The planned meeting was cancelled due to concerns surrounding the spread of COVID-19. > April 2, 2020: The council met virtually for the first time, discussed and voted to approve the methodology for designating priority areas and the language used in the description of the priority areas. The council developed a list of forest treatment types and began drafting the strategies for implementation. > April 20-22, 2020: Discussion and approval of the tiers used to model and develop priority areas occurred during this meeting. The council learned about some of the best practices for cross-boundary landscape partnerships, as well as models for fiscal structures to pool and redistribute funds for large-scale projects. > May 20-21, 2020: The council worked to refine the strategies of implementation and discussed the metrics that would be used to verify that the goals and objectives of the Forest Action Plan are being met. The council discussed communication needs and opportunities associated with the MFAP's release, and how to acknowledge those who participate in and endorse projects that follow the Forest Action Plan's management guidelines. > July 6-7, 2020: The council met with Governor Bullock to discuss progress and the best ways to encourage participation in the recommendations that the Forest Action Plan will provide for land managers. The council finalized and voted on strategies for implementation of recommendations and discussed approval for the draft release of the Montana Forest Action Plan and Statewide Assessment of Forest Conditions for public review.
+Each council meeting included a public comment period on the agenda. Members of the public were also invited to participate in separate small group discussions. In July of 2020, the DRAFT FAP will be released to the public for comment. During the period of public comment, the council will assist DNRC with public outreach and stakeholder engagement with the DRAFT FAP. The final FAP is due to the governor in September of 2020. Journal of 
+Soil and Water Conservation, 55, 1, 96-101. > Green, S. D. (2014)
+. No entry to the public lands: towards a theory of a public trust servitude for a way over abutting private land. Wyoming Law Review, 14, 1, 1-59. > 
+Gunther, K. A., & Biel, M. J. (1999)
+. Reducing human-caused black and grizzly bear mortality along roadside corridors in Yellowstone National Park. In D. Zeigler (Chair), Third International Conference on Wildlife Ecology. Missoula: MT. > Hames, R. S., Lowe, J. D., 
+Swarthout, S. B., & Rosenberg, K. V. (2006)
+. Understanding the risk to neotropical migrant bird species of multiple human-caused stressors elucidating processes behind the patterns. Ecology and Society, 11, 1, 24. > Hansen, A. J., 
+Knight, R. L., Marzluff, J. M., Powell, S., Brown, K., Gude, P. H., & Jones, K. (2005)
+
+## Indigenous Peoples & Forests
+
+## Priority Areas for Focused Attention
+
+Disturbance -any relatively discrete event in time that disrupts ecosystems, community, or population structure and changes resources, substrate availability, or the physical environment. Disturbances often act quickly and with great effect, to alter the physical structure or arrangement of biotic and abiotic elements.
+Disturbance regimes -a general term that describes the temporal and spatial characteristics of a disturbance agent, and the impact of that agent on the landscape. More specifically, a disturbance regime is the cumulative effects of multiple disturbance agents over space and time.
+Ecosystems -also known as a biome, a single environment and every biotic (living) organism and abiotic (non-living) factor that is contained within it or characterized it. An ecosystem embodies every aspect of a single habitat, including all interactions between its different elements.
+Fire-adapted community -one that can survive and remain viable without extraordinary interventions by fire services when wildfire moves through or near the community.
+Fire exclusion -also known as fire suppression, the intentional removal of fire from the landscape, both natural fires and human-caused.
+Fire regime -the general character of a fire that occurs within a particular vegetation type or ecosystem across long successional time frames, typically centuries. Characteristics include fire frequency, severity, extent, pattern, seasonality, and variability.
+Forest condition -see Forest Health.
+Forest Health -Viewed at a landscape scale, forest health is recognized by the MFAAC to be:
+> Growth, structure, composition, and function representative of historical and natural ranges of variability, disturbance regimes, and forest dynamics considering forest type under conditions of projected future climate change > Resilient to disturbance from fire, windthrow, insects and diseases, invasive species, drought, management, and impacts of climate change. > Diversity of tree species and age classes that support a diverse array of plants, animals, and microbes. > Sustainable capacity to indefinitely and concurrently provide clean air and water, biodiversity, critical habitat, recreation opportunities, aesthetics, and forest products.
+Forest types -also known as forest cover, a class of identification that is defined by the dominant forest vegetation type.
+
+## Goal -a vision statement about what we want this plan to achieve
+
+GIS -a Graphic Information System is a technological system for gathering, managing, and analyzing spatial data, including an understanding of location and how information is organized geographically.
+Habitat fragmentation -a process during which a large expanse of habitat is transformed into a number of patches or smaller total area, isolated from each other by a matrix of habitats unlike the original. It increases discontinuity in the spatial patterning of resource availability, affecting the conditions for species occupancy, and ultimately individual fitness.
+Historic range of variability (HRV) -the change over time and space in the ecological condition of potential natural vegetation types and the ecological processes that shape those types.
+Invasive species -an organism that causes ecological or economic harm in a new environment where it is not native.
+Mesic -an environment or habitat containing a moderate amount of moisture.
+MFAAC -Montana Forest Action Advisory Council, comprised of voluntary members from the public, state and federal agencies, and private industry.
+Natural range of variability (NRV) -refers to the values of a metric likely to be observed under natural reference conditions (i.e., in the absence of human disturbance).
+Natural resources -materials or substances (such as minerals, forests, water, and fertile land) that occur in nature and can be used for economic gain.
+Noxious weed -Any exotic plant species established or that may be introduced in to an area that it does not naturally occur which may be designated by a Federal, State, or country government as injurious to public health, agriculture, recreation, wildlife or property.
+Objective -a specific desired result or outcome, the things we care about and want to achieve. And objective often has a directions associated with it (i.e., reduce risk of wildfire to Montana's communities, watersheds, and infrastructure). The progress of the Montana Forest Action Plan can be measured against these objectives.
+Outcome-based grazing -intended to work in a collaborative fashion with local landowners and holders of grazing permits to utilize grazing on public lands to support enhanced partnerships for managing livestock grazing, conservation performance and ecological outcomes rather than process and prescription, cooperative improvement/ management/protection of public lands, and positive economic and social outcomes.
+Patch size and density -a fundamental attribute of the spatial character of a patch. Most landscape metrics either directly incorporate patch size information or are affected by patch size. Patch size can by summarized at the class and landscape levels in a variety of ways (i.e., mean, median, max, variance, etc.), or alternatively, represented as patch density, which is simply the number of patches per unit area.
+Performance measure -how we measure progress towards objectives.
+Prescribed fire -also known as prescribed burns or controlled burns, refer to the controlled application of fire by a team of experts under specified weather conditions to restore health to ecosystems that depend on fire.
+Resiliency -The ability of a forest to absorb disturbances and re-organize under change to maintain similar functioning and structure.
+Restoration -the process of assisting in the recovery of an ecosystem that has been degraded, damaged, or destroyed.
+Riparian -lands that occur along watercourses and water bodies. Typical examples include flood plains and stream banks, They are distinctly different from surrounding lands because of unique soil and vegetation characteristics that are strongly influenced by the presence of water.
+Severe fire -also known as fire severity, refers to the effects of a fire on the environment, typically focusing on the loss of vegetation both above ground and below ground but also including soil impacts.
+Shared stewardship -a commitment to working across boundaries to improve forest and watershed conditions and protect communities.
+Strategy -an approach or action the MFAAC recommends to achieve the objective.
+Structural stages -the way in which a stand of trees develops through the life stages of growth, competition, and death.
+Successional stage -forest ecologists recognize four phases of forest development: stand initiation, stem exclusion, understory reinitiation, and steady state.
+Vegetation type -a collection of plants or plant communities with distinguishable characteristics that occupy an area of interest and about which data can be arrayed in a standard format.
+Wildland Urban Interface (WUI) -comprises areas within an at-risk community or adjacent to a community where humans and their development meet or intermix with wildland fuel.
+Working Forest -forests that are managed sustainably for social and ecological functions, including forest commodities, fish and wildlife habitat, recreation opportunities, aesthetic qualities, historical and cultural resources, and other values integral to intact forests.
+Uncharacteristic disturbance -the shift away from or alteration of natural fire regimes. Human intervention, particularly fire suppression and historic logging practices, has changed how fire is expressed on the landscape.
+Urban canopy cover -the conversion of forested landscapes to non-forest uses is not the intent of increased canopy cover in urban settings; rather, the intent is to increase canopy cover in areas that are already urbanized. The mission of Montana Fish, Wildlife & Parks, through its employees and citizen commission and board, provides for the stewardship of the fish, wildlife, parks, and recreational resources of Montana, while contributing to the quality of life for present and future generations.
+
+## Agencies and Organizations
+
+Habitat conservation has been a core function of FWP since the purchase of the Judith River Game Range in 1940. Many of the conservation efforts came about as money was available until the 1987 Montana Legislature provided a steady funding source from state hunting licenses that is now known as the Habitat Montana Program. This funding helps con-serve priority wildlife habitats and pay for maintenance of wildlife properties administered by FWP. Through its administrative rules, Habitat Montana provides overarching direction for all wildlife habitat projects implemented by FWP. These include broad goals for conserving wildlife populations, recreational opportunities, and land and water resources in a manner that is compatible with traditional agricultural, economic, and cultural values (see Guiding Resources and Rules).
+To guide conservation, FWP developed a State Wildlife Action Plan in 2006, with an updated version in 2015. These helped define FWP's broader mission and priorities for conserving non-game fish and wildlife Species of Greatest Conservation Need and Habitats of Greatest Conservation Need. FWP has since focused additional effort and funding on conserving grassland habitats that are important to declining populations of grassland birds. More recently, FWP has worked with a partnership of agencies and organizations to identify and initiate conservation and restoration of important habitat linkages that allow uninhibited movements of ungulates, large carnivores, and other wildlife within and between intact natural landscapes. The FLP is administered by the USDA Forest Service, in collaboration with state agencies. The program was established in 1990 in response to the conversion of private timberlands to other uses in the northeastern United States. Private forestlands had for more than a century provided a variety of products and services that could be lost. These included timber and other forest commodities, fish and wildlife habitat, water supply and quality, aesthetic qualities, historical and cultural resources, and recreational opportunities. The term "working forests" was coined to capture the variety of public values that are conserved through Forest Legacy. The program eventually expanded to 49 states and 4 U.S. territories. Forest conservation is accomplished through two meansperpetual conservation easements and fee simple acquisitions. These interests in land are acquired voluntarily through cash purchases, donations, or a combination of these. Nationally, the program has helped conserve about 2.8 million acres of working forests.
+
+## Origins of the Montana Forest Legacy Program
+
+In the mid-1990s, the practice of converting corporate timberlands in western Montana to other uses, including various types of housing developments, became increasingly popular and lucrative. Realizing the far-reaching implications of such developments, a diverse team of agency and organization conservation partners worked with FWP, DNRC, and the MFSSC to evaluate how Forest Legacy could fit within Montana's existing conservation efforts. The group helped establish the first Montana Forest Legacy Program Assessment of Need, which was published February 29, 2000. Through that process, FWP was designated by Governor Marc Racicot as the lead state agency, to work in coordination with DNRC and the MFSSC. This would soon become Montana's premier voluntary, incentive-based forest conservation program. The original AON identified most forests across the state as being eligible for program participation. As FWP and partners have implemented Forest Legacy, competed for grants, and completed projects over the past 20 years, the program's strengths and niche in Montana have become more apparent. We have recognized that a subset of Montana's forests are more suited to the program's national priorities. That is, some forestlands in Montana have a much higher likelihood of competing nationally for grant funds as they align with national FLP ranking criteria. Through experience, we have also realized considerable overlap in habitat conservation prioritieseconomically important timberlands, watershed values, and highly-prized recreation-all of which have integrated well with FWP's mission and its other wildlife, fish, and recreation programs.
+
+## Assessment of Need-Purpose and Process
+
+This AON serves as an update and replacement for the 2000 AON and covers three main functions. The AON:
+The update of this AON was initiated in 2019 by a team of FWP staff in collaboration with the Montana Forest Action Advisory Council, the MFSSC, DNRC and other partners who frequently work with the FLP. The document was released for 30-day public review and comment, followed by further editing and response to comments (see Public Involvement section). The final draft will be presented to the USDA Forest Service, State and Private Forestry for multiple steps of review and, ultimately, final approval by the U.S. Secretary of Agriculture. Whereas this document provides a broad strategy and steps for implementing the FLP in Montana, individual conservation projects that are proposed and developed subsequent to this AON will follow requirements of the Montana Environmental Policy Act and other pertinent statutes, including normal due diligence and public review processes.
+1. provides a summary of the current status of forests and potential threats that may be addressed through the FLP; 2. identifies Montana's Forest Legacy Areas and general forest conservation priorities; 3. provides an updated framework for how the program is intended to be operated in Montana, including pro-gram objectives and ranking criteria.
+
+## Montana Forest Legacy
+
+Looking back over the past two decades, FWP and conservation partners have remained true to the overall goal of the Montana FLP (2000 AON):
+"To conserve and enhance land, water, wildlife, and timber resources while providing for the continued working of Montana's forestlands and maintenance of natural and public values."
+The 
+
+## Guiding Resources and Rules
+
+The FLP in Montana is guided and shaped to serve the needs of the state through a variety of legislation, rules, and planning. This section provides an overview of these resources that are directly pertinent to the program's operation. This is not an exhaustive list, as we have not included an array of related state and federal statutes, rules, and policies. For instance, land projects are subject to statutes requiring specific analyses, public processes, and due diligence, which we have chosen to not include here.
+
+## Cooperative Forestry Assistance Act
+
+The following is excerpted from the FLP Implementation Guidelines (USFS 2017):
+The Forest Legacy Washington. The law also directed the Secretary of Agriculture to establish additional FLPs throughout the country upon the completion of assessments of need for such programs.
+The Secretary of Agriculture was directed to establish the FLP in cooperation with state, regional, and other units of government. The Secretary then delegated this authority to the Forest Service to carry out this mandate. The Forest Service is authorized to acquire lands and interests in lands in perpetuity for inclusion in the FLP. The FLP acquires and accepts donations of perpetual conservation easements that permanently limit property interests and uses of forest-land to protect specific conservation values. In these cases, the properties remain in private ownership. The FLP also purchases and accepts, as donations, forested properties in full fee. These properties are acquired by State or local governments and can become new state parks, state forests, wildlife management areas, and other public land. Land-owner participation in the FLP is entirely voluntary.
+Originally, all lands or interests in lands acquired through the FLP were held by the federal government. In 1996, Congress amended the law to permit the Forest Service to make FLP acquisition grants to states. This "state grant option" allows lands or interests in lands to be held by the state or local units of government.
+The FLP is funded through the Land and Water Conservation Fund. These funds are generated through royalties from offshore drilling activities. Congress determines the FLP budget as part of the annual Forest Service appropriation. 
+
+## Montana Forest Action Plan
+
+## Habitat Montana
+
+The 1987 Legislature passed House Bill 526, which established an ear-marked funding source for FWP to conserve wildlife habitats and to help fund ongoing maintenance of wildlife lands administered by FWP. The program, known generally as "Habitat Montana" has provided $2-6M annually toward the purchase of conservation easements, fee simple acquisitions, and leases through voluntary cooperation with private landowners. The program includes administrative rules (ARM 12.9.508-512) that are intended to pertain to all FWP wildlife programs, where appropriate.
+Within the rules, there are three goals and a list of intended services and public benefits that also influence FWP's administration of the FLP. These are as follows:
+Intended services and public benefits of Habitat Montana:
+The working forest focus of Forest Legacy matches well with the goal and intended benefits of Habitat Montana. This compatibility between programs, following a similar approach toward working lands conservation, has greatly facilitated FWP's ability to implement the FLP. 
+
+## Natural Heritage Program
+
+Montana's Natural Heritage Program provides a continuously updated inventory and data dissemination service for native species of concern including fish, wildlife, plants, and other life forms. The species data presented for each of the Forest Legacy Areas was largely derived from this resource. MTNHP includes a powerful mapping system with actual species detections and modelled distributions, along with their life history and other useful information-all helpful for evaluating species presence and related conservation values for prospective conservation projects.
+Red foxes spotted in Lolo National Forest / Photo courtesy of USDA FS
+
+## Crucial Areas Planning System
+
+In 2008, FWP conducted a Crucial Areas Assessment to evaluate fish, wildlife and recreational resources of Montana in order to identify crucial areas and fish and wildlife corridors. This effort was part of a multi-state initiative coordinated through the Western Governor's Association. Information was incorporated into a geographic information prioritization and planning system (CAPS) for helping guide various forms of development and conservation. The broad scale prioritization used in this AON includes a fish and wildlife habitat layer derived in part from this planning system.
+
+## Wildlife Movement and Terrestrial Connectivity
+
+FWP is currently collaborating with a variety of agencies, organizations, landowners, and others on the topic of expanding voluntary conservation efforts to include habitats that are critical for supporting key wildlife movements -within and between seasonal habitats as well as genetic connectivity linkages, particularly for big game animals and widely-dispersed carnivores such as grizzly bears, Canada lynx, and wolverines. This partner effort includes research to refine understanding of movements and connectivity zones, local coordination with landowners across ownerships, designing and constructing infrastructure to reduce or eliminate barriers, conducting habitat conservation, and providing public outreach on this topic. Past Forest Legacy accomplishments demonstrate landscape-scale conservation that assures effective habitat connectivity, serving as a basis for future endeavors.
+The following are two specific instances of this statewide collaborative effort: 
+
+## Overview of Montana
+
+Montana is fortunate to support extensive and diverse forestlands, totaling 25.6 million acres, or about 27% of the state 
+(Menlove et al. 2012)
+. The state's forest types range from arid ponderosa pine forests of the eastern plains to wetter and warmer forests influenced by the Pacific Ocean, west of the Continental Divide. Watersheds, forest products, fish and wildlife habitat, public recreation, aesthetics, and a host of other ecological and social values are inherent to these forests.
+We provide here an overview of Montana's forestlands, as pertinent to the FLP, largely excerpted from the state's Draft Forest Action Plan and Forest Assessment (DNRC 2020).
+For readers seeking more comprehensive information on these and related topics we recommend consulting these documents.
+
+## Montana's Forest Values -Historic to Present Day
+
+Montana Forests and Indigenous Peoples In the traditions of all 12 tribes, the world we inhabit is a gift. Human beings were given a good and bountiful world, prepared for and entrusted to us, full of everything we need to sustain life. We were given clean waters and fine land, abundant in all the plants needed for food and medicine and materials, and plentiful in animals and fish and birds, who offered to be food or provide clothing or tools for us, the human-beings-yet-to-come.
+Tribal relationships with forests rest upon this shared foundation: a cultural imperative to remember that these are gifts that were given to human beings. We are therefore obligated to respect and care for them. The ethic of avoiding waste of the natural world, and of ensuring its well-being for future generations, is woven deeply into the fabric of all the tribal cultures of the region. Those cultural values of respect are reflected not only in creation stories and in ceremonial and spiritual practices, but also in many of the formally adopted policies and programs of modern tribal governments, including policies relating to forest management.
+For hundreds of generations, Indigenous peoples in Montana subsisted entirely or primarily by hunting, fishing, and gathering. They moved with the seasons and the fluctuating populations of animals and plants in a finely tuned seasonal cycle of life, which necessitated a highly developed understanding of the region's ecology. Tribal people generally gathered enough food and medicine and material things for their own use, and perhaps a little surplus to exchange with other groups, bands, or tribes. In short, this was an economy based on subsistence needs and on tribalism as the organizing social system 
+(McNickle 1993)
+. People conducted many activities communally, for the collective needs and well-being of the community, and owned little personal property. There was no concept of land as something that could be owned or exchanged in a marketplace.
+An important and fundamental understanding of the historical changes to Indigenous culture exists in understanding how the way of life nineteenth century non-Indians introduced to the region -and its forests -constituted such a far-reaching transformation.
+When the fur trade arrived, trappers regarded beaver, bison and other animals as commodities and killed them, not for direct use of the hides or meat, to make money by shipping them to national and international markets. Driven by this new economic dynamic, trappers quickly decimated populations of fur-bearing species in entire drainage systems 
+(Ott 2003)
+.
+When the railroads reached Montana in the 1880s, non-Indians were able to apply this intensity of exploitation to other resources that had until then been protected by geographic barriers from the phenomena of commodification and marketization. The railroads enabled the transport of goods of virtually any quantity or weight. Now livestock, grain, ore, and trees were connected to the demands of a rapidly industrializing world. The railroads thus sparked the explosion of the agricultural, mining, and timber industries.
+Non-Indian settlement grew dramatically, and with it came increased hostility toward Indians exercising off-reservation rights. With trains available to haul logs either to Montana mines or to distant cities, the forests were now seen as a valuable commodity. Many of the richest timberlands were now owned by the Northern Pacific Railroad (NPRR) itself, which Congress had helped fund through the allocation of vast land grants 
+(Schwinden 1950)
+.
+Over the course of the late nineteenth and early twentieth centuries, the NPRR gradually inventoried the potential merchantable timber of its forests and logged them heavily, often running into conflict with tribal parties exercising their off-reservation rights to hunt, and their historical practice of burning. NPRR managers frequently enlisted federal and state officers to protect the railroad's interests against Indian hunting parties, despite their guaranteed rights delineated in duly ratified treaties.
+The last quarter of the nineteenth century also saw removal or dispossession of Indian people from large areas of Montana. The executive order of President Rutherford B. Hayes, given in 1880, included the drastic reduction of native people from:
+> The northern Montana reservation for the Gros Ventre, Piegan, Blood, Blackfeet, and River Crow tribes; > The government's forced removal of the Salish from the Bitterroot Valley in 1891, and; > The government's taking of the "ceded strip" from the Blackfeet in 1895.
+Gradually, from the 1930s to the present, tribal nations throughout Montana have reclaimed their sovereignty and developed their governing capacities. They have been supported by additional federal laws and policies that expanded upon the Indian Reorganization Act, including the Indian 
+Self-Determination and Education Assistance Act of 1975 (Public Law 93-638)
+. Many Indigenous communities have organized and funded efforts to document, protect, and revitalize the languages and cultural practices -including the use of fire to manage the land.
+Montana's rich history involving thousands of years of Indigenous peoples and European settlements in more recent times have left behind cultural resources that merit preservation. Where overlapping with other conservation values, Montana's Forest Legacy's conservation projects offer a means for keeping lands intact and protected from developments and other activities that might otherwise damage cultural resources.
+
+## Timber and Forest Products
+
+Across time to present day, forests have continually played a crucial role for human habitation. Montana forests figured prominently in the state's development throughout European settlement, statehood, and establishment of the railroad and mining industries. Timber harvest was critical for developing infrastructure that enabled communities to grow, drawing people to settle in the state in search of economic opportunity, and providing essential materials for the railroads that ultimately connected Montana to the rest of the country.
+The earliest sawmills predate statehood, with the first constructed in 1845 at St. Mary's Mission in the Bitterroot, followed by a second at St. Ignatius in 1856 
+(Strong and Schutza 1978)
+. Timber development increased rapidly in the following decades to provide the rapidly growing mines with infrastructure materials. Sawmills in western Montana supplied lumber for the mines to be used in sluices, flumes, tunnels, structures, and for firewood. By 1902, there were 26 mills in the Bitterroot Valley alone, from Missoula to Darby 
+(Strong and Schutza 1978)
+. Timber resource development continued to drive economic growth well into the 1920s, essentially up until the Great Depression, associated with both mining industry expansion and growth of the railroads. Montana's forests supplied timber for railroad ties, tunnels, bridges, and structures. Early mills also supplied the lumber needed for residences and commercial enterprises as Montana's towns grew into cities, trade centers, and thriving communities. Timber quality in the early decades of the industry also attracted national attention. Demand for ponderosa pine (Pinus ponderosa), Douglas fir (Psuedotsuga menziesii), larch (Larix occidentalis), and lodgepole pine (Pinus contorta) increased and began to supply timber to growing markets in communities throughout the Pacific Northwest.
+The early decades of forestry in Montana set the stage for the post-war period that defined forest policy and management throughout the "industrial era" of the 1940s to 1980s. In the post-war decades, the timber industry expanded to include other wood products, such as plywood and pulp products 
+(Hirt and Goble 1999)
+. The rapid growth Figure 
+6
+. Private timber company forestlands, part of the Kootenai Forestlands Phase II conservation easement project, currently underway. Photo credit Chris Boyer Kestrelaerial.com of the housing market was met by new harvest technologies, which enabled timber production to increase over these decades. Production peaked twice, in 1966 and 1987, at about 1.3 billion board feet per year (Bureau of Business and Economic Research 2019). As of 2017, there are approximately 80 mills remaining in Montana (Bureau of Business and Economic Research 2017). The eight largest sawmills account for nearly 95% of the state's timber production 
+(Hayes and Morgan 2016)
+.
+Today, timber harvested in Montana is milled into commodity lumber and distributed locally as well as throughout national markets by wholesalers. Montana's wood products sector has been evolving and Montana's forests have been garnering interest from new wood products producers and industries due to the state's favorable business climate and forest resources. There are several noteworthy forest industry highlights for Montana. The state's larger mills have been upgrading processing lines with new equipment and technology as resources allow. Montana has been at the forefront of the movement to adopt mass timber (a suite of engineered wood products, manufactured from dimensional lumber to create a product with exceptional strength) into commercial construction. The first commercial mass timber building in the United States was built in Montana and is home to the first U.S. manufacturer of crosslaminated timber. In 2019 the region's first thermally modified wood production facility started fabrication in Montana to capture a portion of the rapidly growing North American siding market. In 2013 one of the larger sawmills in the state began producing cogenerated electricity in their biomass boiler, supplementing their income from mill byproducts while upgrading their kilning infrastructure.
+The majority of mill residuals in the state are utilized at secondary manufacturing facilities producing medium density fiberboard, particle board, and a variety of paper and cardboard products. Bark is also used extensively for providing heat for the kilns used in the lumber drying process and various soil amendments. Commercializing additional markets for mill residuals has been progressing slowly and would require substantial increases in primary product volume being milled to produce enough residuals to significantly exceed the existing demand for residuals. The overlap in existing secondary products between mill by-products and non-sawlog products in the woods continues to be an additional challenge to removing those non-sawlogs due to the lower cost associated with using by- products already located at a mill site. Slash utilization has only advanced incrementally, but a focus on commercializing biochar (engineered charcoal with many beneficial uses) and biofuels (petroleum replacements made from plants) has resulted in the establishment of small-scale bio-char production in the state.
+Additionally, the state is home to several niche enterprises selling finished wood products. These secondary producers have demonstrated commercial success with small amounts of log volume and are a critical part of our state's wood products infrastructure. From custom flooring, doors, trim packages, furniture and frames, many Montanans rely on the sustainable management of our forests for their livelihood. In addition to these broad forest industry sectors, carbon sequestration and other ecosystem service markets are be-coming more common. These emerging economic opportunities fit well with working forests, realizing the potential financial value of a variety of ecological and social benefits that are derived from intact forests. Montana's FLP has been instrumental in conserving working forests that support the wood products industry and related values that are threatened with conversion. For more information on how we intend to focus the FLP based in part on forest product values, see Conservation Priorities, later in this AON. Fortunately, Montana's forested ecosystems have retained much of their natural character and high-quality fish and wildlife habitats, supporting a robust and diverse mix of fish and wildlife species. In 2011, an estimated 570,000 Montanans and visitors to the state were involved in hunting, fishing, and wildlife-watching activities, spending an estimated $1.4 billion in the state on trip-related costs (USDOI 2014).
+
+## Outdoor Recreation
+
+Regardless of the specific activity, the popularity of recreating on forested landscapes has increased dramatically. A recent survey conducted by the state Office of Economic Development showed that 98% of Montanans consider outdoor recreation important to their quality of life (Montana Office of Outdoor Recreation 2018). Outdoor recreation, much of it on forested lands, has become the second-largest sector of the state's economy, contributing $7.1 billion in consumer spending, supporting more than 71,000 jobs (Montana Office of Outdoor Recreation 2018). According to the US Bureau of Economic Analysis (2019), Montana ranked second only to Hawaii in terms of the percentage of the state gross domestic product attributable to outdoor recreation. ensuring that both our surface and groundwater are clean and abundant by slowing runoff, reducing erosion, and enabling groundwater recharge.
+The majority of Montana's water originates in forested landscapes across the state. The northern Rockies of Montana are the headwaters for three major river systems of North America -the Columbia River Watershed flowing west, the Missouri River Watershed flowing east, and the Belly River drainage, which makes its way to the Hudson Bay. Although only 17% of Montana's land surface is west of the Continental Divide, this area cumulatively drains 25 million acre-feet/year compared to 16 million acre-feet/year on the east side of the divide 
+(Montana State Water Plan 2015)
+. Climate is also different west and east of the divide, with the western portion receiving more rainfall and snowpack at high elevations and the eastern portion receiving less rainfall with more extreme temperature fluctuations 
+(Montana State Water Plan 2015)
+.
+Groundwater is also an important source of water in Montana. Surficial aquifers, which are shallow aquifers in sand and gravel substrates along the floodplains of major streams and rivers, are critical water sources for agricultural, municipal, domestic, and industrial uses. Predominantly in eastern Montana, bedrock aquifers are formed where water is confined within hard bed-rock layers. They occur along fractures and fault lines in western Montana and in sandstone and limestone formations in central and eastern Montana. Bedrock aquifers provide a source of water for individual households and small public systems through wells in the west, while in the east they can provide a source of water to households, livestock uses, and occasionally for larger municipal and industrial uses, Lower Middle Fork Flathead Wild and Scenic River/ Photo courtesy of USDA FS but typically not irrigation. Groundwater also contributes flows to surface water systems, known as base flow, which is critically important for maintaining surface water flows throughout the year (Montana State Water Plan 2015).
+In Montana, we use 84 million acre-feet of water per year. This number includes consumptive use, which means that the water does not return to the system, and nonconsumptive use, which means that the water eventually makes its way back into the surface and/or groundwater system. Of all the water usage in the state, 86% is for electric hydro-power generation, a non-consumptive use. Approximately 4.3% of water use in the state is consumptive -1 million acre-feet are evaporated from reservoirs, 2.4 million acrefeet are consumed through agricultural irrigation, and 166 thousand acre-feet are used for municipal, industrial, domestic, and livestock purposes (Montana State Water Plan 2015). With a growing population and expanded irrigation, consumptive uses are projected to increase by another 100,000 acre-feet.
+Montana's forests also support vital aquatic ecosystem functions. Connected upland and aquatic forested ecosystems provide a range of services that humans depend on, including flood mitigation, buffering against drought, water filtration, improved soil fertility, preventing runoff and sedimentation, and protecting critical drinking water resources 
+(Karjalainen et al. 2010)
+. The primary drinking water supply for 44 municipalities in Montana are from surface water sources whose headwaters are in forested areas, mostly on public land. Healthy aquatic ecosystems have direct impacts on downstream water quality and on human health for these communities. Sustainable working forests in these watersheds provide wetland cover, stream buffers, and native forest vegetation with direct positive benefits on stream health and water quality 
+(Horner et al. 2001)
+. Conversely, forestlands that are cleared and converted to other uses, such as building developments have limited ability to provide those ecosystem services for ecological and human benefit. Drinking water and aquatic habitats are important resources that the Montana FLP has been effective in helping conserve. For more information on how water resources will be incorporated into future priorities, see Conservation Priorities, later in this AON.
+
+## Additional Ecosystem Services
+
+Working forests of Montana support other values which may be less obvious but are also important, socially and ecologically. These include air purification, carbon sequestration, soil formation and stability, nutrient cycling, and aesthetics. Scenic and cultural heritage values associated with forests are enjoyed by Montana's citizens and are an attraction from out of the area visitors. National and state recognized scenic resources associated with Montana forests include six Scenic Drives and Byways (254 miles; visitmt.com), the Continental Divide National Scenic Trail (820 miles; visitmt.com), 5 rivers designated as 
+Wild and Scenic (388 miles;
+rivers.gov),
+5 National Park Service Areas (visitmt.com),
+and 11 National Forests (fs.usda.gov)
+. Montana is also home to 28 National Historic Landmarks (nps.gov), of which many are associated with forestlands.
+All of these values, as well as those mentioned earlier, are part of a working forest, commonly conserved through Montana's FLP. Of course, such public values are not evenly distributed across all forests. That is, areas where multiple values overlap represent conservation priorities, which are described later in this AON.
+
+## Forest Status and Trends
+
+## Ownership and Conservation
+
+Montana's forest owners include private industrial and non-industrial forest landowners, tribal nations and local (municipal/county), state and federal public land management agencies. The majority (59%) is federally managed by the USFS, followed by non-industrial private ownership (19%), tribal ownership (5%), industrial private (5%), BLM (4%), state (4%), and a collection of other federal and local land managers (4%). Nearly a quarter of Montana's forests are therefore privately owned. Of these, approximately 9% are protected through conservation easements involving a variety of agency and non-governmental programs.
+Industrial private forests have experienced considerable churn in ownership over recent decades including transfers between timber companies, subdivision and sales to private individuals, as well as sales to conservation organizations and, in some cases, subsequent transfers to public agencies or other organizations. A few standout examples:
+> The Montana Legacy Project involved a broad partnership led by The Trust for Public Land and The Nature Conservancy resulting in the purchase of 310,000 acres of Plum Creek Timber lands that were intermingled with USFS and other public lands.
+The final phase of this project was completed in 2010. Conservation outcomes of this project included lands incorporated into the National Forest System, new state Wildlife Management Areas, BLM additions, and sales to private landowners in association with permanent conservation easements. As part of this overall effort, four Forest Legacy projects were completed -Murray Douglas Conservation Easement, a portion of the new Marshall Creek Wildlife Management Area, and fee title additions to the Nevada Lake and North Swan WMAs. > The Nature Conservancy purchased the 117,000-acre block of land from Plum Creek Timber in 2015 known at the time as the Clearwater Blackfoot lands, which are located northeast of Missoula. These lands are slated for various final ownerships including federal and state agencies and the possibility for a community-managed forest. > In 2016 Weyerhaeuser Company purchased Plum Creek Timber Company, transferring ownership of extensive forested lands in Montana. In 2020 the Weyerhaeuser Company in turn sold all of their Montana timberlands, totaling 630,000 acres, to Southern Pine Plantations, a Macon, Georgia-based firm (referred to as SPP Montana). At this time, the fate of these lands is uncertain. Some portion of these holdings support conservation values that are considered priorities by the Montana FLP. In fact, as of the writing of this AON, 130,000 acres are being proposed for conservation easement through a FLP application and another 100,000 acres are being proposed for conservation easement by the USFWS.
+The rights of private landowners to manage their properties as they see fit is a core American value. Private forests face increasing pressure for converting to other land uses. The potentially lucrative venture of dividing forested lands into smaller parcels and subsequent residential development has become increasingly common during the past 3 decades 
+(Pohl 2018)
+. Dividing large forest ownerships into smaller parcels often 294 increases habitat fragmentation, makes landscape-scale forest management practices more difficult, and expands the wildland urban interface.
+Various statistics provide an enlightening view of such changes across the Montana landscape (Headwaters Economics 2019, 2020; Pohl 2018):
+> Since 1990, 1.3 million acres of undeveloped land in Montana has been converted to housing. > One-quarter of all homes in Montana were constructed since 2000. > Nearly half of the homes built from 1990 to 2018 were constructed on large lots exceeding 10 acres. > Over half of the homes occurring in moderate and high hazard categories within wildland-urban interfaces of Montana were constructed since 1990. > Montana counties experiencing moderate to high rates of growth are generally associated with opportunities for outdoor recreation, where growth is likely to continue. Along these lines, 12 of Montana's counties have been identified as "nonmetro recreation-dependent counties" by the USDA Economic Research Service 
+(Johnson and Beale 2002)
+, based on sources of income, temporary lodging receipts, and other measures. Nearly all of these counties support significant forest resources (Figure 
+11
+). Sprawling development within environmentally important forest areas can impact ecological and social values. The FLP offers another option for landowners intending to conserve their forestlands and associated working forest benefits into the future.
+
+## Forest Condition
+
+Montana's Forest Action Plan (DNRC 2020) provides considerable details on the general condition of forests across the state and identifies areas of concern as relates to forest health and fire concerns. As a high-level overview, forests have been influenced by fire suppression, large scale wildfires, variable approaches to forest management across ownerships and time, a changing climate, widespread insect and disease issues, and exotic invasive species. This makes for a complex picture of forest conditions that is beyond the scope of this AON. Forests conserved through the FLP are required to be managed in a sustainable manner through an approved multi-resource management plan.
+In addition to conserving lands from conversion to other uses, these plans assure working forest values are sustained. 
+
+## Forest Legacy Eligibility Criteria & Conservation Priorities
+
+The FLP has been successful in part because of detailed program eligibility requirements and prioritization processes that occur at both the state and national levels. This section describes those basic requirements along with criteria for targeting and ranking prospective projects.
+
+## Eligibility Criteria
+
+Prospective projects must meet minimum requirements to participate in the FLP. Based on the May 2017 Forest Legacy Guidelines, national eligibility requirements are as follows:
+> It is within, or partially within, a designated Forest Legacy Area; > It has a minimum of 75 percent forestland or a documented plan that includes sufficient landowner capacity to reforest to at least 75 percent forestland; > It can be managed consistent with the purpose for which it was acquired by FLP; > The landowner is willing to sell or donate the interest in perpetuity; and > The landowner acknowledges that the conservation easement will be held by a government entity if federal funds are used for the acquisition. > This AON also recognizes the following Montana program eligibility requirements: > Based on definitions in the Glossary of Terms, forestlands must be environmentally important and threatened and managed under compatible uses. > Participating lands must be a minimum of five acres.
+Simply stated, forestlands that are not threatened with conversion or do not serve environmentally important functions or would not be managed in a manner that is compatible with working forests would not be considered eligible. Also, whereas it is our intent to accomplish landscape-scale conservation, there may be circumstances where strategically located smaller landholdings may have national significance. This relatively small minimum acreage provides for that flexibility if there were a compelling but small forest holding.
+Broad scale prioritization for the FLP in Montana combines these three criteria, each equally weighted. To further re-fine this, we conducted separate ranking prioritizations for HUCs that are predominantly public lands (95% or more public land) and for HUCs that comprise more private lands. By ranking these separately, we have a prioritization specific for forestlands where the FLP is more likely to invest in conservation -private land HUCs. Conversely the public land HUCs provide context, particularly for prospective projects that may be in adjacent HUCs. As an example, a proposal involving a lower elevation watershed may have greater importance because of drinking waters flowing through it from upstream, high value public land watersheds. Figures 
+17
+ and
+18
+ show these final prioritization layers, the first with a different coloration scheme for predominantly public lands and the second using the same coloration scheme for both groups of HUCs.
+Fine Scale Prioritization: This level of prioritization is applied at a proposal or project level analysis. FWP will continue using the Forest Legacy's national core criteria when assessing the viability and ranking of individual Montana proposals. These criteria are grouped into three categories as follows (USFS 2017):
+> Importance -The public benefits gained from the protection and management of the property, including environmental values and the economic and social benefits; > Threatened -Conversion to non-forest uses is imminent or likely and will result in a loss of forest values and public benefits; > Strategic -Contributes to larger conservation plans, strategies, and initiatives, complements existing federal land and other protected areas, and enhances previous conservation investments.
+In addition to the factors commonly considered within these three categories, a brief analysis of the resilience of forest cover and diversity in the face of climate uncertainty has been added to the Montana Forest Legacy Application and Evaluation layout (Appendix A). As described by Halofsky et al 2018, "species, genetic, and landscape diversity (spatial pattern, structure) is an important 'hedge your bets' strategy that will reduce the risk of major loss of forest cover." Topography, elevation, and aspect strongly influence climatic variability and species diversity 
+(Halofsky et al. 2018)
+. The question of forest resilience and climate change would bring into consideration these variables, the anticipated approach to forest management, and other site-specific characteristics. 
+
+## Description of Forest Legacy Areas
+
+Each of the three FLAs has unique characteristics in terms of land use, industry, human population trends, natural re-source values, and opportunities for conservation. This section provides an overview of these FLAs as relates to the FLP.
+
+## Northwest Montana Forest Legacy Area
+
+The Northwest Montana FLA encompasses the upper Columbia Basin of Montana, bordering Canada to the north, Idaho to the west, and the Continental Divide to the south and east (Figure 
+20
+). This is the headwaters to the Columbia water-shed, supporting a host of water users extending to the Pacific Coast. Forests primarily include national forestlands, corporate timberlands, the west half of Glacier National Park, tribal forests that are within Flathead Indian Reservation, state-owned forests, and then smaller private ownerships. Combined, these make up some of the largest remaining blocks of intact forested habitats in Montana. The northern part of this FLA includes a portion of the internationally recognized Crown of the Continent, an 81 million-acre ecosystem bridging the United States and Canada, including Glacier and Waterton Lakes National Parks.
+The Columbia Basin is generally moister with warmer minimum temperatures compared with the rest of the state. Precipitation in these forests ranges from 20 to over 100 inches annually 
+(USGS 2004)
+. The fastest growing forests in Montana for timber production occur in this FLA, which is one reason why timber companies have historically purchased lands here, currently comprising over 800,000 acres. Private timberlands occur both in blocks and intermingled ownership, primarily associated with national forest and DNRC trust lands. The Northwest Montana FLA includes about 25 primary processing facilities (i.e., sawmills, post/pole, and pulp/chip operations).
+In addition to wood products, timber company lands have traditionally provided substantial year-round public access in a manner similar to publicly managed forests.
+Outdoor recreation and tourism are an important industry and economic driver, supporting nationally significant opportunities for hiking, biking, hunting, fishing, camping, sightseeing, and a host of other recreational pursuits. Averaged over 2017 and 2018, out of state tourism and recreation visitors expended an estimated $1. These forests provide habitat for approximately 256 plant and animal species of concern, including federally threatened (T) and endangered (E) species: grizzly bear (T); Canada lynx (T); bull trout (T); white sturgeon (E); water howellia (T); and meltwater lednian stonefly (T) (MT Natural Heritage Program 2020). They also support a variety of game, furbearer, mammal, reptile, amphibian, bird, and fish species. All of these species benefit from conservation measures that retain intact ecosystems, supporting seasonal, yearround, and connectivity habitats.
+Human uses of water derived from these forestlands support agricultural irrigation, This FLA includes about 6 primary processing facilities for wood products (i.e., sawmills, post/pole, and pulp/chip operations). Other industries associated with forestlands include livestock grazing, outdoor recreation, real estate development, and hard rock mining, which is scattered across the FLA (Montana Tech 2012). With its location adjacent to Yellowstone National Park, this area is a destination for national and international tourists. Non-resident tourism and recreation visitors to the area were estimated to have expended an average of $1. 
+
+## Central Montana Forest Legacy Area
+
+The Central Montana FLA is within the Missouri and Yellowstone watersheds and includes forests along the east slopes of the northern Rocky Mountains extending south along the Continental Divide to Homestake Pass and east encompassing isolated forested mountain ranges around the Lewistown area. Forests are composed of mostly national forestlands, followed by private, tribal forests that are within the Blackfeet Indian Reservation, BLM, and DNRC trust lands.
+Along the Rocky Mountain eastern front, west and north of Great Falls, forestlands generally blend into prairie habitats following along the national forest boundary (Figure 
+22
+). The Blackfeet Indian Reservation includes forestlands that are contiguous with Glacier National Park. The mountain foothills along the front make up the eastern side of the Crown of the Continent, the focus of considerable conservation effort by a collaboration of landowners, conservation organizations, and agencies. The area supports extensive biological, aesthetic, and cultural values.
+For the balance of this FLA south from Great Falls, private lands make up a larger portion of forested habitats. Private ownerships mostly involve large ranches (some singleownership forestlands exceed 10,000 acres) followed by smaller, less than 1,000-acre ranch holdings and residential/developed acreages. Many of these privately-owned forests are contiguous with publicly administered forests. This southern part of the FLA includes all 9 primary processing facilities for wood products within the FLA (i.e., sawmills, Montana. Once a CE is established, FWP's interaction with the CE landowner and ongoing management of the property occurs through two different forms. First, regional staff and the landowner interact on an as-needed basis, which may involve multiple interactions per year. These are typically day-to-day management questions, clarifications, or requests for solutions to concerns that may involve CE terms. After a "breaking in period" for a few years, these interactions often become less frequent as all involved become accustomed to how the CE works. The second interaction, led by the Conservation Easement Stewardship Manager or their hired contractor, is a formal annual visit to review all of the CE terms and management plan details to confirm that the land has been managed in a manner consistent with these requirements. Although lead by the Stewardship Manager, ideally, these visits involve both the landowner and FWP regional staff. This is also a good opportunity to discuss how the CE is working and whether there are needs for updating the management plan.
+Results of annual monitoring are reported to the FLP each year through the Forest Legacy Information System database. Any issues requiring program guidance or assistance will be coordinated by the state Program Coordinator with FLP staff.
+2. Early July (Year 1) -the FWP Program Coordinator assembles all of the applications and forwards copies to each FLP subcommittee member of the Montana Forest Stewardship Steering Committee (MFSSC). The subcommittee comprises private landowners and staff from agencies and conservation organizations. 3. July/August (Year 1) -subcommittee members review each of the applications to confirm they meet FLP eligibility requirements and to assign a ranking score, following the national FLP ranking criteria. The chair of the subcommittee may request a field visit to review the proposal and ask questions of the landowner and involved partners. 4. Mid-August (Year 1) -the subcommittee makes a ranking recommendation (if there is more than one application) and confirms their eligibility, typically in the form of a motion, to the full MFSSC, which in turn discusses the recommendation and votes accordingly. The committee's vote serves as an official recommendation to FWP. MFSSC members also provide observations and recommendations to help strengthen applications as they proceed further through the process. 5. September-October (Year 1) -FWP assigns priority and works with applicants to write, edit, and finalize proposals for submission through the Forest Legacy Information System by the national deadline. 6. November (Year 1) -National Ranking occurs. 7. October-February (Years 2-3) -Funding is committed to specific FLP projects through passage of the national budget. 8. Spring/summer (Year 3) -Grant funds are typically available the spring or summer two years after the original solicitation.
+FWP retains two conservation easement policies, which help direct the agency as issues arise. These policies are available from FWP upon request.
+> The CE Amendments/Restatements Policy lays out the specific standards, process, and staff involvement that are required of FWP when contemplating a CE amendment. CEs are written to preserve specific conservation values in perpetuity, and amending a CE is a substantial undertaking. This policy, in part, assures that such an amendment isn't taken lightly and requires specific outcomes that are true to the original intent of (and dollar investment in) the CE. > The CE Enforcement Policy describes the steps that FWP will take to avoid and/ or reduce the potential for violations, evaluate and address actions that result in suspected violations, and resolve established violations of conservation easements in a judicious and consistent manner.
+
+## Fee Acquisitions
+
+FWP (or another state or local government agency) will manage properties consistent with program requirements while retaining the conservation values identified at the time of securing the FLP grant. To date, FLP fee title lands are part of FWP's system of Wildlife Management Areas. These properties are managed by regional staff, typically involving the Area Wildlife Biologist, Maintenance Staff, and the Regional Wildlife Program Manager, along with support from the statewide Wildlife Habitat Bureau Chief. Forest management activities are led by FWP's Staff Forester. Current FLP guidelines require reporting the status of each FLP fee title property on a five-year basis. FWP will report the status of all FLP fee title properties in a single report every five years, with the first report by December 31, 2020.
+
+## Glossary of Terms
+
+> Compatible Forest and Non-Forest Uses 1 -management or land use activities that sustain or are well-suited to forests and other native habitats and related ecological and social values. This includes use by wildlife, sustainable timber harvest and livestock grazing, watershed maintenance, compatible ecosystem services such as carbon sequestration, low impact public recreation, and land management treatments that help maintain native plant communities and ecological processes and functions. Employing forestry best management practices (DNRC -Forestry Division 2015) is an important part of sustainable forestry. > Conservation Easement -A legal agreement a property owner makes with a governmental entity or a nonprofit organization to restrict activities allowed on the land in order to protect specified conservation values. Conservation easement restrictions are tailored to the particular property and to the interests of the individual landowner. All FLP conservation easements are held in perpetuity (USFS 2017). Under a conservation easement, the landowner retains ownership of the land and is subject to the same property taxes as they were prior to placing a conservation easement on the land. > Environmentally Important Forest Areas 1 -forestlands that support one or more priority ecological or social values such as habitat for priority fish and wildlife species, valued timberlands, watersheds supporting municipal water, critical aquatic habitats or other important water-related values, public recreation, cultural and aesthetic values, or carbon sequestration. > Fee Title Acquisition -also known as a "fee simple" purchase, transfers full ownership of the property, including the underlying title, to another party (USFS and William D. Ruckelshaus Institute of Environment and Natural Resources 2011). > Forestlands 1 -lands comprising 75% or more tree-dominated habitat types. The term "habitat type" here refers to the natural tendency of a site to support forests with a minimum canopy cover of 10%. Lands that have been converted to non-forest use may be considered as forestlands if the property is covered by an approved Forest Stewardship Plan that intends to re-establish forest cover. > Forest Legacy Area -A geographic area with important forest and environmental values identified in a state Assessment of Need. Acquisition of lands and interests in lands for the FLP can only occur within approved FLAs. > Priority Fish and Wildlife Species -species of conservation concern, game species, or other species that are recognized by the state of Montana for their ecological, economic, or recreational values. > Threatened Forest Area -forestlands that are potentially vulnerable to conversion to non-forest uses which would eliminate or substantially change natural forest functions, character, and values. Threats might include residential developments, golf courses, small grain or forage croplands, various industrial developments, landfills, gravel pits, and surface mining.
+> Working Forest -Intact, undeveloped forests that are managed sustainably, supporting social and ecological values including forest commodities, livestock production, fish and wildlife habitat, water supply, recreation opportunities, aesthetic qualities, historical and cultural resources, and other values.
+
+## Public Involvement
+
+The public review process for this Assessment of Need was completed as laid out in the Introduction (Assessment of Need-Purpose and Process, page 8). The public comment period ran October 1-30, 2020 and was initiated with a statewide news release, email notifications to a standard mailing list for FWP public notices, and subsequent notifications were made to organizations who receive updates specifically on Forest Legacy Program information.
+During the 30-day public comment period, FWP received a total of 3 comments. The following is a summary of comments with FWP's responses.
+Comment: The AON does not mention climate change as a rationale for identifying forest areas to be considered for funding.
+> Response: Predictive climate models operate on large regional scales that may be of limited use for integrating into a prioritization scheme. Connectivity habitats are recognized in the Assessment of Need and National Core Criteria as priorities for the program, which would help assure the ability of plants and animals to shift their range as climates change. Also, landscape-scale conservation projects, which generally rank as higher priorities, will help assure intact forestlands are retained as climates change over time. FWP agrees that focusing conservation on forestlands that are likely to be more resilient in the face of a changing climate is a valid consideration. We have added a paragraph in the Fine Scale Prioritization section and a corresponding requirement for additional information as part of the Montana Forest Legacy Program Project Application and Evaluation template that emphasizes consideration of forest resilience in a changing climate (Page 28 and Appendix A, page 44 -item 14).
+Comment: Recommend adding an eligibility allowance for the conservation of small but important or unique/rare plant or animal habitats (such as a fen) or unique connectivity areas that might not meet the 5-acre minimum.
+> Response: Riparian areas, wetlands, and other ecological values are important considerations in ranking proposed Forest Legacy projects. However, FWP has retained the 5-acre minimum in the Assessment of Need, because even 5 acres would be a very small conservation project for FWP to administer and it would be challenging for such a small project to successfully rank against other proposals in the national competition. Montana's conservation partnership has a number of options for pursuing one or more alternative funding sources (state, federal, or private) that may be better suited for such small conservation projects.
+Comment: Consider the following priorities in order -wildlife habitat, clean water, and public access for recreation.
+> Response: For broad scale prioritization, the Assessment of Need applied three criteria -Wildlife Habitat, Drinking Water, and Timber Resource Values -to help identify forest areas of highest conservation priority. The fine scale prioritization considers property-specific characteristics, including values like public recreation access. In fact, as the state agency charged with administering Forest Legacy, public recreation is a core value typically sought with habitat conservation projects (see the Montana Fish, Wildlife and Parks' Wildlife Habitat Conservation Program section for more information, page 6). 13) ELIGIBILITY CRITERIA (See the following pages for criteria and associated attributes. Please list each criterion and confirm the proposal is eligible) 14) NATIONAL CORE CRITERIA (See the following pages for criteria and associated attributes. In the order listed, please describe how attributes of the proposal fulfil the ranking criteria. This information will be used for ranking/prioritizing proposals.)
+
+## Cited Materials
+
+Note: Within the Core Criteria descriptions, please include information on property characteristics as relates to anticipated resilience against the loss of forest cover and diversity with potential changes in climate (See the Montana Assessment of Need, Fine Scale Prioritization for more information).
+15) MAPS attached including: a) tract(s) with surrounding protected land/public lands identified and b) aerial photo of tract(s) that includes surrounding landscape
+
+[FIGURE: Figure 1. Selis elder Felicite Sapiye McDonald picking huckleberries in forests northwest of the Flathead Reservation, 1996,   (SQCC, 1996)).]
+
+[FIGURE: Figure 2. Tom Quequesah and Don Sam reenacting the traditional use of fire, circa 2003 (Salish and Kootenai Tribes).]
+
+[FIGURE: Figure 3. The Northern Pacific Railroad's newly constructed Marent Trestle, near the southern border of the Flathead Indian Reservation, 1884 (Montana Historical Society).]
+
+[FIGURE: Figure 4. Polley Lumber Company, Missoula, circa 1924, during intensive logging on the Flathead Reservation / K. Ross Toole Archives, University of Montana]
+
+[FIGURE: Figure 5. State of Montana's Forest Ownership / DNRC, 2020]
+
+[FIGURE: Figure 6. Forest Ownership in Montana / DNRC, 2020]
+
+[FIGURE: Figure 7. Dominant forest types in the state of Montana / DNRC, 2020.]
+
+[FIGURE: /spruce/mountain hemlock forest type is the second most abundant forest type in Montana comprising 20%(5.3 million acres)  of forested land in the state (USDA,RMRS,  2019). This forest type typically occurs at higher elevations. The Engelmann spruce/ subalpine fir forest type covers about 2.8 million acres and the subalpine fir forest type covers roughly 1.5 million acres (USDA, RMRS, 2019). This forest type has decreased, possibly due to large-scale fires where the forest type is still in a post-fire recovery stage or the area transitioned to a lodgepole pine forest type. Engelman spruce cones / Photo by Ed Ogle The lodgepole pine forest type encompasses about 4.1 million acres in Montana (USDA, RMRS, 2019). Other species intermixed within this type are Douglas-fir, subalpine fir, Engelmann spruce, western larch and whitebark pine (Pinus albicaulis; USDA, RMRS, 2019). Associate species vary by a variety of geographical and ecological factors. The lodgepole pine forest type occurs across a wide range of conditions in Montana and is equally prevalent both east and west of the Continental Divide. Lodgepole pine commonly grows in dense, even-aged stands as a result of past and recent fire activity. Reduction of lodgepole pine harvest on federal lands in Montana resulted in vast landscapes with old, evenaged trees. These factors helped create optimal conditions for the large-scale mountain pine beetle epidemic throughout the 2000s, which caused high levels of mortality and influenced fire behavior across its range (USDA, FS, 2019). Warm, dry sites support the ponderosa pine forest type which occupies about 2.7 million acres in Montana (USDA, RMRS, 2019). Although some of the type occurs west of the Continental Divide, ponderosa pine is the dominant species on much of the forest lands east of the Divide. Areas covered by ponderosa pine have declined since the beginning of the 20th century and have typically been replaced by Douglas-fir dominated mixed conifer type. This is due to a combination of past management practices, which favored the removal of the high value old growth ponderosa pine and the exclusion of the low intensity, high frequency fires on which ponderosa pine depends in order to compete with Douglas-fir. Historic frequent fires killed most Douglas-fir seedlings and saplings, along with other vegetation in the understory, and reduced both competition and live and dead fuels accumulation on the sites (Fryer, 2018). Lodgepole pine cone and needles / Photo by J. Morefield Ponderosa pine / Photo by Brady Smith]
+
+[FIGURE: Western larch in autumn in Flathead National Forest / Photos courtesy of USDA Forest Service According to the Rocky Mountain Research Station (2019), the aspen/birch forest type occurs on approximately 516,000 acres within the state. Numerous publications including Shepperd et al. (2001), Kaye et al. (2005), Campbell & Bartos (2001), and Frey et al. (2004) show that the number and condition of aspen declined dramatically throughout the West during the past 100 years due to conifer encroachment, fire exclusion, and overgrazing by large native herbivores and cattle.]
+
+[FIGURE: Figure 8. Trend in average annual net growth (million cubic feet per year) for Montana and adjacent States (Idaho and Wyoming) over their available evaluation periods of2003 -2008  through 2006 -2015(Witt et al., 2019)).]
+
+[FIGURE: Figure 9. Average annual mortality volume (million cubic feet per year) by most common disturbance type,Montana, 2006- 2015(Witt et al., 2019).]
+
+[FIGURE: Figure 10. A stand of beetle-killed trees / DNRC, 2020.]
+
+[FIGURE: Black pineleaf scale / Photo courtesy of Utah State University ExtensionDwarf mistletoe / Photo courtesy of Colorado State University Some tree species have been affected by insects and disease more intensely than others. A notable species in Montana is the whitebark pine. Whitebark pine is an important five-needle pine species in high elevation ecosystems that contributes to Clark's nutcracker and grizzly bear food sources, snow pack retention, and habitat for other wildlife species. Populations are in sharp decline due to compounding stressors including non-native invasive disease, climate change, and the disruption of natural fire regimes.]
+
+[FIGURE: Figure 11. Root disease tree mortality predicted spread across Montana /USDA FS, 2012.]
+
+[FIGURE: faucet snail American bullfrog / Photo by Katja Schulz Mountain pine beetle kill of conifers / Photo courtesy of USGS]
+
+[FIGURE: Feral swine / Photo courtesy of USDA Forest Service]
+
+[FIGURE: Figure 12. The invasion curve. (Adapted from Invasive Plants and Animals Policy Framework, State of Victoria, Department of Primary Industries, 2010).]
+
+[FIGURE: Figure 14. Fire history across Montana, from 1988 to 2019 (DNRC, 2020).]
+
+[FIGURE: Figure 15. Map of the 2017 Wildfires across Montana (DNRC, 2020).]
+
+[FIGURE: Figure 16. Distribution of Montana's Wildland Urban Interface (DNRC, 2020).]
+
+[FIGURE: Figure 17. The home ignition zone (NFPA, 2020).]
+
+[FIGURE: Figure 18. How to reduce the health risks associated with wildfire smoke (Airnow.gov, n.d.).]
+
+[FIGURE: The National Cohesive Wildland Fire Management Strategy (Cohesive Strategy) is the backbone of national wildland fire management policy. It was built on collaboration between federal, state, tribal, and local government partners and focuses on three goals: > Resilient Landscapes: Landscapes across all jurisdictions are resilient to fire-related disturbances in accordance with land and resource management objectives; > Fire-adapted Communities: Human populations and infrastructure can withstand and remain viable without extraordinary intervention when a wildfire moves through or near; > Safe and Effective Wildfire Response: All jurisdictions participate in making and implementing safe, effective, risk-based wildfire management decisions.]
+
+[FIGURE: Figure 19. Characteristics of Montana's timberland and timber harvest by ownership class, 2009, 2014 and 2018 (DNRC, 2020; Adapted from USDA FS, 2020).]
+
+[FIGURE: Figure 20. Montana timber harvest volume by ownership, 1945-2019 (BBER & USDA FS, 2020).]
+
+[FIGURE: Figure 21. Montana's primary forest products manufacturers, 2018 (USDA FS, 2020).]
+
+[FIGURE: Figure 22. Montana Lumber Production 1945-2019 (WWPA, 2019).]
+
+[FIGURE: Figure 23. Employment in Montana's forest industry, 1990-2019 (USDA FS, 2020).]
+
+[FIGURE: FS 1568 winds toward Werner peak / Photo by Amber Drysdale & courtesy of USDA FS]
+
+[FIGURE: Figure 24. Distribution of the mesic-wet conifer-dominated forest in Montana (DNRC, 2020).]
+
+[FIGURE: Figure 26. Distribution of the xeric-mesic conifer-dominated forest in Montana (DNRC, 2020).]
+
+[FIGURE: Figure 27. Distribution of floodplain and riparian systems in Montana (DNRC, 2020).]
+
+[FIGURE: Figure 28. Distribution of deciduous-dominated forest in Montana (DNRC, 2020).]
+
+[FIGURE: Bull trout / Photo by Audree Benson & courtesy of USDA FS]
+
+[FIGURE: Figure 29. The major river basins of Montana (DNRC, 2020).]
+
+[FIGURE: Figure 30. The water cycle of evaporation, condensation, and precipitation. (NOAA, n.d.).]
+
+[FIGURE: Big Hole / Photo by Roger Peterson & courtesy of USDA FS]
+
+[FIGURE: Montana's rivers, streams, lakes, and wetlands contribute to the overall surface water available in the state. The northern Rockies of Montana are the headwaters for two major river systems of the US-the Columbia River Watershed flowing west and the Missouri River Watershed flowing east. Although only 17% of Montana's land surface is west of the Continental Divide, this area cumulatively drains 25 million acre-feet per year compared to 16 million acre-feet per year on the east side of the divide (Figure31). Climate is also different west and east of the divide, with the western portion receiving more rainfall and snowpack at high elevations and the eastern portion receiving less rainfall with more extreme temperature fluctuations (DNRC, 2015a). The majority of that state's water originates in forested landscapes across Montana.]
+
+[FIGURE: Figure 31. Statewide surface inflows and outflows in Montana (DNRC, 2020).]
+
+[FIGURE: Figure 32. Surficial aquifers in Montana (DNRC, 2020).]
+
+[FIGURE: Figure 33. Bedrock aquifers in Montana (DNRC, 2020).]
+
+[FIGURE: Figure 34. Groundwater contribution to stream flows in Montana (DNRC, 2020).]
+
+[FIGURE: Figure 36. Water consumption in Montana by purpose (DNRC, 2015a).]
+
+[FIGURE: Within the United States Department of Agriculture, the Forest Service manages watersheds across seven national forests in Montana. > Within the United States Department of Interior, the Bureau of Land Management and the National Park Service each manage land and water on their respective lands. The Unites States Fish & Wildlife Service manages several national wildlife refuges in Montana, and also regulates projects that may affect habitat, especially where threatened or endangered species are involved.]
+
+[FIGURE: Figure 38. Crystal Lake Campground hazard tree removal project, from August 2018 in the Helena-Lewis & Clark National Forest (DNRC, 2018).]
+
+[FIGURE: Figure 39. The frequency of the top five incident types in Montana that have prompted emergency declarations from the president or governor since 1974.]
+
+[FIGURE: Figure 40. The progression of flooding after fire events (FEMA, n.d.).]
+
+[FIGURE: Figure 41. Montana 2017 drought conditions by county (DNRC, 2020).]
+
+[FIGURE: Another challenge that Montana communities face is that not all jurisdictions have warning, alert, and notification systems in place. Out of the 56 counties and 7 tribes in Montana, only 20 have Integrated Public Alert and Warning capabilities and only 38 counties have mass notification systems. In addition, inadequate and unqualified staff can limit planning efforts and hazard mitigation activities. In 2019, over half of the counties and tribes in Montana reported a lack of funding to hire a full-time Emergency Manager or Disaster and Emergency Services Coordinator (MDMA DES, 2018). Many managers or coordinators are part-time, and the competing responsibilities coupled with the time required to adequately prepare for, respond to, and recover from disasters increases the burden on those employees. worker hiking in the Absaroka-Beartooth Wilderness / Photo courtesy of USDA FS]
+
+[FIGURE: Encourage jurisdictions to pursue mitigation projects for repetitive loss structures or any severe repetitive loss properties identified in the future. > Improve flood risk hazard mapping and promote flood risk hazard communications. > Coordinate with partners on flood mitigation (e.g. Joint Stream Restoration]
+
+[FIGURE: Figure 42. Urban Forest Conditions in Montana (DNRC, 2017).]
+
+[FIGURE: Figure 43. Riparian buffers can be unmanaged, or designed and planted to provide other products and income sources to the landowner (USDA National Agroforestry Center, n.d.).]
+
+[FIGURE: Figure 44. The prevalence of ash species planted in urban areas across Montana (DNRC, 2020).]
+
+[FIGURE: Figure 45. Montana Plant Hardiness Zone Map, 1976-2005 (DNRC, 2020).]
+
+[FIGURE: Figure 46. Montana Plant Hardiness Zone Map, 2012 (DNRC, 2020).]
+
+[FIGURE: Figure 47. Structure of the Montana Forest Action Advisory Council (DNRC, 2020).]
+
+[FIGURE: Figure 1. Aspen forest treatment conducted by DNRC on the Blackfoot Clearwater Forest Legacy Project. Photo credit Mike Thompson]
+
+[FIGURE: Figure 3. Whitefish Watershed Conservation Easement, completed in  2018. Photo credit Chris Boyer Kestrelaerial.com]
+
+[FIGURE: Figure 4. Location of conservation easements and fee title purchases funded in part through the FLP, totaling 260,742 acres in Montana]
+
+[FIGURE: Figure 5. Boyd Mountain deer and elk winter range, purchased through the Forest Legacy Program as part of the Blackfoot Clearwater Wildlife Management Area in 2004. Photo credit Mike Thompson]
+
+[FIGURE: Figure 7. Timber harvest on Kootenai Valleys Conservation Easement, completed 2012. Photo credit FWP]
+
+[FIGURE: Photo courtesy of USDA Forest Service]
+
+[FIGURE: Montana's first sporting clubs were established in the 1870s, prior to statehood. Hunting and fishing and other outdoor pursuits are woven into the fabric of Montana. Forests and open landscapes have framed our cultural values and ways of life. State, federal, and private forestlands offer extraordinary opportunities for outdoor recreation, including hiking, backpacking, paddling, wildlife viewing, hunting, fishing, berry picking, nature study, and countless other activities.]
+
+[FIGURE: Figure 8. Haskill Basin Conservation Easement, completed 2016. Photo by Steven Gnam]
+
+[FIGURE: Figure 10. Wetland habitats, providing water storage and extremely productive habitat for many wildlife species, including spring grizzly habitat. Whitefish Lake Watershed Conservation Easement. Photo credit Chris Boyer Kestrelaerial.com]
+
+[FIGURE: Figure 11. Counties recognized for their recreation resources and associated high likelihood of urban expansion (Headwaters Economics 2019; Johnson and Beale 2002).]
+
+[FIGURE: Figure 14. Drinking water volumes within the analysis area]
+
+[FIGURE: Figure 17. Broad scale prioritization of forestland in Montana. Green shaded HUC on.]
+
+[FIGURE: 2 billion across 7 counties within this FLA, with Flathead County receiving the second largest expenditures in the state, $614 million (Institute for Tourism and Recreation Research 2019). Hunting and fishing are an important part of the recreation economy; resident and nonresident big game hunting generated an estimated $90 million of expenditures within this FLA in 2016 (FWP 2018). Other industries occurring in and around forestlands include livestock grazing, real estate development, and hard rock mining. Mining occurs mostly along the far western and southern parts of this FLA (Montana Tech 2012).]
+
+[FIGURE: Figure 20. Northwest Montana Legacy Area in relation to public landownership patterns, forested habitats, and primary wood products mills.]
+
+[FIGURE: Figure 22. The Central Montana Forest Legacy Area in relation to public landownership patterns, forested habitats and primary wood product mills.]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[TABLE:  > > Coordinate and strategize with the Montana University System to build Coordinate and strategize with the Montana University System to build upon the Montana Climate Assessment and develop science-driven, upon the Montana Climate Assessment and develop science-driven,]
+
+[TABLE]
+* The following information on growth and mortality of Montana's forests is derived from the FIA 2006-2015 Inventory Summary Report:*
+
+| > Average annual gross growth of all live trees ≥ 5.0 inches diameter totaled 877.6 |
+| --- |
+| million cubic feet; |
+| > Average annual net mortality due to natural causes (excludes timber harvest and |
+| human-caused activities) of trees ≥ 5.0 inches diameter totaled about 931.6 million |
+| cubic feet; The leading causes of mortality by volume were fire (50%), insects (43%), |
+| and diseases (6%); |
+
+[/TABLE]
+
+[TABLE]
+*Table 1 . Expected vulnerability of different tree species to climate change(Whitlock et al., 2017.)*
+
+| Species | Drought | Fire | Insect/Disease |
+| --- | --- | --- | --- |
+| Alpine larch | Low | High | Low |
+
+[/TABLE]
+
+[TABLE:  The DNRC's Stewardship Program exists to ensure that private and community forest owners have the resources they need to continue managing their lands actively and sustainably. Thanks to a partnership with USDA Forest Service State and Private Forestry, the Stewardship Program is supported by pass-through federal funding to meet the needs of private forest landowners, helping in the following areas:]
+[TABLE:  Over the past decade, various outbreaks of forest insects and diseases have occurred on almost half of the 23 million acres of forested landscape throughout Montana. The 2013-2027 National Insect and Disease Forest Risk Assessment evaluated the hazard of tree mortality due to insects and diseases, displayed as a series of maps(USDA FS, 2015). The assessment predicted that at least 25% of living trees (greater than 1 inch in diameter) will die over a 15-year time frame due to insects and diseases. Not all insects and diseases discussed in the assessment occur in Montana, but the following organisms are currently known to be active and influence Montana's forested landscape.Western spruce budworm (Choristoneura freemani) is a widespread, native insect in western conifer forests that feeds on the needles of Douglas-fir, grand and subalpine fir, larch, and spruce. Mature trees can generally survive moderate defoliation but prolonged, severe infestations can have greater impacts, depending on the overall health and genetic makeup of the tree. Understory trees often do not have adequate nutrient reserves to withstand heavy defoliation and can be outright killed. These insects thrive in multistoried stands where larvae can migrate to the tops of trees and then float down onto understory]
+
+[TABLE]
+* DNRC Forest Pest Management Program aims to help identify and manage forest insects and diseases on non-federal lands and operates the program with the following priorities:The Forest Pest Management Program works to educate the public, elected officials, and professional resource managers through various formats including presentations, workshops, technical trainings, printed publications, websites, and media outlets. A foundational understanding of insects and diseases is essential in effectively supporting and conducting management activities that create more resilient forest systems.*
+
+| > Aerial data is collected through a partnership with the USDA FS Forest Health |
+| --- |
+| Protection Aerial Detection Survey. This partnership is efficient in consolidating |
+| resources; a single aircraft is used to survey all ownerships and fewer experts are |
+| required to survey. |
+| > Ground surveys are conducted by the DNRC Forestry Division personnel and are > Technical -identify and manage forest insects and diseases including diagnostics, supported through both USDA FS Forest Health Monitoring Program funds and state management recommendations and implementation, impact surveys, and funds. projections. > A targeted investigation into the status of limber pine communities on the Rocky > Education and Outreach -provide presentations and technical trainings for diverse Mountain Front of Montana was supported with funds from the USDA FS Evaluation audiences, ranging from professional resource managers to the general public. Monitoring Program, The Nature Conservancy, and Montana DNRC. Long-term > Financial -funds are sub-awarded from the USDA FS Western Bark Beetle Initiative monitoring plots were established across ownerships to assess the condition of to non-federal, non-tribal entities to conduct treatments that reduce susceptibility to limber pine forests in an effort to guide management activities toward conservation. bark beetles. > A long-term study of the balsam woolly adelgid (Aldelges piceae) beetle was > Prevention -support efforts that block the introduction and establishment of non-conducted under a joint partnership of DNRC and USDA FS Forest Health Protection. native invasive insects and diseases into Montana forests. Funds from the USDA FS Evaluation Monitoring Program were used to assess the |
+| DNRC has programs in place to inform out-of-state travelers about invasive species, and impact of the non-native invasive insect on subalpine fir ecosystems. |
+| efforts to discourage out-of-state firewood could work in tandem with in-state firewood Montana is a large state with relatively few resource professionals. Various groups, production to further protect Montana's forests from non-native invasive organisms. ranging from the governor-appointed members of the Montana Invasive Tree Pest |
+| Council to the informal listserv of the Tree Pest Group, serve to create active networks of |
+| professionals that collectively work together to address a variety of tree health concerns. |
+| This collective creates a genuine opportunity to collaborate and effectively coordinate |
+| resources and expertise. |
+| The USDA FS has implemented a number of programs to further understand and combat |
+| insects and diseases, both nationally and at the state level: |
+| > The USDA FS Western Bark Beetle Initiative awards funding to support projects |
+| on non-federal lands that make stands more |
+| resilient to a suite of bark beetles common |
+| in the Rocky Mountain West. The grants |
+| have been used on a diversity of public lands |
+| including those managed by Fish, Wildlife and |
+| Parks, City of Missoula Conservation Lands, |
+| Five Valleys Land Trust, City of Helena, State |
+| Trust Lands, Sanders County, and Montana |
+| Correctional Enterprise. Projects have been |
+| focused on thinning overstocked stands, placing |
+| pheromones to deter bark beetles, and treating |
+| slash piles. |
+
+[/TABLE]
+
+[TABLE]
+* National Forest / Photo by Chris Hoge & courtesy of USDA FS*
+
+| of Agriculture: Noxious weeds, pesticide program, invasive |
+| --- |
+| pests and disease; |
+| > Montana State University: Integrated Pest Management; |
+| > Montana Fish, Wildlife and Parks: Aquatic invasive species program, exotic species; |
+| > Montana Department of Transportation: management of invasive species along state |
+| highways and rights-of-way; and |
+| > Montana Department of Livestock: management of feral animals. |
+
+[/TABLE]
+
+[TABLE]
+*bait bucket, several non- native invasive species such as Eurasian watermilfoil and New Zealand mud snails have found their way into Montana's waterbodies. Invasive terrestrial animals include introduced species that pose a threat to the environment (native species, habitat, forest health), economy, or human health. Feralor free-ranging-horses, while a subject of controversy, are known to have concerning impacts on forest lands. They reproduce rapidly in the wild and can damage native plants, riparian areas, and wildlife habitat. Free-roaming herds trample vegetation, hard-pack the soil, and over-graze lands. The Bureau of Land Management spends over $71 million annually on the management of feral horses and burros on their lands. Areas inhabited by feral horses tend to have fewer plant species, less plant cover, and more invasive plants such as cheatgrass (The Wildlife Society, 2016).*
+
+| A noxious weed is defined by Montana Law as, "any exotic plant species established or |
+| --- |
+| that may be introduced in the state that may render land unfit for agriculture, forestry, |
+| livestock, wildlife, or other beneficial uses or that may harm native plant communities." A |
+| noxious weed is any unwanted non-native plant with a potential impact so serious that the |
+| state of Montana has declared that landowners must enter into an approved management |
+| program to keep it from spreading (Montana Noxious Weed Education Program, n.d.). |
+| Noxious weeds have a destructive impact on Montana's landscape by displacing native |
+| plant species, increasing soil erosion, changing soil chemistry, and decreasing wildlife |
+| habitat and recreational opportunities. Rangeland, pastureland, cropland, forests, and |
+| wildlands cover 92 million acres in Montana, or 98% of the total land area. These lands are |
+| vital for agricultural production and protecting the integrity of ecosystems. The Montana |
+| Department of Agriculture's Noxious Weed Programs offer resources and assistance |
+| with the management of state and county-listed noxious weeds. All plant species that are |
+| considered noxious weeds are non-native species. |
+| "Economic losses and damages attributed to invasive |
+| species are estimated to be over $120 billion annually in |
+| the United States" Aquatic invasive species are those that impact waterbodies and wetlands, many of which |
+| occur in forested environments. Whether they come on the trailers or hulls of recreational |
+| boats, or from the water of an |
+| angler's Their presence can cause severe |
+| damage to local ecosystems, |
+| industry, and tourism. Aquatic |
+| invasive species detected in |
+| Montana include: Eurasian |
+| watermilfoil, |
+
+[/TABLE]
+
+[TABLE]
+*flowering rush, curlyleaf pondweed, fragrant waterlily, American bullfrog, whirling disease, New Zealand mudsnail, faucet snail, and the Asian clam. Montana Fish, Wildlife and Parks leads the Aquatic Invasive Species (AIS) Program, which *
+
+| education, outreach, response planning, and policy and |
+| --- |
+| rule-making authorities. |
+| includes |
+| watercraft inspections, |
+| waterbody monitoring, |
+
+[/TABLE]
+
+[TABLE]
+* The Aquatic Invasive Species Grant Program is a state-funded grant program created for the prevention and control of AIS. > The Forest Pest Management Program provides expertise in forest insects and diseases to owners and managers of forest lands in Montana. Services include identifying and managing forest insects and diseases; professional training and educational outreach; detecting and monitoring invasive pests; granting funds for forest pest management projects; and reporting forest pest status and trends. > The Upper Columbia Conservation Commission (UC3) was established by the 2017 Montana Legislature after the detection of Dreissenid mussel larvae in two reservoirs in the state: Tiber and Canyon Ferry. This was the first detection of invasive mussels in a Columbia River Basin state, the last remaining mussel-free river drainage in North America, and signaled the need for enhanced coordination between Montana and downstream/basin partners. The UC3 focuses on AIS prevention in the Montana portion of the Upper Columbia Basin -essentially the waters west of the Continental Divide.*
+
+| The Montana Department of Agriculture manages more than 30 programs, from DNRC's Invasive Species Programs fall into four areas: Aquatic Invasive Species Grant > The Montana Invasive Species Council (MISC) is a statewide partnership working |
+| --- |
+| marketing and business development to licensing and regulating activities to protecting Program; Forest Pest Management Program; Montana Invasive Species Council; and to protect Montana's economy, natural resources, and public health through a |
+| agricultural producers, consumers, and the environment. the Upper Columbia Conservation Commission. In addition to these programs, DNRC coordinated approach to combat invasive species. The Montana Governor's office |
+| coordinates with federal and state agencies, tribes, counties, cities and towns, and non-proactively created the MISC in 2015 to identify priority invasive species issues and > The Noxious Weed Programs offer resources and assistance with the management governmental organizations. make recommendations to improve invasive species management. The council of state and county-listed noxious weeds. completed a statewide assessment of the individuals, groups, and agencies > These resources include the Noxious Weed Trust Fund Grant Program, the pesticide working on invasive species, their management priorities, and an estimate of their program, and the Noxious Weed Seed Free Forage certification program, which expenditures in March of 2016. provides inspections and certification of forage products such as hay, pellets, and > In 2016, MISC developed the Montana Invasive Species Framework, which straw. includes over 90 coordinated actions that would better protect Montana from > Currently, Montana has 35 state-listed noxious weed species that affect invasive species. approximately 8.2 million acres. > MISC continues their work of implementing these coordinated actions and > Under Montana statute, counties are provided authority to implement and enforce working with agencies and partners to enhance invasive species prevention and noxious weed laws. management statewide. |
+| > The Montana Invasive Species Framework involves all partners and Montana FWP oversees both the Aquatic Invasive Species Program and the management stakeholders in managing invasive species including federal, tribal, state, of exotic wildlife species. county, and non-profit entities, as well as private companies, landowners, and > Aquatic Invasive Species Program: The AIS Program for Montana includes the the people of Montana. management of all aquatic plants, animals, diseases, and pathogens. FWP operates > The Framework includes over 90 coordinated actions that would better protect and contracts with partners to operate watercraft inspection stations, monitor Montana from invasive species. Five key areas highlighted for improvements waterbodies for the presence of AIS, conduct response planning for detections of AIS, and oversee the 'Clean Drain Dry' and 'Don't Let it Loose' outreach campaigns. include: |
+| Hand spraying for invasive weeds / Photo courtesy of USDA Forest Service > Exotic Species Program: To protect Montana's native wildlife and plant species, > COORDINATION: Coordinate invasive species efforts, focus on livestock, horticulture, forestry, agricultural production, and human health and safety, common priorities, and share information regarding management it is necessary to regulate the importation, transplantation, possession, and sale of outcomes to build a successful invasive species program. exotic wildlife. Exotic species are any species not native to that ecosystem. They are > PREVENTION: Protect Montana's natural resources and reduce broken into three categories: the future burdens of invasive species impacts by restricting the > Controlled species: Live, exotic wildlife species, subspecies, or hybrid of introduction of harmful species. species that may not be imported, possessed, sold, purchased, or exchanged in > DETECTION: Search for new populations of invasive species, monitor Montana unless a person obtains written authorization from the department. existing populations, and communicate findings so the risk they pose > Noncontrolled species: Live, exotic wildlife species, subspecies, or hybrid of can be assessed and appropriately managed. that species that may be possessed, sold, purchased, or exchanged in the > RAPID RESPONSE: Build capacity to eradicate, control, or contain state without a permit, except as provided in this subchapter or in Montana populations of invasive species that have newly invaded and pose a statutes or federal statutes. An uncontrolled species may not be released into risk to Montana. the wild unless authorized in writing by the department. This definition does not > CONTROL: Reduce the negative impact of established invasive authorize the sale, possession, transportation, importation, or exportation of a noncontrolled species in violation of any applicable federal or state statute or species to Montana's economy, environment, and culture. |
+| regulation or county or city ordinance. |
+| > Prohibited species: Live, exotic wildlife species, subspecies, or hybrid of that |
+| species, including viable embryos or gametes, that may not be possessed, sold, |
+| purchased, exchanged, or transported in Montana, except as provided in MCA |
+| 87-5-709 or ARM 12.6.2220. |
+
+[/TABLE]
+
+[TABLE]
+*Messaging targets travelers and recreationists who may be tempted to move firewood for personal use when traveling. The campaign encourages the use of local firewood (sourced within 10 miles of burning) and working to ensure that any Drain Dry' Campaign: This campaign targets boaters (motorized and nonmotorized), anglers, and other water recreationists who may inadvertently transport aquatic invasive species, such as zebra mussels or aquatic plants. The steps to prevent the movement of AIS include 'cleaning' boats and equipment; 'draining' all standing water from tanks, bilges and live wells; and 'drying' boats and equipment before use in another waterbody. These three simple steps drastically reduce the risk of transporting AIS from one waterbody to another. Montana is part of a much larger international network that utilizes this campaign, but each state and province has its own logo, look, and feel. Consistency in spreading this message across the West has increased both awareness of AIS and a sense of personal responsibility when it comes to protecting Montana's waters. > 'Play Clean Go' Campaign: This campaign targets recreationists such as hikers, backpackers, campers, horseback riders, bikers, ATV/UTV users, gardeners, climbers, and cavers. The message reminds recreationists to clean their boots, equipment, and gear; to plant native and non-invasive plants; to use local firewood; and to use local hay for livestock. It is a national campaign managed by the North American Invasive Species Management Association and adopted by Montana to reduce the spread of terrestrial invasive species. > Montana Noxious Weed Education Program: This program was established "to educate the people of Montana about the economic and environmental impacts of noxious weeds while encouraging the public to participate in ecologically based integrated weed management." This campaign brings together stakeholders, works with the public and youth, and provides informative educational materials, programs, and outreach to federal, state, city, and tribal weed coordinators. > 'Don't Move Firewood' Campaign: This national campaign is managed by The Nature Conservancy and was adopted by Montana. Squeal on Pigs' Campaign: This campaign originated in Washington but other western states have since adopted it.Montana faces an imminent threat from feral swine that are rampant in Canadian provinces to the north. The campaign targets the general public (especially in rural areas near the border) and encourages them to immediately report any signs or sightings of feral swine so that authorities can take immediate action. > 'Be a Wise Ash Campaign': This is a new campaign from Colorado ('Be a Smart Ash') that was recently adopted in concept by the Montana Invasive Species Council. It focuses on threats from the emerald ash borer and targets urban residents with messaging about what they can do to identify emerald ash borer-infested trees, treat affected trees, and diversify urban trees with other species.*
+
+| State Invasive Species Grants: multiple grant opportunities exist for invasive species |
+| --- |
+| prevention and management: |
+| > Aquatic Invasive Species Grant Program; |
+| > The Noxious Weed Trust Fund Grant Program; |
+| > Forest Health Grants; and |
+| > The Montana Wildlife Habitat Improvement Program. |
+| Data & Program Gaps |
+| Funding for Invasive Species Detection & Prevention |
+| > Acquire resources to fully implement effective monitoring, prevention, control, |
+| outreach, and research to prevent new introductions and spread. |
+| > Improve coordination among landowners to more effectively treat terrestrial weeds. |
+| > Increase public awareness through coordinated public education campaigns. |
+| > Enhance multi-taxa coordination across the state that focus on a specific geographic |
+| area. > 'Don't Let it Loose' Campaign: This campaign targets aquarium hobbyists, pet owners, and horticulturists. A major pathway for invasive species is intentional release, where domestic or aquarium pets are released into the wild.Oftentimes > Improve technical expertise and consistency between county weed lists and state commercially-purchased firewood is heat-treated priority lists. or certified as pest-free. The DNRC Forest Pest > Evaluate the ability to enforce both Montana state law and specific county laws Management Program also advises cutting relative to weeds. people feel that releasing a domesticated firewood from trees > Conduct an assessment to determine if Montana's noxious weed list is achieving animal into the wild is the right thing to do, but that have been dead desired objectives. really it is just the opposite. If the pet survives in the wild, in a habitat or climate that it is unaccustomed to, it could compete with native species and wreak havoc on the land, water, and food web that native at least three years (or > Consistently enforce noncompliance of weed laws in every Montana county. curing for that long) > Better address invasive species found in urban areas. before transporting. > Improve expectations relative to the Noxious Weed Law and urge counties to foster species depend on. Be a responsible pet owner and integrated pest management. 'Don't Let it Loose!' > Improve stakeholders' understanding of roles and responsibilities for Montana's |
+| invasive species programs. |
+
+[/TABLE]
+
+[TABLE]
+* In the aftermath of the Great Burn in 1910, the Northern Montana Forestry Association and the State Fire Warden role were formally established to address the need for fire protection.*
+
+| Wildfire Protection Responsibilities |
+| --- |
+| In Montana, wildfire response is accomplished through the close coordination of federal, |
+| state, local, and tribal governments, and contract firefighting resources. The Montana |
+| Department of Natural Resources and Conservation, U.S. Forest Service, U.S. Fish Between and Wildlife Service, Bureau of Indian Affairs, National Park Service, Bureau of Land 1911 and the early 1920s, additional private fire protection associations emerged; the Management, county cooperators, and other recognized fire protection agencies have Office of the State Forester met many of its fire control responsibilities through agreement the capability and responsibility to protect life, property, and natural resources across with the U.S. Forest Service which, in addition to protecting national forest system lands Montana while assuring a safe and effective response to wildfires that is consistent with throughout Montana, protected state and private forest lands. statutory obligations and land and resource management objectives. In a select few areas |
+| throughout the state, the BLM, USFWS, USDA FS, and DNRC negotiated an exchange of Around 1926, the state began providing direct wildfire protection with the establishment protection, which redistributes fire protection responsibilities. The exchange, based on of a Forest Fire Protection District near Bigfork and another on the Stillwater State Forest. acreage, helps ensure efficient and effective fire response while maintaining the land While private fire protection associations continued to form into the late 1950s, the state's responsibilities grew steadily with the creation of additional Forest Fire Protection management objectives of the governing agency. |
+| Districts. In 1965, the U.S. Forest Service withdrew the extended protection it provided to |
+| nearly two million acres of state and private lands in Montana, and Montana's private fire |
+| protection associations began to retreat from their fire protection responsibilities in the |
+| early 1970s. With millions of acres of state and private forest land losing fire protection, |
+| the roots of DNRC's current fire protection system were established (Moon, 1991). Today, |
+| under an evolved mission, DNRC provides direct fire protection to nearly 5.2 million |
+| acres and indirect protection to an additional 45 million acres of state and private lands. |
+| In addition to its direct provision of fire protection services, DNRC employs other fire |
+| protection mechanisms, including: |
+| > State-County Cooperative Fire Protection Arrangement (County Co-op Program)- |
+| enables the state to provide organizational and planning assistance, equipment, and |
+| training to the counties. The county in turn protects all state and private lands within |
+| the county that were not under the protection of a recognized fire protection agency; |
+| and |
+| > Rural Fire Capacity Program-The Forest Service funds DNRC to provide financial, |
+| technical, and other assistance to the State Forester. These funds are used to |
+| organize, train, and equip fire departments in rural areas and communities with |
+| populations under 10,000 to prevent and suppress wildfires. |
+| Prior to the establishment of the County Co-op Program, wildfires on private land not |
+| included in forest fire protection districts were the responsibility of local governments |
+| and individual landowners. Today, Montana has a statewide interagency fire protection |
+| arrangement that distributes wildfire protection responsibilities across jurisdictions. |
+| Firefighter and public safety are the highest priority in all firefighting operations, and |
+| all fire protection agencies in Montana are committed to aggressive initial attack when |
+| communities or critical infrastructure are threatened. |
+
+[/TABLE]
+
+[TABLE:  Engage Montanans on how to prepare their homes, properties, and communities for wildfire-a concerted public outreach and education effort is needed to help landowners understand the severity of wildfire risk to their property and build an understanding that their mitigation efforts can save lives and minimize damages.>Emphasize local government engagement on land use planning-establish codes or ordinances that reflect the increasing risk of wildfires (examples include the International Code Council's International Wildland Urban Interface Code, the National Fire Protection Association's Standard for Reducing Structure Ignition Hazards from Wildland Fire -Standard 1144, and the California Building Code Chapter 7A -Materials and Construction Methods for Exterior Wildfire Exposure). > Use the best available science to guide community protection efforts-make Montana's most at-risk landscapes more resilient to wildfires, keep firefighters safe, and better protect communities from wildfires. > Initiate information sharing and lessons learned through the Fire Adapted Montana Learning Network.]
+[TABLE:  Forests in Focus 2.0 charts a course for key stakeholders to collaboratively address Montana's most pressing needs in forest health and wildfire risk. Under Forests in Focus 2.0, DNRC is working to unite federal, state, local, and tribal governments; industry partners; conservation organizations; collaborative and watershed groups; and other relevant partners around clear goals to improve forest health and reduce wildfire risk.]
+
+[TABLE]
+*> Across all habitat types in Montana planting trees and shrubs is a proven management tool for conservation. Seedlings are necessary for reforestation, creating or improving wildlife habitat, and diversifying species and age compositions. Using plantings for these purposes is included in many of the strategies to increase forest resilience to fire, windthrow, insects and disease, drought, invasive species, and climate change. > The Montana DNRC operates the Montana Conservation Seedling Nursery, a critical forest restoration tool that provides plants for conservation activity across the state.*
+
+| In 2014, Governor Bullock |
+| --- |
+| established an executive order |
+| to promote the use of Montana |
+| wood products. This order directed |
+| that state-sponsored architecture |
+| and engineering projects should |
+| consider designing with wood |
+| products-which DNRC would |
+| help promote to new and existing |
+| markets-and created an awards |
+| program to provide recognition for |
+| Montana wood products. |
+| A trail crew heads out with |
+| seedlings to reforest in Lolo |
+| National Forest / Photo |
+| courtesy of the National |
+| Forest Foundation |
+
+[/TABLE]
+
+[TABLE]
+*> Federal funding for the Wood Products Program has diminished over time. However, because of the importance of this program to the State of Montana, DNRC continues to look for opportunities to sustain the program despite the lack of federal funding.*
+
+| > The program has a history of demonstrated value including: |
+| --- |
+| > Developing an advanced wood construction curriculum; |
+| > Educating the design-build sector; |
+| > Launching a statewide Montana wood branding campaign; and |
+| > Supporting engineering and design of large-scale wood energy projects in the |
+| State. |
+| > Funding this program will ensure the continuation of the program's valuable |
+| services. |
+
+[/TABLE]
+
+[TABLE:  loads, and ongoing human development and activities can cause animal displacement and reduced habitat effectiveness within aquatic and riparian habitats]
+
+[TABLE]
+* Landowners have many management options for their forest lands, some of which may be detrimental to wildlife habitat values or may even cause wildlife conflicts, such as a housing development in occupied wildlife habitat. Montana has a diversity of conservation organizations, agencies, and programs that operate across the state to advance voluntary incentivebased approaches to conserving natural resource values. The tools these agencies and organizations employ include technical assistance, cost-share programs, conservation easements, and even various forms of land acquisition. The following are a few resources available to private landowners who may be interested in pursuing habitat improvements and conservation:>The Forest Legacy Program helps conserve privately-owned working forests. This competitive grant program is administered by the U.S. Forest Service and implemented by Montana Fish, Wildlife and Parks. The program helps pay for strategic conservation easements and high priority land acquisitions that are of national significance. > FWP has a variety of other habitat programs to help landowners meet their wildlife stewardship and conservation goals. > The Montana Association of Land Trusts is a conglomeration of land trusts and other conservation organizations; this is a good starting point for learning about land conservation options and which entities might serve a landowner's specific needs. > The DNRC Service Forester Program provides support for private landowners interested in conducting forest management actions on their land. Service foresters provide technical assistance and expertise to develop stewardship plans, identify funding opportunities, and provide recommendations on forest harvest planning, insect and disease management, wildfire mitigation, and other considerations. > USDA Natural Resources and Conservation Service offices provide technical support and Farm Bill cost-share programs that include management of privately-owned forests. > County Extension Offices and Forestry Stewardship Workshops (administered by Montana State University Extension Forestry) provide education and technical support for establishing objective-based forest stewardship plans. > Various conservation organizations and local sporting groups also provide supplemental funding and volunteer workforces for improving or conserving habitats. Such groups include the Rocky Mountain Elk Foundation, Mule Deer Foundation, and the National Wild Turkey Federation.*
+
+| Priority wildlife habitats extend across |
+| --- |
+| public and private lands. Whereas laws |
+| and government policies may help in |
+| managing priority wildlife habitats on |
+| public lands, private land habitats require |
+| different approaches. Private property |
+| rights and landowner goals are always |
+| of first consideration when working with |
+| private landowners. |
+
+[/TABLE]
+
+[TABLE]
+* In cooperation with USGS, the National Institutes for Water Resources provides support for research that improves and enhances the nation's water supply. > Montana Wetland Council, a network of diverse interests who work to conserve and restore wetland and riparian ecosystems, developed the statewide "Priceless Resources: A Strategic Framework for Wetland and Riparian Area Conservation and Restoration" plan. The plan:*
+
+| > Encourages protection of Montana's wetland resources through restoration, |
+| --- |
+| protection and management, mapping, monitoring and assessing, land use |
+| planning, public education and communications, and policy tools, with a focus |
+| on vulnerable and impacted wetlands; and |
+| > Facilitates participants' understanding of work being done to ensure cross- |
+| collaboration and access to useful information for informed management |
+| decisions. |
+| > Participants include federal and state agencies, tribal governments, local |
+| governments, non-profit organizations, and the private sector. |
+
+[/TABLE]
+
+[TABLE]
+* The 2015 Montana State Water Plan made recommendations to better prepare the state to understand and manage its aquatic resources, such as:*
+
+| > |
+| --- |
+| o Continued investment is necessary to support the monitoring network of |
+| weather stations, streamflow gages, water temperature, groundwater wells, and |
+| snowpack monitoring, all of which are crucial in tracking changes in the water |
+| cycle across Montana. |
+| > Reliable snowpack measurements are essential for estimating water supply and |
+| assessing the risk of drought or floods. |
+| > USGS and NRCS have recorded snowpack and streamflow since the 1930s |
+| and provide an extensive resource for understanding the historical range of |
+| snowpack and streamflow across the state. |
+| > The Montana Bureau of Mines and Geology tracks long-term groundwater-level |
+| change in the state's principal aquifers. |
+| > DNRC's 2015 State Water Plan modeled climate change scenarios to better |
+| understand the potential effects of climate trends on future water supplies in |
+| Montana. |
+
+[/TABLE]
+
+[TABLE:  17.8.6 also  states that major open burning sources must conform with Best Available Control Technology(BACT). With open burning, BACT guidelines include building piles properly to minimize smoke production and choosing to ignite on days with good ventilation. Coordinating burns through the Airshed Management System helps burners comply with BACT and helps DEQ manage the amount of smoke emitted from prescribed fires.In contrast to the severe health risks that particulate pollutants present for Montanans, the state ranks as one of the healthiest for ozone levels due to its low population density. Industrial facilities and vehicle exhaust are two common sources of NOx and VOC which react with sunlight to form tropospheric ozone. Unhealthy ozone levels are more common on hot, sunny days in densely populated urban areas with heavy vehicle use. Montana's low population density contributes to healthier ozone levels.]
+
+[TABLE]
+* occasionally reduce the amount of open burning that is approved due to airshed capacity. When air quality is already at a level which could cause health impacts, DEQ must consider how much additional smoke will be emitted from open burning. In a sense, open burners must "share the air" with wood stove users.Lastly, with the increased demand for prescribed fire in Montana, we are challenged to fund the staff to operate Montana's smoke management program. Historically, Montana restricted burning during the wintertime because funding was only available during the fall, from September 1 -November 30. Lessening the severity of wildfires during the summer requires burning year-round, but a lack of funding has created a difficult situation for DEQ. Currently, the Smoke Management Program is funded through application fees from major burners. The current fee system was adopted into ARM17.8.514 in 2009.*
+
+| " While the open burning |
+| --- |
+| rules (ARM 17.8.601) have allowed burning during the wintertime, DEQ has historically |
+| restricted open burning from December 1 -March 1. Understanding the importance of |
+| open burning as a way to mitigate impacts from wildfire during the summer, DEQ now |
+| supports open burning year-round. The permitting process is different throughout the year |
+| and this is what is not well-understood by burners wanting to obtain a permit and burn |
+| legally. |
+
+[/TABLE]
+
+[TABLE:  Healthy riparian areas, floodplains, and wetlands provide natural storage, which can slow surface run-off, promote groundwater recharge, and release water to the surface more slowly. > Agencies, forestry practitioners, city planners, and others who affect riparian habitat can play a role by ensuring riparian vegetation is maintained and impervious surfaces near waterbodies are minimized through application of BMPs and other good land management practices. > Land management agencies should explicitly consider the impacts of their decisions on Montana's water resources.]
+
+[TABLE]
+* StateAt the state level, DNRC, DEQ, FWP, and the Department of Transportation help regulate forest impacts on water resources.> Section 319 of the Clean Water Act required states to assess nonpoint sources of pollution; in 1987, the Montana Legislature passed House Joint Resolution 49, which mandated a study of logging practices on water quality. > Several laws and a voluntary program to improve implementation of forestry BMPs were adopted as a result of the mandated study. > These regulatory and non-regulatory measures included the formation of a stakeholder BMP working group:Since forestry BMPs were adopted, DNRC has collaborated with the Montana Logging , with authority delegated from the Environmental Protection Agency, manages water quality throughout the state in accordance with the Clean Water Act. Of particular relevance to forestry related impacts on water resources is DEQ's Montana Nonpoint Source Management Plan (DEQ, 2017).*
+
+| > The plan outlines the following strategies for regulating nonpoint source pollution |
+| --- |
+| from forestry activities: |
+| > Maintain and improve Montana's Forestry BMPs program; |
+| > Support implementation of BMPs and actions to restore and maintain water |
+| quality conditions; and |
+| > Improve collaboration to implement and monitor BMPs. |
+| > DEQ also has the Montana Ground Water Pollution Control System Program, under |
+| which lumber mills are typically permitted (DEQ, 2019a). |
+| > DEQ established TMDLs for impaired waterbodies and are currently prioritizing the |
+| development of watershed restoration plans. |
+| > DEQ regulates the public water supply under the Safe Drinking Water Act and |
+| implements the Source Water Protection Program, which, in part, assesses land |
+| use activities in source water protection areas (Montana Watercourse, 2014; DEQ, |
+| 2019a), which may include forestry. |
+| > Detailed workshops are held annually across Montana. MSU Extension Forestry Local |
+| has developed a forest stewardship At the local level, municipal governments, conservancy districts, conservation districts, program that targets non-industrial watershed groups, and other local bodies play a role in managing forested lands for landowners. impacts on water. > Private industrial landowners have also > Municipal governments regulate growth, development, and land use at the city and required foresters and contractors to attend workshops and the Montana Logging county level. |
+| Association developed an Accredited > Conservancy districts are areas that can cross county lines to manage land and Logging Profession program. water across larger regions within the state. |
+| > BMP Audits are conducted every other year > Conservation districts exist within each county and focus on special water issues across Montana, including on state, private and stream management, issuing 310 Permits for projects near perennial streams and federal forest lands. for both private and public lands. |
+| > The results of the BMP Audits have been > Other collaborative and cross-boundary groups also work together to manage used to help design and focus these forested landscapes and their impacts on water. education efforts. > These groups include the Forest Collaborative Network, local coalitions focused on > DNRC also regulates water quantity through the Montana Water Use Act (MCA cooperative resource management, watershed groups, and special interest groups. |
+| §85-2-311) and describes the state's |
+| water resources as well as a strategy for |
+| managing these resources in the State |
+| Water Plan (DRNC, 2015a). |
+
+[/TABLE]
+
+[TABLE]
+*Table 2 . Top recreational activities of visitors to the seven national forests in Montana (2014-2018)(USDA FS).Wilderness in MontanaEstablished by Congress and authorized under the Wilderness Act of 1964, the National Wilderness Preservation System includes over 700 wilderness areas in 44 states, totaling more than 107 million acres. Montana is home to 16 Congressionally designated wilderness areas, representing approximately 3.5 million acres (about 3.75%) of the state's lands. They include the highest peaks in the state, as well as low-lying marshland suited for wildlife refuges.*
+
+| Activity | % participation | % main activity | Avg hours doing main |
+| --- | --- | --- | --- |
+|  |  |  | activity |
+| Hiking/walking | 48.6 | 26.3 | 3.0 |
+| Viewing natural features | 42.0 | 5.2 | 2.4 |
+| Viewing wildlife | 36.2 | 1.9 | 2.6 |
+| Relaxing | 32.4 | 3.0 | 16.4 |
+| Driving for pleasure | 20.4 | 5.2 | 2.3 |
+| Hunting | 13.8 | 12.0 | 9.7 |
+| Downhill skiing | 11.9 | 11.0 | 4.5 |
+| Fishing | 10.7 | 5.7 | 7.3 |
+| Picnicking | 7.7 | 1.4 | 4.5 |
+| Gathering forest products (foraging, | 6.3 | 1.6 | 3.2 |
+| firewood, etc) |  |  |  |
+| Cross-country skiing | 6.0 | 4.9 | 1.9 |
+| Camping at developed sites | 6.0 | 2.2 | 41.0 |
+| Bicycling | 5.8 | 3.8 | 2.5 |
+| Other nonmotorized recreation | 5.8 | 2.8 | 2.4 |
+| Other activity | 5.5 | 3.2 | 3.6 |
+| Nature study | 4.4 | 0.2 | 4.4 |
+| Snowmobiling | 4.1 | 3.3 | 5.4 |
+
+[/TABLE]
+
+[TABLE]
+* Be targeted at all levels and age groups, but with particular emphasis on reaching children/youth and connecting them with outdoor recreation opportunities; > Inform the public about the health benefits and opportunities of recreation, through collaboration with other organizations and agencies (e.g., Office of Public Instruction, health care organizations); and > Inform the public about responsible recreation, including minimizing negative ecological effects, understanding what a working forest looks like, and becoming advocates for multiple use, working forests, and conservation. MTFWP, n. d.). Hunters may purchase a hunting license that grants access to a specific Block Management Area on the condition that they notify the private landowner of the details of their hunting activities and abide by all other laws and regulations. Private landowner participation in block management is voluntary, and overall has contributed to positive relationships between landowners, hunters, and resource managers. > Improving Public Access -Public access to recreation lands is fundamental to improving and managing recreation impacts across the landscape. A significant amount of public land, particularly DNRC trust lands and BLM land, is surrounded by private land and lacks public road access. Public agencies work with private landowners to establish right-of-way easements that provide access to "landlocked" public land (DNRC, n. d.). Resource managers may also complete land exchanges or purchases to improve public land continuity and access for recreation. The Montana Public Lands Access Network ("MT-PLAN") is a grant program administered by the Montana DNRC. DNRC uses the funds to compensate landowners who provide access to public lands for recreational purposes in the form of easements across their private lands. > Federal land management plans: National Forests, National Parks, BLM units, and national wildlife refuges operate under a strategic-level land management plan. The specific structures and issues vary, but in general they contain high-level goals and directives on an array of issues as required either by necessity or law (or both). Subsequent project-level decisions implement the plan at the site-specific level. > Recreational trails program grants: Montana Fish, Wildlife and Parks administers the Recreational Trails Program (RTP), a federally funded grant program that supports Montana's trails. The RTP funds represent a portion of the motor fuel excise tax collected from fuel used for off-highway recreation by snowmobiles, all-terrain vehicles, off-highway motorcycles, and off-highway light trucks. RTP applicants can include federal, tribal, state, county or city agencies, private associations, and*
+
+| > Leave No Trace Education -As mentioned above, public |
+| --- |
+| education presents an opportunity for tremendous |
+| improvement in reducing the impact of outdoor The Statewide Comprehensive Outdoor Recreation Plan (SCORP) for 2020-2024 (released recreation on Montana's ecosystems. "Leave No Trace" in 2019) outlines the following six major goals, which present significant opportunities for is one broadly recognized framework for improving managing outdoor recreation in Montana: awareness and behavior. The Leave No Trace Center |
+| for Outdoor Ethics has been immensely successful at > Promote outdoor recreation opportunities for all Montanans; promoting basic principles of low-impact recreation > Enhance public access to outdoor recreation resources and facilities; and partners with public land entities and education |
+| > Support economic vitality of communities and state; institutions to reach as broad an audience as possible |
+| > Improve quality of life through outdoor recreation experiences; (Leave No Trace, n. d.). |
+| > Block Management Areas -These areas are > Adapt outdoor recreation for a changing environment; and cooperative partnerships between private landowners > Honor Montana's outdoor legacy. and Montana FWP to help landowners manage hunting |
+| activities and improve public hunting access on Public education and outreach offer a further, and overarching, opportunity for positive growth in recreation is through public education and outreach. Specifically, education and private land ( |
+| outreach should: |
+| > Existing Strategies |
+| > Statewide Comprehensive Outdoor Recreation Plan -The SCORP for 2020-2024 |
+| outlines a vision for the state that includes six goals as well as a detailed explanation |
+| of existing programs, resources, and partnerships to help address each goal |
+| (MTFWP, 2019). |
+| > Land and Water Conservation Fund -initially passed in 1964 and permanently |
+| renewed in 2019, this is a federal program to conserve lands and improve outdoor |
+| recreation opportunities for Americans nationwide (Land and Water Conservation |
+| Fund Coalition, 2020). The Land and Water Conservation Fund provides funding that |
+| helps conserve land in national parks, wildlife refuges, national forests, and other |
+| public lands, and provides enhanced recreation infrastructure on public and private |
+| lands alike. Entities across Montana (local, municipal, state, and tribal governments, |
+| as well as non-profit organizations) are eligible to apply for the Land and Water |
+| Conservation Fund, making it one of the most broadly accessible conservation and |
+| recreation funding programs in the country. |
+
+[/TABLE]
+
+[TABLE]
+* the past 5 years, Montana counties and tribes received over $30 million in funding from Montana Disaster and Emergency Services.*
+
+| Funded community preparedness projects include: |
+| --- |
+| > Installing Communication Towers |
+| > Enhancing Emergency Operation Center Capabilities |
+| > Updating Emergency Operation Plans |
+| > Hazardous fuels reduction projects; |
+| > Purchasing generators for critical infrastructure sites; |
+| > Increasing home elevation in floodplains; |
+| > Stream restoration and bank stabilization; and |
+| > Hazard Mitigation Plan development or updates. |
+
+[/TABLE]
+
+[TABLE]
+*> Partner with the National Weather Service on the Weather Ready Nation Ambassador Program and increase program participation. > Encourage participation in the National Weather Service Storm Ready Community program. > Evaluate locations for Remote Weather Information System video cameras. > Encourage utilities to bury electric lines to improve reliability and reduce impacts. > Encourage utilities to apply for mitigation grants to install air flow spoilers on aboveground utility lines. Emergency plans address how to prepare for, respond to, mitigate, and recover from emergencies and disasters. Emergency Operations Plans, Hazardous Materials Response Plans, and Multi-Hazard Mitigation Plans are required by federal and state laws and regulations.*
+
+| Existing Strategies |
+| --- |
+| Emergency Plans |
+| 202 |
+
+[/TABLE]
+
+[TABLE]
+* The purpose of the Community Forest Program is to address the loss of private forest lands across the nation as well as declines in outdoor recreation opportunities and water supply protection, and to create community forests that provide community benefits.Montana has 129 incorporated cities and towns, with 44 designated as a "Tree City USA." The state's UCF Program administers the Tree City USA program through the Arbor Day Foundation and maintains an average of 40 Tree Cities per year. The program also recognizes three Tree Campus USAs. The largest Tree City is Billings, with 111,150 people, and the smallest is Drummond, with a population of 309. Roughly half of the state's population lives within Montana's 44 Tree Cities.Tree City USA communities must meet four standards to qualify:In 2018, Montana's Tree Cities spent a grand total of $4,117,282 on urban forestry management, or $8.43 per capita-over four times the national requirement, which is based on the number of residents in a community. These communities have made significant local investments in order to grow and tend to their valuable public assets, in the form of municipal budgets, staff commitment, and volunteers-all of which are fundamental for long-term tree care. For every dollar spent on managing Montana's urban and community forests, nearly two dollars in environmental services and increased property values are returned(McPherson, 2002).Urban forestry creates jobs in Montana's cities and towns. The "Green Industry," which includes nurseries, contractors, and urban forestry management practices, is a crucial part of the urban and community forest framework. This industry contributes significantly to local, state, and national economies. Nationally, green industry generates about $150 billion in economic activity. According to the U.S. Bureau of Labor Statistics, "Over this decade(2002)(2003)(2004)(2005)(2006)(2007)(2008)(2009)(2010)(2011)(2012), employment for both landscape architects and landscape and greenhouse workers is expected to increase by about 22%. That's faster than the average employment growth projected for all occupations." Organizations that contribute to this significant sector of the economy include the Association of Montana Turf Ornamental and Pest Professionals and the Montana Nursery and Landscape Association. Groups such as these work closely with the Montana Urban and Community Forestry Association to support industry professionals.*
+
+| Urban Forests in Montana |
+| --- |
+| 1. Have a tree board or similar group; |
+| 2. Have a tree ordinance; |
+| 3. Spend $2 per capita towards tree-related activity; and |
+| 4. Celebrate Arbor Day. |
+| Eligible land includes: |
+
+[/TABLE]
+
+[TABLE]
+*> Confederated Salish and Kootenai Tribes. (1999). Flathead Indian Reservation Forest Management Plan: An Ecosystem Approach to Tribal Forest Management. Pablo, MT: Confederated Salish and Kootenai Tribes Publication. > Confederated Salish and Kootenai Tribes. (2006). Fire on the Land: Native Peoples and Fire in the Northern Rockies. Lincoln, NE: The University of Nebraska Press. Retrieved from www.temporarypost4.org. > McNickle, D. (1993). Native American Tribalism: Indian survivals and renewals. London, England: Oxford University Press. > Ott, J. (2003). "Ruining" the rivers in the Snake country: the Hudson's Bay Company's fur desert policy. Oregon Historical Quarterly, 104, 2, 166-195. > Pyne, S. J. (2001). Year of the Fires: the story of the Great Fires of 1910. Arno, S. F, & Gruell, G. E. (1986). Douglas-fir encroachment into mountain grasslands in Southwestern Montana. Journal of Range Management, 39, 3, 272-276. > Arno, S.F. (Eds.). (1998). Fire disturbance and associated impacts on forest values: Some implications of fire exclusion. Proceedings from the Western Forest Insect Work Conference; 1998 March 2-March 5; Jackson, WY. U.S. Department of Agriculture, Forest Service, Rocky Mountain Research Station: 11-12. > Bisbing, S. M., Alaback, P. B., & DeLuca, T. H. (2010). Carbon storage in old-growth and second growth fire-dependent western larch (Larix occidentalis Nutt.) forests of the Inland Northwest, USA. Forest Ecology and Management, 259, 1041-1049. > Campbell, R. B, & Bartos, D. L. (2001). Sustaining aspen in western landscapes. USDA Forest Service Symposium Proceedings (RMSS-P-18). > Choromanska, U., & DeLuca, T. H. (2001). Prescribed fire alters the impact of wildfire on soil biochemical properties in a ponderosa pine forest. Soil Science Society of America Journal, 65, 1, 232-238. > Choromanska, U., & DeLuca, T. H. (2002). Microbial activity and nitrogen mineralization in forest mineral soils following heating: evaluation of post-fire effects. Soil Biology and Biochemistry, 34, 2, 263-271. > Davis, K. M. (1980). Fire history of a western larch/Douglas-fir forest type in northwestern Montana. Proceedings of the fire history workshop, Tucson, Arizona. > Davis, K.T., Dobrowski, S. Z., Higuera, P. E., Holden, Z. A., Veblen, T. T., Rother, M. T., … & Maneta, M. P. (2019). Wildfires and climate change push low-elevation forests across a critical climate threshold for tree regeneration. Proceedings of the National Academy of Sciences of the United States of America, 116, 13, 6193-6198. Fryer, J. L. (2018). Pinus ponderosa var. benthamiana, P. p. var. ponderosa: Ponderosa pine: Fire Effects Information System. U.S. Department of Agriculture, Forest Service, Rocky Mountain Research Station, Missoula Fire Sciences Laboratory. > Griffith, R. S. (1992). Pinus monticola: Fire Effects Information System. U.S. Research Station. > United States Department of Agriculture, Forest Service. (2014). Assessment of the Flathead National Forests (USDA part 1, part 2, and appendices A-E). Kalispell, MT: USDA Forest Service, Flathead National Forest. > United States Department of Agriculture, Forest Service. (2015). Forest Service Forest Inventory and Analysis Program (FIA Strategic Plan). Washington, DC: U.S. United States Department of Agriculture, Forest Service. (2019). Broad-level reconstruction of Mountain Pine Beetle outbreaks from 1999-2015 across the Northern Region. Missoula, MT: Forest Service Northern Region One. > Whitlock, C., Cross, W. F., Maxwell, B. D., Silverman, N., & Wade, A. A. (2017). Montana Climate Assessment: Water and climate change in Montana. Montana Institute on Ecosystems, 318. https://doi:org/10.15788/M2WW8W United States Department of Agriculture, Forest Service. (2016). Forest root diseases across the United States (General Technical Report, RMRS-GTR-342). Fort Collins, CO: Rocky Mountain Research Station.*
+
+| Wildfire Risk |
+| --- |
+| New York, > Schwinden, T. (1950). Northern Pacific land grants in Congress (Unpublished NY: Viking Penguin Publishing. master's thesis). Montana State University, Bozeman, MT. > United States Department of Agriculture, Forest Service. (1997). Old growth ponderosa pine and western larch stand structures: Influences of pre-1900 fires and fire exclusion (Research Paper INT-495). Ogden, UT: Arno, S.F., Smith, H. Y., & Krebs, M. A. Forest Collaboration & Collaborative Capacity in Montana > Montana Forest Collaboration Network Principles. (n.d.). Retrieved January, 2020 from https://montanaforestcollaboration.org/app/home/principles/ > The Wilderness Society. (2014). Collaboration at a Crossroads: The future of community-based collaboration around National Forest System lands in Montana. Retrieved from https://bloximages.chicago2.vip.townnews.com/missoulian. com/content/tncms/assets/v3/editorial/f/54/f5492ba3-2b7a-5aa8-9d75-474ab0748c11/548107da21048.pdf > > DeLuca, T. H., & Boisvenue, C. (2012). Boreal forest soil carbon: distribution, function and modeling. Forestry, 85, 2, 161-184. > DeLuca, T. H., & Sala, A. (2006). Frequent fire alters nitrogen transformations in ponderosa pine stands of the inland Northwest. Ecology, 87, 10, 2511-2522. > DeLuca, T. H., & Zouhar, K. L. (2000). Effects of selection harvest and prescribed fire on the soil nitrogen status of ponderosa pine forests. Forest Ecology and Management, 138, 263-271. > DeLuca, T. H., Pingree, M. R. A., & Gao, S. (2019). Assessing soil biological health in forest soil. Developments in Soil Science. In M. Busse, C. P. Giardina, D. M. Morris, & D. S. Page-Dumroese [Eds.] Global Change and Forest Soils, 36, 397-426. > Doran, J. W., Sarrantonio, M., & Liebig, M. (1996). Soil health and sustainability, Advances in Agronomy, 56: 2-54. > Frey, B. R., Lieffers, V. J., Hogg, E. T., & Landhausser, S. M. (2004). Predicting landscape patterns of aspen dieback: mechanisms and knowledge gaps. Canadian Journal of Forest Research, 34, 7, 1379-1390. > United States Department of Agriculture, Forest Service. (2018). Integrating urban and national forest inventory data in support of rural-urban assessments (Forestry 91: 641-649). Washington, DC: U.S. Government Printing Office. > United States Department of Agriculture, Forest Service. (2019). Forest Service Forest Inventory and Analysis Program for Montana (2019 summary). Washington, DC: U.S. Government Printing Office. > United States Department of Agriculture, Forest Service. (2019). Montana's forest resources (RMRS-RB-30, 102, 2006-2015). Fort Collins, CO: Rocky Mountain Research Station. > Insects & Disease > Agne, M.C., Beedlow, P.A., Shaw, D. C., Woodruff, D. R., Lee, E. H., Cline, S. P., & Comeleo, R. L. (2018). Interactions of predominant insects and diseases with climate change in Douglas-fir forests of western Oregon and Washington, U.S.A. Forest Ecology and Management, 409, 317-332. > Edmunds Jr., G.F. (1973). Ecology of black pine-leaf sale (Homoptera: Diaspididae). Environmental Entomology, 2(5), 765-777. > Kipfmueller, K.F., & Baker, W. L. (1998). Fires and dwarf mistletoe in a Rocky Mountain lodgepole pine ecosystem. Forest Ecology and Management, 108, 77-84. > United States Department of Agriculture, Forest Service. (2015). National Insect and Disease Forest Risk Assessment: Summary and data access (Forest Health Monitoring: National status, trends, and analysis 2014, General Technical Report SRS-209). Washington, DC: U.S. Government Printing Office. > United States Department of Agriculture, Forest Service. (2015). Aerial insect and disease detection survey (ADS) for insect and disease activity from 2000 to 2015. Retrieved from https://www.fs.usda.gov/detailfull/r1/landmanagement/ gis/?cid=stelprdb5430191&width=fu > Government Printing Office. > Invasive Species |
+
+[/TABLE]
+
+[TABLE]
+*> Abatzoglou, J. T., & Williams, A. P. (2016). Impact of anthropogenic climate change on wildfire across western US forests. Proceedings of the National Academy ofSciences, 113, 1, 11770-11775.  > Ager, A. A., Day, M. A., McHugh, C. W., Short, K., Giberston-Day, J., Finney, M. A., &  Calkin, D. E. (2014). Wildfire exposure and fuel management on Western US national forests. Journal of Environmental Management, 145, 54-70. > Ager, A. A.,Kline, J. D., & Fischer, A. P. (2015). Coupling the biophysical and social dimensions of wildfire risk to improve wildfire mitigation planning. Risk Analysis, 35, 8. > Arno, S. F.,Smith, H. Y., & Krebs, M.A. (1997). Old Growth Ponderosa Pine and Western Larch Stand Structures: Influences of Pre-1900 Fires and Fire Exclusion. USDA Forest Service Intermountain Research Station. Research Paper INT-RP-495. Retrieved from https://www.fs.fed.us/rm/pubs/rmrs_gtr292/int_rp495.pdf > Baker, W. L. (2009). Fire Ecology in Rocky Mountain Landscapes. Washington, DC: Island Press. > Blandon, K. D. (2018). Rethinking wildfires and forest watersheds. Science, 359, 6379, 1001-1002. > Calkin, D. E., Cohen, J. D., Finney, M. A., & Thompson, M. P. (2013). How risk management can prevent future wildfire disasters in the wildland-urban interface. Proceedings of the National Academy of Science, 111, 2, 746-751. > Christiansen, V. (2018). Opportunities to Improve the Wildland Fire System. Fire Continuum Conference. Talk presented at 2018 Fire Continuum Conference, Missoula, MT. > Confederated Salish and Kootenai Tribes. (2006). Fire on the Land: Native Peoples and Fire in the Northern Rockies. Lincoln, NE: The University of Nebraska Press. Retrieved from www.temporarypost4.org. > Covington, W. W., & Moore, M.M. (1994). Postsettlement changes in natural fire regimes and forest structure. Journal of Sustainable Forestry, 2, 153-181. > Finney, M. A., McHugh, C. W., & Grenfell, I. C. (2005). Stand and landscape-level effects of prescribed burning on two Arizona wildfires. Canadian Journal of Forest Research, 35, 1714-1722. > Fire Effects Information System. (2016). Fire regimes of Northern Rocky Mountain ponderosa pine communities. Retrieved from https://www.fs.fed.us/database/feis/ fire_regimes/Northern_RM_ponderosa_pine/all.html. Headwaters Economics. (2018). New Montana Homes Increase Wildfire Risks. Retrieved from https://headwaterseconomics.org/wildfire/homes-risk/new-montanahomes-increase-wildfire-risks/ > Hessburg, P. F, & Agee, J. K. (2003). An environmental narrative of Inland Northwest United States forests, 1800-2000. Forest Ecology and Management, 178, 23-59. > Holden, Z. A., Swanson, A., Luce, C. H., Jolly, W. M., Maneta, M., Oyler, J. W., … & > Smith, D. (2017). Sustainability and Wildland Fire: The Origins of Forest Service Wildland Fire Research. FS-1085. Retrieved from https://www.fs.usda.gov/sites/ default/files/fs_media/fs_document/sustainability-wildlandfire-508.pdf. > United States Department of Agriculture. (2019). Forest Resources of the United States (2020 RPS Assessment, WO-97). Washington, DC: U.S. Government Printing Office. > United States Department of the Interior, National Park Service. (2015). Wildland Fire Ecology Resource Brief. (NPS 1-2). Glacier National Park, MT. > United States Department of the Interior. (2014). National Cohesive Wildland Fire Management Strategy. (USDOI 1-101). Washington, DC: U.S. Government Printing Office. > United States Department of Agriculture, Forest Service. (2016). Living with Fire: How Social Scientists are Helping Wildland-Urban Interface Communities Reduce Fire Risk. Retrieved from https://www.fs.fed.us/rm/pubs_journals/2016/rmrs_2016_ cooke_b002.pdf. > United States Government Accountability Office. (2019). Wildland fire -Federal agencies' efforts to reduce wildland fuels and lower risk to communities and ecosystems. Retrieved from https://www.gao.gov/assets/710/703470.pdf > Vose, J. M., Peterson, D. L., Domke, G. M., Fettig, C. J., Joyce, L. A., Keane, R. E., … & Halofsky, J. E. (2018). Forests. In Impacts, Risks, and Adaptation in the United States: Fourth National Climate Assessment, Volume II [Reidmiller, D.R., C.W. Avery, D.R. Easterling, K.E. Kunkel, K.L.M. Lewis, T.K. Maycock, and B.C. Stewart (eds.)]. U.S. Bureau of Business and Economic Research. (2017). Annual Report 2017. Retrieved from http://www.bber.umt.edu/pubs/BBER/annualReport2017.pdf > Bureau of Business and Economic Research. (2017a). The Forest Products Industry in Montana, Part 3: Sales, employment and contribution to the state's economy (Forest Industry Brief No. 6). Missoula, MT: Marcille, K. C., McIver, C. P., Hayes, S. W., & Morgan, T. A. > Bureau of Business and Economic Research. (2017b). The Forest Products Industry in Montana, Part 2: Industry sectors, capacity and outputs (Forest Industry Brief No. 4). Missoula, MT: Hayes, S. W. & Morgan, T. A. > Bureau of Business and Economic Research. (2018). Montana's Forest Industry Employment and Income Trends: Declining harvest volumes and increasing productivity (Forest Industry Technical Report No. 3). Missoula, MT: Morgan, T. A., Niccolucci, M. J., & Polzin, P. E. > Bureau of Business and Economic Research. (2019). Harvest by County Tool. Retrieved January 9, 2020 from http://www.bber.umt.edu/FIR/H_Harvest.asp. > Bureau of Business and Economic Research. (2019). How the Forest Industry Changed the Bitterroot Valley. Montana Business Quarterly (MBQ). Missoula, MT: Barkey, P. M. & Morgan, T. A. > Forest Stewardship Council. (2019). Certification Auditing Procedures Adaptation for US Forest Service Audit. Retrieved from https://us.fsc.org/en-us > Hayes, S. W., & Morgan, T. (2016). Montana's forest products industry and timber harvest, 2014. Retrieved from http://bber.umt.edu/FIR/H_States.asp. > Hayes, S. W., & Morgan, T. A. (2017). The forest products industry in Montana, part 1: Timber harvest, products, and flow. University of Montana Bureau of Business and Economic Research. Missoula: MT. > Hayes, S. W., & Morgan, T. A. (2017). The forest products industry in Montana, part 2: Industry sectors, capacity and outputs. University of Montana Bureau of Business and Economic Research. Missoula: MT. > Hayes, S. W., Keegan, C. E., Morgan, T. A., & Sorenson, C. B. (2012). Results from the 2011-2012 Montana Manufacturers Survey. Bureau of Business and Economic Research. Missoula: MT. > Hirt, P. W., & Goble, D. D. (Eds.). (1999). Northwest lands, northwest peoples: readings in environmental history. Seattle, WA: University of Washington Press. > Intergovernmental Panel on Climate Change. (2007). Climate Change 2007 Mitigation Contribution of working group III to the fourth assessment report of the IPCC. Intergovernmental Panel on Climate Change. Geneva: Switzerland. > Intergovernmental Panel on Climate Chante. (2019). The 2019 Intergovernmental Panel on Climate Change Report (Land Degradation). Retrieved from https://www. ipcc.ch/site/assets/uploads/2019/08/2e.-Chapter-4_FINAL.pdf > Keegan, C. E., Morgan, T. A., Blatner, K. A., & Daniels, J. M. (2010a). Trends in lumber processing in the western United States, part 1: board foot Scribner volume per cubic foot of timber. Forest Products Journal, 60, 2, 133-139.*
+
+| > Freeborn, P. H., Jolly, W. M., & Cochrane, M. A. (2016). Impacts of changing fire weather conditions on reconstructed trends in U.S. wildland fire activity from 1979 to 2014. Journal of Geophysical Research: Biogeosciences, 121, 11, 2856-2876. doi:10.1002/2016JG003617 NCA4.2018.CH6 > Westerling, A. L., Hidalgo, H. G., Cayan, D. R., & Swetnam, T. W. (2006). Warming and earlier spring increase Western U.S. forest wildfire activity. Science, 313. > Whitlock, C., Cross, W. F., Maxwell, B. D., Silverman, N., & Wade, A. A. (2017). Montana Climate Assessment: Water and climate change in Montana. Montana Institute on Ecosystems, 318. https://doi:org/10.15788/M2WW8W > Williams, J. (2013). Exploring the onset of high-impact mega-fires through a forest land management prism. Forest Ecology and Management, 194, 4-10. Working Forests & Economies > Blattner, K. A., Keegan, C. E., Daniels, J. M., and Morgan, T.A. (2013). Trends in lumber processing in the western United States Part 3: Residue recovered vs. lumber > Global Change Research Program, Washington, DC, USA, 223-258. doi: 10.7930/ produced. Forest Products Journal, 62, 6, 429-433. > Bolle, A. W. (1970). Report of the Bitterroot National Forest. 91st Congress, 2nd Session. Address conducted at the meeting of the 91st Congress, Washington, DC. > Bureau of Business and Economic Research (2019). Annual Report 2019. Retrieved from http://www.bber.umt.edu/pubs/BBER/annualReport2019.pdf processing in the western United States, part 2: overrun and lumber recovery factors. Forest Products Journal, 60, 2, 140-143. > Montana Department of Natural Resources and Conservation. (2018). Montana Forestry Best Management Practices 2018 Monitoring Report: Executive Summary. > > Keegan, C. E., Morgan, T. A., Blatner, K. A., & Daniels, J. M. (2010b). Trends in lumber Retrieved from http://dnrc.mt.gov/divisions/forestry/docs/assistance/practices/ |
+| --- |
+| bmp-executive-summary-2018.pdf |
+| > Morgan, T. A., Niccolucci, M. J., & Polzin, P. E. (2019). What Happened to Montana's |
+| Forestry Jobs? Montana Business Quarterly, 56, 4. 10-15. |
+
+[/TABLE]
+
+[TABLE]
+* . Effects of exurban development on biodiversity: patterns, mechanisms, and research needs. EcologicalApplications, 15, 6, 1893-1905. > Keyghobadi, N. (2007). The genetic implications of habitat fragmentation for animals. Canadian Journal of Zoology, 85, 1049-1064. > McCance, E. C., Decker, D. J., Colturi, A. M., Baydack, R. K, Siemer, W. F., Curtis, P. D., & Eason, T. (2017). Importance of urban wildlife management in the United States and Canada. Mammal Study, 42, 1, 1-16. > McGarigal, K., Romme, W. H., Crist, M., & Roworth, E. (2001). Cumulative effects of roads and logging on landscape structure in the San Juan mountains, Colorado (USA). Landscape Ecology, 16, 327-349. > McKinney, M. L.(2002). Urbanization, biodiversity, and conservation.BioScience, 52,  10, 883-890.  > Miller, C. R., & Waits, L. P. (2003). The history of effective population size and genetic diversity in the Yellowstone grizzly (Ursus arctos): implications for conservation. Reed, R. A.,Johnson-Barnard, J., & Baker, W. L. (1996). Contribution of reads to forest fragmentation in the Rocky Mountains. Conservation Biology,10, 4, 1098-1106. > Smith, A. C., Fahrig, L., & Francis, C. M. (2011). Landscape size affects the relative importance of habitat amount, habitat fragmentation, and matrix quality of forest birds.Ecography, 34, 103-113.  > Swanson, F. J., Benda, L. E., Duncan, S. H., Grant, G. E., Magahan, W. F., Reid, L. M., &  Ziemer, R. R. (1987). Mass failures and other processes of sediment production in Pacific Northwest forest landscapes. In E. O. Salo & T. W. Cundy (Eds.), Streamside management: forestry and fishery interactions (9-38). Seattle, Washington: University of Washington, Institute of Forest Resources. > The Land and Water Conservation Fund. (n. d.) About LWCF. Retrieved from https:// www.lwcfcoalition.com/about-lwcf > The United States 116th Congress. (2020). Great American Outdoors Act (S.3422). Washington, D.C. > Theodore Roosevelt Conservation Partnership. (2019). Inaccessible state lands in the west. Retrieved from https://www.trcp.org/wp-content/uploads/2019/11/2019-onX-TRCP-Report_for_web.pdf. > United States Department of Agriculture, Forest Service. (1999). Roads Analysis: Informing decisions about managing the National Forest Transportation System (FS-643). Forest Service. Washington, DC: USA. > United States Department of Agriculture, Forest Service. (2001). National Forest System road management strategy: Environmental assessment and civil rights impact analysis. Forest Service. Washington, DC: USA. > United States Department of Agriculture, Forest Service. (2007). National forests on the edge: development pressure on America's national forests and grasslands (PNWGTR-728). Forest Service, Northwest Research Station. Washington, DC: USA. > United States Department of Agriculture, Forest Service. (2012). United States Fish and Wildlife Service. (2010). Final Environmental Impact Statement for the Montana Department of Natural Resources and Conservation Forested Trust Lands Habitat Conservation Plan (DOI FES 10-46). Volume 1. Arno, S.F., Parsons, D. J., & Keane, R. E. (2000). Mixed-severity fire regimes in the Northern Rocky Mountains: Consequences of fire exclusion and options for the future. In P. Brown & D. Parsons (Chairpersons), Wilderness Science in a Time of Change Conference, Symposium conducted at the meeting of Rocky Mountain Research Station, Missoula, MT. > Basile, M., Van Moorter, B. V., Herfindal, I., Martin, J., Linnell, J. D. C., Odden, J., … Gaillard, J. M. (2013). Selecting habitat to survive: The impact of road density on survival in a large carnivore. Plos One. https://doi.org/10.1371/journal.pone.0065493 > Beissinger, S. R., & Osborne, D. R. (1982). Effects of urbanization on avian community organization. Condor, 84, 75-83. > Beller, E. E., Spotswood, E. N., Robinson, A. H, Anderson, M. G., Higss, E. S., Hobbs, R. J., … & Grossinger, R. M. (2019). Building ecological resilience in highly modified landscapes. Bioscience, 69, 1, 80-92. > Belsky, A. J., Matzke, A., & Uselman, S. (1999). Survey of livestock influences on stream and riparian ecosystems in the western United States. Soil and Water Conservation, 54, 419-431. > Beschta, R. L., Bilby, R. E., Brown, G. W., Holtby, L. B., & Hofstra, T. D. (1987). Stream temperature and aquatic habitat: fisheries and forestry interactions. In Streamside Management: Forestry and Fishery Interactions, edited by E. O. Salo, and T. W. Cundy, 191-232, Institute of Forest Resources. University of Washington: Seattle. > Bradstock, R. A., Bedward, M., Gill, A. M., & Cohn, J. S. (2005). Which mosaic? A landscape ecological approach for evaluating interactions between fire regimes, habitat, and animals. Wildlife Research, 35, 2, 409-423. https://doi.org/10.1071/ WR02114 > Carroll, C., Parks, S. A., Dobrowski, S. Z., & Roberts, D. R. (2018). Climatic, topographic, and anthropogenic factors determine connectivity between current and future climate analogs in North America. Global Change Biology, 24, 5318-5331. Dixon, J. D., Oli, M. K., Wooton, M. C., Eason, T. H., McCown, J. W., & Cunningham, M. W. (2007). Genetic consequences of habitat fragmentation and loss: the case of the Florida black bear (Ursus americanus floridanus). Conservation Genetics, 8, 455-464. > Fletcher, R. J., & Hutto, R. L. (2008). Partitioning the multi-scale effects of human activity on the occurrence of riparian forest birds. Landscape Ecology, 23, 727-739. > Fukuyama, T., Onda, Y., Gomi, T., Yamamoto, K., Kondo, N., Miyata, S., … & Tsubonuma, N. (2010). Quantifying the impact of forest management practice on the runoff of the surface-derived suspended sediment using fallout radionuclides. Hydrological Processes, 24, 5, 596-607. > Gaynor, K. M., Hojnowski, C. E., Carter, N. H., & Brashares, J. S. (2018). The influence of human disturbance on wildlife nocturnality. Science, 360, 1232-1235. > Grove, A. J., Wambolt, C. L., & Frisina, M. R. (2005). Douglas-fir's effect on mountain big sagebrush wildlife habitats. Wildlife Society Bulletin, 33, 1, 74-80. > Marzluff, J. M., Millspaugh, J.J., Ceder, K. R., Oliver, D. O., Withey, J., McCarter, J. B., …Comnick, J. (2002). Modeling changes in wildlife habitat and timber revenues in response to forest management. Forest Science, 48(2), 191-202. > McBroom, M. W., Beasley, R. S., Chang, M., & Ice, G. G. (2007). Storm runoff and sediment losses from forest clearcutting and stand re-establishment with best management practices in East Texas, USA. Hydrological Processes, 22, 10. > McCance, E. C., Decker, D. J., Colturi, A. M., Baydack, R. K, Siemer, W. F., Curtis, P. D., & Eason, T. (2017). Importance of urban wildlife management in the United States and Canada. Mammal Study, 42, 1, 1-16. > McGarigal, K., Romme, W. H., Crist, M., & Roworth, E. (2001). Cumulative effects of roads and logging on landscape structure in the San Juan mountains, Colorado (USA). Landscape Ecology, 16, 327-349. > McKinney, M. L. (2002). Urbanization, biodiversity, and conservation. BioScience, 52, 10, 883-890. > Miller, C. R., & Waits, L. P. (2003). The history of effective population size and genetic diversity in the Yellowstone grizzly (Ursus arctos): implications for conservation. PNAS, 100, 7, 4334-4339. > Montana Department of Natural Resources and Conservation. (2011). Habitat Conservation Plan Final Environmental Impact Statement. DNRC doi FES 10-46. > Montana Fish, Wildlife & Parks. (2011). A Compilation of Statutes Relating to Fish, Wildlife and Parks Outdoor Recreation, and Certain Other Natural Resources of the State of Montana. (MTFWP Publication 87-1-201). Helena: MT. > Montana Fish, Wildlife & Parks. (2019). Enhancing Montana's Outdoor Recreation Legacy: 2020-2024 Statewide Comprehensive Outdoor Recreation Plan. Poff, B., Koestner, K. A., Nearly, D. G., & Henderson, V. (2011). Threats to riparian ecosystems in western North America: an analysis of existing literature. Journal of the American Water Resources Association, 1752, 1-14. Fairfax, E., & Whittle, A. (2020). Smokey the beaver: beaver-dammed riparian corridors stay green during wildfire throughout the western United States. Ecological Applications, 0(0), 2020, e02225. > Hauer, F. R., & Muhlfeld, C. C. (2010). Compelling science saves a river valley. Science, 327, 1576-1576. > Henderson, T., Ray, A. M., Penoyer, P., Rodman, A., Levandowski, M., Yoder, A., … Horner, R., May, C., Livingston, E., Blaha, D., Scoggins, M., Tims, J., & Maxted, J. (2001). Structural and Non-Structural BMPs for Protecting Streams. Engineering Foundation Conference. Talk conducted at the meeting of Engineering Foundation Conference, Colorado, United States. > Karjalainen, E., Sarjala, T., & Raitio, H. (2010). Promoting human health through forests: overview and major challenges. Environmental Health and Preventive Medicine, 15, 1-8. > Kuemmerlen, M., Schmalz, B., Cai, Q., Haase, P., Fohrer, N., & Jähnig, S. C. (2015). An attack on two fronts: predicting how changes in land use and climate affect the distribution of stream macroinvertebrates. Freshwater Biology, 60, 7, 1443-1458. McMenamin, S. K., Hadly, E. A., & Wright, C. K. (2008). Climatic change and wetland desiccation cause amphibian decline in Yellowstone National Park. Proceedings of the National Academy of Sciences of the United States of America, 104, 44, 16988-16993. https://doi.org/10.1073/pnas.0809090105 > Montana Department of Natural Resources and Conservation. (2014). Clark Fork & Kootenai river basins water plan 2014. Retrieved from http://dnrc.mt.gov/divisions/ water/management/docs/state-water-plan/clarkfork_kootenai_basins/river-basinplan/clark_fork_kootenai_basin_report_final.pdf. Rieman, B. E., Lee, D. C., Thurow, R. F., Hessburg, P. F., & Sedell, J. R. (2000). Toward an integrated classification of ecosystems: defining opportunities for managing fish and forest health. Environmental Management, 25, 4, 425-444. > Legislative Environmental Policy Office. (2015). A Guide to Montana Water Quality Regulations. Helena, MT: J. Mohr. > Montana Watercourse at the Montana Water Center, Montana State University. (2014). Guide to Montana Water Management -Who Does What With Water Resources? Montana Water Center. Bozeman: MT. > Tecle, A., & Neary, D. (2015). Water quality impacts of forest fires. Journal of Pollution Effects & Control, 3, 2. > United States Department of Agriculture, Forest Service. (2010). Cumulative watershed effects of fuel management in the western United States (Gen. Tech Report RMRS-GTR-231). Rocky Mountain Research Station. Fort Collins, CO. > United States Department of Agriculture, Natural Resources Conservation Science. (2019). Web Soil Survey. Retrieved from http://websoilsurvey.nrcs.usda.gov > Writer, J. H., & Murphy, S. F. (2012). Wildfire effects on source-water quality -lessons from Fourmile Canyon fire, Colorado, and implications for drinking-water treatment. Retrieved from https://pubs.usgs.gov/fs/2012/3095/FS12-3095.pdf Recreation Uses of Forested Lands > Buckley, R. (1991). Environmental impacts of recreation in parks and reserves. Perspectives in Environmental Management, 243-258. > Grau, K., Nickerson, N., Sage, J., & Schultz, M. (2018). Resident Travel in Montana. Institute for Tourism and Recreation Research, 369. > Headwaters Economics. (2018). Outdoor Recreation and Montana's Economy. Montana State Parks. (2018) Montana parks in focus: draft recommendations for public comment, October 2018. Retrieved from http://stateparks.mt.gov > Montana Sate Parks. (2016). Montana State Parks: Shoulder Season Visitation Boosts Montana State Parks to Record Breaking 2015. Retrieved from http:// stateparks.mt.gov/news/newsPage.html?id=nr_0917.html > Nickerson, N., Schultz, M., & Grau, K. (2019). Montana Trends: Travel and Recreation. Institute for Tourism and Recreation Research Publications, 386. > Rasker, R. (2019). The Economics of Outdoor Recreation. Kendall, L. (2017). The Worst Drought We've Ever Had: Farmers, Ranchers Across the State Struggle with Historic Dry Spell, September 3, 2017. United States Department of Homeland Security, Federal Emergency Management Agency. (n.d.). Flood After Fire. Retrieved from https://www.fema.gov/flood-afterfire. > Whitlock, C., Cross, W. F., Maxwell, B. D., Silverman, N., & Wade, A. A. (2017). Montana Climate Assessment: Water and climate change in Montana. Montana Institute on Ecosystems, 318. https://doi:org/10.15788/M2WW8W Carreiro, M., Song, Y. C., & Wu, J.(Eds.). (2008). Ecology, Planning, and Management of Urban Forests. New York, NY: Springer Science + Business Media LLC. > Chen, L., Liu, C., Zhang, L., Zou, R., & Zhang, Z. (2017). Variation in tree species ability to capture and retain airborne fine particulate matter (PM2.5). Scientific Reports, 7, 3206. > Clark, J. R., Matheny, N., Cross, G., & Wake, V. (1997). A Model of Urban Forest Sustainability. Journal of Arboriculture, 23, 1, 17-30. > Dillaha, T. A., Sherrard, J. H., & Lee, D. (1986). Long-term effectiveness and maintenance of vegetative filter strips. Virginia Water Resources Research Center (VPI-VWRRC-BULL 154). Blacksberg, VA. > Don't Move Firewood. (2019). Retrieved January 29, 2020 from https://www. dontmovefirewood.org > Donovan, G. H., Butry, D. T., Michael, Y. L., Prestemon, J. P., Liebhold, A. M, Gatziolis, -forest-resource-analysis-2017.pdf > Montana Department of Natural Resources. (2019). Urban and Community Forestry Program. Retrieved on January 28, 2020 from http://dnrc.mt.gov/divisions/forestry/ forestry-assistance/urban-and-community-forestry > Montana Natural Heritage Program. (n.d.). Green ash (Fraxinus pennsylvanica): Predicted suitable habitat modeling. Retrieved from http://mtnhp.org/models/files/ Green_Ash_PDOLE040D0_20181218.pdf > Nowak, D. J., & Dwyer, J. F. (2010). Understanding the benefits and costs of urban forest ecosystems. In J. E. Kuser (Eds.), Urban and Community Forestry in the Northeast. New Jersey, New Brunswick, USA: Springer, Dordrecht. > Ribaudo, M. O. (1986). Regional estimates of off-site damages from soil erosion. Conservation Foundation. Washington, DC. > Ulrich, R. S. (1986). Human Responses to Vegetation and Landscapes. Landscape and Urban Planning, 13, 29-44. > United States Census Bureau. (2010). QuickFacts: Montana. Retrieved from https:// www.census.gov/quickfacts/MT > United States Department of Agriculture, Forest Service. (2010). Sustaining America's urban trees and forests: a Forests on the Edge report (Gen. Tech. Rep. NRS-62.). Northern Research Station. Newtown Square: PA. > United States Department of Agriculture, National Agroforestry Center. (n.d.) Riparian Forest Buffers. Retrieved on January 16, 2020 from https://www.fs.usda.gov/nac/ practices/riparian-forest-buffers.php > United States Department of Agriculture, National Urban and Community Forestry Advisory Committee. (2005). Economic impacts of the green industry in the United States. Washington, DC: Dr. R. Hall, Dr. A. W. Hodges, & Dr. J. J. Haydu.*
+
+| PNAS, 100, 7, 4334-4339. > Montana Department of Natural Resources and Conservation. (2006). Reciprocal access and easement exchange policy. Retrieved from http://dnrc. mt.gov/divisions/trust/docs/real-estate-management/rights-of-way-docs/rw-recipexchangeprocedures-reduced.pdf > Montana Department of Natural Resources and Conservation. (n. d.) MT-PLAN. Retrieved from http://dnrc.mt.gov/divisions/trust/mt-plan > Montana State Senate. (2019). An act allowing the issuance of public access land agreements; creating the private land/public wildlife advisory committee and assigning duties (SB No. 341). Helena, Montana: Montana State Printing Office. > Nitschke, C. R. (2008). The cumulative effects of resource development on biodiversity and ecological integrity in the Peace Moberly region of Northeast British Columbia, Canada. Biodiversity and Conservation, 17, 1715-1740. > Pelletier, A., Obbard, M. E., Harnden, M., McConnell, S., Howe, E. J., Burrows, F. G., … & Kyle, C. J. (2017). Determining causes of genetic isolation in a large carnivore (Ursus americanus) population to direct contemporary conservation measures. PLoS ONE, 12, 2, 1-23. > National Best Management Practices for Water Quality Management on national Forest System Lands, Volume 1: National Core BMP Technical Guide. Forest Service. Washington, DC: USA > United States Department of Agriculture, Forest Service. (2017). Assessment: Forest Plan Revision. Final land status and ownership, land uses, and access patterns report (PRD532980). Custer Gallatin National Forest. Montana: USA. > United States Environmental Protection Agency. (1991). Monitoring guidelines to evaluate the effect of forestry activities on streams in the Pacific Northwest and Alaska (EPA 910 9-91-001). MacDonald, L. H., Smart, A. W., & Wissmar, R. C. Seattle, Washington: Government Printing Office. > Wildlife > Adhikari, A., & Hansen, A. J. (2018). Land use change and habitat fragmentation of wildland ecosystems of the North Central United States. Landscape and Urban Planning, 177, 196-216. > > Coates, P. S., Prochazka, B. G., Ricca, M. A., Gustafson, K. B., Ziegler, P., & Casazza, M. L. (2017). Pinyon and juniper encroachment into sagebrush ecosystems impacts distribution and survival of Greater Sage-Grouse. Rangeland Ecology & Management, 70, 25-38. > Coppes, J., Nopp-Mayr, U., Grunschachner-Berger, V., Storch, I., Suchant, R., & Braunisch, V. (2018). Habitat suitability modulates the response of wildlife to human recreation. Biological Conservation, 222, 56-64. > > Montana Fish, Wildlife, & Parks. (2015). State Wildlife Action Plan. Results -Terrestrial Regional Focal Areas. Retrieved from http://fwp.mt.gov/fishAndWildlife/ conservationInAction/swap2015Plan.html > Montana Natural Heritage Program. (2010). Field guide to Montana's wetland and riparian ecological systems. Retrieved from http://fieldguide.mt.gov/displayES. aspx?id=8 > Montana Natural Heritage Program. (2019). State species of concern. Retrieved December 20, 2019, from http://mtnhp.org/SpeciesOfConcern/?AorP=a > Mortelliti, A., Fagiani, S., Battisti, C., Capizzi, D, & Boitani, L. (2010). Independent effects of habitat loss, habitat fragmentation and structural connectivity of forest-dependent birds. Diversity and Distributions, 16, 941-951. > Nitschke, C. R. (2008). The cumulative effects of resource development on biodiversity and ecological integrity in the Peace Moberly region of Northeast British Columbia, Canada. Biodiversity and Conservation, 17, 1715-1740. > Pelletier, A., Obbard, M. E., Harnden, M., McConnell, S., Howe, E. J., Burrows, F. G., … & Kyle, C. J. (2017). Determining causes of genetic isolation in a large carnivore (Ursus americanus) population to direct contemporary conservation measures. PLoS ONE, 12, 2, 1-23. > Coleman, A. (2017). Mine-tailings reclamation project improves water quality in Yellowstone's Soda Butte Creek. Park Science, 34, 9-21. > Herb, W.R., & Stefan, H. G. (2011). Modified equilibrium temperature models for cold-water streams. Water Resources Research, 47, 6. https://doi. org/10.1029/2010WR009586 > Hjältén, J., Nilsson, C., Jorgensen, D., & Bell, D. (2016). Forest-stream links, anthropogenic stressors, and climate change: implications for restoration planning. BioScience, 66, 646-654. > > Leonard, P. B., Baldwin, R. F., & Hanks, R. D. (2017). Landscape-scale conservation design across biotic realms: sequential integration of aquatic and terrestrial landscapes. Scientific Reports, 7, 14556. > Likens, G. E., Bormann, F. H., Johnson, N. M., Fisher, D. W., & Pierce, R. S. (1970). Effects of forest cutting and herbicide treatment on nutrient budgets in the Hubbard Brook watershed ecosystem. Ecological Monographs, 40, 1, 23-47. > Mahlum, S., Eby, L. A., Young, M. K., Clancy, C. G, & Jakober, M. (2011). Effects of wildfire on stream temperatures in the Bitterroot River Basin, Montana. International Journal of Wildland Fire, 20, 2, 240-247. > Marcus, W. A., Marston, R. A., Colvard Jr., C. R., & Gray, R. D. (2002). Mapping the spatial and temporal distributions of woody debris in streams of the Greater Yellowstone Ecosystem, USA. Geomorphology, 44, 3-4, 323-335. > Marston, R. (1994). River entrenchment in small mountain valleys of the Western USA: influence of beaver, grazing, and clearcut logging. Revue de Geographie de Lyon, 69, 1, 11-15. > McCullough, M. C., Eisenhauer, D. E., Dosskey, M. G., & Admiraal, D. M. (2005). Modeling beaver dam effects on ecohydraulics and sedimentation in an agricultural watershed. American Society of Agricultural and Biological Engineers. https:// doi.10.13031/2013.23223. > Montana Department of Natural Resources and Conservation. (2014). Lower Missouri river basin water plan 2014. Retrieved from http://dnrc.mt.gov/divisions/ water/management/docs/state-water-plan/lower-missouri/river-basin-plan/lower_ missouri_river_basin_report_final.pdf. > Montana Department of Natural Resources and Conservation. (2014). Upper Missouri basin water plan 2014. Retrieved from http://dnrc.mt.gov/divisions/ water/management/docs/state-water-plan/upper-missouri/river-basin-plan/upper_ missouri_basin_report_final.pdf > Montana Department of Natural Resources and Conservation. (2014).Yellowstone river basin water plan 2014. Retrieved from http://dnrc.mt.gov/divisions/water/ management/docs/state-water-plan/yellowstone/river-basin-plan/yellowstone_river_ basin_report_final.pdf. > Montana Department of Natural Resources and Conservation. (2015). Montana State Water Plan: A watershed approach to the 2015 Montana state water plan. Retrieved from http://dnrc.mt.gov/divisions/water/management/docs/state-water-plan/2015_ mt_water_plan.pdf. > Montana Department of Natural Resources and Conservation. (n. d.). Regional river basin information. Retrieved from http://dnrc.mt.gov/divisions/water/management/ regional-river-basin-information > Muhlfeld, C. C., Kovach, R. P., Jones, L. A., Al-Chokhachy, R., Boyer, M. C., Leary, R. F., … & Allendorf, F. W. (2014). Invasive hybridization in a threatened species is accelerated by climate change. Nature Climate Change, 4, 620-624. > National Oceanographic and Atmospheric Administration. (n. d.) The Water Cycle. Retrieved from https://www.noaa.gov/education/resource-collections/freshwater/ water-cycle > Noss, R. F., Carroll, C., Vance-Borland, K., & Wuerthner, G. (2002). A multicriteria assessment of the irreplaceability and vulnerability of sites in the Greater Yellowstone Ecosystem. Conservation Biology, 16, 895-908. > Poff, B., Koestner, K. A., Nearly, D. G., & Henderson, V. (2011). Threats to riparian ecosystems in western North America: an analysis of existing literature. Journal of the American Water Resources Association, 1752, 1-14. > Poff, N. L., Brown, C. M., Grantham, T. E., Matthews, J. H., Palmer, M. A., Spence, C. M., ...Baeza, A. (2016). Sustainable water management under future uncertainty with eco-engineering decision scaling. Nature Climate Change, 6, 25-34. > Retrieved January 12, 2019 from https://www.headwaterseconomics.org > Leave No Trace. (n. d.). The 7 Principles. Retrieved from https://lnt.org/why/7-principles/ > Montana Biennium. (2019). 2019 Biennium Executive Budget. Retrieved from https:// budget.mt.gov/Budgets/2019_Budget > Montana Department of Commerce. (2013). Montana's Tourism and Recreation Industry Fast Facts. Retrieved from http://opportunitylinkmt.org/wp-content/ uploads/2015/07/TourismFASTFACTS_May13.pdf > Montana Department of Natural Resources and Conservation. (n.d.). Recreational Use of State Land. Retrieved January, 2020 from http://dnrc.mt.gov/divisions/trust/ recreational-use-of-state-land > Montana Fish, Wildlife & Parks. (2019). Enhancing Montana's Outdoor Recreation Legacy: 2020-2024 Statewide Comprehensive Outdoor Recreation Plan. Retrieved from https://files.cfc.umt.edu/humandimensionslab/SCORP_2020-2024.pdf > Montana Fish, Wildlife & Parks. (n.d.). Block Management. Retrieved January, 2020 from http://fwp.mt.gov/hunting/hunterAccess/blockman/ > Montana Outdoor Heritage Project. (2019). Public Engagement Survey Results. Retrieved from https://montanaheritageproject.com/wp-content/uploads/2019/10/ MOHP-Report-Final.pdf Presentation. Retrieved from https://headwaterseconomics.org/wp-content/ uploads/Rasker-Economics-of-Recreation-3-11-19.pdf > The Land and Water Conservation Fund Coalition. (2020). About LWCF. Retrieved from https://www.lwcfcoalition.com/about-lwcf Urban & Community Forestry > Blum, J. (2016). Urban Forests: Ecosystem services and management. Waretown, NJ: Apple Academic Press. Synthesis. Washington DC: Island Press. > Headwaters Economics > United State Department of Agriculture, Forest Service. (2011). Draft Helena-Lewis & Clark and Beaverhead-Deerlodge National Forest Bark Beetle Prioritization and Implementation Strategy. > Vincent, C. H., Hanson, L., & Argueta, L. (2017). Federal Land Ownership: Overview and Data. Congressional Research Service, 1-25. Retrieved January 7, 2020 from https://fas.org/sgp/crs/misc/R42346.pdf Community Readiness & Capacity Retrieved from https:// > D., & Mao, M. Y. (2013). The relationship between trees and human health: evidence www.bozemandailychronicle.com/news/agriculture/the-worst-drought-weve-ever-from the spread of the Emerald Ash Borer. American Journal of Preventative had-farmers-ranchers-across-the-state-struggle-with-historic-dry/article_fc65ca8b-ef2b-5781-8671-ca2b9dd823e1.html. > Lutey, T. (2017b). Nearly all of Montana is in Drought. Retrieved from https:// Medicine, 44, 2, 139-145. > United States Fish & Wildlife Service. (2014). Lee Metcalf National Wildlife Refuge: > Donovan, G., & Prestemon, J. (2012). The effect of trees on crime in Portland, Bitterroot River and Riparian Forest. Retrieved January 16, 2020 from https://www. Oregon. Environment and Behavior, 44, 1, 3-30. fws.gov/refuge/lee_metcalf/wildlife_and_habitat/Bitterroot_River_and_Riparian_ billingsgazette.com/news/state-and-regional/montana/nearly-all-of-montana-is-in-> Environmental Protection Agency. (2019). Using Trees and Vegetation to Reduce Forest.html drought/article_28b35ca0-3473-5fd5-bc15-22d0c82d8363.html. > Montana Department of Military Affairs, Disaster and Emergency Services Division. Heat Islands. Retrieved on January 28, 2020 from https://www.epa.gov/heat-islands/ > Whitlock, C., Cross, W. F., Maxwell, B. D., Silverman, N., & Wade, A. A. (2017). Montana using-trees-and-vegetation-reduce-heat-islands Climate Assessment: Water and climate change in Montana. Montana Institute on (2018) Update State of Montana Multi-Hazard Mitigation Plan Statewide Hazard > Klapproth, J., & Johnson, J. (2009). Understanding the science behind riparian forest Ecosystems, 318. https://doi:org/10.15788/M2WW8W Assessment. Retrieved from https://drought.unl.edu/archive/Plans/GeneralHazard/ State/MT_2018.pdf. buffers: Effects on water quality. Blacksburg, VA: Virginia Cooperative Extension > Wolf, K. L, Krueger, S., & Flora, K. (2014). Healing and Therapy -A Literature Review. publication. Green Cities: Good Health. School of Environmental and Forest Resources, College of > Montana Department of Natural Resources and Conservation. (1995). Drought > Kuo, M. (2015). How might contact with nature promote human health? Promising the Environment, University of Washington. Response Plan. Retrieved from https://drought.unl.edu/archive/plans/Drought/state/ mechanisms and a promising central pathway. Frontiers in Psychology, 6, 1-8. > Wolf, K. L. (2007). Trees and youth in the city: Research on urban forest stewardship MT_1995.pdf. > Montana Historical Society. (2004). Montana: Stories of the Land -Chapter 13 -Homesteading this Dry Land, 1905-1920. Retrieved from https://mhs.mt.gov/ & positive youth development. Sustaining American's Forests: Proceedings of the > Lesica, P., & Marlow, C. B. (2011). Values and management of Montana's Green Ash Society of American Foresters National Convention. Bethesda, MD. Society of draws. Montana State University. Retrieved from http://www.msuextension.org/ publications/AgandNaturalResources/MT201114AG.pdf American Foresters. education/StoriesOfTheLand/Part3/Chapter13. > National Drought Mitigation Center. (2018). Drought in Montana. Retrieved from > Zettlemoyer, M., Schultheis, E., & Lau, J. (2019). Phenology in a warming world: > McPherson, E. G. (2002). Urban Forestry: The Final Frontier? Journal of Forestry, 20-differences between native and non-native plant species. Ecology Letters, 22, 8, 25. > Millennium Ecosystem Assessment. (2005). Ecosystems and Human Well-being: 1253-1263. |
+| --- |
+
+[/TABLE]
+
+[TABLE:  These conservation accomplishments encompass a broad sweep of working forest values including wood product materials; wildlife habitat for game and species of concern including federally-listed species; publicly-accessible recreation; watershed values for municipalities, aquatic habitats, and agricultural irrigation systems; cultural and aesthetic values; carbon sequestration; and a host of other ecological and societal values that are integral to these landscapes. The conservation niche and ongoing pursuit of Forest Legacy in Montana has largely been defined by these forest values.]
+
+[TABLE]
+* Program was established in 1990  through an amendment to the Cooperative Forestry Assistance Act of 1978 (16 USC 2101 et seq.) to promote the longterm integrity of forestlands. This amendment recognized that:*
+
+| > The majority of the Nation's forestlands are in private ownership; |
+| --- |
+| > Private landowners face increased pressure to convert their forestlands to other |
+| uses; |
+| > Private lands provide a wide variety of products and services from working forests, |
+| including timber and other forest commodities, fish and wildlife habitat, watershed |
+| function, water supply and quality, aesthetic qualities, historical and cultural |
+| resources, and recreational opportunities; and |
+| > Good stewardship of privately held forestlands requires a long-term commitment |
+| that can be fostered through a partnership of Federal, State, local government, and |
+| individual efforts. |
+
+[/TABLE]
+
+[TABLE]
+* The AON and the Forest Action Plan will guide forest management and conservation in Montana and are required prerequisites for the USFS State and Private Forestry programs. The AON and Forest Action Plan documents provide both unique and overlapping information and functions but are intended to be fully complementary for advancing forest health, addressing wildland fire issues, and promoting conservation of forest values.*
+
+| The Montana Department |
+| --- |
+| of Natural Resources and |
+| Conservation is responsible for |
+| maintaining and updating the |
+| state's Forest Action Plan to |
+| conserve working forestlands, |
+| increase forests' resiliency to fire |
+| and disease, and enhance public |
+| benefits from forests throughout |
+| the state. Governor Bullock |
+| established a diverse collaborative |
+| in May 2019, known as the Forest |
+| Action Advisory Council, to assist |
+| with developing the Forest Action |
+| Plan. The Council also has served |
+| as a sounding board and reviewer |
+| for this Assessment of Need. |
+
+[/TABLE]
+
+[TABLE]
+* 1. Conserve Montana's wildlife populations and natural communities via management strategies that keep them intact and viable for present and future generations; maintain wildlife population levels that sustain or enhance current recreational opportunities; and maintain diverse geographic distribution of native wildlife populations and their habitats. 2. Conserve Montana's land and water resources in adequate quantity and quality to sustain ecological systems. 3. Implement habitat management systems that are compatible with and minimize conflicts between wildlife values and traditional agricultural, economic and cultural values. Habitat Montana will enhance Montana's quality of life and be compatible with the conservation of soil, water and existing biological communities.An updated set of guidelines for implementing Forest Legacy was published in 2017. This update provides a framework within which all agencies and partners are intended to comply. The guidelines provide information on project eligibility and selection processes, project funding requirements, and acquisition, reporting, and ongoing stewardship requirements. The guidelines specify required information for Assessments of Need, as contained herein. Future updates to the guidelines will be incorporated into FWP's implementation of Forest Legacy.*
+
+| Forest Legacy Program Implementation |
+| --- |
+| Guidelines |
+| State Wildlife Action Plan 2015 |
+| Originally completed in 2005 as the Comprehensive |
+| Fish and Wildlife Conservation Strategy and then |
+| updated in 2015 as Montana's current State Wildlife |
+| Action Plan, this document identifies community |
+| types, focal areas, and species in Montana that |
+| warrant special conservation attention. The plan is |
+| not meant to be just an FWP plan but is intended to |
+| guide conservation throughout the state. 128 fish and |
+| wildlife Species of Greatest Conservation Need are |
+| identified in the document, along with habitat priorities |
+| that are identified as Community Types of Greatest |
+| Conservation Need. |
+| 1. Conserve and enhance land, water, and wildlife |
+| 2. Contribute to hunting and fishing opportunities |
+| 3. Provide incentives for habitat conservation on private land |
+| 4. Contribute to non-hunting recreation |
+| 5. Protect open space and scenic areas |
+| 6. Promote habitat-friendly agriculture |
+| 7. Maintain the local tax base, through payments in lieu of taxes for real estate, while |
+| demonstrating that productive wildlife habitat is compatible with agriculture and |
+| other land uses. (Note: MCA 87-1-603 requires FWP to pay "a sum equal to the |
+| amount of taxes that would be payable on county assessment of the property if it |
+| was taxable to a private citizen.") |
+
+[/TABLE]
+
+[TABLE: > Montana Action Plan for Secretarial Order 3362 -In February 2018, the Department of Interior Secretary, Ryan Zinke, signed SO3362 (Order) to improve habitat quality and western big game winter range and migration corridors for pronghorn, elk, and mule deer. Various federal funding sources have been allocated for implementing this Order. FWP has identified 5 priority areas for advancing conservation measures and conducting research to better understand ungulate movements. Data and priorities resulting from this Order will help clarify ungulate movement patterns and linkages. Forested habitats that provide linkages are priorities for conservation.> Memorandum of Agreement for Coordination on Wildlife and Transportation IssuesBetween Montana Department of Transportation and Montana Fish, Wildlife and Parks -As mentioned earlier, FWP and partners are investing in research and conservation pertaining to terrestrial wildlife movement patterns, geographic corridors, and barriers. This Agreement between two state agencies emphasizes a commitment for collaboration and planning to assist with this effort, making highways safer for travelling humans and wildlife. A key aspect of conserving wildlife movement linkages is working collaboratively across all ownerships and rights-ofway, making Montana Department of Transportation an important partner in these endeavors.]
+
+[TABLE]
+* This italicized section was written by the Séliš-Qli̓ spé Culture Committee, Confederated Salish & Kootenai Tribes, and by tribal representatives, as selected excerpts during drafting of the Montana Forest Action Plan (DNRC 2020).*
+
+| The state of Montana is now 131 years old. Indigenous peoples have lived in our valleys, |
+| --- |
+| mountains, prairies-and woodlands-from at least the end of the last ice age, over 12,000 |
+| years ago. Over that period, native nations developed broad understandings of forest |
+| ecosystems and what it means to live with them in healthy and sustainable ways. |
+| Eight federally recognized tribal nations, seven reservations, 12 major tribes, and speakers |
+| of 12 Indigenous languages and dialects are present within the state of Montana. Each has |
+| a distinct culture and history, and each can provide unique insights into the diverse forest |
+| types and their management. In all of Montana's disparate tribal cultures and histories there |
+| are certain shared aspects, many of which bear directly upon efforts to reassess forest |
+| management. |
+
+[/TABLE]
+
+[TABLE:  2 billion annually during 2017 and 2018, with Gallatin County receiving the highest expenditures in the state, $814M (Institute forTourism and Recreation  Research 2019). This area also is popular for hunting and fishing by residents and out of state visitors. For example, expenditures of big game hunters in 2016 was estimated at $83 million within this FLA(FWP 2018). Southwest Montana's watersheds, some of which originate in Yellowstone National Park, are the start of the Missouri River system and therefore very important to local and interstate uses extending to the Gulf of Mexico. Precipitation in these forests generally ranges from 20 to 50 inches annually (USGS 2004). These watersheds support extensive agricultural irrigation, power generation, and public water supplies(USGS 2004). These waters also support extensive aquatic ecosystems and water-based recreation.Bozeman and the associated Gallatin Valley make up the largest community in southwest Montana. The Bozeman International Airport is the largest airport in the state, with direct flights to 16 different cities (Bureau of Business and Economic Research 2019). The area has been recognized as the number one fastest growing "micropolitan city" in the US (Bureau of Business and Economic Research 2019). Between 2010 and 2018, counties within this FLA have experienced growth ranging from 1.7 to 27.8% (US Census Bureau 2019). Gallatin (27.8%), Madison (11.8%) and Park (6.2%) counties experienced the greatest growth. Expansion of housing and business developments has occurred across this FLA, making construction one of the largest local industries. In fact, from 1990-2018, 15% of new houses built in Montana were constructed in Gallatin County, the number one county in Montana for home construction (Headwaters Economics 2020). Housing developments extend from intermountain valleys upslope to low and mid-elevation forests. Depending on location, these kinds of development can directly impact important habitats and other forest values.]
+[TABLE:  post/pole, and pulp/chip operations). Other industries associated with forestlands across the Central Montana FLA include outdoor recreation and livestock grazing. Hard rock mining activities are scattered across the southern portion of the FLA (Montana Tech 2012).Annual expenditures of non-resident tourism and recreation visitors were estimated to average $427 million during 2017 and 2018 across this FLA (Institute for Tourism and Recreation Research 2019). Hunting and fishing are also popular; big game hunting within this portion of central Montana generated an estimated $76 million in 2016(FWP 2018).Outside of Glacier National Park, precipitation in these forests generally ranges from 20 to 50 inches annually(USGS 2004). The Missouri River and major tributaries are a critical source of water for agricultural irrigation scattered across this FLA(USGS 2004). Over 20 active public surface water systems support 11 different municipalities, including the two largest communities in this FLA, Great Falls and Helena (MT Department of Environmental Quality 2018).The forest habitats in the Central Montana FLA support approximately 128 animal and vascular plant species of concern (MT Natural Heritage Program 2020) and are also highly valued for big game and forest grouse hunting. Some of the undeveloped lands (including forests) across this FLA are considered critical linkages that includes connecting the Yellowstone ecosystem with the northern Rocky Mountains, particularly for large carnivores including grizzly bears, wolverine, and Canada lynx. Potential threats to these linkages include transportation corridors or other such barriers and housing developments, which can result in animal-human conflicts and the subsequent demise of affected animals. Similar to the other FLAs, some mountain foothill grass or shrub habitats and associated forests are critical habitats for wintering ungulates and are also potential sites for human development.Human population trends between 2010 and 2019 (US Census Bureau 2019) vary across this FLA from declining populations in the eastern counties (Fergus -4.7%, Judith Basin -3.1%, Golden Valley -7.1%) to considerable growth in more western counties (Lewis and Clark 9.5%, Broadwater County 11.2%). Housing developments have expanded mostly in association with communities, including Helena, Great Falls, and Townsend, extending from valley bottoms into forested areas.]
+
+[TABLE]
+*> American Wildlands. (2008). American wildlands priority linkage assessment. Retrieved from https://www.sciencebase.gov/catalog/ item/54949828e4b023f70296f7d6 > Bureau of Business and Economic Research: Annual Report 2017. (2017). Retrieved from http://www.bber.umt.edu/pubs/BBER/annualReport2017.pdf > Bureau of Business and Economic Research: Annual Report 2019. (2019). Retrieved from http://www.bber.umt.edu/pubs/BBER/annualReport2019.pdf > Bureau of Business and Economic Research (BBER). (2019). Harvest by County Tool. Retrieved from http://www.bber.umt.edu/FIR/H_Harvest.asp Accessed January 9, 2020. > Halofsky, Jessica E.; Peterson, David L.; Dante-Wood, S. Karen; Hoang, Linh; Ho, Joanne J.; Joyce, Linda A., eds. 2018. Climate change vulnerability and adaptation in the Northern Rocky Mountains. Gen. Tech. Rep. RMRSGTR-374. Fort Collins, CO: U.S. Department of Agriculture, Forest Service, Rocky Mountain Research Station. Part 1. pp. 1-273. https://www.fs.fed.us/rm/pubs_series/rmrs/gtr/rmrs_gtr374_1.pdf > Hayes, S. W. and Morgan, T. (2016). Montana's forest products industry and timber harvest, 2014. Retrieved from http://bber.umt.edu/FIR/H_States.asp > Hayes, S.W.; Townsend, L.; Dillon, T; Morgan, T.A. [2020] In review. Montana's forest products industry and timber harvest, 2018. Resour. Bull. RMRS-RB-X. Fort Collins, CO: U.S. Department of Agriculture, Forest Service, Rocky Mountain Research Station. > Headwaters Economics. (2019). Recreation counties attracting new residents and higher incomes. Headwaters Economics, January 2019. Retrieved from https:// headwaterseconomics.org/wp-content/uploads/recreation-counties-attract-report. pdf > Headwaters Economics. (2020). Montana losing open space, April 2018 (July 2020 update). Retrieved from https://headwaterseconomics.org/economic-development/ montana-home-construction/ Accessed July 31, 2020.*
+
+| Montana |
+| --- |
+
+[/TABLE]
+
+[TABLE]
+*Forest Legacy Program Project Application and Evaluation FY20XXThe Goal of the Montana Forest Legacy Program is to conserve and enhance land, water, wildlife, and timber resources while providing for the continued working of Montana's forestlands and maintenance of natural and public values. The focus of the program is environmentally important forest areas that meet eligibility criteria and are threatened by conversion to non-forest uses.Please submit Forest Legacy projects using the following template. Please limit narrative (maps or images may be separate) to a maximum of 12 pages, minimum size 12 font, 1 inch margins, 8.5"X11" page. Not following these dimensions may result in reduced scoring. Template follows:*
+
+| 1) TRACT NAME: |
+| --- |
+| 2) APPLICANT NAME, ADDRESS if different from landowner. |
+| 3) LANDOWNER INFORMATION: |
+| Name: _________________________ |
+| Address: _______________________ |
+| City, State, Zip: __________________ |
+| 4) TRACT LOCATION (town, township, county) |
+| ________________________________________________ |
+| 5) CONGRESSIONAL DISTRICT: At Large |
+| 6) STATE: Montana |
+| 7) STATE CONTACT PERSON: |
+| Forest Legacy Program Coordinator |
+| Montana Fish, Wildlife & Parks |
+| 1420 East 6th Avenue |
+| P.O. Box 200701 |
+| Helena, MT 59620-0701 |
+| 8) TOTAL ACRES: __________ |
+| 9) ESTIMATED TOTAL VALUE: $ ________ |
+| 10) FEDERAL FOREST LEGACY FUNDS REQUESTED: $ __________ |
+| 11) PROJECT IS FOR: FEE OR CONSERVATION EASEMENT, please specify |
+| 12) ONE-LINE DESCRIPTION OF TRACT: |
+
+[/TABLE]
+
+Photo courtesy of USDA Forest Service
+Eurasian milfoil (above), New Zeland mud snail (top right), and flowering rush (right) are all aquatic invasive species
+Timber-processing capacity, the amount of timber that mills could use annually, is not being fully utilized at most Montana mills (BBER, 2017b; USDA FS, 2020). Sawmill capacity, as of January 2020, is approximately 419 MMBF. This is a reduction of approximately 23% from 2014, primarily due to mill closures(BBER, 2017b). As of December 2019, Montana mills were running at 60-65% capacity. Nearly two-thirds of the state's large sawmills and small wood products facilities have closed since 1990
+(Morgan et al., 2019)
+.
+Riparian habitat near West Yellowstone / Photo courtesy of USDA Forest Service
+Deadman's Basin Reservoir / Photo byRoger Peterson & courtesy of USDA Forest Service
+
+## Acknowledgements
+
+## Data & Program Gaps
+
+The DNRC Wood Products Program leverages data from several sources and conducts data and independent market research.
+
+## Water Use
+
+Montanans consume 84 million acre-feet of water per year (Figure 
+35
+). This number includes consumptive use (water does not return to the system), and non-consumptive use (water eventually makes its way back into the surface and/or groundwater system). Electric hydropower generation, a non-consumptive use, accounts for 86% of water use in the state.
+Approximately 4.3% of water use in Montana is consumptive: 1 million acre-feet are evaporated from reservoirs, 2.4 million acre-feet are consumed through agricultural irrigation, and 166 thousand acre-feet are used for municipal, industrial, domestic, and livestock purposes 
+(Figure 36;
+DNRC, 2015a)
+.
+Both water availability (i.e., quantity) and water quality affect water use. In Montana, there are 242 public water systems that use surface water and 1,938 that use groundwater (DEQ, 2019a; Figure 
+37
+). 
+
+## Data & Program Gaps
+
+> Although the success of BMP development, education, and implementation has been well illustrated, the spatial impact of the BMP program and other progressive forest management activities across the broader landscape is not known. For example:
+> More broadly, an understanding of forestry-related impacts on water resources would be greatly improved with additional surface and groundwater monitoring. > Developing an understanding of the connection between surface and groundwater, and how forested landscapes contribute to the hydrological processes, would be beneficial for forest management across the landscape.
+
+## Recreational Uses of Forested Lands
+
+Recreational use of Montana's forests, particularly on public lands, is central to Montanans' identity, way of life, health and fitness, and increasingly, their livelihood. It's a major reason why people live in and visit Montana, and it drives both Montana's culture and economy. Montana has a unique outdoor heritage that spans experiences ranging from working the land for agriculture to stewarding public lands infrastructure to protecting healthy streams and open lands for fish and wildlife.
+> How many stream miles have been removed from the 303(d) list due to corrective actions on legacy forest roads? > How many miles of legacy roads have been upgraded to meet BMPs, obliterated and restored, or otherwise addressed with corrective actions? > How many miles of impaired streams are there in Montana? > How many of those impaired miles are due to forestry related activities?
+
+## Drought
+
+Drought is the second costliest weather disaster in the U.S. It is defined as an extended period of below normal precipitation that causes damage to crops and ground cover, diminishes natural streamflow, depletes soil and subsoil moisture, and as a result, causes social, environmental, and economic impacts in Montana 
+(MDMA DES, 2018)
+. Montana has a long history with drought. The first drought impacts occurred shortly after homesteaders arrived in Montana. The settlement boom from 1906 to 1918 leveled off when severe drought swept the state from 
+1917
+to 1923
+(Montana Historical Society, 2004)
+. The Dust Bowl years further impacted agricultural production throughout the state, with the period from 1928 to 1939 recorded as the driest time on historic record. A variety of adjustments ensued: improved farmland management, the establishment of insurance programs, liberalization of credit, and diversification of the regional economy. As a result, impacts caused by the drought of the 1950s were much less severe than those of the 1930s, even though the conditions were similar to those of the Dust Bowl years 
+(DNRC, 1995)
+.
+Installation of Aquatic Organism Passage structures increase ecological connectivity and improve watershed condition, while also protecting infrastructure to withstand flooding, run-off, or future debris flows. / Photo by USDA FS Hydrologists often use terms like "100-year flood" or "500-year flood" to convey a flood's magnitude. These numbers are developed by extrapolating historical data to longer time periods. The term "100-year flood" means that, in any given year, there is a one in 100 chance of a flood of that particular magnitude. In other words, the probability of a "100-year flood" is 1/100 or 1%. The actual amount of water that causes a particular flood (e.g., a "100-year flood") varies from river to river 
+(MDMA DES, 2018)
+.
+
+## Stakeholder Engagement Process
+
+On May 20, 2019 We appreciate all the DNRC and USDA FS staff who have contributed to the development of the 2020 Montana Forest Action Plan. The following Agency staff contributed in a significant way to the development of the documents as members of the "Core Team."
+Many thanks to the following additional state and federal staff who supported the Core Team and provided assistance through the process: 
+
+## List of Acronyms
+
+## Glossary of Terms
+
+Active management -a conservation approach that emphasizes a full range of active and intentional management techniques to manage important ecological and hydrological processes in order to conserve biodiversity and provide various goods, ecological services, and recreational and spiritual opportunities to people over the long term.
+Adaptive management -an intentional approach to making decisions and adjustments in response to new information and changes in context.
+Bark beetles -members of the family Scolytidae, over 600 species of bark beetles occur in the United States. They are common pests of conifer trees, with some species attacking broadleaf trees.
+Best Management Practices (BMP) -a term used to describe types of water pollution control, used to refer to a principle control or a treatment technique. BMP describes both structural or engineered control devices and systems.
+Characteristic disturbance -a disturbance that is within the normal range of variability, like that of a natural fire regime.
+Climate change -a long-term change in the average weather patterns that have come to define Earth's local, regional and global climates. These changes have a broad range of observed effects that are synonymous with the term.
+Conifer -a tree that bears seed cones and needle or scale-like leaves that are typically evergreen. Conifers are a division on vascular land plants that are perennial woody plants. National land trusts including the Trust for Public Land, The Nature Conservancy, The Vital Ground Foundation, and the Rocky Mountain Elk Foundation, along with many local land trusts, have provided financial resources and staff expertise to initiate and ultimately guide many very complex projects through to successful completion. They have also played a critical role by building and maintaining public and political support for the program and individual projects. The Montana congressional delegation, governor's office, county commissioners, and city governments have all offered their support whenever it was needed. Members of the public and organized outdoor groups have overwhelmingly supported each of the individual projects. None of these conservation successes of Montana's FLP would have been possible without the support and participation of all these organizations and key individuals, which are too numerous to list here.
+To everyone involved, we say thank you for your dedication to Montana's extraordinary natural resources, your efforts to promote a healthy and diverse economy, and your commitment to sustaining Montana's outdoor identity.
+
+## Origins of the Forest Legacy Program
+
+## Fish and Wildlife
+
+The forested ecosystems in Montana are diverse and extensive and provide habitat of sufficient quality and extent to support species and ecosystems that are of conservation priority. Fish and wildlife provide ecological, recreational, economic, and aesthetic values to the state, its citizens and visitors. Many species serve as indicators of ecological integrity, with direct ties to human wellbeing. With improvements in technology and over exploitation during the 1800s, many wildlife species in Montana were on the brink of extermination. However, through the 1900's a recognition for the need for conservation, enforced hunting and fishing regulations, wildlife transplanting activities, and sciencebased restoration, management, and conservation programs, have resulted in the return of most species that were prevalent prior to the arrival of European man 
+(Picton and Lonner 2008)
+.
+Many fish and wildlife populations today, however, have been impacted by habitat changes. Wildlife habitats have experienced conversion to other land uses, urban sprawl, fragmentation of habitat blocks into smaller patches, barriers disrupting movement patterns, invasion by non-native species, and changes to climate patterns. One or a combination of these changes can result in human-wildlife conflicts, displacement, population declines, and even the threat of extinctions (USFWS 2019; Laverty and Gibbs 2007). Maintaining functional habitats of sufficient extent and quality that are connected over larger landscapes is necessary for retaining Montana's rich mix of fish and wildlife (Montana's State Wildlife Action Plan 2015).
+The FLP has supported extensive landscape-scale conservation easement projects that ensure high-value fish and wildlife habitats remain intact and functional. Forest habitats supporting a variety of species, and in particular federally listed species, are priorities for conservation, making a compelling case for competitive grant applications. For more information on how wildlife habitat is part of the prioritization criteria for the FLP, see Conservation Priorities, later in this AON.
+
+## Water and Aquatic Resources
+
+Water is essential to the health and economic well-being of all Montanans. Not only is water critical for our municipal and domestic uses, water also supports agricultural and mining industries, fisheries, and recreational activities. Forested landscapes play an important role in Spruce grouse / Photo by Erika Williams & courtesy of USDA FS
+
+## Conservation Priorities
+
+Identifying priorities is an important strategy for directing funding to projects where the greatest benefits might be realized. This AON includes both broad scale and fine scale priorities for consideration.
+
+## Broad Scale Prioritization
+
+This scale provides a statewide perspective for where the conservation values sought by Montana's FLP are most prevalent. Watersheds at the 6th level hydrologic code (HUC) were selected as the unit of analysis for this prioritization (Figure 
+12
+). We chose to use watersheds because of the circumstances and values that often are associated in a watershed context, such as wildlife habitats, drinking water, topography, and ownership patterns. The analysis area for this prioritization is confined to HUCs comprising a minimum 10% forested habitat (Figure 
+13
+). That is, among the cover types within a HUC, forest cover types made up at least 10% of the area to be included as part of this analysis.
+A variety of attributes were considered when developing this broad scale analysis. They included potential threats of forest conversion, seasonal habitats of game species, bird conservation areas, juxtaposition to public lands, conservation area designations, and various conservation initiative rankings. After reviewing each of these, we found some layers operated at much larger or smaller scales than were appropriate for this particular analysis, or the data supporting some layers was duplicative with other layers resulting in overemphasized values, or the results were not helpful for keying in on true priorities and could better be used for project-specific (fine scale) analyses.
+After considerable review and incorporating recommendations from both citizen advisory committees, three criteria were selected for this broad scale prioritization. Fittingly, these criteria closely align with the stated values of Mon-tana's goal for the FLP (page 9):
+> Drinking water -The Forests to Faucets model layer developed by the USFS was used to prioritize HUCs according to drinking water values (Figure 
+14
+). As earlier described, water is a critical resource across Montana and even more so as a headwater state. Our ranking from "high to low" should not be interpreted as some watersheds lacking value, but instead this represents our best effort to rank watersheds that are all generally of high or very high value. > Priority wildlife habitat -Two data layers were combined into one ranking for representing high value forested wildlife habitat (Figure 
+15
+). These are FWP's Crucial Areas Planning System layer and the American Wildlands Priority Linkage Assessment layer (American Wildlands 2008). Details on how we developed this particular layer are included in the GIS metadata. > Timber resource values -a combination of forest productivity (77.7% weighting) and direct distance to wood product mills (22.3% weighting) was used to establish this ranking layer (Figure 
+16
+). For assigning productivity, we used the Montana Department of Revenue's (2018) forest productivity site index. 
+
+## Forest Legacy Areas
+
+The parts of Montana where the FLP is eligible to fund projects are known individually as a Forest Legacy Area. Identifying these areas is, in a sense, the coarsest scale of prioritization in this AON. We have selected these areas based on three general criteria, all of which have been instrumental in successfully competing for funding in past national rankings.
+First, Montana's forestlands provide habitat for a wide variety of plant and animal species, some of which are identified as state Species of Concern. These species are considered "at risk" due to declining population trends, threats to their habitats, and/or restricted distribution and include 377 animal and vascular plant species associated with Montana forestlands (MTNHP 2020). Nine of these species are listed as threatened or endangered under the federal Endangered Species Act (ESA) and 2 species are under consideration for listing. Federal listed species associated with forests occur predominately in the western third of the state. The FLP has been instrumental in helping to conserve (in Figure 
+18
+. Broad Scale Forest Legacy prioritization of forestlands in Montana using the same color scheme fore public and private land HUCs.
+303 perpetuity) working forest habitats that support many of these species. Such conservation projects directly support delisting or avoiding federal listings. Conserving habitats that are important to these species is of national interest, and a great fit with Montana forests.
+Second, forests that include a mix of private, state, and federal lands represent unique opportunities for conserving and managing forestlands and accomplishing a broad array of conservation values at landscape scales. Managing forests across multiple landownerships is a priority of the Montana Forest Action Plan (DNRC 2020). Conducting conservation in a manner that complements adjacent federal public lands is also of national interest.
+The third criterion for identifying FLAs takes into consideration the broad scale ranking defined earlier.
+Those areas of lower ranking do not fit as well with Montana's goal for the FLP.
+Based on the combination of these factors -forest species of concern with particular emphasis on federal ESA species; ties to federally administered forestlands; and broad scale prioritization -we have identified three Forest Legacy Areas (Figure 
+19
+). Southwest Montana Forest Legacy Area
+The Southwest Montana FLA encompasses the upper Missouri and upper Yellowstone watersheds of Montana, bordering Yellowstone National Park to the south, Idaho to the west, Interstate 90 to the north, and Highway 72 to the east (Figure 
+21
+). Unique from the other FLAs, the vast majority of forested lands are part of the national forest system, followed by BLM, National Park Service, DNRC trust lands, and private forests.
+Private forests are generally managed as ranches, investment or recreation properties, or residential/developed acreages. There are very few private forest tracts under single ownerships that exceed 3,000 acres. Opportunities for large-scale conservation of privately held forestlands are therefore more limited. However, this area has many values worthy of conservation investment.
+Southwest Montana includes forests within the Greater Yellowstone Ecosystem and adjacent mountain complexes with semi-arid intermountain valleys. Forested habitats of the FLA support a diverse mix of animal and plant species that include approximately 176 species of concern. Federally listed species include grizzly bear (T), Canada lynx (T), yellow-billed cuckoo (T), and western glacier stonefly (T) (MT Natural Heritage Program 2020). They also support a variety of game, furbearer, mammal, reptile, amphibian, bird, and fish species. Some mountain foothill grasslands or shrublands adjacent to forest fringes provide critical big game winter range habitats -southwest Montana in particular supports some of the largest elk herds in the state. 
+
+## Montana' s Program Sequence and On-going Operations
+
+FWP is the state lead agency for administering the FLP in coordination with the Western Region of the USFS, through the designated Regional FLP Manager. Administering the FLP spans the initial solicitation for proposals to the ongoing involvement in completed projects. This section lays out these processes and associated responsibilities.
+
+## Annual Application Sequence
+
+The following sequence is conducted annually; dates are approximate and based on calendar year. The federal fiscal cycle runs October 1 through September 30. Timelines may shift, see the Forest Legacy Program website for the most current schedule:
+
+## Forest Legacy Properties -Ongoing Operation
+
+Upon completion of a project, FWP has responsibility for ongoing maintenance of these property interests in perpetuity. This ensures conservation values are retained, while also fulfilling specific FLP grant obligations and general program requirements. FWP employs a team approach for managing interests in property. The following speaks to these obligations and provides a general overview of how the team effort takes place.
+
+## Conservation Easements
+
+Completed CEs entail an ongoing partnership between the landowner and the State of Comment: In a headwater state like Montana with the ever-increasing demands for water and ever decreasing inputs due to climate change, all water production areas should be considered high or very high priority.
+> Response: FWP agrees, and we used the Forests to Faucets model layer as one of three criteria for identifying broad scale priorities. We agree that readers could have interpreted Figure 
+14
+ as suggesting some watersheds have low value, which was not FWP's intent. We have added clarifying language in the Broad Scale Prioritization -Drinking Water section (page 24) to characterize how this ranking generally involves watersheds that are of high or very high value.
+Comment 
+
+## MONTANA ELIGIBILITY CRITERIA FOR THE FOREST LEGACY PROGRAM
+
+To be eligible for funding, the proposal must meet all criteria, including A-H listed below. Proposals must list and confirm that each of the criteria is met as listed: (A) Forestland at least five acres in size and the landowner must be a willing seller of the parcel, to which he or she must hold a clear and unencumbered title.
+(B) An environmentally important forest area that is threatened by conversion to non-forest uses.
+Forestland is defined as any land with trees that has at least ten-percent canopy cover or that formerly had such tree cover and is not currently developed for non-forest use. Lands that had formerly been forested, but that have been converted to non-forest use may be considered as forestlands if the property is covered by an approved Forest Stewardship Plan that intends to reestablish forest cover.
+(C) At least 75% forested under this definition to qualify for funding.
+(D) Specific land interest would be held by a willing governmental organization. Montana Fish, Wildlife and Parks administers the Forest Legacy Program in Montana and is responsible for all grants that pass through the department. By policy, FWP must be participant to negotiating terms of conservation easements and must maintain an ownership interest in all land projects to assure grant terms are adhered to.
+(G)
+The property must meet one of the following planning requirements:
+(H) There must be non-federal matching funds of at least 25% available in the form of cash and/or in-kind contributions. The applicant must have written confirmation from a state or local government willing to hold and monitor the conservation easement or own and manage the land in fee. For Montana Fish, Wildlife and Parks, the authorized signature is the Wildlife Division Administrator. For other governmental agencies, the applicant must determine the appropriate party, which will be subsequently verified by FWP.
+1. Have a Forest Stewardship Plan approved by the State Forester of his or her designated representative in accordance with National Forest Stewardship Program Criteria, or 2. In the case of a corporate forest landowner, have a multi-resource management plan that achieves long-term stewardship of forestland, or 3. Where land is acquired in fee or timber management rights are transferred in the conservation easement, a management plan will be developed by the organization acquiring those rights.
+4. The Forest Stewardship Plan or Multi-Resource Management Plan must be completed and approved before the land transaction is finalized.
+Montana Climate Assessment: Water and climate change in Montana
+C
+Whitlock
+W
+F
+Cross
+B
+D
+Maxwell
+N
+Silverman
+A
+A
+Wade
+10.15788/M2WW8
+Montana Institute on Ecosystems
+318
+2017
+W Department of Agriculture, Forest Service, Rocky Mountain Research Station, Fire Sciences Laboratory
+Climate change vulnerability and adaptation in the Northern Rocky Mountains
+J
+E
+Halofsky
+D
+L
+Peterson
+S
+K
+Dante-Wood
+L
+Hoang
+J
+J
+Ho
+L
+A
+Joyce
+2018
+part 2
+Gen
+CO
+Fort Collins
+U.S. Department of Agriculture, Forest Service, Rocky Mountain Research Station
+Tech. Rep. RMRS-GTR-374
+Factors of Soil Formation: A System of Quantitative Pedology
+H
+Jenny
+1941
+Dover Publications
+New York
+Impacts of timber harvesting on soil organic matter, nitrogen, productivity, and health of inland northwest forests
+M
+Jurgensen
+A
+Harvey
+R
+Graham
+D
+Page-Dumroese
+J
+Tonn
+M
+Larsen
+T
+Jain
+Forest Science
+43
+2
+1997
+Effects of conifers and elk browsing on quaking aspen forests in the Central Rocky Mountains, USA
+M
+W
+Kaye
+D
+Binkley
+T
+J
+Stohlgren
+2005
+Ecological Society of America
+15
+The cascading effect of fire exclusion in Rocky Mountain Ecosystems
+R
+E
+Keane
+K
+C
+Ryan
+T
+T
+Veblen
+C
+D
+Allen
+J
+A
+Logan
+B
+Hawkes
+Rocky Mountain Futures: an ecological perspective
+J
+Baron
+Washington, DC
+Island Press
+2002
+Soils of Montana
+C
+Montagne
+L
+Munn
+G
+Nielsen
+J
+Rogers
+H
+Hunter
+Montana Agricultural Experiment Station
+1982
+774
+Montana Forestry Best Management Practices
+> Montana Department of Natural Resources
+2015
+Smoke column height related to fire intensity
+R
+A
+Norum
+USDA Forest Service research paper INT-157, Intermountain Forest and Range Experiment Station
+Utah
+Ogden
+1974
+D
+Page-Dumroese
+M
+Jurgensen
+D
+Neary
+M
+Curran
+C
+Trettin
+Advances in threat assessment and their application to forest and rangeland management
+2010
+USDA, Forest Service, Pacific Northwest and Southern Research Stations
+General Technical Report
+Larix occidentalis: Fire Effects Information System
+J
+S
+Scher
+2002
+U.S. Department of Agriculture, Forest Service, Rocky Mountain Research Station, Fire Sciences Laboratory
+Adapt to more wildfire in western North American forests as climate changes
+T
+Schoennagel
+J
+K
+Balch
+H
+Brenkert-Smith
+P
+E
+Dennison
+B
+J
+Harvey
+M
+A
+Krawchuk
+C
+Whitlock
+Proceedings of the National Academy of Sciences
+114
+2017
+Above -and below-ground effects of aspen clonal regeneration and succession to conifers
+W
+D
+Shepperd
+D
+L
+Bartos
+S
+A
+Mata
+Canadian Journal of Forest Research
+31
+2001
+Pseudotsuga menziesii var. glauca: Fire Effects Information System
+P
+D
+Steinberg
+2002
+U.S. Department of Agriculture, Forest Service, Rocky Mountain Research Station, Fire Sciences Laboratory
+Invasive Species, Climate Change and Ecosystem-Based Adaptation: Addressing Multiple Drivers of Global Change. Global Invasive Species Programme
+Forest Service, Rocky Mountain > Burgiel, S. W. & Muir, A. A.
+2018. 2010
+Kenya
+Fort Collins, CO; Washington: DC, USA, and Nairobi
+Tech. Rep. RMRS-GTR-374
+Climate change vulnerability and adaptation in the Northern Rocky Mountains (Gen
+Climate change and weed adaptation: can evolution of invasive plants lead to great range expansion than forecasted?
+D
+R
+Clements
+A
+Dittommaso
+Weed Research
+51
+2011
+Exotic Organisms: A Dilemma for Conservation Biology
+B
+E
+Coblentz
+Conservation Biology
+4
+1990
+Impact of wild boar (Sus scrofa) in its introduced and native range: a review
+M
+N
+Garcia-Barrios
+S
+A
+Ballaria
+Biological Invasions
+14
+2012
+R
+G
+Harvey
+F
+J
+Mazzotti
+The Invasion Curve: a tool for understanding invasive species management in South Florida. University of Florida
+Davie
+FL
+2014
+K
+F
+Kovacs
+R
+G
+Haight
+D
+G
+Mccullough
+R
+J
+Mercader
+N
+W
+Siegert
+A
+M
+Liebhold
+Cost of potential Emerald Ash Borer in US Communities -2009-2019
+2010
+69
+G
+M
+Lovett
+M
+Weiss
+A
+M
+Liebhold
+T
+P
+Holmes
+B
+Leung
+K
+Fallon
+T
+Weldy
+Nonnative forest insects and pathogens in the US: Impacts and policy options
+2016
+26
+and-readiness-plan-for-the-dnrc. pdf > Montana Noxious Weed Education Program
+2015
+> Montana Department of Natural Resources & Conservation
+Emerald Ash Borer Readiness and Response Plan
+Invasive Species Definition Clarification and Guidance
+2006
+> National Invasive Species Council
+Enumeration of Potential Economic Costs of a Dreissenid Mussel Infestation in Montana
+N
+Nelson
+2019
+Potential effect of Anoplophora glabripennis (Coleoptera: Cerambycidae) on urban trees in the US
+D
+J
+Nowak
+J
+E
+Pasek
+R
+A
+Sequeira
+D
+E
+Crane
+V
+C
+Mastro
+Journal of Economic Entomology
+94
+2001
+Update on environmental and economic costs associated with alien-invasive species in the US
+D
+Pimental
+R
+Zuniga
+D
+Morrison
+Ecological Economics
+52
+2005
+Effects of wild pig rooting in a deciduous forest
+F
+Singer
+W
+Swank
+E
+Clebsch
+The Journal of Wildlife Management
+48
+1984
+Issue Statement: Feral Horses and Burros in North America
+> The Wildlife Society
+2016. March. 2017
+Decreasing fire season precipitation increased recent western US forest wildfire activity
+D
+Affleck
+Proceedings of the National Academy of Sciences
+115
+2018
+Climate-induced variations in global wildfire danger from 1979 to 2013
+W
+M
+Jolly
+M
+A
+Cochrane
+P
+H
+Freeborn
+Z
+A
+Holden
+T
+J
+Brown
+G
+J
+Williamson
+D
+M J
+Bowman
+10.1038/ncomms8537
+Nature Communications
+6
+7537
+2015
+Wildfire in Montana: Potential hazard reduction and economic impacts of a strategic treatment program
+C
+E
+Keegan
+C
+E
+Fielder
+T
+A
+Morgan
+Forest Products Journal
+54
+2003
+Aligning smoke management with ecological and public health goals
+J
+W
+Long
+L
+W
+Tarnay
+M
+P
+North
+Journal of Forestry
+116
+2017
+J
+R
+Marlon
+P
+J
+Bartlein
+D
+G
+Gavin
+C
+J
+Long
+R
+S
+Anderson
+C
+E
+Briles
+M
+K
+Walsh
+Long-term perspective on wildfires in the western USA
+2012
+109
+Rethinking resilience to wildfire
+D
+B
+Mcwethy
+T
+Schoennagel
+P
+E
+Higuera
+M
+Krawchuk
+B
+J
+Harvey
+E
+C
+Metcalf
+C
+Kolden
+10.1038/s41893-019-0353-8
+Nature Sustainability
+2019
+Fire Business Statistics
+> Montana Department of Natural Resources and Conservation
+2019
+G
+C
+Moon
+A history of Montana State Forestry
+Missoula, MT
+Mountain Press Publishing Company
+1991
+Learning to coexist with wildfire
+M
+A
+Mortiz
+E
+Batllori
+R
+A
+Bradstock
+A
+M
+Gill
+J
+Handmer
+P
+F
+Hessburg
+A
+D
+Syphard
+Nature
+515
+2014
+Guidance for Implementation of Federal Wildland Fire Policy
+2009
+> National Interagency Fire Center
+A Review of Community Smoke Exposure from Wildfire Compared to
+K
+M
+Navarro
+D
+Schweizer
+J
+R
+Balmes
+R
+Cisneros
+2019. 2018
+> National Volunteer Fire Council
+185
+Volunteer Fire Service Fact Sheet. Prescribed Fire in the United States. Atmosphere, 9
+Wildland Fire: Impacts on forest, woodland, and grassland ecological processes
+D
+G
+Neary
+J
+Leonard
+Wildland fires -A worldwide reality
+A
+J
+Bento Goncalves
+A
+A
+Batista
+Vierra
+2015
+Effect of thinning and prescribed burning on crown fire everity in ponderosa pine forests
+J
+Pollet
+P
+N
+Omi
+International Journal of Wildland Fire
+11
+2002
+Rapid growth of the US wildland-urban interface raises wildfire risk
+V
+C
+Radeloff
+D
+P
+Helmers
+H
+A
+Kramer
+M
+H
+Mockrin
+P
+M
+Alexandre
+A
+Var-Massada
+S
+I
+Steward
+Proceedings of the National Academy of Sciences
+115
+2018
+Climatology, variability, and trend in the U.S. vapor pressure deficit, and important fire-related meteorological quantity
+R
+Seager
+10.1175/JAMC-D-14-0321.1
+Journal of Applied Meteorology and Climatology
+58
+2015
+Montana Logging Utilization
+T
+A
+Morgan
+T
+P
+Spoelma
+C
+E
+Keegan
+A
+L
+Chase
+M
+T
+Thompson
+2005. 2002
+CO
+Fort Collins
+U.S. Department of Agriculture, Forest Service, Rocky Mountain Research Station
+Res. Pap. RMRS-RP-52
+The Birth of Montana's Lumber Industry
+C
+Strong
+J
+Schutza
+The Pacific Northwest Forum
+3
+1978
+Personal income by major source of earnings by NAICS industry
+Steven
+W
+Hayes
+Lucas
+;
+Townsend
+Dillon
+Thale
+;
+Morgan
+Todd
+A
+Forest Inventory Data Online (EVALIDATOR)
+review. Montana's forest products industry and timber harvest
+Resour
+Bull
+Fort Collins, CO; St. Paul, MN
+Miles, P. D. > United States Department of Commerce, Bureau of Economic Analysis
+2020. 2018. 2020. 2019. 2019
+1
+RMRS-RB-X). reqid=70&step=1&isuri=1&acrdn=6#reqid=70&step=1&isuri=1
+Total full-time and part-time employment by NAICS industry
+2019
+> United States Department of Commerce, Bureau of Economic Analysis
+reqid=70&step=1&isuri=1&acrdn=6#reqid=70&step=1&isuri=1
+Quarterly Census of Employment and Wages
+2019. 2019
+1
+> United States Department of Labor, Bureau of Labor Statistics
+Statistical Yearbook of the Western Lumber Industry
+2019
+Western Wood Products Association
+Portland, OR
+Montana's forest resources
+C
+Witt
+J
+D
+Shaw
+J
+Menlove
+S
+A
+Goeking
+R
+J
+Derose
+K
+A
+Pelz
+W
+Steven
+Resource. Bull. RMRS-RB-30
+2019. 2006-2015
+Forest Service, Rocky Mountain Research Station. Fort Collins
+CO
+Land use change and habitat fragmentation of wildland ecosystems of the North Central United States
+A
+Adhikari
+A
+J
+Hansen
+Landscape and Urban Planning
+177
+2018
+Selecting habitat to survive: The impact of road density on survival in a large carnivore
+M
+Basile
+B
+V
+Van Moorter
+I
+Herfindal
+J
+Martin
+J
+D C
+Linnell
+J
+Odden
+J
+M
+Gaillard
+10.1371/journal.pone.0065493
+Plos One
+2013
+Effects of urbanization on avian community organization
+S
+R
+Beissinger
+D
+R
+Osborne
+Condor
+84
+1982
+Building ecological resilience in highly modified landscapes
+E
+E
+Beller
+E
+N
+Spotswood
+A
+H
+Robinson
+M
+G
+Anderson
+E
+S
+Higss
+R
+J
+Hobbs
+R
+M
+Grossinger
+Bioscience
+69
+2019
+Genetic consequences of habitat fragmentation and loss: the case of the Florida black bear (Ursus americanus floridanus)
+J
+D
+Dixon
+M
+K
+Oli
+M
+C
+Wooton
+T
+H
+Eason
+J
+W
+Mccown
+M
+W
+Cunningham
+Conservation Genetics
+8
+2007
+Forest road sideslopes and soil conservation techniques
+J
+M
+Grace
+Iii
+2000
+Reducing human-caused black and grizzly bear mortality along roadside corridors in Yellowstone National Park
+K
+A
+Gunther
+M
+J
+Biel
+Third International Conference on Wildlife Ecology
+D
+Zeigler
+Missoula
+MT
+1999
+Habitat fragmentation and its lasting impact on Earth's ecosystems
+N
+M
+Haddad
+L
+A
+Brudvig
+J
+Clobert
+K
+F
+Davies
+A
+Gonzales
+R
+D
+Holt
+J
+R
+Townshend
+Science Advancement
+1
+2015
+Understanding the risk to neotropical migrant bird species of multiple human-caused stressors elucidating processes behind the patterns
+R
+S
+Hames
+J
+D
+Lowe
+S
+B
+Swarthout
+K
+V
+Rosenberg
+Ecology and Society
+11
+1
+24
+2006
+Effects of sagebrush restoration and conifer encroachment on small mammal diversity in sagebrush ecosystem
+B
+T
+Hamilton
+B
+L
+Roeder
+M
+A
+Horner
+Rangeland Ecology & Management
+72
+2019
+A
+J
+Hansen
+R
+L
+Knight
+J
+M
+Marzluff
+S
+Powell
+K
+Brown
+P
+H
+Gude
+K
+Jones
+Effects of exurban development on biodiversity: patterns, mechanisms, and research needs
+2005
+15
+Ecological causes and consequences of demographic change in the new West
+A
+J
+Hansen
+R
+Rasker
+B
+Maxwell
+J
+J
+Rotella
+J
+D
+Johnson
+Wright
+Parmenter
+…
+Kraska
+M
+P V
+BioScience
+52
+2002
+Dynamics of regional distribution: the core and satellite species hypothesis
+I
+Hanski
+Oikos
+38
+1982
+Effects of livestock exclusion on in-stream habitat and benthic invertebrate assemblages in Montana streams
+D
+B
+Herbst
+M
+Bogan
+S
+K
+Roll
+H
+D
+Safford
+Freshwater Biology
+57
+2011
+Rapid decline of whitebark pine in western Montana: Evidence from 20-year remeasurements
+R
+E
+Keane
+S
+F
+Arno
+Western Journal of Applied Forestry
+8
+2
+1993
+Effects of fire exclusion on forest structure and composition in unlogged ponderosa pine/Douglas-fir forests
+E
+G
+Keeling
+A
+Sala
+T
+H
+Deluca
+Forest Ecology and Management
+237
+1-3
+2006
+Refugia: keys to climate change management
+G
+Keppel
+G
+W
+Wardell-Johnson
+Global Change Biology
+18
+2012
+The genetic implications of habitat fragmentation for animals
+N
+Keyghobadi
+Canadian Journal of Zoology
+85
+2007
+of Wildlife and recreationists: Coexistence through management and research
+R
+L
+Knight
+D
+N
+Cole
+1995
+Island Press
+Washington, D.C
+Wildlife responses to recreationists
+Conservation of riparian ecosystems in the United States
+F
+L
+Knopf
+R
+R
+Johnson
+T
+Rich
+F
+B
+Samson
+R
+C
+Szaro
+The Wilson Bulletin
+100
+1988
+Latent resilience in ponderosa pine forest: effects of resumed frequent fire
+A
+J
+Larson
+R
+T
+Belote
+C
+A
+Cansler
+S
+A
+Parks
+M
+S
+Dietz
+Ecological Applications
+23
+6
+2013
+Non-native plants and wildlife in the Intermountain West
+A
+R
+Litt
+D
+E
+Pearson
+Wildlife Society Bulletin
+37
+2013
+Emulating natural disturbance regimes as a basis for forest management: A North American view
+J
+M
+Long
+Forest Ecology and Management
+257
+2009
+Conservation Letters
+Contribution of reads to forest fragmentation in the Rocky Mountains
+R
+A
+Reed
+J
+Johnson-Barnard
+W
+L
+Baker
+Conservation Biology
+10
+1996
+The effects of 55 years of vegetative change on bighorn sheep habitat in the Sun River area of Montana. Graduate Student Theses, Dissertations, & Professional Papers
+D
+Schirokauer
+1996
+6834
+Searching for resilience: addressing the impacts of changing disturbance regimes on forest ecosystem services
+R
+Seidl
+T
+A
+Spies
+D
+L
+Peterson
+S
+L
+Stephens
+J
+A
+Hicke
+Journal of Applied Ecology
+53
+2016
+Short-term response of sage-grouse nesting to conifer removal in the northern Great Basin
+J
+P
+Severson
+C
+A
+Hagen
+J
+D
+Maestas
+D
+E
+Naugle
+J
+T
+Forbes
+K
+P
+Reese
+10.1016/j.rama.2016.07.011
+Rangeland Ecology & Management
+70
+2017
+Landscape size affects the relative importance of habitat amount, habitat fragmentation, and matrix quality of forest birds
+A
+C
+Smith
+L
+Fahrig
+C
+M
+Francis
+Ecography
+34
+2011
+The effects of human residential development on avian communities along the Snake River riparian corridor in Jackson Hole
+C
+M
+Smith
+2002
+26
+WY. University of Wyoming National Park Service Center Annual
+Report
+Natural disturbance impacts on ecosystem services and biodiversity in temperate and boreal forests
+D
+Thom
+R
+Seidl
+Biological Reviews
+91
+2016
+Habitat Conservation Plans
+> United States Fish & Wildlife Service
+Retrieved on January 7, 2020 from
+Effect of vegetation on soil water retention and storage in a semi-arid alpine forest catchment
+C
+Wang
+C
+Y
+Zhao
+Z
+L
+Xu
+Y
+Wang
+H
+H
+Peng
+Journal of Arid Land
+5
+2
+2013
+Climate change hastens the turnover of stream fish assemblages
+L
+Buisson
+W
+Thuiller
+S
+Lek
+P
+Lim
+G
+Grenouillet
+Global Change Biology
+14
+2008
+Aquatic Ecology
+Potential impacts of climate change on the distributions of several common and rare freshwater fishes in Canada
+C
+Chu
+N
+E
+Mandrak
+C
+K
+Minns
+Diversity and Distributions
+11
+2005
+Meeting the challenge of interacting threats in freshwater ecosystems: A call to scientists and managers
+L
+S
+Craig
+J
+D
+Olden
+A
+H
+Arthington
+S
+Entrekin
+C
+P
+Hawkins
+J
+J
+Kelly
+M
+S
+Wooten
+10.1525/elementa.256
+Elementa: Science of the Anthropocene
+5
+72
+2017
+Climate change effects on upland stream macroinvertebrates over a 25-year period
+I
+Durance
+S
+J
+Ormerod
+Global Change Biology
+13
+2007
+Evidence of climateinduced range contractions in bull trout Salvelinus confluentus in a Rocky Mountain watershed
+L
+A
+Eby
+O
+Helmy
+L
+M
+Holsinger
+M
+K
+Young
+PLoS One
+9
+6
+2014
+Guest Editorial: Aquatic science in the Northwest
+A
+J
+Sepulveda
+A
+M
+Ray
+Northwest Science
+91
+2017
+Adding invasive species biosurveillance to the U.S. Geological Survey streamgage network
+A
+J
+Sepulveda
+C
+Schmidt
+J
+Amberg
+P
+Hutchins
+C
+Stratton
+C
+Mebane
+D
+S
+…& Pilliod
+10.1002/ecs2.2843
+2019
+Ecosphere, 10, 8. Https
+Wildfire effects on stream food webs and nutrient dynamics in Glacier National Park
+C
+N
+Spencer
+K
+O
+Gabel
+F
+R
+Hauer
+USA. Forest Ecology and Management
+178
+2003
+Forest health conditions in North America
+B
+Tkacz
+B
+Moody
+J
+V
+Castillo
+M
+E
+Fenn
+Environmental Pollution
+155
+2008
+Review of ecological effects of roads on terrestrial and aquatic communities
+S
+C
+Trombulak
+C
+A
+Frissell
+Conservation Biology
+14
+2000
+Montana Climate Assessment: Water and climate change in Montana
+C
+Whitlock
+W
+F
+Cross
+B
+D
+Maxwell
+N
+Silverman
+A
+A
+Wade
+10.15788/M2WW8W
+Montana Institute on Ecosystems
+318
+2017
+Human impacts to mountain streams
+E
+Wohl
+Air Quality > American Lung Association
+79
+2006. January 5, 2020
+Geomorphology
+A Review of Community Smoke Exposure from Wildfire Compared to Prescribed Fire in the United States
+K
+Navarro
+D
+Schweizer
+J
+R
+Balmes
+R
+Cisneros
+10.3390/atmos9050185
+Atmosphere
+9
+185
+2018
+2017 Montana Nonpoint Source Management Plan
+J
+Nolen
+> Department of Natural Resources and Conservation
+Department of Natural Resources and Conservation
+2016. January 5, 2020. 2017. 2019. 2015. 2015b
+html Water Resources > Department of Environmental Quality ; Department of Environmental Quality
+Montana Forestry Best Management Practices
+Calculating fire spread rates across random landscapes
+M
+A
+Finney
+International Journal of Wildland Fire
+12
+2003
+Forest Regions of Montana
+S F
+Arno
+USDA Forest Service Intermountain Forest and Range Experiment Station Research Paper INT-218
+1979
+Ogden. UT. USA
+Getting Started with Geographic Information Systems
+K
+Clarke
+1997
+Upper
+Saddle River, NJ
+Land-use suitability analysis in the United States: historical development and promising technological achievements
+M
+G
+Collins
+F
+R
+Steiner
+M
+J
+Rushman
+Environmental Management
+28
+2001
+Wildland fire potential: A tool for assessing wildfire risk and fuels management needs
+G
+K
+Dillon
+J
+Menakis
+F
+Fay
+Robert
+E
+Keane
+Matt
+;
+Jolly
+Russell
+;
+Parsons
+Karin
+Riley
+Proceedings of the large wildland fires conference
+the large wildland fires conference
+Missoula, MT; Fort Collins, CO
+2015. May 19-23, 2014
+U.S. Department of Agriculture, Forest Service, Rocky Mountain Research Station
+Proc. RMRS-P-73
+Generalization of classified raster imagery
+>
+Esri
+Overlay analysis
+>
+Esri
+ArcGIS Help 10.2, 10.2.1, and 10.2.2
+What is GIS?
+>
+Esri
+The western spruce budworm. Forest Insect and Disease Leaflet
+D
+C
+Fellin
+J
+E
+Dewey
+F
+Ellenwood
+J
+R
+Woods
+M
+E
+Mcmahon
+A
+J
+Cowardin
+J
+P
+Ryerson
+D
+E
+Romero
+S
+A
+National insect and disease forest risk assessment. USDA Forest Service
+53
+1982. 2014
+U.S. Department of Agriculture
+Washington, DC
+Forest Health Technology Enterprise Team
+Forest Service. 12 p. > Krist,
+GIS-based land-use suitability analysis: a critical overview
+J
+Malczewski
+Progress in Planning
+62
+2004
+Ecological Systems of the United States -A Working Classification of US Terrestrial Systems
+Natureserve
+2003
+Wildfire, Wildlands, and People: Understanding and Preparing for Wildfire in the Wildland-Urban Interface
+S
+M
+Stein
+pdf Table of Contents Montana Forest Legacy Assessment of Need ........................ Executive Summary ................................................................ Introduction ............................................................................ Montana FWP Wildlife Habitat Conservation Program ..............
+S
+J
+Comas
+pdf Table of Contents Montana Forest Legacy Assessment of Need ........................ Executive Summary ................................................................ Introduction ............................................................................ Montana FWP Wildlife Habitat Conservation Program ..............
+J
+P
+Menakis
+pdf Table of Contents Montana Forest Legacy Assessment of Need ........................ Executive Summary ................................................................ Introduction ............................................................................ Montana FWP Wildlife Habitat Conservation Program ..............
+S
+I
+Steward
+pdf Table of Contents Montana Forest Legacy Assessment of Need ........................ Executive Summary ................................................................ Introduction ............................................................................ Montana FWP Wildlife Habitat Conservation Program ..............
+H
+Cleveland
+pdf Table of Contents Montana Forest Legacy Assessment of Need ........................ Executive Summary ................................................................ Introduction ............................................................................ Montana FWP Wildlife Habitat Conservation Program ..............
+L
+Bramwell
+pdf Table of Contents Montana Forest Legacy Assessment of Need ........................ Executive Summary ................................................................ Introduction ............................................................................ Montana FWP Wildlife Habitat Conservation Program ..............
+V
+Radeloff
+pdf Table of Contents Montana Forest Legacy Assessment of Need ........................ Executive Summary ................................................................ Introduction ............................................................................ Montana FWP Wildlife Habitat Conservation Program ..............
+2013. 2011
+USDA Forest Service. USDA > United States Department of Agriculture
+The Principal Laws Relating to USDA Forest Service State and Private Forestry Programs
+Montana's Conservation Partnership .......................................... Origins of the Forest Legacy Program ......................................... Origins of the Montana Forest Legacy Program ......................... Assessment of Need-Purpose and Process .............................
+Montana Forest Legacy .......................................................... Guiding Resources and Rules ................................................. Cooperative Forestry Assistance Act .......................................... Montana Forest Action Plan ........................................................ Habitat Montana ......................................................................... Forest Legacy Program Implementation Guidelines ................... State Wildlife Action Plan 2015 ................................................... Natural Heritage Program ........................................................... Crucial Areas Planning System ................................................
+Wildlife Movement and Terrestrial Connectivity ........................
+Overview of Montana ............................................................. Montana's Forest Values -Historic to Present Day .................... Forest Status and Trends ...........................................................
+Forest Legacy Eligibility Criteria & Conservation Priorities .... Eligibility Criteria ......................................................................... Conservation Priorities ...............................................................
+Forest Legacy Areas ............................................................... Description of Forest Legacy Areas ....................................... Northwest Montana Forest Legacy Area ..................................... Southwest Montana Forest Legacy Area .................................... Central Montana Forest Legacy Area .........................................
+Montana's Program Sequence and On-going Operations ....... Annual Application Sequence ..................................................... Forest Legacy Properties -Ongoing Operation .........................
+Glossary of Terms .................................................................. Public Involvement ................................................................
+Cited Materials ......................................................................
+Appendix A ............................................................................
+Northwest lands, northwest peoples: readings in environmental history
+P
+W
+Hirt
+Goble
+D. D.
+1999
+University of Washington Press
+Seattle, WA
+R
+Horner
+C
+May
+E
+Livingston
+D
+Blaha
+M
+Scoggins
+J
+Tims
+J
+Maxted
+Structural and Non-Structural BMPs for Protecting Streams. Engineering Foundation Conference. Talk conducted at the meeting of Engineering Foundation Conference
+Colorado, United States
+2001
+Nonresident Visitor Expenditures by Location
+2019. March 19, 2020
+> Institute for Tourism and Recreation Research
+Nonmetro recreation counties, their identification and rapid growth
+K
+M
+Johnson
+C
+L
+Beale
+Rural America
+75
+2002
+Promoting human health through forests: overview and major challenges
+E
+Karjalainen
+T
+Sarjala
+H
+Raitio
+Environmental Health and Preventive Medicine
+15
+2010
+Network of Conservation Educators and Practitioners
+M
+F
+Laverty
+J
+P
+Gibbs
+Lessons in Conservation
+1
+American Museum of Natural History
+Center for Biodiversity and Conservation
+Ecosystem loss and fragmentation: synthesis
+Native American Tribalism: Indian survivals and renewals
+D
+Mcnickle
+1993
+Oxford University Press
+London, England
+RMRS-RB-15
+Jim
+;
+Menlove
+John
+D
+Shaw
+Michael
+T
+Thompson
+Chris
+;
+Witt
+Michael
+C
+Amacher
+Todd
+A
+Morgan
+Colin
+;
+Sorenson
+Chelsea
+;
+Mciver
+Charles
+Werstak
+Montana's forest resources
+Fort Collins, CO; Forest Service, Rocky Mountain Research Station
+U.S. Department of Agriculture
+2012. 2003-2009
+> Montana Forest Collaboration Network.
+Forest restoration principles
+2007. August 7, 2020
+Montana Department of Natural Resources and Conservation, 1424 Ninth Ave., Helena MT 59620
+2015. 2012
+> Montana State Water Plan
+Active mines in Montana
+Montana Fish, Wildlife & Parks, 1420 East Sixth Avenue
+Helena, MT
+> Montana's State Wildlife Action Plan
+2015
+Final 2018 Water Quality Integrated Report
+2018
+> MT Department of Environmental Quality
+2019 Report to the Montana Legislature
+2018
+> MT Department of Fish, Wildlife and Parks
+The economics of big game hunting in Montana
+?appid=0fa1de4222074cdeb7dbf0710ecb
+> MT Department of Fish, Wildlife and Parks
+2018. March 25, 2020
+> MT Department of Natural Resources and Conservation -Forestry Division
+MT Department of Revenue
+2020. 2015. 2018
+Forest productivity site index. Provided directly from MT DOR staff
+Natural Heritage Map Viewer, environmental summary
+> Mt Natural Heritage
+Program
+2020. April 17, 2020
+Outdoor recreation and Montana's economy
+2018
+> MT Office of Outdoor Recreation
+Ruining" the rivers in the Snake country: the Hudson's Bay Company's fur desert policy
+J
+Ott
+Oregon Historical Quarterly
+104
+2003
+Montanas wildlife legacy decimation to restoration
+H
+D
+Picton
+T
+N
+Lonner
+2008
+Media Works Publishing
+Bozeman, MT
+New Montana homes increase wildfire risks
+K
+Pohl
+Headwaters Economics
+2018. June 2018
+Northern Pacific land grants in Congress
+T
+Schwinden
+1950
+Bozeman, MT
+Montana State University
+Unpublished master's thesis
+The Birth of Montana's Lumber Industry
+C
+Strong
+J
+Schutza
+The Pacific Northwest Forum
+3
+1978
+BEA 19-45 Outdoor recreation satellite account, U.S. and prototype for states
+2019. 2017. 2017 Accessed May 18, 2020
+> US Bureau of Economic Analysis
+Table SA25N. Total full-time and parttime employment by NAICS industry
+?reqid=70&step=1&isuri=1&acrdn=6#reqid=70&step=1&isuri=1 Accessed
+> US Bureau of Economic Analysis
+2019. December 1, 2019
+May 2019 State Occupational Employment and Wage Estimates Montana
+Quarterly Census of Employment and Wages (QCEW)
+> US Bureau of Labor Statistics
+2019. 2019. December 1, 2019
+> US Bureau of Labor Statistics
+Population, percent change April 1
+>
+Us
+Census
+2019. 2010 to July 1, 2019, (V2019. June 4, 2020
+2011 National Survey of Fishing, Hunting, and Wildlife-Associated Recreation
+> U.S. Department of the Interior, U.S. Fish and Wildlife Service, and U.S. Department of Commerce, U.S. Census Bureau
+Threatened, endangered and candidate species in Montana Endangered Species Act (Memo)
+> Us
+Fish
+Wildlife
+Service
+> US Forest Service
+2019. 2017
+Forest legacy program implementation guidelines
+Restoring America's forests through the wise use of wood
+US Forest Service Forest Products Laboratory
+2013
+>
+Us
+Forest
+Service
+D
+William
+Ruckelshaus Institute of Environment and Natural Resources
+Laramie, Wyoming
+University of Wyoming William D. Ruckelshaus Institute of Environment and Natural Resources
+2011
+Private Lands and Conservation Toolkit
+(E) The property must be threatened by one of the following: 1. Conversion to non-forest uses, 2. Further subdivision into smaller parcels, or
+>
+Us
+Geological
+Survey
+2004
+Estimated water use in Montana in 2000
+Other detrimental impacts to a remnant forest type in Montana
+The property must possess one or more of the following public values
+Natural aesthetic or scenic values
+Public education opportunities
+Public recreation opportunities
+Riparian areas
+Fish and wildlife habitat
+Cultural and historical resources
+Traditional forest uses; and/or
+Other ecological values
+
+
+===== DOCUMENT PART: MT_FAP-S_2020.pdf =====
+
+## LAND ACKNOWLEDGMENT
+
+The Montana Forest Action Advisory Council acknowledges and honors that what we now refer to as the State of Montana is the traditional homeland of many Indigenous peoples, both past and present (Figure 
+1
+). In order to better understand Montana's forests, we must understand how the presence of Indigenous people has shaped and continues to shape the landscape we have the privilege to manage today.
+Montana is home to eight federally recognized tribal nations, including the Confederated Salish and Kootenai Tribes of the Flathead Reservation, the Blackfeet Nation, the Chippewa Cree Tribe of Rocky Boy's Indian Reservation, the Assiniboine & Gros Ventre Tribes of Fort Belknap Indian Community, Fort Peck Assiniboine & Sioux Tribes, the Crow Nation, the Northern Cheyenne Tribe, and the Little Shell Tribe of Chippewa Indians.
+In addition to these nations, many tribes beyond the borders of Montana have claims to hunting, fishing, and cultural sites within the state. The Montana Forest Action Advisory Council recognizes this heritage and understands that we exist within a long history of cultural and Indigenous stewardship practices. For more information on the history of these practices, please see Indigenous Peoples & Forests in the Statewide Assessment of Forest Conditions.
+
+## Photo courtesy of Visit MT, Blackfeet Nation
+
+Insects, disease, and fire don't stop at the fence lines. Neither should our management.
+
+## MONTANA FOREST ACTION PLAN
+
+Photo courtesy of DNRC Fellow Montanans, Forests are one of the most prominent natural resources in Montana. By providing the raw material for our industries and local economies or a place for Montanans to develop the deeply held traditions and values connected to our state's landscapes, forests are rooted in the very identity of our state.
+Our forests currently face significant forest health issues and wildfire risk. Whether it's the excessive smoke in our skies during the summer, the increase in insects and disease outbreaks, or the overstocked stands, all Montanans feel the impacts of a lack of coordinated management across ownership boundaries. That's why the 2020 revision of the Montana Forest Action Plan is focused on building and supporting cross-boundary, collaborative forest management and restoration efforts.
+Following the principles and vision of Shared Stewardship: Across Landscapes and Forests in Focus 2.0, the Montana Forest Action Plan brought together agencies, tribal nations, and diverse partners from across the state to develop actionable strategies and information for land managers and owners to use to increase capacity for landscapescale planning and coordination across ownership boundaries. The completion of this plan reflects the collective work and ideas of the Montana Forest Action Advisory Council. Together, we've developed three main products: the Statewide Assessment of Forest Conditions, the Priority Areas for Focused Attention, and a set of recommended goals and strategies to help improve forest health and reduce wildfire risk. Each of these tools provides necessary and useful recommendations to help build greater cooperation at the federal, statewide, and local level to increase the resiliency and sustainability of Montana's forests.
+The Montana Forest Action Plan is a resource for all Montanans. The stage is now set for cross-boundary, landscape scale forest restoration and management to take place across the state. Moving forward, it will be up to Montanans to use this plan and the existing resources available to continue the legacy of working together across ownerships to keep our forests healthy and resilient for generations to come.
+Sincerely,
+
+## Sonya Germann State Forester, Montana department of Natural Resources and Conservation
+
+## Leanne Marten
+
+Regional Forester, USDA Forest Service, Region 1
+Photo courtesy of USFS, Lolo National Forest
+
+## ASSESSMENT OF FOREST CONDITIONS
+
+The purpose of the statewide Assessment of Forest Conditions is to identify conditions and trends concerning state forest resources and highlight threats to forest lands and resources consistent with national priorities.
+
+## PRIORITY AREAS FOR FOCUSED ATTENTION
+
+The Priority Areas for Focused Attention were developed using a data-informed geospatial model to identify priority landscapes in need of forest restoration and management. Such areas were designated using current landscape attributes, in order to draw attention to the urgency with which action should be considered and help identify resources that should be allocated to protect Montana's communities and infrastructure and improve forest health conditions.
+
+## GOALS AND STRATEGIES
+
+Drawing from the information in the Assessment and the data derived from the Priority Areas for Focused Attention, the Montana Forest Action Advisory Council identified a set of recommended goals and strategies for each of the major topic areas listed. These goals and strategies are intended to facilitate cooperation and coordination amongst land managers, agencies, forest owners, organizations, collaboratives, and other partners to improve forest health, reduce wildfire risk, support biodiversity and habitat conservation, improve human and community health, and promote the many benefits of urban and community forestry.
+
+## INTRODUCTION
+
+From the mixed conifer forests of the west and the ponderosa pine and riparian cottonwood stands of the east, Montana's forested environments create extensive and diverse landscapes that have always benefitted the state's citizens and communities. All Montanans, from our diversity of cultures and ethnicities, have formed deep personal and cultural connections to the forests. We use trees and forest plants for subsistence needs and cultural purposes such as traditional foods and medicines; for outdoor recreation and solitude, and enjoying our wild spaces and biodiversity; for a wide array of wood products and services vital to a strong forest products economy; and for the clean air and water that forests provide. For all these reasons, we also share a concern for the current health of our forests and a desire to restore our forests to a healthier and more resilient state. In doing so, we must take stock of the history that has led us to the problems we are now called on to address.
+For many thousands of years, the forests of what is now Montana have been part of the homelands of Indigenous peoples and have provided crucial resources to tribal ways of life and cultures. Indigenous peoples managed the region's forests-particularly the lower-elevation forests dominated by ponderosa pine and western larch-with the deliberate, frequent, and highly knowledgeable use of fire. Fire was used to nurture certain plants of value for food or medicine, provide more forage for deer and elk, make travel easier, and many other reasons 
+(Confederated Salish and Kootenai Tribes, 2006)
+. The use of fire was an important component of tribal ways of life and essential for maintaining the cultural ecologies that long sustained Indigenous peoples and their environments.
+Over the past two centuries, western settlers established a very different way of life here and different ways of using the forests. With non-Indigenous settlement came rapid industrial development and the growth of the agriculture, mining, and timber industries. Indigenous economies and land management practices were marginalized as settlers increasingly treated forests as valuable commodities and regarded fire as an economic threat. Accordingly, government officials began repressing tribal use of fire and aggressively suppressing naturally ignited fires while also forcing Indigenous peoples to relinquish most of their traditional territories and homelands. Over time these changes and the decades of wildland fire suppression policies, historic harvest practices, and lack of landscape scale forest management changed the species composition, density, structure, and patch characteristics of Montana's forests. By the turn of the century, many formerly open, park-like forests had become overcrowded with fine and woody fuels. Photo courtesy of USFS, Upper North Fork, Flathead River 
+INTRODUCTION INTRODUCTION
+ Today, across many acres in certain forest types, forests have become densely crowded, contain excessive fuel loads, and are populated by tree species that are less tolerant of fire, more susceptible to insect and disease outbreaks, and climate change impacts 
+(Keane et al., 2002
+, Halofsky et al., 2018)
+. In the 2010s, nearly half of Montana's forests were impacted by insect and disease outbreaks, and the current pace and magnitude of climate change is expected to further impact forests across the state 
+(Whitlock et al., 2017)
+. These changes are compounding to increase risk of extreme wildfire, further exacerbated by the longer and more severe wildfire seasons and the increased development within or adjacent to fire-prone ecosystems 
+(Calkin et al., 2013)
+.
+The Montana Forest Action Plan presents an opportunity to address these common issues collaboratively. It will serve as a road map for collective action -bringing together a diversity of voices, perspectives, and partners from across the state in service of our shared desire to promote the health and wellbeing of our forests and communities.
+
+## MOVING FORWARD AND TAKING ACTION
+
+The current conditions of Montana's forests require a strategic approach to identify opportunities to improve forest health, reduce wildfire risk to communities, pri-oritize actions to conserve wildlife, protect watersheds, build community resilience, and maintain a strong and diverse recreation, wood products, and tourist economy.
+Knowing this, Governor Bullock issued a call to action to collaboratively address Montana's most pressing concerns of forest health and wildfire risk. In 2018, he released his initiative, Forests in Focus 2.0: A Cross-Boundary Collaborative Approach (FiF 2.0). The initiative emphasized better planning, a wellorganized statewide collaborative effort, scaling partnerships down to the local level, replicating those partnerships on a community by community basis, and targeting in-vestments that bring capacity where it is most needed to get work done.
+As a part of FiF 2.0, Governor Bullock initiated the revision of the state's Forest Action Plan. First completed in 2010, the Montana Forest Action Plan is the state's roadmap for addressing forest health and wildfire risk issues across all forested lands. The timing of the 2020 revision of Montana Forest Action Plan presents a unique opportunity for Montana to align with other coordinated calls to action, such as:
+• The National Cohesive Wildland Fire Management Strategy;
+• The USDA Forest Service's Toward Shared Stewardship: Across Landscapes strategy;
+• USDA Natural Resource Conservation Service's Montana Focused Conservation; and
+• Locally-driven collaboratives across Montana, many of whom are already engaged in cross-boundary work.
+There are additional opportunities to use existing authorities and tools, such as Good Neighbor Authority (GNA), and to move ahead with climate adaptation strategies for forest management that were identified in the recently completed Montana Climate Solutions Plan.
+In To focus conversations and produce usable outputs, MFAAC remained anchored to the duties outlined in the Executive Order. Three of the most notable duties were:
+• Prioritize and amplify collaborative efforts that bring together stakeholders representing diverse perspectives;
+• Ensure the Montana Forest Action Plan does not counter or conflict with existing land management plans; and 
+
+## Before Treatment
+
+## Photo courtesy of Keith Bettcher
+
+In order to facilitate clear communication regarding Montana's forested lands, MFAAC collectively agreed upon the following working description of forest health:
+Montana has over 23 million acres of forested landspanning most of the state, both within and outside of communities-which are critical to maintaining excellent air quality; drinking water supply and other beneficial water uses; important wildlife and fisheries habitat for a diverse range of species; long-term storage of carbon and climate regulation; soil health and conservation; outstanding recreational and tourism opportunities; cultural heritage values; and a wide array of wood products and services vital to a strong forest products economy.
+Over the past few decades, Montanans have increasingly engaged in debate over use, management, and protection of forest lands. These debates reflect the different values that individuals and groups place on forests and natural resources. Accordingly, we also have different perspectives on forest health that are influenced by individual and cultural viewpoints, land management objectives, and spatial and temporal scales. There is no single measure or correct set of metrics to evaluate the condition of our forests because every forest ecosystem type is characterized by different conditions. Any meaningful definition of forest health must incorporate the concept of resiliency: the capacity of an ecosystem to withstand and recover from disturbances imposed by natural environmental dynamics or human influence. It is with this in mind that the Montana Forest Action Advisory Council sets forth the following components of Forest Health rather than a single definition.
+The MFAAC identifies the components of forest health at a landscape-scale as follows: These criteria eliminated some datasets from consideration because the dataset did not meet all of the requirements of the geospatial model. Specifically, a lack of adequate, statewide datasets increased the difficulty of modeling several forest health components and metrics as defined by MFAAC. Ultimately, three insect and disease datasets were selected due to the fact such datasets met all of the criteria and could be assessed quantitatively. While a healthy forest does experience some degree of insect and disease activity, extensive disease outbreaks can indicate underlying forest health issues and reduce a forest's social, economic, and recreational benefits. For these reasons, insect and disease datasets were used as a proxy for assessing forest health. Although limiting, using insect and disease datasets as a proxy for forest health represents the best available data covering all forested lands in Montana.
+After determining the selection criteria, MFAAC selected the following datasets to assess statewide forest health and wildland fire risk conditions across forested lands in Montana:
+FOREST HEALTH DATA LAYERS National Insect and Disease Risk: Produced by USDA Forest Service, this dataset predicts future forest loss to insects and diseases across the state. It helps managers understand a forest stand's risk to impacts from insects and diseases and depicts predicted basal area loss through 2027. This is the only predictive dataset MFAAC opted to include in the analysis.
+Insect and Disease Impact: Produced by USDA Forest Service, this dataset depicts forested areas with observed tree mortality since 2010. It includes areas impacted by Douglas-fir beetle, fir engraver beetle, and mountain pine beetle.
+Western Spruce Budworm Recurrence: Produced by USDA Forest Service, this dataset identifies landscapes with chronic western spruce budworm infestations. Because this species causes defoliation and long-term stress, it was measured separately from the species on the Insect and Disease Impact dataset that are more likely to cause widespread mortality.
+
+## WILDFIRE RISK DATA LAYERS
+
+Wildfire Hazard Potential: Produced by the USDA Forest Service's Fire Modeling Institute, this dataset assesses wildfire risk across the state and is intended for strategic planning and fuels management. This data layer depicts the relative potential for high-intensity wildfires with torching, crowning, and other forms of extreme fire behavior that would prove difficult to contain.
+Recent Fire History: Produced by DNRC, this dataset depicts wildfires that have occurred in Montana since 2015. This dataset was used to augment the Wildfire Hazard Potential data layer, which did not account for any fires occurring after 2015.
+Distance to WUI: Produced by DNRC, this dataset depicts all known structures in Montana with a weighted gradient from 0-10 miles to create risk zones extending out from the structure, with the highest weight applied to zones within 0-1/2 mile of a structure. The base map uses the federal definition of the Wildland Urban Interface (WUI).
+By overlaying these datasets, MFAAC identified approximately 9.1 million acres of forested land that were termed "Areas with Elevated Fire Risk and Degraded Forest Health." Standing at nearly one-third of the forested landscape in Montana, these areas represent portions of the landscape with significant forest health concerns and high wildfire risk to communities and infrastructure.
+As MFAAC analyzed modeling outputs, it became evident that a few very high-risk areas in western Montana were driving the model, producing outputs that skewed priority areas more heavily in the western part of the state. Given that wildfire risk and forest health issues occur across Montana and the Montana Forest Action Plan is intended to serve the entire state, MFAAC used a normalization process to ensure that areas are identified relative to fire risk and forest health within various regions throughout the state.
+To account for local variations, regional disparities, and the relative importance of wildfire risk and insect pathogens, MFAAC divided the state into seven distinct forest regions based on the unique vegetation community, localized climate conditions, and topography 
+(Arno, 1979)
+. The model was normalized within each forest region to better identify high-risk areas relative to the typical forest conditions found within that region. Normalizing the model output resulted in identification of high-risk areas in eastern Montana and further refinement of the areas in western Montana.
+Road Proximity: Maintained by DNRC, this dataset measures landscape access and includes all maintained roads in Montana with buffers extending out from roads, and uses a weighted gradient from 0-5 miles, with the highest weight being applied within 0-1/4 mile of a road. Inclusion of this dataset identified and increased the weight of lands that are more readily accessible.
+Vegetation Type: Produced by USDA Forest Service, this dataset depicts the dominant vegetation type across Montana. A higher weight was given to forests in lower elevations with a high fire frequency, which are often in close proximity to human infrastructure.
+
+## ADDITIONAL DATA SETS
+
+## Given that the "Areas with Elevated Fire Risk and Degraded Forest Health" represented almost a third of the forested landscape in the state, MFAAC used additional datasets to further refine the model to identify a more realistic set of lands for agencies and landowners to prioritize for restoration. MFAAC selected two additional datasets:
+
+Using these two additional datasets, the model is more likely to identify high-risk areas near existing road infrastructure and in forests more commonly associated with lower elevations. The priority areas thus represent forests with heightened wildfire risk and degraded forest health conditions within close proximity to our communities and infrastructure.
+By refining and redesigning the model, MFAAC identified 3.8 million acres of forested land in greatest need of attention, including those most conducive to landscape-scale, cross-boundary forest restoration and management activities. The fact that these areas transcend ownership boundaries and different use types makes it clear that Montana's forest challenges must be addressed collectively rather than individually.
+To clarify the intent behind the identified priority areas, MFAAC elected to call them Priority Areas for Focused Attention. This nomenclature signals the need for local land managers, collaboratives, and stakeholders to lend further attention and consideration to these areas. The goal is that the Priority Areas for Focused Attention will focus discussions to help ini-tiate work in the most critical areas at an effective scale. This designation does not change or override any existing planning, designation, or environmental review processes.
+The Priority Areas for Focused Attention represent 3.8 million acres of forested land in Montana. Notably, this includes approximately 500,000 acres in the WUI and 123,000 acres in drinking water source watersheds. In these areas, designation does not guarantee action or funding for a project; rather, it demonstrates that there are significant forest health or wildfire risk issues that warrant prioritization of forest restoration funds in order to most effectively mitigate risk. Local land managers can overlay modeling outputs from this plan on their own geospatial datasets to help leverage resources and staff to meaningfully address some of the most pressing concerns facing forested landscapes. By using data that covers all land ownerships within the state, the Priority Areas for Focused Attention are intended to promote integrated restoration of forest and watershed conditions across ownerships.
+
+## MONTANA'S FORESTS BY THE NUMBERS:
+
+8 
+
+## WILDFIRE INSECTS AND DISEASE
+
+## DECISION SUPPORT TOOLS
+
+## PRIORITY AREAS FOR FOCUSED ATTENTION INTERACTIVE DASHBOARD -
+
+Alongside the development of the Montana Forest Action Plan, DNRC created an interactive dashboard to display the Priority Areas for Focused Attention. The online dashboard includes a wealth of information, ranging from data sets that were used in the model's development to the priority area polygons. All polygons are interactive and display information that provide a better understanding of the conditions in a particular area, management considerations, and additional context surrounding why it was included as a Priority Area for Focused Attention.
+
+## MONTANA WILDFIRE RISK ASSESSMENT -
+
+The Montana Wildfire Risk Assessment (MWRA) is a quantitative analysis of highly valued resources and assets across the state and their potential vulnerability to wildfire. The MWRA analysis considers several different components, each resolved spatially across the state, including the likelihood that a fire will occur, the intensity of a potential fire, the exposure of resources and assets based on their locations, and the susceptibility of those resources and assets to wildfire. This foundational information and data about wildfire hazard and risk supports wildfire response, regional fuels management planning, and revisions to land and resource management plans. This high-resolution wildfire risk analysis will be used to refine the Priority Areas for Focused Attention and assist local land managers and decision-makers as they begin to sequence and prioritize their programs of work.
+
+## Photo courtesy of USFS, Northern Region
+
+## 2
+
+## MAJOR FINDINGS AND RECOMMENDATIONS 1 3 4
+
+Drawing from the information in the Assessment and the data derived from the Priority Areas for Focused Attention, MFAAC identified a set of recommended goals and strategies for each of the major topic areas listed: Forest Health; Wildfire Risk; Working Forests and Economies; Biodiversity and Habitat Conservation; Human and Community Health; and Urban and Community Forestry.
+These goals and strategies are intended to facilitate cooperation and coordination amongst land managers, governments, forest owners, and other partners to improve forest health, reduce wildfire risk, support biodiversity and habitat conservation, improve human and community health, and promote the many benefits of urban and community forestry. These strategies and recommendations were largely driven by:
+
+## Resource and management needs;
+
+Opportunities identified within the Assessment;
+
+## The experience and expertise of MFAAC members; and
+
+The need to address existing information and data gaps.
+While designed to facilitate cross-boundary collaboration and coordination, the strategies outlined will not replace full public input processes required by MEPA or NEPA. All projects, including those recommended in the Montana Forest Action Plan, will continue to be evaluated on best available science in addition to purpose, need, and public input. Federal agencies must adhere to FACA guidelines and will do so in any collaborative efforts which they are engaged.
+
+## Photo courtesy of Visit MT, Yellowstone County
+
+## FOREST HEALTH
+
+Nearly one-quarter of Montana is covered by forested lands, ranging from mixed conifer stands in the west and ponderosa pine and riparian cottonwood stands in the east, to the ash and elm trees common in our urban and community forests across the state. Climate change and management decisions over the last 100 years have altered the structure and composition of many of Montana's forests, creating conditions in certain forest types that represent a major departure from how forests evolved over time. Large-scale fire exclusion, past harvest practices, and the lack of landscape-scale management altered the species distribution and forest stand types 
+(Naficy et al., 2010)
+. Current data shows that over 60% of Montana's forests are dominated by shade tolerant species and, in some areas, have tripled their extent over the past century 
+(Steinberg, 2002)
+. Over the past 10 years alone, insect and disease outbreaks have occurred on nearly half of the 23 million acres of forested land in the state. Impacts from insects and diseases are a natural part of forest succession and are not inherently negative; howev-Photo courtesy of USFS, Northern Region er, the effects change when the populations reach outbreak levels. While some outbreaks minimally or temporarily damage trees, bark beetles and root diseases have had a more lasting effect. The mapped extent of the recent mountain pine beetle outbreak in Montana (1999-2015) covers 6 million acres. Some of these areas were minimally impacted with only sporadic tree mortality, while other areas were severely affected and experienced widespread mortality from the beetles. Root diseases are often overlooked when discussing forest conditions, yet they cause significant tree decline and mortality. The main root diseases impacting Montana forests are Armillaria root disease, Heterobasidion root disease, tomentosus root rot, laminated root rot, and schweinitzii root and butt rot. More than 5.7 million acres across Montana and Idaho are currently infested with one or more root diseases, leading to an estimated loss of over 166 million cubic feet of timber per year (USDA FS, 2016). These diseases are expected to continually spread into susceptible forest stands.
+Climate scientists project that increasing temperatures and changing precipitation patterns will increase tree mortality and negatively affect forest establishment, regeneration, growth, and productivity 
+(Hankin et al., 2019;
+Davis et al., 2019)
+. Additionally, the distribution and extent of forests will change over time. Some tree species will expand their geographic ranges while others will contract, and some models predict an overall loss of forested landscapes throughout the state 
+(Keane et al., 2018;
+Whitlock et al., 2017)
+. Climate change will also continue to exacerbate the spread of invasive species, threatening increased loss of habitat and ecosystem services. The annual mortality of forests has outpaced annual growth due to the combined effects of climate change, species shifts, fire exclusion, insects and diseases, invasive species, and a lack of active forest management (USDA FS, 2019).
+Currently, the scale of the forest health issues far exceeds management capacity to help restore forests to be more resilient to wildfire, insects, diseases, and a changing climate. Based on estimates from several forest management agencies, fewer than 100,000 forested acres are treated annually with mechanized means or prescribed fire. Management activities are rarely coordinated across jurisdictional boundaries to address common issues, and although recent initiatives and authorities help facilitate better planning and management, there are still barriers or gaps in agencies' ability to employ those tools. More must be done to support formal coordination at the local level and ensure that interagency and cross-boundary work becomes a normal part of managing our forests.
+Going forward, active forest management and restoration (including commercial harvest, thinning, hazardous fuels reduction, prescribed fire, and wildfire managed for resource benefit) will play an integral role in restoring forest conditions that are more resilient to extreme wildfire, insects and diseases, and climate change. This will require coordination, prioritizing collective work, and using innovative approaches and ideas to improve Montana's forests.
+
+## RECOMMENDED GOALS AND IMPLEMENTATION STRATEGIES
+
+The Montana Forest Action Plan aims to: • Prioritize lands within Priority Areas for Focused Attention when planning forest restoration projects.
+• Invest in expanding agency capacity to implement a variety of treatment types, including mechanical treatment and prescribed fire, to increase the pace and scale of restoration treatments in Priority Areas for Focused Attention.
+• Support projects that ensure forest growth, structure, composition, and function are representative of historical variability, disturbance regimes, and projected future climate change, considering forest type.
+• Better serve Indian Country by engaging tribes in Montana in identifying programs of work that address forest health and wildfire risk issues in and around tribal communities.
+• Work collaboratively with all forest owners, land managers, and communities to implement management activities that maximize ecosystem service benefits.
+• Support state and federal programs that assist private landowners in managing their forested lands and expand the use of cost-share programs and grants to improve forest health.
+• Develop a statewide inventory of forest conditions, pests and root diseases, and responses to natural and human disturbances that improves the ability to track and model forest health conditions overtime.
+ο Target at-risk tree species specifically, such as limber and white bark pine, that have potential for threatened and endangered listing.
+• Support and expand funding for ongoing applied science efforts-by state agencies, universities, and other relevant partners including citizen scientists-to improve invasive species detection and prevention and are tailored to geographic needs and conditions.
+• Work with the Montana Legislature and the Montana Invasive Species Council to explore opportunities to fund long-term monitoring and management of invasive species across ownerships and jurisdictions.
+
+## Photo courtesy of USFS, Northern Region
+
+## INCREASE THE UNDERSTANDING AND UTILIZATION OF TOOLS AND AUTHORITIES THAT FACILITATE CROSS-BOUNDARY WORK AND BUILD OUR COLLECTIVE CAPACITY TO ACCOMPLISH MORE WORK.
+
+• Promote the use of Good Neighbor Authority with all seven of the national forests and the Bureau of Land Management (BLM) units to build workforce capacity to facilitate forest resiliency, wildfire risk reduction, and other restoration goals on federal forest lands in the Priority Areas for Focused Attention.
+• Expand and promote education and outreach efforts concerning cross boundary tools and authorities, such as the Wyden authority, to increase active stewardship on private lands and stress the benefits of enduring partnerships.
+• Foster a work environment where a spectrum of partners-including collaboratives, federal, state, tribal, and local government agencies-institutionalize cross-boundary projects.
+• Support state and federal programs that monitor joint progress over time.
+• Provide outreach and education to improve public understanding of and support for appropriate use of wildfire managed for resource benefit.
+
+## IMPROVE WATERSHED CONDITIONS AND WATER QUALITY ACROSS FORESTED LANDSCAPES.
+
+• Support projects that maintain or improve intact and connected forested landscapes and watersheds.
+• Explore opportunities to expand funding for streamside and instream restoration as well as actions to improve impaired waterbodies.
+• Maintain and strengthen the level of compliance with Forestry Best Management Practices across all ownerships.
+MITIGATE AND ADAPT TO THE IMPACTS OF CLIMATE CHANGE TO MONTANA'S FORESTS.
+• Improve baseline data and risk information on old growth and species at risk, such as whitebark pine and western white pine, due to the ecological importance of these species and the risk of loss due to climate change and uncharacteristic disturbance.
+• Work with the Montana University System, scientists, government agencies, and other relevant partners to better understand the role of Montana's forests in the carbon balance of the state.
+• Use best available science and support peer-reviewed and agency research on the effects of climate change on forested landscapes.
+• Examine forest practices for opportunities to optimize carbon sequestration, climate adaptation, and future resiliency.
+• Encourage reforestation efforts after severe events, where appropriate, to promote the regeneration of suitable native species that may be more resilient to the impacts of climate change.
+• Develop a forest resilience monitoring program to inform management decisions and actions to manage for forest health.
+• Build on the recommendations specifically stated in the Montana Climate Solutions Plan:
+ο Use forest management practices to maintain structure and composition to increase resiliency to insects, disease, and uncharacteristic stand-replacing wildfires.
+ο Protect municipal watersheds.
+ο Maintain the long-term capacity of forests to continue to buffer emissions as natural carbon sinks.
+
+## WHITE PINE BLISTER RUST
+
+White pine blister rust is a lethal fungal disease that was introduced into the western US in the early 1900's. Since its introduction, white pine blister rust has irreversibly altered 5-needle pine ecosystems across Montana landscapes. Five-needle pines are far-reaching and include the stately western white pine valued for its timber, whitebark pine essential for snowpack retention in high elevation forests, and limber pine that provides valuable wildlife habitat along the Rocky Mountain Front. Each of these species is an iconic component of Montana forests, and each of these species has been markedly damaged by white pine blister rust. Ongoing efforts aim to restore 5-needle pines that are genetically resistant to this ubiquitous disease, but habitats are changing swiftly as trees die or fail to regenerate.
+Montana's forestry professionals continue to work together to prevent additional introductions of invasive species, swiftly detect organisms that have arrived, and aggressively manage outbreaks.
+
+## Photo courtesy of DNRC
+
+## WILDFIRE RISK
+
+In Montana, fires cover a spectrum of conditions from low-severity localized fires to landscape-scale high-severity wildfires 
+(Neary & Leonard, 2015)
+. For thousands of years, prairies and woodlands were shaped by both naturally-occurring fires as well as the deliberate, purposeful, and careful application of fire by Indigenous people. Over the past 100 years, however, the practice of large-scale fire exclusion and a history of varying management practices have changed the way Montana's forests respond to and recover from wildfires. Many of the forests that were once dominated by fire-tolerant tree species and moderate fuel loads are now dominated by species that are less fire-tolerant, resulting in uncharacteristically dense stands with excessive fuel loads 
+(Arno et al., 1997;
+Mortiz et al., 2014)
+. Increased fuel loading, shifted fire regimes and forest dynamics, insect epidemics, climate change, and drought are all major factors that contribute to increasing wildfire risk in Montana.
+While fire will always play an important and necessary natural role in Montana's forests, the current state of the forests has created a fire-prone landscape more susceptible to high-severity wildfires. Today, over 85% of Montana's forests are at elevated risk of wildfire 
+(DNRC, 2020)
+. Similar to other states throughout the West, Montana's fire seasons are becoming longer and more severe 
+(Holden et al., 2018)
+. More than ever, Montana now experiences megafires (fires over 100,000 acres) and the average fire season is 40 days longer than it was 30 years ago 
+(Freeborn et al., 2016)
+.
+Wildfires increasingly threaten communities, critical infrastructure, and the millions of acres of forests and grasslands across Montana. In Montana, over 60% of wildfires are caused by human activity. Over the past 25 years, one in eight new homes in western Montana was built in a high wildfire hazard area, and over 64% of Montanans live in the Wildland Urban Interface (WUI; 
+Radeloff et al., 2018)
+. Because of the increased development in the WUI, the complexity and cost of fighting fires, the chance of unintended human-caused ignitions, and the strain on firefighting resources have all risen substantially (Williams, 2013). The demands posed by these current conditions and the now year-round threat of wildfire exceeds the current capacity of fire preparedness and response resources. The ability to adequately address community needs, proactively minimize risk, and prepare for the eventuality of wildfires is oftentimes over-extended.
+Active forest management, such as mechanical thinning and prescribed fire, is one of the most important tools to reduce the risk and severity of wildfire alongside a robust community preparedness strategy. This approach is especially important in the low-elevation Photo courtesy of USFS, Northern Region fuel types where past fire suppression has had the greatest impact in terms of increased fuel loading. Focusing management in high-risk areas and specific forest types increases the effectiveness of treatments and restores healthy forest conditions. While active management cannot eliminate wildfires, it can help moderate fire behavior, moderate the severity, and reduce the risk of ember production under certain fire conditions. Forest management can also create safer conditions for firefighters responding to wildfires 
+(Reinhardt et al., 2008)
+. It will be essential to focus management and restoration efforts on the areas that have been identified as Priority Areas for Focused Attention, where wildfire risk and forest health concerns are greatest.
+Restoring fire to an ecosystem is essential to maintain desired forest conditions. Prescribed fire, or the intentional use of fire in specific conditions, is a tool used by managers. Prescribed fire can help to maintain vital ecosystem functions, while minimizing both short-and long-term fire risk to nearby populations and critical infrastructure. Smoke is an impact of both wildfire and prescribed burning, however, prescribed fires are regulated and monitored by state and local government agencies and subject to strict air-quality standards. Occasionally, smoke from a prescribed fire can inundate a community, but the impacts are usually light and dissipate in a few hours. In contrast, wildfires burn uncontrolled for an undetermined amount of time, making it nearly impossible to manage how much smoke is produced and where it accumulates 
+(Navarro et al., 2018)
+. Federal agencies are also exploring opportunities to manage wildfires for resource benefit or making the strategic choice to use naturally ignited fires to achieve resource management objectives, where appropriate.
+Although management actions can reduce the risk and severity of wildfire in certain forest types under some fire conditions, it cannot eliminate the impacts of wildfire on Montana communities and people. The protection of the public and firefighters is always the highest priority and, given the expansion of the WUI in Montana, ensuring communities are prepared and adapted for wildfire is a high priority. Research indicates that a home's characteristics and its imme-diate surrounding determine the potential for ignition when exposed to embers and radiant heat. To increase the chance of a home's survival during a wildfire, homeowners need to prioritize work in the home ignition zone, or the immediate area including the structure and extending up to 100 feet 
+(Finney & Cohen, 2008)
+. Land managers must deliberately engage with Montanans to help them create fire-adapted communities and anticipate wildfire as an inevitability of the landscape in which they live 
+(Calkin et al., 2014)
+. Homeowners can often take simple and inexpensive mitigation actions to improve firefighter and public safety, greatly reduce their homes' susceptibility to windblown embers and radiant heat, and drive down the costs of fire suppression.
+Additionally, local government planning efforts that reflect the increasing risk of wildfire in the WUI must be supported. These efforts include Community Wildfire Protection Plans (CWPPs), which assist counties in planning for, responding to, and recovering from wildfire events. In Montana, CWPPs are the primary mechanism used to coordinate response, set local priorities, and reduce the threat of wildfire in the WUI. Building practices and laws also need to evolve to reflect the current wildfire risks to communities and infrastructure, especially in the WUI. By helping community members understand how their actions will allow them to safely coexist with wildfire, Montana can foster fire-adapted communities, restore resilient landscapes, and ensure a safe and effective response to wildfires.
+The risk of wildfire to lives, property, and natural resources is ever present in Montana, with over 20 million acres at an elevated risk of wildfire, including over 3 million acres in the Priority Areas for Focused 
+Attention (DNRC, 2020)
+. Creating more resilient forests and communities will require a comprehensive approach. No single entity can address the wildfire risk challenges alone. It will require strong partnerships, innovative approaches, and a commitment to work with one another across real and perceived boundaries.
+
+## Photo courtesy of USFS, Northern Region
+
+## RECOMMENDED GOALS AND IMPLEMENTATION STRATEGIES
+
+The Montana Forest Action Plan aims to:
+Reduce the risk of wildfire to communities, water supplies, natural resources, critical infrastructure and other values of concern while restoring characteristic fire-adapted landscapes in a manner appropriate to local fire regimes.
+
+## Strategies to achieve this goal include:
+
+REDUCE WILDFIRE RISK TO COMMUNITIES, WATERSHEDS, AND INFRASTRUCTURE.
+• Prioritize lands within Priority Areas for Focused Attention when planning wildfire risk reduction projects and increase community protection efforts by promoting active forest management on landscapes adjacent to high-risk WUI areas.
+• Use the Montana Wildfire Risk Assessment to focus community risk reduction, community preparedness, fire adaptation, and watershed protection efforts on areas of greatest risk within the Priority Areas for Focused Attention.
+• Invest in agency capacity to implement a variety of treatment types, including mechanical treatment, prescribed fire, and grazing, to increase the pace and scale of hazardous fuels treatments in Priority Areas for Focused Attention.
+• Better serve Indian Country by engaging tribes in Montana in identifying programs of work that address forest health and wildfire risk issues in and around tribal communities.
+• Work with utility companies to reduce their wildfire risk and jointly identify opportunities for mitigation.
+• Expand programs that offer technical and financial resources to communities to treat landscapes where federal lands and private property are adjacent.
+• Continue to provide cost-share programs and grants to improve forest health and fire management.
+• Explore opportunities to expand funding resources for communities to mitigate impacts from recent wildfire events and enhance postfire recovery.
+• Support the Forest Legacy Program, conservation easements, and other incentive-based voluntary efforts to conserve high priority working forests and prevent poorly planned urban expansion.
+• Explore opportunities to develop a consistent tracking system to account for wildfire response and wildfire risk reduction treatments across ownerships and jurisdictions.
+• Expand, when possible and appropriate, the use of wildfire managed for resource benefit in such a way that restores ecosystem function while minimizing the negative impacts on human populations.
+ο Evaluate and explore the various agreements in place and identify potential efficiencies or modifications needed to allow the use of prescribed fire across ownerships.
+• Increase the capacity of private landowners to use fire as a management tool through a robust education and training program on how to safely, lawfully, and effectively use fire on the landscape.
+• Work with willing private landowners to identify and overcome barriers to the widespread application of prescribed fire for maintaining desired ecological conditions and fuel loadings, including insurance liabilities.
+• Expand and promote education and outreach on the historical role of fire in western landscapes, on using fire as a management tool, on smoke management, and on the benefits of low-risk wildland fires where allowed.
+ο Support land management agencies, universities, state agencies, and others in efforts to engage Montanans on the air quality regulations, the permitting process, and the public health benefits of using prescribed fire.
+RESTORE RESILIENT LANDSCAPES WITH PRESCRIBED FIRE.
+• Establish a Montana Prescribed Fire Council to facilitate and coordinate the increased use of prescribed fire and low-risk wildland fire in Montana to restore fire-adapted landscapes.
+ο Support the priorities of the Montana Prescribed Fire Council that include taking a strategic and proactive role in addressing prescribed fire liabilities, cross-boundary barriers, capacity constraints, tolerances for fire and smoke, and public education opportunities, as well as incentives to expand the use of prescribed fire and low-risk wildland fire across all ownerships.
+• Increase the capacity of agencies, local government cooperators, private land owners ,and contractors to use prescribed fire through training and by establishing cooperative agreements to allow for shared resources and personnel across all ownerships.
+ο Develop and fund interagency prescribed fire crews and teams to provide additional workforce capacity.
+
+## Photo courtesy of DNRC Photo courtesy of DNRC
+
+FOSTER FIRE-ADAPTED COMMUNITIES.
+• Expand investment in local government capacity to contribute to all three tenets of the National Wildland Fire Management Cohesive Strategy, realize the goals and objectives of their Community Wildfire Protection Plans, and engage land managers in relevant planning and project efforts by providing funding, technical assistance, and facilitating shared learning.
+• Provide local, state, and federal agencies with additional staff resources dedicated to community preparedness and fire prevention efforts in order to coordinate and support risk reduction activities.
+ο Priorities will include targeting high-risk WUI areas to reduce human-caused ignitions, coordinate and support community-led efforts to reduce wildfire risk, and partner with local and volunteer fire departments to enhance preparedness and response efforts.
+• Support land management agencies, universities, emergency services, and others in efforts to engage Montanans in preparing their homes, properties, and communities for wildfire.
+• Develop a concerted public outreach and education effort tailored to local needs and conditions to help landowners understand the severity of wildfire risk and the fact that mitigation efforts can save lives and minimize damage.
+• Work with a range of partners, including Conservation Districts and local collaboratives, to engage and educate the public on their responsibility to mitigate wildfire hazards in the home ignition zone.
+• Continue to emphasize the home ignition zone, neighborhood scale initiatives, and the interplay between communities and the health of nearby landscapes.
+• Convene a wide array of partners to revise the Guidelines for Development within the Wildland Urban Interface to identify best practices for development in the WUI and identify criteria for providing grant and loan assistance to local government entities to facilitate the adoption of the guidelines.
+• Support state and federal agency engagement with local governments on land use and hazard mitigation planning.
+ο Promote codes and ordinances that better reflect the conditions on the ground and the growing complexities of fighting wildfire in the WUI.
+ο Support the revision of CWPPs and work to align local, state, and federal resources and priorities.
+• Amplify existing collaboratives and create new opportunities for communities to form coalitions and leverage partnerships to improve wildfire adaptation.
+• Build awareness of collaborative opportunities to address wildfire risk, such as the Fire Adapted Montana Learning Network.
+
+## INCREASE FIREFIGHTER SAFETY AND EFFECTIVENESS.
+
+• Provide additional funding to support year-round employment opportunities to adequately staff the fire year and improve training and workforce development programs to expand the skillsets of wildland firefighters.
+• Continue to provide grants, equipment, suppression vehicles, training, and prevention materials to fire departments through existing programs, such as the Rural Fire Capacity Program and the State-County Cooperative Fire Protection Arrangement.
+• Provide incentives for local government fire services to be robust and effective at initial and extended attack.
+• Develop and modernize data capture systems to standardize fire data across Montana.
+
+## MITIGATE THE IMPACTS OF CLIMATE CHANGE ON WILDFIRE EFFECTS.
+
+• Increase post-fire recovery efforts, such as reforestation and tree planting, following severe wildfire events and when natural reforestation is unlikely.
+• Support peer-reviewed and agency research on climate change's effects on forested landscapes and wildfire.
+• Build on the recommendations specifically stated in the Montana Climate Solutions Plan:
+ο Develop strategies to integrate climate adaptation with disaster mitigation plans and wildfire planning efforts to support resilience planning and facilitate implementation.
+ο Continue to address wildland fire risks through coordinating interagency planning and response, supporting wildfire-adapted communities, and building resilient landscapes through active forest management to improve safety and protect communities across ownership boundaries.
+• Increase public awareness of the impact of climate change in creating longer, larger fire seasons so that they better understand the importance and urgency of their role in fostering fire-adapted communities.
+
+## COUNTY CO-OP PROGRAM:
+
+By formally partnering with all 56 Counties in Montana, DNRC ensures wildland fire protection on over 45 million acres of state and private land through an arrangement known as the State-County Co-op Fire Protection arrangement.
+Through this arrangement, Montana counties agree to provide the basic level of wildland fire protection through a system of rural firefighting organizations and local personnel. These county and local government firefighters provide initial attack and, in most cases, extended attack on wildland fires in their jurisdiction. Thousands of fires are contained and controlled each year without large-scale intervention by wildland fire protection agencies due to the program's effectiveness.
+In return for this service, counties receive DNRC support in the form of organizational and technical assistance, fire equipment, training, and fire response assistance when needed. When a wildland fire exceeds the capacity of the county, DNRC mobilizes to assist the county, bringing the considerable resources of the state and its federal partners at no additional cost to the county.
+The State-County Co-op Fire Protection arrangement has been a highly effective fire protection model in Montana for the past 50 years and this success can be attributed to the enduring partnerships that exist across the state.
+
+## Photo courtesy of DNRC
+
+## WORKING FORESTS AND ECONOMIES
+
+A strong and diverse forest industry provides the workforce, expertise, and equipment that is essential to meeting forest health, management, and wildfire risk reduction goals. Montana is fortunate to have a largely intact and integrated forest products industry, which uses a wide range of material from active forest management and restoration activities to produce valuable and diverse wood products. This affords forest managers the ability to generate revenue from active management, offsetting the costs of restoration treatments. Without a robust and diverse industry, the cost of restoration and management treatments would be cost prohibitive at a meaningful scale.
+Montana has a wide array of forest products manufacturers, including both large and small sawmills, a pulp chip producer, a specialty plywood mill, post and pole mills, facilities that manufacture products from mill residuals, firewood yards, small niche enterprises selling finished wood products, and the country's first manufacturer of cross-laminated timber. Montana has eight large sawmills, primarily situated in the western part of the state, that account for approximately 95% of the state's lumber production and approximately 70 smaller mills that account for the remaining 5% of production. Almost all (99.5%) of mill residuals generated by both large and small mills are utilized by other manufacturers (BBER, 2017). While the forest products industry faces the challenge of finding markets for smaller sub-merchantable material, entrepreneurs continue to explore market solutions through innovations such as biofuels and biochar. These facilities are increasingly important to the economic viability of Montana's communities and to the ability of landowners and managers to complete effective forest management and restoration. Future diversification of timber products will be necessary, and challenging, as the market for forest products shifts. Diversification and investment in new technologies will play an integral role in increasing the utilization of raw forest products and making Montana's forest markets regionally competitive.
+While resource managers face the challenge of finding markets for smaller sub-merchantable material, the forest products industry and other entrepreneurs continue to explore market solutions through innovations including new building systems, biomass energy, biochar, and biofuels. Future diversification of timber products will continue to be necessary and challenging, as the market for forest products shifts. Diversification and investment in new technologies will be an integral part of increasing the utilization of raw forest products and making Montana's forest markets regionally competitive. Montana's forest products industry is challenged by several issues, among them are inconsistencies in fiber supply, labor shortages, distance Photo courtesy of USFS, Flathead National Forest from forest to mill, distance to market, and competition in national and international markets. Many of the issues are interrelated and addressing them will be necessary not only support Montana's forest industry, but also to ensure the collective ability to manage forests into the future.
+The available timber supply is a major factor impacting the size and health of the forest products industry (BBER, 2017b). As of December 2019, Montana mills were running at 60-65% capacity, and nearly two-thirds of the state's large sawmills and small wood products facilities have closed since 1990, following a downward trend in timber harvested in Montana 
+(Morgan et al., 2019)
+. While there have been sharp declines in forest industry employment since 1990, over 9,000 people throughout the state continue to work in wood products manufacturing, logging, or other forestry-related employment 
+(BBER, 2017b;
+BBER, 2017)
+. Much like the general manufacturing sector in the U.S., Montana's forest industry continues to be challenged by labor shortages and the recruiting and retention of a skilled workforce.
+Over 80% of Montana's wood products are exported to markets outside of the state, where they must compete with other commodity products that are often sourced much closer to the consumer (USDA FS, 2020). Transporting goods to markets substantially reduces the profit margin for most of the existing industry. Mills that have weathered the market fluctuations and avoided closures relied on product diversification, innovations, and investing in technology capable of economically processing small diameter material.
+In Montana, typically 88% of timber harvested is milled into commodity lumber 
+(Hayes & Morgan, 2017)
+. Commodity markets are volatile; they can fluctuate rapidly and dictate the cost of raw materials. Record setting volatility in lumber prices has occurred in 2020. The combination of an unpredicted increase in demand and curtailed sawmill production across the world has resulted in record high lumber prices (NAHB, 2020). The summer surge and consistent upswing in prices normally ends around July, but in 2020 has continued unabated into late September. In November of 2020 prices have been declining, and it is expected that lumber prices will return to a more traditional range over the winter (DNRC Internal Communication, 2020). Regardless of how the market adjusts to the changes seen in 2020, volatility in markets will always impact commodity producers.
+Conservation of working forested lands in not only critical to the forest products industry, but also to many of the intrinsic values of forested landscapes. The Forest Legacy Program was established in 1990 by USDA Forest Service in response to the conversion of private timberlands to other uses. The term "working forests" was coined to capture the variety of public values that were targeted to be conserved through the Forest Legacy Program. Forest Conservation is accomplished voluntarily through cash purchases, donations, or a combination thereof. Nationally, the program has helped conserve about 2.8 million acres of working forests. In Montana, the Forest Legacy Program has preserved a total 260,742 acres through permanent conservation as required and outlines in the Assessment of Need produced by Montana Fish, Wildlife and Park While the issues facing the forest products industry are not new, they will continue to shape the industry, especially over the next few decades. With the increasing need to improve forest health and reduce wildfire risk across Montana, maintaining working forests and the industry that supports them is crucial. With a sustainable supply of wood fiber and a qualified workforce, Montana's forest products industry will create opportunities and rise to the challenge of producing products for emerging and established domestic and global markets. Montana's forest products industry has an important and necessary role in achieving landscape-scale forest restoration and management across the state.
+
+## Photo courtesy of DNRC
+
+## RECOMMENDED GOALS AND IMPLEMENTATION STRATEGIES
+
+The Montana Forest Action Plan aims to: Across all land ownerships, maintain working forest landscapes that support multiple values, including the forest products industry and infrastructure.
+Strategies to achieve this goal include:
+
+## MAINTAIN WORKING FOREST LANDSCAPES
+
+FOR MULTIPLE BENEFITS.
+• Pursue the conservation of large, unfragmented tracts of forest land through tools like conservation easements and expand the use of existing tools and authorities where current infrastructure exists.
+• Actively support projects and programs that contribute to the retention of Montana's forest products industry in order to manage the expected increase in pace and scale of cross-boundary restoration projects.
+• Work with industry partners, the Forest Action Plan Implementation Committee, land managers, collaboratives, and conservation groups to determine realistic and achievable goals and restoration targets for forest management and wildfire risk reduction in Montana.
+• Support conservation projects that provide multiple social, economic, and ecological benefits, including an ongoing supply of forest products, public access to recreation opportunities, watershed health, and wildlife habitat.
+ο Use stewardship contracts and Good Neighbor Authority to offset the costs of restoration through revenue attained from commercial timber harvest.
+ο Maximize opportunities presented by commercial harvest to accomplish multi-purpose projects and utilize efficiencies of combining fuels reduction, habitat improvement, and other restoration work.
+ο Engage private landowners adjacent to federal and state lands to participate in cross-boundary projects as they are developed.
+ο Utilize farm bill programs that support watersheds and wildfire resilience needs on working lands.
+• Increase outreach and engagement with landowners that promotes planning and provides resources for the stewardship of family forest lands.
+• Invest in innovative targeted marketing strategies and expand partnerships to increase stewardship activities on non-industrial private forest lands.
+• Coordinate with DNRC Trust Lands Management Division to advance opportunities to achieve multiple objectives on forested state trust lands.
+• Support projects that highlight the dynamic use of landscapes including grazing, alternative energy projects, and streamside restoration.
+• Increase data sharing across jurisdictions, specifically pertaining to road inventories, right of way, and forest stand data to emphasize collaborative transportation planning, where appropriate.
+• Prioritize and amplify local collaboration, including the development of projects that accomplish multiple objectives and meet local resource needs.
+ο Continue to use DNRC Service Foresters as the primary point of contact for landowners participating in forestry assistance programs.
+
+## SUPPORT AND MAINTAIN THE FOREST PRODUCTS INDUSTRY AND MILLING INFRASTRUCTURE.
+
+• Increase volume of fiber and fiber availability to produce a consistent and reliable supply, and develop forest products infrastructure in order to meaningfully address forest health and wildfire risk reduction objectives.
+• Work with the forest products industry and local leadership to develop comprehensive, long-term plans that establish a consistent supply of materials for existing processing facilities, and encourage new investment in wood utilization infrastructure.
+• Support the efforts of land management agencies, universities, and others to engage Montanans on the benefits of active forest management and increased wood utilization.
+• Support the efforts of land management agencies, universities, and others to engage Montanans on the connection between healthy forests and a vibrant forest products industry.
+• Expand the scope and use of existing tools and authorities that provide funding for restoration projects within Priority Areas for Focused Attention.
+SUPPORT THE DIVERSIFICATION OF WOOD PRODUCTS.
+• Support market and business developments, mill investment, and industry innovation for forest products, biomass, and wood energy across the state.
+• Incentivize or provide cost-share programs for wood innovation and biomass energy sources.
+• Encourage the use of technologies that increase the utilization of small diameter wood and restoration by-products.
+• Support new markets, business opportunities, and industries that facilitate forest restoration and cross-boundary management.
+• Assess the effectiveness of forest product marketing, delivery, and utilization to promote wood products use in Montana.
+• Work with partners and Montana's education system to expand forestry workforce recruitment opportunities and retention.
+ENHANCE LOCAL ECONOMIC BENEFITS.
+• Expand the use of stewardship contracting and other authorities.
+• Support multiple use of lands to best meet the current and future needs of Montanans and their livelihoods.
+• Recognize the role private ranchland plays in maintaining working forests landscapes and the economic interdependence of forest, grassland, and water management for Montana's livestock producers.
+ο Give consideration of the value of grassland grazing resources in project selection and design.
+• Embrace grazing as a potential forest management approach and tool, when and where appropriate, including the of use of grazing as a fuel management tool to reduce fuel loading.
+• Monitor available funding resources including Secure Rural Schools and Payment in Lieu of Taxes.
+
+## Photo courtesy of DNRC, Brooklyn
+
+Bridge GNA Sale 
+
+## GOOD NEIGHBOR AUTHORITY
+
+## FOREST STEWARDSHIP ON FOREST LANDS
+
+In Montana, non-industrial private forest lands account for nearly 25% of all forested areas. Whether someone owns a handful of trees or hundreds of acres of trees, each owner has a unique perspective and value system that guides how they choose to manage their forests, including specific ecosystem and habitat conditions for plants and wildlife, prioritizing long-term timber yields as sources of income, or relying on their forests for ranching and agriculture benefits. In fact, through active management and timber harvest, these private landowners contribute an average 25% of merchantable products to Montana's forest products industry (BBER, 2018).
+Additionally, private forests help provide clean water and air to surrounding communities, allow for recreational use and public land access points, and provide environmental carbon sequestration benefits. The informed management of non-industrial forest lands provides significant community protection benefits by reducing wildfire risk.
+It is important that the appropriate tools and resources are made available to private landowners, so they can make informed decisions about managing their forests. DNRC and other partners provide outreach and engagement, professional technical assistance, and educational materials and programs to sustain the functional and vital role of these private forest owners.
+and programs to sustain the functional and vital role of these private forest owners.
+
+## Photo courtesy of DNRC
+
+## BIODIVERSITY AND HABITAT CONSERVATION
+
+Montana's forested ecosystems are diverse and extensive, providing habitat for fish and wildlife populations. Many species contribute to the health and integrity of ecosystems, making conservation and restoration of forests integral to sustaining the biodiversity that makes Montana unique. Forests also provide ecological, recreational, economic, and aesthetic values to Montana citizens and visitors.
+Forest ecosystems are dynamic-they constantly change within their natural range of variability. Montana's forests, however, currently face challenges that threaten their ability to provide essential habitat and conditions to support healthy, viable fish and wildlife populations 
+(Hansen et al., 2002;
+Mortelliti et al., 2010;
+Prugh et al., 2010)
+. Conserving and restoring forests, as well as reducing threats to allow for natural disturbance patterns, is critical for the maintenance of healthy, functioning ecosystems 
+(Thom & Seidl, 2016)
+.
+Influences such as management decisions, climate change, and uncharacteristic insect and disease outbreaks transform natural disturbance regimes, which in turn alters the composition and structure of species within a forested ecosystem 
+(Long, 2009)
+. Management for ecological resilience must also address the impact of human-caused disturbance patterns, including impacts from recreation, roads, structure development, and changing land uses. As human activities and developments disrupt these natural systems, they affect the status and trends of ecosystems and their component fish, wildlife, and plant communities 
+(Haddad et al., 2015;
+Seidl et al., 2016)
+.
+Disruption of Montana's natural fire regime and other land use changes have impacted forested ecosystems, which has had significant implications for habitat and biodiversity 
+(Bradstock et al., 2005)
+. A low-severity mixed fire regime once maintained a range of plant communities and structural conditions 
+(Arno et al., 2000)
+, which are important to a variety of native aquatic and terrestrial animal species. The move away from low-severity mixed fire regimes shifted plant communities in Montana's forests away from those that are fire resistant. Low to mid-elevation ponderosa pine forests across the state are denser, with more trees per acre, while the species composition has gradually shifted to include more fire-susceptible species. 
+(Keeling et al., 2006)
+. Recent research on the effects of reintroducing frequent, mixed-severity fire to such altered forest ecosystems indicates it can restore historic tree and shrub species compositions, and thereby improve habitat conditions for native fish and wildlife 
+(Larson et al., 2013)
+.
+Conifer expansion into grass or shrub-dominated uplands, often due to a lack of fire, can reduce the value of these important habitats for a variety of wildlife Photo courtesy of USFS, Flathead National Forest species 
+(Coates et al., 2017;
+Schirokauer, 1996;
+Grove et al., 2005;
+Hamilton et al., 2019)
+. For example, sagegrouse avoid tall conifers that encroach into sagebrush grasslands, thus directly reducing their habitats for varying periods of time 
+(Severson et al., 2017)
+. Shading from coniferous trees can also reduce the preferred forage of ungulates-browse or grasses-which is particularly important within wintering areas.
+Without natural fire disturbance, there has been an increase in Douglas-fir, which is able to out-compete other tree seedlings that cannot become established under shadier or densely stocked stands. In western Montana, Douglas-fir has replaced ponderosa pine in 40% of its original area, and western white pine has been reduced by 95% due to insect and disease outbreaks 
+(Arno et al., 2000;
+Keeling et al., 2006)
+. Over time, Douglas-fir, lodgepole pine, and Engelmann spruce have grown in density and replaced stands once composed of sparse ponderosa pine. The harvest of large ponderosa pine, which left other fire-susceptible species in their place, has further altered the natural fire regime. The resulting dense forests of differing composition provide habitats that represent a departure from pre-20 th Century conditions, which may not support the same communities of wildlife species as they once did.
+One of the greatest threats to Montana's wildlife and biodiversity is the loss of forested habitat through habitat fragmentation, human development, and other forms of habitat conversion. Eliminating or fragmenting habitats can lead to local extirpation or reduced resilience to new stressors, such as climate change or other factors 
+(Beller et al., 2019;
+Hames et al., 2006)
+. Individual habitat changes in isolation may seem minor, but the effects of habitat changes can accumulate over time, magnifying their overall impact 
+(Smith et al., 2011;
+McGarigal et al., 2001;
+Nitschke, 2008)
+. Severe, uncharacteristic disturbance can also compromise habitat continuity and connectivity. Damage caused by large wildfires and widespread mortality from insect and disease outbreaks can degrade habitat within core forested areas, interrupting key migration corridors 
+(Adhikari & Hansen, 2018)
+. As hu-man development and associated roads increase, the changes to the landscape can result in the direct loss of habitat, reduced habitat productivity, and increase in human-wildlife conflicts 
+(McKinney, 2002;
+Hansen et al., 2005;
+McCance et al., 2017)
+. New road construction should be part of any initial project design work and subsequent environmental analyses.
+Riparian forest areas very import to maintaining and promoting biodiversity. Riparian areas support breeding, hiding, and thermal cover; nesting structure; a variety of food types; travel corridors; and a host of other ecological and societal values. The shade provided by tall shrubs and trees and the soil-holding value of extensive deep root systems associated with riparian vegetation are critical for providing cool, clean water and integral to providing stream and river channel integrity, which is critical for many fish species and other aquatic life. The integrity of riparian forests and associated aquatic habitats is also strongly influenced by the condition and management of adjacent uplands. For instance, controlling noxious weeds, providing soil cover, and managing grazing in a manner that sustains native vegetation all directly influence riparian habitats. Water and associated riparian plant communities are essential to a majority of wildlife species in Montana, and these moist areas tend to provide increased productivity, particularly within dryer habitats 
+(Poff et al., 2016)
+.
+The Endangered Species Act (ESA) currently lists 16 animal and three plant species in Montana as threatened or endangered. Many more are considered "species of concern" by the Montana Natural Heritage Program 
+(MTNHP, 2019)
+. Federal agencies also identify at-risk species that overlap with the ESA species, including Bureau of Land Management (BLM) Special Status Species and USDA Forest Service Species of Conservation Concern. Among these are eight animal species (mammals, birds, and invertebrates) that depend on forested ecosystems and cold, clean waters for their continued survival and success. Thus, conserving forested ecosystems is essential to protecting all of Montana's at-risk and imperiled species, as well as ensuring forest health.
+
+## Photos courtesy of Visit MT
+
+## RECOMMENDED GOALS AND IMPLEMENTATION STRATEGIES
+
+The Montana Forest Action Plan aims to:
+Improve and maintain Montana's wildlife and biodiversity, including maintaining and restoring connected habitats, through collaborative approaches.
+Strategies to achieve this goal include:
+
+## MAINTAIN AND IMPROVE HABITAT CONDITIONS FOR HEALTHY AND VIABLE
+
+POPULATIONS OF NATIVE SPECIES.
+• Support integrated forest management and restoration projects that provide measurable benefits for fish and wildlife in Priority Areas for Focused Attention, including at-risk and imperiled species.
+• Support projects that integrate forest management with critical habitat conservation, especially for fish and wildlife species of concern.
+• Increase use of programs such as Habitat Montana to aid in habitat conservation and support habitat connectivity throughout the state.
+• Promote and maintain desired landscape conditions that restore and sustain fish populations as well as wildlife through planning and implementing habitat management plans.
+• Promote important stewardship principles, including wildlife and fisheries conservation, on family forest lands.
+• Create opportunities by promoting voluntary, incentive-based approaches to form coalitions and leverage public-private partnerships to maintain or improve habitat conditions, including conditions for imperiled and at-risk species.
+• Work to develop management plans for sagebrush and rangeland ecosystems that need removal of low, medium, and high-density encroaching conifers to help increase habitat, protect biodiversity, and increase forage.
+ο Improve native wildlife mobility and maintain and restore connected landscapes and watersheds.
+• Pursue voluntary, incentive-based conservation of large, unfragmented tracts of forest land while working with local government officials and neighboring landowners through the Montana Forest Legacy and other programs.
+• Incorporate wildlife movement and migration information when planning for developments that might act as barriers or result in human-wildlife conflicts.
+• Support projects to remove unnecessary roads and upgrade low-standard roads in order to reduce stream sediment loads and improve passage and connectivity for native aquatic species.
+• Ensure regeneration (either natural or artificial) of desired tree and shrub species with support from programs such as Montana's seedling nursery or the Forest Service nursery in northern Idaho.
+• Invest in and work to implement watershed and collaborative groups' desired outcomes to help resolve challenging land management policies and projects.
+• Build on the recommendations specifically stated in the State Wildlife Action Plan:
+ο Work with appropriate agencies to maintain quality aquatic habitats and to mitigate impacts and threats to fish and wildlife species of greatest conservation need.
+ο Prioritize conservation easements and acquisitions adjacent to current conservation investments in order to create contiguous protected habitat that provides habitat linkages across large landscapes.
+ο Support agency and private conservation activities and management practices that encourage and support sustainable land management practices, maintain or improve riparian vegetation, and maintain streambank and channel stability in excellent condition.
+ο Encourage restoration of natural fire regimes where appropriate or implement other management actions that mimic the ecological processes provided by fire.
+MAINTAIN, RESTORE, IMPROVE, AND CREATE HEALTHY RIPARIAN AND AQUATIC SYSTEMS.
+• Improve baseline data and information on riparian zones and aquatic habitats and hydrologic systems in order to better understand conditions and trends.
+• Support projects that maintain and improve conditions and functions of riparian zones and associated aquatic habitats and hydrologic systems.
+• Ensure that projects continue to follow current Streamside Management Zone Law and Best Management Practices.
+
+## MITIGATE THE IMPACTS OF CLIMATE CHANGE TO WILDLIFE AND BIODIVERSITY.
+
+• Improve baseline data and information on habitat conservation and biodiversity in Montana.
+• Support peer-reviewed and agency research on climate change's effects on wildlife migration and movement patterns as well as improving the accuracy of hydrologic projections.
+• Consider wildlife components of projects in the Priority Areas of Focused Attention.
+
+## Photo courtesy of DNRC, Western Larch
+
+## WILDERNESS AREAS
+
+Established by Congress and authorized under the Wilderness Act of 1964, the National Wilderness Preservation System includes over 700 wilderness areas in 44 states, totaling more than 107 million acres. Montana is home to 16 Congressionally designated wilderness areas, representing approximately 3.5 million acres (about 3.75%) of the state's lands. They include the highest peaks in the state, as well as low-lying marshland suited for wildlife refuges.
+The Wilderness Act defines a wilderness area as follows:
+"A wilderness, in contrast with those areas where man and his own works dominate the landscape, is hereby recognized as an area where the earth and its community of life are untrammeled by man, where man himself is a visitor who does not remain. An area of wilderness is further defined to mean in this chapter an area of underdeveloped Federal land retaining its primeval character and influence, without permanent improvements or human habitation, which is protected and managed so as to preserve its natural conditions and which (1) generally appears to have been affected primarily by the forces of nature, with the imprint of man's work substantially unnoticeable;
+(2) has outstanding opportunities for solitude or a primitive and unconfined type of recreation;
+(3) has at least five thousand acres of land or is of sufficient size as to make practicable its preservation and use in an unimpaired condition; and (4) may also contain ecological, geological, or other features of scientific, educational, scenic, or historical value."
+Montana's wilderness areas are home to thousands of species of flora and fauna-a number of them threatened or endangered. For many, wilderness areas are places of growth, reflection, and solitude. Montana's wilderness areas help maintain a connection to the land that can be difficult to find elsewhere: the silent, breathtaking views; the still turquoise waters of the glacial lakes; the rugged ridgelines dotted with snow year-round; and the sense of awe that these wild places instill.
+Wilderness areas are not only spectacular places to find quiet and connection, but they are among the most vulnerable to change. Plant and animal communities, particularly in high-alpine areas, are slow to respond to changing conditions; threats such as insect and disease outbreaks and wildfire can greatly impact wilderness areas. Wilderness areas are not surveyed in the statewide insect and disease mapping efforts, leaving large areas of land unassessed.
+Wilderness areas preserve the qualities of natural, untrammeled, and undeveloped land. Wilderness areas, along with roadless areas and wilderness study areas provide a network of diverse habitats contributing to the biodiversity seen across Montana.
+
+## Photo courtesy of USFS, Flathead National Forest
+
+Post-settlement human activity in Montana has severely altered floodplain structure and function. Historically, beavers (Castor canadensis) were present in much greater numbers before European colonization 
+(Wohl, 2006)
+. Beaver dams increase riparian vegetation, raise water levels, reduce the effects of peak flows from floods, and prevent sediment from being transported downstream 
+(McCullough et al., 2005)
+. Dams form lowflow areas within the water body, adding fish cover and breeding habitat for amphibians, as well as increased habitat suitability for some aquatic insects 
+(Marcus et al., 2002)
+. Beavers are widely known as "ecosystem engineers," providing structure to wetlands and streams, and changing nearby forest structure. Beaverdammed riparian corridors have also been shown to remain unaffected by wildfire when compared to similar riparian areas without beaver dams. Beaver activity plays a significant role in riparian vegetation fire resistance and refugia creation 
+(Fairfax & Whittle, 2020)
+.
+The large reduction in beaver populations is a leading cause of the loss of wetland habitat and deteriorating riparian ecosystem health 
+(Marston, 1994)
+. Natural resource managers around Montana are working to reintroduce beavers or install "beaver analog" devices to targeted watersheds; the goal is to increase water storage capacity and restore riparian functions to provide more cool, clean water for downstream needs.
+
+## ECOSYSTEM ENGINEERS: THE CASE FOR BEAVERS
+
+## URBAN AND COMMUNITY FORESTS
+
+Some of the most important trees to Montanans are those found in backyards, along urban streets, and outside of businesses that people frequent and enjoy. Montana's cities and towns contain a rich diversity of trees that are an important part of the state's history and are critical to the environmental, social, and economic well-being and sustainability.
+Over 180 tree species populate Montana's communities. According to 2017 estimates, street and park trees across the state provide over $17 million per year in economic and ecological benefits. Every dollar spent on managing urban and community forests (UCF's) is matched by nearly two dollars in environmental services and increased property values in return 
+(McPherson, 2002)
+. Urban and community forests provide shade during hot summers in urban heat islands. Shaded spaces can mean the difference of 20-40 °F cooler than peak temperatures of exposed surfaces 
+(EPA, 2019)
+.
+Trees add character to communities and serve as wind breaks in wind-prone rural communities. The state's publicly-owned urban forests provide over $1.8 million in energy savings and intercept more than 122 million gallons of storm water annually, easing the burden on water treatment facilities and acting as an important filtration system for communities that rely on well water 
+(DNRC, 2017)
+. Additionally, they sequester nearly 9.5 million pounds of carbon and remove over 20 metric tons of pollutants from the air yearly.
+With the increase in wildfire and related smoke, urban forests are even more critical in improving air quality. With so many of Montana's rivers and streams flowing through communities, trees along these waterways are important in intercepting pollutants, stabilizing banks in the event of flooding, and providing enjoyable recreational spaces.
+Nearly 70% of Montana's population live within incorporated towns and unincorporated centers (US Census Bureau, 2010). As the population grows and development increases, community trees face the threat of removal in the absence of intentional and deliberate planning to retain them. Most municipalities across the state lack urban forestry capacity and expertise to ensure that planning incorporates the retention and growth of these beneficial forests.
+In addition to threat of removal, Montana's urban and community forests are generally old and lack the diversity to withstand major threats from invasive insects and disease. Many of the most valuable community trees were planted around statehood and are reaching the end of their life cycle. Dead and dying trees pose safety risks and are expensive to remove, sometimes costing over $10,000 for the removal of Photo courtesy of DNRC one large tree. While Montanans enjoy a diversity of tree species in their communities, nearly 42% of the total tree population is comprised of three species (ash, maple, and crabapple). Green and white ash make up nearly one-third of all of urban trees and are especially prevalent in eastern Montana. While urban forests face threats from numerous insects and diseases, no threat is likely greater than the one facing the ash tree population. Emerald ash borer has not yet been found in Montana, but with detections in South Dakota and Colorado, its arrival-and its negative impacts on community and urban forests-is almost inevitable.
+Urban and community forests, due to the ecosystem services and shade they provide, will play an import role in mitigating some climate change effects. While they will help with mitigation, they remain subject to climate change impacts and will be increasingly vulnerable to extreme weather events, drought, and temperature fluctuations. Therefore, the health and vitality of our communities depends on vibrant urban and community forests.
+
+## RECOMMENDED GOALS AND IMPLEMENTATION STRATEGIES
+
+The Montana Forest Action Plan aims to: Maintain diverse, healthy, and resilient urban and community forests in Montana.
+Strategies to achieve this goal include:
+
+## INCREASE THE DIVERSITY, AGE CLASS, HEALTH, AND RESILIENCE OF TREES IN
+
+URBAN AND COMMUNITY FORESTS.
+• Maintain statewide community tree inventories and update every ten years.
+• Support programs to plant trees that aid in diversifying the species composition of community tree populations.
+• Support land management agencies, universities, and other relevant partners in efforts to engage Montanans on the benefits of urban and community forests and the need to maintain and manage urban trees.
+• Encourage nurseries to supply diverse tree species as recommended by the Montana Urban and Community Forestry Association, especially for commercial planting.
+• Promote and recommend medium and large tree species for planting to maximize ecosystem benefits.
+• Explore additional opportunities to provide funding and grants to aid in medium-and large-sized tree species planting across Montana.
+• Expand use of the Community Forest Program to secure forested land adjacent to and within urban environments.
+• Raise awareness with local government officials about the need for funding to maintain trees after planting in order to provide benefits into the future.
+MITIGATE THE FINANCIAL EFFECTS OF EMERALD ASH BORER ON MONTANA COMMUNITIES.
+• Support the development of emerald ash borer management plans by providing technical expertise and additional funding.
+• Prioritize rural and small communities where capacity is limited.
+• Support the development and maintenance of plans to rapidly identify and manage future potential outbreaks of emerald ash borer.
+• Encourage utilization of urban wood to mitigate economic and environmental impacts invasive species and urban tree mortality.
+• Support programs to replant tree species that aid in diversifying community tree populations following the removal of ash trees.
+
+## INCREASE URBAN TREE CANOPY COVER TO ENHANCE ECOSYSTEM BENEFITS.
+
+• Support the development of community management and implementation plans to aid in management of current tree populations and promote short-and long-range planning of tree planting.
+• Encourage three trees to be planted per person living in urban landscapes.
+• Establish reasonable canopy goals for communities with appropriate partners and organizations.
+• Prioritize projects in communities that have the highest population of ash trees, contribute the most to match grant funds, and do not have maintenance programs.
+• Encourage counties and communities to include measures to protect UCF's in their CWPPs and follow through with implementation of measures including fuels treatments, planting resilient species, treating weeds, and identifying and developing safety zones.
+• Actively promote stewardship of and education on the services and value of urban and community forests in an effort to increase urban tree canopy cover.
+• Promote the use of urban tree canopy cover as a tool to mitigate the impacts of climate change and urban heat islands.
+
+## Photo courtesy of DNRC, Missoula Photo courtesy of DNRC
+
+## REFORESTATION AND RESTORATION WITH PLANT NURSERIES
+
+Planting trees and shrubs is a simple act, but one with profound benefits and positive impacts. Strategic plantings are increasingly important aspects of forest and rangeland management, as well urban and community forestry. Urban forests surrounding metropolitan areas have high conservation value. They are important for preserving and enhancing surrounding natural areas and habitats, improving water quality, converting open spaces, restoration, climate change mitigation, and sustainability.
+Across all habitat types in Montana planting trees and shrubs is a proven management tool for conservation. Seedlings are necessary for reforestation, creating or improving wildlife habitat, and diversifying species and age compositions. Using plantings for these purposes is included in many of the strategies to increase forest resilience to fire, windthrow, insects and disease, drought, invasive species, and climate change.
+The Montana DNRC operates the Montana Conservation Seedling Nursery, a critical forest restoration tool that provides plants for conservation activity across the state. Established in 1927, the Nursery has a long history of cultivating plants, with good genes, to ensure that diversity is maintained and positive attributes are propagated. Currently, the Nursery's annual production is approximately 800,000 seedlings across 40 different species of trees and shrubs, with multiple site-specific types per species. The Nursery has the capacity to produce over 1,000,000 seedlings per year in 4 greenhouses, and has additional capacity for larger plants in its outdoor growing facilities. The Nursery has the space and capacity to significantly increase production to meet future needs.
+Planting is essential for perpetuating forest cover throughout Montana in the era of mega-fires and climate change. Conservation planting improves habitat, increases habitat connectivity, and promotes the regeneration of suitable native species that may be more resilient to conditions created by climate change and severe wildfire. There are many opportunities to incorporate cross-boundary reforestation and plantings into restoration work. The Montana Conservation Seedling Nursery is a keystone operation, collecting and storing seeds, and growing plants for restoration and conservation work in Montana.
+
+## Photo courtesy of DNRC
+
+## HUMAN AND COMMUNITY HEALTH
+
+Due to its vast, open landscapes, Montana has a unique outdoor heritage that depends on a healthy environment. Forests help ensure a healthy environment by providing good air quality, clean water, and other human health benefits.
+While Montana enjoys good air quality for large parts of the year, air quality across the state can be highly variable depending on location, time of year, and the severity of the wildfire season. Longer and more severe fire seasons lead to extended periods of wildfire smoke, especially in high population centers. According to the American Lung Association 2019 annual report, Montana was home to six of the 25 counties in the U.S. most affected by short-term particle pollution: Ravalli, Lewis and Clark, Missoula, Lincoln, Silver Bow, and Flathead. The city of Missoula was ranked as the fifth-worst affected by short-term particle pollution and eleventh for year-round particle pollution (ALA, 2019).
+Smoke often becomes trapped in the bowl-shaped valleys that form much of western Montana, and can linger until a weather system moves through. Exposure to fire smoke carries public health implications as smoke increases the incidence and severity of respiratory conditions. Healthy urban tree populations can trap, settle, and hold dust and particulate pollutants from smoke and combat some emissions from wildland fires 
+(Chen et al., 2017;
+Nowak & Dwyer, 2010)
+. The active management of urban trees and forests can play a key role in mitigating the adverse health impacts that exposure to wildfire smoke may cause for those in Montana's high population centers. Additionally, prescribed fire can effectively foster ecosystem health while decreasing the risk of fire, and its associated public health effects, to communities. Prescribed fires are carefully planned, timed and managed to mitigate environmental and human health impacts (WFLC, 2020).
+Like air quality, water resources are essential to the health and economic well-being of all Montanans. Water is not only critical for municipal and domestic uses-it also supports agricultural and mining industries, fisheries, and recreational activities. Forested landscapes play an important role in ensuring that both the surface and groundwater is clean and abundant by slowing runoff, reducing erosion, and enabling groundwater recharge. Organic litter on the forest floor and root systems in the soil help filter water through the ground rather than as surface water, reducing overland flow (DNRC, 2015b). Montana encompasses both important river headwaters and groundwater recharge areas -areas that are often forested. That state's forest management practices are designed to maintain and improve water resource Photo courtesy of USFS, Northern Region conditions, especially in the case of degraded water quality due to uncontrolled wildfire burns in important watersheds.
+Recreational use of forests, particularly on public lands, is central to Montanans' identity, way of life, health and fitness, and increasingly, their livelihood. It's an important reason why people live in and visit Montana, driving both the culture and the state economy. When surveyed, 87% of Montanans identified themselves as outdoor recreation enthusiasts and 96% believe that outdoor recreation is critical to the economic future of the state (Montana Outdoor Heritage Project, 2019). The exceptional recreation opportunities that forested landscapes provide can present management challenges for land managers and local government. With growing popularity and use comes increased pressure on natural ecosystems, infrastructure, and the strategies used to balance these varied uses. Forest-based recreation opportunities and experiences are inherently dependent upon forest conditions. Although dead and dying trees are a natural part of a forest, they can pose a threat to life and property when located in or near developed recreation sites, such as campgrounds, trailheads, fishing access sites, and along public roads.
+Montanans don't have to go far to experience the many benefits trees provide. Trees in urban settings support critical environmental functions and are essential to human health and wellbeing. Urban forests help conserve energy, improve air quality, moderate temperatures, and reduce storm water runoff 
+(Blum, 2016)
+. Through shade and transpiration, trees help regulate temperatures in urban settings. With predicted rises in temperature associated with climate change, urban tree populations can provide cooling effects that reduce heat related impacts on human health. Additionally, spending time in treed settings improves short-term memory, boosts the immune system, restores mental energy, and relieves stress 
+(Kuo, 2015)
+. Though all people are affected by air and water quality, forest conditions, and access to outdoor spaces, certain communities are uniquely impacted by the health of our natural environment. While Montana's tribal nations have distinct cultures, languages, and histories, many share close relationships with, dependence on, and a cultural imperative to respect and care for the natural world. These cultural values are reflected in ceremonial and spiritual practices, as well as in formally adopted policies and programs of modern tribal government (For more information, please see Indigenous Peoples & Forests in the Assessment). Many of Montana's tribal nations have developed climate change planning efforts to address the threats climate change poses to their diverse ecosystems, communities, health, livelihoods, and cultural resources. For Montana's rural and tribal communities, climate change is likely to further impact access to clean water, adequate and affordable energy supply, and the resources needed to respond to natural disasters. By aligning management with the leadership, expertise, and knowledge of tribal nations, Montana can promote equitable and culturally-relevant natural resource management and community readiness and capacity building efforts to ensure the health and wellbeing of all. Whether it's the clean air and water or the many recreational and health benefits that forests provide, Montanans recognize the need to improve forest health and reduce wildfire risk across the state. Due to current forest conditions, the ability to understand and plan for natural hazards and disasters is imperative to protect communities and natural resources from damage or, in the most severe cases, loss of life. It is critical that federal, state, tribal, and local governments work together to acquire the proper resources and equipment to meet projected needs and keep people safe. Montanans themselves have a role, as they can take actions to build awareness, expand collaborative opportunities, and mitigate risk across boundaries. Fostering human and community health in a heavily forested state requires an organized approach in responding to natural hazards and disasters and to protect the forested environments and ecological services that so many rely on.
+
+## RECOMMENDED GOALS AND IMPLEMENTATION STRATEGIES
+
+The Montana Forest Action Plan aims to: Maintain a healthy and resilient forest that provides public benefits and ecosystem services for current and future generations of Montanans.
+Strategies to achieve this goal include:
+SUPPORT AND MAINTAIN HEALTHY AND FUNCTIONING HYDROLOGIC SYSTEMS.
+• Support projects that maintain or improve intact and connected forested landscapes and watersheds.
+• Prioritize management and restoration projects in Priority Areas for Focused Attention that support municipal watersheds and other beneficial water uses.
+• Explore opportunities to expand funding for streamside and instream restoration as well as actions to improve impaired waterbodies.
+
+## INCREASE PUBLIC AWARENESS OF THE BENEFITS OF USING PRESCRIBED FIRE YEAR-ROUND TO DECREASE THE SEVERITY OF WILDFIRES AND ASSOCIATED PUBLIC
+
+HEALTH IMPACTS RESULTING FROM WILDFIRE SMOKE.
+• Support the development of plans to manage smoke, public health, and community readiness for the effects of wildfire.
+• Ensure the public receives clear and consistent information and notifications about the use of prescribed fire in and around their communities and is prepared with adequate public health protections.
+• Coordinate closely with Montana Department of Environmental Quality and the Montana and Idaho Airshed Group to identify opportunities to increase burn permitting across all ownerships and jurisdictions, when appropriate.
+• Support ongoing education and outreach campaigns with the Department of Environmental Quality, Montana and Idaho Airshed Group, conservation partners, local government, fire authorities, and other relevant partners to increase the use of prescribed fire throughout the year.
+
+## Photo courtesy of USFS, Beaverhead-Deerlodge National Forest
+
+## Photo courtesy of USFS, Flathead National Forest
+
+MAINTAIN OR INCREASE RECREATIONAL OPPORTUNITIES.
+• Pursue opportunities to increase access to public lands through a variety of mechanisms including land exchanges, permanent access, and conservation easements.
+• Work with the Montana Legislature and U.S. Congress to maintain or increase funding for recreation management.
+• Explore opportunities to manage recreational opportunities and visitor use across ownerships and jurisdictions.
+• Work to expand education and interpretive opportunities regarding the values, services, and benefits of forests in Montana.
+• Expand and promote education and outreach efforts on the benefits of urban and natural forests on human and community health.
+• Foster collaboration across agencies, recreation groups, and other appropriate stakeholders to recognize and address ecological and economic impacts of recreational opportunities.
+• Increase public awareness and education efforts on the benefits of forest management in maintaining outdoor recreation opportunities.
+• Build on the recommendations specifically stated in the Statewide Comprehensive Outdoor Recreation Plan (SCORP):
+ο Develop interagency collaborative data collection effort to gauge statewide and regional outdoor recreation-related visitor use.
+ο Assist in the establishment of long-term funding for an Access Coordinator that works across jurisdictional boundaries. Identify "locked" public land and develop cross-jurisdictional strategies to find solutions.
+ο Support and expand the efforts of the Montana Office of Outdoor Recreation.
+ο Promote coordination and communication between outdoor recreation managers and emergency management and first responders.
+ο Balance outdoor recreation use with ecological function of natural resources including fish, wildlife, and their habitats.
+MITIGATE THE IMPACTS OF CLIMATE CHANGE TO THE PEOPLE OF MONTANA.
+• Maintain healthy forests to sequester carbon and maximize human health and ecosystem benefits.
+• Support programs to improve community readiness to prepare for and respond to natural disasters.
+• Collaborate with tribal nations to support tribal-led projects that address the impacts of climate change on tribal health and wellbeing.
+• Support peer-reviewed and agency research on climate change's effects on human health and forested landscapes.
+• Promote the use of urban tree canopy cover as a tool to mitigate the impacts of climate change and urban heat islands. foundation to unite behind and begin to collectively discuss and address the challenges faced at the landscape-scale. To help address the capacity issue, the Montana Forest Action Plan will support cross-boundary partnerships where they already occur and work to create a body that will provide statewide leadership toward collaborative forest restoration and management efforts.
+The Montana Forest Action Advisory Council created the Forest Action Plan Implementation Advisory Committee to ensure that the Montana Forest Action Plan catalyzes action. The Implementation Advisory Committee will be responsible for developing novel ways to fund cross-boundary forest restoration work that helps achieve the goals of the Montana Forest Action Plan. Through annual requests for proposals, the Implementation Advisory Committee will solicit projects that amplify existing collaboratives and create new opportunities for communities to form coalitions and leverage partnerships.
+The Implementation Advisory Committee will oversee and report progress of the Forest Action Plans implementation and cross-boundary projects. Furthermore, the Implementation Advisory Committee will set metrics-based targets that will be measured and reported as a part of project outcomes. Metrics will include acres treated, the number of communities and watersheds protected, acres of wildlife habitat preserved and restored, jobs created, and partners engaged.
+To be successful, relationships with cooperators must be strengthened and new partnerships must be forged. Across Montana today, substantial cross-boundary work is taking place, exemplified by strong existing partnerships. Building off of this, the Montana Forest Action Plan will help to coordinate work and resources in the most critical areas of the state in order to address the collective problems of improving forest health and reducing wildfire risk.
+
+## RECOMMENDED GOALS AND IMPLEMENTATION STRATEGIES
+
+The Montana Forest Action Plan aims to: Sustain and prioritize landscape-scale, cross-boundary forest management and restoration projects across the state of Montana through collaborative engagement.
+Strategies to achieve this goal include: • Oversee, advocate for, and assist with the implementation of the Montana Forest Action Plan and ensure efficient, effective, and collaborative cross-boundary management within Priority Areas for Focused Attention.
+• Seek members with a diversity of perspectives to serve on the committee to ensure that actions reflect a broad set of values surrounding Montana's forests.
+• Develop a charter that addresses purpose, roles and responsibilities, membership, voting, and scope of work.
+• Identify and release performance targets by Summer 2021, and track them through the Montana Forest Action Plan.
+• Seek dedicated and additional staffing capacity to sustain cross-boundary work and achieve identified targets.
+• Track and annually publish reports on the progress of cross-boundary coordination that work to accomplish the recommendations within the Montana Forest Action Plan.
+• Increase the pace and scale of cross-boundary projects at both the local and statewide level.
+• Facilitate strong partnerships with tribal nations to ensure coordination across sovereign nation boundaries.
+• Create additional capacity across the state by leveraging existing authorities, funding, and capacity to increase the pace and scale of cross-boundary work within Priority Areas for Focused Attention.
+• Identify barriers to accomplishing cross-boundary work and make recommendations to decision-making bodies to remove those barriers.
+• Actively support local government and collaborative groups' capacity in engaging in cross-boundary coordination.
+• Develop, implement, and fund an adaptive management strategy for the Montana Forest Action Plan.
+• Amplify existing collaboratives and create new opportunities for communities to form coalitions and leverage partnerships • Initiate an annual RFP process to award funds that enhance capacity, and work to progress the goals and strategies called for in the Montana Forest Action Plan.
+• Coordinate with other grant managers to create a single portal for applicants looking for funding opportunities that are applicable to their goals and individual eligibilities.
+• Encourage consistency in grant management processes among different funding entities to streamline project implementation across jurisdictional boundaries.
+• Seek new funding sources for cross-boundary restoration work.
+• Host regular peer learning sessions to share information on cross-boundary lessons learned.
+SUPPORT LOCALIZED CROSS-BOUNDARY COORDINATION THROUGHOUT THE STATE OF MONTANA.
+• Build and strengthen relationships with tribal nations to help facilitate cross-boundary projects that benefit tribal members and surrounding communities.
+• Promote the use of cross-boundary decision support tools such as the Priority Areas for Focused Attention Interactive Dashboard. The Montana Forest Action Plan sets a framework for coordinated, targeted actions and investments that will be critical to reducing wildfire risk and improving forest health conditions across the nearly 4 million acres identified to benefit from management actions. We hope that local land managers and collaboratives will use the Montana Forest Action Plan to refine their analyses and start a dialogue about how to leverage resources and staff to meaningfully address the most pressing concerns facing our forests. The Montana Forest Action Plan will help land managers and local decision-makers sequence programs of work and collaborate across jurisdictional boundaries to address wildfire risk and forest health issues while ensuring the safety and resilience of our communities and infrastructure.
+
+## LOCAL GOVERNMENT ENGAGEMENT AND MONTANA FORESTS
+
+Local governments across Montana play a key role in working with agencies, landowners, and stakeholders across all lands within their jurisdiction. County commissioners and staff work with state and federal managers to help align federal plans and projects with county plans, goals, and priorities. DNRC's Local Government program has expanded the capacity for county commissioners and staff to engage with federal land managers by providing technical assistance and funding. In this expanded capacity counties and their collaborative groups regularly review and comment on federal plans, and projects and may choose to support the federal agencies in litigation.
+These deliberate engagements have strengthened project proposals and increased local government support for active forest restoration and management activities.
+
+## Photo courtesy of USFS, Flathead National Forest
+
+[FIGURE: Figure 1. The Tribal territories, as defined by the Fort Laramie Treaty of 1851 (Original data from University of Montana, replicated by DNRC, 2020).]
+
+[FIGURE: Improve forest resilience to disturbance from fire, windthrow, insects and diseases, drought, invasive species, human use, and climate change through management that ensures forests provide clean water, wildlife habitat and biodiversity, local economic and recreation opportunities, aesthetics, and other benefits for current and future generations of Montanans. Strategies to achieve this goal include: INCREASE FOREST RESILIENCE TO WILDFIRE, WINDTHROW, INSECTS AND DISEASES, DROUGHT, INVASIVE SPECIES, AND CLIMATE CHANGE.]
+
+[FIGURE: AN IMPLEMENTATION ADVISORY COMMITTEE THAT WOULD BE ADMINISTRATIVELY ATTACHED TO THE DNRC TO OVERSEE THE IMPLEMENTATION OF THE MONTANA FOREST ACTION PLAN BEYOND THE DISSOLUTION OF MFAAC.]
+
+[FIGURE: DEVELOP A STATEWIDE FINANCIAL STRUCTURE THAT POOLS AND LEVERAGES FUNDING TO INCREASE THE AMOUNT OF CROSS-BOUNDARY WORK AND EXPEDITE THE TIMING OF WORK BY AGENCIES, PARTNERS, TRIBAL NATIONS, COLLABORATIVES, CONSERVATIONS DISTRICTS, WATERSHED GROUPS, AND OTHER RELEVANT PARTNERS.]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[TABLE]
+* order to help update and develop the Montana Forest Action Plan, Governor Bullock created the Montana*
+
+| WHAT ARE STATE FOREST ACTION PLANS? Forest Action Plans originated with the passage of the 2008 Farm Bill, which required states and terri-tories to develop an assessment of their state forest conditions every ten years-regardless of ownership-MONTANA FOREST ACTION ADVISORY COUNCIL The strategies and recommendations included in the Montana Forest Action Plan are meant to inform proj-ect level decisions, but they do not supplant federal or state land management laws, plans, or regulations. and address issues through strategies that ensure Annual funding provided by the USDA Forest Ser-alignment with the USDA Forest Service State and Pri-vate Forestry Program's national priorities, which are: vice's State and Private Forestry Program is critical to maintaining DNRC's capacity to offer services to the people of Montana. Without these funds, many of the programs would not be possible. As such, the Mon-» Conserve working forest landscapes; » Protect forests from harm; and tana Forest Action Plan was written with the intent of maintaining and strengthening Montana's eligibility for such funding opportunities. |  | Forest Action Advisory Council (MFAAC). MFAAC is a group of forest management experts and seasoned collaborators brought together to address long-term efforts towards cross-boundary, landscape-scale forest restoration and management. With the Montana Department of Natural Resources and Conservation (DNRC) as the principal convener, MFAAC's objectives to revise the Montana Forest Action Plan included: 1. Create a shared understanding of the conditions of all forested lands in the state of Montana; Urban and Community Forestry (UCF) -The Ur-ban and Community Forestry (UCF) Program brings awareness and focus to the many human health and environmental benefits of trees within Montana's Communities. The UCF Program reaches over half of Montana's population every year with services to approximately 75 communities in the form of grants for planting and maintenance, technical expertise and education. Forest Stewardship -The Stewardship Program sup-ports private and community forest owners to actively and sustainably managing their forests. Through tech-nical assistance, outreach and education, landowners receive the support and resources they need to make informed management decisions for their forest. When eligible, landowners may receive financial assis-tance for wildfire risk reduction and forest restoration projects. Nearly 1,000 landowners receive technical and financial assistance each year. | More importantly, MFAAC was tasked with rethink-ing how to work together across real and perceived boundaries while amplifying collaboration; using the best available science, data, and information; and sus-taining cross-boundary efforts into the future. Forest conditions and their impacts affect all Mon-tanans, regardless of land ownership. By working to align the efforts of diverse partners across the state, Montana can advance a common mission of strength-ening the shared stewardship of the state's forests. The Montana Forest Action Plan reflects the way in which a diverse array of Montanans have come together in the spirit of mutual respect to learn the lessons of histo-ry and use those lessons to make Montana's forests healthier, more sustainable, and safer for generations to come. Rural Fire Capacity (RFC) -Formerly known as Volun-teer Firefighter Assistance, the RFC grant program pro-vides cost-share financial assistance to rural volunteer fire departments in communities of 10,000 or less for organizing, training, and equipping local firefighters. DNRC administers and awards these grants through a competitive process focusing on areas of greatest impact and need. DNRC awards annual grants to 65 rural fire departments on average, in amounts ranging from $1,000 to $13,000 each. These grants improve the effectiveness of fire protection in rural areas and complement other State-County Cooperative Fire Pro-tection Programs across the state. Federal Excess Personal Property (FEPP) -Through the FEPP program, DNRC is able to acquire vehicles Through Executive Order 07-2019, Governor Bullock appointed 23 collaborators to the MFAAC from across the state, representing a diversity of expertise, inter-ests, and perspectives. Membership includes repre-sentatives from federal, state, local, and tribal govern-ments; industry partners; conservation organizations; collaborative and watershed groups; recreation and tourism entities; and other relevant partners who are actively involved in forestry issues. MFAAC worked collaboratively to develop consensus-driven solutions that are intended to help amplify on-going work in the state and find more ways of working together across ownership boundaries and jurisdictions. MFAAC addressed the following objectives set forth by Governor Bullock: and equipment on loan to state and county coopera-tors for the purpose of wildland and rural firefighting. Since 1967, the program has helped DNRC offset costs (over $50 million) in supporting the department's fire program. These acquisitions have decreased in recent years with the increased use of the Department of CREATE A SHARED UNDERSTANDING OF THE CONDITIONS OF ALL FORESTED LANDS IN THE STATE OF MONTANA. |
+| --- | --- | --- | --- |
+|  |  |  | Defense Fire Fighter Program, but FEPP is still a vital |
+| » Enhance public benefit from |  |  | part of DNRC aviation operations and will continue to |
+| trees and forests. |  |  | be used by the State. |
+|  | Most notably with the Cooperative Forestry As- |  |  |
+|  | sistance Act of 1978. |  |  |
+|  | S&PF is the federal leader in providing techni- |  |  |
+|  | cal and financial assistance to landowners and |  |  |
+| The Montana Forest Action Plan seeks to expand beyond the original purpose and emphasis of state Forest Action Plans. The 2020 revision will provide a framework to build more coordination and coopera-tion at the statewide and local level while also ampli- | resource managers to help sustain the nation's forests and grasslands, protect communities from wildland fire and restore fire-adapted eco-systems. Through financial support, federal fund-ing leverages the capacity of state agencies and partners to manage state and private lands and produce ecological, social and economic benefits for the American people. S&PF programs help to ensure the USFS, in partnership with states, tribes, communities and landowners, meet the agency's mission of conserving and protecting the Nation's Forests, across ownership lines. The MT DNRC and USFS Northern Region have a long history of working together to support the deliv-ery of S&PF programs to Montana's citizens. | National Fire Capacity (NFC) -Formerly known as State Fire Assistance, the NFC grant program helps support DNRC's statewide Fire Protection Program by increasing the capability and preparedness of Mon-tana's wildland fire suppression forces. It also pro-motes resilient landscapes, fire adapted communities, and a safe and effective wildfire response. This fund-ing improves firefighter training and cultivates fire pre-vention and community wildfire adaptation programs. Funding from this program can also be used to mod- | Montana Forest Legacy Program -The Montana Forest Legacy program has been in operation since 2000. The program is administered by the USDA For-est Service and managed by Montana Fish, Wildlife and Parks. The purpose of the program is to conserve high priority privately-owned forests with a focus on wildlife and aquatic habitats, sustainable timber pro-duction, drinking water, public recreation, and other values. Funding for Montana's program is provided through national competitive grants. Since the pro-gram's inception, nearly 261,000 acres of Montana forests have been conserved. This program includes a separate planning document, the Montana Forest |
+
+[/TABLE]
+
+[TABLE]
+*Photo courtesy of USFS, Flathead National Forest • The Assessment represents the work of numerous interagency contributors. To read the full Assessment, please see the stand-alone companion document, the Statewide Assessment of Forest Conditions, located on the Montana Forest Action Plan website.*
+
+| IDENTIFY PRIORITY AREAS TO ADDRESS |  |
+| --- | --- |
+| FOREST HEALTH AND WILDFIRE RISK |  |
+| BASED ON THOSE CONDITIONS. |  |
+| • The Priority Areas for Focused Attention highlight |  |
+| places across Montana with significant forest |  |
+| health issues and elevated wildfire risk to com- |  |
+| munities and infrastructure. These areas were |  |
+| identified using geospatial methodology and by |  |
+| incorporating data sets approved by MFAAC. The |  |
+| identified areas depict potential opportunities |  |
+| for cross-boundary and landscape-scale projects |  |
+| involving multiple partners and objectives. The |  |
+| Priority Areas for Focused Attention and associat- |  |
+| ed data layers are available as a decision support |  |
+| tool on the Montana Forest Action Plan website. |  |
+| • For more information on how Priority Areas for |  |
+| Focused Attention were identified, please refer |  |
+| to the section below. To read the full method- |  |
+| ology, please see the Statewide Assessment of |  |
+| Forest Conditions and explore the online Priority | s authoritative |
+| Areas for Focused Attention Interactive Dash- | source of information on statewide forest condi- |
+| board. | tions. |
+| RECOMMEND STRATEGIES TO CREATE AN | • The Assessment covers six main topics: Forest Health; Wildfire Risk; Working Forests and Econ- |
+| EFFICIENT, EFFECTIVE, AND COMPREHENSIVE RESPONSE TO THOSE CONDITIONS PRIMARILY, BUT NOT EXCLUSIVELY, WITHIN THOSE PRIORITY AREAS. | omies; Biodiversity and Habitat Conservation; Human and Community Health; and Urban and Community Forestry. Data and information from the Assessment provide the foundation for the identification of Priority Areas for Focused Atten- |
+|  | tion. Conditions, trends, threats, and opportuni- |
+|  | ties from the Assessment are summarized in this |
+|  | document in the Major Findings and Recommen- |
+|  | dations. |
+|  | • Additionally, the Assessment includes other |
+|  | important sections that do not fall within the six |
+|  | major topics. These include climate change as it |
+|  | relates to Montana's forests, a history of Indige- |
+|  | nous Peoples and forests, a breakdown of Mon- |
+|  | tana forest ownership, and a short background |
+|  | on forest-based collaboration and collaborative |
+|  | capacity. |
+
+[/TABLE]
+
+[TABLE]
+*Action Plan Implementation Committee. By committing to a recurring update, the Montana Forest Action Plan will continue to be relevant and helpful to agencies and land managers alike. Photo courtesy of DNRC, Missoula, Montana Forest Action Advisory Council meeting Photo courtesy of DNRC, Red Lodge, Montana Forest Action Advisory Council meeting Photo courtesy of DNRC, Seeley Swan DEFINING FOREST HEALTH After Treatment Photo courtesy of Keith Bettcher Throughout the process, MFAAC members brought different values and viewpoints to the table, but their work always centered upon the common goals of keeping Montana's forests healthy and reducing wildfire risk to communities. The result is the Montana Forest Action Plan, which aims to amplify local, collaborative work in the Priority Areas for Focused Attention, while finding more ways of working across ownership boundaries and jurisdictions. Additionally, the Montana Forest Action Plan is intended to be an iterative document. It will be updated as new information and data become available, and progress will be reported on an annual basis by the DNRC and the Forest*
+
+| • Assist in identifying priority landscapes for forest |
+| --- |
+| restoration and management action that lead to |
+| successful, coordinated projects that are shared |
+| across jurisdictions and constituencies. |
+| For a comprehensive list of MFAAC duties, please see |
+| the Montana Forest Action Advisory Council Executive |
+| Order. |
+
+[/TABLE]
+
+[TABLE]
+*Growth, structure, composition, and function representative of historical and natural ranges of variability, disturbance regimes, and forest dynamics considering forest type under conditions of projected future climate change; Resilience to disturbance from fire, windthrow, insects and diseases, invasive species, drought, management, and impacts of climate change; Diversity of tree species and age classes that support a diverse array of plants, animals, and microbes; and Sustainable capacity to indefinitely and concurrently provide clean air and water, biodiversity, critical essential habitat, cultural values, long-term storage of carbon and climate regulation, recreation opportunities, aesthetics, and forest products. *
+
+| Governor Bullock tasked MFAAC with identifying "pri- |
+| --- |
+| ority areas in need of active forest restoration with a |
+| particular focus on forest health and fire adaptation, |
+| community protection, industry retention and eco- |
+| nomic development, recreation and tourism, wildlife |
+| and aquatic habitat, watershed restoration and other |
+| areas as identified by the Council" (Executive Order |
+| No. 7-2019). |
+| MFAAC used their expertise and knowledge, the in- |
+| formation from the Assessment, and a data-informed |
+| geospatial model to determine the Priority Areas for |
+| Focused Attention. Prioritizing acres for active forest |
+| management represents a critical step towards im- |
+| plementing landscape-scale, cross-boundary forest |
+| restoration and management and focusing resources |
+| in areas with the greatest need. |
+| To initiate the process of identifying Priority Areas |
+| for Focused Attention, MFAAC first determined which |
+| forested acres would be considered in the analysis and |
+| what factors were most important to accurately de- |
+| scribe the conditions of Montana's forests, especially |
+| focusing on forest health and wildfire risk. |
+| MFAAC excluded approximately 7 million forested |
+| acres from analysis because of their established man- |
+| agement plans and data limitations. These excluded |
+| areas already have management goals and directives |
+| and include national parks, national monuments, |
+| national wildlife refuges, congressionally designated |
+| wilderness areas, and wilderness study areas. |
+| When selecting datasets to identify forest health and |
+| wildfire risk within areas that were not excluded from |
+| analysis, MFAAC developed the following selection |
+| criteria: |
+| Rather than defining forest health, MFAAC elected |
+| to identify the components of forest health and for |
+| the remainder of the Forest Action Plan, when forest |
+| health is referenced, it is anchored in and embodied |
+| by this collectively agreed upon language drafted by |
+| MFAAC. |
+
+[/TABLE]
+
+[TABLE]
+*Data must cover all forested lands in Montana, regardless of ownership; Data must be available at a statewide scale; Data must cover a timespan of at least 10 years; Data must have a consistent spatial resolution and be free of data anomalies or abnormalities; Data must be publicly available and recognized as an authoritative dataset; and Data must be digitized, preferably in raster or vector format. *
+
+| PRIORITY AREAS FOR |
+| --- |
+| FOCUSED ATTENTION |
+
+[/TABLE]
+
+[TABLE: Photo courtesy of USFS, Flathead National Forest ]
+
+[TABLE]
+* Throughout the state, shade-tolerant trees are outcompeting species that rely on periodic disturbances from fire (e.g. western larch,*
+
+| shift- |
+| --- |
+| ing to a carbon source (net emitter) between 2000 |
+| and 2009, and from 2010 through 2018 the trend of |
+| emitting increasing amounts of carbon has continued |
+| (USDA FS, 2020). Direction of carbon flow is a key |
+| forest health indicator, and carbon emitted emissions |
+| from Montana forests is expected to increase with |
+| continued mortality from disturbance and climate |
+| stressors. |
+
+[/TABLE]
+
+[TABLE]
+*to be advertised in FY21. *
+
+| BEST |  |
+| --- | --- |
+| MANAGEMENT |  |
+| PRACTICES |  |
+| DNRC, USDA Forest Service, and the Bureau of (BMP) |  |
+| Land Management, in close partnership with |  |
+| other agencies, industry, and conservation |  |
+| groups, are working to increase the scale of |  |
+| forest and watershed restoration on federal |  |
+| and adjacent lands through the Good Neigh-bor Authority (GNA). Authorized by the 2014 and 2018 Farm Bills, GNA allows the USDA For- | $3.989 million in revenue under contract; |
+| est Service and Bureau of Land Management |  |
+| to enter into agreements with state agencies |  |
+| to plan for and implement restoration work on federal lands. Through GNA, Montana is im- | 29.6 MMBF |
+| proving forest health and resiliency, reducing threats to communities and watersheds from | sold treating 5,470 acres; |
+| destructive wildfires, and creating more jobs |  |
+| and local economic benefits. By 2021, all seven national forests and BLM | 10 non-timber |
+| land in Montana will have forest restoration projects implemented through GNA. The | sale restoration projects completed or under contract; and |
+| benefits of GNA restoration projects include |  |
+| improving forest and watershed health, reduc- |  |
+| ing wildfire intensity and severity, enhancing resiliency to future insect and disease out- | 12 sales and 2 timber permits |
+| breaks, maintaining and supporting the wood |  |
+| products industry, and creating local, well-pay- |  |
+| ing jobs in Montana communities. |  |
+| Funding from USDA Forest Service, Bureau |  |
+| of Land Management, and other partners |  |
+| as well as the GNA agreements and revenue |  |
+| from GNA timber sales is used to complete |  |
+| restoration activities. In addition, state service |  |
+| contracts and added staffing capacity from |  |
+| DNRC help accelerate restoration activities, |  |
+| such as NEPA support, field data collection, |  |
+| watershed restoration, and fuels reduction |  |
+| activities. Restoration activities will increase in |  |
+| scope and scale as revenue from GNA timber |  |
+| sales increase. |  |
+|  | Photo courtesy of DNRC |
+
+[/TABLE]
+
+[TABLE]
+*• Build on the recommendations specifically stated in the Montana Climate Solutions Plan:When it comes to managing Montana's forests, the challenge of improving forest health and reducing wildfire risk is too great to be accomplished by any single person or organization. That's why the work of cross-boundary, collaborative forest restoration and management is more pressing than ever. In their deliberations, the MFAAC identified a lack of formal coordination and resources in Montana to facilitate cross-boundary work among resource areas and partners. There are currently partnerships across the state accomplishing cross-boundary work, yet it is often done opportunistically and may only take place where agencies or other partners have staff dedicated to building capacity and coordinating efforts across jurisdictions At present, agency resources and staffing capacity are not adequate to address the issues facing Montana's forests with the required urgency. Existing authorities and funding sources are being leveraged with great effect. In order to protect the state's ecosystems from further harm and safeguard communities and infrastructure from wildfire events, however, increasing the pace and scale of work will require additional resources. As previously stated, estimates show that forest management agencies treat fewer than 100,000 forested acres annually with mechanized means or prescribed fire. At that rate, with nearly 4 million acres identified in the Priority Areas for Focused Attention, it would take approximately 40 years to accomplish integrated restoration within those areas alone. All the while, conditions will evolve and present more challenges, likely beyond the extent of these areas.In conjunction with Forests in Focus 2.0 and Shared Stewardship, the Montana Forest Action Plan aims to help localize and facilitate work across boundaries with new partners and extend the effectiveness of already existing authorities to address this capacity issue. By sharing resources, outlining common goals, and supporting enduring partnerships for restoration, outreach, and education, the Montana Forest Action Plan will create a roadmap for new collaborative work that will bolster durable, long term solutions.The goals and strategies outlined in the Montana Forest Action Plan are based on a collective understanding of the threats and pressures that the state of Montana, the forests, and its citizens are facing. These recommendations are applicable to all partners throughout the state who work to improve forest conditions and reduce wildfire risk to communities and infrastructure. No one entity has the staffing or capacity to accomplish them individually. State, federal, and tribal agencies, conservation districts, watershed groups, NGOs, private managers, and other relevant partners should view these recommendations as a Photo*
+
+| SUSTAINING CROSS-BOUNDARY | ο Incorporate strategies from the forthcoming |
+| --- | --- |
+| WORK IN MONTANA | assessment of climate-related health risks and monitor climate-related illnesses to support local, regional, and tribal health pro- |
+|  | viders in response to extreme climate events |
+|  | such as extreme heat, vector-borne diseases, |
+|  | water-related illnesses, food safety and nutri- |
+|  | tion, wildfires, allergens and air quality, and |
+|  | mental health. |
+|  | ο Ensure local infrastructure such as schools, |
+|  | hospitals, community centers, and shelters |
+|  | incorporate adaptation strategies to address |
+|  | the needs of the young, sick, aging, and |
+|  | other vulnerable populations related to cli- |
+|  | mate impacts such as smoke and air quality, |
+|  | extreme heat, flooding, winter emergencies, |
+|  | and distributed energy needs. |
+
+[/TABLE]
+
+[TABLE: courtesy of Visit MT ]
+
+[TABLE]
+*• Promote and support local collaboration efforts through funding, peer-learning, or other identified mechanisms. Work in close partnership with the Montana Forest Collaboration Network, the Montana Watershed Coordination Council, Montana Association of Conservation Districts, and other organizations to support collaborative engagement at the local level. Promote and support the use of authorities and programs developed to increase the pace and scale of forest management and restoration, such as Good Neighbor Authority, Stewardship Agreements and Contracting, Collaborative Forest Restoration Program, Environmental Quality Incentives Program, and Joint Chief's Landscape Restoration Partnership.*
+
+| Photo |
+| --- |
+
+[/TABLE]
+
+[TABLE: courtesy of DNRC HOW CAN PARTNERS USE THE FOREST ACTION PLAN? ]
+
+## ACKNOWLEDGMENTS ACKNOWLEDGMENTS
+
+## ACKNOWLEDGMENTS
+
+Over one year ago, Governor Bullock appointed a number of individuals to the Montana Forest Action Advisory Council who not only had careers and livelihoods connecting them to Montana's forests, but who also had a history and commitment to collaboration. This group of individuals traveled during inclement weather, devoted hours to reviewing documents, sorting through and worked to understand data, and adapted to a world of virtual meetings to complete the Montana Forest Action Plan. We are indebted to these public servants and thank them for their engagement, thoughtful deliberation, expertise, and leadership. Through their efforts, they are changing the culture of how to work together across real and perceived boundaries to address the most pressing issues facing Montana's forests. This group was supported by a small team of dedicated individuals who worked to ensure that the process of MFAAC was inclusive, honored its members' engagement and expertise, and produced outcomes that will ultimately change how to work together on forestry issues across the state of Montana. Without the Core Team, this effort would not have been possible. Those members are:
+Wyatt Frampton, DNRC Project Leader Paige Cohn, DNRC Kristin Sleeper, DNRC Samantha Treu, DNRC Nick Youngstrom, DNRC Matt Arno, DNRC Brian Collins, DNRC John Hagengruber, USDA FS Thank you to the Montana Forest Action Advisory Council Co-Chairs, Montana State Forester Sonya Germann and USDA Forest Service Region One Regional Forester Leanne Marten for their leadership and guidance of the Core Team and MFAAC.
+We would like to thank the members of the MFAAC Leadership Committee who worked hard to ensure the process was inclusive, collaborative, and who provided invaluable guidance to the Core Team. • Fairfax, E., & Whittle, A. (2020). Smokey the beaver: beaver-dammed riparian corridors stay green during wildfire throughout the western United States. Ecological Applications, 0(0), 2020, e02225.
+
+## WORKING FORESTS AND ECONOMIES
+
+• Grove, A. J., Wambolt, C. L., & Frisina, M. R. 
+(2005)
+. Douglas-fir's effect on mountain big sagebrush wildlife habitats. Wildlife Society Bulletin, 33, 1, 74-80.
+• Haddad, N. M., Brudvig, L. A., Clobert, J., Davies, K. F., Gonzales, A., Holt, R. D., … & Townshend, J. R. 
+(2015)
+. Habitat fragmentation and its lasting impact on Earth's ecosystems. Science Advancement, 1. • 
+Wildland Fire Leadership Council. (2020)
+. Joint vision and key messages to relative benefits of prescribed fire to wildfire. Retrieved from 
+https://www.appa-
+lachianfire.org/research/2020/10/13/wildland-fireleadership-council-joint-vision-and-key-messages-onrelative-benefits-of-prescribed-fire-to-wildfire
+What Happened to Montana's Forestry Jobs?
+T
+A
+Morgan
+M
+J
+Niccolucci
+P
+E
+Polzin
+Montana Business Quarterly
+56
+2019
+In review. Montana's forest products industry and timber harvest, 2018 (Resour. Bull. RMRS-RB-X)
+S
+W
+Hayes
+L
+Townsend
+T
+Dillon
+T
+A
+Morgan
+2020. 2020. 2020
+National Association of Home Builders
+23
+Fort Collins, CO
+Framing-Lumber-Prices • United States Department of Agriculture, Forest Service

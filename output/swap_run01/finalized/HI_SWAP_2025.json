@@ -1,0 +1,794 @@
+{
+  "document_meta": {
+    "title": "Hawai'i's State Wildlife Action Plan",
+    "year": 2025,
+    "jurisdiction": "State of Hawai'i / DLNR",
+    "document_type": "SWAP",
+    "document_id": "HI_SWAP_2025",
+    "page_count": 1029
+  },
+  "orientation": {
+    "summary": "This is the 2025 update to Hawai'i's State Wildlife Action Plan (SWAP), produced by the Hawai'i Department of Land and Natural Resources (DLNR). It covers the full range of native wildlife in Hawai'i—over 1,400 Species of Greatest Conservation Need spanning terrestrial, freshwater, anchialine, and marine taxa. The document treats climate change as a major threat category (named explicitly alongside invasive species and habitat loss) and discusses observed and projected climate impacts extensively, including coral bleaching, upslope mosquito expansion, sea-level rise, drought, and wildfire. Discussion of range shifts per se is limited: the document mainly frames climate impacts as range expansions of mosquitoes and diseases into previously disease-free high-elevation forest bird refugia (an upslope shift of a biotic stressor), and shrinkage of suitable habitat for native species. Most analyses are narrative syntheses drawing on published science; the plan does not itself run SDMs, vulnerability models, or connectivity models but references vulnerability assessments as an information gap and describes a new Maui Nui Landscape Conservation Plan being developed to spatially prioritize conservation actions.",
+    "evidence_index": [
+      {
+        "text": "The ecological consequences of climate change have been added. New or increasing threats identified in the 2015 plan include...spread of mosquitos and avian malaria into high elevation forests on Kaua'i, climate-change triggered coral bleaching events",
+        "location": "HAWAI'I'S STATE WILDLIFE ACTION PLAN (introductory chapter)",
+        "relevant_elements": ["1.1", "3.5", "3.6", "3.7"]
+      },
+      {
+        "text": "This specialized habitat is at risk in Hawaiʻi as a result of increasing levels of human disturbance as well as the cumulative impacts of a warming climate.",
+        "location": "Alpine communities",
+        "relevant_elements": ["1.1", "3.5"]
+      },
+      {
+        "text": "climate change has the accelerated upslope invasion of mosquito-borne diseases, which threaten the persistence of many endangered birds.",
+        "location": "Montane wet communities",
+        "relevant_elements": ["1.1", "3.6", "3.7"]
+      },
+      {
+        "text": "Hawai'i is more prone to wildfire due to climate change, which is causing temperatures to increase and rainfall to decrease.",
+        "location": "Fire",
+        "relevant_elements": ["3.5", "1.1"]
+      },
+      {
+        "text": "Climate change models of rainfall for the Hawaiian Islands through the remainder of the century predict, on average, a decrease in rainfall and reduced availability of freshwater resources (Timm et al. 2015), particularly in the dry climatic regions.",
+        "location": "Alteration of Hydrology",
+        "relevant_elements": ["2.3", "3.5", "1.1"]
+      },
+      {
+        "text": "Current research efforts focus on two main approaches to determine the potential impacts of climate change on individual species: estimating species vulnerabilities and projecting responses of species to expected changes. Vulnerability assessments are essentially syntheses of available information that are used to determine the potential impacts of a threat (e.g., climate change) on species of interest. Typically, vulnerability assessments attempt to determine species' vulnerability by estimating species' exposure to climate change, their sensitivity to such changes, and their adaptive capacity to respond to change.",
+        "location": "Species Vulnerability Assessments in Response to Changing Climate",
+        "relevant_elements": ["1.1", "1.2", "2.1"]
+      },
+      {
+        "text": "Forest birds in Hawai'i face an uncertain future as the effects of climate change exacerbate existing threats caused by disease and the steady loss of habitat. Increases in mean temperature, declining precipitation, and changes in stream flow associated with climate change appear to be allowing the upward spread of mosquitos and increased transmission of avian malaria to highly susceptible native forest birds.",
+        "location": "Species Vulnerability Assessments in Response to Changing Climate",
+        "relevant_elements": ["1.1", "3.6", "3.7"]
+      },
+      {
+        "text": "Temperature increases will allow avian disease pathogens and vectors to expand their ranges to higher elevations, and will increasingly dry out wet forest habitat upon which kāhuli tree snails, picture-wing Drosophila and other invertebrates depend. Consequently, the small areas that currently support the last remaining populations of many rare native species will continue to shrink.",
+        "location": "Ecological Consequences of Climate Change",
+        "relevant_elements": ["1.1", "3.5", "3.6", "2.2"]
+      },
+      {
+        "text": "sea level rise (SLR) will inundate the Northwestern Hawaiian Islands (NWHI), reducing habitat for nesting seabirds, native passerines, monk seals, and sea turtles, and altering coastal habitats throughout Hawai'i.",
+        "location": "Ecological Consequences of Climate Change",
+        "relevant_elements": ["3.5", "1.1"]
+      },
+      {
+        "text": "Increases in seawater temperature also contributes to the phenomenon of coral bleaching, in which corals temporarily or permanently expel their symbiotic algae, potentially resulting in the death of the corals.",
+        "location": "Ecological Consequences of Climate Change",
+        "relevant_elements": ["3.5", "3.6"]
+      },
+      {
+        "text": "Among the higher-elevation MHI, a significant portion of native plants are threatened by future climate conditions, owing to shifts or even complete losses of climatic niches of some species (Fortini et al. 2013). Some native plant communities may be able to expand up to higher elevation ranges as temperatures warm, but those at the highest elevations may have no place to go.",
+        "location": "Habitat restriction",
+        "relevant_elements": ["1.1", "1.3", "2.2"]
+      },
+      {
+        "text": "Increasing temperatures, moving up slope, will greatly expand the higher-elevation viability and thus range of mosquitoes and the diseases they transmit (Benning et al. 2002, Atkinson and LaPointe 2009, Atkinson et al. 2014). This trend underscores the need to protect high elevation refugia for susceptible native birds",
+        "location": "Disease (under Terrestrial Ecosystems)",
+        "relevant_elements": ["3.7", "4.1", "1.1"]
+      },
+      {
+        "text": "Some populations of the 'amakihi have developed infection survival mechanisms to malaria and now are found again in lowland habitats (Foster et al. 2007, Eggert et al. 2008, Atkinson et al. 2013, Neddermeyer et al. 2023), indicating disease resistance may evolve. This potential further emphasizes the need to protect, restore, and manage an elevational range of forests",
+        "location": "Disease (under Terrestrial Ecosystems)",
+        "relevant_elements": ["1.3", "1.2"]
+      },
+      {
+        "text": "Predicted drying conditions from climate change will increase the length and severity of drought and increase the risk of future wildland fire, affecting wildlife populations.",
+        "location": "Drought",
+        "relevant_elements": ["3.5", "1.1"]
+      },
+      {
+        "text": "Chronic drought conditions on Maunakea have contributed to the recent decline of the endangered palila and other native birds (Banko et al. 2013). Palila survival and reproduction are closely tied to the species' primary shelter and food source, māmane (Sophora chrysophylla).",
+        "location": "Drought",
+        "relevant_elements": ["3.6", "1.1"]
+      },
+      {
+        "text": "information on vulnerability assessments and the impacts of climate change, island-specific information, and the identification of important lands for conservation.",
+        "location": "APPROACH",
+        "relevant_elements": ["1.1", "2.1"]
+      },
+      {
+        "text": "The most urgent threats come from climate change impacts such as fire and drier conditions, loss of habitat due to habitat-altering weeds and ungulates, and most devastatingly direct predation by introduced predators",
+        "location": "Hawaiian Land snails (multiple snail family sections)",
+        "relevant_elements": ["3.5", "1.1"]
+      },
+      {
+        "text": "planning and implementing translocation to high elevation habitat on Hawaiʻi Island",
+        "location": "Forest birds",
+        "relevant_elements": ["4.2"]
+      },
+      {
+        "text": "implementation of landscape-scale mosquito control techniques, such as the incompatible insect technique (IIT) and/or aerial application of Bacillus thuringiensis israelensis (Bti), protection of remaining native forest habitats from further degradation",
+        "location": "Forest birds",
+        "relevant_elements": ["4.2", "4.1"]
+      },
+      {
+        "text": "Establish new colonies on high islands that are less vulnerable to climate change.",
+        "location": "ka'upu or black-footed albatross (Conservation Actions)",
+        "relevant_elements": ["4.2"]
+      },
+      {
+        "text": "Translocations from the NWHI to the higher MHI within protected areas",
+        "location": "Christmas shearwater (Conservation Actions)",
+        "relevant_elements": ["4.2"]
+      },
+      {
+        "text": "Conduct translocations of species outside of their historical ranges when recovery potential within their range is reduced due to, but limited to, climate change, predator load, or degradation of habitat",
+        "location": "Hawaiian Land snails (multiple family sections, Conservation Actions)",
+        "relevant_elements": ["4.2"]
+      },
+      {
+        "text": "The MNLCP employs a novel spatial conservation prioritization approach, emphasizing transparency, flexibility, and expert engagement in recovery planning for Maui Nui.",
+        "location": "The Maui Nui Landscape Conservation Plan",
+        "relevant_elements": ["4.1", "4.5"]
+      },
+      {
+        "text": "the Hawaiʻi Department of Land and Natural Resources, in collaboration with a broad coalition of public and private agencies, organizations, landowners, and conservation experts, is developing an innovative approach to implementation planning for biodiversity conservation in Hawaii. Initially focused on Maui Nui, the Maui Nui Landscape Conservation Plan (MNLCP) provides a systematic, climate-resilient approach to landscape-scale conservation.",
+        "location": "The Maui Nui Landscape Conservation Plan",
+        "relevant_elements": ["4.1", "4.5"]
+      },
+      {
+        "text": "As a part of the adaptive management process, the State DOFAW and DAR will conduct annual reviews to assess Hawai'i's SWAP program implementation and determine if any changes need to be made.",
+        "location": "ADAPTIVE MANAGEMENT AND THE TEN-YEAR REVISION",
+        "relevant_elements": ["4.3", "4.5"]
+      },
+      {
+        "text": "Each ten-year review and revision will be initiated by DLNR and will involve many of the same steps as were performed for this 2015 plan update",
+        "location": "ADAPTIVE MANAGEMENT AND THE TEN-YEAR REVISION",
+        "relevant_elements": ["4.3"]
+      },
+      {
+        "text": "Develop plans to respond to natural disasters and climate change",
+        "location": "STATEWIDE CONSERVATION OBJECTIVES (Obj. 1 strategies)",
+        "relevant_elements": ["4.5"]
+      },
+      {
+        "text": "Hawai'i ranks near the bottom (48th) in the nation for state spending on fisheries and wildlife...A conservative estimate of the amount of state funds actually dedicated solely to conservation of native wildlife and their habitats is approximately $50 million for Fiscal Year 2024.",
+        "location": "Funding for Conservation",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "Implementation of the 2025 SWAP will continue to require an ongoing effort of local, state, and federal agencies, non-governmental organizations, communities, private landowners, and individual citizens working together.",
+        "location": "HAWAI'I'S STATE WILDLIFE ACTION PLAN",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "Over the past decade, partnerships and groups have organized to address gaps in Hawai'i's biosecurity system. CGAPS was formed in 1995 and is composed of primarily management-level participants from every major agency and organization involved in invasive species work including federal, state, county, and private entities.",
+        "location": "Invasive species committees (Appendix C)",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "Modeled effects of SLR indicate that 12 percent of emergent land at French Frigate Shoals will be lost with a SLR of 1 meter (Reynolds et al. 2013).",
+        "location": "Flooding",
+        "relevant_elements": ["3.5"]
+      },
+      {
+        "text": "Both the Intergovernmental Panel on Climate Change and the U.S. Environmental Protection Agency project sea level to increase 34-42 centimeters (13-16 inches) by 2100. The mean elevation at Southeast Island is just over 1 meter (3 feet), so that during spring tides, most of the island would be inundated.",
+        "location": "Laysan finch (Threats)",
+        "relevant_elements": ["3.5", "2.3"]
+      },
+      {
+        "text": "climate change has the accelerated upslope invasion of mosquito-borne diseases, which threaten the persistence of many endangered birds",
+        "location": "Montane wet communities",
+        "relevant_elements": ["3.7", "3.6"]
+      },
+      {
+        "text": "There are ten watershed partnerships on five islands, involving 74 public and private partners and covering over 890,308 hectares (2.2 million acres) of forested watershed",
+        "location": "Social Overview (Chapter 3 table)",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "the Hawaiʻi Department of Land and Natural Resources, in collaboration with a broad coalition of public and private agencies, organizations, landowners, and conservation experts, is developing an innovative approach to implementation planning for biodiversity conservation in Hawaii.",
+        "location": "The Maui Nui Landscape Conservation Plan",
+        "relevant_elements": ["3.4", "4.5"]
+      },
+      {
+        "text": "major threats include: Loss and degradation of habitat...Ecological consequences of climate change",
+        "location": "OVERVIEW OF THREATS CURRENT THREATS AND CHALLENGES",
+        "relevant_elements": ["1.1", "3.5"]
+      },
+      {
+        "text": "Pueo appear to be shifting their activity temporally and in elevation seasonally, potentially due to higher temperatures at low elevations.",
+        "location": "Pueo (Threats)",
+        "relevant_elements": ["1.1", "3.5"]
+      }
+    ]
+  },
+  "concepts": {
+    "climate_vulnerability": {
+      "evaluable": true,
+      "score": 3,
+      "evidence": [
+        {
+          "text": "Vulnerability assessments are essentially syntheses of available information that are used to determine the potential impacts of a threat (e.g., climate change) on species of interest. Typically, vulnerability assessments attempt to determine species' vulnerability by estimating species' exposure to climate change, their sensitivity to such changes, and their adaptive capacity to respond to change.",
+          "location": "Species Vulnerability Assessments in Response to Changing Climate",
+          "sub_component": "Both exposure and adaptive capacity named",
+          "citations": []
+        },
+        {
+          "text": "Forest birds in Hawai'i face an uncertain future as the effects of climate change exacerbate existing threats caused by disease and the steady loss of habitat. Increases in mean temperature, declining precipitation, and changes in stream flow associated with climate change appear to be allowing the upward spread of mosquitos and increased transmission of avian malaria to highly susceptible native forest birds.",
+          "location": "Species Vulnerability Assessments in Response to Changing Climate",
+          "sub_component": "exposure",
+          "citations": ["Paxton et al. 2016"]
+        },
+        {
+          "text": "Some populations of the 'amakihi have developed infection survival mechanisms to malaria and now are found again in lowland habitats (Foster et al. 2007, Eggert et al. 2008, Atkinson et al. 2013, Neddermeyer et al. 2023), indicating disease resistance may evolve. This potential further emphasizes the need to protect, restore, and manage an elevational range of forests",
+          "location": "Disease (under Terrestrial Ecosystems)",
+          "sub_component": "adaptive capacity",
+          "citations": ["Foster et al. 2007", "Eggert et al. 2008", "Atkinson et al. 2013", "Neddermeyer et al. 2023"]
+        }
+      ],
+      "absence_note": {}
+    },
+    "adaptive_capacity_specificity": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Vulnerability assessments attempt to determine species' vulnerability by estimating species' exposure to climate change, their sensitivity to such changes, and their adaptive capacity to respond to change.",
+          "location": "Species Vulnerability Assessments in Response to Changing Climate",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Some populations of the 'amakihi have developed infection survival mechanisms to malaria and now are found again in lowland habitats, indicating disease resistance may evolve. This potential further emphasizes the need to protect, restore, and manage an elevational range of forests that provide habitat in which native birds can survive in the face of climate change.",
+          "location": "Disease (under Terrestrial Ecosystems)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "adaptive_capacity_components": {
+      "demography": {
+        "present": false,
+        "evidence": []
+      },
+      "distribution": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Among the higher-elevation MHI, a significant portion of native plants are threatened by future climate conditions, owing to shifts or even complete losses of climatic niches of some species (Fortini et al. 2013). Some native plant communities may be able to expand up to higher elevation ranges as temperatures warm, but those at the highest elevations may have no place to go.",
+            "location": "Habitat restriction",
+            "sub_component": null,
+            "citations": ["Fortini et al. 2013"]
+          }
+        ]
+      },
+      "movement": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "coastal communities will not be able to shift fast enough to stay ahead of sea level rise, given that coastal strand habitat is generally bounded by residential or commercial development",
+            "location": "Habitat restriction",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "evolutionary_potential": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Some populations of the 'amakihi have developed infection survival mechanisms to malaria and now are found again in lowland habitats (Foster et al. 2007, Eggert et al. 2008, Atkinson et al. 2013, Neddermeyer et al. 2023), indicating disease resistance may evolve.",
+            "location": "Disease (under Terrestrial Ecosystems)",
+            "sub_component": null,
+            "citations": ["Foster et al. 2007", "Eggert et al. 2008", "Atkinson et al. 2013", "Neddermeyer et al. 2023"]
+          }
+        ]
+      },
+      "ecological_dependencies": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Palila survival and reproduction are closely tied to the species' primary shelter and food source, māmane (Sophora chrysophylla). During the driest drought year, māmane seed pod production was reduced 76 percent in comparison to production during the wettest, drought-free year.",
+            "location": "Drought",
+            "sub_component": null,
+            "citations": ["Banko and Farmer 2014"]
+          }
+        ]
+      },
+      "abiotic_niche": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Temperature increases will allow avian disease pathogens and vectors to expand their ranges to higher elevations, and will increasingly dry out wet forest habitat upon which kāhuli tree snails, picture-wing Drosophila and other invertebrates depend.",
+            "location": "Ecological Consequences of Climate Change",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "life_history": {
+        "present": false,
+        "evidence": []
+      }
+    },
+    "connectivity": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "The SWAP focuses on landscape-scale actions to aid as many species as possible...By emphasizing measures that benefit multiple species groups and habitats in which they reside, the SWAP represents an improvement over single-species management",
+          "location": "VALUE OF HAWAI'I'S SWAP",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "Connectivity is mentioned in the context of landscape-scale management but is not explicitly linked to climate-driven range shifts. The document references protecting 'an elevational range of forests' as habitat connectivity for birds avoiding malaria, but does not use the specific concept of climate corridors or climate-gradient connectivity. Score of 1 for generic connectivity framing without climate-specific framing."
+    }
+  },
+  "tools": {
+    "vulnerability_models": {
+      "evaluable": true,
+      "score": 1,
+      "named_tools": ["vulnerability assessments"],
+      "evidence": [
+        {
+          "text": "Current research efforts focus on two main approaches to determine the potential impacts of climate change on individual species: estimating species vulnerabilities and projecting responses of species to expected changes. Vulnerability assessments are essentially syntheses of available information...",
+          "location": "Species Vulnerability Assessments in Response to Changing Climate",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document references vulnerability assessments as an approach and notes past work on vulnerability assessments in the 2015 SWAP ('information on vulnerability assessments and the impacts of climate change' was a focus area for the 2025 update), but does not apply a specific named vulnerability model (e.g., CCVI) to its focal SGCN in this document. Score = 1 (referenced generally, not applied to focal subjects in the plan)."
+    },
+    "niche_models": {
+      "evaluable": true,
+      "score": 1,
+      "named_tools": ["species distribution models"],
+      "evidence": [
+        {
+          "text": "projecting responses of species to expected changes",
+          "location": "Species Vulnerability Assessments in Response to Changing Climate",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document references 'projecting responses of species to expected changes' in the context of climate change, and Fortini et al. 2013 (a habitat suitability/distribution study) is cited in the habitat restriction section. However, no SDM is run or applied in this document itself to its focal SGCN list. Score = 1."
+    },
+    "climate_models": {
+      "evaluable": true,
+      "score": 1,
+      "named_tools": [],
+      "evidence": [
+        {
+          "text": "Climate change models of rainfall for the Hawaiian Islands through the remainder of the century predict, on average, a decrease in rainfall and reduced availability of freshwater resources (Timm et al. 2015), particularly in the dry climatic regions.",
+          "location": "Alteration of Hydrology",
+          "sub_component": null,
+          "citations": ["Timm et al. 2015"]
+        },
+        {
+          "text": "Both the Intergovernmental Panel on Climate Change and the U.S. Environmental Protection Agency project sea level to increase 34-42 centimeters (13-16 inches) by 2100.",
+          "location": "Laysan finch (Threats)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "Climate projections are cited (Timm et al. 2015 for rainfall; IPCC for sea-level rise) but no specific GCM, RCP, SSP, or downscaling product is named in the document itself. Score = 1 (referenced generally).",
+      "time_horizon_years": [2100],
+      "emission_scenarios": []
+    },
+    "connectivity_models": {
+      "evaluable": true,
+      "score": 0,
+      "named_tools": [],
+      "evidence": [],
+      "absence_note": "No connectivity models are mentioned or applied in this document."
+    }
+  },
+  "context": {
+    "management_scale": {
+      "local": {
+        "present": false,
+        "evidence": []
+      },
+      "site": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "the SWAP introduces a new approach to biodiversity conservation planning at the implementation level. The approach significantly advances effective conservation outcomes by developing a planning framework that enables managers to prioritize management areas and actions that will yield the highest conservation benefit per unit cost.",
+            "location": "INADEQUATE FUNDING / Chapter 4",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "watershed": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "There are ten watershed partnerships on five islands, involving 74 public and private partners and covering over 890,308 hectares (2.2 million acres) of forested watershed",
+            "location": "Social Overview",
+            "sub_component": null,
+            "citations": ["Hawaiʻi Assoc. of Watershed Partnerships, 2024"]
+          }
+        ]
+      },
+      "city": {
+        "present": false,
+        "evidence": []
+      },
+      "county": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Hawai'i has four local governments: the City and County of Honolulu...the County of Kaua'i...the County of Maui...and the County of Hawai'i.",
+            "location": "Social Overview",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "within_state_region": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Initially focused on Maui Nui, the Maui Nui Landscape Conservation Plan (MNLCP) provides a systematic, climate-resilient approach to landscape-scale conservation.",
+            "location": "The Maui Nui Landscape Conservation Plan",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "state": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "This plan assesses threats to species and their habitats and conservation needs at three levels: statewide, island-wide, and taxa-specific.",
+            "location": "STRATEGY APPROACH AND DEVELOPMENT",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "multistate": {
+        "present": false,
+        "evidence": []
+      },
+      "national": {
+        "present": false,
+        "evidence": []
+      },
+      "transnational": {
+        "present": false,
+        "evidence": []
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Coral reefs are threatened by human impacts, invasive species, disease and global climate change.",
+            "location": "Coral Reefs",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecoregion": {
+        "present": false,
+        "evidence": []
+      },
+      "province": {
+        "present": false,
+        "evidence": []
+      },
+      "section": {
+        "present": false,
+        "evidence": []
+      },
+      "subsection": {
+        "present": false,
+        "evidence": []
+      },
+      "lake": {
+        "present": false,
+        "evidence": []
+      },
+      "river": {
+        "present": false,
+        "evidence": []
+      },
+      "district": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["Maui Nui", "Alaka'i Wilderness Preserve", "Maunakea", "NWHI (Northwestern Hawaiian Islands)", "Papahānaumokuākea Marine National Monument"]
+    },
+    "biological_unit_score": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Temperature increases will allow avian disease pathogens and vectors to expand their ranges to higher elevations, and will increasingly dry out wet forest habitat upon which kāhuli tree snails, picture-wing Drosophila and other invertebrates depend.",
+          "location": "Ecological Consequences of Climate Change",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Among the higher-elevation MHI, a significant portion of native plants are threatened by future climate conditions, owing to shifts or even complete losses of climatic niches of some species (Fortini et al. 2013). Some native plant communities may be able to expand up to higher elevation ranges",
+          "location": "Habitat restriction",
+          "sub_component": null,
+          "citations": ["Fortini et al. 2013"]
+        }
+      ],
+      "absence_note": {}
+    },
+    "biological_unit_components": {
+      "species": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Temperature increases will allow avian disease pathogens and vectors to expand their ranges to higher elevations, and will increasingly dry out wet forest habitat upon which kāhuli tree snails, picture-wing Drosophila and other invertebrates depend.",
+            "location": "Ecological Consequences of Climate Change",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "population": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Some populations of the 'amakihi have developed infection survival mechanisms to malaria and now are found again in lowland habitats, indicating disease resistance may evolve.",
+            "location": "Disease (under Terrestrial Ecosystems)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "habitat": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "coastal communities will not be able to shift fast enough to stay ahead of sea level rise, given that coastal strand habitat is generally bounded by residential or commercial development",
+            "location": "Habitat restriction",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Coral reefs are threatened by human impacts, invasive species, disease and global climate change.",
+            "location": "Coral Reefs",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "community": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Some native plant communities may be able to expand up to higher elevation ranges as temperatures warm, but those at the highest elevations may have no place to go.",
+            "location": "Habitat restriction",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "genotype_phenotype": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["'amakihi (Hemignathus virens)", "palila (Loxioides bailleui)", "kāhuli tree snails", "picture-wing Drosophila", "Hawaiian forest birds", "Laysan duck", "'akikiki", "'akeke'e", "coral reefs", "SGCN (Species of Greatest Conservation Need)"]
+    },
+    "partnerships_and_funding": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Under this program, Hawai'i receives approximately $450,000-$500,000 per year to fund SWAP projects. To participate, all states and all U.S. territories are required to update their SWAP by October 1, 2025",
+          "location": "STRATEGY APPROACH AND DEVELOPMENT",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Hawai'i ranks near the bottom (48th) in the nation for state spending on fisheries and wildlife...A conservative estimate of the amount of state funds actually dedicated solely to conservation of native wildlife and their habitats is approximately $50 million for Fiscal Year 2024.",
+          "location": "Funding for Conservation",
+          "sub_component": null,
+          "citations": ["Dept. of Budget and Finance 2022"]
+        },
+        {
+          "text": "Implementation of the 2025 SWAP will continue to require an ongoing effort of local, state, and federal agencies, non-governmental organizations, communities, private landowners, and individual citizens working together.",
+          "location": "HAWAI'I'S STATE WILDLIFE ACTION PLAN",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "Partnerships are described broadly (watershed partnerships, invasive species committees, federal-state-NGO coordination) and some funding amounts are named. However, specific funding dedicated to addressing climate-driven range shifts is not identified. Score = 1 for some partnerships and funding described but limited or aspirational in the range-shift context."
+    },
+    "climate_threat_habitat_degradation": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "sea level rise (SLR) will inundate the Northwestern Hawaiian Islands (NWHI), reducing habitat for nesting seabirds, native passerines, monk seals, and sea turtles, and altering coastal habitats throughout Hawai'i.",
+          "location": "Ecological Consequences of Climate Change",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Hawai'i is more prone to wildfire due to climate change, which is causing temperatures to increase and rainfall to decrease.",
+          "location": "Fire",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Predicted drying conditions from climate change will increase the length and severity of drought and increase the risk of future wildland fire, affecting wildlife populations.",
+          "location": "Drought",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_threat_species_vital_rates": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Chronic drought conditions on Maunakea have contributed to the recent decline of the endangered palila and other native birds (Banko et al. 2013). Palila survival and reproduction are closely tied to the species' primary shelter and food source, māmane (Sophora chrysophylla). During the driest drought year, māmane seed pod production was reduced 76 percent",
+          "location": "Drought",
+          "sub_component": null,
+          "citations": ["Banko et al. 2013", "Banko and Farmer 2014"]
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_threat_biotic_stressors": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "climate change has the accelerated upslope invasion of mosquito-borne diseases, which threaten the persistence of many endangered birds.",
+          "location": "Montane wet communities",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Increasing temperatures, moving up slope, will greatly expand the higher-elevation viability and thus range of mosquitoes and the diseases they transmit (Benning et al. 2002, Atkinson and LaPointe 2009, Atkinson et al. 2014).",
+          "location": "Disease (under Terrestrial Ecosystems)",
+          "sub_component": null,
+          "citations": ["Benning et al. 2002", "Atkinson and LaPointe 2009", "Atkinson et al. 2014"]
+        }
+      ],
+      "absence_note": {}
+    }
+  },
+  "actions": {
+    "priority_habitat_identification": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "the Hawaiʻi Department of Land and Natural Resources, in collaboration with a broad coalition of public and private agencies, organizations, landowners, and conservation experts, is developing an innovative approach to implementation planning for biodiversity conservation in Hawaii. Initially focused on Maui Nui, the Maui Nui Landscape Conservation Plan (MNLCP) provides a systematic, climate-resilient approach to landscape-scale conservation. It integrates species-specific recovery goals into spatially explicit, multi-species conservation areas",
+          "location": "The Maui Nui Landscape Conservation Plan",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Identifying priority lands for which protection and management is needed to further the goals of this SWAP. Acquire those lands through purchase, donation, or set aside to be designated and managed conservation reserves.",
+          "location": "STATEWIDE CONSERVATION OBJECTIVES (Obj. 1 strategies)",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "protect high elevation refugia for susceptible native birds and to conduct forms of mosquito control that reduce disease prevalence.",
+          "location": "Disease (under Terrestrial Ecosystems)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "targeted_range_shift_actions": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Conduct translocations of species outside of their historical ranges when recovery potential within their range is reduced due to, but limited to, climate change, predator load, or degradation of habitat, etc.",
+          "location": "Hawaiian Land snails (multiple family sections, Conservation Actions)",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Establish new colonies on high islands that are less vulnerable to climate change.",
+          "location": "ka'upu or black-footed albatross (Conservation Actions)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "time_bound_and_monitoring": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "As a part of the adaptive management process, the State DOFAW and DAR will conduct annual reviews to assess Hawai'i's SWAP program implementation and determine if any changes need to be made.",
+          "location": "ADAPTIVE MANAGEMENT AND THE TEN-YEAR REVISION",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Each ten-year review and revision will be initiated by DLNR and will involve many of the same steps as were performed for this 2015 plan update",
+          "location": "ADAPTIVE MANAGEMENT AND THE TEN-YEAR REVISION",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document describes annual reviews and a 10-year revision cycle, but individual conservation actions do not have specific deadlines or milestones attached to them in action tables. Effectiveness monitoring is discussed as a principle and noted as needed/ongoing, but is not operationalized at the individual action level for climate-related actions. Score = 1 (plan-level time-binding via the 10-year revision mandate, but no action-level deadlines)."
+    },
+    "evidence_of_efficacy": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "In 2011 and 2012 a total of 50 Nihoa millerbirds were translocated from Nihoa Island to Laysan Island...The initial population of 50 birds has increased to more than 400 birds.",
+          "location": "Nihoa millerbird (Conservation Actions)",
+          "sub_component": null,
+          "citations": ["Bak et al. 2024"]
+        },
+        {
+          "text": "Between 1999 and 2012, 222 captive-bred puaiohi were released into the wild on Kaua'i. Initially, the program was successful, with several captive-raised birds documented successfully breeding, but in later releases, survival and recruitment was lower.",
+          "location": "Puaiohi (Conservation Actions)",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "ʻAkiapōlāʻau however have responded extremely well to koa reforestation, and populations at Hakalau forest have increased by more than 900% in the koa planting areas.",
+          "location": "'Akiapōlā'au (Abundance)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document contains numerous references to ongoing management actions and some case studies with outcome data (particularly for bird translocations and habitat restoration). However, evidence specifically tied to climate adaptation actions (e.g., translocations motivated by climate change) is presented at a general level. Score = 2 for limited but present evidence from prior projects with documented outcomes.",
+      "projects": ["Nihoa millerbird translocation (2011-2012): 50 birds translocated from Nihoa to Laysan Island; population grew to >400 birds, demonstrating translocation efficacy for island passerines.", "Puaiohi captive release program (1999-2012): 222 captive-bred birds released on Kauai; initial success with breeding documented, but later releases showed lower survival; program discontinued based on monitoring results — provides evidence of both partial efficacy and limitations.", "Koa reforestation at Hakalau Forest NWR: 'Akiapola'au populations increased by >900% in koa planting areas, providing strong field evidence that habitat restoration supports native forest bird recovery."]
+    },
+    "adaptation_planning_frameworks": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "the Hawaiʻi Department of Land and Natural Resources, in collaboration with a broad coalition of public and private agencies, organizations, landowners, and conservation experts, is developing an innovative approach to implementation planning for biodiversity conservation in Hawaii. Initially focused on Maui Nui, the Maui Nui Landscape Conservation Plan (MNLCP) provides a systematic, climate-resilient approach to landscape-scale conservation.",
+          "location": "The Maui Nui Landscape Conservation Plan",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Develop plans to respond to natural disasters and climate change",
+          "location": "STATEWIDE CONSERVATION OBJECTIVES (Obj. 1 strategies)",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "As a part of the adaptive management process, the State DOFAW and DAR will conduct annual reviews...This review will include identification of new or altered threats; review of recent surveys, data, and research; evaluation of the effectiveness of conservation actions",
+          "location": "ADAPTIVE MANAGEMENT AND THE TEN-YEAR REVISION",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The Maui Nui Landscape Conservation Plan is described as a 'climate-resilient' systematic planning tool — qualifying as a specific climate adaptation planning framework being operationalized. The document also explicitly references adaptive management as a structured iterative cycle for the SWAP. Score = 2."
+    }
+  },
+  "coding_meta": {
+    "coder": "llm:claude-sonnet-4-6",
+    "model": "claude-sonnet-4-6",
+    "provider": "claude",
+    "codebook_version": "0.4",
+    "ingest": "text",
+    "design": "single",
+    "temperature": null,
+    "thinking": null,
+    "thinking_effort": null,
+    "coded_at": "2026-07-06T18:39:21Z",
+    "notes": {}
+  }
+}

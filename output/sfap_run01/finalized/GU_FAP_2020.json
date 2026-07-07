@@ -1,0 +1,485 @@
+{
+  "document_meta": {
+    "title": "Guam Forest Action Plan (GFAP)",
+    "year": 2020,
+    "jurisdiction": "Guam (US Territory)",
+    "document_type": "Forest Action Plan",
+    "document_id": "GU_FAP_2020",
+    "page_count": 146
+  },
+  "orientation": {
+    "summary": "The Guam Forest Action Plan (GFAP) is a territory-level forest resource management plan (~2020) produced by the Guam Department of Agriculture, Forestry and Soil Resources Division in compliance with USDA Forest Service State and Private Forestry requirements. The document is primarily focused on forest conditions, threats (wildfire, invasive species, military buildup, urbanization, erosion/sedimentation), and 10-year management strategies for Guam's forests and watersheds. Climate change is mentioned only peripherally — one brief passage links sea surface temperature rise to coral bleaching, and weather/drought/typhoon disturbances are discussed as abiotic stressors but without systematic climate-change attribution. The document does not frame its issues or strategies in terms of range shift science, does not reference species distributional shifts, and does not employ climate vulnerability frameworks, niche models, connectivity models, or climate adaptation planning frameworks. The analysis is entirely the document's own: vegetation mapping, fire behavior risk modeling, sediment delivery modeling (N-SPECT), and stakeholder priority identification.",
+    "evidence_index": [
+      {
+        "text": "coral bleaching is emerging as a potential threat which will likely become more severe with increasing sea surface temperatures associated with global climate change.",
+        "location": "Reef Resources / Table 11 note",
+        "relevant_elements": ["1.1", "3.5"]
+      },
+      {
+        "text": "Guam's forests have been impacted by typhoons, drought, wildfires, and invasions of introduced insects, plants and ungulate species. These impacts have greatly altered native communities, and now threaten biodiversity and watershed functions.",
+        "location": "Executive Summary",
+        "relevant_elements": ["3.5", "3.6", "3.7"]
+      },
+      {
+        "text": "Abiotic factors, such as drought, can increase a tree's susceptibility to disease and insect attack. Short term droughts frequently occur during the dry season and may be exacerbated by conditions typical of an El Niño weather pattern following active typhoon seasons. Droughts may reduce tree growth and increase tree mortality.",
+        "location": "Abiotic Disturbances Affecting Forest Health",
+        "relevant_elements": ["3.5", "3.6"]
+      },
+      {
+        "text": "Storm damage may cause defoliation, toppling of trees, limb breakage, and damage due to saltwater spray and inundation. These forms of damage provide niches and enhanced opportunity for exotic 'pioneer' species to become established in a forest.",
+        "location": "Abiotic Disturbances Affecting Forest Health",
+        "relevant_elements": ["3.5", "3.7"]
+      },
+      {
+        "text": "Fire is a keystone issue on Guam that prevents reestablishment of forests, threatens urban areas and public safety, and maintains or promotes fire prone grasslands.",
+        "location": "Identification of Issues and Threats to Guam Landscapes",
+        "relevant_elements": ["3.5"]
+      },
+      {
+        "text": "A fire risk assessment conducted in 2004 identified the key vegetation types and topographic influences that would likely contribute to hazardous burn conditions in a given climate scenario.",
+        "location": "Issue 1. Wildfire and Public Safety / Introduction",
+        "relevant_elements": ["3.5"]
+      },
+      {
+        "text": "Wildfire is a primary disturbance that affects forest and watershed health and is a keystone issue that is linked with other identified stakeholder issues. Fire is an anthropogenic disturbance that directly interferes with the establishment and expansion of native forests, threatens standing forests, opens corridors for invasive species intrusions, accelerates erosion, and contributes to the decline of the coral reef system.",
+        "location": "Issue 1. Wildfire and Public Safety / Introduction",
+        "relevant_elements": ["3.5", "3.6"]
+      },
+      {
+        "text": "Invasive species significantly alter forest structure, composition and resilience to other disturbance processes. Abiotic disturbances including typhoons and fire contribute to the successful spread and establishment of invasive species.",
+        "location": "Forest Conditions and Trends",
+        "relevant_elements": ["3.7"]
+      },
+      {
+        "text": "Storms may have a devastating impact on the island landscape. Frequent tropical storms and typhoons (Table 20), especially during the weather phenomenon 'El Nino' may cause dramatic damage to forests and are most prevalent during the wet season months of September to November.",
+        "location": "Abiotic Disturbances Affecting Forest Health",
+        "relevant_elements": ["3.5", "3.6"]
+      },
+      {
+        "text": "Forest cover is increasingly dominated by invasive species. Three introduced trees comprise over 1/4th or 26% of the island's forest cover.",
+        "location": "Observed Trends in Forest Cover",
+        "relevant_elements": ["3.7"]
+      },
+      {
+        "text": "Planting trees in these areas are within the Urban, Stewardship, and Cooperative Fire Programs. Monitoring the plantings and expanding forest patches to close the distance between existing fragments also falls within the objectives of Forest Health programs.",
+        "location": "Meeting Multiple Objectives: The Urban Environment Highest Priority Areas",
+        "relevant_elements": ["4.1", "4.3"]
+      },
+      {
+        "text": "A synthesis of the stakeholder issues identifying approximately 13,000 acres of land that are the highest priority areas for treatment, where single treatments of planting forest will decrease sediment loads to reefs, increase forest fragment sizes, and decrease risk of fire to standing forests.",
+        "location": "Identification of Issues and Threats to Guam Landscapes",
+        "relevant_elements": ["4.1"]
+      },
+      {
+        "text": "Conduct island-wide forest inventories on a 5-year cycle (Established FIA and MC Plots).",
+        "location": "Next Steps and Actions (Strategy 4)",
+        "relevant_elements": ["4.3"]
+      },
+      {
+        "text": "Typhoons, loss of pollinators, loss of habitat due to development and wildfires, and introduction of aggressive invasive plant species are all factors that lower forest resilience that can ultimately support these essential habitats.",
+        "location": "Guam Wildlife Action Plan (table section)",
+        "relevant_elements": ["3.5", "3.7", "1.1"]
+      },
+      {
+        "text": "The Wildlife Action Plan identifies limestone forests, scrub (secondary forests), and ravine forests as important for all of Guam's native avian, invertebrate, reptilian and mammalian species.",
+        "location": "Guam Wildlife Action Plan (table section)",
+        "relevant_elements": ["3.3", "4.1"]
+      },
+      {
+        "text": "Mortality rates of native cycad between 2004 and 2007 were estimated to be approximately 9% per year on permanent transects, suggesting the threat of extirpation of C. micronesica within the next few decades.",
+        "location": "Table 20 / Biotic Disturbances",
+        "relevant_elements": ["3.6"]
+      },
+      {
+        "text": "Conservation of native forests through acquisition and legal protection (including Forest Legacy) and management (including volunteer programs), or through removing disturbance events (fire, off road vehicle use, barbeques, etc.) will prevent deforestation and degradation of native forests.",
+        "location": "Strategy 2: Protect, Conserve and Restore Forests",
+        "relevant_elements": ["4.1", "4.2"]
+      },
+      {
+        "text": "Identify potential funding sources from a diversity of sources -GovGuam, US Forest Service, DoD, EPA, FEMA, NOAA, NRCS, NGO's, private, etc. and devise an approach to putting these funding sources together to meet the overall program needs.",
+        "location": "Introduction (Program Capacity section)",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "All programs will benefit from Readiness and Environmental Protection Integration (REPI) program funding that was awarded to Guam in 2020. Collaborative efforts are underway between DoD and Guam Forestry.",
+        "location": "Synthesis of Issues: Actions Meeting Multiple Objectives",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "The step-down approach from an island scale to a watershed and site scale, and the need for increased resources to build program capacity to carry out these strategies.",
+        "location": "Ten-Year Strategic Plan",
+        "relevant_elements": ["3.1", "4.3"]
+      }
+    ]
+  },
+  "concepts": {
+    "climate_vulnerability": {
+      "evaluable": true,
+      "score": 0,
+      "evidence": [],
+      "absence_note": "The document does not frame any species or habitat in terms of climate vulnerability, climate exposure, or adaptive capacity. The one mention of climate change (sea surface temperatures and coral bleaching) is a parenthetical observation, not a vulnerability assessment. Typhoons, droughts, and fire are discussed as abiotic stressors without climate-change attribution or vulnerability framing."
+    },
+    "adaptive_capacity_specificity": {
+      "evaluable": true,
+      "score": 0,
+      "evidence": [],
+      "absence_note": "No adaptive capacity components are discussed in a climate-adaptation context."
+    },
+    "adaptive_capacity_components": {
+      "demography": {
+        "present": false,
+        "evidence": []
+      },
+      "distribution": {
+        "present": false,
+        "evidence": []
+      },
+      "movement": {
+        "present": false,
+        "evidence": []
+      },
+      "evolutionary_potential": {
+        "present": false,
+        "evidence": []
+      },
+      "ecological_dependencies": {
+        "present": false,
+        "evidence": []
+      },
+      "abiotic_niche": {
+        "present": false,
+        "evidence": []
+      },
+      "life_history": {
+        "present": false,
+        "evidence": []
+      }
+    },
+    "connectivity": {
+      "evaluable": true,
+      "score": 0,
+      "evidence": [],
+      "absence_note": "The document discusses forest fragmentation and the value of increasing forest contiguity, but these are framed in terms of fire risk reduction, invasive species resistance, and storm resilience — not climate-driven range shifts. No climate connectivity, climate corridors, or connectivity as a mechanism for climate-driven species movement is referenced."
+    }
+  },
+  "tools": {
+    "vulnerability_models": {
+      "evaluable": true,
+      "score": 0,
+      "named_tools": [],
+      "evidence": [],
+      "absence_note": "No climate vulnerability models (CCVI, PVA, etc.) are referenced anywhere in the document."
+    },
+    "niche_models": {
+      "evaluable": true,
+      "score": 0,
+      "named_tools": [],
+      "evidence": [],
+      "absence_note": "No species distribution models or niche models are referenced. Vegetation mapping uses satellite imagery-based classification, not SDMs."
+    },
+    "climate_models": {
+      "evaluable": true,
+      "score": 0,
+      "named_tools": [],
+      "evidence": [],
+      "absence_note": "The document discusses climate descriptively (typhoon frequency, drought, sea surface temperature) but cites no climate models, GCMs, downscaled projections, RCPs, SSPs, or emission scenarios. The fire risk assessment referenced a 'given climate scenario' but this is a fire behavior modeling context, not a climate projection model.",
+      "time_horizon_years": [],
+      "emission_scenarios": []
+    },
+    "connectivity_models": {
+      "evaluable": true,
+      "score": 0,
+      "named_tools": [],
+      "evidence": [],
+      "absence_note": "No connectivity models (CircuitScape, least-cost path, etc.) are referenced. Spatial analyses use N-SPECT for sediment, LiDAR for topography, and vegetation maps — none of which are connectivity models for range-shift purposes."
+    }
+  },
+  "context": {
+    "management_scale": {
+      "local": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Site Design & Implementation Strategy (40 -70% Design). This piece focuses on one or more of the identified projects/ action items from the Action Plan and provides the technical and cost basis for implementation.",
+            "location": "Step-Down Approach for Landscape Management",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "site": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Geographic Scale: Approved and Vetted Project Areas within Watershed (site-specific, 10's of acres).",
+            "location": "Step-Down Approach for Landscape Management",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "watershed": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The assessment involves a multidisciplinary approach to resource management, involving vegetation, hydrology, soils, wildlife, marine resources, agriculture, recreation, and other cultural resources.",
+            "location": "Step-Down Approach for Landscape Management",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "city": {
+        "present": false,
+        "evidence": []
+      },
+      "county": {
+        "present": false,
+        "evidence": []
+      },
+      "within_state_region": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The major watersheds of Guam were divided into three groups: western, eastern, and northern regions to capture the major changes in soils and topography.",
+            "location": "Watersheds on Guam",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "state": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "This document provides the technical assessment needed to identify priority landscapes for implementation of S&PF Programs at the island scale.",
+            "location": "Agencies and Stakeholders",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "multistate": {
+        "present": false,
+        "evidence": []
+      },
+      "national": {
+        "present": false,
+        "evidence": []
+      },
+      "transnational": {
+        "present": false,
+        "evidence": []
+      },
+      "ecosystem": {
+        "present": false,
+        "evidence": []
+      },
+      "ecoregion": {
+        "present": false,
+        "evidence": []
+      },
+      "province": {
+        "present": false,
+        "evidence": []
+      },
+      "section": {
+        "present": false,
+        "evidence": []
+      },
+      "subsection": {
+        "present": false,
+        "evidence": []
+      },
+      "lake": {
+        "present": false,
+        "evidence": []
+      },
+      "river": {
+        "present": false,
+        "evidence": []
+      },
+      "district": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["Guam", "Northern Guam", "Southern Guam", "Western watersheds", "Eastern watersheds", "Talofofo watershed", "Agana watershed", "Cetti watershed"]
+    },
+    "biological_unit_score": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "The Wildlife Action Plan identifies limestone forests, scrub (secondary forests), and ravine forests as important for all of Guam's native avian, invertebrate, reptilian and mammalian species.",
+          "location": "Guam Wildlife Action Plan (table section)",
+          "sub_component": "species and habitat",
+          "citations": []
+        }
+      ],
+      "absence_note": "The document discusses species (SGCN, named tree species, invasive species) and habitat types as conservation targets, but not in range-shift contexts. Only one biological unit level (species/habitat) is referenced in any way connected to management; range shift science is absent. Score of 1 is borderline — only species and habitat appear as biological units and neither is discussed in a range-shift context. Scored 1 because at least one biological unit is referenced in connection with management (species), which is the weakest threshold."
+    },
+    "biological_unit_components": {
+      "species": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The Guam Wildlife Action Plan to promote the recovery and sustainable use of Guam's native aquatic and terrestrial species, especially those of greatest conservation need, aligns with the mission of Guam Forestry.",
+            "location": "Guam Wildlife Action Plan",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "population": {
+        "present": false,
+        "evidence": []
+      },
+      "habitat": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The Wildlife Action Plan identifies limestone forests, scrub (secondary forests), and ravine forests as important for all of Guam's native avian, invertebrate, reptilian and mammalian species.",
+            "location": "Guam Wildlife Action Plan (table section)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecosystem": {
+        "present": false,
+        "evidence": []
+      },
+      "community": {
+        "present": false,
+        "evidence": []
+      },
+      "genotype_phenotype": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["Guam Wildlife Action Plan SGCN (99 species)", "native limestone forest", "ravine forest", "scrub forest", "Cycas micronesica", "Leucaena leucocephala", "Hibiscus tilliaceus", "coconut rhinoceros beetle", "Asian cycad scale", "little fire ant"]
+    },
+    "partnerships_and_funding": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "All programs will benefit from Readiness and Environmental Protection Integration (REPI) program funding that was awarded to Guam in 2020. Collaborative efforts are underway between DoD and Guam Forestry.",
+          "location": "Synthesis of Issues: Actions Meeting Multiple Objectives",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Identify potential funding sources from a diversity of sources -GovGuam, US Forest Service, DoD, EPA, FEMA, NOAA, NRCS, NGO's, private, etc. and devise an approach to putting these funding sources together to meet the overall program needs.",
+          "location": "Introduction (Program Capacity section)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document identifies numerous potential funding sources and describes some existing partnerships (DoD-Guam Forestry, UOG, APHIS, GISAC), but these are general forestry management partnerships, not specifically for range-shift work. The plan is largely aspirational in terms of funding — it acknowledges Guam Forestry is severely understaffed and underfunded. Score 1 for some described partnerships and funding mentions, but mostly aspirational and not specific to range shifts."
+    },
+    "climate_threat_habitat_degradation": {
+      "evaluable": true,
+      "score": 0,
+      "evidence": [],
+      "absence_note": "The document discusses wildfire, drought, typhoons, and erosion as habitat threats extensively, but does not frame them as climate-induced. The one explicit climate change mention (sea surface temperatures and coral bleaching) is a brief parenthetical. Fire is described as 'anthropogenic' (arson-driven), and drought is discussed as seasonal and El Niño-related without climate change attribution. The codebook requires explicit climate framing; this document does not provide it."
+    },
+    "climate_threat_species_vital_rates": {
+      "evaluable": true,
+      "score": 0,
+      "evidence": [],
+      "absence_note": "While the document discusses mortality events (cycad die-off from scale insects, tree dieback from Casuarina decline, storm-related defoliation), none of these are framed as climate-induced vital rate effects. Drought effects on tree susceptibility are noted but without climate-change attribution. The codebook requires climate framing for this element."
+    },
+    "climate_threat_biotic_stressors": {
+      "evaluable": true,
+      "score": 0,
+      "evidence": [],
+      "absence_note": "Invasive species are discussed extensively as a major threat, and succession/community composition change is implied, but none of these are framed as climate-driven. The document attributes invasive species spread to cargo transport, military buildup, tourism, and disturbance (typhoons, fire) — not climate change. No phenological mismatch or climate-favored invasion framing is present."
+    }
+  },
+  "actions": {
+    "priority_habitat_identification": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "A synthesis of the stakeholder issues identifying approximately 13,000 acres of land that are the highest priority areas for treatment, where single treatments of planting forest will decrease sediment loads to reefs, increase forest fragment sizes, and decrease risk of fire to standing forests.",
+          "location": "Identification of Issues and Threats to Guam Landscapes",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Figure 19. Priority areas for fuels treatments to reduce risk of fire damage to standing forests.",
+          "location": "List of Figures",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "The following two sections outline a total of 13,098 acres that are the Highest Priority Areas for treating multiple objectives. Approximately 4,178 acres are in the urban areas and 8,920 acres are located around forest fragments.",
+          "location": "Meeting Multiple Objectives: The Urban Environment Highest Priority Areas",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "Priority habitat areas are spatially mapped (multiple figures: Figures 19, 20, 22, 23, 24, 25, 26, 29, 30) and quantified by watershed (Tables 14, 22, 23). However, these are identified for fire risk reduction, erosion control, and forest restoration — not specifically climate adaptation or range shifts. Scored 2 because spatial representation is clearly present. The absence of climate framing does not lower the score for this element, which simply asks about spatial priority habitat identification."
+    },
+    "targeted_range_shift_actions": {
+      "evaluable": true,
+      "score": 0,
+      "evidence": [],
+      "absence_note": "No actions are proposed that are framed as facilitating, preventing, or responding to climate-driven range shifts. Reforestation, translocation, and assisted planting activities are discussed only in terms of fire risk, sediment control, invasive species management, and general forest restoration — not climate-driven range shifts."
+    },
+    "time_bound_and_monitoring": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Resource Strategies (10 years). Four major strategies are presented, including a description, action plan of next steps, Forest Service programs that could be leveraged, key stakeholders, resources needed (staff and funding) and an overall timeline with internal performance measures of success.",
+          "location": "Strategies for Addressing Threats / Introduction",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Conduct island-wide forest inventories on a 5-year cycle (Established FIA and MC Plots).",
+          "location": "Next Steps and Actions (Strategy 4)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document provides a 10-year strategic plan with performance measures listed for each program (e.g., number of acres planted, number of surveys completed). However, individual actions do not have specific deadlines attached, and effectiveness monitoring is framed as aspirational performance tracking rather than tied to specific action outcomes. Score 1 for clear time-bound framing (10-year plan, 5-year inventory cycle) without action-level effectiveness monitoring that would qualify for score 2."
+    },
+    "evidence_of_efficacy": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "These management strategies are synergistic, with breaks helping to establish new plantings and older plantings, in turn, shading out grasses that fuel fires.",
+          "location": "Issue 1. Wildfire and Public Safety / Introduction",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document presents actions with general ecological rationale (e.g., planting trees shades out invasive grasses that fuel fires) but rarely cites studies supporting specific action efficacy. Some biocontrol efforts reference adaptations from Hawaii and show mixed results. Score 1 because general ecological first principles are used to justify actions but no directly applicable efficacy studies are presented. The LFA biocontrol discussion mentions some evidence of effectiveness but without study citations or outcome data.",
+      "projects": ["Cetti Bay 500-acre planting project: The document references a current planting effort in Cetti Bay to mitigate reef damage from Kilo Wharf Expansion Project, noting priority area maps can refine targeting. This provides limited evidence that planting is being implemented but does not evaluate outcomes.", "LFA management on Guam: Past approaches using ant-specific toxicants adapted from Hawaii University methods are noted as having proven effective in Guam's forests, providing some applied evidence for biocontrol strategies.", "Biocontrol for cycad scale: Introduction of Rhyzobius lophanthae from Maui initially appeared promising but subsequently declined in effectiveness, providing negative evidence for this particular biocontrol approach."]
+    },
+    "adaptation_planning_frameworks": {
+      "evaluable": true,
+      "score": 0,
+      "evidence": [],
+      "absence_note": "The document employs a step-down planning approach and adaptive management language (performance measures, iterative planning), but these are not framed in a climate adaptation context. No RAD, RRT, CCVA, SBDA, SDM (Structured Decision Making), or other climate adaptation planning frameworks are referenced. The planning frameworks present are general natural resource management frameworks, not climate adaptation frameworks."
+    }
+  },
+  "coding_meta": {
+    "coder": "llm:claude-sonnet-4-6",
+    "model": "claude-sonnet-4-6",
+    "provider": "claude",
+    "codebook_version": "0.4",
+    "ingest": "text",
+    "design": "single",
+    "temperature": null,
+    "thinking": null,
+    "thinking_effort": null,
+    "coded_at": "2026-07-07T00:31:30Z",
+    "notes": {}
+  }
+}

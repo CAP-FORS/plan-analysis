@@ -1,0 +1,679 @@
+{
+  "document_meta": {
+    "title": "Puerto Rico Statewide Forest Resources Assessment and Strategy (Forest Action Plan)",
+    "year": 2020,
+    "jurisdiction": "Puerto Rico",
+    "document_type": "State Forest Action Plan",
+    "document_id": "PR_FAP_2020",
+    "page_count": 128
+  },
+  "orientation": {
+    "summary": "This document is Puerto Rico's Statewide Forest Resources Assessment and Strategy (a State Forest Action Plan / SWAP-equivalent), produced by the DNERFSB under USDA Forest Service cooperative programs, likely circa 2015-2020 based on internal dates. It addresses forest conditions, threats, and strategies for Puerto Rico's forests across all ownerships, with a strong multi-benefit framing (water, biodiversity, wildlife, economics). Climate change is acknowledged as a threat to forests — discussed in a dedicated subsection covering sea level rise, wildfire exacerbation, drought, habitat degradation, and coral bleaching — but the treatment is largely descriptive rather than analytical; the document references climate projections from UNEP and IPCC without applying any climate or niche modeling tools to its focal species or habitats. Range shifts are not framed explicitly; the document discusses connectivity and wildlife corridors, habitat fragmentation, and priority landscape conservation, but not in terms of climate-driven distributional change. Analysis is drawn predominantly from existing inventories (FIA, PR-GAP) and literature, with strategies focused on land acquisition, forest stewardship, riparian buffers, and urban forestry.",
+    "evidence_index": [
+      {
+        "text": "Climate models suggest that there will be a decrease in the frequency of hurricanes in the Caribbean, although an increase is also expected in the frequency of more intense events (CCCPR 2013).",
+        "location": "iv. Climate change",
+        "relevant_elements": ["2.3", "1.1", "3.5"]
+      },
+      {
+        "text": "The expected changes, presented so far by the United Nations Environmental Program (UNEP 2008) include: deteriorating coastal conditions as, for example, beach erosion and coral bleaching, affecting fisheries and touristic coastal scenarios; floods, storm surge, erosion and other coastal hazards, exacerbated by sea-level rise...",
+        "location": "iv. Climate change",
+        "relevant_elements": ["1.1", "3.5", "3.6"]
+      },
+      {
+        "text": "loss of mangrove forests and coral reefs as a consequence of sea level rise; coral bleaching and acidification of the ocean; damage to terrestrial forests caused by extreme events; reduction of the size of freshwater aquifers or lenses and of general water resource availability due to decreased rainfall and salt water intrusion",
+        "location": "iv. Climate change",
+        "relevant_elements": ["3.5", "1.1"]
+      },
+      {
+        "text": "Climate change, extended drought, and human-induced landscape fragmentation have the potential to greatly expand fire-prone areas to moist and wet tropical forests and even non-forested landscapes traditionally fire-free (Gould 2008).",
+        "location": "b. THREATS TO FOREST RESOURCES i. Development and forest fragmentation",
+        "relevant_elements": ["3.5", "3.6", "1.1"]
+      },
+      {
+        "text": "Climate warming, droughts, and the increase of invasive species will make forests more vulnerable to wildfires. Evidence of this is already being seen in the Island where wildfires are increasing in frequency and occurring in areas where such fires have never been recorded before (Robbins et al. 2009).",
+        "location": "iv. Climate change",
+        "relevant_elements": ["3.5", "3.7", "1.1"]
+      },
+      {
+        "text": "increased invasion by non-native species as result of higher temperatures, particularly on middle and high latitude islands",
+        "location": "iv. Climate change",
+        "relevant_elements": ["3.7"]
+      },
+      {
+        "text": "The expected sea level rise is another issue that will significantly affect certain forests in Puerto Rico, mainly within the coastal zone. A rise in sea level of just one foot could have a detrimental effect on coastal forest areas, including mangrove systems and other coastal swamps",
+        "location": "iv. Climate change",
+        "relevant_elements": ["3.5", "1.1"]
+      },
+      {
+        "text": "restore and maintain resilient forests that are better adapted to a changing climate and other stressors, and reforest lands disturbed by catastrophic wildfires and other natural events.",
+        "location": "iv. Climate change",
+        "relevant_elements": ["4.5", "1.2", "4.2"]
+      },
+      {
+        "text": "Climate change can be regarded as a process of long-term change that requires a monitoring mechanism or protocol to categorize management applications and setting priorities can focus on adapting to the climate change process.",
+        "location": "iv. Climate change",
+        "relevant_elements": ["4.3", "4.5"]
+      },
+      {
+        "text": "The most general definition of climate change is a change in the statistical properties of the climate system when considered over periods of decades or longer, regardless of cause (Houghton 2001). The effects of climate change have the potential to be devastating in many areas of the world, including islands with substantial portions of its coastal plain composed of lowlands close to current sea level.",
+        "location": "iv. Climate change",
+        "relevant_elements": ["1.1"]
+      },
+      {
+        "text": "Forested corridors are an important means of connecting fragmented habitat into a more unified whole.",
+        "location": "Wildlife",
+        "relevant_elements": ["1.4", "4.1"]
+      },
+      {
+        "text": "As the amount of fragmentation increases, species populations may become isolated, and the migration of individuals and populations between areas of suitable habitat becomes more difficult.",
+        "location": "b. THREATS TO FOREST RESOURCES i. Development and forest fragmentation",
+        "relevant_elements": ["1.4", "1.3"]
+      },
+      {
+        "text": "This law recognizes the ecological value of the area, by establishing an umbrella effect on ecosystems and associated diversity of these areas...The Model Forest of Puerto Rico interconnects nineteen (19) protected areas; including Bosque del Pueblo, Toro Negro, Tres Picachos, La Olimpia, among others; throughout 378,777 acres of land from the north coast to the southern dry zone between Guanica and Cabo Rojo",
+        "location": "Urban Forests",
+        "relevant_elements": ["4.1", "1.4"]
+      },
+      {
+        "text": "Act No. 14 Unifying Act of State Forests...orders the DNER to identify the lands between these forests and draw two biological corridors linking them; delimit buffer zones; and determine acquirement and conservation strategies.",
+        "location": "Urban Forests",
+        "relevant_elements": ["1.4", "4.1", "4.2"]
+      },
+      {
+        "text": "Eight priority landscapes have been identified based on analysis of the public issues, resource status and trends, and partnership opportunities. They are: Interface Landscapes Critical Wildlife Areas Areas of Hydrologic Importance Fire Prone Landscapes Urban Forests Riparian Corridors Joint Priority Landscapes Model Forest of Puerto Rico",
+        "location": "ii. Priority Landscapes",
+        "relevant_elements": ["4.1", "3.1"]
+      },
+      {
+        "text": "The DNERFSB will focus on acquiring land and easements in the portions of Forest Legacy Areas that fall within the wildland urban interface...The primary objective is to retain large blocks of high quality contiguous forest that provide for the critical elements in the attached Assessment of Need.",
+        "location": "Interface Landscape",
+        "relevant_elements": ["4.1", "3.4"]
+      },
+      {
+        "text": "Figure 26 displays the CWA's identified in the PRSWAP (DNER 2015). These areas were delineated by determining the location of land 'necessary' to perpetuate the existence of species of special interest to the DNER. The species underlying selection of these areas are classified as threatened using the IUCN red list methodology.",
+        "location": "Critical Wildlife Areas (CWA's)",
+        "relevant_elements": ["4.1", "3.2", "3.3"]
+      },
+      {
+        "text": "management activity will focus on lands where reforestation or other forest management will improve sediment and erosion control.",
+        "location": "Areas of hydrologic importance",
+        "relevant_elements": ["4.1"]
+      },
+      {
+        "text": "manage trees and forests to mitigate and adapt to global climate change.",
+        "location": "Table 13",
+        "relevant_elements": ["4.5", "4.2"]
+      },
+      {
+        "text": "1-Protect developed large contiguous forest areas and corridors to insure connectivity by...C-Development...urban sprawl; fragmentation",
+        "location": "Appendix / Goals and Strategies",
+        "relevant_elements": ["1.4", "4.2"]
+      },
+      {
+        "text": "D-Climate Change 1-Create and conserve corridors for tree mitigation. 2-Increase carbon storage through increases in tree canopy cover. 3-Conduct urban forests inventories. 4-Encourage development of management plans. 5-Perform hazard tree mitigation. 6-Provide professional training",
+        "location": "Appendix / Goals and Strategies",
+        "relevant_elements": ["4.5", "4.2", "4.3"]
+      },
+      {
+        "text": "Puerto Rico participated in a USFS SFLA (Appendix C), which identified priority areas based on the richness of the forest resource and perceived threats.",
+        "location": "Acknowledgements",
+        "relevant_elements": ["4.1", "2.4"]
+      },
+      {
+        "text": "The continued relevance of the selected Forest Legacy Areas for biodiversity was affirmed by evaluating the conservation recommendations from the PR-GAP (Gould et al. 2008) against the existing legacy areas",
+        "location": "Acknowledgements",
+        "relevant_elements": ["4.1", "2.1"]
+      },
+      {
+        "text": "USDA Forest Service (2015-a) recommends to enhance rates of net carbon sequestration through management strategies that retain and protect forest land from conversion to non-forest uses, restore and maintain resilient forests that are better adapted to a changing climate and other stressors",
+        "location": "iv. Climate change",
+        "relevant_elements": ["4.5", "1.2"]
+      },
+      {
+        "text": "A significant proportion of the biota in Puerto Rico are found nowhere else in the world, thus the loss of a species locally represents a reduction of the biological diversity of the planet. Gould et al. (2007) conducted an analysis of conservation status on 177 mostly native species that are regularly found on the island.",
+        "location": "Wildlife",
+        "relevant_elements": ["3.2", "3.3"]
+      },
+      {
+        "text": "Recent periods of severe water shortage have already highlighted the potential impact of increased water demand on fish and wildlife (Lugo et al. 2004).",
+        "location": "Wildlife",
+        "relevant_elements": ["3.5", "3.6"]
+      },
+      {
+        "text": "Forest patches acting as corridors between existing reserves...Development of ecological corridors, including riparian corridors to connect existing reserves with green spaces",
+        "location": "Table 15",
+        "relevant_elements": ["1.4", "4.1", "4.2"]
+      },
+      {
+        "text": "The Puerto Rico Forest Stewardship Council and a group of local, natural resources experts...The FIA data provided a snapshot the current status of forests resources in Puerto Rico and also described trends in recent forest cover change.",
+        "location": "Appendix E. Forest Land Analysis Project (FLAP)",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "USFS, hired Estudios Técnicos to complete this new section...Under direction provided on February 6, 2015 by a joint Memorandum from the Deputy Chief of State and Private Forestry of the United States Forest Service, James E. Hubbard and National Association of State Foresters President James Karels",
+        "location": "Acknowledgements",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "reduction in freshwater resources to the point where they cannot meet demand during drought periods...economic losses from reduced agricultural yields (shortening of the growing seasons and droughts)",
+        "location": "iv. Climate change",
+        "relevant_elements": ["3.5"]
+      },
+      {
+        "text": "Some species of forest songbirds thrive only on very large patches of mature forest habitat, whereas others flourish in younger, more fragmented habitats.",
+        "location": "b. THREATS TO FOREST RESOURCES i. Development and forest fragmentation",
+        "relevant_elements": ["3.3", "1.3"]
+      },
+      {
+        "text": "Understanding why species and ecosystems are vulnerable or potentially less resilient is a critical first step in developing effective conservation strategies.",
+        "location": "iv. Climate change",
+        "relevant_elements": ["1.1", "1.2"]
+      },
+      {
+        "text": "Climate change is likely to exacerbate many of the existing threats to forest ecosystems.",
+        "location": "iv. Climate change",
+        "relevant_elements": ["1.1"]
+      }
+    ]
+  },
+  "concepts": {
+    "climate_vulnerability": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Climate change is likely to exacerbate many of the existing threats to forest ecosystems. Climate warming, droughts, and the increase of invasive species will make forests more vulnerable to wildfires.",
+          "location": "iv. Climate change",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document discusses climate change impacts on forests generically and lists many expected changes (sea level rise, drought, wildfire, coral bleaching) but does not use the IPCC vulnerability framework or articulate exposure vs. adaptive capacity in relation to range shifts or species distributions. The word 'vulnerable' appears in the context of wildfires but not in an IPCC-framework sense. Score 1 (non-specific vulnerability reference) rather than 2 or 3 because neither climate exposure nor adaptive capacity is systematically operationalized for any focal species or habitat."
+    },
+    "adaptive_capacity_specificity": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "restore and maintain resilient forests that are better adapted to a changing climate and other stressors, and reforest lands disturbed by catastrophic wildfires and other natural events.",
+          "location": "iv. Climate change",
+          "sub_component": null,
+          "citations": ["USDA Forest Service 2015-a"]
+        }
+      ],
+      "absence_note": "The document references resilience and adaptability of forests to climate change in a non-specific way. No specific components of adaptive capacity (e.g., dispersal ability, genetic diversity, thermal tolerance) are articulated. Score 1 (referenced, non-specific)."
+    },
+    "adaptive_capacity_components": {
+      "demography": {
+        "present": false,
+        "evidence": []
+      },
+      "distribution": {
+        "present": false,
+        "evidence": []
+      },
+      "movement": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "As the amount of fragmentation increases, species populations may become isolated, and the migration of individuals and populations between areas of suitable habitat becomes more difficult.",
+            "location": "b. THREATS TO FOREST RESOURCES i. Development and forest fragmentation",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "evolutionary_potential": {
+        "present": false,
+        "evidence": []
+      },
+      "ecological_dependencies": {
+        "present": false,
+        "evidence": []
+      },
+      "abiotic_niche": {
+        "present": false,
+        "evidence": []
+      },
+      "life_history": {
+        "present": false,
+        "evidence": []
+      }
+    },
+    "connectivity": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Forested corridors are an important means of connecting fragmented habitat into a more unified whole.",
+          "location": "Wildlife",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Act No. 14 Unifying Act of State Forests...orders the DNER to identify the lands between these forests and draw two biological corridors linking them; delimit buffer zones; and determine acquirement and conservation strategies.",
+          "location": "Urban Forests",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document discusses wildlife corridors and habitat connectivity extensively, but not in the context of climate-driven range shifts. Corridors are framed as tools for connecting fragmented habitats and reducing isolation, not for facilitating climate-driven distributional movement. Score 1 (generic connectivity, no explicit climate framing). The Model Forest ecological corridors and the Adjuntas biological corridors are about conserving biodiversity and landscape connectivity broadly, not climate-gradient connectivity."
+    }
+  },
+  "tools": {
+    "vulnerability_models": {
+      "evaluable": true,
+      "score": 0,
+      "named_tools": [],
+      "evidence": [],
+      "absence_note": "No vulnerability models (CCVI, PVA, or similar) are referenced in the document. The PR-GAP analysis assesses conservation status of species but is not framed as a climate vulnerability assessment."
+    },
+    "niche_models": {
+      "evaluable": true,
+      "score": 0,
+      "named_tools": [],
+      "evidence": [],
+      "absence_note": "No species distribution models or niche models are referenced in the document."
+    },
+    "climate_models": {
+      "evaluable": true,
+      "score": 1,
+      "named_tools": ["IPCC", "CCCPR"],
+      "evidence": [
+        {
+          "text": "Climate models suggest that there will be a decrease in the frequency of hurricanes in the Caribbean, although an increase is also expected in the frequency of more intense events (CCCPR 2013). The CCCPR (2013) recommends increasing standards of preparation for more intense hurricanes.",
+          "location": "iv. Climate change",
+          "sub_component": null,
+          "citations": ["CCCPR 2013"]
+        },
+        {
+          "text": "The more conservative numbers from the Intergovernmental Panel on Climate Change (IPCC) estimate 40 to 102 cm over the next 100 years.",
+          "location": "iv. Climate change",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "Climate models are referenced generally (IPCC sea level rise projections, CCCPR hurricane frequency projections) but not applied to management decisions for the focal forests or species. No GCMs, RCPs/SSPs, or downscaled projections are named. Score 1 (referenced generally, not applied).",
+      "time_horizon_years": [2100],
+      "emission_scenarios": []
+    },
+    "connectivity_models": {
+      "evaluable": true,
+      "score": 1,
+      "named_tools": ["SFLA"],
+      "evidence": [
+        {
+          "text": "Puerto Rico participated in a USFS SFLA (Appendix C), which identified priority areas based on the richness of the forest resource and perceived threats. There was good correspondence between the existing Legacy Areas and the SFLA output.",
+          "location": "Acknowledgements",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The Southern Forest Lands Assessment (SFLA) produced spatial prioritization outputs (referenced in Figure 35 and Table 16 with weighted geographic layers), but the document does not describe it as a connectivity model per se, and it does not appear designed to evaluate range-shift connectivity. CircuitScape, Omniscape, Linkage Mapper, or similar tools are not mentioned. Score 1 rather than 2 because the SFLA outputs are referenced in priority area identification but the tool is a multi-resource assessment, not a connectivity model applied to the document's focal species or range-shift questions."
+    }
+  },
+  "context": {
+    "management_scale": {
+      "local": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Restoration and management of forest cover in riparian areas adjacent to reservoirs, agricultural fields and urban streams is a high priority in every DNER administrative region.",
+            "location": "Riparian corridors",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "site": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "management activity will focus on lands where reforestation or other forest management will improve sediment and erosion control.",
+            "location": "Areas of hydrologic importance",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "watershed": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The primary objective in this landscape is to maintain and/or restore sufficient forest cover to extend the lifespan of existing water supply reservoirs. The target zones are areas upstream of existing reservoirs",
+            "location": "Areas of hydrologic importance",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "city": {
+        "present": false,
+        "evidence": []
+      },
+      "county": {
+        "present": false,
+        "evidence": []
+      },
+      "within_state_region": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Determining the unique conditions and desires of the public in each region was intended to allow the DNER to tailor future programs to specific regions of Puerto Rico rather than treat the entire island as a single homogeneous area.",
+            "location": "Appendix E. Forest Land Analysis Project (FLAP)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "state": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Eight priority landscapes have been identified based on analysis of the public issues, resource status and trends, and partnership opportunities.",
+            "location": "ii. Priority Landscapes",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "multistate": {
+        "present": false,
+        "evidence": []
+      },
+      "national": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The Farm Bill established national goals for forest conservation. Statewide strategies are expected to contribute to the national goals.",
+            "location": "Land use and land cover",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "transnational": {
+        "present": false,
+        "evidence": []
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The Model Forest of Puerto Rico interconnects nineteen (19) protected areas; including Bosque del Pueblo, Toro Negro, Tres Picachos, La Olimpia, among others; throughout 378,777 acres of land from the north coast to the southern dry zone between Guanica and Cabo Rojo",
+            "location": "Urban Forests",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecoregion": {
+        "present": false,
+        "evidence": []
+      },
+      "province": {
+        "present": false,
+        "evidence": []
+      },
+      "section": {
+        "present": false,
+        "evidence": []
+      },
+      "subsection": {
+        "present": false,
+        "evidence": []
+      },
+      "lake": {
+        "present": false,
+        "evidence": []
+      },
+      "river": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Fifty-five (55) rivers discharge directly into the sea.",
+            "location": "Water resources",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "district": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["Guánica", "Caonillas-Dos Bocas", "El Yunque", "La Plata-Coamo", "Maricao", "Maunabo", "Quebradillas", "Río Grande de Loíza", "Cordillera Central Hydrologic Reserve", "Sierra de Luquillo Hydrologic Reserve", "Model Forest of Puerto Rico"]
+    },
+    "biological_unit_score": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "A significant proportion of the biota in Puerto Rico are found nowhere else in the world, thus the loss of a species locally represents a reduction of the biological diversity of the planet.",
+          "location": "Wildlife",
+          "sub_component": "species",
+          "citations": []
+        },
+        {
+          "text": "The purpose of this landscape is to ensure forest habitat is available to sustain the most threatened species on the island.",
+          "location": "Critical Wildlife Areas (CWA's)",
+          "sub_component": "habitat",
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "biological_unit_components": {
+      "species": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Gould et al. (2007) conducted an analysis of conservation status on 177 mostly native species that are regularly found on the island.",
+            "location": "Wildlife",
+            "sub_component": null,
+            "citations": ["Gould et al. (2007)"]
+          }
+        ]
+      },
+      "population": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "As the amount of fragmentation increases, species populations may become isolated, and the migration of individuals and populations between areas of suitable habitat becomes more difficult.",
+            "location": "b. THREATS TO FOREST RESOURCES i. Development and forest fragmentation",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "habitat": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The purpose of this landscape is to ensure forest habitat is available to sustain the most threatened species on the island.",
+            "location": "Critical Wildlife Areas (CWA's)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Climate change is likely to exacerbate many of the existing threats to forest ecosystems.",
+            "location": "iv. Climate change",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "community": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The mixes of native and non-native naturalized species are creating novel plant and animal communities.",
+            "location": "Land use and land cover",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "genotype_phenotype": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["Puerto Rican Parrot (Amazona vittata)", "African tulip tree (Spathodea campanulata)", "red mangrove (Rhizophora mangle)", "black mangrove (Avicennia germinans)", "Eleutherodactylus cooki (the guajón)", "Eleutherodactylus juanriveroi (the coquí llanero)", "subtropical moist forest", "subtropical dry forest", "lower montane wet forest", "mangrove forests", "coral reefs", "riparian forests"]
+    },
+    "partnerships_and_funding": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "USFS, hired Estudios Técnicos to complete this new section...Under direction provided on February 6, 2015 by a joint Memorandum from the Deputy Chief of State and Private Forestry of the United States Forest Service, James E. Hubbard and National Association of State Foresters President James Karels",
+          "location": "Acknowledgements",
+          "sub_component": "partnerships",
+          "citations": []
+        },
+        {
+          "text": "The DNERFSB will work closely within and without the Department to manage their own land to meet this need, to prepare private forest management plans that consider wildlife objectives, and to educate community.",
+          "location": "Critical Wildlife Areas (CWA's)",
+          "sub_component": "partnerships",
+          "citations": []
+        },
+        {
+          "text": "The Forest Legacy Program (FLP) is a volunteer land acquisition and conservation easement program that is administered by USFS, and implemented cooperatively with the DNERFSB.",
+          "location": "Interface Landscape",
+          "sub_component": "funding",
+          "citations": []
+        }
+      ],
+      "absence_note": "The document describes active federal-commonwealth partnerships (USFS-DNERFSB), named funding programs (FLP, FSP, HFRP, EQIP, USFWS State Wildlife Grant), and cooperative agreements. However, these partnerships and funding are not specifically framed as addressing range shifts; they address forest conservation broadly. Score 2 given active, named partnerships with identified funding streams implementing conservation actions, even though range-shift framing is absent."
+    },
+    "climate_threat_habitat_degradation": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "The expected sea level rise is another issue that will significantly affect certain forests in Puerto Rico, mainly within the coastal zone. A rise in sea level of just one foot could have a detrimental effect on coastal forest areas, including mangrove systems and other coastal swamps",
+          "location": "iv. Climate change",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Climate change, extended drought, and human-induced landscape fragmentation have the potential to greatly expand fire-prone areas to moist and wet tropical forests and even non-forested landscapes traditionally fire-free (Gould 2008).",
+          "location": "b. THREATS TO FOREST RESOURCES i. Development and forest fragmentation",
+          "sub_component": null,
+          "citations": ["Gould 2008"]
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_threat_species_vital_rates": {
+      "evaluable": true,
+      "score": 0,
+      "evidence": [],
+      "absence_note": "The document discusses habitat degradation from climate-induced events (sea level rise, wildfire, drought) but does not frame climate events as directly causing mortality, recruitment failure, or other vital rate impacts on specific species. The Puerto Rican Parrot mortality from Hurricane Hugo is mentioned but attributed to the hurricane, not climate change. The chain described is always climate → habitat impact, not climate event → direct species mortality/vital rate impact."
+    },
+    "climate_threat_biotic_stressors": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "increased invasion by non-native species as result of higher temperatures, particularly on middle and high latitude islands",
+          "location": "iv. Climate change",
+          "sub_component": null,
+          "citations": ["UNEP 2008"]
+        }
+      ],
+      "absence_note": {}
+    }
+  },
+  "actions": {
+    "priority_habitat_identification": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Eight priority landscapes have been identified based on analysis of the public issues, resource status and trends, and partnership opportunities. They are: Interface Landscapes Critical Wildlife Areas Areas of Hydrologic Importance Fire Prone Landscapes Urban Forests Riparian Corridors Joint Priority Landscapes Model Forest of Puerto Rico",
+          "location": "ii. Priority Landscapes",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Figure 26 displays the CWA's identified in the PRSWAP (DNER 2015). These areas were delineated by determining the location of land 'necessary' to perpetuate the existence of species of special interest to the DNER.",
+          "location": "Critical Wildlife Areas (CWA's)",
+          "sub_component": null,
+          "citations": ["DNER 2015"]
+        },
+        {
+          "text": "The DNERFSB will focus on acquiring land and easements in the portions of Forest Legacy Areas that fall within the wildland urban interface (Figure 25). The primary objective is to retain large blocks of high quality contiguous forest",
+          "location": "Interface Landscape",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "Priority habitat identification is spatially explicit throughout the document, with multiple maps (Figures 25-28, etc.), GIS-weighted analysis (Table 16), and named Forest Legacy Areas. Score 2 is warranted. Note that the habitat prioritization is not primarily motivated by range shifts but by biodiversity, water, and wildfire concerns."
+    },
+    "targeted_range_shift_actions": {
+      "evaluable": true,
+      "score": 0,
+      "evidence": [],
+      "absence_note": "The document does not propose any actions explicitly targeted at managing climate-driven range shifts. Corridor and connectivity actions are framed as biodiversity/fragmentation responses, not climate-shift facilitation. No assisted migration, climate-motivated translocation, or climate-corridor construction for range-shift purposes is mentioned. The biological corridors in the Adjuntas/Model Forest context are explicitly for conserving forest landscapes and biodiversity connectivity, not for facilitating climate-driven movement."
+    },
+    "time_bound_and_monitoring": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Climate change can be regarded as a process of long-term change that requires a monitoring mechanism or protocol to categorize management applications and setting priorities can focus on adapting to the climate change process.",
+          "location": "iv. Climate change",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document references the need for monitoring in relation to climate change and includes performance measures in the goals/strategies tables (e.g., number of acres managed, number of training sessions). However, these are output metrics, not effectiveness monitoring of climate-specific conservation actions. No deadlines are attached to individual climate-related actions. The document does not operationalize adaptive management at the action level for range-shift or climate-specific work. Score 1 (some time-structured planning is evident in program structures, but not action-level deadlines with effectiveness monitoring)."
+    },
+    "evidence_of_efficacy": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "studies show dramatic reductions from 30 to 98 percent in nutrients, sediments, pesticides, and other pollutants in surface and groundwater after passing through a riparian forest buffer (Lowrance et al. 1984).",
+          "location": "Riparian forests",
+          "sub_component": null,
+          "citations": ["Lowrance et al. 1984"]
+        }
+      ],
+      "absence_note": "The document provides citations to ecological literature to support actions like riparian buffer establishment, but these are general principles and background science, not efficacy evaluations of specific implemented actions. There are no case studies, post-action evaluations, or demonstration project results tied to the plan's specific strategies. Score 1 (rationale provided, but no direct evidence of action efficacy).",
+      "projects": []
+    },
+    "adaptation_planning_frameworks": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "manage trees and forests to mitigate and adapt to global climate change.",
+          "location": "Table 13",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document references climate adaptation as a goal in a non-specific way (managing forests to 'mitigate and adapt to global climate change'), and mentions monitoring as a principle. No specific climate adaptation planning frameworks (RAD, RRT, CCVA, SBDA, structured decision making in a climate context) are named or applied. Score 1 (non-specific reference to climate adaptation planning)."
+    }
+  },
+  "coding_meta": {
+    "coder": "llm:claude-sonnet-4-6",
+    "model": "claude-sonnet-4-6",
+    "provider": "claude",
+    "codebook_version": "0.4",
+    "ingest": "text",
+    "design": "single",
+    "temperature": null,
+    "thinking": null,
+    "thinking_effort": null,
+    "coded_at": "2026-07-07T00:31:32Z",
+    "notes": {}
+  }
+}

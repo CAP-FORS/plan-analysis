@@ -1,0 +1,749 @@
+{
+  "document_meta": {
+    "title": "2022 Kansas State Wildlife Action Plan (SWAP)",
+    "year": 2022,
+    "jurisdiction": "Kansas",
+    "document_type": "SWAP",
+    "document_id": "KS_SWAP_2022",
+    "page_count": 194
+  },
+  "orientation": {
+    "summary": "This is the 2022 Kansas State Wildlife Action Plan (SWAP), a third-edition revision replacing the 2015 plan, produced by the Kansas Department of Wildlife and Parks. The document identifies 429 Species of Greatest Conservation Need (SGCN) and 13 priority habitats organized around three conservation regions (Shortgrass, Mixed-Grass, and Tallgrass Prairie) and spatially explicit Ecological Focus Areas (EFAs). Climate change is acknowledged as one of eight statewide conservation issues, and the plan references a NatureServe Climate Change Vulnerability Index (CCVI) assessment conducted on 83 SGCN, with results summarized in an appendix. The document's engagement with range shift science is largely through this CCVI assessment and a brief narrative section on climate change impacts; it does not perform new niche modeling, connectivity modeling, or climate projections itself, but incorporates prior vulnerability assessment results. Adaptation strategies discussed are broad and generic, referencing the National Fish, Wildlife, and Plants Climate Adaptation Strategy framework.",
+    "evidence_index": [
+      {
+        "text": "Climate changes are likely to influence species and ecosystems by altering fundamental interactions with other species and the physical environment, potentially creating a cascade of impacts throughout ecosystems (Staudinger, et al. 2012).",
+        "location": "Climate Change, Chapter 3 - Statewide Perspective",
+        "relevant_elements": ["1.1", "3.5", "3.7"]
+      },
+      {
+        "text": "Climate models predict changes in annual precipitation that vary geographically and temporally. The eastern half of the state could see increases in precipitation of up to 11 inches (28 cm) per year in the 2090-2099 timeframe. The west will likely see a drying climate in the short and long term, but there is a high level of disagreement between models.",
+        "location": "Climate Change, Chapter 3 - Statewide Perspective",
+        "relevant_elements": ["2.3", "1.1"]
+      },
+      {
+        "text": "Species are already being significantly impacted by climate change. Effects such as shifts in species distributions, changes in phenology of species, and de-coupling of co-evolved interactions have been documented.",
+        "location": "Climate Change, Chapter 3 - Statewide Perspective",
+        "relevant_elements": ["1.1", "3.6", "3.7", "C2"]
+      },
+      {
+        "text": "An increase of extreme events such as floods, droughts, heat waves, and severe storms are expected, which can alter species habitats by increasing wildfires, pests, diseases, and invasive species. Increasing temperatures may cause range shifts or contractions of flora and fauna.",
+        "location": "Climate Change, Chapter 3 - Statewide Perspective",
+        "relevant_elements": ["1.1", "3.5", "3.6", "3.7", "C2"]
+      },
+      {
+        "text": "Increasing temperatures may also change seasons and their associated physiological processes, shifting phenology of species. The temporal alignment of food availability and reproduction may be shifted.",
+        "location": "Climate Change, Chapter 3 - Statewide Perspective",
+        "relevant_elements": ["1.3", "3.7"]
+      },
+      {
+        "text": "Species that have limited mobility or are unable to migrate may become extirpated or even extinct.",
+        "location": "Climate Change, Chapter 3 - Statewide Perspective",
+        "relevant_elements": ["1.2", "1.3"]
+      },
+      {
+        "text": "Some species may benefit from a changing climate and could expand their range or increase in abundance, requiring a separate set of actions. In addition, the movement of species will create new communities of species for which there will be no previous examples and will require new management regimes.",
+        "location": "Climate Change, Chapter 3 - Statewide Perspective",
+        "relevant_elements": ["3.7", "C2"]
+      },
+      {
+        "text": "As part of the SWAP revision a climate change vulnerability assessment was conducted on several SGCN. The methods and results of that work are summarized in Appendix 6.",
+        "location": "Climate Change, Chapter 3 - Statewide Perspective",
+        "relevant_elements": ["2.1", "1.1"]
+      },
+      {
+        "text": "Vulnerability to climate change has three principle components; sensitivity (innate characteristics of a species or system, considers tolerance to changes temp, precip, fire etc), exposure (extrinsic factors, magnitude and rate of change species/system experiences), and adaptive capacity (ability to accommodate with climate change impacts with minimal disruption).",
+        "location": "NatureServe Climate Change Vulnerability Index (CCVI)",
+        "relevant_elements": ["1.1", "1.2"]
+      },
+      {
+        "text": "Climate change vulnerability assessments provide two essential contributions to adaptation planning. Specifically, they help in: identifying which species or systems are likely to be more strongly affected by projected changes; and understanding why these resources are likely to be vulnerable",
+        "location": "NatureServe Climate Change Vulnerability Index (CCVI)",
+        "relevant_elements": ["1.1", "2.1", "4.5"]
+      },
+      {
+        "text": "An assessment of the relative vulnerability, and the relative importance of factors contributing to that vulnerability was conducted for a number of the Species of Greatest Conservation Need (SGCN) using the NatureServe Climate Change Vulnerability Index (CCVI).",
+        "location": "NatureServe Climate Change Vulnerability Index (CCVI)",
+        "relevant_elements": ["2.1", "1.1"]
+      },
+      {
+        "text": "The Index uses a scoring system that integrates a species' predicted exposure to climate change within an assessment area and three sets of factors associated with climate change sensitivity, each supported by published studies: 1) indirect exposure to climate change, 2) species-specific factors (including dispersal ability, temperature and precipitation sensitivity, physical habitat specificity, interspecific interactions and genetic factors), and 3) documented response to climate change.",
+        "location": "NatureServe Climate Change Vulnerability Index (CCVI)",
+        "relevant_elements": ["1.1", "1.2", "1.3", "2.1"]
+      },
+      {
+        "text": "Assessments were completed for at least 30% of species in each taxonomic group, choosing species with a variation in geographic location and habitat uses. A total of 83 of the SWAP second edition 285 SGCN were assessed using the CCVI.",
+        "location": "Applying the CCVI to SGCN",
+        "relevant_elements": ["2.1", "1.1"]
+      },
+      {
+        "text": "The most common factors that influenced those fish species' vulnerability to climate change were; the distribution relative to barriers (anthropogenic and natural), impact of land use changes resulting from climate change mitigation, physiological hydrological niche, dependence on specific disturbance regime, and restriction to uncommon geological features.",
+        "location": "Applying the CCVI to SGCN",
+        "relevant_elements": ["1.3", "1.1"]
+      },
+      {
+        "text": "A species mobility or ability to disperse also can greatly influence its vulnerability to climate change.",
+        "location": "Applying the CCVI to SGCN",
+        "relevant_elements": ["1.2", "1.3"]
+      },
+      {
+        "text": "Possible adaptation approaches exists ranging from 1) building resistance to climate-related stressors 2) enhancing resilience in order to better change for accommodating change, and 3) anticipating and facilitating ecological transitions that reflect the changing environmental conditions.",
+        "location": "NatureServe Climate Change Vulnerability Index (CCVI)",
+        "relevant_elements": ["4.5", "4.2"]
+      },
+      {
+        "text": "Since it is difficult to make detailed recommendations given the uncertainties of; magnitude, rate, and nature of future climate change, uncertainties about how climate change will interact with other species/ecosystem stressors and the limited understanding of how species and ecosystems will respond to changes, the initial adaptation strategies listed here are fairly broad.",
+        "location": "Climate Change Adaptation Strategies",
+        "relevant_elements": ["4.2", "4.3", "4.5"]
+      },
+      {
+        "text": "1. Conserve habitat to support healthy fish, wildlife, and plant populations and ecosystem functions in a changing climate. 2. Manage species and habitats to protect ecosystem functions and provide sustainable cultural, subsistence, recreational, and commercial use in a changing climate.",
+        "location": "Table 1 (NFWP Climate Adaptation Strategy 2012)",
+        "relevant_elements": ["4.1", "4.2", "4.5"]
+      },
+      {
+        "text": "Terrestrial EFAs were designed using several data layers including large natural areas from the Crucial Habitat Assessment Tool (CHAT), landscape connectivity (also from the CHAT)",
+        "location": "Ecological Focus Areas - Identification of priority areas for conservation",
+        "relevant_elements": ["4.1", "1.4", "2.4"]
+      },
+      {
+        "text": "CHAT connectivity: The Landscape Integrity workgroup of the CHAT produced a West-wide dataset on Important Connectivity Zones which represents buffered landscape pathways connected to core habitats of Large Natural Areas. Landscape connectivity describes ease of movement for fish and wildlife based on species-specific habitat preferences and behavior.",
+        "location": "Ecological Focus Areas - Identification of priority areas for conservation",
+        "relevant_elements": ["1.4", "2.4", "4.1"]
+      },
+      {
+        "text": "Riparian corridors provide an important edge effect and allows for the connection of travel corridors between fragmented habitats.",
+        "location": "Riparian Corridor Complex, Chapter 4",
+        "relevant_elements": ["1.4"]
+      },
+      {
+        "text": "KDWP proposes to implement an interim review every five years. This interim review will provide a foundation for the next required ten-year comprehensive review and allow for a periodic review of the plan or its parts if needed in order to address emerging issues, new information on changes in abundance, distribution, population trends, listing status of species and habitat conditions.",
+        "location": "Plan Review and Revision",
+        "relevant_elements": ["4.3"]
+      },
+      {
+        "text": "Monitoring will also be used to determine when strategies have adequately addressed various issues. When conservation success is not what was anticipated, monitoring will allow plans to be updated and altered so new actions can be developed and implemented -the 'adaptive' part of adaptive management.",
+        "location": "Ecological Focus Areas - Identification of priority areas for conservation",
+        "relevant_elements": ["4.3"]
+      },
+      {
+        "text": "Climate change is also expected to provide additional challenges to pollinator populations, ranging from disruption of migratory paths of pollinators such as hummingbirds and bats, to decoupling of plant-pollinator interactions when plants and pollinators respond differently to climate cues.",
+        "location": "Kansas Wildlife Resources, Chapter 3",
+        "relevant_elements": ["3.7", "1.3"]
+      },
+      {
+        "text": "Many aquatic species will suffer due to reduced precipitation and increased temperatures in streams, rivers, and lakes. Altered flooding regimes will affect spawning and rearing habitat.",
+        "location": "Climate Change, Chapter 3 - Statewide Perspective",
+        "relevant_elements": ["3.5", "3.6"]
+      },
+      {
+        "text": "Statewide Conservation Issues…(7) climate change",
+        "location": "Executive Summary",
+        "relevant_elements": ["1.1"]
+      },
+      {
+        "text": "The vulnerable mussel species were influenced by the same factors as the fish, but their vulnerability to climate change was also influenced by their dependence on other species for propagule dispersal.",
+        "location": "Applying the CCVI to SGCN",
+        "relevant_elements": ["1.3"]
+      },
+      {
+        "text": "In general species most vulnerable to climate change are typically considered specialist. They are dependent on certain habitats, climate conditions, and interactions with other species.",
+        "location": "Applying the CCVI to SGCN",
+        "relevant_elements": ["1.2", "1.3"]
+      },
+      {
+        "text": "The functional boundaries of the Mixed Grass Prairie are at times inexact and can shift east or west depending on trends in precipitation and temperature.",
+        "location": "Chapter 5 - Central Mixed Grass Prairie Conservation Region",
+        "relevant_elements": ["C2", "3.5"]
+      },
+      {
+        "text": "Fragmentation can reduce the size of intact habitat below the threshold required by a species or negatively impact species ability to move between suitable habitats if adequate travel corridors are not present.",
+        "location": "Residential and commercial development, Chapter 3",
+        "relevant_elements": ["1.4"]
+      },
+      {
+        "text": "4. Support adaptive management in a changing climate through integrated observation and monitoring and use of decision support tools 5. Increase knowledge and information on impacts and responses of fish, wildlife, and plants to a changing climate",
+        "location": "Table 1 (NFWP Climate Adaptation Strategy 2012)",
+        "relevant_elements": ["4.3", "4.5"]
+      },
+      {
+        "text": "The diversity of flora and fauna in Kansas is declining due to a variety of stresses, including habitat loss, habitat degradation, habitat fragmentation, climate change, diseases, and competition and predation from invasive species.",
+        "location": "Overall, Statewide Issues, Chapter 3",
+        "relevant_elements": ["1.1", "3.5"]
+      },
+      {
+        "text": "Creating conservation partnerships with private landowners is a high priority in Kansas' wildlife action plan as 97% of Kansas land is privately-owned and more than 90% of the state's endangered species are found on private land.",
+        "location": "Mixed Grass Prairie Conservation Region Partners",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "KDWP developed the Private Landowner Incentive Program and subsequent Private Landowner Habitat Program to address these issues on private land for Species of Greatest Conservation Need.",
+        "location": "Mixed Grass Prairie Conservation Region Partners",
+        "relevant_elements": ["3.4"]
+      }
+    ]
+  },
+  "concepts": {
+    "climate_vulnerability": {
+      "evaluable": true,
+      "score": 3,
+      "evidence": [
+        {
+          "text": "Vulnerability to climate change has three principle components; sensitivity (innate characteristics of a species or system, considers tolerance to changes temp, precip, fire etc), exposure (extrinsic factors, magnitude and rate of change species/system experiences), and adaptive capacity (ability to accommodate with climate change impacts with minimal disruption).",
+          "location": "NatureServe Climate Change Vulnerability Index (CCVI)",
+          "sub_component": "exposure and adaptive capacity",
+          "citations": []
+        },
+        {
+          "text": "The Index uses a scoring system that integrates a species' predicted exposure to climate change within an assessment area and three sets of factors associated with climate change sensitivity, each supported by published studies: 1) indirect exposure to climate change, 2) species-specific factors (including dispersal ability, temperature and precipitation sensitivity, physical habitat specificity, interspecific interactions and genetic factors)",
+          "location": "NatureServe Climate Change Vulnerability Index (CCVI)",
+          "sub_component": "exposure",
+          "citations": []
+        },
+        {
+          "text": "In general species most vulnerable to climate change are typically considered specialist. They are dependent on certain habitats, climate conditions, and interactions with other species. A species mobility or ability to disperse also can greatly influence its vulnerability to climate change.",
+          "location": "Applying the CCVI to SGCN",
+          "sub_component": "adaptive capacity",
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "adaptive_capacity_specificity": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "species-specific factors (including dispersal ability, temperature and precipitation sensitivity, physical habitat specificity, interspecific interactions and genetic factors)",
+          "location": "NatureServe Climate Change Vulnerability Index (CCVI)",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "A species mobility or ability to disperse also can greatly influence its vulnerability to climate change.",
+          "location": "Applying the CCVI to SGCN",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "adaptive_capacity_components": {
+      "demography": {
+        "present": false,
+        "evidence": []
+      },
+      "distribution": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The most common factors that influenced those fish species' vulnerability to climate change were; the distribution relative to barriers (anthropogenic and natural), impact of land use changes resulting from climate change mitigation, physiological hydrological niche, dependence on specific disturbance regime, and restriction to uncommon geological features.",
+            "location": "Applying the CCVI to SGCN",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "movement": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "A species mobility or ability to disperse also can greatly influence its vulnerability to climate change.",
+            "location": "Applying the CCVI to SGCN",
+            "sub_component": null,
+            "citations": []
+          },
+          {
+            "text": "Species that have limited mobility or are unable to migrate may become extirpated or even extinct.",
+            "location": "Climate Change, Chapter 3 - Statewide Perspective",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "evolutionary_potential": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "species-specific factors (including dispersal ability, temperature and precipitation sensitivity, physical habitat specificity, interspecific interactions and genetic factors)",
+            "location": "NatureServe Climate Change Vulnerability Index (CCVI)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecological_dependencies": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The vulnerable mussel species were influenced by the same factors as the fish, but their vulnerability to climate change was also influenced by their dependence on other species for propagule dispersal.",
+            "location": "Applying the CCVI to SGCN",
+            "sub_component": null,
+            "citations": []
+          },
+          {
+            "text": "In general species most vulnerable to climate change are typically considered specialist. They are dependent on certain habitats, climate conditions, and interactions with other species.",
+            "location": "Applying the CCVI to SGCN",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "abiotic_niche": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The most common factors that influenced those fish species' vulnerability to climate change were; the distribution relative to barriers (anthropogenic and natural), impact of land use changes resulting from climate change mitigation, physiological hydrological niche, dependence on specific disturbance regime, and restriction to uncommon geological features.",
+            "location": "Applying the CCVI to SGCN",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "life_history": {
+        "present": false,
+        "evidence": []
+      }
+    },
+    "connectivity": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "CHAT connectivity: The Landscape Integrity workgroup of the CHAT produced a West-wide dataset on Important Connectivity Zones which represents buffered landscape pathways connected to core habitats of Large Natural Areas. Landscape connectivity describes ease of movement for fish and wildlife based on species-specific habitat preferences and behavior.",
+          "location": "Ecological Focus Areas - Identification of priority areas for conservation",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Fragmentation can reduce the size of intact habitat below the threshold required by a species or negatively impact species ability to move between suitable habitats if adequate travel corridors are not present.",
+          "location": "Residential and commercial development, Chapter 3",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "Connectivity is discussed through the CHAT connectivity layer and habitat fragmentation framing, but is not explicitly framed as supporting climate-driven range shifts. The connectivity discussion is general (movement between habitat patches, travel corridors) without a climate gradient or climate-shift motivation. Score 1 (generic) rather than 2 (climate-relevant)."
+    }
+  },
+  "tools": {
+    "vulnerability_models": {
+      "evaluable": true,
+      "score": 2,
+      "named_tools": ["NatureServe Climate Change Vulnerability Index", "CCVI"],
+      "evidence": [
+        {
+          "text": "An assessment of the relative vulnerability, and the relative importance of factors contributing to that vulnerability was conducted for a number of the Species of Greatest Conservation Need (SGCN) using the NatureServe Climate Change Vulnerability Index (CCVI).",
+          "location": "NatureServe Climate Change Vulnerability Index (CCVI)",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Assessments were completed for at least 30% of species in each taxonomic group, choosing species with a variation in geographic location and habitat uses. A total of 83 of the SWAP second edition 285 SGCN were assessed using the CCVI.",
+          "location": "Applying the CCVI to SGCN",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "niche_models": {
+      "evaluable": true,
+      "score": 0,
+      "named_tools": [],
+      "evidence": [],
+      "absence_note": "No species distribution models or niche models (MaxEnt, SDM, etc.) are referenced or applied in this document. The CCVI assessment uses range maps and natural history information but not SDMs."
+    },
+    "climate_models": {
+      "evaluable": true,
+      "score": 1,
+      "named_tools": [],
+      "evidence": [
+        {
+          "text": "Climate models predict changes in annual precipitation that vary geographically and temporally. The eastern half of the state could see increases in precipitation of up to 11 inches (28 cm) per year in the 2090-2099 timeframe. The west will likely see a drying climate in the short and long term, but there is a high level of disagreement between models.",
+          "location": "Climate Change, Chapter 3 - Statewide Perspective",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "Climate models are referenced generically (precipitation projections to 2090-2099 are cited) but no specific GCMs, downscaling products, or emission scenarios are named. Score 1 (referenced generally, not applied).",
+      "time_horizon_years": [2099],
+      "emission_scenarios": []
+    },
+    "connectivity_models": {
+      "evaluable": true,
+      "score": 2,
+      "named_tools": ["CHAT (Crucial Habitat Assessment Tool)"],
+      "evidence": [
+        {
+          "text": "Terrestrial EFAs were designed using several data layers including large natural areas from the Crucial Habitat Assessment Tool (CHAT), landscape connectivity (also from the CHAT)",
+          "location": "Ecological Focus Areas - Identification of priority areas for conservation",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "CHAT connectivity: The Landscape Integrity workgroup of the CHAT produced a West-wide dataset on Important Connectivity Zones which represents buffered landscape pathways connected to core habitats of Large Natural Areas. Landscape connectivity describes ease of movement for fish and wildlife based on species-specific habitat preferences and behavior.",
+          "location": "Ecological Focus Areas - Identification of priority areas for conservation",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "CHAT connectivity outputs (Important Connectivity Zones, landscape permeability layers) were used to delineate terrestrial EFAs, which shape the management decisions in the plan. This qualifies as applied per codebook §4 rule 2 (substantive incorporation of prior tool-based results into management decisions). The CHAT is not framed explicitly as a climate-connectivity tool, but its spatial outputs are directly used to identify conservation priority areas for the plan's focal subjects."
+    }
+  },
+  "context": {
+    "management_scale": {
+      "local": {
+        "present": false,
+        "evidence": []
+      },
+      "site": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Each EFA also includes one or more protected areas that can serve as demonstration sites for conservation actions.",
+            "location": "Ecological Focus Areas - Identification of priority areas for conservation",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "watershed": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Aquatic EFAs were based on The Nature Conservancy's priority streams and by the Special Aquatic Life Use (SALU) streams defined by the Kansas Department of Health and Environment, with some exclusions based on expert opinion. The selected streams were buffered by 100 m; 12-digit HUCs that intersect the buffers comprise the EFAs.",
+            "location": "Ecological Focus Areas - Identification of priority areas for conservation",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "city": {
+        "present": false,
+        "evidence": []
+      },
+      "county": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The Arikaree Breaks Ecological Focus Area is located in the northwestern half of Cheyenne County.",
+            "location": "Arikaree Breaks, Chapter 4",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "within_state_region": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The SWAP uses a hierarchical classification system which divided Kansas into three conservation regions: (1) Shortgrass Prairie, (2) Central Mixed-Grass Prairie, and (3) Eastern Tallgrass Prairie.",
+            "location": "Executive Summary",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "state": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "A set of statewide conservation actions that are somewhat general in nature have been designed to address issues that plague the entire state or are not associated with any particular priority area.",
+            "location": "Ecological Focus Areas - Identification of priority areas for conservation",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "multistate": {
+        "present": false,
+        "evidence": []
+      },
+      "national": {
+        "present": false,
+        "evidence": []
+      },
+      "transnational": {
+        "present": false,
+        "evidence": []
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Climate changes are likely to influence species and ecosystems by altering fundamental interactions with other species and the physical environment, potentially creating a cascade of impacts throughout ecosystems.",
+            "location": "Climate Change, Chapter 3 - Statewide Perspective",
+            "sub_component": null,
+            "citations": ["Staudinger, et al. 2012"]
+          }
+        ]
+      },
+      "ecoregion": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The ecoregions defined by the North American Bird Conservation Initiative (2000) and refined by the Playa Lakes Joint Venture were adopted as the planning framework for this plan.",
+            "location": "Habitats, Chapter 2 - Methods",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "province": {
+        "present": false,
+        "evidence": []
+      },
+      "section": {
+        "present": false,
+        "evidence": []
+      },
+      "subsection": {
+        "present": false,
+        "evidence": []
+      },
+      "lake": {
+        "present": false,
+        "evidence": []
+      },
+      "river": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Aquatic EFAs were based on The Nature Conservancy's priority streams and by the Special Aquatic Life Use (SALU) streams defined by the Kansas Department of Health and Environment",
+            "location": "Ecological Focus Areas - Identification of priority areas for conservation",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "district": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["Shortgrass Prairie Conservation Region", "Central Mixed-Grass Prairie Conservation Region", "Eastern Tallgrass Prairie Conservation Region", "Cheyenne County", "Ecological Focus Areas (EFAs)", "Flint Hills", "Central Flyway", "Kansas River Basin", "Arkansas River Basin"]
+    },
+    "biological_unit_score": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Species are already being significantly impacted by climate change. Effects such as shifts in species distributions, changes in phenology of species, and de-coupling of co-evolved interactions have been documented.",
+          "location": "Climate Change, Chapter 3 - Statewide Perspective",
+          "sub_component": "species",
+          "citations": []
+        },
+        {
+          "text": "Climate changes are likely to influence species and ecosystems by altering fundamental interactions with other species and the physical environment, potentially creating a cascade of impacts throughout ecosystems.",
+          "location": "Climate Change, Chapter 3 - Statewide Perspective",
+          "sub_component": "ecosystem",
+          "citations": ["Staudinger, et al. 2012"]
+        }
+      ],
+      "absence_note": {}
+    },
+    "biological_unit_components": {
+      "species": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Increasing temperatures may cause range shifts or contractions of flora and fauna. Species that have limited mobility or are unable to migrate may become extirpated or even extinct.",
+            "location": "Climate Change, Chapter 3 - Statewide Perspective",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "population": {
+        "present": false,
+        "evidence": []
+      },
+      "habitat": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Many species and habitats will be negatively affected by climate change and will require a special set of actions to ensure their survival.",
+            "location": "Climate Change, Chapter 3 - Statewide Perspective",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Climate changes are likely to influence species and ecosystems by altering fundamental interactions with other species and the physical environment, potentially creating a cascade of impacts throughout ecosystems.",
+            "location": "Climate Change, Chapter 3 - Statewide Perspective",
+            "sub_component": null,
+            "citations": ["Staudinger, et al. 2012"]
+          }
+        ]
+      },
+      "community": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "In addition, the movement of species will create new communities of species for which there will be no previous examples and will require new management regimes.",
+            "location": "Climate Change, Chapter 3 - Statewide Perspective",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "genotype_phenotype": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["SGCN (Species of Greatest Conservation Need)", "fish", "mussels", "Bobolink", "Topeka Shiner", "Arkansas Darter", "Lesser Prairie-Chicken", "Shortgrass Prairie", "Tallgrass Prairie", "Herbaceous Wetlands", "Riparian habitats"]
+    },
+    "partnerships_and_funding": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "KDWP continues to collaborate with our conservation partners in academia and other state/federal agencies. The feedback and assistance from these groups, their willingness to participate in all aspects of the plan revision, and overall support is outstanding.",
+          "location": "Executive Summary",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "New funding will be focused on the priorities identified in this plan.",
+          "location": "Executive Summary",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The plan mentions numerous partners (federal agencies, NGOs, universities, tribes) and State Wildlife Grants funding, but these partnerships and funding streams are not specifically described as addressing climate-driven range shifts. The climate adaptation strategies are broad and aspirational without identified dedicated funding or active partner commitments for range-shift actions specifically. Score 1 (some described but limited/aspirational for range-shift work)."
+    },
+    "climate_threat_habitat_degradation": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "An increase of extreme events such as floods, droughts, heat waves, and severe storms are expected, which can alter species habitats by increasing wildfires, pests, diseases, and invasive species.",
+          "location": "Climate Change, Chapter 3 - Statewide Perspective",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_threat_species_vital_rates": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Many aquatic species will suffer due to reduced precipitation and increased temperatures in streams, rivers, and lakes. Altered flooding regimes will affect spawning and rearing habitat.",
+          "location": "Climate Change, Chapter 3 - Statewide Perspective",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document references altered flooding affecting spawning and rearing, which represents climate-driven direct impact on reproduction (vital rates) for aquatic species. This meets the threshold for score 1."
+    },
+    "climate_threat_biotic_stressors": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Climate change is also expected to provide additional challenges to pollinator populations, ranging from disruption of migratory paths of pollinators such as hummingbirds and bats, to decoupling of plant-pollinator interactions when plants and pollinators respond differently to climate cues.",
+          "location": "Kansas Wildlife Resources, Chapter 3",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    }
+  },
+  "actions": {
+    "priority_habitat_identification": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "The Ecological Focus Areas (EFA) represent landscapes where conservation actions can be applied for maximum benefit to all Kansas wildlife. Each EFA includes a suite of SGCN and priority habitats and a unique set of conservation actions designed to address the specific resource concerns facing these species and habitats.",
+          "location": "Ecological Focus Areas - Identification of priority areas for conservation",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Terrestrial EFAs were designed using several data layers including large natural areas from the Crucial Habitat Assessment Tool (CHAT), landscape connectivity (also from the CHAT), portfolio sites",
+          "location": "Ecological Focus Areas - Identification of priority areas for conservation",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The EFAs are spatially explicit (maps are provided as Figures 3, 5, 6, 7, 8, 9, 10) and represent spatially delineated priority areas. However, the EFAs are primarily habitat-based conservation priority areas not explicitly framed around climate-driven range shifts. The plan does discuss climate change as one of the statewide issues addressed by these areas. Score 2 for spatial representation of priority habitats, though the climate-shift framing is partial."
+    },
+    "targeted_range_shift_actions": {
+      "evaluable": true,
+      "score": 0,
+      "evidence": [],
+      "absence_note": "The document's climate adaptation strategies are explicitly described as 'fairly broad' due to uncertainties. The NFWP strategy goals are listed (conserve habitat, manage species, enhance capacity) but no targeted actions specifically aimed at facilitating, preventing, or responding to species range shifts are identified. There is no assisted migration, climate corridor construction, or translocation framed around climate. Score 0."
+    },
+    "time_bound_and_monitoring": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "KDWP proposes to implement an interim review every five years. This interim review will provide a foundation for the next required ten-year comprehensive review and allow for a periodic review of the plan or its parts if needed in order to address emerging issues, new information on changes in abundance, distribution, population trends, listing status of species and habitat conditions.",
+          "location": "Plan Review and Revision",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The plan specifies a 5-year review cycle and 10-year revision, and references adaptive management principles and monitoring. However, individual conservation actions in the EFA sections do not have specific deadlines or milestones attached to them. The monitoring described is for tracking species status and plan progress generally, not action-level effectiveness monitoring tied to specific time-bound actions. Score 1 (plan-level timeline exists but no action-level deadlines or effectiveness monitoring)."
+    },
+    "evidence_of_efficacy": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "The plan also highlights past projects and success stories implemented through State Wildlife Grants since the initial plan was developed.",
+          "location": "Executive Summary",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Post-construction monitoring of the fish community in the Arkansas River adjacent to the fish passage has documented 27 species of the fish using the passageway. The upstream fish assemblage more resembled the downstream assemblage not long after competition of the passageway",
+          "location": "Success Story - Lincoln Street Dam - Fish Passage Construction",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document contains multiple success stories with monitoring results (fish passage monitoring, species recolonization data). These constitute limited to moderate evidence—they demonstrate efficacy of habitat connectivity actions (fish passage, invasive species removal) for specific species, but the evidence is largely specific to non-climate-driven habitat restoration rather than climate adaptation actions. The climate adaptation strategies themselves are presented with general ecological rationale but no case studies. Score 2 (limited evidence: success stories with monitoring data exist but are mostly for non-climate-specific actions; climate adaptation actions are unsupported by evidence).",
+      "projects": ["Lincoln Street Fishway (Arkansas River, Wichita, KS): Built on a low-gradient, sand-fed Great Plains river for small-bodied fish passage. Post-construction monitoring documented 27 species using the passageway and the upstream fish assemblage more resembled the downstream assemblage, providing evidence that fish passage structures can restore connectivity for SGCN in fragmented Kansas rivers.", "Arkansas Darter recovery (KDWP Stream Survey Program): 25 years of stream surveys combined with invasive red cedar removal in riparian areas resulted in increased stream flow and recolonization by Arkansas Darters, providing evidence that habitat restoration through invasive tree removal can restore aquatic species connectivity.", "Kansas River Connectivity (Topeka Weir fish passage): Partnering with City of Topeka to add fish passage to a water supply weir combined 86 and 35 mile river fragments into 121 connected river miles; provided evidence for the efficacy of fish passage in restoring habitat connectivity for pelagic spawning SGCN."]
+    },
+    "adaptation_planning_frameworks": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Possible adaptation approaches exists ranging from 1) building resistance to climate-related stressors 2) enhancing resilience in order to better change for accommodating change, and 3) anticipating and facilitating ecological transitions that reflect the changing environmental conditions.",
+          "location": "NatureServe Climate Change Vulnerability Index (CCVI)",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "1. Conserve habitat to support healthy fish, wildlife, and plant populations and ecosystem functions in a changing climate. 2. Manage species and habitats to protect ecosystem functions and provide sustainable cultural, subsistence, recreational, and commercial use in a changing climate. 3. Enhance capacity for effective management in a changing climate. 4. Support adaptive management in a changing climate through integrated observation and monitoring and use of decision support tools",
+          "location": "Table 1 (NFWP Climate Adaptation Strategy 2012)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document references a specific named framework (National Fish, Wildlife, and Plants Climate Adaptation Strategy 2012) with its seven goals listed, and also references the three-component vulnerability assessment framework (sensitivity, exposure, adaptive capacity) and the resist-accept-direct type language ('building resistance,' 'enhancing resilience,' 'facilitating ecological transitions'). These constitute specific climate adaptation planning frameworks referenced and incorporated into the plan. Score 2."
+    }
+  },
+  "coding_meta": {
+    "coder": "llm:claude-sonnet-4-6",
+    "model": "claude-sonnet-4-6",
+    "provider": "claude",
+    "codebook_version": "0.4",
+    "ingest": "text",
+    "design": "single",
+    "temperature": null,
+    "thinking": null,
+    "thinking_effort": null,
+    "coded_at": "2026-07-06T18:39:23Z",
+    "notes": {}
+  }
+}

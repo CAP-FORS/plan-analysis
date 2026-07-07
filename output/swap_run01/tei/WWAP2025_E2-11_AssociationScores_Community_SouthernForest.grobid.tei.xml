@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main"></title>
+				<funder ref="#_gUvpNyd">
+					<orgName type="full">unknown</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">63E245A3CCF4D36009BB5350A8CE9BD3</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.1" ident="GROBID" when="2026-07-06T16:20+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract/>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0" /><figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Crayfish, Amphipods, Sow Bugs (Malacostraca)</head><label></label><figDesc>Species of Greatest Conservation Need x Natural Community Association ScoresWisconsin Wildlife Action Plan 2025-2035</figDesc><table><row><cell>SGCN x Natural Community (Habitat) Association Scores High/major (3) -Moderate/important (2) -Low/present (1) SGCNs</cell><cell>Central Sands Pine -Oak Forest</cell><cell cols="2">Floodplain Forest Southern Forest Hemlock Relict Pine Relict Southern Dry Forest Southern Dry-mesic Forest Southern Hardwood Swamp Southern Mesic Forest</cell><cell>Southern Tamarack Swamp (rich</cell><cell>White Pine -Red Maple Swamp</cell></row><row><cell>Prairie Ring-necked Snake (Diadophis punctatus arnyi)</cell><cell></cell><cell>2 3</cell><cell>1</cell><cell></cell></row><row><cell>Gray Ratsnake (Pantherophis spiloides)</cell><cell></cell><cell>2 2 2 3</cell><cell>3</cell><cell></cell></row><row><cell>Gophersnake (Pituophis catenifer)</cell><cell>1</cell><cell>1 1 1</cell><cell>1</cell><cell></cell></row><row><cell>Butler's Gartersnake (Thamnophis butleri)</cell><cell></cell><cell>1</cell><cell></cell><cell>1</cell></row><row><cell>Western Ribbonsnake (Thamnophis proximus)</cell><cell></cell><cell>1</cell><cell></cell><cell>1</cell></row><row><cell>Plains Gartersnake (Thamnophis radix)</cell><cell></cell><cell>1</cell><cell>1</cell><cell></cell></row><row><cell>Eastern Ribbonsnake (Thamnophis saurita)</cell><cell></cell><cell cols="3">1 1 1 2</cell></row><row><cell>Timber Rattlesnake (Crotalus horridus)</cell><cell></cell><cell>1 3 3</cell><cell>3</cell><cell></cell></row><row><cell>Eastern Massasauga (Sistrurus catenatus)</cell><cell>2</cell><cell>1</cell><cell></cell><cell></cell><cell>2</cell></row><row><cell>I-Bees, Wasps, Ants (Hymenoptera)</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Rusty Patched Bumble Bee (Bombus affinis)</cell><cell>1</cell><cell>2 2</cell><cell>2</cell><cell></cell></row><row><cell>Indiscriminate Cuckoo Bumble Bee (Bombus insularis)</cell><cell></cell><cell>1</cell><cell></cell><cell></cell></row><row><cell>An Andrenid Bee (Andrena uvulariae)</cell><cell></cell><cell></cell><cell>1</cell><cell></cell></row><row><cell>I-Butterflies, Moths (Lepidoptera)</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Persius Dusky Wing (Erynnis persius)</cell><cell>1</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Frosted Elfin (Callophrys irus)</cell><cell>1</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Karner Blue (Lycaeides melissa samuelis)</cell><cell>1</cell><cell>1</cell><cell></cell><cell></cell></row><row><cell>Swamp Metalmark (Calephelis muticum)</cell><cell></cell><cell></cell><cell></cell><cell>1</cell></row><row><cell>I-Prairie Crayfish (Procambarus gracilis)</cell><cell></cell><cell></cell><cell></cell><cell>2</cell></row><row><cell>Digger Crayfish (Creaserinus fodiens)</cell><cell></cell><cell></cell><cell></cell><cell>2</cell></row><row><cell>I-Dragonflies, Damselflies (Odonata)</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Hine's Emerald (Somatochlora hineana)</cell><cell></cell><cell>1</cell><cell></cell><cell></cell></row><row><cell>Incurvate Emerald (Somatochlora incurvata)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>1</cell></row><row><cell>Spangled Skimmer (Libellula cyanea)</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>I-Snails (Gastropoda)</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Cherrystone Drop (Hendersonia occulta)</cell><cell></cell><cell>1 2</cell><cell>3</cell><cell></cell></row><row><cell>Wing Snaggletooth (Gastrocopta procera)</cell><cell></cell><cell>1 2</cell><cell></cell><cell></cell></row><row><cell>Dentate Supercoil (Paravitrea multidentata)</cell><cell></cell><cell></cell><cell>2</cell><cell></cell></row><row><cell>Black Striate (Striatura ferrea)</cell><cell></cell><cell></cell><cell>2</cell><cell></cell></row><row><cell>Dull Gloss (Zonitoides limatulus)</cell><cell></cell><cell></cell><cell>2</cell><cell></cell></row><row><cell>Callused Vertigo (Vertigo arthuri)</cell><cell></cell><cell>1 1</cell><cell>2</cell><cell></cell></row><row><cell>I-True Bugs (Hemiptera)</cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table></figure>
+		</body>
+		<back>
+
+			<div type="funding">
+<div><p>Four-toed Salamander (<rs type="programName">Hemidactylium scutatum) 1 3 3 2 2 Blanchard's Cricket Frog (Acris blanchardi) Pickerel Frog (Lithobates palustris) 1 1 1 1 1 Mink Frog (Lithobates septentrionalis) Birds Black-crowned Night-Heron (Nycticorax nycticorax) 2 American Goshawk (Accipiter atricapillus) 1 Long-eared Owl (Asio otus) 2 2 2 1 2 Eastern Whip-poor-will (Antrostomus vociferus) 3 2 2 1 Golden-winged Warbler (Vermivora chrysoptera) 1 Yellow-throated Warbler (Setophaga dominica) 3 2 2 Cerulean Warbler (Setophaga cerulea) 1 1 1 1 3 2 Worm-eating Warbler (Helmitheros vermivorum) 2 2 3 1 Kentucky Warbler (Geothlypis formosa</rs>) <rs type="grantName">SGCN x Natural Community (Habitat) Association Scores High/major (3) -Moderate/important (2) -Low/present</rs> (1)</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_gUvpNyd">
+					<orgName type="grant-name">SGCN x Natural Community (Habitat) Association Scores High/major (3) -Moderate/important (2) -Low/present</orgName>
+					<orgName type="program" subtype="full">Hemidactylium scutatum) 1 3 3 2 2 Blanchard&apos;s Cricket Frog (Acris blanchardi) Pickerel Frog (Lithobates palustris) 1 1 1 1 1 Mink Frog (Lithobates septentrionalis) Birds Black-crowned Night-Heron (Nycticorax nycticorax) 2 American Goshawk (Accipiter atricapillus) 1 Long-eared Owl (Asio otus) 2 2 2 1 2 Eastern Whip-poor-will (Antrostomus vociferus) 3 2 2 1 Golden-winged Warbler (Vermivora chrysoptera) 1 Yellow-throated Warbler (Setophaga dominica) 3 2 2 Cerulean Warbler (Setophaga cerulea) 1 1 1 1 3 2 Worm-eating Warbler (Helmitheros vermivorum) 2 2 3 1 Kentucky Warbler (Geothlypis formosa</orgName>
+				</org>
+			</listOrg>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0" />			</div>
+			<div type="references">
+
+				<listBibl/>
+			</div>
+		</back>
+	</text>
+</TEI>
+

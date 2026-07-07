@@ -1,0 +1,905 @@
+{
+  "document_meta": {
+    "title": "New York State Wildlife Action Plan (Draft)",
+    "year": 2025,
+    "jurisdiction": "New York State",
+    "document_type": "SWAP",
+    "document_id": "NY_SWAP_2025_draft",
+    "page_count": 331
+  },
+  "orientation": {
+    "summary": "This is the 2025 draft New York State Wildlife Action Plan (SWAP), a state-level biodiversity conservation planning document produced by the New York State Department of Environmental Conservation. The document identifies Species of Greatest Conservation Need (SGCN), assesses their habitats and threats, and recommends conservation actions for the next ten years. Climate change is treated as a significant cross-cutting threat throughout the plan, with a dedicated section discussing temperature, precipitation, sea level rise, and storm changes affecting SGCN and habitats. Range shifts are referenced implicitly through discussion of shifting vegetative communities, saltwater intrusion, and habitat alteration, but the document does not perform its own range-shift modeling or vulnerability analyses — it references external sources such as the National Audubon Society's climate assessments, IPCC reports, and a Northeast Climate Adaptation Science Center report. The plan is primarily a planning and coordination document, cataloguing threats, actions, and monitoring programs rather than conducting primary scientific analysis.",
+    "evidence_index": [
+      {
+        "text": "wildlife health is defined by a population's ability to withstand stressors and challenges, such as climate change, habitat loss, the emergence of disease-causing agents, and other environmental, climatic and anthropogenic threats.",
+        "location": "NY_SWAP_2025_draft_WildlifeHealth.pdf, WHAT IS WILDLIFE HEALTH?",
+        "relevant_elements": ["1.1", "1.2"]
+      },
+      {
+        "text": "climate change may alter the geographic distribution of certain pathogens, leading to exposure of naive wildlife populations to novel pathogens.",
+        "location": "NY_SWAP_2025_draft_WildlifeHealth.pdf, How do we measure wildlife health?",
+        "relevant_elements": ["1.1", "3.7"]
+      },
+      {
+        "text": "Factors that may influence the health of populations include: genetic diversity; population demographics; climate change and weather events; resource availability; habitat continuity/quality; exposure to toxicants, pathogens, or parasites; and other stressors.",
+        "location": "NY_SWAP_2025_draft_WildlifeHealth.pdf, How do we measure wildlife health?",
+        "relevant_elements": ["1.2", "1.3"]
+      },
+      {
+        "text": "Factors that may be reflective of the health of individuals and populations, and thus the resilience of a population, include: genetic diversity; immune function; reproductive fitness; population parameters; body condition; organ function; active infections; parasite loads; and causes of morbidity and mortality.",
+        "location": "NY_SWAP_2025_draft_WildlifeHealth.pdf, How do we measure wildlife health?",
+        "relevant_elements": ["1.2", "1.3"]
+      },
+      {
+        "text": "11. Climate Change-Threats from major changes in ecosystems and severe climatic/weather events outside of the natural range of variation that could harm species or habitats, including events that may not be related to climate change.",
+        "location": "NY_SWAP_2025_draft.pdf, Chapter 5: Threats to SGCN in New York",
+        "relevant_elements": ["1.1", "3.5", "3.6", "3.7"]
+      },
+      {
+        "text": "Impacts in this category were cited as a threat to HPSGCN 290 times and to SGCN 371 times. This threat category includes habitat shifting and alteration, changes in geochemical regimes, changes in temperature regimes, changes in precipitation and hydrological regimes, and storms and severe weather.",
+        "location": "NY_SWAP_2025_draft.pdf, Climate Change",
+        "relevant_elements": ["1.1", "3.5", "3.6", "3.7"]
+      },
+      {
+        "text": "Natural climatic changes can occur suddenly...the current rate of change is occurring more rapidly than many species are able to respond and adapt to.",
+        "location": "NY_SWAP_2025_draft.pdf, Climate Change",
+        "relevant_elements": ["1.1", "1.2"]
+      },
+      {
+        "text": "An increase or decrease in average air or water temperatures, changes to the timing and amount of precipitation events, increased salinity of coastal wetlands and tidal waters, increased unpredictability in the timing and severity of storms, and shifts in the composition of plant communities are some of the more frequently cited threats to SGCN in New York.",
+        "location": "NY_SWAP_2025_draft.pdf, Climate Change",
+        "relevant_elements": ["1.1", "3.5", "3.7"]
+      },
+      {
+        "text": "Primary impacts in New York include higher average temperatures and precipitation, more severe storms, more frequent and longer heat waves, decreased winter snowpack, and saltwater intrusion into freshwater habitats.",
+        "location": "NY_SWAP_2025_draft.pdf, Climate Change",
+        "relevant_elements": ["1.1", "3.5"]
+      },
+      {
+        "text": "Higher ocean levels will increase the frequency and severity of damaging storm surges and shoreline flooding, permanently inundate some low-lying coastal areas with saltwater, and dramatically accelerate coastal erosion, threatening the ecologically important salt marshes and estuaries of Long Island.",
+        "location": "NY_SWAP_2025_draft.pdf, Climate Change",
+        "relevant_elements": ["3.5"]
+      },
+      {
+        "text": "These environmental changes are already affecting New York, and impacts are projected to grow.",
+        "location": "NY_SWAP_2025_draft.pdf, Climate Change",
+        "relevant_elements": ["1.1"]
+      },
+      {
+        "text": "There are a variety of information sources, guidance documents, and decision tools available to natural resource managers to use when developing strategies and actions to adapt to rapidly changing environmental conditions. Some examples of general information and guidance can be found in the National Fish, Wildlife, and Plants Climate Adaptation Strategy (2021)",
+        "location": "NY_SWAP_2025_draft.pdf, Climate Change",
+        "relevant_elements": ["4.5"]
+      },
+      {
+        "text": "A Regional Synthesis of Climate Data to Inform the 2025 State Wildlife Action Plans in the Northeast US (Staudinger et al. 2024), developed by the Northeast Climate Adaptation Science Center and partners.",
+        "location": "NY_SWAP_2025_draft.pdf, Chapter 5 references block",
+        "relevant_elements": ["2.3", "4.5"]
+      },
+      {
+        "text": "State policies are based on the global scale report from the Intergovernmental Panel on Climate Change 6th Assessment Report (IPCC 2023) and state-level reports such as the Observed and Projected Climate Change in New York State: An Overview (NYSDEC 2021).",
+        "location": "NY_SWAP_2025_draft.pdf, Chapter 5 references block",
+        "relevant_elements": ["2.3"]
+      },
+      {
+        "text": "In 2014, the National Audubon Society released Audubon's Birds and Climate Change Report: A Primer for Practitioners (National Audubon Society 2015). This report was developed on a continental scale and lists bird species sensitive to fluctuating or changing environmental conditions, including temperature, precipitation, vegetation structure, and other human impacts, models suitability within and beyond a species' range, and prioritizes spatial areas likely to provide suitable habitats",
+        "location": "NY_SWAP_2025_draft.pdf, Chapter 5 references block",
+        "relevant_elements": ["1.1", "2.2"]
+      },
+      {
+        "text": "In 2019, the National Audubon Society released Survival by Degrees: 389 Bird Species on the Brink, an assessment of species at increasing risk of extinction from global temperature rise. The 2019 assessment identified 63 'high vulnerability species' in the Atlantic Flyway, including 23 bird SGCN in New York.",
+        "location": "NY_SWAP_2025_draft.pdf, Chapter 5 references block",
+        "relevant_elements": ["1.1", "2.1"]
+      },
+      {
+        "text": "The resulting droughts, floods, heat waves, altered habitat structure and other changes negatively impact many native species of wildlife and are happening now at a faster pace than ever previously documented.",
+        "location": "NY_SWAP_2025_draft.pdf, Climate Change",
+        "relevant_elements": ["3.5", "3.6"]
+      },
+      {
+        "text": "The Level 3 threats cited most often were 'droughts' (158 species) and 'gradual temperature change' (80 species).",
+        "location": "NY_SWAP_2025_draft.pdf, Climate Change",
+        "relevant_elements": ["3.5", "3.6"]
+      },
+      {
+        "text": "11.1. Habitat Shifting & Alteration -Major changes in habitat composition or location",
+        "location": "NY_SWAP_2025_draft.pdf, Chapter 5 threat classification table",
+        "relevant_elements": ["3.5", "3.7"]
+      },
+      {
+        "text": "11.3. Changes in Temperature Regimes-Periods in which temperatures of the air, water or soil either exceed or fall below the normal range of variation. Events that may or may not be related to climate change. 11.3.1 Heat waves 11.3.2 Extreme cold spells 11.3.3 Gradual temperature change",
+        "location": "NY_SWAP_2025_draft_AdditionalThreatsInfo.pdf, Climate Change section",
+        "relevant_elements": ["3.5", "3.6"]
+      },
+      {
+        "text": "11.1.1 Changes in vegetation communities: Major changes in an ecosystem resulting in changes to vegetation communities... E.g., migration of deciduous trees towards the boreal forest, rising sea levels, desertification, thawing permafrost (in tundra), coral bleaching.",
+        "location": "NY_SWAP_2025_draft_AdditionalThreatsInfo.pdf, Climate Change section",
+        "relevant_elements": ["3.5", "3.7"]
+      },
+      {
+        "text": "11.1.2 Phenological mismatch: Behaviors that have evolved to adapt to seasonal changes become unsynchronized due to irregularities or delays in the cycle of the seasons.",
+        "location": "NY_SWAP_2025_draft_AdditionalThreatsInfo.pdf, Climate Change section",
+        "relevant_elements": ["3.7"]
+      },
+      {
+        "text": "changes in the timing of plants' flowering relative to presence of pollinators on the landscape (e.g., plants flowering earlier or later than normal, or shifts in insect active periods that no longer align with normal flowering times)",
+        "location": "NY_SWAP_2025_draft.pdf, Chapter 3: Data Deficient Species",
+        "relevant_elements": ["3.7"]
+      },
+      {
+        "text": "The SWAP recommends actions to foster regional habitat connectivity, which could facilitate natural recolonization of New York by these extirpated large carnivores as conditions permit.",
+        "location": "NY_SWAP_2025_draft.pdf, EXTIRPATED LARGE CARNIVORES",
+        "relevant_elements": ["1.4", "4.2"]
+      },
+      {
+        "text": "Foster northeast regional habitat connectivity projects.",
+        "location": "NY_SWAP_2025_draft.pdf, Chapter 8 Lower New England/Northern Piedmont priority actions",
+        "relevant_elements": ["1.4", "4.1", "4.2"]
+      },
+      {
+        "text": "Action: Restore and maintain natural habitats in linkage areas between large blocks of habitat for SGCN. Measure: Number of acres of viable habitat in identified linkage areas",
+        "location": "NY_SWAP_2025_draft.pdf, Chapter 6 Conservation Actions",
+        "relevant_elements": ["1.4", "4.1", "4.2"]
+      },
+      {
+        "text": "Action: Foster northeast regional habitat connectivity projects for New York and regional SGCN. Measure: Identification of important habitat linkages between New York and neighboring states and provinces",
+        "location": "NY_SWAP_2025_draft.pdf, Chapter 6 Conservation Actions",
+        "relevant_elements": ["1.4", "4.2"]
+      },
+      {
+        "text": "Conservation Opportunity Areas (COAs) depicting locations of species tracked by the New York Natural Heritage Program were mapped. These areas are not wholly habitat-driven, though terrestrial and aquatic species were mapped separately and can be found in Appendix 6.",
+        "location": "NY_SWAP_2025_draft.pdf, Chapter 8. Implementation",
+        "relevant_elements": ["4.1"]
+      },
+      {
+        "text": "Priority conservation actions are listed below and organized by ecoregion (Figure 8-1), watershed (Figure 8-2) and marine mesohabitat.",
+        "location": "NY_SWAP_2025_draft.pdf, Chapter 8. Implementation",
+        "relevant_elements": ["4.1", "3.1"]
+      },
+      {
+        "text": "Natural habitat protection and restoration in priority habitats.",
+        "location": "NY_SWAP_2025_draft.pdf, Chapter 8 North Atlantic Coast priority actions",
+        "relevant_elements": ["4.1"]
+      },
+      {
+        "text": "Action: Identify specific locations or focus areas of key SGCN habitats that are a priority for protection and make this information available to conservation partners. Measure: Number of locations identified for habitat protection.",
+        "location": "NY_SWAP_2025_draft.pdf, Chapter 6 goal 1.1.1",
+        "relevant_elements": ["4.1"]
+      },
+      {
+        "text": "Action: Initiate a monitoring program for deep, cold Adirondack lakes that may serve as refuges for sensitive SGCN from the effects of changing temperatures. Measure: Number of lakes monitored",
+        "location": "NY_SWAP_2025_draft.pdf, Chapter 6/7 Conservation Actions",
+        "relevant_elements": ["4.1", "1.4"]
+      },
+      {
+        "text": "Continue developing strategies to adapt to increased sea water levels and saltwater intrusion.",
+        "location": "NY_SWAP_2025_draft.pdf, Chapter 8 Marine and Estuarine priority actions",
+        "relevant_elements": ["3.5", "4.5"]
+      },
+      {
+        "text": "Action: Continue policies to reduce greenhouse gas emission in New York by 40 percent by 2030 and 80 percent by 2050. Measure: Total carbon dioxide emissions in the New York Greenhouse Gas Inventory.",
+        "location": "NY_SWAP_2025_draft.pdf, Chapter 6 Conservation Actions",
+        "relevant_elements": ["4.5"]
+      },
+      {
+        "text": "Wildlife management and monitoring programs are also critical to addressing the direct and indirect impacts of changing climatic conditions such as rapidly fluctuating temperature and precipitation regimes and more frequent or extreme storm events... shifting vegetative communities, but they also have the potential to affect many other threats to SGCN as well as ecosystem responses to management actions.",
+        "location": "NY_SWAP_2025_draft.pdf, Chapter 9. Adaptively Managing SGCN and Habitats",
+        "relevant_elements": ["1.1", "3.5", "3.7", "4.3", "4.5"]
+      },
+      {
+        "text": "There are features of their life history that make them particularly vulnerable to threats.",
+        "location": "NY_SWAP_2025_draft.pdf, Chapter 3 Species of Greatest Conservation Need",
+        "relevant_elements": ["1.2", "1.3"]
+      },
+      {
+        "text": "The IEI considers up to 21 different landscape metrics, each measuring a different aspect of human impact (e.g., percent impervious, road traffic intensity) or resiliency (e.g., ecological connectedness).",
+        "location": "NY_SWAP_2025_draft.pdf, Chapter 4",
+        "relevant_elements": ["1.4", "2.4"]
+      },
+      {
+        "text": "Development reduces the quantity, quality and connectivity of habitat for SGCN...Negative effects of habitat fragmentation include loss of connectivity to patches of similar or complementary habitats, the creation of 'sink' habitats in which meta-population dynamics are lost in isolated patches",
+        "location": "NY_SWAP_2025_draft.pdf, Chapter 5 Frequency of Threats",
+        "relevant_elements": ["1.4"]
+      },
+      {
+        "text": "The RCN Program utilizes a funding mechanism equitable to all Northeast states and the District of Columbia, creating a base of funding for regional projects. A small percentage of each state's annual State Wildlife Grant allocation is used to address SGCN and RSGCN needs across multiple states.",
+        "location": "NY_SWAP_2025_draft.pdf, Chapter 1 Northeast Regional Conservation",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "In December 2022, New York enacted legislation to conserve 30% of state land and waters by 2030...Objectives include conserving lands prioritized in the Open Space Conservation Plan, and preserving biodiversity through habitat conservation and restoration, providing a means for wildlife migration.",
+        "location": "NY_SWAP_2025_draft.pdf, Chapter 1 Conservation Planning in New York",
+        "relevant_elements": ["3.4", "4.1"]
+      },
+      {
+        "text": "Effective conservation is a cycle of planning, implementing, and assessing, then revising plans based on implementation progress and current information. In updating the 2015 SWAP, the 2025 SWAP marks a full completion of this cycle.",
+        "location": "NY_SWAP_2025_draft.pdf, Chapter 9",
+        "relevant_elements": ["4.3", "4.5"]
+      },
+      {
+        "text": "Description of procedures to review the SWAP at intervals not to exceed ten years. The plans for updating the SWAP are in Chapter 9.",
+        "location": "NY_SWAP_2025_draft.pdf, Chapter 1 About this Document",
+        "relevant_elements": ["4.3"]
+      },
+      {
+        "text": "5.2.4. Action: Periodically survey for SGCN insects in suitable habitats. Measure: Surveys are conducted on at least a 10-year cycle.",
+        "location": "NY_SWAP_2025_draft.pdf, Chapter 6 Conservation Actions",
+        "relevant_elements": ["4.3"]
+      },
+      {
+        "text": "Geographic focus is based upon ecoregion for terrestrial species, watershed for freshwater aquatic species, and habitat type for marine/estuarine species.",
+        "location": "NY_SWAP_2025_draft.pdf, Chapter 1 intro",
+        "relevant_elements": ["3.1"]
+      },
+      {
+        "text": "Watershed-based plans have been developed for all major watersheds in the state, often including an interstate and international steering committee to coordinate conservation with neighboring jurisdictions.",
+        "location": "NY_SWAP_2025_draft.pdf, Chapter 1 Conservation Planning in New York",
+        "relevant_elements": ["3.1", "3.4"]
+      },
+      {
+        "text": "Gradual temperature change E.g., altered sex-ratio in species relying upon a temperature dependent sex determination, reduction of dissolved oxygen that is available to fish species, earlier ice-free dates, thawing of permafrost affecting bird breeding sites.",
+        "location": "NY_SWAP_2025_draft_AdditionalThreatsInfo.pdf, Climate Change section",
+        "relevant_elements": ["3.6"]
+      },
+      {
+        "text": "Audubon New York and partners can use the data tools developed by these projects to assess adaptation strategies in New York and evaluate priority areas for bird conservation in New York.",
+        "location": "NY_SWAP_2025_draft.pdf, Chapter 5 references block",
+        "relevant_elements": ["2.2", "4.5"]
+      },
+      {
+        "text": "the next major revision of the SWAP scheduled for 2035.",
+        "location": "NY_SWAP_2025_draft.pdf, Chapter 9",
+        "relevant_elements": ["4.3"]
+      },
+      {
+        "text": "Actions were evaluated to prioritize those that benefit the most SGCN, benefit high priority SGCN, and address the threats to species and habitats. Priority actions were characterized as either statewide or geographically focused.",
+        "location": "NY_SWAP_2025_draft.pdf, Chapter 1 intro",
+        "relevant_elements": ["4.1", "4.3"]
+      }
+    ]
+  },
+  "concepts": {
+    "climate_vulnerability": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Natural climatic changes can occur suddenly...the current rate of change is occurring more rapidly than many species are able to respond and adapt to.",
+          "location": "NY_SWAP_2025_draft.pdf, Climate Change",
+          "sub_component": "exposure",
+          "citations": []
+        },
+        {
+          "text": "Primary impacts in New York include higher average temperatures and precipitation, more severe storms, more frequent and longer heat waves, decreased winter snowpack, and saltwater intrusion into freshwater habitats.",
+          "location": "NY_SWAP_2025_draft.pdf, Climate Change",
+          "sub_component": "exposure",
+          "citations": []
+        },
+        {
+          "text": "There are features of their life history that make them particularly vulnerable to threats.",
+          "location": "NY_SWAP_2025_draft.pdf, Chapter 3 Species of Greatest Conservation Need",
+          "sub_component": "sensitivity",
+          "citations": []
+        }
+      ],
+      "absence_note": "The document discusses climate exposure extensively (temperature change, precipitation, sea level rise) and references vulnerability of species through life history traits and habitat specificity. However, it does not explicitly frame adaptive capacity as a dimension of vulnerability in an integrated vulnerability assessment sense — it discusses adaptation actions and resilience of populations (e.g., genetic diversity, habitat connectivity) but not in a structured exposure + adaptive capacity framework applied to focal SGCN. Score is 2 (exposure addressed, but adaptive capacity not explicitly integrated as a vulnerability component for SGCN). The Audubon 'Survival by Degrees' assessment is referenced as identifying high-vulnerability species, but this is an external reference not applied as a formal vulnerability assessment by the plan itself."
+    },
+    "adaptive_capacity_specificity": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Factors that may influence the health of populations include: genetic diversity; population demographics; climate change and weather events; resource availability; habitat continuity/quality; exposure to toxicants, pathogens, or parasites; and other stressors.",
+          "location": "NY_SWAP_2025_draft_WildlifeHealth.pdf, How do we measure wildlife health?",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "Adaptive capacity is referenced implicitly through mentions of resilience, genetic diversity, life history traits, and dispersal/connectivity, but not framed as a formal component of climate adaptive capacity in the technical sense. Score is 1."
+    },
+    "adaptive_capacity_components": {
+      "demography": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Factors that may be reflective of the health of individuals and populations, and thus the resilience of a population, include: genetic diversity; immune function; reproductive fitness; population parameters; body condition; organ function",
+            "location": "NY_SWAP_2025_draft_WildlifeHealth.pdf, How do we measure wildlife health?",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "distribution": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Protect SGCN populations to reverse declines in abundance or loss of range.",
+            "location": "NY_SWAP_2025_draft.pdf, Chapter 1 intro",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "movement": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The SWAP recommends actions to foster regional habitat connectivity, which could facilitate natural recolonization of New York by these extirpated large carnivores as conditions permit.",
+            "location": "NY_SWAP_2025_draft.pdf, EXTIRPATED LARGE CARNIVORES",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "evolutionary_potential": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Factors that may influence the health of populations include: genetic diversity; population demographics; climate change and weather events; resource availability; habitat continuity/quality",
+            "location": "NY_SWAP_2025_draft_WildlifeHealth.pdf, How do we measure wildlife health?",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecological_dependencies": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "changes in the timing of plants' flowering relative to presence of pollinators on the landscape (e.g., plants flowering earlier or later than normal, or shifts in insect active periods that no longer align with normal flowering times)",
+            "location": "NY_SWAP_2025_draft.pdf, Chapter 3: Data Deficient Species",
+            "sub_component": null,
+            "citations": ["NYSDEC and NYSAGM 2016"]
+          }
+        ]
+      },
+      "abiotic_niche": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "An increase or decrease in average air or water temperatures, changes to the timing and amount of precipitation events, increased salinity of coastal wetlands and tidal waters...are some of the more frequently cited threats to SGCN in New York.",
+            "location": "NY_SWAP_2025_draft.pdf, Climate Change",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "life_history": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "There are features of their life history that make them particularly vulnerable to threats.",
+            "location": "NY_SWAP_2025_draft.pdf, Chapter 3 Species of Greatest Conservation Need",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      }
+    },
+    "connectivity": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "The SWAP recommends actions to foster regional habitat connectivity, which could facilitate natural recolonization of New York by these extirpated large carnivores as conditions permit.",
+          "location": "NY_SWAP_2025_draft.pdf, EXTIRPATED LARGE CARNIVORES",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Action: Foster northeast regional habitat connectivity projects for New York and regional SGCN. Measure: Identification of important habitat linkages between New York and neighboring states and provinces",
+          "location": "NY_SWAP_2025_draft.pdf, Chapter 6 Conservation Actions",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Wildlife management and monitoring programs are also critical to addressing the direct and indirect impacts of changing climatic conditions...shifting vegetative communities, but they also have the potential to affect many other threats to SGCN as well as ecosystem responses to management actions.",
+          "location": "NY_SWAP_2025_draft.pdf, Chapter 9",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "Connectivity is explicitly discussed as a conservation action for facilitating range recolonization under climate change in the context of large carnivores, and 'northeast regional habitat connectivity projects' are recommended multiple times across ecoregions. Climate framing for connectivity is present — facilitating recolonization of extirpated species 'as conditions permit' under climate context, and the IEI includes 'ecological connectedness' as a resiliency metric. Score 2."
+    }
+  },
+  "tools": {
+    "vulnerability_models": {
+      "evaluable": true,
+      "score": 1,
+      "named_tools": ["Survival by Degrees"],
+      "evidence": [
+        {
+          "text": "In 2019, the National Audubon Society released Survival by Degrees: 389 Bird Species on the Brink, an assessment of species at increasing risk of extinction from global temperature rise. The 2019 assessment identified 63 'high vulnerability species' in the Atlantic Flyway, including 23 bird SGCN in New York.",
+          "location": "NY_SWAP_2025_draft.pdf, Chapter 5 references block",
+          "sub_component": null,
+          "citations": ["National Audubon Society 2015"]
+        }
+      ],
+      "absence_note": "The Audubon Survival by Degrees assessment is referenced and results (23 bird SGCN identified as high vulnerability) are noted for New York, which approaches application. However, the plan does not conduct its own vulnerability assessments, and no formal CCVI or NatureServe-style analysis is applied to the SGCN list. The reference to Audubon's results mentioning 23 NY bird SGCN is close to applied, but the plan does not substantively incorporate these results into management decisions for those species — they are mentioned in passing. Score 1."
+    },
+    "niche_models": {
+      "evaluable": true,
+      "score": 1,
+      "named_tools": [],
+      "evidence": [
+        {
+          "text": "models suitability within and beyond a species' range, and prioritizes spatial areas likely to provide suitable habitats and environmental parameters for particular bird species.",
+          "location": "NY_SWAP_2025_draft.pdf, Chapter 5 references block",
+          "sub_component": null,
+          "citations": ["National Audubon Society 2015"]
+        }
+      ],
+      "absence_note": "The Audubon Birds and Climate Change report is referenced as having modeled species suitability within and beyond range — this is niche modeling — but the plan does not apply SDMs to its own SGCN. The Macrogroup habitat maps are noted as modeled by NatureServe, but those are habitat distribution maps, not species niche/climate envelope models. Score 1."
+    },
+    "climate_models": {
+      "evaluable": true,
+      "score": 1,
+      "named_tools": ["IPCC AR6"],
+      "evidence": [
+        {
+          "text": "State policies are based on the global scale report from the Intergovernmental Panel on Climate Change 6th Assessment Report (IPCC 2023) and state-level reports such as the Observed and Projected Climate Change in New York State: An Overview (NYSDEC 2021).",
+          "location": "NY_SWAP_2025_draft.pdf, Chapter 5 references block",
+          "sub_component": null,
+          "citations": ["IPCC 2023", "NYSDEC 2021"]
+        }
+      ],
+      "absence_note": "Climate projections are referenced through IPCC AR6 and state-level reports, and specific projections are cited (e.g., 50% increase in precipitation, water levels risen more than a foot since 1900, Karmalkar et al. 2024). However, no specific GCM names, CMIP versions, or emission scenarios (RCPs/SSPs) are named in the plan narrative. The plan references projection data but does not apply named climate models to its focal SGCN in a systematic analysis. Score 1.",
+      "time_horizon_years": [2030, 2050],
+      "emission_scenarios": []
+    },
+    "connectivity_models": {
+      "evaluable": true,
+      "score": 0,
+      "named_tools": [],
+      "evidence": [],
+      "absence_note": "The plan discusses habitat connectivity extensively and references the IEI metric (which includes 'ecological connectedness'), and maps Conservation Opportunity Areas (COAs) in Appendix 6. However, no named connectivity modeling tools (e.g., CircuitScape, Linkage Mapper, least-cost path) are referenced, and the COA maps are based on species occurrence data rather than connectivity modeling outputs. Score 0."
+    }
+  },
+  "context": {
+    "management_scale": {
+      "local": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Action: Restrict recreational use of off-road vehicles in important SGCN habitats. Measure: Reduction or elimination of off-road vehicle use in target habitats",
+            "location": "NY_SWAP_2025_draft.pdf, Chapter 6 Conservation Actions",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "site": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Conservation actions identified as high priority were separated by habitat type (terrestrial, freshwater aquatic, and marine/estuarine), and further characterized as those which apply statewide, and those which are more applicable to a smaller geographic area.",
+            "location": "NY_SWAP_2025_draft.pdf, Chapter 8. Implementation",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "watershed": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Watershed-based plans have been developed for all major watersheds in the state, often including an interstate and international steering committee to coordinate conservation with neighboring jurisdictions.",
+            "location": "NY_SWAP_2025_draft.pdf, Chapter 1 Conservation Planning in New York",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "city": {
+        "present": false,
+        "evidence": []
+      },
+      "county": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "County and town governments in New York have used the SWAP in developing local conservation plans, and in planning for recreational use of their parks and open space. County Soil and Water Conservation Districts regularly work with DEC staff",
+            "location": "NY_SWAP_2025_draft.pdf, Chapter 8 Implementation",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "within_state_region": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Priority conservation actions are listed below and organized by ecoregion (Figure 8-1), watershed (Figure 8-2) and marine mesohabitat.",
+            "location": "NY_SWAP_2025_draft.pdf, Chapter 8. Implementation",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "state": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Geographic focus is based upon ecoregion for terrestrial species, watershed for freshwater aquatic species, and habitat type for marine/estuarine species.",
+            "location": "NY_SWAP_2025_draft.pdf, Chapter 1 intro",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "multistate": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Action: Foster northeast regional habitat connectivity projects for New York and regional SGCN. Measure: Identification of important habitat linkages between New York and neighboring states and provinces",
+            "location": "NY_SWAP_2025_draft.pdf, Chapter 6 Conservation Actions",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "national": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Nationally, government and non-profit groups such as the Atlantic Flyway Council, American Fisheries Society, and Partners in Amphibian and Reptile Conservation help coordinate conservation and management actions for many species across larger regions of the country.",
+            "location": "NY_SWAP_2025_draft.pdf, Chapter 1 National and International Context",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "transnational": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The SWAP is written as a document for biodiversity conservation within New York State but recognizes that many SGCN cross interstate and international boundaries, either as part of their natural range, annual migrations, or as victims of illegal trafficking of wildlife.",
+            "location": "NY_SWAP_2025_draft.pdf, Chapter 1 National and International Context",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "These environmental changes are already affecting New York, and impacts are projected to grow.",
+            "location": "NY_SWAP_2025_draft.pdf, Climate Change",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecoregion": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Priority conservation actions are listed below and organized by ecoregion (Figure 8-1), watershed (Figure 8-2) and marine mesohabitat.",
+            "location": "NY_SWAP_2025_draft.pdf, Chapter 8. Implementation",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "province": {
+        "present": false,
+        "evidence": []
+      },
+      "section": {
+        "present": false,
+        "evidence": []
+      },
+      "subsection": {
+        "present": false,
+        "evidence": []
+      },
+      "lake": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Action: Initiate a monitoring program for deep, cold Adirondack lakes that may serve as refuges for sensitive SGCN from the effects of changing temperatures. Measure: Number of lakes monitored",
+            "location": "NY_SWAP_2025_draft.pdf, Chapter 6/7 Conservation Actions",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "river": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Action: Restore natural hydrologic flow regime through barrier mitigation structures in waters critical to SGCN. Measure: Miles of natural stream flow reconnected in key SGCN habitats.",
+            "location": "NY_SWAP_2025_draft.pdf, Chapter 6 Conservation Actions",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "district": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["North Atlantic Coast ecoregion", "Lower New England/Northern Piedmont ecoregion", "High Allegheny Plateau ecoregion", "Western Allegheny Plateau ecoregion", "Great Lakes ecoregion", "St. Lawrence/Champlain Valley ecoregion", "Northern Appalachian/Boreal Forest ecoregion", "Hudson River watershed", "Delaware watershed", "Susquehanna watershed", "Allegheny watershed", "Lake Erie", "Lake Ontario", "Lake Champlain", "St. Lawrence River", "Atlantic Flyway"]
+    },
+    "biological_unit_score": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "An increase or decrease in average air or water temperatures, changes to the timing and amount of precipitation events, increased salinity of coastal wetlands and tidal waters...are some of the more frequently cited threats to SGCN in New York.",
+          "location": "NY_SWAP_2025_draft.pdf, Climate Change",
+          "sub_component": "species",
+          "citations": []
+        },
+        {
+          "text": "Habitat Shifting & Alteration -Major changes in habitat composition or location",
+          "location": "NY_SWAP_2025_draft.pdf, Chapter 5 threat classification table",
+          "sub_component": "habitat",
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "biological_unit_components": {
+      "species": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Impacts in this category were cited as a threat to HPSGCN 290 times and to SGCN 371 times. This threat category includes habitat shifting and alteration, changes in geochemical regimes, changes in temperature regimes, changes in precipitation and hydrological regimes, and storms and severe weather.",
+            "location": "NY_SWAP_2025_draft.pdf, Climate Change",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "population": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Protect SGCN populations to reverse declines in abundance or loss of range.",
+            "location": "NY_SWAP_2025_draft.pdf, Chapter 1 intro",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "habitat": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Higher ocean levels will increase the frequency and severity of damaging storm surges and shoreline flooding, permanently inundate some low-lying coastal areas with saltwater, and dramatically accelerate coastal erosion, threatening the ecologically important salt marshes and estuaries of Long Island.",
+            "location": "NY_SWAP_2025_draft.pdf, Climate Change",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "11.1. Habitat Shifting & Alteration -Major changes in habitat composition or location",
+            "location": "NY_SWAP_2025_draft.pdf, Chapter 5 threat classification table",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "community": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "shifts in the composition of plant communities are some of the more frequently cited threats to SGCN in New York.",
+            "location": "NY_SWAP_2025_draft.pdf, Climate Change",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "genotype_phenotype": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["SGCN (Species of Greatest Conservation Need)", "HPSGCN (High Priority SGCN)", "salt marshes", "estuaries of Long Island", "freshwater wetlands", "boreal forest", "pine barrens", "grasslands", "Adirondack lakes"]
+    },
+    "partnerships_and_funding": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "The RCN Program utilizes a funding mechanism equitable to all Northeast states and the District of Columbia, creating a base of funding for regional projects. A small percentage of each state's annual State Wildlife Grant allocation is used to address SGCN and RSGCN needs across multiple states. Since 2007, 59 different projects have been, or currently are, supported through this program.",
+          "location": "NY_SWAP_2025_draft.pdf, Chapter 1 Northeast Regional Conservation",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Maintaining a current SWAP is crucial for continued funding opportunities that support much of the wildlife conservation work that DEC engages in. Over the last ten years, DEC has implemented many SWG-funded projects to monitor, restore, manage and conserve SGCN and their habitats.",
+          "location": "NY_SWAP_2025_draft.pdf, Chapter 1 Introduction",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Implementation of the SWAP will involve several government agencies and conservation partners, as well as private individuals, and may be accomplished primarily through existing partnership agreements and inter-agency committees.",
+          "location": "NY_SWAP_2025_draft.pdf, Chapter 8. Implementation",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_threat_habitat_degradation": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Primary impacts in New York include higher average temperatures and precipitation, more severe storms, more frequent and longer heat waves, decreased winter snowpack, and saltwater intrusion into freshwater habitats.",
+          "location": "NY_SWAP_2025_draft.pdf, Climate Change",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Higher ocean levels will increase the frequency and severity of damaging storm surges and shoreline flooding, permanently inundate some low-lying coastal areas with saltwater, and dramatically accelerate coastal erosion, threatening the ecologically important salt marshes and estuaries of Long Island.",
+          "location": "NY_SWAP_2025_draft.pdf, Climate Change",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_threat_species_vital_rates": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Gradual temperature change E.g., altered sex-ratio in species relying upon a temperature dependent sex determination, reduction of dissolved oxygen that is available to fish species, earlier ice-free dates, thawing of permafrost affecting bird breeding sites.",
+          "location": "NY_SWAP_2025_draft_AdditionalThreatsInfo.pdf, Climate Change section",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document discusses climate-driven direct vital rate effects including altered sex ratios from temperature-dependent sex determination and reduced dissolved oxygen for fish, which qualify as direct vital rate impacts. The threat category 11.3.3 'Gradual temperature change' explicitly gives these as examples. Score 1."
+    },
+    "climate_threat_biotic_stressors": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "11.1.2 Phenological mismatch: Behaviors that have evolved to adapt to seasonal changes become unsynchronized due to irregularities or delays in the cycle of the seasons.",
+          "location": "NY_SWAP_2025_draft_AdditionalThreatsInfo.pdf, Climate Change section",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "changes in the timing of plants' flowering relative to presence of pollinators on the landscape (e.g., plants flowering earlier or later than normal, or shifts in insect active periods that no longer align with normal flowering times)",
+          "location": "NY_SWAP_2025_draft.pdf, Chapter 3: Data Deficient Species",
+          "sub_component": null,
+          "citations": ["NYSDEC and NYSAGM 2016"]
+        }
+      ],
+      "absence_note": {}
+    }
+  },
+  "actions": {
+    "priority_habitat_identification": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Conservation Opportunity Areas (COAs) depicting locations of species tracked by the New York Natural Heritage Program were mapped. These areas are not wholly habitat-driven, though terrestrial and aquatic species were mapped separately and can be found in Appendix 6.",
+          "location": "NY_SWAP_2025_draft.pdf, Chapter 8. Implementation",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Action: Identify specific locations or focus areas of key SGCN habitats that are a priority for protection and make this information available to conservation partners. Measure: Number of locations identified for habitat protection.",
+          "location": "NY_SWAP_2025_draft.pdf, Chapter 6 goal 1.1.1",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Action: Initiate a monitoring program for deep, cold Adirondack lakes that may serve as refuges for sensitive SGCN from the effects of changing temperatures. Measure: Number of lakes monitored",
+          "location": "NY_SWAP_2025_draft.pdf, Chapter 6/7 Conservation Actions",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The plan spatially maps Conservation Opportunity Areas in Appendix 6 and organizes priority conservation actions by ecoregion and watershed with maps (Figure 8-1, 8-2). Climate-relevant habitat prioritization includes identifying cold Adirondack lakes as climate refuges. Score 2."
+    },
+    "targeted_range_shift_actions": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "The SWAP recommends actions to foster regional habitat connectivity, which could facilitate natural recolonization of New York by these extirpated large carnivores as conditions permit.",
+          "location": "NY_SWAP_2025_draft.pdf, EXTIRPATED LARGE CARNIVORES",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Action: Restore and maintain natural habitats in linkage areas between large blocks of habitat for SGCN. Measure: Number of acres of viable habitat in identified linkage areas",
+          "location": "NY_SWAP_2025_draft.pdf, Chapter 6 Conservation Actions",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The plan explicitly recommends fostering regional habitat connectivity to facilitate natural recolonization under changing conditions — this is structural facilitation for range-shift-related movement. The climate framing is explicit ('conditions permit' after discussion of climate change and range shifts). Score 1."
+    },
+    "time_bound_and_monitoring": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Without the implementation of conservation actions over the next 10 years, they are likely to reach critically low population levels in New York.",
+          "location": "NY_SWAP_2025_draft.pdf, Chapter 3 High Priority SGCN",
+          "sub_component": "deadlines",
+          "citations": []
+        },
+        {
+          "text": "5.2.4. Action: Periodically survey for SGCN insects in suitable habitats. Measure: Surveys are conducted on at least a 10-year cycle.",
+          "location": "NY_SWAP_2025_draft.pdf, Chapter 6 Conservation Actions",
+          "sub_component": "deadlines",
+          "citations": []
+        },
+        {
+          "text": "Effective conservation is a cycle of planning, implementing, and assessing, then revising plans based on implementation progress and current information...the next major revision of the SWAP scheduled for 2035.",
+          "location": "NY_SWAP_2025_draft.pdf, Chapter 9",
+          "sub_component": "monitoring",
+          "citations": []
+        }
+      ],
+      "absence_note": "The plan includes a 10-year implementation timeframe for HPSGCN actions, specific survey cycle deadlines (10-year cycles for insects, fish), and effectiveness monitoring built into each action via 'Measure' fields. The SWAP revision cycle (2035) and chapter on adaptive management provide a plan-level monitoring framework. Effectiveness monitoring is operationalized at the action level through the 'Measure' field for each action. Score 2."
+    },
+    "evidence_of_efficacy": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Figure 9-1 shows the average number of male American woodcock detected during surveys between 2015-2024 at sites before and after management, as well as at control sites.",
+          "location": "NY_SWAP_2025_draft.pdf, Chapter 9 YOUNG FOREST INITIATIVE",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "The Young Forest Initiative was created within DEC's Division of Fish and Wildlife (DFW)...The program has increased habitat quantity and quality for many SGCN including American woodcock, eastern whip-poor-will, brown thrasher, and New England cottontail by integrating education, management, and monitoring.",
+          "location": "NY_SWAP_2025_draft.pdf, Chapter 9 YOUNG FOREST INITIATIVE",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The plan presents monitoring data from the Young Forest Initiative comparing before/after management at WMAs with controls — this is direct efficacy evidence for a prior implemented action. However, this is the only strong case study. Most other actions are presented without evidence of efficacy. Score 2 (limited evidence — one relevant case study, with broader reference to SWG-funded projects having been implemented).",
+      "projects": ["Young Forest Initiative (New York): DEC's Young Forest Initiative managed habitat on Wildlife Management Areas between 2015-2024, with monitoring data showing increased American woodcock detections at managed sites compared to unmanaged controls. This provides limited direct evidence that habitat management benefiting young-forest SGCN is effective, though the primary evidence is wildlife response data rather than a formally published study."]
+    },
+    "adaptation_planning_frameworks": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "There are a variety of information sources, guidance documents, and decision tools available to natural resource managers to use when developing strategies and actions to adapt to rapidly changing environmental conditions. Some examples of general information and guidance can be found in the National Fish, Wildlife, and Plants Climate Adaptation Strategy (2021)",
+          "location": "NY_SWAP_2025_draft.pdf, Climate Change",
+          "sub_component": null,
+          "citations": ["National Fish, Wildlife, and Plants Climate Adaptation Network (NFWPCAN). 2021."]
+        },
+        {
+          "text": "Wildlife management and monitoring programs are also critical to addressing the direct and indirect impacts of changing climatic conditions...Even previously successful management interventions may no longer work in the future. Successful integration of these changes into natural resource management will require learning from fluctuating systems and species distributions and being able to adapt as needed.",
+          "location": "NY_SWAP_2025_draft.pdf, Chapter 9",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The plan references the National Fish, Wildlife, and Plants Climate Adaptation Strategy (2021) as a general guidance document and mentions adaptive management as a principle in Chapter 9. However, no specific climate adaptation planning frameworks (RAD, RRT, CCVA, Structured Decision Making, adaptation menus) are named or applied. The reference to climate adaptation guidance is generic. Score 1."
+    }
+  },
+  "coding_meta": {
+    "coder": "llm:claude-sonnet-4-6",
+    "model": "claude-sonnet-4-6",
+    "provider": "claude",
+    "codebook_version": "0.4",
+    "ingest": "text",
+    "design": "single",
+    "temperature": null,
+    "thinking": null,
+    "thinking_effort": null,
+    "coded_at": "2026-07-06T18:39:24Z",
+    "notes": {}
+  }
+}

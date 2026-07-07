@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main"></title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">CC19A74EC15D05BD1B2A37E11B91BD8E</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.1" ident="GROBID" when="2026-07-06T16:20+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Amphibians</head><p>Four-toed Salamander (Hemidactylium scutatum) 2 2 Blanchard's Cricket Frog (Acris blanchardi) 3 3 3 3 3 3 2 2 Pickerel Frog (Lithobates palustris)</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>SGCN x Natural Community (Habitat) Association Scores</head><p>High/major (3) -Moderate/important (2) -Low/present (1)</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>SGCNs</head><p>Aquatic: Rivers/Streams/Springs</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>SGCN x Natural Community (Habitat) Association Scores</head><p>High/major (3) -Moderate/important (2) -Low/present (1)</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>SGCNs</head><p>Aquatic: Rivers/Streams/Springs</p><p>Longear Sunfish (Lepomis megalotis) 3 Crystal Darter (Crystallaria asprella) Bluntnose Darter (Etheostoma chlorosoma) Gilt Darter (Percina evides) 3 Mammals Little Brown Bat (Myotis lucifugus) </p><formula xml:id="formula_0">1 1 1 1 1 1 1 1 Northern Long-eared Bat (Myotis septentrionalis) 1 1 1 1 1 1 1 1 Silver-haired Bat (Lasionycteris noctivagans) 1 1 1 1 1 1 1 1 Tricolored Bat (Perimyotis subflavus) 1 1 1 1 1 1 1 1 Reptiles Wood Turtle (Glyptemys insculpta) 3 3 1 2</formula></div>		</body>
+		<back>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0" />			</div>
+			<div type="references">
+
+				<listBibl/>
+			</div>
+		</back>
+	</text>
+</TEI>
+

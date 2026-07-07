@@ -1,0 +1,813 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">South Dakota Forest Action Plan 2020 Revision</title>
+				<funder ref="#_tZMm4AN">
+					<orgName type="full">unknown</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2020-12">December 2020</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Dakota</forename><surname>South</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">South Dakota Department of Agriculture Resource Conservation &amp; Forestry Division</orgName>
+								<orgName type="laboratory">Wildland Fire Division Director</orgName>
+								<orgName type="institution">Resource Conservation &amp; Forestry Division Director Gregory J. Josten</orgName>
+								<address>
+									<addrLine>3305 West South Street 523 East Capitol Avenue Rapid City South Dakota State Forester Jay Esperance</addrLine>
+									<postCode>57702-8160 57501-3182</postCode>
+									<settlement>Pierre</settlement>
+									<region>SD SD</region>
+									<country>Chief</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Marcus</forename><surname>Warnke</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">South Dakota Department of Agriculture Resource Conservation &amp; Forestry Division</orgName>
+								<orgName type="laboratory">Wildland Fire Division Director</orgName>
+								<orgName type="institution">Resource Conservation &amp; Forestry Division Director Gregory J. Josten</orgName>
+								<address>
+									<addrLine>3305 West South Street 523 East Capitol Avenue Rapid City South Dakota State Forester Jay Esperance</addrLine>
+									<postCode>57702-8160 57501-3182</postCode>
+									<settlement>Pierre</settlement>
+									<region>SD SD</region>
+									<country>Chief</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Anne</forename><surname>Juette</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">South Dakota Department of Agriculture Resource Conservation &amp; Forestry Division</orgName>
+								<orgName type="laboratory">Wildland Fire Division Director</orgName>
+								<orgName type="institution">Resource Conservation &amp; Forestry Division Director Gregory J. Josten</orgName>
+								<address>
+									<addrLine>3305 West South Street 523 East Capitol Avenue Rapid City South Dakota State Forester Jay Esperance</addrLine>
+									<postCode>57702-8160 57501-3182</postCode>
+									<settlement>Pierre</settlement>
+									<region>SD SD</region>
+									<country>Chief</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">William</forename><forename type="middle">K</forename><surname>Smith</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">South Dakota Department of Agriculture Resource Conservation &amp; Forestry Division</orgName>
+								<orgName type="laboratory">Wildland Fire Division Director</orgName>
+								<orgName type="institution">Resource Conservation &amp; Forestry Division Director Gregory J. Josten</orgName>
+								<address>
+									<addrLine>3305 West South Street 523 East Capitol Avenue Rapid City South Dakota State Forester Jay Esperance</addrLine>
+									<postCode>57702-8160 57501-3182</postCode>
+									<settlement>Pierre</settlement>
+									<region>SD SD</region>
+									<country>Chief</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">South Dakota Forest Action Plan 2020 Revision</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published" when="2020-12">December 2020</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">01E67E7499110F7B57E6F1E9C1D8C07E</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.1" ident="GROBID" when="2026-07-06T21:41+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>This is the second edition of the South Dakota Forest Action Plan (FAP). It is intended to be a guide to the scope and condition of South Dakota's forests across all ownerships. The plan will provide 10-year direction to the South Dakota Department of Agriculture, Division of Resource Conservation and Forestry (RCF) as it works to conserve, protect, improve, and develop the natural resources of South Dakota for its citizens.</p><p>The FAP also satisfies the requirements for a statewide assessment of forest resource conditions and statewide forest resource strategies as defined in the Cooperative Forestry Assistance Act of 1978 (16 U.S.C. 2101a(a)) as a condition for qualifying for US Forest Service (USFS) State and Private Forestry Program funding.</p><p>The FAP is divided into sections which reflect federal requirements. Section I is the assessment of forest resources. Section II identifies priority areas where we will focus our work. The priority areas were last updated in 2017 and are designed to be updated as needed. Section III is the Assessment of Need for the USFS Forest Legacy Program. Section IV includes the goals, objectives and strategies that will guide RCF activities for the next 10 years.</p><p>Like the 2010 South Dakota Statewide Assessment of Forest Resources, this assessment stratifies the state's forests by type: coniferous, bottomland hardwood, upland hardwood, windbreaks, and community forests. Attributes such as extent, location, species composition, age and size class distribution, ownership, and threats are discussed.</p><p>The most significant threat facing South Dakota's forests is emerald ash borer (EAB). Ash is one of the few trees species that is native to the whole state. It is also one of the most common trees in the state making up a third of the tree canopy in communities, 40 percent of windbreak species, 22 percent of non-forest woodlands, and is the fifth most common tree in our state's forest lands. The native ash has no resistance to EAB. The insect is expected to kill all the ash trees in the state.</p><p>The two most significant threats to conifer forests are catastrophic wildfire and mountain pine beetle (MPB). The forest recently experienced a twenty-year MPB epidemic  that affected 450,000 acres of Black Hills ponderosa pine killing millions of trees. Another epidemic isn't expected for another 15 to 20 years. However, preparation for the next epidemic through forest management must begin now. The potential for catastrophic fire and insect epidemics is exacerbated by too many trees. At this writing, there is a backlog of over 200,000 acres of overstocked pine forest in need of non-commercial thinning. Overstocking suppresses tree growth, increases fuel hazard, and limits forb and grass production.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Section 0 iii is to develop a viable market to utilize small diameter trees and logging residues which could significantly reduce or eliminate the cost of thinning.</p><p>Fragmentation of private forest lands continues to create challenges to forest management by expanding the Wildland Urban Interface (WUI) and increasing the number of owners needed to organize effective management activities. More owners and ownerships increase the amount of time and cost to implement projects at scale. Past surveys have shown the windbreak resource in the state is aging, with 61 to 71 percent in need of renovation. Up to 40 percent of the species composition in aging windbreaks is green ash. In 2020, the trees outside of forests image-based inventory (TOFii) project was completed. This project mapped every windbreak and narrow wooded strip in the state. At this writing, we are waiting for analysis of the data by the USFS Northern Research Station. The data, coupled with on-the-ground sampling, will give us a better understanding of windbreak condition across the state, will elevate windbreak renovation as a natural resource concern, help us compete for funds to complete windbreak renovation, and help us with identifying and mapping wooded riparian areas.</p><p>EAB is the biggest threat to face community forests since Dutch elm disease decimated American elm trees across the state in the latter half of the 20 th century. All communities will be faced with significant financial burdens as they remove the ash trees from along their streets and parks. There is a heightened interest in the insect, its damage, and community tree resources since EAB was found in Sioux Falls in 2018. RCF will continue to offer street tree inventories or ash tree identification, planning assistance, quarantines, biocontrol, and education to help communities deal with the problem.</p><p>There is a lack of natural regeneration in our upland and bottomland forests, in part due to invasive species. Buckthorn, Eastern redcedar, Rocky Mountain juniper, and Russian olive are taking over the understory of many native forest lands and preventing regeneration of desirable tree species. There is also an ash component to these forests that will be lost to EAB. There were no changes made to the Forest Legacy Program Assessment of Need. South Dakota state agencies do not have the authority to hold conservation easements, so the only opportunities for this program in the state are fee simple purchases. RCF cannot own land so Forest Legacy tracts are purchased in partnership with South Dakota Department of Game Fish and Parks (GFP). Applications to obtain grant funds for two new properties are currently in development.</p><p>Along with challenges come opportunities. The strategies developed in this plan are broad in scope to address the many challenges facing our state's forests and trees outside of forests. Over the plan's 10-year life it is important that we have strategies developed to address threats when opportunities arise. The response of Section 0 iv RCF will often be dictated by the severity of the threat and the availability of funding to address the threat.</p><p>Partnerships will be important to successfully implementing this FAP. RCF is a small agency which does not own forest land. Consequently, all the work we do is accomplished through partnerships with other federal, state, tribal, and local government agencies, non-governmental organizations, private businesses, and private landowners. The success of this FAP will depend, in large part, on our ability to work with traditional partners and cultivate new partnerships as we work to protect, improve, and develop South Dakota's forest resources. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Section v</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>TABLE OF CONTENTS</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>5.7</head><p>Adult Emerald Ash Borer (United States Department of Agriculture)</p><p>Section II: Priority Area Determination Example of "Weighting Alternative 2: Forest Threats""All Included Data" results without the mask applied to the Black Hills</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>3.5.3</head><p>Example of "Weighting Alternative 2: Forest Threats" results with mask applied to the Black Hills</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>3.5.4</head><p>Black Hills &amp; Hogbacks Mask.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>3.5.5</head><p>Modified "Riparian Emphasis" Alternative.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>3.5.6</head><p>"Riparian Emphasis" model results with application of Black Hills mask</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>3.5.7</head><p>"Riparian Emphasis Model" Priority area map with Black Hills added as a High Priority area</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>3.5.8</head><p>High priority areas displayed with 12 digit HUC boundaries.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>3.5.9</head><p>12 Digit HUC watersheds containing at least 50 percent priority area are designated as high priority watersheds 3.5.10 Reclassified raster containing high, medium, and low priority designation</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>4.0.1</head><p>Final map displaying high, medium, and low priority areas in South Dakota.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>4.0.2</head><p>Final map displaying high, medium, and low priority areas with Forest Legacy Areas in South Dakota.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>5.1.1</head><p>Karst Topography in Green (Iowa Forest Action Plan, p. 224, 2010)</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>5.1.2</head><p>The Little Minnesota River Watershed (Wikipedia, 2017)</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>5.2.1</head><p>Level III Ecoregions of the Midwest Glacial Lakes Partnership Area (Omerick, 1987).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>5.3.1</head><p>Sioux Ranger District of the Custer Gallatin National Forest (Fire Management Plan for the Gallatin, 2016)   Section V: Appendices </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Section IV: Resource Strategy</head></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>0. 1 Falls</head><label>1</label><figDesc>List of Acronyms ................................................................................. x 0.2 List of Figures .................................................................................... xi Section I: Forest Resource Assessment ................................................. xi Section II: Priority Area Determination ....................................................... xiii Section IV: Resource Strategy .............................................................. xiv Section V: Appendices .......................................................................... xiv 0.3 List of Tables ..................................................................................... xv Section I: Forest Resource Assessment ................................................. xv Section II: Priority Area Determination ................................................. xv Section IV: Resource Strategy ............................................................... xv Section V: Appendices .......................................................................... xvi SECTION I: FOREST RESOURCE ASSESSMENT INTRODUCTION: ......................................................................................... 1.0 CONIFEROUS FOREST .......................................................................... 1.1 DEFINITION ....................................................................................... 1.2 EXTENT AND CONDITION ..................................................................... 1.3 VALUES ........................................................................................... 1.4 THREATS ......................................................................................... Mountain Pine Beetle ............................................................................ Pine Engraver Beetle ............................................................................ Coniferous Tree Diseases ...................................................................... Noxious Weeds .................................................................................... Forest Fire .......................................................................................... 1.5 OWNERSHIP ..................................................................................... 1.6 NEEDS, PROBLEMS, AND OPPORTUNITIES ............................................ Data .................................................................................................. Fragmentation ..................................................................................... Forest Management .............................................................................. Encroachment ..................................................................................... Market Development ............................................................................ Prescribed Fire .................................................................................... Research ............................................................................................ Park in Sioux Falls, South Dakota (South Dakota Department of Tourism, 2016).</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head></head><label></label><figDesc>Figure Page 3.5.1 "Weighting Alternative 2: Forest Threats" 3.5.2Example of "Weighting Alternative 2: Forest Threats""All Included Data" results without the mask applied to the Black Hills</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Section II: Priority Area Determination</head><label></label><figDesc></figDesc><table><row><cell cols="2">South Dakota Forest Action Plan South Dakota Forest Action Plan</cell><cell cols="2">Section 0 Section 0</cell></row><row><cell cols="3">*Section III, completed in 2009, does not have figures listed consistent with the updated documents. 0.3 LIST OF TABLES</cell></row><row><cell></cell><cell>Section I: Forest Resource Assessment</cell><cell></cell></row><row><cell>Table</cell><cell>Section IV: Resource Strategy</cell><cell></cell><cell>Page</cell></row><row><cell>Figure 1.1</cell><cell>Coniferous Forest Vegetation Systems in SD (LANDFIRE, 2012)</cell><cell></cell><cell>Page 5</cell></row><row><cell>1 1.2</cell><cell>Map of the priority areas for the South Dakota Forest Action Plan Area of Coniferous Forest Type by Tree Age Class (Acres) (U.S.</cell><cell></cell><cell>3 7</cell></row><row><cell>2 3 1.3 4 1.4 5</cell><cell>Program color key for strategies within each goals table. Department of Agriculture FIA, [2018a]) A processor cuts hole trees into log length in the Black Hills. Community Wildfire Protection Plan Vegetative Treatment Recommendations (SDDA, 2016) A shelterbelt in Davison County, SD. (SDDA, 2018) Coniferous Forest ownership by Forest-Type, in Acres (U.S. Fireline on the Cold Brook fire through a managed forest in the Department of Agriculture FIA, [2018a])</cell><cell></cell><cell>4 21 8 13 18</cell></row><row><cell></cell><cell>Black Hills. (SDDA, 2018)</cell><cell></cell></row><row><cell>6</cell><cell cols="2">Stand of green ash infested with emerald ash borer in Sioux Falls,</cell><cell>23</cell></row><row><cell></cell><cell>SD. (SDDA, 2018)</cell><cell></cell></row><row><cell>7</cell><cell>Box Elder Creek near Nemo, SD. (SDDA, 2019)</cell><cell></cell><cell>31</cell></row><row><cell>8</cell><cell>Sunset over the Missouri River near Pierre, SD. (SDDA, 2018)</cell><cell></cell><cell>34</cell></row><row><cell>9</cell><cell>Log deck of ponderosa pine at a sawmill in the Black Hills, SD.</cell><cell></cell><cell>36</cell></row><row><cell></cell><cell>(SDDA, 2019)</cell><cell></cell></row><row><cell>10</cell><cell>Pronghorn antelope in Custer State Park. (SDDA, 2019)</cell><cell></cell><cell>42</cell></row><row><cell>11 3.3</cell><cell cols="2">Arbor Day tree planting in Spearfish, SD. (SDDA, 2019) Area of Bottomland Forest Ownership, by Acres (U.S. Department</cell><cell>45 48</cell></row><row><cell></cell><cell>of Agriculture FIA, [2018a])</cell><cell></cell></row><row><cell>4.1</cell><cell>Conservation tree and Shrub Plantings in South Dakota (NRCS</cell><cell></cell><cell>51</cell></row><row><cell></cell><cell>2019)</cell><cell></cell></row><row><cell></cell><cell>Section V: Appendices</cell><cell></cell></row><row><cell>Figure</cell><cell></cell><cell></cell><cell>Page</cell></row><row><cell>A-1</cell><cell>Figure A-1. Graph Showing acres burned by county by ignition</cell><cell></cell><cell>A2</cell></row><row><cell></cell><cell>cause from 2001-2016</cell><cell></cell></row><row><cell>A-2</cell><cell cols="2">Figure A-2. Graph Showing number of fires by county by ignition</cell><cell>A2</cell></row><row><cell></cell><cell>cause from 2001-2016</cell><cell></cell></row><row><cell>A-3</cell><cell>Figure A-3. Graph showing acres burned by year since 1990 in</cell><cell></cell><cell>A3</cell></row><row><cell></cell><cell>South Dakota</cell><cell></cell></row><row><cell>5.4.1 C-2.1 C-2.2 5.5.1 C-2.3</cell><cell cols="2">Incorporated Municipalities Nebraska's Missouri River Priority Forest Landscape (Nebraska Incorporated Municipalities and Developing Areas Map Forest Action Plan, p. 86, 2015) Priority Areas for North Dakota (North Dakota Forest Action Plan, p. Incorporated Municipalities Risk Ratings.</cell><cell>C4 C5 C6</cell></row><row><cell>C-2.4</cell><cell cols="2">53, 2010) Classification of Municipalities as Managing, Developing, or None.</cell><cell>C8</cell></row><row><cell>5.6.1 C-2.5</cell><cell cols="2">GIS Analysis and Assessment of Wyoming's State Forest Resources South Dakota Tree City USA Communities</cell><cell>C9</cell></row><row><cell></cell><cell>and Priority Landscapes (Wyoming Forest Action Plan, 2019)</cell><cell></cell></row><row><cell>6.1</cell><cell>Map of stewardship priority areas related to all lands eligible for</cell><cell></cell></row><row><cell></cell><cell>stewardship. (SDDA, 2017)</cell><cell></cell></row><row><cell></cell><cell>xiv xv</cell><cell></cell></row></table></figure>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>ACKNOWLEDGEMENTS</head><p>The <rs type="institution">South Dakota Department of Agriculture</rs> thanks the <rs type="institution">Resource Conservation &amp; Forestry Division and Wildland Fire Division</rs> staff who reviewed and contributed to this report including <rs type="person">Anthony Seidl</rs>, <rs type="person">Bailey Kaskie</rs>, <rs type="person">Bill Smith</rs>, <rs type="person">Brian Garbisch</rs>, <rs type="person">Brian Scott</rs>, <rs type="person">Doug Haugan</rs>, <rs type="person">Greg Josten</rs>, <rs type="person">John Parks Brigman</rs>, <rs type="person">Logan Brown</rs>, <rs type="person">Marcia Tubbs</rs>, <rs type="person">Nathan Kafer</rs>, <rs type="person">Nicole Prince</rs>, <rs type="person">Patricia Weyrich</rs>, <rs type="person">Rachel Ormseth</rs>, and others.</p></div>
+			</div>
+			<div type="funding">
+<div><head>SECTION III: FOREST LEGACY ASSESSMENT OF NEED</head><p>Introduction <rs type="grantNumber">............................................................................................... STATEMENT OF PURPOSE ............................................................................. SECTION 1: STATE OF South Dakota BACKGROUND INFORMATION ..................... Cultural Heritage ...................................................................................... South Dakota Forest Action Plan Section viii Demographics .......................................................................................... Land Ownership and Use............................................................................ Native American Tribes and Reservations ................................................... Geography and Soils ............................................................................... Climate ................................................................................................. Rivers and Water Resources ..................................................................... Agriculture ............................................................................................ Recreation and Aesthetics ........................................................................ Forest Composition and Resources ............................................................ SECTION 2: FOREST LEGACY AREA ASSESSMENT METHODOLOGY .................. Step 1: Spatial Analysis ........................................................................... Step 2: Public Participation ...................................................................... www.southdakotaforestlegacy.org .......................................................... Step 3: Statistical Analysis ...................................................................... Step 4: Forest Stewardship Committee Evaluation ...................................... Conclusion ............................................................................................. SECTION 3: FLA DESCRIPTIONS .................................................................. Harding Forest Legacy Area ...................................................................... Black Hills Forest Legacy Area .................................................................. Pine Ridge/Rosebud Forest Legacy Area ..................................................... Red River Forest Legacy Area ................................................................... Lake Plain Forest Legacy Area ................................................................... Big Sioux Forest Legacy Area .................................................................... Lower Missouri Forest Legacy Area ............................................................ SECTION 4: FOREST LEGACY PROGRAM SELECTION CRITERIA ........................ SECTION 5: FOREST LAND CONSERVATION AND LAND TRUSTS ....................... Literature Cited ........................................................................................</rs>.</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_tZMm4AN">
+					<idno type="grant-number">............................................................................................... STATEMENT OF PURPOSE ............................................................................. SECTION 1: STATE OF South Dakota BACKGROUND INFORMATION ..................... Cultural Heritage ...................................................................................... South Dakota Forest Action Plan Section viii Demographics .......................................................................................... Land Ownership and Use............................................................................ Native American Tribes and Reservations ................................................... Geography and Soils ............................................................................... Climate ................................................................................................. Rivers and Water Resources ..................................................................... Agriculture ............................................................................................ Recreation and Aesthetics ........................................................................ Forest Composition and Resources ............................................................ SECTION 2: FOREST LEGACY AREA ASSESSMENT METHODOLOGY .................. Step 1: Spatial Analysis ........................................................................... Step 2: Public Participation ...................................................................... www.southdakotaforestlegacy.org .......................................................... Step 3: Statistical Analysis ...................................................................... Step 4: Forest Stewardship Committee Evaluation ...................................... Conclusion ............................................................................................. SECTION 3: FLA DESCRIPTIONS .................................................................. Harding Forest Legacy Area ...................................................................... Black Hills Forest Legacy Area .................................................................. Pine Ridge/Rosebud Forest Legacy Area ..................................................... Red River Forest Legacy Area ................................................................... Lake Plain Forest Legacy Area ................................................................... Big Sioux Forest Legacy Area .................................................................... Lower Missouri Forest Legacy Area ............................................................ SECTION 4: FOREST LEGACY PROGRAM SELECTION CRITERIA ........................ SECTION 5: FOREST LAND CONSERVATION AND LAND TRUSTS ....................... Literature Cited ........................................................................................</idno>
+				</org>
+			</listOrg>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>SECTION IV: FOREST RESOURCE STRATEGY</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>SECTION V: APPENDICES</head></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration">0 UPLAND HARDWOOD FOREST ...............................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration">1 DEFINITION ....................................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration">2 EXTENT AND CONDITION ..................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration">3 VALUES ..........................................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration">4 THREATS ........................................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration">5 OWNERSHIP ....................................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration">6 NEEDS, PROBLEMS, AND OPPORTUNITIES ...........................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration">Data .................................................................................................. Research ............................................................................................ Education and Outreach ........................................................................ Fragmentation ....................................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration">Grazing .............................................................................................. Market Development ...........................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration">0 BOTTOMLAND FOREST .........................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration">1 DEFINITION ....................................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration">2 EXTENT AND CONDITION ..................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration">3 VALUES ..........................................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration">4 THREATS ......................................................................................... Water Flow Alterations .........................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration">Invasive Species .................................................................................. Livestock Grazing ................................................................................. Insects and Diseases ...........................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration">5 OWNERSHIP ....................................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration">6 NEEDS, PROBLEMS, AND OPPORTUNITIES ...........................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration">0 WINDBREAKS AND WOODED STRIPS .....................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration">1 DEFINITION ....................................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration">2 EXTENT AND CONDITION ..................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration">3 VALUES ..........................................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration">4 THREATS ......................................................................................... Maintenance ....................................................................................... Insect and Disease ..............................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration">5 OWNERSHIP ....................................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration">6 NEEDS, PROBLEMS, AND OPPORTUNITIES ...........................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration">0 URBAN AND COMMUNITY FORESTRY ......................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration">1 DEFINITION ....................................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration">2 EXTENT AND CONDITION ................................................................... Community Tree Inventories .................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration">3 VALUES ..........................................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration">4 THREATS ......................................................................................... Emerald Ash Borer ............................................................................... Severe Weather ..................................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration">Land Use Change ................................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration">5 OWNERSHIP ....................................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration">6 NEEDS, PROBLEMS, AND OPPORTUNITIES ...........................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<monogr>
+		<title level="m" type="main">SECTION II: PRIORITY AREA DETERMINATION</title>
+		<author>
+			<orgName type="collaboration">0 LITERATURE CITED .............................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration">0 Introduction .........................................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration">0 Public Input .........................................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration">0 Priority Area Determination Methodology ..................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration">1 NATIONAL THEME-CONSERVING RURAL FORESTS ....................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration">2 NATIONAL THEME-ENHANCING PUBLIC BENEFITS FROM TREES AND FORESTS ...............................................................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration">3 NATIONAL THEME-PROTECTING FORESTS FROM HARM ...........................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration">Data Sets Considered but Not Used ........................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration">Weighting Alternatives .........................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration">0 South Dakota Forest Priority Areas ........................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration">1 Priority Area Percentages .....................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration">Multi-State Priorities and Opportunities ...................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration">0 Stewardship Priority Areas ....................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration">0 Conclusion .........................................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration">0 Literature Cited ..................................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<monogr>
+		<title level="m">Bur Oak Forest Type Age Class by Total Acres (U.S. Department of Agriculture FIA</title>
+		<imprint>
+			<date type="published" when="2018">2018a]</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<monogr>
+		<title level="m">Aspen Forest Type Age Class by Total Acres (U.S. Department of Agriculture FIA</title>
+		<imprint>
+			<date type="published" when="2018">2018a]</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<monogr>
+		<title level="m" type="main">Hackberry-Elm-Green Ash Forest Type Age Class by Total Acres</title>
+		<imprint>
+			<date type="published" when="2018">2018a]</date>
+		</imprint>
+		<respStmt>
+			<orgName>U.S. Department of Agriculture FIA</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<monogr>
+		<title level="m">Aspen Stand in the Black Hills (SD Department of Agriculture, 2011) 2.8 Upland Hardwood Forest in Good Earth State Park</title>
+		<imprint>
+			<publisher>SD Department of Agriculture</publisher>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<monogr>
+		<title level="m" type="main">Bottomland Hardwood Forest in Sica Hollow State Park (SDDA, 2016) 3.2 Distributions of Bottomland Hardwood Forests in SD (Landfire 2012) 3.3 Area of Cottonwoods by Age Class</title>
+		<imprint>
+			<date type="published" when="2018">2018a]</date>
+		</imprint>
+		<respStmt>
+			<orgName>U.S. Department of Agriculture FIA</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<monogr>
+		<title level="m">Bottomland Hardwood Forest Type</title>
+		<imprint>
+			<publisher>SDDA</publisher>
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b53">
+	<monogr>
+		<title level="m" type="main">Bottomland Hardwood Forest in Good Earth State Park</title>
+		<imprint>
+			<date type="published" when="2017">2017</date>
+			<publisher>SDDA</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b54">
+	<monogr>
+		<title level="m" type="main">1 Windbreaks protecting houses, buildings, gardens, and fields</title>
+		<imprint>
+			<date type="published" when="2016">2016</date>
+			<publisher>National Agroforestry Center</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b55">
+	<monogr>
+		<title level="m" type="main">2 Primary function of tree sites</title>
+		<imprint>
+			<date type="published" when="2015">Sowers, 2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b56">
+	<monogr>
+		<title level="m" type="main">3 Windbreak for wildlife habitat</title>
+		<imprint>
+			<date type="published" when="2017">2017</date>
+			<publisher>SDDA</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b57">
+	<analytic>
+		<title level="a" type="main">Living snow fence in Hanson County</title>
+	</analytic>
+	<monogr>
+		<title level="j">SD</title>
+		<imprint>
+			<date type="published" when="2017">2017</date>
+			<publisher>SDDA</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b58">
+	<monogr>
+		<title level="m" type="main">Crabapple with cedar apple rust fungus</title>
+		<imprint>
+			<date type="published" when="2017">2017</date>
+			<publisher>Dr. John Ball</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b59">
+	<monogr>
+		<title level="m" type="main">View of the South Dakota Capitol from Capitol Lake</title>
+		<imprint>
+			<date type="published" when="2016">2016</date>
+			<publisher>South Dakota Department of Tourism</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b60">
+	<monogr>
+		<title level="m" type="main">Upland Hardwood Forest Vegetation Systems in SD</title>
+		<imprint>
+			<date type="published" when="2012">2012</date>
+			<publisher>LANDFIRE</publisher>
+			<biblScope unit="page">29</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b61">
+	<monogr>
+		<title level="m">2 Area of Upland Hardwood Forest by Age Class, in Acres (U.S. Department of Agriculture FIA</title>
+		<imprint>
+			<date type="published" when="2018">2018a]</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b62">
+	<monogr>
+		<title level="m" type="main">Area of Upland Hardwood Ownership</title>
+		<imprint>
+			<date type="published" when="2018">2018a]</date>
+		</imprint>
+		<respStmt>
+			<orgName>U.S. Department of Agriculture FIA</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b63">
+	<monogr>
+		<title level="m" type="main">Bottomland Forest Vegetation Systems in SD</title>
+		<imprint>
+			<date type="published" when="2012">2012</date>
+			<publisher>LANDFIRE</publisher>
+			<biblScope unit="page">43</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b64">
+	<monogr>
+		<title level="m">2 Area of Bottomland Forest by Age Class, in Acres (U.S. Department of Agriculture FIA</title>
+		<imprint>
+			<date type="published" when="2018">2018a]</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>
+

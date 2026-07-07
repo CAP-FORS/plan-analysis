@@ -1,0 +1,749 @@
+{
+  "document_meta": {
+    "title": "Tennessee Forest Action Plan 2020",
+    "year": 2020,
+    "jurisdiction": "Tennessee",
+    "document_type": "Forest Action Plan",
+    "document_id": "TN_FAP_2020",
+    "page_count": 140
+  },
+  "orientation": {
+    "summary": "This is the 2020 Tennessee Forest Action Plan (FAP), a state-level forest management planning document produced by the Tennessee Department of Agriculture Division of Forestry (TDF) in partnership with The Nature Conservancy (TNC). The document addresses forest health, market diversification, landscape connectivity, and wildfire resilience across Tennessee's four administrative districts. Climate change is acknowledged as a significant threat throughout the document — primarily in terms of its effects on insect and disease outbreaks, wildfire frequency and intensity, precipitation patterns, and forest composition — but is addressed indirectly as one of many stressors rather than as the central organizing frame. Range shifts are touched on in a limited but meaningful way: the document references TNC's Resilient and Connected Network (incorporating climate corridors and pollen/fire records documenting species movement over time in response to climate) and notes that climate-driven shifts in invasive plant species and the movement of both migratory and non-migratory species are expected. The document primarily references analyses performed by others (TNC's resilient lands mapping, USFS FIA data, USGS Forests to Faucets, National Insect and Disease Risk Map) rather than performing original climate modeling or species distribution modeling.",
+    "evidence_index": [
+      {
+        "text": "This Forest Action Plan builds on years of foundational work by the State of Tennessee to ensure that our vital forest resources are sustainably managed and to address the challenges that can impact our forests, such as a growing population, shifting markets, and climate change.",
+        "location": "Introduction (opening paragraph)",
+        "relevant_elements": ["1.1", "3.5"]
+      },
+      {
+        "text": "Managing for resilient lands also requires considering key connected climate corridors and flow zones where the movement of plant and animal species is likely to become concentrated.",
+        "location": "Forest Resiliency",
+        "relevant_elements": ["1.4", "4.2", "1.3"]
+      },
+      {
+        "text": "Pollen and fire records have informed the Resilient and Connected Network Climate Corridors work that maps movement of species populations over time in response to climate and vulnerable ecosystems.",
+        "location": "Forest Resiliency",
+        "relevant_elements": ["1.1", "1.4", "2.4", "4.1"]
+      },
+      {
+        "text": "The impacts of climate change on Tennessee are expected to manifest as prolonged, intense rain events followed by severe drying periods, with increases in the range of extreme conditions over the next ten years. These dynamic wet and dry weather events will continue to cause a shift in invasive plant species within Tennessee's forests and may also lead to unpredictable disturbances, such as increased wildfire occurrence and intensity.",
+        "location": "Forest Resiliency",
+        "relevant_elements": ["1.1", "3.5", "3.7"]
+      },
+      {
+        "text": "Lastly, shifts in climate will lead to altered ecological processes within the region because of an increase in non-native insect and disease activity and the movement of both migratory and non-migratory species.",
+        "location": "Forest Resiliency",
+        "relevant_elements": ["3.6", "3.7", "1.3"]
+      },
+      {
+        "text": "Climate change is expected to increase the extent and frequency in outbreaks of both native and nonnative forest insects and disease pathogens across the southeastern United States (McNulty et al. 2013). Not only does climate change affect the viability and spread of insects and pathogens directly-for instance, by allowing greater winter survival of pests and pathogens-but it also can increase the susceptibility of host trees to outbreaks due to drought stress and other factors (Dale et al. 2001).",
+        "location": "Enhancing Forest Health and Resiliency",
+        "relevant_elements": ["3.6", "3.7", "1.1"]
+      },
+      {
+        "text": "Higher average temperatures are expected to enhance winter survival and exacerbate outbreaks of both southern pine beetle and hemlock woolly adelgid, as well as contribute to their expansion northward (Gan 2004, Paradis et al. 2008).",
+        "location": "Enhancing Forest Health and Resiliency",
+        "relevant_elements": ["3.6", "3.7"]
+      },
+      {
+        "text": "Forest resiliency is also being threatened by climate change. Climate change is projected to contribute to significant changes in the composition of associated plant species in both forest and grassland systems across Tennessee due to direct changes in suitable climate conditions (e.g., increasing temperatures and changes in precipitation patterns) and indirect changes (e.g., altered disturbance regimes such as wildfire and insect outbreaks).",
+        "location": "Forest Resiliency",
+        "relevant_elements": ["1.1", "3.5", "3.7"]
+      },
+      {
+        "text": "Higher temperatures due to climate change are expected to contribute to an increase in the frequency and intensity of wildfires across the Southeast, including an increase in the total area burned and longer fire seasons.",
+        "location": "Forest Resiliency",
+        "relevant_elements": ["3.5", "3.6"]
+      },
+      {
+        "text": "For more information on the impacts of the changing climactic conditions on our forests see the 2015 Climate Change Vulnerability Assessment for Tennessee Wildlife and Habitats (Glick, et. al, 2015).",
+        "location": "Forest Resiliency",
+        "relevant_elements": ["1.1", "2.1"]
+      },
+      {
+        "text": "Land managers and conservation planners are under increasing pressure to improve adaptive capacity for a changing climate. The Nature Conservancy (TNC) developed the Resilient and Connected Prioritized Network to delineate secured and unsecured areas critical to forests and wildlife. An area is assumed to have higher resilience (i.e., to be more adaptive to climate change) if it contains micro-climates and micro-sites (e.g., a range of topographical features and elevation).",
+        "location": "USFS Carbon Stock Estimates",
+        "relevant_elements": ["1.1", "1.2", "1.4", "4.1"]
+      },
+      {
+        "text": "TNC's land and water conservation vision is to conserve a network of resilient sites and connecting corridors that will sustain North America's natural diversity by allowing species to adapt to land use change, lack of appropriate levels of disturbance and climate impacts, and thrive.",
+        "location": "Forest Resiliency (TNC resilient land mapping tool table)",
+        "relevant_elements": ["1.4", "4.1", "4.2"]
+      },
+      {
+        "text": "The Tennessee FAP utilizes the Resilient and Connected Prioritized Network to prioritize programmatic priorities. The percent of total forested area contained in the Prioritized Network is highest in eastern Tennessee and declines as agriculture becomes more prevalent in western Tennessee.",
+        "location": "USFS Carbon Stock Estimates",
+        "relevant_elements": ["4.1", "2.4"]
+      },
+      {
+        "text": "One of the largest TNC land deals in the Eastern U.S., Cumberland Forest employed private impact investment capital and sought to demonstrate how sustainable forestry and forest carbon storage practices may yield a financial return on investments while conserving part of the country's most critical climate change adaptation corridors.",
+        "location": "Maintaining and Improving Connected Landscapes (Cumberland Forest Project)",
+        "relevant_elements": ["1.4", "4.2"]
+      },
+      {
+        "text": "Collaborate with conservation organizations and agencies to encourage alignment and synchronization of strategic plans and use of science-based forest connectivity models (e.g., TNC's Resilient Land Mapping Tool).",
+        "location": "Goals and Strategies (Maintaining and Improving Connected Landscapes)",
+        "relevant_elements": ["2.4", "1.4"]
+      },
+      {
+        "text": "Coupled with the threat that climate change brings to the South (more frequent periods of heavy precipitation and prolonged periods of drought), the projected increase in impervious surfaces underscores the importance and necessity of protecting urban forests.",
+        "location": "Maintaining and Improving Connected Landscapes",
+        "relevant_elements": ["3.5"]
+      },
+      {
+        "text": "Climate models and recent data demonstrate that Tennessee will continue to experience increased rain events (frequency and intensity), causing floods and thus a greater impact on people residing in flood plains.",
+        "location": "Enhancing Forest Health and Resiliency (SUCCESS STORY section)",
+        "relevant_elements": ["2.3", "3.5"]
+      },
+      {
+        "text": "Additionally, changing climates are prolonging fire seasons and subsequent periods of elevated fire danger.",
+        "location": "Goal and Strategies (Strengthening Wildfire Resilient Communities)",
+        "relevant_elements": ["3.5", "3.6"]
+      },
+      {
+        "text": "Landscape connectivity and resilience to climate change is used as a key factor of FLA eligibility in addition to forest products potential and threat of land use conversion (i.e., development). The Nature Conservancy developed the Resilient and Connected Prioritized Network to delineate areas critical to forests and wildlife that are more adaptive to climate change due to the presence of micro-climates, micro-sites, and biological diversity.",
+        "location": "Description/Identification of Tennessee's Forest Legacy Areas (figure caption)",
+        "relevant_elements": ["1.1", "1.4", "4.1"]
+      },
+      {
+        "text": "carbon sequestration and climate resilience, services...since healthy, resilient forests store vast amounts of belowground carbon, sequester atmospheric carbon, and are well-positioned to withstand increased stress and shifting disturbance patterns associated with climate change",
+        "location": "Appendix (Creating a Stewardship Management Plan)",
+        "relevant_elements": ["1.1", "1.2"]
+      },
+      {
+        "text": "Alignment between the FAP and SWAP priorities was assessed. The 2020 FAP focused on three conservation priorities: carbon storage, surface drinking water, and resilient and connected landscapes. FAP priorities capture 10.6 million acres of COAs, and 2.4 million acres are potentially eligible for Forest Legacy Program funding",
+        "location": "Complementary Planning Initiatives",
+        "relevant_elements": ["3.4", "4.1"]
+      },
+      {
+        "text": "Development of this plan, though the partnership between the Tennessee Department of Agriculture -Division of Forestry and the Tennessee Chapter of The Nature Conservancy, is a prime example of the collaborative spirit brought to the table to protect, conserve, and enhance the forests we all love.",
+        "location": "Introduction",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "Through engagement and communication, the statewide FAP will be highly relevant and useful to a variety of organizations and individuals. Input from knowledgeable forest resource stakeholders was vital to achieve this comprehensive and collaboratively driven 10-year plan.",
+        "location": "Introduction",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "Since 2010, the emerald ash borer has been the most devastating and uncontrollable exotic forest pest in Tennessee. Climate change is expected to exacerbate outbreaks of many forest pests as trees in many areas of the U.S. experience increased drought stress.",
+        "location": "Forest Resiliency (insect and disease risk table)",
+        "relevant_elements": ["3.6", "3.7"]
+      },
+      {
+        "text": "Action 2. Collaborate with conservation organizations and agencies to encourage alignment and synchronization of strategic plans and use of science-based forest connectivity models (e.g., TNC's Resilient Land Mapping Tool).",
+        "location": "Goals and Strategies (Maintaining and Improving Connected Landscapes)",
+        "relevant_elements": ["2.4", "4.5"]
+      },
+      {
+        "text": "To assist with identifying and mapping resilient and connected corridors, this FAP incorporates robust national datasets and maps produced by TNC, using The study involved 12 years of work by over 150 TNC scientists in collaboration with external partners and provides a blueprint for conservation that represents all habitats while allowing nature to adapt and change (Anderson et. al, 2016).",
+        "location": "Forest Resiliency",
+        "relevant_elements": ["2.4", "4.1", "1.4"]
+      },
+      {
+        "text": "Persistence of the hemlock woolly adelgid is projected to lead to a complete loss of eastern hemlock from the Cumberland Plateau and Mountains region by the end of the century (Paradis et al. 2008, Evans and Gregoire 2007, Dale et al. 2009), in the absence of coordinated mitigative action.",
+        "location": "Enhancing Forest Health and Resiliency",
+        "relevant_elements": ["3.6", "1.1"]
+      },
+      {
+        "text": "Three forest data layers build the foundation for these priority areas: USFS Forests to Faucets, the USFS FIA Program's Forest Carbon Stock Estimates, and TNC's Connected and Resilient Landscapes.",
+        "location": "Priority Areas",
+        "relevant_elements": ["4.1", "2.4"]
+      }
+    ]
+  },
+  "concepts": {
+    "climate_vulnerability": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Land managers and conservation planners are under increasing pressure to improve adaptive capacity for a changing climate. The Nature Conservancy (TNC) developed the Resilient and Connected Prioritized Network to delineate secured and unsecured areas critical to forests and wildlife. An area is assumed to have higher resilience (i.e., to be more adaptive to climate change) if it contains micro-climates and micro-sites (e.g., a range of topographical features and elevation).",
+          "location": "USFS Carbon Stock Estimates",
+          "sub_component": "adaptive capacity",
+          "citations": []
+        },
+        {
+          "text": "Forest resiliency is also being threatened by climate change. Climate change is projected to contribute to significant changes in the composition of associated plant species in both forest and grassland systems across Tennessee due to direct changes in suitable climate conditions (e.g., increasing temperatures and changes in precipitation patterns) and indirect changes (e.g., altered disturbance regimes such as wildfire and insect outbreaks).",
+          "location": "Forest Resiliency",
+          "sub_component": "exposure",
+          "citations": ["Dale et al., 2000"]
+        },
+        {
+          "text": "For more information on the impacts of the changing climactic conditions on our forests see the 2015 Climate Change Vulnerability Assessment for Tennessee Wildlife and Habitats (Glick, et. al, 2015).",
+          "location": "Forest Resiliency",
+          "sub_component": "exposure",
+          "citations": ["Glick, et. al, 2015"]
+        }
+      ],
+      "absence_note": "The document references a 2015 Climate Change Vulnerability Assessment for Tennessee Wildlife and Habitats and discusses adaptive capacity through TNC's Resilient and Connected Network, as well as exposure via climate-driven stressors. However, the document does not itself systematically apply both exposure AND adaptive capacity to its focal species/habitats — the adaptive capacity framing is primarily at the landscape/ecosystem level via TNC's tool. Score 2 (references exposure, and references adaptive capacity, but the CCVA is a document the FAP points to rather than directly performs). This is a close call between 2 and 3; scored 2 because systematic integration of both axes is not operationalized within the FAP itself."
+    },
+    "adaptive_capacity_specificity": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Land managers and conservation planners are under increasing pressure to improve adaptive capacity for a changing climate. The Nature Conservancy (TNC) developed the Resilient and Connected Prioritized Network to delineate secured and unsecured areas critical to forests and wildlife. An area is assumed to have higher resilience (i.e., to be more adaptive to climate change) if it contains micro-climates and micro-sites (e.g., a range of topographical features and elevation).",
+          "location": "USFS Carbon Stock Estimates",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Managing for resilient lands also requires considering key connected climate corridors and flow zones where the movement of plant and animal species is likely to become concentrated.",
+          "location": "Forest Resiliency",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "Adaptive capacity is referenced with specific components: the document names movement/dispersal corridors, micro-climates and micro-sites (abiotic niche), and connectivity as components. This earns a score of 2."
+    },
+    "adaptive_capacity_components": {
+      "demography": {
+        "present": false,
+        "evidence": []
+      },
+      "distribution": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Pollen and fire records have informed the Resilient and Connected Network Climate Corridors work that maps movement of species populations over time in response to climate and vulnerable ecosystems.",
+            "location": "Forest Resiliency",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "movement": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Managing for resilient lands also requires considering key connected climate corridors and flow zones where the movement of plant and animal species is likely to become concentrated.",
+            "location": "Forest Resiliency",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "evolutionary_potential": {
+        "present": false,
+        "evidence": []
+      },
+      "ecological_dependencies": {
+        "present": false,
+        "evidence": []
+      },
+      "abiotic_niche": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "An area is assumed to have higher resilience (i.e., to be more adaptive to climate change) if it contains micro-climates and micro-sites (e.g., a range of topographical features and elevation).",
+            "location": "USFS Carbon Stock Estimates",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "life_history": {
+        "present": false,
+        "evidence": []
+      }
+    },
+    "connectivity": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Managing for resilient lands also requires considering key connected climate corridors and flow zones where the movement of plant and animal species is likely to become concentrated.",
+          "location": "Forest Resiliency",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "One of the largest TNC land deals in the Eastern U.S., Cumberland Forest employed private impact investment capital and sought to demonstrate how sustainable forestry and forest carbon storage practices may yield a financial return on investments while conserving part of the country's most critical climate change adaptation corridors.",
+          "location": "Maintaining and Improving Connected Landscapes (Cumberland Forest Project)",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Landscape connectivity and resilience to climate change is used as a key factor of FLA eligibility in addition to forest products potential and threat of land use conversion (i.e., development).",
+          "location": "Description/Identification of Tennessee's Forest Legacy Areas (figure caption)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    }
+  },
+  "tools": {
+    "vulnerability_models": {
+      "evaluable": true,
+      "score": 1,
+      "named_tools": ["Climate Change Vulnerability Assessment"],
+      "evidence": [
+        {
+          "text": "For more information on the impacts of the changing climactic conditions on our forests see the 2015 Climate Change Vulnerability Assessment for Tennessee Wildlife and Habitats (Glick, et. al, 2015).",
+          "location": "Forest Resiliency",
+          "sub_component": null,
+          "citations": ["Glick, et. al, 2015"]
+        }
+      ],
+      "absence_note": "The document references the 2015 CCVA for Tennessee Wildlife and Habitats by Glick et al. but merely directs readers to it for more information rather than integrating its results into management decisions for the FAP's focal subjects. This is a reference, not application — score 1."
+    },
+    "niche_models": {
+      "evaluable": true,
+      "score": 0,
+      "named_tools": [],
+      "evidence": [],
+      "absence_note": "No species distribution models or ecological niche models are referenced. The Climate Change Tree Atlas appears in the references list (Prasad et al. 2007-ongoing) but is not discussed in the document narrative."
+    },
+    "climate_models": {
+      "evaluable": true,
+      "score": 1,
+      "named_tools": [],
+      "evidence": [
+        {
+          "text": "Climate models and recent data demonstrate that Tennessee will continue to experience increased rain events (frequency and intensity), causing floods and thus a greater impact on people residing in flood plains.",
+          "location": "Enhancing Forest Health and Resiliency (SUCCESS STORY section)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document mentions 'climate models' in one passage in a generic way but does not apply specific GCMs, downscaling products, or emission scenarios to its focal subjects. Projections of impervious surface and urbanization to 2030 are referenced (from EPA's Integrated Climate and Land-Use Scenarios project) but these are not climate models per se. Score 1 for generic reference.",
+      "time_horizon_years": [2030],
+      "emission_scenarios": []
+    },
+    "connectivity_models": {
+      "evaluable": true,
+      "score": 2,
+      "named_tools": ["TNC Resilient Land Mapping Tool", "TNC Resilient and Connected Prioritized Network"],
+      "evidence": [
+        {
+          "text": "To assist with identifying and mapping resilient and connected corridors, this FAP incorporates robust national datasets and maps produced by TNC, using The study involved 12 years of work by over 150 TNC scientists in collaboration with external partners and provides a blueprint for conservation that represents all habitats while allowing nature to adapt and change (Anderson et. al, 2016).",
+          "location": "Forest Resiliency",
+          "sub_component": null,
+          "citations": ["Anderson et. al, 2016"]
+        },
+        {
+          "text": "The Tennessee FAP utilizes the Resilient and Connected Prioritized Network to prioritize programmatic priorities. The percent of total forested area contained in the Prioritized Network is highest in eastern Tennessee and declines as agriculture becomes more prevalent in western Tennessee.",
+          "location": "USFS Carbon Stock Estimates",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Collaborate with conservation organizations and agencies to encourage alignment and synchronization of strategic plans and use of science-based forest connectivity models (e.g., TNC's Resilient Land Mapping Tool).",
+          "location": "Goals and Strategies (Maintaining and Improving Connected Landscapes)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "TNC's Resilient and Connected Prioritized Network and Resilient Land Mapping Tool are explicitly applied to Tennessee's Forest Legacy Area eligibility, programmatic prioritization, and Forest Stewardship Program priority designation. The modeling outputs directly shape which lands are prioritized for conservation. Score 2 — applied to focal subject."
+    }
+  },
+  "context": {
+    "management_scale": {
+      "local": {
+        "present": false,
+        "evidence": []
+      },
+      "site": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "land acquisition of a critical connecting forest corridor; or managing forests to be more diverse in age, species composition, and spatial arrangement.",
+            "location": "Introduction",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "watershed": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Action 8. Increase acreage of conserved and properly managed forestlands in source water watersheds.",
+            "location": "Goals and Strategies (Enhancing Forest Health and Resiliency)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "city": {
+        "present": false,
+        "evidence": []
+      },
+      "county": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The three case studies are located in Decatur, Macon, and Warren counties.",
+            "location": "Wood Availability Case Studies",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "within_state_region": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "In the 2020 FAP, Tennessee's assessments, threats, and strategies are organized within TDF's district boundaries, which are heavily influenced by the characteristics of the ecological regions but are simplified to improve programmatic implementation.",
+            "location": "Statewide Forest Resource Assessment District Boundaries",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "state": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The Tennessee FAP utilizes the Resilient and Connected Prioritized Network to prioritize programmatic priorities.",
+            "location": "USFS Carbon Stock Estimates",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "multistate": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Action 4. Engage in broader partnerships within and across Tennessee state borders to achieve larger floodplain and riparian restoration goals.",
+            "location": "Goals and Strategies (Enhancing Forest Health and Resiliency)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "national": {
+        "present": false,
+        "evidence": []
+      },
+      "transnational": {
+        "present": false,
+        "evidence": []
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Forest resiliency is also being threatened by climate change. Climate change is projected to contribute to significant changes in the composition of associated plant species in both forest and grassland systems across Tennessee",
+            "location": "Forest Resiliency",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecoregion": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The East Tennessee District (ETD) encompasses the Ridge and Valley and Southern Blue Ridge Ecoregions.",
+            "location": "East Tennessee District",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "province": {
+        "present": false,
+        "evidence": []
+      },
+      "section": {
+        "present": false,
+        "evidence": []
+      },
+      "subsection": {
+        "present": false,
+        "evidence": []
+      },
+      "lake": {
+        "present": false,
+        "evidence": []
+      },
+      "river": {
+        "present": false,
+        "evidence": []
+      },
+      "district": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "In the 2020 FAP, Tennessee's assessments, threats, and strategies are organized within TDF's district boundaries",
+            "location": "Statewide Forest Resource Assessment District Boundaries",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "named_entities": ["West Tennessee District", "Highland Rim District", "Cumberland District", "East Tennessee District", "Cumberland Plateau", "Ridge and Valley", "Blue Ridge Mountains", "Interior Plateau", "Southeast"]
+    },
+    "biological_unit_score": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Pollen and fire records have informed the Resilient and Connected Network Climate Corridors work that maps movement of species populations over time in response to climate and vulnerable ecosystems.",
+          "location": "Forest Resiliency",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Climate change is projected to contribute to significant changes in the composition of associated plant species in both forest and grassland systems across Tennessee due to direct changes in suitable climate conditions",
+          "location": "Forest Resiliency",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "biological_unit_components": {
+      "species": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Persistence of the hemlock woolly adelgid is projected to lead to a complete loss of eastern hemlock from the Cumberland Plateau and Mountains region by the end of the century",
+            "location": "Enhancing Forest Health and Resiliency",
+            "sub_component": null,
+            "citations": ["Paradis et al. 2008", "Evans and Gregoire 2007", "Dale et al. 2009"]
+          }
+        ]
+      },
+      "population": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Pollen and fire records have informed the Resilient and Connected Network Climate Corridors work that maps movement of species populations over time in response to climate and vulnerable ecosystems.",
+            "location": "Forest Resiliency",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "habitat": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Climate change is projected to contribute to significant changes in the composition of associated plant species in both forest and grassland systems across Tennessee due to direct changes in suitable climate conditions (e.g., increasing temperatures and changes in precipitation patterns) and indirect changes (e.g., altered disturbance regimes such as wildfire and insect outbreaks).",
+            "location": "Forest Resiliency",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Forest resiliency is also being threatened by climate change. Climate change is projected to contribute to significant changes in the composition of associated plant species in both forest and grassland systems across Tennessee",
+            "location": "Forest Resiliency",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "community": {
+        "present": false,
+        "evidence": []
+      },
+      "genotype_phenotype": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["eastern hemlock", "hemlock woolly adelgid", "southern pine beetle", "invasive plant species", "Tennessee forests", "bottomland hardwoods", "oak-hickory forests", "Cumberland Plateau forests"]
+    },
+    "partnerships_and_funding": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Development of this plan, though the partnership between the Tennessee Department of Agriculture -Division of Forestry and the Tennessee Chapter of The Nature Conservancy, is a prime example of the collaborative spirit brought to the table to protect, conserve, and enhance the forests we all love.",
+          "location": "Introduction",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "In 2019, the Tennessee Chapter of The Nature Conservancy worked with the organization's Kentucky, Virginia, and NatureVest business units to purchase 253,000 acres of Central Appalachian hardwood forestlands known as the Cumberland Forest Project...One of the largest TNC land deals in the Eastern U.S., Cumberland Forest employed private impact investment capital",
+          "location": "Maintaining and Improving Connected Landscapes (Cumberland Forest Project)",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Alignment between the FAP and SWAP priorities was assessed. The 2020 FAP focused on three conservation priorities: carbon storage, surface drinking water, and resilient and connected landscapes. FAP priorities capture 10.6 million acres of COAs, and 2.4 million acres are potentially eligible for Forest Legacy Program funding",
+          "location": "Complementary Planning Initiatives",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document describes active multi-agency and NGO partnerships (TDF-TNC partnership for plan development, SECAS, TWRA, NRCS, USFS, University of Tennessee) and active investment in implementing range-shift-relevant actions (Cumberland Forest Project with private impact investment capital, Forest Legacy Program funding, HWA Strike Team with USDA support). Score 2 — strategic investment with active partnerships."
+    },
+    "climate_threat_habitat_degradation": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "The impacts of climate change on Tennessee are expected to manifest as prolonged, intense rain events followed by severe drying periods, with increases in the range of extreme conditions over the next ten years. These dynamic wet and dry weather events will continue to cause a shift in invasive plant species within Tennessee's forests and may also lead to unpredictable disturbances, such as increased wildfire occurrence and intensity.",
+          "location": "Forest Resiliency",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Higher temperatures due to climate change are expected to contribute to an increase in the frequency and intensity of wildfires across the Southeast, including an increase in the total area burned and longer fire seasons.",
+          "location": "Forest Resiliency",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_threat_species_vital_rates": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Higher average temperatures are expected to enhance winter survival and exacerbate outbreaks of both southern pine beetle and hemlock woolly adelgid, as well as contribute to their expansion northward (Gan 2004, Paradis et al. 2008). Indeed, studies suggest that climate change could increase the risk of southern pine beetle infestations across the Southeast by 2.5-5 times and could result in 4-7.5 times the current annual mortality of pines (Gan 2004).",
+          "location": "Enhancing Forest Health and Resiliency",
+          "sub_component": null,
+          "citations": ["Gan 2004", "Paradis et al. 2008"]
+        },
+        {
+          "text": "Persistence of the hemlock woolly adelgid is projected to lead to a complete loss of eastern hemlock from the Cumberland Plateau and Mountains region by the end of the century (Paradis et al. 2008, Evans and Gregoire 2007, Dale et al. 2009), in the absence of coordinated mitigative action.",
+          "location": "Enhancing Forest Health and Resiliency",
+          "sub_component": null,
+          "citations": ["Paradis et al. 2008", "Evans and Gregoire 2007", "Dale et al. 2009"]
+        }
+      ],
+      "absence_note": "Climate-driven pest outbreaks leading directly to tree mortality (vital rates) are explicitly discussed — southern pine beetle infestations resulting in 4-7.5x current annual pine mortality, and hemlock woolly adelgid projected to cause complete loss of eastern hemlock. These are direct climate → vital rate pathways."
+    },
+    "climate_threat_biotic_stressors": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "These dynamic wet and dry weather events will continue to cause a shift in invasive plant species within Tennessee's forests and may also lead to unpredictable disturbances, such as increased wildfire occurrence and intensity.",
+          "location": "Forest Resiliency",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Lastly, shifts in climate will lead to altered ecological processes within the region because of an increase in non-native insect and disease activity and the movement of both migratory and non-migratory species.",
+          "location": "Forest Resiliency",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    }
+  },
+  "actions": {
+    "priority_habitat_identification": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Three forest data layers build the foundation for these priority areas: USFS Forests to Faucets, the USFS FIA Program's Forest Carbon Stock Estimates, and TNC's Connected and Resilient Landscapes. Each layer is described individually below and then overlaid to form a composite map (Figure 46) to further focus strategy implementation.",
+          "location": "Priority Areas",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Landscape connectivity and resilience to climate change is used as a key factor of FLA eligibility in addition to forest products potential and threat of land use conversion (i.e., development). The Nature Conservancy developed the Resilient and Connected Prioritized Network to delineate areas critical to forests and wildlife that are more adaptive to climate change due to the presence of micro-climates, micro-sites, and biological diversity.",
+          "location": "Description/Identification of Tennessee's Forest Legacy Areas (figure caption)",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "TNC's land and water conservation vision is to conserve a network of resilient sites and connecting corridors that will sustain North America's natural diversity by allowing species to adapt to land use change, lack of appropriate levels of disturbance and climate impacts, and thrive.",
+          "location": "Forest Resiliency (TNC resilient land mapping tool table)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "Priority habitats for climate resilience are explicitly mapped (Figure 46 composite map, Figure 49 for TNC's Resilient and Connected Prioritized Network, Table 9 with acreage by district) and used to determine Forest Legacy Area eligibility and Forest Stewardship priorities. This clearly meets score 2 criteria — spatially explicit."
+    },
+    "targeted_range_shift_actions": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Managing for resilient lands also requires considering key connected climate corridors and flow zones where the movement of plant and animal species is likely to become concentrated.",
+          "location": "Forest Resiliency",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "One of the largest TNC land deals in the Eastern U.S., Cumberland Forest employed private impact investment capital and sought to demonstrate how sustainable forestry and forest carbon storage practices may yield a financial return on investments while conserving part of the country's most critical climate change adaptation corridors.",
+          "location": "Maintaining and Improving Connected Landscapes (Cumberland Forest Project)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document proposes structural facilitation through climate corridors and connected landscapes with explicit climate adaptation framing. The Cumberland Forest Project is described as protecting 'climate change adaptation corridors.' This is structural facilitation motivated by climate — score 1. No assisted migration or direct organism translocation actions are mentioned."
+    },
+    "time_bound_and_monitoring": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "The focus over the next 10 years will be to prioritize strategies around the four main objectives listed below and, by doing so effectively, most if not all threats to Tennessee's forest will be mitigated.",
+          "location": "Introduction",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Action 1. Develop a synchronized Monitoring and Evaluation (M&E) program to measure effective wood removal practices by using both quantitative and qualitative data, which incorporates collaboration between existing databases.",
+          "location": "Goals and Strategies (Expanding Market Diversification)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The plan is structured as a 10-year plan (2020-2030) with broad strategies but action-level deadlines for the specific range-shift-related actions are not provided. Monitoring and evaluation is mentioned (M&E program action) but is aspirational rather than operationalized at the action level with both deadlines and effectiveness monitoring protocols attached to specific conservation actions. Score 1 — clear 10-year plan horizon but lacks action-level deadline + monitoring pairing for range-shift actions."
+    },
+    "evidence_of_efficacy": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "To date, the HWA Strike Team has chemically treated over 53,800 hemlocks over 4,500 acres across state owned forests and forests that are protected by conservation easements; facilitated the release of tens of thousands of predator beetles reared at the Lindsay Young Beneficial Insects Laboratory at the University of Tennessee",
+          "location": "Enhancing Forest Health and Resiliency",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Higher average temperatures are expected to enhance winter survival and exacerbate outbreaks of both southern pine beetle and hemlock woolly adelgid, as well as contribute to their expansion northward (Gan 2004, Paradis et al. 2008). Indeed, studies suggest that climate change could increase the risk of southern pine beetle infestations across the Southeast by 2.5-5 times",
+          "location": "Enhancing Forest Health and Resiliency",
+          "sub_component": null,
+          "citations": ["Gan 2004", "Paradis et al. 2008"]
+        }
+      ],
+      "absence_note": "The document cites peer-reviewed studies to support its claims about climate-driven insect threats (Gan 2004, Paradis et al. 2008, Dale et al. 2001, McNulty et al. 2013) and includes several success stories documenting implemented actions. However, the evidence for the core range-shift-relevant actions (climate corridors, resilient land network) is largely based on the principles of TNC's 12-year research program (referenced but not detailed) and ecological first principles rather than rigorous field evaluations of outcomes. Score 2 — limited evidence with citations supporting some actions, but lacking directly applicable field-outcome data for range-shift-specific actions.",
+      "projects": ["HWA Strike Team (Tennessee): Since 2014, TDF's Hemlock Woolly Adelgid Strike Team has treated over 53,800 hemlocks across 4,500 acres. This provides implementation evidence that the action is being carried out at scale, though outcome data on hemlock population responses are not detailed.", "TNC Cumberland Forest Project: 253,000-acre acquisition framed as protecting critical climate change adaptation corridors. Provides a proof-of-concept for large-scale land acquisition for climate connectivity, though monitoring data on species movement outcomes are not yet reported.", "Stinging Fork Natural Area Forest Management Project: Documents a successful partnership between TDF and TDEC for managing loblolly pine plantations for forest health, with outcome narrative describing the first loblolly pine sale in fall 2019 as a successful demonstration."]
+    },
+    "adaptation_planning_frameworks": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Land managers and conservation planners are under increasing pressure to improve adaptive capacity for a changing climate. The Nature Conservancy (TNC) developed the Resilient and Connected Prioritized Network to delineate secured and unsecured areas critical to forests and wildlife.",
+          "location": "USFS Carbon Stock Estimates",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document references an overall adaptive management posture and uses TNC's Resilient Land Mapping Tool, but does not explicitly invoke named climate adaptation planning frameworks such as RAD, RRT, CCVA (structured), SBDA, or Structured Decision Making in the context of climate adaptation planning. The document's approach is described in terms of resilience and connectivity but without invoking a formal named framework. Score 1 — adaptation planning for climate is referenced but not through a specifically named framework."
+    }
+  },
+  "coding_meta": {
+    "coder": "llm:claude-sonnet-4-6",
+    "model": "claude-sonnet-4-6",
+    "provider": "claude",
+    "codebook_version": "0.4",
+    "ingest": "text",
+    "design": "single",
+    "temperature": null,
+    "thinking": null,
+    "thinking_effort": null,
+    "coded_at": "2026-07-07T00:31:33Z",
+    "notes": {}
+  }
+}

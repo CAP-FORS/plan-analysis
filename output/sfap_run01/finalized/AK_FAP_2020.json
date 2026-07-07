@@ -1,0 +1,763 @@
+{
+  "document_meta": {
+    "title": "2020 Alaska Forest Action Plan",
+    "year": 2020,
+    "jurisdiction": "Alaska (State of Alaska, Department of Natural Resources, Division of Forestry)",
+    "document_type": "Forest Action Plan",
+    "document_id": "AK_FAP_2020",
+    "page_count": 115
+  },
+  "orientation": {
+    "summary": "The 2020 Alaska Forest Action Plan is a state-level forest management and strategy document produced by the Alaska Division of Forestry, covering threats and opportunities for Alaska's 129 million acres of forest across the boreal and coastal temperate rainforest types. The document acknowledges climate change as a significant and accelerating threat, discussing its effects on wildland fire, forest health (including bark beetles, yellow-cedar decline, and invasive species), permafrost, and fish and wildlife habitat, including one brief reference to range shifts at the northern tundra-boreal edge. The plan's posture toward range shifts is primarily indirect—it frames climate change as altering forest structure, composition, and distribution, and briefly acknowledges that climate change could enable assisted migration of forest types (e.g., yellow-cedar, lodgepole pine), and that the State Wildlife Action Plan identifies range shifts and disappearing niches as concerns. Analysis is largely descriptive/narrative, drawing heavily on referenced scientific literature (Wolken et al. 2011, Rupp et al. 2016, Bentz et al. 2010, etc.) rather than original modeling or vulnerability assessment performed by the document itself.",
+    "evidence_index": [
+      {
+        "text": "Alaska's forests are also experiencing the impacts of climate change. Alaska's fire seasons are beginning earlier and lasting longer. Fires are larger and more resistant to control because of hotter, drier weather.",
+        "location": "Executive Summary",
+        "relevant_elements": ["1.1", "3.5", "3.6"]
+      },
+      {
+        "text": "Carbon storage in Alaska's boreal forest is more likely to change than carbon storage of Alaska's coastal forests because of the projected increase in temperature, which may lead to carbon loss through increased wildfires and permafrost thaw.",
+        "location": "Carbon Storage",
+        "relevant_elements": ["1.1", "3.5"]
+      },
+      {
+        "text": "The changing climate affects wildlife migration routes and the seasonal availability of wildlife for harvest, as well as water flow, ocean patterns, and weather which affect salmon habitat and cycles.",
+        "location": "Subsistence",
+        "relevant_elements": ["1.1", "3.5", "3.7"]
+      },
+      {
+        "text": "Climate change has already altered the structure and function of Alaska's boreal and coastal forests, and greater alterations are projected (Wolken et al. 2011) In the boreal forest, the main climate drivers are surface air temperature and precipitation, which interact with biophysical factors including wildland fire, permafrost thaw, snow and ice, insects and disease, and invasive species (Wolken et al. 2011).",
+        "location": "Climate change",
+        "relevant_elements": ["1.1", "3.5", "3.7"]
+      },
+      {
+        "text": "Because of increases in fire frequency, the area of late successional boreal forest landcover is expected to decrease, while the area in early successional hardwood forest is expected to increase (Rupp et al. 2016). Decreased spruce growth is also expected. In some areas boreal forest could shift to grassland or shrubland. Shrubification of tundra is occurring across the Arctic, including in Alaska.",
+        "location": "Climate change",
+        "relevant_elements": ["1.1", "3.5", "3.7", "C2"]
+      },
+      {
+        "text": "Melting glaciers are expected to cause hydrologic changes which will affect the composition and soil nutrient cycling of coastal forests. Forest composition change is already evident with yellow-cedar decline (Hennon et. al 2016).",
+        "location": "Climate change",
+        "relevant_elements": ["1.1", "3.5", "3.7"]
+      },
+      {
+        "text": "Climate change is influencing the length of the wildland fire season in Alaska. Fire activity tends to begin earlier, more often trends to warmer, drier summers, and has increased activity into the fall beyond historical norms.",
+        "location": "Climate change and wildland fire",
+        "relevant_elements": ["1.1", "3.5"]
+      },
+      {
+        "text": "Coniferous forest types may shift, , and with that, a shift in associated forest pests may occur (Bentz et al 2010). In addition, forest insect outbreaks are expected to increase in frequency and intensity as temperatures increase (Wolken et al. 2011).",
+        "location": "Climate change and forest health",
+        "relevant_elements": ["1.1", "3.7", "C2"]
+      },
+      {
+        "text": "Yellow-cedar decline has long impacted the yellow-cedar stands of Southeast Alaska and is directly connected to decreased early spring snowpack, which allows uninsulated fine roots to freeze, ultimately killing the tree.",
+        "location": "Climate change and forest health",
+        "relevant_elements": ["1.1", "3.5", "3.6"]
+      },
+      {
+        "text": "Bark beetle populations can also be influenced by climate (Bentz et al 2010). In Alaska, studies have shown that increased temperatures can decrease the time it takes for spruce beetles to complete their lifecycles, which can lead to rapid population increases (Werner & Holsten 1985, Hansen et al. 2001) and consecutive warm summers can lead to intense spruce beetle outbreaks (Berg et al 2006).",
+        "location": "Climate change and forest health",
+        "relevant_elements": ["1.1", "3.6", "3.7"]
+      },
+      {
+        "text": "The changing climate may also result in increased stress on the native trees, leading to higher susceptibility to insect attacks (Vose et al 2018) and increased geographic suitability for invasive threats (Lipton et al. 2018).",
+        "location": "Climate change and forest health",
+        "relevant_elements": ["1.1", "3.6", "3.7"]
+      },
+      {
+        "text": "Climate change creates conditions that are more hospitable to some non-native plants and forest insects and causes land disturbance that provides for easier establishment of invasive plants (Wolken et al. 2011). In the Interior, several invasive plant species are known to invade newly burned areas, which means the projected increase in area burned and severity of wildfire in the boreal forest may increase the spread of invasive species over wider areas.",
+        "location": "Climate change and invasive species",
+        "relevant_elements": ["3.7", "1.1"]
+      },
+      {
+        "text": "Climate change is a crossover threat with the State Wildlife Action Plan. According to the State Wildlife Action Plan, of particular concern is that climate-induced vegetation change may cause the boreal forest to expand into tundra on the northern edge, while being replaced by grasslands at the southern edge. The State Wildlife Action Plan identifies climate change as the most impactful threat to wildlife, especially at the northern edge of the continent where niches are not just shifting, they are disappearing.",
+        "location": "Climate change and fish and wildlife habitat",
+        "relevant_elements": ["1.1", "1.2", "1.3", "C2", "3.2", "3.3"]
+      },
+      {
+        "text": "Increased temperatures may increase tree growth in the coastal forest, however, growth in the boreal forest is likely to decrease. Additionally, the projected reduction in white spruce forest and increase in hardwood forest represents a shift to less valuable species (Beck et al. 2011, Hansen et al. 2020).",
+        "location": "Climate change and forest management",
+        "relevant_elements": ["1.1", "3.5"]
+      },
+      {
+        "text": "Climate change does create potential opportunities for forest management. The use of the carbon credits market...Changes in climate may also provide opportunities for migration-expansion of forest cover types being stressed or lost in other areas, such as yellow-cedar. Expansion of dry continental tree species, such as lodgepole pine, would be expected both naturally and under forest management. Ecological niches for displaced flora and fauna may develop naturally or through assisted migration.",
+        "location": "Climate change and forest management",
+        "relevant_elements": ["1.2", "1.3", "4.2", "C2"]
+      },
+      {
+        "text": "Species' physiological limits are tested as shifting temperatures, altered hydrology, and changing seasonal cues affect survival, reproduction, and migration.",
+        "location": "Climate change and forest health",
+        "relevant_elements": ["1.2", "1.3", "3.6"]
+      },
+      {
+        "text": "Yellow-cedar decline, linked directly to root freeze injury resulting from decreased snowpack in the warming climate, has been ongoing in Southeast coastal forests for many years.",
+        "location": "Coastal forest (Forest insects, disease, abiotic stressors)",
+        "relevant_elements": ["3.5", "3.6", "1.1"]
+      },
+      {
+        "text": "Species' physiological limits are tested as shifting temperatures, altered hydrology, and changing seasonal cues affect survival, reproduction, and migration.",
+        "location": "Climate change and forest health",
+        "relevant_elements": ["1.3", "3.6"]
+      },
+      {
+        "text": "Guideline 1a: Describe habitat features and their landscape connectivity to the extent possible from existing environmental data and use this information in forest planning.",
+        "location": "Strategies to Conserve and Manage Working Forest Landscapes",
+        "relevant_elements": ["1.4", "4.1"]
+      },
+      {
+        "text": "Guideline 2c: Identify landscape connectivity beneficial to wide-ranging species.",
+        "location": "Strategies to Conserve and Manage Working Forest Landscapes",
+        "relevant_elements": ["1.4"]
+      },
+      {
+        "text": "Principle 1. Manage forests for a range of habitat types that support diverse wildlife species, because this is likely to maintain forest ecosystem resilience to environmental disturbances.",
+        "location": "Strategies to Conserve and Manage Working Forest Landscapes",
+        "relevant_elements": ["1.4", "4.1"]
+      },
+      {
+        "text": "A regional habitat connectivity plan provides spatial layers depicting structural connectivity, network importance, landscape permeability, and climate connectivity.",
+        "location": "Priority Landscape Area",
+        "relevant_elements": ["1.4", "2.4"]
+      },
+      {
+        "text": "The Forest Inventory and Analysis (FIA) program provides information to assess America's forests. As the nation's continuous forest census, the program projects how forests are likely to appear 10 to 40 years from now. This is especially important in Alaska where significant changes in temperature, permafrost, and plants are occurring and expected to increase.",
+        "location": "Forest Inventory and Analysis",
+        "relevant_elements": ["2.3", "4.3"]
+      },
+      {
+        "text": "Under projected climate scenarios, this could increase by 8 to 27% by the end of the 21 st century, depending on forest management.",
+        "location": "Carbon Storage",
+        "relevant_elements": ["2.3"]
+      },
+      {
+        "text": "This layer was based on 1989-2019 Cooperative Aerial Detection Survey mortality and disease agents with a 10-mile buffer, the National Insect and Disease Forest Health Risk Map for Alaska-2018 update, Forest Health Protection ground survey data, and Alaska State Forests.",
+        "location": "Layers considered but rejected / Forest Health Protection",
+        "relevant_elements": ["4.1", "2.1"]
+      },
+      {
+        "text": "GIS overlay analysis was used to determine the Priority Landscape Area using the selected GIS layers.",
+        "location": "Priority Landscape Area / GIS methodology",
+        "relevant_elements": ["4.1", "2.4"]
+      },
+      {
+        "text": "Figure 52. Unified Ecoregions of Alaska. The forested ecoregions were used to filter non-forest versus forest lands for each of the input layers.",
+        "location": "Priority Landscape Area",
+        "relevant_elements": ["3.1", "4.1"]
+      },
+      {
+        "text": "While all of Alaska's forest provides benefits for wildlife, fish, and people, in order to focus limited funding resources, a Priority Landscape Area has been identified as providing the most opportunities to maximize the benefits of forests and combat the threats facing forests.",
+        "location": "Priority Landscape Area",
+        "relevant_elements": ["4.1", "3.4"]
+      },
+      {
+        "text": "Ecological niches for displaced flora and fauna may develop naturally or through assisted migration.",
+        "location": "Climate change and forest management",
+        "relevant_elements": ["4.2", "C2"]
+      },
+      {
+        "text": "Temperatures over the last several decades have been warming thereby resulting in a longer fire season.",
+        "location": "Wildland fire and spruce beetle outbreaks",
+        "relevant_elements": ["1.1", "3.5"]
+      },
+      {
+        "text": "Numerous Alaska Native communities have undertaken climate adaptation planning through Bureau of Indian Affairs Tribal Resilience Program funding.",
+        "location": "Climate change (threats table caption)",
+        "relevant_elements": ["4.5"]
+      },
+      {
+        "text": "This strategy also has significant crossover with the Anchorage Climate Action Plan (MOA 2019), which identifies the urban forest and watersheds as one of seven sectors in which to take action.",
+        "location": "Maximize the benefits of trees and forests to communities",
+        "relevant_elements": ["4.5", "3.4"]
+      },
+      {
+        "text": "Principle 5. Consider best practices for wildlife habitat conservation in managed forest as hypotheses that can be verified for effectiveness and adjusted over time using an adaptive management approach to optimize desired outcomes for both forests and wildlife.",
+        "location": "Strategies to Conserve and Manage Working Forest Landscapes",
+        "relevant_elements": ["4.3", "4.4", "4.5"]
+      },
+      {
+        "text": "Partners are one of the main resources needed by the State Forester to implement the Forest Action Plan...Partners include, but are not limited to, federal agencies, state and local governments, soil and water conservation districts, organized partnerships, nonprofit organizations, volunteers and community-based organizations, academic institutions, tribal governments, Alaska Native Corporations, and professional and trade associations.",
+        "location": "Partners",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "Over $1 million in federal funds are infused annually into the state economy through these programs. In addition, local governments and organizations contribute matching funds for projects.",
+        "location": "Cooperative Forestry Programs",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "Effectiveness monitoring and research keep Alaska's science-based forest practices standards up to date and are an important part of this strategy. Examples include road condition surveys and fish passage mapping, windthrow prediction, and silvicultural research.",
+        "location": "Strategies to Conserve and Manage Working Forest Landscapes",
+        "relevant_elements": ["4.3"]
+      },
+      {
+        "text": "Predictive modeling and risk assessments can also assist with detection of invasive species.",
+        "location": "Prevent, identify, and control invasive species",
+        "relevant_elements": ["2.1", "2.2"]
+      },
+      {
+        "text": "In the Interior, several invasive plant species are known to invade newly burned areas, which means the projected increase in area burned and severity of wildfire in the boreal forest may increase the spread of invasive species over wider areas.",
+        "location": "Climate change and invasive species",
+        "relevant_elements": ["3.7"]
+      },
+      {
+        "text": "Alaska's changing climate has the potential to impact the invasive species currently established in the state...changes in temperatures and precipitation type or timing may also increase the relative suitability of our forests to invaders for which the current climate is a barrier to establishment.",
+        "location": "Invasive species",
+        "relevant_elements": ["3.7", "1.1"]
+      },
+      {
+        "text": "Spruce aphid populations are directly connected to temperature, favoring mild winters which build up populations.",
+        "location": "Invasive species (table caption)",
+        "relevant_elements": ["3.7", "3.6"]
+      }
+    ]
+  },
+  "concepts": {
+    "climate_vulnerability": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Climate change has already altered the structure and function of Alaska's boreal and coastal forests, and greater alterations are projected (Wolken et al. 2011) In the boreal forest, the main climate drivers are surface air temperature and precipitation, which interact with biophysical factors including wildland fire, permafrost thaw, snow and ice, insects and disease, and invasive species (Wolken et al. 2011).",
+          "location": "Climate change",
+          "sub_component": "exposure",
+          "citations": ["Wolken et al. 2011"]
+        },
+        {
+          "text": "Climate change is a crossover threat with the State Wildlife Action Plan. According to the State Wildlife Action Plan, of particular concern is that climate-induced vegetation change may cause the boreal forest to expand into tundra on the northern edge, while being replaced by grasslands at the southern edge. The State Wildlife Action Plan identifies climate change as the most impactful threat to wildlife, especially at the northern edge of the continent where niches are not just shifting, they are disappearing.",
+          "location": "Climate change and fish and wildlife habitat",
+          "sub_component": "exposure",
+          "citations": []
+        },
+        {
+          "text": "The changing climate may also result in increased stress on the native trees, leading to higher susceptibility to insect attacks (Vose et al 2018) and increased geographic suitability for invasive threats (Lipton et al. 2018).",
+          "location": "Climate change and forest health",
+          "sub_component": "exposure",
+          "citations": ["Vose et al 2018", "Lipton et al. 2018"]
+        }
+      ],
+      "absence_note": "The document discusses climate exposure to forests and wildlife extensively, referencing threat/stress framing throughout. However, it does not frame adaptive capacity in a structured or operational way — it briefly mentions that some species/habitats may benefit (yellow-cedar migration, lodgepole pine expansion) but does not operationalize adaptive capacity as a concept. Score is 2 (exposure addressed, adaptive capacity not systematically addressed)."
+    },
+    "adaptive_capacity_specificity": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Ecological niches for displaced flora and fauna may develop naturally or through assisted migration.",
+          "location": "Climate change and forest management",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "Referenced non-specifically. The document does not systematically operationalize adaptive capacity components for any focal species or habitat type in a climate-vulnerability sense."
+    },
+    "adaptive_capacity_components": {
+      "demography": {
+        "present": false,
+        "evidence": []
+      },
+      "distribution": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "of particular concern is that climate-induced vegetation change may cause the boreal forest to expand into tundra on the northern edge, while being replaced by grasslands at the southern edge. The State Wildlife Action Plan identifies climate change as the most impactful threat to wildlife, especially at the northern edge of the continent where niches are not just shifting, they are disappearing.",
+            "location": "Climate change and fish and wildlife habitat",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "movement": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Ecological niches for displaced flora and fauna may develop naturally or through assisted migration.",
+            "location": "Climate change and forest management",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "evolutionary_potential": {
+        "present": false,
+        "evidence": []
+      },
+      "ecological_dependencies": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Coniferous forest types may shift, , and with that, a shift in associated forest pests may occur (Bentz et al 2010).",
+            "location": "Climate change and forest health",
+            "sub_component": null,
+            "citations": ["Bentz et al 2010"]
+          }
+        ]
+      },
+      "abiotic_niche": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Yellow-cedar decline has long impacted the yellow-cedar stands of Southeast Alaska and is directly connected to decreased early spring snowpack, which allows uninsulated fine roots to freeze, ultimately killing the tree.",
+            "location": "Climate change and forest health",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "life_history": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "In Alaska, studies have shown that increased temperatures can decrease the time it takes for spruce beetles to complete their lifecycles, which can lead to rapid population increases (Werner & Holsten 1985, Hansen et al. 2001) and consecutive warm summers can lead to intense spruce beetle outbreaks (Berg et al 2006).",
+            "location": "Climate change and forest health",
+            "sub_component": null,
+            "citations": ["Werner & Holsten 1985", "Hansen et al. 2001", "Berg et al 2006"]
+          }
+        ]
+      }
+    },
+    "connectivity": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Guideline 2c: Identify landscape connectivity beneficial to wide-ranging species.",
+          "location": "Strategies to Conserve and Manage Working Forest Landscapes",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Guideline 1a: Describe habitat features and their landscape connectivity to the extent possible from existing environmental data and use this information in forest planning.",
+          "location": "Strategies to Conserve and Manage Working Forest Landscapes",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document references connectivity for wildlife generically, but does not frame connectivity explicitly in relation to climate change, range shifts, or climate gradients. Score 1 (generic). No climate corridor or climate-gradient connectivity framing found."
+    }
+  },
+  "tools": {
+    "vulnerability_models": {
+      "evaluable": true,
+      "score": 0,
+      "named_tools": [],
+      "evidence": [],
+      "absence_note": "No vulnerability models (CCVI, PVA, or similar) are referenced. The document describes qualitative vulnerability narratives but does not reference any structured vulnerability assessment tool."
+    },
+    "niche_models": {
+      "evaluable": true,
+      "score": 0,
+      "named_tools": [],
+      "evidence": [],
+      "absence_note": "No species distribution models or niche models (MaxEnt, SDMs, etc.) are referenced in the document, despite discussing potential range shifts and changes in habitat suitability."
+    },
+    "climate_models": {
+      "evaluable": true,
+      "score": 1,
+      "named_tools": [],
+      "evidence": [
+        {
+          "text": "Under projected climate scenarios, this could increase by 8 to 27% by the end of the 21 st century, depending on forest management.",
+          "location": "Carbon Storage",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Because of increases in fire frequency, the area of late successional boreal forest landcover is expected to decrease, while the area in early successional hardwood forest is expected to increase (Rupp et al. 2016).",
+          "location": "Climate change",
+          "sub_component": null,
+          "citations": ["Rupp et al. 2016"]
+        }
+      ],
+      "absence_note": "The document references 'projected climate scenarios' and end-of-century projections but names no specific GCMs, CMIP products, or emission scenarios (no RCP or SSP designations). Score 1: referenced generally.",
+      "time_horizon_years": [2100],
+      "emission_scenarios": []
+    },
+    "connectivity_models": {
+      "evaluable": true,
+      "score": 0,
+      "named_tools": [],
+      "evidence": [],
+      "absence_note": "No connectivity modeling tools (CircuitScape, Linkage Mapper, etc.) are referenced or applied. Connectivity is referenced conceptually but without any model."
+    }
+  },
+  "context": {
+    "management_scale": {
+      "local": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Community Wildfire Protection Plans (CWPPs) identify prevention needs such as hazardous fuel reduction projects to reduce the risk of wildfire impacts",
+            "location": "Community Wildfire Protection Plans (CWPPs)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "site": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Monitoring and individual site or 'point' protection consistent with agency policy are typical strategies.",
+            "location": "Levels of Protection",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "watershed": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Forests in Priority Watersheds are healthy and being sustained",
+            "location": "Evaluating Implementation of the Forest Action Plan",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "city": {
+        "present": false,
+        "evidence": []
+      },
+      "county": {
+        "present": false,
+        "evidence": []
+      },
+      "within_state_region": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The 2020 Alaska Forest Action Plan categorizes Alaska's forest into coastal forest and boreal forest, with the transitional forest in Southcentral categorized as boreal forest.",
+            "location": "Alaska's Forests",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "state": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The overriding purpose of the Alaska Forest Action Plan is to efficiently guide the use of federal, state, local, and private funding to conserve Alaska's forest resources",
+            "location": "National State and Private Forestry Priorities",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "multistate": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The Northwest Wildland Fire Protection Agreement (P.L. 105-377), known as the Northwest Compact, promotes cooperation by State, Provincial, and Territorial wildland fire protection agencies to prevent, suppress, and control wildland fires. The members of the Northwest Compact are Alaska, Yukon Territory, British Columbia, Alberta, Washington, Idaho, Montana, and Oregon.",
+            "location": "Multi-state areas that are a regional priority",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "national": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "A new State Forest Action Plan is required by the 2008 Farm Bill every 10 years.",
+            "location": "Executive Summary",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "transnational": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Alaska and the Yukon Territory collaborate on wood energy opportunities, including through the Alaska-Yukon Wood Energy Conference. Forest health managers in Alaska and British Columbia coordinate information regarding spruce beetle outbreaks",
+            "location": "Multi-state areas that are a regional priority",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The boreal forest covers about one-third of Alaska, or 110 million acres, from the Kenai Peninsula in the south to the Brooks Range in the north",
+            "location": "Boreal forest",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecoregion": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "the forested ecoregions (Nowacki et al. 2001) were used to filter forested versus non-forested areas.",
+            "location": "Priority Landscape Area",
+            "sub_component": null,
+            "citations": ["Nowacki et al. 2001"]
+          }
+        ]
+      },
+      "province": {
+        "present": false,
+        "evidence": []
+      },
+      "section": {
+        "present": false,
+        "evidence": []
+      },
+      "subsection": {
+        "present": false,
+        "evidence": []
+      },
+      "lake": {
+        "present": false,
+        "evidence": []
+      },
+      "river": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Wild and Scenic River corridors, as well as lands managed under a multiple use, sustained yield mandate",
+            "location": "Bureau of Land Management Lands",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "district": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["Alaska", "Southeast Alaska", "Southcentral Alaska", "Interior Alaska", "Kenai Peninsula", "Matanuska-Susitna Borough", "Tanana Valley", "Tongass National Forest", "Chugach National Forest", "Fairbanks", "Anchorage", "Yukon Territory", "British Columbia"]
+    },
+    "biological_unit_score": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "of particular concern is that climate-induced vegetation change may cause the boreal forest to expand into tundra on the northern edge, while being replaced by grasslands at the southern edge.",
+          "location": "Climate change and fish and wildlife habitat",
+          "sub_component": "ecosystem/community",
+          "citations": []
+        },
+        {
+          "text": "Coniferous forest types may shift, , and with that, a shift in associated forest pests may occur (Bentz et al 2010).",
+          "location": "Climate change and forest health",
+          "sub_component": "species",
+          "citations": ["Bentz et al 2010"]
+        }
+      ],
+      "absence_note": {}
+    },
+    "biological_unit_components": {
+      "species": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Yellow-cedar decline has long impacted the yellow-cedar stands of Southeast Alaska and is directly connected to decreased early spring snowpack, which allows uninsulated fine roots to freeze, ultimately killing the tree.",
+            "location": "Climate change and forest health",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "population": {
+        "present": false,
+        "evidence": []
+      },
+      "habitat": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Climate change is a crossover threat with the State Wildlife Action Plan. According to the State Wildlife Action Plan, of particular concern is that climate-induced vegetation change may cause the boreal forest to expand into tundra on the northern edge, while being replaced by grasslands at the southern edge.",
+            "location": "Climate change and fish and wildlife habitat",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Climate change has already altered the structure and function of Alaska's boreal and coastal forests, and greater alterations are projected (Wolken et al. 2011)",
+            "location": "Climate change",
+            "sub_component": null,
+            "citations": ["Wolken et al. 2011"]
+          }
+        ]
+      },
+      "community": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Because of increases in fire frequency, the area of late successional boreal forest landcover is expected to decrease, while the area in early successional hardwood forest is expected to increase (Rupp et al. 2016). Decreased spruce growth is also expected. In some areas boreal forest could shift to grassland or shrubland.",
+            "location": "Climate change",
+            "sub_component": null,
+            "citations": ["Rupp et al. 2016"]
+          }
+        ]
+      },
+      "genotype_phenotype": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["yellow-cedar", "spruce beetle", "boreal forest", "coastal temperate rainforest", "tundra", "white spruce", "lodgepole pine", "Pacific salmon", "moose", "Sitka black-tailed deer"]
+    },
+    "partnerships_and_funding": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Over $1 million in federal funds are infused annually into the state economy through these programs. In addition, local governments and organizations contribute matching funds for projects.",
+          "location": "Cooperative Forestry Programs",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Partners are one of the main resources needed by the State Forester to implement the Forest Action Plan...Partners include, but are not limited to, federal agencies, state and local governments, soil and water conservation districts, organized partnerships, nonprofit organizations, volunteers and community-based organizations, academic institutions, tribal governments, Alaska Native Corporations, and professional and trade associations.",
+          "location": "Partners",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "Partnerships are broadly described (federal, state, tribal, NGO), and some funding figures are mentioned (e.g., $1M+ annually through cooperative programs, $5M for Tongass Young Growth project). However, funding and partnerships specifically for range-shift work or climate adaptation actions for wildlife/habitat are not identified. The document lacks strategic investment specifically for range-shift actions. Score 1: some funding and partnerships described, but limited and not targeted at range-shift science."
+    },
+    "climate_threat_habitat_degradation": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Climate change can dramatically change the structure and distribution of permafrost, which in turn can change surface hydrology...climate change is expected to result in drying in the boreal region. Because of increases in fire frequency, the area of late successional boreal forest landcover is expected to decrease",
+          "location": "Climate change",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_threat_species_vital_rates": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Yellow-cedar decline has long impacted the yellow-cedar stands of Southeast Alaska and is directly connected to decreased early spring snowpack, which allows uninsulated fine roots to freeze, ultimately killing the tree.",
+          "location": "Climate change and forest health",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_threat_biotic_stressors": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Climate change creates conditions that are more hospitable to some non-native plants and forest insects and causes land disturbance that provides for easier establishment of invasive plants (Wolken et al. 2011). In the Interior, several invasive plant species are known to invade newly burned areas, which means the projected increase in area burned and severity of wildfire in the boreal forest may increase the spread of invasive species over wider areas.",
+          "location": "Climate change and invasive species",
+          "sub_component": null,
+          "citations": ["Wolken et al. 2011"]
+        }
+      ],
+      "absence_note": {}
+    }
+  },
+  "actions": {
+    "priority_habitat_identification": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "While all of Alaska's forest provides benefits for wildlife, fish, and people, in order to focus limited funding resources, a Priority Landscape Area has been identified as providing the most opportunities to maximize the benefits of forests and combat the threats facing forests.",
+          "location": "Priority Landscape Area",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "GIS overlay analysis was used to determine the Priority Landscape Area using the selected GIS layers.",
+          "location": "Priority Landscape Area / GIS methodology",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The Priority Landscape Area is spatially explicit (GIS layers, maps), addressing habitat protection. However, it is not framed primarily in terms of climate-driven range shifts—it is driven by wildfire management, forest products, and stewardship. Score 2 is warranted because spatial representation of priority habitat for forest management is present and includes climate change as one of the threat inputs, even if not the primary framing."
+    },
+    "targeted_range_shift_actions": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Ecological niches for displaced flora and fauna may develop naturally or through assisted migration.",
+          "location": "Climate change and forest management",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "Assisted migration is mentioned once in the context of climate change opportunities, framed as a possibility rather than a specific planned action. This is sufficient for a score of 1 under the codebook's binary scale — the framing explicitly invokes climate change and range shifts as the motivation, even though the discussion is brief."
+    },
+    "time_bound_and_monitoring": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Principle 5. Consider best practices for wildlife habitat conservation in managed forest as hypotheses that can be verified for effectiveness and adjusted over time using an adaptive management approach to optimize desired outcomes for both forests and wildlife.",
+          "location": "Strategies to Conserve and Manage Working Forest Landscapes",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document endorses adaptive management as a principle and references NASF performance measures, but does not attach specific time-bound deadlines to individual actions. The 10-year plan revision cycle is plan-level, not action-level. Score 1: some deadline awareness (Farm Bill 10-year cycle, some strategy timelines referenced) but no action-level pairing of deadlines with effectiveness monitoring."
+    },
+    "evidence_of_efficacy": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "In Alaska, studies have shown that increased temperatures can decrease the time it takes for spruce beetles to complete their lifecycles, which can lead to rapid population increases (Werner & Holsten 1985, Hansen et al. 2001) and consecutive warm summers can lead to intense spruce beetle outbreaks (Berg et al 2006).",
+          "location": "Climate change and forest health",
+          "sub_component": null,
+          "citations": ["Werner & Holsten 1985", "Hansen et al. 2001", "Berg et al 2006"]
+        },
+        {
+          "text": "A single-year MCH-based tree protection research project was completed in partnership with the USDA Forest Service Rocky Mountain Research Station, and the results were published in the Journal of Economic Entomology in 2019 (Hansen et al. 2019). The MCH-based treatments were coupled with tree host scents of maple trees. The combination was successful in the Rocky Mountains, but the treatments were not found to effectively protect white spruce from spruce beetle attack in Alaska.",
+          "location": "Testing New Tools to Manage Spruce Beetle in Alaska",
+          "sub_component": null,
+          "citations": ["Hansen et al. 2019"]
+        }
+      ],
+      "absence_note": "The document provides limited evidence from applied studies to support specific management actions (e.g., spruce beetle control trials), which are relevant to climate-related forest health actions. Evidence is specific but from a different system (Rocky Mountains) with limited Alaska applicability, warranting score 2 (limited evidence). No strong, directly applicable case studies for range-shift-specific actions were found.",
+      "projects": ["MCH anti-aggregation pheromone trial (2018, Alaska): Tested spruce beetle repellent in partnership with USDA Forest Service Rocky Mountain Research Station. Results published in Journal of Economic Entomology (2019). The treatment was successful in the Rocky Mountains but not effective for protecting white spruce from spruce beetle attack in Alaska, demonstrating the context-specificity of pest management tools.", "SPLAT-MCH trial (2019, Alaska/Rocky Mountains): Evaluated a biodegradable paste impregnated with spruce beetle anti-aggregation pheromones. Preliminary results showed promise in Rocky Mountain forests but low treatment success in Alaska, illustrating limited cross-region transferability of management tools."]
+    },
+    "adaptation_planning_frameworks": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Principle 5. Consider best practices for wildlife habitat conservation in managed forest as hypotheses that can be verified for effectiveness and adjusted over time using an adaptive management approach to optimize desired outcomes for both forests and wildlife.",
+          "location": "Strategies to Conserve and Manage Working Forest Landscapes",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document references adaptive management as a guiding principle, including in the context of forest management under changing climate conditions. However, no specific named climate adaptation planning frameworks (RAD, RRT, CCVA, SDM as structured decision making, SBDA, etc.) are used or cited. Score 1: climate adaptation planning frameworks referenced non-specifically (adaptive management in a climate-change management context)."
+    }
+  },
+  "coding_meta": {
+    "coder": "llm:claude-sonnet-4-6",
+    "model": "claude-sonnet-4-6",
+    "provider": "claude",
+    "codebook_version": "0.4",
+    "ingest": "text",
+    "design": "single",
+    "temperature": null,
+    "thinking": null,
+    "thinking_effort": null,
+    "coded_at": "2026-07-07T00:31:30Z",
+    "notes": {}
+  }
+}

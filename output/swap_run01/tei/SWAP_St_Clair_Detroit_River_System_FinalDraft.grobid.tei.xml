@@ -1,0 +1,1244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main"></title>
+				<funder>
+					<orgName type="full">Canada</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">St</forename><surname>Clair -Detroit</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Contributors Michigan Department of Natural Resources</orgName>
+								<orgName type="department" key="dep2">Michigan Department of Natural Resources</orgName>
+								<orgName type="institution">Michigan Natural Features Inventory</orgName>
+								<address>
+									<settlement>Lansing</settlement>
+									<region>MI</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">River</forename><surname>System</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Contributors Michigan Department of Natural Resources</orgName>
+								<orgName type="department" key="dep2">Michigan Department of Natural Resources</orgName>
+								<orgName type="institution">Michigan Natural Features Inventory</orgName>
+								<address>
+									<settlement>Lansing</settlement>
+									<region>MI</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Kevin</forename><forename type="middle">E</forename><surname>Wehrly</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Contributors Michigan Department of Natural Resources</orgName>
+								<orgName type="department" key="dep2">Michigan Department of Natural Resources</orgName>
+								<orgName type="institution">Michigan Natural Features Inventory</orgName>
+								<address>
+									<settlement>Lansing</settlement>
+									<region>MI</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Andrew</forename><forename type="middle">S</forename><surname>Briggs</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Contributors Michigan Department of Natural Resources</orgName>
+								<orgName type="department" key="dep2">Michigan Department of Natural Resources</orgName>
+								<orgName type="institution">Michigan Natural Features Inventory</orgName>
+								<address>
+									<settlement>Lansing</settlement>
+									<region>MI</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">James</forename><forename type="middle">T</forename><surname>Francis</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Contributors Michigan Department of Natural Resources</orgName>
+								<orgName type="department" key="dep2">Michigan Department of Natural Resources</orgName>
+								<orgName type="institution">Michigan Natural Features Inventory</orgName>
+								<address>
+									<settlement>Lansing</settlement>
+									<region>MI</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Cleyo</forename><surname>Harris</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Contributors Michigan Department of Natural Resources</orgName>
+								<orgName type="department" key="dep2">Michigan Department of Natural Resources</orgName>
+								<orgName type="institution">Michigan Natural Features Inventory</orgName>
+								<address>
+									<settlement>Lansing</settlement>
+									<region>MI</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Jan- Michael</forename><surname>Hessenhauer</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Contributors Michigan Department of Natural Resources</orgName>
+								<orgName type="department" key="dep2">Michigan Department of Natural Resources</orgName>
+								<orgName type="institution">Michigan Natural Features Inventory</orgName>
+								<address>
+									<settlement>Lansing</settlement>
+									<region>MI</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Brad</forename><forename type="middle">E</forename><surname>Utrup</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Contributors Michigan Department of Natural Resources</orgName>
+								<orgName type="department" key="dep2">Michigan Department of Natural Resources</orgName>
+								<orgName type="institution">Michigan Natural Features Inventory</orgName>
+								<address>
+									<settlement>Lansing</settlement>
+									<region>MI</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Todd</forename><forename type="middle">C</forename><surname>Wills</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Contributors Michigan Department of Natural Resources</orgName>
+								<orgName type="department" key="dep2">Michigan Department of Natural Resources</orgName>
+								<orgName type="institution">Michigan Natural Features Inventory</orgName>
+								<address>
+									<settlement>Lansing</settlement>
+									<region>MI</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Scott</forename><forename type="middle">K 2026</forename><surname>Hanshue</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Contributors Michigan Department of Natural Resources</orgName>
+								<orgName type="department" key="dep2">Michigan Department of Natural Resources</orgName>
+								<orgName type="institution">Michigan Natural Features Inventory</orgName>
+								<address>
+									<settlement>Lansing</settlement>
+									<region>MI</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><surname>Michigan'</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Contributors Michigan Department of Natural Resources</orgName>
+								<orgName type="department" key="dep2">Michigan Department of Natural Resources</orgName>
+								<orgName type="institution">Michigan Natural Features Inventory</orgName>
+								<address>
+									<settlement>Lansing</settlement>
+									<region>MI</region>
+								</address>
+							</affiliation>
+						</author>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">78D7367194D810EEE877337834B1797E</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.1" ident="GROBID" when="2026-07-06T12:27+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Clair has a surface area of 430 square miles and is relatively shallow, averaging a depth of 11 feet and a maximum natural depth of 23 feet. The Detroit River is the outlet of Lake St. Clair and flows 32 miles to Lake Erie. The western basin of Lake Erie is also included with the SCDRS. The habitats associated with these waters are complex and include Great Lakes Marsh, nearshore Littoral Zones, open lake and tributary habitats and upland communities. The Great Lakes Marshes provide crucial habitat for many species of plants and animals and represent the most biologically significant habitats for migratory birds in the region. The wetlands of the St. Clair Flats provide habitat for a diverse assemblage of mammals, birds, amphibians, invertebrates and plants. Nearshore Littoral Zones and tributaries provide fish and amphibians with spawning and nursery areas. The open waters of the Detroit and St. Clair rivers provide a broad array of habitat types and support diverse fish communities. The bays and wetlands along the river shores provide spawning and nursery habitats for multiple species and resting and foraging areas for migratory waterfowl. Tributaries to the St. Clair River include the Black, Pine and Belle Rivers which support several Species of Greatest Conservation Need. Other large Michigan tributaries within the SCDRS include the Clinton River, Rouge River, Huron River and River Raisin. Rare natural communities found in the SCDRS include lake plain prairie, wet-mesic flatwoods and southern hardwood swamp.</p><p>Why is the St. Clair -Detroit River System important?</p><p>The St. Clair River, Lake St. Clair and the Detroit River are ecologically and economically significant international waters that connect Lake Huron to Lake Erie. These waters are the connection between the upper and lower Great Lakes for commercial navigation and provide drinking water to millions of Michigan residents. Along this corridor there are many great places to</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>recreate, including the Detroit River International Wildlife Refuge, Ottawa National Wildlife Refuge, numerous State Parks and many other conservation lands. The region is a recreational boating destination. It also supports the nation's most productive sport fisheries for Walleye, Smallmouth Bass and Muskellunge (Manny 2003) and one of the most robust Lake Sturgeon populations in the Great Lakes. The SCDRS is a globally important breeding area for two hundred migratory bird species. Southeastern Michigan sits at the convergence of the Mississippi and Atlantic flyways, two major bird migration routes in North America (Bull and Craves 2003). People flock to the area during spring and fall bird migrations. The diverse habitats in the SCDRS support 65 species of fish and numerous species of birds, amphibian, reptile, mammals and mussels. The St. Clair River and delta are one of the few refuges in the Great Lakes that still contain healthy populations of native mussels. The SCDRS provides world-class wildlife recreational opportunities and a hot spot for biodiversity, all within a short distance of Detroit, the most populous city in Michigan.</p><p>What is the health of St. Clair -Detroit River System?</p><p>The environmental condition of the SCDRS has been altered for many human uses. The rivers have been dredged to allow deep-draft navigation; wetlands have been drained and filled for agriculture, residential and commercial development; shorelines have been hardened; and industrial pollutants have left a legacy of contamination. Fish and wildlife communities have been affected by loss of habitat, contaminated sediments and poor water quality and unintended introduction of non-native species. As a result, several Areas of Concern within the St. Clair -Detroit River System have been recognized by the United States and Canada: St. Clair River, Clinton River, Detroit River, River Raisin, and the Rouge River. Each Area of Concern has identified Beneficial Use Impairments, including loss of fish and wildlife populations and habitats. The United States and Canada have pledged their cooperation to restore these Great Lake connecting channels under the terms of the Great Lakes Water Quality Agreement (U.S. and Canada 2012). For example, binational efforts to restore impaired wetland and Lake Sturgeon spawning habitats are ongoing throughout the SCDRS.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Goals</head><p>• Reduce sources of nutrients, sediments and other pollutants that impair water quality and aquatic habitats. <ref type="bibr">[LEBCS; SCDRS]</ref> • Protect, enhance and restore habitats that support focal species. <ref type="bibr">[LEBCS; SCDRS]</ref> • Protect, enhance and restore connectivity for focal species. <ref type="bibr">[LEBCS; LS; SCDRS]</ref> • Prevent the entry and establishment of new invasive species and control the production and spread of existing invasive species. <ref type="bibr">[AIS; LEBCS; SCDRS; TIS]</ref> Focal species</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Northern Madtom</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Noturus stigmosus</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>State endangered</head><p>This small member of the catfish family is readily recognized by three irregular dark saddle markings on the back located at the front of the dorsal fin, behind the dorsal fin and near the tail. This species is found in small to large rivers with moderate to strong currents and substrates of sand, gravel, or rock. The Northern Madtom is nocturnal and avoids shallow waters during the day (Trautman 1981, Goodchild 1993, Latta 2005). There are only three known populations of Northern Madtom in Michigan and they are rare or critically imperiled throughout their range.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Goals</head><p>• Monitor baseline distribution and relative abundance.</p><p>• Develop a better understanding of critical life history characteristics and habitat use.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Mooneye</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Hiodon tergisus</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>State threatened</head><p>The Mooneye is one of two extant members of the family Hiodontidae, meaning tooth-tongued. They typically occur in large rivers and lakes, spawn during the spring and their diet primarily consists of insects. Its other defining characteristics are its silvery, deep, laterally compressed body, a large eye (from which it gets its name) with a half gold/half silver iris and a small, upturned mouth. Mooneye mature between ages 3 and 5, depending upon sex and their eggs float, which is uncommon for freshwater fish.</p><p>Mooneye are exclusive to North America and have a geographic range that is discontinuous.</p><p>Michigan is presumed to be at the northern edge of the Mooneye's range, although their true historical range is unknown because of frequent misidentification with similar-looking and relatively common species like Gizzard Shad, Alewife and some Cisco. Its discontinuous distribution, with isolated local populations, makes Mooneye highly susceptible to extinction because losses due to natural-or human-induced disturbances cannot be replaced by neighboring populations. Preserving this species is important for the biodiversity of Michigan as well as North America.</p><p>In the Great Lakes basin, Mooneye have been found in lakes Michigan, Huron, St. Clair and Erie, although they seem to be historically scarce in lakes Michigan and Huron. Within the last four decades they have only been found in relatively low numbers in Lake St. Clair and the Detroit River, as well as the Sydenham and Thames rivers in Ontario. Contemporary biological data are even more rare than observations of the species, which typically come from angler reports of incidental Mooneye catch. While basic information like length, weight and age are available from the 1920s and 1930s, little has been available in modern days.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Goals</head><p>• Improve our understanding of Mooneye distribution and relative abundance.</p><p>• Collect contemporary basic biological data including length, weight and age from male and female Mooneyes.</p><p>• Identify seasonally occupied critical habitats, such as spawning areas, for Mooneye within the St. Clair-Detroit River System and its tributaries.</p><p>• Describe the timing and spatial extent of movements to determine if Mooneyes are seasonal or year-round residents of the St. Clair-Detroit River System and its tributaries.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Silver Chub</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Macrhybopsis storeriana</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>State threatened</head><p>The Silver Chub is a stocky minnow that can approach nine inches in total length. The fish can be identified by its large eye, short snout and silvery sides. In Michigan they occur only in the SCDRS, primarily in the waters of the West Basin of Lake Erie, though records from Lake St. Clair and the Detroit River also exist.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Goals</head><p>• Develop baseline of distribution and relative abundance.</p><p>• Develop a better understanding of critical life history characteristics and habitat use.</p><p>• Coordinate with other agencies collecting data on Silver Chub.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Mudpuppy</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Necturus maculosus</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Special Concern</head><p>The Mudpuppy is Michigan's largest salamander, reaching lengths up to 15 inches. They make squeaky vocalizations that sound like a dog's bark when taken out of the water and distressed. Unlike other salamanders, the Mudpuppy is aquatic for the entirety of its life cycle and is easily identified by its external bushy reddish gills visible behind its head. Mudpuppies can be distinguished from other large salamanders by the presence of only four toes on their hind feet (Harding 1997). Mudpuppies are found throughout the state in rivers, inland lakes and Great Lakes bays and shoal areas. Largely nocturnal, Mudpuppies are found under the cover of rocks and logs, or other suitable structures. Populations appear to be declining; anecdotal accounts suggest the species has become rare or absent in locations where it was once common in the 1970s and 1980s.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Goals</head><p>• Develop baseline of distribution and relative abundance.</p><p>• Develop a better understanding of critical life history characteristics and specific habitat needs.</p><p>• Increase awareness of Mudpuppies and their importance.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Lake Sturgeon</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Acipenser fulvescens</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>State threatened</head><p>The Lake Sturgeon is Michigan's largest and longest-lived fish species and is often referred to as a living fossil. Lake Sturgeon can exceed 7 feet in length and weigh over 200 pounds and reach ages of over 100 years. Lake Sturgeon have five rows of bony plates called scutes along their body, a relatively long snout with four barbels and a shark-like tail. Although they primarily live and feed near the lake or river bottom, Lake Sturgeon can often be seen leaping and breaching the water surface. Lake Sturgeon will occupy a wide range of habitats, with young juveniles often being found in deep pools within their natal streams and adults generally in depths over 20 feet during non-spawning periods. Spawning habitats include gravel-cobble shoals and large rubble in rivers.</p><p>Traditionally it is thought that Lake Sturgeon live in deeper lakes and migrate to shallow rivers to spawn, but in the St. Clair-Detroit River System Lake Sturgeon spawn primarily in deep waters of the St. Clair and Detroit Rivers as that is where the desired spawning substrate is located. Additionally, many Lake Sturgeon reside in the St. Clair and Detroit Rivers year-round (Kessel et  al. 2018). Shallow waters with fine substrates are crucial nursery habitats. Throughout the Great Lakes basin Lake Sturgeon are at less than 1% of their historical abundance due to habitat loss and historical over-expoitation; however, many of these populations have retained genetic diversity and population specific structuring should be preserved (Welsh et al. 2010). The Lake Sturgeon populations residing in the St. Clair-Detroit River System are considered large and stable and contain over 30,000 individuals, representing the largest population of Lake Sturgeon with direct access to the Great Lakes (Chiotti et al. 2023).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Goals</head><p>• Refine population status and trends.</p><p>• Maintain self-sustaining populations that allow for a recreational fishery throughout the St. Clair -Detroit River System.</p><p>• Evaluate habitat limitations and address knowledge gaps on various life stages use of different habitats in the St. Clair -Detroit River System.</p><p>• Maintain, enhance and restore habitat to achieve no net loss of Lake Sturgeon natural reproduction potential.</p><p>• Increase public awareness and public involvement in Lake Sturgeon management efforts in the St. Clair -Detroit River System.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Black Sandshell</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Ligumia recta</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>State threatened</head><p>The Black Sandshell is a large mussel species with a smooth, elongate shell ranging in color from dark green to black and can reach up to 9 inches. Green rays are sometimes visible in juveniles, but they are often darkly colored as adults. Black Sandshell is characterized with a low, broad beak, pointed posterior and rounded anterior ends. Black Sandshell do not have known, specific habitat requirements and commonly occupy rivers with strong currents and lakes with a firm substrate of gravel, sand and cobble (Waters et al. 2009). Black Sandshell use fish species like Walleye and Rock Bass as hosts during their larval stage, called glochidia, for development and dispersal. Native freshwater mussels in the SCDRS, including Black Sandshell, have been severely impacted by the introduction of the invasive dreissenid mussels but persist in tributaries and sparse refuge areas like the St. Clair River delta (Keretz et al 2024).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Goals</head><p>• Improve our understanding of Black Sandshell distribution and relative abundance.</p><p>• Develop a better understanding for habitat requirements where the species persists. • Invasive plants and animals alter ecosystems and may out-compete native species.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Natural Systems Modifications</head><p>• Dams in tributaries and shoreline armoring have resulted in loss of connectivity among habitats (Auer 1999; Derosier 2004; Hayes and Caroffino 2012).</p><p>• Increased siltation and turbidity due to changes in land uses within the watershed (Trautman 1981; Smith 1985; Derosier 2004).</p><p>• Dredging due to low lake levels results in loss of habitat.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Residential &amp; Commercial Development</head><p>• Shoreline development removes and simplifies habitat.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Energy Production &amp; Mining</head><p>• Experimental trials of kinetic hydropower systems have caused direct mortality and alteration of habitats.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Transportation &amp; Service Corridors</head><p>• Potential pollution from ruptured pipelines.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Pollution</head><p>• Toxicants from historical discharges and recent accidental spills have contaminated sediments.</p><p>• Contaminants of emerging concern, including microplastics and pharmaceuticals; effects are largely unknown (Pal et al. 2010).</p><p>• Increased nutrient loadings from point sources and non-point sources foster nuisance algal growth.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Changing Weather Patterns</head><p>• Extreme lake level fluctuations could decrease available habitat, effects of changes in water temperatures on focal species are not fully understood (Pryor et al. 2014).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conservation Actions</head><p>Land &amp; Water Management H1. Increase riparian complexity and connectivity through softened shorelines and by increasing native riparian vegetation. <ref type="bibr" target="#b7">SCRAOC;</ref><ref type="bibr">CRAOC;</ref><ref type="bibr">DRAOC;</ref><ref type="bibr" target="#b4">RRAOC;</ref><ref type="bibr" target="#b2">LELAMP]</ref> H2. Increase wetland quantity and quality and shallow-water habitats. [DU; <ref type="bibr" target="#b7">SCRAOC;</ref><ref type="bibr">CRAOC;</ref><ref type="bibr">DRAOC;</ref><ref type="bibr" target="#b4">RRAOC;</ref><ref type="bibr" target="#b2">LELAMP]</ref> H3. Complete habitat improvement projects to remove Loss of Fish and Wildlife Habitat Beneficial Use Impairments identified in the Areas of Concern in the St. Clair -Detroit River System. <ref type="bibr" target="#b7">SCRAOC;</ref><ref type="bibr">CRAOC;</ref><ref type="bibr">DRAOC;</ref><ref type="bibr" target="#b4">RRAOC;</ref><ref type="bibr" target="#b2">LELAMP]</ref> H4. Implement Michigan's Aquatic and Terrestrial Invasive Species State Management Plans.</p><p>[AIS; LEBCS-6.3; SCDRS-16, 17,19, 20; LELAMP]   H5. Increase continuous area of functional wetlands and their connectivity in the St. Clair -Detroit River System. <ref type="bibr" target="#b2">LELAMP]</ref> H6. Develop a list of priority sediment remediation projects required for Degradation of Benthos Beneficial Use Impairment removal in the Detroit River. <ref type="bibr">DRAOC]</ref> H7. Increase river spawning habitat. <ref type="bibr" target="#b7">SCRAOC;</ref><ref type="bibr">DRAOC;</ref><ref type="bibr" target="#b2">LELAMP;</ref><ref type="bibr" target="#b5">RSNM]</ref> Raising Awareness H8. Develop and promote outreach and education materials for the St. Clair -Detroit River System that discuss the ecological and economic values this system provides and habitat restoration efforts using Lake Sturgeon as an example species recovery story.  H9. Provide recreational users, researchers and industry with voluntary best management practices for stopping the introduction and spread of invasive species. [AIS; LEBCS-6.3; SCDRS; TIS] H10. Promote Great Lakes Aquatic Nonindigenous Species Information Network (GLANSIS);</p><p>Clean Boats, Clean Waters Initiative; and, implement other strategies to prevent the establishment and spread of invasive species. <ref type="bibr">20]</ref> H11. Support and promote best management practices to prevent losses of sediment and nutrients from agricultural lands.  Conservation Designation &amp; Planning H12. Identify and protect critical habitat areas for rare species, including riverine and river mouth habitats. <ref type="bibr" target="#b5">RSNM]</ref> H13. Prioritize dam removals in tributaries to the St. Clair -Detroit River System. <ref type="bibr">[LEBCS; RRAOC; LELAMP]</ref> H14. Continue to support and implement watershed management and green infrastructure plans in the watershed and other drainage areas adjacent to the St. Clair -Detroit River System.  H15. Conduct an inventory of shoreline condition, including islands, to prioritize protection and restoration efforts.  H16. Continue to characterize contaminated sediments and identify priority remediation sites in the St. Clair -Detroit River System. <ref type="bibr">DRAOC;</ref><ref type="bibr" target="#b4">RRAOC;</ref><ref type="bibr" target="#b2">LELAMP]</ref> Law &amp; Policy H17. Support phosphorus reduction policies and other Domestic Action Plan actions identified under the Annex 4 (Nutrients) of the Great Lakes Water Quality Agreement to reduce loading from regulated and unregulated sources of phosphorus. <ref type="bibr" target="#b2">LELAMP]</ref> H18. Take appropriate enforcement actions for violations of the Invasive Species Order and maintain the Prohibited and Restricted Species list pursuant to the Natural Resources and Environmental Protection Act, 451 of 1994, as amended. <ref type="bibr">[AIS]</ref> Research &amp; Monitoring H19. Continue to expand the U.S. Geological Survey coastal wetland restoration assessment to aid in identifying priority sites.</p><p>[LCC] H20. Complete and implement the U. S. Geological Survey coastal wetland functional assessment to provide both local and landscape assessments of coastal wetland restoration projects.</p><p>[LCC] H21. Develop surveillance monitoring for aquatic invasive species. <ref type="bibr" target="#b2">LELAMP]</ref> H22. Identify contaminants of concern (e.g., pharmaceuticals, personal care products, microplastics), determine sources and develop load reduction strategies. <ref type="bibr" target="#b2">LELAMP;</ref><ref type="bibr" target="#b5">RSNM]</ref> H23. Conduct comprehensive aquatic plant community survey using the best available technology and compare with past survey efforts. H24. Use and promote the Midwest Invasive Species Information Network (MISIN) to monitor invasive species. <ref type="bibr">[AIS; TIS]</ref> Threats and conservation actions for focal species</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Threats for all</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Lack of Knowledge</head><p>• Lack of information on distribution, relative abundance and limiting factors of focal species (Carman 2001a; Derosier 2004; Pollock et al. 2015).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Natural Systems Modifications</head><p>• Removal of rock, large woody material and other suitable materials removes crucial habitat for Mudpuppies.</p><p>• Dredging and other projects impacting the substrate can directly and indirectly harm Black Sandshell as well as remove crucial habitat</p><p>Transportation &amp; Service Corridors</p><p>• Lake Sturgeon injuries and mortalities due to collisions with boats.</p><p>Biological Resource Use S11. Develop a Mudpuppy Conservation Plan for the St. Clair -Detroit River System. S12. Develop a conservation plan for Northern Madtom for Michigan.  Research &amp; Monitoring S13. Identify and protect critical habitat areas for rare species, including riverine and river mouth habitats. <ref type="bibr" target="#b3">[LS;</ref><ref type="bibr" target="#b0">LEBCS;</ref><ref type="bibr" target="#b5">RSNM]</ref> S14. Gather more information about early life history and spawning requirements for focal species. S15. Determine most effective sampling methods for all life stages of the Northern Madtom, Black Sandshell and Mooneye. <ref type="bibr" target="#b5">RSNM]</ref> S16. Update distribution maps for Northern Madtom, Black Sandshell and Mooneye by pulling together all existing information collected by conservation partners.  S17. Determine Lake Sturgeon juvenile habitats and locations. <ref type="bibr" target="#b3">[LS;</ref> S18. Continue to evaluate trends of the Lake Sturgeon population and meta-population structure and sizes.  S19. Determine feasibility of reestablishing tributary spawning populations of Lake Sturgeon in the Clinton River. <ref type="bibr" target="#b3">[LS;</ref> S20. Determine focal species use of tributaries and the effects of dams and barriers.  S21. Use information gathered in hydropower pilot projects to determine potential effects of future projects on focal species and their habitats.</p><p>How Will We Monitor?</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Habitat</head><p>• Inventory areas of significant sediment contamination in the Detroit River and prioritize sites for remediation. <ref type="bibr">DRAOC]</ref> • Continue Great Lakes Coastal Monitoring Project to provide data on shoreline habitat quality. <ref type="bibr">[LEBCS; SCDRS]</ref> Northern Madtom, Mooneye</p><p>• Continue Michigan Department of Natural Resources Northern Madtom minnow trap surveys.  • Continue U.S. Geological Survey juvenile fish seining surveys.  • Continue collaborative St. Clair -Detroit River System fish community surveys with Ontario Ministry of Natural Resources and U.S. Fish and Wildlife Service (Briggs et al.  2025)  • Conduct and expand targeted surveys to determine distribution and relative abundance (e.g., Utrup et al. 2023).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Mudpuppy</head><p>• Conduct targeted survey to determine distribution and relative abundance.</p><p>• Use citizen science programs, such as the Herp Atlas, to help assess distribution and relative abundance.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Lake Sturgeon</head><p>• Continue annual Lake Sturgeon surveys of all life stages conducted by U.S. Fish and Wildlife Service, U.S. Geological Survey and Michigan Department of Natural Resources.</p><p>[LS; SCDRS-14]   • Use acoustic telemetry and the Great Lakes Telemetry Observation System to determine habitat usage and movement patterns by juvenile, sub-adult and adult Lake Sturgeon throughout the St. Clair -Detroit River System</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Black Sandshell</head><p>• Continue to capture freshwater mussel survey and relocation effort results when required for EGLE permitted projects.</p><p>• Conduct targeted surveys to determine distribution and relative abundance.</p><p>• Continue to update element occurrences in the state's Natural Heritage Database.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Places For partnership</head><p>This map is designed to help partners connect around important places for focal species.</p><p>Working together on conservation actions on a voluntary basis provides great benefits to wildlife and people.</p><p>This map is based on partner priorities.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Links to other conservation plans</head><p>There has been a multitude of relevant planning efforts across the state and country over the past ten years. Bracketed superscripts throughout the Wildlife Action Plan indicate where the conservation action, goal, or monitoring strategy aligns with those from another plan. For conservation plans with distinct objectives, the objective or strategy number is also included. This linking of plans is meant to facilitate the expansion of partnerships.</p><p>[AIS] Michigan's aquatic invasive species state management plan 2025 update. (QOL-AIS  et al. in prep.)   [AIS] Michigan's Aquatic Invasive Species State Management Plan 2013 Update (MDEQ  et al. 2013).</p><p>[CRAOC] Clinton River Area of Concern -delisting targets for fish/wildlife habitat &amp; population beneficial use impairments for the Clinton River Area of Concern (ECT 2009).</p><p>[DRAOC] Detroit River Area of Concern -delisting targets for removal of the loss of fish &amp; wildlife habitat and degradation of fish &amp; wildlife populations beneficial use impairments of the Detroit River Area of Concern (DRPAC 2014).</p><p>[DU] Ducks Unlimited: Great Lakes Initiative.</p><p>[LCC] Upper Midwest and Great Lakes Landscape Conservation Cooperative: Coastal Conservation Focal Area.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="3,72.00,289.56,337.80,337.80" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="5,72.00,72.00,337.80,337.80" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="6,72.00,72.00,337.80,337.80" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="7,72.00,134.13,337.80,337.80" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="9,72.00,72.00,337.50,337.50" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="10,72.00,72.00,337.50,337.50" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="17,72.00,72.00,323.94,251.95" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Call Out Box: How Vulnerable are Focal Species to Climate Changes</head><label></label><figDesc></figDesc><table><row><cell cols="2">Threats and conservation actions for habitat</cell></row><row><cell>Threats</cell><cell></cell></row><row><cell cols="2">Invasive &amp; Other Problematic Species, Genes &amp; Diseases</cell></row><row><cell>Species</cell><cell>Climate vulnerability</cell></row><row><cell>Lake Sturgeon</cell><cell>High</cell></row><row><cell>Mooneye</cell><cell>Moderate</cell></row><row><cell>Northern Madtom</cell><cell>Moderate</cell></row><row><cell>Silver Chub</cell><cell>Moderate</cell></row><row><cell>Mudpuppy</cell><cell>Moderate</cell></row><row><cell>Black Sandshell</cell><cell>Moderate</cell></row></table><note><p>? Hoving et al. (2013) determined climate vulnerabilities for focal species. See threats section for more specifics about how climate change may affect species and habitats. Climate vulnerability rankings are based on the likelihood and amount of change in species abundance or range by 2050 -extreme = extremely likely to substantially decrease or disappear; high = likely to significantly decrease; moderate = a modest decrease is likely.</p></note></figure>
+		</body>
+		<back>
+
+			<div type="funding">
+<div><p>What is the St. Clair -Detroit River System?</p><p>The St. Clair -Detroit River System (SCDRS) connects the upper and lower Great Lakes and includes the international boundary between the <rs type="institution">United States</rs> and <rs type="funder">Canada</rs>. The St. Clair River is the natural outlet of <rs type="person">Lake Huron</rs> and flows approximately 40 miles in a southerly direction to <rs type="person">Lake St. Clair. Prior</rs> to entering Lake St. Clair, the river becomes braided creating an extensive delta known as the St. Clair Flats. Lake St.</p></div>
+			</div>
+			<listOrg type="funding">
+			</listOrg>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>• Poaching of Lake Sturgeon (Hayes and Caroffino 2012).</p><p>• Human persecution; Mudpuppies are often an unwanted bycatch by ice anglers and are intentionally destroyed because they are falsely believed to compete with game fish species.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Pollution</head><p>• Bioaccumulation of contaminants may decrease viability of Lake Sturgeon eggs and reproduction (Hay-Chmielewski and Whelan 1997).</p><p>• Degraded water quality in tributaries (Healy et al. 2008) potentially limiting distribution of focal species (Carmen 2001a).</p><p>• Lampricides contribute to mortality of focal species (Hayes and Caroffino 2012).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conservation Actions for all</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Species Management</head><p>S1. Focal species are present in waters shared by the United States and Canada. Conservation efforts should be coordinated and implemented through existing collaborative groups such as the St. Clair-Detroit River System Initiative and Great Lakes Fishery Commission's Lake and Technical Committees. <ref type="bibr">[LELAMP; RSNM; LECFCO]</ref> S2. Continue to implement Michigan's Lake Sturgeon rehabilitation strategy and complete the SCDRS Lake Sturgeon Management Plan. <ref type="bibr">[LS]</ref> S3. Continue to work with conservation partners on Lake Sturgeon recovery efforts. <ref type="bibr">[LS]</ref> S4. Continue maintenance for installed Lake Sturgeon spawning reefs and monitor their use.</p><p>[LS; SCDRS-5,13; SCRAOC]   S5. Maintain a self-sustaining Lake Sturgeon population with a stable trajectory in the St. Clair -Detroit River System. <ref type="bibr">[LECFCO]</ref> S6. Continue to work with EGLE to minimize impacts to focal species and their critical habitat when construction projects are considered for permitting. </p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<monogr>
+		<title level="m">Lake Erie biodiversity conservation strategy: technical report</title>
+		<imprint>
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<title level="m" type="main">Lake Erie Committee Fish Community Objectives</title>
+		<imprint>
+			<date type="published" when="2020">Francis et al. 2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<title level="m" type="main">Lake Erie Lakewide Action and Management Plan (ECCC and USEPA 2021)</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<title level="m" type="main">Michigan&apos;s lake sturgeon rehabilitation strategy</title>
+		<imprint>
+			<date type="published" when="2012">2012</date>
+			<publisher>Hayes and Caroffino</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<monogr>
+		<title level="m" type="main">Rouge River Area of Concern -delisting targets for fish &amp; wildlife habitat &amp; population beneficial use impairments for the Rouge River Area of Concern</title>
+		<imprint>
+			<date type="published" when="2008">2008</date>
+			<publisher>ECT</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<monogr>
+		<title level="m">Recovery Strategy for the Northern Madtom (Noturus stigmosus) in Canada</title>
+		<imprint>
+			<date type="published" when="2012">Edwards et al. 2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<monogr>
+		<title level="m">Selected priority objectives for the St. Clair Detroit River System Initiative</title>
+		<imprint>
+			<publisher>SCDRS</publisher>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<monogr>
+		<title level="m" type="main">Clair River Area of Concern delisting targets for loss of fish/wildlife habitat beneficial use impairment of the St. Clair River Area of Concern</title>
+		<author>
+			<persName><surname>St</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2012">2012</date>
+			<publisher>ECT</publisher>
+		</imprint>
+	</monogr>
+	<note>Literature cited</note>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Lake sturgeon: a unique and imperiled species in the Great Lakes</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Auer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Great Lakes fisheries policy and management: a binational perspective</title>
+		<editor>
+			<persName><forename type="first">W</forename><forename type="middle">W</forename><surname>Taylor</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">C</forename><forename type="middle">P</forename><surname>Ferreri</surname></persName>
+		</editor>
+		<meeting><address><addrLine>East Lansing, Michigan</addrLine></address></meeting>
+		<imprint>
+			<publisher>Michigan State University Press</publisher>
+			<date type="published" when="1999">1999</date>
+			<biblScope unit="page" from="515" to="536" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Development of a collaborative long-term fish community assessment in the St. Clair -Detroit River System</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">S</forename><surname>Briggs</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Thorn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Towne</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Belore</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Cook</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Harris</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J.-M</forename><surname>Hessenauer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Slavik</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Thomas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Wills</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Wright</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.jglr.2024.102500?utm_source=chatgpt.com</idno>
+		<ptr target="https://doi.org/10.1016/j.jglr.2024.102500" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Great Lakes Research</title>
+		<imprint>
+			<date type="published" when="2025">2025</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<monogr>
+		<title level="m" type="main">Biodiversity of the Detroit River and Environs: Past, Present and Future Prospects</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">N</forename><surname>Bull</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Craves</surname></persName>
+		</author>
+		<editor>Hartig, J.H</editor>
+		<imprint>
+			<date type="published" when="2003">2003</date>
+			<pubPlace>Bloomfield Hills, Michigan</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>Cranbrook Institute of Science</orgName>
+		</respStmt>
+	</monogr>
+	<note>Honoring Our Detroit River: Caring for our home</note>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<monogr>
+		<title level="m" type="main">2001a. Special animal abstract for Noturus stigmosus (Northern Madtom)</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Carman</surname></persName>
+		</author>
+		<imprint>
+			<publisher>Michigan Natural Features Inventory</publisher>
+			<pubPlace>Lansing, Michigan</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Chiotti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Boase</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">S</forename><surname>Briggs</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Davis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Drouin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">W</forename><surname>Hondorp</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Mohr</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">F</forename><surname>Roseman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">V</forename><surname>Thomas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">C</forename><surname>Wills</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Lake Sturgeon population trends in the St. Clair -Detroit River System</title>
+		<imprint>
+			<date type="published" when="2001">2023. 2001-2019</date>
+			<biblScope unit="volume">43</biblScope>
+			<biblScope unit="page" from="1066" to="1080" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Influence of spatial extent on current and future threat evaluation for imperiled fluvial fishes and mussels in Michigan</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">R</forename><surname>Cooper</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">E</forename><surname>Wehrly</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S-K</forename><surname>Yeh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Infante</surname></persName>
+		</author>
+		<idno type="DOI">10.3390/w14213464</idno>
+		<ptr target="https://doi.org/10.3390/w14213464" />
+	</analytic>
+	<monogr>
+		<title level="j">USA. Water</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page">3463</biblScope>
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<monogr>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">L</forename><surname>Derosier</surname></persName>
+		</author>
+		<title level="m">Special animal abstract for Hiodon tergisus (Mooneye). Michigan Natural Features Inventory</title>
+		<meeting><address><addrLine>Lansing, Michigan</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<monogr>
+		<title level="m" type="main">Targets for removal of the loss of fish &amp; wildlife habitat and degradation of fish &amp; wildlife populations beneficial use impairments of the Detroit River Area of Concern. Detroit River Public Advisory Council Fish and Wildlife Technical Committee</title>
+		<imprint>
+			<date type="published" when="2014">2014</date>
+			<publisher>Detroit River Public Advisory Council (DRPAC)</publisher>
+			<pubPlace>Detroit, Michigan</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<monogr>
+		<title level="m" type="main">Delisting targets for fish &amp; wildlife habitat &amp; population beneficial use impairments for the Rouge River Area of Concern</title>
+		<author>
+			<persName><surname>Ect</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2008">2008</date>
+			<publisher>Environmental Consulting and Technology, Inc</publisher>
+			<pubPlace>Ann Arbor, Michigan</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<monogr>
+		<title level="m" type="main">Delisting targets for fish/wildlife habitat &amp; population beneficial use impairments for the Clinton River Area of Concern</title>
+		<author>
+			<persName><surname>Ect</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2009">2009</date>
+			<publisher>Environmental Consulting and Technology, Inc</publisher>
+			<pubPlace>Ann Arbor, Michigan</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<monogr>
+		<title level="m" type="main">Delisting targets for loss of fish/wildlife habitat beneficial use impairment of the St. Clair River Area of Concern</title>
+		<author>
+			<persName><surname>Ect</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2012">2012</date>
+			<publisher>Environmental Consulting and Technology, Inc</publisher>
+			<pubPlace>Ann Arbor, Michigan</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Recovery strategy for the Northern Madtom (Noturus stigmosus) in Canada</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">L</forename><surname>Edwards</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">Y</forename><surname>Laurin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">K</forename><surname>Staton</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">viii + 42 pp. Environment and Climate Change Canada and the U.S. Environmental Protection Agency. 2021. Lake Erie Lakewide Action and Management Plan</title>
+		<meeting><address><addrLine>Ottawa, Canada</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2012">2012. 2019-2023</date>
+		</imprint>
+	</monogr>
+	<note>Species at Risk Act Recovery Strategy Series. Fisheries and Oceans</note>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<monogr>
+		<title level="m" type="main">Fish Community objectives for the Lake Erie basin. Great Lakes Fishery Commission</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Francis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Hartman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Kuhn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Locke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Robinson</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2020">2020</date>
+			<pubPlace>Ann Arbor, Michigan</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Status of the Northern Madtom, Noturus stigmosus</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">D</forename><surname>Goodchild</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Canada. Canadian Field Naturalist</title>
+		<imprint>
+			<biblScope unit="volume">107</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="417" to="422" />
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Amphibians and reptiles of the Great Lakes Region</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">J</forename><surname>Graeter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">A</forename><surname>Buhlmann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">R</forename><surname>Wilkinson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">2013. Inventory and monitoring: Recommended techniques for reptiles and amphibians. Partners in Amphibian and Reptile Conservation Technical Publication IM-1</title>
+		<editor>
+			<persName><forename type="middle">W</forename><surname>Gibbons</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Birmingham, Alabama.Harding; Ann Arbor, Michigan</addrLine></address></meeting>
+		<imprint>
+			<publisher>University of Michigan Press</publisher>
+			<date type="published" when="1997">1997</date>
+			<biblScope unit="page">378</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Habitat preferences and movement patterns of the lake sturgeon (Acipenser fulvescens) in Black Lake, Michigan. Michigan Department of Natural Resources</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">M</forename><surname>Hay-Chmielewski</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Fisheries Research Report</title>
+		<imprint>
+			<date type="published" when="1949">1987. 1949</date>
+			<pubPlace>Ann Arbor, Michigan</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Lake sturgeon rehabilitation strategy. Michigan Department of Natural Resources</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">M</forename><surname>Hay-Chmielewski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Whelan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Fisheries Division, Special Report</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page">51</biblScope>
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Michigan&apos;s lake sturgeon rehabilitation strategy. Michigan Department of Natural Resources</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">B</forename><surname>Hayes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">C</forename><surname>Caroffino</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Fisheries Special Report</title>
+		<imprint>
+			<biblScope unit="volume">62</biblScope>
+			<date type="published" when="2012">2012</date>
+			<pubPlace>Lansing, Michigan</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Water quality of the St</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">F</forename><surname>Healy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">B</forename><surname>Chambers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Rachol</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">S</forename><surname>Jodoin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">and their U.S. tributaries, 1946-2005: U.S. Geological Survey Scientific Investigations Report</title>
+		<meeting><address><addrLine>Clair River, Lake St. Clair</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2008">2008</date>
+			<biblScope unit="page" from="2007" to="5172" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<monogr>
+		<title level="m" type="main">Changing climate, changing wildlife: a vulnerability assessment of 400 species of greatest conservation need and game species in Michigan</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">L</forename><surname>Hoving</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Badra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">J</forename><surname>Klatt</surname></persName>
+		</author>
+		<idno>No. 3564</idno>
+		<imprint>
+			<date type="published" when="2013">2013</date>
+			<biblScope unit="page">82</biblScope>
+			<pubPlace>Lansing, Michigan</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="report_type">Wildlife Division Report</note>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Habitat modelling of native freshwater mussels distinguishes river specific differences in the Detroit and St. Clair rivers of the Laurentian Great Lakes</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">S</forename><surname>Keretz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Woolnough</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">J</forename><surname>Morris</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">F</forename><surname>Roseman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">T</forename><surname>Zanatta</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ecological Modelling</title>
+		<imprint>
+			<biblScope unit="volume">487</biblScope>
+			<biblScope unit="page">110537</biblScope>
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<monogr>
+		<title level="m" type="main">Habitat management guidelines for amphibians and reptiles of the Midwestern United States. Partners in Amphibian and Reptile Conservation Technical Publication HMG-1</title>
+		<editor>Kingsbury, B.A. and J. Gibson</editor>
+		<imprint>
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+	<note>2nd edition</note>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Status of Michigan&apos;s endangered, threatened, special-concern and other fishes, 1993-2001</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">C</forename><surname>Latta</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Fisheries Research Report</title>
+		<imprint>
+			<date type="published" when="2005">2005. 2079</date>
+			<publisher>Michigan Department of Natural Resources</publisher>
+			<pubPlace>Ann Arbor, Michigan</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<monogr>
+		<title level="m" type="main">Setting priorities for conserving and rehabilitating Detroit River habitats</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">A</forename><surname>Manny</surname></persName>
+		</author>
+		<editor>Hartig, J.H</editor>
+		<imprint>
+			<date type="published" when="2003">2003</date>
+			<pubPlace>Bloomfield Hills, Michigan</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>Cranbrook Institute of Science</orgName>
+		</respStmt>
+	</monogr>
+	<note>Honoring Our Detroit River: Caring for our home</note>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<monogr>
+		<title level="m" type="main">Michigan Quality of Life Agencies Aquatic Invasive Species Team et al. (QOL-AIS et al.). In prep. Michigan&apos;s aquatic invasive species state management plan 2025 update</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Impacts of emerging organic contaminants on freshwater resources: Review of recent occurrences, sources, fate and effects</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Pal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">Y</forename><surname>Gin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">Y</forename><surname>Lin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Reinhard</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science of the Total Environment</title>
+		<imprint>
+			<biblScope unit="volume">408</biblScope>
+			<biblScope unit="page" from="6062" to="6069" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Returning to a Healthy Lake: Lake Erie Biodiversity Conservation Strategy</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Pearsall</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Carton De Grammont</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Cavalieri</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Chu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Doran</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Elbing</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Ewert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Hall</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Herbert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Khoury</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Kraus</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Mysorekar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Paskus</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Sasson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nature Conservancy of Canada</title>
+		<imprint>
+			<biblScope unit="page">347</biblScope>
+			<date type="published" when="2012">2012</date>
+			<publisher>Michigan Natural Features Inventory and U.S. EPA Great Lakes National Program Office</publisher>
+		</imprint>
+	</monogr>
+	<note type="report_type">Technical Report</note>
+	<note>A joint publication of The Nature Conservancy. with Appendices</note>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Review of a species in peril: what we do not know about Lake Sturgeon may kill them</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">S</forename><surname>Pollock</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Carr</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">M</forename><surname>Kreitals</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">D</forename><surname>Phillips</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Environmental Reviews</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="page" from="30" to="43" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<monogr>
+		<title level="m" type="main">Ch. 18: Midwest. Climate change impacts in the United States: the third national climate assessment</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">C</forename><surname>Pryor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Scavia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Downer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Gaden</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Iverson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Nordstrom</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Patz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">P</forename><surname>Robertson</surname></persName>
+		</author>
+		<idno type="DOI">10.7930/JOJ1012N</idno>
+		<editor>J.M. Melollo Terese (T.C.) Richmond and G.W. Yohe</editor>
+		<imprint>
+			<date type="published" when="2014">2014</date>
+			<biblScope unit="page" from="418" to="440" />
+		</imprint>
+		<respStmt>
+			<orgName>U.S. Global Change Research Program</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<monogr>
+		<title level="m" type="main">The inland fishes of New York State</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">L</forename><surname>Smith</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1985">1985</date>
+			<biblScope unit="volume">522</biblScope>
+			<pubPlace>Albany, New York</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>New York State Department of Environmental Conservation</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<monogr>
+		<title level="m" type="main">The fishes of Illinois</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">W</forename><surname>Smith</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1979">1979</date>
+			<publisher>University of Illinois Press</publisher>
+			<biblScope unit="page">314</biblScope>
+			<pubPlace>Urbana, Illinois</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">Clair Detroit River System Initiative Steering Committee (SCDRS)</title>
+		<author>
+			<persName><surname>St</surname></persName>
+		</author>
+		<ptr target="http://scdrs.org/wp-content/uploads/2015/03/SCDRS-PriorityObjs-FINAL-2.10.15.xlsx" />
+	</analytic>
+	<monogr>
+		<title level="m">Selected priority objectives for the St. Clair Detroit River System Initiative. St. Clair Detroit River System Steering Committee meeting February 5</title>
+		<meeting><address><addrLine>Ann Arbor</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2015">2015. 2015</date>
+		</imprint>
+	</monogr>
+	<note>Great Lakes Fishery Commission</note>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">Clair Detroit River System Steering Committee (SCDRS)</title>
+		<author>
+			<persName><surname>St</surname></persName>
+		</author>
+		<ptr target="http://scdrs.org" />
+	</analytic>
+	<monogr>
+		<title level="m">Strategic vision for the St. Clair-Detroit River System Initiative 2014-2023</title>
+		<imprint>
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">Abundance, age structure and spatial distribution of Lake Sturgeon Acipenser fulvescens in the St. Clair System. Michigan Department of Natural Resources</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">V</forename><surname>Thomas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">C</forename><surname>Haas</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Fisheries Research Report</title>
+		<imprint>
+			<date type="published" when="2004">2004. 2076</date>
+			<pubPlace>Ann Arbor, Michigan</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<title level="a" type="main">Status of Lake St. Clair submerged plants, fish community and sport fishery</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">V</forename><surname>Thomas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">C</forename><surname>Haas</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Fisheries Research Report</title>
+		<imprint>
+			<date type="published" when="2012">2012. 2099</date>
+			<publisher>Michigan Department of Natural Resources</publisher>
+			<pubPlace>Lansing, Michigan</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<monogr>
+		<title level="m" type="main">The fishes of Ohio</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">B</forename><surname>Trautman</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1981">1981</date>
+			<publisher>Ohio State University Press</publisher>
+			<biblScope unit="page">782</biblScope>
+			<pubPlace>Columbus, Ohio</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Second Edition</note>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<monogr>
+		<title level="m" type="main">Great Lakes Water Quality Agreement of 2012</title>
+		<ptr target="http://binational.net/2012/09/05/2012-glwqa-aqegl/" />
+		<imprint>
+			<date type="published" when="2012">2012</date>
+			<publisher>United States of America and Canada</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<monogr>
+		<ptr target="http://www.lre.usace.army.mil/project-sandstudies/planningstudies/" />
+		<title level="m">St. Clair River and Lake St. Clair comprehensive management plan</title>
+		<imprint>
+			<publisher>U.S. Army Corps of Engineers Detroit District</publisher>
+			<date type="published" when="2004-06">2004. June 2004</date>
+			<biblScope unit="page">194</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">E</forename><surname>Utrup</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J.-M</forename><surname>Hessenauer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">S</forename><surname>Briggs</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">T</forename><surname>Scribner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Kanefsky</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">C</forename><surname>Wills</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/nafm.10886?utm_source=chatgpt.com</idno>
+		<ptr target="https://doi.org/10.1002/nafm.10886" />
+	</analytic>
+	<monogr>
+		<title level="j">Biological Investigation of the Endangered Northern Madtom in the North Channel St. Clair River. North American Journal of Fisheries Management</title>
+		<imprint>
+			<biblScope unit="volume">43</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="730" to="742" />
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<analytic>
+		<title level="a" type="main">Species accounts</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">T</forename><surname>Watters</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Hoggarth</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">H</forename><surname>Stansberry</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The Freshwater Mussels of Ohio</title>
+		<meeting><address><addrLine>Columbus, Ohio</addrLine></address></meeting>
+		<imprint>
+			<publisher>The Ohio State University Press</publisher>
+			<date type="published" when="2009">2009</date>
+			<biblScope unit="page" from="27" to="361" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<monogr>
+		<title level="m" type="main">Genetic guidelines for the stocking of lake sturgeon (Acipenser fulvescens) in the Great Lakes basin. Great Lakes Fishery Commission Miscellaneous Publication 2010-01. Photo Credits Mooneye -Photos by</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Welsh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Elliott</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Scribner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Quinlan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Baker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Eggold</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Holtgren</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Krueger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>May</surname></persName>
+		</author>
+		<editor>Nate Tessler Smallmouth Bass -Bob Muller Mudpuppy -R.D. Bartlett Canvasback -Lee Karney</editor>
+		<imprint>
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>
+

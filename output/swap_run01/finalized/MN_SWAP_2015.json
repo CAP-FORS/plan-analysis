@@ -1,0 +1,963 @@
+{
+  "document_meta": {
+    "title": "Minnesota's Wildlife Action Plan 2015-2025",
+    "year": 2015,
+    "jurisdiction": "Minnesota",
+    "document_type": "SWAP",
+    "document_id": "MN_SWAP_2015",
+    "page_count": 240
+  },
+  "orientation": {
+    "summary": "Minnesota's Wildlife Action Plan 2015-2025 (MN SWAP) is a state-level wildlife conservation planning document produced by the Minnesota DNR, covering 346 Species of Greatest Conservation Need (SGCN). The document is substantively climate-aware throughout: it explicitly acknowledges Minnesota's changing climate as a driver requiring landscape-scale conservation, reviews habitat vulnerability assessments from external sources, and discusses how climate change will alter species distributions and ecosystem composition. Range shifts are directly engaged: the document states 'Species are already moving in response to climate change' and frames its Wildlife Action Network explicitly as a vehicle to facilitate species movement and adaptation in response to range shifts. The document performs its own spatial analysis (GIS-based Wildlife Action Network mapping, Conservation Focus Areas) but draws climate projections and habitat vulnerability assessments from prior external works (e.g., Handler et al. 2014 for Northwoods forest vulnerability, Galatowitsch et al. 2009 for prairie/wetland systems). No formal climate models or SDMs are run by the document itself; Marxan is used for spatial prioritization of conservation lands.",
+    "evidence_index": [
+      {
+        "text": "Minnesota's changing climate may also make it more difficult to effectively implement single-species management and is driving a greater focus on landscape-scale conservation. These changes are requiring conservation programs to prioritize work within connected habitat networks to facilitate species movement and adaptation",
+        "location": "Introduction",
+        "relevant_elements": ["1.1", "1.2", "1.3", "1.4", "4.2"]
+      },
+      {
+        "text": "updating the plan involved conducting a habitat climate change vulnerability assessment and reviewing habitat and species vulnerability assessments and other information about the changing climate.",
+        "location": "Addressing Climate Change",
+        "relevant_elements": ["1.1", "2.1", "4.5"]
+      },
+      {
+        "text": "The Wildlife Action Plan addresses many of the strategies recommended in the National Fish, Wildlife and Plants Climate Adaptation Strategy (2012).",
+        "location": "Addressing Climate Change",
+        "relevant_elements": ["4.5", "1.1"]
+      },
+      {
+        "text": "As climate change becomes more pronounced, its effects will be both direct and indirect. Species are already moving in response to climate change, and it is expected that the ranges of many more plant and animal species will shift and habitats will change.",
+        "location": "Addressing Large-Scale Stressors",
+        "relevant_elements": ["1.1", "1.3", "3.3", "4.2"]
+      },
+      {
+        "text": "The Wildlife Action Network will facilitate adaptation to these changes by identifying core areas large enough to contain a diversity of ecotones and habitats to allow for local shifts (e.g., dry to mesic prairie), and connections to allow for species movements and the flow of energy and materials.",
+        "location": "Addressing Large-Scale Stressors",
+        "relevant_elements": ["1.4", "4.1", "4.2"]
+      },
+      {
+        "text": "focusing on particular species or habitats will likely not be sufficient to ensure biological diversity and ecosystem resilience in the future given the dynamic shifts that are unfolding as a result of climate change.",
+        "location": "Occurrence and Distribution of SGCN Populations and Richness Hotspots",
+        "relevant_elements": ["1.1", "3.2", "3.3"]
+      },
+      {
+        "text": "It is likely that future functional and biological diversity will be made up of both existing native species and newly immigrated species, and the intent of the Wildlife Action Network is to allow for that dynamic to unfold as sustainably as possible.",
+        "location": "Occurrence and Distribution of SGCN Populations and Richness Hotspots",
+        "relevant_elements": ["1.3", "4.2"]
+      },
+      {
+        "text": "Species movements in response to climate change are already apparent. There is evidence that major changes in species composition and ecological system structure and functions (primary productivity and nutrient cycling) are occurring as a result of plant and animal range shifts",
+        "location": "The Identification of Stressors Contributing to Population Declines of Species in Greatest Conservation Need",
+        "relevant_elements": ["1.1", "1.3", "3.3"]
+      },
+      {
+        "text": "Climate change is disrupting these complex interactions; however, the scale and extent of the disruptions are unknown.",
+        "location": "The Identification of Stressors Contributing to Population Declines of Species in Greatest Conservation Need",
+        "relevant_elements": ["1.1", "3.5"]
+      },
+      {
+        "text": "As part of the Northwoods Climate Change Response Framework project (Handler et al. 2014), the vulnerability of forest ecosystems in the Laurentian Mixed Forest Province of Minnesota was assessed under a range of future climate scenarios. Vulnerability was considered in terms of the potential impacts to a system and its adaptive capacity.",
+        "location": "Forest Ecosystems",
+        "relevant_elements": ["1.1", "1.2", "2.1", "3.5"]
+      },
+      {
+        "text": "Vulnerability rankings were based on evidence and agreement among reviewers. Climate change predictions for this province include warmer temperatures or drier conditions that reduce available moisture, more intense storm events, and shifts in the timing or amount of precipitation.",
+        "location": "Forest Ecosystems",
+        "relevant_elements": ["1.1", "3.5"]
+      },
+      {
+        "text": "This system generally contains a larger number of plant species than some forest systems, which may increase its adaptive capacity. Species diversity along with warming temperatures may allow this system to expand into previously unsuitable areas. However, stands with few species and reduced structural diversity may have lower adaptive capacity.",
+        "location": "Forest Ecosystems",
+        "relevant_elements": ["1.2", "1.3"]
+      },
+      {
+        "text": "Because these forests often exist as large complexes of a single species or few species, they have lower adaptive capacity in areas where they exist as isolated pockets on the landscape that may limit migration and gene flow.",
+        "location": "Forest Ecosystems",
+        "relevant_elements": ["1.2", "1.3", "1.4"]
+      },
+      {
+        "text": "Red pine plantations typically have very little genetic, structural, and species diversity, which may result in low resilience to future disturbance or changing conditions.",
+        "location": "Forest Ecosystems",
+        "relevant_elements": ["1.2", "1.3"]
+      },
+      {
+        "text": "Prairie communities with higher biological diversity and connectivity are expected to have a greater capacity to respond to changes in precipitation, moisture, and temperature than are lower-diversity, fragmented communities",
+        "location": "Prairie and Surrogate Grasslands",
+        "relevant_elements": ["1.2", "1.3", "1.4"]
+      },
+      {
+        "text": "Their relatively small size and isolation increase their vulnerability to climate change.",
+        "location": "Prairie and Surrogate Grasslands",
+        "relevant_elements": ["1.1", "1.4"]
+      },
+      {
+        "text": "Should fragmentation increase, thereby creating smaller forest patches and increasing edge habitat, the ability of some plant and animal species to adapt to climate change could become progressively limited.",
+        "location": "Forests within the Prairie-Forest Border",
+        "relevant_elements": ["1.2", "1.4"]
+      },
+      {
+        "text": "Wildlife Vulnerability to Climate Change • highly specialized habitat requirements • dependencies on interspecific interactions (host plants or animals) • temperature limits or having narrow environmental tolerances • isolated, rare, or declining populations with poor dispersal abilities • long generation times, low fecundity, or reproductive potential • narrow or restricted distribution • special sensitivity to pathogens",
+        "location": "Wildlife Vulnerability to Climate Change",
+        "relevant_elements": ["1.1", "1.2", "1.3"]
+      },
+      {
+        "text": "Life-History Traits Table 3.2 lists the life-history traits that were considered during the SGCN identification process. These traits may increase the vulnerability of species to stressors, including climate change, contributing to population declines.",
+        "location": "The Identification of Stressors Contributing to Population Declines of Species in Greatest Conservation Need",
+        "relevant_elements": ["1.1", "1.3"]
+      },
+      {
+        "text": "Increasing connectivity within sites for species that have limited dispersal ability, and among sites for species that require multiple habitats throughout their life history may increase opportunities for those species to adapt to stressors, including climate change.",
+        "location": "The Identification of Stressors Contributing to Population Declines of Species in Greatest Conservation Need",
+        "relevant_elements": ["1.2", "1.3", "1.4"]
+      },
+      {
+        "text": "Increasing habitat diversity may provide more specialized habitats and niches, such as thermal refugia.",
+        "location": "The Identification of Stressors Contributing to Population Declines of Species in Greatest Conservation Need",
+        "relevant_elements": ["1.4", "4.1"]
+      },
+      {
+        "text": "Climate change further stresses the system, creating conditions conducive for invasive species to colonize new areas or expand in existing areas.",
+        "location": "The Identification of Stressors Contributing to Population Declines of Species in Greatest Conservation Need",
+        "relevant_elements": ["3.7"]
+      },
+      {
+        "text": "Increased air temperature and/or reduced ice cover could result in warmer water temperatures, altering fish communities. Warm-water fish such as largemouth bass and bluegill are becoming more common in northern Minnesota lakes",
+        "location": "Aquatic Systems",
+        "relevant_elements": ["3.5", "3.7", "1.1"]
+      },
+      {
+        "text": "Climate change may reduce habitat suitability for native species and open up new niches for invasive species to exploit",
+        "location": "Aquatic Systems",
+        "relevant_elements": ["3.7"]
+      },
+      {
+        "text": "Warming air temperatures, reduction in groundwater inputs (as a result of higher air temperatures and evaporation), altered and more extreme precipitation patterns, increased impervious surface, agricultural drainage, and human demands on groundwater are expected to reduce the amount of available habitat for cold-water stream species such as brook trout",
+        "location": "Aquatic Systems",
+        "relevant_elements": ["3.5", "1.1"]
+      },
+      {
+        "text": "Objective 1.1. Sustain and enhance species, habitat, and landscape biological diversity within the Wildlife Action Network, giving priority to the following eight ecological communities, which are thought to be most vulnerable to changing climate: prairie stream ecosystems, high-diversity native prairie complexes, grassland-wetland complexes, peatlands, priority cold-water cisco lakes, cool-/ cold-water streams, lowland conifer forests, and mesic hardwood forests.",
+        "location": "Goals, Objectives, Conservation Actions, and Performance Measures",
+        "relevant_elements": ["4.1", "1.1"]
+      },
+      {
+        "text": "Develop strategies for sustaining or restoring terrestrial and aquatic connections among conservation lands within the Wildlife Action Network, where appropriate.",
+        "location": "Goals, Objectives, Conservation Actions, and Performance Measures",
+        "relevant_elements": ["4.2", "1.4"]
+      },
+      {
+        "text": "All Conservation Focus Areas implemented in the years 2015-25 should have some level of adaptive management capacity built into implementation, especially given the unknowns presented by climate change.",
+        "location": "Conservation Focus Area Monitoring",
+        "relevant_elements": ["4.3", "4.5"]
+      },
+      {
+        "text": "Performance measures for each Conservation Focus Area will be developed by Conservation Focus Area teams and will include shorter-term measures (number of acres protected or restored, or number of demonstration projects) along with longer-term monitoring of status and trends to evaluate the effectiveness of conservation actions.",
+        "location": "Goals, Objectives, Conservation Actions, and Performance Measures",
+        "relevant_elements": ["4.3"]
+      },
+      {
+        "text": "The Wildlife Action Network serves three purposes: 1) addresses large-scale habitat stressors such as climate change, fragmentation, and invasive species; 2) increases the effectiveness and efficiency of actions by the conservation community; and 3) prioritizes and focuses conservation work over the next ten years by identifying Conservation Focus Areas (CFAs).",
+        "location": "Purposes of the Wildlife Action Network",
+        "relevant_elements": ["4.1", "4.2"]
+      },
+      {
+        "text": "To implement this habitat approach, the Wildlife Action Plan lays out the basis for the long-term vision of a Wildlife Action Network composed of terrestrial and aquatic habitat cores and corridors to support biological diversity and ecosystem resilience with a focus on SGCN.",
+        "location": "The Habitat Approach",
+        "relevant_elements": ["1.4", "4.1", "4.2"]
+      },
+      {
+        "text": "Examples of such actions include protecting large habitat areas from fragmentation, restoring natural levels of connectivity while maintaining natural barriers, reducing invasive species, an emphasis on managing habitats for biological and functional diversity",
+        "location": "The Habitat Approach",
+        "relevant_elements": ["1.4", "4.2"]
+      },
+      {
+        "text": "The adaptive management framework consists of assessing the problem, designing strategies to address the problem, implementing selected strategies, monitoring results, evaluating what those results mean, and adjusting management if monitoring suggests that changes are needed",
+        "location": "Conservation Focus Area Monitoring",
+        "relevant_elements": ["4.3", "4.5"]
+      },
+      {
+        "text": "vulnerability assessment. A tool used in adaptation planning for informing the development and implementation of resource management practices. Vulnerability assessment as it pertains to climate change is usually structured around three distinct components: sensitivity, exposure, and adaptive capacity.",
+        "location": "Glossary of Terms and Acronyms",
+        "relevant_elements": ["1.1", "2.1", "4.5"]
+      },
+      {
+        "text": "A synthesis of four climate change vulnerability assessments that looked at resident species occurring in the U.S. Corn Belt since 2010 found species associated with freshwater ecosystems, particularly those affiliated with ephemeral wetlands, cold-or cool-water environments, and shallow streams, appear to be most vulnerable",
+        "location": "Wildlife Vulnerability to Climate Change",
+        "relevant_elements": ["1.1", "2.1"]
+      },
+      {
+        "text": "Objective 1. Within the Wildlife Action Network, maintain and enhance the resilience of the habitats upon which Species in Greatest Conservation Need (SGCN) and other wildlife depend.",
+        "location": "Goals, Objectives, Conservation Actions, and Performance Measures",
+        "relevant_elements": ["4.1", "4.3"]
+      },
+      {
+        "text": "Marxan. A conservation prioritization mapping software that assists in finding the most efficient ways of physically linking conservation target areas.",
+        "location": "Glossary of Terms and Acronyms",
+        "relevant_elements": ["2.4"]
+      },
+      {
+        "text": "Marxan outputs from the Scientific and Natural Area strategic plan (Figure E7e). Development of the Scientific and Natural Area (SNA) Strategic Land Protection Plan (SNA 2014) utilized Marxan conservation planning software to spatially prioritize and identify connections between the high and outstanding ranked MBS Sites of Biodiversity Significance.",
+        "location": "Wildlife Action Network",
+        "relevant_elements": ["2.4", "4.1"]
+      },
+      {
+        "text": "d) Cores and Corridors from Minnesota Prairie Conservation Plan... The cores represent high concentrations of native prairie and surrogate grassland. The corridors represent planned areas of grassland restoration.",
+        "location": "Wildlife Action Network",
+        "relevant_elements": ["4.1", "1.4"]
+      },
+      {
+        "text": "Wildlife Action Plan staff will participate to the extent resources allow in conservation initiatives directed at the implementation of Wildlife Action Plans at multistate, ecoregional, and international scales, such as the State Wildlife Competitive Grant program and the US Fish and Wildlife Service's regional Landscape Conservation Cooperatives",
+        "location": "Participate in Multistate, Ecoregional, and International Conservation Partnerships",
+        "relevant_elements": ["3.1", "3.4"]
+      },
+      {
+        "text": "Since 2005, Minnesota has received over $10 million in State Wildlife Grant funds to invest directly in the implementation of the Wildlife Action Plan.",
+        "location": "Wildlife Action Plan Foundation",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "Development of the 2015-25 Minnesota Wildlife Action Plan was supported by the State Wildlife Grant Program, administered by US Fish and Wildlife Service, and the MN DNR Nongame Wildlife Program.",
+        "location": "Funding Support",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "Reduced frost season, longer growing season, earlier ice-outs, fewer days with snow cover, new invasive and pathogenic species persist.",
+        "location": "Temperature",
+        "relevant_elements": ["3.7", "3.5"]
+      },
+      {
+        "text": "summer temperatures are projected to increase 10-11°F statewide during the same period. This would equate southern Minnesota's 2060-69 summer average temperatures with the current summer averages of Oklahoma",
+        "location": "Mammals",
+        "relevant_elements": ["2.3", "3.5"]
+      },
+      {
+        "text": "Practice adaptive management to respond to forest regeneration and tree species migration.",
+        "location": "Example conservation approaches",
+        "relevant_elements": ["4.2", "4.5"]
+      },
+      {
+        "text": "Root and Schneider (2002) summarized evidence from 45 studies that indicated significant changes in the timing of life-cycle events for a wide range of plant and animal species. These changes could result in the unavailability of essential food resources during critical life-history stages.",
+        "location": "The Identification of Stressors Contributing to Population Declines of Species in Greatest Conservation Need",
+        "relevant_elements": ["3.7", "1.3"]
+      },
+      {
+        "text": "All Conservation Focus Areas implemented in the years 2015-25 should have some level of adaptive management capacity built into implementation, especially given the unknowns presented by climate change. Particular Conservation Focus Areas that have a high degree of uncertainty regarding the effects of current management practices on SGCN may necessitate more rigorous adaptive management methods.",
+        "location": "Conservation Focus Area Monitoring",
+        "relevant_elements": ["4.3", "4.5"]
+      },
+      {
+        "text": "These are priority areas for working with partners to identify, design, and implement conservation actions and report on the effectiveness toward achieving the goals and objectives defined in Wildlife Action Plan.",
+        "location": "Prioritizing the Work of the Wildlife Action Plan: Conservation Focus Areas",
+        "relevant_elements": ["4.1", "3.4"]
+      },
+      {
+        "text": "The Minnesota Prairie Conservation Plan sets goals to protect the state's remaining native prairie, create prairie core areas and connecting corridors, and enhance the surrounding agricultural matrix",
+        "location": "The Minnesota Prairie Conservation Plan",
+        "relevant_elements": ["1.4", "4.1"]
+      },
+      {
+        "text": "This evaluation resulted in 36 Conservation Focus Areas, of which at least 6 will be targeted for specific projects over the next 10 years",
+        "location": "Wildlife Action Plan Foundation",
+        "relevant_elements": ["4.1", "4.3"]
+      },
+      {
+        "text": "Wet prairies and meadows will be reduced in extent, and some rare wet-prairie species will likely be lost",
+        "location": "Prairie and Surrogate Grasslands",
+        "relevant_elements": ["3.5"]
+      },
+      {
+        "text": "Minnesota's globally significant boreal peatland system that covers more than 2,400,000 hectares of northern Minnesota may experience the most radical changes. An important carbon sink, the drying of peatlands and the potential for increased fires would increase carbon dioxide emissions into the atmosphere.",
+        "location": "Wetland Systems",
+        "relevant_elements": ["3.5"]
+      },
+      {
+        "text": "Climate change vulnerability was not considered as an independent criterion for evaluating a species as a SGCN. Species Technical Advisory Teams discussed species or groups of SGCN that could be affected by climate change but concluded that data were insufficient to conduct a species climate change vulnerability assessment.",
+        "location": "Criteria for Assessing Species as SGCN",
+        "relevant_elements": ["1.1", "2.1"]
+      },
+      {
+        "text": "Ecosystem models show significant declines in black spruce and tamarack, which are the dominant tree species in this system.",
+        "location": "Acid Peatland System",
+        "relevant_elements": ["3.5", "2.2"]
+      }
+    ]
+  },
+  "concepts": {
+    "climate_vulnerability": {
+      "evaluable": true,
+      "score": 3,
+      "evidence": [
+        {
+          "text": "As part of the Northwoods Climate Change Response Framework project (Handler et al. 2014), the vulnerability of forest ecosystems in the Laurentian Mixed Forest Province of Minnesota was assessed under a range of future climate scenarios. Vulnerability was considered in terms of the potential impacts to a system and its adaptive capacity.",
+          "location": "Forest Ecosystems",
+          "sub_component": "exposure",
+          "citations": ["Handler et al. 2014"]
+        },
+        {
+          "text": "Wildlife Vulnerability to Climate Change • highly specialized habitat requirements • dependencies on interspecific interactions (host plants or animals) • temperature limits or having narrow environmental tolerances • isolated, rare, or declining populations with poor dispersal abilities • long generation times, low fecundity, or reproductive potential • narrow or restricted distribution",
+          "location": "Wildlife Vulnerability to Climate Change",
+          "sub_component": "adaptive capacity",
+          "citations": []
+        },
+        {
+          "text": "vulnerability assessment. A tool used in adaptation planning for informing the development and implementation of resource management practices. Vulnerability assessment as it pertains to climate change is usually structured around three distinct components: sensitivity, exposure, and adaptive capacity.",
+          "location": "Glossary of Terms and Acronyms",
+          "sub_component": "exposure",
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "adaptive_capacity_specificity": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "This system generally contains a larger number of plant species than some forest systems, which may increase its adaptive capacity. Species diversity along with warming temperatures may allow this system to expand into previously unsuitable areas. However, stands with few species and reduced structural diversity may have lower adaptive capacity.",
+          "location": "Forest Ecosystems",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Prairie communities with higher biological diversity and connectivity are expected to have a greater capacity to respond to changes in precipitation, moisture, and temperature than are lower-diversity, fragmented communities",
+          "location": "Prairie and Surrogate Grasslands",
+          "sub_component": null,
+          "citations": ["Galatowitsch et al. 2009"]
+        }
+      ],
+      "absence_note": {}
+    },
+    "adaptive_capacity_components": {
+      "demography": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "long generation times, low fecundity, or reproductive potential",
+            "location": "Wildlife Vulnerability to Climate Change",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "distribution": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Species are already moving in response to climate change, and it is expected that the ranges of many more plant and animal species will shift and habitats will change.",
+            "location": "Addressing Large-Scale Stressors",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "movement": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "isolated, rare, or declining populations with poor dispersal abilities",
+            "location": "Wildlife Vulnerability to Climate Change",
+            "sub_component": null,
+            "citations": []
+          },
+          {
+            "text": "Increasing connectivity within sites for species that have limited dispersal ability, and among sites for species that require multiple habitats throughout their life history may increase opportunities for those species to adapt to stressors, including climate change.",
+            "location": "The Identification of Stressors Contributing to Population Declines of Species in Greatest Conservation Need",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "evolutionary_potential": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Red pine plantations typically have very little genetic, structural, and species diversity, which may result in low resilience to future disturbance or changing conditions.",
+            "location": "Forest Ecosystems",
+            "sub_component": null,
+            "citations": []
+          },
+          {
+            "text": "they have lower adaptive capacity in areas where they exist as isolated pockets on the landscape that may limit migration and gene flow.",
+            "location": "Forest Ecosystems",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecological_dependencies": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "dependencies on interspecific interactions (host plants or animals)",
+            "location": "Wildlife Vulnerability to Climate Change",
+            "sub_component": null,
+            "citations": []
+          },
+          {
+            "text": "Root and Schneider (2002) summarized evidence from 45 studies that indicated significant changes in the timing of life-cycle events for a wide range of plant and animal species. These changes could result in the unavailability of essential food resources during critical life-history stages.",
+            "location": "The Identification of Stressors Contributing to Population Declines of Species in Greatest Conservation Need",
+            "sub_component": null,
+            "citations": ["Root and Schneider (2002)"]
+          }
+        ]
+      },
+      "abiotic_niche": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "temperature limits or having narrow environmental tolerances",
+            "location": "Wildlife Vulnerability to Climate Change",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "life_history": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Life-History Traits Table 3.2 lists the life-history traits that were considered during the SGCN identification process. These traits may increase the vulnerability of species to stressors, including climate change, contributing to population declines.",
+            "location": "The Identification of Stressors Contributing to Population Declines of Species in Greatest Conservation Need",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      }
+    },
+    "connectivity": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "The Wildlife Action Network will facilitate adaptation to these changes by identifying core areas large enough to contain a diversity of ecotones and habitats to allow for local shifts (e.g., dry to mesic prairie), and connections to allow for species movements and the flow of energy and materials.",
+          "location": "Addressing Large-Scale Stressors",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Minnesota's changing climate may also make it more difficult to effectively implement single-species management and is driving a greater focus on landscape-scale conservation. These changes are requiring conservation programs to prioritize work within connected habitat networks to facilitate species movement and adaptation",
+          "location": "Introduction",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    }
+  },
+  "tools": {
+    "vulnerability_models": {
+      "evaluable": true,
+      "score": 2,
+      "named_tools": ["NatureServe CCVI", "climate vulnerability assessment"],
+      "evidence": [
+        {
+          "text": "updating the plan involved conducting a habitat climate change vulnerability assessment and reviewing habitat and species vulnerability assessments and other information about the changing climate.",
+          "location": "Addressing Climate Change",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "As part of the Northwoods Climate Change Response Framework project (Handler et al. 2014), the vulnerability of forest ecosystems in the Laurentian Mixed Forest Province of Minnesota was assessed under a range of future climate scenarios. Vulnerability was considered in terms of the potential impacts to a system and its adaptive capacity.",
+          "location": "Forest Ecosystems",
+          "sub_component": null,
+          "citations": ["Handler et al. 2014"]
+        }
+      ],
+      "absence_note": "The document conducted a habitat climate change vulnerability assessment and incorporated external species and habitat vulnerability assessment results (Handler et al. 2014; Small-Lorenz et al. 2013; LeDee and Ribic 2015). These results were substantively incorporated into management decisions for focal habitats and species, satisfying 'applied to subject.' No specific named framework like CCVI is confirmed applied, but the assessment described is operationally applied to the plan's focal habitats."
+    },
+    "niche_models": {
+      "evaluable": true,
+      "score": 1,
+      "named_tools": [],
+      "evidence": [
+        {
+          "text": "habitat modeling data were used for some species",
+          "location": "The Habitat Approach",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document references use of 'habitat models' for some bird species (goshawk, boreal chickadee, Connecticut warbler, grasshopper sparrow, Le Conte's sparrow) from external sources used to map viable populations. These are referenced generally without a named SDM framework (MaxEnt etc.) and the modeling was done by others. The population mapping also explicitly limited reliance on modeled habitat. Score 1 is appropriate as the document uses some modeled habitat output but does not perform or deeply reference formal niche/SDM analysis."
+    },
+    "climate_models": {
+      "evaluable": true,
+      "score": 1,
+      "named_tools": [],
+      "evidence": [
+        {
+          "text": "summer temperatures are projected to increase 10-11°F statewide during the same period. This would equate southern Minnesota's 2060-69 summer average temperatures with the current summer averages of Oklahoma, and general climate envelopes of mean annual precipitation and temperature of southern Nebraska and northern Kansas",
+          "location": "Mammals",
+          "sub_component": null,
+          "citations": ["Galatowitsch, 2009"]
+        }
+      ],
+      "absence_note": "The document discusses climate change extensively and references projected temperature increases to 2060-69, but does not apply named climate models (GCMs, CMIP, RCPs/SSPs, downscaled products) itself. Climate projections appear only in the referenced Appendix D and are drawn from secondary sources. Score 1 (referenced generally) rather than 2 because no named climate model is run or formally applied to the plan's own analysis.",
+      "time_horizon_years": [2060],
+      "emission_scenarios": []
+    },
+    "connectivity_models": {
+      "evaluable": true,
+      "score": 2,
+      "named_tools": ["Marxan"],
+      "evidence": [
+        {
+          "text": "Marxan outputs from the Scientific and Natural Area strategic plan (Figure E7e). Development of the Scientific and Natural Area (SNA) Strategic Land Protection Plan (SNA 2014) utilized Marxan conservation planning software to spatially prioritize and identify connections between the high and outstanding ranked MBS Sites of Biodiversity Significance.",
+          "location": "Wildlife Action Network",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "new Marxan runs were completed in the Agassiz Lowlands, Border Lakes, Chippewa Plains, Pine Moraines, St. Louis Moraines, and Tamarack Lowlands subsections.",
+          "location": "Wildlife Action Network",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "Marxan outputs were substantively incorporated into the Wildlife Action Network, which directly shapes the plan's conservation prioritization and focus area identification. This meets the 'applied to subject' criterion."
+    }
+  },
+  "context": {
+    "management_scale": {
+      "local": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "These are priority areas for working with partners to identify, design, and implement conservation actions and report on the effectiveness toward achieving the goals and objectives defined in Wildlife Action Plan.",
+            "location": "Prioritizing the Work of the Wildlife Action Plan: Conservation Focus Areas",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "site": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "considering how management objectives and actions at the site level can be coordinated across sites to sustain or enhance landscape-scale biological diversity",
+            "location": "Regional Partnership Meetings",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "watershed": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "In general, the boundary was extended if the target of the Conservation Focus Area was an aquatic habitat that necessitates a watershed approach.",
+            "location": "Prioritizing the Work of the Wildlife Action Plan: Conservation Focus Areas",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "city": {
+        "present": false,
+        "evidence": []
+      },
+      "county": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "This information was used by counties to inform revisions to their land-use standards and identify important areas for protection and restoration.",
+            "location": "Wildlife Action Plan Foundation",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "within_state_region": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Biennial regional meetings with partners from within the DNR divisions and other agencies and organizations will be held in each DNR region beginning in early 2016.",
+            "location": "Regional Partnership Meetings",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "state": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The Wildlife Action Network will facilitate adaptation to these changes by identifying core areas large enough to contain a diversity of ecotones and habitats to allow for local shifts (e.g., dry to mesic prairie), and connections to allow for species movements and the flow of energy and materials.",
+            "location": "Addressing Large-Scale Stressors",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "multistate": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Wildlife Action Plan staff will participate to the extent resources allow in conservation initiatives directed at the implementation of Wildlife Action Plans at multistate, ecoregional, and international scales, such as the State Wildlife Competitive Grant program and the US Fish and Wildlife Service's regional Landscape Conservation Cooperatives",
+            "location": "Participate in Multistate, Ecoregional, and International Conservation Partnerships",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "national": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The Wildlife Action Plan addresses many of the strategies recommended in the National Fish, Wildlife and Plants Climate Adaptation Strategy (2012).",
+            "location": "Addressing Climate Change",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "transnational": {
+        "present": false,
+        "evidence": []
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "As part of the Northwoods Climate Change Response Framework project (Handler et al. 2014), the vulnerability of forest ecosystems in the Laurentian Mixed Forest Province of Minnesota was assessed under a range of future climate scenarios.",
+            "location": "Forest Ecosystems",
+            "sub_component": null,
+            "citations": ["Handler et al. 2014"]
+          }
+        ]
+      },
+      "ecoregion": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "conservation initiatives directed at the implementation of Wildlife Action Plans at multistate, ecoregional, and international scales",
+            "location": "Participate in Multistate, Ecoregional, and International Conservation Partnerships",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "province": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "the vulnerability of forest ecosystems in the Laurentian Mixed Forest Province of Minnesota was assessed under a range of future climate scenarios.",
+            "location": "Forest Ecosystems",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "section": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The population represents the only population in the region (ECS section or HUC 4 watershed) or one of three or fewer populations in the state regardless of viability/persistence.",
+            "location": "Ranking guidelines for SGCN populations",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "subsection": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "new Marxan runs were completed in the Agassiz Lowlands, Border Lakes, Chippewa Plains, Pine Moraines, St. Louis Moraines, and Tamarack Lowlands subsections.",
+            "location": "Wildlife Action Network",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "lake": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "priority cold-water cisco lakes",
+            "location": "Goals, Objectives, Conservation Actions, and Performance Measures",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "river": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Releasing more than 5,200 captive-reared mussels, including the federally endangered Higgins eye, into the Mississippi River gorge",
+            "location": "Wildlife Action Plan Foundation",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "district": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["Minnesota", "Laurentian Mixed Forest Province", "Prairie Parkland Province", "Tallgrass Aspen Parkland Province", "Prairie-Forest Border", "Mississippi River", "Lake Superior", "Agassiz Lowlands", "Border Lakes subsection", "Chippewa Plains subsection", "St. Louis Moraines subsection", "HUC 4 watersheds", "Root River Watershed", "Vermillion River Watershed", "Whitewater River Watershed", "Upper Midwest Great Lakes Landscape Conservation Cooperative", "Plains and Prairie Potholes LCC", "Eastern Tallgrass Prairie and Big Rivers LCC"]
+    },
+    "biological_unit_score": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Species are already moving in response to climate change, and it is expected that the ranges of many more plant and animal species will shift and habitats will change.",
+          "location": "Addressing Large-Scale Stressors",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "It is likely that future functional and biological diversity will be made up of both existing native species and newly immigrated species, and the intent of the Wildlife Action Network is to allow for that dynamic to unfold as sustainably as possible.",
+          "location": "Occurrence and Distribution of SGCN Populations and Richness Hotspots",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "biological_unit_components": {
+      "species": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Species are already moving in response to climate change, and it is expected that the ranges of many more plant and animal species will shift and habitats will change.",
+            "location": "Addressing Large-Scale Stressors",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "population": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "the viable population mapping provides a useful benchmark to track changes over time and evaluate functional and biological diversity.",
+            "location": "Occurrence and Distribution of SGCN Populations and Richness Hotspots",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "habitat": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Objective 1.1. Sustain and enhance species, habitat, and landscape biological diversity within the Wildlife Action Network, giving priority to the following eight ecological communities, which are thought to be most vulnerable to changing climate",
+            "location": "Goals, Objectives, Conservation Actions, and Performance Measures",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "there is evidence that major changes in species composition and ecological system structure and functions (primary productivity and nutrient cycling) are occurring as a result of plant and animal range shifts",
+            "location": "The Identification of Stressors Contributing to Population Declines of Species in Greatest Conservation Need",
+            "sub_component": null,
+            "citations": ["Grimm 2013"]
+          }
+        ]
+      },
+      "community": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Significant changes in ecosystems could occur if climate change, along with current stressors, accelerates that loss.",
+            "location": "The Identification of Stressors Contributing to Population Declines of Species in Greatest Conservation Need",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "genotype_phenotype": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["Species in Greatest Conservation Need (SGCN)", "prairie stream ecosystems", "high-diversity native prairie complexes", "grassland-wetland complexes", "peatlands", "priority cold-water cisco lakes", "cool-/cold-water streams", "lowland conifer forests", "mesic hardwood forests", "Laurentian Mixed Forest Province", "fire-dependent forest system", "wet forest system", "managed aspen system", "managed red pine system", "monarch butterfly", "golden-winged warbler", "freshwater mussels", "brook trout", "cisco"]
+    },
+    "partnerships_and_funding": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Since 2005, Minnesota has received over $10 million in State Wildlife Grant funds to invest directly in the implementation of the Wildlife Action Plan. Many successful projects and partnerships have been funded through this program.",
+          "location": "Wildlife Action Plan Foundation",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "An Executive Partnership Committee made up of representatives from The Nature Conservancy, the US Fish and Wildlife Service, Audubon Minnesota, Natural Resources Conservation Service, and the DNR assists with the coordination of implementation efforts among their agencies and organizations.",
+          "location": "Implementation of the Minnesota Wildlife Action Plan",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The plan describes active, named partnerships with specific organizations (Nature Conservancy, USFWS, Audubon Minnesota, NRCS, Tribal Governments, Ducks Unlimited, etc.) and confirmed funding ($10M+ SWG, nongame checkoff, Environment and Natural Resources Trust Fund, Outdoor Heritage Fund). This represents strategic investment with active partnerships meeting score 2."
+    },
+    "climate_threat_habitat_degradation": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Warming air temperatures, reduction in groundwater inputs (as a result of higher air temperatures and evaporation), altered and more extreme precipitation patterns, increased impervious surface, agricultural drainage, and human demands on groundwater are expected to reduce the amount of available habitat for cold-water stream species such as brook trout",
+          "location": "Aquatic Systems",
+          "sub_component": null,
+          "citations": ["Ficke et al. 2007", "Herb and Stefan 2010"]
+        },
+        {
+          "text": "Minnesota's globally significant boreal peatland system that covers more than 2,400,000 hectares of northern Minnesota may experience the most radical changes. An important carbon sink, the drying of peatlands and the potential for increased fires would increase carbon dioxide emissions into the atmosphere.",
+          "location": "Wetland Systems",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_threat_species_vital_rates": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Root and Schneider (2002) summarized evidence from 45 studies that indicated significant changes in the timing of life-cycle events for a wide range of plant and animal species. These changes could result in the unavailability of essential food resources during critical life-history stages. The unavailability of a resource during peak migration periods, for example, could reduce the size of the population over time and potentially contribute to its extinction.",
+          "location": "The Identification of Stressors Contributing to Population Declines of Species in Greatest Conservation Need",
+          "sub_component": null,
+          "citations": ["Root and Schneider (2002)"]
+        }
+      ],
+      "absence_note": "This passage directly frames how climate-driven phenological changes affect vital rates (food unavailability during critical life stages potentially contributing to extinction, i.e. reduced survival/reproduction). This satisfies the direct vital-rate impact criterion. Additional evidence: climate-induced increased moisture stress causing greater mortality in managed aspen systems is also mentioned."
+    },
+    "climate_threat_biotic_stressors": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Climate change further stresses the system, creating conditions conducive for invasive species to colonize new areas or expand in existing areas.",
+          "location": "The Identification of Stressors Contributing to Population Declines of Species in Greatest Conservation Need",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Climate change may reduce habitat suitability for native species and open up new niches for invasive species to exploit",
+          "location": "Aquatic Systems",
+          "sub_component": null,
+          "citations": ["Walther et al. 2009"]
+        }
+      ],
+      "absence_note": {}
+    }
+  },
+  "actions": {
+    "priority_habitat_identification": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Objective 1.1. Sustain and enhance species, habitat, and landscape biological diversity within the Wildlife Action Network, giving priority to the following eight ecological communities, which are thought to be most vulnerable to changing climate: prairie stream ecosystems, high-diversity native prairie complexes, grassland-wetland complexes, peatlands, priority cold-water cisco lakes, cool-/ cold-water streams, lowland conifer forests, and mesic hardwood forests.",
+          "location": "Goals, Objectives, Conservation Actions, and Performance Measures",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "This evaluation resulted in 36 Conservation Focus Areas, of which at least 6 will be targeted for specific projects over the next 10 years",
+          "location": "Wildlife Action Plan Foundation",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document spatially maps the Wildlife Action Network (terrestrial and aquatic habitat cores and corridors) and 36 Conservation Focus Areas using GIS-based methodology, with maps provided (Figures 1.3, 1.5, 1.6, E10, etc.). This clearly satisfies the spatial representation criterion for score 2."
+    },
+    "targeted_range_shift_actions": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "The Wildlife Action Network will facilitate adaptation to these changes by identifying core areas large enough to contain a diversity of ecotones and habitats to allow for local shifts (e.g., dry to mesic prairie), and connections to allow for species movements and the flow of energy and materials.",
+          "location": "Addressing Large-Scale Stressors",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Develop strategies for sustaining or restoring terrestrial and aquatic connections among conservation lands within the Wildlife Action Network, where appropriate.",
+          "location": "Goals, Objectives, Conservation Actions, and Performance Measures",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document proposes structural facilitation (maintaining/building habitat connections and cores explicitly to allow species to move in response to climate-driven range shifts). This meets the structural facilitation criterion under 4.2. No direct translocation or assisted migration actions are proposed with climate motivation."
+    },
+    "time_bound_and_monitoring": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Performance measures for each Conservation Focus Area will be developed by Conservation Focus Area teams and will include shorter-term measures (number of acres protected or restored, or number of demonstration projects) along with longer-term monitoring of status and trends to evaluate the effectiveness of conservation actions.",
+          "location": "Goals, Objectives, Conservation Actions, and Performance Measures",
+          "sub_component": "monitoring",
+          "citations": []
+        },
+        {
+          "text": "All Conservation Focus Areas implemented in the years 2015-25 should have some level of adaptive management capacity built into implementation, especially given the unknowns presented by climate change.",
+          "location": "Conservation Focus Area Monitoring",
+          "sub_component": "monitoring",
+          "citations": []
+        }
+      ],
+      "absence_note": "The document has both time-bound elements (explicit 2015-25 timeframe, 10-year objectives, biennial regional meetings beginning 2016, 'by 2022' deadlines for specific survey objectives) and effectiveness monitoring requirements built into Conservation Focus Areas and Wildlife Action Network monitoring. Score 2 is appropriate."
+    },
+    "evidence_of_efficacy": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Current research finds little evidence of the potential negative consequences of connections, such as the spread of predators and pathogens (Haddad et al. 2014), and strong evidence of positive effects, such as increased biological diversity (Gilbert-Norton et al. 2010).",
+          "location": "Addressing Large-Scale Stressors",
+          "sub_component": null,
+          "citations": ["Haddad et al. 2014", "Gilbert-Norton et al. 2010"]
+        },
+        {
+          "text": "Increased native biological diversity has generally been found to decrease the invasability of invasive plants (Levine and D'Antonio 1999; Hooper et al. 2005; Fridley et al. 2007; Yan et al. 2015).",
+          "location": "Addressing Large-Scale Stressors",
+          "sub_component": null,
+          "citations": ["Levine and D'Antonio 1999", "Hooper et al. 2005", "Fridley et al. 2007", "Yan et al. 2015"]
+        }
+      ],
+      "absence_note": "The document presents citations to studies with limited applicability (meta-analyses, general biodiversity-invasibility research) to support corridor and diversity-based actions. These are relevant but not directly applied studies of the specific MN context. Score 2 (limited evidence) is appropriate: studies referenced test underlying principles but not the specific actions in MN conditions.",
+      "projects": ["Gilbert-Norton et al. 2010 meta-analysis: A meta-analytic review of corridor effectiveness provided evidence of strong positive effects of habitat connectivity, including increased biological diversity, supporting the plan's Wildlife Action Network connectivity actions.", "Haddad et al. 2014: Reviewed potential negative ecological effects of corridors (spread of predators and pathogens), found little evidence of negative consequences, providing supporting evidence for the connectivity approach.", "Handler et al. 2014 Northwoods Climate Change Response Framework: Assessed forest ecosystem vulnerability in the Laurentian Mixed Forest Province under climate scenarios, providing the evidence base for prioritizing certain forest habitats and adaptive management approaches in the plan."]
+    },
+    "adaptation_planning_frameworks": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "The Wildlife Action Plan addresses many of the strategies recommended in the National Fish, Wildlife and Plants Climate Adaptation Strategy (2012).",
+          "location": "Addressing Climate Change",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "The adaptive management framework consists of assessing the problem, designing strategies to address the problem, implementing selected strategies, monitoring results, evaluating what those results mean, and adjusting management if monitoring suggests that changes are needed",
+          "location": "Conservation Focus Area Monitoring",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document explicitly references the National Fish, Wildlife and Plants Climate Adaptation Strategy (2012) as a framework guiding plan content, and operationalizes adaptive management at the Conservation Focus Area level in a climate-change context. The vulnerability assessment framework (sensitivity + exposure + adaptive capacity) is also explicitly named in the glossary and used throughout. Score 2 is appropriate as specific frameworks are named and applied."
+    }
+  },
+  "coding_meta": {
+    "coder": "llm:claude-sonnet-4-6",
+    "model": "claude-sonnet-4-6",
+    "provider": "claude",
+    "codebook_version": "0.4",
+    "ingest": "text",
+    "design": "single",
+    "temperature": null,
+    "thinking": null,
+    "thinking_effort": null,
+    "coded_at": "2026-07-06T18:39:24Z",
+    "notes": {}
+  }
+}

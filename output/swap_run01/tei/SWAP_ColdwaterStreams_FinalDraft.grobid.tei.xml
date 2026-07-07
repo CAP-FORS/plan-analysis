@@ -1,0 +1,858 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Coldwater Streams</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Kevin</forename><forename type="middle">E</forename><surname>Wehrly</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Coldwater Streams. Michigan Department of Natural Resources</orgName>
+								<address>
+									<settlement>Lansing</settlement>
+									<region>MI</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Dana</forename><forename type="middle">K</forename><surname>Castle</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Coldwater Streams. Michigan Department of Natural Resources</orgName>
+								<address>
+									<settlement>Lansing</settlement>
+									<region>MI</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Arthur</forename><forename type="middle">R</forename><surname>Cooper</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Coldwater Streams. Michigan Department of Natural Resources</orgName>
+								<address>
+									<settlement>Lansing</settlement>
+									<region>MI</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Ryan</forename><forename type="middle">E</forename><surname>Brown</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Coldwater Streams. Michigan Department of Natural Resources</orgName>
+								<address>
+									<settlement>Lansing</settlement>
+									<region>MI</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Tim</forename><forename type="middle">A</forename><surname>Cwalinski</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Coldwater Streams. Michigan Department of Natural Resources</orgName>
+								<address>
+									<settlement>Lansing</settlement>
+									<region>MI</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Edward</forename><forename type="middle">A</forename><surname>Eisch</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Coldwater Streams. Michigan Department of Natural Resources</orgName>
+								<address>
+									<settlement>Lansing</settlement>
+									<region>MI</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Patrick</forename><forename type="middle">B</forename><surname>Ertel</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Coldwater Streams. Michigan Department of Natural Resources</orgName>
+								<address>
+									<settlement>Lansing</settlement>
+									<region>MI</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Jan-Michael</forename><surname>Hessenauer</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Coldwater Streams. Michigan Department of Natural Resources</orgName>
+								<address>
+									<settlement>Lansing</settlement>
+									<region>MI</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Addie</forename><forename type="middle">J</forename><surname>Myers</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Coldwater Streams. Michigan Department of Natural Resources</orgName>
+								<address>
+									<settlement>Lansing</settlement>
+									<region>MI</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Lucas</forename><forename type="middle">R</forename><surname>Nathan</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Coldwater Streams. Michigan Department of Natural Resources</orgName>
+								<address>
+									<settlement>Lansing</settlement>
+									<region>MI</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Jack</forename><forename type="middle">E</forename><surname>Taylor</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Coldwater Streams. Michigan Department of Natural Resources</orgName>
+								<address>
+									<settlement>Lansing</settlement>
+									<region>MI</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Mark</forename><forename type="middle">A</forename><surname>Tonello</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Coldwater Streams. Michigan Department of Natural Resources</orgName>
+								<address>
+									<settlement>Lansing</settlement>
+									<region>MI</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Jay</forename><forename type="middle">K</forename><surname>Wesley</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Coldwater Streams. Michigan Department of Natural Resources</orgName>
+								<address>
+									<settlement>Lansing</settlement>
+									<region>MI</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Troy</forename><forename type="middle">G 2026</forename><surname>Zorn</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Coldwater Streams. Michigan Department of Natural Resources</orgName>
+								<address>
+									<settlement>Lansing</settlement>
+									<region>MI</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><surname>Michigan'</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Coldwater Streams. Michigan Department of Natural Resources</orgName>
+								<address>
+									<settlement>Lansing</settlement>
+									<region>MI</region>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Coldwater Streams</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">280E20C16A9BCC2854FF545AD65792BA</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.1" ident="GROBID" when="2026-07-06T12:27+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>What are coldwater streams?</head><p>In this plan, Coldwater streams are defined as having average July water temperatures less than 67 F. Coldwater streams represent roughly 28% of the streams miles in the state and are, therefore, a relatively rare habitat type. Coldwater streams are dependent on groundwater inputs which arise from watersheds with coarse-textured glacial deposits of sand and gravel. Groundwater inputs are not only important for maintaining cold summer stream temperatures, but they also produce relatively stable stream flows. Coldwater streams are found primarily in the northern portion of Michigan's Lower Peninsula and across the Upper Peninsula.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Why are coldwater streams important?</head><p>Coldwater streams are important features providing habitat not only for popular gamefish such as Brook Trout, Brown Trout and Rainbow Trout, but also for non-game fishes, aquatic insects and reptiles. Coldwater streams seasonally support large spawning runs of migratory fishes such as suckers, Steelhead and Pacific Salmon and play a critical role in the life-history of these species. Coldwater streams provide ample recreational opportunities including fishing and paddlesports and are represented by Michigan's iconic and legendary trout streams including the Two-Hearted and Au Sable rivers. Healthy and intact coldwater streams influence the health and recreation potential of the Great Lakes by helping maintain water quality and supporting habitat for migratory fish species.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>What is the health of coldwater streams?</head><p>Historically, coldwater streams were negatively affected by unregulated timber harvest, dams built for logging and power generation, pollution and fisheries overharvest. Over time, the health of coldwater streams has greatly improved, especially since the passage of the Clean Water Act in 1972. Today, many coldwater streams are still affected by dams and improperly sized roadstream-crossings which eliminate high gradient habitat, limit movement of aquatic organisms, sediment and woody material and alter natural flow and thermal regimes. The health of coldwater streams is also threatened by multiple factors including increases in impervious surfaces associated with urban development, loss of groundwater due to competing water uses and alteration of water temperature and streamflow due to climate change. Because groundwater inputs are important determinants of the quality and quantity of coldwater streams,</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>protecting groundwater resources is critical for maintaining coldwater habitats, especially in the face of multiple threats.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Goals</head><p>• Improve understanding of availability and condition of coldwater stream habitats.</p><p>• Improve understanding of threats to and vulnerability of coldwater stream habitats.</p><p>• Conserve coldwater stream habitats through protection of groundwater resources, removal of barriers to aquatic organism passage, watershed and riparian protection and best management practices.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Focal Species</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Arctic Grayling Thymallus arcticus</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>State extirpated</head><p>Arctic Grayling were historically found in coldwater streams in the northern portion of the Lower Peninsula of Michigan and in at least one Upper Peninsula Coldwater Stream where they were likely introduced. In many coldwater streams, Grayling were the only native salmonid and often present in seemingly endless numbers. Grayling played an important role in Michigan's history as an important food source and culturally important species for Native Americans and they also supported large commercial and recreational fisheries. However, construction of dams, unregulated timber harvest, overexploitation by anglers and predation/competition from nonnative fish species led to the local extinction of Grayling and, by 1936, the species was extirpated from Michigan waters. Although multiple past attempts to reestablish Grayling have failed, a fresh approach to restoring the species has emerged. The Michigan Arctic Grayling Initiative (www.migrayling.org) was formed in 2016 and seeks to establish self-sustaining populations of Arctic Grayling. The initiative has more than 50 partners collaborating on the reintroduction. This initiative involves stocking eggs into in-stream incubators for the final phase of incubation and hatching. The first eggs introduced as part of this initiative were placed into the Manistee, Boardman-Ottaway and Maple River systems in May 2025.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Goals</head><p>• Establish self-sustaining populations of Arctic Grayling.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Wood Turtle</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Glyptemys insculpta</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>State threatened</head><p>The Wood Turtle is a medium-sized turtle and has a carapace with raised concentric rings, often with radiating yellow and black lines. The underside of the shell lacks a hinge and is yellow with dark, oblong blotches along the outer edge. The highly sculptured carapace and unhinged, patterned plastron distinguish this species from other turtles in the state. Wood turtles are found primarily in or near river systems and associated riparian or floodplain habitats. They prefer clear, medium-sized rivers and streams (range 7 to 100 feet wide) with sand or sand and gravel substrates and moderate flow <ref type="bibr" target="#b3">(Buech and</ref><ref type="bibr">Nelson 1991, Harding 1991)</ref>. Wood Turtles require partially shaded, wet-mesic herbaceous vegetation such as raspberries, strawberries, grasses, willows, alders, algae and moss along or near rivers for foraging and thermoregulation. Wood Turtles also require sandy or sandy-gravelly areas along or in rivers for nesting <ref type="bibr" target="#b12">(Lee 1999)</ref>.</p><p>Although Wood Turtles occur in a range of stream types, just over half (55%) of the observations statewide occur in coldwater streams. The majority (62%) of Wood Turtle observations in the Lower Peninsula occur in coldwater streams while about a third (38%) of the Wood Turtle observations in the Upper Peninsula occur in coldwater streams.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Goals</head><p>• Establish baseline status and distribution.</p><p>• Maintain existing populations.</p><p>• Determine the factors that currently limit Wood Turtle populations.</p><p>Call out box: Brook trout: a species of greatest information need. Brook Trout, the official state fish of Michigan, is a colorful cold-adapted species that is highly valued as a sportfish and for aesthetic reasons. Brook Trout were historically native to coldwater streams in the Upper Peninsula and the northern tip of the Lower Peninsula. By 1880, efforts were underway to propagate and extend the native range of range of Brook Trout in Michigan and by the early 1900s, populations were established in coldwater streams statewide <ref type="bibr" target="#b13">(MacCrimmon and Campbell 1969)</ref>. Although Brook Trout are not currently a Species of Greatest Conservation Need, there are concerns about the future of this species due to apparent declines across the state and known vulnerability to climate change <ref type="bibr" target="#b14">(Maitland and Latzka 2022)</ref>. Because these declines are not well understood, more monitoring and research is needed to understand population status and distribution, habitat conditions and to identify the factors that may limit Brook Trout populations. Such information is critical for developing conservation strategies to prevent future listing of this species.</p><p>Recommended actions:</p><p>• Conduct population and habitat surveys to establish baseline status and distribution.</p><p>• Determine the factors that limit Brook Trout populations.</p><p>• Identify resilient and vulnerable populations Threats and conservation actions for habitat Threats Natural Systems Modifications</p><p>• Loss of natural riparian vegetation and floodplain habitats and placement of infrastructure (e.g., bridges) can result in bank instability and erosion. As river channels adjust to changes in sediment transport, bank armoring is often prescribed, resulting in further degradation and fragmentation of habitats <ref type="bibr">(Smith et al. 2008</ref>).</p><p>• Removal of riparian vegetation increases stream temperatures, nutrients and sediments <ref type="bibr">(Francis and Hass 2006;</ref><ref type="bibr">Sweeney et al. 2004</ref>) and reduction of terrestrial food sources <ref type="bibr" target="#b20">(Studinski et al. 2017</ref>).</p><p>• Removal of log jams and other coarse woody structure results in loss of habitat and reduction in available cover for wildlife <ref type="bibr" target="#b8">(Hanshue and Harrington 2016)</ref>.</p><p>• Altered hydrology and increases in sediment and nutrient loading due to increases in impervious surfaces <ref type="bibr">(Stanfield and Kilgour 2006)</ref>.</p><p>• Reductions in stream flow due to surface water and groundwater extraction (Hamilton and Seelbach 2011).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Changing Weather Patterns</head><p>• Precipitation is very likely to become more extreme and less consistent, which could lead to increases in peak flows and lower base flows <ref type="bibr">(Pryor et al. 2014</ref>).</p><p>• Coldwater species are sensitive to high summer temperatures and rely on coldwater lake and stream refugia that could be eliminated from a warmer climate or species could lose access due to fragmentation <ref type="bibr" target="#b10">(Hayes et al. 1998</ref>).</p><p>• Altered flow regimes and temperatures in summer and winter could influence survival, growth, and recruitment for coldwater species <ref type="bibr" target="#b25">(Zorn et al. 2007;</ref><ref type="bibr" target="#b11">Kanno et al. 2015;</ref><ref type="bibr" target="#b14">Maitland et al. 2022)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Agriculture and Aquaculture</head><p>• Increases in high flows and decreases in low flows, altering the natural hydrologic processes, when agricultural lands are drained through stream channelization and field tiling <ref type="bibr">(Infante et al. 2006</ref>).</p><p>• Chemicals from pesticides and herbicides that leach into coldwater systems <ref type="bibr">(Myers et al. 2021)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Energy Production and Mining</head><p>• Hydropower dams and pumped-storage facilities can alter flow regimes, thermal habitat, and wetland habitat. Though most dams in Michigan operate as run-of-river, there are still mechanical issues that cause changes in flow <ref type="bibr" target="#b5">(Chalise et al. 2021</ref>).</p><p>• Mining and other energy activities such as fracking have the potential to use large volumes of water, thus potentially altering stream temperature and hydrology <ref type="bibr" target="#b4">(Burton Jr. Et al. 2014;</ref><ref type="bibr" target="#b21">Sutton et al. 2024)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Transportation Corridors</head><p>• Altered water flows, sediment transport changes and fragmentation caused by road and pipeline crossings (Francis and Haas 2006)</p><p>• Increased inputs of salt and other pollutants from road crossings <ref type="bibr" target="#b8">(Hanshue and Harrington 2016)</ref>.</p><p>• Road and rail crossings can increase sediments and pollutants and be an issue locally, as well as have cumulative impacts <ref type="bibr">(Francis and Haas 2006)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Pollution</head><p>• Increases in nutrient loadings from manure runoff from feedlots (COSEWIC 2011).</p><p>• Changes in thermal regimes from runoff and loss of riparian vegetation (Wehrly et al.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>2006)</head><p>• Contaminants of emerging concern, including microplastics and pharmaceuticals (Alliance for the Great Lakes 2010; Pal et al. 2010).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conservation Actions</head><p>Land &amp; Water Management</p><p>• Work with local Department of Environment, Great Lakes and Energy (EGLE), health departments, governments and conservation districts on procedures related to updating sewage treatment systems, agricultural practices and septic systems within coldwater watersheds.</p><p>• Protect and manage habitat at existing sites supporting focal species.</p><p>• Support the maintenance of Michigan Department of Environment, Great Lakes and Energy's Water Withdrawal Assessment Tool and work to understand the cumulative impacts of water withdrawal reach to reach.</p><p>• Support restoration initiatives to restore vegetated buffers near coldwater streams.</p><p>• Support and enhance regulatory programs that provide protections for wetlands and streams within important watersheds (i.e., Part 301 Inland Lakes and Streams, Part 303 Wetlands Protection, Part 305 Natural Rivers Program).</p><p>• Work with local foresters and wildlife managers on improving and enforcing best management practices for focal species habitat.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Raising Awareness</head><p>• Promote voluntary best management practices for forest and wildlife management.</p><p>• Provide recreational users, researchers and industry with best management practices for preventing the introduction and spread of invasive species.</p><p>• Work with Natural Resources Conservation Service, conservation districts, drain commissioners, private landowner programs and crop consultants to increase awareness of the Wildlife Action Plan and the conservation benefits of implementing best management practices especially near coldwater streams.</p><p>• Work with watershed groups to promote focal species and their habitats and ways to protect habitats through ordinances or best practices.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conservation Designation and Planning</head><p>• Work with the Michigan Department of Transportation, county and municipal road commissions and Michigan Department of Environment, Great Lakes and Energy to inventory road stream crossings to identify priority sites to reduce sediment inputs and to ensure that best management practices are used during maintenance, repair and installation of culverts and bridges. [CRA; RgRA]</p><p>• Work with the Michigan Department of Environment, Great Lakes and Energy (EGLE) to develop storm water management plans in priority watersheds. [CRA; RRA; RgRA]</p><p>• Work with Natural Resources Conservation Service and conservation districts to target Farm Bill programs toward conserving focal species habitats and to focus conservation efforts on infiltration and groundwater recharge zones.</p><p>• Integrate Wildlife Action Plan priorities with local watershed management plans.</p><p>• Use principles of Natural Channel Design and consideration of all impacted species during restoration activities such as dam removal or culvert modification.</p><p>• Seek and assist partners in obtaining funding for habitat restoration through programs such as the Fisheries Habitat Grant.</p><p>• Work among divisions to develop and enhance best management practices near coldwater streams.</p><p>• Identify vulnerable watersheds and prioritize watersheds for protection.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Draft Michigan Wildlife Action Plan: 2025-2035</head><p>Law and Policy</p><p>• Continue to administer an effective Michigan Department of Environment, Great Lakes and Energy protection program for wetlands, lakes and streams and provide incentives for conservation practices.</p><p>• Take appropriate enforcement actions for violations of the Invasive Species Order and maintain the Prohibited and Restricted Species list pursuant to the Natural Resources and Environmental Protection Act, 451 of 1994, as amended.</p><p>• Continue support for administration and enforcement of the Natural Rivers Program and develop new methodology for landowners to voluntarily restore violations related to clearing of buffers, sedimentation, etc.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Research and Monitoring</head><p>• Determine impacts of aquatic invasive species on coldwater streams and focal species (i.e., New Zealand Mudsnail).</p><p>• Promote use of two-stage channel design to protect focal species habitat.</p><p>• Assess stream and lake thermal refugia for coldwater species such as Arctic Grayling, Brook Trout, and others.</p><p>• Develop and implement targeted habitat surveys (using standardized sampling protocols as appropriate) as it relates to the restoration of Arctic Grayling, water withdrawal and dam removal.</p><p>• Promote and refine use of standardized sampling protocols that allow for comparability of streams across different spatial scales.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Threats and conservation actions for focal species</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Arctic Grayling</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Threats</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Lack of Knowledge</head><p>• Lack of knowledge on what limits reestablishment of Arctic Grayling in coldwater streams.</p><p>Invasive and other Problematic Species, Genes and Diseases</p><p>• Brown Trout may outcompete Arctic Grayling and Brook Trout <ref type="bibr" target="#b24">(Watson 2024;</ref><ref type="bibr" target="#b26">Zorn et al. 2020</ref>.</p><p>Energy Production and Mining</p><p>• Dams may limit connectivity among habitats for all life stages; on some coldwater streams, enhanced connectivity could allow brown trout establishment to the detriment of Arctic grayling and resident brook trout <ref type="bibr" target="#b26">(Zorn et al. 2020</ref>).</p><p>• Dams may alter thermal habitat and flow regimes, reducing habitat suitability for Arctic Grayling.</p><p>• Illegal harvest. Changing Weather Patterns</p><p>• Increasing water temperatures could decrease survival of Arctic Grayling and increase interactions with Brown Trout <ref type="bibr" target="#b24">(Watson 2024)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conservation Actions</head><p>Species Management</p><p>• Implement Michigan's Arctic Grayling Initiative Action Plan. Raising Awareness</p><p>• Create education and outreach opportunities providing information on the importance of Arctic Grayling, threats and best management practices to protect the species.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Law Enforcement and Prosecution</head><p>• Work with DNR Law Enforcement Division and local authorities to develop strategies that deter illegal harvest.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Law and Policy</head><p>• Protect Arctic Grayling habitat through the environmental permit review process. Conservation Designation and Planning</p><p>• Identify coldwater streams that may support Arctic Grayling.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Research and Monitoring</head><p>• Improve understanding of factors that may limit survival and establishment of Arctic Grayling.</p><p>• Evaluate culture and stocking techniques that may enhance survival and establishment.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Wood Turtle</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Threats</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Lack of Knowledge</head><p>• Lack of information on current status, distribution and population viability.</p><p>• Lack of information on nesting and wintering sites.</p><p>Invasive and other Problematic Species, Genes and Diseases</p><p>• Nest predation from raccoons and skunks (Soule 1992, Harding pers. comm.)</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Natural Systems Modifications</head><p>• Human activities such as construction of streamside cabins and roads, timber harvesting, grazing, agriculture, recreation, channel impoundments, stream channelization and bank stabilization have resulted in some habitat loss and degradation <ref type="bibr" target="#b3">(Buech and</ref><ref type="bibr">Nelson 1991, Harding 1997</ref>).</p><p>• The most serious threat to this species is poaching for commercial pet trade and incidental collecting by the general public <ref type="bibr" target="#b9">(Harding 1991</ref><ref type="bibr">, Soule 1992)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Transportation Corridors</head><p>• Mortality from road traffic and predation from raccoons and skunks which use roads as travel corridors (Soule 1992, Harding pers. comm.)</p><p>Changing Weather Patterns</p><p>• Changing weather patterns are predicted to substantially reduce suitable Wood Turtle habitat <ref type="bibr" target="#b17">(Mothes et al. 2020)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conservation Actions</head><p>Raising Awareness</p><p>• Create education and outreach opportunities providing information on the importance of Wood Turtle, threats and best management practices to protect the species.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Law Enforcement and Prosecution</head><p>• Work with DNR Law Enforcement Division and local authorities to develop strategies that deter illegal harvest.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Law and Policy</head><p>• Protect Wood Turtle habitat through the environmental permit review process.</p><p>• Implement the Wood Turtle Protections Guidance for Michigan DNR Lands.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Research and Monitoring</head><p>• Determine current status and distribution of Wood Turtle.</p><p>• Identify and monitor nesting and wintering sites as well as large populations.</p><p>• Conduct a threat assessment using existing species distribution models.</p><p>• Develop long-term population studies including viability studies.</p><p>How will we monitor?</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Habitat</head><p>• Use and refine existing stream habitat monitoring protocols to develop standardized and scalable metrics that span the array of available coldwater habitats in the State of Michigan.</p><p>• Continue the development and integration of large-scale and remote sensed data to improve understanding of coldwater habitat at the landscape scale.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Arctic Grayling</head><p>• Use the existing Michigan Arctic Grayling Initiative partnership to coordinate evaluations of reintroduction stockings, habitat suitability by life stage <ref type="bibr">(Goble et el. 2021</ref>) and movement among habitats.</p><p>• Explore the use of new technologies (e.g., eDNA) where possible to improve detection.</p><p>• Conduct targeted surveys to monitor changes in distribution and abundance.</p><p>• Conduct long-term surveys to determine population viability.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Wood Turtle</head><p>• Continue monitoring status, distribution, and population demographics with existing databases such as the state's Natural Heritage Database, iNaturalist and HerpMapper</p><p>• Continue trapping, mark and recapture studies, and population modelling efforts throughout the species' range</p><p>• Update occurrences in the state's Natural Heritage Database</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Places for partnership</head><p>This map was designed by partners to help them connect around important places for focal species. Working together on conservation actions on a voluntary basis provides great benefits to wildlife and people.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Links to other conservation plans</head><p>There has been a multitude of relevant planning efforts across the state and country over the past ten years. Bracketed superscripts throughout the Wildlife Action Plan indicate where the conservation action, goal, or monitoring strategy aligns with those from another plan. For</p></div><figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="3,72.00,72.00,337.80,337.80" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="4,72.00,117.54,337.80,337.80" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="11,72.00,367.54,205.50,253.57" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>out box: how vulnerable are focal species to a changing environment?</head><label></label><figDesc>• Implement management and regulatory actions that help maintain Brook Trout populations. Climate vulnerabilities for focal species were determined by Hoving et al (2013) and<ref type="bibr" target="#b17">Mothes et al. (2020)</ref> and climate vulnerabilities for Brook Trout were determined by<ref type="bibr" target="#b14">Maitland and Latzka (2022)</ref>. See threats section for more specifics about how climate change may affect species and habitats.Climate vulnerability rankings are based on the likelihood and amount of change in species abundance or range by 2050 -extreme = extremely likely to substantially decrease or disappear; moderate = a modest decrease is likely.</figDesc><table><row><cell cols="2">Call Climate vulnerability</cell></row><row><cell>Arctic Grayling</cell><cell>High</cell></row><row><cell>Wood Turtle</cell><cell>High</cell></row><row><cell>Brook Trout</cell><cell>High</cell></row></table></figure>
+		</body>
+		<back>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<monogr>
+		<title level="m" type="main">plans with distinct objectives, the objective or strategy number is also included. This linking of plans is meant to assist the expansion of partnerships</title>
+		<imprint>
+			<date type="published" when="2019">2019</date>
+			<publisher>Michigan State Forest Management Plan LRBOI Nmégos (Arctic Grayling) Stewardship Plan</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">and the Upper Peninsula Wood Turtle Protections Guidance for Michigan DNR Lands</title>
+		<ptr target="www.migrayling.org" />
+	</analytic>
+	<monogr>
+		<title level="m">Management Plan for Inland Trout in Michigan (Zorn et al. 2018)</title>
+		<meeting><address><addrLine>Jordan, Rifle, Pigeon, Betsie, Pine, Upper Manistee, Au Sable, Boardman, Fox Little Manistee Watershed Plan; Cheboygan, Au Sable, Manistee, Jordan River, Boardman, Muskegon</addrLine></address></meeting>
+		<imprint>
+			<publisher>Michigan&apos;s Arctic Grayling Initiative Action Plan</publisher>
+			<date type="published" when="2017">2017</date>
+		</imprint>
+		<respStmt>
+			<orgName>LMWCC) Watershed Assessment Plans -Little Manistee</orgName>
+		</respStmt>
+	</monogr>
+	<note>Natural Rivers Plans -Pere Marquette, Two Hearted. Kleitch et al. 2024</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<title level="m" type="main">Literature Cited</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">B</forename><surname>Buech</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">D</forename><surname>Nelson</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1991">1991</date>
+		</imprint>
+	</monogr>
+	<note>How to create wood turtle nesting areas. Draft report to Minn. DNR -Nongame Program</note>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Hydraulic &quot;Fracking&quot;: Are surface water impacts an ecological concern?</title>
+		<author>
+			<persName><forename type="first">Burton</forename><genName>Jr</genName></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">A</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Basu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">R</forename><surname>Ellis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">E</forename><surname>Kapo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Entrekin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Nadelhoffer</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/etc.2619</idno>
+		<ptr target="https://doi.org/10.1002/etc.2619" />
+	</analytic>
+	<monogr>
+		<title level="j">Environmental Toxicology and Chemistry</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="issue">8</biblScope>
+			<biblScope unit="page" from="1679" to="1689" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Dams and climate interact to alter river flow regimes across the United States</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">R</forename><surname>Chalise</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Sankarasubramanian</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Ruhi</surname></persName>
+		</author>
+		<idno type="DOI">10.1029/2020EF001816</idno>
+		<ptr target="https://doi.org/10.1029/2020EF001816" />
+	</analytic>
+	<monogr>
+		<title level="j">Earths Future</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<date type="published" when="1816">2021. 2020. 001816</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Cold-water habitats, climate refugia and their utility for conserving salmonid fishes</title>
+		<author>
+			<persName><forename type="first">Daniel</forename><forename type="middle">J</forename><surname>Isaak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Michael</forename><forename type="middle">K</forename><surname>Young</surname></persName>
+		</author>
+		<idno type="DOI">10.1139/cjfas-2022-0302</idno>
+		<ptr target="https://doi.org/10.1139/cjfas-2022-0302" />
+	</analytic>
+	<monogr>
+		<title level="j">Canadian Journal of Fisheries and Aquatic Sciences</title>
+		<imprint>
+			<biblScope unit="volume">80</biblScope>
+			<biblScope unit="issue">7</biblScope>
+			<biblScope unit="page" from="1187" to="1206" />
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Rating the potential suitability of habitat in Michigan stream reaches for Arctic grayling</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">W</forename><surname>Goble</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Zorn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Auer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Holtgren</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Mays</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Martell</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Fish and Wildlife Management</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="540" to="553" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<monogr>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">K</forename><surname>Hanshue</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">H</forename><surname>Harrington</surname></persName>
+		</author>
+		<title level="m">Grand River assessment. Michigan Department of Natural Resources Fisheries Report</title>
+		<meeting><address><addrLine>Lansing, Michigan</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">A twenty year wood turtle study in Michigan: Implications for conservation</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Harding</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Proceedings of the 1st International Symposium on Turtles and Tortoises: Conservation and Captive Husbandry</title>
+		<editor>
+			<persName><forename type="first">K</forename><forename type="middle">R</forename><surname>Beaman</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">F</forename><surname>Caporaso</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">S</forename><surname>Mckeown</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">M</forename><forename type="middle">D</forename><surname>Graff</surname></persName>
+		</editor>
+		<meeting>the 1st International Symposium on Turtles and Tortoises: Conservation and Captive Husbandry<address><addrLine>Orange, CA</addrLine></address></meeting>
+		<imprint>
+			<publisher>Chapman U</publisher>
+			<date type="published" when="1990">1991. August 9-12, 1990</date>
+			<biblScope unit="page" from="31" to="35" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<monogr>
+		<title level="m" type="main">The value of headwaters to brook trout (Salvelinus fontinalis) in the Ford Michigan, USA. Pages 175-185 in Headwaters: water resources and soil conservation</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">B</forename><surname>Hayes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">W</forename><surname>Taylor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">T</forename><surname>Drake</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Marod</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">E</forename><surname>Whelan</surname></persName>
+		</author>
+		<editor>M. J. Haigh, J. Krecek, G. S. Rajwar and M. P. Kilmartin</editor>
+		<imprint>
+			<date type="published" when="1998">1998</date>
+			<publisher>Oxford and IBH Publishing Co</publisher>
+			<pubPlace>New Delhi</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Seasonal temperature and precipitation regulate brook trout young-of-the-year abundance and population dynamics</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Kanno</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">C</forename><surname>Pregler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">P</forename><surname>Hitt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">H</forename><surname>Letcher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Hocking</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E B</forename><surname>Wofford</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Freshwater Biology</title>
+		<imprint>
+			<biblScope unit="volume">61</biblScope>
+			<biblScope unit="page" from="88" to="99" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<monogr>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Lee</surname></persName>
+		</author>
+		<title level="m">Special animal abstract for Clemmys insculpta</title>
+		<meeting><address><addrLine>Lansing, MI</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+	<note>Michigan Natural Features Inventory</note>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">World distribution of brook trout, Salvelinus fontinalis</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">R</forename><surname>Maccrimmon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Campbell</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the Fisheries Board of Canada</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="issue">7</biblScope>
+			<biblScope unit="page" from="1699" to="1725" />
+			<date type="published" when="1969">1969</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Shifting climate conditions affect recruitment in Midwestern stream trout, but depend on seasonal and spatial context</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">M</forename><surname>Maitland</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">W</forename><surname>Latzka</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ecosphere</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="issue">12</biblScope>
+			<biblScope unit="page">e4308</biblScope>
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<monogr>
+		<title level="m" type="main">State forest management plan</title>
+		<imprint>
+			<date type="published" when="2026">2026</date>
+			<publisher>Michigan Department of Natural Resources, Forest Resources Division and Wildlife Division</publisher>
+			<pubPlace>Lansing</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<monogr>
+		<title level="m" type="main">Michigan&apos;s Arctic Grayling Initiative Action Plan</title>
+		<ptr target="www.migrayling.org" />
+		<imprint>
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Habitat suitability models for the imperiled wood turtle (Glyptemys insculpta) raise concerns for the species&apos; persistence under future climate change</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">C</forename><surname>Mothes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">J</forename><surname>Howell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>Searcy</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Global Ecology and Conservation</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="page">1247</biblScope>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Brook Trout movement in response to temperature, flow and thermal refugia within a complex Appalachian riverscape</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">T</forename><surname>Petty</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Hansbarger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">M</forename><surname>Huntsman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">M</forename><surname>Mazik</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Transactions of the American Fisheries Society</title>
+		<imprint>
+			<biblScope unit="volume">141</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="1060" to="1073" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Spatial and seasonal dynamics of Brook Trout populations inhabiting a central Appalachian watershed</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">T</forename><surname>Petty</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Lamothe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">M</forename><surname>Mazik</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Transactions of the American Fisheries Society</title>
+		<imprint>
+			<biblScope unit="volume">134</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="572" to="587" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">The effects of riparian disturbance on the condition and summer diets of age-0 brook trout (Salvelinus fontinalis) in three central Appalachian streams</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Studinski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">W</forename><surname>Hafs</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Niles</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">J</forename><surname>Hartman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Canadian Journal of Fisheries and Aquatic Sciences</title>
+		<imprint>
+			<biblScope unit="volume">74</biblScope>
+			<biblScope unit="page" from="980" to="986" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Mining and climate change alters water storage and streamflow dynamics of northern peatland-dominated catchments</title>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">F</forename><surname>Sutton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">E</forename><surname>Balliston</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Price</surname></persName>
+		</author>
+		<idno type="DOI">10.1029/2024WR037310</idno>
+		<idno>WR037310</idno>
+		<ptr target="https://doi.org/10.1029/2024WR037310" />
+	</analytic>
+	<monogr>
+		<title level="j">Water Resources Research</title>
+		<imprint>
+			<biblScope unit="volume">60</biblScope>
+			<biblScope unit="issue">12</biblScope>
+			<date type="published" when="2024">2024. 2024</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">A landscape approach for identifying potential reestablishment sites for extirpated stream fishes: an example with Arctic grayling (Thymallus arcticus) in Michigan</title>
+		<author>
+			<persName><forename type="first">Iii</forename><surname>Tingley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">W</forename><surname>Infante</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Dean</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">M</forename><surname>Schemske</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">W</forename><surname>Cooper</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">R</forename><surname>Ross</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Daniel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Hydrobiologia</title>
+		<imprint>
+			<biblScope unit="volume">849</biblScope>
+			<biblScope unit="page" from="1397" to="1415" />
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<monogr>
+		<title level="m" type="main">Biogeographical and ecological factors contributing to the decline of Arctic Grayling, Thymallus arcticus Pallas</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">E</forename><surname>Vincent</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1962">1962</date>
+			<pubPlace>Ann Arbor</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>Michigan and Montana. Doctoral Dissertation. The University of Michigan</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<monogr>
+		<title level="m" type="main">Answering key uncertainties to successful reintroduction of Arctic grayling to Michigan streams</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">M</forename><surname>Watson</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2024">2024</date>
+		</imprint>
+		<respStmt>
+			<orgName>Michigan State University. East Lansing</orgName>
+		</respStmt>
+	</monogr>
+	<note>Ph. D. Dissertation</note>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">G</forename><surname>Zorn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J</forename><surname>Nuhfer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Influences on brown trout and brook trout population dynamics in a Michigan river</title>
+		<imprint>
+			<date type="published" when="2007">2007</date>
+			<biblScope unit="volume">136</biblScope>
+			<biblScope unit="page" from="691" to="705" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Increasing connectivity of Great Lakes tributaries: Interspecific and intraspecific effects on resident brook trout and brown trout populations</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">G</forename><surname>Zorn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J-M</forename><surname>Hessenauer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">C</forename><surname>Wills</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/eff.12563</idno>
+		<ptr target="https://doi.org/10.1111/eff.12563" />
+	</analytic>
+	<monogr>
+		<title level="j">Ecology of Freshwater Fish</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page" from="519" to="532" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>
+

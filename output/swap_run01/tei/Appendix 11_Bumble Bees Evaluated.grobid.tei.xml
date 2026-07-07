@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Appendix 11. List of Iowa Bumble Bees Evaluated by the IWAP</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<title level="a" type="main">Appendix 11. List of Iowa Bumble Bees Evaluated by the IWAP</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">731E2B40E82CBA61594F8EC6866C3805</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.1" ident="GROBID" when="2026-07-06T11:45+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Bumble Bees of North America: An identification guide. Princeton University Press.</p><p>SGCN refers to Species of Greatest Conservation Need (SGCN) status as determined through IWAP species conservation status assessments. Y: Yes, species is SGCN. Blank: No, species is not SGCN.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>T/E Status: Refers to whether a species is federally listed as Endangered, Threatened, or Candidate at the time of this plan's publication. It also refers to those species proposed for Endangered, Threatened or Delisting status at the state level. For up-to-date state of Iowa listing information, please see the Threatened and Endangered Species Program page on the DNR website.</p><p>• I-P-E/T/D: Proposed Endangered, Proposed Threatened, Proposed Delisted Regional SGCN: To access more information about this effort and for the updated list of Regional SGCN.</p><p>• R: Species is considered a Regional Species of Greatest Conservation Need in the Midwest.</p><p>• W: Watchlist. This is a list of species for which there was concern but insufficient information or differing trends across the region (WA: Watchlist -Assessment Priority). For some species this is because there is a different region of the country that is more important to the species than the Midwest (WD: Watchlist -Defer to adjacent region). • PR: R: Species is proposed as a Regional Species of Greatest Conservation Need in the Midwest, if a Midwest state lists the species as SGCN.</p><p>Assessments of species conservation status undertaken as part of the IWAP are used to determine SGCN status. Other information is provided as a reference. Updates to State Wildlife Action Plans, Regional SGCN lists, Federal T&amp;E Status, etc., are each independent processes, undertaken by different entities with differing timeframes. As such, the various listings or status ranks for a given species at a given point in time may not always appear to be in accord. Please visit the links above for updated information. </p></div><figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head></head><label></label><figDesc>also referred to as B. ashtonii. Not the same as the B. bohemicus as referred to in Europe.</figDesc><table><row><cell></cell><cell>Common Name</cell><cell></cell><cell>Scientific Name</cell><cell>SGCN</cell><cell>T/E Status</cell><cell>Regional SGCN</cell></row><row><cell>14</cell><cell>Half-black Bumble Bee</cell><cell></cell><cell>Bombus vagans</cell><cell>Y</cell><cell></cell></row><row><cell>15</cell><cell cols="2">Variable Cuckoo Bumble Bee</cell><cell>Bombus variabilis</cell><cell>Y</cell><cell></cell><cell>R</cell></row><row><cell cols="3">Species with ranges very close to Iowa</cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell>Common Name</cell><cell></cell><cell>Scientific Name</cell><cell></cell><cell cols="2">Explanation</cell></row><row><cell cols="2">Confusing Bumble Bee</cell><cell cols="2">Bombus perplexus</cell><cell cols="3">Bee surveyors should be aware of the potential for this species to occur in Northeast Iowa</cell></row><row><cell cols="2">Yellow-banded Bumble Bee</cell><cell cols="2">Bombus terricola</cell><cell cols="3">Bee surveyors should be aware of the potential for this species to occur in Northern Iowa</cell></row><row><cell cols="2">Unconfirmed Species</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell>Common Name</cell><cell></cell><cell>Scientific Name</cell><cell></cell><cell cols="2">Explanation</cell></row><row><cell cols="2">Frigid Bumble Bee</cell><cell cols="2">Bombus frigidus</cell><cell cols="2">Unconfirmed records</cell></row><row><cell cols="2">Morrison Bumble Bee</cell><cell cols="2">Bombus morrisoni</cell><cell cols="2">Unconfirmed records</cell></row><row><cell></cell><cell>Common Name</cell><cell></cell><cell>Scientific Name</cell><cell>SGCN</cell><cell>T/E Status</cell><cell>Regional SGCN</cell></row><row><cell>1</cell><cell cols="2">Rusty Patched Bumble Bee</cell><cell>Bombus affinis</cell><cell>Y</cell><cell>I-PE, F-E</cell><cell>R</cell></row><row><cell>2</cell><cell cols="2">Black and Gold Bumble Bee</cell><cell>Bombus auricomus</cell><cell>Y</cell><cell></cell><cell>PR</cell></row><row><cell>3</cell><cell>Two-spotted Bumble Bee</cell><cell></cell><cell>Bombus bimaculatus</cell><cell></cell><cell></cell></row><row><cell>4</cell><cell cols="2">Ashton's Cuckoo Bumble Bee</cell><cell>Bombus bohemicus*</cell><cell>Y</cell><cell></cell><cell>R</cell></row><row><cell>5</cell><cell cols="2">Northern Amber Bumble Bee</cell><cell>Bombus borealis</cell><cell>Y</cell><cell></cell></row><row><cell>6</cell><cell cols="2">Lemon Cuckoo Bumble Bee</cell><cell>Bombus citrinus</cell><cell>Y</cell><cell></cell></row><row><cell>7</cell><cell>Yellow Bumble Bee</cell><cell></cell><cell>Bombus fervidus</cell><cell>Y</cell><cell></cell></row><row><cell>8</cell><cell cols="2">Southern Plains Bumble Bee</cell><cell>Bombus fraternus</cell><cell>Y</cell><cell></cell><cell>R</cell></row><row><cell>9</cell><cell cols="2">Brown-belted Bumble Bee</cell><cell>Bombus griseocollis</cell><cell></cell><cell></cell></row><row><cell>10</cell><cell cols="3">Common Eastern Bumble Bee Bombus impatiens</cell><cell></cell><cell></cell></row><row><cell>11</cell><cell>American Bumble Bee</cell><cell></cell><cell>Bombus pensylvanicus</cell><cell>Y</cell><cell></cell><cell>R</cell></row><row><cell>12</cell><cell>Red-belted Bumble Bee</cell><cell></cell><cell>Bombus rufocinctus</cell><cell>Y</cell><cell></cell></row><row><cell>13</cell><cell>Tri-colored Bumble Bee</cell><cell></cell><cell>Bombus ternarius</cell><cell>Y</cell><cell></cell></row></table><note><p>*</p></note></figure>
+		</body>
+		<back>
+			<div type="references">
+
+				<listBibl/>
+			</div>
+		</back>
+	</text>
+</TEI>
+

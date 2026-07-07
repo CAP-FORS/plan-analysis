@@ -1,0 +1,5252 @@
+## Executive Summary
+
+The 2015 West Virginia State Wildlife Action Plan (SWAP) is a response to Congress's challenge for all states to provide a comprehensive wildlife conservation strategy, but more importantly, it is a road map for the West Virginia Division of Natural Resources (WVDNR) and its many partners and collaborators to proactively conserve the full array of West Virginia's biological diversity.
+The citizens of West Virginia enjoy a state rich in natural resources, including an incredible diversity of landscapes, plants, and animals on both public and private lands. The people of this state have a long history of attachment to and concern for fish and wildlife resources. This plan identifies over 600 animal and 400 plant "Species of Greatest Conservation Need" (SGCN) in the state that, as the name implies, need a little more help from us all if we are to avoid their disappearance from the landscape. They, along with many more common species, thrive or fail primarily on the basis of suitable habitat availability and quality. Stresses to the overall ecosystem and to SGCN's in particular include habitat loss, habitat degradation, disease, competition, and predation. Furthermore, these stresses occur at multiple geographic scales and over different time frames presenting a complex challenge to comprehensive planning for conservation actions that address those stresses. This plan responds to that challenge by moving beyond the regulatory environment. It presents a more collaborative and voluntary approach which engages the full array of stakeholders including public and private landowners, agencies, non-governmental organizations, education and research institutions, and the general public. The 2015 SWAP has the following 10 year goals:
+ Halt the decline of at-risk species and thus avoid the need for federal listing as threatened or endangered  Assist with the recovery of federally listed species  Keep the common species common  Conserve the full array of habitat types and biological diversity in the state
+The 2015 SWAP was developed with technical and strategic guidance from a multi-agency and organization Advisory Team. A Core Working Group was established and included virtually all of the professional staff from the agency's Wildlife Diversity Unit and members of a West Virginia University (WVU) Natural Resource Analysis Center consulting team working under a cooperative agreement with the agency. The WVDNR staff provided data, technical analysis, and most of the content for the plan. The WVU consulting team provided technical analysis, guidance, geospatial support, and additional content for the plan while also managing the planning process for the agency. External input to the plan was substantial and provided through a variety of sources and expert assistance including The American University, West Liberty University, Marshall University, and outside consultants.
+While the 2015 SWAP represents compilation, analysis, management, and communication of large and complex volumes of data, information and relationships, its concept is straightforward.
+ Identify, locate, and describe Species of Greatest Conservation Need.  Identify, locate, and describe terrestrial and aquatic habitats.  Understand habitat/species relationships.  Evaluate stresses to species and habitats at multiple geographic scales.  Formulate conservation actions to reduce stresses at multiple geographic scales.
+
+## WV State Wildlife Action Plan
+
+ Develop Conservation Focus Areas (CFAs) where stresses and conservation actions are geographically linked.  Develop a plan to monitor performance, continue research, and adapt management techniques to improve results.
+The 2015 SWAP recognized over 600 animal species as SGCN, but the 319 Priority 1 species are the primary focus for conservation activities. Included in the SGCN list are Amphibians, Birds, Butterflies and Moths, Cave Invertebrates, Crayfish, Dragonflies and Damselflies, Fish, Snails, Mammals, Mussels, Other Invertebrates, Reptiles, and Tiger Beetles.
+Science and technology played a dominant role in developing this plan. Classification and mapping of terrestrial and aquatic habitats in West Virginia incorporated data from regional mapping projects and the WVDNR's own classification and mapping efforts. Spatial analysis combined GIS databases for species occurrence with the GIS databases for habitat occurrence to help identify species/habitat relationships. A new database was built to archive and facilitate communication of these results.
+Stress assessment and prioritization were conducted statewide by evaluating the geographic extent and biological impact of stresses as well as the potential for effective conservation action. That effort identified 21 major stresses on terrestrial SGCN populations and habitats and 20 major stresses on aquatic populations and habitats. Hundreds of conservation actions where formulated to respond to those stresses. Sixty-nine of these actions were considered high priority. They present a strong call for collaboration among conservation partners. They are rarely regulatory, and largely voluntary.
+Several of the proposed conservation actions are potential game changers for SGCN populations. These include:
+ A proposal for collaboration among members of the state's forest management community to recognize the roles that public and private forestry partners are playing to provide the desired array of forest habitats for SGCN populations,  A proposal for collaboration between the West Virginia Division of Highways and other state and federal agencies to simultaneously protect SGCN populations and make highway construction and maintenance faster and less expensive, and  Identifying Conservation Focus Areas to concentrate conservation actions of all partners where priority species and their habitats are most heavily concentrated Conservation Focus Areas are a set of geographies that were identified across West Virginia where conservation resources can potentially be more efficient, effective, and provide more opportunities for leveraging successful outcomes. Stresses and associated conservation actions can occur on a statewide, regional, or local scale. Conservation Focus Areas are at a scale where more intensive investigation, collaboration, and conservation action can readily occur. Beginning this fall, conservation planning for these CFA's will engage local partners and stakeholders in an exciting effort to really "put the SWAP on the ground."
+The paradigm shift envisioned in the SWAP will maintain a continuously evolving plan of action to achieve its goals. With the help of all West Virginians, the actions identified in this plan and its subsequent revisions will achieve the goals we've set for it. If we are successful, an enhanced quality of life for all our state's citizens will be the ultimate outcome. Introduction
+The fish and wildlife resources of West Virginia belong to the people of the state. Those resources are held in trust for the people by their state government. As the state's principal wildlife conservation agency, the West Virginia Division of Natural Resources (WVDNR) is charged with the responsibility of conserving all species of fish and wildlife for all the people of the state. It is no small responsibility, for our fish and wild resources include many, many more species than those with which most people are familiar. West Virginia's rich biological diversity includes thousands of plant and animal species interacting with each other and the environment. The flora and fauna of this state, along with the habitats they occupy, form West Virginia's natural heritage -a legacy that should be treasured just as much as our cultural heritage. Unfortunately, populations of many once-common species have declined because of a variety of stressors, including habitat loss, habitat degradation, diseases, and competition and predation from invasive species. While conservation actions in the past have yielded notable successes, they have not been sufficient to stem the overall tide of species decline. There is a pressing need for a comprehensive, systematic, and proactive approach to conserving the full array of West Virginia's biological diversity for the loss of any part of it is a loss to all of the state's citizens.
+In the form of West Virginia's State Wildlife Action Plan (SWAP), the WVDNR has the responsibility of preparing that proactive approach to conservation. The 10-year goals of the West Virginia SWAP are to:
+(1) Halt the decline of at-risk species and thus avoid the need for federal listing as threatened or endangered; and (2) Assist with the recovery of federally listed species; and (3) Keep the common species common; and (4) Conserve the full array of habitat types and biological diversity in the state.
+Natural habitat in West Virginia, and the biological diversity it supports, includes lands under both public and private ownership. West Virginians have a strong tradition of support for the state's 1.7 million acres of public lands. Private lands, however, comprise more than 88% of the state's 15.5 million acre total land area. The citizens and the fish and wildlife resources of the state can benefit from the strong conservation tradition and sound stewardship of both public and private landowners. The West Virginia SWAP seeks to continue this tradition, while at the same time creating new opportunities for collaboration between individual and corporate landowners, communities, private and governmental organizations, and others for conserving West Virginia's biological diversity. The West Virginia SWAP is focused principally on such collaborative conservation. As stewards for the next generation, it is everyone's responsibility to ensure the treasures that were handed to us by nature and our ancestors are still here for future generations of West Virginians to enjoy. 
+1.1.2: Conservation Funding
+ For more than 50 years, state fish and wildlife agencies have benefited from funds provided by the Federal Aid in Wildlife Restoration Act (Pittman-Robertson) and the Federal Aid in Sport Fisheries
+Restoration Act (Dingell-Johnson, Wallop-Breaux). These monies are collected through a federal excise tax on hunting and fishing equipment. In conjunction with revenues collected through the sale of hunting and fishing licenses and habitat stamps, these funds have provided consistent support for the conservation and management of wildlife species and game fish. These monies have been critical to the establishment of the Division of Natural Resources' long-term conservation planning and have led to significant conservation results in West Virginia. Species such as White-tailed Deer, Wild Turkey, Black Bear, Canada Geese, Brook Trout and Walleye, which were in low numbers in the early 1900s, have shown dramatic rebounds.
+In West Virginia, game species make up less than 5% of all animal species. While many of the state's nongame species have received substantial benefits from habitat conservation and restoration directed at game species, their needs have not been fully met. Conservation efforts for these species have in large part been opportunistic and crisis-driven, limited by a lack of funding and by a lack of strategic approaches to species and habitat conservation. Today, with more than 1,300 species in the United States listed on the Federal Endangered and Threatened species list, and many more species in decline, the need has never been greater for a complementary source of funding to support the conservation, protection, and restoration of the full array of species, especially those not covered under traditional funding strategies. The West Virginia SWAP takes measures that aid in the recovery of declining species and ensure that common native species remain common.
+A coalition including more than 6,000 organizations representing wildlife enthusiasts such as birdwatchers, hunters, anglers, and others was organized in the mid 1990's and is one of the largest grassroots coalitions of its kind in the nation's history. This coalition, known as Teaming with Wildlife, was created in part to demonstrate support for federal wildlife conservation funding that can be used to address the needs of declining fish and wildlife. In response to the Teaming with Wildlife Coalition, Congress established the Wildlife Conservation and Restoration and the State Wildlife Grants programs in 2001.
+As a requirement for receiving funding through these two new programs, Congress required each state to develop a State Wildlife Action Plan. West Virginia's first SWAP was developed in 2005 and covered a ten year period. The SWAP developed in West Virginia and in every other state provides an essential foundation for the future of wildlife conservation and a stimulus to engage the states, federal agencies, and other conservation partners to strategically think about their individual and coordinated roles in prioritizing and delivering conservation work. The SWAP is designed as a blueprint for conservation that all organizations and individuals can use in West Virginia, not simply a plan for the West Virginia Division of Natural Resources.
+
+## 1.2: Eight Required Elements of the State Wildlife Action Plan
+
+Congress identified eight required elements to be addressed in each state's wildlife action plan. Congress also directed that the strategies must identify and focus on "species of greatest conservation need," yet address the "full array of wildlife" and wildlife-related issues. The United States Fish and Wildlife Service and the Association of Fish and Wildlife Agencies have developed additional guidance on information needed to meet the eight elements. The strategies must provide and make use of these eight elements:
+2015 WV State Wildlife Action Plan
+(1) Information on the distribution and abundance of species of wildlife, including low and declining populations, as the state fish and wildlife agency deems appropriate, that are indicative of the diversity and health of the state's wildlife; and,
+(2) Descriptions of locations and relative condition of key habitats and community types essential to conservation of species identified in 
+(1)
+; and,
+(3) Descriptions of problems which may adversely affect species identified in 
+(1)
+ or their habitats, and priority research and survey efforts needed to identify factors which may assist in restoration and improved conservation of these species and habitats; and, (4) Descriptions of conservation actions proposed to conserve the identified species and habitats and priorities for implementing such actions; and,
+(5) Proposed plans for monitoring species identified in 
+(1)
+ and their habitats, for monitoring the effectiveness of the conservation actions proposed in (4), and for adapting these conservation actions to respond appropriately to new information or changing conditions; and, 
+(6)
+ Descriptions of procedures to review the strategy at intervals not to exceed 10 years; and, (7) Plans for coordinating the development, implementation, review, and revision of the plan with federal, state, and local agencies and Indian tribes that manage significant land and water areas within the state or administer programs that significantly affect the conservation of identified species and habitats.
+(8) Congress also affirmed through this legislation that broad public participation is an essential element of developing and implementing these plans.
+To address both "species of greatest conservation need," and the "full array of wildlife," the West Virginia SWAP followed a stepwise approach -focusing first on identifying species in need, then on habitats associated with those species and finally on geographic areas of the state with concentrations of species and the habitats that they require. In identifying species to be addressed by the SWAP, attention was focused on at-risk species. To identify species/habitat associations, known locations of species were matched with data from habitat mapping in the state and expert opinions. High-densities of species and habitat occurrences were used to identify a series of Conservation Focus Areas (CFA's). These areas provide public agencies and private entities significant opportunities to focus their resources and energies to conserve the extensive array of biological diversity (see Chapter 2 for explanation of methods used), although conservation in the state is not to be limited solely to these areas. At multiple scales, we identified stresses, both historic and current, to species and habitats. We then identified a set of overarching conservation actions to address the stresses that can be applied in many areas of the state (Chapter 4), as well as site-specific actions for each of the Conservation Focus Areas (Chapter 6).
+
+## 1.3: Value of a State Wildlife Action Plan to West Virginia
+
+The nationwide completion of State Wildlife Action Plans was viewed as a watershed event in the history of conservation in the United States. Conservation has traditionally taken a species-by-species approach and focused on a limited number of species. Previous conservation efforts aimed at nongame species have often focused on those species that were on the brink of extinction. However, these "emergency room" efforts at recovery are expensive and not always successful. A new proactive approach was needed that addressed the full array of wildlife, keeping common species common, while also preventing our at-risk species from declining to the point of threatened or endangered status.
+State Wildlife Grant (SWG) funding has been instrumental in helping the state undertake the development and implementation of the SWAP. The development process itself has engaged new partners, strengthened existing partnerships, and significantly raised awareness about the state's biological diversity. The resulting plan is designed to provide guidance and strategic focus to agencies, organizations, communities and individuals interested in implementing conservation.
+The Wildlife Conservation and Restoration and State Wildlife Grants programs have provided new funding opportunities for conservation organizations in West Virginia. The WVDNR has made portions of these funds available to dozens of conservation organizations and universities through a cooperative grants program. Projects currently underway and already completed have increased our knowledge about the species and habitats found in West Virginia and contributed towards their conservation. Continuation of a cooperative grants program will be beneficial to implementation of the West Virginia SWAP.
+State Wildlife Grant funding is a turning point in wildlife conservation funding, but it cannot possibly meet all the needs of West Virginia's wildlife species. The actions outlined in this document suggest ways to use existing monetary resources efficiently, but new funding sources and new partnerships must also be explored. The responsibility for implementation of this plan rests with all West Virginians.
+To that end, one of the greatest strengths of the West Virginia SWAP has been the diverse collaboration that has resulted from this planning process. In the future, that collaboration will expand to include an even greater number of stakeholders as they assist with development and implementation of operational plans for each of the 21 Conservation Focus Areas identified in the West Virginia SWAP.
+
+## WV State Wildlife Action Plan
+
+Chapter 2: Planning Process
+
+## 2.1: Review of 2005 Plan
+
+As was the case in many other states, West Virginia's first State Wildlife Action Plan (SWAP), produced in 2005, was a massive effort intended to compile information on the status, distribution, and conservation needs of hundreds of fish and wildlife species about which little was known at the time. In contrast to the research and management efforts that have restored populations of game species, populations of nongame species have historically not received adequate attention nor resources necessary for conservation planning. Despite its good intentions, the internal and external conventional wisdom regarding the 2005 West Virginia Wildlife Conservation Action Plan (WVWCAP), subtitled "It's About Habitat", was long on identification of species but short on real conservation actions. Given that so much critical conservation information was unavailable at that time, the 2005 WVWCAP simply couldn't accomplish what it set out to do. What it did accomplish was to identify and catalyze many of the research, survey, and mapping actions that would be necessary for development of a more effective conservation plan. Those actions included:
+• More extensive species distribution and abundance surveys,
+• Better mapping of terrestrial and aquatic habitats, and • A more sophisticated understanding of the regional context for species and habitat conservation.
+Over the past decade, those actions have produced a more data-rich environment for revision of the West Virginia SWAP. While it undoubtedly builds on and benefits from the 2005 WVWCAP, the 2015 revision is a brand new and much more sophisticated effort. It is designed to yield more opportunities for conservation action by more partners operating with more spatially explicit information at their fingertips.
+
+## 2.2: Advisory Team for the 2015 SWAP Revision
+
+To help guide the WVDNR in developing the 2015 SWAP, an Advisory Team was formed comprised of representatives from some of the West Virginia's most experienced conservation partners. The Advisory Team has provided valuable strategic and technical guidance and review of agency and organizational plans and priorities which informed the 2015 SWAP. The Team also reviewed portions of the draft plan itself. In addition to the WVDNR personnel, the Advisory Team included:
+• The Nature Conservancy, 
+
+## 2.3:
+
+The WVDNR Team for the 2015 SWAP Revision
+The WVDNR assembled a Core Working Group for the 2015 SWAP revision that included virtually all of the professional staff from the agency's Wildlife Diversity Unit and members of a West Virginia University (WVU) consulting team working under a cooperative agreement with the agency. The WVDNR staff provided data, technical analysis, and most of the content for the plan. The WVU consulting team provided technical analysis, guidance, and additional content for the plan and managed the planning process for the agency. The members of the Core Working Group for the plan included: Nineteen experts on fish and wildlife species in West Virginia reviewed the list of candidate species, and the draft SGCN list was also provided several times for review to the Advisory Team, which itself represents multiple external entities. External expert review on particular taxa groups was provided by:
+WVDNR Staff • Barb Sargent • Brian Streets • Craig Stihler • Dan Cincotta • Dave Thorne • Jack Wallace • Janet Clayton • Jeff Hajenga • Jim Fregonara • Jim Vanderhorst • Kieran O'Malley • Mike Everhart • Paul Harmon
+• The American University (Cave invertebrates),
+• West Liberty University (Crayfish), and • Marshall University (Amphibians and Reptiles).
+
+## 2.4.2: Other External Input
+
+External inputs from multiple sources were incorporated into the SWAP planning process. Specific planning components that benefitted from external inputs included:
+• habitat mapping and classification,
+• stress assessment/conservation action identification, and • identification of Conservation Focus Areas.
+The external inputs that contributed to these critical components of the SWAP planning process included:
+• the Northeast Terrestrial Habitat Classification System produced by NatureServe 
+(Gawler 2008
+),
+• the Northeast Habitat Map produced by The Nature Conservancy 
+(Ferree and Anderson 2013
+),
+• the Northeast Aquatic Habitat Classification System produced by The Nature Conservancy,
+• GIS analyses for Assessing Future Energy Development Across the Appalachians, produced by The Nature Conservancy and the Appalachian LCC, • projections of population change and development potential from multiple sources,
+• conservation priority analyses conducted by The Conservation Fund's Freshwater Institute, • ecoregional conservation priority analyses conducted by The Nature Conservancy, and • protected lands assessments developed by The Nature Conservancy Public input to all components of the SWAP was sought during the 45 day public review period from June 15 -July 30, 2015. During this period the WVDNR hosted three public open houses conducted across the state on June 15-16, 2015. The draft SWAP was provided for external review to many individuals and organizations who could act as partners and cooperators for plan implementation, including the following: The draft SWAP was made available to the public during the comment period through the WVDNR's website. Additional external input was secured through an extensive array of public input opportunities during 2014 and 2015, culminating in a two-day partner workshop held July23-24, 2015. A complete list of all public and partner outreach efforts for the 2015 West Virginia SWAP is as follows.
+
+## SWAP PUBLIC AND PARTNER OUTREACH EFFORTS Introduction
+
+West Virginia's 2005 WVWCAP prioritized 128 species as SGCN out of a list of 574 species that was compiled from international, national, state, and private conservation organizations. In the 2015 revision, a comprehensive species list was again compiled from many of the same sources, but assembled and prioritized according to a more standardized process. The review process identified 661 animal species as SGCN but 319 Priority 1 species are the primary focus for conservation activities.
+The SGCN list was compiled in three stages: data gathering, rank verification and updating, and prioritization. As a result, some species from the 2005 list were removed, and others were added. These steps are described below.
+
+## WV State Wildlife Action Plan
+
+## 2.5.2: Data Gathering
+
+The SGCN list was assembled based on a variety of characteristics. Lists were first assembled from the following sources: 
+
+## 2.5.3: Rank Verification and Updating
+
+In preparing for the 2015 revision, it was recognized that many taxa were in need of a review and reranking at the state level. The review and re-ranking was performed as follows: 
+
+## 2.5.3: Prioritization
+
+The list was then revised according to standardized criteria. Species were automatically included in the SGCN list if they fell into one of the following categories:
+• G1-G3 or Threatened on IUCN Red list,
+• Federally listed threatened or endangered,
+• Regional SGCN,
+• State ranked S1-S3,
+• On WVDNR's tracked species list, or • Disjunct or otherwise genetically unique populations.
+A species was also included in the SGCN list if it was an S4 and S5 species, if West Virginia was responsible for a significant portion of the population (10%) or species range (25%), and if any one of the three following criteria was met:
+• It is listed by a regional or taxa working group as a species of concern,
+• There is a recent threat or downward population trend not yet captured in S ranking, or • It received a Climate Change Vulnerability Index (CCVI) score of extremely or highly vulnerable.
+Species that did not meet any of the above criteria could still be included and species meeting the above criteria could be excluded with a reasonable and defensible explanation. This list was reviewed by the WVDNR's Core Working Group. Some species that qualify according to the criteria were removed for various reasons. For example, the Pink Papershell (Potamilus ohiensis) has been down-ranked from an S1 to S2 because their occurrence increased 10-25% over the last 15 years, and WVDNR staff biologists agree that the species is doing well without need for intervention. In the end, this process produced a list of 661 SGCN.
+A prioritization methodology was then applied to focus conservation efforts. The SGCN were assigned either Priority 1 or Priority 2 status, based on an assessment of conservation urgency and opportunities for conservation action. The SGCN species that were assigned Priority 1 status included:
+• All G1-G3 species,
+• All S1 species,
+• All species with a CCVI score of 1 or 2, and • All species that experts think should be priorities for conservation work in the next decade (survey, monitoring, propagation, habitat creation/restoration, research, etc., taking CCVI into account.)
+
+## WV State Wildlife Action Plan
+
+The resulting priority list was then reviewed by the SWAP Core Working Group. A number of species that qualified for Priority 1 status according to these criteria were subsequently removed for various reasons. For example, the Cheat Minnow (Pararhinichthys bowersi) is ranked S1S2, G1G2Q, but is considered a hybrid and is thus not a priority species for conservation. A number of species that fall outside the numeric criteria were included because it was the judgement of WVDNR biologists that the state or global rank did not adequately capture current species conservation needs, such as the Blackbellied Salamander (Desmognathus quadramaculatus) which depends on habitat that is likely to be affected by climate change, and the Ruffed Grouse (Bonasa umbellus) which has experienced large population declines.
+In the 2005 WVWCAP, all invertebrates were included on the SGCN species list by default because there was insufficient data to prioritize them, and all were in need of more survey to improve distribution data. There is now sufficient data for mussels, tiger beetles, butterflies, moths, gastropods, and cave invertebrates, such that they have been prioritized in the 2015 revision. Very little is still known about other invertebrates such as spiders, stoneflies, mayflies, and beetles which are still in need of surveys and research.
+The prioritization process resulted in a list of 319 Priority 1 species and 342 Priority 2 species. All pertinent information about these species was then entered into a dedicated Microsoft Access database (SWAPMASTER) built especially for developing and implementing the West Virginia SWAP. The SWAPMASTER database is described in more detail in Section 2.12.
+Individuals and groups who contributed to or reviewed the SGCN list for the 2015 SWAP revision included:
+• Appalachian Mountains Joint Venture: birds 
+
+## Plants
+
+The West Virginia SWAP is a wildlife plan. The federal funding that flows from its approval may not be spent to plan for or manage plants per se. Plants, however, are a fundamental component of habitat for SGCN. Rare plants, in particular, are often associated with SGCN habitats and can indirectly benefit from the planning and management efforts that are associated with the West Virginia SWAP. For this reason, plants are included in most sections of the SWAP. The "SGCN" plants, as it were, were selected and prioritized using a very similar process to that described for animal SGCN in Section 2.5. A total of 482 plant species were selected as SGCN and divided into 121 Priority 1 and 361 Priority 2 species.
+
+## 2.7:
+
+Habitat Classification and Mapping
+
+## 2.7.1: Terrestrial Habitats
+
+Classification and mapping of terrestrial habitats in West Virginia incorporated data from the Northeast Terrestrial Habitat Classification System (NETHCS) 
+(Gawler 2008)
+, the Northeast Habitat Map 
+(Ferree and Anderson 2013
+) and data from the WVDNR's own classification and mapping efforts. The WVDNR staff and WVU consultants used ESRI ArcGIS Spatial Analyst tools and map algebra to extract, reclassify, and combine data from the Northeast Habitat Map and other sources. Similar habitat types were combined across ecoregion boundaries [e.g., Allegheny-Cumberland Dry Oak Forest and Woodland + Central Appalachian Dry Oak-Pine Forest = Dry Oak (-Pine) Forests]. For floodplain and riparian areas, data from The Nature Conservancy's Active River Layer 
+(Smith et al. 2008)
+ were used as they were deemed to be the best available statewide GIS floodplain model despite mapping the above-ground river floodplains in karst. Any "natural" vegetation class in the floodplain was reclassified to floodplain vegetation, leaving the developed and agriculture classes as they were. There were only a few wetlands that did not fall in the floodplain and riparian zones. These included some Laurentian-Acadian and Piedmont types that were renamed "unknown." Shale barrens and spruce habitats were mapped based on layers that WVDNR had previously developed through plot sampling, rare plant location mapping, and photo interpretation. Calcareous Glades, which were greatly over-mapped by NETHCS, were combined with the new Northeastern Interior Calcareous Oak Forest ecological system, and large areas with mostly acidic bedrock were reclassified to "previous calcareous." The resulting mapping and classification dataset, consisting of 20 habitat types across the state, was used for subsequent terrestrial habitat analyses in the 2015 SWAP revision.
+2015 WV State Wildlife Action Plan 2.7.2:
+
+## Aquatic Habitats
+
+Classification and mapping of aquatic habitats in West Virginia incorporated data from the Northeast Aquatic Habitat Classification System (NEAHCS) 
+(Olivero and Anderson 2008)
+ with only slight modification by WVDNR to incorporate a few additional aquatic habitat types deemed necessary to classify the state's aquatic habitats. The resulting mapping and classification dataset was used for subsequent terrestrial habitat analyses in the 2015 SWAP revision.
+
+## 2.8: Species/Habitat Associations
+
+Effective management of SGCN must also address critical habitats for these species. Likewise, effective planning for that management must incorporate these species/habitat associations. For the West Virginia SWAP, the WVDNR staff and WVU consultants combined spatial databases for species occurrence with the spatial databases for habitat occurrence that were described in Section 2.7 above to produce an analysis of the habitat types where SGCN have been recorded in the past. Mapping resolution issues associated with both species and habitat data meant that this analysis could only serve as a starting point for species experts to further validate and refine the species/habitat associations. For all 661 animal SGCN and all 482 plant SGCN, the WVDNR's species and community experts edited the preliminary spatial analysis, first eliminating resolution-induced association errors and then attributing the remaining habitats as either Primary Habitats or Secondary Habitats. Primary Habitats were defined as those in which a species would be expected to occur. Secondary Habitats were defined as those in which the species might occur or habitats it may use if the primary habitat was nearby. These associations were then added to the SWAPMASTER database.
+
+## 2.9: Stress Identification and Prioritization
+
+Conservation planning for SGCN and habitats must address threats or stresses to both species and habitats. It is the position of the WVDNR that most activities that can negatively affect species and habitats should be viewed more as stresses than as threats. The distinction is more than semantic. Many influences tend to cause negative effects on habitats that at any one time are local, partial, and incremental. They tend to be more chronic than acute. They may be viewed more accurately as stresses than as threats. That is not to diminish their importance, but rather to guide our thinking to more appropriate measures to reduce or mitigate their effects.
+In its identification and prioritization of stresses, the West Virginia SWAP adopted the IUCN hierarchical threat classification system recommended by the Northeast Fish and Wildlife Diversity Technical Committee of the Northeast Association of Fish and Wildlife Agencies in its Northeast Lexicon. The term "threats" has in most cases, been replaced with the term "stresses" in the West Virginia SWAP, for the reasons described above.
+Utilizing the IUCN classification system, which recognizes 43 potential stress categories, nine Wildlife Diversity experts from WVDNR collaboratively identified the stresses that exist for each habitat type for terrestrial species and for each HUC-8 watershed for aquatic species within the state's four ecoregions.
+In doing so, they incorporated many sources of information including the energy development probability models developed by the Appalachian LCC, climate change vulnerability assessments, NETHCS, NEAHCS, permit data from the West Virginia Division of Environmental Protection (WVDEP) and their own experience. The WVDNR experts then individually assessed those recognized stresses for 2015 WV State Wildlife Action Plan impact on habitat for SGCN, considering the array of risk factors recommended in the Northeast Lexicon. Their individual impact scores were tallied for each stress by habitat, HUC-8, and ecoregion. The highest scoring stresses with the greatest degree of consensus among the WVDNR experts, 21 terrestrial stresses and 20 aquatic stresses, were prioritized for subsequent development of conservation actions. Additional stresses that were identified as non-place-based, i.e., direct stresses on SGCN populations themselves, such as White Nose Syndrome in bats, were described, along with appropriate conservation actions, in SGCN taxa descriptions (Section 3.2). Results of the stress identification and prioritization process were imported into the SWAPMASTER database.
+
+## 2.10: Conservation Action Identification and Prioritization
+
+Identification and prioritization of conservation actions to address priority stresses followed a process similar to the one described for stresses in Section 2.9 above. Potential actions to respond to stresses were first identified by WVDNR Wildlife Diversity experts, and then prioritized. The identification step produced well over 600 potential conservation actions to address priority threats. The WVU consultants consolidated similar actions to reduce that number to about 150 potential actions; about half of these were judged to be statewide in scope and the other half were ecoregional or local. These actions are identified in the West Virginia SWAP. The statewide conservation actions were then subjected to another prioritization process with the WVDNR experts, the Advisory Team, and the WVDNR Administration. They selected the highest priority actions that would be more prominently featured in the SWAP Executive Summary. The final conservation actions that were identified to respond to priority stresses were imported into the SWAPMASTER database.
+
+## 2.11: Conservation Focus Area Identification and Planning
+
+Although many of the conservation actions that are prioritized in the West Virginia SWAP are statewide in scope, concentrations of SGCN and their habitats exist in many areas of the state. To achieve the goals of the West Virginia SWAP, it was necessary to plan, and manage, at a finer scale. As one step in that direction, the WVDNR mapped the SGCN concentrations from its spatial databases of species occurrence and combined this information with additional expert input from the agency's Wildlife Diversity biologists. The WVU consultants assisted in this effort by bringing other spatial datasets, such as landscape integrity, to the analysis and then helping the agency delineate the boundaries of the resulting areas of concentration. Even when not appropriate, HUC-12 watersheds were used for that delineation. While it is the WVDNR's intent to fulfill its statutory conservation mandate across the entire state, the 21 Conservation Focus Areas (CFA's) that have emerged from this analysis are intended, as their name implies, to be areas of more concentrated conservation focus. In the aggregate, the CFA's cover roughly half the state. They vary in size, land ownership, land use, habitat extent, stresses, potential conservation actions, and potential partners (both public and private). The CFAs identification and treatment in the West Virginia SWAP are at the strategic level. Subsequent to United States Fish and Wildlife Service approval of the West Virginia SWAP, the WVDNR and its WVU consultants are committed to planning and adaptive management at the individual CFA level. The agency believes that working at that scale, with more local partners, is the component of the SWAP process that can most effectively deliver on its full promise.
+2015 WV State Wildlife Action Plan 2.12:
+
+## SWAPMASTER Database
+
+Most of the data compiled or generated during the planning process for the West Virginia SWAP were incorporated into the SWAPMASTER Microsoft Access database built specifically for the plan and its subsequent implementation. The SWAPMASTER database was used to generate virtually every table included in the body of this plan and its appendices. After the plan is finalized and approved, it is the WVDNR's intention to make the database available to plan partners and the public. The SWAPMASTER database will be updated regularly with information from other WVDNR databases, as well as with information about plan implementation.
+Chapter 3: At-Risk Species and Habitats
+
+## 3.1: Introduction
+
+Using the selection process described in Section 2.5, a total of 1,143 animal and plant species have been identified as Species in Greatest Need of Conservation (SGCN) in the 2015 West Virginia SWAP. A complete list of those species and the priority assigned to each is provided in Appendix 1. Given the number of SGCN's addressed in this plan, it is impractical to discuss in detail the ecological requirements, distribution and status of every species, as well as the stresses and appropriate conservation actions for each. Looking at assemblages of species by taxonomic group and the habitats in which they occur allows the WVDNR to address broad patterns and trends across many species.
+While the agency's Wildlife Diversity Program tracks this information for individual species, program experts have compiled it for analysis and discussion in this plan in these aggregated syntheses.
+
+## 3.2: Species in Greatest Need of Conservation
+
+Taxonomic groups, such as birds, amphibians, and plants, respond to their environment in markedly different ways but often share within their own group characteristics that define how they can interact with their environment. For example, fish and mussels are both aquatic but adult fish are highly mobile and can move in response to changes within their aquatic environment but adult mussels are not mobile and cannot respond the same way. Similarly, adult butterflies and moths may be winged insects like adult dragonflies and damselflies, but the larvae of the latter are tied to aquatic habitat conditions while larvae of the former are not. In this section, broad patterns of species distribution and status in West Virginia are described, along with a high level view of recent work in the State on each group and associated conservation issues. Cave invertebrates span many taxonomic groups but since they share many common adaptations for their highly unusual habitat, are treated herein as a single taxonomic group. Also, the taxonomic groupings are not all at the same taxonomic level, such as order or class, but are at the level experts felt appropriate for the purposes of this plan.
+Within each taxonomic group that follows, species are divided into species groupings based on similar habitat use, life history characteristics, and other traits that experts felt were appropriate for describing at a somewhat finer scale the conservation issues associated with those species.
+2015 WV State Wildlife Action Plan
+
+## 3.2.1:
+
+Taxa Descriptions
+
+## 3.2.1.1: Amphibians
+
+## Description
+
+Amphibians in West Virginia (class Amphibia) belong to two major groups: toads and frogs (order Anura) and salamanders (order Urodeles). Both groups are found statewide and require an aquatic or moist environment for successful reproduction.
+Eleven frog species and three toad species occur in West Virginia. While toads and frogs both have a squat appearance, toads have dry warty skin which is easily distinguishable from the smooth glandular skin of frogs. Breeding occurs in the spring and early summer when males use vocalizations to attract mates. Externally fertilized gelatinous egg masses are laid in streams, ponds, ditches, or other water bodies. The eggs develop into a larval (tadpole) stage which lasts for a few weeks for most species. American bullfrogs (Lithobates catesbiana) however may remain larvae for up to two years. Adult frogs may be aquatic or semi-aquatic while adult toads are terrestrial.
+Thirty-four salamander species occur in West Virginia. Salamanders have smooth glandular skin which enables cutaneous respiration in many species. Most salamanders breed in spring and early summer. Some terrestrial species require aquatic habitats for breeding and undergo annual mass migrations from terrestrial habitats to aquatic breeding locations. Many terrestrial species use moist forested or rocky habitats for breeding. The female deposits eggs either in small clusters or in large gelatinous masses in appropriate habitat. Because of their moist scaleless bodies, many salamanders occur in aquatic or semiaquatic habitats such as rivers, creeks, and springs or in moist forested areas.
+
+## Distribution
+
+Although common amphibians occur throughout the state, for many SGCN species, West Virginia is at the edge of their ranges or West Virginia and/or adjacent states may share limited endemic species.
+Habitat availability, environmental conditions, and geographic barriers such as rivers and mountains restrict or delineate many SGCN species' distribution.
+The area comprising the Central and Southern Appalachian Mountains is the global center of endemism for salamanders in the family Plethodontidae. Many Appalachian endemics have fairly restricted ranges, and their future existence is wholly or substantially dependent upon the condition of their habitats and populations in West Virginia. 
+
+## Species Groupings
+
+## Toads and Frogs
+
+The preferred habitat for most of these species, floodplains along major rivers, is also the preferred location for human activities related to agriculture, floodplain development, and forest management activities. Habitat loss/degradation, disease, introduced species, and pollution are threats to this group.
+Plethodon kentucki (Cumberland Plateau Salamander) Plethodon nettingi (Cheat Mountain Salamander) Plethodon punctatus (Cow Knob (White Spotted) Salamander) Plethodon virginia (Shenandoah Mountain Salamander) Plethodon wehrlei (Wehrle's Salamander)
+
+## Conservation Issues
+
+Amphibians have complex life histories and unique physiologies that expose them to stresses that affect population viability. Toads, frogs, and many salamanders use lotic, lentic, and ephemeral water bodies for breeding. Terrestrial salamanders have specific moisture, humidity, and temperature requirements that affect their distribution across the landscape. Central Appalachian forest endemics are lungless and breathe through their skin and mouth lining. They are particularly at risk if their habitat becomes drier. Climate change, pollution (industrial, agricultural, urban, etc.), disease, introduced species, and habitat loss and modification impact amphibian populations. These effects can occur rapidly through mass dieoffs or gradually by affecting reproduction and thereby inhibiting recruitment.
+Climate change is predicted to increase the frequency of such climate stresses as extreme drought and flood events. Droughts that occur during the breeding season, when most amphibians require aquatic habitats, can truncate or completely eliminate all reproductive effort for the year. Flood events alter, if not eliminate, foraging habitat, cover, and breeding substrate. The effects of climate change can be mitigated by maintaining or restoring habitat integrity in all amphibian life zones.
+Pollution in the form of industrial, agricultural, and urban effluent affects aquatic and terrestrial amphibians. Because the skin of many species supports cutaneous respiration, water pollutants can more easily impact the health of these species compared to those without permeable skin. Conservation actions for these pathogens include 1) surveillance to assess disease prevalence, 2) developing bio-security protocols for biologists and the public, and 3) outreach programs to create public awareness of these diseases and, 4) maintaining intact habitat.
+Introduced species can include native or non-native species. Introducing fish to fishless water bodies exposes amphibian populations to predation they are not adapted to. Bullfrogs are efficient predators and disease vectors and are often introduced to ponds and opportunistically colonize when seasonal ponds are converted to permanent water bodies. They appear to have some resistance to chytrid fungus and can serve as disease vectors. Other species may not be predatory but, when introduced, may compete with native populations for habitat resources. Conservation actions include maintaining habitat integrity, maintaining natural populations, and discouraging the introduction of species not present in native habitat.
+Fragmenting or otherwise degrading habitat exposes amphibian populations to other environmental stresses which act in concert to threaten population viability. Fragmentation manifests itself differently according to the species affected but can include draining wetlands, converting seasonal wetlands to permanent water bodies, and logging intact forests. Off-road motorized vehicle recreation has severely degraded seasonal pools and wetlands important for many amphibians statewide.
+Fragmentation and loss of forest cover is a primary concern for the Appalachian endemic salamanders. Amphibians can best respond to external stressors when their habitat is intact and functioning. Maintaining ecosystem integrity ensures amphibian life zones are also present and functioning. Conservation actions must focus on preserving core areas of intact habitat, restoring areas of impaired habitat, and re-establishing populations in appropriate locations.
+
+## SGCN Summary
+
+West Virginia's list for SGCN includes 35 amphibian species, with 18 considered Priority 1. The West Virginia Spring Salamander is listed as a G1 S1 species, the Shenandoah Mountain Salamander and the Cheat Mountain Salamander are listed as G2 S2, and the Cow Knob Salamander and Green Salamander are listed as G3 S2 and G3 S3 respectively. The Cheat Mountain Salamander is currently federally listed as threatened. In 2015 the United States Fish and Wildlife Service (USFWS) received a petitioned to list the Green Salamander, Cow Knob Salamander, Eastern Hellbender, and West Virginia Spring Salamander. The USFWS announced a "substantial finding" for the Green Salamander, triggering a status review.
+
+## 3.2.1.2: Birds
+
+## Description
+
+Owing to its diverse physiography and climate, West Virginia hosts over 170 breeding bird species in habitats ranging from Dry Oak (-Pine) Forests of the Ohio River floodplain and foothills to high elevation boreal Red Spruce and Northern Hardwood forests in the Allegheny Highlands. Extensive grasslands can be found in the Eastern Panhandle, Greenbrier Valley, South Branch Valley, and in recent years, increasingly in the Cumberland Mountains. An additional 60+ species occur in the state only in winter and do not remain to breed. Birds occupy many niches within these habitats based on many factors, from vegetative structure to foraging strategy to needs related to breeding microhabitat.
+
+## Distribution
+
+The distribution and abundance of many bird species in West Virginia is changing as habitats and mortality risks change here and elsewhere. The most pronounced changes have been in response to large-scale land use changes. By 1920, the original extensive forest cover of West Virginia was substantially reduced by farming and large-scale timber harvesting. This led to a major expansion of the extent of grassland and open upland habitat in the State, and an increase in the abundance of grassland birds. A period of farmland abandonment beginning in the early twentieth century and the recovery of forests from large-scale timber harvesting led to a significant loss of grassland habitats concomitant with widespread increases in the abundance of early successional species. By the end of the twentieth century, forest growth had reduced the extent of early successional habitats from the peak. Overall, bird populations of grassland and early successional species have followed this general habitat trend, as well as having increased substantially with human landuse change and then declining as landuse statewide changed again. It is less clear if forest birds as a group have proportionately benefited, as the negative impacts of forest fragmentation in recent decades appear to have offset the potential gain expected from the increase in forest cover.
+Other changes are anthropogenic and range from urban and suburban development in the Eastern Panhandle and Teays Valley to ongoing energy development in the form of coal, gas, and wind. Forest patches are increasingly fragmented statewide, and associated risks to birds that rely on forest interior habitats have increased. With very few exceptions, grasslands in West Virginia have always been a product of human and natural disturbance. In recent years, new grasslands have been created as coal mines are reclaimed. Elsewhere, changes in farming practices have affected some bird species. For example, clean farming practices have almost certainly negatively impacted Loggerhead Shrike (Lanius ludovicianus), while changes in hay harvesting practices are contributing to long-term declines for Eastern Meadowlark (Sturnella magna).
+The initial West Virginia Wildlife Conservation Action Plan (WVWCAP) tasked staff with answering basic questions regarding SGCN species. True distribution and abundance of many species remained unknown. In 2014, West Virginia Division of Natural Resources (WVDNR) staff and volunteers completed the last of six years of fieldwork on the 2 nd West Virginia Breeding Bird Atlas. Data from this project will serve as a primary tool for guiding conservation and management decisions related to birds for the next 20 years. Over 100,000 individual observations were submitted, and these data will enable the creation of accurate distribution maps for each of over 170 species known to breed in the state. In addition to distribution data, staff and volunteers also conducted abundance sampling in over 700 atlas blocks. The resulting density models will serve to identify focal areas for conservation for up to 80 species. These
+
+## WV State Wildlife Action Plan
+
+will be particularly useful for still-ubiquitous but declining species such as Wood Thrush (Hylocichla mustelina) and Cerulean Warbler (Setophaga cerulea).
+Additionally, WVDNR staff targeted survey efforts towards specific species that might otherwise be missed using atlas protocols. Two examples include Loggerhead Shrike (Lanius ludovicianus) and Swainson's Warbler (Limnothlypis swainsonii). Each species was subject to an intensive two-year survey that targeted specific habitats. The resulting data were highly informative in multiple respects.
+Swainson's Warbler is more widely-distributed than was known, and Loggerhead Shrike is now confirmed to be exceptionally scarce and in urgent need of conservation action.
+Bird species richness by atlas block surveyed, 2009-2014
+.
+
+## Species Groupings
+
+As an initial step in the planning process, we revised the SGCN list for birds. These changes reflect insights gained and data collected during the first plan period, 2005-2015 
+(Bailey 2015)
+. Species have been added while others have been removed. In some cases, as with Bewick's Wren (Thryomanes bewickii), it is because we now consider the species extirpated. Others continue to recover, as has been the case with Bald Eagle (Haliaeetus leucocephalus). Revisions to state ranks were informed by available data from multiple sources using NatureServe's methodology. In general, each ranking incorporated the following:
+• Distribution and abundance data from the recently-completed 2 nd West Virginia Breeding Bird Atlas, • Breeding Bird Survey data assessed at multiple time scales (where applicable),
+• Partners in Flight global population estimates and state population responsibility, • Bird Conservation Region (BCR) priorities (Appalachian Mountains Joint Venture),
+• Inclusion on the regional SGCN list, and • Global rank.
+Rank revisions were reviewed by both WVDNR and BCR staff on a case-by-case basis. Below is the revised list of state SGCN bird species, grouped by guild/general habitat preference, which will guide agency work until the next plan revision.
+
+## WV State Wildlife Action Plan
+
+Aerial Insectivores These species, while varying in specific habitat preferences, share a common foraging strategy of capturing insect prey while in flight. Many bird species that employ this strategy have been declining across the United States, with steepest negative trends in the northeast and in species that migrate long distances 
+(Nebel et al. 2010)
+. Species listed here have all been shown to either occur only locally, or to be in decline 
+(Bailey 2015;
+Sauer et al. 2014)
+. Threats include loss of nesting/breeding habitat, loss of wintering habitat and possible decline in insect diversity and abundance. ater). Forest fragmentation and loss of forest interior habitat has become particularly problematic in West Virginia in the last few decades. In one study, there was a 12.7% loss of forest interior in a 10county area of Kentucky and West Virginia for the period 1992-2006, largely due to surface coal mining 
+(Wickham et al. 2013)
+.
+documented. All of the species on this list are restricted in varying degrees to high elevation habitats. Some species are increasing, while others are extremely rare and localized. Threats to these species include changes in vegetation community composition and structure and habitat loss on wintering grounds 
+(Bailey 2015
+, Byers et al. 2010
+, Byers and Norris 2011)
+. Wetlands, Waterways and Waterbodies Wetlands, waterbodies and rivers comprise a relatively small percentage of the West Virginia landscape. Consequently, the state population responsibility for all species on this list is quite low. A number of species on this list are uncommon and only occur locally in suitable habitat. A number of species are in decline, while others are increasing 
+(Bailey 2015)
+. Protecting available habitat is critical to maintaining species presence in West Virginia. Threats include habitat loss and alteration, climate change, change in farming practices, and development. 
+
+## Falco peregrinus (Peregrine Falcon)
+
+## Conservation issues
+
+The 2005 WVWCAP called for continued monitoring of rare or threatened species. These range from Bald Eagle and Peregrine Falcon to Olive-sided Flycatcher and Golden-winged Warbler. In some cases, as with Bald Eagle, monitoring of nest sites for productivity has confirmed that the species continues to recover at a robust pace. Other species, such as the Golden-winged Warbler, continue to decline 
+(Bailey 2015
+, Sauer et al. 2014)
+. These declines have led to multi-state partnerships guiding research and management.
+General habitat threats across all taxa have been assessed by WVDNR staff and others. Distilled from this, there are a number of conservation concerns of particular importance to birds. These include climate change, ongoing habitat fragmentation, habitat alteration and loss related to energy and urban development, changes in farming and agricultural practices, and quality and quantity of available early successional habitats. Specific conservation actions will be developed to address these threats.
+With this State Wildlife Action Plan (SWAP) revision, focus for many (but not all) species will shift away from better understanding of distribution and abundance to specific conservation and management actions. These actions will vary based on needs of individual species, but will in many cases have common threads. These threads include improved and expanded private landowner outreach and education, creating and strengthening partnerships between Non-Governmental Organizations (NGO's) and agencies in-state, greater presence and participation in regional and international partnerships and conservation efforts, and increasing capacity and partnerships between staff within WVDNR itself.
+
+## SGCN Summary
+
+West Virginia's SGCN list for birds includes 75 species, with 39 listed as Priority 1. Of the listed priority species, those associated with forest interior, early successional and grassland habitats will receive the greatest attention. The USFWS was petitioned to list the Golden-winged Warbler and in 2011, announced a "substantial finding", triggering a status review.
+
+## WV State Wildlife Action Plan
+
+## 3.2.1.3: Butterflies and Moths
+
+## Description
+
+West Virginia hosts approximately 134 species of butterflies. Because of recent taxonomic work the number of known species of butterflies is in a state of flux for the azures (Celastrina spp.) and crescents (Phyciodes spp.). The majority of butterflies (116) are resident species; the remaining 18 occur in the state annually or periodically, but do not over-winter successfully and must recolonize. West Virginia is home to approximately 2000 species of moths. The vast majority of these species are thought to be residents, with some 20-30 species occurring annually or periodically in the state as vagrants or colonizers.
+High Elevation These species occur above ~2000 feet. 
+
+## Conservation Issues
+
+Butterflies of the families Hesperiidae and Lycaenidae occur in large numbers on regional and state SGCN lists. Many of these are small-bodied, relatively weak fliers with very specific host plant requirements or other narrow ecological specializations such as association with specific vegetation communities. In addition, the larvae of many species of Lycaenidae participate in symbiotic relationships with ants, so that both the larval host plant and suitable ant partners must be available in order for the species to thrive. Current threats to members of West Virginia's lepidoptera community fall into four primary catagories: habitat loss from multiple sources (succession, development, and energy extraction), invasive plant species, continued pesticide use for Gypsy Moth control, and excessive deer browsing of native vegetation. Other threats include plant pathogens that effect larval host plants (Beech Canker Fungus (Nectria ditissima) may cause beech declines and declines in the already rare Early Hairstreak), exotic insects that impact host species or adults directly (e.g., Chinese mantids are voracious predators on butterflies at nectar plants), and management of utility rights-of-way (i.e., chemical vs. mechanical trimming).
+Similar to other taxa, loss of early successional habitat associated with the abandonment and subsequent forest succession of agricultural land has had both negative and positive effects on the state's lepidoptera species. Regal Fritillary, predominantly a prairie species, is in all likelihood extirpated from the state due to loss of large areas of grassland habitat and altered agricultural practices such as early hay harvesting; the last known colony was extirpated when a power plant was constructed on the site. Subsequent forest regeneration has provided habitat for forest species such as Eastern Tiger Swallowtail, Northern Pearly-eye (Lethe anthedon), and the increasingly common Carolina Satyr. Conversion of agricultural areas to housing in the eastern panhandle has likely continued negative impacts on this area's lepidopteran community including Hayhurst's Scallopwing and Bronze Copper. Conversion of forest land to others uses in other areas of the state has also likely had negative impacts: mountaintop mining in the southern coalfields impacts both ridgetops and valleys (Diana Fritillary, Golden-banded Skipper) and second home construction in certain areas in the mountain counties, such as Canaan Valley, destroys larval host plants (Harris's Checkerspot, Hoary Elfin).
+Although some exotic plant species are being used by generalist lepidopteran species for host plants (ex. Northern Pearly-eye using Japanese Stilt Grass (Microstegium vinimeium)), the majority of interactions tend to be negative. Garlic Mustard (Allaria offinianalis), an invasive European species, has already had significant negative impacts on the West Virginia White in other parts of its range. This species uses native cresses as its larval host plant, but will readily lay eggs on Garlic Mustard which is toxic to its larva. This butterfly's occurrence has diminished in West Virginia in more western and eastern portions of its range where Garlic Mustard is common; it is still commonly encountered in the mountain counties. Native forbs that are used as larval host plants are imperiled by infestations of Japanese Stilt Grass, Japanese Knotweed (Fallopia japonica), Autumn Olive (Elaeagnus umbellata), Mutiflora Rose (Rosa multiflora), Spotted Knapweed (Centaurea maculosa), Purple Loosestrife (Lythrum salicaria), and others. When isolated lepidopteran colonies are invaded by one or more of these species, the larval host plant can be overwhelmed and eliminated, and the colony may "wink out."
+The decline of at least eight Shale Barren lepidopteran species can be tied directly to the use of the broad spectrum persistent insecticide Dimilin for Gypsy Moth control in the 1990s. Most areas of the state within the Gypsy Moth's range have developed fungal Entomophaga maimaiga presense, all but eliminating the need for other control measures except for specifically defined circumstances. Some Shale Barren species have not been recorded in West Virginia for at least ten years. Excessive herbivory by White-Tailed Deer (Odocoileus virginianus) is a challenge for a variety of taxa throughout the eastern United States. Forest understories, edges and openings have been especially impacted. Lepidoptera are impacted by deer through loss of populations of larval host plants, consumption of eggs and larvae by deer while eating foliage, loss of nectar flowers, and alteration of forest structure through loss of ground cover and understory. Declines in several species, including Mottled Duskywing, Frosted Elfin, Appalachian Azure, Dusky Azure, and Baltimore Checkerspot, can be directly tied to deer herbivory in various portions of their ranges. Early flying species are especially vulnerable because there are few nectar species at that time of the year and available plants are palatabile to deer.
+The 2005 WVWCAP stressed the need for surveys, inventories, and data management. These primary goals haven't changed. A West Virginia Butterfly Atlas was started in 2012 to document species occurrence, distribution, and habitat use of butterflies and selected moths (17 SGCN/RFSS species and two other moth families). As of January 2015, results to date have produced 259 county records and 340 updated historical records and increased our understanding of lepidopteran distribution in the state. Efforts have also been made to mine data from other institutions to enhance records, especially for rare species (e.g., Carnegie Museum of Natural History, Smithsonian Institute, National Museum of Natural History). Historic records for butterflies and rare moths have been examined and coordinates were generated by comparing written descriptions to maps. Coordinates have been either confirmed or generated if necessary. Most records now have accuracies of less than 0.62 miles. The large moth database from West Virginia University still needs to be examined in this manner. Research using molecular and genetic protocols has been done in West Virginia especially with new cryptic species such as Appalachian Tiger Swallowtail and Northern Azure.
+In addition to surveys and inventories which are being addressed, at least in part, with the ongoing butterfly atlas, survey efforts are planned in Conservation Focus Areas (CFAs). West Virginia is a partner in a Mid-Atlantic Greater Conservation Need Butterfly Working Group. The group is submitting a grant proposal for work on Baltimore Checkerspot conservation. Other rare species will be addressed in future work. As part of a cooperative agreement with the United States Forest Service (USFS), Monongahela National Forest, the WVDNR surveyed for rare lepidopteran species on the Forest (as part of the West Virginia Butterfly Atlas). The WVDNR and USFS are working on a monitoring plan to be implemented by USFS personnel.
+New Taxa -Research A few species have recently been split from common taxa and need additional research to determine where they occur in West Virginia and the habitats they use. The Regal Fritillary (Speyeria idalia) occurred in West Virginia until the late 1990s when the last known colony was destroyed by development. We hope to conduct research to determine if it can be reintroduced into West Virginia, in a manner similar to Pennsylvannia's efforts. Other species include the Northern Azure, Cherry Gall Azure, Appalachian Tiger Swallowtail, and Summer Crescent. These species were included in the appropriate groupings above.
+
+## SGCN Summary
+
+West Virginia's list of lepidopteran Species of Greatest Conservation Need has not changed significantly since 2005; it contains 41 butterfly and 17 moth species or subspecies. Most are species that occur on rare habitat (High Elevation Wetlands, Shale Barrens) or need additional research and surveys. The USFWS has been petition to list the Monarch Butterfly and is currently conducting a status review of this species.
+
+## WV State Wildlife Action Plan
+
+## 3.2.1.4: Cave Invertebrates
+
+## Description
+
+Cave invertebrates are highly specialized animals of caves and other subterranean habitats. Many have specializations for living in their continuously dark world, including reduced or no pigmentation, loss of eyes, and elongated legs and antennae for sensing their environment. Because their habitat is typically naturally isolated by large areas of unsuitable geology, endemism is high. Indeed, cave invertebrates as a group have the highest reported rate of endemism of any group of organisms in North America. The Central and Southern Appalachians are one of the major centers of cave species endemism in North America, being second in diversity only to the Interior Low Plateaus of Kentucky, Tennessee and Indiana. Within the Appalachians, endemism is often further broken down among watersheds and some species are known from one or only a few caves. In West Virginia, the Cheat, Greenbrier, South Branch Potomac, and other watersheds have their own endemic cave faunas. The Greenbrier Valley fauna is especially diverse. This area supports one of the six most diverse cave faunas of North America and is considered to be globally significant for its richness of cave life.
+The state of West Virginia supports a diverse array of limestone caves, with approximately 4300 caves documented. These caves are distributed in 19 counties with the largest number occurring in Greenbrier County. Some of these are very short, small passages, barely passable by an average size person. These are often labeled "for reference only" or FRO. However, many caves consist of vast systems of beautiful passages, many miles in length, with deep pits, large streams, and high domes. West Virginia has 110 caves with over a mile of passage, 11 with more than ten miles of passage, and six caves with over 20 miles of passage. Six of the 25 longest caves in the United States are in West Virginia. The longest cave in West Virginia is over 45 miles in length. Karst topography, which is produced by dissolution of underlying limestone geology, is characterized by caves, sinkholes, a lack of surface streams, and large springs.
+The abundance and variety of caves in West Virginia has created a wide variety of habitats for invertebrates to use. Current data from approximately 300 sites in West Virginia has produced a total of 115 species of invertebrates classified as cave endemics (91 are SGCN). Cave endemics are only found within caves and are typically unable to survive outside of their subterranean habitat. These cave invertebrates are contained in five phyla and 40 genera. West Virginia's cave invertebrates include over 25 species that are known only from single-cave systems West Virginia has one species of isopod (Madison Cave Isopod, Antrolana lira) that is federally listed as threatened.
+
+## Distribution
+
+In West Virginia, surface limestone geology is almost exclusively found only in the eastern third of the State, where it has produced thousands of caves. Any limestone cave has the potential to contain some type of cave invertebrate, and species of cave invertebrates are known from many West Virginia counties. Greenbrier County has the highest species diversity since it has the most caves, the greatest variety of cave habitats, and the most sites which have been surveyed to date. Of the 14 caves in West Virginia that have ten or more cave invertebrates documented, 11 of them are located in Greenbrier County. One cave in West Virginia (Organ Cave) has 22 species of cave invertebrates. It should be considered a highly significant site since it is one of only three caves in the United States to contain more than 20 species. Occurrences of global endemic cave invertebrates should receive additional consideration when planning conservation actions to protect cave invertebrates.
+
+## Species Groupings
+
+Due to the variety of taxonomic groups occurring in caves, species groupings are best achieved by combining taxa based on their habitat needs within the cave environment and ignoring their taxonomic relatedness. These groupings typically have common biological needs and threats and are as follows. Note: The listing of a genus in the following species groupings may represent a single species or multiple species. The Species Groupings categories below are adapted from the Protection Strategies section of 
+Fong et al. (2007)
+.
+Cave Stream Species These are species that live within the cave stream habitat. They cannot survive outside of their aquatic habitat or survive outside of the cave. They are dependent on organic matter that is brought into the cave from an outside source. Seasonal hydrologic patterns are often very important to these species. Without a regular or seasonal input of organic matter, these species will experience changes in population number or health. Protection of these species is best accomplished by protecting the watershed. Nutrient and sediment input should remain at "normal" levels, and hydrologic pattern changes should be minimized to protect cave stream species. Water quality must also be considered as many aquatic cave species have fairly limited range of conditions which they require. Taxa that are dependent on cave streams are as follows.
+Future work with cave invertebrates in West Virginia should include the following areas:
+• Establish or adopt existing educational materials to be used to inform the public on land management guidelines to follow when working in karst areas. • Establish a landowner database that keeps track of both cave entrance owners and owners of land within the caves watersheds. • Conduct threats assessment for use in site conservation and management prioritization • Establish programs for private landowners to assist with sinkhole cleanups, especially ones with direct links to global endemic and highly diverse sites. • Encourage training of taxonomists to work with identification of cave invertebrates. In general, there is currently a lack of trained taxonomists. Many current taxonomists are close to retirement. Additional surveys and monitoring of known populations will be of little value if there is a lack of personnel with the skills to identify species collected. • Conduct analysis on current datasets to determine predicted range maps for known species.
+
+## SGCN Summary
+
+West Virginia's SGCN list for cave invertebrates includes 91 species. Seventy-five are categorized as Priority 1 due to their state and global rank, the remaining are Priority 2. West Virginia's cave invertebrates include 28 that are known only from single-cave systems. One species, the Madison Cave Isopod, is listed as federally threatened.
+
+## WV State Wildlife Action Plan
+
+## 3.2.1.5: Crayfish
+
+## Description
+
+West Virginia is home to 28 species of crayfish (Loughman and Welsh ___) 12 of which are listed as SGCN. Ten of the 12 SGCN are listed as Priority 1. Because of recent surveys and taxonomic work this list is at an all time high and includes six West Virginina endemics (Guyandotte River Crayfish (Cambarus veteranus), Elk River Crayfish (C. elkensis), Greenbrier River Crayfish (C. smilax), Teays Valley Mudbug (C. dubius A), Meadow River Mudbug (C. dubius B), and Greenbrier Cave Crayfish (C. nerterius). Three introduced species are also known to occur in West Virginia.
+Crayfishes are important members of West Virginia's lentic and lotic ecosystems 
+(Lawton 1979
+, Jezerinac et al. 1995
+, Loughman et al. 2009
+, Loughman and Welsh 2010)
+. Within these ecological systems, crayfishes act as ecosystem engineers 
+(Creed and Reed 2004)
+, increasing stream benthic community complexity and providing subterranean refuges for terrestrial organisms through their burrowing behavior 
+(Loughman and Simon 2011)
+. Several taxa have coevolved alongside crayfishes, and are dependent on burrows created by these animals for key aspects of their life history 
+(Taylor et al. 2007)
+. Given their cosmopolitan diets, crayfishes assimilate a tremendous amount of available nutrients that are passed onto multiple levels of the foodwebs they are part of 
+(Creed and Reed 2004;
+Taylor et al. 2007, Loughman and
+Simon 2011)
+.
+Economically this group of animals provides an important forage base for several game fish taxa (catfishes and basses in particular). Robust sport fish populations result in economic gain for West Virginia through license and tourism dollars. Crayfishes also are an important aspect of West Virginia's culture; many young West Virginian's first engagement with nature involved catching "crawdads" in the neighborhood stream or creek that cut through the hollow where they grew up. This initiation into nature can result in a lifelong appreciation for the natural world and the resources it provides through preservation and conservation. Crayfish conservation ensures these ecological, economic, and cultural aspects of this enigmatic group of animals continue to occur in the mountain state.
+
+## Distribution
+
+Crayfish occur statewide in a variety of aquatic and moist terrestrial habitats from streams and creeks to caves. While some species are widespread, others have restricted ranges. Both the Big Sandy Crayfish (Cambarus callainus) and Guyandotte River Crayfish have observed the largest range reduction of any native epigean (living or occurring on or near the surface of the ground) crayfish in West Virginia. Historically, the Guyandotte River Crayfish occurred in the upper Guyandotte and New River watersheds 
+(Loughman 2013b)
+. Subsequent examination of supposed New River specimens held at the National Museum of Natural History revealed the Guyandotte River Crayfish did not actually occur in the New River Watershed 
+(Loughman and Welsh 2013)
+. All historic locations were sampled in the upper Guyandotte in 2009, and are being sampled in 2015 by Loughman. In 2009, the species was collected only in Pinnacle Creek, Wyoming County. Sampling in 2015 determined that the Pinnacle Creek population is still extant and resulted in the discovery of Guyandotte River Crayfish populations in Clear Fork and Laurel Branch, Wyoming County. All other sampling at historic sites in 2015 failed to produce the crayfish. The Guyandotte River Crayfish is a West Virginia endemic whose entire global range falls within the southern coalfields in the Cumberland Mountains Ecoregion of West Virginia.
+
+## WV State Wildlife Action Plan
+
+During survey efforts in 2009, what was previously referred to as the Guyandotter River Crayfish was found at two sites in the Tug Fork Watershed. Since that time, the specimens were identified as a new species, Big Sandy Crayfish, which is endemic to the Big Sandy Watershed of Kentucky, Virginia, and West Virginia 
+(Thoma et al. 2014)
+. Within West Virginia, populations have been reported from the Tug Fork River mainstem below the confluence of the Tug and Dry forks, as well as from Dry Fork. At present, Dry Fork populations appear to occur throughout the lower and mid reaches of Dry Fork downstream of War, McDowell County (Z. J. Loughman, unpublished data). No records have been documented from the Tug Fork River upstream of its confluence with Dry Fork. virilis) and Rusty Crayfish (Orconectes rusticus), have spread throughout the state in recent years. In the Eastern Panhandle, Virile Crayfish have invaded all major watersheds in the region, taking a once diverse crayfish community and making it monotypic. The true extent and magnitude of these invasive species populations remains unknown within West Virginia. Beginning in 2007, WVDNR funded a statewide crayfish atlas project tasked with determining which species occur in West Virginia and the conservation status of all species in the state. 
+Loughman and Welsh (2013)
+ determined the species discussed below are worthy of conservation attention. Each species is addressed according to its priority in the SWAP.
+Conservation threats for Big Sandy Crayfish include increased sedimentation, conductivity point sources, and increased nutrient loading 
+(Loughman 2014)
+. Digger Crayfish utilize the bottomland forest, much of which has been converted to agricultural and industrial land. Sources of imperilment for White River Crayfish mirror those of Digger Crayfish. It should be noted that introduced populations of White River Crayfish occur in the Meadow River Wetlands and sporadically throughout the Monongahela River Basin, but the species is not native to these watersheds.
+No survey effort has been performed by astacologists for the Greebrier Cave Crayfish since 
+Jezerinac et al. (1995)
+ conservation assessment in the late 1980's. Given its stygobytic nature, specific survey efforts are needed to ascertain the current status of this species in the state. At present, Greenbrier Cave Crayfish is the only crayfish in West Virginia that lacks recent data on its current conservation status. To err on the side of caution it was ranked as S1, but new data are needed to determine its actual status in the state. This species is also addressed in the Cave Invertebrate portion of this plan.
+Teays Valley Mudbug is endemic to upland situations along the Kanawha River corridor of Mason, Putnam, and Cabell counties. Portions of northern Cabell and Wayne counties are impacted by development and agricultural practices, specifically in Teays Valley. Development in Teays Valley has increased dramatically over the past two decades in response to economic growth in Charleston and Huntington. Teays Valley Mudbug appears to be a seepage wetland specialist and is readily outcompeted in lowland situations in the region by the Little Brown Mudbug (Cambarus thomai) (Z. J. 
+Loughman, pers. comm.)
+. The Meadow River Mudbug is the most imperiled burrowing species of crayfish in West Virginia, and is endemic to the junction of the Allegheny Mountains and Ridge and Valley Ecoregons in Greenbrier and Monroe counties. The largest extant populations occur in the Meadow River WMA. The majority of suitable habitat for the Meadow River Burrowing Crayfish has been converted to agricultural land, and is no longer suitable for the species. Given its recent taxonomic description, very little is known about the basic biology of this West Virginia endemic 
+(Loughman et al. 2015)
+. Several interstate pipelines are proposed that would travel directly through this narrow endemic's range. The impact of these pipelines on this species remains unknown, and is an area in need of future research.
+While the Elk River Crayfish and Greenbrier River Crayfish occur in regions of the Elk and Greenbrier river basins that do not experience elevated stream degradation or extractive industry, because of their small global distributions, these species were assigned state ranks of S2. Threats include potential impacts associated with the burgeoning natural gas industry in West Virginia, climate change, and potential invasion by invasive non-native species.
+Though the Tug Valley Crayfish is not a West Virginia endemic, the Tug Fork River system encompasses the entire species global range, and is smaller in total square miles than both the Elk and Greenbrier basins. Furthermore, the environmental stability occurring in the latter two basins is not observed in the Tug Fork Basin. Extreme landuse practices have occurred in the region over the past century, and in 2015 WV State Wildlife Action Plan recent years have been manifested by both contour and mountaintop mining. Resultant of these activities, Tug Fork streams experience chemical alterations, elevated siltation, and channelization. The impact these activities have on this recently described species remains unknown, but warrant investigation.
+Though the New River Crayfish ranges throughout the New River Watershed in West Virginia, Virginia, and North Carolina, in West Virginia, it is restricted to the Greenbrier River Basin. With the exception of lower portions of the Greenbrier River mainstem, New River Crayfish is stable throughout the majority of the watershed, and in certain situations common to abundant. So long as conditions in the Greenbrier remain as they are currently, New River Crayfish should remain stable in West Virginia. The Coalfields Crayfish's global range is limited to Kentucky and West Virginia, and within West Virginia, it is found in the Guyandotte, Twelvepole, and Lower Ohio watersheds. Stream conditions in the Guyandotte and Twelvepole basins are notoriously degraded, receiving impacts from extractive industry throughout the watersheds.
+
+## Research and Monitoring Needs
+
+At present, roughly 60% of West Virginia's crayfish species are stable with state ranks of S4 and S5. The remaining 40% of species require future monitoring in order to determine if their ranks should be increased or decreased pending new environmental threats, as well as possible recovery of impacted habitats in which they dwell. The following outlines efforts that should occur if active crayfish conservation is a goal of future conservation planners in West Virginia. The West Virginia Crayfish Atlas (Loughman and Welsh 2013) served as a sound foundation for crayfish conservation in West Virginia and identified several gaps in the states astacological knowledge that should be addressed, as well as species in need of immediate conservation action, detailed below.
+
+## Status surveys for Greenbrier Cave Crayfish
+
+Greenbrier Cave Crayfish, West Virginia's only cave crayfish, is the only described species of crayfish not intensively sampled during this effort 
+Jezerinac et al. (1995)
+ did an excellent job surveying the species throughout its range in the karst areas of Greenbrier and Monroe counties and these data serve as an excellent baseline to guide future efforts. The White Nose Syndrome (WNS) epidemic, that is drastically impacting several of West Virginia's important bat colonies in caves, struck right at the onset of this atlas effort, impeding our ability to survey caves for the Greenbrier Cave Crayfish. A current survey involving population size estimates and determination of population structure is needed if a complete picture of crayfish conservation is going to be acquired for West Virginia.
+Monitoring and Conservation Planning for Guyandotte River Crayfish and Big Sandy Crayfish Guyandotte River Crayfish and Big Sandy Crayfish are the most imperiled crayfish in West Virginia. Previously detailed threats run the risk of further impacting Tug Fork populations, as well as extirpating the Guyandotte populations completely. Creation and implementation of a conservation action plan specific to both taxa is needed if these species are going to survive in West Virginia An understanding of both species annual life history is also needed should captive rearing being pursued.
+
+## WV State Wildlife Action Plan
+
+Burrowing Crayfish Surveys The one behavioral group not thoroughly surveyed during the atlas project was the burrowing crayfish. Both the Cambarus dubius and Cambarus monongalensis complexes have either undescribed West Virginia endemics or species with the majority of their global range occurring in West Virginia. Surveys for these species would focus on determining their distributions in West Virginia, as well as collecting sufficient material needed to describe species within each complex.
+
+## SGCN Summary
+
+Twelve species of crayfish are considered SGCN. Two species, Guyandotte River Crayfish and Big Sandy Crayfish, are currenty proposed for listing as endangered by the USFWS.
+
+## WV State Wildlife Action Plan
+
+## 3.2.1.6: Dragonflies and Damselflies
+
+## Description
+
+Dragonflies and damselflies collectively form the order Odonata, or odonates. West Virginia hosts 47 species of damselflies and 98 species of dragonflies. Eight of these (two damselflies and six dragonflies) have occurred only once or twice in the state., so a total of 137 species of odonates occur regularly in West Virginia. With over 32,000 miles of rivers and streams and over 22,000 acres of impoundments, odonates are found statewide in a broad variety of lentic (still water) and lotic (flowing water) environments. Although the most visible stage of these taxa is the adult, the majority of life spans are spent in the larval form. Odonates are known indicators of water quality for a variety of aquatic habitats. The larvae are also often the dominant trophic level among benthic invertebrates in many aquatic habitats. The distribution of species is based on the environment required by the aquatic larval form: aquatic ecosystem, temperature, water quality, and benthic substrate. Forty-nine species (18 damselflies, 33 dragonflies) can be categorized as generalists and can be found in a broad variety of lentic and/or lotic environments or as utilizing very common anthropogenic environments across a large portion of West Virginia. Their larvae are adaptable to a broad spectrum of aquatic environmental conditions. The remaining 88 regularly occurring species typically occur in rare habitats or declining or potentially declining habitats, e.g., low elevation river back channels and sloughs.
+
+## Distribution
+
+The 2005 WVWCAP listed surveys, inventories, and data management as primary goals. West Virginia conducted dragonfly and damselfly atlas surveys from 2005-2010 
+(Olcott 2011)
+. During this effort, 126 range expansions for odonates in the state were documented, reflecting the additional survey effort in under-represented areas, e.g., southern coalfields. Of the 137 regularly occurring species, 119 (87%) were documented during these surveys. With other efforts since 1995, 92% of West Virginia's odonate fauna has been recently confirmed to still inhabit the state. For most odonate species, occurrence and distribution in the state are generally well understood. State ranks were reassigned at the conclusion of the atlas using NatureServe's methodology. Species that weren't documented typically occur in areas difficult or dangerous to survey such as large rivers and large bogs and wetlands in the mountains. Twelve species known from West Virginia have not been documented since at least 1995, most much earlier. Most have extremely small areas of historical occurrence in the state (one or two sites), are at the periphery of their range, or may be vagrant in West Virginia. Unfortunately, many of the records for these species have vague locations associated with them (mapped to a county centroid), making finding the historic survey site very difficult or impossible.
+The single current odonate project in West Virginia is a PhD student investigating the habitat associations of lepidoptera and odonates at high elevation wetlands in Tucker County. This student has so far confirmed new locations for several high elevation species [Ski-tipped Emerald (Somatochlora elongata), Northern Bluet (Enallagma annexum), Chalk-fronted Corporal, (Ladonna julia), and others), new locations for one SGCN species (Crimson-ringed Whiteface, Leucorrhinia glacialis), and documented a new odonate for the state (name withheld pending publication).
+
+## Species Groupings
+
+Occurrence of odonata species is dependent on larval habitat such as aquatic environment (lotic or lentic), substrate, and temperature regime. The group is also split between high elevations (mostly northern species) and those found east or west of the mountains.
+High Elevation Wetland Species (Marshes, Bogs, Ponds) Most records occur on state or federal lands with limited occurances on private lands. Threats to these species include climate change and development. 
+
+## Conservation Issues
+
+Although dangers occur during the adult stage such as predation and inclement weather, primary threats to odonates occur during their larval stage. Across the northeastern United States, 18% (25 species) of odonate fauna are regionally imperiled. Peatlands, low gradient streams and seeps, high gradient headwaters, and large rivers harbor the majority of these species. In West Virginia, these habitats also harbor the majority of SGCN odonates. Species most at risk are those whose larvae inhabit flowing waters and low elevation wetlands (often found along major rivers). Of the 58% of the total lentic waters assessed by the EPA in West Virginia in 2010 (USEPA 2010), 62% were determined to be impaired. Clubtails (family Gomphidae), which as a group mostly inhabit streams and rivers, are particularly susceptible to pollutants including municipal, household, agricultural runoff, sedimentation, and mineral extraction effluents. Most need clear, clean streams with high oxygen levels. Other groups whose larvae inhabit streams and rivers include the broad-wing damsels (family Calypterigidae), dancers (genus Argia, family Coenagrionidae), spiketails (family Cordulegastridae), cruisers (family Macromiidae), and shadowdragons (genus Neurocordulia, family Corduliidae). Although some rivers in eastern and north-central West Virginia (Cheat, Tygart, and Middle Fork among others) have made substantial recovery from unregulated logging, acid mine drainage, and unregulated municipal pollution from the 1900s, other West Virginia rivers and streams remain highly impacted. Others remain under threat from streamside development, mountaintop mining, and the booming shale gas and oil extraction industry.
+Because flat land for development is at such a premium in West Virginia, areas along major rivers are often quickly developed, and the sloughs, back channels, and boggy pools that line the Ohio, Kanawha, Cacapon and other rivers are disappearing. Species that use these habitats include the Swamp Darner, Great Blue Skimmer (Libellula vibrans), Blue-faced Meadowhawk, spreadwings (family Lestidae), and Duckweed Firetail.
+High elevation wetlands provided habitat for species that often approach or reach the southern edge of their range in West Virginia 
+(Northern Pygmy Clubtail,
+and 12 others)
+. Although many of these wetlands are owned and protected by federal and state agencies and/or private conservation organizations, e.g., The Nature Conservancy (TNC), others are threatened my mineral extraction or unregulated recreation, and all are threatened by effects of climate change. Species like the Spatterdock Darner can also be impacted by the introduction of fish into fishless systems.
+Future efforts should concentrate on targeted surveys for rare species inhabiting specific habitats such as: Vesper Bluet and Lilypad Forktail (Ischnura kellcotti) at older, well vegetated ponds; the hanging clubtails (genus Stylurus) on large rivers (Ohio, Monongahela, Cheat, Kanawha, New); Appalachian Snaketail at the one historic site and other streams in the same area; and Flag-tailed Spinyleg at historic sites in the southern coallfields. The atlas identified the Allegheny Mountains and Ridge and Valley Ecoregions as areas of high odonate diversity. Efforts should be made to identify specific sites of high diversity in this area and put into place mechanisms to conserve that biodiversity. Further efforts, should be put into place to improve water quality in low elevation waterways of the state. An increasing concern is potential degradation of water quality as a consequence of shale gas extraction activity.
+
+## SGCN Summary
+
+West Virginia's SGCN list for odonates includes 69 species, with 22 considered Priority 1. Lentic dwelling species comprise a large portion of the list (45%) reflecting the imperiled nature of some of these habitats. Thirty-one species (45%) are high elevation species inhabiting lentic or lotic environments. The USFWS has been petitioned to list Appalachian Snaketail Ophiogomphus incurvatus.
+
+## WV State Wildlife Action Plan
+
+## 3.2.1.7: Fish
+
+## Description
+
+Fishes are the largest group of vertebrates, totaling over 33,000 species worldwide. Freshwater species, despite occupying only a fraction of earth's water habitats, account for an impressive 41% of this diversity. The unique freshwater fauna of North America includes 1,100 species with the Mississippi Basin (including the Ohio River Basin supporting one of the richest temperate freshwater fish faunas worldwide. Species richness of North America is highest in unglaciated southeastern United States (e.g., Tennessee and Alabama each containing over 325 freshwater taxa), with the Ohio Basin having the second most diverse fish fauna on the continent. The West Virginia freshwater ichthyofauna is composed of 23 families, 74 genera, and approximately 190 species (excluding three stocked gamefish hybrids). This fauna is largely comprised of minnows (64 species) and perches (35 species, 32 of which are darters) or about half of the state total. Moreover, when members of the sucker, catfish and sunfish families are included, approximately 75% of the state list is represented.
+The West Virginia assemblage includes some primitive fishes, such as lampreys, paddlefish, and sturgeon. Lampreys include parasitic and nonparasitic species, many of which live the majority of their lives in a larval form. Some of our headwater species are Pleistocene relicts, and currently have restricted headwater ranges owing to warmer lowland climates. Coldwater relicts include the SGCN species Allegheny Pearl Dace (Margariscus margarita), Redside Dace (Clinostomus elongatus) and Checkered Sculpin (Cottus sp. cf. cognatus), as well as the presumed-extirpated Longnose Sucker (Catostomus catostomus). Eleven species have likely been extirpated from the state: Shovelnose (Scaphirhynchus platorynchus) and Lake (Acipenser fulvescens) sturgeons; Paddlefish (Polyodon spathula); Bigmouth (Notropis dorsalis) and Satinfin (Cyprinella analostana) shiners; Hornyhead Chub (Nocomis biguttatus); Pugnose (Opsopoeodus emiliae), Eastern Silvery and Mississippi Silvery (Hybognathus nuchalis) minnows; Longnose Sucker; Western Creek Chubsucker (Erimyzon oblongus claviformis); Blue Catfish (Ictalurus furcatus); and Buckeye Creek Cave Sculpin (Cottus sp. cf. carolinae), which was endemic to one cave system in the Greenbrier Valley and considered extinct. These have been lost primarily through major habitat alterations including dam construction, and various forms of pollution. The Fish Management Unit of the West Virginia Division of Natural Resources has in recent years stocked the Paddlefish, Blue Catfish, and Shovelnose Sturgeon in hopes of re-establishing these lost state fishes. Lampreys (jawless, cartilaginous fishes), minnows, suckers, madtoms (small catfishes), sculpins, and darters are among the least understood groups of fishes within West Virginia waters. These six groups comprise 61 of the 74 SGCN fishes (see below). Minnows and suckers include a diversity of species that range from large river habitats to high elevation headwater streams. Madtoms (secretive benthic species) usually occur in large to small-sized river habitats, whereas sculpins are bottom fishes that are generally found in small high elevation rivers to cold headwater streams. Darters occur in warm large rivers to small streams and even extend into headwater habitats. The Elk and Little Kanawha River systems contain the largest diversity of all fish species in the state; 18 species of darters occur in these two waters alone, 11 of which are among the SGCN.
+Although many of the SGCN fishes are undoubtedly declining and will be discussed in a forthcoming atlas of state fishes, many are still poorly understood due to a lack of information (particularly in large river habitats which are difficult to survey). Future studies on the ecology, life history, and range distributions of these poorly understood fishes are needed to conserve and manage SGCN fishes in West Virginia.
+
+## Distribution
+
+The 2005 WVWCAP emphasized performing inventories, establishing monitoring stations of watersheds of high species richness, and conducting literature and museum searches for state records. These efforts have expanded our knowledge of state fishes considerably, as nearly 30 species have been added to the state fish list, and at least 11 species are now regarded as extirpated. In addition, the past ten years have highlighted the fact that the known ranges of many fishes have been reduced.
+Fishes in West Virginia occur in three major drainages: Ohio River Basin of the Mississippi River system (usually divided into the greater Ohio River and the New River faunas due to several endemic fishes found in the upper Kanawha River or above Kanawha Falls); upper Potomac River; and, upper James River tributaries. Among these watersheds, the majority of the richness occurs in certain Ohio River drainages; the Elk and Little Kanawha River systems contain the most fish biodiversity in the state, In addition, the mainstem Ohio, Kanawha and Little Kanawha rivers support diverse large river assemblages, and the New River has ten endemic fishes (which encompasses 25% of its native fauna). Of these ten, six are among West Virginia's SGCN: Phenacobius teretulus (Kanawha Minnow), Etheostoma osburni (Candy Darter), Percina gymnocephala (Appalachia Darter), Notropis scabriceps (New River Shiner), Cottus sp. cf. carolinae (Bluestone Sculpin), Cottus kanawhae (Kanawha Sculpin). On the Atlantic slope, the Potomac and upper James River drainages support many fewer species (approximately 40 taxa). However, several forms are either endemic or restricted to these Chesapeake Bay watersheds. Checkered Sculpin is the SGCN fish endemic to the Potomac Watershed and Etheostoma longimanum (Longfin Darter) and Percina notogramma (Stripeback Darter -mountain race) are the two SGCN fishes endemic to the James River Watershed.
+
+## Species Groupings
+
+The occurrence of fish species is dependent on lentic and/or lotic habitats, substrate, temperature regimes, and fish impediments (e.g., Kanawha Falls) in their respective Ecoregion.
+Western Appalachian Plateau -Small to Large River Species of the Ohio River Basin Found in small to large rivers of the Ohio River drainages. 
+
+## Conservation Issues
+
+Although fishes are usually not as vulnerable to extirpation or extinction as other taxa groups because they are more mobile than many of their aquatic counterparts, chronic pollution and loss of habitat eventually restricts the continued success or re-establishment of most fishes. The Clean Water Act (CWA) of the 1970s, which was passed to restore and maintain the "chemical, physical, and biological integrity" of the nation's waters, has moderated worst-case situations by reducing pollution from pointsource offenders. However, non-point pollution is far from being managed because educating landowners in alternate landuse practices, which would likely benefit both themselves and our nation's water resources, is a slow process. Recent laws have attempted to address these issues. For example, the 2014 Farm Bill offers financial incentives to landowners who implement environmental alternatives to reverse the trend of deteriorating biological communities and waterways. In fact, the United States Environmental Protection Agency (USEPA) (2009) has recently determined that biological communities in more than half of our nation's waterways are severely impaired. In the Eastern Highlands, where West Virginia is located, their data reveal fish assemblages in 35% of our streams are ranked in poor condition. Invertebrate populations have fared even worse, as indices suggest that up to 75% of the native taxa are missing from local streams. The main stressors identified in their study which contribute to these poor communities are elevated levels of phosphorus and nitrogen and poor or degraded riparian habitats. In West Virginia, sedimentation from mining and timbering likely limits the recovery of fish species. Aquatic species will not rebound if current water laws are not strictly enforced and new ones relating to non-point source pollution implemented. A good example of this is the Monongahela River Watershed which has a history of acid mine drainage and poor landuse practices related to coal and/or timbering industries. Despite the advent of modern environmental laws, this severely degraded watershed has not fully recovered. This is evident when you compare the current fish species list with its sister drainage, the Allegheny River in Pennsylvannia, where nearly 40 additional fish species have been documented in recent years 
+(Cincotta and Welsh, In Prep.)
+. Many of the more pollution-tolerant species have returned to the Monongahela drainage since the most severe impacts were eliminated or reduced, but it is far from being fully recovered. They may never fully recover due to the lack of enforcement of current laws and the added stressors of climate change, introduction of invasive species, drilling for deep shale gas of Marcellus and Utica formations, and the discharges of high conductivity water associated with coal mining in the region. Other drainages that have also been severely impacted and have not significantly recuperated include the Big Sandy/Tug Fork and Guyandotte River basins.
+The establishment of routine monitoring stations may lend early insight to species-rich areas and alert the state of potential declines. Other monitoring stations should be created in impaired waters to document the recovery of presently-impaired watersheds. The latter suggestion may be moot if water laws are weakened or ignored.
+
+## SGCN Summary
+
+The West Virginia list of SGCN fishes includes 74 species, of which 34 are Priority 1. Many are listed because they are found in habitats that are particularly difficult to sample and additional resources are needed in this effort. Others species may be in decline or extirpated from our waters for one or more reasons discussed above. The Diamond Darter is listed as federally endangered. The USFWS has been petitioned to list the Candy Darter and American Eel.
+
+## 3.2.1.8: Mammals
+
+## Description
+
+Sixty-six native mammal species occur in West Virginia today, although the Gray Bat (Myotis grisescens) has not been observed in the state since 1991 and is considered an "accidental" resident of the state. Since the previous WVWCAP was written in 2005, the Seminole Bat (Lasiurus seminolus) has been confirmed in West Virginia and has been added to the species list. 
+
+## Distribution
+
+Mammals occur statewide and utilize a variety of habitats. Caves are used by several species of bats and Allegheny Woodrats (Neotoma magister), while other species such as the Southern Water Shrew (Sorex palustris punctatus) are semi-aquatic. Many SGCN species are found in habitats that are limited in distribution or utilize limited portions of a habitat based on specific habitat characteristics (e.g., rock outcroppings). These will be discussed under the Species Groupings below.
+
+## Species Groupings
+
+## Bats
+
+Bats occur statewide and this group includes species which are resident year round as well as migratory species. Many bat species use caves for hibernation and Virginia Big-eared Bats (Corynorhinus townsendii virginianus) also rear their young in caves. Many caves in West Virginia harbor regionally and/or globally significant numbers of hibernating bats. Threats include the fungal disease White Nose Syndrome, mortalities at wind facilities, disturbance of bats in roosts, and loss of roosts. 
+
+## Corynorhinus rafinesquii (Eastern
+
+## Conservation Issues
+
+The threats to SGCN mammals are varied and include habitat loss and degradation, diseases and parasites, direct mortality at wind facilities, disturbance, and climate change.
+
+## Bats
+
+Threats to bats come from several sources. Many SGCN species use caves (and mines) for hibernation. Some species winter almost exclusively in caves while other species appear to use other hibernation sites in addition to caves and mines. Because bats in West Virginia feed solely on insects, there is little to no food available in the winter. They must survive the entire winter on fat reserves accumulated in late summer/fall. Repeated disturbance of hibernating bats by people entering caves can cause them to arouse and deplete fat stores before winter is over. This was a factor in the USFWS's decision to list both the Indiana Bat and Virginia Big-eared Bat as endangered. As part of the recovery strategy for these species, several important hiberncaula were closed to human visitation during the winter, and bat populations increased.
+A recent threat to bats is the disease White Nose Syndrome caused by the fungus Pseudogymnoascus destructans. The disease affects bats during hibernation. White Nose Syndrome was first observed in a cave near Albany, New York in 2006. In 2009, WNS was documented in Pendleton County, West Virginia. By 2012 WNS had spread through the major karst regions of the state. Multiple species are affected with the greatest mortalities seen in Little Brown Bats (97% decline based on winter 2014-2015 bat surveys), Tricolored Bats (95% decline), and Indiana Bats (85% decline). Northern Long-eared Bats are impacted as well, but few are seen in caves during winter surveys and the extent of the impact is difficult to assess. Although WNS has been documented in Eastern Small-footed Bats, no mortality has been observed in West Virginia and the number seen in winter surveys increased slightly from 2013 to 2015. Virginia Big-eared Bats do not seem to be affected by WNS, and their population has increased every year since WNS was first documented in the state.
+In addition to using caves for hibernation, Virginia Big-eared Bats use caves in the summer. Both maternity colonies (where females rear their young) and "bachelor" colonies (males) are known. Disturbance of these summer colonies may cause the bats to abandon these sites.
+Another recent threat to bats came to light in the years preceding the 2005 WVWCAP. Large bat mortalities were documented at a wind facility in Tucker County, West Virginia in 2003. Similar mortalities have since been documented at many additional sites in the East. Most bat mortalities occur on warm nights with low wind speed. The species most impacted are migratory species: Eastern Red Bat, Hoary Bat, and Silver-haired Bat. A small number of Seminole Bat carcasses have also been recovered at wind facilities in West Virginia. Of the non-migratory bats, the greatest mortalities have been observed for Tricolored Bats, but Little Brown Bats, Northern Long-eared Bats and Indiana Bats have been impacted.
+Forest dwelling bats can be impacted by a loss of summer roosts. Bats roosting in trees may be impacted by forestry practices which remove potential roost trees for some species (e.g., snags with exfoliating bark, hollow trees, etc.) or by disturbance at times of the year when non-volant (not yet able to fly) young are present (mostly June and July).
+Although Little Brown Bat maternity colonies were probably originally restricted to hollow trees, most Little Brown Bat maternity colonies are now found in buildings and other structures. These colonies can 2015 WV State Wildlife Action Plan be impacted when home owners evict bats from buildings. To minimize these impacts, in 2014 the WVDNR developed guidelines for dealing with bats in buildings. In addition, Little Brown Bats may roost in old and abandoned buildings, some of which are being demolished and replaced with newer, less batfriendly structures.
+Three SGCN bats are federally listed species. The Northern Long-eared Bat was recently listed due to the impacts of WNS. Before WNS, this was one of the most common bats in West Virginia, and it occurred in all counties. Although the population has declined due to WNS, in 2014 this was the third most commonly captured bat during mist net surveys (after the Big Brown Bat (Eptesicus fuscus) and Eastern Red Bat) and was still relatively common in the Northern Panhandle region. West Virginia harbors more than half of the global population of the Virginia Big-eared Bat and the largest concentration of Indiana Bats in the Mid-Atlantic area. These two listed species are less-widely distributed in the state than the Northern Long-eared Bat, and the maps below show areas where these bats are likely to occur during the active (non-hibernation) season. The fourth listed bat species in West Virginia is the Gray Bat. This species was seen during a winter bat survey in 1991, but has not been documented in the state since that time and is considered accidental at this time.
+Talus/Boulder Field/Cliff Species This is a suite of mammal species often associated with rock features on the landscape. These can be cliffs and large outcroppings, boulder fields, or talus areas. Rock features can be acidic or limestone, and some species will also use caves. The Eastern Small-footed Bat is included here because it uses these habitats and, unlike many other bats, is not significantly impacted by WNS and has not been documented to be impacted by the operation of wind facilities.
+Threats include habitat degradation and fragmentation as rocky ridges are impacted by housing development, construction of pipelines and other rights-of-way, and the development of wind facilities. Ideally, large areas containing multiple rock features can be protected to allow meta-populations to function on the landscape. Such areas still exist in West Virginia. Forestry practices implemented near rock features should aim to maintain mast producing trees and shrubs in areas where Allegheny Woodrats occur.
+Zones of concern for "active season" Virginia Big-eared Bats.
+Zones of concern for "active season" Indiana bats.
+Another threat is the potential impact of the raccoon roundworm (Baylisascaris procyonis) on Allegheny Woodrats. The eggs of the roundworm are passed in raccoon feces (raccoons often den in rocky areas), and the eggs can be transferred to Allegheny Woodrats where they can be fatal. This problem is exacerbated by artificially high raccoon populations in areas where they have access to human garbage including food materials.
+Red Spruce/Northern Hardwood Forests Species Red Spruce/Northern Hardwood Forests once covered much of the higher elevations of West Virginia. Much of this habitat was lost following large-scale logging and subsequent fires around the turn of the 20 th Century. Very little old growth Red Spruce Forest remains. Although the main impacts of the timbering are a legacy of earlier logging, considerable Red Spruce (Picea rubens) was still being harvested in the 1980s. Much of this habitat occurs on the Monongahela National Forest, and the current management plan for the Forest includes a Red Spruce management prescription. Several organizations and agencies have contributed to Red Spruce restoration work including research into restoration measures, planting of Red Spruce seedlings, and forest management to release understory Red Spruce where there is not yet spruce in the overstory.
+Climate change could impede the recovery of Red Spruce/Northern Hardwood Forests, but even if the overall range of spruce is reduced considerably from its historic distribution, there would likely be areas where spruce forest could still be expanded beyond its current range.
+While most species in this group are affected mostly by habitat loss and degradation, the Snowshoe Hare may be directly impacted by climate change. Because this species has evolved to change pelage (fur) color from brown in the summer to white in the winter, a change in the timing of snow cover could lead to a "mismatch" of the hares' coloration with the environment. If snow cover comes later and remains for a shorter period of time, white hares may become easy prey for predators.
+Grassland/Meadow/Scrubland Species The group contains species which occur from the higher elevations to the Ohio Valley, but they use open and early successional habitats. This group has not been well studied in recent years, and many of the WVDNR's records are old. Surveys should be conducted to determine if the habitat and the species still occur at the documented sites. The main threat is probably habitat loss through succession or development, especially in the Ohio Valley and Eastern Panhandle. In some areas, species may be impacted by free-ranging pets.
+
+## SGCN Summary
+
+West Virginia's SGCN list for mammals includes 29 species, with 15 considered Priority 1. Nine (31%) of the mammal species on the SGCN list are bats. Three bats are federally listed (Indiana Bat (endangered), Northern Long-eared Bat (threatened), and Virginia Big-eared Bat (endangered)) and two additional bats are being reviewed for possible federal listing 
+(Little Brown Bat and Tricolored Bat)
+. When the 2005 WVWCAP was prepared, the West Virginia Northern Flying Squirrel was listed as federally endangered. This species has been delisted, but remains an SGCN and a Sensitive Species on the Monongahela National Forest. The Northern Long-eared Bat was federally listed since the 2005 WVWCAP was written. A recent status survey of the Eastern Small-footed Bat conducted by the USFWS determined that federal listing is not warranted at this time.
+
+## 3.2.1.9: Mussels
+
+## Description
+
+West Virginia hosts 63 extant species of freshwater mussels, one from the family Margaritiferidae and 62 from the family Unionidae. Freshwater mussels are found statewide with most species preferring lotic environments. A few of these species will also use, and a few other species prefer, lentic environments. Freshwater mussels play a key role in the health of aquatic environments by helping to maintain water quality, cycle nutrients, stabilize substrates, remove suspended sediments, and create habitat complexity 
+(Anderson and Kreeger 2010)
+. Freshwater mussels are good long-term indicators of water quality as some species live upwards of 100 years.
+The lifecycle of freshwater mussels is unique. Once fertilization occurs the female broods her glochidia (larvae) within her gills. The glochidia, once released, become parasitic on a host. Most identified hosts are fish and many times may be only one species of fish. One mussel is known to be parasitic on the Mudpuppy (Necturus maculosus). Hosts for several mussel species have yet to be identified. The glochidia remain encysted on the host for a period of time which is dependent on water temperature and may last just a few weeks to several months over-winter. Once they release from the host they are juvenile mussels, first feeding with a ciliated foot prior to becoming filter feeders. Freshwater mussels feed on a variety of organic material filtered from the water column including algae, diatoms and fine particulate organic matter containing bacteria and fungi.
+The 2005 WVWCAP listed data management, surveys, monitoring, and research as primary goals. Data management consisted of standardizing data collection protocols, capturing legacy data, and providing public access to data through publication of a mussel book and providing information on the internet. To date the first two tasks have been completed. The mussel database currently contains 4012 survey events that include over 19,500 mussel records. This includes records dating back to 1897. The state currently maintains 26 long-term monitoring sites which are surveyed on a five year rotation. The only goals not reached were the publication of a mussel book and making information available to the public over the internet. Much of the book has been drafted, including photographs and distribution maps, but much of the material needs to be updated.
+All mussels are protected in the State of West Virginia pursuant to West Virginia §20-2-4 and CSR 58-60-5.11. In addition, nine federally endangered freshwater mussel species are known to occur in the State. These species are protected by the Endangered Species Act (87 Stat. 884, as amended; 16 U.S.C. 1531 et seq.). As a result, anyone that plans to conduct activities that impact the stream bottom of a known mussel stream or a stream suspected of having mussels is required to conduct a mussel survey/relocation within the area. Standardized protocols were established in 2012 that provided methodologies for conducting surveys within four stream groups. These groups consist of Group 1 (small to mid-sized streams that are not expected to contain federally endangered species), Group 2 (small to mid-sized streams in which federally endangered species may be found), Group 3 (large streams that are not expected to contain federally endangered species), and Group 4 (large streams in which federally endangered species may be found). The document is updated each year to address any issues that may have arisen over the previous year's work. All data are entered into the state database.
+
+## Distribution
+
+The distribution of freshwater mussels is dependent on hosts that provide upstream dispersal of a given species. For most mussel species, occurrence and distribution in the state are generally well understood although new records continue to be discovered. State ranks were reassigned in 2014 using NatureServe's methodology. Species distributions are describe below in Species Groupings.
+
+## Species Groupings
+
+Occurrence of mussel species is best characterized by watershed. The group is split between the Ohio River Watershed, the Potomac Watershed, and the James River Watershed. Only two of the SGCN species cross-over watershed boundaries. The Green Floater (Lasmigona subviridis) occurs within the Ohio and Potomac watersheds which is most likely a result of historic stream captures. Through genetic analysis 
+King et al. (1999)
+
+## Conservation Issues
+
+With over 300 species of freshwater mussels in North America, mollusks are the most imperiled group of animals in America. Of the 58% of the total lentic waters assessed by EPA in West Virginia in 2010, 62% were determined to be impaired (USEPA 2010). Although some rivers in eastern and north-central West Virginia (Monongahela Watershed among others) have made substantial improvements in water quality and sediment reductions from unregulated logging, acid mine drainage, and unregulated municipal pollution from the 1900s, other West Virginia rivers and streams remain highly impacted. Others remain under threat from streamside development, mountaintop mining, and the shale gas and oil extraction industry.
+The 2005 WVWCAP listed habitat loss, water quantity and quality, and data protection as the three top conservation issues. Additional issues addressed for certain species included forest health and invasive species. Habitat continues to be lost through dredging, stream channelization, siltation, pipeline construction, and others. We have made progress in reducing these impacts through coordination and the implementation of the Mussel Survey Protocols described above, but the loss continues. Water quality continues to be an issue.
+While toxic spills continue to impact mussels as evidenced by the 30 mile long mussel kill on the Ohio River in 1999, the coal slurry spill on the Tug Fork in 2000, and the complete loss of mussel populations in Dunkard Creek in 2009, the greatest general impact to our mussel resources may be chronic stressors such as elevated ammonia from wastewater discharges or chloride discharges from industrial effluents. Research in recent years shows that mussels are much more susceptible to chemicals such as ammonia and chlorides than typical aquatic organisms used to establish water quality standards (Canadian Council of Ministers of the Environment 2011, 
+Patnode et al.)
+.
+Although water quantity was listed with quality in 2005, quantity was not a significant issue at the time. With the onset of the shale gas industry over the last decade, quantity has become more of an issue. In 2010 mussels were observed being stranded due to water withdrawals during drought conditions for the shale gas industry. Over the next few years West Virgninia Department of Environmental Protection (WVDEP) incorporated regulations on water withdrawals. The limits set have yet to be validated as protective of aquatic life. This assessment needs to be conducted and was initiated in 2015 by the USFWS for streams containing federally endangered species. Since the 2005 WVWCAP was published, legislation was enacted that protects the release of site specific information from freedom of information requests.
+Many of the actions noted in 2005 to address issues are still valid today. Coordination with our partners such as the USFWS, WVDEP, Natural Resources Conservation Service (NRCS), and others continues to be a high priority. Other actions include education of the public, industry and permit writers on the importance of mussels, riparian buffers, maintaining stream stability and minimizing direct impacts to streams (mussel habitat), reducing the spread of invasive species and others. In addition, there is a need to support legislation that createswater quality standards that are more protective of aquatic life. Would you want to drink water that our aquatic fauna could not even live in? Populations of all freshwater mussels have been drastically reduced in our streams, some to the point of extirpation. The Tubercled Blossum (Epioblasma torulosa torulosa) documented in the 2005 WVWCAP is now believed to be extirpated. The reasons for this decline are many, and are all related directly to human activities. Impoundments, dams, or activities associated with these facilities create physical barriers that isolate populations and separate them from host fish, cause fluctuations in water flow that decreases nutrient and oxygen availability and alters natural temperature regimes. Entire beds have probably been destroyed by historical and ongoing commercial sand and gravel dredging within the upper Ohio River. Dredging also occurs for navigation maintenance and permanent loading and unloading facilities. Other impacts occur from tow prop wash and chemical spills. Probably the greatest impact to freshwater mussels comes from sedimentation associated with the above activities as well as open trenching for pipeline crossings, fords, stream bank failure, land disturbances of many types (agricultural, forestry, urban, and industrial), etc. As previously mentioned, mussels feed by filtering water over their finely ciliated gills to remove microscopic food particles. This process makes them very sensitive to excessive sedimentation. Excessive sedimentation not only impacts their feeding but 2015 WV State Wildlife Action Plan reduces suitable habitat and may cause death due to smothering 
+(Anderson and
+Kreeger 2010, Box and
+Mossa 1999)
+.
+The exotic Zebra Mussel (Dressenia polymorpha) continues to threaten mussel populations within the Ohio and Kanawha rivers. In 2000 a nearly 25%decline in the native mussels occurred as a result of a population explosion of Zebra Mussels. Zebra Mussels do not have a parasitic life stage and thus can produce lage numbers of juveniles which, if flows are slow enough, attach to hard surfaces including native freshwater mussels. Once attached, they grow rapidly and can restrict availablilty offood and oxygen to the native as well as inhibit the native's ability to burrow. Since the initial infestation, Zebra Mussel densities have not reached density levels observed in 2000 and rarely survive into their second year. Zebra mussel populations are maintained by a constant influx of young produced by adults attached to barges that travel the river. Evidence does not indicate that Zebra Mussels are able to survive in our inland lakes and rivers, but education of boaters, anglers, and other stream users on cleaning equipment and movement of water containing Zebra Mussel larvae or other invasive species and pathogens should continue to keep the threat of spread to a minimum.
+Future conservation efforts should include the following.
+• Concentrate on targeted surveys for determining status of species considered for federal listing.
+• Work should continue toward publishing the Mussels of West Virginia to provide access to data by the general public. • The monitoring network put in place should be continued and expanded.
+• Efforts should be made to identify specific sites of high diversity and put into place mechanisms to conserve that biodiversity.
+• An increasing concern is potential degradation of water quality and quantity as a consequence of shale gas extraction activity. The State should be encouraged to adopt water quality standards that are more protective of aquatic life. • Dams that are no longer supporting their designated use should be removed to restore the streams connectivity, restoring mussel habitat, mussel host movements, and thus allowing for restoration of the mussel population. 
+
+## 3.2.1.10: Other Invertebrates
+
+There is no taxa description included here for this small group of invertebrate species about which little in known for West Virginia. This taxa group has been elevated as a research priority in Chapter 7.
+
+## 3.2.1.11: Plants
+
+## Description
+
+Plants comprise the Kingdom Plantae, which includes vascular plants and nonvascular plants. Vascular plants include flowering plants, conifers, and ferns and their allies. Nonvascular plants include brypohytes and green algae. West Virginia is home to over 2,300 species of vascular plants 
+(Harmon et al. 2006
+) and over 400 species of bryophytes 
+(Studlar et al. 2002
+, WVDNR 2015)
+. Very little is known about the diversity of green algae in the state. The huge diversity of plants in West Virginia includes pines, oaks, maples, hickories, haws, grasses, sedges, daisies, orchids, mints, pondweeds, ferns, mosses, and much more.
+Plants provide food and shelter for all wildlife, and they shape the habitats and atmosphere that all life depends on. Plants are used to classify and describe the terrestrial wildlife habitats that are used in this plan. Plants are not usually included in the definition of wildlife, but their importance to wildlife (and to humans) cannot be over-estimated.
+About 75% of the documented vascular plants of West Virginia are considered native 
+(Harmon et al. 2006)
+
+## Conservation Issues
+
+Despite the importance of plants to all wildlife and high levels of imperilment compared to most animal groups, plants have often been excluded or de-emphasized in SWAPs 
+(Stein and Gravuer 2008)
+.
+Although, currently, State Wildlife Grant (SWG) funds cannot be used for plant conservation projects, we are including plants in our SWAP to encourage their consideration when planning SWG funded wildlife conservation projects and to encourage plant conservation projects with other funding sources.
+We recommend that SWG funded conservation actions be designed to provide benefits and to avoid detrimental effects to native plant populations.
+The role of plants in food webs has many implications for wildlife conservation. Some plant species have been identified as sole food sources for animal species, especially Lepidoptera. All animals depend on plants directly for food, or indirectly as food for their prey. Plants are, in turn, affected by herbivory and may depend on consumption or visitation by animals for seed dispersal or pollination. Most plants can tolerate some herbivory and some plants have evolved defenses such as unpalatability or toxicity. Other plants are particularly susceptible to herbivory. In recent decades, excessive herbivory by large populations of White-tailed Deer has posed a threat to many native plant species and habitats in many parts of West Virginia. Plant groups that are particularly susceptible to deer herbivory include (but are not limited to) orchids, lilies, oaks, and shrubs.
+Non-native invasive species include a group of plants which threaten many wildlife and native plant populations. The WVDNR ( 
+2009
+) developed a list of invasive plants and threat ranks which is available on the WVDNR website (www.WVDNR.gov). In the last 30 years, a number of native trees in West Virginia have become vulnerable to an onslaught of non-native forest pests and diseases. The increased rate of invasion and spread of these pests and diseases is now at a pace probably never before experienced in temperate forests and too fast for long-lived species, like trees, to adapt to in the foreseeable future. The resulting declines in native trees are significantly affecting food availability and other habitat characteristics important for wildlife. A few of these trees, such as Balsam Fir and Butternut (Juglans cinerea), are currently on the State's SGCN list, but more will probably move onto the list over the coming decade as their populations decline, including Eastern Hemlock (Tsuga canadensis) and all native ashes (Fraxinus spp. Gloabally rare plant SGCN with a substantial portion of their known global population in West Virginia include Smoke Hole Bergamot (Monarda fistulosa ssp. brevis), Shriver's Frilly Orchid (Platanthera shriveri), Monongahela Barbara's-buttons (Marshallia grandiflora), and Canby's Mountain-lover (Paxistima canbyi).
+The list of plant SGCN was developed by revising the most recently published list of rare, threatened, and endangered plants tracked by WVDNR (2012). Additions, deletions, and changes in taxonomy and state conservation ranks were made to reflect the most recent surveys and discoveries. The list of plant SGCN will replace the WVDNR's 2012 list and as new discoveries are made the list will be updated and posted on the WVDNR website.
+
+## 3.2.1.12: Reptiles
+
+## Description
+
+Reptiles (class Reptilia) in West Virginia belong to three primary groups: lizards, skinks, and racerunners (order Squamata, sub-order Sauria); snakes (order Squamata); and turtles (order Testudines). Although some turtles are aquatic, no reptiles are tied to aquatic habitats for reproduction, but lay their eggs or give birth in terrestrial habitats. All are covered with scales or modified scales, and except for snakes, have clawed appendages.
+Four skink species, one lizard species, and one racerunner species occur in West Virginia. Lizards occur in woodlands with most species preferring dry to moist conditions or certain habitat features such as rock outcrops or large woody debris. Females may deposit their eggs in a nest they excavate or they may find suitable cover under rocks or logs Twenty snake species occur in West Virginia. Breeding may occur in the fall or spring (after emergence from hibernation). Nine snake species give live birth with the remaining 11 species laying eggs. Birth and hatching occur in late summer and early fall. Snakes are a diverse group with species occurring in virtually every habitat type in the state. Two species of venomous snakes occur in West Virginia: the Northern Copperhead (Agkistrodon contortrix mokasen) and Eastern Timber Rattlesnake (Crotalus horridus).
+Thirteen turtle species occur in West Virginia. Although their body is covered with scales, many scales are modified to form a carapace (top shell) and a plastron (bottom shell). Twelve species are aquatic or semi-aquatic, and one species is terrestrial. All turtles lay eggs in early summer which hatch in late summer and early fall. Turtles occur in most lotic habitats.
+
+## Distribution
+
+Reptiles occur throughout West Virginia in a broad variety of habitats including all forest types, rocky outcrops, riparian areas, and disturbed habitats. Many SGCN reptiles are at the edge of their ranges and may be limited by geographic barriers or availability of specific habitats. Only one snake (Mountain Earthsnake (Virginia valeriae pulchra)) is considered a Central Appalachian endemic.
+
+## Species Groupings
+
+Terrestrial Lizards, Skinks, and Racerunners This group includes species with limited or disjunct populations. They occur in dry to mesic woodlands. Threats include invasive species (cats), habitat degradation, and pesticide use. 
+
+## Conservation Issues
+
+Reptiles have adapted to specific habitat features and many have developed unique life history characteristics. Most turtles are aquatic or semi-aquatic. Lizards occupy forested uplands and feed on insects. Most snakes are terrestrial but some occupy riparian and wetland habitats, and some are even semi-aquatic. Specialization allows species to thrive in a complex environment, but it also places them at risk when their habitat is disturbed or compromised. Threats to reptiles vary according to the species but can be categorized by the following: invasive species, disease, pollution, commercial collecting and persecution, and habitat modification.
+Non-native invasive species in West Virginia include domestic and feral house cats and dogs. Small snakes and lizards are frequent prey items. Conservation actions include outreach materials for pet owners to keep pets indoors or otherwise contained. Problematic native species include Raccoons, skunks, and Opossums (Didelphi virginiana). When these native animals scavenge streambanks and roadsides in search of discarded food, they discover and excavate turtle nests. These animals become habituated to searching for turtle nests in addition to scavenging garbage. Conservation actions include enforcing littering laws and develop outreach material focusing on litter prevention at fishing access sites.
+Modifying habitat and introducing incompatible landuses stresses reptile populations, making them vulnerable to disease. Reptile diseases that threaten West Virginia species include ranavirus, snake fungal dermatitis, and Mycoplasma spp. Ranavirus is a fatal ectotherm-specific disease that requires an aquatic vector. In West Virginia ranavirus has been documented in Eastern Box Turtles. Snake fungal dermatitis is an emerging disease that can be fatal. It has not been documented in West Virginia but is present in mid-Atlantic and New England states. Mycoplasma spp. is an upper respiratory tract disease that affects Eastern Box Turtles. In West Virginia it is present in the environment and can remain latent in individual turtles. External stress related to habitat degradation or pollution often triggers the onset. Conservation actions include developing disinfection and bio-security protocols for biologists and the public, conducting disease surveillance, and developing outreach programs to create awareness of reptile diseases.
+Pollution in the form of industrial, agricultural, forestry, and urban effluent affects aquatic and terrestrial reptiles. Pesticides used to treat insects ultimately affect the prey base for lizards and many snake species. Similarly, chemicals or other effluents introduced into water bodies affects aquatic invertebrates which are prey for aquatic and riparian reptiles. When reptile species (e.g., Box Turtles) are exposed to agricultural pesticides, the stress often triggers an upper respiratory tract infection. Forestry, agriculture, and urban development activities introduce silt and sediment into streams which degrades aquatic substrates that support food resources or are used as hibernacula during dormant seasons. Conservation actions include conducting reptile population assessments, monitoring water quality, increased pesticide regulatory enforcement, NPDES enforcement, and community outreach programs that emphasize appropriate hazardous waste disposal and water conservation practices.
+Commercial collecting and persecution involves removing animals from natural populations. These activities have caused local extirpations. Commercial collecting for the food market and the pet trade threatens populations of many reptile species. Common Snapping Turtles, softshell turtles, and the basking turtles are sought for international food markets. Other species including Wood Turtles, Spotted Turtles, Eastern Box Turtles, and Timber Rattlesnakes are collected for sale in the pet trade. Persecution (killing) generally targets snakes. Persecution also involves "snake hunts" where people actively search for dens/rookeries in order to kill the snakes or collect them for wildgame food events. Increased offroad motorized recreation has increased persecution in formerly remote areas, especially for rattlesnakes. Conservation actions include enforcing existing reptile/amphibian regulations, coordinating with law enforcement in other states, developing outreach material for the public and the pet/food industry that commercial collection is prohibited in West Virginia.
+Reptiles have relatively long lifespans. They may take several years to reach sexual maturity and many often have low reproductive output. Many species are slow to respond or unable to adapt to habitat modification. Populations are often restricted by geographic barriers and habitat availability.
+Fragmenting or otherwise modifying habitat exposes reptile populations to environmental stresses and human interactions which act in concert to threaten population viability. Fragmentation manifests itself differently according to the species affected but can include logging intact forests, road construction, dam construction, and stream channelization. Changes in farming practices, most notably increased use of machinery combined with more frequent hay harvests have reduced snake populations in farmlands.
+Conservation actions include maintaining core areas of intact habitat, removing barriers to dispersal, and restoring connectivity between all reptile life zones. Outreach efforts must involve engaging with land management agencies, local planning commissions, and the public to preserve intact habitats, restore degraded habitats, and re-establish populations where appropriate.
+
+## SGCN Summary
+
+West Virginia's list for SGCN includes 28 reptile species, with 17 considered Priority 1. The USFWS has been petitioned to list several turtles including the Northern Red-bellied Cooter, Wood Turtle and Spotted Turtle. The USFWS recently announced that it is going to initiate a status review of the Spotted Turtle.
+2015 WV State Wildlife Action Plan
+
+## 3.2.1.13: Snails
+
+## Description
+
+Snails belong to the phylum Mollusca, class Gastropoda. In West Virginia this group contains terrestrial snails, aquatic snails, and slugs. Three SGCN gastropods are cave-dwelling snails and were covered in the Cave Invertebrate section of this plan.
+Snails are a food source for many animals and snail shells (both from live animals and empty shells) are important sources of calcium. Predators of land snails include shrews, moles and other small mammals, snakes, salamanders, and birds. 
+Hames et al. (2002)
+ documented a correlation between reduced numbers of Wood Thrushes and acid rain; the authors hypothesized that this may be connected to reduced snail populations, resulting in a reduced supply of calcium for egg production. There are also snail-eating beetles specialized to feed on land snails and even snails which feed on other snails.
+Since the 2005 WVWCAP, WVDNR efforts have added greatly to knowledge of snails in the state, particularly land snails. Most of these data were compiled under two projects funded through the USFWS's SWG Program. The first was a project completed by Ken Hotopp and Tim Pearce. They compiled over 10,650 existing museum records from several institutions into a database submitted to the WVDNR. The second project was a land snail atlas coordinated by the WVDNR. Dan Dourson was contracted to identify the specimens collected by the WVDNR and other partners. For this atlas, 17,130 specimens were collected and identified by Dourson. Combining these two data sources, Dourson was able to confirm 168 species of native land snails in West Virginia. Eleven gastropods possibly endemic to West Virginia have been identified. Four of these are described species and one is a described subspecies. Three additional species will be described in 2015. The remaining three species are thought to represent new species endemic to West Virginia, but additional collections and research are needed to determine their status (see list below). The Atlas resulted in five new state records and 459 new county records. During the atlas project, seven species new to science were discovered, three of which will be described and named in the Atlas publication in 2015. In addition, ten exotic snail/slug species were also documented. The distributions of aquatic snails and slugs are much less well known.
+Because the last field season of the Atlas project was 2014, the new land snail data has not been incorporated into the Unit's rare species database. To assess the status of land snail species for the SGCN list, global ranks and provisional state ranks were used. State ranks will eventually be assigned following NatureServe's guidance, but for the purposes of this plan, provisional ranks were assigned based on the number, distribution, and age of the records. Because slugs are poorly represented in collections from West Virginia, only global ranks were used for these species.
+
+## Distribution
+
+Gastropods occur statewide in a wide variety of habitats including upland habitats, aquatic habitats, and caves. Terrestrial snails are often most abundant in habitats rich in calcium. Some species are restricted to calcium rich environments, while other species occur in a wide range of habitats, but are usually more abundant at calcium-rich sites. The Ridge and Valley ecregion along the West Virginia/Virginia border is a globally significant hot-spot of high land snail endemism with 18 species of snails and one slug endemic to the area. A list of these endemics is provided below. This is also the portion of West Virginia with the greatest number of land snail species (see figure below), and an area which warrants additional survey effort.
+Number of documented species of land snail by county (from draft West Virginia Land Snail Atlas prepared by Dan Dourson, to be published 2015).
+List of species endemic to the Ridge and Valley Ecoregion along the Virginia/West Virginia border. Species in bold have been documented in West Virginia (D. 
+Dourson, pers. comm. 2015)
+. Those species marked with an * have yet to be described. 
+
+## Anguispira clarki
+
+## Conservation Issues
+
+Threats to aquatic and terrestrial snails are related to factors that degrade or destroy their habitats.
+Other factors do not appear to play significant roles in impacting populations, but potentially non-native species could play a role either through direct competition or the introduction of parasites or diseases.
+The Flat-spired Three-toothed Land Snail (=Cheat Three-tooth), was listed as federally threatened in 1978. This species is only found in West Virginia. Much of the species' range is now in public ownership (Cheat Canyon WMA, Coopers Rock State Forest, and Snake Hill WMA). Because of this, the WVDNR has dealt with land snail conservation issues for a number of years, and concerns for this species may provide insight into threats and conservation strategies for other terrestrial SGCN gastropods.
+The Flat-spired Three-toothed Land Snail recovery plan (USFWS 1983) notes the potential impacts of concentrated foot traffic in areas open to public use. This could both impact snails directly and degrade leaf litter, a habitat feature used by the snail. Such habitat degradation was documented in the area of Coopers Rock Overlook, a popular tourist attraction located close to a parking area. In the 1990s fencing was erected to divert foot traffic away from the snail habitat at the Overlook site. Initially the fence was vandalized, and it had to be repaired in 2002 to make it effective. Since that time, the fence has been little damaged and has been effective at routing traffic away from sensitive areas. Leaf litter, which was almost absent before the fence was built (due to trampling under foot), is now abundant and utilized by the snails.
+Other potential threats noted in the species' recovery plan include:
+• Forest fires which could destroy leaf litter, kill trees that shade rock outcrops, and impact snails directly. Of particular concern were fire hazards such as discarded cigarettes or fires escaping from camp sites. • The long-term impact of air pollution on lichens which could be an important food item for the snail. • The species' recent 5-Year Review (USFWS 2007) mentioned additional concerns:
+o Rock climbing and "bouldering" events could impact snails directly and degrade or remove habitat. Because this species is usually found close to rocks, foot traffic at the base of outcrops can crush snails and degrade leaf litter. In addition, climbers may rake leaf litter away from the rocks and cut vegetation near the rocks to improve the climbing experience. o The Review noted that logging and associated road building were ongoing threats.
+
+## WV State Wildlife Action Plan
+
+Opening the canopy can cause heating and dying of snail habitat and road construction can create sedimentation issues on steep slopes. On state lands, buffers of 150 feet around potential habitat and 200 feet around known occupied habitat have been implemented when preparing timber sales, but there is little data on the effectiveness of these buffers. o The impact of invasive plants was another concern. Tree of Heaven (Ailanthus altissima) and Garlic Mustard have been observed invading the habitat of this snail in Cheat Canyon. o The Review cites a paper by 
+Dourson (2008)
+ which notes that "Clearly, where the woodrat [Neotoma magister] and T. platysayoides coexist, wood-rats furnish a nearly constant food supply to the snail, including wood-rat excrement and a host of wood-rat harvested provisions carried into the snail's location." Decline of Allegheny Woodrat populations in areas where this snail exists could have a negative impact on food resources of the snail. o Another concern noted, although localized in impact, is the unknown effect of toxins from treated lumber used for boardwalks and railings near the Coopers Rock Overlook. o 
+Hotopp (2002)
+, raised concerns that anthropogenic changes in soil calcium levels may impact land snail populations and cites a paper documenting a decline in land snail abundance in Sweden which was correlated to a decline in calcium at the soil surface 
+(Wäreborn 1992
+). Hotopp's research in mature forests in Maryland, near the West Virginia border, found a link between land snails and soil calcium. It is possible that acid precipitation could (and may have already) impact soil calcium and thus impact snails in areas where soils are poorly buffered.
+Because some of the priority SGCN species have only recently been described, additional work needs to be done to explore the extent of their ranges and habitat associations. The Atlas also highlighted other possible new species that should receive attention in the future. It is likely that there are other undescribed species to be found in areas of high snail endemism and diversity, and these areas should be examined further.
+There were a number of SGCN species, including some priority species, which were not encountered during the WVDNR Atlas surveys. Efforts should focus on determining if these species still occur in the state. Historic locations should be revisited, assessed for potential habitat, and surveyed. Because many of the older museum records do not have coordinates, attempts will have to be made to relocate sites based on written descriptions on museum labels. The WVDNR should attempt to acquire additional data on aquatic snails.
+For SGCN gastropods, the best conservation strategy may be to determine the range and habitat needs of the species and work to insure that largely intact blocks of habitat continue to exist on the landscape. Efforts to improve water quality and the condition of the substrates in streams and rivers will benefit gastropods as well as other aquatic invertebrates.
+
+## SGCN Summary
+
+West Virginia's SGCN list for gastropods includes 108 species, with 20 considered Priority 1. Priority species were selected based on rarity and the portion of the species' range within West Virginia. Included are 101 terrestrial snails, one slug, three aquatic snails, and three cave species (two aquatic 2015 WV State Wildlife Action Plan and one terrestrial). One land snail (Flat-spired Three-toothed Land Snail) is listed as federally threatened.
+2015 WV State Wildlife Action Plan
+
+## 3.2.1.14: Tiger Beetles
+
+## Description
+
+Tiger beetles are colorful and interesting beetles. Their predacious habits, as both adults and larvae, put them at the top of the insect food chain. Females lay eggs in the soil, and each species has specific soil moisture conditions critical for the survival of its eggs and larvae. Larvae burrow into the soil and maintain a hole to the soil surface where they can capture passing prey. When mature, the larvae enter a short pupation period before the adults emerge. Adults of nearly all species are diurnal, actively moving about during daylight hours. A few species remain active at night, and one species is strictly nocturnal. While on the ground, adults are very wary and quick to take flight if disturbed; however, three species which occur in West Virginia are flightless.
+
+## Distribution
+
+Tiger beetles occur worldwide from the tropics to the boreal regions, and are represented by about 100 species across the United States. West Virginia has 20 species, known either from the state or found close enough to its borders to have a reasonable likelihood of future discovery here. Of the 20 known species, all belong to the genus Cicindela except for one Megacephala species which belongs to a primarily neotropical group. In West Virginia, tiger beetles are found statewide, but many species have specific habitat requirements and are restricted to limited areas where their habitat needs are met. Tiger beetles usually occupy open areas with little vegetative cover. Larvae occupy burrows in soils that are usually sandy in nature but may also be in clay or shale soils. Often these types of habitats are riparian, along dirt roads or near natural barrens around the state. All of these habitats are either restricted in distribution or in total area, hence the limited distribution of many species. An overview of the state's tiger beetles can be found in the "Tiger Beetles of West Virginia" by Thomas 
+Allen and Robert Acciavatti (WVDNR 2002)
+. Because the state has limited habitat for a number of the species, 13 species are listed as SGCN species.
+
+## Conservation Issues
+
+A review of the conservation needs for tiger beetles indicates that initial actions for the listed species are centered on survey, inventory, and data management. Information on the distribution and status of many tiger beetles is lacking, and filling these information gaps is a necessary first step for the future conservation assessment of each species. Little new data has been acquired since the publication of "Tiger Beetles of West Virginia" in 2002. Standardized data acquisition and management both within the WVDNR Wildlife Resources Section and by all other research partners will greatly assist with these conservation assessments. Unfortunately because of the dearth of data on the distribution and status of many individual species, few specific on-the-ground conservation actions have been identified. However, because several species require sand or gravel habitats along streams and rivers, conservation of riparian zones will benefit these species.
+A species of particular interest is the Splendid Tiger Beetle (Cicindela splendida). 
+
+## SGCN Summary
+
+West Virginia's SGCN list for tiger beetles includes 13 species, with five considered Priority 1. None are listed as federally threatened or endangered.
+2015 WV State Wildlife Action Plan
+
+## 3.2.1.15: Additional Information About Pollinators
+
+Pollinators are vital to the health of ecosystems through their pollination of many angiosperm species, including many that produce hard or soft mast for other wildlife species 
+(National Resource Council 2007)
+. In this sense they are keystone species. They are also vital to human food production, pollinating 130 crops species which produce seeds or fruit 
+(National Resource Council 2007)
+.
+Taxa that comprise pollinators in West Virginia include bees (Apoidea), and to a much lesser extent butterflies and moths (Lepidoptera), some wasps (Vespidae), flies (Diptera), beetles (Coleoptera), and the Ruby-throated Hummingbird (Archilochus colubris). Bees are primary pollinators for most insect pollinated plant species because of the efficiency of their fuzzy bodies with branched hairs in carrying pollen from flower to flower. Pollinators in the various taxa are found statewide depending on climate, soil type, and availability of nectar and/or pollen sources. Most pollinators are solitary, and very little is known of the natural history of most species. Some species lay eggs on vegetation, others construct some sort of chamber or nest in which to raise young. They dig nesting chambers in specific soil types, or use various plant structures, such as hollow reeds, in which to lay eggs. Social species build nests on or within structures, hollow trees, rodent burrows, or vegetation. The European honeybee (Apis mellifera), when raised for honey or agricultural use, by law are required to be maintained in structures with removable frames, while feral colonies use the interior of structures including hollow trees. All species that depend on nectar or pollen as a primary food source must have abundant sources for these resources over the course of their adult lives, typically late March or early April through the first killing frost.
+Known threats to pollinators focus mainly on threats to bees. Declines in European honeybees from the late 1980s to mid-1990s center around exotic mites and diseases associated with Asian honeybees; this resulted in most feral colonies disappearing. Currently, Colony Collapse Disorder, theorized to be caused by anything from systemic neonicotinoid insecticides contaminating pollen and nectar, reduced immune systems due to mite infestations, to stress caused by the repeated shipping of hives from one agricultural area to the next, is decimating hives used for agriculture and honey production.
+Wild bees are threatened by a number of factors. The use of herbicides with genetically modified crops (Roundup Ready) have caused significant declines of native nectar sources in some areas, contributing to the decline of area pollinators (Xerces Society 2011). Similarly, the use of crops genetically modified to resist insect herbivory have a gene for Btk, a naturally occurring insecticide, inserted into their genetic code; the resulting crop resists insects, but may also produce Btk laced pollen and nectar that can be 2015 WV State Wildlife Action Plan lethal to pollinators. As yet, this is not a major issue in West Virginia, but is an emerging threat especially in the agricultural dominated Eastern Panhandle.
+Mortality to bees because of insecticide spraying on crops or ornamentals is an ongoing impact. Most mortality is likely due to bees pollinating crop fields that have been sprayed with various insecticides during flowering 
+(Williams et al. 2014)
+. Individuals or corporations that spray flowering ornamentals without regard for pollinators have caused highly visible mortality to pollinators, especially bumble bees 
+(Xerces Society, 2015)
+. The increased use of systemic neonicotinoid insecticides on agricultural and ornamental plants has impacted pollinator species across North America 
+(Hopwood et al. 2012)
+.
+Habitat loss is also an issue. The loss of fallow fields, hedgerows, and similar areas in rural landscapes has reduced preferred nesting sites for solitary and social species. Development, degradation, and fragmentation of habitat are also serious threats. Research has documented that some bee species visit disturbed areas less than undisturbed areas, resulting in less effective pollination 
+(Goverde et al. 2002)
+. Bumble bees have a difficult time utilizing fragmented habitat; colonies suffer if nesting sites and nectar sources are not in close proximity. As in many other areas, family farms in West Virginia and throughout Appalachia have seen significant declines, with early successional habitat reverting back to forest. This process would likely favor some pollinator species, and negatively impact others.
+Exotic invasive species in the form of parasites and pathogens have impacted native bee species. 
+Evans et al. (2008)
+ determined that several species of bumble bees (Bombus spp.) are exhibiting significant population declines due to the introduction of an exotic European fungus (Nosema bombi) and by parasites spread by commercial bumble bee colonies used in agriculture (Crithidia bombi and Locustacarus buchneri). It is unknown what impact these exotic species have had on West Virginia bee populations.
+Climate change is a final factor discussed here that will likely impact pollinator populations. Weather patterns in Appalachia are predicted to become more extreme, and higher elevations are predicted to warm 
+(Byers and Norris 2011)
+. Species requiring cooler environments to survive will likely be displaced initially to higher elevations and eventually to more northern latitudes out of the state. Generally, bumble bees prefer cooler environments; bumble bee queens are among the first pollinators to emerge from hibernation in the spring. Severe storms, drought, and other extremes in the spring may impact colony establishment. We classify and map 19 terrestrial habitats in West Virginia. These include 16 natural or semi-natural habitats that are derived from NatureServe's Ecological Systems 
+(Comer et al. 2003
+, Gawler 2008
+) and three anthropogenic habitats that represent map classes of the National Land Cover Database (NLCD) 
+(Homer et al. 2004
+). Ecological Systems are groups of Associations in the United States National Vegetation Classification (USNVC) that occur in similar environments and are influenced by similar ecological processes 
+(Comer et al. 2003)
+ Habitat mapping is based on the Northeast Habitat Map 
+(Ferree and Anderson 2013)
+ with revisions applied for West Virginia, including consolidation of similar Ecological Systems across Ecoregion boundaries and corrections of some known errors in the regional map. In addition to the 19 terrestrial habitats, a map class is included for Open Water. The maps provided should be considered broad-scale conceptual models for the entire state, with untested accuracy. Many errors are known and many others are likely to be found under further scrutiny, especially at finer scales.
+
+## WV State Wildlife Action Plan
+
+## West Virginia Terrestrial Habitat Map
+
+2015 WV State Wildlife Action Plan
+
+## 3.3.1.1: Acidic Rock Outcrops, Cliffs, and Talus
+
+Habitat area exaggerated to enhance visability.
+Acidic sandstone cliffs on North Fork Mountain.
+
+## WV State Wildlife Action Plan
+
+Sandstone "rock house" along the Buckhannon River.
+
+## NatureServe Ecological Systems:
+
+North-Central Appalachian Acidic Cliff and Talus Cumberland Acidic Cliff and Rockhouse
+
+## Description:
+
+Sparsely vegetated to wooded lithomorphic habitats, including rock outcrops, cliffs, talus, and boulderfields on acidic geologic formations across the state at all elevations. Rock type is mostly sandstone, but may also include other acidic lithologies. Cliff habitats often include cliff top pavement, cliff faces, and talus slopes below the cliff. Rock overhangs in the western counties formed by alluvial undercutting are often called rock houses. Some talus fields on mountain slopes and high elevation plateaus were formed from freeze/thaw action cracking the bedrock. Physiognomy is variable and includes sparsely vegetated rock faces, lichen and bryophyte dominated communities, sparse vertical shrublands, and boulderfield woodlands and forests. Boulderfield forests and woodlands occur in relatively moist topographic positions where deep rocky colluvium restricts tree growth to a few adapted species, notably Sweet Birch (Betula lenta), Yellow Birch (Betula allegheniensis), Chestnut Oak (Quercus prinus), and Mountain Ash (Sorbus americana). In open habitats tree growth is limited by drought and/or lack of rooting medium.
+
+## Similar Habitats:
+
+Cliffs and talus on limestone are included in Limestone Cliff and Talus. Sparsely wooded sandstone glades are included in Pine -Oak Rocky Woodland.
+
+## Distribution and Abundance of Characteristic and Rare Associations:
+
+Acidic Rock Outcrop, Cliff, and Talus habitats occupy a very small area of the state. These habitats are found across the state at all elevations, but are restricted to certain geologic formations and are concentrated in certain areas. 
+
+## Trends:
+
+Cliffs along the Gauley River were submerged under Summersville Lake. Natural cliffs in the Cumberland Mountains Ecoregion have been flattened and filled by mountaintop coal mining. Natural cliffs have been altered and augmented by construction of transportation corridors.
+
+## Threats:
+
+Recreational pressure at popular overlooks and climbing areas may threaten these habitats by trampling vegetation and by disturbing wildlife.
+
+## Current Projects Based on the 2005 WVWCAP Priority Habitats:
+
+The WVDNR ecologists are currently working on a statewide inventory and classification of lithomorphic habitats. Plot data has been collected from over 100 sites and will be analyzed in 2015 to develop a statewide classification.
+
+## Inventory, Management, and Research Needs:
+
+Improve Statewide Mapping. Complete statewide classification and incorporate into the USNVC. Develop state-level descriptions and make information available as part of a state vegetation classification.
+2015 WV State Wildlife Action Plan
+
+## 3.3.1.2: Calcareous Cliffs and Talus
+
+Habitat area exaggerated to enhance visability.
+Photo: Limestone cliff in the Smokehole.
+
+## NatureServe Ecological Systems:
+
+North-Central Appalachian Circumneutral Cliff and Talus
+
+## Description:
+
+Cliffs and talus formed from limestone, dolomite, and possibly other calcareous geologic strata. Cliffs are mostly sparsely vegetated or dominated by lichens, but may have more luxuriant growth in cooler topographic positions and elevations. North facing cliffs sometimes support vertical woodlands dominated by Northern White Cedar (Thuja occidentalis). Forested limestone boulder and talus slopes below cliffs may be dominated by Northern White Cedar and/or American Basswood (Tilia americana).
+
+## Similar Habitats:
+
+Cliffs and talus on acidic geologic formations are included in Acidic Rock Outcrops, Cliffs, and Talus. Sparsely wooded limestone habitats, often on cliff tops, are included in Calcareous Glades and Woodlands.
+
+## Distribution and Abundance of Characteristic and Rare Associations:
+
+These habitats are exceedingly rare in the state. 
+
+## Places to See and Visit:
+
+Monongahela National Forest (Smokehole)
+
+## Trends:
+
+Natural calcareous cliffs have been destroyed and altered by construction of transportation corridors and limestone quarries.
+
+## Threats:
+
+Limestone quarrying may threaten some occurrences. Recreational pressure at popular overlooks and climbing areas may threaten these habitats by trampling vegetation and by disturbing wildlife.
+
+## Current Projects Based on the 2005 WVWCAP Priority Habitats:
+
+The WVDNR ecologists have been working on inventory and classification of limestone habitats, including cliffs and talus, for several years. Thirteen vegetation plots of Calcareous Cliff and Talus have been sampled and three USNVC associations have been identified in the state. The USNVC associations however need revision to accommodate data from West Virginia stands.
+
+## Inventory, Management, and Research Needs:
+
+Improve statewide mapping. Complete statewide classification and incorporate into the USNVC. Develop state-level descriptions and make information available as part of a state vegetation classification.
+
+## WV State Wildlife Action Plan
+
+## Description:
+
+Upland evergreen and mixed evergreen-deciduous woodlands and forests in hot, very dry topographic positions. Soils are usually shallow, rocky, coarse textured and highly acidic. This habitat type is confined to the eastern counties where a dry climate is produced by the rain shadow on the lee side of the Allegheny Mountains. Stands are often small patches on rocky summits, outcrops, and cliffs. Habitats include edaphic pine stands on extremely dry sites such as cliff tops, and successional pine stands which follow fire on deeper soils. Dominant pines which comprise distinct subtypes include Pitch Pine (Pinus rigida), 
+
+## Trends:
+
+Pitch Pine stands expanded following fires during the logging boom in the early 1900s, but many are now decreasing in size due to human activities, lack of fire, and mesophication. Edaphic pine woodlands on dry cliffs, including all known native red pine stands, are regenerating and appear to be persistent in absence of fire.
+
+## Threats:
+
+Native and non-native insect pests can result in mortality to pines. Many successional stands are breaking up due to mesophication (succession to moister habitat) and lack of fire.
+
+## Current Projects Based on the 2005 WVWCAP Priority Habitats:
+
+The WVDNR small grants funded research on stand dynamics and fire ecology of these habitats in 2009.
+
+## Inventory, Management, and Research Needs:
+
+Improve Statewide Mapping. Develop state-level descriptions and make information available as part of a state vegetation classification. Research natural fire regimes and pre-settlement composition and extent. Inventory, classify, assess conservation needs, and acquire conservation land and/or conservation easements for sandstone glades.
+
+## 3.3.1.4: Shale Barrens
+
+Habitat area exaggerated to enhance visability.
+Photo: Shale Barren in the foothills of Shenandoah Mountain in Pendleton County.
+
+## NatureServe Ecological Systems:
+
+Appalachian Shale Barrens
+
+## Description:
+
+Small patch woodlands and openings on hot, dry topographic positions 
+
+## CEGL006288 G3 S3
+
+Pinus virginiana -Quercus prinus / Quercus ilicifolia / (Hieracium greenii, Viola pedata) Woodland
+
+## CEGL008525 G3 S3
+
+Juniperus virginiana -Fraxinus americana / Carex pensylvanica -Cheilanthes lanosa Wooded Herbaceous Vegetation
+
+## CEGL006037 G2 S1
+
+Places to See and Visit:
+Larinem Park (Mineral County), George Washington National Forest (Brandywine, Heavener Mountain), Slaty Mountain (TNC).
+
+## Trends:
+
+Area of Shale Barrens may have expanded following fires during the logging boom in the early 1900s, but some are now decreasing in size due to human activities and mesophication.
+
+## Threats:
+
+Non-native invasive plants threaten many occurrences, especially those along roads. Pesticide spraying for gypsy moth threatens rare native Lepidoptera.
+
+## Current Projects Based on the 2005 WVWCAP Priority Habitats:
+
+In Places to See and Visit:
+Beech Fork Lake, Short Mountain WMA, Stumptown WMA, George Washington National Forest, Monongahela National Forest (North Fork Mountain), New River Gorge National River.
+
+## Trends:
+
+Most of these habitats expanded following fires during the logging boom around 1900. Many stands are now decreasing in size due to human activities and gradual mesophication. However, fire and logging continues to create and maintain these habitats in many areas of the state. Prescribed fire and silvicultural treatments are increasingly used to promote oaks and pines on public land, and repeated arson, especially in the Cumberland Mountains Ecoregion, creates and maintains these habitats even on realtively mesic sites.
+
+## Threats:
+
+Pesticide spraying for gypsy moth threatens rare native Lepidoptera. Overbrowsing by deer reduces regeneration of oak and may eliminate palatable understory species such as Orchids and Lillies. Many stands are succeeding towards more mesic habitats due to mesophication and lack of fire.
+
+## Current Projects Based on the 2005 WVWCAP Priority Habitats:
+
+These habitats were not identified as a priority in the 2005 WVWCAP.
+
+## Inventory, Management, and Research Needs:
+
+Complete and improve statewide classification and mapping 
+
+## Trends:
+
+Pre-settlement extent, distribution, and condition of these forests are poorly known and controversial. These forests declined drastically in area during the logging boom around 1900, but today they have regained dominance on the landscape. Clearing and fire following the logging boom may have increased the area of oak dominance on relatively mesic, fertile soils; without disturbance, these areas may succeed to more mesic forests with less oak. However, fire and logging continues to create and maintain these habitats in many areas of the state. Prescribed fire and silvicultural treatments are increasingly used to promote oaks on public land, and repeated arson, especially in the Cumberland Mountains Ecoregion, creates and maintains these habitats even on mesic sites. Because they are located in low to middle elevations, these forests are mostly in private ownership and are increasingly fragmented.
+
+## Threats:
+
+Repeated timber harvests result in permanent changes to forest composition, including canopy trees and understory shrubs and herbs. Energy development often permanently converts these forests to developed areas and pipelines can fragment these habitats. Overbrowsing by deer reduces regeneration of oak and may eliminate palatable understory species such as Orchids and Lillies.
+
+## Current Projects Based on the 2005 WVWCAP Priority Habitats:
+
+These habitats were not identified as a priority in the 2005 WVWCAP.
+
+## 3.3.1.8: Montane Red Oak Forests
+
+Habitat area exaggerated to enhance visability.
+Photo: Red Oak forest on North Fork Mountain, Pendleton County.
+
+## NatureServe Ecological Systems:
+
+Central Places to See and Visit:
+George Washington National Forest (Shenandoah Mountain), Jefferson National Forest (Peters Mountain), Monongahela National Forest (Allegheny Mountain).
+
+## Trends:
+
+Some areas of mountain ridgetops which probably supported this habitat were cleared for grazing and today remain in pasture.
+
+## Threats:
+
+Prescribed burning may threaten populations of rare plants and amphibians in these habitats.
+
+## Current Projects Based on the 2005 WVWCAP Priority Habitats:
+
+Twenty-three vegetation plots of this habitat were sampled as part of a statewide high elevation habitat inventory. Statewide classification of these habitats was completed in 2013. 
+
+## Trends:
+
+These habitats declined dramatically in area following the logging boom and subsequent conversion of forest lands to agriculture. In recent decades there has been an increase in these habitats relative to 
+
+## Places to See and Visit:
+
+Blackwater Falls State Park, Kumbrabow SF, Monongahela National Forest (Highlands Scenic Highway, Gaudineer Knob, Dolly Sods, Spruce Knob).
+
+## Trends:
+
+These forests dramatically decreased in area following the logging boom around 1900. They are now increasing in area as Red Spruce regains dominance in many areas.
+
+## Threats:
+
+Because they occur in the highest elevations which have the coldest climate in the state these habitats are most threatened by climate change. Because they receive high precipitation and are downwind from coal power plants they may be threatened by acid deposition.
+
+## Current Projects Based on the 2005 WVWCAP Priority Habitats:
+
+The WVDNR ecologists completed statewide classification and conservation assessment of these habitats in 2010 
+(Byers et al.)
+.
+
+## Inventory, Management, and Research Needs:
+
+Continue working with the Central Appalachian Spruce Restoration Initiative to develop and provide information to preserve and restore Red Spruce Forests in the state.
+
+## 3.3.1.12: Heath -Grass Barrens
+
+Habitat area exaggerated to enhance visability.
+Photo: Heath barrens on Dolly Sods, Tucker County.
+
+## NatureServe Ecological Systems:
+
+Southern Appalachian Grass and Shrub Bald
+
+## Description:
+
+Open shrub and grassland communities at high elevations. 
+
+## Places to See and Visit:
+
+Monongahela National Forest (Dolly Sods).
+
+## Trends:
+
+Some of these habitats may have been naturally maintained by occasional wildfire and severe growing conditions, but their extent probably increased following settlement due to timber harvest, fire, and grazing. Two associations occur at Dolly Sods: the blueberry type probably requires periodic fire or other disturbance to persist, but the Mountain Laurel type is probably maintained by harsh climate and rocky soils along the Front. Many areas are slowly reverting to Red Spruce or Northern Hardwood Forests. Small patches on clifftops with scenic overlooks which are popular hiking destinations have been reduced by trampling.
+
+## Threats:
+
+Small patches are threatened by trampling at overlooks. Fire suppression along the Allegheny Front may result in succession towards forested habitat.
+
+## Current Projects Based on the 2005 WVWCAP Priority Habitats:
+
+Fourteen vegetation plots of this habitat were sampled as part of a statewide high elevation habitat inventory. A new USNVC association (CEGL003939) was developed in conjunction with ecologists from the Virginia Natural Heritage Program. The entire known extent of these habitats was mapped based on aerial photo interpretation and this GIS coverage was added as a revision to the Northeast Habitat Map in 2013.
+
+## Inventory, Management, and Research Needs:
+
+Develop state-level description and make information available as part of a state vegetation classification.
+
+## 3.3.1.13: High Allegheny Wetlands
+
+Habitat area exaggerated to enhance visability.
+Photo: Headwater wetland, First Fork of Shavers Fork, Pocahantas County.
+
+## NatureServe Ecological Systems:
+
+High Allegheny Wetland
+
+## WV State Wildlife Action Plan
+
+Description:
+Wetlands in this system are drained by low-gradient, meandering, intermittent to small streams that form the headwaters of larger mountain rivers. These habitats form complex mosaics of small patch communities. Forested swamps occupy the drier margins or slightly higher "islands" in the wetland mosaic. Nutrient-poor fens with bog-like vegetation such as Cottongrass (Eriophorum virginicum) and Sphagnum mosses form the characteristic open portion of many of these wetlands. Ombrotrophic bogs, which receive all their water and nutrients from precipitation, are rare, but occur in undisturbed portions of a few of the larger wetlands. Trends:
+These habitats were directly and indirectly affected by the logging boom of 1880-1920. Effects included sedimentation, stream channelization, and impoundment. Removal of Beaver in the early 1900s had additional negative effects on hydrology. Reintroduction of Beaver and the return of forests and their protection on public lands generally stabilized these habitats by the later 1900s.
+
+## Threats:
+
+Because they occur in the highest elevations which have the coldest climate in the state, these habitats are most threatened by climate change. Some occurrences, especially those with soils influenced by limestone, are threatened by non-natve invasive plant species.
+
+## Current Projects Based on the 2005 WVWCAP Priority Habitats:
+
+The WVDNR ecologists completed a statewide classification and conservation assessment of these habitats in 2007 
+(Byers et al.)
+. Most occurrences of USNVC associations and rare plants in these habitats have been entered in Biotics database. The WVDNR ecologists completed statewide mapping of these habitats and this GIS layer was added as a revision to the Northeast Habitat Map in 2013.
+
+## Inventory, Management, and Research Needs:
+
+Maintain and update records on occurrences of rare and exemplary occurrences.
+2015 WV State Wildlife Action Plan
+
+## 3.3.1.14: Sinkhole and Depression Ponds
+
+Habitat area exaggerated to enhance visability. Trends:
+Most of these habitats have been altered by human encroachment.
+
+## Threats:
+
+This rare isolated wetland type is heavily impacted by all terrain vehicle use, which has destroyed much of the former vegetation and severely threatens the remaining vegetated sites on private land. Roads and trails are adjacent to almost all of these wetlands, and invasive plants are a serious threat at some of them.
+
+## Current Projects Based on the 2005 WVWCAP Priority Habitats:
+
+In 2014, WVDNR ecologists completed statewide classification and mapping of these habitats and a GIS layer was submitted as a revision to the Northeast Habitat Map.
+
+## Inventory, Management, and Research Needs:
+
+Identify and survey additional occurrences. Work with landowners to protect existing occurrences.
+
+## 3.3.1.15: Small Stream Riparian Habitats
+
+Habitat area exaggerated to enhance visability.
+Photo: riparian zone along Bullskin Run, Jefferson County.
+
+## NatureServe Ecological Systems:
+
+Central Appalachian Stream and Riparian South-Central Interior Small Stream and Riparian
+
+## WV State Wildlife Action Plan
+
+Description:
+Natural vegetation of variable physiognomy in the floodplains of small streams, primarily at low to middle elevations. These habitats are mostly jurisdictional wetlands, but narrow riparian zones that are not wetlands may also be included. Habitats include headwater wetlands and seeps, and wetlands and riparian zones along creeks and other small streams. Beaver-infuenced wetlands are common. Common names for these habitats include floodplain forests, swamp forests, riparian forests, riparian zones, forest seeps, shrub swamps, marshes, wet meadows, Beaver meadows, and Beaver ponds.
+
+## Similar Habitats:
+
+Floodplains of larger rivers are included in River Floodplains. High elevation headwater wetlands in the Allegheny Mountains Ecoregion drained by small low-gradient streams are placed in High Allegheny Wetlands.
+
+## Distribution and Abundance of Characteristic and Rare Associations:
+
+These habitats occur in linear zones and small patches throughout the state. Mapping is based on TNC's Active River Area 
+(Smith et al. 2008
+). The "base zones" for size 11 and 12 streams, excluding developed, agricultural, and anthropogenic NLCD map classes, were used to approximate the natural habitats of Small Stream Riparian Habitats. 
+
+## Trends:
+
+Natural riparian habitats have steadily declined in area due to human activities. These habitats were directly and indirectly affected by the logging boom of 1880-1920. Effects included sedimentation, stream channelization, and impoundment. Removal of Beaver in the early 1900s had additional negative effects on hydrology. Predating and following the logging boom, agriculture has been centered in and around riparian areas, usually eliminating natural habitats.
+
+## Threats:
+
+Occurrences on private land are directly threatened by conversion to agriculture and developed areas. Indirect threats come from sedimentation and pollution from off-site logging, agriculture, mining and other development. These habitats are especially susceptible to invasions of non-native plant species.
+
+## Current Projects Based on the 2005 WVWCAP Priority Habitats:
+
+The WVDNR ecologists completed a classification of these habitats in 2013.
+
+## Inventory, Management, and Research Needs:
+
+Identify and map high quality occurrences. Incorporate new associations in the USNVC. Develop state level descriptions and make information available as part of a state vegetation classification.
+
+## 3.3.1.16: River Floodplains
+
+Habitat area exaggerated to enhance visability.
+Photo: Floodplain of Greenbrier River, Pocahantas County.
+
+## NatureServe Ecological Systems:
+
+Central Appalachian River Floodplain South-Central Interior Large Floodplain
+
+## WV State Wildlife Action Plan
+
+Description:
+Natural vegetation in the floodplains of rivers. These habitats include jurisdictional wetlands and areas of floodplain that are not jurisdictional wetlands. Wetland habitats include forests, shrublands, and herbaceous communities that are flooded for significant periods during the growing season, have hydric soils, and support hydrophytes. Natural non-wetland floodplain vegetation is usually forested and occupies well-drained levees and other floodplain positions that are not flooded for significant periods during the growing season, but which may be flooded in the dormant season or by occasional high water events. Most floodplains include both wetland and non-wetland habitats. They often occur in complex mosaics of natural, semi-natural, and cultural vegetation. 
+
+## Similar Habitats:
+
+Floodplains of smaller streams are included in Small Stream Riparian Habitats or, in higher elevations low-gradient headwater basins, in High Allegheny Wetlands.
+
+## Distribution and Abundance of Characteristic and Rare Associations:
+
+These habitats occupy a very small area of the state but they are represented by a disproportionately high number of USNVC associations, many of them globally and/or state rare. Because they are along rivers, they are concentrated in the lower elevations, but they also include smaller areas along rivers at higher elevations. Thus they range from the lowest elevations in the state along the Ohio and Potomac Rivers up to 3600 feet elevation along the Shavers Fork River.
+Mapping is based on TNC's Active River Area 
+(Smith et al. 2008
+). The "base zones" for size 20 and larger rivers, excluding developed, agricultural, and anthropogenic NLCD map classes, were used to approximate the natural habitats of River Floodplains 
+
+## Trends:
+
+Large areas of river floodplain have been drained or filled and developed for human uses. Other areas have been permanently flooded behind dams. Natural flood regimes have been altered by construction of dams and levees. Many areas that still flood are cleared for agriculture. Prior to settlement Large River Floodplains occupied a small area of the present state of West Virginia; today they are greatly diminished.
+
+## Threats:
+
+Occurrences on private land are directly threatened by logging and by conversion to agriculture and developed areas. Indirect threats come from sedimentation and pollution from off-site logging, agriculture, mining and other development. These habitats are especially susceptible to invasions of non-native plant species.
+
+## Current Projects Based on the 2005 WVWCAP Priority Habitats:
+
+The WVDNR ecologists completed a classification of these habitats in 2013.
+
+## Inventory, Management, and Research Needs:
+
+Incorporate new associations in the USNVC. Develop state-level descriptions and make information available as part of a state vegetation classification.
+
+## WV State Wildlife Action Plan
+
+These habitats developed on land that was converted from natural habitats by humans, and then abandoned. Vegetation is highly variable and often includes a mixture of native and non-native plant species.
+
+## Similar Habitats:
+
+More intensively managed habitats are included in Agriculture or Developed.
+
+## Distribution and Abundance:
+
+These habitats occur in small to large patches throughout the state at all elevations. Mapping is based on 
+Ferree and Anderson (2013)
+, who used National Land Cover Database classes 
+(Homer et al. 2004)
+ to map these habitats. Due to anomalies in the source data, these habitats are not mapped in the same way throughout the state, with few areas mapped in the eastern part of the state.
+
+## Trends:
+
+These habitats increased dramatically following the logging boom and widespread settlement of the state. There was probably a second increase following the abandonment of farms in the later 1900s.
+Recently there has been a decrease in many areas as grasslands and shrublands succeed to forests. However, significant areas have been and continue to be created by surface mining and reclamation, especially in the Cumberland Mountains Ecoregion.
+
+## Threats:
+
+These ephemeral habitats are threatened by succession to forested habitats.
+
+## WV State Wildlife Action Plan
+
+## Similar Habitats:
+
+Less intensely managed farmland that may be utilized for grazing is included in Anthropogenic Shrubland and Grassland.
+
+## Distribution and Abundance:
+
+Agriculture is centered in valley bottoms. It is most extensive in the Greenbrier and Potomac valleys and is mostly absent in high elevations and areas with rugged topography. Mapping is based on 
+Ferree and Anderson (2013)
+, who used National Land Cover Database classes 
+(Homer et al. 2004)
+ to map these habitats.
+
+## Trends:
+
+These habitats greatly increased following widespread human settlement of the state. In recent decades there has been a decrease in these habitats as farms were abandoned or converted for residential and industrial development.
+
+## Threats:
+
+The primary threat to these habitats is development by humans for other purposes.
+2015 WV State Wildlife Action Plan Areas characterized by a high percentage of constructed materials 
+(Homer et al. 2004
+) which are used for human residence and activity. Vegetation may cover significant area but is not usually natural. Developed areas range from cities to rural homesteads.
+
+## Distribution and Abundance:
+
+Developed areas are concentrated in valley bottoms at lower elevations, but small areas occur throughout the state. Mapping is based on 
+Ferree and Anderson (2013)
+, who used National Land Cover Database classes 
+(Homer et al. 2004)
+ to map these habitats.
+
+## Trends:
+
+Developed areas have increased steadily since the 1700s.
+2015 WV State Wildlife Action Plan caves and underground streams. In addition there is aquatic habitat known as epikarst. Here organisms live within the small water-filled crevices in the limestone below the ground's surface, but above the cave passage. Springs of calcium-enriched water form where streams emerge from underground.
+There are also a few subterranean habitats in West Virginia that are not associated with karst. These include a few natural caves in sandstone and shale and a large number of manmade mines and tunnels. Shallow subterranean habitats are also formed under talus and boulderfields.
+Caves are characterized by darkness, high humidity, and constant temperature around 50-54° F. Cave entrances are ecotones with terrestrial habitat where light and weather fluctuates daily and seasonally, but in the deep zone of caves there is complete darkness and climate stability. In contrast to terrestrial habitats, there are no primary producers (plants) in the deep zone of caves; all food sources must be imported from the surface. An important subset of subterranean habitats is aquatic; this includes underground streams and rivers, still pools, epikarst, and springs. Although caves might seem to be selfcontained ecosystems, they are connected to above ground terrestrial and aquatic habitats through water and air passages and through food webs.
+Caves are important habitat for wildlife, including bats that move in and out, and a diverse group of vertebrate and invertebrate animals that have evolved specialized adaptations to permanent underground living. Common traits exhibited by permanent cave dwellers (troglobites) include blindness (or complete loss of eyes) and reduced pigmentation. West Virginia SGCN that depend on cave habitats include eight bats, a fish, two salamanders, a crayfish, and 91 cave invertebrates. There are other SGCN that often use caves (e.g., Allegheny Woodrat), but are not solely dependent on caves for their survival.
+Manmade subterranean habitats may be used by mobile animals such as bats, but lack the less mobile, more specialized life forms that evolved in isolated natural caves.
+
+## Distribution:
+
+Small Mapping of karst is approximated using statewide mapping of limestone and dolomite formations 
+(Caldwell et al. 1968
+), but some areas with extensive limestone, such as the Shenandoah Valley in Jefferson County, have relatively few caves. Cave locations and maps have been published for numerous caves (e.g. 
+Davies 1958
+). Cave locations presented here are based on WVDNR records; they include many of the most biologically important caves in the state, but not all known caves are mapped.
+
+## Places to See and Visit:
+
+Four commercial caves offer tours: Lost World Caverns, Organ Cave, Seneca Cave, and Smoke Hole Caverns.
+
+## Conservation Issues:
+
+The threats to SGCN species that use caves are varied, and potential impacts differ depending on the species and how it uses the cave. Most species found in caves are adapted to fairly specific environmental conditions, and changes in cave temperature and relative humidity or nutrient input can impact species or whole communities.
+Several species of bats use caves as hibernation sites. Because bats must survive the winters on limited fat reserves accumulated in late summer and fall, disturbance of bats during hibernation can cause them to use up fat stores prematurely. Several important bat hiberncaula in West Virginia are officially closed to human visitation early fall through late spring to protect hibernating endangered bats. Gates and fences have been constructed at some of these sites to better restrict human traffic during critical periods. In the wake of the fungal disease known as White Nose Syndrome (WNS), the small number of surviving bats of species that were common just a few years ago should be not be disturbed during hibernation, and cavers are encouraged to schedule trips into caves when bats are not present. Cavers and cave researchers are also asked to clean and disinfect gear between cave trips to help minimize the spread of the fungus that causes WNS or other potential pathogens. Virginia Big-eared Bats also use caves during the summer. In the spring, females gather to form maternity colonies to rear their young; males may form "bachelor" colonies, although the location of most males during the summer is not known. Summer colonies of Virginia Big-eared Bats are sensitive to disturbance, and human visitation to these caves should be avoided during late spring through early fall. Both hibernating concentrations of bats and summer colonies require specific ranges of temperature and humidity. While blocking a cave entrance directly impacts the bats' access to the sites and should be avoided, modification of entrances can alter air flow and affect cave temperature and relative humidity. Cave gates should be designed using "bat-friendly" designs which allow bats to enter and exit the cave freely and which do not greatly affect air flow and condition within the cave. In addition, suitable roosting habitat should be provided around cave entrances to be used by bats during the fall swarming period and in the spring.
+Allegheny Woodrats often use caves where they find shelter during the day and exit the cave to forage in the evening. These animals are probably less sensitive to temperature and relative humidity than bats, but do require access to the cave. Bat-friendly gates will provide access for woodrats as well.
+Because woodrats relay on stores of mast to survive the winter, where appropriate, mast producing trees should be retained or encouraged near cave entrances in areas where Allegheny Woodrats occur.
+West Virginia is home to several rare cave invertebrate species, some found nowhere else. Cave invertebrates inhabit subterranean terrestrial, aquatic, and riparian habitats. These species require nutrient inputs from the surface. Some species specialize in organic inputs actively brought into the cave by other species (e.g., bats and woodrats); others use organic matter (e.g., leaves, wood) which enters the cave through an entrance, while other species specialize on matter carried into the cave by flowing or dripping water. Land use practices above cave passages and around cave entrances can alter nutrient inputs into the caves. Activities such as clearing trees around a cave entrance or physically closing a cave entrance may limit nutrient inputs, while improper disposal of human waste above a cave could overload a cave system with nutrients and disrupt the cave community. Many of the karst areas of WV contain rolling topography and rich soils which have made them desirable for farming and grazing. This has produced some distinct threats to cave invertebrates from organic pollution. Another source of concern is the potential input of contaminants from practices inappropriate in karst regions. These include diverting storm run-off into karst features, dumping trash in sinkholes, and application of pesticides where they can get flushed into a cave. The source of some of these inputs may be large distances from the cave itself, requiring a landscape level analysis to identify possible threats. Analysis was performed for a buffered riparian zone (328 feet from each bank, 656 feet total) to determine riparian land cover and condition within each of the 18 habitat types as represented in the chart at the end of each habitat description. Land cover was determined from the 2011 National Land Cover Dataset 
+(Homer et al. 2015)
+ and is represented by the numerical category and description along the X-axis. The Y-axis is the percentage of that Land Cover type occurring adjacent to reaches classified as a particular aquatic habitat type. The "Open Water" category is generally over-represented due to spatial inaccuracies in the NLCD (30 meter grid) and NEACHS (NHD+ polyline) datasets.
+A full list of all SGCN can be found in Appendix 2 for each classified habitat type.
+2015 WV State Wildlife Action Plan These are relatively short reaches of cool, slow-moving, headwaters and creeks of moderate to high elevation in flat valley settings interspersed within larger reaches of more moderate gradients. The headwaters and creeks are defined by watersheds less than 38.6 mi 2 in size. The cool slow-moving waters of less than 0.5 % slope may exhibit moderate turbidity and be somewhat poorly oxygenated. Instream habitats are dominated by glide-pool and ripple-dune systems with runs interspersed by pools and a few short or no distinct riffles. Aquatic vegetation and large woody debris are common, adding to habitat stability and complexity. Bed materials are predominantly sands, silt, and smaller gravel. These low-gradient stream reaches may have high sinuosity but are usually only slightly entrenched with adjacent floodplain and riparian wetland ecosystems. Cool water temperatures in these streams means the fish community contains a higher proportion of cool and warm water species relative to coldwater species. Additional variation in the stream biological community is associated with acidic, calcareous, and neutral geologic settings where the pH of the water will limit the distribution of certain macroinvertebrates, plants, and other aquatic biota. The habitat can be further subdivided into 1) headwaters that drain watersheds less than 3.86 mi 2 , and have an average bankfull width of 16.4 feet or less, or 2) creeks that include larger streams with watersheds up to 38.6 mi 2 and have an average bankfull width of up to 32.8 ft. These stream types can be found in the Allegheny Mountains, Ridge and Valley, and Northern Cumberland Mountains ecoregions of the state.
+
+## Similar Habitat Types:
+
+Headwaters and creeks also occur at higher elevations and on higher slopes, but these tend to have coarser substrates and faster water. This cool low gradient stream type typically flows into low gradient cool rivers. Mussels, Crayfish, Other Invertebrates, Amphibians, and Reptiles: Forcipate Emerald, Hudsonian Whiteface.
+
+## Places to
+
+## 3.3.2.2: Headwaters and Creeks, Low Gradient, Warm Temperature
+
+Description:
+These are warm, slow-moving, headwaters and creeks of low-elevation flat, often marshy settings. These small streams of the state occur in the lower elevations on flats or very gentle slopes in watersheds less than 38.6 mi 2 in size. The warm slow-moving waters of less than 0.5 % slope are sediment-laden and susceptible to turbidity with the smallest of precipitation events and may be somewhat poorly oxygenated. Instream habitats are dominated by glide-pool and ripple-dune features with runs interspersed by pools and a few short or no distinct riffles. Aquatic vegetation and large woody debris are common and add to habitat stability and complexity. Bed materials are predominantly sands, silt, and only isolated amounts of gravel. Some examples are associated with wetland complexes and these segments may be dominated by silt, organic muck and debris, marl deposits, and woody or leafy materials. These low-gradient streams may have high sinuosity, but are usually only slightly to moderately entrenched with adjacent floodplain and riparian wetland ecosystems. Warm water temperatures in these streams means the fish community will contain a higher proportion of warmwater species relative to coolwater species, and are unlikely to support any resident coldwater species. Additional variation in the stream biological community is associated with acidic, calcareous, and neutral geologic settings where the pH of the water will limit the distribution of certain macroinvertebrates, plants, and other aquatic biota. The habitat can be further subdivided into 1) headwaters that drain less than 3.86 mi 2 , and have an average bankfull width of 16.4 feet or 2) creeks that include larger streams with watersheds up to 38.6 mi 2 and have an average bankfull width of 32.8 feet. Streams of this type are well-represented across the Western Allegheny Plateau, but can be readily found across all ecoregions of the state.
+
+## Similar Habitat Types:
+
+Headwaters and creeks also occur at higher elevations and on higher slopes, but these tend to have coarser substrates, faster, and cooler water. Warm low gradient streams typically flow into low gradient warm rivers. Fishes: Redfin Shiner, Orangespotted Sunfish, Black Bullhead.
+Mussels, Crayfish, Other Invertebrates, Amphibians, and Reptiles: Round Hickorynut, Clubshell, Mudpuppy, New River Crayfish, Coalfields Crayfish, Green-striped Darner.
+
+## 3.3.2.3: Headwaters and Creeks, Moderate Gradient, Cold Temperature
+
+Description:
+These are cold, fast-moving, headwaters and creeks of hills and gentle slopes. These small streams of northern regions or high elevations occur on hills and slopes at moderate to high elevations in watersheds of less than 38.6 mi 2 in size. They have cold, moderately fast-moving waters of 0.5 to less than 2.0 % slope with good oxygenation. Instream habitats are dominated by good riffle-pool development with low sinuosity, moderate entrenchment, and moderately narrow valleys. Substrates are predominantly angular cobbles and gravels, and sand with occasional small patches of boulders. Large woody debris is often an important part of the habitat complex, forming pools and adding nutrients to the channel. Permanent cold water temperatures in these streams means coldwater fish species, such as Brook Trout, likely represent the highest relative abundance of the fish community. Additional variation in the stream biological community is associated with acidic, calcareous, and neutral geologic settings where the pH of the water will limit the distribution of certain macroinvertebrates, plants, and other aquatic biota. The habitat can be further subdivided into 1) headwaters that drain watersheds less than 3.86 mi 2 , and have an average bankfull width of 16.4 feet or less, or 2) creeks that include larger streams with watersheds up to 38.6 mi 2 and have an average bankfull width of up to 32.8 feet. These stream types are most prevalent in the Allegheny Mountains and Ridge and Valley ecoregions of the state.
+
+## Similar Habitat Types:
+
+These moderate gradient streams are transitional types and often exhibit some characteristics of both the higher and lower gradient streams. This cold moderate gradient stream type typically flows into moderate or low gradient cool rivers in areas of less topography.
+
+## Places to Visit This Habitat:
+
+Numerous streams within the Monongahela National Forest including: First Fork, Little River East Fork Greenbrier River, Shavers Fork, and Knapp Creek.
+Gandy Creek near Osceola, Randolph County.
+
+## WV State Wildlife Action Plan
+
+Notable Species Found in This Habitat in West Virginia:
+Fishes: Checkered Sculpin, Brook Trout, New River Shiner, Candy Darter.
+Mussels, Crayfish, Other Invertebrates, Amphibians, and Reptiles: Greenbrier Crayfish, New River Crayfish, Forcipate Emerald, White-faced Meadowhawk.
+
+## 3.3.2.4: Headwaters and Creeks, Moderate Gradient, Cool Temperature
+
+Description:
+These are cool, moderately fast-moving, headwaters and creeks of low elevation hills and gentle slopes. These small streams occur on hills and slopes at low to moderate elevations in watersheds of less than 38.6 mi 2 in size. They have cool moderately fast-moving waters with good oxygenation. Instream habitats are dominated by good riffle-pool development with low sinuosity, moderate entrenchment, and moderately narrow valleys. Substrates are predominantly dominated by cobble, gravel, and sand with occasional small patches of boulders. Large woody debris is often an important component of the habitat, adding complexity and nutrients to the channel. Cool water temperatures in these streams means the fish community will likely consist of a higher relative proportion of cool and warm water species versus those obligate to colder water. Additional variation in the stream biological community is associated with acidic, calcareous, and neutral geologic settings where the pH of the water will limit the distribution of certain macroinvertebrates, plants, and other aquatic biota. The habitat can be further subdivided into 1) headwaters that drain watersheds less than 3.86 mi 2 , and have an average bankfull width of 16.4 feet or less, or 2) creeks that include larger streams with watersheds up to 38.6 mi 2 and have an average bankfull width of up to 32.8 feet. These stream types can be found statewide, but are most prevalent in the Allegheny Mountains and Ridge and Valley ecoregions of the state.
+
+## Similar Habitat Types:
+
+These moderate gradient streams are transitional types and often exhibit some characteristics of both the higher and lower gradient streams. Similarly cool streams are transitional between cold and warm systems and may include biota found in both colder and warmer types. This cool moderate gradient stream type typically flows into moderate or low gradient cool and warm rivers in areas of less topography. Mussels, Crayfish, Other Invertebrates, Amphibians, and Reptiles: James Spinymussel, Green Floater, Elktoe, Eastern Hellbender, Big Sandy Crayfish, Greenbrier Crayfish, New River Crayfish, White-faced Meadowhawk, Harpoon Clubtail, Wood Turtle, and Spotted Turtle.
+
+## 3.3.2.5: Headwaters and Creeks, Moderate Gradient, Warm Temperature
+
+Description:
+These are warm, moderately fast-moving, headwaters and creeks of low-elevation hills and gentle slopes. This small stream type occurs on hills and slopes at low to moderate elevations in watersheds of less than 38.6 mi 2 in size. They have warm, moderately fast-moving waters with good oxygenation. Instream habitats are dominated by riffle-pool features with low sinuosity, moderate entrenchment, and moderately narrow valleys. Substrates are predominantly dominated by cobble, gravel, and sand with occasional small patches of boulders. Large woody debris is often an important component of the habitat, adding complexity and nutrients to the channel. Warm water temperatures in these streams means the fish community will consist of a higher relative proportion of warmwater species to coolwater fish species. These systems are unlikely to support any resident coldwater species. Additional variation in the stream biological community is associated with acidic, calcareous, and neutral geologic settings where the pH of the water will limit the distribution of certain macroinvertebrates, plants, and other aquatic biota. The habitat can be further subdivided into 1) headwaters that drain watersheds less than 3.86 mi 2 , and have an average bankfull width of 16.4 feet or less, or 2) creeks that include larger streams with watersheds up to 38.6 mi 2 and have an average bankfull width of up to 32.8 feet. These stream types are most prevalent in the Western Allegheny Plateau Ecoregion, but are represented in the Ridge and Valley and Northern Cumberland ecoregions of the state. Warm headwaters and creeks are uncommon in the Allegheny Mountains Ecoregion.
+
+## Similar Habitat Types:
+
+These moderate gradient streams are transitional types and often exhibit some characteristics of both the higher and lower gradient streams. This warm moderate gradient stream type typically flows into moderate or low gradient warm rivers in areas of less topography.
+
+## Places to Visit This Habitat:
+
+Pipestem Creek in Bluestone Lake WMA, Pringle Fork in Stonecoal Lake WMA; Panther Creek in Panther State Forest; Millers Fork in Beech Fork Lake WMA.
+
+## Dents Run near Morgantown, Monongalia County
+
+Notable Species Found in This Habitat in West Virginia:
+Fishes: Redfin Shiner, Orangespotted Sunfish, Black Bullhead, Common Shiner, Tessellated Darter, Swallowtail Shiner.
+Mussels, Crayfish, Other Invertebrates, Amphibians, and Reptiles: Round Hickorynut, Clubshell, Wavyrayed Lampmussel, Mudpuppy, Eastern Hellbender, Coalfields Crayfish, Tug Valley Crayfish, Flagtailed Spinyleg, Wood Turtle, Spotted Turtle.
+
+## 3.3.2.6: Headwaters and Creeks, High Gradient, Cold Temperature
+
+Description:
+These are cold, fast-moving, headwaters and creeks of steeper slopes at moderate to high elevations. These small streams of northern regions or high elevations are defined by watersheds less than 38.6 mi 2 in size. The cold fast-moving waters have high clarity and are well oxygenated. Instream habitats are dominated by riffles and cascade and step-pool systems. Channels are usually narrowly confined, high gradient, and surrounded by upland forests. Bed materials often consist of bedrock, boulders, cobbles, and coarse gravel and may include incorporated large woody debris. The predominant source of consumable energy to the stream is terrestrial leaf litter or organic matter (allochthonous inputs). Permanent cold water temperatures in these streams means coldwater fish species such as Brook Trout likely represent the highest relative abundance of the fish community. Additional variation in the stream biological community is associated with acidic, calcareous, and neutral geologic settings where the pH of the water will limit the distribution of certain macroinvertebrates, plants, and other aquatic biota. The habitat can be further subdivided into 1) headwaters that drain watersheds less than 3.86 mi 2 , and have an average bankfull width of 16.4 feet or less, or 2) creeks that include larger streams with watersheds up to 38.6 mi 2 and have an average bankfull width of up to 32.8 feet. This stream type can be found across the state in all ecoregions.
+
+## Similar Habitat Types:
+
+Headwaters and creeks also occur at lower elevations but these tend to be warmer, flatter, and slower. Cold high gradient streams typically flow into moderate gradient cool rivers.
+
+## Places to Visit This Habitat:
+
+Red Mussels, Crayfish, Other Invertebrates, Amphibians, and Reptiles: James Spinymussel, Elk River Crayfish, New River Crayfish, American Emerald, Tiger Spiketail, Wood Turtle.
+
+## 3.3.2.7: Headwaters and Creeks, High Gradient, Cool Temperature
+
+Description:
+These are cool, fast-moving, headwaters and creeks of steeper slopes. These small streams occur on steep slopes at moderate to high elevations in watersheds of less than 38.6 mi 2 in size. They have cool fast-moving waters of high clarity and good oxygenation. High gradient instream habitats are dominated by riffle and cascade and step-pool features. Channels are typically narrowly confined, high-gradient, and surrounded by upland forests. Bed materials often consist of bedrock, boulders, cobbles, and coarse gravel and may include incorporated large woody debris. The predominant source of consumable energy to these streams is terrestrial leaf litter or organic matter (allochthonous inputs). Cool water temperatures in these streams means the fish community will have higher species richness, consisting of a higher relative proportion of cool and warm water species compared to coldwater species. Additional variation in the stream biological community is associated with acidic, calcareous, and neutral geologic settings where the pH of the water will limit the distribution of certain macroinvertebrates, plants, and other aquatic biota. The habitat can be further subdivided into 1) headwaters that drain watersheds less than 3.86 mi 2 , and have an average bankfull width of 16.4 feet or less, or 2) creeks that include larger streams with watersheds up to 38.6 mi 2 and have an average bankfull width of up to 32.8 feet. These stream types are common statewide, but less prevalent in the southern portion of the Western Allegheny Plateau Ecoregion of the state.
+
+## Similar Habitat Types:
+
+Headwaters and creeks may also occur at lower elevations but these tend to be warmer, flatter, and slower. Other than occasional isolated reaches high gradient streams are rare in areas of less topography. These cool, high gradient stream types typically flow into moderate or low gradient cool and warm rivers in areas of less topography.
+
+## Places to Visit This Habitat:
+
+Seneca Mussels, Crayfish, Other Invertebrates, Amphibians, and Reptiles: Eastern Hellbender, Elk River Crayfish, Coalfields Crayfish, Gray Petaltail, Green-faced Clubtail, Northern Pygmy Clubtail, Wood Turtle, Common Ribbonsnake.
+
+## 3.3.2.8: Headwaters and Creeks, High Gradient, Warm Temperature
+
+Description:
+These are warm, fast-moving, headwaters and creeks of steeper slopes at low elevation. These small streams occur on steep slopes at low to moderate elevations in watersheds less than 38.6 mi 2 in size.
+The warm fast-moving water has high clarity and is generally well oxygenated. High gradient instream habitats are dominated by riffle and cascade and step-pool features. Channels are usually narrowly confined, high gradient, and surrounded by upland forests. Bed materials often consist of bedrock, boulders, cobbles, and coarse gravel, and the predominant source of consumable energy to the stream is terrestrial leaf litter or organic matter (allochthonous inputs). Large woody debris may also be incorporated into the stream substrate, adding complexity and nutrients to the channel. Warm water temperatures in these streams means the fish community contains a higher proportion of warm water species relative to coolwater species. These systems are unlikely to support any resident coldwater species. Additional variation in the stream biological community is associated with acidic, calcareous, and neutral geologic settings where the pH of the water will limit the distribution of certain macroinvertebrates, plants, and other aquatic biota. The habitat can be further subdivided into 1) headwaters that drain watersheds less than 3.86 mi 2 , and have an average bankfull width of 16.4 feet or less, or 2) creeks that include larger streams with watersheds up to 38.6 mi 2 and have an average bankfull width of up to 32.8 feet. These stream types can be found in the Allegheny Mountains, Ridge and Valley, and Northern Cumberland Mountains ecoregions of the state.
+
+## Similar Habitat Types:
+
+Headwaters and creeks may also occur on more moderate and gentle slopes and in settings with cooler to much cooler water temperatures. This warm high gradient stream type typically flows into moderate or low gradient warm rivers in areas of less topography.
+
+## Places to Visit This Habitat:
+
+Long Branch in Cabwaylingo State Park, Davis Creek in Kanawha State Forest, and Toms Branch in Laurel Lake WMA.
+Tommy Creek near Amigo, Raleigh County.
+2015 WV State Wildlife Action Plan 3.3.2.9: Small Rivers, Low Gradient, Cool Temperature Description:
+These are short reaches of cool, slow-moving, small rivers of moderate to high elevation in flat valley settings interspersed within larger reaches of more moderate gradients. These small rivers are defined by watersheds less than 200 mi 2 in size and average bankfull width of 65.6 feet. The slow-moving waters may exhibit high turbidity and be somewhat poorly oxygenated. Instream habitats are dominated by runs interspersed by pools and a few short or no distinct riffles. Aquatic vegetation and large woody debris are common, adding to channel stability and complexity. Bed materials are predominantly sands, silt, and smaller gravel. These low-gradient rivers may have moderate to high sinuosity and channels usually have unconfined access to the adjacent floodplain within broad valleys. They are typically surrounded by floodplain forests, wetlands, or eroded sand or clay banks or fine sediment bars. The predominant source of consumable energy is generated from within the stream channel (autochthonous inputs). Cool water temperatures in these rivers means the fish community contains a higher proportion of cool and warm water species relative to coldwater species. There will be less available habitat with cold enough temperatures to support coldwater species throughout the year. Additional variation in the biological community is expected across acidic, calcareous, and neutral geologic settings where the pH of the water will limit the distribution of certain macroinvertebrates, plants, and other aquatic biota. Small rivers of this type can be found in the Allegheny Mountains and Ridge and Valley ecoregions of the state.
+
+## Similar Habitat Types:
+
+Small rivers occur all across the state. Those with cooler water temperatures tend to be in steeper topography with coarser substrates and faster water. Small rivers with warmer temperatures occur in the lower elevations of the state in areas of less topography. This cool low gradient river type typically flows into low gradient cool or warm medium rivers. Mussels, Crayfish, Other Invertebrates, Amphibians, and Reptiles: Yellow Lampmussel, Brook Floater, Eastern Hellbender, Swift River Cruiser, Hudsonian Whiteface.
+
+## 3.3.2.10: Small Rivers, Low Gradient, Warm Temperature
+
+Description:
+These are warm, slow-moving, small rivers at low elevations in flat valley settings throughout the state. These small rivers are defined by watersheds less than 200 mi 2 in size and average bankfull width of 65.6 feet. The slow-moving waters may exhibit high turbidity and be somewhat poorly oxygenated. Instream habitats are dominated by runs interspersed by pools and a few short or no distinct riffles. Bed materials are predominantly sands, silt, and smaller gravel. Aquatic vegetation and large woody debris are common adding to channel stability and complexity. These low-gradient rivers may have moderate to high sinuosity and channels usually have unconfined access to the adjacent floodplain within broad valleys. They are typically surrounded by floodplain forests, wetlands, or eroded sand or clay banks or fine sediment bars. The predominant source of consumable energy is generated from within the stream channel (autochthonous inputs). Warm water temperatures in these rivers means the fish community contains a higher proportion of warm water species relative to coolwater species. These systems are unlikely to support any resident coldwater species. Additional variation in the biological community is expected across acidic, calcareous, and neutral geologic settings where the pH of the water will limit the distribution of certain macroinvertebrates, plants, and other aquatic biota. Small rivers of this type can be found in any of the ecoregions of the state, but predominantly occur in the lowlands of the Western Allegheny Plateau Ecoregion.
+
+## Similar Habitat Types:
+
+Small rivers occur all across the state. Those with cooler water temperatures tend to be in steeper topography with coarser substrates and faster water. This warm low gradient river type typically flows into low gradient warm medium rivers.
+
+## Places to Visit This Habitat:
+
+West These are cool, moderately fast-moving, small rivers at moderate to high elevations in constrained valley settings in areas of high topography within the state. Anglers will quickly recognize these as among the most popular stocked trout fishing streams in West Virginia. These small rivers are defined by watersheds less than 200 mi 2 in size and average bankfull width of 65.6 feet. The moderately fastmoving waters are dominated by a well-defined pattern of alternating pools, riffles, and runs. Substrate is a well-homogenized mix of gravels, cobbles and boulders, with occasional large woody debris providing additional habitat complexity for fish and macroinvertebrates. Small rivers of this type often have high clarity and are well oxygenated. These moderate gradient rivers exhibit moderate to low sinuosity within moderately narrow valleys and adjacent riverside upland communities. The predominant source of consumable energy is generated from within the stream channel (autochthonous inputs). Cool water temperatures in these rivers means the fish community will support few permanent coldwater species and will consist of a higher relative proportion of cool and warm water species. Additional variation in the biological community is expected across acidic, calcareous, and neutral geologic settings where the pH of the water will limit the distribution of certain macroinvertebrates, plants, and other aquatic biota. Small rivers of this type are predominantly found in the Allegheny Mountains and Ridge and Valley ecoregions with a few scattered representative reaches found in other areas of the state.
+
+## Similar Habitat Types:
+
+Small rivers occur all across the state. Those with warmer water temperatures tend to occur at lower elevations and in flatter topography with finer substrates and slower water. This cool moderate gradient river type typically flows into moderate or low gradient warm medium rivers.
+Elk River Catch and Release Area, Randolph County.
+
+## Places to Visit This Habitat:
+
+Cranberry River in the Cranberry Backcountry Monongahela National Forest, West Fork Greenbrier River, and Shavers Fork in the Monongahela National Forest, and Elk River Catch and Release Area, Randolph County.
+
+## Notable Species Found in This Habitat in West Virginia:
+
+Fishes: Common Shiner, New River Shiner, Candy Darter, Brook Trout, Tonguetied minnow, Kanawha Minnow.
+Mussels, Crayfish, Other Invertebrates, Amphibians, and Reptiles: Yellow Lampmussel, Brook Floater, Green Floater, Triangle Floater, Elktoe, Eastern Hellbender, New River Crayfish, Elk River Crayfish, Greenbrier Crayfish, Superb Jewelwing, American Emerald, Wood Turtle.
+
+## 3.3.2.12: Small Rivers, Moderate Gradient, Warm Temperature
+
+Description:
+These are warm, moderately fast-moving, small rivers at low to moderate elevations in a constrained valley setting. These small rivers are defined by watersheds less than 200 mi 2 in size and average bankfull width of 65.6 feet. The moderately fast-moving waters are dominated by a well-defined pattern of alternating pools, riffles, and runs. Substrate is a well-homogenized mix of gravels, cobbles and boulders, with occasional large woody debris providing additional habitat complexity for fish and macroinvertebrates. Small rivers of this type often have high clarity and are well oxygenated. These moderate gradient rivers exhibit moderate to low sinuosity within moderately narrow valleys and adjacent riverside upland communities. The predominant source of consumable energy is generated from within the stream channel (autochthonous inputs). Warm water temperatures in these rivers means the fish community consist of a higher relative proportion of warmwater species compared to coolwater species. These systems are unlikely to support any resident coldwater species. Additional variation in the biological community is expected across acidic, calcareous, and neutral geologic settings where the pH of the water will limit the distribution of certain macroinvertebrates, plants, and other aquatic biota. Small rivers of this type are found in all but the highest, most mountainous areas of the state. Many occur in the Northern Cumberlands, Western Allegheny Mountains and eastern Ridge and Valley ecoregions with many scattered shorter reaches found in the Western Allegheny Plateau.
+
+## Similar Habitat Types:
+
+Small rivers occur all across the state. These moderate gradient rivers are transitional types and often exhibit some characteristics of both the higher and lower gradient rivers. Those with cooler water temperatures tend to occur at higher elevations and in steeper topography with coarser substrates. This warm moderate gradient river type typically flows into moderate or low gradient warm medium or large rivers in areas of less topography. These are cool, fast-moving, small rivers of moderate elevations in very constrained valley settings. These small rivers are defined by watersheds less than 200 mi 2 in size and average bankfull width of 65.6 feet. The rapidly-moving waters are dominated by a complex of deep runs and cascades and step-pool features. Substrate is dominated by large boulders embedded in cobble and larger gravels, with little finer materials or large woody debris. These river types often have high clarity and are very well oxygenated. This high gradient river type exhibits low sinuosity within very narrow valleys and adjacent well-forested slopes. The predominant source of consumable energy is generated from upstream reaches within the stream channel (variable allochthonous and autochthonous inputs). Cool water temperatures in these rivers means the fish community consist of a higher relative proportion of cool and warm water species compared to coldwater species. Additional variation in the biological community is expected across acidic, calcareous, and neutral geologic settings where the pH of the water will limit the distribution of certain macroinvertebrates, plants, and other aquatic biota. Small rivers of this type are found only in a few of the deepest river valleys of the Allegheny Mountains Ecoregion.
+
+## Similar Habitat Types:
+
+Small rivers occur all across the state. These high gradient rivers are rare transitional types between highland plateaus and lowland river valleys. Those with cooler water temperatures tend to occur at higher elevations and in steeper topography with much coarser substrates. This cool high gradient river type typically is a subsection of moderate gradient cool small rivers. They flow into moderate gradient cool or warm medium rivers in areas of reduced topography.
+
+## Places to Visit This Habitat:
+
+Blackwater Mussels, Crayfish, Other Invertebrates, Amphibians, and Reptiles: Mussels: Creeper (Strophitus undulatus) occurs upstream of Davis. The rare nature of the habitat and difficulty of sampling have created a data gap in these small rivers.
+
+## 3.3.2.14: Small Rivers, High Gradient, Warm Temperature
+
+Description:
+These are relatively short reaches of warm, fast-moving, small rivers at low to moderate elevations in constrained valley settings. These small rivers are defined by watersheds less than 200 mi 2 in size and average bankfull width of 65.6 feet. The rapidly-moving waters are dominated by a complex of deep runs and cascades and step-pool features. Substrate is dominated by large boulders embedded in cobble and larger gravels, with little finer materials. These river types often have high clarity and are very well oxygenated. These high gradient reaches exhibits low sinuosity within very narrow valleys and adjacent well -forested slopes. The predominant source of consumable energy is generated from upstream reaches within the stream channel (variable allochthonous and autochthonous inputs). Warm water temperatures in these rivers means the fish community contains a higher proportion of warm water species relative to coolwater species. These systems are unlikely to support any resident coldwater species. Additional variation in the biological community is expected across acidic, calcareous, and neutral geologic settings where the pH of the water will limit the distribution of certain macroinvertebrates, plants, and other aquatic biota. Small rivers of this type are uncommon, occurring along the transitional zone on the western flank of the Allegheny Highlands Ecoregion and in the rivers draining to the New River Gorge.
+
+## Similar Habitat Types:
+
+Small rivers occur all across the state. Those with cooler water temperatures tend to occur at higher elevations and more northern areas. This warm high gradient river type is usually a relatively short reach interspersed within longer reaches of more moderate gradient. They typically flow into low gradient warm medium or large rivers.
+Deckers Creek near Morgantown, Monongalia County.
+
+## Places to Visit This Habitat:
+
+Manns Creek in Babcock State Park, Brush Creek in Brush Creek Preserve, Teter Creek in Pleasant Creek WMA, and Dunloup Creek in New River Gorge National River.
+
+## Notable Species Found in This Habitat in West Virginia:
+
+Fishes: There are no records for Species of Greatest Conservation Need from this type of habitat. The rare nature of the habitat and difficulty of sampling have created a data gap in these small rivers.
+Common fish species are expected to include Rock Bass, Northern Hog Sucker, River Chub, Silver Shiner, Rosyface Shiner Notropis rubellus, Longnose Dace.
+Mussels, Crayfish, Other Invertebrates, Amphibians, and Reptiles: Superb Jewelwing, Rusty Snaketail, Uhler's Sundragon.
+
+## 3.3.2.15: Medium Rivers, Low Gradient, Warm Temperature
+
+Description:
+These are warm, slow-moving, mid-sized rivers at low to moderate elevations in broad valley settings. Thee medium rivers are defined by watersheds less than 1000 mi 2 in size and average bankfull width of 115 feet. The slowly-moving waters are expected to be more unconfined with higher sinuosity, broader floodplain valleys, more riparian wetlands, and relatively high width: depth ratios. Instream habitats are characterized by a well-homogenized mix of short riffles, runs, and long, deep pools. Emergent aquatic vegetation is common and provides additional habitat. Substrate is predominantly silts, sands, and gravels occasionally interspersed with well-developed cobble point bars. These low-gradient river types often have low clarity and are moderately oxygenated. Warm water temperatures in these rivers means the fish community contains a higher proportion of warm water species relative to coolwater species. These systems are unlikely to support any resident coldwater species. Additional variation in the biological community is expected across acidic, calcareous, and neutral geologic settings where the pH of the water will limit the distribution of certain macroinvertebrates, plants, and other aquatic biota. Medium rivers of this type are common, and well-known to anglers, swimmers, and casual paddlers. They occur across the state in all ecoregions.
+
+## Similar Habitat Types:
+
+Medium rivers occur all across the state. Those with higher gradient are more prevalent in the Allegheny Highlands and Ridge and Valley ecoregions. They typically flow into larger warm rivers.
+
+## Places to Visit This Habitat:
+
+Elk River, These are warm, moderately fast-moving, mid-sized rivers at moderate elevations, or in small reaches at lower elevations, in constricted valley settings. The medium rivers are defined by watersheds less than 1000 mi 2 in size and average bankfull width of 115 feet. The moderately fast-moving waters are expected to be more confined with lower sinuosity, narrower floodplain valleys, more forested upland slopes, and relatively moderate width: depth ratios. Instream habitats are characterized by a wellhomogenized mix of deep riffles, runs, and long, deep pools. Emergent aquatic vegetation is common and provides additional habitat. Substrate in moderate gradient rivers is predominantly gravel, cobble, and boulders over bedrock outcrops. These moderate-gradient river types are of high clarity and are well oxygenated. Warm water temperatures in these rivers means the fish community contains a higher proportion of warm water species relative to coolwater species. These systems are unlikely to support any resident coldwater species. Additional variation in the biological community is expected across acidic, calcareous, and neutral geologic settings where the pH of the water will limit the distribution of certain macroinvertebrates, plants, and other aquatic biota. Medium rivers of this type are common, and well-known to anglers, swimmers, and casual paddlers. They occur largely in the steeper topography of the state in the Allegheny Highlands and Ridge and Valley ecoregions, but can occur in short reaches within the Northern Cumberlands and Western Allegheny Plateau ecoregions interspersed within longer low gradient reaches.
+
+## Similar Habitat Types:
+
+Medium rivers occur all across the state. Those with lower gradient are more prevalent in the lower elevations of less topographically. They typically flow into larger warm rivers.
+
+## Places to Visit This Habitat:
+
+North Fork South Branch Potomac River in Monongahela National Forest. Meadow River in Gauley River National Recreation Area, Wheeling Creek, Ohio County and Cacapon River, Hampshire County.
+Cacapon River near Capon Springs, Hampshire County.
+
+## 3.3.2.17: Large Rivers, Low Gradient, Warm Temperature
+
+Description:
+These are warm, slow-moving, large rivers at low elevations in broad flat valleys. The very large and deep rivers drain watersheds greater than 1000 mi 2 in size and have an average bankfull width of 246 feet or greater. The slower moving low gradient waters are expected to be more unconfined with higher sinuosity, broader floodplain valleys, more riparian wetlands, and relatively high width: depth ratios. Instream habitats are characterized by long, deep pools interspersed with occasional riffle areas typically associated with islands and sand or gravel bars. Emergent aquatic vegetation is common and provides additional shallow-water habitat. Large woody debris along steep incised banks adds to the channel complexity as well, providing deepwater refugia for many species. Substrate in large, low gradient rivers can vary, but will be predominantly silts and sands in pools with some gravel and cobble around islands and point bars. Clarity and oxygenation varies across ecoregions, but continuous large and small tributary inputs contribute clear and oxygenated water. Warm water temperatures in these rivers means the fish community contains a higher proportion of warm water species relative to coolwater species. These systems are unlikely to support any resident coldwater species. The biological community in large rivers is relatively stable as is water quality due to landscape accumulation of minerals and nutrients to buffer extreme local conditions. Large rivers of this type are common in all areas of the state and well-known to recreational users, and include the navigational dam-controlled rivers. They occur largely in the lowlands draining the margins of the state, except for the New River of this group, which is older than the Appalachian Mountains and bisects the state in largely the same channel it has for millennia.
+
+## Similar Habitat Types:
+
+Large rivers traverse the majority of the state. Those with more moderate gradient are rare and found as small reaches in transitional zones of greater topography within the lower gradient reaches. Large rivers typically have a number of medium river tributary systems draining into them. These are relatively short reaches of warm, moderately fast-moving, large rivers at low elevations. The very large and deep rivers drain watersheds greater than 1000 mi 2 in size and have an average bankfull width of 246 feet or greater. These moderately fast-moving waters of moderate gradient are expected to be more confined with lower sinuosity, more constrained valleys segments, more forested upland slopes, and relatively moderate width: depth ratios. Instream habitats are characterized by a mix of deep riffles, runs, and short deep pools. Emergent aquatic vegetation is common in riffles and runs and provides additional habitat. Substrate in moderate gradient rivers is predominantly gravel, cobble, and boulders over bedrock outcrops. These moderate gradient reaches generally have good clarity and are well oxygenated. Warm water temperatures in these rivers means the fish community contains a higher proportion of warm water species relative to coolwater species. These systems are unlikely to support any resident coldwater species. The biological community in large rivers is relatively stable as is water quality due to landscape accumulation of minerals and nutrients to buffer extreme local conditions. These moderate gradient reaches of large rivers are uncommon in the state, but provide scenic diversity in riverine habitats where found. They occur where the lower gradient rivers cross hard outcrops of bedrock in areas of changing topography.
+
+## Similar Habitat Types:
+
+Large rivers traverse the majority of the state. Those with higher gradient are much more common throughout the lowlands of less topography draining the margins of the state. Large rivers typically have a number of medium river tributary systems draining into them.
+
+## Places to Visit This Habitat:
+
+Tygart In developing this component of the State Wildlife Action Plans (SWAP), the USFWS has encouraged states to use a standard threat classification system developed by the International Union for the Conservation of Nature (IUCN). This approach will facilitate the integration of SWAPs into regional plans. The WVDNR followed this guidance for the West Virginia SWAP. The IUCN classification system used 43 categories of stress as follows. 
+
+## STRESS
+
+## Results of the Stress Assessment
+
+The stress assessment for the West Virginia SWAP was conducted by WVDNR biologists and ecologists using the IUCN classification system. Terrestrial stresses were assessed at the habitat level within ecoregion, thus combining a habitat perspective with a geographic one. Because the impacts of aquatic stresses are rarely limited to a specific habitat, i.e., they tend to ripple downstream, they were assessed at the Hydrologic Unit Code (HUC)-8 watershed level within ecoregion. The assessment results were then analyzed and prioritized at multiple scales, from local to statewide. Throughout the remainder of the West Virginia SWAP, those results are presented at a scale appropriate to the section in which they are discussed.
+In this section, we summarize the results of the stress assessment and prioritization at a broad scale.
+The prioritized stresses presented here affect multiple habitats in multiple areas of the state. Many have statewide impact. All have more than local or regional impact. For this reason, the WVDNR considers them to be major stresses in the context of this plan. Factors considered in the prioritization of these extensive, major stresses were:
+• Geographic extent of the stress,
+• Expert consensus that they have high impact on SGCN populations and habitats, and • Potential for effective action.
+
+## 4.2.1: Major Stresses on Terrestrial SGCN Populations and Habitats
+
+The following 21 stresses, in order of priority, are all considered by the WVDNR to be major stresses on terrestrial SGCN populations and habitats:
+• Invasive Non-native/Alien Species/Diseases The following 20 stresses, in order of priority, are all considered by the WVDNR to be major stresses on aquatic SGCN populations and habitats:
+• Industrial and Military Effluents For the West Virginia SWAP, the real purpose of the stress assessment and prioritization is to identify conservation actions that can reduce the impacts from stresses on SGCN populations and habitats. In most cases, the stresses themselves are completely legal activities of individuals, corporations, and public agencies engaged in pursuit of their recreational, economic or mission-related interests. It is rarely a practical option to advocate eliminating those activities because of their impact on species and habitats. The more realistic approach is to identify collaborative opportunities for conservation partners to reduce the impacts from stresses across the landscape. • Collaborate with others to inform the public about stresses placed on SGCN populations and habitats by some native species and actions that can be taken to reduce those stresses. • Collaborate with others to inform the public about problematic native diseases.
+• Coordinate efforts among government agencies to modify practices that introduce invasive species and encourage use of native ecotypes. • Collaboratively establish protocols to limit spread of pathogens to unaffected areas and implement disinfection protocols at public access sites and other public lands. Even within taxonomic and habitat groupings, species will respond to climate changes differently based on individual sensitivities to temperature, moisture, seasonal triggers, and other climate related effects. While species specific conservation actions eventually may be warranted in some cases, anticipating how any one species, let a large number of species, may respond across the suite of modeled climate change scenarios is very difficult. Instead of a species-specific approach, the WV SWAP broadly addresses climate change concerns by 1) statewide actions to reduce additional stresses on habitats and species, 2) more geographically focused actions in Conservation Focus Areas (CFAs), and 3) additional vulnerability assessments for select species.
+
+## 1)
+
+Because climate change can have widespread impacts across multiple habitats and species groups, climate change effects act in tandem with other stresses. For example, fragmentation of aquatic and terrestrial habitats may prevent species shifts is response to changing conditions, invasive species and pests may spread higher in elevation, and food sources already reduced by development activities may become even more scarce. Addressing these and other stresses to species and habitats are also important statewide conservation actions for decreasing their vulnerability to climate change and are found throughout SWAP section 4.3.2. Such statewide conservation actions include enhanced planning of transportation projects to reduce and offset fragmentation, providing additional statewide incentives for private land conservation, and implementing components of the state invasive species plan.
+
+## 2)
+
+Opportunities for appropriate conservation actions vary among CFAs based on their particular set of species, habitats, land uses, stresses, and other features (see 
+Chapter 6)
+. These may focus on reducing specific stresses (such as cooperating with the gas industry in 2015 WV State Wildlife Action Plan infrastructure planning to reduce fragmentation in the Little Kanawha and Middle Island Creek CFA) or restoring and expanding highly vulnerable habitat types (such as continuing spruce/high elevation forest restoration in the High Alleghenies CFA). Maintaining landscapes with characteristics conducive to supporting functioning ecological systems which may be more resilient to the effects of major perturbations such as climate change, and maintaining connectivity within and between landscapes, are seen as efficient approaches to potentially maintain broad suites of species. Recent analyses have indicated that the high level of geophysical complexity (variability) and high degree of integrity (intactness) of natural cover in the Central Appalachians, including West Virginia, support landscapes of continental-scale importance for these values 
+(Anderson and Ferree 2010
+, Anderson et al. 2012
+, Anderson et al. 2014
+) and also support landscapes of continental-scale importance for maintaining local and regional connectivity 
+(Anderson et al, 2015.)
+ This SWAP identifies CFAs where such values are especially high and opportunities for conservation action are deemed most promising. The importance of this perspective in addressing climate change within these CFAs is highlighted by a Conservation Action to "Implement a comprehensive plan to enhance climate change resiliency through reducing other stressors (such as invasive species), identifying, maintaining and creating key habitat cores and corridors, and protecting areas of high landscape complexity and integrity."
+3) A prior vulnerability assessment highlighted that a number of plants and animals in West Virginia are vulnerable to the potential negative effects of climate change while other species may not be vulnerable or may even respond positively 
+(Byers and Norris 2011)
+. Vulnerability assessments of additional species are warranted to better understand how they may respond to climate change or the interactions between climate change and other stresses (see 4.3.2.5).
+Chapter 5: The West Virginia Landscape -An Ecoregional Perspective
+
+## 5.1: Introduction
+
+In Chapter 3, we presented a clear picture of West Virginia's diversity of animal and plant species and the habitats with which they are associated. In Chapter 4, we discussed the stresses that are being placed on species and habitats in the state and introduced the concept of scale by proposing some broad-scale conservation actions to address stresses. In this chapter, we further explore the issue of scale for conservation planning by viewing the state at the ecoregional level.
+The physical and ecological variations that exist across the West Virginia landscape defy characterization at a statewide scale. The lowest elevation in the state, on the Potomac River, lies at 240 feet above sea level. The highest point, Spruce Knob, reaches an elevation of 4,861 feet. To understand West Virginia, one must understand the role that elevation plays in determining habitat characteristics and natural communities. Viewing the state from an ecoregional perspective is a good way of understanding its physical and ecological diversity.
+For the West Virginia State Wildlife Action Plan (SWAP), the West Virginia Division of Natural Resources (WVDNR) adopted a modified version of Bailey's ecoregions at the Section level 
+(Bailey et al. 1994)
+ which divides the state into four ecoregions based on geology, physiography, climate, hydrology, vegetation, soils, and terrestrial and aquatic animals. The four ecoregions adopted for use in the SWAP are the Allegheny Mountains, Cumberland Mountains, Ridge and Valley, and Western Allegheny Plateau.
+
+## 5.2:
+
+The Ridge and Valley Ecoregion The northern portion of the Ridge and Valley Ecoregion of West Virginia drains to the Chesapeake Bay via the Potomac River. The southern portions of Monroe and Mercer counties drain to the Chesapeake Bay via the James River as well as to the Ohio River via the New/Kanawha rivers. Aquatic habitats vary widely, from high-volume cold springs to ephemeral reaches of small rivers that disappear during dry seasons to mountain cascades to large rivers of wide agricultural valleys. The high density of quality springs can be attributed largely to two sources: the folded, porous geology gathering variable seasonal precipitation and feeding it to underground reservoirs that outcrop occasionally at downstream portals and the karst nature found in pockets throughout the ecoregion's valley floors that provide avenues for groundwater to reach the surface in springs and stream channels. While species that are obligate to the coldwater springs exist, endemism in these habitats in West Virginia is not common.
+The New River (the oldest river in North America) bisects West Virginia's southern portion of the Ridge and Valley ecoregion where it comes into the state from Virginia. Its age and form contribute to high endemism of aquatic species in the streams draining to it. A small portion of this ecoregion is West Virginia's only portion of the headwaters of the James River Basin, the montane reaches of Potts and Cove creeks, which are home to some aquatic species more common to the Piedmont and lower elevations to the east.
+Valley bottoms in this ecoregion have a long history of conversion of natural habitats for agriculture, which is more prevalent here than elsewhere in the state. There is high residential density and substantial population growth in the easternmost counties and substantial vacation home development locally throughout the ecoregion. Tourism is economically important. Coal mining and natural gas development are rare, but there are permitted (but to date, unbuilt) and proposed wind energy projects on some ridges. A large proportion of lands in this ecoregion are in private ownership, with large corporate ownerships being rare. Remaining private tracts over 1,000 acres are typically owned for non-
+
+## WV State Wildlife Action Plan
+
+industrial timber, recreation (especially hunting), and future development. There are also extensive public lands, mostly on the ridges.
+Conservation opportunities are substantial. Extensive and widespread public land ownership provides multiple opportunities for habitat protection and restoration. Mineral ownership is rarely separated from surface ownership, enabling land conservation through conservation easements. There is an active but small land trust community in many portions of the ecoregion and all counties but one have farmland protection programs. There is substantial landowner interest in land conservation, which greatly exceeds the limited resources and incentives available. In the Potomac basin, there is a welldeveloped network of watershed and local conservation non-profits. There are substantial existing and developing programs to maintain and improve water quality, especially as part of the Chesapeake Bay Watershed Agreement (2014) (
+http://www.chesapeakebay.net/documents/FINAL_Ches_Bay_
+ Watershed_ Agreement.withsignatures-HIres.pdf).
+
+## 5.2.2: SWAPMASTER Summary Tables of Species and Habitats
+
+The following three pages contain summary tables of species and habitats generated from the SWAPMASTER database for this ecoregion. See Appendix 3 for a complete list of species recorded by the WVDNR within the boundaries of each ecoregion. 
+
+## SPECIES SUMMARY BY TAXA AND PRIORITY ECOREGION = Ridge and Valley
+
+## 5.3.1: Description
+
+The Allegheny Mountains Ecoregion comprises approximately 25% of the state's area. It includes the highest elevations in the state representing one of the highest contiguous land masses in eastern North America. It receives the highest rainfall, and has the coldest temperatures and shortest growing seasons in the state. Geology is comprised of gently tilted layers of sedimentary rock, mostly sandstones and shales which form acidic soils, but also significant outcrops of limestone which form higher pH soils and caves. The eastern flank of the Allegheny Mountains forms the Eastern Continental Divide; waters to the west of the divide drain to the Ohio River, those to the east drain into the Chesapeake Bay via the Potomac River. The Cheat, Youghiogheny, and Tygart Valley rivers flowing north form the majority of the Monongahela River; the Greenbrier and Bluestone rivers flow into the New River in the southern part of the state. The headwaters of the Gauley, Elk, and Little Kanawha rivers also originate in the Allegheny Mountains, draining to the southwest and west. In the far eastern portion of the ecoregion is origin of the headwaters of the North and South Branches of the Potomac River.
+Because of its present climate and the history of migrations following the ice ages, the vegetation and fauna resembles those of areas further north and many Species of Greatest Conservation Need (SGCN) in this ecoregion are near the southern extent of their global range. This ecoregion includes a large majority of Red Spruce Forests and Northern Hardwoods Forests in the state and all of the High Allegheny Wetlands. At lower elevations in the Greenbrier Valley there are some drier terrestrial habitats including Shale Barrens and Dry Calcareous Forests, Woodlands, and Glades, and below ground is one of highest concentrations of caves in the world. The ecoregion is especially noteworthy for the large number of Central and Southern Appalachian endemic plants and animals it supports. This includes montane species shared with the Southern Blue Ridge Mountains, shale barren and other xeric endemics of the Central Appalachians, and a globally significant concentration of very localized cave endemics. While most of these endemics are relatively common and secure at the present time, many are also SGCN.
+The majority of West Virginia's coldwater aquatic habitats are found in the Allegheny Mountains Ecoregion, originating on the high mountain ridges flowing steeply and quickly down into the warmer river valleys. Many cascades and waterfalls form natural impediments to upstream migration, leaving many of the highest stream reaches with low species richness and diminished genetic diversity. The karst region of the southern Greenbrier Valley is an aquatic enigma: devoid of surface water features, but a tremendous source of cold, rich waters driving local subterranean endemism and productivity. The New River defies categorization by ecoregion, as it bisects across the southern part of the state, crossing through all ecoregions and contained by none. It is oldest river in North America, predating the formation of the Appalachian Mountains. The New River basin is home to ten endemic fishes, of which only six are found in West Virginia, due to downstream biogeographic barriers. While the southern part of the ecoregion has consistently good water quality with relatively high alkalinity and productivity, streams of the northern portion of the Allegheny Mountains in West Virginia have been subject to ongoing acidification from historic mining practices in high sulfur coal seams and acidic deposition. Many stream reaches have been dead for decades, and only recently has technology advanced to the point where restoration, or at least improvement, has become possible in some of the more degraded areas.
+Human population densities are relatively low over large portions of this ecoregion and there is a high proportion of public land, primarily in the mountainous portions. Public lands include most of the Monongahela National Forest, the entire Canaan Valley National Wildlife Refuge, and several West Virginia State Parks, Forests, and Wildlife Management Areas. Agriculture and development are concentrated in the lower elevations, including the Tygart and Greenbrier valleys. The northern and western parts of the ecoregion include some of the most important timber producing areas in West Virginia. Coal mining and natural gas development also occur in the northern and western portions. Several large wind energy facilities also occur on higher mountains. There are large corporate ownerships (with some properties covering tens of thousands of acres) in the northern and western portions of the ecoregion and are held primarily for timber and energy. Otherwise, forested private tracts over 1,000 acres are typically owned for non-industrial timber and recreation (especially hunting). Recreation and tourism are important, including several major resorts.
+Conservation opportunities are substantial. Extensive and widespread public land ownership provides multiple opportunities for habitat protection and restoration. There are already a few established, active multi-party habitat restoration initiatives centered around public lands. Corporate lands with intensive natural resource management provide opportunities for early succession forest habitat. Mineral ownership is generally separated from surface ownership in the northern and western portions, limiting private land conservation. Mineral rights are generally not separated from surface ownership in the southern and eastern portions, enabling land conservation through conservation easements. There is a small land trust community in those portions of the ecoregion and some counties have farmland protection programs. There is substantial landowner interest in land conservation in the Greenbrier Valley, where it exceeds the limited resources and incentives available. Locally, there are active watershed groups. There are some existing and developing programs to maintain and improve water quality, especially with a focus on addressing acid mine run-off in the northern part of the ecoregion.
+
+## 5.3.2: SWAPMASTER Summary Tables of Species and Habitats
+
+The following three pages contain summary tables of species and habitats generated from the SWAPMASTER database for this ecoregion. See Appendix 3 for a complete list of species recorded by the WVDNR within the boundaries of each ecoregion. 
+
+## SPECIES SUMMARY BY TAXA AND PRIORITY ECOREGION = Allegheny Mountains
+
+## 5.4.1: Description
+
+The Cumberland Mountains Ecoregion comprises about 22% of the state's area. Climate is uniformly warm and moist, with microclimatic differences related to slope position and aspect. The landscape is a highly dissected plateau of narrow valleys and low mountains with steep slopes and narrow ridges or, in some places, nearly flat plateaus cut by deep gorges. Geology is comprised of nearly level layers of sedimentary rocks, mostly sandstones and shales, but also extensive coal seams. Soils are mostly acidic, but some localized neutral soils were formed by influence of shallow calcareous deposits. Terrestrial habitat patterns in the Cumberland Mountains Ecoregion reflect its low mountainous topography, with patches of three dominant forest habitats, Mixed Mesophytic Forests, Dry-Mesic Oak Forests and Dry Oak (-Pine) Forests, corresponding to slope position and aspect. Floodplain habitats along the New and Gauley rivers (preserved within National Parks) include globally rare floodplain forest and riverscour prairie associations which host numerous rare plant species. The New River has long been recognized as a north-south migration corridor, which may have increased importance for wildlife in lieu of climate change.
+The New River is unusual because it flows north, cutting across the Appalachian Mountains, and is regarded to be one of the oldest rivers in the world. The New River bisects the Northern Cumberland Mountains ecoregion into north and south sections. The smaller northern section drains predominantly into the New River via the Gauley Basin. Rivers south of the New drain westward to the Ohio via the Tug/Big Sandy and Guyandotte River basins and to the Kanawha via the Coal River Basin. The extreme northern and northwestern areas of the ecoregion drain to the Kanawha River via the Elk River Basin. The aquatic fauna of the Cumberland Mountains Ecoregion varies greatly, from the species-rich waters of the Elk, Kanawha, Guyandotte, and Tug Fork rivers to the much less speciose areas of the Gauley and New rivers upstream of Kanawha Falls. Kanawha Falls is a significant biogeographic feature to stream fish distribution. During the inundation of the Kanawha (Teays River) Valley by Lake Tight multiple times during the Pleistocene glaciation, fishes became well-distributed within the areas covered by the lake, but many failed to advance upstream beyond the current location of Kanawha Falls. There are ten species above the falls which are not found downstream and are considered endemic to the New River. Six of these species are found within West Virginia's portion of the basin.
+Human population patterns and dynamics in the ecoregion reflect the geography and economy of coal mining, with a secondary influence of tourism centered on the New and Gauley Rivers. Over most of the ecoregion population is declining and agriculture is rare. A significant portion of the land is in large to very large corporate tracts held for timber and minerals. This is a major timber producing part of the state and there is some gas production. Deep mining occurs in many areas, although it was more prevalent in the past. Extensive mountaintop removal/valley fill coal mining in the ecoregion has directly affected terrestrial and aquatic habitats by removing forests and soils and burying and polluting streams. Aquatic diversity south of the New River was arguably higher prior to the influence of industrial coal mining in the region, perhaps rivaling the Elk River or even the Clinch of the Tennessee basin to the immediate south. Some water quality parameters remain relatively good despite the presence of coal because of the high alkalinity and low sulfur content of the coal-bearing shales there. Impacts on the aquatic fauna are largely sediment-related; more recently, impacts from loss of available headwater habitat through valley fill practices have reduced refuge habitat for many small-stream species while exposing harmful heavy metals to surface waters.
+Public land ownership provides some opportunities for habitat protection and restoration, especially along and near the river gorges. Corporate lands with intensive natural resource management provide opportunities for early succession forest habitat. Mineral ownership is generally separated from surface ownership, limiting private land conservation. However, the large size of corporate ownerships can potentially enable agreements that could restore habitats, especially aquatic ones, at a significant scale. There are some existing and developing programs to maintain and improve water quality through mitigation, abandoned mine land remediation, and addressing residential wastewater.
+
+## 5.4.2:
+
+SWAPMASTER Summary Tables of Species and Habitats
+The following three pages contain summary tables of species and habitats generated from the SWAPMASTER database for this ecoregion. See Appendix 3 for a complete list of species recorded by the WVDNR within the boundaries of each ecoregion. 
+
+## SPECIES SUMMARY BY TAXA AND PRIORITY ECOREGION = Cumberland Mountains
+
+## 5.5.1: Description
+
+The Western Allegheny Plateau Ecoregion comprises about 39% of the state's area and ranges from the foothills of the Allegheny Mountains west to the Ohio River and includes the entire Northern Panhandle. It has the lowest mean elevation of any ecoregion in the state and the lowest range in elevation. Climate is rather uniformly warm and moist, but with a small latitudinal temperature gradient and slightly dryer areas in the far west and far north. The landscape is a highly dissected plateau of low hills. Geology is comprised of nearly level layers of sedimentary rocks, mostly sandstones and shales. Soils are mostly acidic, but some very localized neutral soils were formed by influence of shallow calcareous deposits.
+Terrestrial habitat patterns in the Western Allegheny Plateau reflect its low, hilly topography, with tessellated zones and small patches of three forest habitats, Mixed Mesophytic Forest, Dry-Mesic Oak Forest and Dry Oak (-Pine) Forests, corresponding to slope position and aspect. Most floodplains and flooding regimes have been highly modified by human activities, but small remnants of natural River Floodplains and Small Riparian Habitats persist, mostly where they are too wet for economic exploitation.
+The Western Allegheny Plateau of West Virginia drains entirely to the Ohio River via many river outlets. Northern areas drain to the Monongahela River and directly to the Ohio by smaller creek basins. The western portion of the state is drained mostly by Middle Island Creek, Little Kanawha River, Kanawha River, Guyandotte River, Twelvepole Creek, and Big Sandy River. All modified-channel, navigable lock and dam-controlled rivers occur in this ecoregion: the Ohio, Monongahela, Kanawha (with the exception of the Marmet and London pools), and Big Sandy rivers.
+The highest diversity of fishes and mussels in West Virginia occur in the Western Allegheny Plateau due to the influence of the ancient Teays River system and subsequent flooding of what we now regard as the Kanawha and Teays valleys by glacial Lake Tight which formed as Pleistocene glaciers advanced southward about two million years ago. Water quality is generally good throughout the ecoregion, with high alkalinity and productivity. The exception is the Monongahela River basin. Due to historic coal mining practices in high sulfur coal seams, many streams in the northeastern part of the Western Allegheny Plateau have been subjected to ongoing acidification from unmitigated mine drainage. Some streams have seen restoration from mining impacts in recent generations, and the effort continues to expand, but more commonly than not, the aquatic diversity and productivity never return to historic levels. Riparian and upland areas consist of a considerable proportion of colloidal materials, resulting in elevated turbidity at all flow levels and increased risk of sedimentation with the least amount of ground disturbance.
+There is a long history of human settlement and abundant evidence of pre-historical human occupation. Today this ecoregion has the highest population of any in the state and includes the state's seven most populous cites. Population centers are scattered throughout the ecoregion in river valleys. Agriculture is widely scattered, but also is most significant in the river valleys. Surface mining has been widespread, but deep mining is prevalent and increasing in the northern half of the ecoregion. Coal mining in the eastern part of this ecoregion has had a huge negative impact on aquatic habitats due to acid mine drainage. Historically, oil and traditional gas development were important. In the last decade there has been a boom in shale gas exploration and development in the northern part of the ecoregion, leading to rapidly changing land use and demographic patterns, even in rural areas. Locally, there are some large corporate ownerships. Other private forestlands are mostly held for timber and mineral production, or recreation (especially hunting).
+Corporate lands with intensive natural resource management provide opportunities for early succession forest habitat. Mineral ownership is generally separated from surface ownership, limiting private land conservation. There are some existing and developing programs, including local watershed groups, to maintain and improve water quality through mitigation, abandoned mine land remediation, and addressing residential wastewater. The development of the shale gas industry is still "young enough" that pre-development planning by the industry could avoid and minimize many potential impacts on wildlife and wildlife habitat. Several major academic/research institutions occur in the ecoregion, with Marshall and West Virginia universities being the largest.
+
+## 5.5.2: SWAPMASTER Summary Tables of Species and Habitats
+
+The following three pages contain summary tables of species and habitats generated from the SWAPMASTER database for this ecoregion. See Appendix 3 for a complete list of species recorded by the WVDNR within the boundaries of each ecoregion. 
+
+## SPECIES SUMMARY BY TAXA AND PRIORITY ECOREGION = Western Allegheny Plateau
+
+## Stresses at the Ecoregional Scale
+
+Stresses on species and habitats were extensively discussed in Chapter 4. Several of those stresses are so closely associated with specific ecoregions in West Virginia that they are worthy of mention at this scale. Specific conservation actions are not presented here as the WVDNR believes that the appropriate actions for these stresses are identified at the broad scale in Chapter 4 or at the finer scale of Conservation Focus Areas presented in Chapter 6. Ecoregional stresses are presented here for context and in transition from broad-scale actions (Chapter 4) to fine-scale actions (Chapter 6).
+
+## 5.6.1:
+
+Energy Development
+Energy development has long been, and continues to be, a dominant industry in West Virginia. Looking forward, the probability of further energy development varies geographically across and with industry segments, i.e., coal vs. shale gas vs. windpower. Energy development probabilities were modeled for The Appalachian Landscape Conservation Cooperative by The Nature Conservancy specifically for use by states preparing their SWAPs. Predictive mapping generated by these models is included here.
+Future coal development follows the historic patterns in West Virginia. In the Cumberland Mountains, the most economically valuable seams have largely been mined and annual coal production has peaked.
+However, there will continue to be significant surface mining and some deep mining. With the widespread adoption of technology to address sulfur pollution at power plants, mining is likely to increase in the Western Allegheny Plateau in northern West Virginia's higher sulfur coal seams, especially through deep mining. Projected Population Change (%) for West Virginia
+
+## 5.6.3: Forest Fragmentation
+
+West Virginia is the third most heavily forested state in the nation, behind only Maine and New Hampshire. Forests cover 78 percent (12 million acres) of the state's 15.4 million acres. Compared to most areas of the mid-Atlantic region, large blocks of relatively intact forest remain in the Appalachians, including West Virginia, contributing significantly to the regional and state diversity of wildlife and plant species. Development, energy extraction, transmission lines, roads, and other land uses continue to fragment many of the remaining blocks. As these blocks of intact forestland change ownership in the future, parcelization will undoubtedly mean more blocks will become smaller and more fragmented. This is both a regional and state concern. The Nature Conservancy has mapped these large forest blocks at a multi-state regional scale and for West Virginia. Once again, these large forest blocks are unevenly distributed across ecoregions in West Virginia. The greatest number and most extensive blocks occur in the mountainous areas, primarily on public land in the Allegheny Mountains and Ridge and Valley. There are quite a few forest blocks in the Cumberland Mountains, where most are on large corporate properties. It is possible that some of these have been very recently fragmented by coal mining. In the Western Allegheny Plateau, forest blocks are relatively rare and not as large as elsewhere in the State.
+Chapter 6: Conservation Focus Areas
+
+## 6.1: Introduction
+
+Throughout West Virginia, species and habitats frequently occur together within certain places due to shared geographical contexts of their natural habitat distribution, biogeography, and effects of landuse. For example, cave-dwelling species are found in areas with extensive limestone at or near the surface and forest interior birds are often more abundant where public lands provide extensive, unfragmented forest cover. These places also have geographically linked stresses and conservation actions. Conservation Focus Areas (CFAs) are a set of these geographies which have been identified across West Virginia. Investing conservation resources in the CFAs can potentially be more efficient, effective, and provide more opportunities for ensuring successful outcomes. This chapter describes the conservation contexts of each CFA, along with stresses, conservation actions, and conservation opportunities unique or distinctive to it. Conservation Focus Areas often will be important stages for addressing statewide stresses and conservation actions in addition to those mentioned here. It is envisioned that conservation actions will be prioritized and specific tasks and measurable outcomes fully defined for most State Wildlife Action Plan (SWAP)-based activities in West Virginia at the CFA level. Therefore, future planning at the CFA level will be necessary to fully implement successful conservation.
+
+## 6.1.1: Outside of Conservation Focus Areas
+
+Not all Species of Greatest Conservation Need (SGCN) are found within CFAs. Animals and plants of conservation concern occur throughout West Virginia. Some of West Virginia's most important wildlife habitats, such as Cranesville Swamp and Dunkard Creek, occur outside of CFAs. The protection and restoration of some species requires that certain conservation actions will need to be undertaken outside of CFAs. Partners, especially locally based organizations, can play important roles in advancing conservation in these areas. Additionally, some conservation actions, such as policy actions, will broadly benefit wildlife populations both within and outside of CFAs.
+
+## 6.1.2: Notes on CFA Maps in this Chapter
+
+Maps of terrestrial habitats presented in this chapter for individual CFAs show all mapped and classified terrestrial habitats within the boundaries of each CFA. The West Virginia Division of Natural Resources (WVDNR) has conducted some preliminary mapping of high-priority habitats within CFAs. Because that process is incomplete, mapping is not presented here. It will be completed as part of the planning process for each CFA and will be presented as part of individual CFA plans which will follow the West Virginia SWAP.
+On an additional note, the separate processes that generated the terrestrial and aquatic habitat mapping for the West Virginia SWAP have produced an effect that is particularly apparent at the CFA level and merits some explanation. One will note that aquatic habitat maps in this chapter and elsewhere do not include a classification for lakes and reservoirs. The Northeast Aquatic Habitat Classification System (NEAHCS) and mapping used for the West Virginia SWAP included only rivers and streams, not lakes and reservoirs. The terrestrial habitat mapping did, however, include mapping for Open Water. The reservoirs that do not appear on aquatic habitat maps in this chapter do appear on the terrestrial habitat maps. 
+
+## Description
+
+In the Western Allegheny Plateau Ecoregion, the Northern Panhandle CFA covers most of West Virginia's Northern Panhandle from Hancock County southward into Marshall County, including the northern reaches of the Ohio River. The Ohio River floodplain at 650 to 700 feet in elevation meets bluffs and rolling hills that rise to 1300 feet which are dissected by numerous tributaries that cut through sandstone, coal, and small areas of limestone. The larger tributaries of the Ohio River that make up this CFA originate in Pennsylvania. The original matrix of deciduous forests has been significantly fragmented into smaller forest patches mostly by ridgetop agricultural areas, reclaimed surface mines, suburban housing, and urban areas. The floodplain and adjacent areas along the Ohio River typically have intense residential, urban, and industrial development, including two large cities: Wheeling and Weirton. Horizontal gas drilling and associated infrastructure are increasing. The mainstem of the Ohio River is completely controlled by locks and dams for navigation.
+
+## 6.2.2: Significant Wildlife Values
+
+As elsewhere in West Virginia (see 6.3), the Ohio River and its tributaries (especially Wheeling and Buffalo creeks) provide significant aquatic habitat for 30 known SGCN mussel species (with additional species regularly being re-discovered), 17 SGCN fish, and Eastern Hellbender (Cryptobranchus alleganiensis). Forested areas provide important summering habitat for the federally listed Indiana Bat (Myotis sodalis) and Northern Long-eared Bat (Myotis septentrionalis), which has not declined here from White-Nose Syndrome (WNS) as much as it has elsewhere. Anthropogenic grassland areas, predominantly found on bluffs and ridges are among the most extensive in the Western Allegheny Plateau Ecoregion of West Virginia.
+
+## 6.2.3: Distinctive Stresses
+
+Sand and gravel dredging is still permitted in the upper Ohio River (with the current permit expiring in 2017). Altered flow, pre-Clean Water Act (CWA) water quality degradation, and intensive industrial and other development occur along the mainstem Ohio River. Natural gas development and infrastructure can fragment and destroy forest habitat.
+
+## 6.2.4: Conservation Actions
+
+• Reconnect fragmented river habitat by modifying operational regimes to improve aquatic organism passage. • Implement approaches that assure stream segments with high water quality are maintained.
+• Limit disturbances to the river bottom.
+• Incorporate steps to reduce forest habitat loss and fragmentation in planning for gas well developments, as well as associated infrastructure. This section of the mainstem Ohio River has great potential for mussel restoration in those areas that are not impacted by commercial sand and gravel dredging. Additional improvements in water quality are needed and stream segments with high water quality need to be maintained.
+
+## 6.2.5: Conservation Opportunities
+
+## 6.2.6: SWAPMASTER Summary Tables of Species and Habitats
+
+The following three pages contain summary tables of species and habitats generated from the SWAPMASTER database for this CFA. See Appendix 4 for a complete list of species recorded by the WVDNR within the boundaries of each CFA.
+
+## SPECIES SUMMARY BY TAXA AND PRIORITY
+
+CONSERVATION FOCUS AREA = Northern Panhandle 
+
+## Description
+
+The Ohio River Corridor CFA extends for over 200 miles, following the meanders of the Ohio River and also encompassing many of its shorter tributaries, which originate in West Virginia. Completely within the Western Allegheny Plateau Ecoregion, the Ohio River is West Virginia's largest river. Although forming the State's border with Ohio, this portion of the river is entirely within West Virginia. Historically consisting of complex habitats of riffle, runs and pools, the Ohio is now fully constrained by six locks and dams and is heavily used for commercial navigation. Extending back from the sometimes extensive floodplain of the Ohio are low, rolling hills, often lower than 1000 feet in elevation, of shales and sandstones. The original deciduous forest of the floodplains and adjacent areas has been extensively fragmented and altered by large cities, including Parkersburg and Huntington, small towns, agricultural areas, and industrial complexes, including coal loading facilities, chemical plants, and manufacturing plants. No extensive areas of floodplain forest remain along the Ohio River in West Virginia, although there are scattered small woodlots.
+
+## 6.3.2: Significant Wildlife Values
+
+The large Ohio River is a unique habitat in West Virginia. The portion in this CFA accounts for 44% of the warm, low gradient river habitat in the State, contains significant amounts of other warmwater habitats, and provides aquatic habitat for a diversity of fish (30 SGCN) and freshwater mussels (46 SGCN).
+Freshwater mussel beds in the Ohio River host six species listed under the federal Endangered Species Act. The Greenup and Belleville pools are significant hotspots for the river's freshwater mussel diversity.
+Tributary backwaters and sloughs harbor a wide diversity of fishes, including the majority of the occurrences in the state for Warmouth (Lepomis gulosus) and Orangespotted Sunfish (Lepomis humilis). Floodplain forests, sloughs, backwaters and wetlands, such as at Greenbottom Swamp and on the Ohio River Islands, host breeding birds, amphibians, and plants that are rare or absent elsewhere in the state, such as Streamside and Smallmouth Salamanders (Ambystoma barbouri, A. texanum), Smooth Softshell Turtle (Apalone mutica), Eastern Spadefoot Toad (Scaphiopus holbrookii), rails, and Prothonotary Warbler (Protonotaria citrea). This is an important area for nesting birds, with 44 SGCN, including both nesting Bald Eagle (Haliaeetus leucocephalus) and Peregrine Falcon (Falco peregrinus).
+
+## 6.3.3: Distinctive Stresses
+
+Altered flow, in-river structures (locks and dams), pre-CWA water quality degradation, dredging, excessive bank stabilization and armoring, isolation of key habitats from river mainstem, pollution received from tributaries, and intensive industrial and other development along the mainstem Ohio River collectively stress fish and mussel populations in the river.
+
+## 6.3.4: Conservation Actions
+
+• Reconnect fragmented river habitat by modifying operational regimes of the locks and dams to improve aquatic organism passage. • Reconnect floodplain habitat on priority river sections to allow aquatic organisms access to key habitat areas. • Implement approaches that assure stream segments with high water quality are maintained.
+• Limit disturbances to the river bottom.
+• Protect and restore key wetland, slough and backwater habitats. James Nature Preserve and Conservation Park.
+
+## 6.3.6: SWAPMASTER Summary Tables of Species and Habitats
+
+The following three pages contain summary tables of species and habitats generated from the SWAPMASTER database for this CFA. See Appendix 4 for a complete list of species recorded by the WVDNR within the boundaries of each CFA.
+
+## SPECIES SUMMARY BY TAXA AND PRIORITY
+
+CONSERVATION FOCUS AREA = Ohio River Corridor Human population densities are low, but there are large population centers nearby (Charleston and Huntington). Some deep and surface coal mining areas are within the CFA, but not as extensively as in areas nearby. Most forested acreage is primarily in small to medium-sized, private non-industrial holdings but some major industrial forest holdings also occur.
+
+## 6.4.2: Significant Wildlife Values
+
+Although heavily degraded overall, streams here remain biologically significant with 18 SGCN fish and 17 SGCN mussels. Two regionally endemic crayfish occur in this CFA: Coalfields Crayfish (Cambarus theepiensis) and Tug Valley Crayfish (Cambarus hatfieldi). The rivers (Big Sandy, Tug Fork, and Guyandotte) and especially their tributaries provide habitat for many rare species that occur nowhere else in the state. Blocks of forest and embedded patch habitats support relatively high densities of a number of forest interior bird species of special concern (including Wood Thrush (Hylocichla mustelina), Louisiana Waterthrush (Parkesia motacilla), Worm-eating Warbler (Helmitheros vermivorum), Kentucky Warbler (Geothlypis formosa), and Cerulean Warbler (Setophaga cerulea) and the only known West Virginia populations for Guyandotte Beauty (Synandra hispidula) and Sandstone Fire-pink (Silene rotundifolia). This CFA contains one of two known maternity colonies of Rafinesques Big-eared Bat (Corynorhinus rafinesquii) in the state. Kanawha and Cabwaylingo state forests support notably diverse and abundant nesting forest interior birds and rare plants and animals.
+
+## 6.4.3: Distinctive Stresses
+
+Forest habitat loss and fragmentation from coal mining, private roads, gas wells, and pipelines are widespread. Water pollution and sedimentation from mining, other resource development, residential use, and all-terrain vehicle (ATV) recreation can impact aquatic habitats.
+
+## 6.4.4: Conservation Actions
+
+• Protect remaining intact forest areas, especially on and near public lands.
+• Direct mitigation resources to restoring key aquatic systems.
+• Restore legacy mined lands.
+• Incorporate steps to reduce forest habitat loss and fragmentation in planning for mine and gas well developments, as well as associated infrastructure. • Provide guidance to corporate landowners on practices benefiting forest interior birds.
+• Establish guidelines for ATV parks and trail systems that protect both the terrestrial and aquatic habitats.
+2015 WV State Wildlife Action Plan 6.4.5:
+Conservation Opportunities 
+
+## Description
+
+This CFA in the Cumberland Mountain Ecoregion is dominated by very rugged, steep, highly dissected topography on the headwaters of the Tug Fork and Guyandotte River. Valleys are narrow. Much of the area is low to mid-elevation, with some mountains rising to over 3000 feet, and predominantly on sandstones and shales. Ridgetops are dominated by Dry Oak (-Pine) and Dry-Mesic Oak Forests, with Mixed Mesophytic Forests typical on lower slopes. Mixed Mesophytic Forests, while still common in the CFA, have been significantly displaced over many areas by oak forests due to repeated burning by human-caused fires. The landscape remains mostly forested, with a number of small to medium-sized blocks of relatively unfragmented forest remaining, primarily on public land. The area is sparsely settled with a declining population which is largely restricted to (often narrow) valleys. There is substantial acreage in large corporate land holdings. Extensive surface and deep mine complexes and reclaimed and abandoned mines exist throughout the area.
+
+## 6.5.2: Significant Wildlife Values
+
+Although heavily degraded overall, streams here remain biologically significant, especially for species with small, regionally restricted ranges, and include significant amounts of headwater stream habitats. Two crayfishes proposed for federal listing as endangered species occur here: Big Sandy Crayfish (Cambarus callainus), and Guyandotte River Crayfish (Cambarus veteranus). The only extant populations known for the Guyandotte River Crayfish are within this CFA. Streams also support half of the state's distribution of the regionally endemic Coalfields Crayfish and about half of the state's range for the regionally endemic Black Mountain Salamander (Desmognathus welteri). The relatively intact blocks of deciduous forests in this CFA are the northern portion of a series of forest blocks extending southward through the Cumberland Mountains Ecoregion into Tennessee and which collectively are globallysignificant, including some of the most diverse temperate deciduous forest examples known. In this CFA, these forests are critically important to a number of forest interior breeding birds (especially Wood Thrush, Swainson's Warbler (Limnothlypis swainsonii), Cerulean Warbler, and Kentucky Warbler), salamanders, and regionally endemic species. A number of Southern Appalachian endemics at or near the northernmost limit of their ranges have all or nearly all of their known West Virginia occurrences in this CFA, such as land snails (including both Punctum blandianum and Ventridens lasmodon), Diana Fritillary butterfly (Speyeria diana), and plants, including Carolina Saxifrage (Saxifraga caroliniana), Red-Twig Doghobble (Leucothoe recurva), and Yellow Mandarin (Prosartes maculata).
+
+## 6.5.3: Distinctive Stresses
+
+Forest habitat loss and fragmentation from coal mining, private roads, gas wells, and pipelines are widespread. Water pollution and sedimentation from mining, other resource development, residential use, and ATV recreation can impact aquatic habitats.
+
+## 6.5.4: Conservation Actions
+
+• Protect remaining intact forest areas (which is difficult here because mineral rights are typically separated). • Direct mitigation resources to restoring key aquatic systems.
+• Restore legacy mined lands.
+
+## WV State Wildlife Action Plan
+
+• Incorporate steps to reduce forest habitat loss and fragmentation in planning for mine and gas well developments, as well as associated infrastructure. • Provide guidance to corporate landowners on practices benefiting forest interior birds.
+• Establish guidelines for ATV parks and trail systems that protect both the terrestrial and aquatic habitats.
+6.5.5: Conservation Opportunities The area is drained by the East River, a cool, moderate gradient stream attributing much of its quality to the numerous high quality cave-fed springs flowing into it along its length. The landscape is predominately forested with some sparse development located in the East River Valley. Heavier, but not expanding, development exists in the city of Bluefield to the southwest. The rugged topography limits easy development within this CFA.
+
+## 6.6.2: Significant Wildlife Values
+
+Several caves exist in this CFA which support seven SGCN cave invertebrates, as well as Indiana Bat (Myotis sodalis) and Cave Salamander (Eurycea lucifuga). The springs originating from this karst provide a rich, coldwater source for several fish species dependent on cooler water temperatures. Important stream species include Blackbelly Salamander (Desmognathus quadramaculatus), the state's southernmost native population of Brook Trout (Salvelinus fontinalis), and New River Shiner (Notropis scabriceps) and Kanawha Sculpin (Cottus kanawhae), both endemic to the New River Basin. East River Mountain is an important bird migration corridor.
+
+## 6.6.3: Distinctive Stresses
+
+Sinkhole dumping, run-off from development and agriculture, and quarrying potentially place cave faunas at risk. Any wind energy development on East River Mountain could impact migrating birds.
+
+## 6.6.4: Conservation Actions
+
+• Actively work with landowners to provide sinkhole clean-up, sinkhole and sinking stream fencing, and to reduce other impacts to cave systems. • Secure conservation lands, through ownership or easement, to protect significant terrestrial and subterranean habitats. • Conservation easements on forested ridgetops to reduce threat from wind energy development.
+
+## 6.6.5: Conservation Opportunities
+
+• Key WVDNR Partners: WVDEP, WV Cave Conservancy.
+• Public Lands: Tate Lohr WMA.
+
+## 6.6.6: SWAPMASTER Summary Tables of Species and Habitats
+
+The following three pages contain summary tables of species and habitats generated from the SWAPMASTER database for this CFA. See Appendix 4 for a complete list of species recorded by the WVDNR within the boundaries of each CFA.
+
+## SPECIES SUMMARY BY TAXA AND PRIORITY
+
+CONSERVATION FOCUS AREA = East River Mountain Upstream from Bluestone Reservoir, the New River flows freely for 13 miles upon entering West Virginia from Virginia. The Bluestone River flows out of Virginia, eventually enters the Bluestone Gorge and finally empties into the reservoir from the south. Indian Creek drains much of Monroe County and then flows into the reservoir from the north. A large portion of this CFA is a karst area that is a southward extension of the Greenbrier Valley karst. East of this karst area is the high ridge of Peters Mountain, the beginning of the Ridge and Valley Ecoregion. Elevations are often moderate (2000 -2500 feet), but rise over 4000 feet on Peters Mountain. Landuse changes substantially across the landscape due to the broad variety of habitats and landforms. Forested areas characterize the Bluestone Gorge and Peters Mountain. Otherwise, the forests have been fragmented by farming and small communities.
+
+## 6.7.2: Significant Wildlife Values
+
+Numerous caves in the karst area contain several highly localized, endemic cave invertebrates and Indiana Bats. Two caves contain invertebrates species found only at that site and nowhere else. The New River Basin is home to ten endemic fishes, of which at least seven (five SGCN) have been documented in this CFA. This CFA contains the West Virginia portion of the Bluestone Sculpin (Cottus sp. cf. carolinae) range, an endemic to the Bluestone Watershed. Thirteen SGCN mussel species are documented in the CFA and the riparian areas support the federally threatened Virginia Spiraea (Spiraea virginiana). Extensive farmland (contiguous with the Greenbrier River CFA) supports Anthropogenic Shrubland and Grassland habitats important for several bird species of concern, including Barn Owl (Tyto alba), Golden-winged Warbler (Vermivora chrysoptera), Grasshopper Sparrow (Ammodramus savannarum), and Eastern Meadowlark (Sturnella magna). Forested areas are important for forest interior breeding birds such as Worm-eating Warbler (Helmitheros vermivorum)and several rare plants, including West Virginia's only known Carolina Lily (Lilium michauxii) populations. This CFA has a significant amount of Dry Calcareous Forest, Woodlands, and Glades habitat, which supports a rich diversity of snails (16 SGCN), including the recently described Triodopsis juxtidens robinae and a newly discovered but still undescribed Triodopsis, both of which may be endemic to the Bluestone River Gorge. These calcareous habitats also support a number of rare plants, such as the globally rare Canby's Mountain-lover (Paxistima canbyi). Peters Mountain is an important bird migration corridor.
+
+## 6.7.3: Distinctive Stresses
+
+Sinkhole dumping, run-off from development and agriculture, and quarrying potentially place cave faunas at risk. Any wind energy development on Peters Mountain could impact migrating bats and birds.
+
+## 6.7.4: Conservation Actions
+
+• Actively work with landowners to provide sinkhole clean-up, sinkhole and sinking stream fencing, and to reduce other impacts to cave systems. • Secure conservation lands, through ownership or easement, to protect significant terrestrial and subterranean habitats.
+
+## WV State Wildlife Action Plan
+
+• Provide assistance and incentives to landowners to maintain grassland and shrubland habitats for birds.
+6.7.5: Conservation Opportunities The following three pages contain summary tables of species and habitats generated from the SWAPMASTER database for this CFA. See Appendix 4 for a complete list of species recorded by the WVDNR within the boundaries of each CFA.
+
+## SPECIES SUMMARY BY TAXA AND PRIORITY
+
+CONSERVATION FOCUS AREA = Bluestone Lake/Peters Mountain 
+
+## 6.10.3: Distinctive Stresses
+
+Livestock graze in many wetland areas of Meadow River. Some wetland filling and draining has occurred.
+
+## 6.10.4: Conservation Actions
+
+• There are high ecological benefits possible from focusing mitigation resources into additional wetland protection and restoration in these wetlands.
+6.10.5: Conservation Opportunities 
+
+## 6.10.6: SWAPMASTER Summary Tables of Species and Habitats
+
+The following three pages contain summary tables of species and habitats generated from the SWAPMASTER database for this CFA. See Appendix 4 for a complete list of species recorded by the WVDNR within the boundaries of each CFA. The Kanawha Falls CFA consists of a five mile reach of the Kanawha River from Kanawha Falls at Glen Ferris, downstream to Deep Water and Montgomery Heights. This river reach is the last section of any great river in West Virginia that remains un-impounded. Although flow is still regulated by dams upstream on the Gauley and New Rivers, this reach maintains its flowing riffle, pool, and run complex of habitats. Much of the uplands in this small Cumberland Mountains Ecoregion CFA consist of mostly forested steep slopes. Extensive residential and commercial development is concentrated along the narrow floodplain of the Kanawha River. The river is also paralleled by US Route 60 and a railroad.
+
+## SPECIES SUMMARY BY TAXA AND PRIORITY
+
+6.12.2: Significant Wildlife Values
+The falls, a barrier to passage, provides a natural break point for fish and mussel species diversity between the mainstem Kanawha River downstream and the New River drainage upstream. Thirty-seven SGCN mussels occur here, including four federally endangered species. One of these, the Northern Riffleshell (Epioblasma torulosa rangiana), became extirpated but was subsequently reintroduced here in 2014. Along with the New River in the Gorge just upstream, this provides the last stronghold for the Purple Wartyback mussel in West Virginia. There is a highly diverse fish fauna here. Seventy-three fish species are documented in this CFA including 10 SGCN.
+
+## 6.12.3: Distinctive Stresses
+
+The Glen Ferris Hydropower facility has the potential to change flow patterns across established mussel beds. Spill from tanker truck wrecks or train derailments could be disastrous.
+
+## 6.12.4: Conservation Actions
+
+• Protecting the un-impounded condition of this reach is of utmost priority.
+• This reach has the potential to provide broodstock for restoration of mussel species throughout the state. Due to the lack of the exotic zebra mussels this area is also important for restoration of big river mussel species such as the on-going Northern Riffleshell restoration project. • Develop a hazardous spill prevention and response protocol that addresses biological and ecological concerns.
+6.12.5: Conservation Opportunities 6.12.6: SWAPMASTER Summary Tables of Species and Habitats
+The following three pages contain summary tables of species and habitats generated from the SWAPMASTER database for this CFA. See Appendix 4 for a complete list of species recorded by the WVDNR within the boundaries of each CFA. 
+
+## SPECIES SUMMARY BY TAXA AND PRIORITY
+
+## 6.13.1: Description
+
+The Lower Elk River CFA is that portion of the river from below Sutton Dam to its confluence with the Kanawha River and surrounding uplands, stretching along the juncture of the Western Allegheny Plateau and Cumberland Mountains ecoregions. The river, met by many small to medium tributaries, meanders across a hilly, dissected low sandstone plateau, with ridge crests usually well below 2000 feet. West Virginia's largest city, Charleston, occurs at the mouth of the Elk, but for much of its length, the lower Elk passes by small towns and farms. In this deeply dissected region of West Virginia, the river valley is used as a transportation corridor, with either roads or railroads, and often both, running along both sides.
+The uplands remain primarily forested, with the original Mixed Mesophytic Forest generally highly fragmented, but several moderate sized forest blocks remain. Forestland is mostly in small to mediumsized non-industrial, private holdings, but there are some medium-sized industrial timber holdings. Oil and gas wells and coal mines are widespread in the uplands. Characterized by its excellent water quality, the Elk River provides drinking water to several communities including Charleston. The Elk River is a warmwater stream, and although Sutton Dam has a multilevel release, high flows in the summer significantly reduce water temperatures when the dam is forced to release a large portion of its discharge from the bottom port. Cooler water temperatures impact mussel reproduction. In 2014 a mussel kill was observed in the upper reaches of the lower Elk. No freshwater mussel reproduction has been observed in this area in over ten years. Likewise, significant algae blooms occur between Duck and Ivydale.
+
+## 6.13.4: Conservation Actions
+
+• Engage with the public and especially local watershed and environmental groups, to instill awareness and concern for the aquatic resources.
+• Partner with local watershed groups, and local governments to elevate efforts to reduce water pollution and avoid future spills. • Partner with land managers (public and private) to implement forest management practices that benefit forest interior birds. • Identify factors impacting mussel reproduction and creating algae blooms and develop corrective strategies.
+6.13.5: Conservation Opportunities 
+
+## 6.14.3: Distinctive Stresses
+
+Issues in this CFA include water contamination from municipal and residential sources and potential habitat loss and fragmentation from gas development. The impacts from a large invasive population of the Chinese Mystery Snail (Cipangopaludina chinensis malleata) are unknown.
+
+## 6.14.4: Conservation Actions
+
+• Incorporate steps to reduce forest habitat loss and fragmentation in planning for gas well development, as well as associated infrastructure. • Continue to improve and maintain water quality of significant streams.
+• Partner with land managers (public and private) to implement forest management practices that benefit bird species such as American Woodcock, Wood Thrush, and Cerulean Warbler. • Where feasible and appropriate, public and private land managers should be encouraged to implement appropriate practices for American Woodcock, Wood Thrush and Cerulean Warbler.
+6.14.5: Conservation Opportunities The canyon contains the entire known range of the federally threatened Flat-spired Three-toothed Landsnail (Triodopsis platysayoides) and includes a cave that is a hibernaculum for the federally endangered Indiana Bat, the federally threatened Northern Long-eared Bat and three other SGCN bats.
+The cave also contains globally rare cave invertebrate species. Forests support the federally endangered Northern Long-eared Bat and important populations of forest interior nesting birds including Wood Thrush, Kentucky Warbler, Louisiana Waterthrush, and Cerulean Warbler. The steep sandstone cliffs and rocky habitats that line both sides of the canyon provide habitat for Allegheny Woodrat, Appalachian Cottontail (Sylvilagus obscurus), Green Salamander, and Timber Rattlesnake. The river floodplains along the Cheat are poorly surveyed, but include habitat for several rare plant species including the globally rare Monongahela Barbara's-Buttons. The Cheat River provides habitat for several SGCN dragonflies including the Midland Clubtail (Gomphus fraternus) and Rapids Clubtail (Gomphus quadricolor).
+
+## 6.16.3: Distinctive Stresses
+
+Timber harvest may threaten the rocky habitats of the Flat-spired Three-toothed Landsnail and other rare species which occur on private land. Recreational activities can also impact the sensitive habitats in the canyon. Acid mine drainage has substantially degraded aquatic habitats. Energy development may fragment remaining forested areas.
+
+## 6.16.4: Conservation Actions
+
+• Partnering with the recreational community (rock climbers) may help reduce and avoid impacts to rocky habitats. • Continue to support and partner with watershed groups working to eliminate effects from acid mine drainage in the Cheat River. • Coordinate with the active land trust and farmland protection community to protect habitat through land conservation.
+6.16.5: Conservation Opportunities 
+
+## 6.20.3: Distinctive Stresses
+
+Development pressure is significant in the Cacapon Watershed, with substantial residential and second home development, especially along major streams and adjacent to public land. Water quality impacts from agriculture and development exist throughout both watersheds. Fragmenting intact forests increases surface water temperatures (and consequently headwater stream temperatures) and storm water run-off.
+
+## 6.20.4: Conservation Actions
+
+• Promote practices for restoring riparian habitat, including streamside fencing and establishing riparian buffers, and for reducing sedimentation and nutrient runoff from farms. • Coordinate with the active land trust and farmland protection community to protect habitat through land conservation. • Engage public landowners to maintain large, intact forest blocks thus protecting many other special habitats. • Implement a comprehensive plan to enhance climate change resiliency through reducing other stressors (such as invasive species), identifying, maintaining and creating key habitat cores and corridors, and protecting areas of high landscape complexity and integrity.
+6.20.5: Conservation Opportunities 
+
+## 6.21.3: Distinctive Stresses
+
+The streams and forests are under very heavy, widespread pressure from development and associated habitat impacts, including habitat loss and fragmentation, stormwater runoff, and invasive species.
+
+## 6.21.4: Conservation Actions
+
+• Watershed restoration and protection is a priority. A framework for watershed protection could help guide development so that impacts to water quality and thus habitat, are minimized. • Coordinate with the active land trust and farmland protection community to protect habitat through land conservation.
+6.21.5: Conservation Opportunities 
+of Species
+ and
+Habitats
+ The following three pages contain summary tables of species and habitats generated from the SWAPMASTER database for this CFA. See Appendix 4 for a complete list of species recorded by the WVDNR within the boundaries of each CFA. 
+
+## SPECIES SUMMARY BY TAXA AND PRIORITY
+
+## 6.22.3: Distinctive Stresses
+
+The CFA is the fastest growing region in the state in terms of population and subsequent development.
+Residential and commercial development are displacing agriculture (which is compatible with many elements) and encroaching on important habitats (streams, marshes, farmland, groundwater).
+
+## 6.22.4: Conservation Actions
+
+• Watershed restoration and protection is a priority. A framework for watershed protection could help guide development so that impacts to water quality and thus habitat, are minimized. • Opequon Creek should be considered for a reintroduction of mussels if studies suggest water quality is acceptable. If so, a pilot project could be developed that introduces common species and monitors their survival. • Coordinate with the active land trust and farmland protection community to protect habitat through land conservation.
+6.22.5: Conservation Opportunities It is clear that the world is changing faster than our collective ability to understand and respond to those changes. The human and financial resources that are being committed to conservation in the face of these landscape and global-level changes are simply inadequate to allow the conservation community to do the job. That situation must change if this plan and the legislation that fostered it are to achieve the goal of stemming species declines. In the meantime, there is much that can be done to ensure that the conservation community does the best it can with the resources that it has. Efficient monitoring, adaptive management, prioritized research/data acquisition and responsive plan revision, all with good feedback connections, clearly comprise a recipe for better conservation results. The sections that follow present a framework for that recipe.
+
+## 7.2: Monitoring
+
+An integral component of the framework is monitoring to assess species and habitat trends and responses to management actions. Many of the key partners with WVDNR have emphasized the degree to which they rely on the species monitoring efforts conducted by the WVDNR and the importance of continuing those efforts. However, monitoring can easily consume so many limited human and financial resources that few resources remain for conservation action. Achieving and maintaining the proper balance between monitoring and action is therefore the dominant focus of this framework.
+The importance of scale in maintaining an effective, but not excessive, monitoring effort cannot be overstated. Our framework proposes to commit some resources for extensive monitoring of species and habitats across the entire state, but proposes to commit more resources for more intensive monitoring in key areas of species and habitat occurrence, i.e., Conservation Focus Areas (CFA's). As it is the intent of the plan to focus more conservation action in the CFA's, it is entirely appropriate to maintain a more intensive monitoring effort there. This scale factor will be invoked repeatedly as the framework addresses monitoring related to the following issues. The WVDNR currently tracks all SGCN identified in the West Virginia SWAP in the Biotics5 database. Biotics5 contains taxonomic information and global and state conservation status ranks (based on degree of endangerment), for over 800 plant and animal species, and detailed information, including locations, population numbers and extent, habitats, and threats for over 7,000 occurrences of these species. Biotics5 uses methodology and software which is shared throughout the network of Natural Heritage Programs, enabling analysis of species trends across regional and global scales. As new SGCN occurrences are discovered or old ones resurveyed, the records in Biotics5 can be updated to reflect new information. For the WVDNR, Biotics5 will continue to be the primary, statewide species monitoring component of the framework.
+In addition to Biotics5, the WVDNR and its partners plan to continue the numerous, ongoing monitoring efforts that contribute to a fuller understanding of species status and trends in West Virginia. These ongoing activities include, but are not limited to the following. 
+
+## ONGOING SPECIES MONITORING ACTIVITIES
+
+## USFS -MNF Northern flying squirrel Species
+
+Long-term bat monitoring using mist net surveys
+
+## USFS -MNF Bats Species
+
+Virginia big-eared bat summer colony censuses.
+
+## WVDNR Virginia big-eared bat Species
+
+Bat fall swarm trapping at abandoned mines in New River Gorge area.
+
+## NPS Bats Species
+
+Monitoring of bats at a large roost using an I-77 bridge.
+
+## WVDOH Bats Species
+
+Compilation of bat captures from WV Scientific Collecting permit reports.
+
+## WVDNR Bats Species
+
+Long-term monitoring of Allegheny Woodrat populations (live trapping).
+
+## WVDNR Allegheny Woodrat Species
+
+Monitoring of cliffs for nesting peregrine falcons in New River Gorge area.
+
+## NPS
+
+Peregrine Falcon Species 7.2.1.2: Monitoring Species in Conservation Focus Areas
+As noted in Chapter 9, identification of 21 CFA's in the state presents a real opportunity to simultaneously narrow and intensify monitoring efforts for species and habitats. The initial focus of species monitoring efforts in the CFA's will be to establish better baselines for species distribution and abundance. Subsequent monitoring in the CFA's will yield information that has been lacking on trends in SGCN populations. Specific monitoring protocols will be incorporated in CFA conservation plans that will be developed to implement the West Virginia SWAP. Working with local partners in the CFA's, such as the USFS, can provide synergistic opportunities to gain better trend information with greater efficiency and at lower cost.
+
+## 7.2.2:
+
+Habitat Monitoring
+
+## 7.2.2.1: Statewide Habitat Monitoring
+
+Occurrences of selected natural habitats, like SGCN, are tracked in the Biotics5 database. WVDNR tracks all known occurrences of rare habitats and high quality occurrences of all habitats. Occurrences are mapped, vegetation structure and composition are described, threats are identified, and quality ranks are assigned based on size, condition, and landscape context.
+WVDNR has established permanent vegetation monitoring plots in some locations. Plots were established and are designed to detect and document changes to habitats in response to climate change, deer herbivory, and succession. WVDNR will consider establishing additional permanent plots in high priority habitats. WVDNR has also cooperated with NPS to establish monitoring plots on their lands. WVDNR also has data from over 4,000 vegetation plots across the state, most with accurate GPS location data, which, combined with air photo interpretation or revisits, can be used for monitoring gross changes to habitat.
+Habitat mapping has great potential as a monitoring tool, but will require increased thematic and spatial accuracy. The WV Habitat map produced for the SWAP is an improvement over recent regional maps and additional low cost improvements are within the capacity of WVDNR to achieve in the next decade.
+As with species monitoring, the WVDNR and its partners will continue to implement a wide array of habitat monitoring activities that include, but are not limited to, the following. Quantifying the results of implemented statewide conservation actions, most of which will be of a collaborative nature, can best be done by incorporating feedback assessments from partners and collaborators. Each statewide conservation action identified in Chapter 4 will be implemented with integrated opportunities for such feedback. Statewide monitoring efforts for species and habitats will also provide opportunities to assess aggregate improvements that may result from implementation of multiple statewide conservation actions.
+
+## ONGOING HABITAT MONITORING ACTIVITIES
+
+## 7.2.3.2: Monitoring Results of Actions at the CFA Level
+
+The West Virginia SWAP envisions many conservation actions being implemented at the CFA level. The CFA conservation plans that will be developed from the SWAP present real opportunities for both targeted action and targeted measurement and monitoring of the results. These plans will incorporate measurement and monitoring protocols that will be integrated with conservation actions themselves.
+There will be no implementation of conservation action without integrated monitoring protocols. These protocols will include biological components and feedback assessments from partners.
+
+## Proposed Effectiveness Measures for Conservation Projects and Activities
+
+In implementing the 2015 West Virginia SWAP, the WVDNR proposes to use relevant effectiveness measures to evaluate, track and report the results of projects and activities that implement conservation actions. Effectiveness measures have been developed by the Association of Fish and Wildlife Agencies' State Wildlife Grant Effectiveness Measures Working Group (AFWA 2011). Pursuant to AFWA's recommendation, the WVDNR proposes to use selected measures to report and track project effectiveness as part of the State of West Virginia's regular reporting to the U. S. Fish and Wildlife Service via the Wildlife TRACS database when that system is fully implemented. The following examples illustrate the proposed tracking and reporting protocol for various types of conservation projects and activities. Other metrics may be added as necessary.
+Conservation Project/Activity Type: Direct Management of Natural Resources Description: Covers all direct management activities intended to benefit natural resources, including fish and wildlife species and their habitats, as well as stress reduction activities that directly result in improvements to fish and wildlife species and/or their habitats.
+Sample Actions: The following actions are examples of the direct management of natural resources:
+• Implement priority restoration projects for Lepidoptera and/or Mussel habitats.
+• Implement burn management on priority parcels.
+
+## WV State Wildlife Action Plan
+
+• Establish identified micro-features, including nest structures, substrate, and cover types.
+• Use "soft" shoreline modification approaches (e.g., vegetative plantings, and placement of large woody debris). Description: Collection and analysis of data to inform fish, wildlife, and habitat conservation efforts.
+Sample Actions: The following actions are examples of data collection and analysis:
+• Create GIS coverage of forest age-class.
+• Facilitate detection and diagnosis of disease outbreaks.
+• Continue established long-term monitoring protocols.
+• Develop and implement sampling protocol for aquatic exotics.
+• Undertake multi season, pre-and post-dredging biological surveys to assess impacts to animal and submerged aquatic vegetation communities.
+Effectiveness Measures: The following effectiveness measures could be reported and tracked using the Wildlife TRACS database for actions in this category of data collection and analysis.
+
+## Project Type Effectiveness Measure Data Collection and Analysis
+
+Evidence that clear management needs and outcomes have been identified with input from relevant data users Data Collection and Analysis • Expand public relations for fire management.
+• Develop and provide educational information about invasive species.
+• Develop and provide educational materials to reduce incidental mortality and take from humans. • Expand public relations for snakes.
+• Expand public awareness of fish passage issues.
+Effectiveness Measures: The following effectiveness measures could be reported and tracked using the Wildlife TRACS database for actions in this category of outreach to key resource users. • Coordinate with mosquito abatement personnel for chemical management.
+• Outreach to appropriate landowners concerning chemical management.
+• Coordinate invasive species management with other state and regional programs.
+• Establish discussions with state and local WVDOH.
+• Coordinate incidental take programs with regional or national initiatives.
+Effectiveness Measures: The following effectiveness measures could be reported and tracked using the Wildlife TRACS database for actions in this category of stakeholder involvement. The WVDNR recognizes that where opportunities exist and resources permit, controlled research can improve the effectiveness and efficiency of conservation action and, where circumstances warrant, applied research opportunities will be pursued. The WVDNR also believes that the collective assessment of conservation partners during and after action implementation can often be the simplest and most practical component of adaptive management. The agency commits itself and urges its partners to similarly commit to a careful evaluation of each conservation action taken to implement the West Virginia SWAP and subsequent incorporation of those evaluations into future actions and policies.
+
+## Project
+
+## 7.3.2:
+
+The Adaptive Management Team
+To establish and maintain a process for ( 
+1
+) monitoring results at both the statewide and CFA scales and
+(2) incorporating those assessments into planning for future conservation actions, the WVDNR proposes to form a permanent SWAP Adaptive Management Team (AMT). The AMT will include:
+• WVDNR diversity program administrators and managers • WVDNR species and habitat specialists • Species and habitat experts from state and federal agencies and academia, and • Program managers from private conservation entities and public agencies, including the USFWS
+Beginning in 2016, at the conclusion of the each annual field season, the WVDNR will host a project review and planning workshop for the AMT and SWAP partners. The scope of the workshop will include activities implemented by the WVDNR as well as those implemented by partners. The workshop's annual agenda will include:
+• Presentation, discussion and evaluation of conservation projects that have been implemented
+• Proposed modifications to ongoing projects and management activities • Proposed projects for the coming year/s • Proposed revisions to the West Virginia SWAP Proceedings of each annual project review and planning workshop will be included in annual performance reports and applications for federal aid submitted to the USFWS for the Continuous SWAP Planning Project discussed further in Section 7.6 below.
+
+## 7.4: Research and Data Acquisition Priorities
+
+Several applied research and data acquisition needs have been identified during the planning process for the West Virginia SWAP. The following needs were identified as priorities for the state's conservation community.
+
+## 7.4.1: Applied Research Priorities
+
+• Biological control mechanisms for invasive species To develop the West Virginia SWAP, the WVDNR drew heavily upon its existing Biotics5 databases for species ranks and element occurrences. Support staff for these critical data is needed if the data are going to be available for tracking, monitoring and plan revision in the future. The WVDNR anticipates increasing its data management staff to meet this need.
+To develop the West Virginia SWAP, the WVDNR built a new MS Access database (SWAPMASTER) to archive and facilitate analyses and reporting of species and habitat attributes for the plan. It is the agency's intention to keep this database current with periodic updates from its Biotics5 database and to make the SWAPMASTER database and the CFA shapefiles available to conservation partners and the public. The WVDNR believes that making these data available in this way will enhance implementation of the West Virginia SWAP by other agencies, NGO's, and private entities.
+
+## 7.6: Plan Revision
+
+The decade that has passed since the 2005 West Virginia SWAP has witnessed profound landscape-and global-scale changes, such as shale gas development, that are affecting SGCN populations and habitats in the state. Because of the pace of such changes, many of them were only dimly recognized in 2005. If SWAP planning is to keep pace, the planning paradigm must evolve from the traditional model of expensive, complicated, and rapidly outdated 10-year revisions to a leaner, more dynamic model of continuous updates. SWAP's should be constantly re-evaluated and revised. Planners know that it is not the plan that is the most valuable product of any planning effort. It is the planning process itself. The inventory, assessment, pro-active thinking, and collaboration that are part of that process are the real drivers of progress. To that end, the WVDNR is changing its own SWAP planning paradigm to a continuous one. 
+
+## COMMENTS FROM THE LAND CONSERVATION COMMUNITY
+
+1. Excited about the incorporation of cutting edge science, such as climate change; the groups have limited resources to invest, so conservation activities must have focus. 2. Existence of Conservation Focus Areas (CFA) is a good approach; each land conservation group has a specific geographical area of focus, so they need to know what is important on the landscape within their areas of interest to better protect species/habitats. 3. The SWAP and CFA's give them a foundation to show the importance of conservation areas, which gives them the ability to elevate the importance of conservation and helps funding efforts. 4. The SWAP is statewide initiative that can provide funding for conservation; it prioritizes conservation needs which aids in making a case to the legislature or governor. 5. The need for pre-planning for development to avoid impacts is recognized. 6. The conservation community is in support of the WVDNR--they agree that the CFA's are important to protect the Natural Heritage of WV, and that the SWAP belongs to the people of WV. It creates a long-term conservation vision for the state, and can bring together many types of communities to promote conservation.
+
+## SWAP ALIGNMENT WITH PARTNERS -HOW CAN THE SWAP HELP YOU MEET YOUR GOALS?
+
+## TCF
+
+• Working with Farmland Protection Boards and agriculture groups • Have a grant to focus on improving water quality on farmland • NRCS focuses on species ("species" is scary word to the farmland community), so start a conversation with the farmland community regarding species protection • Farmland gets credit for rare species, but there is nothing to afford protection for the species and monitoring efforts • The expertise is lacking to move forward with species protection or management • Focus on habitats as opposed to species to perhaps ease the pain in some cases (or habitat with an indicator species) 
+
+[FIGURE: Photo: Developed Area at the National Conservation Training Site, Jefferson County]
+
+[FIGURE: s subterranean habitats include a spectacular assemblage of natural caves and underground passages mostly associated with karst topography. Karst is a distinctive topography characterized by sinkholes, caves, and springs, which is created by the dissolution of carbonate rock, primarily limestone and dolomite. When these soluble rocks dissolve they form fissures which carry water underground, leading to further dissolution and erosion which, over time, creates interconnected 2015 WV State Wildlife Action Plan]
+
+[FIGURE: Shale gas development is increasing most rapidly in the Western Allegheny Plateau, especially in the northwestern portion of the State. There may be some shale development in the Cumberland Mountains and northern Allegheny Mountains as well.Industrial wind energy development is most likely in the High Allegheny Mountains but may also occur in portions of the Cumberland Mountains and Ridge and Valley. (Note that the wind energy development model includes current infrastructure availability as a component, which may underestimate the likelihood of wind energy development in the Allegheny Mountains where there currently is less infrastructure in place.) development, the probability of significant population growth, and the probability of associated commercial and residential development, varies by location in the state. Population change through 2017, as modeled by ESRI using United States Bureau of Census data, is presented here to illustrate probable areas of commercial and residential development in the state. Population growth is expected to be most substantial in portions of the Ridge and Valley, north-central and western Western Allegheny Plateau, and northern and southern extremes of the Allegheny Mountains.]
+
+[FIGURE: Key WVDNR Partners: WVDEP, WVDOH, USFWS, USACOE, ORSANCO, Ohio River Basin Fish Habitat Partnership (ORBFHP), Marshall University, West Virginia Land Trust, numerous large corporate landowners along the Ohio River, local county planning commissions. • Public Lands: Chief Cornstalk, Greenbottom, and McClintic WMAs, ORINWR, and Johnson T.]
+
+[FIGURE: are being used to inform conservation actions Conservation Project/Activity Type: Outreach to Key Resource Users Description: Conducting outreach to individuals who are users of important fish and wildlife resources or wildlife habitats. Sample Actions: The following actions are examples of outreach to key resource users:]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[TABLE]
+*Table of Contents *
+
+| Executive Summary |  |
+| --- | --- |
+| List of Acronyms |  |
+| Chapter 1: | Background |
+| Chapter 2: |  |
+
+[/TABLE]
+
+[TABLE]
+* was substantial input from external experts into the selection of the 2015 Species of Greatest Conservation Need (SGCN) and habitats of greatest conservation concern. The 2005 SGCN list was reviewed by internal and external experts, state ranks were updated, and species were added to or subtracted from the 2015 list based on the most current data. External lists consulted included: 2015 WV State Wildlife Action Plan • The Northeast's Regional Species of Greatest Conservation Need list, • West Virginia Partners in Flight, • Appalachian Mountains Joint Venture, • Canaan Valley National Wildlife Refuge's Comprehensive Conservation Plan, • Ohio River Islands National Wildlife Refuge's Comprehensive Conservation Plan, • The Nature Conservancy, • WV Division of Forestry's Forest Resource Assessment and Forest Resource Strategy, and • U.S. Forest Service's Regional Forester's Sensitive Species (RFSS) list for the Monongahela National Forest.*
+
+|  | • Randy Tucker |
+| --- | --- |
+|  | • Rich Bailey |
+|  | • Ricky Doyle |
+|  | • Scott Warner |
+|  | • Sue Olcott |
+|  | • Walt Kordek |
+|  | • Whitney Bailey |
+|  | WVU Consulting Team |
+|  | • Paul Kinder |
+|  | • Rodney Bartgis |
+|  | • Steve Brown |
+| 2.4: | External Inputs to Plan Revision |
+| 2.4.1 | External Inputs to Species List |
+
+[/TABLE]
+
+[TABLE]
+* The Conservation Fund's Freshwater Institute United States Fish and Wildlife Service West Virginia Field Office, • United States Forest Service, George Washington and Jefferson National Forests, • United States Forest Service, Monongahela National Forest, • United States Natural Resource Conservation Service, • West Virginia Conservation Agency, • West Virginia Cooperative Fish and Wildlife Research Unit, • West Virginia Council Trout Unlimited, • West Virginia Division of Environmental Protection, • West Virginia Division of Forestry, • West Virginia Division of Highways, • West Virginia Entomological Society, • West Virginia Master Naturalist Program Steering Committee, • West Virginia Outdoor Heritage Conservation Fund, and • West Virginia University.*
+
+| 2015 WV State Wildlife Action Plan |
+| --- |
+| • Canaan Valley Institute, |
+| • Brooks Bird Club, |
+| • Oglebay Institute, |
+| • Oglebay Zoo, |
+| • Marshall University, |
+| • |
+
+[/TABLE]
+
+[TABLE]
+*• West Virginia 2005 Wildlife Conservation Action Plan, • West Virginia Division of Natural Resources' Natural Heritage Program, • United States Fish and Wildlife Service, • The World Conservation Union (IUCN list), • Northeast State Fish and Wildlife Technical Committee, • West Virginia Division of Natural Resources' Bird Atlas Project, • National Audubon Society, • Monongahela National Forest, • Jefferson and George Washington National Forests, • Pre-publication draft of the West Virginia Landsnail Atlas, • Cave Invertebrate data provided by Dr. David Culver, and • Northeast Partners in Amphibian and Reptile Conservation. Species were organized by taxonomic group into the following categories:*
+
+| • Amphibians |
+| --- |
+| • Birds |
+| • Butterflies and Moths |
+| • Cave Invertebrates |
+| • Crayfish |
+| • Dragonflies and Damselflies |
+| • Fish |
+| • Snails |
+| • Mammals |
+| • Mussels |
+| • Other Invertebrates |
+| • Reptiles |
+| • Tiger Beetles |
+
+[/TABLE]
+
+[TABLE:  Central and Southern Appalachian Mountain endemics include: Blackbellied Salamander (Desmognathus quadramaculatus), Black Mountain Salamander (D. welteri), Kentucky Spring Salamander (Gyrinophilus porphyriticus duryi), Green Salamander (Aneides aeneus), and Cumberland Plateau Salamander (Plethodon kentucki). Central Appalachian Mountain endemics include: Valley and Ridge Salamander (P. hoffmani), Cow Knob Salamander (P. punctatus), Shenandoah Mountain Salamander (P. virginia), and Wehrle's Salamander (Plethodon wehrlei). Two salamanders are endemic to West Virginia, West Virginia Spring Salamander (G. subterraneus) and Cheat Mountain Salamander (P. netting).]
+[TABLE:  Depending on the species affected, these pathogens can cause mass die-offs or target larval and juvenile stage amphibians. Both diseases are present in West Virginia. Another variation of chytrid fungus, Batrachochytrium salamandrivorans (Bsal), specifically affects salamanders. It is present in Europe and surveillance in North America is ongoing.]
+[TABLE:  The largest and most extensive populations tend to occur in areas with extensive forest cover.]
+
+[TABLE]
+* Falco peregrinus) was successfully reintroduced into West Virginia after having been extirpated by shooting and pesticide contamination. Originally it nested on cliffs, often in mountainous regions. However, it currently nests in West Virginia near water, including on man-made 2015 WV State Wildlife Action Plan structures and in urban settings. It remains unclear what its habitat usage over the long-term will be in West Virginia.*
+
+| Actitis macularius (Spotted Sandpiper) |
+| --- |
+| Anas rubripes (American Black Duck) |
+| Ardea herodias (Great Blue Heron) |
+| Bartramia longicauda (Upland Sandpiper) |
+| Botaurus lentiginosus (American Bittern) |
+| Butorides virescens (Green Heron) |
+| Circus cyaneus (Northern Harrier) |
+| Gallinago delicata (Wilson's Snipe) |
+| Haliaeetus leucocephalus (Bald Eagle) |
+| Ixobrychus exilis (Least Bittern) |
+| Lophodytes cucullatus (Hooded Merganser) |
+| Mergus merganser (Common Merganser) |
+| Pandion haliaetus (Osprey) |
+| Podilymbus podiceps (Pied-billed Grebe) |
+| Porzana carolina (Sora) |
+| Rallus limicola (Virginia Rail) |
+| Scolopax minor (American Woodcock) |
+| Other |
+| The Peregrine Falcon ( |
+
+[/TABLE]
+
+[TABLE]
+* Much of this habitat is protected on federal or state lands, but is threatened by climate change. Other threats include invasive species, development, and deer herbivory. Oak with Openings Although their habitat is common in West Virginia, these species are some of the most challenging to document because they are naturally rare and/or spend most of the time high in tree canopies. Surveys are required to update records.*
+
+| 2015 WV State Wildlife Action Plan |
+| --- |
+| Hadena ectypa (Starry Campion Moth) |
+| Lycaena hyllus (Bronze Copper) |
+| Staphylus hayhurstii (Hayhurst's Scallopwing) |
+| Mixed Mesophytic/Calycopis cecrops (Red-banded Hairstreak) |
+| Celastrina nigra (Dusky Azure) |
+| Celastrina serotina (Cherry Gall Azure) |
+| Cyllopsis gemma (Gemmed Satyr) |
+| Erora laeta (Early Hairstreak) |
+| Euchlaena milnei (Milne's Euchlaena Moth) |
+| Parrhasius m-album (White-m Hairstreak) |
+| Satyrium caryaevorus (Hickory Hairstreak) |
+
+[/TABLE]
+
+[TABLE:  These species are 2015 WV State Wildlife Action Plan susceptible to early spring insecticide use based on their life histories and include Olympia Marble, Columbine Duskywing, Hickory Hairstreak, Mottled Duskywing, Sweet Underwing, and Pine Barrens Underwing. Grizzled Skipper, Cobweb Skipper, and Silvery Blue have declined significantly; only one known colony (out of 11 historic records) of Grizzled Skipper persists in the state.]
+
+[TABLE]
+* High Elevation Streams and River Species Most occurances are reported on state or federal lands. Threats to these species include (in some areas) acid mine drainage and municipal pollutants.Western/Eastern (W,E) Streams and River Species Most of these species are found on highly altered and degraded river systems (Ohio, Kanawha, Potomac watersheds). Threats include mineral extraction (mountaintop mining, water withdrawal and degradation from horizontal drilling activities), channelization/shore manipulation, municipal/industrial pollution and others).Pond Species While most species use "generic ponds" some species have specific requirements such as the Swamp Darner (Epiaeschna heros) (ponds associated with soggy wood swamps) and the Duckweek Firetail (Telebasis byersi) (western ponds with duckweed).*
+
+| 2015 WV State Wildlife Action Plan 2015 WV State Wildlife Action Plan |
+| --- |
+| Epiaeschna heros (Swamp Darner) |
+| Dromogomphus spoliatus (Flag-tailed Spinyleg) W Ladona deplanata (Blue Corporal) |
+| Gomphus vastus (Cobra Clubtail) W,E Telebasis byersi (Duckweed Firetail) |
+| Helocordulia uhleri (Uhler's Sundragon) W,E Tramea carolina (Carolina Saddlebags) |
+| Hetaerina titia (Smokey Rubyspot) W Tramea onusta (Red Saddlebags) |
+| Aescha canadensis (Canada Darner) Macromia alleghaniensis (Allegheny River Cruiser) W,E |
+| Aeschna tuberculifera (Black-tipped Darner) Macromia illinoiensis (Swift River Cruiser) W,E |
+| Aeschna verticalis (Green Striped Darner) Macromia taeniolata (Royal River Cruiser) W,E |
+| Cordulia shurtleffi (American Emerald) Neurocordulia molesta (Smoky Shadowdragon) W |
+| Enallagma annexum (Northern Bluet) Neurocordulia obsoleta (Umber Shadowdragon) W |
+| Enallagma vernale (Vernal Bluet) Neurocorduklia yamaskenensis (Stygian Shadowdragon) W,E |
+| Epitheca canis (Beaverpond Baskettail) Ophiogomphus incurvatus alleghaniensis (Appalachian Snaketail) Mercer Co |
+| Lestes disjunctus (Northern Spreadwing) Ophiogomphus rupinsulensis (Rusty Snaketail) E |
+| Lestes inaequalis (Elegant Spreadwing) Progomphus obscurus (Common Sanddragon) W |
+| Leucorrhinia glacialis (Crimson-ringed Whiteface) Stylurus notatus (Elusive Clubtail) W |
+| Leucorrhinia hudsonica (Hudsonian Whiteface) Stylurus plagiatus (Russet-tipped Clubtail) W,E |
+| Libellula axilena (Bar-winged Skimmer) Stylurus spiniceps (Arrow Clubtail) W, E |
+| Libellula flavida (Yellow-sided Skimmer) |
+| Nehalennia gracilis (Sphagnum Sprite) Forested Seeps and Streamlet Species |
+| Rhionaeschna mutata (Spatterdock Darner) These species occur statewide outside of the mountains. Threats include local impacts from timber |
+| Somatochlora elongata (Ski-tipped Emerald) harvesting, development, and degradation from horizontal drilling activities. |
+| Somatochlora forcipata (Forcipate Emerald) |
+| Sympetrum obtrusum (White-faced Meadowhawk) Cordulegaster erronea (Tiger Spiketail) |
+| Cordulegaster obliqua (Arrowhead Spiketail) |
+| Somatochlora linearis (Mocha Emerald) |
+| Tachopteryx thoreyi (Gray Petaltail) |
+| Well Vegetated or Marshy Pond Species |
+| Calopteryx amata (Superb Jewelwing) These species occur in mature ponds with well-developed shoreline and emergent vegetation. Threats |
+| Calopteryx angustipennis (Appalachian Jewelwing) include gentrification ("cleaning up" ponds) and siltation. |
+| Gomphus abbreviatus (Spine-crowned Clubtail) |
+| Gomphus aldelphus (Moustached Clubtail) Celithemis fasciata (Banded Pennant) |
+| Gomphus descriptus (Harpoon Clubtail) Enallagma antennatum (Rainbow Bluet) |
+| Gomphus fraternus (Midland Clubtail) Enallagma vesperum (Vesper Bluet) |
+| Gomphus lineatifrons (Splendid Clubtail) Lilypad Forktail (Ischnura kellcotti) |
+| Gomphus quadricolor (Rapids Clubtail) Lestes australis (Southern Spreadwing) |
+| Gomphus rogersi (Sable Clubtail) Lestes forcipatus (Sweetflag Spreadwing) |
+| Gomphus viridifrons (Green-faced Clubtail) Sympetrum ambiguum (Blue-faced Meadowhawk) Sympetrum internum (Cherry-faced Meadowhawk) |
+| Lanthus parvulus (Northern Pygmy Clubtail) |
+| Lanthus vernalis (Southern Pygmy Clubtail) Fishless Pond Species |
+| Ophiogomphus carolus (Riffle Snaketail) Threats include the introduction of predatory fish to fishless ponds. |
+| Ophiogomphus mainensis fastigiatus (Maine Snaketail) |
+| Stylurus scudderi (Zebra Clubtail) Anax longipes (Comet Darner) |
+
+[/TABLE]
+
+[TABLE]
+* Ridge and Valley -Small to Large Streams and Small River Species of Potomac River Basin Currently found only in the Opequon Creek and Shenandoah River drainages within West Virginia.*
+
+| 2015 WV State Wildlife Action Plan |
+| --- |
+| Percina notogramma (Stripeback Darter) |
+| Ichthyomyzon bdellium (Ohio Lamprey) |
+| Ichthyomyzon unicuspis (Silver Lamprey) |
+| Ichthyomyzon fossor (Northern Brook Lamprey) Cyprinella analostana (Satinfin Shiner) |
+| Ichthyomyzon greeleyi (Mountain Brook Lamprey) Notropis amoenus (Comely Shiner) |
+| Notropis ariommus (Popeye Shiner) Notropis procne (Swallowtail Shiner) |
+| Noturus stigmosus (Northern Madtom) Luxilus cornutus (Common Shiner) |
+| Cycleptus elongates (Blue Sucker) Etheostoma olmstedi (Tessellated Darter) |
+| Ameiurus melas (Black Bullhead) |
+| Ammocrypta pellucida (Eastern Sand Darter) Potomac River Basin -Large River Species |
+| Ammocrypta clara (Western Sand Darter) Found in large stream and river habitats of the Ridge and Valley. |
+| Crystallaria cincotta (Diamond Darter) |
+| Etheostoma maculatum (Spotted Darter) Moxostoma macrolepidotum (Shorthead Redhorse) |
+| Etheostoma tippecanoe (Tippecanoe Darter) Percina peltata (Shield Darter) |
+| Percina macrocephala (Longhead Darter) |
+| Non-grouped species |
+| Western Appalachian Plateau -Small Stream Species of the Ohio River Basin Do not classify with any particular grouping or across multiple groups |
+| Found in warm to cold small streams of the Appalachian Plateau. |
+| Anguilla rostrata (American Eel) |
+| Clinostomus elongatus (Redside Dace) Salvelinus fontinalis (Brook Trout) |
+| Lythrurus umbratilis (Redfin Shiner) |
+| Lepomis humilis (Orangespotted Sunfish) |
+| Appalachian Plateau and Ridge and Valley -New River Species of the Ohio River Basin |
+| Found in high elevation small rivers and streams; usually restricted to cool to cold streams. |
+| Notropis scabriceps (New River Shiner) |
+| Exoglossum laurae (Tonguetied Minnow) |
+| Phenacobius teretulus (Kanawha Minnow) |
+| Etheostoma osburni (Candy Darter) |
+| Percina gymnocephala (Appalachia Darter) |
+| Ridge and Valley -High Volume Spring Obligate Species of the New and Potomac Rivers |
+| Found in high volume springs in Karst Regions. |
+| Margariscus margarita (Allegheny Pearl Dace) |
+| Cottus sp. cf. carolinae (Buckeye Creek Cave Sculpin) |
+| Cottus sp. cf. carolinae (Bluestone Sculpin) |
+| Cottus sp. cf. cognatus (Checkered Sculpin) |
+| Cottus kanawhae (Kanawha Sculpin) |
+| Ridge and Valley -Small James River Tributary Species |
+| Found in small Chesapeake Bay streams of Monroe County. |
+| Lythrurus ardens (Rosefin Shiner) |
+| Etheostoma longimanum (Longfin Darter) |
+
+[/TABLE]
+
+[TABLE:  Species extirpated from the state are American Bison (Bison bison), Elk (Cervus canadensis), Gray Wolf (Canus lupus), and Eastern Cougar (Felis concolor cougar). The last recorded Bison in West Virginia was killed near Valley Head, Randolph County, in 1825. Elk were reported near the headwaters of the Tygart and Greenbrier rivers as late as 1875 and were gone by 1890. Bounties were paid on wolves in West Virginia through the late 1800s, with the last recorded wolf killed in 1900. The last report of an indigenous Eastern Cougar was of tracks observed in the 1930s. Although sightings continue, these animals may have been brought into the state and released, as was demonstrated for two cougars obtained by the WVDNR in 1976. The Beaver (Castor canadensis), Fisher (Martes pennanti), and River Otter (Lontra canadensis) were also eradicated, but were reintroduced in the 1930s, 1969, and 1985, respectively. The WVDNR is currently planning to reintroduce Elk into the state's southwestern counties.Seven non-native mammal species have taken up residence in West Virginia. These are the House Mouse (Mus musculus), Norway or Roof Rat (Rattus norvegicus), Black Rat (Rattus rattus), feral dog (Canis familiaris), Wild Boar (Sus scrofa), feral cat (Felis catus), and feral goat (Capra aegagrus). The Black Rat, Norway Rat, and House Mouse all came to North America with early settlers and traders. Dogs, cats and goats that wandered off or were abandoned have established feral populations in portions of the state. Wild Boar were introduced into the state in 1972. Today a population of Wild Boar exists in Boone, Logan, Raleigh and Wyoming counties.]
+
+[TABLE]
+*statewide but utilize open habitats which were never common in West Virginia Northern Hardwood Forest Species This group includes high elevation species associated with Red Spruce/Northern Hardwood Forests. Much of this habitat is on the Monongahela National Forest. The current extent of these forest types is much less than their historic range and efforts are underway to restore and enhance Red Spruce Forests. The vast majority of the range of the West Virginia Northern Flying Squirrel (Glaucomys sabrinus fuscus), which is a Central Appalachian endemic, is found in West Virginia, and the survival of this squirrel depends on maintaining West Virginia's Red Spruce Forests. Boreal habitats in West Virginia contribute heavily to the conservation of these species in the central and southern Appalachian Mountains. . Threats include habitat degradation and loss of habitat to development. While these species are rare in West Virginia, West Virginia's contribution to the conservation of many of these species may not be large. However, populations in West Virginia at the edge of the species' range may contribute to genetic diversity.*
+
+| 2015 WV State Wildlife Action Plan 2015 WV State Wildlife Action Plan |
+| --- |
+| Lasiurus seminolus (Seminole Bat) |
+| Myotis leibii (Eastern Small-footed Bat) |
+| Myotis lucifugus (Little Brown Bat) |
+| Myotis septentrionalis (Northern Myotis = Northern Long-eared Bat) |
+| Myotis sodalis (Indiana Bat) |
+| Perimyotis subflavus (Tricolored Bat) |
+| Talus/Boulder Field/Cliff Species (may also use caves to some extent) |
+| These species utilize rocky habitats such as cracks and fissures in rock outcroppings or in talus areas and |
+| boulder fields. Threats include habitat disturbance, parasites (Allegheny Woodrat), and habitat |
+| fragmentation. |
+| Neotoma magister (Allegheny Woodrat) |
+| Spilogale putorius (Spotted Skunk) |
+| Sorex dispar (Long-tailed Shrew) |
+| Myotis leibii (Eastern Small-footed Bat) |
+| Erethizon dorsatum (Porcupine) |
+| Red Spruce/Glaucomys sabrinus fuscus (West Virginia Northern Flying Squirrel) |
+| Microtus chrotorrhinus carolinensis (Southern Rock Vole) Central Appalachian endemic |
+| Sorex palustris punctatus (Southern Water Shrew) Central Appalachian endemic |
+| Lepus americanus (Snowshoe Hare) |
+| Grassland/Meadow/Scrubland Species |
+| These species occur Cryptotis parva (Least Shrew) |
+| Microtus ochrogaster (Prairie Vole) |
+| Ochrotomys nuttalli (Golden Mouse) |
+| Synaptomys cooperi (Southern Bog Lemming) |
+| Zapus hudsonius (Meadow Jumping Mouse) |
+| Big-eared Bat = Rafinesque's Big-eared Bat) Reithrodontomys humulis (Eastern Harvest Mouse) |
+| Corynorhinus townsendii virginianus (Virginia Big-eared Bat) |
+| Lasiurus borealis (Eastern Red Bat) |
+| Lasiurus cinereus (Hoary Bat) |
+
+[/TABLE]
+
+[TABLE]
+* theorized that the Potomac and other Atlantic Slope watersheds have been isolated from the Ohio Watershed populations for thousands of generations. The Creeper (Strophitus undulatus) cross watershed occurrence may be more related to human introductions from stocking of host fish infested with larval mussels as it is not common in the mountain headwater streams of the Ohio River Watershed.*
+
+| Obovaria olivaria (Hickorynut) |
+| --- |
+| Obovaria subrotunda (Round Hickorynut) |
+| Plethobasus cyphyus (Sheepnose) |
+| Pleurobema clava (Clubshell) |
+| Pleurobema cordatum (Ohio Pigtoe) |
+| Pleurobema sintoxia (Round Pigtoe) |
+| Ptychobranchus fasciolaris (Kidneyshell) |
+| Pyganodon grandis (Giant Floater) |
+| Quadrula cylindrica (Rabbitsfoot) |
+| Quadrula metanevra (Monkeyface) |
+| Quadrula pustulosa (Pimpleback) |
+| Quadrula quadrula (Mapleleaf) |
+| Simpsonaias ambigua (Salamander Mussel) |
+| Strophitus undulatus (Creeper) |
+| Toxolasma parvus (Lilliput) |
+| Tritogonia verrucosa (Pistolgrip) |
+| Truncilla donaciformis (Fawnsfoot) |
+| Truncilla truncata (Deertoe) |
+| Uniomerus tetralasmus (Pondhorn) |
+| Ohio River Watershed Villosa fabalis (Rayed Bean) |
+| Actinonaias ligamentina (Mucket) Villosa iris (Rainbow) |
+| Alasmidonta marginata (Elktoe) Villosa lienosa (Little Spectaclecase) |
+| Amblema plicata (Threeridge) |
+| Anodontoides ferussacianus (Cylindrical Papershell) Potomac Watershed |
+| Cumberlandia monodonta (Spectaclecase) Alasmidonta undulata (Triangle Floater) |
+| Cyclonaias tuberculata (Purple Wartyback) Alasmidonta varicosa (Brook Floater) |
+| Cyprogenia stegaria (Fanshell) Elliptio complanata (Eastern Elliptio) |
+| Ellipsaria lineolata (Butterfly) Elliptio fisheriana (Northern Lance) |
+| Elliptio crassidens (Elephant-ear) Lampsilis cariosa (Yellow Lampmussel) |
+| Elliptio dilatata (Spike) Lampsilis radiata (Eastern Lampmussel) |
+| Epioblasma torulosa rangiana (Northern Riffleshell) Lasmigona subviridis (Green Floater) |
+| Epioblasma triquetra (Snuffbox) Pyganodon cataracta (Eastern Floater) |
+| Fusconaia ebena (Ebonyshell) Strophitus undulatus (Creeper) |
+| Fusconaia flava (Wabash Pigtoe) |
+| Fusconaia subrotunda (Long-solid) James River Watershed |
+| Lampsilis abrupta (Pink Mucket Pearly Mussel) Pleurobema collina (James Spinymussel) |
+| Lampsilis cardium (Plain Pocketbook) Strophitus undulatus (Creeper) |
+| Lampsilis fasciola (Wavy-rayed Lampmussel) |
+| Lampsilis ovata (Pocketbook) |
+| Lampsilis teres (Yellow Sandshell) |
+| Lasmigona complanata (White Heelsplitter) |
+| Lasmigona compressa (Creek Heelsplitter) |
+| Lasmigona costata (Fluted-shell) |
+| Lasmigona subviridis (Green Floater) |
+| Leptodea fragilis (Fragile Papershell) |
+| Ligumia recta (Black Sandshell) |
+| Megalonaias nervosa (Washboard) |
+| Obliquaria reflexa (Threehorn Wartyback) |
+
+[/TABLE]
+
+[TABLE]
+*• Many other legacy impacts destroyed mussel populations, from selective species to entire streams. Restoration efforts should continue to restore these populations if water quality and habitat permits. SGCN Summary Falls area of the Kanawha River. Restoration work with this species is ongoing. The James Spinymussel only occurs within West Virginia and Virginia within the James River Watershed. A small population occurs in West Virginia within the Potts Creek Watershed. This population continues to be threatened by agricultural activities and more recently the location for a proposed large natural gas transmission line.*
+
+| 2015 WV State Wildlife Action Plan 2015 WV State Wildlife Action Plan |
+| --- |
+| West Virginia's SGCN list for mussels includes 53 species, with 27 considered Priority 1. West Virginia has |
+| nine other extant federally endangered mussel species, the Pink Mucket Pearly Mussel, James |
+| Spinymussel, Fanshell, Northern Riffleshell, Clubshell, Snuffbox, Rayed Bean, Spectaclecase, and |
+| Sheepnose. One federally endangered species, Rabbitsfoot, is currently believed to be extirpated. It was |
+| placed on the SGCN as a Priority 2 species since there is potential for restoration efforts to occur over |
+| the next 10 year period. As previously mentioned, the Grean Floater is found in both the Potomac and |
+| Ohio River watersheds. These two populations are genetically significant, and West Virginia by far |
+| maintains the best population of the Ohio River Watershed form. The USFWS has been petitioned to list |
+| several mussel species. The Green Floater is one of these and several others also occur in West Virginia. |
+| All G1 to G3 species that occur in West Virginia are listed as Priority 1 species except for the Rabbitsfoot. |
+| Two G1 species occur in West Virginia (Fanshell and James Spinymussel). West Virginia has two viable |
+| populations of the Fanshell, one on the Ohio River within the Belleville Pool and one within the Kanawha |
+
+[/TABLE]
+
+[TABLE]
+* . Native species are those that were present here prior to European settlement. The remaining 25% includes species that are adventive to West Virginia (native to North America, but moved into West Virginia after European settlement) and exotic species (species not native to North America). Almost all bryophytes known in West Virginia are considered native to the state (S.Studlar, pers. comm.).*
+
+| 2015 WV State Wildlife Action Plan |
+| --- |
+| exotic species were introduced following European settlement; most of these are concentrated in areas |
+| that are disturbed by human activities. |
+| The unglaciated Appalachians have a rich endemic flora. Many Southern Appalachian endemics, |
+| including Spotted Mandarin (Disporum maculatum), Southern Mountain Cranberry (Vaccinium |
+| erythrocarpum), and Cliff Saxifrage (Saxifraga michauxii), reach the northern limit of their range in West |
+| Virginia. A smaller number of West Virginia species, such as Kates Mountain Clover (Trifolium |
+| virginicum) and Shale Barren Onion (Allium oxyphilum), are endemic to the Central Appalachians. |
+| Plant distribution can also be described in terms of habitats. Most plants are quite specific in their |
+| habitat requirements. The co-occurrence of plants in similar habitats forms the basis for plant |
+| community ecology and vegetation classification. Dominant and common plants that characterize |
+| particular habitats are listed in the terrestrial habitat descriptions in this plan. Habitats of all plant SGCN |
+| are listed in Appendix 2. All West Virginia terrestrial habitats support some plant SGCN, but some |
+| habitats host exceptionally high diversity in relatively small areas. Habitats with particularly high |
+| numbers and concentrations of plant SGCN include Shale Barrens; High Allegheny Wetlands; River |
+| Floodplains; Dry Calcareous Oak Forests, Woodlands, and Glades; and Small Stream Riparian Habitats. |
+| Distribution |
+| West Virginia is lush green. Plants dominate nearly all our terrestrial habitats and are an important |
+| component of many aquatic habitats. Hundreds of plant species are very common and occur in every |
+| county of the state, but most species are less common and have a more limited distribution. The known |
+| county distribution of West Virginia's vascular plants is presented in the Checklist and Atlas of the |
+| Vascular Flora of West Virginia (Harmon et al. 2006), which is available as a download from the WVDNR |
+| website (www.wvdnr.gov). Detailed spatial and tabular information on occurrences of plant SGCN is |
+| maintained by WVDNR's Natural Heritage Program in the Biotics database. |
+| The distribution of plants in West Virginia is a complex and fascinating topic involving evolution and |
+| migration in response to geologic and human history. Plant migration (unaided by humans) is typically |
+| very slow, so modern plant distributions reflect combined conditions and events long past. Some |
+| examples illustrate the seemingly contradictory patterns of plant distribution in West Virginia. Tuliptree |
+| (Liriodendron tulipifera ) and Jack-in-the-pulpit (Arisaema triphyllum), species of Mixed Mesophytic |
+| Forests, are part of an ancient Tertiary flora that once ranged across Pangaea, but now remains in two |
+| widely disjunct areas centered in the Appalachians and eastern China. Shale Barren Buckwheat |
+| (Eriogonum allenii) and Chestnut Lipfern (Cheilanthes eatonii), species of dry habitats in eastern West |
+| Virginia, have closest relatives in the arid West, suggesting a different evolutionary connection. Balsam |
+| Fir (Abies balsamea) and Threeleaf Goldthread (Coptis trifolia), species that occur in West Virginia only |
+| in some High Allegheny Wetlands, have a more abundant distribution further north; they were left |
+| behind as the species migrated north following the retreat of glaciers. In contrast, Catawba |
+| Rhododendron (Rhododendron catawbiense) and Mountain Silverbell (Halesia tetraptera) migrated into |
+| the state from the south through the gorge of the north-flowing New River. More recently, hundreds of |
+
+[/TABLE]
+
+[TABLE:  enter West Virginia. A strategic plan and guidelines for addressing invasive species in West Virginia was recently published(Bailey 2014) and is available on the WVDNR website.The primary threats to plant SGCN involve elimination and degradation of natural habitats. Most plant SGCN grow in relatively rare habitats or are confined to high quality or unusual examples of more common habitats. Many plant SGCN have difficulty spreading across roads and developed areas, are perennials that reproduce at an older age, have highly specialized symbiotic relationships with soil fungi, pollinators, and/or seed dispersers, or require highly specialized microhabitat features for successful germination and growth. As a result, they tend to be least vulnerable when occurring in areas of extensive suitable habitat or in patches of suitable habitat embedded in larger areas of unfragmented forest. Conservation efforts to identify and preserve these habitats will benefit both plant and animal residents of these wild communities.Plants are particularly threatened by climate change because they have slow rates of migration. Plant SGCN occurring at high elevations near the southernmost extent of their global distribution are at particular risk. However, our state's extensive public lands, topographic complexity, and relatively intact forests at high elevations may help mitigate these threats of climate change.]
+
+[TABLE]
+* Terrestrial SnakesThis group includes species that occur in specific habitats or have very distinct life histories. Threats vary according to the species but generally include habitat loss, degradation, and fragmentation, commercial exploitation, persecution, injurous/invasive species (cats), and urbanization.*
+
+| 2015 WV State Wildlife Action Plan |
+| --- |
+| Opheodrys aestivus aestivus (Rough Greensnake) |
+| Regina septemvittata (Queen Snake) |
+| Pituophis melanoleucus melanoleucus (Northern Pinesnake) |
+| Virginia valeriae valeriae (Eastern Earthsnake) |
+| Carphophis amoenus amoenus (Wormsnake) |
+| Agkistrodon contortrix mokasen (Northern Copperhead) |
+| Diadophis punctatus edwardsii (Northern Ring-necked Snake) |
+| Coluber constrictor constrictor (Northern Black Racer) |
+| Pantherophis guttatus (Red Cornsnake) |
+| Heterodon platirhinos (Eastern Hog-nosed Snake) |
+| Aspidoscelis sexlineata sexlineata (Eastern Six-lined Racerunner) |
+| Scincella lateralis (Little Brown Skink) |
+| Plestiodon anthracinus anthracinus (Northern Coal Skink) |
+| Plestiodon laticeps (Broad-headed Skink) |
+
+[/TABLE]
+
+[TABLE]
+* Gastropods groupings are largely based on habitats where the species are found. Some species may fall into multiple categories if they occur in a diverse array of habitat types. A few species listed as "Other Terrestrial Gastropods" have very specific habitat associations or very limited distributions in West Virginia. The largest category is that of Forest Snails. A large number of species occur in forested habitats, but for most species, specific microhabitats within the forests are not well known. Some species are usually found in the leaf litter, while others are often found under rocks and logs. Certain species are mostly restricted to calcium rich habitats; other species occur in a wide variety of forests, but occur in the greatest densities at calcium-rich sites. Still other species seek moist areas, such as seeps, within forested settings. Snails Found in Forest Habitats (in leaf litter or associated with logs or rocks) Triodopsis platysayoides (Flat-spired Three-toothed Land Snail = Cheat Threetooth) (Restricted to rock outcrops in Cheat Canyon, Monongahela and Preston counties) Vertigo cristata (In West Virginia, known only from Ice Mountain, Hampshire County) Webbhelix multilineata (In West Virginia, known from Cranesville Swamp, Preston County, and islands in the Ohio River)*
+
+| 2015 WV State Wildlife Action Plan 2015 WV State Wildlife Action Plan 2015 WV State Wildlife Action Plan |
+| --- |
+| Polygyratus virginianus Vertigo elatior Paravitrea ceres |
+| Triodopsis juxtidens robinae Vertigo milium Paravitrea pontis |
+| Triodopsis species * Paravitrea reesei |
+| Paravitrea seradens |
+| Species Groupings Paravitrea subtilis |
+| Anguispira kochi Philomycus virginicus |
+| Anguispira mordax Punctum blandianum |
+| Anguispira stihleri Punctum smithi |
+| Anguispira strongylodes Punctum vitreum |
+| Carychium exiguum Stenotrema barbatum Aquatic Snails (non-cave species) |
+| Carychium nannodes Stenotrema edvardsi Leptoxis dilatata |
+| Discus catskillensis Stenotrema macgregori Lithasia armigera |
+| Discus whitneyi Stenotrema simile Somatogyrus pennsylvanicus |
+| Euchemotrema leai Striatura exigua |
+| Euconulus polygyratus Striatura ferrea |
+| Gastrocopta holzingeri Striatura milium |
+| Gastrocopta procera Triodopsis anteridon |
+| Gastrocopta tappaniana Triodopsis picea |
+| Gastrodonta fonticula Triodopsis platysayoides |
+| Gastrodonta interna Triodopsis rugosa |
+| Glyphyalinia cumberlandiana Triodopsis tennesseensis |
+| Glyphyalinia lewisiana Triodopsis vulgata |
+| Glyphyalinia picea Vallonia perspectiva |
+| Glyphyalinia praecox Vallonia pulchella |
+| Triodopsis juxtidens robinae Glyphyalinia raderi Ventridens acerra |
+| Triodopsis sp. 1 Glyphyalinia rimula Ventridens arcellus |
+| Glyphyalinia solida Ventridens coelaxis |
+| Snails of Open Wetland Habitats Glyphyalinia sp 1. Ventridens collisella |
+| Glyphyalinia virginica Ventridens lasmodon |
+| Catinella vermeta Hawaiia alachuana Ventridens lawae |
+| Discus whitneyi Helicodiscus shimeki Ventridens suppressus |
+| Nesovitrea electrina Helicodiscus triodus Ventridens theloides |
+| Vertigo elatior Hendersonia occulta Ventridens virginicus |
+| Vertigo milium Inflectarius inflectus Vertigo clappi |
+| Anguispira stihleri * Vertigo ovata Inflectarius rugeli Vertigo elatior |
+| Glyphalinia species (West Virginia Glyph) *(Glyphyalinia virginica) Vertigo ventricosa Lucilla scintilla Vertigo milium |
+| Helicodiscus diadema Vitrina angelicae Lucilla singleyana Vertigo oscariana |
+| Helicodiscus lirellus Mesodon aff. andrewsae Vertigo ovata |
+| Helicodiscus triodus Snails of Dry Open Habitats Mesodon clausus Vertigo parvula |
+| Helicodiscus villosus * Mesodon mitchellianus Vertigo tridentata |
+| Mesodon aff. andrewsae * Inflectarius inflectus Mesodon normalis Vertigo ventricosa |
+| Mesomphix luisant * Patera laevior Mesomphix capnodes Zonitoides elliotti |
+| Paravitrea ceres Patera pennsylvanica Mesomphix perlaevis |
+| Paravitrea mira Pupoides albilabris Mesomphix rugeli Other Terrestrial Snails |
+| Paravitrea septadens Triodopsis fallax Mesomphix sp. 1 |
+| Paravitrea subtilis Triodopsis hopetonensis Nesovitrea electrina Anguispira clarki |
+| Patera sp. (Shale Bladetooth) * Vallonia costata Oxyloma retusum |
+| Philomycus bisdosus Vallonia excentrica Paravitrea bellona |
+
+[/TABLE]
+
+[TABLE]
+* Comprehensive work on pollinators in West Virginia is lacking. Currently at least 303 species of bees are documented from the state (Discover Life 2015, McKinney 2015 -pers. comm.,Williams et al. 2014). The number of species of other pollinators is unknown, but includes members of the families listed below (Xerces Society 2011).*
+
+| Order | Family |
+| --- | --- |
+| Lepidoptera | Hesperiidae, Papilionidae, Nymphalidae, Pieridae, Lycaenidae |
+
+[/TABLE]
+
+[TABLE]
+* Pollinators were not treated in West Virginia's 2005 Conservation Wildlife Action Plan, except that Lepidoptera were mentioned as occasional pollinators. The state's need in regard to pollinators is to identify important taxa and to determine their status in the state through research of existing collections and state surveys. No species are listed as SGCN by West Virginia due to a lack of knowledge.*
+
+|  |  | 2015 WV State Wildlife Action Plan |  |
+| --- | --- | --- | --- |
+| SPECIES SUMMARY BY TAXA AND PRIORITY 3.3: Habitats |  |  |  |
+| TAXA 3.3.1: | Terrestrial Habitats | PRIORITY 1 SPECIES | PRIORITY 2 SPECIES |
+| Amphibians |  | 18 |  |
+| Birds |  | 39 |  |
+| Butterflies and Moths |  | 30 |  |
+| Cave Invertebrates |  | 75 |  |
+| Crayfish |  | 10 | 2 |
+| Dragonflies and Damselflies |  | 25 |  |
+| Fish |  | 37 |  |
+| Mammals |  | 15 |  |
+| Mussels |  | 27 |  |
+| Other Invertebrates |  | 1 |  |
+| Plants |  | 121 | 361 |
+| Reptiles |  | 17 |  |
+| Snails |  | 20 |  |
+| Tiger Beetles |  | 5 | 8 |
+| Totals |  | 440 | 703 |
+
+[/TABLE]
+
+[TABLE:  . For each habitat we list the corresponding Ecological Systems or NLCD map classes. For each natural habitat we provide a table of USNVC Associations that are known to occur in that habitat in West Virginia. Global and State Conservation Status Ranks (Master et al. 2012, Faber-Langendoen et al. 2012) listed for each Association are a measure of rarity and imperilment ranging from 1 (critically imperiled) to 5 (secure). Additional information on individual Ecological Systems and Associations is available on NatureServe's Explorer web application (NatureServe 2015).]
+
+[TABLE]
+* New and Gauley rivers. Many rivers across the state have cliff-lined valleys where they bisect resistant sandstone formations. Boulder fields, both open and wooded, are concentrated in the Ridge and Valley Ecoregion. Near level peri-glacial boulderfields are restricted to the highest elevations in the Allegheny Mountains and Ridge and Valley ecoregions. Rock houses are scattered in small drainages in the Cumberland Mountains and Western Allegheny Plateau ecoregions. Several United States National Vegetation Classification (USNVC) associations have been identified in the state but many occurrences are not yet classified.*
+
+| USNVC Association Scientific Name | Code | G Rank | S Rank |
+| --- | --- | --- | --- |
+| Asplenium montanum Central Appalachian Sandstone Sparse Vegetation | CEGL004391 | GNR | S2 |
+| Lasallia (papulosa, pensylvanica) -Dimelaena oreina -(Melanelia culbersonii) | CEGL004142 | G5 | S3 |
+| Nonvascular Vegetation |  |  |  |
+| Appalachian -Alleghenian Sandstone Dry Cliff Sparse Vegetation | CEGL006435 | G4Q | S2 |
+| Umbilicaria mammulata Nonvascular Vegetation | CEGL004387 | G4? | S2 |
+| Umbilicaria mammulata Nonvascular Vegetation | CEGL004387 | G4? | S3 |
+| Betula lenta -Quercus prinus / Parthenocissus quinquefolia Woodland | CEGL006565 | G4 | S3 |
+| Umbilicaria muehlenbergii -Lasallia papulosa -(Melanelia stygia) Nonvascular | CEGL004389 | G2? | S2 |
+| Vegetation |  |  |  |
+| Betula alleghaniensis / Sorbus americana -Acer spicatum / Polypodium appalachianum | CEGL008504 | G2 | S2 |
+| Forest |  |  |  |
+| Tilia americana -Fraxinus americana / Acer pensylvanicum -Ostrya virginiana / | CEGL008528 | G3 | S1 |
+| Parthenocissus quinquefolia -Impatiens pallida Woodland |  |  |  |
+
+[/TABLE]
+
+[TABLE]
+* Known limestone cliffs in West Virginia are restricted to the Ridge and Valley and Allegheny Mountains ecoregions. Mapping is based on Ferree and Anderson (2013); areas of Calcareous Cliffs and Talus mapped in the Western Allegheny Plateau Ecoregion have not been substantiated by field surveys and are more likely to be acidic. Three state and globally rare USNVC associations have been identified in West Virginia, but most vegetation plots have not yet been attributed to association.*
+
+| USNVC Association Scientific Name | Code | G Rank | S Rank |
+| --- | --- | --- | --- |
+| Cystopteris bulbifera -(Asplenium rhizophyllum) Sparse Vegetation | CEGL004394 G3G4 |  | S2 |
+| Thuja occidentalis / Carex eburnea -Pellaea atropurpurea Woodland | CEGL002596 G2G3 |  | S2 |
+| Tilia americana var. heterophylla -Aesculus flava -Acer saccharum / Cystopteris bulbifera | CEGL006472 G3G4 |  | S1 |
+| -Asarum canadense Forest |  |  |  |
+| Undescribed lichen dominated dry limestone cliff |  |  | S2 |
+
+[/TABLE]
+
+[TABLE]
+* Table Mountain Pine (Pinus pungens), Virginia Pine (Pinus virginiana), and Red Pine (Pinus resinosa). Oaks are sometimes codominant. Trees are often stunted and stand physiognomy is sometimes dwarf forest with canopy less than 16 feet tall. The understories are usually dominated by dense heath shrubs including Mountain Laurel (Kalmia latifolia), blueberries (Vaccinium spp.), and Black Huckleberry (Gaylussacia baccata). The herb layer is typically sparse and has low diversity. This habitat type also includes sandstone glades with high exposure of bedrock pavement with scattered, dwarfed trees, including pines and Eastern Red Cedar (Juniperus virginiana). Short Mountain WMA, Lost River State Park, Monongahela National Forest (North Fork Mountain, including Red Pine on Pike Knob), George Washington National Forest (Halfmoon Mountain), Greenland Gap (TNC).*
+
+| Places to See and Visit: |  |  |  |
+| --- | --- | --- | --- |
+| Similar USNVC Association Scientific Name | Code | G Rank | S Rank |
+| Pinus (pungens, rigida) -Quercus prinus / (Quercus ilicifolia) / Gaylussacia baccata | CEGL004996 | G4 | S3 |
+| Woodland |  |  |  |
+| Pinus resinosa / Menziesia pilosa / Polypodium appalachianum Forest | CEGL006108 | G1 | S1 |
+| Pinus rigida -Quercus prinus / Gaylussacia baccata / Carex pensylvanica Woodland | CEGL004821 | GNR | S1 |
+| Undescribed sandstone glades |  |  | S1 |
+
+[/TABLE]
+
+[TABLE]
+*and Abundance of Characteristic and Rare Associations: but a smaller subset of communities occurs on calcareous shale. An open stand structure and short canopy is maintained by drought stress to trees, compounded by continual erosion of the bare shale substrate. The most common trees are Virginia Pine and Chestnut Oak, with lesser amounts of Red Oak (Quercus rubra), Pignut Hickory (Carya glabra), and Eastern Red Cedar. The herb layer is often diverse and includes a distinct assemblage of herbs called "shale barren endemics," which occur nowhere else in the world.Somewhat less dry forests dominated by oaks with scattered pines, or codominated by oaks and Eastern White Pine, are included in Dry Oak (-Pine) Forest. Small patches in the Western Allegheny Plateau and Cumberland Mountains ecoregionsdominated or codominated by Virginia Pine or Eastern Red Cedar are included in Dry Oak (-Pine) Forest. Very dry woodlands and forests dominated by pines on sandstone in the eastern counties are included in Pine -Oak Rocky Woodland.Shale Barrens are confined to the Ridge and Valley Ecoregion and the Greenbrier Valley of the Allegheny Mountains Ecoregion. Shale Barrens have been intensively studied, especially sites which host the federally listed endangered Shale Barren Rockcress, but their extent is incompletely known in remote areas and on private lands. Mapping of West Virginia Shale Barrens is conservative; only known occurrences are mapped. Mapping based on ecological modeling has tended to overestimate the area, but mapping only known occurrences probably misses many occurrences. Shale Barrens in West Virginia include four globally rare associations.*
+
+| Similar Habitats: |  |  |  |
+| --- | --- | --- | --- |
+| Distribution USNVC Association Scientific Name | Code | G Rank S Rank |  |
+| Pinus virginiana -Quercus prinus / Packera antennariifolia -Phlox subulata Woodland | CEGL006562 G3G4 |  | S3 |
+| Pinus virginiana -Juniperus virginiana -Quercus rubra / Solidago arguta var. harrisii - |  |  |  |
+| Opuntia humifusa Woodland |  |  |  |
+
+[/TABLE]
+
+[TABLE]
+*and Abundance of Characteristic and Rare Associations: 2014, WVDNR ecologists completed a first iteration of statewide GIS mapping of Shale Barrens and shared this with TNC to incorporate as a revision to the Northeast Habitat Map.Inventory Shale Barrens on private lands. Improve statewide mapping. Research natural fire regimes and pre-settlement composition and extent. Develop state-level description and make information available as part of a state vegetation classification. Herb layers are usually diverse, combining species with affinities for other oak-hickory forests in the region and more strict calciphiles. Open stand structure of woodland and glade habitats is maintained by drought stress to trees and in some cases by avalanches, fire, or grazing. Common woodland trees include Eastern Red Cedar, Chinquapin Oak, Red Oak, and White Ash. Some of the oldest known living trees in the eastern Unitied States are Eastern Red Cedars found in this habitat in West Virginia. The herb layer is usually diverse and includes several globally and state rare species. Dry woodlands dominated by pines on acidic subtrates in the Ridge and Valley are included in Pine -Oak Rocky Woodland and Shale Barrens.Total original area occupied by these habitats is rather small and has decreased due to human landuse. Forests in this system can occur in large patches in the Ridge and Valley Ecoregion and in the Greenbrier Valley of the Allegheny Mountains Ecoregion, where extensive areas of calcareous bedrock are exposed, but even in these areas they may be confined to erosional landforms where geology has the strongest influence on soil chemistry. Occurrences in the Western Allegheny Plateau and Cumberland Mountains ecoregions may be small, narrow patches centered on thin, horizontal limestone beds. Due to the natural fertility of these soils, much of the area previously occupied by this system has been cleared in the past for agriculture and timber, but successional forests have reinvaded abandoned farmlands, and secondary natural forests persist, especially on steep slopes. Occurrences of woodlands and glades are concentrated in the upper Potomac River drainage, especially in the Smokehole area, with smaller areas in the Shenandoah and Greenbrier river drainages. Eight USNVC associations are recognized in West Virginia but classification of all existing vegetation plots has not been completed.Pre-settlement area of these habitats was dramatically decreased due to conversion for agriculture. Tiny remnants of this habitat in Jefferson County may indicate a broader distribution in the Shenandoah Valley prior to settlement and development of nearly this entire landscape for agriculture, mining, and residential use. One well known site along the South Branch of the Potomac River was greatly diminished by a limestone quarry. Some occurrences in agricultural settings have probably been lost to invasions of pasture grasses and other non-native invasive plant species.s. Examples on deeper soils may be reduced from their previous area by mesophication (succession to more moist habitatat) and lack of fire or grazing. Remote occurrences on steep topography are probably more stable.Non-native invasive plants are especially troublesome in these calcareous habitats. Timber harvest and grazing often provide disturbance which favors non-native invasive plants. Some occurrences are threatened by limestone mining and development of second homes. Soils are typically shallow, dry, and highly acidic, with low to moderate fertility. Dominant trees include Chestnut Oak, Scarlet Oak (Quercus coccinea), Black Oak (Quercus velutina), White Oak, and Red Maple (Acer rubrum). Sourwood (Oxydendrum arboreum) is a common small tree, except in the Ridge and Valley Ecoregion, where it is absent. In the eastern counties there are large areas where Eastern White Pine is codominant with oaks. Other pines are often found scattered in mostly deciduous stands. Some small patches in the Western Allegheny Plateau and Cumberland Mountains ecoregions are dominated or codominated by Virginia Pine or Short Leaf Pine. Understories are usually dominated by heath shrubs, including Mountain Laurel, Black Huckleberry, and blueberries. Herb layers are usually sparse and have low diversity.Very dry forests and woodlands in the Ridge and Valley Ecoregion dominated by Virginia Pine, Pitch Pine, TableMountainPine, or Red Pine are included in the Pine -Oak Rocky Woodland. Dry oak forests on limestone are included in the Dry Calcareous Oak Forest.*
+
+|  | 2015 WV State Wildlife Action Plan |  |  |  |
+| --- | --- | --- | --- | --- |
+| Trends: Pinus virginiana -Pinus (rigida, echinata) -(Quercus prinus) / Vaccinium pallidum | CEGL007119 G3 |  | S2 |  |
+| Forest |  |  |  |  |
+| Inventory, Management, and Research Needs: Threats: Similar Habitats: Tsuga canadensis -Quercus prinus -Betula lenta Forest Pinus echinata -Quercus prinus -Quercus (coccinea, velutina) Forest Distribution USNVC Association Scientific Name undescribed Kanawha Valley post oak -eastern red cedar woodland | Code CEGL006923 G3 CEGL004761 G2G3 G Rank S3 S1 S1 |  |  | S Rank |
+| Acer saccharum -Quercus muehlenbergii / Cercis canadensis Forest | CEGL006017 | G4? |  | S3 |
+| Quercus rubra -Acer saccharum / Ostrya virginiana / Cardamine concatenata Forest | CEGL008517 | G4 |  | S3 |
+| USNVC Association Scientific Name | Code | G Rank | S Rank |  |
+| Quercus muehlenbergii -Quercus (alba, rubra) -Carya cordiformis / Viburnum prunifolium Forest Pinus virginiana Successional Forest | CEGL004793 CEGL002591 GNA G3G4 |  | SNA | S3 |
+| Quercus (prinus, coccinea) / Kalmia latifolia / (Galax urceolata, Gaultheria | CEGL006271 G5 |  | S4 |  |
+| Acer saccharum -Quercus muehlenbergii / Cercis canadensis Forest procumbens) Forest | CEGL006017 | G4? |  | S2 |
+| Quercus prinus -(Quercus coccinea, Quercus rubra) / Kalmia latifolia / Vaccinium | CEGL006299 G5 |  | S4 |  |
+| Quercus muehlenbergii -Cercis canadensis / Packera obovata -Lithospermum pallidum Forest | CEGL006231 | G3G4 |  | S2 |
+| canescens Woodland Quercus prinus -Quercus (rubra, velutina) / Vaccinium angustifolium Forest | CEGL006282 G5 |  | S3 |  |
+| Thuja occidentalis / Carex eburnea -Pellaea atropurpurea Woodland Pinus rigida -Quercus coccinea / Vaccinium angustifolium Woodland | CEGL002596 CEGL006557 G4Q G2G3 |  | S1 | S2 |
+| Quercus prinus -Quercus (alba, coccinea, velutina) / Viburnum acerifolium -(Kalmia | CEGL005023 G4? |  | S4 |  |
+| latifolia) Forest |  |  |  |  |
+| Juniperus virginiana / Bouteloua curtipendula -Carex eburnea Wooded Herbaceous | CEGL006047 | G1G2 |  | S2 |
+| Vegetation Pinus strobus -Quercus alba -Quercus prinus / Vaccinium stamineum Forest | CEGL008539 G4 |  | S4 |  |
+| Quercus alba -Quercus prinus -Carya glabra / Cornus florida / Vaccinium pallidum | CEGL008515 G4 |  | S3 |  |
+| Juniperus virginiana -Fraxinus americana / Carex pensylvanica -Cheilanthes lanosa Forest | CEGL006037 | G2 |  | S1 |
+| Wooded Herbaceous Vegetation Similar Habitats: Quercus prinus / Rhododendron catawbiense -Kalmia latifolia Forest | CEGL008524 G4 |  | S2 |  |
+| Quercus prinus -Quercus rubra / Rhododendron maximum / Galax urceolata Forest | CEGL006286 G4 |  | S3S4 |  |
+| Quercus prinus -Pinus virginiana -(Pinus pungens) / Schizachyrium scoparium - | CEGL008540 G3? |  |  |  |
+| Dichanthelium depauperatum Woodland |  |  |  |  |
+
+[/TABLE]
+
+[TABLE]
+* . Develop state-level descriptions and make information available as part of a state vegetation classification. Inventory, classify, and assess conservation needs of Short Leaf Pine -oak forests and Post Oak -Eastern Red Cedar woodlands. Research natural fire regimes and pre-settlement composition and extent.Mixed Mesophytic Forest or Northern Hardwood Forest. Most stands have a large component of oaks, including Red Oak, Chestnut Oak, White Oak, and Black Oak. A subset can be described as oak -hickory forests with a large component of hickory species including Pignut, Mockernut (Carya alba), and Shagbark. Other common trees include Red Maple, Sugar Maple, White Ash, Tuliptree, Black Gum (Nyssa sylvatica), and American Beech (Fagus grandifolia). Common small trees and shrubs include Sourwood, Witch Hazel (Hamamelis virginiana), Hop Hornbeam, Serviceberry (Amelanchier arborea), and Dogwood. Heath shrubs may be present but are not abundant as in the Dry Oak (-Pine) Forest. Common vines include Virginia Creeper (Parthenocissus quinquefolia) and Greenbrier (Smilax rotundifolia). The herb layer ranges from sparse to moderate and is often quite diverse.Semi-natural forests within this map class may be dominated by Tuliptree, Black Locust (Robinia pseudoacacia), Red Maple, Sweet Birch, or Eastern White Pine. This map class also includes areas of pine plantations.Dryer oak dominated forests are included in Dry Oak (-Pine) Forests and Dry Calcareous Oak Forests. Forests dominated by stunted Red Oaks at high elevations in the Ridge and Valley Ecoregion are included in Montane Red Oak Forests.*
+
+| 2015 WV State Wildlife Action Plan |  |  |  |
+| --- | --- | --- | --- |
+| Quercus rubra -Carya (ovata, ovalis) -Fraxinus americana / Actaea racemosa - | CEGL008518 G3G4 |  | S3 |
+| Hydrophyllum virginianum Forest |  |  |  |
+| Quercus alba -Fagus grandifolia Western Allegheny Plateau Forest | CEGL006144 GNR |  | S3? |
+| Quercus alba -Quercus rubra -Quercus prinus -Acer saccharum / Lindera benzoin Forest | CEGL002059 GNR |  | S3? |
+| Quercus rubra -Quercus prinus -Carya ovalis / (Cercis canadensis) / Solidago (caesia, | CEGL008514 G3G4 |  | S2 |
+| curtisii) Forest |  |  |  |
+| Quercus rubra -Quercus prinus -Magnolia (acuminata, fraseri) / Acer pensylvanicum | CEGL004817 G4? |  | S2? |
+| Forest |  |  |  |
+| Unclassified red oak -hickory / hophornbeam limestone forest |  |  | S2 |
+| Liriodendron tulipifera -Quercus spp. Forest | CEGL007221 GNA |  | SNA |
+| Similar Habitats: Betula lenta -Acer rubrum / Lycopodium annotinum -Dennstaedtia punctilobula Forest | CEGL008503 GNA |  | SNA |
+| Robinia pseudoacacia Forest | CEGL007279 GNA |  | SNA |
+| Pinus strobus Successional Forest | CEGL007944 GNA |  | SNA |
+| Pinus strobus Planted Forest | CEGL007178 GNA |  | SNA |
+| USNVC Association Scientific Name | Code | G Rank | S Rank |
+| Quercus prinus -Quercus rubra / Hamamelis virginiana Forest | CEGL006057 G5 |  | S4 |
+| Quercus prinus -(Quercus rubra) -Carya spp. / Oxydendrum arboreum -Cornus florida | CEGL007267 G4G5 |  | S4 |
+| Forest |  |  |  |
+| Quercus prinus -Carya ovata -Quercus rubra / Acer saccharum Forest | CEGL007268 G4? |  | S4 |
+| Quercus rubra -Acer saccharum -Liriodendron tulipifera Forest | CEGL006125 G4? |  | S4 |
+| Quercus prinus -Quercus rubra -Carya ovalis / Carex pensylvanica -(Calamagrostis porteri) | CEGL008516 G3G4 |  | S3 |
+| Forest |  |  |  |
+| Quercus prinus -Quercus rubra / Vaccinium pallidum -(Rhododendron periclymenoides) | CEGL008523 G3G4 |  | S3 |
+| Forest |  |  |  |
+
+[/TABLE]
+
+[TABLE]
+*and Abundance of Characteristic and Rare Associations: excluded and canopy height is stunted due to severe climate. There is usually abundant coarse woody debris and an open canopy structure due to tree damage from wind and ice storms. Associated trees include Red Maple, Sugar Maple, Black Cherry (Prunus serotina) and Sweet Birch. Common subcanopy trees and shrubs include Striped Maple (Acer pensylvanicum), Witch Hazel, and Mountain Holly (Ilex montana). Some stands have shrub layers dominated by heaths. Herb layers are variable, with variants dominated by combinations of grasses, forbs, and ferns. Red Oak forests with tall canopies at high elevations in the western Allegheny Mountains Ecoregion or at lower elevations throughout the state are included in Dry-Mesic Oak Forest. Red Oak -Sugar Maple forests on calcareous substrates at lower elevations in the Ridge and Valley Ecoregion are included in Dry Calcareous Oak Forest.Known occurrences of these habitats are restricted to the highest ridges in the Ridge and Valley Ecoregion and in the Allegheny Mountains Ecoregion along the border with Virginia. In these environments they occur as large or continuous linear patches which dominate the ridgetops and upper slopes. Mapping is based onFerree and Anderson (2013); areas mapped along the western border of Mercer County (and bordering counties) have not been substantiated by field surveys. Two USNVC associations have been identified in the state. The heath understory type (CEGL007300) is very rare in the state and known only in the southernmost counties near the Virginia border.*
+
+| Similar Habitats: |  |  |  |
+| --- | --- | --- | --- |
+| Distribution USNVC Association Scientific Name | Code | G Rank | S Rank |
+| Quercus rubra / (Vaccinium simulatum, Rhododendron calendulaceum) / (Dennstaedtia | CEGL007300 | G4 | S1 |
+| punctilobula, Thelypteris noveboracensis) Forest |  |  |  |
+| Quercus rubra -(Quercus alba) / Ilex montana / Dennstaedtia punctilobula -Lysimachia | CEGL008506 | G3G4 | S3 |
+| quadrifolia Forest |  |  |  |
+
+[/TABLE]
+
+[TABLE]
+*Inventory, Management, and Research Needs: Refine statewide mapping. Identify and sample additional stands of CEGL007300. Develop state-level descriptions and make information available as part of a state vegetation classification. Research natural disturbance regimes and pre-settlement composition and extent. White Ash, and/or Black Cherry. Semi-natural forests on more acidic sites (with hemlock potential) may be dominated by pines. mountain flanks and gorge slopes. In the dissected landscapes of the Western Allegheny Plateau Ecoregion and low-rainfall areas of the Ridge and Valley Ecoregion patches are smaller and are confined to lower slopes and the coolest aspects. State rare associations include two (CEGL008412, CEGL007710) that have a peripheral distribution near the borders, and three hemlock or Yellow Birch dominated types (CEGL006304, CEGL008407, CEGL007861) with limited distribution.*
+
+| USNVC Association Scientific Name | Code | G Rank | S Rank |
+| --- | --- | --- | --- |
+| Liriodendron tulipifera -Betula lenta -Tsuga canadensis / Rhododendron maximum Forest CEGL007543 G5 |  |  | S4 |
+| Acer (nigrum, saccharum) -Tilia americana / Asimina triloba / Jeffersonia diphylla - | CEGL008412 G4G5 |  | S2 |
+| Caulophyllum thalictroides Forest |  |  |  |
+| Acer saccharum -Fraxinus americana -Tilia americana / Acer spicatum / Caulophyllum | CEGL005008 G4? |  | S3 |
+| thalictroides Forest |  |  |  |
+| Liriodendron tulipifera -Pinus strobus -Tsuga canadensis -Quercus (rubra, alba) / | CEGL006304 G4? |  | S2 |
+| Polystichum acrostichoides Forest |  |  |  |
+| Liriodendron tulipifera -Tilia americana var. heterophylla -Aesculus flava -Acer | CEGL005222 G4? |  | S4 |
+| saccharum / (Magnolia tripetala) Forest |  |  |  |
+| Tsuga canadensis -(Fagus grandifolia, Tilia americana var. heterophylla) / Magnolia | CEGL008407 G4 |  | S2 |
+| tripetala Forest |  |  |  |
+| Tsuga canadensis -Fagus grandifolia -Acer saccharum / (Hamamelis virginiana, Kalmia | CEGL005043 G3? |  | S3 |
+| latifolia) Forest |  |  |  |
+| Betula alleghaniensis -(Tsuga canadensis) / Rhododendron maximum / (Leucothoe | CEGL007861 G3 |  | S2 |
+| fontanesiana) Forest |  |  |  |
+| Tsuga canadensis -Quercus prinus -Betula lenta Forest | CEGL006923 G3 |  | S3 |
+| Liriodendron tulipifera -Aesculus flava -(Fraxinus americana, Tilia americana) / Actaea | CEGL007710 G4 |  | S1 |
+| racemosa -Laportea canadensis Forest |  |  |  |
+| Prunus serotina -Liriodendron tulipifera -Acer rubrum -Fraxinus americana -(Robinia | CEGL006599 GNA |  | SNA |
+| pseudoacacia) Forest |  |  |  |
+| Liriodendron tulipifera / (Cercis canadensis) / (Lindera benzoin) Forest | CEGL007220 GNA |  | SNA |
+| Juglans nigra / Verbesina alternifolia Forest | CEGL007879 | GNA | SNA |
+|  | ` |  |  |
+| Pinus virginiana Successional Forest | CEGL002591 GNA |  | SNA |
+| Pinus strobus Successional Forest | CEGL007944 GNA |  | SNA |
+| Similar Habitats: |  |  |  |
+| Moist, deciduous and deciduous-hemlock forests at higher elevations in the Allegheny Mountains Places to See and Visit: |  |  |  |
+| Ecoregion are included in Northern Hardwood Forests. Somewhat dryer forests dominated by oaks are Cabwaylingo State Park, Calvin Price SF, Holly River State Park, Panther SF, R. D. Bailey WMA, Bluestone included in Dry-Mesic Oak Forests. National Scenic River, Gauley River National Recreation Area, New River Gorge National River. |  |  |  |
+
+[/TABLE]
+
+[TABLE]
+*and Abundance of Characteristic and Rare Associations: 2015 WV State Wildlife Action Plandryer habitats in many areas due to gradual mesophication. However, fire and logging continue to decrease these habitats in other areas of the state. Prescribed fire and silvicultural treatments are increasingly used to promote oaks and pines on public land, and repeated arson, especially in the Cumberland Mountains Ecoregion, prevents the development of mesophytic forests. Hemlock dominated forests are currently decreasing due to infestations of Hemlock Wooly Adelgid (Adelges tsugae). Repeated logging of productive mesophytic forests has converted large areas into semi-natural successional forest types. In recent decades large areas in the Cumberland Mountains Ecoregion and elsewhere have been permanently lost to mountaintop mining and valley fills.Repeated timber harvest often converts these forests to successional monocultures of Tuliptree or Maples. The Hemlock Wooly Adelgid is a serious threat to stands dominated by Eastern Hemlock. These habitats are especially susceptible to invasions of non-native plants. Prescribed burning and arson converts these habitats to other types. and White Ash. Some stands may include or be dominated by Eastern Hemlock. Red Spruce (Picea rubens) is often present but is not abundant in the tree canopy. Common shrubs include Striped Maple and Mountain Holly. The herb layer is characterized by species adapted to short, cool growing seasons, including Intermediate Woodfern (Dryopteris intermedia), New York Fern (Thelypteris noveboracensis), Mountain Wood Sorrel (Oxalis montana), and Canada Mayflower (Maianthemum canadense). This upland forest ecosystem may include forest seeps which are too small to map as a separate wetland habitat. Semi-natural forests within this map class often have canopy composition similar to natural forests, or may be dominated by a single species such as Black Cherry or Red Maple. The map class may also include plantations of Red Pine, Eastern White Pine, Norway Spruce (Picea abies), and Red Spruce. Somewhat dryer forests dominated by oaks are included in Dry-Mesic Oak Forests. Moist, deciduous and deciduous-hemlock forests at low and middle elevations throughout the state are included in Mixed Mesophytic Forests. Mixed deciduous-evergreen forests at high elevations with a large component of Red Spruce are included in Red Spruce Forests. Cathedral State Park, Canaan Valley National Wildlife Refuge, Kumbrabow SF, Monongahela National Forest (Backbone Mountain, Cheat Mountain, Middle Mountain).Deciduous northern hardwood forests probably increased in area following the logging boom around 1900 due to the decline of Red Spruce forests. Mixed hemlock -hardwood forests have probably increased in more recent years as hemlock gains dominance in deciduous stands, but this trend may reverse if Hemlock Wooly Adelgid takes hold in the higher elevations. Both deciduous and hemlockhardwood forests are now decreasing in area as Red Spruce regains dominance in many areas and due to human activities which affect all natural communities in the state.2015 WV State Wildlife Action Planinclude the evergreen Eastern Hemlock, and deciduous Yellow Birch, Red Maple, American Beech, Mountain Ash, and Black Cherry. Common shrubs include Mountain Holly, Great Rhododendron, Striped Maple, Southern Mountain Cranberry (Vaccinium erythrocarpum), and Mountain Laurel. The herb layer is characterized by species adapted to short, cool growing seasons, including Intermediate Woodfern, Mountain Woodfern (Dryopteris campyloptera), Mountain Wood Sorrel, Canada Mayflower, and Painted Wakerobin (Trillium undulatum). Mosses and liverworts often have heavy cover over the rocky ground. This upland forest ecosystem may include forest seeps which are too small to map as a separate wetland habitat.Upland deciduous forests and mixed hemlock -deciduous forests at high elevations that may include some Red Spruce, but where it is not dominant, are included in Northern Hardwood Forests. Wetland forests and woodlands with Red Spruce are included in High Allegheny Wetlands.These habitats are confined to high elevations in the Allegheny Mountains Ecoregion, with small outliers at the highest elevations on North Fork Mountain (Panther and Kile Knobs) in the Ridge and Valley Ecoregion. There are five globally rare upland Red Spruce associations classified in West Virginia. These forests occur in small to large patches. Small areas of two forest seep associations (CEGL006193 and CEGL006597) are also included in this map class.*
+
+| Prunus serotina -Liriodendron tulipifera -Acer rubrum -Fraxinus americana -(Robinia |  |  |  |
+| --- | --- | --- | --- |
+| pseudoacacia) Forest | CEGL006599 GNA |  | SNA |
+| Pinus strobus Planted Forest | CEGL007178 GNA |  | SNA |
+| Pinus resinosa Planted Forest | CEGL007177 GNA |  | SNA |
+| Picea rubens Planted Forest | CEGL004758 GNA |  | SNA |
+| Threats: Places to See and Visit: Similar Habitats: |  |  |  |
+| Similar Habitats: |  |  |  |
+| Trends: |  |  |  |
+| Distribution USNVC Association Scientific Name | Code | G Rank | S Rank |
+| Picea rubens -Tsuga canadensis -Fagus grandifolia / Dryopteris intermedia Forest | CEGL006029 | G3 | S3 |
+| USNVC Association Scientific Name Picea rubens -(Tsuga canadensis) / Rhododendron maximum Forest | Code CEGL006152 | G Rank G2G3 | S Rank S2 |
+| Acer saccharum -Fraxinus americana -Tilia americana / Acer spicatum / Caulophyllum Picea rubens / Betula alleghaniensis / Bazzania trilobata Forest | CEGL005008 G4? CEGL008501 G2 |  | S3 S2 |
+| thalictroides Forest Picea rubens / Kalmia latifolia -Menziesia pilosa Woodland | CEGL006254 | G2 | S1 |
+| Quercus rubra -Acer saccharum -Liriodendron tulipifera Forest Picea rubens / Vaccinium erythrocarpum / Dryopteris campyloptera Forest | CEGL006125 G4? CEGL007131 G2 |  | S4 S1 |
+| Tsuga canadensis -Betula alleghaniensis -Acer saccharum / Dryopteris intermedia Forest Betula alleghaniensis var. alleghaniensis / Impatiens capensis -Chrysosplenium | CEGL006109 G4? CEGL006193 G3G5 |  | S1 S3 |
+| Tsuga canadensis -Betula alleghaniensis -Prunus serotina / Rhododendron maximum americanum -(Symplocarpus foetidus) / Rhizomnium appalachianum forest seep | CEGL006206 G4? |  | S3 |
+| Forest Betula alleghaniensis var. alleghaniensis / Carex scabrata -Viola cucullata / Plagiomnium | CEGL006597 | G3 | S2 |
+| Acer saccharum -Betula alleghaniensis -Prunus serotina Forest ciliare sloping linear forest seep | CEGL006045 G4 |  | S4 |
+| Betula alleghaniensis -Quercus rubra / Acer (pensylvanicum, spicatum) / Dryopteris | CEGL008502 G3G4 |  | S1 |
+| intermedia -Oclemena acuminata Forest |  |  |  |
+| Aesculus flava -Betula alleghaniensis -Acer saccharum / Acer spicatum / Caulophyllum | CEGL004973 G3 |  | S1 |
+| thalictroides -Actaea podocarpa Forest |  |  |  |
+| Betula alleghaniensis var. alleghaniensis / Carex scabrata -Viola cucullata / Plagiomnium | CEGL006597 G3 |  | S2 |
+| ciliare sloping linear forest seep |  |  |  |
+| Betula alleghaniensis var. alleghaniensis / Impatiens capensis -Chrysosplenium | CEGL006193 G3G5 |  | S3 |
+| americanum -(Symplocarpus foetidus) / Rhizomnium appalachianum forest seep |  |  |  |
+| Symplocarpus foetidus -Impatiens capensis Herbaceous Vegetation | CEGL006567 GNR |  | S1 |
+
+[/TABLE]
+
+[TABLE]
+*and Abundance of Characteristic and Rare Associations: Dwarfed forms of Red Spruce or Pitch Pine and a few deciduous trees may be scattered in this type. Reindeer Lichens (Cladonia spp.) may have high ground cover in some areas.These habitats are restricted to high elevations in the Allegheny Mountains Ecoregion and a few very small patches in the Ridge and Valley Ecoregion on higher peaks of North Fork Mountain (e.g. Kile Knob, Panther Knob). The largest concentration is along the Allegheny Front in the vicinity of Dolly Sods. Two USNVC associations have been identified in West Virginia.*
+
+| Distribution USNVC Association Scientific Name | Code | G Rank | S Rank |
+| --- | --- | --- | --- |
+| Vaccinium (angustifolium, myrtilloides, pallidum) Central Appalachian Dwarf-shrubland | CEGL003958 | G3G4 | S2 |
+| Kalmia latifolia -Gaylussacia baccata -Vaccinium (angustifolium, pallidum) -Menziesia | CEGL003939 | G2 | S2 |
+| pilosa Shrubland |  |  |  |
+
+[/TABLE]
+
+[TABLE]
+* The more central, flood-or Beaver-influenced sections contain shrub swamps, sedge fens, wet meadows, and open marshes. Forested swamps are dominated by Red Spruce, with varying cover by Red Maple, Eastern Hemlock, and Yellow Birch. Where limestone or calcareous shale influences seepage water, Balsam Fir and Black Ash (Fraxinus nigra) are typical canopy dominants. Shrub swamps may be dominated by Speckled Alder (Alnus incana ssp. rugosa), Bushy St. Johnswort (Hypericum densiflorum), Black Chokeberry, Common*
+
+| 2015 WV State Wildlife Action Plan |  |  |  |
+| --- | --- | --- | --- |
+| Scirpus cyperinus Wet Meadow | CEGL006349 GNR |  | S3 |
+| Carex stricta Wet Meadow | CEGL006412 G4G5 |  | S3 |
+| Leersia oryzoides -Sagittaria latifolia Marsh | CEGL006461 GNR |  | S3 |
+| Hypericum densiflorum / Rubus hispidus Shrub Swamp | CEGL006464 GNR |  | S3 |
+| Photinia melanocarpa -Viburnum nudum / Eriophorum virginicum / Sphagnum spp. |  |  |  |
+| Shrub Peatland | CEGL006545 GNR |  | S3 |
+| Carex canescens / Polytrichum spp. -Sphagnum spp. Poor Fen | CEGL006549 GNR |  | S1 |
+| Dulichium arundinaceum Fen | CEGL006552 GNR |  | S1 |
+| Picea rubens -Betula alleghaniensis -Tsuga canadensis / Glyceria melicaria / Sphagnum |  |  |  |
+| spp. Forested Swamp | CEGL006556 G3 |  | S1 |
+| Solidago rugosa -Euthamia graminifolia Wet Meadow | CEGL006568 GNR |  | S3 |
+| Eriophorum virginicum -(Carex folliculata) / Sphagnum spp. -Polytrichum spp. Poor Fen | CEGL006570 G3 |  | S1 |
+| Spiraea tomentosa / Sphagnum spp. Shrub Swamp | CEGL006571 GNR |  | S2 |
+| Pinus rigida -Picea rubens / Nemopanthus mucronata -Kalmia latifolia / Sphagnum spp. |  |  |  |
+| Peat Woodland | CEGL006587 G1G2 |  | S1 |
+| Picea rubens / Rhododendron maximum -Kalmia latifolia / Eriophorum virginicum / |  |  |  |
+| Sphagnum spp. Peat Woodland | CEGL006588 G2G3 |  | S1 |
+| (Andromeda polifolia var. glaucophylla) / Polytrichum strictum -Cladina spp. -Sphagnum |  |  |  |
+| spp. Bog | CEGL006589 G1 |  | S1 |
+| Picea rubens / Carex trisperma / Sphagnum spp. -Polytrichum spp. Peat Woodland | CEGL006590 G2 |  | S1 |
+| Abies balsamea -Picea rubens / Ilex verticillata / Sphagnum spp. Woodland Swamp | CEGL006591 G2 |  | S1 |
+| Abies balsamea -Picea rubens / Danthonia compressa -Lycopodium spp. / Sphagnum |  |  |  |
+| spp. Forested Swamp | CEGL006592 G2 |  | S1 |
+| Picea rubens / Vaccinium erythrocarpum / Sphagnum spp. -Bazzania trilobata Forested |  |  |  |
+| Swamp | CEGL006593 G2 |  | S1 |
+| Populus tremuloides / Vaccinium myrtilloides / Solidago uliginosa Swamp | CEGL006594 GNR |  | S3 |
+| Spiraea alba Shrub Swamp | CEGL006595 GNR |  | S3 |
+| Vaccinium myrtilloides / Pteridium aquilinum / Polytrichum spp. Shrub Swamp | CEGL006596 GNR |  | S3 |
+| Tsuga canadensis -Fraxinus nigra -Betula alleghaniensis / Onoclea sensibilis Forested |  |  |  |
+| Swamp | CEGL007441 GNR |  | S1 |
+| Carex gynandra -Carex atlantica Fen | CEGL007771 G2 |  | S1 |
+| USNVC Association Scientific Name Vaccinium oxycoccos -(Vaccinium macrocarpon) / Rhynchospora alba -Drosera | Code | G Rank | S Rank |
+| Carex lacustris Fen rotundifolia / Sphagnum spp. Dwarf Shrub Peatland | CEGL002256 G4G5 CEGL007856 G2 |  | S1 S1 |
+| Carex utriculata / Sphagnum spp. Poor Fen Carex echinata / Sphagnum spp. Poor Fen | CEGL002257 G4G5 CEGL008534 G2? |  | S1 S1 |
+| Alnus incana Shrub Swamp Callitriche heterophylla -Glyceria striata Spring Seep | CEGL002381 GNR new CALLI6 GNR |  | S3 S1 |
+| Larix laricina / Ilex verticillata / Symplocarpus foetidus -Osmunda cinnamomea / |  |  |  |
+| Sphagnum spp. Peat Woodland | CEGL002472 G4 |  | S1 |
+| Sparganium (americanum, chlorocarpum) Marsh | CEGL004510 G3? |  | S2 |
+| Calamagrostis canadensis Wet Meadow | CEGL005174 G4G5 |  | S2 |
+| Fraxinus nigra -Abies balsamea / Rhamnus alnifolia Forested Swamp | CEGL006003 G1 |  | S1 |
+| Acer rubrum -Nyssa sylvatica / Osmunda cinnamomea / Sphagnum spp. Forested Swamp CEGL006132 GNR |  |  | S2 |
+| Chrysosplenium americanum -Impatiens capensis / Rhizomnium appalachianum Seep | CEGL006193 G3G5 |  | S3 |
+| Schoenoplectus tabernaemontani Marsh | CEGL006275 GNR |  | S2 |
+| Picea rubens -(Tsuga canadensis) / Rhododendron maximum Forest ed Swamp | CEGL006277 G2? |  | S1 |
+| Tsuga canadensis / Rhododendron maximum / Sphagnum spp. Forested Swamp | CEGL006279 G4? |  | S1 |
+| Salix sericea Shrub Swamp | CEGL006305 GNR |  | S2S3 |
+
+[/TABLE]
+
+[TABLE]
+*and Abundance of Characteristic and Rare Associations: Hydrologically isolated wetlands on sandstone-over-karst topography along ridgetops and bluffs in the Ridge & Valley Ecoregion of West Virginia. These wetlands typically lie on drainage divides. They are acidic in soil chemistry as a result of the sandstone bedrock, but they have the approximate morphology of sinkholes, reflecting the karst collapse features underlying the sandstone. They may contain forested or open wetland habitats depending on inundation levels. Common names for these habitats include swamp forests, shrub swamps, marshes, fens, and ponds.These habitats are confined to a few locations in the Ridge and Valley. Mapping is based onFerree and Anderson (2013) but only a few occurrences have been verified by field surveys.*
+
+| Distribution USNVC Association Scientific Name | Code | G Rank | S Rank |
+| --- | --- | --- | --- |
+| Glyceria acutiflora -Scirpus ancistrochaetus Sinkhole Marsh | CEGL003746 G1 |  | S1 |
+| Quercus palustris / Carex lupulina Sinkhole Swamp | CEGL004643 G2 |  | S1 |
+
+[/TABLE]
+
+[TABLE:  Common names for these habitats include floodplain forests, swamp forests, riparian forests, riverscour woodlands, shrub swamps, marshes, wet meadows, backwater sloughs, oxbows, rivershores, cobble bars, and riverscour prairies.Common trees of forested floodplains at lower elevations include Sycamore (Platanus occidentalis), Silver Maple (Acer saccharinum), River Birch (Betula nigra), White Ash, Green Ash (Fraxinus pennsylvanica), Sugar Maple, Pin Oak (Quercus palustris), and Tuliptree. High elevation floodplain forests are often dominated by Red Spruce, Yellow Birch, and/or Eastern Hemlock. Shrub swamps of lower elevation floodplains are often dominated by Smooth Alder (Alnus serrulata) or Buttonbrush (Cephalanthus occidentalis). Riverscour prairies are usually characterized by warm-season grasses such as Big Bluestem (Andropogon gerardii) and Switch Grass (Panicum virgatum), but these are lacking in riverscour prairies at higher elevations. Herbaceous wetland floodplain communities may be dominated by species of bulrushes (Scirpus spp.]
+[TABLE:  caves and manmade subterranean habitats occur in all counties of the state, but biologically important limestone caves are concentrated in areas with extensive limestone bedrock at or near the surface in the Allegheny Mountains and Ridge and Valley Ecoregions. Caves in the Allegheny Mountains Ecoregion associated with Greenbrier Limestone account for a large proportion of caves in the state(Davies 1958); the largest concentration of these caves is in the Greenbrier Valley. Caves in the Ridge and Valley Ecoregion are associated with several limestone formations, including the Conococheague, Elbrook, and Tonoloway, the Helderburg Group, and others. A recent summary of West Virginia's karst features (WVASS 2014) lists 3748 known caves in the state. Counties with the highest number of caves include (in decreasing order) Greenbrier, Pocahontas, Randolph, Monroe, Pendleton, Berkeley, Tucker, and Mercer, each with over 100 known caves.]
+
+[TABLE]
+* Urbanization, especially in the Greenbrier Valley north of Lewisburg, is producing potential threats to cave endemics. Similar development is occurring in the Eastern Panhandle, but the cave density and species numbers are not a great in this portion of the state. Groundwater extraction, septic failure, clearing of forested areas, and increased areas of impervious surfaces as a result of urbanization can all have impact cave invertebrates by changing the nutrient inputs and hydrology of caves. aquatic habitat types were classified and mapped for West Virginia. These are GIS-derived types based on a simplification for West Virginia of the Northeast Aquatic Habitat Classification System (NEAHCS)(Anderson et al. 2013). Stream size is considered the most influential effect on determining biological assemblages at the reach scale and is divided into four primary classes: headwaters and creeks, small rivers, medium rivers, and large rivers. Stream slope, or gradient, affects aquatic communities at the reach scale due to its influence on stream bed morphology, water velocity, and sediment dynamics. Three relative classes (low, moderate, or high) of gradient are used to define West Virginia's streams. Water temperature in streams is a key physiological characteristic determining where different stream organisms may persist. Temperature affects seasonal migrations, growth rates, body condition, and fecundity of biota. Three temperature classes (cold, cool, warm) based on continuously recorded data and modeled environmental variables were used to determine biological constraints on stream communities in this model. The maps as represented are based on the regional model and have received only minimal field-checking against local conditions. Contact the WVDNR Aquatic Community Assessment and Restoration Program for more specific information about these different habitat types and where they may occur.*
+
+|  |  |  | 2015 WV State Wildlife Action Plan 2015 WV State Wildlife Action Plan 2015 WV State Wildlife Action Plan 2015 WV State Wildlife Action Plan 2015 WV State Wildlife Action Plan 2015 WV State Wildlife Action Plan 2015 WV State Wildlife Action Plan 2015 WV State Wildlife Action Plan 2015 WV State Wildlife Action Plan 2015 WV State Wildlife Action Plan 2015 WV State Wildlife Action Plan 2015 WV State Wildlife Action Plan 2015 WV State Wildlife Action Plan 2015 WV State Wildlife Action Plan 2015 WV State Wildlife Action Plan 2015 WV State Wildlife Action Plan 2015 WV State Wildlife Action Plan 2015 WV State Wildlife Action Plan 2015 WV State Wildlife Action Plan 2015 WV State Wildlife Action Plan 2015 WV State Wildlife Action Plan 2015 WV State Wildlife Action Plan |  |  |
+| --- | --- | --- | --- | --- | --- |
+| STATEWIDE TERRESTRIAL HABITAT TYPE EXTENT SPECIES SUMMARY BY TERRESTRIAL HABITAT TYPE SPECIES SUMMARY BY TERRESTRIAL HABITAT TYPE SPECIES SUMMARY BY TERRESTRIAL HABITAT TYPE SPECIES SUMMARY BY TERRESTRIAL HABITAT TYPE SPECIES SUMMARY BY TERRESTRIAL HABITAT TYPE SPECIES SUMMARY BY TERRESTRIAL HABITAT TYPE SPECIES SUMMARY BY TERRESTRIAL HABITAT TYPE SPECIES SUMMARY BY TERRESTRIAL HABITAT TYPE SPECIES SUMMARY BY TERRESTRIAL HABITAT TYPE SPECIES SUMMARY BY TERRESTRIAL HABITAT TYPE SPECIES SUMMARY BY TERRESTRIAL HABITAT TYPE SPECIES SUMMARY BY TERRESTRIAL HABITAT TYPE SPECIES SUMMARY BY TERRESTRIAL HABITAT TYPE SPECIES SUMMARY BY TERRESTRIAL HABITAT TYPE SPECIES SUMMARY BY TERRESTRIAL HABITAT TYPE SPECIES SUMMARY BY TERRESTRIAL HABITAT TYPE SPECIES SUMMARY BY TERRESTRIAL HABITAT TYPE SPECIES SUMMARY BY TERRESTRIAL HABITAT TYPE SPECIES SUMMARY BY TERRESTRIAL HABITAT TYPE 3.3.2: Aquatic Habitats |  |  |  |  |  |
+| HABITAT TYPE: Agriculture HABITAT TYPE: Anthropogenic Shrubland & Grassland HABITAT TYPE: Calcareous Cliffs and Talus HABITAT TYPE: Caves and Karst HABITAT TYPE: Developed HABITAT TYPE: Dry-Mesic Oak Forests HABITAT TYPE: Heath-Grass Barrens HABITAT TYPE: High Allegheny Wetlands HABITAT TYPE: Mixed Mesophytic Forests HABITAT TYPE: Montane Red Oak Forests HABITAT TYPE: Northern Hardwood Forests HABITAT TYPE: Pine-Oak Rocky Woodlands HABITAT TYPE: Red Spruce Forests HABITAT TYPE: River Floodplains HABITAT TYPE: Shale Barrens HABITAT TYPE: Small Lentic Water Bodies HABITAT TYPE: Small Stream Riparian Habitats |  |  |  |  |  |
+| HABITAT TYPE TAXA TAXA TAXA TAXA TAXA TAXA TAXA TAXA TAXA TAXA TAXA TAXA TAXA TAXA TAXA TAXA TAXA TAXA TAXA TAXA TAXA | ACRES SPECIES COUNT SPECIES COUNT SPECIES COUNT SPECIES COUNT SPECIES COUNT SPECIES COUNT SPECIES COUNT SPECIES COUNT SPECIES COUNT SPECIES COUNT SPECIES COUNT SPECIES COUNT SPECIES COUNT SPECIES COUNT SPECIES COUNT SPECIES COUNT SPECIES COUNT SPECIES COUNT SPECIES COUNT SPECIES COUNT SPECIES COUNT PRIMARY HABITAT 1 PRIMARY HABITAT 1 PRIMARY HABITAT 1 PRIMARY HABITAT 1 PRIMARY HABITAT 1 PRIMARY HABITAT 1 PRIMARY HABITAT 1 PRIMARY HABITAT 1 PRIMARY HABITAT 1 PRIMARY HABITAT 1 PRIMARY HABITAT 1 PRIMARY HABITAT 1 PRIMARY HABITAT 1 PRIMARY HABITAT 1 PRIMARY HABITAT 1 PRIMARY HABITAT 1 PRIMARY HABITAT 1 PRIMARY HABITAT 1 PRIMARY HABITAT 1 PRIMARY HABITAT 1 PRIMARY HABITAT 1 |  |  | PERCENT OF WV SPECIES COUNT SPECIES COUNT SPECIES COUNT SPECIES COUNT SPECIES COUNT SPECIES COUNT SPECIES COUNT SPECIES COUNT SPECIES COUNT SPECIES COUNT SPECIES COUNT SPECIES COUNT SPECIES COUNT SPECIES COUNT SPECIES COUNT SPECIES COUNT SPECIES COUNT SPECIES COUNT SPECIES COUNT SPECIES COUNT SPECIES COUNT LAND AREA SECONDARY HABITAT 2 SECONDARY HABITAT 2 SECONDARY HABITAT 2 SECONDARY HABITAT 2 SECONDARY HABITAT 2 SECONDARY HABITAT 2 SECONDARY HABITAT 2 SECONDARY HABITAT 2 SECONDARY HABITAT 2 SECONDARY HABITAT 2 SECONDARY HABITAT 2 SECONDARY HABITAT 2 SECONDARY HABITAT 2 SECONDARY HABITAT 2 SECONDARY HABITAT 2 SECONDARY HABITAT 2 SECONDARY HABITAT 2 SECONDARY HABITAT 2 SECONDARY HABITAT 2 SECONDARY HABITAT 2 SECONDARY HABITAT 2 |  |
+| Acidic Rock Outcrops, Cliffs, and Talus Amphibians Amphibians Amphibians Amphibians Amphibians Amphibians Amphibians Amphibians Amphibians Birds Birds Amphibians Amphibians Amphibians Butterflies and Moths Amphibians Amphibians Butterflies and Moths Amphibians Amphibians Amphibians | 1 3 1 1 3 1 1 1 8 7 10 3 7 5 12 11 1 4 2 |  | 89,783 | 2 1 1 5 2 16 | 0.59% |
+| Agriculture Birds Birds Birds Butterflies and Moths Cave Invertebrates Birds Butterflies and Moths Birds Birds Butterflies and Moths Butterflies and Moths Birds Mammals Birds Mammals Birds Birds Plants Mammals Birds Birds | 1 19 91 5 1 1 10 2 15 4 4 7 5 7 8 32 5 2 | 1,435,287 |  | 1 5 3 5 1 1 3 3 7 5 | 9.36% |
+| Anthropogenic Shrubland & Grassland Mammals Butterflies and Moths Butterflies and Moths Mammals Mammals Mammals Mammals Butterflies and Moths Butterflies and Moths Mammals Crayfish Butterflies and Moths Plants Butterflies and Moths Plants Butterflies and Moths Butterflies and Moths Reptiles Plants Dragonflies and Damselflies Butterflies and Moths | 4 7 2 6 1 7 4 1 1 12 14 14 38 6 4 3 3 14 6 |  | 159,128 | 2 1 5 3 8 1 1 | 1.04% |
+| Calcareous Cliffs and Talus Plants Mammals Mammals Plants Snails Reptiles Plants Mammals Mammals Plants Dragonflies and Damselflies Mammals Reptiles Mammals Reptiles Mammals Crayfish Tiger Beetles Snails Mammals Crayfish | 42 2 6 18 4 8 55 13 15 11 18 13 3 10 3 5 1 2 1 1 |  | 9,208 | 1 5 3 1 1 2 1 4 1 1 | 0.06% |
+| Developed Reptiles Reptiles Reptiles Reptiles Totals Snails Snails Plants Plants Reptiles Mammals Plants Snails Plants Snails Plants Dragonflies and Damselflies Totals Totals Reptiles Dragonflies and Damselflies | 1 7 3 1 104 13 12 44 45 1 2 41 2 17 1 10 14 46 6 24 | 1,138,906 |  | 2 2 3 8 1 3 1 2 7 8 8 | 7.43% |
+| Dry Calcareous Forests, Woodlands, and Glades Dry-Mesic Oak Forests Dry Oak (-Pine) Forests Heath-Grass Barrens High Allegheny Wetlands Snails Tiger Beetles Totals 1 Snails Tiger Beetles Totals 1 Snails Tiger Beetles Totals 1 Snails Totals PRIMARY HABITAT: Species expected to be found in this habitat type 4,989,621 71,523 2,470,980 2,817 20,935 1 49 1 14 3 1 40 13 35 SECONDARY HABITAT: Species sometimes found in this habitat type 1 2 PRIMARY HABITAT: Species expected to be found in this habitat type SECONDARY HABITAT: Species sometimes found in this habitat type 1 2 Tiger Beetles 3 Totals 31 PRIMARY HABITAT: Species expected to be found in this habitat type SECONDARY HABITAT: Species sometimes found in this habitat type 1 2 Totals 69 PRIMARY HABITAT: Species expected to be found in this habitat type SECONDARY HABITAT: Species sometimes found in this habitat type 1 2 Reptiles 6 Snails 28 Tiger Beetles Totals 100 Reptiles 8 Snails 53 Tiger Beetles 1 Totals 144 Totals 15 PRIMARY HABITAT: Species expected to be found in this habitat type SECONDARY HABITAT: Species sometimes found in this habitat type 1 2 Plants 143 Reptiles 1 Snails 2 Totals 189 Reptiles 6 Snails 50 Tiger Beetles 1 Totals Totals 26 PRIMARY HABITAT: Species expected to be found in this habitat type SECONDARY HABITAT: Species sometimes found in this habitat type 1 2 Reptiles 2 Snails 9 Totals 66 Totals 52 Snails 3 Mammals 9 Snails 3 Mammals 10 PRIMARY HABITAT: Species expected to be found in this habitat type SECONDARY HABITAT: Species sometimes found in this habitat type 1 2 Tiger Beetles Totals Plants 165 Reptiles 12 PRIMARY HABITAT: Species expected to be found in this habitat type SECONDARY HABITAT: Species sometimes found in this habitat type 1 2 PRIMARY HABITAT: Species expected to be found in this habitat type SECONDARY HABITAT: Species sometimes found in this habitat type 1 Totals 27 Plants 121 2 Reptiles 9 31 Snails 12 PRIMARY HABITAT: Species expected to be found in this habitat type 1 Snails 6 137 1 1 Tiger Beetles 8 SECONDARY HABITAT: Species sometimes found in this habitat type 2 Tiger Beetles 2 |  |  |  | 1 5 1 3 18 5 15 2 7 18 4 5 12 29 | 0.47% 32.53% 16.11% 0.02% 0.14% |
+| 2 2 2 1 1 1 1 2 2 |  |  |  |  |  |
+| Mixed Mesophytic Forests 2 2 2 2 Totals Totals | 245 183 | 2,945,997 |  |  | 19.21% |
+| Montane Red Oak Forests |  |  | 21,140 |  | 0.14% |
+| Northern Hardwood Forests PRIMARY HABITAT: Species expected to be found in this habitat type 1 PRIMARY HABITAT: Species expected to be found in this habitat type 1 |  |  | 994,851 |  | 6.49% |
+| Pine-Oak Rocky Woodlands SECONDARY HABITAT: Species sometimes found in this habitat type 2 SECONDARY HABITAT: Species sometimes found in this habitat type 2 |  |  | 76,399 |  | 0.50% |
+| Red Spruce Forests |  |  | 177,969 |  | 1.16% |
+| River Floodplains |  |  | 120,210 |  | 0.78% |
+| Shale Barrens |  |  | 1,793 |  | 0.01% |
+| Sinkhole and Depression Ponds |  |  | 149 |  | 0.00% |
+| Small Stream Riparian Habitats |  |  | 494,276 |  | 3.22% |
+| Unresolved |  |  | 116,730 |  | 0.76% |
+| Totals | 15,337,700 |  |  | 100.00% |  |
+
+[/TABLE]
+
+[TABLE: Notable Species Found in This Habitat in West Virginia: Fishes: Redside Dace, Tonguetied Minnow, Candy Darter, Common Shiner, Rosefin Shiner, Redfin Shiner, New River Shiner, and Kanawha Minnow.]
+
+[TABLE]
+*Species Found in This Habitat in West Virginia: Kiah Creek in East Lynn Lake Wildlife Management Area, Meadow River in Meadow River Wildlife Management Area, Oldtown Creek in McClintic Wildlife Management Area and Saltlick Creek in Braxton County.*
+
+| Notable |
+| --- |
+
+[/TABLE]
+
+[TABLE]
+* Camp Creek in Camp Creek State Forest, Potts Creek in Jefferson National Forest, Cranberry River in Monongahela National Forest and Meadow Branch in Sleepy Creek Wildlife Management Area.*
+
+| Notable Species Found in This Habitat in West Virginia: |
+| --- |
+| Fishes: Brook Trout, Checkered Sculpin, Common Shiner, Redside Dace, New River Shiner, Candy Darter, |
+| and Tonguetied Minnow. |
+
+[/TABLE]
+
+[TABLE:  Creek in Dolly Sods Wilderness Area, Waites Run in George Washington National Forest, Tea Creek in Monongahela National Forest]
+[TABLE: Notable Species Found in This Habitat in West Virginia: Fishes: Brook Trout, New River Shiner, Redside Dace, Tonguetied Minnow, Candy Darter.]
+
+[TABLE]
+*Species Found in This Habitat in West Virginia: Blackwater River in Canaan Valley National Wildlife Refuge, Tygart Valley River in Huttonsville State Farm WMA, Bluestone River, Mercer County and Patterson Creek, Mineral County.*
+
+| Notable |
+| --- |
+
+[/TABLE]
+
+[TABLE: Notable Species Found in This Habitat in West Virginia: Fishes: Redfin Shiner, Eastern Sand Darter, New River Shiner, Common Shiner, Longhead Darter.]
+[TABLE: 2.11: Small Rivers, Moderate Gradient, Cool Temperature Description: ]
+
+[TABLE]
+*2.13: Small Rivers, High Gradient, Cool Temperature Description: Cherry River in Monongahela National Forest, North River in Short Mountain WMA, West Virginia Fork Fish Creek in Cecil H. Underwood WMA and Sleepy Creek, Morgan County.*
+
+| Notable Species Found in This Habitat in West Virginia: |
+| --- |
+| Fishes: Common Shiner, Candy Darter, Redfin Shiner, Orangespotted Sunfish, New River Shiner, Black |
+| Bullhead, Eastern Sand Darter, Rosefin Shiner. |
+
+[/TABLE]
+
+[TABLE: Commons Notable Species Found in This Habitat in West Virginia: Fishes: There are no records for Species of Greatest Conservation Need from this type of habitat. The rare nature of the habitat and difficulty of sampling have created a data gap in these small rivers. Common fish species are expected to include Rock Bass Ambloplites rupestris, White Sucker Catostomus commersonii, Mottled Sculpin Cottus bairdii, Fantail Darter Etheostoma flabellare, Northern Hog Sucker Hypentelium nigricans, River Chub Nocomis micropogon, Silver Shiner Notropis photogenis, Stonecat Noturus flavus, and Longnose Dace Rhinichthys cataractae.]
+[TABLE: Notable Species Found in This Habitat in West Virginia: Braxton and Clay counties; Guyandotte River in Chief Logan State Park, Coal River in Coal River Water Trail, Greenbrier River, and Greenbrier River Trail. Fishes: Common Shiner, Tippecanoe Darter, Popeye Shiner, Eastern Sand Darter, Black Bullhead, Longhead Darter, Spotted Darter.]
+[TABLE: 2.16: Medium Rivers, Moderate Gradient, Warm Temperature Description: ]
+
+[TABLE]
+*2.18: Large Rivers, Moderate Gradient, Warm Temperature Description: Ohio River; Shenandoah River, Jefferson County; South Branch Potomac River, Hampshire County; Little Kanawha River, Wirt and Wood Counties; Greenbrier River, Summers County.*
+
+| Notable Species Found in This Habitat in West Virginia: |
+| --- |
+| Fishes: Black Bullhead, Tippecanoe Darter, Eastern Sand Darter, Popeye Shiner, Longhead Darter, |
+| Diamond darter. |
+
+[/TABLE]
+
+[TABLE]
+*Species Found in This Habitat in West Virginia: Valley River in Valley Falls State Park, New River in New River Gorge National River, Shenandoah River in Harpers Ferry National Historical Park and Elk River in Coonskin Park near Charleston.*
+
+|  |  | 2015 WV State Wildlife Action Plan 2015 WV State Wildlife Action Plan 2015 WV State Wildlife Action Plan 2015 WV State Wildlife Action Plan 2015 WV State Wildlife Action Plan 2015 WV State Wildlife Action Plan 2015 WV State Wildlife Action Plan 2015 WV State Wildlife Action Plan 2015 WV State Wildlife Action Plan 2015 WV State Wildlife Action Plan 2015 WV State Wildlife Action Plan 2015 WV State Wildlife Action Plan 2015 WV State Wildlife Action Plan 2015 WV State Wildlife Action Plan 2015 WV State Wildlife Action Plan 2015 WV State Wildlife Action Plan 2015 WV State Wildlife Action Plan 2015 WV State Wildlife Action Plan 2015 WV State Wildlife Action Plan |  |  |
+| --- | --- | --- | --- | --- |
+| Notable STATEWIDE AQUATIC HABITAT EXTENT SPECIES SUMMARY BY AQUATIC HABITAT TYPE SPECIES SUMMARY BY AQUATIC HABITAT TYPE SPECIES SUMMARY BY AQUATIC HABITAT TYPE SPECIES SUMMARY BY AQUATIC HABITAT TYPE SPECIES SUMMARY BY AQUATIC HABITAT TYPE SPECIES SUMMARY BY AQUATIC HABITAT TYPE SPECIES SUMMARY BY AQUATIC HABITAT TYPE SPECIES SUMMARY BY AQUATIC HABITAT TYPE SPECIES SUMMARY BY AQUATIC HABITAT TYPE SPECIES SUMMARY BY AQUATIC HABITAT TYPE SPECIES SUMMARY BY AQUATIC HABITAT TYPE SPECIES SUMMARY BY AQUATIC HABITAT TYPE SPECIES SUMMARY BY AQUATIC HABITAT TYPE SPECIES SUMMARY BY AQUATIC HABITAT TYPE SPECIES SUMMARY BY AQUATIC HABITAT TYPE SPECIES SUMMARY BY AQUATIC HABITAT TYPE SPECIES SUMMARY BY AQUATIC HABITAT TYPE SPECIES SUMMARY BY AQUATIC HABITAT TYPE Chapter 4: |  |  |  |  |
+| HABITAT TYPE: Embayment,Low Gradient,Warm HABITAT TYPE: Headwater Creek,High Gradient,Cool HABITAT TYPE: Headwater Creek,Moderate Gradient,Cool HABITAT TYPE: Large River,Low Gradient,Warm HABITAT TYPE: Large River,Moderate Gradient,Warm HABITAT TYPE: Medium River,Moderate Gradient,Warm HABITAT TYPE: Small River,Moderate Gradient,Cool HABITAT TYPE: Small River,Moderate Gradient,Warm |  |  |  |  |
+| HABITAT TYPE TAXA TAXA TAXA TAXA TAXA TAXA TAXA TAXA TAXA TAXA TAXA TAXA TAXA TAXA TAXA TAXA TAXA TAXA | MILES SPECIES COUNT SPECIES COUNT SPECIES COUNT SPECIES COUNT SPECIES COUNT SPECIES COUNT SPECIES COUNT SPECIES COUNT SPECIES COUNT SPECIES COUNT SPECIES COUNT SPECIES COUNT SPECIES COUNT SPECIES COUNT SPECIES COUNT SPECIES COUNT SPECIES COUNT SPECIES COUNT PRIMARY HABITAT 1 PRIMARY HABITAT 1 PRIMARY HABITAT 1 PRIMARY HABITAT 1 PRIMARY HABITAT 1 PRIMARY HABITAT 1 PRIMARY HABITAT 1 PRIMARY HABITAT 1 PRIMARY HABITAT 1 PRIMARY HABITAT 1 PRIMARY HABITAT 1 PRIMARY HABITAT 1 PRIMARY HABITAT 1 PRIMARY HABITAT 1 PRIMARY HABITAT 1 PRIMARY HABITAT 1 PRIMARY HABITAT 1 PRIMARY HABITAT 1 |  | PERCENT OF WV SPECIES COUNT SPECIES COUNT SPECIES COUNT SPECIES COUNT SPECIES COUNT SPECIES COUNT SPECIES COUNT SPECIES COUNT SPECIES COUNT SPECIES COUNT SPECIES COUNT SPECIES COUNT SPECIES COUNT SPECIES COUNT SPECIES COUNT SPECIES COUNT SPECIES COUNT SPECIES COUNT STREAM MILES SECONDARY HABITAT 2 SECONDARY HABITAT 2 SECONDARY HABITAT 2 SECONDARY HABITAT 2 SECONDARY HABITAT 2 SECONDARY HABITAT 2 SECONDARY HABITAT 2 SECONDARY HABITAT 2 SECONDARY HABITAT 2 SECONDARY HABITAT 2 SECONDARY HABITAT 2 SECONDARY HABITAT 2 SECONDARY HABITAT 2 SECONDARY HABITAT 2 SECONDARY HABITAT 2 SECONDARY HABITAT 2 SECONDARY HABITAT 2 SECONDARY HABITAT 2 |  |
+| Headwater Creek,Low Gradient,Cool Mussels Amphibians Amphibians Amphibians Amphibians Amphibians Amphibians Amphibians Amphibians Amphibians Amphibians Mussels Amphibians Amphibians Amphibians Dragonflies and Damselflies Amphibians Amphibians | 1 4 5 2 4 7 1 1 2 5 | 19 | 5 1 1 1 1 1 1 2 1 1 1 1 2 | 0.06% |
+| Headwater Creek,Low Gradient, Warm Headwater Creek,Moderate Gradient,Cold Totals Dragonflies and Damselflies Crayfish Crayfish Crayfish Dragonflies and Damselflies Dragonflies and Damselflies Crayfish Crayfish Crayfish Dragonflies and Damselflies Totals Dragonflies and Damselflies Dragonflies and Damselflies Dragonflies and Damselflies Fish Crayfish Crayfish Fish Dragonflies and Damselflies Fish Dragonflies and Damselflies Fish Fish Dragonflies and Damselflies Dragonflies and Damselflies Dragonflies and Damselflies Fish Fish Fish Fish Mussels Dragonflies and Damselflies Dragonflies and Damselflies | 1 4 2 1 4 3 3 2 2 1 9 1 1 1 9 10 17 13 7 4 22 1 1 9 | 968 67 | 5 7 1 1 1 4 1 4 5 3 3 1 4 1 3 14 1 4 1 2 9 11 7 13 4 6 6 | 2.96% 0.20% |
+| Headwater Creek,Moderate Gradient,Cool PRIMARY HABITAT: Species expected to be found in this habitat type 1 Mussels Fish 1 Other Invertebrates 2 Fish Other Invertebrates 3 Other Invertebrates 5 Fish 10 Fish 5 Fish 26 Mussels 2 PRIMARY HABITAT: Species expected to be found in this habitat type 1 Mussels 30 Mussels 13 Mussels 15 Reptiles 1 Fish 7 Fish 2 |  | 3,364 | 4 1 10 32 15 26 23 1 3 11 | 10.30% |
+| Headwater Creek,Moderate Gradient,Warm Headwater Creek,High Gradient,Cold SECONDARY HABITAT: Species sometimes found in this habitat type 2 Other Invertebrates 5 Other Invertebrates 7 Totals 2 Mussels 1 Totals 5 Totals 13 Mussels 4 Mussels 7 Mussels 45 Other Invertebrates 1 SECONDARY HABITAT: Species sometimes found in this habitat type 2 Other Invertebrates 1 Other Invertebrates 3 Reptiles 1 Totals 1 Mussels 4 Mussels 14 Reptiles 2 Reptiles Other Invertebrates 1 Other Invertebrates 7 Other Invertebrates 3 Plants 1 Plants Reptiles 1 Reptiles 1 Snails 1 Other Invertebrates 2 Reptiles |  | 7,244 3,547 | 3 19 2 6 6 24 9 1 1 1 1 | 22.17% 10.86% |
+| Headwater Creek,High Gradient,Cool Headwater Creek,High Gradient,Warm Small River,Low Gradient,Cool Small River,Low Gradient, Warm Totals PRIMARY HABITAT: Species expected to be found in this habitat type 16 SECONDARY HABITAT: Species sometimes found in this habitat type 1 2 Totals 24 PRIMARY HABITAT: Species expected to be found in this habitat type SECONDARY HABITAT: Species sometimes found in this habitat type 1 2 PRIMARY HABITAT: Species expected to be found in this habitat type SECONDARY HABITAT: Species sometimes found in this habitat type 1 2 Plants 1 Reptiles 1 Totals 15 PRIMARY HABITAT: Species expected to be found in this habitat type SECONDARY HABITAT: Species sometimes found in this habitat type 1 2 PRIMARY HABITAT: Species expected to be found in this habitat type SECONDARY HABITAT: Species sometimes found in this habitat type 1 2 Plants 1 Reptiles Totals 49 Reptiles 2 Totals 34 1 Reptiles 5 Snails 3 Totals Snails 1 Totals 10 Snails 1 Totals 56 Snails 1 Totals 28 Totals 19 PRIMARY HABITAT: Species expected to be found in this habitat type 1 PRIMARY HABITAT: Species expected to be found in this habitat type 1 Totals 28 Snails 1 2 SECONDARY HABITAT: Species sometimes found in this habitat type Totals 17 1 PRIMARY HABITAT: Species expected to be found in this habitat type 88 1 1 1 SECONDARY HABITAT: Species sometimes found in this habitat type 2 SECONDARY HABITAT: Species sometimes found in this habitat type 2 1 |  | 10,610 2,108 54 746 | 15 18 34 44 33 39 40 17 48 | 32.48% 6.45% 0.17% 2.28% |
+| Small River,Moderate Gradient,Cool 1 1 2 1 2 2 2 2 |  | 552 |  | 1.69% |
+| Small River,Moderate Gradient,Warm 2 2 2 |  | 980 |  | 3.00% |
+| Small River,High Gradient,Cool |  | 8 |  | 0.03% |
+| Small River,High Gradient,Warm |  | 23 |  | 0.07% |
+| Medium River, Low Gradient,Warm |  | 825 |  | 2.53% |
+| Medium River,Moderate Gradient,Warm |  | 539 |  | 1.65% |
+| Medium River,High Gradient,Warm |  | 4 |  | 0.01% |
+| Large River,Low Gradient,Warm |  | 851 |  | 2.61% |
+| Large River,Moderate Gradient,Warm |  | 160 |  | 0.49% |
+| Totals |  | 32,670 | 100.00% |  |
+
+[/TABLE]
+
+[TABLE]
+*Stresses on Species\Habitats and Conservation Actions in Response to Stresses exerted on Species of Greatest Conservation Need (SGCN) populations and habitats from a number of sources can reduce species populations either directly, by disease, or indirectly, by affecting the quality or quantity of available habitat. In considering how stresses are affecting SGCN habitats, scale is an important parameter. Some stresses are local, some are regional, and some occur statewide. The scale at which the stress is impacting habitats must be considered when developing potential actions to reduce the effects of the stress.With these considerations in mind, the West Virginia Division of Natural Resources (WVDNR) assessed an extensive array of stresses for their presence and impact on SGCN populations. External analyses contributed substantially to this assessment, including the energy development probability models developed by The Nature Conservancy (TNC) and the Appalachian Landscape Conservation Cooperative*
+
+| 4.1: | Stresses on Species and Habitats |
+| --- | --- |
+
+[/TABLE]
+
+[TABLE]
+* Following the process described in Section 2.10, conservation actions were identified and prioritized by WVDNR biologists to address each of the major stresses listed in Sections 4.2.1 and 4.2.2. Because (1) IUCN stress categories often obscure the actual impact of the stresses, e.g., stream sedimentation, (2) there is overlap in terrestrial and aquatic stress categories and (3) many conservation actions address multiple stresses, conservation actions presented in this section have been grouped for clarity of communication. In the WVDNR's SWAPMASTER database, each action remains linked to the IUCN stress to which it responds. 4.3.2.1: Conservation Actions that Address Impacts from Species and Diseases that Affect SGCN Populations and Habitats • Collaborate with others to implement control and management strategies of the "West Virginia Invasive Species Strategic Plan and Voluntary Guidelines" (WVDNR 2014) for building capacity, setting priorities, and sharing expertise. • Partner with others to strengthen state law relating to the private stocking of gamefish in public waters. • Partner with others to seek passage of state legislation that would regulate transport of aquatic species between waterbodies. • Evaluate and, where feasible, modify WVDNR fish stocking policies to reduce harmful effects of stocking non-native species over populations of SGCN species. • Increase collaborative efforts to inform sportsmen and other publics about the harmful effects of invasive species and diseases and the role that recreational users can play to reduce those effects. • Consider SGCN populations and habitats in formulating deer harvest strategies.*
+
+|  | 2015 WV State Wildlife Action Plan |
+| --- | --- |
+|  | The majority of conservation actions |
+| presented in the West Virginia SWAP are of that type, i.e., rarely regulatory, largely voluntary, and |  |
+| almost universally collaborative. |  |
+| 4.3.2: | Conservation Actions to Address the Impacts of Major Stresses |
+
+[/TABLE]
+
+[TABLE]
+*• Collaboratively pursue adequate funding for West Virginia Department of Agriculture (WVDA), Animal and Plant Health Inspection Service (APHIS), and other federal programs for identifying, prioritizing, and addressing non-native forest pests and invasive plants. Partner with others to seek and enforce more effective water quality laws/procedures relating to transportation, treatment, discharge, and spills of harmful industrial effluents.• Support regulatory changes that improve separation of stormwater and sewage treatment facilities. • Partner with others to seek incorporation of mussel standards into water quality regulations.2015 WV State Wildlife Action Plan• Coordinate with Department of Health and Human Resources (DHHR) and WVDEP to improve wastewater standards and/or enforcement. • Partner with others to increase public awareness of impacts from harmful industrial effluents to aquatic habitats and species, especially SGCN, and to encourage reductions in discharge of those effluents. • In cooperation with West Virginia Department of Homeland Security, establish a hazardous waste response protocol appropriate for protecting critical SGCN populations. • Coordinate efforts among government agencies and private entities to encourage development and deployment of improved sewage treatment and stormwater retention facilities statewide. 4.3.2.3: Conservation Actions that Address Impacts from Roads and Railroads • Coordinate efforts among government agencies and private entities to elevate conservation of SGCN and their habitat throughout planning and permitting processes for new construction and repair of existing roads and railroads. • Coordinate efforts among government agencies to develop a pre-planning and pre-mitigation program to enhance conservation of fish and wildlife habitats and reduce costly highway construction delays. • Modify mowing regimes and implement roadside vegetation plantings that benefit SGCN but are resistant to deer herbivory. • Improve interagency coordination for planning, site selection and project design, with special emphasis on early coordination/mitigation planning of individual projects. • Coordinate efforts among government agencies to improve construction and maintenance standards for bridges, culverts, and other transportation infrastructure with the goal of ensuring aquatic passage and protecting aquatic life and their habitats. Coordinate efforts among government agencies to improve design requirements for stream and streambank modifications implemented in response to floods and other watershed events. • Coordinate efforts among government agencies and private entities to ensure that all stream modifications are properly designed, permitted and implemented. • Coordinate efforts among government agencies and private entities to elevate consideration of SGCN populations and habitats during the permitting process for in-stream and near-stream activities. • Restore and increase floodplain wetland habitats to reduce sediment runoff, hold stormwater and reduce downstream flooding spikes. All Stream Activity Applications received by the WVDNR should be reviewed for potential impact to high-value aquatic habitats for SGCN. • Increase coordination among government agencies and private entities to develop industry and Public Service Commission (PSC) protocols encouraging the creation of pipeline corridors which can be utilized by multiple companies and are cited to minimize impacts to SGCN species. • Collaborate with others to develop gas and oil drilling guidelines that reduce impacts on SGCN populations and habitats. • Coordinate with government agencies to improve mine reclamation and abandoned mine lands (AML) restoration to reduce impacts on SGCN populations and habitats. • Continue to support reductions in pollutants contributing to acid deposition. • Collaborate with others to increase public awareness of the beneficial role that soft edges play in maintained forest openings, such as pipelines and utility corridors. • Coordinate efforts among government agencies and private entities to reduce aquatic impacts from construction and maintenance of stream crossing infrastructure for utility and service lines. • Collaborate with others to develop a more detailed assessment of climate change vulnerability for SGCN with specific management recommendations for the most vulnerable SGCN. 4.3.2.6: Conservation Actions that Address Impacts of Recreational Activities • Collaborate with public land owners to increase effective law enforcement of recreational vehicle use on public lands. • Collaborate with recreational user groups to encourage responsible use of trails near streams and rivers. • Collaborate with others to increase public awareness of the potential impacts of all-terrain vehicles (ATV) and other motorized recreation, including habitat degradation, introduction and spread of invasives, and disturbance of species, and develop responsible use guidelines for responsible recreation. • Collaborate with managers of public and private recreational facilities to implement management practices that enhance SGCN habitat. Conservation Actions that Address Impacts of Agriculture and Forest Management • Partner with government agencies and corporate timberland owners to develop an integrated forest management model that enhances habitat availability for SGCN across multiple seral stages in multiple areas of the state. • Coordinate efforts among government agencies and private entities to increase implementation of Farm Bill-related conservation practices, such as stream fencing with the goal of reducing harmful impacts from certain agricultural activities. • Expand Appalachian Fire Network ability to identify appropriate contexts for prescribed fire in West Virginia, developing appropriate prescribed fire and fire suppression management prescriptions, and developing and coordinating resources for appropriate prescribed fire and fire suppression activities. • Collaborate with others to increase implementation of Best Management Practices (BMPs) during forestry operations. • Promote partnerships among federal and state agencies to increase public awareness of impacts from certain harmful agricultural and forestry practices to SGCN populations and habitats and to encourage reductions or modifications of those practices. • Collaboratively enhance forest stewardship outreach for informing consulting foresters and landowners on timber harvest practices that benefit SGCN forest species. • Collaborate with others to increase public awareness of the beneficial role that headwater forests, wetlands, groundwater, and forested riparia play in maintaining adequate base flows, moderating storm flows, and moderating water temperatures in streams and rivers. • Collaborate with others to increase public awareness of aquatic SGCN, the effects that land management can have on aquatic SGCN habitats and the availability of incentives for habitat conservation. • Coordinate efforts among government agencies and private entities to promote riparian conservation/restoration initiatives such as Conservation Reserved Enhancement Programs (CREP). • Collaboratively increase efforts to inform the public about the effects of non-point source pollution on aquatic and karst species, on their habitats and on groundwater. • Collaborate with the West Virginia Division of Forestry (WVDOF) to promote inclusion of shade strips in forestry operations. • Collaborate with the WVDOF to elevate protection of habitat for SGCN during regulated forestry operations. Coordinate with public agencies and private entities to increase effective enforcement of existing laws and regulations relating to take of SGCN. 4.3.2.12: Conservation Actions to Address Communication and Information Needs • Collaborate with government agencies and private entities to provide publicly accessible information about concentrations of SGCN populations and habitats to better facilitate conservation. • Collaborate with others to increase public awareness of habitat requirements of SGCN. • Partner with others to develop and disseminate information about appropriate conservation practices to benefit SGCN populations and habitats. 4.3.2.13: Conservation Actions to Address Climate Change Climate change is an issue of substantial concern to wildlife biologists with several recent assessments reviewing the potential impacts of climate change on animals, plants, and forest communities in the region (Butler et al. 2015, Byers and Norris 2011, Staudinger et al. 2015). Chapter 3 of this plan highlights climate change as a concern for many specific groups, including cool and cold water fish, plants, terrestrial salamanders, high elevation amphibians, birds, mammals, butterflies and moths, and wetland amphibians, birds, butterflies, moths, dragonflies and damselflies. Section 4.2 of this plan identified several major statewide stresses associated with climate change: Habitat Shifting or Alteration for terrestrial SGCN populations and habitats and Drought, Storms and Flooding, and Temperature Extremes for aquatic SGCN populations and habitats.*
+
+| 2015 WV State Wildlife Action Plan 2015 WV State Wildlife Action Plan |
+| --- |
+| 4.3.2.2: Conservation Actions that Address Impacts of Water Pollution from Industrial and Municipal Sources Development • Collaborate with others to enhance landowner incentives and funding for participating in land conservation. • Incorporate guidance on appropriate voluntary conservation measures in farmland protection easements to benefit SGCN species and habitats. 4.3.2.10: Conservation Actions that Address Impacts from Pesticide Application • Collaboratively develop and disseminate management guidelines and associated general outreach to private landowners for reducing the effects of pesticides on SGCN insects, reptiles and amphibians. • Improve interagency coordination and pre-planning to minimize impacts of forest pest suppression programs on SGCN populations and sensitive habitats. 4.3.2.8: 4.3.2.9: Conservation Actions that Address Impacts to Water Quantity • Partner with others to seek regulatory solutions that manage water use to maintain adequate flow for all aquatic species, with increased emphasis on SGCN. • Coordinate efforts among government agencies and private entities to reduce or eliminate interbasin transfer of water resources. • 4.3.2.7: Conservation Actions that Address Impacts of Commercial and Residential • |
+| • Coordinate efforts among government agencies and private entities to prevent or reduce • Coordinate with government agencies to consolidate and make available the most recent |
+| discharge of harmful industrial effluents into high-quality aquatic habitats with significant information on pesticide impacts to SGCN in West Virginia. |
+| populations of aquatic SGCN. • 4.3.2.5: Conservation Actions that Address Impacts from Energy Production, Transmission and Consumption 4.3.2.11: Conservation Actions that Address Impacts from Take of SGCN |
+
+[/TABLE]
+
+[TABLE]
+*Terrestrial Habitats -Ridge and Valley Ecoregion *
+
+| 2015 WV State Wildlife Action Plan |
+| --- |
+
+[/TABLE]
+
+[TABLE]
+*Aquatic Habitats -Ridge and Valley Ecoregion DescriptionThe Ridge and Valley Ecoregion comprises about 14% of the state's area and includesBailey et al.'s  (1994)  Northern Ridge and Valley and a small area of the Northern Blue Ridge Mountains in Jefferson County. It has the lowest elevation in the state (Harpers Ferry), but also has the highest range in elevation, with some peaks exceeding 4,000 feet. The climate varies with elevation, but is relatively dry due to the rain shadow effect of the Allegheny Mountains to the west. Geology is comprised of folded and faulted layers of sedimentary rock, mostly sandstones and shales, which form acidic soils, but there are also significant outcrops of limestone and dolomite which form higher pH soils and caves. The crystalline rocks of the Blue Ridge Mountains are older than the sedimentary rocks found in the rest of West Virginia.The Ridge and Valley Ecoregion has a great variety of terrestrial habitats which reflect its dramatic and contrasting geologic and climatic patterns. Most of the highest ridges support Montane Red Oak Forests, but there are a few patches of Red Spruce Forests and Northern Hardwoods Forests. Dryer habitats including Dry Oak (-Pine) Forests; Pine -Oak Rocky Woodlands; Shale Barrens; and Dry Calcareous Oak Forests, Woodlands, and Glades occur in higher concentrations in this ecoregion than in any other in the state. The ecoregion is noteworthy for a large number of Central and Southern Appalachian endemic plants and animals, especially very localized cave endemics and Central Appalachian endemic plants, snails, and salamanders of Dry Oak and Montane Red Oak Forests, Woodlands, Shale Barrens, and Cedar Glades. Small Stream Riparian habitats in Jefferson and Berkeley counties include specialized marl marshes which occur nowhere else in the state and host a high diversity of rare plants.*
+
+| 2015 WV State Wildlife Action Plan |
+| --- |
+| 5.2.1: |
+
+[/TABLE]
+
+[TABLE]
+*Aquatic Habitats -Allegheny Mountains Ecoregion 2015 *
+
+|  |  |  | 2015 WV State Wildlife Action Plan 2015 WV State Wildlife Action Plan 2015 WV State Wildlife Action Plan |  |  |
+| --- | --- | --- | --- | --- | --- |
+| TERRESTRIAL HABITAT SUMMARY AQUATIC HABITAT SUMMARY |  |  |  |  |  |
+| ECOREGION = Ridge and Valley ECOREGION = Ridge and Valley |  |  |  |  |  |
+| TAXA | PRIORITY 1 SPECIES ACRES IN PERCENT OF MILES IN PERCENT OF |  |  | PRIORITY 2 SPECIES PERCENT OF WV PERCENT OF WV |  |
+| Amphibians HABITAT TYPE HABITAT TYPE | 11 ECOREGION ECOREGION |  | ECOREGION AREA ECOREGION MILES |  | 17 TOTAL FOR TYPE TOTAL FOR TYPE |
+| Birds | 33 |  |  |  | 24 |
+| Butterflies and Moths Acidic Rock Outcrops, Cliffs, and Talus Headwater Creek,Low Gradient,Cool | 19 4,499 3 |  | 0.21% 0.07% |  | 16 5.01% 16.23% |
+| Cave Invertebrates Headwater Creek,Low Gradient, Warm | 28 34 |  | 0.76% |  | 11 3.50% |
+| Crayfish Anthropogenic Shrubland & Grassland Headwater Creek,Moderate Gradient,Cool | 874 | 774 | 0.04% 19.50% |  | 1 0.49% 25.97% |
+| Dragonflies and Damselflies Calcareous Cliffs and Talus Headwater Creek,Moderate Gradient,Warm Fish Developed Headwater Creek,High Gradient,Cold Headwater Creek,High Gradient,Cool | 13 4,997 368 15 129,105 1,117 1,390 |  | 0.24% 8.22% 6.16% 24.93% 31.04% |  | 54.27% 5.08% 26 6 31.48% 11.34% 13.10% |
+| Mammals Dry Calcareous Forests, Woodlands, and Glad Headwater Creek,High Gradient,Warm | 6 52,334 2 |  | 2.50% 0.04% |  | 7 73.17% 0.08% |
+| Mussels Dry Oak (-Pine) Forests Small River,Low Gradient,Cool | 10 345,951 10 |  | 16.51% 0.22% |  | 7 14.00% 18.17% |
+| Plants Small River,Low Gradient, Warm Reptiles Dry-Mesic Oak Forests Small River,Moderate Gradient,Cool Snails Heath-Grass Barrens Small River,Moderate Gradient,Warm Tiger Beetles High Allegheny Wetlands Small River,High Gradient,Warm Medium River, Low Gradient,Warm | 49 27 12 878,396 137 3 7 112 2 0 0 108 |  | 0.60% 41.91% 3.07% 0.00% 2.51% 0.00% 0.00% 2.40% |  | 3.59% 161 17.60% 24.91% 9 11.47% 0.24% 37 1 0.12% 0.00% 13.04% |
+| Mixed Mesophytic Forests Medium River,Moderate Gradient,Warm Totals Montane Red Oak Forests Large River,Low Gradient,Warm | 201 55,398 165 12,416 101 |  | 2.64% 3.69% 0.59% 2.25% |  | 323 1.88% 30.71% 58.73% 11.86% |
+| Large River,Moderate Gradient,Warm | 32 |  | 0.70% |  | 19.78% |
+| Northern Hardwood Forests Totals | 16,933 4,480 |  | 0.81% |  | 1.70% |
+| Pine-Oak Rocky Woodlands | 27,295 |  | 1.30% |  | 35.73% |
+| Red Spruce Forests |  | 893 | 0.04% |  | 0.50% |
+| River Floodplains | 20,182 |  | 0.96% |  | 16.79% |
+| Shale Barrens | 1,460 |  | 0.07% |  | 81.43% |
+| Sinkhole and Depression Ponds |  | 149 | 0.01% |  | 100.00% |
+| Small Stream Riparian Habitats | 75,631 |  | 3.61% |  | 15.30% |
+| Unresolved | 66,951 |  | 3.19% |  | 57.36% |
+| Totals | 1,693,371 |  |  |  |  |
+
+[/TABLE]
+
+[TABLE]
+*Terrestrial Habitats -Cumberland Mountains Ecoregion 2015 WV State Wildlife Action Plan Aquatic Habitats -Cumberland Mountains Ecoregion 2015 *
+
+|  |  | 2015 WV State Wildlife Action Plan 2015 WV State Wildlife Action Plan 2015 WV State Wildlife Action Plan |  |
+| --- | --- | --- | --- |
+| TERRESTRIAL HABITAT SUMMARY AQUATIC HABITAT SUMMARY 5.4: The Cumberland Mountains Ecoregion |  |  |  |
+| ECOREGION = Allegheny Mountains ECOREGION = Allegheny Mountains |  |  |  |
+| TAXA Amphibians HABITAT TYPE HABITAT TYPE | PRIORITY 1 SPECIES 12 ACRES IN ECOREGION PERCENT OF ECOREGION AREA PRIORITY 2 SPECIES MILES IN PERCENT OF PERCENT OF WV PERCENT OF WV TOTAL FOR TYPE ECOREGION ECOREGION MILES TOTAL FOR TYPE |  |  |
+| Birds Butterflies and Moths Acidic Rock Outcrops, Cliffs, and Talus Headwater Creek,Low Gradient,Cool Headwater Creek,Low Gradient, Warm | 38 18 12,287 12 182 | 0.31% 0.15% 2.31% | 62.59% 13.68% 18.80% |
+| Cave Invertebrates Anthropogenic Shrubland & Grassland Headwater Creek,Moderate Gradient,Cold | 43 10,007 67 | 0.25% 0.85% | 6.29% 100.00% |
+| Crayfish Calcareous Cliffs and Talus Headwater Creek,Moderate Gradient,Cool | 3 3,052 1,501 | 0.08% 19.08% | 2 33.14% 44.61% |
+| Dragonflies and Damselflies Headwater Creek,Moderate Gradient,Warm Developed Headwater Creek,High Gradient,Cold | 115 22 225,550 1,677 | 1.47% 5.71% 21.31% | 1.59% 19.80% 47.26% |
+| Fish Dry Calcareous Forests, Woodlands, and Glades Headwater Creek,High Gradient,Cool | 12 19,189 3,222 | 0.49% 40.95% | 3 26.83% 30.37% |
+| Mammals Mussels Dry Oak (-Pine) Forests Small River,Low Gradient,Cool Small River,Low Gradient, Warm | 9 7 521,476 41 72 | 13.20% 0.52% 0.92% | 8 75.51% 21.10% 9.66% |
+| Plants Dry-Mesic Oak Forests Small River,Moderate Gradient,Cool | 65 906,046 379 | 22.94% 4.81% | 178 18.16% 68.59% |
+| Reptiles Heath-Grass Barrens Small River,Moderate Gradient,Warm Small River,High Gradient,Cool | 2,810 179 8 8 | 0.07% 2.28% 0.11% | 99.76% 18.27% 100.00% |
+| Snails High Allegheny Wetlands Small River,High Gradient,Warm | 10 20,894 8 | 0.53% 0.10% | 99.80% 33.21% |
+| Tiger Beetles Mixed Mesophytic Forests Medium River, Low Gradient,Warm | 3 436,945 108 | 11.06% 1.37% | 14.83% 13.10% |
+| Totals Montane Red Oak Forests Medium River,Moderate Gradient,Warm Medium River,High Gradient,Warm | 250 7,130 168 1 | 0.18% 2.13% 0.01% | 369 31.17% 33.73% 11.66% |
+| Northern Hardwood Forests Large River,Low Gradient,Warm | 967,945 83 | 24.51% 1.06% | 97.30% 9.80% |
+| Pine-Oak Rocky Woodlands Large River,Moderate Gradient,Warm | 48,192 45 | 1.22% 0.57% | 63.08% 28.35% |
+| Red Spruce Forests Totals | 177,050 7,867 | 4.48% | 99.48% |
+| River Floodplains | 35,319 | 0.89% | 29.38% |
+| Shale Barrens | 333 | 0.01% | 18.57% |
+| Sinkhole and Depression Ponds | 0 | 0.00% | 0.00% |
+| Small Stream Riparian Habitats | 149,257 | 3.78% | 30.20% |
+| Unresolved | 48,358 | 1.22% | 41.43% |
+| Totals | 3,591,837 |  |  |
+
+[/TABLE]
+
+[TABLE]
+*Terrestrial Habitats -Western Allegheny Plateau Ecoregion 2015 *
+
+|  |  |  |  | 2015 WV State Wildlife Action Plan 2015 WV State Wildlife Action Plan 2015 WV State Wildlife Action Plan |  |
+| --- | --- | --- | --- | --- | --- |
+| TERRESTRIAL HABITAT SUMMARY AQUATIC HABITAT SUMMARY 5.5: The Western Allegheny Plateau Ecoregion |  |  |  |  |  |
+| ECOREGION = Cumberland Mountains ECOREGION = Cumberland Mountains |  |  |  |  |  |
+| TAXA Amphibians HABITAT TYPE HABITAT TYPE | PRIORITY 1 SPECIES 11 ACRES IN ECOREGION PERCENT OF ECOREGION AREA PRIORITY 2 SPECIES 16 MILES IN PERCENT OF PERCENT OF WV PERCENT OF WV TOTAL FOR TYPE ECOREGION ECOREGION MILES TOTAL FOR TYPE |  |  |  |  |
+| Birds Butterflies and Moths Acidic Rock Outcrops, Cliffs, and Talus Headwater Creek,Low Gradient,Cool Headwater Creek,Low Gradient, Warm Cave Invertebrates Anthropogenic Shrubland & Grassland Headwater Creek,Moderate Gradient,Coo Crayfish Calcareous Cliffs and Talus Headwater Creek,Moderate Gradient,War Headwater Creek,High Gradient,Cold | 25 8 69,762 4 115 87,469 756 1 4 75 1,115 748 |  |  | 2.06% 0.06% 1.63% 2.59% 10.68% 0.00% 15.75% 10.56% | 15 21.18% 77.70% 11.92% 7 54.97% 22.49% 15.40% 0.82% 1 21.08% |
+| Dragonflies and Damselflies Developed Headwater Creek,High Gradient,Cool | 11 249,690 2,552 |  |  | 7.39% 36.05% | 19 21.92% 24.05% |
+| Fish Dry Calcareous Forests, Woodlands, and Glades Headwater Creek,High Gradient,Warm | 15 861 |  | 0 | 0.00% 12.16% | 18 0.00% 40.82% |
+| Mammals Mussels Dry Oak (-Pine) Forests Small River,Low Gradient,Cool Small River,Low Gradient, Warm Dry-Mesic Oak Forests Small River,Moderate Gradient,Cool | 8 19 580,340 2 73 1,112,554 22 |  |  | 17.18% 0.04% 1.03% 32.93% 0.31% | 3 4.63% 23.49% 9.72% 23 22.30% 4.01% |
+| Plants Reptiles Heath-Grass Barrens Small River,Moderate Gradient,Warm Small River,High Gradient,Warm | 39 10 343 13 |  | 0 | 0.00% 4.84% 0.19% | 104 34.98% 0.00% 9 56.24% |
+| Snails High Allegheny Wetlands Medium River, Low Gradient,Warm | 2 179 |  | 41 | 0.00% 2.53% | 19 0.20% 21.71% |
+| Tiger Beetles Mixed Mesophytic Forests Medium River,Moderate Gradient,Warm | 1 1,030,420 150 |  |  | 30.50% 2.11% | 1 34.98% 27.76% |
+| Totals Montane Red Oak Forests Medium River,High Gradient,Warm Large River,Low Gradient,Warm | 154 1,593 3 97 |  |  | 0.05% 0.05% 1.37% | 235 77.97% 7.54% 11.43% |
+| Northern Hardwood Forests Large River,Moderate Gradient,Warm | 5,876 45 |  |  | 0.17% 0.64% | 0.59% 28.42% |
+| Pine-Oak Rocky Woodlands Totals | 7,079 | 824 |  | 0.02% | 1.08% |
+| Red Spruce Forests |  |  | 27 | 0.00% | 0.01% |
+| River Floodplains | 17,826 |  |  | 0.53% | 14.83% |
+| Shale Barrens |  |  | 0 | 0.00% | 0.00% |
+| Sinkhole and Depression Ponds |  |  | 0 | 0.00% | 0.00% |
+| Small Stream Riparian Habitats | 105,760 |  |  | 3.13% | 21.40% |
+| Unresolved |  | 952 |  | 0.03% | 0.82% |
+| Totals | 3,263,211 |  |  |  |  |
+
+[/TABLE]
+
+[TABLE]
+* Public Lands: Hillcrest, Cross Creek, Castleman Run, Burches Run, Bear Rocks, and Dunkard Fork wildlife management areas (WMAs), Tomlinson Run State Park, and the Ohio River Islands National Wildlife Refuge (ORINWR).*
+
+| 2015 WV State Wildlife Action Plan |
+| --- |
+| • |
+
+[/TABLE]
+
+[TABLE]
+*Ohio River Corridor CFA -Terrestrial Habitats 2015 WV State Wildlife Action Plan Ohio River Corridor CFA -Aquatic Habitats *
+
+|  |  |  | 2015 WV State Wildlife Action Plan 2015 WV State Wildlife Action Plan 2015 WV State Wildlife Action Plan 2015 WV State Wildlife Action Plan |  |
+| --- | --- | --- | --- | --- |
+| TERRESTRIAL HABITAT SUMMARY AQUATIC HABITAT SUMMARY 6.3: Ohio River Corridor CFA 6.3.1: |  |  |  |  |
+| CONSERVATION FOCUS AREA = Northern Panhandle CONSERVATION FOCUS AREA = Northern Panhandle |  |  |  |  |
+| TAXA | PRIORITY 1 SPECIES ACRES IN MILES IN PERCENT OF PERCENT OF PRIORITY 2 SPECIES PERCENT OF WV PERCENT OF WV |  |  |  |
+| Amphibians HABITAT TYPE HABITAT TYPE | 2 CFA CFA |  | CFA AREA CFA MILES | 9 TOTAL FOR TYPE TOTAL FOR TYPE |
+| Birds Acidic Rock Outcrops, Cliffs, and Talus Headwater Creek,Low Gradient, Warm | 20 2 | 145 | 0.07% 0.52% | 12 0.16% 0.44% |
+| Butterflies and Moths Cave Invertebrates Agriculture Headwater Creek,Moderate Gradient,Cool Headwater Creek,Moderate Gradient,Warm | 1 29,995 93 69 |  | 14.27% 19.87% 14.66% | 1 1 4.24% 2.09% 1.76% |
+| Dragonflies and Damselflies Anthropogenic Shrubland & Grassland Headwater Creek,High Gradient,Cold Fish Calcareous Cliffs and Talus Headwater Creek,High Gradient,Cool Small River,Low Gradient,Cool | 4,263 5 6 48 190 1 |  | 2.03% 1.30% 0.02% 40.61% 0.19% | 2.68% 0.21% 4 0.52% 3.03% 12 2.40% |
+| Mammals Developed Small River,Low Gradient, Warm | 2 32,288 9 |  | 15.36% 1.96% | 2.83% 2.00% |
+| Mussels Dry Calcareous Forests, Woodlands, and Glades Small River,Moderate Gradient,Cool | 11 14 | 0 | 0.00% 2.94% | 19 0.00% 2.95% |
+| Plants Reptiles Dry Oak (-Pine) Forests Small River,Moderate Gradient,Warm Medium River, Low Gradient,Warm Snails Dry-Mesic Oak Forests Medium River,Moderate Gradient,Warm Heath-Grass Barrens Large River,Low Gradient,Warm | 1 2 10,130 25 4 75,652 4 0 50 |  | 4.82% 5.43% 0.84% 35.99% 0.83% 0.00% 10.59% | 12 4.69% 0.41% 0.82% 4 1.52% 1.12% 5 0.00% 8.53% |
+| Totals Large River,Moderate Gradient,Warm | 44 1 |  | 0.26% | 79 1.13% |
+| High Allegheny Wetlands Totals | 468 | 0 | 0.00% 100.00% | 0.00% |
+| Mixed Mesophytic Forests | 38,316 |  | 18.23% | 1.30% |
+| Montane Red Oak Forests |  | 0 | 0.00% | 0.00% |
+| Northern Hardwood Forests | 2,952 |  | 1.40% | 0.30% |
+| Pine-Oak Rocky Woodlands |  | 0 | 0.00% | 0.00% |
+| Red Spruce Forests |  | 0 | 0.00% | 0.00% |
+| River Floodplains | 1,958 |  | 0.93% | 1.63% |
+| Shale Barrens |  | 0 | 0.00% | 0.00% |
+| Sinkhole and Depression Ponds |  | 0 | 0.00% | 0.00% |
+| Small Stream Riparian Habitats | 5,842 |  | 2.78% | 1.18% |
+| Unresolved | 8,634 |  | 4.11% | 7.40% |
+| Totals | 210,223 |  | 100.00% |  |
+
+[/TABLE]
+
+[TABLE]
+* DescriptionLocated in the westernmost part of the state and spanning across parts of the Cumberland Mountains and Western Allegheny Plateau ecoregions, this is a hilly, highly dissected landscape typically with low elevation but sometimes-steep ridges and narrow valleys and small hollows. It is comprised of three disjunct areas: the Kanawha State Forest unit, the Chief Logan State Park unit, and the Western Lands unit. Ridgetops are dominated by Dry Oak (-Pine) and Dry-Mesic Oak Forests, with Mixed Mesophytic and Cove Forests typical on lower slopes. Numerous small streams dissect the landscape and mostly flow into the Guyandotte, Big Sandy, or Ohio rivers. The CFA is centered on public lands managed by the state and includes USACOE lands associated with reservoirs. The landscape remains largely forested, with some medium-sized blocks of relatively unfragmented forest remaining, primarily on public land.*
+
+|  |  |  | 2015 WV State Wildlife Action Plan 2015 WV State Wildlife Action Plan 2015 WV State Wildlife Action Plan 2015 WV State Wildlife Action Plan 2015 WV State Wildlife Action Plan |  |
+| --- | --- | --- | --- | --- |
+| TERRESTRIAL HABITAT SUMMARY AQUATIC HABITAT SUMMARY 6.4: Cumberlands West CFA Cumberlands West CFA -Aquatic Habitats 6.4.1: |  |  |  |  |
+| CONSERVATION FOCUS AREA = Ohio River Corridor CONSERVATION FOCUS AREA = Ohio River Corridor Cumberlands West CFA -Terrestrial Habitats |  |  |  |  |
+| TAXA | PRIORITY 1 SPECIES ACRES IN MILES IN PERCENT OF PERCENT OF PRIORITY 2 SPECIES PERCENT OF WV PERCENT OF WV |  |  |  |
+| Amphibians HABITAT TYPE HABITAT TYPE | 8 CFA CFA |  | CFA AREA CFA MILES | 16 TOTAL FOR TYPE TOTAL FOR TYPE |
+| Birds Acidic Rock Outcrops, Cliffs, and Talus Headwater Creek,Low Gradient, Warm | 26 93 | 136 | 0.02% 4.99% | 18 0.15% 16.78% |
+| Butterflies and Moths Crayfish Agriculture Headwater Creek,Moderate Gradient,Warm Headwater Creek,High Gradient,Cool | 2 1 123,468 889 355 |  | 15.08% 47.46% 18.93% | 4 1 22.78% 8.60% 5.66% |
+| Dragonflies and Damselflies Anthropogenic Shrubland & Grassland Headwater Creek,High Gradient,Warm Fish Calcareous Cliffs and Talus Small River,Low Gradient, Warm Small River,Moderate Gradient,Warm | 4 9,129 138 8 164 50 12 |  | 1.12% 7.38% 0.02% 2.69% 0.63% | 5.74% 18.21% 11 1.78% 10.97% 22 2.17% |
+| Mammals Developed Medium River, Low Gradient,Warm | 2 98,685 57 |  | 12.05% 3.04% | 4 8.66% 11.99% |
+| Mussels Dry Calcareous Forests, Woodlands, and Glades Medium River,Moderate Gradient,Warm | 20 15 | 0 | 0.00% 0.82% | 26 0.00% 4.44% |
+| Plants Reptiles Dry Oak (-Pine) Forests Large River,Low Gradient,Warm Large River,Moderate Gradient,Warm Snails Dry-Mesic Oak Forests Totals | 9 8 93,804 261 3 256,065 1,874 |  | 11.46% 13.92% 0.14% 31.28% 100.00% | 50 44.91% 3.80% 2.38% 10 5 5.13% |
+| Tiger Beetles Heath-Grass Barrens | 1 | 0 | 0.00% | 1 0.00% |
+| High Allegheny Wetlands |  | 0 | 0.00% | 0.00% |
+| Totals | 89 |  |  | 168 |
+| Mixed Mesophytic Forests | 169,351 |  | 20.69% | 5.75% |
+| Montane Red Oak Forests |  | 0 | 0.00% | 0.00% |
+| Northern Hardwood Forests |  | 223 | 0.03% | 0.02% |
+| Pine-Oak Rocky Woodlands |  | 0 | 0.00% | 0.00% |
+| Red Spruce Forests |  | 0 | 0.00% | 0.00% |
+| River Floodplains | 8,761 |  | 1.07% | 7.29% |
+| Shale Barrens |  | 0 | 0.00% | 0.00% |
+| Sinkhole and Depression Ponds |  | 0 | 0.00% | 0.00% |
+| Small Stream Riparian Habitats | 20,447 |  | 2.50% | 4.14% |
+| Unresolved | 38,477 |  | 4.70% | 32.96% |
+| Totals | 818,708 |  | 100.00% |  |
+
+[/TABLE]
+
+[TABLE]
+*• Key WVDNR Partners: WVDEP, West Virginia Division of Forestry (WVDOF), USFWS, USACOE, Appalachian Mountains Joint Venture (AMJV), motorized recreational trail groups, corporate landowners. • Public Lands: Beech Fork Lake WMA and State Park, East Lynn Lake WMA, Laurel Lake WMA, Cabwaylingo and Kanawha state forest, Chief Logan State Park 6.4.6: SWAPMASTER Summary Tables of Species and HabitatsThe following three pages contain summary tables of species and habitats generated from the SWAPMASTER database for this CFA. See Appendix 4 for a complete list of species recorded by the WVDNR within the boundaries of each CFA.*
+
+|  |  |  | 2015 WV State Wildlife Action Plan 2015 WV State Wildlife Action Plan 2015 WV State Wildlife Action Plan 2015 WV State Wildlife Action Plan 2015 WV State Wildlife Action Plan |  |
+| --- | --- | --- | --- | --- |
+| SPECIES SUMMARY BY TAXA AND PRIORITY TERRESTRIAL HABITAT SUMMARY AQUATIC HABITAT SUMMARY 6.5: Cumberlands East CFA Cumberlands East CFA -Aquatic Habitats 6.5.1: |  |  |  |  |
+| CONSERVATION FOCUS AREA = Cumberlands West CONSERVATION FOCUS AREA = Cumberlands West CONSERVATION FOCUS AREA = Cumberlands West Cumberlands East CFA -Terrestrial Habitats |  |  |  |  |
+| TAXA | PRIORITY 1 SPECIES ACRES IN MILES IN PERCENT OF PERCENT OF PRIORITY 2 SPECIES PERCENT OF WV PERCENT OF WV |  |  |  |
+| Amphibians HABITAT TYPE HABITAT TYPE | 5 CFA CFA |  | CFA AREA CFA MILES | 12 TOTAL FOR TYPE TOTAL FOR TYPE |
+| Birds Acidic Rock Outcrops, Cliffs, and Talus Headwater Creek,Low Gradient, Warm | 18 1,000 27 |  | 0.24% 3.47% | 9 1.11% 4.83% |
+| Butterflies and Moths Crayfish Agriculture Headwater Creek,Moderate Gradient,Warm Headwater Creek,High Gradient,Warm | 4 1 7,988 303 329 |  | 1.95% 39.04% 42.43% | 2 1 7.76% 0.56% 43.35% |
+| Dragonflies and Damselflies Anthropogenic Shrubland & Grassland Small River,Low Gradient, Warm Fish Calcareous Cliffs and Talus Small River,Moderate Gradient,Warm Small River,High Gradient,Warm | 4 17,362 45 4 0 44 0 |  | 4.24% 5.82% 0.00% 5.62% 0.02% | 10.91% 9.82% 5 0.00% 8.04% 14 1.08% |
+| Mammals Developed Medium River, Low Gradient,Warm | 5 32,191 13 |  | 7.85% 1.62% | 1 2.83% 2.64% |
+| Mussels Dry Calcareous Forests, Woodlands, and Glades Medium River,Moderate Gradient,Warm | 3 3 | 0 | 0.00% 0.44% | 14 0.00% 0.98% |
+| Plants Reptiles Dry Oak (-Pine) Forests Large River,Low Gradient,Warm Large River,Moderate Gradient,Warm Snails Dry-Mesic Oak Forests Totals | 6 7 94,680 11 1 153,487 776 |  | 23.09% 1.41% 0.13% 37.44% 100.00% | 29 1.88% 3.83% 0.91% 6 3 3.08% |
+| Heath-Grass Barrens |  | 0 | 0.00% | 0.00% |
+| Totals | 57 |  |  | 96 |
+| High Allegheny Wetlands |  | 0 | 0.00% | 0.00% |
+| Mixed Mesophytic Forests | 88,454 |  | 21.58% | 3.00% |
+| Montane Red Oak Forests |  | 0 | 0.00% | 0.00% |
+| Northern Hardwood Forests |  | 0 | 0.00% | 0.00% |
+| Pine-Oak Rocky Woodlands |  | 0 | 0.00% | 0.00% |
+| Red Spruce Forests |  | 0 | 0.00% | 0.00% |
+| River Floodplains | 2,172 |  | 0.53% | 1.81% |
+| Shale Barrens |  | 0 | 0.00% | 0.00% |
+| Sinkhole and Depression Ponds |  | 0 | 0.00% | 0.00% |
+| Small Stream Riparian Habitats | 8,869 |  | 2.16% | 1.79% |
+| Unresolved | 3,755 |  | 0.92% | 3.22% |
+| Totals | 409,958 |  | 100.00% |  |
+
+[/TABLE]
+
+[TABLE]
+*• Key WVDNR Partners: WVDEP, WVDOF, USFWS, UACOE, AMJV, motorized recreational trail groups, corporate landowners, West Virginia Land Trust.• Public Lands: Panther State Forest; Berwind Lake, RD Bailey Lake, Tug Fork, and Anawalt WMAs, Twin Falls State Park.6.5.6: SWAPMASTER Summary Tables of Species and HabitatsThe following three pages contain summary tables of species and habitats generated from the SWAPMASTER database for this CFA. See Appendix 4 for a complete list of species recorded by the WVDNR within the boundaries of each CFA.*
+
+|  |  |  | 2015 WV State Wildlife Action Plan 2015 WV State Wildlife Action Plan 2015 WV State Wildlife Action Plan |  |
+| --- | --- | --- | --- | --- |
+| SPECIES SUMMARY BY TAXA AND PRIORITY TERRESTRIAL HABITAT SUMMARY AQUATIC HABITAT SUMMARY 6.6: East River Mountain CFA |  |  |  |  |
+| CONSERVATION FOCUS AREA = Cumberlands East CONSERVATION FOCUS AREA = Cumberlands East CONSERVATION FOCUS AREA = Cumberlands East |  |  |  |  |
+| TAXA | PRIORITY 1 SPECIES ACRES IN MILES IN PERCENT OF PERCENT OF PRIORITY 2 SPECIES PERCENT OF WV PERCENT OF WV |  |  |  |
+| Amphibians HABITAT TYPE HABITAT TYPE | 6 CFA CFA |  | CFA AREA CFA MILES | 13 TOTAL FOR TYPE TOTAL FOR TYPE |
+| Birds Acidic Rock Outcrops, Cliffs, and Talus Headwater Creek,Low Gradient,Cool | 20 22,997 1 |  | 2.71% 0.06% | 7 25.61% 7.61% |
+| Butterflies and Moths Crayfish Agriculture Headwater Creek,Low Gradient, Warm Headwater Creek,Moderate Gradient,Cool | 4 2 22,872 19 308 |  | 2.70% 1.06% 17.54% | 3 1 3.35% 1.59% 14.03% |
+| Dragonflies and Damselflies Anthropogenic Shrubland & Grassland Headwater Creek,Moderate Gradient,Warm Fish Calcareous Cliffs and Talus Headwater Creek,High Gradient,Cold Headwater Creek,High Gradient,Cool | 5 18,813 110 2 0 557 474 |  | 2.22% 6.28% 0.00% 31.72% 27.02% | 11.82% 2.82% 7 0.00% 18.99% 6 7.57% |
+| Mammals Developed Headwater Creek,High Gradient,Warm | 4 58,860 51 |  | 6.94% 2.92% | 1 5.17% 6.76% |
+| Mussels Dry Calcareous Forests, Woodlands, and Glades Small River,Low Gradient, Warm | 1 26 | 0 | 0.00% 1.50% | 2 0.00% 5.74% |
+| Plants Reptiles Dry Oak (-Pine) Forests Small River,Moderate Gradient,Cool Small River,Moderate Gradient,Warm Snails Dry-Mesic Oak Forests Small River,High Gradient,Warm Tiger Beetles Heath-Grass Barrens Medium River, Low Gradient,Warm Medium River,Moderate Gradient,Warm | 12 4 164,745 4 99 1 273,425 0 1 0 47 58 |  | 19.44% 0.25% 5.64% 32.26% 0.00% 0.00% 2.68% 3.30% | 16 0.93% 6.67% 18.25% 8 5.48% 0.55% 10 9.88% 0.00% 1 16.69% |
+| Totals High Allegheny Wetlands Medium River,High Gradient,Warm | 62 0 | 0 | 0.00% 0.02% | 75 0.00% 8.73% |
+| Mixed Mesophytic Forests Totals | 255,936 1,755 |  | 30.19% 100.00% | 8.69% |
+| Montane Red Oak Forests | 894 |  | 0.11% | 4.23% |
+| Northern Hardwood Forests | 494 |  | 0.06% | 0.05% |
+| Pine-Oak Rocky Woodlands | 695 |  | 0.08% | 0.91% |
+| Red Spruce Forests |  | 16 | 0.00% | 0.01% |
+| River Floodplains | 3,490 |  | 0.41% | 2.90% |
+| Shale Barrens |  | 0 | 0.00% | 0.00% |
+| Sinkhole and Depression Ponds |  | 0 | 0.00% | 0.00% |
+| Small Stream Riparian Habitats | 21,446 |  | 2.53% | 4.34% |
+| Unresolved | 2,946 |  | 0.35% | 2.52% |
+| Totals | 847,629 |  | 100.00% |  |
+
+[/TABLE]
+
+[TABLE]
+*East River Mountain CFA -Terrestrial Habitats 2015 WV State Wildlife Action Plan East River Mountain CFA -Aquatic Habitats DescriptionThis CFA includes the southwestern edge of the Ridge and Valley Ecoregion in West Virginia. It borders Virginia along the crest of East River Mountain, which is capped by Tuscarora sandstone and culminates at Buckhorn Knob at over 4000 feet in elevation. West of East River Mountain, the landscape is 2000-2300 feet in elevation and is underlain by limestone which has developed many caves, sinkholes, and springs.*
+
+| 2015 WV State Wildlife Action Plan |
+| --- |
+| 6.6.1: |
+
+[/TABLE]
+
+[TABLE]
+*Bluestone Lake/Peters Mountain CFA -Terrestrial Habitats 2015 WV State Wildlife Action Plan Bluestone Lake/Peters Mountain CFA -Aquatic Habitats DescriptionThis diverse landscape, spanning across parts of the Allegheny Mountains and Ridge and Valley ecoregions, has a wide variety of landforms including karst, big rivers, deep river gorges, and high mountain ridges. The Bluestone Dam forms the 2040 acre Bluestone Reservoir on the New River.*
+
+|  |  |  | 2015 WV State Wildlife Action Plan 2015 WV State Wildlife Action Plan 2015 WV State Wildlife Action Plan 2015 WV State Wildlife Action Plan |  |
+| --- | --- | --- | --- | --- |
+| TERRESTRIAL HABITAT SUMMARY AQUATIC HABITAT SUMMARY 6.7: Bluestone Lake/Peters Mountain CFA 6.7.1: |  |  |  |  |
+| CONSERVATION FOCUS AREA = East River Mountain CONSERVATION FOCUS AREA = East River Mountain |  |  |  |  |
+| TAXA | PRIORITY 1 SPECIES ACRES IN MILES IN PERCENT OF PERCENT OF PRIORITY 2 SPECIES PERCENT OF WV PERCENT OF WV |  |  |  |
+| Amphibians HABITAT TYPE HABITAT TYPE | 5 CFA CFA |  | CFA AREA CFA MILES | 10 TOTAL FOR TYPE TOTAL FOR TYPE |
+| Birds Acidic Rock Outcrops, Cliffs, and Talus Headwater Creek,Low Gradient, Warm | 6 1 | 165 | 0.27% 0.88% | 2 0.18% 0.17% |
+| Cave Invertebrates Dragonflies and Damselflies Agriculture Headwater Creek,Moderate Gradient,Cool Headwater Creek,Moderate Gradient,Warm | 1 1 5,419 25 4 |  | 8.99% 23.84% 3.33% | 6 1.15% 0.38% 0.09% |
+| Fish Anthropogenic Shrubland & Grassland Headwater Creek,High Gradient,Cold Mammals Calcareous Cliffs and Talus Headwater Creek,High Gradient,Cool Small River,Moderate Gradient,Warm | 1,110 3 33 4 89 36 8 |  | 1.84% 31.09% 0.15% 33.53% 7.32% | 0.70% 1.13% 0.96% 0.57% 2 1.43% |
+| Plants Developed Totals | 5 8,656 106 |  | 14.36% 100.00% | 5 0.76% |
+| Reptiles Dry Calcareous Forests, Woodlands, and Glades | 1 5,559 |  | 9.22% | 7.77% |
+| Snails Dry Oak (-Pine) Forests | 10,659 |  | 17.68% | 13 0.43% |
+| Totals Dry-Mesic Oak Forests | 26 19,943 |  | 33.08% | 38 0.40% |
+| Heath-Grass Barrens |  | 0 | 0.00% | 0.00% |
+| High Allegheny Wetlands |  | 0 | 0.00% | 0.00% |
+| Mixed Mesophytic Forests | 2,654 |  | 4.40% | 0.09% |
+| Montane Red Oak Forests |  | 148 | 0.24% | 0.70% |
+| Northern Hardwood Forests |  | 164 | 0.27% | 0.02% |
+| Pine-Oak Rocky Woodlands |  | 592 | 0.98% | 0.78% |
+| Red Spruce Forests |  | 0 | 0.00% | 0.00% |
+| River Floodplains |  | 140 | 0.23% | 0.12% |
+| Shale Barrens |  | 0 | 0.00% | 0.00% |
+| Sinkhole and Depression Ponds |  | 0 | 0.00% | 0.00% |
+| Small Stream Riparian Habitats | 1,397 |  | 2.32% | 0.28% |
+| Unresolved | 3,586 |  | 5.95% | 3.07% |
+| Totals | 60,280 |  | 100.00% |  |
+
+[/TABLE]
+
+[TABLE]
+*• Key WVDNR Partners: WVDEP, West Virginia Cave Conservancy, Institute for Earth Education, National Park Service, Natural Resources Conservation Service (NRCS), county farmland protection programs. • Public Lands: Pipestem State Park, Bluestone Lake State Park and Bluestone WMA, Bluestone National Scenic River, Camp Creek State Forest and State Park.*
+
+| 6.7.6: | SWAPMASTER Summary Tables of Species and Habitats |
+| --- | --- |
+
+[/TABLE]
+
+[TABLE]
+*Meadow River Wetlands CFA -Terrestrial Habitats 2015 WV State Wildlife Action Plan Meadow River Wetlands CFA -Aquatic Habitats 2015 DescriptionThe Potts Creek and Dunlap Creek watersheds in the Ridge and Valley Ecoregion are the only portion of the James River Watershed in West Virginia. The valleys are moderately wide and mostly shaley, with some areas of limestone. Parallel southwest to northeast-oriented shale and sandstone ridges rise above the valleys, including the steep southeastern-facing slope of Peters Mountain and the northwestern-facing slope of Potts Mountain. Elevations are generally moderate but rise to about 4000 feet at the higher summits. The James River headwaters lie in a rain shadow and have lower precipitation than most portions of West Virginia. Grazing farms exist within the valleys of Potts Creek and Sweet Springs Creek. Most forestland is small to medium-sized, non-industrial private holdings and National Forest land. Although a large (5000 acre) industrial timberland tract occurs on Back Creek. The human population is relatively small and dispersed. James River Watershed supports an aquatic fauna not found in other West Virginia watersheds. The South Fork of Potts Creek is the only known location in West Virginia for the federally endangered James Spinymussel (Pleurobema collina). Similarly, the only West Virginia populations of the James River endemics Longfin Darter (Etheostoma longimanum) and Stripeback Darter (mountain subspecies of Percina notogramma) are here. Several upland Central Appalachian endemics occur here, including shale barren plants on Slaty Mountain and the headwaters of Cove Creek, and Bentley's Coralroot (Corallorhiza bentleyi), a globally rare orchid found only in the Virginias. Some of the largest forest blocks remaining in southeastern West Virginia are in this CFA, primarily on public land. Peters Mountain is an important bird migration corridor.The following three pages contain summary tables of species and habitats generated from the SWAPMASTER database for this CFA. See Appendix 4 for a complete list of species recorded by the WVDNR within the boundaries of each CFA.DescriptionThe Greater Greenbrier CFA encompasses the Greenbrier Watershed from the joining of the East and West forks at Durbin downstream to the Greenbrier River's confluence with the New River. In the Allegheny Mountains Ecoregion, it includes a globally significant karst landscape surrounded by ridges and valleys of shale and sandstone. More caves occur here than anywhere else in West Virginia, with sinkhole and cave densities reaching an average of seven per square mile (18 per square kilometer) in the Big Levels region. Davis Spring, with an average volume of 110 cubic feet per second (cfs), is the largest spring in the state, and Friars Hole, with 44 miles of mapped passage, is the sixth largest cave in the United States. Allegheny Mountain, whose crest forms the border with Virginia, defines the eastern boundary of the landscape, with a series of parallel shale and sandstone ridges running west to the karst region. In the karst region, most surface drainage is limited due to numerous sinking streams. The Greenbrier River and its major tributaries to its east are the main surface streams. The Greenbrier River is the longest undammed river in the Central Appalachians. Elevations are generally moderate but rise to over 4000 feet at higher summits. The Greenbrier Valley is in a rain shadow and has lower precipitation than most portions of West Virginia. The karst region was originally forested by deciduous forests, which have been largely displaced by farmland with scattered woodlots and towns such as Lewisburg. The shale and sandstone ridges remain largely forested, especially on public land, with small farms and communities in some valley areas. Portions east of the Greenbrier River originally supported the most extensive White Pine (Pinus strobus) forests south of northern Pennsylvania, but most of the White Pine area converted to mixed oak and oak-pine forests after the original forest was logged and burned. Some of the most extensive intact forest blocks (primarily Dry-Mesic Oak) in the Central Appalachians Ecoregion occur in this eastern portion, where the largest landowner is the USFS. Most private forestland exists as small to medium-sized, non-industrial holdings. A few large, corporate-owned tracts exist in the vicinity of White Sulphur Springs. Residential development is expanding around Lewisburg and second home development is expanding along the Greenbrier River and locally elsewhere. Greenbrier Valley is recognized as a globally significant center of cave endemism and is one of the six most endemic rich karst regions in North America. Well over one thousand caves are known, with nine caves supporting single cave endemics and 41 SGCN cave invertebrates overall. Organ Cave supports more known cave invertebrate species endemic to a single cave than any other cave in the state. Caves here also support important rare bat populations. The presumed extinct Buckeye Creek Cave Sculpin (Cottus sp. cf. carolinae) was known only from one cave system in this CFA. A substantial statewide portion of several stream habitats occur in this CFA, including about 40% of all moderate gradient, cold headwater streams. Surface streams support significant rare mussel populations including the largest known population of the Green Floater (Lasmigona subviridis) in West Virginia (and is also the largest segment of the Ohio Basin metapopulation); the regionally endemic New River Crayfish (Cambarus chasmodactylus); Eastern Hellbender; and eight of the ten fish species recognized as endemic to the New River Basin. One of two known global populations of a newly discovered crayfish in the Cambarus dubius group also occurs here. The federally listed Virginia Spiraea also occurs in riparian areas. Dry Oak-Pine and Dry-Mesic Oak Forests in the CFA's eastern valleys and ridges and embedded Shale Barren patches support one of the largest and most diverse assemblages of the regionally endemic shale barren flora, including the federally listed Shale Barren Rockcress (Arabis serotina) and globally rare Nodding Wild Onion (Allium oxyphilum), a critically imperiled Appalachian population of Grizzled Skipper (Pyrgus centaureae wyandot, which may survive in West Virginia only here), and globally significant populations of Box Huckleberry (Gaylussacia brachycera) and Swordleaf Phlox (Phlox buckleyi). A considerable portion of the state's Calcareous Cliffs and Talus and Dry Calcareous Forests, Woodlands, and Glades occur here, supporting three new species of locally endemic land snails, globally imperiled Canby's Mountain-lover and Tall Larkspur (Delphinium exaltatum), and other rare plants. The significant mix of forest interior, forest successional, and grassland habitats support 51 SGCN birds. Intact forest blocks support many forest interior breeding birds, including Broad-winged Hawk (Buteo platypterus), Wood Thrush, Cerulean Warbler, Worm-eating Warbler, and Eastern Whip-poor-will (Antrostomus vociferous), plus Timber Rattlesnake (Crotalus horridus), and possibly the federally listed orchid Small Whorled Pogonia (Isotria medeoloides). Early successional forest habitats support the highest densities of remaining Golden-winged Warbler and are critical to the species' continued presence in West Virginia. Grasslands associated with karst topography are among the most extensive in West Virginia and important in the state for the Loggerhead Shrike (Lanius ludovicianus), as well as Eastern Meadowlark, and Grasshopper, Vesper (Pooecetes gramineus) and Henslow's sparrows (Ammodramus henslowii). dumping, run-off from development and agriculture, and quarrying potentially place cave faunas at risk. Algal blooms observed in the Greenbrier River in recent years are evidence of nutrient pollution. Residential and second home development is fragmenting forested habitats near streams and adjacent to public lands. Actively work with landowners to encourage sinkhole clean-up, sinkhole and sinking stream fencing, and to reduce other impacts to cave systems. • Secure conservation lands, through ownership or easement, to protect significant terrestrial and subterranean habitats. • Actively work with landowners to provide stream bank fencing, stream restoration, and development of riparian buffers -primarily on tributaries of the Greenbrier River. • Provide assistance and incentives to landowners to maintain grassland, shrubland, and early forest successional habitats for birds. • Augment Green Floater mussel populations through propagation/reintroduction projects to maintain and expand populations. • Develop cooperative agreements with public landowners to maintain large, intact forest blocks thus protecting many other special habitats. • Implement a comprehensive plan to enhance climate change resiliency through reducing other stressors (such as invasive species), identifying, maintaining and creating key habitat cores and corridors, and protecting areas of high landscape complexity and integrity. Public Lands: Monongahela National Forest; Calvin Price, Greenbrier, and Seneca state forests; Greenbrier River Trail; Droop Mountain Battlefield; Cass Scenic Railroad, Beartown and Watoga state parks; Moncove Lake State Park and WMA. WV State Wildlife Action Plan 6.10.1: Description At the transition between the Allegheny Mountains and the Cumberland Mountains ecoregions, the floodplain of the Meadow River supports the second largest wetland complex in the state and one of the largest complexes in the Central Appalachians. These wetlands include forested swamps dominated by Pin Oak (Quercus palustris) and Black Ash (Fraxinus nigra), and smaller areas of shrub swamps and marshes. Surrounding mid-elevation uplands are covered by deciduous forests with scattered farms used mostly for pasture and hay. 6.10.2: Significant Wildlife Values This area is most notable for its wetland species and in West Virginia is second only to Canaan Valley for its significance for wetland animals and plants. Bird species of special concern found in this area include nesting Great Blue Heron (Ardea herodius), Green Heron (Butorides virescens), and American Woodcock (Scolopax minor), and it is an important migration stopover for Rusty Blackbird (Euphagus carolinus). The federally threatened Virginia Spiraea (Spiraea virginiana) exists within the wetlands. One of only two known global populations for a species of crayfish in the Cambarus dubius group, currently being described, is in this CFA.*
+
+|  |  |  | 2015 WV State Wildlife Action Plan 2015 WV State Wildlife Action Plan 2015 WV State Wildlife Action Plan 2015 WV State Wildlife Action Plan 2015 WV State Wildlife Action Plan 2015 WV State Wildlife Action Plan 2015 WV State Wildlife Action Plan 2015 WV State Wildlife Action Plan 2015 WV State Wildlife Action Plan 2015 WV State Wildlife Action Plan 2015 WV State Wildlife Action Plan 2015 WV State Wildlife Action Plan 2015 WV State Wildlife Action Plan 2015 WV State Wildlife Action Plan |  |
+| --- | --- | --- | --- | --- |
+| TAXA TERRESTRIAL HABITAT SUMMARY PRIORITY 1 SPECIES CONSERVATION FOCUS AREA = Bluestone Lake/Peters Mountain PRIORITY SPECIES ACRES IN PERCENT OF PERCENT OF WV AQUATIC HABITAT SUMMARY CONSERVATION FOCUS AREA = Bluestone Lake/Peters Mountain MILES IN PERCENT OF PERCENT OF WV 6.8.1: SPECIES SUMMARY BY TAXA AND PRIORITY CONSERVATION FOCUS AREA = James Headwaters TAXA PRIORITY 1 SPECIES PRIORITY SPECIES TERRESTRIAL HABITAT SUMMARY CONSERVATION FOCUS AREA = James Headwaters ACRES IN PERCENT OF PERCENT OF WV AQUATIC HABITAT SUMMARY CONSERVATION FOCUS AREA = James Headwaters MILES IN PERCENT OF PERCENT OF WV 6.9: Greater Greenbrier CFA Greater Greenbrier CFA -Terrestrial Habitats Greater Greenbrier CFA -Aquatic Habitats 6.9.1: SWAPMASTER Summary Tables of Species and Habitats CONSERVATION FOCUS AREA = Greater Greenbrier TAXA PRIORITY 1 SPECIES PRIORITY 2 SPECIES CONSERVATION FOCUS AREA = Greater Greenbrier ACRES IN PERCENT OF PERCENT OF WV CONSERVATION FOCUS AREA = Greater Greenbrier MILES IN PERCENT OF PERCENT OF WV • 6.9.6: SPECIES SUMMARY BY TAXA AND PRIORITY TERRESTRIAL HABITAT SUMMARY AQUATIC HABITAT SUMMARY 6.10: Meadow River Wetlands CFA |  |  |  |  |
+| Amphibians HABITAT TYPE HABITAT TYPE Amphibians HABITAT TYPE HABITAT TYPE The following three pages contain summary tables of species and habitats generated from the 5 14 CFA CFA AREA TOTAL FOR TYPE CFA CFA MILES TOTAL FOR TYPE 1 CFA CFA AREA TOTAL FOR TYPE CFA CFA MILES TOTAL FOR TYPE Amphibians 8 14 HABITAT TYPE CFA CFA AREA TOTAL FOR TYPE HABITAT TYPE CFA CFA MILES TOTAL FOR TYPE |  |  |  |  |
+| Birds Acidic Rock Outcrops, Cliffs, and Talus Headwater Creek,Low Gradient, Warm Birds Acidic Rock Outcrops, Cliffs, and Talus Headwater Creek,Low Gradient, Warm SWAPMASTER database for this CFA. See Appendix 4 for a complete list of species recorded by the 19 853 0.21% 0.95% 34 3.76% 6.11% 10 23 0.05% 0.03% 1 0.61% 0.13% Birds 30 21 Acidic Rock Outcrops, Cliffs, and Talus 4,179 0.43% 4.65% Headwater Creek,Low Gradient,Cool 1 0.09% 9.76% |  |  |  |  |
+| Butterflies and Moths Cave Invertebrates Agriculture Headwater Creek,Moderate Gradient,Cool Headwater Creek,Moderate Gradient,Warm Butterflies and Moths Fish Agriculture Headwater Creek,Moderate Gradient,Cool Headwater Creek,High Gradient,Cold WVDNR within the boundaries of each CFA. Butterflies and Moths Cave Invertebrates Agriculture Headwater Creek,Low Gradient, Warm Headwater Creek,Moderate Gradient,Cold |  | 4 6 60,057 205 38 1 4 3,652 26 88 11 27 135,883 16 21 | 14.80% 22.63% 4.15% 7.73% 21.96% 75.34% 13.97% 1.03% 1.36% | 4.18% 9.33% 0.96% 0.25% 1.17% 3.00% 6 14 2.84% 9.47% 39.80% |
+| Crayfish Dragonflies and Damselflies Fish Anthropogenic Shrubland & Grassland Calcareous Cliffs and Talus Developed Headwater Creek,High Gradient,Cold Headwater Creek,High Gradient,Cool Small River,Low Gradient,Cool Small River,Low Gradient, Warm 6.8.2: Mussels Plants Anthropogenic Shrubland & Grassland Calcareous Cliffs and Talus Small River,Moderate Gradient,Cool Totals Crayfish Anthropogenic Shrubland & Grassland Headwater Creek,Moderate Gradient,Cool Dragonflies and Damselflies Calcareous Cliffs and Talus Headwater Creek,Moderate Gradient,Warm Headwater Creek,High Gradient,Cold Significant Wildlife Values Reptiles Developed 6.9.3: Distinctive Stresses Fish Developed Headwater Creek,High Gradient,Cool |  | 1 1 5 10,007 195 38,248 270 237 8 15 1 8 0 0 2 117 2 1 274 12 935 47 548 1 1,685 6 50,268 361 | 2.47% 0.05% 9.43% 29.88% 26.16% 0.90% 1.65% 0.00% 0.00% 2.08% 100.00% 0.00% 17.73% 0.10% 3.05% 35.50% 3.57% 5.17% 23.38% | 6.29% 2.12% 3.36% 9.22% 3.78% 21.47% 3.25% 11 0.00% 0.00% 0.52% 0.00% 12.47% 1 10.15% 1.21% 23 18.68% 0.15% 2 4.41% 5.76% |
+| Mammals Dry Calcareous Forests, Woodlands, and Glades Small River,Moderate Gradient,Cool Snails Dry Calcareous Forests, Woodlands, and Glades Mammals Dry Calcareous Forests, Woodlands, and Glades Small River,Low Gradient,Cool |  | 4 7,661 15 3,401 8 19,911 3 | 1.89% 1.60% 7.20% 2.05% 0.18% | 10.71% 3.11% 4.76% 2 27.84% 7.45% |
+| Mussels Plants Reptiles Snails Tiger Beetles Dry Oak (-Pine) Forests Dry-Mesic Oak Forests Heath-Grass Barrens High Allegheny Wetlands Small River,Moderate Gradient,Warm Small River,High Gradient,Warm Medium River, Low Gradient,Warm Medium River,Moderate Gradient,Warm Large River,Low Gradient,Warm Large River,Moderate Gradient,Warm Totals Dry Oak (-Pine) Forests Dry-Mesic Oak Forests Heath-Grass Barrens High Allegheny Wetlands 6.9.4: Mussels Plants Dry Oak (-Pine) Forests Small River,Low Gradient, Warm Small River,Moderate Gradient,Cool Reptiles Dry-Mesic Oak Forests Small River,Moderate Gradient,Warm Snails Heath-Grass Barrens Small River,High Gradient,Warm Medium River, Low Gradient,Warm Conservation Actions Tiger Beetles High Allegheny Wetlands Medium River,Moderate Gradient,Warm |  | 5 15 2 1 80,108 148,577 0 0 39 2 5 28 7 2 26 7,159 16,668 0 0 5 39 186,630 22 76 7 344,933 36 3 0 4 31 1 1,051 41 | 19.74% 36.61% 0.00% 0.00% 4.32% 0.19% 0.57% 3.14% 0.77% 0.27% 15.16% 35.29% 0.00% 0.00% 19.18% 1.45% 4.91% 35.45% 2.30% 0.00% 0.25% 2.04% 0.11% 2.68% | 42 16 3.24% 2.98% 0.00% 0.00% 7.19% 10.57% 1.08% 8.19% 1.21% 2.23% 28 0.29% 0.33% 0.00% 0.00% 5 4.86% 7.55% 16.26% 72 6.91% 6.54% 8 24.22% 0.00% 14 6.63% 5.02% 11.91% |
+| 68 22,140 1,686 426 4,518 21 2,907 0 4 13,219 15,185 405,810 905 Livestock along and within the Potts Creek Watershed impact the aquatic resources by increasing 117 Totals Mixed Mesophytic Forests 5.46% 0.75% Montane Red Oak Forests 0.42% 7.97% Northern Hardwood Forests 0.10% 0.04% Pine-Oak Rocky Woodlands 1.11% 5.91% Red Spruce Forests 0.01% 0.01% River Floodplains 0.72% 2.42% Shale Barrens 0.00% 0.00% Sinkhole and Depression Ponds 0.00% 2.38% Small Stream Riparian Habitats 3.26% 2.67% Unresolved 3.74% 13.01% Totals 100.00% Totals 100.00% 6.8.3: Distinctive Stresses sediment loads, directly crushing mussels, and increasing nutrient loads. Any wind energy development could impact migrating bats and birds. 6.8.4: Conservation Actions • Promote riparian restoration activities including streamside fencing, riparian buffer establishment, and farming best management practices (BMPs). • Public land provides an outstanding opportunity for maintaining large, intact forest blocks and protecting many other special habitats. • Conservation easements on forested ridgetops to reduce threat from wind energy development. 6.8.5: Conservation Opportunities Mixed Mesophytic Forests 2,010 4.26% 0.07% Montane Red Oak Forests 1,933 4.09% 9.15% Northern Hardwood Forests 184 0.39% 0.02% Pine-Oak Rocky Woodlands 930 1.97% 1.22% Red Spruce Forests 0 0.00% 0.00% River Floodplains 44 0.09% 0.04% Shale Barrens 54 0.11% 3.01% Sinkhole and Depression Ponds 0 0.00% 0.00% Small Stream Riparian Habitats 2,230 4.72% 0.45% Unresolved 7,259 15.37% 6.22% Totals 47,232 100.00% 6.9.2: Significant Wildlife Values Conservation Opportunities 159 182 Totals Mixed Mesophytic Forests 59,242 6.09% 2.01% Montane Red Oak Forests 4,490 0.46% 21.24% Northern Hardwood Forests 63,991 6.58% 6.43% Pine-Oak Rocky Woodlands 21,290 2.19% 27.87% Red Spruce Forests 3,636 0.37% 2.04% River Floodplains 7,597 0.78% 6.32% Shale Barrens 333 0.03% 18.57% Sinkhole and Depression Ponds 11 0.00% 7.29% Small Stream Riparian Habitats 29,855 3.07% 6.04% Unresolved 38,736 3.98% 33.18% Totals 972,971 100.00% Large River,Low Gradient,Warm 41 2.66% 7.06% Large River,Moderate Gradient,Warm 22 1.40% 19.70% • 6.9.5: 1,543 Totals 100.00% |  |  |  |  |
+| • Key WVDNR Partners: WVDEP, USFWS, United States Forest Service (USFS), NRCS, Monroe • Key WVDNR Partners: WVDOF, WVDEP, West Virginia Cave Conservancy, Monongahela National |  |  |  |  |
+|  | County Farmland Protection Program. Forest, Greenbrier Watershed Association, NRCS, USFWS Partners Program, West Virginia Land |  |  |  |
+| • Public Lands: George Washington and Jefferson National Forests, Andrew Rowan WMA. Trust, New River Conservancy, TNC, county farmland protection boards, Wild Turkey Federation, |  |  |  |  |
+|  | AMJV. |  |  |  |
+| 6.8.6: | SWAPMASTER Summary Tables of Species and Habitats |  |  |  |
+
+[/TABLE]
+
+[TABLE]
+* deep, forested gorges of the New, Gauley, and Meadow rivers and surrounding mountainous uplands characterize this Cumberland Mountains Ecoregion landscape. The New River Gorge, more than 50 miles long, is the largest river gorge in eastern North America. These rivers are typically high gradient and high gradient tributaries plunge into the gorges to meet them. Steep slopes of the gorges are covered by Mixed Mesophytic, mixed oak and hardwood/hemlock forests. Large, intact forest blocks remain, primarily in and adjacent to the New River Gorge. Many areas of the gorges contain talus slopes, boulder fields, and extensive sandstone cliffs. The gorges are used today primarily for recreation. A generally rolling, moderate elevation sandstone plateau extends between the gorges, with some ridges rising to elevations over 3000 feet. These largely forested uplands areas dry oak and Mixed Mesophytic Forests and are often managed for timber production. There is a mix of small to medium, private non-industrial holdings and larger industrial timber holdings. Mixed Mesophytic Forests, while still common in the CFA, have been significantly displaced here by oak forests due to repeated burning by human-caused fires. An extensive area along the US Route 19 Corridor is heavily developed for residential and commercial purposes including the Boy Scouts of America Bechtel/The Summit High Adventure Camp. Legacy deep mining and some surface mining occurs throughout most of the area. Residential and second home development has been episodic and mostly clustered along US Route 19 or adjacent to federal lands.6.11.2: Significant Wildlife ValuesThe forest of the New River Gorge is recognized as a globally significant example of the Appalachian cove hardwood/Mixed Mesophytic Forest. The CFA includes some of the largest forest blocks in the West Virginia portion of the Cumberland Mountains Ecoregion. The three gorges and forest blocks are important for their populations of regionally endemic salamanders and forest interior nesting birds such as Broad-winged Hawk, Wood Thrush, Louisiana Waterthrush, Worm-eating Warbler, and Cerulean Warbler, and is important to conservation and management of the Appalachian population of Swainson's Warbler. Cliffs, talus, portals and other upland patch habitats embedded in the forests are important for Allegheny Woodrat (Neotoma magister), Virginia Big-eared Bat (Corynorhinus townsendii virginianus), Rafinesques Big-eared Bat, Eastern Small-footed Bat (Myotis leibii), Indiana Bat, Long-tailed Shrew (Sorex dispar), Green Salamander (Aneides aeneus), Timber Rattlesnake, and nesting Peregrine Falcon (Falco peregrinus). Floodplains along the New and Gauley rivers include some of the most extensive riverscour prairies and woodlands in the eastern United State, supporting many rare plant species including the globally rare Monongahela Barbara's-Buttons (Marshallia grandiflora). Upland and riparian habitats in the CFA support a high number (109) of SGCN plants. The federally threatened Virginia Spiraea is found along the Gauley and Meadow rivers. Rivers in the CFA contain substantial statewide portions of several river habitat types. The New River in the Gorge CFA, along with the Kanawha Falls area just downstream, provides the last stronghold for the Purple Wartyback mussel (Cyclonaias tuberculata) in West Virginia.6.11.3: Distinctive StressesThe Gauley River, historically a warm water stream, is impounded by the Summersville Dam. Water is released (seasonally) from the Summersville Dam to accommodate recreational boating. However, water released from Summersville Dam is coldwater which impedes mussel reproduction on the river. In addition, fish and other aquatic life are impacted when the river substrate is removed by excessive 2015 WV State Wildlife Action Plan scouring as a result of frequent water releases. Episodic development, especially for second homes, near and adjacent to federal lands has substantially increased forest fragmentation.6.11.4: Conservation Actions• Develop cooperative agreements with public landowners to maintain large, intact forest blocks thus protecting many other special habitats with emphasis on those lands adjacent to and near existing public lands. • Implement a comprehensive plan to enhance climate change resiliency through reducing other stressors (such as invasive species), identifying, maintaining and creating key habitat cores and corridors, and protecting areas of high landscape complexity and integrity. • Assess opportunities for improving mussel, fish, and riparian plant populations in the Gauley River gorge. Key WVDNR Partners: WVDOF, WVDEP, USACOE, National Park Service, Boy Scouts of America, TNC, New River Conservancy, NRCS, AMJV. • Public Lands: New River Gorge National River, Gauley River National Recreation Area, Beury Mountain WMA; Hawks Nest, Carnifex Ferry, and Babcock state parks. 6.11.6: SWAPMASTER Summary Tables of Species and HabitatsThe following three pages contain summary tables of species and habitats generated from the SWAPMASTER database for this CFA. See Appendix 4 for a complete list of species recorded by the WVDNR within the boundaries of each CFA.*
+
+|  |  |  | 2015 WV State Wildlife Action Plan 2015 WV State Wildlife Action Plan 2015 WV State Wildlife Action Plan 2015 WV State Wildlife Action Plan 2015 WV State Wildlife Action Plan 2015 WV State Wildlife Action Plan 2015 WV State Wildlife Action Plan 2015 WV State Wildlife Action Plan 2015 WV State Wildlife Action Plan |  |
+| --- | --- | --- | --- | --- |
+| TERRESTRIAL HABITAT SUMMARY AQUATIC HABITAT SUMMARY 6.11: Gorges CFA Gorges CFA -Aquatic Habitats 6.11.1: Description SPECIES SUMMARY BY TAXA AND PRIORITY TERRESTRIAL HABITAT SUMMARY AQUATIC HABITAT SUMMARY 6.12: Kanawha Falls CFA 6.12.1: Description |  |  |  |  |
+| CONSERVATION FOCUS AREA = Meadow River Wetlands CONSERVATION FOCUS AREA = Meadow River Wetlands CONSERVATION FOCUS AREA = Meadow River Wetlands Gorges CFA -Terrestrial Habitats CONSERVATION FOCUS AREA = Gorges CONSERVATION FOCUS AREA = Gorges CONSERVATION FOCUS AREA = Gorges Kanawha Falls CFA -Terrestrial Habitats |  |  |  |  |
+| TAXA TAXA | PRIORITY 1 SPECIES ACRES IN MILES IN PERCENT OF PERCENT OF PRIORITY 2 SPECIES PERCENT OF WV PERCENT OF WV PRIORITY 1 SPECIES PRIORITY 2 SPECIES ACRES IN PERCENT OF PERCENT OF WV MILES IN PERCENT OF PERCENT OF WV |  |  |  |
+| Amphibians HABITAT TYPE HABITAT TYPE Amphibians HABITAT TYPE HABITAT TYPE | 1 CFA CFA 6 CFA CFA |  | CFA AREA CFA MILES CFA AREA CFA MILES | 5 TOTAL FOR TYPE TOTAL FOR TYPE 16 TOTAL FOR TYPE TOTAL FOR TYPE |
+| Birds Acidic Rock Outcrops, Cliffs, and Talus Headwater Creek,Low Gradient, Warm Birds Acidic Rock Outcrops, Cliffs, and Talus Headwater Creek,Low Gradient, Warm | 7 27 21 4,393 34 7 |  | 0.06% 21.06% 1.10% 0.85% | 2 0.04% 4.80% 8 4.89% 1.23% |
+| Crayfish Dragonflies and Damselflies Agriculture Headwater Creek,Moderate Gradient,Cool Headwater Creek,High Gradient,Cold Butterflies and Moths Cave Invertebrates Agriculture Headwater Creek,Moderate Gradient,Cool Headwater Creek,Moderate Gradient,Warm | 1 6,688 49 10 4 1 22,569 85 88 |  | 10.87% 38.41% 7.69% 5.66% 10.57% 10.87% | 3 0.47% 2.22% 0.33% 4 3.89% 1.57% 2.25% |
+| Fish Plants Reptiles Totals Anthropogenic Shrubland & Grassland Calcareous Cliffs and Talus Developed Dry Calcareous Forests, Woodlands, and Glades Headwater Creek,High Gradient,Cool Small River,Low Gradient, Warm Totals Dragonflies and Damselflies Anthropogenic Shrubland & Grassland Headwater Creek,High Gradient,Cold Fish Calcareous Cliffs and Talus Headwater Creek,High Gradient,Cool Small River,Low Gradient, Warm Mammals Developed Small River,Moderate Gradient,Warm 6.11.5: Conservation Opportunities Mussels Dry Calcareous Forests, Woodlands, and Glades Small River,High Gradient,Warm | 1 5 2 17 5,025 1 0 0 41 0 127 2 2,750 8 4 48 482 2 7 26,610 7 4 0 9 |  | 0.00% 0.00% 8.16% 0.00% 32.48% 0.37% 0.69% 0.95% 0.01% 59.71% 0.23% 100.00% 6.67% 0.86% 0.00% 1.16% | 18 28 0.00% 0.00% 0.44% 0.00% 0.66% 0.10% 1.73% 0.26% 6 0.53% 7.70% 1 0.41% 2 2.34% 1.28% 9 0.00% 58.97% |
+| Dry Oak (-Pine) Forests Dry-Mesic Oak Forests Heath-Grass Barrens Plants Reptiles Dry Oak (-Pine) Forests Medium River, Low Gradient,Warm Medium River,Moderate Gradient,Warm Snails Dry-Mesic Oak Forests Medium River,High Gradient,Warm Tiger Beetles Heath-Grass Barrens Large River,Low Gradient,Warm Large River,Moderate Gradient,Warm | 13,361 19,701 0 27 7 48,115 14 8 157,917 3 0 55 1 40 |  | 21.71% 32.01% 0.00% 12.07% 1.68% 1.01% 39.60% 0.38% 0.00% 6.81% 4.94% | 0.54% 0.39% 0.00% 82 2.86% 1.95% 2.35% 7 3.16% 78.27% 5 9.47% 0.00% 36.37% |
+| High Allegheny Wetlands Totals High Allegheny Wetlands Totals | 84 808 | 1 0 | 0.00% 0.00% 100.00% | 0.01% 140 0.00% |
+| Mixed Mesophytic Forests Mixed Mesophytic Forests | 6,229 105,675 |  | 10.12% 26.50% | 0.21% 3.59% |
+| Montane Red Oak Forests Montane Red Oak Forests |  | 0 0 | 0.00% 0.00% | 0.00% 0.00% |
+| Northern Hardwood Forests Northern Hardwood Forests | 2,571 631 |  | 4.18% 0.16% | 0.26% 0.06% |
+| Pine-Oak Rocky Woodlands Pine-Oak Rocky Woodlands | 3 432 |  | 0.00% 0.11% | 0.00% 0.57% |
+| Red Spruce Forests Red Spruce Forests |  | 0 0 | 0.00% 0.00% | 0.00% 0.00% |
+| River Floodplains River Floodplains | 1,132 2,721 |  | 1.84% 0.68% | 0.94% 2.26% |
+| Shale Barrens Shale Barrens |  | 0 0 | 0.00% 0.00% | 0.00% 0.00% |
+| Sinkhole and Depression Ponds Sinkhole and Depression Ponds |  | 0 0 | 0.00% 0.00% | 0.00% 0.00% |
+| Small Stream Riparian Habitats Small Stream Riparian Habitats | 6,252 17,276 |  | 10.16% 4.33% | 1.26% 3.50% |
+| Unresolved Unresolved | 545 9,651 |  | 0.89% 2.42% | 0.47% 8.27% |
+| Totals Totals | 61,543 398,789 |  | 100.00% 100.00% |  |
+
+[/TABLE]
+
+[TABLE]
+*Lower Elk River CFA -Terrestrial Habitats 2015 WV State Wildlife Action Plan Lower Elk River CFA -Aquatic Habitats *
+
+|  |  |  |  | 2015 WV State Wildlife Action Plan 2015 WV State Wildlife Action Plan 2015 WV State Wildlife Action Plan 2015 WV State Wildlife Action Plan |  |
+| --- | --- | --- | --- | --- | --- |
+| TERRESTRIAL HABITAT SUMMARY AQUATIC HABITAT SUMMARY 6.13: Lower Elk River CFA |  |  |  |  |  |
+| CONSERVATION FOCUS AREA = Kanawha Falls CONSERVATION FOCUS AREA = Kanawha Falls CONSERVATION FOCUS AREA = Kanawha Falls |  |  |  |  |  |
+| TAXA | PRIORITY 1 SPECIES ACRES IN MILES IN PERCENT OF PERCENT OF PRIORITY 2 SPECIES PERCENT OF WV PERCENT OF WV |  |  |  |  |
+| Amphibians HABITAT TYPE HABITAT TYPE | 4 CFA CFA |  |  | CFA AREA CFA MILES | 8 TOTAL FOR TYPE TOTAL FOR TYPE |
+| Birds Acidic Rock Outcrops, Cliffs, and Talus Headwater Creek,Low Gradient, Warm | 7 1,792 0 |  |  | 4.57% 0.57% | 2 2.00% 0.08% |
+| Butterflies and Moths Fish Agriculture Headwater Creek,Moderate Gradient,Warm Headwater Creek,High Gradient,Cool | 1 3 9 30 |  | 144 | 0.37% 12.25% 40.57% | 1 7 0.24% 0.01% 0.49% |
+| Mussels Anthropogenic Shrubland & Grassland Headwater Creek,High Gradient,Warm Plants Calcareous Cliffs and Talus Small River,Low Gradient, Warm Small River,Moderate Gradient,Warm | 16 9 0 3 |  | 741 0 | 1.89% 12.08% 0.00% 0.13% 4.57% | 0.47% 1.19% 21 0.00% 0.02% 1 0.63% |
+| Reptiles Developed Small River,High Gradient,Warm | 2 3,953 0 |  |  | 10.07% 0.08% | 4 0.35% 0.38% |
+| Totals Dry Calcareous Forests, Woodlands, and Glades Large River,Low Gradient,Warm | 33 18 |  | 0 | 0.00% 24.62% | 44 0.00% 3.18% |
+| Dry Oak (-Pine) Forests Large River,Moderate Gradient,Warm | 4 | 7,143 |  | 18.20% 5.13% | 0.29% 3.51% |
+| Totals | 75 |  |  | 100.00% |  |
+| Dry-Mesic Oak Forests | 10,882 |  |  | 27.73% | 0.22% |
+| Heath-Grass Barrens |  |  | 0 | 0.00% | 0.00% |
+| High Allegheny Wetlands |  |  | 0 | 0.00% | 0.00% |
+| Mixed Mesophytic Forests | 11,381 |  |  | 29.00% | 0.39% |
+| Montane Red Oak Forests |  |  | 0 | 0.00% | 0.00% |
+| Northern Hardwood Forests |  |  | 3 | 0.01% | 0.00% |
+| Pine-Oak Rocky Woodlands |  |  | 0 | 0.00% | 0.00% |
+| Red Spruce Forests |  |  | 0 | 0.00% | 0.00% |
+| River Floodplains |  |  | 401 | 1.02% | 0.33% |
+| Shale Barrens |  |  | 0 | 0.00% | 0.00% |
+| Sinkhole and Depression Ponds |  |  | 0 | 0.00% | 0.00% |
+| Small Stream Riparian Habitats |  |  | 651 | 1.66% | 0.13% |
+| Unresolved |  | 2,156 |  | 5.49% | 1.85% |
+| Totals | 39,247 |  |  | 100.00% |  |
+
+[/TABLE]
+
+[TABLE:  6.13.2: Significant Wildlife ValuesThe Lower Elk River is one of the most biologically significant watersheds in the Ohio River system. It has one of the richest diversities of freshwater mussels in the state with 36 SGCN species, five of which are federally listed. Queen Shoals is a location where federally endangered mussel species restoration is being conducted. The once extirpated Rayed Bean (Villosa fabalis) was reintroduced in 2006 and augmentation of the small existing Northern Riffleshell population began in 2012. Spread Shoals near Mary Chilton Roadside Park is another special location for snorkeling to observe the diversity of darters in this river. The Elk River also hosts a diverse fish community with 98 fish species documented, including the only extant population remaining anywhere of the federally endangered Diamond Darter (Crysallaria cincotta) and 23 other SGCN fishes. Streams and wetlands in the CFA support seven SGCN dragonflies and damselflies. Forested uplands support populations of forest interior bird species, with some of the highest suspected breeding densities of Cerulean Warbler anywhere in the country and the northernmost breeding extent of Swainson's Warbler in the state.6.13.3: Distinctive Stresses    Energy development contributes to habitat loss, forest fragmentation, water pollution, and acid mine drainage. Additional water pollution problems arise from industrial and sewage discharges and spills.]
+
+[TABLE]
+*• Key WVDNR Partners: WVDEP, USFWS, USACOE, watershed groups, NRCS, AMJV.• Public Lands: Morris Creek and Wallback WMAs, Coonskin Park.6.13.6: SWAPMASTER Summary Tables of Species and HabitatsThe following three pages contain summary tables of species and habitats generated from the SWAPMASTER database for this CFA. See Appendix 4 for a complete list of species recorded by the WVDNR within the boundaries of each CFA. the Western Allegheny Plateau Ecoregion, the Central Reservoirs landscape centers around USACOE reservoirs on the upper reaches of the Elk River, Little Kanawha River, and West Fork River, and a power company reservoir on Stonecoal Creek within the West Fork River Watershed. Together, these reservoirs cover 5268 acres and provide a significant portion of the large lentic waters in West Virginia. Most of the upland areas are low-elevation (below 2000 feet), forested, dissected hills, which are locally rugged. Small farms are locally extensive on ridgelines. This is generally a fragmented forested landscape of mostly small to medium-sized non-industrial, private holdings. The area is dotted with small towns, and services to support the recreation provided by the reservoirs. A few blocks of relatively intact forests remain on public lands, with significant stands of old growth forests at Elk River, Stonewall Jackson, and Stonecoal Lake WMAs.6.14.2: Significant Wildlife ValuesThis CFA supports important habitats for many aquatic species, including 23 mussels and six fish of concern. Elk River Crayfish (Cambarus elkensis), endemic to the upper Elk Watershed, is largely restricted to the Elk and Holly river systems upstream of Sutton Lake. Inlet marshes, backwaters, and open waters on the reservoirs provide habitat for a variety of wetland and open water birds, including breeding Osprey (Pandion haliaetus) and Great Blue and Green herons. Streams and wetlands in the CFA support seven SGCN dragonflies and damselflies. Forested uplands are important for a number of breeding forest interior and early successional forest species, including American Woodcock, Wood Thrush, Louisiana Waterthrush, Worm-eating Warbler, Blue-winged Warbler (Vermivora cyanoptera), Cerulean Warbler, and Kentucky Warbler. Stonewall Jackson WMA, with its diverse terrestrial and aquatic habitats, hosts rich communities of butterflies and dragonflies of concern.*
+
+|  |  |  | 2015 WV State Wildlife Action Plan 2015 WV State Wildlife Action Plan 2015 WV State Wildlife Action Plan 2015 WV State Wildlife Action Plan 2015 WV State Wildlife Action Plan |  |
+| --- | --- | --- | --- | --- |
+| SPECIES SUMMARY BY TAXA AND PRIORITY TERRESTRIAL HABITAT SUMMARY AQUATIC HABITAT SUMMARY 6.14: Central Reservoirs CFA Central Reservoirs CFA -Aquatic Habitats 6.14.1: Description |  |  |  |  |
+| CONSERVATION FOCUS AREA = Lower Elk CONSERVATION FOCUS AREA = Lower Elk CONSERVATION FOCUS AREA = Lower Elk Central Reservoirs CFA -Terrestrial Habitats |  |  |  |  |
+| TAXA | PRIORITY 1 SPECIES ACRES IN MILES IN PERCENT OF PERCENT OF PRIORITY 2 SPECIES PERCENT OF WV PERCENT OF WV |  |  |  |
+| Amphibians HABITAT TYPE HABITAT TYPE | 3 CFA CFA |  | CFA AREA CFA MILES | 10 TOTAL FOR TYPE TOTAL FOR TYPE |
+| Birds Acidic Rock Outcrops, Cliffs, and Talus Headwater Creek,Low Gradient, Warm | 16 1,688 10 |  | 0.54% 1.49% | 6 1.88% 1.76% |
+| Butterflies and Moths Crayfish Agriculture Headwater Creek,Moderate Gradient,Warm Headwater Creek,High Gradient,Cool | 1 8,092 232 75 |  | 2.61% 35.31% 11.36% | 2 5.94% 0.56% 1.19% |
+| Dragonflies and Damselflies Anthropogenic Shrubland & Grassland Headwater Creek,High Gradient,Warm Fish Calcareous Cliffs and Talus Small River,Low Gradient, Warm Small River,Moderate Gradient,Warm | 3 2,111 217 11 16 7 15 |  | 0.68% 33.04% 0.01% 1.09% 2.29% | 1.33% 28.57% 4 0.17% 1.55% 13 2.77% |
+| Mammals Developed Medium River, Low Gradient,Warm | 2 26,559 46 |  | 8.57% 6.98% | 2.33% 9.64% |
+| Mussels Dry Calcareous Forests, Woodlands, and Glades Medium River,Moderate Gradient,Warm | 15 6 | 0 | 0.00% 0.86% | 21 0.00% 1.64% |
+| Plants Reptiles Dry Oak (-Pine) Forests Large River,Low Gradient,Warm Large River,Moderate Gradient,Warm Snails Dry-Mesic Oak Forests Totals | 1 62,893 45 5 113,195 657 |  | 20.29% 6.81% 0.77% 36.51% 100.00% | 5 7.69% 2.55% 4.63% 5 4 2.27% |
+| Heath-Grass Barrens |  | 0 | 0.00% | 0.00% |
+| Totals | 52 |  |  | 70 |
+| High Allegheny Wetlands |  | 0 | 0.00% | 0.00% |
+| Mixed Mesophytic Forests | 82,620 |  | 26.65% | 2.80% |
+| Montane Red Oak Forests |  | 0 | 0.00% | 0.00% |
+| Northern Hardwood Forests |  | 36 | 0.01% | 0.00% |
+| Pine-Oak Rocky Woodlands |  | 0 | 0.00% | 0.00% |
+| Red Spruce Forests |  | 0 | 0.00% | 0.00% |
+| River Floodplains | 1,973 |  | 0.64% | 1.64% |
+| Shale Barrens |  | 0 | 0.00% | 0.00% |
+| Sinkhole and Depression Ponds |  | 0 | 0.00% | 0.00% |
+| Small Stream Riparian Habitats | 7,736 |  | 2.50% | 1.57% |
+| Unresolved | 3,092 |  | 1.00% | 2.65% |
+| Totals | 310,012 |  | 100.00% |  |
+
+[/TABLE]
+
+[TABLE]
+*• Key WVDNR Partners: WVDEP, USFWS, USACOE, watershed groups, NRCS, AMJV, National Wild Turkey Federation, gas companies.• Public Lands: Stonecoal Lake, Elk River, Burnsville Lake, and Stonewall Jackson WMAs; Stonewall Jackson Resort and Holly River state parks.6.14.6: SWAPMASTER Summary Tables of Species and HabitatsThe following three pages contain summary tables of species and habitats generated from the SWAPMASTER database for this CFA. See Appendix 4 for a complete list of species recorded by the WVDNR within the boundaries of each CFA.*
+
+|  |  |  | 2015 WV State Wildlife Action Plan 2015 WV State Wildlife Action Plan 2015 WV State Wildlife Action Plan 2015 WV State Wildlife Action Plan |  |
+| --- | --- | --- | --- | --- |
+| SPECIES SUMMARY BY TAXA AND PRIORITY TERRESTRIAL HABITAT SUMMARY AQUATIC HABITAT SUMMARY 6.15: Little Kanawha and Middle Island Creek CFA |  |  |  |  |
+| CONSERVATION FOCUS AREA = Central Reservoirs CONSERVATION FOCUS AREA = Central Reservoirs CONSERVATION FOCUS AREA = Central Reservoirs |  |  |  |  |
+| TAXA | PRIORITY 1 SPECIES ACRES IN MILES IN PERCENT OF PERCENT OF PRIORITY 2 SPECIES PERCENT OF WV PERCENT OF WV |  |  |  |
+| Amphibians HABITAT TYPE HABITAT TYPE | 1 CFA CFA |  | CFA AREA CFA MILES | 12 TOTAL FOR TYPE TOTAL FOR TYPE |
+| Birds Acidic Rock Outcrops, Cliffs, and Talus Headwater Creek,Low Gradient, Warm | 17 1,074 34 |  | 0.53% 5.67% | 8 1.20% 6.11% |
+| Butterflies and Moths Crayfish Agriculture Headwater Creek,Moderate Gradient,Cool Headwater Creek,Moderate Gradient,Warm | 4 1 14,152 20 155 |  | 6.93% 3.30% 25.80% | 4 0.90% 0.99% 3.96% |
+| Dragonflies and Damselflies Anthropogenic Shrubland & Grassland Headwater Creek,High Gradient,Cool Fish Calcareous Cliffs and Talus Small River,Low Gradient, Warm Small River,Moderate Gradient,Warm | 3 296 3 45 32 | 185 6 | 0.09% 49.35% 0.00% 7.52% 5.26% | 0.12% 4.73% 4 0.07% 9.81% 3 5.81% |
+| Mammals Developed Small River,High Gradient,Warm | 2 11,473 0 |  | 5.62% 0.03% | 1.01% 0.96% |
+| Mussels Dry Calcareous Forests, Woodlands, and Glades Medium River, Low Gradient,Warm | 8 18 | 0 | 0.00% 3.08% | 15 0.00% 3.88% |
+| Plants Dry Oak (-Pine) Forests Totals | 1 39,225 600 |  | 19.21% 100.00% | 4 1.59% |
+| Reptiles Dry-Mesic Oak Forests | 4 66,451 |  | 32.55% | 4 1.33% |
+| Snails |  |  |  | 5 |
+| Heath-Grass Barrens |  | 0 | 0.00% | 0.00% |
+| Totals | 44 |  |  | 59 |
+| High Allegheny Wetlands |  | 0 | 0.00% | 0.00% |
+| Mixed Mesophytic Forests | 58,255 |  | 28.53% | 1.98% |
+| Montane Red Oak Forests |  | 0 | 0.00% | 0.00% |
+| Northern Hardwood Forests |  | 0 | 0.00% | 0.00% |
+| Pine-Oak Rocky Woodlands |  | 0 | 0.00% | 0.00% |
+| Red Spruce Forests |  | 0 | 0.00% | 0.00% |
+| River Floodplains | 1,790 |  | 0.88% | 1.49% |
+| Shale Barrens |  | 0 | 0.00% | 0.00% |
+| Sinkhole and Depression Ponds |  | 0 | 0.00% | 0.00% |
+| Small Stream Riparian Habitats | 5,198 |  | 2.55% | 1.05% |
+| Unresolved | 6,364 |  | 3.12% | 5.45% |
+| Totals | 204,172 |  | 100.00% |  |
+
+[/TABLE]
+
+[TABLE]
+*Little Kanawha and Middle Island Creek CFA -Terrestrial Habitats 2015 WV State Wildlife Action Plan Little Kanawha and Middle Island Creek CFA -Aquatic Habitats 2015 WV State Wildlife Action Plan6.15.1: DescriptionThe Little Kanawha River and Middle Island Creek are two significant tributaries of the Ohio River. Their Western Allegheny Plateau Ecoregion watersheds are characterized by a primarily forested, dissected topography of rolling, lower elevation shale and sandstone hills bisected by numerous streams. Ridges remain largely covered by second and third growth mixed oak and Mixed Mesophytic Forests. Forested areas are primarily small to medium, non-industrial, private holdings with some industrial timber land. Small farms (mostly grazing) occur on ridges and in stream bottoms. Several small cities (West Union, Harrisville, Elizabeth, Grantsville, Glenville) and numerous small towns occur in the narrow valleys. Wider valley bottoms are often small farms primarily used for hayfields or pastures. Gas and oil development was historically widespread, with deep mining for coal in the eastern portions. Horizontal gas drilling is significant and increasing.6.15.2: Significant Wildlife ValuesBoth Middle Island Creek and Little Kanawha River watersheds include significant portions of the State's warm and coolwater habitats, which support a significant portion of the mussel and fish diversity in West Virginia. They are home to 111 known fishes (23 SGCN) and 41 SGCN mussels, including two federally endangered species (Snuffbox (Epioblasma triquetra) and Clubshell (Pleurobema clava)), and Eastern Hellbender. The streams are the state's best location for the Snuffbox, and in 2013 Clubshell populations were augmented as part of a large-scale restoration effort. A 35-mile reach of the Little Kanawha River from Yellow Creek downstream to Reedy Creek, easily accessed in several places by WV Route 5, is particularly diverse with habitats for an abundance of mussels and fishes. Streams and wetlands in the CFA are among the state's most important habitats for dragonflies and damselflies (25 SGCN). The extensive forests make this area important for conservation of these widespread forest types (oak hickory, mesic cove, and maple beech), and contain several of the most extensive, relatively unfragmented forest blocks remaining in the Western Allegheny Plateau Ecoregion. These watersheds provide significant breeding habitat for interior forest birds, including a large percentage of the Cerulean Warblers that breed in West Virginia.6.15.3: Distinctive Stresses    This is an area of intensive and expanding shale gas development and associated infrastructure that fragments or eliminates habitat and adds sediment loads to the streams. Spills containing brine fluids and hazardous materials and/or water withdrawals put aquatic species at risk. The minimum flow below North Bend Dam is only 1 cfs, which prolongs drought conditions and may harm aquatic life. Because of the geology in this portion of the state, any ground-disturbing activities can result is significant siltation of the streams. Partner with state parks and other public land agencies to develop management plans that maintain intact forest habitat. • Partner with the WVDEP and WVDNR Fisheries to identify the causes of low flow and low dissolved oxygen and develop corrective strategies.2015 WV State Wildlife Action Plan• Partner with WVDEP, gas extraction companies, and local governments to develop and implement ecologically sustainable water use protocol for streams. SWAPMASTER Summary Tables of Species and HabitatsThe following three pages contain summary tables of species and habitats generated from the SWAPMASTER database for this CFA. See Appendix 4 for a complete list of species recorded by the WVDNR within the boundaries of each CFA. Canyon is a steep, narrow gorge along the mainstem Cheat River, with cliff faces of mostly Pottsville sandstone and steep, forested slopes. A layer of Greenbrier limestone is exposed in the lower reaches of the canyon and contains several caves. Terrestrial habitats in the canyon are mostly Mixed Mesophytic Forests surrounding a narrow zone of River Floodplains. The surrounding upland areas are rolling, mid-elevation, hilly plateaus, culminating in Chestnut Ridge (2600 feet), which are on the western edge of the Allegheny Mountains Ecoregion. Forests on the rolling uplands are mostly Dry Mesic Oak Forests and Northern Hardwood Forests. The uplands are dissected by several drainages, the largest of which is Big Sandy Creek. The mainstem Cheat River is dammed into Cheat Lake, which backs into the lower reaches of the canyon. This CFA is primarily forested and used for timber production and low intensity, dispersed recreational activities such as hunting and hiking. Scattered small farms and residential communities occur on the uplands. There are legacy deep and surface mines throughout the area, some limestone quarrying, and increasing gas development. Because of the presence of federally listed species, timber harvesting and more intensive recreational activities such as mountain biking and rock climbing are not allowed in portions of the river gorge. Cheat Lake supports a variety of recreational activities including fishing and boating.*
+
+| 2015 WV State Wildlife Action Plan 2015 WV State Wildlife Action Plan 2015 WV State Wildlife Action Plan 2015 WV State Wildlife Action Plan |
+| --- |
+| 6.15.4: Conservation Actions • Engage with the gas industry to develop infrastructure plans that reduce fragmentation and other habitat impacts. • Key WVDNR Partners: WVDEP, USFWS, NRCS, watershed groups, AMJV, gas industry county planning commissions. • Public Lands: North Bend, North Bend Rails Trail, and Cedar Creek state parks; The Jug, Ritchie Mines, Sand Hill, Stumptown, and Buffalo Run WMAs; Mountwood Community Park and other local parks. TERRESTRIAL HABITAT SUMMARY AQUATIC HABITAT SUMMARY 6.16: Cheat Canyon CFA Cheat Canyon CFA -Aquatic Habitats 6.16.1: Description 6.15.6: SPECIES SUMMARY BY TAXA AND PRIORITY CONSERVATION FOCUS AREA = Little Kanawa/Middle Island Creek TAXA PRIORITY 1 SPECIES PRIORITY 2 SPECIES Amphibians 6 12 Birds 19 10 Butterflies and Moths 1 3 Dragonflies and Damselflies 9 16 Fish 8 15 Mammals 2 Mussels 17 24 Plants 2 17 71 120 Totals CONSERVATION FOCUS AREA = Little Kanawa/Middle Island Creek HABITAT TYPE ACRES IN CFA PERCENT OF CFA AREA PERCENT OF WV TOTAL FOR TYPE Acidic Rock Outcrops, Cliffs, and Talus 210 0.01% 0.23% Agriculture 128,132 7.40% 8.93% Anthropogenic Shrubland & Grassland 8,199 0.47% 5.15% Calcareous Cliffs and Talus 647 0.04% 7.03% Developed 99,534 5.75% 8.74% Dry Calcareous Forests, Woodlands, and Glades 0 0.00% 0.00% Heath-Grass Barrens 0 0.00% 0.00% High Allegheny Wetlands 0 0.00% 0.00% Mixed Mesophytic Forests 491,375 28.39% 16.68% Montane Red Oak Forests 0 0.00% 0.00% Northern Hardwood Forests 203 0.01% 0.02% Pine-Oak Rocky Woodlands 0 0.00% 0.00% Red Spruce Forests 0 0.00% 0.00% River Floodplains 13,167 0.76% 10.95% Shale Barrens 0 0.00% 0.00% Sinkhole and Depression Ponds 0 0.00% 0.00% Small Stream Riparian Habitats 49,914 2.88% 10.10% Unresolved 5,510 0.32% 4.72% Totals 1,730,938 100.00% CONSERVATION FOCUS AREA = Little Kanawa/Middle Island Creek HABITAT TYPE MILES IN CFA PERCENT OF CFA MILES PERCENT OF WV TOTAL FOR TYPE Headwater Creek,Low Gradient, Warm 211 5.30% 37.95% Headwater Creek,Moderate Gradient,Warm 1,697 42.58% 43.45% Headwater Creek,High Gradient,Cool 1,557 39.06% 24.85% Headwater Creek,High Gradient,Warm 13 0.33% 1.71% Small River,Low Gradient, Warm 206 5.18% 44.92% Small River,Moderate Gradient,Warm 83 2.09% 15.35% Small River,High Gradient,Warm 0 0.00% 1.18% Medium River, Low Gradient,Warm 147 3.70% 30.99% 3,985 Totals 100.00% Cheat Canyon CFA -Terrestrial Habitats • 6.15.5: Conservation Opportunities Reptiles 7 8 Snails Dry Oak (-Pine) Forests 350,836 20.27% Medium River,Moderate Gradient,Warm 15 0.38% 4.34% 14.20% Large River,Low Gradient,Warm 51 1.29% 8.85% 15 Dry-Mesic Oak Forests 583,210 33.69% 11.69% Large River,Moderate Gradient,Warm 4 0.09% 3.32% 6.16.2: Significant Wildlife Values |
+
+[/TABLE]
+
+[TABLE]
+*• Key WVDNR Partners: WVDEP, WVDOF, Friends of the Cheat Watershed Association, West Virginia University, Coopers Rock Foundation, TNC, the rafting community, The Conservation Fund, AMJV, West Virginia Geologic and Economic Survey.• Public Lands: Snake Hill and Cheat Canyon WMAs, Cooper's Rock State Forest, Chestnut Ridge Regional Park.6.16.6: SWAPMASTER Summary Tables of Species and HabitatsThe following three pages contain summary tables of species and habitats generated from the SWAPMASTER database for this CFA. See Appendix 4 for a complete list of species recorded by the WVDNR within the boundaries of each CFA. Allegheny Mountain Ecoregion CFA spans the highest mountains (above 4000 feet) of West Virginia, from the Huckleberry Plains atop the Allegheny Front, Canaan Valley, and Blackwater Canyon region in the north, south across Spruce Mountain and the headwaters region of the Cheat and Greenbrier rivers, then southwest across the Gauley and Yew mountains and headwaters of the Gauley River. Mountaintops are generally broad, resulting in substantial areas of high elevation, and are often separated by broad valleys at medium elevations (1800-2500 feet). The CFA has substantial variations in elevation, underlying geology, and landforms. This CFA includes the wettest, snowiest, and coldest parts of West Virginia. The area is predominantly forested with largest land ownership in federal lands of the Monongahela National Forest. Most private forestland is in small to medium-sized non-industrial, private holdings. Many large industrial forestlands have changed hands in the last 10 to 15 years, with very large industrial tracts currently limited to the vicinity of Canaan Valley, Kumbrabow State Forest, and Gauley River headwaters. Valleys are typically sparsely settled with small grazing farms. 6.17.2: Significant Wildlife Values For West Virginia, this CFA supports nearly all of the Red Spruce Forests, most Heath-Grass Barrens, the majority of High Elevation Allegheny Wetlands, a significant amount of coolwater stream habitats, and caves with highly endemic cave species and significant bat populations. Canaan Valley supports the largest wetland complex in West Virginia and the unglaciated Appalachian Mountains. Cheat Mountain supports the most extensive spruce forests remaining south of the Adirondacks and has the most extensive high country in the East outside of the southern Blue Ridge Mountains. Shavers Fork is the highest river of its size in the East. It also includes some of the largest intact forest blocks, representing several major forest types, between the Adirondacks and Great Smoky mountains. Cranberry Wilderness and vicinity is the largest intact forest block in the Mid-Atlantic States and Central Appalachian Mountains. These forest blocks are critical for forest interior nesting birds, maintaining embedded patch habitats, regional connectivity, and functional, resilient forest communities. Some high elevation and cave species are endemic or nearly so to the High Alleghenies CFA, including Cheat Mountain Salamander (Plethodon nettingi), West Virginia Northern Flying Squirrel (Glaucomys sabrinus fuscus), and Gandy Creek Cave Springtail (Pseudosinella certa). It also supports all or most of the West Virginia distribution for many taxa endemic to the Central/Southern Appalachians, such as Southern Rock Vole (Microtus chrotorrhinus carolinensis), Southern Water-shrew (Sorex palustris punctulatus), Spruce Knob Threetooth Snail (Triodopsis picea), Shriver's Frilly Orchid (Platanthera shriveri), and Blue Ridge St. John's-wort (Hypericum mitchellianum). Many northern species have all or most of their West Virginia distribution here, including Snowshoe Hare (Lepus americanus), Northern Goshawk (Accipiter gentilis), Harris' Checkerspot (Chlosyne harrisii), and White Monkshood (Aconitum reclinatum). Caves in the CFA support 30 SGCN cave invertebrates, one cave houses one of the largest known maternity colonies rangewide of Virginia Big-eared Bats, and several caves serve as hibernacula for Virginia Big-eared Bats, Indiana Bats and other SGCN bats. With 61 SGCN birds, the importance of this CFA to birds cannot be overstated. The area is of large significance to most bird species of concern across all habitat groupings and is important for the continued breeding presence in West Virginia for many, especially species of northern affinities and forest interiors. Seven of the ten New River endemic fishes occur here, including the largest remaining global occurrences of Candy Darter (Etheostoma osburni). Forested streams in the Monongahela National Forest are increasingly recognized as strongholds for the Eastern Hellbender in West Virginia. The amazing diversity and extent of high quality habitats here also support 25 SGCN butterflies and moths, 36 SGCN dragonflies and damselflies, 15 SGCN mammals, 23 SGCN snails, and 176 SGCN plants. 6.17.3: Distinctive Stresses This CFA has been significantly affected by historic industrial logging and related fires, which substantially altered wetlands and upland deciduous forest structure and composition and greatly reduced the area and quality of spruce forests. Historic tanneries and past mining also degraded water quality. Acid precipitation has degraded many medium to high elevation streams and caused spruce dieoffs and reduced deciduous forest growth and productivity. Energy development, transmission corridors, and resort development have fragmented high elevation habitats. Climate change has significant likelihood of impacting high elevation species and habitats. Cooperative efforts with public landowners to maintain large, intact forest blocks thus protecting many other special habitats. • Partner with public land managers to avoid habitat loss and fragmentation by renewable energy and other development. • Continue and expand spruce/high elevation forest restoration.• Continue stream treatments to offset acidification.• Implement a comprehensive plan to enhance climate change resiliency through reducing other stressors (such as invasive species), identifying, maintaining and creating key habitat cores and corridors, and protecting areas of high landscape complexity and integrity. • Assist with the management of industrial timberlands to provide opportunities that benefit early successional forest species. SWAPMASTER Summary Tables of Species and HabitatsThe following three pages contain summary tables of species and habitats generated from the SWAPMASTER database for this CFA. See Appendix 4 for a complete list of species recorded by the WVDNR within the boundaries of each CFA.*
+
+|  |  | 2015 WV State Wildlife Action Plan 2015 WV State Wildlife Action Plan 2015 WV State Wildlife Action Plan 2015 WV State Wildlife Action Plan 2015 WV State Wildlife Action Plan 2015 WV State Wildlife Action Plan 2015 WV State Wildlife Action Plan |  |
+| --- | --- | --- | --- |
+| SPECIES SUMMARY BY TAXA AND PRIORITY CONSERVATION FOCUS AREA = Cheat Canyon TAXA PRIORITY 1 SPECIES Amphibians 2 Birds 16 Butterflies and Moths 1 Cave Invertebrates 2 Dragonflies and Damselflies 2 Fish Mammals 4 Mussels 2 Plants 6 Reptiles 3 Snails 2 40 Totals TERRESTRIAL HABITAT SUMMARY CONSERVATION FOCUS AREA = Cheat Canyon HABITAT TYPE ACRES IN CFA PERCENT OF PRIORITY SPECIES 12 51 CFA AREA PERCENT OF WV TOTAL FOR TYPE Acidic Rock Outcrops, Cliffs, and Talus 160 0.18% 0.18% Agriculture 9,137 10.49% 0.64% Anthropogenic Shrubland & Grassland 0 0.00% 0.00% Calcareous Cliffs and Talus 381 0.44% 4.13% Developed 6,896 7.92% 0.61% Dry Calcareous Forests, Woodlands, and Glades 0 0.00% 0.00% Dry Oak (-Pine) Forests 7,624 8.75% 0.31% Dry-Mesic Oak Forests 31,827 36.54% 0.64% Heath-Grass Barrens 0 0.00% 0.00% High Allegheny Wetlands 0 0.00% 0.00% Mixed Mesophytic Forests 11,906 13.67% 0.40% Montane Red Oak Forests 0 0.00% 0.00% Northern Hardwood Forests 9,073 10.41% 0.91% Pine-Oak Rocky Woodlands 2,665 3.06% 3.49% Red Spruce Forests 0 0.00% 0.00% River Floodplains 353 0.40% 0.29% Shale Barrens 0 0.00% 0.00% Sinkhole and Depression Ponds 0 0.00% 0.00% AQUATIC HABITAT SUMMARY CONSERVATION FOCUS AREA = Cheat Canyon HABITAT TYPE MILES IN CFA PERCENT OF CFA MILES PERCENT OF WV TOTAL FOR TYPE Headwater Creek,Low Gradient, Warm 3 1.58% 0.56% Headwater Creek,Moderate Gradient,Cool 20 10.21% 0.92% Headwater Creek,Moderate Gradient,Warm 1 0.43% 0.02% Headwater Creek,High Gradient,Cool 140 71.05% 2.24% Small River,Moderate Gradient,Cool 2 1.07% 0.45% Medium River, Low Gradient,Warm 0 0.01% 0.01% Medium River,Moderate Gradient,Warm 5 2.32% 1.32% Medium River,High Gradient,Warm 1 0.26% 13.00% Large River,Low Gradient,Warm 15 7.36% 2.50% Large River,Moderate Gradient,Warm 11 5.71% 10.28% 197 Totals 100.00% 6.17: High Alleghenies CFA High Alleghenies CFA -Terrestrial Habitats High Alleghenies CFA -Aquatic Habitats 6.17.1: Description 6.17.4: Conservation Actions • 6.17.5: Conservation Opportunities • Key WVDNR Partners: US Forest Service, WVDOF, USFWS, Central Appalachian Spruce Restoration Initiative, Potomac Highlands Cooperative Weed and Pest Management Area, TNC, AMJV, Wild Turkey Federation, corporate landowners. • Public Lands: Monongahela National Forest; Canaan Valley National Wildlife Refuge; Canaan Valley, Blackwater Falls, and Cass Scenic Railroad state parks; Little Canaan, Huttonsville, Becky's Creek, and Handley WMAs; and Kumbrabow State Forest. CONSERVATION FOCUS AREA = High Alleghenies TAXA PRIORITY 1 SPECIES PRIORITY SPECIES Amphibians 6 14 Birds 34 27 Butterflies and Moths 11 14 Cave Invertebrates 21 Crayfish 3 Dragonflies and Damselflies 12 24 Fish 9 Mammals 9 Mussels 4 Plants 35 141 Reptiles 8 Snails 4 19 Tiger Beetles 2 158 264 Totals CONSERVATION FOCUS AREA = High Alleghenies HABITAT TYPE ACRES IN CFA PERCENT OF CFA AREA PERCENT OF WV TOTAL FOR TYPE Acidic Rock Outcrops, Cliffs, and Talus 4,433 0.30% 4.94% Agriculture 34,674 2.37% 2.42% Anthropogenic Shrubland & Grassland 2 0.00% 0.00% Calcareous Cliffs and Talus 1,055 0.07% 11.46% Developed 60,629 4.15% 5.32% Dry Calcareous Forests, Woodlands, and Glades 1,501 0.10% 2.10% Dry Oak (-Pine) Forests 112,399 7.70% 4.55% Dry-Mesic Oak Forests 124,146 8.50% 2.49% Heath-Grass Barrens 2,723 0.19% 96.69% High Allegheny Wetlands 17,158 1.18% 81.96% Mixed Mesophytic Forests 182,223 12.48% 6.19% Montane Red Oak Forests 637 0.04% 3.02% Northern Hardwood Forests 676,577 46.34% 68.01% Pine-Oak Rocky Woodlands 1,895 0.13% 2.48% Red Spruce Forests 168,441 11.54% 94.65% River Floodplains 13,434 0.92% 11.18% Shale Barrens 55 0.00% 3.06% Sinkhole and Depression Ponds 0 0.00% 0.00% CONSERVATION FOCUS AREA = High Alleghenies HABITAT TYPE MILES IN CFA PERCENT OF CFA MILES PERCENT OF WV TOTAL FOR TYPE Headwater Creek,Low Gradient,Cool 10 0.39% 73.98% Headwater Creek,Low Gradient, Warm 54 2.03% 9.69% Headwater Creek,Moderate Gradient,Cold 32 1.19% 60.20% Headwater Creek,Moderate Gradient,Cool 478 17.95% 21.79% Headwater Creek,Moderate Gradient,Warm 1 0.04% 0.03% Headwater Creek,High Gradient,Cold 648 24.33% 22.10% Headwater Creek,High Gradient,Cool 1,073 40.29% 17.14% Small River,Low Gradient,Cool 17 0.64% 45.09% Small River,Low Gradient, Warm 12 0.46% 2.68% Small River,Moderate Gradient,Cool 228 8.54% 48.83% Small River,Moderate Gradient,Warm 64 2.38% 11.70% Small River,High Gradient,Cool 9 0.32% 100.00% Small River,High Gradient,Warm 0 0.01% 1.92% Medium River, Low Gradient,Warm 7 0.27% 1.54% Medium River,Moderate Gradient,Warm 31 1.16% 8.89% 2,664 Totals 100.00% 6.17.6: SPECIES SUMMARY BY TAXA AND PRIORITY TERRESTRIAL HABITAT SUMMARY AQUATIC HABITAT SUMMARY 6.18: North Fork Mountain/Thorn Creek CFA |  |  |  |
+| Small Stream Riparian Habitats Small Stream Riparian Habitats | 4,251 50,883 | 4.88% 3.49% | 0.86% 10.29% |
+| Unresolved Unresolved | 2,838 7,101 | 3.26% 0.49% | 2.43% 6.08% |
+| Totals Totals | 87,111 1,459,967 | 100.00% 100.00% |  |
+
+[/TABLE]
+
+[TABLE]
+*North Fork Mountain/Thorn Creek CFA -Terrestrial Habitats 2015 WV State Wildlife Action Plan North Fork Mountain/Thorn Creek CFA -Aquatic Habitats 2015 WV State Wildlife Action Plan6.18.1: Description    This landscape extends along the north to south spine of North Fork Mountain, the highest mountain in the Ridge and Valley Ecoregion (4500+ feet), extends westward to the crests of Spruce Mountain and the Allegheny Front, and includes Germany Valley and the valley of the North Fork South Branch of the Potomac River. To the east it includes the rugged Smoke Hole Canyon along the mainstem South Branch of the Potomac River and nearby ridges, most notably Cave Mountain. It also includes the nearby but disjunct watershed of Thorn Creek, which flows into the South Branch of the Potomac River south of Franklin. Most of the area is in the rain shadow of the Allegheny Front and has some of the lowest precipitation in eastern North America. Consequently, most upland habitats are notably dry. Sandstone and conglomerates dominate North Fork Mountain and several other ridges, with shales in the lowlands and extensive areas of limestone in the Smoke Hole, Germany Valley, and Cave Mountain. This is a notably rugged, scenic mountainous area. The ridgetops, middle and upper slopes are primarily forested, with extensive federal ownership in the Monongahela National Forest. Large to medium-sized blocks of relatively intact forest remain. The lower slopes and valleys are mostly in agriculture, primarily pasture and hay. Vacation home developments occur scattered on Cave and North Fork mountains. This is an important area for outdoor recreation (hunting, hiking, camping, rock climbing, caving, fishing, canoeing, mountain biking).6.18.2: Significant Wildlife ValuesCaves within this landscape support highly endemic cave invertebrates (21 SGCN, including four cave species known from only one cave each). Caves here also support all West Virginia SGCN bats including 40% of the global population of Virginia Big-eared Bat, the largest concentrations of Indiana Bats and Little Brown Bats (Myotis lucifugus) in West Virginia. Prior to WNS infections, Hellhole Cave supported an estimated 200,000 bats, the largest concentration of wild mammals in the State and one of the largest bat hibernacula in the eastern United States. Thorn Creek Valley is literally a valley of caves, many supporting significant populations of bats. The CFA has moderately large blocks of Dry Oak (-Pine) and Dry-Mixed Oak Forests, the state's most extensive Montane Red Oak Forests, and high proportions of Dry Calcareous Forests, Woodlands, and Glades. These forests and the embedded patch communities are of regional significance for forest interior nesting birds, Allegheny Woodrat, Timber Rattlesnake, Eastern Small-footed Bats, 15 SGCN snails, 95 SGCN plants, and many other animals of concern. The Smoke Hole and Cave Mountain support the most extensive limestone glade and barren complex in the Central Appalachians, providing habitat for the globally rare Smoke Hole Bergamot (Monarda fistulosa var. brevis), many other rare plants, and butterflies of concern. North Fork Mountain supports a very rich complex of acidic, dry, high elevation habitats important for many rare plants and animals, including the largest pine barren/woodland complex in the Central Appalachians and the southernmost native forests of Red Pine (Pinus resinosa). Pike and Panther Knobs on North Fork Mountain support outstanding examples of rare high elevation habitats; including high elevation Acidic Rock Outcrops, Cliffs, and Talus, red pine forests, and pine barrens. Thorn Creek supports some of the state's coldest and most productive spring-fed stream habitats. The as-yet undescribed Checkered Sculpin (Cottus sp. cf. cognatus) can still be found in the coldest streams and the springs that feed them. Thorn Creek and Seneca Creek are renowned for the size and abundance of Brook Trout that are reported by anglers each year.6.18.3: Distinctive StressesVacation home developments have occurred in ecologically significant areas and exceptional scenery here makes future development likely. A limestone quarry in Germany Valley could potentially impact cave resources, but the company has worked closely with the WVDNR and USFWS to insure their operations do not impact the important caves near the quarry. Non-native invasive (NNIS) plant species are expanding from developed areas and agricultural fields into natural habitats containing sensitive plant communities (including several SGCN species). Continue to coordinate with the quarry company to minimize potential for impacting cave resources. • There is exceptional opportunity for increased protection and management of important habitats on federal land, including addressing invasives, avoiding habitat loss and fragmentation by various activities, and avoiding impacts from recreational use. • Coordinate with the active land trust and farmland protection community to protect habitat through land conservation. • Coordinate with the Potomac Highlands Cooperative Weed Pest management Area to identify habitats impacted by NNIS and coordinate control or eradication efforts.*
+
+|  |  | 2015 WV State Wildlife Action Plan 2015 WV State Wildlife Action Plan 2015 WV State Wildlife Action Plan |  |  |
+| --- | --- | --- | --- | --- |
+| SPECIES SUMMARY BY TAXA AND PRIORITY TERRESTRIAL HABITAT SUMMARY AQUATIC HABITAT SUMMARY 6.19: Shenandoah and Nathaniel Mountains CFA |  |  |  |  |
+| CONSERVATION FOCUS AREA = North Fork Mountain/Thorn Creek CONSERVATION FOCUS AREA = North Fork Mountain/Thorn Creek CONSERVATION FOCUS AREA = North Fork Mountain/Thorn Creek |  |  |  |  |
+| TAXA | PRIORITY 1 SPECIES ACRES IN MILES IN PERCENT OF PERCENT OF PRIORITY SPECIES PERCENT OF WV PERCENT OF WV |  |  |  |
+| Amphibians HABITAT TYPE HABITAT TYPE | 4 CFA CFA | CFA AREA CFA MILES |  | 12 TOTAL FOR TYPE TOTAL FOR TYPE |
+| Birds Acidic Rock Outcrops, Cliffs, and Talus Headwater Creek,Low Gradient,Cool | 24 2,752 0 | 1.03% 0.03% |  | 12 3.07% 1.05% |
+| Butterflies and Moths Cave Invertebrates Agriculture Headwater Creek,Low Gradient, Warm Headwater Creek,Moderate Gradient,Cool 6.18.4: Conservation Actions Dragonflies and Damselflies Anthropogenic Shrubland & Grassland Headwater Creek,Moderate Gradient,Warm Fish Mammals Mussels Tiger Beetles Totals Calcareous Cliffs and Talus Developed Dry Calcareous Forests, Woodlands, and Glades Heath-Grass Barrens High Allegheny Wetlands Headwater Creek,High Gradient,Cold Headwater Creek,High Gradient,Cool Small River,Low Gradient,Cool Small River,Moderate Gradient,Cool • 6.18.5: Conservation Opportunities Plants Reptiles Dry Oak (-Pine) Forests Medium River, Low Gradient,Warm Medium River,Moderate Gradient,Warm Snails Dry-Mesic Oak Forests Totals | 7 16 35,467 2 46 0 2 2 4 7 1 2 100 1,828 10,249 5,735 93 22 157 179 0 48 24 57,087 11 37 8 1 83,394 483 | 13.22% 0.41% 9.63% 0.00% 0.36% 0.68% 3.82% 2.14% 0.03% 0.01% 32.56% 37.10% 0.08% 9.98% 21.28% 2.25% 7.59% 31.09% 100.00% |  | 0.36% 2.47% 2.12% 0.00% 0.04% 138 19.85% 0.90% 8.02% 3.32% 0.11% 5.36% 2.86% 1.04% 10.33% 71 2.29% 2.31% 10.57% 14 1.67% |
+| Mixed Mesophytic Forests | 19,255 |  | 7.18% | 0.65% |
+| • Key WVDNR Partners: Monongahela National Forest, TNC, WVDOF, Greer Lime Company, National Speleological Society, private cave owners, Germany Valley Karst Survey, Potomac Montane Red Oak Forests 7,037 2.62% 33.29% |  |  |  |  |
+| Highlands Cooperative Weed and Pest Management Area. Northern Hardwood Forests 20,413 |  |  | 7.61% | 2.05% |
+| • Public Lands: Monongahela National Forest, Thorn Creek WMA. The Nature Conservancy also has over 5,000 acres in fee ownership and conservation easements. Pine-Oak Rocky Woodlands 6,727 2.51% 8.81% |  |  |  |  |
+| Red Spruce Forests | 4,888 |  | 1.82% | 2.75% |
+| 6.18.6: SWAPMASTER Summary Tables of Species and Habitats River Floodplains 1,754 |  |  | 0.65% | 1.46% |
+| The following three pages contain summary tables of species and habitats generated from the Shale Barrens 45 0.02% 2.49% |  |  |  |  |
+| SWAPMASTER database for this CFA. See Appendix 4 for a complete list of species recorded by the WVDNR within the boundaries of each CFA. Sinkhole and Depression Ponds 3 0.00% 1.93% |  |  |  |  |
+| Small Stream Riparian Habitats | 5,033 |  | 1.88% | 1.02% |
+| Unresolved | 6,459 |  | 2.41% | 5.53% |
+| Totals | 268,242 | 100.00% |  |  |
+
+[/TABLE]
+
+[TABLE]
+*Shenandoah and Nathaniel Mountains CFA -Terrestrial Habitats 2015 WV State Wildlife Action Plan6.19.1: DescriptionShenandoah Mountain is the largest massif in the Ridge and Valley Ecoregion, rising dramatically above the valley of the South Fork of the South Branch Potomac River to elevations above 4000 feet. The Virginia state line follows the crest of the mountain for much of its length in West Virginia. The CFA extends northward, into West Virginia, where it encompasses South Branch Mountain and eventually Nathaniel Mountain. River valleys are low in elevation. The South Fork of the South Branch of the Potomac River (South Fork) valley tends to be narrow with a well-developed floodplain that quickly gives way to foothills. North of the confluence of the South Fork and mainstem South Branch, the CFA includes The Trough, a narrow, steep canyon along the South Branch. Mountains tend to be sandstone, the valleys shale. Small areas of limestone also occur in the valleys. This landscape is almost entirely forested, with large blocks of forest remaining. Several hunt clubs own large, forested parcels including one 11,000+ acre property which is the largest private tract in the Potomac Watershed of West Virginia. Farmland (mostly poultry, livestock pasture, hay, and corn) occurs primarily in the river bottom along the South Fork River, on top of South Branch Mountain and Shenandoah Mountains in Hardy County, and in an area east of Nathaniel Mountain. Low density residential and second home development is occurring throughout the area north of Pendleton County. There is substantial public land in the southern and northern thirds, but none in the middle third of this landscape.6.19.2: Significant Wildlife ValuesThis CFA, including its ecological continuation in Virginia, includes some of the largest intact forest blocks between the Adirondacks and Great Smoky mountains, representing regionally significant habitat for several forest interior nesting birds, species of embedded rocky patch habitats (such as Allegheny Woodrat, Timber Rattlesnake, and Appalachian Oak Fern (Gymnocarpium appalachianum)), wintering Golden Eagle (Aquila chrysaetos -one of the highest wintering densities in the eastern United States), and globally rare, highly restricted endemic plants. These forest blocks are critical for maintaining embedded patch habitats, regional connectivity, and functional, resilient forest communities. Almost the entire ranges of the Cow Knob and Shenandoah Mountain salamanders (Plethodon punctatus, P. virginia) are found here and in adjoining Virginia. Along the South Fork is one of the most globally significant assemblages of Shale Barrens, which support many plants and butterflies of concern, including the federally endangered Shale Barren Rockcress. Many species are known in West Virginia only or primarily from here, including (at least formerly) Olympia Marble (Euchloe olympia), Turkeybeard (Xerophyllum asphodeloides), and Dwarf Trillium (Trillium pusillum). Overall, the forests and embedded patch habitats support 16 SGCN moths and butterflies, 12 SGCN snails, and 52 SGCN plants. A cave with a significant summer colony and hibernating concentration of Virginia Big-eared Bats and a small population of Indian Bats occurs along the South Fork. American Eel (Anguilla rostrata) adults are still commonly found in larger streams. The Trough supports several breeding pairs of Bald Eagles. Cooperative efforts with public landowners to maintain large, intact forest blocks thus protecting many other special habitats. • Partner with public landowners so that habitat loss and fragmentation by renewable energy and other development can be avoided on public lands. • Implement a comprehensive plan to enhance climate change resiliency through reducing other stressors (such as invasive species), identifying, maintaining and creating key habitat cores and corridors, and protecting areas of high landscape complexity and integrity. • Coordinate with the Potomac Highlands Cooperative Weed Pest management Area to identify habitats impacted by NNIS and coordinate control or eradication efforts. Key WVDNR Partners: George Washington National Forest, WVDOF, NRCS, Potomac Highlands Cooperative Weed and Pest Management Area, AMJV, large hunt clubs. • Public Lands: George Washington National Forest; Nathaniel Mountain and South Branch WMAs; Sugar Grove Naval Base. 6.19.6: SWAPMASTER Summary Tables of Species and HabitatsThe following three pages contain summary tables of species and habitats generated from the SWAPMASTER database for this CFA. See Appendix 4 for a complete list of species recorded by the WVDNR within the boundaries of each CFA.*
+
+|  |  |  |  | 2015 WV State Wildlife Action Plan 2015 WV State Wildlife Action Plan 2015 WV State Wildlife Action Plan |  |
+| --- | --- | --- | --- | --- | --- |
+| 6.19.4: Conservation Actions SPECIES SUMMARY BY TAXA AND PRIORITY TERRESTRIAL HABITAT SUMMARY AQUATIC HABITAT SUMMARY 6.20: Cacapon River and Patterson Creek CFA |  |  |  |  |  |
+| CONSERVATION FOCUS AREA = Shenandoah Mountain/Nathaniel Mountain CONSERVATION FOCUS AREA = Shenandoah Mountain/Nathaniel Mount CONSERVATION FOCUS AREA = Shenandoah Mountain/Nathaniel Mou |  |  |  |  |  |
+| TAXA | PRIORITY 1 SPECIES ACRES IN MILES IN PERCENT OF PERCENT OF PRIORITY 2 SPECIES PERCENT OF WV PERCENT OF WV |  |  |  |  |
+| Amphibians HABITAT TYPE HABITAT TYPE | 2 CFA CFA |  |  | CFA AREA CFA MILES | 13 TOTAL FOR TYPE TOTAL FOR TYPE |
+| Birds Acidic Rock Outcrops, Cliffs, and Talus Headwater Creek,Low Gradient,Cool | 17 1,545 0 |  |  | 0.61% 0.03% | 11 1.72% 1.42% |
+| Butterflies and Moths Dragonflies and Damselflies Agriculture Headwater Creek,Low Gradient, Warm Headwater Creek,Moderate Gradient,Cool | 9 2 25,331 4 71 |  |  | 9.98% 0.61% 12.00% | 7 1 0.64% 1.76% 3.22% |
+| 6.19.5: Conservation Opportunities Fish Anthropogenic Shrubland & Grassland Headwater Creek,Moderate Gradient,Warm Mammals Calcareous Cliffs and Talus Headwater Creek,High Gradient,Cold Headwater Creek,High Gradient,Cool | 3 14 5 1,660 0 334 82 |  |  | 0.00% 2.40% 0.65% 56.78% 13.87% | 0.00% 0.36% 3 18.03% 11.40% 4 1.30% |
+| Mussels Developed Small River,Low Gradient,Cool | 4 9,228 3 |  |  | 3.63% 0.45% | 2 0.81% 6.92% |
+| Plants Dry Calcareous Forests, Woodlands, and Glades Small River,Low Gradient, Warm | 15 3,317 0 |  |  | 1.31% 0.01% | 37 4.64% 0.01% |
+| Reptiles Snails Dry Oak (-Pine) Forests Small River,Moderate Gradient,Cool Small River,Moderate Gradient,Warm Dry-Mesic Oak Forests Small River,High Gradient,Warm | 5 59,172 31 1 105,238 0 |  |  | 23.31% 5.33% 0.09% 41.45% 0.00% | 5 6.74% 2.39% 0.10% 12 2.11% 0.17% |
+| Totals Heath-Grass Barrens Medium River, Low Gradient,Warm | 62 4 |  | 0 | 0.00% 0.76% | 95 0.00% 0.94% |
+| Medium River,Moderate Gradient,Warm | 21 |  |  | 3.49% | 5.92% |
+| High Allegheny Wetlands Large River,Low Gradient,Warm | 13 |  | 0 | 0.00% 2.20% | 0.00% 2.23% |
+| Mixed Mesophytic Forests Large River,Moderate Gradient,Warm | 15,474 12 |  |  | 6.09% 1.98% | 0.53% 10.63% |
+| Montane Red Oak Forests Totals | 589 | 2,274 |  | 0.90% 100.00% | 10.76% |
+| Northern Hardwood Forests |  | 2,003 |  | 0.79% | 0.20% |
+| Pine-Oak Rocky Woodlands |  | 5,885 |  | 2.32% | 7.70% |
+| Red Spruce Forests |  | 117 |  | 0.05% | 0.07% |
+| River Floodplains |  | 2,424 |  | 0.95% | 2.02% |
+| Shale Barrens |  | 387 |  | 0.15% | 21.61% |
+| Sinkhole and Depression Ponds |  |  | 0 | 0.00% | 0.00% |
+| Small Stream Riparian Habitats |  | 9,267 |  | 3.65% | 1.87% |
+| Unresolved | 10,563 |  |  | 4.16% | 9.05% |
+| 6.19.3: Distinctive Stresses Totals | 253,887 |  |  | 100.00% |  |
+| Low density housing and second home development has significantly fragmented forest habitat in |  |  |  |  |  |
+| portions of this CFA, including the largest second home development in West Virginia (which covers |  |  |  |  |  |
+| 10,000 acres). Industrial wind energy projects have been proposed for portions of the area. Forest |  |  |  |  |  |
+| management activities (e.g. timber harvesting, prescribed fire and road construction) perforate intact |  |  |  |  |  |
+| forest and enable non-native invasive plant species establishment. |  |  |  |  |  |
+
+[/TABLE]
+
+[TABLE: Cacapon River and Patterson Creek CFA -Terrestrial Habitats 2015 WV State Wildlife Action Plan6.20.1: Description    This Ridge and Valley Ecoregion CFA includes the entire watersheds of the Cacapon River and Patterson Creek, which, while not adjacent, are both in the Potomac Basin and have many ecological and land-use similarities. The Cacapon Watershed includes two large tributary drainages (North and Lost rivers). The valleys in both the Cacapon and Patterson Creek watersheds are low elevation (below 1000 feet), have narrow but well-developed floodplains along the larger streams, and have extensive low elevation, primarily shaley uplands which give way to parallel ridges of mostly shale and sandstone. Areas of limestone occur in both watersheds. Higher mountains, some of which rise above 3000 feet, include Cacapon, Great North, Short, Long, Patterson Creek, and Knobly, and the Allegheny Front. The ridgetops and upper slopes are mostly forested, with several medium and large forest blocks remaining, primarily in the Cacapon Watershed. Private forestland is mostly in small to medium sized tracts and used for forestry and recreation. Some lower ridges support apple orchards. The lower uplands and river bottoms are mostly in agriculture with scattered small towns such as Wardensville and Great Cacapon. Agriculture is primarily livestock production and includes pasture and hay lands, and corn production. Poultry operations also occur in both watersheds. Second home development is prevalent in the Cacapon Watershed, especially along the Cacapon River downstream of North River and adjacent to public land. There is substantial public land in the eastern portion of the Cacapon Watershed. The only public land in the Patterson Creek Watershed is Larenim County Park. Headwater tributaries in both Cacapon River and Patterson Creek, although at low elevations, are coldwater streams that support natural Brook Trout populations. The Cacapon River and Patterson Creek are especially notable for their large populations of many aquatic species. Streams and wetlands in the CFA support 28 SGCN dragonflies and damselflies, a large number for West Virginia. These watersheds also contain shale banks and barrens that support Shale Barren endemic plants and Shale Barren associated lepidopterans, with 14 SGCN moths and butterflies in the CFA. This is also an important CFA for birds (44 SGCN). Pastures and hayfields are important for a number of grassland bird species. Upland forests, especially larger intact forest blocks on the national forest, support a suite of forest interior bird species. Altogether, natural habitats in the CFA support 75 SGCN plants. The algific talus community (which holds subsurface ice into the summer) at Ice Mountain is a notable refugium for rare plants and snails, and the extensive, high quality wetlands on Short Mountain WMA are of global significance.]
+
+[TABLE]
+*• Key WVDNR Partners: George Washington National Forest, WVDOF, WVDEP, NRCS, West Virginia Conservation Agency, county farmland protection boards, The Cacapon and Lost Rivers Land Trust, Friends of the Cacapon, The Cacapon Institute, Potomac Conservancy. • Public Lands: George Washington National Forest; Short Mountain, Edwards Run, Nathaniel Mountain, and Sideling Hill WMAs; Cacapon and Lost River state parks. 6.20.6: SWAPMASTER Summary Tables of Species and Habitats The following three pages contain summary tables of species and habitats generated from the SWAPMASTER database for this CFA. See Appendix 4 for a complete list of species recorded by the WVDNR within the boundaries of each CFA. CFA encompasses three adjoining watersheds within the Ridge and Valley Ecoregion: Warm Spring Run, Sleepy Creek, and Back Creek. All streams flow north and drain directly into the Potomac River (which belongs to Maryland). Valleys are low elevation, generally broad, with narrow but well-defined floodplains along the larger streams (including mainstem Potomac), and have extensive shaley (but still low elevation) uplands, flanked by steeply sided, narrow mid-elevation sandstone ridges (primarily Cacapon, Sleepy Creek, Little North, and Third Hill mountains), which occasionally rise above 2000 feet. The watersheds of Sleepy Creek and Back Creek originate in Virginia. The ridgetops and upper slopes are mostly forested, with significant moderate-sized forest blocks surviving only in Cacapon State Park and Sleepy Creek WMA. Most forest land is in private, small to medium-sized non-industrial holdings. The lower slopes and valleys are a mosaic of forest, agriculture, and residential/second home development. Population growth has been steady over last 50 years, and developed areas are extensive, but often of low to medium density. Commercial development is centered along US Route 522 and WV Route 9, and includes the town of Berkeley Springs. Agriculture, mostly on the shaley uplands, includes beef and dairy production with associated hay, corn, and pasture lands. Apple orchards still operate on some of the lower ridges. On state lands, and especially Sleepy Creek WMA, blocks of upland forests (primarily mixed oak) and embedded rocky habitats are important for many species, including interior forest nesting birds, wintering Golden Eagle, Allegheny Woodrat, and Timber Rattlesnake. A cave in the Back Creek Watershed contains a cave amphipod species known only from that site.*
+
+|  |  |  | 2015 WV State Wildlife Action Plan 2015 WV State Wildlife Action Plan 2015 WV State Wildlife Action Plan 2015 WV State Wildlife Action Plan |  |
+| --- | --- | --- | --- | --- |
+| SPECIES SUMMARY BY TAXA AND PRIORITY TERRESTRIAL HABITAT SUMMARY AQUATIC HABITAT SUMMARY 6.21: Sleepy Creek and Back Creek CFA 6.21.1: Description |  |  |  |  |
+| CONSERVATION FOCUS AREA = Cacapon River/Patterson Creek CONSERVATION FOCUS AREA = Cacapon River/Patterson Creek CONSERVATION FOCUS AREA = Cacapon River/Patterson Creek Sleepy Creek and Back Creek CFA -Terrestrial Habitats |  |  |  |  |
+| TAXA Amphibians HABITAT TYPE HABITAT TYPE | PRIORITY 1 SPECIES 5 ACRES IN CFA MILES IN PERCENT OF PERCENT OF PRIORITY SPECIES 13 CFA AREA PERCENT OF WV PERCENT OF WV TOTAL FOR TYPE CFA CFA MILES TOTAL FOR TYPE |  |  |  |
+| Birds Acidic Rock Outcrops, Cliffs, and Talus Headwater Creek,Low Gradient,Cool | 29 1 | 442 | 0.07% 0.07% | 15 0.49% 6.18% |
+| Butterflies and Moths Cave Invertebrates Agriculture Headwater Creek,Low Gradient, Warm Headwater Creek,Moderate Gradient,Cool | 11 6 79,674 7 173 |  | 13.17% 0.59% 13.99% | 1.31% 5.55% 7.89% |
+| Dragonflies and Damselflies Anthropogenic Shrubland & Grassland Headwater Creek,Moderate Gradient,Warm Fish Calcareous Cliffs and Talus Headwater Creek,High Gradient,Cold Headwater Creek,High Gradient,Cool | 10 119 249 8 494 | 0 494 | 0.00% 9.64% 0.08% 20.13% 39.90% | 0.00% 3.05% 18 5.37% 8.49% 7.88% |
+| Mammals Developed Small River,Low Gradient,Cool | 4 24,267 6 |  | 4.01% 0.48% | 2.13% 15.63% |
+| Mussels Dry Calcareous Forests, Woodlands, and Glades Small River,Low Gradient, Warm | 8 11,225 5 |  | 1.86% 0.41% | 15.69% 1.11% |
+| Plants Reptiles Dry Oak (-Pine) Forests Small River,Moderate Gradient,Cool Small River,Moderate Gradient,Warm Snails Tiger Beetles Totals High Allegheny Wetlands Totals Heath-Grass Barrens Medium River,Moderate Gradient,Warm Dry-Mesic Oak Forests Medium River, Low Gradient,Warm 6.21.2: Significant Wildlife Values | 15 111,198 46 45 7 105 0 1,237 1 0 58 1 293,876 34 |  | 18.39% 3.72% 3.65% 0.00% 100.00% 0.00% 4.66% 48.59% 2.76% | 60 9.88% 4.50% 8.31% 135 0.00% 0.00% 16.62% 5.89% 7.19% |
+| Mixed Mesophytic Forests | 14,076 |  | 2.33% | 0.48% |
+| Montane Red Oak Forests | 1,103 |  | 0.18% | 5.22% |
+| Northern Hardwood Forests | 3,769 |  | 0.62% | 0.38% |
+| Pine-Oak Rocky Woodlands | 11,782 |  | 1.95% | 15.42% |
+| Red Spruce Forests |  | 11 | 0.00% | 0.01% |
+| River Floodplains | 7,213 |  | 1.19% | 6.00% |
+| Shale Barrens |  | 408 | 0.07% | 22.75% |
+| Sinkhole and Depression Ponds |  | 0 | 0.00% | 0.00% |
+| Small Stream Riparian Habitats | 24,126 |  | 3.99% | 4.88% |
+| Unresolved | 21,147 |  | 3.50% | 18.12% |
+| Totals | 604,812 |  | 100.00% |  |
+
+[/TABLE]
+
+[TABLE]
+* Morgan County and Berkeley County Planning Commissions, Sleepy Creek Watershed Association, Warm Springs Run Watershed Association, Blue Heron Environmental Network, Potomac Valley Audubon Society, county farmland protection boards, Land Trust of the Eastern Panhandle. Comprehensive watershed protection also includes engaging with the State of Virginia and Frederick County, Virginia, on water quality issues in the respective watersheds. • Public Lands: Sleepy Creek WMA, Cacapon State Park.*
+
+| 6.21.6: SWAPMASTER Summary Tables |
+| --- |
+
+[/TABLE]
+
+[TABLE]
+* Ridge and Valley CFA spans most of West Virginia from Little North Mountain east to the crest of the Blue Ridge. Terrain between these two ridges is flat to gently rolling, low elevation uplands of the Shenandoah Valley and includes the lowest elevations in the State. Much of the valley is limestone, although there is a significant shale belt. The Blue Ridge in West Virginia is a low elevation ridge (under 1700 feet) primarily of sandstone and quartzite, but also including a metabasalt (a modified form of lava) that is the state's oldest surface rocks. The limestone terrain has numerous spring-fed streams, marl marshes, and caves. The entire West Virginia portion of the Shenandoah River passes through this CFA, which is bounded on the north with substantial frontage on the mainstem Potomac, which is part of Maryland. The original deciduous forest of the Shenandoah Valley has been almost completely displaced by agriculture, residential, and industrial development. Due to its proximity to Washington, DC, this is West Virginia's most rapidly growing population center. Many cities and towns are here, including Martinsburg, Charles Town, Ranson, and Shepherdstown. Agricultural landuse includes beef production, horse farms, apple and peach orchards, hay, and corn. Industry includes active and legacy limestone quarries around Martinsburg and along the Shenandoah River. The Blue Ridge is largely forested, but much of it is covered with low to medium density residential and second home development.6.22.2: Significant Wildlife ValuesMarl wetlands, spring creeks, and cave/subterranean karst habitats support many important species in this CFA. Altona Marsh, Harewood Marsh, and Lake Louise are among the most important marl wetlands and are among the highest quality alkaline wetlands in the unglaciated Appalachians. Marl wetlands support a number of wetland animals of concern, including Virginia Rail (Rallus limicola) and Spotted Turtle, along with a number of plants found nowhere else in West Virginia, such as Ontario Lobelia (Lobelia kalmii) and Baltic Rush (Juncus balticus). The federally threatened Madison Cave Isopod (Antrolana lira) occurs in pockets of karst groundwater in the Shenandoah Valley, where it is encountered in caves and wells that intersect the water table. There are eight other SGCN cave invertebrates, including a cave amphipod known only from one site. This is an important CFA for birds (37 SGCN). The farmlands are among the most extensive Anthropogenic Grasslands and Shrublands in the state and represent a significant portion of the state's habitat for a suite of grassland birds, including loggerhead shrike, horned lark (Eremophila alpestris), grasshopper sparrow, and eastern meadowlark. Many species of limited distribution in West Virginia are found in this CFA, including Northern Cricket Frog, Northern Red-bellied Cooter (Pseudemys rubriventris), Prothonotary Warbler (Protonotaria citrea), and Nodding Trillium (Trillium cernuum). The Shenandoah River is a dominant landscape feature that supports riparian birds of concern and as many as ten SGCN fish. Eighty SGCN plants are known from the varied habitats in the CFA. Many rare plants of concern are found in Harpers Ferry National Historical Park.*
+
+|  |  |  | 2015 WV State Wildlife Action Plan 2015 WV State Wildlife Action Plan 2015 WV State Wildlife Action Plan 2015 WV State Wildlife Action Plan |  |
+| --- | --- | --- | --- | --- |
+| TERRESTRIAL HABITAT SUMMARY AQUATIC HABITAT SUMMARY 6.22: Shenandoah Valley CFA 6.22.1: Description |  |  |  |  |
+| CONSERVATION FOCUS AREA = Sleepy Creek/Back Creek CONSERVATION FOCUS AREA = Sleepy Creek/Back Creek CONSERVATION FOCUS AREA = Sleepy Creek/Back Creek Shenandoah Valley CFA -Terrestrial Habitats |  |  |  |  |
+| TAXA Amphibians HABITAT TYPE HABITAT TYPE | PRIORITY 1 SPECIES 4 ACRES IN CFA MILES IN PERCENT OF PERCENT OF PRIORITY 2 SPECIES 14 CFA AREA PERCENT OF WV PERCENT OF WV TOTAL FOR TYPE CFA CFA MILES TOTAL FOR TYPE |  |  |  |
+| Birds Acidic Rock Outcrops, Cliffs, and Talus Headwater Creek,Low Gradient, Warm | 17 2 | 50 | 0.03% 0.42% | 10 0.06% 0.29% |
+| Butterflies and Moths Cave Invertebrates Agriculture Headwater Creek,Moderate Gradient,Cool Headwater Creek,Moderate Gradient,Warm | 4 1 25,449 72 84 |  | 14.20% 18.61% 21.65% | 1 3.28% 1.77% 2.15% |
+| Dragonflies and Damselflies Anthropogenic Shrubland & Grassland Headwater Creek,High Gradient,Cold Fish Calcareous Cliffs and Talus Headwater Creek,High Gradient,Cool Small River,Low Gradient, Warm | 1 18 6 148 8 | 0 43 | 0.00% 4.62% 0.02% 38.20% 2.07% | 0.00% 0.61% 9 0.46% 2.36% 2 1.74% |
+| Mammals Developed Small River,Moderate Gradient,Warm | 1 11,478 31 |  | 6.41% 7.89% | 3 1.01% 5.63% |
+| Mussels Dry Calcareous Forests, Woodlands, and Glades Medium River, Low Gradient,Warm | 6 19 | 706 | 0.39% 4.87% | 4 0.99% 3.97% |
+| Plants Reptiles Dry-Mesic Oak Forests Dry Oak (-Pine) Forests Medium River,Moderate Gradient,Warm Totals | 8 4 94,514 25,512 6 387 |  | 52.75% 14.24% 1.68% 100.00% | 25 1.89% 7 1.87% 1.03% |
+| Snails |  |  |  | 6 |
+| Heath-Grass Barrens |  | 0 | 0.00% | 0.00% |
+| Totals High Allegheny Wetlands | 52 | 0 | 0.00% | 81 0.00% |
+| Mixed Mesophytic Forests |  | 16 | 0.01% | 0.00% |
+| Montane Red Oak Forests |  | 0 | 0.00% | 0.00% |
+| Northern Hardwood Forests | 1,254 |  | 0.70% | 0.13% |
+| Pine-Oak Rocky Woodlands |  | 749 | 0.42% | 0.98% |
+| Red Spruce Forests |  | 0 | 0.00% | 0.00% |
+| River Floodplains | 3,969 |  | 2.21% | 3.30% |
+| Shale Barrens |  | 14 | 0.01% | 0.76% |
+| Sinkhole and Depression Ponds |  | 1 | 0.00% | 0.74% |
+| Small Stream Riparian Habitats | 9,469 |  | 5.28% | 1.92% |
+| Unresolved | 5,954 |  | 3.32% | 5.10% |
+| Totals | 179,178 |  | 100.00% |  |
+
+[/TABLE]
+
+[TABLE]
+*• Key WVDNR Partners: Berkeley and Jefferson county farmland protection boards, Berkeley and Jefferson County Planning Commissions, WVDEP, West Virginia Conservation Agency, Opequon Creek Watershed Association, NRCS, Land Trust of the Eastern Panhandle, Potomac Valley Audubon Society, Leetown Science Center (USGS), Freshwater Institute, National Park Service. Water quality issues on Opequon Creek and Shenandoah River require engaging with the state of Virginia and planning commissions in Frederick and Clarke Counties, Virginia. • Public Lands: Shannondale Springs WMA, National Conservation Training Center, Harpers Ferry National Historical Park, Appalachian Trail National Scenic Trail, Leetown Science Center (USGS), and numerous county parks. 6.22.6: SWAPMASTER Summary Tables of Species and HabitatsThe following three pages contain summary tables of species and habitats generated from the SWAPMASTER database for this CFA. See Appendix 4 for a complete list of species recorded by the WVDNR within the boundaries of each CFA. years ago, when the first West Virginia State Wildlife Action Plan (SWAP) was published, conservation planning for Species of Greatest Conservation Need (SGCN) populations and habitats was in its infancy. The conservation priorities that emerged from that plan were to better understand species distribution, species/habitat associations, trends in both species numbers and habitat quantity and quality and what stresses were impacting species and habitats. The past decade has witnessed significant progress in those areas but also the emergence or increased awareness of stresses that were barely mentioned in that first plan, such as the development of shale gas resources and climate change.*
+
+|  |  |  |  | 2015 WV State Wildlife Action Plan 2015 WV State Wildlife Action Plan 2015 WV State Wildlife Action Plan |  |
+| --- | --- | --- | --- | --- | --- |
+| SPECIES SUMMARY BY TAXA AND PRIORITY TERRESTRIAL HABITAT SUMMARY AQUATIC HABITAT SUMMARY Chapter 7: Monitoring, Adaptive Management, Research |  |  |  |  |  |
+| CONSERVATION FOCUS AREA = Greater Shenandoah Valley CONSERVATION FOCUS AREA = Greater Shenandoah Valley CONSERVATION FOCUS AREA = Greater Shenandoah Valley and Data Acquisition, Data Management and |  |  |  |  |  |
+| TAXA | Plan Revision | PRIORITY 1 SPECIES ACRES IN MILES IN PERCENT OF PERCENT OF PRIORITY 2 SPECIES PERCENT OF WV PERCENT OF WV |  |  |  |
+| Amphibians HABITAT TYPE HABITAT TYPE 7.1: Introduction |  | 2 CFA CFA |  | CFA AREA CFA MILES | 11 TOTAL FOR TYPE TOTAL FOR TYPE |
+| Birds Acidic Rock Outcrops, Cliffs, and Talus Headwater Creek,Low Gradient, Warm |  | 23 3 | 8 | 0.00% 0.88% | 14 0.01% 0.59% |
+| Butterflies and Moths Cave Invertebrates Agriculture Headwater Creek,Moderate Gradient,Cool Headwater Creek,Moderate Gradient,Warm |  | 2 6 132,544 250 44 |  | 53.58% 67.06% 11.93% | 8 3 11.37% 9.23% 1.14% |
+| Dragonflies and Damselflies Anthropogenic Shrubland & Grassland Headwater Creek,High Gradient,Cold Fish Calcareous Cliffs and Talus Headwater Creek,High Gradient,Cool Headwater Creek,High Gradient,Warm |  | 6 9 14 2 | 0 4 | 0.00% 1.67% 0.00% 3.69% 0.44% | 0.00% 0.21% 7 0.04% 0.22% 5 0.21% |
+| Mussels Developed Small River,Low Gradient, Warm |  | 6 36,450 5 |  | 14.73% 1.23% | 3 3.20% 1.00% |
+| Plants Dry Calcareous Forests, Woodlands, and Glades Small River,Moderate Gradient,Warm |  | 14 2,779 1 |  | 1.12% 0.15% | 66 3.88% 0.10% |
+| Reptiles Snails Dry Oak (-Pine) Forests Medium River, Low Gradient,Warm Medium River,Moderate Gradient,Warm Dry-Mesic Oak Forests Large River,Low Gradient,Warm |  | 6 6,416 17 11 55,233 15 |  | 2.59% 4.68% 2.93% 22.33% 3.91% | 7 3.66% 0.26% 3.14% 10 1.11% 2.50% |
+| Totals Heath-Grass Barrens Large River,Moderate Gradient,Warm |  | 68 5 | 0 | 0.00% 1.45% | 134 0.00% 4.90% |
+| High Allegheny Wetlands Totals |  | 372 | 0 | 0.00% 100.00% | 0.00% |
+| Mixed Mesophytic Forests |  | 353 |  | 0.14% | 0.01% |
+| Montane Red Oak Forests |  |  | 0 | 0.00% | 0.00% |
+| Northern Hardwood Forests |  |  | 0 | 0.00% | 0.00% |
+| Pine-Oak Rocky Woodlands |  |  | 19 | 0.01% | 0.02% |
+| Red Spruce Forests |  |  | 0 | 0.00% | 0.00% |
+| River Floodplains |  | 2,254 |  | 0.91% | 1.88% |
+| Shale Barrens |  |  | 0 | 0.00% | 0.00% |
+| Sinkhole and Depression Ponds |  | 123 |  | 0.05% | 82.44% |
+| Small Stream Riparian Habitats |  | 7,804 |  | 3.15% | 1.58% |
+| Unresolved |  | 3,395 |  | 1.37% | 2.91% |
+| Totals |  | 247,382 |  | 100.00% |  |
+
+[/TABLE]
+
+[TABLE]
+* Monitoring Habitats in Conservation Focus AreasImplementing effective conservation actions in CFA's will require finer scale habitat mapping, with regular updates to the spatial data. This strategy too has been elevated in Section 7.4 and will benefit from synergies with species monitoring in the CFA's and with collaborative efforts of local CFA partners.*
+
+|  |  | 2015 WV State Wildlife Action Plan 2015 WV State Wildlife Action Plan |  |
+| --- | --- | --- | --- |
+| Mussels-Meathouse Fork at New Milton Mussels -Little Kanawha River at Burning Springs Mussels -Little Kanawha River at Annamoriah Mussels -Greenbrier River downstream of Thorny Mussels -Hackers Creek Mussels -Kanawha River at 7.2.2.2: 7.2.3: Monitoring Results of Conservation Actions WVDNR Temperature/Pebble Counts WVDNR Temperature/Pebble Counts WVDNR Temperature/Pebble Counts WVDNR Temperature/Pebble Counts WVDNR Temperature/Pebble Counts WVDNR Temperature/Pebble Counts |  |  | Species, Habitat Species, Habitat Species, Habitat Species, Habitat Species, Habitat Species, Habitat |
+| Kanawha Falls |  |  |  |
+| Mussels -Kanawha River at 7.2.3.1: Monitoring Statewide Results WVDNR |  | Temperature/Pebble Counts | Species, Habitat |
+| Watsons Island |  |  |  |
+| Mussels -Monongahela River | WVDNR | Temperature/Pebble Counts | Species, Habitat |
+| downstream of Opekiska |  |  |  |
+| Mussels -Monongahela River | WVDNR | Temperature/Pebble Counts | Species, Habitat |
+| downstream of Hilderbrand |  |  |  |
+| Mussels -New River at Thurmond | WVDNR | Temperature/Pebble Counts | Species, Habitat |
+| Mussels -North Fork Hughes River | WVDNR | Temperature/Pebble Counts | Species, Habitat |
+| at Sears Road |  |  |  |
+| Mussels -Ohio River at Old Lock 18 WVDNR |  | Temperature/Pebble Counts | Species, Habitat |
+| Mussels -Ohio River at | WVDNR | Temperature/Pebble Counts | Species, Habitat |
+| Muskingum Island |  |  |  |
+| Mussels -Ohio River at Buckley | WVDNR | Temperature/Pebble Counts | Species, Habitat |
+| Island |  |  |  |
+| Mussels -Ohio River at Neal Island | WVDNR | Temperature/Pebble Counts | Species, Habitat |
+| Mussels -Ohio River at | WVDNR | Temperature/Pebble Counts | Species, Habitat |
+| Blennerhassett Island |  |  |  |
+| Mussels -Ohio River at Degussa | WVDNR | Temperature/Pebble Counts | Species, Habitat |
+| Mussels -Ohio River at River Mile | WVDNR | Temperature/Pebble Counts | Species, Habitat |
+| 284 |  |  |  |
+| Mussels -Dunkard Creek Mason | WVDNR | Temperature/Pebble Counts | Species, Habitat |
+| Dixon |  |  |  |
+| Mussels -Dunkard Creek Blacks | WVDNR | Temperature/Pebble Counts | Species, Habitat |
+| Run |  |  |  |
+| Habitat Monitoring Action Mussels -Dunkard Creek DOH | Implementation Lead WVDNR | Monitoring Targets Temperature/Pebble Counts | Level of Monitoring Species, Habitat |
+| Mussels -Dunkard Creek | WVDNR | Temperature/Pebble Counts | (Species, Species Group or Habitat) Species, Habitat |
+| Ice Mountain Permanent Blacksville | WVDNR | Vegetation around ice vents | Habitat |
+| Vegetation Plot AMD liming stations | WVDNR, WVDEP, Trout | (Acidic Rock Outcrops, Cliffs, Stream water quality | Habitat |
+|  | Unlimited? | and Talus; Mixed Mesophytic |  |
+| Stream monitoring | Friends of the Cheat | Forests) Water quality | habitat |
+| Bear Rocks Burn Monitoring Stream monitoring | WVDNR Friends of Deckers Creek | Heath Grass Barrens Water quality | Habitat habitat |
+| Canaan Valley Deer Exclosures Stream monitoring | WVDNR Dunkard Creek Watershed Assoc | High Allegheny Wetlands Water quality | Habitat habitat |
+| Forest Health Monitoring Plots Stream monitoring | NPS West Fork Watershed Assoc | Forest habitats Water quality | Habitat Habitat |
+| Rare Riparian Plant Community Secretive marsh bird monitoring Monitoring West Virginia Vegetation WV Butterfly Atlas Stream monitoring Classification Plots West Virginia Terrestrial Habitat Map Mast survey Gypsy moth monitoring Biotics Emerald Ash borer monitoring Aquatic Community Assessment National Wetland Condition Assessment and Restoration Program Inspection of cave gates at significant bat caves Mussels-Cacapon River at Mussels-Cacapon River at Great Coopers Rock State Forest. Bradfields Triodopsis platysayoides habitat at Inspection of fences that protect | NPS WVDNR WVDNR WVDNR WVDEP WVDNR WVDNR WVDA, WVDOF WVDNR WVDA WVDNR EPA WVDNR WVDNR WVDNR WVDNR | River Floodplains Notable wetlands statewide Statewide Vegetation Lepidoptera Water quality All terrestrial habitats Hard and soft mast Gypsy moth statewide All terrestrial habitats Emerald ash borer Fishes statewide High Allegheny Wetlands, Security of site River Floodplains, Small Stream Riparian Habitats Temperature/Pebble Counts Temperature/Pebble Counts Security of site | Habitat Species Group, Habitat Species, Habitat Habitat Species Group, Habitat Species, Habitat Habitat Species, Habitat Species, Habitat Habitat Species Group, Habitat Habitat Habitat Species, Habitat Species, Habitat Habitat |
+| Cacapon |  |  |  |
+| Mussels-Elk River at Sutton | WVDNR | Temperature/Pebble Counts | Species, Habitat |
+| Mussels -Elk River at Queen | WVDNR | Temperature/Pebble Counts | Species, Habitat |
+| Shoals |  |  |  |
+| Mussels -Middle Island Creek at | WVDNR | Temperature/Pebble Counts | Species, Habitat |
+| Falls Mills |  |  |  |
+
+[/TABLE]
+
+[TABLE]
+* • Develop and implement invasive species management program.Effectiveness Measures: The following effectiveness measures could be reported and tracked using the Wildlife TRACS database for actions in this category of Direct Management of Natural Resources Activity Type: Acquisition, Easement, or Lease Description: Land conservation activities that involve fee title acquisition, conservation easements, or lease.Sample Actions: The following actions are examples of acquisition, easement, or lease:• Identify key unprotected parcels in focal areas.• Facilitate acquisition or easement of key parcels in focal areas.Effectiveness Measures: The following effectiveness measures could be reported and tracked using the Wildlife TRACS database for actions in this category of acquisition, easement, or lease. Formal review of a proposed project or activity, to determine its potential effects on species or habitats or other important aspects of the environment.Sample Actions: The following actions are examples of environmental review:• Provide input in existing environmental review processes.Effectiveness Measures: The following effectiveness measures could be reported and tracked using the Wildlife TRACS database for actions in this category of environmental review.*
+
+|  | 2015 WV State Wildlife Action Plan 2015 WV State Wildlife Action Plan |
+| --- | --- |
+| Acquisition Easement or Conservation Project/Activity Type: Data Collection and Analysis Amount of funding that was allocated by Agency leadership for |  |
+| Lease | management and monitoring annually |
+| Acquisition Easement or | Evidence of Management Plan being Implemented |
+| Lease |  |
+| Acquisition Easement or | Evidence that Management Plan is Reducing Key Stresses |
+| Lease |  |
+| Acquisition Easement or | Evidence of Lease Renewal or Conversion to Easement or |
+| Lease | Acquisition |
+| Project Type Acquisition Easement or | Effectiveness Measure Evidence of Lease Compliance per Year |
+| Direct Management of Lease | Percent Management Actions Implemented As Planned |
+| Natural Resources Acquisition Easement or | Species Measures |
+| Direct Management of Lease | Evidence that Direct Management Action is Reducing Key |
+| Natural Resources Acquisition Easement or | Stresses Habitat Measures |
+| Direct Management of Lease | Degree to which target SGCNs respond as expected to |
+| Natural Resources | direct management actions |
+| Direct Management of Conservation Project/Activity Type: Environmental Review Degree to which target habitats/processes respond as |  |
+| Natural Resources | expected from direct management actions |
+| Direct Management of Natural Resources Description: Project Type Environmental Review Environmental Review Environmental Review Conservation Project/Project Type Environmental Review Acquisition Easement or Environmental Review Lease Acquisition Easement or Environmental Review Environmental Review Lease Acquisition Easement or Environmental Review Lease Acquisition Easement or Lease Acquisition Easement or Lease Environmental Review | Species Measures Effectiveness Indicator Available Staff or Capacity Availability of Information Degree to which Review is Timely Complete and Comprehensive Delivery of Recommendations Effectiveness Measure Degree to which Recommendations are incorporated into Amount Received or Needed for Initial Transaction relevant permits and documentation If not accepted, reasons for non-implementation Number of Acres Prioritized for Purchase, Lease, or Easement Degree to which Recommendations are accepted by the implementer Number of Acres Purchased, Leased, or Put in Easement Degree to which implementers apply statutory recommendations from the permitting agency into project plan Existence of a management and monitoring plan that outlines or policy steps required to achieve desired conservation results Degree to which Implementers accept Voluntary Amount of funding requested for management and monitoring annually Recommendations |
+
+[/TABLE]
+
+[TABLE]
+* 2015 WV State Wildlife Action Plan Outreach to Key Resource Users Percent of Target Audience that Receives Message Outreach to Key Resource Users Percent of Target Audience that has Desired Attitudes and Values Outreach to Key Resource Users Percent of Target Audience that has Adopted or Continued Desired Behavior Outreach to Key Resource Users Stress Reduction Measures Outreach to Key Resource Users Species Measures Outreach to Key Resource Users Habitat Measures Conservation Project/Activity Type: Stakeholder Involvement Description: Engagement of individuals who have a vested interest in a conservation action, project, or program. Sample Actions: The following actions are examples of stakeholder involvement:*
+
+| Project Type | Effectiveness Measure |
+| --- | --- |
+
+[/TABLE]
+
+[TABLE]
+* management is the process of continually improving management policies and practices by learning from the outcome of management actions. Simply put, we want to do more of what works and less of what doesn't. Adaptive management protocols incorporate rapid evaluation/analysis of management results to facilitate rapid adjustment and modification of management policies and actions.*
+
+|  | Type | Effectiveness Indicator |
+| --- | --- | --- |
+| Stakeholder Involvement |  | Number of Stakeholders or Stakeholder Groups Identified |
+| Stakeholder Involvement |  | Percentage of Stakeholders with whom communication has |
+|  |  | been achieved and expectation shared |
+| Stakeholder Involvement |  | Percentage of contacted Stakeholders who agree to |
+|  |  | participate |
+| Stakeholder Involvement |  | Percentage of participating stakeholders who fulfill |
+|  |  | commitments |
+| 7.3: | Adaptive Management |  |
+| 7.3.1: | The Adaptive Management Process |  |
+
+[/TABLE]
+
+[TABLE]
+*• Impacts of shale gas development on forest interior songbirds, bats, and aquatic species • Impacts of West Nile Virus and avian influenza on select SGCN bird species • Impacts of non-native birds and mammalian predators on SGCN birds 2015 WV State Wildlife Action Plan • Impacts of feral livestock such as goats and hogs on SGCN habitats • Potential for reducing impacts to SGCN species by using environmentally responsible and resource efficient (Green Construction) methods • Potential for an urban wildlife program to advance conservation of SGCN species • Impacts to aquatic life from chemical spills and other polluting events, including opportunities for post-event restoration of mussels and other aquatic species populations • Impacts of mining on forest interior songbirds • Effects of pharmaceuticals on aquatic life • Feasibility of treating raccoons with drugs to eliminate roundworms at key sites • Toxicity of herbicides and pesticides on aquatic SGCN's, especially mussels • Life histories and potential restoration techniques for mussels • Mechanisms to reduce contamination of aquatic resources by airborne mercury • Abatement/mitigation strategies for White Nose Syndrome in bats • Impacts of climate change in West Virginia • Plant indicator species and develop thresholds for determining acceptable levels of deer herbivory in key SGCN habitats • Assessing species viability prior to large scale restoration actions 7.4.2: Data Acquisition Priorities • Complete and publish a statewide habitat classification consistent with the U. S. National Vegetation Classification. • Improve and regularly update habitat mapping at the statewide scale • Finer scale habitat mapping for CFA's • Habitat condition data at the CFA scale • Disease prevalence for indicator species such as hellbenders, wood frogs, box turtles, and timber rattlesnakes 2015 WV State Wildlife Action Plan • Toxoplasmosis prevalence and mortality in SGCN's • Status of SCGN's and habitats believed most sensitive to climate change • Water quality data as part of WVDNR's standard aquatic survey protocol • Water quality data incorporated into a consolidated and publicly accessible data management system • Permanent monitoring stations within existing high-value aquatic habitats for SGCN's • Survey and inventory aquatic ecosystems prior to long term restoration plans • Status and distribution of insects, fungi, lichen, green algae • Crayfish status and distribution, especially burrowing crayfish, C. nerterius, C. veteranus and C. callainus • Status and distribution of 12 species in the Other Invertebrate taxa group*
+
+| 7.5: | Data Management |
+| --- | --- |
+
+[/TABLE]
+
+[TABLE]
+* It is the agency's intent to annually update this plan and the CFA plans that flow from 2015 WV State Wildlife Action Plan it. That effort will be incorporated in a new federal aid project for the agency. Application for federal aid funds for the new Continuous SWAP Planning Project will be made in 2015 with an anticipated grant start date of January 1, 2016. Annual federal aid reports for the project will contain all of the updated elements of the continuously revised West Virginia State Wildlife Action Plan as well as the proceedings of the annual project review and planning workshop discussed in Section 7.3.2. Appendix 1: SGCN Species by Taxa and Priority Appendix 1: SGCN Species by Taxa and Priority Appendix 1: SGCN Species by Taxa and Priority Appendix 1: SGCN Species by Taxa and Priority Appendix 1: SGCN Species by Taxa and Priority Appendix 1: SGCN Species by Taxa and Priority Appendix 1: SGCN Species by Taxa and Priority Appendix 1: SGCN Species by Taxa and Priority Appendix 1: SGCN Species by Taxa and Priority Appendix 1: SGCN Species by Taxa and Priority*
+
+|  |  |  | 2015 WV State Wildlife Action Plan 2015 WV State Wildlife Action Plan 2015 WV State Wildlife Action Plan 2015 WV State Wildlife Action Plan 2015 WV State Wildlife Action Plan 2015 WV State Wildlife Action Plan 2015 WV State Wildlife Action Plan | 2015 WV State Wildlife Action Plan 2015 WV State Wildlife Action Plan 2015 WV State Wildlife Action Plan 2015 WV State Wildlife Action Plan 2015 WV State Wildlife Action Plan 2015 WV State Wildlife Action Plan 2015 WV State Wildlife Action Plan 2015 WV State Wildlife Action Plan 2015 WV State Wildlife Action Plan 2015 WV State Wildlife Action Plan 2015 WV State Wildlife Action Plan |  |
+| --- | --- | --- | --- | --- | --- |
+| Appendix 2: SGCN Species by Habitat -Terrestrial Appendix 2: SGCN Species by Habitat -Terrestrial Appendix 2: SGCN Species by Habitat -Aquatic Appendix 2: SGCN Species by Habitat -Aquatic Appendix 2: SGCN Species by Habitat -Aquatic |  |  |  |  |  |
+| SCIENTIFIC NAME SCIENTIFIC NAME SCIENTIFIC NAME SCIENTIFIC NAME SCIENTIFIC NAME SCIENTIFIC NAME SCIENTIFIC NAME SCIENTIFIC NAME SCIENTIFIC NAME SCIENTIFIC NAME HABITAT TYPE Caves and Karst TAXA TAXA TAXA TAXA TAXA TAXA TAXA TAXA TAXA TAXA HABITAT TYPE Caves and Karst HABITAT TYPE Headwater Creek,Moderate Gradient,Warm HABITAT TYPE Large River,Low Gradient,Warm HABITAT TYPE Medium River, Low Gradient,Warm |  |  | COMMON NAME COMMON NAME COMMON NAME COMMON NAME COMMON NAME COMMON NAME COMMON NAME COMMON NAME COMMON NAME COMMON NAME | S RANK S RANK S RANK S RANK S RANK S RANK S RANK S RANK S RANK S RANK | G RANK G RANK G RANK G RANK G RANK G RANK G RANK G RANK G RANK G RANK |
+| Birds Cave Invertebrates Accipiter gentilis* Actitis macularius* Aegolius acadicus Ammodramus henslowii* Anthrobia coylei Antrolana lira* Apochthonius paucispinosus* Arrhopalites commorus* Cave Invertebrates Haplotaxis brinkhursti* Horologion speokites Islandiana sp. 1* Islandiana speophila* Cave Invertebrates Pseudanophthalmus grandis grandis* Pseudanophthalmus grandis ssp. 1* Pseudanophthalmus hadenoecus* Pseudanophthalmus henroti Cave Invertebrates Pseudotremia princeps* Pseudotremia sp. 1* Rhagidia varia Sinella agna* Fish Etheostoma maculatum* Etheostoma olmstedi* Etheostoma osburni* Etheostoma tippecanoe* Fish Macrhybopsis hyostoma Macrhybopsis storeriana Margariscus margarita* Moxostoma carinatum Other Invertebrates Allocapnia frumi Alloperla aracoma Alloperla biserrata Chrosiothes jenningsi* Plants Silene nivea* Silene rotundifolia* Silene virginica var. robusta* Silphium compositum var. reniforme* Tiger Beetles Cicindela ancocisconensis* Cicindela cuprascens TAXA SCIENTFIC NAME Cave Invertebrates TAXA SCIENTFIC NAME TAXA SCIENTFIC NAME TAXA SCIENTFIC NAME TAXA SCIENTFIC NAME Cave Invertebrates Fish Fish SCIENTIFIC NAME TAXA SCIENTIFIC NAME TAXA Fish Cicindela cursitans* Cicindela formosa generosa Pseudanophthalmus orthosulcatus* Pseudanophthalmus potomaca* Stygobromus morrisoni* Fish Cave Invertebrates Stygobromus nanus* Ameiurus nebulosus Erimystax x-punctatus Moxostoma carinatum Notropis ariommus* Antrolana lira* Chrosomus erythrogaster Etheostoma maculatum* Notropis amoenus Notropis blennius Caecidotea pricei* |  | Northern Goshawk Spotted Sandpiper Northern Saw-whet Owl Henslow's Sparrow Spider Madison Cave Isopod Dry Fork Valley Cave Pseudoscorpion A Collembola An Oligochaete Arbuckle Cave Ground Beetle A Spider Cavern Sheet-web Spider A Cave Beetle A Cave Beetle Timber Ridge Cave Beetle A Cave Beetle South Branch Valley Cave Millipede General Davis Cave Millipede A Cave Mite A Springtail Spotted Darter Tessellated Darter Candy Darter Tippecanoe Darter Shoal Chub Silver Chub Pearl Dace River Redhorse A Stonefly A Stonefly A Stonefly A Spider Snowy Catchfly Sandstone Fire-pink Fire Pink Rosinweed Appalachian Tiger Beetle A Tiger Beetle COMMON NAME COMMON NAME COMMON NAME COMMON NAME COMMON NAME COMMON NAME COMMON NAME A Tiger Beetle A Tiger Beetle A Cave Beetle South Branch Valley Cave Beetle Morrison's Cave Amphipod Brown Bullhead Gravel Chub River Redhorse Popeye Shiner Madison Cave Isopod Pocahontas Cave Amphipod Southern Redbelly Dace Spotted Darter Comely Shiner River Shiner Price's Cave Isopod |  | S1B,S1N S2B S2B,S2N S1B S2 S1 S1 S1 S1 SH S1 S1 S3 S1 S1 S2 S1 S1 S3 S3 S1 S1S2 S1 S2 S2 S3 S2S3 S3 S2 S1 S1 S1 S1 S1 S1 S1 S3 S1 S RANK S RANK S1 S1 S2 S1 S2 S1 | G5 G5 G5 G4 G2? G2G4 G1 G2G3 G1 GH G1 G1 G4T4 G3TNR G1 GNR G1 G1? G5 G3G4 G2G3 G5 G3 G3G4 G5 G5 G4 G4 G2 G3 G3 G1 G4? G4 G5T1Q G5T3T5 G3 G RANK G RANK G5 G4 G5T5 G3 G2G4 G5 G5 |
+|  | Ammodramus savannarum* Arrhopalites pavo* Kleptochthonius henroti* Pseudanophthalmus higginbothami* Sinella hoffmani Exoglossum laurae* Moxostoma macrolepidotum* Diploperla kanawholensis Silphium perfoliatum var. connatum* Cicindela hirticollis Pseudanophthalmus senecae* Stygobromus parvus* Clinostomus elongatus* Etheostoma tippecanoe* Notropis ariommus* Notropis buchanani Phanetta subterranea | Grasshopper Sparrow A Cave Springtail Greenbrier Valley Cave Pseudoscorpion A Cave Beetle Hoffman's Springtail Tonguetied Minnow Shorthead Redhorse Little Kanawha Perlodid Stonefly Cup-plant Beach-dune Tiger Beetle Seneca Cave Beetle Minute Cave Amphipod Redside Dace Tippecanoe Darter Popeye Shiner Ghost Shiner A Spider |  | S3B S1S2 S1 S2 S3 S2 S1 S1 S1 S1 S3 S3 | G5 G3? G2 G2 G5 G4 G5 G3 G5T3T4 G5 G5 G5 |
+|  | Anas rubripes* Arrhopalites sacer* Kleptochthonius hetricki* Pseudanophthalmus hypertrichosis Sphalloplana culveri* Exoglossum maxillingua Notropis amoenus Hansonoperla appalachia Solidago arguta var. harrisii Cicindela limbalis Pseudanophthalmus sp. 1* Stygobromus pollostus* Erimyzon oblongus Hiodon alosoides Notropis procne* Notropis scabriceps* Porrhomma cavernicola | American Black Duck A Collembola Organ Cave Pseudoscorpion A Cave Beetle Culver's Planarian Cutlip Minnow Comely Shiner Hanson's Appalachian Stonefly Shalebarren Goldenrod A Tiger Beetle A Beetle An Amphipod Creek Chubsucker Goldeye Swallowtail Shiner New River Shiner Appalachian Cave Spider |  | S2B,S2N S1 S1 S3 S1 S4 S3 S2 S3 S1 S2 S2 | G5 G2 G1 G3 G1 G5 G5 G3 G5T4 G5 G4 G5 |
+| Fish Fish | Antrostomus carolinensis Antrostomus vociferus Aquila chrysaetos* Ardea herodias Asio flammeus Arrhopalites sp. 3* Bathyphantes weyeri Caecidotea cannula* Caecidotea franzi* Caecidotea holsingeri Kleptochthonius orpheus* Kleptochthonius proserpinae* Litocampa fieldingi* Litocampa sp. 1* Macrocotyla hoffmasteri* Pseudanophthalmus lallemanti* Pseudanophthalmus montanus* Pseudanophthalmus orthosulcatus* Pseudanophthalmus potomaca* Pseudanophthalmus senecae* Sphalloplana percoeca* Stygobromus allegheniensis* Stygobromus biggersi* Stygobromus cooperi* Stygobromus culveri* Fundulus diaphanus Hiodon alosoides Hybognathus regius Ichthyomyzon bdellium* Ichthyomyzon fossor* Notropis ariommus* Notropis blennius Notropis boops* Notropis buchanani Notropis procne* Hansonoperla hokolesqua Megaleuctra flinti Ostrocerca complexa Ostrocerca prolongata Sweltsa pocahontas Solidago faucibus* Solidago patula var. patula Solidago simplex ssp. randii Sparganium androcladum Sparganium angustifolium Cicindela marginipennis* Cicindela patruela* Pseudanophthalmus sp. 2* Stygobromus redactus* Esox americanus vermiculatus Ichthyomyzon bdellium* Noturus eleutherus Noturus eleutherus Sinella hoffmani Cicindela purpurea Cicindela scutellaris Cicindela splendida* Pseudanophthalmus sp. 3* Pseudosinella certa* Pseudosinella gisini gisini* Stygobromus spinatus* Stygobromus tenuis potomacus* Stylodrilus beattiei* Fundulus diaphanus Ictiobus niger Lepomis gulosus Ichthyomyzon unicuspis Ictiobus cyprinellus Ictiobus niger Noturus stigmosus* Noturus stigmosus* Stygobromus allegheniensis* Percina copelandi Stygobromus biggersi* Ammocrypta clara* Percina copelandi Percina evides Percina evides Stygobromus gracilipes* Percina gymnocephala Stygobromus tenuis potomacus* | Chuck-will's-widow Eastern Whip-poor-will Golden Eagle Great Blue Heron Short-eared Owl A Collembola A Cave Spider An Isopod Franz's Cave Isopod Greenbrier Valley Cave Isopod Orpheus Cave Pseudoscorpion Proserpina Cave Pseudoscorpion Diplura Diplura Hoffmaster's Cave Flatworm Lallemant's Cave Beetle Dry Fork Valley Cave Beetle A Cave Beetle South Branch Valley Cave Beetle Seneca Cave Beetle A Cave Planarian Allegheny Cave Amphipod Biggers' Cave Amphipod Cooper's Cave Amphipod Culver's Cave Amphipod Banded Killifish Goldeye Eastern Silvery Minnow Ohio Lamprey Northern Brook Lamprey Popeye Shiner River Shiner Bigeye Shiner Ghost Shiner Swallowtail Shiner A Stonefly A Stonefly A Stonefly A Stonefly A Stonefly Gorge Goldenrod Roundleaf Goldenrod Rand's Goldenrod Branched Bur-reed Greenfruit Bur-reed Cobblestone Tiger Beetle Barrens Tiger Beetle A Beetle An Amphipod Grass Pickerel Ohio Lamprey Mountain Madtom Hoffman's Springtail Mountain Madtom A Tiger Beetle A Tiger Beetle A Tiger Beetle A Beetle Gandy Creek Cave Springtail A Cave Springtail Spring Cave Amphipod Potomac Groundwater Amphipod A Cave Lumbriculid Worm Banded Killifish Black Buffalo Warmouth Silver Lamprey Bigmouth Buffalo Black Buffalo Northern Madtom Allegheny Cave Amphipod Northern Madtom Channel Darter Biggers' Cave Amphipod Western Sand Darter Channel Darter Gilt Darter Gilt Darter Shenandoah Valley Cave Amphipod Appalachia Darter Potomac Groundwater Amphipod |  | S1B S3B S3N S3B,S4N S2N S1 S3 S1 S1 S3 S1 S1 S2 S1 S2 S1 S1 S1 S1 S1 S1 S1 S1 S1 S1 S2 S1 S1 S2S3 S1 S2 S2 S1 S3 S1 S1 S1 S1 S1 S2 S1 S1 S2 S2S3 S1S2 S1 S2S3 S2 S3 S3 S1 S1 S1 S1 S2S3 S1 S2 S1 S2 S1 | G5 G5 G5 G5 G5 G1 G4 G2 G2G4 G5 G1 G1 G2G3 G1 G3G4 G1 G1 G1 G3G4 G1 G5 G5 G2G4 G1G2 G1G2 G5 G5 G5 G3G4 G4 G3 G5 G5 G5 G5 G2 G2 G4 G3 G2 G2G4 G5T5 G5T4T5 G4G5 G5 G2 G4 G5 G3 G5 G5 G5 G3 G5 G4 G2G4 G4 G3G4 G4 G4T4 |
+|  | Asio otus* Caecidotea pricei* Nesticus tennesseensis* Pseudanophthalmus sp. 1* Stygobromus emarginatus* Ichthyomyzon greeleyi* Notropis scabriceps* Utaperla gaspesiana Spermacoce glabra* Cicindela unipunctata Pseudosinella orba* Trichodrilus culveri* Lepomis humilis* Lepomis gulosus Ammocrypta pellucida* Percina gymnocephala Esox americanus vermiculatus Percina macrocephala* | Long-eared Owl Price's Cave Isopod A Cave Spider A Beetle Greenbrier Cave Amphipod Mountain Brook Lamprey New River Shiner A Stonefly Buttonweed A Tiger Beetle A Cave Springtail An Oligochaete Orangespotted Sunfish Warmouth Eastern Sand Darter Appalachia Darter Grass Pickerel Longhead Darter |  | S1B,S1N S1 SU S1 S3 S1 S2 S1 S1 S3 S2 | G5 G5 G3G4 G1 G3 G4 G4 G3 G4G5 G4G5 G3 |
+|  | Bartramia longicauda* Caecidotea scypha* Onychiurus janus* Pseudanophthalmus sp. 2* Stygobromus franzi* Ichthyomyzon unicuspis Noturus eleutherus Spiraea virginiana* Tetracha virginica Pseudosinella sp. 8* Zygonopus krekeleri* Lethenteron appendix Lethenteron appendix Anguilla rostrata* Percina macrocephala* Ichthyomyzon greeleyi* Percina sciera | Upland Sandpiper An Isopod A Cave Springtail A Beetle Franz's Cave Amphipod Silver Lamprey Mountain Madtom Virginia Spiraea Virginia Big-headed Tiger Beetle A Springtail West Virginia Blind Cave Millipede American Brook Lamprey American Brook Lamprey American Eel Longhead Darter Mountain Brook Lamprey Dusky Darter |  | S1B,S1N S1 S1 S1 S1 S2S3 S2 S1 S3 S3 | G5 G1G2 G2G3 G1 G3G4 G5 G4 G2 G5 G5 |
+|  | Bonasa umbellus* Caecidotea simonini* Phagocata angusta* Pseudanophthalmus sp. 3* Stygobromus gracilipes* Ictiobus cyprinellus Noturus stigmosus* Spiranthes lacera var. lacera Pseudosinella testa* Zygonopus packardi Lythrurus umbratilis* Macrhybopsis hyostoma Crystallaria cincotta* Percina oxyrhynchus Ichthyomyzon unicuspis Phenacobius mirabilis | Ruffed Grouse An Isopod A Cave Planarian A Beetle Shenandoah Valley Cave Amphipod Bigmouth Buffalo Northern Madtom Northern Slender Ladies'-tresses Shelled Cave Springtail Packard's Blind Cave Millipede Redfin Shiner Shoal Chub Diamond Darter Sharpnose Darter Silver Lamprey Suckermouth Minnow |  | S3B,S3N S1 S1 S1 S1 S1 S1 S1 S3 | G5 G1 G1 G1 G3G4 G5 G3 G5T5 G5 |
+| Botaurus lentiginosus* Buteo platypterus* Butorides virescens Cardellina canadensis* Caecidotea sinuncus* Chitrella regina* Conotyla vista* Crangonyx sp. 2* Phanetta subterranea Poecilophysis extraneostella* Poecilophysis weyerensis* Poecilophysis wolmsdorfensis* Pseudosinella certa* Pseudosinella gisini gisini* Pseudosinella orba* Pseudosinella sp. 8* Stygobromus mackini Stygobromus morrisoni* Stygobromus nanus* Stygobromus parvus* Ictiobus niger Lepomis gulosus Lepomis humilis* Lethenteron appendix Percina copelandi Percina evides Percina gymnocephala Percina macrocephala* Spiranthes lucida Spiranthes ovalis var. erostellata* Spiranthes tuberosa Spiranthes vernalis Pseudotremia princeps* Mammals Notropis boops* Moxostoma macrolepidotum* Moxostoma macrolepidotum* Phenacobius mirabilis Lethenteron appendix Pseudotremia fulgida Pseudotremia lusciosa* Zygonopus weyeriensis* Zygonopus whitei* Macrhybopsis storeriana Notropis blennius Macrhybopsis storeriana Moxostoma carinatum Erimystax dissimilis Ichthyomyzon fossor* Percina phoxocephala Percina sciera Ictiobus cyprinellus Phenacobius teretulus* Lepomis gulosus Pimephales vigilax |  | American Bittern Broad-winged Hawk Green Heron Canada Warbler An Isopod Royal Syarinid Pseudoscorpion A Cave Millipede An Amphipod A Spider A Cave Mite A Cave Mite A Cave Mite Gandy Creek Cave Springtail A Cave Springtail A Cave Springtail A Springtail Southwestern Virginia Cave Amphipod Morrison's Cave Amphipod Pocahontas Cave Amphipod Minute Cave Amphipod Black Buffalo Warmouth Orangespotted Sunfish American Brook Lamprey Channel Darter Gilt Darter Appalachia Darter Longhead Darter Shining Ladies'-tresses Oval Ladies'-tresses Little Ladies'-tresses Spring Ladies'-tresses Bigeye Shiner Shorthead Redhorse Shorthead Redhorse Suckermouth Minnow American Brook Lamprey South Branch Valley Cave Millipede Greenbrier Valley Cave Millipede Germany Valley Cave Millipede Grand Caverns Blind Cave Millipede Luray Caverns Blind Cave Millipede Silver Chub River Shiner Silver Chub River Redhorse Streamline Chub Northern Brook Lamprey Slenderhead Darter Dusky Darter Kanawha Minnow Bigmouth Buffalo Warmouth Bullhead Minnow |  | S1B,S1N S3B S3B S3B S1 S1 SH S2 S3 S2 S1 SH S1 S3 S1 S2 S2 S1 S1 S1 S2 S1 S1 S2 S2S3 S2 S2 S2 S1S2 S1 S3 S3 S1 S2 | G4 G5 G5 G5 G1 G1 GH G2 G5 G2? G3? G4? G1 G3G4T3 G3G4 G2 G5 G2G3 G1 G2G3 G5 G5 G5 G4 G4 G4 G4 G3 G5 G5?T4? G5 G5 G3G4 G5 |
+|  | Carduelis pinus Erebomaster nr. acanthina Porrhomma cavernicola Pseudosinella testa* Stygobromus pollostus* Luxilus cornutus* Percina notogramma* Sporobolus clandestinus Pseudotremia sp. 1* Corynorhinus rafinesquii* Notropis buchanani Notropis amoenus Notropis amoenus Pimephales vigilax Macrhybopsis storeriana | Pine Siskin A Cave Spider Appalachian Cave Spider Shelled Cave Springtail An Amphipod Common Shiner Stripeback Darter Secret Dropseed General Davis Cave Millipede Rafinesque's Big-eared Bat Ghost Shiner Comely Shiner Comely Shiner Bullhead Minnow Silver Chub |  | S2B,S4N S2 S2 S1 S1 S1S2 S1 S1 | G5 GNR G5 G2G3 G2G3 G5 G4 G5 |
+| Catharus fuscescens Catharus ustulatus Sunday, August 30, 2015 * Priority 1 species Gammarus minus tenuipes Geocentrophora cavernicola* Sunday, August 30, 2015 * Priority 1 species Pseudanophthalmus fuscus Pseudanophthalmus grandis elevatus* Sunday, August 30, 2015 * Priority 1 species Pseudotremia fulgida Pseudotremia lusciosa* Sunday, August 30, 2015 * Priority 1 species Stygobromus redactus* Stygobromus spinatus* Sunday, August 30, 2015 * Priority 1 species Lythrurus ardens* Lythrurus umbratilis* Sunday, August 30, 2015 * Priority 1 species Percina oxyrhynchus Percina peltata* Sunday, August 30, 2015 * Priority 1 species Sunday, August 30, 2015 * Priority 1 species Stachys aspera* Stachys eplingii Sunday, August 30, 2015 * Priority 1 species Sunday, August 30, 2015 * Priority 1 species Rhagidia varia Sinella agna* Corynorhinus townsendii virginianus* Umbra limi Notropis ariommus* Noturus eleutherus Moxostoma carinatum Mussels Sinella hoffmani Sphalloplana culveri* Sphalloplana percoeca* Stygobromus allegheniensis* Stygobromus biggersi* Stygobromus cooperi* Stygobromus culveri* Stygobromus emarginatus* Stygobromus franzi* Stygobromus gracilipes* Stygobromus mackini Erethizon dorsatum Lasionycteris noctivagans Myotis leibii* Myotis lucifugus* Myotis septentrionalis* Myotis sodalis* Neotoma magister* Perimyotis subflavus* Spilogale putorius* Snails Carychium exiguum Fontigens tartarea Mussels Amblema plicata Anodontoides ferussacianus Elliptio complanata Elliptio dilatata Elliptio fisheriana Fusconaia flava Lampsilis cardium Lampsilis fasciola* Lasmigona compressa* Lasmigona costata Obovaria subrotunda* Notropis blennius Notropis buchanani Notropis procne* Noturus eleutherus Noturus stigmosus* Percina copelandi Percina evides Percina macrocephala* Percina oxyrhynchus Percina phoxocephala Percina sciera Percina shumardi Elliptio crassidens* Epioblasma torulosa rangiana* Amblema plicata Elliptio complanata Elliptio fisheriana Alasmidonta varicosa* Cyclonaias tuberculata* Elliptio dilatata Alasmidonta undulata* Amblema plicata Elliptio crassidens* Alasmidonta marginata* Alasmidonta varicosa* Elliptio complanata Actinonaias ligamentina Alasmidonta marginata* Cyclonaias tuberculata* Mussels Percina evides Percina oxyrhynchus Percina peltata* Percina sciera Mussels Actinonaias ligamentina Actinonaias ligamentina Notropis amoenus Alasmidonta marginata* Notropis boops* Alasmidonta undulata* Notropis buchanani Sunday, August 30, 2015 Sunday, August 30, 2015 Alasmidonta varicosa* Amblema plicata Anodontoides ferussacianus Pimephales vigilax Percina sciera Percina copelandi * Priority 1 species * Priority 1 species |  | Veery Swainson's Thrush An Amphipod Cave Flatworm A Cave Beetle A Cave Beetle Greenbrier Valley Cave Millipede Germany Valley Cave Millipede 466 An Amphipod Spring Cave Amphipod Rosefin Shiner Redfin Shiner Sharpnose Darter Shield Darter Gritty Hedge-nettle Epling's Hedge-nettle A Cave Mite Virginia Big-eared Bat Central Mudminnow Popeye Shiner Mountain Madtom River Redhorse A Springtail Hoffman's Springtail Culver's Planarian A Cave Planarian Allegheny Cave Amphipod Biggers' Cave Amphipod Cooper's Cave Amphipod Culver's Cave Amphipod Greenbrier Cave Amphipod Franz's Cave Amphipod Shenandoah Valley Cave Amphipod Southwestern Virginia Cave Amphipod Porcupine Silver-haired Bat Eastern Small-footed Bat Little Brown Bat Northern Long-eared Bat Indiana Bat Allegheny Woodrat Tricolored Bat Eastern Spotted Skunk Obese Thorn Organ Cavesnail Threeridge Cylindrical Papershell Eastern Elliptio Spike Northern Lance Wabash Pigtoe Plain Pocketbook Wavy-rayed Lampmussel Creek Heelsplitter Fluted-shell Round Hickorynut River Shiner Ghost Shiner Swallowtail Shiner Mountain Madtom Northern Madtom Channel Darter Elephant-ear Northern Riffleshell Threeridge River Darter Eastern Elliptio Northern Lance Brook Floater Dusky Darter Purple Wartyback Spike Triangle Floater Slenderhead Darter Threeridge Elephant-ear Elktoe Sharpnose Darter Brook Floater Eastern Elliptio Mucket Longhead Darter Elktoe Purple Wartyback Gilt Darter Gilt Darter Sharpnose Darter Shield Darter Dusky Darter Mucket Comely Shiner Mucket Bigeye Shiner Elktoe Ghost Shiner Triangle Floater Cylindrical Papershell Bullhead Minnow Threeridge Dusky Darter Brook Floater Channel Darter |  | S3B S3B S2 SH S2 S1 S3 S1 S1 S2 S1 S3 S4 S1 S1 S1 | G5 G5 Page 3 of 61 GNRTNR G1G2 Page 10 of 61 G4 G3T1 Page 11 of 61 G3 G1 Page 12 of 61 G1 G2G3 Page 13 of 61 G5 G5 Page 21 of 61 G4 G5 Page 22 of 61 Page 29 of 61 G4? G5 Page 49 of 61 Page 61 of 61 Page 50 of 131 Page 144 of 315 |
+| * Priority 1 species * Priority 1 species * Priority 1 species * Priority 1 species * Priority 1 species * Priority 1 species * Priority 1 species |  |  |  |  |  |
+
+[/TABLE]
+
+feet (328 ft. each bank) Riparian Land Cover (NLCD 2011) of headwaters and creeks of low gradient and cool temperatures in West Virginia.
+feet (328 ft. each bank) Riparian Land Cover (NLCD 2011)of headwaters and creeks of low gradient and warm temperatures in West Virginia.2015 WV State Wildlife Action Plan
+feet (328 ft. each bank) Riparian Land Cover (NLCD 2011)of headwaters and creeks of moderate gradient and cold temperatures in West Virginia.2015 WV State Wildlife Action Plan
+feet (328 ft. each bank) Riparian Land Cover (NLCD 2011)of headwaters and creeks of moderate gradient and cool temperatures in West Virginia.2015 WV State Wildlife Action Plan
+feet (328 ft. each bank) Riparian Land Cover (NLCD 2011)of headwater streams with moderate gradient and warm temperatures in West Virginia.2015 WV State Wildlife Action Plan
+feet (328 ft. each bank) Riparian Land Cover (NLCD 2011)of headwater streams of high gradient and cold temperatures in West Virginia.
+feet (328 ft. each bank) Riparian Land Cover (NLCD 2011)of headwater streams of high gradient and cool temperatures in West Virginia.
+feet (328 ft. each bank) Riparian Land Cover (NLCD 2011)of headwater streams of high gradient and warm temperatures in West Virginia.
+feet (328 ft. each bank) Riparian Land Cover (NLCD 2011)of small rivers of low gradient and cool temperatures in West Virginia.2015 WV State Wildlife Action Plan
+Oldtown Creek, McClintic Wildlife Management Area, Mason County.
+feet (328 ft. each bank) Riparian Land Cover (NLCD 2011)of small rivers of low gradient and warm temperatures in West Virginia.2015 WV State Wildlife Action Plan
+feet (328 ft. each bank) Riparian Land Cover (NLCD 2011)of small rivers of moderate gradient and cool temperatures in West Virginia.2015 WV State Wildlife Action Plan
+feet (328 ft. each bank) Riparian Land Cover (NLCD 2011)of small rivers of moderate gradient and warm temperatures in West Virginia.2015 WV State Wildlife Action Plan
+feet (328 ft. each bank) Riparian Land Cover (NLCD 2011)of small rivers of high gradient and cool temperatures in West Virginia.
+feet (328 ft. each bank) Riparian Land Cover (NLCD 2011)of small rivers of high gradient and warm temperatures in West Virginia.2015 WV State Wildlife Action Plan
+feet (328 ft. each bank) Riparian Land Cover (NLCD 2011) of medium rivers of low gradient and warm temperatures in West Virginia.2015 WV State Wildlife Action Plan
+feet (328 ft. each bank) Riparian Land Cover (NLCD 2011) of medium rivers of moderate gradient and warm temperatures in West Virginia.2015 WV State Wildlife Action Plan
+feet (328 ft. each bank) Riparian Land Cover (NLCD 2011) of large rivers of low gradient and warm temperatures in West Virginia.2015 WV State Wildlife Action Plan
+Tygart Valley River at Valley Falls State Park, Marion County. Photo by B M Powell/Wikimedia Commons
+feet (328 ft. each bank) Riparian Land Cover (NLCD 2011) of large rivers of moderate gradient and warm temperatures in West Virginia.
+ORBFHP -
+Ohio River Basin Fish Habitat Partnership ORINWR -Ohio River Islands National Wildlife Refuge ORSANCO -Ohio River Valley Water Sanitation Commission
+PSC -Public Service Commission 2015 WV State Wildlife Action Plan RFSS -U.S. Forest Service
+'
+s Regional Forester's Sensitive Species (RFSS) list for the Monongahela National Forest SGCN -Species of Greatest Conservation Need SF -State Forest SWAP -State Wildlife Action Plan SWG -State Wildlife Grant TNC -The Nature Conservancy USACOE -US Army Corp of Engineers
+Project 
+Type Effectiveness Measure Training and Technical Assistance Compelling Argument is Developed for Appropriate needs or skills to solve a pressing Stress Reduction or Restoration Problem Training and Technical Assistance Appropriate Individuals are Targeted Training and Technical Assistance Qualitative Assessment of Appropriate Curriculum Development Training and Technical Assistance Qualitative Assessment of Appropriate Trainers Selected Training and Technical Assistance Number of Trainings Training and Technical Assistance Number of Individuals Trained Training and Technical Assistance Percent of Targeted Individuals Trained Training and Technical Assistance Percent of Trainees Demonstrating Proficiencies Training and Technical Assistance Percent of Trained Individuals Applying Skills Training and Technical Assistance Percent Increase in Capacity of People with Skills Training and Technical Assistance Number of Individuals Receiving Technical Assistance Training and Technical Assistance Percent of Targeted Individuals Receiving Technical Assistance Training and Technical Assistance Evidence that Training is Reducing Stresses Training and Technical Assistance Species Measures Training and Technical Assistance Habitat Measures 2015 WV State Wildlife Action Plan
+Ohio River Basin Fish Habitat Partnership ORINWR -Ohio River Islands National Wildlife Refuge ORSANCO -Ohio River Valley Water Sanitation Commission
+s Regional Forester's Sensitive Species (RFSS) list for the Monongahela National Forest SGCN -Species of Greatest Conservation Need SF -State Forest SWAP -State Wildlife Action Plan SWG -State Wildlife Grant TNC -The Nature Conservancy USACOE -US Army Corp of Engineers
+Type Effectiveness Measure Training and Technical Assistance Compelling Argument is Developed for Appropriate needs or skills to solve a pressing Stress Reduction or Restoration Problem Training and Technical Assistance Appropriate Individuals are Targeted Training and Technical Assistance Qualitative Assessment of Appropriate Curriculum Development Training and Technical Assistance Qualitative Assessment of Appropriate Trainers Selected Training and Technical Assistance Number of Trainings Training and Technical Assistance Number of Individuals Trained Training and Technical Assistance Percent of Targeted Individuals Trained Training and Technical Assistance Percent of Trainees Demonstrating Proficiencies Training and Technical Assistance Percent of Trained Individuals Applying Skills Training and Technical Assistance Percent Increase in Capacity of People with Skills Training and Technical Assistance Number of Individuals Receiving Technical Assistance Training and Technical Assistance Percent of Targeted Individuals Receiving Technical Assistance Training and Technical Assistance Evidence that Training is Reducing Stresses Training and Technical Assistance Species Measures Training and Technical Assistance Habitat Measures 2015 WV State Wildlife Action Plan
+3/17/2015 Moorefield Sectional Meeting 3/17/2015 Parkersburg Sectional Meeting 3/17/2015 Elkins Sectional Meeting 3/16/2015 Charleston Brooks Bird Club Meeting 3/26/2015 Martinsburg DEP/WVCA Watershed Group Gathering 4/23/2015 Canaan Valley State Park US Forest Service 4/25/2015 Shepherdstown Master Naturalist Class 5/1/2015 Morgantown WVU School of Forestry -Wildlife/Coop Unit 5/15/2015 Morgantown NRCS Meeting 6/4/2015 Statewide WAJR Radio Interview 6/8/2015 Statewide Press Release 6/10/2015 Statewide Facebook 6/10/2015 Statewide Letter of Invitation to SWAP Workshop from DNR Chief 6/13/2015 Elkins Master Naturalist Conference 6/15/2015 Charleston Open House 6/15/2015 Morgantown Open House 6/16/2015 Martinsburg Open House 6/23/2015 Statewide Email Reminders -From DNR Chief 7/22/2015 Elkins Coalition of WV Land Trusts 7/23-24/2015 Elkins SWAP Partners Workshop
+
+## Notable Species Found in This Habitat in West Virginia:
+
+Fishes: Tessellated Darter. Mussels, Crayfish, Amphibians, Reptiles, and Invertebrates: Mudpuppy, Tug Valley Crayfish, Coalfields Crayfish.
+
+## Notable Species Found in This Habitat in West Virginia:
+
+Fishes: Common Shiner, New River Shiner, Candy Darter, Popeye Shiner, American Eel, Eastern Sand Darter, Longhead Darter. Mussels, Crayfish, Other Invertebrates, Amphibians, and Reptiles: Wavyrayed Lampmussel, Yellow Lampmussel, Green Floater, Longsolid, Brook Floater, Black Sandshell, Mudpuppy, New River Crayfish, Elk River Crayfish, Green-faced Clubtail, Wood Turtle.
+
+## 5.3:
+
+The Allegheny Mountains Ecoregion Sample Actions: The following actions are examples of management planning:
+• Develop process to facilitate research priorities.
+• Develop strategy to monitor landscape contiguity.
+• Develop fire prescriptions for priority parcels.
+• Develop strategies to mitigate aquatic degradation.
+• Use an adaptive management plan for wetland loss and fragmentation with ecological indicators to oversee monitoring and ensure mitigation objectives are met; take corrective action as needed.
+Effectiveness Measures: The following effectiveness measures could be reported and tracked using the Wildlife TRACS database for actions in this category of management planning. 
+
+## Project Type
+
+## Reptiles
+
+Agkistrodon contortrix mokasen Northern Copperhead
+Crotalus horridus* Timber Rattlesnake
+Liochlorophis vernalis* Smooth Greensnake
+
+## Opheodrys aestivus
+
+Rough Greensnake
+
+## Snails
+
+## Anguispira clarki Elfin Tigersnail
+
+Anguispira stihleri* Greenbrier Tigersnail
+
+## Carychium nannodes
+
+File Thorn
+
+## Gastrocopta procera
+
+Wing Snaggletooth
+
+## Glyphyalinia lewisiana Pale Glyph
+
+## Glyphyalinia solida
+
+## Imperforate Glyph
+
+## Helicodiscus villosus* Greenbrier Coil
+
+Hendersonia occulta Cherrystone Drop
+
+## Inflectarius inflectus Shagreen
+
+Mesomphix luisant* Glossy Button
+
+## Paravitrea pontis
+
+Natural Bridge Supercoil
+
+## Stenotrema edvardsi
+
+Ridge-and-valley Slitmouth 
+
+## Mussels
+
+Alasmidonta marginata* Elktoe
+
+## Amblema plicata Threeridge
+
+Anodontoides ferussacianus Cylindrical Papershell
+
+## Elliptio dilatata Spike
+
+Fusconaia flava Wabash Pigtoe
+
+## Lampsilis cardium Plain Pocketbook
+
+Lasmigona complanata White Heelsplitter
+
+## Lasmigona costata
+
+## Fluted-shell
+
+Lasmigona subviridis* Green Floater
+
+## Leptodea fragilis Fragile Papershell
+
+Obovaria subrotunda* Round Hickorynut
+
+## Pleurobema clava* Clubshell
+
+Pyganodon grandis Giant Floater
+
+## Quadrula quadrula Mapleleaf
+
+Simpsonaias ambigua* Salamander Mussel
+
+## Strophitus undulatus Squawfoot
+
+## Toxolasma parvus Lilliput
+
+## Tritogonia verrucosa Pistolgrip
+
+## Villosa iris Rainbow
+
+Villosa lienosa* Little Spectaclecase
+
+## Other Invertebrates
+
+Hansonoperla 
+
+## Megalonaias nervosa Washboard
+
+Obliquaria reflexa Threehorn Wartyback
+
+## Obovaria olivaria Hickorynut
+
+Obovaria subrotunda* Round Hickorynut
+
+## Plethobasus cyphyus* Sheepnose
+
+Pleurobema clava* Clubshell
+
+## Pleurobema cordatum Ohio Pigtoe
+
+Pleurobema sintoxia* Round Pigtoe
+
+## Ptychobranchus fasciolaris Kidneyshell
+
+## Pyganodon cataracta Eastern Floater
+
+Pyganodon grandis Giant Floater
+
+## Quadrula cylindrica Rabbitsfoot
+
+## Quadrula metanevra Monkeyface
+
+## Quadrula nodulata Wartyback
+
+## Quadrula pustulosa Pimpleback
+
+## Quadrula quadrula Mapleleaf
+
+Simpsonaias ambigua* Salamander Mussel
+
+## Strophitus undulatus Squawfoot
+
+## Toxolasma parvus Lilliput
+
+## Tritogonia verrucosa Pistolgrip
+
+## Truncilla donaciformis Fawnsfoot
+
+Truncilla 
+
+## Ptychobranchus fasciolaris Kidneyshell
+
+## Pyganodon cataracta Eastern Floater
+
+Pyganodon grandis Giant Floater
+
+## Quadrula pustulosa Pimpleback
+
+## Quadrula quadrula Mapleleaf
+
+## Strophitus undulatus Squawfoot
+
+## Toxolasma parvus Lilliput
+
+## Tritogonia verrucosa Pistolgrip
+
+## Truncilla truncata Deertoe
+
+## Villosa iris Rainbow
+
+Other Invertebrates 
+
+## ATTENDEES -WHY ARE YOU HERE?
+
+WV Land Trust (WVLT)
+• Interested in role within the State Wildlife Action Plan (SWAP)
+• Where does the Land Trust fit in to advance the plan?
+George Washington-Jefferson National Forest (GW-Jeff)
+• Concerned about rare species as well, and wants to continue cooperating on species and habitat management.
+
+## Monongahela National Forest (MNF)
+
+• Interested and involved with state conservation actions.
+
+## Natural Resources Conservation Service (NRCS)
+
+• The NRCS is a federal agency that provides the nexus to work on private land, and can bridge the gap between the public and DNR, and assuage some of the fear the public may have of rare or endangered species issues • Help public landowners who want to be involved with the DNR and conservation
+
+## WVU Extension Service
+
+• Works mainly with private landowners who don't know what wildlife exists on their lands • Many landowners are interested in rare species, conservation, etc.--they want to know what occurs on their lands
+The Nature Conservancy (TNC)
+• Interested in seeing a collective conservation vision in the state.
+
+## Canaan Valley National Wildlife Refuge (CVNWR)
+
+• The Refuge is looking at landscape-level conservation.
+
+## Ohio River Islands National Wildlife Refuge (ORINWR)
+
+• Would like to dovetail their habitat management plan (which is in process) with the SWAP • Promote landscape-level conservation.
+
+## The Wilds
+
+• Wants to continue collaboration between the DNR and The Wilds
+The Conservation Fund (TCF)
+• Wants to facilitate the conservation mission
+
+## WV Wildlife Federation (WVWF)
+
+• The WVWF's members are hunters/anglers, as well as naturalists--the Federation would like to awaken the conservation mission in the members
+
+## SWAP OVERVIEW
+
+The elephant in the room is "corporate"--many corporate entities are in the process of liquidating land, and the WV Forestry Association should be a major player.
+Make the SWAP Summary available to others.
+The SWAP has good structure; it is similar to the GW-Jeff Forest Plan.
+Utilize citizen science for monitoring, especially considering the rate of retirement within the DNR. • Divide state in geographical regions, and then do a couple on conservation projects in each region
+
+## WVU Extension Service
+
+• Communicates with landowners to determine their interests, and educates them regarding management techniques • Can serve as a conduit between DNR and public to get information out • Some landowners do have species-specific interests
+
+## WVWF
+
+• Hunters run hot and cold--get influential people to present data • Educate youth about conservation at National Hunting and Fishing Days • 30+ clubs are affiliated with the WVWF, but they are not necessarily committed to the same issues as the WVWF; the WVWF could facilitate involving the clubs. For instance, the WV Bowhunters Association is the largest group, and they watch everything in the woods while they are hunting/scouting; untapped potential.
+
+## TNC
+
+• Maintain a resilient and connected network of forests and streams 
+
+## CONSERVATION FOCUS AREAS
+
+## Initiating
+
+• Start with areas that are doable, cover public and private lands, include terrestrial and aquatic projects, and have existing partnerships • Mesh CFA plans with management plans of other agencies, and start with CFA's whose partners are currently working on plans • Spread out the first CFA's geographically • Remember that CFA's with a lot of public land "aren't going anywhere"; therefore, place more focus on private tracts
+
+## Challenges
+
+• Obtainability of conservation action within CFA's looks very difficult • Habitat mapping varies--may have to use a lot of crosswalks • Will learn that one stress may negatively impact one species, while positively impacting another
+
+## General
+
+• NRCS funding focus will be changing, and the SWAP is more in line with that focus • DNR Game Management has funding for land acquisition, and will target areas within CFA's • If there is a planning group for each CFA, then perhaps a partner can be a member of that planning group • Will there be a "clickable map" available for the CFA's? There have been many significant changes since the first West Virginia State Wildlife Action Plan was published in 2005. Much additional survey data for plant and animal species has been collected by the WVDNR and its partners. Analysis of that data has provided a much clearer picture of species status and location. Improvements in technology have simultaneously yielded valuable information on habitat location and extent, providing biologists with better opportunities to understand species/habitat relationships and concentrations. Finally, stresses on species and habitats are much better understood today than they were a decade ago, providing better opportunities for conservation action to address those stresses. As a consequence of these changes, the 2015 West Virginia differs from its predecessor in some very fundamental ways:
+• 
+1.3: Pine -Oak Rocky Woodlands Habitat area exaggerated to enhance visability. Photo: Clifftop pine at Lost River State Park. NatureServe Ecological Systems: Central Appalachian Pine-Oak Rocky Woodland Southern Appalachian Montane Pine Forest and Woodland 2015 WV State Wildlife Action Plan
+1.7: Dry-Mesic Oak Forests Photo: Old growth oak forest at Big Ditch Wildlife Management Area, Webster County. NatureServe Ecological Systems: Northeastern Interior Dry-Mesic Oak Forest Southern Appalachian Oak Forest Description: Upland, mostly deciduous forests at lower and middle elevations throughout the state. Soils are usually somewhat less acidic and more fertile compared to the Dry Oak
+Pine
+Cucumber-tree (Magnolia 3.3.1.11: Red Spruce Forests Habitat area exaggerated to enhance visability. Photo: Red Spruce forest on Spruce Knob, Pendleton County. NatureServe Ecological Systems: Central and Southern Appalachian Spruce-Fir Forest Description: Upland, mixed evergreen-deciduous forests and woodlands at high elevations dominated or codominated by Red Spruce). Soils are usually rocky, highly acidic, and cold
+Forest
+Northern Hardwood Forests Photo: Northern hardwoods on Middle Mountain, Randolph County
+Red Maple, American Beech, Yellow Birch, Sweet Birch, Black Cherry, Red Oak
+NatureServe Ecological Systems: Appalachian (Hemlock)-Northern Hardwood Forest Description: Upland deciduous and mixed deciduous-evergreen forests at high elevations in the Allegheny Mountains Ecoregion. Common deciduous tree species in natural forests include Sugar Maple. Associated trees may 2015 WV State Wildlife Action Plan
+Anthropogenic Shrubland and Grassland Photo: Abandoned farmland at the National Conservation Training Center in Jefferson County National Land Cover Database: 52 -Scrub/Shrub
+Grassland/Herbaceous Description: Areas characterized by semi-natural vegetation dominated by small trees, shrubs, and herbs. These areas are not subject to intense active management, but may be utilized for grazing
+2004. 2015
+WV State Wildlife Action Plan
+18: Agriculture Photo: Cornfield at Harpers Ferry National Historical Park in Jefferson County National Land Cover Database: 81 -Pasture/Hay
+Cultivated Crops Description: Areas with planted herbaceous vegetation that is intensely managed for food, feed, or fiber (Homer et al. 2004)
+Common crops include hay, corn, and soybeans
+James Headwaters CFA James Headwaters CFA -Terrestrial Habitats 2015 WV State Wildlife Action Plan References
+The butterflies of West Virginia and their caterpillars
+T
+Allen
+1997
+University of Pittsburgh Press
+Pittsburgh, PA
+388 pg
+WVDNR, Wildlife Resources Section
+Thomas
+Allen
+R
+Acciavatti
+2002
+Elkins, WV
+Tiger Beetles of West Virginia. 31 pgs
+Conserving the stage: climatic change and the geophysical underpinnings of species diversity
+M
+Anderson
+C
+Ferree
+PlOS ONE
+5
+2010. 11554
+Resilient sites for terrestrial conservation in the Northeast and Mid-Atlantic Region. The Nature Conservancy. Eastern Conservation Science, Eastern Regional Office
+M
+Anderson
+M
+Clark
+A
+Sheldon
+2012
+Boston, MA
+Northeast Habitat Guides: A companion to the terrestrial and aquatic habitat maps. The Nature Conservancy, Eastern Conservation Science, Eastern Regional Office
+M
+G
+Anderson
+M
+Clark
+C
+E
+Ferree
+A
+Jospe
+A
+Olivero
+Sheldon
+K
+J
+Weaver
+2013
+Boston, MA
+Estimating climate resilience for conservation across geophysical settings
+M
+Anderson
+M
+Clark
+A
+Sheldon
+Conservation Biology
+28
+2014
+Permeable landscapes for climate change. The Nature Conservancy. Eastern Conservation Science, Eastern Regional Office
+M
+Anderson
+M
+Clark
+B
+Mcrae
+2015
+Boston, MA
+Potential for impairment of freshwater mussel populations in DRBC special protection waters as a consequence of natural gas exploratory well development. Unpublished report prepared for U.S. Fish and Wildlife Service and the Partnership for the Delaware Estuary
+R
+M
+Anderson
+D
+A
+Kreeger
+2010
+State College, Pennsylvania
+Measuring the Effectiveness of State Wildlife Grants: Final Report
+2011
+Association of Fish & Wildlife Agencies
+2 nd Atlas of the Breeding Birds of West Virginia. West Virginia Division of Natural Resources
+R
+Bailey
+2015
+Elkins, WV
+Preparation
+West Virginia invasive species strategic plan and voluntary guidelines
+W
+Bailey
+Virginia%20Invasive%20Species%20Strateg ic%20Plan%202014%20FINAL.pdf
+2014. May 2015
+29
+Ecoregions and subregions of the United States (map)
+R
+G
+Bailey
+P
+E
+Avers
+T
+King
+U.S. Geological Survey. Scale 1:7,500,000. Colored
+W
+H
+Mcnab
+R
+G
+Bailey
+Washington, DC
+1994
+Prepared for the USDA Forest Service
+Sediment, land use, and freshwater mussels: prospects and problems
+J
+M
+Box
+J
+Mossa
+Journal of the North American Benthological Society
+18
+1999. 2015
+WV State Wildlife Action Plan
+Central Appalachians forest ecosystem vulnerability assessment and synthesis: a report from the Central Appalachians Climate Change Response Framework project
+Patricia
+Butler
+Gen
+310
+2015
+Newton Square, PA
+U.S. Department of Agriculture, Forest Service, Northern Research Station
+Tech. Rep. NRS-146
+Classification and Conservation Assessment of High Elevation Wetland Communities in the Allegheny Mountains of West Virginia. West Virginia Natural Heritage Program
+E
+A
+Byers
+J
+P
+Vanderhorst
+B
+P
+Streets
+2007
+WVDNR. Elkins
+Classification and conservation assessment of upland red spruce communities in West Virginia. West Virginia Natural Heritage Program, West Virginia Division of Natural Resources
+E
+A
+Byers
+J
+P
+Vanderhorst
+B
+P
+Streets
+2010
+Elkins, WV
+Climate change vulnerability assessment of species of concern in West Virginia
+E
+Byers
+S
+Norris
+2011
+Project report to the West Virginia Division of Natural Resources, Elkins, WV. 69 pg
+Geology map of West Virginia
+D
+H
+Cardwell
+R
+B
+Erwin
+H
+P
+Woodward
+West Virginia Geological and Economic Survey.Map 1. Scale
+1
+250000
+1968
+R
+Cech
+G
+Tudor
+Butterflies of the East Coast: an observer's guide
+Princeton, NJ
+Princeton University Press
+2005
+345 pg
+D
+A
+Cincotta
+S
+A
+Welsh
+Prep. An atlas of West Virginia fishes
+Morgantown WV
+West Virginia University Press
+P
+Comer
+D
+Faber-Langendoen
+R
+Evans
+S
+Gawler
+C
+Josse
+G
+Kittel
+S
+Menard
+M
+Pyne
+M
+Reid
+K
+Schulz
+K
+Snow
+J
+Teague
+Ecological Systems of the United States: A Working Classification of U.S. Terrestrial Systems
+NatureServe, Arlington, Virginia
+2003
+Dragonflies: behavior and ecology of Odonata
+P
+S
+Corbett
+1999
+Cornell University Press
+829
+Ithaca, NY
+Ecosystem engineering by crayfish in a headwater stream community
+R
+P
+Creed
+J
+M
+Reed
+Journal of the North American Benthological Society
+23
+2
+2004
+The North American obligate cave fauna: regional patterns
+D
+C
+Culver
+M
+C
+Christman
+W
+R
+Elliott
+H
+H
+Hobbs
+Iii
+J
+R
+Reddel
+Biodiversity and Conservation
+12
+2003
+A.); 1958 revision (330 pgs) and a 1965 supplement
+W
+E
+Davies
+Caverns of West Virginia; State of West Virginia: West Virginia Geological and Economic Survey (Series: Geological and Economic Survey
+1958
+XIX
+72 pages
+Apoidea -identification and ranges of NA bees
+The Polistes Foundation
+2015
+The feeding behavior and diet of an endemic West Virginia landsnail, Triodopsis platysayoides
+D
+C
+Dourson
+American Malacological Bulletin
+26
+1-2
+2008
+Snakes of the United States and Canada
+C
+E
+Ernst
+E
+M
+Ernst
+2003
+Smithsonian Institution
+668
+Washington, DC
+Status review of three formerly common species of bumble bee in the subgenus Bombus
+E
+Evans
+R
+Thorp
+S
+Jepsen
+S
+Hooffman
+Black
+2008
+The Xerces Society
+Portland, OR
+D
+Faber-Langendoen
+J
+Nichols
+L
+Master
+K
+Snow
+A
+Tomaino
+R
+Bittman
+G
+Hammerson
+B
+Heidel
+L
+Ramsay
+A
+Teucher
+Young
+B
+NatureServe Conservation Status Assessments: Methodology for Assigning Ranks. NatureServe
+2012
+Arlington, VA
+A Map of Terrestrial Habitats of the Northeastern United States: Methods and Approach. The Nature Conservancy, Eastern Conservation Science, Eastern Regional Office
+C
+Ferree
+M
+G
+Anderson
+2013
+Boston, MA
+map%20of%20Terrestrial%20Habitats% 20of%20the%20Northeastern%20United%20States%20Methods%20and%20Approach%201112013-
+D
+W
+Fong
+D
+Culver
+H
+Hobbs
+Iii
+T
+Pipan
+The invertebrate Cave Fauna of West Virginia
+Second Edition. West Virginia Speleological Survey
+2007
+163
+Report to the Virginia Department of Game and Inland Fisheries on behalf of the Northeast Association of Fish and Wildlife Agencies and the National Fish and Wildlife Foundation
+S
+C
+Gawler
+NatureServe
+102
+2008
+Boston, Massachusetts
+Northeastern Terrestrial Wildlife Habitat Classification
+W
+Gibbons
+J
+Greene
+T
+Mills
+Lizards and Crocodilians of the Southeast
+Athens, GA
+The University of Georgia Press
+2009
+235
+Butterflies of New Jersey: a guide to their status, distribution, conservation, and appreciation
+M
+Gochfeld
+J
+Burger
+1997
+Rutgers University Press
+New Brunswick, NJ
+326 pg
+Small-scale habitat fragmentation effects on pollinatorbehavior: experimental evidence from the bumble bee Bombus veteranus on calcareous grasslands
+M
+Goverde
+K
+Sweizer
+B
+Baur
+A
+Erhardt
+Biological Conservation
+104
+2002
+Amphibians and Reptiles in West Virginia
+N
+B
+Green
+T
+K
+Pauley
+1987
+University of Pittsburgh Press
+241
+Pittsburgh, PA
+On the decline of the Rusty Blackbird and the use of ornithological literature to document long-term population trends
+R
+Greenberg
+S
+Droege
+Conservation Biology
+13
+3
+1999. 2015
+WV State Wildlife Action Plan
+Adverse affects of acid rain on the distribution of the woodthrush, Hylocichla mustelina
+R
+S
+Hames
+K
+V
+Rosenberg
+J
+D
+Lowe
+S
+E
+Dhondt
+North America. Proc. Nat. Acad. Sci
+99
+17
+2002
+Checklist and atlas of the vascular flora of West Virginia. West Virginia Division of Natural Resources, Wildlife Resources Section
+P
+J
+Harmon
+D
+Ford-Werntz
+W
+Grafton
+2006. May 2015
+29
+381
+Elkins, WV
+Development of a 2001 National Landcover Database for the United States
+C
+C
+Homer
+L
+Huang
+B
+Yang
+M
+Wylie
+Coan
+Photogrammetric Engineering and Remote Sensing*
+70
+7
+2004. July 2004
+Completion of the 2011 National Land Cover Database for the conterminous United States-Representing a decade of land cover change information
+C
+G
+Homer
+J
+A
+Dewitz
+L
+Yang
+S
+Jin
+P
+Danielson
+G
+Xian
+J
+Coulston
+N
+D
+Herold
+J
+D
+Wickham
+K
+Megown
+Photogrammetric Engineering and Remote Sensing
+81
+5
+2015
+Are neonicotinoids killing bees?; a review of research into the effects of neonicotinoids on bees with recommendations for action
+J
+Hopwood
+M
+Vaughan
+M
+Shepherd
+D
+Biddinger
+E
+Mader
+S
+H
+Black
+C
+Mazzacano
+2012
+Xerces Society for Invertebrate Conservation
+Portland, OR. 32 pg
+Land snails and soil calcium in Central Appalachian Mountain forest
+K
+P
+Hotopp
+Southeastern Naturalist
+1
+1
+2002
+The Crayfishes (Decapoda:Cambaridae) of West Virginia
+R
+F
+Jezerinac
+G
+W
+Stocker
+D
+C
+Tarter
+Bulletin of the Ohio Biological Survey, New Series
+10
+1995
+Life history characteristics of the Elk River Crayfish
+D
+R
+Jones
+A
+G
+Eversole
+Journal of Crustacean Biology
+31
+4
+2011
+Possible extirpation of Cambarus veteranus (Big Sandy Crayfish) from West Virginia. Conservation, biology, and natural history of southeastern crayfishes
+T
+G
+Jones
+K
+B
+Channel
+S
+E
+Collins
+J
+Enz
+C
+M
+Stinson
+Southeastern Naturalist
+3
+2010
+Intraspecific phylogeography of Lasmigona subviridis (Bivalvia: Unionidae): conservation implications of range discontinuity
+T
+L
+King
+M
+S
+Eackles
+B
+Gjetvaj
+W
+R
+Hoeh
+Molecular Ecology
+8
+1999
+A Taxonomic and Distributional Study of the Crayfishes (Decapoda: Cambaridea) of West Virginia with Diagnostic Keys to Species of the Genera Cambarus and Orconectes
+Steven
+M
+Lawton
+Theses, Dissertations and Capstones
+1979
+Paper 399
+Should I Stay or Should I go? Determining the movement patterns of male New River crayfish through use of telemetry
+Z
+J
+Loughman
+West Virginia Academy of Sciences Meeting
+Charleston, West Virginia
+Canaan Valley Institute and Association of Southeastern Biologists Meeting
+2013. 2015
+WV State Wildlife Action Plan
+Life history of Cambarus chasmodactylus
+Z
+J
+Loughman
+Anthony Creek, West Virginia. Association of Southeastern Biologists Meeting
+New River Crayfish; Spartansburg, South Carolina
+2014
+2013. Cambarus (C.) hatfieldi, a new species of crayfish (Decapoda: Cambaridae) from the Tug Fork River basin of Kentucky
+Z
+J
+Loughman
+R
+A
+Fagundo
+E
+A
+Lau
+S
+A
+Welsh
+R
+F
+Thoma
+Zootaxa
+3750
+3
+Virginia, and West Virginia, USA
+Cambarus (Jugicambarus) pauleyi, a new species of crayfish (Decapoda: Camabridae) endemic to south central West Virginia, USA, with a re-description of Cambarus (J.) dubius
+Z
+J
+Loughman
+R
+F
+Thoma
+J
+W
+Fetzner
+Jr
+G
+W
+Stocker
+Zootaxa
+3980
+4
+2015
+Conservation Assessment and Atlas of the Crayfishes of West Virginia. Final report of findings prepared for the West Virginia Department of Natural Resources Heritage Division
+Z
+J
+Loughman
+S
+A
+Welsh
+2013
+71
+Distribution and conservation standing of West Virginia crayfishes
+Z
+J
+Loughman
+S
+A
+Welsh
+Southeastern Naturalist
+9
+3
+2010
+West Virginia crayfishes: observations on distribution, natural history, and conservation
+Z
+J
+Loughman
+T
+P
+Simon
+S
+A
+Welsh
+North Eastern Naturalist
+16
+2
+2009
+Zoogeography, taxonomy, and conservation of West Virginia's Ohio River floodplain crayfishes (Decapoda:Cambaridae)
+Z
+J
+Loughman
+T
+P
+Simon
+10.3897/zookeys.74.808
+ZooKeys
+74
+2011
+L
+L
+Master
+D
+Faber-Langendoen
+R
+Bittman
+G
+A
+Hammerson
+B
+Heidel
+L
+Ramsay
+K
+Snow
+A
+Teucher
+A
+Tomaino
+NatureServe Conservation Status Assessments: Factors for Evaluating Species and Ecosystem Risk
+NatureServe, Arlington, VA
+2012
+Personal communication; West Virginia University PhD candidate; Dissertation: Bee natural history, diversity, and management in West Virginia
+M
+Mckinney
+2015. December 2015
+Dragonflies -status survey and conservation action plan. IUCN/SSC Odonata Specialist group. IUCN, Gland, Switzerland and Cambridge, UK, 28 pg. National Resource Council
+Norman
+W
+Moore
+NatureServe Explorer: an online encyclopedia of life
+Washington, D.C; Washington, D.C
+The National Academic Press
+1997. 2007. 2014. November 2014
+The status of pollinators in North America
+Natureserve
+NatureServe Explorer: An online encyclopedia of life
+Arlington, Virginia. Available
+2015. August 3, 2015
+web application. Version 7.1. NatureServe
+Declines of aerial insectivores in 2015 WV State Wildlife Action Plan NorthAmerica follow a geographic gradient
+S
+Nebel
+A
+Mills
+J
+D
+Mccracken
+P
+D
+Taylor
+Avian Conservation and Ecology -Écologie et conservation desoiseaux
+5
+2
+2010
+The State of the Birds
+Report. U.S. Department of Interior
+16
+pages
+2014. 2014
+North American Bird Conservation Initiative, U.S. Committee
+Washington, D.C
+West Virginia Division of Natural Resources, Wildlife Diversity and Technical Services Unit
+S
+Olcott
+Final report for the West Virginia dragonfly and damselfly atlas
+Elkins, WV
+2011
+29 pgs plus appendices
+Northeast Aquatic Habitat Classification System. The Nature Conservancy
+A
+P
+Olivero
+M
+A
+Anderson
+Partners in Flight Science Committee
+Boston, MA
+2008. 2013. 2013
+Effects of High Salinity Wastewater Discharges on Unionid Mussels in the Allegheny River
+K
+A
+Patnode
+E
+Hittle
+R
+M
+Anderson
+L
+Zimmerman
+J
+W
+Fulton
+Pennsylvania. Journal of Fish and Wildlife Management
+6
+1
+2015
+Toads and Frogs of West Virginia. WVDNR, Wildlife Resources Section
+T
+K
+Pauley
+2011
+Elkins, WV
+13 pg
+Snakes of West Virginia. WVDNR, Wildlife Resources Section
+T
+K
+Pauley
+2012
+Elkins, WV
+21 pg
+Salamanders of West Virginia. WVDNR, Wildlife Resources Section
+T
+K
+Pauley
+2013
+Elkins, WV 21 pg
+Turtles and Lizards of West Virginia. WVDNR, Wildlife Resources Section
+T
+K
+Pauley
+2014
+Elkins, WV
+17 pg
+Salamanders of the United States and Canada
+J
+W
+Petranka
+2010
+Smithsonian Institution
+587
+Washington, DC
+The North American Breeding Bird Survey, Results and Analysis 1966 -2013. Version 01.30
+J
+R
+Sauer
+J
+E
+Hines
+J
+E
+Fallon
+K
+L
+Pardieck
+D
+J
+Ziolkowski
+Jr
+W
+A
+Link
+2014. 2015
+Laurel, MD
+USGS Patuxent Wildlife Research Center
+Rare, declining, and poorly known butterflies and moths (Lepidoptera) of forests and woodlands in the eastern United States
+D
+F
+Schweitzer
+M
+C
+Minno
+D
+L
+Wagner
+FHTET-2011-01. 517 pg
+2011
+USDA Forest Health Technology Enterprise Team
+The active river area: a conservation framework for protecting rivers and streams. The Nature Conservancy
+M
+P
+Smith
+R
+A
+Schiff
+J
+G
+Olivero
+Macbroom
+2008
+Boston MA
+The fishes of West Virginia
+J
+R
+Stauffer
+Jr
+J
+M
+Boltz
+L
+R
+White
+Proceedings of the Academy of Natural Sciences of Philadelphia
+146
+1995. 2015
+WV State Wildlife Action Plan
+Integrating Climate Change into Northeast and Midwest State Wildlife Action Plans
+M
+D
+Staudinger
+T
+L
+Morelli
+A
+M
+Bryan
+U.S. Department of Interior. Northeast Climate Science Center Report
+205
+2015
+Amherst, Massachusetts
+Hidden in Plain Sight: The Role of Plants in State Wildlife Action Plans
+B
+A
+Stein
+K
+Gravuer
+2008. May 2015
+NatureServe
+29
+Arlington, Virginia
+Long term evaluation of the effects of Bacillus thuringiensis kurstaki, gypsy moth nucleopolyhedrosis virus product Gypchek, and Entomophaga maimaiga on nontarget organisms in mixed broadleaf-pine forests in the central Appalachians
+Strazanac, J. S. and L. Butler
+2004
+USDA Forest Health Technology Enterprise Team
+FHTET-2004-14. 126 pg
+Annotated Checklist of the Hornworts, Liverworts, and Mosses of West Virginia. West Virginia Division of Natural Resources, Wildlife Resources Technical Document
+S
+M
+Studlar
+S
+L
+Stephenson
+P
+J
+Harmon
+02-3
+2002
+Elkins, WV
+Taking Action Together: Northeast Regional Synthesis for State Wildlife Action Plans. A report submitted to the Northeast Fish and Wildlife Diversity Committee
+C
+A
+Taylor
+G
+A
+Schuster
+J
+E
+Cooper
+R
+J
+Distefano
+A
+G
+Eversole
+P
+Hamr
+H
+H
+Hobbs
+Iii
+H
+W
+Robsion
+C
+E
+Skelton
+R
+F
+Thoma
+Fisheries
+32
+207
+2007. 2013
+Locustville, VA
+A reassessment of the conservation status of crayfishes of the United States and Canada after 10+ years of increased awareness
+Cambarus (Punctcambarus) callainus, a new species of crayfish (Dacapoda: Cambaridae) from the Big Sandy River basin in Kentucky
+R
+F
+Thoma
+Z
+J
+Loughman
+J
+W
+Fetzner
+Jr
+Zootaxa
+3900
+4
+2014
+Virginia, and West Virginia, USA
+EPA/841P-13/001. 110
+West Virginia water quality assessment report. United States Environmental Protection Agency
+Washington, D.C
+United States Environmental Protection Agency
+2010. November 2014. 2009
+Draft National Rivers and Streams Assessment 2008-09: A Collaboration Survey
+Flat-spired three-toothed snail (Triodopsis platysayoides) recovery plan prepared by Region 5
+USFWS. 22
+1983
+United States Fish and Wildlife Service
+Flat-spired three-toothed land snail (Triodopsis platysayoides) 5-year review: Summary and evaluation
+2007
+West Virginia Field Office, USFWS
+24
+Changes in land mollusk fauna and soil chemistry in an inland district of southern Sweden
+I
+Wäreborn
+Ecography
+15
+1992. 2015
+WV State Wildlife Action Plan
+Invasive plant species of West Virginia
+Wildlife Diversity Unit
+West Virginia Division of Natural Resources
+2009. May 2015
+29
+Rare, Threatened and Endangered Plants
+West Virginia Division of Natural Resources
+2012. May 2015
+29
+Plots2-WV database of community ecology plots
+WVDNR
+2015
+West Virginia Natural Heritage Program
+Elkins, WV
+A conservation status assessment of Odonata for the northeastern United States
+E
+L
+White
+2014
+New York Natural Heritage Program
+Albany, NY
+44 pg
+The overlooked terrestrial impacts of mountaintop mining
+J
+Wickham
+P
+B
+Wood
+M
+C
+Nicholson
+W
+Jenkins
+D
+Druckenbrod
+G
+W
+Suter
+M
+P
+Strager
+C
+Mazzarella
+W
+Galloway
+J
+Amos
+BioScience
+63
+2013
+P
+Williams
+R
+Thorp
+L
+Richardson
+S
+Colla
+Bumble bees of North America: an identification guide
+Princeton,NJ
+Princeton Univ. Press
+2014
+208 pg
+Gypsy moths and the future of West Virginia's forest resources
+M
+J
+Wimmer
+1997
+WVU
+14
+Wvass
+WVASS Karst-Features Report
+West Virginia Speleological Society
+2014. 16 May 2014
+32
+16
+The West Virginia Caver.
+Attracting native pollinators: protecting North America's bees and butterflies
+2011
+Storey Publishing
+North Adams, MA
+371 pg
+Portland bans insecticides linked to pollinator declines
+Xerces Society for Invertebrate Conservation website Available at
+Xerces Society
+2015

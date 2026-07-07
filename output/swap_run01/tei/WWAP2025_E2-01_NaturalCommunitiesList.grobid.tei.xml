@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Natural Community and Habitat List 1 Aquatic WI Rank Global Rank Coldwater streams Coolwater streams Springs and Spring Runs (Hard) S4 GNR Warmwater rivers Warmwater streams Lake Michigan Lake Superior Lake</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<title level="a" type="main">Natural Community and Habitat List 1 Aquatic WI Rank Global Rank Coldwater streams Coolwater streams Springs and Spring Runs (Hard) S4 GNR Warmwater rivers Warmwater streams Lake Michigan Lake Superior Lake</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">2BB0ED9A8DD2506CC75375304B6F4E18</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.1" ident="GROBID" when="2026-07-06T16:20+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Large</term>
+					<term>Deep</term>
+					<term>Hard</term>
+					<term>Drainage S3 GNR Lake--Large</term>
+					<term>Deep</term>
+					<term>Hard</term>
+					<term>Seepage S2 GNR Lake--Large</term>
+					<term>Deep</term>
+					<term>Soft -Very Soft</term>
+					<term>Drainage S1 GNR Lake--Large</term>
+					<term>Deep</term>
+					<term>Soft -Very Soft</term>
+					<term>Seepage Lake--Large</term>
+					<term>Shallow</term>
+					<term>Hard -Very Hard (marl)</term>
+					<term>Drainage Lake--Large</term>
+					<term>Shallow</term>
+					<term>Hard</term>
+					<term>Seepage SU GNR Lake--Large</term>
+					<term>Shallow</term>
+					<term>Soft</term>
+					<term>Drainage S3 GNR Lake--Large</term>
+					<term>Shallow</term>
+					<term>Soft</term>
+					<term>Seepage S4 GNR Lake--Small</term>
+					<term>Hard</term>
+					<term>Bog S2 GNR Lake--Small</term>
+					<term>Meromictic S1 GNR Lake--Small</term>
+					<term>Other SU GNR Lake--Small</term>
+					<term>Soft Bog S4 GNR Riverine Impoundment -Reservoirs (anthropogenic) Riverine Lake -Pond SU GNR Spring Pond</term>
+					<term>Lake--Spring Springs and Spring Runs (Soft) SU GNR Barrens and Savannas WI Rank</term>
+				</keywords>
+			</textClass>
+			<abstract/>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0" /><figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>SU GNR Bedrock and Bare Soil/Sand WI Rank Global Rank</head><label></label><figDesc></figDesc><table><row><cell>2025 Wisconsin Wildlife Action Plan</cell><cell></cell><cell></cell></row><row><cell>E2.1 Natural Community and Habitat List</cell><cell></cell><cell></cell></row><row><cell>Bedrock Shore</cell><cell>S2</cell><cell>G3G4</cell></row><row><cell>Caves and Subterranean Cultural</cell><cell>SU</cell><cell>GNR</cell></row><row><cell>Dry Cliff</cell><cell>S4</cell><cell>G4G5</cell></row><row><cell>Glaciere Talus (Felsenmeer)</cell><cell>S2</cell><cell>G2G3</cell></row><row><cell>Great Lakes Alkaline Rockshore</cell><cell>S2</cell><cell>G3</cell></row><row><cell>Moist Cliff</cell><cell>S4</cell><cell>GNR</cell></row><row><cell>* Talus Forest</cell><cell>S1</cell><cell>G4G5</cell></row><row><cell>Clay Seepage Bluff</cell><cell>S2</cell><cell>GNR</cell></row><row><cell>Great Lakes Beach</cell><cell>S2</cell><cell>G3</cell></row><row><cell>Great Lakes Dune</cell><cell>S2</cell><cell>G3</cell></row><row><cell>Inland Beach</cell><cell>S3</cell><cell>G4G5</cell></row><row><cell>Lacustrine Mud Flat</cell><cell>SU</cell><cell>GNR</cell></row><row><cell>Riverine Mud Flat</cell><cell>SU</cell><cell>GNR</cell></row><row><cell>Northern Forests</cell><cell>WI Rank</cell><cell>Global Rank</cell></row><row><cell>Aspen-Birch (anthropogenic)</cell><cell></cell><cell></cell></row><row><cell>Black Spruce Swamp</cell><cell>S3?</cell><cell>G5</cell></row><row><cell>Boreal Forest</cell><cell></cell><cell>G3?</cell></row><row><cell>Conifer Plantation (anthropogenic)</cell><cell></cell><cell></cell></row><row><cell>Forested Seep</cell><cell>S2</cell><cell>GNR</cell></row><row><cell>Mesic Cedar Forest</cell><cell>S1</cell><cell>G3?</cell></row><row><cell>Mesic Floodplain Terrace</cell><cell>S2</cell><cell>GNR</cell></row><row><cell>Northern Dry Forest--late seral</cell><cell>S3</cell><cell>G3?</cell></row><row><cell>Northern Dry Forest--mid seral</cell><cell></cell><cell></cell></row><row><cell>Northern Dry Forest--young seral</cell><cell></cell><cell></cell></row><row><cell>Northern Dry Mesic--late seral</cell><cell>S3</cell><cell>G4</cell></row><row><cell>Northern Dry Mesic--mid seral</cell><cell></cell><cell></cell></row><row><cell>Northern Dry Mesic--young seral</cell><cell></cell><cell></cell></row><row><cell>Northern Hardwood Swamp</cell><cell>S3</cell><cell>G4</cell></row><row><cell>Northern Mesic Forest--early seral</cell><cell></cell><cell></cell></row><row><cell>Northern Mesic Forest--late seral</cell><cell>S4</cell><cell>G4</cell></row><row><cell>Northern Mesic Forest--mid seral</cell><cell></cell><cell></cell></row><row><cell>Northern Mesic Forest--young seral</cell><cell></cell><cell></cell></row><row><cell>Northern Tamarack Swamp</cell><cell>S3</cell><cell>G4</cell></row><row><cell>Northern Wet Forest</cell><cell>S4</cell><cell>G4</cell></row><row><cell>Algific Talus Slope Northern Wet-mesic Forest</cell><cell>S1 S3S4</cell><cell>G2 G3?</cell></row><row><cell>Alvar * Rich Northern Mesic Forest</cell><cell>S1 SU</cell><cell>G3 GNR</cell></row><row><cell>Bedrock Glade Southern Forests</cell><cell>S3 WI Rank</cell><cell>G2 Global Rank</cell></row><row><cell>Central Sands Pine -Oak Forest</cell><cell>S3</cell><cell>G3</cell></row><row><cell>Eastern Red-cedar Thicket</cell><cell>S4</cell><cell>GNR</cell></row><row><cell>Floodplain Forest</cell><cell>S3</cell><cell>G3?</cell></row><row><cell>Hemlock Relict</cell><cell>S2</cell><cell>G2Q</cell></row><row><cell>Pine Relict</cell><cell>S2</cell><cell>G4</cell></row><row><cell>9/25/2025</cell><cell></cell><cell></cell></row></table><note><p>1 List of natural resources and habitats used in the 2025 Wisconsin Wildlife Ac�on Plan. The communi�es that are based on Natural Heritage Inventory classifica�ons and include Wisconsin and global conserva�on ranks. For rank defini�ons, go to htps://dnr.wi.gov and search 'NHI working list'. * Communi�es new to the Wisconsin Wildlife Ac�on Plan in 2025. 2025 Wisconsin Wildlife Action Plan E2.1 Natural Community and Habitat List 9/25/2025 Wisconsin Department of Natural Resources Page 2 of 3</p></note></figure>
+		</body>
+		<back>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0" />			</div>
+			<div type="references">
+
+				<listBibl/>
+			</div>
+		</back>
+	</text>
+</TEI>
+

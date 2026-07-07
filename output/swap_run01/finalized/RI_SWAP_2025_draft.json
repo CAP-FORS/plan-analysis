@@ -1,0 +1,722 @@
+{
+  "document_meta": {
+    "title": "Rhode Island Wildlife Action Plan (RIWAP) 2025 Draft",
+    "year": 2025,
+    "jurisdiction": "Rhode Island",
+    "document_type": "SWAP",
+    "document_id": "RI_SWAP_2025_draft",
+    "page_count": 94
+  },
+  "orientation": {
+    "summary": "This is Rhode Island's 2025 State Wildlife Action Plan (RIWAP), a 10-year revision of the state's wildlife conservation strategy produced by RIDEM. The document engages substantially with climate change as a cross-cutting threat, noting documented warming trends, sea level rise, and projected future conditions for Rhode Island, and explicitly treats climate change as compounding other threats. Range shifts are mentioned explicitly in a few passages: one notes that climate pressures are causing species range shifts while development may inhibit such movement, another discusses SLAMM-modeled salt marsh migration, and one passage about Conservation Opportunity Areas invokes corridors that allow species to shift in response to climate change. The document performs its own synthesis and mapping (COA mapping, habitat condition assessments) but largely relies on referenced analyses from partners such as TNC, URI, and NECASC for climate-specific modeling and vulnerability work.",
+    "evidence_index": [
+      {
+        "text": "Average annual temperature has increased by about 4° F between 1895 and 2023, faster than global mean temperature and that of the Northeast generally (+2.5° F). The ocean region next to RI is experiencing rapid warming as well; the Gulf of Maine is among the fastest warming ocean regions globally.",
+        "location": "Ch. 2: Habitats, CLIMATE section",
+        "relevant_elements": ["1.1", "3.5", "3.6"]
+      },
+      {
+        "text": "sea levels have risen by about 0.94 feet around Newport, RI over the last century. As Rhode Island has already begun to witness, seemingly small increases in sea level can have large impacts along the coast due to storm surges and exceptionally high tides.",
+        "location": "Ch. 2: Habitats, CLIMATE section",
+        "relevant_elements": ["1.1", "3.5"]
+      },
+      {
+        "text": "Incorporating climate change considerations into the RIWAP is vital for the development and implementation of effective conservation actions.",
+        "location": "Ch. 2: Habitats, CLIMATE section",
+        "relevant_elements": ["1.1", "4.5"]
+      },
+      {
+        "text": "climate change vulnerability assessments consistently identify brackish marshes as the most vulnerable to the impacts of climate change, especially rising sea level.",
+        "location": "Ch. 2: Habitats, WETLANDS section",
+        "relevant_elements": ["1.1", "2.1", "3.5"]
+      },
+      {
+        "text": "estuarine habitats face a newer threat; climate change vulnerability assessments consistently identify brackish marshes as the most vulnerable to the impacts of climate change, especially rising sea level.",
+        "location": "Ch. 2: Habitats, WETLANDS section",
+        "relevant_elements": ["1.1", "2.1"]
+      },
+      {
+        "text": "Application of SLAMM (Sea Level Affecting Marshes Model) modeling at several federal wildlife refuges in the Northeast projected that the initial impact of sea level rise will be an increase in salt marsh (saline) habitats at the expense of brackish habitats (Grund and Walberg 2013).",
+        "location": "Ch. 2: Habitats, WETLANDS section",
+        "relevant_elements": ["2.2", "2.3", "3.5", "4.1"]
+      },
+      {
+        "text": "In 2015, SLAMM modeling was published for the entire Rhode Island coast with similar impacts indicated and the degree of brackish marsh loss dependent on the accessibility of adjacent upland and/or freshwater wetland sites for inland marsh migration.",
+        "location": "Ch. 2: Habitats, WETLANDS section",
+        "relevant_elements": ["2.2", "3.5", "4.1"]
+      },
+      {
+        "text": "Because of their rarity and limited extent, brackish marsh communities are extremely vulnerable to the impacts of climate change, especially rising sea level.",
+        "location": "Ch. 2: Habitats, WETLANDS section",
+        "relevant_elements": ["1.1", "3.5"]
+      },
+      {
+        "text": "Climate models identify 2035-2040 as the critical point when future scenario projections begin to diverge dramatically depending on emissions. In a medium emissions scenario, by 2100 RI is projected to experience as much as an additional up to 7˚F warming a tenfold increase in days with temperatures above 95˚F",
+        "location": "Ch. 3: Threats and Actions, CLIMATE CHANGE AND SEVERE WEATHER section",
+        "relevant_elements": ["1.1", "2.3", "3.5"]
+      },
+      {
+        "text": "one of the most concerning compounding effects of climate change and other threats is that, although climate pressures are causing species range shifts, development and roadways have created a matrix of inhospitable habitat that may inhibit such movement.",
+        "location": "Ch. 3: Threats and Actions, table/inline text",
+        "relevant_elements": ["1.1", "1.3", "1.4", "4.2", "3.5"]
+      },
+      {
+        "text": "changes in marine species phenology are being observed in Rhode Island marine waters; for example, residency time of warm-water species is increasing. Additionally, increasing CO 2 concentrations have driven changes in pH, leading to ocean acidification. This restricts growth and reduces survivorship of shellfish, crustaceans, and other species with carbonate-based body structures.",
+        "location": "Ch. 3: Threats and Actions, table/inline text",
+        "relevant_elements": ["1.1", "3.5", "3.6", "3.7"]
+      },
+      {
+        "text": "milder winters allow more introduced species to establish, extreme summer temperatures and drought will further shrink access to cool water refugia on dammed streams",
+        "location": "Ch. 3: Threats and Actions, CLIMATE CHANGE AND SEVERE WEATHER section",
+        "relevant_elements": ["1.1", "3.7", "3.5"]
+      },
+      {
+        "text": "Diseases and pathogens, like fungal infections that spread from commercially raised bees to native bee populations and ranavirus in amphibians, are also prevalent and expected to increase in frequency with climate change.",
+        "location": "Ch. 3: Threats and Actions, figure/inline",
+        "relevant_elements": ["3.7", "3.6"]
+      },
+      {
+        "text": "Corridors connect natural core areas and smaller habitats on the landscape and allow for the movement of both migrating species and species within their ranges. They also allow for the movement of habitat types, populations, and gene flow among populations and locations as species shift in response to climate change.",
+        "location": "Ch. 3: Threats and Actions, CONSERVATION OPPORTUNITY AREAS section",
+        "relevant_elements": ["1.3", "1.4", "4.1", "4.2"]
+      },
+      {
+        "text": "Major and minor corridors are identified based on the locations of the core natural areas and other important natural systems identified above in relation to one another. These were informed by TNC's regional connectivity analysis, part of the Northeast Terrestrial Resilience project, as well as by the location of natural corridors provided by existing river systems.",
+        "location": "Ch. 3: Threats and Actions, CONSERVATION OPPORTUNITY AREAS section",
+        "relevant_elements": ["1.4", "2.4", "4.1"]
+      },
+      {
+        "text": "The sites with diverse ELU types will likely host a variety of microclimates that provide opportunities for natural communities to shift and persevere in the face of changing temperature and precipitation patterns.",
+        "location": "Ch. 3: Threats and Actions, CONSERVATION OPPORTUNITY AREAS section",
+        "relevant_elements": ["1.1", "1.3", "4.1"]
+      },
+      {
+        "text": "Species with specific needs (e.g., dependent on a rare host plant)... Climate Vulnerability: Species where Concern Levels are expected to increase in the coming decades due to climate change.",
+        "location": "Ch. 1: IDENTIFYING SPECIES OF GREATEST CONSERVATION NEED",
+        "relevant_elements": ["1.1", "1.3"]
+      },
+      {
+        "text": "brackish marshes as the most vulnerable to the impacts of climate change, especially rising sea level. The major causes of impairment in coastal and estuarine waters of Rhode Island are low dissolved oxygen and pathogens",
+        "location": "Ch. 2: Habitats, WETLANDS section",
+        "relevant_elements": ["1.1", "3.5"]
+      },
+      {
+        "text": "Loss and fragmentation of natural lands, especially forests, are intimately linked to the effects of climate change because the dispersal and migration of forest plants and animals are disrupted by development and roads.",
+        "location": "Ch. 3: Threats and Actions, table/inline text",
+        "relevant_elements": ["1.3", "1.4", "3.5"]
+      },
+      {
+        "text": "the loss of beach area due to sea level rise poses a threat to horseshoe crab spawning habitat.",
+        "location": "Ch. 3: Threats and Actions, table/inline text",
+        "relevant_elements": ["3.5", "3.6"]
+      },
+      {
+        "text": "action is needed now, and we know enough to begin to act. Without state capacity or even expertise for many of the taxa addressed in the RIWAP, one of the primary responsibilities of the State is to work to conserve the integrity and connectedness of 'the stage' upon which all these species' live.",
+        "location": "Ch. 3: Threats and Actions, CLIMATE CHANGE AND SEVERE WEATHER section",
+        "relevant_elements": ["4.2", "4.5"]
+      },
+      {
+        "text": "This is supported by Staudinger et al. 2024 in, for example, the actions menu provided with focal topics and example approaches to address climate stressors. Many RIWAP database actions match the spirit of these projects (e.g., protect and steward remaining intact core forest habitats, identify and protect cold water habitat, reconnect high quality stream reaches and re-establish in-stream flows, retain and increase shade along banks, and increase coordination to steward native plants and native seed networks).",
+        "location": "Ch. 3: Threats and Actions, CLIMATE CHANGE AND SEVERE WEATHER section",
+        "relevant_elements": ["4.2", "4.4", "4.5"]
+      },
+      {
+        "text": "Rhode Island incorporated climate change actions with the most likelihood to continue or be undertaken and will continue to look to the NECASC report as a resource for wildlife biologists and land stewards when capacity allows for additional planning and execution on the ground.",
+        "location": "Ch. 3: Threats and Actions, THREATS AND ACTIONS section",
+        "relevant_elements": ["4.5", "4.4"]
+      },
+      {
+        "text": "In advance of the 2025 SWAPs, TNC completed an updated Conservation Status of Natural Habitats in the Northeast (2023), which revised the conservation land dataset, land cover change, connectivity, dams, and models for climate resilience, connectivity, recognized biodiversity areas, and carbon stocks (Anderson et. al 2023).",
+        "location": "Ch. 4: Monitoring and Adaptive Management, figure/inline",
+        "relevant_elements": ["2.4", "4.1"]
+      },
+      {
+        "text": "This process incorporated existing spatial priorities developed from other regional, state, and local conservation planning efforts compatible with the RIWAP, including Northeast RCN and partner landscape level spatial mapping projects (e.g.,NE Terrestrial and Aquatic Habitat Maps, Geospatial Condition Analysis (Anderson et al. 2013), Designing Sustainable Landscapes (UMASS 2015)), and additional local and statewide resources (e.g. RhodeMap RI, Natural Heritage Areas, IBAs, TNC connectivity mapping and priority sites).",
+        "location": "Ch. 3: Threats and Actions, CONSERVATION OPPORTUNITY AREAS section",
+        "relevant_elements": ["2.4", "4.1"]
+      },
+      {
+        "text": "COAs contain and highlight locations with significant existing or potential wildlife and habitat resources and areas where partners can contribute to plan, implement, and evaluate conservation actions",
+        "location": "Ch. 3: Threats and Actions, CONSERVATION OPPORTUNITY AREAS section",
+        "relevant_elements": ["4.1", "3.4"]
+      },
+      {
+        "text": "Rhode Island has been growing warmer and wetter since 1895. Average annual temperature has increased by about 4° F between 1895 and 2023, faster than global mean temperature and that of the Northeast generally (+2.5° F).",
+        "location": "Ch. 2: Habitats, CLIMATE section",
+        "relevant_elements": ["1.1", "3.5"]
+      },
+      {
+        "text": "This includes more frequent occurrences of warm sea surface temperature anomalies in recent years as well as increased frequency, duration, and intensity of marine heatwaves in the past decade.",
+        "location": "Ch. 2: Habitats, CLIMATE section",
+        "relevant_elements": ["3.5", "3.6"]
+      },
+      {
+        "text": "the primary responsibilities of the State is to work to conserve the integrity and connectedness of 'the stage' upon which all these species' live. This is supported by Staudinger et al. 2024",
+        "location": "Ch. 3: Threats and Actions, CLIMATE CHANGE AND SEVERE WEATHER section",
+        "relevant_elements": ["1.4", "4.2", "4.4"]
+      },
+      {
+        "text": "developing habitat suitability models; restoring and enhancing shellfish beds, submerged aquatic vegetation, and other key marine habitats",
+        "location": "Ch. 4: IMPORTANT DATA GAPS IN RHODE ISLAND",
+        "relevant_elements": ["2.2"]
+      },
+      {
+        "text": "Species where Concern Levels are expected to increase in the coming decades due to climate change.",
+        "location": "Ch. 1: IDENTIFYING SPECIES OF GREATEST CONSERVATION NEED",
+        "relevant_elements": ["1.1"]
+      },
+      {
+        "text": "The RCN Program formalizes a cooperative approach to address SGCN needs across multiple states and aims to develop, coordinate, and implement conservation actions that are regional/sub-regional in scope",
+        "location": "Ch. 3: Threats and Actions, LACK OF INFORMATION section",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "Rhode Island is committed to an adaptive management approach to fish and wildlife conservation and will track effectiveness measures to obtain the information necessary to do so",
+        "location": "Ch. 4: MONITORING AND ADAPTIVE MANAGEMENT",
+        "relevant_elements": ["4.3", "4.5"]
+      },
+      {
+        "text": "the RIWAP document will be amended as needed and revised every ten years. A five-year review and evaluation schedule is the most common timeframe for existing management plans in Rhode Island",
+        "location": "Ch. 5: 10-Year Review Procedure, RIWAP REVIEW SCHEDULE",
+        "relevant_elements": ["4.3"]
+      }
+    ]
+  },
+  "concepts": {
+    "climate_vulnerability": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "climate change vulnerability assessments consistently identify brackish marshes as the most vulnerable to the impacts of climate change, especially rising sea level.",
+          "location": "Ch. 2: Habitats, WETLANDS section",
+          "sub_component": "exposure",
+          "citations": []
+        },
+        {
+          "text": "Climate Vulnerability: Species where Concern Levels are expected to increase in the coming decades due to climate change.",
+          "location": "Ch. 1: IDENTIFYING SPECIES OF GREATEST CONSERVATION NEED",
+          "sub_component": "exposure",
+          "citations": []
+        },
+        {
+          "text": "The sites with diverse ELU types will likely host a variety of microclimates that provide opportunities for natural communities to shift and persevere in the face of changing temperature and precipitation patterns.",
+          "location": "Ch. 3: Threats and Actions, CONSERVATION OPPORTUNITY AREAS section",
+          "sub_component": "exposure",
+          "citations": []
+        }
+      ],
+      "absence_note": "The document invokes climate vulnerability and exposure extensively (temperature increase, sea level rise, marine heatwaves, projected warming). However, it does not explicitly frame adaptive capacity as a component of vulnerability for its focal species or habitats — dispersal limitation is mentioned once in the context of development barriers to range shifts, but is not framed as an adaptive capacity dimension. Score is 2 (exposure referenced, adaptive capacity not explicitly discussed as a vulnerability axis)."
+    },
+    "adaptive_capacity_specificity": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "one of the most concerning compounding effects of climate change and other threats is that, although climate pressures are causing species range shifts, development and roadways have created a matrix of inhospitable habitat that may inhibit such movement.",
+          "location": "Ch. 3: Threats and Actions, table/inline text",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document touches on movement/dispersal as constrained by development in the context of climate-driven range shifts, which is an adaptive capacity component, but does not explicitly frame this as 'adaptive capacity' or enumerate specific components (dispersal, evolutionary potential, etc.) in that framing. Score is 1 (referenced non-specifically)."
+    },
+    "adaptive_capacity_components": {
+      "demography": {
+        "present": false,
+        "evidence": []
+      },
+      "distribution": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "one of the most concerning compounding effects of climate change and other threats is that, although climate pressures are causing species range shifts, development and roadways have created a matrix of inhospitable habitat that may inhibit such movement.",
+            "location": "Ch. 3: Threats and Actions, table/inline text",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "movement": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Loss and fragmentation of natural lands, especially forests, are intimately linked to the effects of climate change because the dispersal and migration of forest plants and animals are disrupted by development and roads.",
+            "location": "Ch. 3: Threats and Actions, table/inline text",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "evolutionary_potential": {
+        "present": false,
+        "evidence": []
+      },
+      "ecological_dependencies": {
+        "present": false,
+        "evidence": []
+      },
+      "abiotic_niche": {
+        "present": false,
+        "evidence": []
+      },
+      "life_history": {
+        "present": false,
+        "evidence": []
+      }
+    },
+    "connectivity": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Corridors connect natural core areas and smaller habitats on the landscape and allow for the movement of both migrating species and species within their ranges. They also allow for the movement of habitat types, populations, and gene flow among populations and locations as species shift in response to climate change.",
+          "location": "Ch. 3: Threats and Actions, CONSERVATION OPPORTUNITY AREAS section",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "one of the most concerning compounding effects of climate change and other threats is that, although climate pressures are causing species range shifts, development and roadways have created a matrix of inhospitable habitat that may inhibit such movement.",
+          "location": "Ch. 3: Threats and Actions, table/inline text",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    }
+  },
+  "tools": {
+    "vulnerability_models": {
+      "evaluable": true,
+      "score": 2,
+      "named_tools": ["CCVI", "climate change vulnerability assessments"],
+      "evidence": [
+        {
+          "text": "climate change vulnerability assessments consistently identify brackish marshes as the most vulnerable to the impacts of climate change, especially rising sea level.",
+          "location": "Ch. 2: Habitats, WETLANDS section",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Climate Vulnerability: Species where Concern Levels are expected to increase in the coming decades due to climate change.",
+          "location": "Ch. 1: IDENTIFYING SPECIES OF GREATEST CONSERVATION NEED",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "Climate change vulnerability assessments are referenced as having been applied to RI habitats (brackish marshes identified as most vulnerable) and as a criterion informing the SGCN selection process. This meets the 'applied to the document's focal subjects' threshold. Named as 'climate change vulnerability assessments' rather than CCVI specifically."
+    },
+    "niche_models": {
+      "evaluable": true,
+      "score": 1,
+      "named_tools": ["SLAMM", "habitat suitability models"],
+      "evidence": [
+        {
+          "text": "Application of SLAMM (Sea Level Affecting Marshes Model) modeling at several federal wildlife refuges in the Northeast projected that the initial impact of sea level rise will be an increase in salt marsh (saline) habitats at the expense of brackish habitats",
+          "location": "Ch. 2: Habitats, WETLANDS section",
+          "sub_component": null,
+          "citations": ["Grund and Walberg 2013"]
+        },
+        {
+          "text": "developing habitat suitability models; restoring and enhancing shellfish beds, submerged aquatic vegetation, and other key marine habitats",
+          "location": "Ch. 4: IMPORTANT DATA GAPS IN RHODE ISLAND",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "SLAMM is a habitat change model for marshes under sea level rise scenarios, which is more closely related to niche/habitat suitability modeling than other categories. It was applied to RI coastal areas. Habitat suitability models are also referenced as a future development goal for marine species. However, the main application of SLAMM described here is for habitat-level modeling, not species distribution modeling per se. Score of 1 as SLAMM results are referenced for habitat projections (applied to RI's coast) and species distribution/habitat suitability models are referenced as a planned future tool."
+    },
+    "climate_models": {
+      "evaluable": true,
+      "score": 2,
+      "named_tools": ["SLAMM"],
+      "evidence": [
+        {
+          "text": "Climate models identify 2035-2040 as the critical point when future scenario projections begin to diverge dramatically depending on emissions. In a medium emissions scenario, by 2100 RI is projected to experience as much as an additional up to 7˚F warming a tenfold increase in days with temperatures above 95˚F",
+          "location": "Ch. 3: Threats and Actions, CLIMATE CHANGE AND SEVERE WEATHER section",
+          "sub_component": null,
+          "citations": ["Staudinger et al. 2025"]
+        }
+      ],
+      "absence_note": "Climate models are explicitly referenced as a category (\"Climate models identify 2035-2040 as the critical point...\") and their projections are applied to Rhode Island's future conditions to 2100, with emission scenarios referenced. This satisfies the 'applied' criterion. No specific GCM or CMIP product is named, but the document uses modeled projections substantively for planning.",
+      "time_horizon_years": [2100],
+      "emission_scenarios": ["medium emissions scenario"]
+    },
+    "connectivity_models": {
+      "evaluable": true,
+      "score": 2,
+      "named_tools": ["TNC Northeast Terrestrial Resilience project connectivity analysis"],
+      "evidence": [
+        {
+          "text": "Major and minor corridors are identified based on the locations of the core natural areas and other important natural systems identified above in relation to one another. These were informed by TNC's regional connectivity analysis, part of the Northeast Terrestrial Resilience project, as well as by the location of natural corridors provided by existing river systems.",
+          "location": "Ch. 3: Threats and Actions, CONSERVATION OPPORTUNITY AREAS section",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "In advance of the 2025 SWAPs, TNC completed an updated Conservation Status of Natural Habitats in the Northeast (2023), which revised the conservation land dataset, land cover change, connectivity, dams, and models for climate resilience, connectivity, recognized biodiversity areas, and carbon stocks (Anderson et. al 2023).",
+          "location": "Ch. 4: Monitoring and Adaptive Management, figure/inline",
+          "sub_component": null,
+          "citations": ["Anderson et. al 2023"]
+        }
+      ],
+      "absence_note": "TNC's regional connectivity analysis (Northeast Terrestrial Resilience project) is cited as informing the RI corridor mapping in COAs, meeting the 'applied to focal subjects' criterion even though the modeling was conducted by a partner."
+    }
+  },
+  "context": {
+    "management_scale": {
+      "local": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Tier 4 actions are the most specific and may be necessary for only one or perhaps a small cluster of wildlife species. Examples of Tier 4 actions might include nest-box programs for nesting birds or a focused survey and educational program for Peregrine Falcon.",
+            "location": "Ch. 3: Threats and Actions, RIWAP HIERARCHY OF THREATS AND ACTIONS",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "site": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "COAs contain and highlight locations with significant existing or potential wildlife and habitat resources and areas where partners can contribute to plan, implement, and evaluate conservation actions",
+            "location": "Ch. 3: Threats and Actions, CONSERVATION OPPORTUNITY AREAS section",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "watershed": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "from the maritime beaches of South County and Block Island to the extensive wetland systems of the Wood-Pawcatuck River watershed, to the rolling forests of western Rhode Island",
+            "location": "Ch. 2: Habitats, table/inline",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "city": {
+        "present": false,
+        "evidence": []
+      },
+      "county": {
+        "present": false,
+        "evidence": []
+      },
+      "within_state_region": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Today's forests are concentrated in the western part of the state, where RIDEM has several large, preserved tracts and development pressures have been lower than in the highly urbanized coastal areas.",
+            "location": "Ch. 2: Habitats, FORESTED UPLANDS section",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "state": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The goal of the RIWAP is to provide direction of wildlife conservation efforts in Rhode Island for the next decade.",
+            "location": "Executive Summary",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "multistate": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The RCN Program formalizes a cooperative approach to address SGCN needs across multiple states and aims to develop, coordinate, and implement conservation actions that are regional/sub-regional in scope and build upon the many regional initiatives that already exist.",
+            "location": "Ch. 3: Threats and Actions, LACK OF INFORMATION section",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "national": {
+        "present": false,
+        "evidence": []
+      },
+      "transnational": {
+        "present": false,
+        "evidence": []
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Corridors connect natural core areas and smaller habitats on the landscape and allow for the movement of both migrating species and species within their ranges. They also allow for the movement of habitat types, populations, and gene flow among populations and locations as species shift in response to climate change.",
+            "location": "Ch. 3: Threats and Actions, CONSERVATION OPPORTUNITY AREAS section",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecoregion": {
+        "present": false,
+        "evidence": []
+      },
+      "province": {
+        "present": false,
+        "evidence": []
+      },
+      "section": {
+        "present": false,
+        "evidence": []
+      },
+      "subsection": {
+        "present": false,
+        "evidence": []
+      },
+      "lake": {
+        "present": false,
+        "evidence": []
+      },
+      "river": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "In freshwater river systems, maximum habitat availability and function are provided when fish can move unimpeded between headwater streams, estuaries, and marine environments.",
+            "location": "Ch. 3: Threats and Actions, CONSERVATION OPPORTUNITY AREAS section",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "district": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["Wood-Pawcatuck watershed", "Narragansett Bay", "Block Island", "Blackstone River", "Pawcatuck River"]
+    },
+    "biological_unit_score": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "one of the most concerning compounding effects of climate change and other threats is that, although climate pressures are causing species range shifts, development and roadways have created a matrix of inhospitable habitat that may inhibit such movement.",
+          "location": "Ch. 3: Threats and Actions, table/inline text",
+          "sub_component": "species",
+          "citations": []
+        },
+        {
+          "text": "Corridors connect natural core areas and smaller habitats on the landscape and allow for the movement of both migrating species and species within their ranges. They also allow for the movement of habitat types, populations, and gene flow among populations and locations as species shift in response to climate change.",
+          "location": "Ch. 3: Threats and Actions, CONSERVATION OPPORTUNITY AREAS section",
+          "sub_component": "habitat",
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "biological_unit_components": {
+      "species": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "one of the most concerning compounding effects of climate change and other threats is that, although climate pressures are causing species range shifts, development and roadways have created a matrix of inhospitable habitat that may inhibit such movement.",
+            "location": "Ch. 3: Threats and Actions, table/inline text",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "population": {
+        "present": false,
+        "evidence": []
+      },
+      "habitat": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Corridors connect natural core areas and smaller habitats on the landscape and allow for the movement of both migrating species and species within their ranges. They also allow for the movement of habitat types, populations, and gene flow among populations and locations as species shift in response to climate change.",
+            "location": "Ch. 3: Threats and Actions, CONSERVATION OPPORTUNITY AREAS section",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecosystem": {
+        "present": false,
+        "evidence": []
+      },
+      "community": {
+        "present": false,
+        "evidence": []
+      },
+      "genotype_phenotype": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["brackish marsh", "salt marsh", "SGCN species", "warm-water marine species", "horseshoe crab"]
+    },
+    "partnerships_and_funding": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "The RCN Program formalizes a cooperative approach to address SGCN needs across multiple states and aims to develop, coordinate, and implement conservation actions that are regional/sub-regional in scope and build upon the many regional initiatives that already exist. The RCN program utilizes a funding mechanism that is equitable to all Northeast states and Washington, D.C, creating a base of funding for regional projects.",
+          "location": "Ch. 3: Threats and Actions, LACK OF INFORMATION section",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document describes partnerships (TNC, URI, RINHS, federal agencies, NEFWDTC) and the RCN funding program in the context of conservation broadly, but does not describe strategic dedicated funding or active partnerships specifically for range-shift work. Funding gaps are acknowledged. Score 1 reflects some funding and partnerships described but limited or aspirational in the range-shift-specific context."
+    },
+    "climate_threat_habitat_degradation": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "sea levels have risen by about 0.94 feet around Newport, RI over the last century. As Rhode Island has already begun to witness, seemingly small increases in sea level can have large impacts along the coast due to storm surges and exceptionally high tides.",
+          "location": "Ch. 2: Habitats, CLIMATE section",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "climate change vulnerability assessments consistently identify brackish marshes as the most vulnerable to the impacts of climate change, especially rising sea level.",
+          "location": "Ch. 2: Habitats, WETLANDS section",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "the loss of beach area due to sea level rise poses a threat to horseshoe crab spawning habitat.",
+          "location": "Ch. 3: Threats and Actions, table/inline text",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_threat_species_vital_rates": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "increasing CO 2 concentrations have driven changes in pH, leading to ocean acidification. This restricts growth and reduces survivorship of shellfish, crustaceans, and other species with carbonate-based body structures.",
+          "location": "Ch. 3: Threats and Actions, table/inline text",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "Ocean acidification directly affecting survivorship of shellfish and crustaceans satisfies the 'climate event → impact on species vital rate' criterion. Marine heatwaves are also referenced, though the vital rate framing is somewhat indirect there."
+    },
+    "climate_threat_biotic_stressors": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "milder winters allow more introduced species to establish, extreme summer temperatures and drought will further shrink access to cool water refugia on dammed streams",
+          "location": "Ch. 3: Threats and Actions, CLIMATE CHANGE AND SEVERE WEATHER section",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Diseases and pathogens, like fungal infections that spread from commercially raised bees to native bee populations and ranavirus in amphibians, are also prevalent and expected to increase in frequency with climate change.",
+          "location": "Ch. 3: Threats and Actions, figure/inline",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    }
+  },
+  "actions": {
+    "priority_habitat_identification": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "The resources identified on this map are intended to capture habitats with high conservation value by identifying the largest intact and connected blocks of common habitats, as well as other unique places based on rare, resilient, or productive natural systems. This map is a general guide for strategic investment in Rhode Island's natural areas.",
+          "location": "Ch. 3: Threats and Actions, CONSERVATION OPPORTUNITY AREAS section",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "The sites with diverse ELU types will likely host a variety of microclimates that provide opportunities for natural communities to shift and persevere in the face of changing temperature and precipitation patterns.",
+          "location": "Ch. 3: Threats and Actions, CONSERVATION OPPORTUNITY AREAS section",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Habitats with high habitat value and high vulnerability: SWAP Key Habitats ranked highest for Biodiversity Value and Vulnerability (Floodplain, Hemlock/Hardwood, and Northern Hardwood Forests; Pitch Pine Woodland/ Barrens and Inland Sand Barrens; Wet Meadow, Sea Level Fens, and Atlantic White Cedar Swamp; Coastal Streams and Freshwater Tidal Marsh; Mud Flats, Sand Flats, Salt Marsh, and Brackish Marsh; Rocky Shore; and Brackish Sub-aquatic Beds).",
+          "location": "Ch. 3: Threats and Actions, CONSERVATION OPPORTUNITY AREAS section",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "targeted_range_shift_actions": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Corridors connect natural core areas and smaller habitats on the landscape and allow for the movement of both migrating species and species within their ranges. They also allow for the movement of habitat types, populations, and gene flow among populations and locations as species shift in response to climate change.",
+          "location": "Ch. 3: Threats and Actions, CONSERVATION OPPORTUNITY AREAS section",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document explicitly frames corridor protection/establishment as enabling species to shift in response to climate change (structural facilitation). This earns a 1. No direct manipulation actions (assisted migration, translocation for climate purposes) are discussed."
+    },
+    "time_bound_and_monitoring": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "the RIWAP document will be amended as needed and revised every ten years. A five-year review and evaluation schedule is the most common timeframe for existing management plans in Rhode Island",
+          "location": "Ch. 5: 10-Year Review Procedure, RIWAP REVIEW SCHEDULE",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document describes a 10-year revision cycle, annual reporting through TRACS, and a 5-year review cycle, which represents time-bound plan-level structure. However, the codebook requires time-binding at the action level (specific deadlines on individual actions) to score higher than 1. The action urgency categories ('Initiate immediately,' 'Initiate within 5 years,' etc.) are noted in the action descriptor table, which gives urgency framing to actions, but effectiveness monitoring tied to specific range-shift actions is not operationalized at that level in the text reviewed. Score 1 for plan-level deadlines and adaptive management principles."
+    },
+    "evidence_of_efficacy": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "This is supported by Staudinger et al. 2024 in, for example, the actions menu provided with focal topics and example approaches to address climate stressors. Many RIWAP database actions match the spirit of these projects (e.g., protect and steward remaining intact core forest habitats, identify and protect cold water habitat, reconnect high quality stream reaches and re-establish in-stream flows, retain and increase shade along banks, and increase coordination to steward native plants and native seed networks).",
+          "location": "Ch. 3: Threats and Actions, CLIMATE CHANGE AND SEVERE WEATHER section",
+          "sub_component": null,
+          "citations": ["Staudinger et al. 2024"]
+        }
+      ],
+      "absence_note": "The document references the NECASC climate synthesis as supporting the rationale for several actions, which provides some justification but falls in the 'general or vague ecological assumptions presented as first principles' category — the actions menu is described as providing 'example approaches' rather than evidence of tested efficacy. Score 1.",
+      "projects": ["NECASC climate synthesis (Staudinger et al. 2024/2025): Referenced as a resource providing an actions menu with focal topics and example approaches to address climate stressors; RIWAP actions are described as matching the spirit of these recommendations, but no specific efficacy data or case study outcomes are cited."]
+    },
+    "adaptation_planning_frameworks": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Rhode Island is committed to an adaptive management approach to fish and wildlife conservation and will track effectiveness measures to obtain the information necessary to do so",
+          "location": "Ch. 4: MONITORING AND ADAPTIVE MANAGEMENT",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "Adaptive management is referenced throughout as a guiding principle for plan implementation, and is explicitly linked to responding to changing conditions including climate change. However, specific named climate adaptation planning frameworks (RAD, RRT, CCVA, SBDA, scenario planning, etc.) are not named. The NECASC report is referenced as an 'actions menu' resource but not named as a specific framework. Score 1 for non-specific reference to adaptive management in a climate context."
+    }
+  },
+  "coding_meta": {
+    "coder": "llm:claude-sonnet-4-6",
+    "model": "claude-sonnet-4-6",
+    "provider": "claude",
+    "codebook_version": "0.4",
+    "ingest": "text",
+    "design": "single",
+    "temperature": null,
+    "thinking": null,
+    "thinking_effort": null,
+    "coded_at": "2026-07-06T18:39:25Z",
+    "notes": {}
+  }
+}

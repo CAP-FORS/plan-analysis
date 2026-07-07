@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main"></title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">AEEE00B2208284269789219DA7D8BB0B</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.1" ident="GROBID" when="2026-07-06T16:20+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Short-eared Owl (Asio flammeus) 1 1 Black-backed Woodpecker (Picoides arcticus) 1 Olive-sided Flycatcher (Contopus cooperi) 2 Canada Jay (Perisoreus canadensis) 2 Boreal Chickadee (Poecile hudsonicus) 2 Ruby-crowned Kinglet (Corthylio calendula) 1 Loggerhead Shrike (Lanius ludovicianus) 1 Bell's Vireo (Vireo bellii) 2 Golden-winged Warbler (Vermivora chrysoptera) 3 2 Connecticut Warbler (Oporornis agilis) 1 SGCN x Natural Community (Habitat) Association Scores High/major (3) -Moderate/important (2) -Low/present (1)</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0" /><figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Bees, Wasps, Ants (Hymenoptera)</head><label></label><figDesc>Species of Greatest Conservation Need x Natural Community Association ScoresWisconsin Wildlife Action Plan 2025-2035</figDesc><table><row><cell>SGCNs</cell><cell>SGCN x Natural Community (Habitat) Association Scores High/major (3) -Moderate/important (2) -Low/present (1)</cell><cell>Alder Thicket</cell><cell cols="4">American Lotus-lily Marsh Wetland: Marsh, Shrub Coastal Plain Marsh Emergent Marsh Floating-leaved Marsh Interdunal Wetland Muskeg Oligotrophic Marsh Shrub Carr Great Lakes Ridge and Swale</cell><cell>Submergent Marsh</cell><cell>Wild Rice Marsh</cell></row><row><cell cols="2">Yellow-breasted Chat (Icteria virens)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>1</cell></row><row><cell cols="2">Yellow-headed Blackbird (Xanthocephalus xanthocephalus)</cell><cell></cell><cell></cell><cell>3 3</cell><cell></cell><cell>2</cell></row><row><cell cols="2">Mammals</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell cols="2">Little Brown Bat (Myotis lucifugus)</cell><cell>1</cell><cell></cell><cell>2 2 2</cell><cell cols="2">1 2 2 2 2</cell></row><row><cell cols="2">Northern Long-eared Bat (Myotis septentrionalis)</cell><cell></cell><cell></cell><cell>1 1 1</cell><cell></cell><cell>1 1 1</cell></row><row><cell cols="2">Silver-haired Bat (Lasionycteris noctivagans)</cell><cell></cell><cell></cell><cell>1 1</cell><cell></cell></row><row><cell cols="2">Tricolored Bat (Perimyotis subflavus)</cell><cell></cell><cell></cell><cell cols="2">1 1 1 1 1</cell></row><row><cell cols="2">Northern Flying Squirrel (Glaucomys sabrinus)</cell><cell></cell><cell></cell><cell>1</cell><cell></cell></row><row><cell cols="2">Woodland Jumping Mouse (Napaeozapus insignis)</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell cols="2">Reptiles</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell cols="2">Wood Turtle (Glyptemys insculpta)</cell><cell>3</cell><cell></cell><cell></cell><cell></cell><cell>3</cell></row><row><cell cols="2">Blanding's Turtle (Emydoidea blandingii)</cell><cell cols="4">1 3 3 3 3 2 1</cell><cell>1 2 3 3</cell></row><row><cell cols="2">False Map Turtle (Graptemys pseudogeographica)</cell><cell></cell><cell>1</cell><cell>1 1</cell><cell></cell><cell>1 1</cell></row><row><cell cols="2">Prairie Skink (Plestiodon septentrionalis)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>1</cell></row><row><cell cols="2">Queensnake (Regina septemvittata)</cell><cell>1</cell><cell></cell><cell>3</cell><cell></cell><cell>3 2 1</cell></row><row><cell cols="2">Butler's Gartersnake (Thamnophis butleri)</cell><cell>1</cell><cell></cell><cell>2</cell><cell>1</cell><cell>3</cell></row><row><cell cols="2">Western Ribbonsnake (Thamnophis proximus)</cell><cell cols="2">1 1</cell><cell>2 1</cell><cell></cell><cell>3 1</cell></row><row><cell cols="2">Plains Gartersnake (Thamnophis radix)</cell><cell></cell><cell></cell><cell>1</cell><cell></cell><cell>1</cell></row><row><cell cols="2">Eastern Ribbonsnake (Thamnophis saurita)</cell><cell>2</cell><cell></cell><cell>2</cell><cell></cell><cell>3 1</cell></row><row><cell cols="2">Eastern Massasauga (Sistrurus catenatus)</cell><cell>2</cell><cell></cell><cell>1</cell><cell></cell><cell>3</cell></row><row><cell cols="2">I-Rusty Patched Bumble Bee (Bombus affinis)</cell><cell></cell><cell></cell><cell>1</cell><cell></cell></row><row><cell cols="2">Frigid Bumble Bee (Bombus frigidus)</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell cols="2">Yellowbanded Bumble Bee (Bombus terricola)</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell cols="2">Sanderson's Bumble Bee (Bombus sandersoni)</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell cols="2">Fernald Cuckoo Bumble Bee (Bombus flavidus)</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell cols="2">I-Butterflies, Moths (Lepidoptera)</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell cols="2">Frigga Fritillary (Boloria frigga)</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell cols="2">Freija Fritillary (Boloria freija)</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell cols="2">Arctic Fritillary (Boloria chariclea)</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell cols="2">Red-disked Alpine (Erebia discoidalis)</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell cols="2">Basistriga Owlet Moth (Hypocoena basistriga)</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell cols="2">I-Crayfish, Amphipods, Sow Bugs (Malacostraca)</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell cols="2">Prairie Crayfish (Procambarus gracilis)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>2</cell></row></table></figure>
+		</body>
+		<back>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0" />			</div>
+			<div type="references">
+
+				<listBibl/>
+			</div>
+		</back>
+	</text>
+</TEI>
+

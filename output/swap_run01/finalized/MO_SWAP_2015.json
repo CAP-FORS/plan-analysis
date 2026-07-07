@@ -1,0 +1,687 @@
+{
+  "document_meta": {
+    "title": "Missouri State Wildlife Action Plan",
+    "year": 2015,
+    "jurisdiction": "Missouri",
+    "document_type": "SWAP",
+    "document_id": "MO_SWAP_2015",
+    "page_count": 253
+  },
+  "orientation": {
+    "summary": "The 2015 Missouri State Wildlife Action Plan (SWAP) is a state-level biodiversity conservation plan produced by the Missouri Department of Conservation. It is habitat-based, centered on Conservation Opportunity Areas (COAs) identified through GIS prioritization. The document acknowledges climate change as an emerging threat to fish and wildlife but treats it primarily as one among many stressors rather than as a central organizing framework; its posture toward range shifts is indirect — connectivity and habitat resilience are mentioned as responses to climate-driven range adjustments, but no targeted range-shift science or modeling is performed within the document itself. The plan references a 2014 U.S. Forest Service vulnerability assessment of the Central Hardwoods Region (Brandt et al. 2014) as an externally-produced analysis, rather than conducting its own; all climate modeling and scenario analysis comes from that cited external report.",
+    "evidence_index": [
+      {
+        "text": "Climate change is now widely recognized as a potential major threat to fish and wildlife and the habitat systems on which they depend.",
+        "location": "ELEMENTS 3 AND 4: THREATS AND ACTIONS / Climate Change",
+        "relevant_elements": ["1.1", "3.5", "3.6", "3.7"]
+      },
+      {
+        "text": "Climate change is a particularly challenging threat because of the ways in which it may interact with other threats, such as invasive species and disease, and because of the degree of uncertainty regarding the timing, seasonality, intensity and sometimes even direction of the impacts that may occur as a result of changing climate.",
+        "location": "ELEMENTS 3 AND 4: THREATS AND ACTIONS / Climate Change",
+        "relevant_elements": ["1.1", "3.7"]
+      },
+      {
+        "text": "Increasing resilience has been identified as a primary method for minimizing the impacts of climate change on fish, forest and wildlife resources.",
+        "location": "ELEMENTS 3 AND 4: THREATS AND ACTIONS / Climate Change",
+        "relevant_elements": ["1.1", "1.2", "4.5"]
+      },
+      {
+        "text": "Missouri's approach also promotes connectivity within and among habitat systems by prioritizing those areas that are larger, more intact, nearer to other conservation areas, and/or where there is more opportunity to expand conservation action. Improving connectivity will facilitate range adjustments that may occur in many species adapting to climate change.",
+        "location": "ELEMENTS 3 AND 4: THREATS AND ACTIONS / Climate Change",
+        "relevant_elements": ["1.4", "4.2", "1.2", "1.3"]
+      },
+      {
+        "text": "Many migratory species, such as mallards and other dabbling ducks, rely on temperature cues to signal northward and southward migration each year. As temperatures warm and precipitation patterns change, some wildlife species may experience a shift in breeding and migration dates, as has already been observed for North American wood warblers.",
+        "location": "ELEMENTS 3 AND 4: THREATS AND ACTIONS / Climate Change",
+        "relevant_elements": ["1.1", "3.6", "3.7", "1.3"]
+      },
+      {
+        "text": "Changes in climate will also create additional management challenges as conditions become more favorable for invasive plant species not currently prevalent in the assessment area.",
+        "location": "ELEMENTS 3 AND 4: THREATS AND ACTIONS / Climate Change",
+        "relevant_elements": ["3.7"]
+      },
+      {
+        "text": "in 2011 the U.S. Forest Service, Northern Research Station began a project to incorporate climate change considerations into forest management for the Central Hardwoods Region... The assessment was published in 2014 (see Brandt et al. 2014)... The assessment evaluated the vulnerability of terrestrial ecosystems in the Central Hardwoods Region to a range of future climates.",
+        "location": "Elements 3 and 4 (Continued) [table]",
+        "relevant_elements": ["1.1", "2.1", "2.3"]
+      },
+      {
+        "text": "Model projections suggest that northern mesic species such as sugar maple, American beech, and white ash may fare worse under future conditions compared to current climate conditions, but other species such as post oak and shortleaf and loblolly pine may benefit from projected changes in climate.",
+        "location": "Elements 3 and 4 (Continued) [table]",
+        "relevant_elements": ["1.1", "2.2", "2.3", "1.3"]
+      },
+      {
+        "text": "Mesic upland forests were determined to be the most vulnerable, whereas many systems adapted to fire and drought, such as open woodlands, savannas, and glades, were perceived as less vulnerable to projected changes in climate.",
+        "location": "Elements 3 and 4 (Continued) [table]",
+        "relevant_elements": ["1.1", "2.1"]
+      },
+      {
+        "text": "Climate trends projected for the next 100 years by using downscaled global climate model data indicate a potential increase in mean annual temperature of 2 to 7 °F for this region.",
+        "location": "Elements 3 and 4 (Continued) [table]",
+        "relevant_elements": ["2.3", "1.1"]
+      },
+      {
+        "text": "Projections for precipitation show an increase in winter and spring precipitation; summer and fall precipitation projections differed by model.",
+        "location": "Elements 3 and 4 (Continued) [table]",
+        "relevant_elements": ["2.3"]
+      },
+      {
+        "text": "Fish and other aquatic organisms are also expected to be affected by a combination of both direct and indirect climate change effects. Many fish species in the region are sensitive to even slight changes in water temperatures and experience negative effects on growth at extremely high water temperatures.",
+        "location": "Elements 3 and 4 (Continued) [table]",
+        "relevant_elements": ["1.1", "1.3", "3.6"]
+      },
+      {
+        "text": "Many potential impacts on wildlife and their habitats remain unknown.",
+        "location": "ELEMENTS 3 AND 4: THREATS AND ACTIONS / Climate Change",
+        "relevant_elements": ["1.1"]
+      },
+      {
+        "text": "The effects of climate change on cave-dwelling species are also unknown.",
+        "location": "ELEMENTS 3 AND 4: THREATS AND ACTIONS / Climate Change",
+        "relevant_elements": ["1.1"]
+      },
+      {
+        "text": "Missouri's habitat-based approach is well-suited to mitigate the threat of climate change. The Plan identifies and assists in prioritizing the best opportunities for conservation throughout the state, and targets these areas for focused conservation effort. Efforts to restore and maintain healthy habitat systems in these areas may result in more resilient habitat systems and floral and faunal communities.",
+        "location": "ELEMENTS 3 AND 4: THREATS AND ACTIONS / Climate Change",
+        "relevant_elements": ["4.1", "4.2", "1.2", "4.5"]
+      },
+      {
+        "text": "Monitoring efforts such as those described in Element 5: Monitoring, will detect changes in communities as a result of management action or the impacts of threats, and will enable managers to respond to emerging threats in a timely and effective manner.",
+        "location": "ELEMENTS 3 AND 4: THREATS AND ACTIONS / Climate Change",
+        "relevant_elements": ["4.3", "4.5"]
+      },
+      {
+        "text": "By identifying and prioritizing locations on the Missouri landscape that have the greatest opportunity for sustainable conservation of fish, forest, and wildlife resources, and effectively managing and building connectivity within and among these areas, populations of SGCN will stabilize or increase.",
+        "location": "ELEMENT 2: HABITAT SYSTEMS",
+        "relevant_elements": ["1.4", "4.1"]
+      },
+      {
+        "text": "Conservation Opportunity Areas were identified for each of the primary habitat systems using both professional knowledge and GIS prioritization.",
+        "location": "ELEMENT 2: HABITAT SYSTEMS",
+        "relevant_elements": ["4.1", "2.4"]
+      },
+      {
+        "text": "Figure 3, 2015 State Wildlife Action Plan Conservation Opportunity Areas, on page 31, is a combination of all team and partner inputs, and represents the greatest opportunities for sustainable conservation of fish, forest, and wildlife resources for all habitat systems within Missouri.",
+        "location": "ELEMENT 2: HABITAT SYSTEMS",
+        "relevant_elements": ["4.1"]
+      },
+      {
+        "text": "Many partners and municipalities are cooperating on the conversion of low water crossings to clear-span structures to reduce fragmentation and improve aquatic organism passage (connectivity) throughout stream systems.",
+        "location": "ELEMENTS 3 AND 4: THREATS AND ACTIONS / Habitat Loss and Degradation",
+        "relevant_elements": ["1.4", "4.2"]
+      },
+      {
+        "text": "The CWCS was designed to be adaptive, and this is reflected in the current State Wildlife Action Plan (Plan).",
+        "location": "PREFACE",
+        "relevant_elements": ["4.5"]
+      },
+      {
+        "text": "An adaptive management approach to the restoration and management of natural communities requires that we define what we are monitoring, why we are monitoring and how we are monitoring with specific objectives.",
+        "location": "ELEMENT 5: MONITORING AND EVALUATION",
+        "relevant_elements": ["4.3", "4.5"]
+      },
+      {
+        "text": "Special-use permits are granted for specific research, survey, monitoring, and mapping visits.",
+        "location": "CAVE AND KARST CONSERVATION / Prevent Human Disturbance",
+        "relevant_elements": ["4.3"]
+      },
+      {
+        "text": "Through the use of cooperative agreements and memorandums of understanding, the Department is able to engage in cost-share opportunities with partners and private citizens.",
+        "location": "Elements 7 and 8: Partner and Public Input",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "To date, partnerships have secured $117 million through the North American Wetlands Conservation Act to restore and improve over 97,000 acres of wetland habitat nationwide",
+        "location": "WETLAND CONSERVATION / Habitat Management Actions",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "Changes in global climate and conditions, and the frequency of extreme weather events (i.e., tornadoes, ice storms, etc.) can have direct impacts like tree mortality and damage, but they can also affect the forests indirectly by increasing a system's vulnerability to diseases and insects.",
+        "location": "FOREST AND WOODLAND CONSERVATION / Weather Events and Climate Change",
+        "relevant_elements": ["1.1", "3.5", "3.6"]
+      },
+      {
+        "text": "Species' physiological limits are tested as shifting temperatures, altered hydrology, and changing seasonal cues affect survival, reproduction, and migration.",
+        "location": "ELEMENTS 3 AND 4: THREATS AND ACTIONS / Climate Change",
+        "relevant_elements": ["1.3", "3.6"]
+      },
+      {
+        "text": "Longitudinal connectivity is critical for fulfilling migration requirements, genetic dispersal, and habitat utilization of many aquatic organisms.",
+        "location": "RIVER AND STREAM CONSERVATION / Connectivity Loss",
+        "relevant_elements": ["1.4", "1.3"]
+      },
+      {
+        "text": "the Department's Heritage database. In the 2005 Comprehensive Wildlife Conservation Strategy (CWCS), the SGCN list was identical to the SOCC list.",
+        "location": "Element 1: Species of Greatest Conservation Need / Process",
+        "relevant_elements": ["3.3"]
+      },
+      {
+        "text": "Some land management practices and outdoor recreation may be conducted in a manner that has neutral or even beneficial impacts to fish, forest and wildlife resources; but must be conducted in such a way that will not lead to habitat degradation.",
+        "location": "ELEMENTS 3 AND 4: THREATS AND ACTIONS / Habitat Loss and Degradation",
+        "relevant_elements": ["3.5"]
+      }
+    ]
+  },
+  "concepts": {
+    "climate_vulnerability": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "The assessment evaluated the vulnerability of terrestrial ecosystems in the Central Hardwoods Region to a range of future climates.",
+          "location": "Elements 3 and 4 (Continued) [table]",
+          "sub_component": "exposure",
+          "citations": ["Brandt et al. 2014"]
+        },
+        {
+          "text": "Mesic upland forests were determined to be the most vulnerable, whereas many systems adapted to fire and drought, such as open woodlands, savannas, and glades, were perceived as less vulnerable to projected changes in climate.",
+          "location": "Elements 3 and 4 (Continued) [table]",
+          "sub_component": "exposure",
+          "citations": ["Brandt et al. 2014"]
+        },
+        {
+          "text": "Many fish species in the region are sensitive to even slight changes in water temperatures and experience negative effects on growth at extremely high water temperatures.",
+          "location": "Elements 3 and 4 (Continued) [table]",
+          "sub_component": "exposure",
+          "citations": ["Brandt et al. 2014"]
+        }
+      ],
+      "absence_note": "The document references exposure and sensitivity to climate change through the Brandt et al. 2014 external assessment, but does not articulate adaptive capacity as a concept for the assessed ecosystems or species. Score is 2 (exposure referenced but not adaptive capacity as a distinct axis). The vulnerability discussion is limited to the external report and a brief statewide climate threat section."
+    },
+    "adaptive_capacity_specificity": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Increasing resilience has been identified as a primary method for minimizing the impacts of climate change on fish, forest and wildlife resources.",
+          "location": "ELEMENTS 3 AND 4: THREATS AND ACTIONS / Climate Change",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "Adaptive capacity is referenced only in the generic sense of 'resilience' without specifying which components (e.g., dispersal, genetic diversity, life history) confer it. Score is 1."
+    },
+    "adaptive_capacity_components": {
+      "demography": {
+        "present": false,
+        "evidence": []
+      },
+      "distribution": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Improving connectivity will facilitate range adjustments that may occur in many species adapting to climate change.",
+            "location": "ELEMENTS 3 AND 4: THREATS AND ACTIONS / Climate Change",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "movement": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Improving connectivity will facilitate range adjustments that may occur in many species adapting to climate change.",
+            "location": "ELEMENTS 3 AND 4: THREATS AND ACTIONS / Climate Change",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "evolutionary_potential": {
+        "present": false,
+        "evidence": []
+      },
+      "ecological_dependencies": {
+        "present": false,
+        "evidence": []
+      },
+      "abiotic_niche": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Many fish species in the region are sensitive to even slight changes in water temperatures and experience negative effects on growth at extremely high water temperatures.",
+            "location": "Elements 3 and 4 (Continued) [table]",
+            "sub_component": null,
+            "citations": ["Brandt et al. 2014"]
+          }
+        ]
+      },
+      "life_history": {
+        "present": false,
+        "evidence": []
+      }
+    },
+    "connectivity": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Missouri's approach also promotes connectivity within and among habitat systems by prioritizing those areas that are larger, more intact, nearer to other conservation areas, and/or where there is more opportunity to expand conservation action. Improving connectivity will facilitate range adjustments that may occur in many species adapting to climate change.",
+          "location": "ELEMENTS 3 AND 4: THREATS AND ACTIONS / Climate Change",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    }
+  },
+  "tools": {
+    "vulnerability_models": {
+      "evaluable": true,
+      "score": 1,
+      "named_tools": [],
+      "evidence": [
+        {
+          "text": "The assessment evaluated the vulnerability of terrestrial ecosystems in the Central Hardwoods Region to a range of future climates.",
+          "location": "Elements 3 and 4 (Continued) [table]",
+          "sub_component": null,
+          "citations": ["Brandt et al. 2014"]
+        }
+      ],
+      "absence_note": "The Brandt et al. 2014 Central Hardwoods vulnerability assessment is referenced, but it covers a multi-state region, not Missouri's SGCN specifically. The document incorporates the findings descriptively but does not apply a named vulnerability model tool (e.g., CCVI) to Missouri's own SGCN. Score is 1."
+    },
+    "niche_models": {
+      "evaluable": true,
+      "score": 1,
+      "named_tools": [],
+      "evidence": [
+        {
+          "text": "Model projections suggest that northern mesic species such as sugar maple, American beech, and white ash may fare worse under future conditions compared to current climate conditions, but other species such as post oak and shortleaf and loblolly pine may benefit from projected changes in climate.",
+          "location": "Elements 3 and 4 (Continued) [table]",
+          "sub_component": null,
+          "citations": ["Brandt et al. 2014"]
+        }
+      ],
+      "absence_note": "Species-level model projections from the external Brandt et al. 2014 report are described, implying species distribution or niche modeling occurred in that external report, but no named niche model (MaxEnt, SDM, etc.) is cited, and no such modeling was applied by Missouri to its own SGCN. Score is 1 (referenced generally through an external report's findings)."
+    },
+    "climate_models": {
+      "evaluable": true,
+      "score": 1,
+      "named_tools": [],
+      "evidence": [
+        {
+          "text": "Climate trends projected for the next 100 years by using downscaled global climate model data indicate a potential increase in mean annual temperature of 2 to 7 °F for this region.",
+          "location": "Elements 3 and 4 (Continued) [table]",
+          "sub_component": null,
+          "citations": ["Brandt et al. 2014"]
+        }
+      ],
+      "absence_note": "Downscaled global climate model data are referenced through the Brandt et al. 2014 external report, but no specific GCM, CMIP version, or emission scenario is named. The projections inform the document's discussion of climate threats but were not applied by the Department to Missouri's own SGCN or COAs. Score is 1.",
+      "time_horizon_years": [2100],
+      "emission_scenarios": []
+    },
+    "connectivity_models": {
+      "evaluable": true,
+      "score": 0,
+      "named_tools": [],
+      "evidence": [],
+      "absence_note": "Connectivity is discussed conceptually and spatially (COA maps), but no connectivity modeling tool (CircuitScape, Linkage Mapper, etc.) is referenced or applied. GIS prioritization for COAs used landcover and species databases, not connectivity models per se."
+    }
+  },
+  "context": {
+    "management_scale": {
+      "local": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Each chapter contains Case Studies that feature specific examples of conservation actions being applied to benefit that system.",
+            "location": "PREFACE / Document Organization",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "site": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The CHI models are developed for sites ranging in size from one to about 5,000 (mapped typically at the 1:24,000 scale).",
+            "location": "ELEMENT 5: MONITORING AND EVALUATION",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "watershed": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Sixteen-digit hydrologic unit codes (HUC16s) were used as planning units for all habitat systems, because HUC16s are small enough to approximate land condition, but still large enough to be ecologically meaningful.",
+            "location": "ELEMENT 2: HABITAT SYSTEMS",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "city": {
+        "present": false,
+        "evidence": []
+      },
+      "county": {
+        "present": false,
+        "evidence": []
+      },
+      "within_state_region": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Missouri is made up of four major ecological regions, or ecoregions-large geographic areas having distinctive topography, geology, soils, vegetation, and climate patterns.",
+            "location": "ELEMENT 2: HABITAT SYSTEMS",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "state": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The Plan provides a statewide and landscape-level perspective for identifying and prioritizing conservation opportunities",
+            "location": "Element 1: Species of Greatest Conservation Need",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "multistate": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "in 2011 the U.S. Forest Service, Northern Research Station began a project to incorporate climate change considerations into forest management for the Central Hardwoods Region, which includes the unglaciated forest regions of southern Missouri, Illinois and Indiana.",
+            "location": "Elements 3 and 4 (Continued) [table]",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "national": {
+        "present": false,
+        "evidence": []
+      },
+      "transnational": {
+        "present": false,
+        "evidence": []
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Mesic upland forests were determined to be the most vulnerable, whereas many systems adapted to fire and drought, such as open woodlands, savannas, and glades, were perceived as less vulnerable to projected changes in climate.",
+            "location": "Elements 3 and 4 (Continued) [table]",
+            "sub_component": null,
+            "citations": ["Brandt et al. 2014"]
+          }
+        ]
+      },
+      "ecoregion": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Missouri is made up of four major ecological regions, or ecoregions-large geographic areas having distinctive topography, geology, soils, vegetation, and climate patterns",
+            "location": "ELEMENT 2: HABITAT SYSTEMS",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "province": {
+        "present": false,
+        "evidence": []
+      },
+      "section": {
+        "present": false,
+        "evidence": []
+      },
+      "subsection": {
+        "present": false,
+        "evidence": []
+      },
+      "lake": {
+        "present": false,
+        "evidence": []
+      },
+      "river": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The Missouri River dissects the state into north and south, and the Mississippi River runs along the state's eastern border.",
+            "location": "RIVER AND STREAM CONSERVATION / Overview",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "district": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["Central Hardwoods Region", "Central Dissected Till Plains", "Mississippi River Alluvial Basin", "Osage Plains", "Ozark Highlands", "Grand River Grasslands", "Spring Creek Watershed", "Upper Osage Grasslands", "Little Niangua River", "Shoal Creek Woodlands", "Meramec River Hills", "Missouri River", "Mississippi River"]
+    },
+    "biological_unit_score": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Mesic upland forests were determined to be the most vulnerable, whereas many systems adapted to fire and drought, such as open woodlands, savannas, and glades, were perceived as less vulnerable to projected changes in climate.",
+          "location": "Elements 3 and 4 (Continued) [table]",
+          "sub_component": "ecosystem",
+          "citations": ["Brandt et al. 2014"]
+        },
+        {
+          "text": "Model projections suggest that northern mesic species such as sugar maple, American beech, and white ash may fare worse under future conditions compared to current climate conditions",
+          "location": "Elements 3 and 4 (Continued) [table]",
+          "sub_component": "species",
+          "citations": ["Brandt et al. 2014"]
+        }
+      ],
+      "absence_note": {}
+    },
+    "biological_unit_components": {
+      "species": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Model projections suggest that northern mesic species such as sugar maple, American beech, and white ash may fare worse under future conditions compared to current climate conditions",
+            "location": "Elements 3 and 4 (Continued) [table]",
+            "sub_component": null,
+            "citations": ["Brandt et al. 2014"]
+          }
+        ]
+      },
+      "population": {
+        "present": false,
+        "evidence": []
+      },
+      "habitat": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Efforts to restore and maintain healthy habitat systems in these areas may result in more resilient habitat systems and floral and faunal communities.",
+            "location": "ELEMENTS 3 AND 4: THREATS AND ACTIONS / Climate Change",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Mesic upland forests were determined to be the most vulnerable, whereas many systems adapted to fire and drought, such as open woodlands, savannas, and glades, were perceived as less vulnerable to projected changes in climate.",
+            "location": "Elements 3 and 4 (Continued) [table]",
+            "sub_component": null,
+            "citations": ["Brandt et al. 2014"]
+          }
+        ]
+      },
+      "community": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Efforts to restore and maintain healthy habitat systems in these areas may result in more resilient habitat systems and floral and faunal communities.",
+            "location": "ELEMENTS 3 AND 4: THREATS AND ACTIONS / Climate Change",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "genotype_phenotype": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["sugar maple", "American beech", "white ash", "post oak", "shortleaf pine", "loblolly pine", "northern red oak", "scarlet oak", "black oak", "mallards", "dabbling ducks", "North American wood warblers"]
+    },
+    "partnerships_and_funding": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Through the use of cooperative agreements and memorandums of understanding, the Department is able to engage in cost-share opportunities with partners and private citizens.",
+          "location": "Elements 7 and 8: Partner and Public Input",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "To date, partnerships have secured $117 million through the North American Wetlands Conservation Act to restore and improve over 97,000 acres of wetland habitat nationwide",
+          "location": "WETLAND CONSERVATION / Habitat Management Actions",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "While the document describes extensive partnerships and funding for habitat conservation generally (wetland restoration, grassland cost-share, etc.), these are not specifically framed as addressing range shifts or climate-driven distributional change. No partnership or funding is specifically allocated for range-shift actions. Score is 1 (some partnerships described, but aspirational/general in climate-range-shift context)."
+    },
+    "climate_threat_habitat_degradation": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Changes in global climate and conditions, and the frequency of extreme weather events (i.e., tornadoes, ice storms, etc.) can have direct impacts like tree mortality and damage, but they can also affect the forests indirectly by increasing a system's vulnerability to diseases and insects.",
+          "location": "FOREST AND WOODLAND CONSERVATION / Weather Events and Climate Change",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_threat_species_vital_rates": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Many fish species in the region are sensitive to even slight changes in water temperatures and experience negative effects on growth at extremely high water temperatures.",
+          "location": "Elements 3 and 4 (Continued) [table]",
+          "sub_component": null,
+          "citations": ["Brandt et al. 2014"]
+        }
+      ],
+      "absence_note": "The document discusses direct effects on fish growth (vital rate) from high water temperatures caused by climate change, satisfying the 'climate event → vital rate impact' chain. Score is 1."
+    },
+    "climate_threat_biotic_stressors": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Changes in climate will also create additional management challenges as conditions become more favorable for invasive plant species not currently prevalent in the assessment area.",
+          "location": "ELEMENTS 3 AND 4: THREATS AND ACTIONS / Climate Change",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    }
+  },
+  "actions": {
+    "priority_habitat_identification": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Figure 3, 2015 State Wildlife Action Plan Conservation Opportunity Areas, on page 31, is a combination of all team and partner inputs, and represents the greatest opportunities for sustainable conservation of fish, forest, and wildlife resources for all habitat systems within Missouri.",
+          "location": "ELEMENT 2: HABITAT SYSTEMS",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Conservation Opportunity Areas were identified for each of the primary habitat systems using both professional knowledge and GIS prioritization.",
+          "location": "ELEMENT 2: HABITAT SYSTEMS",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "COAs are spatially represented on maps and GIS layers. While the COA identification is not explicitly framed as addressing climate-driven range shifts, the document explicitly states that these priority areas serve as the management response to climate change threats (connectivity and resilience). Score is 2."
+    },
+    "targeted_range_shift_actions": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Missouri's approach also promotes connectivity within and among habitat systems by prioritizing those areas that are larger, more intact, nearer to other conservation areas, and/or where there is more opportunity to expand conservation action. Improving connectivity will facilitate range adjustments that may occur in many species adapting to climate change.",
+          "location": "ELEMENTS 3 AND 4: THREATS AND ACTIONS / Climate Change",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document describes structural facilitation (connectivity promotion) explicitly to support climate-driven range adjustments. No direct manipulation actions (assisted migration, translocation for climate purposes) are described. Score is 1 per the codebook binary scale."
+    },
+    "time_bound_and_monitoring": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "An adaptive management approach to the restoration and management of natural communities requires that we define what we are monitoring, why we are monitoring and how we are monitoring with specific objectives.",
+          "location": "ELEMENT 5: MONITORING AND EVALUATION",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document describes monitoring frameworks (CHI, LHI models) and an adaptive management philosophy, but action-level deadlines are generally absent. The plan mentions a 10-year revision cycle but does not attach specific deadlines to individual climate-related conservation actions. Score is 1 (adaptive management principle stated but not fully operationalized at the action level with both deadlines and effectiveness monitoring for climate-specific actions)."
+    },
+    "evidence_of_efficacy": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Recent research has shown that efforts to restore connectivity to floodplains have also been beneficial to specific riverine fish species (Missouri Department of Conservation 2015). Other research shows that certain amphibian species are using and successfully recruiting young on newly created wetlands (Missouri Department of Conservation 2015).",
+          "location": "WETLAND CONSERVATION [figure]",
+          "sub_component": null,
+          "citations": ["Missouri Department of Conservation 2015"]
+        },
+        {
+          "text": "Long-term glade vegetation monitoring data indicates increased numbers of geocarpon as a result of these management activities.",
+          "location": "GLADE CONSERVATION [figure - Danville Conservation Area case study]",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document presents limited but real evidence from case studies and internal monitoring data (e.g., geocarpon increases, fish response to connectivity restoration). These are directly applicable studies in Missouri but focused on habitat management outcomes rather than specifically climate range-shift actions. Score is 2 (limited evidence from relevant prior projects).",
+      "projects": ["Wetland floodplain connectivity restoration (Missouri, 2015): Department-cited internal research showed that restoring connectivity to floodplains benefited specific riverine fish species and that amphibians are using and recruiting on newly created wetlands.", "Glade restoration at Danville Conservation Area: Long-term vegetation monitoring data showed increased numbers of the rare plant geocarpon following cedar removal and prescribed fire, providing site-specific evidence of management efficacy.", "Topeka Shiner reintroduction in prairie watersheds: The federally listed Topeka shiner was successfully reintroduced into two priority watersheds, providing evidence that translocation combined with habitat management can support species recovery."]
+    },
+    "adaptation_planning_frameworks": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "The CWCS was designed to be adaptive, and this is reflected in the current State Wildlife Action Plan (Plan).",
+          "location": "PREFACE",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "Adaptive management is mentioned as a guiding principle in the context of responding to management outcomes and climate change threats, but no specific named climate adaptation planning framework (RAD, CCVA, SBDA, RRT, etc.) is referenced. Score is 1 (non-specific reference to adaptive/adaptive management in climate context)."
+    }
+  },
+  "coding_meta": {
+    "coder": "llm:claude-sonnet-4-6",
+    "model": "claude-sonnet-4-6",
+    "provider": "claude",
+    "codebook_version": "0.4",
+    "ingest": "text",
+    "design": "single",
+    "temperature": null,
+    "thinking": null,
+    "thinking_effort": null,
+    "coded_at": "2026-07-06T18:39:24Z",
+    "notes": {}
+  }
+}

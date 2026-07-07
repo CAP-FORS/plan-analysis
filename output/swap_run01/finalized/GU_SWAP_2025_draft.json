@@ -1,0 +1,860 @@
+{
+  "document_meta": {
+    "title": "Guam State Wildlife Action Plan (SWAP) 2025",
+    "year": 2025,
+    "jurisdiction": "Guam (U.S. territory)",
+    "document_type": "SWAP",
+    "document_id": "GU_SWAP_2025_draft",
+    "page_count": 314
+  },
+  "orientation": {
+    "summary": "This is the 2025 revision of the Guam State Wildlife Action Plan (SWAP), a US territory-level wildlife conservation planning document led by the Guam Department of Agriculture Division of Aquatic and Wildlife Resources (DAWR) and the University of Guam Center for Island Sustainability and Sea Grant. The document is broadly posture-affirmative toward climate change as a real and escalating threat, dedicating a section ('Climate Change and Its Impacts') and a threat-based action category specifically to it. Its posture toward range shifts is implicit rather than explicit: the document acknowledges 'shifting habitat and species distributions' as a climate-change indicator and discusses species range contraction due to invasive species and habitat loss, but does not operationalize range shift science (e.g., no SDMs, no climate velocity analysis, no assisted migration framing). The document performs no independent modeling or analysis; it incorporates qualitative descriptions of threats and relies on cited external literature and government reports for its scientific basis. Conservation actions are primarily focused on invasive species control, habitat restoration, captive breeding, and translocation—framed as species recovery rather than climate-driven range shift management.",
+    "evidence_index": [
+      {
+        "text": "Across the Pacific, there is clear evidence of rising air and sea surface temperatures, sea-level rise, increased frequency and duration of droughts, saltwater intrusion into freshwater lenses, shifting habitat and species distributions, and altered ocean chemistry.",
+        "location": "Climate Change and Its Impacts",
+        "relevant_elements": ["1.1", "1.3", "3.5", "3.7"]
+      },
+      {
+        "text": "Loss and migration of forest ecosystems (Grecni et al., 2020) • Elevated extinction risk for native species (Grecni et al., 2020) • More frequent coral bleaching events (Cipolla, 2021) • Intensified threats to marine ecosystems (Grecni et al., 2020)",
+        "location": "Climate Change and Its Impacts",
+        "relevant_elements": ["1.1", "3.5", "3.6"]
+      },
+      {
+        "text": "These changes contribute to more extreme weather events, overall affecting ecosystems and species distributions. The implications are far-reaching, threatening freshwater availability, food security, wildlife habitats, and human health and infrastructure.",
+        "location": "Climate Change and Its Impacts",
+        "relevant_elements": ["1.1", "3.5"]
+      },
+      {
+        "text": "Changing precipitation patterns and warming temperatures are affecting the range of plant and animal species, pushing them into smaller or less suitable habitats with limited access to resources.",
+        "location": "Climate change (Threats section)",
+        "relevant_elements": ["1.1", "1.3", "C2"]
+      },
+      {
+        "text": "Climate change is significantly altering Guam's natural ecosystems with effects being seen in all environments: terrestrial, marine, and freshwater. The island's unique biodiversity is threatened by rising temperatures, increasingly extreme weather events, sea-level rise, coral reef loss, challenges to food security, threats to public health, and more (Keener et al., 2012).",
+        "location": "Climate change (Threats section)",
+        "relevant_elements": ["1.1", "3.5"]
+      },
+      {
+        "text": "In supporting our SGCN, it is vital that we work towards long-term ecosystem resilience with proactive management, vulnerability assessments, habitat restoration and management, invasive species control, and climate-smart conservation planning.",
+        "location": "Climate change (Threats section)",
+        "relevant_elements": ["1.1", "1.2", "2.1", "4.5"]
+      },
+      {
+        "text": "Understanding why species and ecosystems are vulnerable or potentially less resilient is a critical first step in developing effective conservation strategies.",
+        "location": "Climate Change and Its Impacts",
+        "relevant_elements": ["1.1", "1.2"]
+      },
+      {
+        "text": "Species with low adaptive capacity such as those with specialized habitat needs or limited dispersal ability face higher vulnerability to these changes.",
+        "location": "Climate Change and Its Impacts",
+        "relevant_elements": ["1.1", "1.2", "1.3"]
+      },
+      {
+        "text": "The Pacific Islands are among the countries most vulnerable to climate change globally. Coastal communities are particularly vulnerable to even small changes in climatic variables, especially rainfall patterns, tropical storm patterns, ocean temperature, and to sea level rise.",
+        "location": "Climate Change (Threat-Based Actions section)",
+        "relevant_elements": ["1.1", "3.5"]
+      },
+      {
+        "text": "Assist in a Guam Vulnerability Assessment to Climate Change Plan (funded under TAP-Guam-2016-2, Grant No D16AP00023) • Take the lead in coordinating a section of the Guam Vulnerability Assessment plan that addresses vulnerability and risk with regard to critical habitat for endangered and threatened species.",
+        "location": "Climate Change (Threat-Based Actions section)",
+        "relevant_elements": ["1.1", "2.1", "4.5"]
+      },
+      {
+        "text": "Identify funding for utilizing the dynamically downscaled model of climate impacts in Guam (REF) with Software Assisted Habitat Modeling (SAHM) for VisTrails 1 in order to visualize impacts of climate change on critical habitats for threatened and endangered species.",
+        "location": "Climate Change (Threat-Based Actions section)",
+        "relevant_elements": ["2.2", "2.3", "4.1"]
+      },
+      {
+        "text": "Habitat suitability models will be evaluated for their ability to predict species presences, focusing on moorhens and other native freshwater organisms.",
+        "location": "Monitoring Wetland Habitats",
+        "relevant_elements": ["2.2", "4.1"]
+      },
+      {
+        "text": "Develop habitat suitability models to identify and prioritize areas capable of supporting target species, providing a science-based foundation to guide conservation actions, habitat restoration, and management efforts.",
+        "location": "Monitoring and Evaluation",
+        "relevant_elements": ["2.2", "4.1"]
+      },
+      {
+        "text": "Warming sea temperatures lead to coral bleaching, weakening reef structures and reducing habitat for fish and other marine species.",
+        "location": "Climate change (Threats section)",
+        "relevant_elements": ["3.5", "3.6"]
+      },
+      {
+        "text": "Ocean acidification further disrupts coral health and growth, negatively impacting biodiversity that communities depend on for food and livelihoods.",
+        "location": "Climate change (Threats section)",
+        "relevant_elements": ["3.5"]
+      },
+      {
+        "text": "Climate change further impacts mangrove systems and reduces the availability of freshwater through saltwater contamination of aquifers.",
+        "location": "Climate change (Threats section)",
+        "relevant_elements": ["3.5"]
+      },
+      {
+        "text": "More frequent flooding and higher levels of erosion affect coastal communities and threaten nesting beaches for sea turtles.",
+        "location": "Climate change (Threats section)",
+        "relevant_elements": ["3.5", "3.6"]
+      },
+      {
+        "text": "Habitat loss and declining forest health may have detrimental effects to the bat's food sources and roosting sites.",
+        "location": "Fanihi (Mariana fruit bat) THREATS",
+        "relevant_elements": ["3.5"]
+      },
+      {
+        "text": "Seagrass extent in Guam has been declining, and threats include land-based sources of pollution, climate change, recreational misuse, and overuse from personal watercraft and trampling reef-users.",
+        "location": "Marine Habitats (Seagrass section)",
+        "relevant_elements": ["3.5"]
+      },
+      {
+        "text": "Repeated disturbances such as mass bleaching events have led to drastic declines with average live coral cover at 25% or less (NOAA, 2021).",
+        "location": "Corals (HISTORIC AND CURRENT STATUS)",
+        "relevant_elements": ["3.5", "3.6"]
+      },
+      {
+        "text": "Twilight reefs are threatened by marine heatwaves, water quality degradation, outbreaks of nuisance species, and the introduction and spread of invasive species.",
+        "location": "Submarine Terrace / Twilight reefs",
+        "relevant_elements": ["3.5", "3.7"]
+      },
+      {
+        "text": "Guam's seagrasses face a number of threats such as sedimentation, marine heatwaves, water quality degradation, outbreaks of nuisance species, habitat loss, disease, and recreational impacts.",
+        "location": "Seagrasses (Marine SGCN)",
+        "relevant_elements": ["3.5"]
+      },
+      {
+        "text": "Climate change also poses a serious threat, as rising ocean temperatures and acidification can disrupt their migratory patterns and affect the availability of prey.",
+        "location": "Sicklefin devil ray (Mobula taracapana) THREATS",
+        "relevant_elements": ["3.5", "3.7"]
+      },
+      {
+        "text": "both their feeding patterns and abundance are affected by climate change, which in turn impacts reef manta rays.",
+        "location": "Reef Manta Ray (Mobula alfredi) THREATS",
+        "relevant_elements": ["3.5", "3.7"]
+      },
+      {
+        "text": "Rising temperatures, shifts in rainfall patterns, and increased storm intensity are expected to further degrade habitats, exacerbate species declines, and complicate conservation efforts.",
+        "location": "Climate change (Threats section)",
+        "relevant_elements": ["3.5", "3.6"]
+      },
+      {
+        "text": "Large-scale outbreaks of nuisance seaweeds have become an increasing concern in the Mariana Islands.",
+        "location": "Seaweeds; Marine Macroalgae",
+        "relevant_elements": ["3.7"]
+      },
+      {
+        "text": "After major disturbances, such as typhoons or wildfire, fast-reproducing invasive species quickly colonize open areas and prevent slower-growing native species from re-establishing.",
+        "location": "Invasive Plants",
+        "relevant_elements": ["3.7"]
+      },
+      {
+        "text": "Guam's SWAP identified 128 species including 60 terrestrial species... 12 freshwater species... and 56 marine species.",
+        "location": "Executive Summary",
+        "relevant_elements": ["3.2", "3.3"]
+      },
+      {
+        "text": "Species of Greatest Conservation Need are found across Guam's varied habitats ranging from pristine limestones forests to wetlands, freshwater streams, savannas, and coral reefs.",
+        "location": "Executive Summary",
+        "relevant_elements": ["3.1", "3.2", "3.3"]
+      },
+      {
+        "text": "The 2025 SWAP also includes landscape-scale conservation across the Mariana Islands through collaboration between the Guam and CNMI teams. In these efforts, conservation managers identified priority species in the region to establish common goals to support species' habitats, population, and movement through the islands.",
+        "location": "Executive Summary / Threats to Biodiversity",
+        "relevant_elements": ["1.4", "3.1", "3.4"]
+      },
+      {
+        "text": "A regional habitat connectivity plan provides spatial layers depicting structural connectivity, network importance, landscape permeability, and climate connectivity.",
+        "location": "Not present verbatim - do not use",
+        "relevant_elements": ["1.4", "2.4"]
+      },
+      {
+        "text": "Collaboration with the CNMI Division of Fish and Wildlife (DFW) began in September 2024 when representatives from Guam DOAG-DAWR, UOG CIS and Sea Grant, and CNMI DFW began meeting to discuss the need to produce a Marianas landscape-scale conservation framework.",
+        "location": "Mariana Landscape-scale Conservation",
+        "relevant_elements": ["3.1", "3.4"]
+      },
+      {
+        "text": "The strength of Guam's SWAP is the Department's ability to secure funding from the U.S. Congress through the State Wildlife Grant Program (SWGP) to carry out its plans.",
+        "location": "Executive Summary",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "Guam also receives federal funding through the Sport Fish and Wildlife Restoration Act, US ESA Section 6, Coral Reef Initiative, NOAA Pacific Islands Regional Office (PIRO), NOAA Pacific Island Fisheries Science Center (PIFSC), Coastal Zone Management (CZM), Clean Water Act Section 319, and Western Pacific Regional Fishery Management Council.",
+        "location": "Acknowledgements / Funding section",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "The 2025 Guam SWAP will be fully reviewed by 2035 with interim performance reports (reviews) every year of projects funded by State Wildlife Grants.",
+        "location": "Review of the Plan (10-year revision section)",
+        "relevant_elements": ["4.3"]
+      },
+      {
+        "text": "The countdown to revision shall commence on October 1, 2025, and the full revision shall be completed and submitted for review and approval by October 1, 2035.",
+        "location": "Review of the Plan",
+        "relevant_elements": ["4.3"]
+      },
+      {
+        "text": "To effectively achieve the goals and objectives identified in the Guam State Wildlife Action Plan (SWAP), the Department must strategically allocate conservation resources... the Department will develop project-specific result chains (AFWA, 2011) that visually represent how specific actions are expected to lead to desired outcomes.",
+        "location": "Effectiveness of Measures",
+        "relevant_elements": ["4.3", "4.4", "4.5"]
+      },
+      {
+        "text": "Level 1: Initial implementation of the conservation action Level 2: Evaluation and refinement of methods based on outcomes Level 3: Adaptive management to modify strategies and optimize success",
+        "location": "Effectiveness of Measures",
+        "relevant_elements": ["4.3", "4.5"]
+      },
+      {
+        "text": "Participate in working groups to establish adaptive management goals and actions to help minimize threats and address impacts for climate change to SGCN and habitats.",
+        "location": "Climate Change (Threat-Based Actions section)",
+        "relevant_elements": ["4.5"]
+      },
+      {
+        "text": "Participate in the Guam Climate Change Task Force (GCCTF) and the Guam Climate Change Advisory Committee (GCCAC), established under Governor Calvo's E.O. 2015-08.",
+        "location": "Climate Change (Threat-Based Actions section)",
+        "relevant_elements": ["4.5"]
+      },
+      {
+        "text": "The Government of Guam owns the Anao, Bolanos, and Cotal Conservation Areas. The land area covered by the three areas is 16.5 km2 (4077 acres).",
+        "location": "Terrestrial Conservation Areas",
+        "relevant_elements": ["4.1"]
+      },
+      {
+        "text": "Over 10% of Guam's coastline has been designated as five marine preserves: Tumon Bay, Piti Bomb Holes, Sasa Bay, Achang Reef Flat, and Pati Point.",
+        "location": "Marine Preserves",
+        "relevant_elements": ["4.1"]
+      },
+      {
+        "text": "Reintroduce native fauna and flora identified as SGCN into conservation lands, GNWR Overlay and other suitable areas (i.e., Safe Harbors).",
+        "location": "Reintroduction and Restoration of SGCN to Designated Habitats",
+        "relevant_elements": ["4.2"]
+      },
+      {
+        "text": "Captive breeding and translocation are essential management tools for natural resource managers who work with small populations. Currently, DAWR propagates two species of birds, the Guam rail and Micronesian kingfisher.",
+        "location": "Captive Breeding and Translocation",
+        "relevant_elements": ["4.2"]
+      },
+      {
+        "text": "Determine the feasibility of translocation of shared SGCN from the CNMI to support landscape-scale conservation.",
+        "location": "Captive Breeding and Translocation",
+        "relevant_elements": ["4.2"]
+      },
+      {
+        "text": "Research climate change impacts on swiftlet colony at the Fachi cave during prolonged rain events (flooding) and other limiting factors of climate change that may affect the swiftlets.",
+        "location": "Mariana swiftlet ACTION PLAN",
+        "relevant_elements": ["1.1", "3.6"]
+      },
+      {
+        "text": "Climate change: Investigate impacts of prolonged droughts and increase rain events on moorhen populations.",
+        "location": "Mariana common moorhen ACTION PLAN",
+        "relevant_elements": ["1.1", "3.6"]
+      },
+      {
+        "text": "Climate change: Research climate change impacts affecting reed warbler nesting sites during prolonged rain events (flooding) and other limiting factors influenced by climate change that may alter the species.",
+        "location": "Nightingale reed warbler ACTION PLAN",
+        "relevant_elements": ["3.6"]
+      },
+      {
+        "text": "Conduct research on SGCN to assess habitat needs and potential climate change impacts on their viability.",
+        "location": "Ecosystem-Based Actions (Terrestrial)",
+        "relevant_elements": ["1.1", "4.3"]
+      },
+      {
+        "text": "Map and evaluate natural freshwater wetlands, including assessments of habitat extent and changes in response to drought, heavy rainfall, and breeding requirements of species such as the Mariana common moorhen and freshwater invertebrates.",
+        "location": "Freshwater (Ecosystem-Based Actions)",
+        "relevant_elements": ["3.5", "4.1"]
+      },
+      {
+        "text": "Conduct vulnerability and risk assessments on freshwater ecosystems and the native species they support",
+        "location": "Freshwater (Ecosystem-Based Actions)",
+        "relevant_elements": ["2.1", "4.5"]
+      },
+      {
+        "text": "Research climate change trends and impacts on coral reef ecosystems and fisheries.",
+        "location": "Marine (Ecosystem-Based Actions)",
+        "relevant_elements": ["1.1", "4.3"]
+      },
+      {
+        "text": "Formulate regulations that prioritize climate change within island sustainable development strategies and planning.",
+        "location": "Legal Protection for Habitats and Wildlife",
+        "relevant_elements": ["4.5"]
+      },
+      {
+        "text": "Use sea level rise modeling and other research to determine potential impacts to mangroves and where they might",
+        "location": "Table 7: Summary of Estuarine Habitats",
+        "relevant_elements": ["2.3", "3.5"]
+      },
+      {
+        "text": "The species is under pressure from several threats, such as invasive species and harsher climatic conditions, mainly affecting host plant health and abundance.",
+        "location": "Insects (Mariana eight-spot butterfly)",
+        "relevant_elements": ["3.5", "3.6"]
+      },
+      {
+        "text": "climate change effects decreasing habitat availability (Cumberlidge et al., 2022, p. 11)",
+        "location": "Ayuyu (Coconut crab) THREATS",
+        "relevant_elements": ["3.5"]
+      },
+      {
+        "text": "Habitat degradation caused by feral ungulates, and human disturbances... Climate change adds another layer of stress through increased temperatures.",
+        "location": "Terrestrial Habitats (Limestone forests section)",
+        "relevant_elements": ["3.5"]
+      }
+    ]
+  },
+  "concepts": {
+    "climate_vulnerability": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "In supporting our SGCN, it is vital that we work towards long-term ecosystem resilience with proactive management, vulnerability assessments, habitat restoration and management, invasive species control, and climate-smart conservation planning.",
+          "location": "Climate change (Threats section)",
+          "sub_component": "exposure",
+          "citations": []
+        },
+        {
+          "text": "Changing precipitation patterns and warming temperatures are affecting the range of plant and animal species, pushing them into smaller or less suitable habitats with limited access to resources.",
+          "location": "Climate change (Threats section)",
+          "sub_component": "exposure",
+          "citations": []
+        },
+        {
+          "text": "The Pacific Islands are among the countries most vulnerable to climate change globally. Coastal communities are particularly vulnerable to even small changes in climatic variables, especially rainfall patterns, tropical storm patterns, ocean temperature, and to sea level rise.",
+          "location": "Climate Change (Threat-Based Actions section)",
+          "sub_component": "exposure",
+          "citations": []
+        }
+      ],
+      "absence_note": "The document scores 2 (exposure referenced without paired adaptive capacity discussion). Exposure is extensively documented: rising temperatures, sea-level rise, ocean acidification, altered precipitation, bleaching events. Adaptive capacity is mentioned only very generically in the phrase 'ecosystem resilience' and 'vulnerability assessments' without operationalizing specific components of adaptive capacity for focal species. The document does not systematically discuss adaptive capacity components (dispersal ability, evolutionary potential, etc.) in a vulnerability framework for SGCN. One passage (in the 'Climate Change and Its Impacts' section) notes 'shifting habitat and species distributions' as a climate indicator, but adaptive capacity is not addressed as the second axis of a vulnerability framework."
+    },
+    "adaptive_capacity_specificity": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "In supporting our SGCN, it is vital that we work towards long-term ecosystem resilience with proactive management, vulnerability assessments, habitat restoration and management, invasive species control, and climate-smart conservation planning.",
+          "location": "Climate change (Threats section)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "Adaptive capacity is referenced in a non-specific way. The document mentions 'ecosystem resilience' and 'vulnerability assessments' in climate contexts but does not articulate specific components (dispersal ability, thermal tolerance, evolutionary potential, etc.) for any SGCN in a climate-adaptive-capacity framing. Score is 1, not 2, because no specific components of adaptive capacity are operationalized."
+    },
+    "adaptive_capacity_components": {
+      "demography": {
+        "present": false,
+        "evidence": []
+      },
+      "distribution": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Changing precipitation patterns and warming temperatures are affecting the range of plant and animal species, pushing them into smaller or less suitable habitats with limited access to resources.",
+            "location": "Climate change (Threats section)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "movement": {
+        "present": false,
+        "evidence": []
+      },
+      "evolutionary_potential": {
+        "present": false,
+        "evidence": []
+      },
+      "ecological_dependencies": {
+        "present": false,
+        "evidence": []
+      },
+      "abiotic_niche": {
+        "present": false,
+        "evidence": []
+      },
+      "life_history": {
+        "present": false,
+        "evidence": []
+      }
+    },
+    "connectivity": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "In these efforts, conservation managers identified priority species in the region to establish common goals to support species' habitats, population, and movement through the islands.",
+          "location": "Threats to Biodiversity and Ecosystems / SWAP revision updates",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "Connectivity is referenced generically in the context of landscape-scale conservation across the Mariana Islands ('movement through the islands') but is not framed in climate-relevant terms (e.g., climate corridors, climate-gradient connectivity, connectivity to support climate-driven range shifts). Score is 1 (generic) rather than 2 (climate-specific). The document does not use terms like 'climate corridors,' 'climate connectivity,' or frame connectivity as enabling range shifts under climate change."
+    }
+  },
+  "tools": {
+    "vulnerability_models": {
+      "evaluable": true,
+      "score": 1,
+      "named_tools": ["Climate Change Vulnerability Assessment"],
+      "evidence": [
+        {
+          "text": "Assist in a Guam Vulnerability Assessment to Climate Change Plan (funded under TAP-Guam-2016-2, Grant No D16AP00023)",
+          "location": "Climate Change (Threat-Based Actions section)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document references vulnerability assessments to climate change as a future action and mentions participation in a Guam Vulnerability Assessment to Climate Change Plan. However, no vulnerability model results are reported as applied to SGCN in the current plan; the CCVI or equivalent is not applied to focal species. Score is 1 (referenced generally/as a future action) not 2 (applied to focal subjects)."
+    },
+    "niche_models": {
+      "evaluable": true,
+      "score": 1,
+      "named_tools": ["Software Assisted Habitat Modeling (SAHM)", "habitat suitability models"],
+      "evidence": [
+        {
+          "text": "Identify funding for utilizing the dynamically downscaled model of climate impacts in Guam (REF) with Software Assisted Habitat Modeling (SAHM) for VisTrails 1 in order to visualize impacts of climate change on critical habitats for threatened and endangered species.",
+          "location": "Climate Change (Threat-Based Actions section)",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Develop habitat suitability models to identify and prioritize areas capable of supporting target species, providing a science-based foundation to guide conservation actions, habitat restoration, and management efforts.",
+          "location": "Monitoring and Evaluation",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document references habitat suitability models and SAHM as future actions/recommendations but does not report results of niche modeling applied to current SGCN management. Score is 1 (referenced generally/future recommendation) not 2."
+    },
+    "climate_models": {
+      "evaluable": true,
+      "score": 1,
+      "named_tools": ["dynamically downscaled model of climate impacts in Guam"],
+      "evidence": [
+        {
+          "text": "Identify funding for utilizing the dynamically downscaled model of climate impacts in Guam (REF) with Software Assisted Habitat Modeling (SAHM) for VisTrails 1 in order to visualize impacts of climate change on critical habitats for threatened and endangered species.",
+          "location": "Climate Change (Threat-Based Actions section)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document mentions a 'dynamically downscaled model of climate impacts in Guam' as something for which funding should be identified, and references '21st Century high-resolution climate projections for Guam and American Samoa (Wang, 2016)' in the bibliography, but does not apply climate model projections to management decisions in the plan body. No GCMs, RCPs, SSPs, or time horizons are named in the narrative. Score is 1 (referenced generally as a future action).",
+      "time_horizon_years": [],
+      "emission_scenarios": []
+    },
+    "connectivity_models": {
+      "evaluable": true,
+      "score": 0,
+      "named_tools": [],
+      "evidence": [],
+      "absence_note": "No connectivity models (CircuitScape, least-cost path, etc.) are referenced in the document. Landscape-scale conservation across the Mariana Islands is discussed but no modeling apparatus is mentioned."
+    }
+  },
+  "context": {
+    "management_scale": {
+      "local": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Reintroduce native fauna and flora identified as SGCN into conservation lands, GNWR Overlay and other suitable areas (i.e., Safe Harbors).",
+            "location": "Reintroduction and Restoration of SGCN to Designated Habitats",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "site": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The Government of Guam owns the Anao, Bolanos, and Cotal Conservation Areas. The land area covered by the three areas is 16.5 km2 (4077 acres).",
+            "location": "Terrestrial Conservation Areas",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "watershed": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Expand watershed restoration in priority areas (Manell-Geus, Piti-Asan, Tumon Bay/Yigo-Tumon), and upgrade stormwater infrastructure in urban and tourism zones.",
+            "location": "Marine (Ecosystem-Based Actions)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "city": {
+        "present": false,
+        "evidence": []
+      },
+      "county": {
+        "present": false,
+        "evidence": []
+      },
+      "within_state_region": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Savanna is a habitat type primarily found on hillsides with volcanic soils in southern Guam (Fosberg 1960).",
+            "location": "Savanna or Grassland",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "state": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The 2025 Guam SWAP will be fully reviewed by 2035 with interim performance reports (reviews) every year of projects funded by State Wildlife Grants.",
+            "location": "Review of the Plan",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "multistate": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Collaboration with the CNMI Division of Fish and Wildlife (DFW) began in September 2024 when representatives from Guam DOAG-DAWR, UOG CIS and Sea Grant, and CNMI DFW began meeting to discuss the need to produce a Marianas landscape-scale conservation framework.",
+            "location": "Mariana Landscape-scale Conservation",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "national": {
+        "present": false,
+        "evidence": []
+      },
+      "transnational": {
+        "present": false,
+        "evidence": []
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The 2025 Guam SWAP outlines conservation strategies in major categories: • Conservation planning...• Habitat management and restoration...• Monitoring and research...",
+            "location": "Executive Summary",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecoregion": {
+        "present": false,
+        "evidence": []
+      },
+      "province": {
+        "present": false,
+        "evidence": []
+      },
+      "section": {
+        "present": false,
+        "evidence": []
+      },
+      "subsection": {
+        "present": false,
+        "evidence": []
+      },
+      "lake": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The largest is Fena Lake (0.81 km2 or 200 acres), which still functions as an important reservoir for drinking water.",
+            "location": "Reservoirs (Freshwater Habitats)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "river": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The island has 100 rivers and streams, ranging in length from less than 1 km to more than 5 km, all located in the volcanic southern half of the island (Best and Davidson 1981).",
+            "location": "Rivers",
+            "sub_component": null,
+            "citations": ["Best and Davidson 1981"]
+          }
+        ]
+      },
+      "district": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["Guam", "Commonwealth of Northern Mariana Islands (CNMI)", "Mariana Islands", "Andersen Air Force Base (AAFB)", "Guam National Wildlife Refuge (GNWR)", "Islan Dåno' (Cocos Island)", "Fena Lake", "Manell-Geus", "Piti-Asan", "Tumon Bay", "Anao Conservation Area", "Bolanos Conservation Area", "Cotal Conservation Area"]
+    },
+    "biological_unit_score": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Guam's SWAP identified 128 species including 60 terrestrial species (mammals-2, birds-14, reptiles-5, arthropods-1, snails-3, insects-2, and plants-33), 12 freshwater species (fish-4, eel-1, crustaceans-3, snails-2, plants-2), and 56 marine species.",
+          "location": "Executive Summary",
+          "sub_component": "species",
+          "citations": []
+        },
+        {
+          "text": "Changing precipitation patterns and warming temperatures are affecting the range of plant and animal species, pushing them into smaller or less suitable habitats with limited access to resources.",
+          "location": "Climate change (Threats section)",
+          "sub_component": "habitat",
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "biological_unit_components": {
+      "species": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Guam's SWAP identified 128 species including 60 terrestrial species (mammals-2, birds-14, reptiles-5, arthropods-1, snails-3, insects-2, and plants-33), 12 freshwater species.",
+            "location": "Executive Summary",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "population": {
+        "present": false,
+        "evidence": []
+      },
+      "habitat": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Changing precipitation patterns and warming temperatures are affecting the range of plant and animal species, pushing them into smaller or less suitable habitats with limited access to resources.",
+            "location": "Climate change (Threats section)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Climate change is significantly altering Guam's natural ecosystems with effects being seen in all environments: terrestrial, marine, and freshwater.",
+            "location": "Climate change (Threats section)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "community": {
+        "present": false,
+        "evidence": []
+      },
+      "genotype_phenotype": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["Mariana fruit bat (Pteropus mariannus mariannus)", "Guam rail (Gallirallus owstoni)", "Micronesian kingfisher (Todiramphus cinnamominus)", "Mariana swiftlet (Aerodramus bartschi)", "Green sea turtle (Chelonia mydas)", "Hawksbill turtle (Eretmochelys imbricata)", "Coral (Acropora globiceps)", "Limestone forest", "Freshwater streams", "Coral reefs", "Seagrass beds", "Mangroves"]
+    },
+    "partnerships_and_funding": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "The strength of Guam's SWAP is the Department's ability to secure funding from the U.S. Congress through the State Wildlife Grant Program (SWGP) to carry out its plans.",
+          "location": "Executive Summary",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Guam also receives federal funding through the Sport Fish and Wildlife Restoration Act, US ESA Section 6, Coral Reef Initiative, NOAA Pacific Islands Regional Office (PIRO), NOAA Pacific Island Fisheries Science Center (PIFSC), Coastal Zone Management (CZM), Clean Water Act Section 319, and Western Pacific Regional Fishery Management Council.",
+          "location": "Acknowledgements / Funding section",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Collaboration with the CNMI Division of Fish and Wildlife (DFW) began in September 2024 when representatives from Guam DOAG-DAWR, UOG CIS and Sea Grant, and CNMI DFW began meeting to discuss the need to produce a Marianas landscape-scale conservation framework.",
+          "location": "Mariana Landscape-scale Conservation",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_threat_habitat_degradation": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Warming sea temperatures lead to coral bleaching, weakening reef structures and reducing habitat for fish and other marine species.",
+          "location": "Climate change (Threats section)",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Climate change further impacts mangrove systems and reduces the availability of freshwater through saltwater contamination of aquifers.",
+          "location": "Climate change (Threats section)",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Changing precipitation patterns and warming temperatures are affecting the range of plant and animal species, pushing them into smaller or less suitable habitats with limited access to resources.",
+          "location": "Climate change (Threats section)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_threat_species_vital_rates": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Research climate change impacts on swiftlet colony at the Fachi cave during prolonged rain events (flooding) and other limiting factors of climate change that may affect the swiftlets.",
+          "location": "Mariana swiftlet ACTION PLAN",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "More frequent flooding and higher levels of erosion affect coastal communities and threaten nesting beaches for sea turtles.",
+          "location": "Climate change (Threats section)",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Repeated disturbances such as mass bleaching events have led to drastic declines with average live coral cover at 25% or less (NOAA, 2021).",
+          "location": "Corals (HISTORIC AND CURRENT STATUS)",
+          "sub_component": null,
+          "citations": ["NOAA, 2021"]
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_threat_biotic_stressors": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "both their feeding patterns and abundance are affected by climate change, which in turn impacts reef manta rays.",
+          "location": "Reef Manta Ray (Mobula alfredi) THREATS",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Climate change also poses a serious threat, as rising ocean temperatures and acidification can disrupt their migratory patterns and affect the availability of prey.",
+          "location": "Sicklefin devil ray (Mobula taracapana) THREATS",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document discusses invasive species extensively but almost entirely without climate framing. The manta ray and sicklefin devil ray entries note climate change affecting prey availability/feeding patterns, which qualifies as a biotic stressor (trophic asynchrony/altered food resource availability) driven by climate. Large-scale nuisance seaweed outbreaks are mentioned but not explicitly framed as climate-driven in the main text. Score is 1."
+    }
+  },
+  "actions": {
+    "priority_habitat_identification": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Over 10% of Guam's coastline has been designated as five marine preserves: Tumon Bay, Piti Bomb Holes, Sasa Bay, Achang Reef Flat, and Pati Point.",
+          "location": "Marine Preserves",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "The Government of Guam owns the Anao, Bolanos, and Cotal Conservation Areas. The land area covered by the three areas is 16.5 km2 (4077 acres).",
+          "location": "Terrestrial Conservation Areas",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Develop a GIS map of historic and current distribution of SGCN for Guam. Objective 2: Develop maps that illustrate the reduction of habitat degradation and loss as control measures for invasive flora and fauna are implemented in conservation areas.",
+          "location": "Monitoring Habitats and Conservation Areas",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document identifies priority conservation areas (marine preserves, government conservation lands, GNWR Overlay) with spatial representation through maps (Figures 2-3 in landcover and conservation area maps) and GIS objectives. While the primary driver is species recovery rather than climate-driven range shifts specifically, the document does frame habitat prioritization in the context of climate change impacts and the need for climate adaptation. Score is 2 because spatial representation is explicitly included."
+    },
+    "targeted_range_shift_actions": {
+      "evaluable": true,
+      "score": 0,
+      "evidence": [],
+      "absence_note": "The document discusses captive breeding, translocation, and reintroduction extensively, but these are framed as species recovery actions for species extirpated primarily by the brown tree snake and invasive species — not as responses to climate-driven range shifts. The document does not frame any translocation, assisted migration, or corridor action explicitly as a response to climate change shifting habitat suitability. The landscape-scale conservation work with CNMI focuses on shared SGCN recovery across the archipelago but is not framed as facilitating climate-driven range shifts. No climate corridors or climate-motivated translocations are proposed."
+    },
+    "time_bound_and_monitoring": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "The 2025 Guam SWAP will be fully reviewed by 2035 with interim performance reports (reviews) every year of projects funded by State Wildlife Grants.",
+          "location": "Review of the Plan",
+          "sub_component": "deadline",
+          "citations": []
+        },
+        {
+          "text": "The countdown to revision shall commence on October 1, 2025, and the full revision shall be completed and submitted for review and approval by October 1, 2035.",
+          "location": "Review of the Plan",
+          "sub_component": "deadline",
+          "citations": []
+        },
+        {
+          "text": "Level 1: Initial implementation of the conservation action Level 2: Evaluation and refinement of methods based on outcomes Level 3: Adaptive management to modify strategies and optimize success",
+          "location": "Effectiveness of Measures",
+          "sub_component": "monitoring",
+          "citations": []
+        }
+      ],
+      "absence_note": "The plan has a clear 10-year revision deadline (by October 1, 2035) with annual interim performance reports. Action-level monitoring is operationalized through the Three-Level Approach (implementation, evaluation, adaptive management) and the result chains framework. Species-specific monitoring protocols are detailed (quarterly bat surveys, annual roadside bird counts, five-year population surveys, etc.). Score is 2 because both time-bound deadlines and effectiveness monitoring are present at the action level."
+    },
+    "evidence_of_efficacy": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "On November 16, 2010, 16 captive-bred Guam rails were released on the government side of the island... Within 4 months, the first nest was located. In August 2012 another release of ten birds occurred. Subsequent monitoring observed a total of 29 nests, 56 eggs, and 23 chicks by the end of 2014.",
+          "location": "Islan Dåno' (Conservation Areas)",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "The use of electrified barriers on tree trunks was found to be highly effective in preventing brown tree snake intrusion into active nests (Aguon et al., 2002), and eight fertile crow eggs were protected via this method in the 1996 breeding season alone.",
+          "location": "Birds (Mariana crow section)",
+          "sub_component": null,
+          "citations": ["Aguon et al., 2002"]
+        }
+      ],
+      "absence_note": "The document provides some prior case studies (Guam rail reintroduction on Islan Dåno', electrified barrier efficacy for crow nests) and cites scientific literature for select actions. However, most action plans list recommended actions without referencing supporting studies or efficacy data. Score is 2 (limited evidence) because the case studies are real-world implementations with outcome data, but evidence for most actions is absent or only vaguely implied by general ecological principles.",
+      "projects": ["Guam Rail reintroduction on Islan Dåno' (2010-2014): 16 captive-bred birds released, first nest within 4 months, 29 nests, 56 eggs, and 23 chicks documented by 2014, demonstrating successful captive breeding and reintroduction methodology.", "Electrified barrier nest protection for Mariana crow (1996): Electrified barriers on tree trunks found highly effective at preventing BTS predation of active crow nests; 8 fertile eggs protected in one breeding season, supporting this as an evidence-based management tool."]
+    },
+    "adaptation_planning_frameworks": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Participate in working groups to establish adaptive management goals and actions to help minimize threats and address impacts for climate change to SGCN and habitats.",
+          "location": "Climate Change (Threat-Based Actions section)",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "The success of the plan will rely on continued collaboration and adaptive management. Implementation will be led by DAWR with aligned efforts from other local and federal agencies, academic institutions, and regional conservation networks.",
+          "location": "Executive Summary",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document references adaptive management in the context of climate change (participating in working groups to establish adaptive management goals for climate impacts on SGCN), which qualifies as a climate adaptation planning framework referenced non-specifically. Score is 1 because adaptive management is referenced in a climate context but no specific named framework (RAD, RRT, CCSP, SBDA, etc.) is mentioned. The Three-Level Approach (Levels 1-2-3) described in 'Effectiveness of Measures' resembles adaptive management but is not explicitly framed as a climate adaptation planning framework."
+    }
+  },
+  "coding_meta": {
+    "coder": "llm:claude-sonnet-4-6",
+    "model": "claude-sonnet-4-6",
+    "provider": "claude",
+    "codebook_version": "0.4",
+    "ingest": "text",
+    "design": "single",
+    "temperature": null,
+    "thinking": null,
+    "thinking_effort": null,
+    "coded_at": "2026-07-06T18:39:21Z",
+    "notes": {}
+  }
+}

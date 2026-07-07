@@ -1,0 +1,548 @@
+{
+  "document_meta": {
+    "title": "Georgia Statewide Assessment of Forest Resources and Forest Resources Strategy (Forest Action Plan)",
+    "year": 2020,
+    "jurisdiction": "Georgia",
+    "document_type": "Forest Action Plan (State Assessment and Resource Strategy)",
+    "document_id": "GA_FAP_2020",
+    "page_count": 234
+  },
+  "orientation": {
+    "summary": "This document is Georgia's Forest Action Plan (FAP), comprising both a Statewide Assessment of Forest Resources (GA_FAP-RA_2020.pdf) and a Forest Resources Strategy (GA_FAP-S_2020.pdf), produced under the leadership of the Georgia Forestry Commission (GFC) ca. 2010 and updated through approximately 2020. The document's primary focus is forest resource management, economic forestry, wildfire, pest management, water quality, and urbanization threats — not climate adaptation or range shift science per se. Climate change is acknowledged briefly and generically as a threat to southern forests (one section lists projected ecological and economic impacts including range shifts), but the plan performs no original climate analysis and does not apply vulnerability models, niche models, climate models, or connectivity models to its focal species or habitats. The document's engagement with range-shift science consists of a single qualitative bullet noting that species ranges could move northward and upslope, embedded in a broader list of potential climate change impacts. Connectivity is discussed primarily in the context of forest fragmentation and wildlife corridors disrupted by parcelization, not in explicit climate-gradient terms.",
+    "evidence_index": [
+      {
+        "text": "Impacts from climate change are a threat to southern forests. Paleontological data demonstrates that southern forest ecosystems have adapted to gradual changes in climate for millions of years (Iverson and Prasad 2001; Karl et al. 2009).",
+        "location": "Threats to Forest Resources / Wildfire section (GA_FAP-RA_2020.pdf)",
+        "relevant_elements": ["1.1", "3.5", "3.6", "3.7"]
+      },
+      {
+        "text": "However, mounting evidence suggests that the current warming trend is occurring more rapidly than previous climate shifts (Karl et al. 2009).",
+        "location": "Threats to Forest Resources / Wildfire section (GA_FAP-RA_2020.pdf)",
+        "relevant_elements": ["1.1"]
+      },
+      {
+        "text": "Expansion/contraction of species range. In general, ranges could move northward and up slope for all species, including Georgia's primary timber producing species.",
+        "location": "Ecological Impacts bullet list, Threats to Forest Resources (GA_FAP-RA_2020.pdf)",
+        "relevant_elements": ["1.1", "1.3", "3.2", "3.3", "4.2"]
+      },
+      {
+        "text": "Increased vulnerability to pests, pathogens, and natural disturbance. Some current models indicate that average temperatures will increase in all seasons. This means a longer growing season, which may increase reproductive success for insect pests and allow for more frequent and intense outbreaks.",
+        "location": "Ecological Impacts bullet list, Threats to Forest Resources (GA_FAP-RA_2020.pdf)",
+        "relevant_elements": ["1.1", "3.6", "3.7"]
+      },
+      {
+        "text": "Productive, dry sites may become more vulnerable. Pine plantations established on dry sites could become highly vulnerable to the effects of climate change.",
+        "location": "Ecological Impacts bullet list, Threats to Forest Resources (GA_FAP-RA_2020.pdf)",
+        "relevant_elements": ["1.1", "3.5"]
+      },
+      {
+        "text": "Changes in forest species composition. More drought-hardy species may be able to better compete in the pine forests of Georgia. Quercus species may become a larger component of today's pine forests (Iverson and Prasad 2001).",
+        "location": "Ecological Impacts bullet list, Threats to Forest Resources (GA_FAP-RA_2020.pdf)",
+        "relevant_elements": ["1.1", "3.7"]
+      },
+      {
+        "text": "Invasive species. More frequent disturbance, higher mortality and expanding ranges could intensify invasive species spread.",
+        "location": "Ecological Impacts bullet list, Threats to Forest Resources (GA_FAP-RA_2020.pdf)",
+        "relevant_elements": ["3.7"]
+      },
+      {
+        "text": "Expansion of the range for southern pine species means that states north of Georgia may be able to gain market share and productivity (Shugart, Sedjo and Sohngen 2003).",
+        "location": "Economic Impacts bullet list, Threats to Forest Resources (GA_FAP-RA_2020.pdf)",
+        "relevant_elements": ["1.1", "3.2", "3.3"]
+      },
+      {
+        "text": "Both fragmentation and parcelization may disrupt wildlife corridors and migration routes of many wildlife species. Those species requiring large, undisturbed expanses may decline.",
+        "location": "Threats to Forest Resources / Urbanization and Changing Land Uses (GA_FAP-RA_2020.pdf)",
+        "relevant_elements": ["1.4", "3.3"]
+      },
+      {
+        "text": "Evidence indicates that we may be expecting, through climate change, more intense weather phenomena that will outchallenge wildland fire managers.",
+        "location": "Threats to Forest Resources / Wildfire section (GA_FAP-RA_2020.pdf)",
+        "relevant_elements": ["3.5", "3.6"]
+      },
+      {
+        "text": "Fewer days with temperatures below freezing will increase the survival rate of overwintering insects. Higher temperatures may also result in lower moisture availability due to increased evapotranspiration, leading to overall drying conditions. Both of these factors will result in higher mortality of trees and increased wildfire risk.",
+        "location": "Ecological Impacts bullet list, Threats to Forest Resources (GA_FAP-RA_2020.pdf)",
+        "relevant_elements": ["3.5", "3.6", "3.7"]
+      },
+      {
+        "text": "Although current models differ on how precipitation will respond to climate change, much of the southeast is likely to experience longer and more frequent droughts.",
+        "location": "Ecological Impacts bullet list, Threats to Forest Resources (GA_FAP-RA_2020.pdf)",
+        "relevant_elements": ["3.5", "2.3"]
+      },
+      {
+        "text": "Development in the wildland-urban interface often occurs in the headwaters of streams and rivers that are home to many of Georgia's endemic species which are vulnerable to environmental changes and pollutants.",
+        "location": "Threats to Forest Resources / Urbanization and Changing Land Uses (GA_FAP-RA_2020.pdf)",
+        "relevant_elements": ["1.1", "3.5"]
+      },
+      {
+        "text": "Forest fragmentation is the division of contiguous forest areas into smaller, isolated pieces or less contiguous tracts due to development, conversion to agriculture, the divestiture of forest land by the forest industry and other human activities.",
+        "location": "Issue Description, Fragmentation and Parcelization (GA_FAP-S_2020.pdf)",
+        "relevant_elements": ["1.4"]
+      },
+      {
+        "text": "The development of a longleaf pine corridor from Ft. Benning, Georgia to Eglin Air Force Base, Florida via Ft. Rucker, Alabama would protect, conserve and restore longleaf pine ecosystems that are critical habitat for many threatened and endangered species.",
+        "location": "Alabama-Georgia-Florida Longleaf Pine Corridor, Regional Priority Areas (GA_FAP-RA_2020.pdf)",
+        "relevant_elements": ["1.4", "4.1", "4.2"]
+      },
+      {
+        "text": "Watershed planning work in north Georgia's Blue Ridge and Ridge and Valley priority areas will target opportunities to enhance the water and air quality function of forest canopy.",
+        "location": "Issue-Specific Priority Areas (urbanization) (GA_FAP-RA_2020.pdf)",
+        "relevant_elements": ["3.1", "4.1"]
+      },
+      {
+        "text": "Six priority area boundaries were defined as Blue Ridge, Ridge and Valley, Fall Line, Large River Bottomlands, Atlantic Coastal Plain and East Gulf Coastal Plain.",
+        "location": "Priority area identification section (GA_FAP-RA_2020.pdf)",
+        "relevant_elements": ["3.1", "4.1"]
+      },
+      {
+        "text": "Private forest lands have enormous potential to provide climate benefits through carbon sequestration.",
+        "location": "Issue Description (carbon sequestration) (GA_FAP-RA_2020.pdf)",
+        "relevant_elements": ["4.5"]
+      },
+      {
+        "text": "Includes timelines for project and program implementation; Identifies partner and stakeholder involvement; Identifies strategies for monitoring outcomes within priority forest landscape areas and how actions will be revised when needed",
+        "location": "INTRODUCTION, GA_FAP-S_2020.pdf",
+        "relevant_elements": ["4.3", "3.4"]
+      },
+      {
+        "text": "Georgia's SWAP identifies 20 high priority animals (Table 13) and 56 plants (Table 14 on following page) associated with pine savanna that are in need of conservation attention.",
+        "location": "Restoration and management of pine savanna habitats (GA_FAP-RA_2020.pdf)",
+        "relevant_elements": ["3.2", "3.3", "4.1"]
+      },
+      {
+        "text": "GFC will identify areas of opportunity within community watersheds to connect forest patches to improve the water and air quality function of forest canopy, identify appropriate mechanisms, and facilitate discussions to link patches with landowners, local governments and conservation-minded nonprofit organizations.",
+        "location": "Potential Agency and Organization Roles (urbanization) (GA_FAP-RA_2020.pdf)",
+        "relevant_elements": ["1.4", "4.1"]
+      }
+    ]
+  },
+  "concepts": {
+    "climate_vulnerability": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Productive, dry sites may become more vulnerable. Pine plantations established on dry sites could become highly vulnerable to the effects of climate change.",
+          "location": "Ecological Impacts bullet list, Threats to Forest Resources (GA_FAP-RA_2020.pdf)",
+          "sub_component": "exposure",
+          "citations": []
+        },
+        {
+          "text": "Expansion/contraction of species range. In general, ranges could move northward and up slope for all species, including Georgia's primary timber producing species.",
+          "location": "Ecological Impacts bullet list, Threats to Forest Resources (GA_FAP-RA_2020.pdf)",
+          "sub_component": "exposure",
+          "citations": ["Iverson and Prasad 2001", "Karl et al. 2009"]
+        }
+      ],
+      "absence_note": "The document references climate exposure (warming, drought, drying) as threats to forest ecosystems and notes that sites and species could become vulnerable. However, it does not discuss adaptive capacity of species or habitats in any structured way — there is no discussion of movement capacity, genetic variation, physiological tolerances, or other adaptive capacity components in a climate-vulnerability framing. Score is 2 (exposure referenced without adaptive capacity discussion)."
+    },
+    "adaptive_capacity_specificity": {
+      "evaluable": true,
+      "score": 0,
+      "evidence": [],
+      "absence_note": "The document does not discuss adaptive capacity of species or ecosystems in a climate context. The single reference to species range shifts under climate change is a generic projected impact statement, not a discussion of adaptive capacity."
+    },
+    "adaptive_capacity_components": {
+      "demography": {
+        "present": false,
+        "evidence": []
+      },
+      "distribution": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Expansion/contraction of species range. In general, ranges could move northward and up slope for all species, including Georgia's primary timber producing species.",
+            "location": "Ecological Impacts bullet list, Threats to Forest Resources (GA_FAP-RA_2020.pdf)",
+            "sub_component": "distribution",
+            "citations": []
+          }
+        ]
+      },
+      "movement": {
+        "present": false,
+        "evidence": []
+      },
+      "evolutionary_potential": {
+        "present": false,
+        "evidence": []
+      },
+      "ecological_dependencies": {
+        "present": false,
+        "evidence": []
+      },
+      "abiotic_niche": {
+        "present": false,
+        "evidence": []
+      },
+      "life_history": {
+        "present": false,
+        "evidence": []
+      }
+    },
+    "connectivity": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Both fragmentation and parcelization may disrupt wildlife corridors and migration routes of many wildlife species. Those species requiring large, undisturbed expanses may decline.",
+          "location": "Threats to Forest Resources / Urbanization and Changing Land Uses (GA_FAP-RA_2020.pdf)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "Connectivity is discussed in terms of wildlife corridors disrupted by fragmentation and parcelization. There is one mention of a longleaf pine corridor between military installations in three states. Neither is explicitly framed in climate-gradient or range-shift terms. Score is 1 (generic connectivity referenced without climate-specific framing)."
+    }
+  },
+  "tools": {
+    "vulnerability_models": {
+      "evaluable": true,
+      "score": 0,
+      "named_tools": [],
+      "evidence": [],
+      "absence_note": "No vulnerability models (CCVI, PVA, or similar) are referenced or applied anywhere in this document."
+    },
+    "niche_models": {
+      "evaluable": true,
+      "score": 0,
+      "named_tools": [],
+      "evidence": [],
+      "absence_note": "No species distribution models or niche models are referenced in this document."
+    },
+    "climate_models": {
+      "evaluable": true,
+      "score": 1,
+      "named_tools": [],
+      "evidence": [
+        {
+          "text": "Although current models differ on how precipitation will respond to climate change, much of the southeast is likely to experience longer and more frequent droughts.",
+          "location": "Ecological Impacts bullet list, Threats to Forest Resources (GA_FAP-RA_2020.pdf)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document references 'current models' in a very general way (noting models differ on precipitation response) without naming any specific climate model, GCM, CMIP product, RCP, SSP, or downscaling product. This is a generic reference to the existence of climate models, not an application to the plan's focal subjects. Score is 1.",
+      "time_horizon_years": [],
+      "emission_scenarios": []
+    },
+    "connectivity_models": {
+      "evaluable": true,
+      "score": 0,
+      "named_tools": [],
+      "evidence": [],
+      "absence_note": "No connectivity models (CircuitScape, Linkage Mapper, least-cost path, etc.) are referenced. The GIS-based forest fragmentation analysis uses Landsat land-cover data to assess patch sizes, but this is not a connectivity model in the codebook sense."
+    }
+  },
+  "context": {
+    "management_scale": {
+      "local": {
+        "present": false,
+        "evidence": []
+      },
+      "site": {
+        "present": false,
+        "evidence": []
+      },
+      "watershed": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The 12-digit Hydrologic Unit Codes (HUCs) were selected as a bounding area because they, for the most part, represent a consistent area of approximately 45km2. Areas that were represented by 30 percent or greater coverage of a HUC by core area forests were selected.",
+            "location": "Priority area identification section (GA_FAP-RA_2020.pdf)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "city": {
+        "present": false,
+        "evidence": []
+      },
+      "county": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Portions of 61 Georgia counties have been identified as high priority for bobwhite restoration (Figure 52).",
+            "location": "Restoration and management of pine savanna habitats (GA_FAP-RA_2020.pdf)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "within_state_region": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Six priority area boundaries were defined as Blue Ridge, Ridge and Valley, Fall Line, Large River Bottomlands, Atlantic Coastal Plain and East Gulf Coastal Plain.",
+            "location": "Priority area identification section (GA_FAP-RA_2020.pdf)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "state": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The Georgia Statewide Assessment of Forest Resources is a comprehensive and thorough analysis of one of the nation's most abundant and productive expanses of natural splendor.",
+            "location": "Leading Threats and Pressing Issues (GA_FAP-RA_2020.pdf)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "multistate": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The development of a longleaf pine corridor from Ft. Benning, Georgia to Eglin Air Force Base, Florida via Ft. Rucker, Alabama would protect, conserve and restore longleaf pine ecosystems that are critical habitat for many threatened and endangered species.",
+            "location": "Alabama-Georgia-Florida Longleaf Pine Corridor, Regional Priority Areas (GA_FAP-RA_2020.pdf)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "national": {
+        "present": false,
+        "evidence": []
+      },
+      "transnational": {
+        "present": false,
+        "evidence": []
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Expansion/contraction of species range. In general, ranges could move northward and up slope for all species, including Georgia's primary timber producing species.",
+            "location": "Ecological Impacts bullet list, Threats to Forest Resources (GA_FAP-RA_2020.pdf)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecoregion": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The six physiographic ecoregions of Georgia are the Southern Coastal Plain, Southeastern Coastal Plains, Piedmont, Blue Ridge, Ridge and Valley and Cumberland Plateau.",
+            "location": "Forest Resource Conditions / Ecological Regions (GA_FAP-RA_2020.pdf)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "province": {
+        "present": false,
+        "evidence": []
+      },
+      "section": {
+        "present": false,
+        "evidence": []
+      },
+      "subsection": {
+        "present": false,
+        "evidence": []
+      },
+      "lake": {
+        "present": false,
+        "evidence": []
+      },
+      "river": {
+        "present": false,
+        "evidence": []
+      },
+      "district": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["Blue Ridge priority area", "Ridge and Valley priority area", "Fall Line priority area", "Large River Bottomlands priority area", "Atlantic Coastal Plain priority area", "East Gulf Coastal Plain priority area", "Chattahoochee National Forest", "Okefenokee National Wildlife Refuge", "Apalachicola-Chattahoochee-Flint River Basin", "Upper Oconee watershed", "Etowah watershed"]
+    },
+    "biological_unit_score": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Expansion/contraction of species range. In general, ranges could move northward and up slope for all species, including Georgia's primary timber producing species.",
+          "location": "Ecological Impacts bullet list, Threats to Forest Resources (GA_FAP-RA_2020.pdf)",
+          "sub_component": "species",
+          "citations": []
+        },
+        {
+          "text": "Changes in forest species composition. More drought-hardy species may be able to better compete in the pine forests of Georgia. Quercus species may become a larger component of today's pine forests.",
+          "location": "Ecological Impacts bullet list, Threats to Forest Resources (GA_FAP-RA_2020.pdf)",
+          "sub_component": "community/ecosystem",
+          "citations": ["Iverson and Prasad 2001"]
+        }
+      ],
+      "absence_note": "In the climate-relevant sections, both species (timber species, pines) and community/ecosystem (forest communities, species composition) are referenced. Score is 2."
+    },
+    "biological_unit_components": {
+      "species": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Expansion/contraction of species range. In general, ranges could move northward and up slope for all species, including Georgia's primary timber producing species.",
+            "location": "Ecological Impacts bullet list, Threats to Forest Resources (GA_FAP-RA_2020.pdf)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "population": {
+        "present": false,
+        "evidence": []
+      },
+      "habitat": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Productive, dry sites may become more vulnerable. Pine plantations established on dry sites could become highly vulnerable to the effects of climate change.",
+            "location": "Ecological Impacts bullet list, Threats to Forest Resources (GA_FAP-RA_2020.pdf)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Changes in forest species composition. More drought-hardy species may be able to better compete in the pine forests of Georgia. Quercus species may become a larger component of today's pine forests.",
+            "location": "Ecological Impacts bullet list, Threats to Forest Resources (GA_FAP-RA_2020.pdf)",
+            "sub_component": null,
+            "citations": ["Iverson and Prasad 2001"]
+          }
+        ]
+      },
+      "community": {
+        "present": false,
+        "evidence": []
+      },
+      "genotype_phenotype": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["southern pine species", "Quercus species", "longleaf pine", "loblolly pine", "slash pine", "eastern hemlock", "northern bobwhite", "red-cockaded woodpecker", "pine plantations", "pine savanna"]
+    },
+    "partnerships_and_funding": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "GFC staff members continue to monitor developments on a national scale concerning climate change legislation so that Georgia's landowners will be well positioned to participate in carbon markets.",
+          "location": "Potential Agency and Organization Roles (carbon sequestration) (GA_FAP-RA_2020.pdf)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document describes extensive partnerships and funding for wildfire, water quality, and forest health programs, but these are not framed around range shifts or climate-driven distributional change. The only climate-adjacent partnership/funding discussion concerns carbon sequestration markets. Score is 1 (some funding/partnerships mentioned but not for range-shift work specifically; aspirational in the climate context)."
+    },
+    "climate_threat_habitat_degradation": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Higher temperatures may also result in lower moisture availability due to increased evapotranspiration, leading to overall drying conditions. Both of these factors will result in higher mortality of trees and increased wildfire risk.",
+          "location": "Ecological Impacts bullet list, Threats to Forest Resources (GA_FAP-RA_2020.pdf)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_threat_species_vital_rates": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Increased vulnerability to pests, pathogens, and natural disturbance. Some current models indicate that average temperatures will increase in all seasons. This means a longer growing season, which may increase reproductive success for insect pests and allow for more frequent and intense outbreaks.",
+          "location": "Ecological Impacts bullet list, Threats to Forest Resources (GA_FAP-RA_2020.pdf)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document states that warming leads to higher tree mortality (drying conditions + pest outbreaks). This is a chain from climate event to species vital rate (tree mortality), satisfying the element criterion. The framing 'both of these factors will result in higher mortality of trees' is direct enough to count."
+    },
+    "climate_threat_biotic_stressors": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Changes in forest species composition. More drought-hardy species may be able to better compete in the pine forests of Georgia. Quercus species may become a larger component of today's pine forests.",
+          "location": "Ecological Impacts bullet list, Threats to Forest Resources (GA_FAP-RA_2020.pdf)",
+          "sub_component": null,
+          "citations": ["Iverson and Prasad 2001"]
+        }
+      ],
+      "absence_note": {}
+    }
+  },
+  "actions": {
+    "priority_habitat_identification": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Six priority area boundaries were defined as Blue Ridge, Ridge and Valley, Fall Line, Large River Bottomlands, Atlantic Coastal Plain and East Gulf Coastal Plain.",
+          "location": "Priority area identification section (GA_FAP-RA_2020.pdf)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document identifies priority forest landscapes using spatial analysis (Landsat land-cover fragmentation mapping, HUC watersheds), and these are mapped (Figure 41). However, this spatial prioritization is driven by fragmentation/core forest analysis and water quality, not by climate-driven range shifts or climate refugia. The codebook requires discussion in the context of climate-induced threats to habitat for a higher score. The maps exist (Figure 41) but are not framed in a range-shift or climate-adaptation context. Score is 1 because some spatial representation exists but without climate-shift framing."
+    },
+    "targeted_range_shift_actions": {
+      "evaluable": true,
+      "score": 0,
+      "evidence": [],
+      "absence_note": "The document does not propose any targeted actions to manage, facilitate, prevent, or respond to climate-driven species range shifts. The longleaf pine corridor is framed as habitat restoration for threatened/endangered species recovery, not as a climate-motivated range-shift facilitation action. No assisted migration, climate-motivated translocation, or climate-corridor construction is proposed."
+    },
+    "time_bound_and_monitoring": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Includes timelines for project and program implementation; Identifies partner and stakeholder involvement; Identifies strategies for monitoring outcomes within priority forest landscape areas and how actions will be revised when needed",
+          "location": "INTRODUCTION, GA_FAP-S_2020.pdf",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The Strategy section includes objectives with time-bound targets (e.g., 'increase canopy cover from 37 to 40 percent by 2020') and performance measures, but these are for general forestry/urbanization programs, not for climate range-shift actions. There is no effectiveness monitoring tied to climate adaptation actions specifically. Score is 1 (some deadlines exist at the program level)."
+    },
+    "evidence_of_efficacy": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Paleontological data demonstrates that southern forest ecosystems have adapted to gradual changes in climate for millions of years (Iverson and Prasad 2001; Karl et al. 2009). Historically, these climate shifts occurred slowly, over hundreds or thousands of years, giving forest communities time to successfully adapt to changes.",
+          "location": "Threats to Forest Resources / Wildfire section (GA_FAP-RA_2020.pdf)",
+          "sub_component": null,
+          "citations": ["Iverson and Prasad 2001", "Karl et al. 2009"]
+        }
+      ],
+      "absence_note": "The document cites paleontological/historical evidence and academic references (Iverson and Prasad 2001; Karl et al. 2009; Shugart, Sedjo and Sohngen 2003) as general rationale for the climate change impact discussion, but these are background framing citations rather than evidence of efficacy for specific management actions. No prior projects or case studies supporting the efficacy of climate-related actions are described. Score is 1 (rationale outlined but no direct evidence for actions).",
+      "projects": []
+    },
+    "adaptation_planning_frameworks": {
+      "evaluable": true,
+      "score": 0,
+      "evidence": [],
+      "absence_note": "The document does not reference any formal climate adaptation planning frameworks (RAD, RRT, SBDA, CCVA, adaptation menus, structured decision making for climate change, etc.). The plan includes adaptive management language for general forestry programs but this is not framed in a climate-change context. The farm bill requirement to 'manage and restore trees and forests to mitigate and adapt to global climate change' appears once in a figure caption but no framework is described."
+    }
+  },
+  "coding_meta": {
+    "coder": "llm:claude-sonnet-4-6",
+    "model": "claude-sonnet-4-6",
+    "provider": "claude",
+    "codebook_version": "0.4",
+    "ingest": "text",
+    "design": "single",
+    "temperature": null,
+    "thinking": null,
+    "thinking_effort": null,
+    "coded_at": "2026-07-07T00:31:30Z",
+    "notes": {}
+  }
+}

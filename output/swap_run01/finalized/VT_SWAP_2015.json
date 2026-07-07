@@ -1,0 +1,943 @@
+{
+  "document_meta": {
+    "title": "Vermont's Wildlife Action Plan 2015",
+    "year": 2015,
+    "jurisdiction": "Vermont",
+    "document_type": "SWAP",
+    "document_id": "VT_SWAP_2015",
+    "page_count": 1502
+  },
+  "orientation": {
+    "summary": "This is Vermont's 2015 Wildlife Action Plan (SWAP), a comprehensive 10-year revision covering Species of Greatest Conservation Need (SGCN), their habitats, and threats. The document has a strong and explicit posture toward climate change, including a dedicated chapter (Chapter 3) on climate change impacts, vulnerability assessments, and conservation strategies. Range shifts are addressed directly and substantively—the document discusses northward/upslope species movements, forest community compositional change, and phenological shifts, and links connectivity conservation explicitly to enabling species range shifts under climate change. The document performs its own climate vulnerability assessment (18 species, 44 habitats) and develops conservation actions in response; it references external scientific literature extensively for climate projections and ecological impacts, and references regional collaborative programs. The document also includes appendices for species conservation reports, a landscape conservation design, a big game management plan, and a landowner wildlife habitat management guide.",
+    "evidence_index": [
+      {
+        "text": "Notable in this 2015-2025 Wildlife Action Plan are the addition of a climate change chapter; the rerecognition of diseases as significant threats to some species",
+        "location": "Introduction",
+        "relevant_elements": ["1.1", "3.5", "3.6"]
+      },
+      {
+        "text": "vulnerability is defined as \"the susceptibility of a species, system or resource to be negatively affected by climate change\" and interactions with other non-climate stressors such as habitat degradation and habitat loss",
+        "location": "Ch. 3: Climate Change & Conservation, Impacts of Climate Change on Vermont's Ecology",
+        "relevant_elements": ["1.1", "2.1"]
+      },
+      {
+        "text": "Climate change already presents a variety of challenges for species and ecosystems across the Northeast. These include the reduction in the \"quality and distribution of habitats, the availability of food, increases in the abundance of parasites and diseases, and the increased incidence of stress from heat and drought\"",
+        "location": "Ch. 3: Climate Change & Conservation, Impacts of Climate Change on Vermont's Ecology",
+        "relevant_elements": ["1.1", "3.5", "3.6", "3.7"]
+      },
+      {
+        "text": "models of predicted climates, suggest that past migration rates are too slow to keep up with current and future changes climatic conditions",
+        "location": "Ch. 3: Climate Change & Conservation, Forests",
+        "relevant_elements": ["1.2", "1.3"]
+      },
+      {
+        "text": "There is evidence suggest that there are significant differences in response capacity between \"short-lived species with high dispersal capacity (such as birds) and long-lived species with limited dispersal capacity (such as many trees)\"",
+        "location": "Ch. 3: Climate Change & Conservation, Habitats and Species",
+        "relevant_elements": ["1.2", "1.3"]
+      },
+      {
+        "text": "Those species that have a greater capacity to adapt to new conditions, or have greater climatic tolerances, will have a competitive advantage and may expand their ranges while those with narrower climatic tolerances may experience range contraction.",
+        "location": "Ch. 3: Climate Change & Conservation, Habitats and Species",
+        "relevant_elements": ["1.1", "1.2", "1.3"]
+      },
+      {
+        "text": "Maintaining and enhancing healthy, connected, landscapes we maintain the habitat integrity, help a wide range of species, improve climate change resiliency, and reduce the potential impacts of diseases and non-native invasives.",
+        "location": "Introduction",
+        "relevant_elements": ["1.4", "4.1"]
+      },
+      {
+        "text": "climate change adaptation is enhanced if the long distance movements of plants and animals is supported by a combination of short movements within large, topographically diverse forest blocks and short corridor movements between forest blocks",
+        "location": "Ch. 6: Landscape Characteristics, Connectivity Blocks",
+        "relevant_elements": ["1.4", "4.2"]
+      },
+      {
+        "text": "The mission of this collaboration is to sustain connectivity for wildlife by protecting against habitat fragmentation and climate change.",
+        "location": "Ch. 3: Climate Change & Conservation, Regional Efforts to Conserve Wildlife in the Era of Climate Change (Staying Connected Initiative)",
+        "relevant_elements": ["1.4", "3.4", "4.2"]
+      },
+      {
+        "text": "In Building on this assessment the Fish & Wildlife Department and National Wildlife Federation developed the Species & Habitat Climate Vulnerability Assessment for 18 key species, 20 upland habitats, 11 wetland habitats, and 13 freshwater habitats",
+        "location": "Ch. 3: Climate Change & Conservation, Regional Efforts",
+        "relevant_elements": ["2.1"]
+      },
+      {
+        "text": "Vulnerability scores were designated for each species, habitat and system. Ratings account for the extent of vulnerability (extremely vulnerable, highly vulnerable etc.) based upon percentage changes in abundance or extent expected by 2050",
+        "location": "Ch. 3: Climate Change & Conservation",
+        "relevant_elements": ["2.1"]
+      },
+      {
+        "text": "Models predicting the ways in which forests will respond to long-term climate trends show that species such as sugar maple and balsam fir are likely to lose suitable habitat in Vermont, while several species of oak are projected to expand in the extent of suitable habitat",
+        "location": "Ch. 3: Climate Change & Conservation, Forests",
+        "relevant_elements": ["2.2"]
+      },
+      {
+        "text": "Current evidence, including shifts in entire ecoregions in some locations, suggests that over time these changes could exceed the ability of many species to adjust, leading to predictions of species declines and higher extinction rates globally",
+        "location": "Ch. 3: Climate Change & Conservation, Habitats and Species",
+        "relevant_elements": ["1.1", "2.2"]
+      },
+      {
+        "text": "annual temperature (code=A) had an increasing trend with projections suggesting a 3.7 to 5.8°F increase by 2050, and a 5.0 to 9.5°F increase by 2100.",
+        "location": "Ch. 3: Climate Change & Conservation",
+        "relevant_elements": ["2.3"]
+      },
+      {
+        "text": "Vermont is at the core of its range. The Wood Turtle is listed as an Appendix II species",
+        "location": "A1. Amphibian & Reptile SGCN Conservation Reports, Wood Turtle",
+        "relevant_elements": ["3.3"]
+      },
+      {
+        "text": "Riparian Areas also provide a critical element of landscape connectivity for plant and animal movement in response to climate change",
+        "location": "Ch. 6: Landscape Characteristics, Surface Waters and Riparian Areas",
+        "relevant_elements": ["1.4", "4.2"]
+      },
+      {
+        "text": "A network of Connectivity Blocks allows wide-ranging animals to move across their range...allows plant and animal species to colonize new and appropriate habitat as climate and land uses change",
+        "location": "Ch. 6: Landscape Characteristics, Connectivity Blocks",
+        "relevant_elements": ["1.4", "4.2"]
+      },
+      {
+        "text": "Vermont Conservation Design: Maintaining and Enhancing an Ecologically Functional Landscape...identifies coarse-filter conservation targets for landscape scale features including forest blocks, riparian areas, wildlife and landscape connectivity, and physical landscape diversity that are necessary to effectively conserve many finer scale conservation elements in the face of climate change and habitat loss",
+        "location": "Ch. 6: Implementing the 2005 Wildlife Action Plan",
+        "relevant_elements": ["4.1", "4.5"]
+      },
+      {
+        "text": "Identify, prioritize and maintain existing contiguous forest blocks and associated linkages that allow for upward and northward movement in response to climate change",
+        "location": "Ch. 5: Birds SGCN Conservation Reports, Conservation Strategies",
+        "relevant_elements": ["4.1", "4.2"]
+      },
+      {
+        "text": "6. Identify, prioritize and conserve existing contiguous forest blocks and associated linkages that allow for upward and northward movement in response to climate change.",
+        "location": "Ch. 5: Birds SGCN Conservation Reports, Conservation Strategies",
+        "relevant_elements": ["4.1", "4.2"]
+      },
+      {
+        "text": "12. Minimize climate change impacts by employing management strategies that sustain fundamental ecological functions, promote habitat resiliency and adaptive capacity, and restore habitats with future conditions in mind.",
+        "location": "Priority Actions to Address Climate Change Impacts to Species and Habitats",
+        "relevant_elements": ["4.1", "4.5"]
+      },
+      {
+        "text": "3. Restore rivers through the assessment, prioritization, and facilitation of dam removal or modification. 4. Support the Staying Connected Initiative, Cold Hollow to Canada, and similar programs focused on maintaining and enhancing landscape integrity and connectivity.",
+        "location": "Priority Actions to Address Climate Change Impacts to Species and Habitats",
+        "relevant_elements": ["4.2", "3.4"]
+      },
+      {
+        "text": "13. Invest in research and monitoring programs that can inform species and habitat management with future conditions in mind such as monitoring indicators of changes in species distribution and abundance",
+        "location": "Priority Actions to Address Climate Change Impacts to Species and Habitats",
+        "relevant_elements": ["4.3"]
+      },
+      {
+        "text": "Vermont will update its Action Plan on a 10-year cycle. Ten years will allow for planning, and implementation of actions and for detecting responses in at least some SGCN populations.",
+        "location": "Ch. 7: Action Plan Review",
+        "relevant_elements": ["4.3"]
+      },
+      {
+        "text": "Adaptive management is a formalized method for learning from experience where design, management, and monitoring are integrated to test assumptions in order to adapt, learn and improve",
+        "location": "Ch. 7: Monitoring & Adaptive Management",
+        "relevant_elements": ["4.3", "4.5"]
+      },
+      {
+        "text": "3. To address the uncertainty of assisted migration as a climate change strategy, the ANR Lands Team is reviewing options, impacts and management guidelines for state lands.",
+        "location": "Priority Conservation Strategies (table in Climate chapter)",
+        "relevant_elements": ["4.2", "4.5"]
+      },
+      {
+        "text": "Bicknell's Thrush is limited to high-elevation spruce-fir forests and is a good example of a species particularly vulnerable to climate-driven habitat change.",
+        "location": "Ch. 3: Climate Change & Conservation, Habitats and Species",
+        "relevant_elements": ["1.1", "3.3"]
+      },
+      {
+        "text": "Moose appears to be vulnerable to climate change in Vermont. As a cold-adapted species, Moose begin to reduce food intake in response to high summer temperatures...As annual summer high temperatures increase under climate change, the habitat range of Moose may shift northward.",
+        "location": "Ch. 3: Climate Change & Conservation, Habitats and Species",
+        "relevant_elements": ["1.1", "1.3", "3.6"]
+      },
+      {
+        "text": "Warming winter temperatures may reduce the area of permanent winter snowpack. The reduction in snowpack may increase contact between Moose and White-tailed Deer, which are carries of a brain parasite",
+        "location": "Ch. 3: Climate Change & Conservation, Habitats and Species",
+        "relevant_elements": ["3.7", "3.6"]
+      },
+      {
+        "text": "data suggests that many migratory bird species are arriving and breeding earlier in Vermont, and that the ranges of numerous migratory bird species are changing in response to climate change",
+        "location": "Ch. 3: Climate Change & Conservation, Habitats and Species",
+        "relevant_elements": ["1.1", "3.7"]
+      },
+      {
+        "text": "In 2015 VFPR presented a report to the legislature on forest fragmentation. Strategies to address forest fragmentation complement habitat conservation efforts needed for climate change.",
+        "location": "Ch. 3: State Efforts",
+        "relevant_elements": ["3.5", "4.1"]
+      },
+      {
+        "text": "Invasive species, which generally exhibit a competitive edge under warmer conditions, could further spread.",
+        "location": "Ch. 3: Climate Change & Conservation, Habitats and Species",
+        "relevant_elements": ["3.7"]
+      },
+      {
+        "text": "Changes in habitat suitability for many species can prompt a reshuffling and unraveling of currently recognized species assemblages and natural communities.",
+        "location": "Ch. 3: Climate Change & Conservation, Habitats and Species",
+        "relevant_elements": ["3.7", "1.1"]
+      },
+      {
+        "text": "With earlier leaf-out and flowering periods because of this warming, many species may be more susceptible to pests and pathogens",
+        "location": "Ch. 3: Climate Change & Conservation, Habitats and Species",
+        "relevant_elements": ["3.7", "3.6"]
+      },
+      {
+        "text": "Vermont had a 20% decrease in the number of days below freezing in the last decade alone. As a result, lakes and ponds are experiencing an average of seven fewer freezing days per decade.",
+        "location": "Ch. 3: Vermont's Changing Seasons",
+        "relevant_elements": ["1.1", "3.5"]
+      },
+      {
+        "text": "an increased number of high-intensity rain events in conjunction with warmer temperatures will result in more flooding along Vermont's rivers and shorelines",
+        "location": "Ch. 3: Vermont's Changing Seasons",
+        "relevant_elements": ["3.5"]
+      },
+      {
+        "text": "In assessing the vulnerability of wetland habitats, the Vermont Fish and Wildlife Department (VFWD), National Wildlife Federation (NWF) and others found Basin Swamps & Wetlands and Wet Shores to be particularly vulnerable to climate-driven impacts.",
+        "location": "Ch. 3: Wetlands",
+        "relevant_elements": ["2.1", "3.5"]
+      },
+      {
+        "text": "VFWD's Community Wildlife Program (CWP) provides technical assistance to municipalities and Regional Planning Commissions emphasizes the importance of integrating climate change effects on land, fish and wildlife conservation into planning.",
+        "location": "Ch. 3: Recent Projects",
+        "relevant_elements": ["3.4", "4.5"]
+      },
+      {
+        "text": "Northeast Association of Fish and Wildlife Agencies (NEAFWA)...Since 2007, the NEAFWA sponsored Regional Conservation Needs Grant Program has funded a large number of projects focused on identifying both the threats facing wildlife and their habitats under climate change",
+        "location": "Ch. 3: Regional Efforts",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "VFWD intentionally shifted to a greater focus on landscape and habitat connectivity through the efforts of this program for several reasons, including our understanding that creating a well-connected landscape is important for landscape resilience relative to climate change.",
+        "location": "Ch. 3: Recent Projects",
+        "relevant_elements": ["1.4", "4.1"]
+      },
+      {
+        "text": "Long-term changes linked to global warming and other climate issues are expected to drive major changes in habitat availability (e.g., high elevation habitats, wintering areas and migration stopovers), vegetative composition and location (e.g., the movement up in elevation or north in latitude, invasion by exotic pests)",
+        "location": "Ch. 2: Climate Change (threats section)",
+        "relevant_elements": ["1.1", "3.5", "3.7"]
+      },
+      {
+        "text": "Climate Change threatens several SGCN at the regional scale by altering (warming) their required thermal regimes.",
+        "location": "Ch. 5: Fish SGCN, Discussion of Threats",
+        "relevant_elements": ["1.1", "3.6"]
+      },
+      {
+        "text": "Long-term deposition of silt is likely altering the benthic habitat this amphipod uses...Climate Change (listed as habitat threat for multiple species)",
+        "location": "A4. Invertebrate SGCN Conservation Reports, Crustaceans Group",
+        "relevant_elements": ["3.5"]
+      },
+      {
+        "text": "Climate corridors are explicitly designed to connect habitats along a climate gradient allowing altitudinal and latitudinal range shifts.",
+        "location": "Ch. 6: Landscape Characteristics (High Priority Climate Change threat description)",
+        "relevant_elements": ["1.4", "4.2"]
+      },
+      {
+        "text": "Species will need to shift their distributions in response to climate-driven habitat and environmental changes. This will be more difficult in a fragmented landscape.",
+        "location": "Ch. 6: Landscape Characteristics (High Priority threats table)",
+        "relevant_elements": ["1.4", "4.2", "1.1"]
+      },
+      {
+        "text": "The Staying Connected Initiative...partners together in an interdisciplinary approach that utilizes tools of conservation science, land protection, community outreach, land use planning, transportation, and policy to ensure that connectivity across the landscape is healthy for both wildlife and human communities.",
+        "location": "Ch. 3: Regional Efforts",
+        "relevant_elements": ["1.4", "3.4"]
+      },
+      {
+        "text": "Vermont Conservation Design...identifies the connected network of components that create the basis for most ecological interactions",
+        "location": "Appendix F: Vermont Conservation Design",
+        "relevant_elements": ["4.1", "4.5"]
+      },
+      {
+        "text": "Simulations of range shift in response to climate change suggests extirpation from Vermont by 2080 (National Audubon Society 2014).",
+        "location": "A2. Bird SGCN Conservation Reports, Black-throated Blue Warbler",
+        "relevant_elements": ["1.1", "2.2"]
+      },
+      {
+        "text": "Audubon's climate model suggest that this species will be effected by climate change as the spruce-fir habitat is shifting upslope, requiring the and the species breeding range to contract or shift north.",
+        "location": "A2. Bird SGCN Conservation Reports, Blackpoll Warbler",
+        "relevant_elements": ["1.1", "2.2"]
+      },
+      {
+        "text": "Plan for species restoration through assisted migration and provide guidance and advice to independent efforts to restore or introduce new populations of SGCN.",
+        "location": "Ch. 5: Plants, Conservation Strategies",
+        "relevant_elements": ["4.2"]
+      },
+      {
+        "text": "recovery of lynx in Vermont may be limited by global climate change",
+        "location": "A5. Mammal SGCN Conservation Reports, Canada Lynx",
+        "relevant_elements": ["1.1", "3.5"]
+      },
+      {
+        "text": "Changes in the climate that result in the reduction of annual snowfall could greatly influence the distribution of lynx in the northeast",
+        "location": "A5. Mammal SGCN Conservation Reports, Canada Lynx",
+        "relevant_elements": ["1.1", "3.5"]
+      },
+      {
+        "text": "habitat stochasticity resulting from anticipated changes in the climate, the broadscale implementation of forest management practices that do not adequately account for marten habitat requirements...jeopardizes the persistence of marten in the state.",
+        "location": "A5. Mammal SGCN Conservation Reports, American Marten",
+        "relevant_elements": ["1.1", "3.5"]
+      },
+      {
+        "text": "Bobolink distribution expected to shift northward due to climate change, although models need to be refined.",
+        "location": "A2. Bird SGCN Conservation Reports, Bobolink",
+        "relevant_elements": ["1.1", "2.2"]
+      },
+      {
+        "text": "Southern flying squirrels are expanding their range northward and have recently been documented from the Northeastern Highlands",
+        "location": "A5. Mammal SGCN Conservation Reports, Southern Flying Squirrel",
+        "relevant_elements": ["3.3"]
+      },
+      {
+        "text": "Monitor range shifts of competing carnivore populations resulting from climate change.",
+        "location": "A5. Mammal SGCN Conservation Reports, American Marten",
+        "relevant_elements": ["4.3", "4.2"]
+      },
+      {
+        "text": "Implement Vermont's Clean Water Initiative to improve water quality statewide particularly in Lake Champlain.",
+        "location": "Priority Actions to Address Climate Change Impacts to Species and Habitats",
+        "relevant_elements": ["4.1"]
+      },
+      {
+        "text": "VFWD has recently developed a sampling regime that includes annual trout population monitoring concurrent with stream temperature data.",
+        "location": "Ch. 3: Recent Projects",
+        "relevant_elements": ["4.3"]
+      },
+      {
+        "text": "Since 2009, Staying Connected Initiative partners have permanently conserved more than 300,000 forested and wetland acres that include wildlife corridors and road crossings essential to healthy wildlife populations across the region.",
+        "location": "Ch. 5: Mammals SGCN, Implementing 2005 Plan",
+        "relevant_elements": ["3.4", "4.2"]
+      },
+      {
+        "text": "Vermont Agency of Natural Resources developed the Climate Change Adaptation Framework to gather information about climate change in Vermont as it relates to natural resources and to propose a strategic framework for continued climate change vulnerability assessment and action planning",
+        "location": "Ch. 3 (FIGURE caption - Vermont Efforts)",
+        "relevant_elements": ["4.5", "2.1"]
+      }
+    ]
+  },
+  "concepts": {
+    "climate_vulnerability": {
+      "evaluable": true,
+      "score": 3,
+      "evidence": [
+        {
+          "text": "vulnerability is defined as \"the susceptibility of a species, system or resource to be negatively affected by climate change\" and interactions with other non-climate stressors such as habitat degradation and habitat loss",
+          "location": "Ch. 3: Climate Change & Conservation, Impacts of Climate Change on Vermont's Ecology",
+          "sub_component": "exposure",
+          "citations": ["Staudinger, M.D. et al. 2015"]
+        },
+        {
+          "text": "Those species that have a greater capacity to adapt to new conditions, or have greater climatic tolerances, will have a competitive advantage and may expand their ranges while those with narrower climatic tolerances may experience range contraction.",
+          "location": "Ch. 3: Climate Change & Conservation, Habitats and Species",
+          "sub_component": "adaptive capacity",
+          "citations": []
+        },
+        {
+          "text": "Vulnerability scores were designated for each species, habitat and system. Ratings account for the extent of vulnerability (extremely vulnerable, highly vulnerable etc.) based upon percentage changes in abundance or extent expected by 2050 and include an associated confidence rating",
+          "location": "Ch. 3: Climate Change & Conservation",
+          "sub_component": "exposure",
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "adaptive_capacity_specificity": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "There is evidence suggest that there are significant differences in response capacity between \"short-lived species with high dispersal capacity (such as birds) and long-lived species with limited dispersal capacity (such as many trees)\"",
+          "location": "Ch. 3: Climate Change & Conservation, Habitats and Species",
+          "sub_component": null,
+          "citations": ["Stein, B.A. et al. 2014"]
+        },
+        {
+          "text": "models of predicted climates, suggest that past migration rates are too slow to keep up with current and future changes climatic conditions",
+          "location": "Ch. 3: Climate Change & Conservation, Forests",
+          "sub_component": null,
+          "citations": ["Rustad, L. et al. 2012"]
+        }
+      ],
+      "absence_note": {}
+    },
+    "adaptive_capacity_components": {
+      "demography": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "climate-driven impacts from extreme weather events, direct thermal stress, changes in habitat availability, and increases in parasites and diseases will affect native wildlife \"at all levels of organization from the physiology of individual animals to changes at the population level\"",
+            "location": "Ch. 3: Climate Change & Conservation, Habitats and Species",
+            "sub_component": null,
+            "citations": ["Rustad, L. et al. 2012"]
+          }
+        ]
+      },
+      "distribution": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Those species that have a greater capacity to adapt to new conditions, or have greater climatic tolerances, will have a competitive advantage and may expand their ranges while those with narrower climatic tolerances may experience range contraction.",
+            "location": "Ch. 3: Climate Change & Conservation, Habitats and Species",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "movement": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "There is evidence suggest that there are significant differences in response capacity between \"short-lived species with high dispersal capacity (such as birds) and long-lived species with limited dispersal capacity (such as many trees)\"",
+            "location": "Ch. 3: Climate Change & Conservation, Habitats and Species",
+            "sub_component": null,
+            "citations": ["Stein, B.A. et al. 2014"]
+          }
+        ]
+      },
+      "evolutionary_potential": {
+        "present": false,
+        "evidence": []
+      },
+      "ecological_dependencies": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The Little Brown Bat relies largely on insects with aquatic larval stages as a food resource. Changing precipitation patterns, alterations to stream flow and reduced soil moisture can significantly affect the availability of these insects.",
+            "location": "Ch. 3: Climate Change & Conservation, Habitats and Species",
+            "sub_component": null,
+            "citations": ["Rustad, L. et al. 2012"]
+          }
+        ]
+      },
+      "abiotic_niche": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Species' physiological limits are tested as shifting temperatures, altered hydrology, and changing seasonal cues affect survival, reproduction, and migration.",
+            "location": "Ch. 3 (Table 3.4 context)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "life_history": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "There is evidence suggest that there are significant differences in response capacity between \"short-lived species with high dispersal capacity (such as birds) and long-lived species with limited dispersal capacity (such as many trees)\"",
+            "location": "Ch. 3: Climate Change & Conservation, Habitats and Species",
+            "sub_component": null,
+            "citations": ["Stein, B.A. et al. 2014"]
+          }
+        ]
+      }
+    },
+    "connectivity": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Climate corridors are explicitly designed to connect habitats along a climate gradient allowing altitudinal and latitudinal range shifts.",
+          "location": "Ch. 6: Landscape Characteristics (High Priority threats table)",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "climate change adaptation is enhanced if the long distance movements of plants and animals is supported by a combination of short movements within large, topographically diverse forest blocks and short corridor movements between forest blocks",
+          "location": "Ch. 6: Landscape Characteristics, Connectivity Blocks",
+          "sub_component": null,
+          "citations": ["Beier 2012"]
+        },
+        {
+          "text": "Riparian Areas also provide a critical element of landscape connectivity for plant and animal movement in response to climate change",
+          "location": "Ch. 6: Landscape Characteristics, Surface Waters and Riparian Areas",
+          "sub_component": null,
+          "citations": ["Beier 2012"]
+        }
+      ],
+      "absence_note": {}
+    }
+  },
+  "tools": {
+    "vulnerability_models": {
+      "evaluable": true,
+      "score": 2,
+      "named_tools": ["CCVI", "NatureServe CCVI"],
+      "evidence": [
+        {
+          "text": "In Building on this assessment the Fish & Wildlife Department and National Wildlife Federation developed the Species & Habitat Climate Vulnerability Assessment for 18 key species, 20 upland habitats, 11 wetland habitats, and 13 freshwater habitats as part of our Action Plan revision",
+          "location": "Ch. 3: Regional Efforts to Conserve Wildlife in the Era of Climate Change",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "In September 2012, the National Wildlife Federation (NWF) in partnership with Manomet Center for Conservation Sciences (MCCS) completed the Northeast's first regional vulnerability assessment (RVA)",
+          "location": "Ch. 3: Regional Efforts to Conserve Wildlife in the Era of Climate Change",
+          "sub_component": null,
+          "citations": ["MCCS & NWF 2012"]
+        }
+      ],
+      "absence_note": {}
+    },
+    "niche_models": {
+      "evaluable": true,
+      "score": 2,
+      "named_tools": ["Climate Change Tree Atlas"],
+      "evidence": [
+        {
+          "text": "Models predicting the ways in which forests will respond to long-term climate trends show that species such as sugar maple and balsam fir are likely to lose suitable habitat in Vermont, while several species of oak are projected to expand in the extent of suitable habitat",
+          "location": "Ch. 3: Climate Change & Conservation, Forests",
+          "sub_component": null,
+          "citations": ["Rustad, L. et al. 2012"]
+        },
+        {
+          "text": "Projections suggest that warming temperatures will expand the extent of suitable habitat for tree species such as oak, hickory, and red maple, while significantly decreasing the extent of suitable habitat for more cold-tolerant species such balsam fir currently found in Vermont's higher elevations",
+          "location": "Ch. 3: Climate Change & Conservation, Habitats and Species",
+          "sub_component": null,
+          "citations": ["Galford, G.L. et al. 2014"]
+        }
+      ],
+      "absence_note": "Species distribution models are referenced through external studies; the document does not name MaxEnt or specific SDM software but uses outputs of habitat suitability projections applied to Vermont's focal species and habitats."
+    },
+    "climate_models": {
+      "evaluable": true,
+      "score": 2,
+      "named_tools": [],
+      "evidence": [
+        {
+          "text": "annual temperature (code=A) had an increasing trend with projections suggesting a 3.7 to 5.8°F increase by 2050, and a 5.0 to 9.5°F increase by 2100.",
+          "location": "Ch. 3: Climate Change & Conservation",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "The assessment was conducted under two emission scenarios, a doubling and a tripling of atmospheric CO2.",
+          "location": "Ch. 3 (FIGURE caption - Massachusetts assessment)",
+          "sub_component": null,
+          "citations": ["MCCS & MA Department of Fisheries and Wildlife 2010"]
+        }
+      ],
+      "absence_note": "The document references climate projections and uses temperature projections explicitly but does not name specific GCMs or CMIP products. Emission scenarios are referenced by name.",
+      "time_horizon_years": [2050, 2100],
+      "emission_scenarios": ["higher emissions scenario (A2)", "lower emissions scenario (B1)"]
+    },
+    "connectivity_models": {
+      "evaluable": true,
+      "score": 2,
+      "named_tools": [],
+      "evidence": [
+        {
+          "text": "Contiguous forest/habitat blocks and associated linkages were identified and prioritized as part of the 'habitat block project' conducted from 2007 to 2014. Using GIS analysis of existing data, this projected identified 4,055 unfragmented forest blocks in Vermont and ranked each block for its biological and physical landscape diversity values. The project also identified a modeling tool for identifying likely wildlife corridors in Vermont.",
+          "location": "Ch. 6: Implementing the 2005 Wildlife Action Plan",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "A regional habitat connectivity plan provides spatial layers depicting structural connectivity, network importance, landscape permeability, and climate connectivity.",
+          "location": "Ch. 6: Landscape Characteristics",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "Connectivity modeling outputs are clearly applied to focal subjects (Vermont SGCN, landscape blocks), but specific software names (CircuitScape, etc.) are not mentioned. The outputs shape management decisions, satisfying the 'applied' criterion."
+    }
+  },
+  "context": {
+    "management_scale": {
+      "local": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "VFWD provided technical assistance to every Vermont Regional Planning Commission and nearly every town on a variety of wildlife and land planning related issues, including SGCN conservation, habitat blocks, and wildlife corridors.",
+            "location": "Ch. 6: Implementing the 2005 Wildlife Action Plan",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "site": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Contiguous forest/habitat blocks and associated linkages were identified and prioritized...The project results are now used extensively in VFWD technical assistance to towns.",
+            "location": "Ch. 6: Implementing the 2005 Wildlife Action Plan",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "watershed": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "VFWD has also worked closely with the North Atlantic Landscape Conservation Cooperative on a pilot conservation design for the Connecticut River watershed.",
+            "location": "Ch. 6: Implementing the 2005 Wildlife Action Plan",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "city": {
+        "present": false,
+        "evidence": []
+      },
+      "county": {
+        "present": false,
+        "evidence": []
+      },
+      "within_state_region": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The five factors described previously combine to create nine distinct biophysical regions. It is important to consider Vermont's biophysical regions when assessing and planning for the conservation of wildlife",
+            "location": "Ch. 2: Biophysical Regions of Vermont",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "state": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Vermont Conservation Design...identifies coarse-filter conservation targets for landscape scale features...that are necessary to effectively conserve many finer scale conservation elements in the face of climate change and habitat loss",
+            "location": "Ch. 6: Implementing the 2005 Wildlife Action Plan",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "multistate": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The Staying Connected Initiative (SCI) was developed among a partnership of twenty-four private and public entities across New York, Vermont, New Hampshire, Maine, and Canada. The mission of this collaboration is to sustain connectivity for wildlife by protecting against habitat fragmentation and climate change.",
+            "location": "Ch. 3: Regional Efforts to Conserve Wildlife in the Era of Climate Change",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "national": {
+        "present": false,
+        "evidence": []
+      },
+      "transnational": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Several wide-ranging wildlife species will not persist or reestablish without linkages to other states and Canada. Therefore, regional connectivity (i.e., linkages to New York, New Hampshire, and Canada) must be maintained.",
+            "location": "Ch. 6: Landscape Condition",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecosystem": {
+        "present": false,
+        "evidence": []
+      },
+      "ecoregion": {
+        "present": false,
+        "evidence": []
+      },
+      "province": {
+        "present": false,
+        "evidence": []
+      },
+      "section": {
+        "present": false,
+        "evidence": []
+      },
+      "subsection": {
+        "present": false,
+        "evidence": []
+      },
+      "lake": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "In 2011, the VTDEC Lakes and Ponds Management and Protection Section identified 13 reference lakes across a gradient of lake sizes for a Sentinel Lakes Program Monitoring program to track the effects of climate change on Vermont's inland lakes.",
+            "location": "Ch. 3: Recent Projects",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "river": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Increase riverine, floodplain, and riparian connectivity based on Aquatic Organism Passage program and River Corridor Planning recommendations.",
+            "location": "Priority Actions to Address Climate Change Impacts to Species and Habitats",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "district": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["Champlain Valley", "Northeast Kingdom", "Connecticut River Valley", "Green Mountains", "Northeastern Highlands", "Lake Champlain", "Connecticut River", "Nulhegan Basin"]
+    },
+    "biological_unit_score": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "several dominant tree species may undergo significant range shifts as forest communities adjust to new conditions over time",
+          "location": "Ch. 3: Climate Change & Conservation, Forests",
+          "sub_component": null,
+          "citations": ["Rustad, L. et al. 2012"]
+        },
+        {
+          "text": "Changes in habitat suitability for many species can prompt a reshuffling and unraveling of currently recognized species assemblages and natural communities.",
+          "location": "Ch. 3: Climate Change & Conservation, Habitats and Species",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "biological_unit_components": {
+      "species": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Of the 18-species assessed, eight were identified as highly vulnerable to climate-driven impacts. Of those, five are SGCN: Jefferson Salamander, Canada Lynx, Brook Trout, Eastern Pearlshell Mussel and Bicknell's Thrush.",
+            "location": "Ch. 3: Climate Change & Conservation",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "population": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Bicknell's thrush is limited to high-elevation spruce-fir forests and is a good example of a species particularly vulnerable to climate-driven habitat change.",
+            "location": "Ch. 3: Climate Change & Conservation, Habitats and Species",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "habitat": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Climate change vulnerability assessments were similarly conducted for Vermont's upland and wetland natural communities...Of the upland habitats, Subalpine Krummholz, Alpine Meadow, Cold-Air Talus Woodland, and Dry Oak Woodland were identified as highly vulnerable to climate-driven impacts",
+            "location": "Ch. 3: Climate Change & Conservation",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecosystem": {
+        "present": false,
+        "evidence": []
+      },
+      "community": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Changes in habitat suitability for many species can prompt a reshuffling and unraveling of currently recognized species assemblages and natural communities.",
+            "location": "Ch. 3: Climate Change & Conservation, Habitats and Species",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "genotype_phenotype": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["Bicknell's Thrush", "Canada Lynx", "Brook Trout", "Jefferson Salamander", "Eastern Pearlshell Mussel", "Sugar Maple", "Balsam Fir", "Moose", "American Marten", "Northern Spruce-Fir Forest", "Alpine Meadow", "Basin Swamps and Wetlands"]
+    },
+    "partnerships_and_funding": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "The Staying Connected Initiative (SCI) was developed among a partnership of twenty-four private and public entities across New York, Vermont, New Hampshire, Maine, and Canada...Since 2009, Staying Connected Initiative partners have permanently conserved more than 300,000 forested and wetland acres",
+          "location": "Ch. 3: Regional Efforts / Ch. 5 Mammals",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Northeast Association of Fish and Wildlife Agencies (NEAFWA)...Since 2007, the NEAFWA sponsored Regional Conservation Needs Grant Program has funded a large number of projects focused on identifying both the threats facing wildlife and their habitats under climate change",
+          "location": "Ch. 3: Regional Efforts to Conserve Wildlife in the Era of Climate Change",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "VFPR is working with private landowners to conserve and manage one of five priority habitat linkages identified by Two Countries, One Forest as critical to maintaining the integrity of the entire Northern Forest. This landowner cooperative involves over 13 properties known as Cold Hollow to Canada and employs climate smart forest management strategies.",
+          "location": "Ch. 3: Recent Projects",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_threat_habitat_degradation": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "an increased number of high-intensity rain events in conjunction with warmer temperatures will result in more flooding along Vermont's rivers and shorelines. At the same time, rising temperatures over the longer term and increased seasonal variability in rainfall suggest a potential increase in the number of short-term summer droughts",
+          "location": "Ch. 3: Vermont's Changing Seasons",
+          "sub_component": null,
+          "citations": ["Galford, G.L. et al. 2014"]
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_threat_species_vital_rates": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "A reduced hydroperiod can increase competition, decrease size at metamorphosis, and kill larvae as ponds dry out",
+          "location": "Ch. 3: Climate Change & Conservation, Habitats and Species",
+          "sub_component": null,
+          "citations": ["Rustad, L. et al. 2012"]
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_threat_biotic_stressors": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Invasive species, which generally exhibit a competitive edge under warmer conditions, could further spread.",
+          "location": "Ch. 3: Climate Change & Conservation, Habitats and Species",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    }
+  },
+  "actions": {
+    "priority_habitat_identification": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Vermont Conservation Design: Maintaining and Enhancing an Ecologically Functional Landscape...identifies coarse-filter conservation targets for landscape scale features including forest blocks, riparian areas, wildlife and landscape connectivity, and physical landscape diversity that are necessary to effectively conserve many finer scale conservation elements in the face of climate change and habitat loss",
+          "location": "Ch. 6: Implementing the 2005 Wildlife Action Plan",
+          "sub_component": null,
+          "citations": ["Sorenson et al. 2015"]
+        },
+        {
+          "text": "The Habitat Block project, another spatial analysis tool, prioritized 4,055 habitat blocks and identifies likely wildlife road crossing locations for all of Vermont's roads. Maintaining a connected network of unfragmented habitat blocks is recognized as a primary strategy for conserving biological diversity in the face of a rapidly changing climate",
+          "location": "Ch. 3: Table 3.4 Recent Projects context",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "stream cold-water refugia and cold groundwater inputs to streams, Sentinel Lakes, early detection of invasive species, pests and pathogens; identification of genetically adapted species.",
+          "location": "Priority Actions to Address Climate Change Impacts to Species and Habitats, item 13",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "targeted_range_shift_actions": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "3. To address the uncertainty of assisted migration as a climate change strategy, the ANR Lands Team is reviewing options, impacts and management guidelines for state lands.",
+          "location": "Priority Conservation Strategies table (Climate chapter)",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Plan for species restoration through assisted migration and provide guidance and advice to independent efforts to restore or introduce new populations of SGCN.",
+          "location": "Ch. 5: Plants, Conservation Strategies",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document explicitly discusses assisted migration as a strategy under consideration for state lands and for plant SGCN, satisfying the threshold. Most range-shift facilitation is structural (connectivity, forest blocks), with only limited direct-manipulation language."
+    },
+    "time_bound_and_monitoring": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Vermont will update its Action Plan on a 10-year cycle...All this information will be used to formally review and revise the Action Plan on a 10-year cycle",
+          "location": "Ch. 7: Monitoring & Adaptive Management",
+          "sub_component": "deadlines",
+          "citations": []
+        },
+        {
+          "text": "Implementation Monitoring: Assessing the degree to which a conservation strategy was implemented...Effectiveness Monitoring: Measuring the impact or effect of a conservation strategy...Validation Monitoring: Checking the assumptions upon which the conservation strategy was based",
+          "location": "Ch. 7: Project and Program Monitoring",
+          "sub_component": "effectiveness monitoring",
+          "citations": []
+        },
+        {
+          "text": "Twice yearly expenditure tracking for individual projects by SWG project managers. Annual financial reporting of all in-kind match for individual projects by SWG project managers. Full project reports due within 90 days of completion of individual SWG projects",
+          "location": "Ch. 7: Action Plan Review",
+          "sub_component": "deadlines",
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "evidence_of_efficacy": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Good management of riparian areas is often referred to as a \"No Regrets\" climate strategy because it makes such good sense to maintain vegetated habitats along our rivers and streams for a variety of benefits.",
+          "location": "Ch. 3: Recent Projects (riparian buffer policy)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "Actions are generally presented with ecological rationale (first principles) but rarely with citations to studies directly testing action outcomes. The 'No Regrets' riparian buffer language is the closest to evidence-based justification. Score of 1 reflects general rationale without strong evidence of efficacy for specific actions.",
+      "projects": ["Vermont's 2012 Climate Change Adaptation Framework: A state ANR report proposing a strategic framework for continued CCVA and action planning, providing institutional justification for the vulnerability assessment approach used in this SWAP.", "Northeast Regional Vulnerability Assessment (NWF/MCCS 2012): Applied expert elicitation to assess habitat vulnerabilities across 13 NE states; results referenced to justify Vermont's own CCVA approach and conservation priorities."]
+    },
+    "adaptation_planning_frameworks": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Adaptive management is a formalized method for learning from experience where design, management, and monitoring are integrated to test assumptions in order to adapt, learn and improve. Instead of relying on a fixed conservation goal and an inflexible plan for achieving the goal, adaptive management provides a framework of planning, acting and monitoring for midcourse corrections",
+          "location": "Ch. 7: Monitoring & Adaptive Management",
+          "sub_component": null,
+          "citations": ["Salafsky et. al. 2001"]
+        },
+        {
+          "text": "Vermont Agency of Natural Resources developed the Climate Change Adaptation Framework to gather information about climate change in Vermont as it relates to natural resources and to propose a strategic framework for continued climate change vulnerability assessment and action planning",
+          "location": "Ch. 3 (FIGURE caption - Vermont Efforts)",
+          "sub_component": null,
+          "citations": ["Tetra Tech Inc. 2013"]
+        },
+        {
+          "text": "which species and habitats are likely to be more vulnerable; (b) which may benefit or be unaffected by climate change; (c) how will non-climate stressors contribute to vulnerability; (d) how might species adapt; (e) which strategies will be most effective and where should we apply our efforts; and, (f) how can we feasibly monitor species and habitats to inform our management actions?",
+          "location": "Ch. 3: Conserving Wildlife in the Face of Climate Change",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    }
+  },
+  "coding_meta": {
+    "coder": "llm:claude-sonnet-4-6",
+    "model": "claude-sonnet-4-6",
+    "provider": "claude",
+    "codebook_version": "0.4",
+    "ingest": "text",
+    "design": "single",
+    "temperature": null,
+    "thinking": null,
+    "thinking_effort": null,
+    "coded_at": "2026-07-06T18:39:26Z",
+    "notes": {}
+  }
+}

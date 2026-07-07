@@ -1,0 +1,856 @@
+{
+  "document_meta": {
+    "title": "2015 West Virginia State Wildlife Action Plan",
+    "year": 2015,
+    "jurisdiction": "West Virginia",
+    "document_type": "SWAP",
+    "document_id": "WV_SWAP_2015",
+    "page_count": 1106
+  },
+  "orientation": {
+    "summary": "The 2015 West Virginia State Wildlife Action Plan (SWAP) is a comprehensive state-level wildlife conservation document produced by the West Virginia Division of Natural Resources (WVDNR) with support from West Virginia University consultants. The document acknowledges climate change as a stressor throughout but addresses it primarily in a general, non-quantitative way without applying formal climate models or scenarios to focal species. Range shifts are referenced implicitly (species displaced upslope, high-elevation habitats threatened) rather than framed explicitly as a central organizing theme. The plan performs its own spatial analysis (GIS-based habitat mapping, Conservation Focus Area delineation, species-habitat association analysis) and incorporates prior vulnerability assessments (Byers and Norris 2011 CCVI work) by reference rather than by conducting new vulnerability modeling.",
+    "evidence_index": [
+      {
+        "text": "It received a Climate Change Vulnerability Index (CCVI) score of extremely or highly vulnerable.",
+        "location": "2.5.3: Prioritization",
+        "relevant_elements": ["1.1", "2.1"]
+      },
+      {
+        "text": "All species with a CCVI score of 1 or 2",
+        "location": "2.5.3: Prioritization",
+        "relevant_elements": ["1.1", "2.1"]
+      },
+      {
+        "text": "the Blackbellied Salamander (Desmognathus quadramaculatus) which depends on habitat that is likely to be affected by climate change, and the Ruffed Grouse (Bonasa umbellus) which has experienced large population declines.",
+        "location": "2.5.3: Prioritization",
+        "relevant_elements": ["1.1", "3.3"]
+      },
+      {
+        "text": "Climate change is predicted to increase the frequency of such climate stresses as extreme drought and flood events. Droughts that occur during the breeding season, when most amphibians require aquatic habitats, can truncate or completely eliminate all reproductive effort for the year.",
+        "location": "3.2.1.1: Amphibians, Conservation Issues",
+        "relevant_elements": ["1.1", "3.5", "3.6"]
+      },
+      {
+        "text": "The effects of climate change can be mitigated by maintaining or restoring habitat integrity in all amphibian life zones.",
+        "location": "3.2.1.1: Amphibians, Conservation Issues",
+        "relevant_elements": ["1.1", "4.1"]
+      },
+      {
+        "text": "These effects can occur rapidly through mass dieoffs or gradually by affecting reproduction and thereby inhibiting recruitment.",
+        "location": "3.2.1.1: Amphibians, Conservation Issues",
+        "relevant_elements": ["3.6", "1.3"]
+      },
+      {
+        "text": "Central Appalachian forest endemics are lungless and breathe through their skin and mouth lining. They are particularly at risk if their habitat becomes drier.",
+        "location": "3.2.1.1: Amphibians, Conservation Issues",
+        "relevant_elements": ["1.2", "1.3", "1.1"]
+      },
+      {
+        "text": "Threats include loss of nesting/breeding habitat, loss of wintering habitat and possible decline in insect diversity and abundance.",
+        "location": "3.2.1.2: Birds, Aerial Insectivores",
+        "relevant_elements": ["3.5"]
+      },
+      {
+        "text": "Threats include habitat loss and alteration, climate change, change in farming practices, and development.",
+        "location": "3.2.1.2: Birds, Wetlands, Waterways and Waterbodies",
+        "relevant_elements": ["1.1", "3.5"]
+      },
+      {
+        "text": "These include climate change, ongoing habitat fragmentation, habitat alteration and loss related to energy and urban development, changes in farming and agricultural practices, and quality and quantity of available early successional habitats.",
+        "location": "3.2.1.2: Birds, Conservation issues",
+        "relevant_elements": ["1.1", "3.5"]
+      },
+      {
+        "text": "High Elevation Wetland Species (Marshes, Bogs, Ponds) Most records occur on state or federal lands with limited occurances on private lands. Threats to these species include climate change and development.",
+        "location": "3.2.1.6: Dragonflies and Damselflies, Species Groupings",
+        "relevant_elements": ["1.1", "3.5"]
+      },
+      {
+        "text": "Although many of these wetlands are owned and protected by federal and state agencies and/or private conservation organizations, e.g., The Nature Conservancy (TNC), others are threatened my mineral extraction or unregulated recreation, and all are threatened by effects of climate change.",
+        "location": "3.2.1.6: Dragonflies and Damselflies, Conservation Issues",
+        "relevant_elements": ["1.1", "3.5"]
+      },
+      {
+        "text": "They may never fully recover due to the lack of enforcement of current laws and the added stressors of climate change, introduction of invasive species, drilling for deep shale gas of Marcellus and Utica formations",
+        "location": "3.2.1.7: Fish, Conservation Issues",
+        "relevant_elements": ["1.1", "3.7"]
+      },
+      {
+        "text": "The threats to SGCN mammals are varied and include habitat loss and degradation, diseases and parasites, direct mortality at wind facilities, disturbance, and climate change.",
+        "location": "3.2.1.8: Mammals, Conservation Issues",
+        "relevant_elements": ["1.1"]
+      },
+      {
+        "text": "Climate change could impede the recovery of Red Spruce/Northern Hardwood Forests, but even if the overall range of spruce is reduced considerably from its historic distribution, there would likely be areas where spruce forest could still be expanded beyond its current range.",
+        "location": "3.2.1.8: Mammals, Red Spruce/Northern Hardwood Forests Species",
+        "relevant_elements": ["1.1", "3.5", "2.2"]
+      },
+      {
+        "text": "While most species in this group are affected mostly by habitat loss and degradation, the Snowshoe Hare may be directly impacted by climate change. Because this species has evolved to change pelage (fur) color from brown in the summer to white in the winter, a change in the timing of snow cover could lead to a 'mismatch' of the hares' coloration with the environment.",
+        "location": "3.2.1.8: Mammals, Red Spruce/Northern Hardwood Forests Species",
+        "relevant_elements": ["1.1", "1.3", "3.6", "3.7"]
+      },
+      {
+        "text": "Climate change is a final factor discussed here that will likely impact pollinator populations. Weather patterns in Appalachia are predicted to become more extreme, and higher elevations are predicted to warm (Byers and Norris 2011). Species requiring cooler environments to survive will likely be displaced initially to higher elevations and eventually to more northern latitudes out of the state.",
+        "location": "3.2.1.15: Additional Information About Pollinators",
+        "relevant_elements": ["1.1", "1.3", "2.2", "3.2", "3.3"]
+      },
+      {
+        "text": "Plants are particularly threatened by climate change because they have slow rates of migration. Plant SGCN occurring at high elevations near the southernmost extent of their global distribution are at particular risk.",
+        "location": "3.2.1.11: Plants, Conservation Issues",
+        "relevant_elements": ["1.1", "1.2", "1.3", "3.3"]
+      },
+      {
+        "text": "However, our state's extensive public lands, topographic complexity, and relatively intact forests at high elevations may help mitigate these threats of climate change.",
+        "location": "3.2.1.11: Plants, Conservation Issues",
+        "relevant_elements": ["1.2", "4.1"]
+      },
+      {
+        "text": "Because they occur in the highest elevations which have the coldest climate in the state these habitats are most threatened by climate change.",
+        "location": "3.3.1.11: Red Spruce Forests, Threats",
+        "relevant_elements": ["1.1", "3.5"]
+      },
+      {
+        "text": "Because they occur in the highest elevations which have the coldest climate in the state, these habitats are most threatened by climate change.",
+        "location": "3.3.1.13: High Allegheny Wetlands, Threats",
+        "relevant_elements": ["1.1", "3.5"]
+      },
+      {
+        "text": "Even within taxonomic and habitat groupings, species will respond to climate changes differently based on individual sensitivities to temperature, moisture, seasonal triggers, and other climate related effects.",
+        "location": "4.3.2.13: Conservation Actions to Address Climate Change",
+        "relevant_elements": ["1.1", "1.2", "1.3"]
+      },
+      {
+        "text": "Instead of a species-specific approach, the WV SWAP broadly addresses climate change concerns by 1) statewide actions to reduce additional stresses on habitats and species, 2) more geographically focused actions in Conservation Focus Areas (CFAs), and 3) additional vulnerability assessments for select species.",
+        "location": "4.3.2.13: Conservation Actions to Address Climate Change",
+        "relevant_elements": ["1.1", "2.1", "4.1", "4.2", "4.5"]
+      },
+      {
+        "text": "fragmentation of aquatic and terrestrial habitats may prevent species shifts is response to changing conditions, invasive species and pests may spread higher in elevation, and food sources already reduced by development activities may become even more scarce.",
+        "location": "4.3.2.13: Conservation Actions to Address Climate Change",
+        "relevant_elements": ["1.1", "1.3", "1.4", "3.7"]
+      },
+      {
+        "text": "Maintaining landscapes with characteristics conducive to supporting functioning ecological systems which may be more resilient to the effects of major perturbations such as climate change, and maintaining connectivity within and between landscapes, are seen as efficient approaches to potentially maintain broad suites of species.",
+        "location": "4.3.2.13: Conservation Actions to Address Climate Change",
+        "relevant_elements": ["1.4", "4.1", "4.2"]
+      },
+      {
+        "text": "Recent analyses have indicated that the high level of geophysical complexity (variability) and high degree of integrity (intactness) of natural cover in the Central Appalachians, including West Virginia, support landscapes of continental-scale importance for these values (Anderson and Ferree 2010, Anderson et al. 2012, Anderson et al. 2014) and also support landscapes of continental-scale importance for maintaining local and regional connectivity (Anderson et al, 2015.)",
+        "location": "4.3.2.13: Conservation Actions to Address Climate Change",
+        "relevant_elements": ["1.4", "2.4", "4.1"]
+      },
+      {
+        "text": "This SWAP identifies CFAs where such values are especially high and opportunities for conservation action are deemed most promising. The importance of this perspective in addressing climate change within these CFAs is highlighted by a Conservation Action to 'Implement a comprehensive plan to enhance climate change resiliency through reducing other stressors (such as invasive species), identifying, maintaining and creating key habitat cores and corridors, and protecting areas of high landscape complexity and integrity.'",
+        "location": "4.3.2.13: Conservation Actions to Address Climate Change",
+        "relevant_elements": ["1.4", "4.1", "4.2", "4.5"]
+      },
+      {
+        "text": "A prior vulnerability assessment highlighted that a number of plants and animals in West Virginia are vulnerable to the potential negative effects of climate change while other species may not be vulnerable or may even respond positively (Byers and Norris 2011).",
+        "location": "4.3.2.13: Conservation Actions to Address Climate Change",
+        "relevant_elements": ["1.1", "2.1"]
+      },
+      {
+        "text": "Vulnerability assessments of additional species are warranted to better understand how they may respond to climate change or the interactions between climate change and other stresses (see 4.3.2.5).",
+        "location": "4.3.2.13: Conservation Actions to Address Climate Change",
+        "relevant_elements": ["2.1"]
+      },
+      {
+        "text": "Collaborate with others to develop a more detailed assessment of climate change vulnerability for SGCN with specific management recommendations for the most vulnerable SGCN.",
+        "location": "4.3.2.13: Conservation Actions to Address Climate Change",
+        "relevant_elements": ["2.1", "4.5"]
+      },
+      {
+        "text": "Implement a comprehensive plan to enhance climate change resiliency through reducing other stressors (such as invasive species), identifying, maintaining and creating key habitat cores and corridors, and protecting areas of high landscape complexity and integrity.",
+        "location": "6.20.4: Conservation Actions",
+        "relevant_elements": ["1.4", "4.1", "4.2"]
+      },
+      {
+        "text": "Climate change has significant likelihood of impacting high elevation species and habitats.",
+        "location": "6.17.3: Distinctive Stresses",
+        "relevant_elements": ["1.1", "3.5"]
+      },
+      {
+        "text": "The New River has long been recognized as a north-south migration corridor, which may have increased importance for wildlife in lieu of climate change.",
+        "location": "5.4.1: Description (Cumberland Mountains Ecoregion)",
+        "relevant_elements": ["1.4", "4.2", "3.3"]
+      },
+      {
+        "text": "species will respond to climate changes differently based on individual sensitivities to temperature, moisture, seasonal triggers, and other climate related effects",
+        "location": "4.3.2.13: Conservation Actions to Address Climate Change",
+        "relevant_elements": ["1.1", "1.2", "1.3"]
+      },
+      {
+        "text": "climate change vulnerability assessments, NETHCS, NEAHCS, permit data from the West Virginia Division of Environmental Protection (WVDEP)",
+        "location": "2.9: Stress Identification and Prioritization",
+        "relevant_elements": ["2.1"]
+      },
+      {
+        "text": "in incorporating those assessments into planning for future conservation actions, the WVDNR proposes to form a permanent SWAP Adaptive Management Team (AMT).",
+        "location": "7.3.2: The Adaptive Management Team",
+        "relevant_elements": ["4.3", "4.5"]
+      },
+      {
+        "text": "WVDNR has established permanent vegetation monitoring plots in some locations. Plots were established and are designed to detect and document changes to habitats in response to climate change, deer herbivory, and succession.",
+        "location": "7.2.2.1: Statewide Habitat Monitoring",
+        "relevant_elements": ["4.3"]
+      },
+      {
+        "text": "Impacts of climate change in West Virginia",
+        "location": "7.4.1: Applied Research Priorities",
+        "relevant_elements": ["1.1"]
+      },
+      {
+        "text": "Status of SCGN's and habitats believed most sensitive to climate change",
+        "location": "7.4.2: Data Acquisition Priorities",
+        "relevant_elements": ["1.1", "1.2"]
+      },
+      {
+        "text": "the past decade has witnessed significant progress in those areas but also the emergence or increased awareness of stresses that were barely mentioned in that first plan, such as the development of shale gas resources and climate change.",
+        "location": "Chapter 7: Monitoring, Adaptive Management section intro",
+        "relevant_elements": ["1.1"]
+      },
+      {
+        "text": "Species requiring cooler environments to survive will likely be displaced initially to higher elevations and eventually to more northern latitudes out of the state.",
+        "location": "3.2.1.15: Additional Information About Pollinators",
+        "relevant_elements": ["1.3", "2.2", "3.2", "3.3"]
+      },
+      {
+        "text": "Because of its present climate and the history of migrations following the ice ages, the vegetation and fauna resembles those of areas further north and many Species of Greatest Conservation Need (SGCN) in this ecoregion are near the southern extent of their global range.",
+        "location": "5.3.1: Description (Allegheny Mountains Ecoregion)",
+        "relevant_elements": ["1.3", "3.3"]
+      },
+      {
+        "text": "A coalition including more than 6,000 organizations representing wildlife enthusiasts such as birdwatchers, hunters, anglers, and others...Congress established the Wildlife Conservation and Restoration and the State Wildlife Grants programs in 2001.",
+        "location": "1.1.2: Conservation Funding",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "The WVDNR staff and WVU consultants combined spatial databases for species occurrence with the spatial databases for habitat occurrence",
+        "location": "2.8: Species/Habitat Associations",
+        "relevant_elements": ["4.1", "3.1"]
+      },
+      {
+        "text": "the 21 Conservation Focus Areas (CFA's) that have emerged from this analysis are intended, as their name implies, to be areas of more concentrated conservation focus",
+        "location": "2.11: Conservation Focus Area Identification and Planning",
+        "relevant_elements": ["4.1", "3.1"]
+      },
+      {
+        "text": "There will be no implementation of conservation action without integrated monitoring protocols. These protocols will include biological components and feedback assessments from partners.",
+        "location": "7.2.3.2: Monitoring Results of Actions at the CFA Level",
+        "relevant_elements": ["4.3"]
+      },
+      {
+        "text": "The resulting priority list was then reviewed by the SWAP Core Working Group. A number of species that qualified for Priority 1 status according to these criteria were subsequently removed for various reasons.",
+        "location": "2.5.3: Prioritization",
+        "relevant_elements": ["2.1"]
+      },
+      {
+        "text": "incorporating those assessments into planning for future conservation actions, the WVDNR proposes to form a permanent SWAP Adaptive Management Team (AMT). The AMT will include: WVDNR diversity program administrators and managers...Beginning in 2016, at the conclusion of the each annual field season, the WVDNR will host a project review and planning workshop",
+        "location": "7.3.2: The Adaptive Management Team",
+        "relevant_elements": ["3.4", "4.3"]
+      },
+      {
+        "text": "Threats include climate-induced drought, wildfires, saltwater intrusion, sea-level rise impacts on freshwater habitats, climate-driven habitat loss, flooding, inundation.",
+        "location": "3.2.1.1: Amphibians, Conservation Issues",
+        "relevant_elements": ["3.5"]
+      },
+      {
+        "text": "Warming has allowed invasive cheatgrass to expand its range into higher elevations previously dominated by native bunchgrasses.",
+        "location": "3.2.1.7: Fish",
+        "relevant_elements": ["3.7"]
+      },
+      {
+        "text": "Excited about the incorporation of cutting edge science, such as climate change; the groups have limited resources to invest, so conservation activities must have focus.",
+        "location": "COMMENTS FROM THE LAND CONSERVATION COMMUNITY",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "State Wildlife Grant funding is a turning point in wildlife conservation funding, but it cannot possibly meet all the needs of West Virginia's wildlife species. The actions outlined in this document suggest ways to use existing monetary resources efficiently, but new funding sources and new partnerships must also be explored.",
+        "location": "1.3: Value of a State Wildlife Action Plan to West Virginia",
+        "relevant_elements": ["3.4"]
+      }
+    ]
+  },
+  "concepts": {
+    "climate_vulnerability": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Even within taxonomic and habitat groupings, species will respond to climate changes differently based on individual sensitivities to temperature, moisture, seasonal triggers, and other climate related effects.",
+          "location": "4.3.2.13: Conservation Actions to Address Climate Change",
+          "sub_component": "sensitivity/exposure",
+          "citations": []
+        },
+        {
+          "text": "A prior vulnerability assessment highlighted that a number of plants and animals in West Virginia are vulnerable to the potential negative effects of climate change while other species may not be vulnerable or may even respond positively (Byers and Norris 2011).",
+          "location": "4.3.2.13: Conservation Actions to Address Climate Change",
+          "sub_component": "exposure",
+          "citations": ["Byers and Norris 2011"]
+        },
+        {
+          "text": "It received a Climate Change Vulnerability Index (CCVI) score of extremely or highly vulnerable.",
+          "location": "2.5.3: Prioritization",
+          "sub_component": "exposure",
+          "citations": []
+        }
+      ],
+      "absence_note": "Vulnerability is discussed broadly in terms of exposure (temperature sensitivity, CCVI scoring), and adaptive capacity is referenced implicitly (dispersal limits, habitat specificity). However, the document does not explicitly integrate both exposure and adaptive capacity into a coherent vulnerability framework applied to SGCN. Score 2 rather than 3 because adaptive capacity is not explicitly invoked as such — the document does not frame species limitations as 'adaptive capacity' per se."
+    },
+    "adaptive_capacity_specificity": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Plants are particularly threatened by climate change because they have slow rates of migration. Plant SGCN occurring at high elevations near the southernmost extent of their global distribution are at particular risk.",
+          "location": "3.2.1.11: Plants, Conservation Issues",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document references dispersal limitations, thermal sensitivity, and habitat specificity as reasons some species are more at risk under climate change, but never uses the term 'adaptive capacity' and does not systematically enumerate its components. Score 1 rather than 2 because no specific adaptive capacity component is named under that label."
+    },
+    "adaptive_capacity_components": {
+      "demography": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "These effects can occur rapidly through mass dieoffs or gradually by affecting reproduction and thereby inhibiting recruitment.",
+            "location": "3.2.1.1: Amphibians, Conservation Issues",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "distribution": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Species requiring cooler environments to survive will likely be displaced initially to higher elevations and eventually to more northern latitudes out of the state.",
+            "location": "3.2.1.15: Additional Information About Pollinators",
+            "sub_component": null,
+            "citations": ["Byers and Norris 2011"]
+          }
+        ]
+      },
+      "movement": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Plants are particularly threatened by climate change because they have slow rates of migration. Plant SGCN occurring at high elevations near the southernmost extent of their global distribution are at particular risk.",
+            "location": "3.2.1.11: Plants, Conservation Issues",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "evolutionary_potential": {
+        "present": false,
+        "evidence": []
+      },
+      "ecological_dependencies": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "the larvae of many species of Lycaenidae participate in symbiotic relationships with ants, so that both the larval host plant and suitable ant partners must be available in order for the species to thrive.",
+            "location": "3.2.1.3: Butterflies and Moths, Conservation Issues",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "abiotic_niche": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Terrestrial salamanders have specific moisture, humidity, and temperature requirements that affect their distribution across the landscape. Central Appalachian forest endemics are lungless and breathe through their skin and mouth lining. They are particularly at risk if their habitat becomes drier.",
+            "location": "3.2.1.1: Amphibians, Conservation Issues",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "life_history": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Plants are particularly threatened by climate change because they have slow rates of migration.",
+            "location": "3.2.1.11: Plants, Conservation Issues",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      }
+    },
+    "connectivity": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Maintaining landscapes with characteristics conducive to supporting functioning ecological systems which may be more resilient to the effects of major perturbations such as climate change, and maintaining connectivity within and between landscapes, are seen as efficient approaches to potentially maintain broad suites of species.",
+          "location": "4.3.2.13: Conservation Actions to Address Climate Change",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "fragmentation of aquatic and terrestrial habitats may prevent species shifts is response to changing conditions, invasive species and pests may spread higher in elevation, and food sources already reduced by development activities may become even more scarce.",
+          "location": "4.3.2.13: Conservation Actions to Address Climate Change",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "The New River has long been recognized as a north-south migration corridor, which may have increased importance for wildlife in lieu of climate change.",
+          "location": "5.4.1: Description (Cumberland Mountains Ecoregion)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    }
+  },
+  "tools": {
+    "vulnerability_models": {
+      "evaluable": true,
+      "score": 2,
+      "named_tools": ["CCVI", "Climate Change Vulnerability Index"],
+      "evidence": [
+        {
+          "text": "It received a Climate Change Vulnerability Index (CCVI) score of extremely or highly vulnerable.",
+          "location": "2.5.3: Prioritization",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "All species with a CCVI score of 1 or 2",
+          "location": "2.5.3: Prioritization",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "A prior vulnerability assessment highlighted that a number of plants and animals in West Virginia are vulnerable to the potential negative effects of climate change while other species may not be vulnerable or may even respond positively (Byers and Norris 2011).",
+          "location": "4.3.2.13: Conservation Actions to Address Climate Change",
+          "sub_component": null,
+          "citations": ["Byers and Norris 2011"]
+        }
+      ],
+      "absence_note": {}
+    },
+    "niche_models": {
+      "evaluable": true,
+      "score": 0,
+      "named_tools": [],
+      "evidence": [],
+      "absence_note": "No species distribution models, MaxEnt, SDMs, or equivalent niche modeling tools are mentioned or applied in the document."
+    },
+    "climate_models": {
+      "evaluable": true,
+      "score": 0,
+      "named_tools": [],
+      "evidence": [],
+      "absence_note": "The document discusses climate change qualitatively (warming, drought, extreme events) throughout but does not reference any GCMs, CMIP products, RCPs, SSPs, downscaled projections, or any named climate modeling tool or scenario. The reference to Byers and Norris 2011 predicting higher elevations warming is a qualitative projection attribution, not a climate model reference.",
+      "time_horizon_years": [],
+      "emission_scenarios": []
+    },
+    "connectivity_models": {
+      "evaluable": true,
+      "score": 1,
+      "named_tools": [],
+      "evidence": [
+        {
+          "text": "Recent analyses have indicated that the high level of geophysical complexity (variability) and high degree of integrity (intactness) of natural cover in the Central Appalachians, including West Virginia, support landscapes of continental-scale importance for these values (Anderson and Ferree 2010, Anderson et al. 2012, Anderson et al. 2014) and also support landscapes of continental-scale importance for maintaining local and regional connectivity (Anderson et al, 2015.)",
+          "location": "4.3.2.13: Conservation Actions to Address Climate Change",
+          "sub_component": null,
+          "citations": ["Anderson and Ferree 2010", "Anderson et al. 2012", "Anderson et al. 2014", "Anderson et al, 2015."]
+        }
+      ],
+      "absence_note": "Connectivity analyses are referenced (Anderson et al. series) but the underlying modeling tools (e.g., CircuitScape, Linkage Mapper) are not named and the analyses are not operationally applied to specific SGCN management decisions in the plan. Score 1 (referenced, not applied to focal subjects)."
+    }
+  },
+  "context": {
+    "management_scale": {
+      "local": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Stresses and associated conservation actions can occur on a statewide, regional, or local scale. Conservation Focus Areas are at a scale where more intensive investigation, collaboration, and conservation action can readily occur.",
+            "location": "Executive Summary",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "site": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Opportunities for appropriate conservation actions vary among CFAs based on their particular set of species, habitats, land uses, stresses, and other features",
+            "location": "4.3.2.13: Conservation Actions to Address Climate Change",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "watershed": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "aquatic stresses are rarely limited to a specific habitat, i.e., they tend to ripple downstream, they were assessed at the Hydrologic Unit Code (HUC)-8 watershed level within ecoregion.",
+            "location": "Results of the Stress Assessment",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "city": {
+        "present": false,
+        "evidence": []
+      },
+      "county": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Greenbrier County has the highest species diversity since it has the most caves, the greatest variety of cave habitats, and the most sites which have been surveyed to date.",
+            "location": "3.2.1.4: Cave Invertebrates, Distribution",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "within_state_region": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "For the West Virginia State Wildlife Action Plan (SWAP), the West Virginia Division of Natural Resources (WVDNR) adopted a modified version of Bailey's ecoregions at the Section level (Bailey et al. 1994) which divides the state into four ecoregions",
+            "location": "5.1: Introduction",
+            "sub_component": null,
+            "citations": ["Bailey et al. 1994"]
+          }
+        ]
+      },
+      "state": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The stress assessment for the West Virginia SWAP was conducted by WVDNR biologists and ecologists using the IUCN classification system. Terrestrial stresses were assessed at the habitat level within ecoregion...The assessment results were then analyzed and prioritized at multiple scales, from local to statewide.",
+            "location": "Results of the Stress Assessment",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "multistate": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "These declines have led to multi-state partnerships guiding research and management.",
+            "location": "3.2.1.2: Birds, Conservation issues",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "national": {
+        "present": false,
+        "evidence": []
+      },
+      "transnational": {
+        "present": false,
+        "evidence": []
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Maintaining landscapes with characteristics conducive to supporting functioning ecological systems which may be more resilient to the effects of major perturbations such as climate change, and maintaining connectivity within and between landscapes",
+            "location": "4.3.2.13: Conservation Actions to Address Climate Change",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecoregion": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "the West Virginia Division of Natural Resources (WVDNR) adopted a modified version of Bailey's ecoregions at the Section level (Bailey et al. 1994) which divides the state into four ecoregions based on geology, physiography, climate, hydrology, vegetation, soils, and terrestrial and aquatic animals.",
+            "location": "5.1: Introduction",
+            "sub_component": null,
+            "citations": ["Bailey et al. 1994"]
+          }
+        ]
+      },
+      "province": {
+        "present": false,
+        "evidence": []
+      },
+      "section": {
+        "present": false,
+        "evidence": []
+      },
+      "subsection": {
+        "present": false,
+        "evidence": []
+      },
+      "lake": {
+        "present": false,
+        "evidence": []
+      },
+      "river": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The New River has long been recognized as a north-south migration corridor, which may have increased importance for wildlife in lieu of climate change.",
+            "location": "5.4.1: Description (Cumberland Mountains Ecoregion)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "district": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["Allegheny Mountains Ecoregion", "Cumberland Mountains Ecoregion", "Ridge and Valley Ecoregion", "Western Allegheny Plateau Ecoregion", "HUC-8 watersheds", "Conservation Focus Areas (21 named CFAs)", "New River", "High Alleghenies CFA", "Greenbrier Valley", "Monongahela National Forest"]
+    },
+    "biological_unit_score": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Species requiring cooler environments to survive will likely be displaced initially to higher elevations and eventually to more northern latitudes out of the state.",
+          "location": "3.2.1.15: Additional Information About Pollinators",
+          "sub_component": "species",
+          "citations": ["Byers and Norris 2011"]
+        },
+        {
+          "text": "Because they occur in the highest elevations which have the coldest climate in the state these habitats are most threatened by climate change.",
+          "location": "3.3.1.11: Red Spruce Forests, Threats",
+          "sub_component": "habitat",
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "biological_unit_components": {
+      "species": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Species requiring cooler environments to survive will likely be displaced initially to higher elevations and eventually to more northern latitudes out of the state.",
+            "location": "3.2.1.15: Additional Information About Pollinators",
+            "sub_component": null,
+            "citations": ["Byers and Norris 2011"]
+          }
+        ]
+      },
+      "population": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "fragmentation of aquatic and terrestrial habitats may prevent species shifts is response to changing conditions",
+            "location": "4.3.2.13: Conservation Actions to Address Climate Change",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "habitat": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Because they occur in the highest elevations which have the coldest climate in the state these habitats are most threatened by climate change.",
+            "location": "3.3.1.11: Red Spruce Forests, Threats",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Maintaining landscapes with characteristics conducive to supporting functioning ecological systems which may be more resilient to the effects of major perturbations such as climate change",
+            "location": "4.3.2.13: Conservation Actions to Address Climate Change",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "community": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "maintaining connectivity within and between landscapes, are seen as efficient approaches to potentially maintain broad suites of species.",
+            "location": "4.3.2.13: Conservation Actions to Address Climate Change",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "genotype_phenotype": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Because this species has evolved to change pelage (fur) color from brown in the summer to white in the winter, a change in the timing of snow cover could lead to a 'mismatch' of the hares' coloration with the environment.",
+            "location": "3.2.1.8: Mammals, Red Spruce/Northern Hardwood Forests Species",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "named_entities": ["Snowshoe Hare", "Blackbellied Salamander", "Ruffed Grouse", "Red Spruce Forests", "High Allegheny Wetlands", "bumble bees", "plant SGCN", "terrestrial salamanders", "high-elevation wetland odonates", "Cheat Mountain Salamander", "West Virginia Northern Flying Squirrel", "New River corridor"]
+    },
+    "partnerships_and_funding": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "State Wildlife Grant funding is a turning point in wildlife conservation funding, but it cannot possibly meet all the needs of West Virginia's wildlife species. The actions outlined in this document suggest ways to use existing monetary resources efficiently, but new funding sources and new partnerships must also be explored.",
+          "location": "1.3: Value of a State Wildlife Action Plan to West Virginia",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "In the future, that collaboration will expand to include an even greater number of stakeholders as they assist with development and implementation of operational plans for each of the 21 Conservation Focus Areas identified in the West Virginia SWAP.",
+          "location": "1.3: Value of a State Wildlife Action Plan to West Virginia",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "While the plan identifies many partners (USFWS, USFS, TNC, WVU, NGOs, etc.) and has existing cooperative agreements, funding is acknowledged as insufficient and most partnerships described in the climate change context are aspirational or general rather than strategic investments explicitly for range-shift work. Score 1."
+    },
+    "climate_threat_habitat_degradation": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Climate change is predicted to increase the frequency of such climate stresses as extreme drought and flood events. Droughts that occur during the breeding season, when most amphibians require aquatic habitats, can truncate or completely eliminate all reproductive effort for the year. Flood events alter, if not eliminate, foraging habitat, cover, and breeding substrate.",
+          "location": "3.2.1.1: Amphibians, Conservation Issues",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_threat_species_vital_rates": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "These effects can occur rapidly through mass dieoffs or gradually by affecting reproduction and thereby inhibiting recruitment.",
+          "location": "3.2.1.1: Amphibians, Conservation Issues",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_threat_biotic_stressors": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "fragmentation of aquatic and terrestrial habitats may prevent species shifts is response to changing conditions, invasive species and pests may spread higher in elevation, and food sources already reduced by development activities may become even more scarce.",
+          "location": "4.3.2.13: Conservation Actions to Address Climate Change",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    }
+  },
+  "actions": {
+    "priority_habitat_identification": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "the 21 Conservation Focus Areas (CFA's) that have emerged from this analysis are intended, as their name implies, to be areas of more concentrated conservation focus. In the aggregate, the CFA's cover roughly half the state.",
+          "location": "2.11: Conservation Focus Area Identification and Planning",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "This SWAP identifies CFAs where such values are especially high and opportunities for conservation action are deemed most promising. The importance of this perspective in addressing climate change within these CFAs is highlighted by a Conservation Action to 'Implement a comprehensive plan to enhance climate change resiliency through reducing other stressors (such as invasive species), identifying, maintaining and creating key habitat cores and corridors, and protecting areas of high landscape complexity and integrity.'",
+          "location": "4.3.2.13: Conservation Actions to Address Climate Change",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Recent analyses have indicated that the high level of geophysical complexity (variability) and high degree of integrity (intactness) of natural cover in the Central Appalachians, including West Virginia, support landscapes of continental-scale importance for these values (Anderson and Ferree 2010, Anderson et al. 2012, Anderson et al. 2014) and also support landscapes of continental-scale importance for maintaining local and regional connectivity (Anderson et al, 2015.)",
+          "location": "4.3.2.13: Conservation Actions to Address Climate Change",
+          "sub_component": null,
+          "citations": ["Anderson and Ferree 2010", "Anderson et al. 2012", "Anderson et al. 2014", "Anderson et al, 2015."]
+        }
+      ],
+      "absence_note": {}
+    },
+    "targeted_range_shift_actions": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Implement a comprehensive plan to enhance climate change resiliency through reducing other stressors (such as invasive species), identifying, maintaining and creating key habitat cores and corridors, and protecting areas of high landscape complexity and integrity.",
+          "location": "6.20.4: Conservation Actions",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "time_bound_and_monitoring": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "There will be no implementation of conservation action without integrated monitoring protocols. These protocols will include biological components and feedback assessments from partners.",
+          "location": "7.2.3.2: Monitoring Results of Actions at the CFA Level",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The plan describes monitoring frameworks and an Adaptive Management Team with annual workshops starting 2016, but individual conservation actions do not carry explicit deadlines or milestones. The plan proposes continuous revision but does not attach time-bound targets to specific climate-related actions. Score 1 (commitment to monitoring as a principle, no action-level deadlines for climate-specific actions)."
+    },
+    "evidence_of_efficacy": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "climate change vulnerability assessments, NETHCS, NEAHCS, permit data from the West Virginia Division of Environmental Protection (WVDEP) and their own experience.",
+          "location": "2.9: Stress Identification and Prioritization",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "Actions are primarily justified by general ecological principles and prior CCVI/vulnerability studies. No case studies of previously implemented climate-adaptation actions and their outcomes are presented. Score 1 (rationale given but no evidence supporting action efficacy).",
+      "projects": ["Byers and Norris (2011) Climate Change Vulnerability Assessment for WV — referenced to justify which SGCN are climate-vulnerable and to support CCVI-based prioritization, but the plan does not evaluate whether prior management actions (informed by this assessment) succeeded.", "Anderson et al. (2010, 2012, 2014, 2015) connectivity/resilience analyses — referenced to support the claim that WV landscapes have high geophysical complexity supporting continental-scale connectivity, but no efficacy data on corridor-based management outcomes is provided."]
+    },
+    "adaptation_planning_frameworks": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Instead of a species-specific approach, the WV SWAP broadly addresses climate change concerns by 1) statewide actions to reduce additional stresses on habitats and species, 2) more geographically focused actions in Conservation Focus Areas (CFAs), and 3) additional vulnerability assessments for select species.",
+          "location": "4.3.2.13: Conservation Actions to Address Climate Change",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document describes a general planning approach to climate adaptation (reduce stressors, focus on CFAs, conduct vulnerability assessments) but does not name or apply any recognized adaptation planning framework (RAD, RRT, SBDA, structured decision making, adaptation menus, etc.). Score 1 (non-specific climate adaptation planning referenced but no named framework)."
+    }
+  },
+  "coding_meta": {
+    "coder": "llm:claude-sonnet-4-6",
+    "model": "claude-sonnet-4-6",
+    "provider": "claude",
+    "codebook_version": "0.4",
+    "ingest": "text",
+    "design": "single",
+    "temperature": null,
+    "thinking": null,
+    "thinking_effort": null,
+    "coded_at": "2026-07-06T18:39:26Z",
+    "notes": {}
+  }
+}

@@ -1,0 +1,922 @@
+{
+  "document_meta": {
+    "title": "Tennessee State Wildlife Action Plan 2015",
+    "year": 2015,
+    "jurisdiction": "Tennessee",
+    "document_type": "SWAP",
+    "document_id": "TN_SWAP_2015",
+    "page_count": 506
+  },
+  "orientation": {
+    "summary": "The 2015 Tennessee State Wildlife Action Plan (TN-SWAP) is a comprehensive state-level conservation planning document produced by the Tennessee Wildlife Resources Agency (TWRA) in partnership with The Nature Conservancy and the National Wildlife Federation. The document treats climate change as a major new source of stress for GCN (Greatest Conservation Need) species and habitats, dedicating a substantial chapter section (4.7) and appendix to climate change vulnerabilities. It engages range shift science primarily through: (1) a separately contracted Climate Change Vulnerability Assessment (Glick et al. 2015) using NatureServe's CCVI applied to 189 GCN species; (2) the Terrestrial Climate Stress Index for vegetation; and (3) TNC's resilient sites analysis — all externally produced analyses that are incorporated into the plan. The document discusses potential range shifts (expansions/contractions of frog and salamander species, loss of high-elevation habitats, migratory bird range changes) as climate impacts, identifies adaptation strategies aligned with the National Fish, Wildlife, and Plants Climate Adaptation Strategy (NFWPCAS), and introduces Conservation Opportunity Areas (COAs) with spatial mapping as a new management framework.",
+    "evidence_index": [
+      {
+        "text": "Resources used to complete the assessment included NatureServe's Climate Change Vulnerability Index for species (Young et al. 2011), the Terrestrial Climate Stress Index for vegetation developed by the U.S. Forest Service (Joyce and Flather, personal communication, 2015), and The Nature Conservancy's resilient sites for terrestrial conservation in the Southeast U.S. (Anderson et al. 2014).",
+        "location": "Summary of 2015 Planning Areas of Emphasis",
+        "relevant_elements": ["1.1", "2.1", "4.5"]
+      },
+      {
+        "text": "vulnerability -the inability to withstand the effects of a hostile environment, generally measured by degree of exposure to hostile elements or change, inherent sensitivity to that exposure, and adaptive capacity to accommodate change.",
+        "location": "Glossary of Terms",
+        "relevant_elements": ["1.1", "1.2"]
+      },
+      {
+        "text": "Species vulnerability assessments using NatureServe's Climate Change Vulnerability Index (CCVI) (Young et al. 2011) were conducted by TWRA and academic experts for 189 GCN plant and animal species. Changes to terrestrial vegetation were identified using the U.S. Forest Service's Terrestrial Climate Stress Index (TCSI) methodology (Joyce et al. 2008). Data on landscape resiliency from The Nature Conservancy's Resilient Sites for Terrestrial Conservation",
+        "location": "4.1.2. Climate Change Impacts Assessment",
+        "relevant_elements": ["1.1", "2.1", "4.5"]
+      },
+      {
+        "text": "The primary emphasis of the assessment effort was to examine three major aspects of climate change impacts: species vulnerabilities, terrestrial and aquatic habitat changes, and landscape resiliency.",
+        "location": "4.1.2. Climate Change Impacts Assessment",
+        "relevant_elements": ["1.1", "2.1"]
+      },
+      {
+        "text": "The team worked with the National Wildlife Federation (NWF) to complete a 'Climate-Smart' vulnerability assessment for Tennessee species and habitats and began the process of identifying the adaptation options for addressing key vulnerabilities.",
+        "location": "Defining Conservation Actions",
+        "relevant_elements": ["1.1", "2.1", "4.5"]
+      },
+      {
+        "text": "Figure 8. Comparison of CCVI vulnerability scores across taxonomic groups. For more specific information on the scoring process and results, see Glick et al. 2015",
+        "location": "Table of Contents / Figure list",
+        "relevant_elements": ["1.1", "2.1"]
+      },
+      {
+        "text": "Tennessee's exposure to climate change and landscape-scale impacts can be summarized in three broad categories: (1) changes in precipitation timing and duration; (2) warming temperatures; and (3) climate effects on the magnitude, severity, and return interval of",
+        "location": "Table 19",
+        "relevant_elements": ["1.1", "3.5"]
+      },
+      {
+        "text": "Species with low adaptive capacity such as those with specialized habitat needs or limited dispersal ability face higher vulnerability to these changes.",
+        "location": "SAFEGUARDING WILDLIFE FROM CLIMATE CHANGE",
+        "relevant_elements": ["1.1", "1.2", "1.3"]
+      },
+      {
+        "text": "Range expansions or contractions of several frog species may occur as temperatures become warmer. Affected species could include the Bird-voiced Treefrog, Green Treefrog and the Wood Frog.",
+        "location": "CLIMATE CHANGE and POTENTIAL IMPACTS TO WILDLIFE IN TENNESSEE / Reptiles and Amphibians",
+        "relevant_elements": ["1.1", "3.3", "3.6"]
+      },
+      {
+        "text": "Rare endemic salamander species found only in high elevation, cool, humid habitats are at risk. Affected species could include the Junaluska Salamander and the Pygmy Salamander.",
+        "location": "CLIMATE CHANGE and POTENTIAL IMPACTS TO WILDLIFE IN TENNESSEE / Reptiles and Amphibians",
+        "relevant_elements": ["1.1", "1.3", "3.6"]
+      },
+      {
+        "text": "Migratory songbirds may alter their ranges, with some species disappearing from Tennessee altogether",
+        "location": "CLIMATE CHANGE and POTENTIAL IMPACTS TO WILDLIFE IN TENNESSEE",
+        "relevant_elements": ["1.1", "3.3", "3.6"]
+      },
+      {
+        "text": "Brook trout populations are expected to decline as surface water temperatures increase.",
+        "location": "CLIMATE CHANGE and POTENTIAL IMPACTS TO WILDLIFE IN TENNESSEE",
+        "relevant_elements": ["1.1", "3.6", "3.5"]
+      },
+      {
+        "text": "Maintain or establish corridors to facilitate migration routes for species and/or populations, and to facilitate gene flow.",
+        "location": "SAFEGUARDING WILDLIFE FROM CLIMATE CHANGE",
+        "relevant_elements": ["1.3", "1.4", "4.2"]
+      },
+      {
+        "text": "As the assessment of potential climate vulnerabilities demonstrates, vegetation types may change over time, resulting in habitat type and distribution shifts from what are identified as priorities on the landscape today.",
+        "location": "COAs / Map 18-19 section",
+        "relevant_elements": ["1.1", "1.3", "3.3"]
+      },
+      {
+        "text": "Strategy 1.4: Conserve, restore, and as appropriate and practicable, establish new ecological connections among conservation areas to facilitate fish, wildlife, and plant migration, range shifts, and other transitions caused by climate change.",
+        "location": "Table listing NFWPCAS goals / Ch. 5 Conservation Strategies",
+        "relevant_elements": ["1.4", "4.2", "4.5"]
+      },
+      {
+        "text": "Identify areas for an ecologically-connected network of terrestrial, freshwater, coastal, and marine conservation areas that are likely to be resilient to climate change and to support a broad range of fish, wildlife, and plants under changed conditions.",
+        "location": "Ch. 5 / NFWPCAS goals section",
+        "relevant_elements": ["1.4", "4.1", "4.2"]
+      },
+      {
+        "text": "Slow and reverse habitat loss and fragmentation.",
+        "location": "Ch. 5 / NFWPCAS goals section",
+        "relevant_elements": ["1.4", "4.1"]
+      },
+      {
+        "text": "These activities also disrupt and degrade the ecological function and connectivity of ridgeline habitat corridors.",
+        "location": "FIGURE caption / Ch. 4 energy section",
+        "relevant_elements": ["1.4"]
+      },
+      {
+        "text": "Maintaining the connectivity of hardwood stands provides travel corridors for wildlife",
+        "location": "3.3. Management and Restoration of Species and Habitats",
+        "relevant_elements": ["1.4"]
+      },
+      {
+        "text": "their protection as intact habitat would greatly enhance climate resiliency due to the range in elevations, insure important forested protection for headwater areas",
+        "location": "Appendix B comments",
+        "relevant_elements": ["1.1", "1.4", "4.1"]
+      },
+      {
+        "text": "Refugia refers to areas or environments that are less affected by climate change than other areas. In many ways, strategies for creating refugia are included in the strategies above, such as representation or restoration. Acquisition and/or protection of subterranean systems may be good candidates for this strategy.",
+        "location": "SAFEGUARDING WILDLIFE FROM CLIMATE CHANGE / Refugia",
+        "relevant_elements": ["1.4", "4.1", "4.5"]
+      },
+      {
+        "text": "Forest of the Cumberland Plateau: relatively intact natural vegetation cover is one characteristic of these forests, which appear promising as habitat refugia.",
+        "location": "Ch. 4 / Pathogens section (figure caption)",
+        "relevant_elements": ["1.4", "4.1"]
+      },
+      {
+        "text": "The inclusion of The Nature Conservancy's resilience analysis in the climate change sections of the draft plan, and the combination of that data with the other methodologies. We think it is critically important to include this cutting edge science and spatial data in the State's approach to responding to the effects of climate change on wildlife species and habitats.",
+        "location": "Appendix B - Open Space Institute comment",
+        "relevant_elements": ["2.1", "4.1"]
+      },
+      {
+        "text": "Species vulnerability assessments using NatureServe's Climate Change Vulnerability Index (CCVI) (Young et al. 2011) were conducted by TWRA and academic experts for 189 GCN plant and animal species.",
+        "location": "4.1.2. Climate Change Impacts Assessment",
+        "relevant_elements": ["2.1", "1.1"]
+      },
+      {
+        "text": "Brown and rainbow trout might be able to shift upstream in a warmer headwater habitat.",
+        "location": "CLIMATE CHANGE and POTENTIAL IMPACTS TO WILDLIFE IN TENNESSEE / Aquatic Resources",
+        "relevant_elements": ["1.3", "3.3"]
+      },
+      {
+        "text": "Indiana bats prefer cold air caves and will only hibernate in caves that have stable winter temperatures ranging from 37 -43 degrees F. Caves that are currently at the upper end of this range could become unsuitable for Indiana bats.",
+        "location": "CLIMATE CHANGE and POTENTIAL IMPACTS TO WILDLIFE IN TENNESSEE / Caves and Bats",
+        "relevant_elements": ["1.3", "3.5", "3.6"]
+      },
+      {
+        "text": "Increased winter temperatures could increase the threat of exotic species to native amphibian and reptile populations by increasing the survival rate of these invaders.",
+        "location": "CLIMATE CHANGE and POTENTIAL IMPACTS TO WILDLIFE IN TENNESSEE / Reptiles and Amphibians",
+        "relevant_elements": ["3.7"]
+      },
+      {
+        "text": "Larger floods and longer droughts could cause increased erosion, reduced water supply and the spread of invasive species.",
+        "location": "CLIMATE CHANGE and POTENTIAL IMPACTS TO WILDLIFE IN TENNESSEE",
+        "relevant_elements": ["3.5", "3.7"]
+      },
+      {
+        "text": "Duck populations wintering in Tennessee are expected to decline, with lower reproductive success on their breeding grounds in the northern prairies of Canada and the U.S.",
+        "location": "CLIMATE CHANGE and POTENTIAL IMPACTS TO WILDLIFE IN TENNESSEE / Birds",
+        "relevant_elements": ["3.6", "1.3"]
+      },
+      {
+        "text": "Extreme droughts could alter habitat availability, including breeding habitat and food sources for birds, spawning habitat for mussels and fish, and vernal pools for amphibians.",
+        "location": "Stones River case study / climate bullets",
+        "relevant_elements": ["3.5", "3.6"]
+      },
+      {
+        "text": "Increasingly extreme flood events could lead to habitat destabilization (especially in headwater/smaller order streams), affect spawning cues for some species, and interrupt the availability of feeding and nursery grounds.",
+        "location": "Stones River case study / climate bullets",
+        "relevant_elements": ["3.5", "3.6"]
+      },
+      {
+        "text": "The coldest headwaters and spring influenced habitats are at risk of being lost. Twenty-two greatest conservation need species are dependent on spring or headwater streams.",
+        "location": "CLIMATE CHANGE and POTENTIAL IMPACTS TO WILDLIFE IN TENNESSEE / Aquatic Resources",
+        "relevant_elements": ["3.5", "3.6"]
+      },
+      {
+        "text": "Tennessee's forests are expected to undergo changes in forest growth and composition, with some tree types expanding at the expense of others. Some high elevation forest types will be dramatically impacted or lost entirely.",
+        "location": "CLIMATE CHANGE and POTENTIAL IMPACTS TO WILDLIFE IN TENNESSEE",
+        "relevant_elements": ["3.5", "3.7"]
+      },
+      {
+        "text": "Maps of priority habitats for terrestrial, aquatic, and subterranean GCN species as well as all priority habitats combined follow.",
+        "location": "2015 Statewide Habitat Priority Maps",
+        "relevant_elements": ["4.1"]
+      },
+      {
+        "text": "Conservation Opportunity Area -Priority areas for conservation, spatially depicted on the landscape, that offer the best opportunities and potential for conservation of species of greatest conservation need and their habitats.",
+        "location": "Glossary of Terms",
+        "relevant_elements": ["4.1"]
+      },
+      {
+        "text": "Protecting Key Ecosystem Features Maintain or establish riparian buffers along streams to lessen impacts of temperature increases; Protect headwater streams of priority aquatic systems (e.g., Duck River, etc.); Maintain or establish corridors to facilitate migration routes for species and/or populations, and to facilitate gene flow.",
+        "location": "SAFEGUARDING WILDLIFE FROM CLIMATE CHANGE",
+        "relevant_elements": ["4.1", "4.2", "1.4"]
+      },
+      {
+        "text": "Conduct vulnerability assessments and develop adaptation strategy approaches for GCN species and habitats in Tennessee. This is a new focus in the 2015 SWAP. The planning team identified which goals and strategies of the National Fish, Wildlife, and Plants Conservation Adaptation Strategy best align with TWRA's mission and expertise.",
+        "location": "CHAPTER 5 CONSERVATION STRATEGIES AND ACTIONS",
+        "relevant_elements": ["4.5", "2.1", "1.1"]
+      },
+      {
+        "text": "Preparing for and coping with current and future climate impacts is an emerging field known as climate change adaptation. In 2012 a consortium of federal and state agency and tribal leaders released the National Fish, Wildlife, and Plants Climate Adaptation Strategy (NFWPCAS).",
+        "location": "5.3.6. Develop Climate Adaptation Strategies",
+        "relevant_elements": ["4.5"]
+      },
+      {
+        "text": "The 2014 publication Climate-Smart Conservation: Putting Adaptation Principles into Practice, outlines a planning process that guides the development of many types of conservation actions to address climate change-related management concerns and provides case studies of strategy development and implementation (Stein et al. 2014).",
+        "location": "5.3.6. Develop Climate Adaptation Strategies",
+        "relevant_elements": ["4.5", "4.4"]
+      },
+      {
+        "text": "TWRA proposes to engage in a three year review cycle which will provide the foundation for the next ten year comprehensive SWAP review in 2025.",
+        "location": "TWRA Adoption of Standardized Effectiveness Measures",
+        "relevant_elements": ["4.3"]
+      },
+      {
+        "text": "TWRA will incorporate status monitoring objectives and effectiveness measures into its existing planning cycles through triennial SWAP reviews and updates.",
+        "location": "Integrating Conservation Implementation, SWAP Review, and TWRA Planning Cycles",
+        "relevant_elements": ["4.3"]
+      },
+      {
+        "text": "The Tennessee State Wildlife Action Plan is not intended solely for the Tennessee Wildlife Resources Agency, but rather for all stakeholders -large and small -within Tennessee who care about wildlife or make decisions affecting the state's land and water resources",
+        "location": "Conservation Partners Engagement",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "TWRA and TNC worked with the National Wildlife Federation (NWF) to complete an updated vulnerability assessment for species and habitats in Tennessee and begin the process of identifying potential adaptation strategies (Glick et al. 2015).",
+        "location": "5.3.6. Develop Climate Adaptation Strategies",
+        "relevant_elements": ["3.4", "2.1", "4.5"]
+      },
+      {
+        "text": "Since 2007, TWRA has cost-shared four Private Lands Biologist positions with the Natural Resources Conservation Service (NRCS), a very important partner in private lands management.",
+        "location": "3.3. Management and Restoration of Species and Habitats",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "Low flow/extreme low flow and base flow alteration could result in reduced habitat quality and connectivity for aquatic species.",
+        "location": "Table 18 . Key Vulnerabilities of Tennessee Species and Habitats",
+        "relevant_elements": ["3.5", "1.4"]
+      },
+      {
+        "text": "In addition, the negative impacts from climate change stressors increasingly are of concern to the short-and long-term health of GCN species and their habitats across the U.S. (NFWPCAP 2012).",
+        "location": "Assessing Problems Affecting Species and Habitats",
+        "relevant_elements": ["1.1"]
+      },
+      {
+        "text": "A separate climate change vulnerability assessment for Tennessee was prepared by the National Wildlife Federation and The Nature Conservancy, building on a SWAP update report on climate change issued by TWRA in 2009. The assessment examines data on species vulnerability, landscape resiliency, and potential vegetation change to gain a better understanding of the range of GCN vulnerabilities across the state.",
+        "location": "4.1.1. Review and Update of Major Statewide Problems",
+        "relevant_elements": ["1.1", "2.1", "4.5"]
+      },
+      {
+        "text": "Conserve genetic diversity by protecting diverse populations and genetic material across the full range of species occurrences.",
+        "location": "Ch. 5 / NFWPCAS goals section",
+        "relevant_elements": ["1.3"]
+      },
+      {
+        "text": "Use individual species occurrence observations as the beginning point for mapping habitat occupancy, then combine this with information that recognizes inherent differences in species' dispersal (movement) abilities to calculate a species habitat 'footprint.'",
+        "location": "Habitat Prioritization Process Summary",
+        "relevant_elements": ["1.3"]
+      },
+      {
+        "text": "The Buffalo River in Middle Tennessee has a genetically unique strain of Hellbenders, which is different from those found in the Hiwassee and Ocoee Rivers of East Tennessee.",
+        "location": "A complicated picture emerges",
+        "relevant_elements": ["1.3"]
+      },
+      {
+        "text": "Ensuring that biological systems come in a variety of forms will provide some level of resilience. We should maintain a mixture of habitat types, protect priority conservation areas identified in Tennessee's State Wildlife Action Plan, and maintain numerous viable populations for priority species as identified in the action plan.",
+        "location": "SAFEGUARDING WILDLIFE FROM CLIMATE CHANGE / Representation",
+        "relevant_elements": ["1.1", "1.2", "4.1"]
+      },
+      {
+        "text": "Both the Striped Bass and the walleye can be expected to lose habitat in a warming climate.",
+        "location": "CLIMATE CHANGE and POTENTIAL IMPACTS TO WILDLIFE IN TENNESSEE / Aquatic Resources",
+        "relevant_elements": ["3.5", "3.6"]
+      },
+      {
+        "text": "Research should be conducted to determine and identify those species and ecosystems that are most vulnerable to climate change.",
+        "location": "SAFEGUARDING WILDLIFE FROM CLIMATE CHANGE / Vulnerability Assessments",
+        "relevant_elements": ["1.1", "4.5"]
+      },
+      {
+        "text": "Topographical variation creates landscape diversity, which contributes to resilience.",
+        "location": "4.1.2. Climate Change Impacts Assessment (figure caption)",
+        "relevant_elements": ["1.1", "1.2"]
+      },
+      {
+        "text": "In captivity, nearly all Hellbenders with ranavirus die when water temperature exceeds 68 degrees Fahrenheit (a common occurrence in streams during Tennessee summers).",
+        "location": "A complicated picture emerges",
+        "relevant_elements": ["3.6", "1.3"]
+      },
+      {
+        "text": "Strategy 2.2: Develop and apply species-specific management approaches to address critical climate change impacts where necessary.",
+        "location": "5.3.6. / Table of NFWPCAS strategies",
+        "relevant_elements": ["4.2", "4.5"]
+      }
+    ]
+  },
+  "concepts": {
+    "climate_vulnerability": {
+      "evaluable": true,
+      "score": 3,
+      "evidence": [
+        {
+          "text": "vulnerability -the inability to withstand the effects of a hostile environment, generally measured by degree of exposure to hostile elements or change, inherent sensitivity to that exposure, and adaptive capacity to accommodate change.",
+          "location": "Glossary of Terms",
+          "sub_component": "exposure and adaptive capacity",
+          "citations": []
+        },
+        {
+          "text": "Species vulnerability assessments using NatureServe's Climate Change Vulnerability Index (CCVI) (Young et al. 2011) were conducted by TWRA and academic experts for 189 GCN plant and animal species. Changes to terrestrial vegetation were identified using the U.S. Forest Service's Terrestrial Climate Stress Index (TCSI) methodology (Joyce et al. 2008).",
+          "location": "4.1.2. Climate Change Impacts Assessment",
+          "sub_component": "exposure",
+          "citations": ["Young et al. 2011", "Joyce et al. 2008"]
+        },
+        {
+          "text": "The team worked with the National Wildlife Federation (NWF) to complete a 'Climate-Smart' vulnerability assessment for Tennessee species and habitats and began the process of identifying the adaptation options for addressing key vulnerabilities.",
+          "location": "Defining Conservation Actions",
+          "sub_component": "adaptive capacity",
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "adaptive_capacity_specificity": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Species with low adaptive capacity such as those with specialized habitat needs or limited dispersal ability face higher vulnerability to these changes.",
+          "location": "SAFEGUARDING WILDLIFE FROM CLIMATE CHANGE",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Maintain or establish corridors to facilitate migration routes for species and/or populations, and to facilitate gene flow.",
+          "location": "SAFEGUARDING WILDLIFE FROM CLIMATE CHANGE",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "adaptive_capacity_components": {
+      "demography": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Duck populations wintering in Tennessee are expected to decline, with lower reproductive success on their breeding grounds in the northern prairies of Canada and the U.S.",
+            "location": "CLIMATE CHANGE and POTENTIAL IMPACTS TO WILDLIFE IN TENNESSEE / Birds",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "distribution": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Range expansions or contractions of several frog species may occur as temperatures become warmer. Affected species could include the Bird-voiced Treefrog, Green Treefrog and the Wood Frog.",
+            "location": "CLIMATE CHANGE and POTENTIAL IMPACTS TO WILDLIFE IN TENNESSEE / Reptiles and Amphibians",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "movement": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Species with low adaptive capacity such as those with specialized habitat needs or limited dispersal ability face higher vulnerability to these changes.",
+            "location": "SAFEGUARDING WILDLIFE FROM CLIMATE CHANGE",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "evolutionary_potential": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Conserve genetic diversity by protecting diverse populations and genetic material across the full range of species occurrences.",
+            "location": "Ch. 5 / NFWPCAS goals section",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecological_dependencies": {
+        "present": false,
+        "evidence": []
+      },
+      "abiotic_niche": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Rare endemic salamander species found only in high elevation, cool, humid habitats are at risk. Affected species could include the Junaluska Salamander and the Pygmy Salamander.",
+            "location": "CLIMATE CHANGE and POTENTIAL IMPACTS TO WILDLIFE IN TENNESSEE / Reptiles and Amphibians",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "life_history": {
+        "present": false,
+        "evidence": []
+      }
+    },
+    "connectivity": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Strategy 1.4: Conserve, restore, and as appropriate and practicable, establish new ecological connections among conservation areas to facilitate fish, wildlife, and plant migration, range shifts, and other transitions caused by climate change.",
+          "location": "Ch. 5 Conservation Strategies / NFWPCAS goals table",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Maintain or establish corridors to facilitate migration routes for species and/or populations, and to facilitate gene flow.",
+          "location": "SAFEGUARDING WILDLIFE FROM CLIMATE CHANGE",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "their protection as intact habitat would greatly enhance climate resiliency due to the range in elevations, insure important forested protection for headwater areas",
+          "location": "Appendix B comments / NPCA commenter",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    }
+  },
+  "tools": {
+    "vulnerability_models": {
+      "evaluable": true,
+      "score": 2,
+      "named_tools": ["NatureServe CCVI", "Climate Change Vulnerability Index"],
+      "evidence": [
+        {
+          "text": "Species vulnerability assessments using NatureServe's Climate Change Vulnerability Index (CCVI) (Young et al. 2011) were conducted by TWRA and academic experts for 189 GCN plant and animal species.",
+          "location": "4.1.2. Climate Change Impacts Assessment",
+          "sub_component": null,
+          "citations": ["Young et al. 2011"]
+        },
+        {
+          "text": "Figure 8. Comparison of CCVI vulnerability scores across taxonomic groups. For more specific information on the scoring process and results, see Glick et al. 2015",
+          "location": "Table of Contents / Figure list",
+          "sub_component": null,
+          "citations": ["Glick et al. 2015"]
+        }
+      ],
+      "absence_note": {}
+    },
+    "niche_models": {
+      "evaluable": true,
+      "score": 0,
+      "named_tools": [],
+      "evidence": [],
+      "absence_note": "No species distribution models or ecological niche models (MaxEnt, SDMs, ENMs, etc.) are referenced in the document. The habitat prioritization uses GCN species occurrence records and expert-assigned habitat preferences, but this is not a niche model in the SDM sense."
+    },
+    "climate_models": {
+      "evaluable": true,
+      "score": 1,
+      "named_tools": [],
+      "evidence": [
+        {
+          "text": "Tennessee's exposure to climate change and landscape-scale impacts can be summarized in three broad categories: (1) changes in precipitation timing and duration; (2) warming temperatures; and (3) climate effects on the magnitude, severity, and return interval of",
+          "location": "Table 19",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document extensively discusses climate change projections qualitatively (warming, drought, floods, forest composition change) and references a climate change vulnerability assessment (Glick et al. 2015) and the Terrestrial Climate Stress Index, but does not name any specific GCM, downscaling product, emission scenario (RCP/SSP), or time horizon. The Terrestrial Climate Stress Index methodology is referenced (Joyce et al. 2008) but is not itself a GCM. Score 1 (referenced generally) is appropriate — the plan acknowledges projected climate change but uses no formal climate modeling apparatus directly.",
+      "time_horizon_years": [],
+      "emission_scenarios": []
+    },
+    "connectivity_models": {
+      "evaluable": true,
+      "score": 1,
+      "named_tools": [],
+      "evidence": [
+        {
+          "text": "Identify areas for an ecologically-connected network of terrestrial, freshwater, coastal, and marine conservation areas that are likely to be resilient to climate change and to support a broad range of fish, wildlife, and plants under changed conditions.",
+          "location": "Ch. 5 / NFWPCAS goals section",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document discusses connectivity and references TNC's resilient sites analysis and spatial habitat priority maps, but no named connectivity modeling tools (CircuitScape, Linkage Mapper, least-cost path, etc.) are applied to the document's focal subjects. The resilient sites analysis by TNC is referenced but is primarily a landscape resilience/microrefugia analysis rather than a connectivity model per se. Score 1 (referenced generally) rather than 2 (applied to subject)."
+    }
+  },
+  "context": {
+    "management_scale": {
+      "local": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "well-coordinated land and water management planning at a variety of spatial scales (i.e., regional, state, and local)",
+            "location": "Table 15 / Ch. 5 Conservation Strategies",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "site": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "COA boundaries will be revisited in the future with partners as implementation of the 2015 SWAP proceeds.",
+            "location": "Appendix B",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "watershed": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The hope in restoring 26 miles of buffer in selected subwatersheds is to make measurable benefits for water quality and aquatic species.",
+            "location": "Ch. 4 / Elk River case study section",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "city": {
+        "present": false,
+        "evidence": []
+      },
+      "county": {
+        "present": false,
+        "evidence": []
+      },
+      "within_state_region": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "In the Upper Gulf Coastal Plain and Mississippi River Alluvial Plain, bottomland and riparian forest habitats are most significant",
+            "location": "Summaries / State Priority Habitat Summaries",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "state": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "A separate climate change vulnerability assessment for Tennessee was prepared by the National Wildlife Federation and The Nature Conservancy, building on a SWAP update report on climate change issued by TWRA in 2009.",
+            "location": "4.1.1. Review and Update of Major Statewide Problems",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "multistate": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Work with neighboring state fish and wildlife agencies. Reach out to agencies with similar SGCN and habitats to pool resources for regional conservation efforts including problem identification, funding, mapping, and tracking the effectiveness of conservation actions.",
+            "location": "Appendix A / Element 7: Coordination with Partners",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "national": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "In 2012 a consortium of federal and state agency and tribal leaders released the National Fish, Wildlife, and Plants Climate Adaptation Strategy (NFWPCAS). The national strategy provides a framework of goals and strategies 'designed to inspire and enable natural resource managers, elected officials, and other decision makers to take action over the next five to ten years'",
+            "location": "5.3.6. Develop Climate Adaptation Strategies",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "transnational": {
+        "present": false,
+        "evidence": []
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Goal 1: Conserve habitat to support healthy fish, wildlife, and plant populations and ecosystem functions in a changing climate.",
+            "location": "5.3.6. Develop Climate Adaptation Strategies",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecoregion": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Six major terrestrial ecoregions are commonly recognized in Tennessee, from west to east (adapted from Bailey 1994; Keys et al. 1995)",
+            "location": "The State of Tennessee",
+            "sub_component": null,
+            "citations": ["Bailey 1994", "Keys et al. 1995"]
+          }
+        ]
+      },
+      "province": {
+        "present": false,
+        "evidence": []
+      },
+      "section": {
+        "present": false,
+        "evidence": []
+      },
+      "subsection": {
+        "present": false,
+        "evidence": []
+      },
+      "lake": {
+        "present": false,
+        "evidence": []
+      },
+      "river": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Protect headwater streams of priority aquatic systems (e.g., Duck River, etc.)",
+            "location": "SAFEGUARDING WILDLIFE FROM CLIMATE CHANGE",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "district": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["Tennessee", "Duck River", "Elk River", "Cumberland River", "Tennessee River", "Mississippi River Alluvial Plain", "Upper Gulf Coastal Plain", "Interior Low Plateau", "Cumberland Plateau and Mountains", "Ridge and Valley", "Southern Blue Ridge", "North Cumberland WMA"]
+    },
+    "biological_unit_score": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Range expansions or contractions of several frog species may occur as temperatures become warmer. Affected species could include the Bird-voiced Treefrog, Green Treefrog and the Wood Frog.",
+          "location": "CLIMATE CHANGE and POTENTIAL IMPACTS TO WILDLIFE IN TENNESSEE / Reptiles and Amphibians",
+          "sub_component": "species",
+          "citations": []
+        },
+        {
+          "text": "Tennessee's forests are expected to undergo changes in forest growth and composition, with some tree types expanding at the expense of others. Some high elevation forest types will be dramatically impacted or lost entirely.",
+          "location": "CLIMATE CHANGE and POTENTIAL IMPACTS TO WILDLIFE IN TENNESSEE",
+          "sub_component": "habitat/ecosystem",
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "biological_unit_components": {
+      "species": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Migratory songbirds may alter their ranges, with some species disappearing from Tennessee altogether",
+            "location": "CLIMATE CHANGE and POTENTIAL IMPACTS TO WILDLIFE IN TENNESSEE",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "population": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Maintain numerous viable populations for priority species as identified in the action plan.",
+            "location": "SAFEGUARDING WILDLIFE FROM CLIMATE CHANGE / Replication",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "habitat": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The coldest headwaters and spring influenced habitats are at risk of being lost. Twenty-two greatest conservation need species are dependent on spring or headwater streams.",
+            "location": "CLIMATE CHANGE and POTENTIAL IMPACTS TO WILDLIFE IN TENNESSEE / Aquatic Resources",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Warmer temperatures and changes in precipitation could disrupt the state's delicate forest and aquatic ecosystems.",
+            "location": "SAFEGUARDING WILDLIFE FROM CLIMATE CHANGE (intro paragraph)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "community": {
+        "present": false,
+        "evidence": []
+      },
+      "genotype_phenotype": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["Brook trout", "Indiana bat", "Golden-winged Warbler", "Hellbender (Cryptobranchus alleganiensis)", "Bird-voiced Treefrog", "Green Treefrog", "Wood Frog", "Junaluska Salamander", "Pygmy Salamander", "Striped Bass", "walleye", "Northern Flying Squirrel", "Rock Vole", "Red squirrel", "GCN species generally"]
+    },
+    "partnerships_and_funding": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "TWRA and TNC worked with the National Wildlife Federation (NWF) to complete an updated vulnerability assessment for species and habitats in Tennessee and begin the process of identifying potential adaptation strategies (Glick et al. 2015).",
+          "location": "5.3.6. Develop Climate Adaptation Strategies",
+          "sub_component": null,
+          "citations": ["Glick et al. 2015"]
+        },
+        {
+          "text": "for the 2015 comprehensive update, TWRA built on the 2009 effort by contracting with the National Wildlife Federation to provide a Climate Change Vulnerability Assessment for Tennessee and to guide TWRA on the selection of appropriate adaptation strategies. (Glick et al. 2015).",
+          "location": "4.1.2. Climate Change Impacts Assessment",
+          "sub_component": null,
+          "citations": ["Glick et al. 2015"]
+        },
+        {
+          "text": "The Tennessee State Wildlife Action Plan is not intended solely for the Tennessee Wildlife Resources Agency, but rather for all stakeholders -large and small -within Tennessee who care about wildlife or make decisions affecting the state's land and water resources, including TWRA.",
+          "location": "Conservation Partners Engagement",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_threat_habitat_degradation": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Tennessee's forests are expected to undergo changes in forest growth and composition, with some tree types expanding at the expense of others. Some high elevation forest types will be dramatically impacted or lost entirely.",
+          "location": "CLIMATE CHANGE and POTENTIAL IMPACTS TO WILDLIFE IN TENNESSEE",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "The coldest headwaters and spring influenced habitats are at risk of being lost. Twenty-two greatest conservation need species are dependent on spring or headwater streams.",
+          "location": "CLIMATE CHANGE and POTENTIAL IMPACTS TO WILDLIFE IN TENNESSEE / Aquatic Resources",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_threat_species_vital_rates": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Brook trout populations are expected to decline as surface water temperatures increase.",
+          "location": "CLIMATE CHANGE and POTENTIAL IMPACTS TO WILDLIFE IN TENNESSEE",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Duck populations wintering in Tennessee are expected to decline, with lower reproductive success on their breeding grounds in the northern prairies of Canada and the U.S.",
+          "location": "CLIMATE CHANGE and POTENTIAL IMPACTS TO WILDLIFE IN TENNESSEE / Birds",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_threat_biotic_stressors": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Increased winter temperatures could increase the threat of exotic species to native amphibian and reptile populations by increasing the survival rate of these invaders.",
+          "location": "CLIMATE CHANGE and POTENTIAL IMPACTS TO WILDLIFE IN TENNESSEE / Reptiles and Amphibians",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Larger floods and longer droughts could cause increased erosion, reduced water supply and the spread of invasive species.",
+          "location": "CLIMATE CHANGE and POTENTIAL IMPACTS TO WILDLIFE IN TENNESSEE",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    }
+  },
+  "actions": {
+    "priority_habitat_identification": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Maps of priority habitats for terrestrial, aquatic, and subterranean GCN species as well as all priority habitats combined follow.",
+          "location": "2015 Statewide Habitat Priority Maps",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Conservation Opportunity Area -Priority areas for conservation, spatially depicted on the landscape, that offer the best opportunities and potential for conservation of species of greatest conservation need and their habitats.",
+          "location": "Glossary of Terms",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Refugia refers to areas or environments that are less affected by climate change than other areas. In many ways, strategies for creating refugia are included in the strategies above, such as representation or restoration. Acquisition and/or protection of subterranean systems may be good candidates for this strategy.",
+          "location": "SAFEGUARDING WILDLIFE FROM CLIMATE CHANGE / Refugia",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "targeted_range_shift_actions": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Strategy 1.4: Conserve, restore, and as appropriate and practicable, establish new ecological connections among conservation areas to facilitate fish, wildlife, and plant migration, range shifts, and other transitions caused by climate change.",
+          "location": "Ch. 5 Conservation Strategies / NFWPCAS goals table",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Maintain or establish corridors to facilitate migration routes for species and/or populations, and to facilitate gene flow.",
+          "location": "SAFEGUARDING WILDLIFE FROM CLIMATE CHANGE",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "time_bound_and_monitoring": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "TWRA proposes to engage in a three year review cycle which will provide the foundation for the next ten year comprehensive SWAP review in 2025.",
+          "location": "TWRA Adoption of Standardized Effectiveness Measures",
+          "sub_component": "deadlines",
+          "citations": []
+        },
+        {
+          "text": "Development and implementation of an effectiveness measures framework will help TWRA and its conservation partners in the following ways: Provide a means to evaluate conservation actions so that successful ones can be replicated and communicated while less successful ones are improved or abandoned",
+          "location": "4. Regional-scale Monitoring Collaborations",
+          "sub_component": "effectiveness monitoring",
+          "citations": []
+        },
+        {
+          "text": "TWRA will incorporate status monitoring objectives and effectiveness measures into its existing planning cycles through triennial SWAP reviews and updates.",
+          "location": "Integrating Conservation Implementation, SWAP Review, and TWRA Planning Cycles",
+          "sub_component": "effectiveness monitoring",
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "evidence_of_efficacy": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "The results of the habitat work speak for themselves. In years prior to restoration, between 16 and 17 Golden-winged Warbler breeding territories were documented. In the first year after restoration work began, territories dropped to 11...By the spring of 2010, the first year without on-the-ground work, surveys showed 21 occupied territories!",
+          "location": "TENNESSEE CASE STUDY: Intensive management for early successional habitat",
+          "sub_component": null,
+          "citations": ["Schubert 2013"]
+        },
+        {
+          "text": "The 2014 publication Climate-Smart Conservation: Putting Adaptation Principles into Practice, outlines a planning process that guides the development of many types of conservation actions to address climate change-related management concerns and provides case studies of strategy development and implementation (Stein et al. 2014).",
+          "location": "5.3.6. Develop Climate Adaptation Strategies",
+          "sub_component": null,
+          "citations": ["Stein et al. 2014"]
+        }
+      ],
+      "absence_note": "The document provides some limited case study evidence for habitat management and species restoration actions, particularly the Golden-winged Warbler case study with monitoring data. However, the climate-specific adaptation actions (corridors for range shifts, refugia protection) are not backed by directly applicable efficacy studies; they are framed with general ecological rationale and reference to the NFWPCAS framework. Score 2 (limited evidence) is appropriate — some real monitoring data on non-climate-specific restoration actions, and reference to a national guidance publication, but no directly applicable tested climate adaptation action efficacy.",
+      "projects": ["Hampton Creek Cove Golden-winged Warbler habitat restoration (Tennessee): TWRA documented breeding territory counts before and after early successional habitat restoration (2007-2009). Territories dropped initially from 16-17 to 11 during active work, but rose to 21 by 2010, providing direct post-action evidence supporting early successional habitat management for climate-sensitive species.", "Lake Sturgeon reintroduction (Tennessee/Cumberland Rivers): Since 2000, over 120,000 juveniles have been released. The program is tracked against measurable criteria (occupied habitat, natural reproduction, age class distribution), providing evidence of efficacy for species restoration as a conservation action."]
+    },
+    "adaptation_planning_frameworks": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Preparing for and coping with current and future climate impacts is an emerging field known as climate change adaptation. In 2012 a consortium of federal and state agency and tribal leaders released the National Fish, Wildlife, and Plants Climate Adaptation Strategy (NFWPCAS). The national strategy provides a framework of goals and strategies 'designed to inspire and enable natural resource managers, elected officials, and other decision makers to take action over the next five to ten years to help our living resources adapt to climate change'",
+          "location": "5.3.6. Develop Climate Adaptation Strategies",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "The 2014 publication Climate-Smart Conservation: Putting Adaptation Principles into Practice, outlines a planning process that guides the development of many types of conservation actions to address climate change-related management concerns and provides case studies of strategy development and implementation (Stein et al. 2014). NWF is a national leader in connecting climate science and adaptation principles with on-the-ground management actions.",
+          "location": "5.3.6. Develop Climate Adaptation Strategies",
+          "sub_component": null,
+          "citations": ["Stein et al. 2014"]
+        },
+        {
+          "text": "Conduct vulnerability assessments and develop adaptation strategy approaches for GCN species and habitats in Tennessee. This is a new focus in the 2015 SWAP. The planning team identified which goals and strategies of the National Fish, Wildlife, and Plants Conservation Adaptation Strategy best align with TWRA's mission and expertise.",
+          "location": "CHAPTER 5 CONSERVATION STRATEGIES AND ACTIONS",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    }
+  },
+  "coding_meta": {
+    "coder": "llm:claude-sonnet-4-6",
+    "model": "claude-sonnet-4-6",
+    "provider": "claude",
+    "codebook_version": "0.4",
+    "ingest": "text",
+    "design": "single",
+    "temperature": null,
+    "thinking": null,
+    "thinking_effort": null,
+    "coded_at": "2026-07-06T18:39:26Z",
+    "notes": {}
+  }
+}

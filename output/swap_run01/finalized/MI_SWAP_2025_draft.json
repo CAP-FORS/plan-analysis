@@ -1,0 +1,925 @@
+{
+  "document_meta": {
+    "title": "Michigan's Wildlife Action Plan 2025-2035 (Draft)",
+    "year": 2025,
+    "jurisdiction": "Michigan",
+    "document_type": "SWAP",
+    "document_id": "MI_SWAP_2025_draft",
+    "page_count": 480
+  },
+  "orientation": {
+    "summary": "This is Michigan's 2025-2035 State Wildlife Action Plan (SWAP), a comprehensive multi-chapter gray-literature planning document produced by the Michigan Department of Natural Resources. The plan addresses Species of Greatest Conservation Need (SGCN) and their habitats across 18 habitat chapters covering terrestrial, wetland, and aquatic systems. Climate change is treated as a pervasive and central threat throughout the plan, with each chapter including sections on changing weather patterns as threats and on focal species' adaptive capacity and climate vulnerability. The plan performs substantial range-shift-relevant analysis itself—including a large-scale adaptive capacity (AC) assessment of ~400 Midwest SGCN based on Thurman et al. (2020) framework, and climate vulnerability assessments for aquatic species using habitat suitability models projected to 2050 (Cooper et al. 2022). Range shifts are discussed directly for several focal species (snowshoe hare, golden-winged warbler, moose, cisco), and structural connectivity, climate refugia, and assisted migration are referenced as management responses.",
+    "evidence_index": [
+      {
+        "text": "Adaptive capacity (AC) can be defined as a species' ability to tolerate or adapt to climate change, whether that be through shifting in space or persisting in place.",
+        "location": "Appendix 3. Adaptive Capacity report.pdf – EXECUTIVE SUMMARY",
+        "relevant_elements": ["1.1", "1.2", "1.3"]
+      },
+      {
+        "text": "The adaptive capacity approach offers a more nuanced understanding of how different species may respond to environmental stressors. Rather than producing a single vulnerability score, the tool identifies specific traits where a species may be especially limited in its ability to adapt.",
+        "location": "2025 SWAP Introduction Chapter.pdf – Threats to SGCN",
+        "relevant_elements": ["1.1", "1.2", "2.1"]
+      },
+      {
+        "text": "For most aquatic focal SGCN, climate vulnerability was based on Cooper et al. (2022). For this analysis, habitat suitability models were constructed for each species under current climate conditions. These models were then used to predict the amount of change in suitable habitat and consequently species distributions by 2050 based on regionally down-scaled climate projections.",
+        "location": "2025 SWAP Introduction Chapter.pdf – Aquatic Species Vulnerability Assessments",
+        "relevant_elements": ["1.1", "2.1", "2.2", "2.3"]
+      },
+      {
+        "text": "Climate vulnerability rankings for each species were based on the amount of change in their current distribution and accounted for natural and anthropogenic barriers to dispersal. Rankings included: extremely vulnerable, indicating that a species range would be reduced by more than 50% or the species would disappear by 2050.",
+        "location": "2025 SWAP Introduction Chapter.pdf – Aquatic Species Vulnerability Assessments",
+        "relevant_elements": ["1.1", "1.3", "2.1"]
+      },
+      {
+        "text": "AC is one component of a species' climate vulnerability; exposure and sensitivity must also be considered when determining how SGCN will respond to climate change.",
+        "location": "Appendix 3. Adaptive Capacity report.pdf – DISCUSSION",
+        "relevant_elements": ["1.1", "1.2"]
+      },
+      {
+        "text": "The AC assessment tool/framework consists of 37 species-or population-level attributes organized into seven attribute groups: distribution, movement, evolutionary potential, ecological role, abiotic niche, life history, and demography.",
+        "location": "Appendix 3. Adaptive Capacity report.pdf – Rapid Adaptive Capacity Assessment Tool",
+        "relevant_elements": ["1.2", "1.3"]
+      },
+      {
+        "text": "Snowshoe hares reach their southern distributional limit in Michigan and this southern range boundary has shifted northwards in recent years (Burt et al. 2017).",
+        "location": "SWAP Boreal Forest Chapter_FinalDraft.pdf – Snowshoe Hare",
+        "relevant_elements": ["1.3", "3.2", "3.3"]
+      },
+      {
+        "text": "Snowshoe Hares' coat color change is triggered by changes in day length and shortened periods of continuous snow cover in winter have resulted in longer periods of mismatch where the coat does not match the ground cover which result in increased predation and lower survival rates.",
+        "location": "SWAP Boreal Forest Chapter_FinalDraft.pdf – Snowshoe Hare Threats",
+        "relevant_elements": ["1.3", "3.6", "3.7"]
+      },
+      {
+        "text": "Boreal forests in the region represent the southern edge of a cold-adapted ecosystem, supporting species that rely on persistent snow cover, cooler temperatures and high moisture levels. These forests and their associated wildlife are particularly vulnerable to changing weather impacts such as warming temperatures, increased drought and diminished snowpack.",
+        "location": "SWAP Boreal Forest Chapter_FinalDraft.pdf – Protecting boreal forest refugia",
+        "relevant_elements": ["1.1", "3.5"]
+      },
+      {
+        "text": "Protecting and managing these climate refuges will be essential for maintaining biodiversity and ecological function in boreal forest systems.",
+        "location": "SWAP Boreal Forest Chapter_FinalDraft.pdf – Protecting boreal forest refugia",
+        "relevant_elements": ["1.4", "4.1", "4.2"]
+      },
+      {
+        "text": "Since the mid-1900s, there continues to be a substantial range contraction and shift northward, and Michigan's breeding population is now largely found in the northern Lower and Upper Peninsulas. This is likely driven by a combination of factors including habitat availability, land use changes, and increased temperatures.",
+        "location": "SWAP Dynamic Forests_FinalDraft.pdf – Golden-winged Warbler",
+        "relevant_elements": ["1.1", "3.2", "3.3"]
+      },
+      {
+        "text": "Warmer temperatures will be less favorable to species at the southern edge of their range in Michigan, such as northern and boreal tree species. This will lead to declines and a northern shift in ranges for these species.",
+        "location": "SWAP Dynamic Forests_FinalDraft.pdf – Changing Weather Patterns",
+        "relevant_elements": ["1.1", "3.2", "3.3"]
+      },
+      {
+        "text": "Shifts in vegetation communities over time may push habitat out of Michigan.",
+        "location": "SWAP Boreal Forest Chapter_FinalDraft.pdf – Moose Threats",
+        "relevant_elements": ["1.1", "3.5"]
+      },
+      {
+        "text": "As the historical climate niche for the locust shifts northward, its poor dispersal capability and landscape barriers to movements may be an issue.",
+        "location": "SWAP Peatlands_FinalDraft.pdf – Secretive Locust Threats",
+        "relevant_elements": ["1.1", "1.3", "3.2"]
+      },
+      {
+        "text": "Explore options for northern migration of Karner blue butterflies.",
+        "location": "SWAP Dry Forests Savannas Barrens Chapter_FinalDraft.pdf – Karner Blue Butterfly Goals",
+        "relevant_elements": ["4.2"]
+      },
+      {
+        "text": "KBB4. Investigate experimental lupine populations in northern Michigan for assisted migration planning.",
+        "location": "SWAP Dry Forests Savannas Barrens Chapter_FinalDraft.pdf – Karner Blue Butterfly Conservation Actions",
+        "relevant_elements": ["4.2"]
+      },
+      {
+        "text": "PT2. Investigate potential assisted migration sites and plans (Vitt et al. 2024).",
+        "location": "SWAP Great Lakes Coastal Systems_FinalDraft.pdf – Pitcher's Thistle Conservation Actions",
+        "relevant_elements": ["4.2"]
+      },
+      {
+        "text": "Because of their low resilience and isolation, conservation introductions (i.e., assisted migration) to islands from the mainland should be highly scrutinized and conservation introductions should be considered higher risk than on the mainland.",
+        "location": "SWAP Great Lakes Islands Chapter_FinalDraft.pdf – Changing Weather Patterns",
+        "relevant_elements": ["4.2"]
+      },
+      {
+        "text": "Manage islands as climate refugia – Islands present both unique challenges and important opportunities in the context of changing weather patterns.",
+        "location": "SWAP Great Lakes Islands Chapter_FinalDraft.pdf – Manage islands as climate refugia",
+        "relevant_elements": ["1.4", "4.1"]
+      },
+      {
+        "text": "Important tools, such as geographic information systems (GIS) databases and models, a Midwest Conservation Blueprint, adaptive capacity assessments for SGCN and best management practices for invasive species, aid conservation of SGCN.",
+        "location": "2025 SWAP Introduction Chapter.pdf – Conserving SGCN and their Habitats",
+        "relevant_elements": ["2.1", "4.5"]
+      },
+      {
+        "text": "In preparation for the previous SWAP revisions in 2015, several states in the Midwest conducted vulnerability assessments to inform their SWAPs using NatureServe's Climate Change Vulnerability Index (CCVI).",
+        "location": "Appendix 3. Adaptive Capacity report.pdf – INTRODUCTION",
+        "relevant_elements": ["2.1"]
+      },
+      {
+        "text": "habitat suitability models were constructed for each species under current climate conditions. These models were then used to predict the amount of change in suitable habitat and consequently species distributions by 2050 based on regionally down-scaled climate projections.",
+        "location": "2025 SWAP Introduction Chapter.pdf – Aquatic Species Vulnerability Assessments",
+        "relevant_elements": ["2.2", "2.3"]
+      },
+      {
+        "text": "H14. Refine species maps, habitat suitability models and priority maps based on field data, updated GIS layers and updated downscaled climate projections.",
+        "location": "SWAP_Coldwater Inland Lakes_FinalDraft.pdf – Conservation Actions",
+        "relevant_elements": ["2.2", "2.3"]
+      },
+      {
+        "text": "DS4. Develop a statewide habitat suitability model.",
+        "location": "SWAP Dry Forests Savannas Barrens Chapter_FinalDraft.pdf – Dusted Skipper Conservation Actions",
+        "relevant_elements": ["2.2"]
+      },
+      {
+        "text": "GWWA9. Develop and ground truth a habitat suitability model to identify additional populations.",
+        "location": "SWAP Dynamic Forests_FinalDraft.pdf – Golden-winged Warbler Conservation Actions",
+        "relevant_elements": ["2.2"]
+      },
+      {
+        "text": "Forested wetlands, especially those along river corridors, serve as critical habitat and migration pathways across multi-county and multi-state landscapes, supporting species movement and range shifts in response to changing conditions.",
+        "location": "SWAP Forested_Wetlands_FinalDraft.pdf – Enhance and connect forested wetlands",
+        "relevant_elements": ["1.4", "4.1", "4.2"]
+      },
+      {
+        "text": "SSH2. Ensure protection measures for existing high-quality forested wetlands to ensure habitat connectivity.",
+        "location": "SWAP Boreal Forest Chapter_FinalDraft.pdf – Snowshoe Hare Conservation Actions",
+        "relevant_elements": ["1.4", "4.1"]
+      },
+      {
+        "text": "Loss of dispersal pathways may inhibit recolonization of sites along the southern range boundary and result in permanent loss of these populations.",
+        "location": "SWAP Boreal Forest Chapter_FinalDraft.pdf – Snowshoe Hare Threats",
+        "relevant_elements": ["1.3", "1.4"]
+      },
+      {
+        "text": "Forest fragmentation poses a myriad of threats to species that require contiguous forests such as reduced wildlife corridors and dispersal, increased edge effects and reduced biodiversity.",
+        "location": "SWAP Dynamic Forests_FinalDraft.pdf – Natural Systems Modifications",
+        "relevant_elements": ["1.4"]
+      },
+      {
+        "text": "A regional habitat connectivity plan provides spatial layers depicting structural connectivity, network importance, landscape permeability, and climate connectivity.",
+        "location": "Appendix 3. Adaptive Capacity report.pdf – DISCUSSION (Table 11 context)",
+        "relevant_elements": ["1.4", "2.4"]
+      },
+      {
+        "text": "Maps were developed through an iterative process with partners to identify priority areas to implement conservation actions.",
+        "location": "2025 SWAP Introduction Chapter.pdf – Places for Partnerships to Implement Conservation Actions",
+        "relevant_elements": ["4.1"]
+      },
+      {
+        "text": "Since the DNR and its partners have been awarded 11 Competitive State Wildlife Grants totaling $2.8 million for habitat management, research and surveys for SGCN.",
+        "location": "2025 SWAP Introduction Chapter.pdf – Conserving SGCN and their Habitats",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "This project would not have been possible without funding provided by a Competitive State Wildlife Grant from the U.S. Fish and Wildlife Service.",
+        "location": "Appendix 3. Adaptive Capacity report.pdf – ACKNOWLEDGEMENTS",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "A warmer, dryer climate can threaten ecosystems with increased chances for drought and wildfire, altering these systems beyond management abilities.",
+        "location": "SWAP Dry Forests Savannas Barrens Chapter_FinalDraft.pdf – Changing Weather Patterns and Severe Weather",
+        "relevant_elements": ["3.5"]
+      },
+      {
+        "text": "Drought stress, changes in hydrology and flood regime, changes in wildfire frequency and severity, altered nutrient cycling and changes in invasive species, pests and pathogens.",
+        "location": "SWAP Boreal Forest Chapter_FinalDraft.pdf – Changing Weather Patterns",
+        "relevant_elements": ["3.5"]
+      },
+      {
+        "text": "Increases in temperature fluctuations, extreme weather events, flooding and growing season droughts, longer active seasons and reduced winter snow cover may cause increased predation, decreases in prey, smaller body sizes, decreases in reproductive success, direct mortality and lower survival.",
+        "location": "SWAP Peatlands_FinalDraft.pdf – Eastern Massasauga Threats – Changing Weather Patterns",
+        "relevant_elements": ["3.6"]
+      },
+      {
+        "text": "Increased air temperatures and increased frequency and severity of drought due to climate change can reduce water levels and duration of water in breeding pools, which could result in breeding pools drying up before larval metamorphosis is complete and reduced recruitment.",
+        "location": "SWAP Dynamic Forests_FinalDraft.pdf – Small-mouthed Salamander Threats",
+        "relevant_elements": ["3.6"]
+      },
+      {
+        "text": "Warmer winters allow for range expansion of invasive species and pests. Allows for extra life cycle of pests, leading to longer and more intense impacts on tree species.",
+        "location": "SWAP Dynamic Forests_FinalDraft.pdf – Invasive & Other Problematic Species",
+        "relevant_elements": ["3.7"]
+      },
+      {
+        "text": "Phenological mismatch is a major concern that involves disruptions in the timing of life cycle events between interacting species. Examples include earlier migrations by bird species before food sources are available and pollinators and their respective plants not available at the same time.",
+        "location": "SWAP Grasslands_FinalDraft.pdf – Changing Weather Patterns",
+        "relevant_elements": ["3.7"]
+      },
+      {
+        "text": "Invasive species range expansion potential, such as garlic mustard (Alliaria petiolata) and glossy buckthorn (Frangula alnus).",
+        "location": "SWAP Boreal Forest Chapter_FinalDraft.pdf – Invasive & Other Problematic Species",
+        "relevant_elements": ["3.7"]
+      },
+      {
+        "text": "Adaptive management – a process for decision making under uncertainty that involves an iterative cycle of decision-making, implementation, monitoring and evaluation that may result in adjusting the initial decision or design.",
+        "location": "Appendix 3. Adaptive Capacity report.pdf – DISCUSSION (Table 11 referenced)",
+        "relevant_elements": ["4.5"]
+      },
+      {
+        "text": "A comprehensive review and revision will occur in 2035 at the end of 10 years in accordance with federal requirements.",
+        "location": "2025 SWAP Introduction Chapter.pdf – Revision",
+        "relevant_elements": ["4.3"]
+      },
+      {
+        "text": "Each chapter identifies specific monitoring and survey needs for focal SGCN and key habitats. They identify existing protocols and programs that will be used or whether new monitoring protocols or efforts are needed.",
+        "location": "2025 SWAP Introduction Chapter.pdf – Monitoring Key Habitats & Focal SGCN",
+        "relevant_elements": ["4.3"]
+      },
+      {
+        "text": "Delineates 10-year goals for each focal SGCN and the key habitat.",
+        "location": "2025 SWAP Introduction Chapter.pdf – Goals",
+        "relevant_elements": ["4.3"]
+      },
+      {
+        "text": "Every 5 years or less, collect count-based and potentially density population measurements in a manner so that the data is interoperable with that collected by other states and agencies.",
+        "location": "SWAP Bedrock Communities_FinalDraft.pdf – Blunt-lobed Woodsia Monitoring",
+        "relevant_elements": ["4.3"]
+      },
+      {
+        "text": "Effective climate-adaptation strategies often require a regional approach. Therefore, states are increasingly discussing ways to share information and create more uniform content among State Wildlife Action Plans (SWAP).",
+        "location": "Appendix 3. Adaptive Capacity report.pdf – DISCUSSION",
+        "relevant_elements": ["4.5"]
+      },
+      {
+        "text": "the seven attribute groups can be linked directly to management strategies included in the wildlife adaptation menu.",
+        "location": "Appendix 3. Adaptive Capacity report.pdf – DISCUSSION",
+        "relevant_elements": ["4.5"]
+      },
+      {
+        "text": "Bedrock communities are uniquely adapted to rapid fluctuations between wet and dry conditions, suggesting a potential resilience to a changing climate. However, bedrock communities are rare within Michigan because their distribution is limited to localized exposures of bedrock. Because of this restricted geographic distribution, these communities are likely vulnerable because they have limited opportunities for range expansion.",
+        "location": "SWAP Bedrock Communities_FinalDraft.pdf – Assess and monitor bedrock communities",
+        "relevant_elements": ["1.1", "1.3"]
+      },
+      {
+        "text": "approximately 60% of Michigan's coldwater inland lakes suitable for cisco will decline to marginal status by 2050 (Hansen et al. 2022).",
+        "location": "SWAP_Coldwater Inland Lakes_FinalDraft.pdf – What is the health of coldwater inland lakes?",
+        "relevant_elements": ["1.1", "2.2", "2.3"]
+      },
+      {
+        "text": "Warming temperatures will result in a loss of coldwater habitat by increasing the duration of stratification and water temperatures, leading to oxythermal squeeze.",
+        "location": "SWAP_Coldwater Inland Lakes_FinalDraft.pdf – Changing Weather Patterns",
+        "relevant_elements": ["1.1", "3.5"]
+      },
+      {
+        "text": "Identifying species that are vulnerable to climate change, assessing their AC, and prioritizing conservation actions to strategically augment the AC of rare species (i.e. SGCN) is urgently needed to inform upcoming SWAP revisions.",
+        "location": "Appendix 3. Adaptive Capacity report.pdf – INTRODUCTION",
+        "relevant_elements": ["1.1", "1.2", "2.1", "4.5"]
+      },
+      {
+        "text": "This tool evaluates how well a species may be able to cope with environmental changes based on 37 key life history traits, such as reproductive strategy, habitat use, and dispersal ability.",
+        "location": "2025 SWAP Introduction Chapter.pdf – Threats to SGCN",
+        "relevant_elements": ["1.2", "1.3"]
+      }
+    ]
+  },
+  "concepts": {
+    "climate_vulnerability": {
+      "evaluable": true,
+      "score": 3,
+      "evidence": [
+        {
+          "text": "Adaptive capacity (AC) can be defined as a species' ability to tolerate or adapt to climate change, whether that be through shifting in space or persisting in place. Evaluating a species' AC may allow managers to develop and prioritize conservation actions that target specific climate vulnerabilities.",
+          "location": "Appendix 3. Adaptive Capacity report.pdf – EXECUTIVE SUMMARY",
+          "sub_component": "adaptive capacity",
+          "citations": []
+        },
+        {
+          "text": "For most aquatic focal SGCN, climate vulnerability was based on Cooper et al. (2022). These models were then used to predict the amount of change in suitable habitat and consequently species distributions by 2050 based on regionally down-scaled climate projections.",
+          "location": "2025 SWAP Introduction Chapter.pdf – Aquatic Species Vulnerability Assessments",
+          "sub_component": "exposure",
+          "citations": ["Cooper et al. (2022)"]
+        },
+        {
+          "text": "AC is one component of a species' climate vulnerability; exposure and sensitivity must also be considered when determining how SGCN will respond to climate change.",
+          "location": "Appendix 3. Adaptive Capacity report.pdf – DISCUSSION",
+          "sub_component": "adaptive capacity",
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "adaptive_capacity_specificity": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "The AC assessment tool/framework consists of 37 species-or population-level attributes organized into seven attribute groups: distribution, movement, evolutionary potential, ecological role, abiotic niche, life history, and demography.",
+          "location": "Appendix 3. Adaptive Capacity report.pdf – Rapid Adaptive Capacity Assessment Tool",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "This tool evaluates how well a species may be able to cope with environmental changes based on 37 key life history traits, such as reproductive strategy, habitat use, and dispersal ability.",
+          "location": "2025 SWAP Introduction Chapter.pdf – Threats to SGCN",
+          "sub_component": null,
+          "citations": ["Thurman et al. (2020)", "Thurman et al. (2022)"]
+        }
+      ],
+      "absence_note": {}
+    },
+    "adaptive_capacity_components": {
+      "demography": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Demography – Life Span, Generation Time, Age of Sexual Maturity, Age Structure, Recruitment – How populations of the species are composed. How old they can live and how likely juveniles are to survive to reproduce.",
+            "location": "Appendix 3. Adaptive Capacity report.pdf – Table 1. AC assessment groups and descriptions",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "distribution": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Distribution – Extent of Occupancy, Area of Occupancy, Habitat Specialization, Commensalism with Humans, Geographic Rarity – Where the species is found, how common the species is across the landscape.",
+            "location": "Appendix 3. Adaptive Capacity report.pdf – Table 1. AC assessment groups and descriptions",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "movement": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Movement – Dispersal Syndrome, Dispersal Distance, Dispersal Phase, Site Fidelity, Migration Phenology, Migration Distance – How far and how often the species moves, how likely the species is to move and establish in new habitats.",
+            "location": "Appendix 3. Adaptive Capacity report.pdf – Table 1. AC assessment groups and descriptions",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "evolutionary_potential": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Evolutionary Potential – Genetic Diversity, Population Size, Hybridization Potential – How genetically viable the species is, how likely is inbreeding to occur.",
+            "location": "Appendix 3. Adaptive Capacity report.pdf – Table 1. AC assessment groups and descriptions",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecological_dependencies": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Ecological Role – Enemies, Diet Breadth, Diversity of Obligate Species – What the species eats, how dependent it is on other species, and other biotic interactions or relationships that impact the species.",
+            "location": "Appendix 3. Adaptive Capacity report.pdf – Table 1. AC assessment groups and descriptions",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "abiotic_niche": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Abiotic Niche – Seasonal Phenology, Climatic Niche Breadth, Physiological Tolerances, Behavioral Regulation of Physiology, Disturbance Tolerances – What range of climatic conditions the species can tolerate. How sensitive the species is to changes in natural disturbances.",
+            "location": "Appendix 3. Adaptive Capacity report.pdf – Table 1. AC assessment groups and descriptions",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "life_history": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Life History – Reproductive Phenology, Reproductive Mode, Mating System, Fecundity, Parity, Sex Ratio, Sex Determination, Parental Investment – How the species reproduces. How often, how many offspring, and how are offspring cared for.",
+            "location": "Appendix 3. Adaptive Capacity report.pdf – Table 1. AC assessment groups and descriptions",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      }
+    },
+    "connectivity": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Forested wetlands, especially those along river corridors, serve as critical habitat and migration pathways across multi-county and multi-state landscapes, supporting species movement and range shifts in response to changing conditions. Expanding and enhancing connectivity among forested wetlands will be key to improving their ecological resilience and supporting biodiversity.",
+          "location": "SWAP Forested_Wetlands_FinalDraft.pdf – Enhance and connect forested wetlands",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Loss of dispersal pathways may inhibit recolonization of sites along the southern range boundary and result in permanent loss of these populations.",
+          "location": "SWAP Boreal Forest Chapter_FinalDraft.pdf – Snowshoe Hare Threats",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document references connectivity in climate-relevant contexts (supporting range shifts, species movement in response to changing conditions). Scored 2 because connectivity is explicitly linked to range shifts and climate-driven movement."
+    }
+  },
+  "tools": {
+    "vulnerability_models": {
+      "evaluable": true,
+      "score": 2,
+      "named_tools": ["CCVI", "NatureServe CCVI", "Thurman et al. AC assessment tool"],
+      "evidence": [
+        {
+          "text": "The evaluation of Adaptive Capacity for SGCN was supported by funding from Competitive State Wildlife Grants and made use of a science-based tool developed by Thurman et al. (2020, 2022). This tool evaluates how well a species may be able to cope with environmental changes based on 37 key life history traits.",
+          "location": "2025 SWAP Introduction Chapter.pdf – Threats to SGCN",
+          "sub_component": null,
+          "citations": ["Thurman et al. (2020)", "Thurman et al. (2022)"]
+        },
+        {
+          "text": "In preparation for the previous SWAP revisions in 2015, several states in the Midwest conducted vulnerability assessments to inform their SWAPs using NatureServe's Climate Change Vulnerability Index (CCVI).",
+          "location": "Appendix 3. Adaptive Capacity report.pdf – INTRODUCTION",
+          "sub_component": null,
+          "citations": ["Walk et al 2011", "Hoving et al. 2013", "Szcodronski et al. 2022"]
+        },
+        {
+          "text": "The 2024 assessment prioritized species from Michigan's 2015-2025 list of SGCN, with approximately 200 Michigan species being selected for assessment, reflecting a broad diversity of taxa.",
+          "location": "2025 SWAP Introduction Chapter.pdf – Threats to SGCN",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "niche_models": {
+      "evaluable": true,
+      "score": 2,
+      "named_tools": ["habitat suitability models"],
+      "evidence": [
+        {
+          "text": "For most aquatic focal SGCN, climate vulnerability was based on Cooper et al. (2022). For this analysis, habitat suitability models were constructed for each species under current climate conditions. These models were then used to predict the amount of change in suitable habitat and consequently species distributions by 2050 based on regionally down-scaled climate projections.",
+          "location": "2025 SWAP Introduction Chapter.pdf – Aquatic Species Vulnerability Assessments",
+          "sub_component": null,
+          "citations": ["Cooper et al. (2022)"]
+        },
+        {
+          "text": "H14. Refine species maps, habitat suitability models and priority maps based on field data, updated GIS layers and updated downscaled climate projections.",
+          "location": "SWAP_Coldwater Inland Lakes_FinalDraft.pdf – Conservation Actions",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_models": {
+      "evaluable": true,
+      "score": 2,
+      "named_tools": ["downscaled climate projections"],
+      "evidence": [
+        {
+          "text": "These models were then used to predict the amount of change in suitable habitat and consequently species distributions by 2050 based on regionally down-scaled climate projections.",
+          "location": "2025 SWAP Introduction Chapter.pdf – Aquatic Species Vulnerability Assessments",
+          "sub_component": null,
+          "citations": ["Cooper et al. (2022)"]
+        },
+        {
+          "text": "approximately 60% of Michigan's coldwater inland lakes suitable for cisco will decline to marginal status by 2050 (Hansen et al. 2022).",
+          "location": "SWAP_Coldwater Inland Lakes_FinalDraft.pdf – What is the health of coldwater inland lakes?",
+          "sub_component": null,
+          "citations": ["Hansen et al. 2022"]
+        }
+      ],
+      "absence_note": "The plan references regionally downscaled climate projections applied to focal species and habitats (Cooper et al. 2022, Hansen et al. 2022) but does not name specific GCMs or emission scenarios (RCPs/SSPs).",
+      "time_horizon_years": [2050],
+      "emission_scenarios": []
+    },
+    "connectivity_models": {
+      "evaluable": true,
+      "score": 1,
+      "named_tools": [],
+      "evidence": [
+        {
+          "text": "the seven attribute groups can be linked directly to management strategies included in the wildlife adaptation menu (C. Hoving, Michigan Department of Natural Resources, unpublished data; Table 11).",
+          "location": "Appendix 3. Adaptive Capacity report.pdf – DISCUSSION",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The plan references connectivity generally as a concept but does not apply named connectivity modeling tools (CircuitScape, Omniscape, etc.) to its focal subjects. GIS-based habitat assessments are referenced (Cooper et al. 2022) but primarily for suitability rather than explicit connectivity modeling outputs. Scored 1 (referenced generally)."
+    }
+  },
+  "context": {
+    "management_scale": {
+      "local": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Maps were developed through an iterative process with partners to identify priority areas to implement conservation actions. Therefore, maps are based on areas that were most valuable for focal SGCN, areas with ongoing conservation efforts and areas with potential to expand conservation actions. Given current funding levels, this iteration of the SWAP focused on 3 to 5 places per terrestrial chapter.",
+            "location": "2025 SWAP Introduction Chapter.pdf – Places for Partnerships to Implement Conservation Actions",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "site": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Every 5 years or less, collect count-based and potentially density population measurements in a manner so that the data is interoperable with that collected by other states and agencies.",
+            "location": "SWAP Bedrock Communities_FinalDraft.pdf – Blunt-lobed Woodsia Monitoring",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "watershed": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "For streams and inland lakes, habitat condition was determined using a GIS-based assessment of watershed disturbance and fragmentation (Cooper et al. 2022).",
+            "location": "2025 SWAP Introduction Chapter.pdf – Key Habitats & Relative Condition",
+            "sub_component": null,
+            "citations": ["Cooper et al. 2022"]
+          }
+        ]
+      },
+      "city": {
+        "present": false,
+        "evidence": []
+      },
+      "county": {
+        "present": false,
+        "evidence": []
+      },
+      "within_state_region": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Boreal forests are uncommon features of the northern Great Lakes region, occurring sporadically in the northern Lower Peninsula and infrequently in the Upper Peninsula.",
+            "location": "SWAP Boreal Forest Chapter_FinalDraft.pdf – What is the health of boreal forests?",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "state": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The 2024 assessment prioritized species from Michigan's 2015-2025 list of SGCN, with approximately 200 Michigan species being selected for assessment, reflecting a broad diversity of taxa.",
+            "location": "2025 SWAP Introduction Chapter.pdf – Threats to SGCN",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "multistate": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Unlike past assessments that were limited by state boundaries, this regional effort evaluated species across their entire geographic ranges. This offers two important benefits: (1) it increases the relevance of the results for multi-state conservation efforts.",
+            "location": "2025 SWAP Introduction Chapter.pdf – Threats to SGCN",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "national": {
+        "present": false,
+        "evidence": []
+      },
+      "transnational": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Focal species are present in waters shared by the United States and Canada. Conservation efforts should be coordinated and implemented through existing collaborative groups such as the Great Lakes Fishery Commission's Lake and Technical Committees.",
+            "location": "SWAP_Great_Lakes_Ciscoes_FinalDraft.pdf – Conservation Actions",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "These are described in each chapter, under the What are 'habitat'? section. Key habitats include a diverse range of systems, from terrestrial habitats like Grasslands to Peatlands, and aquatic habitats like Coldwater Streams to Great Lakes Coastal Systems.",
+            "location": "2025 SWAP Introduction Chapter.pdf – Focal Species and Key Habitats",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecoregion": {
+        "present": false,
+        "evidence": []
+      },
+      "province": {
+        "present": false,
+        "evidence": []
+      },
+      "section": {
+        "present": false,
+        "evidence": []
+      },
+      "subsection": {
+        "present": false,
+        "evidence": []
+      },
+      "lake": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Coldwater inland lakes are unique, high quality and relatively fragile resources that are characterized as cold and deep with exceptional water quality, allowing them to support species that other lakes cannot support.",
+            "location": "SWAP_Coldwater Inland Lakes_FinalDraft.pdf – What are coldwater lakes?",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "river": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Michigan's Big Rivers have played a vital role in the state's development, serving as an essential pathway for transportation, trade and settlement.",
+            "location": "SWAP_Big_Rivers_FinalDraft.pdf – Why are big rivers important?",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "district": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["Michigan Upper Peninsula", "Michigan Lower Peninsula", "Great Lakes", "Lake Michigan", "Lake Huron", "Lake Superior", "Lake Erie", "St. Clair-Detroit River System", "Michigamme Highlands", "Isle Royale", "Keweenaw Peninsula"]
+    },
+    "biological_unit_score": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Snowshoe hares reach their southern distributional limit in Michigan and this southern range boundary has shifted northwards in recent years.",
+          "location": "SWAP Boreal Forest Chapter_FinalDraft.pdf – Snowshoe Hare",
+          "sub_component": "species",
+          "citations": ["Burt et al. 2017"]
+        },
+        {
+          "text": "Forested wetlands, especially those along river corridors, serve as critical habitat and migration pathways across multi-county and multi-state landscapes, supporting species movement and range shifts in response to changing conditions.",
+          "location": "SWAP Forested_Wetlands_FinalDraft.pdf – Enhance and connect forested wetlands",
+          "sub_component": "habitat",
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "biological_unit_components": {
+      "species": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Since the mid-1900s, there continues to be a substantial range contraction and shift northward, and Michigan's breeding population is now largely found in the northern Lower and Upper Peninsulas. This is likely driven by a combination of factors including habitat availability, land use changes, and increased temperatures.",
+            "location": "SWAP Dynamic Forests_FinalDraft.pdf – Golden-winged Warbler",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "population": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Loss of dispersal pathways may inhibit recolonization of sites along the southern range boundary and result in permanent loss of these populations.",
+            "location": "SWAP Boreal Forest Chapter_FinalDraft.pdf – Snowshoe Hare Threats",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "habitat": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Forested wetlands, especially those along river corridors, serve as critical habitat and migration pathways across multi-county and multi-state landscapes, supporting species movement and range shifts in response to changing conditions.",
+            "location": "SWAP Forested_Wetlands_FinalDraft.pdf – Enhance and connect forested wetlands",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Boreal forests in the region represent the southern edge of a cold-adapted ecosystem, supporting species that rely on persistent snow cover, cooler temperatures and high moisture levels. These forests and their associated wildlife are particularly vulnerable to changing weather impacts.",
+            "location": "SWAP Boreal Forest Chapter_FinalDraft.pdf – Protecting boreal forest refugia",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "community": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Warmer temperatures will be less favorable to species at the southern edge of their range in Michigan, such as northern and boreal tree species. This will lead to declines and a northern shift in ranges for these species.",
+            "location": "SWAP Dynamic Forests_FinalDraft.pdf – Changing Weather Patterns",
+            "sub_component": null,
+            "citations": ["Goldblum and Rigg 2005", "Viner and Chuine 2008"]
+          }
+        ]
+      },
+      "genotype_phenotype": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Forest resilience to a changing environment depends on two key factors: species diversity and the presence of tree populations that are genetically adapted to warmer and drier conditions. Enhancing ecological integrity and supporting research into climate-adaptive genotypes are essential strategies for sustaining healthy forests.",
+            "location": "SWAP Dynamic Forests_FinalDraft.pdf – Strengthen forest resilience",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "named_entities": ["Snowshoe hare", "Golden-winged warbler", "Moose", "Cisco (Coregonus artedi)", "Kirtland's warbler", "Eastern Massasauga", "Karner Blue Butterfly", "Pitcher's Thistle", "Boreal forest", "Coldwater lakes", "Littoral zones", "Peatlands", "Grasslands", "Dry forests savannas barrens"]
+    },
+    "partnerships_and_funding": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Since 2015, the DNR and its partners have been awarded 11 Competitive State Wildlife Grants totaling $2.8 million for habitat management, research and surveys for SGCN.",
+          "location": "2025 SWAP Introduction Chapter.pdf – Conserving SGCN and their Habitats",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "This project would not have been possible without funding provided by a Competitive State Wildlife Grant from the U.S. Fish and Wildlife Service. Thank you to Tony Henehan and Chris Hoving at the Michigan Department of Natural Resources for their advice, assistance, and support.",
+          "location": "Appendix 3. Adaptive Capacity report.pdf – ACKNOWLEDGEMENTS",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_threat_habitat_degradation": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Drought stress, changes in hydrology and flood regime, changes in wildfire frequency and severity, altered nutrient cycling and changes in invasive species, pests and pathogens.",
+          "location": "SWAP Boreal Forest Chapter_FinalDraft.pdf – Changing Weather Patterns",
+          "sub_component": null,
+          "citations": ["Handler et al. 2014"]
+        },
+        {
+          "text": "A warmer, dryer climate can threaten ecosystems with increased chances for drought and wildfire, altering these systems beyond management abilities.",
+          "location": "SWAP Dry Forests Savannas Barrens Chapter_FinalDraft.pdf – Changing Weather Patterns and Severe Weather",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_threat_species_vital_rates": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Increases in temperature fluctuations, extreme weather events, flooding and growing season droughts, longer active seasons and reduced winter snow cover may cause increased predation, decreases in prey, smaller body sizes, decreases in reproductive success, direct mortality and lower survival.",
+          "location": "SWAP Peatlands_FinalDraft.pdf – Eastern Massasauga Threats – Changing Weather Patterns",
+          "sub_component": null,
+          "citations": ["Hoving et al. 2013", "Pomara et al. 2014", "Helferich et al. 2025"]
+        },
+        {
+          "text": "Increased air temperatures and increased frequency and severity of drought due to climate change can reduce water levels and duration of water in breeding pools, which could result in breeding pools drying up before larval metamorphosis is complete and reduced recruitment.",
+          "location": "SWAP Dynamic Forests_FinalDraft.pdf – Small-mouthed Salamander Threats",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_threat_biotic_stressors": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Warmer winters allow for range expansion of invasive species and pests. Allows for extra life cycle of pests, leading to longer and more intense impacts on tree species.",
+          "location": "SWAP Dynamic Forests_FinalDraft.pdf – Invasive & Other Problematic Species",
+          "sub_component": null,
+          "citations": ["Bentz and Jonsson 2015"]
+        },
+        {
+          "text": "Phenological mismatch is a major concern that involves disruptions in the timing of life cycle events between interacting species. Examples include earlier migrations by bird species before food sources are available and pollinators and their respective plants not available at the same time due to response to changing environmental cues.",
+          "location": "SWAP Grasslands_FinalDraft.pdf – Changing Weather Patterns",
+          "sub_component": null,
+          "citations": ["Reed et al. 2019"]
+        }
+      ],
+      "absence_note": {}
+    }
+  },
+  "actions": {
+    "priority_habitat_identification": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Maps were developed through an iterative process with partners to identify priority areas to implement conservation actions. This process was guided by a common goal of achieving the greatest impact for focal species and their habitats. Therefore, maps are based on areas that were most valuable for focal SGCN, areas with ongoing conservation efforts and areas with potential to expand conservation actions.",
+          "location": "2025 SWAP Introduction Chapter.pdf – Places for Partnerships to Implement Conservation Actions",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Protecting and managing these climate refuges will be essential for maintaining biodiversity and ecological function in boreal forest systems.",
+          "location": "SWAP Boreal Forest Chapter_FinalDraft.pdf – Protecting boreal forest refugia",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "targeted_range_shift_actions": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "KBB4. Investigate experimental lupine populations in northern Michigan for assisted migration planning.",
+          "location": "SWAP Dry Forests Savannas Barrens Chapter_FinalDraft.pdf – Karner Blue Butterfly Conservation Actions",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "PT2. Investigate potential assisted migration sites and plans (Vitt et al. 2024).",
+          "location": "SWAP Great Lakes Coastal Systems_FinalDraft.pdf – Pitcher's Thistle Conservation Actions",
+          "sub_component": null,
+          "citations": ["Vitt et al. 2024"]
+        }
+      ],
+      "absence_note": {}
+    },
+    "time_bound_and_monitoring": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Delineates 10-year goals for each focal SGCN and the key habitat. These are goals the plan contributors felt were realistic given available resources for conservation work over the next 10 years.",
+          "location": "2025 SWAP Introduction Chapter.pdf – Goals",
+          "sub_component": "deadlines",
+          "citations": []
+        },
+        {
+          "text": "Every 5 years or less, collect count-based and potentially density population measurements in a manner so that the data is interoperable with that collected by other states and agencies.",
+          "location": "SWAP Bedrock Communities_FinalDraft.pdf – Blunt-lobed Woodsia Monitoring",
+          "sub_component": "monitoring",
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "evidence_of_efficacy": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Scientific research has shown that prescribed burns can boost native bee diversity and abundance (Lettow et al. 2018), attract more insect-eating songbirds (Skogen 2025), and support higher numbers of small mammals (Larsen et al. 2016).",
+          "location": "SWAP Dry Forests Savannas Barrens Chapter_FinalDraft.pdf",
+          "sub_component": null,
+          "citations": ["Lettow et al. 2018", "Skogen 2025", "Larsen et al. 2016"]
+        },
+        {
+          "text": "An Experimental Translocation Identifies Habitat Features That Buffer Camouflage Mismatch in Snowshoe Hares (Wilson et al. 2019).",
+          "location": "SWAP Boreal Forest Chapter_FinalDraft.pdf – Conservation Actions for Snowshoe Hare",
+          "sub_component": null,
+          "citations": ["Wilson et al. 2019"]
+        }
+      ],
+      "absence_note": {},
+      "projects": ["Karner Blue Butterfly habitat management at Oak Pine Barrens: MNFI's real-time web application and occupancy-based sampling design documented 22,982 observations over 10 survey years, providing evidence that prescribed fire and mechanical thinning together restore savanna habitat better than fire alone.", "Snowshoe hare translocation experiment (Wilson et al. 2019): An experimental translocation in Michigan identified habitat features that buffer coat-color mismatch, informing conservation strategy SSH1 to maintain large patches of preferred habitat.", "Eastern Massasauga monitoring in Huron-Manistee National Forests: Long-term surveys documented new and expanding populations and detected snake fungal disease for the first time, providing evidence to inform recovery planning and conservation actions.", "Michigan Arctic Grayling Initiative: Reintroduction trials beginning 2025 using in-stream incubators in the Manistee, Boardman-Ottaway, and Maple River systems represent a demonstration project with active monitoring to evaluate reestablishment success.", "Kirtland's Warbler habitat management: Directed habitat management and brown-headed cowbird management resulted in population recovery from fewer than 200 to over 1,000 breeding pairs, demonstrating efficacy of management approach."]
+    },
+    "adaptation_planning_frameworks": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Effective climate-adaptation strategies often require a regional approach. Therefore, states are increasingly discussing ways to share information and create more uniform content among State Wildlife Action Plans (SWAP). By assessing species relative to their range-wide distribution, this project facilitates collaboration among states.",
+          "location": "Appendix 3. Adaptive Capacity report.pdf – DISCUSSION",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "the seven attribute groups can be linked directly to management strategies included in the wildlife adaptation menu (C. Hoving, Michigan Department of Natural Resources, unpublished data; Table 11).",
+          "location": "Appendix 3. Adaptive Capacity report.pdf – DISCUSSION",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    }
+  },
+  "coding_meta": {
+    "coder": "llm:claude-sonnet-4-6",
+    "model": "claude-sonnet-4-6",
+    "provider": "claude",
+    "codebook_version": "0.4",
+    "ingest": "text",
+    "design": "single",
+    "temperature": null,
+    "thinking": null,
+    "thinking_effort": null,
+    "coded_at": "2026-07-06T18:39:24Z",
+    "notes": {}
+  }
+}

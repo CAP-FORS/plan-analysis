@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main"></title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date>9/5/2025</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<affiliation key="aff0">
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff1">
+								<orgName type="laboratory">Species of Greatest Conservation Need x Natural Community Association Scores Wisconsin Wildlife Action Plan</orgName>
+								<address>
+									<addrLine>2025-2035 Bracken Grassland Eastern Red-cedar Thicket Great Lakes Barrens Oak Barrens Oak Opening Oak Woodland Pine Barrens Sand Barrens</addrLine>
+								</address>
+							</affiliation>
+						</author>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published">9/5/2025</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">C78EE6BF73B2E6E0E23E7299BD1289CA</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.1" ident="GROBID" when="2026-07-06T16:20+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>High/major (3) -Moderate/important (2) -Low/present (1)</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>SGCNs</head><p>Barrens and Savannas</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>SGCNs</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Barrens and Savannas</head><p>Reptiles Wood Turtle (Glyptemys insculpta) 1 1 3 1 Blanding's Turtle (Emydoidea blandingii)</p><p>1 1 1 2 1 3 3 </p></div><figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>-Bees, Wasps, Ants (Hymenoptera)</head><label></label><figDesc></figDesc><table><row><cell>False Map Turtle (Graptemys pseudogeographica)</cell><cell></cell><cell>1</cell><cell>2 3</cell></row><row><cell>Ornate Box Turtle (Terrapene ornata)</cell><cell>1</cell><cell>3 3</cell><cell>3</cell></row><row><cell>Smooth Softshell (Apalone mutica)</cell><cell></cell><cell></cell><cell>1 3</cell></row><row><cell>Slender Glass Lizard (Ophisaurus attenuatus)</cell><cell>1</cell><cell cols="2">2 1 3 2</cell></row><row><cell>Prairie Skink (Plestiodon septentrionalis)</cell><cell></cell><cell cols="2">2 1 3 3</cell></row><row><cell>Six-lined Racerunner (Aspidoscelis sexlineata)</cell><cell>1</cell><cell>2</cell><cell>1 3</cell></row><row><cell>Western Wormsnake (Carphophis vermis)</cell><cell>1</cell><cell>1 2</cell><cell></cell></row><row><cell>North American Racer (Coluber constrictor)</cell><cell>1</cell><cell cols="2">2 1 2 3</cell></row><row><cell>Prairie Ring-necked Snake (Diadophis punctatus arnyi)</cell><cell>1</cell><cell>3 2</cell><cell>1</cell></row><row><cell>Gray Ratsnake (Pantherophis spiloides)</cell><cell>1</cell><cell>2 3</cell><cell></cell></row><row><cell>Gophersnake (Pituophis catenifer)</cell><cell>1</cell><cell cols="2">3 2 2 3</cell></row><row><cell>Butler's Gartersnake (Thamnophis butleri)</cell><cell></cell><cell>1</cell><cell></cell></row><row><cell>Plains Gartersnake (Thamnophis radix)</cell><cell></cell><cell>1</cell><cell>1 1</cell></row><row><cell>Eastern Ribbonsnake (Thamnophis saurita)</cell><cell>1</cell><cell></cell><cell></cell></row><row><cell>Timber Rattlesnake (Crotalus horridus)</cell><cell>2</cell><cell>3 3</cell><cell>1</cell></row><row><cell>Eastern Massasauga (Sistrurus catenatus)</cell><cell></cell><cell></cell><cell>3 3</cell></row><row><cell>IRusty Patched Bumble Bee (Bombus affinis)</cell><cell></cell><cell>2 1</cell><cell></cell></row><row><cell>Yellowbanded Bumble Bee (Bombus terricola)</cell><cell>2</cell><cell></cell><cell>3</cell></row><row><cell>American Bumble Bee (Bombus pensylvanicus)</cell><cell></cell><cell>2</cell><cell>1</cell></row><row><cell>Sanderson's Bumble Bee (Bombus sandersoni)</cell><cell>2</cell><cell></cell><cell>3</cell></row><row><cell>Indiscriminate Cuckoo Bumble Bee (Bombus insularis)</cell><cell>2</cell><cell></cell><cell>2</cell></row><row><cell>Fernald Cuckoo Bumble Bee (Bombus flavidus)</cell><cell>2</cell><cell></cell><cell></cell></row><row><cell>An Andrenid Bee (Andrena uvulariae)</cell><cell></cell><cell>3 3</cell><cell></cell></row><row><cell>Silphium Terminal Gall Wasp (Antistrophus silphii)</cell><cell></cell><cell>1</cell><cell></cell></row><row><cell>An Anthophorid Bee (Neolarra vigilans)</cell><cell></cell><cell></cell><cell>2</cell></row><row><cell>A Cuckoo Bee (Epeolus ainsliei)</cell><cell></cell><cell></cell><cell>1</cell></row><row><cell>I-Beetles (Coleoptera)</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Hairy-necked Tiger Beetle (Cicindela hirticollis hirticollis)</cell><cell></cell><cell></cell><cell>1</cell></row><row><cell>Ghost Tiger Beetle (Ellipsoptera lepida)</cell><cell></cell><cell></cell><cell>1 3</cell></row><row><cell>Virginia Big-headed Tiger Beetle (Tetracha virginica)</cell><cell></cell><cell></cell><cell>1 2</cell></row></table></figure>
+		</body>
+		<back>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0" />			</div>
+			<div type="references">
+
+				<listBibl/>
+			</div>
+		</back>
+	</text>
+</TEI>
+

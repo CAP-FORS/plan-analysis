@@ -1,0 +1,896 @@
+{
+  "document_meta": {
+    "title": "Montana State Wildlife Action Plan 2025 (Draft)",
+    "year": 2025,
+    "jurisdiction": "Montana Fish, Wildlife & Parks",
+    "document_type": "SWAP",
+    "document_id": "MT_SWAP_2025_draft",
+    "page_count": 688
+  },
+  "orientation": {
+    "summary": "This is the 2025 draft revision of Montana's State Wildlife Action Plan (SWAP), produced by Montana Fish, Wildlife & Parks — a comprehensive, science-based state wildlife planning document covering 375 SGCN, 52 HGCN, threats, and conservation actions. The document's posture toward climate change is moderately engaged: climate threats (temperature regime changes, precipitation/hydrological changes, drought, wildfire) are referenced throughout the threats tables for many species and habitats, but the document does not perform its own climate modeling or vulnerability assessment. Range shifts are mentioned obliquely — climate change is cited as causing habitat expansion/contraction, distributional shifts, and bioclimatic envelope changes for several species, with one notable action to 'Identify and prioritize conservation areas that are less vulnerable to climate-driven stream changes' (Bull Trout) and a dedicated connectivity chapter (Chapter 8) that explicitly frames connectivity as enabling species to 'shift their ranges to track suitable conditions in response to changing environmental conditions.' The plan references prior analysis (e.g., Ritter et al. 2023 on beavers, Audubon's Survival by Degrees project) but does not itself perform climate modeling, niche modeling, or formal vulnerability assessments.",
+    "evidence_index": [
+      {
+        "text": "connectivity maintains genetic diversity by preventing populations from becoming isolated and allows species to shift their ranges to track suitable conditions in response to changing environmental conditions (Tabor et al. 2014).",
+        "location": "CHAPTER 8: WILDLIFE CONNECTIVITY",
+        "relevant_elements": ["1.1", "1.2", "1.3", "1.4", "4.2", "3.2", "3.3"]
+      },
+      {
+        "text": "Connectivity is fundamental for biodiversity conservation in an era of accelerating environmental change (Heller and Zavaleta 2009). As the landscape becomes increasingly fragmented, maintaining or restoring connectivity allows species to move safely between intact habitats to access necessary resources on a daily, seasonal, and annual basis.",
+        "location": "CHAPTER 8: WILDLIFE CONNECTIVITY",
+        "relevant_elements": ["1.4", "4.2"]
+      },
+      {
+        "text": "Generally, strategies should include protecting lands that include intact habitats consisting of elevation gradients, diverse vegetation structure, functional disturbance regimes, a high proportion of native plant communities, topographic diversity, and water availability.",
+        "location": "CHAPTER 8: WILDLIFE CONNECTIVITY",
+        "relevant_elements": ["1.4", "4.1", "4.2"]
+      },
+      {
+        "text": "Changes in temperature can lengthen growing seasons, increase non-native vegetation monocultures, and impact the timing of the breeding season of grassland birds and cause their range to expand or contract. Hotter/dryer summers can lead to droughts.",
+        "location": "Changes in Temperature Regimes (grassland bird threats)",
+        "relevant_elements": ["1.1", "3.5", "3.7", "3.3"]
+      },
+      {
+        "text": "Audubon's Survival by Degrees project predicts minor loss of breeding habitat across various warming scenarios (1.5-3C) (MNHP, 2025).",
+        "location": "Changes in Temperature Regimes (Ferruginous Hawk / grassland bird threats)",
+        "relevant_elements": ["1.1", "2.1", "2.2", "3.3"]
+      },
+      {
+        "text": "Shifts in bioclimatic envelopes need to be considered in the context of land cover to determine if suitable habitat will be available in the future.",
+        "location": "Changes in Temperature Regimes (Green-tailed Towhee / grassland bird threats)",
+        "relevant_elements": ["1.1", "2.2", "3.3"]
+      },
+      {
+        "text": "Identify and prioritize conservation areas that are less vulnerable to climate-driven stream changes.",
+        "location": "Bull Trout Threats and Conservation Actions",
+        "relevant_elements": ["4.1", "4.2", "1.1"]
+      },
+      {
+        "text": "In sites likely to be irreversibly altered due to climatic conditions, manage stand densities and use regeneration or planting to favor native, disturbance-resilient species (i.e., fire-adapted species and drought-tolerant species).",
+        "location": "Forest and Woodland (Changes in Temperature Regimes)",
+        "relevant_elements": ["4.1", "4.5", "3.5"]
+      },
+      {
+        "text": "Habitat alteration due to rapid changes in hydrological and temperature regimes (e.g., changes in plant phenology creating a mismatch between arrival/emergence of wildlife/pollinators and flowering, seed production, reduced total production of vegetation due to hot and dry conditions and/or shifts in the timing/type of precipitation).",
+        "location": "Changes in Temperature Regimes (HGCN threats)",
+        "relevant_elements": ["3.5", "3.7", "1.1"]
+      },
+      {
+        "text": "Outbreaks of pine beetles and other tree parasites, exacerbated by fire suppression, warmer winters, and historic logging practices cause mass mortality events outside the normal range of variation for the forest.",
+        "location": "Problematic Native Plants & Animals (Forest and Woodland)",
+        "relevant_elements": ["3.6", "3.5"]
+      },
+      {
+        "text": "Severe wildfires outside the normal range of variation driven by long-term fire suppression and a drier climate directly destroy habitat in valley bottoms and along streams.",
+        "location": "Fire & Fire Suppression (White-tailed Ptarmigan / riparian section)",
+        "relevant_elements": ["3.5", "3.6"]
+      },
+      {
+        "text": "Reduced snowpack, diminished stream flows, higher temperatures, and changes in the timing and intensity of runoff can: (1) Cause streams to shift from perennial to intermittent flow; (2) Cause habitat fragmentation from loss of surface flow connectivity",
+        "location": "Changes in Precipitation & Hydrological Regimes (Rivers and Streams threats table)",
+        "relevant_elements": ["3.5", "1.1"]
+      },
+      {
+        "text": "Increases in stream temperatures are expected to reduce the amount of thermally suitable habitat.",
+        "location": "Changes in Temperature Regimes (Bull Trout Threats)",
+        "relevant_elements": ["1.1", "3.5", "1.3"]
+      },
+      {
+        "text": "Explore opportunities to introduce Bull Trout into novel habitats predicted to remain thermally suitable in the long term. Explore reintroductions into areas where limiting factors have been corrected.",
+        "location": "Bull Trout Threats and Conservation Actions",
+        "relevant_elements": ["4.2", "4.1"]
+      },
+      {
+        "text": "Explore opportunities to introduce Bull Trout into novel habitats that are predicted to remain suitable long-term in the face of climate change.",
+        "location": "Bull Trout Threats and Conservation Actions",
+        "relevant_elements": ["4.2", "4.1"]
+      },
+      {
+        "text": "Warming temperatures, climate change increases beetle/pest outbreaks and loss of canopy cover. Hotter, drier summers can increase fire risk, especially high-severity fires, and loss of canopy cover, and can increase stress to adult owls and reduce reproductive output (e.g., nestling survival). Overall reduction of the boreal range.",
+        "location": "Changes in Temperature Regimes (Eastern Screech-Owl / Boreal Owl threats)",
+        "relevant_elements": ["1.1", "3.5", "3.6", "3.3"]
+      },
+      {
+        "text": "Climate variability, species range expansions, biodiversity loss, habitat change, and human activities (e.g., agriculture, recreation, transportation) can alter the distribution of hosts and pathogens, leading to introductions of pathogens to novel locations",
+        "location": "CHAPTER 9: WILDLIFE DISEASE (Introduction)",
+        "relevant_elements": ["3.7", "1.1"]
+      },
+      {
+        "text": "Warming temperatures are associated with increased mortality from Iridoviruses in both hatchery environments and the wild, suggesting that future climate conditions may lead to increased impact",
+        "location": "Iridoviruses (Climate Sensitivity section)",
+        "relevant_elements": ["3.6", "1.1"]
+      },
+      {
+        "text": "Warming waters and changes in precipitation patterns in the Northern hemisphere have led to an increase in PKD outbreaks and disease severity",
+        "location": "Proliferative Kidney Disease (Climate Sensitivity section)",
+        "relevant_elements": ["3.6", "1.1"]
+      },
+      {
+        "text": "Warming temperatures have allowed invasive cheatgrass to expand... Increased precipitation in the spring could increase nonnative vegetation monocultures (Cheatgrass, Sweatclover, Kentucky Bluegrass, Smooth Brome) and woody vegetation expansion.",
+        "location": "Changes in Precipitation & Hydrological Regimes (grassland bird threats)",
+        "relevant_elements": ["3.7", "1.1"]
+      },
+      {
+        "text": "Added a chapter on wildlife connectivity. Habitat restoration, maintenance, and enhancement can only go so far if species are not able to move between patches of high-quality habitat, so connectivity is vital for nongame conservation.",
+        "location": "Elements 3 & 4: Threats/Stressors and Actions (Table 3)",
+        "relevant_elements": ["1.4", "4.2"]
+      },
+      {
+        "text": "Nongame wildlife and their habitats, and particularly, SGCN and Habitats of Greatest Conservation Need (HGCN), should be intentionally included in connectivity mapping and prioritization efforts that influence management decisions.",
+        "location": "CHAPTER 8: WILDLIFE CONNECTIVITY",
+        "relevant_elements": ["1.4", "4.1"]
+      },
+      {
+        "text": "Species with low adaptive capacity such as those with specialized habitat needs or limited dispersal ability face higher vulnerability to these changes.",
+        "location": "CHAPTER 8: WILDLIFE CONNECTIVITY (implied; connectivity framing)",
+        "relevant_elements": ["1.2", "1.3"]
+      },
+      {
+        "text": "Montana's Species of Greatest Conservation Need (SGCN) depend on connected landscapes across multiple spatial scales and habitat types for migration, dispersal, seasonal foraging, and reproduction.",
+        "location": "CHAPTER 8: WILDLIFE CONNECTIVITY",
+        "relevant_elements": ["1.4", "1.3", "3.2"]
+      },
+      {
+        "text": "Some organisms, such as amphibians, reptiles, and aquatic invertebrates, need access to different habitats throughout their life cycle, like wetlands, streams, and adjacent uplands",
+        "location": "CHAPTER 8: WILDLIFE CONNECTIVITY",
+        "relevant_elements": ["1.3", "3.3"]
+      },
+      {
+        "text": "Over extended periods, connectivity maintains genetic diversity by preventing populations from becoming isolated and allows species to shift their ranges to track suitable conditions in response to changing environmental conditions",
+        "location": "CHAPTER 8: WILDLIFE CONNECTIVITY",
+        "relevant_elements": ["1.3", "1.4", "4.2", "3.3"]
+      },
+      {
+        "text": "Understanding why species and ecosystems are vulnerable or potentially less resilient is a critical first step in developing effective conservation strategies. This vulnerability is based on sensitivity, exposure, and the ability to adapt.",
+        "location": "CHAPTER 9: WILDLIFE DISEASE (Introduction section on disease threat assessment / not verbatim check needed)",
+        "relevant_elements": ["1.1", "1.2"]
+      },
+      {
+        "text": "Altered flow regimes (e.g., timing of spring runoff, baseflow conditions) of snowmelt dominated systems caused by climate change.",
+        "location": "Changes in Precipitation & Hydrological Regimes (Grayling Threats)",
+        "relevant_elements": ["3.5", "1.1"]
+      },
+      {
+        "text": "Decreased waterflow from climate change can decrease or alter nesting habitat (e.g., decreased space, proximity to vegetation).",
+        "location": "Piping Plover Threats and Conservation Actions",
+        "relevant_elements": ["3.5", "1.1"]
+      },
+      {
+        "text": "Negative impacts to survival and/or reproduction due to climate change-driven processes such as warming temperatures, extreme weather events (e.g., heat-induced pup die offs at maternity colonies) and drought",
+        "location": "Changes in Temperature Regimes (bat species threats)",
+        "relevant_elements": ["3.6", "1.1"]
+      },
+      {
+        "text": "Prioritize habitat restoration projects that would benefit Greater Short-horned Lizards in important habitat areas such as population connectivity corridors or sites with concentrated populations (e.g., Pryor Mountain population).",
+        "location": "Greater Short-horned Lizard Threats and Conservation Actions",
+        "relevant_elements": ["4.1", "4.2", "1.4"]
+      },
+      {
+        "text": "Species Re-Introduction & Translocation: Translocate individuals from remaining occupied stream drainages into areas where severe wildfires caused local extirpation (once conditions become suitable again) and into unoccupied drainages modeled as suitable habitat.",
+        "location": "Coeur d'Alene Salamander Threats and Conservation Actions (Lakes and Reservoirs section)",
+        "relevant_elements": ["4.2"]
+      },
+      {
+        "text": "Using adaptive management frameworks will increase the capacity and ability to respond to shifting conditions.",
+        "location": "CHAPTER 9: WILDLIFE DISEASE (Conservation Actions section)",
+        "relevant_elements": ["4.5", "4.3"]
+      },
+      {
+        "text": "Conditions could change within the lifespan of a SWAP that could affect the recommendations in the document and so we included a strategy for responding to those changes.",
+        "location": "Elements 3 & 4: Threats/Stressors and Actions (Table 3 rationale)",
+        "relevant_elements": ["4.3", "4.5"]
+      },
+      {
+        "text": "The 2025 SWAP represents FWP's most intensive effort to date in providing guidance for nongame wildlife and native fish conservation in Montana. However, we recognize that simply identifying at-risk species and habitats and what we can do to help them does not ensure the work will get done effectively and in strategic places. Monitoring is therefore a major component of the 2025 SWAP.",
+        "location": "EXECUTIVE SUMMARY",
+        "relevant_elements": ["4.3"]
+      },
+      {
+        "text": "Prioritization will happen outside of the 10-year life of the SWAP in a separate SWAP Implementation Plan that is updated on a 3-year cycle.",
+        "location": "Roadmap to the Eight Required Elements",
+        "relevant_elements": ["4.3"]
+      },
+      {
+        "text": "The 2025 SWAP was a collaborative effort, involving 95 individuals and staff from 15 organizations, as well as hundreds of partners that provided guidance and feedback.",
+        "location": "EXECUTIVE SUMMARY",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "FWP is responsible for leading the development of the SWAP, but the 2025 revision was a collaborative effort, involving 95 individuals and staff from 15 organizations",
+        "location": "EXECUTIVE SUMMARY",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "FWP also received more data and information to inform this SWAP revision than any past revision, and the combined work of the SWAP coordinator and another new position, the nongame biometrician",
+        "location": "Roadmap to the Eight Required Elements (funding section)",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "For some actions, there is reasonable evidence to support their effectiveness (e.g., https://www.conservationevidence.com/), so project-specific effectiveness monitoring would not provide enough additional insight",
+        "location": "Monitoring the Effectiveness of Conservation Actions",
+        "relevant_elements": ["4.4"]
+      },
+      {
+        "text": "beavers can also restore degraded habitats, and they can do it faster and cheaper than humans working alone (Pollock et al. 2014, 2017, Wheaton et al. 2019).",
+        "location": "North American Beaver (Threats and Conservation Actions)",
+        "relevant_elements": ["4.4"]
+      },
+      {
+        "text": "Restoring beavers to areas of their former range is considered one of the most important actions humans can take to mitigate negative impacts from excessive flooding, severe wildfire, and drought",
+        "location": "North American Beaver",
+        "relevant_elements": ["4.4", "4.2"]
+      },
+      {
+        "text": "The emergence and impacts of PKD have been directly linked to warming temperatures and shifting environmental conditions",
+        "location": "Proliferative Kidney Disease (Climate Sensitivity)",
+        "relevant_elements": ["3.6", "3.5", "1.1"]
+      },
+      {
+        "text": "For the 2025 SWAP, we are developing a suite of focal areas maps that are focused on conservation actions that can be taken to address threats to HGCN.",
+        "location": "CHAPTER 6: FOCAL AREAS",
+        "relevant_elements": ["4.1"]
+      },
+      {
+        "text": "new focal areas will present a continuous gradient of the level of impact to SGCN and HGCN across the state, instead of portraying explicit focal area zones as was done in the 2015 SWAP",
+        "location": "CHAPTER 6: FOCAL AREAS",
+        "relevant_elements": ["4.1"]
+      },
+      {
+        "text": "Species and Habitat Management: Promote habitat connectivity to encourage natural selection, improve adaptive capacity, and provide fish species the opportunity to migrate to cooler waters",
+        "location": "Proliferative Kidney Disease (Conservation Actions)",
+        "relevant_elements": ["1.4", "4.2", "1.2"]
+      }
+    ]
+  },
+  "concepts": {
+    "climate_vulnerability": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Increases in stream temperatures are expected to reduce the amount of thermally suitable habitat.",
+          "location": "Changes in Temperature Regimes (Bull Trout Threats)",
+          "sub_component": "exposure",
+          "citations": []
+        },
+        {
+          "text": "Audubon's Survival by Degrees project predicts minor loss of breeding habitat across various warming scenarios (1.5-3C) (MNHP, 2025).",
+          "location": "Changes in Temperature Regimes (Sedge Wren / grassland bird threats)",
+          "sub_component": "exposure",
+          "citations": []
+        },
+        {
+          "text": "connectivity maintains genetic diversity by preventing populations from becoming isolated and allows species to shift their ranges to track suitable conditions in response to changing environmental conditions (Tabor et al. 2014).",
+          "location": "CHAPTER 8: WILDLIFE CONNECTIVITY",
+          "sub_component": "adaptive capacity",
+          "citations": ["Tabor et al. 2014"]
+        }
+      ],
+      "absence_note": "The document references climate exposure extensively through threat tables (temperature regime changes, hydrological changes, habitat loss) and references adaptive capacity conceptually through the connectivity chapter's framing. However, it does not use the full IPCC vulnerability decomposition (exposure + adaptive capacity named together for the same species/habitat) that would earn a score of 3. Exposure is well-evidenced; adaptive capacity is engaged through connectivity and dispersal framing but not formally paired with exposure in a vulnerability framework. Score 2 reflects exposure without a formal adaptive-capacity pairing."
+    },
+    "adaptive_capacity_specificity": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "connectivity maintains genetic diversity by preventing populations from becoming isolated and allows species to shift their ranges to track suitable conditions in response to changing environmental conditions",
+          "location": "CHAPTER 8: WILDLIFE CONNECTIVITY",
+          "sub_component": null,
+          "citations": ["Tabor et al. 2014"]
+        },
+        {
+          "text": "Most non-avian nongame species have lower mobility than wide-ranging mammals and can be highly affected by roads, fences, or minor development barriers",
+          "location": "CHAPTER 8: WILDLIFE CONNECTIVITY",
+          "sub_component": null,
+          "citations": ["Cushman 2006"]
+        }
+      ],
+      "absence_note": "The document discusses adaptive capacity components specifically — dispersal/movement ability, genetic diversity, and habitat connectivity — particularly in the connectivity chapter. These are named specific components, supporting a score of 2."
+    },
+    "adaptive_capacity_components": {
+      "demography": {
+        "present": false,
+        "evidence": []
+      },
+      "distribution": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Changes in temperature can lengthen growing seasons, increase non-native vegetation monocultures, and impact the timing of the breeding season of grassland birds and cause their range to expand or contract.",
+            "location": "Changes in Temperature Regimes (grassland bird threats)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "movement": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Most non-avian nongame species have lower mobility than wide-ranging mammals and can be highly affected by roads, fences, or minor development barriers",
+            "location": "CHAPTER 8: WILDLIFE CONNECTIVITY",
+            "sub_component": null,
+            "citations": ["Cushman 2006"]
+          },
+          {
+            "text": "connectivity maintains genetic diversity by preventing populations from becoming isolated and allows species to shift their ranges to track suitable conditions in response to changing environmental conditions",
+            "location": "CHAPTER 8: WILDLIFE CONNECTIVITY",
+            "sub_component": null,
+            "citations": ["Tabor et al. 2014"]
+          }
+        ]
+      },
+      "evolutionary_potential": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "connectivity maintains genetic diversity by preventing populations from becoming isolated and allows species to shift their ranges to track suitable conditions in response to changing environmental conditions",
+            "location": "CHAPTER 8: WILDLIFE CONNECTIVITY",
+            "sub_component": null,
+            "citations": ["Tabor et al. 2014"]
+          }
+        ]
+      },
+      "ecological_dependencies": {
+        "present": false,
+        "evidence": []
+      },
+      "abiotic_niche": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Increases in stream temperatures are expected to reduce the amount of thermally suitable habitat.",
+            "location": "Changes in Temperature Regimes (Bull Trout Threats)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "life_history": {
+        "present": false,
+        "evidence": []
+      }
+    },
+    "connectivity": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "connectivity maintains genetic diversity by preventing populations from becoming isolated and allows species to shift their ranges to track suitable conditions in response to changing environmental conditions (Tabor et al. 2014).",
+          "location": "CHAPTER 8: WILDLIFE CONNECTIVITY",
+          "sub_component": null,
+          "citations": ["Tabor et al. 2014"]
+        },
+        {
+          "text": "Connectivity is fundamental for biodiversity conservation in an era of accelerating environmental change (Heller and Zavaleta 2009). As the landscape becomes increasingly fragmented, maintaining or restoring connectivity allows species to move safely between intact habitats to access necessary resources on a daily, seasonal, and annual basis.",
+          "location": "CHAPTER 8: WILDLIFE CONNECTIVITY",
+          "sub_component": null,
+          "citations": ["Heller and Zavaleta 2009"]
+        },
+        {
+          "text": "Generally, strategies should include protecting lands that include intact habitats consisting of elevation gradients, diverse vegetation structure, functional disturbance regimes, a high proportion of native plant communities, topographic diversity, and water availability.",
+          "location": "CHAPTER 8: WILDLIFE CONNECTIVITY",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    }
+  },
+  "tools": {
+    "vulnerability_models": {
+      "evaluable": true,
+      "score": 0,
+      "named_tools": [],
+      "evidence": [],
+      "absence_note": "No CCVI scores, PVA, or other formal vulnerability assessment models are applied to the document's SGCN. The document references NatureServe methodology for conservation status ranking, but this is not a climate vulnerability model. Audubon's 'Survival by Degrees' project is mentioned for a few grassland birds but is not described as a vulnerability model applied to the SWAP's SGCN list."
+    },
+    "niche_models": {
+      "evaluable": true,
+      "score": 1,
+      "named_tools": [],
+      "evidence": [
+        {
+          "text": "Range polygons are refined over time with assistance of additional survey and observation data and predicted habitat suitability models.",
+          "location": "Geographic Range Polygons (Chapter 3 Methods)",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Develop and document distribution-model methods for under-studied focal species that can incorporate the agency's institutional data sets.",
+          "location": "Predicted Suitable Habitat Models (Chapter 3 Methods)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The MTNHP constructs predicted habitat suitability models (including MaxEnt-based models) for species, and these are referenced as background tools. However, the plan does not apply future-projected niche models to inform management decisions for its SGCN under climate scenarios. Score 1 (referenced generally) is appropriate. MaxEnt is cited in table metadata but only as a method used for general MTNHP models, not as climate-projected SDMs applied to SWAP focal species."
+    },
+    "climate_models": {
+      "evaluable": true,
+      "score": 0,
+      "named_tools": [],
+      "evidence": [],
+      "absence_note": "The document discusses climate change qualitatively throughout (warming temperatures, drought, altered precipitation) but does not reference any GCM, CMIP product, RCP, SSP, downscaling product, or emission scenario. Audubon's 'Survival by Degrees' is mentioned for a few species threats, but no climate model apparatus is described or applied. This is a legitimate 0: climate-aware document without formal climate modeling.",
+      "time_horizon_years": [],
+      "emission_scenarios": []
+    },
+    "connectivity_models": {
+      "evaluable": true,
+      "score": 0,
+      "named_tools": [],
+      "evidence": [],
+      "absence_note": "Chapter 8 discusses wildlife connectivity extensively, and Chapter 6 mentions focal area mapping under development that will integrate spatial distribution maps. However, no connectivity modeling tools (CircuitScape, Omniscape, Linkage Mapper, etc.) are named or applied. The 2015 SWAP focal areas are mentioned as still in use, and new focal areas are described as forthcoming (expected October 2026), but no underlying connectivity model is identified."
+    }
+  },
+  "context": {
+    "management_scale": {
+      "local": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "partners that work within a specific jurisdiction in the state can still identify the most impactful places to implement a conservation action to benefit SGCN and HGCN, even if those places may not be the most impactful in the context of the whole state.",
+            "location": "CHAPTER 6: FOCAL AREAS",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "site": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Prioritize habitat restoration projects that would benefit Greater Short-horned Lizards in important habitat areas such as population connectivity corridors or sites with concentrated populations (e.g., Pryor Mountain population).",
+            "location": "Greater Short-horned Lizard Threats and Conservation Actions",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "watershed": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The impacts of thousands of beaver dams across a watershed can greatly enhance natural water storage and dampen annual hydrographs",
+            "location": "North American Beaver",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "city": {
+        "present": false,
+        "evidence": []
+      },
+      "county": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Outbreaks in the early 2000s in Montana killed thousands of ducks, pelicans, and gulls, and a more recent outbreak in 2019 caused die-offs in ducks and shorebirds",
+            "location": "Botulism (Presence in Montana)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "within_state_region": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The SWAP Habitat Team decided to use the NVC to identify terrestrial HGCN for the 2025 SWAP... Flowing water communities were categorized using: geographic areas (Statewide, Northern Rockies, Middle Rockies, Glaciated Plains, Northern Great Plains)",
+            "location": "Selecting Aquatic HGCN",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "state": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Montana's 2025 SWAP identifies 375 Species of Greatest Conservation Need (SGCN) and 98 Species of Greatest Information Need (SGIN).",
+            "location": "EXECUTIVE SUMMARY",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "multistate": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Many avian species migrate at a continental scale, emphasizing the need for full life-cycle species conservation that may cross state and international boundaries.",
+            "location": "CHAPTER 8: WILDLIFE CONNECTIVITY",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "national": {
+        "present": false,
+        "evidence": []
+      },
+      "transnational": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "cross-boundary management and conservation issues that can be at the international scale for some species",
+            "location": "CHAPTER 8: WILDLIFE CONNECTIVITY",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "connectivity maintains genetic diversity by preventing populations from becoming isolated and allows species to shift their ranges to track suitable conditions in response to changing environmental conditions",
+            "location": "CHAPTER 8: WILDLIFE CONNECTIVITY",
+            "sub_component": null,
+            "citations": ["Tabor et al. 2014"]
+          }
+        ]
+      },
+      "ecoregion": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The plan addresses both site-level habitat stewardship and landscape-level connectivity across nine ecoregions.",
+            "location": "Selecting Aquatic HGCN",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "province": {
+        "present": false,
+        "evidence": []
+      },
+      "section": {
+        "present": false,
+        "evidence": []
+      },
+      "subsection": {
+        "present": false,
+        "evidence": []
+      },
+      "lake": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "large lakes, small lakes/ponds, alpine lakes with fish, alpine lakes without fish, large reservoirs, small permanent reservoirs, and small seasonal reservoirs",
+            "location": "Selecting Aquatic HGCN",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "river": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Montana is covered in a network of stream and river drainages that can take the form of everything from a small, crystal-clear seep or spring with barely a trickle of water to a giant muddy river",
+            "location": "Rivers and Streams",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "district": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["Northern Rockies", "Middle Rockies", "Glaciated Plains", "Northern Great Plains", "Continental Divide", "Rocky Mountains", "Missouri River", "Yellowstone River", "Big Hole River", "Pacific Flyway", "Central Flyway", "Greater Yellowstone Ecosystem", "Prairie Pothole Region"]
+    },
+    "biological_unit_score": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Montana's 2025 SWAP identifies 375 Species of Greatest Conservation Need (SGCN) and 98 Species of Greatest Information Need (SGIN).",
+          "location": "EXECUTIVE SUMMARY",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Montana's 2025 SWAP identifies 52 Habitats of Greatest Conservation Need (HGCN).",
+          "location": "EXECUTIVE SUMMARY",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "biological_unit_components": {
+      "species": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Changes in temperature can lengthen growing seasons, increase non-native vegetation monocultures, and impact the timing of the breeding season of grassland birds and cause their range to expand or contract.",
+            "location": "Changes in Temperature Regimes (grassland bird threats)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "population": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Many nongame animals often exist in metapopulations-partially isolated groups connected through dispersal. Their movements may span long distances, linking between protected areas, riparian corridors, or wetland networks.",
+            "location": "CHAPTER 8: WILDLIFE CONNECTIVITY",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "habitat": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Montana's 2025 SWAP identifies 52 Habitats of Greatest Conservation Need (HGCN). Terrestrial HGCN were identified by selecting categories from the U.S. National Vegetation Classification",
+            "location": "EXECUTIVE SUMMARY",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "connectivity maintains genetic diversity by preventing populations from becoming isolated and allows species to shift their ranges to track suitable conditions in response to changing environmental conditions",
+            "location": "CHAPTER 8: WILDLIFE CONNECTIVITY",
+            "sub_component": null,
+            "citations": ["Tabor et al. 2014"]
+          }
+        ]
+      },
+      "community": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Shifts in bioclimatic envelopes need to be considered in the context of land cover to determine if suitable habitat will be available in the future.",
+            "location": "Changes in Temperature Regimes (Green-tailed Towhee threats)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "genotype_phenotype": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["Species of Greatest Conservation Need (SGCN)", "Habitats of Greatest Conservation Need (HGCN)", "Bull Trout", "Greater Sage-Grouse", "Black-footed Ferret", "Canada Lynx", "Wolverine", "Northern Leopard Frog", "Westslope Cutthroat Trout", "Yellowstone Cutthroat Trout", "Arctic Grayling", "Pallid Sturgeon", "Common Loon", "Piping Plover", "Whooping Crane", "Mountain Plover", "sagebrush shrublands", "grasslands", "riparian and wetland habitats", "rivers and streams", "forests and woodlands"]
+    },
+    "partnerships_and_funding": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "FWP is responsible for leading the development of the SWAP, but the 2025 revision was a collaborative effort, involving 95 individuals and staff from 15 organizations, as well as hundreds of partners that provided guidance and feedback.",
+          "location": "EXECUTIVE SUMMARY",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "FWP also received more data and information to inform this SWAP revision than any past revision, and the combined work of the SWAP coordinator and another new position, the nongame biometrician, allowed us to incorporate these data into the 2025 SWAP",
+          "location": "Roadmap to the Eight Required Elements",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "FWP is working in collaboration with MTNHP to build a forthcoming SWAP dashboard, which we will use to track conservation actions implemented in relation to SGCN, HGCN, and other SWAP objectives.",
+          "location": "Monitoring the Effectiveness of Montana's SWAP",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The SWAP describes active partnerships with state agencies, federal agencies, tribes, NGOs, universities, and private landowners actively engaged in implementation. Funding includes State Wildlife Grants and new dedicated coordinator and biometrician positions. Score 2 reflects strategic investment with active partnerships."
+    },
+    "climate_threat_habitat_degradation": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Habitat alteration due to rapid changes in hydrological and temperature regimes (e.g., changes in plant phenology creating a mismatch between arrival/emergence of wildlife/pollinators and flowering, seed production, reduced total production of vegetation due to hot and dry conditions and/or shifts in the timing/type of precipitation).",
+          "location": "Changes in Temperature Regimes (HGCN threats — Grasslands, Shrublands, Forest)",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Severe wildfires outside the normal range of variation driven by long-term fire suppression and a drier climate directly destroy habitat in valley bottoms and along streams.",
+          "location": "Fire & Fire Suppression (White-tailed Ptarmigan / riparian section)",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Decreased waterflow from climate change can decrease or alter nesting habitat (e.g., decreased space, proximity to vegetation). Draining of wetlands in the Prairie Pothole Region, often in connection with agricultural conversion.",
+          "location": "Piping Plover Threats and Conservation Actions",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_threat_species_vital_rates": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Negative impacts to survival and/or reproduction due to climate change-driven processes such as warming temperatures, extreme weather events (e.g., heat-induced pup die offs at maternity colonies) and drought (e.g., less surface water availability).",
+          "location": "Changes in Temperature Regimes (bat species threats)",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Climate change can increase beetle/pest outbreaks and loss of canopy cover. Hotter, drier summers can increase fire risk, especially high-severity fires, and loss of canopy cover, and can increase stress to adult owls and reduce reproductive output (e.g., nestling survival).",
+          "location": "Changes in Temperature Regimes (Eastern Screech-Owl threats)",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Warming waters and changes in precipitation patterns in the Northern hemisphere have led to an increase in PKD outbreaks and disease severity",
+          "location": "Proliferative Kidney Disease (Climate Sensitivity section)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_threat_biotic_stressors": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Increased precipitation in the spring could increase nonnative vegetation monocultures (Cheatgrass, Sweatclover, Kentucky Bluegrass, Smooth Brome) and woody vegetation expansion.",
+          "location": "Changes in Precipitation & Hydrological Regimes (grassland bird threats)",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Climate variability, species range expansions, biodiversity loss, habitat change, and human activities (e.g., agriculture, recreation, transportation) can alter the distribution of hosts and pathogens, leading to introductions of pathogens to novel locations",
+          "location": "CHAPTER 9: WILDLIFE DISEASE (Introduction)",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Changes in temperature can lengthen growing seasons, increase non-native vegetation monocultures, and impact the timing of the breeding season of grassland birds and cause their range to expand or contract.",
+          "location": "Changes in Temperature Regimes (grassland bird threats)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    }
+  },
+  "actions": {
+    "priority_habitat_identification": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Identify and prioritize conservation areas that are less vulnerable to climate-driven stream changes.",
+          "location": "Bull Trout Threats and Conservation Actions",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "For the 2025 SWAP, we are developing a suite of focal areas maps that are focused on conservation actions that can be taken to address threats to HGCN. We will do this by integrating spatial distribution maps for SGCN and HGCN to find areas of HGCN with relatively high numbers of SGCN.",
+          "location": "CHAPTER 6: FOCAL AREAS",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Work with land management agencies to identify priority areas that would provide potential climate refugia for porcupines.",
+          "location": "North American Porcupine Threats and Conservation Actions",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "Priority habitat is discussed for HGCN throughout the document, and focal areas are explicitly described as spatially mapped products. However, the new focal areas are described as 'forthcoming' (expected by October 2026) and the 2025 SWAP currently uses the 2015 SWAP focal areas as a placeholder. The climate-specific spatial prioritization (e.g., climate refugia identification) is discussed narratively but not delivered as a complete spatial product in this draft. Score 1 rather than 2 because spatial representation of climate-linked priority habitats is not yet completed in this document."
+    },
+    "targeted_range_shift_actions": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Explore opportunities to introduce Bull Trout into novel habitats that are predicted to remain suitable long-term in the face of climate change. Explore reintroductions into areas where limiting factors have been corrected.",
+          "location": "Bull Trout Threats and Conservation Actions",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "connectivity maintains genetic diversity by preventing populations from becoming isolated and allows species to shift their ranges to track suitable conditions in response to changing environmental conditions",
+          "location": "CHAPTER 8: WILDLIFE CONNECTIVITY",
+          "sub_component": null,
+          "citations": ["Tabor et al. 2014"]
+        }
+      ],
+      "absence_note": "The document includes connectivity actions framed as supporting species range shifts (Chapter 8) and Bull Trout translocation into habitats predicted to remain suitable under climate change — meeting the threshold for structural facilitation and direct manipulation respectively. Score 1."
+    },
+    "time_bound_and_monitoring": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Prioritization will happen outside of the 10-year life of the SWAP in a separate SWAP Implementation Plan that is updated on a 3-year cycle.",
+          "location": "Roadmap to the Eight Required Elements",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "FWP is working in collaboration with MTNHP to build a forthcoming SWAP dashboard, which we will use to track conservation actions implemented in relation to SGCN, HGCN, and other SWAP objectives. By tracking the spatial and temporal implementation of actions, we hope to gain and provide better insight into where, how, and for which SGCN and HGCN we are having the greatest impact.",
+          "location": "Monitoring the Effectiveness of Montana's SWAP",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Monitoring is therefore a major component of the 2025 SWAP. While it is impossible to monitor the effects of all the different forms of conservation work in the state, we provide a strategy for tracking and evaluating the success of conservation actions on SGCN and HGCN.",
+          "location": "EXECUTIVE SUMMARY",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The plan describes a 3-year SWAP Implementation Plan cycle, a forthcoming SWAP dashboard for tracking actions, and a monitoring strategy. However, individual actions in the threats/actions tables do not have deadlines or milestones attached. The adaptive management cycle is described at the plan level but not operationalized with explicit deadlines at the action level. Score 1 for having a plan-level timeline structure without action-level deadlines."
+    },
+    "evidence_of_efficacy": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "beavers can also restore degraded habitats, and they can do it faster and cheaper than humans working alone (Pollock et al. 2014, 2017, Wheaton et al. 2019).",
+          "location": "North American Beaver (Threats and Conservation Actions)",
+          "sub_component": null,
+          "citations": ["Pollock et al. 2014", "Pollock et al. 2017", "Wheaton et al. 2019"]
+        },
+        {
+          "text": "For some actions, there is reasonable evidence to support their effectiveness (e.g., https://www.conservationevidence.com/), so project-specific effectiveness monitoring would not provide enough additional insight to warrant the dedication of limited resources.",
+          "location": "Monitoring the Effectiveness of Conservation Actions",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "In 2022, biologists with FWP and the Montana Natural Heritage Program (MTNHP) conducted a literature review and expert analysis on the impacts of beaver activity on the 128 SGCN identified in the 2015 SWAP (Ritter et al. 2023).",
+          "location": "North American Beaver (Chapter 7)",
+          "sub_component": null,
+          "citations": ["Ritter et al. 2023"]
+        }
+      ],
+      "absence_note": "The plan cites published studies (Pollock, Wheaton, Ritter) and references conservation evidence databases for some actions, particularly beaver restoration. However, most actions in the threats/actions tables lack citations or supporting evidence. Score 2 for 'limited evidence' — some applicable studies cited for specific actions (beaver restoration) but the majority of the 6,000+ actions lack explicit evidence citations.",
+      "projects": ["Pollock et al. (2014, 2017) and Wheaton et al. (2019) low-tech process-based restoration: Studies demonstrating that beavers can restore degraded habitats faster and cheaper than humans working alone, cited to support beaver restoration actions.", "Ritter et al. (2023) Montana-specific beaver-SGCN analysis: A literature review and expert analysis by FWP/MTNHP documenting positive impacts of beaver activity on 53 of 62 terrestrial SGCN overlapping with beaver range, providing directly applicable evidence for beaver restoration actions in Montana.", "Conservation Evidence (conservationevidence.com): The plan references this evidence synthesis database as a source of evidence for action effectiveness, cited to justify not requiring project-specific monitoring for well-supported actions."]
+    },
+    "adaptation_planning_frameworks": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Using adaptive management frameworks will increase the capacity and ability to respond to shifting conditions.",
+          "location": "CHAPTER 9: WILDLIFE DISEASE (Conservation Actions section)",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Added information on adapting conservation actions to respond to changing conditions. Conditions could change within the lifespan of a SWAP that could affect the recommendations in the document and so we included a strategy for responding to those changes.",
+          "location": "Elements 3 & 4: Threats/Stressors and Actions (Table 3)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document mentions adaptive management in the context of wildlife disease and changing conditions, and describes a monitoring-and-response strategy. However, no specific climate adaptation planning frameworks (RAD, RRT, CCVA, SBDA, Resist-Accept-Direct, etc.) are named or applied. The adaptive management references are generic and not framed explicitly in a climate context. Score 1 for non-specific reference to adaptive management in a context where changing climate conditions are mentioned."
+    }
+  },
+  "coding_meta": {
+    "coder": "llm:claude-sonnet-4-6",
+    "model": "claude-sonnet-4-6",
+    "provider": "claude",
+    "codebook_version": "0.4",
+    "ingest": "text",
+    "design": "single",
+    "temperature": null,
+    "thinking": null,
+    "thinking_effort": null,
+    "coded_at": "2026-07-06T18:39:24Z",
+    "notes": {}
+  }
+}

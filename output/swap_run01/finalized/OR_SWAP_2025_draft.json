@@ -1,0 +1,940 @@
+{
+  "document_meta": {
+    "title": "Oregon State Wildlife Action Plan (SWAP) 2025 Draft",
+    "year": 2025,
+    "jurisdiction": "Oregon",
+    "document_type": "SWAP",
+    "document_id": "OR_SWAP_2025_draft",
+    "page_count": 737
+  },
+  "orientation": {
+    "summary": "This is Oregon's 2025/2026 draft State Wildlife Action Plan (SWAP), a comprehensive statewide conservation blueprint covering nine terrestrial ecoregions plus a nearshore marine ecoregion, Species of Greatest Conservation Need (SGCN), Key Habitats, Key Conservation Issues (KCIs), Conservation Opportunity Areas (COAs), monitoring guidance, and a Conservation Toolbox. The document takes a strongly engaged posture toward climate change as a 'threat multiplier' and dedicates an entire KCI chapter to it. It explicitly acknowledges climate-driven range shifts as an observed and projected phenomenon and proposes habitat connectivity, refugia identification, and spatial prioritization as adaptation strategies. The plan incorporates prior climate vulnerability analysis by reference but does not appear to perform new niche or climate modeling; climate projections (SSP585) from an external analysis (Raymond and Fusco, 2024) are incorporated into each ecoregion's climate section. The document integrates a nearshore appendix with detailed climate change fact sheets covering ocean acidification, hypoxia, warming temperatures, and species distribution shifts.",
+    "evidence_index": [
+      {
+        "text": "Changes in species distribution (such as land and ocean species shifting poleward)",
+        "location": "KEY CONSERVATION ISSUES - Climate Change KCI background",
+        "relevant_elements": ["1.1", "1.2", "1.3", "3.2", "3.3", "C2"]
+      },
+      {
+        "text": "Species must respond by either shifting in space (seeking more suitable conditions elsewhere) or persisting in place (adapting to tolerate changing conditions). Populations that fail to move or adapt risk extirpation or extinction.",
+        "location": "KEY CONSERVATION ISSUES - Climate Change, IMPACTS ON FISH AND WILDLIFE",
+        "relevant_elements": ["1.1", "1.2", "1.3", "2.1", "4.2"]
+      },
+      {
+        "text": "Range shifts have already been noted for many species, including poleward and elevational movements of many insects, birds, fish, and vegetation communities.",
+        "location": "KEY CONSERVATION ISSUES - Climate Change, IMPACTS ON FISH AND WILDLIFE",
+        "relevant_elements": ["1.1", "1.3", "3.2", "3.3", "C2"]
+      },
+      {
+        "text": "Maintaining and restoring landscape connectivity is the most frequently proposed conservation strategy to aid wildlife in adapting to changing climates, enhancing resilience for wildlife populations by enabling them to move with shifting climates",
+        "location": "KEY CONSERVATION ISSUES - Barriers to Animal Movement, TERRESTRIAL ANIMAL MOVEMENT",
+        "relevant_elements": ["1.4", "4.1", "4.2", "4.5"]
+      },
+      {
+        "text": "Securing climate refugia are primary management strategies to support species viability in response to a fluctuating climate.",
+        "location": "KEY CONSERVATION ISSUES - Barriers to Animal Movement, TERRESTRIAL ANIMAL MOVEMENT",
+        "relevant_elements": ["1.4", "4.1", "4.2"]
+      },
+      {
+        "text": "Species with low adaptive capacity such as those with specialized habitat needs or limited dispersal ability face higher vulnerability to these changes.",
+        "location": "KEY CONSERVATION ISSUES - Climate Change, IMPACTS ON FISH AND WILDLIFE",
+        "relevant_elements": ["1.1", "1.2", "1.3"]
+      },
+      {
+        "text": "Low reproductive rates, long generation times, low genetic diversity, and complex life histories are additional traits that tend to increase vulnerability and have already led to threatened or endangered status for some species.",
+        "location": "KEY CONSERVATION ISSUES - Climate Change, IMPACTS ON FISH AND WILDLIFE",
+        "relevant_elements": ["1.1", "1.2", "1.3"]
+      },
+      {
+        "text": "Scanning the Conservation Horizon: A Guide to Climate Change Vulnerability Assessment. National Wildlife Federation, 2011. Climate Change Vulnerability Index",
+        "location": "KEY CONSERVATION ISSUES - Climate Change, ADDITIONAL RESOURCES table",
+        "relevant_elements": ["2.1", "4.5"]
+      },
+      {
+        "text": "Summer average temperature is projected to increase by as much as 8°F for the 2040-2069 period, and as much as 12°F by the end of the century under a high emissions scenario (SSP585; Figure 1).",
+        "location": "ECOREGIONS - Blue Mountains, CLIMATE",
+        "relevant_elements": ["2.3"]
+      },
+      {
+        "text": "Raymond and Fusco, 2024",
+        "location": "ECOREGIONS - Blue Mountains, CLIMATE (figure captions)",
+        "relevant_elements": ["2.3"]
+      },
+      {
+        "text": "Targets should be represented in multiple COAs (where possible) as a hedge against stochastic events (e.g., disease, fire) and to buffer against the anticipated impacts of climate change",
+        "location": "CONSERVATION OPPORTUNITY AREAS - COA Methodology, MARXAN ANALYSIS",
+        "relevant_elements": ["4.1", "4.3", "4.5"]
+      },
+      {
+        "text": "Modeled data for detrimental climate change impacts ... Modeled data for climate stability",
+        "location": "CONSERVATION OPPORTUNITY AREAS - COA Methodology, FIGURE caption listing cost and target factors",
+        "relevant_elements": ["2.1", "4.1", "4.5"]
+      },
+      {
+        "text": "Marxan is a planning tool that identifies conservation areas using a cost-benefit analysis, optimizing for conservation goals (targets) while minimizing detrimental environmental factors (costs).",
+        "location": "CONSERVATION OPPORTUNITY AREAS - COA Methodology, MARXAN ANALYSIS",
+        "relevant_elements": ["2.4", "4.1"]
+      },
+      {
+        "text": "species movement models developed by The Nature Conservancy (TNC). These models were generated using UGBs as well as transportation, transmission lines, and other development-related datasets, and they predicted the impact of developed areas on the ability of a species to move across the landscape.",
+        "location": "CONSERVATION OPPORTUNITY AREAS - COA Methodology",
+        "relevant_elements": ["2.4"]
+      },
+      {
+        "text": "the 2026 revision of COAs continued to emphasize the importance of including urban landscapes to help target conservation actions in developed areas and leveraged updated wildlife connectivity models developed by ODFW during the Oregon Connectivity Assessment and Mapping Project.",
+        "location": "CONSERVATION OPPORTUNITY AREAS - COA Overview",
+        "relevant_elements": ["2.4"]
+      },
+      {
+        "text": "As ocean temperatures warm, distributions of fish and other mobile animals are moving northward, likely associated with species-specific temperature requirements.",
+        "location": "OR_SWAP_2025_draft_Appendix_NearshoreClimateFactSheets.pdf - Warming Ocean Temperatures (Open Water section)",
+        "relevant_elements": ["1.1", "1.3", "3.3", "C2"]
+      },
+      {
+        "text": "Oregon's coastal surface waters have warmed an average of 0.5º F (0.3º C) per decade since the mid-20th century and are predicted to increase an average of 2.2º F (1.2º C) by the mid-21st century.",
+        "location": "OR_SWAP_2025_draft_Appendix_NearshoreClimateFactSheets.pdf - Warming Ocean Temperatures",
+        "relevant_elements": ["1.1", "2.3", "3.5"]
+      },
+      {
+        "text": "climate change impacts on species and habitats related to: o sea level rise effects o warming ocean temperatures o altered weather patterns o changes in circulation patterns o changes in species range distribution related to temperature or food requirements",
+        "location": "OR_SWAP_2025_draft_Appendices_Nearshore.pdf - FIGURE caption listing research monitoring needs",
+        "relevant_elements": ["1.1", "1.3", "3.5", "3.6", "C2"]
+      },
+      {
+        "text": "Breeding attempts may fail during climatic shifts (e.g., climate change).",
+        "location": "OR_SWAP_2025_draft_Appendices_Nearshore.pdf - Pigeon Guillemot, WATCH LIST",
+        "relevant_elements": ["3.6"]
+      },
+      {
+        "text": "Connectivity is the degree to which the landscape facilitates wildlife movement, and it is key for wildlife to be able to adapt to changing conditions.",
+        "location": "KEY CONSERVATION ISSUES - Barriers to Animal Movement, TERRESTRIAL ANIMAL MOVEMENT",
+        "relevant_elements": ["1.4", "4.2"]
+      },
+      {
+        "text": "Connected landscapes are a critical component of climate resiliency. While habitat loss and fragmentation are the primary drivers of biodiversity loss, climate change compounds and intensifies the effects of these issues.",
+        "location": "KEY CONSERVATION ISSUES - Barriers to Animal Movement, TERRESTRIAL ANIMAL MOVEMENT",
+        "relevant_elements": ["1.4", "4.2"]
+      },
+      {
+        "text": "Providing habitat connectivity is a primary management strategy to maintain species and ecosystem services under a changing climate.",
+        "location": "KEY CONSERVATION ISSUES - Barriers to Animal Movement, AQUATIC PASSAGE",
+        "relevant_elements": ["1.4", "4.2", "4.5"]
+      },
+      {
+        "text": "Improving the connectivity of natural landscapes to better link fish and wildlife populations, allow animals to access habitats that meet their specific needs, and allow for range shifts",
+        "location": "KEY CONSERVATION ISSUES - Climate Change, GOALS AND ACTIONS, Action 2.1",
+        "relevant_elements": ["1.4", "4.1", "4.2"]
+      },
+      {
+        "text": "Identifying and designating climate refugia where species and ecosystems are most likely to persist, even under high impact scenarios",
+        "location": "KEY CONSERVATION ISSUES - Climate Change, GOALS AND ACTIONS, Action 2.1",
+        "relevant_elements": ["4.1", "4.2"]
+      },
+      {
+        "text": "Looking for opportunities to protect species and habitats in their likely future locations",
+        "location": "KEY CONSERVATION ISSUES - Climate Change, GOALS AND ACTIONS, Action 2.1",
+        "relevant_elements": ["4.1", "4.2"]
+      },
+      {
+        "text": "A landscape-scale network of high quality, interconnected habitats offers an efficient approach to climate adaptation, allowing wildlife to move freely to access resources and tolerable temperatures when needed. A number of maps and tools have been produced to assist with projects and planning efforts to improve climate resiliency in Oregon.",
+        "location": "KEY CONSERVATION ISSUES - Barriers to Animal Movement, TERRESTRIAL ANIMAL MOVEMENT",
+        "relevant_elements": ["1.4", "4.1", "4.2", "4.5"]
+      },
+      {
+        "text": "Intact connected habitats expected to support diffuse wildlife movement",
+        "location": "CONSERVATION OPPORTUNITY AREAS - COA Methodology, FIGURE caption listing target factors",
+        "relevant_elements": ["1.4", "2.4", "4.1"]
+      },
+      {
+        "text": "the complexity of topographies and microclimates have allowed the Klamath Mountains to act as a refuge from climate changes in the past, promoting species diversity, but land use changes and rapidly warming temperatures now threaten many of the region's endemic species.",
+        "location": "ECOREGIONS - Klamath Mountains, DESCRIPTION",
+        "relevant_elements": ["1.1", "4.1"]
+      },
+      {
+        "text": "Under climate change, drought conditions may become more frequent, resulting in reduced water availability for wetlands in important wildlife areas like Summer Lake, Lake Abert, and Malheur Lake.",
+        "location": "ECOREGIONS - Northern Basin and Range, CONSERVATION ISSUES AND PRIORITIES",
+        "relevant_elements": ["3.5"]
+      },
+      {
+        "text": "Warming temperatures and changes in timing and patterns of precipitation due to climate change may increase fire frequency and severity in this ecoregion.",
+        "location": "ECOREGIONS - Coast Range, DESCRIPTION",
+        "relevant_elements": ["3.5", "3.6"]
+      },
+      {
+        "text": "Wildfire risk is further exacerbated by warming climate conditions and changes to patterns of precipitation, resulting in more frequent, higher intensity megafires.",
+        "location": "ECOREGIONS - Blue Mountains, LIMITING FACTORS - Altered Fire Regimes",
+        "relevant_elements": ["3.5", "3.6"]
+      },
+      {
+        "text": "Changing climate conditions and fire suppression have also led to the expansion of western juniper throughout the ecoregion.",
+        "location": "ECOREGIONS - Blue Mountains, LIMITING FACTORS - Invasive Species",
+        "relevant_elements": ["3.7"]
+      },
+      {
+        "text": "Increased spread and damage from invasive species, native pests, and pathogens",
+        "location": "KEY CONSERVATION ISSUES - Climate Change, Compounding stressors",
+        "relevant_elements": ["3.7"]
+      },
+      {
+        "text": "Earlier arrival of spring-like conditions and changes in the timing of biological events, such as migration, reproduction, and flowering, potentially leading to mismatches in the life cycles of interdependent species",
+        "location": "KEY CONSERVATION ISSUES - Climate Change, IMPACTS OF CLIMATE CHANGE ON FISH AND WILDLIFE",
+        "relevant_elements": ["3.7", "1.3"]
+      },
+      {
+        "text": "In hypoxic areas, Humboldt squid can outcompete other predators, such as whiting or tuna, by using the low-oxygen areas to feed on organisms that other predators can't reach. The spread of hypoxia resulting from intensified upwelling may alter nearshore community relationships",
+        "location": "OR_SWAP_2025_draft_Appendix_NearshoreClimateFactSheets.pdf - Changes in Hypoxia (Open Water)",
+        "relevant_elements": ["3.7"]
+      },
+      {
+        "text": "COAs were first developed in 2006 with the intention for them to be updated and revised with each iteration of the SWAP.",
+        "location": "CONSERVATION OPPORTUNITY AREAS - COA Overview",
+        "relevant_elements": ["4.1", "4.3"]
+      },
+      {
+        "text": "Conservation Opportunity Areas cover a total of 29,341 square miles, which is roughly 30 percent of the state of Oregon.",
+        "location": "CONSERVATION OPPORTUNITY AREAS - COA SUMMARY",
+        "relevant_elements": ["4.1"]
+      },
+      {
+        "text": "All 204 COAs have an associated COA profile that provides information on local SWAP priorities. This information includes a list of observed SGCN, Key Habitats, special features, recommended conservation actions, local conservation plans, and potential conservation partners.",
+        "location": "CONSERVATION OPPORTUNITY AREAS - COA Profiles",
+        "relevant_elements": ["4.1", "4.3"]
+      },
+      {
+        "text": "Promote the protection, restoration, and maintenance of Priority Wildlife Connectivity Areas, following the guidelines outlined in Oregon's Wildlife Corridor Action Plan.",
+        "location": "ECOREGIONS - Coast Range, LIMITING FACTORS - Habitat Fragmentation, Recommended Approach",
+        "relevant_elements": ["1.4", "4.1", "4.2"]
+      },
+      {
+        "text": "Warming is projected in all seasons across the Coast Range ecoregion, with the largest increases projected for the summer. For a high emissions scenario (SSP585), summer average temperature is projected to increase by as much as 5°F for the 2040-2069 period and by as much as 8°F by the end of the century",
+        "location": "ECOREGIONS - Coast Range, CLIMATE",
+        "relevant_elements": ["2.3"]
+      },
+      {
+        "text": "Using the work of regional and national efforts, such as the Association of Fish and Wildlife Agencies' Climate Adaptation Committee, to identify policy options and goals",
+        "location": "KEY CONSERVATION ISSUES - Climate Change, Action 2.3",
+        "relevant_elements": ["4.5"]
+      },
+      {
+        "text": "Promoting collaboration across jurisdictional and landownership boundaries by integrating information about fish, wildlife, and habitats with collaborative frameworks, such as the Climate Adaptation Framework",
+        "location": "KEY CONSERVATION ISSUES - RECOMMENDED ACTIONS FOR ALL KEY CONSERVATION ISSUES",
+        "relevant_elements": ["4.5"]
+      },
+      {
+        "text": "Adaptive management is based on an understanding of environmental processes, and an acceptance of large-scale changes that can be addressed by increasing ecological resilience.",
+        "location": "OR_SWAP_2025_draft_Appendix_NearshoreClimateFactSheets.pdf - Managing for Climate-adaptive Intertidal Areas",
+        "relevant_elements": ["4.3", "4.5"]
+      },
+      {
+        "text": "ODFW adopted a Climate and Ocean Change Policy in 2020 that can support the incorporation of impacts from climate and ocean change on fish, wildlife and their habitats into planning efforts.",
+        "location": "KEY CONSERVATION ISSUES - Land Use Changes, Action 1.2",
+        "relevant_elements": ["4.5"]
+      },
+      {
+        "text": "Voluntary Guidance for States to Incorporate Climate Adaptation in State Wildlife Action Plans and Other Management Plans. Association of Fish and Wildlife Agencies, 2022.",
+        "location": "KEY CONSERVATION ISSUES - Climate Change, ADDITIONAL RESOURCES / reference list",
+        "relevant_elements": ["4.5"]
+      },
+      {
+        "text": "Provide species with a range of options to adapt to climate change by restoring and expanding areas along a gradient of climates, elevations, and topographic complexities.",
+        "location": "KEY CONSERVATION ISSUES - Barriers to Animal Movement, TERRESTRIAL ANIMAL MOVEMENT",
+        "relevant_elements": ["4.2", "4.1", "4.5"]
+      },
+      {
+        "text": "average annual air temperatures in Oregon have warmed by 2.5°F since 1900. Over the 21st century, annual average temperatures are projected to increase by an average of 4.7°F under a low emissions scenario (SSP1-2.6) and by an average of 10.0°F under a very high emissions scenario (SSP5-8.5).",
+        "location": "KEY CONSERVATION ISSUES - Climate Change, CLIMATE CHANGE IN THE PACIFIC NORTHWEST",
+        "relevant_elements": ["2.3", "1.1"]
+      },
+      {
+        "text": "annual average coastal sea surface temperatures in the Northwest have warmed approximately 1.2°F since 1900, and the northern California Current...is projected to warm by an additional 4.6°-7.3°F by the end of the century under a very high emissions scenario (RCP 8.5).",
+        "location": "KEY CONSERVATION ISSUES - Climate Change, CLIMATE CHANGE IN THE PACIFIC NORTHWEST",
+        "relevant_elements": ["2.3", "1.1"]
+      },
+      {
+        "text": "sea levels in the Pacific Northwest are projected to rise 0.6 to 1.0 feet by 2050 for intermediate- and high-emissions scenarios, respectively",
+        "location": "KEY CONSERVATION ISSUES - Climate Change, Sea-level rise",
+        "relevant_elements": ["2.3", "3.5"]
+      },
+      {
+        "text": "As sea levels rise, coastal species and habitats will need to migrate inland, which may not be possible for species in locations adjacent to developed communities or transportation infrastructure.",
+        "location": "KEY CONSERVATION ISSUES - Climate Change, Sea-level rise",
+        "relevant_elements": ["1.3", "1.4", "3.5", "4.2"]
+      },
+      {
+        "text": "Developing and implementing research and monitoring efforts to understand, track, and work toward predicting effects of climate change and increased carbon dioxide on Oregon's nearshore species and ecosystems.",
+        "location": "ECOREGIONS - Nearshore, NEARSHORE RECOMMENDATIONS, (4) Ecosystem Response to Climate Change",
+        "relevant_elements": ["4.3", "4.5"]
+      },
+      {
+        "text": "Build climate resilience and climate change adaptation into decisionmaking to maximize the long-term benefits of today's public investment in natural resource management.",
+        "location": "ECOREGIONS - Nearshore, NEARSHORE RECOMMENDATIONS, (10) Management Response to Climate Change",
+        "relevant_elements": ["4.5"]
+      },
+      {
+        "text": "Potential partners include: the U.S. Geological Survey (USGS) Forest and Rangeland Ecosystem Science Center, the Department of the Interior regional Climate Adaptation Science Centers, U.S. Fish and Wildlife Service (USFWS), Bureau of Land Management (BLM), National Marine Fisheries Service, and other state and federal agencies, academic institutions, non-governmental organizations, and tribes.",
+        "location": "KEY CONSERVATION ISSUES - Climate Change, Action 2.3",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "Tribes contributed significantly to the content of this plan through briefings, coordination, and First Foods section development.",
+        "location": "OR_SWAP_2025_draft_Appendices_Nearshore.pdf - TABLE (Tribal government representatives)",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "In 2012, the Coastal and Marine Ecological Classification Standard (CMECS) was adopted...Components of the CMECS classification framework have been incorporated into the SWAP",
+        "location": "ECOREGIONS - Nearshore, NEARSHORE DESCRIPTION",
+        "relevant_elements": ["4.5"]
+      },
+      {
+        "text": "Warming conditions can affect open water community in many ways including decreased plankton productivity, changes in species abundance, and shifts in species distribution northward.",
+        "location": "OR_SWAP_2025_draft_Appendix_NearshoreClimateFactSheets.pdf - Warming Ocean Temperatures (Open Water)",
+        "relevant_elements": ["1.1", "1.3", "3.3", "C2"]
+      },
+      {
+        "text": "Certain plankton, pelagic snails, and other important prey are less able to maintain structural integrity in acidic waters. These effects could lead to higher mortality of significant food sources for upper trophic levels and larval fishes.",
+        "location": "OR_SWAP_2025_draft_Appendix_NearshoreClimateFactSheets.pdf - Ocean Acidification (Open Water)",
+        "relevant_elements": ["3.5", "3.6", "1.3"]
+      },
+      {
+        "text": "two key marine prey species that spawn on intertidal beaches-surf smelt and Pacific sandlance-will lose significant spawning habitat in the coming decades as beaches are compressed and environmental conditions appropriate for reproduction are altered by climate change.",
+        "location": "OR_SWAP_2025_draft_Appendix_NearshoreClimateFactSheets.pdf - Sea Level Rise (Intertidal section)",
+        "relevant_elements": ["3.5", "3.6"]
+      },
+      {
+        "text": "In September 2020, wildfires burned almost as much forest west of the Cascade Mountain crest in two weeks as in the previous five decades.",
+        "location": "KEY CONSERVATION ISSUES - Disruption of Disturbance Regimes, ALTERED FIRE REGIMES",
+        "relevant_elements": ["3.5", "3.6"]
+      }
+    ]
+  },
+  "concepts": {
+    "climate_vulnerability": {
+      "evaluable": true,
+      "score": 3,
+      "evidence": [
+        {
+          "text": "Species with low adaptive capacity such as those with specialized habitat needs or limited dispersal ability face higher vulnerability to these changes.",
+          "location": "KEY CONSERVATION ISSUES - Climate Change, IMPACTS ON FISH AND WILDLIFE",
+          "sub_component": "adaptive capacity",
+          "citations": []
+        },
+        {
+          "text": "average annual air temperatures in Oregon have warmed by 2.5°F since 1900. Over the 21st century, annual average temperatures are projected to increase by an average of 4.7°F under a low emissions scenario (SSP1-2.6) and by an average of 10.0°F under a very high emissions scenario (SSP5-8.5).",
+          "location": "KEY CONSERVATION ISSUES - Climate Change, CLIMATE CHANGE IN THE PACIFIC NORTHWEST",
+          "sub_component": "exposure",
+          "citations": []
+        },
+        {
+          "text": "Low reproductive rates, long generation times, low genetic diversity, and complex life histories are additional traits that tend to increase vulnerability and have already led to threatened or endangered status for some species.",
+          "location": "KEY CONSERVATION ISSUES - Climate Change, IMPACTS ON FISH AND WILDLIFE",
+          "sub_component": "adaptive capacity",
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "adaptive_capacity_specificity": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Species with low adaptive capacity such as those with specialized habitat needs or limited dispersal ability face higher vulnerability to these changes.",
+          "location": "KEY CONSERVATION ISSUES - Climate Change, IMPACTS ON FISH AND WILDLIFE",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Low reproductive rates, long generation times, low genetic diversity, and complex life histories are additional traits that tend to increase vulnerability and have already led to threatened or endangered status for some species.",
+          "location": "KEY CONSERVATION ISSUES - Climate Change, IMPACTS ON FISH AND WILDLIFE",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "adaptive_capacity_components": {
+      "demography": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Low reproductive rates, long generation times, low genetic diversity, and complex life histories are additional traits that tend to increase vulnerability",
+            "location": "KEY CONSERVATION ISSUES - Climate Change, IMPACTS ON FISH AND WILDLIFE",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "distribution": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Range shifts have already been noted for many species, including poleward and elevational movements of many insects, birds, fish, and vegetation communities.",
+            "location": "KEY CONSERVATION ISSUES - Climate Change, IMPACTS ON FISH AND WILDLIFE",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "movement": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Species with low adaptive capacity such as those with specialized habitat needs or limited dispersal ability face higher vulnerability to these changes.",
+            "location": "KEY CONSERVATION ISSUES - Climate Change, IMPACTS ON FISH AND WILDLIFE",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "evolutionary_potential": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "low genetic diversity...are additional traits that tend to increase vulnerability and have already led to threatened or endangered status for some species.",
+            "location": "KEY CONSERVATION ISSUES - Climate Change, IMPACTS ON FISH AND WILDLIFE",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecological_dependencies": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Earlier arrival of spring-like conditions and changes in the timing of biological events, such as migration, reproduction, and flowering, potentially leading to mismatches in the life cycles of interdependent species",
+            "location": "KEY CONSERVATION ISSUES - Climate Change, IMPACTS OF CLIMATE CHANGE ON FISH AND WILDLIFE",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "abiotic_niche": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Prolonged periods of low flow and high temperatures in streams, resulting in warming of freshwaters beyond thermal tolerances of some aquatic species",
+            "location": "KEY CONSERVATION ISSUES - Climate Change, IMPACTS OF CLIMATE CHANGE ON FISH AND WILDLIFE",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "life_history": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Low reproductive rates, long generation times, low genetic diversity, and complex life histories are additional traits that tend to increase vulnerability",
+            "location": "KEY CONSERVATION ISSUES - Climate Change, IMPACTS ON FISH AND WILDLIFE",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      }
+    },
+    "connectivity": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Maintaining and restoring landscape connectivity is the most frequently proposed conservation strategy to aid wildlife in adapting to changing climates, enhancing resilience for wildlife populations by enabling them to move with shifting climates",
+          "location": "KEY CONSERVATION ISSUES - Barriers to Animal Movement, TERRESTRIAL ANIMAL MOVEMENT",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Connected landscapes are a critical component of climate resiliency. While habitat loss and fragmentation are the primary drivers of biodiversity loss, climate change compounds and intensifies the effects of these issues.",
+          "location": "KEY CONSERVATION ISSUES - Barriers to Animal Movement, TERRESTRIAL ANIMAL MOVEMENT",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    }
+  },
+  "tools": {
+    "vulnerability_models": {
+      "evaluable": true,
+      "score": 1,
+      "named_tools": ["Climate Change Vulnerability Index", "CCVI"],
+      "evidence": [
+        {
+          "text": "Scanning the Conservation Horizon: A Guide to Climate Change Vulnerability Assessment. National Wildlife Federation, 2011. Climate Change Vulnerability Index",
+          "location": "KEY CONSERVATION ISSUES - Climate Change, ADDITIONAL RESOURCES table",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "CCVI and vulnerability assessment are listed as resources to be consulted, not applied to Oregon focal species in this plan. The 2016 SWAP had a vulnerability chapter (referenced in the Nearshore appendix as 'the agency incorporated vulnerability assessments into a dedicated chapter of the prior plan'), but the current 2025 draft does not report new CCVI scores for focal SGCN. Score 1 (referenced generally)."
+    },
+    "niche_models": {
+      "evaluable": true,
+      "score": 1,
+      "named_tools": [],
+      "evidence": [
+        {
+          "text": "Develop and document distribution-model methods for under-studied focal species that can incorporate the agency's institutional data sets.",
+          "location": "ECOREGIONS - Nearshore, NEARSHORE RECOMMENDATIONS, (4) Ecosystem Response to Climate Change / Rationale",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document references future development of species distribution models as a recommendation but does not report application of any named SDM tool to Oregon SGCN. Modeled SGCN ranges from USGS GAP data are used in the COA Marxan analysis as target inputs, which is a borderline case; however, the document does not describe performing new niche modeling. Score 1."
+    },
+    "climate_models": {
+      "evaluable": true,
+      "score": 2,
+      "named_tools": ["SSP585", "SSP1-2.6", "SSP5-8.5", "RCP 8.5"],
+      "evidence": [
+        {
+          "text": "Summer average temperature is projected to increase by as much as 8°F for the 2040-2069 period, and as much as 12°F by the end of the century under a high emissions scenario (SSP585; Figure 1).",
+          "location": "ECOREGIONS - Blue Mountains, CLIMATE",
+          "sub_component": null,
+          "citations": ["Raymond and Fusco, 2024"]
+        },
+        {
+          "text": "annual average temperatures are projected to increase by an average of 4.7°F under a low emissions scenario (SSP1-2.6) and by an average of 10.0°F under a very high emissions scenario (SSP5-8.5).",
+          "location": "KEY CONSERVATION ISSUES - Climate Change, CLIMATE CHANGE IN THE PACIFIC NORTHWEST",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {},
+      "time_horizon_years": [2039, 2050, 2069, 2099, 2100],
+      "emission_scenarios": ["SSP585", "SSP1-2.6", "SSP5-8.5", "RCP 8.5"]
+    },
+    "connectivity_models": {
+      "evaluable": true,
+      "score": 2,
+      "named_tools": ["Marxan", "Oregon Connectivity Assessment and Mapping Project"],
+      "evidence": [
+        {
+          "text": "Marxan is a planning tool that identifies conservation areas using a cost-benefit analysis, optimizing for conservation goals (targets) while minimizing detrimental environmental factors (costs).",
+          "location": "CONSERVATION OPPORTUNITY AREAS - COA Methodology, MARXAN ANALYSIS",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "the 2026 revision of COAs continued to emphasize the importance of including urban landscapes to help target conservation actions in developed areas and leveraged updated wildlife connectivity models developed by ODFW during the Oregon Connectivity Assessment and Mapping Project.",
+          "location": "CONSERVATION OPPORTUNITY AREAS - COA Overview",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    }
+  },
+  "context": {
+    "management_scale": {
+      "local": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "All 204 COAs have an associated COA profile that provides information on local SWAP priorities.",
+            "location": "CONSERVATION OPPORTUNITY AREAS - COA Profiles",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "site": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Identifying and designating climate refugia where species and ecosystems are most likely to persist, even under high impact scenarios",
+            "location": "KEY CONSERVATION ISSUES - Climate Change, GOALS AND ACTIONS, Action 2.1",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "watershed": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Invest in watershed-scale projects for cold water and flow protection.",
+            "location": "ECOREGIONS - Blue Mountains, LIMITING FACTORS - Water, Recommended Approach",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "city": {
+        "present": false,
+        "evidence": []
+      },
+      "county": {
+        "present": false,
+        "evidence": []
+      },
+      "within_state_region": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The Blue Mountains ecoregion contains some of the largest intact native grasslands in the state and several large areas managed for conservation values.",
+            "location": "ECOREGIONS - Blue Mountains, CONSERVATION ISSUES AND PRIORITIES",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "state": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Conservation Opportunity Areas cover a total of 29,341 square miles, which is roughly 30 percent of the state of Oregon.",
+            "location": "CONSERVATION OPPORTUNITY AREAS - COA SUMMARY",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "multistate": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The Blue Mountains ecoregion is a diverse complex of mountain ranges, valleys, and plateaus that extends beyond Oregon into the states of Idaho and Washington.",
+            "location": "ECOREGIONS - Blue Mountains, description",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "national": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Using the work of regional and national efforts, such as the Association of Fish and Wildlife Agencies' Climate Adaptation Committee, to identify policy options and goals for multiple agencies",
+            "location": "KEY CONSERVATION ISSUES - Climate Change, Action 2.3",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "transnational": {
+        "present": false,
+        "evidence": []
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Landscape-scale conservation recognizes the importance of large, interconnected land- and seascapes in maintaining biodiversity, and considers the needs of wildlife, ecological processes, and human communities holistically",
+            "location": "KEY CONSERVATION ISSUES - Climate Change, GOALS AND ACTIONS, Goal 1",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecoregion": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "State Wildlife Action Plan ecoregions provide information on each of Oregon's nine ecoregions, which are geographic areas of the state where ecosystems are generally similar, sharing things like natural communities, species, and climate.",
+            "location": "ECOREGIONS - opening description",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "province": {
+        "present": false,
+        "evidence": []
+      },
+      "section": {
+        "present": false,
+        "evidence": []
+      },
+      "subsection": {
+        "present": false,
+        "evidence": []
+      },
+      "lake": {
+        "present": false,
+        "evidence": []
+      },
+      "river": {
+        "present": false,
+        "evidence": []
+      },
+      "district": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["Blue Mountains", "Coast Range", "Columbia Plateau", "East Cascades", "Klamath Mountains", "Northern Basin and Range", "West Cascades", "Willamette Valley", "Nearshore", "Klamath Basin", "Columbia River", "Pacific Northwest", "Oregon Territorial Sea"]
+    },
+    "biological_unit_score": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Range shifts have already been noted for many species, including poleward and elevational movements of many insects, birds, fish, and vegetation communities.",
+          "location": "KEY CONSERVATION ISSUES - Climate Change, IMPACTS ON FISH AND WILDLIFE",
+          "sub_component": "species and community",
+          "citations": []
+        },
+        {
+          "text": "As ocean temperatures warm, distributions of fish and other mobile animals are moving northward, likely associated with species-specific temperature requirements.",
+          "location": "OR_SWAP_2025_draft_Appendix_NearshoreClimateFactSheets.pdf - Warming Ocean Temperatures",
+          "sub_component": "species",
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "biological_unit_components": {
+      "species": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Range shifts have already been noted for many species, including poleward and elevational movements of many insects, birds, fish, and vegetation communities.",
+            "location": "KEY CONSERVATION ISSUES - Climate Change, IMPACTS ON FISH AND WILDLIFE",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "population": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Species must respond by either shifting in space (seeking more suitable conditions elsewhere) or persisting in place (adapting to tolerate changing conditions). Populations that fail to move or adapt risk extirpation or extinction.",
+            "location": "KEY CONSERVATION ISSUES - Climate Change, IMPACTS ON FISH AND WILDLIFE",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "habitat": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Identifying and designating climate refugia where species and ecosystems are most likely to persist, even under high impact scenarios",
+            "location": "KEY CONSERVATION ISSUES - Climate Change, GOALS AND ACTIONS, Action 2.1",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Develop and implement research and monitoring efforts to understand, track, and work toward predicting effects of climate change and increased carbon dioxide on Oregon's nearshore species and ecosystems.",
+            "location": "ECOREGIONS - Nearshore, NEARSHORE RECOMMENDATIONS, (4) Ecosystem Response to Climate Change",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "community": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Range shifts have already been noted for many species, including poleward and elevational movements of many insects, birds, fish, and vegetation communities.",
+            "location": "KEY CONSERVATION ISSUES - Climate Change, IMPACTS ON FISH AND WILDLIFE",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "genotype_phenotype": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["SGCN (Species of Greatest Conservation Need)", "nearshore fish communities", "kelp forests", "sagebrush steppe communities", "Oregon spotted frog", "Greater Sage-Grouse", "Pacific salmon", "Northern spotted owl"]
+    },
+    "partnerships_and_funding": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Potential partners include: the U.S. Geological Survey (USGS) Forest and Rangeland Ecosystem Science Center, the Department of the Interior regional Climate Adaptation Science Centers, U.S. Fish and Wildlife Service (USFWS), Bureau of Land Management (BLM), National Marine Fisheries Service, and other state and federal agencies, academic institutions, non-governmental organizations, and tribes.",
+          "location": "KEY CONSERVATION ISSUES - Climate Change, Action 2.3",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Currently, many agencies, tribes, and organizations have insufficient funding and capacity to address all of the conservation priorities.",
+          "location": "OVERVIEW - FUNDING",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document names many potential partners for climate-related work and describes multi-agency frameworks, but explicitly acknowledges insufficient funding. No specific budget allocations for range-shift actions are identified. Score 1 (some partnerships described but aspirational)."
+    },
+    "climate_threat_habitat_degradation": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Warming temperatures and changes in timing and patterns of precipitation due to climate change may increase fire frequency and severity in this ecoregion.",
+          "location": "ECOREGIONS - Coast Range, DESCRIPTION",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Under climate change, drought conditions may become more frequent, resulting in reduced water availability for wetlands in important wildlife areas like Summer Lake, Lake Abert, and Malheur Lake.",
+          "location": "ECOREGIONS - Northern Basin and Range, CONSERVATION ISSUES AND PRIORITIES",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_threat_species_vital_rates": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "two key marine prey species that spawn on intertidal beaches-surf smelt and Pacific sandlance-will lose significant spawning habitat in the coming decades as beaches are compressed and environmental conditions appropriate for reproduction are altered by climate change.",
+          "location": "OR_SWAP_2025_draft_Appendix_NearshoreClimateFactSheets.pdf - Sea Level Rise (Intertidal section)",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Breeding attempts may fail during climatic shifts (e.g., climate change).",
+          "location": "OR_SWAP_2025_draft_Appendices_Nearshore.pdf - Pigeon Guillemot, WATCH LIST",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_threat_biotic_stressors": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Increased spread and damage from invasive species, native pests, and pathogens",
+          "location": "KEY CONSERVATION ISSUES - Climate Change, Compounding stressors",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Earlier arrival of spring-like conditions and changes in the timing of biological events, such as migration, reproduction, and flowering, potentially leading to mismatches in the life cycles of interdependent species",
+          "location": "KEY CONSERVATION ISSUES - Climate Change, IMPACTS OF CLIMATE CHANGE ON FISH AND WILDLIFE",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    }
+  },
+  "actions": {
+    "priority_habitat_identification": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Conservation Opportunity Areas cover a total of 29,341 square miles, which is roughly 30 percent of the state of Oregon.",
+          "location": "CONSERVATION OPPORTUNITY AREAS - COA SUMMARY",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Modeled data for climate stability ... Intact connected habitats expected to support diffuse wildlife movement",
+          "location": "CONSERVATION OPPORTUNITY AREAS - COA Methodology, FIGURE caption listing target factors",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Identifying and designating climate refugia where species and ecosystems are most likely to persist, even under high impact scenarios",
+          "location": "KEY CONSERVATION ISSUES - Climate Change, GOALS AND ACTIONS, Action 2.1",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "targeted_range_shift_actions": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Improving the connectivity of natural landscapes to better link fish and wildlife populations, allow animals to access habitats that meet their specific needs, and allow for range shifts",
+          "location": "KEY CONSERVATION ISSUES - Climate Change, GOALS AND ACTIONS, Action 2.1",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Looking for opportunities to protect species and habitats in their likely future locations",
+          "location": "KEY CONSERVATION ISSUES - Climate Change, GOALS AND ACTIONS, Action 2.1",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "time_bound_and_monitoring": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "ODFW will lead the next comprehensive review of the SWAP, covering all USFWS requirements, no later than October 1, 2035.",
+          "location": "OVERVIEW - REVIEW PLAN",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Developing and implementing research and monitoring efforts to understand, track, and work toward predicting effects of climate change and increased carbon dioxide on Oregon's nearshore species and ecosystems.",
+          "location": "ECOREGIONS - Nearshore, NEARSHORE RECOMMENDATIONS, (4) Ecosystem Response to Climate Change",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The SWAP has a 10-year plan revision deadline and references monitoring as a principle extensively, but individual climate-related range-shift actions do not carry specific implementation deadlines or milestones. The plan endorses adaptive management as a guiding principle (per codebook 4.3 rules, this scores at most 1). Score 1."
+    },
+    "evidence_of_efficacy": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "The 2022 synthesis report details many research findings of the reserves' first ten years and was used to evaluate marine reserves as a management tool.",
+          "location": "OR_SWAP_2025_draft_Appendices_Nearshore.pdf - Marine Reserves Ecological and Social Science",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "Actions for range-shift facilitation are presented without citations to studies demonstrating efficacy of those specific interventions. The marine reserves synthesis is the clearest example of evaluating a prior management action, but it is specific to marine reserves rather than range-shift actions. General ecological rationale (e.g., connectivity promotes adaptation) is presented as first-principles reasoning. Score 1.",
+      "projects": ["Oregon Marine Reserves Program (2012-2022): 10-year synthesis evaluated ecological and social effects of marine reserves as a conservation tool, providing evidence-based review of the management intervention."]
+    },
+    "adaptation_planning_frameworks": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Promoting collaboration across jurisdictional and landownership boundaries by integrating information about fish, wildlife, and habitats with collaborative frameworks, such as the Climate Adaptation Framework",
+          "location": "KEY CONSERVATION ISSUES - RECOMMENDED ACTIONS FOR ALL KEY CONSERVATION ISSUES",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Voluntary Guidance for States to Incorporate Climate Adaptation in State Wildlife Action Plans and Other Management Plans. Association of Fish and Wildlife Agencies, 2022.",
+          "location": "KEY CONSERVATION ISSUES - Climate Change, ADDITIONAL RESOURCES / reference list",
+          "sub_component": null,
+          "citations": ["Voluntary Guidance for States to Incorporate Climate Adaptation in State Wildlife Action Plans and Other Management Plans. Association of Fish and Wildlife Agencies, 2022."]
+        },
+        {
+          "text": "Efforts to identify robust adaptation strategies for a particular species or habitat might involve considering two or more climate scenarios with different degrees of warming and precipitation conditions.",
+          "location": "KEY CONSERVATION ISSUES - Climate Change, GOALS AND ACTIONS, Action 2.1",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    }
+  },
+  "coding_meta": {
+    "coder": "llm:claude-sonnet-4-6",
+    "model": "claude-sonnet-4-6",
+    "provider": "claude",
+    "codebook_version": "0.4",
+    "ingest": "text",
+    "design": "single",
+    "temperature": null,
+    "thinking": null,
+    "thinking_effort": null,
+    "coded_at": "2026-07-07T13:39:23Z",
+    "notes": {}
+  }
+}

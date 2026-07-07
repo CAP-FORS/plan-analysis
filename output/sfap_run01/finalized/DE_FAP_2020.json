@@ -1,0 +1,593 @@
+{
+  "document_meta": {
+    "title": "2020 Delaware Forest Action Plan (Forest Resource Assessment and Statewide Forest Strategy)",
+    "year": 2020,
+    "jurisdiction": "Delaware",
+    "document_type": "Forest Action Plan / State Forest Resource Assessment",
+    "document_id": "DE_FAP_2020",
+    "page_count": 244
+  },
+  "orientation": {
+    "summary": "This is the 2020 Delaware Forest Action Plan, comprising two documents: the Delaware Forest Resource Assessment and the Delaware Statewide Forest Strategy, published by the Delaware Forest Service (DFS). The plan addresses forest health, markets, sustainable management, and public awareness, and covers both rural and urban forests. Climate change is acknowledged as a concern — particularly sea level rise, coastal impacts, and species range shifts — but the treatment is brief and non-technical: no climate models, emission scenarios, or vulnerability assessments are applied. The document performs its own GIS-based spatial prioritization analysis for both rural and urban forest landscapes, incorporating 21 data layers including a 'Resilient Lands' (TNC) layer related to climate resilience. Range shift science appears narrowly: the document lists 'Shifts in species range (migration)' as a potential climate impact on forests and discusses SGCN tier criteria referencing species 'threatened by changes in climate,' but does not conduct range-shift modeling or vulnerability assessments of its own.",
+    "evidence_index": [
+      {
+        "text": "There is growing concern among forestland managers about the potential impacts of climate change in Delaware, particularly sea level rise. ... Several potential issues relating to forests and forested habitat include: Migration of maritime forests/riparian areas inland, Shifts in species range (migration), Changes in species composition or disappearance of species, and Increases in invasive/nuisance species and diseases.",
+        "location": "Climate change and sea level rise, INDICATOR 7 section",
+        "relevant_elements": ["1.1", "1.4", "3.5", "3.7", "4.2"]
+      },
+      {
+        "text": "Tier 1 SGCN (165 total) are in the highest need of conservation action. These include the rarest species in the state, species that are highly globally imperiled, and species with regionally important Delaware populations that are also under high threat from a changing climate.",
+        "location": "Species of conservation concern, Indicator 4",
+        "relevant_elements": ["1.1", "1.2", "3.3"]
+      },
+      {
+        "text": "Tier 2 SCGN are of moderate conservation concern in Delaware. These include species that have rare to uncommon breeding populations in the state, species with broad distributions that are threatened by changes in climate, and species for which Delaware has high responsibility within the northeast region.",
+        "location": "Species of conservation concern, Indicator 4",
+        "relevant_elements": ["1.1", "3.3"]
+      },
+      {
+        "text": "Resilient Lands is The Nature Conservancy's project to identify land with sufficient variability and microclimate options that enable species and ecosystems to persist in the face of climate change and which will maintain this ability over time. A site's resilience score estimates its capacity to maintain species diversity and ecological function as the climate changes.",
+        "location": "Resilient Lands, Input Layers, Section VI Rural Priority Landscape Area",
+        "relevant_elements": ["1.1", "1.2", "2.1", "4.1"]
+      },
+      {
+        "text": "Global climate change could have significant impacts on the structure, distribution, productivity, and health of temperate forests as well as impacts on forest carbon stocks and fluxes.",
+        "location": "Criterion 5: Maintenance of Forest Contribution to Global Carbon Cycles",
+        "relevant_elements": ["1.1", "3.5"]
+      },
+      {
+        "text": "The long-term effects of climate change could be dramatic within Delaware due to its location along the Atlantic seaboard and low mean elevation. The primary action widely promoted to combat the effects of climate change is reducing the concentration of atmospheric carbon dioxide. Sequestering carbon in wood is one method to achieve this reduction. Develop strategies for climate change/sea level rise impacts to coastal forests.",
+        "location": "Criterion 5, DE-FAP-S_2020.pdf",
+        "relevant_elements": ["1.1", "3.5", "4.5"]
+      },
+      {
+        "text": "Abiotic stressors are uncontrollable (e.g., drought, storms, sea level rise) but can be mitigated to a degree.",
+        "location": "Conclusions, Criterion 3 section",
+        "relevant_elements": ["3.5", "3.6"]
+      },
+      {
+        "text": "Forest Threats -Development and fragmentation, common invasive species, southern pine beetle, climate change impacts, and in certain areas-wildland fire.",
+        "location": "Delmarva Peninsula and Mid-Atlantic Coastal Plain, Section VIII",
+        "relevant_elements": ["1.1", "3.5", "3.7"]
+      },
+      {
+        "text": "Stresses to the Delaware Estuary include incompatible development, unsustainable agriculture, climate change, altered hydrological regime, clearing of forests, and invasive species.",
+        "location": "Figure caption, Delaware Estuary section",
+        "relevant_elements": ["3.5", "3.7"]
+      },
+      {
+        "text": "These efforts have been so successful that the partnership has shifted its focus to planning for the impacts of a changing climate to enhance the resilience of this important watershed and landscape in the face of future uncertainty.",
+        "location": "Delaware River Watershed, Section VIII",
+        "relevant_elements": ["1.1", "4.5"]
+      },
+      {
+        "text": "Participate in climate-related work of the Common Waters Initiative.",
+        "location": "Delaware River Watershed, Opportunities for Partnership",
+        "relevant_elements": ["4.5"]
+      },
+      {
+        "text": "Meanwhile, increasing average temperatures and longer growing seasons have extended the northern range of this pest.",
+        "location": "Figure caption, I-95 Corridor section (Southern Pine Beetle)",
+        "relevant_elements": ["3.7", "1.1", "C2"]
+      },
+      {
+        "text": "Sea Level Rise -100-year estimates are available, but far exceed the 10 year scope of this assessment.",
+        "location": "Input Layers not incorporated, Section VI",
+        "relevant_elements": ["3.5"]
+      },
+      {
+        "text": "Consideration can then be given to methods to move low-lying riparian forest buffers inland as sea level slowly rises to ensure these buffers are not lost.",
+        "location": "Climate change and sea level rise, INDICATOR 7 section",
+        "relevant_elements": ["3.5", "4.1", "4.2"]
+      },
+      {
+        "text": "Additionally, there is a need to establish baseline risk assessment for species and habitats.",
+        "location": "Climate change and sea level rise, INDICATOR 7 section",
+        "relevant_elements": ["1.1", "2.1"]
+      },
+      {
+        "text": "Because of its latitude, Delaware is in a transition zone for northern and southern plant species. For example, Delaware is the northern extreme limit of certain southern tree species such as loblolly pine and baldcypress.",
+        "location": "Forest plants, Indicator 4",
+        "relevant_elements": ["1.3", "3.3"]
+      },
+      {
+        "text": "Delaware is the northern extreme for certain southern tree species, such as loblolly pine and baldcypress, while some northern species are not found south of Delaware, except at higher elevations (e.g., sugar maple, basswood, and eastern hemlock).",
+        "location": "IV. Existing and Emerging Benefits and Services, Biological diversity and wildlife habitat",
+        "relevant_elements": ["1.3", "3.3"]
+      },
+      {
+        "text": "Connectivity between Prime Hook and Nanticoke Wildlife Area populations may be possible through translocation of individuals from existing populations to suitable forested habitat in and around Redden State Forest.",
+        "location": "Delmarva fox squirrel, Indicator 4",
+        "relevant_elements": ["4.2", "1.4"]
+      },
+      {
+        "text": "In addition to outright loss of forestland, there is an accompanying increase in fragmentation and an increase in the urban forest component... there is also a loss of forested corridors (100- to 300-foot wide strips) that connect larger blocks of forestland. These areas provide protected travel routes for many wildlife species.",
+        "location": "Forest fragmentation, Indicator 3",
+        "relevant_elements": ["1.4", "4.1"]
+      },
+      {
+        "text": "Blackbird Creek lies within the Blackbird-Millington Corridor. This corridor is recognized as one of Delaware's most important areas of 'Green Infrastructure'-a network of farms, forests, and other natural areas that supports native species, maintains ecological processes, sustains air and water resources, and contributes to the health and quality of life for communities and people.",
+        "location": "Blackbird Creek, Section VI",
+        "relevant_elements": ["1.4", "4.1"]
+      },
+      {
+        "text": "The DEN, based on principles of landscape ecology and conservation biology, provides a consistent framework to help identify and prioritize areas for natural resource protection. DEN incorporates Habitats of Conservation Concern for rare/threatened/endangered species along with corridors connecting core ecosystem areas.",
+        "location": "Delaware Habitats of Conservation Concern, Input Layers, Section VI",
+        "relevant_elements": ["1.4", "4.1"]
+      },
+      {
+        "text": "The final product from the weighted overlay of the 21 input layers had a resolution of 30 meters... This resulted in 43 of Delaware's 100 HUC 12 watersheds receiving high priority.",
+        "location": "Rural Priority Landscape Area, Section VI",
+        "relevant_elements": ["4.1", "2.4"]
+      },
+      {
+        "text": "Through a sophisticated GIS analysis, rural and urban priority areas throughout the state were identified using specific ranking criteria. This enables the DFS and its partners to target high-value forested areas of the state for protection and enhancement especially in times of scarce funding.",
+        "location": "IX. Forest Resource Assessment Summary",
+        "relevant_elements": ["4.1"]
+      },
+      {
+        "text": "Protect forestland through conservation easements and, when appropriate, fee simple acquisition... Protect critical forests, primarily through conservation easements, using Forestland Preservation Program, Forest Legacy, Open Space, county, and nongovernmental funding sources.",
+        "location": "Criterion 1, III. STATE STRATEGIES, DE-FAP-S_2020.pdf",
+        "relevant_elements": ["4.1", "3.4"]
+      },
+      {
+        "text": "The Delaware Forest Service (DFS), working with the U.S. Forest Service, the Northeast-Midwest State Foresters Alliance (NMSFA), and the Delaware Forest Stewardship Committee identified the following multi-state regional priority areas: Chesapeake Bay Watershed, Delmarva Peninsula and Mid-Atlantic Coastal Plain, Interstate 95 Corridor, Delaware River Watershed, Blackbird-Millington Corridor.",
+        "location": "Multi-State Regional Priority Landscape Areas, Section VIII",
+        "relevant_elements": ["3.1", "4.1"]
+      },
+      {
+        "text": "DE-1.2.6 Develop strategies for climate change/sea-level rise impacts to coastal forests by 2023.",
+        "location": "Strategy Matrix, DE-FAP-S_2020.pdf",
+        "relevant_elements": ["4.3", "4.5", "3.5"]
+      },
+      {
+        "text": "Much work remains to be done in planning and creating migration corridors along the coast.",
+        "location": "Figure caption, I-95 Corridor / Fragmentation section",
+        "relevant_elements": ["1.4", "4.2"]
+      },
+      {
+        "text": "Threats to bats include habitat loss, pollution, climate change, direct persecution, wind turbines, and disease.",
+        "location": "Forest-dependent bats, Indicator 4",
+        "relevant_elements": ["1.1", "3.6"]
+      },
+      {
+        "text": "Delaware is a member of the Regional Greenhouse Gas Initiative (RGGI) and forest management, urban forestry, and avoided deforestation are now approved forestry offsets for RGGI.",
+        "location": "Wood processing, Indicator 14",
+        "relevant_elements": ["4.5"]
+      },
+      {
+        "text": "Continue to work with DNREC to enhance the opportunity for forest management and urban forestry carbon credits through the Regional Greenhouse Gas Initiative (RGGI).",
+        "location": "Criterion 5, III. STATE STRATEGIES, DE-FAP-S_2020.pdf",
+        "relevant_elements": ["4.5"]
+      },
+      {
+        "text": "DE-1.3.1 Protect 2,500 acres of forests within priority areas by 2028. DE-1.4.1 Permanently protect headwater forests-1,000 acres by 2025. DE-1.4.2 Restore wetlands/floodplain forests-250 acres by 2025. DE-1.4.3 Establish forested buffers along impaired waterways and isolated wetlands-5 miles by 2030.",
+        "location": "Strategy Matrix, DE-FAP-S_2020.pdf",
+        "relevant_elements": ["4.1", "4.3"]
+      },
+      {
+        "text": "The 22 strategies and 108 performance goals... Many of these strategies include timelines for completion and/or performance measures to assess progress.",
+        "location": "Section III/IV, DE-FAP-S_2020.pdf",
+        "relevant_elements": ["4.3"]
+      },
+      {
+        "text": "Every five years, the DFS will submit a State Forest Action Plan Highlights Report to the U.S. Forest Service Eastern Region State and Private Forestry. This report will update the status of all 108 performance goals and highlight select items.",
+        "location": "Investment of Resources, DE-FAP-S_2020.pdf",
+        "relevant_elements": ["4.3"]
+      }
+    ]
+  },
+  "concepts": {
+    "climate_vulnerability": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Tier 1 SGCN (165 total) are in the highest need of conservation action. These include the rarest species in the state, species that are highly globally imperiled, and species with regionally important Delaware populations that are also under high threat from a changing climate.",
+          "location": "Species of conservation concern, Indicator 4",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "Climate vulnerability is referenced only generically — species are described as 'under high threat from a changing climate' or 'threatened by changes in climate' without articulating exposure or adaptive capacity. The document also notes a need to 'establish baseline risk assessment for species and habitats' and lists climate change among potential threats, but does not operationalize exposure or adaptive capacity for any focal species. Score is 1 (referenced non-specifically)."
+    },
+    "adaptive_capacity_specificity": {
+      "evaluable": true,
+      "score": 0,
+      "evidence": [],
+      "absence_note": "The document does not reference adaptive capacity of species or ecosystems in connection with climate change in any specific or general sense. The TNC Resilient Lands layer (used in GIS analysis) touches on landscape-level resilience, but this is not framed as species adaptive capacity. No terms like 'adaptive capacity,' 'dispersal ability,' 'plasticity,' or 'evolutionary potential' are used in a climate-adaptation context."
+    },
+    "adaptive_capacity_components": {
+      "demography": {
+        "present": false,
+        "evidence": []
+      },
+      "distribution": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Several potential issues relating to forests and forested habitat include: Migration of maritime forests/riparian areas inland, Shifts in species range (migration), Changes in species composition or disappearance of species, and Increases in invasive/nuisance species and diseases.",
+            "location": "Climate change and sea level rise, INDICATOR 7 section",
+            "sub_component": "distribution",
+            "citations": []
+          }
+        ]
+      },
+      "movement": {
+        "present": false,
+        "evidence": []
+      },
+      "evolutionary_potential": {
+        "present": false,
+        "evidence": []
+      },
+      "ecological_dependencies": {
+        "present": false,
+        "evidence": []
+      },
+      "abiotic_niche": {
+        "present": false,
+        "evidence": []
+      },
+      "life_history": {
+        "present": false,
+        "evidence": []
+      }
+    },
+    "connectivity": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "there is also a loss of forested corridors (100- to 300-foot wide strips) that connect larger blocks of forestland. These areas provide protected travel routes for many wildlife species and are often located along waterways, thus also improving water quality.",
+          "location": "Forest fragmentation, Indicators 3/Issues section",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "Connectivity is referenced throughout — corridors, the Blackbird-Millington Corridor, the Delaware Ecological Network — but almost always in a general wildlife/habitat/water quality framing rather than in an explicit climate-driven range-shift context. The one passage that references 'migration corridors along the coast' in the context of fragmentation (I-95 section) could be annual migration. The TNC Resilient Lands layer used in the GIS analysis mentions enabling species persistence 'in the face of climate change,' which is borderline, but the connectivity framing itself is not explicitly climate-gradient or climate-shift framing. Score 1 (generic connectivity referenced)."
+    }
+  },
+  "tools": {
+    "vulnerability_models": {
+      "evaluable": true,
+      "score": 0,
+      "named_tools": [],
+      "evidence": [],
+      "absence_note": "The document mentions a need to 'establish baseline risk assessment for species and habitats' but no vulnerability model (CCVI, PVA, etc.) is referenced or applied. The Resilient Lands layer from TNC estimates resilience scores but this is not a species vulnerability model."
+    },
+    "niche_models": {
+      "evaluable": true,
+      "score": 0,
+      "named_tools": [],
+      "evidence": [],
+      "absence_note": "No species distribution models or niche models are referenced anywhere in either document."
+    },
+    "climate_models": {
+      "evaluable": true,
+      "score": 0,
+      "named_tools": [],
+      "evidence": [],
+      "absence_note": "Climate change is discussed qualitatively (sea level rise, warming, drought) but no climate model, GCM, downscaling product, RCP/SSP scenario, or climate projection tool is referenced. Sea level rise estimates are mentioned as '100-year estimates available' but were excluded from the GIS model as exceeding the 10-year plan scope; this is not application of a climate model.",
+      "time_horizon_years": [],
+      "emission_scenarios": []
+    },
+    "connectivity_models": {
+      "evaluable": true,
+      "score": 0,
+      "named_tools": [],
+      "evidence": [],
+      "absence_note": "The GIS overlay analysis used 21 data layers including TNC Resilient Lands and Delaware Ecological Network (DEN) corridors, but no connectivity modeling software (CircuitScape, Linkage Mapper, etc.) is named or applied. The GIS analysis is a weighted overlay of presence/absence layers, not a connectivity model. The document references corridor concepts and GIS spatial analysis generally but not connectivity modeling for range shifts."
+    }
+  },
+  "context": {
+    "management_scale": {
+      "local": {
+        "present": false,
+        "evidence": []
+      },
+      "site": {
+        "present": false,
+        "evidence": []
+      },
+      "watershed": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The final product from the weighted overlay of the 21 input layers... This resulted in 43 of Delaware's 100 HUC 12 watersheds receiving high priority.",
+            "location": "Rural Priority Landscape Area, Section VI",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "city": {
+        "present": false,
+        "evidence": []
+      },
+      "county": {
+        "present": false,
+        "evidence": []
+      },
+      "within_state_region": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The five divisions within the rural priority landscape area are: Delaware Estuary, Blackbird Creek, Inland Bays, Piedmont Basin, Chesapeake Basin.",
+            "location": "Section II, DE-FAP-S_2020.pdf",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "state": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Delaware's Forest Resource Assessment identified four major issues facing Delaware's forests: Forest Health and Functionality... Forest Markets... Sustainable Forest Management... Public Awareness and Appreciation of Forests.",
+            "location": "II. PRIORITY ISSUES AND LANDSCAPE AREAS, DE-FAP-S_2020.pdf",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "multistate": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The Delaware Forest Service (DFS), working with the U.S. Forest Service, the Northeast-Midwest State Foresters Alliance (NMSFA), and the Delaware Forest Stewardship Committee identified the following multi-state regional priority areas: Chesapeake Bay Watershed, Delmarva Peninsula and Mid-Atlantic Coastal Plain, Interstate 95 Corridor, Delaware River Watershed, Blackbird-Millington Corridor.",
+            "location": "Multi-State Regional Priority Landscape Areas, Section VIII",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "national": {
+        "present": false,
+        "evidence": []
+      },
+      "transnational": {
+        "present": false,
+        "evidence": []
+      },
+      "ecosystem": {
+        "present": false,
+        "evidence": []
+      },
+      "ecoregion": {
+        "present": false,
+        "evidence": []
+      },
+      "province": {
+        "present": false,
+        "evidence": []
+      },
+      "section": {
+        "present": false,
+        "evidence": []
+      },
+      "subsection": {
+        "present": false,
+        "evidence": []
+      },
+      "lake": {
+        "present": false,
+        "evidence": []
+      },
+      "river": {
+        "present": false,
+        "evidence": []
+      },
+      "district": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["Chesapeake Bay Watershed", "Delmarva Peninsula", "Delaware Estuary", "Blackbird Creek watershed", "Inland Bays", "Piedmont Basin", "Chesapeake Basin", "Delaware River Watershed", "Blackbird-Millington Corridor", "I-95 Corridor", "HUC 12 watersheds"]
+    },
+    "biological_unit_score": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Shifts in species range (migration), Changes in species composition or disappearance of species, and Increases in invasive/nuisance species and diseases.",
+          "location": "Climate change and sea level rise, INDICATOR 7 section",
+          "sub_component": "species",
+          "citations": []
+        },
+        {
+          "text": "Global climate change could have significant impacts on the structure, distribution, productivity, and health of temperate forests as well as impacts on forest carbon stocks and fluxes.",
+          "location": "Criterion 5: Maintenance of Forest Contribution to Global Carbon Cycles",
+          "sub_component": "ecosystem",
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "biological_unit_components": {
+      "species": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Shifts in species range (migration), Changes in species composition or disappearance of species, and Increases in invasive/nuisance species and diseases.",
+            "location": "Climate change and sea level rise, INDICATOR 7 section",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "population": {
+        "present": false,
+        "evidence": []
+      },
+      "habitat": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Several potential issues relating to forests and forested habitat include: Migration of maritime forests/riparian areas inland, Shifts in species range (migration), Changes in species composition or disappearance of species, and Increases in invasive/nuisance species and diseases.",
+            "location": "Climate change and sea level rise, INDICATOR 7 section",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Global climate change could have significant impacts on the structure, distribution, productivity, and health of temperate forests as well as impacts on forest carbon stocks and fluxes.",
+            "location": "Criterion 5: Maintenance of Forest Contribution to Global Carbon Cycles",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "community": {
+        "present": false,
+        "evidence": []
+      },
+      "genotype_phenotype": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["loblolly pine (Pinus taeda)", "baldcypress (Taxodium distichum)", "Atlantic white-cedar (Chamaecyparis thyoides)", "Delmarva fox squirrel (Sciurus niger cinereus)", "northern long-eared bat (Myotis septentrionalis)", "cerulean warbler (Setophaga cerulea)", "maritime forests", "riparian forests", "coastal forests"]
+    },
+    "partnerships_and_funding": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "The Delaware Forest Service (DFS), working with the U.S. Forest Service, the Northeast-Midwest State Foresters Alliance (NMSFA), and the Delaware Forest Stewardship Committee identified the following multi-state regional priority areas.",
+          "location": "Multi-State Regional Priority Landscape Areas, Section VIII",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document describes numerous partnerships (with USFS, DNREC, TNC, Delaware Wild Lands, NGOs, etc.) and some dedicated funding (Forest Legacy Program, Forestland Preservation Program, Open Space Program), but these are primarily for general forest conservation and management, not specifically for addressing species range shifts. The one climate/range-shift-specific action (developing strategies for climate change/sea-level rise impacts to coastal forests by 2023) is listed as a performance goal with no dedicated funding specified. Score 1: partnerships and some funding described but aspirational/limited for range-shift work specifically."
+    },
+    "climate_threat_habitat_degradation": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "There is growing concern among forestland managers about the potential impacts of climate change in Delaware, particularly sea level rise... Several potential issues relating to forests and forested habitat include: Migration of maritime forests/riparian areas inland.",
+          "location": "Climate change and sea level rise, INDICATOR 7 section",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_threat_species_vital_rates": {
+      "evaluable": true,
+      "score": 0,
+      "evidence": [],
+      "absence_note": "The document discusses threats to bats from climate change generically ('Threats to bats include habitat loss, pollution, climate change...') but does not specifically frame any climate-driven event as directly causing mortality or recruitment failure. White nose syndrome is discussed as a major mortality cause but is not framed as climate-driven. No heat mortality events, climate-induced recruitment failure, or direct vital rate impacts from climate events are specifically discussed."
+    },
+    "climate_threat_biotic_stressors": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Meanwhile, increasing average temperatures and longer growing seasons have extended the northern range of this pest.",
+          "location": "Figure caption, I-95 Corridor / Southern Pine Beetle section",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    }
+  },
+  "actions": {
+    "priority_habitat_identification": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Through a sophisticated GIS analysis, rural and urban priority areas throughout the state were identified using specific ranking criteria. This enables the DFS and its partners to target high-value forested areas of the state for protection and enhancement especially in times of scarce funding.",
+          "location": "IX. Forest Resource Assessment Summary",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "This resulted in 43 of Delaware's 100 HUC 12 watersheds receiving high priority (Figure 46).",
+          "location": "Rural Priority Landscape Area, Section VI",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "Priority habitat is identified with spatial representation via GIS-produced maps (Figures 45-49, watershed-level maps). The 21-layer overlay analysis identifies both rural and urban priority landscape areas. The TNC Resilient Lands layer is included as one of 21 inputs, with some climate-resilience framing, though the spatial prioritization is primarily for general forest conservation rather than climate-shift-specific habitat. Score 2 is appropriate because spatially explicit maps and zonation are produced."
+    },
+    "targeted_range_shift_actions": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Consideration can then be given to methods to move low-lying riparian forest buffers inland as sea level slowly rises to ensure these buffers are not lost.",
+          "location": "Climate change and sea level rise, INDICATOR 7 section",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The proposal to move riparian forest buffers inland as sea level rises is a structural facilitation action (habitat management to accommodate climate-driven range shift of maritime/riparian forest). The Delmarva fox squirrel translocation mentioned in the document is framed as general population recovery (connectivity between existing populations) without explicit climate framing, so that does not count. The 'move buffers inland' action, though brief and non-committal, explicitly invokes sea level rise (climate) as motivation. Score 1."
+    },
+    "time_bound_and_monitoring": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "DE-1.2.6 Develop strategies for climate change/sea-level rise impacts to coastal forests by 2023.",
+          "location": "Strategy Matrix, DE-FAP-S_2020.pdf",
+          "sub_component": "deadlines",
+          "citations": []
+        },
+        {
+          "text": "Every five years, the DFS will submit a State Forest Action Plan Highlights Report to the U.S. Forest Service Eastern Region State and Private Forestry. This report will update the status of all 108 performance goals and highlight select items that were overwhelmingly positive and/or exceeded expectations.",
+          "location": "Investment of Resources, DE-FAP-S_2020.pdf",
+          "sub_component": "monitoring",
+          "citations": []
+        }
+      ],
+      "absence_note": "The strategy matrix includes specific time-bound performance goals (e.g., 'by 2023,' 'by 2025,' 'by 2028,' 'by 2030') and a five-year review/reporting cycle. This satisfies both the deadline and effectiveness monitoring criteria at the action level. Score 2."
+    },
+    "evidence_of_efficacy": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Additionally, there is a need to establish baseline risk assessment for species and habitats. Consideration can then be given to methods to move low-lying riparian forest buffers inland as sea level slowly rises to ensure these buffers are not lost.",
+          "location": "Climate change and sea level rise, INDICATOR 7 section",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document presents no evidence of efficacy (studies, case studies, or references) for the range-shift-relevant actions proposed (moving buffers inland, developing climate change strategies). General rationale is provided (sea level rise creates need to move buffers) but no studies or prior projects are cited to support the action's effectiveness. Score 1: rationale outlined but no supporting evidence.",
+      "projects": []
+    },
+    "adaptation_planning_frameworks": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "The long-term effects of climate change could be dramatic within Delaware due to its location along the Atlantic seaboard and low mean elevation... Develop strategies for climate change/sea level rise impacts to coastal forests.",
+          "location": "Criterion 5, III. STATE STRATEGIES, DE-FAP-S_2020.pdf",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "Climate adaptation planning is referenced generically — the document calls for developing climate change/sea level rise strategies and includes 'Manage trees and forests to mitigate and adapt to global climate change' as a national S&PF objective. Delaware's Climate Action Plan is listed as a reference. However, no specific named climate adaptation planning frameworks (RAD, RRT, CCVA, SBDA, SDM, adaptation menu, etc.) are referenced. Score 1: referenced non-specifically."
+    }
+  },
+  "coding_meta": {
+    "coder": "llm:claude-sonnet-4-6",
+    "model": "claude-sonnet-4-6",
+    "provider": "claude",
+    "codebook_version": "0.4",
+    "ingest": "text",
+    "design": "single",
+    "temperature": null,
+    "thinking": null,
+    "thinking_effort": null,
+    "coded_at": "2026-07-07T00:31:30Z",
+    "notes": {}
+  }
+}

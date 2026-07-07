@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Appendix 5. List of Iowa Breeding Birds Evaluated by the IWAP</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<title level="a" type="main">Appendix 5. List of Iowa Breeding Birds Evaluated by the IWAP</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">A738F78D49A2A2FFD943832AEF446C4D</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.1" ident="GROBID" when="2026-07-06T11:45+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>R2R Refers to Road to Recovery Tipping Point Species List.</term>
+					<term>Red Alert Species: Very High Urgency (perilously low population size, steeply declining or unknown population trend)</term>
+					<term>Orange Alert Species: (large population loss, continued or accelerated decline, conservation reliant)</term>
+					<term>Yellow Alert List: Moderate Urgency (large population loss, but now relatively stable, still conservation reliant)</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Taxonomic order and nomenclature derived from: The American Ornithological Society Check-List of North American Birds.</p><p>SGCN refers to Species of Greatest Conservation Need (SGCN) status as determined through IWAP species conservation status assessments. Y: Yes, species is SGCN. Blank: No, species is not SGCN.</p><p>T/E Status Refers to whether a species is federally listed as Endangered, Threatened, or Candidate at the time of this plan's publication. It also refers to those species proposed for Endangered, Threatened or Delisting status at the state level. For up-to-date state of Iowa listing information, please see the Threatened and Endangered Species Program page on the DNR website.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Assessments of species conservation status undertaken as part of the IWAP are used to determine SGCN status. Other information is provided as a reference. Updates to State Wildlife Action Plans, Regional SGCN lists, Federal T&amp;E Status, etc., are each independent processes, undertaken by different entities with differing timeframes. As such, the various listings or status ranks for a given species at a given point in time may not always appear to be in accord. Please visit the links above for updated information.  Vagrant Species -These species are considered stray or vagrant in Iowa. They have confirmed documentation of occurrence in the state but do not have established populations within Iowa. In some years, populations of these species expand into portions of the state. </p></div>		</body>
+		<back>
+
+			<div type="funding">
+<div><p>• I-P-E/T/D: Proposed Endangered, Proposed Threatened, Proposed Delisted • I-E: State-listed as Endangered in Iowa (from <rs type="affiliation">Iowa Code Chapter 77</rs>) • I-T: State-listed as Threatened in Iowa • F-E: Federally listed as Endangered in the United States • F-E: Federally listed as Threatened in the United States • F-C: Federally listed as a Candidate in the United States • F-P: Proposed for federal listing as an Endangered or Threatened species.</p></div>
+			</div>			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Appendix 6. List of Non-breeding Birds Evaluated by the IWAP.</p><p>Taxonomic order and nomenclature derived from: The American Ornithological Society Check-List of North American Birds.</p><p>SGCN refers to Species of Greatest Conservation Need (SGCN) status as determined through IWAP species conservation status assessments. Y: Yes, species is SGCN. Blank: No, species is not SGCN.</p><p>T/E Status refers to whether a species is listed as either state or federally Endangered or Threatened, at the time of this plan's publication. For up-to-date state listing information, please see the Threatened and Endangered Species Program page on the DNR website.</p><p>• Regional SGCN: To access more information about this effort and for the updated list of Regional SGCN.</p><p>• R: Species is considered a Regional Species of Greatest Conservation Need in the Midwest.</p><p>• W: Watchlist. This is a list of species for which there was concern but insufficient information or differing trends across the region (WA: Watchlist -Assessment Priority). For some species this is because there is a different region of the country that is more important to the species than the Midwest (WD: Watchlist -Defer to adjacent region).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>R2R</head><p>Refers to Road to Recovery Tipping Point Species List.</p><p>• Red Alert Species: Very High Urgency (perilously low population size, steeply declining or unknown population trend) • Orange Alert Species: (large population loss, continued or accelerated decline, conservation reliant) • Yellow Alert List: Moderate Urgency (large population loss, but now relatively stable, still conservation reliant)</p><p>Assessments of species conservation status undertaken as part of the IWAP are used to determine SGCN status. Other information is provided as a reference. Updates to State Wildlife Action Plans, Regional SGCN lists, Federal T&amp;E Status, etc., are each independent processes, undertaken by different entities with differing timeframes. As such, the various listings or status ranks for a given species at a given point in time may not always appear to be in accord. Please visit the links above for updated information.  </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Scientific</head></div>			</div>
+			<div type="references">
+
+				<listBibl/>
+			</div>
+		</back>
+	</text>
+</TEI>
+

@@ -1,0 +1,543 @@
+{
+  "document_meta": {
+    "title": "CNMI 2020 Statewide Forest Resource Assessments & Strategies (Forest Action Plan)",
+    "year": 2020,
+    "jurisdiction": "Commonwealth of the Northern Mariana Islands (CNMI)",
+    "document_type": "Forest Action Plan (State Forest Action Plan)",
+    "document_id": "CNMI_FAP_2020",
+    "page_count": 44
+  },
+  "orientation": {
+    "summary": "This is the 2020 Forest Action Plan (FAP) for the Commonwealth of the Northern Mariana Islands (CNMI), a US territory in the Western Pacific. The document is a forest resource assessment and management strategy required under the 2008 Farm Bill, covering forest conditions, threats, priorities, and conservation strategies across the CNMI's fourteen islands. It acknowledges climate change as a threat — citing the PIRCA report — listing sea-level rise, coral bleaching, stronger typhoons, altered rainfall, and temperature rise as concerns for forest resources, but does so in a descriptive/summarizing mode rather than through its own quantitative climate analysis. Range shifts are not discussed; the document's posture toward climate change is primarily one of threat acknowledgment (extreme weather, habitat degradation) rather than species distributional adaptation. No climate or niche modeling is performed; climate information is imported from an external report (Grecni et al. 2021).",
+    "evidence_index": [
+      {
+        "text": "Average temperatures have risen and are likely to continue to rise. Changes in rainfall patterns may cause more extreme drought or flooding events. Stronger tropical storms and typhoons are expected globally and around the Mariana Islands",
+        "location": "Climate Change and Extreme Weather Events",
+        "relevant_elements": ["1.1", "3.5", "3.6", "2.3"]
+      },
+      {
+        "text": "Sea level rise threatens infrastructure, including housing, businesses, and transportation, as well as ecosystems and cultural sites. More frequent and intense coastal flooding and erosion are anticipated as sea level rise accelerates.",
+        "location": "Climate Change and Extreme Weather Events",
+        "relevant_elements": ["1.1", "3.5"]
+      },
+      {
+        "text": "Oceans are warming, causing coral bleaching that is already widespread and severe and may lead to extensive coral loss in the coming decades.",
+        "location": "Climate Change and Extreme Weather Events",
+        "relevant_elements": ["3.5", "3.6"]
+      },
+      {
+        "text": "Changes in rainfall patterns leading to longer or more intense dry periods may increase the risk of wildland fires and hinder regrowth efforts. Changes in temperature and rainfall patterns may also increase native tree and crop species' vulnerability to pests and diseases (Grecni et al. 2021).",
+        "location": "Climate Change and Extreme Weather Events",
+        "relevant_elements": ["1.1", "3.5", "3.6", "3.7"]
+      },
+      {
+        "text": "The small and highly fragmented remains of native limestone forest are particularly vulnerable to invasive species, and the hydrological features underlying and surrounding Saipan's coastal wetlands and mangroves may be quite sensitive to changes in sea level, salinity, and sedimentation that may be exacerbated by climate change (Greene and Skeele 2014).",
+        "location": "Climate Change and Extreme Weather Events",
+        "relevant_elements": ["1.1", "3.5", "3.7"]
+      },
+      {
+        "text": "Major storm events may damage or destroy trees and tree crops, delay fruiting and flowering, and affect pollinator species.",
+        "location": "Climate Change and Extreme Weather Events",
+        "relevant_elements": ["3.5", "3.6", "3.7"]
+      },
+      {
+        "text": "These projected impacts have already affected CNMI forest resources in recent years. Most notably, as described above the CNMI has experienced three tropical cyclones since the previous SWARS that resulted in federal disaster declarations: The Category 4 Typhoon Soudelor in 2015, and the Category 4 Typhoon Mangkhut and Category 5+ \"Super Typhoon\" Yutu in 2018.",
+        "location": "Climate Change and Extreme Weather Events",
+        "relevant_elements": ["3.5", "3.6"]
+      },
+      {
+        "text": "reducing invasive species, restoring habitats, increasing livelihood opportunities and reducing risks to communities from climate impact in Micronesia.",
+        "location": "Micronesia Challenge (table)",
+        "relevant_elements": ["3.4", "4.1"]
+      },
+      {
+        "text": "The CNMI Forest Action Plan is organized into two primary sections: The CNMI Forest Resource Assessment ... the identification of priority forest areas or landscapes. The CNMI Forest Resource Strategy identifies and prioritizes strategies",
+        "location": "List of Figures (introduction)",
+        "relevant_elements": ["4.1", "4.2", "4.3"]
+      },
+      {
+        "text": "Conservation areas in the Northern Islands: Asuncion, Maug, Uracas, and Guguan ... Conservation areas on the island of Rota ... Conservation areas on the island of Saipan ... Priority areas on Tinian.",
+        "location": "Conservation Areas in the CNMI",
+        "relevant_elements": ["4.1"]
+      },
+      {
+        "text": "Priority watersheds in the CNMI ... CNMI Priority watersheds (clockwise from upper left): Garapan/West Takpochao; Laolao; Achugao; and Talakhaya.",
+        "location": "Figure captions",
+        "relevant_elements": ["4.1", "3.1"]
+      },
+      {
+        "text": "All of these stakeholders were heavily involved in the identification of priorities and the development of strategies for this FAP.",
+        "location": "List of Figures (introduction)",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "With assistance from USFS, and occasionally from other federal agencies, the CNMI will be able to address some of these threats and priorities identified in this plan",
+        "location": "Forest Conditions and Trends/Threats",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "Collaboration with local landowners remains critical to detect and eradicate CRB.",
+        "location": "Coconut rhinoceros beetle on Rota",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "Three bird species, the Mariana crow (Corvus kubaryi), the Rota bridled white-eye (Zosterops conspicillatus rotensis), and the Mariana common moorhen (Gallinula chloropus guami) are federally listed as endangered.",
+        "location": "Forest conditions on Rota (table)",
+        "relevant_elements": ["3.3"]
+      },
+      {
+        "text": "Rota has two tree species, Serianthes nelsonii and Osmoxylon mariannense, and a perennial herbaceous species, Nesogenes rotensis, which are federally listed as endangered.",
+        "location": "Forest conditions on Rota",
+        "relevant_elements": ["3.3"]
+      },
+      {
+        "text": "The CNMI Forestry Mission Statement is as follows: To promote best land management practices while sustaining a healthy diversity and productivity on our limited and fragile forest and grassland resources for present and future generations.",
+        "location": "CNMI Forestry Program",
+        "relevant_elements": ["4.5"]
+      },
+      {
+        "text": "Program goals, objectives, and strategies will continuously be improved to meet the needs of stakeholders to address challenges and changes in our governmental policies, economic conditions, and environmental impacts, social and cultural aspects.",
+        "location": "Micronesia Challenge (table/Forestry Stewardship Program section)",
+        "relevant_elements": ["4.3", "4.5"]
+      },
+      {
+        "text": "Micronesia Challenge 2030 goals to effectively manage 50% of marine resources, including the exclusive economic zone (EEZ), and 30% of terrestrial resources by 2030.",
+        "location": "Micronesia Challenge (table)",
+        "relevant_elements": ["3.4", "4.3"]
+      }
+    ]
+  },
+  "concepts": {
+    "climate_vulnerability": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Changes in temperature and rainfall patterns may also increase native tree and crop species' vulnerability to pests and diseases (Grecni et al. 2021).",
+          "location": "Climate Change and Extreme Weather Events",
+          "sub_component": null,
+          "citations": ["Grecni et al. 2021"]
+        }
+      ],
+      "absence_note": "The document references vulnerability of forests/species to climate change (pests, diseases, sea level) but does not articulate the IPCC framework of exposure vs. adaptive capacity. The word 'vulnerability' is used once in a climate context but without any decomposition into exposure or adaptive capacity components. Score 1."
+    },
+    "adaptive_capacity_specificity": {
+      "evaluable": true,
+      "score": 0,
+      "evidence": [],
+      "absence_note": "No discussion of adaptive capacity of species or ecosystems to climate change. The document does not discuss how species might cope with, respond to, or adapt to climate-driven change."
+    },
+    "adaptive_capacity_components": {
+      "demography": {
+        "present": false,
+        "evidence": []
+      },
+      "distribution": {
+        "present": false,
+        "evidence": []
+      },
+      "movement": {
+        "present": false,
+        "evidence": []
+      },
+      "evolutionary_potential": {
+        "present": false,
+        "evidence": []
+      },
+      "ecological_dependencies": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Major storm events may damage or destroy trees and tree crops, delay fruiting and flowering, and affect pollinator species.",
+            "location": "Climate Change and Extreme Weather Events",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "abiotic_niche": {
+        "present": false,
+        "evidence": []
+      },
+      "life_history": {
+        "present": false,
+        "evidence": []
+      }
+    },
+    "connectivity": {
+      "evaluable": true,
+      "score": 0,
+      "evidence": [],
+      "absence_note": "Connectivity as an ecological concept is not discussed in the document. There is no mention of wildlife corridors, habitat corridors, landscape permeability, or related concepts. Conservation areas are described spatially but without connectivity framing."
+    }
+  },
+  "tools": {
+    "vulnerability_models": {
+      "evaluable": true,
+      "score": 0,
+      "named_tools": [],
+      "evidence": [],
+      "absence_note": "No vulnerability models (CCVI, PVA, etc.) are mentioned or applied in the document."
+    },
+    "niche_models": {
+      "evaluable": true,
+      "score": 0,
+      "named_tools": [],
+      "evidence": [],
+      "absence_note": "No species distribution models or niche models are mentioned or applied."
+    },
+    "climate_models": {
+      "evaluable": true,
+      "score": 1,
+      "named_tools": ["PIRCA (Pacific Islands Regional Climate Assessment)"],
+      "evidence": [
+        {
+          "text": "The \"Climate Change in the Commonwealth of the Northern Mariana Islands\" report under the Pacific Islands Regional Climate Assessment (PIRCA), recently released by the East-West Center (Grecni et al. 2021) summarized the potential threats and challenges that climate change may pose to the CNMI.",
+          "location": "Climate Change and Extreme Weather Events",
+          "sub_component": null,
+          "citations": ["Grecni et al. 2021"]
+        }
+      ],
+      "absence_note": "The document references a regional climate assessment (PIRCA/Grecni et al. 2021) and summarizes climate projections, but does not name specific GCMs, emission scenarios, or time horizons. Counts as referenced generally (1) rather than applied (2) because no climate model outputs are used directly for management analysis of the CNMI's focal forest subjects.",
+      "time_horizon_years": [],
+      "emission_scenarios": []
+    },
+    "connectivity_models": {
+      "evaluable": true,
+      "score": 0,
+      "named_tools": [],
+      "evidence": [],
+      "absence_note": "No connectivity models are referenced."
+    }
+  },
+  "context": {
+    "management_scale": {
+      "local": {
+        "present": false,
+        "evidence": []
+      },
+      "site": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "CRB was found in 2020 in the Gagani and Talakhaya areas of Rota four miles from the original CRB quarantine areas at Tweksberry Beach Park and Paupau",
+            "location": "Coconut rhinoceros beetle on Rota",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "watershed": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Priority watersheds in the CNMI ... CNMI Priority watersheds (clockwise from upper left): Garapan/West Takpochao; Laolao; Achugao; and Talakhaya.",
+            "location": "Figure captions",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "city": {
+        "present": false,
+        "evidence": []
+      },
+      "county": {
+        "present": false,
+        "evidence": []
+      },
+      "within_state_region": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The CNMI is divided into four municipalities: Rota, Tinian (including Aguigan), Saipan, and the Northern Islands which comprises the northern nine islands",
+            "location": "Background and Setting",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "state": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The scope of this document encompasses the entire archipelago, but the analysis and strategies will focus primarily on the southern municipalities of Saipan, Tinian / Aguigan, and Rota",
+            "location": "Background and Setting",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "multistate": {
+        "present": false,
+        "evidence": []
+      },
+      "national": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "State Forest Action Plans offer a practical and comprehensive roadmap for investing federal, state, local, and private resources where they can be most effective in achieving three national conservation goals as defined by the US Forest Service",
+            "location": "List of Figures (introduction)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "transnational": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The Micronesia Challenge (MC) is a shared commitment made by the Federated States of Micronesia, Guam, Palau, CNMI, and the Republic of the Marshall Islands originally launched in 2006 to effectively conserve 30% of marine resources and 20% of terrestrial resources by 2020.",
+            "location": "Micronesia Challenge (table)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "the hydrological features underlying and surrounding Saipan's coastal wetlands and mangroves may be quite sensitive to changes in sea level, salinity, and sedimentation that may be exacerbated by climate change",
+            "location": "Climate Change and Extreme Weather Events",
+            "sub_component": null,
+            "citations": ["Greene and Skeele 2014"]
+          }
+        ]
+      },
+      "ecoregion": {
+        "present": false,
+        "evidence": []
+      },
+      "province": {
+        "present": false,
+        "evidence": []
+      },
+      "section": {
+        "present": false,
+        "evidence": []
+      },
+      "subsection": {
+        "present": false,
+        "evidence": []
+      },
+      "lake": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The largest wetlands in the CNMI are Lake Susupe on Saipan and Lake Hagoi on Tinian.",
+            "location": "Current Status of Forests in the CNMI",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "river": {
+        "present": false,
+        "evidence": []
+      },
+      "district": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["Saipan", "Tinian", "Rota", "Aguigan", "Northern Islands", "Talakhaya watershed", "Laolao watershed", "Garapan/West Takpochao", "Achugao", "Lake Susupe", "Lake Hagoi", "Micronesia"]
+    },
+    "biological_unit_score": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Changes in temperature and rainfall patterns may also increase native tree and crop species' vulnerability to pests and diseases (Grecni et al. 2021).",
+          "location": "Climate Change and Extreme Weather Events",
+          "sub_component": "species",
+          "citations": ["Grecni et al. 2021"]
+        },
+        {
+          "text": "the hydrological features underlying and surrounding Saipan's coastal wetlands and mangroves may be quite sensitive to changes in sea level, salinity, and sedimentation that may be exacerbated by climate change",
+          "location": "Climate Change and Extreme Weather Events",
+          "sub_component": "habitat",
+          "citations": ["Greene and Skeele 2014"]
+        }
+      ],
+      "absence_note": "Species and habitat are both discussed in climate-threat contexts, earning a score of 2."
+    },
+    "biological_unit_components": {
+      "species": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Changes in temperature and rainfall patterns may also increase native tree and crop species' vulnerability to pests and diseases (Grecni et al. 2021).",
+            "location": "Climate Change and Extreme Weather Events",
+            "sub_component": null,
+            "citations": ["Grecni et al. 2021"]
+          }
+        ]
+      },
+      "population": {
+        "present": false,
+        "evidence": []
+      },
+      "habitat": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "the hydrological features underlying and surrounding Saipan's coastal wetlands and mangroves may be quite sensitive to changes in sea level, salinity, and sedimentation that may be exacerbated by climate change",
+            "location": "Climate Change and Extreme Weather Events",
+            "sub_component": null,
+            "citations": ["Greene and Skeele 2014"]
+          }
+        ]
+      },
+      "ecosystem": {
+        "present": false,
+        "evidence": []
+      },
+      "community": {
+        "present": false,
+        "evidence": []
+      },
+      "genotype_phenotype": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["native limestone forest", "coastal wetlands", "mangroves", "native tree species", "crop species", "Serianthes nelsonii", "Osmoxylon mariannense", "Mariana crow", "Rota bridled white-eye", "Mariana common moorhen"]
+    },
+    "partnerships_and_funding": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "With assistance from USFS, and occasionally from other federal agencies, the CNMI will be able to address some of these threats and priorities identified in this plan",
+          "location": "Forest Conditions and Trends/Threats",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "The Micronesia Challenge (MC) is a shared commitment made by the Federated States of Micronesia, Guam, Palau, CNMI, and the Republic of the Marshall Islands originally launched in 2006 to effectively conserve 30% of marine resources and 20% of terrestrial resources by 2020.",
+          "location": "Micronesia Challenge (table)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "Partnerships are described (USFS, Micronesia Challenge, local agencies, landowners, stakeholder committees) and there is federal funding via CFAA, but engagement with range-shift or climate-adaptation-specific actions is aspirational at best. Score 1 (some funding and partnerships described but limited/aspirational in climate-shift context)."
+    },
+    "climate_threat_habitat_degradation": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Sea level rise threatens infrastructure, including housing, businesses, and transportation, as well as ecosystems and cultural sites. More frequent and intense coastal flooding and erosion are anticipated as sea level rise accelerates.",
+          "location": "Climate Change and Extreme Weather Events",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "the hydrological features underlying and surrounding Saipan's coastal wetlands and mangroves may be quite sensitive to changes in sea level, salinity, and sedimentation that may be exacerbated by climate change",
+          "location": "Climate Change and Extreme Weather Events",
+          "sub_component": null,
+          "citations": ["Greene and Skeele 2014"]
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_threat_species_vital_rates": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Changes in temperature and rainfall patterns may also increase native tree and crop species' vulnerability to pests and diseases (Grecni et al. 2021).",
+          "location": "Climate Change and Extreme Weather Events",
+          "sub_component": null,
+          "citations": ["Grecni et al. 2021"]
+        }
+      ],
+      "absence_note": "Climate-driven pests and diseases affecting species survival/health are discussed. The chain 'climate change → increased pest/disease pressure → species vulnerability' is articulated, which is a direct vital rate impact pathway. Score 1."
+    },
+    "climate_threat_biotic_stressors": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "The small and highly fragmented remains of native limestone forest are particularly vulnerable to invasive species, and the hydrological features underlying and surrounding Saipan's coastal wetlands and mangroves may be quite sensitive to changes in sea level, salinity, and sedimentation that may be exacerbated by climate change",
+          "location": "Climate Change and Extreme Weather Events",
+          "sub_component": null,
+          "citations": ["Greene and Skeele 2014"]
+        }
+      ],
+      "absence_note": "The document links climate change to increased invasive species pressure (climate exacerbating invasive species vulnerability of native limestone forest). While not elaborated in depth, the framing does connect climate to biotic stress. Score 1."
+    }
+  },
+  "actions": {
+    "priority_habitat_identification": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Figure 16: Priority watersheds in the CNMI. Figure 17: CNMI Priority watersheds (clockwise from upper left): Garapan/West Takpochao; Laolao; Achugao; and Talakhaya.",
+          "location": "Figure captions",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "In addition, there are several areas on Tinian designated as priority areas that are not legally protected as Conservation Areas (Figure 5): Tinian o Carolinas Heights o Kastiyu",
+          "location": "Conservation Areas in the CNMI",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "Priority forest areas and landscapes are identified and spatially represented via maps (Figures 2-7, 16-17, 18-19 covering conservation areas, stewardship areas, priority watersheds, and landcover). However, the spatial prioritization is primarily driven by existing forest resource management considerations rather than explicitly by climate-induced range shifts. Scored 2 because spatial representation is clearly present even though the climate-adaptation framing is weak."
+    },
+    "targeted_range_shift_actions": {
+      "evaluable": true,
+      "score": 0,
+      "evidence": [],
+      "absence_note": "No targeted actions to manage climate-driven species range shifts are discussed. The document does not address assisted migration, climate corridors, or any other range-shift facilitation or prevention actions."
+    },
+    "time_bound_and_monitoring": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Micronesia Challenge 2030 goals to effectively manage 50% of marine resources, including the exclusive economic zone (EEZ), and 30% of terrestrial resources by 2030.",
+          "location": "Micronesia Challenge (table)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document references a 10-year plan cycle and Micronesia Challenge 2030 goals (time-bound at a high level), but does not attach specific deadlines to individual forest conservation actions or pair actions with effectiveness monitoring protocols. Score 1."
+    },
+    "evidence_of_efficacy": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "To promote best land management practices while sustaining a healthy diversity and productivity on our limited and fragile forest and grassland resources for present and future generations.",
+          "location": "CNMI Forestry Program",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document provides rationale for forest management and conservation actions based on general ecological principles and past disturbance history, but does not cite specific studies, case studies, or prior project evaluations that demonstrate efficacy of proposed actions. General references to 'best land management practices' without evidentiary support. Score 1.",
+      "projects": []
+    },
+    "adaptation_planning_frameworks": {
+      "evaluable": true,
+      "score": 0,
+      "evidence": [],
+      "absence_note": "No climate adaptation planning frameworks (RAD, RRT, CCVA, SDM, scenario planning, etc.) are referenced. The document follows a standard forest action plan structure but does not invoke any formal climate adaptation planning framework."
+    }
+  },
+  "coding_meta": {
+    "coder": "llm:claude-sonnet-4-6",
+    "model": "claude-sonnet-4-6",
+    "provider": "claude",
+    "codebook_version": "0.4",
+    "ingest": "text",
+    "design": "single",
+    "temperature": null,
+    "thinking": null,
+    "thinking_effort": null,
+    "coded_at": "2026-07-07T00:31:30Z",
+    "notes": {}
+  }
+}

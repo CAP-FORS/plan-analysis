@@ -1,0 +1,1275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main"></title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Littoral</forename><surname>Zones</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Contributors Michigan Department of Natural Resources</orgName>
+								<orgName type="department" key="dep2">Michigan Department of Natural Resources</orgName>
+								<orgName type="institution">Michigan Natural Features Inventory Bay Mills Indian Community</orgName>
+								<address>
+									<settlement>Lansing</settlement>
+									<region>MI</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Joseph</forename><forename type="middle">K</forename><surname>Nohner</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Contributors Michigan Department of Natural Resources</orgName>
+								<orgName type="department" key="dep2">Michigan Department of Natural Resources</orgName>
+								<orgName type="institution">Michigan Natural Features Inventory Bay Mills Indian Community</orgName>
+								<address>
+									<settlement>Lansing</settlement>
+									<region>MI</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Kevin</forename><forename type="middle">E</forename><surname>Wehrly</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Contributors Michigan Department of Natural Resources</orgName>
+								<orgName type="department" key="dep2">Michigan Department of Natural Resources</orgName>
+								<orgName type="institution">Michigan Natural Features Inventory Bay Mills Indian Community</orgName>
+								<address>
+									<settlement>Lansing</settlement>
+									<region>MI</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">John</forename><forename type="middle">M</forename><surname>Bauman</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Contributors Michigan Department of Natural Resources</orgName>
+								<orgName type="department" key="dep2">Michigan Department of Natural Resources</orgName>
+								<orgName type="institution">Michigan Natural Features Inventory Bay Mills Indian Community</orgName>
+								<address>
+									<settlement>Lansing</settlement>
+									<region>MI</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Justin</forename><forename type="middle">J</forename><surname>Bopp</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Contributors Michigan Department of Natural Resources</orgName>
+								<orgName type="department" key="dep2">Michigan Department of Natural Resources</orgName>
+								<orgName type="institution">Michigan Natural Features Inventory Bay Mills Indian Community</orgName>
+								<address>
+									<settlement>Lansing</settlement>
+									<region>MI</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">John</forename><forename type="middle">T</forename><surname>Buszkiewicz</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Contributors Michigan Department of Natural Resources</orgName>
+								<orgName type="department" key="dep2">Michigan Department of Natural Resources</orgName>
+								<orgName type="institution">Michigan Natural Features Inventory Bay Mills Indian Community</orgName>
+								<address>
+									<settlement>Lansing</settlement>
+									<region>MI</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Arthur</forename><forename type="middle">R</forename><surname>Cooper</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Contributors Michigan Department of Natural Resources</orgName>
+								<orgName type="department" key="dep2">Michigan Department of Natural Resources</orgName>
+								<orgName type="institution">Michigan Natural Features Inventory Bay Mills Indian Community</orgName>
+								<address>
+									<settlement>Lansing</settlement>
+									<region>MI</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Brian</forename><forename type="middle">J</forename><surname>Gunderman</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Contributors Michigan Department of Natural Resources</orgName>
+								<orgName type="department" key="dep2">Michigan Department of Natural Resources</orgName>
+								<orgName type="institution">Michigan Natural Features Inventory Bay Mills Indian Community</orgName>
+								<address>
+									<settlement>Lansing</settlement>
+									<region>MI</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Michael</forename><forename type="middle">R</forename><surname>Hillary</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Contributors Michigan Department of Natural Resources</orgName>
+								<orgName type="department" key="dep2">Michigan Department of Natural Resources</orgName>
+								<orgName type="institution">Michigan Natural Features Inventory Bay Mills Indian Community</orgName>
+								<address>
+									<settlement>Lansing</settlement>
+									<region>MI</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Katelyn</forename><forename type="middle">B</forename><surname>King</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Contributors Michigan Department of Natural Resources</orgName>
+								<orgName type="department" key="dep2">Michigan Department of Natural Resources</orgName>
+								<orgName type="institution">Michigan Natural Features Inventory Bay Mills Indian Community</orgName>
+								<address>
+									<settlement>Lansing</settlement>
+									<region>MI</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Mica</forename><surname>Kromrey</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Contributors Michigan Department of Natural Resources</orgName>
+								<orgName type="department" key="dep2">Michigan Department of Natural Resources</orgName>
+								<orgName type="institution">Michigan Natural Features Inventory Bay Mills Indian Community</orgName>
+								<address>
+									<settlement>Lansing</settlement>
+									<region>MI</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Kathleen</forename><forename type="middle">B</forename><surname>Quebedeaux</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Contributors Michigan Department of Natural Resources</orgName>
+								<orgName type="department" key="dep2">Michigan Department of Natural Resources</orgName>
+								<orgName type="institution">Michigan Natural Features Inventory Bay Mills Indian Community</orgName>
+								<address>
+									<settlement>Lansing</settlement>
+									<region>MI</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Jack</forename><forename type="middle">E</forename><surname>Taylor</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Contributors Michigan Department of Natural Resources</orgName>
+								<orgName type="department" key="dep2">Michigan Department of Natural Resources</orgName>
+								<orgName type="institution">Michigan Natural Features Inventory Bay Mills Indian Community</orgName>
+								<address>
+									<settlement>Lansing</settlement>
+									<region>MI</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Frank</forename><forename type="middle">N 2026</forename><surname>Zomer</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Contributors Michigan Department of Natural Resources</orgName>
+								<orgName type="department" key="dep2">Michigan Department of Natural Resources</orgName>
+								<orgName type="institution">Michigan Natural Features Inventory Bay Mills Indian Community</orgName>
+								<address>
+									<settlement>Lansing</settlement>
+									<region>MI</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><surname>Michigan'</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Contributors Michigan Department of Natural Resources</orgName>
+								<orgName type="department" key="dep2">Michigan Department of Natural Resources</orgName>
+								<orgName type="institution">Michigan Natural Features Inventory Bay Mills Indian Community</orgName>
+								<address>
+									<settlement>Lansing</settlement>
+									<region>MI</region>
+								</address>
+							</affiliation>
+						</author>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">C23B21E819EFDA89CA68C8834C991843</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.1" ident="GROBID" when="2026-07-06T12:27+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>What are littoral zones?</head><p>Littoral zones are the interface between the adjacent uplands and open water of lakes. They are defined as the area of the lake shallow enough to allow sufficient sunlight penetration for aquatic plants to grow. As such, littoral zones contribute significantly to the productivity of lakes. The size of the littoral zone in relation to the open water zone varies among lakes and is largely dependent on lake basin shape (e.g., the length and slope of the nearshore areas) and water clarity. In shallow lakes, the littoral zone may extend far from the shoreline, whereas lakes with steep dropoffs will have a narrow littoral band. Littoral zone plant communities are influenced by lake size, depth, water clarity, water chemistry, nutrient availability, wave energy and sediment composition. Shallow nearshore areas support emergent vegetation, such as sedges, rushes and cattails. As water depth increases from the nearshore area, floating-leaf plants such as white and yellow water lillies become more abundant in shallow waters. Submersed aquatic plants, such as wild celery and a variety of pondweeds, typically become more dominant as rooted floatingleaf species taper off and depths increase. Aquatic plants provide crucial habitats at different life stages of many fish species. They serve as substrates for eggs and refuges for juvenile fish, as well as provide habitat for species that require plants for their existence <ref type="bibr" target="#b38">(O'Neal and Soulliere 2006)</ref>. This diversity of plant life along with the microhabitats provided by sand, gravel, rock and structural habitat like fallen trees, are essential for all lake-dwelling species and provides the foundation for the aquatic food web.</p><p>Healthy littoral zones are equally important to wetland wildlife and often overlap with Great Lakes marsh and inland emergent wetlands. The distribution and abundance of aquatic plants directly influences foraging activity by ducks, geese and wading birds. Some species of shorebirds are reliant on shallow, vegetated areas, while others depend on forage found in the mudflats of the upper littoral zone <ref type="bibr" target="#b45">(Soulliere et al. 2007)</ref>. Waterfowl and shorebirds nest in emergent vegetation and often incorporate aquatic plant material in their nests. Other wetlanddependent species, including amphibians and reptiles, rely on this habitat for breeding, rearing and foraging. Several species of aquatic mammals spend much of their lives within the nearshore areas of the littoral zone.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Why are littoral zones important?</head><p>Healthy littoral zones contain a diversity of plant species that provide habitat and a food source for a diversity of animals, including invertebrates, fish, amphibians, reptiles, shorebirds, waterfowl and mammals. Aquatic plants growing in the littoral zones play an important role in maintaining the water quality by absorbing phosphorus, nitrogen and other nutrients in the water that could otherwise cause nuisance algal blooms. Healthy stands of floating-leaf and emergent plants protect the shoreline by dissipating erosive wave action. Native macroalgae like Chara also can stabilize sediments and improve water quality. Quality recreational fisheries depend directly on the condition of the littoral zone. Fish and wildlife resources associated with littoral zones in Michigan lakes are vast and provide significant recreational, ecological and economic benefits to the citizens of the state. Fishing, waterfowl hunting and wildlife viewing are important cultural activities collectively valued in the millions of dollars.</p><p>What impacts the health of littoral zones?</p><p>Human activity along the shorelines of lakes can dramatically affect the health of littoral zones. Routine, excessive and often dramatic removal of aquatic vegetation deemed to be a nuisance to shoreline property owners and the effects of invasive aquatic vegetation on native plants degrades the condition of littoral zone habitats. Sedimentation and nutrient runoff from mowed lawns, impervious surfaces, septic systems and other land cover alterations may smother fish eggs and increase nutrient pollution. Many littoral zones in Michigan have been altered by shoreline armoring, like riprap and seawalls and removal of fallen trees. Furthermore, attempts to address erosion from boat wakes, wind waves and other sources have led to widespread shoreline hardening through riprap and seawalls. The most significant alterations to littoral zones occur in large lakes and lakes in southern Michigan due to human disturbance <ref type="bibr" target="#b47">(Wehrly et al. 2012)</ref>. Additional threats to the habitats of littoral zones include loss of connectivity to populations in other lakes through culverts, dams and other obstructions <ref type="bibr" target="#b13">(Cooper et al. 2022)</ref> </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Goals</head><p>• Increase protection of littoral habitats which includes natural shorelines and associated wetlands, native riparian, emergent, floating and submersed vegetation and coarse woody habitat.</p><p>Call out box: Hardened shoreline. Construction of seawalls fragments the interface between the uplands and the littoral zone preventing free movements of wildlife. Seawalls also remove the natural energy dissipating capacity of a sloped shoreline and natural vegetation, resulting in increased erosive energy along the shoreline and increased scour in littoral zones.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Focal species</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Blanchard's cricket frog</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Acris blanchardi</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>State threatened</head><p>Blanchard's Cricket Frog is a member of the treefrog family. Adults have moist, warty skin that is gray, reddish brown, green, or olive colored. As their name implies, Blanchard's Cricket Frogs are small, only 1.5 inches. Blanchard's Cricket Frogs are the most aquatic of all tree frogs. Specific habitat needs include permanent ponds, lakes, slow-moving streams and rivers and other waterbodies and wetlands with aquatic vegetation and sparsely vegetated muddy or sandy shorelines or mud flats. Historically, Blanchard's Cricket Frog occurred throughout the southern third of Michigan's Lower Peninsula. There are recent observations (2014 -2024) throughout the historical range, although information on abundance, potential viability and management needs of existing populations is lacking.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Goals</head><p>• Assess the status and potential viability of extant populations.</p><p>• Identify and maintain at least 10-20 viable populations distributed throughout the species' range.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Eastern pondmussel</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Sagittunio nasutus</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>State endangered</head><p>The Eastern pondmussel is a member of the unionidae family. It is elongate and compressed and contains a distinct posterior ridge with a low beak. The Eastern pondmussel is primarily found in lakes, ponds and slack-water areas of stream reaches <ref type="bibr" target="#b34">(Mulcrone and Rathbun 2020)</ref>.</p><p>Historically, the Eastern pondmussel also has been found in connecting waterbodies of all five of the Great lakes, however, populations have declined primarily due to habitat destruction and invasive dreissenid mussels (COSEWIC 2017; MNFI 2025).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Goals</head><p>• Establish baseline status and distribution.</p><p>• Maintain existing populations.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Manoomin</head><p>Zizania palustris, Z. aquatica</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>State threatened (Z. aquatica)</head><p>There are two species of manoomin, Z. palustris and Z. aquatica. Throughout this plan we use manoomin to refer to these species, which are also referred to as mnoomin, mnomen and wild rice. Manoomin is an annual grass that grows in shallow areas of inland lakes, streams and Great Lakes coastal wetlands. It has cultural, spiritual and dietary importance for many indigenous peoples throughout Michigan. Because its grains are nutrient rich, it is an important food source for migrating waterfowl. The physical structure of manoomin stabilizes soft sediments and creates important habitat for predatory and young fishes. Manoomin is the main reason that Anishinaabe settled in the Great Lakes region and they have had a relationship with manoomin for thousands of years. Although manoomin was historically prevalent throughout the state, it is only found today in a fraction of historic locations. Currently Z. aquatica is listed as State Threatened and Z. palustris is included in this plan as a Species of Greatest Information Need in order to maintain monitoring and protection and to prevent it from becoming a Species of Greatest Conservation Need.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Goals</head><p>• Maintain existing populations and restore areas where manoomin has been lost.</p><p>• Fully incorporate goals of Michigan Wild Rice Stewardship Plan <ref type="bibr">(MWRI 2025)</ref> into conservation planning at all levels.</p><p>• Establish statewide protections and harvest regulations.</p><p>Range map shows Zizania aquatica, Zizania palustris is not currently tracked in the state's Natural Heritage Database.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Pugnose Shiner</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Notropsis anogenus</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>State endangered</head><p>The Pugnose Shiner is a small, straw-colored minnow with a distinctively small, upturned mouth. This species has a dark lateral band that extends from the tail through the eye and around the snout. The Pugnose Shiner inhabits clear, well-vegetated lakes and vegetated pools in low gradient rivers and requires dense stands of aquatic plants in nearshore areas <ref type="bibr" target="#b44">(Scott and Crossman 1973;</ref><ref type="bibr" target="#b46">Trautman 1981)</ref>. Historically this species was found in 18 watersheds in Michigan's Lower Peninsula. In the past 20 years, the Pugnose Shiner has only been documented in five locations. This species is rare or critically imperiled throughout its range.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Goals</head><p>• Maintain existing populations.</p><p>• Develop a better understanding of critical life stage characteristics and habitat use.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Starhead Topminnow</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Fundulus dispar</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Special concern</head><p>The Starhead Topminnow is a small, olive-tan minnow-like fish with a series of red to brown spots arranged horizontally along the sides. This killifish has a conspicuous gold spot on top of the head. Starhead Topminnows inhabit shallow, quiet waters with an abundance of submersed vegetation <ref type="bibr" target="#b12">(Becker 1983</ref>). This species is uncommon and any reductions in its populations or habitats could cause it to become state threatened.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Goals</head><p>• Establish baseline status and distribution.</p><p>• Develop a better understanding of critical life stage characteristics and habitat use.  • Introduction of non-native and invasive species such as Common Carp, red swamp crayfish, rusty crayfish and other species, may result in loss of high-quality aquatic plant beds, increased turbidity and nuisance algal growth <ref type="bibr" target="#b16">(Dibble and Kovalenko 2009;</ref><ref type="bibr" target="#b28">Lodge et al. 1994</ref>).</p><p>• Invasive crayfish can negatively impact foodwebs through their impacts on the macroinvertebrate community <ref type="bibr">(Ficetola et al. 2012;</ref><ref type="bibr" target="#b28">Lodge et al. 1994</ref>).</p><p>• Littoral zones can be greatly altered by the presence of invasive dreissenid mussels. The establishment of dreissenid mussels often sequesters nutrients in benthic biomass, stimulates toxic algal blooms and outcompetes native mussels <ref type="bibr" target="#b42">(Schloesser et al. 1998</ref><ref type="bibr" target="#b11">, Baker and Levinton 2003</ref><ref type="bibr" target="#b24">, Knoll et al. 2008</ref><ref type="bibr">, Mayer et al. 2014</ref>).</p><p>• Introduction of new pathogens through fish stocking, bait, or other possible vectors could result in disease and die-offs of fish and waterfowl.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Natural system management &amp; modifications</head><p>• Loss and degradation of habitat occurs when nearshore areas are filled to create swimming areas or largescale lake-bottom dredging is conducted for recreational boating (O'Neal and Soulliere 2006).</p><p>• Loss of connectivity between littoral and shoreland habitats occurs due to the hardening of shorelines with seawalls and riprap <ref type="bibr" target="#b15">(Derosier 2004;</ref><ref type="bibr" target="#b47">Wehrly et al. 2012</ref>).</p><p>• Loss of emergent vegetation and stable shorelines due to lake-level control structures that establish artificially high lake levels in the open water months and abnormally low levels during periods of ice cover (O'Neal and Soulliere 2006).</p><p>• Simplification of habitats by the removal of coarse woody material in shallow water <ref type="bibr" target="#b47">(Wehrly et al. 2012</ref>).</p><p>• Beach grooming, mechanical harvest and application of aquatic herbicides remove crucial native emergent and submersed vegetation which provides habitats for focal species (O'Neal and Soulliere 2006; Environment Canada 2011).</p><p>• Increased siltation and turbidity results from changes in land use along the shoreline and within the watershed <ref type="bibr" target="#b12">(Becker 1983;</ref><ref type="bibr" target="#b15">Derosier 2004</ref>).</p><p>• Lake level modifications can potentially disrupt natural seasonal flooding of marshes and wetlands, increase shoreline erosion and affect the quality of spawning habitats.</p><p>• Large quantity ground or surface water withdrawals can lead to low water levels, which can result in loss of habitat for nearshore plants and animals.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Residential, commercial, &amp; recreation areas</head><p>• Loss of emergent and submersed wetland habitats due to shoreline development (O'Neal and Soulliere 2006; Environment Canada 2011).</p><p>• Loss of riparian vegetation results in increased erosion, increased nutrient runoff and loss of habitat for amphibious and nearshore species. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Human intrusions &amp; disturbances</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conservation Actions</head><p>Land and water management H1. Develop partnerships with lake associations and riparian landowners to restore and protect natural shorelines, large wood and aquatic vegetation. [CON;GRA; FD; KRA; MILP; MWRI] H2. Implement Michigan's Aquatic Invasive Species State Management Plan. [AIS; FD]  H3. Implement invasive species decontamination and prevention protocols. [AIS; CC; FD]  H4. Continue early detection response efforts for invasive species. [AIS; FD]  H5. Increase coarse woody habitat through installation of "fish sticks" in areas where they will not interfere with navigation.</p><p>Raising awareness H6. Work with conservation districts and lake associations to inform public of the ecological and cultural values of healthy Littoral Zone habitats and best management practices. [CON; GRA; FD KRA; MWRI] H7. Use existing relationships with the Department of Environment, Great Lakes and Energy, Michigan Inland Lakes Partnership and the Michigan Natural Shoreline Partnership to curtail the spread of aquatic invasive species, abate nonpoint source pollution and maintain shoreline habitats. [FD]  H8. Collaborate with lake associations and boat retailers to promote best practices for operating boats and personal watercraft in a manner that minimizes littoral zone effects and the risk of aquatic invasive species transfer. H9. Collaborate with outreach and education programs to develop freshwater mussel and SGCN species exhibits at state facilities. H10.</p><p>Collaborate on ongoing irrigation outreach programs to raise awareness on maintenance and improvement of irrigation systems to improve water use efficiency. <ref type="bibr">[WUAC]</ref> Conservation designation &amp; planning H11.</p><p>Protect natural shorelines, aquatic vegetation and coarse woody habitat through the review of environmental permits. [FD]  H12.</p><p>Establish best management practices and guidelines for use in developing and implementing aquatic vegetation management plans that achieve landowner goals while maintaining the biological integrity of the lake ecosystem. [FD]   Law &amp; policy H13.</p><p>Continue to administer an effective Michigan Department of Environment, Great Lakes and Energy protection program for wetlands, lakes and streams and provide incentives for conservation practices. H14.</p><p>Take appropriate enforcement actions for violations of the Invasive Species Order and maintain the Prohibited and Restricted Species list pursuant to the Natural Resources and Environmental Protection Act, 451 of 1994, as amended. [AIS; FD]  H15.</p><p>Update aquatic herbicide treatment reporting system to improve analysis of aquatic herbicide treatment effects on vegetation, fish, mussels and the lake ecosystem.</p><p>Research &amp; monitoring H16.</p><p>Develop and implement quantitative habitat survey methods for inland lakes to establish assessments of vegetation communities and their management to improve analysis and understanding of distribution, abundance and relationships with Species of Greatest Conservation Need. [FD]  H17.</p><p>Assess changes in hydrology due to actions that affect lake water levels such as lake level management, large quantity water withdrawals and other activities as relates to SGCN that rely on littoral zones. [FD]  H18.</p><p>Refine species maps, habitat suitability models and priority maps based on field data, updated GIS layers and updated downscaled climate projections. H19.</p><p>Increase use of Score the Shore protocols by citizen scientists and other partners to map and assess inland lake shoreline habitats.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Threats and conservation actions for focal species</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Blanchard's cricket frog</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Threats</head><p>Lack of knowledge</p><p>• Lack of information on distribution, relative abundance, population demographics and trends and limiting factors <ref type="bibr" target="#b27">(Lee et al. 2000;</ref><ref type="bibr">Lanoo 2006</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Residential &amp; commercial development</head><p>• Dispersal, recolonization opportunities and genetic mixing are restricted when connectivity between habitats is lost (Environment Canada 2011).</p><p>• Roads, particularly highways, can cause adult mortality and reduce or prevent gene flow between populations (Environment Canada 2011, <ref type="bibr" target="#b50">Youngquist et al. 2017</ref><ref type="bibr">, Rainey 2023, Rainey et al. In review)</ref>.</p><p>Invasive / other problematic species, genes, &amp; pathogens</p><p>• Increased mortality through introductions of predatory fish species (Environment Canada 2011).</p><p>• Invasive species, such as common reed (Phragmites australis australis) can reduce availability of suitable habitat (Environment Canada 2011).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Pollution</head><p>• The viability of Blanchard's cricket frog adults, larvae and eggs and successful reproduction may decrease due to bioaccumulation of contaminants (Environment Canada 2011).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Changing Weather Patterns</head><p>• Changes in precipitation and hydrology that result in increased flooding and/or drought can negatively impact Blanchard's Cricket Frog survival, dispersal and/or habitat (Environment Canada 2011).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conservation Actions</head><p>Conservation designation &amp; planning ST1. Develop a conservation strategy for Blanchard's cricket frog that focuses on viable/potentially viable populations and priority management needs for maintaining such populations.</p><p>Research &amp; monitoring ST2.</p><p>Develop and implement targeted surveys and monitoring using a standardized protocol and model to assess and monitor the distribution and status of Blanchard's cricket frogs and identify viable populations. ST3.</p><p>Determine threats and causes of population decline.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Eastern pondmussel</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Threats</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Lack of knowledge</head><p>• Lack of information on distribution and relative abundance.</p><p>Invasive / other problematic species, genes, &amp; pathogens</p><p>• Invasive dreissenid mussels can cause mortality through fouling and food competition <ref type="bibr" target="#b11">(Baker and Levinton 2003;</ref><ref type="bibr" target="#b42">Schloesser et al. 1998</ref>).</p><p>• Loss of genetic diversity and bottlenecks have been identified in Michigan populations <ref type="bibr">(Scott et al. 2019)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Natural system management &amp; modifications</head><p>• Direct mortality of Eastern pondmussels due to dredging or placement of fill in areas with existing mussel beds.</p><p>• Mortality of mussels due to aquatic herbicide treatments. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Pugnose Shiner</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Threats</head><p>Lack of knowledge</p><p>• Lack of updated information on distribution, relative abundance, limiting factors, biology, specific habitat needs, impacts of aquatic herbicides and vegetation removal on populations <ref type="bibr" target="#b15">(Derosier 2004;</ref><ref type="bibr" target="#b14">COSEWIC 2013;</ref><ref type="bibr">FOC 2012)</ref>.</p><p>Invasive / other problematic species, genes, &amp; pathogens</p><p>• Increased mortality through introductions of predatory fish species (COSEWIC 2013).</p><p>• Removal of aquatic macrophytes through herbicides, mechanical harvesting and other means.</p><p>Law &amp; policy ST4. Use information from Starhead Topminnow and aquatic vegetation research to refine permit conditions for Aquatic Nuisance Control and Threatened and Endangered species permits to ensure adequate protection for this species during vegetation management activities.</p><p>How will we monitor?</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Habitat</head><p>• Use Michigan Department of Natural Resources Status and Trends surveys and targeted surveys to determine status of habitat.</p><p>• Continue Michigan Department of Environment Great Lakes and Energy aquatic habitat and water quality monitoring.</p><p>• Increase implementation and assessment of Cooperative Lake Monitoring Program surveys such as Score the Shore and Exotic Aquatic Plant Watch.</p><p>• Assess changes to shoreline habitats over time and at statewide scales using remotesensed techniques.</p><p>• Partner with universities and nongovernmental organizations to develop methods for conducting, storing in a centralized database and analyzing aquatic vegetation data to address statewide research and monitoring needs.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Blanchard's cricket frog</head><p>• Conduct targeted surveys and monitoring using a standardized protocol to determine current distribution, relative abundance, trends and habitat needs.</p><p>• Continue to update element occurrences in the state's Natural Heritage Database.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Eastern pondmussel</head><p>• Conduct targeted surveys to determine current distribution, relative abundance, trends and habitat needs.</p><p>• Continue to update element occurrences in the state's Natural Heritage Database.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Manoomin</head><p>• Work with Tribes and Michigan Wild Rice Initiative to establish standard monitoring protocols that can be adopted at a statewide level.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Pugnose Shiner</head><p>• Conduct targeted surveys to determine current distribution, relative abundance, trends and habitat needs.</p><p>• Continue to update element occurrences in the state's Natural Heritage Database.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Starhead Topminnow</head><p>• Conduct targeted surveys to determine current distribution, relative abundance, trends and habitat needs.</p><p>• Continue to update element occurrences in the state's Natural Heritage Database. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Places for partnership</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Links to other conservation plans</head><p>There have been a multitude of relevant planning efforts across the state and country over the past ten years. Bracketed superscripts throughout the Wildlife Action Plan indicate where the conservation action, goal, or monitoring strategy aligns with those from another plan. For conservation plans with distinct objectives, the objective or strategy number is also included. This linking of plans is meant to facilitate the expansion of partnerships.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head></head><label></label><figDesc>Call out box: How vulnerable are focal species to a changing environment? Cooper et al. (2022), ITCMI (2016) and Hoving et al. (2013) determined climate vulnerabilities for focal species. Climate vulnerability rankings are based on the likelihood and amount of change in species abundance or range by 2050 -high = likely to significantly decrease; moderate = a modest decrease is likely; stable = likely to remain unchanged.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head></head><label></label><figDesc>This map was designed by partners to help them connect around important places for focal species. Working together on conservation actions on a voluntary basis provides great benefits to wildlife and people. This map is based on the number of focal species occurrences by watershed. Partners seeking more detailed, interactive and up-to-date set of focal habitats that serve as conservation priorities for coldwater lakes and other Wildlife Action Plan chapters can find this information on the Department of Natural Resources' Wildlife Action Plan Conservation Mapper, available at this website: [To be determined].</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="3,72.00,276.02,337.80,337.80" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="4,72.00,231.82,337.50,337.50" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="5,72.00,310.26,337.50,337.50" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="6,72.00,299.77,337.80,337.80" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head></head><label></label><figDesc>Below the water's surface, woody habitat in the form of fallen trees provides crucial fish cover and substrate for aquatic insects. Fisheries research has demonstrated that removal of trees from the littoral zone can affect the distribution of fish<ref type="bibr" target="#b41">(Sass 2006;</ref><ref type="bibr" target="#b9">Ahrenstorff et al. 2009)</ref>. Fallen tree limbs that are above the water's surface provide perches for Cedar Waxwings and other birds, loafing and basking areas for turtles and waterfowl and feeding platforms for mink and other mammals.</figDesc><table><row><cell>Blanchard's cricket frog</cell><cell>High</cell></row><row><cell>Eastern pondmussel</cell><cell>Moderate</cell></row><row><cell>Manoomin</cell><cell>High</cell></row><row><cell>Pugnose Shiner</cell><cell>Moderate</cell></row><row><cell>Starhead Topminnow</cell><cell>Stable</cell></row><row><cell>Call out box: Did you know?</cell><cell></cell></row><row><cell>Species</cell><cell>Climate Vulnerability</cell></row></table><note><p><p>Threats and conservation actions for habitat</p>Threats Invasive / other problematic species, genes, &amp; pathogens • Invasive species can become established (e.g., Eurasian water milfoil, starry stonewort, invasive Phragmites, European frog-bit) and crowd out native species, especially when native aquatic plants are suppressed and shoreline vegetation is removed (O'Neal and Soulliere 2006).</p></note></figure>
+		</body>
+		<back>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conservation Actions</head><p>Research &amp; monitoring PS1.</p><p>Develop and implement targeted surveys to update the distribution and status of Pugnose Shiner using eDNA and other techniques. PS2.</p><p>Determine specific habitat requirements for all life stages of the Pugnose Shiner. PS3.</p><p>Quantify the extent to which aquatic herbicides and other vegetation management pose a significant threat to Pugnose Shiners. PS4.</p><p>Evaluate potential effects of stocked fish predators on Pugnose Shiner populations.</p><p>Law &amp; policy PS5.</p><p>Use information from Pugnose Shiner and aquatic vegetation research to refine permit conditions for Aquatic Nuisance Control and Threatened and Endangered species permits to ensure adequate protection for this species during vegetation management activities.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Starhead Topminnow</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Threats</head><p>Lack of knowledge</p><p>• Lack of information on distribution, relative abundance, limiting factors, biology, specific habitat needs and the impacts of aquatic herbicides and vegetation removal on populations <ref type="bibr">(MNFI 2015)</ref>.</p><p>Invasive / other problematic species, genes, &amp; pathogens</p><p>• Increased mortality through introductions of predatory fish species.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Human intrusions &amp; disturbances</head><p>• Removal of aquatic macrophytes through herbicides, mechanical harvesting and other means.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conservation Actions</head><p>Research &amp; monitoring ST1.</p><p>Develop and implement targeted surveys to update the distribution and status of Starhead Topminnow. ST2.</p><p>Determine specific habitat requirements for all life stages of the Starhead Topminnow. ST3.</p><p>Quantify the extent to which aquatic herbicides and other vegetation management pose a significant threat to Starhead Topminnows. ST4.</p><p>Evaluate potential effects of stocked fish predators on Starhead Topminnow populations.</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<monogr>
+		<title level="m" type="main">Michigan&apos;s aquatic invasive species state management plan 2025 update</title>
+		<author>
+			<persName><surname>Qol-Ais</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+	<note>in prep</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<title level="m" type="main">Advancing the National Fish, Wildlife and Plants Climate Adaptation Strategy into a New Decade (National Fish, Wildlife and Plants Climate Adaptation Network</title>
+		<imprint>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<title level="m">Conservation guidelines for Michigan Lakes and associated natural resources (O&apos;Neal and Soulliere</title>
+		<imprint>
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<title level="m">Grand River assessment (Hanshue and Harrington</title>
+		<imprint>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<monogr>
+		<title level="m" type="main">Charting the Course: Michigan Department of Natural Resources Fisheries Division&apos;s framework for managing aquatic resources. 2023-2029 Fisheries Division Strategic Plan</title>
+		<imprint>
+			<date type="published" when="2023">2023</date>
+			<publisher>Michigan Department of Natural Resources</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<monogr>
+		<title level="m">Kalamazoo River assessment</title>
+		<imprint>
+			<date type="published" when="2005">Wesley 2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<monogr>
+		<title level="m">Michigan inland lakes partnership strategic plan</title>
+		<meeting><address><addrLine>Michigan Inland Lakes Partnership</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<monogr>
+		<title level="m">We all live together in a good way with Manoomin: Stewardship Guide</title>
+		<imprint>
+			<publisher>Michigan Wild Rice Initiative</publisher>
+			<date type="published" when="2025">2025</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<monogr>
+		<title level="m">Water Use Advisory Council Report (Water Use Advisory Council 2022)</title>
+		<imprint>
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+	<note>Literature cited</note>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">The influence of littoral zone coarse woody habitat on home range size, spatial distribution and feeding ecology of largemouth bass (Micropterus salmoides)</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">D</forename><surname>Ahrenstorff</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">G</forename><surname>Sass</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Helmus</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Hydrobiologia</title>
+		<imprint>
+			<biblScope unit="volume">623</biblScope>
+			<biblScope unit="page" from="223" to="233" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<monogr>
+		<title level="m" type="main">An atlas of Michigan fishes with keys and illustrations for their identification</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Bailey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">C</forename><surname>Latta</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">R</forename><surname>Smith</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2004">2004</date>
+			<publisher>Miscellaneous Publication of Museum of Zoology</publisher>
+			<pubPlace>Ann Arbor, Michigan</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>University of Michigan</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Selective feeding by three native North American freshwater mussels implies food competition with zebra mussels</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Baker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Levinton</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Hydrobiologia</title>
+		<imprint>
+			<biblScope unit="volume">505</biblScope>
+			<biblScope unit="page" from="97" to="105" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<monogr>
+		<title level="m" type="main">The fishes of Wisconsin</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">C</forename><surname>Becker</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1983">1983</date>
+			<publisher>University of Wisconsin Press</publisher>
+			<pubPlace>Madison, Wisconsin</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<monogr>
+		<title level="m" type="main">Influence of spatial extent on contemporary and future threat evaluation for imperiled fluvial fishes and mussels</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">R</forename><surname>Cooper</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">E</forename><surname>Wehrly</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">K</forename><surname>Yeh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Infante</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2022">2022</date>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page">3464</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Committee on the status of endangered wildlife in Canada</title>
+		<author>
+			<persName><surname>Cosewic</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">COSEWIC assessment and status report on the Pugnose Shiner Notropis anogenus in Canada</title>
+		<editor>
+			<persName><surname>Canada</surname></persName>
+		</editor>
+		<editor>
+			<persName><surname>Ottawa</surname></persName>
+		</editor>
+		<imprint>
+			<date type="published" when="2013">2013. 2017. 2017</date>
+			<biblScope unit="page">61</biblScope>
+		</imprint>
+	</monogr>
+	<note>Eastern pondmussel (Ligumia nasuta): COSEWIC assessment and status report</note>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<monogr>
+		<title level="m" type="main">Special animal abstract for Notropis anogenus (Pugnose Shiner)</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">L</forename><surname>Derosier</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2004">2004</date>
+			<publisher>Michigan Natural Features Inventory</publisher>
+			<pubPlace>Lansing, Michigan</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Ecological impact of grass carp: A review of the available data</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">D</forename><surname>Dibble</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Kovalenko</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Aquatic Plant Management</title>
+		<imprint>
+			<biblScope unit="volume">47</biblScope>
+			<biblScope unit="page" from="1" to="15" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Relationship between abundance of largemouth bass and submerged vegetation in Texas reservoirs</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">P</forename><surname>Durocher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">C</forename><surname>Provine</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Kraai</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">North American Journal of Fisheries Management</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page" from="84" to="88" />
+			<date type="published" when="1984">1984</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Recovery strategy for the Blanchard&apos;s Cricket Frog (Acris blanchardi) in Canada</title>
+		<author>
+			<persName><surname>Ottawa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">F</forename><surname>Ficetola</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">E</forename><surname>Siesa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>De Bernardi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biodiversity Conservation</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page" from="2641" to="2651" />
+			<date type="published" when="2011">2011. 2012</date>
+			<publisher>Environment Canada</publisher>
+		</imprint>
+	</monogr>
+	<note>Complex impact of an invasive crayfish on freshwater food webs</note>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<monogr>
+		<title level="m" type="main">Adoption of the Recovery Strategy for the Pugnose Shiner (Notropis anogenus</title>
+		<imprint>
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+	<note>Fisheries and Oceans Canada (FOC). in Canada</note>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">A literature review of wake boat effects on aquatic habitat</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Francis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Nohner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Bauman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Gunderman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Fisheries Report</title>
+		<imprint>
+			<biblScope unit="volume">37</biblScope>
+			<date type="published" when="2023">2023</date>
+			<publisher>Michigan Department of Natural Resources</publisher>
+			<pubPlace>Lansing</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<monogr>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">K</forename><surname>Hanshue</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">H</forename><surname>Harrington</surname></persName>
+		</author>
+		<title level="m">Grand River Assessment. Michigan Department of Natural Resources Fisheries Report</title>
+		<meeting><address><addrLine>Lansing, Michigan</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<monogr>
+		<title level="m" type="main">Changing climate, changing wildlife: a vulnerability assessment of 400 species of greatest conservation need and game species in Michigan</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">L</forename><surname>Hoving</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Badra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">J</forename><surname>Klatt</surname></persName>
+		</author>
+		<idno>No. 3564</idno>
+		<imprint>
+			<date type="published" when="2013">2013</date>
+			<biblScope unit="page">82</biblScope>
+			<pubPlace>Lansing, Michigan</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="report_type">Wildlife Division Report</note>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<monogr>
+		<title level="m" type="main">Michigan tribal climate change vulnerability assessment and adaptation planning: Project report</title>
+		<ptr target="http://www.itcmi.org/wp-content/uploads/2022/03/2016_ITCMI_Report.pdf" />
+		<imprint>
+			<date type="published" when="2016">2016</date>
+			<publisher>Inter-Tribal Council of Michigan, Inc. (ITCMI)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Invasive zebra mussels (Dreissena polymorpha) increase cyanobacterial toxin concentrations in low-nutrient lakes</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">B</forename><surname>Knoll</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Sarnelle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">K</forename><surname>Hamilton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">E H</forename><surname>Kissman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">E</forename><surname>Wilson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Rose</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Morgan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Canadian Journal of Fisheries and Aquatic Sciences</title>
+		<imprint>
+			<biblScope unit="volume">65</biblScope>
+			<biblScope unit="page" from="448" to="455" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<monogr>
+		<title level="m" type="main">Amphibian declines: The conservation status of United States species</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Lannoo</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2006">2006</date>
+			<publisher>University of California Press</publisher>
+			<pubPlace>Berkeley</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Status of Michigan&apos;s endangered, threatened, special-concern and other fishes. 1993-2001</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">C</forename><surname>Latta</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Fisheries Research Report</title>
+		<imprint>
+			<date type="published" when="2005">2005</date>
+			<publisher>Michigan Department of Natural Resources</publisher>
+			<pubPlace>Ann Arbor, Michigan</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<monogr>
+		<title level="m" type="main">Special animal abstract for Acris crepitans blanchardi (Blanchard&apos;s cricket frog)</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Hyde</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Legge</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2000">2000</date>
+			<publisher>Michigan Natural Features Inventory</publisher>
+			<biblScope unit="page">4</biblScope>
+			<pubPlace>Lansing, Michigan</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Effects of an omnivorous crayfish (Orconectes rusticus) on a freshwater littoral food web</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Lodge</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">W</forename><surname>Kershner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Aloi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">P</forename><surname>Covich</surname></persName>
+		</author>
+		<idno type="DOI">10.2307/1937452</idno>
+		<ptr target="https://doi.org/10.2307/1937452" />
+	</analytic>
+	<monogr>
+		<title level="j">Ecology</title>
+		<imprint>
+			<biblScope unit="volume">75</biblScope>
+			<biblScope unit="page" from="1265" to="1281" />
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<monogr>
+		<title level="m" type="main">We all live together in a good way with Manoomin</title>
+		<author>
+			<persName><forename type="first">Manoomin</forename><surname>Writing</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Collaborative</forename></persName>
+		</author>
+		<ptr target="https://www.itcmi.org/home/departments/environmental-services/manoomin-stewardship-guide" />
+		<imprint>
+			<date type="published" when="2025">2025</date>
+			<publisher>Michigan Wild Rice Initiative</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">The benthification of freshwater lakes: Exotic mussels turning ecosystems upside down</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Mayer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">E</forename><surname>Burlakova</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Eklöv</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Fitzgerland</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">Y</forename><surname>Karatayev</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">A</forename><surname>Ludsin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Millard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">L</forename><surname>Mills</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">P</forename><surname>Ostapenya</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">G</forename><surname>Rudstam</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Zhu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">V</forename><surname>Zhukova</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Quagga and zebra mussels: Biology, impacts and control</title>
+		<editor>
+			<persName><forename type="first">T</forename><forename type="middle">F</forename><surname>Nalepa</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">D</forename><forename type="middle">W</forename><surname>Schloesser</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Boca Raton, Florida</addrLine></address></meeting>
+		<imprint>
+			<publisher>CRC Press</publisher>
+			<date type="published" when="2013">2013</date>
+			<biblScope unit="page" from="575" to="586" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<monogr>
+		<title level="m" type="main">Michigan Quality of Life Agencies Aquatic Invasive Species Team et al. (QOL-AIS et al.). In prep. Michigan&apos;s aquatic invasive species state management plan 2025 update</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<monogr>
+		<title level="m" type="main">Charting the Course: Michigan Department of Natural Resources Fisheries Division&apos;s framework for managing aquatic resources. 2023-2029 Fisheries Division Strategic Plan</title>
+		<ptr target="https://www.michigan.gov/dnr/-/media/Project/Websites/dnr/Documents/managing/fisheries/Strategic-Plan_2023.pdf" />
+		<imprint>
+			<date type="published" when="2023">2023</date>
+			<publisher>Michigan Department of Natural Resources (DNR)</publisher>
+		</imprint>
+	</monogr>
+	<note>rev=c3969e99c8784345bd72dba4af257a16</note>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<monogr>
+		<title level="m" type="main">Rare species explorer (Web application)</title>
+		<ptr target="https://mnfi.anr.msu.edu/species" />
+		<imprint>
+			<date type="published" when="2025">2025</date>
+			<publisher>Michigan Natural Features Inventory (MNFI)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<monogr>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">S</forename><surname>Mulcrone</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Rathbun</surname></persName>
+		</author>
+		<title level="m">Pocket field guide to the freshwater mussels of Michigan</title>
+		<imprint>
+			<publisher>Michigan Department of Natural Resources</publisher>
+			<date type="published" when="2020">2020</date>
+			<biblScope unit="page">78</biblScope>
+		</imprint>
+	</monogr>
+	<note>nd ed.</note>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<monogr>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">F</forename><surname>Nalepa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">W</forename><surname>Schloesser</surname></persName>
+		</author>
+		<title level="m">Quagga and zebra mussels: Biology, impacts and control</title>
+		<meeting><address><addrLine>Boca Raton, Florida</addrLine></address></meeting>
+		<imprint>
+			<publisher>CRC Press</publisher>
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+	<note>nd ed.</note>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<monogr>
+		<title level="m" type="main">Advancing the national fish, wildlife and plants climate adaptation strategy into a new decade</title>
+		<imprint>
+			<date type="published" when="2021">2021</date>
+			<publisher>Association of Fish and Wildlife Agencies</publisher>
+			<pubPlace>Washington, DC</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>National Fish</orgName>
+		</respStmt>
+	</monogr>
+	<note>Wildlife and Plants Climate Adaptation Network</note>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<monogr>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">J</forename><surname>Newton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">A</forename><surname>Johnson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">H</forename><surname>Hu</surname></persName>
+		</author>
+		<idno type="DOI">10.3133/cir1511</idno>
+		<ptr target="https://doi.org/10.3133/cir1511" />
+		<title level="m">2023, U.S. Geological Survey science vision for native freshwater mussel research in the United States: U.S. Geological Survey Circular 1511</title>
+		<imprint>
+			<biblScope unit="page">15</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Conservation guidelines for Michigan Lakes and associated natural resources</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">P</forename><surname>O'neal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">J</forename><surname>Soulliere</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Fisheries Special Report</title>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<date type="published" when="2006">2006</date>
+			<publisher>Michigan Department of Natural Resources</publisher>
+			<pubPlace>Ann Arbor, Michigan</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<monogr>
+		<title level="m" type="main">Persistence and population genetics of a threatened frog in a fragmented landscape</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">A</forename><surname>Rainey</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2023">2023</date>
+			<biblScope unit="page">107</biblScope>
+			<pubPlace>Michigan</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>Central Michigan University, Mt. Pleasant</orgName>
+		</respStmt>
+	</monogr>
+	<note type="report_type">M.S. Thesis</note>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<monogr>
+		<title level="m" type="main">In review. High genetic diversity but low connectivity of peripheral, threatened populations of the Blanchard&apos;s cricket frog</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">A</forename><surname>Rainey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">E</forename><surname>Nicholson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">P</forename><surname>Wells</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">J</forename><surname>Swanson</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">Fish community and food web responses to a whole-lake removal of coarse woody habitat</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">G</forename><surname>Sass</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">F</forename><surname>Kitchell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">R</forename><surname>Carpenter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">R</forename><surname>Hrabik</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">E</forename><surname>Marburg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">G</forename><surname>Turner</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Fisheries</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="page" from="321" to="330" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<title level="a" type="main">Impact of zebra and quagga mussels (Dreissena spp.) on freshwater unionids (Bivalvia: Unionidae) in the Detroit River of the Great Lakes</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">W</forename><surname>Schloesser</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">P</forename><surname>Kovalak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">D</forename><surname>Longton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">L</forename><surname>Ohnesorg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">D</forename><surname>Smithee</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The American Midland Naturalist</title>
+		<imprint>
+			<biblScope unit="volume">140</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="325" to="342" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<title level="a" type="main">Population structure, genetic diversity and colonization history of the eastern pondmussel, Sagittunio nasutus, in the Great Lakes drainage</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">W</forename><surname>Scott</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">J</forename><surname>Morris</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">T</forename><surname>Zanatta</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Aquatic Conservation: Marine and freshwater Ecosystems</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="631" to="646" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<analytic>
+		<title level="a" type="main">Freshwater fishes of Canada</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">B</forename><surname>Scott</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">J</forename><surname>Crossman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Fisheries Research Board of Canada</title>
+		<imprint>
+			<date type="published" when="1973">1973</date>
+			<biblScope unit="volume">184</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<monogr>
+		<title level="m" type="main">Upper Mississippi River and Great Lakes Region Joint Venture waterbird habitat conservation strategy</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">J</forename><surname>Soulliere</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">A</forename><surname>Potter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Holm</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Granfors</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Monfils</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">J</forename><surname>Lewis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">E</forename><surname>Thogmartin</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2007">2007</date>
+			<publisher>U.S. Fish and Wildlife Service</publisher>
+			<biblScope unit="page">68</biblScope>
+			<pubPlace>Fort Snelling; Minnesota</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<analytic>
+		<title level="a" type="main">The fishes of Ohio</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">B</forename><surname>Trautman</surname></persName>
+		</author>
+		<ptr target="https://www.michigan.gov/egle/-media/Project/Websites/egle/Documents/Groups/WUAC/Reports/Report-2022-WUAC" />
+	</analytic>
+	<monogr>
+		<title level="m">Water Use Advisory Council. 2022. 2022 Water Use Advisory Council report</title>
+		<meeting><address><addrLine>Columbus</addrLine></address></meeting>
+		<imprint>
+			<publisher>Ohio State University Press</publisher>
+			<date type="published" when="1981">1981</date>
+			<biblScope unit="page">782</biblScope>
+		</imprint>
+	</monogr>
+	<note>pdf?rev=e5c3fba2de7f49f394388ecf060f8854</note>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<analytic>
+		<title level="a" type="main">Assessing local and landscape patterns of residential shoreline development in Michigan lakes</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">E</forename><surname>Wehrly</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Breck</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Szabo-Kraft</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lake and Reservoir Management</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="158" to="169" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<monogr>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">E</forename><surname>Wehrly</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Hayes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">C</forename><surname>Wills</surname></persName>
+		</author>
+		<title level="m">Status and trends of Michigan inland lake resources 2002-2007. Michigan Department of Natural Resources, Fisheries Report 08</title>
+		<meeting><address><addrLine>Lansing, Michigan</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<analytic>
+		<title level="a" type="main">Kalamazoo River Assessment. Michigan Department of Natural Resources, Fisheries Division</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">K</forename><surname>Wesley</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Special Report</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<date type="published" when="2005">2005</date>
+			<pubPlace>Ann Arbor, Michigan</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<analytic>
+		<title level="a" type="main">Effects of land use on population presence and genetic structure of an amphibian in an agricultural landscape</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">B</forename><surname>Youngquist</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Inoue</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Berg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">D</forename><surname>Boone</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Landscape Ecology</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="page" from="147" to="162" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>
+

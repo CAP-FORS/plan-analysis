@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main"></title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">C4725B4149D833AA1D16C591093781A8</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.1" ident="GROBID" when="2026-07-06T11:45+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract/>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<body/>
+		<back>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Appendix 15. List of Iowa Crayfish Evaluated by the IWAP Taxonomic order and scientific names derived from: <ref type="bibr">Bloomer, CC and CA Taylor (2020)</ref>. American Crayfish Atlas. Internet.</p><p>SGCN refers to Species of Greatest Conservation Need (SGCN) status as determined through IWAP species conservation status assessments. Y: Yes, species is SGCN. Blank: No, species is not SGCN.</p><p>T/E Status: Refers to whether a species is federally listed as Endangered, Threatened, or Candidate at the time of this plan's publication. It also refers to those species proposed for Endangered, Threatened or Delisting status at the state level. For up-to-date state of Iowa listing information, please see the Threatened and Endangered Species Program page on the DNR website.</p><p>• Regional SGCN: To access more information about this effort and for the updated list of Regional SGCN.</p><p>• R: Species is considered a Regional Species of Greatest Conservation Need in the Midwest.</p><p>• W: Watchlist. This is a list of species for which there was concern but insufficient information or differing trends across the region (WA: Watchlist -Assessment Priority). For some species this is because there is a different region of the country that is more important to the species than the Midwest (WD: Watchlist -Defer to adjacent region). • PR: R: Species is proposed as a Regional Species of Greatest Conservation Need in the Midwest, if a Midwest state lists the species as SGCN.</p><p>Assessments of species conservation status undertaken as part of the IWAP are used to determine SGCN status. Other information is provided as a reference. Updates to State Wildlife Action Plans, Regional SGCN lists, Federal T&amp;E Status, etc., are each independent processes, undertaken by different entities with differing timeframes. As such, the various listings or status ranks for a given species at a given point in time may not always appear to be in accord. Please visit the links above for updated information. </p></div>			</div>
+			<div type="references">
+
+				<listBibl/>
+			</div>
+		</back>
+	</text>
+</TEI>
+

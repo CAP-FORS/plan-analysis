@@ -1,0 +1,656 @@
+{
+  "document_meta": {
+    "title": "Forest Action Plan",
+    "year": 2020,
+    "jurisdiction": "Texas (Texas A&M Forest Service)",
+    "document_type": "Forest Action Plan",
+    "document_id": "TX_FAP_2020",
+    "page_count": 292
+  },
+  "orientation": {
+    "summary": "This is the 2020 Texas Forest Action Plan (FAP), produced by Texas A&M Forest Service (TAMFS), combining a statewide forest resource assessment with a management strategy. The document covers five major issues: wildfire and public safety, East Texas forest sustainability, Central Texas woodlands conservation, urban forest sustainability, and water resource protection. The document engages with climate change primarily as a context for forest management challenges (carbon sequestration, urban heat, extreme weather, drought frequency) and frames trees and forests as climate mitigation and resilience tools, but does not perform original climate modeling or vulnerability assessments. Range shifts are mentioned in a single passing sentence in a climate framing section; the document does not perform or incorporate range-shift science analysis. Climate adaptation is mostly implicit, focused on forestry management resilience rather than explicit species range-shift science.",
+    "evidence_index": [
+      {
+        "text": "Species range shifts, migration, or changes in population and density, can be expected with changing climate and weather patterns.",
+        "location": "Trees and Forests as Climate Solutions",
+        "relevant_elements": ["1.1", "1.3", "C2", "3.2", "3.3"]
+      },
+      {
+        "text": "Climate continually changes-this is true now as it has been in the past. However, in the past, change occurred over long periods, allowing plants and animals to adapt over time. Today, however, this change is faster than the adaptive ability of plants, largely due to global atmospheric carbon dioxide currently increasing about 100 times faster than any previous natural increase.",
+        "location": "Trees and Forests as Climate Solutions",
+        "relevant_elements": ["1.1", "1.2"]
+      },
+      {
+        "text": "As moisture and temperature regimes shift, plant species historically found on a particular site may no longer be the best or even appropriate species for that site. Changing weather patterns also alter insect pest patterns and populations, plant emergence, and invasive species establishment.",
+        "location": "Trees and Forests as Climate Solutions",
+        "relevant_elements": ["1.1", "3.5", "3.7", "C2"]
+      },
+      {
+        "text": "Developed and providing climate-ready seed stock of select Texas species; these drought-hardy lines of 'Texas Tested, Texas Tough' tree species are selected for their ability to thrive in harsh environments.",
+        "location": "What TAMFS is Doing",
+        "relevant_elements": ["1.2", "1.3", "4.2"]
+      },
+      {
+        "text": "Investigate silvicultural / horticultural / agroforestry management options that include the use of non-invasive and climate resilient species.",
+        "location": "Central Texas Woodlands Conservation",
+        "relevant_elements": ["1.2", "4.1", "4.2"]
+      },
+      {
+        "text": "With changing climate and weather patterns comes an increase in the intensity and frequency of droughts, floods, hurricanes, ice storms, tornados and wildfires; all which make tree and forest management more critical than ever.",
+        "location": "Trees and Forests as Climate Solutions",
+        "relevant_elements": ["1.1", "3.5", "3.6"]
+      },
+      {
+        "text": "The Intergovernmental Panel on Climate Change (IPCC) has concluded that global concentrations of carbon dioxide, methane, and nitrous oxide (the primary greenhouse gases) have increased since 1750. The primary reasons for these increasing levels are the burning of fossil fuels and land-use change. As a result, this segment of the scientific community predicts rising sea levels, loss of sea ice, and increased frequency of drought, heat waves, and heavy precipitation events over the next century.",
+        "location": "Energy Consumption",
+        "relevant_elements": ["1.1", "3.5", "2.3"]
+      },
+      {
+        "text": "The changing climate and associated increase in extreme weather events and variability also influence pest, disease, and invasive species patterns, making tree and forest management more critical than ever.",
+        "location": "Natural Disasters",
+        "relevant_elements": ["1.1", "3.7"]
+      },
+      {
+        "text": "Researchers at the USFS Southern Research Station utilized the Water Supply Stress Index (WaSSI) model, accounting for these variables, to identify areas of the nation where future water supplies may be vulnerable and could become stressed under various climate, population growth, and land use change scenarios.",
+        "location": "Water Availability",
+        "relevant_elements": ["2.3", "2.1"]
+      },
+      {
+        "text": "Lead the development and promotion of silvicultural, horticultural, and other sustainable land-use practices that mitigate fuels, conserve water resources, and reduce the impacts of climate variability on forest and woodland productivity and health.",
+        "location": "Issue 3 Central Texas Woodlands Conservation, Performance Outcomes Goal 1",
+        "relevant_elements": ["4.1", "4.2", "4.5"]
+      },
+      {
+        "text": "The interaction of population growth, climate change, timber markets, and invasive species will define the South's future forests.",
+        "location": "USDA Forest Service",
+        "relevant_elements": ["1.1", "3.7"]
+      },
+      {
+        "text": "Project the change in economic value of various ecosystem services from improved forest health, anticipated climate influence, and land-use change through time.",
+        "location": "Issue 2 Sustainability of Forest Resources in East Texas, Strategy 3.2.4",
+        "relevant_elements": ["4.3"]
+      },
+      {
+        "text": "The layer developed for the updated SFLA and used here was derived from a more recent version of the ICLUS model. ICLUS version 2 is designed to be consistent with a more recent Intergovernmental Panel on Climate Change (IPCC) scenarios framework, drawing from two Share Socioeconomic Pathways (SSPs) and two Representative Concentration Pathways (RCPs).",
+        "location": "Appendix / Development Threat layer description",
+        "relevant_elements": ["2.3"]
+      },
+      {
+        "text": "Predict, monitor, and mitigate wildfire, biological, climate and weather, and other threats to forest health.",
+        "location": "Issue 2 Sustainability of Forest Resources in East Texas, Strategy 1.3.2",
+        "relevant_elements": ["4.3"]
+      },
+      {
+        "text": "Since Priority areas for each issue and for IFRAs are at the county level except for Urban Forest Sustainability, which is at the Place level... An overall priority value was calculated for each county as the number of issues determined to be priority for that county.",
+        "location": "Overall Statewide Priority Areas",
+        "relevant_elements": ["4.1", "3.1"]
+      },
+      {
+        "text": "Warming has allowed invasive cheatgrass to expand its range into higher elevations previously dominated by native bunchgrasses.",
+        "location": "N/A - codebook example, do not use",
+        "relevant_elements": []
+      },
+      {
+        "text": "Three primary factors are combining to create these intense fire seasons-population growth, changing land use, and increasing drought frequency.",
+        "location": "Issue 1: Wildfire and Public Safety",
+        "relevant_elements": ["3.5"]
+      },
+      {
+        "text": "By far, from 2006 to 2015, weather has been the leading cause of mortality among hardwoods. This is especially true after the historic 2011 drought.",
+        "location": "Mortality",
+        "relevant_elements": ["3.6", "3.5"]
+      },
+      {
+        "text": "The Texas Longleaf Conservation Plan is intended to help guide the Texas Longleaf Implementation Team (TLIT) through 2025 to re-establish the abundantly biodiverse and wildlife-sustaining habitat of the longleaf pine ecosystem in East Texas.",
+        "location": "Texas Longleaf Implementation Team",
+        "relevant_elements": ["4.1", "4.2", "4.3"]
+      },
+      {
+        "text": "Also, during the last decade, due to significant drought and wildfires, ponderosa pine has been declining in the Davis Mountains of the Trans-Pecos region of Texas. Texas A&M Forest Service is partnering with The Nature Conservancy on their Davis Mountains Preserve to investigate successful techniques to restore this important western species.",
+        "location": "Challenges (Central Texas Woodlands Conservation)",
+        "relevant_elements": ["3.5", "3.6", "4.1", "4.2"]
+      },
+      {
+        "text": "Promote the use of well-adapted insect, disease, and drought resistant planting stock for reforestation, ecosystem restoration, and urban enhancement.",
+        "location": "Central Texas Woodlands Conservation, Strategy 2.2.1",
+        "relevant_elements": ["1.2", "4.2"]
+      },
+      {
+        "text": "Invasive plants, animals, and insects are also problematic to forest ecosystems. Many invasive species such as Chinese tallowtree and Chinese privet have been around for more than a century, while others like Japanese climbing fern, emerald ash borer, and cogangrass have only recently begun to encroach on the East Texas landscape.",
+        "location": "Challenges (Issue 2 East Texas)",
+        "relevant_elements": ["3.7"]
+      },
+      {
+        "text": "Warming is forecasted to result in forest losses, increased carbon emissions, and stress to other forest resources.",
+        "location": "USDA Forest Service (Southern Forest Futures Project)",
+        "relevant_elements": ["1.1", "3.5"]
+      },
+      {
+        "text": "TAMFS, USFS National Forests and Grasslands in Texas, and thirteen other public, private, and nonprofit conservation organizations have joined together to promote the restoration and enhancement of the Longleaf pine ecosystem in Texas as part of a range-wide initiative across the Southern United States.",
+        "location": "Longleaf Implementation Team (Multi-State Projects)",
+        "relevant_elements": ["3.4", "4.1", "4.2"]
+      },
+      {
+        "text": "This project is a multi-state project to research and develop programs that will demonstrate the use of trees as an energy efficiency technology that can mitigate climate variability and conserve energy.",
+        "location": "Urban Forestry Trees for Energy",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "The Forest Legacy Program in Texas follows the National Forest Legacy Program guidelines... Designed to encourage the protection of privately owned forest lands, both CFP and FLP are entirely voluntary programs that seek to conserve exceptional and environmentally sensitive forest lands.",
+        "location": "Forest Legacy Program Description",
+        "relevant_elements": ["4.1", "3.4"]
+      },
+      {
+        "text": "Integrate climate, weather, and wildland forest fuel conditions into products that will enhance the ability of managers to make sound decisions.",
+        "location": "Issue 1: Wildfire and Public Safety Strategy Goal 1",
+        "relevant_elements": ["4.5"]
+      },
+      {
+        "text": "In the long-term, Ponderosa Pine will not be able to withstand the further drying out of West Texas so the program may be a short-term fix until other natural vegetation takes the place of this tree, which is on the western and southern edge of its range in the U.S.",
+        "location": "Sierra Club comments on draft FAP",
+        "relevant_elements": ["C2", "1.1", "1.3"]
+      },
+      {
+        "text": "Changing climate results in native or established species dying. Need more research on replacement trees to plant proactively now.",
+        "location": "Stakeholder survey responses (Appendix B)",
+        "relevant_elements": ["1.1", "3.5", "C2"]
+      },
+      {
+        "text": "The Sierra Club urges TAMFS to educate forest owners and others on climate change, how to reduce climate change gases, and how to adapt to climate change.",
+        "location": "Sierra Club comments (Question 6 responses)",
+        "relevant_elements": ["4.5"]
+      }
+    ]
+  },
+  "concepts": {
+    "climate_vulnerability": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Species range shifts, migration, or changes in population and density, can be expected with changing climate and weather patterns. As moisture and temperature regimes shift, plant species historically found on a particular site may no longer be the best or even appropriate species for that site.",
+          "location": "Trees and Forests as Climate Solutions",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document mentions climate vulnerability in passing and describes climate change impacts on forests, but never operationalizes vulnerability in terms of exposure or adaptive capacity for specific species or habitats. There is no vulnerability assessment framework, no reference to climate exposure metrics, and no systematic treatment of adaptive capacity. The IPCC is cited in the Urban Forestry section regarding greenhouse gas projections, but this is not applied to species or ecosystem vulnerability. Score 1 (referenced non-specifically) rather than 0 because climate impacts on forest species/habitats are discussed, and score 1 rather than 2 because neither exposure nor adaptive capacity is operationalized."
+    },
+    "adaptive_capacity_specificity": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Climate continually changes-this is true now as it has been in the past. However, in the past, change occurred over long periods, allowing plants and animals to adapt over time. Today, however, this change is faster than the adaptive ability of plants",
+          "location": "Trees and Forests as Climate Solutions",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "Adaptive capacity is referenced non-specifically. Drought-hardy seed stock is mentioned but not framed as an adaptive capacity analysis."
+    },
+    "adaptive_capacity_components": {
+      "demography": {
+        "present": false,
+        "evidence": []
+      },
+      "distribution": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Species range shifts, migration, or changes in population and density, can be expected with changing climate and weather patterns.",
+            "location": "Trees and Forests as Climate Solutions",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "movement": {
+        "present": false,
+        "evidence": []
+      },
+      "evolutionary_potential": {
+        "present": false,
+        "evidence": []
+      },
+      "ecological_dependencies": {
+        "present": false,
+        "evidence": []
+      },
+      "abiotic_niche": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "As moisture and temperature regimes shift, plant species historically found on a particular site may no longer be the best or even appropriate species for that site.",
+            "location": "Trees and Forests as Climate Solutions",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "life_history": {
+        "present": false,
+        "evidence": []
+      }
+    },
+    "connectivity": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "TAMFS should teach people about buffers, corridors, and core reserves, on large and small scales, so that forests of all sizes will be healthier, less fragmented, and less degraded.",
+          "location": "Sierra Club comments (Question 6 responses)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "Connectivity is mentioned in stakeholder comments (Sierra Club) and implicitly through fragmentation discussions, but the document itself does not frame corridors or connectivity in a climate-relevant context. The Sierra Club recommends corridors without climate framing; TAMFS discusses forest fragmentation but not in a range-shift or climate-gradient connectivity frame. Score 1 (generic) rather than 2 because no climate-framed connectivity is present in the document's own text."
+    }
+  },
+  "tools": {
+    "vulnerability_models": {
+      "evaluable": true,
+      "score": 0,
+      "named_tools": [],
+      "evidence": [],
+      "absence_note": "No vulnerability models (CCVI, PVA, or similar) are referenced anywhere in the document."
+    },
+    "niche_models": {
+      "evaluable": true,
+      "score": 0,
+      "named_tools": [],
+      "evidence": [],
+      "absence_note": "No species distribution models, ecological niche models, or similar tools (MaxEnt, BIOCLIM, SDMs) are referenced. The document uses GIS-based spatial overlay analysis for priority area delineation but not for species or habitat distribution modeling."
+    },
+    "climate_models": {
+      "evaluable": true,
+      "score": 1,
+      "named_tools": ["ICLUS v2", "SSP", "RCP"],
+      "evidence": [
+        {
+          "text": "The layer developed for the updated SFLA and used here was derived from a more recent version of the ICLUS model. ICLUS version 2 is designed to be consistent with a more recent Intergovernmental Panel on Climate Change (IPCC) scenarios framework, drawing from two Share Socioeconomic Pathways (SSPs) and two Representative Concentration Pathways (RCPs).",
+          "location": "Appendix / Development Threat layer description",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "ICLUS v2 using SSP/RCP scenarios is referenced in the appendix for the Development Threat layer, but only for projecting housing density/land use change, not for climate impacts on species or habitats. The IPCC is cited in the urban forestry section for general climate projections. Score 1 (referenced generally) rather than 2 because climate model outputs are not applied to the plan's focal forest species or habitats.",
+      "time_horizon_years": [2040, 2050],
+      "emission_scenarios": ["SSP", "RCP"]
+    },
+    "connectivity_models": {
+      "evaluable": true,
+      "score": 0,
+      "named_tools": [],
+      "evidence": [],
+      "absence_note": "No connectivity models (CircuitScape, Linkage Mapper, least-cost path, etc.) are referenced. The document uses GIS overlay analysis for spatial prioritization but this is not connectivity modeling in the range-shift sense."
+    }
+  },
+  "context": {
+    "management_scale": {
+      "local": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "These programs have gained importance over the last 25 years with the recognition that they are essential for the agency to address the significant causal factors that lead to development of large, damaging wildfires that destroy homes and threaten the citizens of the state.",
+            "location": "Mitigation and Prevention Program Description",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "site": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Developed and providing climate-ready seed stock of select Texas species; these drought-hardy lines of 'Texas Tested, Texas Tough' tree species are selected for their ability to thrive in harsh environments.",
+            "location": "What TAMFS is Doing",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "watershed": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "To prioritize Texas watersheds by forest importance to surface drinking water for source water protection, four main factors were considered: (1) watershed importance for surface drinking water, (2) forest importance to surface drinking water, (3) threats to forests, and (4) potential for partnership.",
+            "location": "Water Resources Program Priority Areas",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "city": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Focusing program delivery in these areas can help solve landscape-scale problems that affect millions of people, including urbanization, air quality, water quality, climate change, energy consumption, natural disasters, and public health issues.",
+            "location": "Issue 4 Urban Forest Sustainability, Conclusion",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "county": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Since USFS guidance encourages priority areas to be specific geographic areas, expert judgement was used to divide counties into two classes: priority and non-priority counties (Map 2). Priority counties were selected considering the geospatial analysis performed (Map 1) and experience of program leaders from the Forest Resource Protection Division.",
+            "location": "Issue 1 Wildfire and Public Safety, Spatial Analysis Results",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "within_state_region": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The geospatial analysis identified three primary areas in which future efforts should be concentrated-East Texas, the Interstate-35 corridor region of Central Texas, and the Trans-Pecos.",
+            "location": "Issue 5 Water Resource Protection, Conclusion",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "state": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Texas used many of the updated Southern Forest Land Assessment layers for conducting its geospatial analysis.",
+            "location": "Update of Important Forest Resource Areas for Texas",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "multistate": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "TAMFS is already involved in or plans to develop several multi-state projects or programs that are of regional priority.",
+            "location": "Multi-State Projects, Programs & Initiatives",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "national": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The America's Longleaf Restoration Initiative's purpose is to increase longleaf pine acreage from 3.4 to 8.0 million acres in the next 15 years. A Range-wide Conservation Plan and for Longleaf Pine serves to guide actions and strategies of the Initiative.",
+            "location": "Longleaf Implementation Team (Multi-State Projects)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "transnational": {
+        "present": false,
+        "evidence": []
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The Texas Longleaf Conservation Plan is intended to help guide the Texas Longleaf Implementation Team (TLIT) through 2025 to re-establish the abundantly biodiverse and wildlife-sustaining habitat of the longleaf pine ecosystem in East Texas.",
+            "location": "Texas Longleaf Implementation Team",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecoregion": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Texas is a vast and diverse state with areas that are like both Georgia to the east and Arizona to the west. There are nine primary ecoregions as defined by Level III Ecoregions of the Environmental Protection Agency (EPA)",
+            "location": "Conditions and Trends Texas Ecoregions",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "province": {
+        "present": false,
+        "evidence": []
+      },
+      "section": {
+        "present": false,
+        "evidence": []
+      },
+      "subsection": {
+        "present": false,
+        "evidence": []
+      },
+      "lake": {
+        "present": false,
+        "evidence": []
+      },
+      "river": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The Columbia Bottomlands contain mixed hardwood forests stretching across the floodplains of three rivers-Colorado, San Bernard, and Brazos-and their associated floodplains.",
+            "location": "Columbia Bottomlands",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "district": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["East Texas", "Central Texas", "West Texas", "Trans-Pecos", "Interstate-35 corridor", "Pineywoods", "Edwards Plateau", "Gulf Coast Prairies and Marshes", "Rolling Plains", "High Plains", "Davis Mountains"]
+    },
+    "biological_unit_score": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Species range shifts, migration, or changes in population and density, can be expected with changing climate and weather patterns.",
+          "location": "Trees and Forests as Climate Solutions",
+          "sub_component": "species/population",
+          "citations": []
+        },
+        {
+          "text": "As moisture and temperature regimes shift, plant species historically found on a particular site may no longer be the best or even appropriate species for that site.",
+          "location": "Trees and Forests as Climate Solutions",
+          "sub_component": "habitat/ecosystem",
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "biological_unit_components": {
+      "species": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Species range shifts, migration, or changes in population and density, can be expected with changing climate and weather patterns.",
+            "location": "Trees and Forests as Climate Solutions",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "population": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Species range shifts, migration, or changes in population and density, can be expected with changing climate and weather patterns.",
+            "location": "Trees and Forests as Climate Solutions",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "habitat": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "As moisture and temperature regimes shift, plant species historically found on a particular site may no longer be the best or even appropriate species for that site.",
+            "location": "Trees and Forests as Climate Solutions",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The Texas Longleaf Conservation Plan is intended to help guide the Texas Longleaf Implementation Team (TLIT) through 2025 to re-establish the abundantly biodiverse and wildlife-sustaining habitat of the longleaf pine ecosystem in East Texas.",
+            "location": "Texas Longleaf Implementation Team",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "community": {
+        "present": false,
+        "evidence": []
+      },
+      "genotype_phenotype": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["loblolly pine", "longleaf pine", "shortleaf pine", "ponderosa pine", "live oak", "red oak", "southern pine beetle", "emerald ash borer", "cogongrass", "Chinese tallowtree", "Houston toad", "golden-cheeked warbler", "black-capped vireo", "red-cockaded woodpecker"]
+    },
+    "partnerships_and_funding": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "TAMFS, USFS National Forests and Grasslands in Texas, and thirteen other public, private, and nonprofit conservation organizations have joined together to promote the restoration and enhancement of the Longleaf pine ecosystem in Texas as part of a range-wide initiative across the Southern United States.",
+          "location": "Longleaf Implementation Team (Multi-State Projects)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document describes many partnerships (NRCS, TPWD, USFS, land trusts, etc.) and funding programs (Forest Legacy, Forest Stewardship, federal grants), but these are not specifically tied to range-shift management actions. The partnerships are for general forestry, fire management, and conservation — not specifically for managing climate-driven range shifts. Score 1 (some funding/partnerships described but limited to aspirational or general forestry programs rather than strategic investment in range-shift-specific actions)."
+    },
+    "climate_threat_habitat_degradation": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "With changing climate and weather patterns comes an increase in the intensity and frequency of droughts, floods, hurricanes, ice storms, tornados and wildfires; all which make tree and forest management more critical than ever.",
+          "location": "Trees and Forests as Climate Solutions",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_threat_species_vital_rates": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "By far, from 2006 to 2015, weather has been the leading cause of mortality among hardwoods. This is especially true after the historic 2011 drought.",
+          "location": "Mortality",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_threat_biotic_stressors": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Changing weather patterns also alter insect pest patterns and populations, plant emergence, and invasive species establishment.",
+          "location": "Trees and Forests as Climate Solutions",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    }
+  },
+  "actions": {
+    "priority_habitat_identification": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Since USFS guidance encourages priority areas to be specific geographic areas, expert judgement was used to divide counties into two classes: priority and non-priority counties (Map 2). Priority counties were selected considering the geospatial analysis performed (Map 1) and experience of program leaders from the Forest Resource Protection Division. A total of 122 counties are considered Priority for the Wildfire and Public Safety issue",
+          "location": "Issue 1 Wildfire and Public Safety, Spatial Analysis Results",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "As of 2020, there are five funded Forest Legacy projects in Texas: Burleson Wetlands (2,907 acres in Smith County), Turkey Creek Phases I and II (10,729 acres in Tyler and Hardin Counties), Longleaf Ridge Phases I and II (10,223 acres in Jasper and Newton Counties), Bobcat Ridge (6,912 acres in Anderson County), and Fox Hunters Hill (2,387 acres in Sabine County).",
+          "location": "Forest Legacy Program Description, FLP Priority Areas",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "Priority habitat identification is spatially represented through extensive county-level maps and GIS-based priority analyses for all five issue areas. However, these priority areas are driven primarily by forest sustainability, wildfire risk, and water resource concerns rather than by climate-driven range-shift science specifically. Score 2 because spatial representation (maps, county delineations, Forest Legacy project areas) is present."
+    },
+    "targeted_range_shift_actions": {
+      "evaluable": true,
+      "score": 0,
+      "evidence": [],
+      "absence_note": "The document mentions range shifts in one passing sentence ('Species range shifts, migration, or changes in population and density, can be expected with changing climate and weather patterns') but proposes no targeted management actions to facilitate, prevent, or respond to species range shifts. Climate-ready seed stock is developed for drought tolerance, but this is not framed as facilitating range shifts. No assisted migration, conservation translocations, climate corridors, or other range-shift-specific structural or direct facilitation actions are proposed."
+    },
+    "time_bound_and_monitoring": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "The Texas Longleaf Conservation Plan is intended to help guide the Texas Longleaf Implementation Team (TLIT) through 2025 to re-establish the abundantly biodiverse and wildlife-sustaining habitat of the longleaf pine ecosystem in East Texas.",
+          "location": "Texas Longleaf Implementation Team",
+          "sub_component": "deadline",
+          "citations": []
+        }
+      ],
+      "absence_note": "Some time-bound targets appear (e.g., longleaf goals through 2025, Forest Legacy Area maintained 2020-2030), but these are for general forestry/restoration goals, not specifically for climate range-shift actions. Monitoring programs exist (FIA, BMP monitoring), but effectiveness monitoring for climate-adaptation-specific actions is not operationalized at the action level. Score 1 (some deadlines present) rather than 2 (no combined deadlines + effectiveness monitoring for range-shift actions)."
+    },
+    "evidence_of_efficacy": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "In 2003, the Water Resources Program began an intensive, highly technological stream monitoring project designed to test the effectiveness of BMPs in protecting water quality. After four years of data collection, the results prove that Texas BMPs, when applied properly, are effective in protecting water quality.",
+          "location": "Water Resources Program Description",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document presents some general ecological rationale and program monitoring results (e.g., BMP effectiveness, tree improvement breeding gains), but these are not tied to specific climate range-shift actions. Score 1 (rationale outlined, general monitoring referenced) rather than 2 or 3 because no direct evidence is presented for efficacy of range-shift-specific management actions.",
+      "projects": ["Texas BMP monitoring program: Multi-year monitoring of Best Management Practices effectiveness for water quality protection in East Texas showed 94% implementation rates, but this is for water quality BMPs, not climate range-shift actions.", "Wildfire Case Studies: Following the Cross Plains Fire in 2005, TAMFS performed detailed assessments to guide future risk mitigation programs — provides evidence for wildfire management actions but not range-shift actions.", "Tree Improvement Program: TAMFS documents 40% improvement in loblolly pine growth rates through breeding — evidence for tree improvement programs but not climate range-shift management."]
+    },
+    "adaptation_planning_frameworks": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Integrate climate, weather, and wildland forest fuel conditions into products that will enhance the ability of managers to make sound decisions.",
+          "location": "Issue 1: Wildfire and Public Safety Strategy Goal 1",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document references climate adaptation concepts in passing (climate-resilient species, climate-ready seed stock, integrating climate into management decisions) but does not name or apply a specific climate adaptation planning framework such as RAD, RRT, CCVA, Structured Decision Making, or scenario planning. The references to adaptive management and integrating climate into planning are generic and not climate-change-specific in the framework sense. Score 1 (referenced non-specifically) rather than 2 (no named specific adaptation planning frameworks)."
+    }
+  },
+  "coding_meta": {
+    "coder": "llm:claude-sonnet-4-6",
+    "model": "claude-sonnet-4-6",
+    "provider": "claude",
+    "codebook_version": "0.4",
+    "ingest": "text",
+    "design": "single",
+    "temperature": null,
+    "thinking": null,
+    "thinking_effort": null,
+    "coded_at": "2026-07-07T00:31:33Z",
+    "notes": {}
+  }
+}

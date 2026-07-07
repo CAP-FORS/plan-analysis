@@ -1,0 +1,949 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main"></title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Natural Resources</orgName>
+								<orgName type="institution" key="instit1">Bedrock Communities Contributors Michigan</orgName>
+								<orgName type="institution" key="instit2">Michigan Natural Features Inventory Michigan Nature Association U.S. Geological Survey</orgName>
+								<orgName type="institution" key="instit3">Michigan Fish and Wildlife Cooperative Research Unit</orgName>
+							</affiliation>
+						</author>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">D66228283289F53B3C0705BA1BF0952A</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.1" ident="GROBID" when="2026-07-06T12:26+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>What are bedrock communities?</head><p>Michigan is characterized by a unique geological history. Our landscape was shaped by glaciers that carved distinct landforms across Michigan over 10,000 years ago. Where the soil is shallow or missing entirely, exposed bedrock creates rare ecosystems known as bedrock communities. These natural communities are uncommon because they only occur in specific locations. This limited range makes them especially vulnerable to environmental changes. The exposed rock in these communities is typically one of four main types: limestone, sandstone, granite, or volcanic rock.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Types of bedrock communities</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Limestones</head><p>Limestone bedrock ecosystems are mostly found in the eastern Upper Peninsula, along the ancient Niagara Escarpment: a rock ridge that stretches in an arc from Niagara Falls through Michigan to Wisconsin's Door Peninsula. You can also find smaller limestone outcrops in the northeastern Lower Peninsula and on several Lake Huron and Lake Michigan islands.</p><p>These limestone rocks formed around 200 million years ago from the remains of ancient coral reefs in shallow seas that once covered the region. Today, they support six distinct natural communities, including inland types like alvar, limestone glades, and cliffs, as well as shoreline types like limestone cobble shore, limestone bedrock lakeshore, and limestone lakeshore cliff <ref type="bibr" target="#b4">(Cohen et al. 2015</ref><ref type="bibr" target="#b4">, Cohen et al. 2025)</ref>.</p><p>Many of these are rare or even critically imperiled in Michigan. Alvars and limestone lakeshore cliffs are especially at risk. Limestone natural communities support a unique flora that thrives in alkaline (high pH) soils and often includes a surprising mix of prairie and boreal (northern forest) plants growing side by side. Rare orchids, ferns, and other unusual plants are found here, including some that are more typical of distant prairie habitats.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Sandstones</head><p>Sandstone bedrock ecosystems are mainly found near the shores of Lake Superior, from the Michigan-Wisconsin border to Pictured Rocks National Lakeshore near Munising. In the Lower Peninsula, local exposures occur at Pointe Aux Barques on southern Lake Huron and one area along the Grand River near Grand Ledge. These sandstones were deposited around 500 million years ago.</p><p>Today, five types of natural communities form where this sandstone is exposed: sandstone bedrock glade and sandstone cliff in inland settings, and sandstone cobble shore, sandstone bedrock lakeshore, and sandstone lakeshore cliff along the Great Lakes shoreline. Like limestone communities, these are rare or critically imperiled with sandstone bedrock glades being critically imperiled.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Granites</head><p>"Granite" in Michigan refers to a mix of very hard rocks like granite, gneiss, schist, and quartzite, formed deep underground anywhere from 600 million to over 3 billion years ago during the Precambrian Era. In Michigan, these granite bedrock communities are found in the central Upper Peninsula, especially in the rugged Michigamme Highlands.</p><p>There are four main granite bedrock community types: granite glades and granite cliffs found inland, and granite bedrock lakeshores and granite lakeshore cliffs along Lake Superior. These ecosystems are rare, and some, like the granite lakeshore cliff, are critically imperiled.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Volcanics</head><p>The Keweenaw Peninsula and Isle Royale feature some of Michigan's oldest and largest rock formations. These volcanic bedrock ecosystems formed over a billion years ago during a time of intense volcanic activity. Lava flowed from deep cracks in the Earth's crust, creating thick layers of basalt which locally features sandstone and conglomerate intrusions. The subsequent Lake Superior Syncline formation created the basin for most of Lake Superior <ref type="bibr" target="#b5">(Dorr and</ref><ref type="bibr">Eschman 1970, Schaetzl et al. 2009)</ref>.</p><p>Today, volcanic rock ecosystems are found along the edges of this ancient basin. Six community types are found here: inland volcanic glades, northern balds, and cliffs, along with shoreline cobble shores, bedrock lakeshores, and lakeshore cliffs. Many are rare or critically imperiled, especially northern balds and volcanic lakeshore cliffs.</p><p>These places support plant life more commonly found in arctic or high-mountain environments rather than what one would expect in Michigan. The cool, foggy summers of Isle Royale and the Keweenaw Peninsula create ideal conditions for arctic-alpine disjuncts.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Why are bedrock communities important?</head><p>Bedrock communities offer unique opportunities to view, study and experience fundamental earth systems and processes that have shaped Michigan's landscape, such as plate tectonics, rock and soil formation and deposition, glacial activity, ecological community change and the evolution of life itself (Geological Society of America 2022). They are among Michigan's rarest communities and host unique species and communities of plants and animals often found nowhere else in the state <ref type="bibr">(Cohen et al. 2020)</ref>. In addition to their ecological and biodiversity value, our intact bedrock communities are emblematic of Michigan's geological heritage, providing residents recreational, educational, cultural and economic benefits <ref type="bibr">[AGH]</ref>. Helpful resources for identifying and understanding Michigan's natural communities include Michigan Natural Features Inventory's natural community classification <ref type="bibr" target="#b4">(Cohen et al. 2015</ref><ref type="bibr" target="#b4">, Cohen et al. 2025</ref>) and natural community abstracts, both of which are available online along with photos, comprehensive descriptions, distribution maps, and thorough references from the scientific literature. MNFI's most detailed bibliography on Michigan's natural communities can be found in the publication "Distribution Maps of Michigan's Natural Communities" <ref type="bibr">(Albert et al. 2008)</ref>, which is also available for viewing and downloading at the MNFI website. Michigan Natural Features Inventory developed draft monitoring protocols for evaluating the ecological integrity of alvar <ref type="bibr" target="#b3">(Cohen and Enander 2019)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Natural communities found in</head><p>With at least 22 nesting pairs reported in 2022, the Peregrine Falcon was reclassified from State Endangered to State Threatened in 2023 <ref type="bibr" target="#b25">(Redig et al. 2022;</ref><ref type="bibr">Michigan DNR 2023)</ref>.</p><p>The Tapered Vertigo was recorded in Michigan for the first time since 2015. The occurrence, a first for Mackinac County, was added to the state's Natural Heritage Database (MNFI 2025).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Focal species</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Blunt-lobed Woodsia</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Woodsia obtusa</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>State Threatened</head><p>Blunt-lobed woodsia is a medium-sized, lance-shaped fern found on moist and at least partiallyshaded cliff systems <ref type="bibr" target="#b21">(Palmer 2018)</ref>. It has both sterile, evergreen fronds and fertile, deciduous fronds. The fern blade has twice-divided toothed leaves, petioles light brown, and spores borne in amoeba-like clusters on underside of pinnae. Within Michigan, it has been documented in association with limestone, granite and volcanic cliff systems. Populations in Michigan occur in the northernmost part of its range and are sporadic geographically. Blunt-lobed woodsia is more common in states south of Michigan <ref type="bibr" target="#b26">(Reznicek et al. 2011)</ref>. This species has been documented from seven sites in six counties in Michigan as of 2025 in the state's Natural Heritage Database and only one of these occurrences was observed within the last 40 years <ref type="bibr">(1985</ref><ref type="bibr" target="#b17">-2025;</ref><ref type="bibr">MNFI 2025)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Goal</head><p>• Determine distribution and abundance and habitat quality across range.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Large Marble</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Euchloe ausonides</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Special Concern</head><p>In Michigan, the Large Marble (1.5 to 2 inch wingspan) is known only from Isle Royale, where it is found in open areas, rock outcroppings, trails, and ridge tops. Like many butterflies, the females are slightly larger than males. The upper sides of the wings of this large butterfly are white with a black-patterned apex and a black, crescent-shaped mark along the leading edge of the forewing. The underside of the hindwing is marbled with greenish gray scales and antennae are checked with black. The caterpillar is striped with black, yellow, and white. Major food plants are crucifers, mainly rock cresses (e.g. Boechera stricta) <ref type="bibr" target="#b20">(Nielsen 1999)</ref>. Little is known about the species' status, distribution, life history, ecology and threats in Michigan. This species has been documented from only one site in one county in Michigan as of 2025 in the state's Natural Heritage Database and has not been observed within the last 20 years <ref type="bibr">(2005</ref><ref type="bibr" target="#b17">-2025;</ref><ref type="bibr">MNFI 2025)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Goal</head><p>• Determine baseline distribution and abundance.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Peregrine Falcon</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Falco peregrinus</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>State Threatened</head><p>The Peregrine Falcon is relatively large for a falcon, with a wingspan of 41 inches. Its body is stocky, with pointed wings and a short tail. The adult falcon has a slate gray back, white breast, finely barred underparts, black cap, white cheek patch, and distinctive dark, heavy "sideburns" (Monfils 2007). In Michigan, Peregrine Falcons historically nested on cliff faces located above the Great Lakes shoreline <ref type="bibr" target="#b6">(Evers 1994)</ref>. They have since been introduced in several Michigan cities and have adapted to nest in artificial structures such as buildings, bridges, and towers and feed on the abundance of small city birds like rock pigeons. Bedrock cliffs represent the species' only naturally occurring nesting habitat. While having one of the most extensive global distributions, Peregrine Falcons were never abundant anywhere due to their specific nesting habitat requirements and position in the food web as top predators <ref type="bibr" target="#b9">(Hess 1991)</ref>. Peregrine Falcons were formerly extirpated throughout much of their original range due to exposure to chemicals such as DDT <ref type="bibr" target="#b32">(White et al. 2002)</ref>. Re-occupancy and restoration are still incomplete, although their numbers are increasing. This species has been documented from 43 sites in 26 counties in Michigan as of 2025 in the state's Natural Heritage Database and 33 of these occurrences were observed within the last 20 years (2005-2025; MNFI 2025).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Goal</head><p>• Continued increase in the number of pairs successfully producing young in Michigan.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Tapered Vertigo</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Vertigo elatior</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Special Concern</head><p>The Tapered Vertigo is a minute land snail with a translucent, chestnut, brown-colored shell that is less than one tenth of one inch (0.087 inches) in height. It has a cylindrical beehive shape with five whorls <ref type="bibr" target="#b11">(Lee 2007)</ref>. In Michigan, the Tapered Vertigo has been found in a variety of open calcareous sites including natural communities such as fens, limestone cobble shore, alvar, limestone bedrock glade and conifer swamps dominated by Northern White-cedar or Tamarack, namely, rich conifer swamp and rich tamarack swamp <ref type="bibr" target="#b18">(Nekola 1998)</ref>. Due to the Tapered Vertigo's limited range in Michigan and vulnerability to threats, all known populations of this species should be protected and monitored. This species has been documented from 28 sites in seven counties in Michigan as of 2025 in the state's Natural Heritage Database and 12 of these occurrences were observed within the last 20 years (2005-2025; MNFI 2025).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Goals</head><p>• Determine baseline distribution and abundance.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Assess and monitor bedrock communities</head><p>Bedrock communities are uniquely adapted to rapid fluctuations between wet and dry conditions, suggesting a potential resilience to a changing climate <ref type="bibr">(Cohen et al. 2020</ref>). However, bedrock communities are rare within Michigan because their distribution is limited to localized exposures of bedrock. Because of this restricted geographic distribution, these communities are likely vulnerable because they have limited opportunities for range expansion. To effectively conserve and manage these systems, further research is needed to understand their sensitivity, adaptive capacity and long-term ecological dynamics under changing environmental conditions.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Call Out Box: Bedrock Communities on Public Lands</head><p>Known bedrock communities located upon state and federal public lands are generally identified and protected within management systems and provide continuity of habitat for associated focal species. For example, all known bedrock communities on state forest land are protected as high conservation value Ecological Reference Areas and one of the highest concentration of bedrock communities in Michigan is the federally designated wilderness on Isle Royale.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Focal species adaptive capacity</head><p>Adaptive capacity is a species' ability to tolerate or adapt to environmental change, whether that be through shifting in space or persisting in place <ref type="bibr" target="#b31">(Thurman et al. 2020)</ref>. Michigan Natural Features Inventory, with funding support from the Michigan Department of Natural Resources, assessed Adaptive Capacity for over 500 Midwest SGCN from 2023-2024 (Appendix 3). We chose to increase clarity at expense of precision in technical language used by <ref type="bibr" target="#b31">Thurman et al. (2020)</ref>  Invasive &amp; Other Problematic Species, Genes &amp; Diseases</p><p>• Ungulate herbivory reduces the floristic diversity of bedrock communities. This is especially prevalent on Drummond Island in limestone systems impacted by white-tailed deer and on Isle Royale in volcanic communities impacted by moose.</p><p>• Invasive plant species can become locally problematic in bedrock communities especially following disturbance such as erosion from off-road vehicles and wildfire <ref type="bibr">(Cohen et al. 2020</ref>).</p><p>• New and existing roads and trails can degrade natural communities and provide routes for invasive plants to establish.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Human Intrusions &amp; Disturbance</head><p>• Bedrock communities are especially susceptible to erosion from off-road vehicles and concentrated foot traffic due to their shallow soils and flat topography (especially with limestone / dolostone substrates; Albert 2007).</p><p>• The vegetation of bedrock communities can be extremely slow to recover or reestablish following excessive disturbance due to thin soils and shallow roots.</p><p>• Use of escarpments for rock climbing has the potential to degrade vegetation along the cliff edge and face <ref type="bibr">(Cohen et al. 2020</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conservation Actions</head><p>Land [SFAP] BC9. Research impacts of herbivory on rare species and their habitats. <ref type="bibr" target="#b33">(Wilton 2021)</ref> House in a centralized database. BC10. Conduct further surveys to evaluate the distribution and composition of the newly discovered and described sandstone bedrock glade. BC11. Conduct further surveys to get baseline information on rare flora and fauna as well as non-vascular composition.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Threats and conservation actions for focal species</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Blunt-lobed woodsia</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Threats</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Lack of Knowledge</head><p>• Undocumented populations of this overlooked, often misidentified, and cryptic fern may exist in Michigan.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Natural System Modifications</head><p>• Creation of large, excessively open areas (e.g., clearcutting, forest disturbance) that are subsequently colonized by competing species could lead to the decline of the Blunt-lobed Woodsia (Environment Canada 2012).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Residential &amp; Commercial Development</head><p>• Residential and commercial development could lead to habitat destruction or degradation and destroy or further isolate populations (NatureServe 2025).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Human Intrusions &amp; Disturbance</head><p>• Pedestrian traffic could disturb or eliminate substrate on fragile slopes on which the species grows (Environment Canada 2012).</p><p>Invasive &amp; Problematic Species, Pathogens &amp; Genes Research &amp; Monitoring BLW3. Survey likely habitat for undocumented populations.</p><p>[BLW] BLW4. Conduct population genetic and adaptation analyses relative to populations outside of Michigan. BLW5. Survey cliffs and boulders in late summer and fall to locate cryptic populations that are mistaken for other fern species.</p><p>[BLW] BLW6. Document habitat conditions. BLW7. Understand population genetic and adaptation relative to main range in southern USA.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Large marble</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Threats</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Lack of Knowledge</head><p>• Unknown status, abundance and distribution in Michigan.</p><p>• Unknown life history details and ecology. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Peregrine falcon</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Threats Human Intrusions &amp; Disturbance</head><p>• Loss or modification of nesting sites, which are limited in number <ref type="bibr" target="#b32">(White et al. 2002)</ref>.</p><p>• Loss of urban-dwelling peregrine falcons due to collisions with buildings/windows, vehicles, wires, or other objects and when nestlings fall from nesting areas or are killed by machinery <ref type="bibr" target="#b8">(Hager 2009</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conservation Actions</head><p>Land &amp; Water Management PF1. Protect nesting sites from physical alteration and excessive human disturbance. Protect associated habitats, such as nearby wetlands and forests, which provide important prey items.</p><p>[PF]</p><p>Law &amp; Policy PF2. The continued ban of organochlorine pesticides, such as DDT, dieldrin and aldrin is critical to the continued improvement in the status of peregrine falcon. Other contaminants, such as PCBs, mercury and lead can also have negative effects <ref type="bibr" target="#b2">(Cade et al. 1968</ref><ref type="bibr" target="#b10">, Hickey and Anderson 1968</ref><ref type="bibr" target="#b22">, Peakall 1970</ref><ref type="bibr" target="#b23">, Peakall 1974</ref><ref type="bibr" target="#b32">, White et al. 2002)</ref></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>. [RECP] [RECH]</head><p>Research &amp; Monitoring PF3. Systematic surveys of current and historic nesting areas to monitor the status of the species in Michigan. <ref type="bibr">[MPPF]</ref> PF4. Monitoring to evaluate potential changes to habitat and level of human disturbance for the protection of important nesting sites</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Tapered vertigo</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Threats</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Lack of knowledge</head><p>• Undocumented populations of this overlooked and cryptic species may exist in Michigan.</p><p>• Specific habitat requirements, life history and ecology in Michigan are not well known.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Human Intrusions &amp; Disturbance</head><p>• Sensitive to excessive trampling and ORV use <ref type="bibr" target="#b27">(Rosenthal et al. 2022</ref>).</p><p>• Sensitive to burning and fire management <ref type="bibr" target="#b19">(Nekola 2002)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Natural System Modifications</head><p>• Sensitive to changes in temperature and water availability within their microhabitats through loss of shade from canopy cover and hydrological alterations.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conservation Actions</head><p>Land &amp; Water Management TV1. Buffer from management and recreational activities <ref type="bibr" target="#b18">(Nekola 1998</ref>) such as rock climbing <ref type="bibr" target="#b12">(McMillan et al. 2003</ref>). TV2. Avoid hydrological alterations that would affect known populations <ref type="bibr" target="#b11">(Lee 2007)</ref>. TV3. Avoid land-use activities that alter critical habitat requirements, including suitable microclimate, soil surface architecture and adequate moisture, calcium, food and refuge in occupied areas <ref type="bibr" target="#b11">(Lee 2007</ref>). TV4. Avoid use of prescribed fire in occupied sites. If prescribed fire is implemented establish refugia and burn at intervals of at least 15 years <ref type="bibr" target="#b18">(Nekola 1998</ref><ref type="bibr" target="#b19">, Nekola 2002)</ref>.</p><p>Conservation Designation &amp; Planning TV5. Develop habitat management plans for documented populations. TV6. Protect alvars, fens, conifer swamps and tamarack-sedge wetlands with potential habitat <ref type="bibr" target="#b18">(Nekola 1998)</ref>.</p><p>Research &amp; Monitoring TV7. Survey for undocumented populations in likely habitat to more accurately determine status and range in Michigan. TV8. Assess population trends and viability of documented populations. TV9. Describe and categorize species needs including specific habitat requirements, life history and ecology in Michigan. TV10. Investigate effects of off-road vehicle use and other potential threats <ref type="bibr" target="#b18">(Nekola 1998)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Places for partnership</head><p>This map was created in collaboration with partners and highlights focal areas to work in over the next 10 years. Creating shared goals helps focus efforts and build collaboration. While this map has a select few areas highlighted, conservation work benefiting any Bedrock Community is welcome and encouraged.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>How will we monitor?</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Bedrock Communities</head><p>• Continue to survey and update quality rankings for Bedrock Communities in the state's Natural Heritage Database.</p><p>• Develop monitoring protocol for evaluating the ecological integrity of bedrock natural communities.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Focal Species</head><p>Blunt-lobed Woodsia</p><p>• Every 5 years or less, collect count-based and potentially density population measurements in a manner so that the data is interoperable with that collected by other states and agencies.</p><p>• Every 5 years or less, document any observable changes with the area occupied for a population.</p><p>• Update occurrences in the state's Natural Heritage Database.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Large Marble</head><p>• Establish baseline population status and distribution with targeted, time-meander surveys.</p><p>• Update occurrences in the state's Natural Heritage Database.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Peregrine Falcon</head><p>• Continue monitoring known nest sites.</p><p>• Use community science programs, like eBird, to help assess distribution, relative abundance and find new nest sites.</p><p>• Update occurrences in the state's Natural Heritage Database.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Tapered Vertigo</head><p>• Continue standardized survey methodology to document distribution. </p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head></head><label></label><figDesc>AccomplishmentsMNFI conducted surveys from 2015 through 2025 and documented 112 new occurrences of bedrock natural community types (MNFI 2025) with funding from US Fish and Wildlife Service (USFWS), US Environmental Protection Agency (EPA), Michigan Department of Natural Resources (DNR), Michigan Department of Environment, Great Lakes, and Energy (EGLE), Little Traverse Bay Bands of Odawa Indians, The Nature Conservancy (TNC), and Huron Pines.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="4,72.00,362.50,255.50,255.50" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="5,72.00,239.28,254.00,254.00" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="6,90.00,195.34,263.50,263.50" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="7,72.00,72.00,244.00,244.00" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head></head><label></label><figDesc>in their paper. The Michigan Department of Natural Resources created broad management strategies based off assessment results and are intended to be stepped down based on management scale, capacity and resources. Management strategies for assessed 2025-2035 focal species are:</figDesc><table><row><cell></cell><cell>Lowest Adaptive Capacity</cell><cell>Strategy</cell></row><row><cell>Peregrine Falcon</cell><cell>Population Size</cell><cell>Increase habitat connectivity</cell></row><row><cell>Vertigo snails</cell><cell>Population Size</cell><cell>Increase habitat connectivity</cell></row><row><cell>Large Marble</cell><cell>Dependent on Other Species</cell><cell>Enhance reproduction or survival</cell></row><row><cell cols="3">Threats and conservation actions to habitat</cell></row><row><cell>Threats</cell><cell></cell><cell></cell></row><row><cell cols="2">Natural System Modifications</cell><cell></cell></row></table><note><p>• Habitat loss due to mineral extraction and the expansion of mines and quarries (especially in limestone communities).</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head></head><label></label><figDesc>Prohibit off-road vehicle activity in alvar and limestone bedrock glade. Increase literacy in ORV community about rarity and ecosystem services of bedrock communities. BC5. Take appropriate enforcement actions for violations of the Michigan Threatened and Endangered Species Act (NREPA Part 365), the Invasive Species Order (NREPA Part 413) and maintain the Prohibited and Restricted Species list pursuant to the Natural Resources and Environmental Protection Act, P.A. 451 of 1994, as amended. Conservation Designation and Planning BC6. Avoid construction of trails and roads through-, and reroute existing trails and roads away bedrock communities. BC7. Conservation efforts should focus on preserving the ecological integrity of existing highquality bedrock communities, because thin soils and slow-growing lichen and moss cover are sensitive to anthropogenic disturbance and recover slowly. [ISRO] Research and Monitoring BC8. Study the fire history of bedrock ecosystems through dendrochronological research to determine appropriate fire return intervals. Prescribed fire should be evaluated for implementation in appropriate landscapes and bedrock systems. [SFMP]</figDesc><table><row><cell>BC3. Control invasive species infestations with special concern for avoiding damage to rare</cell></row><row><cell>species populations. [IMPM] [TIS]</cell></row><row><cell>Law &amp; Policy</cell></row><row><cell>BC4.</cell></row><row><cell>and Water Management</cell></row><row><cell>BC1. Maintain a buffer of natural communities surrounding bedrock ecosystems to prevent</cell></row><row><cell>desiccation and limit the local seed source for invasive species distributed by wind or birds. BC2. Reduce large ungulate populations on islands supporting bedrock ecosystems to reduce browse pressure. (Wilton 2021)</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>•</head><label></label><figDesc>Invasive species like Common Buckthorn may outcompete the Blunt-lobed Woodsia (NatureServe 2025, Environment Canada 2012).</figDesc><table><row><cell>Changing Weather Patterns</cell></row><row><cell>• Increasing temperatures and droughts may reduce suitable habitat.</cell></row><row><cell>Conservation Actions</cell></row><row><cell>Species Management</cell></row><row><cell>BLW1. Every 5 years or less, monitor all known populations. [BLW]</cell></row><row><cell>Conservation Designation &amp; Planning</cell></row><row><cell>BLW2. Develop habitat management plans for known populations to maintain the species' viability in Michigan. [BLW]</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_4"><head></head><label></label><figDesc>Maintain sufficient densities of the species' host plants in occupied areas. [RPMB] LM2. Manage and protect known sites. [PBMP] Conservation Designation &amp; Planning LM3. Development habitat management plans for known occupied areas. [PBMP] [PRAP] Research &amp; Monitoring LM4. Conduct surveys to determine the current status, abundance and distribution in Michigan, especially in the western Upper Peninsula region (e.g., Porcupine Mountains and Keweenaw Peninsula). LM5. Assess impacts of suspected threats. [RPMB]</figDesc><table><row><cell>• Unknown impacts of individual and combined threats. Conservation Actions</cell></row><row><cell>Land &amp; Water Management</cell></row><row><cell>LM1.</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_5"><head></head><label></label><figDesc>• Update occurrences in the state's Natural Heritage Database. How does this plan link with other conservation plans? [BLW] Recovery Strategy for the Blunt-lobed Woodsia (Woodsia obtusa) in Ontario (Environment Canada 2012) [IMPM] Great Lakes Invasive Plant Management Plan and Environmental Assessment (National Park Service 2011) [ISRO] Isle Royale Wilderness Stewardship Plan and Draft Environmental Impact Statement (National Park Service 2023) [MPPF] Monitoring Plan for the American Peregrine Falcon, A Species Recovered Under the Endangered Species Act (USFWS 2003) [PBMP] Pollinator-friendly BMPs for Federal Lands (USFS 2015) [PF] Featured Species Habitat Management Guidance for Peregrine Falcon (Michigan DNR 2023) [PRAP] Pollinator Research Action Plan: Report of the Pollinator Health Tark Force (The White House 2015) [RECP] Action Plan to Reduce Exposure of Vulnerable Federally Listed Endangered and Threatened Species from the Use of Conventional Pesticides (USEPA 2024a) [RECH] Herbicide Strategy to Reduce Exposure of Federally Listed Endangered and Threatened Species and Designated Critical Habitats from the Use of Conventional Agricultural Herbicides (USEPA 2024b)</figDesc><table /></figure>
+		</body>
+		<back>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<monogr>
+		<title level="m" type="main">Terrestrial Invasive Species Management Plan (State of Michigan 2024) Literature Cited</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Albert</surname></persName>
+		</author>
+		<title level="m">Natural community abstract for limestone bedrock glade. Michigan Natural Features Inventory</title>
+		<meeting><address><addrLine>Lansing, MI</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Peregrines and pesticides in Alaska</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">J</forename><surname>Cade</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>White</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Haugh</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Condor</title>
+		<imprint>
+			<biblScope unit="volume">70</biblScope>
+			<biblScope unit="page" from="170" to="178" />
+			<date type="published" when="1968">1968</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<title level="m" type="main">Rare coastal ecosystem monitoring</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">G</forename><surname>Cohen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">D</forename><surname>Enander</surname></persName>
+		</author>
+		<idno>Number 2019-08</idno>
+		<imprint>
+			<date type="published" when="2019">2019</date>
+			<biblScope unit="page">60</biblScope>
+			<pubPlace>Lansing, MI</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="report_type">Michigan Natural Features Inventory Report</note>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<monogr>
+		<title level="m" type="main">A field guide to the natural communities of Michigan</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">G</forename><surname>Cohen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Kost</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">S</forename><surname>Slaughter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Albert ; Cohen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">G</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Kost</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">S</forename><surname>Slaughter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Albert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Lincoln</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">P</forename><surname>Kortenhoven</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Wilton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">D</forename><surname>Enander</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">E</forename><surname>Anderson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Parr</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">J</forename><surname>Bassett</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">M</forename><surname>Korroch</surname></persName>
+		</author>
+		<ptr target="https://mnfi.anr.msu.edu/communities/classification" />
+		<imprint>
+			<date type="published" when="2015">2015. 2025</date>
+			<publisher>Michigan Natural Features Inventory</publisher>
+			<biblScope unit="page">362</biblScope>
+			<pubPlace>East Lansing, Michigan; Lansing, MI</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>Michigan State University Extension</orgName>
+		</respStmt>
+	</monogr>
+	<note>web application</note>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Environment Canada. 2012. Recovery Strategy for the Blunt-lobed Woodsia (Woodsia obtusa) in Canada</title>
+		<author>
+			<persName><forename type="first">Jr</forename><forename type="middle">J A</forename><surname>Dorr</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">F</forename><surname>Eschman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="s">Species at Risk Act Recovery Strategy Series. Environment Canada</title>
+		<imprint>
+			<biblScope unit="page">19</biblScope>
+			<date type="published" when="1970">1970</date>
+			<pubPlace>Ann Arbor; Ottawa</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Geology of Michigan. The University of Michigan Press</note>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<monogr>
+		<title level="m" type="main">Endangered and Threatened Wildlife of Michigan. The University of</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">C</forename><surname>Evers</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1994">1994</date>
+			<publisher>Michigan Press</publisher>
+			<biblScope unit="page">412</biblScope>
+			<pubPlace>Ann Arbor</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Final report, field survey of Iowa spring fens, contract #65-2454. Final report to the Iowa Department of Natural Resources</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">J</forename><surname>Frest</surname></persName>
+		</author>
+		<ptr target="https://rock.geosociety.org/net/documents/gsa/positions/pos20_Geoheritage.pdf" />
+	</analytic>
+	<monogr>
+		<title level="m">GSA Position Statement: Geoheritage. Web. Available</title>
+		<meeting><address><addrLine>Des Moines, IA</addrLine></address></meeting>
+		<imprint>
+			<publisher>Geological Society of America</publisher>
+			<date type="published" when="1990">1990. 2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Human-Related Threats to Urban Raptors</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">B</forename><surname>Hager</surname></persName>
+		</author>
+		<idno type="DOI">10.3356/JRR-08-63.1</idno>
+		<ptr target="https://doi.org/10.3356/JRR-08-63.1" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Raptor Research</title>
+		<imprint>
+			<biblScope unit="volume">43</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="210" to="226" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Species account for peregrine falcon (Falco peregrinus)</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">E</forename><surname>Hess</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Pages 535-536 in The Atlas of Breeding Birds in Michigan</title>
+		<editor>
+			<persName><forename type="first">R</forename><surname>Brewer</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">G</forename><forename type="middle">A</forename><surname>Mcpeek</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Adams</surname><genName>Jr</genName></persName>
+		</editor>
+		<meeting><address><addrLine>East Lansing, MI</addrLine></address></meeting>
+		<imprint>
+			<publisher>Michigan State University Press</publisher>
+			<date type="published" when="1991">1991. 1991</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Chlorinated hydrocarbons and eggshell changes in raptorial and fish-eating birds</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Hickey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">W</forename><surname>Anderson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">162</biblScope>
+			<biblScope unit="page" from="271" to="273" />
+			<date type="published" when="1968">1968</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<monogr>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Lee</surname></persName>
+		</author>
+		<title level="m">Special animal abstract for Vertigo elatior</title>
+		<meeting><address><addrLine>Lansing, MI</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2007">2007</date>
+			<biblScope unit="page">4</biblScope>
+		</imprint>
+	</monogr>
+	<note>Michigan Natural Features Inventory</note>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Effects of Rock Climbing on the Land Snail Community of the Niagara Escarpment in Southern Ontario</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Mcmillan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Nekola</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">W</forename><surname>Larson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Canada. Conservation Biology</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page" from="616" to="621" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<monogr>
+		<title level="m" type="main">Michigan Coastal and Estuarine Land Conservation Plan</title>
+		<imprint>
+			<date type="published" when="2008">2008</date>
+			<biblScope unit="page">69</biblScope>
+			<pubPlace>Lansing, MI</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>Michigan Department of Environmental Quality (MDEQ)</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<monogr>
+		<title level="m" type="main">Featured Species Habitat Management Guidance for Peregrine Falcon. Wildlife Division</title>
+		<imprint>
+			<date type="published" when="2016">2016</date>
+			<publisher>Michigan Department of Natural Resources</publisher>
+			<pubPlace>Lansing, MI</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<monogr>
+		<title level="m" type="main">2023. Threatened and Endangered species list</title>
+		<ptr target="https://www.michigan.gov/dnr" />
+		<imprint>
+			<date type="published" when="2025-11-03">3 November 2025</date>
+			<publisher>Michigan Department of Natural Resources (DNR)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<monogr>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">I</forename><surname>Lansing</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Monfils</surname></persName>
+		</author>
+		<ptr target="https://parkplanning.nps.gov/ISROWilderness" />
+		<title level="m">Special animal abstract for Falco peregrinus</title>
+		<meeting><address><addrLine>Lansing</addrLine></address></meeting>
+		<imprint>
+			<publisher>Michigan Natural Features Inventory (MNFI). 205. Michigan Natural Heritage Database</publisher>
+			<date type="published" when="2007">2007</date>
+		</imprint>
+		<respStmt>
+			<orgName>Isle Royale National Park, U.S. Department of the Interior National Parks Service</orgName>
+		</respStmt>
+	</monogr>
+	<note>Michigan Natural Features Inventory. MI. 5 pp. National Parks Service. 2023. Isle Royale Wilderness Stewardship Plan and Draft Environmental Impact Statement. Draft</note>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<monogr>
+		<author>
+			<persName><surname>Natureserve</surname></persName>
+		</author>
+		<ptr target="https://explorer.natureserve.org/" />
+		<title level="m">Woodsia obtusa. NatureServe Explorer. Available</title>
+		<imprint>
+			<date type="published" when="2025">2025</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<monogr>
+		<title level="m" type="main">Terrestrial gastropod inventory of the Niagaran Escarpment and Keweenaw volcanic belt in Michigan&apos;s Upper Peninsula. Final report to the Natural Heritage Program</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Nekola</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1998">1998</date>
+			<publisher>Michigan Department of Natural Resources</publisher>
+			<biblScope unit="page">133</biblScope>
+			<pubPlace>Lansing, Michigan</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Effects of fire management on the richness and abundance of central North American grassland land snail faunas</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Nekola</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Animal Biodiversity and Conservation</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page" from="53" to="66" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<monogr>
+		<title level="m" type="main">Michigan butterflies and skippers: A field guide and reference</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">C</forename><surname>Nielsen</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1999">1999</date>
+			<biblScope unit="page">248</biblScope>
+			<pubPlace>MI</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>MSU Extension, Michigan State University. East Lansing</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<monogr>
+		<title level="m" type="main">Michigan ferns and lycophytes: A guide to species of the Great Lakes Region</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">D</forename><surname>Palmer</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2018">2018</date>
+			<publisher>University of Michigan Press</publisher>
+			<biblScope unit="page">381</biblScope>
+			<pubPlace>Ann Arbor, MI</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Pesticides and the reproduction of birds</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">B</forename><surname>Peakall</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Scientific American</title>
+		<imprint>
+			<biblScope unit="volume">222</biblScope>
+			<biblScope unit="page" from="73" to="78" />
+			<date type="published" when="1970">1970</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">DDE: its presence in peregrine eggs in 1948</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">B</forename><surname>Peakall</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">183</biblScope>
+			<biblScope unit="page" from="673" to="674" />
+			<date type="published" when="1974">1974</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<monogr>
+		<title level="m" type="main">Midwest peregrine falcon restoration, 2006 annual report</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">T</forename><surname>Redig</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Castrale</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Goggin</surname></persName>
+		</author>
+		<ptr target="http://midwestperegrine.org" />
+		<imprint>
+			<date type="published" when="2007">2007</date>
+			<publisher>Midwest Peregrine Society</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<monogr>
+		<title level="m" type="main">Midwest peregrine falcon restoration, 2022 report</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">T</forename><surname>Redig</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Castrale</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Burnette</surname></persName>
+		</author>
+		<ptr target="http://midwestperegrine.org" />
+		<imprint>
+			<date type="published" when="2022">2022</date>
+			<publisher>Midwest Peregrine Society</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">A</forename><surname>Reznicek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">G</forename><surname>Voss</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">S</forename><surname>Walters</surname></persName>
+		</author>
+		<ptr target="https://lsa-miflora1-p.lsait.lsa.umich.edu/#/record/2811" />
+		<imprint>
+			<date type="published" when="2011">2011</date>
+		</imprint>
+		<respStmt>
+			<orgName>Michigan Flora Online. University of Michigan. Web</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">The Impact of Recreational Activities on Species at Risk in Canada</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Rosenthal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Booth</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Carolan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Clarke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Curnew</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Hammond</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Jenkins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Mcgee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Moody</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Roman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Rossi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Schaefer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Stanley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Ward</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Weber</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.jort.2022.100567</idno>
+		<ptr target="https://doi.org/10.1016/j.jort.2022.100567" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Outdoor Recreation and Tourism</title>
+		<imprint>
+			<biblScope unit="volume">40</biblScope>
+			<biblScope unit="page">100567</biblScope>
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<monogr>
+		<author>
+			<persName><forename type="first">R</forename><surname>Schaetzl</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Darden</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Brandt</surname></persName>
+		</author>
+		<title level="m">Michigan Geography and Geology</title>
+		<imprint>
+			<publisher>Pearson Custom Publishing</publisher>
+			<date type="published" when="2009">2009</date>
+			<biblScope unit="page">672</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<monogr>
+		<title level="m" type="main">Upper Mississippi / Great Lakes Joint Venture Landbird Habitat Conservation Strategy -2020 Revision</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">J</forename><surname>Soulliere</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Al-Saffar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">R</forename><surname>Vanbeek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Tonra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">D</forename><surname>Nelson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">N</forename><surname>Ewert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Will</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">E</forename><surname>Thogmartin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">E</forename><surname>O'brien</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">W</forename><surname>Kendrick</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Gillet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Herkert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">E</forename><surname>Gnass Giese</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">P</forename><surname>Ward</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Graff</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2020">2020</date>
+			<publisher>U.S. Fish and Wildlife Service</publisher>
+			<pubPlace>Bloomington, Minnesota, USA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<monogr>
+		<author>
+			<persName><surname>State Of Michigan</surname></persName>
+		</author>
+		<title level="m">Terrestrial Invasive Species Management Plan</title>
+		<meeting><address><addrLine>Lansing, MI</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2024">2024</date>
+			<biblScope unit="page">46</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Persist in place or shift in space? Evaluating the adaptive capacity of species to climate change</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">L</forename><surname>Thurman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Stein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Beever</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Foden</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Sr Geange</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Green</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Gross</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Lawrence</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Ledee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">M</forename><surname>Jd Olden</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Thompson</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Young</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Frontiers in Ecology and Evolution</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="issue">9</biblScope>
+			<biblScope unit="page" from="520" to="528" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Peregrine Falcon (Falco peregrinus)</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>White</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">J</forename><surname>Clum</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">J</forename><surname>Cade</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">G</forename><surname>Hunt</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The Birds of North America</title>
+		<editor>
+			<persName><forename type="first">A</forename><surname>Poole</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">F</forename><surname>Gill</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Philadelphia, PA</addrLine></address></meeting>
+		<imprint>
+			<publisher>The Birds of North America, Inc</publisher>
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">White-tailed Deer (Odocoileus virginianus) Density and Habitat Use on the Beaver Island Archipelago Using a Camera Trap Array</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Wilton</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Michigan Natural Features Inventory Report Number 2021-05</title>
+		<meeting><address><addrLine>Lansing, MI</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<monogr>
+		<title level="m" type="main">2024a. Action Plan to Reduce Exposure of Vulnerable Federally Listed Endangered and Threatened Species from the Use of Conventional Pesticides. Office of Pesticide Programs, Office of Chemical Safety and Pollution Prevention</title>
+		<imprint>
+			<publisher>Environmental Protection Agency</publisher>
+			<biblScope unit="volume">39</biblScope>
+			<biblScope unit="page">pp</biblScope>
+			<pubPlace>Washington, D.C</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<monogr>
+		<title level="m" type="main">2024b. Herbicide Strategy to Reduce Exposure of Federally Listed Endangered and Threatened Species and Designated Critical Habitats from the Use of Conventional Agricultural Herbicides</title>
+		<imprint>
+			<publisher>Office of Chemical Safety and Pollution Prevention, Office of Pesticide Programs</publisher>
+			<biblScope unit="volume">79</biblScope>
+			<biblScope unit="page">pp</biblScope>
+			<pubPlace>Washington, D.C</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>U.S. Environmental Protection Agency</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<monogr>
+		<title level="m" type="main">Monitoring Plan for the American Peregrine Falcon, A Species Recovered Under the Endangered Species Act. U.S. Fish and Wildlife Service, Divisions of Endangered Species and Migratory Birds and State Programs, Pacific Region</title>
+		<imprint>
+			<date type="published" when="2003">2003</date>
+			<publisher>U.S. Fish and Wildlife Service (USFWS)</publisher>
+			<biblScope unit="page">53</biblScope>
+			<pubPlace>Portland, OR</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Pollinator-friendly BMPs for Federal Lands</title>
+	</analytic>
+	<monogr>
+		<title level="m">USDA Forest Service. Milwaukee, WI.U.S. Fish and Wildlife Service (USFWS). 2022. Draft Recovery Plan for Island Marble Butterfly</title>
+		<title level="s">Euchloe ausonides insulanus</title>
+		<meeting><address><addrLine>Portland, Oregon</addrLine></address></meeting>
+		<imprint>
+			<publisher>U.S. Fish and Wildlife Service (USFWS)</publisher>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+	<note>viii + 27 pages</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>
+

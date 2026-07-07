@@ -1,0 +1,553 @@
+{
+  "document_meta": {
+    "title": "North Dakota Forest Action Plan",
+    "year": 2020,
+    "jurisdiction": "North Dakota",
+    "document_type": "Forest Action Plan",
+    "document_id": "ND_FAP_2020",
+    "page_count": 52
+  },
+  "orientation": {
+    "summary": "This is North Dakota's Forest Action Plan (FAP), a state-level forestry planning document produced by the North Dakota Forest Service circa 2020, fulfilling requirements under the Cooperative Forestry Assistance Act. The document's overall posture toward climate change is minimal and peripheral: climate change is acknowledged in a brief dedicated section that notes temperature increases and links climate to disturbance regimes, carbon sequestration, and forest management, but the document is primarily organized around non-climate threats (invasive pests, fire suppression, species diversity, windbreak loss, conversion to nonforest). Regarding range shifts specifically, the document does not discuss climate-driven distributional change or species range shifts at any point; its discussion of succession, disturbance, and species composition shifts is framed in terms of fire suppression, invasive species, and land-use change rather than climate-driven range dynamics. The document performs its own statewide forest assessment drawing on USFS Forest Inventory and Analysis data, windbreak surveys, and community forestry inventories; climate analysis is referenced only in passing via a single citation (Frankson 2016) for observed temperature trends, with no climate modeling or vulnerability assessments applied to focal species or habitats.",
+    "evidence_index": [
+      {
+        "text": "North Dakota has experienced temperature increases, with annual average temperatures increasing at a rate of 0.26 degree per decade since 1990. This increase is most evident in winter warming, which has been characterized by the much below-average occurrence of extremely cold days since 1980",
+        "location": "Climate Change",
+        "relevant_elements": ["1.1", "2.3", "3.5"]
+      },
+      {
+        "text": "Climate changes will affect disturbance regimes, insect and disease outbreaks, fire season length, recreational values and productivity. Forests should be managed sustainably to help them adapt to anticipated changes.",
+        "location": "Climate Change",
+        "relevant_elements": ["1.1", "1.2", "3.5", "3.6", "3.7", "4.5"]
+      },
+      {
+        "text": "Practices such as afforestation and agroforestry, reforestation, lengthening of forest rotation, protection of forestland from conversion, and community and urban forestry offer opportunities for carbon offsets.",
+        "location": "Climate Change",
+        "relevant_elements": ["4.1", "4.2"]
+      },
+      {
+        "text": "Forests, woodlands and grasslands have an important role in mitigating climate change. Mitigation addresses the mechanisms by which ecosystems can sequester carbon, mechanisms to increase carbon stored in wood products, and the ways that forests and woodlands can provide renewable energy from woody biomass to offset fossil fuel consumption.",
+        "location": "Climate Change",
+        "relevant_elements": ["1.1", "4.5"]
+      },
+      {
+        "text": "North Dakota Priority Issue 3.2: Climate Change",
+        "location": "[TABLE] North Dakota Priority Issue 3.1: Societal Disconnect From Forests and Natural Resources",
+        "relevant_elements": ["1.1", "4.5"]
+      },
+      {
+        "text": "Strategy 3.2a: Manage existing forests to improve health Strategy 3.2b: Reduce forest conversion Strategy 3.2c: Plant new trees to increase carbon sequestration Strategy 3.2d: Utilize best available data and assessments to anticipate emerging management tools",
+        "location": "[TABLE] NDFS -Conservation Education",
+        "relevant_elements": ["4.1", "4.3", "4.5"]
+      },
+      {
+        "text": "Limited species diversity limits the success and sustainability of the state's rural tree plantings and community forests. The climate and soils of the northern Plains restricts the number of tree species that can be utilized.",
+        "location": "Vulnerability to Damaging Agents Due to Limited Species Diversity",
+        "relevant_elements": ["1.1", "1.3"]
+      },
+      {
+        "text": "Tree plantings composed of one or few species are more likely to experience episodes of abrupt decline as a result of vulnerability to the abiotic factors.",
+        "location": "Vulnerability to Damaging Agents Due to Limited Species Diversity",
+        "relevant_elements": ["1.1", "1.3"]
+      },
+      {
+        "text": "The meeting serves to promote, expand and improve conservation tree planting in North Dakota and promote new concepts including climate change, design and planting specifications and tree species selection programs.",
+        "location": "Tree Promotion Meeting",
+        "relevant_elements": ["1.1", "4.5"]
+      },
+      {
+        "text": "Strategy 2.2a: Identify seed sources and species adapted to biotic and abiotic conditions of the state",
+        "location": "[TABLE] Dakota Priority Issue 2.2",
+        "relevant_elements": ["1.3", "2.2"]
+      },
+      {
+        "text": "The 2015 state wildlife action plan identifies important forest resources in the Turtle Mountains, Pembina Gorge, Devils Lake Hills, Killdeer Mountains and pine forests of southwestern North Dakota. These priority areas align closely with those identified in the North Dakota Forest Action Plan.",
+        "location": "State Wildlife Action Plan",
+        "relevant_elements": ["4.1", "3.1", "3.4"]
+      },
+      {
+        "text": "Priority areas of upland forests are delineated primarily on the basis of the concentration of forested lands in the state. Priority areas may include the Turtle Mountains, Devils Lake Hills, Pembina Gorge, Sheyenne River Valley, Killdeer Mountains and the pine forests of southwestern North Dakota (Figure 11).",
+        "location": "Section 4. Priority Forest Resources / Upland Forests",
+        "relevant_elements": ["4.1", "3.1"]
+      },
+      {
+        "text": "The overall goal of the North Dakota forest resource strategy is to identify a long-term, coordinated strategy for investing state, federal and leveraged partner resources to address forestry issues of interest.",
+        "location": "N Forest Resource Strategy",
+        "relevant_elements": ["3.4", "4.3"]
+      },
+      {
+        "text": "Wildland fire risk varies by county and the region of the state (Figure 15). By incorporating factors such as historical fire occurrences, weather data, wildland urban and wildland oil and gas interface data, preponderance of fuels and wildfire protection plans, wildland fire risk across North Dakota's landscape can be discerned.",
+        "location": "Wildland Fire Priority Areas",
+        "relevant_elements": ["3.5", "4.1"]
+      },
+      {
+        "text": "The NDG&F has identified Russian olive as a non-native, exotic, woody invader that out-competes native vegetation such as cottonwoods and willows, degrades wildlife habitat and reduces recreational values.",
+        "location": "The North Dakota Game and Fish Department -Habitat Improvement Projects",
+        "relevant_elements": ["3.7", "4.2"]
+      },
+      {
+        "text": "Defoliating insects, wood-rotting fungi and canker diseases contribute to the deterioration of these aspen stands.",
+        "location": "Aspen and Oak Forests",
+        "relevant_elements": ["3.6"]
+      },
+      {
+        "text": "The fire regime on the northern Plains has been disrupted severely since Euro-American settlement.",
+        "location": "Wildland Fire",
+        "relevant_elements": ["3.5", "3.6"]
+      },
+      {
+        "text": "All of the priority issues outlined in the North Dakota Forest Action Plan bear some resonance in adjacent states and the need for interstate collaboration exists to discover creative solutions to these shared issues.",
+        "location": "Multistate Priority Areas",
+        "relevant_elements": ["3.1", "3.4"]
+      },
+      {
+        "text": "The Outdoor Heritage Fund. The project serves to ensure that windbreaks remain a part of North Dakota's conservation heritage and viable part of the agricultural landscape; reduce the number of windbreaks destroyed by offering incentives to replace dead/deteriorating windbreaks; incorporate species diversity and select species most suitable for the site to mitigate future losses due to abiotic factors or insect and disease issues",
+        "location": "Outdoor Heritage Fund (OHF) -Windbreak Renovation Initiative",
+        "relevant_elements": ["3.4", "4.1"]
+      },
+      {
+        "text": "The USFS -Dakota Prairie Grasslands and The Nature Conservancy entered into a memorandum of understanding to cooperate in managing prescribed fire activities on the Sheyenne National Grassland and adjacent conservancy lands.",
+        "location": "Dakota Prairie Grasslands/Nature Conservancy",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "Forests: The potential consequences of climate variability and change. A report of the national forest assessment group",
+        "location": "North Dakota Forest Action Plan (references section)",
+        "relevant_elements": ["1.1", "2.3"]
+      }
+    ]
+  },
+  "concepts": {
+    "climate_vulnerability": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Climate changes will affect disturbance regimes, insect and disease outbreaks, fire season length, recreational values and productivity. Forests should be managed sustainably to help them adapt to anticipated changes.",
+          "location": "Climate Change",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document acknowledges that climate change poses threats to forests but does not frame any of this in terms of species or ecosystem 'vulnerability' per the codebook's IPCC-axis decomposition. There is no discussion of climate exposure or adaptive capacity as vulnerability components. The 'vulnerability' language in the document appears only in relation to species diversity and invasive pests (e.g., 'vulnerability to the abiotic factors'), not climate vulnerability per se. The single Climate Change section is brief and generic, not constituting an operationalized vulnerability framework. Score 1 for generic non-specific reference to climate threats to forests."
+    },
+    "adaptive_capacity_specificity": {
+      "evaluable": true,
+      "score": 0,
+      "evidence": [],
+      "absence_note": "The document does not reference adaptive capacity of species or ecosystems in any climate context. Management adaptation (e.g., 'Forests should be managed sustainably to help them adapt') refers to human management response, not organism/ecosystem adaptive capacity per the codebook distinction. No specific components of adaptive capacity are discussed in relation to climate."
+    },
+    "adaptive_capacity_components": {
+      "demography": {
+        "present": false,
+        "evidence": []
+      },
+      "distribution": {
+        "present": false,
+        "evidence": []
+      },
+      "movement": {
+        "present": false,
+        "evidence": []
+      },
+      "evolutionary_potential": {
+        "present": false,
+        "evidence": []
+      },
+      "ecological_dependencies": {
+        "present": false,
+        "evidence": []
+      },
+      "abiotic_niche": {
+        "present": false,
+        "evidence": []
+      },
+      "life_history": {
+        "present": false,
+        "evidence": []
+      }
+    },
+    "connectivity": {
+      "evaluable": true,
+      "score": 0,
+      "evidence": [],
+      "absence_note": "The document does not discuss connectivity in any ecological sense relevant to the codebook. Discussion of riparian buffers and corridors is strictly in the context of water quality, windbreak functions, and habitat for wildlife in general — not in relation to landscape permeability for species movement or climate-driven range shifts. No mention of wildlife corridors, habitat connectivity, or climate connectivity."
+    }
+  },
+  "tools": {
+    "vulnerability_models": {
+      "evaluable": true,
+      "score": 0,
+      "named_tools": [],
+      "evidence": [],
+      "absence_note": "No vulnerability models (CCVI, PVA, or similar) are referenced or applied anywhere in the document."
+    },
+    "niche_models": {
+      "evaluable": true,
+      "score": 0,
+      "named_tools": [],
+      "evidence": [],
+      "absence_note": "No species distribution models or niche models are referenced or applied anywhere in the document."
+    },
+    "climate_models": {
+      "evaluable": true,
+      "score": 1,
+      "named_tools": [],
+      "evidence": [
+        {
+          "text": "North Dakota has experienced temperature increases, with annual average temperatures increasing at a rate of 0.26 degree per decade since 1990. This increase is most evident in winter warming, which has been characterized by the much below-average occurrence of extremely cold days since 1980",
+          "location": "Climate Change",
+          "sub_component": null,
+          "citations": ["Frankson, 2016"]
+        }
+      ],
+      "absence_note": "The document cites Frankson (2016) — an NOAA state climate summary — for observed temperature trends, which counts as referencing climate data but not formal climate model projections. No GCMs, RCPs, SSPs, downscaled projections, or named climate modeling tools are applied to the focal subject. Score is 1 (referenced generally via NOAA climate summary) rather than 2 because no climate model projections are used to inform management decisions for focal subjects.",
+      "time_horizon_years": [],
+      "emission_scenarios": []
+    },
+    "connectivity_models": {
+      "evaluable": true,
+      "score": 0,
+      "named_tools": [],
+      "evidence": [],
+      "absence_note": "No connectivity models (CircuitScape, Linkage Mapper, least-cost path, etc.) are referenced or applied."
+    }
+  },
+  "context": {
+    "management_scale": {
+      "local": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The local scale of these plans may limit their incorporation into the state assessment. Seventeen counties in North Dakota have CWPP in place.",
+            "location": "Community Wildfire Protection Plans",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "site": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The Ponderosa Pine Hazardous Fuels Reduction Prescription is outlined in the landowner's forest stewardship management plan. This multiyear effort is taking place on private land, treating overstocked, deteriorating ponderosa pine stands adjacent to the Dakota Prairie Grasslands.",
+            "location": "Hazardous Fuels Reduction -North Dakota Forest Service (NDFS)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "watershed": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Each of these major river systems is composed of numerous tributaries and subwatersheds.",
+            "location": "Riparian Forests",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "city": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Strategy 1.1c: Strengthen collaborative and large-scale planning at city, county, state and federal levels",
+            "location": "[TABLE] Dakota Priority Issue 2.2",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "county": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Wildland fire risk varies by county and the region of the state (Figure 15).",
+            "location": "Wildland Fire Priority Areas",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "within_state_region": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Priority areas of upland forests are delineated primarily on the basis of the concentration of forested lands in the state. Priority areas may include the Turtle Mountains, Devils Lake Hills, Pembina Gorge, Sheyenne River Valley, Killdeer Mountains and the pine forests of southwestern North Dakota",
+            "location": "Section 4. Priority Forest Resources / Upland Forests",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "state": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "North Dakota's forest action plan provides a long-term, comprehensive, coordinated strategy for leveraging state, federal and partner resources to address the management and landscape priorities identified.",
+            "location": "Introduction",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "multistate": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "All of the priority issues outlined in the North Dakota Forest Action Plan bear some resonance in adjacent states and the need for interstate collaboration exists to discover creative solutions to these shared issues.",
+            "location": "Multistate Priority Areas",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "national": {
+        "present": false,
+        "evidence": []
+      },
+      "transnational": {
+        "present": false,
+        "evidence": []
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Despite the undesired social and economic impacts of wildland fire, it is crucial for the functioning of many ecosystems, augmenting ecological services and maintaining biological diversity.",
+            "location": "Wildland Fire",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecoregion": {
+        "present": false,
+        "evidence": []
+      },
+      "province": {
+        "present": false,
+        "evidence": []
+      },
+      "section": {
+        "present": false,
+        "evidence": []
+      },
+      "subsection": {
+        "present": false,
+        "evidence": []
+      },
+      "lake": {
+        "present": false,
+        "evidence": []
+      },
+      "river": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Major rivers in North Dakota include the Red River (and tributaries), Sheyenne River, Mouse River, James River and Missouri River (and tributaries) (Figure 12).",
+            "location": "Riparian Forests",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "district": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["Turtle Mountains", "Pembina Gorge", "Devils Lake Hills", "Sheyenne River Valley", "Killdeer Mountains", "Missouri River", "Red River", "James River", "Sheyenne River", "Mouse River", "Dakota Prairie Grasslands", "Sheyenne National Grassland"]
+    },
+    "biological_unit_score": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Notable forest-dependent species of interest include little brown bat (Myotis lucifugus), big brown bat (Eptesicus fuscus), northern long eared bat (Myotis septentrionalis), golden eagle (Aquila chrysaetos), American marten (Martes Americana) and horned grebe (Podiceps auritus)",
+          "location": "State Wildlife Action Plan",
+          "sub_component": "species",
+          "citations": ["Dyke et al., 2015"]
+        },
+        {
+          "text": "The elm/ash/cottonwood forest type is the most abundant of all forest types in North Dakota and occurs along rivers, lakes and streams.",
+          "location": "Riparian Forests",
+          "sub_component": "habitat",
+          "citations": []
+        }
+      ],
+      "absence_note": "The document discusses species and habitat types in forestry contexts, satisfying two biological units. However, the range-shift framing is essentially absent; the biological units are invoked in the context of general forest management, not range shift science."
+    },
+    "biological_unit_components": {
+      "species": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Notable forest-dependent species of interest include little brown bat (Myotis lucifugus), big brown bat (Eptesicus fuscus), northern long eared bat (Myotis septentrionalis), golden eagle (Aquila chrysaetos), American marten (Martes Americana) and horned grebe (Podiceps auritus)",
+            "location": "State Wildlife Action Plan",
+            "sub_component": null,
+            "citations": ["Dyke et al., 2015"]
+          }
+        ]
+      },
+      "population": {
+        "present": false,
+        "evidence": []
+      },
+      "habitat": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The elm/ash/cottonwood forest type is the most abundant of all forest types in North Dakota and occurs along rivers, lakes and streams.",
+            "location": "Riparian Forests",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecosystem": {
+        "present": false,
+        "evidence": []
+      },
+      "community": {
+        "present": false,
+        "evidence": []
+      },
+      "genotype_phenotype": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["green ash (Fraxinus pennsylvanica)", "boxelder (Acer negundo)", "basswood (Tilia americana)", "cottonwood (Populus deltoides)", "American elm (Ulmus americana)", "quaking aspen", "ponderosa pine", "little brown bat (Myotis lucifugus)", "big brown bat (Eptesicus fuscus)", "northern long-eared bat (Myotis septentrionalis)", "golden eagle (Aquila chrysaetos)", "American marten (Martes Americana)", "horned grebe (Podiceps auritus)", "elm/ash/cottonwood forest type", "aspen/birch forest type", "riparian forests", "upland forests"]
+    },
+    "partnerships_and_funding": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "The Windbreak Renovation Initiative is a $1.8 million grant ($3.6 million project) provided to the NDFS by the North Dakota Industrial Commission through the Outdoor Heritage Fund.",
+          "location": "Outdoor Heritage Fund (OHF) -Windbreak Renovation Initiative",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "The USFS -Dakota Prairie Grasslands and The Nature Conservancy entered into a memorandum of understanding to cooperate in managing prescribed fire activities on the Sheyenne National Grassland and adjacent conservancy lands.",
+          "location": "Dakota Prairie Grasslands/Nature Conservancy",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document describes various partnerships and some funding allocations, but these are primarily for general forestry management (invasive pest control, fire suppression, windbreak renovation) rather than specifically for range-shift work. No funding or partnerships are specifically directed at climate-driven range shift science or adaptation. Score 1 for general partnerships and some funding present but not targeted at range-shift actions."
+    },
+    "climate_threat_habitat_degradation": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Climate changes will affect disturbance regimes, insect and disease outbreaks, fire season length, recreational values and productivity. Forests should be managed sustainably to help them adapt to anticipated changes.",
+          "location": "Climate Change",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document briefly mentions that climate change will affect disturbance regimes and fire season length, which implies habitat-level impacts. However, the discussion is generic and brief. Drought and wildfire are discussed as threats throughout the document but are mostly framed as natural or land-use-driven rather than explicitly climate-driven. The Climate Change section does link climate to disturbance regime changes which constitute habitat degradation. Score 1 for this generic but present linkage."
+    },
+    "climate_threat_species_vital_rates": {
+      "evaluable": true,
+      "score": 0,
+      "evidence": [],
+      "absence_note": "While the document discusses pest outbreaks, fungal diseases, and mortality events affecting trees, none of these are framed as climate-induced or climate-favored. The climate section mentions insect and disease outbreaks as climate-affected but does not connect specific mortality events directly to climate drivers in a way that meets the codebook threshold for direct vital rate impacts caused by climate events."
+    },
+    "climate_threat_biotic_stressors": {
+      "evaluable": true,
+      "score": 0,
+      "evidence": [],
+      "absence_note": "The document discusses invasive species (emerald ash borer, Dutch elm disease, Russian olive) and succession (hazel replacing aspen, juniper encroachment) extensively, but none of these are framed as climate-driven. The succession discussions explicitly attribute changes to fire suppression and flood control, not climate. Invasive species spread is discussed without any climate framing. The Climate Change section mentions 'insect and disease outbreaks' as climate-affected but does not name any specific climate-favored biotic stressor or community composition change. This falls short of the codebook threshold."
+    }
+  },
+  "actions": {
+    "priority_habitat_identification": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Priority areas of upland forests are delineated primarily on the basis of the concentration of forested lands in the state. Priority areas may include the Turtle Mountains, Devils Lake Hills, Pembina Gorge, Sheyenne River Valley, Killdeer Mountains and the pine forests of southwestern North Dakota (Figure 11).",
+          "location": "Section 4. Priority Forest Resources / Upland Forests",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Wildland fire risk varies by county and the region of the state (Figure 15). By incorporating factors such as historical fire occurrences, weather data, wildland urban and wildland oil and gas interface data, preponderance of fuels and wildfire protection plans, wildland fire risk across North Dakota's landscape can be discerned.",
+          "location": "Wildland Fire Priority Areas",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document identifies priority forest areas (upland forests, riparian areas, wildland fire priority areas) with maps (Figures 11, 12, 15). This qualifies for score 2 under the codebook since priority habitats are spatially represented. However, these priorities are not framed in climate or range-shift contexts — they are general forestry management priorities. The codebook element 4.1 includes 'climate-induced threats to habitat' in its definition, which does allow for broader habitat priority identification. Given the maps and named priority areas, score 2 is appropriate even absent explicit climate-range-shift framing."
+    },
+    "targeted_range_shift_actions": {
+      "evaluable": true,
+      "score": 0,
+      "evidence": [],
+      "absence_note": "The document contains no targeted actions to manage climate-driven species range shifts. Actions such as prescribed fire, pest management, windbreak renovation, and tree planting are framed as general forestry management without any climate-range-shift motivation. No assisted migration, climate corridors, or climate-motivated translocations are discussed."
+    },
+    "time_bound_and_monitoring": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "The FSP provides technical assistance to nonindustrial, private forest landowners to encourage and enable active, long-term forest management. The Forest Stewardship Program offers a written forest stewardship plan to private landowners. These 10-year plans are designed to help landowners better understand their forest and manage the forest to meet their individual goals",
+          "location": "NDFS -Forest Stewardship Program (FSP)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document lists many strategies but provides limited explicit time-bound deadlines at the action level. The 10-year forest stewardship plans suggest time-bounding. There are references to monitoring (surveys, CTAP assessments, forest health reports), but effectiveness monitoring is not explicitly tied to specific climate-adaptation actions with milestones. Score 1 for the presence of some temporal framing (10-year plans) but no operationalized effectiveness monitoring at the action level for climate/range-shift contexts."
+    },
+    "evidence_of_efficacy": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Two wood waste biomass projects have been implemented in Bismarck. The city and the NDFS developed a pilot project for the city using wood chips to heat the public works landfill building. The conversion resulted in significant annual savings in the cost of heating the complex.",
+          "location": "Biomass Boiler -Bismarck Public Works Landfill Building",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "In 2012-2019, NDFS community forestry staff completed 95 CTAP assessments in communities.",
+          "location": "Community Threat Assessment Protocol (CTAP)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document references several implemented programs and projects with some outcome data (biomass cost savings, CTAP assessment counts, windbreak survey results). These represent limited evidence — mostly program outputs rather than rigorous efficacy evaluations. No citations to peer-reviewed efficacy studies are tied to specific actions. Score 2 (limited evidence) is appropriate: implemented actions with some documented outcomes exist, but evidence is not strong (no before-after comparisons, no formal efficacy studies cited for the main actions).",
+      "projects": ["Bismarck biomass boiler projects: Two implemented projects demonstrated that using wood chips for building heat is economically viable, with significant annual cost savings documented, providing limited evidence of efficacy for biomass utilization strategies.", "CTAP community forest assessments: 95 assessments completed 2012-2019 across North Dakota communities provided data on community tree composition, supporting the evidence base for species diversification recommendations, but not directly linked to climate adaptation actions.", "Deep Creek Ponderosa Pine Restoration: A multiyear reforestation program begun in 2016 uses locally-sourced ponderosa pine seed to reforest the 2004 fire burn area, representing an implemented action with ongoing outcomes but limited published efficacy data."]
+    },
+    "adaptation_planning_frameworks": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Climate changes will affect disturbance regimes, insect and disease outbreaks, fire season length, recreational values and productivity. Forests should be managed sustainably to help them adapt to anticipated changes.",
+          "location": "Climate Change",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document identifies 'Climate Change' as a priority issue (Issue 3.2) and includes strategies such as 'Manage existing forests to improve health' and 'Utilize best available data and assessments to anticipate emerging management tools' under this priority. This represents a generic, non-specific acknowledgment of planning for climate change. None of the named frameworks (RAD, RRT, CCVA, CCSP, SBDA, SDM, Adaptation Menu) are referenced. The document's climate change section reads as a general policy statement rather than an operationalized planning framework. Score 1 for non-specific climate adaptation planning reference."
+    }
+  },
+  "coding_meta": {
+    "coder": "llm:claude-sonnet-4-6",
+    "model": "claude-sonnet-4-6",
+    "provider": "claude",
+    "codebook_version": "0.4",
+    "ingest": "text",
+    "design": "single",
+    "temperature": null,
+    "thinking": null,
+    "thinking_effort": null,
+    "coded_at": "2026-07-07T00:31:32Z",
+    "notes": {}
+  }
+}

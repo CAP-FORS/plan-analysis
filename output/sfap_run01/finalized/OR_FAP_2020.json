@@ -1,0 +1,702 @@
+{
+  "document_meta": {
+    "title": "Oregon Forest Action Plan",
+    "year": 2021,
+    "jurisdiction": "Oregon",
+    "document_type": "Forest Action Plan",
+    "document_id": "OR_FAP_2020",
+    "page_count": 242
+  },
+  "orientation": {
+    "summary": "This is Oregon's 2020/2021 Forest Action Plan (FAP), a state-level forestry planning document covering 2020-2030, produced by the Oregon Department of Forestry (ODF). The document's primary posture toward climate change is as one of several major threats to Oregon's forests alongside wildfire, invasive species, and drought, with climate change framed as exacerbating all other threats. Toward range shifts specifically, the document is largely implicit: it discusses habitat type shifts, species maladaptation, and compositional changes under climate change but rarely uses explicit 'range shift' terminology. The document also incorporates a large Forest Legacy Program Assessment of Need (AON) section (from 2001) that discusses forest conservation areas, species, and ecoregions without explicit range-shift framing. The FAP performs its own analysis in some areas (wildfire risk modeling, forest health surveys, watershed prioritization, WUI assessment) but mostly references prior assessments and published data rather than original climate or species distribution modeling.",
+    "evidence_index": [
+      {
+        "text": "Climate change, drought, and human activity in and around forestlands have increased, challenging the ability of ODF to fulfill its mission",
+        "location": "Oregon's Priority Issues",
+        "relevant_elements": ["1.1", "3.5"]
+      },
+      {
+        "text": "climate change and the longer duration and intensity of droughts are impacting the health of trees, causing species to die off and forests to be more susceptible to invasive species",
+        "location": "Oregon's Priority Issues",
+        "relevant_elements": ["1.1", "3.5", "3.7"]
+      },
+      {
+        "text": "Climate change adds stress to trees, resulting in the raising of some forest pests from lower to higher status. Examples include: flatheaded fir borer appearing in more Douglas fir due to increasing drought stress, spruce aphid outbreaks along the coast where mild winters are resulting in lower winter mortality, population and distribution increases of exotic but established balsam woolly adelgid into high elevation areas",
+        "location": "Entomology Theme",
+        "relevant_elements": ["1.1", "3.6", "3.7"]
+      },
+      {
+        "text": "The alteration to the states ecosystems could be substantial: moving habitat types, forest types, warming waters, increasing fire return intervals, and making trees more susceptible to insects and disease as they become maladapted to the sites where they are growing.",
+        "location": "Climate Change Theme",
+        "relevant_elements": ["1.1", "1.3", "3.5", "3.6"]
+      },
+      {
+        "text": "Changes in the seasonality could lead to an asynchrony between biologic processes, adding more stress or reducing reproductive potential of the impacted species.",
+        "location": "Climate Change Theme",
+        "relevant_elements": ["1.3", "3.6", "3.7"]
+      },
+      {
+        "text": "An environment with more extremes, both hot and cold, could create a situation where trees are unable to adapt to the wide range of variability and suffer from either drought damage or freeze damage.",
+        "location": "Climate Change Theme",
+        "relevant_elements": ["1.1", "1.2", "1.3"]
+      },
+      {
+        "text": "Climate Change: increased air temperatures, changing precipitation patterns, and sea level rise all have potential consequences for Oregon's water resources-wetlands, estuaries, lakes, rivers, streams, and groundwater.",
+        "location": "Water Quality and Quantity / FINDINGS",
+        "relevant_elements": ["1.1", "3.5"]
+      },
+      {
+        "text": "Climate Change: adaptation to climate change requires increasing water conservation and efficiency efforts, expanding natural and built storage, and strengthening the resiliency of riparian areas, forestlands, wetland, and floodplains.",
+        "location": "Water Quality and Quantity / FINDINGS",
+        "relevant_elements": ["1.2", "4.5"]
+      },
+      {
+        "text": "If the current trend in greenhouse emissions continues, the model predicted that the percentage of low suitability forests will decrease from 57% to 37% and highly suitable forests increase from 7% to 31%.",
+        "location": "Enhance Public Benefits from Trees and Forests / FINDINGS",
+        "relevant_elements": ["2.3", "2.1", "4.1"]
+      },
+      {
+        "text": "Results indicated an increasing proportion of forested area with fire environments more suitable for the occurrence of large wildfires over the next century for all ecoregions.",
+        "location": "Enhance Public Benefits from Trees and Forests / FINDINGS",
+        "relevant_elements": ["2.3", "3.5"]
+      },
+      {
+        "text": "Climate trends indicate an increase in fire seasons and drought. Over time, areas that were historically low risk may move towards a much higher risk",
+        "location": "Communities at Risk / Threats",
+        "relevant_elements": ["3.5", "1.1"]
+      },
+      {
+        "text": "Since the previous edition of the state's Forest Action Plan, the state has experienced a series of years of severe drought that has stressed forest trees and induced mortality throughout the state. Models indicate that this may be a continuing trend into the future.",
+        "location": "Climate Change Theme",
+        "relevant_elements": ["1.1", "3.5", "3.6"]
+      },
+      {
+        "text": "Forest managers can prepare for compositional changes in the geography of trees and other forest vegetation. Identify species better suited to new normal climatic conditions for assisted migration.",
+        "location": "National Priority 3 Objective 3.G table",
+        "relevant_elements": ["4.2", "1.3", "1.2"]
+      },
+      {
+        "text": "Identify forested areas most vulnerable to shifts in the composition of trees and other species of vegetation. Implement management alternatives that improve the resistance to compositional changes.",
+        "location": "National Priority 3 Objective 3.G table",
+        "relevant_elements": ["4.1", "4.2", "1.1"]
+      },
+      {
+        "text": "Identify regions vulnerable to increased suitability of large wildfires and allocate protection resources accordingly. Adapt forest management strategies to account for expected increases in large wildfire potential.",
+        "location": "National Priority 3 Objective 3.G table",
+        "relevant_elements": ["4.1", "4.3"]
+      },
+      {
+        "text": "Many forests lack the resilience to withstand climate change and large high-intensity wildfires. Increase forest resiliency and prevent forest degradation from climate change.",
+        "location": "National Priority 3 Objective 3.G table",
+        "relevant_elements": ["1.2", "4.2"]
+      },
+      {
+        "text": "Seek improved understanding of future climate impacts related to net carbon uptake (CO2 fertilization) in order to adapt management practices to optimize future outcomes.",
+        "location": "National Priority 3 Objective 3.G table",
+        "relevant_elements": ["4.5", "2.3"]
+      },
+      {
+        "text": "Forest management practices and approaches can be modified to improve adaptation to climate change. Mitigate the adverse impacts of increased air temperatures, changing precipitation patterns, and sea level rise",
+        "location": "National Priority 3 Objective 3.A table",
+        "relevant_elements": ["4.5", "3.5"]
+      },
+      {
+        "text": "The forested ecoregions ranked from highest to lowest priority in terms of increase in percentage of forest suitable for large wildfires are the Blue Mountains, Klamath Mountains, East Cascades, West Cascades, and the Coast Range.",
+        "location": "Legacy Program Strategic Direction and Priority Areas 2020",
+        "relevant_elements": ["4.1", "2.3"]
+      },
+      {
+        "text": "Include climate change modeling, prescribed fire live burns, WUI, and Communities at Risk data into OWRE to assist landowners and planners in understanding a framework for their risk.",
+        "location": "National Priority 3 Objective 3.C table",
+        "relevant_elements": ["2.3", "4.5"]
+      },
+      {
+        "text": "Bark beetles are consistently the largest measureable contributor to forest tree mortality and continue to increase, in association with increasing fires and drought stress.",
+        "location": "Entomology Theme",
+        "relevant_elements": ["3.6", "3.5"]
+      },
+      {
+        "text": "Oregon's Forest Action Plan identifies the following priority issues: forest health and invasive species; wildland fire and the wildland-urban interface; sustaining working rural and urban forests; climate change, carbon sequestration, and biomass energy; and water quality and quantity.",
+        "location": "Background",
+        "relevant_elements": ["1.1"]
+      },
+      {
+        "text": "Support conservation and management of green space and corridors.",
+        "location": "National Priority 3 Objective 3.E table",
+        "relevant_elements": ["1.4", "4.2"]
+      },
+      {
+        "text": "Ensure active management of forests to enable connectivity and preservation of critical habitat. Foster understanding of the importance of Oregon's forests habitat along streams, wildlife corridors, parks, and other open space.",
+        "location": "National Priority 3 Objective 3.E table",
+        "relevant_elements": ["1.4"]
+      },
+      {
+        "text": "Oregon's Climate Change Adaptation Framework",
+        "location": "Integration of Other Statewide Plans and Programs / table",
+        "relevant_elements": ["4.5"]
+      },
+      {
+        "text": "These issues are interrelated; challenges and opportunities arise from an interacting set of drivers that include climate change, shifting economic conditions, and changing demographics and social values.",
+        "location": "Background",
+        "relevant_elements": ["1.1"]
+      },
+      {
+        "text": "Adapt forest management strategies for priority areas to mitigate potential loss, and integrate restoration practices that increase the resistance to the loss of forest productivity.",
+        "location": "National Priority 3 Objective 3.G table",
+        "relevant_elements": ["4.2", "4.5"]
+      },
+      {
+        "text": "Integrate long-term trends in snowpack and annual stream hydrology data into forest management plans and policy.",
+        "location": "National Priority 3 Objective 3.G table",
+        "relevant_elements": ["4.5", "3.5"]
+      },
+      {
+        "text": "Over-stressed trees would be attacked at higher rates than previously, potentially increasing insect populations and creating a feedback loop of damage.",
+        "location": "Climate Change Theme",
+        "relevant_elements": ["3.6", "3.7"]
+      },
+      {
+        "text": "Update risk assessment data every 5 years with the most current data available.",
+        "location": "National Priority 3 Objective 3.C table",
+        "relevant_elements": ["4.3"]
+      },
+      {
+        "text": "Develop a science based and simple to implement monitoring and accountability program.",
+        "location": "Objectives",
+        "relevant_elements": ["4.3"]
+      },
+      {
+        "text": "In January 2021, the Oregon Legislative Emergency Board (EBoard) approved the Oregon Department of Forestry's (ODF) request for $5 million to collaborate across boundaries and ownerships on land management activities",
+        "location": "Oregon's Legislative Emergency Board Funding",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "The Shared Stewardship Agreement between the Oregon Department of Forestry and the Forest Service establishes a framework that allows the state and the Forest Service to work collaboratively to accomplish mutual goals",
+        "location": "Shared Stewardship",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "ODF also worked with the USDA Forest Service, Pacific Northwest Research Station, and stakeholders to produce the Forest Ecosystem Carbon Report.",
+        "location": "May 2021 (State Forester's message)",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "USFS Digital Mobile Sketch Mapping (DMSM) system has been fully integrated into the annual statewide aerial survey (30 million acres) to improve the quality and quantity of forest health data.",
+        "location": "Forest Health Protection",
+        "relevant_elements": ["4.3"]
+      },
+      {
+        "text": "Conservation Opportunity Areas -geographic areas of importance that guide where the state and its conservation partners, including landowners and land managers, can best focus conservation efforts for native fish and wildlife.",
+        "location": "Oregon Conservation Strategy",
+        "relevant_elements": ["4.1"]
+      },
+      {
+        "text": "The 15 Forest Legacy Areas were also chosen to focus the program where important forest resources such as habitat for threatened and endangered species, aesthetics and recreation opportunity and timber supply are threatened",
+        "location": "Assessment of Need / legacy area assessment process",
+        "relevant_elements": ["4.1"]
+      }
+    ]
+  },
+  "concepts": {
+    "climate_vulnerability": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "The alteration to the states ecosystems could be substantial: moving habitat types, forest types, warming waters, increasing fire return intervals, and making trees more susceptible to insects and disease as they become maladapted to the sites where they are growing.",
+          "location": "Climate Change Theme",
+          "sub_component": "exposure",
+          "citations": []
+        },
+        {
+          "text": "An environment with more extremes, both hot and cold, could create a situation where trees are unable to adapt to the wide range of variability and suffer from either drought damage or freeze damage.",
+          "location": "Climate Change Theme",
+          "sub_component": "adaptive capacity",
+          "citations": []
+        },
+        {
+          "text": "Climate change adds stress to trees, resulting in the raising of some forest pests from lower to higher status.",
+          "location": "Entomology Theme",
+          "sub_component": "exposure",
+          "citations": []
+        }
+      ],
+      "absence_note": "The document references exposure to climate stressors extensively (drought, warming, fire) and discusses trees' inability to adapt (maladaptation), touching on adaptive capacity. However, it does not use formal vulnerability framework language (CCVI, exposure + adaptive capacity decomposition) nor does it pair both dimensions in a single passage. Score 2 is warranted because exposure is referenced repeatedly and adaptive capacity is implicitly referenced (maladaptation, inability to adapt), but they are not paired systematically."
+    },
+    "adaptive_capacity_specificity": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "trees are unable to adapt to the wide range of variability and suffer from either drought damage or freeze damage.",
+          "location": "Climate Change Theme",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "Adaptive capacity is referenced in a non-specific way. The document touches on maladaptation, distribution shifts, and movement (assisted migration) but does not operationalize these in a systematic adaptive capacity framework. Score is 1 because specific components are mentioned (enabling score at 1) but not operationalized in a coherent AC framework."
+    },
+    "adaptive_capacity_components": {
+      "demography": {
+        "present": false,
+        "evidence": []
+      },
+      "distribution": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The alteration to the states ecosystems could be substantial: moving habitat types, forest types, warming waters, increasing fire return intervals, and making trees more susceptible to insects and disease as they become maladapted to the sites where they are growing.",
+            "location": "Climate Change Theme",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "movement": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Identify species better suited to new normal climatic conditions for assisted migration.",
+            "location": "National Priority 3 Objective 3.G table",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "evolutionary_potential": {
+        "present": false,
+        "evidence": []
+      },
+      "ecological_dependencies": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Changes in the seasonality could lead to an asynchrony between biologic processes, adding more stress or reducing reproductive potential of the impacted species.",
+            "location": "Climate Change Theme",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "abiotic_niche": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "An environment with more extremes, both hot and cold, could create a situation where trees are unable to adapt to the wide range of variability and suffer from either drought damage or freeze damage.",
+            "location": "Climate Change Theme",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "life_history": {
+        "present": false,
+        "evidence": []
+      }
+    },
+    "connectivity": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Foster understanding of the importance of Oregon's forests habitat along streams, wildlife corridors, parks, and other open space. Support conservation and management of green space and corridors.",
+          "location": "National Priority 3 Objective 3.E table",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "Connectivity and corridors are discussed generically in the context of wildlife habitat management. The document does not explicitly frame connectivity as supporting climate-driven range shifts or as 'climate corridors.' Score 1 (generic) rather than 2 because the climate-shift framing is absent."
+    }
+  },
+  "tools": {
+    "vulnerability_models": {
+      "evaluable": true,
+      "score": 0,
+      "named_tools": [],
+      "evidence": [],
+      "absence_note": "No vulnerability models (CCVI, PVA, etc.) are referenced in the document. General discussion of forest vulnerability to climate occurs but without any formal model."
+    },
+    "niche_models": {
+      "evaluable": true,
+      "score": 0,
+      "named_tools": [],
+      "evidence": [],
+      "absence_note": "No species distribution models or niche models (MaxEnt, SDM, etc.) are referenced. The document discusses species ranges descriptively but without distributional modeling."
+    },
+    "climate_models": {
+      "evaluable": true,
+      "score": 1,
+      "named_tools": [],
+      "evidence": [
+        {
+          "text": "If the current trend in greenhouse emissions continues, the model predicted that the percentage of low suitability forests will decrease from 57% to 37% and highly suitable forests increase from 7% to 31%.",
+          "location": "Enhance Public Benefits from Trees and Forests / FINDINGS",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document references a model predicting future wildfire suitability for Oregon forests under greenhouse gas trends, but does not name the climate model or GCM, cite a scenario (RCP/SSP), or specify a time horizon. This constitutes a general reference to climate modeling results without named tools applied to focal subjects. Score 1.",
+      "time_horizon_years": [],
+      "emission_scenarios": []
+    },
+    "connectivity_models": {
+      "evaluable": true,
+      "score": 0,
+      "named_tools": [],
+      "evidence": [],
+      "absence_note": "No connectivity models (CircuitScape, Linkage Mapper, etc.) are referenced. Wildlife corridors are discussed narratively without underlying spatial modeling."
+    }
+  },
+  "context": {
+    "management_scale": {
+      "local": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Community Wildfire Protection Plans (CWPPs) bring an element of local knowledge and expertise that takes into account criteria such as building materials, defensible space, ingress/egress issues",
+            "location": "How Communities at risk tie to Community Wildfire Protection Plans",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "site": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "If a site does meet the requirements, ODF will also make an initial determination of the site's significance.",
+            "location": "Forest Legacy Program / site selection procedures",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "watershed": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The Private Forests Division has identified priority watersheds at the 6th field hydrologic unit (HUC 12). Priority watersheds in Oregon were defined as: Containing any percentage of forestland within the watershed",
+            "location": "Water Quality and Quantity / FINDINGS",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "city": {
+        "present": false,
+        "evidence": []
+      },
+      "county": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Counties were used because planning and communities in Oregon are often organized at the county level.",
+            "location": "Legacy area assessment process",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "within_state_region": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The forested ecoregions ranked from highest to lowest priority in terms of increase in percentage of forest suitable for large wildfires are the Blue Mountains, Klamath Mountains, East Cascades, West Cascades, and the Coast Range.",
+            "location": "Legacy Program Strategic Direction and Priority Areas 2020",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "state": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The Shared Stewardship agreement formalizes mutual efforts to accelerate the pace and scale of restoration across all of Oregon's forestlands.",
+            "location": "Shared Stewardship",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "multistate": {
+        "present": false,
+        "evidence": []
+      },
+      "national": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Oregon is committed to the National Cohesive Wildland Fire Management Strategy and pioneering work in All Lands, All Hands projects",
+            "location": "Shared Stewardship",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "transnational": {
+        "present": false,
+        "evidence": []
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Under ecosystem management, the goods and services produced by the forest (e.g., timber, minerals, recreation, water) are by-products of managing the forest for the protection and restoration of ecological values",
+            "location": "Federal (ownership section)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecoregion": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Ecoregions are geographic areas with similar features, such as climate, vegetation, geology, geomorphology, soils, and ecosystem processes. The Forest Legacy Program selected eight ecoregions in Oregon",
+            "location": "Legacy area assessment process",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "province": {
+        "present": false,
+        "evidence": []
+      },
+      "section": {
+        "present": false,
+        "evidence": []
+      },
+      "subsection": {
+        "present": false,
+        "evidence": []
+      },
+      "lake": {
+        "present": false,
+        "evidence": []
+      },
+      "river": {
+        "present": false,
+        "evidence": []
+      },
+      "district": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["Tillamook State Forest", "Clatsop State Forest", "Santiam State Forest", "Gilchrist State Forest", "Sunpass State Forest", "Wallowa Lake", "Blue Mountains", "Klamath Mountains", "East Cascades", "West Cascades", "Coast Range", "Willamette Valley", "Columbia River Gorge"]
+    },
+    "biological_unit_score": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "The alteration to the states ecosystems could be substantial: moving habitat types, forest types, warming waters, increasing fire return intervals, and making trees more susceptible to insects and disease",
+          "location": "Climate Change Theme",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "population and distribution increases of exotic but established balsam woolly adelgid into high elevation areas that it has yet to established",
+          "location": "Entomology Theme",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "biological_unit_components": {
+      "species": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "population and distribution increases of exotic but established balsam woolly adelgid into high elevation areas that it has yet to established",
+            "location": "Entomology Theme",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "population": {
+        "present": false,
+        "evidence": []
+      },
+      "habitat": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The alteration to the states ecosystems could be substantial: moving habitat types, forest types, warming waters, increasing fire return intervals",
+            "location": "Climate Change Theme",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The alteration to the states ecosystems could be substantial: moving habitat types, forest types, warming waters, increasing fire return intervals, and making trees more susceptible to insects and disease",
+            "location": "Climate Change Theme",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "community": {
+        "present": false,
+        "evidence": []
+      },
+      "genotype_phenotype": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["Northern spotted owl", "marbled murrelet", "Oregon Coast coho salmon", "Lower Columbia River coho salmon", "Douglas fir", "Sitka spruce", "ponderosa pine", "balsam woolly adelgid", "flatheaded fir borer", "spruce aphid", "bark beetles", "Sudden Oak Death (Phytophthora ramorum)", "Swiss needle cast", "emerald ash borer"]
+    },
+    "partnerships_and_funding": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "In January 2021, the Oregon Legislative Emergency Board (EBoard) approved the Oregon Department of Forestry's (ODF) request for $5 million to collaborate across boundaries and ownerships on land management activities that improve community resilience to wildfire and restore and maintain resilient forests.",
+          "location": "Oregon's Legislative Emergency Board Funding",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "In August of 2019 the State of Oregon through ODF and the USDA Forest Service entered into a Shared Stewardship Agreement to formalize collaboration toward mutual benefit and interests at a statewide scale, using all available tools.",
+          "location": "May 2021 (State Forester's message)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "Partnerships and funding are described extensively and are active (EBoard $5M grant, Shared Stewardship Agreement, Forest Legacy Program, Federal Forest Restoration Program). However, these are primarily directed at wildfire, forest health, and forest conservation — not specifically at range shift management. Score 2 reflects strategic investment with active partnerships, though not specifically for range-shift actions."
+    },
+    "climate_threat_habitat_degradation": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Climate Change: increased air temperatures, changing precipitation patterns, and sea level rise all have potential consequences for Oregon's water resources-wetlands, estuaries, lakes, rivers, streams, and groundwater.",
+          "location": "Water Quality and Quantity / FINDINGS (Threats section)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_threat_species_vital_rates": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Bark beetles are consistently the largest measureable contributor to forest tree mortality and continue to increase, in association with increasing fires and drought stress.",
+          "location": "Entomology Theme",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_threat_biotic_stressors": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "climate change and the longer duration and intensity of droughts are impacting the health of trees, causing species to die off and forests to be more susceptible to invasive species.",
+          "location": "Oregon's Priority Issues",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    }
+  },
+  "actions": {
+    "priority_habitat_identification": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "The forested ecoregions ranked from highest to lowest priority in terms of increase in percentage of forest suitable for large wildfires are the Blue Mountains, Klamath Mountains, East Cascades, West Cascades, and the Coast Range.",
+          "location": "Legacy Program Strategic Direction and Priority Areas 2020",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Conservation Opportunity Areas -geographic areas of importance that guide where the state and its conservation partners, including landowners and land managers, can best focus conservation efforts for native fish and wildlife.",
+          "location": "Oregon Conservation Strategy",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The Forest Legacy Program section includes numerous maps of Forest Legacy Areas (Figures 16-32), and the wildfire modeling section produces spatially ranked ecoregions by vulnerability. Conservation Opportunity Areas (COAs) are referenced from the Oregon Conservation Strategy. Score 2 is warranted because priority habitat areas are identified with spatial representation (maps and ecoregional prioritization)."
+    },
+    "targeted_range_shift_actions": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Identify species better suited to new normal climatic conditions for assisted migration.",
+          "location": "National Priority 3 Objective 3.G table",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "Assisted migration is explicitly mentioned once as a strategy under the climate adaptation objective (Objective 3.G). This is a direct manipulation action explicitly framed in response to climate-driven compositional change, qualifying as a targeted range-shift action. Score 1."
+    },
+    "time_bound_and_monitoring": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Update risk assessment data every 5 years with the most current data available.",
+          "location": "National Priority 3 Objective 3.C table",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document includes some time-bound elements (5-year update cycles, legislative deadlines) and mentions monitoring and performance measures, but these are primarily plan-level rather than action-level time-binding with paired effectiveness monitoring. Score 1 because there are clear deadlines (5-year data updates, EBoard grant timelines) but effectiveness monitoring is not systematically linked to specific climate adaptation actions."
+    },
+    "evidence_of_efficacy": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Recommend appropriate management based on credible science and proven practices tailored to site-specific needs and landowner/community objectives.",
+          "location": "Objectives",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document references 'credible science and proven practices' and 'best available science' in a generic way without citing specific studies, case studies, or efficacy data for any climate adaptation action. Assisted migration is mentioned once without any supporting evidence. Score 1 because rationale is outlined but no evidence is provided.",
+      "projects": []
+    },
+    "adaptation_planning_frameworks": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Oregon's Climate Change Adaptation Framework",
+          "location": "Integration of Other Statewide Plans and Programs / table",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document references Oregon's Climate Change Adaptation Framework in a list of integrated statewide plans. It also mentions adaptation to climate change broadly throughout but does not apply a named adaptation planning framework (RAD, RRT, SBDA, CCVA, etc.) to its focal subjects. Score 1 for non-specific reference."
+    }
+  },
+  "coding_meta": {
+    "coder": "llm:claude-sonnet-4-6",
+    "model": "claude-sonnet-4-6",
+    "provider": "claude",
+    "codebook_version": "0.4",
+    "ingest": "text",
+    "design": "single",
+    "temperature": null,
+    "thinking": null,
+    "thinking_effort": null,
+    "coded_at": "2026-07-07T00:31:32Z",
+    "notes": {}
+  }
+}

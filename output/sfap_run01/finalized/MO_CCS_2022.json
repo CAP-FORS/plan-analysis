@@ -1,0 +1,881 @@
+{
+  "document_meta": {
+    "title": "Missouri Comprehensive Conservation Strategy (CCS)",
+    "year": 2022,
+    "jurisdiction": "Missouri Department of Conservation (MDC)",
+    "document_type": "SWAP / Comprehensive Conservation Strategy (combined SWAP + SFAP)",
+    "document_id": "MO_CCS_2022",
+    "page_count": 566
+  },
+  "orientation": {
+    "summary": "The Missouri Comprehensive Conservation Strategy (CCS) is a combined State Wildlife Action Plan (SWAP) and State Forest Action Plan (SFAP) produced by the Missouri Department of Conservation (~2020-2022). It is a broad, habitat-based conservation planning document covering Missouri's full suite of natural communities and Species of Greatest Conservation Need (SGCN). The document acknowledges climate change as a major and growing threat to natural communities and species, devoting a dedicated chapter (Theme Five) to it, and addresses topics including projected species range shifts, phenological change, and connectivity as a climate response. The document references externally-conducted tools and analyses (e.g., USFS Climate Change Tree Atlas, NatureServe vulnerability frameworks, NIACS landscape planning tools) rather than performing its own modeling. It proposes actions primarily through habitat-based COA/PG prioritization, connectivity promotion, and landscape-scale management.",
+    "evidence_index": [
+      {
+        "text": "climate change is now widely recognized as a major threat to fish and wildlife and the natural communities on which they depend. Climate change is a particularly challenging threat because of the ways in which it may interact with other threats such as invasive species and disease",
+        "location": "Theme Five: Climate Change",
+        "relevant_elements": ["1.1", "3.5", "3.7"]
+      },
+      {
+        "text": "If global climate change continues on the current trajectory, the world can expect to see a decrease in benefits provided by terrestrial, aquatic, and wetland ecosystem services, an increase in biome transformations, continued loss of range for many species, increased extinction rates, changes in ecosystem phenology, and an overall disruption of ecosystem functions",
+        "location": "Theme Five: Climate Change",
+        "relevant_elements": ["1.1", "3.5", "3.6"]
+      },
+      {
+        "text": "Understanding why species and ecosystems are vulnerable or potentially less resilient is a critical first step in developing effective conservation strategies. This vulnerability is based on sensitivity, exposure, and the ability to adapt.",
+        "location": "Theme Five: Climate Change",
+        "relevant_elements": ["1.1", "1.2"]
+      },
+      {
+        "text": "Species with low adaptive capacity such as those with specialized habitat needs or limited dispersal ability face higher vulnerability to these changes.",
+        "location": "Theme Five: Climate Change",
+        "relevant_elements": ["1.1", "1.2", "1.3"]
+      },
+      {
+        "text": "There is significant concern for species with low mobility and dispersal capacity. For example, Missouri has a number of 'glacial relict' species... that were more common in Missouri thousands of years ago when the climatic conditions were cooler and wetter",
+        "location": "Theme Five: Climate Change",
+        "relevant_elements": ["1.1", "1.2", "1.3"]
+      },
+      {
+        "text": "Missouri is experiencing an extended growing season resulting in earlier springs and later falls, which has begun to shift the timing of phenological events (e.g., flowering and migration). Numerous native species depend on phenological cues to fulfill important life history needs.",
+        "location": "Theme Five: Climate Change",
+        "relevant_elements": ["1.1", "3.7"]
+      },
+      {
+        "text": "range contraction/expansion, timing of migration, and impacts to feeding, breeding, and brood rearing of many bird species Most birds have the benefit of flight, many capable of long-distance migration and dispersal. Yet, even with this adaptation, there is great concern for bird populations",
+        "location": "Theme Five: Climate Change",
+        "relevant_elements": ["1.1", "1.3", "3.3"]
+      },
+      {
+        "text": "Now consider how current and projected climate changes may affect species with less mobility who must navigate potential dispersal barriers, such as insufficient or absent natural community or suitable habitat connectivity, infrastructure and development, dams, etc.",
+        "location": "Theme Five: Climate Change",
+        "relevant_elements": ["1.3", "1.4", "3.3"]
+      },
+      {
+        "text": "Fragmentation can also change species behavior and cut off migration corridors for flora and fauna -such corridors are becoming increasingly important, given projected changes in climate.",
+        "location": "Urban Sprawl and Landscape Fragmentation",
+        "relevant_elements": ["1.4", "4.2"]
+      },
+      {
+        "text": "Missouri's approach also promotes connectivity within and among habitat systems by prioritizing those areas that are larger, more intact, nearer to other conservation landscapes... Improving connectivity will facilitate potential range adjustments that may occur in many species adapting to climate change.",
+        "location": "Theme Five: Climate Change / Missouri Efforts",
+        "relevant_elements": ["1.4", "4.1", "4.2"]
+      },
+      {
+        "text": "the U.S. Department of Interior's Northeast Climate Adaptation Science Center, USDA's Northern Forests Climate Hub, and USFS's Northern Institute of Applied Climate Science (NIACS) are federal organizations that work with natural resource managers to gather the scientific information and build the tools needed to help fish, wildlife, and ecosystems adapt to the impacts of climate change.",
+        "location": "Theme Five: Climate Change / Missouri Efforts",
+        "relevant_elements": ["2.1", "4.5"]
+      },
+      {
+        "text": "Missouri has been involved in the development of landscape planning tools that can integrate projected future changes in landscapes and ecosystems from climate and land-use change. These tools were based on Missouri's CCS and extend to modeling responses of wildlife populations to conservation scenarios under these changes",
+        "location": "Theme Five: Climate Change / Missouri Efforts",
+        "relevant_elements": ["2.1", "2.3", "4.5"]
+      },
+      {
+        "text": "the Central Hardwoods Region... The assessment evaluated the vulnerability of terrestrial ecosystems in the Central Hardwoods Region to a range of future climates.",
+        "location": "Theme Five: Climate Change",
+        "relevant_elements": ["2.1", "1.1"]
+      },
+      {
+        "text": "Climate trends projected for the next 100 years by using downscaled global climate model data indicate a potential increase in mean annual temperature of 2 to 7 °F for this region.",
+        "location": "Theme Five: Climate Change",
+        "relevant_elements": ["2.3"]
+      },
+      {
+        "text": "According to the USFS Climate Change Tree Atlas, while the projected future habitat suitability for many oak species is expected to remain stable or decrease, the suitability for shortleaf pine is expected to increase.",
+        "location": "G.2 Red Oak Decline and Shortleaf Pine Restoration",
+        "relevant_elements": ["2.2", "2.3"]
+      },
+      {
+        "text": "Figures 3.5.1-12 include examples from these atlases for 2 tree species and 2 bird species.",
+        "location": "Theme Five: Climate Change",
+        "relevant_elements": ["2.2", "3.3"]
+      },
+      {
+        "text": "Audubon reports Missouri has 13 highly vulnerable, 27 moderate, and 29 bird species of low vulnerability to climate change, as well as 70 reported as stable",
+        "location": "Theme Five: Climate Change",
+        "relevant_elements": ["1.1", "2.1"]
+      },
+      {
+        "text": "Riparian areas are important migration corridors, which may become increasingly important as species adjust ranges under increased climate stress (Krosby et al. 2018).",
+        "location": "Climate Regulation (Regulating Services)",
+        "relevant_elements": ["1.4", "4.2"]
+      },
+      {
+        "text": "the new paradigm to conservation, one that emphasizes coordination among partners across large scales, increasing connectivity and resiliency.",
+        "location": "Theme Five: Climate Change / Missouri Efforts",
+        "relevant_elements": ["1.4", "3.4", "4.5"]
+      },
+      {
+        "text": "The CCS identifies and assists in prioritizing the best opportunities for conservation throughout the state and targets landscapes for focused conservation effort. Efforts to enhance, restore, reconstruct, and maintain healthy and connected habitat systems... may result in more resilient natural systems",
+        "location": "Theme Five: Climate Change / Missouri Efforts",
+        "relevant_elements": ["4.1", "4.2", "4.5"]
+      },
+      {
+        "text": "Many potential impacts on wildlife and their habitats remain unknown. • Many migratory species, such as mallards and other dabbling ducks, rely on temperature cues to signal northward and southward migration each year. As temperatures warm and precipitation patterns change, some wildlife species may experience a shift in breeding and migration dates",
+        "location": "Theme Five: Climate Change",
+        "relevant_elements": ["1.3", "3.6", "3.7"]
+      },
+      {
+        "text": "Populations of species at the edge of their range often have unique genotypes more adapted to extreme conditions, including climate. With extreme climate events projected to become increasingly more common, these range-edge genotypes may be important for maintaining species viability",
+        "location": "Genetic Resources (Biodiversity)",
+        "relevant_elements": ["1.3"]
+      },
+      {
+        "text": "the growing season in Missouri has increased by an average of one week in both the spring and fall and the past decade has been marked by increased precipitation, especially extreme rain events. These and other possible impacts from climate change are expected to increase, further altering natural systems.",
+        "location": "Missouri Natural Systems Modifications",
+        "relevant_elements": ["1.1", "3.5", "3.7"]
+      },
+      {
+        "text": "Changing climate patterns including extreme rain events are also altering hydrologic cycles.",
+        "location": "Wetlands: Threats and Challenges / System Alterations",
+        "relevant_elements": ["3.5"]
+      },
+      {
+        "text": "Many climate models project that weather events will become more extreme -large rainfall events followed by longer periods without rain being one example.",
+        "location": "Extreme Weather Events",
+        "relevant_elements": ["2.3", "3.5"]
+      },
+      {
+        "text": "The increasing frequency of large rainfall events is potentially linked to climate change, described in Theme Five.",
+        "location": "Extreme Weather Events",
+        "relevant_elements": ["3.5"]
+      },
+      {
+        "text": "Unfortunately, the role of some native insect and disease species in natural communities is beginning to change as the result of human interference and climate change.",
+        "location": "Native Insects and Diseases",
+        "relevant_elements": ["3.7"]
+      },
+      {
+        "text": "the effects of climate change on cave-dwelling species are also unknown... Changes in climate will also create additional management challenges as conditions become more favorable for invasive plant species not currently prevalent in the assessment area.",
+        "location": "Theme Five: Climate Change",
+        "relevant_elements": ["3.5", "3.7"]
+      },
+      {
+        "text": "Warming has allowed invasive cheatgrass to expand its range into higher elevations previously dominated by native bunchgrasses.",
+        "location": "Theme Five: Climate Change",
+        "relevant_elements": ["3.7"]
+      },
+      {
+        "text": "Missouri's COAs network -a powerful tool in identifying the best landscapes to focus limited resources first.",
+        "location": "The Need for Combined Prioritization",
+        "relevant_elements": ["4.1"]
+      },
+      {
+        "text": "The 2020 COAs represent the greatest opportunity for regenerative conservation of the state's native flora and fauna and the natural communities they are a part of, including forests and woodlands; savannas, prairies, and grasslands; glades; caves and karst; wetlands; rivers and streams; and cliff and talus.",
+        "location": "The Identification of Missouri's Conservation Opportunity Areas",
+        "relevant_elements": ["4.1"]
+      },
+      {
+        "text": "Partners generously shared their emphasis areas with MDC, so these could be incorporated into the analyses delineating the Conservation Opportunity Areas (COAs). They participated in multiple meetings and roundtable discussions and provided input on draft versions",
+        "location": "Primary References (Acknowledgments)",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "AFWA approved a goal for states to collectively contribute up to $10 million per year to the NAWMP projects on the breeding grounds in Canada through the Fall Flights Program... each state's contribution is multiplied at least four-to fivefold.",
+        "location": "Conserving Critical Waterfowl Habitat in the Prairie Pothole Region",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "The CCS will be reviewed on a five-year rotation starting in 2025. Each review and subsequent revision will include any changes or shifts in Missouri's conservation priorities.",
+        "location": "Timeframe and Revision",
+        "relevant_elements": ["4.3"]
+      },
+      {
+        "text": "Monitoring will be necessary to detect changes in communities as a result of management actions or the impacts of threats and stressors and will enable conservation partners to respond to emerging threats in a timely and effective manner.",
+        "location": "Theme Five: Climate Change / Missouri Efforts",
+        "relevant_elements": ["4.3"]
+      },
+      {
+        "text": "species distribution surveys and/or monitoring occur on a regular basis with a frequency appropriate to the target species to track species population trends and changes in distribution.",
+        "location": "Section Eight: Evaluation of the CCS",
+        "relevant_elements": ["4.3"]
+      },
+      {
+        "text": "Restoring shortleaf pine will also help increase tree species diversity. Therefore, if some insect or disease comes through in the future and severely impacts Missouri's oak resource... our woods will still contain a lot of healthy trees. According to the USFS Climate Change Tree Atlas, while the projected future habitat suitability for many oak species is expected to remain stable or decrease, the suitability for shortleaf pine is expected to increase. Therefore, restoring shortleaf pine to the landscape could help make our woodlands more adaptable and resilient to potential changes in climate.",
+        "location": "G.2 Red Oak Decline and Shortleaf Pine Restoration",
+        "relevant_elements": ["2.2", "4.1", "4.4"]
+      },
+      {
+        "text": "Results from these partnerships and tools provide evidence that Missouri's natural community-based approach, focused on landscape-level health and resiliency, is an important component in a larger approach to mitigate the threat of climate change.",
+        "location": "Theme Five: Climate Change / Missouri Efforts",
+        "relevant_elements": ["4.4", "4.5"]
+      },
+      {
+        "text": "NIACS has worked with a variety of Missouri conservation partners, including the Middle Blue River Watershed in Kansas City, the City of Columbia, L-A-D Foundation's Pioneer Forest, the Ozark National Scenic Riverways, and MTNF. Case studies describing these innovative projects can be referenced at forestadaptation.org",
+        "location": "Theme Five: Climate Change / Missouri Efforts",
+        "relevant_elements": ["4.4", "4.5"]
+      },
+      {
+        "text": "Species that rely on cold or cool water, including aquatic biota such as the Ozark sculpin (Cottus hypselurus), coldwater crayfish (Faxonius eupunctus), and Ozark hellbender (Cryptobranchus alleganiensis bishopi) may also find increasing temperatures and precipitation variability from climate change to be additional stressors",
+        "location": "Theme Five: Climate Change",
+        "relevant_elements": ["1.1", "1.3", "3.6"]
+      },
+      {
+        "text": "Amphibians in general as a group are vulnerable to the impacts of climate change as an additional stressor. Likewise, cave fauna, including cave-dwelling bats, are vulnerable to changes in cave thermal regimes",
+        "location": "Theme Five: Climate Change",
+        "relevant_elements": ["1.1", "3.6"]
+      },
+      {
+        "text": "Increasing resilience has been identified as a primary method for minimizing the impacts of climate change on natural resources.",
+        "location": "Theme Five: Climate Change / Missouri Efforts",
+        "relevant_elements": ["4.5"]
+      }
+    ]
+  },
+  "concepts": {
+    "climate_vulnerability": {
+      "evaluable": true,
+      "score": 3,
+      "evidence": [
+        {
+          "text": "Understanding why species and ecosystems are vulnerable or potentially less resilient is a critical first step in developing effective conservation strategies. This vulnerability is based on sensitivity, exposure, and the ability to adapt.",
+          "location": "Theme Five: Climate Change",
+          "sub_component": "exposure and adaptive capacity",
+          "citations": []
+        },
+        {
+          "text": "Species with low adaptive capacity such as those with specialized habitat needs or limited dispersal ability face higher vulnerability to these changes.",
+          "location": "Theme Five: Climate Change",
+          "sub_component": "adaptive capacity",
+          "citations": []
+        },
+        {
+          "text": "These glacial relict species may be more vulnerable to a warming climate and precipitation variation, especially droughts, in concert of course with other stressors",
+          "location": "Theme Five: Climate Change",
+          "sub_component": "exposure",
+          "citations": ["Mattingly and Leopold 2018"]
+        }
+      ],
+      "absence_note": {}
+    },
+    "adaptive_capacity_specificity": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Species with low adaptive capacity such as those with specialized habitat needs or limited dispersal ability face higher vulnerability to these changes.",
+          "location": "Theme Five: Climate Change",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Now consider how current and projected climate changes may affect species with less mobility who must navigate potential dispersal barriers, such as insufficient or absent natural community or suitable habitat connectivity, infrastructure and development, dams, etc.",
+          "location": "Theme Five: Climate Change",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "adaptive_capacity_components": {
+      "demography": {
+        "present": false,
+        "evidence": []
+      },
+      "distribution": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "continued loss of range for many species, increased extinction rates, changes in ecosystem phenology, and an overall disruption of ecosystem functions and regulating services",
+            "location": "Theme Five: Climate Change",
+            "sub_component": null,
+            "citations": ["Hoegh-Guldberg et al. 2018"]
+          }
+        ]
+      },
+      "movement": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Now consider how current and projected climate changes may affect species with less mobility who must navigate potential dispersal barriers, such as insufficient or absent natural community or suitable habitat connectivity, infrastructure and development, dams, etc. These are challenges that many animals such as herptiles, land mammals, fish, mussels, and others may face.",
+            "location": "Theme Five: Climate Change",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "evolutionary_potential": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Populations of species at the edge of their range often have unique genotypes more adapted to extreme conditions, including climate. With extreme climate events projected to become increasingly more common, these range-edge genotypes may be important for maintaining species viability",
+            "location": "Genetic Resources (Biodiversity)",
+            "sub_component": null,
+            "citations": ["Booy 2000", "Rehm et al. 2015"]
+          }
+        ]
+      },
+      "ecological_dependencies": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "As plant phenology shifts, the corresponding pollinators and other species must also adapt to this shift to stay in sync, so the system can persist. Beyond the immediate impact for the plant and associated species, the compounded consequences of a breakdown in this synchronization are unknown but are cause for concern through all trophic levels",
+            "location": "Theme Five: Climate Change",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "abiotic_niche": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Species that rely on cold or cool water, including aquatic biota such as the Ozark sculpin (Cottus hypselurus), coldwater crayfish (Faxonius eupunctus), and Ozark hellbender (Cryptobranchus alleganiensis bishopi) may also find increasing temperatures and precipitation variability from climate change to be additional stressors",
+            "location": "Theme Five: Climate Change",
+            "sub_component": null,
+            "citations": ["Lynch et al. 2016", "Nickerson et al. 2017"]
+          }
+        ]
+      },
+      "life_history": {
+        "present": false,
+        "evidence": []
+      }
+    },
+    "connectivity": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Missouri's approach also promotes connectivity within and among habitat systems by prioritizing those areas that are larger, more intact, nearer to other conservation landscapes, and/or where there is more opportunity to expand conservation action. Improving connectivity will facilitate potential range adjustments that may occur in many species adapting to climate change.",
+          "location": "Theme Five: Climate Change / Missouri Efforts",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Fragmentation can also change species behavior and cut off migration corridors for flora and fauna -such corridors are becoming increasingly important, given projected changes in climate.",
+          "location": "Urban Sprawl and Landscape Fragmentation",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Riparian areas are important migration corridors, which may become increasingly important as species adjust ranges under increased climate stress",
+          "location": "Climate Regulation (Regulating Services)",
+          "sub_component": null,
+          "citations": ["Krosby et al. 2018"]
+        }
+      ],
+      "absence_note": {}
+    }
+  },
+  "tools": {
+    "vulnerability_models": {
+      "evaluable": true,
+      "score": 2,
+      "named_tools": ["NatureServe vulnerability framework", "Central Hardwoods ecosystem vulnerability assessment"],
+      "evidence": [
+        {
+          "text": "The assessment evaluated the vulnerability of terrestrial ecosystems in the Central Hardwoods Region to a range of future climates.",
+          "location": "Theme Five: Climate Change",
+          "sub_component": null,
+          "citations": ["Brandt et al. 2014"]
+        },
+        {
+          "text": "Audubon reports Missouri has 13 highly vulnerable, 27 moderate, and 29 bird species of low vulnerability to climate change, as well as 70 reported as stable",
+          "location": "Theme Five: Climate Change",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document references results of external vulnerability assessments (Central Hardwoods regional assessment, Audubon vulnerability scoring for Missouri birds) that are applied to Missouri species/habitats. This qualifies as applied (score=2) per the codebook rule that substantively incorporating prior tool-based results into management decisions counts as application."
+    },
+    "niche_models": {
+      "evaluable": true,
+      "score": 2,
+      "named_tools": ["USFS Climate Change Tree Atlas", "Climate Change Bird Atlas"],
+      "evidence": [
+        {
+          "text": "According to the USFS Climate Change Tree Atlas, while the projected future habitat suitability for many oak species is expected to remain stable or decrease, the suitability for shortleaf pine is expected to increase. Therefore, restoring shortleaf pine to the landscape could help make our woodlands more adaptable and resilient to potential changes in climate.",
+          "location": "G.2 Red Oak Decline and Shortleaf Pine Restoration",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Figures 3.5.1-12 include examples from these atlases for 2 tree species and 2 bird species.",
+          "location": "Theme Five: Climate Change",
+          "sub_component": null,
+          "citations": ["Prasad et al. 2014", "Matthews et al. 2014"]
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_models": {
+      "evaluable": true,
+      "score": 1,
+      "named_tools": ["downscaled global climate models"],
+      "evidence": [
+        {
+          "text": "Climate trends projected for the next 100 years by using downscaled global climate model data indicate a potential increase in mean annual temperature of 2 to 7 °F for this region.",
+          "location": "Theme Five: Climate Change",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Many climate models project that weather events will become more extreme -large rainfall events followed by longer periods without rain being one example.",
+          "location": "Extreme Weather Events",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document references climate model projections in general terms and mentions downscaled global climate models in the context of the Central Hardwoods assessment, but does not name specific GCMs, CMIP versions, or emission scenarios (RCPs/SSPs). The projections are not clearly applied to Missouri's own management decisions in a model-specific way. Scored 1 (referenced generally).",
+      "time_horizon_years": [2100],
+      "emission_scenarios": []
+    },
+    "connectivity_models": {
+      "evaluable": true,
+      "score": 0,
+      "named_tools": [],
+      "evidence": [],
+      "absence_note": "The document discusses connectivity extensively as a concept and in management context, including the COA network and riparian corridor prioritization, but does not reference any specific connectivity modeling tools (e.g., CircuitScape, Linkage Mapper) or describe quantitative connectivity modeling outputs being used in management decisions."
+    }
+  },
+  "context": {
+    "management_scale": {
+      "local": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Within each PG, MDC has established a dedicated interdisciplinary team... and challenged each team to employ proactive methods to deliver landscape conservation through both exemplary public land management and community and private land assistance and management.",
+            "location": "The Designation of Priority Geographies (Emphasized COAs)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "site": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The CCS focuses on key conservation challenges and opportunities. The framework embraces landscape-scale conservation, working to maintain, enhance, restore, and re-create healthy natural systems, while not overlooking the value of site-level conservation.",
+            "location": "Section One: CCS Overview / Introduction",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "watershed": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Missouri's watershed prioritization is based on two guiding objectives: (1) conserving aquatic health and biodiversity and (2) providing quality areas and opportunities for outdoor recreation.",
+            "location": "Missouri's Priority Watersheds",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "city": {
+        "present": false,
+        "evidence": []
+      },
+      "county": {
+        "present": false,
+        "evidence": []
+      },
+      "within_state_region": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "MDC focuses its Fall Flights resources on four high priority waterfowl areas located within the Prairie and Aspen Parkland ecoregions of Manitoba within the PPR.",
+            "location": "A Focus on the Prairie Pothole Region of Manitoba",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "state": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The Missouri Comprehensive Conservation Strategy (CCS) is the integration of Missouri's State Forest Action Plan (SFAP), State Wildlife Action Plan (SWAP), watershed priorities, public and private land conservation opportunities, community conservation strategy, and other conservation challenges and opportunities into a unified framework.",
+            "location": "Section One: CCS Overview / Introduction",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "multistate": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Missouri is part of three joint ventures (Central Hardwoods, Lower Mississippi Valley, and Upper Mississippi River/Great Lakes) and the CCS complements the regional priorities stepped down to the state level.",
+            "location": "Multi-State and International Collaboration: Initiatives and Priority Areas",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "national": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Missouri conservation partners lead or contribute significantly to many regional, national, and international conservation initiatives and working groups.",
+            "location": "Multi-State and International Collaboration: Initiatives and Priority Areas",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "transnational": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Focal countries for full life-cycle conservation of Missouri-breeding SGCNs include Belize, Guatemala, Honduras, Nicaragua, Costa Rica, Colombia, and Ecuador.",
+            "location": "Focal countries for full life-cycle conservation",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Collaboration around a bold vision for connecting the lands and waters of the Southeast and the Caribbean to support healthy ecosystems, thriving fish and wildlife populations, and vibrant communities using a data-driven spatial plan",
+            "location": "Multi-State and International Collaboration: Initiatives and Priority Areas",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecoregion": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Many portfolio areas were derived from Ecoregional Assessments, but other priorities derived using other planning methodologies are included in this global dataset.",
+            "location": "The Nature Conservancy Portfolio Sites",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "province": {
+        "present": false,
+        "evidence": []
+      },
+      "section": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Missouri's ECS ties directly into multi-state and subcontinental scale units already developed by USFS (e.g., Ozark Highlands Section of the Eastern Broadleaf Forest Province). Missouri has 32 ecological subsections",
+            "location": "Missouri Natural Communities Background",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "subsection": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Missouri has 32 ecological subsections and multiple LTAs in its ECS, which are described in Nigh and Schroeder (2002)",
+            "location": "Missouri Natural Communities Background",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "lake": {
+        "present": false,
+        "evidence": []
+      },
+      "river": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Missouri is geographically situated at the intersection of significant landforms, where the vast plains meet the rugged Ozarks, and encompasses the confluence and significant floodplains of two continentally significant rivers -the Missouri and Mississippi.",
+            "location": "Multi-State and International Collaboration: Initiatives and Priority Areas",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "district": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["Prairie Pothole Region of Manitoba", "Ozark Highlands", "Mississippi Flyway", "Central Hardwoods Joint Venture", "Lower Mississippi Valley Joint Venture", "Southeast Conservation Adaptation Strategy (SECAS)", "Grand River Grasslands", "Spring Creek Watershed", "Huzzah and Shoal Creek Woodlands", "Little Niangua River", "Current River Hills"]
+    },
+    "biological_unit_score": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "continued loss of range for many species, increased extinction rates, changes in ecosystem phenology, and an overall disruption of ecosystem functions and regulating services",
+          "location": "Theme Five: Climate Change",
+          "sub_component": "species and ecosystem",
+          "citations": ["Hoegh-Guldberg et al. 2018"]
+        },
+        {
+          "text": "Improving connectivity will facilitate potential range adjustments that may occur in many species adapting to climate change.",
+          "location": "Theme Five: Climate Change / Missouri Efforts",
+          "sub_component": "species and habitat",
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "biological_unit_components": {
+      "species": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "continued loss of range for many species, increased extinction rates, changes in ecosystem phenology, and an overall disruption of ecosystem functions",
+            "location": "Theme Five: Climate Change",
+            "sub_component": null,
+            "citations": ["Hoegh-Guldberg et al. 2018"]
+          }
+        ]
+      },
+      "population": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "There is significant concern for species with low mobility and dispersal capacity. For example, Missouri has a number of 'glacial relict' species, more common to the north and east of the state, that were more common in Missouri thousands of years ago when the climatic conditions were cooler and wetter at the end of the last glaciation period.",
+            "location": "Theme Five: Climate Change",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "habitat": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Improving connectivity will facilitate potential range adjustments that may occur in many species adapting to climate change.",
+            "location": "Theme Five: Climate Change / Missouri Efforts",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "an increase in biome transformations, continued loss of range for many species, increased extinction rates, changes in ecosystem phenology, and an overall disruption of ecosystem functions and regulating services",
+            "location": "Theme Five: Climate Change",
+            "sub_component": null,
+            "citations": ["Hoegh-Guldberg et al. 2018"]
+          }
+        ]
+      },
+      "community": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "a rapidly changing climate could lead to population declines, local extinctions, and a reshuffling of bird communities causing unpredictable interactions.",
+            "location": "Theme Five: Climate Change",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "genotype_phenotype": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Populations of species at the edge of their range often have unique genotypes more adapted to extreme conditions, including climate. With extreme climate events projected to become increasingly more common, these range-edge genotypes may be important for maintaining species viability",
+            "location": "Genetic Resources (Biodiversity)",
+            "sub_component": null,
+            "citations": ["Booy 2000", "Rehm et al. 2015"]
+          }
+        ]
+      },
+      "named_entities": ["Ozark sculpin (Cottus hypselurus)", "coldwater crayfish (Faxonius eupunctus)", "Ozark hellbender (Cryptobranchus alleganiensis bishopi)", "glacial relict species (cherrystone snail Hendersonia occulta, harebell Campanula rotundifolia)", "shortleaf pine (Pinus echinata)", "white oak", "summer tanager", "red-headed woodpecker", "Cerulean warbler", "wood thrush", "monarch butterfly (Danaus plexippus)"]
+    },
+    "partnerships_and_funding": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "AFWA approved a goal for states to collectively contribute up to $10 million per year to the NAWMP projects on the breeding grounds in Canada through the Fall Flights Program... each state's contribution is multiplied at least four-to fivefold.",
+          "location": "Conserving Critical Waterfowl Habitat in the Prairie Pothole Region",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Since that time, over 30 states have contributed $2.9 million to a variety of conservation efforts on stopover sites and wintering grounds in Mexico, Central America, South America, and the Caribbean.",
+          "location": "Neotropical Migrant Bird Conservation Partnerships",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "NIACS has worked with a variety of Missouri conservation partners, including the Middle Blue River Watershed in Kansas City, the City of Columbia, L-A-D Foundation's Pioneer Forest, the Ozark National Scenic Riverways, and MTNF.",
+          "location": "Theme Five: Climate Change / Missouri Efforts",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_threat_habitat_degradation": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "the growing season in Missouri has increased by an average of one week in both the spring and fall and the past decade has been marked by increased precipitation, especially extreme rain events. These and other possible impacts from climate change are expected to increase, further altering natural systems.",
+          "location": "Missouri Natural Systems Modifications",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Changing climate patterns including extreme rain events are also altering hydrologic cycles.",
+          "location": "Wetlands: Threats and Challenges / System Alterations",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_threat_species_vital_rates": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Amphibians in general as a group are vulnerable to the impacts of climate change as an additional stressor. Likewise, cave fauna, including cave-dwelling bats, are vulnerable to changes in cave thermal regimes",
+          "location": "Theme Five: Climate Change",
+          "sub_component": null,
+          "citations": ["Struecker and Milanovich 2017", "Furey and Racey 2016"]
+        },
+        {
+          "text": "Species that rely on cold or cool water, including aquatic biota such as the Ozark sculpin (Cottus hypselurus), coldwater crayfish (Faxonius eupunctus), and Ozark hellbender (Cryptobranchus alleganiensis bishopi) may also find increasing temperatures and precipitation variability from climate change to be additional stressors",
+          "location": "Theme Five: Climate Change",
+          "sub_component": null,
+          "citations": ["Lynch et al. 2016", "Nickerson et al. 2017"]
+        }
+      ],
+      "absence_note": "The framing is predominantly about vulnerability and stress rather than explicit vital-rate impacts (mortality, reproduction failure). However, the discussion of cave bat vulnerability to thermal regime change and cold-water species stress from temperature/precipitation changes does imply direct climate-driven impacts on survival, which is close enough to qualify under the element's scope."
+    },
+    "climate_threat_biotic_stressors": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Changes in climate will also create additional management challenges as conditions become more favorable for invasive plant species not currently prevalent in the assessment area.",
+          "location": "Theme Five: Climate Change",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Missouri is experiencing an extended growing season resulting in earlier springs and later falls, which has begun to shift the timing of phenological events (e.g., flowering and migration). Numerous native species depend on phenological cues to fulfill important life history needs.",
+          "location": "Theme Five: Climate Change",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    }
+  },
+  "actions": {
+    "priority_habitat_identification": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "The 2020 COAs represent the greatest opportunity for regenerative conservation of the state's native flora and fauna and the natural communities they are a part of, including forests and woodlands; savannas, prairies, and grasslands; glades; caves and karst; wetlands; rivers and streams; and cliff and talus.",
+          "location": "The Identification of Missouri's Conservation Opportunity Areas",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Missouri's approach also promotes connectivity within and among habitat systems by prioritizing those areas that are larger, more intact, nearer to other conservation landscapes... Improving connectivity will facilitate potential range adjustments that may occur in many species adapting to climate change.",
+          "location": "Theme Five: Climate Change / Missouri Efforts",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "targeted_range_shift_actions": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Improving connectivity will facilitate potential range adjustments that may occur in many species adapting to climate change.",
+          "location": "Theme Five: Climate Change / Missouri Efforts",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Riparian areas are important migration corridors, which may become increasingly important as species adjust ranges under increased climate stress",
+          "location": "Climate Regulation (Regulating Services)",
+          "sub_component": null,
+          "citations": ["Krosby et al. 2018"]
+        }
+      ],
+      "absence_note": "The document proposes structural facilitation (connectivity promotion, COA network, riparian corridor maintenance) explicitly framed around climate-driven range adjustments. No direct manipulation (assisted migration, translocation for climate reasons) is proposed. Score=1 is warranted for structural facilitation."
+    },
+    "time_bound_and_monitoring": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "The CCS will be reviewed on a five-year rotation starting in 2025. Each review and subsequent revision will include any changes or shifts in Missouri's conservation priorities. The first comprehensive revision of the CCS is scheduled to be submitted to the USFS and USFWS in 2030.",
+          "location": "Timeframe and Revision",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Monitoring will be necessary to detect changes in communities as a result of management actions or the impacts of threats and stressors and will enable conservation partners to respond to emerging threats in a timely and effective manner.",
+          "location": "Theme Five: Climate Change / Missouri Efforts",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document specifies plan-level timelines (5-year review, 10-year revision) and endorses monitoring as a principle, but individual climate-related actions lack attached deadlines or operationalized effectiveness monitoring protocols at the action level. Score=1 reflects plan-level deadlines without action-level monitoring operationalization."
+    },
+    "evidence_of_efficacy": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Results from these partnerships and tools provide evidence that Missouri's natural community-based approach, focused on landscape-level health and resiliency, is an important component in a larger approach to mitigate the threat of climate change.",
+          "location": "Theme Five: Climate Change / Missouri Efforts",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "According to the USFS Climate Change Tree Atlas, while the projected future habitat suitability for many oak species is expected to remain stable or decrease, the suitability for shortleaf pine is expected to increase. Therefore, restoring shortleaf pine to the landscape could help make our woodlands more adaptable and resilient to potential changes in climate.",
+          "location": "G.2 Red Oak Decline and Shortleaf Pine Restoration",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "Evidence of efficacy is present but limited in applicability — the document cites external assessments and modeling outputs rather than field evaluations of implemented climate adaptation actions. Score=2 (limited evidence) is appropriate: studies/tools cited are relevant but not direct efficacy tests of the proposed actions.",
+      "projects": ["NIACS demonstration projects (Middle Blue River Watershed, City of Columbia, Pioneer Forest, Ozark National Scenic Riverways, Mark Twain National Forest): These landscape planning projects, referenced via forestadaptation.org, provide case-study evidence that Missouri's natural-community-based approach and landscape resiliency strategies can contribute to climate change mitigation and adaptation. Results are referenced but not fully detailed in the document.", "USFS Climate Change Tree Atlas applied to shortleaf pine restoration: Species distribution modeling results are used to support the management action of restoring shortleaf pine as a climate-adaptive strategy, providing limited but applicable evidence from a credible federal modeling tool."]
+    },
+    "adaptation_planning_frameworks": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Missouri has been an important partner in these efforts and has helped adapt planning approaches to incorporate climate change impacts.",
+          "location": "Theme Five: Climate Change / Missouri Efforts",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "the new paradigm to conservation, one that emphasizes coordination among partners across large scales, increasing connectivity and resiliency.",
+          "location": "Theme Five: Climate Change / Missouri Efforts",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document references climate adaptation planning approaches in general terms (coordination, resiliency) and mentions NIACS tools, but does not name or operationalize specific climate adaptation planning frameworks such as RAD (Resist-Accept-Direct), Structured Decision Making, or CCVA. Score=1 (referenced in non-specific way)."
+    }
+  },
+  "coding_meta": {
+    "coder": "llm:claude-sonnet-4-6",
+    "model": "claude-sonnet-4-6",
+    "provider": "claude",
+    "codebook_version": "0.4",
+    "ingest": "text",
+    "design": "single",
+    "temperature": null,
+    "thinking": null,
+    "thinking_effort": null,
+    "coded_at": "2026-07-07T00:31:31Z",
+    "notes": {}
+  }
+}

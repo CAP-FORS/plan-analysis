@@ -1,0 +1,1403 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main"></title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">843C7A05F4ECF7BBE86044BCF50AEFD9</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.1" ident="GROBID" when="2026-07-06T11:17+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract/>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Taxon-specific priorities reflected variation in actions across species groups. Fish species were frequently linked to improvements in aquatic connectivity, such as culvert upgrades and dam removals. Amphibians and reptiles are associated with wetland management and the mitigation of road mortality. Grassland and shrubland birds benefit from targeted habitat restoration, while beach-nesting birds benefit from increased law enforcement, and urban migratory species are associated with reduced lighting. Invertebrates and plants, collectively representing the largest proportion of Connecticut's SGCN, were overwhelmingly associated with monitoring and planning actions due to persistent gaps in taxonomy, distribution, and ecological understanding. Appendices 4.2 through 4.4 list all conservation actions related to individual SGCN, SAPS, and habitats. Together, these elements form a focused and adaptable action agenda, grounded in ecological need and designed to guide coordinated investment across the next decade.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conservation Actions within Connecticut since the 2015 Wildlife Action Plan</head><p>Below are summaries of progress made since the 2015 Connecticut Wildlife Action Plan for each taxonomic group. These summaries are not exhaustive, but highlight select conservation actions implemented since 2015. Information on the conservation actions implemented since 2015 was gathered from CT DEEP staff, partner organizations, and other government agencies and is further detailed in Chapter 1.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Amphibians &amp; Reptiles</head><p>Since 2015, CT DEEP and its conservation partners have initiated multiple projects to protect amphibian and reptile species of greatest conservation need. Regional Conservation Need (RCN) grant projects have focused on Timber Rattlesnakes, Diamondbacked Terrapins, Atlantic Coast Leopard Frogs, and various terrestrial turtle species. Additionally, Connecticut has contributed to projects funded by the Competitive State Wildlife Grants (C-SWG), including research on snake fungal disease and studies on Wood Turtles, Bog Turtles, and Spotted Turtles. State-level priorities identified in the 2015 Wildlife Action Plan have emphasized filling data gaps, leading to telemetry-based and other field studies on species such as the Blue-spotted Salamander, Eastern Spadefoot, and Fivelined Skink. Findings from these studies have informed legislative changes, including the prohibition of harvesting Spotted Turtles in 2016 and Red-spotted Newts in 2020. Conservation efforts have also included designing road-crossing structures to reduce vehicle strikes and integrating habitat management strategies into state policies.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Birds</head><p>CT DEEP and conservation organizations have been instrumental in regional bird conservation efforts, participating in initiatives such as the Saltmarsh Competitive State Wildlife Grant Project, the Atlantic Flyway Landbird Committee, and the Saltmarsh Sparrow and Black Rail Working Groups. The state has expanded bird monitoring through the Motus Receiver Network and worked with many of our conservation partners on a comprehensive Bird Atlas mapping effort. Habitat restoration projects have targeted Saltmarsh Sparrows and other tidal marsh birds, while prescribed burns and mowing have supported grassland and shrubland-dependent species such as the American Woodcock. Legislative advocacy has resulted in the passage of the Seabird and Shorebird Protection Bill (HB 6813) and a ban on Horseshoe Crab harvesting (HB 6484), supporting migratory species like the Rufa Red Knot. Conservation groups have also advanced efforts to reduce bird mortality through the Lights Out Connecticut program, which has led to state legislation (HB 6607) limiting nighttime lighting on state buildings to protect migratory birds.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Fish</head><p>CT DEEP's Fisheries Division has continued its monitoring efforts for cold-water and warmwater species, with a focus on Brook Trout. This effort assesses habitat conditions in rivers and lakes through angler surveys and electrofishing studies. Efforts have also focused on diadromous fish, including American Shad, River Herring, and American Eel, using markrecapture techniques, egg mat surveys, and telemetry studies. The Long Island Trawl Survey has tracked forage fish abundance, including Alewife, Blueback Herring, and American Shad. Restoration projects have improved tidal wetland habitats by replacing fill with clean sediment, including 50 acres in the Cove River and 34 acres in Great Meadows Marsh. CT DEEP has also managed an invasive aquatic species grant program to support municipalities and conservation groups in controlling aquatic invasives that threaten native ecosystems.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Invertebrates</head><p>Recent invertebrate conservation efforts have focused on bees, butterflies, stoneflies, and freshwater mussels. CT DEEP has worked with the Connecticut Agricultural Experiment Station to compile a statewide bee species checklist and assess habitat threats <ref type="bibr">(Zarrillo et al., 2025)</ref>. Surveys have also documented the presence of stoneflies and mussels, highlighting the importance of water quality in their conservation. Since 2015, CT DEEP has prioritized identifying critical mussel habitats, leading to conservation actions such as species relocations before infrastructure projects and assessments of lake drawdowns on mussel populations. Outreach efforts have involved training citizen scientists and conservation partners in species identification and habitat protection.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Mammals</head><p>Over the past decade, Connecticut's mammal conservation efforts have focused on a subset of SGCN with targeted management needs, particularly multiple Bat SGCN, New England Cottontail, and Fisher. The New England Cottontail has been the subject of extensive habitat restoration, monitoring, and research under the Regional NEC Initiative, with over 4,000 records collected and habitat suitability tracked on public and private lands. Monitoring for Least Shrew began in 2023 using drift fences and cameras in coastal Guilford, with detections in four of seven arrays and plans for statewide survey expansion. Fisher naturally recolonized eastern Connecticut and, to a lesser extent, northwestern Connecticut in the early 1980s. Additional individuals were translocated into western CT in the late 1980s and early 1990s. They are now nearly statewide but declining, prompting a multi-year study launched by Central Connecticut State University to determine the Fishers distribution within the state. In 2023, another study began to investigate their mortality, reproduction, and habitat use using GPS collars and ground-based telemetry. Bat conservation has expanded through mobile and stationary acoustic monitoring, regional collaboration via NABat, and new research into the impacts of artificial light and Myotis habitat use. CT DEEP has complemented technical monitoring with public outreach, including developing educational resources, a bat sightings portal, and creating Bat Appreciation Day. Together, these actions reflect a growing investment in species-level management and public engagement to address threats such as habitat loss, disease, and anthropogenic sources of mortality.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Plants</head><p>Efforts to conserve plant species of greatest conservation need have included habitat assessments, seed collection, and public engagement initiatives. CT DEEP has developed mobile applications for reporting state-listed species in the Natural Diversity Database (NDDB). It has expanded its use of high-accuracy mapping units for documenting key habitats. Native plant conservation efforts have included promoting local seed collection and increasing public awareness through plant sales and habitat restoration programs. Since 2015, Connecticut has acquired over 6,900 acres of land, while open space grants have protected an additional 13,800 to 14,800 acres. CT DEEP has also implemented conservation buffers for aquatic plants and invasive species management initiatives, with ongoing efforts to establish a terrestrial invasive species manager position. The upcoming Connecticut Action Tracker will help coordinate conservation actions across agencies and partners.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Regional and National Context</head><p>From 2018 to 2023, the Northeast Fish and Wildlife Diversity Technical Committee (NEFWDTC) funded four major Regional Conservation Needs (RCN) projects addressing freshwater turtle conservation, pollinator habitat management, species assessments, and planning tools for the 2025 State Wildlife Action Plan revisions. The freshwater turtle project developed standardized monitoring protocols for Eastern Box and Spotted Turtles <ref type="bibr">(Northeast Eastern Box Turtle Working Group, 2021;</ref><ref type="bibr">Spotted Turtle Working Group, 2019)</ref>, conducted conservation genetics research <ref type="bibr" target="#b43">(Tesauro, 2019;</ref><ref type="bibr" target="#b26">Liebgold and Ransom, 2022;</ref><ref type="bibr" target="#b24">Krohn and Apodaca, 2022)</ref>, and completed regional status assessments <ref type="bibr" target="#b19">(Erb and Roberts, 2023;</ref><ref type="bibr">Willey et al., 2022)</ref>. Conservation plans for Blanding's, Spotted, and Eastern Box Turtles were expanded or newly developed (Northeast Blanding's Turtle Working Group, 2021; <ref type="bibr">Willey et al., 2022;</ref><ref type="bibr" target="#b35">Roberts and Erb, 2023)</ref>, with implementation in priority areas for Wood and Blanding's Turtles <ref type="bibr" target="#b22">(Jones et al., 2018;</ref><ref type="bibr">Northeast Blanding's Turtle Working Group, 2021)</ref>. The project also developed advanced strategies to mitigate road mortality, including a Northeast Turtle Conservation Database and an updated Northeast Turtles website with conservation resources. The pollinator habitat management project surveyed and managed over 740 acres across ten states, collecting 81,000 records of bees and moths to assess the effectiveness of habitat treatments, ultimately informing best management practices <ref type="bibr" target="#b21">(Heilferty et al., 2023)</ref>.</p><p>The RCN 2 Program also provided technical support services to NEFWDTC by managing the Northeast Regional Species of Greatest Conservation Need (RSGCN) and SWAP databases, which store and analyze conservation priorities, threats, and emerging issues. The 2023 RSGCN update incorporated input from 175 regional taxonomic experts, while a limiting factors analysis informed the RCN 3 grant program that began in 2023. Foundational tools for the 2025 SWAP revisions included an update to the Northeast Lexicon, which standardizes conservation planning terminology <ref type="bibr">(Crisfield and NEFWDTC, 2022)</ref>, and the 2023 Northeast Regional Conservation Synthesis, which compiled findings from over 2,800 conservation projects and datasets <ref type="bibr">(TCI and NEFWDTC, 2023)</ref>. The 2023 Northeast Conservation Status Assessment evaluated key habitat conditions across the region <ref type="bibr" target="#b0">(Anderson et al., 2023)</ref>. Meanwhile, a major website redevelopment integrated the Northeast SWAP Database, providing a centralized hub for conservation resources that was accessed more than 28,000 times by 4,300 unique users in 2024.</p><p>The RCN 3 Program, launched in 2023, funds seven regional projects through 2028, including enhancing invertebrate conservation capacity in partnership with the U.S. Geological Survey. A new Northeast Invertebrate Coordinator will facilitate regional pollinator conservation efforts and develop standardized monitoring protocols for the region. Other key initiatives include a tiger beetle status assessment, a stonefly conservation project aimed at improving species distribution models, and a coordinated assessment of Diamondback Terrapin populations, building on a 2016 conservation strategy <ref type="bibr" target="#b18">(Egger and the Diamondback Terrapin Working Group, 2016)</ref>. Additionally, a synthesis of the impacts of renewable energy on wildlife, led by the U.S. Geological Survey Cooperative Fish and Wildlife Research Unit at Cornell University, will inform best management practices for mitigating threats posed by wind and solar development. RCN 3 also supports NEFWDTC with technical services for species and habitat conservation planning. For more details on the RCN Grant Program, visit the NEFWDTC website at <ref type="url" target="https://northeastwildlifediversity.org">https://northeastwildlifediversity.org</ref>. For a list of all regional actions, see Appendix 4.4.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Adaptation to Shifting Environmental Conditions</head><p>Addressing threats related to shifting environmental conditions requires flexible, adaptive conservation strategies that can move beyond traditional management approaches. The Resist-Accept-Direct (RAD) framework offers a structured decision-making tool that enables managers to respond to ecological shifts by resisting them, accepting them as inevitable, or directing them toward desired future conditions <ref type="bibr" target="#b28">(Lynch et al., 2021;</ref><ref type="bibr" target="#b38">Schuurman et al., 2022;</ref><ref type="bibr" target="#b44">Thompson et al., 2021)</ref>. Unlike passive adaptation, RAD explicitly frames acceptance as an intentional decision, shifting conservation planning away from reactive responses and toward proactive, long-term strategies <ref type="bibr" target="#b44">(Thompson et al., 2021)</ref>. The RAD framework allows for various approaches within the same landscape, such as temporarily resisting change while simultaneously planning for anticipated ecological transitions <ref type="bibr" target="#b41">(Staudinger et al., 2024)</ref>.</p><p>Building resilience is a key component of environmental adaptation, focusing on protecting climate refugia and enhancing regional connectivity. Climate refugia, areas buffered from the most extreme effects of climate change, can help maintain species persistence and ecosystem function even as conditions shift <ref type="bibr" target="#b32">(Morelli et al., 2016</ref><ref type="bibr" target="#b31">(Morelli et al., , 2020))</ref>. Integrating refugia into conservation planning ensures short-term resistance to climate impacts and long-term adaptation by preserving critical habitats and ecological processes <ref type="bibr" target="#b41">(Staudinger et al., 2024)</ref>. Equally important is regional connectivity, which allows species to track suitable climate conditions, maintain genetic diversity, and avoid population fragmentation. Protecting corridors and habitat linkages supports natural range shifts, reducing the risk of isolated populations trapped in unsuitable environments <ref type="bibr" target="#b41">(Staudinger et al., 2024)</ref>.</p><p>Structured decision-making tools help guide environmental adaptation by clarifying tradeoffs, integrating scientific models, and adjusting strategies in response to new data. The RAD framework, in conjunction with the Resistance-Resilience-Transformation (RRT) model, provides a structured approach to managing ecological uncertainty and aligning conservation efforts with long-term environmental trends <ref type="bibr" target="#b20">(Hemming et al., 2022)</ref>. By embedding adaptation into an iterative, evidence-based process, conservation actions remain dynamic and responsive to emerging threats <ref type="bibr" target="#b41">(Staudinger et al., 2024)</ref>. Additionally, effective actions for conservation, or any other field, are often specific, measurable, attainable, relevant, and time-bound (SMART). Incorporating the SMART framework into management projects and actions ensures transparency and accountability, and better allows for actions to work with adaptive management practices <ref type="bibr">(Aldridge and Colvin, 2024)</ref>. For a species-specific assessment of how Connecticut's Species of Greatest Conservation Need are affected by shifting environmental conditions, refer to Chapter 3.</p><p>What are the Actions, and How Were They Identified?</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Definitions</head><p>To ensure consistency across the entire Northeast region, Actions are defined in the Northeast Lexicon <ref type="bibr">(Crisfield and NEFWDTC, 2022)</ref>, a modified version of the Conservation Measures Partnership (CMP) Actions Classification (2016). Actions are presented in a hierarchical structure, with the broadest category (Level 1; see Table <ref type="table" target="#tab_0">4</ref>.1) subdivided into more specific categories (Level 2), which are further subdivided into the most specific actions (Level 3). For the full list of Level 3 Actions, see Table <ref type="table">S1</ref> in Appendix 4.1.  <ref type="bibr">Lexicon and CMP (2016)</ref> Step 1 -Initial Data Collection After updating the SGCN list (see Chapter 1), the first step in identifying the key actions for Connecticut's SGCN, the Taxa Teams were provided with a database (see Chapter 1) of existing information for each SGCN and a survey in Qualtrics asking these state experts to confirm or update data of relevant actions that should be taken for each SGCN and appropriate over the next ten years, and on what time scale these actions should be initiated (i.e., within the next 5 years, 5-10 years, or 10 years or more). The Taxa Teams included 50 wildlife experts from academia, conservation stakeholder groups, and state agencies (See Appendix 1.1 for a complete list of Taxa Team members and their affiliations). CT DEEP and its consultants organized virtual workshops for the Taxa Teams in January 2024. These workshops were designed to help them navigate the existing data and the associated Qualtrics survey. From January to May 2024, Taxa Teams provided action data to CT DEEP consultants. In May 2024, CT DEEP consultants collated the data and sent the results back to each Taxa Team, which met in late May 2024 to discuss. The data was again collated and returned to the Taxa and CT DEEP Advisory teams in July 2024 for final approval. Actions were tabulated by identifying each instance where the action was assigned to a species and summed.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Step 2 -Taxa Team Actions Workshop</head><p>After reviewing the data collected in Spring 2024, UConn and CT DEEP facilitated a virtual workshop in July 2024 with members of the six Taxa Teams to discuss and identify specific actions that may be synergistic across multiple species and groups. Step 3 -Taxa Team Data Review and Prioritization</p><p>During the Fall of 2024, Taxa Teams were asked to meet again to review the information from the Spring data collection (Step 1), the July Workshop (Step 2), and actions identified in the 2015 Wildlife Action Plan for their taxa. They were asked to identify which actions from 2015 had been addressed in the past 10 years (and how), determine whether they are still relevant, and then develop a list of their top action priorities for the next 10 years. Each Taxa Team met multiple times and provided a list to CT DEEP consultants. The list of accomplished actions for each taxon is supplied in each taxon section of Chapter 1. The actions identified by Taxa Teams that would benefit specific habitats are outlined in each habitat action in Chapter 2. A prioritized list of actions and the particular species they will benefit from are provided below in each taxon-specific section.</p><p>Step 4 -Public and Partner Feedback CT DEEP and its consultants posted a public feedback form on their website in September 2024, asking the public to identify the most important actions for Connecticut's flora, fauna, and habitats. Between September and November 2024, 438 individuals submitted a form. Similarly, CT DEEP consultants surveyed their conservation partners in December 2024 using a Qualtrics survey to determine which actions they were working on and which they believed were most important. Over 180 conservation partners filled out surveys. CT DEEP staff and consultants also solicited feedback at numerous conferences, meetings, and other forums. For more information on public and partner outreach, please refer to Chapter 6.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Connecticut's 2025 Top Actions (Across Taxa)</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Summary</head><p>To help prioritize the top actions for Connecticut's SGCN, SAPS, and habitats, the Taxa Teams were asked to assign a relative urgency rating to each action that applied to each group of SGCN and SAPS, based on their importance rating. Of the actions that assigned to SGCN and SAPS in the "most important" category, the Taxa Teams categorized 94% of these actions as highest urgency, requiring initiation within the next 5 years, with 1% needing to be initiated 5-10 years from now, and 4% needing to be initiated in 10 years or more. Since almost all of the actions identified in the top level of urgency, determining the priority of Connecticut's conservation actions over the next decade required further examination.</p><p>Based on the number of SGCN and SAPS that would benefit from each specific action, overwhelmingly, experts identified monitoring and research (C.8) as the most important action for the state's SGCN, reflecting the reality that many species have serious knowledge gaps and uncertainty in how they will respond to many threats, especially to shifting environmental conditions (Figure <ref type="figure" target="#fig_0">4</ref>.1; also see Chapter 3 for information about SGCN vulnerability to shifting environmental conditions). This pattern is reflected throughout the actions of Levels 1, 2, and 3 (Figure <ref type="figure" target="#fig_0">4</ref>.1). This is especially true for Plants, as data gaps and capacity limitations have made assigning Level 3 threats for most plant species difficult. The only taxonomic group where monitoring and research were not identified as an action for more than approximately 70% of SGCN were Birds, which is due in part to CT DEEP, UConn, and many other partners recently completing a systematic, statewide Bird Atlas survey. Field research and monitoring remain one of the most pressing actions needed for Connecticut's SGCN because, without basic information about each species' biology, distribution, population trends, and response to the various threats facing our species, other actions may not be as effective or even appropriate.</p><p>Taxonomic experts identified management planning and design (C.6) as the action that would benefit the second-highest percentage of Connecticut's SGCN. Like monitoring and research, this pattern is consistent through all three Levels and among all taxonomic groups. Approximately half of the bird and plant SGCN will benefit from more planning, while all other groups have a higher percentage of species that would help (up to 97% of species, in the case of Fish). The specific actions (Level 3) that would benefit the largest proportion of species include planning the management of protected areas or sites (C.6.5.1.0), acquiring title for conservation purposes (C.6.2.2.0), and producing conservation plans for taxa groups or species (C.6.5.2.0). Some actions would benefit some taxonomic groups more than others, for example establishing sustainable natural resource use areas (C.6.3.1.0) is especially notable for Fish taxa, and voluntary conservation and stewardship (C.6.3.5.0) is more important for Amphibians &amp; Reptiles than other groups. The need for more conservation and management planning parallels the need for more monitoring and research for each species, both of which emphasize a general lack of capacity for conservation practitioners to adequately collect important information and then use that data to develop functional species recovery and management plans for our state's species of greatest conservation need and associated habitats (Figure <ref type="figure">6</ref>). Direct habitat management (A.1) was the third most identified action by the state's biologists and species experts, while direct species management (A.2) was the fourth. This makes sense since the top four actions follow a very logical progression: 1) gather the information needed to make plans, 2) make habitat and species recovery plans using that data, and 3) implement these plans through direct management. Like the other two top actions identified by species experts, most species in each taxonomic group would benefit from direct habitat management, with plants having the lowest percentage (42% of species) and up to 97% in the case of fish. The number of plant species identified as benefiting from direct management may be low, as many plant species could not be evaluated beyond Level 1 actions. Some specific direct actions (Level 3) that would benefit the largest proportion of species include preventing mortality or injury from humans (A.2.1.5.0), managing physical and/or chemical habitat characteristics (A.1.2.3.0), and managing litter and waste (A.1.3.2.0). In contrast, mechanical management of plants (A.1.1.1.0) is especially notable for terrestrial vertebrate groups (Amphibians &amp; Reptiles, Birds, and Mammals) and managing structural habitat elements (A.1.2.5.0) is more notable for Fish and Invertebrate taxon. Once equipped with sufficient information and the capacity to create effective plans, experts believe that conservation agencies could implement effective management that will allow many of Connecticut's habitats and SGCN to mitigate the biggest threats to their populations, such as pollution, shifting environmental conditions, and habitat loss (Figure <ref type="figure" target="#fig_0">4</ref>.1).</p><p>While collecting information, planning, and implementing management plans for habitats and species are the top four priority actions, many other actions would benefit many species within the state. Sixteen Level 3 actions have been flagged to help at least 20 of the most important SGCNs or more. During the taxa team engagement, 7,856 actions were identified for SGCN and SAPS taxa and species while collecting data for this Wildlife Action Plan. These details can be found in the state-wide action summaries and taxonspecific sections below, as well as in Appendix 4.</p><p>There are many ways to prioritize conservation actions. Above, we have summarized the top actions based on the proportion of species from each of the six major taxonomic groups (Amphibians &amp; Reptiles, Birds, Fish, Invertebrates, Fish, and Plants) that would benefit from each action, as identified by taxonomic experts from around the state during the first step of the process (see above). While this is a species-centric view of conservation prioritization, many conservation professionals have become more focused on landscape-level conservation, as reflected in the priority rankings. Since the species experts identified that habitat management benefits a larger proportion of species than direct species management (see the Taxon-specific Priorities Section below and Chapter 2 for Habitat-Specific Actions), this shift has become more pronounced. While a list of actions prioritized at the landscape level may look different than the one presented here, given that the top four actions apply to most species within each taxonomic group, these priorities would still likely be among the top regardless of the method used to prioritize them. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Differences between the 2015 and 2025 Connecticut Wildlife Action Plans</head><p>While the 2015 and 2025 Action chapters share broad conservation goals, the 2025 revision builds on the processes established in the 2015 Wildlife Plan. It refines how priorities are defined and distributed across action types.</p><p>The most notable change is the elevation of Monitoring (C.8) to the top-priority action type in the 2025 plan. Taxa Teams members, especially those focused on plants and lesser-known vertebrate groups, identified persistent data gaps that present obstacles to assessing species status, their needs, and appropriate actions (Table <ref type="table" target="#tab_0">4</ref>.2). This represents a shift from the 2015 plan, where monitoring was embedded within other strategies but not independently emphasized. Similarly, Planning (C.6) was elevated in 2025 as a top action, especially given the increasing complexity of cross-taxa conservation and the need for adaptation to shifting environmental conditions, By contrast, Direct Habitat Management (A.1) remained a high priority in both plans, particularly for species that depend on disturbance-maintained systems or sensitive hydrology. Direct Species Management (A.2) retained moderate priority, although its scope narrowed in 2025 to focus more on fish and invertebrates, where targeted intervention is likely to be more feasible and impactful. Outreach, education, and legislative strategies were emphasized similarly between plans, while economic incentives and enforcement actions continued to play a minor role, largely limited to specific contexts or species.</p><p>Together, these changes reflect a transition from broad, narrative conservation prescriptions in 2015 to a more structured, data-linked, and prioritized set of actions in 2025, enabling clearer implementation pathways and stronger alignment with regional frameworks and local stakeholder needs.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Level 1 and 2 Statewide Action Summaries</head><p>The following sections summarize Level 1 and the most identified Level 2 actions in the 2025 CT Wildlife Action Plan, organized according to the Northeast Lexicon classification framework and presented in the order of highest to lowest priority (ranked by highest proportion of SGCN &amp; SAPS by taxonomic group). Each summary presents an overview of the action's relevance to Connecticut's SGCN, highlights examples of specific actions that may benefit multiple species, and outlines some key threats addressed and potential success metrics. For a full account of the Actions (Levels 1-3) and the SGCN, SAPS, and Habitats that would benefit from them, see Appendices 4.1, 4.2, and 4.3. Summaries for Level 2 Actions that aren't broadly applicable to many SGCN (less than 10%) can be found in Appendix 4.4. A persistent challenge in conservation planning is the widespread data deficiency across taxa, particularly for species facing multiple interacting threats, including habitat loss, invasive species, and shifting environmental conditions <ref type="bibr" target="#b1">(Armsworth et al., 2015)</ref>. This is especially true in Connecticut, as over 75% of plant species and more than 90% of fish and invertebrates classified as SGCN or SAPS require further research to determine population trends, habitat use, and emerging threats (Table 4.2; Figure <ref type="figure" target="#fig_0">4</ref>.2). Without sufficient ecological data, many species may decline or disappear before effective conservation actions can be implemented. More detailed monitoring information can be found in Chapter 5, and Appendix 4.2 provides specific details on which actions will benefit which species and why. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Research and Monitoring</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Basic Research and Status Monitoring</head><p>Species inhabiting early successional-wetland mosaics, such as Vernal Pools, Riparian Corridors, and Floodplain Wetlands, require systematic, long-term monitoring to track population stability and habitat shifts. Amphibians, such as the Eastern Spadefoot and Fowler's Toad, and reptiles, like the Wood Turtle and Northern Diamondback Terrapin, are particularly sensitive to hydrological changes and habitat fragmentation. Expanding eDNA surveys and isotopic analyses would improve estimates of species distributions and seasonal movements, thereby reducing reliance on direct observation, which can be limited by cryptic behavior or low population densities.</p><p>Similarly, the community of aerial insectivores, including the Purple Martin, Chimney Swift, and Bank Swallow, is experiencing widespread declines. Yet, the relative contributions of prey availability, habitat loss, and competition with invasive species remain unclear. Banding and telemetry studies across the ecological guild could provide insight into movement ecology and survival rates, clarifying whether conservation strategies should focus on breeding habitat restoration, migratory stopover protection, or prey abundance management. Anadromous fish, including Atlantic Sturgeon, Alewife, and Blueback Herring, require long-term migration tracking to assess the effectiveness of fish passage projects and identify remaining barriers to movement. Without these data, efforts to restore aquatic connectivity risk being ineffective or misdirected.</p><p>For species reliant on intact landscape connectivity, such as Timber Rattlesnakes, Eastern Box Turtles, and Prairie Warblers, habitat fragmentation remains a persistent threat. Monitoring changes in Trap Rock Ridges, Core Forests, and Coastal Dune Systems using remote sensing, such as satellite imagery and drone-based habitat assessments, would enable researchers to detect habitat loss, assess coastal erosion trends, and track the expansion of invasive species, including Common Reed and Japanese Barberry. In aquatic systems, sedimentation assessments and water quality monitoring are crucial for understanding how riparian degradation impacts freshwater mussels, such as the Eastern Pearlshell Mussel, and fish, including the American Brook Lamprey. Coordinating these efforts through regional data-sharing initiatives, such as the Northeast Fish and Wildlife Diversity Technical Committee, would enable cross-border comparisons, identifying largescale population trends and climate-driven shifts before declines reach crisis levels.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Evaluation, Effectiveness Measures, and Learning</head><p>Connecticut's Taxa Teams emphasize the importance of evaluating conservation interventions beyond their immediate habitat outcomes. For instance, wetland and vernal pool restoration projects should be assessed by tracking the acreage restored and measuring amphibian breeding success, as well as water quality improvements. Fish passage projects could be evaluated based on their effectiveness in increasing migratory fish returns, improving habitat connectivity, and supporting the reproductive success of species such as Shortnose Sturgeon and American Eel. Likewise, monitoring the nesting success of coastal bird species, including Piping Plovers and Least Terns, is necessary to assess the impacts of predator control programs, human disturbance mitigation, and nesting site enhancements.</p><p>Early successional habitat management, including prescribed burns, selective thinning, and invasive species removal, should be evaluated for its impact on bird nesting densities, pollinator abundance, and plant community composition. Many restoration initiatives focus on short-term habitat metrics without thoroughly examining species-level responses, which can lead to ineffective or marginal conservation actions. Expanding community science programs, acoustic monitoring for bats and birds, and machinelearning-assisted analysis of remote sensing data would provide additional tools for tracking long-term conservation outcomes (see Chapter 5).</p><p>An adaptive management framework is critical to refining conservation strategies based on empirical data. For instance, monitoring trends in aerial insectivore populations related to insect abundance can clarify whether wetland and grassland conservation efforts effectively support their needs. Similarly, tracking the impact of shoreline stabilization efforts on migratory shorebird populations and marsh-nesting birds can provide insight into the efficacy of coastal resilience projects. By continuously refining conservation strategies based on observed responses, researchers and decision-makers can maximize the long-term benefits of conservation efforts across diverse ecosystems.</p><p>Chapter 5 provides more detailed information about Connecticut's monitoring framework and the benefits of adaptive management. For specific information on which actions will benefit which species and why, see Appendix 4.2. Designing and planning conservation efforts is essential to achieving coordinated, costeffective outcomes for Connecticut's Species of Greatest Conservation Need (SGCN). Many Taxa Teams emphasized that planning actions must be informed by ecological priorities, tailored to current and projected threats, and scaled to match the complexity of the conservation challenge, whether species-specific or landscape-level. Across all taxa, 60% of SGCN are associated with at least one action in this category <ref type="bibr">(Table 4.3;</ref><ref type="bibr">Figure 4.3)</ref>. Priority planning actions include identifying key habitats and movement corridors, integrating SGCN needs into broader land-use and watershed plans, and strengthening coordination across agencies and partners. Planning investments is especially important for data-deficient groups or fragmented habitats where conservation opportunities are limited and time-sensitive. For specific information on which actions will benefit which species and why, see Appendix 4.2. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Design and Plan Conservation</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conserve specific land or seascapes</head><p>Conserving land and seascapes through acquisition or permanent protection is a foundational strategy for SGCN conservation, especially for habitat specialists and species with limited dispersal. This action is particularly important for terrestrial and freshwater species that rely on remnant habitat patches embedded in private or unprotected landscapes. The Amphibian/Reptile and Bird Taxa Teams emphasized the importance of securing vernal pool complexes, riparian corridors, and early successional shrublands that support the Wood Turtle, Jefferson Salamander, and Eastern Towhee. Invertebrate conservation similarly depends on protecting small, high-quality habitats, such as trap rock ridges, sand plains, and seeps, that support regionally rare moths, bees, and aquatic insects.</p><p>Key threats addressed by this action include residential and commercial development, modifications to natural systems, and incompatible resource use. Metrics of success include acquired acres of SGCN habitat, representation of habitat types within protected areas, and the number of populations secured through acquisition. Although this action directly affects a smaller percentage of total SGCN (16%; site fidelity. Many Taxa Teams emphasized that land protection must incorporate long-term management commitments to retain conservation value.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Complementary or alternative conservation measures</head><p>Complementary or alternative measures, such as voluntary stewardship agreements, cooperative management arrangements, and landowner incentives, can provide flexible tools for conserving habitats and populations where direct land acquisition is not possible. This action is especially relevant for working lands and multi-use landscapes, where managing SGCN populations is crucial while allowing the land to be used for other purposes simultaneously. The Fish Taxa Team highlighted the importance of such approaches for stream segments supporting Brook Trout and Slimy Sculpin, where riparian buffer maintenance or flow protections could be implemented via conservation agreements. Similarly, Bog Turtle habitat on private farmland may be best maintained through informal agreements and technical assistance, rather than acquisition.</p><p>This action helps address threats such as agricultural and forestry mismanagement, hydrological alteration, and habitat fragmentation. Effectiveness metrics include the number of landowners engaged, acreage under voluntary conservation, and habitat quality improvements documented through follow-up assessment. While fewer species are directly associated with this action relative to formal protection, it offers a scalable option for building habitat networks across diverse ownerships, especially in watersheds and early successional habitats that span public-private boundaries.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conserve via zoning or informal designations</head><p>Conservation through zoning or informal designations, including municipal conservation overlays, open space designations, and town-level natural resource inventories, offers opportunities to integrate SGCN protection into local decision-making processes. This approach is particularly effective for species impacted by land-use conversion, transportation infrastructure, and unregulated disturbances. The Fish Taxa Team emphasized the utility of town-scale stream protection ordinances for conserving coldwater habitats. For birds like the Chimney Swift or Eastern Meadowlark, local planning frameworks that support early successional habitat management or preserving large contiguous grasslands can be a critical conservation lever. Key threats addressed include housing and urban development, infrastructure expansion, and pollution. Indicators of success may include the adoption of conservation zoning language, the implementation of protective buffers in planning and development decisions, or the number of municipalities incorporating SGCN maps and guidance into their conservation plans. While the reach of these measures depends on voluntary local adoption, they can provide an important supplement to state-level regulatory and land protection tools.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conservation planning</head><p>Developing detailed, science-informed conservation plans remains a top priority across all taxa, particularly for species with fragmented ranges, specialized habitat needs, or climate sensitivity. The Fish and Amphibian &amp; Reptile Taxa Teams emphasized the need for updated and spatially explicit conservation plans for diadromous fish, vernal pool-dependent amphibians, and freshwater mussels. This includes stream reach prioritization for barrier removal, site-specific restoration prescriptions, and multi-partner action plans for known species hotspots. For example, coordinated planning around watersheds supporting Alewife and Blueback Herring migration, or landscapes with high amphibian road mortality, can ensure resources are focused where they will be most effective. This action directly addresses threats related to hydrologic modification, shifting environmental conditions, and poorly coordinated land use. Metrics of success may include the number of taxon-specific or site-level plans developed, implementation rates, and documented improvements in the status of the target population. Many Taxa Teams emphasized that conservation plans must be adaptive, periodically updated, and integrated into agency operations and funding strategies, rather than being produced as stand-alone documents.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Protect resources with site infrastructure</head><p>A smaller subset of SGCN benefits from infrastructure-based site protection, such as fencing, signage, or seasonal closures. This action is particularly beneficial for aquatic species vulnerable to trampling, sedimentation, or watercraft disturbance, including freshwater mussels, nesting Horseshoe Crabs, and resident fish in popular recreation areas. It may also benefit species like the Eastern Box Turtle, where road-edge signage and barriers can reduce road mortality. While only 11% of SGCN are directly linked to this action (Figure <ref type="figure" target="#fig_0">4</ref>.3), it provides targeted, high-leverage benefits in specific contexts. This action addresses threats including recreation disturbance, transportation infrastructure, and direct human exploitation. Effectiveness indicators include reduction in disturbance-related mortality, increased reproductive success at protected sites, or behavior changes resulting from signage and outreach. Many Taxa Teams noted that infrastructure protection must be accompanied by education and enforcement to ensure long-term effectiveness. Habitat management is among the most frequently prioritized and broadly applicable conservation actions for Connecticut's SGCN, relevant to 58% of SGCN (Table <ref type="table" target="#tab_0">4</ref>.4; Figure <ref type="figure" target="#fig_0">4</ref>.4). Across all taxa, the Taxa Teams emphasized the importance of restoring and maintaining habitat conditions that support species' life history requirements-including appropriate disturbance regimes, vegetative structure, water quality, and hydrologic function. Many SGCN depend on actively maintained habitats or require intervention to restore ecological processes degraded by development, altered land use, or climate-driven stressors, especially for species dependent on disturbance regimes or early successional, aquatic, or edge habitats. Actions under this heading encompass vegetation management, physical habitat modification, and mitigation of human-caused degradation. They are particularly critical for freshwater invertebrates, fish, and early successional bird and mammal species, where active intervention is required to counteract succession, invasive species, fragmentation, and wetland alteration, thereby maintaining the functionality and resilience of high-priority SGCN habitats. Success depends on site-specific planning, sustained effort, and coordination with broader land protection and monitoring strategies. For specific information on which actions will benefit which species and why, see Appendix 4.2. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Direct Habitat Management</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Manage plants, animals, fungi, or bacteria</head><p>This action supports 94 SGCN (16%), with the strongest relevance for birds (33 species, 42%), invertebrates (35 species, 28%), and Amphibian &amp; Reptile (11 species, 34%) (Table <ref type="table" target="#tab_0">4</ref>.4). Managing the biological components of habitat, including control of invasive species, suppression of woody encroachment, and mitigation of overabundant herbivores, is essential for maintaining conditions required by many SGCN. For example, invasive plant removal is a key strategy for preserving floodplain forests and freshwater wetlands that support rare plants, turtles, and invertebrates. Shrubland and grassland birds, such as Eastern Towhee and Grasshopper Sparrow, benefit from brush-cutting and mowing that maintain early successional structure. The Plant Taxa Team also emphasized the need for deer exclusion fencing to improve recruitment of rare forbs in heavily browsed habitats. This action addresses threats from invasive species, altered disturbance regimes (e.g., fire suppression), and excessive herbivory. Metrics may include the area of habitat treated, changes in native species composition, or evidence of post-treatment use by SGCN. Although no plant species were directly linked to this action in the rankings, many Taxa Teams described it as a necessary component of site-level management strategies. Ongoing monitoring and adaptive adjustment are essential to maximize long-term ecological benefits.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Manage non-living habitat components</head><p>This action supports 110 SGCN (19%), with the highest relevance for fish (29 species, 83%), invertebrates (42 species, 33%), and Amphibian &amp; Reptile (10 species, 31%) (Table <ref type="table" target="#tab_0">4</ref>.4). It focuses on manipulating abiotic features-such as streambed structure, hydrology, sediment dynamics, or soil conditions-to improve habitat suitability for sensitive taxa. The Fish Taxa Team identified in-stream enhancement techniques, such as adding woody debris and stabilizing banks, as critical for species like Brook Trout and Slimy Sculpin. Likewise, mussels and aquatic macroinvertebrates require stable substrates and varied flow conditions to support reproduction and foraging.</p><p>Threats addressed include sedimentation, altered flow regimes, loss of structural complexity, and hydrologic disconnection. Metrics may consist of substrate quality, restoration of natural flow heterogeneity, or the observed return of target species. Taxa Teams also highlighted the importance of microhabitat features, like coarse woody debris and leaf litter, for vernal pool amphibians and seep-dwelling invertebrates. Implementation often involves cross-sector collaboration, particularly where site-scale improvements intersect with roads, culverts, or stormwater infrastructure.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Mitigate human environmental impact</head><p>This action supports 70 SGCN (12%), with especially high relevance for fish (30 species, 86%), followed by invertebrates (26 species, 21%) and birds (9 species, 12%) (Figure <ref type="figure" target="#fig_0">4</ref>.4, Table <ref type="table" target="#tab_0">4</ref>.4). It targets the chronic environmental stressors generated by human activity, including recreational erosion, urban runoff, light and noise pollution, and physical disturbance of sensitive sites. The Fish Taxa Team emphasized actions to reduce stormwater inputs and stabilize streambanks and shoreline vegetation in urbanized watersheds, which benefit both resident and migratory species. Specific actions may include adhering to Municipal Separate Storm Sewer (MS4) requirements, as well as implementing Low Impact Development (LID) and efforts to incorporate Green Stormwater Infrastructure (GSI) planning into water management projects to reduce runoff and enhance water quality. Infrastructure, such as boardwalks and fencing, can limit trampling and off-road vehicle damage for invertebrates, especially in dune, beach, or floodplain habitats.</p><p>Key threats addressed include habitat degradation resulting from recreation and development-related runoff, as well as indirect alterations to microhabitats. Effectiveness metrics may include reduced nutrient or sediment inputs, vegetation recovery in disturbed areas, or improved occupancy and survival rates of impacted species. Several Taxa Teams recommended pairing this action with outreach and habitat restoration to address both causes and consequences of disturbance. While fewer species are directly tied to this action than others under A.1, it is often a necessary complement to intensively used or degraded landscapes. Direct species management involves hands-on interventions to conserve individual animals or populations, especially when threats are acute, range is highly restricted, or population size is critically low. This action benefits 207 SGCN (36%) and is especially important for fish (34 species, 97%), invertebrates (93 species, 74%), and mammals (11 species, 65%; Table <ref type="table" target="#tab_0">4</ref>.5; Figure <ref type="figure" target="#fig_0">4</ref>.5). Many Taxa Teams emphasized that for species experiencing steep declines or facing immediate threats, such as disease outbreaks, habitat fragmentation, or road mortality, habitat protection alone may not be sufficient. Direct management can fill critical gaps while developing longer-term habitat solutions.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Direct Species Management</head><p>Strategies under this action include monitoring and treating wild individuals, relocating or reintroducing populations, and maintaining individuals in captivity for future recovery efforts. While these methods can be resource-intensive and carry risks, they are often the only viable options for preventing extirpation. Taxa Teams especially emphasized the need for continued intervention for species like freshwater mussels, coldwater fish, and bats affected by white-nose syndrome. Because many of these actions require technical expertise, permits, and long-term planning, success depends on strong coordination between biologists, veterinarians, regulatory agencies, and research partners.</p><p>Taxa Teams cited examples such as using exclusion devices to protect turtle nests, managing roost sites for bat populations affected by disease, and maintaining instream habitat features for coldwater fish. In some cases, the survival of a small, isolated population may depend entirely on repeated direct intervention. Metrics of success may include survival and recruitment rates, number of treated or protected individuals, or stabilization of population trajectories over time. While resource-intensive and not a substitute for habitat-level recovery, stewardship of wild individuals is an essential stopgap for at-risk species. These interventions can prevent extirpation, reestablish populations in restored habitats, and provide valuable demographic or genetic data to guide broader recovery efforts. For specific information on which actions will benefit which species and why, see Appendix 4.2. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Stewarding wild individuals</head><p>This is the most widely relevant Level 2 action under A.2, supporting 97 SGCN (17%) across fish (29 species, 83%), birds (20 species, 26%), Amphibian &amp; Reptile (10 species, 31%), and mammals (8 species, 47%). Stewardship of wild individuals encompasses targeted management actions, including disease surveillance and treatment, nest protection, individual marking and tracking, and supplemental feeding or den site installation. These actions are particularly important for species affected by specific, localized threats, including predation, human disturbance, or climate-driven reproductive failure.</p><p>Taxa Teams cited examples such as using exclusion devices to protect turtle nests, managing roost sites for bat populations affected by disease, and maintaining instream habitat features for coldwater fish. In some cases, the survival of a small, isolated population may depend entirely on repeated direct intervention. Metrics of success may include survival and recruitment rates, number of treated or protected individuals, or stabilization of population trajectories over time. While not a substitute for habitat-level recovery, stewardship of wild individuals is an essential stopgap for at-risk species. This action area focuses on developing, amending, and applying legal and regulatory mechanisms to support wildlife conservation, providing enforceable protections, and shaping the broader policy context in which conservation occurs. It supports 151 SGCN (26%), with the highest relevance for fish (22 species, 63%), invertebrates (53 species, 42%), and plants (58 species, 20%; Table <ref type="table" target="#tab_0">4</ref>.6; Figure <ref type="figure" target="#fig_0">4</ref>.6). While many of Connecticut's SGCN benefit from existing state or federal protections, many Taxa Teams emphasized that regulatory gaps, such as insufficient stream protection standards, limited safeguards for invertebrates, and inconsistent permitting thresholds, remain a major barrier to effective conservation. In particular, freshwater species suffer from water withdrawals and land-use practices that degrade habitat quality, despite their legal status.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Legislative and regulatory framework or tools</head><p>Recent state-level actions illustrate how legislation and regulatory reform can advance SGCN conservation. Since 2015, Connecticut has adopted new wildlife regulations to prohibit the collection of Spotted Turtles and Red-spotted Newts (Reg. 26-66-14 and 26-66-13), expanded protocols for mussel relocation during infrastructure projects, and supported judicial enforcement against illegal take of Timber Rattlesnakes. In 2023, Connecticut passed HB 6607, a statute that eliminates unnecessary nighttime lighting on state-owned buildings, thereby reducing collision risk for migratory birds and other nocturnal species. The same year, the state also passed HB 6484, banning the harvest of Horseshoe Crabs, a key food resource for the Rufa Red Knot and other shorebirds. While legislation alone cannot ensure implementation, strong statutory frameworks underpin many habitat and species recovery efforts, creating durable protections for SGCN across sectors and jurisdictions. Strategic updates to existing regulations and the development of new policies, as well as guidance documents, enacted over the past decade, can help codify conservation goals and mitigate recurring threats. For specific information on which actions will benefit which species and why, see Appendix 4.2.  Law enforcement actions aim to deter illegal activities that threaten Species of Greatest Conservation Need, including poaching, unauthorized habitat destruction, illegal collection, and non-compliance with conservation regulations. This Level 1 action supports 25 SGCN (4%), with moderate relevance for birds (12 species, 15%), Amphibian &amp; Reptile (3 species, 9%), and fish (3 species, 9%; Table <ref type="table" target="#tab_0">4</ref>.7; Figure <ref type="figure" target="#fig_0">4</ref>.7). Taxa Teams highlighted that while direct enforcement may not be the most commonly needed tool for most SGCN, it plays an essential role in certain cases, particularly for species subject to illegal harvest or disturbance, such as rare turtles, migratory birds, or state-listed plants on protected lands.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Law enforcement and prosecution</head><p>Because many enforcement incidents go undetected, increasing the visibility and consistency of enforcement efforts was seen as a way to strengthen conservation norms and ensure the credibility of other conservation actions. However, Taxa Teams noted that enforcement must be coupled with outreach, signage, and education to be effective and equitable. These strategies are most appropriate where voluntary measures have proven insufficient or threats are acute, such as off-road vehicle damage in vernal pools or unpermitted clearing in riparian zones. These actions are often most effective when combined with outreach, interagency collaboration, and access to timely biological data.</p><p>For specific information on which actions will benefit which species and why, see Appendix 4.  Outreach actions are critical in increasing public understanding, support, and engagement in wildlife conservation. This action benefits 207 SGCN (36%), with broad taxonomic relevance including fish (34 species, 97%), invertebrates (93 species, 74%), mammals (11 species, 65%), birds (26 species, 33%), and Amphibian &amp; Reptile (10 species, 31%; Figure <ref type="figure" target="#fig_0">4</ref>.8; lands, where voluntary stewardship is often more feasible and effective than regulatory approaches. In these contexts, outreach is often the most viable tool for building trust, influencing behavior, and encouraging habitat-friendly practices. For example, successful streamside and lakeside buffer restoration or pollinator habitat creation frequently depends on the landowner's understanding of its benefits and long-term maintenance requirements.</p><p>In particular, Invertebrates, Fish, and Plant Taxa Teams highlighted that many SGCNs are inconspicuous or poorly understood by the public and even among conservation professionals. Without targeted communication, these species may be overlooked in land use decisions or receive less support in funding and policy. Outreach actions may include awareness campaigns, interpretive signage, citizen science platforms, or targeted briefings for decision-makers. Success can be measured by changes in public attitudes, participation in stewardship programs, or the inclusion of SGCN in local planning processes. This action is a key enabling condition for many habitat and species management strategies. For specific information on which actions will benefit which species and why, see Appendix 4.  Education and training actions build the human capacity necessary to implement conservation across Connecticut's landscapes. This includes preparing new professionals to enter the conservation field, enhancing the skills of existing practitioners, and providing specialized training to address emerging challenges such as climate adaptation and invasive species control. Taxa Teams identified 32 SGCN (6%) that would benefit from these actions, particularly mammals (6 species, 35%), fish (6 species, 17%), birds (9 species, 12%), and invertebrates (9 species, 7%; Table <ref type="table" target="#tab_0">4</ref>.9, Figure <ref type="figure" target="#fig_0">4</ref>.9). Taxa Teams emphasized that without a well-trained workforce, especially at the local and regional levels, conservation goals may be unattainable even where funding and habitat opportunities exist. Education and training were also crucial tools for increasing engagement with underrepresented communities and supporting a more diverse conservation workforce throughout the state. For specific information on which actions will benefit which species and why, see Appendix 4.2. For summaries of the Level 2 actions associated with this Level 1 action, please see Appendix 4.5.  Developing formal alliances and partnership frameworks supports long-term conservation across complex social and ecological landscapes. This action benefits 13 SGCN across a range of taxa, including birds (7 species, 9%), fish (2 species, 6%), and mammals (2 species, 12%; Table <ref type="table" target="#tab_0">4</ref>.10; Figure <ref type="figure" target="#fig_0">4</ref>.10). This action emphasizes sustained coalition-building at a systems level, such as creating regional conservation partnerships, multi-municipal habitat corridors, or Tribal-state co-management agreements. For instance, the conservation of wide-ranging species, such as migratory birds like the Wood Thrush, depends on cross-boundary coordination among towns, land trusts, and transportation agencies.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Education and Training</head><p>Several Taxa Teams noted that formalizing partnerships through shared governance models, memoranda of understanding, or structured working groups can enhance  Economic and incentive-based strategies offer tools for encouraging voluntary conservation actions that benefit SGCN and their habitats, particularly on private lands where regulatory approaches are limited or politically sensitive. This Level 1 action supports only 12 SGCN (2%), including eight birds (10%), three fish (9%), and one mammal (6%; Table <ref type="table" target="#tab_0">4</ref>.11; Figure <ref type="figure" target="#fig_0">4</ref>.11), reflecting its currently limited applicability. However, many Taxa Teams emphasized that critical habitats, especially grasslands, riparian zones, and open wetlands, often occur on privately owned or working lands, and that flexible, wellcommunicated incentives could play an important role in expanding stewardship on these properties.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Economic and Other Incentives</head><p>Potential mechanisms include cost-sharing programs for habitat management, tax incentives for conservation easements, and technical or financial assistance tied to sustainable practices. While a few SGCN are directly associated with these actions in the rankings, developing targeted, accessible incentive programs was broadly identified as a priority for achieving landscape-scale conservation and enhancing landowner engagement. Metrics for success could include program enrollment, acres managed, or documented habitat improvements. When paired with outreach or planning tools, incentives may help maintain or restore key habitats in fragmented or privately held landscapes. For specific information on which actions will benefit which species and why, see Appendix 4.2. For summaries of the Level 2 actions associated with this Level 1 action, please see Appendix 4.5. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Regional and National Actions</head><p>CT DEEP actively participates in multiple regional conservation initiatives that bring together stakeholders to monitor and protect species across the Northeast. These include the Northeast Association of Fish and Wildlife Agencies (NEAFWA), the Collaborative to Combat Illegal Trade in Turtles (CCITT), Joint Ventures, the Atlantic Flyway Council, Partners in Flight, and the Southern Wings Program. As part of these collaborative efforts, CT DEEP allocates a portion of its federally apportioned wildlife and sport fish grants to support habitat conservation and research outside state borders when those efforts have the potential to improve the status of one or more of Connecticut's Species of Greatest Conservation Need (SGCN).</p><p>In 2007, NEAFWA directors established the Regional Conservation Needs (RCN) Program, which formally designates Regional Species of Greatest Conservation Need (RSGCN) and is managed by the Northeast Fish and Wildlife Diversity Technical Committee. The RCN Program takes a coordinated, multi-state approach to addressing conservation priorities beyond state borders. The primary goal of the RCN Program is to develop, implement, and support conservation actions that are regional or subregional in scope while complementing existing projects. The program funds projects using a small CT DEEP remains committed to supporting regional biodiversity conservation efforts, including the RCN Program, the RSGCN framework, and the Northeast Fish and Wildlife Diversity Technical Committee. These partnerships facilitate the implementation of coordinated natural resource plans across multiple states. The Northeast Fish and Wildlife Diversity Technical Committee has also developed systems that centralize conservation data, including databases for SGCN, State Wildlife Action Plans, RSGCN, RCN projects, and long-term monitoring and assessment results. Expanding Connecticut's contributions to these shared databases will enhance conservation planning for species that cross jurisdictional boundaries, ensuring that management efforts remain comprehensive and data-driven.</p><p>The State Wildlife Grant program will continue to support Connecticut's participation in the Northeast Fish and Wildlife Diversity Technical Committee, the RCN Program, and other regional initiatives as part of the agency's broader conservation and budgeting strategy. For further details on regional conservation actions, see Appendix 4.4 and the NEAFWA Regional Synthesis <ref type="bibr">(TCI &amp; NEFWDTC, 2023)</ref>.</p><p>In addition to the Northeast Fish and Wildlife Diversity Technical Committee, Connecticut will also continue to participate in the NEAFWA Northeast Landscape Wildlife Conservation Committee and other landscape and watershed-scale conservation partnerships, which provide Connecticut with opportunities to implement coordinated conservation action, reduce redundancy, save time and money, and combine resources to conserve landscapes and habitats for the benefit of people and the future of fish and wildlife.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Connecticut Conservation Opportunity Areas</head><p>Conservation opportunity areas (COAs) represent locations where partners can take voluntary actions to benefit wildlife populations and habitats, thereby achieving conservation goals. The first step in mapping COAs involved gathering ecological, town, and social input data for the mapping process (Figure <ref type="figure" target="#fig_0">4</ref>.12, Steps 1-3). Some data used in the mapping process included habitat suitability maps for 14 SGCN identified by the Taxa Teams. The SGCN included in the models represented their taxa and/or key habitats and had at least 10 occurrences in the state since 2016 <ref type="bibr">(Figures 4.12,</ref><ref type="bibr">4.13)</ref>. Ensembles of small models, a modeling approach well-suited for rare species, were used to fit and combine a series of bivariate models <ref type="bibr" target="#b27">(Lomba et al., 2010;</ref><ref type="bibr" target="#b3">Breiner et al., 2015</ref><ref type="bibr" target="#b4">Breiner et al., , 2018))</ref>. Each model's predictions were based on the habitat associations identified by the taxa teams and existing literature. Ecological data also included key habitat maps from Chapter 2, CT DEEP Natural Diversity Database (NNDB) Review Areas (CT DEEP, 2024a) for state listed threatened and endangered species and species of special concern, the Nature Conservancy's Terrestrial Resilient and Connected Network (The Nature Conservancy 2016), and the locations of local, state, and federal protected areas <ref type="bibr" target="#b6">(CT DEEP, 2011;</ref><ref type="bibr">2023a;</ref><ref type="bibr">b;</ref><ref type="bibr">2024b;</ref><ref type="bibr">c;</ref><ref type="bibr" target="#b47">USGS, 2018;</ref><ref type="bibr" target="#b16">CT ECO, 2019)</ref>.</p><p>To identify towns that could be partners (Figure <ref type="figure" target="#fig_0">4</ref>.12, Step 2), topic models were used to label topics <ref type="bibr" target="#b37">(Roberts et al. 2014</ref><ref type="bibr" target="#b36">(Roberts et al. , 2019))</ref>, a group of words representing an underlying theme, in town Plans of Conservation and Development that overlap with topics in the 2015 CT SWAP. Plans for Conservation and development must consider natural resource conservation <ref type="bibr">(CT General Statutes, 2018)</ref>. Over 90% of plans mention wildlife in some capacity, such as wildlife habitats, corridors, and species (Chapter 6). The 107 Plans of Conservation and Development were retrieved online, and the probability that the towns contained the topics most overlapping with the 2015 CT SWAP, land use, and coastal communities, was mapped. The social data included maps of priority areas for other local, private, state, and federal partners, such as the Important Bird Areas created by the National Audubon Society (National Audubon Society, 2024), the Highland Map produced by the US Fish and Wildlife Service (USFWS, 2025), map of zip codes with private landowners likely to engage in forest management <ref type="bibr" target="#b39">(Smith et al. 2024)</ref>, 2020 CT Forest Action Plan priority areas (CT DEEP, 2020), and priority waterbodies for Trout Unlimited <ref type="bibr">(Trout Unlimited, 2023)</ref>. Town-level human population density (US Census Bureau, 2023) and proximity to engagement resources, such as libraries <ref type="bibr" target="#b2">(Breeding 2024)</ref>, nature and education centers <ref type="bibr">(Visit New England, 2025), and</ref><ref type="bibr">CT DEEP properties (CT DEEP, 2018;</ref><ref type="bibr">2024d)</ref> were also gathered as social data. For more details on the methods for compiling the ecological, town, and social input data, see Appendix 4.6. The next step in mapping conservation opportunity areas was to input ecological, town, and social data into the Zonation software to rank each pixel in a 10.0 m resolution grid of Connecticut based on its conservation value (Figure <ref type="figure" target="#fig_0">4</ref>.12, Steps 3-5). Zonation iteratively ranks all grid cells based on their marginal loss in conservation value. It assigns each cell a score based on its ranking, prioritizing areas with a high density of features, the balance between features, and those that minimize conservation loss <ref type="bibr" target="#b29">(Moilanen et al., 2005</ref><ref type="bibr" target="#b30">(Moilanen et al., , 2022))</ref>. To associate conservation opportunities with broad actions, we created single-objective Conservation Opportunity Areas based on seven actions in the PCRM-PI framework cross-walked to the CMP/Lexicon framework: Protect, Connect, Restore, Manage, Partner, and Inform (Inform is further broken down into separate actions of Inform and Research and Monitor; <ref type="bibr" target="#b25">Liberati et al. 2016)</ref>. Each COA has different ecological, town, and/or social data to reflect aspects of each action, with weights representing the relative importance of those layers.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Protect COA</head><p>The goal of the Protect COA is to move land into a legal status, permanently protecting it from development or other transformation that would alter the major ecological characteristics. All 14 SGCN habitat suitability models and the seven key habitat maps were input into Zonation, each with an equally positive weight of 1.0. The rank values above 0.80 or the top 20% of values were extracted to create the Protect COA. To reflect the goal of the Protect COA, areas currently under local, state, or federal protection were excluded from the final Protect COA <ref type="bibr">(Figure 4.14)</ref>. Partners interested in purchasing land or changing the land protection status should use this COA.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Connect COA</head><p>The Connect COA aims to facilitate physical, structural, or functional connections amongst populations. The 14 SGCN models and seven key habitat maps, as well as the distance to protected areas data and Resilient and Connected Landscapes, were included in Zonation. The distance to protected areas layers had a higher negative weight, -5.0 or roughly 25% of the combined weight of all other layers, to prioritize grid cells in proximity to current protected areas. The Resilient and Connected Landscapes layer also had a higher weight of 5.0 due to the regional importance of the connected network. The rank values above 0.80 or the top 20% of values were extracted to create the Connect COA <ref type="bibr">(Figure 4.14)</ref>. Partners interested in expanding protected areas and establishing corridors should use this COA. Barriers were not included within this COA since barriers are speciesdependent. Thus, partners using this map should consider features that affect connectivity for specific SGCN or taxa, such as dams, culverts, or other structures that impede the movement of SGCN in aquatic or terrestrial landscapes.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Partner COA</head><p>The Partner COA aims to collaborate across disciplines, specializations, and partners to achieve SWAP goals. To address this goal, spatial priority maps available from private, NGO, local, state, and federal organizations were incorporated into Zonation for the partner COA. The topic probability map from the town plan analysis was also used. All these layers were input into Zonation with equal positive weights of 1.0, and then values above 0.80 or the top 20% of values were extracted for the Partner COA <ref type="bibr">(Figure 4.14)</ref>. Partners interested in collaborating and identifying areas where priorities from different organizations overlap may refer to this map. This COA displays partners with an existing priority map to spatially identify areas of overlap between the priority map and other maps. It does not display all potential partners, nor is it exhaustive in terms of priorities. The Conservation Action Tracker can also demonstrate spatially where different conservation partners are conducting actions across the state.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Manage COA</head><p>The Manage COA aims to maintain or enhance ecological conditions and habitats. Key habitat maps were included within the Manage COA to reflect this goal. Due to minimal overlap in key habitats, the Zonation software was unnecessary for prioritization. Instead, all key habitats were included in a single map to help partners achieve the goal of maintaining or enhancing existing key habitats. The core forest map was used instead of forested uplands to highlight areas of continuous forest cover, and properties currently managed by CT DEEP were also included <ref type="bibr">(Figure 4.14)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Restore COA</head><p>The Restore COA aims to restore desired conditions, communities, or populations, including restoration of structure, function, and processes. For the Restore COA, the top 50-75% of habitat suitability values were extracted from each of the 14 SGCN maps with equal positive weights of 1.0 in Zonation. The values above 0.80 or the top 20% of values were extracted to generate the Restore COA <ref type="bibr">(Figure 4.14)</ref>. Partners interested in habitat restoration for SGCN should use this COA.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Inform COA</head><p>The Inform COA aims to engage, educate, or encourage human (individual or collective) participation in conservation actions. For the Inform COA, layers representing access and proximity to various resources that increase conservation education and engagement were used, including proximity to libraries, CT DEEP state property access points, nature and education centers, and town-level population density data. All these layers were combined into Zonation with equal positive weights of 1.0, and then values above 0.80 or the top 20% of values were extracted for the Inform COA <ref type="bibr">(Figure 4.14)</ref>. Partners interested in increasing education and engagement opportunities and access to educational resources should reference this COA.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Research and Monitor COA</head><p>For the Research and Monitoring COA, the goal is to assess the status of, the need for, and the response to management for species and habitats. The NDDB Review Areas map was categorized into three groups: low (1-2 species), medium (3-6 species), and high (&gt;7 species) numbers of overlapping layers for state-threatened and endangered species, and species of special concern, based on natural breaks in the data. The NDDB areas for SGCN already included in the SGCN mapping process were removed to avoid overrepresenting species. The NDDB Review Areas were combined with the 14 SGCN maps and the seven key habitat maps in Zonation. The layers were all given an equal positive weight of 1.0, except for the NDDB layer, which was given a weight of 21.0 to equal the total weight of all the SGCN and habitat maps. To generate the Research and Monitor COA, the values above 0.80 or the top 20% of values from Zonation were extracted <ref type="bibr">(Figure 4.14)</ref>. Partners can use this map to either target areas with overlapping species and suitable habitats or identify areas that have not been recently surveyed.   <ref type="bibr">(protect, connect, partner, restore, manage, inform, and research and monitor)</ref> and one that combines all COAs.</p><p>Figure <ref type="figure" target="#fig_0">4</ref>.13 -The 14 SGCN included in the habitat suitability and conservation opportunity area mapping processes. These SGCN are representative of either key habitats and/or their taxa. The bar plot at the bottom demonstrates the count of SGCN in each broad habitat group, demonstrating the 14 SGCN represent all habitat groups excluding marine.   overwintering, and seasonal movement. The Taxa Teams emphasized the need for coordinated habitat and species management to address intensifying threats, including hydrologic alteration, habitat fragmentation, road mortality, subsidized predation, and emerging infectious diseases. These threats disproportionately affect slow-reproducing and dispersal-limited species that depend on long-term management of high-quality sites.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Prioritized Species-&amp; Taxon-Specific Actions</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Amphibians &amp; Reptiles</head><p>Habitat management (A.1) and species management (A.2) emerged as the highest priority actions for this taxon group. For turtles such as Bog Turtle, Spotted Turtle, Wood Turtle, and Eastern Box Turtle, the Taxa Teams identified targeted vegetation control, predator management, and road mortality mitigation as essential interventions. These strategies address core threats from natural systems modifications, invasive species, and transportation corridors, and align with existing recovery frameworks such as the Northeast Wood Turtle Conservation Plan and the Bog Turtle Conservation Plan (Northern Population) <ref type="bibr">(TCI &amp; NEFWDTC, 2023)</ref>. Metrics for gauging success may include increased nest success rates, reduced adult mortality on road segments, and persistence of multiple age classes at managed sites. <ref type="bibr" target="#b23">Klemens et al. (2021)</ref> emphasize that long-lived reptile populations, particularly turtles, are highly sensitive to incremental adult mortality and habitat degradation due to their delayed maturity and low reproductive capacity. Amphibians of conservation concern, such as Jefferson Salamander, Blue-spotted Salamander, and Four-toed Salamander, require protection and stewardship of ephemeral wetland habitats and their upland buffers. These species are particularly vulnerable to local hydrologic disturbances, such as ditching, filling, or draining vernal pools, which continue to fragment habitat mosaics and disconnect breeding and non-breeding areas <ref type="bibr" target="#b23">(Klemens et al., 2021)</ref>. The Taxa Teams identified site-level interventions to stabilize or restore vernal pool hydrology, along with canopy and substrate management in upland forest buffers, as key priorities. Effectiveness may be assessed through breeding surveys, egg mass counts, or occupancy trends at managed sites. Planning (C.6) and monitoring (C.8) are also ranked as high priorities due to the limited detection probability and data availability for many Amphibian &amp; Reptile species. Species such as the Eastern Spadefoot and Northern Leopard Frog remain poorly documented, with few recent detections and limited known populations. The Taxa Teams recommended targeted inventory using appropriate seasonal and hydrological windows, emphasizing continuity with regional amphibian monitoring efforts. For more broadly distributed species such as Spotted Salamander and Wood Frog, long-term trend monitoring under standardized protocols will help assess population trajectories and climate impacts. Performance metrics may include the number of sites monitored, detection probabilities, and shifts in phenology or breeding success. For rare snakes, including Timber Rattlesnake, Eastern Hog-nosed Snake, and Eastern Ribbonsnake, planning efforts should incorporate data on overwintering habitat, movement corridors, and thermal microhabitats, which remain poorly characterized but vital to long-term persistence <ref type="bibr" target="#b23">(Klemens et al., 2021)</ref>.</p><p>Land acquisition and legal habitat protection also remain foundational. Fragmentation and development continue to disrupt wetland-upland connectivity, a pattern particularly detrimental to mole salamanders and turtles. The Taxa Teams recommended securing high-value sites through fee acquisition or easement and establishing habitat management agreements with landowners where formal protection is not feasible. Measurable indicators may include the number of population sites protected, acres managed under conservation agreements, or implementation of site-specific management plans.</p><p>Finally, the Taxa Teams emphasized the growing threat of disease and the need for coordinated surveillance and response. Ranavirus, chytrid fungus, and snake fungal disease pose widespread but poorly understood risks to Connecticut's Amphibian &amp; Reptile. Establishing baseline infection data, reporting protocols, and laboratory capacity to confirm outbreaks are critical next steps. These needs align with regional trends documented in the 2023 synthesis, which identified infectious disease as one of the fastest-growing threats to amphibians and reptiles across the Northeast <ref type="bibr">(TCI &amp; NEFWDTC, 2023)</ref>. Without sustained investments in the protection, restoration, and monitoring of priority habitats, many of Connecticut's Amphibians &amp; Reptiles, particularly those with narrow habitat requirements and low reproductive rates, will continue to experience range contraction and population decline <ref type="bibr" target="#b23">(Klemens et al., 2021)</ref>. For all Actions identified for Connecticut's SGCN and SAPS Amphibians &amp; Reptiles, see Appendix 4.3. Conserving Connecticut's Bird SGCN and SAPS will require a multifaceted approach over the next ten years. When the Bird Taxa Team met in Fall 2024, they identified their top five priorities: enforcement, habitat protection, funding, research, and long-term monitoring (Table <ref type="table" target="#tab_0">4</ref>.13; Figure <ref type="figure" target="#fig_0">4</ref>.16). The top priorities for bird SGCN are largely focused on coastal Connecticut in salt marshes, beaches, and the Long Island Sound.</p><p>The Taxa Team emphasized that strengthening enforcement of existing regulations, particularly those related to off-leash dogs in sensitive nesting areas, is crucial. Groundnesting bird populations, such as Piping Plovers and Least Terns, face consistent disturbance from uncontrolled pets, leading to lower reproductive success. Tracking the number of enforcement patrols, volunteer hours, and public compliance will be essential metrics for evaluating the effectiveness of this strategy. Additionally, ensuring compliance with state-owned building lighting regulations and encouraging others to reduce light pollution can reduce bird collisions, particularly for migratory species that rely on Connecticut's coastal and inland habitats. Habitat conservation remains central to protecting Connecticut's SGCN birds, particularly with rising sea levels threatening critical nesting and foraging grounds. Acquiring and conserving high marsh habitats will be important for sustaining salt marsh-dependent species such as the Saltmarsh Sparrow.</p><p>Collaborative efforts with land trusts and conservation organizations will be key to securing these habitats and ensuring their long-term viability. Research into sustainable management and restoration techniques will be crucial for maintaining habitat quality for salt marsh-dependent species, as these marshes will struggle to migrate inland due to coastal development (see Chapter 2).</p><p>Long-term monitoring is essential to assess population trends and implement adaptive management strategies. For example, monitoring the wintering populations of SGCN in Long Island Sound would provide baseline data to track shifts in abundance and distribution over time, which is especially important due to the warming waters in the Northwest Atlantic and their impact on feeder fish populations. Assessing how fisheries management and climate-driven changes impact food availability in the sound will be important for species such as Red-throated Loons and Black Scoters, which depend on stable wintering conditions. Collaboration is also key, as many bird species cross state and national boundaries. Connecticut's participation in regional partnerships, such as the Atlantic Coast Joint Venture, Black Duck Joint Venture, and the Northeast Association of Fish and Wildlife Agencies, ensures conservation efforts align with broader population trends. For all Actions identified for Connecticut's SGCN and SAPS birds, see Appendix 4.3. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Percentage of Fish SGCN identified for each Level 1 Action</head><p>Priority actions for Connecticut's fish SGCN focus on protecting habitat continuity, restoring aquatic connectivity, improving water quality, and addressing population-specific data gaps across freshwater, diadromous, and marine systems. Connecticut's Taxa Teams emphasized the need for integrated habitat management and planning efforts to address persistent threats, including dam barriers, poorly designed road crossings, altered streamflow, thermal stress, nonpoint source pollution, overfishing, and low dissolved oxygen. These actions are critical to prevent further decline in population viability, particularly among species with complex life cycles and migratory requirements.</p><p>Habitat and natural resource management (A.1) and planning (C.6) emerged as toppriority actions across all fish taxa. For freshwater species, improving riparian habitat conditions, reducing thermal stress, and restoring base flow emerged as essential strategies for protecting coldwater SGCN such as Brook Trout and Slimy Sculpin. These species are particularly vulnerable to rising temperatures, low summer flows, and nutrient enrichment <ref type="bibr">(TCI &amp; NEFWDTC, 2023)</ref>. The 2022 Integrated Water Quality Report identified streamflow alteration and nonpoint source runoff as leading causes of aquatic life impairment in Connecticut streams, particularly in small coldwater tributaries <ref type="bibr" target="#b9">(CT DEEP, 2022)</ref>. The Taxa Teams called for restoration of riparian buffers, strategic dam removals or bypass structures, replacing or updating poorly designed road crossings, and adaptive management of water withdrawals under Connecticut's streamflow regulations. Metrics for gauging success may include improvements in macroinvertebrate indices, thermal regime stability, and SGCN occupancy persistence across seasons.</p><p>Diadromous fish, such as Alewife, Blueback Herring, American Shad, and American Eel, require access to spawning and rearing habitats in both freshwater and estuarine systems. The Taxa Teams strongly emphasized barrier mitigation as a central conservation action. Species-specific priorities include dam removal, installation of nature-like fishways, and passage improvements tailored to the American Eel. In many cases, restoration potential remains high but is unrealized due to continued fragmentation of major basins, particularly the Connecticut, Housatonic, and Quinnipiac Rivers. The 2023 Regional Synthesis noted that diadromous species across the Northeast are among the most consistently threatened fish groups due to historic hydrologic modification and loss of longitudinal connectivity <ref type="bibr">(TCI &amp; NEFWDTC, 2023)</ref>. Success metrics may include the number of barriers removed, the number of river miles reopened, and the passage efficiency at priority structures, as well as metrics aligned with the 2025 Long Island Sound Comprehensive Conservation and Management Plan.</p><p>In marine and estuarine systems, key SGCN such as Winter Flounder, Atlantic Sturgeon, and Windowpane Flounder are impacted by water quality degradation, altered salinity regimes, and sediment contamination. The Taxa Teams identified long-term monitoring (C.8) and species-specific research (C.8) as critical to understanding population trends, recruitment bottlenecks, and habitat associations. The 2022 Integrated Water Quality Report highlighted hypoxia and nutrient-driven eutrophication as recurring impairments in Long Island Sound and its embayments, which degrade habitat suitability for sensitive demersal fish <ref type="bibr" target="#b9">(CT DEEP, 2022)</ref>. Actions that reduce nitrogen inputs and improve dissolved oxygen levels in embayments, particularly through stormwater management and improved wastewater infrastructure, will benefit multiple marine SGCN. Performance indicators may include reductions in the spatial extent of seasonal hypoxia, improved benthic condition scores, or fishery-independent trends.</p><p>Cross-cutting needs include coordinated data collection, fisheries-independent surveys, and habitat mapping to identify key habitats for rearing, foraging, and overwintering. In particular, the Taxa Teams recommended expanding juvenile surveys, acoustic tagging, and estuarine nursery assessments for under-documented species such as Atlantic Tomcod, Northern Pipefish, and Bay Anchovy. Monitoring efforts should align with regional fish passage and estuary management initiatives to improve data comparability and prioritize restoration. Where possible, performance should be evaluated using direct indicators of population trend, reproductive success, or habitat use, rather than proxy measures.</p><p>Taxa Teams also stressed the importance of alliance building (C.7) and technical assistance to strengthen municipal engagement in stream and estuary conservation. Many SGCNs rely on habitat patches embedded within town-owned or privately managed lands. Building capacity among watershed groups, land trusts, and conservation commissions will be essential to implement fish habitat protections in the face of development pressure. The Taxa Teams identified this as a scalable action that may support the implementation of multiple priority strategies, particularly where state capacity is limited. Without sustained investments in aquatic connectivity, riparian management, and site-specific monitoring, many of Connecticut's freshwater, diadromous, and marine fish SGCN will continue to face declining resilience due to warming temperatures, altered hydrology, and persistent water quality challenges. Habitat management (A.1) and planning (C.6) were consistently ranked among the highest priority actions for invertebrates. For rare butterflies, bees, and moths, the Taxa Teams identified the need to maintain or restore native grassland and early successional habitats, including dry sand plains, pitch pine-scrub oak barrens, and coastal dune systems. In particular, the persistence of several priority pollinator species depends on site-specific management of host plant communities, prescribed fire, and control of invasive species. Aquatic invertebrates, including dragonflies, caddisflies, and freshwater mussels, require long-term protection of high-quality streams, seeps, and vernal pools, with a focus on mitigating sedimentation, maintaining hydrological integrity, and preserving riparian canopy conditions. These needs align with regional findings that freshwater invertebrates are among the most imperiled faunal groups in the Northeast, with many species limited to a handful of high-quality sites <ref type="bibr">(TCI &amp; NEFWDTC, 2023)</ref>. Species management (A.2) and research and monitoring (C.8) were top priorities. For most invertebrate SGCNs, insufficient distribution, abundance, and life history data hinder the evaluation of conservation outcomes or the prioritization of management. The Taxa Team recommended expanding species-specific surveys, particularly for habitat specialists and early-detect invaders, and supporting taxonomic expertise for groups such as moths, freshwater mussels, and leafhoppers. The Pollinator Advisory Committee also recommended targeted monitoring of imperiled pollinator species and the implementation of adaptive management frameworks to refine mowing regimes, pesticide restrictions, and restoration practices. Success indicators may include documentation of new populations, expansion of known ranges, or increased site occupancy following habitat restoration.</p><p>Cross-cutting threats to invertebrates, including pesticide exposure, invasive plants, and loss of native floral diversity, require broader integration of best practices into public and private land management. The Taxa Teams identified outreach and alliance building (C.7) as critical to promoting adoption of pollinator-friendly practices among municipalities, state agencies, land trusts, and private landowners. The Taxa Team recommended strategies, including implementing integrated pest management policies, revising roadside maintenance schedules, expanding pollinator habitats on solar and municipal lands, and providing technical support for landowners seeking to enhance native plant diversity. These actions also support broader goals outlined in the recommendations of the Connecticut Pollinator Advisory Committee, which emphasized multi-sector partnerships and voluntary adoption of ecologically beneficial land care practices.</p><p>Connectivity and climate resilience also emerged as unifying conservation needs. Many invertebrates, particularly those with limited dispersal capacity or obligate host associations, are vulnerable to local extirpation when habitats become too isolated or degraded. The Taxa Teams recommended identifying and managing priority habitat corridors, particularly where rare invertebrate populations are clustered near state lands or existing conservation areas. In addition, climate-related threats such as phenological mismatch, altered disturbance regimes, and drought will require long-term monitoring of sensitive taxa and integration of invertebrate considerations into ecosystem-scale adaptation planning. In the absence of coordinated survey effort, site protection, and adaptive habitat management, many of Connecticut's invertebrate SGCN-particularly habitat specialists and freshwater taxa-are likely to continue declining due to their restricted ranges, narrow ecological requirements, and high sensitivity to environmental disturbance. Connecticut's mammalian SGCN includes habitat specialists, wide-ranging carnivores, and rare bat species. Many of these species face ongoing threats from habitat fragmentation, shifting environmental conditions, disease, and road mortality. The Taxa Teams emphasized that conservation of these species depends on a combination of landscape-scale habitat protection, targeted research and monitoring, and mitigation of discrete threats such as collisions and disease. Given the low densities and wide-ranging behavior of many priority mammal species, effective conservation will require crossboundary coordination and long-term investment in connectivity and site-based management.</p><p>Habitat management (A.1) and land protection emerged as the highest-priority actions for most mammalian SGCN. For wide-ranging carnivores such as the Fisher, maintaining core forest blocks and reducing habitat fragmentation were viewed as essential. The Taxa Teams emphasized that habitat loss and increasing road density remain primary threats to the viability of many species, including the New England Cottontail. Restoration of shrubland and young forest habitats was identified as a particularly urgent need for New England Cottontail and other early successional associates, and overlaps with management needs for several bird and reptile species. Metrics for assessing progress may include habitat patch size, rate of loss in priority areas, and species occupancy across managed sites. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Percentage of Mammal SGCN identified for each Level 1 Action</head><p>Disease and disturbance at roost sites remain major threats for bat species, including Northern Long-eared Bat, Tri-colored Bat, and Eastern Small-footed Bat. The Taxa Teams emphasized continued coordination with regional efforts to monitor white-nose syndrome and protect hibernacula and maternity roosts. Actions under species management (A.2), such as exclusion of human access to sensitive caves, adaptive forest management near roosts, and documentation of acoustic activity during migration and breeding seasons, were all identified as critical to population monitoring and conservation. Effectiveness indicators may include detection of multiple age classes during summer surveys, evidence of stable or expanding acoustic activity, and protection of roost structures in priority management areas.</p><p>Research and monitoring (C.8) ranked as a high priority across multiple species, particularly for elusive or cryptic SGCN such as Long-tailed Shrew, Southern Bog Lemming, and small-footed bats. The Taxa Teams called for increased use of camera trapping, passive acoustic monitoring, and community science data to expand detection coverage. Regional synthesis findings also identified data deficiency as a limiting factor for many mammal species of concern, especially in the context of shifting climate and land use <ref type="bibr">(TCI &amp; NEFWDTC, 2023)</ref>. Performance metrics may include the number of survey hours completed, the number of detections by species, or the refinement of habitat models to support prioritization.</p><p>The Taxa Teams also emphasized the importance of improved planning (C.6) and alliance building (C.7) to integrate mammal conservation into transportation planning, land-use regulation, and private land stewardship. Road mortality emerged as a crosscutting threat for both large and small species and was identified as a potential focus area for pilot mitigation projects or guidance development. Partnerships with transportation agencies, municipalities, Councils of Government (COGs), and conservation organizations are critical to reducing mortality and enhancing the permeability of the landscape. Recommended indicators include reducing mortality at known roadkill hotspots, installing wildlife-friendly infrastructure (e.g., culverts, fencing), and formalizing the adoption of wildlife considerations into planning frameworks.</p><p>Connecticut's mammalian SGCN face unique conservation challenges due to their mobility, land area requirements, and vulnerability to localized and landscape-scale threats. Without coordinated investments in monitoring, habitat protection, and targeted threat mitigation, many of these species will remain at risk of local or regional decline. Establish a wildlife disease working group to prepare response plans ahead of emerging infectious diseases; generate and distribute information to the public for preventing disease spread, including communicating the interplay between environmental toxicants and disease; and to maintain a database of toxicant and disease testing of wildlife Connecticut's plant Species of Greatest Conservation Need (SGCN) include habitat specialists, edge-of-range taxa, and globally rare endemics. Many of these species persist in small, isolated populations that face persistent threats from habitat loss, ecological succession, invasive species, and shifting environmental conditions. The Taxa Team emphasized that effective conservation would require a combination of land protection, active management, monitoring, and expanded partnerships to address knowledge gaps and management capacity limitations. Due to the high number of plant SGCN and the complexity of their habitat associations, priority actions focus on protecting the ecological processes and disturbance regimes that sustain rare plant communities, particularly in forested, wetland, and early successional systems.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Plants</head><p>Habitat management (A.1) and planning (C.6) were ranked as the highest priorities for this group. The Taxa Team emphasized the need to restore and maintain appropriate disturbance regimes in habitats such as traprock ridges, sand plains, open wetlands, and early successional uplands. In many cases, fire suppression, hydrologic alteration, or lack of vegetation management have allowed canopy closure or invasive plant encroachment, Land protection and site-level stewardship were also emphasized as essential to address threats from habitat conversion and fragmentation. Many SGCN persist on privately owned parcels or land under multiple-use management. Taxa Team members identified several plant-rich sites in Connecticut that lack formal protection, including trap rock outcrops, calcareous wetlands, and sand barrens. The 2021 regional analysis identified six Important Plant Areas (IPAs) in Connecticut's North Atlantic Coastal Plain Hardwood Forest and ten in Northeastern Interior Dry-Mesic Forest-habitats that are both highly vulnerable to development and poorly secured against conversion (Native Plant Trust &amp; The Nature Conservancy, 2021). These landscapes also support climate-resilient microhabitats and high densities of rare taxa. Conservation actions that secure these sites, through fee acquisition, conservation easement, or cooperative management agreements, will be critical for long-term plant diversity conservation. Relevant indicators include acres of rare plant habitat protected and documented occurrence trends for focal species.</p><p>Research and monitoring (C.8) also emerged as a high priority. The Taxa Team highlighted the limited availability of long-term data on population trends, reproductive success, and management response for many plant SGCN. The Taxa Team recommended establishing permanent monitoring plots, conducting seed viability studies, and implementing adaptive management frameworks. They noted several species that require urgent attention due to declining population size or known threats, including Swamp Pink, American Chaffseed, and Purple Milkweed. The 2020 Connecticut Forest Action Plan also underscored that forest understories, particularly in mesic hardwood systems, have been shifting toward lower diversity and higher prevalence of invasive species. This pattern may further reduce native forb richness and regeneration capacity over time (CT DEEP, 2020).</p><p>Cross-cutting threats include deer herbivory, invasive species, altered disturbance regimes, and climate-driven shifts in habitat suitability. The Taxa Team identified deer browsing as a widespread and growing pressure, particularly in mesic forests and riparian zones, where browse-sensitive taxa such as Ginseng and Showy Lady's Slipper are declining. The need for scalable deer management was repeatedly cited, although regulatory and social constraints remain limiting factors. Shifting environmental conditions may also disrupt phenology, alter species distributions, and reduce the viability of small, isolated populations. Recommended strategies to build resilience include prioritizing the protection of climate-resilient habitat patches, supporting seed banking and ex-situ conservation for highly imperiled taxa, and piloting assisted migration in select cases. Finally, the Taxa Team emphasized that plant conservation must be better integrated into broader land use and ecosystem management efforts. Actions that promote native plant diversity-such as low-mow policies, invasive species control, and native landscaping on state and municipal lands-can yield significant co-benefits for pollinators, birds, and soil health. Technical assistance, outreach, and coordination with land trusts and municipal partners will be essential to scale up implementation. Without a strategic investment in land protection and habitat stewardship, many of Connecticut's plant SGCN, particularly those restricted to fragmented or disturbance-dependent habitats, will remain vulnerable to local extirpation. </p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figure 4</head><label>4</label><figDesc>Figure 4.1 -Proportion of SGCN and SAPS from each taxonomic group that would benefit from each Level 1 Action. Proportionally, the top three Level 1 Action priorities are Research &amp; Monitoring (C.8), Design and Plan Conservation (C.6), and Direct Habitat Management (A.1).</figDesc><graphic coords="13,72.00,72.00,496.00,207.00" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Figure 4</head><label>4</label><figDesc>Figure 4.2 -Proportion of SGCN by taxonomic group that require Level 1 and 2 Actions for Research and Monitoring (C.8.0).</figDesc><graphic coords="14,72.00,371.14,468.00,265.05" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Figure 4</head><label>4</label><figDesc>Figure 4.3 -Proportion of SGCN by taxonomic group that require Level 1 and 2 Actions for Design and Plan Conservation (C.6.0.0.0).</figDesc><graphic coords="17,69.50,237.84,468.00,268.05" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>Figure 4</head><label>4</label><figDesc>Figure 4.4 -Proportion of SGCN by taxonomic group that require Level 1 and 2 Actions for Direct Habitat Management (A.1.0.0.0).</figDesc><graphic coords="21,72.00,88.97,468.00,265.05" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head>Figure 4</head><label>4</label><figDesc>Figure 4.5 -Proportion of SGCN by taxonomic group that require Level 1 and 2 Actions for Direct Species Management (A.2.0.0.0).</figDesc><graphic coords="24,72.00,90.97,468.00,265.80" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_5"><head>Figure 4 . 6 -</head><label>46</label><figDesc>Figure 4.6 -Proportion of SGCN by taxonomic group that require Level 1 and 2 Actions for Legislative and regulatory framework or tools (C.7.0.0.0).</figDesc><graphic coords="26,72.00,147.87,468.00,264.30" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_6"><head>Figure 4 . 7 -</head><label>47</label><figDesc>Figure 4.7 -Proportion of SGCN by taxonomic group that require Level 1 and 2 Actions for Law enforcement and prosecution (B.4.0.0.0).</figDesc><graphic coords="28,72.00,90.97,468.00,263.55" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_7"><head>Figure 4</head><label>4</label><figDesc>Figure 4.8 -Proportion of SGCN by taxonomic group that require Level 1 and 2 Actions for Outreach (B.3.0.0.0).</figDesc><graphic coords="29,72.00,312.18,468.00,266.55" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_8"><head>Figure 4 . 9 -</head><label>49</label><figDesc>Figure 4.9 -Proportion of SGCN by taxonomic group that require Level 1 and 2 Actions for Education and Training (C.9.0.0.0)</figDesc><graphic coords="31,72.00,90.97,468.00,266.55" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_9"><head>Figure 4 .</head><label>4</label><figDesc>Figure 4.10 -Proportion of SGCN by taxonomic group that require Level 1 and 2 Actions for Institutional Development (C.10.0.0.0).</figDesc><graphic coords="32,72.00,232.19,468.00,265.05" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_10"><head>Figure 4 .</head><label>4</label><figDesc>Figure 4.11 -Proportion of SGCN by taxonomic group that require Level 1 and 2 Actions for Economic and Other Incentives (B.5.0.0.0).</figDesc><graphic coords="34,72.00,90.97,468.00,268.80" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_11"><head></head><label></label><figDesc>(Protect, Connect, Partner, Manage, Restore, Inform, and Research and Monitor)   were combined to generate a Combined COA, demonstrating areas where synergistic or multiple actions can be addressed. This COA can also illustrate the options for Partner consideration as to what action(s) best address the priorities of a specific site or parcel. The numeric value, ranging from 0 to 7, represents the overlapping COAs in that area (Figure4.3). This way, Partners may use the Combined COA to choose among actions, address multiple actions, and implement synergistic actions.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_12"><head>Figure 4 .</head><label>4</label><figDesc>Figure 4.12. Flowchart describing the process to generate the 8 Conservation Opportunity Areas (COAs) that reflect 7 broad actions(protect, connect, partner, restore, manage, inform, and  research and monitor)  and one that combines all COAs.</figDesc><graphic coords="40,72.00,379.60,468.00,250.65" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_13"><head>Figure</head><label></label><figDesc>Figure 4.14. All Conservation Opportunity Areas (COA) were created for the Wildlife Action Plan. Protect COA prioritizes locations with suitable SGCN habitat and key habitats outside current protected areas. Connect COA prioritizes locations with suitable SGCN habitat and key habitats near current protected areas and Resilient and Connected landscapes. The Partner COA identifies areas of overlap in partner and town maps that are prioritized. The Manage COA tool indicates the locations of key habitats across the state. Restore COA prioritizes areas with moderate SGCN habitat suitability values (top 50-75%) that overlap. Inform COA prioritizes areas further from engagement and education resources (e.g., libraries and education centers) with high population densities. Research and Monitor COA prioritizes areas with suitable SGCN habitat and key habitats that fall within NDDB (Natural Diversity Database) Review Areas, focusing on those with high concentrations of state-threatened, endangered, and special concern species. Combined COA demonstrates the overlap in all 7 COAs, where darker colors indicate higher overlap and lighter colors indicate fewer COAs overlap.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_14"><head>Figure 4 .</head><label>4</label><figDesc>Figure 4.15 -Percentage of Amphibian &amp; Reptile SGCN that may benefit from each Level 1 ActionPriority actions for Connecticut's Amphibians &amp; Reptiles focus on conserving freshwater wetlands, riparian corridors, and adjacent uplands that support breeding, foraging,</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_16"><head>Figure 4 .</head><label>4</label><figDesc>Figure 4.20 -Percentage of Plant SGCN identified for each Level 1 Action</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_17"><head></head><label></label><figDesc>reducing habitat suitability for shade-intolerant or disturbance-dependent plant species. Targeted management techniques, including prescribed fire, mechanical thinning, invasive plant control, and hydrologic restoration, were recommended to maintain open structure and native plant diversity. Metrics of success may include increased abundance or reproductive success of target species, improved light availability, and reductions in invasive species cover.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 4 .</head><label>4</label><figDesc>1. List of Level 1 and 2 Actions based on the Northeast</figDesc><table /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>2025 Connecticut Wildlife Action Plan Conservation Actions Classification A: Target Restoration / Stress Reduction Actions B: Behavioral Change / Threat Reduction Actions 6. Design and Plan Conservation</head><label></label><figDesc></figDesc><table><row><cell></cell><cell>C: Enabling Condition Actions</cell></row><row><cell>1. Direct Habitat Management</cell><cell></cell></row><row><cell>1.1 Manage plants animals fungi or bacteria</cell><cell>6.2 Conserve specific land or seascapes</cell></row><row><cell>1.2 Manage non-living habitat components</cell><cell>6.3 Complementary or alternative conservation measures</cell></row><row><cell>2. Direct Species Management</cell><cell>6.4 Conserve via zoning or informal designations</cell></row><row><cell>2.1 Stewarding wild individuals</cell><cell>6.5 Conservation planning</cell></row><row><cell>2.2 Reintroduce or relocate individuals</cell><cell>6.6 Protect resources with site infrastructure</cell></row><row><cell>2.3 Stewardship of captive individuals</cell><cell>7. Legislative and Regulatory Framework or Tools</cell></row><row><cell></cell><cell>7.1 Create amend or influence legislation regulation or codes</cell></row><row><cell>3. Outreach</cell><cell>7.2 Create or amend policies guidelines or best practices</cell></row><row><cell>3.1 Outreach communication and distribution</cell><cell>8. Research and Monitoring</cell></row><row><cell>4. Law Enforcement and Prosecution</cell><cell>8.1 Basic research and status monitoring</cell></row><row><cell>4.1 Detection and intervention</cell><cell>8.2 Evaluation effectiveness measures and learning</cell></row><row><cell>4.2 Prosecution and conviction</cell><cell>9. Education and Training</cell></row><row><cell>5. Economic and Other Incentives</cell><cell>9.1 Academic training</cell></row><row><cell>5.1 Conservation business development</cell><cell>9.2 Training and individual skill development</cell></row><row><cell>5.2 Development of improved products</cell><cell>10. Institutional Development</cell></row><row><cell>5.3 Market-based incentives</cell><cell>10 Administration and internal organizational management</cell></row><row><cell>5.4 Economic incentives and disincentives</cell><cell>10 External support and organizational development</cell></row><row><cell>5.5 Non-monetary values</cell><cell>10 Alliance and partnership development</cell></row><row><cell></cell><cell>10 Conservation funding</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 4 .</head><label>4</label><figDesc>2 -Breakdown of the number and percentage of SGCN from each taxonomic group for each Level 1 and 2 actions forResearch and Monitoring (C.8.0)    </figDesc><table /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_4"><head>Table 4 .</head><label>4</label><figDesc>3 -Breakdown of the number and percentage of SGCN from each taxonomic group for each Level 1 and 2 actions forDesign and Plan Conservation (C.6.0)    </figDesc><table /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_5"><head></head><label></label><figDesc>Table 4.3; Figure 4.3), it disproportionately benefits species in rapidly urbanizing regions and those requiring high</figDesc><table><row><cell>Level 1</cell><cell>Level 2</cell><cell>Herps</cell><cell>Birds</cell><cell>Fish</cell><cell cols="2">Inverts Mammals Plants</cell><cell>All SGCN</cell></row><row><cell>Design and plan conservation C.6.0</cell><cell></cell><cell cols="6">23 (72%) 39 (50%) 34 (97%) 96 (76%) 10 (59%) 143 (50%) 345 (60%)</cell></row><row><cell></cell><cell cols="5">Conserve specific land or seascapes C.6.2 14 (44%) 28 (36%) 11 (31%) 36 (29%) 4 (24%)</cell><cell>0 (0%)</cell><cell>93 (16%)</cell></row><row><cell></cell><cell>Complementary or alternative conservation measures C.6.3</cell><cell cols="4">16 (50%) 14 (18%) 31 (89%) 19 (15%) 5 (29%)</cell><cell>0 (0%)</cell><cell>85 (15%)</cell></row><row><cell></cell><cell>Conserve via zoning or informal designations C.6.4</cell><cell cols="4">10 (31%) 20 (26%) 21 (60%) 12 (10%) 3 (18%)</cell><cell>0 (0%)</cell><cell>66 (12%)</cell></row><row><cell></cell><cell>Conservation planning C.6.5</cell><cell cols="4">13 (41%) 19 (24%) 34 (97%) 42 (33%) 7 (41%)</cell><cell cols="2">0 (0%) 115 (20%)</cell></row><row><cell></cell><cell>Protect resources with site infrastructure C.6.6</cell><cell>2 (6%)</cell><cell cols="3">3 (4%) 27 (77%) 27 (21%) 5 (29%)</cell><cell>0 (0%)</cell><cell>64 (11%)</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_6"><head>Table 4 .</head><label>4</label><figDesc>4 -Breakdown of the number and percentage of SGCN from each taxonomic group for each Level 1 and 2 actions for Direct HabitatManagement (A.1.0.0.0)    </figDesc><table /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_8"><head>Table 4 .</head><label>4</label><figDesc>5 -Breakdown of the number and percentage of SGCN from each taxonomic group for each Level 1 and 2 actions for Direct SpeciesManagement (A.2.0.0.0)    </figDesc><table /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_10"><head>Table 4 .</head><label>4</label><figDesc>6 -Breakdown of the number and percentage of SGCN from each taxonomic group for each Level 1 and 2 actions for Legislative and regulatory framework or tools(C.7.0.0.0)    </figDesc><table><row><cell>Level 1</cell><cell>Level 2</cell><cell>Herps</cell><cell>Birds</cell><cell>Fish</cell><cell cols="2">Inverts Mammals Plants</cell><cell>All SGCN</cell></row><row><cell>Legislative and regulatory framework or tools C.7.0</cell><cell></cell><cell cols="6">4 (12%) 9 (12%) 22 (63%) 53 (42%) 5 (29%) 58 (20%) 151 (26%)</cell></row><row><cell></cell><cell>Create amend or influence legislation regulation or codes C.7.1</cell><cell>3 (9%)</cell><cell cols="3">6 (8%) 20 (57%) 19 (15%) 2 (12%)</cell><cell>0 (0%)</cell><cell>50 (9%)</cell></row><row><cell></cell><cell>Create or amend policies guidelines or best practices C.7.2</cell><cell>3 (9%)</cell><cell cols="3">5 (6%) 7 (20%) 20 (16%) 3 (18%)</cell><cell>0 (0%)</cell><cell>38 (7%)</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_11"><head>Table 4 .</head><label>4</label><figDesc>7 -Breakdown of the number and percentage of SGCN from each taxonomic group for each Level 1 and 2 actions for Law enforcement and prosecution(B.4.0.0.0)    </figDesc><table><row><cell>Outreach</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_12"><head></head><label></label><figDesc>Table 4.8). Taxa Teams repeatedly emphasized that many species occur on private</figDesc><table><row><cell>Level 1</cell><cell>Level 2</cell><cell>Herps</cell><cell>Birds</cell><cell>Fish</cell><cell cols="3">Inverts Mammals Plants</cell><cell>All SGCN</cell></row><row><cell>Law enforcement and prosecution B.4.0</cell><cell></cell><cell cols="3">3 (9%) 12 (15%) 3 (9%)</cell><cell>5 (4%)</cell><cell>0 (0%)</cell><cell>2 (1%)</cell><cell>25 (4%)</cell></row><row><cell></cell><cell>Detection and intervention B.4.1</cell><cell cols="3">3 (9%) 9 (12%) 2 (6%)</cell><cell>2 (2%)</cell><cell>0 (0%)</cell><cell>0 (0%)</cell><cell>16 (3%)</cell></row><row><cell></cell><cell>Prosecution and conviction B.4.2</cell><cell>2 (6%)</cell><cell>5 (6%)</cell><cell>0 (0%)</cell><cell>1 (1%)</cell><cell>0 (0%)</cell><cell>0 (0%)</cell><cell>8 (1%)</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_13"><head>Table 4</head><label>4</label><figDesc></figDesc><table><row><cell>Level 1</cell><cell>Level 2</cell><cell>Herps</cell><cell>Birds</cell><cell>Fish</cell><cell cols="3">Inverts Mammals Plants</cell><cell>All SGCN</cell></row><row><cell>Outreach B.3.0</cell><cell></cell><cell cols="6">10 (31%) 26 (33%) 34 (97%) 93 (74%) 11 (65%) 33 (12%) 207 (36%)</cell></row><row><cell></cell><cell>Outreach communication and distribution B.3.1</cell><cell cols="4">7 (22%) 16 (20%) 12 (34%) 4 (3%)</cell><cell>6 (35%)</cell><cell>0 (0%)</cell><cell>45 (8%)</cell></row></table><note><p><p>.8 -Breakdown of the number and percentage of SGCN from each taxonomic group for each Level 1 and 2 actions for Outreach</p>(B.3.0.0.0)    </p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_14"><head>Table 4</head><label>4</label><figDesc></figDesc><table><row><cell>.9 -Breakdown of the number and percentage of SGCN from each taxonomic group for each Level 1 and 2 actions for Education and Training (C.9.0.0.0)</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_16"><head>Table 4 .</head><label>4</label><figDesc>11 -Breakdown of the number and percentage of SGCN from each taxonomic group for each Level 1 and 2 actions forEconomic and Other Incentives (B.5.0.0.0)    </figDesc><table /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_17"><head></head><label></label><figDesc>percentage of each northeastern state's annual State Wildlife Grant allocation, ensuring an equitable funding mechanism for all Northeast states and the District of Columbia. Since its inception, the RCN Program has supported 59 projects focused on monitoring, habitat conservation, and species management, with all resulting reports and products publicly available at northeastwildlifediversity.org.</figDesc><table><row><cell>Level 1</cell><cell>Level 2</cell><cell>Herps</cell><cell>Birds</cell><cell>Fish</cell><cell cols="3">Inverts Mammals Plants</cell><cell>All SGCN</cell></row><row><cell>Economic and other incentives B.5.0</cell><cell></cell><cell cols="3">0 (0%) 8 (10%) 3 (9%)</cell><cell>0 (0%)</cell><cell>1 (6%)</cell><cell>0 (0%)</cell><cell>12 (2%)</cell></row><row><cell></cell><cell>Conservation business development B.5.1</cell><cell>0 (0%)</cell><cell>1 (1%)</cell><cell>0 (0%)</cell><cell>0 (0%)</cell><cell>0 (0%)</cell><cell>0 (0%)</cell><cell>1 (0%)</cell></row><row><cell></cell><cell>Development of improved products and production methods B.5.2</cell><cell>0 (0%)</cell><cell>1 (1%)</cell><cell>0 (0%)</cell><cell>0 (0%)</cell><cell>0 (0%)</cell><cell>0 (0%)</cell><cell>1 (0%)</cell></row><row><cell></cell><cell>Market-based incentives B.5.3</cell><cell>0 (0%)</cell><cell>1 (1%)</cell><cell>0 (0%)</cell><cell>0 (0%)</cell><cell>0 (0%)</cell><cell>0 (0%)</cell><cell>1 (0%)</cell></row><row><cell></cell><cell>Economic incentives and disincentives B.5.4</cell><cell>0 (0%)</cell><cell>6 (8%)</cell><cell>0 (0%)</cell><cell>0 (0%)</cell><cell>0 (0%)</cell><cell>0 (0%)</cell><cell>6 (1%)</cell></row><row><cell></cell><cell>Non-monetary values B.5.5</cell><cell>0 (0%)</cell><cell>1 (1%)</cell><cell>0 (0%)</cell><cell>0 (0%)</cell><cell>0 (0%)</cell><cell>0 (0%)</cell><cell>1 (0%)</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_18"><head></head><label></label><figDesc>4.14. All Conservation Opportunity Areas (COA) were created for the Wildlife Action Plan. Protect COA prioritizes locations with suitable SGCN habitat and key habitats outside current protected areas. Connect COA prioritizes locations with suitable SGCN habitat and key habitats near current protected areas and Resilient and Connected landscapes. The Partner COA identifies areas of overlap in partner and town maps that are prioritized. The Manage COA tool indicates the locations of key habitats across the state. Restore COA prioritizes areas with moderate SGCN habitat suitability values (top 50-75%) that overlap. Inform COA prioritizes areas further from engagement and education resources (e.g., libraries and education centers) with high population densities. Research and Monitor COA prioritizes areas with suitable SGCN habitat and key habitats that fall within NDDB (Natural Diversity Database) Review Areas, focusing on those with high concentrations of state-threatened, endangered, and special concern species. Combined COA demonstrates the overlap in all 7 COAs, where darker colors indicate higher overlap and lighter colors indicate fewer COAs overlap.</figDesc><table /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_19"><head>Table 4 .</head><label>4</label><figDesc>12 -Highest Priority Actions for Amphibian &amp; Reptile SGCN identified by the Taxa Teams inFall 2024, in no particular order. For all top-priority actions identified by the Taxa Team, please refer to Appendix 4.3.</figDesc><table><row><cell>A.2.2.0. 0</cell><cell>Reintroduce or relocate individuals</cell><cell>Species introduction/reintroduction</cell></row><row><cell>C.6.2.0. 0</cell><cell>Acquire title for conservation purposes</cell><cell>Acquisition or donation of full title properties for conservation purposes</cell></row><row><cell>C.6.3.5. 0</cell><cell>Establish a voluntary conservation agreement</cell><cell>Voluntary conservation agreement stewardship</cell></row><row><cell></cell><cell>(stewardship)</cell><cell></cell></row><row><cell>C.6.5.1. 0</cell><cell>Plan the management of protected areas or sites</cell><cell>Planning the management of protected areas or sites</cell></row><row><cell>C.6.5.2. 0</cell><cell>Produce a conservation plan for taxonomic groups or species</cell><cell>Conservation plan for taxonomic groups or species</cell></row><row><cell>C.8.1.1. 0</cell><cell>Field research</cell><cell>Field research</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_20"><head>Table 4 .</head><label>4</label><figDesc>13 -Highest Priority Actions Identified by the Bird Taxa Team in Fall 2024 in no particular order. For all top-priority actions identified by the Taxa Team, please refer to Appendix 4.3.</figDesc><table><row><cell>B.4.0.0.0</cell><cell>Law enforcement and prosecution</cell><cell>To reduce the impacts of prohibited activities on SGCN birds, prioritize enforcement of existing regulations, such as those governing off-leash dogs, state building lighting design, and protecting shorebird areas.</cell></row><row><cell></cell><cell>Securing/raising</cell><cell></cell></row><row><cell>C.10.4.1.0</cell><cell>funds required to carry out conservation</cell><cell>Identify and develop a dedicated source of funding to conserve SGCN birds through habitat management, habitat conservation, and research</cell></row><row><cell></cell><cell>measures</cell><cell></cell></row><row><cell>C.6.2.0.0</cell><cell>Conserve specific land or seascapes</cell><cell>Identify and acquire critical habitats for SGCN birds through support from land trusts and other land management organizations.</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_21"><head>Table 4 .</head><label>4</label><figDesc>14 -Highest Priority Actions Identified by Fish Taxa Team in Fall 2024, in no particular order. For all top-priority actions identified by the Taxa Team, please refer to Appendix 4.3. SGCN-pollinators, aquatic insects, and rare mollusks, are experiencing range-wide declines driven by habitat fragmentation, altered hydrology, and intensive land use. Effective conservation often requires localized management of specific sites, particularly on private or unprotected lands, and is supported by broader shifts in landscape-scale land stewardship practices.</figDesc><table><row><cell>A.1.3.0. 0</cell><cell>Mitigate human environmental impact</cell><cell>Minimize disturbance of spawning habitats for key SGCN Fish Species.</cell></row></table><note><p>invertebrate</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_22"><head>Table 4 .</head><label>4</label><figDesc>15 -Highest Priority Invert Actions Identified by Invertebrate Taxa Team in Fall 2024, in no particular order. For all top-priority actions identified by the Taxa Team, please refer to Appendix 4.3.</figDesc><table><row><cell cols="2">B.4.1.0.0 Detection and intervention</cell><cell>Enforce existing restrictions where unauthorized activity is negatively affecting invertebrate habitat</cell></row><row><cell cols="2">B.4.1.0.0 Detection and</cell><cell>Enact priority actions defined by the Pollinator</cell></row><row><cell></cell><cell>intervention</cell><cell>Action Committee</cell></row><row><cell cols="2">C.6.2.0.0 Conserve specific land or seascapes</cell><cell>Ensure preservation of viable "Critical Habitat"* areas in Connecticut</cell></row><row><cell cols="2">C.8.1.0.0 Basic research and status monitoring</cell><cell>Monitor impacts of shifting environmental conditions through conducting an inventory and monitoring of SGCN and their supporting habitats</cell></row><row><cell>C.10.4.1. 0</cell><cell>Securing/raising funds required to carry out conservation measures</cell><cell>Enact priority actions defined by the Pollinator Action Committee</cell></row><row><cell cols="2">C.8.1.1.0 Field Research</cell><cell>Enact priority actions defined by the Pollinator Action Committee</cell></row></table><note><p><p>Mammals</p>Figure 4.19 -Percentage of Mammal SGCN identified for each Level 1 Action</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_24"><head>Table 4 .</head><label>4</label><figDesc>16 -Highest priority actions identified by the Mammal Taxa Team in Fall 2024, in no particular order. For all of the top priority actions identified by the Taxa Team, please see Appendix 4.3.</figDesc><table><row><cell>57</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_25"><head>Table 4 .</head><label>4</label><figDesc>19 -Highest Priority Actions Identified by Plant Taxa Team in Fall 2024, in no particular order. For all of the top priority actions identified by the Taxa Team, please see Appendix 4.3.Enforce existing restrictions against unauthorized activities on state lands and adjacent waters that impact or potentially impact SGCN plants and their habitats. Examples include creating and using unauthorized trails, engaging in ATV/dirt bike activity, and violating watercraft regulations. Following sound ecological restoration principles, conduct habitat management to maintain and restore existing SGCN plant populations, and to create new viable populations on protected lands that can be managed for the benefit of the SGCN plants, using appropriately sourced propagules of local genotypes. Control of invasive species will be an important management component at many sites. Conservation planning Reactivate the Natural Area Preserve (NAP) Program by appointing a coordinator and a committee. Seek funding to finalize and implement draft management plans for NAPs that host SGCN plants and produce plans for those NAPs with SGCN plants that do not yet have draft management plans. Apply existing Heritage methodology to determine and track the status and condition of rare or uncommon SGCN and SAPS plant species and their habitats. Different protocols must be developed to track the status and condition of those common SGCN species that support rare SGCN animals. Assessing the effects of shifting environmental conditions on SGCN plants and their habitats should be among the monitoring goals, and new protocols may need to be developed for that purpose. Add invasive plants not yet prohibited from sale, etc., by CT statute to the banned list.</figDesc><table><row><cell>B.4</cell><cell>Law enforcement</cell><cell></cell></row><row><cell></cell><cell>and prosecution</cell><cell></cell></row><row><cell>A.1.3</cell><cell>Mitigate</cell><cell>Mitigate impacts to SGCN plants from lake and pond</cell></row><row><cell></cell><cell>human environment al impact</cell><cell>drawdowns, dredging, chemical control, and other vegetation control activities.</cell></row><row><cell cols="3">A.2.1 Direct Management of Natural Resources: A.2.1 Stewarding wild individuals Stewarding Protect, enhance, and restore Pitch pine-scrub oak habitat to</cell></row><row><cell></cell><cell>wild individuals</cell><cell>benefit SGCN plant species.</cell></row><row><cell>C.6.2</cell><cell>Conserve</cell><cell>Acquisition/protection of lands hosting SGCN plants.</cell></row><row><cell></cell><cell>specific land or seascapes</cell><cell></cell></row><row><cell>C.6.5</cell><cell>Conservation planning</cell><cell>Develop and implement a plan to prioritize and address problems caused by invasive aquatic plants.</cell></row></table></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p>Updated December 2025</p></note>
+		</body>
+		<back>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>accountability, improve access to funding, and maintain continuity despite staff turnover. These structures are particularly valuable in watersheds or ecoregions where no single entity has management authority. Consistent funding to increase institutional capacity would benefit all of Connecticut's SGCN, SAPS, and habitats. Throughout many of Connecticut's state agencies, recent retirements have created numerous vacancies that remain unfilled. Steady funding streams would also benefit other organizations in the state struggling with the same issue with understaffing. Metrics of success might include the number of established interjurisdictional partnerships, frequency of joint decision-making meetings, number of vacant positions filled, or co-developed conservation strategies. Although this action supports fewer individual species than broader capacity-building (C.10.2), it can deliver substantial benefits by increasing institutional resilience and shared ownership of conservation outcomes.</p><p>For specific information on which actions will benefit which species and why, see Appendix 4.2. For summaries of the Level 2 actions associated with this Level 1 action, please see Appendix 4.5. </p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<monogr>
+		<title level="m" type="main">Conservation Status of Natural Habitats in the Northeast. The Nature Conservancy, Eastern Conservation Science</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">G</forename><surname>Anderson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Clark</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Olivero</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2023">2023</date>
+			<pubPlace>Boston, Massachusetts</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Are conservation organizations configured for effective adaptation to global change?</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">R</forename><surname>Armsworth</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">R</forename><surname>Larson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">T</forename><surname>Jackson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">F</forename><surname>Sax</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Simonin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Blossey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Shaw</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Frontiers in Ecology and the Environment</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="163" to="169" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<author>
+			<persName><forename type="first">M</forename><surname>Breeding</surname></persName>
+		</author>
+		<ptr target="&lt;https://librarytechnology.org/libraries/public.pl?State=Connecticut&gt;" />
+		<title level="m">Directory of Public Libraries in Connecticut</title>
+		<imprint>
+			<date type="published" when="2024-03-15">2024. 15 Mar 2025</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Overcoming limitations of modelling rare species by using ensembles of small models</title>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">T</forename><surname>Breiner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Guisan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Bergamini</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">P</forename><surname>Nobis</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Methods in Ecology and Evolution</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="1210" to="1218" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Optimizing ensembles of small models for predicting the distribution of species with few occurrences</title>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">T</forename><surname>Breiner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">P</forename><surname>Nobis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Bergamini</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Guisan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Methods in Ecology and Evolution</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="802" to="808" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<monogr>
+		<title level="m" type="main">Northeast Fish and Wildlife Diversity Technical Committee. 2022. The 2022 Northeast Lexicon: Terminology conventions and data framework for State Wildlife Action Plans in the Northeast Region. Association of Fish and Wildlife Agencies</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Crisfield</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">(</forename><surname>Nefwdtc)</surname></persName>
+		</author>
+		<imprint>
+			<pubPlace>Washington, D.C</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<monogr>
+		<title level="m" type="main">Protected Open Space Mapping Set</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">T</forename><surname>Deep</surname></persName>
+		</author>
+		<ptr target="&lt;https://ct-deep-gis-open-data-website-ctdeep.hub.arcgis.com/search?q=water&gt;" />
+		<imprint>
+			<date type="published" when="2011-03-17">2011. 2011. 17 Mar 2025</date>
+		</imprint>
+	</monogr>
+	<note>CT DEEP GIS Open Data Website</note>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<monogr>
+		<title level="m" type="main">DEEP Property Access Locations</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">T</forename><surname>Deep</surname></persName>
+		</author>
+		<ptr target="&lt;https://ct-deep-gis-open-data-website-ctdeep.hub.arcgis.com/datasets/" />
+		<imprint>
+			<date type="published" when="2018-03-15">2018. 15 Mar 2025</date>
+		</imprint>
+	</monogr>
+	<note>CT DEEP GIS Open Data Website</note>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<monogr>
+		<title level="m" type="main">CT Forest Action Plan. Connecticut&apos;s Official State Website</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">T</forename><surname>Deep</surname></persName>
+		</author>
+		<ptr target="&lt;https://portal.ct.gov/DEEP/Forestry/CT-Forest-Action-Plan&gt;" />
+		<imprint>
+			<date type="published" when="2020-03-15">2020. 15 Mar 2025</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">T</forename><surname>Deep</surname></persName>
+		</author>
+		<ptr target="&lt;https://portal.ct.gov/-/media/deep/water/water_quality_management/305b/2022/iwqr-final-2022" />
+		<imprint>
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+	<note>Integrated Water Quality Report. pdf?rev=b778b4aa83ad4f5cb918f84acb4aef3a&amp;hash=1023ED08409B99FD59 2D0D647210DEF3&gt;</note>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<monogr>
+		<title level="m" type="main">Fisheries Management Areas Set. CT DEEP GIS Open Data Website</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">T</forename><surname>Deep</surname></persName>
+		</author>
+		<ptr target="&lt;https://deepmaps.ct.gov/maps/" />
+		<imprint>
+			<date type="published" when="2023">2023. 26da452f8ccd45319f3bd7b2e5e1b448. 17 Mar 2025</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<monogr>
+		<title level="m" type="main">Surface Water Quality Classification Set. CT DEEP GIS Open Data Website</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">T</forename><surname>Deep</surname></persName>
+		</author>
+		<ptr target="&lt;https://deepmaps.ct.gov/search?q=water&gt;" />
+		<imprint>
+			<date type="published" when="2023-03-17">2023. 17 Mar 2025</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<monogr>
+		<title level="m" type="main">2024a. Natural Diversity Database. CT DEEP GIS Open Data Website</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">T</forename><surname>Deep</surname></persName>
+		</author>
+		<ptr target="&lt;https://deepmaps.ct.gov/datasets/" />
+		<imprint>
+			<date type="published" when="2025-03-17">58c6d263e85647caaa82c466d5794227. 17 Mar 2025</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<monogr>
+		<title level="m" type="main">Aquifer Protection Areas Set. CT DEEP GIS Open Data Website</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">T</forename><surname>Deep</surname></persName>
+		</author>
+		<ptr target="&lt;https://ct-deep-gis-open-data-website-ctdeep.hub.arcgis.com/search?q=water&gt;" />
+		<imprint>
+			<date type="published" when="2024-03-17">2024. 17 Mar 2025</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<monogr>
+		<title level="m" type="main">2024c. DEEP Property. CT DEEP GIS Open Data Website</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">T</forename><surname>Deep</surname></persName>
+		</author>
+		<ptr target="&lt;https://deepmaps.ct.gov/datasets/deep-property-3/explore&gt;" />
+		<imprint>
+			<date type="published" when="2025-03-17">17 Mar 2025</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<monogr>
+		<title level="m" type="main">Directions to DEEP Facilities. Connecticut&apos;s Official State Website</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">T</forename><surname>Deep</surname></persName>
+		</author>
+		<ptr target="&lt;https://portal.ct.gov/deep/about/contact-us/directions-to-deep-facilities&gt;" />
+		<imprint>
+			<date type="published" when="2024-03-15">2024. 15 Mar 2025</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<monogr>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">T</forename><surname>Eco</surname></persName>
+		</author>
+		<ptr target="&lt;https://ct-deep-gis-open-data-website-ctdeep.hub.arcgis.com/datasets/CTDEEP::federal-open-space/about&gt;" />
+		<title level="m">Federal Open Space. CT ECO</title>
+		<imprint>
+			<date type="published" when="2019-03">2019. Mar 2025</date>
+			<biblScope unit="volume">17</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Sec</title>
+		<ptr target="https://www.cga.ct.gov/2023/pub/chap_126.htm&gt;" />
+	</analytic>
+	<monogr>
+		<title level="m">Municipal Planning Commissions</title>
+		<imprint>
+			<publisher>CT General Statutes</publisher>
+			<date type="published" when="2018-03-16">2018. 16 Mar 2025</date>
+			<biblScope unit="volume">126</biblScope>
+			<biblScope unit="page" from="8" to="23" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<monogr>
+		<title level="m" type="main">The Northern Diamondback Terrapin in the Northeastern United States: A Regional Conservation Strategy</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Egger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Terrapin</forename><forename type="middle">Working</forename><surname>Diamondback</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Group</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2016">2016</date>
+			<biblScope unit="page">205</biblScope>
+		</imprint>
+	</monogr>
+	<note type="report_type">Technical Report</note>
+	<note>to the Northeast Association of Fish and Wildlife Agencies</note>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<monogr>
+		<title level="m" type="main">Status Assessment for the Eastern Box Turtle in the Northeastern United States</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">A</forename><surname>Erb</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">P</forename><surname>Roberts</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2023">2023</date>
+			<biblScope unit="page">96</biblScope>
+		</imprint>
+	</monogr>
+	<note type="report_type">Technical Report</note>
+	<note>to the Northeast Association of Fish and Wildlife Agencies</note>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">An introduction to decision science for conservation</title>
+		<author>
+			<persName><forename type="first">V</forename><surname>Hemming</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">E</forename><surname>Camaclang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">S</forename><surname>Adams</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Burgman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Carbeck</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Carwardine</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Chadès</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Chalifour</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">J</forename><surname>Converse</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">N K</forename><surname>Davidson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">E</forename><surname>Garrard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Finn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Fleri</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Huard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">J</forename><surname>Mayfield</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">M</forename><surname>Madden</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Naujokaitis-Lewis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">P</forename><surname>Possingham</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Rumpff</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">G</forename><surname>Martin</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/cobi.13868</idno>
+		<ptr target="https://doi.org/10.1111/cobi.13868" />
+	</analytic>
+	<monogr>
+		<title level="j">Conservation Biology</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page">13868</biblScope>
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<monogr>
+		<title level="m" type="main">Managing Xeric Habitats for Native Bees, Moths, and other Species of Greatest Conservation Need</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Heilferty</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Crisfield</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Gifford</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Selfridge</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Poulos</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2023">2023</date>
+			<publisher>Northeast Association of Fish and Wildlife Agencies</publisher>
+			<biblScope unit="volume">44</biblScope>
+			<biblScope unit="page">pp</biblScope>
+			<pubPlace>Washington, D.C</pubPlace>
+		</imprint>
+	</monogr>
+	<note>A. Barton, and the Northeast Fish and Wildlife Diversity Technical Committee</note>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<monogr>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">T</forename><surname>Jones</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">P</forename><surname>Roberts</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">L</forename><surname>Willey</surname></persName>
+		</author>
+		<title level="m">Conservation Plan for the Wood Turtle in the Northeastern United States. Report to the Massachusetts Division of Fisheries &amp; Wildlife and the U.S. Fish &amp; Wildlife Service</title>
+		<imprint>
+			<date type="published" when="2018">2018</date>
+			<biblScope unit="page">259</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<monogr>
+		<title level="m" type="main">Amphibians and Reptiles in Connecticut. Revision to State Geological and Natural History Survey Bulletin 112</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">W</forename><surname>Klemens</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">J</forename><surname>Gruner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">P</forename><surname>Quinn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">R</forename><surname>Davison</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2021">2021</date>
+			<pubPlace>Hartford, CT</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>Connecticut Department of Energy and Environmental Protection</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Identifying Conservation Units and Building a Northeast Specific Spatially Explicit Genetic Database for the Eastern Box Turtle (Terrapene carolina carolina)</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Krohn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Apodaca</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Interim Report submitted to the Mid-Atlantic Center for Herpetology and Conservation. Tangled Bank Conservation</title>
+		<meeting><address><addrLine>Asheville</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+	<note>North Carolina. 8 pp</note>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Beyond protection: Expanding &quot;conservation opportunity&quot; to redefine conservation planning in the 21st century</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Liberati</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">D</forename><surname>Rittenhouse</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Vokoun</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Environmental Management</title>
+		<imprint>
+			<biblScope unit="volume">183</biblScope>
+			<biblScope unit="page" from="33" to="40" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">to the Northeast Association of Fish and Wildlife Agencies</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Liebgold</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Ransom</surname></persName>
+		</author>
+		<idno>66</idno>
+	</analytic>
+	<monogr>
+		<title level="m">Spotted Turtles (Clemmys guttata) Regional Conservation Needs Assessment Final Report (Lower Delmarva)</title>
+		<meeting><address><addrLine>Salisbury, Maryland</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2022">2022</date>
+			<biblScope unit="page">5</biblScope>
+		</imprint>
+		<respStmt>
+			<orgName>Salisbury University</orgName>
+		</respStmt>
+	</monogr>
+	<note type="report_type">Technical Report</note>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Overcoming the rare species modelling paradox: A novel hierarchical framework applied to an Iberian endemic plant</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Lomba</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Pellissier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Randin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Vicente</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Moreira</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Honrado</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Guisan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biological Conservation</title>
+		<imprint>
+			<biblScope unit="volume">143</biblScope>
+			<biblScope unit="page" from="2647" to="2657" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Managing for RADical ecosystem change: Applying the Resist-Accept-Direct (RAD) framework</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J</forename><surname>Lynch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">M</forename><surname>Thompson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">A</forename><surname>Beever</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">N</forename><surname>Cole</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">C</forename><surname>Engman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Hawkins Hoffman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">T</forename><surname>Jackson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">J</forename><surname>Krabbenhoft</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Lawrence</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Limpinsel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">T</forename><surname>Magill</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">A</forename><surname>Melvin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Morton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Newman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">O</forename><surname>Peterson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">T</forename><surname>Porath</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">J</forename><surname>Rahel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">W</forename><surname>Schuurman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">A</forename><surname>Sethi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Wilkening</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/fee.2377</idno>
+		<ptr target="https://doi.org/10.1002/fee.2377" />
+	</analytic>
+	<monogr>
+		<title level="j">Frontiers in Ecology and the Environment</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="issue">8</biblScope>
+			<biblScope unit="page" from="461" to="469" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Prioritizing multiple-use landscapes for conservation: methods for large multispecies planning problems</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Moilanen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M A</forename><surname>Franco</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">I</forename><surname>Early</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Fox</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Wintle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">D</forename><surname>Thomas</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Proceedings. Biological Sciences</title>
+		<imprint>
+			<biblScope unit="volume">272</biblScope>
+			<biblScope unit="page" from="1885" to="1891" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Novel methods for spatial prioritization with applications in conservation, land use planning and ecological impact avoidance</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Moilanen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Lehtinen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Kohonen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Jalkanen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">A</forename><surname>Virtanen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Kujala</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Methods in Ecology and Evolution</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page" from="1062" to="1072" />
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Climate-change refugia: Biodiversity in the slow lane</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">L</forename><surname>Morelli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">W</forename><surname>Barrows</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">R</forename><surname>Ramirez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Cartwright</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">D</forename><surname>Ackerly</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">D</forename><surname>Eaves</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Ebersole</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Krawchuk</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">H</forename><surname>Letcher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">F</forename><surname>Mahalovich</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">W</forename><surname>Meigs</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Michalak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">I</forename><surname>Millar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Quiñones</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Stralberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Thorne</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/fee.2189</idno>
+		<ptr target="https://doi.org/10.1002/fee.2189" />
+	</analytic>
+	<monogr>
+		<title level="j">Frontiers in Ecology and the Environment</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="228" to="234" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Managing Climate Change Refugia for Climate Adaptation</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">L</forename><surname>Morelli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Daly</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">Z</forename><surname>Dobrowski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Dulen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Ebersole</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">T</forename><surname>Jackson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Lundquist</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">I</forename><surname>Millar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">P</forename><surname>Maher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">B</forename><surname>Monahan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">R</forename><surname>Nydick</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">T</forename><surname>Redmond</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">C</forename><surname>Sawyer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Stock</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">R</forename><surname>Beissinger</surname></persName>
+		</author>
+		<idno type="DOI">10.1371/journal.pone.0159909</idno>
+		<ptr target="https://doi.org/10.1371/journal.pone.0159909" />
+	</analytic>
+	<monogr>
+		<title level="j">PLOS ONE</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="issue">8</biblScope>
+			<biblScope unit="page">159909</biblScope>
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<monogr>
+		<ptr target="&lt;https://data-library-audubon.hub.arcgis.com/maps/" />
+		<title level="m">IBA polygons public</title>
+		<imprint>
+			<publisher>National Audubon Society</publisher>
+			<date type="published" when="2024-03-15">2024. 15 Mar 2025</date>
+		</imprint>
+	</monogr>
+	<note>087b591fd12d4dc</note>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<monogr>
+		<title level="m" type="main">Eastern Box Turtle Population Assessment Protocol</title>
+		<imprint>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+		<respStmt>
+			<orgName>Northeast Eastern Box Turtle Working Group</orgName>
+		</respStmt>
+	</monogr>
+	<note>Technical Report to the Northeast Association of Fish and Wildlife Agencies. 15 pp. + appendices</note>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<monogr>
+		<title level="m" type="main">Conservation plan for the eastern box turtle in the northeastern United States</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">P</forename><surname>Roberts</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">A</forename><surname>Erb</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2023">2023</date>
+			<biblScope unit="page">78</biblScope>
+		</imprint>
+	</monogr>
+	<note type="report_type">Technical Report</note>
+	<note>to the Northeast Association of Fish and Wildlife Agencies</note>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">stm: An R Package for Structural Topic Models</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">E</forename><surname>Roberts</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">M</forename><surname>Stewart</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Tingley</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Statistical Software</title>
+		<imprint>
+			<biblScope unit="volume">91</biblScope>
+			<biblScope unit="page" from="1" to="40" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Structural Topic Models for Open-Ended Survey Responses</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">E</forename><surname>Roberts</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">M</forename><surname>Stewart</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Tingley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Lucas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Leder-Luis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">K</forename><surname>Gadarian</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Albertson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">G</forename><surname>Rand</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">American Journal of Political Science</title>
+		<imprint>
+			<biblScope unit="volume">58</biblScope>
+			<biblScope unit="page" from="1064" to="1082" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Navigating Ecological Transformation: Resist-Accept-Direct as a Path to a New Resource Management Paradigm</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">W</forename><surname>Schuurman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">N</forename><surname>Cole</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">E</forename><surname>Cravens</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Covington</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">D</forename><surname>Crausbay</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">H</forename><surname>Hoffman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Lawrence</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">R</forename><surname>Magness</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Morton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">A</forename><surname>Nelson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Malley</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/biosci/biab067</idno>
+		<ptr target="https://doi.org/10.1093/biosci/biab067" />
+	</analytic>
+	<monogr>
+		<title level="j">BioScience</title>
+		<imprint>
+			<biblScope unit="volume">72</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="16" to="29" />
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">An examination of opportunities and risks to private forest planning efforts among Connecticut private forest owners</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">A</forename><surname>Smith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">D</forename><surname>Rittenhouse</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Shoreman-Ouimet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">E</forename><surname>Worthley</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Trees, Forests and People</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page">100637</biblScope>
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<monogr>
+		<title level="m" type="main">to the Virginia Department of Wildlife Resources, United States Fish and Wildlife Service, and Northeast Association of Fish and Wildlife Agencies</title>
+		<imprint>
+			<date type="published" when="2019">2019</date>
+			<biblScope unit="volume">15</biblScope>
+		</imprint>
+		<respStmt>
+			<orgName>Spotted Turtle Working Group</orgName>
+		</respStmt>
+	</monogr>
+	<note type="report_type">Technical Report</note>
+	<note>Regional Spotted Turtle Assessment Protocol</note>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">A regional synthesis of climate data to inform the 2025 State Wildlife</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">D</forename><surname>Staudinger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">V</forename><surname>Karmalkar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Terwilliger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Burgio</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Lubeck</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Higgins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Rice</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">L</forename><surname>Morelli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>D'amato</surname></persName>
+		</author>
+		<idno type="DOI">10.21429/t352-9q86</idno>
+		<ptr target="https://doi.org/10.21429/t352-9q86" />
+	</analytic>
+	<monogr>
+		<title level="m">Action Plans in the Northeast U.S. DOI Northeast Climate Adaptation Science Center Cooperator Report</title>
+		<imprint>
+			<date type="published" when="2024">2024</date>
+			<biblScope unit="volume">406</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<monogr>
+		<title level="m" type="main">Northeast Regional Conservation Synthesis for the 2025 State Wildlife Action Plans. Association of Fish and Wildlife Agencies</title>
+		<imprint>
+			<date type="published" when="2023">2023</date>
+			<publisher>Terwilliger Consulting, Inc</publisher>
+			<pubPlace>Washington D.C</pubPlace>
+		</imprint>
+	</monogr>
+	<note>(NEFWDTC) Northeast Fish and Wildlife Diversity Technical Committee</note>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<monogr>
+		<author>
+			<persName><forename type="first">J</forename><surname>Tesauro</surname></persName>
+		</author>
+		<title level="m">Assessment of Spotted Turtle in New Jersey Final Report. Technical Report to the Northeast Association of Fish and Wildlife Agencies</title>
+		<imprint>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">M</forename><surname>Thompson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J</forename><surname>Lynch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">A</forename><surname>Beever</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">C</forename><surname>Engman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Falke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">T</forename><surname>Jackson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">J</forename><surname>Krabbenhoft</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Lawrence</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Limpinsel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">T</forename><surname>Magill</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">A</forename><surname>Melvin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Morton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Newman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">O</forename><surname>Peterson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">T</forename><surname>Porath</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">J</forename><surname>Rahel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">A</forename><surname>Sethi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Wilkening</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/fsh.10506</idno>
+		<ptr target="https://doi.org/10.1002/fsh.10506" />
+	</analytic>
+	<monogr>
+		<title level="j">Responding to Ecosystem Transformation: Resist, Accept, or Direct? Fisheries</title>
+		<imprint>
+			<biblScope unit="volume">46</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="8" to="21" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<monogr>
+		<ptr target="&lt;https://data.census.gov" />
+		<title level="m">Census Bureau Data</title>
+		<imprint>
+			<publisher>US Census Bureau</publisher>
+			<date type="published" when="2023-03-15">2023. 15 Mar 2025</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<monogr>
+		<title level="m" type="main">Official Current Highlands Region</title>
+		<author>
+			<persName><surname>Usfws</surname></persName>
+		</author>
+		<ptr target="&lt;https://gis-fws.opendata.arcgis.com/datasets/33939" />
+		<imprint>
+			<date type="published" when="2024-03-17">2024. 17 Mar 2025</date>
+		</imprint>
+	</monogr>
+	<note>c4d654b4d21b4683b9b1adf2320_1/explo re?location=41.019974,-74.668447,6.52</note>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<monogr>
+		<title level="m" type="main">Protected Areas Database of the United States (PAD-US) 2</title>
+		<author>
+			<persName><surname>Usgs</surname></persName>
+		</author>
+		<ptr target=".0.&lt;https://www.usgs.gov/data/protected-areas-database-united-states-pad-us-20" />
+		<imprint>
+			<date type="published" when="2018-03-17">2018. 17 Mar 2025</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<monogr>
+		<title level="m">Connecticut Travel Vacation Guide, Attractions, &amp; Events | Visit Connecticut</title>
+		<imprint>
+			<date type="published" when="2025">2025</date>
+		</imprint>
+		<respStmt>
+			<orgName>Visit New England</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<monogr>
+		<title level="m" type="main">2022. Status Assessment and Conservation Plan for the Spotted Turtle in the Eastern United States</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">L</forename><surname>Willey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">K</forename><surname>Parren</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">T</forename><surname>Jones</surname></persName>
+		</author>
+		<imprint>
+			<publisher>United States Fish and Wildlife Service, and Northeast Association of Fish and Wildlife Agencies</publisher>
+			<biblScope unit="page">285</biblScope>
+		</imprint>
+	</monogr>
+	<note type="report_type">Technical Report</note>
+	<note>to the Virginia Department of Wildlife Resources</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>
+

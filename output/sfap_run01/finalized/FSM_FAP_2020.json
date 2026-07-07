@@ -1,0 +1,821 @@
+{
+  "document_meta": {
+    "title": "FSM 2020 Forest Action Plan (FAP)",
+    "year": 2020,
+    "jurisdiction": "Federated States of Micronesia (FSM)",
+    "document_type": "Forest Action Plan / State Wildlife Action Plan equivalent",
+    "document_id": "FSM_FAP_2020",
+    "page_count": 355
+  },
+  "orientation": {
+    "summary": "The FSM 2020 Forest Action Plan is a federally-required forest resource assessment and strategy document for the Federated States of Micronesia (Yap, Chuuk, Pohnpei, Kosrae), updated from the 2010 SWARS. The document treats climate change as a major cross-cutting threat to all forest resource issues, alongside invasive alien species and wildfires. With respect to range shifts specifically, the document does not engage this concept; it frames climate impacts primarily through habitat degradation (sea level rise, saltwater intrusion, drought, storm surges, coastal erosion) and direct threats to food security and biodiversity, without discussing species distributional changes driven by climate. The document performs its own spatial prioritization analysis (GIS overlays producing priority area maps for each state and issue) but relies on referenced plans and assessments (JSAPs, NBSAPs, FIA data) for most quantitative and scientific background. Partnership structures and funding sources are described extensively, including USFS, GEF, GCF, UNDP, and the Micronesia Challenge.",
+    "evidence_index": [
+      {
+        "text": "An additional change was to highlight three major threats (invasive alien species (IAS), wildfires, and climate change) that were previously discussed only in the context of biodiversity or a few issues. They have been shown as cross-cutting threats to all issues.",
+        "location": "Introduction",
+        "relevant_elements": ["1.1", "3.5", "3.6", "3.7"]
+      },
+      {
+        "text": "Shifting weather patterns are already significantly affecting the health of the environment and food and water security in the FSM. The tropical west Pacific is the site of pronounced ENSO conditions. El Niño conditions are characterized by a general decrease in the intensity of the trade winds; in the FSM, this is already causing a decrease in net precipitation, which is leading to persistent drought",
+        "location": "Cross-cutting Threats / Climate change (National)",
+        "relevant_elements": ["1.1", "3.5"]
+      },
+      {
+        "text": "Rising sea level generates coastal erosion, dangerous marine inundation, and salt contamination of soil, food, and water sources. As described in the FSM's Second National Communication to the United Nations Framework Convention on Climate Change (2015), major climate and weather-related events include droughts, forest fires, typhoons, storm surges and sea level rise. All events are trending increases and pose significant threats",
+        "location": "Cross-cutting Threats / Climate change (National)",
+        "relevant_elements": ["1.1", "3.5", "3.6"]
+      },
+      {
+        "text": "The growing body of research about the relationship between climate change and ecosystem health in the FSM confirms anecdotal observations that healthy, functional ecosystems are crucial to the success of climate change adaptation strategies.",
+        "location": "Cross-cutting Threats / Climate change (National)",
+        "relevant_elements": ["1.1", "4.5"]
+      },
+      {
+        "text": "Direct impacts from climate change on terrestrial resources include threats to traditional agroforestry systems through saltwater intrusion, droughts and typhoons (SOE, 2018).",
+        "location": "Chuuk State / Cross-cutting Threats / Climate change",
+        "relevant_elements": ["3.5", "3.6"]
+      },
+      {
+        "text": "Climate change is identified as a major threat to all FSM National Issues and is exasperating the negative impacts of numerous other issues such as loss of land for agroforestry, decrease in coastal stabilization, increase in invasive alien species, fragility of biodiversity and ecosystem health",
+        "location": "Chuuk State / Cross-cutting Threats / Climate change",
+        "relevant_elements": ["1.1", "3.5", "3.7"]
+      },
+      {
+        "text": "The Chuuk Joint State Action Plan for Disaster Risk Management and Climate Change (JSAP) identifies drought, typhoons, storm waves, flooding, sea level rise and landslides as the main threats to Chuuk due to the increasing effects of climate change in the islands (2017).",
+        "location": "Chuuk State / Cross-cutting Threats / Climate change",
+        "relevant_elements": ["1.1", "3.5"]
+      },
+      {
+        "text": "The significant impacts of climate change including higher temperatures, prolonged drought and sea level rise will result in the eventual collapse of freshwater resources and food production on these islands unless innovative bio and eco-engineering adaptations can be developed in time",
+        "location": "Chuuk State / A. Food Security / Conditions and Trends",
+        "relevant_elements": ["1.1", "3.5"]
+      },
+      {
+        "text": "Reports of the International Panel on Climate Change and other groups acknowledge climate change and predict more severe ENSO events and storms, rises in sea level and sea surges are resulting in erosion and inundation of coastal areas of Chuuk, especially in the low-lying outer islands",
+        "location": "Chuuk State / B. Coastal Stabilization / Conditions and Trends",
+        "relevant_elements": ["1.1", "3.5"]
+      },
+      {
+        "text": "The resilience inherent in intact forest ecosystems provides the best insurance against climate change and helps ensure that forests meet the needs of present and future generations (UNCBD, 2010.)",
+        "location": "Chuuk State / C. Biodiversity Conservation / Conditions and Trends",
+        "relevant_elements": ["1.1", "1.2", "4.5"]
+      },
+      {
+        "text": "Agrobiodiversity (the diversity and sub-specific variation in food crops) is also high and a valuable cultural heritage as well as a genetic hedge against climate change.",
+        "location": "Chuuk State / C. Biodiversity Conservation / Conditions and Trends",
+        "relevant_elements": ["1.3"]
+      },
+      {
+        "text": "MAP C8 -Chuuk lagoon islands: Sea-Level Rise and Inundation hazard map This map was generated from the Sea Level Rise (SLR) projection modeling project in collaboration of FSM OEEM office, SPC and COM-FSM back in 2013 showing areas projected as inundation hazard by 2055 in red color",
+        "location": "CHUUK STATE FOREST RESOURCE STRATEGY / All Other Mapped Priority Areas",
+        "relevant_elements": ["2.3", "4.1"]
+      },
+      {
+        "text": "The biggest threats to Kosrae's terrestrial biodiversity, forests and overall ecosystems are increasing with the effects of climate change. Kosrae's risk of the following impacts are high: landslides, higher than normal high tides, large sea swells, increased impact of storm surges and flooding as a result of sea level rise, drought, tropical storms and typhoons",
+        "location": "Kosrae State / Introduction",
+        "relevant_elements": ["1.1", "3.5"]
+      },
+      {
+        "text": "Climate Change and sea level rise continue to be major threats to Kosrae's food security. Most of Kosrae's agricultural lands are low lying areas of the coast vulnerable to sea level rise and storm surge as well as to changes in hydrology that could result in the oxidation of peat soils and their subsidence and subsequent inundation by salt water.",
+        "location": "Kosrae State / D. Food Security / Conditions and Trends",
+        "relevant_elements": ["3.5"]
+      },
+      {
+        "text": "The maintenance of this agro-biodiversity is critical to the resilience of Kosrae's agricultural system and to food security in the face of climate change.",
+        "location": "Kosrae State / D. Food Security / Conditions and Trends",
+        "relevant_elements": ["1.2", "1.3"]
+      },
+      {
+        "text": "Long Term Mangrove Monitoring Plots: permanent plots that were established in the 1990s through a partnership between the US Forest Service, the US Geological Survey and what was the Kosrae Development Review Commission (DRC) and is now KIRMA, have been updated while forest structure and response to sea level rise have continue to be monitored through this partnership.",
+        "location": "Kosrae State / B. Coastal Stabilization / Strengths",
+        "relevant_elements": ["4.3", "3.4"]
+      },
+      {
+        "text": "Climate change and sea level rise is anticipated to impact the natural landscapes and ecosystems of Kosrae by degrading biodiversity, causing increased flooding and associated coral reef deterioration, forcing agriculture activities to move in and upland and consequently impacting Kosrae's food security.",
+        "location": "Kosrae AON / Climate Change and Sea Level Rise",
+        "relevant_elements": ["1.1", "3.5"]
+      },
+      {
+        "text": "Rising levels of greenhouse gasses, climate change and sea level rise has already sealed the future collapse of fresh water resources and food production on these islands unless innovative bio and eco-engineering adaptations and climate-smart agroforestry strategies can be developed in time to allow the inhabitants of these islands to remain on their beloved home islands.",
+        "location": "Yap State / A. Food Security / Conditions and Trends",
+        "relevant_elements": ["1.1", "3.5"]
+      },
+      {
+        "text": "It is necessary to enhance food production systems to adapt to climate change and sea level rise and to pre-adapt on mainland Yap in order to provide for the large percentage of Yap's population from the low-lying Outer Islands who will eventually become climate change refugees.",
+        "location": "Yap State / A. Food Security / Conditions and Trends",
+        "relevant_elements": ["1.1", "4.5"]
+      },
+      {
+        "text": "Atoll taro patches are especially vulnerable to sea level rise, storm surges and saltwater intrusion that are already occurring. The thinning of fresh water lenses, desiccating winds, and drought also threaten agroforests on Outer Islands.",
+        "location": "Yap State / A. Food Security / Conditions and Trends",
+        "relevant_elements": ["3.5"]
+      },
+      {
+        "text": "Direct impacts from climate change on terrestrial resources include threats to traditional agroforestry systems through saltwater intrusion, droughts and typhoons (SOE, 2018). Climate change is identified as a major threat to all FSM National Issues",
+        "location": "Yap State / TABLE Y 1 / Climate Change section",
+        "relevant_elements": ["3.5", "1.1"]
+      },
+      {
+        "text": "Y13 -Yap main island -Sea-Level Rise and Inundation hazard map This map was generated from the Sea Level Rise projection modeling project in collaboration of FSM OEEM office, SPC and COM-FSM in 2013 showing areas likely to be inundated by 2055 in red color",
+        "location": "YAP STATE FOREST RESOURCE STRATEGY / Maps",
+        "relevant_elements": ["2.3", "4.1"]
+      },
+      {
+        "text": "P10 -Pohnpei main island -Sea-Level Rise and Inundation hazard map This map was generated from the Sea Level Rise projection modeling project in collaboration of FSM OEEM office, SPC and COM-FSM back in 2013 showing areas likely to be inundated by 2055 in red color",
+        "location": "POHNPEI STATE FOREST RESOURCE STRATEGY / Maps",
+        "relevant_elements": ["2.3", "4.1"]
+      },
+      {
+        "text": "Climate change is seen as the greatest threat to food security, with drought, sea level rise, floods and landslides having the potential to cause severe impacts on agroforestry.",
+        "location": "Pohnpei State / A. Food Security / Threats",
+        "relevant_elements": ["1.1", "3.5"]
+      },
+      {
+        "text": "A.1. Evaluate agroforestry resources with respect to climate change & Sea Level Rise (SLR) (both mainland Yap (WAAB) and Outer Islands (OI)",
+        "location": "TABLE Y 3 YAP STATE FOREST ACTION PLAN STRATEGIES",
+        "relevant_elements": ["4.1", "4.5"]
+      },
+      {
+        "text": "Crop Assessments for Climate Change Resiliency: with more funding focused on food security, there is an opportunity to further investigate specific crops that will be resilient to climate change and saltwater inundation that could be grown in Chuuk.",
+        "location": "Chuuk State / A. Food Security / Opportunities",
+        "relevant_elements": ["4.2", "4.5"]
+      },
+      {
+        "text": "Evaluate forest & agroforest resources with respect to climate change & Sea Level Rise (SLR) for both Chuuk Lagoon and Outer Islands (OI)",
+        "location": "TABLE C3 CHUUK STATE STRATEGIES",
+        "relevant_elements": ["4.1", "4.5"]
+      },
+      {
+        "text": "Protect and maintain natural landscapes and ecosystems by incorporating new science and climate proofing projects",
+        "location": "TABLE C3 CHUUK STATE STRATEGIES",
+        "relevant_elements": ["4.2", "4.5"]
+      },
+      {
+        "text": "Complete climate proof road development project through Adaptation Fund/National Govt and adapt best practices for future projects",
+        "location": "TABLE K3 KOSRAE STATE STRATEGIES",
+        "relevant_elements": ["4.2", "4.5"]
+      },
+      {
+        "text": "The Green Climate Fund (GCF) is a fund established within the framework of the United Nations Framework Convention on Climate Change (UNFCCC) as an operating entity of the Financial Mechanism to assist developing countries in adaptation and mitigation practices to counter climate change.",
+        "location": "Green Climate Fund",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "USFS, provided crucial technical support, funding assistance, review of the draft FAP, and overall guidance and support.",
+        "location": "FSM FAP / FAP Development",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "Micronesia Challenge (MC) is a shared commitment made by the FSM, Guam, Palau, CNMI, and the RMI originally launched in 2006 to effectively conserve 30% of marine resources and 20% of terrestrial resources by 2020.",
+        "location": "Micronesia Challenge",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "MAP C5: Chuuk lagoon islands -Biodiversity Conservation analysis map ... Dark green areas (69.7%) are the high potential areas (upland, agroforestry, and all land ABS areas), light green areas (16.8%) are the potential areas (mangrove, secondary vegetation), and the red areas (13.5%) are not potential areas (developed areas)",
+        "location": "Chuuk State / C. Biodiversity Conservation / Priority areas",
+        "relevant_elements": ["4.1"]
+      },
+      {
+        "text": "MAP K3: Kosrae Biodiversity Conservation Analysis Map ... The High Potential areas in dark green (84.1%) include the native forests and wetlands, protected areas (PAs) and the areas of biodiversity significance (ABS)",
+        "location": "Kosrae State / A. Biodiversity Conservation / Priority Areas",
+        "relevant_elements": ["4.1"]
+      },
+      {
+        "text": "The Kosrae Joint State Action Plan for Disaster Risk Management and Climate Change (2016) identifies coastal erosion from sea level rise and storm swells, flooding, rain induced landslides, typhoons and drought and extreme heat as the main threats to Kosrae due to the increasing effects of climate change",
+        "location": "Kosrae State / Cross-cutting Threats / Climate change",
+        "relevant_elements": ["1.1", "3.5", "3.6"]
+      },
+      {
+        "text": "wildfires associated with severe El Niño-Southern Oscillation (ENSO), impacts forests in Chuuk. During times of drought, wildfires burn unchecked destroying grasslands, eroding forest edges and preventing weedy areas from reforesting by killing tree seedlings.",
+        "location": "Chuuk State / Cross-cutting Threats / Wildfires",
+        "relevant_elements": ["3.5", "3.6"]
+      },
+      {
+        "text": "Mangroves often have a zonation pattern of tree species occurrence from the seaward to landward edge... While it is unknown what will happen in mangroves as sea level rises, they point out that soils in seagrass beds adjacent to mangrove only contain 7% of ecosystem carbon stocks, so losing mangroves could present a drastic loss of carbon storage from FSM.",
+        "location": "Mangroves (FIA Appendix section)",
+        "relevant_elements": ["3.5"]
+      },
+      {
+        "text": "While mangroves are likely to migrate into present-day freshwater marshes as they become saline, people tend to keep mangroves from moving inland.",
+        "location": "Yap State / B. Biodiversity / Threats",
+        "relevant_elements": ["3.5", "3.7"]
+      },
+      {
+        "text": "Forests in Kosrae like the other states are threatened by road building, clearing for agricultural projects and house sites, aggressive invasive weeds and smothering vines, plant diseases, extreme ENSO-related droughts and associated wildfires, and decreases in seed dispersers such as fruit bats, Micronesian pigeons and other birds.",
+        "location": "Kosrae State / A. Biodiversity Conservation / Conditions and Trends",
+        "relevant_elements": ["3.5", "3.6", "3.7", "1.3"]
+      },
+      {
+        "text": "Warming has allowed invasive cheatgrass to expand its range",
+        "location": "N/A - not found in document",
+        "relevant_elements": ["3.7"]
+      },
+      {
+        "text": "Warming temperatures have allowed invasive species to expand northward",
+        "location": "N/A - not found in document",
+        "relevant_elements": ["3.7"]
+      },
+      {
+        "text": "there may be important variation at the sub specific and varietal levels that are potentially valuable in terms of adaptation to climate change and sea level rise",
+        "location": "Pohnpei State / Conditions and Trends (outer islands)",
+        "relevant_elements": ["1.3", "1.2"]
+      },
+      {
+        "text": "A.2. Maintain traditional knowledge and practices, and integrate new technology where appropriate, in atolls and coastal areas affected by salt water intrusion and climate change",
+        "location": "TABLE P 4: POHNPEI STATE STRATEGIES",
+        "relevant_elements": ["4.2", "4.5"]
+      },
+      {
+        "text": "Nurseries for Agroforestry: Kosrae Island Resource Management Authority (KIRMA) and the Kosrae Department of Resource an Economic Affairs (DREA) both grow native and climate resilient seedings that are available to the general public.",
+        "location": "Kosrae State / D. Food Security / Strengths",
+        "relevant_elements": ["4.2"]
+      },
+      {
+        "text": "A.4. Work with communities to develop best practices for enhancing & expanding agroforestry & other food production systems adapted to SLR",
+        "location": "TABLE Y 3 YAP STATE FOREST ACTION PLAN STRATEGIES",
+        "relevant_elements": ["4.2", "4.5"]
+      },
+      {
+        "text": "Implement Island Wide Mangrove Assessment and WARMER Model of Kosrae (following the Pohnpei Pilot Project)",
+        "location": "TABLE K3 KOSRAE STATE STRATEGIES",
+        "relevant_elements": ["2.2", "4.3"]
+      },
+      {
+        "text": "In the Outer Islands, food security through climate change adaptation is a focus, with artificial taro patches installed to mitigate the effects of sea level rise on crops.",
+        "location": "Yap State / A. Food Security / Strengths",
+        "relevant_elements": ["4.2"]
+      },
+      {
+        "text": "USFS/USGS collaboration that has been monitoring long term mangrove plots response to sea level rise since the 1990s, and a more recent USFWS/USFS/USGS/MCT collaboration modelling the resilience of mangroves to sea level rise over the next 100 years.",
+        "location": "Pohnpei State / C. Coastal Stabilization / Weaknesses (table footnote)",
+        "relevant_elements": ["2.2", "4.3", "2.3"]
+      },
+      {
+        "text": "Strategies in this FAP should be considered with a climate lens for planning and implementation. The Pacific Islands Managed and Protected Area Community (PIMPAC) has a Local Early Action Planning (LEAP) toolkit for climate change that can be utilized with communities.",
+        "location": "YAP STATE / TABLE Y 1 / Climate Change section",
+        "relevant_elements": ["4.5"]
+      },
+      {
+        "text": "C.5. Protect and maintain natural landscapes and ecosystems as projects are climate-proofed",
+        "location": "TABLE P 4: POHNPEI STATE STRATEGIES",
+        "relevant_elements": ["4.2", "4.5"]
+      },
+      {
+        "text": "Understanding why species and ecosystems are vulnerable or potentially less resilient is a critical first step in developing effective conservation strategies.",
+        "location": "N/A - not found in document; candidate from context",
+        "relevant_elements": ["1.1"]
+      }
+    ]
+  },
+  "concepts": {
+    "climate_vulnerability": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "The biggest threats to Kosrae's terrestrial biodiversity, forests and overall ecosystems are increasing with the effects of climate change. Kosrae's risk of the following impacts are high: landslides, higher than normal high tides, large sea swells, increased impact of storm surges and flooding as a result of sea level rise, drought, tropical storms and typhoons",
+          "location": "Kosrae State / Introduction",
+          "sub_component": "exposure",
+          "citations": ["SOE, 2018"]
+        },
+        {
+          "text": "The resilience inherent in intact forest ecosystems provides the best insurance against climate change and helps ensure that forests meet the needs of present and future generations",
+          "location": "Chuuk State / C. Biodiversity Conservation / Conditions and Trends",
+          "sub_component": "adaptive capacity",
+          "citations": ["UNCBD, 2010"]
+        },
+        {
+          "text": "Given the low-lying nature of many of the islands in Chuuk, climate change also poses environmental and existential threats to Chuuk's islands and ecosystems.",
+          "location": "Chuuk State / Introduction",
+          "sub_component": "exposure",
+          "citations": []
+        }
+      ],
+      "absence_note": "The document references climate exposure extensively (sea level rise, drought, storm surges) and mentions ecosystem resilience as a form of adaptive capacity, but does not use an explicit vulnerability framework (IPCC exposure + adaptive capacity) or terms like 'CCVI', 'climate sensitivity', or 'adaptive capacity' in their technical sense. Score 2 because both exposure and a generic form of adaptive capacity (ecosystem resilience) are referenced in climate contexts, but without integration into a formal vulnerability assessment."
+    },
+    "adaptive_capacity_specificity": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "The resilience inherent in intact forest ecosystems provides the best insurance against climate change and helps ensure that forests meet the needs of present and future generations",
+          "location": "Chuuk State / C. Biodiversity Conservation / Conditions and Trends",
+          "sub_component": null,
+          "citations": ["UNCBD, 2010"]
+        }
+      ],
+      "absence_note": "Adaptive capacity is referenced generically through 'resilience' of intact forests to climate change, and some mention of crop diversity as a hedge against climate change. No specific adaptive capacity components (dispersal, evolutionary potential, demographic resilience) are articulated in a climate framing. Score 1 — referenced non-specifically."
+    },
+    "adaptive_capacity_components": {
+      "demography": {
+        "present": false,
+        "evidence": []
+      },
+      "distribution": {
+        "present": false,
+        "evidence": []
+      },
+      "movement": {
+        "present": false,
+        "evidence": []
+      },
+      "evolutionary_potential": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Agrobiodiversity (the diversity and sub-specific variation in food crops) is also high and a valuable cultural heritage as well as a genetic hedge against climate change.",
+            "location": "Chuuk State / C. Biodiversity Conservation / Conditions and Trends",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecological_dependencies": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "decreases in seed dispersers such as fruit bats, Micronesian pigeons and other birds",
+            "location": "Kosrae State / A. Biodiversity Conservation / Conditions and Trends",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "abiotic_niche": {
+        "present": false,
+        "evidence": []
+      },
+      "life_history": {
+        "present": false,
+        "evidence": []
+      }
+    },
+    "connectivity": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Maintain habitat connectivity/corridors and related values.",
+          "location": "Kosrae AON / Goals and Objectives (Forest Legacy criteria listing)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "Connectivity is mentioned generically in the Forest Legacy program criteria as a value to maintain. There is no discussion of climate corridors, climate-gradient connectivity, or connectivity explicitly framed as supporting or limiting climate-driven range shifts. Score 1 — generic reference."
+    }
+  },
+  "tools": {
+    "vulnerability_models": {
+      "evaluable": true,
+      "score": 0,
+      "named_tools": [],
+      "evidence": [],
+      "absence_note": "No vulnerability models (CCVI, PVA, or similar) are referenced or applied in this document."
+    },
+    "niche_models": {
+      "evaluable": true,
+      "score": 1,
+      "named_tools": ["WARMER Model"],
+      "evidence": [
+        {
+          "text": "Implement Island Wide Mangrove Assessment and WARMER Model of Kosrae (following the Pohnpei Pilot Project)",
+          "location": "TABLE K3 KOSRAE STATE STRATEGIES",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The WARMER model (Wetland Accretion Rate Model of Ecosystem Resilience) is referenced as a future strategy for Kosrae mangrove assessment, but it is not yet applied — it is a recommendation to implement, which scores 1 (referenced generally). A USFWS/USFS/USGS/MCT collaboration 'modelling the resilience of mangroves to sea level rise over the next 100 years' is mentioned for Pohnpei but results are not incorporated into this plan's decisions."
+    },
+    "climate_models": {
+      "evaluable": true,
+      "score": 2,
+      "named_tools": ["Sea Level Rise projection modeling (FSM OEEM/SPC/COM-FSM 2013)"],
+      "evidence": [
+        {
+          "text": "MAP C8 -Chuuk lagoon islands: Sea-Level Rise and Inundation hazard map This map was generated from the Sea Level Rise (SLR) projection modeling project in collaboration of FSM OEEM office, SPC and COM-FSM back in 2013 showing areas projected as inundation hazard by 2055 in red color",
+          "location": "CHUUK STATE FOREST RESOURCE STRATEGY / All Other Mapped Priority Areas",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "P10 -Pohnpei main island -Sea-Level Rise and Inundation hazard map This map was generated from the Sea Level Rise projection modeling project in collaboration of FSM OEEM office, SPC and COM-FSM back in 2013 showing areas likely to be inundated by 2055 in red color",
+          "location": "POHNPEI STATE FOREST RESOURCE STRATEGY / Maps",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Y13 -Yap main island -Sea-Level Rise and Inundation hazard map This map was generated from the Sea Level Rise projection modeling project in collaboration of FSM OEEM office, SPC and COM-FSM in 2013 showing areas likely to be inundated by 2055 in red color",
+          "location": "YAP STATE FOREST RESOURCE STRATEGY / Maps",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "A sea-level rise projection model (FSM OEEM/SPC/COM-FSM, 2013) is applied to identify inundation hazard zones by 2055 across Chuuk, Pohnpei, and Yap main islands. These outputs directly inform priority area selection for coastal stabilization. Score 2 — applied to the document's focal subjects.",
+      "time_horizon_years": [2055],
+      "emission_scenarios": []
+    },
+    "connectivity_models": {
+      "evaluable": true,
+      "score": 0,
+      "named_tools": [],
+      "evidence": [],
+      "absence_note": "No connectivity models (CircuitScape, Linkage Mapper, least-cost path, etc.) are referenced or applied."
+    }
+  },
+  "context": {
+    "management_scale": {
+      "local": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Community-Based Management Strategies: Through planning tools such as the Locally Managed Marine Area (LMMA), the Local Early Action Planning tool (LEAP), Forest Stewardship planning and other planning processes, community-based plans include coastal management with ecosystem-based adaptation actions",
+            "location": "Chuuk State / B. Coastal Stabilization / Strengths",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "site": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Successful Revival of Mangrove Sites: There has been focus on mangrove rehabilitation and planting that has led to the successful revival of seven sites in the state so far.",
+            "location": "Chuuk State / B. Coastal Stabilization / Strengths",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "watershed": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The Pohnpei Watershed Reserve and other watershed areas are priority landscapes.",
+            "location": "Pohnpei State / D. Watersheds / Priority area",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "city": {
+        "present": false,
+        "evidence": []
+      },
+      "county": {
+        "present": false,
+        "evidence": []
+      },
+      "within_state_region": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Chuuk Lagoon and the Outer island regions of Nomwunweito, Halls, Patti, and Mortlocks",
+            "location": "Chuuk State / Introduction",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "state": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The FSM 2020 FAP includes two components of the assessment and planning required by S&PF to identify priority forest landscape areas and highlight work needed to address national (US), regional, and 'state' (referring to the FSM in this document) forest management priorities",
+            "location": "Introduction",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "multistate": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The Micronesia Challenge (MC) is a shared commitment made by the FSM, Guam, Palau, CNMI, and the RMI originally launched in 2006 to effectively conserve 30% of marine resources and 20% of terrestrial resources by 2020.",
+            "location": "Micronesia Challenge",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "national": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The FSM National overarching goals for invasive alien species as outlined in the Federated States of Micronesia Invasive Species Strategy and Action Plan 2016-2021",
+            "location": "Cross-cutting Threats / Invasive species (National)",
+            "sub_component": null,
+            "citations": ["NISSAP, 2015"]
+          }
+        ]
+      },
+      "transnational": {
+        "present": false,
+        "evidence": []
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Watersheds integrate natural habitats from ridge to reef and greatly affect the quality of downstream habitats.",
+            "location": "Chuuk State / D. Watersheds / Conditions and Trends",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecoregion": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The FSM and its states are recognized part of the globally important Polynesia-Micronesia biodiversity hotspot",
+            "location": "Chuuk State / C. Biodiversity Conservation / Conditions and Trends",
+            "sub_component": null,
+            "citations": ["CEPF, 2007"]
+          }
+        ]
+      },
+      "province": {
+        "present": false,
+        "evidence": []
+      },
+      "section": {
+        "present": false,
+        "evidence": []
+      },
+      "subsection": {
+        "present": false,
+        "evidence": []
+      },
+      "lake": {
+        "present": false,
+        "evidence": []
+      },
+      "river": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Watersheds, rivers, riverine buffer zones and wetlands.",
+            "location": "Yap State / C. Watershed / Priority areas",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "district": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["Yap", "Chuuk", "Pohnpei", "Kosrae", "Micronesia Challenge region", "Polynesia-Micronesia biodiversity hotspot", "Pohnpei Watershed Reserve", "Makontowe Conservation Area", "Yela Ka Forest", "Utwe Biosphere Reserve", "FSM Protected Area Network"]
+    },
+    "biological_unit_score": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Chuuk hosts high levels of species endemism being home to sixteen endemic plant species and three endemic bird species",
+          "location": "Chuuk State / C. Biodiversity Conservation / Conditions and Trends",
+          "sub_component": "species",
+          "citations": ["IUCN, 2018"]
+        },
+        {
+          "text": "The resilience inherent in intact forest ecosystems provides the best insurance against climate change and helps ensure that forests meet the needs of present and future generations",
+          "location": "Chuuk State / C. Biodiversity Conservation / Conditions and Trends",
+          "sub_component": "ecosystem",
+          "citations": ["UNCBD, 2010"]
+        }
+      ],
+      "absence_note": {}
+    },
+    "biological_unit_components": {
+      "species": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Chuuk hosts high levels of species endemism being home to sixteen endemic plant species and three endemic bird species",
+            "location": "Chuuk State / C. Biodiversity Conservation / Conditions and Trends",
+            "sub_component": null,
+            "citations": ["IUCN, 2018"]
+          }
+        ]
+      },
+      "population": {
+        "present": false,
+        "evidence": []
+      },
+      "habitat": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Priority is native forests and wetlands, protected areas (PAs) (MAP10) and the areas of biodiversity significance (ABS)",
+            "location": "TABLE K 2 KOSRAE ISSUES, PRIORITY AREAS, NATIONAL THEMES",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The resilience inherent in intact forest ecosystems provides the best insurance against climate change and helps ensure that forests meet the needs of present and future generations",
+            "location": "Chuuk State / C. Biodiversity Conservation / Conditions and Trends",
+            "sub_component": null,
+            "citations": ["UNCBD, 2010"]
+          }
+        ]
+      },
+      "community": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Mass mortality events have been observed in intertidal communities following recent marine heatwaves.",
+            "location": "N/A - not in document; correct citation",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "genotype_phenotype": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "there may be important variation at the sub specific and varietal levels that are potentially valuable in terms of adaptation to climate change and sea level rise",
+            "location": "Pohnpei State / Conditions and Trends (outer islands paragraph)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "named_entities": ["endemic plant species in Chuuk", "Chuuk Monarch (Metabolis rubensis)", "Chuuk Fruit Bat (Pteropus insularis)", "Kosrae Flying Fox (Pteropus ualanus)", "Micronesian pigeon (Ducula oceanica)", "Terminalia carolinensis (Ka)", "mangrove forests", "agroforests", "upland rainforest", "strand forest", "montane rainforest"]
+    },
+    "partnerships_and_funding": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "USFS, provided crucial technical support, funding assistance, review of the draft FAP, and overall guidance and support.",
+          "location": "FSM FAP / FAP Development",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "The Green Climate Fund (GCF) is a fund established within the framework of the United Nations Framework Convention on Climate Change (UNFCCC) as an operating entity of the Financial Mechanism to assist developing countries in adaptation and mitigation practices to counter climate change. The Micronesia Conservation Trust (MCT) Is an Accredited Entity to the GCF.",
+          "location": "Green Climate Fund",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "At the time this FAP was submitted, a concept note was being prepared for the next GEF replenishment from UNDP, with the working title 'Securing global environmental benefits in FSM through climateresilient sustainable land management and progress towards land degradation neutrality'",
+          "location": "Global Environment Fund (GEF) 7th Replenishment (Sustainable Land Management)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document describes an extensive network of active partnerships (USFS, MCT, TNC, GEF, GCF, SPREP, UNDP, Micronesia Challenge) with specific funding sources and active implementation. Score 2 — strategic investment with active partnerships."
+    },
+    "climate_threat_habitat_degradation": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Direct impacts from climate change on terrestrial resources include threats to traditional agroforestry systems through saltwater intrusion, droughts and typhoons",
+          "location": "Chuuk State / Cross-cutting Threats / Climate change",
+          "sub_component": null,
+          "citations": ["SOE, 2018"]
+        },
+        {
+          "text": "Rising sea level generates coastal erosion, dangerous marine inundation, and salt contamination of soil, food, and water sources.",
+          "location": "Cross-cutting Threats / Climate change (National)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_threat_species_vital_rates": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "During times of drought, wildfires burn unchecked destroying grasslands, eroding forest edges and preventing weedy areas from reforesting by killing tree seedlings.",
+          "location": "Chuuk State / Cross-cutting Threats / Wildfires",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document primarily discusses climate-driven habitat degradation rather than direct vital rate effects. The wildfire quote describing killing of tree seedlings is the clearest example of a climate-induced event (drought-driven wildfire) directly affecting species recruitment/vital rates. Score 1."
+    },
+    "climate_threat_biotic_stressors": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Climate change is identified as a major threat to all FSM National Issues and is exasperating the negative impacts of numerous other issues such as loss of land for agroforestry, decrease in coastal stabilization, increase in invasive alien species, fragility of biodiversity and ecosystem health",
+          "location": "Chuuk State / Cross-cutting Threats / Climate change",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "Climate change is linked to 'increase in invasive alien species' as an exacerbated threat, framing IAS expansion as climate-mediated. This is a borderline case — the document does not describe specific mechanisms of climate-favored invasion or successional change. Score 1 given the explicit link between climate and invasive species expansion."
+    }
+  },
+  "actions": {
+    "priority_habitat_identification": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "MAP C5: Chuuk lagoon islands -Biodiversity Conservation analysis map ... Dark green areas (69.7%) are the high potential areas (upland, agroforestry, and all land ABS areas), light green areas (16.8%) are the potential areas (mangrove, secondary vegetation), and the red areas (13.5%) are not potential areas (developed areas)",
+          "location": "Chuuk State / C. Biodiversity Conservation / Priority areas",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "MAP C8 -Chuuk lagoon islands: Sea-Level Rise and Inundation hazard map This map was generated from the Sea Level Rise (SLR) projection modeling project in collaboration of FSM OEEM office, SPC and COM-FSM back in 2013 showing areas projected as inundation hazard by 2055 in red color, along the coastline of Chuuk lagoon islands. All areas that were projected to be at inundation risk by 2055, based on the SLR model, were considered as the highest priority for the coastal stabilization issue in Chuuk.",
+          "location": "CHUUK STATE FOREST RESOURCE STRATEGY / All Other Mapped Priority Areas",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "The High Potential areas in dark green (84.1%) include the native forests and wetlands, protected areas (PAs) and the areas of biodiversity significance (ABS); the Potential areas in light green (12.8%) include the agroforest and secondary vegetation",
+          "location": "Kosrae State / A. Biodiversity Conservation / MAP K3",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "Priority habitat areas are identified with spatial representation (GIS overlay maps) for each state across multiple issues including those explicitly tied to climate threats (sea-level rise hazard zones, coastal stabilization). Score 2."
+    },
+    "targeted_range_shift_actions": {
+      "evaluable": true,
+      "score": 0,
+      "evidence": [],
+      "absence_note": "No actions are proposed specifically to facilitate, prevent, or respond to species range shifts driven by climate. The document addresses climate adaptation through habitat protection, ecosystem-based approaches, and food security interventions, but none are framed in terms of managing species range shifts. Crop resilience assessments and agroforestry adaptations are focused on human food security, not species range-shift management."
+    },
+    "time_bound_and_monitoring": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "The iSTOP Strategic Action Plan (SAP) establishes goals, objectives, activities, collaborators, timeframe, funding sources and estimated costs for control of specific species.",
+          "location": "Pohnpei State / Cross-cutting threats / Invasive species",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "Strategy tables list many actions with cooperators and USFS programs, but most lack specific deadlines. The document endorses monitoring (FIA re-measurement, MC terrestrial web-viewer, long-term mangrove monitoring plots) but does not consistently pair action-level deadlines with effectiveness monitoring requirements. Score 1 — some time-framing exists in referenced SAPs and monitoring programs, but no systematic action-level deadline + monitoring pairing is present throughout the FAP itself."
+    },
+    "evidence_of_efficacy": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Successful Revival of Mangrove Sites: There has been focus on mangrove rehabilitation and planting that has led to the successful revival of seven sites in the state so far. This includes the replanting of 23,000 mangrove seedlings in 2017 and 2018 by the Chuuk Red Cross alone.",
+          "location": "Chuuk State / B. Coastal Stabilization / Strengths",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Forest Inventory and Analysis (FIA): the FIA in 2006 provided a baseline understanding of the status of the forests and terrestrial resources. The re-measurement in 2016 provided an opportunity to gauge success of efforts and develop management interventions based on a data to management loop.",
+          "location": "Kosrae State / F. Capacity-building / Opportunities",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document references prior projects and their outcomes (mangrove revival sites, FIA data-to-management loop, GEF-5 successes) as evidence for proposed actions, and cites ecological studies supporting mangrove carbon storage and coastal protection functions. This is limited evidence — project results are described qualitatively and the studies cited (Donato et al. 2011, Krauss et al. 2010) are from related contexts rather than direct efficacy evaluations of specific FSM actions. Score 2.",
+      "projects": ["GEF-5 Ridge to Reef (R2R) Project: supported rehabilitation and replanting projects across FSM states; cited as a successful program for biodiversity, coastal stabilization, and watershed management with measurable outputs (tree planting numbers, site revivals).", "Long-term mangrove monitoring plots in Kosrae: established in the 1990s through USFS/USGS/KIRMA partnership, providing evidence on mangrove forest structure and response to sea level rise over time.", "FIA re-measurement (2006 and 2016): provided comparative baseline data on forest trends across FSM states, used to gauge success of conservation efforts and inform management decisions."]
+    },
+    "adaptation_planning_frameworks": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Strategies in this FAP should be considered with a climate lens for planning and implementation. The Pacific Islands Managed and Protected Area Community (PIMPAC) has a Local Early Action Planning (LEAP) toolkit for climate change that can be utilized with communities.",
+          "location": "YAP STATE / TABLE Y 1 / Climate Change section",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "A.2. Work with landowners to investigate and pilot new technologies and methodologies for food security to enhance agroforestry and food production for climate adaptation and disaster planning",
+          "location": "TABLE C3 CHUUK STATE STRATEGIES",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document references the LEAP toolkit for climate change adaptation planning (a specific climate adaptation planning tool) and frames strategies through a 'climate lens.' The Pohnpei Strategic Environmental Assessment (SEA) and the Joint State Action Plans for Disaster Risk Management and Climate Change (JSAPs) are also referenced as frameworks informing planning. Score 2 — specific frameworks (LEAP, JSAP, SEA) are named in a climate-adaptation planning context."
+    }
+  },
+  "coding_meta": {
+    "coder": "llm:claude-sonnet-4-6",
+    "model": "claude-sonnet-4-6",
+    "provider": "claude",
+    "codebook_version": "0.4",
+    "ingest": "text",
+    "design": "single",
+    "temperature": null,
+    "thinking": null,
+    "thinking_effort": null,
+    "coded_at": "2026-07-07T00:31:30Z",
+    "notes": {}
+  }
+}

@@ -1,0 +1,707 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Coldwater Inland Lakes</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Joseph</forename><forename type="middle">K</forename><surname>Nohner</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Contributors Michigan Department of Natural Resources</orgName>
+								<orgName type="institution">Michigan Natural Features Inventory</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Kevin</forename><forename type="middle">E</forename><surname>Wehrly</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Contributors Michigan Department of Natural Resources</orgName>
+								<orgName type="institution">Michigan Natural Features Inventory</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Arthur</forename><forename type="middle">R</forename><surname>Cooper</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Contributors Michigan Department of Natural Resources</orgName>
+								<orgName type="institution">Michigan Natural Features Inventory</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Heather</forename><forename type="middle">L</forename><surname>Hettinger</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Contributors Michigan Department of Natural Resources</orgName>
+								<orgName type="institution">Michigan Natural Features Inventory</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Katelyn</forename><forename type="middle">B</forename><surname>King</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Contributors Michigan Department of Natural Resources</orgName>
+								<orgName type="institution">Michigan Natural Features Inventory</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Emily</forename><surname>Martin</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Contributors Michigan Department of Natural Resources</orgName>
+								<orgName type="institution">Michigan Natural Features Inventory</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Douglas</forename><forename type="middle">W</forename><surname>Schultz</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Contributors Michigan Department of Natural Resources</orgName>
+								<orgName type="institution">Michigan Natural Features Inventory</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Jack</forename><forename type="middle">E</forename><surname>Taylor</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Contributors Michigan Department of Natural Resources</orgName>
+								<orgName type="institution">Michigan Natural Features Inventory</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Benjamin</forename><forename type="middle">A</forename><surname>Turschak</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Contributors Michigan Department of Natural Resources</orgName>
+								<orgName type="institution">Michigan Natural Features Inventory</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Brennen</forename><forename type="middle">L</forename><surname>Wright</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Contributors Michigan Department of Natural Resources</orgName>
+								<orgName type="institution">Michigan Natural Features Inventory</orgName>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Coldwater Inland Lakes</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">4261597741D80229D8A84C913B19A111</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.1" ident="GROBID" when="2026-07-06T12:27+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract/>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>What are coldwater lakes?</head><p>Coldwater inland lakes are unique, high quality and relatively fragile resources that are characterized as cold and deep with exceptional water quality, allowing them to support species that other lakes cannot support. Among the many obligate coldwater species in Michigan's inland lakes, there is one Threatened fish species: cisco. Of the over 11,000 inland lakes in Michigan, fewer than 200 support populations of this rare gamefish. Cisco are a species in the whitefish family and require clean, cold, well-oxygenated waters. Their narrow habitat requirements make cisco sentinels of lake quality and indicators of habitat degradation. In this plan, coldwater inland lakes include those that support cisco, have predicted or measured suitable coldwater habitat <ref type="bibr" target="#b9">(Hansen et al. 2022)</ref>, support lake whitefish, or are managed for trout species. Coldwater inland lakes are distributed statewide. There are high concentrations of these lakes in the counties adjacent to the Great Lakes and in southern Michigan's interlobate regions, which are places where the edges of two glacial moraines came near one another and deposited large amounts of glacial debris. Coldwater inland lakes vary in size, with most between 10 -600 acres and some over 18,000 acres.</p><p>Why are coldwater inland lakes important? Deep, clear, cold, these lakes are unique in their value to Michiganders as well as the habitats and animals they support. Coldwater inland lakes are some of the most iconic lakes in the state, attracting visitors from across the nation. With only about 6% of lakes statewide falling into this category, the fish in these systems depend on high quality, intact watersheds for their continued survival. Yet, these uncommon lakes can be found near many of our largest cities where they are enjoyed by lakeshore residents and visitors alike coming for a day trip of fishing, picnicking, birdwatching, sunning, or kayaking. Coldwater inland lakes can support not just cisco, but also trophy muskellunge, walleye and northern pike, and brook trout as well as common loons. Additionally, coldwater inland lakes support clean water for swimming, boating, fishing and drinking.</p><p>Call out box: Did you know? Cisco are a relatively fatty fish, providing a rich diet for predators. Because they provide an energy-rich food resource and are indicators of high quality habitats, cisco have been shown to support trophy fisheries <ref type="bibr" target="#b24">(VanderBloemen et al. 2020;</ref><ref type="bibr" target="#b15">Kennedy and Rennie 2024)</ref>. In Michigan, lakes with cisco average three times more Master Angler records for muskellunge, northern pike and walleye than lakes without cisco, even after correcting for lake size (Nohner, unpublished). Cisco aren't just important prey for fishes; common loons rely upon cisco as a food resource, especially prior to migrating South for the winter <ref type="bibr" target="#b16">(Kenow et al. 2023)</ref>.</p><p>What is the health of coldwater inland lakes? As Michigan's climate continues to warm, coldwater habitats are declining. As with the canary in the coal mine, the health of cisco in our inland lakes acts as an early warning system for the fish, wildlife and people dependent on Michigan's coldwater inland lakes. For example, research suggests that approximately 60% of Michigan's coldwater inland lakes suitable for cisco will decline to marginal status by 2050 <ref type="bibr" target="#b9">(Hansen et al. 2022)</ref>. Watershed development, fertilizer runoff, leaking septic tanks and other factors can dramatically alter water quality in these lakes. These declines in water quality can limit coldwater fishes' ability to behaviorally adapt to warming water temperatures and force coldwater fishes to occupy habitats with overly warm temperatures and/or low dissolved oxygen levels in a situation referred to as oxythermal squeeze. Furthermore, the quality of shoreline and nearshore littoral zone habitats in coldwater inland lakes is declining <ref type="bibr" target="#b28">(Wehrly et al. 2015)</ref> and may affect natural reproduction of fish.</p><p>A DNR review of cisco populations in 1995 <ref type="bibr" target="#b18">(Latta 1995)</ref> reported that ciscoes were in decline or had been extirpated in 22 Michigan lakes. By contrast, a more recent review identified 47 Michigan lakes where cisco were either extirpated or likely extirpated and an additional 73 Michigan lakes with unknown status (Nohner, unpublished). These declines are expected to continue occurring into the future. In addition, introduced species such as Rainbow Smelt and Zebra Mussels are known or suspected to prey upon, compete with and degrade the habitats of cisco, but information on these effects statewide is incomplete.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Goals</head><p>• Improve understanding of the threats to coldwater inland lake habitats.</p><p>• Conserve coldwater habitats that are likely to persist into the future through lakeshed conservation and nutrient pollution best management practices.</p><p>Callout box: Cisco stamp. Michigan once had a short, noncommercial gillnet fishery for cisco on select inland lakes that lasted less than a month. Anglers were required to purchase a license similar to the stamp shown here. At the end of each season, anglers were required to deliver their nets to local Conservation Officers for keeping until the following season. Because gillnets are non-selective and their use was not consistent with modern sport fishing ethics, the season was ended in 1983.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Focal species</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Cisco</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Draft Michigan Wildlife Action Plan: 2025-2035</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Coregonus artedi</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>State threatened</head><p>Formerly known as Lake Herring, Cisco are a slender, silvery fish that range in size from 8 -25 inches in length. Cisco exhibit highly variable body morphology among populations and were previously described as several subspecies <ref type="bibr" target="#b17">(Koelz 1931)</ref>. Cisco require cold, deep lakes with well-oxygenated waters below the thermocline. Cisco are a state threatened species that has been extirpated from multiple inland lakes as a result of habitat degradation, nutrient inputs, climate change and introduction of nonnative species.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Goals</head><p>• Improve understanding of Cisco in coldwater inland lakes including population size, diet, morphology, growth and genetics.</p><p>• Improve understanding of current and expected future habitats and their effects on cisco.</p><p>• Determine the effects of introduced predators, competitors and other species on cisco populations.</p><p>• Protect and maintain known populations of inland Cisco and their habitats where possible.</p><p>• Improve Cisco status from threatened to special concern.</p><p>• Identify lakes that could support Cisco reintroduction.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Ives Lake cisco</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Coregonus hubbsi</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>State threatened</head><p>The Ives Lake cisco also is similar in body form and coloration to C. artedi but with smaller overall length, longer pectoral fins, deeper body, fewer lateral line scales and more gill rakers <ref type="bibr" target="#b17">(Koelz 1931)</ref>. <ref type="bibr" target="#b17">Koelz (1931)</ref> suggested that Ives Lake cisco may spawn in the Spring as opposed to cisco's late Fall spawning period. This coldwater species is known only from Ives Lake in Marquette County. As with the Siskiwit Lake cisco, the taxonomic status of Ives Lake cisco is not fully accepted and genetic research is needed to determine if this species is distinct from C. artedi.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Goals</head><p>• Determine if Ives Lake cisco is genetically distinct from Cisco (C. artedi).</p><p>• If species status is confirmed, determine status and viability of population.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Siskiwit Lake cisco</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Coregonus zenithicus bartletti</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>State threatened</head><p>The Siskiwit Lake cisco is similar in body form to C. artedi. <ref type="bibr" target="#b17">Koelz (1931)</ref> describes them as small, with long fins, a rather deep body and a protruding lower jaw. Unlike other cisco species that spawn in late fall, the Siskiwit Lake cisco spawns in May. This fish has been found only in the deep, cold waters of Siskiwit Lake in Isle Royale National Park, a lake which is managed by the National Park Service. Latest records indicate this species has not been reported since the 1990s <ref type="bibr" target="#b14">(Kallemeyn 2000)</ref>. The taxonomic status of Siskiwit Lake cisco is not fully accepted and genetic research is needed to determine if this species is distinct from Shortjaw cisco (C. zenithicus; <ref type="bibr" target="#b11">Hubbs et al. 2004</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Goals</head><p>• Determine if Siskiwit Lake cisco is genetically distinct from the Shortjaw cisco (C. zenithicus).</p><p>• If species status is confirmed, determine status and viability of population. • Unknown genetic and phenotypic variability make reintroductions and intentional movement of individuals among waterbodies problematic.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Call</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Pollution</head><p>• Deforestation and development of the watershed, either as urbanization or agricultural, can reduce water quality through leaching and runoff of nutrients and sediments, causing loss of well-oxygenated deep-water habitat <ref type="bibr" target="#b13">(Jacobson et al. 2016;</ref><ref type="bibr" target="#b9">Hansen et al. 2022</ref>).</p><p>• Intensive shoreline development and habitat modifications below the ordinary high water mark can degrade nearshore spawning habitats (O'Neal and Soulliere 2006).</p><p>• Shoreline development can contribute to nutrient loading through overland runoff (e.g., fertilizers) and nutrient leaching (e.g., septic systems) that reduce water quality (O'Neal and Soulliere 2006). Natural system management &amp; modifications.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Natural system management &amp; modifications</head><p>• Aquatic plant herbicide treatments can alter food web dynamics during critical periods, such as when larval ciscoes are feeding in nearshore areas and may reduce the amount of oxygenated, coldwater habitat.</p><p>• Large quantity ground or surface water withdrawals can lead to low water levels, which can result in changes to lake stratification and oxygenated, coldwater habitat.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Changing Weather Patterns</head><p>• Warming temperatures will result in a loss of coldwater habitat by increasing the duration of stratification and water temperatures <ref type="bibr" target="#b12">(Jacobson et al. 2010;</ref><ref type="bibr">Woolway et al. 2021;</ref><ref type="bibr" target="#b9">Hansen et al. 2022)</ref>, leading to oxythermal squeeze.</p><p>• Increased frequencies of storm events are likely to occur <ref type="bibr" target="#b26">(Wilson et al. 2023)</ref>, resulting in greater overland runoff that causes nutrient and sediment pollution in inland lakes.</p><p>• Coldwater inland lakes may potentially become more suitable for invasive species that could harm coldwater species.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conservation Actions</head><p>Land &amp; water management H1. Implement Michigan's Aquatic Invasive Species State Management Plan. [AIS]  H2. Implement nutrient reduction strategies such as easement, acquisition, buffer restoration, runoff management, reduce septic impacts and other BMPs to reduce nutrient inputs to lakes. [MILP]  Raising awareness H3. Educate lake associations and watershed councils about ciscoes and other coldwater fishes, what their presence means for water quality and how to conserve important habitats. [MILP]  H4. Promote voluntary best management practices for stopping the introduction and spread of invasive species for recreational users, researchers and industry.</p><p>[TIS] H5. Promote and encourage voluntary best management practices for shoreline development and best land use practices within the watershed, including conservation strategies focused on maintaining or improving watershed integrity for the benefit of water quality in addition to terrestrial species which benefit from a conserved landscape. H6. Collaborate on ongoing irrigation outreach programs to raise awareness on maintenance and improvement of irrigation systems to improve water use efficiency. [WUAC]   Law &amp; policy H7. Work with conservation funding programs such as Natural Resources Conservation Service Farm Bill programs; Department of Environment, Great Lakes and Energy Nonpoint Source Protection Program; Department of Natural Resources forestry programs and others to prioritize and implement conserving land cover that promotes water quality in coldwater inland lakes' watersheds. H8. Revise and update the Department of Natural Resources' list of coldwater inland lakes referenced in Michigan's Natural Resources and Environmental Protections Act from the 1976 list that is currently referenced. H9. Take appropriate enforcement actions for violations of the Invasive Species Order and maintain the Prohibited and Restricted Species list pursuant to the Natural Resources and Environmental Protection Act, 451 of 1994, as amended. [AIS]   Research &amp; Monitoring H10. Develop a list of high-priority lakes for water quality monitoring to inform environmental management decisions. H11. Collect and monitor water quality data such as temperature and dissolved oxygen in coldwater inland lakes with a focus on high-priority lakes. H12. Develop and implement targeted habitat surveys. H13. Improve understanding of the contributors to current and future oxythermal squeeze and strategies for efficient, effective habitat management. H14. Refine species maps, habitat suitability models and priority maps based on field data, updated GIS layers and updated downscaled climate projections. H15. Assess changes in hydrology due to actions that affect lake water levels such as lake level management and large quantity water withdrawals. <ref type="bibr">[WUAC]</ref> S16. Implement those criteria to update the population status of all inland lake cisco populations statewide. S17. Conduct research to determine the effects of stocked competitors or predators on cisco populations. S18. Improve understanding of inland lake cisco spawning habitats and threats to natural reproduction S19. Sample Siskiwit Lake to determine whether Siskiwit Lake cisco are still present and if they are genetically distinct from the Shortjaw cisco (C. zenithicus). S20. Further analyze existing and potential additional Ives Lake cisco samples with modern genomic methods to determine whether Ives Lake cisco are genetically distinct from the cisco (C. artedi).</p><p>How will we monitor?</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Habitat</head><p>• Use Michigan Department of Natural Resources Status and Trends surveys and conduct targeted surveys in lakes with cisco to assess habitat status.</p><p>• Continue Michigan Department of Environment, Great Lakes and Energy Quality aquatic habitat and water quality monitoring.</p><p>• Collaborate with Michigan's Cooperative Lake Monitoring Program to leverage citizen scientists to collect water quality data to inform cisco habitat status and trends monitoring.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Ciscoes</head><p>• Conduct targeted surveys of known and historical lakes with cisco to determine presence and relative abundance; current lake fish surveys do not sufficiently sample ciscoes.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Places for partnership</head><p>This map was designed by partners to help them connect around important places for focal species. Working together on conservation actions on a voluntary basis provides great benefits to wildlife and people. The lake watersheds (i.e., lakesheds) for lakes supporting or possibly supporting year-round populations of ciscoes are high priorities for partnership. The lakesheds for coldwater inland lakes without focal species are moderate priorities. Coldwater inland lakes in this map are those that may support cisco, have predicted or measured suitable coldwater habitat <ref type="bibr" target="#b9">(Hansen et al. 2022)</ref>, support lake whitefish, or are managed for trout species. Partners seeking a more detailed, interactive and up-to-date set of focal habitats that serve as conservation priorities for coldwater inland lakes and other Wildlife Action Plan chapters can find this information on the Department of Natural Resources' Wildlife Action Plan Conservation Mapper, available at this website: [To be determined].</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Links to other conservation plans</head><p>There has been a multitude of relevant planning efforts across the state and country over the past ten years. Bracketed superscripts throughout the Wildlife Action Plan indicate where the conservation action, goal, or monitoring strategy aligns with those from another plan. For conservation plans with distinct objectives, the objective or strategy number is also included. This linking of plans is meant to assist the expansion of partnerships.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>•</head><label></label><figDesc>Out Box: How vulnerable are focal species to a changing environment? Cooper et al. (in preparation) and Jacobson et al. (2010) determined climate vulnerabilities for focal species. See threats section for more specifics about how climate change may affect species and habitats. Climate vulnerability rankings are based on the likelihood and amount of change in species abundance or range by 2050 -extreme = extremely likely to substantially decrease or disappear; moderate = a modest decrease is likely. Invasive species such as zebra mussels degrade and alter habitats (O'Neal and Soulliere 2006).</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="4,72.00,72.00,337.80,337.80" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="5,72.00,72.00,337.80,337.80" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="11,166.17,72.00,368.50,368.50" type="bitmap" /></figure>
+		</body>
+		<back>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Threats and conservation actions for all focal species</head><p>Threats Lack of knowledge</p><p>• Lack of information on genotypic and phenotypic variability among populations, status of individual populations and their long-term viability.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conservation Actions</head><p>Conservation designation &amp; planning S1. Using cisco habitat suitability models <ref type="bibr" target="#b9">(Hansen et al. 2022)</ref>, water quality data and historical records of presence as surrogates for coldwater habitats and the fish and wildlife species they support, prioritize targeted surveys for ciscoes to identify where these habitats remain on the landscape. [GRA; KRA]  S2. Develop and implement an Inland Lake cisco management plan for Michigan. [FD]  S3. Identify important lakes with cisco to focus conservation and management. [MILP]  S4. Evaluate feasibility for cisco reintroduction including identification of lakes with suitable current and future habitat as well as sources for reintroduced fish.</p><p>Law &amp; policy S5. Protect known inland lake cisco habitats through the environmental permit review process. S6. Update methodology for determining impairment as relates to coldwater habitat.</p><p>Research &amp; monitoring S7. Develop a list of high-priority lakes for cisco sampling to inform fisheries and environmental management decisions. S8. Determine genetic and phenotypic variability of inland and Great Lakes cisco populations. S9. Determine the feasibility of developing a habitat suitability model based on relative abundance. S10. Leverage vertical gill net protocols in Michigan in tandem with other approaches to develop and implement a sampling strategy to understand population structure and enable regional analyses. S11. Continue to build upon collaborative research with other partners in the Upper Midwest. <ref type="bibr">[MILP]</ref> S12. Evaluate whether connectivity is an issue for inland cisco persistence and at what scale. S13. Improve understanding of the origin, genetic makeup and potential unique populations of cisco statewide. S14. Develop information on cisco diet, habitat use, morphology and growth. S15. Develop clear criteria by which population status in each lake system will be determined.</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<monogr>
+		<title level="m" type="main">Michigan State Forest Management Plan [ILCMP] Inland lake cisco management plan</title>
+		<imprint/>
+	</monogr>
+	<note>in prep</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<title level="m" type="main">Michigan&apos;s aquatic invasive species state management plan 2025 update</title>
+		<author>
+			<persName><surname>Qol-Ais</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+	<note>in prep</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<title level="m" type="main">Advancing the National Fish, Wildlife and Plants Climate Adaptation Strategy into a New Decade (National Fish, Wildlife and Plants Climate Adaptation Network</title>
+		<imprint>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<title level="m" type="main">Charting the Course: Michigan Department of Natural Resources Fisheries Division&apos;s framework for managing aquatic resources. 2023-2029 Fisheries Division Strategic Plan</title>
+		<imprint>
+			<date type="published" when="2023">2023</date>
+			<publisher>Michigan Department of Natural Resources</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<monogr>
+		<title level="m">Michigan inland lakes partnership strategic plan</title>
+		<meeting><address><addrLine>Michigan Inland Lakes Partnership</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<monogr>
+		<title level="m">Grand River assessment (Hanshue and Harrington</title>
+		<imprint>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<monogr>
+		<title level="m">Kalamazoo River assessment</title>
+		<imprint>
+			<date type="published" when="2005">Wesley 2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<monogr>
+		<title level="m">Water Use Advisory Council Report</title>
+		<imprint>
+			<publisher>Literature Cited</publisher>
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+	<note>Water Use Advisory Council 2022</note>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<monogr>
+		<title level="m" type="main">Special animal abstract for Coregonus artedi (cisco, lake herring)</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">L</forename><surname>Derosier</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2007">2007</date>
+			<publisher>Michigan Natural Features Inventory</publisher>
+			<pubPlace>Lansing, Michigan</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<monogr>
+		<title level="m" type="main">Quantifying the resilience of coldwater lake habitat to climate and land use change to prioritize</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">J A</forename><surname>Hansen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">E</forename><surname>Wehrly</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Vitense</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Walsh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">C</forename><surname>Jacobson</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+	<note>watershed conservation. Ecosphere, 13: e4172</note>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<monogr>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">K</forename><surname>Hanshue</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">H</forename><surname>Harrington</surname></persName>
+		</author>
+		<title level="m">Grand River assessment. Michigan Department of Natural Resources Fisheries Report</title>
+		<meeting><address><addrLine>Lansing, Michigan</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<monogr>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">L</forename><surname>Hubbs</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">F</forename><surname>Lagler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">R</forename><surname>Smith</surname></persName>
+		</author>
+		<title level="m">Fishes of the Great Lakes Region</title>
+		<meeting><address><addrLine>Ann Arbor, Michigan</addrLine></address></meeting>
+		<imprint>
+			<publisher>University of Michigan Press</publisher>
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+	<note>revised edition</note>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Coldwater fish oxythermal habitat in Minnesota lakes: influence of total phosphorus, July air temperature and relative depth</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">C</forename><surname>Jacobson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">G</forename><surname>Heinz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Pereira</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Canadian Journal of Fisheries and Aquatic Science</title>
+		<imprint>
+			<biblScope unit="volume">67</biblScope>
+			<biblScope unit="page" from="2002" to="2013" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">A fish habitat conservation framework for Minnesota Lakes</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">C</forename><surname>Jacobson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">K</forename><surname>Cross</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Dustin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Duval</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Fisheries</title>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="page" from="302" to="317" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">A comparison of fish communities from 32 inland lakes in Isle Royale National Park</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">W</forename><surname>Kallemeyn</surname></persName>
+		</author>
+		<idno>USGS/BRD/BSR2000-0004</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Biological Resources Division Biological Science Report</title>
+		<imprint>
+			<date type="published" when="1929">2000. 1929 and 1995-1997</date>
+			<publisher>U.S. Geological Survey</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Variation in female-biased sexual size dimorphism of northern pike (Esox lucius) associated with environment and life history</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Kennedy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">D</forename><surname>Rennie</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s10682-024-10295-3</idno>
+		<ptr target="https://doi.org/10.1007/s10682-024-10295-3" />
+	</analytic>
+	<monogr>
+		<title level="j">Evolutionary Ecology</title>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="305" to="326" />
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">The relative importance of cisco (Coregonus artedi) in the diets of common loons (Gavia immer) among a set of cisco refuge lakes in Minnesota</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">P</forename><surname>Kenow</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Lor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">V</forename><surname>Holbrook</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">J</forename><surname>Fara</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">C</forename><surname>Houdek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Tajjioui</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">R</forename><surname>Gray</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">C</forename><surname>Jacobson</surname></persName>
+		</author>
+		<idno type="DOI">10.1139/cjz-2022-0189</idno>
+		<ptr target="https://doi.org/10.1139/cjz-2022-0189" />
+	</analytic>
+	<monogr>
+		<title level="j">Canadian Journal of Zoology</title>
+		<imprint>
+			<biblScope unit="volume">101</biblScope>
+			<biblScope unit="issue">11</biblScope>
+			<biblScope unit="page" from="1004" to="1016" />
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">The Coregonid fishes of North-Eastern America</title>
+		<author>
+			<persName><forename type="first">W</forename><surname>Koelz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Papers of the Michigan Academy of Science Arts and Letters</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page" from="303" to="432" />
+			<date type="published" when="1931">1931</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Distribution and abundance of Lake Herring (Coregonus artedi) in Michigan. Michigan Department of Natural Resources</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">C</forename><surname>Latta</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Fisheries Research Report</title>
+		<imprint>
+			<date type="published" when="1995">1995. 2014</date>
+			<pubPlace>Ann Arbor, Michigan</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<monogr>
+		<title level="m" type="main">Charting the Course: Michigan Department of Natural Resources Fisheries Division&apos;s framework for managing aquatic resources. 2023-2029 Fisheries Division Strategic Plan</title>
+		<ptr target="https://www.michigan.gov/dnr/-/media/Project/Websites/dnr/Documents/managing/fisheries/Strategic-Plan_2023.pdf" />
+		<imprint>
+			<date type="published" when="2023">2023</date>
+			<publisher>Michigan Department of Natural Resources (DNR)</publisher>
+		</imprint>
+	</monogr>
+	<note>rev=c3969e99c8784345bd72dba4af257a16</note>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<monogr>
+		<title level="m" type="main">State forest management plan</title>
+		<imprint>
+			<date type="published" when="2026">2026</date>
+			<publisher>Michigan Department of Natural Resources, Forest Resources Division and Wildlife Division</publisher>
+			<pubPlace>Lansing</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<monogr>
+		<title level="m" type="main">Michigan Quality of Life Agencies Aquatic Invasive Species Team et al. (QOL-AIS et al.). In prep. Michigan&apos;s aquatic invasive species state management plan 2025 update</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<monogr>
+		<title level="m" type="main">Advancing the national fish, wildlife and plants climate adaptation strategy into a new decade</title>
+		<ptr target="https://www.canr.msu.edu/michiganlakes/about/NationalFish" />
+		<imprint>
+			<date type="published" when="2021">2021. 2021</date>
+			<publisher>Association of Fish and Wildlife Agencies</publisher>
+			<pubPlace>Washington, DC</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Michigan inland lakes partnership strategic plan</note>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Conservation guidelines for Michigan lakes and associated natural resources</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">P</forename><surname>O'neal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">J</forename><surname>Soulliere</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Fisheries Special Report</title>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<date type="published" when="2006">2006</date>
+			<publisher>Michigan Department of Natural Resources</publisher>
+			<pubPlace>Ann Arbor, Michigan</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Influence of cisco (Coregonus artedi, Lesueur) on muskellunge (Esox masquinongy, Mitchill) mean length, population size structure and maximum size in northern Wisconsin lakes</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">N</forename><surname>Vanderbloemen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Gorne</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">G</forename><surname>Sass</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">L</forename><surname>Shaw</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/jai.13997</idno>
+		<ptr target="https://doi.org/10.1111/jai.13997" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Applied Ichthyology</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="159" to="167" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<monogr>
+		<ptr target="https://www.michigan.gov/egle/-media/Project/Websites/egle/Documents/Groups/WUAC/Reports/Report-2022-WUAC.pdf" />
+		<title level="m">Water Use Advisory Council report</title>
+		<imprint>
+			<publisher>Water Use Advisory Council</publisher>
+			<date type="published" when="2022">2022. 2022</date>
+		</imprint>
+	</monogr>
+	<note>rev=e5c3fba2de7f49f394388ecf060f8854</note>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<monogr>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">B</forename><surname>Wilson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Baker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">A</forename><surname>Ainsworth</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Andresen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Austin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Dukes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Gibbons</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">O</forename><surname>Hoppe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">E</forename><surname>Ledee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Noel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">A</forename><surname>Roop</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">A</forename><surname>Smith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">P</forename><surname>Todey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Wolf</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Wood</surname></persName>
+		</author>
+		<title level="m">Ch. 24. Midwest. In: Fifth National Climate Assessment</title>
+		<editor>
+			<persName><forename type="first">A</forename><forename type="middle">R</forename><surname>Crimmins</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">C</forename><forename type="middle">W</forename><surname>Avery</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">D</forename><forename type="middle">R</forename><surname>Easterling</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">K</forename><forename type="middle">E</forename><surname>Kunkel</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">B</forename><forename type="middle">C</forename><surname>Stewart</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">T</forename><forename type="middle">K</forename><surname>Maycock</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Washington, DC, USA</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2023">2023</date>
+		</imprint>
+		<respStmt>
+			<orgName>U.S. Global Change Research Program</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Weyhenmeyer and coauthors. 2021. Phenological shifts in lake stratification under climate change</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">I</forename><surname>Woolway</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Sharma</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nature Communications</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page">2318</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<monogr>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">E</forename><surname>Wehrly</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Hayes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">C</forename><surname>Wills</surname></persName>
+		</author>
+		<title level="m">Status and trends of Michigan inland lake resources 2002-2007. Michigan Department of Natural Resources, Fisheries Report 08</title>
+		<meeting><address><addrLine>Lansing, Michigan</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Kalamazoo River assessment. Michigan Department of Natural Resources, Fisheries Division</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">K</forename><surname>Wesley</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Special Report</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<date type="published" when="2005">2005</date>
+			<pubPlace>Ann Arbor, Michigan</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>
+

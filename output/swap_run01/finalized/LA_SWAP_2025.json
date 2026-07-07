@@ -1,0 +1,887 @@
+{
+  "document_meta": {
+    "title": "2025 Louisiana State Wildlife Action Plan",
+    "year": 2025,
+    "jurisdiction": "Louisiana",
+    "document_type": "SWAP",
+    "document_id": "LA_SWAP_2025",
+    "page_count": 356
+  },
+  "orientation": {
+    "summary": "This is the 2025 Louisiana State Wildlife Action Plan (SWAP), a comprehensive third-edition state wildlife planning document produced by the Louisiana Department of Wildlife and Fisheries (LDWF). The document covers Species of Greatest Conservation Need (SGCN), natural communities, conservation opportunity areas, invasive species, threats, monitoring, and a dedicated regional/landscape chapter (Chapter 10) written by the Southeast Conservation Adaptation Strategy (SECAS) and the Southeast Climate Adaptation Science Center. The document engages substantively with climate change throughout, particularly in Chapter 10, which analyzes climate vulnerability of SGCN using CCVI scores and ecological niche models. Range shifts are discussed primarily in the context of species distributional responses to climate change, connectivity, and the SECAS Blueprint's hub-and-corridor analysis. Most climate analysis references prior work (CCVI assessments, niche models, NCA4/NCA5) rather than performing new original analysis, with LDWF incorporating results from partner organizations.",
+    "evidence_index": [
+      {
+        "text": "A species is considered vulnerable to climate change if it is both sensitive and exposed to climate change impacts (Williams et al. 2008). For example, a species may be exposed to climate change, because it experiences an impact like warmer stream temperatures; but if it is resilient to that change or able to disperse into new habitats, it may, ultimately, have low vulnerability.",
+        "location": "Ch. 10: Louisiana: A Regional Perspective, SPECIES' RESPONSE TO CHANGES IN CLIMATE",
+        "relevant_elements": ["1.1", "1.2"]
+      },
+      {
+        "text": "Understanding why species and ecosystems are vulnerable or potentially less resilient is a critical first step in developing effective conservation strategies. This vulnerability is based on sensitivity, exposure, and the ability to adapt.",
+        "location": "Ch. 10: Louisiana: A Regional Perspective, SPECIES' RESPONSE TO CHANGES IN CLIMATE",
+        "relevant_elements": ["1.1", "1.2"]
+      },
+      {
+        "text": "Two common tools that have been used to determine climate vulnerability of species are (1) the Climate Change Vulnerability Index (CCVIs)(Young et al. 2016) developed by NatureServe and (2) environmental niche modeling-based vulnerability estimates produced by the academic research community.",
+        "location": "Ch. 10: Louisiana: A Regional Perspective, TABLE 10.5",
+        "relevant_elements": ["1.1", "2.1", "2.2"]
+      },
+      {
+        "text": "the resulting climate change vulnerability score is distinct from NatureServe's national vulnerability ranking system that considers other threats. A species could score as not particularly vulnerable in terms of its Global or State rank (G- or S-rank), but could still rate as vulnerable to climate change. CCVI is based on an evaluation of the species' direct and indirect exposure to climate change and its sensitivity to climate change.",
+        "location": "Ch. 10: Louisiana: A Regional Perspective, TABLE 10.5",
+        "relevant_elements": ["1.1", "2.1"]
+      },
+      {
+        "text": "Species with low adaptive capacity such as those with specialized habitat needs or limited dispersal ability face higher vulnerability to these changes.",
+        "location": "Ch. 10: Louisiana: A Regional Perspective, SPECIES' RESPONSE TO CHANGES IN CLIMATE",
+        "relevant_elements": ["1.2", "1.3"]
+      },
+      {
+        "text": "Turtles may be particularly vulnerable; long generation times, low hatchling survival, low dispersal rates, and temperature-dependent sex determination make them ill-adapted to climate change (Gibbons et al. 2000, Ihlow et al. 2012, Butler 2019).",
+        "location": "Ch. 4: Species of Greatest Conservation Need, AMPHIBIAN AND REPTILE THREATS",
+        "relevant_elements": ["1.2", "1.3"]
+      },
+      {
+        "text": "However, species-specific traits and varying adaptive capacity of amphibians lead to species responding differently to changes in climatic conditions (Davis et al. 2017).",
+        "location": "Ch. 10: Louisiana: A Regional Perspective, CASE STUDY",
+        "relevant_elements": ["1.2", "1.3"]
+      },
+      {
+        "text": "The Blueprint also includes a connectivity analysis that identifies corridors that link coastal and inland areas and span climate gradients. Based on a least-cost path analysis, hubs provide anchors to link corridors across the shortest distance possible, while also routing through Blueprint priority areas.",
+        "location": "Ch. 10: Louisiana: A Regional Perspective, LOUISIANA AND THE SOUTHEAST CONSERVATION ADAPTATION STRATEGY (SECAS)",
+        "relevant_elements": ["1.4", "2.4", "4.2"]
+      },
+      {
+        "text": "About 13 million acres (39%) within Louisiana are considered hubs or corridors, providing many conservation opportunities to support species movement and migration, an important consideration for supporting wildlife adaptation to landscape-level changes (Figure 10.3).",
+        "location": "Ch. 10: Louisiana: A Regional Perspective, LOUISIANA AND THE SOUTHEAST CONSERVATION ADAPTATION STRATEGY (SECAS)",
+        "relevant_elements": ["1.4", "2.4", "4.2"]
+      },
+      {
+        "text": "Considering landscape connectivity across jurisdictional borders is becoming increasingly important for species management, as changes in land-use, climate, and weather patterns can shift",
+        "location": "Ch. 10: Louisiana: A Regional Perspective, LOUISIANA AND THE SOUTHEAST CONSERVATION ADAPTATION STRATEGY (SECAS)",
+        "relevant_elements": ["1.4", "3.1"]
+      },
+      {
+        "text": "For Louisiana, 176 SGCN have been scored by 400 CCVI estimates to date by other institutions (Armsworth et al. 2025).",
+        "location": "Ch. 10: Louisiana: A Regional Perspective, Summary of Available Climate Change Vulnerability Indices",
+        "relevant_elements": ["2.1"]
+      },
+      {
+        "text": "It draws from CCVI assessments published in four SWAPs in the Southeast (West Virginia DNR 2011; Tennessee SWAP Team 2015; Florida FWC 2011; and Louisiana, Holcomb et al. 2015) as well as the Illinois SWAP",
+        "location": "Ch. 10: Louisiana: A Regional Perspective, Summary of Available Climate Change Vulnerability Indices",
+        "relevant_elements": ["2.1"]
+      },
+      {
+        "text": "For Louisiana, 173 SGCN have been evaluated, which consists of ~450 vulnerability scores (note: some species have multiple scores for different future climate scenarios) across 12 academic research studies",
+        "location": "Ch. 10: Louisiana: A Regional Perspective, Summary of Available Ecological Niche Models",
+        "relevant_elements": ["2.2"]
+      },
+      {
+        "text": "An ecological niche model (also called a species distribution model) is a common approach for evaluating a species' vulnerability to climate change. These models, typically created by the academic research community, start by identifying shared climate conditions at sites where a species is known to have occurred and then predict where similar climate conditions may be found on the landscape in the future.",
+        "location": "Ch. 10: Louisiana: A Regional Perspective, TABLE 10.5",
+        "relevant_elements": ["2.2"]
+      },
+      {
+        "text": "The Fifth National Climate Assessment (NCA5; USGCRP 2023) used newly developed climate projections created with Shared Socioeconomic Pathways (SSPs)... The climate projections used in the NCA5 were created using global climate models from the Coupled Model Intercomparison Project Phase 6 (CMIP6) that were statistically downscaled",
+        "location": "Ch. 10: Louisiana: A Regional Perspective, CLIMATE RESILIENCY",
+        "relevant_elements": ["2.3"]
+      },
+      {
+        "text": "The most recent climate projections used in the NCA5 and associated climate parameters can be viewed on the National Climate Change Viewer. This tool, developed by USGS, allows for visualizations of climate change impacts such as days of extreme heat under projections of degree warming days, under SSP-based scenarios, and GWLs (Alder and Hostetler 2013).",
+        "location": "Ch. 10: Louisiana: A Regional Perspective, CLIMATE RESILIENCY",
+        "relevant_elements": ["2.3"]
+      },
+      {
+        "text": "The Blueprint also includes a connectivity analysis that identifies corridors that link coastal and inland areas and span climate gradients. Based on a least-cost path analysis, hubs provide anchors to link corridors across the shortest distance possible",
+        "location": "Ch. 10: Louisiana: A Regional Perspective, LOUISIANA AND THE SOUTHEAST CONSERVATION ADAPTATION STRATEGY (SECAS)",
+        "relevant_elements": ["2.4"]
+      },
+      {
+        "text": "Compared to the rest of the state, this area has somewhat lower terrestrial resilience to changes in climate. Further, as of 2021, 7.1% of the acres in this COA has been identified as urban with an additional 24.8% considered to have at least a moderate probability for urbanization by 2060",
+        "location": "Ch. 7: Conservation Opportunity Areas, AMITE-TICKFAW",
+        "relevant_elements": ["3.1", "4.1"]
+      },
+      {
+        "text": "The COAs identified in this SWAP afford the Louisiana Department of Wildlife and Fisheries (LDWF) and partners some of the best opportunities for SGCN conservation, research, and monitoring. However, conservation actions carried out in other areas of the state are not devalued by this methodology.",
+        "location": "Ch. 7: Conservation Opportunity Areas, CONSERVATION OPPORTUNITY AREAS NEED AND OVERVIEW",
+        "relevant_elements": ["4.1", "3.1"]
+      },
+      {
+        "text": "NOAA sea level rise inundation data indicates nearly all the island acres evaluated would be affected by a 2.7' sea level rise by 2060.",
+        "location": "Ch. 7: Conservation Opportunity Areas, BARATARIA-TERREBONNE",
+        "relevant_elements": ["3.5", "4.1"]
+      },
+      {
+        "text": "Sea level rise, subsidence (i.e. sinking of the land), storms, invasive species, and oil spills...have further stressed Louisiana's coastal environment.",
+        "location": "Ch. 2: State Overview, GEOLOGY COASTAL ZONE",
+        "relevant_elements": ["3.5"]
+      },
+      {
+        "text": "Predicted alterations to ecosystems from climate change such as sea level rise, an increase in intensity and frequency of severe weather events, ocean acidification, alterations to ocean currents, and changes in environmental conditions can directly influence habitat availability (Pershing et al. 2018).",
+        "location": "Ch. 4: Species of Greatest Conservation Need, MARINE FISH THREATS",
+        "relevant_elements": ["3.5"]
+      },
+      {
+        "text": "The predicted increases in the magnitude and frequency of tropical cyclones, the increase in sea level rise, and the exacerbation of salt water intrusion will be particularly injurious to coastal species",
+        "location": "Ch. 4: Species of Greatest Conservation Need, AMPHIBIAN AND REPTILE THREATS",
+        "relevant_elements": ["3.5", "3.6"]
+      },
+      {
+        "text": "Increased storm frequency and intensity associated with climate change would subject Freshwater Marsh to a greater disturbance and potentially result in higher incidences of saltwater intrusion in concert with SLR.",
+        "location": "Ch. 5: Natural Communities, FRESHWATER MARSH, Threats",
+        "relevant_elements": ["3.5"]
+      },
+      {
+        "text": "Mass mortality events have been observed in intertidal communities following recent marine heatwaves.",
+        "location": "Ch. 10: Louisiana: A Regional Perspective",
+        "relevant_elements": ["3.6"]
+      },
+      {
+        "text": "In addition, extreme flooding events can increase opportunities for predators of amphibians; a recent monitoring study of the Coastal Plain of the southeastern United States found that the most prominent effects of flooding on the amphibian community were caused by changes in the fish community that led to increased predation of amphibians and resource competition (Davis et al. 2022).",
+        "location": "Ch. 10: Louisiana: A Regional Perspective, CASE STUDY",
+        "relevant_elements": ["3.6"]
+      },
+      {
+        "text": "Warming temperatures resulting from climate change may facilitate the spread and establishment of non-native species, which can increase competition with native species (Hitt et al. 2016).",
+        "location": "Ch. 4: Species of Greatest Conservation Need, AMPHIBIAN AND REPTILE THREATS",
+        "relevant_elements": ["3.7"]
+      },
+      {
+        "text": "A warming climate will also likely increase potential for invasive species to colonize new areas and to reach saturation levels in existing infestation, rendering these species impossible to manage and likely causing a significant loss of biodiversity and natural community function.",
+        "location": "Ch. 4: Species of Greatest Conservation Need, PLANT THREATS",
+        "relevant_elements": ["3.7"]
+      },
+      {
+        "text": "Future climate projections forecast more extreme temperatures and tropicalization of these habitats, which will further constrict the viable range of amphibian species distribution in the Southeast (Salas et al. 2017, Ansley et al. 2022).",
+        "location": "Ch. 10: Louisiana: A Regional Perspective, CASE STUDY",
+        "relevant_elements": ["1.1", "3.7"]
+      },
+      {
+        "text": "The 2025 Louisiana Conservation Opportunity Areas. Figure 7.2. Conservation Opportunity Areas and Conservation Lands.",
+        "location": "List of Tables / Figures",
+        "relevant_elements": ["4.1"]
+      },
+      {
+        "text": "h Action Strategy: Establish and protect habitat corridors to provide critical habitat for SGCN to mitigate impacts from climactic shifts. h Action Strategy: Acquire property to increase and support critical habitat to mitigate future impacts from climate change.",
+        "location": "Ch. 8: Threats, CLIMATE CHANGE, ECOSYSTEM ENCROACHMENT",
+        "relevant_elements": ["4.2", "1.4"]
+      },
+      {
+        "text": "h Action Strategy: Protect upslope environments to provide critical habitat for SGCN to mitigate impacts from sea level rise.",
+        "location": "Ch. 8: Threats, CLIMATE CHANGE, ECOSYSTEM ENCROACHMENT",
+        "relevant_elements": ["4.2", "3.5"]
+      },
+      {
+        "text": "Resilient sites offer diversity in microhabitat and niche types to support biodiversity while remaining connected to other sites to facilitate migration opportunities. Typically, these sites feature minimal barriers to migration and limited habitat fragmentation, which further enhances species diversity and overall ecosystem function.",
+        "location": "Ch. 8: Threats, CLIMATE CHANGE, ECOSYSTEM ENCROACHMENT",
+        "relevant_elements": ["1.4", "4.1"]
+      },
+      {
+        "text": "The Louisiana Department of Wildlife and Fisheries commits to a comprehensive review and revision of the 2025 SWAP by 1 October 2035.",
+        "location": "Ch. 3: Approach, PUBLIC AND PARTNER INVOLVEMENT",
+        "relevant_elements": ["4.3"]
+      },
+      {
+        "text": "TRACS also documents grant performance and standardizes reporting of accomplishments through numerical metrics identified by objectives that are specific, measureable, achievable, relevant, and time bound (SMART).",
+        "location": "Ch. 9: Monitoring, EFFECTIVENESS OF CONSERVATION ACTIONS",
+        "relevant_elements": ["4.3"]
+      },
+      {
+        "text": "Adaptive management is a four-phase cycle, in which each phase leads into the next, and is a continual process (Stankey et al. 2005).",
+        "location": "Ch. 9: Monitoring, ADAPTIVE MANAGEMENT",
+        "relevant_elements": ["4.3", "4.5"]
+      },
+      {
+        "text": "Two well-known examples of frameworks include the Resist-Accept-Direct (RAD) Framework developed by the U.S. National Park Service and the Climate Adaptation in Practice: Resistance, Resilience and Transition (RRT) Framework developed by Colorado State University.",
+        "location": "Ch. 10: Louisiana: A Regional Perspective, ADAPTATION STRATEGIES",
+        "relevant_elements": ["4.5"]
+      },
+      {
+        "text": "The Adaptation Workbook (Swanston et al. 2016), a compilation of resources developed by the Northern Institute of Applied Climate Science and its partners, provides an excellent overview of strategies.",
+        "location": "Ch. 10: Louisiana: A Regional Perspective, ADAPTATION STRATEGIES",
+        "relevant_elements": ["4.5"]
+      },
+      {
+        "text": "The AFWA 2022 (2nd Edition) Voluntary Guidance for States to Incorporate Climate Adaptation into State Wildlife Action Plans and Other Management Plans provides recommended steps for developing and implementing adaptation strategies. Much of the guidance includes taking a broader, regional approach to incorporating climate adaptation into SWAPs.",
+        "location": "Ch. 10: Louisiana: A Regional Perspective, CLIMATE RESILIENCY",
+        "relevant_elements": ["4.5"]
+      },
+      {
+        "text": "In addition, some of the threats that impact SGCN (e.g., climate change), as well as the residents and local economies of the state, are at a regional level. Addressing these threats effectively requires aligning conservation strategies across state boundaries.",
+        "location": "Ch. 10: Louisiana: A Regional Perspective, INTRODUCTION",
+        "relevant_elements": ["3.1", "3.4"]
+      },
+      {
+        "text": "LDWF worked with the USFWS Science Applications Migratory Birds Program and the Southeast Conservation Adaptation Strategy (SECAS) to redefine the 2015 Conservation Opportunity Areas (COAs).",
+        "location": "Summary of Changes",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "Identifying adaptation strategies to address impacts and vulnerability is a step towards climate resiliency. Climate adaptation and mitigation come in various forms, and multiple frameworks have been built to support planning and implementation of climate adaptation.",
+        "location": "Ch. 10: Louisiana: A Regional Perspective, ADAPTATION STRATEGIES",
+        "relevant_elements": ["4.5"]
+      },
+      {
+        "text": "Niche model results can be used in tandem with CCVI estimates to enhance the understanding of a given species' vulnerability, as CCVIs and niche models have complementary strengths that can help land managers make informed conservation decisions.",
+        "location": "Ch. 10: Louisiana: A Regional Perspective, TABLE 10.5",
+        "relevant_elements": ["2.1", "2.2", "1.1"]
+      },
+      {
+        "text": "Many mussel populations are already near their thermal maxima, and additional increases in temperature could cause altered metabolic rates which would decrease growth and reproduction (Ganser et al. 2015). Droughts, also expected to increase in severity, lead to reduced streamflow, which increases the risk of desiccation, but also contributes to warming water temperatures and decreased oxygen levels.",
+        "location": "Ch. 4: Species of Greatest Conservation Need, MOLLUSK THREATS",
+        "relevant_elements": ["3.5", "3.6", "1.3"]
+      },
+      {
+        "text": "Shifting hydroperiods and variations in water availability due to climate change can influence amphibian breeding seasons, larval development, and body size, and have profound impacts on extinction rates (Walls et al. 2013, Davis et al. 2017, LeSage et al. 2022).",
+        "location": "Ch. 10: Louisiana: A Regional Perspective, CASE STUDY",
+        "relevant_elements": ["3.6", "1.3"]
+      },
+      {
+        "text": "Due to their unique life history characteristics, mollusks are one of the most susceptible taxa to climate change (Halpern and Kappel 2012, Poff et al. 2012, Ingram et al. 2013).",
+        "location": "Ch. 4: Species of Greatest Conservation Need, MOLLUSK THREATS",
+        "relevant_elements": ["1.3", "1.1"]
+      },
+      {
+        "text": "Maintaining connectivity between territories and populations will continue to be a challenge as habitats become increasingly fragmented by roads and urban development.",
+        "location": "Ch. 4: Species of Greatest Conservation Need, MAMMAL THREATS",
+        "relevant_elements": ["1.4"]
+      },
+      {
+        "text": "Increase connectivity through the establishment and maintenance of corridors.",
+        "location": "Ch. 4: Species of Greatest Conservation Need, TABLE 4.14. Mammal General Research Needs and Conservation Actions",
+        "relevant_elements": ["1.4", "4.2"]
+      },
+      {
+        "text": "Predicted alterations to ecosystems from climate change -increased weather extremes (e.g., increased rainfall and increased drought), increased magnitude and duration of maximum temperatures, and other effects -will alter the distribution, richness, and abundance of non-crustacean arthropods.",
+        "location": "Ch. 4: Species of Greatest Conservation Need, NON-CRUSTACEAN ARTHROPOD THREATS",
+        "relevant_elements": ["3.5", "1.1"]
+      },
+      {
+        "text": "The Southeast Conservation Blueprint (v2024; Blueprint) is the primary product of SECAS and is a living, spatial plan that identifies priority areas where conservation action would make an impact, based on a suite of natural and cultural resource indicators, towards creating a connected network of lands and waters across the Southeast.",
+        "location": "Ch. 10: Louisiana: A Regional Perspective, LOUISIANA AND THE SOUTHEAST CONSERVATION ADAPTATION STRATEGY (SECAS)",
+        "relevant_elements": ["4.1", "2.4"]
+      }
+    ]
+  },
+  "concepts": {
+    "climate_vulnerability": {
+      "evaluable": true,
+      "score": 3,
+      "evidence": [
+        {
+          "text": "A species is considered vulnerable to climate change if it is both sensitive and exposed to climate change impacts (Williams et al. 2008). For example, a species may be exposed to climate change, because it experiences an impact like warmer stream temperatures; but if it is resilient to that change or able to disperse into new habitats, it may, ultimately, have low vulnerability.",
+          "location": "Ch. 10: Louisiana: A Regional Perspective, SPECIES' RESPONSE TO CHANGES IN CLIMATE",
+          "sub_component": "exposure",
+          "citations": ["Williams et al. 2008"]
+        },
+        {
+          "text": "CCVI is based on an evaluation of the species' direct and indirect exposure to climate change and its sensitivity to climate change. To date, several SEAFWA states (West Virginia DNR 2011; Tennessee SWAP Team 2015; Florida FWC 2011; and Louisiana, Holcomb et al. 2015) have used the CCVI tool to conduct assessments of their SGCN",
+          "location": "Ch. 10: Louisiana: A Regional Perspective, TABLE 10.5",
+          "sub_component": "exposure",
+          "citations": ["West Virginia DNR 2011", "Tennessee SWAP Team 2015", "Florida FWC 2011", "Louisiana, Holcomb et al. 2015"]
+        },
+        {
+          "text": "Species with low adaptive capacity such as those with specialized habitat needs or limited dispersal ability face higher vulnerability to these changes.",
+          "location": "Ch. 10: Louisiana: A Regional Perspective, SPECIES' RESPONSE TO CHANGES IN CLIMATE",
+          "sub_component": "adaptive capacity",
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "adaptive_capacity_specificity": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Turtles may be particularly vulnerable; long generation times, low hatchling survival, low dispersal rates, and temperature-dependent sex determination make them ill-adapted to climate change (Gibbons et al. 2000, Ihlow et al. 2012, Butler 2019).",
+          "location": "Ch. 4: Species of Greatest Conservation Need, AMPHIBIAN AND REPTILE THREATS",
+          "sub_component": null,
+          "citations": ["Gibbons et al. 2000", "Ihlow et al. 2012", "Butler 2019"]
+        },
+        {
+          "text": "However, species-specific traits and varying adaptive capacity of amphibians lead to species responding differently to changes in climatic conditions (Davis et al. 2017).",
+          "location": "Ch. 10: Louisiana: A Regional Perspective, CASE STUDY",
+          "sub_component": null,
+          "citations": ["Davis et al. 2017"]
+        }
+      ],
+      "absence_note": {}
+    },
+    "adaptive_capacity_components": {
+      "demography": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Turtles may be particularly vulnerable; long generation times, low hatchling survival, low dispersal rates, and temperature-dependent sex determination make them ill-adapted to climate change (Gibbons et al. 2000, Ihlow et al. 2012, Butler 2019).",
+            "location": "Ch. 4: Species of Greatest Conservation Need, AMPHIBIAN AND REPTILE THREATS",
+            "sub_component": null,
+            "citations": ["Gibbons et al. 2000", "Ihlow et al. 2012", "Butler 2019"]
+          }
+        ]
+      },
+      "distribution": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Future climate projections forecast more extreme temperatures and tropicalization of these habitats, which will further constrict the viable range of amphibian species distribution in the Southeast (Salas et al. 2017, Ansley et al. 2022).",
+            "location": "Ch. 10: Louisiana: A Regional Perspective, CASE STUDY",
+            "sub_component": null,
+            "citations": ["Salas et al. 2017", "Ansley et al. 2022"]
+          }
+        ]
+      },
+      "movement": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Species with low adaptive capacity such as those with specialized habitat needs or limited dispersal ability face higher vulnerability to these changes.",
+            "location": "Ch. 10: Louisiana: A Regional Perspective, SPECIES' RESPONSE TO CHANGES IN CLIMATE",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "evolutionary_potential": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "h Action Strategy: Promote genetic diversity and local ecotypes to promote population resiliency to extreme weather events.",
+            "location": "Ch. 8: Threats, CLIMATE CHANGE, SEVERE AND EXTREME WEATHER EVENTS",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecological_dependencies": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "As the climate changes, organisms with mutualistic relationships with native species may decline as well, impacting pollination and seed dispersal for many plant species (Fontúrbel et al. 2021).",
+            "location": "Ch. 4: Species of Greatest Conservation Need, PLANT THREATS",
+            "sub_component": null,
+            "citations": ["Fontúrbel et al. 2021"]
+          }
+        ]
+      },
+      "abiotic_niche": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Many mussels and their host fish, already living at the upper limits of their thermal tolerances (Khan et al. 2019), are susceptible to the clearing of vegetation in riparian zones and the resultant increase in water temperatures",
+            "location": "Ch. 4: Species of Greatest Conservation Need, MOLLUSK THREATS",
+            "sub_component": null,
+            "citations": ["Khan et al. 2019"]
+          }
+        ]
+      },
+      "life_history": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Turtles may be particularly vulnerable; long generation times, low hatchling survival, low dispersal rates, and temperature-dependent sex determination make them ill-adapted to climate change (Gibbons et al. 2000, Ihlow et al. 2012, Butler 2019).",
+            "location": "Ch. 4: Species of Greatest Conservation Need, AMPHIBIAN AND REPTILE THREATS",
+            "sub_component": null,
+            "citations": ["Gibbons et al. 2000", "Ihlow et al. 2012", "Butler 2019"]
+          }
+        ]
+      }
+    },
+    "connectivity": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "The Blueprint also includes a connectivity analysis that identifies corridors that link coastal and inland areas and span climate gradients. Based on a least-cost path analysis, hubs provide anchors to link corridors across the shortest distance possible, while also routing through Blueprint priority areas.",
+          "location": "Ch. 10: Louisiana: A Regional Perspective, LOUISIANA AND THE SOUTHEAST CONSERVATION ADAPTATION STRATEGY (SECAS)",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Resilient sites offer diversity in microhabitat and niche types to support biodiversity while remaining connected to other sites to facilitate migration opportunities. Typically, these sites feature minimal barriers to migration and limited habitat fragmentation, which further enhances species diversity and overall ecosystem function.",
+          "location": "Ch. 8: Threats, CLIMATE CHANGE, ECOSYSTEM ENCROACHMENT",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    }
+  },
+  "tools": {
+    "vulnerability_models": {
+      "evaluable": true,
+      "score": 2,
+      "named_tools": ["CCVI", "NatureServe CCVI"],
+      "evidence": [
+        {
+          "text": "For Louisiana, 176 SGCN have been scored by 400 CCVI estimates to date by other institutions (Armsworth et al. 2025).",
+          "location": "Ch. 10: Louisiana: A Regional Perspective, Summary of Available Climate Change Vulnerability Indices",
+          "sub_component": null,
+          "citations": ["Armsworth et al. 2025"]
+        },
+        {
+          "text": "Two common tools that have been used to determine climate vulnerability of species are (1) the Climate Change Vulnerability Index (CCVIs)(Young et al. 2016) developed by NatureServe and (2) environmental niche modeling-based vulnerability estimates produced by the academic research community.",
+          "location": "Ch. 10: Louisiana: A Regional Perspective, TABLE 10.5",
+          "sub_component": null,
+          "citations": ["Young et al. 2016"]
+        }
+      ],
+      "absence_note": {}
+    },
+    "niche_models": {
+      "evaluable": true,
+      "score": 2,
+      "named_tools": ["species distribution model", "ecological niche model"],
+      "evidence": [
+        {
+          "text": "For Louisiana, 173 SGCN have been evaluated, which consists of ~450 vulnerability scores (note: some species have multiple scores for different future climate scenarios) across 12 academic research studies",
+          "location": "Ch. 10: Louisiana: A Regional Perspective, Summary of Available Ecological Niche Models",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "An ecological niche model (also called a species distribution model) is a common approach for evaluating a species' vulnerability to climate change. These models, typically created by the academic research community, start by identifying shared climate conditions at sites where a species is known to have occurred and then predict where similar climate conditions may be found on the landscape in the future.",
+          "location": "Ch. 10: Louisiana: A Regional Perspective, TABLE 10.5",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "Niche models were applied to Louisiana SGCN but largely via results aggregated from prior academic studies rather than new analysis performed by LDWF. Per codebook §4 rule 2, incorporating prior tool-based results into management decisions counts as 'applied.'"
+    },
+    "climate_models": {
+      "evaluable": true,
+      "score": 2,
+      "named_tools": ["CMIP6", "National Climate Change Viewer", "SSPs", "RCPs"],
+      "evidence": [
+        {
+          "text": "The climate projections used in the NCA5 were created using global climate models from the Coupled Model Intercomparison Project Phase 6 (CMIP6) that were statistically downscaled to translate large scale changes in the climate under a given SSP or GWL to local scales for impact assessment and planning (Basile et al. 2023).",
+          "location": "Ch. 10: Louisiana: A Regional Perspective, CLIMATE RESILIENCY",
+          "sub_component": null,
+          "citations": ["Basile et al. 2023"]
+        },
+        {
+          "text": "The most recent climate projections used in the NCA5 and associated climate parameters can be viewed on the National Climate Change Viewer. This tool, developed by USGS, allows for visualizations of climate change impacts such as days of extreme heat under projections of degree warming days, under SSP-based scenarios, and GWLs (Alder and Hostetler 2013).",
+          "location": "Ch. 10: Louisiana: A Regional Perspective, CLIMATE RESILIENCY",
+          "sub_component": null,
+          "citations": ["Alder and Hostetler 2013"]
+        }
+      ],
+      "absence_note": {},
+      "time_horizon_years": [2060, 2100, 2150],
+      "emission_scenarios": ["SSP1-2.6", "SSP2-4.5", "SSP5-8.5", "RCP2.6", "RCP4.5", "RCP8.5"]
+    },
+    "connectivity_models": {
+      "evaluable": true,
+      "score": 2,
+      "named_tools": ["least-cost path", "Southeast Conservation Blueprint"],
+      "evidence": [
+        {
+          "text": "The Blueprint also includes a connectivity analysis that identifies corridors that link coastal and inland areas and span climate gradients. Based on a least-cost path analysis, hubs provide anchors to link corridors across the shortest distance possible, while also routing through Blueprint priority areas.",
+          "location": "Ch. 10: Louisiana: A Regional Perspective, LOUISIANA AND THE SOUTHEAST CONSERVATION ADAPTATION STRATEGY (SECAS)",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "The Southeast Conservation Blueprint (v2024; Blueprint) is the primary product of SECAS and is a living, spatial plan that identifies priority areas where conservation action would make an impact, based on a suite of natural and cultural resource indicators, towards creating a connected network of lands and waters across the Southeast.",
+          "location": "Ch. 10: Louisiana: A Regional Perspective, LOUISIANA AND THE SOUTHEAST CONSERVATION ADAPTATION STRATEGY (SECAS)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    }
+  },
+  "context": {
+    "management_scale": {
+      "local": {
+        "present": false,
+        "evidence": []
+      },
+      "site": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "About 13 million acres (39%) within Louisiana are considered hubs or corridors, providing many conservation opportunities to support species movement and migration, an important consideration for supporting wildlife adaptation to landscape-level changes (Figure 10.3).",
+            "location": "Ch. 10: Louisiana: A Regional Perspective, LOUISIANA AND THE SOUTHEAST CONSERVATION ADAPTATION STRATEGY (SECAS)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "watershed": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "For most ecoregions of the state (Figure 2.2), there was minimal overlap of the sets of actions, and most of the boundaries closely conformed to watershed boundaries.",
+            "location": "Ch. 7: Conservation Opportunity Areas, STEP 5: IDENTIFYING CONSERVATION OPPORTUNITY AREAS",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "city": {
+        "present": false,
+        "evidence": []
+      },
+      "county": {
+        "present": false,
+        "evidence": []
+      },
+      "within_state_region": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Compared to the rest of the state, this area has somewhat lower terrestrial resilience to changes in climate. Further, as of 2021, 7.1% of the acres in this COA has been identified as urban",
+            "location": "Ch. 7: Conservation Opportunity Areas, AMITE-TICKFAW",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "state": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The Blueprint recognizes almost 22 million acres, or roughly 66% of the state, as a priority for connecting the region's lands and waters",
+            "location": "Ch. 10: Louisiana: A Regional Perspective, LOUISIANA AND THE SOUTHEAST CONSERVATION ADAPTATION STRATEGY (SECAS)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "multistate": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Addressing these threats effectively requires aligning conservation strategies across state boundaries. By using consistent regional information shared by other states to inform their SWAPs, Louisiana may be able to better address its contributions to regional conservation priorities",
+            "location": "Ch. 10: Louisiana: A Regional Perspective, INTRODUCTION",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "national": {
+        "present": false,
+        "evidence": []
+      },
+      "transnational": {
+        "present": false,
+        "evidence": []
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The Southeast Conservation Adaptation Strategy (SECAS) is a regional conservation initiative that spans the southeastern United States and the Caribbean. SECAS brings together diverse partners around an ambitious goal: a 10% or greater improvement in the health, function, and connectivity of southeastern ecosystems by 2060.",
+            "location": "Ch. 10: Louisiana: A Regional Perspective, LOUISIANA AND THE SOUTHEAST CONSERVATION ADAPTATION STRATEGY (SECAS)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecoregion": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Using species richness of reptile RSGCN that fall within the high concern category occur predominantly within the East Gulf Coastal Plain and Mississippi River Alluvial Plain ecoregions (Figure 10.13).",
+            "location": "Ch. 10: Louisiana: A Regional Perspective, IDENTIFYING SHARED PRIORITIES ACROSS THE LANDSCAPE TO SUPPORT REGIONAL SPECIES OF GREATEST CONSERVATION NEED",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "province": {
+        "present": false,
+        "evidence": []
+      },
+      "section": {
+        "present": false,
+        "evidence": []
+      },
+      "subsection": {
+        "present": false,
+        "evidence": []
+      },
+      "lake": {
+        "present": false,
+        "evidence": []
+      },
+      "river": {
+        "present": false,
+        "evidence": []
+      },
+      "district": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["East Gulf Coastal Plain", "Mississippi River Alluvial Plain", "Gulf Coast Prairies and Marshes", "Barataria-Terrebonne", "Chandeleurs", "Amite-Tickfaw COA", "Bogue Chitto-Pearl COA", "Calcasieu Prairie COA", "Southeast region (SECAS)"]
+    },
+    "biological_unit_score": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Future climate projections forecast more extreme temperatures and tropicalization of these habitats, which will further constrict the viable range of amphibian species distribution in the Southeast (Salas et al. 2017, Ansley et al. 2022).",
+          "location": "Ch. 10: Louisiana: A Regional Perspective, CASE STUDY",
+          "sub_component": "species",
+          "citations": ["Salas et al. 2017", "Ansley et al. 2022"]
+        },
+        {
+          "text": "Increased storm frequency and intensity associated with climate change would subject Freshwater Marsh to a greater disturbance and potentially result in higher incidences of saltwater intrusion in concert with SLR.",
+          "location": "Ch. 5: Natural Communities, FRESHWATER MARSH, Threats",
+          "sub_component": "habitat",
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "biological_unit_components": {
+      "species": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Comparing the results of the ecological niche models to the CCVI estimates for SGCN within Louisiana reveals similar trends for taxa that were evaluated using both methods. All assessed taxa (including plants) will experience some vulnerability and some decreases in suitable range due to climate change.",
+            "location": "Ch. 10: Louisiana: A Regional Perspective, Comparing CCVI and Available Ecological Niche Models Results",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "population": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Many amphibians that inhabit these wetlands are consistently listed in the IUCN Red List as vulnerable, endangered, or critically endangered (Adams et al. 2013, Li et al. 2013, Halsted et al. 2022). Several studies have shown that climatic changes affecting temperature and rainfall patterns can result in negative consequences to amphibians that rely on wetlands, leading to population and occurrence declines",
+            "location": "Ch. 10: Louisiana: A Regional Perspective, CASE STUDY",
+            "sub_component": null,
+            "citations": ["Adams et al. 2013", "Li et al. 2013", "Halsted et al. 2022"]
+          }
+        ]
+      },
+      "habitat": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Increased storm frequency and intensity associated with climate change would subject Freshwater Marsh to a greater disturbance and potentially result in higher incidences of saltwater intrusion in concert with SLR.",
+            "location": "Ch. 5: Natural Communities, FRESHWATER MARSH, Threats",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "In the Southeast, climate change will have pervasive impacts on natural habitats, ecological processes, and ecosystem services, and regional efforts to mitigate or adapt to these impacts will be extremely important.",
+            "location": "Ch. 10: Louisiana: A Regional Perspective, CLIMATE RESILIENCY",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "community": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "In general, temperature regimes of freshwater ecosystems are projected to increase in parallel with shifts in air temperatures, which, in turn, may alter plant and animal communities (Princé and Zuckerberg 2015).",
+            "location": "Ch. 10: Louisiana: A Regional Perspective, CLIMATE RESILIENCY, Extreme Storms and Precipitation Events, Warmer Waters, and Altered Flows",
+            "sub_component": null,
+            "citations": ["Princé and Zuckerberg 2015"]
+          }
+        ]
+      },
+      "genotype_phenotype": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["Louisiana amphibian SGCN", "freshwater mussels", "marine fishes", "sea turtles", "Barrier Islands", "Freshwater Marsh", "Salt Marsh", "Longleaf Pine savanna and woodland", "coastal wetlands", "East Gulf Coastal Plain SGCN", "reptiles", "birds"]
+    },
+    "partnerships_and_funding": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "LDWF worked with the USFWS Science Applications Migratory Birds Program and the Southeast Conservation Adaptation Strategy (SECAS) to redefine the 2015 Conservation Opportunity Areas (COAs). This resulted in fewer COAs (11 instead of 30).",
+          "location": "Summary of Changes",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "In 2020, LDWF partnered with U.S. Fish and Wildlife Service (USFWS) staff supporting the Southeast Conservation Adaptation Strategy to better target acquisition and management projects.",
+          "location": "Ch. 7: Conservation Opportunity Areas, IDENTIFYING COAs",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_threat_habitat_degradation": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Predicted alterations to ecosystems from climate change such as sea level rise, an increase in intensity and frequency of severe weather events, ocean acidification, alterations to ocean currents, and changes in environmental conditions can directly influence habitat availability (Pershing et al. 2018).",
+          "location": "Ch. 4: Species of Greatest Conservation Need, MARINE FISH THREATS",
+          "sub_component": null,
+          "citations": ["Pershing et al. 2018"]
+        },
+        {
+          "text": "Increased storm frequency and intensity associated with climate change would subject Freshwater Marsh to a greater disturbance and potentially result in higher incidences of saltwater intrusion in concert with SLR.",
+          "location": "Ch. 5: Natural Communities, FRESHWATER MARSH, Threats",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_threat_species_vital_rates": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Shifting hydroperiods and variations in water availability due to climate change can influence amphibian breeding seasons, larval development, and body size, and have profound impacts on extinction rates (Walls et al. 2013, Davis et al. 2017, LeSage et al. 2022).",
+          "location": "Ch. 10: Louisiana: A Regional Perspective, CASE STUDY",
+          "sub_component": null,
+          "citations": ["Walls et al. 2013", "Davis et al. 2017", "LeSage et al. 2022"]
+        },
+        {
+          "text": "In addition, extreme weather has been documented to cause high mortality events.",
+          "location": "Ch. 8: Threats, CLIMATE CHANGE, SEVERE AND EXTREME WEATHER EVENTS",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_threat_biotic_stressors": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Warming temperatures resulting from climate change may facilitate the spread and establishment of non-native species, which can increase competition with native species (Hitt et al. 2016).",
+          "location": "Ch. 4: Species of Greatest Conservation Need, AMPHIBIAN AND REPTILE THREATS",
+          "sub_component": null,
+          "citations": ["Hitt et al. 2016"]
+        },
+        {
+          "text": "A warming climate will also likely increase potential for invasive species to colonize new areas and to reach saturation levels in existing infestation, rendering these species impossible to manage and likely causing a significant loss of biodiversity and natural community function.",
+          "location": "Ch. 4: Species of Greatest Conservation Need, PLANT THREATS",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    }
+  },
+  "actions": {
+    "priority_habitat_identification": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "The 2025 Louisiana Conservation Opportunity Areas. Figure 7.2. Conservation Opportunity Areas and Conservation Lands.",
+          "location": "List of Figures",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Conservation Opportunity Areas (COAs) are geographies within Louisiana that have been identified as uniquely important for the conservation of SGCN. Conservation actions within these COAs will benefit many SGCN, often across taxa and habitats.",
+          "location": "Ch. 7: Conservation Opportunity Areas, CONSERVATION OPPORTUNITY AREAS NEED AND OVERVIEW",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "NOAA sea level rise inundation data indicates nearly all the island acres evaluated would be affected by a 2.7' sea level rise by 2060.",
+          "location": "Ch. 7: Conservation Opportunity Areas, BARATARIA-TERREBONNE",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "targeted_range_shift_actions": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "h Action Strategy: Establish and protect habitat corridors to provide critical habitat for SGCN to mitigate impacts from climactic shifts. h Action Strategy: Acquire property to increase and support critical habitat to mitigate future impacts from climate change.",
+          "location": "Ch. 8: Threats, CLIMATE CHANGE, ECOSYSTEM ENCROACHMENT",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document proposes corridor establishment and habitat protection to facilitate species movement under climate change (structural facilitation). No explicit assisted migration, translocation, or climate-motivated reintroduction actions are proposed. The structural facilitation actions suffice for a score of 1."
+    },
+    "time_bound_and_monitoring": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "The Louisiana Department of Wildlife and Fisheries commits to a comprehensive review and revision of the 2025 SWAP by 1 October 2035.",
+          "location": "Ch. 3: Approach, PUBLIC AND PARTNER INVOLVEMENT",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "TRACS also documents grant performance and standardizes reporting of accomplishments through numerical metrics identified by objectives that are specific, measureable, achievable, relevant, and time bound (SMART).",
+          "location": "Ch. 9: Monitoring, EFFECTIVENESS OF CONSERVATION ACTIONS",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document has a 10-year plan revision deadline and references SMART objectives and adaptive management at the general level. However, specific individual climate-adaptation actions are not assigned explicit deadlines or milestones in action tables; the monitoring framework for climate actions is described aspirationally rather than at the action level with both deadlines and effectiveness monitoring attached. Score 1 (deadlines at plan level) rather than 2."
+    },
+    "evidence_of_efficacy": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Niche model results can be used in tandem with CCVI estimates to enhance the understanding of a given species' vulnerability, as CCVIs and niche models have complementary strengths that can help land managers make informed conservation decisions.",
+          "location": "Ch. 10: Louisiana: A Regional Perspective, TABLE 10.5",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "The comparison of these two methods supports focusing climate adaptation strategies on the conservation of amphibian and reptile species. SARP already considers identification and remediation of anthropogenic barriers to aquatic organism passage a priority conservation action, and this can also be an important climate adaptation strategy to support the resilience of fishes and other aquatic species that rely on aquatic connectivity.",
+          "location": "Ch. 10: Louisiana: A Regional Perspective, Comparing CCVI and Available Ecological Niche Models Results",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "Evidence is primarily from studies with limited direct applicability (CCVIs and niche models conducted at regional or multistate scale, not specific project evaluations in Louisiana). No post-action evaluations or case studies of implemented climate adaptation actions are presented. Score 2 (limited evidence from referenced studies) is appropriate.",
+      "projects": ["CCVI assessments for Louisiana SGCN: The document references 400 CCVI estimates covering 176 Louisiana SGCN drawn from prior state SWAPs (Louisiana 2015, others) and provides evidence that many amphibian, fish, and mussel SGCN are vulnerable to climate change, supporting prioritization of adaptation actions.", "Ecological niche modeling studies: 12 academic studies covering 173 Louisiana SGCN are referenced, showing projected changes in climatically suitable habitat for birds, amphibians, and fishes; these results are used to inform which taxa and regions should be conservation priorities under climate change."]
+    },
+    "adaptation_planning_frameworks": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Two well-known examples of frameworks include the Resist-Accept-Direct (RAD) Framework developed by the U.S. National Park Service and the Climate Adaptation in Practice: Resistance, Resilience and Transition (RRT) Framework developed by Colorado State University.",
+          "location": "Ch. 10: Louisiana: A Regional Perspective, ADAPTATION STRATEGIES",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "The AFWA 2022 (2nd Edition) Voluntary Guidance for States to Incorporate Climate Adaptation into State Wildlife Action Plans and Other Management Plans provides recommended steps for developing and implementing adaptation strategies. Much of the guidance includes taking a broader, regional approach to incorporating climate adaptation into SWAPs.",
+          "location": "Ch. 10: Louisiana: A Regional Perspective, CLIMATE RESILIENCY",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    }
+  },
+  "coding_meta": {
+    "coder": "llm:claude-sonnet-4-6",
+    "model": "claude-sonnet-4-6",
+    "provider": "claude",
+    "codebook_version": "0.4",
+    "ingest": "text",
+    "design": "single",
+    "temperature": null,
+    "thinking": null,
+    "thinking_effort": null,
+    "coded_at": "2026-07-06T18:39:23Z",
+    "notes": {}
+  }
+}

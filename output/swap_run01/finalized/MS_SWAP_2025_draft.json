@@ -1,0 +1,837 @@
+{
+  "document_meta": {
+    "title": "Mississippi State Wildlife Action Plan 2025",
+    "year": 2025,
+    "jurisdiction": "Mississippi",
+    "document_type": "SWAP",
+    "document_id": "MS_SWAP_2025_draft",
+    "page_count": 1493
+  },
+  "orientation": {
+    "summary": "This is the 2025 comprehensive update to Mississippi's State Wildlife Action Plan (SWAP), a third-iteration state biodiversity planning document produced by the Mississippi Department of Wildlife, Fisheries, and Parks (MDWFP). The document broadly acknowledges climate change as a significant stressor throughout, dedicating Chapter 2 to regional climate context including temperature projections, sea level rise, and ecosystem vulnerability. Range shifts are addressed through references to distributional change for SGCN under changing environmental conditions and specific vulnerability assessments (CCVI, ecological niche models) but not as an organizing framework for management. The document performs substantial analysis of climate conditions and incorporates externally produced vulnerability estimates (CCVI scores, niche model results from 13 studies) applied to Mississippi SGCN; it also incorporates Southeast Blueprint connectivity analyses. Management actions toward range shifts are largely implied through connectivity and habitat protection actions rather than explicitly framed as range-shift facilitation.",
+    "evidence_index": [
+      {
+        "text": "A species may be considered vulnerable if it is both sensitive to changing environmental conditions and also exposed to the impacts of that change (Williams et al., 2008).",
+        "location": "Species' responses to changing environmental conditions",
+        "relevant_elements": ["1.1", "1.2"]
+      },
+      {
+        "text": "Two common tools that have been used to determine a species' vulnerability to changing environmental conditions include 1) assessments like NatureServe's CCVI tool (Lyons et al. 2024), and 2) environmental niche modeling-based vulnerability estimates produced by the academic research community.",
+        "location": "Species' responses to changing environmental conditions",
+        "relevant_elements": ["1.1", "2.1", "2.2"]
+      },
+      {
+        "text": "The CCVI is a worksheet-based tool where users apply readily available information about a species' natural history, distribution, landscape circumstances, and expert opinions to predict whether it will likely suffer a range contraction and/or population reduction due to changing environmental conditions",
+        "location": "Species' responses to changing environmental conditions",
+        "relevant_elements": ["1.1", "1.2", "1.3", "2.1"]
+      },
+      {
+        "text": "Species with low adaptive capacity such as those with specialized habitat needs or limited dispersal ability face higher vulnerability to these changes.",
+        "location": "Climate Resilience",
+        "relevant_elements": ["1.1", "1.2", "1.3"]
+      },
+      {
+        "text": "Objectives of a vulnerability assessment include: 1) determining if a species or a particular group of species would be vulnerable to climate change, 2) describing how exposure to climate change might impact the species and/or its environment, and 3) evaluating the species ability to adapt or respond to the pressures of climate change.",
+        "location": "Climate Resilience",
+        "relevant_elements": ["1.1", "1.2", "4.5"]
+      },
+      {
+        "text": "Does the species require a specialized habitat? Is the species only capable of tolerating narrow environmental thresholds, and are those thresholds likely to be exceeded as climate change progresses? Does the species have a dependent interaction with another species which may be disrupted under climate change? What are the dispersal capabilities of the species?",
+        "location": "Climate Resilience",
+        "relevant_elements": ["1.2", "1.3"]
+      },
+      {
+        "text": "Niche model results may be used in tandem with CCVI estimates to enhance the understanding of a given species' vulnerability, because assessments and niche models have complementary strengths that may help land managers make informed conservation decisions.",
+        "location": "Species' responses to changing environmental conditions",
+        "relevant_elements": ["1.1", "2.1", "2.2"]
+      },
+      {
+        "text": "Ecological niche models (also called species distribution models) start by identifying shared environmental conditions (i.e., the species' niche) at sites where a species is known to have occurred and then predict where similar conditions may be found on the landscape in the future.",
+        "location": "Species' responses to changing environmental conditions",
+        "relevant_elements": ["2.2", "1.3"]
+      },
+      {
+        "text": "For Mississippi, 124 SGCN have been evaluated to date using the NatureServe's CCVI tool across nine organizations",
+        "location": "Summary of available vulnerability indices for Mississippi SGCN",
+        "relevant_elements": ["2.1"]
+      },
+      {
+        "text": "For Mississippi, 159 SGCN have been evaluated to date, which consists of vulnerability scores (note: some species have multiple scores for different future projected scenarios) across 13 studies",
+        "location": "Summary of available ecological niche models",
+        "relevant_elements": ["2.2"]
+      },
+      {
+        "text": "The table summarizes projected future number of days for low, moderate, and high Shared Socioeconomic Pathways (SSPs) using CMIP6-LOCA2 threshold and extreme event metric projections (Alder, 2024) summarized at the ecoregion level.",
+        "location": "Hotter days, warmer nights, and more intense droughts",
+        "relevant_elements": ["2.3"]
+      },
+      {
+        "text": "For the remainder of this chapter, existing data collections of both historical climatology and future projections were summarized by EPA Ecoregion Level III, including the creation of maps derived from spatial data in the NCA5 Interactive Atlas (Hoffman et al., 2023).",
+        "location": "Mississippi's Resiliency in a Changing World",
+        "relevant_elements": ["2.3"]
+      },
+      {
+        "text": "Using available environmental data and information that assumes a specific global warming level (GWL) or shared socioeconomic pathway (SSP) allows land managers to consider possible future conditions.",
+        "location": "Mississippi's Resiliency in a Changing World",
+        "relevant_elements": ["2.3"]
+      },
+      {
+        "text": "The Southeast Blueprint also includes a least-cost path connectivity analysis that identifies corridors that link coastal and inland areas and span climate gradients.",
+        "location": "Mississippi and the Southeast Conservation Adaptation Strategy (SECAS)",
+        "relevant_elements": ["1.4", "2.4", "4.1"]
+      },
+      {
+        "text": "About 8.4 million acres (27%) within Mississippi are considered a hub or corridor, providing many conservation opportunities to support species movement and migration-an important strategy for helping wildlife adapt to landscape-level changes",
+        "location": "Mississippi and the Southeast Conservation Adaptation Strategy (SECAS)",
+        "relevant_elements": ["1.4", "2.4", "4.1", "4.2"]
+      },
+      {
+        "text": "Ensuring landscape connectivity across jurisdictional boundaries is becoming increasingly important for species management as changes in land use, climate, and weather patterns shift species distributions.",
+        "location": "Mississippi and the Southeast Conservation Adaptation Strategy (SECAS)",
+        "relevant_elements": ["1.4", "3.1"]
+      },
+      {
+        "text": "Collaborating with the neighboring states of Alabama, Louisiana, Arkansas, and Tennessee to identify cross-boundary species migration and habitat pathways can increase regional connectivity for state SGCN and RSGCN.",
+        "location": "Mississippi and the Southeast Conservation Adaptation Strategy (SECAS)",
+        "relevant_elements": ["1.4", "3.1", "3.4"]
+      },
+      {
+        "text": "In migratory birds, evidence suggests northward latitudinal shifts in distribution during winter for a variety of species in North America.",
+        "location": "Climate Resilience",
+        "relevant_elements": ["3.2", "3.3"]
+      },
+      {
+        "text": "Changes in species composition, richness, and relative abundance-as well as shifts in distribution-could accompany such shifts in environmental conditions and habitat.",
+        "location": "Climate Resilience",
+        "relevant_elements": ["3.2", "3.3"]
+      },
+      {
+        "text": "Some species, particularly those with specialized habitat requirements (e.g. shorebirds like the Wilson's plover; wetland species like the mottled duck and the Mississippi gopher frog), may face extirpation if the unique habitats on which they rely disappear or become modified at a pace that surpasses the species' abilities to either disperse or adapt.",
+        "location": "Climate Resilience",
+        "relevant_elements": ["1.1", "1.3", "3.5"]
+      },
+      {
+        "text": "The GCVA chose to focus on four ecosystems in the Gulf of Mexico region: Mangroves, Tidal Emergent Marsh, Oyster Reefs, and Barrier Islands. Eleven species associated with these ecosystems were assessed for their vulnerability. In Mississippi, tidal emergent marsh was ranked as highly vulnerable, mostly from inundation due to sea level rise, fragmentation, and constraints on range shifts due to urbanization.",
+        "location": "Climate Resilience",
+        "relevant_elements": ["1.1", "3.5", "4.2"]
+      },
+      {
+        "text": "Sea level along the Mississippi coast has risen at the rate of 1.6 inches per decade, faster than the global rate",
+        "location": "Sea-level rise",
+        "relevant_elements": ["3.5"]
+      },
+      {
+        "text": "As sea levels continue to rise, some coastal ecosystems may be submerged and converted to open water, and saltwater intrusion may allow salt-tolerant coastal ecosystems to move inland at the expense of upslope and upriver ecosystems",
+        "location": "Sea-level rise",
+        "relevant_elements": ["3.5", "3.7"]
+      },
+      {
+        "text": "Recent assessments indicate that current trends will likely continue such as increasing frequency, intensity, and duration of heatwaves, increasing wildfire risk, and rising sea levels",
+        "location": "Mississippi's Resiliency in a Changing World",
+        "relevant_elements": ["3.5", "3.6"]
+      },
+      {
+        "text": "Impacts on rare species of fish and mussels are of particular concern in the context of changing environmental conditions",
+        "location": "Extreme weather events and altered flows",
+        "relevant_elements": ["3.6"]
+      },
+      {
+        "text": "In general, temperature regimes of freshwater ecosystems are projected to increase in parallel with shifts in air temperatures, which in turn may alter plant and animal communities including migratory birds",
+        "location": "Extreme weather events and altered flows",
+        "relevant_elements": ["3.7"]
+      },
+      {
+        "text": "Flooding and large amounts of surface water runoff from extreme precipitation events and tropical storms could negatively impact wildlife including increased sediment and contaminated floodwater draining into waterways, flooding of animal nests, and erosion",
+        "location": "Extreme weather events and altered flows",
+        "relevant_elements": ["3.6"]
+      },
+      {
+        "text": "Significant urbanization along the Gulf Coast could inhibit the inland migration of coastal wetland habitats and species as sea levels rise",
+        "location": "Urban Sprawl",
+        "relevant_elements": ["1.4", "4.2", "3.5"]
+      },
+      {
+        "text": "Habitat shifting/alteration and storms/flooding resulting from climate change are major threats to this region.",
+        "location": "Threats and Actions for Maritime, Estuarine Fringe and Marine Habitats",
+        "relevant_elements": ["3.5", "3.6"]
+      },
+      {
+        "text": "Working with tribal representatives and stakeholders such as local, state, or federal agencies, Joint Venture Partnerships, NGOs identify and conserve tracts of land that would maintain or restore habitat connectivity (i.e. corridors) and allow for the shifting range of habitats due to climate change.",
+        "location": "Conservation Actions to Address Climate Resilience",
+        "relevant_elements": ["4.1", "4.2", "1.4"]
+      },
+      {
+        "text": "Use vulnerability and risk assessments to identify species vulnerable to transition under climate change and develop management strategies for adaptation.",
+        "location": "Conservation Actions to Address Climate Resilience",
+        "relevant_elements": ["4.5", "4.2"]
+      },
+      {
+        "text": "Due to these uncertainties, the Association of Fish and Wildlife Agencies (AFWA) suggests using adaptive management strategies to address conservation issues related to climate.",
+        "location": "Conservation Actions to Address Climate Resilience",
+        "relevant_elements": ["4.5"]
+      },
+      {
+        "text": "To begin identifying priorities for climate related action, an initial assessment of vulnerability should be undertaken.",
+        "location": "Conservation Actions to Address Climate Resilience",
+        "relevant_elements": ["4.5", "2.1"]
+      },
+      {
+        "text": "The following eight COAs resulted from the MS SWAP team's collaboration with the Southeast Blueprint team.",
+        "location": "Chapter 7 Conservation Opportunity Areas",
+        "relevant_elements": ["4.1", "3.1"]
+      },
+      {
+        "text": "The Southeast Blueprint recognizes more than 13.1 million acres, or roughly 42.5% of the state of Mississippi, as a priority for connecting the region's lands and waters",
+        "location": "Mississippi and the Southeast Conservation Adaptation Strategy (SECAS)",
+        "relevant_elements": ["4.1", "3.1"]
+      },
+      {
+        "text": "The next comprehensive update of Mississippi SWAP will be completed by September 30, 2035, with an interim five-year review for certain species and habitats",
+        "location": "Chapter 9 Implementation, Review and Revision of Mississippi's SWAP",
+        "relevant_elements": ["4.3"]
+      },
+      {
+        "text": "Within three to five years this information will be evaluated to determine whether the SWAP has been effectively implemented and priority objectives are being addressed.",
+        "location": "Monitoring Actions",
+        "relevant_elements": ["4.3"]
+      },
+      {
+        "text": "SWG Coordinator and SWAP Technical Committee will conduct an annual, five and ten year assessment using the original eight elements",
+        "location": "Chapter 9 Implementation, Review and Revision of Mississippi's SWAP",
+        "relevant_elements": ["4.3"]
+      },
+      {
+        "text": "These previous assessments can serve as references for what has been done before and to shape planning and conservation efforts (Armsworth et al. 2025a).",
+        "location": "Species' responses to changing environmental conditions",
+        "relevant_elements": ["4.4"]
+      },
+      {
+        "text": "Many of these CCVI assessments indicate that while some bird species may be vulnerable, a larger proportion may remain stable or increase under changing environmental conditions",
+        "location": "Summary of available vulnerability indices for Mississippi SGCN",
+        "relevant_elements": ["4.4", "2.1"]
+      },
+      {
+        "text": "Altered environmental and seasonal conditions could also trigger a cascade of phenological changes, including changes in patterns and timing of species migrations, reproduction, and seasonally-dependent species interactions",
+        "location": "Climate Resilience",
+        "relevant_elements": ["3.7"]
+      },
+      {
+        "text": "From 2001 -2025, over $1 billion has been allocated to state wildlife agencies across the U.S. using a formula based on population and land area to the SWG program. During that period, MDWFP has received over $15 million in federal SWG funding that has been matched with over $5 million in non-federal funds",
+        "location": "Mississippi's SWAP in Action",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "The following are just a few of the many regional partnerships that will be important in ongoing implementation of the SWAP recommendations over the next ten years.",
+        "location": "Chapter 9 Implementation, Review and Revision of Mississippi's SWAP",
+        "relevant_elements": ["3.4"]
+      }
+    ]
+  },
+  "concepts": {
+    "climate_vulnerability": {
+      "evaluable": true,
+      "score": 3,
+      "evidence": [
+        {
+          "text": "A species may be considered vulnerable if it is both sensitive to changing environmental conditions and also exposed to the impacts of that change (Williams et al., 2008).",
+          "location": "Species' responses to changing environmental conditions",
+          "sub_component": "exposure",
+          "citations": ["Williams et al., 2008"]
+        },
+        {
+          "text": "Objectives of a vulnerability assessment include: 1) determining if a species or a particular group of species would be vulnerable to climate change, 2) describing how exposure to climate change might impact the species and/or its environment, and 3) evaluating the species ability to adapt or respond to the pressures of climate change.",
+          "location": "Climate Resilience",
+          "sub_component": "adaptive_capacity",
+          "citations": []
+        },
+        {
+          "text": "Species with low adaptive capacity such as those with specialized habitat needs or limited dispersal ability face higher vulnerability to these changes.",
+          "location": "Climate Resilience",
+          "sub_component": "adaptive_capacity",
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "adaptive_capacity_specificity": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Does the species require a specialized habitat? Is the species only capable of tolerating narrow environmental thresholds, and are those thresholds likely to be exceeded as climate change progresses? Does the species have a dependent interaction with another species which may be disrupted under climate change? What are the dispersal capabilities of the species?",
+          "location": "Climate Resilience",
+          "sub_component": null,
+          "citations": ["Foden et al. 2008"]
+        },
+        {
+          "text": "Species with low adaptive capacity such as those with specialized habitat needs or limited dispersal ability face higher vulnerability to these changes.",
+          "location": "Climate Resilience",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "adaptive_capacity_components": {
+      "demography": {
+        "present": false,
+        "evidence": []
+      },
+      "distribution": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The CCVI is a worksheet-based tool where users apply readily available information about a species' natural history, distribution, landscape circumstances, and expert opinions to predict whether it will likely suffer a range contraction and/or population reduction due to changing environmental conditions",
+            "location": "Species' responses to changing environmental conditions",
+            "sub_component": null,
+            "citations": ["Lyons et al. 2024"]
+          }
+        ]
+      },
+      "movement": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "What are the dispersal capabilities of the species?",
+            "location": "Climate Resilience",
+            "sub_component": null,
+            "citations": ["Foden et al. 2008"]
+          }
+        ]
+      },
+      "evolutionary_potential": {
+        "present": false,
+        "evidence": []
+      },
+      "ecological_dependencies": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Does the species have a dependent interaction with another species which may be disrupted under climate change?",
+            "location": "Climate Resilience",
+            "sub_component": null,
+            "citations": ["Foden et al. 2008"]
+          }
+        ]
+      },
+      "abiotic_niche": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Is the species only capable of tolerating narrow environmental thresholds, and are those thresholds likely to be exceeded as climate change progresses?",
+            "location": "Climate Resilience",
+            "sub_component": null,
+            "citations": ["Foden et al. 2008"]
+          }
+        ]
+      },
+      "life_history": {
+        "present": false,
+        "evidence": []
+      }
+    },
+    "connectivity": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "The Southeast Blueprint also includes a least-cost path connectivity analysis that identifies corridors that link coastal and inland areas and span climate gradients.",
+          "location": "Mississippi and the Southeast Conservation Adaptation Strategy (SECAS)",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Ensuring landscape connectivity across jurisdictional boundaries is becoming increasingly important for species management as changes in land use, climate, and weather patterns shift species distributions.",
+          "location": "Mississippi and the Southeast Conservation Adaptation Strategy (SECAS)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    }
+  },
+  "tools": {
+    "vulnerability_models": {
+      "evaluable": true,
+      "score": 2,
+      "named_tools": ["NatureServe CCVI", "CCVI", "Gulf Coast Vulnerability Assessment"],
+      "evidence": [
+        {
+          "text": "For Mississippi, 124 SGCN have been evaluated to date using the NatureServe's CCVI tool across nine organizations",
+          "location": "Summary of available vulnerability indices for Mississippi SGCN",
+          "sub_component": null,
+          "citations": ["Armsworth et al., 2025a"]
+        },
+        {
+          "text": "The Gulf of America Alliance, released a Gulf Coast Vulnerability Assessment (GCVA) in 2015 (Watson et al. 2015) with the USFWS. The goal of the GCVA is to enhance conservation and restoration planning and implementation by providing an understanding of the effects of changing climate, sea level rise, and land use change on Gulf coastal ecosystems and the species that depend on them.",
+          "location": "Climate Resilience",
+          "sub_component": null,
+          "citations": ["Watson et al. 2015"]
+        }
+      ],
+      "absence_note": {}
+    },
+    "niche_models": {
+      "evaluable": true,
+      "score": 2,
+      "named_tools": ["Ecological niche models", "Species distribution models"],
+      "evidence": [
+        {
+          "text": "For Mississippi, 159 SGCN have been evaluated to date, which consists of vulnerability scores (note: some species have multiple scores for different future projected scenarios) across 13 studies",
+          "location": "Summary of available ecological niche models",
+          "sub_component": null,
+          "citations": ["Armsworth et al., 2025b", "Yoon et al., 2024"]
+        },
+        {
+          "text": "Ecological niche models (also called species distribution models) start by identifying shared environmental conditions (i.e., the species' niche) at sites where a species is known to have occurred and then predict where similar conditions may be found on the landscape in the future.",
+          "location": "Species' responses to changing environmental conditions",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_models": {
+      "evaluable": true,
+      "score": 2,
+      "named_tools": ["CMIP6-LOCA2", "NCA5 Interactive Atlas", "SSP scenarios"],
+      "evidence": [
+        {
+          "text": "The table summarizes projected future number of days for low, moderate, and high Shared Socioeconomic Pathways (SSPs) using CMIP6-LOCA2 threshold and extreme event metric projections (Alder, 2024) summarized at the ecoregion level.",
+          "location": "Hotter days, warmer nights, and more intense droughts",
+          "sub_component": null,
+          "citations": ["Alder, 2024"]
+        },
+        {
+          "text": "For the remainder of this chapter, existing data collections of both historical climatology and future projections were summarized by EPA Ecoregion Level III, including the creation of maps derived from spatial data in the NCA5 Interactive Atlas (Hoffman et al., 2023).",
+          "location": "Mississippi's Resiliency in a Changing World",
+          "sub_component": null,
+          "citations": ["Hoffman et al., 2023"]
+        }
+      ],
+      "absence_note": {},
+      "time_horizon_years": [2049, 2074],
+      "emission_scenarios": ["SSP1-2.6", "SSP5-8.5", "GWL 1.5", "GWL 2"]
+    },
+    "connectivity_models": {
+      "evaluable": true,
+      "score": 2,
+      "named_tools": ["Southeast Conservation Blueprint", "least-cost path connectivity analysis"],
+      "evidence": [
+        {
+          "text": "The Southeast Blueprint also includes a least-cost path connectivity analysis that identifies corridors that link coastal and inland areas and span climate gradients. The corridors connect hubs across the shortest distance possible, while also routing through as much Blueprint priority as possible.",
+          "location": "Mississippi and the Southeast Conservation Adaptation Strategy (SECAS)",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "About 8.4 million acres (27%) within Mississippi are considered a hub or corridor, providing many conservation opportunities to support species movement and migration-an important strategy for helping wildlife adapt to landscape-level changes",
+          "location": "Mississippi and the Southeast Conservation Adaptation Strategy (SECAS)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    }
+  },
+  "context": {
+    "management_scale": {
+      "local": {
+        "present": false,
+        "evidence": []
+      },
+      "site": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "COAs are large, loosely defined, geographic areas based within the state that have been identified as priority areas for management. They may contain priority habitats or SGCN or may represent areas that have unique habitats",
+            "location": "Chapter 7 Conservation Opportunity Areas",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "watershed": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "These COAs are priority areas and are important for SGCN, but should not exclude work in other areas of the state. The COAs were chosen to help direct limited resources to the most critical areas.",
+            "location": "SWAP Update",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "city": {
+        "present": false,
+        "evidence": []
+      },
+      "county": {
+        "present": false,
+        "evidence": []
+      },
+      "within_state_region": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Ensuring landscape connectivity across jurisdictional boundaries is becoming increasingly important for species management as changes in land use, climate, and weather patterns shift species distributions.",
+            "location": "Mississippi and the Southeast Conservation Adaptation Strategy (SECAS)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "state": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The Southeast Blueprint recognizes more than 13.1 million acres, or roughly 42.5% of the state of Mississippi, as a priority for connecting the region's lands and waters",
+            "location": "Mississippi and the Southeast Conservation Adaptation Strategy (SECAS)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "multistate": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Collaborating with the neighboring states of Alabama, Louisiana, Arkansas, and Tennessee to identify cross-boundary species migration and habitat pathways can increase regional connectivity for state SGCN and RSGCN.",
+            "location": "Mississippi and the Southeast Conservation Adaptation Strategy (SECAS)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "national": {
+        "present": false,
+        "evidence": []
+      },
+      "transnational": {
+        "present": false,
+        "evidence": []
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "SECAS brings together diverse partners around an ambitious goal: a 10% or greater improvement in the health, function, and connectivity of Southeastern ecosystems by 2060.",
+            "location": "Mississippi and the Southeast Conservation Adaptation Strategy (SECAS)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecoregion": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "For the 2025 SWAP update, we have elected to adopt EPA's ecoregional framework to organize our presentation of habitats and SGCN. The Level III and Level IV EPA ecoregions are described in Chapter 5: Ecoregions and Habitats of Mississippi.",
+            "location": "Mississippi ecoregions",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "province": {
+        "present": false,
+        "evidence": []
+      },
+      "section": {
+        "present": false,
+        "evidence": []
+      },
+      "subsection": {
+        "present": false,
+        "evidence": []
+      },
+      "lake": {
+        "present": false,
+        "evidence": []
+      },
+      "river": {
+        "present": false,
+        "evidence": []
+      },
+      "district": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["Mississippi Alluvial Plain", "Loess Bluff", "North Central Hills", "Prairie Grasslands", "Northeast Mississippi", "Piney Woods", "Coastal Flatwoods", "Barrier Islands", "Gulf Coast", "Southeastern Plains", "Southern Coastal Plain", "Mississippi Valley Loess Plains"]
+    },
+    "biological_unit_score": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Changes in species composition, richness, and relative abundance-as well as shifts in distribution-could accompany such shifts in environmental conditions and habitat.",
+          "location": "Climate Resilience",
+          "sub_component": "species",
+          "citations": []
+        },
+        {
+          "text": "In Mississippi, tidal emergent marsh was ranked as highly vulnerable, mostly from inundation due to sea level rise, fragmentation, and constraints on range shifts due to urbanization.",
+          "location": "Climate Resilience",
+          "sub_component": "ecosystem",
+          "citations": ["Watson et al. 2015"]
+        }
+      ],
+      "absence_note": {}
+    },
+    "biological_unit_components": {
+      "species": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Some species, particularly those with specialized habitat requirements (e.g. shorebirds like the Wilson's plover; wetland species like the mottled duck and the Mississippi gopher frog), may face extirpation if the unique habitats on which they rely disappear or become modified at a pace that surpasses the species' abilities to either disperse or adapt.",
+            "location": "Climate Resilience",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "population": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The CCVI is a worksheet-based tool where users apply readily available information about a species' natural history, distribution, landscape circumstances, and expert opinions to predict whether it will likely suffer a range contraction and/or population reduction due to changing environmental conditions",
+            "location": "Species' responses to changing environmental conditions",
+            "sub_component": null,
+            "citations": ["Lyons et al. 2024"]
+          }
+        ]
+      },
+      "habitat": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Habitat shifting/alteration and storms/flooding resulting from climate change are major threats to this region.",
+            "location": "Threats and Actions for Maritime, Estuarine Fringe and Marine Habitats",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "In Mississippi, tidal emergent marsh was ranked as highly vulnerable, mostly from inundation due to sea level rise, fragmentation, and constraints on range shifts due to urbanization.",
+            "location": "Climate Resilience",
+            "sub_component": null,
+            "citations": ["Watson et al. 2015"]
+          }
+        ]
+      },
+      "community": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Changes in species composition, richness, and relative abundance-as well as shifts in distribution-could accompany such shifts in environmental conditions and habitat.",
+            "location": "Climate Resilience",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "genotype_phenotype": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["Mississippi Sandhill Crane", "Wilson's plover", "Mottled Duck", "Mississippi gopher frog", "American Oystercatcher", "Black Skimmers", "Kemp's Ridley sea turtles", "Wilson's Plovers", "SGCN", "RSGCN", "tidal emergent marsh", "Barrier Islands", "Oyster Reefs"]
+    },
+    "partnerships_and_funding": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "From 2001 -2025, over $1 billion has been allocated to state wildlife agencies across the U.S. using a formula based on population and land area to the SWG program. During that period, MDWFP has received over $15 million in federal SWG funding that has been matched with over $5 million in non-federal funds",
+          "location": "Mississippi's SWAP in Action",
+          "sub_component": "funding",
+          "citations": []
+        },
+        {
+          "text": "The following are just a few of the many regional partnerships that will be important in ongoing implementation of the SWAP recommendations over the next ten years.",
+          "location": "Chapter 9 Implementation, Review and Revision of Mississippi's SWAP",
+          "sub_component": "partnerships",
+          "citations": []
+        },
+        {
+          "text": "The following information and analysis were provided for this 2025MS SWAP by the USFWS Southeast Conservation Blueprint and the USGS's Southeast Climate Adaptation Science Center to assist us in describing the regional context, landscape and considerations for Mississippi in its efforts to conserve SGCN and their habitats.",
+          "location": "A Regional Perspective for Mississippi's Land, Waters and Species",
+          "sub_component": "partnerships",
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_threat_habitat_degradation": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "As sea levels continue to rise, some coastal ecosystems may be submerged and converted to open water, and saltwater intrusion may allow salt-tolerant coastal ecosystems to move inland at the expense of upslope and upriver ecosystems",
+          "location": "Sea-level rise",
+          "sub_component": null,
+          "citations": ["Wong et. al., 2014"]
+        },
+        {
+          "text": "Habitat shifting/alteration and storms/flooding resulting from climate change are major threats to this region.",
+          "location": "Threats and Actions for Maritime, Estuarine Fringe and Marine Habitats",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_threat_species_vital_rates": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Impacts on rare species of fish and mussels are of particular concern in the context of changing environmental conditions",
+          "location": "Extreme weather events and altered flows",
+          "sub_component": null,
+          "citations": ["Ingram et al., 2013"]
+        },
+        {
+          "text": "Flooding and large amounts of surface water runoff from extreme precipitation events and tropical storms could negatively impact wildlife including increased sediment and contaminated floodwater draining into waterways, flooding of animal nests, and erosion",
+          "location": "Extreme weather events and altered flows",
+          "sub_component": null,
+          "citations": ["Dolloff et al., 1994"]
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_threat_biotic_stressors": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "In general, temperature regimes of freshwater ecosystems are projected to increase in parallel with shifts in air temperatures, which in turn may alter plant and animal communities including migratory birds",
+          "location": "Extreme weather events and altered flows",
+          "sub_component": null,
+          "citations": ["Princé and Zuckerberg, 2015"]
+        },
+        {
+          "text": "Altered environmental and seasonal conditions could also trigger a cascade of phenological changes, including changes in patterns and timing of species migrations, reproduction, and seasonally-dependent species interactions",
+          "location": "Climate Resilience",
+          "sub_component": null,
+          "citations": ["Walther et al. 2002", "McGowan et al. 2011", "Austin and Rehfisch 2005"]
+        }
+      ],
+      "absence_note": {}
+    }
+  },
+  "actions": {
+    "priority_habitat_identification": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "The following eight COAs resulted from the MS SWAP team's collaboration with the Southeast Blueprint team. COA descriptions include a map, short geographic description, lists of SGCN and priority habitat subtypes, summary of major regional threats and recommended conservation actions, and a list of potential conservation partners.",
+          "location": "Chapter 7 Conservation Opportunity Areas",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "About 8.4 million acres (27%) within Mississippi are considered a hub or corridor, providing many conservation opportunities to support species movement and migration-an important strategy for helping wildlife adapt to landscape-level changes (Figure 2.3).",
+          "location": "Mississippi and the Southeast Conservation Adaptation Strategy (SECAS)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "targeted_range_shift_actions": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Working with tribal representatives and stakeholders such as local, state, or federal agencies, Joint Venture Partnerships, NGOs identify and conserve tracts of land that would maintain or restore habitat connectivity (i.e. corridors) and allow for the shifting range of habitats due to climate change.",
+          "location": "Conservation Actions to Address Climate Resilience",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Significant urbanization along the Gulf Coast could inhibit the inland migration of coastal wetland habitats and species as sea levels rise",
+          "location": "Urban Sprawl",
+          "sub_component": null,
+          "citations": ["Feagin et al. 2010", "Thorne et al. 2012", "Terando et al. 2014"]
+        }
+      ],
+      "absence_note": "The document identifies structural facilitation (corridors, connectivity) in the context of climate-driven range shifts, earning a 1. No direct manipulation actions (assisted migration, translocation) are framed in climate terms."
+    },
+    "time_bound_and_monitoring": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "The next comprehensive update of Mississippi SWAP will be completed by September 30, 2035, with an interim five-year review for certain species and habitats identified by the MDWFP SWAP Technical Committee",
+          "location": "Chapter 9 Implementation, Review and Revision of Mississippi's SWAP",
+          "sub_component": "deadline",
+          "citations": []
+        },
+        {
+          "text": "SWG Coordinator and SWAP Technical Committee will conduct an annual, five and ten year assessment using the original eight elements, along with other guidance and criteria provided by the USFWS.",
+          "location": "Chapter 9 Implementation, Review and Revision of Mississippi's SWAP",
+          "sub_component": "monitoring",
+          "citations": []
+        }
+      ],
+      "absence_note": "The document specifies plan-level review deadlines (5-year interim, 10-year comprehensive) and annual reviews, but does not attach specific deadlines to individual range-shift conservation actions. Effectiveness monitoring at the action level is not clearly operationalized for climate-specific actions. Score is 1 rather than 2."
+    },
+    "evidence_of_efficacy": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "These previous assessments can serve as references for what has been done before and to shape planning and conservation efforts (Armsworth et al. 2025a).",
+          "location": "Species' responses to changing environmental conditions",
+          "sub_component": null,
+          "citations": ["Armsworth et al. 2025a"]
+        },
+        {
+          "text": "Many of these CCVI assessments indicate that while some bird species may be vulnerable, a larger proportion may remain stable or increase under changing environmental conditions (Figure 2.20).",
+          "location": "Summary of available vulnerability indices for Mississippi SGCN",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The evidence is limited in applicability — studies were mostly conducted in other states or are assessments rather than direct tests of conservation action efficacy. This qualifies as 'limited evidence' (score 2) rather than strong evidence.",
+      "projects": ["Multiple CCVI assessments from prior SWAPs (West Virginia, Tennessee, Florida, Louisiana, Illinois) and Natural Heritage Programs applied to Mississippi SGCN, providing evidence of which taxa are likely vulnerable, stable, or increasing under climate change.", "Ecological niche model results across 13 studies applied to 159 Mississippi SGCN summarize species projected to decrease, remain stable, or increase (Figure 2.22/2.23), informing conservation prioritization."]
+    },
+    "adaptation_planning_frameworks": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Due to these uncertainties, the Association of Fish and Wildlife Agencies (AFWA) suggests using adaptive management strategies to address conservation issues related to climate. Adaptive management strategies allow conservation efforts and associated decision-making processes to change through time based on best available knowledge (i.e. climate science data, continued monitoring, evaluation of success, etc.).",
+          "location": "Conservation Actions to Address Climate Resilience",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Use vulnerability and risk assessments to identify species vulnerable to transition under climate change and develop management strategies for adaptation.",
+          "location": "Conservation Actions to Address Climate Resilience",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    }
+  },
+  "coding_meta": {
+    "coder": "llm:claude-sonnet-4-6",
+    "model": "claude-sonnet-4-6",
+    "provider": "claude",
+    "codebook_version": "0.4",
+    "ingest": "text",
+    "design": "single",
+    "temperature": null,
+    "thinking": null,
+    "thinking_effort": null,
+    "coded_at": "2026-07-06T18:39:24Z",
+    "notes": {}
+  }
+}

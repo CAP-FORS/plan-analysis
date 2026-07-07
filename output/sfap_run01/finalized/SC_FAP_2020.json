@@ -1,0 +1,711 @@
+{
+  "document_meta": {
+    "title": "2020 South Carolina Forest Action Plan",
+    "year": 2020,
+    "jurisdiction": "South Carolina",
+    "document_type": "Forest Action Plan",
+    "document_id": "SC_FAP_2020",
+    "page_count": 159
+  },
+  "orientation": {
+    "summary": "This document is the 2020 South Carolina Forest Action Plan (FAP), a state-level forestry planning document produced by the South Carolina Forestry Commission. It addresses forest resource conditions, threats, and management strategies across South Carolina's approximately 12.9 million acres of forest. The plan engages climate change as one of several overarching issues affecting forest resources, acknowledging projected temperature rises, altered precipitation, sea level rise, and shifts in species ranges, but treats climate change primarily as a context for understanding forestry challenges rather than as a focal subject for detailed scientific analysis. Range shifts are mentioned briefly in the context of climate change effects—noting that species ranges may move northward and to higher elevations—but the document does not perform original range-shift analyses; it references prior literature and agency reports. Most climate-related analysis is referenced from external sources (SCDNR 2011, USGCRP 2018), and management actions are focused on sustainable forestry, wildfire, invasive species, and habitat protection rather than on facilitated species movement.",
+    "evidence_index": [
+      {
+        "text": "Increased incidence of droughts and storms, increased number and severity of wildfires, and more numerous and severe insect and disease outbreaks are likely if climate change predictions hold true.",
+        "location": "EXECUTIVE SUMMARY / Climate Change",
+        "relevant_elements": ["1.1", "3.5", "3.6"]
+      },
+      {
+        "text": "scientific data indicates that negative effects of climate change to various Southeastern ecosystems will include the following: timing and intensity of rainfall and snowfall events; longer wet periods; longer dry periods (resulting in droughts); hotter summers and warmer winters with more frost-free days; increased storm events that are more intense (i.e. hurricanes and thunderstorms and flood events); changes in surface water availability and depth, temperature, pH, and salinity; sea level rise and habitat inundation; altered fire regimes; increased wildfire risk; and shifts in species assemblages.",
+        "location": "Current Status (Climate Change section)",
+        "relevant_elements": ["1.1", "3.5", "3.6", "3.7"]
+      },
+      {
+        "text": "Perhaps the biggest impact to South Carolina due to climate change is on average temperatures which are projected to rise up to 9 degrees over the next 70 years (SCDNR 2011). If the current warming trend continues, the natural ranges of both plant and animal species may change. The range of some tree species may move northward and to higher elevations.",
+        "location": "Trends (Climate Change section)",
+        "relevant_elements": ["1.1", "1.3", "3.3"]
+      },
+      {
+        "text": "Models predict that oaks would most likely give way to conifers such as hardy pines as the climate warms. In addition, invasive species could become more of a problem in some areas. The spread of these non-native species may be facilitated by longer growing seasons (USFS 2020).",
+        "location": "Trends (Climate Change section)",
+        "relevant_elements": ["1.1", "3.7"]
+      },
+      {
+        "text": "Bird populations and ranges may fluctuate dramatically in response to the uncoupling of migration and food and shelter resources (e.g., insect emergence and bud break). Fish and wildlife species that are not able to adapt to climate changes will be forced to either relocate or face extinction (Solomon 2009a).",
+        "location": "Trends (Climate Change section)",
+        "relevant_elements": ["1.1", "1.2", "1.3", "3.3", "3.7"]
+      },
+      {
+        "text": "Saltwater infusion into formally brackish or freshwater ecosystems will have a major effect on the plants and animals that inhabit these areas. Species that are less salt-tolerant will suffer reduced growth and higher levels of mortality.",
+        "location": "Trends (Climate Change section)",
+        "relevant_elements": ["1.1", "1.3", "3.5", "3.6"]
+      },
+      {
+        "text": "Prolonged droughts can make trees more susceptible to insect and disease attacks and result in increased mortality. In addition to the stress that droughts place on trees and other plants, climate change can increase the reproductive capacity of bark beetles (Dix 2009).",
+        "location": "Trends (Climate Change section)",
+        "relevant_elements": ["3.5", "3.6", "3.7"]
+      },
+      {
+        "text": "Fragmentation of wildlife and fish habitat is likely to occur if temperatures continue to increase and droughts become more frequent and/or severe.",
+        "location": "Trends (Climate Change section)",
+        "relevant_elements": ["1.4", "3.5"]
+      },
+      {
+        "text": "Prescribed fire promotes greater forest ecosystem resilience to stressors like wildfire, insects and diseases, and climate change (Kalies and Yocom Kent, 2016).",
+        "location": "Prescribed Fire section",
+        "relevant_elements": ["1.2", "4.5"]
+      },
+      {
+        "text": "An emerging challenge, climate change, could bring additional complexities to the use of prescribed fire. Altered patterns and intensity of rainfall and drought may reduce or shift seasonal availability of the number of burn days available to fire managers (Mitchell et al,.2014).",
+        "location": "Prescribed Fire section",
+        "relevant_elements": ["3.5"]
+      },
+      {
+        "text": "Reduction or seasonal shift in available burn days resulting from climate change",
+        "location": "Prescribed Fire / Table of challenges",
+        "relevant_elements": ["3.5"]
+      },
+      {
+        "text": "The widespread nature of this invasive in warmer regions just south of South Carolina suggest that cogongrass could grow as a threat as the climate warms.",
+        "location": "Cogongrass section (PROTECTING SOUTH CAROLINA'S FORESTS FROM HARM)",
+        "relevant_elements": ["3.7"]
+      },
+      {
+        "text": "Increases in or emergence of new pathogens are predicted which will impact both plant and animal species (SCDNR 2011).",
+        "location": "Trends (Climate Change section)",
+        "relevant_elements": ["3.6", "3.7"]
+      },
+      {
+        "text": "Increases in invasive species",
+        "location": "Prescribed Fire / Impacts of static growth or decline table",
+        "relevant_elements": ["3.7"]
+      },
+      {
+        "text": "Disconnected species corridors",
+        "location": "Prescribed Fire / Impacts of static growth or decline table",
+        "relevant_elements": ["1.4"]
+      },
+      {
+        "text": "Over the next 50 years, the extent of urbanization is predicted to increase by over 100%. The increasingly fragmented natural landscape would reduce habitat availability, suppress natural disturbance processes (such as wildfires), hinder management actions that come into conflict with urban areas, and likely eliminate existing corridors\" (Terando et.al. 2014).",
+        "location": "Population Growth / Effects on Forest Resources",
+        "relevant_elements": ["1.4"]
+      },
+      {
+        "text": "\"Observed warming since the mid-20th century has been uneven in the Southeast region, with average daily minimum temperatures increasing three times faster than average daily maximum temperatures\" (USGCRP 2018).",
+        "location": "Climate Change definition box (Strategy/Climate Change section near Public Perceptions table)",
+        "relevant_elements": ["1.1", "2.3"]
+      },
+      {
+        "text": "Action 4.5.2: Monitor and disseminate information related to climate change mitigation.",
+        "location": "Strategy Matrix (Overarching Issues / Climate Change strategies)",
+        "relevant_elements": ["4.3", "4.5"]
+      },
+      {
+        "text": "Goal: Mitigate the potentially negative effects of population growth and climate change and encourage the public to adopt a more favorable attitude about forestry.",
+        "location": "STRATEGIES Introduction / Overarching Issues",
+        "relevant_elements": ["4.5"]
+      },
+      {
+        "text": "Strategy 5. Promote trees and forests as a way to offset the effects of a changing climate.",
+        "location": "Strategy Matrix (Enhance Public Benefits strategies)",
+        "relevant_elements": ["4.5"]
+      },
+      {
+        "text": "The SCDNR is guided by the South Carolina Wildlife Action Plan (SWAP) which is a statewide strategy to conserve populations of native wildlife species and the natural habitats they need in order to keep common species common and keep rare species from requiring listing.",
+        "location": "Critical Habitats for Species and Diversity",
+        "relevant_elements": ["3.3", "3.4"]
+      },
+      {
+        "text": "In 2018, the Southeast Association of Fish and Wildlife Agencies (SEAFWA) adopted a goal of a 10% or greater increase in the health,",
+        "location": "Prescribed Fire section (bottom, connecting to Critical Habitats)",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "The program has also provided support for mapping tree canopy and plantable areas, calculating ecosystem services, integrating better tree management into city and county government agencies, and modeling connectivity of large forest cores and corridors.",
+        "location": "Urban and Community Forests in South Carolina",
+        "relevant_elements": ["1.4", "2.4", "4.1"]
+      },
+      {
+        "text": "Priority areas were developed using a series of spatial analyses using ESRI Geospatial Information Systems (GIS) software.",
+        "location": "APPENDIX 1 DEVELOPMENT OF PRIORITY AREAS",
+        "relevant_elements": ["4.1"]
+      },
+      {
+        "text": "The Development Level layer was originally created for use in the SFLA and was derived from the Integrated Climate and Land-Use (ICLUS) version 2 model. ICLUS version 2 is designed to be consistent with a more recent Intergovernmental Panel on Climate Change (IPCC) scenarios framework, drawing from two Shared Socioeconomic Pathways (SSPs) and two Representative Concentration Pathways (RCPs).",
+        "location": "Development Level (Appendix 1 data layers section)",
+        "relevant_elements": ["2.3"]
+      },
+      {
+        "text": "Provide buffer areas and connectivity to already protected areas;",
+        "location": "Forest Legacy Program eligibility criteria",
+        "relevant_elements": ["1.4"]
+      },
+      {
+        "text": "Provide a connective corridor between existing conservation projects.",
+        "location": "Goals and Objectives for Foothills Forest Legacy Area",
+        "relevant_elements": ["1.4", "4.1"]
+      },
+      {
+        "text": "Parcel exhibits connective habitats, corridors, habitat linkages and areas that reduce biological isolation.",
+        "location": "South Carolina Forest Legacy Parcel Evaluation Criteria / Fish and Wildlife Habitat Values",
+        "relevant_elements": ["1.4"]
+      },
+      {
+        "text": "Special consideration will be given to properties that are designated as important by the Southern Forest Land Assessment, Focus Area Initiative or other conservation partnership, and that work to link existing conservation areas.",
+        "location": "Forest Legacy Program priorities",
+        "relevant_elements": ["4.1"]
+      },
+      {
+        "text": "it is hoped that more initiatives like this can conserve more critical habitats and connecting corridors across the State of South Carolina.",
+        "location": "Critical Habitats / Literature Cited section (Indian Creek Wildlife Habitat Restoration Initiative discussion)",
+        "relevant_elements": ["1.4", "4.2"]
+      }
+    ]
+  },
+  "concepts": {
+    "climate_vulnerability": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "scientific data indicates that negative effects of climate change to various Southeastern ecosystems will include the following: timing and intensity of rainfall and snowfall events; longer wet periods; longer dry periods (resulting in droughts); hotter summers and warmer winters with more frost-free days; increased storm events that are more intense",
+          "location": "Current Status (Climate Change section)",
+          "sub_component": "exposure",
+          "citations": []
+        },
+        {
+          "text": "Fish and wildlife species that are not able to adapt to climate changes will be forced to either relocate or face extinction (Solomon 2009a).",
+          "location": "Trends (Climate Change section)",
+          "sub_component": "adaptive capacity",
+          "citations": ["Solomon 2009a"]
+        }
+      ],
+      "absence_note": "The document mentions exposure (projected temperature increases, sea level rise, drought, altered fire regimes) and touches on adaptive capacity (species unable to adapt face extinction, must relocate). However, it does not explicitly invoke the term 'vulnerability' in a technical IPCC sense, nor does it systematically integrate both dimensions into a vulnerability assessment framework. Score 2 because both exposure and adaptive capacity are referenced but not together in a structured vulnerability framing. Score 3 would require both to be articulated explicitly and jointly as components of vulnerability."
+    },
+    "adaptive_capacity_specificity": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Fish and wildlife species that are not able to adapt to climate changes will be forced to either relocate or face extinction (Solomon 2009a).",
+          "location": "Trends (Climate Change section)",
+          "sub_component": null,
+          "citations": ["Solomon 2009a"]
+        }
+      ],
+      "absence_note": "Adaptive capacity components are touched on (distribution shifts, movement, ecological dependencies, abiotic niche tolerances) but only briefly and without explicit framing as 'adaptive capacity.' Score 1 because the concept is referenced generically; score 2 would require naming a specific component in the context of adaptive capacity."
+    },
+    "adaptive_capacity_components": {
+      "demography": {
+        "present": false,
+        "evidence": []
+      },
+      "distribution": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "If the current warming trend continues, the natural ranges of both plant and animal species may change. The range of some tree species may move northward and to higher elevations.",
+            "location": "Trends (Climate Change section)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "movement": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Fish and wildlife species that are not able to adapt to climate changes will be forced to either relocate or face extinction (Solomon 2009a).",
+            "location": "Trends (Climate Change section)",
+            "sub_component": null,
+            "citations": ["Solomon 2009a"]
+          }
+        ]
+      },
+      "evolutionary_potential": {
+        "present": false,
+        "evidence": []
+      },
+      "ecological_dependencies": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Bird populations and ranges may fluctuate dramatically in response to the uncoupling of migration and food and shelter resources (e.g., insect emergence and bud break).",
+            "location": "Trends (Climate Change section)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "abiotic_niche": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Species that are less salt-tolerant will suffer reduced growth and higher levels of mortality.",
+            "location": "Trends (Climate Change section)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "life_history": {
+        "present": false,
+        "evidence": []
+      }
+    },
+    "connectivity": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "The increasingly fragmented natural landscape would reduce habitat availability, suppress natural disturbance processes (such as wildfires), hinder management actions that come into conflict with urban areas, and likely eliminate existing corridors\" (Terando et.al. 2014).",
+          "location": "Population Growth / Effects on Forest Resources",
+          "sub_component": null,
+          "citations": ["Terando et.al. 2014"]
+        },
+        {
+          "text": "Provide a connective corridor between existing conservation projects.",
+          "location": "Goals and Objectives for Foothills Forest Legacy Area",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "Connectivity and corridors are discussed in the context of habitat fragmentation and conservation easements, but the framing is generic forestry/wildlife habitat connectivity—not explicitly linked to climate-driven range shifts. Score 1 (generic) rather than 2 (climate-specific). The one passage mentioning 'disconnected species corridors' as an impact of reduced prescribed fire does not explicitly invoke climate-driven distributional shifts."
+    }
+  },
+  "tools": {
+    "vulnerability_models": {
+      "evaluable": true,
+      "score": 0,
+      "named_tools": [],
+      "evidence": [],
+      "absence_note": "No vulnerability models (CCVI, PVA, or similar) are referenced in the document."
+    },
+    "niche_models": {
+      "evaluable": true,
+      "score": 0,
+      "named_tools": [],
+      "evidence": [],
+      "absence_note": "No species distribution models or niche models (MaxEnt, SDMs, etc.) are referenced. The document mentions that tree species ranges may change under climate warming but cites no modeling apparatus for this."
+    },
+    "climate_models": {
+      "evaluable": true,
+      "score": 1,
+      "named_tools": ["ICLUS v2", "SSPs", "RCPs"],
+      "evidence": [
+        {
+          "text": "The Development Level layer was originally created for use in the SFLA and was derived from the Integrated Climate and Land-Use (ICLUS) version 2 model. ICLUS version 2 is designed to be consistent with a more recent Intergovernmental Panel on Climate Change (IPCC) scenarios framework, drawing from two Shared Socioeconomic Pathways (SSPs) and two Representative Concentration Pathways (RCPs).",
+          "location": "Development Level (Appendix 1 data layers section)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "ICLUS v2 is used with SSP/RCP scenarios for housing density projections in the spatial priority analysis (Appendix 1), but this is for land-use change modeling, not for climate projections applied to biological subjects. The reference to USGCRP 2018 is qualitative; no GCMs or downscaled climate products are applied to the document's focal subjects. Score 1 (referenced generally) is the highest defensible score.",
+      "time_horizon_years": [2040],
+      "emission_scenarios": ["SSP", "RCP"]
+    },
+    "connectivity_models": {
+      "evaluable": true,
+      "score": 1,
+      "named_tools": ["Green Infrastructure Center (GIC) methodology"],
+      "evidence": [
+        {
+          "text": "The program has also provided support for mapping tree canopy and plantable areas, calculating ecosystem services, integrating better tree management into city and county government agencies, and modeling connectivity of large forest cores and corridors.",
+          "location": "Urban and Community Forests in South Carolina",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document references modeling of connectivity (forest cores and corridors) for community forestry purposes, and uses GIC methodology for habitat cores in the priority area analysis. However, this connectivity modeling is not explicitly applied to climate-driven range shifts for the plan's focal species/habitats. Score 1 rather than 2."
+    }
+  },
+  "context": {
+    "management_scale": {
+      "local": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "These intact Habitat Cores were created using methodology outlined by the Green Infrastructure Center (GIC) and include minimally disturbed natural areas 100 acres or greater in size and at least 200 meters wide.",
+            "location": "Habitat Cores (Appendix 1 data layers)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "site": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Parcel is accessible for management activities.",
+            "location": "South Carolina Forest Legacy Parcel Evaluation Criteria / Manageability",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "watershed": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The Priority Watersheds layer was originally created for use in the SFLA to prioritize areas that impact long term watershed function.",
+            "location": "Priority Watersheds (Appendix 1 data layers section)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "city": {
+        "present": false,
+        "evidence": []
+      },
+      "county": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Currently, cogongrass has been found and are being treated in Aiken, Allendale, Beaufort, Charleston, Colleton, Florence, Hampton, Jasper, and Williamsburg counties.",
+            "location": "Cogongrass section (PROTECTING SOUTH CAROLINA'S FORESTS FROM HARM)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "within_state_region": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "In South Carolina, priority areas have been divided into five Forest Legacy Areas (Map 1). These include the Foothills, Central Piedmont, Western Piedmont, Northern Coastal, and Southern Coastal Forest Legacy Areas.",
+            "location": "Forest Legacy / Assessment of Need",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "state": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The 2020 South Carolina Forest Action Plan is a major update of the 2010 Statewide Forest Resource Assessment and Strategy, which was used to identify and quantify the issues affecting our state's forests.",
+            "location": "A MESSAGE FROM THE STATE FORESTER",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "multistate": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "function, and connectivity of Southeastern Ecosystems by 2060. This is part of a larger partnership called the Southeast Conservation Adaptation Strategy (SECAS).",
+            "location": "Critical Habitats / Literature Cited section",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "national": {
+        "present": false,
+        "evidence": []
+      },
+      "transnational": {
+        "present": false,
+        "evidence": []
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Longleaf pine forests have been ranked as the third most endangered ecosystem in the United States (Noss et al 1995).",
+            "location": "Prescribed Fire section",
+            "sub_component": null,
+            "citations": ["Noss et al 1995"]
+          }
+        ]
+      },
+      "ecoregion": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "There are three distinct physiographic and tectonic provinces in South Carolina: the Blue Ridge Mountains, Piedmont, and Coastal Plain.",
+            "location": "Geology figure caption / Forest Legacy AON",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "province": {
+        "present": false,
+        "evidence": []
+      },
+      "section": {
+        "present": false,
+        "evidence": []
+      },
+      "subsection": {
+        "present": false,
+        "evidence": []
+      },
+      "lake": {
+        "present": false,
+        "evidence": []
+      },
+      "river": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Strategically protect lands to provide significant greenways along the river systems.",
+            "location": "Goals and Objectives for Northern Coastal Forest Legacy Area",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "district": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["Foothills Forest Legacy Area", "Central Piedmont Forest Legacy Area", "Western Piedmont Forest Legacy Area", "Northern Coastal Forest Legacy Area", "Southern Coastal Forest Legacy Area", "Blue Ridge", "Piedmont", "Coastal Plain", "Catawba/Wateree River basin", "Savannah River basin", "ACE Basin"]
+    },
+    "biological_unit_score": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "If the current warming trend continues, the natural ranges of both plant and animal species may change. The range of some tree species may move northward and to higher elevations.",
+          "location": "Trends (Climate Change section)",
+          "sub_component": "species",
+          "citations": []
+        },
+        {
+          "text": "shifts in species assemblages",
+          "location": "Current Status (Climate Change section)",
+          "sub_component": "community",
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "biological_unit_components": {
+      "species": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "If the current warming trend continues, the natural ranges of both plant and animal species may change. The range of some tree species may move northward and to higher elevations.",
+            "location": "Trends (Climate Change section)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "population": {
+        "present": false,
+        "evidence": []
+      },
+      "habitat": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "sea level rise and habitat inundation; altered fire regimes; increased wildfire risk; and shifts in species assemblages.",
+            "location": "Current Status (Climate Change section)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "scientific data indicates that negative effects of climate change to various Southeastern ecosystems will include the following:",
+            "location": "Current Status (Climate Change section)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "community": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "shifts in species assemblages",
+            "location": "Current Status (Climate Change section)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "genotype_phenotype": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["longleaf pine", "loblolly pine", "shortleaf pine", "oaks", "bottomland hardwoods", "cogongrass", "southern pine beetle", "hemlock woolly adelgid", "red-cockaded woodpecker", "maritime forests"]
+    },
+    "partnerships_and_funding": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "For assistance in facilitating the collaborative work involving multiple group sessions, as well as the revision these documents, the SC Forestry Commission contracted with the University of South Carolina's Division of Human Resources.",
+          "location": "INTRODUCTION / 2020 Forest Action Plan Development",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "In 2018, the Southeast Association of Fish and Wildlife Agencies (SEAFWA) adopted a goal of a 10% or greater increase in the health,",
+          "location": "Prescribed Fire section (connecting to Critical Habitats)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "Partnerships are referenced broadly (SEAFWA, SECAS, Forest Legacy partners, interagency coordination) but are not specifically tied to range-shift actions or climate adaptation with concrete funding amounts. Score 1 (some partnerships described, aspirational) rather than 2."
+    },
+    "climate_threat_habitat_degradation": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "sea level rise and habitat inundation; altered fire regimes; increased wildfire risk; and shifts in species assemblages.",
+          "location": "Current Status (Climate Change section)",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Saltwater infusion into formally brackish or freshwater ecosystems will have a major effect on the plants and animals that inhabit these areas.",
+          "location": "Trends (Climate Change section)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_threat_species_vital_rates": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Prolonged droughts can make trees more susceptible to insect and disease attacks and result in increased mortality. In addition to the stress that droughts place on trees and other plants, climate change can increase the reproductive capacity of bark beetles (Dix 2009).",
+          "location": "Trends (Climate Change section)",
+          "sub_component": null,
+          "citations": ["Dix 2009"]
+        }
+      ],
+      "absence_note": "The document discusses increased mortality of trees from climate-driven drought and bark beetle outbreaks, which constitutes a direct effect on vital rates. The framing 'result in increased mortality' combined with explicit climate attribution is sufficient for a score of 1."
+    },
+    "climate_threat_biotic_stressors": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "In addition, invasive species could become more of a problem in some areas. The spread of these non-native species may be facilitated by longer growing seasons (USFS 2020).",
+          "location": "Trends (Climate Change section)",
+          "sub_component": null,
+          "citations": ["USFS 2020"]
+        },
+        {
+          "text": "The widespread nature of this invasive in warmer regions just south of South Carolina suggest that cogongrass could grow as a threat as the climate warms.",
+          "location": "Cogongrass section (PROTECTING SOUTH CAROLINA'S FORESTS FROM HARM)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    }
+  },
+  "actions": {
+    "priority_habitat_identification": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Priority areas were developed using a series of spatial analyses using ESRI Geospatial Information Systems (GIS) software. Spatial analysis can be performed in many ways. To create priority areas for South Carolina's Statewide Forest Resource Assessment, weighted overlay analyses were primarily used.",
+          "location": "APPENDIX 1 DEVELOPMENT OF PRIORITY AREAS",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Results of the spatial analysis for the Conserving Working Forests Working Group yielded a single set of priority areas displayed in 30 meter pixel format",
+          "location": "Conserving Working Forests Working Group (Appendix 1)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document performs GIS-based spatial prioritization of forest areas across multiple working groups, producing mapped priority areas. However, the priority areas are not specifically framed around climate-driven habitat shifts or range-shift facilitation. They are primarily framed around timber productivity, wildfire risk, and ecosystem services. Score 2 is justified because spatially explicit prioritization is performed, even if not primarily climate-range-shift motivated."
+    },
+    "targeted_range_shift_actions": {
+      "evaluable": true,
+      "score": 0,
+      "evidence": [],
+      "absence_note": "No specific actions are proposed to manage, facilitate, or respond to climate-driven range shifts. The document discusses corridors generically for habitat connectivity (not framed as climate-corridor range-shift facilitation), and there are no mentions of assisted migration, conservation translocations for range-shift adaptation, or corridor construction explicitly linked to climate-driven species movement."
+    },
+    "time_bound_and_monitoring": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "The strategies addressing the priority issues are outlined in the same order as in the assessment... Most of this information is presented in a matrix format, with the national priority that each action item supports listed.",
+          "location": "STRATEGIES Introduction",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Action 3.1.3: Conduct monitoring to measure effectiveness of agency programs.",
+          "location": "Strategy Matrix (Conserve Working Forests section)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The strategy matrix lists action items with associated programs and reporting positions, and includes monitoring actions (e.g., FIA plot monitoring, effectiveness monitoring of BMPs). However, specific deadlines or time-bound milestones attached to individual climate-related range-shift conservation actions are not present. Score 1 because deadlines exist at the plan level (10-year plan structure) and monitoring is referenced as a principle, but action-level deadlines tied specifically to climate/range-shift actions are absent."
+    },
+    "evidence_of_efficacy": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Prescribed fire promotes greater forest ecosystem resilience to stressors like wildfire, insects and diseases, and climate change (Kalies and Yocom Kent, 2016).",
+          "location": "Prescribed Fire section",
+          "sub_component": null,
+          "citations": ["Kalies and Yocom Kent, 2016"]
+        },
+        {
+          "text": "The combination of USDA Forest Service Stewardship Contracting and Agreement Authorities, the Wyden Amendment, and USDA Farm Bill programs were instrumental in this excellent example of multi-partner collaboration. The project began with only 16,000 acres in conservation, but by 2018 had expanded to over 40,000 acres and has seen a positive response in quail numbers (162% increase in fall covey counts and 75% increase in whistling cock surveys since 2005).",
+          "location": "Critical Habitats / Literature Cited section (Indian Creek Wildlife Habitat Restoration Initiative discussion)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document references published literature to support prescribed fire practices (Kalies and Yocom Kent 2016) and documents outcome monitoring from prior projects (Indian Creek Initiative, longleaf pine partnership). Evidence is limited in its direct applicability to climate-driven range-shift actions—it supports general habitat management and fire management rather than climate adaptation specifically. Score 2 (limited evidence) rather than 3 (strong evidence) because the studies cited have limited applicability to the specific climate-adaptive actions that would address range shifts.",
+      "projects": ["Indian Creek Wildlife Habitat Restoration Initiative: A multi-partner habitat restoration initiative in South Carolina that grew from 16,000 to over 40,000 acres by 2018, documenting a 162% increase in fall covey counts and 75% increase in whistling cock surveys for bobwhite quail since 2005. This provides limited evidence of the efficacy of large-scale habitat management for supporting declining wildlife species, though the framing is species recovery rather than climate-driven range shift facilitation.", "Longleaf Pine Restoration Partnership (America's Longleaf): A 15-year partnership plan that reversed a decline in longleaf pine, increasing acreage from 3.2 million to 4.7 million acres on public and private land by 2018. This demonstrates the efficacy of coordinated, multi-partner landscape conservation for reversing ecosystem decline, with before-and-after acreage data cited."]
+    },
+    "adaptation_planning_frameworks": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Goal: Mitigate the potentially negative effects of population growth and climate change and encourage the public to adopt a more favorable attitude about forestry.",
+          "location": "STRATEGIES Introduction / Overarching Issues",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Action 4.5.2: Monitor and disseminate information related to climate change mitigation.",
+          "location": "Strategy Matrix (Overarching Issues / Climate Change strategies)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document references climate change planning in a general way (goals to mitigate climate change effects, promote trees as carbon sinks) but does not invoke any named climate adaptation planning frameworks such as Resist-Accept-Direct (RAD), Structured Decision Making (SDM), Climate Change Scenario Planning (CCSP), or similar. Score 1 (referenced non-specifically) because climate adaptation planning is discussed as a goal but without reference to a specific framework or process."
+    }
+  },
+  "coding_meta": {
+    "coder": "llm:claude-sonnet-4-6",
+    "model": "claude-sonnet-4-6",
+    "provider": "claude",
+    "codebook_version": "0.4",
+    "ingest": "text",
+    "design": "single",
+    "temperature": null,
+    "thinking": null,
+    "thinking_effort": null,
+    "coded_at": "2026-07-07T00:31:33Z",
+    "notes": {}
+  }
+}

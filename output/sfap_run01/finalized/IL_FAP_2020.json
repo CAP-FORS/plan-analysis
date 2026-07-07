@@ -1,0 +1,728 @@
+{
+  "document_meta": {
+    "title": "Illinois Forest Action Plan: 2020-2030",
+    "year": 2020,
+    "jurisdiction": "Illinois",
+    "document_type": "Forest Action Plan",
+    "document_id": "IL_FAP_2020",
+    "page_count": 311
+  },
+  "orientation": {
+    "summary": "The Illinois Forest Action Plan 2020-2030 is a state-level forest management and conservation planning document produced by the Illinois Forestry Development Council and the Illinois Department of Natural Resources. It addresses seven major threats to Illinois forests, including oak-hickory decline, fragmentation, forest health threats, staffing shortages, industry decline, urban forest pressures, and funding gaps. The document has a moderate and peripheral posture toward climate change — climate change is mentioned as a threat and a planning consideration (particularly for urban forests and species selection), but the plan does not perform dedicated climate analysis and does not use formal climate models or vulnerability frameworks. References to range shifts are limited but present: the older Forest Legacy Assessment of Need section explicitly discusses how warming would cause species range limits to shift northward in Illinois, and the urban forestry section discusses reviewing species vulnerability at range boundaries in response to changing climate. Most climate-related content is referenced from other documents or frameworks rather than being original analysis performed by this plan.",
+    "evidence_index": [
+      {
+        "text": "Situated at the edges of southern and northern forests, and along the eastern edge of the prairie, Illinois is in a position (if climatic warming occurs as predicted) to lose many plant species from northern counties while acquiring new species in southern counties as range limits shift northward.",
+        "location": "Illinois Forests: Environmental Impacts Fragmentation",
+        "relevant_elements": ["1.1", "1.2", "1.3", "C2", "3.5", "3.7"]
+      },
+      {
+        "text": "While the retraction of southern range boundaries may be rapid in response to climate change, the movement of northern edges of distributions is likely to be quite slow. Thus, if warming proceeds as climate change models predict, Illinois may experience a net decrease in natural biological diversity.",
+        "location": "Illinois Forests: Environmental Impacts Fragmentation",
+        "relevant_elements": ["1.1", "1.3", "C2", "3.5"]
+      },
+      {
+        "text": "Enhance tree biodiversity and climate change adaptation planning for the benefit of forest resiliency and wildlife habitat management.",
+        "location": "Threats to Forest Lands and Resources",
+        "relevant_elements": ["4.5", "1.2", "4.1"]
+      },
+      {
+        "text": "Assess future vulnerability and adaptation strategies for oak-hickory forests.",
+        "location": "Threats to Forest Lands and Resources",
+        "relevant_elements": ["1.1", "4.5", "2.1"]
+      },
+      {
+        "text": "Climate Adaptation Recognize the increased frequency and severity of storm events, droughts, and flooding. Integrate adaptation strategies into maintenance practices, improved species lists based on environmental impacts, and infrastructure features which will support the urban forest in a time of change.",
+        "location": "Climate Adaptation",
+        "relevant_elements": ["4.5", "3.5", "4.2"]
+      },
+      {
+        "text": "Review and evaluate tree species that perform well in a changing climate. This would include review of species vulnerability at the southern end of their range and adaptability at the northern end of a species range.",
+        "location": "Climate Adaptation",
+        "relevant_elements": ["1.1", "1.3", "C2", "4.2"]
+      },
+      {
+        "text": "7f. Climate Change has to be a part of the forest planning process to ensure forest health and longevity Global climate change and the degradation of forest health and resiliency is an important concern for Illinois. Illinois should prepare for climate change and become involved with other natural resource agencies within the region to collaborate and share in the planning and preparation for climate change impacts.",
+        "location": "[TABLE] 7f. Climate Change has to be a part of the forest planning process",
+        "relevant_elements": ["1.1", "4.5", "3.4"]
+      },
+      {
+        "text": "A key resource for this planning is the Central Hardwoods Ecosystem Vulnerability Assessment and Synthesis report by the Central Hardwoods Climate Change Response Framework Project www.nrs.fs.fed.us/pubs/45430.",
+        "location": "[TABLE] 7f. Climate Change has to be a part of the forest planning process",
+        "relevant_elements": ["2.1", "4.5", "1.1"]
+      },
+      {
+        "text": "If predictions of global climate changes occur it may have several biological ramifications. First, warmer winter temperatures are likely to result in increased survivorship of over-wintering insects.",
+        "location": "[TABLE] Climate Change and Carbon Sequestration",
+        "relevant_elements": ["1.1", "3.6", "3.7"]
+      },
+      {
+        "text": "In addition, climatic warming may result in earlier spring greening of vegetation, enhanced net growth rates, increased levels of insect damage to plants, and shifts in the competitive interactions among species.",
+        "location": "[TABLE] Climate Change and Carbon Sequestration",
+        "relevant_elements": ["3.7", "3.6", "1.1"]
+      },
+      {
+        "text": "Second, increased drought frequency may result in increased frequencies of plant disease. Given that the major identifiable sources of mortality in trees are insects and disease, climate change is likely to exacerbate existing problems.",
+        "location": "Illinois Forests: Environmental Impacts Fragmentation",
+        "relevant_elements": ["3.5", "3.6"]
+      },
+      {
+        "text": "Forest land will experience increased stresses from nonnative species and development as wildland-urban interfaces continue to increase. These pressures may very well produce long-term or permanent loss of forest habitat.",
+        "location": "Biomass",
+        "relevant_elements": ["3.5", "3.7"]
+      },
+      {
+        "text": "Develop resiliency and connectedness into habitats so species can adjust to landscape and environmental changes.",
+        "location": "[TABLE] Illinois Forestry Development Council",
+        "relevant_elements": ["1.4", "4.2", "4.1"]
+      },
+      {
+        "text": "Resource managers are questioning the utility of setting aside relatively small, unconnected preserves to protect wildlife, such as state parks and forests. They are advocating a system of linkages or 'corridors' between these preserves so they may continue as biologically diverse ecological systems in an increasingly fragmented and urbanized land base.",
+        "location": "Impacts on Wildlife",
+        "relevant_elements": ["1.4", "4.1", "4.2"]
+      },
+      {
+        "text": "Conserve, expand, and connect working forest landscapes to retain all existing Illinois forests, improve their management, and convert 300,000 acres of marginal cropland to forestcover. Connect forests via reforestation to create 500-acre and larger contiguous forest lands.",
+        "location": "Strategy 2. Save Existing and Create More Forest Blocks of 500 Acres or Greater",
+        "relevant_elements": ["4.1", "1.4", "4.2"]
+      },
+      {
+        "text": "Provide planned and integrated support for tree planting to improve the environment and provide for connectivity to fragmented landscapes.",
+        "location": "Urban and Community Forest Management",
+        "relevant_elements": ["1.4", "4.1"]
+      },
+      {
+        "text": "In urbanizing areas, preserve and enhance amenity values of forests through regional land-use planning that encourages conservation of greenways, riparian areas, and, where appropriate, wildlife travel corridors.",
+        "location": "Strategy 2. Save Existing and Create More Forest Blocks of 500 Acres or Greater",
+        "relevant_elements": ["1.4", "4.1"]
+      },
+      {
+        "text": "Fragmentation of large forest blocks: 'Some of the harmful consequences of fragmentation are a loss of biodiversity, increased populations of invasive and nonnative species, and changes in biotic and abiotic conditions'",
+        "location": "SEVEN THREATS TO FOREST LANDS AND RESOURCES",
+        "relevant_elements": ["1.4", "3.7", "3.5"]
+      },
+      {
+        "text": "Significant partnerships that supply material, physical, and financial assistance and projects that accomplish goals of more than one state entity are therefore prioritized.",
+        "location": "Executive Summary",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "Through a recently written Shared Stewardship Agreement with the USDA Forest Service, the Illinois Department of Natural Resources and the Division of Forest Resources have an extraordinary framework and opportunity to work together to set landscape-scale priorities, implement projects at the appropriate scale, co-manage risks, share resources, and learn from each other while building long-term capacity.",
+        "location": "Executive Summary",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "The 22) shows both water and urban/developed areas as white. Though the subtleties of layering weighted priorities are not seen from the panned-out view, High Priority Stewardship areas are, in general; 'all the existing forest in Illinois' plus 'forest land that was once forest cleared for agriculture and having forest soils.'",
+        "location": "Forest Legacy",
+        "relevant_elements": ["4.1"]
+      },
+      {
+        "text": "Proactively manage ongoing forest adaptation to increase forest resiliency and better prepare Illinois forests for future forest health threats.",
+        "location": "Strategy 3. Mitigate Forest Health Threats",
+        "relevant_elements": ["4.5", "4.2"]
+      },
+      {
+        "text": "Fragmentation of forest habitat has negative implications for biological diversity at many levels: Many plants and animals may need large blocks of uninterrupted forest for successful reproduction.",
+        "location": "Illinois Forests: Environmental Impacts Fragmentation",
+        "relevant_elements": ["1.4", "1.3"]
+      },
+      {
+        "text": "Fragmentation of forests into small habitat islands results in small effective population sizes. Population size is the best predictor of extinction probability.",
+        "location": "[TABLE] Fragmentation of forests into small habitat islands",
+        "relevant_elements": ["1.3", "1.2"]
+      },
+      {
+        "text": "The resulting genetic isolation can be detrimental to the long-term health of resident populations because it increases inbreeding, which can lead to an erosion of the genetic variability and, eventually, of the viability of these populations.",
+        "location": "[TABLE] Fragmentation of forests into small habitat islands",
+        "relevant_elements": ["1.3"]
+      },
+      {
+        "text": "Modelling effects of habitat fragmentation on the ability of trees to respond to climatic warming M.W. Schwartz Biodiversity and Conservation 2 1993",
+        "location": "Acknowledgements",
+        "relevant_elements": ["1.1", "1.3", "C2"]
+      },
+      {
+        "text": "One of the most cost effective means to a sustainable healthy urban forest, especially through times of climate change, is to ensure diversity of species and age.",
+        "location": "Forest Resiliency and Limited Diversity -Species, Age and Climate Change",
+        "relevant_elements": ["1.2", "4.5"]
+      },
+      {
+        "text": "9.1.4.2. Foster resilience, restoration, and sustainability of urban and community forests facing climate change challenges.",
+        "location": "[TABLE] Exhibit A continued",
+        "relevant_elements": ["4.5", "1.2"]
+      },
+      {
+        "text": "Climate Change Identified as multi-state priority issue/goal.",
+        "location": "[TABLE] Table 3. Multi-State Priority Issues/Goals",
+        "relevant_elements": ["4.5", "3.4"]
+      },
+      {
+        "text": "Potential effects of global climate change on the biodiversity of plants M.W. Schwartz Forestry Chronicle 68 1992",
+        "location": "Acknowledgements",
+        "relevant_elements": ["1.1", "C2"]
+      }
+    ]
+  },
+  "concepts": {
+    "climate_vulnerability": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Situated at the edges of southern and northern forests, and along the eastern edge of the prairie, Illinois is in a position (if climatic warming occurs as predicted) to lose many plant species from northern counties while acquiring new species in southern counties as range limits shift northward.",
+          "location": "Illinois Forests: Environmental Impacts Fragmentation",
+          "sub_component": "exposure",
+          "citations": []
+        },
+        {
+          "text": "Assess future vulnerability and adaptation strategies for oak-hickory forests.",
+          "location": "Threats to Forest Lands and Resources",
+          "sub_component": "exposure",
+          "citations": []
+        },
+        {
+          "text": "Review and evaluate tree species that perform well in a changing climate. This would include review of species vulnerability at the southern end of their range and adaptability at the northern end of a species range.",
+          "location": "Climate Adaptation",
+          "sub_component": "exposure",
+          "citations": []
+        }
+      ],
+      "absence_note": "The document references climate vulnerability and exposure (species at range margins, projected warming effects) but does not substantively discuss adaptive capacity as a distinct axis of vulnerability in the IPCC sense. The abiotic/thermal niche of species is discussed only obliquely. Score is 2 (exposure but not a paired discussion of adaptive capacity as a component of vulnerability)."
+    },
+    "adaptive_capacity_specificity": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "One of the most cost effective means to a sustainable healthy urban forest, especially through times of climate change, is to ensure diversity of species and age.",
+          "location": "Forest Resiliency and Limited Diversity -Species, Age and Climate Change",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "Adaptive capacity is referenced in a general way (diversity, resiliency, adaptability) in the context of climate change, but no specific named components (e.g., dispersal ability, genetic variation) are discussed as adaptive-capacity mechanisms in a technical climate-vulnerability framing. Score 1."
+    },
+    "adaptive_capacity_components": {
+      "demography": {
+        "present": false,
+        "evidence": []
+      },
+      "distribution": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Situated at the edges of southern and northern forests, and along the eastern edge of the prairie, Illinois is in a position (if climatic warming occurs as predicted) to lose many plant species from northern counties while acquiring new species in southern counties as range limits shift northward.",
+            "location": "Illinois Forests: Environmental Impacts Fragmentation",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "movement": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "While the retraction of southern range boundaries may be rapid in response to climate change, the movement of northern edges of distributions is likely to be quite slow.",
+            "location": "Illinois Forests: Environmental Impacts Fragmentation",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "evolutionary_potential": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The resulting genetic isolation can be detrimental to the long-term health of resident populations because it increases inbreeding, which can lead to an erosion of the genetic variability and, eventually, of the viability of these populations.",
+            "location": "[TABLE] Fragmentation of forests into small habitat islands",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecological_dependencies": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "In addition, climatic warming may result in earlier spring greening of vegetation, enhanced net growth rates, increased levels of insect damage to plants, and shifts in the competitive interactions among species.",
+            "location": "[TABLE] Climate Change and Carbon Sequestration",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "abiotic_niche": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Review and evaluate tree species that perform well in a changing climate. This would include review of species vulnerability at the southern end of their range and adaptability at the northern end of a species range.",
+            "location": "Climate Adaptation",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "life_history": {
+        "present": false,
+        "evidence": []
+      }
+    },
+    "connectivity": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Resource managers are questioning the utility of setting aside relatively small, unconnected preserves to protect wildlife, such as state parks and forests. They are advocating a system of linkages or 'corridors' between these preserves so they may continue as biologically diverse ecological systems in an increasingly fragmented and urbanized land base.",
+          "location": "Impacts on Wildlife",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Develop resiliency and connectedness into habitats so species can adjust to landscape and environmental changes.",
+          "location": "[TABLE] Illinois Forestry Development Council",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Provide planned and integrated support for tree planting to improve the environment and provide for connectivity to fragmented landscapes.",
+          "location": "Urban and Community Forest Management",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "Connectivity is discussed extensively throughout as corridors, linkages, and connectivity of fragmented landscapes. However, the framing is generic wildlife/biodiversity connectivity rather than explicitly climate-gradient connectivity or connectivity to support climate-driven range shifts. The 'adjust to landscape and environmental changes' phrase is borderline but does not explicitly invoke climate-driven shifts. Score 1, not 2."
+    }
+  },
+  "tools": {
+    "vulnerability_models": {
+      "evaluable": true,
+      "score": 1,
+      "named_tools": ["Central Hardwoods Ecosystem Vulnerability Assessment and Synthesis"],
+      "evidence": [
+        {
+          "text": "A key resource for this planning is the Central Hardwoods Ecosystem Vulnerability Assessment and Synthesis report by the Central Hardwoods Climate Change Response Framework Project www.nrs.fs.fed.us/pubs/45430.",
+          "location": "[TABLE] 7f. Climate Change has to be a part of the forest planning process",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document references the Central Hardwoods Ecosystem Vulnerability Assessment and Synthesis as a resource for climate change planning, and mentions 'Assess future vulnerability and adaptation strategies for oak-hickory forests' as a strategy action. However, no CCVI or similar tool is applied to focal species or habitats within the plan itself. Score 1 (referenced generally, not applied)."
+    },
+    "niche_models": {
+      "evaluable": true,
+      "score": 0,
+      "named_tools": [],
+      "evidence": [],
+      "absence_note": "No species distribution models, MaxEnt, SDMs, or similar niche modeling tools are referenced in this document."
+    },
+    "climate_models": {
+      "evaluable": true,
+      "score": 0,
+      "named_tools": [],
+      "evidence": [],
+      "absence_note": "The document discusses climate change extensively in qualitative terms (warming, drought, altered conditions) but does not reference any GCMs, climate scenarios (RCPs/SSPs), downscaled projections, or named climate modeling tools. The document notes 'if warming proceeds as climate change models predict' but does not name or cite any specific model. Score 0.",
+      "time_horizon_years": [],
+      "emission_scenarios": []
+    },
+    "connectivity_models": {
+      "evaluable": true,
+      "score": 0,
+      "named_tools": [],
+      "evidence": [],
+      "absence_note": "Connectivity is discussed conceptually and through spatial priority maps (Figure 22 shows priority stewardship areas including riparian corridors), but no connectivity modeling tools (CircuitScape, least-cost path, etc.) are named or applied. The priority map layers include 'Riparian Corridors' and 'Forest Patches' as weighted data layers but these are GIS data layers, not connectivity models. Score 0."
+    }
+  },
+  "context": {
+    "management_scale": {
+      "local": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Provide planned and integrated support for tree planting to improve the environment and provide for connectivity to fragmented landscapes.",
+            "location": "Urban and Community Forest Management",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "site": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The multi-state priorities and issues listed in (Tables 2 and 3) from the 2020 U.S. Forest Service R9 S&PF multi-state meetings and 2010's listings from multistate Forest Action Plans can be considered for focused projects and collaboration to further the regional, landscape scale conservation approach.",
+            "location": "Illinois Forestry Development Council",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "watershed": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The CREP program estimated there are nearly 250,000 acres of sensitive riverine land in the Illinois River watershed alone.",
+            "location": "7b. Need for Reforestation and Afforestation",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "city": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Urban and community forests occur in nearly all communities throughout the Northeast and Midwest, from the most urban to very rural.",
+            "location": "[TABLE] Urban and Community Forests Face Extreme Pressures and Challenges",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "county": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Situated at the edges of southern and northern forests, and along the eastern edge of the prairie, Illinois is in a position (if climatic warming occurs as predicted) to lose many plant species from northern counties while acquiring new species in southern counties as range limits shift northward.",
+            "location": "Illinois Forests: Environmental Impacts Fragmentation",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "within_state_region": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Illinois forest land is concentrated along rivers and streams in the northern two-thirds of the State and is found throughout the southern third of Illinois.",
+            "location": "Ecological Provinces of Illinois",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "state": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Illinois Forest Action Plan: 2020-2030",
+            "location": "Introduction",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "multistate": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The multi-state priorities and issues listed in (Tables 2 and 3) from the 2020 U.S. Forest Service R9 S&PF multi-state meetings and 2010's listings from multistate Forest Action Plans can be considered for focused projects and collaboration to further the regional, landscape scale conservation approach.",
+            "location": "Illinois Forestry Development Council",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "national": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Forest Action Plans focus on three national priorities established by the USDA Forest Service, State, and Private Forestry section: 1. Conserve and manage working forest landscapes for multiple values and uses",
+            "location": "Acknowledgements",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "transnational": {
+        "present": false,
+        "evidence": []
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Through a recently written Shared Stewardship Agreement with the USDA Forest Service, the Illinois Department of Natural Resources and the Division of Forest Resources have an extraordinary framework and opportunity to work together to set landscape-scale priorities, implement projects at the appropriate scale, co-manage risks, share resources",
+            "location": "Executive Summary",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecoregion": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The State is home to three ecological provinces: the Eastern Broadleaf Forest, the Prairie Parkland, and the Lower Mississippi Riverine Forest.",
+            "location": "Ecological Provinces of Illinois",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "province": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Ecoprovinces, or ecological provinces, are an appropriate level to broadly describe the ecology of Illinois. The State is home to three ecological provinces: the Eastern Broadleaf Forest, the Prairie Parkland, and the Lower Mississippi Riverine Forest.",
+            "location": "Ecological Provinces of Illinois",
+            "sub_component": null,
+            "citations": ["Crocker et al. 2017", "McNab et al. 2007"]
+          }
+        ]
+      },
+      "section": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Illinois is a part of several other regional forestry priority areas in the Midwest. Within the Upper Mississippi Watershed of the Midwest region, several sub-watersheds have been classified as high priority by the Upper Mississippi River Partnership.",
+            "location": "Illinois Forestry Development Council",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "subsection": {
+        "present": false,
+        "evidence": []
+      },
+      "lake": {
+        "present": false,
+        "evidence": []
+      },
+      "river": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The CREP program estimated there are nearly 250,000 acres of sensitive riverine land in the Illinois River watershed alone.",
+            "location": "7b. Need for Reforestation and Afforestation",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "district": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["Illinois River watershed", "Kaskaskia River", "Mississippi River", "Upper Mississippi Watershed", "Shawnee National Forest", "Eastern Broadleaf Forest", "Prairie Parkland", "Lower Mississippi Riverine Forest"]
+    },
+    "biological_unit_score": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Situated at the edges of southern and northern forests, and along the eastern edge of the prairie, Illinois is in a position (if climatic warming occurs as predicted) to lose many plant species from northern counties while acquiring new species in southern counties as range limits shift northward.",
+          "location": "Illinois Forests: Environmental Impacts Fragmentation",
+          "sub_component": "species",
+          "citations": []
+        },
+        {
+          "text": "Forest land will experience increased stresses from nonnative species and development as wildland-urban interfaces continue to increase. These pressures may very well produce long-term or permanent loss of forest habitat.",
+          "location": "Biomass",
+          "sub_component": "habitat",
+          "citations": ["Crocker et al. 2017"]
+        }
+      ],
+      "absence_note": {}
+    },
+    "biological_unit_components": {
+      "species": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Situated at the edges of southern and northern forests, and along the eastern edge of the prairie, Illinois is in a position (if climatic warming occurs as predicted) to lose many plant species from northern counties while acquiring new species in southern counties as range limits shift northward.",
+            "location": "Illinois Forests: Environmental Impacts Fragmentation",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "population": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Fragmentation of forests into small habitat islands results in small effective population sizes. Population size is the best predictor of extinction probability.",
+            "location": "[TABLE] Fragmentation of forests into small habitat islands",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "habitat": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Forest land will experience increased stresses from nonnative species and development as wildland-urban interfaces continue to increase. These pressures may very well produce long-term or permanent loss of forest habitat.",
+            "location": "Biomass",
+            "sub_component": null,
+            "citations": ["Crocker et al. 2017"]
+          }
+        ]
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The State is home to three ecological provinces: the Eastern Broadleaf Forest, the Prairie Parkland, and the Lower Mississippi Riverine Forest.",
+            "location": "Ecological Provinces of Illinois",
+            "sub_component": null,
+            "citations": ["Crocker et al. 2017", "McNab et al. 2007"]
+          }
+        ]
+      },
+      "community": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "In addition, climatic warming may result in earlier spring greening of vegetation, enhanced net growth rates, increased levels of insect damage to plants, and shifts in the competitive interactions among species. All of these indirect effects are likely to alter the ability of Illinois forests to support timber production in, as yet, unpredictable ways.",
+            "location": "[TABLE] Climate Change and Carbon Sequestration",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "genotype_phenotype": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["oak-hickory forests", "Illinois plant species", "ash trees", "American elm", "sugar maple", "white oak", "black oak", "northern red oak"]
+    },
+    "partnerships_and_funding": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Through a recently written Shared Stewardship Agreement with the USDA Forest Service, the Illinois Department of Natural Resources and the Division of Forest Resources have an extraordinary framework and opportunity to work together to set landscape-scale priorities, implement projects at the appropriate scale, co-manage risks, share resources, and learn from each other while building long-term capacity.",
+          "location": "Executive Summary",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "7f. Climate Change has to be a part of the forest planning process to ensure forest health and longevity Global climate change and the degradation of forest health and resiliency is an important concern for Illinois. Illinois should prepare for climate change and become involved with other natural resource agencies within the region to collaborate and share in the planning and preparation for climate change impacts.",
+          "location": "[TABLE] 7f. Climate Change has to be a part of the forest planning process",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "Partnerships and funding are discussed extensively throughout the plan, but climate-specific partnerships and funding for range-shift work are minimal and aspirational. The Shared Stewardship Agreement and multi-state climate collaboration are mentioned, but implementation is not documented. Score 1."
+    },
+    "climate_threat_habitat_degradation": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Second, increased drought frequency may result in increased frequencies of plant disease. Given that the major identifiable sources of mortality in trees are insects and disease, climate change is likely to exacerbate existing problems.",
+          "location": "Illinois Forests: Environmental Impacts Fragmentation",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "Climate-induced drought and its effects on forests are mentioned. The document also discusses altered disturbance regimes, storm events, and flooding in the context of climate change and urban forests. Score 1."
+    },
+    "climate_threat_species_vital_rates": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "If predictions of global climate changes occur it may have several biological ramifications. First, warmer winter temperatures are likely to result in increased survivorship of over-wintering insects.",
+          "location": "[TABLE] Climate Change and Carbon Sequestration",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document discusses direct climate effects on vital rates of insects (over-wintering survivorship) and subsequent increased insect damage to trees (implying indirect effects on tree vital rates). This is borderline — the surviving insects affecting trees is a chain rather than direct vital rate impact — but the direct survivorship of insects driven by warming temperatures qualifies. Score 1."
+    },
+    "climate_threat_biotic_stressors": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "In addition, climatic warming may result in earlier spring greening of vegetation, enhanced net growth rates, increased levels of insect damage to plants, and shifts in the competitive interactions among species.",
+          "location": "[TABLE] Climate Change and Carbon Sequestration",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "Shifts in competitive interactions among species attributed to climatic warming are discussed, as is earlier spring greening. These qualify as climate-driven biotic stressors (phenological change, community composition shifts). Score 1."
+    }
+  },
+  "actions": {
+    "priority_habitat_identification": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "High Priority Stewardship areas are, in general; 'all the existing forest in Illinois' plus 'forest land that was once forest cleared for agriculture and having forest soils.' The map (Fig. 22) shows both water and urban/developed areas as white.",
+          "location": "Forest Legacy",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "The priority-setting was based on 12 core data layers, representing important aspects and outputs of forest resource conservation, using a weighted ranking system for each data layer (Tables 1 a&b)",
+          "location": "Forest Legacy",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document includes priority stewardship area maps (Figure 22) derived from 12 weighted data layers. However, the priority areas are primarily driven by general forest conservation values rather than specifically by climate-related range shifts. The score of 2 is given because spatial representation exists and some of the priority criteria relate to climate threats (e.g., forest health, developmental pressure, riparian corridors). This is a close call but the spatial representation criterion is met."
+    },
+    "targeted_range_shift_actions": {
+      "evaluable": true,
+      "score": 0,
+      "evidence": [],
+      "absence_note": "The document does not propose any specific targeted actions to manage climate-driven species range shifts — no assisted migration, managed relocation, climate corridor construction, or climate-motivated translocation actions are proposed. General connectivity and corridor language exists but is not framed as climate-driven range shift facilitation. The strategy to 'Assess future vulnerability and adaptation strategies for oak-hickory forests' is aspirational, not an action. Score 0."
+    },
+    "time_bound_and_monitoring": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Strategy 6. Expand Urban and Community Forests and Forestry (5-year plan agenda to be be updated by addendum in 2025)",
+          "location": "Strategy 6",
+          "sub_component": "deadlines",
+          "citations": []
+        }
+      ],
+      "absence_note": "The plan has some time-bound elements (the 2020-2030 plan period, a 5-year urban forestry agenda to be updated by 2025), and the Forest Legacy monitoring section includes a structured rotation schedule for easement monitoring. However, climate-specific range-shift actions do not have attached deadlines or effectiveness monitoring protocols. The plan endorses adaptive management as a principle but does not operationalize it at the action level for climate adaptation. Score 1."
+    },
+    "evidence_of_efficacy": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Enhance tree biodiversity and climate change adaptation planning for the benefit of forest resiliency and wildlife habitat management.",
+          "location": "Threats to Forest Lands and Resources",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document presents climate adaptation actions as general principles (ensure species diversity, review species for range adaptability, assess vulnerability) without citing evidence for the efficacy of those actions. References to the Central Hardwoods Vulnerability Assessment and other resources are listed as planning tools, not as evidence supporting specific actions. Score 1 — rationale is outlined (diversity supports resilience) but no evidence is provided.",
+      "projects": []
+    },
+    "adaptation_planning_frameworks": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "7f. Climate Change has to be a part of the forest planning process to ensure forest health and longevity Global climate change and the degradation of forest health and resiliency is an important concern for Illinois. Illinois should prepare for climate change and become involved with other natural resource agencies within the region to collaborate and share in the planning and preparation for climate change impacts.",
+          "location": "[TABLE] 7f. Climate Change has to be a part of the forest planning process",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document references climate adaptation planning in a general, non-specific way ('integrate adaptation strategies,' 'prepare for climate change') without naming specific frameworks like RAD, RRT, CCVA, structured decision making, or scenario-based decision analysis. Score 1 (referenced generally, not specifically). The Central Hardwoods Climate Change Response Framework is cited as a resource but not named as a formal planning framework being used."
+    }
+  },
+  "coding_meta": {
+    "coder": "llm:claude-sonnet-4-6",
+    "model": "claude-sonnet-4-6",
+    "provider": "claude",
+    "codebook_version": "0.4",
+    "ingest": "text",
+    "design": "single",
+    "temperature": null,
+    "thinking": null,
+    "thinking_effort": null,
+    "coded_at": "2026-07-07T00:31:31Z",
+    "notes": {}
+  }
+}

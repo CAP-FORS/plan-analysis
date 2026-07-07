@@ -1,0 +1,1180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Great Lakes Ciscoes</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Kevin</forename><forename type="middle">E</forename><surname>Wehrly</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Contributors Michigan Department of Natural Resources</orgName>
+								<orgName type="department" key="dep2">Ciscoes. Michigan Department of Natural Resources</orgName>
+								<orgName type="institution">Michigan Natural Features Inventory</orgName>
+								<address>
+									<settlement>Lansing</settlement>
+									<region>MI</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Arthur</forename><forename type="middle">R</forename><surname>Cooper</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Contributors Michigan Department of Natural Resources</orgName>
+								<orgName type="department" key="dep2">Ciscoes. Michigan Department of Natural Resources</orgName>
+								<orgName type="institution">Michigan Natural Features Inventory</orgName>
+								<address>
+									<settlement>Lansing</settlement>
+									<region>MI</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">David</forename><surname>Fielder</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Contributors Michigan Department of Natural Resources</orgName>
+								<orgName type="department" key="dep2">Ciscoes. Michigan Department of Natural Resources</orgName>
+								<orgName type="institution">Michigan Natural Features Inventory</orgName>
+								<address>
+									<settlement>Lansing</settlement>
+									<region>MI</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Thomas</forename><forename type="middle">M</forename><surname>Goniea</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Contributors Michigan Department of Natural Resources</orgName>
+								<orgName type="department" key="dep2">Ciscoes. Michigan Department of Natural Resources</orgName>
+								<orgName type="institution">Michigan Natural Features Inventory</orgName>
+								<address>
+									<settlement>Lansing</settlement>
+									<region>MI</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Jory</forename><forename type="middle">L</forename><surname>Jonas</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Contributors Michigan Department of Natural Resources</orgName>
+								<orgName type="department" key="dep2">Ciscoes. Michigan Department of Natural Resources</orgName>
+								<orgName type="institution">Michigan Natural Features Inventory</orgName>
+								<address>
+									<settlement>Lansing</settlement>
+									<region>MI</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Katelyn</forename><forename type="middle">B</forename><surname>King</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Contributors Michigan Department of Natural Resources</orgName>
+								<orgName type="department" key="dep2">Ciscoes. Michigan Department of Natural Resources</orgName>
+								<orgName type="institution">Michigan Natural Features Inventory</orgName>
+								<address>
+									<settlement>Lansing</settlement>
+									<region>MI</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Steve</forename><forename type="middle">J</forename><surname>Lenart</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Contributors Michigan Department of Natural Resources</orgName>
+								<orgName type="department" key="dep2">Ciscoes. Michigan Department of Natural Resources</orgName>
+								<orgName type="institution">Michigan Natural Features Inventory</orgName>
+								<address>
+									<settlement>Lansing</settlement>
+									<region>MI</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Douglas</forename><forename type="middle">W</forename><surname>Schultz</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Contributors Michigan Department of Natural Resources</orgName>
+								<orgName type="department" key="dep2">Ciscoes. Michigan Department of Natural Resources</orgName>
+								<orgName type="institution">Michigan Natural Features Inventory</orgName>
+								<address>
+									<settlement>Lansing</settlement>
+									<region>MI</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Jack</forename><forename type="middle">E</forename><surname>Taylor</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Contributors Michigan Department of Natural Resources</orgName>
+								<orgName type="department" key="dep2">Ciscoes. Michigan Department of Natural Resources</orgName>
+								<orgName type="institution">Michigan Natural Features Inventory</orgName>
+								<address>
+									<settlement>Lansing</settlement>
+									<region>MI</region>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Great Lakes Ciscoes</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">E78C40CDDDFAEF78074BB6AE158A00E7</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.1" ident="GROBID" when="2026-07-06T12:27+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract/>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>What are Great Lakes ciscoes?</head><p>Great Lakes ciscoes are an ecologically and economically important group of fishes. The term "ciscoes" refers to eight smaller-bodied and taxonomically-difficult species belonging to the genus Coregonus <ref type="bibr" target="#b15">(Eshenroder et al. 2016)</ref>. Historically, ciscoes supported large commercial fisheries and provided critical ecosystem functions as food for predatory fishes such as Lake Trout, Northern Pike and Walleye and as predators on fish and macroinvertebrates <ref type="bibr" target="#b29">(McNickle et al. 2006</ref><ref type="bibr" target="#b7">, Breaker et al. 2020)</ref>. By the middle of the 20 th century, large systemic changes occured in the Great Lakes which were the result of European colonization and the associated effects from industrialization, timber harvest and mining practices. This complex of ciscoe populations declined from habitat destruction, non adapted interactions with invasive species and increased harvest levels <ref type="bibr" target="#b10">(Christie 1974;</ref><ref type="bibr" target="#b27">Mandrak and Cudmore 2010;</ref><ref type="bibr" target="#b6">Allan et al. 2013)</ref>. It is estimated that more than 70% of the diversity of ciscoes had been lost in the Great Lakes post-colonization <ref type="bibr" target="#b15">(Eshenroder et al. 2016)</ref>. Several cisco species are now considered extinct: Longjaw Cisco (C. alpenae), Deepwater Cisco (C. johannae) and Blackfin Cisco (C. nigripinnis) <ref type="bibr" target="#b9">(Bunnell et al. 2023)</ref> and most species of ciscoes remain imperiled.</p><p>Why are Great Lakes ciscoes important? Great Lakes ciscoes are ecologically important members of the Great Lakes fish community and some of the last remaining native species occupying vital roles. Great Lakes Ciscoes function as predators, potentially regulating populations of non-native species and as prey, maintaining healthy predator populations and creating fishing opportunities for anglers and commercial fishers. Conservation actions for focal species outlined in this plan will protect not only ciscoes, but other species in the Great Lakes by association.</p><p>What is the health of Great Lakes ciscoes habitat?</p><p>In the Great Lakes, ciscoes live and spawn in open water environments, nearshore areas and may utilize connecting channels and rivers to spawn. In the middle of the 20 th century, habitats were degraded by pollution and altered by invasive species. Nutrient inputs were greatly curtailed following establishment of the Clean Water Act and populations of Great Lakes ciscoes rebounded in Lake Superior and in a few locations in northern Lake Huron and Lake Michigan.</p><p>Recovery of Great Lakes ciscoes is currently threatened by quagga mussels which influence nutrient dynamics and other aquatic invasive species that compete with and prey upon ciscoes. Coincident with the quagga mussel expansion, the abundance of Diporeia spp. (amphipods) collapsed, which was historically an important and nutritious prey resources for ciscoes. Mussels also alter the physical and chemical habitat of reefs, where many ciscoes likely reproduce. Much of the southern portion of the Great Lakes Basin suffers landscape disturbances from the consequences of agricultural and urban land use practices. Portions of Lake Erie, Lake Michigan and Lake Huron continue to be degraded by excess sediment and nutrient loadings. Since the 1950s, the open water pelagic niche in lakes Michigan and Huron has been dominated by non-native Alewives and Rainbow Smelt.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Goals</head><p>• Continue to identify and characterize status of the spawning habitats of ciscoes in Michigan waters of the Great Lakes and connecting water bodies.</p><p>• Protect and restore degraded historic spawning habitats of ciscoes in Lakes Michigan, Huron, and Superior.</p><p>Call out box: spawning reefs. Many historical spawning reefs were damaged during Michigan's logging era. Restoration and rehabilitation of spawning reefs are a tool to support the recovery of Great Lakes Ciscoes.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Focal species</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Cisco</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Coregonus artedi</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>State threatened</head><p>Formerly known as Lake Herring, Cisco are a pelagic, schooling fish that exhibit diverse feeding strategies and habitat preference in the contemporary ecology of the Great Lakes. In Lake Superior, Cisco are generally plankton feeders that demonstrate a broad distribution throughout the system <ref type="bibr" target="#b33">(Rosinski et al 2020)</ref>. Lake Superior has the most abundant Great Lakes Cisco population, although declines exhibited over the past few decades can be attributed to comparatively low survival to age-1 (Goldsworthy et al 2025); however, conditions in Lake Superior can nonetheless still favor the production of strong year classes (e.g., in 2022, Vinson et al 2024). While less is known about recruitment dynamics in lakes Michigan and Huron where populations are more spatially restricted, Cisco appear to be expanding in northern Lake Michigan <ref type="bibr" target="#b11">(Claramunt et al 2019)</ref>. In the US waters of Lake Huron, Cisco are restricted to the northernmost area of the lake, prompting a joint effort to reintroduce Cisco into central Lake Huron through stocking in Saginaw Bay, a historically important spawning and nursery ground where spawning Cisco populations are absent (LHTC 2023).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Goals</head><p>• Increase abundance of Cisco in Lakes Michigan and Huron.</p><p>• Increase the number of spawning locations for Cisco in Lakes Michigan and Huron.</p><p>• Determine reintroduction feasibility, costs and benefits and identify best practices for Cisco management.</p><p>• Assess and support ongoing efforts at reintroduction to portions of Lake Huron.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Kiyi</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Coregonus kiyi kiyi</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Special concern</head><p>The Kiyi has an elongated, laterally compressed body with large silvery scales with purple iridescence. Kiyi are small fish and generally do not exceed 10 inches in length. Their mouth is small with weak teeth and their lower jaw projects beyond the upper. The Kiyi is among the deepest water forms of Great Lakes cisco species. They are most widely distributed at depths of 450 -600 feet during the day and at less than 250 feet at night. Spawning occurs during late-fall or early-winter at depths of 300 -550 feet <ref type="bibr" target="#b34">(Scott and Crossman 1973)</ref>. Historically ranging throughout the Upper Great Lakes and Lake Ontario, Kiyi now only occur in Lake Superior. This formerly abundant species is extirpated from Lakes Michigan and Huron and the Lake Ontario subspecies is extinct. Their decline is the result of over exploitation and introduced species (COSEWIC 2005, Fisheries and Oceans 2014).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Goals</head><p>• Determine status and trends in populations of Kiyi in Lake Superior.</p><p>• Determine reintroduction feasibility, costs and benefits of re-establishing Kiyi populations in Lakes Michigan and Huron.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Shortjaw Cisco</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Coregonus zenithicus</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>State threatened</head><p>Shortjaw Cisco have an elliptical body covered in large, smooth scales. They are silver in color with an olive to tan back and white underbelly. Their mouth is small and toothless and as the common name implies the lower jaw is shorter or even with the upper jaw <ref type="bibr" target="#b12">(COSEWIC 2003)</ref>. Shortjaw Cisco are pelagic and inhabit the deep, cold waters of Lake Superior at depths ranging from 60 -490 feet. In Lake Superior spawning occurs in either spring or fall at depths of 120 -240 feet. Shortjaw Cisco were once common throughout the upper Great Lakes, but populations have been extirpated in Lakes Michigan, Huron and Erie due to over exploitation for food fisheries. They have declined in Lake Superior and are at high risk of extirpation <ref type="bibr" target="#b8">(Bronte et al. 2010)</ref>. Recent morphological and genetic research has left the status of shortjaw cisco in Lake Superior even more uncertain <ref type="bibr">(Gorman et al. 2025)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Goals</head><p>• Determine status and trends in populations of Shortjaw Cisco in Lake Superior.</p><p>• Determine reintroduction feasibility, costs and benefits of re-establishing Shortjaw Cisco populations in Lakes Michigan and Huron.</p><p>Call out box: How vulnerable are focal species to exploitation? In the past, uncontrolled fishing played a major role in the depletion of Great Lakes fishes. In 1885, the Michigan State Board of Fish Commissioners reported the length of gillnets, pound nets and other nets being fish in Michigan reached over 3,000 miles <ref type="bibr" target="#b35">(Smith 1994</ref>) -equal to the distance from Mackinaw City, Michigan to Juneau, Alaska. Of the Focal Species identified, only Cisco are specifically targeted by fisheries, but regulations exist that either limit their take or restrict fishing to protect fish during the spawning period. Monitoring of existing fisheries will ensure that harvest remains at sustainable levels.  <ref type="bibr" target="#b18">(Fleischer 1992</ref>; Modeling Subcommittee 2022). Populations in Lake Ontario and Lake Erie are lower than observed in the late 1990s to mid 2000s and most areas of Lakes Michigan and Huron have experienced substantial declines since the mid-2000s. While Lake Whitefish are not formally designated as a Species of Greatest Conservation Need, there are concerns about the future of this species due to recent declines. Exploring mechanisms associated with the decline in the recruitment of Lake Whitefish has been the focus of much research in the past decade and while the full picture has yet to emerge, food-web changes mediated by invasive Dreissenid mussels are hypothesized to be a significant factor. Partners are exploring conservation actions for this species, including options to reestablish river-spawning populations and localized control of dreissenid mussels on spawning reefs in the hope that doing so may promote greater resiliency.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Threats and conservation actions</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Great Lakes ciscoes</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Threats</head><p>Invasive &amp; Problematic Species, Pathogens &amp; Genes</p><p>• Predatory invasive species, such as Round Goby, consume eggs; Rainbow Smelt consume larvae; and Sea Lamprey parasitize adults <ref type="bibr">(COSEWIC 2003, Fisheries and</ref><ref type="bibr">Oceans 2014)</ref>.</p><p>• Pelagic invasive species may dominate key niches needed by native ciscoes, especially impacting Cisco.</p><p>• Food web changes induced by colonization of Dreissenid mussels, such as the decline of Diporeia spp. and offshore nutrient deficiency that decreases pelagic food resources, may decrease population stability and resiliency.</p><p>• High predator density may make restoration more challenging in some locations.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Lack of Knowledge</head><p>• Management is hindered by a lack of information regarding population trends <ref type="bibr" target="#b12">(COSEWIC 2003)</ref>, especially recruitment indices, genetic structure of remaining populations <ref type="bibr" target="#b37">(Todd 2003)</ref> and interspecific competition <ref type="bibr" target="#b14">(Derosier 2007)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Transportation &amp; Service Corridors</head><p>• Dredging and shoreline development cause loss of spawning habitat through siltation and sedimentation (Fisheries and Oceans 2014).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Human Intrusions &amp; Disturbance</head><p>• Over-fishing has resulted in the extirpation of focal species in Lakes Michigan and Huron.</p><p>Increased fishing pressure could jeopardize remaining populations in Lake Superior <ref type="bibr" target="#b12">(COSEWIC 2003;</ref><ref type="bibr" target="#b13">COSEWIC 2005)</ref>.</p><p>• Conflicting agency priorities may result in management actions that negatively impact ciscoes.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Changing Weather Patterns</head><p>• Climate change could have a variety of effects: lack of ice cover increases physical stress on eggs in the winter, food availability and timing of phytoplankton and zooplankton blooms may shift.</p><p>Conservation Actions in Lake Superior Species Management CLS1.</p><p>Focus efforts on conservation of existing populations and reintroduction to historically important area when possible. CLS2.</p><p>Focal species are present in waters shared by the United States and Canada. Conservation efforts should be coordinated and implemented through existing collaborative groups such as the Great Lakes Fishery Commission's Lake and Technical Committees. [Kiyi]   Conservation Designation &amp; Planning CLS3. Develop and implement a Cisco management plan for Michigan. [FD]  CLS4.</p><p>Participate and support the Coregonine Restoration Framework initiative being conducted by the USGS.</p><p>Law &amp; Policy CLS5.</p><p>Protect key Cisco spawning and production areas through the environmental permit review process. CLS6.</p><p>Take appropriate enforcement actions for violations of the Invasive Species Order and maintain the Prohibited and Restricted Species list pursuant to the Natural Resources and Environmental Protection Act, 451 of 1994, as amended. [AIS]  CMH11. Identify and map historical and contemporary Cisco spawning locations. CMH12. Determine genetic and phenotypic variability of Cisco to inform re-introduction efforts. CMH13. Identify risks and benefits of reintroduction using different genotypes and phenotypes of Cisco. [LMBCS 6.6] CMH14. Determine if remnant populations are present in southern Lake Michigan. CMH15. Develop habitat suitability models, climate change assessments and priority conservation maps.</p><p>Conservation Actions for Kiyi and Shortjaw Cisco in Lake Superior, Michigan and Huron Law &amp; Policy KS1.</p><p>Protect spawning and nursery areas using the environmental permit review process. KS2.</p><p>Take appropriate enforcement actions for violations of the Invasive Species Order and maintain the Prohibited and Restricted Species list pursuant to the Natural Resources and Environmental Protection Act, 451 of 1994, as amended. [AIS]   Research &amp; Monitoring KS3.</p><p>Contribute to the planning phase of the Coregonine restoration framework. KS4.</p><p>Verify records of Kiyi and Shortjaw Cisco in Lakes Michigan and Huron. KS5.</p><p>Evaluate feasibility of reintroduction efforts for Kiyi and Shortjaw Cisco in Lakes Michigan and Huron and identify potential brood stock from Lake Superior. KS6.</p><p>Determine population trends for Kiyi and Shortjaw Cisco in Lake Superior. [LSBCS 2.7] KS7.</p><p>Determine if bycatch and misidentification are threats to Kiyi and Shortjaw Cisco in Lake Superior. KS8.</p><p>Evaluate and implement fishery regulations to protect small populations or populations subject to active rehabilitation. KS9.</p><p>Determine the mechanisms that have led to the loss of Kiyi and Shortjaw Cisco from Lakes Michigan and Huron to inform conservation efforts for the remaining Lake Superior populations. [Kiyi]  KS10.</p><p>Identify and map historical and contemporary Kiyi and Shortjaw spawning locations. KS11.</p><p>Develop habitat suitability models, climate change assessments and priority conservation maps.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Places for partnership</head><p>This map is designed to help partners connect around important places for focal species. Working together on conservation actions on a voluntary basis provides great benefits to wildlife and people. The Great Lakes cross state and national borders, thus partnership should include multi-state, multi-agency and international cooperation.</p><p>How will we monitor?</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Focal species</head><p>• The Lake Huron Technical Committee has developed a monitoring and evaluation plan for the Cisco reintroduction effort in Saginaw Bay.</p><p>• Continue and expand fall gillnetting surveys to confirm the presence of spawning Cisco populations and gather evidence of their continued recovery.</p><p>• Continue young-of-year recruitment surveys to evaluate spawning success.</p><p>• Continue annual U.S. Geological Survey status and trends assessments of nearshore and offshore fish communities in Lake Superior.</p><p>• Continue annual interagency assessments of pelagic fishes in Lakes Michigan and Huron.</p><p>Extra resources are needed to accomplish these monitoring activities:</p><p>• Conduct acoustic mid-water trawl to identify spawning habitat; trawl sampling does not occur during right time of year to identify spawning habitats for Ciscoes.</p><p>• Quantify abundance and trends of extant Cisco populations in Lakes Huron and Michigan using hydroacoustics and mid-water trawls.</p><p>• Use telemetry to generate a mark-recap population estimates.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Links to other conservation plans</head><p>There have been a multitude of relevant planning efforts across the state and country over the past ten years. Bracketed superscripts throughout the Wildlife Action Plan indicate where the conservation action, goal, or monitoring strategy aligns with those from another plan. For conservation plans with distinct objectives, the objective or strategy number is also included. This linking of plans is meant to assist the expansion of partnerships.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="3,72.00,134.13,337.80,337.80" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="4,72.00,134.13,337.80,337.80" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="5,72.00,134.13,337.50,337.50" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="10,72.00,109.30,261.05,261.05" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Call out box: How vulnerable are focal species to a changing environment? Hoving</head><label></label><figDesc></figDesc><table><row><cell>Habitat</cell><cell>Climate Vulnerability</cell></row><row><cell>Cisco</cell><cell>Moderate</cell></row><row><cell>Kiyi</cell><cell>Extreme</cell></row><row><cell>Shortjaw Cisco</cell><cell>Extreme</cell></row><row><cell>Call out box:</cell><cell></cell></row><row><cell cols="2">et al. (2013) determined climate vulnerabilities for focal species. See threats section for more specifics about how climate change may affect species and habitats.</cell></row><row><cell cols="2">Climate vulnerability rankings are based on the likelihood and amount of change in species abundance or range by 2050 -extreme = extremely likely to substantially decrease or disappear; moderate = a modest decrease is likely.</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Not a focal species, but a species that requires focus: what factors contribute to declining lake whitefish populations and what actions are needed?</head><label></label><figDesc>Lake Whitefish are not a cisco but are another economically and culturally significant Coregonus species in the Great Lakes and until recently, populations have supported large-scale fisheries, particularly in the upper Great Lakes</figDesc><table /></figure>
+		</body>
+		<back>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Research &amp; Monitoring CLS7.</p><p>Determine stock structure, mortality sources and population trends. [LSBCS 2.7] CLS8.</p><p>Determine how strong year classes affect overall population numbers. CLS9.</p><p>Develop an adaptive management strategy for harvest in relation to potential population declines. [LSBCS 2.4]  CLS10.</p><p>Develop habitat suitability models, climate change assessments and priority conservation maps. CLS11.</p><p>Gather information on population dynamics of focal species and the associated fish community, including clarifying the role of focal species in the Lake Superior fish community and offshore food web. [Kiyi]   Conservation Actions in Lakes Michigan and Huron Species Management CMH1.</p><p>Implement projects to rehabilitate the Cisco spawning reefs (e.g. Bays de Noc, Saginaw Bay, Thunder Bay, Good Harbor Bay). CMH2.</p><p>Continue to partner on the reintroduction of Cisco in Saginaw Bay, Lake Huron and other historically suitable spawning grounds Conservation Designation &amp; Planning CMH3.</p><p>Develop guidelines and best practices for restoration efforts of Ciscoes. CMH4.</p><p>Support the recovery plan has been prepared and adopted for Lake Huron through the GLFC. CMH5.</p><p>Develop and implement a Cisco management plan for Michigan. [FD]   Law &amp; Policy CMH6. Protect spawning and nursery areas using the environmental permit review process. CMH7.</p><p>Evaluate and implement fishery regulations to protect small Cisco populations and populations subject to active rehabilitation. [LHFCO]  CMH8.</p><p>Take appropriate enforcement actions for violations of the Invasive Species Order and maintain the Prohibited and Restricted Species list pursuant to the Natural Resources and Environmental Protection Act, 451 of 1994, as amended. [AIS]   Research &amp; Monitoring CMH9.</p><p>Determine Cisco bottlenecks at different life stages and evaluate differences among lakes.</p><p>a. Have developed a stochastic computer model of Cisco recovery so as to test needed threshold levels on key life history parameters in Lake Huron and elsewhere <ref type="bibr" target="#b16">(Fielder and McDonnell 2024)</ref>. CMH10. Determine Cisco status, distribution and sources of mortality. [LHBCS]  </p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<monogr>
+		<title level="m" type="main">Charting the Course: Michigan Department of Natural Resources Fisheries Division&apos;s framework for managing aquatic resources. 2023-2029 Fisheries Division Strategic Plan</title>
+		<imprint>
+			<date type="published" when="2023">2023</date>
+			<publisher>Michigan Department of Natural Resources</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<title level="m" type="main">Management plan for Kiyi, Upper Great Lakes (Coregonus kiyi kiyi) in Canada [Proposed] (Fisheries and Oceans Canada</title>
+		<imprint>
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<title level="m" type="main">The Sweetwater Sea: An International Biodiversity Conservation Strategy for Lake Huron</title>
+		<imprint>
+			<date type="published" when="2010">Franks et al. 2010</date>
+		</imprint>
+	</monogr>
+	<note type="report_type">Technical Report</note>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<title level="m" type="main">Great Water -Strategies to conserve the biodiversity of Lake Michigan</title>
+		<author>
+			<persName><forename type="first">;</forename><surname>Michigami</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Pearsall</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+	<note type="report_type">Technical Report</note>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<monogr>
+		<title level="m">A biodiversity conservation strategy for Lake Superior (Lake Superior Binational Program</title>
+		<imprint>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">The binational Lake Huron Fish Community Objectives</title>
+	</analytic>
+	<monogr>
+		<title level="j">SP</title>
+		<imprint>
+			<biblScope unit="volume">95</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<date type="published" when="1995-04">April 1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Joint analysis of stressors and ecosystem services to enhance restoration effectiveness</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Allan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">B</forename><surname>Mcintyre</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">D P</forename><surname>Smith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">S</forename><surname>Halpern</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">L</forename><surname>Boyer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Buschsbaum</surname></persName>
+		</author>
+		<idno type="DOI">10.1073/pnas.1213841110</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Proc. Natl. Acad. Sci</title>
+		<imprint>
+			<biblScope unit="volume">110</biblScope>
+			<biblScope unit="page" from="372" to="377" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Piscivory in recovering Lake Michigan cisco (Coregonus artedi): The role of invasive species</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">S</forename><surname>Breaker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">L</forename><surname>Pangle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">C</forename><surname>Donner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Smith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">A</forename><surname>Turschak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Claramunt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">B</forename><surname>Bunnell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Jonas</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.jglr.2020.06.013</idno>
+		<ptr target="https://doi.org/10.1016/j.jglr.2020.06.013" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Great Lakes Research</title>
+		<imprint>
+			<biblScope unit="volume">46</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="1402" to="1411" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Decline of the Shortjaw Cisco in Lake Superior: the role of overfishing and risk of extinction</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">B</forename><surname>Bronte</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">H</forename><surname>Hoff</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">T</forename><surname>Gorman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">E</forename><surname>Thogmartin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Schneeberger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">N</forename><surname>Todd</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Transactions of the American Fisheries Society</title>
+		<imprint>
+			<biblScope unit="volume">139</biblScope>
+			<biblScope unit="page" from="735" to="748" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">A science and management partnership to restore coregonine diversity to the Laurentian Great Lakes</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">B</forename><surname>Bunnell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">S</forename><surname>Ackiss</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">M</forename><surname>Alofs</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">O</forename><surname>Brant</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">R</forename><surname>Bronte</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Claramunt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Dettmers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">E</forename><surname>Honsey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">E</forename><surname>Mandrak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Muir</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">J</forename><surname>Santucci</surname><genName>Jr</genName></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">R</forename><surname>Smith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Strach</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Sweka</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">C</forename><surname>Weidel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">P</forename><surname>Mattes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">R</forename><surname>Newman</surname></persName>
+		</author>
+		<idno type="DOI">10.1139/er-2022-0109</idno>
+		<ptr target="https://doi.org/10.1139/er-2022-0109" />
+	</analytic>
+	<monogr>
+		<title level="j">Environmental Reviews</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="716" to="738" />
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Changes in the fish species composition of the Great Lakes</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">J</forename><surname>Christie</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the Fisheries Research Board of Canada</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="page" from="827" to="854" />
+			<date type="published" when="1974">1974</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Resurgence of cisco (Coregonus artedi) in Lake Michigan</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Claramunt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Smith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Donner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Povolo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">E</forename><surname>Herbert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Galarowicz</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.jglr.2019.04.004</idno>
+	</analytic>
+	<monogr>
+		<title level="j">J. Great Lakes Res</title>
+		<imprint>
+			<biblScope unit="volume">45</biblScope>
+			<biblScope unit="page" from="821" to="829" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<monogr>
+		<author>
+			<persName><surname>Cosewic</surname></persName>
+		</author>
+		<title level="m">COSEWIC assessment and update status report on the Shortjaw Cisco Coregonus zenithicus in Canada. Committee on the Status of Endangered Wildlife in Canada</title>
+		<meeting><address><addrLine>Ottawa, Canada</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<monogr>
+		<title level="m" type="main">COSEWIC assessment and update status report on the Lake Ontario Kiyi Coregonus kiyo orientalis and Upper Great Lakes Kiyi Coregonus kiyi kiyi in Canada. Committee on the Status of Endangered Wildlife in Canada</title>
+		<author>
+			<persName><surname>Cosewic</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2005">2005</date>
+			<pubPlace>Ottawa, Canada</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<monogr>
+		<title level="m" type="main">Special animal abstract for Coregonus artedi (cisco, lake herring)</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">L</forename><surname>Derosier</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2007">2007</date>
+			<publisher>Michigan Natural Features Inventory</publisher>
+			<pubPlace>Lansing, Michigan</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Ciscoes (Coregonus, subgenus Leucichthys) of the Laurentian Great Lakes and Lake Nipigon</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">L</forename><surname>Eshenroder</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Vecsei</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">T</forename><surname>Gorman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Yule</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">C</forename><surname>Pratt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">E</forename><surname>Mandrak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">B</forename><surname>Bunnell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Muir</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">USGS Report</title>
+		<imprint>
+			<biblScope unit="page">141</biblScope>
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Evaluation of potential factors affecting the success of Cisco re-introduction and re-establishment in Lake Huron. Ecological Modelling. 496: 110817. Fisheries and Oceans Canada. 2012. Recovery strategy for the shortnose cisco</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">G</forename><surname>Fielder</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">N</forename><surname>Mcdonnell</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="s">Coregonus reighardi) in Canada. Species at Risk Act Recovery Strategy Series. Fisheries and Oceans Canada</title>
+		<imprint>
+			<biblScope unit="page">16</biblScope>
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<monogr>
+		<title level="m" type="main">Management plan for Kiyi, Upper Great Lakes (Coregonus kiyi kiyi) in Canada [Proposed]. Species at Risk Act Management Plan Series. Fisheries and Oceans Canada</title>
+		<imprint>
+			<date type="published" when="2014">2014</date>
+			<publisher>Fisheries and Oceans Canada</publisher>
+			<pubPlace>Ottawa, Canada</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Status of the Coregonine fishes in the Laurentian Great Lakes</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">W</forename><surname>Fleischer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Polskie Archiwum Hydrobiologii</title>
+		<imprint>
+			<biblScope unit="volume">39</biblScope>
+			<biblScope unit="page" from="247" to="259" />
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<monogr>
+		<title level="m" type="main">The Sweetwater Sea: An International Biodiversity Conservation Strategy for Lake Huron -Technical Report. A joint publication of The Nature Conservancy, Environment Canada, Ontario Ministry of Natural Resources Michigan Department of Natural Resources and Environment</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Franks Taylor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Derosier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Dinse</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Doran</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Ewert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Hall</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Herbert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Khoury</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Kraus</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Lapenna</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Mayne</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Pearsall</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Read</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Schroeder</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2010">2010</date>
+			<publisher>Michigan Natural Features Inventory Michigan Sea Grant and The Nature Conservancy of Canada</publisher>
+			<biblScope unit="page">264</biblScope>
+		</imprint>
+	</monogr>
+	<note>with Appendices</note>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Lake Superior fish community and fisheries, 2001-2022: an era of stability</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>Goldsworthy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">D</forename><surname>Carl</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">P</forename><surname>Sitar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Seider</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Vinson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Harding</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">C</forename><surname>Pratt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">P</forename><surname>Piszczek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">K</forename><surname>Berglund</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">B</forename><surname>Michaels</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Barber</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.jglr.2024.102414</idno>
+		<ptr target="https://doi.org/10.1016/j.jglr.2024.102414" />
+	</analytic>
+	<monogr>
+		<title level="j">J. Great Lakes Res</title>
+		<imprint>
+			<biblScope unit="volume">51</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page">102414</biblScope>
+			<date type="published" when="2025">2025</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<monogr>
+		<title level="m" type="main">Changing climate, changing wildlife: a vulnerability assessment of 400 species of greatest conservation need and game species in Michigan</title>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">T</forename><surname>Gorman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">N</forename><surname>Todd ; Ashland</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Wisconsin</forename><surname>Hoving</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">L</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Badra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">J</forename><surname>Klatt</surname></persName>
+		</author>
+		<idno>No. 3564</idno>
+		<imprint>
+			<date type="published" when="2005">2005. 2013</date>
+			<biblScope unit="page">82</biblScope>
+			<pubPlace>Lansing, Michigan</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>U.S. Geological Survey, Great Lakes Science Center,</orgName>
+		</respStmt>
+	</monogr>
+	<note type="report_type">Wildlife Division Report</note>
+	<note>Status of the Shortjaw Cisco (Coregonus zenithicus) in Lake Superior. Final report to the Species at Risk Act program</note>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<monogr>
+		<title level="m" type="main">The search for Lake Superior ciscoes as described by W. Koelz in 1929 yields a surprising discovery</title>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">T</forename><surname>Gorman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">S</forename><surname>Ackiss</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">C</forename><surname>Pratt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">F</forename><surname>Lyons</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">E</forename><surname>Renauer-Bova</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">V</forename><surname>Siegel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J</forename><surname>Ropp</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">C</forename><surname>Kao</surname></persName>
+		</author>
+		<imprint>
+			<publisher>Shortnose Cisco</publisher>
+		</imprint>
+	</monogr>
+	<note>Coregonus reighardi), a presumed extinct species</note>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">The Coregonid fishes of North-Eastern America</title>
+		<author>
+			<persName><forename type="first">W</forename><surname>Koelz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Papers of the Michigan Academy of Science, Arts and Letters</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page" from="303" to="432" />
+			<date type="published" when="1930">1931. 1930</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<monogr>
+		<title level="m" type="main">Evaluation of survival and Reproductive Success of Cultured Cisco (Coregonus artedi) in West Central Lake Huron</title>
+		<author>
+			<orgName type="collaboration">Great Lakes Fishery Commission</orgName>
+		</author>
+		<ptr target="https://www.glfc.org/pubs/lake_committees/huron/Lake%20Huron%20Cisco%20Stocking%20Evaluation%20Plan_Final.pdf" />
+		<imprint>
+			<date type="published" when="2023">2023</date>
+			<publisher>Lake Huron Technical Committee (LHTC)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<monogr>
+		<title level="m" type="main">Lake Huron Technical Committee (LHTC). 2007. Strategy and options for promoting the rehabilitation of Cisco in Lake Huron</title>
+		<author>
+			<orgName type="collaboration">Great Lakes Fishery Commission</orgName>
+		</author>
+		<ptr target="https://www.glfc.org/pubs/lake_committees/huron/LakeHuron_CiscoRehab.pdf" />
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">A biodiversity conservation strategy for Lake Superior. A joint publication of Environment Canada</title>
+		<author>
+			<orgName type="collaboration">Garfield Weston Foundation</orgName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nature Conservancy of Canada and The</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<date type="published" when="2015">2015</date>
+			<publisher>Lake Superior Binational Program</publisher>
+		</imprint>
+		<respStmt>
+			<orgName>U.S. Environmental Protection Agency</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">The fall of native fishes and the rise of non-native fishes in the Great Lakes basin</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">E</forename><surname>Mandrak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Cudmore</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/14634988.2010.507150</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Aquat. Ecol. Health Manage</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page" from="255" to="268" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<monogr>
+		<title level="m" type="main">Charting the Course: Michigan Department of Natural Resources Fisheries Division&apos;s framework for managing aquatic resources. 2023-2029 Fisheries Division Strategic Plan</title>
+		<ptr target="https://www.michigan.gov/dnr/-/media/Project/Websites/dnr/Documents/managing/fisheries/Strategic-Plan_2023.pdf" />
+		<imprint>
+			<date type="published" when="2023">2023</date>
+			<publisher>Michigan Department of Natural Resources (DNR)</publisher>
+		</imprint>
+	</monogr>
+	<note>rev=c3969e99c8784345bd72dba4af257a16</note>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Changes in benthic invertebrate communities of South Bay, Lake Huron following invasion by zebra mussels (Dreissena polymorpha) and potential effects on lake whitefish (Coregonus clupeaformis) diet and growth</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">G</forename><surname>Mcnickle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">D</forename><surname>Rennie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">G</forename><surname>Sprules</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Great Lakes Research</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="180" to="193" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<monogr>
+		<title level="m" type="main">Technical Fisheries Committee Administrative Report 2022: Status of Lake Trout and Lake Whitefish Populations in the 1836 Treaty-Ceded Waters of Lakes Superior, Huron and Michigan, with Recommended Yield and Effort Levels for 2021 and</title>
+		<author>
+			<persName><forename type="first">Modeling</forename><surname>Subcommittee</surname></persName>
+		</author>
+		<ptr target="https://www.michigan.gov/greatlakesconsentdecree" />
+		<imprint>
+			<date type="published" when="2022">2022. 2022</date>
+		</imprint>
+	</monogr>
+	<note>Technical Fisheries Committee</note>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">A method for spatial delineation of conservation, restoration and service units</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Muir</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">S</forename><surname>Ackiss</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">M</forename><surname>Alofs</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">O</forename><surname>Brant</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Egan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Grundel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Jonas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">J</forename><surname>Krabbenhoft</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Lauzon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">E</forename><surname>Mandrak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">P</forename><surname>O'malley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Pearse</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">C</forename><surname>Pratt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Redford</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Ridgway</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">R</forename><surname>Smith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Smith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">B</forename><surname>Bunnell</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">review</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<monogr>
+		<title level="m" type="main">Michigami: Great Water. Strategies to conserve the biodiversity of Lake Michigan</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Pearsall</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Carton De Grammont</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Cavalieri</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Doran</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Elbing</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Ewert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Hall</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Herbert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Khoury</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Mysorekar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Neville</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Paskus</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Sasson</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2012">2012</date>
+			<publisher>Michigan Natural Features Inventory</publisher>
+			<biblScope unit="volume">309</biblScope>
+		</imprint>
+	</monogr>
+	<note type="report_type">Technical Report</note>
+	<note>with Appendices</note>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Niche Partitioning among Native Ciscoes and Nonnative Rainbow Smelt in Lake Superior</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">L</forename><surname>Rosinski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Vinson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Yule</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/tafs.10219</idno>
+		<ptr target="https://doi.org/10.1002/tafs.10219" />
+	</analytic>
+	<monogr>
+		<title level="j">Transactions of the American Fisheries Society</title>
+		<imprint>
+			<biblScope unit="volume">149</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="184" to="203" />
+			<date type="published" when="2020-03">2020. March 2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Freshwater fishes of Canada</title>
+		<author>
+			<persName><forename type="first">W</forename><surname>Scott</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">J</forename><surname>Crossman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Fisheries Research Board of Canada</title>
+		<imprint>
+			<biblScope unit="volume">184</biblScope>
+			<date type="published" when="1973">1973</date>
+			<pubPlace>Ottawa, Canada</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Bulletin</note>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<monogr>
+		<title level="m" type="main">Endangered and Threatened Wildlife of Michigan</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">R</forename><surname>Smith</surname></persName>
+		</author>
+		<editor>D.C. Evers</editor>
+		<imprint>
+			<date type="published" when="1994">1994</date>
+			<publisher>University of Michigan Press</publisher>
+			<pubPlace>Ann Arbor, Michigan</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Fish: An introduction to fish</note>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Evolution of species flocks of fishes in north temperate lakes</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">R</forename><surname>Smith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">N</forename><surname>Todd</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Evolution of Fish Species Flocks</title>
+		<editor>
+			<persName><forename type="first">A</forename><forename type="middle">A</forename><surname>Echelle</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">I</forename><surname>Kornfield</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Orono, Maine</addrLine></address></meeting>
+		<imprint>
+			<publisher>University of Maine Press</publisher>
+			<date type="published" when="1984">1984</date>
+			<biblScope unit="page" from="45" to="68" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<monogr>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">N</forename><surname>Todd</surname></persName>
+		</author>
+		<title level="m">Update COSEWIC status report on the Shortjaw Cisco Coregonus zenithicus in Canada in COSEWIC assessment and update status report on the Shortjaw Cisco Coregonus zenithicus in Canada. Committee on the Status of Endangered Wildlife in Canada</title>
+		<meeting><address><addrLine>Ottawa, Canada</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Status and Trends of the Lake Superior Fish Community</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Vinson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Evrard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">T</forename><surname>Gorman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">B</forename><surname>Phillips</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Yule</surname></persName>
+		</author>
+		<ptr target="http://www.glfc.int/pubs/lake_committees/common_docs/" />
+	</analytic>
+	<monogr>
+		<title level="m">USGS_LakeSuperior_2023Fi shSurveyReport.pdf Photo Credits Kiyi</title>
+		<editor>
+			<persName><forename type="first">Menominee -Joseph</forename><surname>Tomelleri</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Bloater -Todd &amp; Goode Lake Trout -U</forename><forename type="middle">S</forename><surname>Fish</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Wildlife</forename><surname>Service</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Ann Arbor, Michigan; Cisco, Lake Whitefish, Steelhead; Paul Brown</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2023">2024. 2023</date>
+		</imprint>
+		<respStmt>
+			<orgName>Eric Engbretson Lake Superior -Autumn Spitzley Schooling Cisco -National Park Service</orgName>
+		</respStmt>
+	</monogr>
+	<note>Great Lakes Fishery Commission</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>
+

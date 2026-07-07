@@ -1,0 +1,755 @@
+{
+  "document_meta": {
+    "title": "Maryland Forest Action Plan 2020 (Assessment and Strategy)",
+    "year": 2020,
+    "jurisdiction": "Maryland",
+    "document_type": "Forest Action Plan (State Forest Assessment + Strategy + Forest Legacy Assessment of Need)",
+    "document_id": "MD_FAP_2020",
+    "page_count": 250
+  },
+  "orientation": {
+    "summary": "This is Maryland's 2020 Forest Action Plan (FAP), comprising a state forest assessment (Part I), a strategy document, and a Forest Legacy Program Assessment of Need, published by the Maryland Department of Natural Resources Forest Service. The document is a comprehensive forest management plan addressing sustainable forestry, forest health, water quality, and economic vitality of Maryland's forests. Climate change is acknowledged as a significant threat, with dedicated sections on climate impacts, forest vulnerability, and a goal specifically titled 'Maryland Goal V. Respond to Climate Change.' Range shifts are referenced mainly in the context of species/tree species moving in response to climate change (e.g., southern tree species expanding northward, high-elevation species unable to migrate), and the document discusses adaptive capacity of different forest types. The plan references the Mid-Atlantic Forest Ecosystem Vulnerability Assessment and Synthesis as an external analysis; the plan itself performs GIS-based spatial prioritization of forest areas but does not conduct original climate modeling or formal vulnerability index scoring.",
+    "evidence_index": [
+      {
+        "text": "Most Maryland forest types, dominated by oaks and yellow-poplar, are considered to have moderate to high adaptive capacity in the face of climate change, but red spruce habitats are more at risk.",
+        "location": "Findings: Maryland Assessment 2020 / Purpose section",
+        "relevant_elements": ["1.1", "1.2", "1.3"]
+      },
+      {
+        "text": "The assessment evaluated the potential impacts, adaptive capacity, and vulnerability of major forest systems in the region, and found that maritime forests, lowland conifer forests, and montane spruce-fir forests were highly vulnerable to climate impacts.",
+        "location": "Climate Change section (MD_FAP-RA_2020.pdf)",
+        "relevant_elements": ["1.1", "2.1"]
+      },
+      {
+        "text": "The montane spruce-fir was also rated as 'low' for adaptive capacity, which could lead to potential negative impacts. This forest type is perhaps the most at-risk type in the region",
+        "location": "Climate Change section (MD_FAP-RA_2020.pdf)",
+        "relevant_elements": ["1.1", "1.2"]
+      },
+      {
+        "text": "Major findings included: expansion of southern tree species into the region, namely post oak, scarlet oak, and southern red oak as habitat becomes more suitable for those species. Reduction of suitable growing conditions for other species will occur, changing forest composition. Finally, loss of regeneration potential by other species, like high-elevation species will be unable to 'migrate,' as habitat requirements may be more narrow than others.",
+        "location": "Climate Change section (MD_FAP-RA_2020.pdf)",
+        "relevant_elements": ["1.1", "1.3", "3.3", "3.7", "4.2"]
+      },
+      {
+        "text": "Above all stands climate change. The impacts of a changing climate will increase the damaging effects of other forest health threats. Warmer winters will likely increase the spread of invasive insects, and allow insect activity to continue that would otherwise be held in check by cold temperatures. Housing density will likely increase as people migrate to escape floods and severe weather. Fire activity is expected to increase, forests on the Eastern Shore will be inundated by rising waters, and invasive plants like kudzu, will spread further into the state.",
+        "location": "Forest Issues, Threats, & Opportunities (MD_FAP-RA_2020.pdf)",
+        "relevant_elements": ["1.1", "3.5", "3.6", "3.7"]
+      },
+      {
+        "text": "The Mid-Atlantic Forest Ecosystem Vulnerability Assessment and Synthesis report, in particular, identifies impacts and vulnerabilities of forests to climate change in Maryland, and surrounding states.",
+        "location": "Maintenance of Forest Contribution of Global Carbon Cycles / TABLE (MD_FAP-RA_2020.pdf)",
+        "relevant_elements": ["1.1", "2.1"]
+      },
+      {
+        "text": "There is a large volume of research and guidance available to forest planners and managers to assist them with adaptation or mitigation plans. Resources like the Northern Institute of Applied Climate Science or the U.S. Forest Service Climate Change Resource Center can provide forest managers with targeted, region-specific guidance.",
+        "location": "Maintenance of Forest Contribution of Global Carbon Cycles / TABLE (MD_FAP-RA_2020.pdf)",
+        "relevant_elements": ["4.5", "1.1"]
+      },
+      {
+        "text": "As the climate changes, Marylanders can expect an increased risk for extreme events such as drought, storms, flooding, and forest fires; more heat-related stress; the spread of vector-borne diseases, particularly from ticks and mosquitoes, and increased erosion and inundation of low-lying areas along the state's shoreline and coast",
+        "location": "Climate Change section (MD_FAP-RA_2020.pdf)",
+        "relevant_elements": ["3.5", "3.6"]
+      },
+      {
+        "text": "Coastal maritime forests, where saltwater intrusion is a particular concern, are at risk. Maritime forests face increasing levels of saltwater, and a 2016 survey by MDA found that 50,406 acres had been affected by saltwater intrusion. This was an increase from 18,117 acres of forest in 2013.",
+        "location": "Purpose section / Findings: Maryland Assessment 2020 (MD_FAP-RA_2020.pdf)",
+        "relevant_elements": ["3.5"]
+      },
+      {
+        "text": "Maryland's forests can expect to see: a change in the timing and amount of precipitation, an increase in the frequency of intense precipitation events, a change in soil moisture patterns, increased drought and wildfire risk, continued sea level rise.",
+        "location": "Climate Change section (MD_FAP-RA_2020.pdf)",
+        "relevant_elements": ["3.5", "1.1"]
+      },
+      {
+        "text": "Forest productivity is expected to increase, so long as stressors are low or few, but pests, pathogens, and invasive plants are expected to increase.",
+        "location": "Climate Change section (MD_FAP-RA_2020.pdf)",
+        "relevant_elements": ["3.7", "3.6"]
+      },
+      {
+        "text": "Saltwater intrusion areas began to take a toll on forests on the Eastern Shore over the last ten years. This is due to rising sea levels and land subsidence. MDA specialists conducting aerial forest health surveys began noticing ever increasing areas of forest mortality, and could not determine the cause until a closer inspection revealed elevated salt in the water table. These 'ghost forests' are only expected to increase over time",
+        "location": "Conservation Opportunities - Forest Legacy Program (MD_FAP-RA_2020.pdf)",
+        "relevant_elements": ["3.5", "3.6"]
+      },
+      {
+        "text": "Since the beetle is near the northern edge of its range in Maryland, area-wide outbreaks are often controlled by cold winter temperatures. Mild winters and hot, dry springs and summers lead to beetle population buildups, and outbreaks. In 2005, SPB was found for the first time in Talbot County. Populations have also begun further north, outside the historical range of SPB, including Cecil County, Nottingham PA, and Long Island NY.",
+        "location": "Southern Pine Beetle section (MD_FAP-RA_2020.pdf)",
+        "relevant_elements": ["3.7", "3.6"]
+      },
+      {
+        "text": "Climate change and changing weather patterns are leading to warmer winters, drier summers and more heavy rainstorms. Managing landscapes to be more resilient to these changes will require an adaptive management approach based on maintaining ecosystem health, diversity and connectivity.",
+        "location": "Maryland Goal V. Respond to Climate Change (MD-FAP-S_2020.pdf)",
+        "relevant_elements": ["1.1", "1.4", "4.5"]
+      },
+      {
+        "text": "Evaluate climate trends and goals for resistance, resilience, or transition of forest systems when selecting tree species and designing plantings and utilizing climate adaptation resources when considering options.",
+        "location": "Maryland Goal V. Respond to Climate Change (MD-FAP-S_2020.pdf)",
+        "relevant_elements": ["4.5"]
+      },
+      {
+        "text": "Identify species less adapted to current climate trends and match to refuge sites where they could continue to live, such as higher elevations, northern aspects, or moister sites.",
+        "location": "Strategy V.B.1 / TABLE (MD-FAP-S_2020.pdf)",
+        "relevant_elements": ["4.1", "4.2"]
+      },
+      {
+        "text": "Conserve migration corridors and geologically complex portions of the landscape with more options for short distances between varied sites.",
+        "location": "Strategy V.B.1 / TABLE (MD-FAP-S_2020.pdf)",
+        "relevant_elements": ["1.4", "4.1", "4.2"]
+      },
+      {
+        "text": "Consider assisted migration of southern species in parts of the landscape where conditions are changing most rapidly and have the greatest stresses.",
+        "location": "Strategy V.B.1 / TABLE (MD-FAP-S_2020.pdf)",
+        "relevant_elements": ["4.2"]
+      },
+      {
+        "text": "Identify sensitive species and plan for continuity of habitat (restoration, refugia, replication, and relocation if needed).",
+        "location": "Strategy V.B.3 / TABLE (MD-FAP-S_2020.pdf)",
+        "relevant_elements": ["4.1", "4.2"]
+      },
+      {
+        "text": "Widen riparian forests where sea-level rise and erosion are threatening existing forests.",
+        "location": "Strategy V.B.3 / TABLE (MD-FAP-S_2020.pdf)",
+        "relevant_elements": ["3.5", "4.1"]
+      },
+      {
+        "text": "oak-pine systems, glades, and barrens may experience moderate to positive impacts from climate change. These forests are the dominant types in Maryland, and benefit from a diversity of species and tolerances for a wide range of temperatures and water. However, all forest types, regardless of climate change adaptive capacity, require climate informed management",
+        "location": "Climate Change section (MD_FAP-RA_2020.pdf)",
+        "relevant_elements": ["1.1", "1.2", "1.3"]
+      },
+      {
+        "text": "Integrate measures of landscape context to increase benefits of the diverse forest types and plan for shifting conditions over time, including on prior minelands or degraded lands.",
+        "location": "Strategy I.D.3 (MD-FAP-S_2020.pdf)",
+        "relevant_elements": ["4.2", "4.5"]
+      },
+      {
+        "text": "Maryland is also involved with the Nature Conservancy's Central Appalachians Fire Learning Network, which partners with federal, state, and private managers to implement ecological fire management.",
+        "location": "Multistate Priority Areas / Appalachian Mountains section (MD_FAP-RA_2020.pdf)",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "The 2020 Forest Action Plan was presented and distributed to a variety of stakeholder groups, including the Sustainable Forestry Council, the MD/DE Society of American Foresters, the Maryland Invasive Species Council, and others.",
+        "location": "Partner and Stakeholder Involvement (MD-FAP-S_2020.pdf)",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "Assessments will be reviewed for needed updates on at least a five-year cycle.",
+        "location": "Timeline and Funding (MD-FAP-S_2020.pdf)",
+        "relevant_elements": ["4.3"]
+      },
+      {
+        "text": "Outlines a specific timeline for project/program implementation",
+        "location": "Maryland's Forest Strategy (MD-FAP-S_2020.pdf)",
+        "relevant_elements": ["4.3"]
+      },
+      {
+        "text": "Data-driven forest management, experimentation, monitoring actions, and cross-boundary coordination will help managers adjust actions as conditions change.",
+        "location": "Strategy V.B.1 / TABLE (MD-FAP-S_2020.pdf)",
+        "relevant_elements": ["4.3", "4.4", "4.5"]
+      },
+      {
+        "text": "The criteria used within BioNet primarily focuses on the most irreplaceable species and habitats, as well as the habitats where larger numbers of rare species are concentrated. In addition to focusing on vanishing species and habitats, and on high quality common habitats, the criteria were designed to incorporate the larger landscapes required for migratory animals, population dispersal, and habitat shifts resulting from climate change.",
+        "location": "TABLE / Strategy I.B.3 (MD-FAP-S_2020.pdf)",
+        "relevant_elements": ["4.1", "1.4"]
+      },
+      {
+        "text": "Establish and maintain landscape-scale protected forest habitat and movement corridors... Conserve appropriate corridors for movement and dispersal of rare species.",
+        "location": "TABLE / Community Wildfire Protection Plans / Coordination section (MD-FAP-S_2020.pdf)",
+        "relevant_elements": ["1.4", "4.1", "4.2"]
+      },
+      {
+        "text": "Maryland Green Infrastructure Atlas (Figure 5) maps intact forest and wetland 'hubs' and forested stream valleys, ridgelines, or other natural 'corridors.'",
+        "location": "Locating Legacy Areas / AON section (MD-FAP-S_2020.pdf)",
+        "relevant_elements": ["1.4", "4.1"]
+      },
+      {
+        "text": "It is predicted that the sea level will rise between 1.2 and 4.2 feet by 2100, depending on the amount of emissions reductions achieved",
+        "location": "Delmarva Peninsula and Mid-Atlantic Coastal Plain section (MD_FAP-RA_2020.pdf)",
+        "relevant_elements": ["2.3", "3.5"]
+      },
+      {
+        "text": "In Maryland, areas defined as a 'rural' housing density (properties >40 acre in size with one housing unit) are expected to decline (figure 24) to about 1 million acres by 2100, under the A2 scenario, a scenario which implies greater global emissions from the baseline.",
+        "location": "Development Patterns section (MD_FAP-RA_2020.pdf)",
+        "relevant_elements": ["2.3"]
+      }
+    ]
+  },
+  "concepts": {
+    "climate_vulnerability": {
+      "evaluable": true,
+      "score": 3,
+      "evidence": [
+        {
+          "text": "The assessment evaluated the potential impacts, adaptive capacity, and vulnerability of major forest systems in the region, and found that maritime forests, lowland conifer forests, and montane spruce-fir forests were highly vulnerable to climate impacts.",
+          "location": "Climate Change section (MD_FAP-RA_2020.pdf)",
+          "sub_component": "exposure and adaptive capacity",
+          "citations": []
+        },
+        {
+          "text": "Most Maryland forest types, dominated by oaks and yellow-poplar, are considered to have moderate to high adaptive capacity in the face of climate change, but red spruce habitats are more at risk.",
+          "location": "Findings: Maryland Assessment 2020",
+          "sub_component": "adaptive capacity",
+          "citations": []
+        },
+        {
+          "text": "Maryland's forests can expect to see: a change in the timing and amount of precipitation, an increase in the frequency of intense precipitation events, a change in soil moisture patterns, increased drought and wildfire risk, continued sea level rise.",
+          "location": "Climate Change section (MD_FAP-RA_2020.pdf)",
+          "sub_component": "exposure",
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "adaptive_capacity_specificity": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "The montane spruce-fir was also rated as 'low' for adaptive capacity, which could lead to potential negative impacts. This forest type is perhaps the most at-risk type in the region",
+          "location": "Climate Change section (MD_FAP-RA_2020.pdf)",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "oak-pine systems, glades, and barrens may experience moderate to positive impacts from climate change. These forests are the dominant types in Maryland, and benefit from a diversity of species and tolerances for a wide range of temperatures and water.",
+          "location": "Climate Change section (MD_FAP-RA_2020.pdf)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "Adaptive capacity is referenced specifically with named components: thermal/abiotic niche breadth (tolerances for wide range of temperatures), distribution/migration ability (high-elevation species unable to migrate), and life history are invoked. Score 2 is warranted."
+    },
+    "adaptive_capacity_components": {
+      "demography": {
+        "present": false,
+        "evidence": []
+      },
+      "distribution": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "loss of regeneration potential by other species, like high-elevation species will be unable to 'migrate,' as habitat requirements may be more narrow than others.",
+            "location": "Climate Change section (MD_FAP-RA_2020.pdf)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "movement": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "loss of regeneration potential by other species, like high-elevation species will be unable to 'migrate,' as habitat requirements may be more narrow than others.",
+            "location": "Climate Change section (MD_FAP-RA_2020.pdf)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "evolutionary_potential": {
+        "present": false,
+        "evidence": []
+      },
+      "ecological_dependencies": {
+        "present": false,
+        "evidence": []
+      },
+      "abiotic_niche": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "oak-pine systems, glades, and barrens may experience moderate to positive impacts from climate change. These forests are the dominant types in Maryland, and benefit from a diversity of species and tolerances for a wide range of temperatures and water.",
+            "location": "Climate Change section (MD_FAP-RA_2020.pdf)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "life_history": {
+        "present": false,
+        "evidence": []
+      }
+    },
+    "connectivity": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Conserve migration corridors and geologically complex portions of the landscape with more options for short distances between varied sites.",
+          "location": "Strategy V.B.1 / TABLE (MD-FAP-S_2020.pdf)",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Climate change and changing weather patterns are leading to warmer winters, drier summers and more heavy rainstorms. Managing landscapes to be more resilient to these changes will require an adaptive management approach based on maintaining ecosystem health, diversity and connectivity.",
+          "location": "Maryland Goal V. Respond to Climate Change (MD-FAP-S_2020.pdf)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "Connectivity is explicitly framed as a climate-relevant tool (maintaining connectivity to respond to climate change; conserving 'migration corridors' in the context of shifting climate conditions). Score 2 is appropriate."
+    }
+  },
+  "tools": {
+    "vulnerability_models": {
+      "evaluable": true,
+      "score": 2,
+      "named_tools": ["Mid-Atlantic Forest Ecosystem Vulnerability Assessment and Synthesis"],
+      "evidence": [
+        {
+          "text": "The Mid-Atlantic Forest Ecosystem Vulnerability Assessment and Synthesis report, in particular, identifies impacts and vulnerabilities of forests to climate change in Maryland, and surrounding states.",
+          "location": "Maintenance of Forest Contribution of Global Carbon Cycles / TABLE (MD_FAP-RA_2020.pdf)",
+          "sub_component": null,
+          "citations": ["Butler-Leopold et al. 2018, Gen. Tech. Rep. NRS-181"]
+        },
+        {
+          "text": "The assessment evaluated the potential impacts, adaptive capacity, and vulnerability of major forest systems in the region, and found that maritime forests, lowland conifer forests, and montane spruce-fir forests were highly vulnerable to climate impacts.",
+          "location": "Climate Change section (MD_FAP-RA_2020.pdf)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The Mid-Atlantic Forest Ecosystem Vulnerability Assessment results are substantively incorporated into the management decisions and findings about Maryland's focal forest types — this meets the 'applied' threshold even though the analysis was conducted externally."
+    },
+    "niche_models": {
+      "evaluable": true,
+      "score": 0,
+      "named_tools": [],
+      "evidence": [],
+      "absence_note": "No species distribution models or ecological niche models are referenced in the document."
+    },
+    "climate_models": {
+      "evaluable": true,
+      "score": 1,
+      "named_tools": [],
+      "evidence": [
+        {
+          "text": "It is predicted that the sea level will rise between 1.2 and 4.2 feet by 2100, depending on the amount of emissions reductions achieved",
+          "location": "Delmarva Peninsula and Mid-Atlantic Coastal Plain section (MD_FAP-RA_2020.pdf)",
+          "sub_component": null,
+          "citations": ["Boesch, 2018"]
+        },
+        {
+          "text": "In Maryland, areas defined as a 'rural' housing density (properties >40 acre in size with one housing unit) are expected to decline (figure 24) to about 1 million acres by 2100, under the A2 scenario, a scenario which implies greater global emissions from the baseline.",
+          "location": "Development Patterns section (MD_FAP-RA_2020.pdf)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The A2 scenario is cited for land use projections and a sea-level rise projection references emission pathways, but no named GCM or downscaled climate model is applied to the document's focal subjects. Scored 1 (referenced generally rather than applied).",
+      "time_horizon_years": [2100],
+      "emission_scenarios": ["A2"]
+    },
+    "connectivity_models": {
+      "evaluable": true,
+      "score": 2,
+      "named_tools": ["Maryland Green Infrastructure Atlas"],
+      "evidence": [
+        {
+          "text": "Maryland Green Infrastructure Atlas (Figure 5) maps intact forest and wetland 'hubs' and forested stream valleys, ridgelines, or other natural 'corridors.'",
+          "location": "Locating Legacy Areas / AON section (MD-FAP-S_2020.pdf)",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "The criteria used within BioNet primarily focuses on the most irreplaceable species and habitats, as well as the habitats where larger numbers of rare species are concentrated. In addition to focusing on vanishing species and habitats, and on high quality common habitats, the criteria were designed to incorporate the larger landscapes required for migratory animals, population dispersal, and habitat shifts resulting from climate change.",
+          "location": "TABLE / Strategy I.B.3 (MD-FAP-S_2020.pdf)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The Maryland Green Infrastructure Atlas (a connectivity mapping tool) is applied to identify Forest Legacy Areas and inform forest conservation priorities for the document's focal subjects. BioNet incorporates habitat shifts from climate change. Scored 2."
+    }
+  },
+  "context": {
+    "management_scale": {
+      "local": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Identify species less adapted to current climate trends and match to refuge sites where they could continue to live, such as higher elevations, northern aspects, or moister sites.",
+            "location": "Strategy V.B.1 / TABLE (MD-FAP-S_2020.pdf)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "site": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Identify species less adapted to current climate trends and match to refuge sites where they could continue to live, such as higher elevations, northern aspects, or moister sites.",
+            "location": "Strategy V.B.1 / TABLE (MD-FAP-S_2020.pdf)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "watershed": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Strategy III.B.1. Identify priority watersheds and work with communities to improve source water protection through watershed forestry.",
+            "location": "Objective III.B. Manage Forests for High-Quality Drinking Water (MD-FAP-S_2020.pdf)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "city": {
+        "present": false,
+        "evidence": []
+      },
+      "county": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "In 2015, SPB was found for the first time in Talbot County. Populations have also begun further north, outside the historical range of SPB, including Cecil County, Nottingham PA, and Long Island NY.",
+            "location": "Southern Pine Beetle section (MD_FAP-RA_2020.pdf)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "within_state_region": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Major findings included: expansion of southern tree species into the region, namely post oak, scarlet oak, and southern red oak as habitat becomes more suitable for those species.",
+            "location": "Climate Change section (MD_FAP-RA_2020.pdf)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "state": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Most Maryland forest types, dominated by oaks and yellow-poplar, are considered to have moderate to high adaptive capacity in the face of climate change, but red spruce habitats are more at risk.",
+            "location": "Findings: Maryland Assessment 2020",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "multistate": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The Appalachian Mountains stretch from Alabama to Maine and include Maryland's three most western countries (Garrett, Allegheny, and Washington) in the Central Appalachian region.",
+            "location": "Appalachian Mountains section (MD_FAP-RA_2020.pdf)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "national": {
+        "present": false,
+        "evidence": []
+      },
+      "transnational": {
+        "present": false,
+        "evidence": []
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The assessment evaluated the potential impacts, adaptive capacity, and vulnerability of major forest systems in the region, and found that maritime forests, lowland conifer forests, and montane spruce-fir forests were highly vulnerable to climate impacts.",
+            "location": "Climate Change section (MD_FAP-RA_2020.pdf)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecoregion": {
+        "present": false,
+        "evidence": []
+      },
+      "province": {
+        "present": false,
+        "evidence": []
+      },
+      "section": {
+        "present": false,
+        "evidence": []
+      },
+      "subsection": {
+        "present": false,
+        "evidence": []
+      },
+      "lake": {
+        "present": false,
+        "evidence": []
+      },
+      "river": {
+        "present": false,
+        "evidence": []
+      },
+      "district": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["Eastern Shore", "Appalachian Mountains", "Central Appalachia", "Chesapeake Bay watershed", "Delmarva Peninsula", "I-95 Corridor", "Maryland"]
+    },
+    "biological_unit_score": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Major findings included: expansion of southern tree species into the region, namely post oak, scarlet oak, and southern red oak as habitat becomes more suitable for those species.",
+          "location": "Climate Change section (MD_FAP-RA_2020.pdf)",
+          "sub_component": "species",
+          "citations": []
+        },
+        {
+          "text": "The assessment evaluated the potential impacts, adaptive capacity, and vulnerability of major forest systems in the region, and found that maritime forests, lowland conifer forests, and montane spruce-fir forests were highly vulnerable to climate impacts.",
+          "location": "Climate Change section (MD_FAP-RA_2020.pdf)",
+          "sub_component": "ecosystem/habitat",
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "biological_unit_components": {
+      "species": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Major findings included: expansion of southern tree species into the region, namely post oak, scarlet oak, and southern red oak as habitat becomes more suitable for those species.",
+            "location": "Climate Change section (MD_FAP-RA_2020.pdf)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "population": {
+        "present": false,
+        "evidence": []
+      },
+      "habitat": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The assessment evaluated the potential impacts, adaptive capacity, and vulnerability of major forest systems in the region, and found that maritime forests, lowland conifer forests, and montane spruce-fir forests were highly vulnerable to climate impacts.",
+            "location": "Climate Change section (MD_FAP-RA_2020.pdf)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "all forest types, regardless of climate change adaptive capacity, require climate informed management to address threats that will be exacerbated by climate change.",
+            "location": "Climate Change section (MD_FAP-RA_2020.pdf)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "community": {
+        "present": false,
+        "evidence": []
+      },
+      "genotype_phenotype": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["post oak", "scarlet oak", "southern red oak", "red spruce", "maritime forests", "lowland conifer forests", "montane spruce-fir forests", "oak-pine systems", "Hemlock-Northern Hardwood Forest", "Atlantic white-cedar"]
+    },
+    "partnerships_and_funding": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "In fiscal year 2019, the U.S. Forest Service Eastern Region State and Private Forestry invested $2.2 million in Maryland's forestry programs, including forest legacy, state fire assistance, and urban and community forestry.",
+          "location": "Investments in Forest Health, Management, Research, and Wood Processing (MD_FAP-RA_2020.pdf)",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Maryland is also involved with the Nature Conservancy's Central Appalachians Fire Learning Network, which partners with federal, state, and private managers to implement ecological fire management.",
+          "location": "Multistate Priority Areas / Appalachian Mountains (MD_FAP-RA_2020.pdf)",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "The Nature Conservancy in partnership with the Central Appalachian Spruce Restoration Initiative, and other organizations, including the Maryland Department of Natural Resource, have been working to restore Central Appalachian red spruce forests in western Maryland and West Virginia since 1996; as of August 2019, they have planted 99,000 red spruce seedlings",
+          "location": "Appalachian Mountains section (MD_FAP-RA_2020.pdf)",
+          "sub_component": null,
+          "citations": ["The Nature Conservancy, 2019"]
+        }
+      ],
+      "absence_note": "The document shows strategic investment with active partnerships (federal-state-NGO) and specific funding allocations for implementing climate-relevant forest adaptation actions. Score 2 is warranted."
+    },
+    "climate_threat_habitat_degradation": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Coastal maritime forests, where saltwater intrusion is a particular concern, are at risk. Maritime forests face increasing levels of saltwater, and a 2016 survey by MDA found that 50,406 acres had been affected by saltwater intrusion. This was an increase from 18,117 acres of forest in 2013.",
+          "location": "Findings: Maryland Assessment 2020",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "forests on the Eastern Shore will be inundated by rising waters, and invasive plants like kudzu, will spread further into the state.",
+          "location": "Forest Issues, Threats, & Opportunities (MD_FAP-RA_2020.pdf)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_threat_species_vital_rates": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Saltwater intrusion areas began to take a toll on forests on the Eastern Shore over the last ten years. This is due to rising sea levels and land subsidence. MDA specialists conducting aerial forest health surveys began noticing ever increasing areas of forest mortality, and could not determine the cause until a closer inspection revealed elevated salt in the water table. These 'ghost forests' are only expected to increase over time",
+          "location": "Conservation Opportunities - Forest Legacy Program (MD_FAP-RA_2020.pdf)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "Tree mortality from saltwater intrusion (a climate-driven process via sea level rise) qualifies as a direct effect on vital rates (survival/mortality). The 'ghost forests' framing makes clear this is direct mortality, not just habitat degradation."
+    },
+    "climate_threat_biotic_stressors": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Warmer winters will likely increase the spread of invasive insects, and allow insect activity to continue that would otherwise be held in check by cold temperatures.",
+          "location": "Forest Issues, Threats, & Opportunities (MD_FAP-RA_2020.pdf)",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Major findings included: expansion of southern tree species into the region, namely post oak, scarlet oak, and southern red oak as habitat becomes more suitable for those species. Reduction of suitable growing conditions for other species will occur, changing forest composition.",
+          "location": "Climate Change section (MD_FAP-RA_2020.pdf)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    }
+  },
+  "actions": {
+    "priority_habitat_identification": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Maryland Green Infrastructure Atlas (Figure 5) maps intact forest and wetland 'hubs' and forested stream valleys, ridgelines, or other natural 'corridors.'",
+          "location": "Locating Legacy Areas / AON section (MD-FAP-S_2020.pdf)",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Identify species less adapted to current climate trends and match to refuge sites where they could continue to live, such as higher elevations, northern aspects, or moister sites.",
+          "location": "Strategy V.B.1 / TABLE (MD-FAP-S_2020.pdf)",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "The criteria used within BioNet primarily focuses on the most irreplaceable species and habitats, as well as the habitats where larger numbers of rare species are concentrated. In addition to focusing on vanishing species and habitats, and on high quality common habitats, the criteria were designed to incorporate the larger landscapes required for migratory animals, population dispersal, and habitat shifts resulting from climate change.",
+          "location": "TABLE / Strategy I.B.3 (MD-FAP-S_2020.pdf)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "Priority habitat maps are produced (Forest Legacy Areas, Green Infrastructure hubs/corridors, BioNet layers, wildfire priority maps, working forest priority maps). The BioNet criteria explicitly incorporate habitat shifts from climate change, and refuge sites are proposed spatially (higher elevations, northern aspects). Score 2."
+    },
+    "targeted_range_shift_actions": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Consider assisted migration of southern species in parts of the landscape where conditions are changing most rapidly and have the greatest stresses.",
+          "location": "Strategy V.B.1 / TABLE (MD-FAP-S_2020.pdf)",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Conserve migration corridors and geologically complex portions of the landscape with more options for short distances between varied sites.",
+          "location": "Strategy V.B.1 / TABLE (MD-FAP-S_2020.pdf)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "time_bound_and_monitoring": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Assessments will be reviewed for needed updates on at least a five-year cycle.",
+          "location": "Timeline and Funding (MD-FAP-S_2020.pdf)",
+          "sub_component": "deadline",
+          "citations": []
+        },
+        {
+          "text": "Outlines a specific timeline for project/program implementation",
+          "location": "Maryland's Forest Strategy (MD-FAP-S_2020.pdf)",
+          "sub_component": "deadline",
+          "citations": []
+        }
+      ],
+      "absence_note": "The plan includes a 5-year assessment review cycle and references timelines for program implementation. Monitoring is mentioned (effectiveness monitoring of BMPs, progress tracking measures), but it is discussed as a plan-level principle rather than attached to specific climate-adaptation actions at the action level. Score 1 rather than 2 because the action-level deadlines and paired effectiveness monitoring for range-shift-specific actions are not operationalized in the action tables."
+    },
+    "evidence_of_efficacy": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "The Nature Conservancy in partnership with the Central Appalachian Spruce Restoration Initiative, and other organizations, including the Maryland Department of Natural Resource, have been working to restore Central Appalachian red spruce forests in western Maryland and West Virginia since 1996; as of August 2019, they have planted 99,000 red spruce seedlings",
+          "location": "Appalachian Mountains section (MD_FAP-RA_2020.pdf)",
+          "sub_component": null,
+          "citations": ["The Nature Conservancy, 2019"]
+        }
+      ],
+      "absence_note": "The document references the ongoing red spruce restoration effort but provides no efficacy data (survival rates, population outcomes). Actions are generally presented with ecological rationale (first principles) rather than citations to efficacy studies. Score 1 — rationale is outlined but no substantive evidence to support actions is presented.",
+      "projects": ["Central Appalachian Spruce Restoration Initiative: TNC and partners have planted 99,000 red spruce seedlings since 1996 in western Maryland and West Virginia, providing a proof-of-concept for assisted planting of climate-vulnerable high-elevation species, though outcomes monitoring data are not presented in the document."]
+    },
+    "adaptation_planning_frameworks": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Climate change and changing weather patterns are leading to warmer winters, drier summers and more heavy rainstorms. Managing landscapes to be more resilient to these changes will require an adaptive management approach based on maintaining ecosystem health, diversity and connectivity.",
+          "location": "Maryland Goal V. Respond to Climate Change (MD-FAP-S_2020.pdf)",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Evaluate climate trends and goals for resistance, resilience, or transition of forest systems when selecting tree species and designing plantings and utilizing climate adaptation resources when considering options.",
+          "location": "Maryland Goal V. Respond to Climate Change / Example Tactics (MD-FAP-S_2020.pdf)",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Data-driven forest management, experimentation, monitoring actions, and cross-boundary coordination will help managers adjust actions as conditions change.",
+          "location": "Strategy V.B.1 / TABLE (MD-FAP-S_2020.pdf)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document explicitly invokes 'resistance, resilience, or transition' framing for forest systems under climate change — this maps to the Resistance-Resilience-Transition (RRT) framework. Adaptive management is specifically framed in the climate context ('Managing landscapes to be more resilient to these changes will require an adaptive management approach'). Resources like the Northern Institute of Applied Climate Science are referenced. Score 2 for specific climate adaptation planning frameworks."
+    }
+  },
+  "coding_meta": {
+    "coder": "llm:claude-sonnet-4-6",
+    "model": "claude-sonnet-4-6",
+    "provider": "claude",
+    "codebook_version": "0.4",
+    "ingest": "text",
+    "design": "single",
+    "temperature": null,
+    "thinking": null,
+    "thinking_effort": null,
+    "coded_at": "2026-07-07T00:31:31Z",
+    "notes": {}
+  }
+}

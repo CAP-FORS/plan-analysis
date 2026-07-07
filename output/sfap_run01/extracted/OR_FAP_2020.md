@@ -1,0 +1,2582 @@
+## May 2021
+
+Our State Forests Division restructured staffing and operations to ensure the highest and best use of limited personnel and resources, and also redesigned its recreation and educational programs to make them more sustainable, equitable and responsive to recreation needs.
+Oregon Governor Kate Brown has made climate change mitigation a priority for the state. Her Executive Order No. 20-04 directs state agencies to take actions to reduce and regulate greenhouse gas emissions. ODF's Board has been clear in prioritizing response to climate change as a fundamental principle guiding our actions. In response, we are developing a Climate Change Plan. In line with the plan's vision and principles, staff and leadership have outlined eight initial areas of focus for forestry climate action goals. These range from silviculture and State Forest management to fire response and urban forestry.
+ODF has also worked with the USDA Forest Service, Pacific Northwest Research Station, and stakeholders to produce the Forest Ecosystem Carbon Report. The report quantifies how much carbon is currently sequestered and stored in Oregon's forests, and will help guide forest management for the next decade and beyond as a tool for carbon sequestration.
+Our Forest Legacy Program successfully facilitated the acquisition of nearly 1,800 privately owned acres at Wallowa Lake, conserving the unique East Moraine by placing it in public hands, with a future community forest envisioned on part of the property. Thanks to Congress passing the Great American Outdoors Act, the national Land and Water Conservation Fund will now be fully funded. Oregon will now have even more opportunities to build on the successful Forest Legacy program, which conserves forestlands at risk of development.
+In August of 2019 the State of Oregon through ODF and the USDA Forest Service entered into a Shared Stewardship Agreement to formalize collaboration toward mutual benefit and interests at a statewide scale, using all available tools. ODF is gaining momentum for forest restoration projects under the Good Neighbor Authority (GNA). GNA is applied through ODF's Federal Forest Restoration Program (FFR), which has been active since 2016. FFR district coordinators work with local staff to develop projects that benefit state, federal and private forestlands across a wider landscape than any one agency could accomplish alone. Similarly, ODF is a partner in Joint Chiefs projects between the state, USDA Forest Service, and Natural Resources Conservation Service that seek to reduce barriers to landowners for forest management planning and cost share.
+On state forests in western Oregon, the State Forests Division is exploring a potential Habitat Conservation Plan as an opportunity to provide a more holistic and cost-effective way to comply with the federal Endangered Species Act (ESA), while managing state forests in western Oregon for economic, environmental and social benefits.
+The proposed plan would cover about 640,000 acres of ODF-managed land west of the Cascades. It would include conservation strategies for current and likely-to-be-listed species under the ESA, such as the Northern spotted owl, marbled murrelet, and Oregon Coast and Lower Columbia River coho salmon.
+If an HCP emerges from the public process and is approved by the U.S. Fish and Wildlife Service and National Oceanic and Atmospheric Administration (NOAA) Fisheries, ODF would be assured of ESA compliance for 70 years, so long as the terms of the HCP are followed. This assurance would create more certainty in harvest levels, continue to generate revenue to support public services in rural communities, and provide protections for covered species for at least the next seven decades.
+
+## Sitka Spruce on Oregon Coast
+
+## Gilchrist State Forest
+
+Oregon Forest Ac on Plan
+Execu ve Summary
+
+## Oregon's Forestland
+
+Oregon's forests cover approximately 30 million acres and consist of federal (60%), private (35%), state (3%), tribal (1%), and other public (1%) ownerships. As the nation's top softwood timber producer, Oregon's forests produce 18% of America's softwood lumber, about 5.2 billion board feet per year. Oregon supplies 2.5 billion board feet of plywood annually, which is 30% of the nation's total production. Oregon is also home to 25% of the engineered wood (glulam, I-joist, laminated veneer, cross-laminated timber) facilities in the U.S.
+In 2019, forest timber product revenues of $10 billion supported about 3% of total statewide employment. A percentage of timber sale revenue from federal lands, 25% U.S. Forest Service and 50% Bureau of Land Management, help fund education, road construction, libraries, fire, and police protection across the state.
+
+## Oregon's Ac on Plan
+
+Forward looking discussions on wildfire prevention, mitigation, protection, and recovery were on agendas for policy makers and members of Oregon's legislature since receiving recommendations in late 2019 from the Governor's Council on Wildfire Response. Then in September 2020, ODF's complete and coordinated system for wildfire protection was called into action to respond to the Labor Day wildfires that burned over 1 million acres and destroyed over 4,000 residences and 1,000 other structures. This historic event will influence legislation, planning, budgets, and priorities for years to come. Significant change is expected, and strategies set forth in Oregon's Action Plan provide a strategic path to recovery and restoration.
+
+## Governor's Council on Wildfire Readiness and Response
+
+In 2019, following several seasons of record setting devastation due to unprecedented wildfire and suppression costs, Governor Brown established the Governor's Council on Wildfire Response. The Oregon Department of Forestry (ODF) supported and worked closely with the Council, comprised of a diverse group of Oregonians and stakeholders. The Council reviewed Oregon's current model for wildfire prevention, preparedness, and response. Following nine months of intensive research, analysis, and Oregon's Forest Action Plan builds upon the plan developed in 2010, and the 2015 revision. As is evident through the State Forester's message, this plan emerges in a period of unprecedented challenges for forest managers. This plan reflects an effort to identify the main threats anticipated over the next 10 years. It then seeks opportunities to address those identified threats through sound strategies prioritizing available resources so that they can be applied with the most impact.
+May 2021
+
+## Next Steps in Opera onalizing Shared Stewardship
+
+Oregon's Shared Stewardship agreement focuses on the first step of the Cohesive Wildfire Strategy, creating resilient landscapes through restoration and modification of fuel loads to historic levels. The agreement creates a framework for increasing the impact of limited funding, applying it to the highest priority landscapes, as well as balancing risk with the workforce capacity to implement successful projects.
+Oregon Revised Statute 477.005 directs the State Forester to maintain a complete and coordinated fire protection system, reinforced by the Oregon Legislature with a performance goal of keeping wildfires to 10 acres or less. Each tenet of the Cohesive Wildfire Strategy assists with meeting that goal.
+Successful implementation of Shared Stewardship will not only create resilient landscapes but also resilient communities, supporting the other two goals of the Cohesive Wildfire Strategy, protecting homes and communities, and having effective response to wildfires. These goals are intertwined and complimentary to each other.
+
+## Oregon's Priority Issues
+
+Climate change, drought, and human activity in and around forestlands have increased, challenging the ability of ODF to fulfill its mission of "…protecting managing, and promoting stewardship of Oregon's forests to enhance environmental, economic, and community sustainability."
+Over the last three decades, as the frequency and scale of large fires have increased, the cost of fighting wildfires has multiplied. Larger fires require more resources, and for longer periods, raising ODF's need for resources to protect communities and forestlands from catastrophic wildfire. Conserving Oregon's forest ecosystems and protecting the forestland values that Oregonians regard highly, is increasingly challenging for ODF and for forest managers across all ownerships.
+The challenges facing Oregon's forestlands are interrelated and overlapping. Forest health is essential to water quality and water quantity. Conserving working forests protects water and sound management promotes forest health and the economic benefits. Urban forests deliberation by over 100 individuals serving on the Council and committees, the Council adopted the framework proposed by the National Cohesive Wildland Fire Management Strategy, which establishes the following three goals:
+ Create Fire-Adapted Communities  Restore and Maintain Resilient Landscapes  Respond Safely and Effectively to Wildfire Continued expansion of buildings in the WUI has increased the need for prevention, mitigation, and protection capacity.
+
+## Shared Stewardship
+
+To better address wildfire and forest health issues across the state, ODF entered a Shared Stewardship MOU with the USDA Forest Service. The Shared Stewardship agreement formalizes mutual efforts to accelerate the pace and scale of restoration across all of Oregon's forestlands. Oregon is committed to the National Cohesive Wildland Fire Management Strategy and pioneering work in All Lands, All Hands projects that leverage partnerships and resources toward restoration outcomes on a landscape scale. Oregon's Federal Forest Restoration program exemplifies Oregon's commitment to use state funding and resources to increase the pace and scale of restoration work on federal lands.
+and their management are important to water quantity and air quality. Climate change and the longer duration and intensity of droughts are impacting the health of trees, causing species to die off and forests to be more susceptible to invasive species. With the increase in larger and longer-burning wildfires, the capacity for wildfire prevention, mitigation, response, and recovery needs to be increased to meet the growing challenges. 
+
+## Priority Issues
+
+## Measuring Success Through Performance Measures
+
+Oregon's Forest Action Plan incorporates a set of key performance measures developed and adopted by the National Association of State Foresters. They are crafted to use data that states already collect and report to the USDA Forest Service, State, and Private forestry programs. The data provides a broad indication of success. Additionally, these measures reflect Oregon's Priority Issues, the National Priorities, as well as USDA Forest Service, State, and Private Forestry Programs. Through a thoughtful combination of geographic prioritization and data that is reported annually, these measures will allow ODF to quantify and track success. As other states adopt these same performance measures, forestry departments will be able to highlight successes statewide, regionally, and nationally.
+Objective: Wildfire Risk is Reduced through active Forest Management Wildfire risk can be reduced through active vegetation management. Left unmanaged, fuels build up over time and can increase the severity of wildfires. Large, long-duration wildfires require more resources and are costly to suppress. Strategically prioritizing fuels mitigation efforts in areas more likely to experience large, long-duration wildfires can reduce wildfire severity and potential impacts. Efforts using a Shared Stewardship approach seek to leverage investments across landownerships and partnerships where possible.
+Performance Measures: acres treated, percent of high wildfire risk area 1 impacted, reported as a percent reduction in risk. 
+
+## Forest Health Protec on
+
+The ODF Forest Health Protection team, supported by USFS State and Private Forest funding, provides technical assistance on forest health-related matters to protect forests from harm. These include identifying and advising on eradication or control methods for destructive native and non-native insects, pathogens, and plants. Additionally, the USFS Digital Mobile Sketch Mapping (DMSM) system has been fully integrated into the annual statewide aerial survey (30 million acres) to improve the quality and quantity of forest health data.
+Sudden Oak Death (SOD) remains a priority in Oregon. New infestations (450 acres of treatment needed) have been found within quarantine treatment boundaries. The virulent EU1 strain of the pathogen comprises 135 of these acres and is prioritized for treatment. Treatments in calendar year 2019 totaled 118 acres. The Sudden Oak Death Task Force identified the need for an economic assessment of the SOD program. SOD treatments of $30 million over the next 20 years could offset a loss of 1,200 jobs by 2028, which equates to $580 million in wages from 2028 to 2038. Current SOD funding includes dollars from NRCS, $1.2 million for OSU research secured by Sen. Merkley, research funding in the Farm Bill, $1.7 million state legislative dollars, and continued USFS funding.
+Other invasive species pose threats, and four species new to Oregon have been detected due to insect trapping. Over 400 invasive species "first detectors" have been trained through the Oregon Forest Pest Detector Program. In support of the "Emerald Ash Borer Readiness and Response Plan," Oregon ash seeds are being collected from throughout this tree's natural range to ensure species preservation and aid resistance research.
+Oregon Department of Agriculture continued the weed-free gravel/rock pilot program, certifying over 235,000 tons of material as weed-free, and identified and treated the only known populations of Welted Thistle in the US. The Invasive Noxious Weed Control Program showed a 1:34 cost-benefit for Early Detection and Rapid Response efforts, and a 1:15 cost-benefit for biological control programs. ODF also joined forces with the Oregon Bee Project in pollinator research. Baseline knowledge about pollinator populations and habitat needs will improve voluntary conservation program actions.
+
+## Forest Legacy Program (FLP)
+
+The FLP is implemented in partnership between ODF and USFS with the goal of conserving and maintaining working forestland. The purpose of the program is to identify and conserve environmentally important privately owned forest lands that are threatened by conversion to non-forest uses. ODF works with local units of government and conservation organizations to acquire forestlands in fee title or through conservation easement. Wallowa County acquired the 1,539-acre East Moraine Wallowa Lake tract with funding through the Forest Legacy Program.
+Previously the FLP added 17,000 Acres of Ponderosa pine forest to the Gilchrist State Forest. The conservation project sustains jobs, generates economic development funds in Klamath County and protects a large aquifer recharge area for the Wild and Scenic Deschutes River. The FLP Blue Mountain Heritage project was Oregon's first working forest easement. This easement perpetually protects 1,360 acres forestlands, grazelands and wildlife Habitat in Union County.
+ODF is currently working to expand the Forest Legacy Program through its purchase of a conservation easement on 19,000 acres. The Hood River Fish and Forest Conservation project is in Hood River County east of Portland. Forest Legacy Program funding will support fee-title purchases by local units of government within the Arch Cape Watershed project as well as the Spence Mountain Project. These projects will support local community managed forests and provide public access opportunities.
+
+## Oregon Forest Ac on Plan
+
+## Forest Stewardship and Landowner Assistance
+
+The Forest Stewardship Program assists governments and private landowners with the goal of improving resource conditions on forestlands. The program helps landowners find the technical assistance they need, which provides opportunities for interaction and relationship building as landowners move toward actively managing their forestlands. The state of Oregon's budget does not fund landowner assistance. However, ODF uses USDA Forest Service and State and Private Forest Stewardship Program funding and leverages it through a host of partnership resources to assist landowners to access cost share for planning and stewardship activities. These partners, which include the Oregon State University Forestry and Natural Resources Extension Program, Oregon Forest Resources Institute, the Partnership for Forestry Education, and a statewide agreement with the Natural Resources Conservation Service (NRCS), assist forest landowners with the Environmental Quality Incentives Program (EQIP).
+By combining resources, ODF can provide technical assistance to landowners receiving cost share through NRCS. The department also partners with the American Forest Foundation (AFF) on innovative landowner engagement strategies and has recently begun work on a joint pilot project designed to bring additional capacity for forest management planning to targeted watersheds in Eastern and Southwest Oregon.
+In 2020 assistance was provided to:  223 family forest owners on general forestry and forestland management affecting 56,606 forestland acres;  8 forest operators on marketing and forest product utilization affecting 1,193 acres;  21 landowners on watershed improvement activities affecting 758 acres;  67 landowners on afforestation or reforestation projects covering 4,605 acres;  162 landowners on timber stand improvement projects on 13,878 acres;  62 landowners on wildfire fuel treatment and slash reduction projects on 7,508 acres;  7 landowners on wildlife habitat enhancements covering 4,802 acres;  12 landowners on invasive species topics covering 1,625 acres; and  103 landowners with forest health concerns covering 11,505 acres.
+ODF supports the USDA Farm Service Agency's Conservation Reserve Enhancement Program in partnership with the USDA Natural Resources Conservation Service, Soil and Water Conservation Districts, Watershed Councils, and the Oregon Watershed Enhancement Board.
+
+## Landscape Scale Restora on
+
+The Landscape Scale Restoration Program is a USDA Forest Service State and Private Forestry competitive grant program that promotes collaborative, science-based restoration of priority forest landscapes and furthers priorities identified in state Forest Action Plans. In Oregon these projects cross multiple jurisdictions, including tribal, state, and local government, and private forestland. They integrate other state and Forest Service programs to address large-scale issues, such as wildfire risk reduction, watershed protection and restoration, and the spread of invasive species, insect infestation and disease. Oregon has a history of working across boundaries, with federal, state, municipal and private landowners to protect forests from wildland fires. Over the years, this "all hands, all lands" effort has evolved into an ODF organizational culture where foresters seek opportunities to combine resources and work across ownerships and forest management objectives. The objective is to find mutually beneficial goals for the greater landscape and cooperate to achieve them. This landscape-scale ethos has given rise to a rich and diverse array of successful landscape restoration projects.
+
+## Figure 6. Forest Stewardship Program Priority Lands
+
+Tree Improvement ODF's Tree Improvement efforts to produce seedlings and educate the public about tree improvement and reforestation continue to produce results. In 2019, the harvest came to almost 2,800 bushels of seed, which is expected to result in about 1,100 pounds of seed, enough to produce about 16.5 million seedlings. The western hemlock harvest produced a little over 400 bushels or enough seed to produce about 34 million seedlings. Public education and outreach remains an important part of ODF's mission. Before interruption by the pandemic tours at the Schroeder Seed Orchard educated the public on the process of tree improvement and the importance of proper genetic selection for reforestation. The program produces a Seedling Catalog to assist family forest landowners in their reforestation needs by making it easier to find the best seed. Meeting these needs is a continual process. Reliance on natural seed collections with often erratic crop cycles means that substantial work remains to build seed inventories to desired levels.
+
+## Urban and Community Forestry
+
+The mission of the Urban and Community Forestry Assistance (UCF) program is to help Oregonians improve their quality of life by promoting community investment in our urban forests. Urban trees reduce noise, provide places to recreate, strengthen social connection, spur community revitalization, and add economic value to our communities. In Oregon, urban areas are growing substantially, and city trees will become even more critical in our underserved communities, contributing to improved livability, air quality, stormwater mitigation, and shade. In partnership with the nonprofit Oregon Community Trees, Oregon's Urban Forestry Advisory Council, the UCF program advocates for healthy community forests. The program provides research-based technical assistance and best management practices in sustainable urban forestry to cities, schools, and aligned nonprofits. Key performance measures include promoting, recruiting, and tracking the number of cities recognized by the Arbor Day Foundation as Tree City USA communities and Tree Campus USA schools. UCF staff also monitor the building blocks of strong urban forestry programs through key indicators, such as trained city staff, city tree inventories, tree ordinances, and tree advisory committees.
+
+## Federal Forest Restora on Program
+
+Oregon established the Federal Forest Restoration (FFR) Program in 2013 "to accelerate the pace, scale and quality of forest restoration to increase the resilience of Oregon's federal forests, in a manner that leverages collaborative efforts and contributes to the long-term vitality of regional economies and rural communities. Oregon Forest Ac on Plan sale layout and preparation. 4 Collaborative groups funded by the FFRP had collaborated on nearly 1.9 million acres of federal forest land. Of these acres, 836,525 were planning areas or other projects for which a National Environmental Policy Act (NEPA) decision was made by March 2019. The remainder were still under analysis. 
+
+## Good Neighbor Authority
+
+As of December 2020, ODF's FFR Program has twenty-seven GNA Agreements on ten national forests, one BLM district and two with the Forest Service Pacific Northwest Regional Office. GNA agreements in force support restoration service work, timber sales, and contract NEPA projects. Restoration service work is planned (110,728 acres), in progress (41,585 acres), or complete on (20,305 acres), for a total of 72,618 acres. As of December 2020, 54 timber sales were prepped (11), in development ( 
+26
+), sold (13) or complete (4). When all the timber sales are complete, they are expected to produce 151.9 million board feet of wood. Nine contract NEPA projects are either in progress (5) or have been completed (4) on six national forests. The total NEPA project area is 24,716 acres. 
+
+## Oregon's Legisla ve Emergency Board Funding
+
+In January 2021, the Oregon Legislative Emergency Board (EBoard) approved the Oregon Department of Forestry's (ODF) request for $5 million to collaborate across boundaries and ownerships on land management activities that improve community resilience to wildfire and restore and maintain resilient forests. This funding authority allowed ODF's Partnership and Planning Program (P&P) to conduct cross-boundary collaboration as an agency and as a restoration partner. The P&P team developed the EBoard funding request and subsequent funding plan based on current legislative directives. A public Call for Projects (CFP) solicitation addressed multiple state directives to engage, establish and build diverse and inclusive working relationships using a Shared Stewardship approach. At the conclusion of a seven -business day application window, ODF received over $20.3 million in funding requests from 93 applications, highlighting the need for additional resources to tackle restoration needs. The P&P team awarded $4.1 million in grants to 37 projects. Sustainable forestry requires following best management practices to protect water and other natural resources. The Oregon Forest Practices Act 
+(ORS 527.610 to 527.770,
+527.990
+ (1) and 527.992) and associated Oregon Administrative Rules (OAR chapter 629, divisions 600 through 680) provide the regulatory framework of best management practices and prescriptive rules that protect resources while conduction operations on non-federal forests. An independent third-party audit commissioned by the Oregon Department of Forestry found that Oregon-grown wood meets the Leadership in Energy and Environmental Design (LEED) credit for wood used in a building project if it comes from forestland that is subject to the rules and best management practices outlined in the Oregon Forest Practices Act.
+
+## Curry Gorse Removal EBoard Project. From le to right: Gorse is an invasive shrub of the pea family. Its leaves form spines that can puncture fire hose. It is highly flammable and na ve to western Europe and North Africa. Rappelling crews at work in the crags of Harris Bu e. Rappelling crews began eradica on work on the north end of Rainbow
+
+There are certification processes (Sustainability Forestry Initiative, American Tree Farm System, Forest Stewardship Council) harvested under specific programs.
+
+## Other Laws Protec ng Forests
+
+Land-use laws: Less private forestland in Oregon is converted to other uses, such as low-density housing, than in neighboring states. That's largely due to how Oregon's land-use and forest-protection laws work in tandem to keep forestland and farmland in forest and farm uses.  Fire protection laws: During fire season, Oregon limits certain logging activities that could spark a wildfire. If conditions are hazardous enough, the state can shut down all forest operations.  Federal chemical laws: In addition to state forestry laws and Oregon Department of Agriculture pesticide regulations, the Environmental Protection Agency and Occupational Health and Safety Administration also regulate the use of herbicides and other chemicals in Oregon's forests. All laws regarding pesticide use in forests must be followed responsibly for the health and safety of people, aquatic life and drinking water.  Other federal laws: Numerous federal laws and regulations, in conjunction with Oregon laws, protect the quality of drinking water sourced from Oregon's forests, including rules set by the Clean Water Act and the Safe Drinking Water Act. Threatened and endangered wildlife species that live in Oregon's forests also get special protections under the federal and state Endangered Species Acts.
+May 2021 
+
+## Shared Stewardship
+
+At its core, Shared Stewardship is a way of doing business. It is the Oregon Way of collaboration, of putting aside our beliefs and affiliations and other divisive factors to support our shared forestlands. Shared Stewardship consists of us rolling up our sleeves and working together to find solutions. The Shared Stewardship Agreement between the Oregon Department of Forestry and the Forest Service establishes a framework that allows the state and the Forest Service to work collaboratively to accomplish mutual goals, further common interests, and effectively respond to an increasing suite of challenges facing communities, landscapes, natural resources, and cultural resources of the state of Oregon.
+This agreement formalizes and gives durability to our ongoing commitment to managing Oregon's forests to enhance environmental, economic, and community sustainability in partnership with federal, state, local and tribal governments, private forestland owners, the forest industry, environmental groups, Oregon's 26 forest collaboratives, and so many others.
+
+## Strategies:
+
+ Focus on outcomes -develop metrics that measure progress toward creating healthy, resilient forests, vibrant communities, healthy watersheds with functional habitat, and quality outdoor opportunities for all Oregonians.  Support and build on Oregon's collaborative approach to solutions, and apply local input to statewide priorities, outcomes, and metrics.  Provide an open, transparent, inclusive, and accountable process that will allow other interested parties to join in the agreement.  Develop a governance process to ensure we are accountable, not only for achieving our outcomes, but for adhering to our principles.  Fully embrace Shared Stewardship with a common understanding, and changing agency cultures, including cross-agency employee developmental assignments and cross-agency projects.
+
+## An integrated approach to wildfire
+
+Oregonians embrace the benefits forests provide, and many live nestled close to forests at risk of wildfire. Currently, millions of acres of those forests and resources are at risk of catastrophic wildfire. In 2019, Oregon's Governor convened a Council on Wildfire Response to develop priorities and strategies for wildfire prevention, preparedness, response, and post-fire forest restoration.
+The impacts of wildfire reach all Oregonians. Addressing wildfire through an integrated approach is a tremendous challenge that can only be met through innovative and coordinated action, and sharing of resources.
+North Cascade ICP -Sept. 
+2020
+ May 2021
+
+## Collabora on and Partnerships
+
+Forest resource managers face complex challenges in accomplishing work on the ground at a meaningful scale through collaboration and partnerships that support mutual forestland objectives. Federal, state, and local agencies and private landowners that manage forestlands have limited resources to address forestry challenges that span ownerships. Working the Oregon Way.
+
+## Strategy:
+
+ Provide resources, staff, and training to build partnerships and collaboration that accomplish cross-boundary work.
+
+## Forest Health
+
+Oregon forests are diverse and dynamic, spanning ownerships, watersheds and communities in a variety of landscapes and ecosystems. Oregon's forestlands support diverse wildlife and fish populations, and, management and protection objectives are diverse.
+There is a clear link between forest health conditions and the potential for wildfire and damage to natural resources, infrastructure, wildlife-habitat, forest products and other values. Addressing wildfire, insects and diseases, non-native invasive organisms, climate, weather events, and management practices are all significant drivers of change in Oregon's forests. Forest health issues are not confined to rural forests -tree health and stand vigor is challenged in many urban and community settings as well. In fact, some of the most destructive forest health problems have been invasive species and diseases that impact community forests and trees.
+
+## Strategy:
+
+ Promote responsible, active forest management that ensures ecological conditions meet the needs of future generations for clean water, wildlife habitat, sustainable timber supply, and recreation opportunities.
+
+## Enhancing and Protec ng Oregon's Forestlands
+
+Oregon's forests provide environmental, social, and economic benefits that reach beyond their boundaries. Clean water, fish and wildlife habitat, recreation, jobs, forest products, and revenues from forests all support our healthy communities.
+Oregon's Forest Practices Act and Rules are in place to fulfill the expectations of the public and ensure that landowners operating under its rules can manage their forests for a variety of objectives while sustaining forest resources in a socially accountable manner. Providing Landowner Assistance is essential to protect Oregon's Forestlands.
+
+## Strategy:
+
+ Partner with landowners and landowner organizations to enhance adherence to FPA and provide technical and financial assistance to help them achieve forest management objectives.
+
+## Christine Buhl, ODF Entomologist
+
+Adopting a Shared Stewardship approach is a major step toward realizing an integrated approach to wildfire. Shared Stewardship is a way to accomplish and build on existing efforts while leveraging our combined resources to accomplish mutual goals for reducing wildfire risk and improving forest health conditions..
+
+## Strategy:
+
+ Build understanding and agreement with stakeholders on a methodology to prioritize mitigation, wildfire protection and restoration efforts across boundaries to maximize the pace, scale, and beneficial outcomes to communities and forest health.
+
+## Objec ves
+
+ Enforce forest practice laws and rules and promote use of forestry best management practices.  Promote certification of private forestlands and industry.  Aid in certification of forestlands and provide positive business environment for forest landowners and wood products industry.  Implement Farm Bill Authorities (such as Good Neighbor Authority) along with other executive and legislative authorities with NRCS, BLM and USFS.  Seek alignment of the fire protection and forest management statutes and adjust the negligence and liability laws related to the application of prescribed fire.
+ Seek long-term funding solutions to meet wildfire prevention, mitigation, protection, and restoration challenges at levels that scale to the need.  Allocate resources to projects that maximize a practical return on investments.  Solicit funding and provide financial incentives for projects that encourage active forest stewardship.  Advocate for treatments that improve forest health, resistance to disturbance, and strengthening habitat.  Budget to support stewardship of forests through outreach and planning assistance.
+ Recommend appropriate management based on credible science and proven practices tailored to site-specific needs and landowner/community objectives.  Serve as a central source for professional, objective guidance in forestry issues.  Assess and address current forestry issues facing landowners, communities, and the forest products industry.  Develop a science based and simple to implement monitoring and accountability program.
+ Support capacity and networking environments for community, agency and stakeholder engagement.  Cultivate relationships with potential new partners willing to share common objectives for a landscape.  Provide access to educational, training, and participatory opportunities for resource managers, landowners, and the public.  Assist local government and collaborative groups in effective communication with landowners and managers.
+ Implementation of this Forest Action Plan requires a combination of state, private, and federal resources applied on a larger scale and more diverse landscape than has been attempted previously.
+Meeting the wildfire mitigation, readiness, response, and recovery needs of all forestlands in the state will be the most challenging and resource demanding set of priorities for this plan.  The ability to match federal funds under terms of the consolidated payment grant program or from other sources, rather than programmatically, whenever possible. changing conditions, and capitalize on synergies between programs.  Ability to deliver our programs through traditional and non-traditional partners including but not limited to municipal governments, non-profits, conservation districts, and landowner organizations.
+
+## Policy
+
+## Funding
+
+## Technical
+
+## Capacity
+
+## Resources Required
+
+May 2021
+
+## A Strategic Approach
+
+Long-term strategies that address multiple resource issues and engage multiple partners are often the most successful, given the complex nature of the problems and opportunities at hand 7 . When combined with targeted actions that support clear goals, we have an action plan for sustainable forestry in the northwest. To update this action plan we assessed a broad range of forest resources under the USFS National Themes to identify trends and threats that lead to opportunities and goals that can be accomplished through effective and innovative strategies. While the action plan encompasses a collection of diverse strategies related to specific programmatic goals, the following strategic themes rise from the plan.
+
+## Strengthen partnerships and collaborative approaches
+
+Build adequate and flexible capacity and funding Capitalize on "co-benefits"
+Effective collaboration allows partners to make the most of available funding, capacity, resources, and information.
+Shared priority strategies and collaboration offer compelling arguments to support capacity and funding to accomplish base-level work, as well as to undertake new initiatives.
+Seek opportunities to meet multiple objectives with one management action, e.g., fuel reduction projects that maintain watershed benefits and/or support local economies through the production of biomass energy and other forest products. This will result in the most efficient implementation efforts.
+
+## Seek active management of all forestlands
+
+## Support informed sciencebased decision making
+
+## Gain support through effective engagement
+
+With Oregon's complex patchwork of ownership and management responsibilities, coordinated efforts across jurisdictional boundaries and on all lands is critical. Mitigating and managing the major threats to Oregon's forests is best suited to a landscape-scale approach, and benefits can be provided to citizens and communities.
+To support effective implementation of priority strategies and to prepare for future needs, research and the best available science must be a part of an ongoing, collaborative effort to define and act upon forestry issues.
+Successful strategy implementation occurs when citizens -collectively and individually -understand, accept, and support the principles, strategies, and actions envisioned in the Forest Action Plan. Without public support, accomplishments will fall short -with it, the management needed to ensure healthy and sustainable forests can be successfully implemented.
+
+## Vision
+
+ Healthy and resilient forested ecosystems and watersheds, with functional aquatic and terrestrial, habitat, supporting vibrant local communities and providing quality outdoor opportunities for all Oregonians.  A workforce that reflects the diversity and values of Oregonians and a safe, inclusive, and supportive workplace that values all employees and allows them to reach their full potential in providing excellent public service.  An organization and culture that responsibly and collaboratively manages the public resources to achieve the outcomes valued by Oregonians.  An innovative and adaptable organization with sufficient resources and appropriate policies to achieve its mission.
+
+## Values
+
+ Diversity, equity, and inclusion in all aspects of our business. Utilize existing programs to assist with disaster recovery. Seek partnerships with small woodland owners, industrial landowners, and other stakeholders. 
+
+## ODF STRATEGY ALIGNMENT WITH NATIONAL THEMES AND OBJECTIVES
+
+## Table of Contents
+
+## Acronyms
+
+## Table of Contents
+
+## Background
+
+The Oregon Department of Forestry developed its first Forest Action Plan in 2010, and it was last revised in 2015. The 2020 update of the Forest Action Plan was conducted by team of Oregon Department of Forestry subject matter specialists, geographic information and communications specialists, working closely with USDA FS R6 and a host of other partners in order to achieve an action plan that fulfills the requirements of the Cooperative Forestry Assistance Act SEC. 2A. [16 U.S.C 2101a] as amended by the 2008 and 2014 Farm Bill. This update builds upon the previous efforts to take stock of the current status of Oregon's forestland resources and analyze trends in order to create a strategic roadmap for the next five years.
+Oregon's forests must continue to be managed to ensure ecological, economic, and social sustainability. Overly-dense forests are susceptible to both native and non-native insect and disease invasions, extreme weather events, and uncharacteristic wildfire. These forest health risks threaten not only the continued health of the forests but also that of adjacent communities, economies, watersheds, airsheds, wildlife habitats, and recreation areas. A Shared Stewardship approach is infused in the planning, development, and strategies presented for moving ahead.
+Working across boundaries, ownerships and funding authority is essential to successfully addressing forest health issues.
+The primary trends and threats facing Oregon's forests include an increasing size and frequency of catastrophic wildfire, the need for increased cooperation for the prevention, mitigation, response, and recovery from wildfire, invasive species, and wide-ranging climate change impacts on forests, water, and wildlife and aquatic habitat. These trends affect all lands, regardless of ownership. Similarly, they affect all people, threatening the basic assets we need and often take for granted: clean air, abundant water, safe communities, open spaces, and economic opportunities. Cooperation and coordination across jurisdictional boundaries needs to be elevated continually in order to address these trends.
+Oregon has a long history of cooperation and partnerships with local landowners, other state agencies, federal and tribal landowners, and private organizations which results in coordinated efforts to better manage forests and address the threats that face them. This action plan embraces the Shared Stewardship approach to deliver and leverage USDA FS State and Private Forestry program funding including the Forest Health, Forest Stewardship, Urban and Community Forestry, Cooperative Fire, Forest Legacy, and Community Forest Programs.
+Oregon's Forest Action Plan identifies the following priority issues: forest health and invasive species; wildland fire and the wildland-urban interface; sustaining working rural and urban forests; climate change, carbon sequestration, and biomass energy; and water quality and quantity. These issues are interrelated; challenges and opportunities arise from an interacting set of drivers that include climate change, shifting economic conditions, and changing demographics and social values. These drivers place stress on ecological, economic, and social systems, which result in the loss of forestland and the benefits those lands provide.
+
+## Integration of Other Statewide Plans and Programs
+
+The statewide assessments and strategic action plans of Oregon's natural resources agencies were integrated into the development of Oregon's Forest Action Plan for 2020-2030. In many instances, the assessment portion of this action plan development utilized data from these sources. The strategy review and development process will review issues, goals, objectives, and key strategies from these plans and integrate many of those directly into Oregon's Forest Action plan.
+ODF While the study assesses all resource lands (forest, farm, and range), the trends discussed below are specific to wildland forest. "Wildland forest" is here defined as an area of land predominantly in forest use which is at least one square mile in size, and which contains less than five developments (i.e., residences) per square mile on average.
+A primary strength of the study is that the sample-based methodology allows consistent evaluation of trends back to the 1970s. However, because the "wildland forest" classification has a relatively large-scale definition (i.e., must be at least one square mile in size), the study's geospatial data will not necessarily provide accurate characterizations of land uses/conditions at the level of individual parcels.
+
+## FINDINGS Trends
+
+Oregon has done remarkably well at preserving forestlands from development. Of the nonfederal land that was in wildland forest use in 1974, 98% remained in wildland forest use by 2014 (see Fig. 
+1
+). Rates of forest conversion varied between Western Oregon and Eastern Oregon, with relatively higher conversion rates on the West Side.
+Patterns of land use change have varied in conjunction with changing policy and economic conditions. There was a marked decrease in the rate of forest conversion after statewide land use planning was fully implemented (net average annual conversion of wildland forest fell by 66% relative to the pre-land use planning period). There was also a decrease in forest conversion in the period associated with the post-2007 economic recession (net average annual conversion of wildland forest fell by 45% relative to the pre-recession period).
+Land use change patterns also vary with regard to land ownership. Throughout the study period, only minimal conversion of wildland forest to other uses has occurred on publicly-owned or industrially-managed lands, with the majority of conversion taking place on non-industrial private lands.
+
+## Threats/Questions
+
+Separate from the conversion of wildland forest to other uses, this study also investigates the density of developments on land remaining in wildland forestland use. The area of wildland forest impacted by dispersed residential development is significantly greater than the area of wildland forest actually converted to other uses. Fragmentation of wildland forest may create challenges with regard to resource management, wildfire threat, and ecosystem services.
+Also, it remains to be seen whether rates of forest conversion will rebound along with postrecession economic conditions. Future updates to this study (based upon 2018 imagery) will examine land use change since 2014.
+Opportunities/High-Priority Areas While Oregon's population has continued to grow, its per capita conversion of forestland has steadily declined (i.e., the average acres of forestland converted to other uses per new resident of the state has dropped markedly during the study period). This suggests that land use planning aimed at constraining urban sprawl has been relatively successful at maintaining Goal 4 forestlands. As state and local policy on urban planning, housing density, and related issues continues to evolve, such policies will continue to be important and relevant to the preservation of the state's forest resources.
+Forestland that is near or adjacent to existing urban areas or residential developments is likely at particular risk of becoming fragmented or converted to other uses. The geospatial land use data from this study identifies areas of former wildland forest that have been developed in recent decades. Thus, this data may provide useful guidance -in concert with other relevant datasets and local expertise -for identifying forestlands that warrant particular attention/action in maintaining their status as working forestlands. 
+
+## Conserve Working Forest Landscapes
+
+Forests are actively and sustainably managed
+
+## Stewardship of Privately Owned Lands
+
+## SCOPE
+
+Nearly half of the state of Oregon is forested. Of that, the majority are in federal ownership with privately owned forests in Oregon making up only 34% of the forested acres. Annually though, 3/4ths of the harvest volume flows from these lands. The Forest Stewardship Program provides assistance to the non-Industrial/ family forest landowner base which accounts for both 12% of the forest and total volume.
+The purpose of the Forest Stewardship Program is to encourage the long-term sustainable management of family forestlands by assisting the landowners to develop and implement a plan to actively manage their forest and related resources according to their objectives. The Forest Stewardship Program provides financial cost-share and supporting technical assistance to landowners in management planning -the process of identifying landowner objectives, assessing forest conditions and opportunities and the scheduling of forestry activities to meet landowner objectives including agroforestry applications, commercial timber harvest, timber stand improvement, water quality protection, and fish and wildlife habitat protection, enhancement, or restoration practices. Participation is voluntary.
+The USDA FS Forest Stewardship Program redesign coincided with the revision of our Forest Action Plan, which allowed for incorporation of the redesign aspects into this plan.
+Oregon, through land use planning laws working in conjunction with forest practices laws, has been has been successful at keeping many forestlands from being converted to other land uses.
+These alternate uses vary, but most often are in the form of residential or commercial developments. Over the last 40 years, approximately 247,000 acres were converted to non-forest uses. The 2019 assessment of priority lands began with a review of the existing product, with an understanding that many of the dynamics on the ground remain unchanged. It was determined that the identified priority lands would continue to serve the needs of the program well. For instance, the eligible land base is unchanged, and the resource considerations are all similar in theme to what has been utilized in previous revisions of the action plan, and the priority areas are all still highly relevant.
+
+## METHODOLOGY
+
+The USDA FS Stewardship Forestry Program Redesign has introduced new funding allocations, the most notable of which is the increased emphasis on measures of "program performance." Potential performance measures that will be linked to the program have been developed and shared, as have questions about the reliability of the data model and accuracy of the proposed measures to measure the impact of this important work across the state. The overall impact remains uncertain, but we do expect the modernization of FSP to place a greater emphasis on funding for work accomplished in those areas designated as high-priority.
+In consideration of the modernization of the FSP in FY2020, which requires that no more than 50% of the eligible lands be considered high-priority, ODF was required to be more focused on the landscape and reduce the footprint of the high-priority lands to nearly half the area previously identified as priority. After considering the initial resource-based analysis, further filtering was accomplished by giving careful consideration to those locations within the state which have observable patterns of planning or had demonstrated concentrations of engagement. Past experience has shown that consideration of the resource issues alone are insufficient to affect any real change or improvements on the landscape-particularly within the non-industrial landowner category. For projects to get off the ground, there needs to be landowners who are ready and willing to take action, and for those projects to be most effective, there would ideally be some contiguity between project areas. It is expected that utilizing this strategy over time, the limited amounts of available funding coming to the state through FSP will go further by leveraging other projects, partners, and funding sources to create a more significant footprint on the landscape and net a greater conservation impact.
+Quantifying landowner engagement is a challenge, and spatial data related to landowner engagement for analysis is extremely limited. It is, however, generally accepted in the forestry community that a land management plan is a significant first step towards action, so it seems reasonable that landowners who have completed plans for their property would also have an elevated level of engagement through that process. The department used GIS layers for completed Stewardship Plans and Oregon Tree Farm Plan properties. Locations in the state which displayed concentrations or closer proximity to other project areas were given preference.
+As data sharing between external partners improves, and additional data becomes available, this methodology is expected to become an increasingly effective strategy to create large swaths of conservation on the landscape.
+
+## FINDINGS Trends
+
+The ownership of the non-industrial private forestlands in Oregon are changing. Historically, rural forest properties have often been passed down to family for generations. Today, many woodlots are owned by first-time landowners, many who relocated from other states, and are absentees or investors. This dynamic creates a continuous demand for educational assistance and ongoing outreach and engagement efforts.
+The NIPF community is largely comprised of smaller woodlot owners. Forests on these smaller parcels are unlikely to be a primary source of income for the owners and also do not necessitate the long-term harvest planning one would expect of a timber company or landowner with similar management objectives. These factors can often result in a market-driven or otherwise reactive approach to forest management, placing other considerations like planning, multiple values or conservation much lower in priority.
+
+## Threats
+
+• NIPF landowners struggle to access resources and technical expertise. The learning curve is often quite steep for new landowners, and the challenge can be both making connections with resource professionals, and also perceiving resource issues or management needs in the first place. • Seedling supply meets demand to keep forestland productive when harvesting is occurring at typical and predictable levels. Wildfires and other disasters can create unexpected demand for seedlings and associated resources which strains the system. Additionally, seed zones vary across the state, so caching specific seed or growing surplus seedlings on speculation is not an ideal solution.
+
+## Opportunities
+
+• Oregon has a broad network of local, regional, state, and national organizations that routinely collaborate to address land management needs. This can open doors to additional funding opportunities for partners as well as the landowner community.
+Having an established network adds the capacity to be responsive to changes in the operating environment and make the necessary connections quickly. • The Stewardship Program maintains the Oregon Forest Tree Seed Bank, which serves as a source to acquire high quality, high genetic gain forest seed lots for the benefit of small woodlot owners. 
+
+## High priority landscapes
+
+## Protect Forests from Harm
+
+## Protect Forests from Harm
+
+Threats to forest and ecosystem health are identified, managed and reduced
+
+## Forest Health
+
+## SCOPE
+
+Forest health is important at all geographic and management scales. This may differ from one landowner or manager to another based on their scale of influence; a homeowner with less than an acre will be acutely aware of the issues in each tree, whereas a forest manager overseeing tens of thousands of acres will not be overly concerned about background issues of a few trees here and there. However, when insect and disease issues increase over large areas, they become important beyond a single entity. This has been recognized by the Oregon legislature since 1921, with passage of the Insect Pest Control Act, which has been amended through time to the current statutes effective since 1991. Since this last major revision of the forest health statutes, environmental change, introduction of invasive species, and sizable pest outbreaks have contributed to concerns over the status of not only the state's, but also the nation's forest resources.
+Each year, ODF cooperatively surveys the forestland base with the Forest Health Protection program as part of a national effort to monitor trends in damage from forest insects, diseases, and other stressors. In Oregon, annual surveys began in 1947. Each year, observers from both agencies climb into small aircraft like ODF's twin engine Partenavia Observer or a Quest Kodiak, and conduct a process called sketch-mapping. With an observer on each side of the plane, damage to the forest is drawn on a map and the cause is attributed based on experience and educated assumption. Beginning in the early 2000's, the mapping process was moved from paper maps to a digital system with a moving map screen, aerial photos, and a plethora of other information. More recent advances in technology have led to nationwide implementation of streamlined tablets, databases, and editing tools. Despite the advances over the years, sketch-mapping is more scientific art than pure quantification. Technical experts ground-check unidentified damage and undergo regular ground and classroom quality control training to better tune their assessments.
+For the Oregon Department of Forestry, a small core of subject matter experts work to educate, provide technical assistance, coordinate control and management efforts, and provide funding throughout the state to increase resilience, reduce invasive and exotic species, and appropriately manage forest pests. This work is largely aligned with federal and state cooperators due to the fluid nature of forest pests, which do not recognize ownership boundaries. Through these cooperative relationships, ODF strives to implement landscape level forest stewardship that will persist through future insect and disease pressures. 
+
+## METHODOLOGY
+
+The forest health assessment section of this revision of the Forest Action Plan was created by the forest health unit of the Private Forest Division within the Oregon Department of Forestry. This included the subject matter experts (SMEs) for the state: the forest pathologist, forest entomologist, invasive species coordinator, and the survey and monitoring specialist. The knowledge and experience that these SMEs pose was utilized to determine the themes and topics that went into the spatial and narrative aspects of the assessment. This group created a series of themes that would go into the assessment, including each SME's area of expertise and some cross cutting themes like climate change and forest restoration. Each theme was weighted to represent the degree that they would impact the spatial analysis of the assessment. Within these themes there were specific topics that were identified and weighted as well.
+In Oregon, an annual general overview survey covers roughly 28 million acres that assess most insect, disease, and biotic agents that can be identified from the air. Additional special surveys are flown for damage agents like Swiss needle cast, sudden oak death, pandora moth, and occasionally oak looper or gorse. In total, the agencies cover from 35 million to 41 million acres in a given year. Damage observed in these surveys can be cyclical with peaks and valleys resulting as one agent ramps up and then another declines. Historically, we have seen this cycle time and again from agents such as mountain pine beetle causing landscape-level mortality in lodgepole landscapes to drought-induced mortality in Douglas fir and true fir extending from the Willamette Valley to the Siskiyous.
+
+## FINDINGS
+
+For over a decade, Oregon has been the #1 timber producer in the U.S., accounting for 18% of the nation's total softwood production at about 5.2 billion board feet annually. Oregon supplies 30% of the nation's plywood with 2.5 billion board feet annually and hosts 25% of the engineered wood (glulam, I-joist, laminated veneer, cross-laminated timber) facilities in the U.S. In 2019, forest timber products brought over $10 billion in revenue and supplied about 3% of total statewide employment. Additionally, 25% of U.S. Forest Service and 50% of Bureau of Land Management timber revenues help fund education, road construction, libraries, fire and police protection across the state.
+
+## Pathology Theme
+
+Sudden oak death, Swiss needle cast, and root diseases all pose threats to Oregon's forests and have lasting impacts to forest health and composition.
+Since 
+(Goheen and Hansen 1993)
+. The effects of laminated root rot are variable, but generally stand density and timber production fall below those of uninfected stands. Substantial reductions in timber volume and growth have been demonstrated in some second-growth Douglas fir stands. Even with management, root diseases will still occur in Oregon's future forests, but depending on management, their impacts could be either lessened or exacerbated.
+
+## Entomology Theme
+
+Climate change is contributing to more stressed trees, which has moved some insect pests from lower to high status. Examples include: flatheaded fir borer appearing in more Douglas fir due to increasing drought stress, spruce aphid outbreaks along the coast where mild winters are resulting in lower winter mortality, population and distribution increases of exotic but established balsam woolly adelgid into high elevation areas that it has yet to established. Public engagement is underway about the impacts of drought through different drought and tree decline monitoring and reporting projects.
+Bark beetles are consistently the largest measureable contributor to forest tree mortality and continue to increase, in association with increasing fires and drought stress. Bark beetle damage is detected by aerial survey and frequent investigation on the ground.
+Native defoliators in the last ten years made only a periodic appearance due to their cyclical nature. Within the last 10 years, defoliation events have been short-lived although some stands have struggled to rebound from defoliation due to prior drought stress. Detection and monitoring of native defoliators includes aerial survey and species-specific trapping (e.g., Douglas fir tussock moth, western spruce budworm is possible).
+
+## Invasive Species Theme
+
+There continue to be introductions of invasive species to the state. Some of these are important forest damaging pests, others are more related to agriculture or rangelands. Most of these have been successfully eradicated (e.g. European and Asian gypsy moth), but local, state, and federal partners continue to deal with introductions from previous decades (e.g. sudden oak death, white pine blister rust). While some efforts are in place to slow the spread with SOD, most of the management at this point is working towards resistance and recovery of host species for the long present species.
+There are continual pressures from introduction of new invasives. The department and its partners practice early detection and rapid response for these threats. An important threat that has been acknowledged is the emerald ash borer, which has arrived in Colorado at the writing of this plan. The Oregon Invasive Species Council drafted and finalized an Emerald Ash Borer (EAB) plan in the event that the species arrives in the state. EAB has the potential to decimate the native ash species and cause substantial safety risks and economic impact to urban areas where there is much non-native ash planted. Other invasive species could follow a similar model for response planning; an opportunity to develop mutually beneficial relationships across cooperators over time.
+
+## Climate Change Theme
+
+Since the previous edition of the state's Forest Action Plan, the state has experienced a series of years of severe drought that has stressed forest trees and induced mortality throughout the state. Models indicate that this may be a continuing trend into the future. However, the timeframe of the current plan may not be long enough to realize the extent of the issues. The likelihood that the state will experience this type of climatic shift is largely accepted. The alteration to the states ecosystems could be substantial: moving habitat types, forest types, warming waters, increasing fire return intervals, and making trees more susceptible to insects and disease as they become maladapted to the sites where they are growing.
+From the forest health lens, these shifts could cause a number of issues. Over-stressed trees would be attacked at higher rates than previously, potentially increasing insect populations and creating a feedback loop of damage. Changes in the seasonality could lead to an asynchrony between biologic processes, adding more stress or reducing reproductive potential of the impacted species. An environment with more extremes, both hot and cold, could create a situation where trees are unable to adapt to the wide range of variability and suffer from either drought damage or freeze damage.
+Forests offer opportunities exist as well. Trees are excellent at sequestering and storing carbon and are looked at as a potential natural working lands approach to reduce the impacts of climate change over time. If there is ample interest and effort now, many under-productive forestlands have the potential to increase the carbon storage into the future. Utilizing longer rotations provides a variety of ecosystem services that benefit forest and human health, as well as storing carbon. At this point there is no market driver for these approaches to increase forest health and resilience in the face of climate change, but the conversations have been started, and perhaps in the next decade of this plan there will be avenues to utilize.
+
+## Enhance Public Benefits from Trees and Forests
+
+Water quality or quantity is protected or enhanced Water Quality and Quantity
+
+## FINDINGS
+
+Water is one of our most precious natural resources. With more than 100,000 miles of rivers and streams, 360 miles of coastline, and more than 1,400 named lakes, Oregon is renowned for its water.
+Much of Oregon's municipal water originates in forested watersheds, including those managed for wood production. As rain or snowmelt soaks into healthy forest soils, it is naturally filtered, and over time is released to nearby streams or groundwater aquifers. To protect fish and safeguard drinking water sources, Oregon's forest practices laws restrict timber harvesting, road building, and the use of chemicals near streams and other water bodies. According to the Oregon Water Quality Index, among all land uses, the highest water quality occurs in forested watersheds, including those actively managed for timber production.
+Threats 1. Loss of forestlands: the loss of forestland to other land uses directly reduces the amount of forested watersheds which impacts water quality and quantity. 2. Wildfire impacts on water and soil resources: fire causes significant changes in sediment deposition and streamflow, altering the condition of forest soils and the watershed. 3. Climate Change: increased air temperatures, changing precipitation patterns, and sea level rise all have potential consequences for Oregon's water resources-wetlands, estuaries, lakes, rivers, streams, and groundwater. 4. Underinvestment in built and natural infrastructure: without resilient built and natural infrastructure that provide cool and clean water across all Oregon watersheds, people, fish, and wildlife are vulnerable to health risks.
+Opportunities 1. Promote the maintenance of forestland in forest uses and promote the establishment of new forests. 2. Fire suppression can be coupled with prescribed fire use and active vegetation management to reduce long-term risks to soil and water quality. Through the Governor's Council on Wildfire Response, the council has submitted its recommendations in November 2019 to create fire-adapted communities, restore and maintain resilient landscapes, respond safely and effectively to wildfire, and support a cross-functional system.
+3. Climate Change: adaptation to climate change requires increasing water conservation and efficiency efforts, expanding natural and built storage, and strengthening the resiliency of riparian areas, forestlands, wetland, and floodplains. 4. Build capacity across all Oregon communities to plan for their water future. Strategic water investments coordinated between local, regional, state, and federal partnerships.
+The Private Forests Division has identified priority watersheds at the 6 th field hydrologic unit (HUC 12). Priority watersheds in Oregon were defined as:
+Containing any percentage of forestland within the watershed as determined by the national land use cover dataset information. 1. Within a surface drinking water source area (OR-DEQ, 2019) -Of these defined watersheds, each one was empirically scored based on the following conditions that may exist within the boundary:
+• Any stream reach with an identified 303d listed impairment for a combination of either temperature, sediment, or dissolved oxygen. (OR-DEQ 2012 Integrated Report, Water quality) • OWEB's Focused Investment Priorities for Aquatic Habitat for Native Fish Species.
+The priority is ranked from highest to lowest within larger watersheds within the state.
+The 6 th field watershed had total possible score between 0 and 40, with higher scores identifying the watersheds that are priorities for investments. 
+
+## OREGON'S WATER VISION
+
+To address changes in climate and population dynamics, Oregon will steward its water resources to ensure clean and abundant water for our people, our economy, and our environment, now and for future generations. Strategic investments will result in resilient natural and built water systems across the state to support safe and healthy communities, vibrant local economies, and a healthy environment.
+Oregon's water infrastructure has served the state well, however it is an aging infrastructure. Investment in natural and built infrastructure has fallen behind the growing challenges, and current systems are not adapted to meet the needs of a vibrant Oregon for the next 100 years.
+Without resilient built and natural infrastructure to provide cool and clean water across all Oregon watersheds, our people and our fish and wildlife are increasingly vulnerable to the health risks associated with lack of accessible, adequate, clean water.
+Without modern water supply systems and water conservation approaches that combine to provide reliable access to water, including in emergencies, Oregonians risk not having water available when it is needed for healthy people and communities, food production, tribal treaty rights, and a thriving economy.
+Without strong capacity across all Oregon communities to plan for their water future, and effective ways to ensure strategic water investment decisions are coordinated across and between local, regional, state, and tribal and federal agencies, communities will not be prepared to take advantage of large-scale water infrastructure funding opportunities or collaborative and innovative partnerships.
+
+## INTERAGENCY INVOLVEMENT
+
+Improving our knowledge of water resources requires investments in inter-agency work, analytical methods and approaches, scientific modeling tools, and platforms to share information with the public and other partners.
+The Oregon Department of Forestry uses water right information from the Water Resources Department to determine whether forest streams are sources of domestic drinking water. Streams that serve as a drinking water source trigger more stringent forestry protections. 
+
+## Enhance Public Benefits from Trees and Forests
+
+Communities plan for and reduce their risks from wildfire
+
+## Oregon's Communities at Risk of Wildfire in the Wildland Urban Interface
+
+This report provides a snapshot of wildland fire risk to Oregon communities using current data from the Quantitative Wildfire Risk Assessment, Oregon Department of Forestry Fire statistics, and Silvis Data. For more information about this report, contact ODF National Fire Plan Coordinator Jenna Trentadue at Jenna.a.Trentadue@oregon.gov.
+
+## Intent
+
+This assessment provides decision-makers, wildfire planners, fire service professionals, and natural resource agencies with the information they need to prioritize fuel mitigation projects. This prioritization will assist in meeting the goal to minimize overall wildfire risk to communities. This assessment was mandated by the Cooperative Forest Assistance Act of 1978 and is an integral part of the Forest Action Plan from the State of Oregon. It creates prioritization areas for Oregon's federal grant funded program work through measurable values. Additionally, it creates a broad, statewide standard for identifying and prioritizing communities at risk with the newest available data.
+
+## Definitions
+
+Community at Risk: A geographic area within and surrounding permanent dwellings with basic infrastructure and services, under a common fire protection jurisdiction, government, or tribal trust or allotment, for which there is a significant threat due to wildfire. (Oregon Natural Hazards Mitigation Plan) Community: A group of people living in the same place or having a particular characteristic in common. (Webster's English Dictionary)
+The Wildland Urban Interface (WUI): the area where houses meet or intermingle with undeveloped wildland vegetation. 
+(Federal Register 66:751, 2001)
+ Interface Community: exists where structures directly abut wildland fuels. There is a clear line of demarcation between residential, business, public structures and wildland fuels. Development density for an interface community is usually 3 or more structures per acre. Fire protection is generally provided by a local fire department. An interface community may also be defined as a population density of 250 or more per square mile. 
+(Federal Register 66:753, 2001)
+ Intermix Community: exists where structures are scattered throughout a wildland area. There is no clear line of demarcation; wildland fuels are continuous outside of and within the developed area. The development density in the intermix ranges from structures very close together to one structure per 40 acres. Fire protection districts funded by various taxing authorities provide life and property fire protections and may also have wildland fire protection responsibilities. An alternative definition of intermix community emphasizes a population density of between 28-250 people per square mile.
+Occluded Community: exists in a situation, often within a city, where structures abut an island of wildland fuels (e.g. park or open space). There is a clear line of demarcation between structures and wildland fuels. The development density for an occluded community is usually similar to those found in the interface community, but the occluded area is usually less than 1,000 acres in size. Fire protection is normally provided by local government fire departments.
+A community is at reduced risk when satisfying at least one of the following:
+( 
+
+## How WUI Communities were Identified
+
+The WUI Communities at Risk were identified and named by using a combination of resources:
+• University of Wisconsin SILVIS WUI dataset as a primary source for WUI interface and intermix areas
+foot_6
+
+## How Community Values were Created
+
+The identified community data was combined and cross-checked with the Department of Land Conservation & Development (DLCD) Oregon 2017 Land Use Zoning. Some excess community data that could not be verified was deleted. The mean was calculated from the Pacific Northwest Quantitative Wildfire Risk Assessment (2018) Hazard to Structures and Burn Probability value for each WUI polygon to show actual wildfire hazard (Map 1) (brought down from a subwatershed (huc12) mean). West Wide Risk Assessment was reviewed, assessed, and found to not be statistically different to adjust data outcomes. This created a Wildland Urban Interface layer (Map 2) which is associated with all administrative geographies. To create maps the data was classified per Pyrologix/USFS/ODF/Oregon Wildfire Risk Explorer symbology themes. Class breaks were matched to create adjective classes of low, moderate, and high.
+
+## How has this changed since the last Report?
+
+Prior to this version, this assessment had not been updated since September 2006. The previous report identified Communities at Risk by using Fire Protection Districts, cities, and towns applied to a fire-shed model. Federal Tribal Land adjacency was also addressed. This updated report utilizes the Quantitative Wildfire Risk Assessment provided by the USFS, community names to identify at-risk areas, and a watershed model to identify community risk and WUI data. Although the data is slightly different and the outcome is in a more specific community format, this data is the most current and accurate data available.
+
+## Communities at Risk Results
+
+Six hundred and eleven (611) Communities at Risk were identified and assessed for their wildfire risk in Oregon (Map 3). The number of structures, exposure, burn probability, and hazard were all taken into account in rating the communities. Mean Burn Probability is the likelihood of a wildfire >250 acres burning in a given location, based on wildfire simulation modeling and averaged over the subwatershed (6th-level hydrologic unit, or ~10k-40k acres). This is an annual burn probability, adjusted to be consistent with the historical area burned by escaped wildfires. Viewing local small fires (available in this map viewer) in conjunction with burn probability, can give a more comprehensive view of local fire history and potential.
+
+## Number of Communities by county and ratings
+
+## County
+
+Be aware that conditions vary widely with local topography, fuels, and weather, especially local winds. In all areas, under warm, dry, windy, and drought conditions, expect higher likelihood of fire starts, higher fire intensities, more ember activity, a wildfire more difficult to control, and more severe fire effects and impacts.
+The wildland-urban interface (WUI) is the area where houses meet or intermingle with undeveloped wildland vegetation. This makes the WUI a focal area for human-environment conflicts such as wildland fires, habitat fragmentation, invasive species, and biodiversity decline. 
+
+## How Communities at risk tie to Community Wildfire Protection Plans
+
+The biggest difference between this Communities at Risk report and Community Wildfire Protection Plans (CWPPs) is the scale to which each assessment was made, which relates closely to the scale at which the data provides useful information. The communities at risk assessment used data collected at a statewide level and applied data uniformly across all areas of the state.
+While the resulting product provided a useful broad depiction of risk for the state, it did not have the resolution to show the subtle or dramatic nuances of wildfire risk that exist at the local level.
+CWPP's bring an element of local knowledge and expertise that takes into account criteria such as building materials, defensible space, ingress/egress issues, and other elements identified as concerns and priorities at ground level of the assessments. CWPP's are more effective for use of prioritization at a local level, where this report addresses statewide prioritization. Although all communities listed in the CWPP's for each county were identified as part of the WUI in this report, ratings of high, medium, or low may differ at the finer scale of a CWPP.
+According to the Healthy Forest Restoration Act, the WUI can be identified in the absence of a CWPP to within a ½ mile of an at-risk community's boundary, or within 1½ miles when mitigating circumstances exist such as sustained steep slopes or geographic features creating a fire break. National guidance for both assessments at the state and the local level require evaluation of the same four factors: risk, hazard, protection capability, and values.
+
+## FINDINGS Trends
+
+This assessment is in alignment with addressing the national priority and theme of reducing the risk of uncharacteristic wildfire. The assessment indicates that there is still more work to be done in regards to mitigation of wildfire risk and needs for treatment plans. After this assessment, it is clearer than ever that people are building in the Wildland Urban Interface. Expansion of building in the WUI is raising the risk to homes due to exposure and overall fire risk, particularly where growth occurs.
+
+## Threats
+
+Limited firefighter capacity to address this growing WUI boundary and exposure will be a problem into the future. This increased growth will potentially increase human-caused fires. The cost of firefighting has also gone up, which stresses the capacity to protect the increased amount of homes in these at-risk communities. There will also be more critical infrastructure at risk due to population growth. Climate trends indicate an increase in fire seasons and drought. Over time, areas that were historically low risk may move towards a much higher risk; this assessment will be a baseline for that activity.
+
+## Opportunities
+
+The Oregon Wildfire Risk Explorer mapping website portal that will house this new community risk assessment data will allow for better community planning and land use targeting into the future. It will create a starting point for future projections of climate change impacts and targeted wildfire management and mitigation. Firewise programs, collaboration with other partners, and targeted fuels treatment programs will all benefit from this new information.
+
+## High Priority Landscapes
+
+This Community at Risk WUI list and Data Layer will identify the most up-to-date data identifying high priority landscape areas that will need the most work to mitigate wildfires.
+
+## Enhance Public Benefits from Trees and Forests
+
+The economic benefits and values of trees and forests are maintained or enhanced
+The Oregon Forest Sector
+
+## SCOPE
+
+The Oregon Forest Sector accounts for approximately $18 billion in contributions to the state's economy representing 4.7% of state output and 3.7% of state GDP
+foot_9
+ . In terms of employment, over 71,000 Oregon jobs are dependent on the Forest Sector, accounting for over $1.1 billion in wages.
+The relative importance of forest sector employment and wages varies when looking at regional economies within the state, as many counties are very much dependent on the forest resource sector
+foot_10
+ . As an example, Figure 
+1
+ depicts the average wage for the forest sector in natural resource dependent counties as compared to the overall average annual wage in that county. In multiple counties the salary differential between forest sector employment and the county average is in excess of 30 percent, and in several counties extends well beyond 50 percent. In these regions, forest sector employment and wages is very meaningful. The key components of the 2019 assessment were the Oregon Timber Harvest Report provided by the Oregon Department of Forestry (ODF) and the Employment and Wages data collected by the Oregon Employment Department (OED). Other valuable resources to this report include data from the American Plywood Association and the Western Wood Products Association for data on production. The Oregon timber harvest data series has been collected annually since 1962 using a consistent methodology that allows for analyzing trends in harvest by county and ownership 11 . In 2016, a collaborative effort between OED, ODF, and OFRI resulted in a methodology for identifying NAICS codes that each agency believed represented the Forest Resource Sector in Oregon.
+
+## FINDINGS Trends
+
+Sector wages and employment have remained stable in recent years. However, Oregon's Forest Products infrastructure has diminished over the past three decades due to a myriad of reasons ranging from timber availability to increasing efficiencies of production (Figure 
+2
+). 
+
+## Threats
+
+Sector threats are present in terms of trade policy changes, specifically import and export of forest materials, economic downturns, and seasonal factors affecting sector operations, notably inclement weather and fire, and emergence and or spread of insects and or disease.
+
+## Opportunities
+
+Innovative materials creating new market opportunities, notably mass timber and mass plywood, operational efficiencies (tethered harvesting), and creation of new markets such as carbon markets.
+
+## High Priority Landscapes
+
+Multiple regions in eastern Oregon are high priority landscapes as a function of restoration needs, high fire risks, and diminishing sector infrastructure necessary to process and utilize restoration materials. In western Oregon, the four county Sudden Oak Death (SOD) region is high priority as containment and quarantine effectiveness are necessary to limit spread and disruption of other regional sector functionality.
+
+## Enhance Public Benefits from Trees and Forests
+
+The economic benefits and values of trees and forests are maintained or enhanced Prior to being managed by the state, most state forest lands had been owned and managed by private landowners. Most lands deeded to the state had been burned (possibly re-burned), cut over, salvage-logged, and roaded without modern best management practices. Tax-delinquent and abandoned lands reverted to county ownership, and then were eventually deeded to the state. Beginning in the 1920s, the state sought to ensure forestland management by responsible stewards who would restore, reforest, and manage over the long-term for forest crops, recreation, watershed protection, erosion control, and other uses. In the 1940s, the multiple use management mandate "to secure the greatest permanent value of these lands to the state" was codified in Oregon law. Over time, other property was acquired through land exchanges, direct donations, or purchases that consolidated ownership.
+
+## State
+
+## METHODOLOGY
+
+Board of Forestry Lands management is set by the Oregon Board of Forestry. Common School Lands are owned by the Department of State Lands.
+Board of Forestry Lands are managed under Greatest Permanent Value (GPV). (OAR 629-035-0020) provides a management focus for the State Forester to maintain Board of Forestry Lands as forestlands and actively manage them in a sound environmental manner to provide sustainable timber harvest and revenues to the state, counties, and local taxing districts. This management focus is not exclusive of other forest resources, but must be pursued within a broader management context that:
+• results in a high probability of maintaining and restoring properly functioning aquatic habitats for salmonids, and other native fish and aquatic life. • protects, maintains, and enhances native wildlife habitats.
+• protects soil, air, and water.
+• provides outdoor recreation opportunities.
+The GPV Rule also requires that management practices must:
+• pursue compatibility of forest uses over time.
+• integrate and achieve a variety of forest resource management goals.
+• achieve, over time, site-specific goals for forest resources, using the process as set forth in OAR 629-035-0030 through 629-035-0070. • consider the landscape context.
+• be based on the best science available.
+• incorporate an adaptive management approach that applies new management practices and techniques as new scientific information and results of monitoring become available.
+GPV means healthy, productive, and sustainable forest ecosystems that, over time and across the landscape, provide a full range of social, economic, and environmental benefits to the people of Oregon (ORS 530.050).
+Common School Lands are mandated to manage lands under its jurisdiction with the objective of obtaining the greatest benefit for the people of Oregon, consistent with the conservation of this resource under sound techniques of land management. Under ORS 530.490, the State Forester is directed to manage Common School Forest Lands so as to "secure the greatest permanent value of the lands to the whole people of the State of Oregon."
+
+## FINDINGS
+
+Recreation, Education, and Interpretation (REI) are fundamental components of the legal mandates established in GPV. State forests comprise a significant percentage of public forestlands in northwest Oregon. In several counties, they are the largest ownership open to the public for recreational use. Most of these lands are less than a two-hour drive from a major urban area and most are near other recreation attractions (e.g. coastal beaches, Cascade Mountains).
+State forests positively impact local economies and provide diverse REI opportunities for both residents and visitors.
+State forests have habitat suitable for most native species found in forests of the Coast Range and West Cascades. It is estimated that there are 270 vertebrate species that are found on, adjacent to, or downstream of state forests in both aquatic and terrestrial environments, of which 63 are mammals, 147 birds, 32 amphibians and reptiles, and 28 fishes. This list generally excludes species of marine fishes, birds, and mammals that may be found in nearby estuaries unless they require state forests for some portion of their life history. Timber harvest revenues on Board of Forestry Lands are split between State Forests and local governments, which include counties and local taxing districts. The majority of harvest revenues (63.75%) are distributed to local counties and taxing districts (Figure 
+1
+). This revenue eventually makes its way to local community services, including education, law enforcement, and community health. Revenue from State Forests' timber harvest is a significant contributor to local budgets and is magnified for counties and taxing districts in the North Coast area (Figure 
+2
+). Timber harvest also provides social benefits, especially for local rural communities. Timber harvest directly impacts local jobs and mills and indirectly impacts other jobs in those communities. The remaining 36.25% of timber revenues go to State Forests for management, fire protection, and supporting the agency mission. Timber harvests contribute nearly all (over 98%) of the revenues that fund State Forests operations. Revenues from harvest on Common School Lands are presented in Table 
+1
+. 
+
+## Oregon Conservation Strategy
+
+Scope -The Oregon Conservation Strategy (also known as the State Wildlife Action Plan) is a blueprint for conserving Oregon's natural resources for today and for future generations. One key product of the strategy is mapping Conservation Opportunity Areas -geographic areas of importance that guide where the state and its conservation partners, including landowners and land managers, can best focus conservation efforts for native fish and wildlife. The objectives of the Oregon Conservation Strategy are:
+• Encourage voluntary conservation and recognize existing conservation efforts.
+• Expand the success of the Oregon Plan for Salmon and Watersheds to upland areas.
+• Provide a wide range of voluntary conservation tools to communities and landowners.
+• Increase the effectiveness of existing, and identify needed, voluntary incentive programs.
+• Provide an ecoregional and statewide context in which to address conservation needs.
+
+## Oregon's Forest Resource Strategy
+
+Leverage limited conservation resources by: • Focusing conservation actions on the species and habitats of greatest priority.
+• Identifying activities that will provide the most benefit at the landscape scale.
+• Increasing coordination, collaboration, and partnership to achieve goals.
+• Demonstrate how local conservation actions fit into a broader statewide strategy.
+• Reducing the risk of future species listings by preventing species becoming imperiled.
+• Provide a common conservation vision to guide state and federal agency efforts.
+• Increase coordination between states to address issues of common concern.
+• Involve citizens in conservation -from local clean-ups to citizen-based monitoring.
+• Promote the ecosystem services provided by conserving fish and wildlife habitats.
+• Demonstrate Oregon's commitment to conserve its species and habitats 
+
+## Enhance Public Benefits from Trees and Forests
+
+Connect People to trees and forests, and engage them in environmental stewardship activities. The plan addresses five important demographic and societal changes facing outdoor recreation providers in the coming years, including:
+
+## 2019-2023
+
+1. An aging population;
+2. An increasingly diverse population; 3. Lack of youth engagement in outdoor recreation;
+4. An underserved low-income population; and 5. The health benefits of physical activity.
+
+## METHODOLOGY
+
+Besides satisfying grant program requirements, a primary intent of this plan is to provide upto-date, high-quality information to assist recreation providers with park system planning in Oregon. As a result, a substantial investment was made to conduct a statewide survey of Oregon residents regarding their outdoor recreation participation in Oregon, as well as their opinions about parks and recreation management. Results of the survey are provided for the general statewide population; urban, suburban, and rural populations; and for demographic groups at the statewide, urban, suburban, and rural levels. A total of 3,550 randomly selected Oregonians completed a survey questionnaire. A summary of statewide and demographic group survey results is included in this plan. A SCORP planning support document entitled, "2017 Oregon Resident Outdoor Recreation Survey," contains the full report. Findings from recent statewide planning efforts identified a critical need for additional funding for non-motorized trails in the state. This SCORP planning process identified a priority need for funding associated with non-motorized trail development and major rehabilitation for close-tohome areas of the state (within Urban Growth Boundaries (UGBs)) and for non-motorized trail deferred maintenance and major rehabilitation in dispersed-settings areas (outside of UGBs). The plan's data collection effort identified a $640.4 million total non-motorized trail funding need for Oregon. The chapter provides an examination of alternatives for establishing a new dedicated funding source for non-motorized trails in Oregon.
+
+## FINDINGS
+
+## Oregon State Forest Specific Trends
+
+A major challenge for public natural resource managers and planners is to ensure that recreation opportunities remain viable and adapt to a changing population.
+The amount of land and water available per capita for recreation influences recreation participation.
+With increased transportation expenses, individuals may complete fewer recreation trips or complete trips that are closer to home and require less transportation expense.
+Visitors use Oregon State Forests at times when staff is on duty, and also when staff is not on duty. A proactive REI workforce plan will position ODF to safeguard visitors, protect ODF resources and investments in infrastructure, and strengthen public permission to manage state forests.
+
+## Oregon State Forest Specific Staffing/Workforce Recommendations
+
+Design a workforce that is working when the visitors are recreating. Staff and manage toward a nimble structure with capacity to draw from when the needs are the greatest. Seek investment in technology to create efficiencies and cost savings in staffing and public interaction, internal tracking and outreach. 
+
+## Enhance Public Benefits from Trees and Forests
+
+## FINDINGS
+
+Results indicated an increasing proportion of forested area with fire environments more suitable for the occurrence of large wildfires over the next century for all ecoregions. The highest priority forests are associated with large increases in the percentage of forest suitable for large wildfires.
+If the current trend in greenhouse emissions continues, the model predicted that the percentage of low suitability forests will decrease from 57% to 37% and highly suitable forests increase from 7% to 31%. Lands protected through the FLP may be done so through either fee title acquisition or through a conservation easement from willing sellers or donors. Landowner participation in the program is entirely voluntary. The Forest Legacy Program Implementation Guidelines (May 2017) outline requirements by landowners to participate in FLP, including obtaining a multi-resource management plan.
+
+## Purpose
+
+The purpose of the FLP is to identify and protection environmentally important forest areas that are threatened by conversion to non-forest uses. Desired outcomes include the protection of important scenic, cultural, fish, wildlife, and recreational resources, riparian areas, and other ecological values. Traditional forest uses, including timber management, as well as hunting, fishing, hiking, and similar recreational uses are consistent with the purposes of the FLP. The FLP acquires and accepts donations of perpetual conservation easements that permanently limit property interests and uses to protect forest values. The FLP also purchases and accepts as donations forestland in full fee. The FLP only works with willing sellers or donors.
+
+## Authority
+
+The 
+
+## Eligibility Requirements
+
+• At least 75% of the property is forestland. Forestlands, for the purposes of FLP, are defined as land that is at least 10 percent occupied by tree canopy cover or capable of sustaining at least that level of tree cover. • Property is located within one of Oregon's Forest Legacy Areas to be eligible for Forest Legacy Program funding.
+• Multi-Resource Management Plan: Protection, management and/or enhancement of the property's important forest resources and conservation values (as identified in the project's application to the Forest Legacy Program) follows a written multi-resource management plan, as defined in the Forest Legacy Program Implementation Guidelines, which has been reviewed and approved by the State Forester or their designee. If management activities will involve management beyond forestry-such as graze management, recreation or other resource values-should be incorporated into the multiresource management plan.
+• Assurances that the acquired properties, or acquired interests in properties, using Forest Legacy Program funds (or donated to the Forest Legacy Program), protect the federal interests in those properties. Such assurances must ensure that the landowner and/or conservation grantee will not dispose of, modify the use of, or change the terms of the real property title or acquired interest in the real property, without the permission and instructions from the federal Forest Legacy Program.
+
+## Matching Funds Requirement
+
+There is a minimum 25 percent non-federal cost share requirement calculated as 25 percent of the total project costs, which can include the appraised value of interests to be acquired and associated eligible due diligence costs.
+
+## Guidelines
+
+Operation of the Forest Legacy Program in Oregon must follow the Forest Legacy Program Implementation Guidelines, May 2017 (as amended and updated) and additional requirements specific to Oregon as contained in the Forest Action Plan, including this Strategy document. Appraisals must comply with the Uniform Appraisal Standards for Federal Land Acquisition (also known as the "yellow book" standards) as amended and updated. Appraisal and appraisal reviews must be done by a qualified appraiser meeting the minimum qualifications and follow the appraisal risk assessment and pre-work process outlined in the Forest Legacy Program Implementation Guidelines.
+
+## Oregon's Application and Evaluation for Funding Consideration
+
+The follow describes the general process for interested parties-both landowners and conservation organizations acting on behalf of the landowner with their permission-to apply for Forest Legacy funding. This process is subject to change as the federal Forest Legacy Program evolves or modifies either the application process or scoring criteria. Oregon's application process will aim to mimic the federal process.
+Forest Legacy projects refer to the actual propert(ies) being considered for acquisition.
+1. Application Period: Oregon aims to announce the application period for soliciting Forest Legacy projects for the upcoming federal fiscal year (FY) by the end of March. Project applicants are encouraged to coordinate with Oregon Department of Forestry to ensure project eligibility as well as combability with FLP scoring evaluation.
+
+## Letters of Interest:
+
+The application period will involve a letter of interest and property description submitted to ODF prior to the application deadline. The letter of interest should outline how the property meets the eligibility criteria of FLP as well as meets to scoring criteria. It is strongly encouraged, but not required, that the letter of interest follow the format of the Project Brief within the Forest Legacy Information System (FLIS). Project applicants should seek guidance from ODF on Project Brief requirements and formatting. Following this format is particularly helpful for the Forest Legacy Working Group's evaluation of new projects.
+If the letter of interest is being submitted by an entity other than the landowner, it should include the landowner's permission to seek FLP funding.
+The letter of interest should also outline the anticipated strategy for acquisition, including which FLP eligible entity will hold title, cost-share commitments or opportunities and any completed project due diligence.
+Letters of interest should describe the property's merit with respect to the following criteria:
+Importance: Describe the specific attributes and resources of the property that contribute to the environmental, social and economic benefits arising from continues management of the property as forestland for forestry purposes. Attributes to consider could be: Economic Benefits from Timber and Potential Forest Productivity; Economic Benefits from Non-timber Products and Recreation; Threatened or Endangered Species Habitat; Fish, Wildlife, Plants, and Unique Forest Communities; Water Supply, Aquatic Habitat, and Watershed Protection; Public Access; Scenic; Historic/Cultural/Tribal. Project applicants should consult the National Project Scoring Guidance for the specific attributes to highlight and should focus on attributes and resources that are of national significance. Describe how either public acquisition (in the case of a fee title project) or how the landowner and partners will manage the property (in the case of a conservation easement) will ensure conservation and sustainable management of the property's important attributes and resources in perpetuity.
+Threatened: Describe the threat and likelihood of the project being converted to nonforest use. In doing so, describe the allowable development under all applicable comprehensive land use plans, specific steps or actions taken by the landowner or expressed purchaser interests in the property toward development. Factors to consider include: lack of protection, land and landowner circumstances, adjacent land use, and the ability to develop.
+Strategic: Describe the property's relevance or contribution to existing or emerging conservation initiatives or proximate forestlands that are already being manage in perpetuity for forest purposes (e.g. public forestlands and other forestlands being conserved through conservation easement or acquisition by land trust organizations).
+When describing the strategic nature of the property, consider its role in conservation initiatives, strategies or plans as well as how it complements protected lands.
+2. Eligibility Screening. The Oregon Department of Forestry will verify that the nominated properties are eligible for FLP funding, including meeting minimum forestland requirement and are located within an Oregon Forest Legacy Area.
+3. Forest Legacy Working Group Review. The Forest Legacy Working Group has the option to screen the eligible projects prior to completing their recommendation to the Department on project submission. ODF will work with the Working Group to consider if this step is valuable for a given application cycle. The Working Group's review may include inviting project applicants to give a presentation on their project. ODF will seek a recommendation on project submission form the Working Group prior to advancing the projects forward for funding consideration. This recommendation may be based on a mock project scoring and ranking as well as discussions with the Working Group.
+4. Submittal to the National Review Panel. ODF, landowners and application representatives of the projects selected for submittal will work to edit and update their FLIS Project Briefs following guidance from the review process, with oversight from the USDA Forest Service Forest Legacy Program Manager. ODF will ensure projects and required materials are submitted to FS prior to their deadlines. We were very fortunate to have ORNHP conduct the analysis and compile the AON. In particular, the experience and expertise of ORNHP Director Jimmy Kagan allowed us to capitalize on a wealth of ecological, social and economic information about Oregon's private forests compiled in previous assessments and studies. Timely access to this data allowed us to complete a quality AON in one-third the time it might have normally taken.
+The AON Develops a Forest Legacy Program for Oregon that provides private forest landowners the opportunity to keep their forestland as forests so as to preserve the flow of ecological, social and economic benefits these forestlands produce for Oregon. In particular, the AON identifies 15 Forest Legacy Areas located throughout the state that have significant amounts of private forestland threatened by the possibility of conversion to non-forest uses, in particular residential and urban development, within the next 10 years. The 15 Forest Legacy Areas were also chosen to focus the program where important forest resources such as habitat for threatened and endangered species, aesthetics and recreation opportunity and timber supply are threatened by forest losses to non-forest uses. The 15 legacy areas are broadly spaced geographically in recognition that these resources and the threats to them are not confined to one region in Oregon.
+As you may be aware, the Western Governor's Association and I have adopted a framework, Enlibra, for guiding western natural resource and environmental policy development well into the next millenium. As a voluntary program reliant on landowners, communities, agencies, non-governmental organizations such as land trusts and other interests working together, I feel Oregon's Forest Legacy Program as developed in our AON is consistent with this framework.
+
+## Statement of Purpose
+
+Oregon is a state rich in forest resources. The 27.5 million acres of forest land cover 45 percent of the state. Private forest lands, comprising 39 percent of Oregon's forest lands, have become increasingly important to the state's natural resource based industries as resource allocation decisions on federal lands, representing 57 percent of Oregon's forest lands, are now predominately geared toward producing environmental benefits.
+Historically, about 10 percent of Oregon's forests present in the mid-1800's have been converted to urban, residential, agriculture, pasture and other non-forest uses. In 1973, Oregon adopted county comprehensive land use planning as a tool for protecting highly productive private agricultural and commercial forest land from being lost to development.
+Lands zoned as forest or farm in comprehensive plans face limited threats from being converted to urban or high-density residential uses. However, many important forests still exist within areas zoned as developable in comprehensive plans. Forest losses within these developable areas noticeably increased over the 1982-1994 period (the most recent period that data is available). In general, forest losses to development are predicted to continue as more and more people move into Oregon and communities accommodate business growth in non-natural resource sectors.
+Preventing conversion of private forest lands to non-forest uses protects unique ecological, social and/or economic benefits that these private forest lands provide. In addition, it is recognized that the habitat needs of threatened, endangered and other fish, wildlife and plant species of concern cannot be met on the federal forest land base alone. The AON establishes five criteria for evaluating private forest lands with owners that request monies for the sale (in the form of easements or fee title) of their development rights to nonforest uses. The criteria are listed in priority order of importance (i.e., the higher the priority, the more weight given to the criteria in the evaluation of sites). They are:
+1. The significance of ecological, social and/or economic values on the property. 2. The viability and importance of the site to other forest lands.
+3. Local support and presence of partners and/or match funding. 4. Immediacy of conversion threats to the site. 5. The priority of the Forest Legacy Area that the property is in.
+The AON identifies specific goals and objectives for each of the 15 Forest Legacy Areas. These goals and objectives, which are not meant to be comprehensive, identify specific issues tied to forests in each Forest Legacy Area. The goals and objectives serve as performance measures to ensure that when viewed collectively, Forest Legacy Program acquisitions of conversion rights make positive contributions to addressing these issues by keeping important private forest lands from being converted to non-forest uses.
+As a voluntary program reliant on landowners, communities, land trusts and other interests working together, Oregon's Forest Legacy Program as established in this AON, provides private forest landowners the opportunity to keep their forest land as forests so as to continue the flow of ecological, social and economic benefits these forest lands produce for Oregon. As such, this AON is another example of Oregon's commitment to the sustainability of its forests. As appropriate, periodic review and revision of this AON will be made. Oregon is the tenth largest of the United States, encompassing 97,060 square miles 
+(Keisling 1999)
+. Elevations range from sea level at the coast to the high peaks of the Cascade Mountains, the tallest being Mt. Hood at 11,245 feet elevation. Some of the wettest and driest places in the United States are found in Oregon; several sites in the eastern part of the state receive less than 8 inches of precipitation annually, while over 120 inches falls in parts of the Coast Range. All four of the world's major biomes occur in Oregon--arctic alpine, desert, grassland, and forest.
+
+## TABLE OF FIGURES
+
+Renowned especially for its forests, which cover almost half the state, Oregon is home to such outstanding species as Douglas-fir, Sitka spruce, western hemlock, Pacific silver fir, white fir, noble fir, western red cedar, madrone, big leaf maple, black cottonwood, as well as extensive fire-maintained ponderosa pine and Oregon white oak savannas and woodlands. Port-Orford-cedar, Brewer spruce, sugar pine, Jeffrey pine, Baker cypress, and limber pine are some of the rarer conifers which account for much of Oregon's forest diversity.
+Due to the widely varying combinations of climate and topography, Oregon's forests are more ecologically diverse than all other states but California. Oregon's forests are also among the tallest and most productive in the world, and for decades Oregon has led the nation in lumber production, which has always been a central part of the state's identity. In the past decade, the famed old-growth or "ancient" forests in Oregon and the other Pacific Northwest states, some of which are more than 250 years old and contain trees up to 100 meters high, catalyzed one of the country's most emotional political battles. In 1990 the U.S. government listed the northern spotted owl as a threatened species and instituted a plan to limit timber harvest in large areas of federal forests in the Northwest to ensure its protection. This plan dramatically changed the management of Oregon's federal forest lands, and impacted private forest lands throughout western Oregon.
+With their remarkable wealth of diversity, Oregon's forests provide the state with uncommon natural beauty, wildlife habitat, soil and watershed protection, recreational opportunities, and valuable timber and non-timber products. These natural resources have influenced the settlement of Oregon from the time of its first human habitation. However, with continued population growth, development and other conversion to other non-forest use pose increasing threats to many of these forested areas and their natural, economic, and social resources ? crucial components of Oregon's heritage. Although many local governments and landowners wish to retain the traditional landscape and uses of their forests, sometimes outside pressures make it economically difficult for them to keep their land in forest use.
+Like other Cooperative Forestry programs of the U.S. Department of Agriculture (USDA) Forest Service, the Forest Legacy Program (FLP) is a federal program that works in partnership with states. The FLP recognizes that the majority of the nation's productive forestlands are in private ownership and is designed to support state and local efforts to protect threatened forestlands from conversion to non-forest use. In addition, the FLP promotes good stewardship and long-term sustainable management of privately held forested areas. Forest Legacy is strictly a voluntary program. This Assessment of Need (AON) is the result of a comprehensive assessment of Oregon's private forest lands. The assessment was developed in a public forum in cooperation with the Oregon State Stewardship Coordinating Committee (SSCC). The purpose of this Assessment of Need is to develop a Forest Legacy Program for Oregon that provides landowners an opportunity to protect valuable forest resources while retaining ownership of the land. Oregon's Forest Legacy Program also needs to facilitate long-term resource management partnerships between local, state, tribal and federal governments as well as non-governmental organizations.
+The Assessment of Need evaluates private forestlands with respect to threats of conversion to non-forest uses, describes the need for the program, and outlines how the Forest Legacy Program will be managed in Oregon. The AON looks at forest conversions likely to occur within the next 10 years. For the Forest Legacy Program in Oregon, the Oregon Department of Forestry (ODF) has elected the state grant option. This means that all Forest Legacy acquisitions, whether of easements or fee title, shall be transacted by the state, with title vested either in the state or some other unit of state or local government. In this assessment, the state has outlined some primary goals and objectives for the Forest Legacy Program. The goals are to:
+? Conserve private forest lands in areas where forests may be lost to non-forest uses.
+? Sustain forest resources such as river flows and clean water, fish and wildlife habitat, carbon stores, soil productivity, commercial and non-commercial timber, scenic quality, recreational opportunity, and biodiversity. ? Strengthen communities and facilitate state, local and private partnerships in forest conservation.
+The primary objectives are:
+1) Protect significant site-specific ecological, social and/or economic forest related benefits.
+2) Reinforce and expand upon existing networks of conserved forest land.
+3) Encourage private landowners to work with communities, agencies, businesses and nongovernmental organizations so as to strengthen their management of forest resources.
+4) Secure additional conservation investments in private forest land.
+5) Protect forested properties that face immediate threats to conversion to non-forest use.
+6) Focus efforts where large areas of private forest land face the possibility of conversion to non-forest use within the next 10 years and where the consequences in terms of overall losses to important ecological, social and economic forest related benefits are great.
+Oregon was able to develop this AON because the state has just completed three major, statewide environmental assessments. These include 1) the Oregon Gap Analysis Project, funded by the U.S. Geological Survey (USGS) to look at how well habitats and species are protected in Oregon, 2) the Oregon Biodiversity Project, a cooperative private assessment coordinated by the Defenders of Wildlife, identifying conservation needs, incentives and opportunities in Oregon, and 3) the State of the Environment Report, a comprehensive analysis of the environment requested by Governor John Kitzhaber and headed by Dr. Paul Risser, Oregon State University President. The Oregon Department of Forestry chose the Oregon Natural Heritage Program (ORNHP) to develop this AON because of their involvement in the previous assessments and their access to statewide data on forests, habitats, endangered species, protected lands, and other necessary information. The data used in the assessment is described in more detail and summarized in Appendix B.
+
+## II. Oregon's Forest Resources
+
+## A. Forest plant diversity
+
+Ecologically, Oregon is the most diverse state aside from California
+foot_11
+ . Oregon has coastal rainforests dominated by Californian and Alaskan species; barren deserts receiving less than eight inches of rainfall a year; and mountain ranges associated with the Rocky Mountains, the Cascades, the Klamath Mountains and the Great Basin Ranges.
+Trees from many regions converge in Oregon, where numerous species are at or near the edge of their range. Many plants typically found in the Arctic dominate the high Cascades.
+Alaskan species such as Sitka spruce dominate northern coastal lowlands, while the southern coast has a redwood belt that spills over from California. The Wallowa Mountains form the western edge of the Rocky Mountains and are home to many forest species common to central Colorado. Southeastern Oregon is on the edge of the Great Basin and harbors plants found in the cool deserts of Nevada and Utah such as narrow-leaf cottonwood.
+In the Klamath Mountains, the flora of the Sierra Nevadas, the Cascades, and the Great Basin comes together to form unique combinations. A two-mile stretch of the Siskiyou Crest in southwestern Oregon provides a range of niches for a rich reservoir of genetic material, supporting plant communities as varied as old-growth Douglas-fir forest, alpine meadows, western juniper steppe, Jeffrey pine savannas, California red fir forests, and rigid sagebrush steppe. The Klamath Mountains are home to the greatest diversity of conifer species in the world, with over 14 species found within a few square miles of the Kalmiopsis Wilderness Area. The forest diversity of this area has made it an internationally known study site for forest ecologists.
+
+## B. Recreational, cultural, and scenic resources
+
+Oregon has gained a reputation for its extensive forests of tall trees, timber resources, biodiversity, and overall scenic splendor. Currently, the rugged beauty of Oregon's mountains, seacoast, and forest lands attracts millions of tourists every year. A variety of recreational opportunities await in any of Oregon's parks, forests, and other scenic areas.
+Crater Lake National Park, the nation's fifth oldest national park, draws visitors from around the world to its six mile-wide caldera lake and hiking trails that wind through old-growth forest. In 1999 Crater Lake drew 417,992 visitors during its brief snow-free summer season.
+Oregon also has 48 designated Wild and Scenic Rivers, 177 state parks, and hundreds of miles of public beaches.
+Thirteen national forests throughout the state offer abundant opportunities for outdoor recreation and escape from urban life, including hiking, camping, fishing, hunting, picnicking, and sightseeing. For example, the varied landscape of wooded slopes, high mountains, and narrow canyons of the Willamette National Forest, which stretches for 110 miles along the western slopes of the Cascade Range in western Oregon, makes it a valuable scenic and recreational resource. Private forest lands border many of these public recreational, cultural, and scenic areas. These private lands contribute to the state's recreational opportunities by providing vital access points, maintaining scenic corridors, adding access for hunting and fishing and offering an outlet for intense recreation pressures on public lands and resources. As cities continue to grow, more and more people will seek the aesthetic enjoyment of outdoor activities, making the continued health and conservation of forest land an important component in the quality of life Oregon has to offer.
+
+## C. Fish and wildlife habitat, and threatened and endangered species
+
+Oregon's diversity of climate, topography, and vegetation types creates a complex system of forest habitats for fish and wildlife species. An estimated 300 species of native terrestrial vertebrates use some form of forest cover to breed; overall, forest management practices can affect habitat quality for over 400 terrestrial forest vertebrates, including the northern spotted owl, bald eagle, wolverine, and several other sensitive and threatened species. Western and montane conifer-hardwood forests and oak woodlands are some of the more species-rich areas in the state 
+(Olson et al. 2001)
+.
+Some forest species have declined in Oregon. These include old-growth obligate species, species requiring deciduous cover or riparian habitat, cavity-nesting birds and mammals, amphibians, species using snags or fallen, decaying trees, large game animals, and other mammals, including forest carnivores. More than 60 wildlife species are associated with downed wood alone. Of the 114 species of wildlife listed within the Oregon Natural Heritage Program database as being either state or federally endangered, threatened, or sensitive, 65 species have some association with forests, whether for nesting, roosting, hibernating, or foraging.
+In addition, forest lands of all elevations often encompass riverine wetlands and riparian habitats which support a range of wildlife species. In fact, riparian areas are sometimes richer in vertebrate diversity than upland areas. Some vertebrates are strictly associated with riparian hardwoods, mainly due to the opportunities for cavity nesting or foraging. Amphibian diversity is also high in these areas. Seven amphibian species spend large portions of their lives in smaller streams, making them sensitive to forestry practices. Riparian habitats and streamside wetlands are also crucial for providing cover, food, and water to wide-ranging species. Without these forest corridors, peripheral species and species from other habitats may suffer decreased population numbers as well.
+Oregon's fish populations are also particularly reliant on healthy riparian areas since overhanging trees lower water temperatures and increase the amount of dissolved oxygen in the water. Healthy forests improve the overall living conditions for cold-water dependent fish by stabilizing steep slopes and thus reducing erosion and silt-loading in the streams. Over 60 species of fish are native to Oregon's streams and rivers, with a majority of these occurring within forested habitats. For example, steelhead trout, chum, coho and Chinook salmon, and cold water-dependent cutthroat and bull trout are found throughout the state's forested lakes and streams. Yet many of Oregon's fish species continue to experience population declines and range contractions. A majority of the stocks of anadromous salmonids (13 of 20 ESUs, or Evolutionary Significant Units) are now listed as either threatened or endangered under federal and/or state endangered species acts and have severely declined from their historical range. Some of the leading causes of this habitat decline are the conversion of many riparian forests to agricultural, urban and residential uses; and water pollution and the diversion of water for development and agriculture.
+A total of 261 different species of rare, sensitive and endangered plants occur in Oregon's forests 
+(Oregon Natural Heritage Program 2001)
+. Some of these such as howellia and wayside aster are local endemics. Others, like the clustered lady slipper are of concern throughout the west. Recent work by the USDA Forest Service and the US Department of the Interior Bureau of Land Management (USDI BLM) has identified a number of invertebrates, fungi, and lichens which are completely dependent on the forests of the Pacific Northwest. Figure 
+1
+, below, shows the distribution of the all of the sensitive, threatened and endangered species in Oregon, from the Oregon Natural Heritage Program's at-risk species database. While these include all species, most are fish, wildlife and plants. 
+
+## D. Geological features and mineral resources
+
+Plate tectonics and millions of years of volcanic activity have shaped the Oregon landscape (Figure 
+2
+). Steep cliffs rise along much of Oregon's coast, where scenic headlands ? remnants of an ancient volcanic island chain that collided with North America ? are interspersed with sandy beaches and protected harbors. The eye-catching Cascade Mountains combine two volcanic regions: the older, broader, and deeply eroded western Cascades; and the snow-capped peaks of the younger, more easterly volcanoes of the high Cascades such as Mount Hood, Mount Jefferson, and the Three Sisters. Another high Cascade peak, Mount Mazama, was destroyed about 6,800 years ago by a catastrophic eruption, leaving a deep caldera that eventually filled with water and became Crater Lake. The Klamath Mountains in the southwestern corner of the state, which are covered with thick and highly diverse forests, consist of north-south trending belts of metamorphic and igneous rocks. This area also has the state's richest mineral deposits. Gold mining made its mark on the history of this area ? one mine near Ashland recovered $1,300,000 in gold between 1886 and 1933, and the historic gold-rush town of Jacksonville has become a modern tourist attraction. Northeastern Oregon's most notable geological features are the rugged Blue and Wallowa mountains. This area is made up of separate exotic terraces, areas that were prefabricated elsewhere and pushed outward by the North American continent as it moved west. In addition to their timberlands, the Blue Mountains also have a gold-mining heritage, with a history of active placer and lode mines. On Oregon's eastern border with Idaho, the Snake River has carved the famous Hells Canyon, a gorge with an average depth of 5,500 feet between the Wallowa Mountains and Idaho's Seven Devils Mountains.
+Widespread deposits of limestone, sand, and gravel are Oregon's most important mined resources. Sand and gravel are found almost everywhere in the state. The most valuable limestone deposits are in northwestern and extreme eastern Oregon. A small natural gas field lies beneath the surface in the northwestern part of the state. Other mineral deposits in the state include clays, diatomite, coal, gemstones, gold, nickel, silver, and talc.
+
+## E. Soil productivity
+
+Soils are considered a basic resource since both the abundance and distribution of all renewable resources, such as forests, depend on soil characteristics. In general, the soils of Oregon's forests can be grouped into two main units: soils at moderate to high elevations, which were formed under tree-dominated vegetation; and soils at lower elevations which were formed under grassland or shrub-grassland vegetation.
+The soils of western Oregon ? from the Coast Range, through the Willamette Valley, and up the west slope of the Cascades ? are quite productive. All the forest soils in these areas meet the definition of prime timber land, which requires that they be capable of producing at least 85 cubic feet of wood fiber per acre per year. The acid soils of the western Cascades, which are characterized by an accumulation of humus, and aluminum and iron oxides beneath the surface, produce between 147 and 220 cubic feet of wood fiber per acre per year, as do the soils of the Coast Range. Western Cascade soils typically have a light-colored horizon overlying a reddish-brown horizon. Gray-brown soils cover the Coast Range and Klamath Mountain regions. The deep soils of the Willamette Valley are capable of producing between 107 and 207 cubic feet of wood fiber per acre per year. Shallow soils cover most of the eastern Cascade slopes, and the basin and range region. The wheat belt of the Columbia Basin has rich soils good for growing crops.
+The best forest-producing soil, volcanic ash, is found in many areas of the state. In the Blue Mountains of central Oregon, volcanic ash-based soil covers over 30 percent of forest lands.
+Approximately 60 percent of the Blue Mountain forests consist of steep slopes that are subject to surface soil erosion. These ash soils are also the most sensitive to compaction. In the east Cascades, soils are primarily derived from the weathering of volcanic bedrock and/or volcanic ash and pumice and are relatively young in age. Residual, loess, glacial till, glacial outwash and colluvial soils are all present within forest boundaries. The majority of these soils have unique thermal and chemical properties associated with their young age and the volcanic material from which they are derived, including poor heat transfer, moderate water holding capacities and coarse textures. Despite their relatively young age they are still productive, as indicated by the forests that they support. The primary nutrients for plant growth such as nitrogen, phosphorous and potassium are available in these soils, although nitrogen may be limiting. Water is the primary limiting factor to vegetative growth in this area, as seen by the changes in vegetation with elevation and distance from the Cascade crest.
+
+## F. Watershed values
+
+Forests are key to healthy watersheds, keeping the streams cool and the soils stable, cleaning the air and water, and providing critical fish and wildlife habitat. Conversion of riparian forests for agriculture, range, and urban uses as well as intensive timber management of some streamside forests have contributed to the current declines in both water quality and fish habitat throughout the state. As a result of these declines, the state has developed the Oregon Plan for Salmon and Watersheds. This plan represents an unprecedented undertaking on the part of the State of Oregon to restore its salmon and aquatic resources. Its goal is to restore populations of fisheries to productive and sustainable levels that will provide substantial environmental, cultural, and economic benefits -as well as to assist in the improvement of water quality throughout the state. 
+
+## G. Timber management opportunities
+
+Most of the state's timberlands are now being managed for multiple uses such as recreation, scenic values, and protection of wildlife habitat. The environmental concerns of Oregonians have led to some of the strictest reforestation and other forest practice requirements in the nation. Virtually all land in the state that is clearcut must be reforested according to the Oregon Forest Practices Act, which protects forest resources like water, soil, and fish and wildlife habitat. Landowners are responsible for replanting within two seasons after harvest. On federal forest lands, the policy in recent years has been directed toward creating more late-successional forests by limiting harvests. Timber sustainability needs a balance between growth and harvest over time, though harvests from federal lands have fallen far below current growth rates due to this de-emphasis on timber production.
+According to a 1989 Oregon State University study, the long-term sustainable timber harvest on federal lands is 1.3 billion board feet per year. For comparison, the harvest volume on federal lands in 1997 was 0.67 billion board feet. On private land, according to the study, the long-term sustainable baseline harvest is 3.7 billion board feet a year, and in 1997 approximately 3.4 billion board feet were harvested on these lands. In other words, harvests from private lands remain fairly constant at levels close to current growth and long-term sustainability. The wood products industry still accounts for about 27 percent of the jobs and income in Oregon's manufacturing sector, and is considered a "basic industry" since most forest products are sold outside of the state. Over the past ten years, timber supply has shifted toward private lands with the non-industrial owner group taking a more significant role due to declining timber availability on federal lands. The first white settlement of Oregon began with fur traders, originating with a fur-trading post at Astoria. However, furs were not the only valuable resource in the region, and in 1827, the first sawmill was built. By the time civil government was established in Oregon in 1843, immigration along the Oregon Trail had begun. For the next several decades, the logging industry continued expanding, and began exporting lumber to China, Hawaii, and Australia. At the turn of the 20 th century, timber supplies in the Great Lakes region had almost run out, which put new pressure on the forests in the west and inspired an era of largescale logging in the Columbia River Basin. When the Great Depression began in 1929, the number of lumber mills in the state had risen to 608 and there were also five paper mills, 64 planing mills, and 47 furniture factories. Until this time the major focus of the lumber industry had been in northwest Oregon, but this focus began shifting to the southwestern part of the state. Meanwhile, by 1938, Oregon had surpassed Washington to become the leading lumber producer in the nation. In 1941 Oregon passed a law requiring reforestation after timber harvest.
+
+## III. Forest Resource Trends and Threats in Oregon
+
+The years 1945 to 1970 marked an era of intensive forestry and forest management. This included dramatic increases in recreation use, timber production, dam construction, campground construction, and wildlife management. After World War II, the state's natural resource industries continued to drive the state's economy, particularly for timber, as lumber and plywood from Oregon was used to build more and more homes around the country. Important changes also took place in the state's timber industry starting in the 1960s. Previously, sawdust, bark, and other logging by-products had not been used. As the diameter of logs began to decline and the industry began studying ways to conserve, many of these byproducts were now being turned into hardboard, pulp and other wood products.
+Activity in the state's forest products industry increased greatly in the 1970s due to growth fueled by a strong post-war economy. Coinciding with this peak was an increased public awareness and concern for the environment. In 1971, the Oregon Forest Practices Act, the first of its kind in the United States, required resource protection during logging. Two years later, the Endangered Species Act was passed by Congress. Also in 1973, Oregon approved statewide land use planning. Yet by 1975, sustained-yield harvesting had not been implemented statewide, and western Oregon began to consider banning exports.
+By 1990 the U.S. Fish and Wildlife Service had listed the northern spotted owl as a threatened species in Washington, Oregon, and northern California. As a result, this species became the symbol for the protection of old-growth forests. Protection strategies for the spotted owl and other old-growth dependent species radically changed federal land management in the early 1990s, dramatically reducing timber harvest levels in western Oregon. Increasing concerns about ecosystems, salmon and forest health led to similar changes in federal forest land management in eastern Oregon and adjacent states. As the economy recovered from an early 1980s recession, timber harvest began to shift from federal to private, non-industrial timberlands (Figure 
+3
+). Since 1992, harvest levels on federal lands have dropped sharply. In the 1970s and 1980s, federal land yielded 50 percent of Oregon's timber harvest, but by 1996 it provided only 17 percent 
+(Beuter 1996)
+. This led to an increase in timber value and a concomitant increase in harvests from non-industrial lands in the early 1990s. In spite of the tremendous economic growth in Oregon during the 1990s, these federal policy changes are still evident in the local economies of some timber dependent counties. Differences in local dependence of Oregon's counties on timber is shown in Figure 
+4
+. The Oregon Department of Economic Development has also created a map showing the locations of economically distressed communities in 2000, much of which is from reductions in available timber. This map is shown below as Figure 
+5
+.
+Oregon's Timber Harvest, 1965-2000 0 500,000 1,000,000 1,500,000 2,000,000 2,500,000 3,000,000 3,500,000 4,000,000 4,500,000 1 9 6 5 1 9 6 7 1 9 6 9 1 9 7 1 1 9 7 3 1 9 7 5 1 9 7 7 1 9 7 9 1 9 8 1 1 9 8 3 1 9 8 5 1 9 8 7 1 9 8 9 1 9 9 1 1 9 9 3 1 9 9 5 1 9 9 7 1 9 9 9
+
+## Year
+
+Board Feet The forest products industry is no longer Oregon's economic leader (having been surpassed by a thriving high-technology industry). But in spite of this, Oregon still leads the nation in lumber production. Moreover, while the high-tech industry is growing quickly in the Willamette Valley's metropolitan areas, especially Portland, it has little impact on the rest of the state, where the wood products industry still accounts for about one-third of the economic base (Oregon Forest Resources Institute 1999). Oregon continues to grow healthy timber, and much of it is on private land, which will increase in importance as the amount of timber harvested on federal land declines. Nonetheless, forestland has felt the pressure of human encroachment: since the early 1800's, 2.5 million acres of forest in Oregon have been converted to other uses 
+(ODF 2001)
+.
+
+## B. Current ownership patterns, land management objectives, and timber harvest trends
+
+Of Oregon's 28 million forested acres, 39 percent is privately owned, 57 percent is federally owned, and the state, tribal and other public entities own the remaining four percent (Figure 
+6
+). Land management objectives for these ownership groups vary.
+
+## Federal
+
+The USDA Forest Service and USDI Bureau of Land Management (which oversees the Oregon and California Railroad, Coos Bay Wagon Road, and public domain lands) have adopted ecosystem management as the primary method for the management of public forest lands in Oregon. Ecosystem management arose over public concern about timber harvest levels on federal lands in the late 1980s and over concern for federally listed species under the Endangered Species Act such as the northern spotted owl, marbled murrelet and several species of salmon and steelhead. Under ecosystem management, the goods and services produced by the forest (e.g., timber, minerals, recreation, water) are by-products of managing the forest for the protection and restoration of ecological values such as fish and wildlife habitats, old-growth, soil protection, long-term site productivity, watershed health and biodiversity. In western and coastal Oregon, ecosystem management centers on the development of an interconnected late successional (i.e., old-growth) forest ecosystem. In eastern and southwestern Oregon, ecosystem management focuses on restoring healthy forest conditions in areas overstocked and declining in vigor due to decades of fire suppression.
+
+## Private
+
+Private industrial forestlands are managed intensively for timber production for competitive economic return. Private non-industrial forest owners -those managing lands less than 5,000 acres and who are not actively involved in the manufacture of wood products -have land management objectives that vary as widely as the number of owners. Some lands have been held for generations and managed as working forests for income through timber, Christmas trees, agriculture, range or some combination of use. Others landowners seek sanctuary from urban areas and emphasize aesthetics and Figure 
+6
+. Forest land ownership in Oregon. wildlife habitat. Many resources (e.g., fish, wildlife, water quality, aesthetics) are protected by mandatory compliance with the Oregon Forest Practices Act, which also requires reforestation after final timber harvest. In addition, both non-industrial and industrial private forest landowners recognize their responsibility to the environment through their stewardship of the public resources found within their holdings. These landowners often voluntarily conduct projects that enhance wildlife habitat and restore in-stream and riparian habitat for salmon and steelhead pursuant to the Oregon Plan for Salmon and Watersheds.
+
+## State
+
+State forestlands managed by the Oregon Department of Forestry fall into two groups: those owned by the Oregon Board of Forestry (e.g., the Tillamook State Forest in northwest Oregon) and lands owned by the State Land Board (e.g., the Elliott State Forest in the southern Coast Range). The management objective for Board of Forestry lands is to provide the greatest permanent value to the people of Oregon through healthy, productive, and sustainable forest ecosystems by managing for steady timber harvest and revenues while providing other ecological and social forest values. The objective for most of the State Land Board lands is to generate revenue for the Common School Fund consistent with sound techniques of timber and land management. The Board of Forestry has adopted structure based management (i.e., repeated thinning and extended rotation ages to create older forest characteristics in tree size, down wood and dead trees used by wildlife) as the strategy for achieving greatest permanent value. The management of state forestlands must meet the regulatory requirements of the Oregon Forest Practices Act, state and federal endangered species acts.
+
+## Tribal lands
+
+Most American Indian lands in Oregon are lands held in trust by the United States and managed under the sovereign authority of American Indian tribes. The management objectives for these lands vary by each tribal government. American Indians have a deep cultural and spiritual relationship to the land and resources, and value their forestlands accordingly. Forestlands may be managed for timber and minerals for employment, income and tribal business enterprise, but also for their cultural value. Many tribes have adopted integrated resource management plans that schedule the joint production of timber and non-timber resources for employment, shelter, fuel, clothing, crafts, medicinal plants, food, water, fish, wildlife, cultural features and a sense of place. In administering the United States trust responsibility for Indian lands, the USDI Bureau of Indian Affairs and other federal agencies must meet the requirements of federal laws including the Endangered Species and National Environmental Policy acts. However, they do this in a manner that harmonizes treaty or Executive Order rights and tribal sovereignty by working with tribes on a government-to-government basis.
+
+## Off-reservation treaty fishing rights
+
+Specific rights were reserved in treaty documents by Indian tribes as usual and accustomed fishing places, outside the bounds of tribal lands or reservations. These rights apply to 24 Indian Tribes in the Pacific Northwest. For these tribes, the access to such sites, usually along streams or marine shorelines, may not be obstructed. This unique access is a tribal property right for those fishing places. The right remains an encumbrance on the land to future owners, whether in state, private or federal ownership.
+
+## Other public
+
+The objectives for county, city and regional government forestlands in Oregon vary. In general, local government lands may be held in reserve for parks and greenspace or actively managed for timber as a means to generate revenue. Some lands may be managed for a combination of resource values such as timber, drinking water, aesthetics, recreation and fish and wildlife habitat. Specific management practices applied by each ownership group reflect their management objectives. Clearcuts and young, healthy and fast-growing forests are prevalent on industrial timberlands in western Oregon since Douglas-fir is a valuable commercial species that regenerates best in full, open sunlight. National forests and Bureau of Land Management lands comprise millions of acres of late successional reserves where light thinning and natural processes will be relied on to achieve old-growth forest conditions. State forest managers have not adopted a reserve approach. Instead, desired older forest habitat conditions will be achieved through active management of stands over longer rotations.
+Since forests are important to the Oregon economy, they have been well studied. Since the late 1950s, there have been several timber supply assessments for western Oregon as increasing timber harvest activity in the state during the post-World War II era prompted questions about the sustainability of Oregon's timber resource. The landmark assessment of timber supply on both federal and private lands was the Oregon State University study, Timber for Oregon's Tomorrow, by Dr. John Beuter 
+(Beuter et al. 1976)
+. In 1980, the Oregon Board of Forestry completed the 1980 Timber Supply Assessment 
+(Stere et al. 1980)
+ in preparation for its strategic plan for all of Oregon's forestlands, called The Forestry Program for Oregon. Both studies predicted that Oregon would encounter a shortfall in timber supply in the 21st century as the timber harvests shifted away from old-growth forests on federal lands at a time when private timber supplies were still too young in age to make up the difference. What these assessments did not take into account were changes in federal land management policies that made much of the federal timber supply unavailable by the early 1990s. As such, the predicted shortfall was realized by 1990 for reasons unanticipated and not related to deprecations of standing timber inventory. In 1990, Oregon State University released an updated Timber for Oregon's Tomorrow -The 1989 Update 
+(Sessions 1990
+) and companion reports 
+(Greber et al. 1990
+) that evaluated the timber supply, employment, and income impacts realized by the decline in federal timber availability.
+In 1988, the Oregon Board of Forestry conducted its second assessment of Oregon's forests 
+(Lettman 1988)
+. In this assessment, the Board recognized the need to assess all resources, not just timber, and the need to understand how the varying management of all of Oregon's forests in aggregate affects these resources. The Oregon Board of Forestry's third assessment is scheduled for completion in early 2002. This will be the first assessment of the overall sustainability of Oregon's forest. The assessment will use the seven international criteria for sustainable forestry adopted at the 1992 United Nations Conference on Environment and Development held in Rio de Janeiro, Brazil. The Seven Criteria are biological diversity, productive capacity of forest ecosystems, forest ecosystem health and vitality, soil and water resources, global carbon cycles, socioeconomic benefits and legal and economic issues. In 1999, the Oregon Department of Forestry released its First Approximation report 
+(Birch 2000)
+ discussing the available data and indicators to be used to evaluate each criteria in the 2001 assessment.
+
+## C. Priority Forest Communities
+
+There have been two comprehensive federal regional ecosystem assessments. The first resulted in President Clinton's Northwest Forest Plan, developed by the Forest Ecosystem Management and Assessment Team (FEMAT) 
+(FEMAT 1993)
+ for western Oregon, western Washington and northwestern California. The second was the Interior Columbia Basin Assessment 
+(Quigley et al. 1996)
+, which covered all of eastern Oregon. Both of these assessments have focused on issues related to forest management of federal lands.
+In addition, there have been several statewide assessments that took a broader, coarser look at all of Oregon's forests. The first private-public effort was the Oregon Biodiversity Project, a cooperative effort coordinated by the Defenders of Wildlife and completed in 1998. This was an effort to use statewide habitat data and locations of protected areas to identify the best areas in which to work to protect biodiversity (called Conservation Opportunity Areas). The Gap Analysis Project assessment was started in 1990 in Oregon, first by the U.S. Fish and Wildlife Service and then by the U.S. Geological Survey, and completed by the Oregon Natural Heritage Program in 1999. This program created statewide vegetation, habitat, protected areas, and distribution maps for all Oregon's wildlife species. The objective was to identify which species were poorly represented in the current network of wilderness, parks and other protected areas in order to allow land managers and conservation organizations to be proactive and protect species before they become endangered. Most recently, the Governor of Oregon, John Kitzhaber, asked the Oregon State University President, Paul Risser, to coordinate a State of the Environment Report for Oregon (Oregon State of the Environment Report Science 
+Panel, 2000)
+. This project looked at all aspects of the environment statewide, with several chapters devoted to Oregon's forests and their management. The Oregon Natural Heritage Program has developed a vegetation map showing Oregon as it was when the first settlers arrived via the Oregon Trail in the mid-1800s (Figure 
+7
+). The information is based on a combination of data. The forest information in this cover includes a forest vegetation map of Oregon and Washington developed by H.J. Andrews with survey data from the 1930s, as well as 1:24,000 vegetation maps based on the General Land Office (GLO) 1850s surveyor's notes. The data included in this AON is the second edition, which is more complete for forests and rangelands, although is still lacking details for the Rogue Valley, the Wallowa Valley, the Grand Ronde Valley, and the Silvies Valley. This data allows the evaluation of how much each of the forest types have declined over the last 150 years, and where the greatest forest losses have occurred.
+Currently, there are only two statewide maps of Oregon's vegetation, both developed by the USGS Gap Analysis Project (GAP). Both GAP vegetation maps relied on satellite data. The first was completed in 1992 using data from 1988-1991, and was hand digitized from 1:250,000 hard-copy satellite photographs. The second was completed in 1998 using 1991-1993 images, and was done at 1:100,000 using image-processing tools. For this AON, we have used the 1998 GAP map for the statewide and ecoregional analysis. Figure 
+8
+ shows the Figure 
+8
+. Existing forest vegetation from the Oregon Gap Analysis Project. distribution of Oregon's forest types in this cover. However, for the Willamette Valley assessment, we were able to use higher resolution (1:24,000) developed by the USDA Forest Sciences Lab at Oregon State University and the Oregon Natural Heritage Program for existing forest vegetation, and compare it to 1:24,000 presettlement vegetation maps developed with GLO data.
+To determine how and where forests have been lost, we compared the historical forest vegetation map with maps showing the current distribution of Oregon's forests. The overlay of these two coverages is shown below, as Figure 
+9
+. It shows both the historical increases and losses of forests throughout the state. The decreases are from forests being converted to agriculture, urban, residential or industrial uses. Increases shown here are almost entirely a result of the expansion of western juniper into sagebrush and bunchgrass habitats of eastern Oregon, which has been the subject of a number of research papers 
+(Miller and Rose, 1995)
+. The National Vegetation Classification System includes over 450 forest, woodland and savanna types described from Oregon. Most of the Oregon forests habitats (or plant associations) have been described by the USDA Forest Service's Area Ecology program. The Forest Service has a number of ongoing efforts to map all of Oregon's forests at fine scales to these plant associations, or to groups of these, called plant association groups. It is important to realize that for the discussion and analysis of forest habitats in this Assessment of Need, only the very broad habitat types are discussed. Each of the types listed below actually represents many different plant associations and environments.
+One clear result of the statewide and regional assessments was the identification of some forest types that have declined significantly since the earliest settlers arrived at the end of the Oregon Trail. Some of these types are well represented in the current network of protected lands. Others are not well protected, and continue to decline. These forest types have been identified as high priority for receiving some type of protection in the Oregon Natural Heritage Plan 
+(State Land Board 1998)
+. These include a number of forested habitats that are both environmentally sensitive and in great need of protection. Of these, three types are primarily found on private lands, and are often those converted to urban, rural residential or agricultural uses.
+
+## ? Oak forests, woodlands and savannas
+
+When the earliest settlers arrived, Oregon white oak flourished in the Willamette Valley as well as much of southwest Oregon. These venerable oaks support an abundance of birds and wildlife, are especially important for migrating songbirds, and have the highest potential for commercial use in cooperage, wood flooring and furniture. Oak savannas ? grasslands with scattered trees ? were historically maintained through the American Indian practice of burning. Since settlement, suppression efforts have excluded fire's role in maintaining these savannas, allowing increased stocking and succession of other forest types like Douglas-fir. In addition, the extensive oak savannas, woodlands and mixed oak-conifer woodlands have given way to most of Oregon's cities and towns. Currently, these oak forest types are disappearing faster than any of Oregon's other forest types. For this AON, all forests and woodlands with Oregon white oak, California black oak, canyon live oak, and madrone were included in this category, along with the conifers that often occur with them.
+? Cottonwood, alder, ash, and willow riparian bottomland forests The Willamette River, the Grand Ronde River, the Rogue River, the Umpqua River and many other river valleys are characterized by large, cottonwood gallery riparian forests (dense, unbroken stands of trees). The rich soils of these bottomlands support giant confers including Douglas-fir, grand fir, western red cedar, and western hemlock, growing with black cottonwood and other deciduous trees, particularly Oregon ash and red and white alder. Found along the multi-channeled large rivers, these forests provide some of the most critical habitats for both fish and wildlife, including woodpeckers, owls, wood ducks, flying squirrels, raccoons, beavers, and song birds. They also are highly prized for their agricultural soils and their river views, and continue to be developed. Fortunately, the Oregon Plan for Salmon and Watersheds has focused on the protection and restoration of many of these forests.
+? Ponderosa pine foothill woodlands and forests Now associated mainly with eastern Oregon, ponderosa pine woodlands were formerly found throughout western Oregon valleys as well. In southwestern Oregon they include mixed pine forests with sugar pine, incense cedar, Douglas-fir and oaks. Ponderosa pine forests are still abundant in the mountains of eastern and southwestern Oregon, but have dramatically declined in western valleys and along the foothills of the Cascades. They continue to be threatened by development, mostly for suburban and rural residential housing.
+
+## D. Demographic trends as they relate to conversion of forest areas
+
+As of 1994, 90 percent of the private land in western Oregon remained in forest and agricultural uses. However, between 1973 and 1994, there were significant shifts in dominant land uses toward more developed categories: low-density residential and urban uses increased while forest and agricultural uses declined 
+(Azuma et al. 1999)
+. Figure 
+10
+ shows the distribution of those forest habitats that were lost to agricultural and residential development during this time period. Although the amount and uses of western Oregon's private forests remained relatively stable in the 1980s and early 1990s, it is clear that development of these forest lands would seriously reduce future economic and ecological benefits produced from these lands 
+(Azuma et al. 1999
+). Oregon's population grew rapidly during the late 1980s and throughout the 1990s (Figure 
+11
+). Between 1990 and 1999, the state's population grew from 2,842,321 people to an estimated 3,300,000. This represents a 1.8 percent annual growth rate, almost double the national growth rate. Seventy percent of this growth came from people moving into the state. Many people who value the quality of life afforded by smaller cities, clean air and water, outdoor activities, and open spaces moved to Oregon. Oregon's population is expected to continue to grow rapidly, especially in the Willamette Valley, where the population is expected to double in the next 25 years. Population has been increasing in western Oregon's private forests as well 
+(Azuma et al. 1999)
+. With continued economic and population growth, private landowners will face growing pressure to develop their properties.
+Oregon State University and U.S. Forest Service Forest Science researchers have developed a map showing how population growth and urban expansion will impact forests in the near future for western Oregon (Figure 
+12
+). This map shows urbanization in 1995 and predicts the urbanization of western Oregon in 2005, and 2015, identifying where rural areas are expected to be lost to development. It is these same areas where predicted future losses of forests to development are expected to occur. 
+
+## IV. Oregon's Land Use Planning Program
+
+The state of Oregon was one of the first in the country with a statewide program for comprehensive land use planning. The program is overseen by the Oregon Department of Land Conservation and Development and their commission (the Land Use and Development Commission or LCDC). Zoning rules and regulations are implemented and managed by county and local governments. LCDC established a number of statewide goals, some of which directly relate to protecting forest land from being lost to non-forest uses. The overall statewide planning system has been well studied and additional details can be obtained from some key publications 
+(Abbott et al. 1994
+, Knapp and Nelson 1992
+, Wiley 2001)
+. Two particular goals relate to forests in Oregon and are described in more detail below.
+
+## A. Forest Protection (Goal 4)
+
+One statewide planning goal (Goal 4), was designed to protect forests and Oregon's commercial forestry base. This statute, Oregon Administrative Rules (OAR) 660-015-0000 (4) passed in 1973, states the goal as: "To conserve forest lands by maintaining the forest land base and to protect the state's forest economy by making possible economically efficient forest practices that assure the continuous growing and harvesting of forest tree species as the leading use on forest land consistent with sound management of soil, air, water, and fish and wildlife resources and to provide for recreational opportunities and agriculture." As a result of working to implement Goal 4, most counties have been able to protect highly productive forest lands. A number of forest land use programs are currently available statewide.
+
+## B. Natural Resources Protection (Goal 5)
+
+Goal 5 is a broad statewide planning goal that covers more than a dozen resources, including wildlife habitats, historic places, and aggregate (gravel). It was originally adopted by LCDC in 1974. Goal 5 and related Oregon Administrative Rules (Chapter 660, Divisions 16 and 23) describe how cities and counties are to plan and zone land to conserve resources listed in the goal. Directly related to Forest Legacy are the focus on wildlife habitats, wetlands, riparian habitats, endangered species, and natural areas.
+
+## V. Oregon's Key Forest Conservation Programs
+
+## A. State and federal programs
+
+## Forest Stewardship Program
+
+This is a federal program administered by the USDA Forest Service and implemented by the Oregon Department of Forestry. Its objective is to provide assistance for the improved stewardship of private non-industrial and tribal forestlands. The program encourages landowners and managers to work with a professional forester to identify their land management goals in written forest management plans (also known as forest stewardship plans). Forest stewardship plans identify management opportunities for environmental protection, resource conservation and income consistent with landowner goals.
+The Forest Stewardship Program encourages landowners to increase communication and collaboration between citizens and the managers of our public lands to address broader landscape issues including threatened and endangered species, biodiversity, fuels management and fire protection. When funding is available under the Stewardship Incentive Program (SIP), landowners can apply for cost-share assistance to hire a consulting forester to complete the management plan as well as to implement the management practices identified in the plan (e.g., fish and wildlife, recreation, timber management and fire protection opportunities).
+
+## Forest Resource Trust (FRT)
+
+An ODF program (Oregon Revised Statutes (ORS), ORS 526.700 -ORS 526.775), the Forest Resource Trust encourages landowners to establish and maintain healthy forest on underproducing forestlands ? lands capable of growing forests but currently in brush, cropland, pasture, or very poorly stocked land (and not subject to a reforestation requirement of the Oregon Forest Practices Act). The eligible land must be located in Oregon, and be part of a private forestland ownership of at least 10 contiguous acres, but no more than 5,000 acres. The FRT provides technical assistance and up to 100 percent of the monies for implementing the reforestation project, including site preparation, tree planting, seedling protection and release from competing vegetation.
+
+## Riparian Tax Incentive Program
+
+The Riparian Tax Incentive Program, authorized by ORS 308A.350-308A.383, offers a property tax incentive to property owners for improving or maintaining qualifying riparian lands. Under this program, property owners receive complete property tax exemption for their riparian property. This can include land up to 100 feet from a stream. In passing the program, the 1981 Oregon Legislative Assembly declared that "it is in the best interest of the state to maintain, preserve, conserve and rehabilitate riparian lands to assure the protection of the soil, water, fish and wildlife resources of the state for the economic and social well-being of the state and its citizens." Healthy riparian areas have been recognized as being critical for healthy watersheds and fish populations. To be eligible, a landowner and the Oregon Department of Fish and Wildlife must sign a riparian management plan and agreement. The management plan must detail measures the landowner will implement to preserve, enhance or restore the riparian area.
+
+## Wildlife Habitat and Conservation Program
+
+This program was established in 1993 to provide incentives to assist in the protection of wildlife habitats on farm and mixed farm-forest lands. House Bill 3564, passed by the 2001 Oregon Legislature, expanded the program to include all forested lands. This voluntary program removes tax disincentives for increased conservation on private lands within a participating county by reducing property taxes. This occurs when a landowner adopts a wildlife habitat conservation and management plan approved by the Oregon Department of Fish and Wildlife. Property tax rates drop from forest or farm to open space values. This also applies if the land's special assessment for forestry is maintained when land management emphasis switches from commercial timber to conservation of non-timber resources. Currently, landowners in three-quarters of Oregon's counties are participating in this program.
+
+## Forestry Incentives Program (FIP)
+
+Federal cost-share payments are provided for timber stand management practices under the guidance of USDA Natural Resource Conservation Service (NRCS) and ODF. To participate in the FIP program, non-industrial private forest landowners must have a minimum of 10 acres that must be capable of producing at least 50 cubic feet of timber per acre per year. Participants can be individuals, groups, associations, or corporations whose stock is not publicly traded. Approved practices include site preparation, tree planting, direct seeding and timber stand improvement thinning.
+
+## Conservation Reserve Program (CRP)
+
+Administered by the USDA Farm Services Agency, this voluntary program encourages farmers to take highly erodible and other environmentally sensitive pasture or cropland out of production, and to implement a conservation plan that will reduce erosion, improve water quality, and provide or enhance fish and wildlife habitat. Participating farmers receive an annual rental payment for the term of a 10 to 15 year contract. Eligible practices include riparian buffers, field windbreaks, shelterbelts, and shallow water areas for wildlife.
+
+## Conservation Reserve Enhancement Program (CREP)
+
+This program is a pilot expansion of the CRP program and is also administered by the USDA Farm Services Agency. Under CREP, landowners enroll agricultural lands along streams and rivers containing (or flowing into streams and rivers containing) federally listed threatened and endangered fish (e.g., salmon, steelhead). To be eligible, the landowners must agree to improve the functioning condition of the enrolled riparian area by conducting reforestation of the streamside land (up to a maximum of 180 feet from the stream). Participating landowners receive an annual rental payment for the term of a 15 year contract, cost-share assistance for the reforestation work, as well as incentive payments for participating and for getting adjacent landowners to participate.
+
+## Wetlands Reserve Program (WRP)
+
+This voluntary program, administered by the NRCS, offers private landowners a chance to restore and protect wetlands on their property through conservation easements. In return for federal payments, landowners must agree to a restoration plan and place restored wetlands in an easement reserve where they cannot be drained or plowed. Wetlands that provide habitat for migratory birds and other wildlife are given priority.
+
+## Environmental Quality Incentives Program (EQIP)
+
+This voluntary program, administered by the NRCS, allows agricultural landowners to enter into five to 10 year contracts for the purpose of receiving cost-share assistance for conducting watershed improvements on their lands. Landowners must develop a written enhancement plan. Approved practices are forest establishment, erosion control (seeding, road improvements), fish and wildlife habitat projects, fencing, riparian restoration and timber stand management (when approved by the appropriate basin working group).
+
+## B. Private programs
+
+## Forest Certification
+
+Forest certification programs set forest management standards based on ecological, social, and economic sustainable forestry principles, and provide for independent review of the property's forest management as a means to determine whether the program standards are being met. Some programs are market-based and encourage landowners to practice sustainable forestry by providing them access to premium, certified wood products markets.
+Examples of forest certification programs include the American Forest Foundation's Tree Farm program, the American Forest and Paper Association's Sustainable Forestry Initiative SM , Forest Stewardship Council third party certification programs (e.g., Smartwood), Green Tag, Pan European Forest Certification and industrial standards such as International Standards Organization and Canadian Standards Association.
+
+## Oregon Biodiversity Partnership
+
+The Oregon Biodiversity Partnership is an alliance of organizations and individuals involved in cooperative efforts to conserve Oregon's biological diversity. It is managed by the Defenders of Wildlife, and created to carry on the work of the Oregon Biodiversity Project (Oregon Biodiversity Project 1998). The project pioneered a new, collaborative approach to conservation planning that produced a big-picture view of conservation priorities for Oregon's native species and the habitats and ecosystems that support them. Building on that diverse base of support, the Oregon Biodiversity Partnership provides an umbrella for an array of efforts to implement the project's conservation strategies.
+The Oregon Biodiversity Partnership has a conservation strategy based on: 1) improving stewardship of the "working landscape," with emphasis on incentives for private landowners; 2) expanding the existing network of conservation lands where management emphasizes long-term protection of biodiversity values; 3) improving biodiversity information management to enhance decision-making and adaptive management strategies; 4) expanding public awareness and understanding of biodiversity values and conservation needs; and 5) demonstrating and testing collaborative approaches to biodiversity conservation that could provide a model for other states or regions.
+
+## Land Trusts
+
+Land trusts are non-profit groups that preserve and enrich the natural heritage of the countryside through direct land protection, using appropriate tools such as conservation easements, voluntary protection agreements, estate planning, land donations, and bargain land sales. Organized at local levels, land trusts provide people and communities with choices of how protected lands are used.
+Two national organizations, regional land trusts, and a number of local trusts are actively working in the state. The Nature Conservancy (TNC), a national organization with an Oregon chapter (The Nature Conservancy of Oregon), has been integrally involved in protecting forested habitats in Oregon as part of their efforts to protect all life on earth. The Trust for Public Lands (TPL) is a second national organization dedicated to protecting lands to improve human enjoyment and well being, and has an Oregon office actively protecting forest lands. A regional land trust dedicated to preserving private, productive forestlands, The Pacific Forest Trust (PFT), specializes in facilitating, acquiring and stewarding forest conservation easements within the state of Oregon, as well as in other western states. PFT has an Oregon office and provides a range of services to forest owners in the state.
+Local trusts that have expressed an interest, or are likely interested in the Forest Legacy Program in Oregon, include the Columbia Land Trust, Deschutes Land Trust, Greenbelt Land Trust, McKenzie Land Trust, North Coast Conservancy, Southern Oregon Conservancy and Three Rivers Conservancy. Oregon land trusts, the national Land Trust Alliance, TPL and TNC have all assisted in the development of this AON, and are interested in assisting ODF in the implementation of the Oregon Forest Legacy Program.
+
+## VI. Oregon's Forest Legacy Program
+
+The Cooperative Forestry Assistance Act of 1978, as amended by the 1990 Farm Bill, created the national Forest Legacy Program to protect environmentally important forest areas on private land for future generations. This program recognizes that the majority of the nation's productive forest lands are in private ownership and that private landowners are under increasing pressure to convert their lands to non-forest uses such as agricultural, housing or commercial development.
+Oregon's Forest Legacy Program addresses privately owned forest lands in Oregon that are currently threatened by urbanization, agricultural, and other conversion pressures. It is designed to help private landowners and communities protect commodity as well as noncommodity forest resources recognized by public policy as providing significant public benefits, i.e., water flows and quality; fish and wildlife habitat, especially for threatened and endangered species; stores of carbon; and biodiversity. It will facilitate state, local and private resource conservation initiatives by assisting with the purchase of conservation easements or fee-title of private forest lands.
+
+## A. Forest Legacy goals and program objectives
+
+## Goals
+
+? Conserve private forest lands in areas where forests may be lost to non-forest uses.
+? Sustain forest resources such as river flows and clean water, fish and wildlife habitat, carbon stores, soil productivity, commercial and non-commercial timber, scenic quality, recreational opportunity, and biodiversity. ? Strengthen communities and facilitate state, local and private partnerships in forest conservation.
+
+## Program Objectives
+
+1) Protect significant site-specific ecological, social and/or economic forest related benefits.
+2) Reinforce and expand upon existing networks of conserved forest land.
+3) Encourage private landowners to work with communities, agencies, businesses and nongovernmental organizations so as to strengthen their management of forest resources.
+4) Secure additional conservation investments in private forest land.
+5) Protect forested properties that face immediate threats to conversion to non-forest use.
+6) Focus efforts where large areas of private forest land face the possibility of conversion to non-forest use within the next 10 years and where the consequences in terms of overall losses to important ecological, social and economic forest related benefits are large.
+To be eligible to enroll in Oregon's FLP, lands must be located within a Forest Legacy Area identified in this Assessment of Need. For all enrolled properties, Oregon's FLP will also ensure the preparation and implementation of a long-term multi-resource management plan.
+The plan will consider all the values from the timber resource to aesthetics, important habitat, and recreation opportunity.
+The Oregon Department of Forestry's Forestry Assistance Program will manage the Forest Legacy Program in Oregon with assistance and oversight from the USDA Forest Service's Pacific Northwest Regional Office (Region 6). The Forest Service provides funding, staff support, and assistance, as well as required oversight. As with all state-federal cooperative programs, the program will be implemented in consultation and cooperation with the State Stewardship Coordinating Committee. All major decisions -including the adoption of this AON (e.g., legacy areas, site selection criteria) -have been approved by this committee.
+ODF also has commitments of support from the Oregon Watershed Enhancement Board and the Oregon Natural Heritage Program to assist in the management of the program. OWEB will provide match funding through their grant programs as appropriate. OWEB has state funding dedication to the protection of watersheds and habitats, and may be critical to landowners and communities in providing match funding for easements, acquisitions and planning. OWEB will also provide some staff assistance, especially in regards to the development of conservation easements, appraisals, and other land acquisition rules. ORNHP will assist with updating the assessment, applying criteria to sites as necessary, and in working with land trusts and other partners.
+
+## B. Selection of Forest Legacy Areas
+
+## National eligibility criteria
+
+Forest Legacy Areas must encompass forest lands with significant environmental, social and economic resource-based values. Legacy areas may also include non-forested areas such as farms and towns if they are an integral part of the landscape. Since legacy area boundaries may not correspond to property boundaries, tracts located partially within the geographically defined legacy area are eligible for the FLP, upon approval of a boundary adjustment. To be eligible as an Oregon Forest Legacy Area, the proposed area must meet the following nationally established criteria:
+1. Proposed Forest Legacy Areas must represent an environmentally important forest area that is threatened by conversion to non-forest uses.
+2. Proposed Forest Legacy Area must contain one or more of the following important public values: scenic resources; public recreation opportunities; riparian areas; fish and wildlife habitat; known threatened and endangered species; known cultural resources; and/or other ecological values.
+3. Proposed Forest Legacy Area should provide opportunities for the continuation of traditional forest uses, such as timber harvesting, forest management or outdoor recreation.
+
+## Legacy area assessment process
+
+## Initial analysis
+
+To select the Forest Legacy Areas identified in the AON, all forested areas in Oregon were evaluated. The state was divided into areas using the locations of private forest lands as well as ecoregional and county boundaries as the primary guides. Counties were used because planning and communities in Oregon are often organized at the county level. Ecoregions were selected because they are widely used by the State of Oregon, along with federal agencies and many private organizations, to organize natural resource information and to develop conservation plans.
+Ecoregions are geographic areas with similar features, such as climate, vegetation, geology, geomorphology, soils, and ecosystem processes -which together support characteristic natural communities of plant and animal life. The Forest Legacy Program selected eight ecoregions in Oregon to help analyze forest losses and the priorities for potential legacy areas. The eight ecoregions are based on work by the Environmental Protection Agency's (EPA) Research Office in Corvallis 
+(Pater et al. 1998)
+. These same ecoregions have been adopted by the Oregon Watershed Enhancement Board and by the Oregon Progress Board for planning and analysis (Figure 
+13
+).
+Figure 
+13
+. Ecoregions of Oregon from the Environmental Protection Agency.
+The EPA ecoregional mapping process actually identified 10 ecoregions in Oregon. Two of the regions, the Snake River Plain and the Central Basin and Range, just enter the state in southeastern Oregon. For the purpose of this AON, and for most other Oregon planning efforts, both of these ecoregions have been combined with the Northern Basin and Range ecoregion. The eight selected ecoregions in Oregon are the Coast Range, Willamette Valley, Klamath Mountains, Cascades, Eastern Cascades Slopes and Foothills, Blue Mountains, Columbia Plateau, and Northern Basin and Range. Descriptions of these ecoregions and their forests are included in Appendix A.
+A total of 36 areas were evaluated as potential Forest Legacy Areas. Legacy areas did not cross ecoregional boundaries and were generally restricted to within a county, although six areas included portions of two counties, and two areas included portions of three counties.
+Counties were combined when the amount of private forest lands in any one county was too limited for evaluation purposes. Occasionally counties would have more than one potential legacy area -usually because they occurred in more than one ecoregion (such as Douglas County, which goes from the Coast Range to the Cascades ecoregion). Only three counties, Lane, Josephine and Klamath, had more than one potential legacy area in the same ecoregion. In this case, there were large non-forested areas located between the potential legacy areas, so they were separated.
+Figure 
+14
+ shows the locations of the original 36 evaluated Forest Legacy Areas. Descriptions of all 36 evaluated areas are available from the Oregon Natural Heritage Program. The boundaries and shape of these preliminary potential legacy areas were identified to allow for the analysis to take place.
+Figure 
+14
+. The 36 potential legacy areas evaluated.
+The initial analysis looked at two factors only: the presence of significant amounts of private forest lands and the presence of threats of forest conversion over the next 10 years. When these two criteria were applied to the 36 potential areas, a total of 17 potential legacy areas were selected. These included any sites with threats of forest conversion over the next 10 years with significant amounts of private forest lands. When going from the 36 to the 17 potential legacy areas, some boundaries were adjusted. A few potential areas were combined, while large agricultural, industrial, or urban -non-forested areas were excluded.
+A map showing these 17 areas is included as Figure 
+15
+, below.
+Figure 
+15
+. Original 17 potential legacy areas evaluated as meeting minimum criteria.
+
+## Secondary analysis
+
+The prioritization and analysis of the potential Forest Legacy Areas involved a more comprehensive assessment of ecological, social, and economic factors. Appendix B includes detailed descriptions of each of the data layers, as well as details as to how they were used in the analysis.
+The boundaries and the priorities of the potential legacy areas were a major focus in the public outreach and public hearing process. Using comments obtained from the public and the State Stewardship Coordinating Committee, some legacy areas were combined, some lines were redrawn, and one additional legacy area (South Coast) was added. The final outcome was the identification of 15 Oregon Forest Legacy Areas, and the application of priorities to these areas. Figure 
+16
+, below, shows the names and boundaries of the final Oregon Forest Legacy Areas.
+Figure 
+16
+. Names and boundaries of the final Oregon Forest Legacy Areas
+Figure 
+17
+ shows the final priorities assigned to the final areas. As described above, they were assigned with the use of a numerical analysis of the ecological, social and economic data (see Appendix B for details). The priorities are on a scale from one to seven, with one being the highest priority and seven being the lowest. The one to seven scale was chosen because it best represented the spread of values obtained. 
+
+## Guidelines for participation
+
+All owners of private forest land located entirely or partially within a designated Forest Legacy Area are eligible to participate. If a landowner has property partially within a legacy area, the Oregon Forest Legacy Program has the discretion to make minor adjustments to the boundaries of any area.
+To participate, owners may apply to enroll interest in (via a conservation easement) or title to their lands in the state's FLP. Participation of any landowner in the program is strictly voluntary, and under no circumstances will the right of eminent domain be used for the taking of any private property rights.
+If a landowner chooses to apply for the FLP, owners must also prepare either a Forest Stewardship Plan or a multi-resource management plan as part of the approval process. All FLP acquisitions, whether fee-title or through a conservation easement, are perpetual and binding on subsequent owners. Future owners of the rights that are not acquired by the FLP shall be subject only to those restrictions which the present landowner has sold or donated to the local, state or federal government, per the terms of the sale or agreement. As outlined in he federal law, only federal, state or local governments may currently hold these permanent interests in land acquired through the Forest Legacy Program.
+Once a letter of interest is received, ODF will screen the site to assure that it meets the minimum requirements of the program. The minimum requirements are that the property must be privately owned, forested, and threatened with conversion within 10 years. If the property does not meet the minimum requirements, the landowner will be notified that their property is not eligible for the Forest Legacy Program.
+If the property does meet the requirements, ODF will also make an initial determination of the site's significance. This determination, and the final determination of which sites are selected, is based on similar ecological, social and economic criteria as was used in the analysis of legacy areas in this AON.
+
+## Criteria for evaluating and selecting sites
+
+Given the limited funding available for the Forest Legacy Program in Oregon and the very high property values for many of Oregon's forests threatened with conversion, the program must be able to set priorities for site selection.
+Five criteria have been selected to be used for this prioritization. The criteria, listed in priority order, are:
+1. The significance of ecological, social and/or economic values on the property 2. The viability and importance of the site to other forest lands 3. Local support, and presence of partners and/or match funding 4. Immediacy of threats to the site 5. The priority of the legacy area
+The Oregon Forest Legacy Program will use these criteria to evaluate all of the properties with interested landowners who apply. The five criteria will be the major determination of whether or not a site is selected for participation. While numeric values for each of these criteria have not been assigned, the Oregon Forest Legacy Program anticipates that the first of these will receive the most credit, the second criterion slightly less, and so on. Details of the criteria and how they will be applied are discussed below.
+
+## The significance of ecological, social or economic values
+
+This includes the primary values present on the property. It includes the forest habitats present, with priority habitats as well as high quality examples of forest types given more credit. It also includes the presence of priority forest wildlife species, endangered species or their habitat, riparian habitat, or the other ecological values discussed in this AON. Social values include scenic or recreational benefits the site provides. Important economic factors are primarily any important local economic value, including significance for local mills or industries, as well as any potential significance of the site to recreational industries. These are the most important factors, and will weigh the highest, allowing sites in any of the Oregon Forest Legacy Areas to compete for selection.
+
+## The viability and importance of the site to other forest lands
+
+The second most important value is the overall ecological, social and/or economic social context of the site to other adjacent lands. Since many Forest Legacy properties may be quite small, protection of a small or isolated tract may limit the overall ecological, social and/or economic benefits of protecting it. Sites which add to existing protected lands (county parks, state parks, national forests, state forests, and other federal investments, etc.) will receive additional points. Of particular interest are properties adjacent to lands with forest protection easements, particularly sites currently protected by the Oregon FLP. Higher value will be placed on properties that are part of a recognized corridor or that provide important buffer for ecological values. Similarly, higher values will be placed on properties which located together add up to a large, protected block of forest land. For example, if a number of forest landowners are interested in protecting a site, this can have important benefits, and increase the ranking for forest legacy funding.
+
+## Local support, the presence of partners and/or match funding
+
+The amount of local support for the inclusion of any property in the FLP has been a key factor in all states participating in the program. Given the limited ability of ODF to monitor conservation easements acquired through the Forest Legacy Program, local partners are especially key in Oregon. As such, properties with lots of local support will receive higher ranking. Partners agreeing to provide long-term monitoring, match funding, or long-term management of any included properties will be favored. Similarly, projects will rank higher for providing very large amounts of matching funds. Sites will also rank higher if they are part of an existing local plan, such as the Metro Greenspaces Program, the Eugene 2050 plan, or another public document which has identified the property as important.
+
+## Immediacy of threats to the site
+
+The significance and immediacy of threats is another key criteria identified for site selection.
+Both the State Stewardship Coordinating Committee and the public felt that threats were important, but that selecting sites which were either partially developed, or well down the road toward development might result in much higher funding costs. Sites lacking any threats are not eligible. However, the goal is to protect the most threatened sites before threatened development makes costs prohibitive. Basically, the objective is to include the most threatened sites possible while protecting the most forest acres possible.
+
+## The priority of the legacy area
+
+Initially, the overall priority of the legacy area in which a project was located was to be a primary criteria. However, based on public comments and those of the State Stewardship Coordinating Committee, opinion clearly indicated that all very important sites should be eligible and receive high priority for funding, regardless of which legacy area it is located in. However, there was agreement that if projects ranked equally with respect to the other criteria, sites in the highest priority legacy areas (see Figure 
+17
+) should be funded first.
+
+## VII. Oregon's Forest Legacy Areas
+
+A total of 36 areas were originally evaluated for inclusion in the Oregon Forest Legacy Program. Of these, 17 met the minimum criteria by having significant amounts of private forestland threatened with the possibility of conversion to non forest uses within the next 10 years. These were presented to the public at public hearings, on the Internet, and in other public forums. Following the public participation process, boundaries were changed, some areas were combined, and 15 Forest Legacy Areas were selected for inclusion in the program. Due to public comments, the south coast area was added, several areas in the Willamette Valley were combined into one and the boundaries for some of the selected areas were modified significantly from those first presented to the public. Each of the legacy areas is described below in the context of the ecoregion in which they occur.
+Each legacy area is summarized as follows. First, there is a general description of the area.
+Next, there is a summary of the significant ecological, social and economic benefits to be gained from protecting private forests from conversion in these areas. Then there is a review of the threats of conversion in the legacy area. Finally, there is an identification of the specific goals and objectives for the area. The goals and objectives are designed to serve as performance measures for evaluating the implementation of the forest legacy program in Oregon. The goals and objectives of each legacy area are not meant to be comprehensive. Rather they are to identify the key issues tied to forests in these legacy areas. The overall goal for implementing forest legacy in Oregon is to protect private forest lands from conversion such that these forests make positive contributions in addressing these issues.
+
+## A. Coast Range Forest Legacy Areas
+
+While three areas were initially evaluated, two legacy areas were selected, covering the majority of the private forest lands in the Oregon Coast Range found in the rapidly growing coastal strip.
+
+## North Coast Forest Legacy Area
+
+Priority -6
+Description: The north coast includes the private coastal strip in Clatsop, Tilla mook and Lincoln counties. It extends east along the Columbia River to include the small town of Knappa, but generally covers the areas along the coast where recreational and residential development is occurring. The southern end of the boundary is just south of Yachats. The legacy area was almost entirely forested with Sitka spruce when the first European settlers arrived in Oregon.
+Significant Ecological, Social and Economic Values: Sitka spruce and shore pine forests are the most widespread forest types within this legacy area, which includes important wetland and saltmarsh forest habitats. Forests and their streams produce the most productive and threatened salmon streams in Oregon. The area is important to threatened and endangered plants and wildlife as well. The North Coast Conservancy and both county and city governments are potential Forest Legacy partners.
+Threats of Conversion: This area is growing the fastest of any area on the coast, due primarily to its proximity to the large population centers in the northern Willamette Valley. Because of the rapid development of second homes and resorts, it is the coastal area where the most forest conversion is occurring. Most of the forests being lost on the north coast are Figure 
+18
+. Map of North Coast Forest Legacy Area found within the Sitka spruce zone, usually within a few miles of the ocean. Forest conversions are concentrated around the towns of Astoria, Seaside, Cannon Beach, Tillamook, Lincoln City, and Newport.
+
+## Losses and Threats
+
+Significant Description: This legacy area now includes all the private coastal forests from southern Lane County (Florence) to the California border, generally covering the areas along the coast where recreational and residential development is occurring. This includes the Oregon Dunes National Recreational Area, and some of the most spectacular coastal scenery in the state. This area was excluded from the initial list due to slower population growth and more limited threats. However, public comments and local interest resulted in including these diverse forests as an Oregon Forest Legacy Area, with new boundaries.
+Significant Ecological, Social and Economic Values: The legacy area includes Sitka spruce forests and the largest coastal dune ecosystem in the lower 48 states. It has exceptional Port-Orford-cedar forests threatened by an introduced root disease. Mature Port-Orford-cedar forests have almost vanished from the coastal lowlands. Oregon white oak, tan oak, grand fir, Douglas-fir and coast redwood forests can all be found on private forests in this legacy area. Remaining coast redwood forests exist mostly on private industrial and public lands, although much of the historical range of coast redwood has already been converted to residential and recreational use. In general, private forestlands in this legacy area are an important source of timber supply for the local, resource dependent economy.
+Threats of Conversion: While growth is occurring more slowly in this area than most of the other legacy areas, these coastal communities cannot afford much private forestland conversion. This is because these private forests have replaced the public forests as a source of needed timber for local natural resource based economies. While protection of remaining redwood groves in Oregon is important, conversion of private redwood forests is generally low. Retirement houses, second houses, and increased agricultural development are threats, as well as conversion of some of these forests to cranberry bogs, especially in the old marine terraces between the towns of Bandon and Port Orford.
+
+## Losses and Threats
+
+Significant 
+
+## B. Willamette Valley Forest Legacy Areas
+
+Eleven potential legacy areas were evaluated in the Willamette Valley. This is the only ecoregion that was evaluated in its entirety, since it is the only ecoregion which has forests throughout, and which is almost entirely in private ownership. Initially, the potential legacy areas were selected by county within the valley, but following public comments and hearings, a number of sites were combined, based on community interest and similarities.
+Generally, the forests that remain undeveloped are foothill margin and valley hill Oregon oak and mixed conifer forests. Floodplain forests remaining along the Willamette River in Lane, Benton and Linn counties were extensive enough that this valley bottomland was also included and grouped as the Southern Willamette River Riparian area. Because of the immediate development pressure on the forests in the Willamette Valley, all of the evaluated legacy areas were included in the final list with the exception of the Linn County Foothills. It was determined that the private forestlands within the Linn County Foothills would not likely face major conversion threats within the next 10 years.
+The statewide existing vegetation data from the Gap Analysis Project does a poor job of showing remaining forests and woodlands in urban areas. The Metro Regional Government (Metro) recently contracted with Ecotrust, a nonprofit organization promoting conservationbased development, to create a high-resolution vegetation map for the entire metro area. This map was used to show the extent of forests in the region, but was not used by ODF or ORNHP in evaluating forest losses.
+
+## Metro Forest Legacy Area
+
+Priority -3
+Description: This area includes the portions of the Portland Metropolitan Area located within the Willamette Valley ecoregion. Initially, three potential legacy areas were evaluated in the metro area, west Multnomah -Columbia counties, Washington County, and Clackamas -east Multnomah County. Based on public comments, these three areas have been combined into one legacy area encompassing the greater Portland metro area and surrounding forest lands. Remaining low-elevation conifer bottomlands, some cottonwood, alder and ash riparian, oak woodlands and mixed hardwood forests make the area very diverse -in spite of the very extensive development.
+Significant Ecological, Social and Economic Values: The Metro Legacy Area lacks some of the ecological significance of a few other areas, with fewer acres of priority habitats, endangered fish and wildlife, and priority wildlife habitat. The private forests provide habitat for the rare rock white larkspur, and endangered salmon and steelhead. Its overall priority remains high because it has some of the greatest opportunities for public recreation and protection of scenic values, along with the greatest threats of conversion and large historic losses.
+The metro area has demonstrated significant interest in the Forest Legacy Program, and has a number of partners, including Non-Governmental Organizations (NGOs) and Metro, the local regional government. In particular, Metro has recently passed a bond measure to help protect forests in the area, called Metro Greenspaces. The Metro Greenspaces program has worked with the U.S. Fish and Wildlife Service, the Oregon Natural Heritage Program, and the Oregon Department of Fish and Wildlife to identify sites which are the most significant for wildlife habitats and ecological values. The Columbia Land Trust also has expressed an interest in assisting with the implementation of the Forest Legacy Program in this legacy area, while the Three Rivers Land Trust also works in the area. Local watershed councils, while not involved in the Forest Legacy Program to date, also provide significant partnership opportunities. Threats of Conversion: This is the most urbanized area in the state, as well as the area which has experienced the most growth over the last decade. It has experienced the greatest historical losses of forests, and continues to lose forests at a rapid rate. The greatest threats of conversion are from residential, industrial and commercial development and population growth.
+
+## Losses and Threats
+
+Significant Description: This area includes forest lands east of Salem and Silverton, south to the Linn county border and to the north of Woodburn. The forests and woodlands in the center of this legacy area are those which have shown the greatest percentage of conversion over the last 20 years. As a result of this conversion, many of the best forest lands in Marion County have been developed already, especially in Salem and the foothills south and west of town. Remaining forests in this area tend to be smaller and fragmented, lowering the priority of this legacy area overall.
+Significant Ecological, Social and Economic Values: This area contains some high quality oak woodlands, along with some riparian bottomlands and conifer forests as well as important wildlife habitats. The most significant private forests are known from the Highway 22 corridor, particularly along the North Santiam River and some forested buttes in the eastern part of the county.
+Threats of Conversion: This Marion County legacy area has experienced the greatest forest losses of any of the evaluated areas over the last 20 years, based on the ODF data. Indeed, so many of the forests around the Salem area have been lost that this area almost was excluded because the remaining forests are barely viable. Residential development, particularly in the foothills south and east of Salem, continues to cause forest losses.
+
+## Losses and Threats
+
+Significant Description: Eugene and Springfield are on the southern boundary of the area, while the northern boundary is just south of Salem. The area goes west past the town of Corvallis and as far east as Lebanon. This area includes the riparian hardwood forests of the lower Willamette River and its major tributaries in Lane, Benton and Linn counties.
+Significant Ecological, Social and Economic Values: These forests are critical to the health of the Willamette River, particularly to its native fish and there are a number of efforts to protect and restore these forests through the Oregon Plan for Salmon and Watersheds. This makes the Oregon Watershed Enhancement Board and the Willamette Restoration Initiative excellent partners in this area. 
+
+## C. Klamath Mountains Forest Legacy Areas
+
+Many of the forests are well represented on the federal lands that comprise 51 percent of the ecoregion. The region also has large and diverse federally and state owned protected areas which have excellent examples of most of the forest types, although these tend not to include the lower elevation, oak and pine woodlands. Over the last 20 years, most of the population growth has been centered in the Rogue River Valley, between Medford and Ashland. The remainder of the region has been growing more slowly, but pressure may increase in the near future, especially in the Grants Pass and southern Josephine County areas. Four potential legacy areas were evaluated, and three were selected for inclusion in the Oregon Forest Legacy Program.
+
+## Umpqua Valley and Foothills Forest Legacy Area
+
+Priority -4
+Description: This is a large area which is a mix of oak savanna, farmlands, pastures, small towns, and conifer forests. There are actually a number of small valleys and foothills centered around the larger central Umpqua Valley, near the confluence of the North and South Umpqua Rivers.
+Significant Ecological, Social and Economic Values: This area contains some of the largest remaining oak savannas and woodlands in Oregon, with Oregon white oak, California black oak, madrone and mixed hardwood-conifer forests as well. This area also has some of the best low-elevation examples of mixed conifer and Ponderosa pine forests and woodlands -and very little public land. This legacy area has a large number of endangered species occurrences, and important priority wildlife value.
+The county and the town of Roseburg have expressed an interest in the Forest Legacy Program, and there is potential interest from local land trusts and the Umpqua Basin Watershed Council. Douglas County has been one of the most timber-dependent communities, and remains economically stressed due to limited timber availability.
+
+## Threats of Conversion:
+
+The area is rural, but the towns of Roseburg, Sutherland, Oakland have been growing steadily. Growth has been steady in Douglas County, and development pressure on valley margin forests continues to exist. Conversion also greatly decreases the ability of federal land managers to address natural fire patterns, to fight fires and complete prescribed burns.
+
+## Losses and Threats
+
+Significant 3) Assist the watershed protection and enhancement programs by protecting key forested riparian habitats along the North and South Umpqua rivers, and major tributaries from being converted to agricultural and rural residential uses. 4) Maintain productive private timberlands as a source of timber to supply local wood products industries. 5) Increase ability of managers to address fire hazards, assist in wildland fuels management, and increase managers' ability to use prescribed fires, especially in the wildland-urban interface.
+
+## Illinois Valley Forest Legacy Area
+
+Priority -7
+Description: This area contains the forest lands of the Illinois River valley, a large tributary of the Rogue River. It goes from the California border, north to the town of Selma, with most of the population centered around Cave Junction. It includes forests, farmlands, and some rangelands, but is becoming increasingly residential.
+Significant Ecological, Social and Economic Values: This area includes Oregon's greatest concentration of rare and endangered plant species, and some very significant forest habitats found nowhere else. Part of an area with unusual, heavily mineralized (serpentine) soils, the forests contain Oregon's best examples of knobcone pine, Jeffrey pine, Port-Orford-cedar and canyon live oak. The legacy area has good examples of Oregon white oak woodlands, Ponderosa pine woodlands, and mixed serpentine forests. It is also one of the most important for endangered fish and for priority wildlife species, making it one of the most ecologically significant sites in the state. The area has also long been heavily dependent on timber production, and the maintenance of the private timber base is critical to the local economy. To date, the local community has focused largely on public forest land issues. economically distressed area Social -Forests key to economy and recreation 1 Riparian, oak, and pine forests and woodlands Goals and Objectives: 1) Protect key forest habitats, including oak (white oak, black oak, madrone and canyon live oak) woodlands and low-elevation pine (Jeffrey, knobcone, Ponderosa and sugar) woodlands. The primary focus would be on the foothills adjacent to Cave Junction, as well as near the small towns of Selma, O'Brien and Takilma. 2) Protect or provide buffers for key endangered plant species (state listed species, federally listed species, and state and federal candidate species). 3) Assist the protection of listed fish, and watershed protection and enhancement programs by protecting key forested riparian habitats along the Illinois River from being converted to agricultural and suburban uses. 4) Maintain productive private timberlands as a source of timber to supply local wood products industries. 5) Enhance ability of managers to address fire hazards and assist in wildland fuels management, especially in the wildland-urban interface. Description: This large valley heads from Shady Cove south almost to the California border and the foothills of Ashland. Centered around the city of Medford, it includes oak, pine, and Douglas fir forests and woodlands, industrial centers, extensive orchards and agricultural development. This area is also a major focus for tourism in the state.
+Significant Ecological, Social and Economic Values: This area contains excellent examples of oak savanna, oak woodlands, riparian bottomland forests, and low-elevation ponderosa pine forests and woodlands. The area has large concentrations of endangered fish, wildlife and plant species, and has the densest concentrations of priority forest wildlife species. The overall ecological values are as high as any area in the state.
+The valley margins and foothills are a mix of BLM and private lands, and this mix of ownership creates the opportunity for numerous partnerships. The Southern Oregon Land Conservancy and The Nature Conservancy are both working on protecting forest legacy priority habitats in this area. Jackson County has worked hard through its land-use plans to assure that the highly productive forests lands continue to be protected from development. However, they feel the Forest Legacy Program might provide an additional tool to assist private landowners interested in protecting their forests from development. 3) Assist the protection of listed fish, and watershed protection and enhancement programs by protecting key forested riparian habitats along Bear Creek and the Rogue River from being converted to agricultural, urban and suburban uses. 4) Maintain productive private timberlands as a source of timber to supply local wood products industries. 5) Increase ability of managers to address fire hazards and assist in wildland fuels management. 
+
+## D. East Cascades Forest Legacy Areas
+
+Most of the East Cascades Slopes and Foothills Ecoregion is publicly owned, although there are some large, forested private landholdings, mostly located around Bend, Klamath Falls and the Columbia Gorge ? the locations of the three legacy areas.
+Wasco ? Hood River Forest Legacy Area Priority -5
+Description: This area includes the private forest lands within the Columbia River Gorge, the margins of the Hood River Valley, the foothills of The Dalles, and the lowest slopes of the East Cascades south to the White River canyon. It includes the northeastern limit of Oregon oak in the state, spectacular cliffs and scenery, and is among Oregon's centers of tourism.
+Significant Ecological, Social and Economic Values: The area is particularly diverse, with a number of western Oregon tree species, most notably Oregon white oak, traveling through the Columbia Gorge to create unique habitats here. The oak woodlands and savannas, and oak-ponderosa pine forests are particularly significant. Many of these forests are protected on public lands, and funding provided by the establishment of the Columbia Gorge National Scenic Area has greatly increased forest protection. However, forest acquisitions have resulted in local concerns over removing lands from the tax base. Therefore, easements are likely to be more successful in this legacy area than fee title acquisitions. The Columbia Land Trust and the Deschutes Land Trust have expressed an interest in working with forest landowners in this area. Goals and Objectives: 1) Increase capacity for fire hazard reduction and wildland fuels management, and improve forest health especially in the wildland-urban interface near The Dalles and Hood River. 2) Protect oak woodland and ponderosa pine habitats, and restore natural fire regimes critical to these habitats. 3) Assist in protecting riparian forests for key streams, including the White River, Hood River and Mill Creek. 4) Protect endangered species including fish and the obscure buttercup. 5) Protect the forests within transition zone between the commercial forests and the urban zone. Description: This area includes the large, rapidly developing Bend region, extending from the recreational Metolius area to the north, south to La Pine and the Sun River Resort. It is primarily ponderosa pine forests in the East Cascades region of Deschutes and southern Jefferson County, but includes mixed pine and western juniper, as well as some extremely high quality riparian forests and shrublands along the Deschutes and Metolius Rivers.
+Significant Ecological, Social and Economic Values: This area has the largest concentration of Ponderosa pine forests and woodlands in Oregon, a priority habitat type. While the legacy area includes more public lands than the other areas, the pine forests in the public-private matrix are ecologically and socially important. The area includes riparian habitats, extensive wetlands, and western juniper. All of these forests types are important for wildlife, endangered species and bull trout. Peck's penstemon is an endemic plant found only in Ponderosa pine forests in this legacy area. Both the Deschutes Land Trust and the Pacific Forest Trust are working in this area, and the local community is interested in the Forest Legacy Program.
+Threats of Conversion: This legacy area includes the second fastest growing area in Oregon. Pine forests are giving way to housing and recreational and urban development throughout the region. Recreational growth, primarily of summer homes, is prevalent on the private lands throughout the area, from Sun River to the Metolius. Expansion of winter recreation also has lead to forest conversion. Population growth has also greatly influenced the health of the adjacent wildland forests, since natural fire is critical to the maintenance of pine forests. Using prescribed fire to lower fuel levels, and restoring natural fire regimes has become increasingly difficult with the expansion of housing in these forests.
+
+## Losses and Threats
+
+Significant Description: This area is most of the southern portions of Klamath County in the East Cascades Ecoregion. It includes the foothills west of Klamath Falls, south to the California border and east almost to Lake County. It mostly includes low foothills of mixed Ponderosa pine and western juniper, agricultural and pasture lands, and some large remnant wetlands. The large, private industrial timberlands on the eastern edge of this area were excluded due to lack of conversion threats.
+Significant Ecological, Social and Economic Values: This is a diverse mix of open ponderosa pine forests and woodlands, western juniper woodlands, and sagebrush steppe. It includes a very unusual oak woodland area, well outside its normal range, and is one of the areas in eastern Oregon with the greatest historical forest losses. The large areas of adjacent wetlands make this area very important to wildlife. Forests provide shade to cool streams for endangered species, including salmon and two species of sucker important to the local tribes, and are used for roosting by the largest wintering concentration of bald eagles in the country. Local partners have not been identified here.
+Threats of Conversion: Historically, the area has seen major conversions of forest lands to agriculture, especially in the southern part of this legacy area. The northwestern area is close to Klamath Falls, which has seen some expansion of rural residential development. However, growth and forest conversion have been occurring slowly over the last decade.
+
+## Losses and Threats
+
+Significant 
+
+## E. Blue Mountains Forest Legacy Areas
+
+As was the case in the East Cascades, most of the forests in this ecoregion are publicly owned. Private forests tend to be owned by large timber companies, and operate outside of residential or urban areas. In general, population has not been increasing here, so threats of forest conversion to development are limited. However, the management of forests, both on private and public lands, and the restoration of natural fire regimes are key issues here.
+
+## Wallowa Forest Legacy Area
+
+Priority -7
+Description: This region includes the Wallowa Valley, extending from Joseph on the east to just west of the town of Wallowa. It includes the large valley bottoms of mixed farmlands and wetland forests, and the southern flanks of the Wallowa Mountains, with Ponderosa pine and some grand fir, western larch and Engelmann spruce. It is among the most spectacular and scenic areas in Oregon.
+Significant Ecological, Social and Economic Values: The cottonwood riparian woodlands of the Wallowa, Hurricane Creek and Lostine rivers represent the largest remaining riparian woodlands in the state. Their significance for fish and wildlife is well known, and the Grande Ronde Watershed Council is undertaking efforts to assure they are maintained and, if possible, expanded. The Wallowa Valley also includes some mountain alder-aspen-spruce bottomland forests which are found only there. These forests and their associated bogs and wetlands are priority habitats that are not well protected. Local concerns about increasing the public land base and decreasing the private land base make conservation easements preferable to fee title acquisition by the government. A Wallowa County NGO, Wallowa Resources, is working to promote forest products and sustainable forestry, and may be a local partner.
+Threats of Conversion: Expanding recreational pressure is resulting in increased housing development and conversion of part of this area. Since overall population has declined in the county, the rate of development is much slower than some other legacy areas. However, the newer, recreational development has been focused on the foothill woodlands and the streamside areas, both of which are priority habitats for Oregon.
+
+## Losses and Threats
+
+Significant 
+
+## VIII. Public Review and Comment
+
+The development of the Assessment of Need was done to allow as much public participation as possible. 
+)
+ showing the evaluation of the proposed legacy areas with respect to the ecological, social and economic data and threats to conversion was also requested and provided for their review. There was discussion of active public outreach and suggestions that local interest and funding would be very important factors. No one was in favor of dropping any of the proposed 17 legacy areas, and the criteria for choosing sites within those areas was discussed. It was suggested that how threatened a site was (i.e., the immediacy of the threat) should be added to the list of criteria. It was pointed out that threat data was used to pick the legacy areas, but it should also be included within the areas on a site-by-site basis as what is happening in the larger legacy area may be different than on individual parcels within the area. It was also suggested that the cost efficiency of the proposed site should also be included as a site selection criterion. That is, sites should also be evaluated with respect to the purchase price of the conservation easement or fee-title and the number of acres of forestland protected from conversion.
+In addition to the public comments at the meeting, interest in and support for the program, through email and verbal communications came from the staff of the Metro Greenspaces Program, the Oregon Field Office of the U.S. Fish and Wildlife Service, the Oregon Department of Fish and Wildlife in Portland, the Mayor of Portland, and a number of citizens.
+Salem Area Meeting, 13 August 2001, 7:00-9:00 p.m.
+The meeting was attended by two members of the public. Both supported the effort to secure federal funding and move forward with the Forest Legacy Program in Oregon. Both attendees are private landowners and were interested in what this would mean for them in particular. Interest in keeping a broader perspective in regards to the number of legacy areas in the state was expressed. The criteria for prioritizing a site within a legacy area were also discussed and they felt that although threats had been assessed when determining the overall priority of a Forest Legacy Area, the degree of threat should also be a site selection criteria. Standards for appraisals were also discussed.
+Eugene Area Meeting, in Springfield, Oregon, 14 August 2001, 1:30-3:30 p.m.
+The meeting was attended by 10 members of the public, one of whom was also a member of the Forest Legacy Steering Committee. All supported the effort to secure federal funding and move forward with the Forest Legacy Program in Oregon. A question was asked on how the process for submitting areas for consideration would work and it was suggested that a point/ranking system might be good similar to the North American Wetlands Conservation Act (NAWCA) system. It was explained that details were not worked out yet, and that details depends some on response, but it would be a grant type application procedure. Those present from the city of Eugene were very supportive of the draft AON and thought the accelerated schedule so that fiscal year 2002 monies could come to Oregon was good. The city of Eugene is ready to move forward with specific sites for enrollment in the Forest Legacy Program. Eugene feels well positioned and has the expertise available to work with landowners in identifying proposed sites. The city of Eugene sees an immediate threat to oak woodlands/savannas. The general feeling was that this program would be good for saving upland forests rather than riparian areas which were being saved through other programs.
+Having a more narrow set of geographic areas was preferred by the city of Eugene as this would allow for larger contiguous blocks rather than smaller, isolated fragments. It was pointed out that site selection may want to look beyond immediately threatened sites and focus on acquiring those lands facing the possibility of conversion in the future so as to get more land (i.e., forest protection) for your money.
+Lane County representatives thought that the science used in the analysis was supported and the multiple objective approach taken in the AON was a good one, as were the overall direction for the Forest Legacy Program and criteria to be used to select individual sites. However, the Lane County representatives pointed out that they were looking beyond ten years and wondered if the AON should go beyond that timeframe. They thought that points should also be awarded to an application if the land to be acquired was already part of a local plan. This is because occurrence in a local plan indicates community support and identification of the significance of the site. The meeting was attended by five members of the public. All supported the effort to secure federal funding and move forward with the Forest Legacy Program in Oregon. Support was expressed for keeping the extent of Forest Legacy Areas broad and not excluding any of the proposed legacy areas. Further, it was felt that the priority of the Forest Legacy Area should not weigh heavily in the selection of individual sites for funding. There is the possibility of a unique parcel within a lower priority Forest Legacy Area that warrants protection on its own and that could serve as a nucleus or outreach piece. This then could be used for further education and awareness on the use of conservation easements as a tool for protecting private forests from conversion. The site selection criteria were discussed and they thought that smaller communities may not have forest protection and land-use plans, and that awarding points based on this criterion may favor larger communities. The stability of long term management of the site after inclusion in the Forest Legacy Program was discussed and how partner organizations and a forest stewardship plan would play a role in that stability. There would be spot checks by ODF, but it was more likely that a partner organization would be doing the monitoring and that neighbors would be a good source for learning whether a forest stewardship plan was being followed. The Willamette Valley's location on the Pacific Flyway makes it a crucial area for migrating and wintering waterfowl. Geese and shorebirds benefit from flooded agricultural lands, and the Willamette River and its many tributaries support salmon and steelhead runs, mostly of hatchery origin due to the large number of dams in the system. The valley's few remaining fragments of native prairie support many special plant species and endemic invertebrates, while the remaining wetlands provide habitat to the Oregon chub, the western pond turtle and many other sensitive animal species.
+The Willamette Valley is home to most Oregonians, with more than 70 percent of the state's population, the majority of its industry, and almost half of its farmland. It is also the fastest growing ecoregion, with the human population expected to double in the next 25 years. As a result of this growth ? and the importance of the region to Oregon's people, wildlife and endangered species ? the Willamette Valley has been the focus of numerous studies. Two recent reports describe some of these investigations into the impacts of changes in the valley on people, the river, wildlife, and habitats. 
+
+## Willamette Valley forests
+
+As with all the other habitats in the Willamette Valley, its forests, woodlands and savannas have been dramatically changed over the last 150 years. In fact, the most significant shifts from forest to developed uses in western Oregon have occurred on private land in or near the Willamette Valley, particularly in areas close to Portland 
+(Azuma et al. 1999)
+. In particular, the riparian gallery forests that characterized the Willamette River bottomlands and the huge expanses of Oregon white oak savanna are almost entirely gone. The complex open woodlands in the valley foothills were dominated by white oak with ponderosa pine and Douglas-fir in the north, and by a diverse mix of hardwoods and conifers, including incense cedar, ponderosa pine, Douglas-fir, Oregon white oak, California black oak and madrone.
+
+## Klamath Mountains Ecoregion
+
+The Klamath Mountains Ecoregion covers most of southwestern Oregon and northwestern California, and includes the Siskiyou Mountains, California's Marble Mountains and Trinity Alps, and the interior valleys and foothills between these mountain ranges. Elevations range from 100 feet to over 7,500 feet. Valley bottoms in the interior generally range between 450 feet elevation in the north around Roseburg to almost 2,000 feet at Ashland near the California border.
+This ecoregion has the oldest landscapes in Oregon and is one of the few areas of the state not largely shaped by volcanism. It is also by far the most geologically diverse, having large areas of metamorphic and sedimentary rocks such as serpentine, limestone and gabbro, as well as granites and basalt. Topography ranges from steep, dissected mountains and canyons to gentle foothills and flat valley bottoms. This ecoregion also has major climatic extremes. Far western portions receive more than 100 inches of rain per year, with relatively mild temperatures year-round. The southern interior valleys are much drier, with locations receiving less than 20 inches of rain per year and summer high temperatures averaging more than 90º F.
+The combination of exceptional climatic, geologic, and topographic variation supports the most diverse habitats in Oregon. In addition, the Klamath Mountain Ecoregion is a floristic crossroads, including flora and fauna of the Sierra Nevada Mountains, the Sacramento Valley and Coast Range Mountains of California; the Cascade Mountains of Oregon and Washington; and the Great Basin to the east.
+Because of its geologic age, stable climate, and many unusual habitats, the ecoregion is also a major center of species endemism for vascular plants. Of the 4,000 native plant species or subspecies occurring in Oregon, about half are found in this ecoregion, with about a quarter of these known only here. The region is also known for its diversity of conifers, with 30 different species. (In Oregon, the West Cascades Ecoregion has the second largest number of conifer species, with 18 species).
+Prior to European settlement, most of the landscape was forested, with Douglas-fir, pine, and oak most prevalent, but with a very diverse array of forest plant communities found in the area. Other significant communities include native grasslands and chaparral which dominated the presettlement valley bottoms, and Port-Orford-cedar forests, which have been devastated by logging and disease. All of the natural habitats have changed since aggressive fire suppression policies became effective in the early 20th century. The region has a high frequency of dry, summer lighting storms, leading to a natural fire frequency of less than 40 years, and closer to 20 years in the valleys and eastern portions of the region. By now, over 50 years of fire suppression have dramatically altered the ecology of the forests, savannas and shrublands in this region. Most significant are the expansion of white fir and other fire sensitive forest species, along with declines in Port Orford cedar, incense cedar, native pines, and other fire dependent conifers. In many areas, forest understories have changed from open, grass and forb dominated to dense, tall shrublands.
+The human population of the ecoregion is concentrated in the valleys along the Interstate 5 corridor. Forest products, agriculture and tourism are the foundations of the local economy. The region is currently growing at a rate second only to the Willamette Valley.
+
+## Klamath Mountain forests
+
+Most of the Klamath Mountain Ecoregion is forested, dominated by three major vegetation types: Douglas-fir forests, oak woodlands and ponderosa pine woodlands. The diversity of forest habitats in the Klamath Mountains is nationally acclaimed, especially that of the conifer forests. This is the only region in Oregon with endemic tree species: Brewer spruce and Baker cypress are found only in the ecoregion (in Oregon and California). Also common are Port-Orford-cedar, Jeffrey pine, tan oak, grey pine (previously called digger pine), canyon live oak, California black oak, sugar pine, and Shasta red fir. In addition, the region also is the southern limit for many northern species, such as Alaska-cedar, Pacific silver fir and subalpine fir.
+
+## Cascades Ecoregion
+
+The West Cascades Ecoregion extends from southern British Columbia south almost to the California border. This mountainous, heavily forested ecoregion is bounded on the west by the farms and woodlands of the Puget Trough and the Willamette Valley, and the drier forests and valleys of the Klamath Mountains. To the east, it spills over the crest of the Cascade Mountains to the drier ponderosa pine forests of the East Cascades Ecoregion.
+The crest of the Cascade Range is dominated by a series of volcanic peaks. In Oregon Mount Hood is the highest at 11,245 feet, and a dozen others top 8,000 feet. The western slopes of the range feature long ridges with steep sides and wide, glaciated valleys. Most of the rivers draining the northern two-thirds of the ecoregion flow into the Willamette Valley and then to the Columbia River system; the southern third drains to the Pacific Ocean through the Umpqua and Rogue river systems. The climate varies with elevation and, to a lesser extent, latitude. Higher elevations receive heavy winter snows. The drier southern half has a fire regime similar to the Klamath Mountains, with frequent lightning-caused fires. In the northern half, the natural fire regime has historically produced less frequent but more severe fires.
+This ecoregion is almost entirely forested, and the flora and fauna are similar to that of the Coast Range Ecoregion. Alpine areas feature a variety of habitats ranging from dwarf shrubs, grasses and forbs, to wetlands and barren expanses of rocks and ice.
+Forests have long been the foundation of the local economy in the west Cascades, and decades of logging put the region at the center of controversies surrounding the northern spotted owl, logging of old-growth forests, and management of federal lands. Most of the ecoregion's population is found in small towns in the river valleys where increasing recreation use supplements the traditional timber-based economy.
+West Cascades forests Douglas-fir/western hemlock forests prevail over large areas up to elevations of about 3,300 feet. However, most of the previously harvested forests of the lowlands and lower slopes now support mixed conifer-deciduous forests, with young Douglas-fir and western hemlock forests found in a mosaic with hardwood species such as bigleaf maple and red alder. Pacific silver fir-mountain hemlock forests occur at mid-elevations. Pacific silver fir, often referred to as a subalpine species, is common between 2,600 and 4,200 feet. Mountain hemlock is most common between 2,200 and 6,000 feet. In the higher areas, mountain hemlock or occasionally Alaska-cedar, subalpine fir, or whitebark pine woodlands open into alpine parklands with patches of forest interspersed with shrub and meadow communities.
+
+## Eastern Cascades Slopes and Foothills Ecoregion
+
+The East Cascades Ecoregion is a transition zone that extends from below the crest of the Cascade Range east to where the ponderosa pine zone meets the sagebrush-juniper steppe. This ecoregion also extends north into Washington and south into California. In Oregon, this ecoregion is variable, including extensive lodgepole forests on deep Mazama ash, montane and foothill ponderosa pine forests, Klamath Basin lakes and wetlands, and many other diverse montane forests.
+The eastern slopes of the Cascades are drier than the western slopes, with annual rainfall ranging from 14 to26 inches per year. This ecoregion is less steep and cut by fewer streams than the west side of the mountain range. It is also predominantly covered by conifer forests growing on volcanic soils. The northern two-thirds of the East Cascades is drained by the Deschutes River system, which includes a series of large lakes and reservoirs near its headwaters. The southern third is drained by the Klamath River, which flows south and west into California.
+The Klamath Basin, which extends into the Modoc Plateau in California, is a broad, relatively flat mid-elevation valley that historically supported a vast expanse of lakes and marshes. Oregon's largest lake, Upper Klamath Lake, is the biggest remnant of this wetland system. Most of the basin's wetlands have been drained and converted to agriculture.
+The mountains on the northern and eastern edges of the Klamath Basin lack a commonly accepted name, but include a series of peaks and ridges extending from Paulina Peak near Bend southward through the headwaters of the Williamson, Sprague and Chewaucan rivers to the Warner Mountains east of Lakeview. These mountains are generally forested, but the valleys and flats between them include large marshes, irrigated meadows and pastures, and arid juniper and sagebrush steppes. These habitats are a critical component of the Pacific Flyway, supporting vast numbers of shorebirds and waterfowl, the densest wintering concentration of bald eagles in the world, and many other wildlife species.
+Also of significance is the ecologically diverse corridor within the Columbia River Gorge on the northern end of this region ? the only area in eastern Oregon where the Oregon white oak can be found. This Columbia Gorge transition zone, along with the extensive ponderosa pine forests and woodlands, and the vast wetlands of the Klamath and upper Deschutes Basin are typical of this region.
+The ecoregion's human population is concentrated in Hood River, The Dalles, Bend, and Klamath Falls. Forest products, agriculture, recreation and tourism are the biggest contributors to local economies.
+
+## East Cascades Slopes and Foothills forests
+
+The East Cascade Slopes and Foothills Ecoregion is characterized by ponderosa pine, and include the largest remaining pine forests in Oregon. This ecoregion also includes a large area in northern Klamath and southern Deschutes counties that have very deep ash deposits, dropped when Mt. Mazama exploded to create Crater Lake. This large area contains Oregon's only climax lodgepole pine forests, providing home to many unique forest communities. This ecoregion also has the northernmost extension of the Warner Mountains, with Oregon's only examples of Washo pine, and some of Oregon's best western white pine forests. Along with the forests in the Blue and Klamath Mountains, changes in the natural fire regime have had significant impacts on the east Cascades. Through Governor Kitzhaber's Eastside Forest Health Task Force, the U.S. Forest Service and the Oregon Department of Forestry are working hard to restore fire to these forest ecosystems.
+
+## Blue Mountains Ecoregion
+
+The Blue Mountains Ecoregion occupies nearly all of northeastern Oregon and extends into small portions of southern Washington and western Idaho. It encompasses three major mountain ranges: the Ochoco, Blue and Wallowa mountains. Landscapes include deep, rocky-walled canyons, glacially cut gorges, dissected plateaus, broad alluvial river valleys, and numerous mountain lakes, forests and meadows. Due to sharp differences in elevation, the climate varies over broad temperature and precipitation ranges. Overall, this ecoregion is characterized by short, dry summers and long, cold winters.
+The flora is intermediate between the eastern Cascades and the western Rocky Mountains of Idaho and Montana. Species composition changes with altitude. Sagebrush and grassland steppes dominate the entire eastern length of the region along with significant areas in the south. The stands of western juniper on the western and southern reaches represent the largest and most diverse representation of this species in the world, found in over 30 plant communities. Ponderosa pine woodlands are characteristic at mid-elevations while mixed coniferous forests dominate at higher altitudes. Barely half the ecoregion is forested, and vast sections at all elevations are treeless due to dry conditions and the harsh climate. Extensive grasslands occur in and north of the Wallowa Mountains.
+Most of the region is thinly populated, with small towns in the major valleys, and rural residents scattered throughout the smaller valleys among the mountains. Rapid population growth and increasing recreational uses east of Bend and around Prineville and Redmond have increased development pressures dramatically in the juniper woodlands and sagebrush steppes of this area. Timber, ranching, agriculture and tourism provide the foundations for the local economy in most areas.
+The diversity in elevation, soils and climate yields diverse habitats and many endemic plant species. The Wallowa Mountains alone have more than 10 plants species found nowhere else. Bighorn sheep, elk and large mammal populations here are among the largest in the state. The variety of habitats ? including low-, mid-and high-elevation grasslands, shrublands, and forests ? results in this ecoregion having more habitat diversity than all but the Klamath Mountains Ecoregion.
+
+## Blue Mountains forests
+
+Although they do not contain quite the amazing forest diversity of the Klamath Mountains, Blue Mountain forests are the second most diverse in the state. The Wallowa, Elkhorn and Strawberry mountains have forests typical of the Rocky Mountains: stands of limber pine, Engelmann spruce, whitebark pine, lodgepole pine, and subalpine fir are common, along with the ubiquitous Douglas-fir, ponderosa pine and grand fir forests. These mountains have Oregon's only large western larch forests, and the Blue Mountains also contain some of the largest and best quality cottonwood riparian forests remaining in Oregon (e.g. in the Wallowa Valley and throughout Hells Canyon).
+Forests in the Blue Mountains face considerable threats. An introduced pathogen, the white pine blister rust, is destroying whitebark pine forests and woodlands throughout the west, and is just beginning to impact this part of Oregon. Years of fire suppression have also made the extensive ponderosa pine forests vulnerable to insect outbreaks and destruction by overly intense wildfires that come with excess fuel build-up. This forest health issue was the focus of the recent U.S. government assessment of all the lands in the interior Columbia River Basin (Citation).
+
+## Columbia Plateau Ecoregion
+
+The Oregon portion of the Columbia Plateau Ecoregion (sometimes referred to as the Umatilla Plateau) extends from the eastern slopes of the Cascades Mountains south and east along the Columbia River to the Blue Mountains. This ecoregion also extends northward throughout most of eastern Washington, and includes a small portion of west central Idaho.
+The region includes the Columbia Basin proper, and the Palouse.
+The Columbia River, with its historic floods and large deposits of loess (wind-borne silt and sand) from the end of the last ice age, has greatly influenced the region. Most of the Oregon portion of the ecoregion is a lava plateau broken by basalt canyons carved out by the Deschutes, John Day, and Umatilla rivers and other streams that flow into the Columbia River. The climate is arid, with cold winters and hot summers. Most of the ecoregion receives less than 15 inches of precipitation per year (some areas as little as eight inches), much of that in the form of snow.
+The majority of the ecoregion's natural vegetation is native bunchgrass prairie, often called palouse prairie because of the deep, loess soils and plentiful bunchgrass. The majority of the ecoregion in Washington was originally sagebrush steppe. Sandy deposits along the Columbia River support open dunes, bitterbrush steppe and western juniper. A few species of ground squirrels and plants (milkvetches among others) adapted to these habitats. The rivers are generally characterized by intermountain riparian vegetation, with black cottonwood, willows, chokecherry and aspen covering the riverbanks. Less common are riparian habitats dominated by black hawthorn and white alder.
+Early travelers along the Oregon Trail found vast natural grasslands broken by brushy draws and tree-and rimrock-bordered streams with numerous springs. Because of the deep loess soils, mild climate (due to low elevations), and the presence of adequate water (either from wells or from the Columbia, Snake and Umatilla rivers), much of this region provided model farmland. The human population is concentrated in the northeastern portion of the ecoregion, where Pendleton, Hermiston and other smaller communities serve as commercial centers for the agricultural economy.
+The Columbia Plateau Ecoregion is second only to the Willamette Valley in the percentage of landscape converted to non-native habitats and human uses. Protected areas and public lands are very limited in this region ? the only vegetation types that have not declined dramatically are found on lands that cannot be farmed: the steep canyon grasslands and scablands.
+
+## Northern Basin and Range Ecoregion
+
+The Northern Basin and Range Ecoregion is the large sagebrush zone of southeastern Oregon and northern Nevada. In this AON, it also includes Oregon's portions of the Snake River Plain Ecoregion and the Central Basin and Range Ecoregion. It includes southeastern Oregon's high desert and extends south into Nevada to Reno, and to extreme northeastern California. This ecoregion's name reflects its topography and geology, with numerous flat basins separated by isolated, generally north-south mountain ranges. Many of the mountains are fault blocks, with gradual slopes on one side and precipitous basalt rims on the other. In Oregon, elevations range from 4,100 feet in the lowest basin to more than 9,700 feet on Steens Mountain. Soils are generally rocky and thin, low in organic matter and high in minerals.
+An important influence in the ecoregion is the geology, which is mostly of volcanic origin. Over large portions of the landscape, soils have been derived from underlying layers of basalt and rhyolite, or occasionally from sedimentary layers that have been exposed by erosion. Of more interest than these are soils derived from volcanic ash and welded tuffs, which are found in distinct sites such as Leslie Gulch and Succor Creek near the Idaho border, or the extensive recent lava flows such as Jordan Craters, Saddle Butte, Diamond Craters, or Christmas Valley Lava Fields. The weathering of the exposed volcanic ash has resulted in unique soils with a high clay content and an unusual chemical composition. The adaptational challenge these peculiar soils present for plants has given rise to a relatively rich flora of endemic species. The welded tuffs in these areas have also produced remarkable rock formations that rival more well-known erosion-based formations in the national parks of Utah's Colorado Plateau country.
+The climate is arid, with extreme ranges of daily and seasonal temperatures: the Alvord Desert (Oregon's driest location) receives less than seven inches of rain annually. Runoff from precipitation and mountain snowpacks often flows into flat, alkaline playas, where it forms seasonal shallow lakes and marshes.
+Also known as the sagebrush desert or high desert, the Northern Basin and Range Ecoregion contains many diverse habitats. The most significant of these are the sagebrush steppe types, salt desert scrub, riparian and wetland types, and mountain-mahogany and aspen woodlands.
+The large wildlife refuges here support substantial populations of pronghorn antelope, white pelicans, sandhill cranes, and waterfowl, and are well known for their wildlife diversity.
+Most of the ecoregion is uninhabited. The only towns with more than a few hundred residents are Ontario, with a population of about 9,400, and Burns and Lakeview, with populations of about 3,000 each. Livestock, agriculture and tourism are the foundations of the regional economy. Lumber production, formerly a major source of employment in the Burns and Lakeview areas, has declined with lower harvests on nearby national forests.
+Diverse sagebrush steppe communities dominate most of the ecoregion, including Wyoming big sagebrush, basin big sagebrush, mountain big sagebrush, silver sagebrush, black sagebrush, low sagebrush and rigid sagebrush communities. Mountain-mahogany woodlands are very well developed, and the riparian habitats are very important to fish and wildlife, as they are in most arid regions of the West.
+The second source was a 1:24,000 presettlement vegetation coverage developed and maintained by ORNHP based on the General Land Office surveyor's notes. These coverages are complete for the entire Willamette Valley, the Umpqua Valley, and for most of the Oregon Coast. The GLO notes were transcribed, and using surveyor's maps, notes and topographic maps, presettlement vegetation was mapped. When the 2001 cover was complied, the GLO cover was applied over the Andrews cover for the forest map. ORNHP also mapped oak and pine forests in the Rogue Valley, based on personal knowledge at 1:250,000 (development of 1:24,000 GLO maps of the Rogue is just underway). This coverage, including detailed metadata and information on the non-forested habitats is available at ORNHP.
+? Increase in population based on 1990-2000 census increase by county This is the US Census County Level Data. It is maintained by the census bureau, downloaded from their web site (www.census.gov) or locally from Portland State University at (www.upa.pdx.edu/cprc) as a database, and transformed by ORNHP staff into a GIS coverage. For the analysis, the threats were determined by the actual increase in population for each county.
+Threat of conversion was one of the most important factors used in the analysis. In the analysis, each of the potential legacy areas was ranked from 1-9, with 9 being the highest value. These ranks were obtained by combining the four threat factors above (where all four factors were available, or for eastern Oregon using only the last two data layers).
+(b) Community interest in Forest Legacy, existence of local partners, including county and city governments, potential for matching funds, and public recreation opportunity There were no statewide or regional datasets available to look at these factors. So, in the analysis, ORNHP staff rated each of the potential legacy areas 0-5, based on a number of factors. These included 1) the presence of partners and local interest in forest legacy; 2) Contacts by the public, public agency staff or elected officials; 3) presence and interest of private or pubic partners; and 4) the potential for forest legacy to provide recreational opportunities. Economic a) How significant is private forest timber or recreation to the local economy by: ? The significance of timber to the local economy (Figure 
+4
+)
+This data was developed by ODF to look at the local dependence on timber. The data is summarized by county, and the value was averaged for legacy areas in more than one county. The ODF contact for information is Gary Lettman. ? The presence of distressed county or local community (Figure 
+5
+) This is a map developed by the Oregon Economic Development Department. It looks at the presence of economic distress, much of which is directly related to declines in timber and mill closures. The economic data from the two data layers above were combined by ORNHP staff into an overall economic value from 0-5, with 5 being the area most stressed and dependant on timber. 7) Take the draft AON and post it on the Internet as a PDF file, on the ODF and ORNHP web pages, and send out a final news release indicating the availability of the draft AON.
+Send copies of the AON to all parties not able to access the file over the Internet. 8) After the AON is approved by the SSCC, the Oregon Department of Forestry and the Regional Office of the US Forest Service, print 500 copies and create a PDF file and a Oregon Forest Legacy Web Page. Include the AON, description of Forest Legacy contacts, as well as necessary forms allowing interested landowners to submit properties to enroll in the program. Development of the nation's forested areas poses an increasing threat to maintaining the integrity of our country's valuable forestlands. The Oregon Department of Forestry is working with other government agencies, non-profit organizations, and the public to begin Oregon's participation in the Forest Legacy Program and help keep private forestlands intact.
+The program is completely voluntary. The Forest Legacy Program focuses on the acquisition of partial interests in privately owned forestlands. Funds are available to acquire either interest in land (conservation easements), or the land itself from landowners wanting to participate. These conservation easements are legally binding agreements that transfer property rights from one party to another without removing the property from private ownership. Conservation easements restrict development, require sustainable forestry practices, and protect other values such as wildlife habitat, water quality, soil, aesthetics, and recreational opportunities.
+Forest Legacy programs are guided by individual state plans describing the need for the program, identifying where forests are being converted and explaining how the state proposes to manage the program. Each state plan is called an "Assessment of Need," and is shaped by public involvement. Lands included in the program do not have to be managed for timber production, and owners of non-commercial forests are welcome to participate. Several tools have been used to narrow down the list of potential legacy areas in Oregon to 17 areas that meet the program's minimum criteria for eligibility. These resources include, but are not limited to, land-use studies, census maps projecting population change, studies that summarize existing and predicted forest loss, as well as studies identifying a loss of habitat for sensitive endangered species. The public will be invited to comment on legacy areas that have been identified through careful screening.
+
+## Bend
+
+The 
+
+[FIGURE: Figure 1. Ownership of Oregon's 29,656,000 acres of forestlands]
+
+[FIGURE: Figure 3. One of ODF's key performance measures set by the legislature is to keep 98% of all wildfires to 10 acres or less. This requires that resources be on hand and positioned across the state to respond quickly, aggressively, and safely at the necessary scale.]
+
+[FIGURE: Pacific Northwest Quantitative Wildfire Risk Assessment: Methods and Results; https:// oe.oregonexplorer.info/externalcontent/wildfire reports/20170428_PNW_Quantitative_Wildfire_ Risk_Assessment_Report.pdf]
+
+[FIGURE: Figure 4. Average acres burned across all ownerships has increased each of the past 3 decades]
+
+[FIGURE: Figure 7. FFR Program spending by na onal forest and BLM District FY 2017-2019]
+
+[FIGURE: Sheet 2020, Oregon's Federal Forest Restoration Program; Ecosystem Workforce Program.]
+
+[FIGURE: Figure 8. Distribu on of EBoard projects that use a Shared Stewardship approach to create fire adapted communi es and restore and maintain resilient landscapes.]
+
+[FIGURE: Figure 9. Land Use Change Map: Oregon's land use policies protect Oregon's resources. Land use change between 1974 and 2014 is shown in red.]
+
+[FIGURE: Acronyms ...................................................................................................................................................................................................................................... Conserve Working Forest Lands: Conserving and managing working forest landscapes for multiple values and uses ................................................................. High priority forest ecosystems and landscapes are identified and conserved ..................................................................................................................... Forests are actively and sustainably managed ....................................................................................................................................................................... Protect Forests from Harm: Protect forests from threats, including catastrophic storms, flooding, insect or disease outbreak, and invasive species ............ Fire-adapted lands are restored and risk of wildfire impacts is reduced ............................................................................................................................... Threats to forest and ecosystem health are identified, managed, and reduced ................................................................................................................. Enhance Public Benefits from Trees and Forests: Including air and water quality, soil conservation, biological diversity, carbon storage, and forest products, forestry-related jobs, production of renewable energy, and wildlife ........................................................................................................................ Water quality or quantity is protected or enhanced ........................................................................................................................................................... Air quality is improved or energy is conserved .................................................................................................................................................................... Communities plan for and reduce their risks from wildfire ................................................................................................................................................. The economic benefits and values of trees and forests are maintained or enhanced ........................................................................................................ Wildlife or fish habitats are protected, conserved, or enhanced ........................................................................................................................................ People are connected to trees and forests, and are engaged in environment stewardship activities ............................................................................... Trees and forests are managed and restored to help mitigate or adapt to changing conditions .......................................................................................]
+
+[FIGURE: Background ............................................................................................................... 2 Acknowledgements................................................................................................... 3 Integration of Other Statewide Plans and Programs ........................................... 6 Assessments by National Themes ........................................................................... 8 Conserve Working Forest Lands: ............................................................................................8 High priority forest ecosystems and landscapes are identified and conserved ....................8 Forests are actively and sustainably managed ...................................................................12 Protect Forests from Harm -Shared Stewardship Approach: .............................................16 Restore fire-adapted lands and reduce risk of wildfire impacts Federal Forest Restoration Program ......................................................................17 Good Neighbor Authority ......................................................................................19 Threats to forest and ecosystem health are identified, managed and reduced ...................21 Enhance Public Benefits from Trees and Forests:................................................................26 Water quality or quantity is protected or enhanced ...........................................................26 Communities plan for and reduce their risks from wildfire Oregon's Communities at Risk of Wildfire in the Wildland Urban Interface .............30 The economic benefits and values of trees and forests are maintained or enhanced The Oregon Forest Sector ............................................................................................55 State Forest Land .........................................................................................................58 Wildlife or fish habitat are protected, conserved or enhanced ...........................................63 Connect people to trees and forests, and engage them in environmental stewardship activities .............................................................................................................................66 Manage and restore trees and forests to mitigate and adapt to global climate change ....Strategic Direction and Priority Areas ...................... 72 Forest Legacy Program Needs Assessment ......................................................... 78]
+
+[FIGURE: Figure 1: Land use change 1974-2014]
+
+[FIGURE: lands, ODF has embraced a Shared Stewardship approach using Good Neighbor Authority and Oregon's Federal Forest Restoration (FFR) program to capitalize on public/private partnerships in order to accelerate the pace and scale of restoration on public and private lands.Oregon established the FFR Program in 2013 "to accelerate the pace, scale and quality of forest restoration to increase the resilience of Oregon's federal forests, in a manner that leverages collaborative efforts and contributes to the long-term vitality of regional economies and rural communities." The FFR Program supports forest collaboratives through competitive grants and technical assistance contract awards. With FFR Program support and even before the program was established, local collaborative groups have demonstrated success in building trust across stakeholder groups and have enabled a base of active forest restoration work on Oregon's national forests. FFR District Coordinators work with USDA FS Region 6 staff and local collaboratives to develop local projects.Oregon uses a layered approach to mitigate the catastrophic risk of wildfire. An essential aspect to the approach includes utilizing the Oregon Wildfire Risk Explorer to compile and share the best information available on wildfire risk. Another layer is to promote Firewise Communities. Currently Oregon is among the top three states by number of Firewise sites. This reflects a sustained effort and high-]
+
+[FIGURE: Figure1Comprehensive findings of the surveycan be found in Forest Health Highlights is an annual survey of the health of Oregon's forests.]
+
+[FIGURE: Scoring criteria: • 303d listed stream for temperature impairment = 10 • 303d listed stream for sediment impairment = 10 • 303d listed stream for DO oxygen impairment = 10 • Focused Investment Priorities = 3 rankings possible, Highest = 10, 2 nd highest = 5, and lowest = 3 Total Possible score = 40]
+
+[FIGURE: Using geographic information systems (GIS), we integrated U.S. Census and USGS National Land Cover Data, to map the Federal Register definition of WUI (Federal Register 66:751, 2001) for the conterminous United States from 1990-2010. Communties at Risk and WUI: (Map 3)This map shows WUI areas by Burn Probability, or exposure of WUI areas to annual likelihood of large fire. Exposure data is based on modeled vegetation, not on building construction materials. Burn probability is consistent with historical annual area burned from large fires. Viewing local fires in conjunction with this large fire probability provides a more comprehensive view of local fire history and potential.]
+
+[FIGURE: Figure 1. Oregon counties with greatest forest sector wage differences, 2017 (Source: OFRI Oregon Forest Facts 2019-20 Edition)]
+
+[FIGURE: Figure 1. Net timber revenues distributed to counties and local taxing districts.]
+
+[FIGURE: Figure 2. Percent of revenue distributed to individual counties over fiscal years 2016-2018.]
+
+[FIGURE: See: http://oregonconservationstrategy.org/conservation-opportunity-areas/ Miles of stream habitat (https://www.streamnet.org/) for listed salmon species within the planning region by land ownership.]
+
+[FIGURE: Figure 1. Distribution of rare, threatened and endangered species in Oregon as of 6/2001......................................................................................................6 Figure 2. Shaded relief map of Oregon.............................................................................7 Figure 3. Oregon's timber harvest, by ownership group................................................. 12 Figure 4. Timber dependency of Oregon's counties ....................................................... 13 Figure 5. Economically distressed areas in Oregon, 2000............................................... 13 Figure 6. Forest land ownership in Oregon..................................................................... 15 Figure 7. Presettlement forests of Oregon ...................................................................... 18 Figure 8. Existing forest vegetation from the Oregon Gap Analysis Project.................... 19 Figure 9. Comparison of presettlement and existing forests in Oregon ........................... 20 Figure 10. Western Oregon forest conversions 1974-1994 ............................................. 22 Figure 11. Population change by county, 1990-2000...................................................... 23 Figure 12. Western Oregon predicted development impacts to natural habitats............... 24 Figure 13. Ecoregions of Oregon from the Environmental Protection Agency................ 31 Figure 14. The 36 potential legacy areas evaluated......................................................... 32 Figure 15. Original 17 potential legacy areas evaluated as meeting minimum criteria ..... 33 Figure 16. Names and boundaries of the final Oregon Forest Legacy Areas ................... 35 Figure 17. Oregon Forest Legacy Area priorities............................................................ 36 Figure 18. Map of North Coast Forest Legacy Area ....................................................... 42 Figure 19. Map of South Coast Forest Legacy Area ....................................................... 45 Figure 20. Map of Metro Forest Legacy Area ................................................................ 47 Figure 21. Map of Northern Polk -Yamhill County Foothill Forest Legacy Area .......... 50 Figure 22. Map of Marion County Forest Legacy Area .................................................. 52 Figure 23. Map of Benton County-Corvallis Foothills-Southern Polk Forest Legacy Area.................................................................................................. 54 Figure 24. Map of Southern Willamette River Riparian Forest Legacy Area .................. 56 Figure 25. Map of Eugene-Springfield Forest Legacy Area............................................ 58 Figure 26. Map of Umpqua Valley and Foothills Forest Legacy Area ............................ 60 Figure 27. Map of Illinois Valley Forest Legacy Area.................................................... 63 Figure 28. Map of Rogue Valley-Bear Creek Forest Legacy Area.................................. 65 Figure 29. Map of Wasco-Hood River Forest Legacy Area............................................ 67 Figure 30. Map of Bend-La Pine-Metolius Forest Legacy Area...................................... 69 Figure 31. Map of Southern Klamath-Klamath Falls Forest Legacy Area....................... 71 Figure 32. Map of Wallowa Forest Legacy Area............................................................ 73]
+
+[FIGURE: Figure 1. Distribution of Rare, Threatened and Endangered Species in Oregon as of 6/2001.]
+
+[FIGURE: Figure 2. Shaded relief map of Oregon]
+
+[FIGURE: Figure 3. Oregon's timber harvest by ownership group (Oregon Department of Forestry).]
+
+[FIGURE: Figure 4. Timber Dependency of Oregon's Counties]
+
+[FIGURE: Figure 7. Presettlement forests of Oregon.]
+
+[FIGURE: Figure 9. Comparison of presettlement and existing forests in Oregon. (Red are forests lost, brown is no change, and green are areas forests have expanded to).]
+
+[FIGURE: Figure 10. Western Oregon forest conversions 1974-1994. (Rural land lost to conversion in red.)]
+
+[FIGURE: Figure 11. Population change by county, 1990-2000.]
+
+[FIGURE: Figure 12. Western Oregon predicted development impacts to rural areas.]
+
+[FIGURE: Figure 17. Oregon Forest Legacy Area priorities]
+
+[FIGURE: Figure 20. Map of Metro Forest Legacy Area]
+
+[FIGURE: Figure 25. Map of Eugene -Springfield Forest Legacy Area]
+
+[FIGURE: Figure 26. Map of Umpqua Valley and Foothills Forest Legacy Area]
+
+[FIGURE: Figure 27. Map of Illinois Valley Forest Legacy Area]
+
+[FIGURE: Figure 28. Map of Rogue Valley -Bear Creek Forest Legacy Area]
+
+[FIGURE: Figure 29. Map of Wasco ? Hood River Forest Legacy Area]
+
+[FIGURE: The Willamette Restoration Initiative (2001) published an overview of their strategies and analyses called Restoring the River of Life and the Defenders of Wildlife published a report entitled No Place for Nature: The Limits of Oregon's Land Use Program in Protecting Fish and Wildlife Habitat in the Willamette Valley (Wiley 2001).]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[TABLE:   Climate Change and Carbon Capture  Diversity, Equity, Inclusion, and Social Justice  Conserving Working Forestlands  Right-Sizing Capacity for Wildfire Prevention, Mitigation, Response, Recovery  Forest Health  Water Quality and Quantity]
+[TABLE: 5 5 Federal Forest Restora on Program Use of the Good Neighbor Authority 2016-2020; Ecosystem Workforce Program Fact Sheet.]
+[TABLE:   Staff who are encouraged by leadership to experiment with new approaches, adapt their programs to]
+[TABLE: A series of fires known as the Tillamook Burn scorched 355,000 acres in the Coast Range. ODF led one of the largest reforesta- tion efforts in the Western Hemisphere, creating what would become the Tillamook State Forest. A larger scale recovery and replanting effort faces Oregon's public and private forestlands in the wake of the Labor Day 2020 wildfires, which burned an area three times larger. ]
+
+[TABLE]
+* Explore avenues to continue support for the state geneticist, tree improvement technical assistance, and outreach to family forestland owners. Educate landowners and nurseries about the use of various seed types for reforestation. Maintain the Oregon Forest Tree Seed Bank as a source of acquiring high quality, high-genetic gain forest tree seed lots for the benefit of small woodlot owners.*
+
+| National Priority 1. Conserve Working Forest Landscapes National Priority 1. Conserve Working Forest Landscapes |  |  |  |
+| --- | --- | --- | --- |
+| Objective 1.B. Forests are actively and sustainably managed Objective 1.B. Forests are actively and sustainably managed |  |  |  |
+| OPPORTUNITY OPPORTUNITY | GOAL GOAL | STRATEGY STRATEGY | PROGRAMS PROGRAMS |
+|  |  | Incentivize and recognize sustainable management practices. Integrate opportunities from across agencies and programs to leverage financial |  |
+|  |  | Seek to bridge gaps between information and action. and technical assistance and accomplish common goals across a landscape. |  |
+|  |  | Support the Oregon Tree Farm System, Oregon Small Woodlands Association, OSU Seek financial efficiency by combining treatments on multiple individual or smaller |  |
+|  |  | Extension, and other programs or organizations focused on support and networking ownerships into a viable larger scale project. |  |
+| Market Barriers to NIPF owners and small landowners can be reduced when the barriers are understood. Landowners with access to forest management planning and forest management resources can improve forest management on a landscape scale. | Increase product markets and differentiation of forest products. Expand the scale of cross-boundary projects by simplifying planning and cost share for management activities to engage NIPF landowners. | for family forest landowners. Utilize multi-agency team approach for post-disturbance response and recovery on Certify non-industrial private lands to support market branding and stewardship. Actively participate in landowner outreach and education events. Build and sustain partnerships that increase capacity for direct landowner NIPF. Utilize strategic prioritized and tiered approaches to conservation. Develop a multi-agency agreement on the standards and processes needed to tier a Landscape Management Plan down to a Project Plan across one or more landowner's properties. Identify an appropriate tool for private landowners to share commitment for common objectives and values. Assist communities in hazardous fuel treatment planning, implementation, and | IWP, BU, SWET, FSP, FFR BS2, GNA, NRCS WSFM, LSR, FSP, FFR GNA, S2, JCLRP, n-FWUI, NRCS |
+|  |  | monitoring. |  |
+|  |  | Share data with nurseries to assist in forecasting seedling demand from NIPF Facilitate TA and financial assistance to support accomplishments and actions |  |
+|  |  | harvesting. around priority resource values. |  |
+|  |  | Provide technical and financial assistance for Community Wildfire Protection |  |
+|  | The seed bank and | Planning. |  |
+|  | seedling network can | Understand and minimize the barriers landowners face in accessing incentive |  |
+| NIPF landowners struggle to access seed and seedling resources and technical expertise for reforestation. New Landowners and those new to forest management may be unaware of forest management concepts. | provide an adequate supply and access to genetically improved seed and high quality nursery stock to meet demand and keep forestland productive. Improve Forest Stewardship by connecting new landowners to Oregon's forestry network. | programs. Implement Technical Assistance that helps landowners achieve management objectives while still protecting priority resources. Work with the American Forest Foundation, OSU Extension, and other organizations to support innovative stewardship programs. Support the Partnership for Forestry Education in innovative statewide outreach and education initiatives, including ongoing development of online and other 'self-help' tools that enable landowners to access information for planning and implementation. | SNTI, FSP, GCWR, CCMA S2, NRCS, CRP, CREP WSFM, LSR, FSP, FFR S2, JCLRP, Equip, CRP, CREP |
+|  |  | Collaborate with NRCS, FSA, and other partner agencies to invest in regionally |  |
+|  |  | important resource issues and connect landowners to technical and financial |  |
+|  |  | assistance programs. |  |
+
+[/TABLE]
+
+[TABLE]
+* Objective 2.A. Fire-adapted lands are restored and risk of wildfire impacts is reduced Objective 2.A. Fire-adapted lands are restored and risk of wildfire impacts is reduced Represent and respect the interest and objectives of individual private landowners. Leverage efforts and resources to contribute to the long-term vitality of regional economies and rural communities by improving resiliency on federal land. Create agreements between federal partners and state agencies to implement forest restoration projects on and near federal lands. Continue to explore political avenues that increase funding in this area. Utilize ODF Technical Assistance and Science Support Program funds to provide research, training, communications, treatment monitoring, or other technical support that contributes to expanded social agreement for active forest management.*
+
+| National Priority 1. Conserve Working Forest Landscapes |  |  |  |
+| --- | --- | --- | --- |
+| Objective 1.B. Forests are actively and sustainably managed |  |  |  |
+| OPPORTUNITY OPPORTUNITY OPPORTUNITY | GOAL GOAL GOAL | STRATEGY STRATEGY STRATEGY | PROGRAMS PROGRAMS PROGRAMS |
+| Reducing market barriers for wood products may result in landowner ability to use wood products to offset stand management costs. Increase active management practices that reduce forest fuels as a means to change the severity and extent | Increase forest area restored by expanding wood product revenues and cross-boundary efficiencies to augment cost share programs. Restore disturbance resistant and resilient forests, manage ecosystem health | Support of fuels reduction work through programs that promote assistance and Prioritize cross-boundary projects by landscape priority and need across ownership. management of fuels on private lands and create benefits to Federal land. Manage across ownership boundaries recognizing that wildfire, wildlife habitats, Seek shared values and marketable restoration byproducts to reduce project costs. streams, and forests span across public and private lands. Strive for neutral stand treatment costs by offsetting restoration costs with wood Prioritize risk at the local and statewide level utilizing Wildfire Plans and scientific product revenue, non-timber products, and ecosystem services. Collaborate with the forest products industry to leverage the sale of marketable products, encourage growing utilization of forest residues, and offset non-commercial treatment costs of restoration through cost share programs. data. Pursue opportunities to maintain and promote industry that supports forest restoration. Leverage federal, local, and state agency partnerships toward holistic forest | IWP, WSFM, n-FWUI, LSR, FSP, FFR GNA, S2, JCLRP, NRCS, WydenA WSFM, n-FWUI, SFA, LSR, FSP, FFR, GCWFR |
+| of wildfire, keeping consistent with the environmental purposes of forestlands while | toward fire adapted landscapes, and protect life and property. | management outcomes. Seek landscape scale impacts, addressing both forest health and fuel reduction activities. | GNA, S2, JCLRP, NRCS, NCWFS, WydenA |
+| addressing wildfire risk. |  |  |  |
+|  |  | Manage across ownership boundaries recognizing that wildfire, wildlife habitats, |  |
+|  |  | drinking water source areas, streams, airsheds, and forests span across public and |  |
+|  |  | private lands. Share the responsibility of preparing communities for fire and reducing the risk of Seek innovation in how budgets, programs, processes, agreements, and planning high severity wildfire. can best function on a scale proportionate restoration needs of Oregon's |  |
+|  |  | forestlands. |  |
+| Shared Stewardship, FFR and GNA create a framework for restoration of Oregon's federally owned or managed forestlands. Disturbances to forests occur across ownerships boundaries. | Increase active management of federal lands to improve the pace, scale, and quality of restoration of Oregon federal Integrate All Lands management strategies to address cross-boundary issues. forests. | Forest Service Engage with local communities on forest restoration, fire, smoke impacts, and NEPA-ready projects. Seek new opportunities to leverage state and federal programs to accomplish work across boundaries. Re-introduce low to moderate intensity prescribed fire as a tool for improving ecological health across public and non-industrial private lands. Prescribed fire will also benefit fuels mitigation and reduce impacts to the landscape during severe wildfire events. Seek partnerships that grow public awareness and social license to address problems at large. safety to increase understanding and to gain stakeholder support for increased Address ecosystem health and management by identifying common priorities of forest restoration and use of fire as an ecological process. fuels reduction, forest health, disturbance resistance/resilience, and water and air | LSR, FFR, n-FWUI, SFA, GCWR GNA, NCWFS, S2, FFR, LSR, WSFM, n-FWUI, FHP, FSP, HCP GNA, NCWFS, S2, JCLRP, NRCS, WydenA JCLRP, WydenA |
+|  |  | quality. |  |
+
+[/TABLE]
+
+[TABLE]
+*National Priority 2. Protect Forests from Harm Objective 2.A. Fire-adapted lands are restored and risk of wildfire impacts is reduced Objective 2.B. Threats to forest and ecosystem health are identified, managed, and reduced*
+
+| OPPORTUNITY OPPORTUNITY | GOAL GOAL | STRATEGY STRATEGY | PROGRAMS PROGRAMS |
+| --- | --- | --- | --- |
+|  |  | Provide financial and technical assistance to rural fire departments and Rangeland Survey and monitoring of insects and disease is essential to the management of |  |
+| Raising public |  | Associations. forest stand health. |  |
+| awareness of wildfire response system needs creates additional opportunities to raise capacity in fire protection. The Governor's Wildfire Council on Wildfire Response is seeking long-term solutions to address increasing costs of catastrophic wildfire. Pathologic: Sudden Oak Death, Swiss Needle Cast, and root diseases all pose threats to Oregon's forests and have lasting impacts to forest health and composition. Climate change adds stress to trees, resulting in the raising of some forest pests from lower | Raise capacity in fire suppression and response activities locally and statewide. Increase the agency capacity to carry out wildfire preparedness, prevention, Manage pests, disease, and insect outbreaks on a Landscape Scale. mitigation, suppression, and post-disturbance restoration. Manage forests using silvicultural practices that minimize forest impacts from native | Utilize Mutual Aid Agreements and coordinated training and exercises to create Practice appropriate eradication and "slow the spread" actions in response to the efficiencies. Use risk and needs assessments to prioritize allocation of funding. Collaborate with local responders statewide to increase readiness, responsiveness, and capacity at all levels. Utilize the SFA program to improve state and local capacity for a complete and coordinated protection system. Explore policy option packages and legislative opportunities that increase prevention and suppression capability. current strains of SOD present and monitor for any changes. Keep SOD out of Coos County in the near term. Minimize the spread for lowest possible impact to the natural and economic system of the south coast and beyond. Collaborate on resistance testing of tanoak and the possibility of increasing genetic screening and management to ensure the long-term existence of this ecologically and culturally important species on the Oregon south coast. Incorporate insect, disease, and abiotic factors into work priorities on cross-boundary work through GNA, FFR, LSR, Shared Stewardship, BLM, and NRCS, etc. Practice multi-agency coordination to achieve collaboratively identified priorities across the forest landscape. Promote management objectives and practices that seek to achieve the highest level of healthy forests. Encourage utilization and application of appropriate species in appropriate places to reduce pathogen impacts. Promote the inclusion of insects, diseases, and abiotic factors in large-scale management planning. Encourage forest and stand management to lessen losses from forest diseases, insects, and abiotic factors. | SFA, VFA, WSFM, n-FWUI LSR, GCWR NCWFS, S2 FHM, SOD, FSP, FFR GNA, S2, JCLRP, NRCS, WydenA, BLM, LSR, NRCS SFA, VFA, WSFM, n-FWUI, LSR, FFR, GCWR GNA, S2, NCWFS FSP, SNTI, BBM; FH; FSP, LSR, WSFM, n-FWUI, FFR, CCMA |
+| to higher status. | diseases and insects. | Utilize the best available science to inform management practices. | S2, GNA, JCLRP, |
+|  |  | Partner with universities and other agencies on outreach and education. | NRCS |
+|  |  | Support timely and effective landowner treatment through cost share and TA. |  |
+|  |  | Address any new invasions through EDRR and applicable planning efforts. |  |
+|  |  | Support continual collaboration and enhancement of EDRR systems. |  |
+| Important forest and agriculture damaging pests and species continue to be introduced into the state. | Improve Early Detection and Rapid Response for new invasive species and noxious weeds | Coordinate with ODF's state level partners, USFS and APHIS, and all available invasive species organizations that exist for a full sector management and response if and when a new invasive arrives. Assist in ongoing prioritization of existing invasive species to inform response efforts. Maintain membership on OISC. | SOD, FHM, UCF, LSR, WSFM, n-FWUI S2, GNA, JCLRP, NRCS |
+|  |  | Utilize Integrated Pest Management such as biocontrol and reduction of pesticide |  |
+|  |  | use, along with other methods of control and exclusion. |  |
+
+[/TABLE]
+
+[TABLE]
+*National Priority 2. Protect Forests from Harm Objective 2.B. Threats to forest and ecosystem health are identified, managed, and reduced*
+
+| OPPORTUNITY | GOAL | STRATEGY | PROGRAMS |
+| --- | --- | --- | --- |
+|  |  | Coordinate with state, federal, and all available invasive species organizations. |  |
+|  |  | Apply full sector management and response for invasive species management |  |
+|  |  | including IPM. |  |
+|  |  | Apply the best available science and innovate to accomplish these goals. |  |
+|  |  | Practice appropriate EDRR and IPM efforts across agencies and land ownership |  |
+|  |  | types. |  |
+| Communities along the |  | Sustain Oregon Forest Pest Detector training and add new modules as opportunity |  |
+| Columbia River, on the |  | allows. |  |
+| eastern and southern | Increase community |  |  |
+| edges of Oregon, and | and statewide | Target training toward landscape contractors and local arborists. | SOD, FHM, UCF, |
+| along the Oregon coast are key ports of entry for a variety of invasive | preparedness, including rapid response protocol | Use tree mapping, inventory tools and data to improve understanding of UCF resources. | LSR S2, JCLRP, NRCS |
+| insects, especially | when pests are | Use topical webinars and videos to alert communities to threats. |  |
+| Emerald Ash Borer, | detected. |  |  |
+| Asian/Citrus long-horned beetle. |  | Seek innovative tools and approaches to improve the impact of outreach. |  |
+| Diversity of tree species lessens the risk of catastrophic demise of urban forests. | Optimize tree diversity in and around communities. | Provide technical assistance on tree selection and balancing tree species mix. Use tree mapping and inventory tools and data to help cities better plan and manage their UCF resource. Promote and support the Arbor Day Foundation's recognition programs such as | UCF, LSR NRCS |
+|  |  | Tree City USA, Tree Campus USA, and Tree Line USA. |  |
+
+[/TABLE]
+
+[TABLE]
+*National Priority 3. Enhance Public Benefits from Trees and Forests Objective 3.A. Water quality or quantity is protected or enhanced*
+
+| OPPORTUNITY | GOAL | STRATEGY | PROGRAMS |
+| --- | --- | --- | --- |
+| The loss of forestland to other land uses directly reduces the amount of forested watersheds, which impacts water quality and quantity. | Promote the maintenance of forestland currently in forest uses, and promote the establishment of new forests. | Maintain forest cover and connectivity within rural-urban forest areas. Scale the use of Forest Legacy Program and other conservation programs in order to protect forestlands and their benefits. Assist family forestland owners in planning and management of forests. | FSP, FLP, UCF, LSR, S2, JCLRP, NRCS, |
+|  |  | Promote mitigation, suppression and post-disturbance restoration and active |  |
+|  | Reduce significant | vegetation management to reduce long-term risks to soil and water quality. |  |
+| We can restore and maintain disturbance resistant and resilient landscapes and watersheds. | negative post-disturbance impacts: sediment deposition and streamflow, altered condition of forest soils and the | Re-introduce low to moderate intensity fire as a key ecological process with first entry prescribed fire across public and non-industrial private lands. Manage across ownership boundaries recognizing that wildfire, wildlife habitats, streams, drinking water source areas, airsheds, and forests span across public and private lands. Assist communities adapting to wildfire. | FSP, LSR, WSFM, n-FWUI, EFRP, FFR, GCWR S2, GNA, JCLRP, NRCS, FEMA |
+|  | watershed. | Develop coordinated and collaborative management for post-wildfire repair, |  |
+|  |  | rehabilitation, and restoration activities. |  |
+|  | Mitigate the adverse |  |  |
+|  | impacts of increased | Build capacity across all Oregon communities to plan for their water future. |  |
+|  | air temperatures, |  |  |
+| Forest management practices and approaches | changing precipitation patterns, and sea | Facilitate strategic water investments through local, regional, state, and federal partnerships. | FSP, LSR, FFR |
+| can be modified to improve adaptation to climate change. | level rise for Oregon's water resources- | Assist with climate change adaptation and resiliency strategies. | S2, GNA, JCLRP, NRCS, |
+|  | wetlands, estuaries, |  |  |
+|  | lakes, rivers, streams, and ground water. | Increase water conservation and efficiency efforts and strengthen the resiliency and structural diversity of riparian areas, forestlands, wetlands, and floodplains. |  |
+
+[/TABLE]
+
+[TABLE]
+*National Priority 3. Enhance Public Benefits from Trees and Forests Objective 3.A. Water quality or quantity is protected or enhanced*
+
+| OPPORTUNITY | GOAL | STRATEGY | PROGRAMS |
+| --- | --- | --- | --- |
+| Underinvestment in built and natural infrastructure: people, fish, and wildlife are vulnerable to health risks. | Support resilient built and natural infrastructure that provides cool and clean water across all Oregon watersheds. | Expand state agency coordination. Support the Governor's 100-year water vision. Increase community understanding, provide leadership, and help solve urban natural resource issues concerning: green infrastructure and ecosystem management; urban-rural interface issues such as forest practices, growth management, and wildland fire, hazard tree, and tree risk management. | UCF, FSP, LSR, FPA S2, GNA, JCLRP, NRCS |
+|  |  | Compliance auditing and effectiveness monitoring of the Oregon Forest Practices |  |
+| Support of Forest Practices Act and other water quality protection efforts can, ensure that water flowing from forestlands is of high quality. | Monitor and research water quality and best management practices for forestlands. | Act water protection rules with respect to their role as best management practices designed to meet Oregon's water quality standards for temperature, sediment, turbidity, drinking water provision, biocriteria, and toxic compounds. Support long-term (>15 years post-harvest) paired watershed studies throughout Oregon that evaluate the environmental effects on water and fish of contemporary forest management practices now in use on younger intensively managed forests. Gain compliance through the Forest Practice Act throughout Oregon, including in urban and urbanizing areas. | FPA, FSP FPA, OWEB UCF |
+|  |  | Provide technical and financial assistance in management planning. | FSP, LSR |
+|  |  | Coordinated resource management planning one stop web-based tool kit that |  |
+|  |  | meets agricultural, forestry, drinking water, and fish and wildlife management |  |
+| Forest riparian and |  | planning requirements (e.g., core template, add-ons templates by resource |  |
+| wetland conditions on agricultural and rangelands affect water quality downstream of | Improve water quality throughout the aquatic system. | emphasis, GIS plan development, and tracking tools). Steer cost share programs to address specific water quality protection measures such as restoring geomorphological stream functions, riparian forest conditions, wetlands and off-channel habitats on agricultural, range, and private family | FSP S2, EQUIP, CRP, |
+| forestlands. |  | forestlands. | CREP |
+|  |  | Utilize partnerships with ODA, ODFW, USDA, OWEB, DEQ, USFWS, watershed |  |
+|  |  | councils, and other groups in order to maintain water quality beyond forestland | UCF |
+|  |  | boundaries. |  |
+
+[/TABLE]
+
+[TABLE]
+*National Priority 3. Enhance Public Benefits from Trees and Forests Objective 3.A. Water quality or quantity is protected or enhanced*
+
+| OPPORTUNITY | GOAL | STRATEGY | PROGRAMS |
+| --- | --- | --- | --- |
+| Interagency coordination for monitoring forest pesticide use effects on water quality. | Improve interagency coordination of monitoring by expanding capacity and capability to inform decision-making. | Update the 1995 Memorandum of Agreement between the Oregon Department of Forestry and the Oregon Department of Agriculture regarding the regulation of pesticide use on state, private, and local government forestlands. Develop Pesticide Stewardship Partnerships to: monitor current use forest pesticides in surface waters; identify streams with elevated pesticide concentrations, and sources of pesticide inputs; develop and implement voluntary best management practices to correct problems; conduct following monitoring to measure results with respect to water quality improvements. | FSP, FPA S2 |
+| Tree canopy in urban/urbanizing areas can support water quality and waterways for the benefit of aquatic and riparian species, | Increase urban water quality and waterways by improving urban tree canopy and riparian areas. | Ongoing partnership and technical assistance to supports Best Management Practices of maintaining riparian buffers and tree cover during and after development, reducing pollution, and meeting water quality standards, including implementation of Total Maximum Daily Loads. Seek innovative approaches and tools to assist city planners. Use innovative outreach to link canopy cover and runoff mitigation to local quantifiable changes in downstream water quality, livability, and salmonid health. | UCF, LSR, FPA S2, NRCS |
+| urban livability, and salmonid health. | Mitigate effects of stormwater and flooding. | Promote Low Impact Development strategies that rely on trees as green infrastructure to reduce flooding and stormwater in city sewer systems. |  |
+
+[/TABLE]
+
+[TABLE]
+*National Priority 3. Enhance Public Benefits from Trees and Forests Objective 3.B. Air quality is improved or energy is conserved*
+
+| OPPORTUNITY | GOAL | STRATEGY | PROGRAMS |
+| --- | --- | --- | --- |
+|  | Maximize urban and | Adhere to the current Urban and Community Forestry Assistance Program goals, |  |
+|  | community forest | objective, and strategies. |  |
+|  | impacts on air quality | Provide ongoing support and technical assistance to cities in Best Management |  |
+|  | and energy | Practices of tree planting, pruning, and ongoing care specific to the challenges of |  |
+| Urban and community | conservation. | underserved populations and communities. |  |
+| forests support improved air quality and energy |  | Use tree mapping and tree inventory software/apps to allow cities a better understanding of their UCF resource. | UCF, SM, CCMA |
+| conservation. |  | Canopy city parks and riparian corridors with tree species known to be most |  |
+|  |  | effective at capturing particulate matters. |  |
+|  |  | Connect cities to opportunities or incentives to increase the breadth of existing |  |
+|  |  | public or utility owned forest stands within city limits (e.g. in parks, under power |  |
+|  |  | line corridors, along rivers). |  |
+|  |  | Ongoing support and technical assistance to cities in Best Management Practices of |  |
+| Tree canopy in urban/urbanizing areas improves air quality and human health of city residents. | Increase healthy tree canopy in and around all Oregon cities. | tree planting, pruning, and ongoing care. Support networks and training for UCF professionals, nonprofits and other partners. Provide outreach to public health community that describes health benefits of trees in urban and rural communities. Promote Arbor Day Foundation and Friends of Trees outreach programs. Use existing tree mapping and tree inventory software to allow cities a better | UCF |
+|  |  | understanding of their UCF resource. |  |
+| Well-placed trees can | Decrease energy use | Work with OSU extension outreach, and possibly statewide energy utilities. |  |
+| reduce energy needs for | through well-sited | Provide materials that help community residents understand how to site trees | UCF |
+| heating and cooling. | trees around buildings. | around their homes and community buildings for optimal heating and cooling. |  |
+|  |  | Manage across ownership boundaries recognizing that wildfire, wildlife habitats, |  |
+|  |  | streams, and forests span across public and private lands. |  |
+|  |  | Re-introduction of low to moderate intensity fire as a key ecological process with | UCF, FSP, FFR, |
+| Forests can mitigate smoke impacts and improve air quality. | Reduce the impacts of smoke on air quality through forest management. | first entry prescribed fire across public and non-industrial private lands. Engage with local communities on forest restoration, fire, smoke, and safety to increase understanding and to gain stakeholder support for increased forest restoration and use of fire as an ecological process. | LSR, WSFM, n-FWUI, FFR S2, GNA, |
+|  |  | Promote collaboration between local and Tribal Public Health Authorities, | WydenA |
+|  |  | vulnerable populations, vegetation managers, and prescribed burners, to develop |  |
+|  |  | community response plans for smoke. |  |
+
+[/TABLE]
+
+[TABLE]
+*National Priority 3. Enhance Public Benefits from Trees and Forests Objective 3.C. Communities plan for and reduce their risks from wildfire*
+
+| OPPORTUNITY | GOAL | STRATEGY | PROGRAMS |
+| --- | --- | --- | --- |
+|  |  | Maintain and update Community Wildfire Protection Plans and support other state |  |
+|  |  | and local planning efforts. |  |
+|  |  | Utilize most up-to-date and appropriate wildfire risk data to inform planning and |  |
+|  |  | prioritization efforts. |  |
+|  |  | Promote defensible space principles in all fuel mitigation and outreach programs. |  |
+| Support the cohesive approach to wildfire planning, monitoring, and plan implementation. | Communities plan for and reduce their risk from wildfire-address risk of loss to life, homes, and property. | Communicate universal defensible space guidelines applicable to programs across the board. Update risk assessment data every 5 years with the most current data available. Improve data sharing, share risk assessment data and prioritization through online portals such as the Oregon Wildfire Risk Explorer and/or other online resources to assist in awareness, planning, and development. | FSP, WSFM, n-FWUI, FFR, LSR, GCWR, SFA, VFA S2, NCWFS, GNA, JCLRP |
+|  |  | Include climate change modeling, prescribed fire live burns, WUI, and Communities |  |
+|  |  | at Risk data into OWRE to assist landowners and planners in understanding a |  |
+|  |  | framework for their risk. |  |
+|  |  | Seek innovative datasets and models of risks and needs that can improve decision- |  |
+|  |  | making and understanding. |  |
+|  |  | Capitalize on outreach and information dissemination during wildfire season, when |  |
+|  |  | attention is high. |  |
+|  |  | Seek projects that use innovative approaches for outreach and education. |  |
+|  |  | Seek partnerships to spread important messages across diverse groups. |  |
+| Public awareness creates |  | Conduct inspections, demonstration projects, fire safe groups, implement | SFA, VFA, FSP, |
+| an opportunity to expand | Communities plan | defensible space principles training, and educate homeowners to provide a safer | WSFM, FFR, LSR, |
+| outreach and education | for and reduce their | environment for defending homes and structures. | GCWR |
+| around wildfire | risks from wildfire. | Create collaboration with fire departments and build partnerships to expand |  |
+| prevention. |  | readiness and capacity. | NCWFS, S2, GNA, |
+|  |  | Promote the Firewise USA program and assist communities in gaining Firewise USA |  |
+|  |  | recognition. |  |
+|  |  | Support the protection of drinking water sources and fish and wildlife habitat |  |
+|  |  | through wildfire prevention outreach. |  |
+
+[/TABLE]
+
+[TABLE]
+*National Priority 3. Enhance Public Benefits from Trees and Forests Objective 3.C. Communities plan for and reduce their risks from wildfire*
+
+| OPPORTUNITY | GOAL | STRATEGY | PROGRAMS |
+| --- | --- | --- | --- |
+| The increase in frequency | Stable funding mechanisms are in place to support | Explore and pursue improvements to the structure and funding of the Oregon Department of Forestry's budget. |  |
+| and severity of wildland fires has outpaced funding for wildfire mitigation, | high performing fire protection, mitigation, and | Seek legislative remedies and opportunities to create efficiency and increase funding. | GCWR, SFA, VFA S2, FEMA, NCWS |
+| suppression, and recovery. | recovery efforts at a scale that meets need. | Strategic outreach can build synergy and scale around planning and selection of projects for competitive funding. |  |
+|  |  | Utilize biomass opportunities to develop end use markets for small diameter trees, |  |
+| Wildfire mitigation, | Develop a variety of | slash, and other forest residue as a means to encourage fuels management |  |
+| suppression, and | end use markets for | activities. | BU, LSR |
+| recovery provide | forest products and | Pursue options of BioChar, torrified products, cross-laminated timber, chipping, and |  |
+| opportunities for forest | environmental | firewood as possible opportunities for fuels management and end use markets for | S2, JCLRP |
+| product utilization. | services. | forest products. Engage other state and federal partners to maximize opportunities. |  |
+|  |  | Foster a biomass industry that scales in tandem with forest restoration efforts. |  |
+|  |  | Provide technical and financial assistance in Community Wildfire Protection |  |
+|  |  | Planning. |  |
+| Community planning and action can reduce wildfire risks | Assist farm, ranch, and family forest landowners in their management of wildfire risk. | Promote defensible space programs and principles. Support fire departments and rangeland associations through training, collaborative planning, and providing equipment. Use technical and financial assistance to support forest management and planning practices. Support the protection of drinking water sources and fish and wildlife habitat | WSFM, n-FWUI, SFA, VFA, LSR, GCWR, FFR NCWFS, S2, GNA, NRCS |
+|  |  | through wildfire prevention outreach. |  |
+|  |  | Pursue legislative opportunities that support community wildfire risk reduction. |  |
+| Planning and building fire-adapted communities can mitigate wildland fire risk in the WUI. | Planning for fire-adapted communities occurs during the planning stage of development. | Provide training targeted to city planners and associated disciplines at biennial fire prevention training conference on how to plan for fire-adapted communities both in cities and in the WUI. | WSFM, n-FWUI, VFA, UCF, LSR, GCWR, FFR NCWFS, S2, GNA |
+
+[/TABLE]
+
+[TABLE]
+*National Priority 3. Enhance Public Benefits from Trees and Forests Objective 3.D. The economic benefits and values of trees and forests are maintained or enhanced.*
+
+| OPPORTUNITY | GOAL | STRATEGY | PROGRAMS |
+| --- | --- | --- | --- |
+| Innovative use of forest products in building materials creates new demand and a new forest sector dynamic. | Forests provide renewable, low-carbon building alternatives. | Support development of information on the environmental performance, sustainability, and carbon impacts of Oregon's forests to mass timber stakeholders. BU, SWET, IWP, FSP, LSR, FFR Support research and development to use restoration byproducts in mass timber construction products. S2, GNA, JCLRP Support production, utilization, construction and research to develop additional mass timber product manufacturing in Oregon. |  |
+|  |  | Raise awareness with partner agencies, communities and stakeholders of |  |
+| Low-carbon bio-energy fossil fuel alternatives offer benefits that support utilization. | Maximize understanding of the benefits of low-carbon products from forests. | opportunities. Partner with economic development agencies to ensure adequate infrastructure necessary for competitiveness in global markets. Develop and disseminate information on the environmental performance, renewability, and carbon impacts of Oregon's forests on low-carbon products like biofuel, export pellet, and wood-fired electricity. | BU, IWP, SWET, FSP, LSR, FFR S2, GNA, JCLRP |
+|  |  | Utilize research partnerships to ensure accuracy of information. |  |
+|  | Increase demand for | Evaluate opportunities associated with forest residues and small diameter material |  |
+| There is market potential for forest residues and small diameter material. | low value biomass to provide outlets for forest management and fuels reduction. | to inform stakeholders, market members, and new entrants. Support research and development to identify improvements and challenges in utilizing and processing biomass, as well as viable opportunities for low value wood products. | BU, IWP, SWET, FSP, LSR, FFR S2, GNA, JCLRP |
+| Markets can be developed for forest products to support landscape scale fuels | Offtake support to high priority fuels reduction and | Link market development efforts with priority landscape treatments. Raise awareness of potential business development opportunities in priority landscapes. | BU, IWP, WSFM, n-FWUI, SWET, FSP, LSR, FFR |
+| reduction and forest restoration. | restoration areas. | Support entrepreneurs and decrease risk of biomass based businesses and commercial ventures. | S2, GNA, JCLRP |
+| Forest Sector Entrepreneurship. | Improve availability and awareness of entrepreneurship resources. | Leverage available funding to amplify impacts. | BU, IWP, FSP, SWET, FFR, GNA, LSR |
+
+[/TABLE]
+
+[TABLE]
+*National Priority 3. Enhance Public Benefits from Trees and Forests Objective 3.D. The economic benefits and values of trees and forests are maintained or enhanced.*
+
+| OPPORTUNITY | GOAL | STRATEGY | PROGRAMS |
+| --- | --- | --- | --- |
+| Information on emerging wood utilization opportunities is not readily available to forest landowners. | Increase forest landowners and industry participants' awareness of emerging opportunities. | Develop and disseminate information on market opportunities, technology, and novel business approaches. Provide technical assistance to forest landowners, stakeholders, and entrepreneurs relative to resource and markets. | FSP, IWP, SWET, FFR S2, GNA |
+| Oregon's Forest Products infrastructure can be updated and improved. | Increase the pace and scale of modernization of Oregon's Forest Products | Collaborate with economic development agencies and industry to support modernization efforts. Promote and support investment and development of sector infrastructure. | BU, IWP, SWET, FFR S2, GNA |
+|  | infrastructure. |  |  |
+| When cities recognize |  |  |  |
+| the opportunities | Strategic Market |  | BU, SWET, IWP, |
+| available in urban wood | development for | Explore possibilities for urban wood utilization and support interest in developing | UCF, LSR |
+| utilization, removed trees | urban wood | urban wood cooperatives and marketing. |  |
+| begin finding new use in | products. |  |  |
+| specialty wood markets. |  |  |  |
+
+[/TABLE]
+
+[TABLE]
+*National Priority 3. Enhance Public Benefits from Trees and Forests Objective 3.E. Wildlife or fish habitat are protected, conserved or enhanced*
+
+| OPPORTUNITY | GOAL | STRATEGY | PROGRAMS |
+| --- | --- | --- | --- |
+|  |  | Support and align Oregon Conservation Strategy on a state and federal level. |  |
+| Conservation resources | Leverage conservation efforts | Increase coordination between states to address issues of common concern. Involve citizens in conservation through REI and other programs. Promote the ecosystem services provided by conserving fish and wildlife habitats | FFR, FSP, FLP, LSR, FLA, FFR, REI |
+| are limited. | to protect natural resources. | and protecting drinking water sources. Demonstrate and highlight Oregon's commitment to conserve its species and habitats. | S2, NRCS, LWCF, JCLRP |
+|  |  | Safeguard how healthy ecosystems contribute to Oregon's high quality of life. |  |
+|  | Ensure active | Foster understanding of the importance of Oregon's forests habitat along streams, |  |
+| Connected urban and | management of | wildlife corridors, parks, and other open space. | UCF, FSP, FHM |
+| rural forest cover can support critical wildlife | forests to enable connectivity and | Support conservation and management of green space and corridors. | S2, NRCS, LWCF, |
+| habitat. | preservation of critical habitat. | Support inventory, planning, tree care, management, and monitoring. | JCLRP |
+|  |  |  | HCP, FSP, SOD, |
+| Maintain and enhance important fish and wildlife habitats on forestland and riparian ecosystems. | Conservation actions from private family forestlands are consistent with regional and statewide conservation plans. | Promote understanding and compliance with the Forest Practices Act. Seek innovation in Habitat Conservation Plan development. Encourage the use of incentive programs to achieve conservation outcomes on private forestlands. | FHM, LSR, WSFM, n-FWUI, FLP, UCF, WBB, FPA. FFR, OWEV S2, RCPP, CRP, EQUIP |
+| Fragmentation of the landscape increases the need for common management goals and practices that protect critical wildlife habitat and resistance to stand replacement wildfire. | Improve conservation outcomes on private forestlands. | Effective administration, educational assistance, enforcement, and landowner recognition of Oregon Forest Practices Act resource protection measures. Seek common goals for wildlife and habitat on a landscape scale. Encourage retention of post-disaster biological legacies crucial to fish and wildlife (e.g. standing and downed dead wood, surviving trees) and judicious use of salvage practices to prevent further resource damage. NRCS statewide agreement and partnership such as AFF sub-recipient agreement for management plan development. | FHM, FSP, FLP, SFA, LSR, WSFM, FPA EFRP, CRP, CREP, JCLRP, VFA, n-FWUI, S2 |
+
+[/TABLE]
+
+[TABLE]
+*National Priority 3. Enhance Public Benefits from Trees and Forests Objective 3.E. Wildlife or fish habitat are protected, conserved or enhanced*
+
+| OPPORTUNITY | GOAL | STRATEGY | PROGRAMS |
+| --- | --- | --- | --- |
+|  | Improve data | Conduct a voluntary measures survey to identify improvements made to aquatic, |  |
+| Maintain and improve programs that support voluntary conservation actions. | management, coordination, and sharing among various conservation partners to support voluntary | riparian, and upland habitat, as well as roads and stream crossings under the Oregon Plan for Salmon and Watersheds. Determine the types of voluntary measures that are most frequently implemented. Identify barriers to implementation/reporting. | FSP, LSR S2, CRP, CREP, CIG, AFF |
+|  | conservation. | Share success stories of voluntary measures on forestlands in Oregon. |  |
+| Innovative conservation | Enhance ecosystem conservation through | Participate in the development of innovative, market-based, ecosystem services programs. | BU, FLP, CCMA |
+| mechanisms can support the ecosystem. | ecosystem services markets. | Collaborate across state drinking water programs and public water systems to fund forest protection, conservation management, and restoration. | S2, LWCF, CFLRP |
+|  |  | Provide technical and financial assistance in forest fire protection and fire use |  |
+|  |  | planning. |  |
+|  |  | Gain compliance with the FPA through an effective balance of science and |  |
+|  |  | technology-based rules, incentives, educational and technical assistance, and |  |
+|  |  | uniform enforcement. |  |
+|  |  | Use education and outreach to help landowners meet their objectives and comply |  |
+|  |  | with the rules. |  |
+|  |  | Use compliance audit data to demonstrate how well forest operators are complying |  |
+|  |  | with the rules, and to indicate the implementation of the Forest Practices Act across |  |
+| Preventing stand replacement wildfire can prevent the loss of critical fish and wildlife habitat. | Maintain and enhance important fish and wildlife habitats on forestland and riparian ecosystems. | the landscape. As new rules are developed and new operators/landowners become active, ODF's foresters will work with landowners, operators, and educational partners to support a high level of compliance. Seek cross-boundary cross-resource approaches to conservation. Utilize mixed funding, resources, and agreements to maximize treatment areas. | LSR, FFR, SFA, VFA, n-FWUI, WSFM S2, JCLRP, GNA |
+|  |  | Seek innovative approaches and authorities to streamline efforts to restore forests. |  |
+|  |  | Periodic and regular review of additional BMPs and rules to include in the audit. |  |
+|  |  | Conduct long-term (>15 years post-harvest) paired watershed studies throughout |  |
+|  |  | Oregon that evaluate the environmental effects on water and fish of contemporary |  |
+|  |  | forest management practices now in use on younger intensively managed forests. |  |
+|  |  | Seek comprehensive support for private NIPF landowners post fire. Conduct fire area |  |
+|  |  | rehab, including downstream stakeholders. |  |
+|  |  | Support landowners dealing with a dramatically changed landscape due to the |  |
+|  |  | impacts of wildfire damage. |  |
+
+[/TABLE]
+
+[TABLE]
+*National Priority 3. Enhance Public Benefits from Trees and Forests Objective 3.E. Wildlife or fish habitat are protected, conserved or enhanced*
+
+| OPPORTUNITY | GOAL | STRATEGY | PROGRAMS |
+| --- | --- | --- | --- |
+|  |  | Develop forest management actions consistent with geomorphologic and ecological |  |
+|  | Increase the pace, | processes, such as flooding and landslides that result in desired aquatic habitats. |  |
+| Disturbance is beneficial to upland and aquatic habitats in resilient forest ecosystems. | scale, and quality of forest restoration work to improve the resilience of federal forests managed by the Forest Service and | Plan, conduct, and monitor landscape scale thinning, slash treatment, prescribed burning, and other treatment projects on private and public lands to restore the role of wildfire in forest ecosystems and to improve forest health and resiliency. Encourage retention of post-disaster biological legacies crucial to fish and wildlife (e.g. standing and downed dead wood, surviving trees) and adhere to FPA to prevent further resource damage. | FFR, TASS, PACE, LSR, WSFM, FLP GNA, S2, JCLRP |
+|  | BLM across Oregon. | Use the FFR, GNA, TASS, and PACE programs to accomplish work across ownerships |  |
+|  |  | and align management toward Shared Stewardship of ODF priorities. |  |
+
+[/TABLE]
+
+[TABLE]
+*National Priority 3. Enhance Public Benefits from Trees and Forests *
+
+| Objective 3.F. People are connected to trees and forests and are engaged in environment |  |  |  |
+| --- | --- | --- | --- |
+|  | stewardship activities |  |  |
+| OPPORTUNITY | GOAL | STRATEGY | PROGRAMS |
+| Active tree advisory councils or commissions can help promote best management practices in urban tree care. | Increase the number of communities that create community forestry advisory committees. | Provide resources to enhance tree advisory committee effectiveness, such as Tree Board University. Encourage participation in Tree City USA program and related recognition programs. | UCF, LSR |
+| Underserved urban and rural populations that connect stewardship of their community forests to meeting their needs are most likely to engage in urban forest stewardship activities. | Increase underserved community and rural community engagement in stewardship of their community forests. | Facilitate forums and opportunities for underserved communities to express their needs prior to engaging in community forest stewardship. Target Oregon Forest Pest Detector, community tree mapping training in underserved and rural communities to enhance community engagement with their community trees. Target training opportunities for becoming an ISA certified arborist or related credential to underserved/rural residents. Provide financial incentives for arborists in target areas to attend annual urban forestry conference or PNW-ISA's annual training conference. | UCF, LSR |
+| Community members | Enhance Recreation, |  | REI, LSR, FLP, FFR |
+| that use and | Education, and |  |  |
+| understand the | Interpretation | Refer to Oregon Statewide Comprehensive Oregon Recreation Plan for related | S2, LWCF |
+| benefits of forests can | opportunities to | strategies. |  |
+| be advocates for | increase public |  |  |
+| forests. | benefit. |  |  |
+|  | Increase |  | LSR, |
+| Great American Outdoors Act fully funds LWCF and creating conservation resources. | opportunities for people to connect to trees and forests and engage in stewardship environmental | Leverage ODF's Recreation, Education and Interpretation program on state lands and Tillamook Forest Center. activities in order to validate their effectiveness. Integrate success/outcome measures into outreach, education and interpretation | LWCF LSR, WSFM, n-FWUI |
+|  | activities. |  |  |
+
+[/TABLE]
+
+[TABLE]
+*National Priority 3. Enhance Public Benefits from Trees and Forests Objective 3.G. Trees and forests are managed and restored to help mitigate or adapt to changing conditions*
+
+| OPPORTUNITY | GOAL | STRATEGY | PROGRAMS |
+| --- | --- | --- | --- |
+| Increase the amount of private forestland in carbon offset markets. | Increase technical assistance and outreach related to carbon sequestration and storage in private forestlands. | Develop capacity and administer ORS 526.700 the Forest Resource Trust to provide assistance to private and local government forestland owners for stand establishment, improved forest management, habitat, water quality, and marketing carbon offsets. Provide forest inventory and carbon estimation assistance to private forestland owners enrolled or interested in enrolling in carbon offset markets through the Forest Resource Trust. | LSR, GCWR, CCMA S2 |
+| Tree growth, climate and atmospheric carbon enrichment are interrelated. | Optimize carbon sequestration in trees and forests. | Seek improved understanding of future climate impacts related to net carbon uptake (CO2 fertilization) in order to adapt management practices to optimize future outcomes. | LSR, GCWR, CCMA S2 |
+|  |  | Identify regions vulnerable to increased suitability of large wildfires and allocate |  |
+|  |  | protection resources accordingly. |  |
+|  |  | Adapt forest management strategies to account for expected increases in large |  |
+|  |  | wildfire potential. |  |
+|  |  | Adapt forest management strategies for priority areas to mitigate potential loss, and |  |
+|  |  | integrate restoration practices that increase the resistance to the loss of forest |  |
+| Many forests lack the resilience to withstand climate change and wildfires. large high-intensity | climate change. of fire related to frequency/intensity Increase forest resiliency and increased degradation from prevent forest | productivity. Manage at the | CWS S2, GNA, JCLRP, CCMA, GCWR FHM, BBM, FFR, FSP, UCF, WSFM, n-FWUI, LSR, |
+
+[/TABLE]
+
+[TABLE]
+*scale appropriate with the resource and management challenge. Manage across ownership boundaries recognizing that wildfire, wildlife habitats, streams, and forests span across public and private lands. Cooperatively identify the priority, location, and boundary of focused project areas for landscape level cross-boundary restoration. Engage with local communities on forest restoration, fire, smoke, and safety to increase understanding and to gain stakeholder support for increased forest restoration and use of fire as an ecological process. Implement science-based forest restoration consistent with agency goals and private landowner objectives. Use mechanical fuel reduction treatments, prescribed fire, and other tools to restore ecological integrity, appropriate density, structure, and species composition to Oregon's forests and maintain stocks of fire adapted tree species.*
+
+| National |
+| --- |
+
+[/TABLE]
+
+[TABLE]
+*Priority 3. Enhance Public Benefits from Trees and Forests Objective 3.G. Trees and forests are managed and restored to help mitigate or adapt to changing conditions*
+
+| OPPORTUNITY | GOAL | STRATEGY | PROGRAMS |
+| --- | --- | --- | --- |
+| Forest managers can prepare for compositional changes | Identify forested areas most vulnerable to shifts in | Implement management alternatives that improve the resistance to compositional changes. Identify species better suited to new normal climatic conditions for assisted | FSP, UCF, LSR, FFR, GCWR |
+| in the geography of trees and other forest vegetation. | the composition of trees and other species of vegetation. | migration. Modify the expectations of forest productivity in areas vulnerable to compositional changes. | S2, FFR, GNA, JCLRP |
+| More frequent episodes and length of severe drought is increasing tree mortality. | Reduce the loss of present and long-term forest productivity due to new climate conditions. | Adapt forest management plans to align with new climate conditions. | FSP, UCF, LSR, FFR, GCWR S2, FFR, GNA, JCLRP C |
+|  | Integrate long-term |  |  |
+| More years with | trends in snowpack |  |  |
+| reduced snowpack and | and annual stream |  |  |
+| earlier onset of spring | hydrology data into |  |  |
+| runoff. | forest management |  |  |
+|  | plans and policy. |  |  |
+|  | Strategies, resources | Readiness and use of Office of Emergency Management's response protocol for All | All, UCF, GCWR, |
+| Support cities and | and processes are in | Hazard type disasters. | LSR |
+| communities in recovering from disaster related | place to support landowners and communities in | Identify and adopt existing successful recovery models. Collaborate and leverage resources for disaster recovery. | EFRP, S2, FEMA |
+| damage to community | planning and |  |  |
+| trees. | responding to forest |  |  |
+|  | disaster. |  |  |
+
+[/TABLE]
+
+[TABLE]
+*Use Change on Non-Federal Land, 1974-2014 SCOPE For and Oregon Department of Fish and Wildlife (ODFW) have many overlapping priority issues, strategic actions, and priority landscapes. Oregon's Forest Action Plan and ODFW's Oregon Conservation Strategy are highly integrated relative to habitat, and priority species. The ODFW priorities by ecoregion are integral to the determination of Forest Legacy Priority Areas. Oak Habitat Plan 2017 Pacific Birds Willamette Partnership Oregon Department of Agriculture Strategic Plan 2018-2023 Oregon's Climate Change Adaptation Framework Getting Ready for a Changing Climate decades Oregon has experienced substantial population growth that has driven demand for developable land. In response to concerns about conversion of Oregon's irreplaceable resource lands to other uses, the state enacted the Land Conservation and Development Act in 1973. The Act, which was fully implemented by the mid-1980s, required all Oregon counties to prepare comprehensive land use plans in accordance with 19 statewide planning goals. With regard to forest resources in particular, Goal 4 of the Act seeks to conserve the state's forestlands and protect the forest economy.*
+
+| Oregon Forest Ecosystem Carbon Report: |
+| --- |
+| Oregon Soil Water Conservation Commission Strategic Plan 2019-2021 |
+| Oregon Wetland Plan 2017-2021 |
+| Oregon Water Resources Department Strategic Plan 2019-2024 |
+| 2016 Oregon Environmental Justice Task Force Handbook Final |
+
+[/TABLE]
+
+[TABLE:  This assessment was led by the Oregon Department of Forestry landowner Incentives Coordinator and the Family Forestland Coordinator, with cooperation from the ODF's GIS shop. non-state resources are utilized to the greatest extent possible to provide technical assistance. The Forest Stewardship Program provides critical base funding for plan development and staff time that can be leveraged to help landowners gain access to financial assistance opportunities and other resources through a host of partners.Previous versions used a GIS raster analysis and display considered each input category and correlating layer, and then assigned values to attribute whether the area is HIGH, MEDIUM or LOW priority with respect to each priority landscape in the Statewide Forest Assessment (Landscape Wildfire Risk, Forestlands Vulnerable to Loss of Timber Markets, Fish and Wildlife Habitat Conservation, Water Quality, General Forest Considerations, and Urban-Rural Interface). The ineligible lands were removed, and the highest scoring became the high-priority lands for the Forest Stewardship Program.]
+[TABLE:  2001, an interagency task force and affected landowners have worked to slow the spread of sudden oak death (SOD, caused by Phytophthora ramorum) in Curry County. Activities ranging from timber harvest, collecting special forest products, to ornamental nursery production have been affected by SOD. In order to minimize the risk of new infestations and prevent human assisted spread, state and federal quarantines are in place in Curry County(ORS 603-052-1230  and 7 CFR 301.92). In 2001, the SOD program goal was complete eradication of P. ramorum in Curry County. However, despite eradication efforts, SOD continued to intensify. By 2010, Oregon's SOD program on forestland transitioned from eradication to slowing the spread of P. ramorum. Under current disease management, the SOD will expand through Curry County between 0.5 and 4.5 miles per year. The SOD program's treatment regime should control the rate of expansion, while halting treatment would most likely accelerate infestation. Continued treatment may constrain SOD south of the Rogue River to 2028 and within Curry County to 2038. Without treatment, SOD could move north of the Rogue River by 2023 and to Coos County by 2028. Other disease models under development could provide alternative estimates of SOD expansion, including explicit climate change effects. This complicates stand management decisions, especially in pure Douglas fir stands. Aerial surveys to detect and map the distribution of SNC damage have been flown annually since 1996. The survey area extends from the Columbia River south to Brookings, and from the coastline eastward until obvious symptoms are no longer visible. Aerial surveys of the Cascade Range did not occur regularly until 2015, but Swiss needle cast does cause damage in some areas in the Cascades.Root diseases are extremely important natural disturbance agents in western forest ecosystems. Tree death results directly from root disease impacts, occurs when trees with decayed roots are windthrown, or is caused by bark beetles that attack root disease-weakened trees. Most of the root diseases in Oregon are considered to be diseases of the site because inoculum remains viable in the wood of infected roots or in soil for many years or even decades. Root diseases exert profound influences on forest structure, composition, function, and yield. Root diseases are important gap formers, creating openings in the forest of varied sizes, depending upon the pathogen(s) and hosts present. The most important root disease, laminated root rot, occurs throughout western Oregon and north of the Crook River in eastern Oregon. Previous studies have estimated that laminated root rot occurs on 8 percent of the commercial forestland in Washington and Oregon and causes between a 40 to 70 percent reduction in wood volume on the areas affected]
+[TABLE:  There are many examples among local, state, federal, and tribal agencies where current and accurate water resource information from one agency partner affects whether the other agency can effectively carry out its mission. The partnerships combine local expertise and water quality sampling results to encourage voluntary changes in pesticide use and management practices. State agencies including DEQ, Oregon State University's Extension Service, Oregon Department of Agriculture, and Oregon Department of Forestry work with diverse parties, including watershed and other natural resource groups, local landowners and growers, soil and water conservation districts, and tribal governments to find ways to reduce pesticide levels while measuring improvements in water quality and crop management. The Oregon Department of Forestry also works closely with the Forest Service through the Shared Stewardship Agreement. Both agencies have agreed to develop a long-term strategy and set statewide priorities that are appropriate scale and will provide analytical science to empower collaborative groups and communities to develop locally-based solutions. Both parties are committed to a safe, inclusive, trustful, and creative work environment. Information gathered from Oregon Water Resources Commission / 2017 Integrated Water Resources Strategy, DEQ WQI, Shared Stewardship Agreement and Oregon Water Vision.]
+[TABLE:  1) Recognized as a Firewise Community or Equivalent (2) Enacted a mitigation/fire prevention ordinance (3) Reduced or appropriately maintained hazardous fuels on lands identified as high-priority in its Community Wildfire Protection Plan (CWPP) or Equivalent plan. 4 Background This Communities at Risk report satisfies the requirement of Task e, Goal 4 of the Implementation Plan for the 10-Year Comprehensive Strategy: "Develop nationally comparable definitions for identifying at-risk wildland urban interface communities and a process for prioritizing communities with the state and tribal jurisdiction." It also provides implementation provisions of the Collaborative Fuels Treatment Memorandum of Understanding (MOU) between the National Association of State Foresters (NASF) and federal agencies.]
+
+[TABLE]
+*• Oregon "Locally Named Communities At Risk" identified in Community Wildfire*
+
+| Protection Plans 6 |
+| --- |
+| • Listed communities at risk in the Federal Registry 7 |
+| • Added City Limits |
+| • Added Structural Fire District areas |
+| • Created a 5 mile buffer of all Oregon town points to capture rural towns without |
+| established geospatial boundaries. |
+
+[/TABLE]
+
+[TABLE:  Integral to Oregon's forest products sector are approximately 188 primary forest products facilities. The majority of these facilities are traditional sawmills (59 percent) while the rest are comprised of plywood & veneer, pulp & board, and other facilities (including export facilities)10 .METHODOLOGYThe most recent assessment of the Oregon Forest Sector was published by the Oregon Forest Resources Institute (OFRI) in 2019 (previously cited), and primarily authored by researchers at Oregon State University relying on the data and expertise of multiple state agencies (e.g. Oregon Department of Forestry, Oregon Employment Department, OFRI, etc.) as well as collaboration with researchers at other universities, including the College of Natural Resources at the University of Idaho and the Bureau of Business and Economic Research at the University of Montana.]
+[TABLE: Active primary wood products facilities in Oregon, 1988-2017 (Source: OFRI 2019 Forest Sector Report) ]
+[TABLE: Forest Land SCOPE State forest lands consist of Board of Forestry Lands and Common School Forest Lands, two types of land that were acquired by the State of Oregon in different ways. They are owned by different state government entities. The Board of Forestry owns most state forest lands, while the State Land Board owns Common School Forest Lands.The Oregon Department of Forestry manages approximately 745,000 acres of forestlands across Oregon. These state forestlands are actively managed under forest management plans to provide economic, environmental, and social benefits to Oregonians. Timber sales on these forests produce jobs and revenue that fund counties, local districts, and schools throughout the state. These forests also offer recreation and educational opportunities, and provide essential wildlife habitat and clean water. The three largest blocks are the Tillamook, Clatsop, and Santiam State Forests. On the eastside of the cascades, the two larger state owned forests are the Sunpass State Forest, located adjacent to Crater Lake National Park, and the Gilchrist State Forest located between Bend and Klamath Falls. Smaller tracts of state forest land are scattered across the state.]
+
+[TABLE]
+*Table 1 . CSL Revenues and Expenditures Enhance Public Benefits from Trees and Forests The 2008 Farm Bill, under Title VIII -Forestry, amends the Cooperative Forestry Assistance Act of 1978, to include the requirement that each state develop a long-term, statewide assessment and strategies for forest resources. These assessments and strategies focused on three national priorities:• Conserve and Manage Working Forest Landscapes for Multiple Values and Uses • Protect Forests from Threats • Enhance Public Benefits from Trees and Forests*
+
+| Wildlife or fish habitat are protected, conserved or enhanced |
+| --- |
+| High Priority Habitat |
+| SCOPE |
+
+[/TABLE]
+
+[TABLE:  • Safeguard how healthy ecosystems contribute to Oregon's high quality of life.]
+[TABLE: Oregon Statewide Comprehensive Outdoor Recreation Plan Executive Summary SCOPE The 2019-2023 Oregon Statewide Outdoor Recreation Plan (SCORP), entitled Outdoor Recreation in Oregon: Responding to Demographic and Societal Change, constitutes Oregon's basic five-year plan for outdoor recreation. The plan guides the use of Land and Water Conservation Fund (LWCF) funds that come into the state, provides guidance for other Oregon Parks and Recreation Department (OPRD) administered grant programs, and provides recommendations to guide federal, state, and local units of government, as well as the private sector, in making policy and planning decisions.]
+[TABLE:  Survey results show that overall, 95% of Oregonians participated in at least one outdoor recreation activity in Oregon during the past year. Close-to-home activities dominate the total user occasions for Oregon residents since these activities can occur on a daily basis with limited travel. Besides walking, bicycling and jogging on local streets/sidewalks, top outdoor activities include walking on local trails/paths, dog walking, and walking/day hiking on non-local trails/paths. For demographic groups, families with children had the highest proportion of their population participating in some outdoor recreation activity, and middle old (ages 75-84) and low income (annual household income <$25,000) the lowest. Survey results include specific recommendations on how Oregon's recreation providers can better serve the outdoor recreation needs of the general population and target demographic groups.A separate research project between OPRD and Oregon State University, entitled, "Health Benefits Estimates for Oregonians from Their Outdoor Recreation Participation in Oregon" calculated the energy expenditure from physical activity related to outdoor recreation participation by residents in kilocalories (kcal) expended or burned and cost of illness savings for chronic illnesses such as heart disease, stroke, depression, dementia, diabetes, and several cancers. The study found that total energy expended by Oregonians for the 30 outdoor recreation activities included in the analysis is a conservative 503 billion kcal per year -equivalent to 144 million pounds of body fat, which would fill nearly 30 regulation-size Olympic swimming pools. The total annual Cost of Illness savings to Oregon from Oregonians' participation in 30 outdoor recreation activities is conservatively calculated to be $1.416 billion. According to the study, this Cost of Illness Savings is approximately 3.6% of total health care expenditures in the state, or 17% of expenditures in treating cardiovascular diseases, cancers, diabetes, and depression. The report clearly demonstrates that parks and recreation providers have a role in increasing the public health and wellbeing of Oregonians.Another research project between OPRD and Oregon State University, entitled, "Total Net Economic Value from Resident's Outdoor Recreation Participation in Oregon," calculated the total net economic value for recreation participation in Oregon to Oregonians from their participation in 56 outdoor recreation activities in 2017. Total net economic value or benefits (i.e., total economic value net of the costs) is a measure of the contribution to societal welfare for use in cost-benefit analysis. The study found that the total net economic value associated with outdoor recreation participation in Oregon by Oregonians is $54.2 billion (2018 USD) annually, based on 2017 use levels. Total net economic values may be used to compare the relative worth of different assets, in this case, outdoor recreation resources and facilities based on resident participation. They also may be used in benefit-cost analysis that compares net benefits from outdoor recreation with investments in expanding outdoor recreation resources and opportunity sets.]
+[TABLE: Modeling the effect of climate change on environmental suitability of large forest wildfires SCOPE Understanding Manage and restore trees and forests to mitigate and adapt to global climate change the climatic conditions that produce suitable environments for large forest wildfires in Oregon and how those conditions are expected to change with increasing concentrations of greenhouse gases in the atmosphere is critical for a better understanding of where large wildfires are likely to occur now and into the future. Reliable predictions of large wildfire suitability in forested ecosystems are essential for correctly identifying and managing threats to valued resources, prioritizing forest management, and wildfire protection.]
+
+[TABLE]
+*Legacy Program Strategic Direction and Priority Areas 2020 The forested ecoregions ranked from highest to lowest priority in terms of increase in percentage of forest suitable for large wildfires are the Blue Mountains, Klamath Mountains, East Cascades, West Cascades, and the Coast Range. The largest increases are predicted to occur on federal lands and less on private and state-owned forests.Established in 1990, the Forest Legacy Program (FLP) was established for the purpose to identify and protect environmentally important private forestlands threatened by conversion to nonforest uses and to provide the opportunity for continuation of traditional forest uses, such as forest management and outdoor recreation. Oregon's Forest Legacy Program addresses privately owned forestlands that face threats to conversion to non-forest use by urbanization, rural residential development, parcelization and other development pressures.*
+
+| Forest This Strategic Direction document for the Forest Legacy Program builds upon and replaces past |
+| --- |
+| planning and strategizing efforts for Oregon's Forest Legacy Program, including: Oregon's |
+| 2010 Statewide Forest Assessment and Oregon's Forest Resource Strategy and Oregon Forest |
+| Legacy Program Assessment of Need (September 2001). |
+
+[/TABLE]
+
+[TABLE]
+* Cooperative Forestry Assistance Act (CFAA) of 1978, as amended, (16 USC 2101 et seq.) provides authority for the Secretary of Agriculture (Secretary) to provide financial, technical, educational, and related assistance to States, communities, and private forest landowners. Section 1217 of Title XII of the Food, Agriculture, Conservation and TradeAct of 1990 (P.L. 101- 624:104 stat.3359; 16 U.S.C. 2103c), also referred to as the 1990 Farm Bill, amended the CFAA and directs the Secretary to establish the FLP to protect environmentally important forest areas that are threatened by conversion to non-forest uses. This authority continues indefinitely. Through the 1996 Farm Bill (Federal Agricultural Improvement and Reform Act of 1996, Public Law 104-127; Title III-Conservation; Subtitle G-Forestry; Section 374, Optional State Grants for Forest Legacy Program), the Secretary is authorized, at the request of a participating State, to make a grant to the State to carry out the FLP in that State, including the acquisition by the State of lands and interests in lands. Oregon selects the "State Grant Option" for implementing the Forest Legacy Program. The State Lead Agency is the Oregon Department of Forestry. Any State of Oregon or local government agency within Oregon that can demonstrate to the Oregon Department of Forestry their capacity to either acquire and actively manage forestlands consistent with the goals of FLP, or hold interests in forestlands through a conservation easement, are eligible entities for holding lands or interests in land acquired or donated through Oregon's FLP. Oregon entered the Forest Legacy Program in 2001 with approval of Oregon's Assessment of Need by the U.S. Secretary of Agriculture. However, due to political concerns about the government facilitating the acquisition of interests or fee title of private forestlands, Oregon did not receive State legislative authority to implement the program fully until 2007. Since then, Oregon's Forest Legacy Program has evolved as the national FLP evolves, and as Oregon Department of Forestry and other state agencies, local government agencies and conservation organizations understand how to successful implement-or aid in the implementation-of FLP in Oregon. Through the Oregon's 2010 Statewide Forest Assessment and Oregon's Forest Resource Strategy, collectively the 2010 Forest Action Plan, FLP program objectives and Forest Legacy Area goals were updated based on key factors impacting program implementation at both the federal and state levels. As a result of these changes, Oregon, through guidance from the Forest Stewardship Committee, revised its program objectives for the Forest Legacy Program. These objectives will continue to guide Oregon's Forest Legacy Program through the 2020 Forest Action Plan. 1. Focus efforts where large areas of private industrial forest lands face threats from parcelization so communities can maintain their working forests prior to having these forestlands face immediate threats to non-forest development. 2. Reinforce and expand existing networks of publicly owned forest land. . Encourage private forest landowners to work with communities, agencies, businesses and nongovernmental organizations so as to strengthen their management of forest resources; and in turn, encourage communities, agencies, businesses and nongovernmental organizations to work with private forest landowners to protect important working forests the community depends on. 5. Secure additional investments in private forestlands especially those identified as important in state conservation plans such as the Oregon Conservation Strategy, the Oregon Plan for Salmon and Watersheds, and HIGH Conservation of Fish and Wildlife priority forest landscapes as identified in Oregon's 2020 Forest Action Plan. Oregon's Forest Legacy Areas were updated in 2010 to reflect these changes as well as the new Community Forest Program. Based on recommendations from the Forest Stewardship Committee, the 36 Forest Legacy Areas identified in 2010 will continue to define the scope of eligible areas for Oregon's Forest Legacy Program. Based on ongoing phases FLP projects as well as discussions about future projects that anticipate seeking FLP funding in upcoming application cycles, Oregon's Forest Legacy Areas will remain without changes.*
+
+| State Grant Option |
+| --- |
+| Oregon's Forest Legacy Program |
+| Forest Legacy Areas |
+
+[/TABLE]
+
+[TABLE:  Guidelines for the Forest Legacy Program require that Oregon identify a state lead agency to prepare an Assessment of Need (AON), a plan that documents the need for the program, and describes how it will work. The AON was developed in cooperation with the State Stewardship Coordinating Committee. In 2001, Oregon Governor John A. Kitzhaber recommended that Oregon prepare an AON for the Forest Legacy Program and designated the Oregon Department of Forestry as the lead agency to coordinate this effort. The Oregon Department of Forestry entered into a Memorandum of Agreement with the Oregon Natural Heritage Program to conduct an analysis of private forest lands for the purpose of establishing Forest Legacy Areas containing private forest lands eligible for legacy program acquisition. The analysis was conducted in an open forum that allowed public review and comment on potential forest legacy areas before they were finalized by the State Stewardship Coordinating Committee. Oregon adopted the State Grant Option where all Forest Legacy Program acquisitions (in the form of easements or fee title) shall be transacted by the State with title vested in the State or a unit of State or local government.The AON identifies 15 Forest Legacy Areas that have large areas of private forestland threatened by the possibility of conversion to non-forest uses, in particular residential and urban development, within the next 10 years. The 15 Forest Legacy Areas were chosen to focus the Forest Legacy Program on areas where important forest resources such as habitat for threatened and endangered species, aesthetics and recreation opportunity and timber supply are threatened by forest losses to non-forest uses. The 15 legacy areas are spaced geographically throughout Oregon in recognition that these threatened resources are not confined to one region of the state. The legacy areas include only 12.6% of Oregon's privately owned forests.]
+[TABLE:  Mt. Hood, which rises 11,245  feet above sea level and is the second most climbed mountain in the world (second only to Japan's holy Mt. Fuji). Nestled midway to the summit of Mt. Hood is Timberline Lodge, a National Historic Landmark and popular tourist destination, which boasts a ski area with the only year-round ski season in North America.Further south, the Deschutes National Forest in central Oregon covers nearly 1,600,000 acres of public lands and is home to Mt. Bachelor, the largest downhill ski area in the Pacific Northwest, which receives over 700,000 visitors annually. Fishing is also an important attraction in the Deschutes National Forest, where each year anglers spend almost $8 million on fishing and net over 300,000 fish. The 2,392,508 acre Wallowa-Whitman National Forest in the northeast corner of the state, with its 2,653 miles of trails, accounted for an estimated 4,110,500 visitor days in 1999. Oregon's national forests also manage and protect cultural resources ? the Deschutes National Forest has identified over 8,000 known cultural resource sites which range from 9,500-year-old American Indian lodges to small trapper cabins and traces of early pioneer trails and wagon roads. Eastern Oregon's Malheur National Forest manages over 3,000 archaeological and historical sites, including American Indian encampments, obsidian quarries and workshops, 19 th century mining camps and homesteads, logging railroads and camps, and Forest Service lookout towers and guard stations.]
+[TABLE:  The people of Oregon have provided over seven percent of the revenue from the state lottery to the Oregon Watershed Enhancement Board (OWEB) to implement the plan. OWEB is a new state agency created by the people of Oregon to promote and implement programs to enhance and maintain watersheds throughout the state. In Oregon, watershed protection has been organized by local groups called watershed councils. Watershed councils are locally organized, voluntary, non-regulatory groups established to improve the condition of watersheds in their local area. The 1995 Legislature unanimously passed House Bill 3441 providing guidance in establishing watershed councils but making it clear that formation of a council is a local government decision, with no state approval required. Watershed councils offer local residents the opportunity to independently evaluate watershed conditions and identify opportunities to restore or enhance the conditions. Through the councils, partnerships between residents, local, state and federal agency staff and other groups can be developed. Through these partnerships and the resulting integration of local efforts, the state's watersheds can be protected and enhanced.Across the state, established watershed councils are systematically assessing watershed conditions to identify problems and set priorities for restoration. The information gained from assessments provides a necessary starting place for planning ways to restore watershed functions. As watershed councils complete assessments, they collaborate with landowners, soil and water conservation districts, businesses, government, and others on projects and actions designed to resolve problems and improve watershed health. When aggregated, watershed assessments will play a critical role in developing a statewide strategy that points toward key restoration opportunities in each region of the state.]
+[TABLE:  Evidence of humans in Oregon goes back beyond 15,000 years, although there is continued debate as to the actual earliest settlements here. American Indians of various tribes resided in different areas of the state, most subsisting on hunting and fishing. In northwest Oregon, native tribal use of fire played a critical role in establishing many patterns of forest habitat. Around the end of the Pleistocene, the drier climate had created open grasslands and oak savannas throughout much of the Willamette Valley, supporting numerous prairie wildlife species, as well as a diverse endemic flora adapted to grasslands. As the climate got cooler and wetter over time, and summer lightning almost disappeared, American Indians frequently set fires in the Willamette Valley, maintaining the prairies and oak savannas that would otherwise have become conifer forests.]
+
+[TABLE]
+* Importance of Forest Legacy Area to priority wildlife species e) Viability of the remaining forests in the area f) Ability of forests to add to or provide buffers for existing national forests, state forests, state parks, or other protected areas The significance of private forest land to the local economy: ? The significance of timber to the local economy ? The presence of distressed county or local community*
+
+| d) Social |
+| --- |
+| a) Immediacy, significance and magnitude of conversion threats as defined by: |
+| ? Acreage of forest habitats lost between 1974-1994 (in western Oregon) |
+| ? Acreage of forest habitats estimated to be lost by 2005 (in western Oregon) |
+| ? Acreage of forest habitats lost since European settlement (approx. 1850) |
+| ? Increase in population based on 1990-2000 census increase by county |
+| b) Community interest in Forest Legacy Program |
+| c) Existence of local partners, including county and city governments |
+| d) Potential for matching funds |
+| e) Public recreation opportunity |
+| Economic |
+| a) |
+| The following |
+| criteria were used: |
+| Biological -Ecological |
+| a) Rare, threatened and endangered species occurrences and habitat |
+| b) Acreage of all private forest lands |
+| c) Acreage of priority forest habitats (oak-woodlands, riparian bottomlands and |
+| ponderosa pine forest types) |
+
+[/TABLE]
+
+[TABLE]
+* Provide a tool for local governments and watershed councils for riparian forests and shorepine wetland protection to help achieve the goals of the Oregon Plan for Salmon and Watersheds.3) Protect key spruce headland forests to block-up the near shore network of parks, preserves, and national forests.*
+
+| Values threatened by Conversion +583 acres 1 Total private forest left 382,564 acres -6,388 acres Priority forest habitats 2 left 764 acres -15,389 acres Miles of T&E fish habitat 724 miles Population growth in 1990's + 10,511 people T&E species occurrences Forests habitats lost since 1850 Forests lost 1974-1994 Forest loss predicted 228 Priority wildlife species 5 Economic -0-10% dependant on timber Social -Forest recreation critical to economy 1 Forests have expanded here since 1851 2 Riparian, oak, and pine forests and woodlands Goals and Objectives: 1) Prevent important forested wetlands, estuarine and freshwater habitats from being converted to recreational and suburban uses, in order to reduce flooding and improve salmon habitat. 2) South Coast Forest Legacy Area Priority -7 |
+| --- |
+
+[/TABLE]
+
+[TABLE]
+* Protect key forested sites from conversion to increase the viability and security of the near-shore network of parks, preserves, and national forests. Potentially focus on the Elk River-Sixes River, Coquille River, South Slough, and the Siuslaw estuary.3) Protect viable examples of a coastal marine terrace, near shore Oregon oak savanna, Sitka spruce-grand fir, coastal redwood and Port-Orford-cedar forest. 4) Maintain productive private timberlands as a source of timber supply for local wood products industries.*
+
+|  | Values threatened by Conversion |  |
+| --- | --- | --- |
+| Forests habitats lost since 1850 -78,227 acres Total private forest left |  | 460,644 acres |
+| Forests lost 1974-1994 | -9,276 acres Priority forest habitats 1 left | 13,844 acres |
+| Forest loss predicted | -13,710 acres Miles of T&E fish habitat | 645 miles |
+| Population growth in 1990's + 4,316 people T&E species occurrences |  | 396 |
+|  | Priority wildlife species | 9 |
+|  | Economic -5-10% economically dependent & |  |
+|  | economically distressed counties |  |
+|  | Social -Forest recreation important to economy 1 Riparian, oak, and pine forests and woodlands |  |
+| Goals and Objectives: |  |  |
+| 1) Prevent important forested wetlands and riparian habitats from being converted to |  |  |
+| recreational, agricultural and suburban uses, in order to reduce flooding and improve |  |  |
+| salmon habitat. |  |  |
+| 2) |  |  |
+
+[/TABLE]
+
+[TABLE]
+* Complement the existing Metro Greenspaces program to assist in the protection of important forest parcels to promote recreational opportunities and provide open space.2) Reduce conversion of key forested riparian and wetland habitats to urban and suburban uses to reduce flooding, improve water quality and improve salmon habitat. Upland forest buffers identified by watershed councils and metro governmental plans may also be key.Description: This area includes limited valley bottom and riparian hardwoods, and some of the largest remaining oak woodlands in Oregon, such as the open oak forests between McMinnville and Sheridan, as well as those in the Coast Range foothills in northern Polk County. Boundaries on this legacy area were modified as a result of public comments.Significant Ecological, Social and Economic Values: The oak woodlands in this legacy area are ecologically significant, containing some of the largest remaining blocks in the Willamette Valley. Many of these oak woodlands appear to have slower rates of Douglas fir invasion, making them potentially easier to restore or maintain. The Oregon Forest Legacy Program may have to work to develop local partnerships.Threats of Conversion: Growth is occurring throughout this legacy area; however, it is not as concentrated or as immediate as some of the other Willamette Valley legacy areas. Forests are being converted to housing developments and to expanding agriculture, specifically vineyards and nurseries.*
+
+| Values threatened by Conversion Forest habitats lost since 1850 -316,761 acres Total private forest left 366,191 acres Forests lost 1974-1994 -66,577 acres Priority forest habitats 1 left 30,772 acres Forest loss predicted -150,623 acres Miles of T&E fish habitat 737 miles Population growth in 1990's + 269,928 people T&E species occurrences 99 Priority wildlife species 4 Economic -< 5% economically dependent Social -Private forests key to recreation, open space and water quality 1 Riparian, oak, and pine forests and woodlands Goals and Objectives: Losses and Threats Significant Values threatened by Conversion 1) Northern Polk -Yamhill County Foothill Forest Legacy Area Priority -5 Marion County Forest Legacy Area Priority -7 |  |  |  |
+| --- | --- | --- | --- |
+| Forest habitats lost since 1850 -16,686 acres Total private forest left |  |  | 124,663 acres |
+| Forests lost 1974-1994 | -2,557 acres Priority forest habitats 1 left |  | 21,961 acres |
+| Forest loss predicted | -1,560 acres Miles of T&E fish habitat |  | 144 miles |
+| Population growth in 1990's + 26,280 people T&E species occurrences |  |  | 44 |
+|  | Priority wildlife species |  | 1 |
+|  | Economic -< 5% economically dependent |  |  |
+|  | Social | -Forests important to water quality |  |
+|  | 1 Riparian, oak, and pine forests and woodlands |  |  |
+| Goals and Objectives: |  |  |  |
+| 1) Protect viable occurrences of oak woodlands or savanna habitats. |  |  |  |
+| 2) Enhance watersheds by protecting key forested riparian habitats from being converted to |  |  |  |
+| agricultural and suburban uses to improve water quality and protect salmon habitat. |  |  |  |
+| Figure 21. Map of Northern Polk -Yamhill County Foothill Forest Legacy Area |  |  |  |
+
+[/TABLE]
+
+[TABLE]
+* Description: This area includes the foothills surrounding the communities of Philomath, Corvallis, Albany, Dallas and west Salem. It is mostly Oregon oak woodlands and Douglas fir forests, mostly along the margins of the Oregon Coast Range.Significant Ecological, Social and Economic Values: This area has some outstanding remnants of valley margin Oregon white oak woodlands and savannas. These habitats are home for a number of endangered fish, wildlife and plant species, making this area one of the most significant from an ecological perspective. The Greenbelt Land Trust, Benton County and the City of Corvallis have all expressed an interest in working with the Forest Legacy Program to protect open space, recreational opportunities, and significant habitats.Threats of Conversion: All of the communities in or near this legacy area are growing rapidly, often by expanding residential development onto private forests. The forests north and west of Corvallis, and along the corridor between Philomath and Corvallis are under particular threat, as are those in southern Polk County between Salem and Albany, and Albany and Corvallis. Protect key forest habitats, including oak woodlands. Focus on the foothills between Corvallis and Philomath, and the foothills west of Salem. 2) Protect or provide buffers for key endangered species habitats, including populations of Fender's blue butterfly, Nelson's checker-mallow, and Willamette daisy. 3) Provide a tool for watershed councils and local governments to protect key forest riparian and wetland habitats along the Mary's River and Muddy Creek from being converted to agricultural and suburban uses. 4) Decrease the fragmentation of the forests and increase recreational opportunities or open space around Corvallis.Figure 23. Map of Benton County -Corvallis Foothills -Southern Polk Forest Legacy Area*
+
+| Values threatened by Conversion Forest habitats lost since 1850 -163,449 acres Total private forest left 89,119 acres Forests lost 1974-1994 -28,773 acres Priority forest habitats 1 left 15,770 acres Forest loss predicted -23,499 acres Miles of T&E fish habitat 451 miles Population growth in 1990's + 56,351 people T&E species occurrences 81 Priority wildlife species 3 Economic -< 5% economically dependent Social -Forest recreation, open space, and water quality dependant on forests 1 Riparian, oak, and pine forests and woodlands Benton County -Corvallis Foothills -Southern Polk Forest Legacy Area Priority -2 Losses and Threats Significant Values threatened by Conversion Forest habitats lost since 1850 1 -10,999 acres Total private forest left 197,931 acres Forests lost 1974-1994 -11,758 acres Priority forest habitats 2 left 29,483 acres Forest loss predicted -5463 acres Miles of T&E fish habitat 146 miles Population growth in 1990's + 13,342 people T&E species occurrences 123 Priority wildlife species 1 Economic -< 5% economically dependent Social -Forest recreation and open space 1 Historic grasslands and oak savannas have become forests, which are now declining 2 Riparian, oak, and pine forests and woodlands Goals and Objectives: 1) Southern Willamette River Riparian Forest Legacy Area Priority -7 |
+| --- |
+| Goals and Objectives: |
+| 1) Assist watershed protection and enhancement programs by protecting municipal drinking |
+| watersheds and key forested riparian habitats from being converted to agricultural and |
+| suburban uses. |
+| 2) Decrease fragmentation of the forests around Salem. |
+| 3) Assist in protecting endangered species habitat, including habitat for Nelson's |
+| checkermallow and listed salmon. |
+| Figure 22. Map of Marion County Forest Legacy Area |
+
+[/TABLE]
+
+[TABLE]
+* Threats of Conversion: This area has experienced the greatest decline in riparian woodlands and forests in western Oregon -primarily from earlier agricultural development, and more recently from residential growth. Several watershed councils including the Long Tom, McKenzie, Calapooia, Mid Fork Willamette and South Santiam are working on protecting riparian forests in this area and as a result these forests are much less threatened than other Willamette Valley forested areas. However, riverside areas are very attractive to developers, and habitats in Eugene, Corvallis, Harrisburg, and other towns along the Willamette continue to produce new houses.Description: This area includes the Lane County foothills in and around the communities of Eugene and Springfield. It follows the western edge of the Willamette Valley between Veneta and Cheshire, contains the southern Willamette Valley foothills, and the Coberg Ridge area. It includes extensive and diverse oak woodlands and conifer forests, as well as some important riparian forests.Significant Ecological, Social and Economic Values: The foothills of Lane County include the best quality and most diverse oak woodlands remaining in the Willamette Valley. They have the most northerly stands of California black oak, as well as some of the best remaining oak savannas and mixed conifer woodlands. This legacy area also includes important habitat for many endangered species, including some endemic to forests and woodlands in this area, such as the wayside aster. Together, the ecological values are among the highest in the state.Lane County and the local, regional government, Lane Council of Governments, are both interested in the protection of forest resources. The McKenzie Land Trust, the City of Eugene and the City of Springfield, as well as The Nature Conservancy have all expressed interest in working with the Forest Legacy Program to protect forests in this area.Threats of Conversion: Threats are as high here as anywhere in the state with the exception of the Portland metropolitan area and developing areas near Bend. Rural residential development is widespread on the hills south and west of Eugene, and surrounding Springfield. This development continues to lead to forest conversions and fragmentation. The development has also made fuel management, fire suppression, and maintenance of the oak savannas more difficult and expensive. Protect key forest habitats, including oak woodlands. The primary focus initially would be on the foothills adjacent to Eugene and Springfield. 2) Protect or provide buffers for key endangered species habitats, including populations of Fender's blue butterfly, wayside aster, Bradshaw's lomatium and Willamette daisy. 3) Increase protection of open space, reduce fragmentation of the forests, and increase recreational opportunities by focusing on the forest ridgetop trail system around Eugene and Springfield. 4) Reduce fuels and increase ability of managers to use fire to maintain oak and conifer savannas.*
+
+| Eugene -Springfield Forest Legacy Area |  | Priority -1 |
+| --- | --- | --- |
+| Losses and Threats | Significant Values threatened by Conversion |  |
+| Forest habitats lost since 1850 -83,239 acres Total private forest left |  | 65,487 acres |
+| Forests lost 1974-1994 | -8,769 acres Priority forest habitats 2 left | 10,558 acres |
+| Forest loss predicted | -8,104 acres Miles of T&E fish habitat | 441 miles |
+| Population growth in 1990's + 11,842 people 1 T&E species occurrences Losses and Threats Significant Values threatened by Conversion 299 |  |  |
+| Priority wildlife species Forest habitats lost since 1850 -79,584 acres Total private forest left |  | 3 326,140 acres |
+| Forests lost 1974-1994 | Economic -< 5% economically dependent -30,883 acres Priority forest habitats 2 left 85,209 acres |  |
+| Social -Forests critical to water quality & fish -14,620 acres Miles of T&E fish habitat 212 miles 2 Riparian, oak, and pine forests and woodlands Population growth in 1990's + 40,047 people 1 T&E species occurrences 1 Linn County population growth Forest loss predicted 383 |  |  |
+|  | Priority wildlife species | 8 |
+| Goals and Objectives: | Economic -5-10% dependant & distressed |  |
+| 1) Prevent forest conversion by protecting key forested riparian habitats from being converted to agricultural and residential uses. Social -Forest recreation and open space 1 Lane County population growth 2 Riparian, oak, and pine forests and woodlands |  |  |
+| 2) Assist activities of the watershed councils to improve habitat for salmon, Oregon chub, |  |  |
+| and other key aquatic species. Goals and Objectives: 3) Reduce agricultural runoff and assist in improving water quality. 1) |  |  |
+| Figure 24. Map of Southern Willamette River Riparian Forest Legacy Area |  |  |
+
+[/TABLE]
+
+[TABLE]
+* Protect or provide buffers for key endangered species habitats, including populations of Columbia white-tailed deer, hairy popcorn flower and pink-root yampah.*
+
+|  |  | Values threatened by Conversion |  |
+| --- | --- | --- | --- |
+| Forest habitats lost since 1850 -209,582 acres Total private forest left |  |  | 284,857 acres |
+| Forests lost 1974-1994 | -25,486 acres Priority forest habitats 1 left |  | 98,091 acres |
+| Forest loss predicted | -16,665 acres Miles of T&E fish habitat |  | 810 miles |
+| Population growth in 1990's | + 5,750 people | T&E species occurrences | 430 |
+|  |  | Priority wildlife species | 6 |
+|  |  | Economic -> 10% dependant on forests and |  |
+|  |  | Economically distressed area |  |
+|  |  | Social -Forests key to recreation & economy 1 Riparian, oak, and pine forests and woodlands |  |
+| Goals and Objectives: |  |  |  |
+| 1) Protect key forest habitats, including oak woodlands, Ponderosa pine woodlands and |  |  |  |
+| mixed conifer forests. |  |  |  |
+| 2) |  |  |  |
+
+[/TABLE]
+
+[TABLE]
+* Threats of Conversion:The Illinois Valley has experienced extensive forest conversion, particularly for rural residential development. However, especially over the last few years, development has slowed, currently occurring more slowly than in the Rogue Valley, the Willamette Valley or the Bend area. Rural residential development, based on retirement and recreation, continues to provide sources of forest conversions.*
+
+| Losses and Threats | Significant Values threatened by Conversion |  |
+| --- | --- | --- |
+| Forest habitats lost since 1850 | -9,223 acres Total private forest left | 87,256 acres |
+| Forests lost 1974-1994 | -10,984 acres Priority forest habitats 1 left | 29,085 acres |
+| Forest loss predicted | -5494 acres Miles of T&E fish habitat | 118 miles |
+| Population growth in 1990's + 13,077 people T&E species occurrences |  | 570 |
+|  | Priority wildlife species | 2 |
+|  | Economic -5-10% dependent on forests & |  |
+
+[/TABLE]
+
+[TABLE]
+* Threats of Conversion: The Rogue Valley and foothills are the fastest growing area in this ecoregion, second in the state only to Bend and the Portland metro area. Rural residential and suburban development is occurring throughout the area, and agricultural and recreational development of forests is increasing.*
+
+| Losses and Threats | Significant Values threatened by Conversion |  |
+| --- | --- | --- |
+| Forest habitats lost since 1850 -185,123 acres Total private forest left |  | 160,604 acres |
+| Forests lost 1974-1994 | -15,525 acres Priority forest habitats 1 left | 67,344 acres |
+| Forest loss predicted | -12,301 acres Miles of T&E fish habitat | 117 miles |
+| Population growth in 1990's + 34,880 people T&E species occurrences |  | 324 |
+|  | Priority wildlife species | 14 |
+|  | Economic -5-10% dependent on forests |  |
+|  | Social -Forest recreation important |  |
+|  | 1 Riparian, oak, and pine forests and woodlands |  |
+| Goals and Objectives: |  |  |
+| 1) Protect key forest habitats, including oak woodlands and savanna, Ponderosa pine |  |  |
+| woodlands, and unique riparian forested habitats. |  |  |
+| 2) Protect or provide buffers for key endangered species habitats, including populations of |  |  |
+| the vernal pool fairy shrimp, Cook's desert parsley and large-flowered wooly meadow |  |  |
+| foam. |  |  |
+
+[/TABLE]
+
+[TABLE]
+* Threats of Conversion: Impacted by growth in and around the Columbia River Gorge, forest habitats around Hood River and The Dalles have declined. Rural residential and recreational housing continues to expand into forested areas, although not as quickly as most of the other legacy areas.*
+
+| Losses and Threats |  | Significant Values threatened by Conversion |  |
+| --- | --- | --- | --- |
+| Forest habitats lost since 1850 1 | +15 acres Total private forest left |  | 134,104 acres |
+| Forests lost 1974-1994 |  | NA Priority forest habitats 2 left | 80,116 acres |
+| Forest loss predicted |  | NA Miles of T&E fish habitat | 147 miles |
+| Population growth in 1990's | + 5,616 people T&E species occurrences |  | 58 |
+|  |  | Priority wildlife species | 2 |
+|  |  | Economic -< 5% economically dependent |  |
+|  |  | Social -Forests & recreation key to economy |  |
+| 1 Forests have expanded here since 1851 |  | 2 Riparian, oak, and pine forests and woodlands |  |
+
+[/TABLE]
+
+[TABLE]
+* Protect key forest habitats, primarily Ponderosa pine forests and woodlands, but also some riparian forests. Help restore a more natural fire regime to these forests and improve forest health.2) Provide a critical buffer in the transition zone between the commercial or federal forests and the communities of Bend, La Pine, Sun River, Metolius and other large residential zones, to allow for prescribed fires and assist fire fighting. 3) Protect or provide buffers for sensitive species habitats, including bull trout and Peck's penstemon, as well as critical deer and elk wintering areas.*
+
+| Values threatened by Conversion -7560 acres Total private forest left 186,673 acres NA Priority forest habitats 1 left 95,248 acres NA Miles of T&E fish habitat 30 miles Population growth in 1990's + 40,508 people T&E species occurrences Forest habitats lost since 1850 Forests lost 1974-1994 Forest loss predicted 32 Priority wildlife species 9 Economic -< 5% economically dependent Social -Recreation key to economy 1 Riparian, oak, and pine forests and woodlands Goals and Objectives: 1) Southern Klamath -Klamath Falls Forest Legacy Area Priority -7 |
+| --- |
+
+[/TABLE]
+
+[TABLE]
+* Protect key forest habitats, including oak woodlands and Ponderosa pine forests. 2) Assist with riparian, wetland and watershed protection to improve fish habitats, increase water yields and protect sensitive species like the red-root yampah and the bald eagle. 3) Assist in the creation of a working forest with open canopy to allow for restoration of a more natural fire regime, to reduce fire damage and improve forest health. 4) Maintain productive private timberlands as a source of timber to supply local wood products industries.*
+
+|  | Values threatened by Conversion |  |
+| --- | --- | --- |
+| Forests lost since 1850 | -174,966 acres Total private forest left | 257,020 acres |
+| Forests lost 1974-1994 | NA Priority forest habitats 1 left | 143,662 acres |
+| Forest loss predicted | NA Miles of T&E fish habitat | 69 miles |
+| Population growth in 1990's | +6,073 people T&E species occurrences | 192 |
+|  | Priority wildlife species | 23 |
+|  | Economic -> 10% dependent on timber |  |
+|  | Social -Forest and wildlife recreation important 1 Riparian, oak, and pine forests and woodlands |  |
+| Goals and Objectives: |  |  |
+| 1) |  |  |
+
+[/TABLE]
+
+[TABLE]
+* Protect key forest habitats, particularly the extensive cottonwood forests, and the unique aspen-mountain alder or spruce riparian forests. This will also assist in watershed protection and enhancement programs, and protect key listed fish spawning areas. 2) Maintain productive private timberlands as a source of timber to supply local wood products industries. 3) Reduce fire hazards, assist in wildland fuels management, and improve forest health especially in the wildland-urban interface.*
+
+|  |  | Values threatened by Conversion |  |
+| --- | --- | --- | --- |
+| Forests lost since 1850 | -38,050 acres Total private forest left |  | 34,091 acres |
+| Forests lost 1974-1994 | NA Priority forest habitats 1 left |  | 1,638 acres |
+| Forest loss predicted | NA Miles of T&E fish habitat |  | 236 miles |
+| Population growth in 1990's | + 315 people | T&E species occurrences | 29 |
+|  |  | Priority wildlife species | 1 |
+|  |  | Economic -5-10% dependent & distressed |  |
+|  |  | Social -Recreation & timber economy 1 Riparian, oak, and pine forests and woodlands |  |
+| Goals and Objectives: |  |  |  |
+| 1) |  |  |  |
+
+[/TABLE]
+
+[TABLE]
+* Initially, ODF and ORNHP sent out a press release, asking for names, addresses, and emails of anyone interested in information on Forest Legacy in Oregon, or in the development of the AON. A copy of this press release, and the subsequent releases sent out in this process are included in Appendix C. A mailing list of all respondents was included, and all drafts, notices, new changes and meeting dates were sent to these citizens. In response to ODF and ORNHP outreach efforts, a Forest Legacy Steering Committee was formed in May 2001. This committee included all interested parties willing to commit the time necessary to review documents, data, criteria and maps created during the development of the AON. This committee included members of local governments, non-governmental agencies, state agencies and the Forest Service, some of who are also members of the State Stewardship Coordinating Committee. The current members of the SSCC are listed on the cover page of this AON. The extent and boundaries of proposed Forest Legacy Areas. ? The priorities established for the proposed Forest Legacy Areas. ? Site selection criteria and the priority order (or weighting) of the selection criteria. ? Specific goals and objectives for proposed Forest Legacy Areas.As soon as the first draft AON was developed, it was posted as a PDF file on the ODF web page. Public meetings were set up in 10 locations around the state, and a second press release was prepared, requesting the public attend these meetings or provide comments regarding the draft plan. A copy of the meeting announcement and schedule is in Appendix C. The second press release resulted in articles in newspapers in at least four cities: Portland, Salem, Eugene, and Roseburg. As a result, many comments were received, and both the criteria and legacy area boundaries were modified. The forest legacy program has compiled a compendium containing all of the letters and emails obtained during the development of the AON. This compendium is available upon request from ODF. Key visits, along with the results of the public meetings and additional comments are summarized below.Public meetings were held in ten different locations throughout the state of Oregon to facilitate public understanding, review and comment on the Forest Legacy Program as developed in the Assessment of Need. These meetings were attended by staff from both the Oregon Department of Forestry and the Oregon Natural Heritage Program. The meetings opened with a presentation that explained the history and purpose of the Forest Legacy Program. The presentation explained what data were used to identify potential legacy areas and to evaluate each potential legacy area with respect to ecological, social and economic values as well as threats to conversion. The presentation also discussed how the program would be administered by the Oregon Department of Forestry and ended soliciting public comment on the AON. In addition to the presentation, printed maps showing the boundaries of the legacy areas, pre-settlement vegetation and current vegetation cover (key data used to understand historical trends in forest losses), and ecoregional boundaries were posted on the walls for public viewing. All the meetings were recorded on audio cassette.The meeting was attended by two members of the public as well as two members sitting on both the steering and State Stewardship Coordinating Committees. All supported the effort to secure federal funding and move forward with the Forest Legacy Program in Oregon. Interest was expressed in written descriptions of the legacy areas to go with the maps in the AON and it was pointed out that this would be a component of the final AON. The spreadsheet (see Appendix B*
+
+| The following individuals and organizations made up the steering committee: Public Meetings and Comments |
+| --- |
+| Hillary Abraham * -The Nature Conservancy |
+| Ray Abriel * -USDA Forest Service, Region 6 |
+| Brenda Brown * -Trust for Public Lands (Brenda replaced Sam Hodder of TPL in June) |
+| Rick Brown * -Defenders of Wildlife |
+| Jim Cathcart -Oregon Department of Forestry |
+| Steve Gordon -Lane Council of Governments |
+| Jimmy Kagan -Oregon Natural Heritage Program |
+| Wally Rutledge * -Oregon Department of Forestry |
+| Individuals with an asterisk are those who also serve on the State Stewardship Coordinating |
+| Committee. The committee currently has one vacancy, a forest landowner. The remaining |
+| members of the SSCC include: |
+| Jeff Boechler -Oregon Department of Fish and Wildlife |
+| Dick Courter -Consulting Forester Portland Area Meeting, 13 August 2001, 1:30-3:30 p.m. |
+| Ed Hendrix -Forest Products Industry |
+| Dan Logan -General Public |
+| Steve McClure -Local Government |
+| Scott Reed -OSU Extension Service |
+| Fred Ringer -Farm Services Agency |
+| Philip VanDoren -Forestland Owner |
+| Craig Ziegler -Natural Resources Conservation Service |
+| This State Stewardship Coordinating Committee is significant since the Forest Legacy |
+| legislation requires that this committee be established and oversee the implementation of the |
+| Forest Legacy Program. |
+
+[/TABLE]
+
+[TABLE]
+* It was also mentioned that it might be good to combine the proposed Springfield Forest Legacy Area with the Eugene Forest Legacy Area. ORNHP and ODF staff indicated that boundaries for legacy areas could be modified and welcomed any input or additional data/maps local interests could provide. It was also suggested that the maintenance or management component of an application should deserve points, as well as possibly adding points for forest restoration efforts.Additional comments came from other staff of the City of Eugene, the City of Springfield, the McKenzie Land Trust, and local citizens. Specific comments included support for the inclusion of oak woodlands and savannas as priorities for Forest Legacy protection.*
+
+| Corvallis Area Meeting (Philomath, Oregon), 14 August 2001, 7:00-9:00 p.m. |
+| --- |
+
+[/TABLE]
+
+[TABLE]
+* The meeting was attended by three members of the public and two employees from the Oregon Department of Forestry. All supported the effort to secure federal funding and move forward with the Forest Legacy Program in Oregon. Interest was expressed in keeping the geographic extent of the proposed Forest Legacy Areas broad and possibly including more legacy areas than were shown on the map (i.e., include the South Coast Forest Legacy Area).Concern was expressed that the private forest land areas near Coos Bay and Florence were not included in a Forest Legacy Area and should have been. It was suggested that specific sites chosen for funding should be distributed around the state and an effort made to include rural communities that may not be as prepared/organized as other areas such as Eugene. It was suggested that program dollars for funding sites be allocated based on population or a ratio of people vs. private forest lands affected. There was also some concern about liabilities/responsibilities that might be incurred by local governments in holding the conservation easements bought with Forest Legacy (i.e., federal) money.The meeting was attended by two members of the public. Both supported the effort to secure federal funding and move forward with the Forest Legacy Program in Oregon. They felt that the identification of the proposed Forest Legacy Areas and the analysis determining their overall priority in the AON was well supported by the existing data. They offered to provide additional data for the immediate area and surrounding areas. They felt that all of the proposed Forest Legacy Areas should be left in as eligible in the final AON. They also thought that prioritizing sites ecologically should be considered more, since threats will always be there.The meeting was attended by three members of the public. All supported the effort to secure federal funding and move forward with the Forest Legacy Program in Oregon. They felt that the geographical extent of all of the proposed Forest Legacy Areas was better than a narrower set of areas; feeling it would involve more communities and not leave any one area out. However, figuring out a way for specific sites to compete across such a broad area may be challenging. Those attending liked the idea of combining local interest and whether land was included in an existing local land-use plan as a criteria for individual site selection for funding. There was concern expressed for Crown Pacific (a private timber corporation) forestlands to the west of Bend as these lands could face development pressures in the future. It was indicated to them that large industrial timber companies could apply to participate in the program as long as the lands in question were included within a final Forest Legacy Area. There were also questions about the boundaries of the proposed Forest Legacy Areas in central Oregon. Attendees wanted to make sure it met the urban growth boundary to the west of Bend. There were also questions about the White River canyon area in Wasco County, Pine Mountain in Deschutes County, and the Ochoco and Prineville areas of Crook County. Comments indicated that the boundary of the Metolius area in Jefferson County may have excluded key private forest lands threatened with development. It was agreed that the Forest Legacy Area boundaries would be adjusted based on maps to be provided by the attendees. It was also suggested that the existence of other conservation easements or sites consistent with the Forest Legacy Program near a proposed site might be a good criteria for evaluating sites for funding. LaGrande Area Meeting, 21 August 2001, 7:00-9:00 p.m.The La Grande meeting had no public attendees.Other comments from northeastern Oregon included those from Ben Boswell, a Wallowa County Commissioner, indicating concerns with the program. While he felt that recreational and residential losses of productive forests where a concern, his view was that federal programs had not helped Wallowa County over the last 10 years. Loss of federal timber and their associated, family jobs was the greatest threat, and he did not feel that the Forest Legacy Program could help in this regard.The meeting was held in the classroom at the Columbia Gorge Discovery Center -Wasco County Historical Museum. It had no public attendees but was attended by a local ODF representative from The Dalles Unit office and a representative of the USDA Forest Service State and Private Forestry programs.Other comments from the area came from Judge J. Mabury, a Wasco County commissioner, who expressed strong reservations against removing any lands from the tax rolls, as well as concerns about landowners' choices being limited by government. After learning more about the program, he felt that easements would be the best option in Wasco County, but he could not support Forest Legacy acquisitions there.Brookings, Coos Bay, and Reedsport, which have relied on timber production from public lands, have either shown little growth or have lost population. Towns along the northern Oregon coast which rely on recreation, such as Seaside, Cannon Beach, Lincoln City and Newport, have grown substantially. In these fast-growing, ocean-side towns, private forests are being converted to residential homes. In these areas, the forests that are being lost are almost entirely dominated by Sitka spruce.The Willamette Valley Ecoregion spans the area between the Coast Range and the western Cascades in northwestern Oregon, and includes Oregon's largest river valley. From Oregon it extends north to include the Vancouver, Washington bottomlands. The valley is characterized by broad, alluvial flats and low basalt hills. Soils include deep alluvial silts from river deposits and dense heavy clays from pluvial deposits in the valley bottom's numerous oxbow lakes and ponds.The abundant rainfall and fertile soils have made the valley Oregon's most important agricultural region since the first settlers arrived. As a result, the Willamette Valley is Oregon's most altered ecoregion. Originally, the valley was a mosaic of gallery riparian forests and wetlands, open white oak savannas and prairie, with valley margins of oak, ponderosa pine and Douglas-fir woodlands. American Indians maintained the prairies, oak savannas and woodlands by regularly burning most of the valley. With settlement, the prairies have been largely farmed and the open oak savannas and oak-conifer woodlands have been logged or have overgrown into closed-canopy forests.*
+
+| Willamette Valley Ecoregion |
+| --- |
+| Medford Area Meeting, 15 August 2001, 7:00-9:00 p.m. |
+| The Dalles Area Meeting, 22 August 2001, 7:00-9:00 p.m. |
+| Roseburg Area Meeting, 15 August 2001, 1:30-3:30 p.m. |
+
+[/TABLE]
+
+[TABLE]
+* The Forest Legacy program is small. The President has proposed to the Congress a funding level of $30 million nationally for the Forest Legacy Program in fiscal year 2002. Currently, 22 states and one territory are enrolled in the Forest Legacy Program, with several more preparing state plans for entry into the program. To get your name on a mailing list to receive a copy of the draft Assessment of Need and public meeting notices contact Gail Barnhart, Oregon Department of Forestry, 2600 State Street, Building 3, Salem, 97310, or call (503) 945-7378. To learn more about Forest Legacy in Oregon contact ODF's Forestry Assistance Director Wally Rutledge at (503) 945-7392 or by e-mail at wrutledge@odf.state.or.us <mailto:wrutledge@odf.state.or.us> To obtain more information on participating in the Assessment of Need development, contact Jimmy Kagan, Director, Oregon Natural Heritage Program 1322 SE Morrison Ave., Portland, OR, 97214, (503) 731-3070 ext. 111 or jimmy.kagan@orst.edu More information about the Forest Legacy Program can be found on the U.S. Forest Service web site at http://www.fs.fed.us/spf/coop/flp.htm. OREGON DEPARTMENT OF FORESTRY SEEKS PUBLIC'S HELP IN KEEPING PRIVATE FORESTLANDS INTACT Oregonians are invited to attend any one of a number of public regional meetings being held across the state this month to provide feedback and input to Oregon's participation in the Forest Legacy Program. Funded by the U.S. Forest Service Cooperative Forestry program, the Forest Legacy Program provides states with federal grants to protect private forestland from being converted to non-forest uses (urban, residential or agricultural).*
+
+| FOR IMMEDIATE RELEASE | Arlene Whalen/Gail Barnhart/Major Media |
+| --- | --- |
+| August 1, 2001 | 503-945-7427/503-945-7378 |
+| 01-60 | Note: State Map available upon request |
+|  | 503-945-7421 |
+
+[/TABLE]
+
+[TABLE]
+*IMMEDIATE RELEASE Arlene Whalen/Gail Barnhart August To learn more about Forest Legacy in Oregon contact ODF's Forestry Assistance Director Wally Rutledge at (503) 945-7392 or by e-mail at wrutledge@odf.state.or.us <mailto:wrutledge@odf.state.or.us> For more information about the Forest Legacy Program, visit the U.S. Forest Service web site at http://www.fs.fed.us/spf/coop/flp.htm. 9, 2001 503-945-7427/503-945-7378 Note: State Map available on ODF web site SECOND NOTICE: PUBLIC NEEDED TO HELP IDENTIFY PRIVATE FORESTLANDS THREATENED BY CONVERSION Oregon invites public participation in identifying geographic areas that could be eligible for federal grant dollars through the Forest Legacy Program to protect important private forestland from conversion. A public meeting is scheduled in Portland on Monday, August 13, at the Benson Hotel, 309 SW Broadway, Windsor Room, from 1:30 p.m. to 3:30 p.m. to provide information about the program, answer questions and record public comment on priorities and the selection of Forest Legacy Areas. Those who live in Multnomah, Clackamas, Washington, Columbia, Clatsop, Tillamook and Yamhill counties, which are areas that have been identified as having potential Forest Legacy Areas, are encouraged to attend-particularly those who reside in and near the Gresham, Milwaukee, Hillsboro, Beaverton, Tigard, Tualatin, Lake Oswego, Oregon City, Gladstone, West Linn, Wilsonville, Forest Grove and Newburg communities. The Forest Legacy Program, which is a completely voluntary program funded by the U.S. Forest Service, helps eligible states protect privately owned forestlands from conversion to urban, residential or agricultural non-forest use. The federal funds are used to acquire conservation easements or to purchase land from landowners wishing to participate in the program. The program provides private landowners a means to conserve the special environmental, economic and social values of their land for future generations. The Legacy program is based exclusively on the "willing seller -willing buyer" concept and does not involve eminent domain taking or condemnation of property. Through the use of conservation easements, owners maintain property rights and usually continue to live on and work or manage the property. The easements are legally binding agreements that transfer property rights from one party to another without removing the property from private ownership. "The Forest Legacy Program can help define how we can avoid implementing further environmental regulation and offer incentives to achieve the common objectives of all Oregonians," said Jim Kagan, Director of the Oregon Natural Heritage Program. "The trend has been for state and local governments to take action through planning and tax policy incentives. Private land trusts are also helping to purchase and protect such forestland, but they, alone, can't conserve all that are environmentally important. The Forest Legacy Program can help us accomplish even more." While 22 states have already completed their Assessment of Need, which describes how the program will work, Oregon is the only state to hold public meetings before legacy areas were selected, according to Kagan. Legacy areas are the places in which landowners are eligible to participate in the program. The meetings have been scheduled in several communities throughout the state: Portland, Salem, Eugene, Philomath, Roseburg, Central Point, Klamath Falls, Bend, LaGrande and The Dalles. The Oregon Natural Heritage Program is working in conjunction with the Oregon Department of Forestry and other government agencies and nonprofit organizations, such as the Trust for Public Lands and the Nature Conservancy, to guide the state's plan describing the need for the program, identifying where forests are being converted and explaining how the state proposes to manage the program.*
+
+| Thursday August 16 Red Lion Inn -North |  | 541-382-7011 |
+| --- | --- | --- |
+| 7:00 -9:00 p.m. | 1415 NE 3 rd Avenue |  |
+|  | Bend |  |
+| La Grande Tuesday August 21 Oregon Department of Forestry |  | 541-963-3168 |
+| 7:00 -9:00 p.m. | Northeast Oregon District |  |
+|  | 611 20 th Street |  |
+| FOR | La Grande |  |
+| The Dalles Wednesday Aug. 22 Columbia Gorge Discovery Center 541-296-8600 |  |  |
+| 7:00 -9:00 p.m. | Wasco County Historical Museum |  |
+|  | 5000 Discovery Drive |  |
+|  | The Dalles |  |
+
+[/TABLE]
+
+[TABLE:  Forest Legacy Program was created by Congress in the 1990 Farm Bill. Its purpose is to help landowners, state and local governments and private land trusts identify and protect important forestlands that are threatened by present and future conversion to nonforest uses.Public comment regarding the selection of Forest Legacy Areas in Oregon will be accepted through August 27, 2001, and may be directed to Jim Kagan, Director of the Oregon National Heritage Program at (503) 731-3070, ext. 111, or by e-mail at jimmy.kagan@orst.edu. He may also be contacted for more information about the Forest Legacy Program.Wally Rutledge, Oregon Department of Forestry, may also be contacted for further information about the program at (503) 945-7392 or by e-mail at wrutledge@odf.state.or.us. Additional information is also available on the U.S. Forest Service web site at http://www.fs.fed.us/spf/coop/flp.htm or the Oregon Department of Forestry web site at www.odf.state.or.us. A draft of the Assessment of Need can be found in PDF format on the ODF web site.Accommodations for people with disabilities, and special materials, services or assistance can be arranged by calling the ODF Public Affairs Office at least 48 hours prior to the meeting, 503-945-7424, text telephone (TTY) 1-800-467-4490 (outside Salem),.]
+2021 Forest Facts; Oregon Forest Resources Institute.
+Oregon's Statewide Planning Goals & Guidelines. Goal 4: Forest Lands. Available online at: https://www.oregon.gov/lcd/OP/Documents/goal4.pdf
+Lettman et al. 2016. Forests, Farms & People: Land Use Change on Non-Federal Land in Oregon, 1974-2014. Available online at: https://inr.oregonstate.edu/biblio/forests-farms-people-land-use-change-non-federal-land-oregon-1974-2014 
+See the Oregon Spatial Data Library for publicly-available land use geospatial data from this project: https://spatialdata.oregonexplorer.info/geoportal/details;id=6609864428db4afd9d5a202c090a6eb0
+Oregon's Use of the Good Neighbor Authority
+The Wildland Fire Leadership Council "A Collaborative Approach for Reducing Wildland Fire Risks to Communities and the Environment" (10 year Strategy Implementation Plan) (December 2006) According to Goal Four-Promote Community Assistance pg. 19
+University of Wisconsin-Madison Silvis Lab (2010) Retrieved from http://silvis.forest.wisc.edu/maps-data/
+Oregon Department of Forestry (January 2020) Retrieved from https://www.oregon.gov/odf/Fire/Pages/CWPP.aspx
+Federal Register(January 4, 2001 (66 FR 751) *An initial list of urban wildland interface communities, in accordance with Title IV of the FY 2001 Appropriations Act for the Department of Interior and Related Agencies (Pub. L. 106-291). Compiled from preliminary information provided by the States and Tribes and prepared for publication by the Secretaries of Agriculture and the Interior. The information in the updated list was compiled at the state and/or tribal level by collaborative interagency groups. As a result of this collaborative effort, the secretaries prepared a more complete list that better reflects the relationship between federal lands and the urban wildland interface problem in the United States. This annotated list supersedes the list.
+2019 Forest Report, Oregon Forest Resources Institute, p. 45. Report can be found at: https://www.oregonforests.org/pub/2019-forest-report
+Oregon Forest Facts, 2019-20 Edition: https://oregonforests.org/node/172
+Based on the number of plant associations described in the National Vegetation Classification System by the Association for Biodiversity Information
+
+## Acknowledgments
+
+Completion of this update to Oregon's Forest Action Plan was only possible through generous input, engagement, assistance, review and coordination on many levels. A series of unexpected and historic events emerged through 2019-2020 that challenged this entire process. Through it all, with the input of so many, the resulting strategy will guide the 
+Oregon Department of Forestry
+ into the next five-year cycle. The Oregon Department of Forestry is indebted to everyone that contributed to this action plan.
+
+## Oregon's Stewardship Coordinating Committee
+
+Seth Barnes
+, 
+Oregon Forest Industries Council Kelley Beamer, Coalition of Oregon Land Trusts Clint Bentz
+, 
+Forestland Owner Dick Courter
+, Consultant CalLee Davenport, 
+USF&W Janelle Geddes, USFS S&P Forestry Eric Hartstein, Oregon Watershed Enhancement Board Morgan Holen, Oregon Community Trees Jim James, Oregon Small Woodlands Association Gary Jensen, OSWCC Jim Johnson, OSU Extension Kristin Kovalik, Trust for Public Lands Rod Krahmer, Oregon Department of Fish and Wildlife Dan Logan, Landowner Amy Markus, Cohesive Strategy Coordinator, Fremont-Winema NF Nelson Mathews
+, 
+Trust for Public Land Taylor Murray
+, 
+USDA Andrew Owen, NRCS State Forester Rex Storm, Oregon Tree Farm System / Association Oregon Loggers Jon Weck, Landowner Oregon's Technical Advisory Committee Sam Angima, Oregon State University Extension Catherine Bailey, Natural Resources Conservation Service Lauren Bennett, Natural Resources Conservation Service Mike Brown, Bureau of Land Management Chris Chapa, Natural Resources Conservation Service Mikal Cline, Oregon Department of Fish and Wildlife Gary Diridoni, Natural Resources Conservation Service Mike Edwards, Natural Resources Conservation Service Sara Evans Peters, Pacific Birds Joint Venture Kathy Ferge, Natural Resources Conservation Service
+
+## Acknowledgements
+
+The development of this Assessment of Need was a truly cooperative effort. However, a number of people deserve particular credit. 
+Rick Brown
+ was a major source of inspiration and energy for everyone working on the project. Clearly, without Rick's efforts, this Assessment of Need would have taken at least another year. In addition, all of the members of the Oregon Forest Legacy committee deserve special credit for sticking with the process and providing time, wisdom and energy: 
+Hillary Abraham
+, 
+Brenda Brown
+, 
+Sam Hodder
+, and 
+Steve Gordon
+.
+The primary team who put the plan together included 
+Jim Cathcart
+ and 
+Wally Rutledge
+ of 
+ODF
+, 
+Ray Abriel
+ of the 
+Forest Service
+, and 
+Jimmy Kagan
+ of ORNHP. Rachel White Scheuering authored or complied much of the initial sections of this AON, and provided guidance and editing. 
+Theresa Koloszar
+ was a key editor, as well as attending all the public meetings, taking minutes and putting together the summary of the work. 
+John Hak
+ of ORNHP did most of the GIS analysis for the project, and 
+Claudine Tobalske
+ of ORNHP made most of the figures and maps.
+Gail Barnhart of ODF provided support for the entire project, set up the public meetings, and generally kept things in order. 
+Arlene Whalen
+ of ODF put together the press releases and helped make sure we got the word out, and 
+Mike Delaune
+ of ODF put together the PDF for the web page. We would like to thank 
+Jeff Kline
+ of 
+OSU Forest Science
+ and 
+Gary Lettman
+ of 
+ODF
+ for providing us with their excellent work on forest losses and other economic data. Chad McGrath of the 
+Department of Geology and Mineral Industries
+ provided information on forest soils and productivity. We would also like to thank 
+Mark Megalos
+ of the 
+North Carolina Forest Legacy Program
+, and 
+Barbara Tormoehlen
+ of the 
+Forest Service (and Indiana Legacy Program)
+ for their guidance in putting the project and AON together. In addition, Rick Cooksey the Forest Legacy Coordinator in Washington, D.C. and 
+Charlie Krebs
+, the 
+Cooperative Forestry Program Manager of Region 6
+ provided important edits to the document. We appreciate their time and advice. The Oregon Natural 
+Heritage Program
+ assumes responsibility for any errors that remain. Both the Heritage Program and the 
+Oregon Department of Forestry remain
+ interested in receiving comments regarding any of the material in this plan. Jimmy Kagan Oregon Natural Heritage Program This document may be referenced as: 
+Oregon Department of Forestry. 2001. Oregon Forest Legacy Program -Assessment of Need. Oregon Natural Heritage Program
+, Portland, OR. 108 pp. We would also like to acknowledge the efforts and encouragement of your staff, especially 
+Ray Abriel
+ and 
+Charlie Krebs
+, in assisting us with the AON. We are thankful of your support and look forward to final approval of the 
+AON by national program
+ staff and the Secretary of Agriculture so we can begin implementing the program immediately. Sincerely John 
+A. Kitzhaber
+, M.D. JAK/NR/sm
+Oregon State Stewardship Coordinating Committee: Hillary Abraham Dick Courter Fred Ringer Ray Abriel Ed Hendrix Wally Rutledge -Chair Jeff Boechler Dan Loga n Philip VanDoren Brenda Brown Steve McClure Craig Ziegler Rick Brown Scott
+ Reed This assessment of need was funded with a grant from the 
+U. S. Department of Agriculture
+, 
+Forest Service
+ and developed and written, under and interagency agreement, by 
+Oregon Natural Heritage Program Jimmy Kagan
+, 
+Compiler Rachael Scheuering
+, Technical Writer Theresa Koloszar, Editor 
+John Hak
+, 
+GIS Analysis Claudine Tobalske, Graphics Oregon Department of Forestry Wally Rutledge
+, Director of 
+Forestry Assistance Jim Cathcart, Forest Resource Trust Manager U. S. Department of Agriculture, Forest Service, Pacific Northwest Region State and Private Forestry -Cooperative Programs Charlie Krebs
+, Director, 
+Cooperative Programs Ray Abriel, Landowner Assistance Program Manager
+Trust for Public Land Taylor Murray
+Cooperative Forestry Program Manager of Region 6
+Heritage Program
+Oregon Department of Forestry. 2001. Oregon Forest Legacy Program -Assessment of Need. Oregon Natural Heritage Program
+AON by national program
+Oregon State Stewardship Coordinating Committee: Hillary Abraham Dick Courter Fred Ringer Ray Abriel Ed Hendrix Wally Rutledge -Chair Jeff Boechler Dan Loga n Philip VanDoren Brenda Brown Steve McClure Craig Ziegler Rick Brown Scott
+Cooperative Programs Ray Abriel, Landowner Assistance Program Manager
+? Establish enrollment periods for receiving letters of interest from landowners (and partners) for forest legacy funds for the acquisition (easement or fee title) of specific properties.
+? Establish guidelines for the desired content and format for writing letters of interests.
+? Review letters of interest upon receipt and screen them to ensure that minimum program eligibility requirements are met by the property in question and for those properties meeting the minimum requirements, make an initial determination of site significance based on the criteria for evaluating and selecting sites (discussed below).
+? Notify landowners of the results of this screen.
+? Secure a go forward agreement with eligible landowners owning significant sites.
+? Identify which local government or state agency will hold title and the type of transaction (fee title or easement). ? Identify who will be responsible for monitoring and the availability of monitoring funds.
+? Conduct property due diligence where go forward agreements have been obtained.
+? List and rank properties with completed (or near completed) due diligence.
+? At least annually, meet with the State Stewardship Coordinating Committee to review listed properties and select transactions for funding based on available funds. Maintain a list of desired transactions which could not be funded due to a lack of forest legacy funds.
+? Close on transactions where funding is available (both forest legacy and required match).
+For example, landowners who want to participate may submit a letter of interest to the Oregon Department of Forestry's Forestry Assistance Program. To enroll their lands in the FLP, interested landowners should supply information about the property and identify any partner organization. Landowners have the option of donating a conservation easement or fee-title to the FLP or applying to have an easement or title purchased through the FLP.
+ODF plans to develop guidelines for landowners to use in the inquiry process. Many of these will be adopted from other states' successful Forest Legacy programs. At a minimum, landowners will have to submit information which identifies the location of the property, the primary values of the site, and the primary reasons they wish to participate in the program.
+
+## Final site selection procedures
+
+The Forest Legacy Program will evaluate sites on an annual basis. Applications for properties which ODF determines meet the minimum criteria will be initially rated based on a preliminary evaluation of the criteria listed above as a means to gage the application's potential for funding. ODF will notify the landowners of this funding potential. If the landowner remains interested and is willing to commit to completing a forest stewardship (or equivalent) plan, the application will receive further consideration. The forest stewardship (or equivalent) plan will need to demonstrate the significance of the ecological, social and economic values to be protected if the property remains in forest use.
+All new and existing unfunded projects will be evaluated each year with the best possible projects being selected for funding. All non-selected applicants will continue to remain eligible as long as they are interested, and will not have to re-apply to be considered for funding in subsequent years. Ratings for all evaluated projects will be made available. 
+
+## APPENDIX A: Oregon ecoregion descriptions
+
+## Appendix B. Details of the legacy area analysis
+
+This appendix includes details for the information used in the analysis, locations of the data sets, and information on how they were applied. Complete tables and data are available at ORNHP, 1322 SE Morrison St, Portland, OR. The data includes ecological, social, and economic data.
+Biological -Ecological a) Rare, threatened and endangered (T&E) species occurrences and habitat Data from the Oregon Natural Heritage Program's T&E species databases (Figure 
+1
+). Maintained in ArcInfo and Advanced Revelation at ORNHP, 1322 SE Morrison St, Portland, OR. The analysis used number of occurrences of all sensitive species, based on the Association for Biodiversity Information's national ranking system. Evaluated were all species ranked G1-G3 (Globally critically endangered -threatened) and S1-S2 (State Endangered). Occurrences were given points based on the rank, with G1 occurrences given 5 points; G2, 3; and G3, S1, or S2 1 point. The total number of occurrences, the area they occupied, and the points based on threats were used in the analysis. For endangered and threatened fish occurrences, miles of stream was used instead of area of habitat occupied.
+
+## b) Acreage of all private forest lands
+
+This information was based on the 1999 USGS Gap Analysis Land Use -Land Cover map (Figure 
+6
+). The cover is maintained by the Oregon Natural Heritage Program, which is the Oregon Gap Analysis Program (OR-GAP), office. It was based on satellite imagery from 1991-1993, and has a resolution of 320 acres, so it is fairly coarse. Forest habitats were aggregated, and overlapped with the Land Ownership coverage of Oregon, also developed by OR-GAP. The data is based on 1:100,000 statewide information, from BLM maps, updated with higher resolution information (1:24,0000) from the individual BLM, USFS and state agency offices. The data used in the analysis was the acreage figure for private forest lands.
+For the Willamette Valley legacy areas, ORNHP used an aggregated vegetation coverage developed from three pieces. The first was a 1:24,000 vegetation map of the Willamette Valley, excluding the Portland Metro Area, developed by the Oregon Department of Fish and Wildlife. The vegetation was mapped and on Ortho-Photo U.S.G.S. quadrangles, and digitized by ODFW. It resides at their Corvallis Office. The second was a vegetation map produced by Ecotrust for the Metro Government's Greenspaces Program. This used recent satellite imagery and mapped areas as small as one acre. The third was a cover developed by the U.S. Forest Service, Forest Sciences Lab, affiliated with Oregon State University's Department of Forestry. This cover was used to fill in areas not covered by the other two. c) Acreage of priority forest habitats (oak-woodlands, riparian bottomlands and ponderosa pine forest types) For the statewide analysis, the OR-GAP Land-Use Land-Cover map was used to determine the acreage of these priority habitat types within each potential legacy area. Previous analysis (OR-GAP, Oregon Biodiversity Project, and State of the Environment Report) identified these as the priority forest habitat types statewide. These previous analysis looked at a combination of factors, primarily historical acres lost and current acres of each type protected.
+
+## d) Importance of legacy area to priority wildlife species
+
+This coverage was also based on the OR-GAP datasets and results, on file at the Oregon Natural Heritage Program. Priority wildlife species were identified in the OR-GAP final report, based on a combination of factors, including the percentage of each species current and historic habitat protected as well as the percentage of current and historic habitat lost (due to habitat conversion or range contraction). Details of this analysis are found in the OR-GAP final report 
+(Kagan et al. 1999)
+, and the data is available from ORNHP. For the forest legacy analysis, the subset of the priority species which use or are found in forests was used, determined by the wildlife habitat relationships database, and refined by ORNHP staff. There were 64 species included which are: For the analysis, two factors relating to these 64 species distributions were evaluated. The first was the overall priority species richness for each legacy area, based on the sum of the acreage of all these species in each legacy area. The second was the number of species for which any legacy area provided a significant amount of their habitat (at least 10%). In the final analysis, we used only the second factor. e) Viability of the remaining forests in the area and ability of forests to add to or provide buffers for existing national forests, state forests, state parks, or other protected areas This was based on the average size of the private forests in each of the potential legacy areas. It used the statewide OR-GAP Land-Use Land Cover map overlain with the ownership map to differentiate private and public forests. For each legacy area, the mean size of forested patches was calculated, and the average area for the forested patches remaining was calculated. Unfortunately, the data available for all but the Willamette Basin was not reliable enough to allow us to use this excellent measure of private forest viability in the final legacy area analysis. Social (a) Immediacy, significance and magnitude of conversion threats as defined by: ? Acreage of forest habitats lost between 
+1974
+-1994 (in western Oregon) (in western Oregon)
+ This western Oregon coverage was developed by ODF (Figure 
+10
+). It is maintained at the ODF Office in Salem and the ODF contact is Gary Lettman. Complete information on how the coverage was developed is outlined in the ODF publication, Forests, Farms and People 
+(Azuma et al. 1999)
+. The coverage was developed by comparing air photographs of forests from 1974 with those from 1994, and comparing changes. For the forest legacy analysis, the total acreage of habitat lost in each of the western Oregon legacy areas was used. ? Acreage of forest habitats estimated to be lost by 2005 (in western Oregon)
+
+## Species name Species name
+
+This map was based on modeled data (Figure 
+12
+). It was developed by Jeff Kline and others at the OSU Forest Sciences Laboratory, in Corvallis. It was used in this analysis by totaling the acreage of predicted forest losses by 2005 in each potential legacy area. ? Acreage of forest habitats lost since European settlement 
+(approx. 1850)
+ The data used in the analysis was determined by subtracting the forest acreage within each potential legacy area based on the existing OR-GAP Land-Use Land Cover map (Figure 
+8
+), from the acreage figure determined from the Presettlement Vegetation Cover, 2001 edition (Figure 
+7
+). The OR-GAP Land-Use Land-Cover map is described above and maintained at ORNHP.
+The Presettlement Vegetation Coverage, 2001 edition was developed by and is maintained by ORNHP. This cover shows the vegetation of Oregon from approximately 1850. The forest information in this cover is from two sources. The first is an Oregon-Washington forest map obtained from the OSU Forest Sciences Lab, and developed by H.J. Andrews in 1936. This cover maps forest types, based on surveys done in the 1930's. There is no clear scale, but based on the polygon sizes and details, it is estimated at approximately 1:100,000. Generally Andrews' types were used, although a few classes, such as "balsam fir" were reclassed into "grand fir, subalpine fir, Pacific silver fir, and red fir-white fir", based on geography and elevation. The few areas mapped by Andrews as recent clearcuts or burns were reclassed by Jimmy Kagan of ORNHP and Jim Stritholt of the Conservation Biology Institute into the most appropriate adjacent forest class.
+The table below shows the summary of the data, and final results. The index formula used the log of the sum of the first six factors (with priority habitats weighted over the acreage of forest losses and private forests) + the Economic, Social and Threat Factors. These last three factors carried the greatest weight. 
+
+## Legacy Area Priority
+
+## Appendix C. Public information and comments
+
+Included below are the public participation plan, the press releases prepared for the development of this AON. A compendium of all the public comments received, through letters or emails, is available from ODF upon request.
+
+## Oregon Forest Legacy Program -Assessment of Need: Public Involvement Plan
+
+Everything in the process of developing the Oregon Forest Legacy Assessment of Need will include as much public involvement as possible. Public participation will be sought in both the development of the plan, in review of the draft plan outline, and in the review of the draft plan. The basic process will include: 1) Public Notice of the AON process. ORNHP drafts and ODF sends out a press release, announcing that the AON is being developed and asking for interested parties. The press release is widely distributed. 2) A subcommittee of interested citizens is established to assist ODF and ORNHP in the development of the AON. This includes everyone who expressed an interest in the program. a. Meetings are held irregularly, but all meetings, minutes, and decisions are developed providing information by email to all interested parties. b. Any key decisions regarding potential legacy areas, criteria for selection of legacy areas or sites, data to be used in the assessment will be sent by email (or regular mail) to all interested parties. 3) Meet with the ODF State Stewardship Coordinating Committee, to obtain their approval of the goals, objectives and the methods used to develop the AON. 4) Once an initial list of potential legacy areas is developed, local leaders will be notified of the Forest Legacy Program, and visited by staff in person or over the phone to obtain local contacts, and to ascertain potential interest. 5) Public meetings, to review the draft AON strategy, including potential Forest Legacy Areas, and criteria to be used in selecting legacy areas, will be located throughout the state. Locations selected at the beginning of the process include: Portland, Salem, Corvallis, Eugene, Roseburg, Medford, La Grande, Bend, Klamath Falls and Coos Bay.
+Since there are limited threats in the Coos Bay area, and the potential legacy areas along the south coast ranked so low, we may choose to skip Coos Bay. Similarly, Klamath Falls may also be eliminated, or replaced with Tillamook or The Dalles, which remain as potential locations for potential legacy areas. The final list of proposed sites is:
+Portland, Salem, Corvallis, Eugene, Roseburg, Medford, La Grande, Bend, Klamath Falls, and The Dalles.
+At the public meetings, use forms developed by North Carolina to obtain input on potential legacy areas, boundaries, goals and objectives, and other important values. If possible, obtain input on objectives used to evaluate legacy areas, potential sites to be selected for enrollment, and to identify local partners. 6) Accumulate the comments from the public meetings, and develop a first-draft AON.
+Distribute the AON to all members of the SSCC, and the Forest Legacy subcommittee for their review. Forest Legacy requires landowners to prepare a multiple-resource management plan, which may include timber harvest. Protecting private forests from development is a key objective. However, lands included in the program do not have to be managed for timber production, and owners of non-commercial forests are welcome to participate. The idea is to maintain forestlands that provide wildlife habitat, soil and watershed protection, timber products, recreational opportunities and aesthetics.
+ODF officials have discussed the loss of forestland in western Oregon in meetings with the Oregon Natural Heritage Program, the U.S. Forest Service, and others, and have identified sixteen geographic areas constituting environmentally important forestlands that may be in need of protection from conversion and encroachment. A map of these areas is available. 
+
+## Upcoming dates and locations for
+
+Bibliography and References
+Ix
+Planning the Oregon Way: A Twenty-Year Evaluation
+C
+Abbott
+D
+Howe
+S
+Adler
+1994
+Oregon State University Press
+Corvallis, OR
+Land-use change on non-federal in western Oregon, 1973-1994
+D
+L
+Azuma
+K
+R
+Birch
+P
+Delzotto
+A
+A
+Herstrom
+G
+J
+Lettman
+1999
+USDA Forest Service, Pacific Northwest Research Station, and Oregon Departments of Forestry, Land Conservation and Development, and Agriculture
+First Approximation Report -Oregon's Forests at the Millennium
+Kevin
+Birch
+Coordinator
+Oregon Department of Forestry
+Salem, Oregon
+2000
+Legacy and Promise: Oregon's forests and wood products industry
+J
+Beuter
+1996
+Oregon Business Council and Oregon Forest Resources Institute
+Timber for Oregon's Tomorrow
+John
+H
+Beuter
+Forest Ecosystem Management Assessment Team
+K
+Norman Johnson
+Forest Ecosystem Management Assessment Team
+H
+Lynn Scheurman
+Forest Ecosystem Management Assessment Team
+Forest ecosystem management: An ecological, economic, and social assessment
+National Marine Fisheries Service
+Corvallis, Oregon; Portland, Oregon
+United States Department of the Interior, Bureau of Land Management; United States Department of the Interior, Fish and Wildlife Service; United States Department of the Interior
+1976. 1993
+19
+Forest Research Laboratory, School of Forestry, Oregon State University ; National Park Service; Environmental Protection Agency
+Paginated by chapter
+Conservation plans for the northern spotted owl and other forest management proposals in Oregon: the economics of changing timber availability
+Brian
+J
+Greber
+K
+Norman
+Johnson
+Gary
+Lettman
+1990
+50
+Corvallis, Oregon
+Forest Research Laboratory, College of Forestry, Oregon State University
+Oregon Gap Analysis Project Final Report: A geographic approach to planning for biological diversity
+J
+S
+Kagan
+J
+C
+Hak
+B
+Csuti
+C
+W
+Kiilsgaard
+E
+P
+Gaines
+Oregon Natural Heritage Program
+1999
+Portland, OR. 72 pp. + appendices
+Oregon Blue Book, 1999-2000. Secretary of State's Office, Salem, OR
+P
+Keisling
+Tim Torgerson
+1999
+431
+The Regulated Landscape: Lessons on State Land Use Planning from Oregon
+A
+Knapp
+A
+C
+Nelson
+1992
+Cambridge, MA
+Lincoln Institute of Land Policy
+Assessment of Oregon's Forests
+Gary
+J
+Lettman
+1988
+Oregon Department of Forestry, Forest Resources Planning Section
+263
+Salem, Oregon
+The historic expansion of Juniperous occidentalis (western juniper) in southeast Oregon
+R
+F
+Miller
+J
+A
+Rose
+Great Basin Naturalist
+55
+1
+1995
+Wildlife of westside and high montane forests, in Wildlife-Habitat Relationships in
+D
+H
+Olson
+J
+C
+Hagar
+A
+B
+Carey
+J
+H
+Cissel
+F
+J
+Swanson
+Oregon and Washington, D.H. Johnson and T.A. O'Neil
+2001
+Oregon State University Press
+Oregon's Living Landscape: Strategies and Opportunities to Conserve Biodiversity. Defenders of Wildlife
+Oregon Biodiversity Project
+1998
+Lake Oswego, OR
+ODF, Salem, OR. Oregon Forest Resources Institute. 1999. Forest Fact Book: Answers to frequently asked questions about forests and forestry in Oregon
+Oregon Forests Report
+Portland, OR
+Oregon Department of Forestry
+2001. 2001
+Rare, threatened and endangered plants and animals of Oregon. Oregon Natural Heritage Program
+2001
+Oregon Natural Heritage Program
+94
+Portland, OR
+Oregon Natural Heritage Plan. Natural Heritage Advisory Council, State Land Board, 775 Summer St
+1998
+Oregon Natural Heritage Program
+138
+NE, Salem
+Oregon Natural Heritage Plan. Natural Heritage Advisory Council, State Land Board, 775 Summer St
+1998
+Oregon Natural Heritage Program
+138
+NE, Salem
+State of the Environment Report. Oregon Progress Board, 775 Summer St
+NE, Salem
+2000
+Oregon State of the Environment Report Science Panel
+Ecoregions of Western Washington and Oregon
+D
+E
+Pater
+S
+A
+Bryce
+T
+D
+Thorson
+J
+S
+Kagan
+C
+Chappell
+J
+M
+Omernik
+S
+H
+Azevedo
+A
+J
+Woods
+EPA map and poster
+Corvallis, OR
+1998
+Integrated scientific assessment for ecosystem management in the interior Columbia basin and portions of the Klamath and Great Basins
+T
+M
+Quigley
+R
+W
+Haynes
+R
+T
+Graham
+Gen
+303
+1996
+PNW Research Station
+Portland, OR
+Tech. Rep. PNW-GTR-382
+Coordinator. Timber for Oregon's Tomorrow -The 1989 Update
+John
+Sessions
+1990
+183
+Corvallis, Oregon
+Forest Research Laboratory, College of Forestry, Oregon State University
+Oregon timber supply assessment -projections of future available harvests
+David
+H
+Stere
+R
+Blair
+Gary
+Hopps
+Lettman
+1980. 1980
+Oregon State Department of Forestry
+165
+Salem, Oregon
+No Place for Nature. Defenders of Wildlife, Lake Oswego, Oregon. 69 pp. Willamette Restoration Initiative
+P
+Wiley
+2001. 2001
+40
+Salem, OR
+Restoring a River of Life. Willamette Restoration Initiative

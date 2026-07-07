@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main"></title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">F9021BD6D2235FAD0B2FFD45C93E3F91</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.1" ident="GROBID" when="2026-07-06T15:18+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract/>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0" /><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figure A6- 1</head><label>1</label><figDesc>Figure A6-1 Terrestrial Conservation Opportunity Areas: Pre-2015 Data ........................................</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Figure A6- 2</head><label>2</label><figDesc>Figure A6-2 Terrestrial Conservation Opportunity Areas: 2015-2024 Data .....................................</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Figure A6- 3</head><label>3</label><figDesc>Figure A6-3 Terrestrial Conservation Opportunity Areas: Pre-2015 and 2015-2024 Data ...............</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>Figure A6- 4</head><label>4</label><figDesc>Figure A6-4 Aquatic Conservation Opportunity Areas: Pre-2015 Data ............................................</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head>Figure A6- 5</head><label>5</label><figDesc>Figure A6-5 Aquatic Conservation Opportunity Areas: 2015-2024 Data .........................................</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_5"><head>Figure A6- 6</head><label>6</label><figDesc>Figure A6-6 Aquatic Conservation Opportunity Areas: Pre-2015 and 2015-2024 Data ..................</figDesc></figure>
+		</body>
+		<back>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Appendix 6 includes maps of known locations of terrestrial and aquatic species tracked by the New York Natural Heritage Program (NYNHP) and used in the 2025 New York State Wildlife Action Plan. Not all locations in the state have been surveyed, and the locations shown on the maps are not inclusive of all the potential locations of tracked species. Many locations have not been surveyed recently, and some data shown may be outdated. These maps are for informational purposes only and should not be used in decision making for planning or project development. Contact the New York State Department of Environmental Conservation or NYNHP for more information.</p></div>			</div>
+			<div type="references">
+
+				<listBibl/>
+			</div>
+		</back>
+	</text>
+</TEI>
+

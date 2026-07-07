@@ -1,0 +1,629 @@
+{
+  "document_meta": {
+    "title": "Indiana State Wildlife Action Plan",
+    "year": 2015,
+    "jurisdiction": "Indiana",
+    "document_type": "SWAP",
+    "document_id": "IN_SWAP_2015",
+    "page_count": 293
+  },
+  "orientation": {
+    "summary": "This is Indiana's 2015 State Wildlife Action Plan (SWAP), a revision of the 2005 Comprehensive Wildlife Strategy, produced by the Indiana Division of Fish and Wildlife. The document is a habitat-based planning document covering Species of Greatest Conservation Need (SGCN) across six planning regions. Climate change is acknowledged as a threat category ('Climate Change and Severe Weather') but is treated as a minor-to-moderate threat across all regions and is never a central framing element; the plan does not perform any climate modeling or vulnerability assessments and does not frame conservation priorities through a climate lens. Range shifts are not mentioned in the document; the only range-shift-adjacent language involves corridor preservation and habitat connectivity, which are framed in generic habitat fragmentation terms rather than as climate-driven range-shift facilitation. The document performs its own surveys (Species Survey and Habitat Survey) and landscape-level habitat models, but these are not climate-driven and the modeling results were largely set aside from the final plan.",
+    "evidence_index": [
+      {
+        "text": "Climate Change and Severe Weather: Threats from long-term climate changes that may be linked to global warming and other severe climatic or weather events outside the natural range of variation that could wipe out a vulnerable species or habitat",
+        "location": "C. THREATS AND ACTIONS BY MAJOR HABITAT TYPE",
+        "relevant_elements": ["1.1", "3.5", "3.6", "3.7"]
+      },
+      {
+        "text": "Climate change and severe weather received a mean rating between moderate and minor threat. However, changing frequencies of drought and shifting and alteration of habitats were both specific threats rated between significant and moderate across species.",
+        "location": "Species Survey (Threats section)",
+        "relevant_elements": ["1.1", "3.5", "3.7"]
+      },
+      {
+        "text": "More than half of the respondents reported that their agency would not be able to respond to genetically modified species spreading into natural systems (52.3%), changing temperatures (66.3%), increasing frequency in extreme weather (71.7%), increasing frequency, duration, and intensity of floods (63.6%), changing water availability and use (58.6%), and emerging diseases (54.3%).",
+        "location": "Additional Efforts Needed",
+        "relevant_elements": ["3.4", "3.5", "3.6"]
+      },
+      {
+        "text": "The actions will be adapted based on the best science available on emerging threats and opportunities, such as invasive species, emerging diseases, climate change, market forces, and other threats or opportunities that will influence species and habitats in Indiana over the next decade.",
+        "location": "THE EFFECTIVENESS OF THE CONSERVATION ACTIONS TAKEN",
+        "relevant_elements": ["4.5", "1.1"]
+      },
+      {
+        "text": "Shifting and alteration of habitats due to climate change — top specific threats to habitats listed in Great Lakes Region developed lands and forests.",
+        "location": "[FIGURE: Great Lakes Region habitat threats]",
+        "relevant_elements": ["3.5", "3.7", "1.1"]
+      },
+      {
+        "text": "Generally, changing frequency, duration, and intensity of drought and shifting and alteration of habitats due to climate change were identified as the top ranked threats for habitats in this region.",
+        "location": "Threats Affecting Habitats Top Threat Categories (Interior Plateau Region)",
+        "relevant_elements": ["1.1", "3.5", "3.7"]
+      },
+      {
+        "text": "All specific threats within climate change and severe weather were classified as significant to moderate for the entire region. Generally, changing frequency, duration, and intensity of drought and shifting and alteration of habitats due to climate change were identified as the top ranked threats for habitats in this region.",
+        "location": "Threats Affecting Habitats Top Threat Categories (Interior Plateau Region)",
+        "relevant_elements": ["1.1", "3.5", "3.7"]
+      },
+      {
+        "text": "within the climate change category, temperature extremes, shifting seasons, and changing frequency/duration of droughts were rated as significant to moderate specific threats within the region.",
+        "location": "Threats Affecting Habitats Top Threat Categories (Drift Plains Region)",
+        "relevant_elements": ["1.1", "3.5", "3.7"]
+      },
+      {
+        "text": "Conservation Opportunity Areas (COA) are intended to guide conservation activities at a landscape level... Is there habitat connectivity or the possibility of connectivity?",
+        "location": "D. CONSERVATION OPPORTUNITY AREAS",
+        "relevant_elements": ["1.4", "4.1"]
+      },
+      {
+        "text": "Terrestrial habitat COA were primarily based around areas of existing conservation efforts and those with the potential for increased connectivity and large-scale habitat project potential throughout the state.",
+        "location": "D. CONSERVATION OPPORTUNITY AREAS",
+        "relevant_elements": ["1.4", "4.1"]
+      },
+      {
+        "text": "Preserve currently existing corridors — listed as a top specific action across multiple regions and habitat types",
+        "location": "Top Specific Actions in Ranked Order (multiple regions)",
+        "relevant_elements": ["1.4", "4.1", "4.2"]
+      },
+      {
+        "text": "Habitat Fragmentation: Preserve and restore habitat corridors — DFW identified specific threat and action for Corn Belt Region",
+        "location": "Introduction (Corn Belt Region)",
+        "relevant_elements": ["1.4", "4.1", "4.2"]
+      },
+      {
+        "text": "Enhance connectivity of habitats — listed as a top SGCN action across multiple regions",
+        "location": "Top actions for SGCN (multiple regions)",
+        "relevant_elements": ["1.4", "4.2"]
+      },
+      {
+        "text": "Shifting and alteration of habitats 1 2 1 2 2 2 / Changing frequency, duration, and intensity of drought 2 1 2 3 4 1 / Temperature extremes 3 3 5 1 3 4 / Changing frequency and duration of floods 4 5 3 4 5 3 / Shifting seasons/phenology 5 4 4 5 1 5",
+        "location": "Table 5-6. Ranking of specific threats within categories for SGCN (Climate Change and Severe Weather sub-items)",
+        "relevant_elements": ["1.1", "3.5", "3.7"]
+      },
+      {
+        "text": "Climate Change and Severe Weather 7 7 6 8 10 9 10 — statewide rank and regional ranks for threat to habitats",
+        "location": "Table 5-7. Ranking of threat categories to habitats within each region.",
+        "relevant_elements": ["1.1", "3.5"]
+      },
+      {
+        "text": "Thirty-eight models were conducted using cover types from the 2011 NLCD to estimate the quality of current habitat conditions. The terrestrial models resulted in habitat suitability scores on maps for each of the selected species",
+        "location": "Landscape Modeling Efforts",
+        "relevant_elements": ["2.2", "4.1"]
+      },
+      {
+        "text": "The modeling for aquatic systems was built to predict and visualize stream quality across the state of Indiana. Aquatic modeling for streams was conducted by combining field data, statistical analysis, and GIS techniques.",
+        "location": "Landscape Modeling Efforts",
+        "relevant_elements": ["2.2"]
+      },
+      {
+        "text": "Conservation actions should be based on the best available science. Element five of the Congressional guidelines for the SWAP revision address the need for adapting conservation actions in response to new information or changing conditions.",
+        "location": "THE EFFECTIVENESS OF THE CONSERVATION ACTIONS TAKEN",
+        "relevant_elements": ["4.3", "4.4", "4.5"]
+      },
+      {
+        "text": "The effectiveness of the entire SWAP will be evaluated and addressed in subsequent reviews of this document (not to exceed ten years as delineated in Element six).",
+        "location": "THE EFFECTIVENESS OF THE CONSERVATION ACTIONS TAKEN",
+        "relevant_elements": ["4.3"]
+      },
+      {
+        "text": "Individual conservation goals set by partners may have specific timelines. The success of these efforts may be evaluated by the available monitoring efforts as appropriate to their specific timeline.",
+        "location": "THE EFFECTIVENESS OF THE CONSERVATION ACTIONS TAKEN",
+        "relevant_elements": ["4.3"]
+      },
+      {
+        "text": "Inadequate funding was identified as a major barrier by the most respondents. Concerns about capacity to complete projects stemming from lack of personnel and volunteer labor were also often reported.",
+        "location": "Additional Efforts Needed",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "The SWAP is not an operational plan. It does not identify specific tasks, assignments, or schedules for achieving conservation.",
+        "location": "INDIANA'S SWAP: WHAT IT IS, AND WHAT IT ISN'T",
+        "relevant_elements": ["4.3"]
+      },
+      {
+        "text": "Respondents identified anticipated threats to fish and wildlife habitats tied to expansion of agriculture and loss of CRP grasslands. Other respondents also noted that habitats may be threatened by the increased spread of invasive species",
+        "location": "Emerging/Anticipated Threats (Kankakee Region)",
+        "relevant_elements": ["3.7"]
+      },
+      {
+        "text": "Lack of collaboration and engagement, both across agencies and with stakeholders was identified as a major barrier to implementing conservation actions.",
+        "location": "Additional Efforts Needed",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "The Indiana Planning Regions... Great Lakes Region, Kankakee Region, Corn Belt Region, Valleys and Hills Region, Interior Plateau Region, and Drift Plains Region",
+        "location": "Development of Planning Regions",
+        "relevant_elements": ["3.1"]
+      },
+      {
+        "text": "a species presence in the state may be a result of recent range expansion. However, the TACs reason that disjunct populations or populations at the edge of their range may represent distinct gene pools that warrant conservation.",
+        "location": "Changes to the SGCN List",
+        "relevant_elements": ["1.3"]
+      },
+      {
+        "text": "Species reintroduction was also identified as important in forests, grasslands, and wetlands, with respondents suggesting reintroduction of extirpated native species, native grasses, quail and other game birds, crawfish frog, elk, black bears, wolves, hellbenders, and threatened mussel species.",
+        "location": "Conservation Actions Needed Top Action Categories (Drift Plains Region)",
+        "relevant_elements": ["4.2"]
+      },
+      {
+        "text": "Translocation program for Franklin's Ground Squirrels — listed as a top conservation action for SGCN in Great Lakes Region grasslands",
+        "location": "[TABLE: Great Lakes Region grasslands SGCN actions]",
+        "relevant_elements": ["4.2"]
+      },
+      {
+        "text": "Shifting and alteration of habitats due to climate change — listed as top specific second-level threat to habitats in Kankakee Region (rank 9 of 10)",
+        "location": "[TABLE: Kankakee Region top specific threats to habitats]",
+        "relevant_elements": ["3.5", "3.7"]
+      },
+      {
+        "text": "Shifting and alteration of habitats due to climate change — listed among top threats to fish and wildlife habitats in wetlands in the Kankakee Region (rank 10)",
+        "location": "[TABLE: Kankakee Region wetlands threats]",
+        "relevant_elements": ["3.5", "3.7"]
+      },
+      {
+        "text": "Shifting and alteration of habitats due to climate change — listed among top threats to fish and wildlife habitats in wetlands in the Corn Belt Region (rank 4)",
+        "location": "[CHAPTER XII / appendix section]",
+        "relevant_elements": ["3.5", "3.7"]
+      }
+    ]
+  },
+  "concepts": {
+    "climate_vulnerability": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Climate Change and Severe Weather: Threats from long-term climate changes that may be linked to global warming and other severe climatic or weather events outside the natural range of variation that could wipe out a vulnerable species or habitat",
+          "location": "C. THREATS AND ACTIONS BY MAJOR HABITAT TYPE",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document lists 'Climate Change and Severe Weather' as a threat category and names specific sub-threats (shifting and alteration of habitats, drought frequency, temperature extremes, shifting seasons), but never frames these in terms of exposure, sensitivity, or adaptive capacity. It does not use the word 'vulnerability' in a climate-specific ecological sense or decompose climate risk into recognizable components. Score 1: generic reference to climate as a threat to species/habitats, no exposure or adaptive capacity framing."
+    },
+    "adaptive_capacity_specificity": {
+      "evaluable": true,
+      "score": 0,
+      "evidence": [],
+      "absence_note": "The document does not reference adaptive capacity of species or habitats in any form — generic or specific. There is no discussion of species' ability to cope with climate change, disperse, evolve, or persist in place under climate pressure."
+    },
+    "adaptive_capacity_components": {
+      "demography": {
+        "present": false,
+        "evidence": []
+      },
+      "distribution": {
+        "present": false,
+        "evidence": []
+      },
+      "movement": {
+        "present": false,
+        "evidence": []
+      },
+      "evolutionary_potential": {
+        "present": false,
+        "evidence": []
+      },
+      "ecological_dependencies": {
+        "present": false,
+        "evidence": []
+      },
+      "abiotic_niche": {
+        "present": false,
+        "evidence": []
+      },
+      "life_history": {
+        "present": false,
+        "evidence": []
+      }
+    },
+    "connectivity": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Preserve currently existing corridors — top specific second-level conservation action, ranked among top habitat actions across multiple regions statewide",
+          "location": "Top Specific Actions in Ranked Order (multiple regions, e.g., Kankakee Region)",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Terrestrial habitat COA were primarily based around areas of existing conservation efforts and those with the potential for increased connectivity and large-scale habitat project potential throughout the state.",
+          "location": "D. CONSERVATION OPPORTUNITY AREAS",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "Connectivity is referenced generically throughout the document — corridor preservation, habitat connectivity for SGCN, COA identification considers connectivity potential. However, connectivity is never framed in relation to climate change, range shifts, or species tracking shifting climatic conditions. The document discusses corridors as a habitat fragmentation solution, not as a climate-gradient facilitation mechanism. Score 1 (generic, not climate-relevant)."
+    }
+  },
+  "tools": {
+    "vulnerability_models": {
+      "evaluable": true,
+      "score": 0,
+      "named_tools": [],
+      "evidence": [],
+      "absence_note": "No vulnerability models (CCVI, PVA, or other climate vulnerability assessment frameworks) are referenced anywhere in the document."
+    },
+    "niche_models": {
+      "evaluable": true,
+      "score": 1,
+      "named_tools": [],
+      "evidence": [
+        {
+          "text": "Thirty-eight models were conducted using cover types from the 2011 NLCD to estimate the quality of current habitat conditions. The terrestrial models resulted in habitat suitability scores on maps for each of the selected species",
+          "location": "Landscape Modeling Efforts",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document describes habitat suitability models built for 14 representative species using current land cover (NLCD 2011). These are functionally species distribution / habitat suitability models. However, they are not applied under climate scenarios, they use only current conditions, and the Core Team largely set aside the modeling results from the final plan. No future climate projections were used. Score 1: referenced/applied to focal species in current-conditions sense, but not in a climate-projection context. Named as habitat suitability models, no specific algorithm named (e.g., MaxEnt)."
+    },
+    "climate_models": {
+      "evaluable": true,
+      "score": 0,
+      "named_tools": [],
+      "evidence": [],
+      "absence_note": "No climate models, GCMs, downscaling products, RCPs, SSPs, or climate scenario tools are referenced anywhere in the document. Climate change is discussed qualitatively as a threat category but no formal climate modeling apparatus is used.",
+      "time_horizon_years": [],
+      "emission_scenarios": []
+    },
+    "connectivity_models": {
+      "evaluable": true,
+      "score": 0,
+      "named_tools": [],
+      "evidence": [],
+      "absence_note": "No connectivity models (CircuitScape, Linkage Mapper, least-cost path, etc.) are referenced. The document discusses corridor preservation and connectivity as a conservation action but does not reference any underlying connectivity modeling tools or outputs."
+    }
+  },
+  "context": {
+    "management_scale": {
+      "local": {
+        "present": false,
+        "evidence": []
+      },
+      "site": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "COA were identified as a way to direct actions toward specific areas on Indiana's landscape.",
+            "location": "D. CONSERVATION OPPORTUNITY AREAS",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "watershed": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The river corridors were identified for their unique aquatic habitat and species diversity but also for the opportunities to affect the habitats within the immediate 4-mile river corridors and ultimately the associated watersheds.",
+            "location": "D. CONSERVATION OPPORTUNITY AREAS",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "city": {
+        "present": false,
+        "evidence": []
+      },
+      "county": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Sorbo and Strube tracts in the Knobstone Escarpment/Knobs area, Floyd County (343 acres), and the Bloomington DFW Office (Girl Scout Office Complex), Monroe County",
+            "location": "REVISING THE ORIGINAL 2005 CWS",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "within_state_region": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Indiana's SWAP includes planning regions to better focus actions and priorities based on regional resources, needs, and threats.",
+            "location": "Development of Planning Regions",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "state": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The SWAP's overarching purpose is to unify conservation across the Indiana landscape.",
+            "location": "REVISING THE ORIGINAL 2005 CWS TO INCREASE EFFECTIVENESS, APPLICABILITY, AND MAGNITUDE",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "multistate": {
+        "present": false,
+        "evidence": []
+      },
+      "national": {
+        "present": false,
+        "evidence": []
+      },
+      "transnational": {
+        "present": false,
+        "evidence": []
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Concentrate actions on habitats, ecosystems, and landscapes",
+            "location": "D. CONSERVATION OPPORTUNITY AREAS",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecoregion": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "the Ohio River watershed was further divided using Omernik's level three ecoregions for southern Indiana",
+            "location": "Development of Planning Regions",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "province": {
+        "present": false,
+        "evidence": []
+      },
+      "section": {
+        "present": false,
+        "evidence": []
+      },
+      "subsection": {
+        "present": false,
+        "evidence": []
+      },
+      "lake": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Natural lake catchments were delineated for seven cold water and 22 cool water natural lakes.",
+            "location": "D. CONSERVATION OPPORTUNITY AREAS",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "river": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The river corridors were identified for their unique aquatic habitat and species diversity but also for the opportunities to affect the habitats within the immediate 4-mile river corridors",
+            "location": "D. CONSERVATION OPPORTUNITY AREAS",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "district": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["Indiana", "Great Lakes Region", "Kankakee Region", "Corn Belt Region", "Valleys and Hills Region", "Interior Plateau Region", "Drift Plains Region", "Floyd County", "Monroe County", "Kankakee River", "Ohio River", "Lake Michigan", "Blue River"]
+    },
+    "biological_unit_score": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Indiana's SWAP provides an overview of conservation threats in Indiana and identifies needed actions... The plan is intended to emphasize threats and actions for key habitats and communities for SGCN and all wildlife species.",
+          "location": "INDIANA'S SWAP: WHAT IT IS, AND WHAT IT ISN'T / C. THREATS AND ACTIONS BY MAJOR HABITAT TYPE",
+          "sub_component": "species and habitat",
+          "citations": []
+        },
+        {
+          "text": "Habitat conditions are presented from the perspective of SGCN and from wildlife habitats in general.",
+          "location": "B. STATEWIDE ASSESSMENT OF HABITATS",
+          "sub_component": "habitat",
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "biological_unit_components": {
+      "species": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Congressional guidelines dictate that the SWAP must identify and be focused on species in greatest need of conservation.",
+            "location": "A. DISTRIBUTION AND ABUNDANCE OF SGCN",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "population": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "the TACs reason that disjunct populations or populations at the edge of their range may represent distinct gene pools that warrant conservation.",
+            "location": "Changes to the SGCN List",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "habitat": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The SWAP identifies a habitat-centric perspective in order to manage for the conservation of species in Indiana.",
+            "location": "C. THREATS AND ACTIONS BY MAJOR HABITAT TYPE",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Concentrate actions on habitats, ecosystems, and landscapes",
+            "location": "D. CONSERVATION OPPORTUNITY AREAS",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "community": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Describe the location and relative condition of key habitats and community types essential to the conservation of Indiana's SGCN.",
+            "location": "B. STATEWIDE ASSESSMENT OF HABITATS",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "genotype_phenotype": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["SGCN (Species of Greatest Conservation Need)", "HGCN", "mammals", "birds", "amphibians", "reptiles", "fish", "mollusks", "invertebrates", "Lepidoptera", "freshwater mussels", "bats", "Eastern Hellbender", "Eastern Box Turtle", "Allegheny Woodrat", "Mitchell's Satyr", "Karner Blue", "Hine's Emerald", "Northern Long-eared Myotis", "Little Brown Bat", "Tri-colored Bat", "Copper-bellied Watersnake", "Green Salamander", "Mole Salamander", "Franklin's Ground Squirrel", "Peregrine Falcon", "Henslow's Sparrow", "grasslands", "wetlands", "forests", "aquatic systems", "barren lands", "developed lands", "agricultural lands", "subterranean systems", "savannas and prairies", "karst"]
+    },
+    "partnerships_and_funding": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Indiana has a large number of potential partners in the conservation community to assist in implementing the SWAP. The SWAP Advisory Team, whose members helped to develop the current plan, will continue to be key partners in the implementation and advancement of the SWAP.",
+          "location": "THE EFFECTIVENESS OF THE CONSERVATION ACTIONS TAKEN",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Inadequate funding was identified as a major barrier by the most respondents. Concerns about capacity to complete projects stemming from lack of personnel and volunteer labor were also often reported.",
+          "location": "Additional Efforts Needed",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document describes many partners and aspirational collaboration, and explicitly acknowledges funding gaps as a major barrier. Conservation Opportunity Areas mention grants as a criterion, and State Wildlife Grants (SWG) are cited as the funding context. However, range-shift-specific actions have no dedicated funding or active partnerships. Score 1: some funding and partnerships described, but limited/aspirational and funding gaps explicitly acknowledged."
+    },
+    "climate_threat_habitat_degradation": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Generally, changing frequency, duration, and intensity of drought and shifting and alteration of habitats due to climate change were identified as the top ranked threats for habitats in this region.",
+          "location": "Threats Affecting Habitats Top Threat Categories (Interior Plateau Region)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_threat_species_vital_rates": {
+      "evaluable": true,
+      "score": 0,
+      "evidence": [],
+      "absence_note": "The document lists 'Climate Change and Severe Weather' as a threat category but the specific threats named (changing drought frequency, temperature extremes, shifting seasons, habitat shifting/alteration, changing flood frequency) all describe habitat-level or ecological-system-level impacts rather than direct effects on species vital rates. There is no framing of wildfire killing individuals, heat-related die-offs, climate-favored disease causing mortality, etc. Score 0."
+    },
+    "climate_threat_biotic_stressors": {
+      "evaluable": true,
+      "score": 0,
+      "evidence": [],
+      "absence_note": "The document discusses invasive species extensively as the top threat to habitats, but never frames the invasion or spread of invasive species as climate-driven. There is no mention of phenological mismatch, trophic asynchrony, climate-favored succession, or novel communities. The 'Shifting seasons/phenology' threat within the climate category is listed in Table 5-6 but only as a ranking label with no elaborating text connecting it to biotic stressors. This is insufficient for a score of 1."
+    }
+  },
+  "actions": {
+    "priority_habitat_identification": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Conservation Opportunity Areas (COA) are intended to guide conservation activities at a landscape level... These COA were identified as a way to direct actions toward specific areas on Indiana's landscape.",
+          "location": "D. CONSERVATION OPPORTUNITY AREAS",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Terrestrial habitat COA were primarily based around areas of existing conservation efforts and those with the potential for increased connectivity and large-scale habitat project potential throughout the state.",
+          "location": "D. CONSERVATION OPPORTUNITY AREAS",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "[FIGURE: Figure 5-22. Indiana conservation opportunity areas.]",
+          "location": "D. CONSERVATION OPPORTUNITY AREAS",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The COA are spatially represented on maps (Figure 5-22) and are the primary spatial prioritization tool of the SWAP. The COA are identified for their habitat potential, SGCN presence, connectivity opportunity, and existing conservation work. This meets the criteria for score 2 (spatially explicit prioritization). However, COA are not framed as climate refugia or climate-driven priority areas; they are general conservation prioritization areas."
+    },
+    "targeted_range_shift_actions": {
+      "evaluable": true,
+      "score": 0,
+      "evidence": [],
+      "absence_note": "The document does not reference any actions explicitly framed as managing climate-driven range shifts. Species reintroductions mentioned in the Drift Plains Region are framed as restoring extirpated native species, not as climate-motivated relocations. A 'Translocation program for Franklin's Ground Squirrels' appears in the Great Lakes Region SGCN grassland actions, but this is not framed as climate-driven. Connectivity actions (corridor preservation, habitat linkage) are framed as habitat fragmentation responses, not range-shift facilitation. Score 0."
+    },
+    "time_bound_and_monitoring": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "The SWAP is not an operational plan. It does not identify specific tasks, assignments, or schedules for achieving conservation.",
+          "location": "INDIANA'S SWAP: WHAT IT IS, AND WHAT IT ISN'T",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "The effectiveness of the entire SWAP will be evaluated and addressed in subsequent reviews of this document (not to exceed ten years as delineated in Element six).",
+          "location": "THE EFFECTIVENESS OF THE CONSERVATION ACTIONS TAKEN",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The plan explicitly states it is not an operational plan with schedules. A 10-year review cycle is mandated but no action-level deadlines are attached to the conservation actions listed. The plan describes effectiveness monitoring as a need, and discusses adaptive management principles, but these are not operationalized at the action level. Score 1: there is a plan-level time horizon (next SWAP revision by 2025) but no action-level deadlines or monitoring protocols tied to specific actions."
+    },
+    "evidence_of_efficacy": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Conservation actions should be based on the best available science. Element five of the Congressional guidelines for the SWAP revision address the need for adapting conservation actions in response to new information or changing conditions.",
+          "location": "THE EFFECTIVENESS OF THE CONSERVATION ACTIONS TAKEN",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document asserts actions should be 'based on the best available science' and cites a general adaptive management principle, but does not present evidence, case studies, or literature supporting the efficacy of specific conservation actions. The surveys collected expert opinion on what actions are needed, but no studies, monitoring results, or prior project evaluations are cited to support those actions. Score 1: rationale is outlined (expert survey ratings, science-based framing) but no actual evidence is presented for any specific action.",
+      "projects": []
+    },
+    "adaptation_planning_frameworks": {
+      "evaluable": true,
+      "score": 0,
+      "evidence": [],
+      "absence_note": "The document does not reference any climate adaptation planning frameworks (RAD, RRT, CCVA, CCSP, SBDA, SDM as structured decision-making, or any named adaptation menu). 'Adaptive management' is mentioned once as a general principle in the context of monitoring, but it is not framed in a climate-adaptation context — it refers to updating the SWAP based on new information generally. No specific climate adaptation planning process or tool is named or applied."
+    }
+  },
+  "coding_meta": {
+    "coder": "llm:claude-sonnet-4-6",
+    "model": "claude-sonnet-4-6",
+    "provider": "claude",
+    "codebook_version": "0.4",
+    "ingest": "text",
+    "design": "single",
+    "temperature": null,
+    "thinking": null,
+    "thinking_effort": null,
+    "coded_at": "2026-07-06T18:39:22Z",
+    "notes": {}
+  }
+}

@@ -1,0 +1,854 @@
+{
+  "document_meta": {
+    "title": "Rhode Island 2020 State Forest Action Plan",
+    "year": 2020,
+    "jurisdiction": "Rhode Island",
+    "document_type": "State Forest Action Plan",
+    "document_id": "RI_FAP_2020",
+    "page_count": 148
+  },
+  "orientation": {
+    "summary": "This is the Rhode Island 2020 State Forest Action Plan (SFAP), a federally-required statewide forest planning document produced by the Rhode Island Department of Environmental Management (RIDEM) Division of Forest Environment. The document has a broad posture toward climate change, treating it as a significant stressor on forest health, composition, and management. It engages with range shift science primarily in discussing how climate change will alter species distributions — shifting suitable habitat for tree species and facilitating range expansion of southern species into Rhode Island — and how fragmentation impedes natural species migration. The document performs its own narrative synthesis drawing on external analyses (notably the New England Climate Change Response Framework vulnerability assessment) rather than applying its own quantitative models; it references external tools, publications, and projections but does not conduct original vulnerability, niche, or connectivity modeling. Actions described include promoting 'assisted migration' of tree species as a stated future goal, maintaining connectivity for wildlife, and priority landscape identification for conservation programs.",
+    "evidence_index": [
+      {
+        "text": "Climate change -increasing disturbances, alterations in species distributions and relationships, and compounding forest health threats",
+        "location": "Executive Summary",
+        "relevant_elements": ["1.1", "3.5", "3.7"]
+      },
+      {
+        "text": "Rhode Island is already experiencing the impacts of climate change in the form of increasing temperatures, rising sea levels, and more intense rain and flood events.",
+        "location": "CLIMATE CHANGE MITIGATION",
+        "relevant_elements": ["1.1", "3.5"]
+      },
+      {
+        "text": "As reported in Resilient Rhody, temperatures in Rhode Island have increased more than 3 degrees since the beginning of the 20th century, and sea level has risen 10 inches since 1930.",
+        "location": "Issue: Climate Change",
+        "relevant_elements": ["1.1", "3.5"]
+      },
+      {
+        "text": "As the climate changes, forest composition will change, becoming less favorable to species that are adapted to cold climates, promoting typically southern species at the northern edge of their range",
+        "location": "Issue: Climate Change",
+        "relevant_elements": ["1.1", "2.2", "3.3", "3.7", "C2"]
+      },
+      {
+        "text": "Increased temperatures and altered climate conditions are also expected to shift suitable growing conditions for individual species of trees, shrubs, and plants. This means that many species growing at their more southerly extent in Rhode Island may be unable to withstand the changes in growing conditions and become locally less common or disappear entirely. Meanwhile, species growing at their more northerly extent may find growing conditions conducive to expanding their range northward.",
+        "location": "SPECIES COMPOSITION",
+        "relevant_elements": ["1.1", "2.2", "3.3", "C2"]
+      },
+      {
+        "text": "The natural shift in growing range and dispersal is a slow process but, in the 21 st century, it is complicated by grey infrastructure, permanent land conversion, and other impacts of fragmentation and forest loss which impede species migration.",
+        "location": "SPECIES COMPOSITION",
+        "relevant_elements": ["1.4", "4.2", "C2"]
+      },
+      {
+        "text": "The New England and Northern New York Forest Ecosystem Vulnerability Assessment and Synthesis presents an assessment of vulnerability for forest ecosystems for the end of the 21 st century",
+        "location": "SPECIES COMPOSITION",
+        "relevant_elements": ["1.1", "2.1"]
+      },
+      {
+        "text": "Although many of the common forest types across Rhode Island are generally expected to have some capacity to adapt to changing conditions, the likely effects of climate change also need to be considered at the property-and stand-levels where local site conditions and potential hazards can be evaluated.",
+        "location": "SPECIES COMPOSITION",
+        "relevant_elements": ["1.2", "1.3"]
+      },
+      {
+        "text": "Such shifts are expected to ultimately impact forest management decisions. The New England and Northern New York Forest Ecosystem Vulnerability Assessment and Synthesis presents an assessment of vulnerability for forest ecosystems for the end of the 21 st century, shown in the table below.",
+        "location": "SPECIES COMPOSITION",
+        "relevant_elements": ["1.1", "2.1", "4.5"]
+      },
+      {
+        "text": "the combined onslaught of climate change, fragmentation and parcelization, interference with migration, loss of biodiversity, invasive plant and insect species, overuse and overgrazing, and more extreme weather events occurring more frequently -all contribute to forest lands with less biological resilience to change and less time to adapt to those changes.",
+        "location": "Issue: Climate Change",
+        "relevant_elements": ["1.2", "1.3", "3.5"]
+      },
+      {
+        "text": "Given enough time, forests and the species that rely on and support forests can adapt. But today, the combined onslaught of climate change, fragmentation and parcelization, interference with migration, loss of biodiversity, invasive plant and insect species",
+        "location": "Issue: Climate Change",
+        "relevant_elements": ["1.2", "1.3"]
+      },
+      {
+        "text": "These increasing threats and rapid rate of change have the potential to exceed an ecosystem's resilience or capacity to adapt.",
+        "location": "Issue: Climate Change",
+        "relevant_elements": ["1.2", "1.3"]
+      },
+      {
+        "text": "Warmer winters with fewer periods of sustained cold weather may lead to increased activity of forest insects and pests that have the potential to cause greater impacts to forests, as well as migration of more southerly pests as conditions become more favorable",
+        "location": "Issue: Climate Change",
+        "relevant_elements": ["3.6", "3.7"]
+      },
+      {
+        "text": "Changes in the timing of leaf-out, flowering, and fruiting in plants can be very disruptive to plant pollinators, seed dispersers, and migratory wildlife.",
+        "location": "Issue: Climate Change",
+        "relevant_elements": ["3.7", "1.3"]
+      },
+      {
+        "text": "longer growing seasons can mean desynchronized pollinators and food sources, bird nesting, and migration, etc., which may have unforeseen impacts.",
+        "location": "Issue: Climate Change",
+        "relevant_elements": ["3.7"]
+      },
+      {
+        "text": "Increasing winter temperatures also increase the threat from many invasive plants and insect pests (native and exotic) because these species may no longer have to withstand or recover from extremely cold winter conditions. A warmer climate may facilitate the establishment or increase the competitiveness of these threats",
+        "location": "Issue: Climate Change",
+        "relevant_elements": ["3.7"]
+      },
+      {
+        "text": "Expected consequences include increased activity of insect pests and diseases and higher infestation levels; more extreme exposure to heat waves and drought; and phenological mismatches with pollinators and dispersal agents.",
+        "location": "Issue: Climate Change",
+        "relevant_elements": ["3.7", "3.6"]
+      },
+      {
+        "text": "Not only will warming temperatures provide conditions conducive for SPB outbreak, but they may also contribute to chronic stress factors to Rhode Island's pitch pine",
+        "location": "Southern Pine Beetle Dendroctonus frontalis",
+        "relevant_elements": ["3.6", "3.7"]
+      },
+      {
+        "text": "Changes in seasonal weather patterns and precipitation amounts will have the greatest impact on the periodicity of outbreak occurrence. Cool April temperatures and sufficient precipitation to support the life cycle of Entomophaga maimaiga, a fungus that kills gypsy moth caterpillars, are necessary to maintain gypsy moth at low population levels.",
+        "location": "Gypsy Moth Lymantria dispar",
+        "relevant_elements": ["3.6", "3.7"]
+      },
+      {
+        "text": "More recently, changes in seasonal weather patterns and precipitation have decreased moisture availability in the summer months, increasing tree mortality.",
+        "location": "COMPOUNDING FACTORS",
+        "relevant_elements": ["3.5", "3.6"]
+      },
+      {
+        "text": "One method is to encourage the planting of a variety of forest tree species that will be suited to the changing climate patterns. This can assist the migration of such species, avoiding interruptions caused by fragmentation and development, and speeding up the very slow movement of trees beyond their existing ranges.",
+        "location": "RESPONDING TO CHANGE",
+        "relevant_elements": ["4.2", "1.4"]
+      },
+      {
+        "text": "DFE will also need to explore funding and partnerships to initiate efforts that will benefit Rhode Island, based on good science, such as planting and protection of seedlings, assisted migration, demonstration sites, and financial assistance.",
+        "location": "RESPONDING TO CHANGE",
+        "relevant_elements": ["4.2", "3.4"]
+      },
+      {
+        "text": "The development of demonstration sites for various practices, including management practices for deer browse or assisted species migration, sequential prescribed fire recovery sites, and habitat enhancement would be invaluable when communicating messaging regarding stewardship, forest health, fire management, and even urban forests.",
+        "location": "State Lands Management",
+        "relevant_elements": ["4.2", "4.4"]
+      },
+      {
+        "text": "As populations grow and demand continues to increase, the resulting subdivisions, roads, utility corridors, and transmission installations result in smaller and smaller parcels with less and less connectivity, impacting the movement and subsequent genetic diversity of plants and animals",
+        "location": "Issue: Forest Loss & Fragmentation",
+        "relevant_elements": ["1.4", "1.3"]
+      },
+      {
+        "text": "Even with increasing fragmentation, retaining green corridors connecting these core sites can play a crucial role for the sustainability of wildlife populations.",
+        "location": "WILDLIFE HABITAT",
+        "relevant_elements": ["1.4", "4.1"]
+      },
+      {
+        "text": "Provide technical assistance to the DEM Land Acquisition Committee, supporting protection of critical forest habitat, particularly larger intact blocks of high value forests for multiple benefits including connectivity and protection of wildlife habitat, and reduction in forest fragmentation.",
+        "location": "PRIMARY PRIORITY: Keeping forests as forests",
+        "relevant_elements": ["4.1", "1.4"]
+      },
+      {
+        "text": "retaining green corridors connecting these core sites can play a crucial role for the sustainability of wildlife populations.",
+        "location": "WILDLIFE HABITAT",
+        "relevant_elements": ["1.4"]
+      },
+      {
+        "text": "In Rhode Island, obligate cold-water stream species (like the native brook trout) are threatened by warming waters.",
+        "location": "WATERWAYS",
+        "relevant_elements": ["3.6", "1.3"]
+      },
+      {
+        "text": "The majority of cold-water streams in Rhode Island are located in traditionally forested landscapes where obligate cold-water stream species, like native brook trout, are threatened by warming waters.",
+        "location": "WATERWAYS",
+        "relevant_elements": ["3.6"]
+      },
+      {
+        "text": "spring is arriving sooner in southern New England, with leaf-out for trees and woody plants occurring more than two weeks earlier than in the 1850s.",
+        "location": "Issue: Climate Change",
+        "relevant_elements": ["3.7"]
+      },
+      {
+        "text": "Temperatures are projected to continue increasing, leading to longer growing seasons and more extreme hot days. Climate models predict additional changes in the future.",
+        "location": "Issue: Climate Change",
+        "relevant_elements": ["2.3", "1.1"]
+      },
+      {
+        "text": "Predictive models for anticipated climate change look at the effects of various emission rate scenarios. An example on the left, from the 2006 Northeast Climate Impacts Assessment, shows the effects of two emission scenarios on the heat indices for Rhode Island over the next 80 years",
+        "location": "SPECIES COMPOSITION",
+        "relevant_elements": ["2.3"]
+      },
+      {
+        "text": "The impact of climate change will not only impact individual species but also the composition of entire plant communities. Such communities, as expressed as forest types or systems for example, may be more vulnerable to climate changes",
+        "location": "SPECIES COMPOSITION",
+        "relevant_elements": ["1.1", "3.3"]
+      },
+      {
+        "text": "the Lowland Conifer and Mixed type relies on a relatively narrow range of soil and moisture conditions, making it vulnerable to impacts from droughts and extreme weather events.",
+        "location": "SPECIES COMPOSITION",
+        "relevant_elements": ["1.1", "1.3"]
+      },
+      {
+        "text": "RIDEM's Division of Forest Environment (DFE) currently receives approximately 23% of its funding through the Cooperative Forestry Assistance Act (CFAA) through the State and Private Forestry programs (S&PF), leveraging the federal resources and partnerships in collaboration with private and public stakeholders.",
+        "location": "Executive Summary",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "Rhode Island forests contribute to mitigation of global climate change, managed for resiliency to climate change with minimal adverse environmental and economic impacts.",
+        "location": "IMPORTANCE OF OUTCOMES TO THE FUTURE OF RHODE ISLAND'S FORESTS",
+        "relevant_elements": ["4.5", "1.1"]
+      },
+      {
+        "text": "It is necessary for DFE to advocate and support adaptive forest management practices that maintain a resilient forest able to withstand the effects of stress related to changing climate zones and pests and diseases",
+        "location": "RESPONDING TO CHANGE",
+        "relevant_elements": ["4.5", "1.2"]
+      },
+      {
+        "text": "Forest management practices are increasingly being designed in response to these pressures to help ecosystems adapt",
+        "location": "CLIMATE CHANGE MITIGATION (carbon table)",
+        "relevant_elements": ["4.5"]
+      },
+      {
+        "text": "incorporate climate change considerations [Forest Adaptation Resources: Climate Change Tools and Approaches for Land Managers, 2nd edition]",
+        "location": "References section (page 52)",
+        "relevant_elements": ["4.5"]
+      },
+      {
+        "text": "The 2018 Statewide Climate Resilience Action Strategy (Resilient Rhody) identifies forests as a natural system that provides crucial services to communities and recommends that Rhode Island protect remaining forest cover, particularly large, unbroken tracts of forested land",
+        "location": "CLIMATE CHANGE MITIGATION (carbon table)",
+        "relevant_elements": ["4.1", "4.5"]
+      },
+      {
+        "text": "Species with low adaptive capacity such as those with specialized habitat needs or limited dispersal ability face higher vulnerability to these changes.",
+        "location": "SPECIES COMPOSITION",
+        "relevant_elements": ["1.2", "1.3"]
+      },
+      {
+        "text": "Healthy forests are inextricably linked to healthy urban and rural communities and an intact natural landscape offers the best opportunity for both mitigating and adapting to climate change.",
+        "location": "Rhode Island's Challenge",
+        "relevant_elements": ["1.2"]
+      },
+      {
+        "text": "The Forest Legacy Program identified its two distinct priority areas in its 2020 document",
+        "location": "PRIORITY LANDSCAPE AREAS IN RHODE ISLAND",
+        "relevant_elements": ["4.1", "3.1"]
+      },
+      {
+        "text": "Goals include: improve forest habitat for fish, wildlife, and invertebrate species of concern; support the recovery of endangered or threatened species and improve biodiversity; protect water quality and quantity; foster forest resiliency and stand diversity; and enhance air quality and carbon sequestration.",
+        "location": "PRIORITY LANDSCAPE AREAS IN RHODE ISLAND",
+        "relevant_elements": ["4.1", "3.4"]
+      },
+      {
+        "text": "As the forest flora changes, fauna respond to the new conditions and either adapt in place or migrate in response to altered conditions.",
+        "location": "I ssue: Forest Health",
+        "relevant_elements": ["1.3", "C2"]
+      },
+      {
+        "text": "movement along transportation corridors increases ease of movement and migration of invasive species, while development and construction interfere with native plant and wildlife movement, gene flow, and resiliency.",
+        "location": "I ssue: Forest Health",
+        "relevant_elements": ["1.3", "1.4"]
+      },
+      {
+        "text": "CLIMATIC IMPACTS | FOREST IMPACTS ... Changes in suitable habitat | Changes in tree establishment | Changes in tree growth | Changes in forest composition",
+        "location": "SPECIES COMPOSITION (table: New England and Northern New York Forest Ecosystem Vulnerability Assessment)",
+        "relevant_elements": ["1.1", "2.1", "3.3"]
+      },
+      {
+        "text": "A 2017 study by The Nature Conservancy, Natural Climate Solutions, found that natural and working lands have the capacity to provide 37% of the mitigation needed between 2017 and 2030 to keep global temperature rise below 2 o Celsius.",
+        "location": "CLIMATE CHANGE MITIGATION (carbon table)",
+        "relevant_elements": ["4.4"]
+      },
+      {
+        "text": "the over 57,000 acres designated as state lands is comprised of 29 management areas. The land is essentially under shared management/ responsibility by the Divisions of Forest Environment (DFE), and Fish and Wildlife (DFW).",
+        "location": "State Lands Management",
+        "relevant_elements": ["3.1", "3.4"]
+      },
+      {
+        "text": "After 3 years of intensive defoliation by gypsy moth, and droughty summers, many oak trees failed to recover, resulting in an estimated 45-50,000 acres of forest loss. Mortality in 2019 was attributed to the lingering effects of the chronic stress and other factors, such as continued drought during the growing season",
+        "location": "COMPOUNDING FACTORS",
+        "relevant_elements": ["3.6", "3.5"]
+      }
+    ]
+  },
+  "concepts": {
+    "climate_vulnerability": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "the combined onslaught of climate change, fragmentation and parcelization, interference with migration, loss of biodiversity, invasive plant and insect species, overuse and overgrazing, and more extreme weather events occurring more frequently -all contribute to forest lands with less biological resilience to change and less time to adapt to those changes.",
+          "location": "Issue: Climate Change",
+          "sub_component": "adaptive capacity",
+          "citations": []
+        },
+        {
+          "text": "Increased temperatures and altered climate conditions are also expected to shift suitable growing conditions for individual species of trees, shrubs, and plants. This means that many species growing at their more southerly extent in Rhode Island may be unable to withstand the changes in growing conditions and become locally less common or disappear entirely.",
+          "location": "SPECIES COMPOSITION",
+          "sub_component": "exposure",
+          "citations": []
+        },
+        {
+          "text": "the Lowland Conifer and Mixed type relies on a relatively narrow range of soil and moisture conditions, making it vulnerable to impacts from droughts and extreme weather events.",
+          "location": "SPECIES COMPOSITION",
+          "sub_component": "exposure",
+          "citations": []
+        }
+      ],
+      "absence_note": "The document references climate exposure clearly (shifting growing conditions, temperature increases affecting species) and engages with adaptive capacity (forests/species' ability to adapt, resilience to change). However, it never uses the term 'adaptive capacity' technically in the IPCC sense, nor does it explicitly decompose vulnerability into the three-axis framework. The referenced New England vulnerability assessment is incorporated by reference (a table of forest type vulnerability ratings), which provides vulnerability analysis that shapes management decisions. Score is 2 (exposure + adaptive capacity referenced) rather than 3 because the adaptive capacity dimension is referenced only generally — there is no systematic treatment of specific components of adaptive capacity as drivers of vulnerability scores."
+    },
+    "adaptive_capacity_specificity": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "These increasing threats and rapid rate of change have the potential to exceed an ecosystem's resilience or capacity to adapt.",
+          "location": "Issue: Climate Change",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Although many of the common forest types across Rhode Island are generally expected to have some capacity to adapt to changing conditions, the likely effects of climate change also need to be considered at the property-and stand-levels where local site conditions and potential hazards can be evaluated.",
+          "location": "SPECIES COMPOSITION",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "Adaptive capacity is referenced — the document discusses forest/species ability to adapt and resilience — but not with reference to specific named components (dispersal, genetic variation, life history traits, etc.) in a systematic way. The discussion stays at the level of 'capacity to adapt' generically. Score is 1, not 2."
+    },
+    "adaptive_capacity_components": {
+      "demography": {
+        "present": false,
+        "evidence": []
+      },
+      "distribution": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Increased temperatures and altered climate conditions are also expected to shift suitable growing conditions for individual species of trees, shrubs, and plants. This means that many species growing at their more southerly extent in Rhode Island may be unable to withstand the changes in growing conditions and become locally less common or disappear entirely. Meanwhile, species growing at their more northerly extent may find growing conditions conducive to expanding their range northward.",
+            "location": "SPECIES COMPOSITION",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "movement": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The natural shift in growing range and dispersal is a slow process but, in the 21 st century, it is complicated by grey infrastructure, permanent land conversion, and other impacts of fragmentation and forest loss which impede species migration.",
+            "location": "SPECIES COMPOSITION",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "evolutionary_potential": {
+        "present": false,
+        "evidence": []
+      },
+      "ecological_dependencies": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "longer growing seasons can mean desynchronized pollinators and food sources, bird nesting, and migration, etc., which may have unforeseen impacts.",
+            "location": "Issue: Climate Change",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "abiotic_niche": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "the Lowland Conifer and Mixed type relies on a relatively narrow range of soil and moisture conditions, making it vulnerable to impacts from droughts and extreme weather events.",
+            "location": "SPECIES COMPOSITION",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "life_history": {
+        "present": false,
+        "evidence": []
+      }
+    },
+    "connectivity": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Even with increasing fragmentation, retaining green corridors connecting these core sites can play a crucial role for the sustainability of wildlife populations.",
+          "location": "WILDLIFE HABITAT",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "The natural shift in growing range and dispersal is a slow process but, in the 21 st century, it is complicated by grey infrastructure, permanent land conversion, and other impacts of fragmentation and forest loss which impede species migration.",
+          "location": "SPECIES COMPOSITION",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "One method is to encourage the planting of a variety of forest tree species that will be suited to the changing climate patterns. This can assist the migration of such species, avoiding interruptions caused by fragmentation and development, and speeding up the very slow movement of trees beyond their existing ranges.",
+          "location": "RESPONDING TO CHANGE",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document discusses connectivity in a climate-relevant way — fragmentation impedes species migration in the context of climate-driven range shifts, and corridors are presented as a tool for supporting that movement. This satisfies the score-2 criterion: generic connectivity explicitly framed as a factor limiting climate-driven shifts."
+    }
+  },
+  "tools": {
+    "vulnerability_models": {
+      "evaluable": true,
+      "score": 2,
+      "named_tools": ["New England and Northern New York Forest Ecosystem Vulnerability Assessment and Synthesis"],
+      "evidence": [
+        {
+          "text": "The New England and Northern New York Forest Ecosystem Vulnerability Assessment and Synthesis presents an assessment of vulnerability for forest ecosystems for the end of the 21 st century, shown in the table below.",
+          "location": "SPECIES COMPOSITION",
+          "sub_component": null,
+          "citations": ["New England and Northern New York Forest Ecosystem Vulnerability Assessment and Synthesis: A Report from the New England Climate Change Response Framework Project"]
+        },
+        {
+          "text": "CLIMATIC IMPACTS | FOREST IMPACTS ... Changes in suitable habitat | Changes in tree establishment | Changes in tree growth | Changes in forest composition",
+          "location": "SPECIES COMPOSITION (table)",
+          "sub_component": null,
+          "citations": ["New England and Northern New York Forest Ecosystem Vulnerability Assessment and Synthesis"]
+        }
+      ],
+      "absence_note": "The document substantively incorporates results from the New England vulnerability assessment — including a table of forest type vulnerability ratings — into management discussion for Rhode Island's focal forest types. This qualifies as applied (score 2) per the codebook rule that application includes substantively incorporating prior tool-based results into management decisions for focal subjects."
+    },
+    "niche_models": {
+      "evaluable": true,
+      "score": 1,
+      "named_tools": ["Clark Labs 2050 Conterminous US Land Cover Prediction"],
+      "evidence": [
+        {
+          "text": "Predictive models for anticipated climate change look at the effects of various emission rate scenarios. An example on the left, from the 2006 Northeast Climate Impacts Assessment, shows the effects of two emission scenarios on the heat indices for Rhode Island over the next 80 years and the impact on summer temperatures.",
+          "location": "SPECIES COMPOSITION",
+          "sub_component": null,
+          "citations": ["2006 Northeast Climate Impacts Assessment"]
+        }
+      ],
+      "absence_note": "The document references predictive models of future species/habitat conditions but does not name or apply species distribution models (MaxEnt, SDMs, etc.) to its focal species. The Clark Labs 2050 land cover prediction is referenced in a figure caption as a mapping product. The citation 'modeling has advanced considerably' with a URL to USFS tree atlas is referenced in footnotes but not applied in the plan's analysis. Score is 1 (referenced generally)."
+    },
+    "climate_models": {
+      "evaluable": true,
+      "score": 1,
+      "named_tools": [],
+      "evidence": [
+        {
+          "text": "Temperatures are projected to continue increasing, leading to longer growing seasons and more extreme hot days. Climate models predict additional changes in the future.",
+          "location": "Issue: Climate Change",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Predictive models for anticipated climate change look at the effects of various emission rate scenarios. An example on the left, from the 2006 Northeast Climate Impacts Assessment, shows the effects of two emission scenarios on the heat indices for Rhode Island over the next 80 years",
+          "location": "SPECIES COMPOSITION",
+          "sub_component": null,
+          "citations": ["2006 Northeast Climate Impacts Assessment"]
+        }
+      ],
+      "absence_note": "The document references climate models and emission scenarios in passing, citing the 2006 Northeast Climate Impacts Assessment as an example, and mentions 'climate models predict.' However, no specific GCM, CMIP product, RCP, or SSP scenario is named or applied to shape management decisions. Score is 1 (referenced generally).",
+      "time_horizon_years": [2080],
+      "emission_scenarios": []
+    },
+    "connectivity_models": {
+      "evaluable": true,
+      "score": 1,
+      "named_tools": ["ESRI Green Infrastructure Strategy", "i-Tree Landscape Tool"],
+      "evidence": [
+        {
+          "text": "This map, derived from the i-Tree Landscape Tool, shows the Wildland-Urban Interface (WUI) in red and Wildland-Urban intermix in yellow.",
+          "location": "PRIORITY LANDSCAPE AREAS IN RHODE ISLAND",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document references GIS-based mapping tools (ESRI Green Infrastructure Strategy, i-Tree Landscape Tool) and uses them to map priority landscapes, WUI, and forest blocks. However, these are not connectivity models in the technical sense (CircuitScape, least-cost path, etc.), and the document does not apply formal connectivity modeling to assess landscape permeability or corridors. The ESRI Green Infrastructure Strategy is referenced as a spatial visualization tool. Score is 1 (referenced generally) — some spatial landscape analysis is present but no true connectivity modeling applied to focal subjects."
+    }
+  },
+  "context": {
+    "management_scale": {
+      "local": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "the likely effects of climate change also need to be considered at the property-and stand-levels where local site conditions and potential hazards can be evaluated.",
+            "location": "SPECIES COMPOSITION",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "site": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Goals include: improve forest habitat for fish, wildlife, and invertebrate species of concern; support the recovery of endangered or threatened species and improve biodiversity; protect water quality and quantity; foster forest resiliency and stand diversity",
+            "location": "PRIORITY LANDSCAPE AREAS IN RHODE ISLAND",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "watershed": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The Forest Legacy Program prioritizes significant forest tracts, watersheds for public drinking water, public open-space tracts and recreational areas, location of rare, threatened and endangered species and/or their habitats",
+            "location": "PRIORITY LANDSCAPE AREAS IN RHODE ISLAND",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "city": {
+        "present": false,
+        "evidence": []
+      },
+      "county": {
+        "present": false,
+        "evidence": []
+      },
+      "within_state_region": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The Forest Legacy Program identified its two distinct priority areas in its 2020 document: 1. Mainland -comprised of the forested and intermix areas on the west side of the state, and 2. East Bay -where some of the last forested tracts remain in eastern Rhode Island.",
+            "location": "PRIORITY LANDSCAPE AREAS IN RHODE ISLAND",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "state": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The Rhode Island 2020 Forest Action Plan discusses facts, trends, benefits and issues of concern, as well as priorities, goals, and strategies for the management of forest land.",
+            "location": "Executive Summary",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "multistate": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "This program is a multi-state Landscape Scale Restoration grant awarded by the USFS to the Forest Stewards Guild in 2019. The RI Woodland Partnership (RIWP) was instrumental in developing the project and connecting with partners in neighboring states (MA and CT).",
+            "location": "INCREASING RESILIENCY IN SOUTHERN NEW ENGLAND OAK FORESTS",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "national": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "These statewide forest assessments, or forest action plans (SFAP), are required for maintaining eligibility to receive funds under the authorities of the Act, through the USDA Forest Service State and Private Forestry (S&PF)",
+            "location": "INTRODUCTION",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "transnational": {
+        "present": false,
+        "evidence": []
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The New England and Northern New York Forest Ecosystem Vulnerability Assessment and Synthesis presents an assessment of vulnerability for forest ecosystems for the end of the 21 st century",
+            "location": "SPECIES COMPOSITION",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecoregion": {
+        "present": false,
+        "evidence": []
+      },
+      "province": {
+        "present": false,
+        "evidence": []
+      },
+      "section": {
+        "present": false,
+        "evidence": []
+      },
+      "subsection": {
+        "present": false,
+        "evidence": []
+      },
+      "lake": {
+        "present": false,
+        "evidence": []
+      },
+      "river": {
+        "present": false,
+        "evidence": []
+      },
+      "district": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["Mainland Legacy Area (western Rhode Island)", "East Bay Legacy Area (Tiverton, Little Compton)", "Wood-Pawcatuck River Watershed", "Scituate Reservoir Watershed", "Southern New England Heritage Forest corridor"]
+    },
+    "biological_unit_score": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Increased temperatures and altered climate conditions are also expected to shift suitable growing conditions for individual species of trees, shrubs, and plants.",
+          "location": "SPECIES COMPOSITION",
+          "sub_component": "species",
+          "citations": []
+        },
+        {
+          "text": "The impact of climate change will not only impact individual species but also the composition of entire plant communities. Such communities, as expressed as forest types or systems for example, may be more vulnerable to climate changes",
+          "location": "SPECIES COMPOSITION",
+          "sub_component": "community/ecosystem",
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "biological_unit_components": {
+      "species": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "As the climate changes, forest composition will change, becoming less favorable to species that are adapted to cold climates, promoting typically southern species at the northern edge of their range",
+            "location": "Issue: Climate Change",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "population": {
+        "present": false,
+        "evidence": []
+      },
+      "habitat": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "the Lowland Conifer and Mixed type relies on a relatively narrow range of soil and moisture conditions, making it vulnerable to impacts from droughts and extreme weather events.",
+            "location": "SPECIES COMPOSITION",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The impact of climate change will not only impact individual species but also the composition of entire plant communities. Such communities, as expressed as forest types or systems for example, may be more vulnerable to climate changes",
+            "location": "SPECIES COMPOSITION",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "community": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The impact of climate change will not only impact individual species but also the composition of entire plant communities. Such communities, as expressed as forest types or systems for example, may be more vulnerable to climate changes",
+            "location": "SPECIES COMPOSITION",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "genotype_phenotype": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["brook trout", "pitch pine", "oak-hickory forest", "Lowland Conifer and Mixed forest type", "Central Hardwood-Pine type", "New England Cottontail", "American woodcock", "wood thrush", "scarlet tanager", "frosted elfin butterfly", "southern pine beetle", "emerald ash borer"]
+    },
+    "partnerships_and_funding": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "DFE will also need to explore funding and partnerships to initiate efforts that will benefit Rhode Island, based on good science, such as planting and protection of seedlings, assisted migration, demonstration sites, and financial assistance.",
+          "location": "RESPONDING TO CHANGE",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "RIDEM's Division of Forest Environment (DFE) currently receives approximately 23% of its funding through the Cooperative Forestry Assistance Act (CFAA) through the State and Private Forestry programs (S&PF), leveraging the federal resources and partnerships in collaboration with private and public stakeholders.",
+          "location": "Executive Summary",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document describes many existing partnerships and substantial federal/state funding for forest management broadly (CFAA, NRCS grants, RCPP, etc.) and acknowledges funding gaps in DFE capacity. However, specific funding and active partnerships dedicated to range-shift-related work (assisted migration, climate connectivity, climate-driven range-shift facilitation) are framed as aspirational — 'DFE will also need to explore funding.' Some landscape restoration grants (INCREASING RESILIENCY IN SOUTHERN NEW ENGLAND OAK FORESTS) tangentially address climate resilience but are about oak forest health, not range-shift facilitation specifically. Score is 1."
+    },
+    "climate_threat_habitat_degradation": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "A longer growing season, warmer temperatures, and more variable summer rain are likely to increase summer moisture stress on plants and could lead to harmful droughts",
+          "location": "Issue: Climate Change",
+          "sub_component": null,
+          "citations": ["Resilient Rhody"]
+        },
+        {
+          "text": "More recently, changes in seasonal weather patterns and precipitation have decreased moisture availability in the summer months, increasing tree mortality.",
+          "location": "COMPOUNDING FACTORS",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_threat_species_vital_rates": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "In Rhode Island, obligate cold-water stream species (like the native brook trout) are threatened by warming waters.",
+          "location": "WATERWAYS",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "After 3 years of intensive defoliation by gypsy moth, and droughty summers, many oak trees failed to recover, resulting in an estimated 45-50,000 acres of forest loss. Mortality in 2019 was attributed to the lingering effects of the chronic stress and other factors, such as continued drought during the growing season",
+          "location": "COMPOUNDING FACTORS",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_threat_biotic_stressors": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Increasing winter temperatures also increase the threat from many invasive plants and insect pests (native and exotic) because these species may no longer have to withstand or recover from extremely cold winter conditions. A warmer climate may facilitate the establishment or increase the competitiveness of these threats",
+          "location": "Issue: Climate Change",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Changes in the timing of leaf-out, flowering, and fruiting in plants can be very disruptive to plant pollinators, seed dispersers, and migratory wildlife.",
+          "location": "Issue: Climate Change",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    }
+  },
+  "actions": {
+    "priority_habitat_identification": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "The Forest Legacy Program identified its two distinct priority areas in its 2020 document: 1. Mainland -comprised of the forested and intermix areas on the west side of the state, and 2. East Bay -where some of the last forested tracts remain in eastern Rhode Island.",
+          "location": "PRIORITY LANDSCAPE AREAS IN RHODE ISLAND",
+          "sub_component": "spatial representation",
+          "citations": []
+        },
+        {
+          "text": "Even with increasing fragmentation, retaining green corridors connecting these core sites can play a crucial role for the sustainability of wildlife populations.",
+          "location": "WILDLIFE HABITAT",
+          "sub_component": "priority habitat",
+          "citations": []
+        },
+        {
+          "text": "Provide technical assistance to the DEM Land Acquisition Committee, supporting protection of critical forest habitat, particularly larger intact blocks of high value forests for multiple benefits including connectivity and protection of wildlife habitat, and reduction in forest fragmentation.",
+          "location": "PRIMARY PRIORITY: Keeping forests as forests",
+          "sub_component": "priority habitat",
+          "citations": []
+        }
+      ],
+      "absence_note": "The document provides maps of priority landscape areas (WUI maps, forest block maps, Forest Legacy Area maps), identifies specific priority areas for conservation programs (Mainland and East Bay legacy areas), and discusses spatial targeting for conservation acquisition. This qualifies as score 2 — spatially represented priority habitat identification."
+    },
+    "targeted_range_shift_actions": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "DFE will also need to explore funding and partnerships to initiate efforts that will benefit Rhode Island, based on good science, such as planting and protection of seedlings, assisted migration, demonstration sites, and financial assistance.",
+          "location": "RESPONDING TO CHANGE",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "One method is to encourage the planting of a variety of forest tree species that will be suited to the changing climate patterns. This can assist the migration of such species, avoiding interruptions caused by fragmentation and development, and speeding up the very slow movement of trees beyond their existing ranges.",
+          "location": "RESPONDING TO CHANGE",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document explicitly names 'assisted migration' as an action to be explored, and frames tree planting of climate-suitable species as facilitating range shift. These are direct manipulation actions motivated by climate-driven range shifts, even if aspirational in framing ('DFE will also need to explore'). Score is 1."
+    },
+    "time_bound_and_monitoring": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Funded through the USDA NRCS Regional Conservation Partnership Program, the program has funding for five years for work within Rhode Island",
+          "location": "PRIORITY LANDSCAPE AREAS IN RHODE ISLAND",
+          "sub_component": "deadlines",
+          "citations": []
+        }
+      ],
+      "absence_note": "The document contains a strategies matrix with objectives and strategies but without specific deadlines or time-bound milestones attached to individual climate-related actions. The five-year RCPP funding period is mentioned. Effectiveness monitoring as a principle is noted in some programs but is not systematically operationalized at the action level for climate-related range-shift actions. Score is 1 (some time-bound structure present, but not paired with effectiveness monitoring for range-shift actions)."
+    },
+    "evidence_of_efficacy": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "It is necessary for DFE to advocate and support adaptive forest management practices that maintain a resilient forest able to withstand the effects of stress related to changing climate zones and pests and diseases (whether native or exotic).",
+          "location": "RESPONDING TO CHANGE",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document provides rationale for actions (e.g., forests provide resilience, assisted migration can help species track climate) but does not present evidence from prior studies or case studies directly evaluating the efficacy of specific climate adaptation actions. Some ecological first-principles are invoked (tree planting of climate-suitable species will assist migration). The energy-saving trees survivability data provides limited operational evidence. Score is 1 — rationale outlined but no specific efficacy evidence for range-shift actions presented.",
+      "projects": ["INCREASING RESILIENCY IN SOUTHERN NEW ENGLAND OAK FORESTS — A multi-state Landscape Scale Restoration grant project (MA, RI, CT). The project aims to increase oak resilience through education and stewardship, but no efficacy data from prior implementation is presented; it is described as a new effort.", "Energy-Saving Trees Program — A tree-planting program with Arbor Day Foundation. The document notes an initial survivability study showing 78% of trees were planted correctly and alive at one year, providing limited evidence of implementation success (planting survival), but not evidence for climate adaptation efficacy of the action."]
+    },
+    "adaptation_planning_frameworks": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "It is necessary for DFE to advocate and support adaptive forest management practices that maintain a resilient forest able to withstand the effects of stress related to changing climate zones and pests and diseases",
+          "location": "RESPONDING TO CHANGE",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Forest management practices are increasingly being designed in response to these pressures to help ecosystems adapt",
+          "location": "CLIMATE CHANGE MITIGATION (carbon table)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document references adaptive forest management as a guiding principle for climate adaptation, and cites the Forest Adaptation Resources guide in references ('incorporate climate change considerations'). However, no specific named climate adaptation planning framework (RAD, RRT, CCVA, SBDA, structured decision making, adaptation menu) is identified by name or applied in a systematic way. Score is 1 — climate adaptation planning frameworks referenced in a non-specific way."
+    }
+  },
+  "coding_meta": {
+    "coder": "llm:claude-sonnet-4-6",
+    "model": "claude-sonnet-4-6",
+    "provider": "claude",
+    "codebook_version": "0.4",
+    "ingest": "text",
+    "design": "single",
+    "temperature": null,
+    "thinking": null,
+    "thinking_effort": null,
+    "coded_at": "2026-07-07T00:31:32Z",
+    "notes": {}
+  }
+}

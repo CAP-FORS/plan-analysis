@@ -1,0 +1,2290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main"></title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<affiliation key="aff0">
+								<orgName type="department">Tribe of Chippewa Indians Keweenaw Bay Indian Community Ducks Unlimited Eastern</orgName>
+								<orgName type="institution">Michigan University U.S. Fish and Wildlife Service John Ball Zoo Michigan</orgName>
+								<address>
+									<addrLine>1 Forested Wetlands Contributors Michigan Natural Features Inventory Michigan Nature Association Sault St. Marie</addrLine>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Natural Resources U.S. Geological Survey</orgName>
+								<orgName type="institution">Michigan Fish and Wildlife Cooperative Research Unit</orgName>
+							</affiliation>
+						</author>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">D8EB5289E4EC9F08D8B50C440F9F12F1</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.1" ident="GROBID" when="2026-07-06T12:27+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>What are forested wetlands? Forested wetlands are constantly changing ecosystems found in low-lying, poorly drained areas, often along rivers and streams, at the base of slopes or on flat lakeplains and outwash plains. These wetlands are shaped by a variety of natural forces, including seasonal flooding, groundwater seepage, beaver activity, ice movement, windstorms, insect outbreaks and occasional fires.</p><p>Water plays a central role in shaping these landscapes. Processes like river flooding, groundwater seeps, and water retention by plants and mosses create a range of wet conditions. Each type of forested wetland, from swamps with permanent standing water to seasonally flooded woods, supports a different mix of plant communities.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>There are many types of forested wetlands in Michigan, each with its own plant communities. Some are dominated by hardwoods, others by conifers. Common tree species include red maple, silver maple, tamarack, black spruce, black ash, green ash, and northern white-cedar. In many parts of the Lower Peninsula, black ash and green ash have been devastated by the invasive emerald ash borer, which has dramatically reduced the presence of ash trees in these ecosystems.</p><p>Why are forested wetlands important? Forested wetlands are important for both people and wildlife. Black ash trees hold deep cultural importance for the Anishinaabe people such as being used for generations in traditional basket making. Skilled artisans carefully harvest the trees, then pound the wood to separate the growth rings and create splints for weaving baskets used in gathering, storage, and ceremonies. Indigenous communities also used the waterways provided by rivers and surrounding forested wetlands for travel and to provide food, practices that continue to this day.</p><p>Forested wetlands also serve as travel corridors for wildlife, allowing animals to safely move between habitats. This is especially important in southern Michigan where natural areas are more fragmented. The natural rise and fall of water levels in wetlands creates a wide variety of microhabitats that support many types of wildlife. For instance, spring flooding can warm the soil earlier in the year than surrounding uplands, leading to earlier insect hatches in time for migrating songbirds that stop to rest and feed. Forested wetlands offer incredible opportunities for wildlife viewing thanks to the diversity of species they support.</p><p>Forested wetlands also provide crucial ecological benefits and services. They help reduce flooding by slowing water flow during heavy rains that may cause severe flooding if unchecked. Forested wetlands then slowly release this water into the ground, which helps recharge underground aquifers. Their soils and plants filter out pollutants and sediments, improving the quality of nearby rivers, lakes and recharged groundwater. Other ecological services provided by these wetlands include the peat-rich soils of conifer swamps acting as a carbon sink, storing significant amounts of carbon which helps to regulate the climate.</p><p>These wetlands also provide beautiful backdrops for canoeing, kayaking, fishing and other outdoor activities that connect people to Michigan's rich natural heritage.</p><p>What is the health of forested wetlands?</p><p>The state's Natural Heritage Database monitors natural communities by recording their locations, condition and the species they support. Each entry, known as an element occurrence, represents a documented location and extent of a species or community across the landscape. This information helps assess the overall health of ecosystems such as forested wetlands. Between 2015 and 2025, 53 new forested wetland sites were added to the database, bringing the total to 366. These sites are evaluated based on their ecological condition, which ranges from excellent to poor. Over time, many sites have shown signs of change; previously documented locations were revisited during this period and 38% were found to be in declining condition. This highlights the importance of ongoing monitoring and conservation efforts to maintain the health and stability of these valuable natural areas.  <ref type="bibr">(Cohen et al. 2015</ref><ref type="bibr" target="#b23">, Cohen et al. 2025</ref>) and natural community abstracts, both of which are available online along with photos, comprehensive descriptions, distribution maps, and thorough references from the scientific literature. MNFI's most detailed bibliography on Michigan's natural communities can be found in the publication "Distribution Maps of Michigan's Natural Communities" <ref type="bibr">(Albert et al. 2008)</ref>, which is also available for viewing and downloading at the MNFI website.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Natural communities found in</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Accomplishments</head><p>Michigan Natural Features Inventory (MNFI) conducted surveys from 2015 through 2025 and documented 80 new occurrences of forested wetland natural community types (MNFI 2025).</p><p>MNFI developed draft monitoring protocols for evaluating the ecological integrity of southern hardwood swamp <ref type="bibr" target="#b21">(Cohen and Enander 2019)</ref>.</p><p>MNFI developed an invasive plant species treatment prioritization model and GIS-based Web Map Application <ref type="bibr" target="#b22">(Cohen et al. 2024</ref> </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Focal Species</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Blanding's Turtle</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Emydoidea blandingii</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Special Concern</head><p>The Blanding's turtle is one of the most recognizable turtles in Michigan with its bright yellow throat and neck and high domed, dark shell with tan or yellowish spots and/or streaks. Adults range from 6-11 inches long and they appear to have a permanent "smile" from their profile <ref type="bibr" target="#b37">(Harding and Mifsud 2017;</ref><ref type="bibr" target="#b49">Lee 1999</ref>). Blanding's turtles inhabit a variety of shallow, stagnant or slow-moving wetlands and waterbodies with abundant vegetation, ranging from fens, bogs, marshes and wet meadows and prairies to shrub and forested wetlands, vernal pools, shallow edges of ponds and lakes, low-gradient streams and rivers and embayments <ref type="bibr" target="#b19">(Compton 2007</ref><ref type="bibr" target="#b37">, Harding and Mifsud 2017</ref><ref type="bibr" target="#b25">, Cross et al. 2023)</ref>. They also utilize surrounding uplands for nesting, moving between wetlands, basking and aestivation in the summer. Blanding's turtles are widely distributed and frequently encountered in the Lower Peninsula but appear to be more scattered and much less common in the Upper Peninsula <ref type="bibr">(MNFI 2025)</ref>. Although a fair number of Blanding's turtle populations still occur in Michigan, the status, abundance, demographics and long-term viability of most of these populations remain unknown. This species has been documented from 660 sites in 72 counties in Michigan as of 2025 in the state's Natural Heritage Database and 638 of these occurrences were observed within the last 30 years <ref type="bibr">(1995</ref><ref type="bibr" target="#b23">-2025;</ref><ref type="bibr">MNFI 2025)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Goals</head><p>• Establish baseline status and distribution, especially in the Upper Peninsula.</p><p>• Conserve healthy, resilient, self-sustaining populations in sufficient number and distribution to ensure long-term viability in Michigan, consisting of at least 5 to 10 stable or growing populations distributed throughout Lake Erie, Lake Michigan and Lake Huron watersheds.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Cerulean Warbler</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Setophaga cerulea</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>State Threatened</head><p>These beautiful blue songbirds are often heard and rarely seen because they nest and feed high in the treetops. The females are often called bungee jumpers; jumping out of the nest head first with wings tucked into their body until well below the nest and only then opening their wings to fly. Cerulean Warblers require large tracts (&gt;3,000 ha) of mature deciduous forest with an understory containing 85% canopy cover and some forest gaps <ref type="bibr" target="#b58">(Potter et al. 2007)</ref>; while smaller tracts (700 ha) will support smaller populations <ref type="bibr">(USFWS 2006;</ref><ref type="bibr">MNFI 2007)</ref>. In Michigan, bottomlands, particularly floodplains, are usually preferred over upland areas <ref type="bibr" target="#b40">(Hyde et al. 2000)</ref>; the birds are known to use black locust, black walnut and black cherry in a greater proportion than available for both nesting and foraging (Department of Defense 2015). The North American Breeding Bird Atlas data shows a 1.37% annual decline in Cerulean Warbler populations in Michigan; and an almost 72% loss in population for Cerulean Warbler populations from 1970 to 2014 (Partners in Flight 2016; <ref type="bibr" target="#b62">Sauer et al. 2020</ref>). The estimated breeding population in Michigan is 5,000 birds. This species appears to be declining at a similar level within their core range in the Appalachian Mountains <ref type="bibr" target="#b14">(Buehler et al. 2013)</ref>. This species has been documented from 64 sites in 31 counties in Michigan as of 2025 in the state's Natural Heritage Database and 36 of these occurrences were observed within the last 20 years (2005-2025; MNFI 2025).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Goals</head><p>• Reduce population decline by 75% by 2030. <ref type="bibr">[JV]</ref> • Implement experimental forest management practices for Cerulean Warbler and assess bird community response.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Indiana Bat</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Myotis sodalis</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Federally and State Endangered</head><p>The Indiana bat is a small brown bat that can be distinguished from other bats based on a characteristic ridge on the calcar or ankle-like structure on the wing of the bat <ref type="bibr" target="#b47">(Kurta et al. 2023)</ref>. Like all bats, the Indiana bat eats insects and can consume over half of its body weight every night. It has been estimated that a colony of 150 bats can eat nearly 1.3 million pest insects each year <ref type="bibr" target="#b13">(Boyles et al. 2011)</ref>. Male and female bats roost under peeling bark in trees with an average diameter of 13 and 18 inches, respectively, and where the roost receives direct sunlight for more than half the day; trees are typically in gaps in or along edges of forests (USFWS 2007). In Michigan, they prefer elms (Ulmus spp.), ashes (Fraxinus spp.), or maples (Acer spp.) and will change trees every few days throughout summer <ref type="bibr" target="#b47">(Kurta et al. 2002)</ref>. Nevertheless, Indiana bats show long-term site fidelity, which may facilitate conservation and management <ref type="bibr">(Kurta et al. 2024;</ref><ref type="bibr">Mellos et al. 2014)</ref>. Most of Michigan's Indiana bats migrate up to 350 miles to Indiana, Ohio and Kentucky for hibernation <ref type="bibr" target="#b60">(Rockey et al. 2013)</ref>, although some overwinter at Tippy Dam in Manistee County. White-nose syndrome has devastated these hibernating populations, with estimated losses up to 81% <ref type="bibr" target="#b17">(Cheng et al. 2021</ref>) and this species has become very uncommon in Michigan during summer <ref type="bibr">(Kurta et al. 2024)</ref>. This species has been documented from 25 sites in 16 counties in Michigan as of 2025 in the state's Natural Heritage Database and 14 of these occurrences were observed within the last 30 years <ref type="bibr">(1995</ref><ref type="bibr" target="#b23">-2025;</ref><ref type="bibr">MNFI 2025)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Goals</head><p>• Maintain known Indiana bat populations.</p><p>• Obtain a more accurate summer population estimate.</p><p>• Determine summer roosting areas for bats that overwinter at Tippy Dam.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Ram's Head Lady's-Slipper</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Cypripedium arietinum</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Special Concern</head><p>The ram's head lady's-slipper is Michigan's smallest native lady's-slipper orchid, ranging from about 4-12 inches tall <ref type="bibr">(Case 1987, Penskar and</ref><ref type="bibr" target="#b55">Higman 1999)</ref>. It has 3 to 5 bluish-green, narrow, elliptical leaves growing in a spiral along the stem and a small flower that has a deeply pouched lower lip marked with dark red, netted venation <ref type="bibr" target="#b55">(Penskar and Higman 1999)</ref>. The Ram's Head Lady's-slipper is found primarily in boreal forests along the Great Lakes shoreline in northern Michigan <ref type="bibr" target="#b16">(Case 1987)</ref>. It also occurs in dry northern forests, in rich conifer swamp and along the margins of limestone bedrock glades. The species is associated with cool temperatures and is often confined to northern exposures and cold air channels <ref type="bibr" target="#b55">(Penskar and Higman 1999)</ref>. • Maintain and protect at least 20 existing populations, particularly large populations, across the species range.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Regal Fern Borer</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Papaipema speciosissima</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Special Concern</head><p>The regal fern borer is a small moth with an average wingspan of about 2 in <ref type="bibr" target="#b24">(Covell 1984)</ref>. The forewings or upper wings are bright orange, with some brown and violet shading and have three white or brown, narrow vertical bars or spots with the two inner spots almost fused <ref type="bibr" target="#b24">(Covell 1984)</ref>.</p><p>The hind wings or lower wings are orangish with slightly darker shading with a visible, light median line in the center of the hind wing <ref type="bibr" target="#b24">(Covell 1984)</ref>. The regal fern borer moth typically inhabits forested wetlands but also is associated with prairie, idle/old field, lowland shrub, lowland hardwood, fen and river/stream/riparian/floodplain habitats (Cuthrell 2007). The larvae bore into the roots of their host plant: regal fern (Osmunda regalis) and cinnamon fern (Osmundastrum cinnamomeum) (Cuthrell 2007). The regal fern borer moth is considered rare and may be imperiled in Michigan. This species has been documented from 15 sites in 11 counties in southern Michigan as of 2025 in the state's Natural Heritage Database and only four of these occurrences were observed within the last 20 years (2004-2024) (MNFI 2025).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Goals</head><p>• Establish baseline status and distribution.</p><p>• Protect and maintain at least four existing populations.</p><p>Enhance and connect forested wetlands Forested wetlands, especially those along river corridors, serve as critical habitat and migration pathways across multi-county and multi-state landscapes, supporting species movement and range shifts in response to changing conditions. Expanding and enhancing connectivity among forested wetlands will be key to improving their ecological resilience and supporting biodiversity.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Focal species adaptive capacity</head><p>Adaptive capacity is a species' ability to tolerate or adapt to environmental change, whether that be through shifting in space or persisting in place <ref type="bibr" target="#b70">(Thurman et al. 2020)</ref> Effects can include local extinction of rare species, decreased biodiversity, disruption of long-term natural processes and invasion and spread of non-native species <ref type="bibr" target="#b11">(Bernardo et al. 2018</ref><ref type="bibr">, Hill Bermingham 2010)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Natural Systems Modifications</head><p>• Hydrological modifications such as human-made levees, impoundments, channelization, dams, hardening of shorelines and changes in land use and climate can cause higher flood pulses and generally higher water levels over the entire year, while eliminating periods of very low flow which were once common in the fall <ref type="bibr" target="#b42">(Knutson et al. 1996</ref><ref type="bibr" target="#b69">, Tepley et al. 2004</ref>). • Impacts to key disturbance regimes such as fire and hydrologic fluctuations can degrade ecosystems over time. Infrequent fire is an important component of conifer swamps during periods of drought; however, higher fire frequencies due to increased drought conditions can convert these communities to open systems or, in extreme cases, completely remove the organic content of soils <ref type="bibr" target="#b33">(Frelich et al. 2021</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Agriculture and Silviculture</head><p>• Drains and tiling alter the hydrology in forested wetlands which can lead to an alteration in the vegetative community <ref type="bibr" target="#b15">(Burt 1997</ref><ref type="bibr" target="#b35">, Gergel et al. 2002</ref>). • Incompatible timber management, specifically management for shorter rotations and even-aged stands, can degrade habitat for focal species <ref type="bibr" target="#b43">(Knutson et al. 2001</ref>). • Conversion of mature bottomland forests to agricultural land has resulted in loss of forested wetlands, an increase in invasive species, altered hydrology and increased sedimentation <ref type="bibr" target="#b71">(Tockner and</ref><ref type="bibr">Stanford 2002, Tepley et al. 2004</ref>).</p><p>• Runoff and drift from surrounding agricultural lands (fertilizers, pesticides) can contaminate the water and soils in forested wetlands and impact plant and animal populations <ref type="bibr">(Daniel et al. 1998, Clement and</ref><ref type="bibr" target="#b18">Steinman 2017)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Residential and Commercial Development</head><p>• Conversion of habitats to industrial and residential land use fragment and destroy continuous areas of large mature bottomland deciduous forests; creating pockets that may be too small to support several key wildlife species (USFWS 2007).</p><p>• Pollution from nearby industry operating within floodplains can be transported downstream and negatively impact wildlife across multiple trophic levels <ref type="bibr" target="#b79">(Yun et al. 2008</ref><ref type="bibr">, Fredricks et al. 2011a</ref><ref type="bibr">, Fredricks et al. 2011b</ref>).</p><p>• Increase in impervious surfaces, such as roads and parking lots, change the hydrology of these systems, resulting in increased flooding, erosion and sedimentation <ref type="bibr" target="#b63">(Shuster et al. 2005</ref><ref type="bibr" target="#b9">, Andreadis et al. 2022)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Transportation &amp; Service Corridors</head><p>• Indiscriminate use of herbicides along utility corridors and runoff from roads such as road salt and oil near forested wetlands can reduce biodiversity, aid invasive species colonization and degrade the quality of these ecosystems (GLRI 2024, USEPA 2024).</p><p>• Oil spills and train derailments caused by deteriorating and failing infrastructure along peatlands can negatively impact forested wetlands <ref type="bibr" target="#b54">(Otten et al. 2023</ref>).</p><p>• Increased utility corridors, such as roads, can fragment formally interior habitat increasing the spread of invasive or damaging species.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Changing Weather Patterns</head><p>• Forested wetland communities of all types will likely be impacted by tree mortality and decreased habitat suitability for some plants and animals <ref type="bibr" target="#b39">(Hoving et al. 2013)</ref> </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Threats and conservation actions for focal species</head><p>Blanding's Turtle Threats</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Lack of Knowledge</head><p>• Lack of information on the status, trends, demographics and specific threats and management needs at most populations in the state <ref type="bibr" target="#b49">(Lee 1999</ref><ref type="bibr">, MWPARC 2010)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Residential, Commercial and Agricultural Development</head><p>• Loss of wetland and upland habitats from development reduce habitat quantity, quality, diversity and connectivity <ref type="bibr" target="#b37">(Harding and Mifsud 2017)</ref>. • Increase in predators, particularly raccoons, increase predation of nests, hatchlings and juveniles; reduce recruitment <ref type="bibr" target="#b19">(Compton 2007</ref>). • Road mortality threatens turtles traveling overland between wetlands or to nest <ref type="bibr" target="#b19">(Compton 2007</ref><ref type="bibr" target="#b25">, Cross et al. 2023</ref>). [BT-OHMI] • Turtles that nest in agricultural fields or residential yards are vulnerable to mortality and injury due to tractors, mowers and other machinery and reduced nesting success <ref type="bibr" target="#b19">(Compton 2007)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Human Intrusions &amp; Disturbance</head><p>• Illegal collection for consumption, pet trade and medicinal use threatens the long-term viability of Blanding's turtle populations, which are especially vulnerable to the loss of adults given their long-lived nature and delayed sexual maturity <ref type="bibr" target="#b67">(Stanford et al. 2020)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Natural System Modifications</head><p>• Hydrological alterations such as flooding and drawdowns can expose or flood overwintering sites and/or force turtles to move which could potentially result in mortality <ref type="bibr" target="#b19">(Compton 2007</ref><ref type="bibr" target="#b34">, Gasbarrini et al. 2021</ref><ref type="bibr" target="#b25">, Cross et al. 2023)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>[BT-OHMI]</head><p>Conservation Actions Species Management BT1. Control predators at priority populations to increase recruitment by protecting nests, hatchlings and juveniles. BT2. Protect nests and investigate and initiate head-starting to increase recruitment where appropriate/feasible. Develop framework and protocols for head-starting. BT3. Implement road mortality mitigation measures such as traffic slowing measures, underpasses, culverts, barrier fencing and more strategic road placement where needed.</p><p>Land and Water Management BT4. Maintain, restore and/or expand suitable wetland and nesting habitat. Establish buffer zones around wetlands to protect associated terrestrial habitat and limit wetland loss and disturbance.</p><p>[SFMP] BT5. Control invasive species including glossy buckthorn, European common reed and invasive cat-tails. [TIS; AIS] BT6. Maintain stable hydrology, particularly at overwintering sites.</p><p>Conservation Designation &amp; Planning BT7. Develop and implement a conservation plan or strategy for Michigan that aligns with those designed across the species range. [BT-NEWG] BT8. Collaborate on regional conservation strategies/efforts. [ <ref type="bibr">BT-OHMI]</ref> Research &amp; Monitoring BT9. Conduct focused, long-term demographic monitoring of select, representative populations to understand population demographics, trends and habitat needs; identify viable populations; and develop population viability assessment models. BT10. Research and develop effective and efficient strategies to reduce predation. BT11. Collect data and develop model to identify potential areas where road mortality may be a significant issue, particularly at viable/potentially viable populations. [BT-OHMI] BT12. Investigate prevalence of diseases (e.g., ranavirus, Emydomyces testivorans) in wild and captive/headstarting populations. (see Wildlife Health chapter for more information).</p><p>Law &amp; Policy BT12. Take actions to prevent illegal collection for the pet trade, such as work with DNR law enforcement and local authorities, and reduce incidental collection by the general public.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Cerulean Warbler Threats</head><p>Lack of Knowledge • Lack of information on life history, nesting success rates and other limiting factors <ref type="bibr" target="#b30">(Flaspohler 1993;</ref><ref type="bibr" target="#b40">Hyde et al. 2000;</ref><ref type="bibr" target="#b58">Potter et al. 2007</ref>). </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Places for partnership</head><p>This map was created in collaboration with partners and highlights focal areas to work in over the next 10 years. Creating shared goals helps focus efforts and build collaboration.</p><p>While this map has a select few areas highlighted, conservation work benefitting any Forested Wetland is welcome and encouraged.</p><p>How will we monitor?</p><p>Assessing status and measuring progress toward goals</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Habitat</head><p>• Conduct systematic surveys and update the state's Natural Heritage Database, for rarest forested wetland natural community types. • Develop monitoring protocols to evaluate the ecological integrity of forested wetlands and implement monitoring in reference sites.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Blanding's Turtle</head><p>• Continue monitoring the demographics of populations using standardized surveys, occupancy and abundance modeling and population growth and viability assessments.</p><p>• Continue monitoring status, distribution and population demographics with existing databases such as the state's Natural Heritage Database, iNaturalist and HerpMapper.</p><p>• Update occurrences in the state's Natural Heritage Database.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Cerulean Warbler</head><p>• Continue annual North American Breeding Bird Survey for population trends.</p><p>• Use community science programs, like eBird, to help assess distribution and relative abundance. • Update occurrences in the state's Natural Heritage Database.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Indiana Bat</head><p>• Work with landowners to preserve and survey the Tippy Dam hibernacula.</p><p>• Continue and expand hibernacula surveys to visit known or priority sites more frequently.</p><p>• Use community science programs like the Michigan Bat Roost Monitoring Program • Update occurrences in the state's Natural Heritage Database.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Ram's Head Lady's-Slipper</head><p>• Every five years or less, collect count-based and potentially density population measurements in a manner so that the data is interoperable with that collected by other states and agencies.</p><p>• Every five years or less, document any observable changes with the area occupied for a population.</p><p>• Update occurrences in the state's Natural Heritage Database.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Regal Fern Borer</head><p>• Conduct surveys to monitor known populations and identify additional new populations.</p><p>• Continue to update element occurrences in the state's Natural Heritage Database.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Links to other conservation plans</head><p>[BSGA] Barry State Game Area Master Plan (DNR 2015a). [CW] A conservation action plan for the Cerulean Warbler (Dendroica cerulea) (USFWS 2007).</p><p>[CW-MG] Management guidelines for enhancing Cerulean Warbler breeding habitat in Appalachian hardwood forests <ref type="bibr" target="#b78">(Wood et al. 2013</ref>).</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head></head><label></label><figDesc>It mainly occurs in the northern Lower Peninsula and across the Upper Peninsula. Despite historic records in central and southeastern Michigan, this orchid has not been documented south of Mason County since 1928 (MNFI 2025). In total, this species has been documented from 118 sites in 29 counties in Michigan as of 2025 in the state's Natural Heritage Database and 73 of these occurrences were observed within the last 40 years (1985-2025; MNFI 2025). Goals • Determine current status, distribution and abundance of existing populations.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head></head><label></label><figDesc>Forested wetlands are shaped by the frequency and intensity of flooding events, which influence their structure, function and extent. Changes in weather patterns are causing an increase in the intensity of winter and spring floods, potentially expanding wetlands into adjacent uplands while converting forested wetlands into open wetlands along their aquatic edges. At the same time, more frequent and severe summer droughts pose additional stress to these ecosystems.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>[</head><label></label><figDesc>BT-NEWG] Conservation Plan for the Blanding's Turtle and Associated Species of Greatest Conservation Need in the Northeastern United States (Willey and Jones 2014) [BT-OHMI] Blanding's Turtle Conservation Plan for Michigan and Ohio. Version 1.0 (Cross et al. 2023) [CC] National fish, wildlife and plants climate adaptation strategy (National Fish, Wildlife and Plants Climate Adaptation Partnership 2012).</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="4,72.00,350.32,246.00,246.00" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="5,72.00,379.62,230.50,230.50" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="6,72.00,394.27,256.40,207.72" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head></head><label></label><figDesc>Helpful resources for identifying and understanding Michigan's natural communities include Michigan Natural Features Inventory's natural community classification</figDesc><table><row><cell></cell><cell>Forested Wetlands</cell></row><row><cell>Acidic sandy flatwoods</cell><cell>Rich conifer swamp</cell></row><row><cell>Floodplain forest</cell><cell>Rich tamarack swamp</cell></row><row><cell>Hardwood-conifer swamp</cell><cell>Southern hardwood swamp</cell></row><row><cell>Northern hardwood swamp</cell><cell>Wet-mesic flatwoods</cell></row><row><cell>Poor conifer swamp</cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head></head><label></label><figDesc>). 19 new occurrences of Ram's-head Orchid documented in Michigan's Natural Heritage Database between 2015 and 2025. MNFI and Michigan Department of Natural Resources (DNR) implemented a bat roost community science monitoring program with input from the U.S. Fish and Wildlife Service (USFWS). Management and regular surveys have supported annual populations nearly 40 singing males for Cerulean Warblers at Fort Custer Training Center with support from Kalamazoo Nature Center. The Kalamazoo Nature Center has banded 239 males and two females at Fort Custer Training Center since 2005. MNFI, in collaboration with John Ball Zoo, Potter Park Zoo, Eastern Michigan University, Ohio Department of Natural Resources, Michigan Department of Natural Resources, Toledo Zoo, Ohio State University, and Purdue University -Ft. Wayne, investigated the status, distribution, and threats facing Blanding's turtles in parts of Michigan and Ohio. Surveys documented 10 new occurrences from at least 6 populations, and management led to the protection and release of 387 hatchlings.</figDesc><table /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head></head><label></label><figDesc>. Michigan Natural Features Inventory, with funding support from the Michigan Department of Natural Resources, assessed Adaptive Capacity for over 500 Midwest SGCN from 2023-2024 (Appendix 3). We chose to increase clarity at expense of precision in technical language used by<ref type="bibr" target="#b70">Thurman et al. (2020)</ref> in their paper. The Michigan Department of Natural Resources created broad management strategies based off assessment results and are intended to be stepped down based on management scale, capacity and resources. Management strategies for assessed 2025-2035 focal species are: Invasive plants may out-compete native plants species in forested wetlands; invasive animals may kill adult trees including emerald ash borer (Agrilus planipennis), which can provide a pathway for other invasive species like reed canary grass (Phalaris arundinaceae)<ref type="bibr" target="#b69">(Tepley et al. 2004</ref><ref type="bibr" target="#b57">, Poland and McCullough 2006</ref>, Kost et al. 2007<ref type="bibr" target="#b26">, D'Amato et al. 2018</ref>). • High densities of white-tailed deer can result in over-browsing of native plant species.</figDesc><table><row><cell></cell><cell>Lowest adaptive capacity</cell><cell>Strategy</cell></row><row><cell>Cerulean Warbler</cell><cell>Range of Tolerances</cell><cell>Protect habitat reserves</cell></row><row><cell>Blanding's Turtle</cell><cell cols="2">Life Span and Age Structure Increase habitat connectivity</cell></row><row><cell>Indiana Bat</cell><cell>Population Size</cell><cell>Increase habitat connectivity</cell></row><row><cell cols="3">Threats and conservation actions to habitat</cell></row><row><cell>Threats</cell><cell></cell><cell></cell></row><row><cell cols="3">Invasive &amp; Other Problematic Species, Genes, &amp; Diseases</cell></row><row><cell>•</cell><cell></cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_4"><head></head><label></label><figDesc>Ram's head lady's-slipper is unable to tolerate high levels of sunlight and is thought to be vulnerable to other habitat disturbances such as those that alter the diversity of soil microbes including fungi that may have a beneficial association with orchid roots. Timber harvesting and clearing of forests for agricultural use lead to loss of habitat. Maintain and protect sufficient and suitable habitat at existing populations. RHL4. Establish buffers around documented populations, particularly along the Great Lakes.Within these buffers limit activities that significantly alter suitable habitat (i.e., clearcutting and residential development).[HCVL] RHL5. Maintain or restore natural disturbance and hydrological regimes to maintain suitable habitat at existing populations. Habitat loss and degradation and loss or reduction of host plants due to encroachment by invasive plants(Bowels and Jones 2006; Landis et al. 2010). Altered fire and hydrological regimes can reduce habitat quantity and quality and availability of larval host/food plants<ref type="bibr" target="#b8">(Amon et al. 2002;</ref> Landis et al. 2010). Maintain or expand suitable habitat at existing populations to provide sufficient densities of the species' host plants. This could include maintaining or restoring hydrologic regimes, controlling invasive species, or using management tools such as tree girdling.[SFMP] RFB4. Restore natural disturbance regimes and ecological processes such as prescribed fire to help maintain or increase habitat at existing populations.[SFMP]Research &amp; Monitoring RFB5. Conduct surveys to determine the species' status, abundance and distribution. RFB6. Implement research to obtain more information on life history, ecology, habitat requirements and threats, particularly adult dispersal ability/distances, minimum size and age of host plant population necessary to support the species indefinitely and effects of management on the moth and host plant populations.</figDesc><table><row><cell>Conservation Actions Land &amp; Water Management CW1. Where feasible, follow Cerulean Warbler management guidelines for enhancing breeding habitat from Appalachian Hardwood Forests during forest management. [CW-MG] CW2. Maintain existing large blocks of floodplain forests where Cerulean warblers are known to exist. CW3. Develop habitat management guidelines specific for Michigan Cerulean Warblers. Species Management CW4. Follow Cerulean Warbler Conservation Plan and recommendations from the Upper Mississippi / Great Lakes Joint Venture Landbird Habitat Conservation Strategy. [CW] Research &amp; Monitoring CW5. Work with partners, including industry, to acquire more data on the distribution of Cerulean Warbler. [CC] CW6. Assess productivity of Cerulean Warbler at known sites to aid management. [PIF; IB; JV] Indiana Bat Threats Lack of Knowledge Invasive &amp; Problematic Species, Pathogens • Population declines from white-nose syndrome(see Wildlife Health chapter for more information). Energy Production &amp; Mining • Wind turbine farms constructed and operated in ways not aligned with best practices cause bat mortality (USFWS 2007; NASBR 2024). Biological Resource Use • Loss of standing snags and other suitable living roost site for summer habitat in Michigan, especially in sites known to support Indiana Bat (USFWS 2007). Conservation Actions Land &amp; Water Management IB1. Protect and manage known summer roosting locations, especially maternity colonies. [IB] IB2. Protect the Tippy Dam hibernacula, the only known Michigan hibernacula for Indiana Bat. Conservation Designation &amp; Planning IB3. Continue to implement Lake States Forest Management Bat Habitat Conservation Plan [HCP]. IB4. Encourage participation in state wind best management practices to reduce bat fatalities at wind facilities. Research &amp; Monitoring IB5. Work with partners, including industry, to acquire more data on the distribution of Indiana Bat. [CC; IB] IB6. Determine migration pathways between maternity and hibernacula sites for Indiana Bat. [IB] IB7. Assess productivity of Indiana Bat at known sites to aid management. [IB] Ram's Head Lady's-Slipper Threats Lack of Knowledge • Limited information on current status, distribution, habitat requirements, ecology and management needs in Michigan to inform species management and conservation. Residential &amp; Commercial Development • Habitat alteration and destruction due to residential, commercial and recreational development, particularly along Great Lakes shorelines. • Human Intrusions &amp; Disturbance • Overcollection by orchid enthusiasts and poachers threatens populations with extinction. Conservation Actions Species Management RHL1. Protect and maintain extant populations. Law &amp; Policy RHL2. Minimize illegal collection by working with DNR law enforcement and local authorities, increased education and outreach. [RPRS] RHL3. Research &amp; Monitoring RHL6. Conduct surveys and detailed assessments of known occurrences to determine the species' current status, abundance and distribution. [HCVL; RPRS] RHL7. Research mycorrhizal association(s) as well as the reproductive biology and genetic variation within and between known populations to develop effective conservation strategies. [RPRS] Regal Fern Borer Threats Lack of Knowledge • Lack of information on the species' status, distribution, life history, habitat requirements and ecology. (Cuthrell 2007) Residential, Commercial and Agricultural Development • Habitat loss, degradation and fragmentation due to conversion of floodplain forests, shrub and forested swamps, fens and other wetland habitats to agricultural lands and for industrial, residential and/or recreational development (Landis et al. 2010; van Diggelen et al. 2006). • Use of pesticides and herbicides may have contributed to species decline. Invasive &amp; Problematic Species, Pathogens • Natural System Modifications • Conservation Actions Species Management RFB1. Protect and maintain extant populations. RFB2. Avoid or minimize use of pesticides and herbicides in and near existing populations. Land and Water Management • Agriculture &amp; Silviculture Land and Water Management RFB3.</cell></row><row><cell>• Lack of information on population biology and full distribution in Michigan.</cell></row></table></figure>
+		</body>
+		<back>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<monogr>
+		<title level="m" type="main">Establishing regional mentor sites for the management of the cerulean warbler and other mature forest avifauna</title>
+		<author>
+			<persName><surname>Cw-Dod</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<title level="m" type="main">Interim Forest Management Policy for High Conservation Value Forests: HCVL Ram&apos;s-head lady&apos;s slipper orchid</title>
+		<imprint>
+			<date type="published" when="2021">2021</date>
+			<publisher>Petersen et al</publisher>
+		</imprint>
+	</monogr>
+	<note>Cypripedium arietinum</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<title level="m" type="main">Lake States Bat Habitat Conservation Plan</title>
+		<imprint/>
+	</monogr>
+	<note>ICF 2023</note>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<title level="m" type="main">Indiana Bat (Myotis sodalis) Draft Recovery Plan: First Revision</title>
+		<imprint>
+			<date type="published" when="2007">2007</date>
+			<pubPlace>USFWS</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<monogr>
+		<title level="m" type="main">Upper Mississippi / Great Lakes Joint Venture Landbird Habitat Conservation Strategy</title>
+		<imprint>
+			<date type="published" when="2020">Soulliere et al. 2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<monogr>
+		<title level="m" type="main">Recovery Plan for Ram&apos;s-head lady slipper (Cypripedium arietinum R. Br</title>
+		<editor>Nova Scotia</editor>
+		<imprint/>
+	</monogr>
+	<note>Final] (NSDLF 2020</note>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration">Forest Action Plan</orgName>
+		</author>
+		<imprint>
+			<date type="published" when="2020">2020. 2020</date>
+			<publisher>Michigan Department of Natural Resources Forest Resources Division</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<monogr>
+		<title level="m" type="main">Michigan&apos;s Terrestrial Invasive Species State Management Plan (2018) Literature cited</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Amon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>Thompson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Q</forename><forename type="middle">J</forename><surname>Carpenter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Miner</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Temperate zone fens of the glaciated Midwestern USA</title>
+		<imprint>
+			<date type="published" when="2002">2002</date>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="301" to="317" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Urbanizing the floodplain: global changes of imperviousness in flood-prone areas</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">M</forename><surname>Andreadis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">E J</forename><surname>Wing</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Colven</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">J</forename><surname>Gleason</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">D</forename><surname>Bates</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Brown</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Environmental Research Letters</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page" from="1" to="9" />
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Deer herbivory and habitat type influence long-term population dynamics of a rare wetland plant</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">H</forename><surname>Bermingham</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Plant Ecology</title>
+		<imprint>
+			<biblScope unit="volume">210</biblScope>
+			<biblScope unit="page" from="359" to="378" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Count population viability analysis finds that interacting local and regional threats affect the viability of a rare plant</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">L</forename><surname>Bernardo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Vitt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Goad</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Masi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">M</forename><surname>Knight</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ecological Indicators</title>
+		<imprint>
+			<biblScope unit="volume">93</biblScope>
+			<biblScope unit="page" from="822" to="829" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Trends of Change in Composition and Structure of Chicago Region Wetland Vegetation</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Bowles</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Jones</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Chicago Wilderness Journal</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="25" to="34" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Economic importance of bats in agriculture</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">G</forename><surname>Boyles</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">P M</forename><surname>Cryan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">F</forename><surname>Mccracken</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">H</forename><surname>Kunz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">332</biblScope>
+			<biblScope unit="page" from="41" to="42" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Cerulean Warbler (Setophaga cerulea)</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Buehler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Boves</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Hamel</surname></persName>
+		</author>
+		<idno type="DOI">10.2173/bow.cerwar.01</idno>
+	</analytic>
+	<monogr>
+		<title level="j">The Birds of North America Online</title>
+		<imprint>
+			<biblScope unit="volume">506</biblScope>
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">The hydrological role of floodplains within the drainage basin system</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">P</forename><surname>Burt</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Buffer Zones: Their Processes and Potential in Water Protection. Environmental Science</title>
+		<editor>
+			<persName><forename type="first">N</forename><forename type="middle">E</forename><surname>Haycock</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">T</forename><forename type="middle">P</forename><surname>Burt</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">K</forename><forename type="middle">W T</forename><surname>Goulding</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">G</forename><surname>Pinay</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Hertfordshire, UK</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1997">1997</date>
+			<biblScope unit="page" from="21" to="32" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Orchids of the Western Great Lakes Region revised edition</title>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">W</forename><surname>Case</surname><genName>Jr</genName></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cranbrook Institute of Science. Bulletin number</title>
+		<imprint>
+			<biblScope unit="volume">48</biblScope>
+			<biblScope unit="page">251</biblScope>
+			<date type="published" when="1987">1987</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">The scope and severity of white-nose syndrome on hibernating bats in North America</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">L</forename><surname>Cheng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Reichard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">T H</forename><surname>Coleman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">J</forename><surname>Weller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">E</forename><surname>Thogmartin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Reichert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Bennett</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">G</forename><surname>Broders</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Campbell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Etchison</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Feller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Geboy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Hemberger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Herzog</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">C</forename><surname>Hicks</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Houghton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Humber</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Kath</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>King</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">C</forename><surname>Loeb</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Masse</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">M</forename><surname>Morris</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Niederriter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Nordquist</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">W</forename><surname>Perry</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Reynolds</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">B</forename><surname>Sasse</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Scafini</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">C</forename><surname>Stark</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">W</forename><surname>Stihler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">C</forename><surname>Thomas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">C</forename><surname>Turner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Webb</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Westrich</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">F</forename><surname>Frick</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Conservation Biology</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="page" from="1586" to="1597" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Phosphorus loading and ecological impacts from agricultural tile drains in a west Michigan watershed</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">R</forename><surname>Clement</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">D</forename><surname>Steinman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Great Lakes Research</title>
+		<imprint>
+			<biblScope unit="volume">43</biblScope>
+			<biblScope unit="page" from="50" to="58" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">W</forename><surname>Compton</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Status assessment for the Blanding&apos;s turtle</title>
+		<title level="s">Emydoidea blandingii) in the Northeast. Unpublished U.S. Fish &amp; Wildlife Service Report</title>
+		<imprint>
+			<date type="published" when="2007">2007</date>
+			<biblScope unit="volume">132</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<monogr>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">G</forename><surname>Cohen</surname></persName>
+		</author>
+		<title level="m">Natural community abstract for poor conifer swamp. Michigan Natural Features Inventory</title>
+		<meeting><address><addrLine>Lansing, MI</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2006">2006</date>
+			<biblScope unit="page">23</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<monogr>
+		<title level="m" type="main">Rare coastal ecosystem monitoring</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">G</forename><surname>Cohen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">D</forename><surname>Enander</surname></persName>
+		</author>
+		<idno>Number 2019-08</idno>
+		<imprint>
+			<date type="published" when="2019">2019</date>
+			<biblScope unit="page">60</biblScope>
+			<pubPlace>Lansing, MI</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="report_type">Michigan Natural Features Inventory Report</note>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Using GIS-based multicriteria decision analysis to prioritize invasive plant treatment: A creative solution for a pernicious problem</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">G</forename><surname>Cohen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">D</forename><surname>Enander</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">J</forename><surname>Bassett</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Wilton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">A</forename><surname>Cole-Wick</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ecological Modelling</title>
+		<imprint>
+			<biblScope unit="volume">495</biblScope>
+			<biblScope unit="page">110807</biblScope>
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<monogr>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">G</forename><surname>Cohen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Kost</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">S</forename><surname>Slaughter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Albert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Lincoln</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">P</forename><surname>Kortenhoven</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Wilton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">D</forename><surname>Enander</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">E</forename><surname>Anderson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Parr</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">J</forename><surname>Bassett</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">M</forename><surname>Korroch</surname></persName>
+		</author>
+		<ptr target="https://mnfi.anr.msu.edu/communities/classification" />
+		<title level="m">Michigan Natural Community Classification</title>
+		<meeting><address><addrLine>Lansing, MI</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2025">2025</date>
+		</imprint>
+		<respStmt>
+			<orgName>Michigan State University Extension</orgName>
+		</respStmt>
+	</monogr>
+	<note>Michigan Natural Features Inventory</note>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<monogr>
+		<title level="m" type="main">A field guide to the moths of eastern North America</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">V</forename><surname>Covell</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Jr</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1984">1984</date>
+			<biblScope unit="page" from="496" to="476" />
+			<pubPlace>Houghton Mifflin Co; Boston, MA</pubPlace>
+		</imprint>
+	</monogr>
+	<note>ill. 64 pl. 76 figs</note>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Blanding&apos;s Turtle Conservation Plan for Michigan and Ohio. Version 1.0. Ohio Division of Wildlife</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">D</forename><surname>Cross</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">J</forename><surname>Lipps</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Jordan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Sockman ; Cuthrell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Special animal abstract for Papaipema speciosissima (regal fern borer moth)</title>
+		<meeting><address><addrLine>Columbus, OH, USA; Lansing, MI</addrLine></address></meeting>
+		<imprint>
+			<publisher>Michigan Natural Features Inventory</publisher>
+			<date type="published" when="2007">2023. 2007</date>
+			<biblScope unit="page">59</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Evaluating Adaptive Management Options for Black Ash Forests in the Face of Emerald Ash Borer Invasion</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>D'amato</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Palik</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Slesak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Edge</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Matula</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Bronson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Forests</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="348" to="365" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Agricultural Phosphorus and Eutrophication: A Symposium Overview</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">C</forename><surname>Daniel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">N</forename><surname>Sharpley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Lemunyon</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Environmental Quality</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page" from="251" to="257" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<monogr>
+		<title level="m" type="main">Strategic Plan for Bird Conservation and Management on Department of Defense Lands</title>
+		<imprint>
+			<date type="published" when="2014">2014</date>
+			<publisher>Department of Defense (DoD) Natural Resources Program</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<monogr>
+		<title level="m" type="main">Assessing Climate Vulnerability &amp; Adaptive Capacity of Midwest Species of Greatest Conservation Need</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Earl</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">C</forename><surname>Branch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">A</forename><surname>Cole-Wick</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">M</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">M</forename><surname>Rowe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Badra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Wilton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Cuthrell</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2024">2024</date>
+			<publisher>Michigan Natural Features Inventory</publisher>
+			<biblScope unit="page">79</biblScope>
+			<pubPlace>Lansing, MI</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Wisconsin Cerulean Warbler Recovery Plan</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Flaspohler</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Wisc. Dept. of Natural Resources</title>
+		<imprint>
+			<date type="published" when="1993">1993</date>
+			<pubPlace>Madison, WI</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Wisconsin Endangered Resources Report #101. Bureau of Endangered Resources</note>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">2011a. Dietary exposure of three passerine species to PCDD/DFs from the Chippewa, Tittabawassee and Saginaw River floodplains</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">B</forename><surname>Fredricks</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Giesy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">J</forename><surname>Coefield</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Seston</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">M</forename><surname>Haswell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Tazelaar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">W</forename><surname>Bradley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">N</forename><surname>Moore</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">A</forename><surname>Roark</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Zwiernik</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Environmental Monitoring and Assessment</title>
+		<imprint>
+			<biblScope unit="volume">172</biblScope>
+			<biblScope unit="page" from="91" to="112" />
+			<pubPlace>Midland, MI, USA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Effects on tree swallows exposed to dioxin-like compounds associated with the Tittabawassee River and floodplain near Midland</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">B</forename><surname>Fredricks</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Zwiernik</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Seston</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">J</forename><surname>Coefield</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Tazelaar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">A</forename><surname>Roark</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">P</forename><surname>Kay</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Newsted</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Giesy</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Environmental Toxicology and Chemistry</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="1354" to="1365" />
+			<date type="published" when="2011">2011</date>
+			<pubPlace>MI, USA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">History and Future of Fire in Hardwood and Conifer Forests of the Great Lakes-Northeastern Forest Region, USA. Pages 245-285 in</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">E</forename><surname>Frelich</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">G</forename><surname>Lorimer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">C</forename><surname>Stambaugh</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/978-3-030-73267-7_7</idno>
+		<ptr target="https://doi.org/10.1007/978-3-030-73267-7_7" />
+	</analytic>
+	<monogr>
+		<title level="j">Managing Forest Ecosystems</title>
+		<editor>
+			<persName><forename type="first">C</forename><forename type="middle">H</forename><surname>Greenberg</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">B</forename><surname>Collins</surname></persName>
+		</editor>
+		<imprint>
+			<biblScope unit="volume">39</biblScope>
+			<biblScope unit="page" from="245" to="285" />
+			<date type="published" when="2021">2021</date>
+			<publisher>Springer</publisher>
+			<pubPlace>Cham. Available</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">An enigmatic mass mortality event of Blanding&apos;s turtles (Emydoidea blandingii) in a protected area</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M L</forename><surname>Gasbarrini</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Lesbarrères</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Sheppard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Litzgus</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Canadian Journal of Zoology</title>
+		<imprint>
+			<biblScope unit="volume">99</biblScope>
+			<biblScope unit="page" from="470" to="479" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Consequences of human-altered floods: Levees, floods and floodplain forests along the Wisconsin River</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">E</forename><surname>Gergel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">D</forename><surname>Dixon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">G</forename><surname>Turner</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ecological Applications</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="1755" to="1770" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Great Lakes Restoration Initiative (GLRI)</title>
+		<ptr target="https://glri.us/sites/default/files/glri-action-plan-4-202411-43pp_0.pdf" />
+	</analytic>
+	<monogr>
+		<title level="m">GLRI Action Plan IV</title>
+		<imprint>
+			<date type="published" when="2024">2024. FY2025-2029</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<monogr>
+		<title level="m" type="main">Amphibians and Reptiles of the Great Lakes Region</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Harding</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Mifsud</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2017">2017</date>
+			<publisher>University of Michigan Press</publisher>
+			<biblScope unit="page">392</biblScope>
+			<pubPlace>Ann Arbor, MI</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Revised Edition</note>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Threats, biodiversity drivers and restoration in temperate floodplain forests related to spatial scales</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Havrdová</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Douda</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Doudová</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science of The Total Environment</title>
+		<imprint>
+			<biblScope unit="volume">854</biblScope>
+			<biblScope unit="page">158743</biblScope>
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<monogr>
+		<title level="m" type="main">Changing climate, changing wildlife: a vulnerability assessment of 400 species of greatest conservation need and game species in Michigan</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">L</forename><surname>Hoving</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Badra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">J</forename><surname>Klatt</surname></persName>
+		</author>
+		<idno>No. 3564</idno>
+		<imprint>
+			<date type="published" when="2013">2013</date>
+			<biblScope unit="page">82</biblScope>
+			<pubPlace>Lansing, MI</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="report_type">Michigan Department of Natural Resources Wildlife Division Report</note>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<monogr>
+		<title level="m" type="main">Special animal abstract for Dendrioica cerulea (Cerulean Warbler)</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Hyde</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Thomson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Legge</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2000">2000</date>
+			<publisher>Michigan Natural Features Inventory</publisher>
+			<biblScope unit="page">4</biblScope>
+			<pubPlace>Lansing</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<monogr>
+		<title level="m" type="main">Lake States Forest Management Bat Habitat Conservation Plan</title>
+		<author>
+			<persName><surname>Icf</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2023">2023</date>
+			<pubPlace>Fairfax, VA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<monogr>
+		<title level="m" type="main">The importance of floodplain forests in the conservation and management of neotropical migratory birds in the Midwest</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">G</forename><surname>Knutson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Hoover</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">E</forename><surname>Klaas</surname></persName>
+		</author>
+		<idno>NC-187</idno>
+		<editor>F. R. Thompson</editor>
+		<imprint>
+			<date type="published" when="1996">1996</date>
+			<publisher>North Central Forest Experiment Station</publisher>
+			<biblScope unit="page" from="168" to="188" />
+			<pubPlace>U.S. Forest Service; St. Paul, MN</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="report_type">General Technical Report</note>
+	<note>Management of midwestern landscapes for the conservation of neotropical migratory birds</note>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<title level="a" type="main">Partners in Flight bird conservation plan for the Upper Great Lakes Plain (Physiographic area 16)</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">G</forename><surname>Knutson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Butcher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Fitzgerald</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Shieldcastle</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">USGS Upper Midwest Environmental Sciences Center in cooperation with Partners in Flight. La Crosse, WI. Kost, M.A. 2001. Natural community abstract for rich tamarack swamp</title>
+		<meeting><address><addrLine>Lansing, MI</addrLine></address></meeting>
+		<imprint>
+			<publisher>Michigan Natural Features Inventory</publisher>
+			<date type="published" when="2001">2001</date>
+			<biblScope unit="page">7</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<monogr>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Kost</surname></persName>
+		</author>
+		<title level="m">Natural community abstract for rich conifer swamp. Michigan Natural Features Inventory</title>
+		<meeting><address><addrLine>Lansing, MI</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<monogr>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Kost</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Albert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">G</forename><surname>Cohen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">S</forename><surname>Slaughter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">K</forename><surname>Schillo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">R</forename><surname>Weber</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">A</forename><surname>Chapman</surname></persName>
+		</author>
+		<idno>No. 2007-21</idno>
+		<title level="m">Natural communities of Michigan: classification and description. Michigan Natural Features Inventory</title>
+		<meeting><address><addrLine>Lansing, MI</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+	<note type="report_type">Report</note>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<analytic>
+		<title level="a" type="main">Energetics of pregnancy and lactation in freeranging little brown bats (Myotis lucifugus)</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Kurta</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">P</forename><surname>Bell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">A</forename><surname>Nagy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">H</forename><surname>Kunz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Physiological Zoology</title>
+		<imprint>
+			<biblScope unit="volume">62</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="804" to="818" />
+			<date type="published" when="1989">1989</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<analytic>
+		<title level="a" type="main">A search for remnant populations of endangered Indiana Bats and Northern Long-eared Bats in southern Lower Michigan</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Kurta</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">W</forename><surname>Murray</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">H</forename><surname>Miller ; Austin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">X</forename><surname>Kurta</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">K</forename><surname>Wilson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Kurta</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Bat Conservation International</title>
+		<editor>
+			<persName><forename type="first">A</forename><surname>Kurta</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">J</forename><surname>Kennedy</surname></persName>
+		</editor>
+		<meeting><address><addrLine>MI</addrLine></address></meeting>
+		<imprint>
+			<publisher>United States Fish and Wildlife Service, East Lansing Field Office, East Lansing</publisher>
+			<date type="published" when="2002">2002. 2023</date>
+			<biblScope unit="page">38</biblScope>
+		</imprint>
+	</monogr>
+	<note>Pages 118-129 in The Indiana bat: biology and management of an endangered species. Unpublished report</note>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<analytic>
+		<title level="a" type="main">Insect Conservation in Michigan Prairie Fen: Addressing the Challenge of Global Change</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Landis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">K</forename><surname>Fiedler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>Hamm</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Cuthrell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">H</forename><surname>Schools</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">R</forename><surname>Pearsall</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">E</forename><surname>Herbert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Doran</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s10841-011-9398-3</idno>
+		<ptr target="https://doi.org/10.1007/s10841-011-9398-3" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Insect Conservation</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="131" to="142" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<monogr>
+		<title level="m" type="main">Special animal abstract for Emydoidea blandingii (Blanding&apos;s Turtle)</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Lee</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1999">1999</date>
+			<publisher>Michigan Natural Features Inventory</publisher>
+			<biblScope unit="page">4</biblScope>
+			<pubPlace>Lansing, MI</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<analytic>
+		<title level="a" type="main">Effects of European common reed on Blanding&apos;s turtle spatial ecology</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">E</forename><surname>Markle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Chow-Fraser</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Wildlife Management</title>
+		<imprint>
+			<biblScope unit="volume">82</biblScope>
+			<biblScope unit="page" from="857" to="864" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<monogr>
+		<title level="m" type="main">2015a. Barry State Game Area master plan</title>
+		<imprint>
+			<publisher>Michigan Department of Natural Resources (DNR</publisher>
+			<biblScope unit="page">16</biblScope>
+			<pubPlace>Barry County, MI</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<monogr>
+		<idno>MNFI]. 2025</idno>
+		<ptr target="https://www.nasbr.org/wind" />
+		<title level="m">Michigan Natural Heritage Database, Lansing, MI. Midwest Partners in Amphibian and Reptile Conservation (MWPARC). 2010. Blanding&apos;s Turtle (Emydoidea blandingii) Conservation Assessment Survey</title>
+		<imprint>
+			<publisher>Michigan Natural Features Inventory</publisher>
+		</imprint>
+	</monogr>
+	<note>North American Society for Bat Research (NASBR). 2024. NASBR statement on wind energy impacts on bat populations</note>
+</biblStruct>
+
+<biblStruct xml:id="b53">
+	<analytic>
+		<title level="a" type="main">Recovery Plan for Ram&apos;s-head lady slipper (Cypripedium arietinum R. Br</title>
+	</analytic>
+	<monogr>
+		<title level="s">Nova Scotia Endangered Species Act Recovery Plan Series</title>
+		<editor>
+			<persName><forename type="first">Nova</forename><surname>Scotia</surname></persName>
+		</editor>
+		<imprint>
+			<biblScope unit="page">53</biblScope>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+		<respStmt>
+			<orgName>Nova Scotia Department of Lands and Forestry (NSDLF)</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b54">
+	<analytic>
+		<title level="a" type="main">Freshwater turtle populations as bioindicators following an oil spill: Delayed demographic changes reveal long-term impacts</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">G</forename><surname>Otten</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Williams</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Refsnider</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ecological Indicators</title>
+		<imprint>
+			<biblScope unit="volume">154</biblScope>
+			<biblScope unit="page">110519</biblScope>
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b55">
+	<monogr>
+		<title level="m" type="main">Special plant abstract for Cypripedium arietinum (ram&apos;shead lady&apos;s-slipper)</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Penskar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Higman</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1999">1999</date>
+			<publisher>Michigan Natural Features Inventory</publisher>
+			<pubPlace>Lansing, MI</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b56">
+	<monogr>
+		<title level="m" type="main">Interim Forest Management Policy for High Conservation Value Forests: HCVL Ram&apos;s-head lady&apos;s slipper orchid (Cypripedium arietinum)</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Petersen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Smith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Bundy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Jensen</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2021">2021</date>
+			<publisher>Minnesota Department of Natural Resources</publisher>
+			<pubPlace>Saint Paul, MN</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b57">
+	<analytic>
+		<title level="a" type="main">Emerald Ash Borer: Invasion of the Urban Forest and the Threat to North America&apos;s Ash Resource</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">M</forename><surname>Poland</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">G</forename><surname>Mccullough</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Forestry</title>
+		<imprint>
+			<biblScope unit="page" from="118" to="124" />
+			<date type="published" when="2006-04">2006. April-May 2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b58">
+	<monogr>
+		<title level="m" type="main">Upper Mississippi River and Great Lakes Region Joint Venture Landbird Habitat Conservation Strategy</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">A</forename><surname>Potter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">J</forename><surname>Soulliere</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">N</forename><surname>Ewert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">G</forename><surname>Knutson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">E</forename><surname>Thogmartin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Castrale</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Roell</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2007">2007</date>
+			<publisher>U.S. Fish and Wildlife Service</publisher>
+			<biblScope unit="page">124</biblScope>
+			<pubPlace>Fort Snelling, MN</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b59">
+	<analytic>
+		<title level="a" type="main">Simulation of climate-change effects on riparian vegetation in the Pere Marquette River</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">B</forename><surname>Primack</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Michigan. Wetlands</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="538" to="547" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b60">
+	<analytic>
+		<title level="a" type="main">Additional winter records of Indiana bats (Myotis sodalis) banded during summer in Michigan</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">D</forename><surname>Rockey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Stumpf</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Kurta</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Northeastern Naturalist</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="8" to="N13" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b61">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">V</forename><surname>Rosenberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Kennedy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Dettmers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">P</forename><surname>Ford</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Reynolds</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Alexander</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">J</forename><surname>Beardmore</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Blancher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">E</forename><surname>Bogart</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">S</forename><surname>Butcher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">F</forename><surname>Camfield</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Couturier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">W</forename><surname>Demarest</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">E</forename><surname>Easton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Giocomo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">H</forename><surname>Keller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">E</forename><surname>Mini</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">O</forename><surname>Panjabi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">N</forename><surname>Pashley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">D</forename><surname>Rich</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Ruth</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Stabins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b62">
+	<monogr>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Sauer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">A</forename><surname>Link</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Hines</surname></persName>
+		</author>
+		<idno type="DOI">10.5066/P96A7675</idno>
+		<ptr target="https://doi.org/10.5066/P96A7675" />
+		<title level="m">The North American Breeding Bird Survey, Analysis Results 1966 -2019: U.S. Geological Survey data release</title>
+		<imprint>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b63">
+	<analytic>
+		<title level="a" type="main">Impacts of Impervious Surface on Watershed Hydrology: A Review</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">D</forename><surname>Shuster</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Bonta</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Thurston</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Warnemuende</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">R</forename><surname>Smith</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Urban Water Journal</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="263" to="275" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b64">
+	<monogr>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">S</forename><surname>Slaughter</surname></persName>
+		</author>
+		<title level="m">Natural community abstract for southern hardwood swamp. Michigan Natural Features Inventory</title>
+		<meeting><address><addrLine>Lansing, MI</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2009">2009</date>
+			<biblScope unit="page">16</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b65">
+	<monogr>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">S</forename><surname>Slaughter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">G</forename><surname>Cohen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Kost</surname></persName>
+		</author>
+		<title level="m">Natural community abstract for hardwoodconifer swamp. Michigan Natural Features Inventory</title>
+		<meeting><address><addrLine>Lansing, MI</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2007">2007</date>
+			<biblScope unit="page">20</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b66">
+	<monogr>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">S</forename><surname>Slaughter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">G</forename><surname>Cohen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Kost</surname></persName>
+		</author>
+		<title level="m">Natural community abstract for wet-mesic flatwoods. Michigan Natural Features Inventory</title>
+		<meeting><address><addrLine>Lansing, MI</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2010">2010</date>
+			<biblScope unit="page">14</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b67">
+	<analytic>
+		<title level="a" type="main">Upper Mississippi / Great Lakes Joint Venture Landbird Habitat Conservation Strategy -2020 Revision</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">J</forename><surname>Soulliere</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Al-Saffar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">R</forename><surname>Vanbeek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Tonra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">D</forename><surname>Nelson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">N</forename><surname>Ewert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Will</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">E</forename><surname>Thogmartin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">E</forename><surname>O'brien</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">W</forename><surname>Kendrick</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Gillet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Herkert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">E</forename><surname>Gnass Giese</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">P</forename><surname>Ward</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Graff ; Bloomington</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">N</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Usa</forename><surname>Stanford</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">B</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Iverson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">G J</forename><surname>Rhodin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Paul Van Dijk</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Mittermeier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Kuchling</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">H</forename><surname>Berry</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Bertolero</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">A</forename><surname>Bjorndal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">E G</forename><surname>Blanck</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">A</forename><surname>Buhlmann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">L</forename><surname>Burke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Congdon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Diagne</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Edwards</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">C</forename><surname>Eisemberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Ennen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Forero-Medina</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Frankel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">U</forename><surname>Fritz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Gallego-García</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Georges</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">W</forename><surname>Gibbons</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Gong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">V</forename><surname>Goode</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">T</forename><surname>Shi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Hoang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">D</forename><surname>Hofmeyr</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">D</forename><surname>Horne</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Hudson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">O</forename><surname>Juvik</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Kiester</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Koval</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Le</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">V</forename><surname>Lindeman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Lovich</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Luiselli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">E M</forename><surname>Mccormack</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">A</forename><surname>Meyer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">P</forename><surname>Páez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Platt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">G</forename><surname>Platt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">C H</forename><surname>Pritchard</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Current Biology</title>
+		<editor>
+			<persName><forename type="first">H</forename><forename type="middle">R</forename><surname>Quinn</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">W</forename><forename type="middle">M</forename><surname>Roosenburg</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Seminoff</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">H</forename><forename type="middle">B</forename><surname>Shaffer</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">R</forename><surname>Spencer</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">J</forename><forename type="middle">U</forename><surname>Van Dyke</surname></persName>
+		</editor>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="page" from="721" to="R735" />
+			<date type="published" when="2020">2020</date>
+			<publisher>U.S. Fish and Wildlife Service</publisher>
+		</imprint>
+	</monogr>
+	<note>R.C. Vogt and A.D. Walde. 2020. Turtles and Tortoises Are in Trouble</note>
+</biblStruct>
+
+<biblStruct xml:id="b68">
+	<monogr>
+		<author>
+			<persName><forename type="first">T</forename><surname>Stanton</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Will</surname></persName>
+		</author>
+		<title level="m">Partners in Flight Landbird Conservation Plan: 2016 Revision for Canada and Continental United States. Partners in Flight Science Committee</title>
+		<imprint>
+			<date type="published" when="2016">2016</date>
+			<biblScope unit="page">119</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b69">
+	<monogr>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J</forename><surname>Tepley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">G</forename><surname>Cohen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Huberty</surname></persName>
+		</author>
+		<title level="m">Natural community abstract for floodplain forest. Michigan Natural Features Inventory</title>
+		<meeting><address><addrLine>Lansing, MI</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2004">2004</date>
+			<biblScope unit="page">15</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b70">
+	<analytic>
+		<title level="a" type="main">Persist in place or shift in space? Evaluating the adaptive capacity of species to climate change</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">L</forename><surname>Thurman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Stein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Beever</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Foden</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Sr Geange</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Green</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Gross</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Lawrence</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Ledee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">M</forename><surname>Jd Olden</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Thompson</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Young</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Frontiers in Ecology and Evolution</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="issue">9</biblScope>
+			<biblScope unit="page" from="520" to="528" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b71">
+	<analytic>
+		<author>
+			<persName><forename type="first">K</forename><surname>Tockner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Stanford</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Riverine Flood Plains: Present State and Future Trends</title>
+		<imprint>
+			<date type="published" when="2002">2002</date>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page" from="308" to="330" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b72">
+	<monogr>
+		<title level="m" type="main">Herbicide Strategy to Reduce Exposure of Federally Listed Endangered and Threatened Species and Designated Critical Habitats from the Use of Conventional Agricultural Herbicides</title>
+		<idno>ID EPA-HQ-OPP-2023- 0365-1137</idno>
+		<ptr target="https://www.regulations.gov/document/EPA-HQ-OPP-2023-0365-1137" />
+		<imprint>
+			<date type="published" when="2024-08">2024. August 2024</date>
+			<publisher>U.S. Environmental Protection Agency (USEPA)</publisher>
+		</imprint>
+	</monogr>
+	<note>Office of Chemical Safety and Pollution Prevention. Office of Pesticide Programs</note>
+</biblStruct>
+
+<biblStruct xml:id="b73">
+	<monogr>
+		<title level="m" type="main">Indiana Bat (Myotis sodalis) draft recovery plan: first revision</title>
+		<imprint>
+			<date type="published" when="2007">2007</date>
+			<publisher>U.S. Fish and Wildlife Service (USFWS)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b74">
+	<monogr>
+		<author>
+			<persName><forename type="first">R</forename><surname>Van Diggelen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Middleton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Bakker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Grootjans</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Wassen</surname></persName>
+		</author>
+		<idno type="DOI">10.1658/1402-2001</idno>
+		<ptr target="https://doi.org/10.1658/1402-2001" />
+		<title level="m">Fens and Floodplains of the Temperate Zone: Present Status, Threats, Conservation and Restoration</title>
+		<imprint>
+			<date type="published" when="2006">2006. 2006</date>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="255B" to="2157" />
+		</imprint>
+	</monogr>
+	<note>FAFOTT%255D2.0.CO;2</note>
+</biblStruct>
+
+<biblStruct xml:id="b75">
+	<monogr>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">R</forename><surname>Weber</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">G</forename><surname>Cohen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Kost</surname></persName>
+		</author>
+		<title level="m">Natural community abstract for Northern Hardwood Swamp. Michigan Natural Features Inventory</title>
+		<meeting><address><addrLine>Lansing, MI</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b76">
+	<monogr>
+		<title level="m" type="main">Conservation Plan for the Blanding&apos;s Turtle and Associated Species of Conservation Need in the Northeastern United States</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">L</forename><surname>Willey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">T</forename><surname>Jones</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2014">2014</date>
+			<publisher>New Hampshire Fish and Game Department and U.S. Fish and Wildlife Service</publisher>
+			<biblScope unit="page">132</biblScope>
+		</imprint>
+	</monogr>
+	<note>Report prepared on behalf of the Northeast Blanding&apos;s Turtle Working Group for the</note>
+</biblStruct>
+
+<biblStruct xml:id="b77">
+	<analytic>
+		<title level="a" type="main">White-tailed Deer (Odocoileus virginianus) Density and Habitat Use on the Beaver Island Archipelago Using a Camera Trap Array</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Wilton</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Michigan Natural Features Inventory Report Number 2021-05</title>
+		<meeting><address><addrLine>Lansing, MI</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b78">
+	<monogr>
+		<title level="m" type="main">Management guidelines for enhancing Cerulean Warbler breeding habitat in Appalachian hardwood forests</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Wood</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Sheehan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">D</forename><surname>Keyser</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Beuhler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Larkin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">D</forename><surname>Rodewald</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">H</forename><surname>Stoleson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">B</forename><surname>Wigley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Mizel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">J</forename><surname>Boves</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>George</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">H</forename><surname>Bakermans</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">A</forename><surname>Beachy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Evans</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">E</forename><surname>Mcdermott</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">L</forename><surname>Newell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">A</forename><surname>Perkins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>White</surname></persName>
+		</author>
+		<ptr target="https://amjv.org/documents/cerulean_guide_1-pg_layout.pdf" />
+		<imprint>
+			<date type="published" when="2013">2013</date>
+			<publisher>American Bird Conservancy</publisher>
+			<pubPlace>The Plains, VA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b79">
+	<analytic>
+		<title level="a" type="main">Polybrominated Diphenyl Ethers and Polybrominated Biphenyls in Sediment and Floodplain Soils of the Saginaw River Watershed</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">H</forename><surname>Yun</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Addink</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Mccabe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Ostaszewski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Mackenzie-Taylor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">B</forename><surname>Taylor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Kannan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Archives of Environmental Contamination and Toxicology</title>
+		<imprint>
+			<biblScope unit="volume">55</biblScope>
+			<biblScope unit="page" from="1" to="10" />
+			<date type="published" when="2008">2008</date>
+			<pubPlace>Michigan, USA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>
+

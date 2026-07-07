@@ -1,0 +1,977 @@
+{
+  "document_meta": {
+    "title": "2022 Nevada State Wildlife Action Plan",
+    "year": 2022,
+    "jurisdiction": "Nevada",
+    "document_type": "SWAP",
+    "document_id": "NV_SWAP_2022",
+    "page_count": 333
+  },
+  "orientation": {
+    "summary": "The 2022 Nevada State Wildlife Action Plan (SWAP) is a comprehensive statewide conservation plan by the Nevada Department of Wildlife (NDOW), covering 367 Species of Greatest Conservation Need (SGCN) and 20 key habitats. The document treats climate change as a major crosscutting threat and devotes substantial narrative to projected climate impacts on habitats and species. It references climate vulnerability assessments (specifically NatureServe's Habitat Climate Change Vulnerability Index, HCCVI) applied to key habitats in Chapter 4, and uses the Resist-Accept-Direct (RAD) framework for adaptation planning. The document performs its own HCCVI analyses for Nevada's key habitats and references downscaled climate projections (LOCA/CMIP5 via Cal-Adapt) to characterize projected temperature and precipitation changes, though it acknowledges these as prior data products rather than new modeling. Species distribution modeling is referenced as a regional collaboration product (NY Heritage ensemble models for 47 shared SGCN with Arizona) and recommended for future use.",
+    "evidence_index": [
+      {
+        "text": "Funding to support Habitat Climate Change Vulnerability assessments through NatureServe was generously provided by The Nature Conservancy and the Southwest Climate Adaptation Center.",
+        "location": "Acknowledgments",
+        "relevant_elements": ["2.1", "4.5"]
+      },
+      {
+        "text": "This chapter also uses a Resist, Accept, Direct framework to consider conservation and management actions based on future anticipated conditions rather than historical baseline conditions alone.",
+        "location": "Chapter Overview, Chapter 4 -Key Habitats",
+        "relevant_elements": ["4.5"]
+      },
+      {
+        "text": "Severe: Severe vulnerability results from high climate change exposure and low system resilience and is expected to result in system transformation. High: High vulnerability results from High or moderate climate change exposure combined with either low or medium resilience.",
+        "location": "Overall Threats to Nevada's Key Habitats and Management Strategies",
+        "relevant_elements": ["1.1", "2.1"]
+      },
+      {
+        "text": "Moderate: Moderate vulnerability scores result from either moderate exposure and resilience or highmoderate exposure and high resilience. Future vulnerability remains and may increase under further anthropogenic disturbances that lower the adaptive capacity of landscapes.",
+        "location": "Overall Threats to Nevada's Key Habitats and Management Strategies",
+        "relevant_elements": ["1.1", "1.2", "2.1"]
+      },
+      {
+        "text": "Low: Low vulnerability scores reflect low exposure scenarios in systems with expected moderate-high resilience. Climate stress is expected to be lowest in these systems, however it may still be present to some degree.",
+        "location": "Overall Threats to Nevada's Key Habitats and Management Strategies",
+        "relevant_elements": ["1.1", "2.1"]
+      },
+      {
+        "text": "Identify climate refugia and corridors that are likely to be important for species movement and persistence.",
+        "location": "Overall Threats to Nevada's Key Habitats and Management Strategies",
+        "relevant_elements": ["1.4", "4.1", "4.2"]
+      },
+      {
+        "text": "Update and develop regional forecast models to determine likely outcomes under future climate scenarios using dynamic vegetation models and similar tools trained to ongoing data sets.",
+        "location": "Overall Threats to Nevada's Key Habitats and Management Strategies",
+        "relevant_elements": ["2.2", "2.3"]
+      },
+      {
+        "text": "Facilitate the movement of species that are expected to be adapted to future conditions and fire regimes.",
+        "location": "Overall Threats to Nevada's Key Habitats and Management Strategies",
+        "relevant_elements": ["4.2"]
+      },
+      {
+        "text": "Use seeds, germplasm, and other genetic material from across a greater geographic range",
+        "location": "Overall Threats to Nevada's Key Habitats and Management Strategies",
+        "relevant_elements": ["1.3", "4.2"]
+      },
+      {
+        "text": "Causal links between human-induced climate changes and changes in fish and wildlife habitats have been well studied and established worldwide, as well as within the Intermountain West in recent decades",
+        "location": "Climate Change in Nevada",
+        "relevant_elements": ["1.1", "3.5"]
+      },
+      {
+        "text": "Recent analysis projects highly variable changes in chronic drought (2070-2100 vs. 1980-2010) across the Intermountain West, particularly within the Basin and Range landscapes of Nevada where the projected number of days of dry topsoil conditions tends to increase in the western Great Basin",
+        "location": "Climate Change in Nevada",
+        "relevant_elements": ["1.1", "2.3", "3.5"]
+      },
+      {
+        "text": "Warming and drying trends in the recent past have been linked to increased wildfire within the western United States, leading to an estimated doubling of acres burned over the expected baseline",
+        "location": "Climate Change in Nevada",
+        "relevant_elements": ["3.5", "3.6"]
+      },
+      {
+        "text": "Figure 5. Historic (1960-1991) mean annual maximum temperature C, RCP45 and RCP85 (2035-2064) projected change based on LOCA statistically downscaled monthly data for the state of Nevada. Data were sourced from CalAdapt based on regional analysis congruent with the 4th National Climate Assessment",
+        "location": "Climate Change in Nevada",
+        "relevant_elements": ["2.3"]
+      },
+      {
+        "text": "Table 4 : Annual mean maximum and minimum temperatures and accumulated precipitation for historic(1960-1991) and medium future periods based on 10 Global Circulation Model outputs of CMIP5 LOCA data obtained from Cal-Adapt.",
+        "location": "Climate Change in Nevada",
+        "relevant_elements": ["2.3"]
+      },
+      {
+        "text": "More complex modeling shows an expected soil water deficit for the Southwest that will likely impact species distributions and cover",
+        "location": "Climate Change in Nevada",
+        "relevant_elements": ["1.1", "2.2", "3.5"]
+      },
+      {
+        "text": "understanding and projecting future impacts of climate change on the range, distribution, and habitats of protected and other threatened plants will likely be a priority.",
+        "location": "Climate Change in Nevada",
+        "relevant_elements": ["1.1", "2.2"]
+      },
+      {
+        "text": "The 2012 SWAP included a climate change vulnerability assessment (CCVI score) of all SGCN. This assessment used a tool developed by NatureServe that is no longer functional. However, while the CCVI scores were not updated for this revision, the 2012 results are reported in each species account and are still viewed as relevant assessments for conservation.",
+        "location": "A Note on Climate Change",
+        "relevant_elements": ["2.1"]
+      },
+      {
+        "text": "New to the 2022 SWAP are select habitat climate change vulnerability assessments in Chapter 4 and Appendix D.",
+        "location": "A Note on Climate Change",
+        "relevant_elements": ["2.1"]
+      },
+      {
+        "text": "Climate change is a significant threat to wildlife and their associated habitat. Many SGCN are particularly vulnerable due to life history characteristics that limit their ability to adapt and adjust, such as low dispersal capabilities, occurrence in disjunct populations separated by unsuitable habitats, or reliance on narrow and highly specific biological niches (e.g., narrow temperature tolerance).",
+        "location": "A Note on Climate Change",
+        "relevant_elements": ["1.1", "1.2", "1.3"]
+      },
+      {
+        "text": "The Nature Conservancy is developing a climate change corridor assessment using key species to identify areas that should be conserved as opportunities for species to migrate due to climate change.",
+        "location": "A Note on Climate Change",
+        "relevant_elements": ["1.4", "4.1", "4.2"]
+      },
+      {
+        "text": "updated guidance from the Association of Fish and Wildlife Agencies (AFWA, 2022 draft) for incorporating climate change into management plans will help guide future conservation actions",
+        "location": "A Note on Climate Change",
+        "relevant_elements": ["4.5"]
+      },
+      {
+        "text": "Within the Nevada portion of the aspen distribution, overall HCCVI is 91% in moderate and 9% in high relative vulnerability. Exposure is 10% severe, 87% high, and 3% moderate",
+        "location": "Climate Change Vulnerability (Aspen Woodland)",
+        "relevant_elements": ["1.1", "2.1"]
+      },
+      {
+        "text": "aspen is both valuable and vulnerable, particularly in light of a changing climate, making research paramount to better interpret the potential implications across to aspen communities across Nevada.",
+        "location": "Climate Change Vulnerability (Aspen Woodland)",
+        "relevant_elements": ["1.1"]
+      },
+      {
+        "text": "Analysis of anticipated shifts in distribution with differing climate regimes.",
+        "location": "Conservation Strategy (Aspen Woodland)",
+        "relevant_elements": ["2.2", "3.3"]
+      },
+      {
+        "text": "Inventory and analysis of anticipated shifts in annual grass proliferation and distribution with differing climate regimes.",
+        "location": "Priority Research Needs (Desert Grasslands)",
+        "relevant_elements": ["2.2"]
+      },
+      {
+        "text": "Vulnerability analysis for intermountain basins big sagebrush shrublands (2040-2070) projects generally decreasing suitability for this ecological system",
+        "location": "Conservation Strategy (Sagebrush)",
+        "relevant_elements": ["2.1", "2.2"]
+      },
+      {
+        "text": "Projected vegetation changes within the sagebrush ecosystem include increases in bare ground, decreases in sagebrush, other shrubs, and herbaceous cover, and large declines in perennial C3 grass species accompanied by an increase in perennial C4 grass species",
+        "location": "Conservation Strategy (Sagebrush)",
+        "relevant_elements": ["3.5", "3.7"]
+      },
+      {
+        "text": "In addition to climatic range shifts and insect epidemics, increased atmospheric temperature and low moisture availability create drier fuels, which will result in more extreme and frequent fire.",
+        "location": "Predicted Climate Change Effects (Pinyon-Juniper Woodland)",
+        "relevant_elements": ["3.5", "3.6"]
+      },
+      {
+        "text": "Pinyon-juniper woodlands commonly occur along the foothills of large mountain ranges. This creates the capacity of these woodlands to shift upward into higher elevations in response to changing climate.",
+        "location": "Predicted Climate Change Effects (Pinyon-Juniper Woodland)",
+        "relevant_elements": ["1.1", "3.3"]
+      },
+      {
+        "text": "Action: Map montane shrub stands throughout the state at a fine scale to interpret elevational shifts in plant composition and structure.",
+        "location": "Conservation Strategy (Montane Shrublands)",
+        "relevant_elements": ["4.1", "3.3"]
+      },
+      {
+        "text": "Maintain functional connectivity among presently intact Mojave Warm Desert and Mojave Mid-elevation Mixed Scrub habitats and account for northward extensions of these key habitats into other regions.",
+        "location": "Conservation Strategy (Mojave Mid-Elevation Mixed Desert Shrub)",
+        "relevant_elements": ["1.4", "4.2"]
+      },
+      {
+        "text": "Climate models vary substantially in predicted future precipitation scenarios for the Great Basin and Mojave, although general trends indicate possible increases in the northeastern portions of the state and general drying in the remaining portions (see Chapter 2 for a discussion on specific models used here).",
+        "location": "Predicted Climate Change Effects (Lakes and Reservoirs)",
+        "relevant_elements": ["2.3"]
+      },
+      {
+        "text": "Climate change will likely result in less precipitation, increased air temperatures, and a shift in winter precipitation patterns from snow to rain. Decreases in precipitation, especially winter snowpack, increasing air temperatures, and overall increasing severity and duration of drought conditions are expected to continue and accelerate across Nevada",
+        "location": "Predicted Climate Change Effects (Riparian and Wetland)",
+        "relevant_elements": ["3.5"]
+      },
+      {
+        "text": "As some localized areas may change more gradually and thus serve as climatic refugia, though areas providing refugia have generally been larger and have been modified",
+        "location": "Predicted Climate Change Effects (Playas and Ephemeral Pools)",
+        "relevant_elements": ["1.4", "4.1"]
+      },
+      {
+        "text": "These shifts, along with changes to the snow-precipitation ratio and changes in primary climate drivers, are expected to cause complex responses from species in the alpine-tundra zone as species distributions are both climactically and abiotically filtered",
+        "location": "Predicted Climate Change Effects (Alpine and Tundra)",
+        "relevant_elements": ["1.1", "3.3"]
+      },
+      {
+        "text": "Long-term monitoring to track elevational shifts of alpine and tundra habitat-related plant species.",
+        "location": "Conservation Strategy Priority Research Needs (Alpine and Tundra)",
+        "relevant_elements": ["4.3", "3.3"]
+      },
+      {
+        "text": "One area of continued discussion and coordination is centered around climate change. This overarching threat is a key topic that benefits from regional approaches. Both states, along with other southwestern states, are continuing to discuss this threat and how we could approach the issue through regional collaboration. Such actions center around shared assessments of vulnerability, using climate projection models across regions, and partnering with climate science centers",
+        "location": "Arizona-Nevada Collaboration",
+        "relevant_elements": ["2.1", "2.3", "3.4"]
+      },
+      {
+        "text": "utilizing tools such as the NatureServe Habitat Climate Change Vulnerability Index (see Chapter 4) and updating assessments on the vulnerability of individual species as tools become available have been identified as areas for regional collaboration in the future.",
+        "location": "Arizona-Nevada Collaboration",
+        "relevant_elements": ["2.1", "4.5"]
+      },
+      {
+        "text": "Arizona contracted New York Natural Heritage Program (NY Heritage) to develop species distribution models for 281 SGCN. Through their collaboration, Arizona and Nevada identified 47 shared terrestrial species on their designated SGCN lists to expand these models to include both states. Using data from various datasets within both states, NY Heritage used an ensemble modeling approach to develop predictive models that include both Arizona and Nevada for these 47 shared SGCN species.",
+        "location": "Arizona-Nevada Collaboration",
+        "relevant_elements": ["2.2"]
+      },
+      {
+        "text": "Create resilient and resistant landscapes to address climate change, including forecasting climate change impacts on species and habitats.",
+        "location": "Strategies for Addressing Threats to Species",
+        "relevant_elements": ["4.1", "4.5"]
+      },
+      {
+        "text": "The framework thus allows and encourages managers and planners to consider a broad suite of alternative approaches by planning for and incorporating desired and likely future ecosystem states that may result from ecological transformations that run the gamut from slow to abrupt",
+        "location": "Overall Threats to Nevada's Key Habitats and Management Strategies",
+        "relevant_elements": ["4.5"]
+      },
+      {
+        "text": "This table is organized based on the Resist, Accept, Direct (RAD) framework that was developed to address climate-related mitigation; however, it serves as a useful framework for addressing other threats as it considers conservation actions that manage for future anticipated conditions rather than the historic baseline conditions alone.",
+        "location": "Overall Threats to Nevada's Key Habitats and Management Strategies",
+        "relevant_elements": ["4.5"]
+      },
+      {
+        "text": "Plan for and promote habitat connectivity and increase ecosystem redundancy at the landscape scale",
+        "location": "Table 10 (High-Level Strategies, Adaptation Approaches, and Adaptation Tactics)",
+        "relevant_elements": ["1.4", "4.2", "4.5"]
+      },
+      {
+        "text": "Locate and map habitat types, corridors, and patches at a landscape scale, and identify priorities for protection and/or restoration.",
+        "location": "Overall Threats to Nevada's Key Habitats and Management Strategies",
+        "relevant_elements": ["4.1", "1.4"]
+      },
+      {
+        "text": "Adapt approaches and actions based on change-point detection in species/ ecosystem ranges, distributions, relative abundances, etc. via robust monitoring",
+        "location": "Overall Threats to Nevada's Key Habitats and Management Strategies",
+        "relevant_elements": ["4.3", "4.5"]
+      },
+      {
+        "text": "Objective 1: Identify and assess aspen woodlands across Nevada by 2027.",
+        "location": "Conservation Strategy (Aspen Woodland)",
+        "relevant_elements": ["4.3"]
+      },
+      {
+        "text": "Objective 3: Manage aspen woodlands to not exceed 10% loss to type conversion through 2032.",
+        "location": "Conservation Strategy (Aspen Woodland)",
+        "relevant_elements": ["4.3"]
+      },
+      {
+        "text": "Objective 2: Manage Mojave Mid-Elevation and Mixed Desert Shrub habitats to minimize loss or conversion of these habitats to 10% through 2027.",
+        "location": "Conservation Strategy (Mojave Mid-Elevation Mixed Desert Shrub)",
+        "relevant_elements": ["4.3"]
+      },
+      {
+        "text": "Support ongoing monitoring of alpine vegetation communities to assess changes in distribution and abundance of species ranges.",
+        "location": "Conservation Strategy (Alpine and Tundra)",
+        "relevant_elements": ["4.3", "3.3"]
+      },
+      {
+        "text": "95% of these areas have inherently limited adaptive capacity due in part to low topographic variability (i.e., they occur on flat to gently rolling landscapes, where on average, climate change can force native species to migrate longer distances)",
+        "location": "Table (Low Elevation Sagebrush HCCVI text block)",
+        "relevant_elements": ["1.1", "1.2", "1.3"]
+      },
+      {
+        "text": "Vast areas of Wyoming sagebrush, a key component of low elevation sagebrush dominated key habitats, have been lost from intense fires as a result of increasing invasive grass cover and warming-drying trends that reduce fire return intervals.",
+        "location": "Table (Low Elevation Sagebrush HCCVI text block)",
+        "relevant_elements": ["3.5", "3.7"]
+      },
+      {
+        "text": "As climate conditions change, some localized areas may change more gradually and thus serve as climatic refugia",
+        "location": "Predicted Climate Change Effects (Playas and Ephemeral Pools)",
+        "relevant_elements": ["1.4", "4.1"]
+      },
+      {
+        "text": "With the present trend of drier and warmer climatic conditions across this physiographic region coinciding with rapid proliferation of cheatgrass (Bromus tectorum) in the past 50 years, fire frequency intervals have decreased significantly.",
+        "location": "Habitat Conditions (Desert Grasslands)",
+        "relevant_elements": ["3.7", "3.5"]
+      },
+      {
+        "text": "Possible conversion to novel states, depletion of C3 grasses ('cool season grasses') and other functional groups due to climate change, complex range shifts in N-S & E-W based on individualistic responses to multiple abiotic gradients",
+        "location": "Table 10 (High-Level Strategies, Adaptation Approaches, and Adaptation Tactics)",
+        "relevant_elements": ["3.3", "3.7"]
+      },
+      {
+        "text": "As climate changes alters habitats and disrupts ecosystems, scientists and resource managers will need to continue working to better understand and manage, where appropriate, components of critical habitats such as migration and movement patterns, and how those will be influenced by changing climatic and habitat conditions. Efforts like Migrations in Motion are currently underway by partners such as The Nature Conservancy to map the average direction mammals, birds, and amphibians need to move to track hospitable climates as they move across the landscape",
+        "location": "Table 9 (IUCN-CMP Level 2 threats)",
+        "relevant_elements": ["1.4", "4.2"]
+      },
+      {
+        "text": "U.S. Fish and Wildlife Service Science Applications Program, which supported facilitation of the State Wildlife Action Plan revision, coordination with the Arizona Game and Fish Department so that both states could include regional considerations in their State Wildlife Action Plan revision, and regional predictive modeling efforts for shared Species of Greatest Conservation Need.",
+        "location": "Acknowledgments",
+        "relevant_elements": ["3.4", "2.2"]
+      },
+      {
+        "text": "During periods of drought, pinyon trees are weakened and more vulnerable to attacks by the native pinyon ips beetle (Ips confusus). In recent years of drought, there have been epidemics of pinyon ips beetle infestations, where many mature pinyon trees are killed off.",
+        "location": "Habitat Threats (Pinyon-Juniper Woodland)",
+        "relevant_elements": ["3.6"]
+      },
+      {
+        "text": "Along with the predicted increase in recurring drought and increase in atmospheric temperatures, which exacerbate the impacts of drought, ips beetle epidemics are more likely.",
+        "location": "Predicted Climate Change Effects (Pinyon-Juniper Woodland)",
+        "relevant_elements": ["3.6"]
+      },
+      {
+        "text": "Pinyon-juniper expansion is also generally facilitated by regional warming",
+        "location": "Habitat Conditions (Sagebrush)",
+        "relevant_elements": ["3.7"]
+      },
+      {
+        "text": "These changes will directly influence seasonal stream flows and aquatic habitat quality in many intermountain river and stream systems, where even small changes in water availability can significantly impact instream habitat conditions, and thus influence the lifecycles of aquatic species such as Lahontan cutthroat trout",
+        "location": "Predicted Climate Change Effects (Rivers and Streams)",
+        "relevant_elements": ["3.5", "3.6"]
+      },
+      {
+        "text": "Within the NV portion of the Salt Desert Shrub Key Habitat distribution, overall HCCVI is 46% in moderate and 53% in high relative vulnerability.",
+        "location": "Climate Change Vulnerability (Salt Desert Shrub)",
+        "relevant_elements": ["1.1", "2.1"]
+      },
+      {
+        "text": "Within the Nevada portion of the Mojave Warm Desert distribution, overall HCCVI is 19% in moderate and 81% in high relative vulnerability. Exposure is 28% severe, 53% high, 20% moderate.",
+        "location": "Table 27 (Mojave Warm Desert HCCVI)",
+        "relevant_elements": ["1.1", "2.1"]
+      }
+    ]
+  },
+  "concepts": {
+    "climate_vulnerability": {
+      "evaluable": true,
+      "score": 3,
+      "evidence": [
+        {
+          "text": "Severe: Severe vulnerability results from high climate change exposure and low system resilience and is expected to result in system transformation. High: High vulnerability results from High or moderate climate change exposure combined with either low or medium resilience.",
+          "location": "Overall Threats to Nevada's Key Habitats and Management Strategies",
+          "sub_component": "exposure",
+          "citations": []
+        },
+        {
+          "text": "Moderate: Moderate vulnerability scores result from either moderate exposure and resilience or highmoderate exposure and high resilience. Future vulnerability remains and may increase under further anthropogenic disturbances that lower the adaptive capacity of landscapes.",
+          "location": "Overall Threats to Nevada's Key Habitats and Management Strategies",
+          "sub_component": "adaptive capacity",
+          "citations": []
+        },
+        {
+          "text": "95% of these areas have inherently limited adaptive capacity due in part to low topographic variability (i.e., they occur on flat to gently rolling landscapes, where on average, climate change can force native species to migrate longer distances)",
+          "location": "Table (Low Elevation Sagebrush HCCVI text block)",
+          "sub_component": "adaptive capacity",
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "adaptive_capacity_specificity": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Climate change is a significant threat to wildlife and their associated habitat. Many SGCN are particularly vulnerable due to life history characteristics that limit their ability to adapt and adjust, such as low dispersal capabilities, occurrence in disjunct populations separated by unsuitable habitats, or reliance on narrow and highly specific biological niches (e.g., narrow temperature tolerance).",
+          "location": "A Note on Climate Change",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "95% of these areas have inherently limited adaptive capacity due in part to low topographic variability (i.e., they occur on flat to gently rolling landscapes, where on average, climate change can force native species to migrate longer distances)",
+          "location": "Table (Low Elevation Sagebrush HCCVI text block)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "adaptive_capacity_components": {
+      "demography": {
+        "present": false,
+        "evidence": []
+      },
+      "distribution": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Possible conversion to novel states, depletion of C3 grasses ('cool season grasses') and other functional groups due to climate change, complex range shifts in N-S & E-W based on individualistic responses to multiple abiotic gradients",
+            "location": "Table 10 (High-Level Strategies, Adaptation Approaches, and Adaptation Tactics)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "movement": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Climate change is a significant threat to wildlife and their associated habitat. Many SGCN are particularly vulnerable due to life history characteristics that limit their ability to adapt and adjust, such as low dispersal capabilities, occurrence in disjunct populations separated by unsuitable habitats",
+            "location": "A Note on Climate Change",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "evolutionary_potential": {
+        "present": false,
+        "evidence": []
+      },
+      "ecological_dependencies": {
+        "present": false,
+        "evidence": []
+      },
+      "abiotic_niche": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Climate change is a significant threat to wildlife and their associated habitat. Many SGCN are particularly vulnerable due to life history characteristics that limit their ability to adapt and adjust, such as low dispersal capabilities, occurrence in disjunct populations separated by unsuitable habitats, or reliance on narrow and highly specific biological niches (e.g., narrow temperature tolerance).",
+            "location": "A Note on Climate Change",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "life_history": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Many SGCN are particularly vulnerable due to life history characteristics that limit their ability to adapt and adjust, such as low dispersal capabilities, occurrence in disjunct populations separated by unsuitable habitats, or reliance on narrow and highly specific biological niches",
+            "location": "A Note on Climate Change",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      }
+    },
+    "connectivity": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Identify climate refugia and corridors that are likely to be important for species movement and persistence.",
+          "location": "Overall Threats to Nevada's Key Habitats and Management Strategies",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "The Nature Conservancy is developing a climate change corridor assessment using key species to identify areas that should be conserved as opportunities for species to migrate due to climate change.",
+          "location": "A Note on Climate Change",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Maintain functional connectivity among presently intact Mojave Warm Desert and Mojave Mid-elevation Mixed Scrub habitats and account for northward extensions of these key habitats into other regions.",
+          "location": "Conservation Strategy (Mojave Mid-Elevation Mixed Desert Shrub)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    }
+  },
+  "tools": {
+    "vulnerability_models": {
+      "evaluable": true,
+      "score": 2,
+      "named_tools": ["NatureServe CCVI", "Habitat Climate Change Vulnerability Index", "HCCVI"],
+      "evidence": [
+        {
+          "text": "New to the 2022 SWAP are select habitat climate change vulnerability assessments in Chapter 4 and Appendix D.",
+          "location": "A Note on Climate Change",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Within the Nevada portion of the aspen distribution, overall HCCVI is 91% in moderate and 9% in high relative vulnerability. Exposure is 10% severe, 87% high, and 3% moderate",
+          "location": "Climate Change Vulnerability (Aspen Woodland)",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Within the NV portion of the Salt Desert Shrub Key Habitat distribution, overall HCCVI is 46% in moderate and 53% in high relative vulnerability.",
+          "location": "Climate Change Vulnerability (Salt Desert Shrub)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "niche_models": {
+      "evaluable": true,
+      "score": 2,
+      "named_tools": ["ensemble SDMs", "species distribution models"],
+      "evidence": [
+        {
+          "text": "Arizona contracted New York Natural Heritage Program (NY Heritage) to develop species distribution models for 281 SGCN. Through their collaboration, Arizona and Nevada identified 47 shared terrestrial species on their designated SGCN lists to expand these models to include both states. Using data from various datasets within both states, NY Heritage used an ensemble modeling approach to develop predictive models that include both Arizona and Nevada for these 47 shared SGCN species.",
+          "location": "Arizona-Nevada Collaboration",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "More complex modeling shows an expected soil water deficit for the Southwest that will likely impact species distributions and cover",
+          "location": "Climate Change in Nevada",
+          "sub_component": null,
+          "citations": ["Bradford et al. 2020"]
+        }
+      ],
+      "absence_note": "Nevada's own SWAP incorporates the SDM results from the AZ-NV collaboration (47 shared SGCN), counting as application. Additional niche-type modeling (vulnerability analysis for sagebrush suitability) is also cited."
+    },
+    "climate_models": {
+      "evaluable": true,
+      "score": 2,
+      "named_tools": ["LOCA", "CMIP5", "Cal-Adapt", "GCM"],
+      "evidence": [
+        {
+          "text": "Figure 5. Historic (1960-1991) mean annual maximum temperature C, RCP45 and RCP85 (2035-2064) projected change based on LOCA statistically downscaled monthly data for the state of Nevada. Data were sourced from CalAdapt based on regional analysis congruent with the 4th National Climate Assessment",
+          "location": "Climate Change in Nevada",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Table 4 : Annual mean maximum and minimum temperatures and accumulated precipitation for historic(1960-1991) and medium future periods based on 10 Global Circulation Model outputs of CMIP5 LOCA data obtained from Cal-Adapt.",
+          "location": "Climate Change in Nevada",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {},
+      "time_horizon_years": [2035, 2050, 2064, 2070, 2100],
+      "emission_scenarios": ["RCP4.5", "RCP8.5"]
+    },
+    "connectivity_models": {
+      "evaluable": true,
+      "score": 1,
+      "named_tools": [],
+      "evidence": [
+        {
+          "text": "The Nature Conservancy is developing a climate change corridor assessment using key species to identify areas that should be conserved as opportunities for species to migrate due to climate change.",
+          "location": "A Note on Climate Change",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document references The Nature Conservancy developing a climate change corridor assessment but describes it as under development, not yet applied to Nevada's focal SGCN within this plan. A statewide habitat connectivity plan is referenced in action tables but no named connectivity modeling tool (e.g., CircuitScape) is cited."
+    }
+  },
+  "context": {
+    "management_scale": {
+      "local": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "key components of the SWAP can and should serve as foundational building blocks for further conservation planning and the development of more specific actions at the local level.",
+            "location": "Introduction",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "site": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "habitat-specific objectives and actions vary by region, individual sites, and microsites and actions will be dependent upon factors such as the annual wildfire season",
+            "location": "Overall Threats to Nevada's Key Habitats and Management Strategies",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "watershed": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The aquatic framework for the SWAP was defined by ecological drainage units which are aggregations of NHD twelfth level Hydrologic Unit Codes (HUC 12). This refines the aquatic habitats to a more focused, smaller scale",
+            "location": "Aquatic Habitats",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "city": {
+        "present": false,
+        "evidence": []
+      },
+      "county": {
+        "present": false,
+        "evidence": []
+      },
+      "within_state_region": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "USDA Major Land Resource Areas (MLRAs) are at times utilized for reporting metrics within the State Wildlife Action Plan (SWAP) at a finer scale than the Level III Ecoregions",
+            "location": "Biophysical Regions and Major Habitat Types",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "state": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Nevada's State Wildlife Action Plan (SWAP) is intended to be a comprehensive, statewide plan for conserving the state's wildlife and habitat resources.",
+            "location": "Purpose and Scope of the Nevada Wildlife Action Plan",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "multistate": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The State of Nevada partnered with the State of Arizona in a pilot program to foster the development and implementation of a crossjurisdictional approach to conservation in the southwest.",
+            "location": "Arizona-Nevada Collaboration",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "national": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "guidance from the Association of Fish and Wildlife Agencies (AFWA) recognizes that landscape-scale, crossjurisdictional collaborations are valuable for fish and wildlife agencies in achieving statutorily required conservation",
+            "location": "Introduction (Chapter 6)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "transnational": {
+        "present": false,
+        "evidence": []
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Vulnerability analysis for intermountain basins big sagebrush shrublands (2040-2070) projects generally decreasing suitability for this ecological system",
+            "location": "Conservation Strategy (Sagebrush)",
+            "sub_component": null,
+            "citations": ["Comer et al., 2019"]
+          }
+        ]
+      },
+      "ecoregion": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The four primary ecoregions that overlap Nevada include the Northern Basin and Range, Central Basin and Range, Mojave Basin and Range, Sierra Nevada, and a minor inclusion of the Arizona/ New Mexico Plateau",
+            "location": "Biophysical Regions and Major Habitat Types",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "province": {
+        "present": false,
+        "evidence": []
+      },
+      "section": {
+        "present": false,
+        "evidence": []
+      },
+      "subsection": {
+        "present": false,
+        "evidence": []
+      },
+      "lake": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "deep temperature mixing within Lake Tahoe, which impacts nutrient availability, may cease to fully occur under future scenarios leading to increases in algal growth, decreases in lake clarity, and impacts throughout the trophic chain",
+            "location": "Climate Change in Nevada",
+            "sub_component": null,
+            "citations": ["Sahoo et al., 2013"]
+          }
+        ]
+      },
+      "river": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Potential climate change effects on intermountain river and stream aquatic habitats are driven by predicted changes in two key interlinked components of climate: precipitation and air temperature",
+            "location": "Predicted Climate Change Effects (Rivers and Streams)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "district": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["Walker Lake watershed", "Humboldt River", "Truckee River", "Carson River", "Colorado River", "Virgin River", "Lake Tahoe", "Lake Mead", "Mojave Basin and Range ecoregion", "Northern Basin and Range ecoregion", "Central Basin and Range ecoregion", "Great Basin", "Mojave Desert", "Spring Mountains", "Ruby Mountains", "Sierra Nevada"]
+    },
+    "biological_unit_score": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Possible conversion to novel states, depletion of C3 grasses ('cool season grasses') and other functional groups due to climate change, complex range shifts in N-S & E-W based on individualistic responses to multiple abiotic gradients",
+          "location": "Table 10 (High-Level Strategies, Adaptation Approaches, and Adaptation Tactics)",
+          "sub_component": "ecosystem/community",
+          "citations": []
+        },
+        {
+          "text": "Pinyon-juniper woodlands commonly occur along the foothills of large mountain ranges. This creates the capacity of these woodlands to shift upward into higher elevations in response to changing climate.",
+          "location": "Predicted Climate Change Effects (Pinyon-Juniper Woodland)",
+          "sub_component": "species/habitat",
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "biological_unit_components": {
+      "species": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "understanding and projecting future impacts of climate change on the range, distribution, and habitats of protected and other threatened plants will likely be a priority.",
+            "location": "Climate Change in Nevada",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "population": {
+        "present": false,
+        "evidence": []
+      },
+      "habitat": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "New to the 2022 SWAP are select habitat climate change vulnerability assessments in Chapter 4 and Appendix D.",
+            "location": "A Note on Climate Change",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Vulnerability analysis for intermountain basins big sagebrush shrublands (2040-2070) projects generally decreasing suitability for this ecological system",
+            "location": "Conservation Strategy (Sagebrush)",
+            "sub_component": null,
+            "citations": ["Comer et al., 2019"]
+          }
+        ]
+      },
+      "community": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Possible conversion to novel states, depletion of C3 grasses ('cool season grasses') and other functional groups due to climate change, complex range shifts in N-S & E-W based on individualistic responses to multiple abiotic gradients",
+            "location": "Table 10 (High-Level Strategies, Adaptation Approaches, and Adaptation Tactics)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "genotype_phenotype": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["Lahontan cutthroat trout", "American pika", "greater sage-grouse", "pinyon-juniper woodland", "sagebrush ecosystem", "aspen woodland", "Mojave warm desert", "salt desert shrub", "alpine and tundra habitats", "riparian and wetland habitats", "desert grasslands", "montane coniferous forests"]
+    },
+    "partnerships_and_funding": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "We are grateful for funding from the U.S. Fish and Wildlife Service Science Applications Program, which supported facilitation of the State Wildlife Action Plan revision, coordination with the Arizona Game and Fish Department so that both states could include regional considerations in their State Wildlife Action Plan revision, and regional predictive modeling efforts for shared Species of Greatest Conservation Need.",
+          "location": "Acknowledgments",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Funding to support Habitat Climate Change Vulnerability assessments through NatureServe was generously provided by The Nature Conservancy and the Southwest Climate Adaptation Center.",
+          "location": "Acknowledgments",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "The State of Nevada partnered with the State of Arizona in a pilot program to foster the development and implementation of a crossjurisdictional approach to conservation in the southwest.",
+          "location": "Arizona-Nevada Collaboration",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_threat_habitat_degradation": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Warming and drying trends in the recent past have been linked to increased wildfire within the western United States, leading to an estimated doubling of acres burned over the expected baseline",
+          "location": "Climate Change in Nevada",
+          "sub_component": null,
+          "citations": ["Abatzoglou & Williams, 2016"]
+        },
+        {
+          "text": "Climate change will likely result in less precipitation, increased air temperatures, and a shift in winter precipitation patterns from snow to rain. Decreases in precipitation, especially winter snowpack, increasing air temperatures, and overall increasing severity and duration of drought conditions are expected to continue and accelerate across Nevada",
+          "location": "Predicted Climate Change Effects (Riparian and Wetland)",
+          "sub_component": null,
+          "citations": ["Haig et al., 2019"]
+        },
+        {
+          "text": "Vast areas of Wyoming sagebrush, a key component of low elevation sagebrush dominated key habitats, have been lost from intense fires as a result of increasing invasive grass cover and warming-drying trends that reduce fire return intervals.",
+          "location": "Table (Low Elevation Sagebrush HCCVI text block)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_threat_species_vital_rates": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Along with the predicted increase in recurring drought and increase in atmospheric temperatures, which exacerbate the impacts of drought, ips beetle epidemics are more likely. For example, during a 2002-2003 drought, ips beetle populations reached epidemic levels which killed millions of pinyon trees in the southwestern U.S.",
+          "location": "Predicted Climate Change Effects (Pinyon-Juniper Woodland)",
+          "sub_component": null,
+          "citations": ["Thorne et al., 2007"]
+        },
+        {
+          "text": "These changes will directly influence seasonal stream flows and aquatic habitat quality in many intermountain river and stream systems, where even small changes in water availability can significantly impact instream habitat conditions, and thus influence the lifecycles of aquatic species such as Lahontan cutthroat trout",
+          "location": "Predicted Climate Change Effects (Rivers and Streams)",
+          "sub_component": null,
+          "citations": ["Al-Chokhachy et al., 2022"]
+        }
+      ],
+      "absence_note": "The pinyon ips beetle mortality framing is the clearest example of a direct climate-event → vital rate chain (drought → beetle epidemic → tree mortality). The aquatic species passage touches on lifecycle impacts. Both are climate-attributed."
+    },
+    "climate_threat_biotic_stressors": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "With the present trend of drier and warmer climatic conditions across this physiographic region coinciding with rapid proliferation of cheatgrass (Bromus tectorum) in the past 50 years, fire frequency intervals have decreased significantly.",
+          "location": "Habitat Conditions (Desert Grasslands)",
+          "sub_component": null,
+          "citations": ["Miller & Eddleman, 2001"]
+        },
+        {
+          "text": "Pinyon-juniper expansion is also generally facilitated by regional warming",
+          "location": "Habitat Conditions (Sagebrush)",
+          "sub_component": null,
+          "citations": ["Tausch & Nowak, 1999"]
+        }
+      ],
+      "absence_note": {}
+    }
+  },
+  "actions": {
+    "priority_habitat_identification": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Locate and map habitat types, corridors, and patches at a landscape scale, and identify priorities for protection and/or restoration.",
+          "location": "Overall Threats to Nevada's Key Habitats and Management Strategies",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Identify climate refugia and corridors that are likely to be important for species movement and persistence.",
+          "location": "Overall Threats to Nevada's Key Habitats and Management Strategies",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Action: Map montane shrub stands throughout the state at a fine scale to interpret elevational shifts in plant composition and structure.",
+          "location": "Conservation Strategy (Montane Shrublands)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "targeted_range_shift_actions": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Facilitate the movement of species that are expected to be adapted to future conditions and fire regimes.",
+          "location": "Overall Threats to Nevada's Key Habitats and Management Strategies",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Maintain functional connectivity among presently intact Mojave Warm Desert and Mojave Mid-elevation Mixed Scrub habitats and account for northward extensions of these key habitats into other regions.",
+          "location": "Conservation Strategy (Mojave Mid-Elevation Mixed Desert Shrub)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "Actions are structural facilitation type (corridors, connectivity maintenance for anticipated northward/elevational shifts) rather than direct manipulation (assisted migration). The 'facilitate movement of species adapted to future conditions' language explicitly invokes climate-driven shifts."
+    },
+    "time_bound_and_monitoring": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Objective 1: Identify and assess aspen woodlands across Nevada by 2027.",
+          "location": "Conservation Strategy (Aspen Woodland)",
+          "sub_component": "time-bound",
+          "citations": []
+        },
+        {
+          "text": "Objective 3: Manage aspen woodlands to not exceed 10% loss to type conversion through 2032.",
+          "location": "Conservation Strategy (Aspen Woodland)",
+          "sub_component": "time-bound",
+          "citations": []
+        },
+        {
+          "text": "Adapt approaches and actions based on change-point detection in species/ ecosystem ranges, distributions, relative abundances, etc. via robust monitoring Establish robust long-term trends and condition monitoring for wildlife species and vegetation communities (key habitats) using ground level and remote technologies; explicitly define and monitor for change-point detection to identify ecosystem level shifts that necessitate changed strategies, approaches, and tactics.",
+          "location": "Overall Threats to Nevada's Key Habitats and Management Strategies",
+          "sub_component": "monitoring",
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "evidence_of_efficacy": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "One long-term study conducted by AZGFD found that sheep utilized wildlife overpasses to cross roadways more than bridges and culverts. These findings led the Boulder City Bypass Phase II (BCB-2) planners to add a wildlife overpass to the roadway's array of large bridges",
+          "location": "Arizona-Nevada Collaboration (Bighorn Sheep)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The plan primarily presents ecological rationale and frameworks for actions rather than citing studies testing outcomes. The bighorn sheep crossing study provides evidence for that specific action type; broader climate-adaptation actions lack cited efficacy evidence beyond first-principles ecological assumptions.",
+      "projects": ["Boulder City Bypass Phase II (BCB-2): AZGFD conducted post-construction monitoring of wildlife crossing structures and documented >20,900 animals including 15,778 desert bighorn sheep using overpasses and bridges. This provides evidence for the efficacy of wildlife crossing structures but is tangential to climate range-shift facilitation specifically.", "Relict Leopard Frog headstarting program: NDOW, AZGFD, USFWS, NPS, and UNLV partners rear wild-collected eggs and release frogs at varying life stages. No outcome data are presented within the plan; the program is described as ongoing."]
+    },
+    "adaptation_planning_frameworks": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "This table is organized based on the Resist, Accept, Direct (RAD) framework that was developed to address climate-related mitigation; however, it serves as a useful framework for addressing other threats as it considers conservation actions that manage for future anticipated conditions rather than the historic baseline conditions alone.",
+          "location": "Overall Threats to Nevada's Key Habitats and Management Strategies",
+          "sub_component": null,
+          "citations": ["Schuurman et al., 2020", "Schuurman et al., 2022"]
+        },
+        {
+          "text": "utilizing tools such as the NatureServe Habitat Climate Change Vulnerability Index (see Chapter 4) and updating assessments on the vulnerability of individual species as tools become available have been identified as areas for regional collaboration in the future.",
+          "location": "Arizona-Nevada Collaboration",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "updated guidance from the Association of Fish and Wildlife Agencies (AFWA, 2022 draft) for incorporating climate change into management plans will help guide future conservation actions in addition to already prioritized actions.",
+          "location": "A Note on Climate Change",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    }
+  },
+  "coding_meta": {
+    "coder": "llm:claude-sonnet-4-6",
+    "model": "claude-sonnet-4-6",
+    "provider": "claude",
+    "codebook_version": "0.4",
+    "ingest": "text",
+    "design": "single",
+    "temperature": null,
+    "thinking": null,
+    "thinking_effort": null,
+    "coded_at": "2026-07-06T18:39:24Z",
+    "notes": {}
+  }
+}

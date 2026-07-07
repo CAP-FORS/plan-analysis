@@ -1,0 +1,811 @@
+{
+  "document_meta": {
+    "title": "Arizona Forest Action Plan (FAP) 2020",
+    "year": 2020,
+    "jurisdiction": "Arizona",
+    "document_type": "Forest Action Plan",
+    "document_id": "AZ_FAP_2020",
+    "page_count": 243
+  },
+  "orientation": {
+    "summary": "This is Arizona's 2020 Forest Action Plan (FAP), a state-level multi-issue forest and natural resource management planning document produced by the Arizona Department of Forestry and Fire Management (DFFM). The document takes an 'all lands' approach covering forests, woodlands, grasslands, deserts, riparian areas, urban forests, and cultural resources. Climate change is treated as one of eight critical resource issues, with a dedicated chapter discussing fire behavior, water availability, wildlife habitat, vegetation productivity, ecological shifts, and carbon sequestration. The document references climate-driven range shifts of species (latitudinal/elevational), acknowledges that many species will be unable to move fast enough to track suitable climate, and discusses facilitation actions including landscape connectivity and assisted migration. Analysis is largely qualitative and draws heavily on cited literature (IPCC, Westerling et al., McKenzie et al.) rather than performing new modeling; some spatial prioritization maps are produced internally.",
+    "evidence_index": [
+      {
+        "text": "Recent drought conditions due to natural variability and increasing temperatures tied to rising levels or greenhouse gasses have decreased vegetative productivity, reduced water availability, caused a shift in established vegetation/wildlife ranges, and contributed to some of the largest wildfires in Arizona's history.",
+        "location": "Climate Change Critical Issue Description",
+        "relevant_elements": ["1.1", "3.5", "3.6", "C1", "C2"]
+      },
+      {
+        "text": "While climate has always been variable, rapid climate change creates cascading effects that are altering Arizona's landscapes.",
+        "location": "Climate Change Critical Issue Description",
+        "relevant_elements": ["1.1", "C1"]
+      },
+      {
+        "text": "In general, climate change will exacerbate many existing stressors on ecosystems and hinder many species' ability to adapt.",
+        "location": "Climate Change Critical Issue Description / Wildlife habitat",
+        "relevant_elements": ["1.1", "1.2"]
+      },
+      {
+        "text": "Many species will be unable to move fast enough during the 21st century to track suitable climates under mid-and high-range rates of climate change.",
+        "location": "Climate Change Critical Issue Description / Wildlife habitat",
+        "relevant_elements": ["1.1", "1.2", "1.3"]
+      },
+      {
+        "text": "As the IPCC notes, many species will be unable to migrate due to landscape habitat fragmentation, loss of suitable habitat, lack of mobility, or because they already live at the highest available elevation.",
+        "location": "Climate Change Critical Issue Description / Wildlife habitat",
+        "relevant_elements": ["1.1", "1.2", "1.3", "1.4", "C2"]
+      },
+      {
+        "text": "Accelerating climate change is already causing significant shifts in the ranges of plants and animals. Species, when facing drier and warmer conditions are shifting their ranges to track more favorable conditions, often poleward and to higher elevations.",
+        "location": "Climate Change Critical Issue Description / Ecological changes (conversion of vegetation types)",
+        "relevant_elements": ["1.1", "1.2", "C2"]
+      },
+      {
+        "text": "In the Southwest, though many species may be able to adapt by doing this, species at higher elevations (including those living in sky islands) will face significant challenges. Geography often limits movement in these ecosystems because there simply is nowhere to go.",
+        "location": "Climate Change Critical Issue Description / Ecological changes (conversion of vegetation types)",
+        "relevant_elements": ["1.1", "1.2", "1.3", "C2"]
+      },
+      {
+        "text": "Species with low adaptive capacity such as those with specialized habitat needs or limited dispersal ability face higher vulnerability to these changes.",
+        "location": "Climate Change Critical Issue Description / Wildlife habitat",
+        "relevant_elements": ["1.2", "1.3"]
+      },
+      {
+        "text": "community composition will change as a result of decreases in the abundances of some species and increases in others; and (2) the seasonal activity of many species will change differentially, disrupting life cycles and interactions between species.",
+        "location": "Climate Change Critical Issue Description / Wildlife habitat",
+        "relevant_elements": ["1.1", "1.3", "3.7"]
+      },
+      {
+        "text": "Increase habitat connectivity so wildlife are more capable of moving and shifting their permanent and seasonal habitats, to areas more similar in temperature/precipitation to their historical ranges. Landscape connectivity as a climate change adaptation strategy is being pursued in several regions across the nation and we can clearly see the benefits of connecting landscapes for improving ecosystem resiliency.",
+        "location": "Climate Change Critical Issue Description / Ecological changes (conversion of vegetation types)",
+        "relevant_elements": ["1.4", "4.2"]
+      },
+      {
+        "text": "Though assisted migration is a controversial approach in conservation, climate change presents challenges to species and ecosystems that have not been encountered before. The speed of observed changes due to climate change in species habitat and life cycles is forcing changes in conservation biology thinking and practice. Many species cannot shift habitat ranges fast enough to deal with current and future rates of climate change, so land managers should begin to experiment with pilot approaches to assist migration to avoid species decline and possible extinction.",
+        "location": "Climate Change Critical Issue Description / Ecological changes (conversion of vegetation types)",
+        "relevant_elements": ["4.2", "4.4"]
+      },
+      {
+        "text": "connecting landscapes and aquatic systems to allow for wildlife movement; relocating species to more suitable habitat (assisted migration); reducing pressures from non-climate change stressors",
+        "location": "Climate Change Critical Issue Description / Wildlife habitat",
+        "relevant_elements": ["4.2", "1.4"]
+      },
+      {
+        "text": "Due to heavy fuel accumulations and climate change, today's fires are often more intense and more difficult to contain. The overall number of fires has been increasing across the state, with larger, more damaging fires also increasing.",
+        "location": "Four Forests Restoration Initiative: 4FRI",
+        "relevant_elements": ["3.5", "3.6"]
+      },
+      {
+        "text": "Some forecasts indicate a warming climate will lead to at least a doubling of annual area burned in Arizona by the late twenty-first century.",
+        "location": "Post-European Settlement",
+        "relevant_elements": ["3.5", "3.6"]
+      },
+      {
+        "text": "Climate change research poses a further threat with increased drought and longer, warmer summers lengthening fire seasons. Climatic change suggests a greater number of intense, resistant to control fires that will likely place communities and landscapes at greater risk.",
+        "location": "Introduction (Fire critical issue)",
+        "relevant_elements": ["3.5"]
+      },
+      {
+        "text": "Climate change is causing variable precipitation resulting in reduced snow pack, lower runoff, and decreased flows in drainage basins.",
+        "location": "Benefits, Threats, and Impacts (Water critical issue)",
+        "relevant_elements": ["3.5"]
+      },
+      {
+        "text": "Global climate models project more dry days and drier soils in the future, for much of the Southwest. Along with projected warming and increased evapotranspiration, this likely means droughts will become more severe.",
+        "location": "Climate Change Critical Issue Description / Water availability",
+        "relevant_elements": ["2.3", "3.5"]
+      },
+      {
+        "text": "An assessment developed by The Nature Conservancy was used to determine the Climate Change Focus Areas. Their assessment used a categorization approach frequently used in conservation planning to group temperature change and conservation importance into four classes of vulnerability.",
+        "location": "Focus Areas (Climate Change section)",
+        "relevant_elements": ["2.1", "4.1"]
+      },
+      {
+        "text": "Altered vegetation structure and composition results in a loss of ecosystem resiliency and inability to adapt to climate change",
+        "location": "Benefits, Threats, and Impacts (Ecosystem Health section)",
+        "relevant_elements": ["1.1", "1.2"]
+      },
+      {
+        "text": "We need to ensure ecological components of ecosystems are resilient to disturbances, including human activities and climate variability.",
+        "location": "Key Elements (Ecosystem Health section)",
+        "relevant_elements": ["1.1", "1.2"]
+      },
+      {
+        "text": "climate change has already 'very likely increased the size and number of wildfires, insect outbreaks, and tree mortality in the Southwest and will continue to do so'",
+        "location": "Climate Change Critical Issue Description / Vegetation Productivity",
+        "relevant_elements": ["3.5", "3.6"]
+      },
+      {
+        "text": "Warming has allowed invasive cheatgrass to expand its range into higher elevations previously dominated by native bunchgrasses.",
+        "location": "Desert Impacts",
+        "relevant_elements": ["3.7"]
+      },
+      {
+        "text": "Annual invasive grasses like cheatgrass (Bromus tectorum) and red brome (Bromus rubens) are serious threats to the Great Basin Desert and Sonoran Desert, respectively. These species have established at such levels that they fuel wildfires in areas that traditionally did not burn.",
+        "location": "Desert Impacts",
+        "relevant_elements": ["3.7"]
+      },
+      {
+        "text": "Embark on restoration efforts with the key focus on allowing for evolutionary development of ecosystems under climate change. This means adjusting how restoration has currently been applied in Arizona. Instead of attempting to shift ecosystems back to historical structures, composition, and ranges of natural variability, managers need to take climate change into account and create small habitat clusters of better adapted species across the landscape, letting them link up on their own.",
+        "location": "Climate Change Critical Issue Description / Ecological changes (conversion of vegetation types)",
+        "relevant_elements": ["4.1", "4.2", "4.5"]
+      },
+      {
+        "text": "Developing a natural resource assistance network... Managing to connect landscapes; Managing disturbed areas to restore ecological processes rather than pre-disturbance conditions and; Anticipating rather than reacting to weather-related events.",
+        "location": "Climate Change Critical Issue Description / Carbon sequestration",
+        "relevant_elements": ["4.2", "4.5"]
+      },
+      {
+        "text": "The Association of Fish and Wildlife Agencies (AFWA), recommends using an adaptive management approach to deal with climate impacts. AFWA's recommended adaptive approach involves assessing existing conservation actions for their effectiveness under both current and future climates.",
+        "location": "Climate Change Critical Issue Description / Wildlife habitat",
+        "relevant_elements": ["4.5", "4.3"]
+      },
+      {
+        "text": "Develop and utilize a collaborative, science-based, multi-entity process to facilitate decisions on properly designing and implementing restoration projects within the social and political framework.",
+        "location": "Goals, Objectives, and Actions (Ecosystem Health section)",
+        "relevant_elements": ["4.3", "4.5"]
+      },
+      {
+        "text": "The combination of state and local efforts, along with coordination and collaboration with federal, tribal and other land management agencies, provides substantial leveraging of CFAA funds to benefit Arizona forests, woodlands, and citizens.",
+        "location": "Introduction",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "The Arizona Conservation Partnership (ACP) is comprised of 12 state and federal agencies collaborating over a multitude of issues. ACP provides a framework for accomplishing landscape scale conservation work using a collaborative approach that will maintain, restore and enhance Arizona's economic and environmental quality of life.",
+        "location": "Collaboration Across Landscapes",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "Unfragmented Areas: The Unfragmented Areas map is based on the existence of large, contiguous landmasses that are not fragmented by barriers, the diversity of vegetation types within those land masses, and the importance of those areas to the overall availability of any particular vegetation type within the state.",
+        "location": "Focus Areas and Priority Landscapes (Ecosystem Health section)",
+        "relevant_elements": ["4.1", "1.4"]
+      },
+      {
+        "text": "Landscape Integrity: The Arizona Game and Fish Department developed this dataset as to help assess statewide connectivity. Landscape integrity is a measure of the landscape's naturalness, or its inverse, the level of human modification.",
+        "location": "Priority Areas (People and Forests section)",
+        "relevant_elements": ["4.1", "1.4", "2.4"]
+      },
+      {
+        "text": "Where fences are needed, install or upgrade to wildlife-friendly designs that facilitate habitat connectivity and reduce injuries/mortalities. Where appropriate, remove fences no longer needed for livestock operations or other purposes.",
+        "location": "Changes in Wildlife Diversity (Ecosystem Health section)",
+        "relevant_elements": ["1.4"]
+      },
+      {
+        "text": "Promote conservation of priority landscapes where fragmentation negatively affect the movement of critical species.",
+        "location": "Goals, Objectives, and Actions (People and Forests section)",
+        "relevant_elements": ["1.4", "4.1"]
+      },
+      {
+        "text": "Develop threats assessment information on current and expected impacts of climate change on Arizona's ecosystems.",
+        "location": "Goals, Objectives, and Actions (Climate Change section)",
+        "relevant_elements": ["4.5", "4.3"]
+      },
+      {
+        "text": "The Southwest is expected to continue to trend toward a substantially warmer, drier climate than has been recorded. This climate trend will continue to increase the length of fire seasons further beyond the summer months, and increase the frequency, size, and severity of forest fires.",
+        "location": "Four Forests Restoration Initiative: 4FRI",
+        "relevant_elements": ["3.5", "1.1"]
+      },
+      {
+        "text": "Warming temperatures during plant reproduction in many cases reduces yield by as much as 80-90 percent from normal temperature ranges.",
+        "location": "Climate Change Critical Issue Description / Vegetation Productivity",
+        "relevant_elements": ["3.6"]
+      },
+      {
+        "text": "disassembly of current ecosystems and biological communities, and formation of new ones; and altered occurrence of wildlife disease pathogens and invasive species",
+        "location": "Climate Change Critical Issue Description / Wildlife habitat",
+        "relevant_elements": ["3.7"]
+      },
+      {
+        "text": "Species of Greatest Conservation Need (SGCN): This map represents a richness index for the SGCN as defined in Arizona's State Wildlife Action Plan. The model program includes the number of Tier 1a and Tier 1b species (classified by vulnerability scores)",
+        "location": "Focus Areas and Priority Landscapes (Ecosystem Health section)",
+        "relevant_elements": ["2.1", "4.1"]
+      },
+      {
+        "text": "The plan addresses both site-level habitat stewardship and landscape-level connectivity across nine ecoregions.",
+        "location": "Collaboration Across Landscapes",
+        "relevant_elements": ["3.1"]
+      },
+      {
+        "text": "Plans are being formulated for the groups to continue meeting periodically to shepherd the implementation, monitoring, reporting, and adaptation of the FAP.",
+        "location": "Future Actions (Conclusion section)",
+        "relevant_elements": ["4.3"]
+      },
+      {
+        "text": "While the legislative mandate in the 2008 Farm Bill is a formal revision at five-year intervals or as required by the Secretary of Agriculture, we consider these to be dynamic and living documents where implementation will be monitored, assessed, reported, and adapted on a continuing basis.",
+        "location": "Future Actions (Conclusion section)",
+        "relevant_elements": ["4.3"]
+      },
+      {
+        "text": "Develop an effort similar to California's adaptation program that identify and utilize high-resolution climate change projections that perform well for Arizona's unique climate in long-term planning efforts.",
+        "location": "Key Partners/Stakeholders (Climate Change section)",
+        "relevant_elements": ["2.3", "4.5"]
+      }
+    ]
+  },
+  "concepts": {
+    "climate_vulnerability": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "In general, climate change will exacerbate many existing stressors on ecosystems and hinder many species' ability to adapt.",
+          "location": "Climate Change Critical Issue Description / Wildlife habitat",
+          "sub_component": "adaptive capacity",
+          "citations": []
+        },
+        {
+          "text": "Accelerating climate change is already causing significant shifts in the ranges of plants and animals. Species, when facing drier and warmer conditions are shifting their ranges to track more favorable conditions, often poleward and to higher elevations.",
+          "location": "Climate Change Critical Issue Description / Ecological changes (conversion of vegetation types)",
+          "sub_component": "exposure",
+          "citations": []
+        },
+        {
+          "text": "As the IPCC notes, many species will be unable to migrate due to landscape habitat fragmentation, loss of suitable habitat, lack of mobility, or because they already live at the highest available elevation.",
+          "location": "Climate Change Critical Issue Description / Wildlife habitat",
+          "sub_component": "adaptive capacity",
+          "citations": []
+        }
+      ],
+      "absence_note": "The document discusses both exposure (warming, drought, shifting ranges) and adaptive capacity (limited dispersal, mobility constraints, inability to adapt), but does not use a formal vulnerability framework (IPCC axes, CCVI) that explicitly names and integrates both. The discussion of adaptive capacity is embedded within the wildlife and ecological change sections and is substantive enough to merit score 2 (both exposure and adaptive capacity referenced), but it lacks the structured integration of both axes under a 'vulnerability' framing that would clearly justify 3."
+    },
+    "adaptive_capacity_specificity": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "many species will be unable to migrate due to landscape habitat fragmentation, loss of suitable habitat, lack of mobility, or because they already live at the highest available elevation.",
+          "location": "Climate Change Critical Issue Description / Wildlife habitat",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Many species cannot shift habitat ranges fast enough to deal with current and future rates of climate change, so land managers should begin to experiment with pilot approaches to assist migration to avoid species decline and possible extinction.",
+          "location": "Climate Change Critical Issue Description / Ecological changes (conversion of vegetation types)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "adaptive_capacity_components": {
+      "demography": {
+        "present": false,
+        "evidence": []
+      },
+      "distribution": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Accelerating climate change is already causing significant shifts in the ranges of plants and animals. Species, when facing drier and warmer conditions are shifting their ranges to track more favorable conditions, often poleward and to higher elevations.",
+            "location": "Climate Change Critical Issue Description / Ecological changes (conversion of vegetation types)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "movement": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "many species will be unable to migrate due to landscape habitat fragmentation, loss of suitable habitat, lack of mobility, or because they already live at the highest available elevation.",
+            "location": "Climate Change Critical Issue Description / Wildlife habitat",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "evolutionary_potential": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Enhancing genetic diversity; Using information about past and probable future conditions to inform activities; Managing to connect landscapes;",
+            "location": "Climate Change Critical Issue Description / Carbon sequestration",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecological_dependencies": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "the seasonal activity of many species will change differentially, disrupting life cycles and interactions between species. Composition and seasonal change will both alter ecosystem function.",
+            "location": "Climate Change Critical Issue Description / Wildlife habitat",
+            "sub_component": null,
+            "citations": ["IPCC AR5 Working Group II"]
+          }
+        ]
+      },
+      "abiotic_niche": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Species, when facing drier and warmer conditions are shifting their ranges to track more favorable conditions, often poleward and to higher elevations. In the Southwest, though many species may be able to adapt by doing this, species at higher elevations (including those living in sky islands) will face significant challenges.",
+            "location": "Climate Change Critical Issue Description / Ecological changes (conversion of vegetation types)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "life_history": {
+        "present": false,
+        "evidence": []
+      }
+    },
+    "connectivity": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Increase habitat connectivity so wildlife are more capable of moving and shifting their permanent and seasonal habitats, to areas more similar in temperature/precipitation to their historical ranges. Landscape connectivity as a climate change adaptation strategy is being pursued in several regions across the nation and we can clearly see the benefits of connecting landscapes for improving ecosystem resiliency.",
+          "location": "Climate Change Critical Issue Description / Ecological changes (conversion of vegetation types)",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "many species will be unable to migrate due to landscape habitat fragmentation, loss of suitable habitat, lack of mobility, or because they already live at the highest available elevation.",
+          "location": "Climate Change Critical Issue Description / Wildlife habitat",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    }
+  },
+  "tools": {
+    "vulnerability_models": {
+      "evaluable": true,
+      "score": 1,
+      "named_tools": [],
+      "evidence": [
+        {
+          "text": "An assessment developed by The Nature Conservancy was used to determine the Climate Change Focus Areas. Their assessment used a categorization approach frequently used in conservation planning to group temperature change and conservation importance into four classes of vulnerability.",
+          "location": "Focus Areas (Climate Change section)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document references a TNC vulnerability assessment used to set climate focus areas, and references SGCN vulnerability scores, but does not name a formal vulnerability model (e.g., CCVI, NatureServe) or apply one directly to the plan's focal species/habitats. The TNC categorization approach is used but its method is not specified. This scores 1 (referenced, not formally applied with a named framework to the focal subjects)."
+    },
+    "niche_models": {
+      "evaluable": true,
+      "score": 0,
+      "named_tools": [],
+      "evidence": [],
+      "absence_note": "No species distribution models, SDMs, MaxEnt, or similar niche models are referenced anywhere in the document."
+    },
+    "climate_models": {
+      "evaluable": true,
+      "score": 1,
+      "named_tools": [],
+      "evidence": [
+        {
+          "text": "Global climate models project more dry days and drier soils in the future, for much of the Southwest. Along with projected warming and increased evapotranspiration, this likely means droughts will become more severe.",
+          "location": "Climate Change Critical Issue Description / Water availability",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document references 'global climate models' generically and cites projections (e.g., droughts by 'second half of this century', doubling of fire area by 'late twenty-first century'), but no specific GCMs, CMIP products, RCPs, SSPs, or downscaling approaches are named. Scores 1 (referenced generally, not applied with named models to the plan's focal subjects).",
+      "time_horizon_years": [2100],
+      "emission_scenarios": []
+    },
+    "connectivity_models": {
+      "evaluable": true,
+      "score": 1,
+      "named_tools": [],
+      "evidence": [
+        {
+          "text": "Landscape Integrity: The Arizona Game and Fish Department developed this dataset as to help assess statewide connectivity. Landscape integrity is a measure of the landscape's naturalness, or its inverse, the level of human modification.",
+          "location": "Priority Areas (People and Forests section)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document references a statewide landscape integrity/connectivity dataset developed by AZGFD and mentions 'advanced modeling tools' for cross-boundary fire risk, but no specific connectivity modeling tools (CircuitScape, Linkage Mapper, least-cost path, etc.) are named. The connectivity dataset is used in priority area mapping, but it is framed as naturalness/landscape integrity rather than a climate-gradient connectivity model. Scores 1."
+    }
+  },
+  "context": {
+    "management_scale": {
+      "local": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Develop and implement educational programs for county and community leaders, schools, and civic groups to increase public awareness regarding the benefits of vegetation on the impacts of urban heat islands, impervious surfaces, and other resource issues.",
+            "location": "Goals, Objectives, and Actions (People and Forests section)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "site": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The Huachuca FireScape project, which covers 400,000 acres in the Huachuca and Whetstone mountains, was recently approved and implementation has begun.",
+            "location": "Four Forests Restoration Initiative: 4FRI",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "watershed": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "all 8-digit Hydrologic Unit Codes (HUC) were identified along with the public land ownerships across the state. Once those maps were created, the focus area map was created showing HUCs in a color gradient.",
+            "location": "Focus Areas (Water section)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "city": {
+        "present": false,
+        "evidence": []
+      },
+      "county": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Cochise County has the highest diversity and number of occurrences of these special status species and Yuma County the lowest.",
+            "location": "E. Fish and Wildlife Habitat (AON section)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "within_state_region": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The FAP takes an 'all lands' approach and expand its scope to include the entirety of the state of Arizona.",
+            "location": "pg. 5",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "state": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The responsibility for developing the Forest Action Plan belongs to the State Forester and DFFM.",
+            "location": "Introduction",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "multistate": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Semi-desert grasslands in central and southeastern Arizona extend into New Mexico and Sonora, Mexico. Grasslands in northern Arizona share similarities with those found in the Great Basin and Colorado Plateau in Utah, Colorado, and New Mexico.",
+            "location": "Overview of Arizona's Grasslands",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "national": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "In the American West, this increase averaged more than 84 days longer in 2003-2012, compared to the period 1973-1982.",
+            "location": "Climate Change Critical Issue Description / Fire behavior/severity",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "transnational": {
+        "present": false,
+        "evidence": []
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "High priority should be given to ecosystem above 6,000 ft. elevation with considerable risk of stand replacing fire potential and in areas that provide watershed function to support diverse ecosystem health.",
+            "location": "Focus Areas and Priority Landscapes (Ecosystem Health section)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecoregion": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Most forestlands in Arizona are within the Arizona/New Mexico Mountains or Plateau Ecoregions.",
+            "location": "Current Forest Types and Distribution",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "province": {
+        "present": false,
+        "evidence": []
+      },
+      "section": {
+        "present": false,
+        "evidence": []
+      },
+      "subsection": {
+        "present": false,
+        "evidence": []
+      },
+      "lake": {
+        "present": false,
+        "evidence": []
+      },
+      "river": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Stream restoration efforts (e.g., Canyon Creek Restoration-Arizona Game and Fish Department) can re-connect streams to adjacent wetlands, increasing the water retained in Arizona's high elevation forests.",
+            "location": "Climate Change Critical Issue Description / Water availability",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "district": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["Madrean Archipelago / Sky Islands", "Four Forests (4FRI)", "Coronado National Forest", "Kaibab National Forest", "Mogollon Rim", "Colorado Plateau", "San Pedro River", "Verde River", "Cochise County", "Flagstaff", "White Mountains"]
+    },
+    "biological_unit_score": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Accelerating climate change is already causing significant shifts in the ranges of plants and animals.",
+          "location": "Climate Change Critical Issue Description / Ecological changes (conversion of vegetation types)",
+          "sub_component": "species",
+          "citations": []
+        },
+        {
+          "text": "community composition will change as a result of decreases in the abundances of some species and increases in others",
+          "location": "Climate Change Critical Issue Description / Wildlife habitat",
+          "sub_component": "community",
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "biological_unit_components": {
+      "species": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Accelerating climate change is already causing significant shifts in the ranges of plants and animals. Species, when facing drier and warmer conditions are shifting their ranges to track more favorable conditions, often poleward and to higher elevations.",
+            "location": "Climate Change Critical Issue Description / Ecological changes (conversion of vegetation types)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "population": {
+        "present": false,
+        "evidence": []
+      },
+      "habitat": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "caused a shift in established vegetation/wildlife ranges, and contributed to some of the largest wildfires in Arizona's history.",
+            "location": "Climate Change Critical Issue Description",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "In Southwest forests, rates of ecosystem change due to climate impacts are projected to become more dramatic over the course of the 21st century.",
+            "location": "Climate Change Critical Issue Description / Ecological changes (conversion of vegetation types)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "community": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "community composition will change as a result of decreases in the abundances of some species and increases in others; and (2) the seasonal activity of many species will change differentially, disrupting life cycles and interactions between species. Composition and seasonal change will both alter ecosystem function.",
+            "location": "Climate Change Critical Issue Description / Wildlife habitat",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "genotype_phenotype": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["Mexican Spotted Owl (Strix occidentalis lucida)", "Northern goshawk (Accipiter gentilis)", "Southwestern willow flycatcher (Empidonax traillii extimus)", "ponderosa pine (Pinus ponderosa)", "aspen (Populus tremuloides)", "jaguar (Panthera onca)", "thick-billed parrot (Rhynchopsitta pachyrhyncha)", "saguaro (Carnegia gigantea)", "pinyon-juniper woodlands", "Madrean oak woodlands", "riparian forests", "mixed conifer forests", "Sky Islands"]
+    },
+    "partnerships_and_funding": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "The Arizona Conservation Partnership (ACP) is comprised of 12 state and federal agencies collaborating over a multitude of issues. ACP provides a framework for accomplishing landscape scale conservation work using a collaborative approach that will maintain, restore and enhance Arizona's economic and environmental quality of life.",
+          "location": "Collaboration Across Landscapes",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Most CFAA funding received by the Arizona Department of Forestry and Fire Management (DFFM) is passed through to local organizations by way of grants that require matching funds and additional implementation resources. The combination of state and local efforts along with coordination and collaboration with federal, tribal, and other land management agencies provides substantial leveraging of these funds to benefit Arizona natural resources and citizens.",
+          "location": "Background Farm Bill and Cooperative Forestry Assistance Act",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document describes active, funded partnerships through the CFAA, ACP (12 agencies), tribal collaborations, and multi-entity projects like 4FRI. This reflects strategic investment with active partnerships rather than merely aspirational engagement."
+    },
+    "climate_threat_habitat_degradation": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Climate change is causing variable precipitation resulting in reduced snow pack, lower runoff, and decreased flows in drainage basins.",
+          "location": "Benefits, Threats, and Impacts (Water critical issue)",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Climate change research poses a further threat with increased drought and longer, warmer summers lengthening fire seasons. Climatic change suggests a greater number of intense, resistant to control fires that will likely place communities and landscapes at greater risk.",
+          "location": "Introduction (Fire critical issue)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_threat_species_vital_rates": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Warming temperatures during plant reproduction in many cases reduces yield by as much as 80-90 percent from normal temperature ranges.",
+          "location": "Climate Change Critical Issue Description / Vegetation Productivity",
+          "sub_component": null,
+          "citations": ["Hatfield et. al., Weather and Climate Extremes, Volume 10, Part A, December 2015, Pages 4-10"]
+        }
+      ],
+      "absence_note": "The document discusses climate-driven heat reducing plant reproductive yields (a direct vital rate effect), and also discusses mass mortality of pinyon pine from insects and drought, and wildfire mortality. The Hatfield citation directly links warming temperatures to 80-90% reduction in reproductive yield, meeting the 'direct vital rate' criterion."
+    },
+    "climate_threat_biotic_stressors": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Annual invasive grasses like cheatgrass (Bromus tectorum) and red brome (Bromus rubens) are serious threats to the Great Basin Desert and Sonoran Desert, respectively. These species have established at such levels that they fuel wildfires in areas that traditionally did not burn.",
+          "location": "Desert Impacts",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "altered occurrence of wildlife disease pathogens and invasive species",
+          "location": "Climate Change Critical Issue Description / Wildlife habitat",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document discusses invasive grasses in desert contexts without always explicitly attributing their expansion to climate change, but the wildlife section explicitly names altered invasive species occurrence as a climate change outcome. The document also notes that climate-driven community composition changes and formation of 'new' biological communities qualify as biotic stressors."
+    }
+  },
+  "actions": {
+    "priority_habitat_identification": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Unfragmented Areas: The Unfragmented Areas map is based on the existence of large, contiguous landmasses that are not fragmented by barriers, the diversity of vegetation types within those land masses, and the importance of those areas to the overall availability of any particular vegetation type within the state.",
+          "location": "Focus Areas and Priority Landscapes (Ecosystem Health section)",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "An assessment developed by The Nature Conservancy was used to determine the Climate Change Focus Areas. Their assessment used a categorization approach frequently used in conservation planning to group temperature change and conservation importance into four classes of vulnerability.",
+          "location": "Focus Areas (Climate Change section)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document includes multiple spatially explicit priority area maps: unfragmented areas, climate change focus areas (TNC vulnerability categorization mapped), fire focus areas, forest stewardship priority areas, and SGCN richness maps. These satisfy the spatial representation criterion for score 2."
+    },
+    "targeted_range_shift_actions": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Though assisted migration is a controversial approach in conservation, climate change presents challenges to species and ecosystems that have not been encountered before. The speed of observed changes due to climate change in species habitat and life cycles is forcing changes in conservation biology thinking and practice. Many species cannot shift habitat ranges fast enough to deal with current and future rates of climate change, so land managers should begin to experiment with pilot approaches to assist migration to avoid species decline and possible extinction.",
+          "location": "Climate Change Critical Issue Description / Ecological changes (conversion of vegetation types)",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Increase habitat connectivity so wildlife are more capable of moving and shifting their permanent and seasonal habitats, to areas more similar in temperature/precipitation to their historical ranges. Landscape connectivity as a climate change adaptation strategy is being pursued in several regions across the nation and we can clearly see the benefits of connecting landscapes for improving ecosystem resiliency.",
+          "location": "Climate Change Critical Issue Description / Ecological changes (conversion of vegetation types)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "time_bound_and_monitoring": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Plans are being formulated for the groups to continue meeting periodically to shepherd the implementation, monitoring, reporting, and adaptation of the FAP.",
+          "location": "Future Actions (Conclusion section)",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "While the legislative mandate in the 2008 Farm Bill is a formal revision at five-year intervals or as required by the Secretary of Agriculture, we consider these to be dynamic and living documents where implementation will be monitored, assessed, reported, and adapted on a continuing basis.",
+          "location": "Future Actions (Conclusion section)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document endorses monitoring and adaptive management as principles, and the 5-year revision cycle is mandated. However, individual range-shift-related actions do not have specific deadlines attached to them in the action tables. The Forest Legacy Program development process does include time-bound steps (e.g., Step 1: January 15th), but these are process steps for a land protection program, not deadlines for range-shift-specific conservation actions. The monitoring framing is plan-level, not action-level. Scores 1 for deadlines at the plan level without action-level effectiveness monitoring tied to specific range shift actions."
+    },
+    "evidence_of_efficacy": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Thinning and burning treatment can reduce emissions of carbon dioxide by as much as 98%. The overall carbon balance of a managed forest is sensitive to the eventual outcome of how the wood products are utilized",
+          "location": "Climate Change Critical Issue Description / Climate Change Mitigation",
+          "sub_component": null,
+          "citations": ["'Carbon protection and fire risk reduction: toward a full accounting of forest carbon offsets', Hurteau, Mathew D., G.W. Koch, and B.A. Hungate. 2008, Front. Ecol. Environ. 6, DOI: 10.1890/070187"]
+        },
+        {
+          "text": "Use of mechanical thinning and controlled burning have been shown to reduce fire risk and net carbon released by wildfires.",
+          "location": "Climate Change Critical Issue Description / Climate Change Mitigation",
+          "sub_component": null,
+          "citations": ["'The effects of a thinning treatment on carbon stocks in a northern Arizona ponderosa pine forest.' Finkral and Evans, Forest Ecology and Management 255: pp 2743-2750"]
+        }
+      ],
+      "absence_note": "The document cites several studies supporting the efficacy of thinning and burning for reducing fire risk and carbon emissions (Finkral & Evans; Hurteau et al.), and provides a case study (Mayer Fuel Break) with direct outcome evidence. However, specific evidence for the efficacy of range-shift facilitation actions (assisted migration, connectivity) is largely absent — these are presented with rationale and general ecological reasoning but without directly applicable studies. The score of 2 reflects limited but real evidence (studies in the system for related actions, some case studies for fire management) rather than strong, directly applicable evidence for the specific range-shift actions discussed.",
+      "projects": ["The Mayer Fuel Break (2015): A 270-acre fuel break installed west of Mayer that halted the 2017 Goodwin Fire before it burned through the town. This project demonstrates the efficacy of fuels reduction treatments in protecting communities from wildfire, providing direct evidence of the effectiveness of this management approach.", "The Four Forest Restoration Initiative (4FRI): A landscape-scale forest restoration project on ~2.4 million acres in northern Arizona. The document references ongoing implementation and monitoring, and the White Mountain Stewardship Project is cited with a peer-reviewed assessment (Lucas et al. 2017), providing some evidence of socioeconomic outcomes but limited ecological efficacy data."]
+    },
+    "adaptation_planning_frameworks": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "The Association of Fish and Wildlife Agencies (AFWA), recommends using an adaptive management approach to deal with climate impacts. AFWA's recommended adaptive approach involves assessing existing conservation actions for their effectiveness under both current and future climates.",
+          "location": "Climate Change Critical Issue Description / Wildlife habitat",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document references adaptive management in the context of climate change, but does not use a specific named framework (RAD, RRT, CCVA, SBDA, etc.). The reference to AFWA's adaptive approach is general and non-specific. The document also mentions 'scenario investment planning' in the Collaboration section, but this is in an economic investment context, not a formal climate adaptation scenario planning framework (CCSP). Scores 1 for non-specific reference to adaptive management for climate impacts."
+    }
+  },
+  "coding_meta": {
+    "coder": "llm:claude-sonnet-4-6",
+    "model": "claude-sonnet-4-6",
+    "provider": "claude",
+    "codebook_version": "0.4",
+    "ingest": "text",
+    "design": "single",
+    "temperature": null,
+    "thinking": null,
+    "thinking_effort": null,
+    "coded_at": "2026-07-07T00:31:30Z",
+    "notes": {}
+  }
+}

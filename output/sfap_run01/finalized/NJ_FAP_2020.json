@@ -1,0 +1,860 @@
+{
+  "document_meta": {
+    "title": "New Jersey 2020 State Forest Action Plan (NJ SFAP)",
+    "year": 2020,
+    "jurisdiction": "New Jersey",
+    "document_type": "State Forest Action Plan",
+    "document_id": "NJ_FAP_2020",
+    "page_count": 311
+  },
+  "orientation": {
+    "summary": "The 2020 New Jersey State Forest Action Plan (NJ SFAP) is a state-level forest resource assessment and strategy document produced by the NJDEP Forest Service, fulfilling federal Farm Bill requirements. The document engages extensively with climate change as a central stressor on forest ecosystems, framing it as a 'climate crisis' requiring urgent action. It discusses range shifts explicitly — particularly for tree species, insects (e.g., southern pine beetle northward migration), and Atlantic white-cedar habitat loss to sea-level rise — and incorporates projections from the USDA Climate Change Tree Atlas. The document performs forest inventory analysis using FIA data and references/integrates tool-based results (Tree Atlas, CHANJ connectivity mapping, sea-level rise projections) to inform management decisions, but does not itself run new climate or niche models.",
+    "evidence_index": [
+      {
+        "text": "Enhancing biodiversity (i.e. fragmentation, invasive species, land use change/disturbance, and climate change) will be a hallmark of the forest management process and every effort will be made to reverse or reduce the deleterious effects of fragmentation, invasive species and climate change.",
+        "location": "ORGANIZATION OF NEW JERSEY'S 2020 FOREST ACTION PLAN",
+        "relevant_elements": ["1.1", "3.5"]
+      },
+      {
+        "text": "Due to its geography, population and other factors, New Jersey is especially vulnerable to the adverse impacts of climate change. In distilling the most current climate science and its particular relevance to the Garden State, the 2020 New Jersey Scientific Report on Climate Change explains the worsening impacts to our state under low-, moderate- and high-emission scenarios (NJDEP, 2020).",
+        "location": "Abiotic Damage Causing Agents - Climate Change",
+        "relevant_elements": ["1.1", "2.3"]
+      },
+      {
+        "text": "New Jersey is warming faster than the rest of the Northeast region and the world. Since 1895, New Jersey's annual temperature has increased by 3.5° F... Sea-levels are rising at a greater rate in New Jersey than other parts of the world.",
+        "location": "Abiotic Damage Causing Agents - Climate Change",
+        "relevant_elements": ["1.1", "3.5"]
+      },
+      {
+        "text": "New Jersey could even lose its state bird—the American Goldfinch—as it may become too hot for the species to nest here.",
+        "location": "Abiotic Damage Causing Agents - Climate Change",
+        "relevant_elements": ["1.1", "3.6", "C2"]
+      },
+      {
+        "text": "Differences in how individual tree species grow, survive and reproduce over time (life history processes) will be key in determining the response of each species to the effects of warming temperatures.",
+        "location": "General observations about",
+        "relevant_elements": ["1.2", "1.3"]
+      },
+      {
+        "text": "Life history processes such as flowering, pollination, photosynthetic dynamics, seed production, seed dispersal, germination, establishment, shade tolerance and response to competition are all species-specific.",
+        "location": "General observations about",
+        "relevant_elements": ["1.3"]
+      },
+      {
+        "text": "The USDA Forest Service Climate Change Tree Atlas has attempted to provide species-level predictions for tree species habitat suitability changes expected from different climate change scenarios (Prasad, et al. 2007-ongoing).",
+        "location": "General observations about",
+        "relevant_elements": ["2.2", "2.3"]
+      },
+      {
+        "text": "Predictions from the Tree Atlas based on climate variables describe a significant southern shift to the state's forest composition (Figures 38 and 39). Taking the average of the three high-emission scenarios used in development of the Tree Atlas, sweetgum, pitch pine, red maple and white oak remain some of the state's most important species.",
+        "location": "General observations about",
+        "relevant_elements": ["2.2", "2.3", "C2"]
+      },
+      {
+        "text": "Tree Atlas predictions indicate that the ranges of our current understory and co-dominant forest species, dominated by mesophitic trees (sweet birch, red maple, American beech), are most strongly affected by climate factors (Prasad, et al., 2007-ongoing).",
+        "location": "Mesophication",
+        "relevant_elements": ["2.2", "1.1", "C2"]
+      },
+      {
+        "text": "AWC forests have been in constant decline as a result of centuries of exploitation through cutting without planning for regeneration, development, deer browse, hardwood competition, salt-water intrusion from storms, as well as sea level rise from a changing climate and flooding due to beaver activity.",
+        "location": "Atlantic White-Cedar (Chamaecyparis thyoides)",
+        "relevant_elements": ["3.5", "3.6"]
+      },
+      {
+        "text": "Hence, loss of areal extent of this globally-rare species is expected with rising seas. Cedar swamps dying and becoming colonized by marsh species are not a new phenomenon... These examples show that AWC forests have been retreating with rising seas throughout the Holocene epoch.",
+        "location": "Sea-Level Rise",
+        "relevant_elements": ["3.5", "C2"]
+      },
+      {
+        "text": "Fragmentation also causes changes in habitat connectivity essential to the migration of animals, preventing movement of species through wildlife corridors.",
+        "location": "Extent of Forest Land Conversion, Fragmentation and Parcelization",
+        "relevant_elements": ["1.4"]
+      },
+      {
+        "text": "The value of large, resilient, connected forested landscapes for the conservation of biodiversity, plant and wildlife migration corridors and climate resiliency is well-documented (Anderson et al, 2016).",
+        "location": "Extent of Forest Land Conversion, Fragmentation and Parcelization",
+        "relevant_elements": ["1.4"]
+      },
+      {
+        "text": "The mission of CHANJ is: 'To envision and guide a landscape strategy that preserves, restores and maintains habitat connectivity for terrestrial wildlife across New Jersey, helping to ensure that healthy populations can persist long into the future.'",
+        "location": "Extent of Forest Land Conversion, Fragmentation and Parcelization",
+        "relevant_elements": ["1.4", "2.4", "4.1"]
+      },
+      {
+        "text": "Wildfire seasons could be lengthened, and the frequency of large fires increased due to the hot, dry periods that will result from increased temperatures.",
+        "location": "Abiotic Damage Causing Agents - Climate Change",
+        "relevant_elements": ["3.5", "3.6"]
+      },
+      {
+        "text": "Wildfire seasons could be lengthened, and the frequency of large fires increased from the warmer springs and longer summer dry periods that are expected with climate change due to these conditions causing drier soils and vegetation (Nolte et al. 2018).",
+        "location": "Wildfire and Climate Change",
+        "relevant_elements": ["3.5", "3.7"]
+      },
+      {
+        "text": "SPB behavior in New Jersey represents an early example of the current impacts of climate change. SPB has long been present in pine forests along New Jersey's Delaware Bay shore... Starting in the early 2000's New Jersey began to experience spot outbreaks of the beetle that progressively moved northward, especially along the coast. Rising winter minimum temperatures are thought to be responsible for this northward movement (Tran, et al. 2007).",
+        "location": "Climate Change and SPB",
+        "relevant_elements": ["3.6", "3.7", "C2"]
+      },
+      {
+        "text": "Issues associated with climate change will most likely lead to continued infestations, northern migration of SPB and the shifting of forest types.",
+        "location": "Southern Pine Beetle (Dendroctonus frontalis)",
+        "relevant_elements": ["3.6", "3.7", "C2"]
+      },
+      {
+        "text": "Native insects and pathogens are exhibiting trends of expanding native ranges as a result of changes in temperature from climate change.",
+        "location": "Long-term Monitoring and Trends",
+        "relevant_elements": ["3.6", "3.7", "C2"]
+      },
+      {
+        "text": "Climatic factors that could influence the ability of a species to invade include warmer temperatures, earlier springs and reduced snowpack (Hellmann et al., 2008; Ryan and Vose, 2012). Evidence indicates that increases in temperature, longer growing seasons and more frequent disturbances will lead to increases in many invasive plant species (Butler-Leopold et. al. 2018).",
+        "location": "Biotic Damage Causing Agents",
+        "relevant_elements": ["3.7"]
+      },
+      {
+        "text": "Future climate outlooks expect to favor oak and pine dominated systems as these clades compete better under physiologically droughty conditions. Conversely, northern hardwood communities are those most likely to be stressed by rising temperatures (Swanston, et al. 2018).",
+        "location": "Mesophication",
+        "relevant_elements": ["1.1", "1.2", "C2"]
+      },
+      {
+        "text": "Oak forests are thought to be more resilient to drought stress in the face of change than northern hardwood and maple forests, but it is unclear whether fine-scale processes will mitigate possible mortality from drought.",
+        "location": "Mesophication",
+        "relevant_elements": ["1.1", "1.2"]
+      },
+      {
+        "text": "A regional habitat connectivity plan provides spatial layers depicting structural connectivity, network importance, landscape permeability, and climate connectivity.",
+        "location": "4: FRAGMENTATION/HABITAT RESTORATION",
+        "relevant_elements": ["1.4", "2.4", "4.1"]
+      },
+      {
+        "text": "CHANJ offers tools and resources to guide these goals forward in a strategic way. Whether on the local or statewide scale, these tools can help land managers, transportation planners, conservation groups and the general public to visualize their place in New Jersey's habitat connectivity puzzle.",
+        "location": "4: FRAGMENTATION/HABITAT RESTORATION",
+        "relevant_elements": ["1.4", "2.4", "4.1"]
+      },
+      {
+        "text": "If tree species cannot adapt fast enough to changing climate conditions, forest and land managers need to consider the integration of proxy species to ensure that forests remain as forests and that essential ecologic and economic functions remain relatively consistent.",
+        "location": "3: CLIMATE - Species Proxy",
+        "relevant_elements": ["4.2", "1.2"]
+      },
+      {
+        "text": "The strategy of identifying southerly species (or other future-adapted species) that could act as native species proxies for ecologic and economic roles has also been identified as a climate change adaptation and mitigation plan action.",
+        "location": "3: CLIMATE - Species Proxy",
+        "relevant_elements": ["4.2", "4.5"]
+      },
+      {
+        "text": "In the last planning horizon (2010 NJ SFAP) the NJ Forest Service and its partners identified strategies that largely focused on location selection for activities to increase the odds of their success in the face of climate change impacts. One such example included choosing sites for AWC restoration that were not likely to be impacted by sea level rise.",
+        "location": "What's New in This Planning Horizon",
+        "relevant_elements": ["4.1", "4.2", "4.5"]
+      },
+      {
+        "text": "Work will also be conducted within sites that still have at least a remnant component of AWC from previous harvests to use as seed trees in locations high enough in elevation that they aren't threatened by sea level rise and that connect to larger patches of AWC habitat.",
+        "location": "Atlantic White-Cedar (strategies section)",
+        "relevant_elements": ["4.1", "4.2"]
+      },
+      {
+        "text": "The NJ Forest Service is dedicated to restoring approximately 10,000 acres of AWC forest statewide within the next ten years.",
+        "location": "Atlantic White-Cedar (strategies section)",
+        "relevant_elements": ["4.3"]
+      },
+      {
+        "text": "The NJ Forest Service considers the potential outcomes in forest stewardship plans for at least 40 years into the future.",
+        "location": "3: FOREST MANAGEMENT PLANS (SCALABLE MANAGEMENT) Public Lands Management",
+        "relevant_elements": ["4.3"]
+      },
+      {
+        "text": "The creation of CHANJ was an effort to make New Jersey landscape and roadways friendlier to wildlife movement by identifying key areas and actions needed to achieve habitat connectivity across the state. The project was designed to help prioritize land protection, inform habitat restoration and management and guide mitigation of road barrier effects on wildlife and their habitats.",
+        "location": "4: Fragmentation/Habitat Restoration Strategies",
+        "relevant_elements": ["1.4", "2.4", "4.1", "4.2"]
+      },
+      {
+        "text": "Sea-level rise projections (Ft. above year 2000 average sea-level) for New Jersey from 2030 to 2150 under low, moderate and high emissions scenarios.",
+        "location": "Sea-Level Rise (Figure 41 caption)",
+        "relevant_elements": ["2.3"]
+      },
+      {
+        "text": "Under the moderate emission scenario, the likely range of increased rates of rise are between 0.2 to 0.8 in/yr (5.1-20 mm/yr) over 2060 to 2100.",
+        "location": "Sea-Level Rise",
+        "relevant_elements": ["2.3"]
+      },
+      {
+        "text": "Species with low adaptive capacity such as those with specialized habitat needs or limited dispersal ability face higher vulnerability to these changes.",
+        "location": "General observations about",
+        "relevant_elements": ["1.2", "1.3"]
+      },
+      {
+        "text": "GDDs can impact the emergence time of insect pests, allowing pests that could only develop at more southern latitude states to now emerge in New Jersey or allow more or larger generations of insect pests to emerge per year.",
+        "location": "General observations about",
+        "relevant_elements": ["3.6", "3.7"]
+      },
+      {
+        "text": "The NJ Forest Service is also working toward the restoration of shortleaf pine... to restore this ecologically important tree species to its former position within the New Jersey landscape.",
+        "location": "Shortleaf Pine (strategies section)",
+        "relevant_elements": ["4.1", "4.2"]
+      },
+      {
+        "text": "Natural resource stewardship planning on state-owned forest land takes into consideration creating habitat corridors as well as benefits for threatened and endangered species and their associated habitat through guided prescribed treatments.",
+        "location": "4: FRAGMENTATION/HABITAT RESTORATION",
+        "relevant_elements": ["1.4", "4.1", "4.2"]
+      },
+      {
+        "text": "One of the strategies of NJDEP is to utilize and develop tools that maintain and enhance forest heterogeneity and structural complexity. Through retainment of biological legacies persisting after disturbance, the NJ Forest Service applies the understanding of structural complexity and its role in biodiversity as a strategy.",
+        "location": "1: BIODIVERSITY",
+        "relevant_elements": ["4.5"]
+      },
+      {
+        "text": "The strategies are data driven and make use of the best science available at the time of the drafting of this document.",
+        "location": "Strategies by National Priorities",
+        "relevant_elements": ["4.4"]
+      },
+      {
+        "text": "Figure 40. Change in 'Importance Value' for selected species in New Jersey. Species with a higher importance value are more abundant in forestland and are expected to be more suited to climatic growing conditions in the years indicated.",
+        "location": "Figure 40 caption",
+        "relevant_elements": ["2.2", "2.3", "C2"]
+      },
+      {
+        "text": "A significant component of this strategy should be comprised of scientific research involving proxy species considerations for potential ecosystem impacts and successes.",
+        "location": "3: CLIMATE - Species Proxy",
+        "relevant_elements": ["4.4", "4.5"]
+      },
+      {
+        "text": "These broad strategies will serve to steer the management of forest and tree resources through the next decade.",
+        "location": "Strategies by National Priorities",
+        "relevant_elements": ["4.3"]
+      },
+      {
+        "text": "Species X is sensitive to projected warming and lacks the capacity to adapt; eastern hemlock trees face rising temperatures, extended periods and herbivory pressure from deer to the extent that the eastern hemlock forest type is no longer detected across the New Jersey landscape through the FIA nationwide inventory system.",
+        "location": "Eastern Hemlock (Tsuga canadensis)",
+        "relevant_elements": ["1.1", "3.5", "3.6"]
+      }
+    ]
+  },
+  "concepts": {
+    "climate_vulnerability": {
+      "evaluable": true,
+      "score": 3,
+      "evidence": [
+        {
+          "text": "Due to its geography, population and other factors, New Jersey is especially vulnerable to the adverse impacts of climate change. In distilling the most current climate science and its particular relevance to the Garden State, the 2020 New Jersey Scientific Report on Climate Change explains the worsening impacts to our state under low-, moderate- and high-emission scenarios (NJDEP, 2020).",
+          "location": "Abiotic Damage Causing Agents - Climate Change",
+          "sub_component": "exposure",
+          "citations": ["NJDEP, 2020"]
+        },
+        {
+          "text": "Future climate outlooks expect to favor oak and pine dominated systems as these clades compete better under physiologically droughty conditions. Conversely, northern hardwood communities are those most likely to be stressed by rising temperatures (Swanston, et al. 2018).",
+          "location": "Mesophication",
+          "sub_component": "sensitivity",
+          "citations": ["Swanston, et al. 2018"]
+        },
+        {
+          "text": "Species with low adaptive capacity such as those with specialized habitat needs or limited dispersal ability face higher vulnerability to these changes.",
+          "location": "General observations about",
+          "sub_component": "adaptive capacity",
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "adaptive_capacity_specificity": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Differences in how individual tree species grow, survive and reproduce over time (life history processes) will be key in determining the response of each species to the effects of warming temperatures.",
+          "location": "General observations about",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Species with low adaptive capacity such as those with specialized habitat needs or limited dispersal ability face higher vulnerability to these changes.",
+          "location": "General observations about",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "adaptive_capacity_components": {
+      "demography": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Life history processes such as flowering, pollination, photosynthetic dynamics, seed production, seed dispersal, germination, establishment, shade tolerance and response to competition are all species-specific.",
+            "location": "General observations about",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "distribution": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Predictions from the Tree Atlas based on climate variables describe a significant southern shift to the state's forest composition (Figures 38 and 39). Taking the average of the three high-emission scenarios used in development of the Tree Atlas, sweetgum, pitch pine, red maple and white oak remain some of the state's most important species.",
+            "location": "General observations about",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "movement": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Species with low adaptive capacity such as those with specialized habitat needs or limited dispersal ability face higher vulnerability to these changes.",
+            "location": "General observations about",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "evolutionary_potential": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The success of future restoration projects for butternut relies heavily on the tree's natural ability to tolerate butternut canker and in producing sufficient seed for natural regeneration of offspring. This can be achieved by encouraging a population of parent trees best acclimated to New Jersey's ecosystem and through the conservation of New Jersey native butternut genetics.",
+            "location": "Butternut (Juglans cinerea)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecological_dependencies": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "A climatic species that can leaf-out early and extend its growing season might be a better competitor with warmer springs, but sensitivity to late-season frost may make this behavior a liability compared to a more conservative or frost-hardy neighbor (Hufkens, et al. 2012).",
+            "location": "General observations about",
+            "sub_component": null,
+            "citations": ["Hufkens, et al. 2012"]
+          }
+        ]
+      },
+      "abiotic_niche": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Cool humid conditions and moist soils are vital to the establishment and successful growth of eastern hemlock trees.",
+            "location": "Eastern Hemlock (Tsuga canadensis)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "life_history": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Differences in how individual tree species grow, survive and reproduce over time (life history processes) will be key in determining the response of each species to the effects of warming temperatures.",
+            "location": "General observations about",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      }
+    },
+    "connectivity": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "The value of large, resilient, connected forested landscapes for the conservation of biodiversity, plant and wildlife migration corridors and climate resiliency is well-documented (Anderson et al, 2016).",
+          "location": "Extent of Forest Land Conversion, Fragmentation and Parcelization",
+          "sub_component": null,
+          "citations": ["Anderson et al, 2016"]
+        },
+        {
+          "text": "Riparian corridors also function as climate corridors, allowing species to move up in elevation in response to warming temperatures.",
+          "location": "4: FRAGMENTATION/HABITAT RESTORATION",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document explicitly frames connectivity in climate contexts, referencing 'climate resiliency' and climate corridors."
+    }
+  },
+  "tools": {
+    "vulnerability_models": {
+      "evaluable": true,
+      "score": 0,
+      "named_tools": [],
+      "evidence": [],
+      "absence_note": "No formal vulnerability models (CCVI, PVA, NatureServe tools) are referenced or applied. The document references a 2013 NJ-specific 'Vulnerability of 70 Plant Species of Greatest Conservation Need to Climate Change in New Jersey' study in the works-cited section, but there is no in-text engagement with a formal vulnerability model applied to the plan's focal species."
+    },
+    "niche_models": {
+      "evaluable": true,
+      "score": 2,
+      "named_tools": ["Climate Change Tree Atlas"],
+      "evidence": [
+        {
+          "text": "The USDA Forest Service Climate Change Tree Atlas has attempted to provide species-level predictions for tree species habitat suitability changes expected from different climate change scenarios (Prasad, et al. 2007-ongoing). Refined over the last 13 years using more than 80,000 continuous forest inventory plots (FIA), the Tree Atlas provides reliability estimates and expected ranges under climate change scenarios for roughly 125 tree species in eastern North America.",
+          "location": "General observations about",
+          "sub_component": null,
+          "citations": ["Prasad, et al. 2007-ongoing"]
+        },
+        {
+          "text": "Predictions from the Tree Atlas based on climate variables describe a significant southern shift to the state's forest composition (Figures 38 and 39). Taking the average of the three high-emission scenarios used in development of the Tree Atlas, sweetgum, pitch pine, red maple and white oak remain some of the state's most important species.",
+          "location": "General observations about",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_models": {
+      "evaluable": true,
+      "score": 2,
+      "named_tools": ["SLOSH model"],
+      "evidence": [
+        {
+          "text": "The 2020 New Jersey Scientific Report on Climate Change explains the worsening impacts to our state under low-, moderate- and high-emission scenarios (NJDEP, 2020).",
+          "location": "Abiotic Damage Causing Agents - Climate Change",
+          "sub_component": null,
+          "citations": ["NJDEP, 2020"]
+        },
+        {
+          "text": "Sea-levels could rise by as much as 5.1 feet by the year 2100 and 8.3 feet by the year 2150 under a moderate emissions scenario.",
+          "location": "Abiotic Damage Causing Agents - Climate Change",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {},
+      "time_horizon_years": [2030, 2050, 2100, 2150],
+      "emission_scenarios": ["low-emission", "moderate-emission", "high-emission"]
+    },
+    "connectivity_models": {
+      "evaluable": true,
+      "score": 2,
+      "named_tools": ["CHANJ (Connecting Habitat Across New Jersey)"],
+      "evidence": [
+        {
+          "text": "The creation of CHANJ was an effort to make New Jersey landscape and roadways friendlier to wildlife movement by identifying key areas and actions needed to achieve habitat connectivity across the state. The project was designed to help prioritize land protection, inform habitat restoration and management and guide mitigation of road barrier effects on wildlife and their habitats.",
+          "location": "4: Fragmentation/Habitat Restoration Strategies",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "In 2019 the NJDEP Division of Fish & Wildlife rolled out tools for prioritizing habitat conservation in New Jersey, including the Connecting Habitat Across New Jersey (CHANJ) mapping tool and the CHANJ Guidance Document.",
+          "location": "4: Fragmentation/Habitat Restoration Strategies",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    }
+  },
+  "context": {
+    "management_scale": {
+      "local": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "These strategies allow forest land managers to make informed decisions as to management impacts at multiple scales and how to plan accordingly.",
+            "location": "1: BIODIVERSITY",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "site": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "In addition, state-owned forested lands are also inventoried at the operational level in order to quantify how forest conditions will be and have been altered through forest management activities. These inventories assess individual site conditions.",
+            "location": "Guiding Principles: Framework",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "watershed": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The protection of watersheds through proper forest management is important to better protect key regions throughout the state of New Jersey. These key regions include the Highlands, Pinelands and Delaware River Basin.",
+            "location": "Water Monitoring",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "city": {
+        "present": false,
+        "evidence": []
+      },
+      "county": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The conversion of forest land to developed land was found to be highest in Hudson, Bergen and Essex Counties. In each of these counties, average patch sizes have decreased by one acre since 2006.",
+            "location": "Extent of Forest Land Conversion, Fragmentation and Parcelization",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "within_state_region": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Specifically, Conservation Focal Areas (CFAs) in landscape regions like the Piedmont, Pinelands and Skylands areas are identified for their continuity; while concerns are raised about connectivity across more urbanized areas throughout the state.",
+            "location": "Extent of Forest Land Conversion, Fragmentation and Parcelization",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "state": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The 2020 NJ State Forest Action Plan (NJ SFAP) reassesses the state's forest resources and provides forest owners, land managers, and other natural resource professionals with the ability to make informed decisions about forest resources across the state.",
+            "location": "FOREST RESOURCE CONDITIONS AND TRENDS",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "multistate": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The Highlands region which connects Connecticut, New York, New Jersey and Pennsylvania included continuous conservation efforts from 2015 to 2020 from the Appalachian Trail conservancy to provide links through different land ownerships.",
+            "location": "4: Fragmentation/Habitat Restoration Strategies",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "national": {
+        "present": false,
+        "evidence": []
+      },
+      "transnational": {
+        "present": false,
+        "evidence": []
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The forests of New Jersey's Pinelands Region have witnessed a steady increase in RDI over the last century. These forests, adapted to re-sprout and establish new generations of forest after significant fire disturbances, have experienced a lessening in the frequency and extent of fire.",
+            "location": "Density Management",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecoregion": {
+        "present": false,
+        "evidence": []
+      },
+      "province": {
+        "present": false,
+        "evidence": []
+      },
+      "section": {
+        "present": false,
+        "evidence": []
+      },
+      "subsection": {
+        "present": false,
+        "evidence": []
+      },
+      "lake": {
+        "present": false,
+        "evidence": []
+      },
+      "river": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Along the northwestern boundary of New Jersey, following along the Delaware River, is the Delaware River Basin (Figure 65). Currently, this segment is part of the Delaware River Basin Commission's (DRBC) Special Protection Waters program.",
+            "location": "Delaware River Basin",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "district": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["Pinelands Region", "Highlands Region", "Delaware River Basin", "Piedmont", "Skylands", "New Jersey Pinelands", "Coastal Zone", "Barnegat Bay"]
+    },
+    "biological_unit_score": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Predictions from the Tree Atlas based on climate variables describe a significant southern shift to the state's forest composition (Figures 38 and 39).",
+          "location": "General observations about",
+          "sub_component": "species",
+          "citations": []
+        },
+        {
+          "text": "AWC forests have been in constant decline as a result of centuries of exploitation through cutting without planning for regeneration, development, deer browse, hardwood competition, salt-water intrusion from storms, as well as sea level rise from a changing climate.",
+          "location": "Atlantic White-Cedar (Chamaecyparis thyoides)",
+          "sub_component": "habitat",
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "biological_unit_components": {
+      "species": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Predictions from the Tree Atlas based on climate variables describe a significant southern shift to the state's forest composition (Figures 38 and 39). Taking the average of the three high-emission scenarios used in development of the Tree Atlas, sweetgum, pitch pine, red maple and white oak remain some of the state's most important species.",
+            "location": "General observations about",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "population": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The current diminished extent compared to historical levels of this species makes the threat from sea level rise that much more pressing, as AWC will likely find difficulty in establishing itself in new sites to replace those lost from increased salinity in coastal areas.",
+            "location": "Sea-Level Rise",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "habitat": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "AWC forests have been in constant decline as a result of centuries of exploitation through cutting without planning for regeneration, development, deer browse, hardwood competition, salt-water intrusion from storms, as well as sea level rise from a changing climate and flooding due to beaver activity.",
+            "location": "Atlantic White-Cedar (Chamaecyparis thyoides)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Issues associated with climate change will most likely lead to continued infestations, northern migration of SPB and the shifting of forest types. This could reduce habitat favorable of pine dependent wildlife species, increase wildfire risk, cause loss of forest revenue.",
+            "location": "Southern Pine Beetle (Dendroctonus frontalis)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "community": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The rich biodiversity dependent on mature oak forests faces negative outcomes from habitat transitions to northern hardwoods.",
+            "location": "Mesophication",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "genotype_phenotype": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The success of future restoration projects for butternut relies heavily on the tree's natural ability to tolerate butternut canker and in producing sufficient seed for natural regeneration of offspring. This can be achieved by encouraging a population of parent trees best acclimated to New Jersey's ecosystem and through the conservation of New Jersey native butternut genetics.",
+            "location": "Butternut (Juglans cinerea)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "named_entities": ["eastern hemlock", "Atlantic white-cedar", "southern pine beetle", "pitch pine", "oak-hickory forest type-group", "shortleaf pine", "butternut", "red maple", "loblolly pine", "American chaffseed", "American Goldfinch"]
+    },
+    "partnerships_and_funding": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "The NJ Forest Service is dedicated to restoring approximately 10,000 acres of AWC forest statewide within the next ten years. Funding for AWC restoration strategies on state-owned lands will come from NRD settlements between the state of New Jersey and companies that have polluted ground-water resources.",
+          "location": "Atlantic White-Cedar (strategies section)",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "The NJ Forest Service has received NRD funding to do such activities. Resources required to support thinning objectives across the state of New Jersey include funding for the implementation of activities, research and monitoring.",
+          "location": "Mesophication",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_threat_habitat_degradation": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "AWC forests have been in constant decline as a result of centuries of exploitation through cutting without planning for regeneration, development, deer browse, hardwood competition, salt-water intrusion from storms, as well as sea level rise from a changing climate and flooding due to beaver activity.",
+          "location": "Atlantic White-Cedar (Chamaecyparis thyoides)",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Wildfire seasons could be lengthened, and the frequency of large fires increased from the warmer springs and longer summer dry periods that are expected with climate change due to these conditions causing drier soils and vegetation (Nolte et al. 2018).",
+          "location": "Wildfire and Climate Change",
+          "sub_component": null,
+          "citations": ["Nolte et al. 2018"]
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_threat_species_vital_rates": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "SPB behavior in New Jersey represents an early example of the current impacts of climate change. SPB has long been present in pine forests along New Jersey's Delaware Bay shore, but its role was silviculturally insignificant, killing isolated unhealthy trees. Starting in the early 2000's New Jersey began to experience spot outbreaks of the beetle that progressively moved northward, especially along the coast. Rising winter minimum temperatures are thought to be responsible for this northward movement (Tran, et al. 2007).",
+          "location": "Climate Change and SPB",
+          "sub_component": null,
+          "citations": ["Tran, et al. 2007"]
+        },
+        {
+          "text": "New Jersey could even lose its state bird—the American Goldfinch—as it may become too hot for the species to nest here.",
+          "location": "Abiotic Damage Causing Agents - Climate Change",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_threat_biotic_stressors": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Climatic factors that could influence the ability of a species to invade include warmer temperatures, earlier springs and reduced snowpack (Hellmann et al., 2008; Ryan and Vose, 2012). Evidence indicates that increases in temperature, longer growing seasons and more frequent disturbances will lead to increases in many invasive plant species (Butler-Leopold et. al. 2018).",
+          "location": "Biotic Damage Causing Agents",
+          "sub_component": null,
+          "citations": ["Hellmann et al., 2008", "Ryan and Vose, 2012", "Butler-Leopold et. al. 2018"]
+        },
+        {
+          "text": "Native insects and pathogens are exhibiting trends of expanding native ranges as a result of changes in temperature from climate change. The impacts of native DCAs in new geographical areas could cause similar widespread impacts as non-native DCAs.",
+          "location": "Long-term Monitoring and Trends",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    }
+  },
+  "actions": {
+    "priority_habitat_identification": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "The creation of CHANJ was an effort to make New Jersey landscape and roadways friendlier to wildlife movement by identifying key areas and actions needed to achieve habitat connectivity across the state. The project was designed to help prioritize land protection, inform habitat restoration and management and guide mitigation of road barrier effects on wildlife and their habitats.",
+          "location": "4: Fragmentation/Habitat Restoration Strategies",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Work will also be conducted within sites that still have at least a remnant component of AWC from previous harvests to use as seed trees in locations high enough in elevation that they aren't threatened by sea level rise and that connect to larger patches of AWC habitat.",
+          "location": "Atlantic White-Cedar (strategies section)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "targeted_range_shift_actions": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "If tree species cannot adapt fast enough to changing climate conditions, forest and land managers need to consider the integration of proxy species to ensure that forests remain as forests and that essential ecologic and economic functions remain relatively consistent.",
+          "location": "3: CLIMATE - Species Proxy",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "The strategy of identifying southerly species (or other future-adapted species) that could act as native species proxies for ecologic and economic roles has also been identified as a climate change adaptation and mitigation plan action by the Pennsylvania Department of Conservation and Natural Resources (2018) and several other states across the country.",
+          "location": "3: CLIMATE - Species Proxy",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "time_bound_and_monitoring": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "The NJ Forest Service is dedicated to restoring approximately 10,000 acres of AWC forest statewide within the next ten years.",
+          "location": "Atlantic White-Cedar (strategies section)",
+          "sub_component": "deadline",
+          "citations": []
+        },
+        {
+          "text": "The NJ Forest Service considers the potential outcomes in forest stewardship plans for at least 40 years into the future. This is compatible with permitting by the New Jersey Pinelands Commission, even though activities which require Pinelands permits are only valid for ten years.",
+          "location": "3: FOREST MANAGEMENT PLANS (SCALABLE MANAGEMENT) Public Lands Management",
+          "sub_component": "monitoring",
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "evidence_of_efficacy": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Studies across the forests of Montana, Oregon, California and Arizona determined that thinning treatments and the effects on carbon suggest most of the benefits of increased fire resistance can be achieved with relatively small reductions in current carbon stocks (Stephens et al. 2012).",
+          "location": "Density Management",
+          "sub_component": null,
+          "citations": ["Stephens et al. 2012"]
+        },
+        {
+          "text": "Research conducted by Jay Kelly (2019)... determined that there were 5 to 40 times more exotic shrub, liana and herb cover during the time period between 1948-1973 and 2014-2018. He also determined that a major shift in overall species composition from predominately native species cover (≥95%) to a majority of exotic species cover in shrubs and lianas (54%).",
+          "location": "2: DCA Strategies",
+          "sub_component": null,
+          "citations": ["Kelly, 2019"]
+        }
+      ],
+      "absence_note": {},
+      "projects": ["Drexel University studies at Warren Grove Air to Ground Gunnery Range (2011-2013) examined prescribed burning effects on Pine Barren gentian demography, finding positive same-year effects of winter burns on gentian populations, providing evidence that fire management supports climate-adapted rare plant recovery.", "Jay Kelly (2019) at Raritan Valley Community College documented major declines in native understory composition correlated with deer density increases from 1948-2018, providing field evidence supporting deer management as a forest restoration strategy.", "Studies across Montana, Oregon, California and Arizona (Stephens et al. 2012) documented that thinning treatments can reduce wildfire carbon loss risks with minimal reductions in current carbon stocks, providing evidence for the density management strategy applied in New Jersey."]
+    },
+    "adaptation_planning_frameworks": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "The NJ Forest Service represents a living document, meant to be flexible as the state's environmental conditions and human values change.",
+          "location": "Strategies by National Priorities",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Manage for diverse, resilient forest ecosystems that have the greatest chance of persisting as the global climate changes. 2) Recognize anthropogenic impacts that leave forest resources vulnerable to climate change and address in management planning. 3) Recognize and manage for carbon storage and sequestration.",
+          "location": "2: PROTECT FORESTS FROM THREATS 1: RESILIENCY (USDA Forest Service Matrix table)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document references adaptive management principles and climate-oriented planning broadly, but does not explicitly name frameworks such as RAD, RRT, SBDA, or structured decision-making in a climate context. Score of 1 reflects generic/non-specific reference to climate adaptation planning principles."
+    }
+  },
+  "coding_meta": {
+    "coder": "llm:claude-sonnet-4-6",
+    "model": "claude-sonnet-4-6",
+    "provider": "claude",
+    "codebook_version": "0.4",
+    "ingest": "text",
+    "design": "single",
+    "temperature": null,
+    "thinking": null,
+    "thinking_effort": null,
+    "coded_at": "2026-07-07T00:31:32Z",
+    "notes": {}
+  }
+}

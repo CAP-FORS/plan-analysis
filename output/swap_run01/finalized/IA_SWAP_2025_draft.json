@@ -1,0 +1,805 @@
+{
+  "document_meta": {
+    "title": "Iowa Wildlife Action Plan (IWAP) 2025 Draft Comprehensive Revision",
+    "year": 2025,
+    "jurisdiction": "Iowa",
+    "document_type": "SWAP",
+    "document_id": "IA_SWAP_2025_draft",
+    "page_count": 282
+  },
+  "orientation": {
+    "summary": "This is the 2025 comprehensive revision of Iowa's State Wildlife Action Plan (SWAP), a state-level biodiversity and wildlife conservation planning document produced by the Iowa Department of Natural Resources. The document covers species status assessments, habitat conditions, threats, and conservation actions for Iowa's Species of Greatest Conservation Need (SGCN). Climate change is acknowledged as a significant threat (rated Very High for several taxa groups), but the document's posture is largely traditional conservation planning—habitat protection, restoration, monitoring, and species management—with only limited, non-specific engagement with range shift science. The document performs its own species status assessments, threat assessments, and geographic prioritization, but does not conduct formal vulnerability modeling, niche modeling, or connectivity modeling specifically framed around climate-driven range shifts. References to climate-driven distributional change are present but peripheral rather than central to the planning framework.",
+    "evidence_index": [
+      {
+        "text": "Iowa's temperature has been gradually increasing (Box 2-1). These changing weather patterns can influence wildlife distribution, survival, disease, or the ecosystems they rely on.",
+        "location": "Chapter 1-2 IWAP Revision.pdf, Box 2-1 Seasonal Climate Trends",
+        "relevant_elements": ["1.1", "3.5", "3.6"]
+      },
+      {
+        "text": "Iowa now has a statewide average of five more frost-free days per year than 50 years ago, and 8 to 9 more than at the beginning of the 20th century. This provides Iowa with a longer growing season, earlier seasonal snowmelt, and longer ice-free period on lakes and streams",
+        "location": "Chapter 1-2 IWAP Revision.pdf, Climate section",
+        "relevant_elements": ["1.1", "3.5", "3.7"]
+      },
+      {
+        "text": "Annual temperatures in Iowa show an increasing trend with the warming concentrated in winter and fall (a). Annual precipitation has also had an increasing trend, with most increases coming in spring and summer (b) (NOAA 2025).",
+        "location": "Chapter 1-2 IWAP Revision.pdf, Box 2-1",
+        "relevant_elements": ["1.1", "2.3"]
+      },
+      {
+        "text": "As ranges of plant species contract, expand or shift, the plant communities that wildlife inhabit will change, and could encroach upon adjacent systems.",
+        "location": "Chapter 5 IWAP Conservation Challenges.pdf, Changes in Physical and Chemical Regimes",
+        "relevant_elements": ["1.1", "3.5", "3.7", "C2"]
+      },
+      {
+        "text": "Climate Change — Change in climate patterns resulting from increased atmospheric greenhouse gases. Changes in Physical and Chemical Regimes: In the Midwest, summertime precipitation is increasingly variable, leading to more frequent periods of drought and more frequent intense rainfall events.",
+        "location": "Chapter 5 IWAP Conservation Challenges.pdf, Climate Change section",
+        "relevant_elements": ["1.1", "3.5"]
+      },
+      {
+        "text": "Broad scale changes in temperature, fluctuations or extremes in temperatures in a geographical area. Even small increases in mean temperature are correlated with more frequent extreme temperature events. In Iowa, temperature increases have been more pronounced in winter and during nighttime.",
+        "location": "Chapter 5 IWAP Conservation Challenges.pdf, Changes in Temperature Regimes",
+        "relevant_elements": ["1.1", "3.6"]
+      },
+      {
+        "text": "11. Climate Change | VH | VH | VH | H | H | H",
+        "location": "Chapter 5 IWAP Conservation Challenges.pdf, Table 5-4",
+        "relevant_elements": ["1.1", "3.5", "3.6", "3.7"]
+      },
+      {
+        "text": "11. Climate Change | VH | VH | VH",
+        "location": "Chapter 5 IWAP Conservation Challenges.pdf, Table 5-14 (Bumble Bees)",
+        "relevant_elements": ["1.1", "3.5"]
+      },
+      {
+        "text": "11. Climate Change | H-M | VH | H | H",
+        "location": "Chapter 5 IWAP Conservation Challenges.pdf, Table 5-6 (Aquatic Wildlife)",
+        "relevant_elements": ["1.1", "3.5"]
+      },
+      {
+        "text": "It is possible that re-doing the assessments for each taxa would result in the Natural Disasters category moving from scores of '-' to another category... the impact of the change in timing of the flood (summer more likely now instead of early spring) would still be captured in the Climate Change category",
+        "location": "Chapter 5 IWAP Conservation Challenges.pdf, note on IUCN taxonomy change",
+        "relevant_elements": ["3.5", "3.6"]
+      },
+      {
+        "text": "Increasing connectivity -protecting and/or managing for wildlife use of areas between existing habitat core areas to facilitate movement between these areas.",
+        "location": "Chapter 4 IWAP Revision.pdf, Priorities for Habitat Protection",
+        "relevant_elements": ["1.4", "4.1", "4.2"]
+      },
+      {
+        "text": "Fragmentation must be minimized by developing large blocks of habitat connected by corridors for the free exchange of organisms.",
+        "location": "Chapter 6 IWAP Visions.pdf, Conservation Strategies and Actions",
+        "relevant_elements": ["1.4", "4.1", "4.2"]
+      },
+      {
+        "text": "Continuing to develop a diverse base of native ecosystems and movement corridors for wildlife is essential for the preservation of Iowa's wildlife populations.",
+        "location": "Chapter 11 IWAP Revision.pdf, Conclusion",
+        "relevant_elements": ["1.4", "4.2"]
+      },
+      {
+        "text": "Establishing new habitats and restoring populations will extend the range of these species, provide the potential for greater genetic diversity and interaction between populations, and reduce the chances of local population extinctions if travel corridors are also provided.",
+        "location": "Chapter 8 IWAP 2025 Draft.pdf, Priorities for Vision Elements",
+        "relevant_elements": ["1.3", "1.4", "4.2"]
+      },
+      {
+        "text": "connections may need to be developed between habitat blocks, etc.",
+        "location": "Chapter 8 IWAP 2025 Draft.pdf, Goal 2 Populations of SGCN",
+        "relevant_elements": ["1.4", "4.2"]
+      },
+      {
+        "text": "Evaluating connectivity between core habitat areas; Evaluating landscape permeability; Quantifying ecosystem functioning",
+        "location": "Chapter 7 IWAP Res & Mon.pdf, Table 7-1",
+        "relevant_elements": ["1.4", "2.4"]
+      },
+      {
+        "text": "A collaboration between Iowa State University and the Iowa DNR used MSIM data and modern, sophisticated statistical procedures to create species distribution maps for more than 100 species of conservation concern across the state.",
+        "location": "Chapter 11 IWAP Revision.pdf, Putting Iowa SGCN on the map",
+        "relevant_elements": ["2.2", "4.1"]
+      },
+      {
+        "text": "These spatial models, based upon landscape variables and microhabitat variables, will be beneficial in the implementation of the revision. Using these predictive maps, we should be able to more effectively focus conservation efforts for priority SGCN.",
+        "location": "Chapter 7 IWAP Res & Mon.pdf, Objective 3",
+        "relevant_elements": ["2.2", "4.1"]
+      },
+      {
+        "text": "The Gap Analysis Program (2003) predicted species occurrences based upon given habitat classification and locations throughout the state of Iowa. Terrestrial GAP models are only available for birds, mammals, amphibians, and reptiles. Aquatic GAP models have been developed for fish.",
+        "location": "Chapter 7 IWAP Res & Mon.pdf, Objective 3",
+        "relevant_elements": ["2.2"]
+      },
+      {
+        "text": "With funding from a State Wildlife Action Plan Enhancement State Wildlife Grant in 2015, we used the predictive mathematical models to create predictive species distribution maps similar to GAP.",
+        "location": "Chapter 7 IWAP Res & Mon.pdf, Objective 3",
+        "relevant_elements": ["2.2"]
+      },
+      {
+        "text": "National Fish, Wildlife and Plants Climate Change Adaptation Strategy",
+        "location": "Appendix 20_Additional Resources.pdf, Plans and Strategies",
+        "relevant_elements": ["4.5"]
+      },
+      {
+        "text": "Iowa DNR partnered with Iowa State University to use data from the Multi-species Inventory and Monitoring (MSIM) Program and land cover to predict the distribution of species of conservation concern across Iowa (a). The maps can be combined to generate composite estimates of species richness across the state",
+        "location": "Chapter 7 IWAP Res & Mon.pdf, Box 7-1 caption",
+        "relevant_elements": ["2.2", "4.1"]
+      },
+      {
+        "text": "Iowa will use new information or changing conditions to adapt our conservation actions. When new threats or actions arise, they will be addressed in a manner that is in accordance with this Plan",
+        "location": "Chapter 7 IWAP Res & Mon.pdf, Adapting Conservation Actions",
+        "relevant_elements": ["4.5"]
+      },
+      {
+        "text": "The inventory and monitoring programs and research projects described in this chapter will support efforts to implement this Plan in an Adaptive Resource Management (ARM) framework (Vision Element #3).",
+        "location": "Chapter 7 IWAP Res & Mon.pdf, Adaptive Resource Management",
+        "relevant_elements": ["4.3", "4.5"]
+      },
+      {
+        "text": "Provisions for periodic monitoring of SGCN and their habitats, for monitoring the effectiveness of conservation actions, and for adapting these conservation actions as appropriate to respond to new information or changing conditions.",
+        "location": "Chapter 1-2 IWAP Revision.pdf, The Eight Required Elements",
+        "relevant_elements": ["4.3"]
+      },
+      {
+        "text": "A formal review of the IWAP will be conducted every 10 years as described in Chapter 9.",
+        "location": "Chapter 7 IWAP Res & Mon.pdf, Adapting Conservation Actions",
+        "relevant_elements": ["4.3"]
+      },
+      {
+        "text": "Iowa DNR has received approximately $17 million in WCRP and SWG funds from 2001-2025, with an average annual appropriation of ~$686,300. These funds have been used to implement this Plan through increased research, habitat protection, and management for Species of Greatest Conservation Need",
+        "location": "Chapter 1-2 IWAP Revision.pdf, State and Tribal Wildlife Grants Program",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "Iowa must match the SWG income with non-federal funds and many partners have worked together to leverage the federal funds in order to most effectively conserve the species and habitats that were identified as priorities within this Plan.",
+        "location": "Chapter 1-2 IWAP Revision.pdf, State and Tribal Wildlife Grants Program",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "Annual Shortfall at current land protection pace $80,998,300",
+        "location": "Chapter 10 IWAP Costs & Benefits.pdf, Table 10-1",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "Map 8-25. High Opportunity Areas for Cooperative Conservation Actions...The shaded areas on the map indicate areas identified as a priority for action by one or more of the plans referenced above. Darker shading indicates areas where progressively more of the plans have overlapping priorities",
+        "location": "Chapter 8 IWAP 2025 Draft.pdf, Map 8-25",
+        "relevant_elements": ["4.1"]
+      },
+      {
+        "text": "Identify habitats, landscapes and travel corridors important to species of greatest conservation need in all regions of the state.",
+        "location": "Chapter 6 IWAP Visions.pdf, Conservation Strategies and Actions (Habitat Vision)",
+        "relevant_elements": ["4.1", "4.2"]
+      },
+      {
+        "text": "Restore viable wildlife populations to suitable habitats through informed relocation and reintroduction programs.",
+        "location": "Chapter 6 IWAP Visions.pdf, Conservation Strategies and Actions",
+        "relevant_elements": ["4.2"]
+      },
+      {
+        "text": "Since the 1990s, wildlife biologists at the Iowa DNR have partnered with other agencies, organizations, and motivated citizens to reintroduce or translocate trumpeter swans, greater prairie chickens, peregrine falcons, osprey, barn owls, Higgins eye pearly mussels, and pallid sturgeon.",
+        "location": "Chapter 11 IWAP Revision.pdf, Implementing the IWAP",
+        "relevant_elements": ["4.2", "4.4"]
+      },
+      {
+        "text": "populations may need translocation to newly created habitats or to isolated tracts of existing habitat",
+        "location": "Chapter 8 IWAP 2025 Draft.pdf, Goal 2 Populations of SGCN",
+        "relevant_elements": ["4.2"]
+      },
+      {
+        "text": "Species Re-Introduction & Translocation: Transferring species or genetic material to places where they formerly occurred or to suitable future habitat or benign introductions of species to an ecosystem",
+        "location": "Chapter 6 IWAP Visions.pdf, Conservation Actions Taxonomy",
+        "relevant_elements": ["4.2"]
+      },
+      {
+        "text": "long-term research to evaluate the effects of a variety of pasture management regimes (e.g., patch-burn grazing, early-intensive grazing, etc.) has been conducted on public and private lands in the Grand River Grasslands",
+        "location": "Chapter 7 IWAP Res & Mon.pdf, Objective 5",
+        "relevant_elements": ["4.4"]
+      },
+      {
+        "text": "Research sponsored by DNR and Iowa State University has demonstrated that a variety of birds and other SGCN have successfully re-colonized these restored habitats.",
+        "location": "Chapter 8 IWAP 2025 Draft.pdf, Map 8-3 caption",
+        "relevant_elements": ["4.4"]
+      },
+      {
+        "text": "Midwest Climate Change Technical Committee",
+        "location": "Chapter 9 IWAP Revision.pdf, Interagency Cooperation",
+        "relevant_elements": ["4.5", "1.1"]
+      },
+      {
+        "text": "In the Midwest, summertime precipitation is increasingly variable, leading to more frequent periods of drought and more frequent intense rainfall events. As ranges of plant species contract, expand or shift, the plant communities that wildlife inhabit will change, and could encroach upon adjacent systems.",
+        "location": "Chapter 5 IWAP Conservation Challenges.pdf, Changes in Physical and Chemical Regimes",
+        "relevant_elements": ["1.1", "3.5", "3.7", "C2"]
+      },
+      {
+        "text": "-Climate; -Invasive species",
+        "location": "Chapter 7 IWAP Res & Mon.pdf, Table 7-1, Human Land Use section",
+        "relevant_elements": ["1.1", "3.7"]
+      },
+      {
+        "text": "Partnerships between DNR, USFWS, Iowa County Conservation Boards and private conservation organizations have had many successes restoring wildlife habitats on agricultural land.",
+        "location": "Chapter 8 IWAP 2025 Draft.pdf, Priorities for Vision Elements",
+        "relevant_elements": ["3.4"]
+      }
+    ]
+  },
+  "concepts": {
+    "climate_vulnerability": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "11. Climate Change | VH | VH | VH | H | H | H",
+          "location": "Chapter 5 IWAP Conservation Challenges.pdf, Table 5-4 (Terrestrial Wildlife)",
+          "sub_component": "exposure",
+          "citations": []
+        },
+        {
+          "text": "Broad scale changes in temperature, fluctuations or extremes in temperatures in a geographical area. Even small increases in mean temperature are correlated with more frequent extreme temperature events. In Iowa, temperature increases have been more pronounced in winter and during nighttime.",
+          "location": "Chapter 5 IWAP Conservation Challenges.pdf, Changes in Temperature Regimes",
+          "sub_component": "exposure",
+          "citations": []
+        },
+        {
+          "text": "As ranges of plant species contract, expand or shift, the plant communities that wildlife inhabit will change, and could encroach upon adjacent systems.",
+          "location": "Chapter 5 IWAP Conservation Challenges.pdf, Changes in Physical and Chemical Regimes",
+          "sub_component": "exposure",
+          "citations": []
+        }
+      ],
+      "absence_note": "The document assesses climate change as a rated threat (Very High for multiple taxa) and describes specific exposure mechanisms (temperature increases, precipitation variability, drought, range/community shifts). However, adaptive capacity is not explicitly decomposed or discussed in relation to climate vulnerability for focal species—there is no discussion of why some species are more or less able to cope. Score is 2 (exposure referenced) rather than 3 (both exposure and adaptive capacity)."
+    },
+    "adaptive_capacity_specificity": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Establishing new habitats and restoring populations will extend the range of these species, provide the potential for greater genetic diversity and interaction between populations, and reduce the chances of local population extinctions if travel corridors are also provided.",
+          "location": "Chapter 8 IWAP 2025 Draft.pdf, Priorities for Vision Elements",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "Adaptive capacity components (genetic diversity, movement/dispersal) are mentioned but not operationalized in a climate-specific vulnerability framework for any specific species or taxon. Score 1 rather than 2."
+    },
+    "adaptive_capacity_components": {
+      "demography": {
+        "present": false,
+        "evidence": []
+      },
+      "distribution": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "As ranges of plant species contract, expand or shift, the plant communities that wildlife inhabit will change, and could encroach upon adjacent systems.",
+            "location": "Chapter 5 IWAP Conservation Challenges.pdf, Changes in Physical and Chemical Regimes",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "movement": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Establishing new habitats and restoring populations will extend the range of these species, provide the potential for greater genetic diversity and interaction between populations, and reduce the chances of local population extinctions if travel corridors are also provided.",
+            "location": "Chapter 8 IWAP 2025 Draft.pdf, Priorities for Vision Elements",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "evolutionary_potential": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Establishing new habitats and restoring populations will extend the range of these species, provide the potential for greater genetic diversity and interaction between populations, and reduce the chances of local population extinctions if travel corridors are also provided.",
+            "location": "Chapter 8 IWAP 2025 Draft.pdf, Priorities for Vision Elements",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecological_dependencies": {
+        "present": false,
+        "evidence": []
+      },
+      "abiotic_niche": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Broad scale changes in temperature, fluctuations or extremes in temperatures in a geographical area. Even small increases in mean temperature are correlated with more frequent extreme temperature events.",
+            "location": "Chapter 5 IWAP Conservation Challenges.pdf, Changes in Temperature Regimes",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "life_history": {
+        "present": false,
+        "evidence": []
+      }
+    },
+    "connectivity": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Increasing connectivity -protecting and/or managing for wildlife use of areas between existing habitat core areas to facilitate movement between these areas.",
+          "location": "Chapter 4 IWAP Revision.pdf, Priorities for Habitat Protection",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Continuing to develop a diverse base of native ecosystems and movement corridors for wildlife is essential for the preservation of Iowa's wildlife populations.",
+          "location": "Chapter 11 IWAP Revision.pdf, Conclusion",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Fragmentation must be minimized by developing large blocks of habitat connected by corridors for the free exchange of organisms.",
+          "location": "Chapter 6 IWAP Visions.pdf, Conservation Strategies and Actions",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document discusses connectivity, corridors, and habitat fragmentation extensively as conservation priorities. However, these are not framed as climate-gradient connectivity or climate-driven range shift facilitation—they are general wildlife movement/habitat connectivity goals. Score is 1 (generic) rather than 2 (climate-specific). No explicit framing of corridors as facilitating climate-driven range shifts was found."
+    }
+  },
+  "tools": {
+    "vulnerability_models": {
+      "evaluable": true,
+      "score": 0,
+      "named_tools": [],
+      "evidence": [],
+      "absence_note": "The document conducts its own species conservation status assessments using a scoring system based on 8 criteria (range extent, area of occupancy, trends, specialization, threats), but this is not framed as a climate vulnerability assessment and does not use CCVI, PVA, or any recognized vulnerability modeling framework. Climate is listed as one of many threats in the threat assessment tables but no dedicated vulnerability model is applied."
+    },
+    "niche_models": {
+      "evaluable": true,
+      "score": 2,
+      "named_tools": ["Gap Analysis Program (GAP)", "predictive species distribution maps"],
+      "evidence": [
+        {
+          "text": "A collaboration between Iowa State University and the Iowa DNR used MSIM data and modern, sophisticated statistical procedures to create species distribution maps for more than 100 species of conservation concern across the state.",
+          "location": "Chapter 11 IWAP Revision.pdf, Putting Iowa SGCN on the map",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "With funding from a State Wildlife Action Plan Enhancement State Wildlife Grant in 2015, we used the predictive mathematical models to create predictive species distribution maps similar to GAP.",
+          "location": "Chapter 7 IWAP Res & Mon.pdf, Objective 3",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "These spatial models, based upon landscape variables and microhabitat variables, will be beneficial in the implementation of the revision. Using these predictive maps, we should be able to more effectively focus conservation efforts for priority SGCN.",
+          "location": "Chapter 7 IWAP Res & Mon.pdf, Objective 3",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "Species distribution models (GAP-style) are applied to the document's focal subjects (SGCN). The models are used to identify conservation priorities and inform management decisions. Score 2. Note: the models are not specifically framed as climate-scenario projections—they predict current distribution based on habitat/landscape variables—but they are applied to focal species and inform management."
+    },
+    "climate_models": {
+      "evaluable": true,
+      "score": 0,
+      "named_tools": [],
+      "evidence": [],
+      "absence_note": "The document discusses climate change extensively (temperature trends, precipitation changes, NOAA data) but does not reference any GCM, RCP, SSP, CMIP, downscaled climate projections, or named climate modeling tools. NOAA climate data is used descriptively for observed trends only. This matches the canonical '0' case for climate models per the codebook.",
+      "time_horizon_years": [],
+      "emission_scenarios": []
+    },
+    "connectivity_models": {
+      "evaluable": true,
+      "score": 0,
+      "named_tools": [],
+      "evidence": [],
+      "absence_note": "The document identifies connectivity evaluation and landscape permeability as research needs (Table 7-1) but does not reference or apply any connectivity modeling tools (CircuitScape, Marxan, least-cost path, etc.). Connectivity is discussed conceptually and as a planning goal, but no modeling results are incorporated into management decisions."
+    }
+  },
+  "context": {
+    "management_scale": {
+      "local": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Coordinate with all government natural resource agencies and non-governmental organizations to identify areas at regional, state, and local scales.",
+            "location": "Chapter 6 IWAP Visions.pdf, Conservation Strategies and Actions",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "site": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The Grand River Unit in southern Iowa repurposed a large pile of unused riprap at the headquarters in order to construct a snake hibernaculum and basking area.",
+            "location": "Chapter 11 IWAP Revision.pdf, Vision #3",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "watershed": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Targeting individual watersheds with a comprehensive conservation effort to improve the status of all SGCN and to serve as demonstration areas is the best initial approach",
+            "location": "Chapter 8 IWAP 2025 Draft.pdf, Priorities for Vision Elements",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "city": {
+        "present": false,
+        "evidence": []
+      },
+      "county": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Iowa is fortunate to have a system of County Conservation Boards (CCBs). Across Iowa, CCBs own and/or manage almost 200,000 acres of parks, natural areas, preserves and trails.",
+            "location": "Chapter 10 IWAP Costs & Benefits.pdf, Other Funding Sources",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "within_state_region": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The Des Moines Lobe currently has the greatest acreage of restored wetland-grassland complexes in the state and nearly unlimited opportunities for further conservation activities.",
+            "location": "Chapter 8 IWAP 2025 Draft.pdf, Priorities for Vision Elements",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "state": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Iowa's Plan was initially approved in 2006, modified in 2012, and fully revised in 2015 and 2025. This version represents the second comprehensive revision of Iowa's Plan.",
+            "location": "Chapter 1-2 IWAP Revision.pdf, Iowa's Wildlife Action Plan",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "multistate": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Iowa's ecoregions extend past our boundaries and most SGCN have ranges beyond the borders of the state, requiring partnerships with neighboring states to accomplish needed actions to achieve shared conservation goals.",
+            "location": "Chapter 8 IWAP 2025 Draft.pdf, Full Life Cycle Conservation",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "national": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "At a national level, the existence of State Wildlife Action Plans (SWAPs) is a helpful building block to effecting range-wide conservation for rare and declining species.",
+            "location": "Chapter 8 IWAP 2025 Draft.pdf, Landscape Scale Conservation",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "transnational": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Millions of migratory birds that breed across Canada and the U.S. rely on a relatively small geography within Mexico, Central America, South America, and the Caribbean (called the Neotropics) during migration and the nonbreeding season",
+            "location": "Chapter 8 IWAP 2025 Draft.pdf, Full Life Cycle Conservation",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Intact ecosystems tend to provide more benefits and are more resilient to outside stressors. Therefore, land protection efforts in Iowa should continue to focus on the following principles",
+            "location": "Chapter 4 IWAP Revision.pdf, Landscape-Scale Prioritization",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecoregion": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "For more seamless collaboration across state and federal lines, this Plan utilizes the EPA ecoregional framework for describing terrestrial and aquatic resources and conservation management and planning in Iowa",
+            "location": "Chapter 4 IWAP Revision.pdf, Ecoregions",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "province": {
+        "present": false,
+        "evidence": []
+      },
+      "section": {
+        "present": false,
+        "evidence": []
+      },
+      "subsection": {
+        "present": false,
+        "evidence": []
+      },
+      "lake": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "127 of Iowa's principal public lakes were initially ranked to develop a priority list of 35 lakes for lake restoration suitability based upon a number of socio-economic, water quality, and watershed factors.",
+            "location": "Chapter 8 IWAP 2025 Draft.pdf, Map 8-15",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "river": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Iowa has over 19,000 miles of interior rivers and streams. There are 87 cold water streams located in northeast Iowa with a combined length of 266 miles.",
+            "location": "Chapter 4 IWAP Revision.pdf, Aquatic Habitat Classes",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "district": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["Des Moines Lobe", "Loess Hills", "Driftless Area", "Prairie Pothole Region", "Mississippi River", "Missouri River", "Northeast Iowa", "Western Corn Belt Plains", "Interior River Valleys and Hills", "Grand River Grasslands", "Neal Smith National Wildlife Refuge", "Northern Tallgrass Prairie Habitat Preservation Area"]
+    },
+    "biological_unit_score": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "As ranges of plant species contract, expand or shift, the plant communities that wildlife inhabit will change, and could encroach upon adjacent systems.",
+          "location": "Chapter 5 IWAP Conservation Challenges.pdf, Changes in Physical and Chemical Regimes",
+          "sub_component": "species and community",
+          "citations": []
+        },
+        {
+          "text": "These changing weather patterns can influence wildlife distribution, survival, disease, or the ecosystems they rely on.",
+          "location": "Chapter 1-2 IWAP Revision.pdf, Box 2-1 Seasonal Climate Trends",
+          "sub_component": "species and ecosystem",
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "biological_unit_components": {
+      "species": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "These changing weather patterns can influence wildlife distribution, survival, disease, or the ecosystems they rely on.",
+            "location": "Chapter 1-2 IWAP Revision.pdf, Box 2-1",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "population": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "reduce the chances of local population extinctions if travel corridors are also provided.",
+            "location": "Chapter 8 IWAP 2025 Draft.pdf, Priorities for Vision Elements",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "habitat": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Identify habitats, landscapes and travel corridors important to species of greatest conservation need in all regions of the state.",
+            "location": "Chapter 6 IWAP Visions.pdf, Conservation Strategies and Actions",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "These changing weather patterns can influence wildlife distribution, survival, disease, or the ecosystems they rely on.",
+            "location": "Chapter 1-2 IWAP Revision.pdf, Box 2-1",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "community": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "As ranges of plant species contract, expand or shift, the plant communities that wildlife inhabit will change, and could encroach upon adjacent systems.",
+            "location": "Chapter 5 IWAP Conservation Challenges.pdf, Changes in Physical and Chemical Regimes",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "genotype_phenotype": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["Species of Greatest Conservation Need (SGCN)", "Habitats of Greatest Conservation Need (HGCN)", "monarch butterfly", "regal fritillary", "Cerulean Warbler", "trumpeter swans", "greater prairie chickens", "Rusty Patched Bumble Bee", "tallgrass prairie", "prairie pothole wetlands", "freshwater mussels", "Topeka Shiner"]
+    },
+    "partnerships_and_funding": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Iowa DNR has received approximately $17 million in WCRP and SWG funds from 2001-2025, with an average annual appropriation of ~$686,300. These funds have been used to implement this Plan through increased research, habitat protection, and management for Species of Greatest Conservation Need",
+          "location": "Chapter 1-2 IWAP Revision.pdf, State and Tribal Wildlife Grants Program",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Annual Shortfall at current land protection pace $80,998,300",
+          "location": "Chapter 10 IWAP Costs & Benefits.pdf, Table 10-1",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document has significant funding discussions and many active partnerships (USFWS, NRCS, NGOs, County Conservation Boards, Iowa State University), but the funding gap for range-shift-specific work is never directly addressed. Overall funding is characterized as inadequate ($80M+ annual shortfall). The partnerships discussed are for general SGCN conservation, not specifically for range-shift science or climate-adaptation actions. Score is 1 (some funding and partnerships described, but limited/aspirational in climate-range-shift context)."
+    },
+    "climate_threat_habitat_degradation": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "In the Midwest, summertime precipitation is increasingly variable, leading to more frequent periods of drought and more frequent intense rainfall events. As ranges of plant species contract, expand or shift, the plant communities that wildlife inhabit will change, and could encroach upon adjacent systems.",
+          "location": "Chapter 5 IWAP Conservation Challenges.pdf, Changes in Physical and Chemical Regimes",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_threat_species_vital_rates": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Broad scale changes in temperature, fluctuations or extremes in temperatures in a geographical area. Even small increases in mean temperature are correlated with more frequent extreme temperature events. In Iowa, temperature increases have been more pronounced in winter and during nighttime.",
+          "location": "Chapter 5 IWAP Conservation Challenges.pdf, Changes in Temperature Regimes",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The threat tables rate climate change as Very High for several taxa, with specific mention of temperature extremes affecting survival. The note about flooding timing shifting to summer affecting wood turtle nesting provides a direct vital-rate impact framing. Score 1."
+    },
+    "climate_threat_biotic_stressors": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "As ranges of plant species contract, expand or shift, the plant communities that wildlife inhabit will change, and could encroach upon adjacent systems.",
+          "location": "Chapter 5 IWAP Conservation Challenges.pdf, Changes in Physical and Chemical Regimes",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    }
+  },
+  "actions": {
+    "priority_habitat_identification": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Map 8-25. High Opportunity Areas for Cooperative Conservation Actions...The shaded areas on the map indicate areas identified as a priority for action by one or more of the plans referenced above. Darker shading indicates areas where progressively more of the plans have overlapping priorities",
+          "location": "Chapter 8 IWAP 2025 Draft.pdf, Map 8-25",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Identify habitats, landscapes and travel corridors important to species of greatest conservation need in all regions of the state. a. Coordinate with all government natural resource agencies and non-governmental organizations to identify areas at regional, state, and local scales.",
+          "location": "Chapter 6 IWAP Visions.pdf, Conservation Strategies and Actions (Habitat Vision)",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Iowa DNR partnered with Iowa State University to use data from the Multi-species Inventory and Monitoring (MSIM) Program and land cover to predict the distribution of species of conservation concern across Iowa (a). The maps can be combined to generate composite estimates of species richness across the state, as shown with grassland species (b).",
+          "location": "Chapter 7 IWAP Res & Mon.pdf, Box 7-1 caption",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "Priority habitat is extensively identified with spatial representation through multiple maps (Map 8-2 through Map 8-25), including Bird Conservation Areas, PARCA, critical habitat, etc. However, these are not specifically framed as addressing climate-driven range shifts—they are general SGCN conservation priorities. Per the codebook element 4.1, priority habitat for restoration and management to address range shifts and climate-induced threats qualifies; the document does discuss climate as a threat and the spatial maps are used to address SGCN conservation. Score 2."
+    },
+    "targeted_range_shift_actions": {
+      "evaluable": true,
+      "score": 0,
+      "evidence": [],
+      "absence_note": "Translocation and reintroduction actions are discussed (trumpeter swans, prairie chickens, mussels, pallid sturgeon), but these are framed as species recovery/restoration to historical ranges, not as climate-motivated range shift facilitation. The document does mention that connectivity needs to be developed between habitat blocks and that populations may need translocation to newly created habitats, but this is not explicitly framed as responding to climate-driven range shifts. No passages explicitly frame assisted migration, climate corridors, or translocation as responses to shifting habitat suitability driven by climate. Score 0."
+    },
+    "time_bound_and_monitoring": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Provisions for periodic monitoring of SGCN and their habitats, for monitoring the effectiveness of conservation actions, and for adapting these conservation actions as appropriate to respond to new information or changing conditions.",
+          "location": "Chapter 1-2 IWAP Revision.pdf, The Eight Required Elements",
+          "sub_component": "monitoring",
+          "citations": []
+        },
+        {
+          "text": "The amount of permanently protected wildlife habitat in Iowa will be doubled to 4% of the state's land area.",
+          "location": "Chapter 6 IWAP Visions.pdf, A Vision for Wildlife Habitats",
+          "sub_component": "deadline",
+          "citations": []
+        },
+        {
+          "text": "A formal review of the IWAP will be conducted every 10 years as described in Chapter 9.",
+          "location": "Chapter 7 IWAP Res & Mon.pdf, Adapting Conservation Actions",
+          "sub_component": "monitoring",
+          "citations": []
+        }
+      ],
+      "absence_note": "The document has a clear 2030 goal for habitat protection and a 10-year review cycle. The MSIM program provides effectiveness monitoring and adaptive management is operationalized through the TRACS system and periodic subcommittee reviews. Score 2 because both time-bound goals (2030 habitat target) and effectiveness monitoring (MSIM, TRACS) are present at the action level."
+    },
+    "evidence_of_efficacy": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Research sponsored by DNR and Iowa State University has demonstrated that a variety of birds and other SGCN have successfully re-colonized these restored habitats.",
+          "location": "Chapter 8 IWAP 2025 Draft.pdf, Map 8-3 caption (Prairie Pothole Joint Venture)",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "long-term research to evaluate the effects of a variety of pasture management regimes (e.g., patch-burn grazing, early-intensive grazing, etc.) has been conducted on public and private lands in the Grand River Grasslands, a landscape critical for prairie-chickens and other SGCN in southern Iowa.",
+          "location": "Chapter 7 IWAP Res & Mon.pdf, Objective 5",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document references prior research and monitoring demonstrating restoration efficacy (species re-colonization of restored wetlands, long-term management regime evaluations), which qualifies as 'limited evidence.' The evidence is applicable to the document's focal subjects (Iowa SGCN) but is focused on habitat management generally rather than climate-adaptation actions specifically. Score 2.",
+      "projects": ["Prairie Pothole Joint Venture wetland restorations in Iowa: DNR and ISU research demonstrated that birds and other SGCN re-colonized restored habitats, providing evidence for habitat restoration efficacy.", "Grand River Grasslands long-term pasture management research (patch-burn grazing, early-intensive grazing): provided evidence for efficacy of different management regimes for prairie-chickens and other SGCN over multiple years on public and private lands."]
+    },
+    "adaptation_planning_frameworks": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "The inventory and monitoring programs and research projects described in this chapter will support efforts to implement this Plan in an Adaptive Resource Management (ARM) framework (Vision Element #3).",
+          "location": "Chapter 7 IWAP Res & Mon.pdf, Adaptive Resource Management",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document references Adaptive Resource Management (ARM) as an overarching implementation framework, and mentions the National Fish, Wildlife and Plants Climate Change Adaptation Strategy as a referenced plan (Appendix 20). However, the ARM framework is not specifically framed in the context of climate change adaptation—it is applied to general wildlife management. The reference to 'Iowa will use new information or changing conditions to adapt our conservation actions' is generic. No specific climate adaptation planning frameworks (RAD, RRT, CCVA, CCSP, SBDA) are named or applied. Score 1 (referenced non-specifically)."
+    }
+  },
+  "coding_meta": {
+    "coder": "llm:claude-sonnet-4-6",
+    "model": "claude-sonnet-4-6",
+    "provider": "claude",
+    "codebook_version": "0.4",
+    "ingest": "text",
+    "design": "single",
+    "temperature": null,
+    "thinking": null,
+    "thinking_effort": null,
+    "coded_at": "2026-07-06T18:39:21Z",
+    "notes": {}
+  }
+}

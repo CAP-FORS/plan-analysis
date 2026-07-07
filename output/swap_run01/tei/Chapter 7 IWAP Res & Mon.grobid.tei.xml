@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main"></title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">CD80772DE8632197BF46002D537F429B</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.1" ident="GROBID" when="2026-07-06T11:45+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Research</term>
+					<term>Survey</term>
+					<term>Inventory and Monitoring</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Proposed plans for monitoring Species of Greatest Conservation Need and their habitats, for monitoring the effectiveness of the conservation actions proposed in (4), and for adapting these conservation actions to respond appropriately to new information or changing conditions.</p><p>Required Element #3: Descriptions of problems that may adversely affect SGCN or their habitats, and priority research and survey efforts needed to identify factors that may assist in their restoration and improved conservation of these species and habitats.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Background</head><p>The lack of species-specific information on the abundance and distribution of SGCN was one of the greatest challenges faced when initially developing this Plan prior to 2005. In some cases species were added to the list simply because information was outdated or unavailable. This continues to occur today despite much progress being made over the past two decades, which is why the 2015 and 2025 versions of the Plan identify Data Deficient species. Because of the dearth of information for the majority of Iowa species, inventory and monitoring for fish and wildlife species became the top priority for implementation of the Plan in 2005. For the taxonomic groups covered by the Plan in 2015, we reduced the number of data deficient species by 19 (primarily amphibians, reptiles, and crayfish) for this edition. However, we have added several new taxa into the 2025 edition, including 19 moth species as data deficient, so the total number of data deficient species has stayed stable while the number of taxa included has increased.</p><p>Iowa is fortunate to have a strong spatial data program. The amount and distribution of potential wildlife habitat is comparatively well known. As we continue to implement this Plan, we will continue to acquire more wildlife data to relate to our spatial datasets, thereby becoming better equipped to identify qualitative differences among habitats and track qualitative changes over time.</p><p>Iowa recognizes that monitoring is critical to the determination of the status of species, not only those of greatest conservation need, but also the more common species. By monitoring the effects of conservation actions on wildlife, adaptive management decisions can be made to continue to improve, or to cease to harm wildlife species.</p><p>For clarity, inventory, survey and monitoring are defined as <ref type="bibr" target="#b6">(Thompson et al. 1998</ref>):</p><p>• Inventory -Process of making an itemized list of species occurring within a given area.</p><p>• Survey -An incomplete count of individuals, objects, or items within a specified area and time period.</p><p>• Monitoring -A repeated assessment of some quality, attribute, or task for the purpose of detecting a change in average status within a defined area over time.</p><p>Long-term monitoring programs give the best picture of the status of wildlife populations over time. Well-designed short-term surveys and inventories can indicate the current status and distribution of wildlife but are often valid only in the area where they are conducted and may quickly become obsolete if habitat or other critical factors change. In Iowa the rapid change in habitat availability on agricultural lands as USDA farm programs change is a frequent example.</p><p>Many research studies too numerous to list have provided information on the presence of individual species or groups of species. Prior to the first version of this Plan, virtually all monitoring programs in Iowa have focused on game species, T&amp;E species, common bird surveys (e.g., Breeding Bird Survey), and evaluations of wildlife restorations. This left a large majority of Iowa's fauna out of long-term monitoring programs, making an assessment of trends very difficult.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Statewide Wildlife Inventory -Iowa's Multiple Species Inventory and Monitoring Program</head><p>When this Plan was initially developed in 2005, the Steering Committee and the Monitoring Working Group agreed that the first priority for monitoring and research was to inventory Iowa's permanently protected wildlife habitats and a sample of habitat on private lands within the state. In addition, virtually all wildlife specialists involved in developing this Plan agreed that inventories, surveys, and monitoring of SGCN to guide habitat and population conservation actions was an essential component for managing Iowa's wildlife into the future. Therefore, in order to meet these needs, the Multiple Species Inventory and Monitoring Program (MSIM) was established in a partnership between Iowa DNR and Iowa State University (ISU). This program, which was launched in 2006, incorporates permanent sampling sites situated on public (federal and state owned) lands, in addition to properties owned by counties, cities, NGOs and private individuals which are not surveyed as often. The design of this program is based on the US Forest Service's "Multiple Species Inventory and Monitoring Guide" <ref type="bibr" target="#b5">(Manley et al. 2006)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Taxa Which Still Need Initial Inventory Work</head><p>Difficulties with development of an effective sampling protocol for terrestrial snails and a comparative lack of experts in identification of individual snail species has remained a hurdle. Therefore, the inventory phase for terrestrial snails is not completed as of 2025. Sampling protocols for crayfish have been developed, tested, and implemented since 2015. Bumble bee protocols were developed and tested in 2025 for deployment beginning in 2026. Moth protocols are still in the discussion phase of development. If potential additional taxa are added to the list of SGCN, then survey protocols for those taxa will also need to be developed and tested for integration into the MSIM framework for Iowa.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Multiple Species Inventory and Monitoring Program</head><p>There are five specific objectives which the MSIM Program is designed to address. They are outlined below.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Objective 1a: Current Inventory of Wildlife in Iowa</head><p>This objective is primarily concerned with estimating the statewide spatial distribution of species. Species occurrence and distribution have been derived from the use of several short-duration, high-intensity searches at a large number of areas scattered widely across the state with locations randomly chosen based on the 19 habitat classifications designated in the 2005 version of this Plan. Although new properties are surveyed (and therefore inventoried most years), the 2015 Plan moved away from the original 19 habitat classifications and properties are now selected randomly without being pre-assigned to a habitat type. While one of the original 19 habitat types are assigned post-selection, we rely on GIS spatial data and on-the ground habitat data collected at each property to better define 'habitat' within the analytical models.</p><p>The design of the MSIM Program has provided the ability to estimate the spatial distribution and status of many species. The overall protocol determines how widespread or isolated a species is within the state and relates distribution to the condition of habitats. Permanent monitoring plot locations were chosen from protected properties based on the original stratified random sampling design using quadrant of the state and habitat classification as the stratifications. For a property to be considered it had to contain at least 101 ha (250 ac) of protected land or water within a contiguous boundary (i.e., smaller state-owned areas with adjoining CRP, WRP, NRCS lands were included in potential locations). This design is based on the US Forest Service's Multiple Species Inventory and Monitoring Guide <ref type="bibr" target="#b5">(Manley et al. 2006</ref>). This Guide outlines monitoring techniques for vertebrate species on National Forest Land. This design allows collection of both vertebrate wildlife data and also plant species composition and habitat data <ref type="bibr" target="#b5">(Manley et al. 2006)</ref>.</p><p>By stratifying the plot locations based upon habitat classifications, we are able to monitor multiple SGCN associated with each habitat type. With the development and implementation of MSIM, Iowa now has nearly 20 years of data on the distribution and abundance of wildlife species including amphibians, small and meso-mammals, butterflies, odonates, freshwater mussels, reptiles, fish and birds. We have adapted the Forest Service Guide to include protocols for additional taxa included within this Plan. Within each permanent terrestrial sampling plot, several techniques are utilized to collect data on a wide variety of wildlife (Figure <ref type="figure">7</ref>-1). Briefly, specific procedures include pre-field work analysis of GIS coverages and selection of station (bird point count, trap placements) locations. Field work data collection has used trapping, timed track searching, and remote cameras for mammals; acoustic bat detectors for bats; visual encounter surveys, coverboards, and trapping of amphibians and reptiles; point counts and timed searching for birds; walking transects and timed searching for butterflies; visual encounter surveys for odonates; electroshocking and trawling for fish; and quadrat surveys and visual encounter surveys for mussels. In addition, data are collected on weather conditions, vegetative characteristics, aquatic variables, and habitat attributes. This allows us to collect information at the microhabitat scale to draw more specific correlations between species occurrence and habitat characteristics/environmental variables. Bird point counts (yellow circles) are conducted at each point of the hexagon, including the middle point. Small mammal traps are set along the edge transects (thin black line) as well as the middle transect (purple line connecting the north and south points). The middle transect (purple line) is walked for butterflies. Coverboards for herpetofauna are illustrated with orange squares. Wetlands (blue flags) are searched using time constrained visual encounter surveys for amphibians, dragonflies, and damselflies. Waterbodies are also electroshocked (where applicable) for fish and quadrats are used to search for mussels. Pink squares represent trailmaster camera locations and the pale pink outline represent a field on the western side of the property searched as part of visual encounter surveys.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Objective 1b: Inventory of Habitat</head><p>The above described habitat data collection is done in addition to analyzing statewide landcover data sets. The DNR does not have the financial or staff resources to create Iowa specific landcover classification data similar to 2009's High Resolution Landcover. Moving forward, the DNR will rely on the Annual National Land Cover Database which uses Landsat data to provide timely, long-term, and detailed land surface change information. This allows the DNR to track the percentages of habitat types and, over time, changes in these percentages across the state. At this time, we anticipate this evaluation to be the primary method for monitoring broad scale changes in habitats. In addition to the GIS data, we collect habitat variables around each bird point count (BPC) location and at least one additional location near BPC1. These data include tree species and dbh, 1-m2 quadrats where vegetation is identified to species (if possible) and assigned a cover class (e.g. 1-5%, 6-25%, etc.), litter depth, canopy cover, for example. When the two types of data are combined, we have a more complete assessment of the habitat available to use as covariates in our predictive models for wildlife use.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Objective 2: Monitoring Species and Their Habitats</head><p>The primary parameter of interest in these designs is the proportion of habitat occupied. Simply knowing species occurrence patterns may not provide sufficient information for managing these species. <ref type="bibr" target="#b4">MacKenzie et al. (2006)</ref> suggests that presence and absence data can be used as a substitute for species abundance as long as the detection probability for the species can be estimated. Estimation of species abundance would require more intense sampling protocols. This design would be expected to generate less information per species because fewer sampling areas and a smaller group of species would be surveyed due to the higher cost per sampling unit. In addition, although providing more in-depth examination of a group of species, the number of taxonomic groups surveyed would be smaller due to the higher costs associated with this more intensive effort.</p><p>The initial inventory and survey was completed prior to 2015. Since then, the same sites have begun to be re-visited using the same protocols. This set of subsequent visits, which began during the field season of 2015, converts the inventory into the monitoring program. Depending on funding, a subset of sites are visited every year to ensure continuity. In addition, new (not previously sampled) properties as well as properties surveyed previously but not annually, are selected each year to be included for data collection.</p><p>The number of sites to be visited per year is dependent upon funding available. A factor in the decision of the number of sites to be visited per year depends upon the percent change (increase or decrease in species occurrence) prudent for determining the status of wildlife populations within Iowa. To detect a smaller percent change, we would need to monitor more sites <ref type="bibr" target="#b5">(Manley et al. 2006)</ref>.</p><p>Data collected within the monitoring program will determine the change in area occupied by a given species (whether sites are being colonized or populations are going extinct) <ref type="bibr" target="#b3">(MacKenzie et al. 2003)</ref>, the change in the spatial distribution of species, changes in community composition, and changes in habitat. Knowing both changes in habitat and changes in species occurrence allows for inferences to be drawn about correlations between the two. We emphasize, however, that this could be the impetus for future research as opposed to definitive conclusions. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Data Management and Archiving</head><p>DNR developed and maintains a database to house data collected through the MSIM program. This database can house information gathered by any entity using the MSIM protocols. The database is secured, but permission to access various reports can be requested. All DNR wildlife biologists have access to records of MSIM species records by property name or county name, for example.</p><p>In addition, observations of species tracked by the Natural Areas Inventory program (mostly State and Federally Threatened and Endangered Species) are entered into Iowa's Natural Areas Inventory (NAI) Database, which is used in environmental reviews and other planning processes.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Reporting, Periodic Review, and Evaluation</head><p>The monitoring protocols underwent a peer review process prior to implementation. The protocols undergo an internal review every few years and if problems are noticed, advice is sought from outside sources (e.g., university faculty and non-government organization scientists). In addition to the DNR review, information from the monitoring program is presented to the taxonomic subcommittees under the IWAP Wildlife Working Group. At that time any problems encountered with the data collection protocol were addressed and specific directions for research recommendations were suggested. An additional benefit that results from periodic review is the opportunity to evaluate current objectives and establish new objectives and goals of the program in order to adequately meet the changing needs of Iowa's wildlife.</p><p>We did expect that some species would likely be missed by the inventory and monitoring programs, but believe that the information gained on a large number of species outweighs this short-coming. We have identified a small number of species that are not being adequately monitored. In some cases, we have solicited proposals to do true research projects with these species (examples include research projects on occurrence of secretive marsh birds, and on Leonard's and Ottoe skippers). In other cases we have collaborated with experts to tweak sampling protocols to allow MSIM to sample these species (e.g., adding timed track searches to look for meso-mammals instead of the baited, boxed track plates, adding gopher mound counts to document pocket gopher occurrence, adding timed searches for butterflies in addition to the transects). Figure <ref type="figure">7</ref>-2 illustrates how we implement the decision making process concerning SGCN research and action needs to progress. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Additional Benefits</head><p>Additional potential objectives of the inventory and monitoring plans which may be able to be addressed through the monitoring data collection include the following (Objectives 3-5).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Objective 3: Strengthening Species Distribution Models</head><p>The Gap Analysis Program (2003) predicted species occurrences based upon given habitat classification and locations throughout the state of Iowa. Terrestrial GAP models are only available for birds, mammals, amphibians, and reptiles. Aquatic GAP models have been developed for fish. The terrestrial models were created by the use of a combination of range maps and Wildlife Habitat Relationship models, which used 25 ancillary data characteristics (e.g., wetland buffer area, ecotone intersection areas, soil type, highway, elevation) combined with the 29 landcover classes (e.g., eastern red cedar forest, pine forest, evergreen forest, artificial high vegetation, artificial low vegetation, open water [from page 18 of the Iowa GAP Report, <ref type="bibr" target="#b2">Kane et al. 2003]</ref>) to create predicted areas of occurrence for birds, mammals, amphibians, and reptiles.</p><p>In order to develop predictive species distribution models for taxa not included in GAP, or to update predicted distributions based on more recent land cover data, data from the MSIM program can be and has been used. Information from the MSIM program includes geographic locations, species occurrence probabilities, and habitat parameters, which are used to build predictive mathematical models. With funding from a State Wildlife Action Plan Enhancement State Wildlife Grant in 2015, we used the predictive mathematical models to create predictive species distribution maps similar to GAP. Developing these maps is time consuming and requires a large amount of computing resources. In 2022, we secured another State Wildlife Action Plan Enhancement grant to complete additional predictive maps (Box 7-1, for example) as well as creating an interactive tool to assist field staff with decision making (currently in progress).</p><p>These spatial models, based upon landscape variables and microhabitat variables, will be beneficial in the implementation of the revision. Using these predictive maps, we should be able to more effectively focus conservation efforts for priority SGCN. We plan to have these maps peer-reviewed by our taxonomic experts. Following that, we plan to develop specific management guidelines for the public lands within the predicted 'hot spots' for species occurrence, as well as site specific monitoring recommendations for both habitat and species changes.</p><p>This objective should help Iowa further prioritize and set goals for the Action Plan by advancing the utility of the IWAP in a couple of ways. First, the exercise allowed us to produce a density layer of hot spots by overlaying various predictive maps for SGCN which could help inform land protection. Second, individual species maps can be used to assist in focusing management actions suggested from the MSIM data microhabitat models.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Objective 4: Impact and Threat Assessment</head><p>The third required element for State Wildlife Action Plans includes, "descriptions of problems which may adversely affect species of greatest conservation need, and priority research and survey efforts needed to identify factors which may assist in restoration and improved conservation of these species and their habitats." Therefore, the impact assessment objective would primarily be concerned with estimating the impact of threats to wildlife and habitats.</p><p>A passive approach to this objective would involve recording impacts that may occur within study sites while the monitoring program is on-going and correlating these impacts to changes seen with species population occurrence. It may be prudent to then initiate specific research projects on these areas to examine the result of the impact. A more research-oriented, experimental sampling design for this objective would be to measure species presence, diversity, and/or populations in areas of 1) habitats lacking the specified threat, 2) areas where steps have been taken to ease/prevent the threat, and 3) areas where the threat is allowed to go forward un-impeded. It may be possible that this can be accomplished within the framework of MSIM, in some cases.</p><p>This objective and Objective 5 address the consequences of specific impacts and therefore, will require more intensively designed protocols. Species occurrence alone may not be sufficient to determine the impacts of the threats or of management programs.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Objective 5: Evaluation of Management Protocols and Restoration Programs (Adaptive Resource Management)</head><p>Regardless of what habitat management protocol is followed (e.g., burning, logging, re-planting, mowing, grazing, or the prevention of any human alterations), different species will be expected to respond in different ways. Within each management unit, it will continue to be important to evaluate the results of management decisions on specified groups of species. For example, long-term research to evaluate the effects of a variety of pasture management regimes (e.g., patch-burn grazing, early-intensive grazing, etc.) has been conducted on public and private lands in the Grand River Grasslands, a landscape critical for prairie-chickens and other SGCN in southern Iowa. In some cases, the same protocols and procedures would be used for this objective as for Objective 4. However, as habitat management impacts result from planned programs, there are sometimes opportunities to design manipulative experiments or more formal applications of adaptive resource management protocols. Ideally, management regimes are outlined, and the assumptions underlying the planned management activities are clearly stated. Then, questions of interest are generated with regards to expected outcomes for target species, and potential impacts of the management on other species that may be of conservation concern. Then, (ideally) data can be collected for several years pre-and post-implementation of the management regime. Again, if species occurrence (or possibly density) was the parameter of interest, it may be possible to address this objective within the MSIM program, however, if more specific questions arise, (e.g., the effect of restoration on survival rates of a given species) then a more intensive sampling regime may be required.</p><p>Once the data have been collected and analyzed, decisions regarding the effectiveness of the actions studied can be made. Through this process of adaptive management, we can decide whether the action should be continued to be utilized or not. If it has been determined that the action helped the species targeted by the conservation action, then the action could be implemented elsewhere. Should it be determined that the action did not help the species, then that action would most likely not be implemented on other lands.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Adaptive Resource Management</head><p>The inventory and monitoring programs and research projects described in this chapter will support efforts to implement this Plan in an Adaptive Resource Management (ARM) framework (Vision Element #3). Figure <ref type="figure">7</ref>-3 displays the steps in an ARM framework, which are organized into a loop rather than a sequential list. The loop framework helps conservationists conceptualize the process of management as a learning process that informs future management. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Long Term Effectiveness Monitoring of Conservation Actions</head><p>In addition to biological monitoring, monitoring the effectiveness of conservation strategies described within the Plan is an important component of implementation. Tracking the accomplishments of the IWAP so that political and financial support can be maintained is a priority. A system for tracking accomplishments has been developed by DNR. In addition, for Plan Implementation projects funded through the USFWS Office of Conservation Investment, Iowa tracks programmatic accomplishments through the USFWS's system, called Tracking and Reporting Actions for the Conservation of Species (TRACS). It is our current understanding that the TRACS system will continue to maintain a public viewer online for stakeholder review and use.  The theory of change for overall Wildlife Action Plan effectiveness is displayed in Figure <ref type="figure">7</ref>-5. The ultimate goal of the Plans is to improve the conservation of wildlife and wildlife habitat. The pathways from development of SWAPs to eventual impacts may rely on certain assumptions (e.g., increased funding). Clearly stating assumptions at the outset makes the process of conservation transparent, and allows stakeholders and decision-makers to understand what will be required for the impact to occur. Identifying points along the path that require evaluation facilitates the process of Adaptive Resource Management. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Research Priorities</head><p>Statewide distribution and status information is a priority for all SGCN. Additional areas for research continue to be identified as the results of the inventory and monitoring program become available. DNR and other knowledgeable wildlife researchers regularly work together to identify additional priority projects. The initial plan included lists of priority research needs, and progress on addressing these needs has been steady. For this version, the lists of priority research will remain more high-level or strategic to maintain their relevance through the 10-year timeframe of the Plan prior to the next required revision (Table <ref type="table" target="#tab_2">7-1</ref>). Projects carried out to fulfill research needs on the lists should be rigorously designed from a statistical standpoint, and will require collaboration between researchers and wildlife managers.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Adapting Conservation Actions in Response to New Information or Changing Conditions</head><p>Iowa will use new information or changing conditions to adapt our conservation actions. When new threats or actions arise, they will be addressed in a manner that is in accordance with this Plan and the approach and steps outlined herein. Periodic meetings of the Implementation Committee and its Working Groups and Subcommittees allow a collaborative approach to addressing changing conditions. At times, an ad-hoc committee may need to be established to work collectively to address a need on behalf of the larger Working Group or Committee.</p><p>The ultimate measure of success for the IWAP will be its impact on the wildlife resources of the state. Long term monitoring of all wildlife is necessary to demonstrate the reversal in declining trends of SGCN and to document that common species are remaining common. This can be accomplished only through application of rigorously-designed, long term monitoring programs like the Multiple Species Inventory and Monitoring Program that is currently being used to track the status of Iowa's wildlife resources.</p><p>A formal review of the IWAP will be conducted every 10 years as described in Chapter 9. This review includes assessments of the status of wildlife and habitats, whether threats have been resolved or have intensified, and whether the conservation actions identified in the Plan are still the best strategies to mitigate those threats. The review is also an opportunity to gauge the public's acceptance of the IWAP and its achievements. -Sociological research to evaluate Iowan's values, behaviors, or attitudes with regards to wildlife conservation programs -Studies to enhance understanding of patterns of participation in wildlife-associated recreation (e.g., barriers or opportunities to overcome barriers to participation) -Development and improvement of methods for stakeholder engagement</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figure 7 - 1 .</head><label>71</label><figDesc>Figure 7-1. Diagram of permanent sampling location.</figDesc><graphic coords="3,36.00,237.42,525.60,406.00" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head></head><label></label><figDesc>Data collection is conducted by field technicians who are under the direction of ISU and DNR as paid technicians. All field technicians undergo training that includes species identification and handling techniques, habitat classification techniques, and other training specific to the data being acquired. Data analysis is conducted collaboratively by ISU and DNR.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Figure 7 - 2 .</head><label>72</label><figDesc>Figure 7-2. Decision making process concerning SGCN</figDesc><graphic coords="5,43.20,371.69,525.60,316.00" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head></head><label></label><figDesc>on the map Iowa DNR partnered with Iowa State University to use data from the Multi-species Inventory and Monitoring (MSIM) Program and land cover to predict the distribution of species of conservation concern across Iowa (a). The maps can be combined to generate composite estimates of species richness across the state, as shown with grassland species (b).</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head>Figure 7 - 3 .</head><label>73</label><figDesc>Figure 7-3. Conservation Measures Partnership's Open Standards for the Practice of Conservation project cycle, version 5.0.</figDesc><graphic coords="9,100.75,36.00,410.50,516.73" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_5"><head></head><label></label><figDesc>Having information about what has been accomplished is important, but represents only one component of effectiveness monitoring. A working group formed by The Association of Fish and Wildlife Agencies developed an Effectiveness Measures Framework, which was designed specifically for effectiveness monitoring of projects funded through the State and Tribal Wildlife Grants (SWG) Program. The Effectiveness Measures Framework serves as a very helpful basis for tracking the effectiveness of all activities undertaken in support of SWAPs. The theoretical basis for the framework lies in the Open Standards for the Practice of Conservation, developed by the Conservation Measures Partnership.The Effectiveness Measures Framework makes use of results chains to display the theory of change which links conservation actions through outcomes to ultimate impacts (Figure7-4). Clearly identifying the theory of change for conservation actions is the key to measuring effectiveness. This is a key component of the Adaptive Resource Management cycle as explained above.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_6"><head>Figure 7 - 4 .</head><label>74</label><figDesc>Figure 7-4. Adapted from AFWA (2011) and the Open Standards for the Practice of Conservation. This diagram illustrates the theory of change which links conservation actions to impacts.</figDesc><graphic coords="10,115.88,156.85,380.25,329.19" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_7"><head>Figure 7 - 5 .</head><label>75</label><figDesc>Figure 7-5. Results chain for overall State Wildlife Action Plan effectiveness, from AFWA (2011)</figDesc><graphic coords="11,36.00,103.14,710.49,301.90" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head></head><label></label><figDesc>Private lands sampling sites are mostly focuses on lands with wildlife conservation purposes (i.e. lands enrolled in conservation easement programs such as the Conservation Reserve Program or Wetlands Reserve Program, or managed by conservation entities such as The Nature Conservancy or the Iowa Natural Heritage Foundation). Beginning in 2012, the DNR and ISU have joint responsibility for coordinating this statewide survey and monitoring program, with assistance from other partners and land management agencies (USFWS, US Army Corps of Engineers, Iowa National Guard, Iowa County Conservation Boards, Iowa Cooperative Fish and Wildlife Research Unit, non-governmental organizations, etc.)</figDesc><table /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head></head><label></label><figDesc>Another project, at the Spring Run Wildlife Management Area, to evaluate avian SGCN use of restored or recreated prairie and other grassland types in northern Iowa's prairie pothole region was first conducted between 2008-2010 and then again 2015-2017 on the same areas once the planted prairies were considered 'mature'. Projects in Northeast Iowa's Driftless Area have evaluated the use of restored areas of open woodlands and goat prairies by birds, reptiles, and butterflies. Bird use of Wetland Reserve Program properties has also been evaluated first2007-2009 and again 2022-2023.    </figDesc><table /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 7 -1. Research Needs for implementation of Iowa's Wildlife Action Plan Topic Further Description Taxa-Specific Life history information, occurrence within Iowa, population trends, habitat associations for species Examples</head><label>7</label><figDesc>:-Moths, terrestrial snails, bees, dragonflies &amp; damselflies o These taxa need more initial survey work to complete an inventory and establish basic distributions of species within Iowa o These taxa also need more research to inform population assessment, status, and habitat use of SGCN -Data Deficient Species o Species listed as Data Deficient in all taxonomic groups need initial survey work to complete an inventory and establish basic distributions of species within Iowa o Population assessment, status, and habitat use information for all Data Deficient Species -All SGCN o Identifying habitat requirements, limiting factors, effective conservation strategies -Taxonomic Groups to Potentially Add to IWAP o Basic information is needed for several taxonomic groups of conservation concern (e.g., additional bee &amp; moth genera, aquatic snails, etc.) o Within a given taxa, more initial survey work may be needed to complete an inventory and establish basic distributions of species within Iowa</figDesc><table /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>Issue-Specific Effects of the following items on species occurrence, density, or reproductive success or other demographic factors Examples</head><label></label><figDesc>: -Habitat Management -response of both habitat and also species of interest o Methods or techniques o Management regimes (i.e., timing, duration, or frequency) Habitat Restoration or New Habitat Projects o Pre-and-post effects of restoration -for both habitat and species of interest o Feasibility assessments for species re-introductions or re-locations -Landscape Ecology o Evaluating connectivity between core habitat areas o Evaluating landscape permeability o Quantifying ecosystem functioning -Identifying critical habitat components o Landscape factors affecting species of greatest conservation need (structural features, landscape configurations, and amounts of habitat) -GIS and landscape modeling o Continued predicted species distribution map development o Assessments of land use and/or land cover change o Monitoring amount, location, and quality of habitat Human</figDesc><table><row><cell>Topic</cell><cell>Further Description</cell></row><row><cell></cell><cell>-Land Use</cell></row><row><cell></cell><cell>o Renewable energy development</cell></row><row><cell></cell><cell>o Farming practices</cell></row><row><cell></cell><cell>o Effects of urbanization on species</cell></row><row><cell></cell><cell>-Climate</cell></row><row><cell></cell><cell>-Invasive species</cell></row><row><cell></cell><cell>-Farm bill programs</cell></row><row><cell></cell><cell>-Wildlife diseases</cell></row><row><cell></cell><cell>-Environmental contaminants</cell></row><row><cell>Area-Specific</cell><cell>Research or monitoring projects which rely on spatial datasets</cell></row><row><cell>Examples:</cell><cell>-</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_4"><head>Dimensions Sociological research relating to wildlife and wildlife habitat Examples:</head><label></label><figDesc></figDesc><table /></figure>
+		</body>
+		<back>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<monogr>
+		<title level="m" type="main">Generic Results Chains, Objectives &amp; Indicators for Strategies Funded through the State Wildlife Grants Program. Association of Fish and Wildlife Agencies</title>
+		<imprint>
+			<date type="published" when="2018-09-22">2018. September 22, 2025</date>
+			<pubPlace>Washington DC USA.</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Conservation Measures Partnership. 2025. Open standards for the practice of conservation. Version 5.0. www.ConservationMeasures.org</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<title level="m" type="main">Iowa multiple species inventory and monitoring program technical manual. Iowa Department of Natural Resources</title>
+		<imprint>
+			<date type="published" when="2015">2015</date>
+			<publisher>Iowa Department of Natural Resources</publisher>
+			<pubPlace>Des Moines IA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">L</forename><surname>Kane</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Klaas</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Kl Andersen</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Brown</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Mcneely</surname></persName>
+		</author>
+		<title level="m">The Iowa GAP analysis project final report</title>
+		<meeting><address><addrLine>Ames, IA</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2003">2003</date>
+		</imprint>
+		<respStmt>
+			<orgName>Iowa Cooperative Fish and Wildlife Research Unit. Iowa State University</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Estimating site occupancy, colonization, and local extinction when a species is detected imperfectly</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">I</forename><surname>Mackenzie</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Nichols</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Knutson</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Franklin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ecology</title>
+		<imprint>
+			<biblScope unit="volume">84</biblScope>
+			<biblScope unit="page" from="2200" to="2207" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<monogr>
+		<title level="m" type="main">Occupancy Estimation and Modeling</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">I</forename><surname>Mackenzie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Nichols</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">H</forename><surname>Royle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">L</forename><surname>Pollock</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Bailey</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Hines</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2006">2006</date>
+			<publisher>Academic Press</publisher>
+			<pubPlace>Burlington, MA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Multiple species inventory and monitoring technical guide</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">N</forename><surname>Manley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Vanhorne</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Roth</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Zielinski</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Mckenzie</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Weller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Weckerly</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Vojta</surname></persName>
+		</author>
+		<idno type="DOI">10.2737/WO-GTR-73</idno>
+		<ptr target="https://doi.org/10.2737/WO-GTR-73" />
+	</analytic>
+	<monogr>
+		<title level="j">Gen</title>
+		<imprint>
+			<date type="published" when="2006-10-28">2006. October 28, 2025</date>
+			<publisher>Washington Office</publisher>
+			<pubPlace>Washington, DC</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="report_type">Tech. Rep. WO-73</note>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<monogr>
+		<title level="m" type="main">Monitoring vertebrate populations</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">L</forename><surname>Thompson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>White</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Gowan</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1998">1998</date>
+			<publisher>Academic Press, Inc</publisher>
+			<pubPlace>San Diego, CA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>
+

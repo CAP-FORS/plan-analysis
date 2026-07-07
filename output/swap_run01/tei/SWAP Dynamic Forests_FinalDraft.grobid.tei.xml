@@ -1,0 +1,2470 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Dynamic Forests Contributors</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Huron</forename><surname>Pines</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Natural Resources Sault St. Marie Tribe of Chippewa Indians Little River Band of Ottawa Indians Keweenaw Bay Indian Community U.S. Forest Service U.S. Fish and Wildlife Service</orgName>
+								<orgName type="institution" key="instit1">Michigan Natural Features Inventory Michigan Nature Association Michigan</orgName>
+								<orgName type="institution" key="instit2">John Ball Zoo U.S. Geological Survey</orgName>
+								<orgName type="institution" key="instit3">Michigan Fish and Wildlife Cooperative Research Unit Old-Growth Forest Network</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">American</forename><forename type="middle">Bird</forename><surname>Conservancy</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Natural Resources Sault St. Marie Tribe of Chippewa Indians Little River Band of Ottawa Indians Keweenaw Bay Indian Community U.S. Forest Service U.S. Fish and Wildlife Service</orgName>
+								<orgName type="institution" key="instit1">Michigan Natural Features Inventory Michigan Nature Association Michigan</orgName>
+								<orgName type="institution" key="instit2">John Ball Zoo U.S. Geological Survey</orgName>
+								<orgName type="institution" key="instit3">Michigan Fish and Wildlife Cooperative Research Unit Old-Growth Forest Network</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Anthony</forename><forename type="middle">K</forename><surname>Henehan</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Natural Resources Sault St. Marie Tribe of Chippewa Indians Little River Band of Ottawa Indians Keweenaw Bay Indian Community U.S. Forest Service U.S. Fish and Wildlife Service</orgName>
+								<orgName type="institution" key="instit1">Michigan Natural Features Inventory Michigan Nature Association Michigan</orgName>
+								<orgName type="institution" key="instit2">John Ball Zoo U.S. Geological Survey</orgName>
+								<orgName type="institution" key="instit3">Michigan Fish and Wildlife Cooperative Research Unit Old-Growth Forest Network</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Sherry</forename><surname>Mackinnon</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Natural Resources Sault St. Marie Tribe of Chippewa Indians Little River Band of Ottawa Indians Keweenaw Bay Indian Community U.S. Forest Service U.S. Fish and Wildlife Service</orgName>
+								<orgName type="institution" key="instit1">Michigan Natural Features Inventory Michigan Nature Association Michigan</orgName>
+								<orgName type="institution" key="instit2">John Ball Zoo U.S. Geological Survey</orgName>
+								<orgName type="institution" key="instit3">Michigan Fish and Wildlife Cooperative Research Unit Old-Growth Forest Network</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Erin</forename><surname>Victory</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Natural Resources Sault St. Marie Tribe of Chippewa Indians Little River Band of Ottawa Indians Keweenaw Bay Indian Community U.S. Forest Service U.S. Fish and Wildlife Service</orgName>
+								<orgName type="institution" key="instit1">Michigan Natural Features Inventory Michigan Nature Association Michigan</orgName>
+								<orgName type="institution" key="instit2">John Ball Zoo U.S. Geological Survey</orgName>
+								<orgName type="institution" key="instit3">Michigan Fish and Wildlife Cooperative Research Unit Old-Growth Forest Network</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Heather</forename><surname>Shaw</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Natural Resources Sault St. Marie Tribe of Chippewa Indians Little River Band of Ottawa Indians Keweenaw Bay Indian Community U.S. Forest Service U.S. Fish and Wildlife Service</orgName>
+								<orgName type="institution" key="instit1">Michigan Natural Features Inventory Michigan Nature Association Michigan</orgName>
+								<orgName type="institution" key="instit2">John Ball Zoo U.S. Geological Survey</orgName>
+								<orgName type="institution" key="instit3">Michigan Fish and Wildlife Cooperative Research Unit Old-Growth Forest Network</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Steve</forename><surname>Roels</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Natural Resources Sault St. Marie Tribe of Chippewa Indians Little River Band of Ottawa Indians Keweenaw Bay Indian Community U.S. Forest Service U.S. Fish and Wildlife Service</orgName>
+								<orgName type="institution" key="instit1">Michigan Natural Features Inventory Michigan Nature Association Michigan</orgName>
+								<orgName type="institution" key="instit2">John Ball Zoo U.S. Geological Survey</orgName>
+								<orgName type="institution" key="instit3">Michigan Fish and Wildlife Cooperative Research Unit Old-Growth Forest Network</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Mark</forename><surname>Shermak</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Natural Resources Sault St. Marie Tribe of Chippewa Indians Little River Band of Ottawa Indians Keweenaw Bay Indian Community U.S. Forest Service U.S. Fish and Wildlife Service</orgName>
+								<orgName type="institution" key="instit1">Michigan Natural Features Inventory Michigan Nature Association Michigan</orgName>
+								<orgName type="institution" key="instit2">John Ball Zoo U.S. Geological Survey</orgName>
+								<orgName type="institution" key="instit3">Michigan Fish and Wildlife Cooperative Research Unit Old-Growth Forest Network</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Michael</forename><surname>Paling</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Natural Resources Sault St. Marie Tribe of Chippewa Indians Little River Band of Ottawa Indians Keweenaw Bay Indian Community U.S. Forest Service U.S. Fish and Wildlife Service</orgName>
+								<orgName type="institution" key="instit1">Michigan Natural Features Inventory Michigan Nature Association Michigan</orgName>
+								<orgName type="institution" key="instit2">John Ball Zoo U.S. Geological Survey</orgName>
+								<orgName type="institution" key="instit3">Michigan Fish and Wildlife Cooperative Research Unit Old-Growth Forest Network</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Dani</forename><surname>Fegan</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Natural Resources Sault St. Marie Tribe of Chippewa Indians Little River Band of Ottawa Indians Keweenaw Bay Indian Community U.S. Forest Service U.S. Fish and Wildlife Service</orgName>
+								<orgName type="institution" key="instit1">Michigan Natural Features Inventory Michigan Nature Association Michigan</orgName>
+								<orgName type="institution" key="instit2">John Ball Zoo U.S. Geological Survey</orgName>
+								<orgName type="institution" key="instit3">Michigan Fish and Wildlife Cooperative Research Unit Old-Growth Forest Network</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Patricia</forename><surname>Butler-Leopold</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Natural Resources Sault St. Marie Tribe of Chippewa Indians Little River Band of Ottawa Indians Keweenaw Bay Indian Community U.S. Forest Service U.S. Fish and Wildlife Service</orgName>
+								<orgName type="institution" key="instit1">Michigan Natural Features Inventory Michigan Nature Association Michigan</orgName>
+								<orgName type="institution" key="instit2">John Ball Zoo U.S. Geological Survey</orgName>
+								<orgName type="institution" key="instit3">Michigan Fish and Wildlife Cooperative Research Unit Old-Growth Forest Network</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Gib</forename><surname>King</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Natural Resources Sault St. Marie Tribe of Chippewa Indians Little River Band of Ottawa Indians Keweenaw Bay Indian Community U.S. Forest Service U.S. Fish and Wildlife Service</orgName>
+								<orgName type="institution" key="instit1">Michigan Natural Features Inventory Michigan Nature Association Michigan</orgName>
+								<orgName type="institution" key="instit2">John Ball Zoo U.S. Geological Survey</orgName>
+								<orgName type="institution" key="instit3">Michigan Fish and Wildlife Cooperative Research Unit Old-Growth Forest Network</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Ashley</forename><forename type="middle">A</forename><surname>Cole-Wick</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Natural Resources Sault St. Marie Tribe of Chippewa Indians Little River Band of Ottawa Indians Keweenaw Bay Indian Community U.S. Forest Service U.S. Fish and Wildlife Service</orgName>
+								<orgName type="institution" key="instit1">Michigan Natural Features Inventory Michigan Nature Association Michigan</orgName>
+								<orgName type="institution" key="instit2">John Ball Zoo U.S. Geological Survey</orgName>
+								<orgName type="institution" key="instit3">Michigan Fish and Wildlife Cooperative Research Unit Old-Growth Forest Network</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Yu</forename><surname>Man</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Natural Resources Sault St. Marie Tribe of Chippewa Indians Little River Band of Ottawa Indians Keweenaw Bay Indian Community U.S. Forest Service U.S. Fish and Wildlife Service</orgName>
+								<orgName type="institution" key="instit1">Michigan Natural Features Inventory Michigan Nature Association Michigan</orgName>
+								<orgName type="institution" key="instit2">John Ball Zoo U.S. Geological Survey</orgName>
+								<orgName type="institution" key="instit3">Michigan Fish and Wildlife Cooperative Research Unit Old-Growth Forest Network</orgName>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Dynamic Forests Contributors</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">EFD63E3872FBDC4BC0339C8E5C8F86B0</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.1" ident="GROBID" when="2026-07-06T12:26+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>What are dynamic forests? Dynamic Forests are the "working forests" of Michigan; those that are managed for a forest objective typically related to forest products, biodiversity, wildlife habitat, or recreation. Forestry practices employed to achieve these objectives include timber harvest, cultivation, tree planting and prescribed fire. When implemented under sustainable harvest guidelines and using best management practices, forest management can promote structural and species diversity, increase forest productivity, and improve forest health and resilience. Moreover, it can mitigate impacts of invasive species, disease, and environmental change. These actively managed forests represent a diverse range of forest types, structures, ages, and successional stages that are in flux at various scales across the landscape. They are integral to the state's ecological framework, as well-managed forests provide a host of ecosystem services including nutrient cycling, water regulation and quality, soil quality, and carbon storage. They provide habitat for common and rare plants and wildlife species and contribute to the economy through sustainable timber production and recreation. Sound forest management balances these ecological, social and economic values, the three tenets of forest sustainability.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>What is the health of dynamic forests?</head><p>Often, in actively managed forests, forest health is defined by harvest sustainability, where tree removals do not exceed growth rates, ensuring that timber resources persist indefinitely. It is clear that Michigan's dynamic forests are productive forests. Growth rates continue to increase as they mature, exceeding removal and mortality rates, even as the land base remains essentially stable (USDA 2020). Sustainable harvest is not the same as overall forest sustainability. Forest sustainability seeks to balance ecological, economic, and social values. Measuring it requires tracking biodiversity, forest productivity, soil and water conditions, forest products, recreation use, and carbon storage. Some of this information is already collected through routine forest and infrastructure inventories. Applying these data to forest sustainability, however, is new and requires different ways of interpreting them. Other information is still lacking, especially on species and genetic diversity, forest fragmentation, soil quality, and recreation use. This chapter focuses on the attributes of forest sustainability across Michigan's Dynamic Forests, while recognizing the importance of sustainable harvest.</p><p>Dynamic forests are subject to several stressors which can affect forest health. These include high rates of herbivory in places that reduce the ability of the forest to regenerate and invasive species that can alter composition, structure and natural processes. Changes in temperature and precipitation can affect tree species distribution, growth rates, and their ability to withstand insects, disease, and extreme weather. Continued stewardship and collaborative partnerships are essential to ensure these forests remain resilient and capable of serving ecological, economic and social functions into the future.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Vernal pools influence forest food webs by supporting amphibians that serve as both predator and prey <ref type="bibr" target="#b19">(Calhoun et al. 2014)</ref>. They promote nutrient cycling through the decomposition of organic matter <ref type="bibr" target="#b20">(Capps et al. 2014</ref>) and enhance habitat connectivity across ecosystems <ref type="bibr" target="#b83">(Thomas et al. 2010)</ref>. Given their ecological value and limited protection, conserving vernal pools is essential for maintaining resilient forest ecosystems.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Call Out Box: Fairy Shrimp</head><p>Fairy Shrimp are small freshwater crustaceans that only live in vernal pools where fish are absent. Their eggs, called cysts, are about the size of sesame seeds and can withstand freezing and drying, with some eggs actually requiring a period of dryness in order to hatch. Their eggs can last for years, possibly even centuries, in the soil at the bottom of vernal pools until conditions are right for hatching. Their life cycle is extremely rapid, with eggs hatching in early spring when the pools refill with water, juveniles and adults undergoing several stages of development, adults reproducing, females laying eggs and finally adults disappearing from the pools in as few as three weeks.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Accomplishments</head><p>With support from volunteers, Michigan's Vernal Pool Patrol statewide participatory science program has visited 21% (1,498) of the current 7,051 potential vernal pools mapped within the Michigan Vernal Pool Database to assess their status <ref type="bibr">(Ross pers. comm. 2025</ref>). This has resulted in verifying over 1,000 vernal pools across the state, which previously had not been documented and/or mapped. This program has enhanced our understanding of vernal pool status, distribution, and ecology and has increased awareness and conservation of vernal pools in Michigan. Documented new American Goshawk nests and monitored the status of known nests at Hiawatha National Forest and Camp Grayling <ref type="bibr">(Monfils et al. 2024</ref><ref type="bibr" target="#b74">, Rowe et al. 2025)</ref>.</p><p>Conducted annual surveys for Golden-winged Warblers at Camp Grayling from 2021 -2025 to document distribution and monitor population status (See <ref type="bibr" target="#b62">Monfils et al. 2023</ref><ref type="bibr" target="#b63">Monfils et al. , 2025))</ref>. Documented over 50 new occurrences of Yellow-banded Bumble Bee in the Hiawatha National Forest and across northern Michigan <ref type="bibr" target="#b73">(Rowe et al. 2023</ref><ref type="bibr" target="#b74">(Rowe et al. , 2025))</ref>. Initiated a successful head-starting program for Eastern Box Turtles at <ref type="bibr" target="#b47">John Ball Zoo (John Ball Zoo 2025)</ref>.</p><p>Established the Michigan American Marten Working Group to foster collaboration and coordination among government agencies and universities for the conservation and management of American Marten within Michigan.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Focal Species</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>American Goshawk</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Astur atricapillus</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>State Threatened</head><p>Formerly known as the Northern goshawk, the American goshawk is a large forest raptor with a slate gray back, barred light gray belly, and a bold white eyeline over red eyes. This species is perhaps most well-known for its aggressive nest defense. Requiring mature forests, the logging era of the late 1800s resulted in a substantial loss of habitat for the American goshawk, and they were left to persist in the mature forest remnants of northern Michigan. Over the last century, as Michigan's forests re-established and matured, their distribution expanded to the extent that large contiguous mature forest is available. They are now more widespread, though primarily still in the northern portions of the state. However, while they are difficult to monitor given the remote nature of their nesting sites and their capacity for irruptions following prey population cycles, there are some indications that their population is now decreasing (Avian TAC 2019). Goshawks have large home ranges and nest in low densities using deciduous trees in the Great Lakes region, most often species like birch, beech and aspen in Michigan. Breeding sites typically have high canopy closure to protect young from aerial predators and to reduce competition <ref type="bibr" target="#b22">(Chartier et al. 2013)</ref>. This species has been documented from 204 sites in 43 counties in Michigan as of 2025 in the state's Natural Heritage Database and 99 of these occurrences were observed within the last 20 years <ref type="bibr">(2005</ref><ref type="bibr" target="#b77">-2025;</ref><ref type="bibr">MNFI 2025)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Goals</head><p>• Determine status and distribution.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>American Marten</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Martes americana</head><p>The American marten is a small mustelid that is tan to chocolate in color and features a distinct chest/throat patch that varies from cream to auburn. American marten were historically associated with unfragmented areas of late-seral stage conifer forests <ref type="bibr">(Thompson et al. 1989, Buskirk and</ref><ref type="bibr" target="#b17">Powell 1994)</ref>. Recent research has highlighted complexity of forest structure, such as coarse woody debris <ref type="bibr" target="#b65">(Payer and Harrison 2003</ref><ref type="bibr" target="#b38">, Godbout and Ouellet 2010</ref><ref type="bibr" target="#b35">, Farnell et al. 2020)</ref>, snags <ref type="bibr" target="#b67">(Porter et al. 2005</ref>) and tree diversity <ref type="bibr" target="#b74">(Sanders et al. 2017)</ref>, as important elements driving American Marten occurrence and habitat use.</p><p>The American marten was considered extirpated in the Lower Peninsula in 1911 and Upper Peninsula in 1939 due to unregulated trapping and habitat loss. Initial reintroductions began in the Upper Peninsula in 1955, with several follow-up attempts including reintroductions in the Lower <ref type="bibr">Peninsula between 1984</ref><ref type="bibr">and 1986</ref><ref type="bibr" target="#b94">(Williams et al. 2007)</ref>. Currently, American marten populations are stable in the Upper Peninsula and regulated as a furbearer (Michigan DNR 2023). Although scientists and managers have studied the northern Lower Peninsula populations since their reintroduction efforts <ref type="bibr" target="#b74">(Sanders et al. 2017</ref><ref type="bibr" target="#b37">, Gehring et al. 2019)</ref>, their broader distribution and status is largely unknown across the Lower Peninsula. This species is not tracked in the state's Natural Heritage Database.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Goal</head><p>• Enhance forest structure and habitat complexity (e.g., snags and woody debris) using silvicultural techniques to support American Marten populations and promote range expansion in known, suspected, and adjacent habitats.</p><p>• Improve understanding of ecological and environmental characteristics underlying occupied habitats in the Lower Peninsula.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Eastern Box Turtle</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Terrapene carolina carolina</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>State Threatened</head><p>The eastern box turtle is a small, 5-8 inches long, predominantly terrestrial turtle that is easily identifiable by its highly domed, yellow and brown patterned carapace and hinged plastron which can close shut <ref type="bibr" target="#b41">(Harding and Mifsud 2017)</ref>. Eastern box turtles typically inhabit deciduous and mixed forests with a preference for forest-field edges and sandy soils near a slow-moving water source <ref type="bibr" target="#b29">(Dodd 2001</ref><ref type="bibr" target="#b33">, Ernst and Lovich 2009</ref><ref type="bibr" target="#b41">, Harding and Mifsud 2017</ref><ref type="bibr" target="#b70">, Erb and Roberts 2023)</ref>.</p><p>Eastern box turtles are long-lived (up to 50-80 years), have delayed sexual maturity and low reproductive output and populations can continue to persist for a number of years despite small population sizes and/or insufficient recruitment <ref type="bibr" target="#b70">(Erb and Roberts 2023)</ref>. High adult survival is critical for long-term population viability <ref type="bibr" target="#b41">(Harding and</ref><ref type="bibr">Mifsud 2017, Erb and</ref><ref type="bibr" target="#b70">Roberts 2023</ref>). This species is found in the southern and western Lower Peninsula. It has been documented from 375 sites in 36 counties in Michigan as of 2025 in the state's Natural Heritage Database, with 273 of these occurrences observed within the last 30 years <ref type="bibr">(1995</ref><ref type="bibr" target="#b77">-2025;</ref><ref type="bibr">MNFI 2025)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Goals</head><p>• Determine baseline status, distribution and potential viability of populations.</p><p>• Evaluate success and feasibility of head-starting efforts including long-term survival and reproductive success of head-started individuals and framework for implementing efforts at appropriate scale.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Golden-winged Warbler</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Vermivora chrysoptera</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>State Threatened</head><p>Golden-winged warblers are striking and charismatic songbirds, easily recognized by their bright golden crown and flashes of gold on their wings. They have silvery-gray bodies with bold blackand-white facial patterns. They are often heard singing their buzzy songs in brushy habitats with scattered taller trees for perching. First occurring in southern Michigan around the turn of the 20th century due to the expansion of agriculture following logging, this species has demonstrated dynamic population and range shifts over a relatively short period of time. Since the mid-1900s, there continues to be a substantial range contraction and shift northward, and Michigan's breeding population is now largely found in the northern Lower and Upper Peninsulas. This is likely driven by a combination of factors including habitat availability, land use changes, and increased temperatures <ref type="bibr" target="#b72">(Roth et al 2019</ref><ref type="bibr" target="#b43">, Hightower et al 2022)</ref>. In Michigan, this rare warbler relies on two primary habitat types for nesting: upland -early successional/regenerating forest stands often associated with aspen; and lowland -shrubby wetlands. The vegetation structure within these habitat types is important, as is their juxtaposition with deciduous mature forest for rearing fledglings. Breeding Bird Surveys in Michigan documented a population decline at the rate <ref type="bibr">of -5.5% annually between 1966</ref><ref type="bibr">of -5.5% annually between -2009</ref><ref type="bibr">of -5.5% annually between (Sauer et al. 2020))</ref>. This species has been documented from 15 sites in seven counties in Michigan as of 2025 in the state's Natural Heritage Database. All 15 of these occurrences were observed within the last 20 years (2005 -2025; MNFI 2025).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Goal</head><p>• Increase habitat availability to sustain a Michigan population. <ref type="bibr">[GWWA, SFMP]</ref> Small-mouthed Salamander</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Ambystoma texanum</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>State Endangered</head><p>The small-mouthed salamander is one of the rarest salamanders in Michigan. It is a mediumsized (4-7 inches long) salamander with a very small head or snout and a brownish gray to black body with light gray speckles or markings along the lower sides of the body <ref type="bibr" target="#b41">(Harding and Mifsud 2017)</ref>. It can be hard to tell small-mouthed salamanders apart from other similar-looking salamanders in the wild because some related species can share their genes and look almost identical <ref type="bibr" target="#b51">(Lee 2010)</ref>. Small-mouthed salamanders primarily inhabit forested floodplains, swamp forests, deciduous forests and associated wetlands <ref type="bibr">(Petranka 1998, Harding and</ref><ref type="bibr" target="#b41">Mifsud 2017)</ref>. They require temporary, shallow bodies of water, which are usually fish-free, for breeding, including vernal pools, oxbow ponds in floodplains, swamps, roadside ditches and ponds, flooded fields and prairie ponds <ref type="bibr">(Petranka 1998, Harding and</ref><ref type="bibr" target="#b41">Mifsud 2017)</ref>. Outside the spring breeding season, small-mouthed salamanders generally remain hidden beneath rotting logs, rocks, or leaf litter or underground in crayfish or small mammal burrows. Michigan is at the northern extent of the species' range <ref type="bibr" target="#b66">(Petranka 1998</ref>). This species is only known from southeast Michigan from 15 sites in 5 counties according to the state's Natural Heritage Database and none of these occurrences have been observed within the last 20 years (2005 -2025; MNFI 2025).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Goals</head><p>• Establish baseline status and distribution in Michigan.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Yellow-banded Bumblebee</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Bombus terricola</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Special Concern</head><p>Yellow-banded bumble bees are medium to large sized bumble bees with a mostly black thorax, a single yellow stripe on mid-abdomen and orange hairs at the base of the abdomen <ref type="bibr" target="#b95">(Williams et al. 2014)</ref>. Formerly common and widespread across much of the eastern United States and seven Canadian provinces, the yellow-banded bumblebee has vanished from all but isolated patches of its range, along with several other North American bumblebees of the same subgenus <ref type="bibr" target="#b34">(Evans et al. 2008)</ref>. In Michigan, they occur primarily in the northern region of the Lower Peninsula and throughout the Upper Peninsula and are associated with natural hardwood forests and bogs. They are known for their ability to fly in cooler temperatures and lower light conditions, making them effective pollinators even in challenging environments. This species has been documented from 298 sites in 66 counties in Michigan as of 2025 in the state's Natural Heritage Database and 129 of these occurrences were observed within the last 20 years (2015 -2025; MNFI 2025).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Goals</head><p>• Complete targeted surveys at unique life stages of yellow-banded bumble bee colony development.</p><p>• Maintain stable populations of yellow-banded bumble bee at known locations.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Strengthen forest resilience by maintaining ecological integrity</head><p>Forest resilience to a changing environment depends on two key factors: species diversity and the presence of tree populations that are genetically adapted to warmer and drier conditions. Enhancing ecological integrity and supporting research into climate-adaptive genotypes are essential strategies for sustaining healthy forests. Additional challenges include the northward and eastward spread of forest pests and invasive species into Michigan, like emerald ash borer, further stressing forest ecosystems. At the landscape scale, maintaining a shifting mosaic of large blocks of both mature and young forests is logistically complex but critical for supporting biodiversity, facilitating regeneration and enhancing overall forest resilience.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Focal species adaptive capacity</head><p>Adaptive capacity is a species' ability to tolerate or adapt to environmental change, whether that be through shifting in space or persisting in place <ref type="bibr" target="#b87">(Thurman et al. 2020)</ref> • Timber salvage operations in response to disease outbreaks can remove high timber volumes that alters the structure, composition, and age distribution of forested landscapes, reduces wildlife habitat, and can also remove individuals with natural genetic disease resistance, lowering a species ability to better withstand such outbreaks <ref type="bibr" target="#b86">(Thorn et al. 2017, Lindenmayer and</ref><ref type="bibr" target="#b53">Noss 2006)</ref>.</p><p>• Overpopulation of herbivorous mammals (e.g., white-tailed deer and rabbits) can result in over-browsing. Effects can include local extinction of rare species, decreased biodiversity, disruption of long-term natural processes, limit regeneration and recruitment of native trees to overstory and spread of non-native species (Hill Bermingham 2010, <ref type="bibr" target="#b11">Averill et al. 2016</ref><ref type="bibr" target="#b16">, Bernardo et al. 2018</ref>, Maybard-Bean and Kaye 2019).</p><p>• Warmer winters allow for range expansion of invasive species and pests. Allows for extra life cycle of pests, leading to longer and more intense impacts on tree species <ref type="bibr" target="#b14">(Bentz and Jonsson 2015)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Natural Systems Modifications</head><p>• Lack of structural complexity and age class diversity within forests leads to decreased biodiversity and forest quality. Homogenization of forests to predominantly even aged stands decreases ecosystem resilience to disturbance and disease <ref type="bibr" target="#b85">(Thompson et al. 2009</ref>).</p><p>• Altered fire regimes lead to a shift in species composition, reduced biodiversity and the loss of culturally significant species <ref type="bibr" target="#b15">(Berkes and</ref><ref type="bibr">Davidson-Hunt 2006, Larson et al. 2025)</ref>. This loss of fire tolerant species alters forest compositions and impacts management goals and implementation.</p><p>• Loss of old-growth and late-successional forests reduces overall complexity of a forest; large tracts of primary old-growth forest currently constitute less than 0.2% of Michigan <ref type="bibr" target="#b24">(Cohen et al. 2020)</ref>. Forest fragmentation also threatens resilience of old-growth and latesuccessional stands. Currently, many of these forest types persist as remnant patches enmeshed in a matrix of agricultural lands, early-successional forest and young northern hardwoods.</p><p>• Forest fragmentation poses a myriad of threats to species that require contiguous forests such as reduced wildlife corridors and dispersal, increased edge effects and reduced biodiversity. It is important to note this threat is scale dependent based on species needs and there is no "one size fits all" solution.</p><p>• Vernal pools are extremely sensitive to forestry operations <ref type="bibr" target="#b18">(Calhoun and deMaynadier 2007)</ref>. Negative impacts to shade quality, hydrology, soils, coarse woody debris and vegetation both within vernal pool basins and in surrounding uplands can be detrimental to amphibians throughout their life cycles.</p><p>• Herbicides and associated surfactants used as part of tree plantation operations can be deleterious to amphibian populations and may include cascading ecological effects not yet well-understood (deMaynadier and Houlahan 2007).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Changing Weather Patterns</head><p>• Extreme weather events, like the 2025 Ice Storm in the northern Lower Peninsula, cause widespread damage to Dynamic Forests which stress and disrupt management planning and implementation.</p><p>• Warmer temperatures will be less favorable to species at the southern edge of their range in Michigan, such as northern and boreal tree species. This will lead to declines and a northern shift in ranges for these species <ref type="bibr" target="#b39">(Goldblum and</ref><ref type="bibr">Rigg 2005, Viner and</ref><ref type="bibr" target="#b64">Chuine 2008)</ref>.</p><p>• Warmer temperatures will result in less snowpack, earlier snowmelt, longer and drier growing seasons, drier soils, and increased risk of wildfire <ref type="bibr" target="#b93">(Westerling et al. 2006</ref><ref type="bibr" target="#b82">, Suriano et al. 2019)</ref>, which can increase tree mortality, susceptibility to disease, reduce forest regeneration, and alter structure and composition.</p><p>• Moisture stress is of particular concern for seedlings, and this may impact tree regeneration and recruitment.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Human Intrusion &amp; Disturbance</head><p>• Shifts in timber market demand can alter and impact large scale forest management.</p><p>• Lack of natural resource staff capacity can have long lasting, detrimental impacts on forest management in critical areas. Declines and shifts in management schedules and priorities can create setbacks that can be difficult or impossible to resolve.</p><p>• Pesticides can be an important tool in forestry management. However, careful selection of pesticides, adjuvants, application method and timing are critical to minimizing negative impacts on the ecosystem, including reduced biodiversity and damage to rare species. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Threats and conservation actions for focal species</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>American Goshawk</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Threats</head><p>Invasive &amp; Problematic Species, Disease &amp; Genes</p><p>• Mortalities due to diseases, especially avian influenza (See Wildlife Health Chapter for more details).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Natural Systems Modifications</head><p>• Loss of mature, contiguous forest stands through forest fragmentation and logging.</p><p>• Decline of prey items such as snowshoe hare and ruffed grouse.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conservation Actions</head><p>Land &amp; Water Management AMGO1. Protect and maintain large, contiguous tracts of mature forest. [FFMB, PIF-UGL] AMGO2. Protect active nests from timber management activities. <ref type="bibr">[WRG]</ref> Conservation Designation &amp; Planning AMGO3. Update the 2015 DNR Woodland Raptor Guidelines. <ref type="bibr">[WRG]</ref> AMGO4. Create a layer for nests that can be incorporated in the Michigan Forest Inventory (MiFI) and other planning tools. <ref type="bibr">[WRG]</ref> Research &amp; Monitoring AMGO5. Continue to identify and monitor new and known nest sites.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>American Marten</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Threats</head><p>Invasive &amp; Other Problematic Species, Genes &amp; Diseases</p><p>• Potential for high parasite loads in marten can impact already stressed populations <ref type="bibr" target="#b78">(Spriggs et al. 2016</ref><ref type="bibr" target="#b79">, Spriggs et al. 2018</ref>).</p><p>• Small founder numbers and geographically separated populations can lead to reduced genetic diversity.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Development &amp; Natural Systems Modifications</head><p>• Interruption of ecological dynamics and commercial forestry practices can reduced forest structure and fine-scale elements (e.g., loss of snags, course woody debris, etc) <ref type="bibr" target="#b38">(Godbout and Ouellet 2010</ref><ref type="bibr">, Saunders et al. 2017</ref><ref type="bibr" target="#b71">, Roloff et al. 2020</ref><ref type="bibr" target="#b91">, Viau et al. 2024)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Human Intrusion &amp; Disturbance</head><p>• Habitat fragmentation and loss of contiguity throughout forest tracts in the northern Lower and Upper Peninsulas reduces habitat availability, dispersal opportunities and gene flow between populations <ref type="bibr" target="#b42">(Hargis et al. 1999</ref><ref type="bibr" target="#b27">, Cushman et al. 2011</ref><ref type="bibr" target="#b46">, Howell et al. 2016)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Transportation &amp; Service Corridors</head><p>• An increase in road-related mortalities poses a growing threat to American marten populations, as expanding road networks lead to more frequent vehicle collisions and habitat fragmentation, reducing connectivity between suitable habitats <ref type="bibr">(Belant 2007, Sanders and Kujawa pers. communication)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Changing weather patterns</head><p>• Reduced snowfall, snowpack, and increases in average winter temperatures can impact habitat use by martens and abundance of their prey <ref type="bibr" target="#b21">(Carroll 2007</ref><ref type="bibr">, Pozzanghera et al. 2016</ref><ref type="bibr" target="#b50">, Lavoie et al. 2019</ref><ref type="bibr" target="#b45">, Hiltner 2022)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conservation Actions</head><p>Conservation Designation &amp; Planning AM1. Increase communication and collaboration among researchers, land managers, tribes and agencies. <ref type="bibr">[MAMWG]</ref> Research &amp; Monitoring AM2. Research the efficacy of silvicultural specifications for marten populations in the Lower Peninsula.</p><p>Land &amp; Water Management AM3. Protect large tracts of mature forest and maintain or increase density of large and structurally complex coarse woody debris and snags within all age class forest stands during forest management.</p><p>[SFMP] AM4. Encourage the development and maintenance of corridors between large forested tracts.</p><p>[SFMP] AM5. Where possible, increase the within-stand component of mesic conifers in mixed stands, and expand mesic conifer types.</p><p>[SFMP]</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Eastern Box Turtle</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Threats</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Lack of Knowledge</head><p>• Lack of information on the status, demographics, critical habitats and specific threats and management needs at most populations in the state (Hyde 1999).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Residential and Commercial Development</head><p>• Habitat loss and fragmentation due to development have reduced habitat availability and connectivity, isolated existing populations, increased threats (e.g., increased distance females have to travel to access nesting habitat, increased risk of mortality from predators and roads, limited and/or degraded nesting habitat) and negatively impacted the distribution, abundance and potential long-term viability of eastern box turtles (Gibbs and Shriver 2002, Harding and Mifsud 2017, Erb and Roberts 2023a).</p><p>• Increased predation of nests, hatchlings, juveniles and adults due to larger populations of mesopredators (mid-sized carnivores), particularly raccoons, in developed areas have reduced eastern box turtle survival and population recruitment <ref type="bibr">(Erb and Roberts 2023a)</ref>.</p><p>Agriculture &amp; Silviculture</p><p>• Conducting agricultural and forestry activities using heavy machinery and prescribed fire during the turtles' active season can result in turtle mortalities, injuries and other indirect effects <ref type="bibr">(Erb and</ref><ref type="bibr">Roberts 2023a and</ref><ref type="bibr">2023b)</ref>.</p><p>Invasive &amp; Problematic Species, Pathogens &amp; Genes</p><p>• Invasive plant species can form dense stands which reduce foraging and thermoregulatory opportunities and reduce availability and quality of nesting habitat <ref type="bibr">(Erb and Roberts 2023a)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conservation Actions</head><p>Species Management EBT1. Maintain or increase adult survival and recruitment at priority populations by controling mesopredators to reduce predation of nests and all age classes, protecting nests, and/or augmenting populations through headstarting using a strategic framework to increase recruitment population size where needed, appropriate, and feasible. EBT2. Reduce road mortality by identifying areas where road mortality is a significant issue, particularly at viable/potentially viable populations, and implementing mitigation measures (e.g. traffic slowing measures, signage, underpasses, culverts, barrier fencing, strategic road placement) where needed.</p><p>Land and Water Management EBT3. Maintain, restore and/or expand forested, early successional and wetland habitats to support viable populations, particularly nesting habitat. EBT4. Research, assess, establish and implement best practices when conducting habitat management and restoration activities to avoid/reduce adverse impacts to box turtles (e.g., timing, scope and method(s) of prescribed fire, timber harvesting, mowing and vegetation clearing to create/enhance nesting habitat) <ref type="bibr">(Erb and Roberts 2023b)</ref>.</p><p>Research &amp; Monitoring EBT5. Develop and implement a statewide monitoring strategy that includes surveys and/or potentially other methods (e.g., canine detection surveys) to identify unknown populations, and determine and monitor status of extant populations, including conducting long-term monitoring and assessing viability of select populations to understand population demographics and specific threats and management needed to support stable or viable populations statewide. Law &amp; Policy EBT6. Take actions to prevent illegal collection for the pet trade, such as work with DNR law enforcement and local authorities, and reduce incidental collection by the general public.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Golden-winged Warbler</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Threats</head><p>Invasive &amp; Problematic Species, Pathogens &amp; Genes</p><p>• Genetic loss through hybridization with blue-winged warblers across the species' range <ref type="bibr">[GWWA]</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Natural Systems Modifications</head><p>• Loss of early successional habitat created by natural disturbances, such as fire.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conservation Actions</head><p>Land &amp; Water Management GWWA1. Increase habitat management within focal areas on public lands using goldenwinged warbler best management practices. GWWA2. Within golden-winged warbler focal areas, develop landscape-level forest succession goals that meet golden-winged warbler needs across ownerships and through strong collaborative partnerships.</p><p>[GWWA] GWWA3. Work with private landowners to implement golden-winged warbler best management practices [GWWA] GWWA4. Implement forestry practices that make appropriately sized forest gaps in priority areas for the warbler in deciduous forest landscapes.</p><p>Raising Awareness GWWA5. Continue to support the Southern Wings Program, a partnership conserving statepriority birds on their wintering grounds in Mexico, Central America, South America and the Caribbean. <ref type="bibr">[SW]</ref> Research &amp; Monitoring GWWA6. Assess population status of golden-winged warblers and hybrids across species' range in Michigan [GWWA] GWWA7. Conduct targeted surveys in suitable habitat throughout the northern Lower and Upper Peninsulas to document current distribution, assess population demographic parameters, and genetic introgression with blue-winged warbler. GWWA8. Determine if habitat associations vary throughout the species' range and map hybridization zones GWWA9. Develop and ground truth a habitat suitability model to identify additional populations. GWWA10. Assess species' response to 2025 Ice Storm in the northern Lower Peninsula</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Small-mouthed Salamander</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Threats</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Lack of Knowledge</head><p>• Lack of information on the current status, distribution, abundance and potential viability of known populations in the state (Lee 2010).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Residential, Commercial and Agricultural Development</head><p>• Habitat loss, degradation and fragmentation due to clearing, draining and/or filling of forested floodplains, swamps and breeding habitats such as vernal pools for agricultural use and development <ref type="bibr" target="#b66">(Petranka 1998</ref>).</p><p>• Habitat fragmentation and roads have reduced connectivity and caused mortality of individuals at many of the known sites which could lead to loss of genetic diversity and inbreeding and increased risk of local extirpations (Lee 2010).</p><p>• Exposure to chemical pollutants due to runoff of fertilizers, insecticides and herbicides may pose a threat to this species (Lee 2010).</p><p>Invasive &amp; Problematic Species, Pathogens &amp; Genes</p><p>• Presence or increase of the unisexual Ambystoma salamander complex/ individuals may increase hybridization, increase competition for food resources and increase risk of population decline and local extirpations (Lee 2010).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Changing Weather Patterns</head><p>• Increased air temperatures and increased frequency and severity of drought due to climate change can reduce water levels and duration of water in breeding pools, which could result in breeding pools drying up before larval metamorphosis is complete and reduced recruitment.</p><p>• Warmer weather will result in reduced snowpack and changing precipitation patterns that could impact availability and timing of ephemeral aquatic habitat. Invasive &amp; Other Problematic Species, Genes &amp; Diseases</p><p>• Spread of pathogens from commercially used bumblebees threatens wild bumblebee populations <ref type="bibr" target="#b23">(Chen et al. 2025</ref>).</p><p>• Widespread use of pesticides (neonictinoids) in or around yellow-banded bumblebee locations.</p><p>• Direct competition for nectar sources from introduced species such as commercial honeybees linked to potential long-term evolutionary declines in floral nectar production <ref type="bibr" target="#b80">(Su et al. 2022</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conservation Actions</head><p>Land &amp; Water Management YBBB1. Reestablish wildflowers within agricultural and urban landscapes using native species.</p><p>[PBMP] YBBB2. Manage dynamic forest systems for a diverse range of community types and cover types.</p><p>Research &amp; Monitoring YBBB3. Identify and monitor new and known populations. <ref type="bibr">[NAB]</ref> YBBB4. Promote community science efforts to identify populations.</p><p>• Continue to map and monitor vernal pools statewide through remote sensing, targeted surveys and monitoring, and the Michigan Vernal Pool Patrol.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Focal Species</head><p>American Goshawk</p><p>• Conduct systematic surveys at known territories to document changes in distribution and track population trends.</p><p>• Conduct targeted surveys in suitable habitat during breeding season to locate new nesting sites.</p><p>• Update occurrences in the state's Natural Heritage Database.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>American Marten</head><p>• Continue to work collaboratively among agencies, tribes and non-government organizations through the Michigan American Marten Working Group.</p><p>• Establish a comprehensive population distribution map for the northern Lower Peninsula using methods like camera traps, scat detection and radio telemetry.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Eastern Box Turtle</head><p>• Continue monitoring the status, distribution, abundance and potential viability of box turtle populations in Michigan using occupancy and abundance modeling, population modelling and viability assessments and/or other survey, monitoring, or modelling methods.</p><p>• Continue to update element occurrences in the state's Natural Heritage Database.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Golden-winged Warbler</head><p>• Continue North American Breeding Bird Survey.</p><p>• Use community science programs, like eBird, to assess distribution and abundance.</p><p>• Update occurrences in the state's Natural Heritage Database.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Small-mouthed Salamander</head><p>• Monitor status, distribution and abundance of small-mouthed salamander populations in Michigan using trapping, visual surveys and/or coverboard surveys and potentially occupancy and abundance modeling.</p><p>• Continue to update element occurrences in the state's Natural Heritage Database.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Yellow-banded Bumblebee</head><p>• Conduct time-meander survey transects at priority sites.</p><p>• Promote existing community science efforts, like iNaturalist, to identify populations.</p><p>• Update occurrences in the state's Natural Heritage Database.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="4,72.00,450.39,253.00,253.00" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="6,72.00,72.00,252.00,252.00" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="7,72.00,72.00,263.00,263.00" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="8,72.00,72.00,232.50,232.50" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="10,72.00,72.00,249.00,249.00" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="20,72.00,164.57,333.10,405.04" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head></head><label></label><figDesc>Increase support for CISMAs to protect high quality areas and develop long-term, regional invasive species management strategies.[TIS]   DF18. Take appropriate enforcement actions for violations of the Michigan Threatened and Endangered Species Act (NREPA Part 365), the Invasive Species Order (NREPA Part 413) and maintain the Prohibited and Restricted Species list pursuant to the Natural Resources and Environmental Protection Act, P.A. 451 of 1994, as amended.</figDesc><table><row><cell>Conservation Actions Law &amp; Policy</cell></row><row><cell>Land &amp; Water Management DF17.</cell></row><row><cell>DF1. Manage dynamic forest landscapes as a matrix of community and cover types to meet diverse SGCN and State Forest Management Plan Featured Species needs based on focal species goals at appropriate scales. [SFMP] DF2. Incorporate course woody debris and snag retention as crucial tools for SGCN management. [FSC] DF3. Identify and preserve vernal pool locations. Implement best management practices</cell></row><row><cell>around vernal pools. Conserve upland matrices around vernal pools and corridors to the pools for SGCN movements. [FSC] DF4. Conserve seeps and springs as important habitat features for amphibian SGCN. DF5. Increased prescribed fire on the landscape in fire dependent systems to promote fire-</cell></row><row><cell>dependent species, manage fuel loads and influence succession pathways. [SFMP]</cell></row><row><cell>Raising Awareness</cell></row><row><cell>DF6. Continue education and outreach to private landowners about the need for diverse forest management by building on existing programs and cost share opportunities. [SFAP]</cell></row><row><cell>DF7. Promote voluntary best management practices to recreational users, researchers and industry for stopping the introduction and spread of invasive species. [TIS]</cell></row><row><cell>Conservation Designation &amp; Planning</cell></row><row><cell>DF8. Build a network of collaboration across government agencies, non-governmental organizations, and private landowners that leans on each other's strengths and</cell></row><row><cell>leverages resources to multiply efforts for forest management across the landscape. [MAMWG] DF9. Continue to support increasing state forest land resiliency and sustainability efforts through external forest certification standards [SFI, FSC]. DF10. Increase communication around DNR/Michigan Invasive Species Program responses</cell></row><row><cell>to emerging invasive and pest issues. Connect partners and public with relevant CISMAs for concerns about established species. [TIS] DF11. Continue to expand Good Neighbor Authority program to meet forest management needs throughout national forestland in Michigan. DF12. Recognize and protect fire-sensitive species in all prescribed fire burn plans. [PBMP] DF13. Protect Michigan's declining old growth forest remnants.</cell></row><row><cell>Research &amp; Monitoring</cell></row><row><cell>DF14. Conduct research into impacts of deer browse on SGCN and their habitats and collate the data into a centralized database. Create and implement management actions</cell></row><row><cell>based off the results of this research. DF15. Conduct research into benchmarks for SGCN needs around forest management. DF16. Continue to use and promote the Midwest Invasive Species Information Network (MISIN) to monitor invasive species. [TIS]</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head></head><label></label><figDesc>Loss of nesting and foraging habitat by increased urbanization and agricultural land use (Colla and Packer 2008).</figDesc><table><row><cell>SMS4. Avoid or reduce use of chemicals, including insecticides and herbicides, near</cell></row><row><cell>occupied habitat, particularly breeding habitats.</cell></row><row><cell>Research &amp; Monitoring</cell></row><row><cell>SMS5. Develop and implement a statewide monitoring strategy that includes targeted surveys to identify unknown populations, determine status of historic or poorly surveyed populations and assess and monitor status and abundance of extant populations. SMS6. Research potential use and effectiveness of eDNA to identify and/or monitor status</cell></row><row><cell>and abundance of extant or occupied sites. SMS7. Investigate population dynamics or impacts in relation to the unisexual blue-spotted salamander complex SMS8. Monitor presence of diseases (e.g., chytrid/Batrachochytrium salamandrivorans) in</cell></row><row><cell>extant populations.</cell></row><row><cell>Yellow-banded Bumblebee</cell></row><row><cell>Threats</cell></row><row><cell>Development &amp; Natural Systems Modifications</cell></row><row><cell>•</cell></row><row><cell>Conservation Actions</cell></row><row><cell>Species Management</cell></row><row><cell>SMS1. Implement road mortality mitigation measures (e.g. temporary road closures during the breeding season and/or emergence season, traffic slowing measures, underpasses, culverts, barrier fencing, strategic road placement) where needed.</cell></row><row><cell>Land and Water Management</cell></row><row><cell>SMS2. Maintain, protect, restore and/or expand complexes of forested wetlands and upland forests with breeding habitats such as vernal pools to provide suitable and sufficient breeding and foraging habitats to support viable populations at known sites. Maintain</cell></row><row><cell>fish-free breeding habitats that stay flooded long enough to support successful larval metamorphosis and recruitment. SMS3. Maintain cool, moist, microenvironments, canopy cover and sufficient leaf litter and woody debris on the forest floor to provide cover and foraging habitat for juveniles and adults.</cell></row></table></figure>
+		</body>
+		<back>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Places for partnership</head><p>This chapter's purpose is to provide a platform for wildlife biologists and foresters to collaborate on wildlife and forest management. To that end, any Dynamic Forest in Michigan is a Place for Partnership. Partnerships are encouraged to develop local, scale appropriate goals and actions. This map shows the broad forested lands covered under the Dynamic Forests chapter.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>How will we monitor?</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Dynamic forest habitat</head><p>• Use a variety of sources to monitor Dynamic Forest health such as the Michigan Forest Inventory (MiFI) and the U.S. Forest Service Forest Inventory and Analysis.</p><p>• Continue to survey for high quality young forests and mature, old growth forests. Systematically identify old-growth forest across cover types.</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<monogr>
+		<title level="m" type="main">Conservation Plan for the Eastern Box Turtle in the Northeastern United States</title>
+		<imprint>
+			<date type="published" when="2023">2023</date>
+			<publisher>Roberts and Erb</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<title level="m">Forestry for Michigan Birds (Crick and Rowse</title>
+		<imprint>
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<title level="m">Forest Stewardship Council Principles and Criteria for Forest Stewardship</title>
+		<imprint>
+			<publisher>FSC</publisher>
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<title level="m" type="main">Warbler Habitats in the Great Lakes Region (Golden-winged Warbler Working Group</title>
+		<imprint>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+		<respStmt>
+			<orgName>Michigan American Marten Working Group</orgName>
+		</respStmt>
+	</monogr>
+	<note>DNR 2024</note>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<monogr>
+		<author>
+			<persName><surname>Schweitzer</surname></persName>
+		</author>
+		<title level="m">Conservation and management of North American bumble bees</title>
+		<imprint>
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<monogr>
+		<title level="m" type="main">PIF-UGL] Partners in Flight Bird Conservation Plan for the Upper Great Lakes Plain</title>
+		<imprint>
+			<date type="published" when="2001">2015. 2001</date>
+			<publisher>Pollinator-friendly BMPs for Federal Lands (USFS</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<monogr>
+		<title level="m">Sustainable Forestry Initiative Forest Management Standard</title>
+		<imprint/>
+	</monogr>
+	<note>SFI 2022</note>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<monogr>
+		<title level="m">State Forest Action Plan</title>
+		<imprint>
+			<date type="published" when="2020">Michigan DNR 2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<monogr>
+		<title level="m">Southern Wings Presidential Task Force 2025 Report</title>
+		<imprint>
+			<date type="published" when="2025">Southern Wings 2025</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<monogr>
+		<title level="m">Terrestrial Invasive Species Management Plan (State of Michigan</title>
+		<imprint>
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<monogr>
+		<title level="m" type="main">Woodland Raptor Guidelines (DNR 2015) Literature cited</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Deer feeding selectivity for invasive plants</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">M</forename><surname>Averill</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Mortensen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">A</forename><surname>Smithwick</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Post</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biological Invasions</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page" from="1247" to="1263" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<monogr>
+		<title level="m" type="main">Recommendations for listing to the DNR</title>
+		<imprint>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+	<note>Avian Technical Advisory Committee. Internal document</note>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Human-caused mortality and population trends of American marten and fisher in a U.S. National Park</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Belant</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Natural Areas</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page" from="155" to="160" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Chapter 13 -Modeling bark beetle responses to climate change</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">J</forename><surname>Bentz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Jonsson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Bark Beetles: Biology and ecology of native and invasive species</title>
+		<editor>
+			<persName><forename type="first">F</forename><forename type="middle">E</forename><surname>Vega</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">R</forename><forename type="middle">W</forename><surname>Hostetter</surname></persName>
+		</editor>
+		<imprint>
+			<publisher>Academic Press</publisher>
+			<date type="published" when="2015">2015</date>
+			<biblScope unit="page" from="533" to="553" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Biodiversity, traditional management systems, and cultural landscapes: examples from the boreal forest of Canada</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Berkes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">J</forename><surname>Davidson-Hunt</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">International Social Science Journal</title>
+		<imprint>
+			<biblScope unit="volume">187</biblScope>
+			<biblScope unit="page" from="35" to="47" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Count population viability analysis finds that interacting local and regional threats affect the viability of a rare plant</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">L</forename><surname>Bernardo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Vitt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Goad</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Masi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">M</forename><surname>Knight</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ecological Indicators</title>
+		<imprint>
+			<biblScope unit="volume">93</biblScope>
+			<biblScope unit="page" from="822" to="829" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Habitat ecology of fishers and American martens</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">W</forename><surname>Buskirk</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Powell</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Martens, sables, and fishers: biology and conservation</title>
+		<editor>
+			<persName><forename type="first">S</forename><forename type="middle">W</forename><surname>Buskirk</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">A</forename><forename type="middle">S</forename><surname>Harestad</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">M</forename><forename type="middle">G</forename><surname>Raphael</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Powell</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Ithaca, N.Y.</addrLine></address></meeting>
+		<imprint>
+			<publisher>Cornell University Press</publisher>
+			<date type="published" when="1994">1994</date>
+			<biblScope unit="page" from="283" to="296" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<monogr>
+		<title level="m" type="main">Conserving Vernal Pool Amphibians in Managed Forests. Chapter 13 of Science and Conservation of Vernal Pools in Northeastern North America</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J K</forename><surname>Calhoun</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">G</forename><surname>Demaynadier</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+	<note>1st edition</note>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<monogr>
+		<title level="m" type="main">Creating Successful Vernal Pools: A Literature Review and Advice for Practitioners</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J K</forename><surname>Calhoun</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Arrigoni</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">P</forename><surname>Brooks</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Hunter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">C</forename><surname>Richter</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s13157-014-0556-8</idno>
+		<ptr target="https://doi.org/10.1007/s13157-014-0556-8" />
+		<imprint>
+			<date type="published" when="2014">2014</date>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="page" from="1027" to="1038" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Biogeochemical Hotspots in Forested Landscapes: The Role of Vernal Pools in Denitrification and Organic Matter Processing</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">A</forename><surname>Capps</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Rancatti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Tomczyk</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">B</forename><surname>Parr</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J K</forename><surname>Calhoun</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Hunter</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s10021-014-9807-z</idno>
+		<ptr target="https://doi.org/10.1007/s10021-014-9807-z" />
+	</analytic>
+	<monogr>
+		<title level="j">Ecosystems</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="issue">8</biblScope>
+			<biblScope unit="page" from="1455" to="1468" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Interacting effects of climate change, landscape conversion and harvest on carnivore populations at range margin: marten and lynx in the northern Appalachians</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Carroll</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Conservation Biology</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page" from="1092" to="1104" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<monogr>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">T</forename><surname>Chartier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Baldy</surname></persName>
+		</author>
+		<title level="m">Michigan Breeding Bird Atlas II</title>
+		<editor>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Brenneman</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Kalamazoo, MI</addrLine></address></meeting>
+		<imprint>
+			<publisher>Kalamazoo Nature Center</publisher>
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">The role of pathogens in bumblebee decline: a review</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">H</forename><surname>Bashir</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Q</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Naseem</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Gao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">T</forename><surname>Corlett</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">C</forename><surname>Vidal</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Pathogens</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page">94</biblScope>
+			<date type="published" when="2025">2025</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<monogr>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">G</forename><surname>Cohen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Kost</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">S</forename><surname>Slaughter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Albert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Lincoln</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">P</forename><surname>Kortenhoven</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Wilton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">D</forename><surname>Enander</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">M</forename><surname>Korroch</surname></persName>
+		</author>
+		<ptr target="https://mnfi.anr.msu.edu/communities/classification" />
+		<title level="m">Michigan Natural Community Classification</title>
+		<meeting><address><addrLine>Lansing, Michigan</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2020-05-22">2020. May 22, 2025</date>
+		</imprint>
+		<respStmt>
+			<orgName>Michigan State University Extension</orgName>
+		</respStmt>
+	</monogr>
+	<note>Michigan Natural Features Inventory</note>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Using GIS-based multicriteria decision analysis to prioritize invasive plant treatment: A creative solution for a pernicious problem</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">G</forename><surname>Cohen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">D</forename><surname>Enander</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">J</forename><surname>Bassett</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Wilton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Cole-Wick</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ecological Modelling</title>
+		<imprint>
+			<biblScope unit="volume">495</biblScope>
+			<biblScope unit="page">110807</biblScope>
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Evidence for decline in eastern North American bumblebees (Hymenoptera: Apidae), with special focus on Bombus affinis Cresson</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">A</forename><surname>Colburn</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Mcnaughton &amp; Gunn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">I</forename><surname>Saline</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">R</forename><surname>Colla</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Packer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biodiversity and Conservation</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page" from="1379" to="1391" />
+			<date type="published" when="2004">2004. 2008</date>
+		</imprint>
+	</monogr>
+	<note>Vernal pools. Natural History and Conservation</note>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">A</forename><surname>Cushman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">G</forename><surname>Raphael</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">F</forename><surname>Ruggiero</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">S</forename><surname>Shirk</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">N</forename><surname>Wasserman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">C</forename><surname>O'doherty</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Limiting factors and landscape connectivity: the American marten in the Rocky Mountains</title>
+		<imprint>
+			<date type="published" when="2011">2011</date>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="137" to="1149" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<monogr>
+		<author>
+			<persName><forename type="first">J</forename><surname>Crick</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Rowse</surname></persName>
+		</author>
+		<ptr target="https://www.michiganaudubon.org/wp-content/uploads/2022/06/FMB-Forest-Managers-Guidebook-DIGITAL-Final.pdf" />
+		<title level="m">Forest for Michigan birds guidebook. Michigan Audubon</title>
+		<imprint>
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<monogr>
+		<title level="m" type="main">North American Box turtles: A Natural History</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">K</forename><surname>Dodd</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Jr</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2001">2001</date>
+			<publisher>University of Oklahoma Press</publisher>
+			<pubPlace>Norman, OK</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<monogr>
+		<title level="m" type="main">Assessing Climate Vulnerability &amp; Adaptive Capacity of Midwest Species of Greatest Conservation Need</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Earl</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">C</forename><surname>Branch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">A</forename><surname>Cole-Wick</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">M</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">M</forename><surname>Rowe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Badra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Wilton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Cuthrell</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2024">2024</date>
+			<publisher>Michigan Natural Features Inventory</publisher>
+			<biblScope unit="page">79</biblScope>
+			<pubPlace>Lansing, MI</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<monogr>
+		<title level="m" type="main">2023a. Status assessment for the eastern box turtle in the northeastern United States. Final report to the Northeast Association of Fish and Wildlife Agencies (NEAFWA) for a Regional Conservation Needs (RCN) award</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">A</forename><surname>Erb</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">P</forename><surname>Roberts</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<monogr>
+		<title level="m" type="main">2023b. A guide to habitat management for eastern box turtle (Terrepene carolina carolina). Final report to the Northeast Association of Fish and Wildlife Agencies (NEAFWA) for a Regional Conservation Needs (RCN) award</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">A</forename><surname>Erb</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">P</forename><surname>Roberts</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<monogr>
+		<title level="m" type="main">Turtles of the United States and Canada. 2nd Edition</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">H</forename><surname>Ernst</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Lovich</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2009">2009</date>
+			<publisher>The Johns Hopkins University Press</publisher>
+			<pubPlace>Baltimore, MD</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<monogr>
+		<author>
+			<persName><forename type="first">E</forename><surname>Evans</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Thorp</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Jepsen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">H</forename><surname>Black</surname></persName>
+		</author>
+		<title level="m">Status Review of Three Formerly Common Species of Bumble Bee in the Subgenus Bombus. Prepared for the Xerces Society of Invertebrate Conservation</title>
+		<imprint>
+			<date type="published" when="2008">2008</date>
+			<biblScope unit="page">63</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">The Effects of Variable Retention Forestry on Coarse Woody Debris Dynamics and Concomitant Impacts on American Marten Habitat after 27 Years</title>
+		<author>
+			<persName><forename type="first">I</forename><surname>Farnell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Elkin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Lilles</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Roberts</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Venter</surname></persName>
+		</author>
+		<idno type="DOI">10.1139/cjfr-2019-0417</idno>
+		<ptr target="https://doi.org/10.1139/cjfr-2019-0417" />
+	</analytic>
+	<monogr>
+		<title level="j">Canadian Journal of Forest Research</title>
+		<imprint>
+			<biblScope unit="volume">50</biblScope>
+			<biblScope unit="issue">9</biblScope>
+			<biblScope unit="page" from="925" to="935" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<monogr>
+		<ptr target="https://open.fsc.org/server/api/core/bitstreams/ccf" />
+		<title level="m">FSC Principles and criteria for forest stewardship</title>
+		<imprint>
+			<date type="published" when="2002">2002. 3fd9d-31a9-48ab-89e3-236d48. 2025</date>
+			<biblScope unit="page">6</biblScope>
+		</imprint>
+		<respStmt>
+			<orgName>Forest Stewardship Council (FSC)</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Spatial Ecology of Re-introduced American Martens in the Northern Lower Peninsula of Michigan</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">M</forename><surname>Gehring</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">M</forename><surname>Mcfadden</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">A</forename><surname>Prussing</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">A</forename><surname>Bickersmith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Buchanan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Nelson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">J</forename><surname>Swanson</surname></persName>
+		</author>
+		<idno type="DOI">10.1674/0003-0031-182.2.239</idno>
+		<ptr target="https://doi.org/10.1674/0003-0031-182.2.239" />
+	</analytic>
+	<monogr>
+		<title level="j">The American Midland Naturalist</title>
+		<imprint>
+			<biblScope unit="volume">182</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Fine-scale habitat selection of American marten at the southern fringe of a boreal forest</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Godbout</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Ouellet</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ecoscience</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page" from="175" to="185" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">Tree growth response to climate change at the deciduousboreal forest ecotone</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Goldblum</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">S</forename><surname>Rigg</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Canadian Journal of Forest Research</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="issue">11</biblScope>
+			<biblScope unit="page" from="2709" to="2718" />
+			<date type="published" when="2005">2005</date>
+			<pubPlace>Ontario, Canada</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<monogr>
+		<title level="m" type="main">Best management practices for golden-winged warbler habitats in the Great Lakes Region. 2nd Edition</title>
+		<author>
+			<persName><forename type="first">Golden-Winged</forename><surname>Warbler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Working</forename><surname>Group</surname></persName>
+		</author>
+		<ptr target="https://www.gwwa.org" />
+		<imprint>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<monogr>
+		<title level="m" type="main">Amphibians and Reptiles of the Great Lakes Region</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Harding</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Mifsud</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2017">2017</date>
+			<publisher>University of Michigan Press</publisher>
+			<pubPlace>Ann Arbor, MI</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Revised Edition</note>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<title level="a" type="main">The influence on forest fragmentation and landscape pattern on American martens</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">D</forename><surname>Hargis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Bissonette</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Turner</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Applied Ecology</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="page" from="157" to="172" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<title level="a" type="main">Change in climatically suitable breeding distributions reduces hybridization potential between Vermivora warblers</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">N</forename><surname>Hightower</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Crawford</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">E</forename><surname>Thogmartin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">R</forename><surname>Aldinger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">B</forename><surname>Swarthout</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Buehler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Confer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Friis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Larkin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Lowe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Piorkowski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">W</forename><surname>Rohrbaugh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">V</forename><surname>Rosenberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Smalling</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">B</forename><surname>Wood</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Vallender</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Roth</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diversity and Distributions</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page" from="254" to="271" />
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<analytic>
+		<title level="a" type="main">Deer herbivory and habitat type influence long-term population dynamics of a rare wetland plant</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Hill Bermingham</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Plant Ecology</title>
+		<imprint>
+			<biblScope unit="volume">210</biblScope>
+			<biblScope unit="page" from="359" to="378" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<monogr>
+		<title level="m" type="main">Changing snow conditions and shifts in American marten</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">J</forename><surname>Hiltner</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2022">2022</date>
+			<pubPlace>Ann Arbor, MI</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>University of Michigan</orgName>
+		</respStmt>
+	</monogr>
+	<note type="report_type">Martes americana). Thesis</note>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<analytic>
+		<title level="a" type="main">Contiguity of landscape features pose barriers to gene flow among American marten (Martes americana) genetic clusters in the Upper Peninsula of Michigan</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">E</forename><surname>Howell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">L</forename><surname>Koen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">W</forename><surname>Williams</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">J</forename><surname>Roloff</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">T</forename><surname>Scribner</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Landscape Ecology</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="page" from="1051" to="1062" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<monogr>
+		<title level="m" type="main">A Slow and Steady Head Start on Life. Press release</title>
+		<author>
+			<persName><forename type="first">John</forename><surname>Ball</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Zoo</forename></persName>
+		</author>
+		<ptr target="https://jbzoo.org" />
+		<imprint>
+			<date type="published" when="2025-11-04">2025. 4 November 2025</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<analytic>
+		<title level="a" type="main">Managing for multiple resources under climate change: National forests</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">A</forename><surname>Joyce</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">M</forename><surname>Blate</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">G</forename><surname>Mcnulty</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">I</forename><surname>Millar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Moser</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">P</forename><surname>Neilson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Peterson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Environmental Management</title>
+		<imprint>
+			<biblScope unit="volume">44</biblScope>
+			<biblScope unit="page" from="1022" to="1032" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<analytic>
+		<title level="a" type="main">Partners in Flight bird conservation plan for the Upper Great Lakes Plain (Physiographic Area 16)</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">G</forename><surname>Knutson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Butcher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Fitzgerald</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Shieldcastle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">;</forename><surname>Wi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">R</forename><surname>Larson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">M</forename><surname>Montano</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Lockling</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Ojibway</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">B</forename><surname>Reynolds</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">R</forename><surname>Zhaawendaagozikwe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">B</forename><surname>Johnson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">F</forename><surname>Kipfmueller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Dockry</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Northrup</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Savage</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">Wall</forename><surname>Kimmerer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">USGS Upper Midwest Environmental Sciences Center in cooperation with Partners in Flight. La Crosse</title>
+		<imprint>
+			<date type="published" when="2001">2001. 2025</date>
+			<biblScope unit="volume">122</biblScope>
+			<biblScope unit="page">34</biblScope>
+		</imprint>
+	</monogr>
+	<note>Indigenous fire stewardship shaped North American Great Lakes forests</note>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<analytic>
+		<title level="a" type="main">Timber harvest jeopardize marten persistence in the heart of its range</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Lavoie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Renard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Lariviere</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Forest Ecology and Management</title>
+		<imprint>
+			<biblScope unit="volume">442</biblScope>
+			<biblScope unit="page" from="46" to="52" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<monogr>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Lee</surname></persName>
+		</author>
+		<title level="m">Special animal abstract for Ambystoma texanum (Smallmouth Salamander). Michigan Natural Features Inventory</title>
+		<meeting><address><addrLine>Lansing, MI</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<monogr>
+		<title level="m" type="main">Surveys and Monitoring for the Hiawatha National Forest -Vernal Pools</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Lee</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2016">2016</date>
+			<publisher>Michigan Natural Features Inventory</publisher>
+			<biblScope unit="page">93</biblScope>
+			<pubPlace>Lansing, MI</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b53">
+	<analytic>
+		<title level="a" type="main">Salvage logging, ecosystem processes, and biodiversity conservation</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">B</forename><surname>Lindenmayer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">F</forename><surname>Noss</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Conservation Biology</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="931" to="1335" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b54">
+	<analytic>
+		<title level="a" type="main">Effects of invasive plants on arthropods</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">R</forename><surname>Litt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">E</forename><surname>Cord</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">E</forename><surname>Fulbright</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">L</forename><surname>Schuster</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Conservation Biology</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="1532" to="1549" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b55">
+	<analytic>
+		<title level="a" type="main">Invasive shrub benefits native plants in an eastern deciduous forest of North America</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Maynard-Bean</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Kaye</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Invasive Plant Science and Management</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="3" to="10" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b56">
+	<monogr>
+		<title level="m" type="main">Management Guidance for Woodland Raptors (specifically Red-shouldered Hawks and Northern Goshawks) on State Forest Lands</title>
+		<imprint>
+			<date type="published" when="2015">2015</date>
+			<publisher>Michigan Department of Natural Resources</publisher>
+			<biblScope unit="page">3</biblScope>
+			<pubPlace>Lansing, MI</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b57">
+	<monogr>
+		<title level="m" type="main">Lansing, MI 26.pp. Michigan Department of Natural Resources (DNR). 2024a. State Forest Management Plan</title>
+		<idno>No. 3714</idno>
+		<imprint>
+			<date type="published" when="2021">2023. 2021</date>
+			<publisher>Michigan Department of Natural Resources</publisher>
+			<biblScope unit="page">1749</biblScope>
+			<pubPlace>Lansing, MI</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="report_type">Wildlife Division Report</note>
+	<note>Marten and Fisher Harvest Survey. Michigan Department of Natural Resources</note>
+</biblStruct>
+
+<biblStruct xml:id="b58">
+	<monogr>
+		<title level="m" type="main">2024b. Forest Health Highlights. Michigan Department of Natural Resources</title>
+		<imprint>
+			<publisher>Michigan Department of Natural Resources (DNR)</publisher>
+			<biblScope unit="page">62</biblScope>
+			<pubPlace>Lansing, MI</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b59">
+	<monogr>
+		<title level="m">Michigan Natural Features Inventory (MNFI). 2025. Michigan Natural Heritage Database</title>
+		<meeting><address><addrLine>Lansing, Michigan</addrLine></address></meeting>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b60">
+	<analytic>
+		<title level="a" type="main">Monitoring of high priority bird species at Camp Grayling, Michigan</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Monfils</surname></persName>
+		</author>
+		<idno>No. 2021-08</idno>
+	</analytic>
+	<monogr>
+		<title level="m">Michigan Natural Features Inventory</title>
+		<meeting><address><addrLine>Lansing, MI</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2021">2021</date>
+			<biblScope unit="page">20</biblScope>
+		</imprint>
+	</monogr>
+	<note type="report_type">Report</note>
+</biblStruct>
+
+<biblStruct xml:id="b61">
+	<analytic>
+		<title level="a" type="main">Monitoring of high priority bird species at Camp Grayling, Michigan</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Monfils</surname></persName>
+		</author>
+		<idno>No. 2022-22</idno>
+	</analytic>
+	<monogr>
+		<title level="m">Michigan Natural Features Inventory</title>
+		<meeting><address><addrLine>Lansing, MI</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2022">2022</date>
+			<biblScope unit="page">22</biblScope>
+		</imprint>
+	</monogr>
+	<note type="report_type">Report</note>
+</biblStruct>
+
+<biblStruct xml:id="b62">
+	<monogr>
+		<title level="m" type="main">Monitoring of high priority bird species at Camp Grayling Joint Maneuver Training Center</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Monfils</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">C</forename><surname>Branch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">A</forename><surname>Cole-Wick</surname></persName>
+		</author>
+		<idno>No. 2023-24</idno>
+		<imprint>
+			<date type="published" when="2023">2023</date>
+			<publisher>Michigan Natural Features Inventory</publisher>
+			<biblScope unit="page">32</biblScope>
+			<pubPlace>Lansing</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="report_type">Report</note>
+</biblStruct>
+
+<biblStruct xml:id="b63">
+	<monogr>
+		<title level="m" type="main">Monitoring of priority bird species at Camp Grayling Joint Maneuver Training Center</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Monfils</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">C</forename><surname>Branch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">A</forename><surname>Cole-Wick</surname></persName>
+		</author>
+		<idno>No. 2025-01</idno>
+		<imprint>
+			<date type="published" when="2025">2025</date>
+			<publisher>Michigan Natural Features Inventory</publisher>
+			<biblScope unit="page">32</biblScope>
+			<pubPlace>Lansing</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="report_type">Report</note>
+</biblStruct>
+
+<biblStruct xml:id="b64">
+	<analytic>
+		<title level="a" type="main">Tree species range shifts at a continental scale: new predictive insights from a process-based model</title>
+		<author>
+			<persName><forename type="first">X</forename><surname>Morin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Viner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Chuine</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Ecology</title>
+		<imprint>
+			<biblScope unit="volume">96</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="784" to="794" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b65">
+	<analytic>
+		<title level="a" type="main">Influence of forest structure on habitat use by American marten in an industrial forest</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">C</forename><surname>Payer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Harrison</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Forest Ecology and Management</title>
+		<imprint>
+			<biblScope unit="volume">179</biblScope>
+			<biblScope unit="page" from="145" to="156" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b66">
+	<monogr>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">W</forename><surname>Petranka</surname></persName>
+		</author>
+		<title level="m">Salamanders of the United States and Canada</title>
+		<meeting><address><addrLine>Washington, D.C</addrLine></address></meeting>
+		<imprint>
+			<publisher>Smithsonian Institution Press</publisher>
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b67">
+	<analytic>
+		<title level="a" type="main">Fine-scale selection by marten during winter in a young deciduous forest</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">D</forename><surname>Porter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">C</forename><surname>St</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Clair</surname></persName>
+		</author>
+		<author>
+			<persName><surname>De Vries</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Canadian Journal of Forest Research</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="page" from="901" to="909" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b68">
+	<analytic>
+		<title level="a" type="main">Variable effects of snow conditions across boreal mesocarnivore species</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">B</forename><surname>Pozzenghera</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">J</forename><surname>Sivy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">S</forename><surname>Lindberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">R</forename><surname>Prugh</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Canadian Journal of Zoology</title>
+		<imprint>
+			<biblScope unit="volume">94</biblScope>
+			<biblScope unit="page" from="697" to="705" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b69">
+	<analytic>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">L</forename><surname>Preisser</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">Y</forename><surname>Kefer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Lawrence</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">W</forename><surname>Clark</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s002670010108</idno>
+		<ptr target="https://doi.org/10.1007/s002670010108" />
+	</analytic>
+	<monogr>
+		<title level="m">Vernal Pool Conservation in Connecticut: An Assessment and Recommendations</title>
+		<imprint>
+			<date type="published" when="2000">2000</date>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="503" to="513" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b70">
+	<monogr>
+		<title level="m" type="main">Conservation plan for the eastern box turtle in the northeastern United States. Final report to the Northeast Association of Fish and Wildlife Agencies (NEAFWA) for a Regional Conservation Needs (RCN) award</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">P</forename><surname>Roberts</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">A</forename><surname>Erb</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2023">2023</date>
+			<biblScope unit="page">78</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b71">
+	<analytic>
+		<title level="a" type="main">Resource use by marten at fine spatial extents</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">J</forename><surname>Roloff</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">R</forename><surname>Silet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Gray</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Humphreys</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">M</forename><surname>Clark</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mammal Research</title>
+		<imprint>
+			<biblScope unit="volume">65</biblScope>
+			<biblScope unit="page" from="655" to="665" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b72">
+	<monogr>
+		<title level="m" type="main">Golden-winged warbler status review and conservation plan</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Roth</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">W</forename><surname>Rohrbaugh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Will</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">B</forename><surname>Swarthout</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Buehler</surname></persName>
+		</author>
+		<ptr target="https://www.gwwa.org" />
+		<imprint>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b73">
+	<monogr>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">M</forename><surname>Rowe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Cuthrell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Earl</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">G</forename><surname>Eckhardt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">D</forename><surname>Enander</surname></persName>
+		</author>
+		<idno>No. 2023- 21</idno>
+		<title level="m">Michigan Statewide Bumble Bee and Habitat Surveys. Michigan Natural Features Inventory Report</title>
+		<meeting><address><addrLine>Lansing, MI</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b74">
+	<analytic>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">M</forename><surname>Rowe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Cuthrell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">L</forename><surname>Sanders</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Cornman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Keenlance</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Jacquot</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">E</forename><surname>Unger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Spriggs</surname></persName>
+		</author>
+		<idno>No. 2025-02</idno>
+	</analytic>
+	<monogr>
+		<title level="m">Zoology Surveys for the Hiawatha National Forest: FY 2024 Report. Michigan Natural Features Inventory</title>
+		<meeting><address><addrLine>Lansing, MI</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2017">2025. 2017</date>
+			<biblScope unit="volume">177</biblScope>
+			<biblScope unit="page" from="211" to="225" />
+		</imprint>
+	</monogr>
+	<note type="report_type">Report</note>
+	<note>Resting site characteristics of American marten in the northern Lower Peninsula of Michigan</note>
+</biblStruct>
+
+<biblStruct xml:id="b75">
+	<monogr>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Sauer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">A</forename><surname>Link</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Hines</surname></persName>
+		</author>
+		<idno type="DOI">10.5066/P96A7675</idno>
+		<ptr target="https://doi.org/10.5066/P96A7675" />
+		<title level="m">The North American Breeding Bird Survey, Analysis Results 1966-2019: U.S. Geological Survey data release</title>
+		<imprint>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b76">
+	<monogr>
+		<title level="m" type="main">Conservation and management of North American bumble bees</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">F</forename><surname>Schweitzer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">A</forename><surname>Capuano</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">E</forename><surname>Young</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">R</forename><surname>Colla</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2012">2012</date>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page">pp</biblScope>
+			<pubPlace>NatureServe, Arlington, Virginia, and USDA Forest Service, Washington, D.C</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b77">
+	<monogr>
+		<title level="m" type="main">Southern Wings Presidential Task Force 2025 Report. Association of Fish and Wildlife Agencies</title>
+		<author>
+			<persName><forename type="first">Southern</forename><surname>Wings</surname></persName>
+		</author>
+		<ptr target="https://southern-wings.fishwildlife.org/" />
+		<imprint>
+			<date type="published" when="2025-11-07">2025. 7 November 2025</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b78">
+	<analytic>
+		<title level="a" type="main">Endoparasites of American marten (Martes americana): review of literature and parasite survey of reintroduced American marten in Michigan</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">C</forename><surname>Spriggs</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">L</forename><surname>Kaloustian</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">W</forename><surname>Gerhold</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Internation Journal for Parasitology: Parasites and Wildlife</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="240" to="248" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b79">
+	<analytic>
+		<title level="a" type="main">Serosurvey, hematology and causes of mortality of free-ranging American martens (Martes americana) in Michigan</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">C</forename><surname>Spriggs</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">W</forename><surname>Gerhold</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">P</forename><surname>Wilkes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Keenlance</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">L</forename><surname>Saunders</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Witt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Clark</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Miller</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Zoo and Wildlife Medicine</title>
+		<imprint>
+			<biblScope unit="volume">49</biblScope>
+			<biblScope unit="page" from="371" to="383" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b80">
+	<analytic>
+		<author>
+			<persName><forename type="first">R</forename><surname>Su</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Dai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Yang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Gao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>He</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Zhao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Mu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Introduced honey bees increase host plant abundance but decrease native bumble bee species richness and abundance</title>
+		<imprint>
+			<date type="published" when="2022">2022</date>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page">4085</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b81">
+	<analytic>
+		<ptr target="https://forests.org/forestmanagementstandard/Accessed" />
+	</analytic>
+	<monogr>
+		<title level="m">Sustainable Forestry Initiative (SFI). 2022. Forest Management Standard</title>
+		<meeting><address><addrLine>MI</addrLine></address></meeting>
+		<imprint>
+			<publisher>State of Michigan</publisher>
+			<date type="published" when="2024">June 2025. 2024</date>
+			<biblScope unit="page">46</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b82">
+	<analytic>
+		<title level="a" type="main">Changing snow depth in the Great Lakes basin (USA): Implications and trends</title>
+		<author>
+			<persName><forename type="first">Z</forename><forename type="middle">J</forename><surname>Suriano</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Robinson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Leathers</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Anthropocene</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page">100208</biblScope>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b83">
+	<monogr>
+		<title level="m" type="main">Abstract for vernal pool</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">A</forename><surname>Thomas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Kost</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Albert</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2010">2010</date>
+			<publisher>Michigan Natural Features Inventory</publisher>
+			<biblScope unit="page">24</biblScope>
+			<pubPlace>Lansing, MI</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b84">
+	<analytic>
+		<title level="a" type="main">Marten activity in uncut and logged boreal forests in Ontario</title>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">D</forename><surname>Thompson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">W</forename><surname>Colgan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Journal of Wildlife Management</title>
+		<imprint>
+			<biblScope unit="volume">58</biblScope>
+			<biblScope unit="page" from="280" to="288" />
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b85">
+	<analytic>
+		<title level="a" type="main">Forest Resilience, Biodiversity, and Climate Change. A synthesis of the biodiversity/resilience/stability relationship in forest ecosystems</title>
+		<author>
+			<persName><forename type="first">I</forename><surname>Thompson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Mackey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Mcnulty</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Mosseler</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Secretariat of the Convention on Biological Diversity, Montreal. Technical Series</title>
+		<imprint>
+			<biblScope unit="issue">43</biblScope>
+			<biblScope unit="page">67</biblScope>
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b86">
+	<analytic>
+		<title level="a" type="main">Impacts of salvage logging on biodiversity: A meta-analysis</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Thorn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Bässler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Brandl</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Burton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Cahall</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Campbell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Castro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">Y</forename><surname>Choi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Cobb</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">C</forename><surname>Donato</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Durska</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Fontaine</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Gauthier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Hebert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">R L</forename><surname>Hutto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">J</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">B</forename><surname>Leverkus</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">B</forename><surname>Lindenmayer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">K</forename><surname>Obrist</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Rost</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Seibold</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Seidl</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Thom</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Waldron</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">B</forename><surname>Wermelinger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Winter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Zmihorski</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Müller</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Applied Ecology</title>
+		<imprint>
+			<biblScope unit="volume">55</biblScope>
+			<biblScope unit="page" from="279" to="289" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b87">
+	<analytic>
+		<title level="a" type="main">Persist in place or shift in space? Evaluating the adaptive capacity of species to climate change</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">L</forename><surname>Thurman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Stein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Beever</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Foden</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Sr Geange</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Green</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Gross</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Lawrence</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Ledee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">M</forename><surname>Jd Olden</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Thompson</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Young</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Frontiers in Ecology and Evolution</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="issue">9</biblScope>
+			<biblScope unit="page" from="520" to="528" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b88">
+	<analytic>
+	</analytic>
+	<monogr>
+		<title level="m">Future of America&apos;s Forest and Rangelands: Forest Service 2020 Resources Planning Act Assessment</title>
+		<imprint>
+			<publisher>U.S. Department of Agriculture, Forest Service (USDA)</publisher>
+			<date type="published" when="2023">2023</date>
+			<biblScope unit="page">102</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b89">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">C</forename><surname>Washington</surname></persName>
+		</author>
+		<idno type="DOI">10.2737/WO-GTR-102</idno>
+		<ptr target="https://doi.org/10.2737/WO-GTR-102" />
+		<imprint>
+			<biblScope unit="page">348</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b90">
+	<monogr>
+		<title level="m" type="main">Pollinator-friendly Best Management Practices for Federal Lands</title>
+		<imprint>
+			<date type="published" when="2015">2015</date>
+			<publisher>U.S. Forest Service (USFS)</publisher>
+			<biblScope unit="volume">52</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b91">
+	<analytic>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Viau</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Sigouin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">H</forename><surname>St-Laurent</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Seasonality in functional connectivity: a case study with the American marten in Forillon National Park</title>
+		<imprint>
+			<date type="published" when="2024">2024</date>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="1" to="15" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b92">
+	<analytic>
+		<title level="a" type="main">Hemlock woolly adelgid in the southern Appalachians: control strategies, ecological impacts and potential management responses</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Vose</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">N</forename><surname>Wear</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">E</forename><surname>Mayfield</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">D</forename><surname>Nelson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Forest Ecology and Management</title>
+		<imprint>
+			<biblScope unit="volume">291</biblScope>
+			<biblScope unit="page" from="209" to="219" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b93">
+	<analytic>
+		<title level="a" type="main">Warming and earlier spring increase western U.S. forest wildfire activity</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">L</forename><surname>Westerling</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">G</forename><surname>Hidalog</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">R</forename><surname>Cayan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">W</forename><surname>Swetnam</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">313</biblScope>
+			<biblScope unit="page" from="940" to="943" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b94">
+	<monogr>
+		<title level="m" type="main">Historical Perspective on the Reintroduction of the Fisher and American Marten in Wisconsin and Michigan</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">W</forename><surname>Williams</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Gilbert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">A</forename><surname>Zollner</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2007">2007</date>
+			<publisher>United States Department of Agriculture, Forest Service, Northern Research Station</publisher>
+			<biblScope unit="page">33</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b95">
+	<monogr>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">H</forename><surname>Williams</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">W</forename><surname>Thorp</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">L</forename><surname>Richardson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">R</forename><surname>Colla</surname></persName>
+		</author>
+		<title level="m">Bumble Bees of North America: An Identification Guide</title>
+		<imprint>
+			<publisher>Princeton Field Guides</publisher>
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>
+

@@ -1,0 +1,1280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main"></title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">64D2B8024FF697562C96D53DF35B67CB</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.1" ident="GROBID" when="2026-07-06T11:16+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Addendum to Chapter 2</head><p>Below is an addendum to Chapter 2 of the 2025 Connecticut Wildlife Action Plan which provides more information and context about Connecticut's climate and includes future projections of temperature, precipitation, and sea level rise.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Climate</head><p>The Northeast is situated in the mid-latitude westerlies zone, so despite its proximity to the Atlantic Ocean, it experiences a continental climate characterized by warm summers and cold winters, with most weather systems moving in from the west (Zielinksi and Keim,  2003). In coastal regions of the Northeast, however, temperature and precipitation extremes are also impacted by conditions over the Atlantic Ocean (e.g., coastal storms). The Northeast climate, in general, exhibits high seasonal and year-to-year (interannual) variations due to complex interactions between regional characteristics (e.g., topography, coastal geography) and large-scale interactions between local and hemispheric-scale atmospheric circulation <ref type="bibr" target="#b14">(Karmalkar et al., 2024)</ref>, resulting in several bioclimatic and ecological zones across the Northeast.</p><p>Connecticut's climate varies across regions, with inland areas experiencing more pronounced temperature fluctuations, colder winters, and hotter summers, largely due to the moderating influence of the Long Island Sound (NOAA, 2022). The northwestern hills receive the most snowfall, averaging 50 inches a year, while the coast gets between 30 and 35 inches a year (NOAA, 2022). The center of the state averages more days per year with temperatures above 90°F (13 days) than the northwest (8 days) and the coast (4 days) (NOAA, 2022). The northwest experiences the most average days per year of extreme cold (temperatures below 0°F), with seven days, while the central part of the state experiences only two days, and the coast experiences one (NOAA, 2022). Sea levels along the coast are rising at a rate of 10-12 inches per century, which is higher than the global average. This increase in sea levels increases the risk of flooding in low-lying communities, with projections of a 1-to 4-foot rise by 2100, further amplifying these threats (NOAA, 2022).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Temperature</head><p>The Northeastern United States is vulnerable to a range of climate change-related impacts, including heatwaves, heavy precipitation, and sea level rise, as well as more severe droughts, with serious consequences for natural and human systems, Indigenous Peoples within the region, infrastructure, and tourism <ref type="bibr" target="#b33">(Whitehead et al., 2023;</ref><ref type="bibr" target="#b30">Staudinger et al., 2024)</ref>. The warmest recorded in Connecticut was 2012, and 2024 was the second warmest year in Connecticut's History. The global average temperature has increased by</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>approximately 1.2˚C (2.1˚F) since the Industrial Revolution <ref type="bibr" target="#b18">(IPCC, 2023)</ref>, in response to rising concentrations of greenhouse gases. Global warming is expected to continue growing in the near term and is likely to reach 1.5˚C (2.7˚F), irrespective of the emissions scenario <ref type="bibr" target="#b18">(IPCC, 2023)</ref>. The best estimate for global warming by the end of this century is 2.7°C (4.9°F), ranging from 1.4 °C (2.5°F) for a very low greenhouse gas emissions scenario to 4.4°C (7.9°F) for a very high emissions scenario <ref type="bibr" target="#b14">(Karmalkar et al., 2024)</ref>. For more information on the threats posed by climate change to Connecticut's SGCN, please refer to Chapter 3.</p><p>Throughout the Northeast, observations show a warming trend over the last ~130 years, with an overall warming of 1.4˚C (2.5˚F) since 1895. However, Connecticut has warmed significantly more than the region, increasing by 2.2˚C (3.9˚F) between 1895 and 2022 (Figure <ref type="figure" target="#fig_0">2</ref>.5; <ref type="bibr" target="#b14">Karmalkar et al., 2024)</ref>. Over the same period, the average global temperature has increased by about 1.1˚C (2˚F), only half of what Connecticut has experienced. This warming trend is projected to continue (see below). This warming pattern is present in all seasons but is more pronounced in summer. The coast and the adjacent Northwest Atlantic continental shelf regions have been identified as areas highly affected by climate change <ref type="bibr" target="#b25">(Pershing et al., 2021;</ref><ref type="bibr" target="#b13">Karmalkar &amp; Horton, 2021)</ref>. The future increases in regional temperatures will depend on the future trajectories of emissions. The annual mean temperature by the end of this century is projected to reach about 55°F in a medium emissions scenario, RCP4.5, and about 60°F in a high emissions scenario, RCP8.5, increasing by about 5-10˚F above the average over the recent three decades . Considering the medium emissions scenario (RCP4.5), Connecticut's average temperature is expected to increase between 1.2° and 4.3°F by 2059 and between 2.4° and 7.0°F by 2099, relative to the 1990-2019 baseline of 50.52°F <ref type="bibr">(Figure 2.6;</ref><ref type="bibr">Karmarkar et al., 2024)</ref>. The future warming in Connecticut is not sensitive to the emissions scenarios until the middle of this century, with all scenarios following the same general trajectories until the 2040s and diverging thereafter (Figure <ref type="figure" target="#fig_0">2</ref>.6). However, the warming is likely to be inconsistent across the state, with the north and west experiencing slightly more warming than the south and east (Figure <ref type="figure" target="#fig_0">2</ref>.7).</p><p>Figure <ref type="figure" target="#fig_0">2</ref>.6 -The historical and projected temperature for Connecticut (in ˚F) simulated by climate models <ref type="bibr" target="#b14">(Karmalkar et al., 2024)</ref>. The blue and red lines represent median projections under the medium and high scenarios, respectively, for RCP4.5 and RCP8.5. The shading indicates the spread in projections across nine climate models for each scenario.   mean. The projections show mean values across the nine climate models for the medium emissions scenario, RCP4.5 <ref type="bibr" target="#b14">(Karmalkar et al., 2024)</ref>.</p><p>Not only is it likely that the average annual temperature will increase over the next 75 years, but the number of days of extreme heat (days with a maximum temperature over 95° F) per year is projected to increase dramatically, especially in the southeastern part of the State and the Connecticut River Valley (Figure <ref type="figure" target="#fig_0">2</ref>.8). Models based on a medium emissions scenario project that there will be an increase of up to approximately eight extreme heat days per year by 2050 and up to approximately 15 by the end of the century, representing a tenfold increase in the average number from 1991 to 2020 <ref type="bibr" target="#b14">(Karmalkar et al., 2024)</ref>.   average. To indicate the highest values plausible for this variable, the projections show maximum values at every grid box across the nine climate models for the medium emissions scenario, RCP4.5 <ref type="bibr" target="#b14">(Karmalkar et al., 2024)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Precipitation</head><p>The Northeast receives abundant and relatively uniform precipitation throughout the year, but there can be large variations from one year to the next. The region has experienced a modest increase in total annual precipitation <ref type="bibr" target="#b21">(Marvel et al., 2023;</ref><ref type="bibr" target="#b5">Easterling et al., 2017)</ref> with a relatively strong increasing trend in the warm season and a dramatic increase in very heavy rainfall (top 1% of events) over the last 60 years <ref type="bibr" target="#b33">(Whitehead et al., 2023;</ref><ref type="bibr" target="#b12">Hoerling et al., 2016;</ref><ref type="bibr" target="#b35">Wuebbles et al., 2017)</ref>. Like the region, Connecticut has experienced a slight increase in average annual precipitation since 1895 despite a dry period around 2015 (Figure <ref type="figure" target="#fig_0">2</ref>.9). A significant portion of the wetting trend in summer and fall is related to an increase in the intensity of heavy precipitation events associated with tropical <ref type="bibr" target="#b0">(Barlow, 2011)</ref> and extratropical storms (e.g., Nor'easters; <ref type="bibr" target="#b15">Kunkel et al., 2013)</ref>. Consistent with the observed wetting trend over the last 100+ years, most climate models predict a steady increase in future precipitation in the region (Fig. <ref type="figure" target="#fig_0">2</ref>.10). However, the trend is small compared to the high seasonal and interannual variability in precipitation. High variability means that the region will remain susceptible to short-term drought conditions despite an overall wetter future. Indeed, despite an overall increase in precipitation in recent decades, Connecticut has experienced both short-term (seasonal, e.g., 2016 and 2024) as well as long-term (multi-year, e.g., the 1960s and early 2000s) droughts with significant impacts on both human and natural systems <ref type="bibr" target="#b15">(Peterson et al., 2013)</ref>. Considering the medium emissions scenario (RCP4.5), Connecticut's total precipitation will likely increase between 0.6 and 17.5 inches by 2059 and between 0.2 and 23.1 inches by 2099 from the 1990-2019 baseline of 50.86 inches (Figure <ref type="figure" target="#fig_0">2</ref>.10), and due to increasing temperatures (see above), there will be less snow but more rain <ref type="bibr">(Karmarkar et al., 2024)</ref>. Similar to projections of increased temperature, the distribution of changes in total precipitation per year will vary highly across space and between years. Models using the medium emissions scenario project that the western and northeastern parts of the state will experience a higher increase in precipitation each year than the rest of the state, while the northern Connecticut River Valley will see more modest increases by 2100 <ref type="bibr" target="#b14">(Karmalkar et al., 2024;</ref><ref type="bibr">Figure 2.11)</ref>.</p><p>Figure <ref type="figure" target="#fig_0">2</ref>.10 -Projected changes in the total annual precipitation for the historical and projected precipitation in inches as simulated by climate models. The blue and red lines represent median projections under the medium and high scenarios, respectively, for RCP4.5 and RCP8.5. The time series projections were calculated to capture the spatial variability and indicate the minimum and maximum projections possible within the region <ref type="bibr" target="#b14">(Karmalkar et al., 2024)</ref>.</p><p>Figure <ref type="figure" target="#fig_0">2</ref>.11 -Projected changes in the total annual precipitation for the end-of-century (2071-2100 mean) relative to the present day  average. The projections show maximum values at every grid box across the nine climate models for the medium emissions scenario, RCP4.5, indicating the highest plausible values for this variable. <ref type="bibr" target="#b14">(Karmalkar et al., 2024)</ref>.</p><p>Many extreme precipitation indices, including the 5-year maximum precipitation and the total precipitation falling in the top 1% of all days with precipitation, indicate increases since 1901, with substantial rises in the last five decades <ref type="bibr" target="#b5">(Easterling et al., 2017)</ref>. Other indices, such as the number of 2-day extreme precipitation events, also show significant increases over the eastern half of the US <ref type="bibr" target="#b5">(Easterling et al., 2017)</ref>. This trend of increasing mean and extreme precipitation is expected to continue with future warming <ref type="bibr" target="#b20">(Maloney et al., 2014;</ref><ref type="bibr" target="#b27">Rawlins et al., 2012;</ref><ref type="bibr" target="#b9">Fan et al., 2015;</ref><ref type="bibr" target="#b23">Ning et al., 2015)</ref>. Similarly, under the medium emissions scenario, Connecticut will experience an increase of up to 4 more days per year with extreme precipitation (days with more than 1 inch of rain), representing about a 40% increase from the 12 days per year average in our state between 1991-2020, with the northeastern part of the state likely to see the highest rise in extreme precipitation days (Figure <ref type="figure" target="#fig_0">2</ref>.12; <ref type="bibr" target="#b14">Karmalkar et al., 2024)</ref>. <ref type="bibr" target="#b14">(Karmalkar et al., 2024)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Figure 2.12-Projected changes in the number of days with daily precipitation above 1 inch for the end-ofcentury (2071-2100 mean) projections relative to the present day (1991-2020) mean. The projections show maximum values at every grid box across the nine climate models for the medium emissions scenario, RCP4.5, indicating the highest plausible values for this variable</head><p>While Connecticut is projected to have more precipitation over the next 75 years, it will be more concentrated in larger storms (Figure <ref type="figure" target="#fig_0">2</ref>.12). Hurricanes and tropical storms originating in the tropics in the summer and fall bring abundant moisture and heavy rainfall to the Northeast. Riparian &amp; floodplain communities are likely to be particularly affected by increased frequency, intensity, and duration of storm events. The impact of ocean and atmosphere warming on the frequency and intensity of hurricanes is an active area of research. While there is no long-term trend in the frequency of landfalling hurricanes in the smaller domain of the US <ref type="bibr" target="#b21">(Marvel et al., 2023)</ref>, recent research does suggest a significant increase in the rapid intensification of hurricanes due to anthropogenic warming <ref type="bibr" target="#b1">(Bhatia et al., 2022)</ref>. Tropical storms can cause substantial wind damage along the coast and flooding across the region, which is compounded by rising sea levels (see section below). The Northeast is especially vulnerable to tropical storms moving northward as they get considerably bigger while retaining their tropical characteristics, such as high moisture content and strong winds. Two events with significant impacts on the Northeast coast in the last two decades include Hurricane Irene in 2011 and Hurricane Sandy in 2012 <ref type="bibr" target="#b14">(Karmalkar et al., 2024)</ref>.</p><p>A projected increase in winter precipitation will result in more rainfall and less snowfall due to atmospheric warming. This leads to model projections indicating a future snowfall frequency decrease in the Northeast <ref type="bibr" target="#b36">(Zarzycki, 2018)</ref>. This, however, does not discount the likelihood of individual high-impact snowfall events. In fact, during sufficiently cold conditions, snowstorms in the future can drop more snow because of the ability of the warmer atmosphere to hold more moisture <ref type="bibr" target="#b36">(Zarzycki 2018)</ref>. The frequency of heavy snowfall in the Northeast has increased over the past three decades <ref type="bibr" target="#b33">(Whitehead et al., 2023)</ref>, which is likely caused by interactions between warming in the western Atlantic Ocean and frequent Arctic air outbreaks <ref type="bibr" target="#b3">(Cohen et al., 2018)</ref>. Higher winter warming will result in an overall increase in days and nights with temperatures above freezing, leading to decreases in snow cover and depth <ref type="bibr">(Burkowski et al., 2022)</ref>. These changes are likely to have the greatest impact on the coastal regions of the Northeast, with high-elevation regions remaining more resilient <ref type="bibr">(Burkowski et al., 2022)</ref>. A projected increase in winter precipitation in the form of rainfall is also projected to increase surface runoff and peak river flows in winter in the future <ref type="bibr" target="#b29">(Siddique and Palmer, 2021;</ref><ref type="bibr" target="#b28">Siddique et al., 2020)</ref>.</p><p>Heavy precipitation events pose a major threat to the water quality and ecological balance of the Long Island Sound. As stormwater runoff increases, it carries pollutants such as nitrogen, E. coli, pharmaceuticals, heavy metals, and debris into the Sound, deteriorating water quality and impacting marine life. Implementing robust stormwater management and pollution control measures is essential to safeguarding the Long Island Sound's environmental integrity <ref type="bibr" target="#b17">(LISS, 2025)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Sea Level Rise</head><p>The Northeast has experienced a steady rise in sea level over the last century, approximately 12 inches since 1900, which is higher than the global sea level rise <ref type="bibr">(Sweet et al., 2022)</ref>. As of 2018, the global mean sea level had risen by approximately 0.5-0.8 feet relative to 1900 and 0.2-0.5 feet relative to 1971. In Connecticut, the rise in sea level has been consistent with the rest of the region, rising about 11 inches over the last century (Figure <ref type="figure" target="#fig_0">2</ref>.13). The IPCC AR6 Report <ref type="bibr" target="#b10">(Fox-Kemper et al., 2021)</ref> concludes that it is virtually certain that the global mean sea level will continue to increase this century and is projected to rise 0.60-0.75 feet by 2050 and 1.25-2.5 feet by 2100, relative to 1971. Local sea-level changes are determined by a complex combination of several geological, oceanographic, and atmospheric factors that operate on different timescales. On long timescales (decades and longer), the primary driver of sea level change is variations in the ocean's water volume. The volume can increase due to the thermal expansion of the water as it gets warmer and due to the addition of water from melting land ice (ice sheets in Greenland and Antarctica, glaciers around the world). Sea level along the Northeast coast also varies substantially from year to year due to variations in atmospheric conditions and ocean circulation. For instance, high sea levels along the coast in 2009 and 2010 have been linked to changes in the ocean circulation in the Gulf Stream region and changes in wind circulation associated with basin-wide variations in the atmospheric variability pattern in the North Atlantic basin <ref type="bibr" target="#b11">(Goddard et al., 2015;</ref><ref type="bibr" target="#b4">Domingues et al., 2018;</ref><ref type="bibr" target="#b26">Piecuch et al., 2019)</ref>.</p><p>Sea level rise is a growing concern for Connecticut's coastal cities, with long-term data indicating steady increases in water levels. In Bridgeport, the relative sea level trend is 3.33 mm per year (±0.38 mm), based on data from 1964-2023, equating to approximately 1.09 feet of rise over 100 years. Similarly, in New London, the relative sea level trend is 2.87 mm per year (±0.21 mm), based on records from 1938 -2023, translating to 0.94 feet of rise per century. These gradual but persistent changes heighten the risk of coastal flooding, shoreline erosion, and infrastructure vulnerability, underscoring the need for proactive adaptation and resilience strategies in these communities (LISS, 2024). Rising sea levels can enhance the impact of storm surges during winter storms (e.g., Nor'easters), hurricanes, and other severe weather events. Higher sea levels mean storm surges can penetrate further inland, causing more extensive flooding and damage. The rise in sea level also contributes to an increase in the frequency and duration of minor coastal flooding events (called 'nuisance' or 'sunny day' flooding) along the Northeast coast <ref type="bibr" target="#b31">(Sweet et al., 2018;</ref><ref type="bibr" target="#b8">Ezer, 2020)</ref> and loss of high marsh habitat. Storm surges and coastal flooding can have a significant impact on groundwater in coastal areas. There is mounting evidence that saltwater intrusion has been contaminating freshwater resources in the Northeast and throughout the United States <ref type="bibr" target="#b24">(Panthi et al., 2022;</ref><ref type="bibr" target="#b34">USDA, 2020)</ref>, rendering them unsuitable for drinking and agricultural use. Higher sea levels increase coastal erosion as waves reach further inland, wearing down shorelines and threatening coastal infrastructure. For more information on how sea level rise may impact Connecticut's SGCN, please refer to Chapter 3.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figure 2</head><label>2</label><figDesc>Figure 2.5 -Connecticut's annual mean surface air temperature between 1895 and 2022. The black line represents the twentieth-century average, while the blue line illustrates the trend over the entire period.(NOAA, 2024)    </figDesc><graphic coords="2,72.00,374.38,468.00,200.70" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Figure 2</head><label>2</label><figDesc>Figure 2.7 -Projected changes in the annual average temperature for the end-of-century (2071-2100 mean) projections relative to the present day mean. The projections show mean values across the nine climate models for the medium emissions scenario, RCP4.5<ref type="bibr" target="#b14">(Karmalkar et al., 2024)</ref>.</figDesc><graphic coords="4,72.00,72.00,466.66,366.15" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Figure 2 . 8 -</head><label>28</label><figDesc>Figure 2.8 -Projected changes in the number of days with maximum temperature above 95˚F or the end-ofcentury (2071-2100 mean) projections relative to the present day average. To indicate the highest values plausible for this variable, the projections show maximum values at every grid box across the nine climate models for the medium emissions scenario, RCP4.5<ref type="bibr" target="#b14">(Karmalkar et al., 2024)</ref>.</figDesc><graphic coords="5,72.00,72.00,468.00,376.30" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>Figure 2</head><label>2</label><figDesc>Figure 2.9 -The annual mean precipitation in Connecticut between 1895 and 2023. The black line shows the twentieth-century average, and the blue line shows the trend over the entire period (NOAA, 2022b).</figDesc><graphic coords="6,72.00,89.00,468.00,215.95" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head>Figure 2 .</head><label>2</label><figDesc>Figure2.13 -Linear trend in relative rate of sea level rise in millimeters per year (mm/yr) in New London, Connecticut(NOAA Tides &amp; Currents)    </figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="3,72.00,214.77,468.00,189.15" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="7,72.00,88.85,468.00,188.45" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="8,72.00,72.00,468.00,371.90" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="9,71.75,127.64,468.00,366.65" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="11,72.00,470.95,468.00,209.25" type="bitmap" /></figure>
+		</body>
+		<back>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Influence of hurricane-related activity on North American extreme precipitation</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Barlow</surname></persName>
+		</author>
+		<idno type="DOI">10.1029/2010gl046258</idno>
+		<ptr target="https://doi.org/10.1029/2010gl046258" />
+	</analytic>
+	<monogr>
+		<title level="j">Geophysical Research Letters</title>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">A potential explanation for the global increase in tropical cyclone rapid intensification</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Bhatia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Baker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Yang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Vecchi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Knutson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Murakami</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">.</forename><forename type="middle">.</forename><surname>Whitlock</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nature communications</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page">6626</biblScope>
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Future of winter in Northeastern North America: climate indicators portray warming and snow loss that will impact ecosystems and communities</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">A</forename><surname>Burakowski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">R</forename><surname>Contosta</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Grogan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">J</forename><surname>Nelson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Garlick</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Casson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Northeastern Naturalist</title>
+		<imprint>
+			<biblScope unit="page" from="180" to="207" />
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Warm Arctic episodes linked with increased frequency of extreme winter weather in the United States</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Cohen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Pfeiffer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Francis</surname></persName>
+		</author>
+		<idno type="DOI">10.1038/s41467-018-02992-9</idno>
+		<ptr target="https://doi.org/10.1038/s41467-018-02992-9" />
+	</analytic>
+	<monogr>
+		<title level="j">Nature Communications</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">What caused the accelerated sea level changes along the U.S. East Coast during 2010-2015?</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Domingues</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Goni</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Baringer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Volkov</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Geophysical Research Letters</title>
+		<imprint>
+			<biblScope unit="volume">45</biblScope>
+			<biblScope unit="issue">24</biblScope>
+			<biblScope unit="page" from="367" to="380" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<monogr>
+		<title level="m" type="main">Precipitation change in the United States</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">R</forename><surname>Easterling</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">E</forename><surname>Kunkel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Arnold</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Knutson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">N</forename><surname>Legrande</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">R</forename><surname>Leung</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">S</forename><surname>Vose</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">E</forename><surname>Waliser</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">F</forename><surname>Wehner</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2017">2017</date>
+			<biblScope unit="page">13</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<monogr>
+		<title level="m">Climate Science Special Report: Fourth National Climate Assessment</title>
+		<editor>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Wuebbles</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">D</forename><forename type="middle">W</forename><surname>Fahey</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">K</forename><forename type="middle">A</forename><surname>Hibbard</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Dokken</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">B</forename><forename type="middle">C</forename><surname>Stewart</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">T</forename><forename type="middle">K</forename><surname>Maycock</surname></persName>
+		</editor>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<monogr>
+		<title level="m" type="main">Global Change Research Program</title>
+		<author>
+			<persName><forename type="first">U</forename><forename type="middle">S</forename></persName>
+		</author>
+		<idno type="DOI">10.7930/J0H993CC</idno>
+		<imprint>
+			<biblScope unit="page" from="207" to="230" />
+			<pubPlace>Washington, DC, USA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Revisiting the problem of the Florida Current flow and its relationship with coastal sea level variability along the U</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Ezer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">S. East Coast. Ocean Dynamics</title>
+		<imprint>
+			<biblScope unit="volume">70</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="241" to="255" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Climate change in the northeast United States: An analysis of the NARCCAP multimodel simulations</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Fan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">S</forename><surname>Bradley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Rawlins</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Geophysical Research: Atmospheres</title>
+		<imprint>
+			<biblScope unit="volume">120</biblScope>
+			<biblScope unit="issue">20</biblScope>
+			<biblScope unit="page" from="10" to="569" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<monogr>
+		<title level="m" type="main">Climate Change 2021: The Physical Science Basis</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Fox-Kemper</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">T</forename><surname>Hewitt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Xiao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Aðalgeirsdóttir</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">S</forename><surname>Drijfhout</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">L</forename><surname>Edwards</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">R</forename><surname>Golledge</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Hemer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">E</forename><surname>Kopp</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Krinner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Mix</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Notz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Nowicki</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">S</forename><surname>Nurhati</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Ruiz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Schoof</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Zhai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Pirani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">L</forename><surname>Connors</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Péan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Berger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Caud</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Goldfarb</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Gomis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Huang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Leitzell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Lonnoy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B R</forename><surname>Matthews</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">K</forename><surname>Maycock</surname></persName>
+		</author>
+		<editor>Waterfield, O. Yelekçi, R. Yu, &amp; B. Zhou</editor>
+		<imprint>
+			<date type="published" when="2021">2021</date>
+			<publisher>Cambridge University Press</publisher>
+			<biblScope unit="page" from="1211" to="1362" />
+		</imprint>
+	</monogr>
+	<note>Ocean, cryosphere, and sea level change. Contribution of Working Group I to the Sixth Assessment Report of the Intergovernmental Panel on Climate Change</note>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">An extreme event of sea-level rise along the Northeast coast of North America in 2009-2010</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">B</forename><surname>Goddard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Yin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Griffies</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Zhang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nature Communications</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page">6346</biblScope>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Characterizing recent trends in US heavy precipitation</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Hoerling</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Eischeid</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Perlwitz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><forename type="middle">W</forename><surname>Quan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Wolter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Cheng</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Climate</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="issue">7</biblScope>
+			<biblScope unit="page" from="2313" to="2332" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Drivers of exceptional coastal warming in the Northeastern United States</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">V</forename><surname>Karmalkar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Horton</surname></persName>
+		</author>
+		<idno type="DOI">10.1038/s41558-021-01159-7</idno>
+		<ptr target="https://doi.org/10.1038/s41558-021-01159-7" />
+	</analytic>
+	<monogr>
+		<title level="j">Nature Climate Change</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="issue">10</biblScope>
+			<biblScope unit="page" from="854" to="860" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Climate Change in the Northeast United States</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">V</forename><surname>Karmalkar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Sadai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Chaughule</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">D</forename><surname>Staudinger</surname></persName>
+		</author>
+		<ptr target="https://www.sciencebase.gov/catalog/item/62866381" />
+	</analytic>
+	<monogr>
+		<title level="m">DOI Northeast Climate Adaptation Science Center Cooperator Report</title>
+		<imprint>
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+	<note>d34e3bef0c9a813c</note>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Monitoring and understanding trends in extreme storms: State of Knowledge</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">E</forename><surname>Kunkel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">R</forename><surname>Karl</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Brooks</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Kossin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Lawrimore</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Arndt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Bosart</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Changnon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">L</forename><surname>Cutter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Doesken</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Emanuel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Groisman</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Ya</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">W</forename><surname>Katz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Knutson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>O'brien</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">J</forename><surname>Paciorek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">C</forename><surname>Peterson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Redmond</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Robinson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Wuebbles</surname></persName>
+		</author>
+		<idno type="DOI">10.1175/bams-d-11-00262.1</idno>
+		<ptr target="https://doi.org/10.1175/bams-d-11-00262" />
+	</analytic>
+	<monogr>
+		<title level="j">Bulletin of the American Meteorological Society</title>
+		<imprint>
+			<biblScope unit="volume">94</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="499" to="514" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title/>
+		<author>
+			<persName><surname>Liss</surname></persName>
+		</author>
+		<ptr target="https://longislandsoundstudy.net/ecosystem-target-indicators/sea-level-trends-for-kings-point/" />
+	</analytic>
+	<monogr>
+		<title level="s">Long Island Sound Survey</title>
+		<imprint>
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Liss</surname></persName>
+		</author>
+		<ptr target="https://longislandsoundstudy.net/ecosystem-target-indicators/heavy-precipitation/" />
+		<imprint>
+			<date type="published" when="2025">2025</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<monogr>
+		<author>
+			<persName><surname>Ipcc</surname></persName>
+			<affiliation>
+				<orgName type="collaboration">Core Writing Team</orgName>
+			</affiliation>
+		</author>
+		<title level="m">Climate Change 2023: Synthesis Report. Contribution of Working Groups I, II and III to the Sixth Assessment Report of the Intergovernmental Panel on Climate Change</title>
+		<editor>
+			<persName><forename type="first">H</forename><surname>Lee</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">J</forename><surname>Romero</surname></persName>
+		</editor>
+		<imprint>
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+	<note>Summary for Policymakers</note>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Geneva</forename><surname>Ipcc</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Switzerland</surname></persName>
+		</author>
+		<idno type="DOI">10.59327/IPCC/AR6-9789291691647.001</idno>
+		<imprint>
+			<biblScope unit="page" from="1" to="34" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">North American climate in CMIP5 experiments: Part III: Assessment of twenty-first-century projections</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">D</forename><surname>Maloney</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">J</forename><surname>Camargo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Chang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Colle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Fu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">L</forename><surname>Geil</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Q</forename><surname>Hu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Jiang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Johnson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">B</forename><surname>Karnauskas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Kinter</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Climate</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="2230" to="2270" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Climate science: Physical drivers of climate change</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Marvel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">F</forename><surname>Cooke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Bonfils</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Zelinka</surname></persName>
+		</author>
+		<ptr target="https://nca2023.globalchange.gov/chapter" />
+	</analytic>
+	<monogr>
+		<title level="m">Fifth National Climate Assessment. U.S. Global Change Research Program</title>
+		<editor>
+			<persName><forename type="first">U</forename><forename type="middle">S</forename><surname>Change</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Research</forename><surname>Program</surname></persName>
+		</editor>
+		<imprint>
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<monogr>
+		<title level="m" type="main">Connecticut State Climate Summary 2022</title>
+		<imprint>
+			<date type="published" when="2022">2022</date>
+			<publisher>National Oceanic and Atmospheric Administration</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Projected changes in climate extremes over the northeastern United States</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Ning</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">E</forename><surname>Riddle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">S</forename><surname>Bradley</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Climate</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="issue">8</biblScope>
+			<biblScope unit="page" from="3289" to="3310" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Saltwater intrusion into coastal aquifers in the contiguous United States-a systematic review of investigation approaches and monitoring networks</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Panthi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Pradhanang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Nolte</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">B</forename><surname>Boving</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science of the Total Environment</title>
+		<imprint>
+			<biblScope unit="volume">836</biblScope>
+			<biblScope unit="page">155641</biblScope>
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Climate impacts on the Gulf of Maine ecosystem: A review of observed and expected changes in 2050 from rising temperatures</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J</forename><surname>Pershing</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Alexander</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">C</forename><surname>Brady</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Brickman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">N</forename><surname>Curchitser</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">W</forename><surname>Diamond</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Wang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Elem Sci Anth</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page">76</biblScope>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">How is New England coastal sea level related to the Atlantic Meridional Overturning Circulation?</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">G</forename><surname>Piecuch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Bittermann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">C</forename><surname>Kemp</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Ponte</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Little</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">E</forename><surname>Engelhart</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Geophysical Research Letters</title>
+		<imprint>
+			<biblScope unit="volume">46</biblScope>
+			<biblScope unit="issue">11</biblScope>
+			<biblScope unit="page" from="5351" to="5360" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Assessment of regional climate model simulation estimates over the northeast United States</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Rawlins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">S</forename><surname>Bradley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">F</forename><surname>Diaz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Geophysical Research: Atmospheres</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="page">117</biblScope>
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Hydrological extremes across the Commonwealth of Massachusetts in a changing climate</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Siddique</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Karmalkar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Sun</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Palmer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Hydrology: Regional Studies</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="page">100733</biblScope>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Climate change impacts on local flood risks in the US Northeast: A case study on the Connecticut and Merrimack River Basins</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Siddique</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Palmer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">JAWRA Journal of the American Water Resources Association</title>
+		<imprint>
+			<biblScope unit="volume">57</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="75" to="95" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<monogr>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">D</forename><surname>Staudinger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">V</forename><surname>Karmalkar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Terwilliger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Burgio</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Lubeck</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Higgins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">.</forename><forename type="middle">.</forename><surname>&amp; D'amato</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename></persName>
+		</author>
+		<title level="m">A regional synthesis of climate data to inform the 2025 State Wildlife Action Plans in the Northeast US DOI Northeast Climate Adaptation Science Center Cooperator Report</title>
+		<imprint>
+			<date type="published" when="2024">2024</date>
+			<biblScope unit="page">406</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<monogr>
+		<title level="m" type="main">Patterns and projections of high tide flooding along the U.S. coastline</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">V</forename><surname>Sweet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Dusek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Obeysekera</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Marra</surname></persName>
+		</author>
+		<idno>NOS CO-OPS 086</idno>
+		<imprint>
+			<date type="published" when="2018">2018</date>
+			<publisher>National Oceanic and Atmospheric Administration (NOAA)</publisher>
+		</imprint>
+	</monogr>
+	<note type="report_type">NOAA Technical Report</note>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<monogr>
+		<title level="m" type="main">2022: Global and Regional Sea Level Rise Scenarios for the United States: Updated Mean Projections and Extreme Water Level Probabilities Along U.S. Coastlines</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">V</forename><surname>Sweet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">D</forename><surname>Hamlington</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">E</forename><surname>Kopp</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">P</forename><surname>Weaver</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">L</forename><surname>Barnard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Bekaert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Brooks</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Craghan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Dusek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Frederikse</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Garner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">S</forename><surname>Genz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Krasting</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Larour</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Marcy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Marra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Obeysekera</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Osler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Pendleton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Roman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Schmied</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Veatch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">D</forename><surname>White</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Zuzak</surname></persName>
+		</author>
+		<idno>NOS 01</idno>
+		<ptr target="https://oceanservice.noaa.gov/hazards/sealevelrise/sealevelrise-tech-report-sections.html" />
+		<imprint>
+			<publisher>National Oceanic and Atmospheric Administration</publisher>
+			<biblScope unit="page">111</biblScope>
+			<pubPlace>National Ocean Service, Silver Spring, MD</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="report_type">NOAA Technical Report</note>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<monogr>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Whitehead</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">L</forename><surname>Mecray</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">D</forename><surname>Lane</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Kerr</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Finucane</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">R</forename><surname>Reidmiller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">C</forename><surname>Bove</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">A</forename><surname>Montalto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>O'rourke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Zarrilli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Chigbu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">C</forename><surname>Thornbrugh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">N</forename><surname>Curchitser</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">G</forename><surname>Hunter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Law</surname></persName>
+		</author>
+		<idno type="DOI">10.7930/NCA5.2023.CH21</idno>
+		<ptr target="https://doi.org/10.7930/NCA5.2023.CH21" />
+		<title level="m">Ch. 21. Northeast. In: Fifth National Climate Assessment</title>
+		<editor>
+			<persName><forename type="first">A</forename><forename type="middle">R</forename><surname>Crimmins</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">C</forename><forename type="middle">W</forename><surname>Avery</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">D</forename><forename type="middle">R</forename><surname>Easterling</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">K</forename><forename type="middle">E</forename><surname>Kunkel</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">B</forename><forename type="middle">C</forename><surname>Stewart</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">T</forename><forename type="middle">K</forename><surname>Maycock</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Washington, DC, USA</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2023">2023</date>
+		</imprint>
+		<respStmt>
+			<orgName>U.S. Global Change Research Program</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<monogr>
+		<author>
+			<persName><surname>Usda</surname></persName>
+		</author>
+		<ptr target="https://www.climatehubs.usda.gov/hubs/northeast/topic/saltwater-intrusion-growing-threat-coastal-agriculture" />
+		<title level="m">Saltwater Intrusion: A Growing Threat to Coastal Agriculture. U.S. Department of Agriculture, Northeast Climate Hub</title>
+		<imprint>
+			<publisher>United States Department of Agriculture</publisher>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<monogr>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Wuebbles</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">W</forename><surname>Fahey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">A</forename><surname>Hibbard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Arnold</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Deangelo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Doherty</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">R</forename><surname>Easterling</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Edmonds</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Edmonds</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Hall</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Hayhoe</surname></persName>
+		</author>
+		<title level="m">Climate science special report: Fourth national climate assessment (NCA4)</title>
+		<imprint>
+			<date type="published" when="2017">2017</date>
+			<biblScope unit="volume">I</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Projecting changes in societally impactful northeastern U.S. snowstorms</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Zarzycki</surname></persName>
+		</author>
+		<idno type="DOI">10.1029/2018GL079820</idno>
+		<ptr target="https://doi.org/10.1029/2018GL079820" />
+	</analytic>
+	<monogr>
+		<title level="j">Geophysical Research Letters</title>
+		<imprint>
+			<biblScope unit="volume">45</biblScope>
+			<biblScope unit="issue">21</biblScope>
+			<biblScope unit="page">75</biblScope>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<monogr>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">A</forename><surname>Zielinski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">D</forename><surname>Keim</surname></persName>
+		</author>
+		<title level="m">New England weather, New England climate</title>
+		<meeting><address><addrLine>New England</addrLine></address></meeting>
+		<imprint>
+			<publisher>University Press</publisher>
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>
+

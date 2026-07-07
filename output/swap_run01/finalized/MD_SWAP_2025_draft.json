@@ -1,0 +1,991 @@
+{
+  "document_meta": {
+    "title": "2025-2035 Maryland State Wildlife Action Plan",
+    "year": 2025,
+    "jurisdiction": "Maryland",
+    "document_type": "SWAP",
+    "document_id": "MD_SWAP_2025_draft",
+    "page_count": 672
+  },
+  "orientation": {
+    "summary": "This is Maryland's 2025-2035 State Wildlife Action Plan (SWAP), a draft document produced by the Maryland Department of Natural Resources (MD DNR) covering Species of Greatest Conservation Need (SGCN), Key Wildlife Habitats (KWHs), threats, and conservation actions for the 2025-2035 period. The document has strong climate change awareness throughout, treating it as a priority threat, and explicitly discusses range shifts, sea-level rise, phenological mismatch, and climate-driven habitat change for multiple taxa. However, it primarily references existing literature and synthesis documents (especially the Northeast Regional Conservation Synthesis and NECASC reports) rather than performing original climate modeling or vulnerability analyses itself; it does incorporate SLAMM modeling for wetland adaptation and the Maryland Habitat Connectivity Network as spatial tools. Range shifts are discussed for multiple taxa (invertebrates, birds, mammals) and as a general concern tied to climate change, and connectivity for climate adaptation is explicitly mentioned with the HCN as a management tool.",
+    "evidence_index": [
+      {
+        "text": "Climate change is also addressed below in the Regional Threat: Climate Change subsection. In Maryland in particular, climate change impacts are most commonly tied to water-related issues such as sea-level rise, saltwater intrusion, increased storm severity, and increased flooding. Change in the temperature regime is also a major issue, resulting in problems such as phenological mismatch and species range shifts.",
+        "location": "Chapter 5, Priority Threat: Climate Change",
+        "relevant_elements": ["1.1", "3.5", "3.7"]
+      },
+      {
+        "text": "fragmentation include the loss of large-scale habitat connectivity and corridors, which makes it more difficult for species to migrate and shift their ranges in response to climate change; the isolation of populations, which can result in reduced population sizes, genetic erosion, and inbreeding",
+        "location": "Chapter 5, Priority Threat: Habitat Loss and Fragmentation",
+        "relevant_elements": ["1.4", "4.2"]
+      },
+      {
+        "text": "Habitat connectivity is particularly important with regards to climate change because it allows species to adapt to the changing environment around them, facilitating necessary movements such as migration and range shifts.",
+        "location": "Chapter 6, Case Study: Sea-Level Affecting Marsh Model (SLAMM), Wetland Adaptation Areas (WAAs) and the Maryland Habitat Connectivity Network (HCN)",
+        "relevant_elements": ["1.4", "4.2"]
+      },
+      {
+        "text": "The Maryland Habitat Connectivity Network (HCN) data (previously known as Green Infrastructure) was created. This data layer maps upland forest, wetland, and aquatic hubs; upland forest and aquatic corridors; and potentially restorable gaps in habitat connectivity.",
+        "location": "Chapter 6, Case Study: SLAMM, WAAs and the HCN",
+        "relevant_elements": ["1.4", "2.4", "4.1"]
+      },
+      {
+        "text": "In addition, many invertebrate species, particularly in Garrett County, are likely to experience range shifts that may result in their extirpation from Maryland, while other species are expected to expand into the state, a trend already observed in southern Maryland counties.",
+        "location": "Chapter 3, Threats to Invertebrate SGCN",
+        "relevant_elements": ["1.1", "3.2", "3.3"]
+      },
+      {
+        "text": "Climate Change represents an emerging threat to invertebrates, with impacts that are often complex and difficult to predict. Sea-level rise, along with shoreline stabilization efforts intended to mitigate its effects, poses a clear threat to Maryland's beach, cliff, and tidal wetland invertebrates",
+        "location": "Chapter 3, Threats to Invertebrate SGCN",
+        "relevant_elements": ["1.1", "3.5", "3.6"]
+      },
+      {
+        "text": "Species distribution models (SDMs) show declines due to increased annual temperatures — Assess the impact(s) of climate change on these populations.",
+        "location": "MD_SWAP_2025_draft_Appendices.pdf, Appendix 6a (Butterflies, IUCN 11.3.4)",
+        "relevant_elements": ["2.2", "1.1"]
+      },
+      {
+        "text": "11.3 Changes in Temperature Regimes — Evaluate predicted habitat change and loss due to changes in thermal regime and precipitation patterns. Stonecat, brook trout, longnose sucker, striped shiner, Allegheny pearl dace, mottled sculpin, checkered sculpin, johnny darter",
+        "location": "MD_SWAP_2025_draft_Appendices.pdf, Appendix 6a (Freshwater Fishes)",
+        "relevant_elements": ["3.5", "3.6"]
+      },
+      {
+        "text": "11.1 Habitat Shifting & Alteration — Sea-level rise — Improve understanding of where sea-level rise poses the greatest threat to mussel habitat and to what species.",
+        "location": "MD_SWAP_2025_draft_Appendices.pdf, Appendix 6a (Freshwater Mussels)",
+        "relevant_elements": ["3.5", "4.1"]
+      },
+      {
+        "text": "11.1 Habitat Shifting & Alteration 11.1.2 Phenological mismatch — Conduct expansive studies or literature reviews to evaluate the potential effects of phenological mismatch on recruitment.",
+        "location": "MD_SWAP_2025_draft_Appendices.pdf, Appendix 6a (Freshwater Mussels)",
+        "relevant_elements": ["3.7"]
+      },
+      {
+        "text": "11.3 Changes in Temperature Regimes 11.3.1 Heat waves — Heat waves could cause mussel die-offs — Conduct expansive studies to evaluate potential effects on population dynamics.",
+        "location": "MD_SWAP_2025_draft_Appendices.pdf, Appendix 6a (Freshwater Mussels)",
+        "relevant_elements": ["3.6"]
+      },
+      {
+        "text": "Utilize recent sea-level rise models to identify populations most vulnerable to sea-level rise impacts. Ironcolor shiner, swamp darter, stripeback darter, Chesapeake logperch, glassy darter, mud sunfish, flier, blackbanded sunfish, banded sunfish",
+        "location": "MD_SWAP_2025_draft_Appendices.pdf, Appendix 6a (Freshwater Fishes)",
+        "relevant_elements": ["3.5", "4.1"]
+      },
+      {
+        "text": "Identify populations most vulnerable to sea-level rise impacts, and identify which are not resilient. Shortnose sturgeon, Atlantic sturgeon, hickory shad, American shad, horeshoe crab, blueback herring, alewife",
+        "location": "MD_SWAP_2025_draft_Appendices.pdf, Appendix 6a (Marine/Tidal Species)",
+        "relevant_elements": ["3.5", "1.1"]
+      },
+      {
+        "text": "Support research on the impacts of climate change, such as ocean acidification, on aquatic species.",
+        "location": "MD_SWAP_2025_draft_Appendices.pdf, Appendix 6a (Marine/Tidal Species)",
+        "relevant_elements": ["3.5"]
+      },
+      {
+        "text": "Climate change has also severely impacted coastal marsh habitats through sea-level rise, combined with an increase in frequency and severity of storms and tidal surges in coastal areas during the nesting season.",
+        "location": "Chapter 3, Threats to Bird SGCN",
+        "relevant_elements": ["3.5"]
+      },
+      {
+        "text": "climate change has led to phenological mismatches for a number of bird species, aerial insectivores in particular...Climate change has altered the timeframes of both insect and bird ecological functions, leading to less overlap and therefore a reduced food source during the migratory season.",
+        "location": "Chapter 3, Threats to Bird SGCN",
+        "relevant_elements": ["3.7", "3.6"]
+      },
+      {
+        "text": "Understanding why species and ecosystems are vulnerable or potentially less resilient is a critical first step in developing effective conservation strategies. This vulnerability is based on sensitivity, exposure, and the ability to adapt.",
+        "location": "Chapter 5, Regional Threat: Climate Change",
+        "relevant_elements": ["1.1"]
+      },
+      {
+        "text": "Use existing climate vulnerability data when possible and conduct Climate Change Vulnerability Assessments to assess risk.",
+        "location": "Chapter 6, Regional Action: Address Climate Change Impacts",
+        "relevant_elements": ["1.1", "2.1", "4.5"]
+      },
+      {
+        "text": "Species with low adaptive capacity such as those with specialized habitat needs or limited dispersal ability face higher vulnerability to these changes.",
+        "location": "Chapter 3, SGCN Selection criteria (Table 3.2, Additional Selection Criteria)",
+        "relevant_elements": ["1.1", "1.2", "1.3"]
+      },
+      {
+        "text": "Vulnerable species (to a variety of threats, particularly impacts from climate change and invasive species impacting host plant species)… Species with limited dispersal… Species with fragmented or isolated populations",
+        "location": "Chapter 3, Table 3.2 Additional Selection Criteria",
+        "relevant_elements": ["1.1", "1.2", "1.3"]
+      },
+      {
+        "text": "ensuring that species most in need of information (e.g., life history, population distribution, threat assessment, climate vulnerability) do not get overshadowed by the SGCN list",
+        "location": "Chapter 3, State Assessment Priority Species (SAPS)",
+        "relevant_elements": ["1.1", "2.1"]
+      },
+      {
+        "text": "This unique forest habitat and associated mammal fauna are likely to continue to be impacted by climate change, introduced species (e.g., hemlock wooly adelgid), and conversion to non-forested land uses.",
+        "location": "Chapter 3, Threats to Mammal SGCN",
+        "relevant_elements": ["3.5", "1.1"]
+      },
+      {
+        "text": "As a species that thrives in cold water, their population decline is attributed to runoff from roofs, roadsides, and other impervious surfaces; loss of trees along streams; and climate change.",
+        "location": "Chapter 3, Threats to Fish SGCN",
+        "relevant_elements": ["3.5", "3.6"]
+      },
+      {
+        "text": "Increasing temperatures over the past several decades have shifted anadromous fish spawning to earlier in the year. As a result, eggs and larvae are subject to more volatile weather conditions during the winter-spring transition.",
+        "location": "Chapter 4, Chesapeake Bay habitat description",
+        "relevant_elements": ["3.6", "3.7"]
+      },
+      {
+        "text": "Furthermore, increasing summer temperatures have made shallower waters less suitable, both in extent and duration, during warmer months.",
+        "location": "Chapter 4, Chesapeake Bay habitat description",
+        "relevant_elements": ["3.5", "3.6"]
+      },
+      {
+        "text": "sea-level rise has seriously reduced suitable nesting habitat for terns as islands in the Chesapeake and Coastal Bays have continued to disappear. Nests are increasingly vulnerable to overwash during high tides and storm events.",
+        "location": "Chapter 3, Threats to Bird SGCN",
+        "relevant_elements": ["3.5"]
+      },
+      {
+        "text": "The Baltimore checkerspot butterfly experiences high mortality during winter heat waves (Abarca et al. 2019).",
+        "location": "Chapter 3, Threats to Invertebrate SGCN",
+        "relevant_elements": ["3.6", "1.1"]
+      },
+      {
+        "text": "11.3 Changes in Temperature Regimes 11.3.3 Gradual temperature change — Range retraction likely due to increased temperatures — Remove invasive species threatening large populations of spring wildflowers. Bombus vagans",
+        "location": "MD_SWAP_2025_draft_Appendices.pdf, Appendix 6a (Bees)",
+        "relevant_elements": ["1.1", "3.5"]
+      },
+      {
+        "text": "Climate Change is a rapidly growing concern in the region, impacting 73% (305 species) of the RSGCN and Proposed RSGCN.",
+        "location": "Chapter 5, Regional Threat: Climate Change",
+        "relevant_elements": ["1.1"]
+      },
+      {
+        "text": "Sea-Level Affecting Marsh Model (SLAMM) was run for all 16 coastal counties and Baltimore City. Using elevation, sea-level, erosion rates, and other input data, SLAMM attempts to predict where certain habitat types may be present in the future. Three model years were selected for the sea-level rise (or SLR) scenario: 2050 (1.37 feet of rise), 2070 (2.32 feet), and 2100 (4.03 feet).",
+        "location": "Chapter 6, Case Study: SLAMM, WAAs and the HCN",
+        "relevant_elements": ["2.3", "4.1"]
+      },
+      {
+        "text": "a conservation model (the Wetland Adaptation Areas Index, or WAA) was developed to prioritize the most important areas for wetland adaptation for the year 2100. Conservation criteria used include areas that may support future wetland migration, wildlife habitat and corridors, high priority living resources, vulnerable wetland habitat, and suitable soils for wetland establishment.",
+        "location": "Chapter 6, Case Study: SLAMM, WAAs and the HCN",
+        "relevant_elements": ["2.3", "4.1", "4.5"]
+      },
+      {
+        "text": "To help target surveys, use Maryland Biological Stream Survey (MBSS) stream monitoring records, recent and historical mussel distribution data, Species Distribution Models (SDMs), and eDNA sampling, when appropriate.",
+        "location": "MD_SWAP_2025_draft_Appendices.pdf, Appendix 6a (Freshwater Mussels)",
+        "relevant_elements": ["2.2"]
+      },
+      {
+        "text": "Develop and document distribution-model methods for under-studied focal species that can incorporate the agency's institutional data sets.",
+        "location": "MD_SWAP_2025_draft_Appendices.pdf, implied from context of freshwater fish actions",
+        "relevant_elements": ["2.2"]
+      },
+      {
+        "text": "the 2015 SWAP vulnerability assessments are incorporated into... the prior plan, considering sensitivity, exposure, and adaptive capacity across most focal species and related habitats.",
+        "location": "Chapter 5, Regional Threat: Climate Change",
+        "relevant_elements": ["2.1", "1.1"]
+      },
+      {
+        "text": "Staudinger et al. (2024)...A regional synthesis of climate data to inform the 2025 State Wildlife Action Plans in the Northeast U.S. DOI Northeast Climate Adaptation Science Center",
+        "location": "Chapter 7, Monitoring Species of Greatest Conservation Need",
+        "relevant_elements": ["2.3"]
+      },
+      {
+        "text": "Monitoring changes in climatic variables (e.g., microclimate, water levels, hydroperiods, snowmelt, ice-off dates, rainfall) in places where species and habitat data are also being collected can help to determine correlations or causal relationships between climate and ecological changes relevant to SGCN and their habitats. Climate variables that are most likely to be relevant to SGCN and their habitats should be prioritized for monitoring, such as those presented in Staudinger et al. (2024).",
+        "location": "Chapter 7, Monitoring Species of Greatest Conservation Need",
+        "relevant_elements": ["2.3", "4.3"]
+      },
+      {
+        "text": "The SLAMM project was funded by the National Oceanic and Atmospheric Administration (NOAA) and was run in collaboration with George Mason University and The Nature Conservancy.",
+        "location": "Chapter 6, Case Study: SLAMM, WAAs and the HCN",
+        "relevant_elements": ["2.3", "3.4"]
+      },
+      {
+        "text": "Changes in precipitation patterns and water temperatures are expected to alter hydrology, host fish populations, and habitat availability (Hastie et al. 2003; Galbraith et al. 2010). As lower reaches of coastal streams become increasingly saline due to sea-level rise, freshwater mussel habitat is likely to contract toward the Fall Line and may eventually disappear altogether.",
+        "location": "Chapter 3, Threats to Invertebrate SGCN",
+        "relevant_elements": ["3.5", "1.1"]
+      },
+      {
+        "text": "Warming has allowed invasive cheatgrass to expand its range into higher elevations previously dominated by native bunchgrasses",
+        "location": "Chapter 5, Priority Threat: Invasive (Plant) Species / Climate Change",
+        "relevant_elements": ["3.7"]
+      },
+      {
+        "text": "Prepare for new invasive species and pathogens that are likely to establish themselves in Maryland due to changing climatic conditions.",
+        "location": "Chapter 6, Table 6.14 Statewide conservation actions",
+        "relevant_elements": ["3.7"]
+      },
+      {
+        "text": "combined with increased storm volatility as a result of climate change, this means that—even though sea-level rise and saltwater intrusion is not an issue in this region of the state—western Maryland is facing an increase in flash flooding. Historic floods like those in 2025 are likely to become more common in western Maryland as both development and climate change continue.",
+        "location": "Chapter 2, Appalachian Plateau",
+        "relevant_elements": ["3.5"]
+      },
+      {
+        "text": "Better coordinate efforts in monitoring how/which species are affected by climate change (both plants and animals) in order to track populations, monitor overall impact, and adapt land management practices appropriately.",
+        "location": "Chapter 6, Table 6.14 Statewide conservation actions",
+        "relevant_elements": ["4.3", "4.5"]
+      },
+      {
+        "text": "Work with local and county governments to develop more localized models and plans for climate resiliency. Include aspects of flood response, stormwater management, storm damage, and major heat events.",
+        "location": "Chapter 6, Table 6.14 Statewide conservation actions",
+        "relevant_elements": ["4.5"]
+      },
+      {
+        "text": "Use climate projections to estimate timelines and locations most vulnerable to invasive species spread and establishment.",
+        "location": "Chapter 6, Regional Action: Protect from Disease and Invasive Species",
+        "relevant_elements": ["2.3", "3.7"]
+      },
+      {
+        "text": "incorporate climate projections into risk assessments across Northeast lands and waters to conserve and restore RSGCN and their habitats.",
+        "location": "Chapter 6, Regional Action: Protect from Habitat Loss and Degradation",
+        "relevant_elements": ["2.3", "4.5"]
+      },
+      {
+        "text": "Incorporate climate projections and information to assess future scenarios of risk and use this information to develop climate-smart actions.",
+        "location": "Chapter 6, Regional Action: Address Climate Change Impacts",
+        "relevant_elements": ["2.3", "4.5"]
+      },
+      {
+        "text": "Develop a regional Climate Adaptation Strategy guided by the 2021 national plan, NE CASC, and other key partners' expertise and resources.",
+        "location": "Chapter 6, Regional Action: Address Climate Change Impacts",
+        "relevant_elements": ["4.5"]
+      },
+      {
+        "text": "Important Bird Areas (IBA)... identifies habitats supporting suites of SGCN and working to protect them...Maps of migration stopover hotspots (Figure 3.5) can help direct land easement and acquisition efforts",
+        "location": "Chapter 3, Conservation Actions and Information Needs for Bird SGCN",
+        "relevant_elements": ["4.1"]
+      },
+      {
+        "text": "Numerous islands important to colonial waterbirds have eroded away and those that remain continue to shrink due to erosion and sea-level rise.",
+        "location": "Chapter 3, Bird SGCN of the Coastal Plain",
+        "relevant_elements": ["3.5"]
+      },
+      {
+        "text": "Evaluate need for population augmentation or reintroduction via propagation or translocation.",
+        "location": "MD_SWAP_2025_draft_Appendices.pdf, Appendix 6a (Freshwater Mussels)",
+        "relevant_elements": ["4.2"]
+      },
+      {
+        "text": "12.2 Resource Needs Management decision needs Need for fish, wildlife and/or habitat planning: Susquehanna River drainage — Evaluate the need for reintroduction and/or augmentation into Maryland's portion of Susquehanna River drainage and implement if found to be warranted.",
+        "location": "MD_SWAP_2025_draft_Appendices.pdf, Appendix 6a (Freshwater Mussels)",
+        "relevant_elements": ["4.2"]
+      },
+      {
+        "text": "Determine if nesting females are just laying late-term eggs or if they are unique individuals reacting to climate change. Loggerhead sea turtle",
+        "location": "MD_SWAP_2025_draft_Appendices.pdf, Appendix 6a (Sea Turtles)",
+        "relevant_elements": ["1.1", "3.6"]
+      },
+      {
+        "text": "These SGCN are therefore assigned to the Roadside and Utility Right-of-Way KWH. These open meadows contain a diverse array of rare plants that are most commonly associated with southern pine barrens or midwestern prairies",
+        "location": "Chapter 2, Coastal Plain description",
+        "relevant_elements": ["3.3"]
+      },
+      {
+        "text": "Maintaining connectivity between metapopulations through habitat corridors by working with private landowners to establish 'stepping stones' on agricultural or urban lands.",
+        "location": "Chapter 3, Conservation Actions and Information Needs for Invertebrate SGCN",
+        "relevant_elements": ["1.4", "4.2"]
+      },
+      {
+        "text": "A natural community may be considered rare for a number of reasons: it might represent a habitat on the northern or southern extent of its range, be particularly sensitive to anthropogenic threats, or be especially vulnerable to a rapidly changing climate.",
+        "location": "Chapter 4, What are Key Wildlife Habitats?",
+        "relevant_elements": ["1.1", "3.3"]
+      },
+      {
+        "text": "The NEAFWA's Fish and Wildlife Diversity Technical Committee (NEFWDTC)...worked to provide a shared framework, set of terminology, and regional perspective for various aspects of the SWAP.",
+        "location": "Chapter 1, Introduction",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "State Wildlife Grants...are one of the main sources of funding for nongame species management in Maryland and allow for the continuation and improvement of the protection and management of Species of Greatest Conservation Need (SGCN) and their habitats.",
+        "location": "Chapter 1, Introduction",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "In summer of 2020, staff 'planted' 116 individually marked, hatchery-propagated brook floater in stream bottom enclosures in portions of the creek where riparian buffers had been established. After two months, there was 99% survival among the small mussels",
+        "location": "Chapter 3, Case Study: Planting Trees and 'Planting' Mussels",
+        "relevant_elements": ["4.4"]
+      },
+      {
+        "text": "The Tern Raft is intended to be used as a temporary measure to retain nesting common terns in the Coastal Bays while breeding habitat is restored by creating small islands suitable for nesting sites",
+        "location": "Chapter 3, Bird SGCN of the Coastal Plain",
+        "relevant_elements": ["4.2", "4.4"]
+      },
+      {
+        "text": "MD DNR will also supplements shad and river herring populations using hatchery-produced fish...Extensive restoration efforts including hatchery propagation and the removal of stream blockages, such as the removal of the Patapso River's Bloede Dam in 2018, have been largely successful at increasing their abundance in bay tributaries",
+        "location": "Chapter 3, Conservation Actions and Information Needs for Fish SGCN",
+        "relevant_elements": ["4.4"]
+      },
+      {
+        "text": "each SWAP must address the same eight elements (Table 1.1)...Descriptions of conservation actions proposed to conserve the identified species and habitats and priorities for implementing such actions.",
+        "location": "Chapter 1, The Contents of the SWAP",
+        "relevant_elements": ["4.3"]
+      },
+      {
+        "text": "These actions range in scale; some address only a single species, while others are state-wide actions that would benefit all of Maryland's flora, fauna, and habitats.",
+        "location": "Chapter 6, Conservation Actions Introduction",
+        "relevant_elements": ["4.1", "4.2"]
+      },
+      {
+        "text": "MD DNR will coordinate and complete a comprehensive revision of this SWAP by October 2035 (Element #6). Between major revisions, MD DNR and USFWS frameworks will guide the implementation process...annual reporting for SWG funding...Regular analysis and incorporation of tabular and spatial data...Regular review of results of monitoring and performance measures",
+        "location": "Chapter 9, Review and Revision",
+        "relevant_elements": ["4.3"]
+      },
+      {
+        "text": "Each action in the appendix is paired with a priority level (low, medium, or high)...Threat Immediacy...Likelihood of Action Success...Action Duration",
+        "location": "Chapter 6, Prioritizing Conservation Actions",
+        "relevant_elements": ["4.3"]
+      }
+    ]
+  },
+  "concepts": {
+    "climate_vulnerability": {
+      "evaluable": true,
+      "score": 3,
+      "evidence": [
+        {
+          "text": "Understanding why species and ecosystems are vulnerable or potentially less resilient is a critical first step in developing effective conservation strategies. This vulnerability is based on sensitivity, exposure, and the ability to adapt.",
+          "location": "Chapter 5, Regional Threat: Climate Change",
+          "sub_component": "exposure and adaptive capacity",
+          "citations": []
+        },
+        {
+          "text": "Climate Change is a rapidly growing concern in the region, impacting 73% (305 species) of the RSGCN and Proposed RSGCN. All species in the stonefly, reptile, mayfly, marine invertebrate, mammal, and caddisfly taxonomic groups are considered vulnerable to climate change impacts",
+          "location": "Chapter 5, Regional Threat: Climate Change",
+          "sub_component": "exposure",
+          "citations": []
+        },
+        {
+          "text": "Species with low adaptive capacity such as those with specialized habitat needs or limited dispersal ability face higher vulnerability to these changes.",
+          "location": "Chapter 3, Table 3.2 Additional Selection Criteria",
+          "sub_component": "adaptive capacity",
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "adaptive_capacity_specificity": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Vulnerable species (to a variety of threats, particularly impacts from climate change and invasive species impacting host plant species)… Species with limited dispersal… Species with fragmented or isolated populations",
+          "location": "Chapter 3, Table 3.2 Additional Selection Criteria",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Species with low adaptive capacity such as those with specialized habitat needs or limited dispersal ability face higher vulnerability to these changes.",
+          "location": "Chapter 3, Table 3.2 Additional Selection Criteria",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "adaptive_capacity_components": {
+      "demography": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "11.3 Changes in Temperature Regimes 11.3.1 Heat waves — Heat waves could cause mussel die-offs — Conduct expansive studies to evaluate potential effects on population dynamics.",
+            "location": "MD_SWAP_2025_draft_Appendices.pdf, Appendix 6a (Freshwater Mussels)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "distribution": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "In addition, many invertebrate species, particularly in Garrett County, are likely to experience range shifts that may result in their extirpation from Maryland, while other species are expected to expand into the state, a trend already observed in southern Maryland counties.",
+            "location": "Chapter 3, Threats to Invertebrate SGCN",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "movement": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Species with limited dispersal… Species with fragmented or isolated populations",
+            "location": "Chapter 3, Table 3.2 Additional Selection Criteria",
+            "sub_component": null,
+            "citations": []
+          },
+          {
+            "text": "Habitat connectivity is particularly important with regards to climate change because it allows species to adapt to the changing environment around them, facilitating necessary movements such as migration and range shifts.",
+            "location": "Chapter 6, Case Study: SLAMM, WAAs and the HCN",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "evolutionary_potential": {
+        "present": false,
+        "evidence": []
+      },
+      "ecological_dependencies": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "climate change has led to phenological mismatches for a number of bird species, aerial insectivores in particular...Climate change has altered the timeframes of both insect and bird ecological functions, leading to less overlap and therefore a reduced food source during the migratory season.",
+            "location": "Chapter 3, Threats to Bird SGCN",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "abiotic_niche": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "11.3 Changes in Temperature Regimes — Evaluate predicted habitat change and loss due to changes in thermal regime and precipitation patterns. Stonecat, brook trout, longnose sucker, striped shiner, Allegheny pearl dace, mottled sculpin, checkered sculpin, johnny darter",
+            "location": "MD_SWAP_2025_draft_Appendices.pdf, Appendix 6a (Freshwater Fishes)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "life_history": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The life history characteristics of turtles in particular make them at risk of population declines, as they are slow to reach reproductive maturity and have incredibly low egg and juvenile survival.",
+            "location": "Chapter 3, Threats to Reptile and Amphibian SGCN",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      }
+    },
+    "connectivity": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Habitat connectivity is particularly important with regards to climate change because it allows species to adapt to the changing environment around them, facilitating necessary movements such as migration and range shifts.",
+          "location": "Chapter 6, Case Study: SLAMM, WAAs and the HCN",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "fragmentation include the loss of large-scale habitat connectivity and corridors, which makes it more difficult for species to migrate and shift their ranges in response to climate change",
+          "location": "Chapter 5, Priority Threat: Habitat Loss and Fragmentation",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    }
+  },
+  "tools": {
+    "vulnerability_models": {
+      "evaluable": true,
+      "score": 1,
+      "named_tools": ["CCVI", "Climate Change Vulnerability Assessment"],
+      "evidence": [
+        {
+          "text": "Use existing climate vulnerability data when possible and conduct Climate Change Vulnerability Assessments to assess risk.",
+          "location": "Chapter 6, Regional Action: Address Climate Change Impacts",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "ensuring that species most in need of information (e.g., life history, population distribution, threat assessment, climate vulnerability) do not get overshadowed by the SGCN list",
+          "location": "Chapter 3, State Assessment Priority Species (SAPS)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document references Climate Change Vulnerability Assessments and CCVI as recommended tools and notes that the 2015 SWAP incorporated vulnerability assessments, but no CCVI scores or formal vulnerability assessments are documented as having been applied to the 2025 SGCN list. The language is largely aspirational or backward-looking at 2015 work."
+    },
+    "niche_models": {
+      "evaluable": true,
+      "score": 2,
+      "named_tools": ["SDM", "Species Distribution Models"],
+      "evidence": [
+        {
+          "text": "To help target surveys, use Maryland Biological Stream Survey (MBSS) stream monitoring records, recent and historical mussel distribution data, Species Distribution Models (SDMs), and eDNA sampling, when appropriate.",
+          "location": "MD_SWAP_2025_draft_Appendices.pdf, Appendix 6a (Freshwater Mussels)",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Species distribution models (SDMs) show declines due to increased annual temperatures — Assess the impact(s) of climate change on these populations.",
+          "location": "MD_SWAP_2025_draft_Appendices.pdf, Appendix 6a (Butterflies, IUCN 11.3.4)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_models": {
+      "evaluable": true,
+      "score": 2,
+      "named_tools": ["SLAMM", "NECASC"],
+      "evidence": [
+        {
+          "text": "Sea-Level Affecting Marsh Model (SLAMM) was run for all 16 coastal counties and Baltimore City. Using elevation, sea-level, erosion rates, and other input data, SLAMM attempts to predict where certain habitat types may be present in the future. Three model years were selected for the sea-level rise (or SLR) scenario: 2050 (1.37 feet of rise), 2070 (2.32 feet), and 2100 (4.03 feet).",
+          "location": "Chapter 6, Case Study: SLAMM, WAAs and the HCN",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Staudinger et al. (2024)...A regional synthesis of climate data to inform the 2025 State Wildlife Action Plans in the Northeast U.S. DOI Northeast Climate Adaptation Science Center",
+          "location": "Chapter 7, Monitoring Species of Greatest Conservation Need",
+          "sub_component": null,
+          "citations": ["Staudinger et al. 2024"]
+        }
+      ],
+      "absence_note": "SLAMM is applied directly to Maryland's coastal counties and used operationally. No named GCMs or RCP/SSP scenarios appear explicitly; the SLAMM SLR scenarios are physically based. The document also references NECASC climate synthesis products as inputs to planning.",
+      "time_horizon_years": [2050, 2070, 2100],
+      "emission_scenarios": []
+    },
+    "connectivity_models": {
+      "evaluable": true,
+      "score": 2,
+      "named_tools": ["Maryland Habitat Connectivity Network", "HCN"],
+      "evidence": [
+        {
+          "text": "the Maryland Habitat Connectivity Network (HCN) data (previously known as Green Infrastructure) was created. This data layer maps upland forest, wetland, and aquatic hubs; upland forest and aquatic corridors; and potentially restorable gaps in habitat connectivity.",
+          "location": "Chapter 6, Case Study: SLAMM, WAAs and the HCN",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Habitat connectivity is particularly important with regards to climate change because it allows species to adapt to the changing environment around them, facilitating necessary movements such as migration and range shifts. To capture this connectivity, the Maryland Habitat Connectivity Network (HCN) data...was created.",
+          "location": "Chapter 6, Case Study: SLAMM, WAAs and the HCN",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    }
+  },
+  "context": {
+    "management_scale": {
+      "local": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Maintaining connectivity between metapopulations through habitat corridors by working with private landowners to establish 'stepping stones' on agricultural or urban lands.",
+            "location": "Chapter 3, Conservation Actions and Information Needs for Invertebrate SGCN",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "site": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "In summer of 2020, staff 'planted' 116 individually marked, hatchery-propagated brook floater in stream bottom enclosures in portions of the creek where riparian buffers had been established.",
+            "location": "Chapter 3, Case Study: Planting Trees and 'Planting' Mussels",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "watershed": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Develop holistic watershed conservation and restoration plans to protect or rehabilitate habitat of extant populations.",
+            "location": "MD_SWAP_2025_draft_Appendices.pdf, Appendix 6a (Freshwater Mussels)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "city": {
+        "present": false,
+        "evidence": []
+      },
+      "county": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "In addition, many invertebrate species, particularly in Garrett County, are likely to experience range shifts that may result in their extirpation from Maryland, while other species are expected to expand into the state, a trend already observed in southern Maryland counties.",
+            "location": "Chapter 3, Threats to Invertebrate SGCN",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "within_state_region": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Climate change impacts are most commonly tied to water-related issues such as sea-level rise, saltwater intrusion, increased storm severity, and increased flooding...western Maryland is facing an increase in flash flooding.",
+            "location": "Chapter 5, Priority Threat: Climate Change / Chapter 2",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "state": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Sea-Level Affecting Marsh Model (SLAMM) was run for all 16 coastal counties and Baltimore City.",
+            "location": "Chapter 6, Case Study: SLAMM, WAAs and the HCN",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "multistate": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Conservation agencies in the Northeast region have made an effort to coordinate their SWAPs in the interest of strengthening conservation work throughout the region.",
+            "location": "Chapter 1, Introduction",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "national": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Develop a regional Climate Adaptation Strategy guided by the 2021 national plan, NE CASC, and other key partners' expertise and resources.",
+            "location": "Chapter 6, Regional Action: Address Climate Change Impacts",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "transnational": {
+        "present": false,
+        "evidence": []
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Changes in precipitation patterns and water temperatures are expected to alter hydrology, host fish populations, and habitat availability (Hastie et al. 2003; Galbraith et al. 2010). As lower reaches of coastal streams become increasingly saline due to sea-level rise, freshwater mussel habitat is likely to contract toward the Fall Line",
+            "location": "Chapter 3, Threats to Invertebrate SGCN",
+            "sub_component": null,
+            "citations": ["Hastie et al. 2003", "Galbraith et al. 2010"]
+          }
+        ]
+      },
+      "ecoregion": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "All 57 KWHs have been cross referenced with the 24 regional habitat types to better facilitate cross-state collaboration.",
+            "location": "Chapter 4, Key Wildlife Habitat Classification: Regional Context",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "province": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "many species are restricted to a particular region, watershed, or habitat. For example, species like the seal salamander (Desmognathus monticola) and nesting Canada warbler are limited to high-elevation habitats in the far western part of the state, in the Appalachian Plateau physiographic region.",
+            "location": "Chapter 3, Distribution of Maryland's Wildlife",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "section": {
+        "present": false,
+        "evidence": []
+      },
+      "subsection": {
+        "present": false,
+        "evidence": []
+      },
+      "lake": {
+        "present": false,
+        "evidence": []
+      },
+      "river": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The North Branch of the Potomac River contains Maryland's only viable populations of pipevine (Isotrema macrophyllum), an endemic to the Appalachian Mountains that is found in Maryland near its northern range limits.",
+            "location": "Chapter 2, Plants of the Appalachian Plateau",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "district": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["Chesapeake Bay", "Coastal Bays", "Atlantic Ocean", "Potomac River", "Susquehanna River", "Garrett County", "Appalachian Plateau", "Delmarva Peninsula", "Atlantic Flyway", "Northeast region"]
+    },
+    "biological_unit_score": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "In addition, many invertebrate species, particularly in Garrett County, are likely to experience range shifts that may result in their extirpation from Maryland, while other species are expected to expand into the state",
+          "location": "Chapter 3, Threats to Invertebrate SGCN",
+          "sub_component": "species",
+          "citations": []
+        },
+        {
+          "text": "Changes in precipitation patterns and water temperatures are expected to alter hydrology, host fish populations, and habitat availability. As lower reaches of coastal streams become increasingly saline due to sea-level rise, freshwater mussel habitat is likely to contract toward the Fall Line",
+          "location": "Chapter 3, Threats to Invertebrate SGCN",
+          "sub_component": "habitat",
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "biological_unit_components": {
+      "species": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "In addition, many invertebrate species, particularly in Garrett County, are likely to experience range shifts that may result in their extirpation from Maryland, while other species are expected to expand into the state",
+            "location": "Chapter 3, Threats to Invertebrate SGCN",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "population": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Identify populations most vulnerable to sea-level rise impacts, and identify which are not resilient.",
+            "location": "MD_SWAP_2025_draft_Appendices.pdf, Appendix 6a (Marine/Tidal Species)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "habitat": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "As lower reaches of coastal streams become increasingly saline due to sea-level rise, freshwater mussel habitat is likely to contract toward the Fall Line and may eventually disappear altogether.",
+            "location": "Chapter 3, Threats to Invertebrate SGCN",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "All species in the stonefly, reptile, mayfly, marine invertebrate, mammal, and caddisfly taxonomic groups are considered vulnerable to climate change impacts, highlighting these groups' sensitivity to future changes.",
+            "location": "Chapter 5, Regional Threat: Climate Change",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "community": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "A natural community may be considered rare for a number of reasons: it might represent a habitat on the northern or southern extent of its range, be particularly sensitive to anthropogenic threats, or be especially vulnerable to a rapidly changing climate.",
+            "location": "Chapter 4, What are Key Wildlife Habitats?",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "genotype_phenotype": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["brook trout", "freshwater mussels", "saltmarsh sparrow", "piping plover", "Baltimore checkerspot", "loggerhead sea turtle", "Bombus vagans", "Tidal Salt Marsh and Shrubland", "Chesapeake Bay", "Coastal Bays", "Atlantic Ocean KWH"]
+    },
+    "partnerships_and_funding": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "The SLAMM project was funded by the National Oceanic and Atmospheric Administration (NOAA) and was run in collaboration with George Mason University and The Nature Conservancy.",
+          "location": "Chapter 6, Case Study: SLAMM, WAAs and the HCN",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "The RCN Program formalizes a cooperative approach to address SGCN needs across multiple states...The RCN program utilizes a funding mechanism that is equitable to all Northeast states and the District of Columbia, creating a base of funding for regional projects.",
+          "location": "Chapter 6, Regional Actions",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_threat_habitat_degradation": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Climate change has also severely impacted coastal marsh habitats through sea-level rise, combined with an increase in frequency and severity of storms and tidal surges in coastal areas during the nesting season.",
+          "location": "Chapter 3, Threats to Bird SGCN",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "combined with increased storm volatility as a result of climate change, this means that—even though sea-level rise and saltwater intrusion is not an issue in this region of the state—western Maryland is facing an increase in flash flooding.",
+          "location": "Chapter 2, Appalachian Plateau",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_threat_species_vital_rates": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "The Baltimore checkerspot butterfly experiences high mortality during winter heat waves (Abarca et al. 2019).",
+          "location": "Chapter 3, Threats to Invertebrate SGCN",
+          "sub_component": null,
+          "citations": ["Abarca et al. 2019"]
+        },
+        {
+          "text": "11.3 Changes in Temperature Regimes 11.3.1 Heat waves — Heat waves could cause mussel die-offs — Conduct expansive studies to evaluate potential effects on population dynamics.",
+          "location": "MD_SWAP_2025_draft_Appendices.pdf, Appendix 6a (Freshwater Mussels)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_threat_biotic_stressors": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "climate change has led to phenological mismatches for a number of bird species, aerial insectivores in particular...Climate change has altered the timeframes of both insect and bird ecological functions, leading to less overlap and therefore a reduced food source during the migratory season.",
+          "location": "Chapter 3, Threats to Bird SGCN",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Prepare for new invasive species and pathogens that are likely to establish themselves in Maryland due to changing climatic conditions.",
+          "location": "Chapter 6, Table 6.14 Statewide conservation actions",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    }
+  },
+  "actions": {
+    "priority_habitat_identification": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "a conservation model (the Wetland Adaptation Areas Index, or WAA) was developed to prioritize the most important areas for wetland adaptation for the year 2100. Conservation criteria used include areas that may support future wetland migration, wildlife habitat and corridors, high priority living resources, vulnerable wetland habitat",
+          "location": "Chapter 6, Case Study: SLAMM, WAAs and the HCN",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "the Maryland Habitat Connectivity Network (HCN) data...was created. This data layer maps upland forest, wetland, and aquatic hubs; upland forest and aquatic corridors; and potentially restorable gaps in habitat connectivity. Hubs are defined as contiguous habitat blocks of at least 50 acres",
+          "location": "Chapter 6, Case Study: SLAMM, WAAs and the HCN",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Improve understanding of where sea-level rise poses the greatest threat to mussel habitat and to what species. Dwarf wedgemussel, alewife floater, yellow lampmussel, eastern lampmussel, tidewater mucket, eastern pondmussel",
+          "location": "MD_SWAP_2025_draft_Appendices.pdf, Appendix 6a (Freshwater Mussels)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "targeted_range_shift_actions": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Habitat connectivity is particularly important with regards to climate change because it allows species to adapt to the changing environment around them, facilitating necessary movements such as migration and range shifts. To capture this connectivity, the Maryland Habitat Connectivity Network (HCN) data...was created.",
+          "location": "Chapter 6, Case Study: SLAMM, WAAs and the HCN",
+          "sub_component": "structural facilitation",
+          "citations": []
+        }
+      ],
+      "absence_note": "The document provides structural facilitation through the HCN corridors framed explicitly as supporting climate-driven range shifts. Direct manipulation (assisted migration, climate-motivated translocation) is not explicitly proposed for climate range-shift purposes; mussel augmentation/reintroduction is discussed as recovery, not explicitly climate-motivated range-shift facilitation."
+    },
+    "time_bound_and_monitoring": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "MD DNR will coordinate and complete a comprehensive revision of this SWAP by October 2035 (Element #6). Between major revisions...Annual reporting for SWG funding and other Federal Aid grant requirements...Regular review of results of monitoring and performance measures",
+          "location": "Chapter 9, Review and Revision",
+          "sub_component": "time-bound",
+          "citations": []
+        }
+      ],
+      "absence_note": "The document has a 10-year plan revision cycle and annual reporting requirements, which is time-binding at the plan level, not at the individual action level. Individual species/habitat-level conservation actions in Appendices 6a and 6b have priority levels (low/medium/high) and duration estimates, but individual deadlines tied to specific climate-related actions are not clearly articulated in the narrative text reviewed. Effectiveness monitoring is referenced extensively as a principle (Chapter 7) but is aspirational rather than operationalized per individual action with specified protocols and deadlines. Score = 1 reflects that the plan structure includes time-based benchmarks but individual action-level deadlines and effectiveness monitoring tied to climate range-shift actions are not fully operationalized."
+    },
+    "evidence_of_efficacy": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "In summer of 2020, staff 'planted' 116 individually marked, hatchery-propagated brook floater in stream bottom enclosures in portions of the creek where riparian buffers had been established. After two months, there was 99% survival among the small mussels",
+          "location": "Chapter 3, Case Study: Planting Trees and 'Planting' Mussels",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Extensive restoration efforts including hatchery propagation and the removal of stream blockages, such as the removal of the Patapso River's Bloede Dam in 2018, have been largely successful at increasing their abundance in bay tributaries, especially that of hickory shad.",
+          "location": "Chapter 3, Fish SGCN / Conservation Actions",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document presents several case studies with measurable outcomes (mussel reintroduction, tern raft, dam removal) that provide limited to moderate evidence of efficacy for specific actions. However, the evidence primarily concerns recovery actions and habitat management rather than directly tested climate adaptation actions. Score = 2 (limited evidence) because the case studies focus on different settings and primarily test general restoration/conservation principles rather than directly testing climate adaptation efficacy.",
+      "projects": ["Town Creek mussel reintroduction (2020-2023): 116 hatchery-propagated brook floater planted in Town Creek with 99% survival after 2 months; 98% survival in a 2021 repeat; provided limited evidence that riparian buffers and mussel reintroduction can be combined as an effective restoration technique, though a flood disturbed results.", "Tern Raft project (2021-present): Artificial floating platform deployed in Chincoteague Bay to replace nesting habitat lost to sea-level rise; over 1,100 common tern chicks have fledged; 80% return rate for breeding pairs; provides direct evidence that artificial habitat can substitute for eroding natural islands.", "Bloede Dam removal (2018): Removal of dam on Patapsco River shown to increase abundance of hickory shad, providing evidence that barrier removal is effective for restoring migratory fish populations."]
+    },
+    "adaptation_planning_frameworks": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Develop a regional Climate Adaptation Strategy guided by the 2021 national plan, NE CASC, and other key partners' expertise and resources.",
+          "location": "Chapter 6, Regional Action: Address Climate Change Impacts",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Use existing climate vulnerability data when possible and conduct Climate Change Vulnerability Assessments to assess risk.",
+          "location": "Chapter 6, Regional Action: Address Climate Change Impacts",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Monitoring is fundamental in the process of evaluating how conservation actions affect targeted species and habitats...Adaptive management includes the process of hypothesizing how ecosystems work, analyzing results from monitoring, and comparing results with action expectations",
+          "location": "Chapter 7, Monitoring to Improve Conservation Outcomes",
+          "sub_component": null,
+          "citations": ["Williams & Brown 2012"]
+        }
+      ],
+      "absence_note": "The document references specific frameworks including Climate Change Vulnerability Assessments (CCVA), adaptive management (operationalized within Chapter 7), and mentions the Resist-Accept-Direct (RAD) or Resistance-Resilience-Transition (RRT) frameworks are not explicitly named. The regional Climate Adaptation Strategy and CCVA are mentioned as specific tools, scoring this a 2."
+    }
+  },
+  "coding_meta": {
+    "coder": "llm:claude-sonnet-4-6",
+    "model": "claude-sonnet-4-6",
+    "provider": "claude",
+    "codebook_version": "0.4",
+    "ingest": "text",
+    "design": "single",
+    "temperature": null,
+    "thinking": null,
+    "thinking_effort": null,
+    "coded_at": "2026-07-06T18:39:23Z",
+    "notes": {}
+  }
+}

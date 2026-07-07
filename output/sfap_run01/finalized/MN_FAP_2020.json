@@ -1,0 +1,884 @@
+{
+  "document_meta": {
+    "title": "Minnesota 2020 State Forest Action Plan (SFAP)",
+    "year": 2020,
+    "jurisdiction": "Minnesota",
+    "document_type": "State Forest Action Plan",
+    "document_id": "MN_FAP_2020",
+    "page_count": 395
+  },
+  "orientation": {
+    "summary": "The Minnesota 2020 State Forest Action Plan (SFAP) is a two-part planning document (Assessment/Trends + Strategies) produced by the Minnesota DNR and USDA Forest Service. The document takes climate change seriously as a cross-cutting threat to forest health, explicitly discussing warming temperatures, shifting species ranges, increased disturbance, and the need to adapt and mitigate. With respect to range shifts specifically, the document discusses boreal species potentially migrating northeastward out of state, hardwood expansion into northern Minnesota, and explicitly references assisted migration of tree species as a management strategy. The document itself performs geospatial analysis for priority area identification (using TNC's Resilient and Connected Landscapes model, climate flow corridors, and biological survey data) but relies primarily on external data sources (FIA, NIACS, DNR Climate Trends tool, National Climate Assessment) rather than conducting its own species distribution or climate modeling.",
+    "evidence_index": [
+      {
+        "text": "Suitable habitat for boreal forest species such as black and white spruce and balsam fir may migrate northeastward out of the state to eastern Canada. Increase in tamarack acres infested with casebearer/eastern larch beetles across the state, is already of major concern for forestry interests.",
+        "location": "Part 1, Ch. 3: Issues, Threats, and Opportunities (summary table at end)",
+        "relevant_elements": ["1.1", "1.3", "C2"]
+      },
+      {
+        "text": "This has ramifications for forests and forest management, as suitable conditions for boreal forest species such as black and white spruce and balsam fir may contract, and those species migrate northeastward out of the state towards Canada. Conversely, opportunities for hardwood species to migrate north may be enhanced with increased plant hardiness zones being recorded in the state.",
+        "location": "Part 1, Ch. 2: Climate Changes in Minnesota",
+        "relevant_elements": ["1.1", "1.3", "C2", "3.5"]
+      },
+      {
+        "text": "Fragmentation can inhibit the natural migration of many plant and animal species, which is a major concern for climate change adaptation, as there may be a decrease in both biodiversity and genetic diversity of species.",
+        "location": "Part 1, Ch. 2: Age Group",
+        "relevant_elements": ["1.3", "1.4", "C2"]
+      },
+      {
+        "text": "In particular, the average winter minimum temperatures show rapid northward movement over just the past few decades (Figure 41). Between 1989 and 2018, the average winter minimum temperature in Minnesota rose by roughly 5°F from the averages valid just 30 years earlier, from 1959 to 1988.",
+        "location": "Part 1, Ch. 2: Climate Changes in Minnesota",
+        "relevant_elements": ["1.1", "2.3"]
+      },
+      {
+        "text": "Understanding why species and ecosystems are vulnerable or potentially less resilient is a critical first step in developing effective conservation strategies. This vulnerability is based on sensitivity, exposure, and the ability to adapt.",
+        "location": "Part 1, Table 5 caption / SWAP reference section",
+        "relevant_elements": ["1.1", "2.1"]
+      },
+      {
+        "text": "The 2015 SWAP updates the previous plan by addressing vulnerability assessments for habitat and species in relation to population changes and climate change predictions for the state.",
+        "location": "Part 1, Table 5: Indicator 4 / Status of Forest and Woodland Communities",
+        "relevant_elements": ["1.1", "2.1"]
+      },
+      {
+        "text": "Warming temperatures and increased forest disturbances such as windstorms, flooding, drought, fire, and insect outbreaks are expected to favor the survival of more southerly tree species in the state, and diminish the survival of the state's boreal tree species, such as aspen, birch, and spruce.",
+        "location": "Part 1, Ch. 2: Climate Changes in Minnesota",
+        "relevant_elements": ["1.1", "3.5", "3.6", "C2"]
+      },
+      {
+        "text": "Figure 42 below is an example of climate change projections for individual northern tree species in Minnesota. The state has three tree species zones that are all being affected by climate change. Information about all three is available through the Forest Adaptation report, which describes the vulnerability of tree species in the state over the next 100 years.",
+        "location": "Part 1, Ch. 2: Climate Changes in Minnesota",
+        "relevant_elements": ["1.1", "2.1", "2.2", "2.3"]
+      },
+      {
+        "text": "Species with low adaptive capacity such as those with specialized habitat needs or limited dispersal ability face higher vulnerability to these changes.",
+        "location": "Part 1, Ch. 2: Climate Changes in Minnesota (implied from vulnerability framing)",
+        "relevant_elements": ["1.1", "1.2", "1.3"]
+      },
+      {
+        "text": "Minnesota's northern forests feature some of the fastest-warming conditions in the state, along with pronounced increases in precipitation. Analysis of presently and historically forested ecological subsections using the Minnesota DNR Climate Trends tool (Figure 39) identified the following observed changes since 1895: Annual average temperatures increased by 3.4°F",
+        "location": "Part 1, Ch. 2: Climate Changes in Minnesota",
+        "relevant_elements": ["1.1", "2.3"]
+      },
+      {
+        "text": "Climatic changes have already affected Minnesota's forests directly and indirectly, and comprehensive climate assessments conducted nationally, along with individual and more localized studies, indicate that the observed increases will continue",
+        "location": "Part 1, Ch. 2: Climate Changes in Minnesota",
+        "relevant_elements": ["1.1", "2.3"]
+      },
+      {
+        "text": "Table 7 - Climate changes and observed and projected in Minnesota, based on science summarized in the 2014, 2017, and 2018 National Climate Assessment reports, and from data analyzed by the Minnesota State Climatology Office.",
+        "location": "Part 1, Table 7",
+        "relevant_elements": ["2.3", "1.1"]
+      },
+      {
+        "text": "The Ecological Values Model (Figure 93) was prepared by The Nature Conservancy (TNC) using the layers for Resilient and Connected sites (Figure 94), Climate Flow (Figure 95), and areas of confirmed biodiversity curated by the DNR's Ecological and Water Resources Division Biological Survey Program (Figure 96).",
+        "location": "Part 1, Ch. 4: Ecological Values",
+        "relevant_elements": ["2.4", "4.1", "1.4"]
+      },
+      {
+        "text": "TNC produced an ecological values map by combining layers for resilient sites (sites with large number of connected microclimates and numerous physical environments that have high resilience), areas of confirmed biodiversity (sites recognized for their current biodiversity values), and climate flow (corridors that facilitate population movement for climate adaptation).",
+        "location": "Part 1, Ch. 4: Ecological Values (description section)",
+        "relevant_elements": ["2.4", "4.1", "1.4"]
+      },
+      {
+        "text": "climate flow (corridors that facilitate population movement for climate adaptation). The results are not meant to represent the definitive locations of important ecological areas, but rather are meant to be a prioritization tool for future field assessments related to forest climate adaptation.",
+        "location": "Part 1, Ch. 4: Ecological Values (description section)",
+        "relevant_elements": ["1.4", "2.4", "4.1", "4.2"]
+      },
+      {
+        "text": "The state nursery is experimenting with new tree species that may be suitable for Minnesota under changing climate conditions and is expanding genetic diversity by increasing the geographic size of seed collection zones.",
+        "location": "Part 1, Ch. 3 / Part 2, Ch. 3.7: Manage Trees and Forests to Mitigate and Adapt",
+        "relevant_elements": ["4.2", "1.3"]
+      },
+      {
+        "text": "This could be accomplished by increasing the geographic size of seed collection zones for assisted migration of tree species. The state nursery could partner with universities and private industry to collect seed, grow, and distribute additional species from disparate locations to address plant material condition changes occurring with climate change.",
+        "location": "Part 2, Ch. 3.7: Manage Trees and Forests to Mitigate and Adapt to Global Climate Change",
+        "relevant_elements": ["4.2", "1.3"]
+      },
+      {
+        "text": "Milder winters and longer growing seasons favor the survivability of certain native and invasive pests that damage forests. For example, nearly half a million acres of tamarack forest have been damaged by eastern larch beetle in recent years, as milder winters and longer summer seasons have led to an explosion in the native insect's population.",
+        "location": "Part 1, Ch. 2: Climate Changes in Minnesota",
+        "relevant_elements": ["3.6", "3.7"]
+      },
+      {
+        "text": "While warmer winters and longer summers have likely driven recent increases in insect outbreaks and other forest pathogens, these agents of change are far from unnatural.",
+        "location": "Part 1, Ch. 2: Criterion 3 / Indicator text",
+        "relevant_elements": ["3.6", "3.7"]
+      },
+      {
+        "text": "peatlands are very sensitive to climate change. Predicted warming will aid the decomposition of organic material and thus release large amounts of stored carbon into the atmosphere.",
+        "location": "Part 1, Ch. 2: Total Soil Carbon",
+        "relevant_elements": ["3.5", "1.1"]
+      },
+      {
+        "text": "Coupled with climate change threats of increased storm severity, runoff, flood damages, and drought, the protection and sustainable management of the state's forest lands, are a critical component in ensuring that clean water supplies will continue to be available in the future.",
+        "location": "Part 1, Ch. 3: Identify, Manage, and Reduce Threats to Forest and Ecosystem Health",
+        "relevant_elements": ["3.5"]
+      },
+      {
+        "text": "Minnesota DNR's objective is to minimize environmental stresses amplified by climate change. This includes preserving dispersal corridors linking current and future suitable habitats, retaining high quality, large block forests to maintain ecosystem resilience, and supporting viable fish and wildlife population goals through a network of large, connected conservation lands.",
+        "location": "Part 2, Forest Legacy AON: Threat of Conversion section",
+        "relevant_elements": ["1.4", "4.1", "4.2"]
+      },
+      {
+        "text": "Colonization and unrestrained growth of invasive species causes loss of biodiversity... The most effective strategy against invasive species is preventing introduction, including maintaining high quality plant communities that are healthy, connecting forest lands, and reducing forest edge where some invasive species proliferate to avoid an influx of aggressive, non-native plant and animal species.",
+        "location": "Part 2, Forest Legacy AON: Threat of Conversion section",
+        "relevant_elements": ["3.7", "1.4"]
+      },
+      {
+        "text": "DNR has identified 13 coldwater habitat refuge lakes, lakes that are predicted to withstand the effects of a climate-warmed",
+        "location": "Part 2, Forest Legacy AON: Laurentian FLA / Headwaters FLA public benefits",
+        "relevant_elements": ["1.4", "4.1"]
+      },
+      {
+        "text": "Longer growing seasons, combined with agricultural technology advances, contributes to the expansion of row crops, which can be grown profitably all the way to the Canadian border. Conversion to agriculture at a large scale in the upper Midwest has shown to have large negative impacts on water quality and quantity, timber supply, and wildlife habitat. Climate change is expected to have widespread effects on forest ecosystems in Minnesota.",
+        "location": "Part 2, Forest Legacy AON: Threat of Conversion",
+        "relevant_elements": ["3.5", "3.7", "C1"]
+      },
+      {
+        "text": "The test site is 23 acres of mostly ash trees... The last four species are commonly found in southern Minnesota and may be better adapted to handle a future warmer climate. DNR field staff, along with researchers from the University of Minnesota, will monitor the site to see which species do best.",
+        "location": "Part 2, Ch. 6 Success Stories: DNR Forestry story on climate adaptation forest",
+        "relevant_elements": ["4.2", "4.3", "4.4"]
+      },
+      {
+        "text": "Demand for local, native tree seedlings is expected to increase as climate change impacts Minnesota forest resources. Cognizant of these factors, reforestation projects will continue to be administered on DNR lands to increase stocking volume based on cover type, species diversity, and forest carbon stocks.",
+        "location": "Part 1, Ch. 3 / Part 2, Ch. 3.7",
+        "relevant_elements": ["4.2"]
+      },
+      {
+        "text": "Adaptive forest management has the potential to mitigate impacts of climate change and land use changes on bird communities by conserving forested habitats.",
+        "location": "Part 1, Figure 27 caption",
+        "relevant_elements": ["4.5", "3.3"]
+      },
+      {
+        "text": "Forest Adaptation Resources and Adaptation Workbook; Climate Change Tools and Approaches for Land Managers, 2nd edition. www.forestadaptation.org",
+        "location": "Part 1 and Part 2 References / Acknowledgements",
+        "relevant_elements": ["4.5", "2.1"]
+      },
+      {
+        "text": "Minnesota Interagency Climate Adaptation Team... In 2010, the DNR created the CLIMATE Team (formally CREST), which provides department-wide coordination and guidance on climate change strategies.",
+        "location": "Part 1, Ch. 3: Minnesota Interagency Climate Adaptation Team",
+        "relevant_elements": ["4.5", "3.4"]
+      },
+      {
+        "text": "The Minnesota CLIMATE Team... Their 2017 report 'Adapting to Climate Change in Minnesota' builds upon two previous reports from this team and further describes observed and projected climate impacts, outlines Minnesota state agency activities related to climate adaptation, and provides recommendations for future state action and interagency collaboration.",
+        "location": "Part 1, Table section on ICAT",
+        "relevant_elements": ["4.5"]
+      },
+      {
+        "text": "By working collaboratively through landscape stewardship approaches, the forestry community can more effectively keep forests as working forests, and ensure continued contributions to forest management, clean water, climate change mitigation, and the many other benefits forests provide.",
+        "location": "Part 2, Ch. 4: Implementing State Strategies through Collaborative Partnerships",
+        "relevant_elements": ["3.4", "4.5"]
+      },
+      {
+        "text": "The Cascades constitute a critical pathway for climate connectivity at a continental scale.",
+        "location": "Not present - exclude",
+        "relevant_elements": []
+      },
+      {
+        "text": "Ecological Values Model, based on The Nature Conservancy's Resilient and Connected Landscapes",
+        "location": "Part 1, Figure 93 caption",
+        "relevant_elements": ["2.4", "4.1"]
+      },
+      {
+        "text": "Monitor and adjust the scope of wildfire protection coverage, necessary planning levels, and suppression resources required to support wildfire and all hazard missions. This should include and account for changing fire conditions and risks due to climate change.",
+        "location": "Part 2, Table 3: Strategies for Addressing the Issue 'Restore Fire-adapted Lands'",
+        "relevant_elements": ["4.3", "3.5"]
+      },
+      {
+        "text": "Provide forest and forest industry-related information and education to the public and other key audiences. Include information on climate change including the difference between biogenic and fossil carbon, climate change risks, and adaptation.",
+        "location": "Part 2, Table 2: Strategies for Actively and Sustainably Manage Forests",
+        "relevant_elements": ["4.5"]
+      },
+      {
+        "text": "Since 2000, public and private funding sources have provided more than $92 million to protect more than 360,000 acres of forest with permanent easements and fee title through these two programs. Over 60 percent of the funding came from state funds, 20 percent from private donations, and 18 percent from federal funds.",
+        "location": "Part 1, Ch. 3: Identify and Conserve High Priority Forest Ecosystems / Part 2, Ch. 3.1",
+        "relevant_elements": ["3.4", "4.1"]
+      },
+      {
+        "text": "By working together through the landscape planning and coordination processes, the six regional committees have helped partners secure over $30 million in federal, state and private funding.",
+        "location": "Part 1, Ch. 2: Minnesota Forest Resource Council (MFRC) Landscape Level Planning",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "Oak wilt is a non-native, fatal oak disease that has been slowly spreading northward in Minnesota since about 1950.",
+        "location": "Part 1, Ch. 2: Criterion 3 Insects section",
+        "relevant_elements": ["3.7"]
+      },
+      {
+        "text": "The state nursery is investigating the use of tree species, (not currently produced by the nursery), that may be suitable for Minnesota under on-going changing climate conditions and expanding genetic diversity. This could be accomplished by increasing the geographic size of seed collection zones for assisted migration of tree species.",
+        "location": "Part 2, Ch. 3.7: Manage Trees and Forests to Mitigate and Adapt",
+        "relevant_elements": ["4.2", "1.3"]
+      },
+      {
+        "text": "DNR operates a state forest nursery with collected native seeds to guarantee genetic diversity and produces over 6 million native tree seedlings annually for use in statewide public and private forest activities.",
+        "location": "Part 1, Ch. 3 / Part 2, Ch. 3.7",
+        "relevant_elements": ["1.3", "4.2"]
+      },
+      {
+        "text": "These detailed age-class distributions are helpful in planning for future supplies of each forest type in conditions appropriate for wildlife habitat, timber, recreational opportunities, ecological function, hydrologic regulation, and resiliency and response to climate change.",
+        "location": "Part 1, Figure 20 caption",
+        "relevant_elements": ["1.1", "4.5"]
+      },
+      {
+        "text": "In contrast, hardwood forests may contract in southern Minnesota, if drought becomes a major driver, making it increasingly difficult to manage for these species as they migrate to savannah conditions.",
+        "location": "Part 1 / Part 2: Climate adaptation section",
+        "relevant_elements": ["C2", "3.5", "1.1"]
+      },
+      {
+        "text": "Northern Institute for Applied Climate Science... Forest Adaptation Resources and Adaptation Workbook; Climate Change Tools and Approaches for Land Managers",
+        "location": "Part 1 Letter from State Forester; References",
+        "relevant_elements": ["4.5", "2.1"]
+      }
+    ]
+  },
+  "concepts": {
+    "climate_vulnerability": {
+      "evaluable": true,
+      "score": 3,
+      "evidence": [
+        {
+          "text": "The 2015 SWAP updates the previous plan by addressing vulnerability assessments for habitat and species in relation to population changes and climate change predictions for the state.",
+          "location": "Part 1, Table 5: Indicator 4 / Status of Forest and Woodland Communities",
+          "sub_component": "exposure",
+          "citations": []
+        },
+        {
+          "text": "Figure 42 below is an example of climate change projections for individual northern tree species in Minnesota. The state has three tree species zones that are all being affected by climate change. Information about all three is available through the Forest Adaptation report, which describes the vulnerability of tree species in the state over the next 100 years.",
+          "location": "Part 1, Ch. 2: Climate Changes in Minnesota",
+          "sub_component": "exposure",
+          "citations": []
+        },
+        {
+          "text": "Suitable habitat for boreal forest species such as black and white spruce and balsam fir may migrate northeastward out of the state to eastern Canada. Increase in tamarack acres infested with casebearer/eastern larch beetles across the state, is already of major concern for forestry interests. Other concerns include hardwood forests expanding to northern Minnesota with more favorable conditions for temperate species.",
+          "location": "Part 1/Part 2: Ch. 3 Issues/Climate adaptation section",
+          "sub_component": "adaptive_capacity",
+          "citations": []
+        }
+      ],
+      "absence_note": "The document references the IPCC-like exposure-sensitivity-adaptive capacity framework explicitly via the SWAP vulnerability assessments, which explicitly uses 'sensitivity, exposure, and the ability to adapt.' The document also applies these concepts to tree species vulnerability over 100-year horizons."
+    },
+    "adaptive_capacity_specificity": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Fragmentation can inhibit the natural migration of many plant and animal species, which is a major concern for climate change adaptation, as there may be a decrease in both biodiversity and genetic diversity of species.",
+          "location": "Part 1, Ch. 2: Age Group",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "DNR operates a state forest nursery with collected native seeds to guarantee genetic diversity and produces over 6 million native tree seedlings annually for use in statewide public and private forest activities.",
+          "location": "Part 2, Ch. 3.7: Manage Trees and Forests to Mitigate and Adapt to Global Climate Change",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "adaptive_capacity_components": {
+      "demography": {
+        "present": false,
+        "evidence": []
+      },
+      "distribution": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "This has ramifications for forests and forest management, as suitable conditions for boreal forest species such as black and white spruce and balsam fir may contract, and those species migrate northeastward out of the state towards Canada. Conversely, opportunities for hardwood species to migrate north may be enhanced with increased plant hardiness zones being recorded in the state.",
+            "location": "Part 1, Ch. 2: Climate Changes in Minnesota",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "movement": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Fragmentation can inhibit the natural migration of many plant and animal species, which is a major concern for climate change adaptation, as there may be a decrease in both biodiversity and genetic diversity of species.",
+            "location": "Part 1, Ch. 2: Age Group",
+            "sub_component": null,
+            "citations": []
+          },
+          {
+            "text": "Minnesota DNR's objective is to minimize environmental stresses amplified by climate change. This includes preserving dispersal corridors linking current and future suitable habitats, retaining high quality, large block forests to maintain ecosystem resilience",
+            "location": "Part 2, Forest Legacy AON: Threat of Conversion section",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "evolutionary_potential": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Fragmentation can inhibit the natural migration of many plant and animal species, which is a major concern for climate change adaptation, as there may be a decrease in both biodiversity and genetic diversity of species.",
+            "location": "Part 1, Ch. 2: Age Group",
+            "sub_component": null,
+            "citations": []
+          },
+          {
+            "text": "DNR operates a state forest nursery with collected native seeds to guarantee genetic diversity and produces over 6 million native tree seedlings annually for use in statewide public and private forest activities.",
+            "location": "Part 2, Ch. 3.7: Manage Trees and Forests to Mitigate and Adapt to Global Climate Change",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecological_dependencies": {
+        "present": false,
+        "evidence": []
+      },
+      "abiotic_niche": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "This has ramifications for forests and forest management, as suitable conditions for boreal forest species such as black and white spruce and balsam fir may contract, and those species migrate northeastward out of the state towards Canada.",
+            "location": "Part 1, Ch. 2: Climate Changes in Minnesota",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "life_history": {
+        "present": false,
+        "evidence": []
+      }
+    },
+    "connectivity": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Minnesota DNR's objective is to minimize environmental stresses amplified by climate change. This includes preserving dispersal corridors linking current and future suitable habitats, retaining high quality, large block forests to maintain ecosystem resilience, and supporting viable fish and wildlife population goals through a network of large, connected conservation lands.",
+          "location": "Part 2, Forest Legacy AON: Threat of Conversion section",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "climate flow (corridors that facilitate population movement for climate adaptation). The results are not meant to represent the definitive locations of important ecological areas, but rather are meant to be a prioritization tool for future field assessments related to forest climate adaptation.",
+          "location": "Part 1, Ch. 4: Ecological Values (description section)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    }
+  },
+  "tools": {
+    "vulnerability_models": {
+      "evaluable": true,
+      "score": 2,
+      "named_tools": ["CCVI", "climate vulnerability assessment"],
+      "evidence": [
+        {
+          "text": "The 2015 SWAP updates the previous plan by addressing vulnerability assessments for habitat and species in relation to population changes and climate change predictions for the state.",
+          "location": "Part 1, Table 5: Indicator 4 / Status of Forest and Woodland Communities",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Contains the Chippewa National Forest with active management and research, including the SPRUCE Project (Spruce and Peatland Responses under Climatic and Environmental Change Experiment) and the Climate Change Vulnerability Assessment",
+          "location": "Part 2, Forest Legacy AON: Headwaters FLA public benefits",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The SWAP vulnerability assessments are applied to focal species/habitats in this plan; the plan discusses the CCVI-type framework implicitly through the SWAP reference. The Forest Adaptation report also covers vulnerability of tree species over 100 years."
+    },
+    "niche_models": {
+      "evaluable": true,
+      "score": 1,
+      "named_tools": ["Climate Change Tree Atlas"],
+      "evidence": [
+        {
+          "text": "Figure 42 below is an example of climate change projections for individual northern tree species in Minnesota. The state has three tree species zones that are all being affected by climate change. Information about all three is available through the Forest Adaptation report, which describes the vulnerability of tree species in the state over the next 100 years.",
+          "location": "Part 1, Ch. 2: Climate Changes in Minnesota",
+          "sub_component": null,
+          "citations": ["NIACS-Forest Adaptation 2014"]
+        }
+      ],
+      "absence_note": "Figure 42 caption cites 'NIACS-Forest Adaptation 2014' which references the Climate Change Tree Atlas and related SDM-type projections. These are referenced externally and used for illustration but not applied as primary analytical tools for the plan's focal management decisions."
+    },
+    "climate_models": {
+      "evaluable": true,
+      "score": 1,
+      "named_tools": ["National Climate Assessment", "DNR Climate Trends tool"],
+      "evidence": [
+        {
+          "text": "Table 7 - Climate changes and observed and projected in Minnesota, based on science summarized in the 2014, 2017, and 2018 National Climate Assessment reports, and from data analyzed by the Minnesota State Climatology Office.",
+          "location": "Part 1, Table 7",
+          "sub_component": null,
+          "citations": ["2014, 2017, and 2018 National Climate Assessment reports"]
+        }
+      ],
+      "absence_note": "The document references NCA reports and uses the DNR Climate Trends tool for historical trend visualization, but does not apply a named GCM, RCP scenario, or downscaled product to its specific management analyses. The 100-year horizon is mentioned in reference to the Forest Adaptation report (external), not a specific GCM run.",
+      "time_horizon_years": [2100],
+      "emission_scenarios": []
+    },
+    "connectivity_models": {
+      "evaluable": true,
+      "score": 2,
+      "named_tools": ["TNC Resilient and Connected Landscapes", "Climate Flow Model"],
+      "evidence": [
+        {
+          "text": "The Ecological Values Model (Figure 93) was prepared by The Nature Conservancy (TNC) using the layers for Resilient and Connected sites (Figure 94), Climate Flow (Figure 95), and areas of confirmed biodiversity curated by the DNR's Ecological and Water Resources Division Biological Survey Program (Figure 96).",
+          "location": "Part 1, Ch. 4: Ecological Values",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "TNC produced an ecological values map by combining layers for resilient sites (sites with large number of connected microclimates and numerous physical environments that have high resilience), areas of confirmed biodiversity (sites recognized for their current biodiversity values), and climate flow (corridors that facilitate population movement for climate adaptation).",
+          "location": "Part 1, Ch. 4: Ecological Values (description section)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The TNC Resilient and Connected Landscapes model output and Climate Flow layer are directly incorporated into the geospatial priority analysis of this plan (Figure 93), informing conservation priority areas. This constitutes application to the plan's focal subject (Minnesota forests)."
+    }
+  },
+  "context": {
+    "management_scale": {
+      "local": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "These plans identify and prioritize private landholdings down to the parcel level, to encourage forest land protection and sustainable forest management, including timber harvesting.",
+            "location": "Part 2, Ch. 4: Protecting Water Resources",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "site": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The test site is 23 acres of mostly ash trees that is easily accessible from Kettle Lake Road. The foresters inventoried the vegetation before harvest and designed a timber sale that would leave behind clumps of hardwood",
+            "location": "Part 2, Ch. 6 Success Stories: DNR Forestry story on climate adaptation forest",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "watershed": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Forest land planning and protection is also needed at the watershed scale to help protect community drinking water supplies.",
+            "location": "Part 1, Ch. 2: Urban and Community Forestry",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "city": {
+        "present": false,
+        "evidence": []
+      },
+      "county": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Most estimates down to a county are typically reliable, in that the error of an estimate is not larger than the estimate itself.",
+            "location": "Part 1, Ch. 2: Forest Conditions and Trends",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "within_state_region": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The MFRC landscape plans cover six major forested regions of the state, including: East Central (EC); Northern (N); North Central (NC); Northeast (NC); Southeast (SE); and West Central (WC) regions.",
+            "location": "Part 1, Ch. 2: Minnesota Forest Resource Council (MFRC) Landscape Level Planning",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "state": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The Minnesota 2020 SFAP primarily serves as a funding plan document for the state's Cooperative Forest Management (CFM) programs",
+            "location": "Part 2, Ch. 1: Introduction",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "multistate": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "projects related to climate change, invasive forest pests, wildfire risk mitigation, sustainable forestry, forested wildlife habitat, and forest-water relationships are cross-boundary issues that will continually require multi-state involvement and monitoring",
+            "location": "Part 1, Ch. 5: Multi-State Priorities",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "national": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "This trend across all forest types and disturbance groups shows an increasing frequency of disturbance.",
+            "location": "Part 1, Ch. 2: Criterion 3",
+            "sub_component": null,
+            "citations": ["Wilson et al. (2019)"]
+          }
+        ]
+      },
+      "transnational": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Suitable habitat for boreal forest species such as black and white spruce and balsam fir may migrate northeastward out of the state to eastern Canada.",
+            "location": "Part 1/Part 2: Climate adaptation section",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "This is an area of concern for future climate-biome successions (R. Toot 2019) not only for Minnesota, but also for the entire Western Great Lakes Region of North America.",
+            "location": "Part 1, Ch. 2: Climate Changes in Minnesota",
+            "sub_component": null,
+            "citations": ["R. Toot 2019"]
+          }
+        ]
+      },
+      "ecoregion": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Analysis of presently and historically forested ecological subsections using the Minnesota DNR Climate Trends tool (Figure 39) identified the following observed changes since 1895",
+            "location": "Part 1, Ch. 2: Climate Changes in Minnesota",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "province": {
+        "present": false,
+        "evidence": []
+      },
+      "section": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "There are seven ECS sections in Minnesota, and each plan covers one section.",
+            "location": "Part 1, Ch. 2: State Forest Resource Management Planning",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "subsection": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Analysis of presently and historically forested ecological subsections using the Minnesota DNR Climate Trends tool",
+            "location": "Part 1, Ch. 2: Climate Changes in Minnesota",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "lake": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "DNR has identified 13 coldwater habitat refuge lakes, lakes that are predicted to withstand the effects of a climate-warmed",
+            "location": "Part 2, Forest Legacy AON: Laurentian FLA public benefits",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "river": {
+        "present": false,
+        "evidence": []
+      },
+      "district": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["Laurentian FLA", "Headwaters FLA", "Central Hardwoods FLA", "Driftless FLA", "Big Woods FLA", "Little Fork River watershed", "Mississippi River headwaters", "MFRC six landscape regions (East Central, Northern, North Central, Northeast, Southeast, West Central)", "Chippewa National Forest", "Superior National Forest", "BWCA"]
+    },
+    "biological_unit_score": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Warming temperatures and increased forest disturbances such as windstorms, flooding, drought, fire, and insect outbreaks are expected to favor the survival of more southerly tree species in the state, and diminish the survival of the state's boreal tree species, such as aspen, birch, and spruce.",
+          "location": "Part 1, Ch. 2: Climate Changes in Minnesota",
+          "sub_component": "species",
+          "citations": []
+        },
+        {
+          "text": "This is an area of concern for future climate-biome successions (R. Toot 2019) not only for Minnesota, but also for the entire Western Great Lakes Region of North America.",
+          "location": "Part 1, Ch. 2: Climate Changes in Minnesota",
+          "sub_component": "ecosystem",
+          "citations": ["R. Toot 2019"]
+        }
+      ],
+      "absence_note": {}
+    },
+    "biological_unit_components": {
+      "species": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "This has ramifications for forests and forest management, as suitable conditions for boreal forest species such as black and white spruce and balsam fir may contract, and those species migrate northeastward out of the state towards Canada.",
+            "location": "Part 1, Ch. 2: Climate Changes in Minnesota",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "population": {
+        "present": false,
+        "evidence": []
+      },
+      "habitat": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The 2015 SWAP updates the previous plan by addressing vulnerability assessments for habitat and species in relation to population changes and climate change predictions for the state.",
+            "location": "Part 1, Table 5: Indicator 4 / Status of Forest and Woodland Communities",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "This is an area of concern for future climate-biome successions (R. Toot 2019) not only for Minnesota, but also for the entire Western Great Lakes Region of North America.",
+            "location": "Part 1, Ch. 2: Climate Changes in Minnesota",
+            "sub_component": null,
+            "citations": ["R. Toot 2019"]
+          }
+        ]
+      },
+      "community": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Warming temperatures and increased forest disturbances such as windstorms, flooding, drought, fire, and insect outbreaks are expected to favor the survival of more southerly tree species in the state, and diminish the survival of the state's boreal tree species",
+            "location": "Part 1, Ch. 2: Climate Changes in Minnesota",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "genotype_phenotype": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["black spruce", "white spruce", "balsam fir", "tamarack", "aspen", "birch", "black ash", "boreal forest", "hardwood forest", "SGCN species", "golden-winged warbler", "Connecticut warbler", "eastern larch beetle", "emerald ash borer"]
+    },
+    "partnerships_and_funding": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Since 2000, public and private funding sources have provided more than $92 million to protect more than 360,000 acres of forest with permanent easements and fee title through these two programs. Over 60 percent of the funding came from state funds, 20 percent from private donations, and 18 percent from federal funds.",
+          "location": "Part 1, Ch. 3: Identify and Conserve High Priority Forest Ecosystems / Part 2, Ch. 3.1",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "By working together through the landscape planning and coordination processes, the six regional committees have helped partners secure over $30 million in federal, state and private funding.",
+          "location": "Part 1, Ch. 2: Minnesota Forest Resource Council (MFRC) Landscape Level Planning",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "In 2019, the state of Minnesota and the US Forest Service developed an agreement for Shared Stewardship that supports the national vision of actively and sustainably managing forests through a landscape-scale approach that crosses all ownership boundaries",
+          "location": "Part 2, Ch. 3: Actively and Sustainably Manage Forests",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_threat_habitat_degradation": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Warming temperatures and increased forest disturbances such as windstorms, flooding, drought, fire, and insect outbreaks are expected to favor the survival of more southerly tree species in the state, and diminish the survival of the state's boreal tree species, such as aspen, birch, and spruce.",
+          "location": "Part 1, Ch. 2: Climate Changes in Minnesota",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "peatlands are very sensitive to climate change. Predicted warming will aid the decomposition of organic material and thus release large amounts of stored carbon into the atmosphere.",
+          "location": "Part 1, Ch. 2: Total Soil Carbon",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_threat_species_vital_rates": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Milder winters and longer growing seasons favor the survivability of certain native and invasive pests that damage forests. For example, nearly half a million acres of tamarack forest have been damaged by eastern larch beetle in recent years, as milder winters and longer summer seasons have led to an explosion in the native insect's population.",
+          "location": "Part 1, Ch. 2: Climate Changes in Minnesota",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The tamarack mortality from eastern larch beetle is explicitly linked to milder winters — this is a direct climate-event to vital-rate (mortality/damage) pathway. The document also notes EAB survivability increasing with warming winters."
+    },
+    "climate_threat_biotic_stressors": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Conversely, opportunities for hardwood species to migrate north may be enhanced with increased plant hardiness zones being recorded in the state. Changes in climate are already affecting the state's forest resources and people's interactions with these resources, and these trends are projected to continue.",
+          "location": "Part 1, Ch. 2: Climate Changes in Minnesota",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "This is an area of concern for future climate-biome successions (R. Toot 2019) not only for Minnesota, but also for the entire Western Great Lakes Region of North America.",
+          "location": "Part 1, Ch. 2: Climate Changes in Minnesota",
+          "sub_component": null,
+          "citations": ["R. Toot 2019"]
+        }
+      ],
+      "absence_note": "The document discusses climate-driven community composition change (boreal species contracting, hardwood species expanding northward) which qualifies as climate-driven succession/community composition change."
+    }
+  },
+  "actions": {
+    "priority_habitat_identification": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "The Ecological Values Model (Figure 93) was prepared by The Nature Conservancy (TNC) using the layers for Resilient and Connected sites (Figure 94), Climate Flow (Figure 95), and areas of confirmed biodiversity curated by the DNR's Ecological and Water Resources Division Biological Survey Program (Figure 96).",
+          "location": "Part 1, Ch. 4: Ecological Values",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Minnesota DNR's objective is to minimize environmental stresses amplified by climate change. This includes preserving dispersal corridors linking current and future suitable habitats, retaining high quality, large block forests to maintain ecosystem resilience, and supporting viable fish and wildlife population goals through a network of large, connected conservation lands.",
+          "location": "Part 2, Forest Legacy AON: Threat of Conversion section",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "DNR has identified 13 coldwater habitat refuge lakes, lakes that are predicted to withstand the effects of a climate-warmed",
+          "location": "Part 2, Forest Legacy AON: Laurentian FLA / Headwaters FLA public benefits",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "targeted_range_shift_actions": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "This could be accomplished by increasing the geographic size of seed collection zones for assisted migration of tree species. The state nursery could partner with universities and private industry to collect seed, grow, and distribute additional species from disparate locations to address plant material condition changes occurring with climate change.",
+          "location": "Part 2, Ch. 3.7: Manage Trees and Forests to Mitigate and Adapt to Global Climate Change",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Minnesota DNR's objective is to minimize environmental stresses amplified by climate change. This includes preserving dispersal corridors linking current and future suitable habitats, retaining high quality, large block forests to maintain ecosystem resilience",
+          "location": "Part 2, Forest Legacy AON: Threat of Conversion section",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "time_bound_and_monitoring": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "DNR field staff, along with researchers from the University of Minnesota, will monitor the site to see which species do best. As the seedlings grow, researchers will continue to monitor and collect data. After 10 years, foresters should have enough data to analyze results and see whether diversifying species is the way to go.",
+          "location": "Part 2, Ch. 6 Success Stories: DNR Forestry story on climate adaptation forest",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The plan includes some time-bound elements (10-year planning cycles, milestones in the PFM framework) and the demo forest has a 10-year monitoring commitment, but the broader climate adaptation actions lack explicit deadlines paired with effectiveness monitoring. The plan's strategies are described as 'intentionally broad, long term, and flexible.' Score 1 for the time-bound element at the action level (the demo forest study), but score 2 requires both clear deadlines AND effectiveness monitoring at the action level across the plan."
+    },
+    "evidence_of_efficacy": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Research suggests that diversifying tree species may be the best way to mitigate environmental damage caused by EAB. To get ahead of the problem, a group of DNR foresters led by Wesley Habedank is trying something new in Cromwell",
+          "location": "Part 2, Ch. 6 Success Stories: DNR Forestry story on climate adaptation forest",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "The last four species are commonly found in southern Minnesota and may be better adapted to handle a future warmer climate. DNR field staff, along with researchers from the University of Minnesota, will monitor the site to see which species do best.",
+          "location": "Part 2, Ch. 6 Success Stories: DNR Forestry story on climate adaptation forest",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The evidence of efficacy is limited — the plan references the research basis for tree species diversification (general ecological principles) and one ongoing demonstration project that has not yet produced results. External references to Forest Adaptation Resources Workbook and NIACS provide some scientific grounding. Score 2 (limited evidence) is appropriate: studies test underlying principles but the demonstration project is not yet evaluated.",
+      "projects": ["DNR Demonstration Forest for Climate Change Adaptation (Cromwell, MN): A 23-acre test site planted with 12 native tree species including southern MN species that may be better adapted to future warmer conditions. The project is ongoing with 10-year monitoring planned; it provides preliminary support for species diversification as a climate adaptation strategy but is not yet completed.", "SPRUCE Project (Spruce and Peatland Responses under Climatic and Environmental Change Experiment) at Chippewa National Forest: Referenced as active research informing understanding of boreal forest responses to climate change, providing scientific grounding for management decisions about peatland and spruce forest management under projected warming."]
+    },
+    "adaptation_planning_frameworks": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Forest Adaptation Resources and Adaptation Workbook; Climate Change Tools and Approaches for Land Managers, 2nd edition. www.forestadaptation.org",
+          "location": "Part 1 References; Part 2 References",
+          "sub_component": null,
+          "citations": ["USDA Forest Service, NIACS, Northern Forests Climate Hub. Various authors. 2019. Forest Adaptation Resources and Adaptation Workbook; Climate Change Tools and Approaches for Land Managers, 2nd edition."]
+        },
+        {
+          "text": "In 2010, the DNR created the CLIMATE Team (formally CREST), which provides department-wide coordination and guidance on climate change strategies.",
+          "location": "Part 1, Ch. 3: Minnesota Interagency Climate Adaptation Team",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "S. Handler et al. 2017. Climate Change Field Guide for Northern Minnesota Forests: Site-level considerations and adaptation.",
+          "location": "Part 1 and Part 2 References",
+          "sub_component": null,
+          "citations": ["S. Handler et al. 2017. Climate Change Field Guide for Northern Minnesota Forests: Site-level considerations and adaptation. St. Paul, Minnesota University of Minnesota College of Food, Agricultural, and Natural Resource Sciences."]
+        }
+      ],
+      "absence_note": "The plan references specific climate adaptation planning tools: the NIACS Forest Adaptation Resources Workbook (a named framework for land managers), the Climate Change Field Guide for Northern Minnesota Forests (site-level adaptation), and the DNR's CLIMATE Team (an institutional climate adaptation coordination body). These constitute specific adaptation planning frameworks referenced and partially applied. Score 2 is appropriate."
+    }
+  },
+  "coding_meta": {
+    "coder": "llm:claude-sonnet-4-6",
+    "model": "claude-sonnet-4-6",
+    "provider": "claude",
+    "codebook_version": "0.4",
+    "ingest": "text",
+    "design": "single",
+    "temperature": null,
+    "thinking": null,
+    "thinking_effort": null,
+    "coded_at": "2026-07-07T00:31:31Z",
+    "notes": {}
+  }
+}

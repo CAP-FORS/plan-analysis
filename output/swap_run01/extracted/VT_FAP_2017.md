@@ -1,0 +1,2723 @@
+## TABLE OF CONTENTS
+
+• Non-native invasive plants threaten to impact native regeneration, particularly in uninvaded forests.
+Strategies that track the spread of these species, support partnerships, and encourage efforts across property lines will promote integrated management.
+• Climate change threatens our native tree species and the many valuable good and services they provide.
+Implementation of strategies outlined in our 2015 document "Creating and Maintaining Resilient Forests in Vermont-Adapting to Climate Change" will be key to maintaining forests that can adapt to changing environmental conditions and stressors.
+• Urban canopy enhancements can provide a myriad of social, economic, and ecological benefits. Our staff continue to focus on communities that have less than average urban tree canopy, higher than average population, and high impervious surface area.
+• The economic viability of Vermont's working lands is challenged by changing land use, development pressure, and macroeconomic trends in the forest product economy. Maintaining focus and investment in Vermont's working lands will grow forest businesses, improve our economy, and keep forests as forests.
+• In Vermont, forest-based recreation has outpaced forest products in economic value. The demands on public land stretch staffing and raise resource concerns. Private lands represent an opportunity to provide forest-based recreation but will require support and guidance.
+• Intergenerational transfer of forest land is a critical issue as Vermont's population is aging. Working with partners, providing estate planning is a key strategy.
+• Organizational capacity and workforce development continues to be a priority within the Forestry Division.
+Staff reductions and the loss of institutional memory due to retirements make it more difficult for remaining staff to perform their jobs. Better onboarding and mentoring of new employees, developing employee guides and written procedures, and working on better performance measures will address these concerns.
+
+## INTRODUCTION
+
+Vermont is the "Green Mountain State" and is defined by its forests. We have much to be thankful for when it comes to Vermont's forest -they provide a multitude of benefits. Decisions we make today will influence our forests for years to come. This forested ecosystem forms the basis for biological diversity, natural communities, wildlife habitats, scenic landscapes, and recreational opportunities. As a natural resource, forests provide an economic base for employment, tourism, and recreation and support a diverse forest products industry. Livable communities and our quality of life depend on healthy, sustainable forests. Sustainable forests begin with healthy forests, which have the capacity for self-renewal of their ecological productivity, diversity, complexity, and resiliency. A healthy forest can meet the needs of present generations without compromising the needs of future generations.
+In 2010, the Vermont Division of Forests completed a comprehensive forest resource plan in response to requirements from the Secretary of the US Department of Agriculture as authorized in the 2008 Cooperative Forestry Assistance Act. "The 2010 Vermont Forest Resources Plan-State Assessment and Resource Strategies" (2010 Plan) responded to the call for a reexamination and assessment of the nation's forests, identification of priority areas for federal assistance, and a description of the resources necessary to address statewide and regional strategies. The 2010 Plan addressed the three national priorities identified in the 2008 Cooperative Forestry Assistance Act:
+• CONSERVE and manage working forest landscapes for multiple uses and value,
+• PROTECT forests from threats, and
+• ENHANCE the public benefits from trees and forests-all in support of the sustainability of our nation's forests.
+The State Forest Action Plans are required to be updated at least every ten years. Recognizing that change is constant, and in response to new information and topics including climate change, flood resiliency, landscape-level habitat connectivity, updated management guidelines, new initiatives, and the application of new spatial assessment tools, the Division decided in 2015 to update its 2010 Plan. The new report is now called the 2017 Vermont Forest Action Plan (2017 Plan).
+Because forest fragmentation 1 continues to be a major natural resource concern, the update incorporates an emphasis on landscape-scale strategies and habitat conservation. By maintaining and enhancing healthy, connected landscapes we maintain forest and habitat integrity, improve climate change resiliency, and reduce the potential impacts of diseases and non-native invasive species.
+
+## PLAN COMPONENTS
+
+The 2010 Plan remains the foundation of our efforts to sustainably manage for healthy forests, and the 2017 Plan builds upon this base. Much of the focus, organization, and direction of the 2010 Plan did not need to change. The 2017 Plan reflects new assessment information obtained since 2010 and provides an opportunity to re-engage our staff and partners in identifying new issues and opportunities. The 2017 Plan primarily makes changes to three sections of the previous plan: assessment, issues, and priority areas. These are included sequentially under each Desired Future Condition.
+DESIRED FUTURE CONDITIONS are the heart of the 2017 Plan, derived in part from the Montreal Process Criterion and Indicators 2 , developed through global consensus in 1995. Desired Future Conditions describe the conditions required if the long-term vision of Vermont's forest is to be realized. These five statements are the basis for longterm goals and detail the strategies and specific actions needed to achieve those goals. The Desired Future Conditions should be viewed as a whole; they are not mutually exclusive, nor are they intended to apply to every landowner or acre of land in the state.
+The five Desired Future Conditions remain:
+• DESIRED FUTURE CONDITION. BIOLOGICAL DIVERSITY: Conserve biological diversity across all landscapes.
+• DESIRED FUTURE CONDITION. FOREST HEALTH AND ECOLOGICAL PRODUCTIVITY: Maintain and enhance forest ecosystem health and ecological productivity.
+• DESIRED FUTURE CONDITION. FOREST PRODUCTS AND ECOSYSTEM SERVICES: Maintain and enhance forest contribution to ecosystem services.
+• DESIRED FUTURE CONDITION. LAND ETHIC: Maintain and enhance an ethic of respect for the land, sustainable use, and exemplary management.
+• DESIRED FUTURE CONDITION. LEGAL, INSTITUTIONAL, AND ECONOMIC FRAMEWORK: Vermont has a legal, institutional, and economic framework in place for forest conservation and sustainability. 
+2
+ The Montréal Process Criteria and Indicators are a tool for data collection and reporting for the Conservation and Sustainable Management of Temperate and Boreal Forests.
+THE ASSESSMENT section contains current information and data. Organized to align with the Desired Future Conditions, the primary objective of the Assessment is to evaluate current forest conditions and identify priority forest areas and forest-related issues on which to focus state and federal resources. Assessments are one of the most dynamic parts of any long-range plan; much of the spatial and other data that we relied on in the 2010 Plan has been updated, or new sources have become available. We are presenting data in two different formats: this STRATEGIES detail how we propose to implement the vision of Vermont's forests. In the 2017 Plan, we have reexamined and rewritten the strategies from the 2010 Plan, discontinuing some and adding others. Strategies continue to focus around the five Desired Future Conditions. In Appendix A, we have compiled a list of Strategies in a matrix to provide a quick overview of how the strategies relate to and support priority landscapes and focus areas as well as the national priorities. MULTISTATE PRIORITY LANDSCAPES AND ISSUES are where we can share resources to address regional threats and opportunities.
+THE FOREST LEGACY PROGRAM continues to support federal and state partnerships in land conservation and has been a cornerstone of our efforts to conserve biological diversity and protect forests from fragmentation and is an important part of our 2017 Plan as we move forward.
+THE NATIONAL PRIORITIES SECTION, found in Appendix B, contains a new approach that highlights how we move from strategy to action. Forest action plans (FAP) collectively represent a strategic plan for the nation's forests that can direct limited resources where they are most needed. Through FAPs, state forestry agencies can demonstrate how federal investments can leverage other resources and produce measurable outcomes that address national priorities, as outlined in the Cooperative Forestry Assistance Act. The National Priorities section tells how Vermont is using federal funds to carry out the three national priorities in the Cooperative Forestry Assistance Act. We have selected several programs and projects in each national priority category that demonstrate how federal investments have resulted in successful, measurable outcomes. STORY MAPS use geography as a means of organizing and presenting information. Through a geographic context, they tell the story of the assessment of current conditions, identify priority landscapes and focus areas, and show successes and challenges in carrying out our strategies. Story Maps also combine maps with other rich contenttext, photos, and graphs-so that user experiences are visual, interactive, and intuitive. We have collaborated with
+• SUSTAINABLE FORESTRY: The management of forests that maintain their health, productivity, diversity, and overall integrity in the long-run, in the context of human activity and use.
+• SUSTAINABLE USE: The use of forests to meet the needs of present generations without compromising the needs of future generations.
+It is important to note that the use of the term "forest" is meant to reflect a forest continuum, from urban street trees and remnant forests in our cities and towns to woodlots and rural forest blocks in our remote landscapes. Vermont's forests are a mosaic-all have value and provide important ecological services.
+
+## ALIGNING WITH OTHER PLANNING EFFORTS
+
+In June of 2013, the USDA Forest Service-Northeastern Area State and Private Forestry (NA SP&F) released their Strategic Plan for Fiscal years 2013-2018. The 2017 Plan intends to support states in carrying out their Forest Action Plans. Common themes across the states were incorporated into NA SP&F's plan. These themes can be found in the 2017 Plan and include:
+• Keeping forests as forests;
+• Forest ecosystem health and productivity;
+• Urban and community forest health and sustainability;
+• Water, biodiversity, recreation, and other ecosystem services;
+• Forest products industry and markets;
+• Sustainable forest management across all ownerships;
+• Climate change;
+• Wildfire threats to forests, public safety, and property;
+• State and private capacity for forestry; and
+• Awareness of and support for forests.
+The Vermont Fish & Wildlife Department (VFW) revised the Vermont Wildlife Action Plan in 2015 as required by Congress. VFW is one of our closely allied state departments in the ANR and is the other major state landowner of forests in Vermont. The Division and VFW jointly manage forest land and resources across the state. The 2017 Plan is closely tied to the 2015 Vermont Wildlife Action Plan and staff from both departments provided input into both plans. Many of the strategies and assessments in this plan are linked to, or are built on, similar sections in the 2015 Vermont Wildlife Action Plan.
+The Vermont State Comprehensive Outdoor Recreation Plan (SCORP) is rewritten every five years in order to maintain eligibility to receive funding for municipal and state recreation and conservation projects from the Federal Land and Water Conservation Fund. Highlights of the most recent 2014-2018 SCORP, including outdoor recreation supply, access and use changes, land acquisition for public recreation, and investment in flood resilient recreation facilities are incorporated into the 2017 Plan.
+The USFS Green Mountain and Finger Lakes National Forest's (GMNF) Land and Resource Management Plan (Forest Plan), written in 2006, has been updated with several amendments and administrative changes. The GMNF planning staff and the Forest Supervisor's Office provided input to align our mutual goals during the drafting of this 2017 Plan.
+Roundtable all provided opportunities for coordination with, and direct ties to, the USFWS plans for the Missisquoi Refuge plan and Silvio O. Conte refuge draft 2016 Comprehensive Conservation Plan (CCP). In addition, FPR has worked as a partner with USFWS on the Refuge and has been an active participant in the development of the CCP.
+• US DEPARTMENT OF DEFENSE: Land managers at Vermont Guard Camp Johnson and Ethan Allen Firing Range were provided a draft for comment. 
+
+## All three
+
+Chart 2: Relationship between Montréal Process Criteria (adopted by NAASF and Northeastern Area S&PF), Vermont desired future conditions, and national priorities in the Cooperative Forestry Assistance Act (CFAA).
+
+## DESIRED FUTURE CONDITION: CONSERVE BIOLOGICAL DIVERSITY
+
+Conserve native biological diversity across all landscapes OVERVIEW Biological diversity encompasses the staggering "complexity of all life at all its levels of organization, from genetic variability within species, to species interactions, to the organization of species in larger landscape units." 
+3
+ Biodiversity is critical for the sustainability of Vermont's forests because it enables ecosystems to respond to external influences, to recover from disturbances, and to support important ecological processes. All components of a given ecosystem are tied together in an intricate web, and alterations can have dramatic impacts on the entire system.
+Connections between forest communities are essential to fundamental ecological processes and the future of biological diversity associated with forests. The breaking up of habitats into smaller, non-contiguous patches through land conversion can render critical habitats inaccessible, isolating populations and degrading remaining habitat patches through edge effects that favor edge-tolerant species, as well as invasive exotic species that can outcompete native and rare species. The result of habitat fragmentation is often increased predation, increased mortality, reduced mobility of forest plant and wildlife species as well as changes in habitat micro-climates.
+It is critical that Vermont's forests contain healthy and sustainable populations of native plants and animals. The primary objective of the conservation of biological diversity is the survival of species and their genetic variability. By conserving biodiversity, species that make up forests should have the ability to function, reproduce, and remain productive. Some of the measures of successful conservation of biodiversity are the proportion of forested land in Vermont, the size and integrity of forest blocks, and the variety and health of tree species within a forest. We use spatial information as a tool to view the location, ranking, and value of forest ecosystems across the landscape to assist with strategic planning. We also acknowledge the need for more research to determine long-term impacts of acceptable management practices on biodiversity in maintaining a balance between ecological, social, and economic values and benefits. ASSESSMENT ASSESSMENT: ECOLOGICAL MAPPING Various levels of ecological mapping have been developed to help identify areas with similar features. These maps are valuable planning tools to assist in managing Vermont's landscape.
+
+## VERMONT CONSERVATION DESIGN
+
+In 2014-2015, the VFW and partners including Vermont Land Trust, the Division, The Nature Conservancy, and the Northwoods Stewardship Center produced 'Vermont Conservation Design: Maintaining and Enhancing an Ecologically Functional Landscape. 
+4
+ ' This report identifies coarse-filter conservation targets for landscape-scale features, including forest blocks, riparian areas, wildlife and landscape connectivity, and physical landscape diversity that are necessary to effectively conserve many finer scale conservation elements in the face of climate change, forest fragmentation, and habitat loss.
+
+## BIOPHYSICAL REGIONS
+
+Biophysical regions are large-scale ecological areas of similar climate, geology, vegetation, and human history, generally in units no smaller than 200,000 acres. Climate, geology, topography, hydrology, and land use history combine to create eight biophysical regions that have been identified in Vermont, five of which extend into neighboring states and the province of Quebec. The biophysical regions are:
+• NORTHEAST HIGHLANDS: Granite bedrock dominates this cool region, which is characterized by extensive wetlands, remote mountains, and lakes and ponds. Spruce and fir dominate the lowlands as well as the high elevations, whereas northern hardwoods cloak the mid-elevations. Forty-three percent of this region is conserved, the highest percentage of any of Vermont's biophysical regions.
+• NORTHERN VERMONT PIEDMONT: Calcium-rich soils combine with a cool climate to support mixed forests and northern white cedar swamps, fens, and other interesting natural communities in this region.
+The uplands have fine agricultural soils, but a short growing season. Eight percent of the area is conserved.
+• SOUTHERN VERMONT PIEDMONT: Calcium-rich soils and rolling hills make this a good place for agriculture. The climate is average for Vermont, except in the extreme southeast where it is quite warm.
+Northern hardwoods and red oak are the predominate vegetation. Seven percent of the region is conserved.
+• SOUTHERN GREEN MOUNTAINS: A broad plateau is dotted with a few dominant peaks and several ski areas. The climate is cold and rainfall is relatively high. Northern hardwoods, spruce, and fir dominate, and there are several small lakes and ponds. Thirty-three percent of this region is conserved.
+• NORTHERN GREEN MOUNTAINS: This area has a cool climate and high elevations and is mostly forested.
+Northern hardwoods dominate the side slopes, whereas high elevations have spruce and fir as well as alpine meadow habitat. Twenty-six percent of the region is conserved.
+• CHAMPLAIN HILLS: This region is transitional between the Champlain Valley and the Northern Green Mountains. Northern hardwood forests dominate on the low hills, but oak-pine forests extend up the major river valleys where there are warmer conditions.
+• CHAMPLAIN VALLEY: This region of Vermont has a warm climate and abundant fertile farmland. The Champlain Valley contains both northern hardwood forest and various species of oaks and hickory. It has some of the state's most significant natural diversity but also includes Vermont's most densely populated areas. Nine percent of the region is conserved.
+• TACONIC MOUNTAINS: The slate belt of Vermont and New York is found in this region. The Taconics are dramatic wooded hills dominated by sugar maple, beech, and yellow birch forests. Found on the lower elevation knolls are dry oak and hickory forests, while spruce and fir occur at the highest elevations. Ten percent of the region is conserved.
+• VERMONT VALLEY: The Marble Valley has marble and limestone with glacial deposits on the valley walls, abundant springs, and wetlands. About 10 percent of the region is conserved.
+
+## NATURAL COMMUNITIES
+
+Natural communities are mapped at a scale ranging from less than an acre in size (vernal pool) to over a thousand acres (northern hardwood matrix forest). In 2000, Vermont's natural communities were described in the publication of Wetland, Woodland, Wildland -A Guide to the Natural Communities of Vermont. Natural communities are ranked as to their scarcity and sensitivity, and this information is valuable in determining Vermont's priority landscapes.
+Natural communities are mapped on public land as part of the long-range management planning process. Significant natural communities are eligible for enrollment in Vermont's Use Value Appraisal (UVA) program implementing management that protects their condition and status.
+
+## VERNAL POOLS
+
+Vernal pools are one of the most unique habitats in Vermont and are a critical element of the state's native biological diversity. These temporary water bodies form during winter rains or when snow melts, and occasionally when groundwater fills a depression in the ground. Species that use and depend on vernal pools for reproduction or other functions, mating and laying eggs include salamanders, frogs and toads, turtles, clams, seed and fairy shrimp, water fleas, snails, fingernail clams, leeches and a wide variety of aquatic insects. For these species vernal pools are essential breeding habitat. No one knows how many vernal pools exist, or have been eliminated in Vermont.
+
+## ASSESSMENT: VERMONT'S FORESTED LANDSCAPE
+
+At 74% forested, Vermont is the fourth most forested state in the United States. 
+5
+ The percentage of forest cover increases from west to east, mostly due to the belt of agricultural and developed land in the Champlain Valley.
+Forests had covered Vermont well before it was a state, though many changes in the nature and extent of our forests have occurred over the long course of Vermont's history, primarily a result of human use, particularly agriculture. Vermont was heavy to agriculture in the early to mid-1900's, but as farms were abandoned, the percentage of forests increased considerably. Now forest cover in Vermont has leveled off and is beginning to decrease slightly.
+Chart 3: Forest Land and Timberland Area. Forest land currently has tree cover or used to have tree cover and is expected to see that cover restored and Timberland is forest land that is producing or is capable of producing crops of industrial wood and not withdrawn from timber utilization by statute or administrative regulation.
+In 2010, there were 4,580,000 acres of forest land, and in 2015 there were 4,511,000 acres, a 1.5% decrease 6 . Of this forest land, 4.3 million acres, or 95% is considered timberland, productive forest land that is available for harvest (Chart 3). It should be noted that timberland acreage could be unavailable for actual timber harvesting due to landowner objectives, topographical constraints, and accessibility. Due to current inventory methodology, resulting data also fails to capture all the urban forest resources that do not meet stocking levels required to be considered part of the forest, but these street, park, and neighborhood trees, riparian corridors, and small forest patches contribute considerably to the ecological, social, and economic value of Vermont's forests. Statewide, urban land in Vermont covers 169,000 acres and has an estimated 11.9 million trees and a tree canopy cover of 36% 7 . As of 2016, Vermont is participating in a new federal initiative to add urban areas to the Forest Inventory and Analysis (FIA).
+Vermont lies within a natural transition zone where northern and southern forests converge. Much of the state's forest land is covered by northern hardwood forests -maple/beech/ birch (Chart 4). At higher elevations and northern latitudes, softwood forests -spruce/fir -dominate; these are ecologically important, but cover a relatively 
+6
+ Forest land is defined as currently has tree cover or used to have tree cover and is expected to see that cover restored USDA Forest Service Forest 
+Inventory and Analysis, Northern Research Station. 2015, www.fia.fs.fed.us. 7
+ Nowak, D. J. and Greenfield, E. J. 2008. Urban and Community Forests of New England. s.l. : USDA Forest Service. 0 500,000 1,000,000 1,500,000 2,000,000 2,500,000 3,000,000 3,500,000 4,000,000 4,500,000 5,000,000 small area (Chart 5). The second most abundant forest type are the mixed hardwood-softwood forests that occupy the transition zones between the two types as well as abandoned farmland. Other significant types include forested wetlands, which can be either hardwood or softwood and are scattered throughout the state, white pine forests at 10%, small amounts of oak/hickory forests found in the Champlain Valley to the west and the Connecticut River, and aspen/birch forests on abandoned farmland primarily at the lower elevations. 
+
+## FOREST INVENTORY AND ANALYSIS
+
+The USDA Forest Service's Forest Inventory and Analysis (FIA) program of the Northern Research Station conducts inventories and provides and overview of Vermont's forest resources. Since 1999, FIA has employed staff to conduct annualized inventories in a portion of Vermont. The FIA program is the only source of data collected from a permanent network of ground plots nationwide that allows comparisons to be made between states and regions.
+FIA highlights 6 :
+• Vermont has over 4.5 million acres of forest land. Although Vermont's area of forest land has been relatively stable since the late 1990s, there has been a gradual decline in forest area since 2010 that has resulted in a 1.5 percent decrease.
+• From 2010 to 2015 there has been a net 69,000-acre loss due to development. Although this is relatively stable and within the margin of sampling error, Vermont's forest land base is currently trending toward an incremental decrease.
+• Since 2010, the volume and biomass of trees have risen slightly.
+• Timber harvesting volume is declining although the rate of decline has slowed; it is down by almost 25% since 2007, but only 4% since 2010. • There is more growth than removal. The current level of removal is sustainable, barring any significant increase in tree mortality.
+• Private landowners own 80% of Vermont's forest land.
+• Tree crowns are healthy across Vermont.
+• Invasive plants continue to spread and appear to be effecting regeneration of important tree species.
+More information on Vermont's FIA can be found at: fpr.vermont.gov/forest/forest_business/forest_statistics/fia ASSESSMENT: LAND USE TRENDS The ability to maintain biological diversity is closely related to land use trends, which are influenced by population, housing density, demographics, transportation, and development. Though the state is still heavily forested, land conversion through development is putting pressure on Vermont's forests. Forests are intermixed with developments and are impacted by other factors such as recreation, invasive plants, and other local human effects.
+Additionally, conversion, fragmentation, and parcelization of forests affect forest health, sustainability, management opportunities, and a myriad of other characteristics.
+Forest fragmentation is the breaking of large, contiguous forested areas into smaller pieces, typically by major roads, agriculture, subdivisions, or other human development. It occurs incrementally, beginning with cleared swaths or pockets of non-forest within an otherwise unbroken expanse of tree cover. Over time, non-forest pockets tend to multiply and expand and eventually the forest is fragmented and reduced to scattered, disconnected forest islands. The remnant forest islands resulting from fragmentation are surrounded by land uses that threaten the health, function, and value of those forest islands for both animal and plant habitats, and human use. As forest fragments become ever smaller, practicing forestry can become operationally impractical, economically nonviable, and culturally unacceptable. In turn, we lose the corresponding and significant contributions that forestry makes to our economy and culture.
+Although Vermont remains the fourth least populated and second most rural state nationwide, it is predicted that the population growth rate is likely to increase. By 2030, Vermont is expected to have an additional 85,000 residents compared to 2013
+foot_4
+ . As we anticipate this growth, we know that the urban areas of Vermont will need to continue to plan for accelerated population growth. Many of the rural communities will be confronted with population increases and the pressures associated with ongoing development in preferred forested areas.
+Grand Isle County, or the towns more commonly referred to as the Champlain Islands, experienced rapid population growth during the 1990's. Since then growth has been slow but steady and is expected to continue. Other rural areas may see similar population growth rates. In 2014, building permits were issued for 1,546 household units, an increase of about half a percent to the state's housing supply 
+9
+ . Continued population growth, however incremental, eats away at Vermont's valued forest land base.
+ASSESSMENT: VERMONT'S USE VALUE APPRAISAL PROGRAM Concerned that high property taxes were forcing forest and agricultural landowners to sell to developers, Vermont passed the Use Value Appraisal Law (UVA) in 1978. The program provides a property tax reduction for qualifying landowners engaged in forestry and agriculture. Instead of assessing property taxes based on the potential development value, UVA assesses property taxes based on the current use of those working lands for forestry or agriculture, resulting in a significant tax reduction for enrolled parcels. Forest land may be eligible by enrolling at least 25 contiguous acres, which must be managed according to a forest management plan and map approved by an FPR county forester. FPR administers the forestry component of the program in coordination with Vermont Department of Taxes.
+The UVA program is successful at meeting its stated goals outlined in the law: to encourage and assist the maintenance of Vermont's productive agricultural and forest land; to encourage and assist in their conservation and preservation for future productive use and for the protection of natural ecological systems; to prevent the accelerated conversion of these lands to more intensive use by the pressure of property taxation at values incompatible with the productive capacity of the land; to achieve more equitable taxation for undeveloped lands; to encourage and assist in the preservation and enhancement of Vermont's scenic natural resources; and to enable the citizens of Vermont to plan its orderly growth in the face of increasing development pressures in the interests of the public health, safety, and welfare 
+10
+ .
+In 2016, 14,916 parcels were enrolled in the Forest land or Conservation land category, totaling over 1.8 million forested acres requiring forest management or conservation plans. The program is increasingly making a positive difference for Vermont, its forests, its landowners, and the economy. In the last five years, 41% of enrolled landowners reported harvesting sawtimber, with 57% intending to harvest sawtimber in the next five years
+foot_5
+ . More than 342 thousand cords or volume equivalent was reported to have been harvested from lands enrolled in UVA in 9 U.S. Census Bureau, Building Permits Survey, www.census.gov/construction/bps/stateannual.html, 2014. 10 32 V.S. A. § 3750-3763 2015. More than 50% of Vermont's privately owned forest land is enrolled in this program, and it continues to grow by an average of 300 parcels and 30,000 acres annually.
+There are significant cultural implications to the program as well. The National Woodland Owner Survey
+foot_6
+ report indicates that the primary concern of forest landowners in Vermont is property taxes, which UVA helps to ameliorate. For UVA enrollees, the next highest rated concerns include keeping the land intact for future heirs, protecting water quality, and preparing for unwanted insects and diseases. These concerns are rooted in issues that have broad implications for the capacity of forests to provide public benefits and differ from those of unenrolled landowners.
+The UVA program serves as the basis for Vermont's landscape scale stewardship planning into the future. More than 3.4 billion dollars of annual economic activity and 20,000 jobs can be attributed to Vermont's forests through the forest industry, and forest-based recreation and tourism. With 80% of Vermont forested land privately owned, conservation and wise management of private forest land are critical to the ability of Vermont's forests to provide its many benefits. Vermont county foresters dedicate approximately 60% of their time to administering the UVA program. The program is more than a tax abatement program, it serves as an open door for providing technical assistance to landowners, discussing stewardship values and education on the ecological significance of each parcel.
+No other program in Vermont more efficiently supports these lands and owners, and it is vital to maintain support for state policy that recognizes the importance of Vermont's working landscape.
+
+## ASSESSMENT: LAND CONSERVATION
+
+Since the first official state forest, L.R. Jones State Forest, was acquired in 1909, Vermont's ANR has acquired over 350,000 acres of land in more than 200 towns for recreational and conservation purposes, with parcels ranging in size from several acres to several thousand acres. Since 1991, ANR has acquired conservation easements on approximately 55,000 acres of privately owned forest land and public access easements on nearly 84,000 acres. These lands are managed for a variety of conservation purposes including recreation, wildlife habitat, forest products, and flood water flowage.
+A principal source of funding for state land acquisition is the Vermont Housing and Conservation Trust Fund. Since 1987, total state funding for ANR land acquisition through the trust fund has ranged from $500,000 -$3 million annually (not including the 1999 legislature's special one-time appropriation of $4.5 million for the Champion Lands Project). ANR uses private and federal funds to leverage limited trust fund monies. The Vermont Duck Stamp Fund, a program through the VFW is also a major source of funding for the acquisition and enhancement of wetlands in the state. Two key federal programs also support land acquisition in Vermont: The Land & Water Conservation Fund, which targets outdoor recreation, and the Forest Legacy Program, designed to prevent the conversion of forests to non-forest uses.
+Since privately owned property dominates the Vermont landscape, the use of conservation easements and donations of land, or through other management plans, will continue to play a leading role in conserving Vermont's forested landscape. A network of state, regional, and local land trusts work with landowners to conserve forested properties including family woodlots, riparian areas, sugarbushes, and mountain ridgelines. In 2013, Vermont had a total of 463,373 acres under nongovernmental, nonprofit conservation easements
+foot_7
+ ; a significant amount of this is forested. Easments are an important tool to conserve private lands by keeping them economically viable, and it is a primary strategy to prevent further loss of forest cover. With success comes responsibility, as easement monitoring and stewardship assistance have become an increased burden on personnel time. Cooperation with local conservation organizations will be critical in the coming years to ensure that legal obligations are met; easement monitoring is a priority under this 2017 Plan.
+
+## PRIORITY LANDSCAPES AND FOCUS AREAS PRIORITY LANDSCAPE: FOREST LEGACY PROGRAM
+
+The Forest Legacy Program (FLP) is a federal grant program designed to protect forest lands from conversion to nonforest uses. Most forested land in Vermont is held in private ownership. and these landowners are facing growing financial pressure to convert their land to uses that would remove them from the forested land base.
+FPR works jointly with the USDA Forest Service to administer the FLP. The goals of Vermont's Forest Legacy Program are to protect: large contiguous and productive forest blocks; habitats for wildlife dependent on large contiguous forest blocks; threatened and endangered species habitat; State fragile areas and undeveloped shoreline; significant wetlands; and important recreation corridors.
+FLP requires each state to select areas where the most valuable forest lands face the greatest threats, and complete an Assessment of Need (AON) to focus federal investment on priority landscapes or Forest Legacy Areas. The Forest Legacy Areas identified in the Vermont AON are mapped and represent the areas in which potential Forest Legacy parcels should be considered for conservation, and encompasses 2.6 million acres or about 44% of Vermont's total acreage.
+Vermont has participated in the program since it's commencement with several Forest Legacy projects completed (view completed projects) and several more in progress. One notable achievement of Vermont's program has been the Mt. Holly Wildlife Corridor effort that protected the area between the northerly and southerly units of the Green Mountain National Forest.
+
+## PRIORITY LANDSCAPE: FOREST LAND ELIGIBLE FOR UVA BUT NOT ENROLLED
+
+With 80% of Vermont's forests in private ownership, one of the highest priorities for the Division for this planning period will be to maintain and enhance forest integrity and connectivity on private lands. The UVA Program has been very successful in keeping forests as forests and will remain a focal point and central strategy for our work on private lands. Currently 1,890,232 forested acres are enrolled in UVA and require management plans. Over half of the eligible privately owned forested land in the state is enrolled. However, it is estimated that there are still at least 1 million acres of potentially eligible forest land not enrolled. These lands represent an opportunity to increase landowner engagement, bringing more land under forest stewardship and thereby maintaining forest integrity. Expanding FPR's county foresters' capacity, targeting education and outreach to high priority forest habitats blocks, connecting wildlife corridors, simplifying, and streamlining program requirements and administration, and developing partnerships will help us reach these goals.
+
+## PRIORITY LANDSCAPE: HIGH ECOLOGICALLY FUNCTIONING FORESTS
+
+This priority landscape focuses on existing forest blocks identified through analysis using geographic information systems. We link to a central component of the Vermont Wildlife Action Plan, the 'Vermont Conservation Design:
+Maintaining and Enhancing an Ecologically Functional Landscape
+foot_8
+. ' This report identifies coarse-filter conservation targets for landscape-scale features including forest blocks, riparian areas, wildlife and landscape connectivity, and physical landscape diversity that are necessary to effectively conserve many finer scale conservation elements in the face of climate change, forest fragmentation, and habitat loss.
+To build the Vermont Conservation Design, the VFW conducted an analysis of non-fragmented forest blocks in Vermont
+foot_9
+ . Each of 4,055 forest blocks was analyzed and ranked for biological and physical diversity factors.
+Vermont's largest forest block is 153,000 acres and the average block size statewide is 1,000 acres. Block size is not evenly distributed across the landscape.
+To maintain Vermont's high ecologically functioning forest lands, continued investment in strategic conservation projects is necessary, targeting parcels that pose a conversion risk. High-value parcels include those located within or adjacent to existing blocks of conserved forest land, ranking high in the VFW forest block assessment, meeting USDA Forest Service Forest Legacy goals, and providing necessary climate adaptation and regional connectivity functions. Other priorities include parcels with long-term contracts to provide sustainably harvested wood for instate processing and consumption, which facilitate the intergenerational transfer of forest blocks, and that shift large tracts into alternative ownership models, such as cooperatives where the land is managed as one large tract.
+
+## PRIORITY LANDSCAPE: CONSERVED LANDS
+
+Conserved lands in Vermont, both public and private, provide an essential land base on which to carry out the strategies in this plan. According to Landscope
+foot_10
+ , 31.3% of Vermont is conserved either through public ownership or easement -a success story in the efforts to conserve Vermont's forests. Publicly owned properties, 925,600 acres in 2014, are an important part of the Vermont landscape, as they exist in perpetuity for use and enjoyment by Vermonters and visitors. Vermont's state parks, state forests, wildlife management areas, National Forest, National Wildlife Refuges, municipal lands, and other public lands provide Vermonters with numerous opportunities for recreating, working, enjoying nature, and simply getting away to a peaceful place.
+With this success comes the demand to steward public property actively and wisely to maximize the benefits they provide, including sustaining important habitat, watershed protection, and supporting the working landscape.
+Hundreds of thousands of people visit our state each year to view our landscape and enjoy the bounty of our natural resources, along with Vermonters that enjoy the services these lands provide. Sustainably managing these lands will be a priority by offering a land base for carrying out our strategies, which may be difficult to accomplish on private lands. Future acquisitions should focus on expansion of existing conserved area and forests identified through 'Vermont Conservation Design' and the Forest Legacy Program's Analysis of Need.
+
+## FOCUS AREA: FOREST FRAGMENTATION AND PARCELIZATION
+
+Forest fragmentation is a central issue in the 2017 Plan and is tied directly to many of our priority landscapes and focus areas. In 2014, the Vermont General Assembly enacted legislation to assess the current and projected effects of forest fragmentation on Vermont's forest and developed recommendations to protect forest health and integrity.
+In April 2015, a comprehensive report, the 2015 Vermont Forest Fragmentation Report (Fragmentation Report)
+foot_11
+ , was presented to the Legislature, raising awareness of the issue of forest fragmentation and parcelization in Vermont. In reaction to that report, the 2016 Vermont legislature passed Act 171 that includes new state land use planning goals to manage Vermont's forest lands to maintain and improve forest blocks and habitat connectors. The Act also requires town and regional plans to indicate areas in each town or region deemed important or that require special consideration as forest blocks and habitat connectors, and to plan for land development that minimizes forest fragmentation and promotes the health, viability, and ecological function of forests.
+Any land-use change can lead to forest fragmentation. The extent of actual impact depends on the type of change, the degree of fragmentation, and the resource value. It is important to distinguish between a forest fragmented by human infrastructure development and a forest of mixed ages and varied canopy closure that results from good forest management. The former is typically much more damaging to forest health and habitat quality, usually with permanent adverse effects, whereas the latter may only cause a temporary change in forest condition while continuing to support multiple forest benefits.
+The effects of fragmentation are well documented. Although related, the impact of fragmentation goes beyond outright loss of forest land. It is about the adverse effects on the smaller fragments of forest that do remain and the changes that occur in their configuration, condition, and connectedness. In general, fragmentation reduces overall forest health and degrades habitat quality, leading to long-term loss of biodiversity, increases in invasive plants, pests, and pathogens, and reduction in water quality. The full range of these effects all stem from two fundamental problems: fragmentation increases isolation between forest communities and increases edge effects within forest fragments.
+The Division must work with partners to educate and engage Vermont landowners, municipalities, and land-use decision makers (e.g., realtors and developers) about the economic and ecological benefits of forest blocks and the connectivity among smaller forest blocks to address forest fragmentation in Vermont. We need to continue to invest in land conservation, support existing landowners to keep their land forested, and develop and create markets for Vermont forest products that support working lands and sustainable forestry practices. We also need to develop additional tools for local governments and the state to encourage new growth in existing settlements and near existing roadways. This type of urban development will prevent incursions into high-value forest blocks that converts blocks of forest to other uses.
+
+## GOALS AND STRATEGIES
+
+In the 2017 Plan, we have reexamined and revised the goals and strategies from our 2010 Plan. They are intentionally broad and flexible and will be tied to specific projects and work plans during implementation. Understanding what organisms live in our forests and how they interact with their environment is essential to developing different approaches in forest management to promote long-term forest ecosystem health. The health of the forest includes the productive capacity of the soil, water, and air and their interaction to support all biota.
+Humans can have multiple impacts on forest ecosystems, including land conversion and forest structure conversion through harvesting, suppression of natural fire cycles and floods, degradation through incompatible uses, atmospheric pollutants, and the introduction of non-native species. These, in turn, influence ecological processes and ultimately forest-dependent plant and animal species 
+18
+ . Monitoring and research are essential for understanding our forest ecosystems and developing appropriate management strategies that promote healthy, productive, and sustainable forests.
+Healthy forests are ecosystems that possess the long-term capacity for self-renewal of their ecological productivity, diversity, and complexity. Typical climate variability and natural disturbances may disrupt this capability in the shortterm. Changes outside these historic factors may threaten long-term forest health. The ecological health of forests is essential if they are to provide their potential range of environmental, social, and economic benefits. The Division continues to place healthy forest ecosystems at the center of its programming. Accordingly, much of this plan is devoted to strategies to maintain or enhance forest ecosystem health. Through monitoring, education, and advocacy we seek to advance an understanding and ethic that places healthy forests first. Vermont is fortunate to have a healthy forest core, but as this 2017 Plan details, many threats must be addressed, ranging from fragmentation and development to climate change and invasive species.
+
+## ASSESSMENT ASSESSMENT: FOREST PRODUCTIVITY
+
+Forest growth depends on soil productivity: the capacity of soil, which is a mixture of organic and inorganic materials, to support plant, animal, and other forms of life. The bedrock geology contributes much of the inorganic material, essentially pulverized rock, while all parts of plants and animals, living and dead, contribute to the organic matter.
+Forest soil provides habitat for vascular plants, lichens, bryophytes, and fungi, essential to the diversity of a forest.
+The forest floor is a primary source of nutrients for trees, shrubs, and herbaceous plants and maintaining soil nutrients is essential to the health of both the current and future forest. Biological activity and climatic conditions affect forest soils. The structural characteristics of the forest floor including litter composition, depth and density, and topography also affect productivity and biodiversity. Protecting the organic layer and minimizing exposure of the mineral soil can reduce adverse effects on soil health and productivity. Changes to the canopy from harvesting or natural disturbances can affect the forest floor. Proper planning and management can mitigate the impacts of these events.
+Retaining organic material during a harvest is important to minimize soil disturbance from log extraction and reduce erosion on roads and landings. Acid deposition from sulfur and nitrogen emission have changed soil chemistry, most notably in high elevation spruce-fir forests. Acid deposition strips soils of calcium and magnesium, which are essential for plant growth, through a process that also increases the concentration of aluminum in the soil.
+Aluminum can be toxic to plants and trees. The long-term effects of changes in soil nutrients are not well understood overall. Acceptable management practices for logging and other watershed protection strategies help conserve soil productivity and reduce erosion. Work is necessary to develop management recommendations that consider nutrient depletion when harvesting on acid sensitive sites and monitoring changes in forest soil nutrition.
+Maintaining the health and ecological productivity of our working forest landscape is critical to sustainability. The growth to removal ratio, which is determined by monitoring the volume of wood products harvested annually relative to forests' annual growth and natural mortality, provides an indication of a forest's ability to provide a continual supply of forest goods and informs forest management opportunities. Another measure of forest productivity is the volume of trees, expressed as cubic feet, board feet, cords, or tons. Average annual net growth, mortality, and removals have higher sampling errors, indicating greater uncertainty in trend estimates; however, the latest inventory shows a notable 23% decrease in average annual harvest removals of trees on forest land. All measures of forest productivity should be viewed broadly, considering all the goods and services produced from the forest including ecosystem services like water, air, and carbon (Chart 6). 
+
+## FOREST PRODUCTIVITY ESTIMATES
+
+## ASSESSMENT: CLIMATE CHANGE
+
+Vermont's climate has and will continue to change, and these changes will affect forests in a variety of ways.
+Climate projections for our region include higher summer and winter temperatures, heavy precipitation events, less snow and more winter rain, and drier summers. Higher carbon dioxide levels may stimulate tree growth. A warmer climate will mean a longer growing season and better growth rates, but a more temperate climate may also increase insect pest reproduction and their expansion into higher elevations and farther north from their traditional habitats. • Average temperatures have increased by more than 2°F since the beginning of the 20th century. The last decade was the warmest on record. The intensity of extreme winter cold is projected to decrease.
+• Average annual precipitation has increased nearly 6 inches since the early 20th century, with the largest increases occurring in mountainous regions of the state. Increased winter and spring precipitation is projected for the 21st century, and warming will increase the proportion falling as rain rather than snow.
+• Extreme weather events, particularly floods and severe storms, are having an increased impact on Vermont. Extreme rainfall events are projected to become more frequent and intense in the future.
+We have also noted that the beginning of spring is now generally earlier and has resulted in changes to seasonassociated ecosystem activities, such as the timing of maple syrup production. Likewise, there is evidence that elevation limits for tree species are rising. 
+
+## ASSESSMENT: NATURAL DISTURBANCES
+
+Forests are exposed to a multitude of environmental conditions. Populations of native species may change suddenly.
+These natural disturbances, including insects, diseases, animal feeding, and weather events that affect tree health, are a normal part of forest ecology, and influence forest composition, structure, and functions. They serve a valuable function in creating gaps in the forest canopy and allowing for a diversity of plants and animals to populate those gaps. Larger disturbances that kill entire stands of trees are more infrequent. Natural disturbances can detract from the commercial value but not the overall biological integrity of the forest.
+Many natural disturbances have short-term impacts, and forests will rebound on their own. However, multiple stresses can have detrimental effects on long-term tree health. For example, insect defoliators periodically reach outbreak levels, reducing tree vigor due to less nutrition stored in the root systems. However, most trees recover in time. However, if a timber harvest or drought is followed by defoliation, trees are less likely to recover.
+
+## ASSESSMENT: WILDLAND FIRE
+
+The term 'wildland fire' refers to any non-structure fire that occurs in vegetation or natural fuels. Wildland fire includes prescribed fire and wildfire. Each year Vermont experiences wildland fires during its two primary fire seasons in the spring and fall. Most wildland fires in Vermont are quickly reported and contained, though fires burning deep in ground fuels or in remote locations require more time and effort to fullly suppress. Town Forest Fire
+Wardens and local fire departments primarily handle wildland fire control with assistance from other towns and the state when necessary.
+The Town Forest Fire Warden system, established in 1904, gives the responsibility of forest fire suppression to the Town Forest Fire Warden. Initially, these wardens were the First Selectman of each town, and now the Town Forest Fire Warden is an appointed position requiring the approval of the town Selectboard and the state. Over time, the scope of the Town Forest Fire Warden's duties have expanded from fire suppression to fire prevention and education through the adoption of a fire permit system in 1939. Aerial surveys have been conducted since the 1960s to map forest health damage. Findings have included a recent outbreak of beech bark disease, which was brought on by a period of prolonged drought and has since subsided.
+These detection surveys also pinpointed several areas of rapid red pine mortality, highlighting the need for further monitoring.
+The Division has been using our North American Maple Project (NAMP) plots to track the health of sugar maples and other tree species. Thirty plots are visited annually to monitor health changes. Although overstory maple crowns remain healthy, data from these plots indicate that a lack of sugar maple regeneration is an increasing concern.
+Insect and disease monitoring has also provided information that has helped inform forest pest management. For example, monitoring hemlock woolly adelgid has demonstrated the impact of winter temperatures in Northern New
+England. Pheromone traps are used to detect increasing populations of major defoliators. Although emerald ash borer and Asian longhorned beetle surveys in high-risk areas have been negative, these surveys do improve our chances for early pest detection.
+Information about changes in tree phenology is important to understanding leaf-pest interactions as well as climaterelated trends. Five locations across the state are monitored for stages of leaf and flower development in the spring.
+Fall color and leaf drop complement spring measurements by providing a measure of the length of the growing season for a subset of tree species. Relatively unknown invasive pests such as oak wilt and red pine scale will likely be of concern soon. New pests will continue to be introduced.
+Forest pests may be transported by infested wood products or live trees. Quarantines are in place to limit the spread of a few specific pests. Movement of firewood is of particular concern; when infested wood is salvaged, it may be left unburned for a year or more in its new location. 
+
+## PRIORITY LANDSCAPES AND FOCUS AREAS PRIORITY LANDSCAPE: FOREST LAND THREATENED BY NON-NATIVE INVASIVE PESTS
+
+The survival of tree species or entire genera is at stake with the introduction of non-native insects and diseases into locations where they have no effective natural enemies and their tree hosts have limited genetic resistance. Nonnative pests such as Dutch elm disease, chestnut blight, beech bark disease, and butternut canker occur throughout Vermont, while other common tree species, like ash, hemlock and red pine are under threat from new invaders.
+For both new and established invaders, conservation planning can identify individual trees or forest stands for protection and approaches for maintaining productivity and genetic diversity. It can outline management strategies, and plans for identifying resistant trees and preserving germplasm for the future.
+In addition, these landscapes can be protected from new invaders by efforts to slow their spread, early detection, and rapid response. To address this issue, the Division must continue to promote a multifaceted approach including upholding our widespread monitoring program led by our Forest Health Program, and supplemented by private foresters, loggers, and engaged citizens; supporting our Urban and Community Forestry Program's active recruitment and engagement with citizen scientist volunteers; building capacity among our partners and natural resource consultants to manage pest impacts; maintaining an active incident command plan to respond to outbreaks; and sustaining our knowledge, skills, and capacity to understand and manage non-native pests.
+
+## PRIORITY LANDSCAPE: WILDLAND URBAN INTERFACE
+
+The wildland-urban interface (WUI), defined as the area where structures and other human development meet or intermingle with undeveloped wildland, creates an environment in which fire can move readily from forests and grasslands into neighborhoods. WUI expansion increases the likelihood that wildfires will threaten structures and people.
+Although the WUI term originates in wildland fire management, the WUI is also a useful indicator of human influence on natural ecosystems. The WUI is an area where people and their homes affect the natural environment, contributing to the loss of habitat for native species, forest fragmentation, the introduction of exotic species, domestic pets that can disturb or prey on birds and other wild animals, and poorer water quality due to runoff from pavement and lawns
+foot_17
+ . These trends will threaten biodiversity and ecosystem health if WUI residents and communities are not attentive to the potential harms and actively caring for the environment around their homes. 
+27
+ In Vermont, we use a housing density greater than 15.5 houses per square mile as the threshold for the WUI. (2007-2008), when an estimated 80,744 households used wood. Usage of wood for space heat as opposed to household heat had been steadily declining from a high of 48% (1985-1986) at the time of the 1997-1998 survey.
+More than 100 institutional facilities use wood chips or pellets for heating, and this number is rapidly growing.
+Vermont is a leader in heating schools and institutional facilities with wood chips; more than one-third of Vermont children attend a school heated by wood. Wood chips also fuel two large wood-fired electric power plants, seven institutional or public district heating systems, and numerous smaller commercial or public facilities and multi-family affordable housing projects.
+Wood energy is also an important economic driver for Vermont. provides basic descriptive information about the number, sizes, and characteristics of timber harvesting operations around the state 
+[1]
+ . It further provides a snapshot of harvesting practices related to specific forest attributes including aesthetic values; archeological and historic resources; rare, threatened, and endangered species; timber quality and regeneration, productivity, and health; water quality, and wildlife habitat.
+Findings from the assessment include:
+• The average size of timber harvests sampled was 62 acres, down from the average of 93 acres estimated during the 1990 assessment.
+• 73% of sampled sites were enrolled in the Use Value Appraisal Program.
+• Foresters were involved in 83% of operations.
+• 49% of operations involved at least some mechanical harvesting.
+• 41% of operations involved at least some whole-tree skidding, up from 10% in 1990.
+• Regeneration harvests (overstory removal and clearcut) assessed in 2012 had a lower density of desirable seedling/sapling regeneration when compared with 1990 results.
+• Soil disturbance on observed plots was minimal: no observed bare soil on 95% of points, no observed erosion on 96% of points, no observed compaction on 90% of points, and no observed rutting on 96% of points.
+• Stream condition was not impacted by logging in 78% of observations.
+• Stream buffer widths were considered adequate for 60% of observations.
+• No evidence of sedimentation was observed at 78% of stream crossings. Water Act and to minimize the potential for a discharge from logging operations in Vermont.
+The AMPs
+foot_23
+ , which are legally enforceable rules required for Vermont land to comply with the Federal Clean Water Act, contain preventative measures to help control soil erosion and protect water quality. The AMPs are designed to minimize the effects of logging on the natural hydrologic functions of forests. The guidelines discuss how to absorb or disperse runoff, retain soil nutrients, filter sediment, prevent fluctuations in water temperature, and contribute organic material to surface waters. In place since 1987, the AMPs were revised in 2016 as a requirement of Act 64 with an improved set of practices to improve the water quality in Vermont.
+
+## FLOOD RESILIENCY AND STORMWATER MANAGEMENT
+
+Forested areas provide multiple watershed benefits including their ability to help mitigate impacts from flooding.
+Forests intercept, evaporate, transpire, and infiltrate rainwater and snowmelt. They have the infiltrative capacity to absorb water, releasing it gradually, thus moderating streamflow. The forest floor is a critical watershed attribute of forested watersheds. The forest floor is composed of the litter layer, underlying organic layer, and fibrous roots. It controls storm runoff, stream sedimentation, and nutrient loading by encouraging surface water to infiltrate into the soil.
+Maintaining or enhancing forest cover in a watershed should be a primary strategy in local planning efforts.
+Communities can also look at the amount of impervious surface in their watershed and explore strategies to encourage infiltration of surface runoff through Low Impact Development designs and green stormwater infrastructure practices. Vermont statute supports communities and state agencies to protect and restore upland forested areas that attenuate and moderate flooding and fluvial erosion, and integrate green stormwater infrastructure to become flood resilient.
+
+## IMPAIRED WATERS FROM NONPOINT SOURCE POLLUTION
+
+The Federal Clean Water Act requires states to establish water quality standards (WQS) in each waterbody that are sufficient to ensure, wherever attainable, a level of water quality that provides for the protection and propagation of fish, shellfish, and wildlife and recreation in and on the water. It identifies impaired waters that don't meet these standards. Lake Champlain is one of these, but it is not the only impaired Vermont waterway. Seventeen of Vermont's waters are listed as "impaired," primarily due to urban stormwater runoff. 
+
+## PRIVATE FORESTS AND DRINKING WATER
+
+The USDA Forest Service 'Forests to Faucets' 37 project uses geographic information science to model and map the continental US land areas most relevant to surface drinking water, the role forests play in protecting these areas, and the extent to which these forests are threatened by development, insects and disease, and wildland fire. This work can serve as an educational tool to illustrate the link between forests and the provision of surface drinking 37 Forests to Faucets, USDA Forest Service, 2016, www.fs.fed.us/ecosystemservices/FS_Efforts/forests2faucets.shtml water-an essential watershed-based ecosystem service. This assessment provides information that can identify areas of interest for protecting surface drinking water quality.
+Vermont ranks high in need to protect its surface drinking water. The primary area of concern is development pressure on forests in the Winooski and middle Connecticut watersheds, and the potential impact that it could have on water quality and water supply. These watersheds deserve the highest priority for protection and conservation to protect public drinking water supplies.
+
+## CLIMATE CHANGE AND VERMONT'S WATERS
+
+Vermont and the region are expected to experience changes that could have critical consequences for hydrology, water quality, ecological integrity, and human infrastructure from more extreme and less predictable weather 2010, through December 31, 2012; this land is now available for public recreation.
+• An increase in mountain bike trails, mainly managed by the Vermont Mountain Bike Association and Green Mountain National Forest.
+• Investment of over $10 million for capital improvements in state parks to replace and update aging infrastructure and to add new facilities such as camping cabins, which have become very popular for state park visitors.
+• Investment of millions of dollars by municipalities to expand and upgrade municipal recreation facilities including those significant areas affected by flooding in 2011.
+• An increase in established ATV trails on private lands.
+• New improvements to existing facilities to make them accessible to persons with disabilities.
+
+## OUTDOOR RECREATION DEMAND CHANGES
+
+Vermonters participate in a wide range of outdoor recreation activities. In 2011, picnicking, swimming in lakes, and walking had the highest participation rates of all the activities included in the survey. The activities that were engaged in the most number of days of the year were walking, jogging/running, and riding ATVs. Some of the biggest changes in participation include:
+• TRAIL-BASED RECREATION: Membership in almost all trail-based organizations listed in this plan has increased, and trail-based recreation activities were some of the most popular types of recreation in Vermont.
+• MOUNTAIN BIKING: Kingdom Trails membership rose 140% since 2001, adding almost 2,000 people to its membership. Mountain bikers engaged in the sport an average of 16 days per year.
+• BACKCOUNTRY SKIING: More and more Vermonters and visitors are choosing to ski off trail. The Vermont Backcountry Alliance is working with public agencies as well as resorts to promote and provide a safe backcountry experience.
+• ATVing: The Vermont All-Terrain Vehicles Sportsman's Association's (VASA) membership has almost doubled since 2003, increasing to 2,564 members in 2010. ATV riding has the third highest average annual household participation days of any activity.
+• SNOWMOBILING: Membership in the Vermont Association of Snow Travelers (VAST) has declined over the past ten years by over 10,000 members, dropping to 31,992 members in 2010. Even so, more than 10% of Vermonters snowmobile, for an average of almost 16 average annual household participation days.
+• HUNTING AND FISHING: The sale of hunting licenses in Vermont has declined over the past ten years. The US Fish and Wildlife's National Survey of Fishing, Hunting, and Wildlife-Associated Recreation (FHWAR) survey found that the number of hunters in Vermont had declined by a third between 2001 and 2006.
+
+## VERMONT'S OUTDOOR RECREATION ECONOMY
+
+Outdoor Recreation is not only a Vermont tradition, but an often-overlooked economic powerhouse. Healthy forests are the base of this industry. Recent studies have highlighted the economic importance of outdoor recreation:
+• In 2016, four Vermont Trail System members (the Green Mountain Club, the Catamount Trail, the Vermont All-Terrain Sportsmen's Association, and Kingdom Trails Association) conducted an economic impact study on out-of-state visitation which found that just these four trail systems contribute $30.8 million annually in economic activity through trail use. While an impressive number, this represents only a fraction of the economic impact outdoor recreation brings to the state annually.
+• The Mad River Valley Active Transportation Plan found that three mountain bike/multi-use trail systems in the Valley account for over $3.4 million in sales each year.
+• The Outdoor Industry Association estimates that Outdoor Recreation generates $2.5 billion in consumer spending each year.
+• Vermont's fall foliage season is world-renowned and is one of the most important times of the year for many tourism-based businesses. According to recent estimates by the Governor's office, the fall season generates $460 million in tourism spending from 3.57 million visitors, just over 25% of Vermont's annual spending by visitors.
+
+## ASSESSMENT: FORESTS MITIGATION OF GREENHOUSE GASES
+
+Trees of different species and ages can differ substantially in carbon uptake and storage amounts. Hardwoods with dense wood tend to store more carbon than softwoods with lighter wood. Young trees store only a fraction of the amount of carbon compared with older, large diameter trees. Annual uptake of carbon is related to tree vigor and growth rate, so healthy, fast growing trees can accumulate carbon faster. Factors influencing the amount of carbon in a forest include:
+• Size of the forest area;
+• Number, species, and age of trees;
+• Soil type and depth;
+• Amount of dead and down organic material; and
+• Disturbances such as insect defoliations or ice storm damage, which can significantly reduce carbon storage in forests.
+Land use change is a significant factor affecting Vermont's forest carbon reserves. Emissions or sequestration of CO2 can occur as land uses change. Vermont forests are considered a net sink, rather than a source, of CO2, but where vast areas of forest land are cleared for agricultural or development purposes, this change in land use can be a net source of greenhouse gas emissions. Expanding areas of healthy forests will maximize carbon uptake and storage, more than any other land use. Where development does occur, planting trees will minimize carbon losses from soil, and accelerate vegetation growth to sequester additional carbon.
+
+## PRIORITY LANDSCAPES AND FOCUS AREAS PRIORITY LANDSCAPE: LAKE CHAMPLAIN WATERSHED
+
+Vermonters love Lake Champlain. Many refer to the lake as the region's crown jewel. We depend on the lake for fishing, swimming, boating, and other recreational pursuits. It provides drinking water to about 145,000 people or about 20% of the Basin's population
+foot_26
+ . Summer tourism and property values are tied to its health and beauty. The lake attracts businesses with a workforce that appreciates its natural beauty and Vermont's working landscape.
+The challenge is that too much pollution is reaching Lake Champlain from the streams and rivers draining into it. The primary concern is polluted runoff -rainwater or snowmelt that drains off parking lots, roads, and streets, farm fields and croplands, lawns, and logging roads. The water carries with it sediment, nutrients such as phosphorus that are naturally present in soils, pet and animal wastes, fertilizers, and other pollutants and then deposits these pollutants into streams and rivers or directly into Lake Champlain.
+Too much phosphorus pollution stimulates excessive growth of algae. It can turn Lake Champlain water green, and even toxic to people and pets. To address phosphorous pollution in the lake, as prescribed in the Federal Clean Water Act, a TMDL is set that specifies the maximum amount of a pollutant that a waterbody can receive and still meet applicable water quality standards. The TMDL addresses all Vermont sources of phosphorus, including permitted point sources such as wastewater treatment facilities, municipal, and transportation stormwater sources, as well as nonpoint sources, such as runoff from agriculture and forests and stream bank erosion.
+Sediment, which carries phosphorus, is the most common pollutant associated with timber harvesting. Soil is transported by rainwater after timber harvesting equipment and trees dragged or carried over the ground loosen and expose the soil. Bare ground exposed during harvesting operations can be eroded by rain and enter nearby streams. Stream crossings during harvesting have the potential for the biggest impact to water quality. In Vermont, the Environmental Protection Agency (EPA) estimates 14.5% of the total nonpoint phosphorus load delivered to the lake comes from forest land including natural background sources. The major form of phosphorus export to streams from forest land is sediment bound, usually associated with roads and stream crossings. With forests covering more than 1.9 million acres within the Vermont portion of the Lake Champlain Basin, forestry is an important area of focus for reducing phosphorus loading to state waters.
+The Vermont DEC, working with the United States EPA, began preparing the Lake Champlain phosphorus TMDL in the late 1990s. In 2011, the EPA revoked its approval of the Vermont portion of the Lake Champlain TMDL. After much analysis, planning, and public involvement, in June 2016, the EPA established new phosphorus TMDLs for the twelve Vermont segments of Lake Champlain. The updated TMDL includes several forestry strategies including revising the Forestry AMPs to enhance forest cover to improve watershed health.
+In addition to the strategies listed above, additional pollution reduction strategies were identified for the Missisquoi and South Lake Sub-Watersheds due to their high phosphorus loads. The extra assurances provided for the forest sector for these areas include a focused outreach effort to target forest landowners to accelerate implementation of Natural Resource Conservation Service cost-share practices to improve water quality and reduce phosphorus and increasing access to portable skidder bridges.
+
+## PRIORITY LANDSCAPE: DEVELOPED LANDS-URBAN CANOPY ENHANCEMENTS
+
+Urban land makes up just 1.6% of the land area of Vermont
+foot_27
+ . While a small percentage, 38.2% of Vermont's population lives in these urban areas and they rely on their urban and community forests to provide a multitude of benefits. The urban forest is the sum of street trees, residential trees, park trees and greenbelt vegetation; it includes trees on public and private land, in transportation and utility corridors, and forests on watershed lands. To assist in targeting resources to Vermont communities in greatest need of urban canopy enhancement, the Division conducted an assessment that identified communities that have less than average urban tree canopy (UTC) and higher than the average population, urbanized area, and impervious surface area. Enhancing the urban tree canopy in these regions will be a priority in this planning cycle to enable municipalities to reach their urban forests potential.
+
+## FOCUS AREA: WORKING LANDS ECONOMIC VITALITY
+
+The backbone of Vermont's heritage and economic viability is its working landscape
+foot_28
+ -comprised of agriculture, food systems, forestry, and forest product-based businesses. About 20% of Vermont's land is used for agriculture while another 74% is forested. Changing land use, development pressures, and macroeconomic trends are a direct threat to Vermont's working forestland base. The WLEB Forestry sub-committee is actively engaged in implementing recommendations from the recently completed Forest Sector Systems Analysis Project 43 . These efforts seek to support forestry enterprises and valuechains through:
+• NETWORK DEVELOPMENT: Develop a network of forest and wood products sector organizations to unite around a common purpose. The Vermont Sustainable Jobs Fund, the WLEB Forestry Sub-Committee, and the Northern Forest Center are collaborating and developing a plan to increase value chain coordination and to create a more formal network across the sector;
+• DEVELOPING VIABLE VALUE CHAIN OPPORTUNITIES: Convene industry stakeholders interested in further exploring and then developing the value chain market opportunities identified through the systems analysis process;
+• IMPROVING PUBLIC AWARENESS: Work with existing forest and wood products sector trade associations to improve public awareness and outreach to Vermonters, tourists, and the media; stress the importance of forestry to Vermont's economy and healthy forests; and increase demand for the wide range of forest and wood products;
+• ENGAGING WOODLAND OWNERS: Support efforts to connect woodland owners to the working lands businesses that depend upon their forests;
+• STRATEGIC FUNDING: There is a need to develop public and private programs that provide payments to private forest landowners for management practices that increase carbon sequestration and provide other ecological services such as clean water and biodiversity. In regions where small parcels predominate, landowner cooperatives could facilitate participation in carbon markets. Practices that increase carbon sequestration may include: increasing above-and below-ground biomass retained on site for carbon storage, minimizing site disturbance where scarification is not an objective, and extending rotations and cutting cycles to develop late-successional stands comprised of a diversity of species.
+FOCUS AREA: WATER QUALITY PROTECTION As previously stated, forests are the best land use for sustaining water quality and quantity. The Division has a number of initiatives that promote the forests to faucet ideals. 
+
+## DESIRED FUTURE CONDITION: LAND ETHIC
+
+Maintain and enhance an ethic of respect for the land, sustainable use, and exemplary management OVERVIEW Vermont ANR strives 'to draw from and build upon Vermonters' shared ethic of responsibility for our natural environment, an ethic that encompasses a sense of place, community and quality of life, and understanding that we are an integral part of the environment and that we must all be responsible stewards for this and future generations.' As a part of ANR, the Division has made this ethic a foundation of our outreach work by promoting an appreciation of the immense value of forests and the civic responsibility we all have in stewarding them. A shared understanding of this ethic among forest landowners, practitioners, the public, and the government is critical to maintaining and enhancing the contributions of Vermont's forest ecosystems.
+A land ethic is appreciating the value of the land, and understanding and accepting responsibility for our impacts on the finite, non-renewable resources the land provides. Vermont has been fortunate to have an engaged public and active landowners and land managers who recognize their contribution to the future of our shared forest resource.
+There has long been a tradition of passing property on to heirs and to future Vermonters, and of making informed land management decisions.
+There are, however, new threats to our deep-rooted land ethic. Concerns about intergenerational transfer of land and the economic viability of the land ethic exist. Changes in how Vermonters use and value forests are leading to spirited debates about the future of Vermont's forests, and could further fracture an ethic built on consensus.
+Fragmentation and parcelization of forest land, protection of wildlife and their habitat, forest-based recreation activities, timber harvesting practices, water quality protection, taxation of forest land, the status of forest health, acquisition and management of public land, and the protection of private property rights are all familiar issues.
+There also exists an under-appreciation of the forest products economy and urban forests in Vermont.
+To foster a responsible land ethic, the Division must know who has an impact on the land and in what ways: who owns, lives in, and uses Vermont's forests today and into the future? We need to understand the programs, both public and private, developed to encourage public awareness, involvement, and stewardship. Measuring how effective our collective efforts are towards cultivating a strong land ethic will allow us to evaluate and adapt. The forest products economy is primarily dependent on private forest land for its wood supply. An always changing and aging landowner population and increasing parcelization of forested lands are current issues that affect wood availability. As forested parcels are subdivided, the resulting smaller parcels make it more difficult to harvest timber on a parcel by parcel basis profitably. As the landowner population changes, there is an increasing number of owners who are not aware of the role that timber harvesting plays in forest stewardship.
+There are approximately 87,000 private forest landowners in Vermont. More than 40,000 of the family or individual forest owners own more than 10 acres, but an even higher number own less than 10 acres. Even among the larger ownership category, many family forest ownerships 47 hold less than 50 acres of forest land 48 . When forest lands are less than 50 acres, landowners' land management objectives are limited because of the small size (Chart 8).
+Families and individuals are the primary owners of Vermont's forests, and the demographics of those owners are changing in important ways: the number of landowners is increasing, the size of the parcels is decreasing, and the age of owners is increasing, all with significant implications for the size and ultimate integrity of our forests. The 2014 survey addressed questions related to:
+• How many private woodland ownerships are there?
+• Why do these ownerships own wooded land?
+• What have they done with their woodland in the past?
+• What do they plan to do with their woodland in the future?
+The report found that over 85% of woodland owners in Vermont have performed one or more management or enhancement activities on their land in the past five years, and plan to continue management in the next five years.
+These include removing trees for personal use--mostly firewood --harvesting timber for sale, and trail construction or maintenance. In the future, these landowners are likely or very likely to remove trees for personal use, maintain or improve wildlife habitat, and perform trail construction or maintenance (Chart 9). The survey also highlighted motivations for ownership of forested land with the most common reason being beauty followed by protecting wildlife and nature, and privacy (Chart 10). 
+
+## DEPARTMENT OF DEFENSE-ETHAN ALLEN FIRING RANGE
+
+The Ethan Allen Firing Range is an 11,000-acre government facility in Jericho. The site of Vermont Mountain Warfare School, the facility trains soldiers in mountaineering and acts as a complete weapon testing area. The Army trains upwards of 20,000 troops there every year. The range is one of the premier cross-country ski and biathlon facilities in North America and one of three internationally licensed biathlon courses in the United States.
+Forest Management plays a crucial role in sustaining the long-term viability and carrying capacity of training lands on the firing range. Pro-active management maintains and promotes a healthy and diverse forest ecosystem.
+Selective thinning in appropriate areas helps to keep healthy and vigorous stands of both hardwood and softwood species.
+The Vermont Army National Guard is also developing a Children's Nature Trail. This trail will be in a remote, nonshooting part of the Ethan Allen Firing Range, and its use would be exclusively by school groups with grades 1-2 and 5-6.
+
+## ASSESSMENT: MUNICIPAL FORESTS AND TRIBAL LANDS
+
+There are over 67,000 acres of forest land owned by 168 municipalities, all open to the public to enjoy. The values of town forests are diverse, from watershed protection, wildlife habitat and forests products, to public recreation, outdoor classrooms, and neighbor gathering places. Town forests in Vermont contribute to the regional landscape by keeping productive forest lands in timber management, protecting physical and biological diversity, and maintaining connectivity between larger patches of forest. As time allows, FPR's foresters are available to provide advice to municipalities on a variety of town forests topics and engage in advancing stewardship on many.
+In 2015, Vermont celebrated the centennial anniversary of the Municipal Forest Act, the enabling legislation for creating town forests, with events throughout the year and new resources to support Vermonters working for town forests. Throughout the year-long celebration, local forest stewards shared the pressures to manage the forest for multiple uses with a high-demand from recreational users and the need for improved technical resources to assist in local planning and management. To address this need, in 2015 FPR partnered with UVM Extension and Vermont's
+Town Forest Collaborative to submit, and successfully receive, a grant to further identify needs and gaps with town forest planning and management, and to engage ten communities in developing a vision and plan for the use of their town forests. The results of the charrette style planning process will be assessed and adapted with new planning tools and lessons transferred across the state.
+
+## TRIBAL LANDS
+
+The Nulhegan Abenaki own a 65-acre parcel in Barton, under a conservation easement with the Vermont Land Trust (VLT). The tribe worked with the VLT and the Sierra Club to secure the forestland with the intention of using it for economic, educational, and cultural resource goals. They will also use the forest to educate tribal and non-tribal children in traditional land stewardship such as sugaring and finding and using medicinal plants. There is currently a small sugaring operation and a recreational trail on the land. The tribe plans to expand sugaring and grow produce using small-scale traditional Abenaki agricultural methods in existing clearings. The forest will provide other economic benefits such as firewood for those in need, and hunting opportunities. Public participation and input is a major component of the long-range management planning process for state land.
+State land planning documents are made available to the public at fully accessible and advertised meetings and on the FPR's web site. Public comment is taken as advice, and ANR makes every effort to include suggestions that are compatible with the ANR and its Departments' missions, are consistent with ANR lands management principles and goals, and are fiscally realistic.
+The level of the public process varies dependent upon several factors including the complexity of the parcel, significance of the resources, legal issues, the potential for user conflicts, parcel size, and the degree to which any proposed management results in significant land use change.
+Vermont has a community governance system based on towns. Each Vermont town that is incorporated has a Selectboard of duly elected citizens with various other town committees and boards that make recommendations Public lands have supported an active timber management program for many years that has contributed to local, state, and regional economies. Timber and vegetation management contribute to the maintenance and enhancement of biodiversity, higher value and quality timber resources, production of a broad variety of wood products at a sustainable level, improvement of forest health conditions, management of quality habitat, enhancement of scenic beauty, control of invasive exotic species, and the demonstration of sound forest management practices. In addition, hiking, hunting, fishing, trapping, snowmobiling, and cross-country skiing are also significant activities occurring on public lands, which provide substantial economic and societal benefits. We already see an increase in forest-based recreation and we expect pressure on public land to increase as Vermont's population continues to grow and new activities emerge. Public lands are owned and managed to meet a variety of goals and objectives and are seldom managed to maximize any one use.
+As we plan the future of Vermont's public forests, it will be paramount that we strive to balance the variety of goods and services they provide while maintaining forest health and meeting the needs and desires of Vermonters. To do so, it will be essential to have an active public participation process, enhance research and monitoring to inform decision makers, increase focus on professional development of public land managers so they are current with the latest science and best practices, increase financial resources to maintain public infrastructure, and support technology transfer to share information and lessons. Our network of federal, state, and local public lands offer countless opportunities to explore, provide, and learn, and they are worth greater investment. As we implement the 2017 Plan, some of our strategies will be necessarily focused more in one zone than another.
+For example, we know that many of the existing large forested blocks are in the rural zone. We also know that the rural residential zone is expanding fast in areas of the state such as the Champlain Valley and pose a challenge for fragmentation and the wildland fire urban interface. The urban zone can be critical in providing green infrastructure since this is where the population is the greatest and where green practices are necessary to mitigate our footprint.
+For this plan, we will continue to use these zones in our analysis and to guide our strategies, as they provide a valuable lens to focus our efforts and have proven to be a useful tool.
+THE URBAN LANDSCAPE ZONE encompasses a relatively small amount by any state standards. There has been incremental growth since the 2010 Plan, primarily due to the recession and slow recovery. Geographically, the Urban Landscape Zone is located primarily along the shores of Lake Champlain and the banks of the major rivers, as historically these were the primary transportation corridors and development centers. The largest urban center is Burlington and its surrounding towns. Social and economic factors will likely drive many of these older landowners not to pass on their ownership within the family and to sell their holdings. Many of these forests will be subdivided resulting in smaller parcels and, often, development.
+Intergenerational transfer of forest land presents a challenge to forest landowners, forest managers, and planners.
+Without established estate plans, properties transferred after the death of an owner are often taxed at high levels.
+Many people leave property to more than one heir, which spreads out the tax burden but often forces the sale or subdivision of assets to achieve equity in transfer and to pay the taxes. Even when an elderly forest landowner wishes to pass on an intact forest, it is difficult if the heir has no time for, or interest in, managing the property.
+Most attorneys practicing estate law do not present clients with options regarding land protection unless the client specifically requests it. Given the amount of forest land that may turn over in the next decade, lands controlled by older forest landowners are at the highest risk for development and potential fragmentation unless legal planning for transfer has been implemented.
+To address this issue, our county foresters are well positioned to help both generations make informed land use decisions. Our partners, including private licensed consulting foresters, are also crucial in their role. Stewardship in the future will depend on intergenerational transfer to a younger generation. It will be a priority for the Division to develop educational programs and other tools to facilitate this transfer to keep forest forested.
+
+## FOCUS AREA: MUNICIPAL URBAN FOREST MANAGEMENT
+
+Extensive and healthy urban tree canopy within Vermont's most densely populated areas play a major role in mitigating environmental impacts such as stormwater runoff and concentrated air pollution, while enhancing the social dynamics and economic vitality in the heart of communities. Vermont's urban forests and trees are integral to the health and well-being of our communities and are valued as critical community infrastructure that contributes $12 million in services to the state each year. A strong local municipal tree program is necessary to plan and care for them so that they reach their full potential. To achieve this, communities need a local management plan that is developed from a foundation of a resource assessment and an engaged citizenry and local government to support plan implementation. These elements are the stepping-stones to a sustainable local urban forestry program, and necessary to maintain, enhance, and protect Vermont's urban forests. To support municipalities in the establishment of self-sustaining, local municipal forestry programs our Urban and Community Forestry Program will lead the strategic delivery of financial, technical, and educational assistance to communities.
+
+## GOALS AND STRATEGIES
+
+In the 2017 Plan, we have reexamined and revised the goals and strategies from our 2010 Plan. These are intentionally broad and flexible and will be tied to specific projects and work plans during implementation. For the 2017 Plan to be successful, it is vital to maintain and increase, where needed, the financial support for implementation. Continuing budget pressures have made it difficult for the Division to keep the staffing levels needed to meet demands. Budget pressures appear to be the new normal rather than temporary downturns. The Division must pursue new opportunities for funding and collaboration with partners wherever possible. We must continue to tell our story to the lawmakers who determine our funding.
+Similarly, we must look for new opportunities to maintain landowner's financial viability of private forest lands, including sustaining Vermont's forest-based manufacturing sector, pursuing opportunities to market carbon credits, and new ways to monetize ecosystem services. No program has been more successful in keeping our working landscape than the UVA Program. As the popularity of the program grows, the increasing amount of forgone tax revenue may become an issue. An important strategy will be to tell the story of the positive benefits of the UVA program and maintain support for it.
+State policies, laws, and regulations must promote sustainability of Vermont's forests and reflect the needs of all forest landowners while encouraging cooperation between all citizens of the state. Forestry statutes, rules, and policies should provide for the sustainable management and protection of forest resources and provide the greatest environmental yield. To ensure that our policies, laws, and regulations are followed, the Division will strive to ensure that the public has a clear understanding and the technical assistance needed, as well as a stakeholder voice in their development. Voluntary compliance has always been, and will continue to be, our goal.
+Healthy forests are at the heart of this plan and new initiatives including forest certification, forester licensing, Voluntary Harvesting Guidelines, non-native invasive plant programs, and state guidelines for management of riparian buffers, vernal pools, and other ecologically significant habitats are important steps in ensuring this outcome. Within the Division, we will improve our understanding of and monitor our actions in relationship to the principle of healthy forests.
+To be successful, the Division must be managed and operate in a sustainable manner that is respectful of the environment, its employees, and the public. A well-trained staff and the tools and data infrastructure to support their work are crucial. To carry out its mission, the Division will continue to manage in close collaboration with its partner divisions within FPR, allied departments within ANR, other state agencies, and with its partner organizations throughout Vermont.
+
+## ASSESSMENT ASSESSMENT: REGULATORY PROGRAMS, POLICIES, AND COMPLIANCE
+
+The Division, working with other staff in in ANR, is responsible for administering, regulating, and providing technical assistance in an increasing number of programs, laws, rules, and policies, including:
+• HEAVY CUT LAW: Regulates timber harvest intensity on cuts greater than 40 acres in size.
+• ACCEPTABLE MANAGEMENT PRACTICES: Regulates timber harvesting practices that protect water quality.
+• USE VALUE APPRAISAL: Provides property tax reductions for keeping land undeveloped and managed for forestry uses.
+• ACT 250: Vermont's land use law regulating development, particularly timber harvesting over 2500' in elevation.
+• SHORELAND PROTECTION ACT: Regulates shore land development within 250 feet of a lake or pond, including tree removal.
+• and receive approval for all proposed heavy cutting activity even if an exemption applies; the law provides for the following exemptions:
+• Carry out an agricultural conversion plan and that the conversion will be completed and the land will be in agricultural production within five years;
+• Carry out a conversion subject to regulation by an Act 250 District Commission and the Vermont Natural
+Resources Board under 10 V.S.A. Chapter 151 Act 250 or by the Public Service Board under Title 30;
+• Be consistent with an approved Use Value Appraisal (UVA) ("Current Use") forest management plan;
+• Have a chip-harvesting plan approved by the Vermont Department of Fish and Wildlife under a permit issued under 30 V.S.A. §248; or
+• Be consistent with any other plan approved under other FPR rules.
+Since the law went into effect, FPR has been aiding landowners with compliance and has been documenting the level of heavy cutting activity. The level of heavy cutting statewide has remained consistent over the last decade. 
+
+## SHORELAND PROTECTION ACT
+
+Effective July 1, 2014, the Vermont Legislature passed the Shoreland Protection Act (Chapter 49A of Title 10, §1441 et seq.), which regulates shoreland development within 250 feet of a lake's mean water level for all lakes and ponds greater than 10 acres in size (550 lakes and ponds in Vermont meet this criterion). The intent of this legislation is to prevent degradation of water quality, preserve habitat and natural stability of shorelines, and maintain the economic benefits of lakes and ponds and their associated shorelands. The Act seeks to balance good shoreland management and shoreland development.
+Silvicultural activities are allowed in a protected shoreland area if the activities comply with a forest management plan approved by the Commissioner of FPR and follow AMPs. Parcels that don't have an approved plan must conform to the Vegetation Protective Standards under the Shoreland Protection Act for tree removal within the protection zone. Under these standards, existing vegetation must be measured using a plot system to determine how many trees must be preserved. Because streams can deliver sediment to a lake, they, and other sources of runoff associated with silvicultural activities, need to be protected and managed to prevent erosion from reaching a lake or pond.
+
+## ASSESSMENT: PLANNING
+
+The Division has a long history of proactive planning. The 2010 Plan built on this tradition by incorporating many of our other Agency and internal planning efforts into a broader vision that identified landscape-scale resource opportunities and created a forest sustainability strategy that linked the over-arching vision to program specific approaches. Since 2010, many of these planning efforts have been updated and other new planning documents and processes have been developed. Our 2017 Plan update incorporates these more recent documents, including:
+• Vermont has had a statewide GIS program for geographic information and related technology since the late 1980s.
+Known as the Vermont Geographic Information System (VGIS), it is managed by the Vermont Center for Geographic Information (VCGI). VCGI administers a clearinghouse for Vermont GIS data and provides access to GIS services and expertise to state agencies as well as academic, public, and private entities in Vermont.
+The Forest Ecosytem Monitoring Cooperative (FEMC) manages over three decades of Vermont's forest ecosystem data intended to benefit research, natural resource management, education, and public interest. In recent years, FEMC has grown to become a critical database management service and information coordinator for Vermont's long-term forest ecosystem and air quality studies. FEMC continues to upgrade and modernize its database service for both numerical and spatial data, real-time data access, data quality assurance and control, and ease of use for scientific, natural resource manager, education, and public interests.
+Our largest partner for data infrastructure remains the federal government, particularly the USDA Forest Service.
+Our program and strategies in the areas of Climate Change, Forest Health, and Forest Inventory are heavily dependent on federal data infrastructure. Forest Inventory and Analysis (FIA) is and will continue to be the most important data source to support Vermont's monitoring of forest health and sustainability. Adequate funding at the federal level is paramount to maintaining this important dataset.
+
+## ASSESSMENT: PARTNERSHIPS
+
+The Division has a legislative mandate to lead Vermont's forest stewardship and management efforts but we cannot carry out our mission and vision and implement this plan without the support of our major partner organizations.
+Our long history of collaboration with other public agencies, internal partners in ANR, throughout state, and municipal government, educational institutions, federal and regional partners, and numerous nonprofit and user groups has positioned us well to collectively leverage our resources to carry out the 2017 Plan. In 2015, it became apparent that money and staff will continue to be under pressure from budgetary pressures into the coming years.
+The work of our partners in supporting and carrying out this plan is essential. Some of our key partners are discussed below; others have been identified throughout this plan.
+
+## USDA FOREST SERVICE
+
+The USDA Forest Service, comprised of three separate and distinct units, has long been our key federal partner and their support for this plan at every level is the key to its success. • Forest health monitoring through the Forest Ecosystem Monitoring Cooperative and aerial surveys;
+• Forest pest management, such as invasive species monitoring and control work on developed recreation sites, and on both the GMNF and in state parks;
+• Timber sale marking assistance;
+• Forest fire control and emergency response;
+• Response to Tropical Storm Irene;
+• Landscape-scale planning efforts; and
+• Management of diverse forest habitats for wildlife.
+FPR has worked with GMNF staff since the early stages of this planning process to solicit their input on this plan. Personnel costs make up roughly 80% of the Division's expenditures. The second largest expense is grants. Grants range from small, one-time expenses to more substantial on-going commitments primarily with UVM and UVM Extension. Decreasing revenues have led to the inability to rehire positions after retirements and a reduction of some grant amounts. We have attempted to increase revenues through some fee-for-service work to other public agencies and retention of income generated from the sale of forest products from state land. The Division works closely with many departments within state government as well as several federal agencies, all of whom are facing budgetary pressures of their own. Additional revenue enhancements are necessary, and will require an integrated approach that draws upon partner resources to support efforts within Vermont. To address this issue, we will continue to develop performance measures that accurately capture our outcomes and help us tell our story. We will leverage our work using partners wherever possible to maximize the impact and efficiency of our staff, knowing that increased staffing and funding will be tight in the near term fiscal environment.
+
+## General Fund 60%
+
+Federal funds 20%
+
+## Special funds 18%
+
+Interdepartmental transfers 2%
+
+## VERMONT FORESTRY DIVISION'S FY16 BUDGET SOURCE
+
+Personnel services 81%
+
+## Operating expenses 11%
+
+Grants 8%
+
+## VERMONT FORESTRY DIVISION'S FY16 EXPENDITURES
+
+FOCUS AREA: SUPPORTING PARTNERSHIPS
+The Division provides leadership and is the focal point for forestry issues in Vermont, but we cannot carry out our mission and vision without the support of our major partner organizations. The work of our external partners in supporting and carrying out the 2017 Plan is essential, as detailed earlier. Our long history of collaboration with our internal partners within ANR is one of the strengths of this plan and has been mentioned numerous times in our strategies and assessments. This internal collaboration will be a priority for this planning period.
+We will continue our close cooperation with ANR, the VFW, and DEC (mentioned below), but also seek out new opportunities for collaboration with other parts of state government. Examples include the Agency of Transportation on initiatives such as green infrastructure planning and the Division of Marketing and Tourism for outreach efforts utilizing social media and other communication forums in which we lack capacity. We will also remain an integral part of the Vermont Forest Roundtable, which is a major connector to all our nonprofit and private partners in the Vermont forestry community.
+
+## FOCUS AREA: ORGANIZATIONAL CAPACITY AND WORKFORCE DEVELOPMENT
+
+The Division's greatest asset has always been its staff. A professional and dedicated workforce supported by upper management is critical in a climate of declining revenues. From a peak in the 1980's of 80 employees, in 2016 the Division had 57 full-time employees. In recent years, the Division has seen a significant number of retirements: 34 employees have retired in the last decade, and more are expected in the next few years. The loss of institutional memory due to retirements is a concern, as is the Division's ability to maintain its level of dedicated public service as staff levels are reduced. Maintaining a strong commitment to employees and teamwork is essential to meeting future challenges.
+To address this issue, the division will institute several steps. We will investigate better efforts to onboard and mentor newer employees. We are developing an employee guide so that all our staff are better informed on policies, procedures, and programs. We are also working on better performance measures. To address staffing, we will continue to seek opportunities to collaborate and employ interns and other temporary employees.
+
+## FOCUS AREA: POLICIES, RULES, AND LAWS
+
+Providing information, technical assistance, and education to attain compliance with Vermont's forest policies, rules, and laws has always been a Division goal. As financial and staffing levels decrease, we must seek innovative methods to support enforcement of Vermont's laws and regulations to participate in the development of policies and rules to support the protection of forests into the future, and to sunset laws that are no longer helpful. We also need to explore new methods of information outreach through social media. Finally, we will make sure our field staff is well informed on the latest laws and has adequate training in interpersonal and communication skills.
+
+## GOALS AND STRATEGIES
+
+In the 2017 Plan, we have reexamined and revised the goals and strategies from our 2010 Plan. This valuable resource will be a guide as FPR pursues common multi-state conservation goals. Plan, represent a strategic plan for the nation's forests that can direct limited resources where they are needed most. Through FAPs, state foresters can demonstrate how federal investments can be used to leverage other resources and produce measurable outcomes that address national priorities. To demonstrate the collective impact of the federal investment and its link to national priorities, the US Forest Service requested that FAPs include a new section focused on how states are meeting the national priorities. This new national priorities section in the 2017 Plan is designed around the three national priorities in the Farm Bill.
+
+## MULTI-STATE PRIORITY LANDSCAPES
+
+     CLIMATE CHANGE          OUTREACH AND CONSERVATION EDUCATION          PROMOTE SUSTAINABLE, ACTIVE PRIVATE FOREST MANAGEMENT       REDUCE WILDFIRE RISK      FLOOD RESILIENCY       
+We have selected several programs and projects in each national priority category that demonstrate how federal investments have resulted in successful, measurable outcomes. This is not intended as a complete or comprehensive list but is a representative sample of the leverage and value federal funds provide in accomplishing our collective work. For each of our highlighted programs and projects, we have provided:
+• A description and demonstrated how it ties into our desired futures conditions in the 2010 FAP;
+• Indicated the measures of success and corresponding accomplishments;
+• Identified our partners; and
+• Outlined how we will carry each program or project forward in 2017Plan.
+
+## FOREST LEGACY
+
+The Forest Legacy Program provides federal funds for the acquisition or conservation easements of forest land at risk of development. The program goals are to protect productive, working forests that provide ecosystem services on a landscape scale. This program incorporates Forest Stewardship plans, working with partners such as the Trust for Public Land and other land trusts, state and local governments, and the Vermont Housing and Conservation Board to finance and monitor parcels. The program also collaborates on community land protection needs through a smaller, related Community Forest Grant and Open Space.
+
+## STATE LANDS ACQUISITION AND MANAGEMENT
+
+The Vermont Agency of Natural Resources (ANR) has several programs for the acquisition and management of public land, including easements for critical habitat, landscape, recreation, and water quality protection. A principal source of funding for state land acquisition is the Vermont Housing and Conservation Trust Fund. ANR uses private and federal funds (including the Forest Legacy Program and the Land and Water Conservation Fund) to leverage limited Housing and Conservation Trust Funds. A variety of state, local, federal, and non-governmental partners are often involved. FPR administers lands acquired by ANR and provides some management services for all ANR lands, but more specifically for lands and easements acquired by FPR.
+
+## MEASURES OF SUCCESS
+
+• Reduce development, land-use conversion, and fragmentation of Vermont's forest land across all landscapes.
+• Support for tax programs, legacy projects, state land acquisition, and forest stewardship remains high among the public and state political leaders.
+
+## ACCOMPLISHMENTS/OUTCOMES
+
+FORESTRY UVA: The Forestry UVA Program has been extremely successful in conserving and managing working forest landscapes. Forty-eight percent of eligible private forest land in Vermont -1,846,743 acres -are under forest management with a UVA plan written to state-approved standards.
+FOREST STEWARDSHIP: Vermont's 12 county foresters are arguably the public "face" of the Division of Forests, reaching over 6,000 landowners annually. In addition, Vermont has two foresters who are funded largely by the Natural Resources Conservation Service (NRCS) and work with private landowners on NRCS programs to see that planning and implementation are consistent with the Forest Stewardship and Forestry UVA Programs. As of 2015, 15,000 acres are listed as Forest Stewardship acres in the USFS SMART system, with a backlog of eligible UVA properties meeting Forest Stewardship standards waiting to be entered. 
+
+## FOREST STEWARDSHIP
+
+• Continue to work with NRCS to assist private landowners and their foresters in planning and implementation, as well as expanding practices to address emerging resource concerns.
+• Strengthen the ability to report on SMART accomplishments through US Forest Service. Keep SMART aligned with UVA data systems.
+• Look for opportunities to encourage landscape-scale forest stewardship policies in local and regional planning agencies. 
+
+## National Priority 1 CONSERVE AND MANAGE WORKING FOREST LANDSCAPES FOR MULTIPLE VALUES AND USES
+
+## MEASURES OF SUCCESS
+
+• Reduce fragmentation of Vermont forest land across all landscapes.
+• Forest fragmentation is recognized by the Vermont legislature as an important issue and strategies to address it are implemented and funded.
+
+## Plan Strategy
+
+Maintain a mix of programs aimed at keeping forests in forests including UVA, Forest Legacy, local and regional planning, and land acquisition. 
+
+## Plan Strategy
+
+## National Priority 1 CONSERVE AND MANAGE WORKING FOREST LANDSCAPES FOR MULTIPLE VALUES AND USES
+
+PRIORITY AREA: Rural, Rural/Residential, Multi-State Regional ISSUE ADDRESSED: Landscape-level Conservation and Connectivity DESIRED FUTURE CONDITION 1: Conserve biological diversity across all landscapes GOAL 1: Protect, conserve, and restore landscapes, habitats, and species of greatest conservation need.
+
+## PROGRAM LANDSCAPE CONSERVATION TARGETS AND CURRENT USE ECOLOGICALLY SIGNIFICANT TREATMENT AREAS
+
+Vermont has a rich natural heritage, with at least 268 species of birds, 61 species of mammals, 42 species of reptiles and amphibians, more than 2,000 species of vascular plants, and innumerable species of non-vascular plants, fungi, and invertebrates. Past conservation efforts are typically reviewed on a parcel-by-parcel basis, depending on the desirability of the natural resource attributes, as well as social factors or opportunity.
+
+## Plan Strategy
+
+Support activities and leverage resources to protect and conserve landscapes and species of greatest conservation need.
+
+## Plan Strategy
+
+Encourage long-term connectivity and protection of landscapes, habitats, and species of greatest conservation need by increasing forest cover in all forested landscapes, especially in high priority forest blocks and in linkage areas between those blocks.
+
+## LANDSCAPE CONSERVATION TARGETS PROJECT
+
+The Landscape Conservation Targets Project has a landscape-rather than parcel-scale conservation design which features a rigorous scientific process with an emphasis on habitat connectivity, prioritizing each potential project in terms of its function or impact within the overall landscape. The goal of the project is to identify areas that are critical to the preservation of an ecologically functional landscape into the future to maintain and enhance the natural heritage, in the face of climate change and human population growth. This project was led by the Vermont Fish & Wildlife Department in close partnership with FPR and non-profit partners and will be used as a guide for many future conservation efforts in Vermont. It will be incorporated in the 2015 Vermont State Wildlife Action Plan.
+
+## ECOLOGICALLY SIGNIFICANT TREATMENT AREAS (ESTA)
+
+A provision adopted in 2009 under Vermont's forestry UVA program allows landowners with significant ecological sites to enroll and manage these sites for protection rather than timber. Under this important provision, private landowners can afford to protect these critical habitats and sensitive sites, including vernal pools, riparian habitats, unique natural communities, and sites of cultural significance. Although the acreage enrolled to date is small, ESTA Program will become an essential tool in protecting these sites.
+
+## MEASURES OF SUCCESS
+
+To identify and protect features of the Vermont landscape that need to be conserved in order to retain or enhance an ecologically functional landscape. This means:
+• A landscape of large unfragmented forests, healthy aquatic systems, and associated riparian areas;
+• Diversity of physical landscape features on which plant and animal natural communities depend; and
+• Ecological connections between these features.
+
+## ACCOMPLISHMENTS/OUTCOMES
+
+The Landscape Conservation Targets Project, using a landscape based matrix, has identified priority areas for an ecologically functional landscape and produced a spatial layer. This layer will be the basis for conservation targets. Encourage long-term connectivity and protection of landscapes, habitats, and species of greatest conservation need by increasing forest cover in all forested landscapes, especially in high priority forest blocks and in linkage areas between those blocks.
+• Incorporate appropriate layers of conservation targets in both the Vermont Wildlife Action Plan and Vermont FAP as a coarse filter to assist in identifying landscape-scale priority areas for conservation.
+Implement conservation strategies based on this work.
+• Incorporate layers of conservation targets for work carried out by partners to help identify landscape-scale priority areas for conservation.
+• Expand the use of ESTAs by informing and educating private landowners already enrolled in the UVA Program. Target landowners not enrolled in the UVA Program with information about the benefits of enrollment in the ESTA Program.
+
+## National Priority 1 CONSERVE AND MANAGE WORKING FOREST LANDSCAPES FOR MULTIPLE VALUES AND USES
+
+PRIORITY AREA: Urban, Rural, Rural/Residential, Multi-State Regional ISSUE ADDRESSED: Landscape-level biological diversity, and Species of greatest conservation need DESIRED FUTURE CONDITION 1: Conserve biological diversity across all landscapes GOAL 1: Protect, conserve, and restore landscapes, habitats, and species of greatest conservation need. 
+
+## STRATEGIC ACTIONS
+
+• Encourage management activities and develop conservation plans to protect and restore landscapes, habitats, genetic diversity, rare, threatened and endangered species, and species of greatest conservation need.
+• Monitor, plant, and retain native flora and fauna, including supporting native species restoration efforts with the Vermont Fish & Wildlife Department and other partners.
+• We envision healthy forests that provide suitable breeding and post-breeding habitat conditions for a suite of priority birds and sustained yields of timber and other forest products and services along the Atlantic Flyway.
+o Forest plans that manage for bird habitat and timber will be the norm along the flyway.
+o Parcelization and fragmentation rates will be reduced in priority forest blocks.
+o Priority bird species populations will stabilize or increase along the flyway. privately owned, and the bulk of timber-harvesting activities take place on these parcels. The harvesting guidelines are a proactive step in raising the standard of sustainable timber harvesting to maintain healthy forests.
+
+## National Priority 1 CONSERVE AND MANAGE WORKING FOREST LANDSCAPES FOR MULTIPLE VALUES AND USES
+
+## Plan Strategy
+
+Encourage a voluntary approach for attaining compliance.
+
+## Plan Strategy
+
+Support new and emerging policies and initiatives, including forest certification, forester licensing, Voluntary Harvesting Guidelines, and state guidelines for management of riparian buffers, vernal pools and other ecologically significant habitats.
+
+## MEASURES OF SUCCESS
+
+• Voluntary Harvesting Guidelines for Landowners in Vermont is widely used and has become the standard operating procedure in the state.
+• Vermont's forests are healthy, highly resilient, and capable of self-renewal, maintaining forest processes that are structurally complex, ecologically productive, and composed of a great variety of native flora and fauna.
+• Vermont's forests can maintain ecological and economic health, productivity, diversity, and overall integrity in the context of human activity and use, while meeting current and future needs.
+
+## ACCOMPLISHMENTS/OUTCOMES
+
+The guidelines were developed incorporating work carried out in other states and address a wide range of topics, including newer issues such as climate change impacts. The guidelines cover preparing for a harvest, conducting a harvest, protecting water resources, protecting soil health and productivity, biodiversity and wildlife habitat, and planning for uncertainty.
+These guidelines are now being implemented, positioning Vermont as a leader in timber harvesting that focuses on forest health and sustainability.
+
+## KEY PARTNERS
+
+• Audubon Vermont Harvesting Guidelines, and state guidelines for management of riparian buffers, vernal pools, and other ecologically significant habitats.
+• Outreach to landowners through existing forestry division programs, workshops, and online resources for the utilization of the guidelines.
+• Outreach to foresters and loggers through existing forestry division programs and workshops for the adoption of the voluntary harvesting guidelines.
+• Development of a simpler, pocket-sized guide. The 2-year Vermont Trails Collaborative is a partnership between FPR, Green Mountain National Forest, the University of Vermont, and numerous user groups. The goal of the Trails Collaborative is to establish a collaborative process to improve management of trails and recreation in the Green Mountain National Forest and throughout Vermont. Their first task was to generate important, trail-related information essential for the development of the Vermont SCORP in 2013-2014.
+
+## National Priorities 1 & 3 CONSERVE AND MANAGE WORKING FOREST LANDSCAPES FOR MULTIPLE VALUES AND USES ENHANCE PUBLIC BENEFITS FROM TREES AND FORESTS
+
+## MEASURES OF SUCCESS
+
+• A substantial contribution to the betterment of social and biological health in the region.
+• A trail system more sustainable today than it was 2 years ago and will continue into the foreseeable future.
+• Our understanding and application of science to trail and recreation management has improved.
+• We have empowered local and regional groups. • Manage and maintain existing state-owned lands and recreation facilities for public use and support additional recreational opportunities where compatible with the resource and supportive of SCORP.
+• Continue to implement the 2014 Vermont SCORP. 
+
+## ANNUAL MONITORING OF FOREST HEALTH CONDITIONS
+
+The health of Vermont's forest is monitored by periodic measurements of tree condition and other ecosystem parameters such as damage-causing agents and the diversity and structure of vegetation. Aerial surveys have been conducted since the 1960s to sketch-map forest health damage. Vermont's North American Maple Project (NAMP) plots have been used to track the health of sugar maple and other tree species since 1988. Surveys for insect and disease pests are conducted based on current or expected threat.
+Vermont participates in the National Forest Health Monitoring Program and receives cooperative funds for the collection of data on forest stress and disturbance using nationally standardized methods. Additional grants funded by the US Forest Service Forest Health Program or the Northeastern Area competitive process have allowed for more intensive monitoring of special issues.
+
+## Plan Strategy
+
+Monitor and report current forest health and evaluate potential threats.
+
+## Plan Strategy
+
+Monitor for forest health and productivity across all landscapes.
+
+## MEASURES OF SUCCESS
+
+• Early detection of forest pests and other problems.
+• Communication of forest health issues to managers for rapid response.
+• No damages exceeding 1,000 acres are missed.
+
+## ACCOMPLISHMENTS/OUTCOMES
+
+Aerial surveys covering the entire state have been conducted in late summer on an annual basis using the Digital Aerial Sketch-Mapping System. Among the findings was a recent outbreak of beech bark disease which has been brought on by a drought period. These detection surveys have also pinpointed several areas of rapid red pine mortality, highlighting the need to further study this problem.
+Thirty NAMP plots are rated annually. While the health of overstory maples remains healthy, data from these plots indicates that the lack of sugar maple regeneration is an increasing concern.
+Insect and disease monitoring has also provided information that has helped forest pest management. For example, hemlock woolly adelgid monitoring has revealed the impact of winter temperatures in Northern New England.
+Pheromone traps provide insight into the growing populations of two major defoliators: forest tent caterpillar and spruce budworm. Although results of surveys in high-risk areas for emerald ash borer and Asian long-horned beetle have been negative, to date the surveys have been improving chances of early pest detection. • Redirect surveys for non-native pests to new areas, as determined by risk assessments and the changing footprints of pest invasions.
+• Continue monitoring and encourage research on emerging issues.
+• Enhance use of geodatabases and other archiving systems to make monitoring information more widely available.
+
+## MEASURES OF SUCCESS
+
+• No data gaps in ongoing sets of critical data.
+• An increase in the number of data sets archived and readily available.
+• An increase in collaboration between scientists and technical specialists to synthesize information.
+• An increase in the use of data to identify long-term trends and understand resource issues.
+
+## ACCOMPLISHMENTS/OUTCOMES
+
+VMC continued to support long-term monitoring of forest bird, amphibian, and reptile populations; forest soil chemistry; weather; atmospheric chemistry; tree health and phenology; carbon biomass; forest pests; and stream hydrology. Some of these monitoring efforts have been expanded. Yearly monitoring of the urban forest began in 2011, using the I-Tree Eco methodology on 200 plots. In addition, the network of non-urban forest health monitoring plots was expanded to include plots statewide to allow yearly measurements across the full range of common forest types for the region. Also in recent years, VMC has modernized its database management to improve ease of use for scientific, natural resource manager, educational, and public interest audiences. Database services have been upgraded for both numerical and spatial data, as well as real-time data access and data quality assurance and control.
+
+## KEY PARTNERS
+
+• Over 50 cooperating agencies and organizations have contributed to the VMC database (including 17 colleges and universities, 11 state or federal agencies, and 17 private organizations)
+• The University of Vermont, Rubenstein School of Environment and Natural Resources • US Forest Service, Green Mountain National Forest
+
+## PLAN STRATEGIC ACTIONS
+
+• Support access to forest health data archives and collections.
+• Crosswalk all monitoring efforts into a common format that will enable cross-network integration of data.
+• Continue to support long-term monitoring projects, balancing historical consistency with evolving stakeholder needs. Use an enhanced plot network to add measurements of regeneration, seedling survivorship, and prevalence of invasives; include more detailed productivity measurements, and provide ground truth for remote sensing products.
+• Expand collaborative efforts within Vermont and enhance integration with regional and national monitoring programs.
+• Pursue urban FIA as a substitution for iTree. and developing resources to assist foresters and forest landowners in adapting their practices and forests to account for anticipated changes.
+
+## MEASURES OF SUCCESS
+
+## Plan Strategies
+
+Encourage appropriate forest management that maintains health and productivity.
+Support research and monitoring that improves the understanding of trends in air quality, weather, climate and how they affect forests.
+
+## Plan Strategies
+
+Encourage landscape level planning and management activities that maintain health, productivity, and ecological functions across all forests Promote widespread use of Vermont's Voluntary
+Harvesting Guidelines and climate resiliency recommendations.
+• Awareness of climate change effects on forests and methods needed to prepare for extreme weather events.
+• Forest management that incorporates strategies that improve climate change resilience. • Encourage landscape level planning and management activities that maintain health, productivity, and ecological functions across all forests.
+
+## ACCOMPLISHMENTS/OUTCOMES
+
+• Promote widespread use of Vermont's Voluntary Harvesting Guidelines and climate resiliency recommendations.
+• Provide technical assistance to foresters, forest landowners, and policy makers to implement climate adaptation strategies that create and maintain resilient forests in Vermont.
+• Support incorporation of climate adaptation strategies into the State Lands Acquisition and Management Programs.
+• Work with partners to monitor climate change adaptation demonstration projects. and focus efforts on priority landscapes, including sites with rare, threatened, and endangered species and natural communities.
+
+## MEASURES OF SUCCESS
+
+• An increase in the number of property owners and managers who recognize and manage invasive plant populations.
+• An increase in invasive plant reporting including early detection species.
+
+## Plan Strategy
+
+Prevent the introduction and slow the spread of invasive exotic species.
+
+## Plan Strategy
+
+Prevent the introduction and slow the spread of and eradicate where appropriate non-native invasive species that impact forest ecosystems.
+• Landscape-scale management implementation through local efforts including CISMAs.
+
+## ACCOMPLISHMENTS/OUTCOMES
+
+Several grant opportunities have supported terrestrial invasive plant management efforts in Vermont over the past 5 years. The program was launched in 2010 when the State of Vermont received an American Recovery and Reinvestment Act (ARRA) grant to fund the Public Campground Invasive Species and Outreach Project. This was a combined effort between FPR and the Green Mountain National Forest.
+Surveys were completed on 37 state parks with 2,100 campsites, 41 US Forest Service recreation sites with 300 campsites, and 160 miles of hiking trails including sections of the Appalachian and Long Trails. These data were analyzed to develop non-native invasive plant control projects and establish priorities for some of these high-risk sites. Contractors completed non-native invasive plant control work, including spraying with herbicides, manual and mechanical eradication work in 62 campgrounds and dispersed camping and roadside recreation sites.
+FPR has built on those efforts with three additional grant opportunities:
+• Building Capacity for an On-the-Ground Invasive Plant Management Program (2010) Accomplishments from these various projects include documenting and publicizing plant management demonstration areas, providing targeted information about existing cost-share programs for invasive plant treatment to landowners and managers. We have continued to increase the pool of resource managers trained in invasive plant management and developed tools for landowners and land managers to assess, map, and manage invasive plant populations and on how to hire a contractor. One of the key accomplishments was the development of a database of 326 volunteer groups; developing recruitment materials, a toolkit of resources for volunteers, and • Prevent the introduction and slow the spread of and eradicate where appropriate non-native invasive species that impact forest ecosystems.
+• Support and update vtinvasives.org, a website developed to provide information about non-native invasive plants and pests.
+• Provide communities and partners with technical assistance and resources for invasive mapping, prioritization, and treatment.
+• Encourage the development and support of CISMA's or other multi-partners' approaches to managing invasive plant populations.
+• Continue to provide statewide leadership in invasive plant management.
+• Increase the value of Vermont's raw and value-added products through the development of in-state and export markets;
+• Attract a new generation of entrepreneurs to Vermont's farm, food system, forest, and value-added chain by facilitating more affordable access to the working landscape; and
+• Increase the amount of state investment in working lands enterprises, particularly when it leverages private and philanthropic funds.
+
+## MEASURES OF SUCCESS
+
+• New jobs in the forest and agriculture industries are created.
+• Aggregated gross income in the sectors is increased.
+• Business output is increased.
+
+## ACCOMPLISHMENTS/OUTCOMES
+
+Based on outcomes of 39 completed grant projects (both agricultural and forestry sectors combined), the initiative has resulted in 65 full-time equivalent jobs created in the first year of grant investments, aggregated gross income increased by over $4,931,168, and an increased product output by businesses of 70% KEY PARTNERS
+
+## • Cooperating businesses
+
+• Vermont Agency of Agriculture o The Forestry Subcommittee of the WELB Board, in collaboration with Yellow Wood Associates, is currently completing work on the Vermont Forest and Wood Products Systems Analysis. The goal of the project is a comprehensive report to establish a strong foundation for increased support and strategic growth in Vermont's forest products sector. The project engaged a broad range of industry stakeholders and included exploration and analysis of forestry and wood markets, products, and services. The final report will:
+ identify market opportunities,  facilitate connectivity across the sector,  identify gaps in infrastructure,
+
+##  identify priority interventions, and
+
+ develop strategies to promote the forestry and wood products industry within Vermont.
+• Strategies supporting a sustainable forest products economy will be added to the updated FAP.
+National Priority 3 
+
+## Plan Strategy
+
+Address non-point source pollution associated with forest land and forestry operations to meet phosphorus reduction allocations across the landscape, including the EPA Lake Champlain TMDL.
+
+## MEASURES OF SUCCESS
+
+• Non-point source pollution associated with forest management activities is reduced.
+• Use of portable skidder bridges becomes a standard operating practice for stream crossings on logging jobs.
+
+## ACCOMPLISHMENTS/OUTCOMES
+
+Portable skidder bridges are designed and intended for use as temporary structures for crossing streams during logging. Portable skidder bridges are becoming widely viewed as a BMP for controlling non-point source pollution associated with timber harvesting operations. FPR is working with partners and promoting and demonstrating the use of portable bridge designs on timber-harvesting operations throughout Vermont. The use of portable skidder bridges as a method for crossing streams during logging operations is gaining popularity as loggers, landowners, and foresters realize their environmental and economic advantages.
+KEY PARTNERS 
+
+## PLAN STRATEGIC ACTIONS
+
+• Address non-point source pollution associated with forest land and forestry operations to meet phosphorus reduction allocations across the landscape, including the EPA Lake Champlain TMDL.
+• Inform loggers, landowners, and foresters about the benefits of using portable skidder bridges through workshops and presentations, field demonstrations, informational brochures, static displays, video and web production, and news articles.
+• Provide portable skidder bridges to loggers for purchase, loan, and rental using a variety of means and partners.
+• Provide assistance and support for existing and start-up businesses that would fabricate and sell portable skidder bridges.
+• Incorporate BMPs and all available tools in NRCS, EQIP practices.
+• FIA statistics showing an increasing trend in forest carbon stored on private and public forest land.
+
+## ACCOMPLISHMENTS/OUTCOMES
+
+Our recent update to the FPR website includes a new Climate Change and Forests page with fact sheets and useful links to information that educates foresters and forest landowners about the critical role forests play in reducing atmospheric greenhouse gas about the value of forest management strategies in maintaining and increasing forest carbon, and about the current carbon offset markets available to stimulate long-term investment in forest carbon.
+
+## KEY PARTNERS
+
+• Cooperating landowners
+• Northeast Institute for Applied Climate Science
+• US Forest Service, Forest Inventory and Analysis
+
+## PLAN STRATEGIC ACTIONS
+
+• Support climate policy that reflects forest contributions to achieving substantial net reductions in greenhouse gas emissions.
+• Work with State Lands foresters to establish demonstration areas where forest carbon management can be used.
+• Work with the Foresters for the Birds Program to incorporate forest management strategies that highlight forest carbon management as a co-benefit to bird habitat management.
+• Explore the feasibility of establishing a forest carbon offset pilot project on State Lands.
+
+## National Priority 3 ENHANCE PUBLIC BENEFITS FROM TREES AND FORESTS
+
+PRIORITY AREA: Urban ISSUE ADDRESSED: Green Infrastructure DESIRED FUTURE CONDITION 3: Maintain and enhance forest contributions to ecosystem services.
+GOAL 2: Maintain and enhance soil, water, and air resources.
+
+## PROGRAM GREEN INFRASTRUCTURE INITIATIVE
+
+In 2011, ANR and the Green Infrastructure Roundtable invested considerable effort in developing a strategic plan for developing a statewide Green Infrastructure Initiative. The overarching goal for the Vermont FAP is to restore and maintain predevelopment hydrology in Vermont's developed areas through the use of low-impact development (LID) and green stormwater infrastructure (GSI) practices. To meet these goals, it was recognized that a full spectrum of resources must be leveraged and strategically applied to promote the growth of forests and trees and implement other GSI practices and LID principles where they matter most. This work has moved Vermont from the planning stage to tactical stage where implementation of water quality protection through a coordinated effort is focused on the benefits of natural systems and the reduction of urban stormwater runoff. Over the past 5 years the Division of Forests has worked to implement the following key elements of its FAP:
+
+## Plan Strategy
+
+Encourage trees and forests for flood mitigation and storm-water management.
+
+## Plan Strategy
+
+Promote forest practices for water quality protection in new land development and retrofits including low impact development and green stormwater infrastructure.
+Provide high-priority municipalities with technical and financial resources, such as the Green Infrastructure Toolkit, which encourage and incentivize implementation of GSI practices;
+• Help municipalities understand the benefits of utilizing trees and other GSI practices and LID principles for stormwater management;
+• Provide design professionals and municipal officials with the training and education necessary to understand and implement LID and GSI projects to foster connectivity between the trees and the landscape, thus promoting environmental stewardship; and
+• Build capacity within state government to act as the leader, role model, and support system for professionals, landowners, and municipalities.
+The Division of Forests' approach combines the expertise of many external partners and relies on statewide coordination through ANR for technical and financial assistance, as well as educational outreach. These activities have the Division closer to meeting the following desired future conditions:
+• Maintain and enhance forest ecosystem health and productivity;
+• Maintain and enhance an ethic of respect for the land, sustainable use and exemplary management; and
+• Vermont has a legal, institutional and economic framework in place for forest conservation and sustainability.
+
+## MEASURES OF SUCCESS
+
+• Stormwater in urban areas is reduced through green engineering and low-impact development.
+• Impervious surface is reduced.
+• No net loss in forest cover.
+
+## ACCOMPLISHMENTS/OUTCOMES
+
+• Creation of Vermont's Green Infrastructure Initiative within the Vermont Department of Environmental Conservation's Ecosystem Restoration Program with dedicated staff.
+• The signing of Executive Order 06-12 which asks State Agencies to act as role models for LID and GSI adoption.
+• Increased training and networking opportunities for design professionals.
+• Focused, targeted efforts to raise awareness at the municipal level on LID principles and GSI practices.
+• Non-profit groups actively educating the public on stormwater issues.
+• Including additional LID principles and GSI practices in the Vermont Stormwater Manual revision process. • Continue to train and provide networking opportunities for design professionals.
+• Continue to raise awareness at the municipal level on LID principles and GSI practices.
+• Actively educating the public on stormwater issues. 
+
+## National Priority 3 ENHANCE PUBLIC BENEFITS FROM TREES AND FORESTS
+
+## Plan Strategies
+
+Enhance public awareness and education of the components of functioning urban ecosystems.
+Encourage citizen involvement in forest health and protection.
+
+## Plan Strategy
+
+Educate and engage the public in forest stewardship and citizen science, including
+
+## Stewardship of the Urban Landscape Tree
+
+Stewards and Forest Pest First Detectors.
+FOREST PEST FIRST DETECTOR (FPFD) PROGRAM:
+In response to the growing threat of invasive pests pose to Vermont's forests, state and federal entities working together, targeting invasive tree pests, identified that there was a need to support local leaders by providing ongoing outreach, education, and local planning and supporting survey efforts. To address this need, the Vermont FPFD program was established. First Detector volunteers are Vermont's front-line defense against pest infestations in the state.
+
+## MEASURES OF SUCCESS SOUL:
+
+To train individuals in communities across the state by:
+• Enhancing their understanding of trees and proper tree care.
+• Enhancing their understanding of urban forestry as a field and within the context of the state of Vermont.
+• Making them a part of a cohort of regional citizens committed to improving the environmental, social, and economic quality of their communities through trees.
+FOREST PEST FIRST DETECTORS:
+The goal of Vermont's FPFD program is to create a group of well-trained, committed volunteer leaders at the community level to:
+• Increase public awareness about the threat of tree pests to Vermont's forests.
+• Serve as a local tree pest expert.
+• Help coordinate local volunteer efforts.
+• Assist their community in preparing for and responding to invasive forest pest infestations.
+
+## ACCOMPLISHMENTS/OUTCOMES
+
+More than 400 Vermonters are trained as SOUL tree stewards. Currently, there are 147 volunteers, representing over 110 communities in Vermont, trained as Forest Pest First Detectors.
+
+## KEY PARTNERS
+
+• University of Vermont Extension • Continue to train SOUL stewards and FPFDs in communities across the state, targeting those who do not have active participants.
+
+## Preface: Executive Summary
+
+Forested mountains and hillsides and a rural working landscape are essential elements that contribute to Vermont's unique character and its name the "Green Mountain State." Forests cover more than 78 percent of the state and, of particular importance to the Vermont Forest Legacy Program, approximately 81 percent of the forestlands are privately owned. Forests provide a wide array of benefits including timber and wood products, recreational opportunities, wildlife habitat, scenic vistas, clean water, and cultural resources. A number of circumstances in Vermont threaten the conversion of forestlands to other uses, including population increases, changes in landowner attitudes, fragmentation and parcelization of many forested areas, posting of land that discourages certain uses, tax policies, urban sprawl, and resort and second home development. These circumstances affect private forest lands throughout the state and broadly across the landscape.
+The Forest Legacy Program (FLP) is a partnership between participating states and the USDA Forest Service to identify and help protect environmentally important privatelyowned forestlands from conversion to non forest uses. In order to receive FLP funds, each state must determine areas where the most valuable forestlands face the greatest threats, solicit and receive input from the public, and seek approval of these Forest Legacy Areas from the Secretary of Agriculture. This process is called the Assessment of Need (AON). The Vermont Department of Forests, Parks and Recreation is charged with this task and also administers the program for the state. Once a state's Forest Legacy Area is approved, landowners from towns in the program may then submit tracts or projects to the state to be considered for funding through the FLP.
+Vermont's first AON was approved in 1994. By January 2010, 30 projects approaching 66,000 acres were conserved with $24 million FLP dollars and additional matching funds. Among these was the first approved FLP project in the country at Cow Mountain Pond in the Town of Granby.
+In Vermont, conservation easements with willing landowners are the main tool used for protecting these resources, though fee acquisition by the state or a municipality of the state of strategic parcels also occurs.
+In The Forest Legacy Area was determined using large forest blocks, productivity of soils, and fish and wildlife habitat as indicators of forests that best meet the Eligibility Criteria described in Section V, C, page 31.
+The threat of conversion of Vermont's private forestlands to non-forest uses is widespread across the state and is considered to apply to virtually every forested parcel. These threats include parcelization and fragmentation of forestland (due to increased state population, changing demographics and state and local regulations favoring open, agricultural land) and loss of public access to privately owned forest land. All areas in the Forest Legacy Area are considered threatened by these conversions.
+Development of this AON has been reviewed and supported by the Vermont Forest Stewardship Committee and many of our partner organizations. The public helped determine the boundaries of the Forest Legacy Area through meetings hosted by 11 regional commissions and access to the AON was available on the Department of Forests, Parks and Recreation website.
+Each town that was included within the boundary of the Forest Legacy Area, either the entire town or a portion of the town, was contacted via letter to the selectboard to offer those towns the opportunity to opt out of the program.
+The following 20 towns and 4 unorganized towns and gores were included in one of three Forest Legacy Areas in the old AON but are not included in the Forest Legacy Area under the new AON. All were sent letters explaining that their towns would not be included in the new AON: The 11 regional planning commissions coordinated public meetings to receive feedback on the AON and to determine which towns would participate.
+Thank you also to the people who participated in meetings and provided feedback to the draft document. We appreciate your interest and involvement in this process.
+
+## I. Introduction
+
+Overview , 2007). There are many threats to this valuable resource that occur throughout the state and across the landscape. The FLP helps Vermont make progress in minimizing fragmentation and parcelization of private forestlands to benefit the timber and wildlife resources; and towards creating more opportunities for public access for recreation on these lands. Perhaps most importantly, the survival of Vermont's forestlands and timber and recreation industries depends significantly on our ability to maintain large, contiguous forested areas, and FLP is one of just a few funding sources available to Vermont that can make this possible.
+Vermont's Forest Legacy Program (FLP) was launched formally in 1994 through the approval of its first AON. By the end of June, 20010, 9 fee acquisitions totaling 9,800 acres and 24 conservation easement acquisitions totaling 48,000 acres were completed in the state with Forest Legacy funding. Among these was the first approved FLP project in the country at Cow Mountain Pond in the Town of Granby.
+An additional 11 fee acquisitions, totaling 1,500 acres, and 9 conservation easement acquisitions, totaling 10,000 acres, were completed on projects used for in-kind match.
+In 
+
+## II. Assessment of Uses and Values of Vermont Forests
+
+## A. Overview of Vermont's Forest Resources
+
+The importance of forests to the environmental, economic, and social fabric of the state is demonstrated by the fact that forests cover more than 78 percent of the state. The current amount of forestland is significant as nearly all of the state had been cleared at one time for agriculture by the 1850s. Of particular importance to the Forest Legacy Program, approximately 81 percent of these forestlands are privately owned. The forests provide a wide array of resources including timber and wood products, recreational opportunities, wildlife habitat, scenic vistas, clean water, and cultural resources. These resources are described in more detail in this section.
+The degree of forestation varies across the state, ranging from 94 percent forested in the Southern Green Mountains to 40 percent in the Champlain Valley (Vermont Fish and Wildlife, 2005). Overall Vermont's forested lands have been increasing in acreage, number of trees, annual growth, volume, and maturity as well as showing improvements in health for many decades. Vermont's hardwood forests have shown continued improvements since 1985. Ongoing monitoring of sugar maple forests showed that 92 percent of trees on plots surveyed were healthy in 2005. In 1997, 97 percent of over story trees had low dieback, and conifer species were in generally good condition (Vermont Department of Forests, Parks and Recreation, 1999).
+Vermont forests provide an economic base for employment, tourism, and recreation, and support a strong forest products industry. The sale of forest products contributes $1 billion to the state's economy annually. The forest-related recreation and tourism activities in the state contribute nearly $500 million to the state's economy annually. These industries together employ more than 13,000 people. Forest-based manufacturing represents 11 percent of the statewide value for manufacturing (North East State Foresters Association, 2007). Wood also provides one of the state's most significant current and potential sources of renewable energy. The use of wood fuel helps to reduce dependence on imported oil, while providing an economic benefit to communities and reducing greenhouse gas emissions (USDA Forest Service, 2005).
+Fish and wildlife based activities such as hunting, fishing, trapping, and watching wildlife, which rely on forest-based habitat, bring over $386 million into Vermont's economy annually. Vermont is second in the nation only to Alaska in the percentage of its population that participates in these activities (U.S. Fish & Wildlife Service, 2001). These are important contributors to the economy, life style, and culture of the predominantly rural state.
+
+## B. Timber
+
+Of Vermont's forested acres, 97 percent (4.5 million acres) are classified as timberland by the USDA Forest Service. Timberland is forest land that is capable of producing commercial crops of timber (Wharton et al., 2003) Vermont is recognized for its high quality hardwood lumber, particularly that from sugar maple. Other species of importance for timber in the state are white pine, spruce, white ash, red maple, and birches. The primary timber products are sawlogs, veneer logs, and pulpwood. Overall, hardwood species outnumber softwood species in Vermont by a ratio of 2 to 1. Sugar maple is the most prevalent hardwood species, followed by American beech, red maple, yellow and paper birch, and white ash. Hemlock is the leading softwood species (Wharton et al., 2003). Historically, cutting pressure has been greater on softwoods, other than hemlock, than on hardwoods. The ratio of growth-to-removals (G/R) varies among species. Species with the most favorable G/R ratios are hemlock, red maple, sugar maple, ash, and the oaks. In Vermont these species have been increasing in the portion of the total resource they represent since 1973, resulting in the overall pattern of forest composition as having fewer species making up more of the inventory. There also appears to be a relatively low proportion of sawlog-sized trees in the population. (Vermont Department of Forests, Parks and Recreation, 1999).
+
+## Records of timber harvest in
+
+## C. Carbon Storage
+
+Although not specifically identified as a traditional forest use in the past, the carbon storage function of Vermont forests and forest products has been significant for many decades. Northeastern forests sequester more carbon than forests in any other part of the U.S. (USDA Forest Service, 2005). The disposition of forest products plays a key role in how forests contribute to environmental carbon budgets. The greater proportion of harvest volume that goes into durable products, the greater total sequestration effect obtained.
+It appears likely that the carbon sequestering benefits of forest lands and products will increase in value, both economically and ecologically, to the state in the future.
+Ecologically, Vermont's extensive forest lands provide a positive contribution toward lowering atmospheric carbon levels and maintaining a livable climate. Economically, a value cannot be placed on the amount of carbon Vermont forests and forest products sequester at this time. However, it is anticipated that, as carbon accounting methods and markets develop, Vermont forests may have significant value in this regard.
+
+## D. Energy from Wood (Biomass)
+
+Wood provides one of the state's most significant sources of renewable and environmentally friendly energy. Vermont is a national leader in the research, development, and commercialization of wood energy in the form of clean combustion of wood chips for heat and electricity production. Nearly all of Vermont's wood chip usage comes from mill wastes or sustainably harvested chips from low-quality trees.
+At the time of this assessment, about six percent of Vermont's energy to produce electricity comes from wood. This represents an expanded use of wood for energy compared with the past and has increased the opportunity to utilize low quality trees.
+The potential for deriving additional energy from wood in Vermont in the future, as well as the importance or value of that potential, has not been calculated.
+Many of the state's households burn wood as their primary fuel, and wood-using industries in Vermont have long used wood for space heating and drying lumber. Vermont also has two commercial electric generating stations and several industrial sized heating plants using wood chips. Wood chips are used to heat 25 schools around the state, two state office complexes, and several other facilities.
+The use of wood fuel helps reduce dependence on fossil fuels, both imported and domestic, while providing an economic benefit to communities and reducing greenhouse gas emissions from fossil fuels. The release of carbon dioxide from the combustion of wood is roughly equivalent to the carbon dioxide sequestered or absorbed by the growing trees. Therefore heat generated from wood burning is considered "carbon neutral," and, when used in the place of fossil fuels, reduces the release of greenhouse gases.
+
+## E. Other Forest Products
+
+The contribution of forest-based manufacturing and forest-related tourism and recreation to the Vermont economy in 2005 totaled more than $1.5 billion. The aesthetic value of Vermont's forests during the fall foliage season provides a major attraction to both visitors to and residents of the state. Forest-based manufacturing contributed $1.0 billion in value of shipments to the economy in 2005 or 9.3 percent of Vermont's total manufacturing sales (North East State Foresters Association, 2007).
+Collection, use, and sale of nontimber products are an important part of traditional rural life in Vermont. Nontimber products include sap for maple syrup, weaving and dyeing materials, berries, mushrooms, bark, burls, cones, foliage and branches, roots, herbs, nuts, seedlings, mosses and lichens. These and other products are collected wild or cultivated in the forest. The economic value of nontimber products to the state is nearly impossible to estimate since much of the material collected or cultivated is either for personal use or is not reported as separate income. Timber management is not by definition in conflict with these nontimber products. Some forest management plans tailor silvicultural prescriptions to support or even favor nontimber products.
+
+## F. Bedrock and Surficial Geology
+
+Vermont's landscape represents more than one billion years of geologic history. Vermont rocks formed in a variety of environments, originating as sediment deposited in ocean basins, on beaches and in tidal flats, as lava which flowed and explosively erupted from volcanoes, and as metamorphic rocks, folded and broken as continents collided along ancient plate boundaries. Glacial ice and meltwater sculpted, eroded, and deposited sands and gravels on the underlying hard rock. Water, wind and human actions continue to alter the Vermont landscape.
+The following summary of both bedrock and surficial geology in Vermont is adapted from sections of the book Wetland, Woodland, Wildland: A Guide to the Natural Communities of Vermont by Thompson and Sorenson. Vermont rocks have been subjected to continental movement, building and wearing down of mountains, and volcanic activity. Surficial deposits of gravels, sands, silts, and clays were made on top of bedrock as a result of glacial activity. In some places, these deposits are so thick they completely mask the effect of the underlying bedrock.
+Most of Vermont's bedrock began as sea sediments, many of which were subjected to continental movement. These rocks and others formed through volcanic activity have all been subjected to change (metamorphosis) by the forces of pressure, heat, and/or water. The oldest mountains in Vermont are found in the Southern Green Mountains where some rocks remain from the first known mountain building event of more than a billion years ago. When the continental plates moved apart, basalt and other volcanic rocks poured out. These are visible today in the northern sections of the Green Mountains. The glaciers that covered northern North America for tens of thousands of years had a huge impact on the soils and vegetation in the state. Glaciers reached maximum extent about 20,000 years ago and were gone by about 13, 500 years ago. The ice was a mile thick in places, putting great weight upon the land and scraping everything in its path. When the climate warmed, huge amounts of water were released along with boulders, gravel, sand, silt, and clay that melted out of the ice. Glacial deposits of clay soils, kames, deltas, and eskers are found today in river valleys and lower elevations.
+Most of the rest of the state is covered with glacial till--unsorted rock fragments left behind by retreating glaciers. Soils derived from till are the most common in the state. Basal till, which was deposited at the base of the ice, is dense and prevents water from moving downward into the soil. Ablation till was carried higher in the ice and was left behind as glaciers receded. The till in any location may be derived from rock miles away and therefore have a different chemical composition from the bedrock beneath it.
+Where these surficial deposits are particularly deep, they mask the effects of the bedrock and influence the vegetation that grows there.
+
+## G. Mineral Resources
+
+The total value of non-fuel mineral production in Vermont, including sand and gravel, was $73 million in 2003, Land or interest in land is typically not acquired if the mineral rights have been severed. In the case of the mineral rights being held by a third party acquisition may be considered as long as 1. the likelihood of the third party exercising their right to extract minerals is so remote as to be negligible and 2. the severed mineral rights are not listed as an exception to the title insurance policy. rights being Vermont's conservation easement allows landowners to use gravel resources for improvements on the conserved property.
+
+## H. Soils
+
+This section on soils was provided by Thomas Villars, Soil Resource Specialist, USDA Natural Resources Conservation Service. Broad patterns of soil types can be used to understand the differences among forest types in Vermont at a broad scale. The great diversity throughout the state in soil texture, chemistry, and drainage class is partly a reflection of the geologic origin of the soils. Generally speaking, however, soils that develop on bedrock of limestone or marble, and therefore contain more calcium carbonate, may grow more productive forests than those soils with granitic or quartz bedrock. This is partly due to the greater acid neutralizing capacity of the calcium carbonate.
+Due to variations in geology, glacial history, elevation and climate, over one hundred and fifty soils are distributed among Vermont's six physiographic regions. The soils in the uplands are all descendants of localized glacial till. Other soils have formed in alluvium, sandy and gravelly outwash, lacustrine sediments, and organic materials.
+The soils in the Green Mountains are uniformly acidic and loamy textured. They vary in depth to bedrock and drainage. The Tunbridge series, the State Soil, is well drained and twenty to forty inches deep to bedrock. Other soils are underlain by densely compacted glacial till and have a seasonal high water table. At elevations above 3000 feet, soils are colder and even more acidic, supporting only spruce and fir, or alpine vegetation above treeline. The land is almost entirely wooded and used for recreation, wildlife habitat and forestry.
+The Champlain Valley was submerged beneath seawater for a time during the last glacial period. Clayey soils, like the moderately well drained Vergennes and poorly drained Covington series, formed in the marine sediments left behind after the sea eventually drained out the St. Lawrence River. These soils have a relatively high pH, warm temperatures, and gentle slopes. This region is the most active agricultural area in the state. Shallow soils like the Farmington series are on ledgy limestone knolls throughout the region, and sandy soils like the Windsor series are on deltas and terraces along streams.
+The Vermont Valley, extending down U.S. Route 7 through Rutland, Manchester, and Bennington, also has soils with relatively high pH, warm temperatures, and gentle slopes. The glacial till soils, derived from limestone and marble, are loamy, rich in calcium, and are great agricultural soils. There are sandy and gravelly soils on terraces and fertile alluvial soils on floodplains that are inundated almost yearly.
+The Vermont Piedmont is a hilly, dissected region that is home to many small hill farms and generally productive soils. Because of the presence of thin layers of limestone in the schist and phyllite bedrock that predominates in the region, the soils have some natural fertility, with only moderate acidity levels and loamy textures high in silt content. The deep, seasonally wet Buckland and Cabot soils, formed in dense compacted glacial till, are common in farm fields and wetlands, while shallow Glover soils, less than twenty inches to bedrock, are more typical of wooded sites and poor pastures. Land use is a patchwork of farms, fields, forests, and small villages.
+The Northeast Highlands are similar to the Green Mountains. Soils are very acidic, somewhat coarsely textured, and relatively low in fertility due to the granitic bedrock in the region. Cold, very poorly drained organic soils are in the many bogs scattered throughout the region. The land is almost entirely wooded and used for forestry, hunting, and recreation.
+The Taconic Mountains, Vermont's lesser known mountain range, is in the southwestern part of the state. The common soils, like the Duchess, Macomber and Taconic series, are derived from the slate and phyllite bedrock characteristic of the region. They are acidic, somewhat silty in texture, primarily well drained, and vary in depth to bedrock from just a few inches to many feet thick. Above 2500 feet, the soils are colder, more acidic and closely resemble the soils in the Green Mountains in their morphology. Land use is primarily hardwood forest, with small farms and country homes scattered about.
+
+## I. Wildlife Harvest
+
+The harvest of Vermont's wildlife under regulated seasons, and regulated manner and method of take, has been conducted in the state for more than 300 years. Over 55 species of wildlife are harvested principally in the fall, winter, and spring under heavily regulated hunting and trapping seasons. From 2001 to 2006, over 2.5 million pounds of meat from white-tailed deer, moose, and black bear were harvested from the forests of Vermont. More than 80,000 households participate in these annual harvests. Surveys show that over 68 percent of these people share harvested meat with their neighbors and others in their communities (e.g. community game suppers). The harvest and utilization of these natural resources as food, fiber, and for other products require a healthy forested landscape.
+
+## J. Biological Diversity and Wildlife Habitats
+
+As described in Conserving Vermont's Natural Heritage published by Vermont Fish and Wildlife Department and Agency of Natural Resources, Vermont forestlands offer important contributions toward preserving the diversity of life forms and ecological systems in the state and provide a wide array of benefits to wildlife at three different scales: across the landscape; at a natural community level; and at a discrete habitat level for particular species.
+
+## Landscape Level Features
+
+Vermont has three major landscape scale forest types-Northern Hardwood, Spruce-Fir-Northern Hardwood, and Oak-Pine-Northern Hardwood. Large, interconnected blocks of these forests are needed to meet the habitat needs of wildlife species that move throughout the landscape including black bear, marten, lynx, river otter, and others that cross forest boundaries (Vermont Fish and Wildlife, 2005).
+Based on Vermont's Wildlife Action Plan, Northern Hardwood Forests provide habitat for 14 animal species of greatest conservation need, 22 animal species of medium priority, and 59 plant species. Spruce-Fir-Northern Hardwood Forests provide habitat for 16 animal species of greatest conservation need, 20 animal species of medium priority, and 21 plant species. Oak-Pine-Northern Hardwood Forests provide habitat for 15 animal species of greatest conservation need, 15 animal species of medium priority, and 89 plant species (Vermont Fish and Wildlife, 2005).
+The forests of Vermont, New Hampshire, Maine and New York are home to the highest concentration of breeding bird species found in the continental U.S., making this area globally important for bird populations. A century of research has shown that many bird species are sentinels of the planet's health. For many species, a significant percentage of their total population breeds in Northern New England, referred to as the Atlantic Northern Forest (Audubon Vermont, 2005).
+
+## Community Level Features
+
+Besides the three major landscape forest types described above, there are many other natural community types and habitats associated with forest lands. These include forested wetlands and vernal pools. Forested wetlands provide a variety of functions including essential habitat for many animal species, flood and erosion protection, nutrient and pollutant filtration, and groundwater recharge. Vernal, or temporary, pools typically occur in small depressions in upland forests but also in depressions of some forested swamps and are well shaded by the surrounding forest canopy. They are best known as important breeding habitat for amphibians and are used by fairy shrimp, fingernail clams, snails, eastern newts, green frogs, American toads, spring peepers, and aquatic insects. In addition, riparian (streambank) habitats are important resources at the community scale. These consist of upland, wetland, and aquatic communities that provide many important ecological functions. Functions include maintaining water quality, providing shade to cool waters, serving as travel corridors for animals, and providing specialized habitats for plants and animals.
+
+## Species Level Features
+
+Vermont forestlands provide important habitats for numerous rare and common species of plants, mammals, birds, amphibians, and reptiles. All forest types, including both mature and early successional, provide important habitats. Deer wintering areas provide protection from deep snow, cold temperatures, and wind and are essential for maintaining and managing white-tailed deer in the state. Maternity colonies of bats prefer cavities of older trees and trees with a loose bark structure, such as shagbark hickory, to give birth and raise young during summer months. Streambank (riparian) vegetation provides significant foraging habitat for wood turtles. "Mast" is the term used to describe the seeds of shrubs and trees that are eaten by wildlife. In Vermont, 171 species are known to use beech or oak stands as habitat (DeGraaf et al., 1992). Stands of beech or oak used by black bear are considered as necessary habitat for their survival. Young tree and shrub habitats occur throughout the state in various forms in wet and dry conditions and at mid-and low elevations. The species of plants, mammals, birds, amphibians, and reptiles that require these early successional habitats to survive are declining generally in the Northeast region including ruffed grouse, American woodcock, golden-winged warbler, and New England cottontail.
+
+## K. Water Resources
+
+Where forested, watersheds produce water in excess of what is used by plants, stored in the soil, or lost by evaporation. The importance of private forestlands to these processes cannot be underestimated. Nearly 90 percent of the people who use water from forested watersheds in the Northeast are served by watersheds on state and private land. So forestlands are a significant source of water for stream flows and aquifer recharge in the state. They also play an important role in influencing the timing, quantity, and quality of water and maintaining streambank (riparian) and instream habitats for fish and other aquatic organisms.
+Vermont has 17 river basins, representing more than 7000 miles of rivers and streams and over 800 lakes and ponds, which drain into four major watersheds. The Connecticut River, the longest in New England, flows along Vermont's eastern border with New Hampshire; 's., Lake Champlain, the sixth largest fresh water body in the U.S, lies on Vermont's northwestern boundary with New York; Lake Memphremagog, lies on the border with Vermont and Quebec, Canada; finally the Hudson River drains the south western corner of the state. Competing demands for water consumption, recreational use, and habitat needs are making forest lands increasingly important for supplying water to the state.
+
+## L. Flood Resiliency
+
+Add paragraph explaining the value forests contribute to flood resiliency.
+
+## M.. Outdoor Recreational Opportunities
+
+The majesty of Vermont's forests provides a scenic backdrop for outdoor recreational activities throughout the state. 
+
+## N. Cultural Values
+
+According to the Vermont Division for Historic Preservation (Peebles, 1989), cultural resources provide an important connection to past interactions of people with the land. For nearly 12,000 years since the last glaciers receded, evidence of past activities has been left behind on the Vermont landscape. Although Native American (pre-European contact) people focused their activities close to river and lake basins, upland areas were exploited on a seasonal basis for specific food resources and raw materials. Furthermore, the present landscape does not reflect the past as many river valleys have been downcut and other changes have occurred to many river channels, floodplains, and wetlands.
+Many episodes of life in the historic period of settlement (post-European contact), such as farming, commerce, industry, and transportation, exist today only as archeological sites. Evidence of these types of activities are typically contained within upper layers of soil or buried within floodplain deposits. Entire communities and thousands of isolated farmsteads lie abandoned throughout the state. The most noticeable remnants of these are often cellar holes and stone walls. These sites are fragile and nonrenewable resources and are often our only source of information regarding how people adapted to various changes. Due to the predominance of private lands in Vermont, a great deal of this pre-contact and historic information is held on forested private lands.
+
+## O. Scenic Values
+
+Forests surround all of the state's cities and towns from which scenic views appear around nearly every corner. For most Vermont residents, these forests provide a backdrop to their daily lives, and tourists also are able to experience easily the presence of the forests. Travelers enjoy scenic views of forested hills and mountains, including many high peaks, via some specific opportunities including the following: Vermont's six Scenic Byways representing more than 300 miles; two interstate highways that bisect the state; local byways and forest roads; local and interstate railroad lines; and ferries that cross Lake Champlain from New York State. The Appalachian National Scenic Trail and other trails as mentioned in the recreation section provide forested viewsheds for recreationists.
+
+## III. Assessment of Threats to Vermont Forests
+
+A number of circumstances are threatening the conversion of Vermont's forestlands to other uses. 
+
+## A. Changing Demographics
+
+Census data indicate that the number of people living in Vermont has increased steadily for the past 60 years. Four counties (Grand Isle, Chittenden, Franklin, and Lamoille) showed double digit percentage increases between 1990 and 2000. The overall increase in the state of 8.2 percent between 1990 and 2000 was evenly split between in-migration and natural population increase. As demand for land grows, land prices, property taxes, and estate taxes rise. These factors may pressure owners to sell their land. Forest management goals of successive landowners often differ from one another. Therefore, when change in land ownership occurs in forested areas, the forests across the landscape may be changed or no longer remain forested.
+The demographics of forest ownership will undergo a big shift in the next two decades. Many children of landowners over the age of 60 will inherit forested properties in Vermont. Due to changing values, fewer of the heirs share their parent's commitment to managing the land as forests. The heirs are more likely to sell or develop the land.
+
+## B. Tax Policies and Zoning Regulations
+
+Vermont's existing tax policies exert economic pressure on forest landowners to develop their lands. In an agrarian society, a fair measure of wealth is the amount of land owned. Local towns in Vermont and other states have continued to generate revenue by taxing land as a measure of wealth, as opposed to income, for example. Most recently, land values in Vermont have been based on the land use that offers the greatest value for the owner, i.e. development. So, overall, property taxes are assessed on this "highest and best" use or fair market value. Vermont's Use Value Appraisal (UVA) Program (known as Current Use) enables landowners to be taxed on the value of the land for forestry or agriculture instead of the fair market value. Although not a permanent solution for keeping land forested, the UVA Program has been effective at discouraging landowners from developing their properties.
+The zoning regulations of many Vermont towns contribute to development patterns that threaten forestlands. Extensive low density development is occurring in Vermont outside compact urban and village centers along highways and in the rural countryside, including forested areas and ridgelines. Zones of low-density housing favor small, unconnected parcels of fewer than ten acres. Other factors that lead to development in rural and forested areas include higher costs of development in town centers; a shortage of affordable housing in town centers; lower land prices in more remote areas; and the desire by many for larger homesteads that are closely connected to the natural world and located in a safe environment (Keller, 2002).
+
+## C. Development Resulting in Parcelization and Fragmentation
+
+In general, small forest parcels are less conducive to efficient and economic management for forest products. As pressure to place more houses increases in private forests, forest parcel size tends to decrease in these areas. Development in more remote areas of the state is causing fragmentation of forestlands, and the growing numbers of forest owners with smaller holdings results in greater parcelization of forestlands. Currently, the rate of development in Vermont is estimated to be 2.5 times greater than the rate of population growth (Vermont Smart Growth Collaborative, 2003). The U.S. Forest Service report Forests on the Edge (Stein et al., 2005) predicts that private forests in many watersheds throughout Vermont are at risk for increases in housing density over the next 20 years.
+
+## Parcelization
+
+Parcelization is the division of large tracts of land into smaller tracts and multiple ownerships. In general, as the number of forest owners increases, the size of parcels decreases. Forest parcelization is viewed frequently as the first step leading to forest fragmentation.
+Parcelization of timberland into smaller holdings makes it more difficult for the forest to be used in traditional ways. Landowners with small holdings are less likely to manage their forests for timber products. Forestland ownership patterns have been changing in Vermont. Between 1983 and 2003 in Vermont, the number of forestland owners with fewer than 50 acres of timberland nearly doubled, while the amount of acreage owned by industry dropped to one-fifth of the 1983 total (USDA Forest Service, 2003). These trends challenge the long-term sustainability of private forest management in Vermont by decreasing the profitability and feasibility of timber production due to higher costs of management.
+
+## Fragmentation
+
+Fragmentation is the division of a large forested area into smaller patches that are separated by areas converted to other land uses. Many of Vermont's blocks of contiguous forestland have become broken into smaller and smaller units as forests are fragmented by construction of housing, commercial buildings, and roads. The availability of large blocks of contiguous forestland varies across the state, with the Northeast Highlands and Green Mountains having the most.
+Fragmentation of large forest blocks alters many ecological processes. It can render important wildlife habitats inaccessible, isolate wildlife populations, and degrade remaining habitat patches through edge effects that favor edge-tolerant species including invasive exotics. Other impacts may include increased predation, increased mortality, reduced mobility, and changes in habitat micro-climates. There is concern that several wide-ranging wildlife species will not persist or become re-established in Vermont without forested linkages to other states and Canada.
+
+## D. Challenges Due to Recreational Use
+
+The long-standing Vermont tradition for private landowners to allow the public access to their land for hunting, trapping, and fishing is in jeopardy. Since its adoption in 1793, Vermont's constitution gives people the right to hunt and fish on unposted land throughout the state. A general, although not steady, trend over the past 30 years is that more landowners are posting their land, thereby placing at risk recreational access by the public (Vermont Property Owners Report, 2005).
+Vermont's population is growing partly due to in-migration from other states. With increased populating comes a corresponding increased demand for public access to private lands. Some reasons why landowners post their land include the following:
+Many landowners are concerned about the public's lack of respect for their property. As the number of owners of forested parcels increases and the average parcel size decreases, landowners are more likely to have home sites on their parcels. Many landowners want more privacy and may be reluctant to share their property with others.
+Irresponsible recreationists are angering neighbors and landowners. In many cases landowners must spend their own money to repair damage.
+The need for more law enforcement to handle complaints is well documented.
+Landowners may be concerned about the number of users of their property or object to certain types of use. Even though many landowners are willing to allow some uses, existing laws do not support posting against particular uses. Some landowners feel that recreational uses they allow could become institutionalized and result in restrictions to their right to do what they wish on their land, such as cut timber, farm the land, or derive income from other uses or from the sale or development of their property.
+Landowners are concerned about the impacts that recreational uses might have on their property and whether user groups will be reliable in taking care of problem areas.
+Some landowners are concerned about their potential liability for injuries sustained by users of their property.
+Access for recreation by the public on private lands is enormously important to the economy of the state and to the quality of life of those who are able to use those lands.
+Any decrease in private lands available for public recreational use in Vermont results in more pressure for use on other private and public lands. This, in turn, increases the likelihood that more landowners will refuse to allow public access on their lands.
+Besides the risk of fewer lands being made available to the public, unmanaged recreational behaviors are causing negative impacts to forest soils, water, vegetation, and wildlife. Impacts include increased erosion, sedimentation, and habitat destruction. This situation in many places may be creating an unintended conversion of use.
+Another concern is the net decline of both resident and non-resident hunting license sales since 1994. These sales provide the primary source of revenue and match dollars for the Vermont Department of Fish and Wildlife. Continued declines in license revenues will result in fewer resources available for conserving wildlife habitats and managing the populations of various wildlife species.
+
+## IV. Existing Programs and Partnerships that Help Conserve Vermont's Forest Resource
+
+Vermont's Forest Legacy Program plays an important role within the mix of the many programs that offer a variety of ways to conserve Vermont's forest land. About 20 percent of the land in Vermont is permanently conserved in a number of ways, including public lands held in-fee and as easements and other non-fee methods by federal, state, and local governments as well as private lands held in similar ways. By 2004, about 1.5 million acres of private forestlands were enrolled in the Use Value Appraisal Program (UVA). The UVA Program discourages owners from developing their land by offering property tax incentives to manage the land for timber crops.
+Many of these programs are briefly described in this section. Some programs are offered through government sources, while others are provided through private means, such as land trusts and The Nature Conservancy. When these programs are able to be coordinated with Forest Legacy projects, the result is an increased ability to implement comprehensive conservation strategies across the landscape.
+
+## A. Public Conservation Programs
+
+The following are many of the state and federal programs that assist landowners in protecting and enhancing their forest resources in a variety of ways.
+
+## Vermont Use Value Appraisal (UVA) Program
+
+Often referred to as "Current Use," Vermont's Use Value Appraisal (UVA) Program enables landowners who practice long-term forest management to have their enrolled land appraised for property taxes based on its value for forestry, rather than its fair market value. As of 2004, 1.5 million acres, represented by more than 10,000 parcels, were being managed in Vermont under this program. According to the Vermont Property Valuation and Review (PVR) reports, more than 40 percent of eligible parcels are enrolled. Agricultural lands also are enrolled, making UVA the most widespread land conservation program in the state.
+
+## Forest Management Assistance
+
+The Vermont Department of Forests, Parks and Recreation provides forest management assistance free-of-charge to landowners. Services of field foresters (by county) include education, consultation, and planning for inventory, timber sales, and tree planting. Management strategies include products such as lumber, fuel wood, Christmas trees, and maple sugar; wildlife habitat; and recreational opportunities. Spurred on in part by Vermont's UVA Program, more than 100 private consulting foresters provide on-the-ground forest management services for a fee.
+
+## Fire Protection and Management
+
+Vermont has regional and local procedures in place for control of forest fires when they occur. However, historical information suggests that naturally ignited fires have been rare in this landscape over the past 250 years. From the 44 years that Vermont data were collected between the years of 1913 and 1998, there was an average of six lightning-caused fires per year in Vermont, each burning an average of nine acres. 
+
+## Land and Water Conservation Fund
+
+The Land and Water Conservation Fund, administered by the Vermont Department of Forests, Parks and Recreation, provides money to federal, state and local governments to purchase land, water and wetlands.
+
+## Silvio O. Conte National Wildlife Refuge
+
+The Conte Refuge covers 7.2 million acres across the four-state Connecticut River watershed. The refuge works with many partners to acquire key parcels, to provide conservation leadership, and to educate the watershed citizens about important habitat issues.
+
+## Pittman-Robertson Wildlife Restoration Act
+
+The Pittman-Robertson Wildlife Restoration Act provides federal aid to the states for the management and restoration of wildlife. The aid, funded through an excise tax on sporting arms and ammunition, may be used to support a variety of wildlife projects, including acquisition and improvement of wildlife habitat.
+
+## Migratory Waterfowl Fund
+
+Vermont's Migratory Waterfowl Fund was established with the receipts from the sale of the stamps and prints and is administered by the Vermont Department of Fish and Wildlife. Interest earned from the Waterfowl Fund is earmarked for wetland acquisition and enhancement projects. So far, monies generated by the fund have funded 51 projects in 34 locations; purchased 4,439 acres of wetland and adjacent uplands; protected 921 acres of important habitat through conservation easements; and enhanced 1,412 acres of habitat.
+
+## North American Waterfowl Management
+
+The North American Wetlands Conservation Council recommends wetlands conservation projects to the Migratory Bird Conservation Commission based on consideration of: the extent to which the wetlands conservation project fulfills the purposes of the Act, the Plan or the Agreement; and the availability of sufficient nonfederal moneys to carry out any wetlands conservation project and to match federal contributions.
+
+## Cost-Share Assistance Programs
+
+A number of cost-share programs are available to forest landowners. These encourage certain management practices that may help conserve forest lands including tree planting, natural regeneration, forest improvements, livestock exclusion, and a variety of stream protection and wildlife habitat improvement practices.
+
+## Wildlife Habitat Incentive Program (WHIP)
+
+Through its Wildlife Habitat Incentive Program, USDA's Natural Resources Conservation Service provides both technical assistance and up to 75 percent cost-share assistance to establish and improve fish and wildlife habitat.
+
+## Environmental Quality Incentives Program (EQIP)
+
+The Environmental Quality Incentives Program (EQIP) provides a voluntary conservation program for farmers and ranchers that promotes agricultural production and environmental quality. EQIP offers financial and technical help to assist eligible participants install or implement structural and management practices on eligible agricultural land. Expansion of this program to include forestry practices is expected in the years to come.
+
+## Landowner Incentive Program
+
+Administered by the Vermont Department of Fish and Wildlife, the Landowner Incentive Program provides grants to establish or supplement landowner incentive programs that protect and restore habitats on private lands; to benefit federally listed, proposed or candidate species or other species determined to be at-risk; and provide technical and financial assistance to private landowners for habitat protection and restoration.
+
+## Clean and Clear Action Plan
+
+The State of Vermont's Clean and Clear Action Plan provides leadership, financial resources, and a sustained commitment to meeting Vermont's water quality standards by curbing phosphorus in the runoff from urban areas, homes, eroding streams, and construction sites and farms. Wetlands in Vermont will be preserved through purchase of easements and restored through the Wetlands Protection and Restoration Program to improve water quality in Lake Champlain.
+
+## Vermont Housing and Conservation Board
+
+The Vermont Housing and Conservation Board is an independent, state-supported funding agency providing grants, loans and technical assistance to nonprofit organizations, municipalities, and state agencies for the development of perpetually affordable housing and for the conservation of important agricultural land, recreational land, natural areas and historic properties in Vermont.
+
+## B. Private Conservation Programs
+
+The following not-for-profit organizations are examples of many organizations that are conserving forested lands for a variety of purposes.
+
+## Land Trusts
+
+Land trusts are not-for-profit corporations whose general purpose is to conserve land. They operate primarily by acquiring land and interests in land. The Vermont Land Trust is a statewide nonprofit organization that has worked with individuals, organizations, and communities for the past three decades to conserve farmland and productive forestlands. There are more than 30 other nonprofit land trust organizations involved in land conservation in various areas of service throughout the state. The primary method of conservation by land trusts in Vermont has been through easements, as opposed to fee-simple acquisition.
+
+## Tree Farm Program
+
+The American Tree Farm System (ATFS) is a non-profit organization dedicated to the concept of the working forest and the promotion of excellent forest stewardship on parcels of private land. ATFS has established standards and guidelines for property owners to meet to become a certified Tree Farm. In Vermont the Tree Farm Program is administered by the Vermont Woodlands Association. It recognizes landowners who actively manage their forest land.
+
+## The Conservation Fund
+
+The Conservation Fund forges partnerships to conserve America's legacy of land and water resources. Through land acquisition, sustainable programs and leadership training, the Fund and its partners demonstrate balanced conservation solutions that emphasize the integration of economic and environmental goals.
+
+## Vermont Chapter of The Nature Conservancy
+
+The Nature Conservancy works with private landowners to protect and conserve natural lands, including many forest lands, through acquisitions, conservation easements, and voluntary agreements.
+
+## Trust for Public Land
+
+The Trust for Public Land (TPL) is a national, nonprofit, land conservation organization that conserves land for people to enjoy as parks, community gardens, historic sites, rural lands, and other natural places, ensuring livable communities for generations to come.
+
+## V. Vermont Forest Legacy Program (FLP)
+
+A. History and Accomplishments of the FLP in Vermont Through the use of conservation easements acquired under Vermont's Forest Legacy Program, the land remains in private ownership and may continue to be actively managed. The landowner is given compensation for not developing the land while protecting the public interest in certain values of the property. In addition, certain tracts of land may be acquired outright (in fee, instead of through an easement, which pertains only to particular rights), again on a willing-seller basis only.
+The need to provide more public access for a variety of recreational activities has increased in importance over the last decade. Besides conservation easements that have assured the continuation of public access on private forestlands, fee acquisitions by the state have conserved Green River Reservoir State Park and several in-holdings in the Northeast Kingdom.
+Large blocks of forestland previously owned and managed by industrial landowners have been sold and subdivided in the state in the last few decades. In response to this trend, the first of Vermont's Forest Legacy projects conserved large tracts of industrial forestland. For example, in 1996 a conservation easement was placed on a 31,000acre block owned by the Hancock Insurance Company.
+More recently the state has taken a new approach toward conserving blocks of forest on a landscape scale. While in the past the conservation of large tracts of industrial forest lands protected regionally important forests, now smaller forest landowners are grouping together their parcels of land to conserve them. An example of this approach is the Chittenden County Uplands Conservation Project, a conservation effort of a broad array of organizations and funding sources, including the Vermont Forest Legacy Program. The project conserved more than 15,000 acres, representing nearly two dozen properties. This effort has been essential for protecting the ecological integrity and rural character of a remaining section of the working forest landscape and important watershed in Chittenden County, which is the most populated in the state.
+
+## B. Vermont Forest Legacy Program Goal
+
+The 4. Must have local and regional community support. The forested areas best suited for meeting these Eligibility Criteria are those that; A. have large blocks of un-fragmented forest; B. have highly productive soils and; C. contain important fish and wildlife habitats. The Forest Legacy Area was determined by applying these three factors across the landscape of the state. Individual projects are recommended for the program using a more detailed analysis. Once proposals meet the Eligibility Criteria and the Minimum Project Selection Criteria, as explained in the next section, they are compared with each other using dozens of factors on more local and regional scale.
+The current proposed Forest Legacy Area is shown on the next page. It encompasses approximately 3.3 million acres, similar to the acreage designated in the 1994 AON, in a single Forest Legacy Area.
+In 1996, the lands within the Green Mountain National Forest Proclamation Boundary were no longer excluded from eligibility in the program. The State Grant Option was offered by the Forest Service, allowing states to purchase in fee or hold the conservation easements on private Lands. The Vermont Forest Legacy Area boundaries proposed in this AON therefore reflect this possibility in some towns.
+A list of towns and counties upon approval of the proposed Forest Legacy Area that will be eligible to submit projects for the Forest Legacy Program is found in Appendix A. The written description of the boundary is found in Appendix B.
+
+## Process Used for Designating Vermont's Forest Legacy Area
+
+This section explains the steps that were taken to determine the Forest Legacy Area (FLA) boundaries for this Assessment of Need (AON). In 2005, the Vermont Department of Forests, Parks and Recreation in cooperation with the Fish and Wildlife Department, began the process of updating the existing AON adopted in 1994 for Vermont's Forest Legacy Program. In consultation with the Vermont Forest Stewardship Committee, a small group reviewed the FLA Eligibility Criteria from the existing AON to determine whether they still adequately addressed the goal of protecting the values of and threats to Vermont's forest resources. The group then looked for existing statewide data that best captured those values and threats. The consensus was that the following data captured the information needed to identify areas of the state where Vermont can achieve its Forest Legacy Program goals:
+• Forested lands were selected from the National Land Cover Dataset 1992 (NLCD 1992). Then lands in the Conserved Lands Database (CLD) of the University of Vermont's Spatial Analysis were masked out. The CONSPRI layer of the CLD was used because it contains conserved land holdings by both public and private owners. Private lands in CONSPRI are owned by organizations dedicated to conserving land or other resources, or they are private lands encumbered with conservation easements or other legal protection mechanisms.
+• A forest patch size of a minimum of 200 acres was selected. This size reflects the fact that larger, contiguous forest patches are, on average, more ecologically and economically viable than smaller and less connected forest patches. Then road buffers were applied to these lands, as follows: 100 feet for class 3 roads; 300 feet for state highways; 600 feet for interstate highways; and none for class 4, private, and forest roads. See map on page 36.
+• Forest productivity in Vermont was represented by selecting certain soils. The three most productive soil layers were selected from the Top 20 Tables, as determined by the Soil Potential Index of Forest Values Group, for each county. Due to lack of data, Essex County was the exception. For this county the two most carbonate-rich rock layers were selected from the state's generalized bedrock geology map. See map on page 37.
+• Various natural community and wildlife data layers were used to represent ecological values and were combined into a composite map as follows: towns with occurrences of rare, threatened, endangered, and special concern species and state significant natural communities; important forest matrix communities; priority aquatic features; and deer wintering areas. See map on page 38.
+A preliminary working map was created by summing the layers mentioned above in 30-meter square grids. This exercise did not produce areas that clearly delineated Forest Legacy Area boundaries and that also would satisfy USDA Forest Service requirements. After further discussion, it was determined that an even stronger emphasis on size of forested blocks would enable Vermont to identify lands most suitable for the Forest Legacy Program. Another analysis was done by selecting contiguous blocks of 2500 acres or greater. This resulted in a map that could be refined more easily and better reflected the goals of the program. See map on page 39.
+On an annual cycle, projects that meet the minimum criteria are submitted to the Vermont Department of Forests, Parks and Recreation. These projects are reviewed by Agency of Natural Resources staff, and their comments are shared with the Vermont Forest Stewardship Committee. The committee evaluates and ranks the projects and sends final recommendations for prioritized projects to the regional office of the USDA Forest Service.
+The minimum required criteria and the project (tract) selection criteria presented next represent the types of values and considerations that will be used by the Vermont Forest Stewardship Committee in ranking and recommending projects for funding.
+
+## Minimum Required Criteria
+
+The following five criteria must be met in order for an application for funding by the Forest Legacy Program to be considered further:
+• The project must be within Vermont's Forest Legacy Area.
+• The project must have local community and regional support.
+• Projects must contain a minimum of 100 acres. However, parcels of this small size are mostly likely to be considered when they are part of a larger area that has strong potential for being conserved. Special consideration may be given by the Forest Stewardship Committee for projects of less than 100 acres only if they are determined to contain significant values based on the criteria below. Tract(s) or projects with less than 10 percent of land in compatible non-forest uses and impractical to exclude from project area (i.e. interior meadow land) may be considered.
+• Landowner(s) must guarantee dispersed pedestrian public access on the property.
+• Landowner(s) must be willing to complete a Forest Stewardship Plan to be approved by the State Forester.
+
+## Project/Tract Selection Criteria
+
+The following types of criteria will be used to rank proposed projects or tracts that have met the minimum requirements. The criteria are presented here in no particular order of importance. The Vermont Forest Stewardship Committee may choose to consider some criteria more heavily than others. However, the results of their deliberations should reflect the primary goals of Vermont's Forest Legacy Program-productive working forests and protection of fish, wildlife, and plant habitats.
+
+## a. Forest Values
+
+Forest values are the environmental, social, and economic public benefits gained from the protection and management of the property(s). These criteria reflect the ecological assets and the economic and social values supported by the project and the degree of interest in its protection.
+
+## Primary Purposes
+
+(1) Forestry 
+
+## b. Threats
+
+These criteria estimate the likelihood for forestland to be converted to other uses and consider the nature and imminence of threats to the values of the forest. The higher the likelihood for conversion, such as land on the open market, subdivision plans, and aging landowners, the greater consideration will be given.
+(1) Type of Threat of Conversion to Non-Forest Uses 
+
+## c. Strategic Considerations
+
+These criteria take into consideration the project's relevance to conservation efforts on a broader scale. They include how the project relates to other conservation plans, strategies, or initiatives as designated by either a government or non-governmental entity.
+(1) Located within an organized national or multi-state conservation effort
+(2) Complements prior federal, state, regional, or local investment(s) in conservation
+(3) Project area or characteristics have been identified in a formally developed state or regional plan or focused protection area (e.g. scenic viewsheds, Northern Forest Lands Study, Wildlife Action Plan, and Statewide Comprehensive Outdoor Recreation Plan) (4) Within close proximity to other public or private conserved lands (5) Success of project will lead to additional conservation action locally (6) Located within a targeted watershed that is vulnerable to flooding that is likely to damage community infrastructure.
+
+## d. Project Readiness
+
+Project readiness represents the degree to which applicants have prepared all requirements and the certainty that a project can move forward quickly.
+(1) Preliminary appraisal completed
+(2) Landowner and easement holder agree to easement or fee acquisition conditions
+(3) Stewardship plan approved (4) Cost share commitment received from a specified source (5) Signed option or purchase and sales agreement held by the state or at the request of the state, or easement or fee title held by a third party has been obtained (6) Title search completed (7) Other complications of legal transactions are able to be minimized
+
+## E. Application Process
+
+In the 1994 AON, the process for applications was set up to occur in two steps. Since then, a single application process has been adopted and is available at the Vermont Forests, Parks and Recreation website. vtfpr.org/lands/flp.cfm Applications are accepted once per year, usually toward the end of July. The Vermont Forest Stewardship Committee reviews and ranks the applications and submits selected applications to the USDA Forest Service regional office toward the end of September. By the following January, regional offices submit their compiled project list to the Washington, D.C. office to be evaluated and ranked against applications nationwide. A national list is submitted to the President's Administration to be considered for the President's proposed budget. Congress discusses the list and passes an appropriation for the fiscal year's budget.
+
+## VI. Public Involvement
+
+This section describes the requirements for and the process used to involve the public in the Forest Legacy Program. This ranges from the public helping determine the boundaries of the Forest Legacy Area to the Vermont Forest Stewardship Committee's annual meetings to rank projects proposed for the program.
+
+## Vermont Forest Stewardship Committee
+
+Under Forest Legacy Assessment of Need (AON) guidelines, each state is required to have a State Forest Stewardship Coordinating Committee (SFSCC) whose duties are defined in Sect. 19(b) of the CFAA (16 USC 2113). The SFSCC makes recommendations to the state lead agency regarding the AON, amendments to the AON, and determination of Forest Legacy project priorities.
+The Vermont Forest Stewardship Committee (FSC) serves as the official SFSCC. Its members include partners or individuals/organizations that either have land conservation programs, have complementary natural resource and forestry backgrounds, or have useful local knowledge and contacts. Three members of the FSC joined the core group of Agency of Natural Resources staff in the summer of 2006 to help determine boundaries of the proposed Forest Legacy Area and advise on revisions to the project selection criteria and program guidelines. The other committee members later endorsed the process and results.
+
+## Regional Planning Commissions
+
+The 11 regional commissions coordinated and hosted public meetings and recorded comments by attendees. These commissions notified every town of the draft AON and the proposed Forest Legacy Areas and offered them the opportunity to give feedback and, for those towns that are able, to sign onto the program.
+
+## Towns
+
+Towns that were proposed for inclusion in this Forest Legacy Area, as well as towns that were included in the past but are no longer, were invited to public meetings sponsored by the regional commissions.
+
+## Stakeholder Groups
+
+Representatives of many groups with interest in private forestlands conservation were invited to regional commission meetings and asked to comment on the AON written document.
+
+## General Public
+
+The Forest Legacy Area proposed for this AON and other documentation was posted on the agency website from June 2008 to October 2009.
+
+## Responses to Comments
+
+Responses to the many comments received from the public, stakeholder groups, and other agencies are found in Appendix D. The second model created a composite raster map that summarized criteria into a rasterized/grid cell format through various geo-processing steps. Inputs to the model were weighted by an integer scale, and the output yielded values that best meet the Eligibility Criteria.
+
+## APPENDIX A.
+
+## Counties and Towns
+
+• AON Forest Model (RUN SECOND) -All analysis was performed using a 30x30 meter cell resolution.  All ecological data were grouped together in Binary and were reclassified and given a weighting factor of 2. Final Calculations o The weighted integers were then summed in a raster calculation to yield a raster composite map ranging in values from 0 (no conditions met at one point on the map) -10 (all conditions are met at one point of the map). o The summed raster layer was then reclassified into the following three groups:
+
+## Private
+
+ Group/Value 1 = 0 -1's  Group/Value 2 = 2 -5's  Group/Value 3 = 7 -10's
+Once the values were classified into 3 groups, they were assigned to their respective town and identified in a table. This was done by using the "Tabulate Area" tool in the Spatial Analyst toolbox. The table was exported to Microsoft Access where a query was developed to calculate the percentage of area each value represents in each particular town. The table was then joined to the Town Boundary layer and symbolized as necessary.
+The Forest Legacy Area working group determined that, due to the difficulty in discerning areas that best met the Eligibility Criteria, another analysis was needed to place greater emphasis on large contiguous blocks of forest. Using the areas selected from the previous calculations, forest patches of 2500 acres or greater were selected.
+Additional refinements to the Forest Legacy Area were done by eliminating developed and agricultural lands, and the boundaries were adjusted to follow town lines, roads, and waterways. Feedback received as a result of public meetings and from stakeholder groups and other agencies resulted in additional lands being included in the Area.
+• Comments received that pertain to policy decisions and requirements of the federal program received separate replies;
+• Comments regarding administration of the program and not related directly to the AON received separate replies; and
+• Similar comments received have been grouped into a few categories and then summarized and re-phrased. The categories are as follows: The Area Boundary; Project Selection Criteria; and Other Comments. The intent here, for the sake of brevity, was to preserve the sentiment of each comment received and minimize any distortion that could result by taking it out of its context.
+It is important to note that the designation of the Forest Legacy Area boundary and the process for selecting parcels for the program are related but distinct. The Forest Legacy Area is the land from which projects can emanate and was determined by applying three broad Eligibility Criteria across the landscape of the state. These criteria are: 1) the (large) size of a forest block; 2) highly productive soils; and 3) important fish and wildlife habitats.
+With regard to individual parcels of land being chosen for the program, landowners must follow these guidelines in order to apply to the program:
+• Their lands must be located within the Forest Legacy Area boundary; and
+• Their lands must meet four other minimum criteria.
+Once initial eligibility has been determined, an application can be made to the program. Then selection of the applications that are recommended to the U.S. Forest Service for the program is done using a more detailed analysis. The applications are compared with each other using dozens of factors--the Project Selection Criteria--on a more local and regional scale.
+For more information about the Forest Legacy Program and the application process, please see the website 
+http://www.vtfpr.org/lands/flp.cfm
+.
+• Parts of Warren, Ripton, Hancock, Rochester, Pittsfield, Chittenden, and Mendon, particularly inholdings and lands adjoining the Green Mountain National Forest (GMNF)
+• Charlotte--clayplains and forested wetlands
+• Milton--areas with calcareous-based soils, sandplains, and some forestlands of interest
+• Westford-lands in common with Milton, Colchester, and Essex known as "Hidden Swamp"
+• North side of Malletts Bay, the buffer along the Lamoille River in the same area, Malletts head on the south side of the bay, parts of Georgia
+• More western sections of Monkton where lands serve as valuable wildlife corridors for amphibians, bobcat, bear, and other mammals.
+• Williamstown faces development threats.
+• Windham and Windsor Counties--The Connecticut River Watershed has been identified by the U.S. Forest Service as the area where housing density on private forests is projected to increase the most (as much as 20-40 percent) by 2030. West Windsor, Windsor, and Hartland should be included.
+• Southwest Hubbardton, Northwest Castleton--forest blocks and patches in northwestern Rutland Co.-north of Rte. 4 and west of the north/south finger of lands included in the proposed Area. This is a critical "pinch point" for habitat connectivity--the southern Champlain Valley linking the Green Mountains and northern Taconics to the Adirondacks. Existing and predicted future development here could convert wildlife habitat and block wide-ranging animal movement and possibly gene flow among populations.
+• Orwell contains part of the ecoregionally significant unfragmented habitat linkage between the Adirondacks and the Green Mountains highlighted by the Two Countries, One Forest scientific coalition, the State of Vermont, and The Nature Conservancy, especially for wide-ranging animals.
+• Pittsford contains a relatively constricted area of undeveloped forest cover that is likely an important linkage area for the inter-regional movement of wide ranging mammals across the Route 7 corridor--east-west movement--in central Vermont.
+• Poultney and the Rest of Wells are important for east-west habitat corridor connectivity. Additionally there are threats to the upland forested areas from wind power incursions that would convert working forest and habitat along the north-south ridges.
+
+## Response
+
+The Forest Service required that the Vermont Forest Legacy Area be within a specific acreage limit, and difficult choices needed to be made to meet that limit. These lands were among the thousands of acres considered for inclusion in the area. However, despite their importance, these lands were considered a lower priority for the program than other lands when ranked according to the goals of the Forest Legacy Program and Eligibility Criteria for Vermont at this time. Many of these lands may be eligible to apply for other funding opportunities.
+
+## Need to Exclude Certain Areas Comment
+
+All of Pawlet was included in the proposed Area. The town has an industrial zone within which the best use for the land is quarrying.
+
+## Response
+
+We recognize there may be areas of towns within the Forest Legacy Area that do not contain important forestland. However, due to the need for clarity of boundaries for landowners when they apply to the program, we chose to use recognizable features on the ground, such as political boundaries and roads, for determining the Forest Legacy Area.
+
+## Future Expansion of the Area Boundary Comment
+
+If property owners expressed a willingness to participate in the program, would this be a factor in changing the AON boundaries?
+
+## Response
+
+In general, owners of land not within the Forest Legacy Area boundary cannot apply to the program. Minor adjustments can be made to accommodate a landowner, for example, if the property straddles the boundary. Revisions to the boundary of the area may be done periodically, but a formal application by Vermont to the U.S. Forest Service along with public involvement will be needed to do so.
+
+## Project Selection Criteria
+
+Minimum Parcel Size
+
+## Comments
+
+• The notion of a size threshold makes sense. However, the 100-acre minimum implies that forest management is not as effective on parcels less than 100 acres in size. The average size parcel the county foresters help manage throughout the state is 40 acres. It is important to convey a consistent message about the value of forest management as most forestry in Vermont happens on less than 100 acres.
+• It is critical that, if a minimum parcel size is as low as 100 acres, there also be the requirement that the smaller parcel be contained within or adjacent to a larger block of forestland--perhaps 2000-5000 acres? If a landowner simply reads the criteria now, he/she may think they have a chance of their project being accepted if they have 100 acres.
+
+## Response
+
+The comments reflect different perspectives of the significance of both large and smaller forest blocks. We changed the language of Chapter V, Section D, Criteria and Process for Evaluating Projects (Tracts) to indicate that for purposes of applying to the Forest Legacy Program, smaller parcel owners should be considering their lands in the context of the larger landscape. "Parcels of this small size are mostly likely to be considered when they are part of a larger area that has strong potential for being conserved. Special consideration may be given by the Forest Stewardship Committee for projects of less than 100 acres only if they are determined to contain significant values based on the [project selection] criteria."
+
+## Scoring of Criteria to Select Projects Comment
+
+The draft AON indicates that the Vermont Forest Stewardship Committee may weigh some criteria more heavily than others when recommending projects for the program.
+It is important that criteria and their weightings be known in advance to help inform decisions of landowners and others on whether or not to apply to the program. The AON should at a minimum rank the relative criteria beyond the indicated primary and secondary purposes. We propose that a point system be used with a total score of 80 points for primary purposes and 60 for secondary purposes.
+
+## Response
+
+The Vermont Forest Stewardship Committee uses an informal scoring system when ranking projects each year. Applicants work closely with state administrators to prepare their proposals. At this time, the level of funding for the program and the relatively few applications don't warrant a more sophisticated evaluation method, but this could be helpful in the future.
+
+## Comment
+
+More specific questions about ranking projects include the following: Should there be different degrees of emphasis between the primary and other criteria? To what extent should the degree of importance of threat of conversion and project readiness be taken into account? How should "competing uses: be handled in the rankings? How should resource values of competing parcels be compared?
+
+## Response
+
+The Vermont Forest Stewardship Committee thoroughly considers the range of values of the projects it reviews in the context of the complexities of the national ranking system for the Forest Legacy Program. The structure of the committee and its deliberations of all the criteria assure that their recommendations of projects for the program are not arbitrary.
+"Demonstrating a history of sustainable forest management practices" should be considered more heavily than "imminent threat" as a compelling reason for lands to be conserved. If this isn't so, then landowners who have remained committed to sound stewardship could be penalized. It is important to acknowledge those who have kept their lands producing timber for generations vs. parcels that have high ownership turnover, etc.
+
+## Response
+
+In reality, when reviewing and ranking project applications for participation in the Forest Legacy Program, the Vermont Forest Stewardship Committee has placed a higher emphasis on sustainable management than imminent threat.
+
+## Other Project Criteria Comment
+
+Consider local zoning and the potential for development when developing the list of priority projects.
+
+## Response
+
+Consideration of local zoning with regard to Forest Legacy projects is accomplished through the Strategic Considerations criteria. Consideration for the potential for development is accomplished through the Threats criteria. Applicants are asked to include local zoning information and perceived threat in their application.
+
+## Comment
+
+With regard to criteria 1a. Forest Value--condition of forest (health, size and age), is the size reference to acreage or stems? Should one assume that properties with more mature stocking will rank higher than parcels with higher proportions of pole timber and seedlings? If this is about timber, then should stem quality be a consideration as well?
+
+## Response
+
+Forest value involves an evaluation of a number of criteria including forest health, size, and age along with the potential for productivity based on soil site class. A parcel with more mature stocking will not necessarily rank higher than one with higher proportions of pole timber and seedlings. That will likely be a consideration when comparing projects to each other. Stem quality is often considered by the Vermont Forest Stewardship Committee because staff members visit and report on these types of parcel conditions for the review and ranking process.
+
+## Other Comments Comment
+
+Each town in the state should be sent of copy of the proposed map and be given the opportunity to comment, whether or not the town is proposed for inclusion in the Forest Legacy Area. Without this opportunity, towns not proposed for inclusion are denied the same treatment.
+back into re-grown areas that were previously fields. In addition, the general impression from the wildlife/forestry view has been to locate development out of wildlife migration pathways regardless of agricultural land value. These different perspectives regarding land use suggests there should be a more inclusive and balanced approach to land conservation in Vermont.
+
+## Response
+
+The 
+
+## Comment
+
+Private forestry consultants must become aware of the program and become ambassadors for it. More and better efforts are needed to get the word out to landowners of large tracts of forest land.
+
+## Response
+
+We will continue efforts to keep the website updated and network with those who work with potentially eligible landowners.
+
+[FIGURE: Plan and a new visual web-based Story Map presentation and interactive maps, found at vtforest.com. PRIORITY LANDSCAPES AND FOCUS AREAS replaces the Priority Areas section of the 2010 Plan and are presented both in this 2017 Plan and in the new Story Maps presentation; these are also organized by Desired Future Condition.]
+
+[FIGURE: Percent live hardwood species on timberland by year. Percent live softwood species distribution on timberland.]
+
+[FIGURE: patterns. With more extreme precipitation events, flooding, and erosion concerns are likely to become more pressing. Vermont communities have already experienced an increase in the frequency of damaging floods in recent years, including the record-setting floods of 2011. Development in flood-prone areas is likely to significantly exacerbate this trend, as well as chronic instability from historic and current channelization of rivers and streams.ASSESSMENT: AIR QUALITY Trees and forest canopies cleanse the air by filtering airborne pollutants. Trees sequester many pollutants from the atmosphere, including nitrogen dioxide (NO2), sulfur dioxide (SO2), ozone (O3), carbon monoxide (CO), and particulate matter of ten microns or less (PM10). At the same time, the release of volatile organic compounds from trees can influence the production of ground-level ozone. Air quality monitoring shows that Vermont has made improvements in SO2 pollution and the state is currently within national standards for criteria pollutants. However, our state is still affected by poor visibility on summer days, acid deposition on sensitive forests, ozone injury on sensitive plants, and increasing atmospheric carbon dioxide.The urban forest can help improve air quality by reducing air temperature, directly removing pollutants from the air, and indirectly by reducing energy consumption in buildings, which consequently reduces air pollutant emissions from power plants. In 2015, pollution removal by trees and shrubs in the City of Burlington was estimated using field data and recent available pollution and weather data. Burlington's urban forest is estimated to remove 77 metric tons of air pollution per year with an associated value of $1.69 million 38 . Currently, Vermont towns and cities are working to increase urban tree canopy cover to reduce stormwater flow, mediate air temperatures, mitigate carbon emissions, and filter air pollutants.ASSESSMENT: FOREST-BASED RECREATIONVermont has close to 926,000 acres of public lands open to recreation and thousands of miles of trails on public and private lands that serve hikers, mountain bikers, snowmobilers, all-terrain vehicle (ATV) riders, and other trail users.Federal, state, municipal, and non-governmental organization recreation providers manage parks, forests, wildlife areas, boat launches, and dozens of other types of outdoor recreation facilities and resources. Recreational trails are integral to public health, providing a wide variety of recreational opportunities for people to get outdoors and connect to Vermont's scenic and working landscapes.Favorite winter outdoor sports include downhill and cross-country skiing, snowmobiling, dog sledding, ice climbing, and snowshoeing. Vermont had a record breaking 2014-15 ski season with 4,670,903 skier and rider visits, continuing an upward trend. Vermont has 24,000 registered snowmobilers in 120 clubs around the state, and the sport continues to be an important part of our winter economy 39 . Summer and fall activities include hiking, camping, hunting and fishing, mountain biking, bird watching, and geocaching.Outdoor recreation continues to grow in popularity and diversity in Vermont. Over the past 25 years, there has been a shift in the types of outdoor activities in which people are participating, away from pursuits such as hiking and towards more activities like mountain biking, trail running, backcountry skiing, and rock climbing. There is an increased demand for trails to meet the wide variety of activities. Public land managers are finding it difficult to maintain recreational trails and structures due to increased and diversified use. Vermont has a tradition of working with non-profit partners and the volunteer clubs and chapters that they support to meet the challenge of providing outdoor recreation opportunities in a resource scare environment. Statewide trail organizations such as the Green Mountain Club, Vermont Association of Snow Travelers, the Vermont Mountain Bike Association, Vermont Horse Council, Catamount Trail Association and the Vermont All-Terrain Sportsmen's Association work with state and federal agencies to coordinate and promote their activities. Their primary purpose is to manage a statewide trail network, which relies on the use of both public and private lands. Maintained public recreational trails in Vermont total over 8,100 miles and are only made possible by the cooperation between federal, state, and private landowners.Planning and investment are required to maintain current outdoor recreation facilities and resources and make new ones possible. Resources in Vermont for these projects include two grant programs administered by VTFPR: the Recreational Trails Program (RTP) and the Land and Water Conservation Fund (LWCF). • THE RTP PROGRAM: RTP funds are used to maintain and develop trails for hiking, bicycling, mountain biking, running, walking, cross-country & back country skiing, snowmobiling, off-road all-terrain (ATV) & offhighway recreational vehicular (OHRV) riding, paddling, equestrian use, accessible trail-uses, interpretive use, in-line skating, & roller blading. FPR provides approximately $1 million in funds each year to state and local projects. • THE LWCF PROGRAM: This federal program provided through the National Park Service offers grants to assist states that can, in turn, pass grants through to municipalities. States must update their State Comprehensive Outdoor Recreation Plan (SCORP) every five years to qualify for LWCF funds. The purpose of the SCORP is to assess the supply, demand, quality, priorities, and issues surrounding outdoor recreation in the state, and set forth a plan of action for achieving the desired vision for outdoor recreation. Maintaining a current SCORP ensures Vermont's eligibility to receive funding for municipal and state recreation and conservation projects from the LWCF. Over 31 million of LWCF funding has been granted to Vermont between 1965 and 2015. HIGHLIGHTS OF THE MOST RECENT (2014-2018) SCORP INCLUDE: OUTDOOR RECREATION SUPPLY CHANGES • Acquisition of 2,964 acres of land by the state in fee and 9,823 acres of land in easement, from January 1,]
+
+[FIGURE: PRIORITY LANDSCAPE: URBAN, RURAL RESIDENTIAL, AND RURAL LANDSCAPE ZONESAt the outset of the development of the 2010 Plan, the state was classified into three broad landscape zones: Urban, Rural Residential, and Rural. The classifications were based on E911 housing point density data. E911 data were used to support the calculation of the number of houses per square kilometer of land area. From this analysis, average parcel sizes can be estimated. There is a direct correlation between housing density and average parcel size: the higher the housing density, the smaller the average parcel size. Using a landscape classification system based on average parcel size allows us to evaluate benefits and strategies depending upon the intensity of landscape parcelization and predominant land use. The parcel size ranges in the three zones are URBAN: 0 -5 acres, RURAL RESIDENTIAL: > 5 -27 acres, and RURAL: > 27 acres.]
+
+[FIGURE: MULTI-STATE PRIORITY LANDSCAPE: BERKSHIRE TACONIC This important forested landscape crosses the mountains of Connecticut, Massachusetts, New York, and Vermont. The conservation strategy for this area includes land protection, ecological restoration, applied conservation science, collaborative land management, and collaboration with local communities. Efforts in the area include ongoing USDA Forest Service Forest Legacy land acquisition, the New England Governors' Conference Keeping Forest as Forest grant, and multiple NGO partnerships including the Rensselaer Plateau Alliance. STATES: CT, MA, NY, VT MULTI-STATE PRIORITY LANDSCAPE: CONNECTICUT RIVER WATERSHED The Connecticut River Watershed is the largest river ecosystem in New England, encompassing approximately 11,000 square miles and spanning four New England states. The Connecticut River was designated as a National Heritage River in 1998, and it is now a national blueway and priority landscape of national significance for the America's Great Outdoors Initiative. This is one of the most at-risk areas of New England for forest fragmentation. Additionally, Congress designated the Mattabesett, Metacomet, and Monadnock (M-M-M) Trails as the New England National Scenic Trail, and this is a multi-state effort including Connecticut, Massachusetts, and New Hampshire. This is an area with multiple federal and state interests, with public land acquisition, access to recreation, and economic interests leading the way. STATES: CT, MA, NH, VT MULTI-STATE PRIORITY LANDSCAPE: LAKE CHAMPLAIN BASIN This area contains a multi-state, multi-national resource affected by urban development and agricultural runoff. Challenges include maintaining tree canopy and watershed health to reduce pollution and protect water quality. The effort is being coordinated by the Lake Champlain Commission. The basin was also a pilot Signature Landscape of the America's Great Outdoors Initiative. Forestry efforts include the Skidder Bridge Loan Program, which provides logging operations to implement best management practices in an affordable way. The area has been and continues to be the top priority, and efforts also include an urban green infrastructure initiative in Burlington, VT, which is the most densely populated portion of the basin. STATES: NY, VT, (Quebec) MULTI-STATE PRIORITY LANDSCAPE: NORTHERN FOREST LANDS The Northern Forest Lands region includes 26 million acres stretching from the Tug Hill Plateau in New York, through northeast Vermont, Coos County in New Hampshire, and into the Great North Woods of Maine. Conservation of the Northern Forest has been the subject of much discussion and multi-state cooperation over the last 20 years with the Northern Forest Lands Study and Northern Forest Land Council efforts and continues through several initiatives led by the Northern Forest Center as well as the New England Governors' Conference Commission on Land Conservation. Additionally, these states have entered into a memorandum of understanding with the U.S. Forest Service and Natural Resources Conservation Service to actively cooperate in the conservation and management of working forest landscapes in the area. Pilot projects are designed to demonstrate how partners can pool resources and coordinate their efforts in priority areas to protect them from conversion to other uses. The effort is currently engaging stakeholders in developing an implementation strategy. Issues needing attention include forest land conservation, economic development, and community infrastructure. STATES: ME, NH, NY, VT MULTI-STATE PRIORITY LANDSCAPE: GREEN MOUNTAIN -BERKSHIRE HILLS This area is one of the largest (700,000 acres), most heavily forested, and least fragmented working forests in southcentral New England. Nearly 70,000 acres have been identified as rare species habitat. It includes the entire watershed of the Deerfield River in Massachusetts and the West River in Vermont. Audubon Vermont has partnered with FPR to create the Foresters for the Birds initiative, which is designed to develop tools and training for foresters who want to help landowners manage their forests with bird habitat in mind. This effort has partnered with Massachusetts Audubon to preserve and enhance habitat in this area. Additionally, the Staying Connected Initiative, an international collaborative effort to conserve, restore, and enhance landscape connectivity with partners that include state agencies and several nongovernmental organizations, identified this area as a priority. Conservation efforts in this area will help to connect the Connecticut River Watershed and Berkshire Taconic landscapes, and discussions are ongoing related to the development of an easement-based National Forest in the area. Additionally, emerald ash borer was identified in this area of Massachusetts in 2012. STATES: MA, VT MULTI-STATE PRIORITY LANDSCAPE: STAYING CONNECTED INITIATIVE The Staying Connected Initiative began in 2009, when a 21 member, 4 state partnership of state fish and wildlife agencies, state transportation agencies, and nonprofit conservation groups received a grant from the US Fish and Wildlife Service. The New Hampshire Fish and Game Department and the Nature Conservancy took the lead on this visionary partnership working to restore and enhance landscape connections for the benefit of people and wildlife across the Northern Appalachian/Acadian region of the eastern U.S. and Canada. The Division is now working with the Vermont Fish and Wildlife Department and Vermont nonprofits to be a part of this landscape-scale conservation effort. An international collaboration, the Staying Connected Initiative (SCI) seeks to conserve, restore, and enhance landscape connectivity across the Northern Appalachian/Acadian region of the U.S. and Canada for the benefit of nature and people. Sustaining connectivity safeguards native wildlife and plants from the impacts of habitat fragmentation and climate change, and supports human activities and values that are tied to the forested landscape. SCI unites its U.S. and Canadian partners to focus the tools of conservation science, land protection, community outreach, land use planning, transportation, and policy to meet its mission. STATES: NH, NY, ME, VT MULTI-STATE FOCUS AREAS]
+
+[FIGURE: LEGACY: Vermont has been a leader in the Forest Legacy Program since the authorizing legislation was introduced by a member of the Vermont congressional delegation. The Forest Legacy Program's contribution of $22.95 million since 1993 has enabled Vermont to conserve 80,316 acres in 16 projects across the landscape. Vermont was the first state in the United States to have both the first Forest Legacy Project and the Community Forest and Open Space Project.LANDS ACQUISITION AND MANAGEMENT PROGRAMS: ANR has acquired important forested parcels across the state, providing a variety of benefits, including clean air and drinking water protection, flood mitigation, and a variety of outdoor recreation opportunities for Vermont's 625,000 citizens. The State owns 346,000 acres of public land and manages easements on and maintains public access rights on 55,000 and 84,000 acres of private land, Make use of new online tools for recording, reporting, training, and outreach.• Improve outreach on Ecologically Significant Treatment Areas in UVA, publicize new resources such as the improved A Landowner's Guide: Wildlife Habitat Management for Lands in Vermont, Voluntary Harvesting Guidelines for Landowners in Vermont, and specific recommendations for managing for northern longeared bat or other threatened, endangered, or invasive species.]
+
+[FIGURE: PRIORITY AREA: Rural, Rural/Residential, Multi-State Regional ISSUE ADDRESSED: Forest fragmentation DESIRED FUTURE CONDITION 1: Conserve biological diversity across all landscapes. GOAL 1: Maintain and enhance a mix of forest structure and complexity across the landscape. PROJECT 2015 VERMONT FOREST FRAGMENTATION REPORT: A REPORT TO THE VERMONT LEGISLATURE In 2014 the Vermont General Assembly enacted Act 118 calling for a report from the Commissioner of FPR assessing the current and projected effects of forest fragmentation on Vermont's forest and recommendations for how to best protect forest health and integrity.]
+
+[FIGURE: Strengthen collaborative land use planning and policy efforts with partners to keep forests forested, developing strategies to reduce or mitigate the rate of forest conversion and reduce forest fragmentation and parcelization at local, statewide, e r m o n t F o r e s t A c t i o n P l a n ACCOMPLISHMENTS/OUTCOMES: FPR and ANR staff, along with staff from the US Forest Service Northern Forest Research Station contributed to the Forest Fragmentation report, which was presented simultaneously to five legislative committees and received significant press attention. The report has greatly raised awareness of forest fragmentation in Vermont. It lays out a number of policy options for the Vermont Legislature to consider. FPR is developing additional recommendations through an affected partner public process, and the Legislature has requested follow-up actions to the report, which are currently under development in ANR. KEY PARTNERS • Vermont Fish & Wildlife Department • Vermont Agency of Natural Resources Office of Planning and Legal Affairs • Vermont Natural Resources Council • US Forest Service Northern Research Station-Forest Inventory and Analysis • NRCS 2017 STRATEGIC ACTIONS Strengthen collaborative land use planning and policy efforts with partners to keep forests forested, developing strategies to reduce or mitigate the rate of forest conversion and reduce forest fragmentation and parcelization at local, statewide, and regional levels. • Implement policy options laid out in the report. These fall into the following categories: o Conservation o Education and outreach o Landowner incentives o Land-use planning, and o Sustainable forestry and Vermont forest economy • Incorporate additional strategies on forest fragmentation and parcelization in the next FAP, specifically identifying priority landscapes most affected/vulnerable to change.]
+
+[FIGURE: Thus far, the ESTA Program has conserved over 2,800 acres of private lands with important ecological sites. KEY PARTNERS: • Cooperating landowners • The Nature Conservancy • Professional resource managers • Vermont Department of Taxes • Vermont Fish & Wildlife Department • Vermont Land Trust • US Forest Service B: 10 | P a g e 2 0 1 7 V e r m o n t F o r e s t A c t i o n P l a n 2017 STRATEGIC ACTIONS]
+
+[FIGURE: Birds is an innovative project that works to keep forests forested and support keeping common birds common by helping landowners integrate the practices of timber and habitat management. The project includes forest training, habitat assessments, and demonstration harvests as well as workshops for landowners, foresters, and loggers. The project was established through a partnership between Audubon Vermont and FPR in2010 Plan StrategiesSupport activities and leverage resources to protect and conserve landscapes and species of greatest conservation need.Support monitoring and programs that maintainVermont's common flora and fauna.2017 Plan StrategiesEncourage management activities and develop conservation plans to protect and restore landscapes, habitats, genetic diversity, rare, threatened and endangered species, and species of greatest conservation need. Monitor, plant, and retain native flora and fauna, including supporting native species restoration efforts with the Vermont Fish & Wildlife Department and other partners. 2008. In 2012, a US Forest Service S&PF Forestry Re-Design grant provided funding to promote the wide-spread adoption of silviculture with birds in mind. MEASURES OF SUCCESS • Number of foresters engaged • Acres covered by habitat assessments • Number of workshops and participants • Number of Demonstration harvests • Number of states developing Foresters for the Birds programs ACCOMPLISHMENTS/OUTCOMES Over 200 foresters participated in training, collectively managing more than 1 million acres. One hundred thirty-two habitat assessments were completed in collaboration with 111 foresters covering 193,894 acres. More than 160 foresters attended 22 forester training events, 38 workshops were hosted at 10 demonstration harvests and more 1,000 people attended tours. Nine states are currently implementing Foresters for the Birds programs. KEY PARTNERS • Audubon Vermont • Cooperating landowners • US Forest Service, State & Private Forestry financial support through a Re-Design grant • Vermont Fish & Wildlife Department • Vermont Land Trust • Vermont Woodlands Association]
+
+[FIGURE: PRIORITY AREA: Rural, Rural/Residential ISSUE ADDRESSED: Healthy Forest Landscape DESIRED FUTURE CONDITION 5: Vermont has a legal, institutional, and economic framework in place for forest conservation and sustainability. ISSUE ADDRESSED: Maintain and enhance a mix of forest structure and complexity across the landscape. PROJECT VOLUNTARY HARVESTING GUIDELINES FOR LANDOWNERS IN VERMONT In 2015, as required by the Vermont Legislature, FPR developed a set of voluntary timber harvesting guidelines designed for private landowners to support long-term forest health and sustainability. An advisory group consisting of a broad array of stakeholders provided input during guideline development. Forest land in Vermont is 80%]
+
+[FIGURE: PRIORITY AREA: Urban, Rural, Rural/Residential, Multi-State Regional ISSUE ADDRESSED: Ecosystem Services DESIRED FUTURE CONDITION 3: Maintain and enhance forest contribution to ecosystem services. GOAL 3: Maintain and enhance the full spectrum of forest-based recreational and tourism opportunities. Program STATEWIDE COMPREHENSIVE OUTDOOR RECREATION PLAN (SCORP)/VERMONT TRAIL COLLABORATIVE 2010 Plan Strategies Build partnerships that enhance forest-based recreational opportunities. Work with partners to maintain forest access, land stewardship awareness and outreach, and well-maintained trail networks that support recreational opportunities. Partner with State Parks, Green Mountain National Forest and other organizations to support forest-based recreational opportunities. 2017 Plan Strategies Build partnerships to support sustainable forest-based recreation and tourism, including new forms of recreation Work with community groups and landowners to provide access to a well-maintained trail network for appropriate forest-based recreation. Manage and maintain existing state-owned lands and recreation facilities for public use and support additional recreational opportunities where compatible with the resource and supportive of the Statewide Comprehensive Outdoor Recreation Plan (SCORP).]
+
+[FIGURE: ACCOMPLISHMENTS/OUTCOMES In addition to completing the Vermont SCORP, another successful outcome of the Vermont Trails Collaborative was the development of the universal Vermont Trail Ethic. The Vermont Trail Ethic was created and developed by the Vermont Trail Collaborative in partnership with the Vermont Trails and Greenways Council. The goal of the collaborative was to unite all trail managers, property owners, and trail users toward trail stewardship as a common goal and improve the sustainability of and management efforts on Vermont's trail networks and in trail-based recreation. The Vermont Trail Ethic is a set of 10 guidelines aimed at enhancing the trails experience for all trail users. Users, trail managers, and organizations are encouraged to post these guidelines to their websites, in their publications, and at trailheads. See the figure at right for the 10 guidelines of the Vermont Trail Ethic. KEY PARTNERS • US Forest Service, Green Mountain National Forest • University of Vermont • Cooperating landowners 2017 PLAN STRATEGIC ACTIONS • Build partnerships to support sustainable forest-based recreation and tourism, including new forms of recreation • Work with community groups and landowners to provide access to a well-maintained trail network for appropriate forest-based recreation.]
+
+[FIGURE: University of Vermont • US Department of Agriculture, Animal and Plant Health Inspection Service (APHIS) • Vermont Agency of Agriculture, Food, and Markets 2017 STRATEGIC ACTIONS • Monitor for forest health and productivity across all landscapes.]
+
+[FIGURE: an educational curriculum; conducting 29 educational programs in 14 different state parks, which engaged 76 adults and 83 children; and training volunteers to identify and manage invasive plants, which engaged 448 people at approximately 2,250 volunteer hours. Each of these efforts has been built on the efforts of the others, creating the foundation for what has become a statewide invasive plant program. As a result, we have partnered with The Nature Conservancy to create a full-time invasive plant coordinator position within FPR to coordinate invasive plant efforts statewide, including technical support, volunteer training, data analysis, project implementation for mapping, attracting local resources for management efforts, and promoting the creation and support of CISMAs or other local groups.]
+
+[FIGURE: Promote forest practices for water quality protection in new land development and retrofits including low impact development and green stormwater infrastructure.]
+
+[FIGURE: Engagement and Education in Forest Stewardship DESIRED FUTURE CONDITION 4: Maintain and enhance an ethic of respect for the land, sustainable use, and exemplary management. GOAL 3: Increase public understanding and the application of exemplary forest management, conservation, and protection PROGRAMS STEWARDSHIP OF THE URBAN LANDSCAPE (SOUL) This program trains participants to become stewards and advocates for the trees, forests, and green spaces in which they live and work. Topics covered include tree identification, biology, and planting; resource assessment; landscape design; and conservation planning. This educational and community leadership opportunity has enjoyed over 15 years of SOUL Tree Steward course offerings and has engaged more than 400 Vermonters. The SOUL Tree Stewards Program is offered by the Vermont Urban & Community Forestry Program, a joint initiative between the University of Vermont Extension and FPR.]
+
+[FIGURE: (a) Condition of forest (health, size, age) (b) Parcel has the potential to enhance existing timber-based economy for a community or region (c) Productive forest soils (Class I, II, III) (d) Landowner demonstrates history of sustainable forest management practices (2) Fish, Wildlife, & Plant Habitat (a) Contains one or more of the following necessary critical habitats: deer yards, mast stands, vernal pools, wetland bear feeding, heron rookeries, Bicknell's thrush habitat, wildlife travel corridors, and wetlands with other significant value such as forested swamps and deep brush swamps (b) Contains known populations and/or habitat for federal or state designated rare, threatened, and endangered (RTE) species (c) Site provides suitable habitat for reoccupation by RTE species--either naturally or through relocation (d) Provides for habitat connectivity and/or wildlife corridors (e) Provides habitat for Species of Greatest Conservation Need (f) Contains State Significant Natural Communities (g) Contains outstanding habitat for forest inhabiting mammals, reptiles, invertebrates, and amphibians (h) Forested protection of waters containing significant or important fish populations and/or aquatic species of concern (i) Site is, or is part of, a large block of contiguous forestSecondary Purposes(3) Scenic Resources (a) The site is located within a viewshed of a formally designated state or federal scenic feature or area, such as a trail, river, or highway (b) Includes locally important and/or easily accessible scenic resources as identified in a local or regional plan where development would significantly alter the appearance of the landscape (4) Riparian/Hydrologic (a) Protection of a public water supply (b) Contribution to increased flood resiliency (c) Includes Class A or ORW waters (d) Contains streams, ponds, rivers, lakes, and/or wetlands, with special consideration for priority watersheds and imperiled waters (d) Includes undeveloped shorelines (f) Includes unique water features such as gorges, waterfalls, and cascades (5) Cultural & Historic Resources (a) Contains state or federally recognized significant cultural resources (b) Contains known pre-contact archaeological site(s) (c) Contains a National Historic Landmark site(s) (6) Existing or Potential Public Recreation (a) Secures pedestrian public access to regionally and/or locally important recreation area(s) such as rock climbing, a trail system, swimming hole, and exceptional natural features (b) Parcel has the potential to enhance existing recreational opportunities through linkages or additional trail development]
+
+[FIGURE: (a) Adjacent land use changes (b) Parcelization of land leading to fragmentation of traditional uses (c) Protects public access with an imminent risk of closure (d) Land speculation (2) Degree of Threat of Conversion to Non-Forest Uses Imminent Threat (a) Currently on the market and/or listed by a realtor (b) Landowner has subdivided and sold portions of his/her property (c) Landowner has a subdivision plan for the property(s) (d) Property is in a family trust and future use of property by heirs is uncertain (e) Owned by a company or group undergoing take-over, bankruptcy, or downsizing Likely Conversion in 1-5 years (f) Landowner has received purchase offers (g) Parcel(s) has high rate of change in ownership Potential for Conversion in 5-10 years (h) High rate of increase in households in project area (i) Residential infrastructure easily accessible from project area (e.g. roads, power, good water percolation rate)]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[TABLE]
+*• US DEPARTMENT OF INTERIOR -NATIONAL PARK SERVICE: Forest management plans prepared for the Mount Tom Forest at the Marsh-Billings-Rockefeller National Historic Park and the Appalachian National Scenic Trail Statewide Comprehensive Outdoor Recreation Plan helped guide our efforts with the*
+
+| MONTREAL PROCESS CRITERIA -ALSO ADOPTED BY NAASF & NORTHEASTERN AREA SP&F | VT DESIRED FUTURE CONDITIONS | NATIONAL PRIORITIES |
+| --- | --- | --- |
+| Conservation and biological | BIOLOGICAL DIVERSITY | Conserve working |
+| diversity | Conserve biological diversity | forest landscapes |
+|  | across all landscapes |  |
+| Maintenance of productive | FOREST HEALTH AND | Protect forests from |
+| capacity of forest ecosystems | ECOLOGICAL PRODUCTIVITY | harm |
+|  | Maintain and enhance forest |  |
+| Plan. Maintenance of forest ecosystems health and vitality | ecosystem health and ecological productivity |  |
+| Conservation and maintenance of | FOREST PRODUCTS AND | Enhance pubic |
+| soil and water resources | ECOSYSTEM SERVICES | benefits of trees and |
+|  | Maintain and enhance forest | forests |
+|  | contribution to ecosystem |  |
+|  | services |  |
+| Maintenance of forest |  |  |
+| contribution to global climate |  |  |
+| cycles |  |  |
+| Maintenance and enhancement | LAND ETHIC | All three |
+| of long-term multiple social, | Maintain and enhance an ethic of |  |
+| economic benefits to meet the | respect for the land, sustainable |  |
+| needs of society | use, and exemplary management |  |
+| Legal, institutional, and economic | LEGAL, INSTITUTIONAL, AND |  |
+| framework in place for forest | ECONOMIC FRAMEWORK |  |
+| conservation and sustainable | Vermont has a legal, institutional, |  |
+| management | and economic framework in place |  |
+|  | for forest conservation and |  |
+|  | sustainability |  |
+
+[/TABLE]
+
+[TABLE]
+* Although these goals focus on our DESIRED FUTURE CONDITION: CONSERVE NATIVE BIOLOGICAL DIVERSITY ACROSS ALL LANDSCAPES, they may apply to other Desired Future Conditions. Encourage long-term conservation efforts to keep forests forested by supporting programs such as Vermont's UVA, Forest Legacy, Community Forests and Open Space, and Vermont Housing and Conservation Board projects to protect intact forests. Strategy 2: Encourage adoption of available UVA enrollment options such as Ecologically Significant Treatment Area (ESTA) designation, Significant Wildlife Habitat, and others that support and protect non-timber values of Encourage long-term connectivity and protection of landscapes, habitats, and species of greatest conservation need by increasing forest cover in all forested landscapes, especially in high priority forest blocks and in linkage areas between those blocks. Strategy 7: Encourage management activities and develop conservation plans to protect and restore landscapes; habitats; genetic diversity; rare, threatened, and endangered species; species of greatest conservation need; and other species at risk. Strategy 8: Work with the Fish & Wildlife Department and regional partners to implement landscape-level management, maintain and enhance ecosystem integrity through programs such as the Staying Connected Initiative, North Atlantic Landscape Conservation Cooperative, and the Wildlife Diversity Program.OVERVIEWForest ecosystems are more than just trees. While it is true that trees are a defining feature of a forest, their connection to and interaction with other biotic and abiotic features is what forms a forest ecosystem.*
+
+| GOAL 1: MAINTAIN AND ENHANCE A MIX OF FOREST STRUCTURE AND COMPLEXITY ACROSS THE LANDSCAPE. Strategy 1: Vermont forests. Strategy 3: Strengthen collaborative land use planning and policy efforts with partners to conserve forests, developing strategies to reduce or mitigate the rate of forest conversion and reduce forest fragmentation and parcelization at local, statewide, and regional levels. Strategy 4: Encourage management activities across rural and urban forest landscapes that sustain diverse forest types and tree species, conditions, and age. GOAL 2: PROTECT, CONSERVE ECOLOGICAL FUNCTION, CONNECT, AND RESTORE LANDSCAPES, HABITATS, NATURAL COMMUNITIES, AND SPECIES OF GREATEST CONSERVATION NEED. Strategy 5: Identify landscapes, habitats, and species of greatest conservation need, including natural communities and rare, threatened, and endangered species, and monitor trends and indicators. ECOYSTEM HEALTH AND ECOLOGICAL PRODUCTIVITY Maintain and enhance forest ecosystem health and Strategy 6: DESIRED FUTURE CONDITION: FOREST ecological productivity |
+| --- |
+
+[/TABLE]
+
+[TABLE]
+* Per Vermont statutes, open burning of natural and untreated wood, brush, weeds, or grass requires a 'Permit to Kindle Fire' from the Town Forest Fire Warden. The fire wardens have the authority to regulate open burning within their towns by issuing burn permits when they consider local conditions will allow for safe burning. When fire danger is high, FPR has the authority to direct the fire wardens to cease issuing burning permits statewide. Escaped fires from open burning by homeowners is the most common cause of wildland fires in Vermont. the Vermont Fire Academy Firefighter I Certification and to local fire departments on an asrequested basis, and all Town Forest Fire Wardens attend an annual training session.ANR fire staff maintains qualifications to be eligible for interagency assignments through national mobilizations.These firefighters complete annual safety refreshers, work capacity tests, and retain their availability for assignments regionally, nationally, and internationally. In addition, Division staff attend regional and national fire academies and training sessions available to qualify for specific Incident Command System (ICS) positions.The Division works cooperatively with the local National Weather Service offices to daily monitor wildland fire danger throughout the fire seasons, and forecasts and observations are dissiminated through various means of outreach including posts on Twitter at @VTFireDanger. In addition to fire danger monitoring, the National Weather Service provides spot forecasts for ongoing fires and prescribed burns, issues Fire Weather Watches and Red Flag Warnings, and the Burlington office maintains a comprehensive fire weather web page 25 .*
+
+| them for pre-planning of fire incidents. The Forestry Division believes this is a worthwhile program that benefits |
+| --- |
+| local towns and intends to continue to fund and promote dry hydrants. |
+| PRESCRIBED BURNS |
+| In Vermont, prescribed burns occur primarily on Wildlife Management Areas owned by the ANR. These burns are |
+| conducted by trained State of Vermont fire staff and follow a reviewed and approved burn plan. The burns maintain |
+| early successional habitat through periodic disturbance by fire. By burning on a four to five-year rotation, fuel |
+| loading of pioneer species and perennial and annual shrubs and grasses is reduced. Additionally, the opportunity to |
+| control and extinguish controlled burns provides an excellent training opportunity to the state's wildland |
+| firefighters. Prescribed burns also foster partnerships with the National Weather Service, through Spot Weather |
+| Forecasts and on-site NWS staff providing weather data to firefighters, and the Green Mountain National Forest |
+| who provides firefighters and equipment when available. The Forestry Division intends to expand its prescribed burn |
+| plan program and maintain its good working relationship with its partners. |
+| ASSESSMENT: FOREST HEALTH MONITORING |
+| Forest health in Vermont is monitored by periodically measuring tree condition and other ecosystem parameters. |
+| Surveys for insect and disease pests are conducted based on current or expected threats. The Division participates |
+| COMMUNITY WILDFIRE PROTECTION PLANS in the National Forest Health Monitoring Program and receives USDA Forest Service cooperative funds to promote |
+| The Healthy Forests Restoration Act (HFRA) encourages communities to develop Community Wildfire Protection the collection of forest stress and disturbance data using nationally standardized methods. Additional grants |
+| Plans (CWPPs). Vermont already has a robust community-based town forest fire warden program. CWPPs can build financed by the USFS Forest Health program or the NA S&PF competitive process have allowed more intensive |
+| on that foundation, although with our history of low fire danger, encouraging towns to participate in CWPPs has monitoring of particular forest health issues. |
+| been challenging. However, several CWPPs have been completed in all regions of the state with input from local fire |
+| departments, planning commissions, and representatives from state and federal wildland fire agencies. These plans |
+| identify both strengths and shortcomings in effective wildland fire response in a rural landscape. With the predicted |
+| changes to our climate, wildfire risk is likely to increase. The Department will continue to encourage communities to |
+| consider CWPPs and views these plans as an excellent tool to build trust and cooperation between all partners |
+| involved in wildland fire pre-suppression efforts, identify wildland urban interface areas, values at risk from wildland |
+| fire, response time by fire departments, and access to water including dry hydrants. The Forestry Division has |
+| provided funding to third parties for the installation and maintenance of dry fire hydrants throughout the |
+| state. These hydrants provide valuable water sources in a rural state, allowing for greater access and faster resupply |
+| of water for wildland fires. Volunteer fire departments view these dry hydrants as critical assets and depend on |
+
+[/TABLE]
+
+[TABLE: • 42% of skid trails had drainage structures installed at the frequency recommended by the Acceptable Management Practices for Maintaining Water Quality on Logging Jobs in Vermont.ASSESSMENT: CULTURAL AND NON-TIMBER FOREST PRODUCTSInterest in non-timber forest products is increasing. These include medicinal and herbal products such as ginseng and goldenseal, decorative products including holiday greenery and vines, edible products such as shitake mushrooms and various nuts, and specialty products such as black ash for basketry. Forest landowners and collectors are encouraged to obtain landowner permission before collecting on Federal, state, or private property and to manage these resources sustainably. The USDA Forest Service report, Culturally and Economically Important Nontimber Forest Products of Northern Maine 34 , provides information on many species of plants traditionally used for food, crafts, and medicinal purposes. Timber harvesting can directly influence water quality by affecting how water flows through a forest. Constructing roads, trails, and log landings can reduce soil permeability, increase soil erosion, and divert and concentrate water flow, leading to gullying. Concentrated water flow can also erode banks and put undue pressure on bridges and culverts. Best management practices (BMPs) are proactive and often voluntary practical methods or practices used during forest management to achieve a healthy sustainable ecosystem with a focus on water quality, forest soils, silviculture, wildlife, biodiversity, aesthetics, and recreation. In Vermont, the water quality practices are called "Acceptable Management Practices for Maintaining Water Quality on Logging Jobs in Vermont" (AMPs). The purpose of the AMPs is to provide measures for loggers, licensed foresters, and landowners to utilize, before, during, and after logging operations to comply with the Vermont Water Quality Standards under the Federal Clean]
+[TABLE:  These waters fail to meet the WQS based primarily on biological monitoring data. Once a waterway is listed as impaired, a Total Maximum Daily]
+[TABLE:  To address this issue, in 2012 the Vermont Legislature made a commitment to Vermonter's values by creating the Working Lands Enterprise Initiative to stimulate economic development in Vermont's agriculture and forest products sectors by making investments in entrepreneurism, business development, and job creation. The Initiative called for the creation of the Working Lands Enterprise Fund (WLEF) and the Working Lands Enterprise Board (WLEB). The WLEB is composed of public-sector members at all levels of the agriculture and forestry supply chains; and the Vermont Agency of Agriculture; Vermont Department of Forests, Parks, and Recreation; Vermont Agency of Commerce and Community Development; Vermont Housing Conservation Board; Vermont Economic Development Authority; and Vermont Sustainable Jobs Fund. The WLEF has, over four years of granting, invested $811,510 in 29 forest businesses, and $779,281 in forestry related service provider grants.]
+
+[TABLE]
+* Continue to invest in the forest and wood products sector through the Working Continue to support business planning and technical assistance efforts offered by Vermont service providers.Maintaining focus and investment in Vermont's working lands and this important initiative will not only grow forest businesses but improve our economy overall and keep the landscape working.FOCUS AREA: FOREST CARBON Nationally, forests recover and store 15% of all CO2 emissions from US sources 44 , and the EPA estimates that improved forest carbon management could nearly double this to approximately 25% of US emissions. Maintaining Vermont's forests and managing them to maximize storage of carbon will be essential to combating the build-up of*
+
+| Lands Enterprise grant program; |
+| --- |
+
+[/TABLE]
+
+[TABLE]
+* with logging operations. One way that Vermont is addressing this problem is through the Portable Skidder Bridge Initiative.Portable skidder bridges are designed and intended for use as temporary structures for crossing streams during logging. Portable skidder bridges are a BMP for controlling nonpoint source pollution associated with timber harvesting operations. FPR, working with partners, is promoting and demonstrating the use of portable bridge designs on timber harvesting operations throughout Vermont. The use of portable skidder bridges as a method for crossing streams during logging operations is gaining popularity as loggers, landowners, and licensed foresters realize their environmental and economic advantages. Expanding the use and reach of this initiative will be an important strategy in our efforts to protect water quality. Public lands, which make up 21% of the forest land in the state, provide a significant land base for all types of forest-based recreation in Vermont. These include state-owned lands and the Green Mountain National Forest, which have larger size parcels and provide opportunities and a continuity of management and a degree of management control that is not available on private lands. For these reasons, state lands are an obvious focus for our forest-based recreation strategies, and enhancing the 2017 Plan, we have reexamined and revised the goals and strategies from the 2010 Plan. They are intentionally broad and flexible and will be tied to specific projects and work plans during implementation. Although Strategy 30: Identify, conserve, and enhance priority forests and forested riparian areas for water quality protection and flood resilience.Strategy 31: Promote forest practices for water quality protection in new land development and retrofits including low impact development and green stormwater infrastructure.*
+
+| these focus on our DESIRED FUTURE CONDITION: MAINTAIN AND ENHANCE FOREST CONTRIBUTION Strategy 32: Address nonpoint source pollution associated with forest land and forestry operations to meet |
+| --- |
+| TO ECOSYSTEM SERVICE they may apply to other Desired Future Conditions. phosphorus reduction allocations across the landscape, including the EPA Lake Champlain TMDL. |
+| Strategy 33: Encourage strategies that improve air quality and moderate air temperatures in urban and rural |
+| GOAL 6: MAINTAIN AND ENHANCE A SUSTAINABLE FOREST PRODUCTS INFRASTRUCTURE, WHICH areas. |
+| ADDS VALUE TO THE VERMONT ECONOMY. |
+| GOAL 8: MAINTAIN AND ENHANCE THE FULL SPECTRUM OF FOREST-BASED RECREATIONAL AND |
+| TOURISM OPPORTUNITIES. |
+| GOAL 7: MAINTAIN AND ENHANCE SOIL, AIR, AND WATER RESOURCES, AND INCREASE FLOOD |
+| RESILIENCE. |
+| Strategy 27: Support research and monitoring that improves the understanding of trends in air quality, weather, Strategy 38: Support research that improves the understanding, measuring, and monitoring of trends in forest |
+| and climate and their effect on forests. carbon sequestration. |
+| Strategy 28: Support research and monitoring that improves the understanding of trends in soil conditions and Strategy 39: Enhance forest carbon market opportunities. |
+| relationships between forest management and soil health. |
+
+[/TABLE]
+
+[TABLE:  Education is vital to maintaining this land ethic. Educational opportunities enable the array of forest landowners, industry professionals, and users to understand and build respect for Vermont's forests. Since its founding, the Division has been a leader in demonstrating forest management and sustainable forest practices on public land and has provided technical assistance and forestry knowledge to generations of Vermonters. To address the trends that threaten Vermonters' relationship to the land and the plants and animals that grow upon it, the Division must enhance our ability to work with partners to cultivate a strong land ethic through traditional and innovation methods of education and outreach, and continue to set the standard for forest management that respects the land and its intrinsic value, and recognizes all appropriate uses.]
+
+[TABLE]
+* private forest land ownership in Vermont was conducted in 2014 by the Forestry Division and the USDA Forest Service's Family Forest Research Center, National Woodland Owner Survey. These data were added to information collected as part of the 2011-2013 National Woodland Owners Survey.*
+
+| 2014 ENHANCED WOODLAND OWNER SURVEY |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| A survey of |  |  |  |  |
+|  | PERCENT OF FAMILY FOREST LAND |  |  |  |
+|  |  | AND OWERSHIP |  |  |
+|  |  | Acres | Ownerships |  |
+|  | 100 |  |  |  |
+|  | 80 |  |  |  |
+| Percentage | 40 60 |  |  |  |
+|  | 20 |  |  |  |
+|  | 0 |  |  |  |
+|  | 10-49 | 50-99 | 100-499 | 500+ |
+|  |  |  | Acres |  |
+
+[/TABLE]
+
+[TABLE]
+* long history and partnership with Vermont ski areas. Seven major Vermont ski areas currently utilize portions of state land for ski area development under a long-term lease. In the mid-1900s, then FPR Commissioner Perry Merrill saw the opportunity to complement and support the Vermont State Park system by allowing the private sector to help meet the growing demand for winter recreational opportunities while encouraging the use of public lands. The leaseholds include a total of roughly 8,500 acres of public land with Jay Peak Resort, Burke Mt. Ski Area, Smugglers' Notch Ski Area, Stowe Mt. Resort, Killington Ski Area, Okemo Mt. Resort, and Bromley Mt. Ski Area.In regards to specific terms and conditions, the ski leases vary slightly from area to area, but all seven prohibit the development of residential units within the lease area, require FPR approval for all planned improvements on state land, and provide a modified level of continued public access within the lease area. FPR works in close collaboration with its ski area partners in reviewing and approving proposed development plans within the lease area and in allowing for appropriate and compatible public use and access to the lease area.Developed in 2006, the Green Mountain Land and Resource Management Plan (Forest Plan) describes how the USDA Forest Service will continue to manage the forest for multiple-use purposes and will strive to emphasize uses and interests seeking to provide benefits for people today, with an eye towards coming trends to maintain options and opportunities for future generations49  . Activities that are guided by the 2006 Forest Plan have impacts on both state and private forest lands within the region. The traditional Forest Service role of managing the GMNF for multiple-use and purposes complements many of the stewardship goals created by FPR for state and private forest 49 Green Mountain National Forest Land and Resource Management Plan, 2006land in Vermont. FPR staff has worked closely with the GMNF staff throughout the development of the plan and will continue to collaborate in plan implementation. SILVIO O. CONTE NATIONAL FISH AND WILDLIFE REFUGE In 1991, the Silvio O. Conte National Fish and Wildlife Refuge (the Refuge) was established to conserve, protect, and enhance the abundance and diversity of native plant, fish, and wildlife species and the ecosystems on which they depend throughout the 7.2 million acre Connecticut River watershed. Currently, the Refuge comprises over 36,000 acres within parts of the four watershed states of New Hampshire, Vermont, Massachusetts, and Connecticut. Refuge land in Vermont includes the Nulhegan Basin Division and the Putney Mountain Unit. The Refuge is an integral part of a larger and unique network of conserved land in the area. In 1997, Champion International Corporation announced that it would sell approximately 132,000 acres of land in Essex County. A Rockefeller National Historical Park was created by an act of Congress after being donated by Laurance and Mary Rockefeller. The National Park Service administers it as a national historical park. The Rockefeller estate and 650 acres of forest land known as the Mount Tom Forest was the boyhood home of George Perkins Marsh, one of America's first conservationists, and later home of Fredrick Billings, conservationist, railroad builder, philanthropist, and pioneer in reforestation and scientific farm management. Since its creation, the Park's educational projects and activities have enhanced and enriched public discussion about land and cultural stewardship in the region. The Park hosts an annual Forest Festival weekend that has become a premier event in the Forest and implemented by Park staff has demonstrated how commonly held public values are enhanced by forest stewardship. DEPARTMENT OF DEFENSE-VERMONT GUARD-CAMP JOHNSON Despite its relatively small size of 660 acres, Camp Johnson in Colchester features a state significant rare forest habitat that it manages in cooperation with several partners. The 175 acres of pitch pine forest sandplain habitat supports 15 state-listed rare plants as well as many insect species that depend on this specific natural community. Camp Johnson has partnered with local agencies, including ANR, to help its natural resources conservation program succeed. ANR has provided staff members to assist the Army in developing a pitch pine nursery seed stock program; the University of Vermont raised the seedlings until they were ready for replanting. The VFW also provides Camp Johnson with assistance from its botanist and St. Michael's College assists with pitch pine research.*
+
+| SKI LEASES |  | REASONS FOR OWNING |  |
+| --- | --- | --- | --- |
+| FPR has a |  | FAMILY FOREST LAND |  |
+|  | 100 |  |  |
+|  |  | Acres | Ownerships |
+|  | 80 |  |  |
+|  | 60 |  |  |
+| Percentage | 40 |  |  |
+|  | 20 |  |  |
+|  | 0 |  |  |
+|  |  | Reasons for owning |  |
+|  |  | Acres | Ownerships |
+| Land owned by FPR and VFW are managed under the guidance of long-range management plans. These |  |  |  |
+| comprehensive stewardship programs are based on multi-resource inventory data, including an assessment of |  |  |  |
+| natural communities, wildlife habitat, timber, recreation, and historic resources, and developed by local ANR |  |  |  |
+| stewardship teams representing broad expertise and resource goals. Lands with natural resource easements are |  |  |  |
+| managed under similar plans. |  |  |  |
+
+[/TABLE]
+
+[TABLE]
+* EDUCATIONProject Learning Tree, a keystone of our conservation education program, is an environmental education curriculum developed by the American Forest Foundation. VT's Project Learning Tree achieves its mission by training educators to integrate the teaching of complex environmental issues into the curriculum in all grades and subject areas. Also, FPR is a member of Vermont SWEEP (State-Wide Environmental Education Programs), a coalition of dozens of organizations and individuals promoting environmental education in the state.PRIVATE LANDSThe core of Vermont's forest stewardship efforts for the past five decades has been the Private Lands Stewardship Program delivered by the county foresters. Arguably the best-known state employees in our rural counties, the Outside of state and federal personnel, consulting foresters -licensed private professionals who earn their living managing forest land for woodland owners -offer a full range of forest and wildlife management services, including inventory, planning, design, and oversight of forest management operations. They frequently represent landowners in timber sales by selecting and marketing timber and other forest products, and overseeing harvests and restoration. They charge for their services, either on a per diem basis or as a percentage of the gross income received from the wood product sales that they oversee.URBAN FORESTSOur state Urban and Community Forestry Program (UCF), delivered in partnership with University of Vermont Extension, has a strong outreach component using such tools as social media, e-newsletters, and online learning.Since much of the planting and care of municipal trees and forests falls on the shoulders of community volunteers, the program has instituted a volunteer training program called Stewardship of the Urban Landscape (SOUL). The program's goal is to educate citizens about the importance of trees and their care, and build a cadre of tree steward leaders in the state who bring to their community the skills needed to manage their urban forest. In addition to SOUL, the program has launched two new training opportunities in 2016: Backyard Woods, and Teens Reaching Youth (TRY): Trees and Forests. The Backyard Woods program is an online course targeted at teaching homeowners with 25 acres or less of forest land about their woods and how they can be caretakers of it. TRY is an environmental and annual highlights and conditions reports. In addition to outreach, FRPP offers a variety of forest health technical assistance from responding to calls from homeowners to coordinating large-scale treatment efforts.PUBLIC AWARENESS AND CITIZEN ENGAGEMENT WITH INVASIVE SPECIESPublic awareness is critical in protecting forest health from invasive species. Educational campaigns, such as 'Don't Move Firewood' and 'Buy Local -Burn Local' help to prevent the spread of invasive species and inform the public.All North American infestations of Asian longhorned beetle, and most of the known emerald ash borer infestations have been detected by members of the public. Early detection allows for a broader range of management strategies. According to a University of Maine study, 90% of Vermont campers now report knowing about invasive pests 50 . To help keep the public informed, a website dedicated to invasive species, www.VTinvasives.org, provides information on reporting suspects, spreading the word, and ways to get involved.Many volunteers assist with surveys for hemlock woolly adelgid, invasive plants, and other pests. Vermont has actively trained citizen scientists to support efforts to combat invasive forest pests through the Vermont Forest Pest For over 100 years, the Town Forest Fire Warden system in Vermont has been effective in fire suppression and fire prevention. Town Forest Fire Wardens regulate open burning in their towns through issuing 'Permits to Kindle Fire,' educating the town residents about safe open burning practices, and maintaining relationships with their local fire departments. Town Forest Fire Wardens are the local points of contact for questions and concerns about open burning, enforcing forest fire laws, and promoting the safe and reasonable use of fire by the residents of their towns. Through its Fire Program, the Division provides annual training to the Town Forest Fire Wardens to keep them up-to-date on the latest methods, technologies, and trends in wildland fire management. The Division equips town Forest Fire Wardens with all the materials needed to promote fire prevention and safe burning. By law, town 50 Campers and Invasive Forest Pests in Northern New England, University of Maine, 2014. Forest Fire Wardens oversee wildland fire suppression, but often call upon the State for technical assistance and specialized equipment. ASSESSMENT: PUBLIC PARTICIPATION IN PUBLIC LAND MANAGEMENT Participation of the public in planning and managing Vermont's forests occurs at different levels. State, federal, and municipal governments all have well-developed avenues for notifying and collecting input from citizens on management plans, strategies, and directions. The Division has two standing advisory committees: the Vermont Urban and Community Forestry Council and the Vermont Forest Stewardship Committee (VFSC). These two groups provide advice and guidance on program development, implementation, and accomplishments. The VFSC also serves as the ranking body for the Forest Legacy Program. Both committees particpated during the development and review of our 2017 Plan.*
+
+| ASSESSMENT: PUBLIC AWARENESS AND TECHNICAL ASSISTANCE |
+| --- |
+| Vermont has a strong network of partners that promote public awareness and offer technical assistance. The |
+| Division's programs contribute to this network by aiding in private and municipal land management, conservation |
+| education, tree diagnostic services, forest health monitoring, urban and community forestry, fire protection, wood FOREST HEALTH |
+| utilization, and watershed forestry. The Division provides programs, educational experiences, and workshops in |
+| forests, parks, and classrooms across the state. These programs engage school groups and junior rangers about Managing for healthy forests relies on a partnership between the Division, natural resource professionals |
+| values of forests, provide the public with opportunities to learn about resource issues, and share information with throughout the state, and informed landowners. Technical assistance, training, and education are essential |
+| landowners, municipalities, and resource managers. One-on-one assistance, for example meeting with private components of the Division's Forest Resource Protection Program's (FRPP) outreach efforts. It is crucial to be able to |
+
+[/TABLE]
+
+[TABLE]
+* on aspects of town business. Many communities have a Conservation Commission, Tree Board, and/or Planning Commission that oversees local ordinances related to street and park trees, the acquisition and management of town forests, and the planning for natural resource protection. Engaging citizens in land use decisions at the local level promotes the understanding of community benefits and a stewardship ethic. By statute, municipalities can request state assistance in the management of the land they own. A significant number of town, municipal, and community forests that have active management depend on the services of the Division's county foresters.Public Involvement is an important part of the development of both the Green Mountain and Finger Lakes National Forest Land and Resource Management Plan (Forest Plan) and the projects that will implement the Plan. The National Forest Management Act requires the Forest Service to establish procedures to give the federal, state, and local governments and the public adequate notice and an opportunity to comment upon the formulation of Forest Plans. In addition, The National Environmental Policy Act (NEPA) requires federal agencies to "encourage and facilitate public involvement in decisions which affect the quality of the human environment. During the development of the 2006 Green Mountain and Finger Lakes National Forest-Forest Plan, the GMNF staff conducted extensive public involvement. Public participation continues with the development of site specific projects designed to implement the 2006 Forest Plan. Projects are designed in collaboration with stakeholders, other state and federal agencies, and interested citizens most often from the communities where the projects will occur.ASSESSMENT: FOREST CERTIFICATIONForest certification is another tool to enhance sustainable use and promote excellent management. There are three primary forest certification programs within Vermont: Forest Stewardship Council (FSC), Sustainable Forestry Initiative (SFI), and American Tree Farm System (ATFS). Standards are similar between SFI and ATFS, and they share many similarities with FSC. In addition to forest certification, all three claim to provide or have access to a thirdparty chain of custody certification, which requires finished products to carry an indication of accreditation. However, wood product manufacturers say that as the demand for wood products recovers from the current depressed state, they expect that certification will play a much larger role in consumer preference. 'Buy Local' is a consumer interest that is expanding beyond food and agricultural products and into the forest economy.Secretary of State's Office of Professional Regulation. The bill exempts some landowners doing forestry services on their land. Overall, the law defines the minimum qualifications (education, experience, testing, and continuing education) for one to have a license to offer services, and sets out a range of standards of professional conduct. It also includes a transitional provision "grandfathering" under which many, if not all, presently active foresters in Vermont would be granted a license. As of the end of 2016, there are 196 licensed foresters. state parks, state forests, state wildlife management areas, National Forests, wildlife refuges, National Parks, town forests, and other public lands including public easements are managed to provide Vermonters with myriad opportunities for a broad range of sustainable uses and benefits. These include recreating, enjoying nature, retreating to a peaceful setting, producing forest products, sustaining and protecting critical wildlife habitat, and providing habitat for threatened and endangered species.*
+
+| PRIORITY LANDSCAPES AND FOCUS AREA |
+| --- |
+| PRIORITY LANDSCAPE: PUBLIC LANDS |
+| Vermont's |
+| ASSESSMENT: FORESTER LICENSING |
+| The Vermont Secretary of State's Office of Professional Regulation conducted a review and issued a report in 2014, |
+
+[/TABLE]
+
+[TABLE]
+* THE RURAL RESIDENTIAL LANDSCAPE ZONE includes a combination of forested and agricultural lands, most of which has been farmed within the past 120 years. It is where most Vermonters choose to live, in dispersed single homes and small tract developments. It contains most of the mid-and lower level streams and rivers, as well as most roads and utility corridors.THE RURAL LANDSCAPE ZONE is over 90% forested. Well over 50% of the Rural Landscape Zone is public land.Nearly all of Vermont's largest forested parcels are in the zone. Agricultural and developed lands are rare as the zone contains areas with higher elevations with steeper slopes and poorer soils.Education and engagement of Vermonters in the natural world improves their environmental literacy. Studies have shown that people who enjoy meaningful experiences in the outdoors can think critically and act responsibly on behalf of the ecological, social, and economic values of our forests and other natural resources. Perhaps no other issue is as important to the long-term success of the strategies and actions than improving environmental literacy of all Vermonters.To address this issue, we must enhance our dedication to outreach efforts. Our county foresters have always been our most visible interface for education and engagement and support for enabling county foresters to continue to work with citizens will remain important. With Vermont's new forester licensing law, FPR will work with partners to provide continuing education credits to support professional development and license maintenance. FPR's Conservation Education Coordinator, working with partners, will continue to provide outreach and education programs to schools and other groups throughout the state. It is critical to reach our elementary and secondary schools to educate future Vermonters about environmental literacy and a forest stewardship ethic. Finally, the Urban and Community Forestry Program engages municipalities and citizen leaders to understand the value of their community forests and their civic responsibility to provide a standard of care to protect public safety and maximize benefits of public trees.*
+
+| FOCUS AREA: ENVIRONMENTAL LITERACY |  |  |  |
+| --- | --- | --- | --- |
+| PRIORITY LANDSCAPES AND FOCUS AREAS BY LANDSCAPE ZONE |  |  |  |
+| PRIORITY | URBAN | RURAL RESIDENTIAL | RURAL |
+| LANDSCAPE |  |  |  |
+| Forest Legacy |  |  |  |
+| Forest Land Eligible for UVA Enrollment |  |  |  |
+| Conserved Lands |  |  |  |
+| High Ecologically Functioning Forests |  |  |  |
+| Forest Land Threatened by Non-Native Invasive Pests |  |  |  |
+| Wildland Urban Interface |  |  |  |
+| Lake Champlain Watershed |  |  |  |
+| Developed Lands-Urban Canopy Enhancements |  |  |  |
+| Public Lands |  |  |  |
+| FOCUS AREA |  |  |  |
+| Non-Native Invasive Pests |  |  |  |
+| Climate Change |  |  |  |
+| Voluntary Harvesting Guidelines |  |  |  |
+| Environmental Literacy |  |  |  |
+| Intergenerational Transfer of Forest Land |  |  |  |
+| Working Lands Economic Vitality |  |  |  |
+| Water Quality Protection |  |  |  |
+| Forest Carbon |  |  |  |
+| Forest Fragmentation and Parcelization |  |  |  |
+| Forest Based Recreation |  |  |  |
+| Municipal Urban Forest Management |  |  |  |
+| Forestry Division Budget |  |  |  |
+| Supporting Partnerships |  |  |  |
+| Organizational Capacity and Workforce Development |  |  |  |
+| Policies, Rules, and Laws |  |  |  |
+
+[/TABLE]
+
+[TABLE]
+* Although these goals are focused around our DESIRED FUTURE CONDITION: MAINTAIN AND ENHANCE AN ETHIC OF RESPECT FOR THE LAND, SUSTAINABLE USE, AND EXEMPLARY MANAGEMENT, they may apply to other desired future conditions. GOAL 10: EDUCATE THE PUBLIC ABOUT FOREST ECOSYSTEMS AND PROMOTE FOREST VALUES AND THE CRITICAL ROLE THEY PLAY IN SUSTAINING VERMONT. Strategy 43: Foster a recognition of the ecological, social, and economic contributions that forest ecosystems provide to Vermont, and the need to sustain forest health and productivity to ensure continued benefits for this and future generations. Educate and engage the public in forest stewardship and citizen science, including Stewardship of the Urban Landscape (SOUL) Tree Stewards and Forest Pest First Detectors. Strategy 50: Educate landowners, loggers, licensed forester, and land managers on the benefits of forest stewardship. Strategy 51: Highlight and promote exemplary forest stewardship efforts on public and private lands. Provide information and technical assistance to landowners, (public and private) and professionals who influence land use decisions, such as realtors and engineers to help them understand, evaluate, and/or implement actions to advance sustainable use and stewardship of Vermont's forests.*
+
+| Strategy 47: Increase the capacity of natural resource professionals, including loggers, to provide high-quality goods and services. Strategy 48: Implement and demonstrate sustainable forest management on public lands, including town forests. Strategy 49: Strategy 52: Provide technical support for pest management and other information about maintaining tree health to landowners, resource managers, and other citizens. Strategy 53: Provide training and technical support, and maintain partnerships for wildland fire prevention and response. LEGAL, INSTITUTIONAL, AND ECONOMIC FRAMEWORK Vermont has a legal, institutional, and economic framework in Strategy 54: DESIRED FUTURE CONDITION: place for forest conservation and sustainability |
+| --- |
+
+[/TABLE]
+
+[TABLE:  CUT LAW   In 1997, the Vermont Legislature passed what is known as Vermont's "Heavy Cut" law, V.S.A.10 Chapter 83 § 2625, to regulate heavy cutting and clear-cutting of forest land in Vermont. The law requires landowners who intend to conduct a heavy cut of 40 acres or more on land owned or controlled by the landowner, as well as landowners heavy cutting more than 80 acres within a 2-mile radius, to file a "Notice of Intent to Cut" with FPR. The law defines heavy cutting as a harvest which leaves a residual stocking level of acceptable growing stock below the "C-line", as defined by the United States Department of Agriculture silvicultural stocking guides. Landowners are required to file]
+
+[TABLE]
+*Acres Year PERMITTED HEAVY CUT ACRES BY YEAR ACCEPTABLE Since 2010, numbers of approved heavy cuts range from a low of 48 in 2012 to a high of 59 in 2014(Chart 11). Acres that were heavy cut range from a low of 4,607 in 2014 to a high of 8,009 in 2010 (Chart 12). Many approved heavy cuts qualify as exemptions. From 2010 to 2016, 305 applications concerning 35,670 acres qualified as exemptions.During this same timeframe, there were 72 approved 'Notices of Intent' to cut within 6,654 acres. Most of the approved heavy cutting has occurred in the Northeast Kingdom counties; from 2010 to 2016, 58% of approved heavy cuts and 65% of the total acreage were in this region. MANAGEMENT PRACTICES FOR MAINTAINING WATER QUALITY ON LOGGING JOBS The 1986 Vermont Legislature passed amendments to Vermont's water quality statutes, Title 10 VSA Chapter 47: Water Pollution Control, which stated that "it is the policy of the State to seek over the long-term to upgrade the quality of waters and to reduce existing risks to water quality." The revised state law requires permits for discharges of "any waste, substance, or material into the waters of the state." However, individual permits are not required for any discharges that inadvertently result from logging operations, if responsible management practices have been followed to protect water quality. AMPs for Maintaining Water Quality in Vermont were developed and adopted as rules for Vermont's water quality statutes and became effective August 15, 1987. The AMPs are intended and designed to prevent sediment, petroleum products, and woody debris (logging slash) from entering Vermont's waters. The AMPs were revised in 2016 with an improved set of practices as a requirement of Act 64, legislation to improve water quality. The division has started the process to update the AMP manual with the new rules, supporting information about how to implement the rules, and additional information such as timber sale planning and guidelines for harvesting near wetlands. The manual is expected to be completed by early summer 2017. Vermont's land use law, was enacted in 1970 and is recognized nationally as a landmark land use regulation. Ten criteria were developed to minimize environmental impact from development. Headwaters, predominantly forested and considered as pristine, are defined and protected under this state statute. Because*
+
+| HEAVY CUT APPLICATIONS BY YEAR |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| Applications |  |  |  |  |  |  |
+| 2010 | 2011 | 2012 | 2013 | 2014 | 2015 | 2016 |
+|  |  |  | Year |  |  |  |
+| Future Condition 2. |  |  |  |  |  |  |
+| ACT 250 |  |  |  |  |  |  |
+| 0 Act 250, headwater streams have significant influence on downstream river processes, it is important to direct protection 2010 2011 2012 2013 2014 2015 2016 |  |  |  |  |  |  |
+| and conservation efforts to maintain and enhance forest cover in these watersheds. All logging over 2500' in |  |  |  |  |  |  |
+| elevation needs to go through Act 250 review. |  |  |  |  |  |  |
+
+[/TABLE]
+
+[TABLE]
+* • 2015 REVISED VERMONT WILDLIFE ACTION PLAN is an update of Vermont's first Wildlife Action Plan, created in 2005. Congress requires that each state revises its Action Plan at least every ten years to remain eligible for State Wildlife Grants (SWG) funds. FOREST LEGACY PROGRAM, ANALYSIS OF NEED (AON) documents the threat of loss of traditional forest values and benefits and, with the approval of the USDA Forest Service, delineates an area or areas (Forest Legacy Area) in the state in greatest need of assistance from the program. The process for doing this is referred to as the Assessment of Need (AON). It was approved in 2010.*
+
+| over 10,000 Vermonters and generates over $1.4 billion in economic output yearly, and is a critical |
+| --- |
+| component of Vermont's economy. |
+| • INTERNAL DIVISION PLANS are important for moving Division programs forward. Division programs that |
+| • THE NORTHEASTERN AREA STATE AND PRIVATE FORESTRY STRATEGIC PLAN FOR FISCAL YEARS 2013-have plans include Urban and Community Forestry, Forest Resource Protection, and Forest Resource |
+| 2018 identifies the most important forest-related challenges and opportunities we face and sets priorities Management. The development of some of these plans have engaged stakeholders and are strategic, while |
+| to guide us as we work with others toward our vision for forests in the 21st century. others are truly internal work plans. |
+| • GREEN MOUNTAIN NATIONAL FOREST LAND AND RESOURCE MANAGEMENT PLAN guides the ASSESSMENT: FOREST DATA INFRASTRUCTURE |
+| management of the GMNF for the current planning period (2006 to 2021). The Forest Plan is strategic in |
+| nature, with an emphasis on ecological, social, and economic sustainability over the long-term. The strategies developed to implement this 2017 Plan are dependent on data to inform decisions and management. |
+| An enormous volume of government, NGO, and private sector data is available concerning forests, plants, animals, |
+| RECOMMENDATIONS IN SUPPORT OF FOREST HEALTH AND INTEGRITY IN RESPONSE TO ACT • STATE LANDS PLANNING Lands owned by FPR and VFW are managed under the guidance of long-range |
+| 61 OF 2015, was produced in 2016 to identify policy considerations. management plans. The development of these comprehensive plans is based on multi-resource inventory |
+| • CREATING AND MAINTAINING RESILIENT FORESTS IN VERMONT: ADAPTING FORESTS TO CLIMATE data including an assessment of natural communities, wildlife habitat, timber, recreation, and historic |
+| CHANGE was published in 2015 by FPR to provide land managers with a menu of forest adaptation resources. Each planning effort includes public outreach. Long-range management plans may address just a |
+| strategies; many policy-level strategies have been included in recognition of the connections between single state forest or wildlife management area or may be several parcels combined into a management |
+| statewide policy and forest management. unit. |
+
+[/TABLE]
+
+[TABLE]
+* Interaction has occurred both directly and through collaborative partnerships that both GMNF and FPR are involved in, including the Forest Roundtable and the Staying Connected Initiative. Our 2017 Plan was presented to The STC at one of their regular meetings and reviewed over a period of a few weeks by select individuals of the group. , representatives from the forest products industry, conservation groups, biomass energy organizations, and public and private universities and colleges. VNRC's goal as convener of the Roundtable has been to create an open forum through which people with a broad range of perspectives could exchange information and, where possible, develop recommendations for policy changes. Roundtable meetings have addressed multiple topics,*
+
+| Vermont Housing Conservation Board, Vermont Economic Development Authority, and Vermont Sustainable Jobs |
+| --- |
+| Fund. |
+| PRIORITY LANDSCAPES AND FOCUS AREAS |
+| including trends in Vermont's real estate market and rising forest land values, property tax policy, land use and |
+| NATURAL RESOURCE CONSERVATION SERVICE conservation planning, estate planning, landowner incentive programs such as the Current Use Program, and the |
+| In addition to the USDA Forest Service S&PF, one of the Division's important federal partnerships is with the USDA long-term sustainability of the forest products industry. FOCUS AREA: FORESTRY DIVISION FUNDING |
+| The Division's annual budget is currently $6.4 million. Funds come from: 60% general funds, 20% federal funds Natural Resources Conservation Service (NRCS). NRCS' role is to work with private forest landowners to help them understand the effects of different management decisions. Identified 'problems' on the land, or 'resource LANDOWNER ASSOCIATIONS (excluding Forest Legacy Program acquisitions), 18% special funds, and 2% inter-departmental transfers. The |
+| concerns', are identified and addressed with conservation practices implemented through a Conservation Plan. The Division works closely with landowner associations, utilizing their collective and social connections to reach percent of the Division's budget provided by federal funds has shifted over the past eight years from a high of 26.5% |
+| forest stewards and help us with plan implementation. Three of the most active landowner association partners are to a low of 20%; these shifts are a result of reductions in core federal program allocations and competitive sources. |
+| Vermont Family Forests, Coverts (focus on wildlife management), and the Vermont Woodlands Owners Association. |
+| Vermont Forest Products Association, and the Vermont Wood Manufacturers Association. |
+| FOREST ROUNDTABLE |
+| The Forest Roundtable (Roundtable) provides a link to nonprofit and other partners organizations. Conceived and THE WORKING LANDS ENTERPRISE INITIATIVE |
+| convened by the Vermont Natural Resources Council (VNRC) in 2006, the Roundtable is a venue for the exchange of An important partner in carrying out the 2017 Plan's strategies for working lands is the State of Vermont's Working |
+| information related to keeping Vermont's forests as forests, with attention focused on addressing parcelization and Lands Enterprise Initiative. They created the Working Lands Enterprise Fund (WLEF) and the Working Lands |
+
+[/TABLE]
+
+[TABLE]
+* -state priority landscapes or focus areas are where states can share resources to address regional threats and opportunities. FPR has a long history of participation in multi-state forest resource projects. These projects have ranged from forest health (for example the North American Maple and the Forest Pest Outreach and Survey projects) and ecological mapping efforts such as the Biophysical Regions project, to participation in the fourstate (ME, NH, VT, NY) economic development activities through the North East State Foresters Association. All of these efforts have one thing in common: the need to cooperate across state boundaries to address a pressing regional need. Notably, resource values and threats do not stop at our international border and new initiatives such as the Staying Connected project are an example of this international need. This section incorporates the USDA Forest Service's "Federally Led Landscape Scale Conservation Initiatives in the Northeast and Midwest" report 52 .*
+
+| GOAL 13: VERMONT'S FORESTRY POLICIES, RULES, AND LAWS ARE FOLLOWED. Strategy 71: Maintain an appropriate level of infrastructure and staffing. MULTI-STATE PRIORITIES: |
+| --- |
+| Strategy 63: Provide information, technical assistance, and education to support compliance with Vermont's Strategy 72: Promote cross-program cooperation to improve efficiency and effectiveness. |
+| forest policies, rules, and laws. Strategy 73: Maintain and develop data management systems and share data among partnerships to enhance LANDSCAPES AND FOCUS AREAS |
+| Strategy 64: Support enforcement of Vermont's laws and regulations and participate in the development and internal and external communications and collaborations. OVERVIEW |
+| These are intentionally broad and flexible and we will tie specific projects and work plans during implementation. Although improvement of policies and rules that support forestry including Vermont's Acceptable Management Practices for Water Quality, Shoreland Protection Act, state and federal quarantines, and the reduction of Lake Strategy 74: Support professional development, continued learning, and succession planning for Division staff. Regional and multi |
+| these goals focus on our DESIRED FUTURE CONDITION: VERMONT HAS A LEGAL, INSTITUTIONAL, AND Champlain's TMDL. Strategy 75: Encourage an organizational culture within the Division that rewards excellence, encourages |
+| ECONOMIC FRAMEWORK IN PLACE FOR FOREST CONSERVATION AND SUSTAINABILITY, they may apply teamwork, and provides mentoring to achieve maximum job performance and satisfaction. |
+| to other desired future conditions. |
+| GOAL 14: INITIATE AND SUPPORT POLICIES, PROGRAMS, AND INITIATIVES THAT ASSIST IN Strategy 76: Ensure Division policies and procedures are clear, sensible, and followed in a timely manner. |
+| MAINTAINING A HEALTHY FOREST LANDSCAPE. |
+| Strategy 77: Cultivate new strategic partnerships while enhancing existing collaborations to reach the desired |
+| Strategy 65: Support Vermont's Use Value Appraisal program to preserve the working landscape and the rural future conditions outlined in this 2017 Plan. |
+| character of Vermont. |
+| Strategy 60: Support the development of a carbon credit system that allows the aggregation of smaller parcels Strategy 69: Support policies and laws that reduce landowner liability, the trend of increased posted land, and |
+| to enable them to remain economically viable and forested. encourage a land ethic that maintains the Vermont tradition of public access to private land. |
+| Strategy 61: Support efforts to monetize ecosystem services with an aim to reward and incentivize landowners |
+| for the contributions their forests provide. GOAL 15: MAINTAIN AN ORGANIZATIONAL STRUCTURE AND CAPACITY WITHIN THE DIVISION OF |
+| FORESTS TO SUPPORT AND ENCOURAGE SUSTAINABLE MANAGEMENT, PROTECTION, |
+| Strategy 62: Support good stewardship through financial assistance for landowners and communities, including CONSERVATION, AND USE OF VERMONT'S FORESTS. |
+| Natural Resource Conservation Service programs. |
+
+[/TABLE]
+
+[TABLE]
+* THE FOREST LEGACY PROGRAM OVERVIEW The Forest Legacy Program (FLP) is a federal grant program to protect forest lands from conversion to non-forest uses. Most forested lands in the United States and Vermont are held in private ownership and that those landowners are facing growing financial pressure to convert their land to uses would remove them from the forested land base. FPR works jointly with the USDA Forest Service to administer the FLP. The goals of Vermont's FLP are to protect large contiguous and productive working forests; habitats for wildlife dependent on large contiguous forest blocks; habitat for threatened and endangered species; State fragile areas and undeveloped shoreline; significant wetlands; and important recreation corridors. FLP requires each state to select areas where the most valuable forest lands face the greatest threats, and complete an Assessment of Need (AON) to focus federal investment on priority landscapes or Forest Legacy Areas 53 . The Forest Legacy Areas identified in the Vermont AON are mapped and represent the areas in which potential Forest*
+
+|  | COMPLETED FOREST LEGACY PROJECTS IN VERMONT PROJECT NAME TRACT NAME(S) ACRES MONADNOCK, BULL AND SABLE MOUNTAINS Peak Properties, Averill, Monadnock Mountain, Maistone Inholding, Nurse Mountain, Victory Basin, Adden Mountain, Bolton Mountain Uplands COW MOUNTAIN POND Cow Mountain Pond CHITTENDEN COUNTY UPLANDS Hatch, Mallory Brook, Scheuer, Preston W & L, Yandow, Green Crow, Wheeler/JULT, Wheeler NE, Buttolph, Preston B & W, Peet, Hallock/Pratt, Sunshine/Jordan, Prelco, Inc., VLT/Villeneuve, Fred Johnson WMP Green River FOREST LAND ELIGIBLE FOR UVA HIGH ECOLOGICALLY FUNCTIONING FORESTS CONSERVED LANDS FOREST LAND THREATENED BY NON-NATIVE INVASIVE PESTS WILDLAND URBAN INTERFACE LAKE CHAMPLAIN WATERSHED DEVELOPED LANDS PUBLIC LANDS URBAN LANDSCAPE ZONE RURAL RESIDENTIAL LANDSCAPE ZONE RURAL LANDSCAPE ZONE FOREST FRAGMENTATION AND PARCELIZATION VOLUNTARY HARVESTING GUIDELINES NON-NATIVE INVASIVE SPECIES CLIMATE CHANGE WORKING LANDS ECONOMIC VITALITY WATER QUALITY PROTECTION FOREST LAND ELIGIBLE FOR UVA HIGH ECOLOGICALLY FUNCTIONING FORESTS CONSERVED LANDS FOREST LAND THREATENED BY NON-NATIVE INVASIVE PESTS WILDLAND URBAN INTERFACE LAKE CHAMPLAIN WATERSHED DEVELOPED LANDS PUBLIC LANDS URBAN LANDSCAPE ZONE RURAL RESIDENTIAL LANDSCAPE ZONE RURAL LANDSCAPE ZONE FOREST FRAGMENTATION AND PARCELIZATION VOLUNTARY HARVESTING GUIDELINES NON-NATIVE INVASIVE SPECIES CLIMATE CHANGE WORKING LANDS ECONOMIC VITALITY WATER QUALITY PROTECTION FOREST LAND ELIGIBLE FOR UVA HIGH ECOLOGICALLY FUNCTIONING FORESTS CONSERVED LANDS FOREST LAND THREATENED BY NON-NATIVE INVASIVE PESTS WILDLAND URBAN INTERFACE LAKE CHAMPLAIN WATERSHED DEVELOPED LANDS PUBLIC LANDS URBAN LANDSCAPE ZONE RURAL RESIDENTIAL LANDSCAPE ZONE RURAL LANDSCAPE ZONE FOREST FRAGMENTATION AND PARCELIZATION VOLUNTARY HARVESTING GUIDELINES NON-NATIVE INVASIVE SPECIES CLIMATE CHANGE WORKING LANDS ECONOMIC VITALITY WATER QUALITY PROTECTION FOREST LAND ELIGIBLE FOR UVA HIGH ECOLOGICALLY FUNCTIONING FORESTS CONSERVED LANDS FOREST LAND THREATENED BY NON-NATIVE INVASIVE PESTS WILDLAND URBAN INTERFACE LAKE CHAMPLAIN WATERSHED DEVELOPED LANDS PUBLIC LANDS URBAN LANDSCAPE ZONE RURAL RESIDENTIAL LANDSCAPE ZONE RURAL LANDSCAPE ZONE FOREST FRAGMENTATION AND PARCELIZATION VOLUNTARY HARVESTING GUIDELINES NON-NATIVE INVASIVE SPECIES CLIMATE CHANGE WORKING LANDS ECONOMIC VITALITY WATER QUALITY PROTECTION INTRODUCTION Forests, both private and public, deliver public benefits and require public investments. State forestry agencies TOTAL COST FLP AMOUNT $2,375,546 $1,703,546 $570,000 $271,000 $5,993,704 $4,452,515 $2,526,000 $1,776,000 FOREST-BASED RECREATION FOREST CARBON ENVIRONMENTAL LITERACY INTERGENERATIONAL TRANSFER OF FOREST LAND MUNICIPAL URBAN FOREST MANAGEMENT FORESTRY DIVISION FUNDING FOREST-BASED RECREATION FOREST CARBON ENVIRONMENTAL LITERACY INTERGENERATIONAL TRANSFER OF FOREST LAND MUNICIPAL URBAN FOREST MANAGEMENT FORESTRY DIVISION FUNDING FOREST-BASED RECREATION FOREST CARBON ENVIRONMENTAL LITERACY INTERGENERATIONAL TRANSFER OF FOREST LAND MUNICIPAL URBAN FOREST MANAGEMENT FORESTRY DIVISION FUNDING FOREST-BASED RECREATION FOREST CARBON ENVIRONMENTAL LITERACY INTERGENERATIONAL TRANSFER OF FOREST LAND MUNICIPAL URBAN FOREST MANAGEMENT FORESTRY DIVISION FUNDING provide state and federal programs that benefit all Americans. Forest Action Plans (FAP), including Vermont's 2017 |  |  |  |  | SUPPORTING PARTNERSHIPS SUPPORTING PARTNERSHIPS SUPPORTING PARTNERSHIPS SUPPORTING PARTNERSHIPS | ORGANIZATIONAL CAPACITY AND WORKFORCE DEVELOPMENT ORGANIZATIONAL CAPACITY AND WORKFORCE DEVELOPMENT ORGANIZATIONAL CAPACITY AND WORKFORCE DEVELOPMENT ORGANIZATIONAL CAPACITY AND WORKFORCE DEVELOPMENT | POLICIES, RULES, AND LAWS POLICIES, RULES, AND LAWS POLICIES, RULES, AND LAWS POLICIES, RULES, AND LAWS | CONSERVE WORKING FOREST LANDSCAPES CONSERVE WORKING FOREST LANDSCAPES CONSERVE WORKING FOREST LANDSCAPES CONSERVE WORKING FOREST LANDSCAPES | PROTECT FORESTS FROM HARM PROTECT FORESTS FROM HARM PROTECT FORESTS FROM HARM PROTECT FORESTS FROM HARM | ENHANCE PUBLIC BENEFITS FROM TREES AND FORESTS ENHANCE PUBLIC BENEFITS FROM TREES AND FORESTS ENHANCE PUBLIC BENEFITS FROM TREES AND FORESTS ENHANCE PUBLIC BENEFITS FROM TREES AND FORESTS |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| STRATEGIES STRATEGIES STRATEGIES STRATEGIES | GREEN RIVER EDEN FOREST | Buttolph I, Eden Forest, Coolidge, Early/Rabinowitz, Buttolph II, TNC/Childs PRIORITY LANDSCAPES PRIORITY LANDSCAPES PRIORITY LANDSCAPES PRIORITY LANDSCAPES |  | $7,997,490 FOCUS AREAS FOCUS AREAS FOCUS AREAS FOCUS AREAS | $5,757,490 |  | NATIONAL PRIORITIES NATIONAL PRIORITIES NATIONAL PRIORITIES NATIONAL PRIORITIES | PROGRAMS PROGRAMS PROGRAMS PROGRAMS |  |  |  |
+| 18 37 | ORANGE COUNTY HEADWATERS |  | Terrill Gorge, Stevens, VRC/Green Crow, Meadowsend Timberlands | $1,072,500 | $760,000 |  | CE, CL, FH, SL, UCF CL, WF FL, SL CE, FS |  |  |  |  |
+| 19 38 | ATLAS |  | Atlas | $342,000 | $342,000 |  | CE, CL, FH, SL, UCF FH, SL CL, FH, SL FH, FS, UM WF |  |  |  |  |
+| 20 39 | HANCOCK |  | Hancock | $2,847,000 | $2,500,000 |  | CL, FH, SL, UCF FH, FS, SL, UCF, WF CL, FS SL, UCF |  |  |  |  |
+| Lakes National Forest. fpr.vermont.gov/state_lands/acquisition/forest_legacy/assessment More information on Vermont's Assessment of Need: BRUSHWOOD COMMUNITY French, Crawford, Ducharme/Wallstrom/Cook, Town of $2,004,770 FOREST Bradford, Green Mountain Club Smith, Chamberlin NO TOWN/CHATEAUGUAY Meadowsend $950,000 MT. HOLLY WILDLIFE Garrow/Blakley Lots, Bessenyey, Lake Lot, P.K. Brown $1,918,000 DESIRED FUTURE CONDITION 3: FOREST PRODUCTS AND ECOSYSTEMS SERVICES 21 40 22 41 42 23 DESIRED FUTURE CONDITION 4: LAND ETHIC CORRIDOR WILDERNESS CORP Wilderness Corp $771,000 24 |  |  |  |  | $1,484,770 $550,000 $1,438,000 $618,000 |  | CL, FH, SL CL, FL, FS, SL, CL, SL CE, FH, FS, UCF UCF, WF CL, FH, SL CL, UCF, WF CL, UCF CE, FS, UCF, UM, WF FS, UCF, WF CL FS, SL, UCF CL, UCF FH, FS CE, FS, UM FS, UM FL, SL FF |  |  |  |  |
+| 25 | SNOW |  | Snow | $200,000 | $200,000 |  | UM CE, FS CE, FS, WF |  |  |  |  |
+| 26 | GREEN MOUNTAIN |  | Anderson TCF, Risavich, Woodward Reservoir, Keiser Pond | $1,649,107 | $1,087,796 |  | CL, FH, UM CE |  |  |  |  |
+|  | WILDLIFE CORRIDOR |  |  |  |  |  |  |  |  |  |  |
+|  |  |  | Jackson Valley, Judkins, Harris, MWL II, | $7,451,277 | $4,500,777 |  |  |  |  |  |  |
+|  | NORTHERN GREEN |  | Bolton Nordic, Tract 07, 08, 09, and 10 |  |  |  |  |  |  |  |  |
+|  | MOUNTAINS LINKAGE |  |  |  |  |  |  |  |  |  |  |
+|  |  |  | Tract 01 -Molly's Falls Pond | $670,000 | $1,605,000 |  |  |  |  |  |  |
+|  | GROTON FOREST LEGACY |  |  |  |  |  |  |  |  |  |  |
+|  | INITIATIVE |  |  |  |  |  |  |  |  |  |  |
+|  | Chart 15: Forest Legacy Projects Completed in Vermont, 2016. |  |  |  |  |  |  |  |  |  |  |
+
+[/TABLE]
+
+[TABLE]
+*• Expand forest-based recreational strategies in FAP update.*
+
+| National Priority 2 |
+| --- |
+| PROTECT FORESTS FROM THREATS |
+| PRIORITY AREA: Urban Rural, Rural/Residential, Multi-State Regional |
+| ISSUE ADDRESSED: Forest Ecosystem Health |
+| DESIRED FUTURE CONDITION 1: Conserve biological diversity across all landscapes |
+| GOAL 1: Identify trends in forest ecosystem health and productivity. |
+
+[/TABLE]
+
+[TABLE]
+* Foresters and forest landowners face considerable challenges in identifying current and future climate trends and in adjusting land management to prepare for and avert risk to long-term forest health. Yet historically few resources have been available to inform and assist them in adapting forests to climate change. Augmented by a USFS competitive grant, FPR initiated a multi-partner project to assess forest vulnerability, anticipating forest responses*
+
+| National Priority 2 |
+| --- |
+| PROTECT FORESTS FROM THREATS |
+| PRIORITY AREA: Urban, Rural, Rural/Residential |
+| ISSUE ADDRESSED: Climate Change |
+| DESIRED FUTURE CONDITION 3: Maintain and enhance forest ecosystem health and productivity |
+| GOAL 2: Maintain the health and productive capacity of forests. |
+| PROJECT |
+| ADAPTING FORESTS TO CLIMATE CHANGE |
+
+[/TABLE]
+
+[TABLE]
+* Climate change demonstration areas were established in five state forests and one private forest cooperative. A vulnerability study for Vermont natural resources was conducted. The guidebook for foresters, Creating and Maintaining Resilient Forests in Vermont: Adapting Forests to Climate Change, was published. And an online webinar on forest adaptation, as part of the Urban and Community Forestry webinar series, was produced.*
+
+| KEY PARTNERS |  |
+| --- | --- |
+|  | • US Forest Service, State & Private Forestry |
+| • Manomet Center for Sustainability | financial support through a Competitive |
+| • Northeast Institute for Applied Climate | Allocation Request for Proposals grant |
+| Science (NIACS) | • Vermont Department of Environmental |
+| • US Forest Service, Green Mountain National | Conservation |
+| Forest | • Vermont Fish & Wildlife Department |
+| 2017 PLAN STRATEGIC ACTIONS |  |
+
+[/TABLE]
+
+[TABLE]
+* Invasive Plant Management and Coordination efforts are aimed at increasing public understanding of the impact invasive plants have on an ecosystem; provide resources for land managers to assess, monitor, and manage invasive plant populations; coordinate collaboration with related projects and partners on tools and technical resources; support the creation and ongoing efforts of Cooperative Invasive Species Management Areas (CISMAs) in Vermont;*
+
+| National Priority 2 |
+| --- |
+| PROTECT FORESTS FROM THREATS |
+| PRIORITY AREA: Urban, Rural, Rural/Residential, Multi-State Regional |
+| ISSUE ADDRESSED: Non-Native Invasive Species |
+| DESIRED FUTURE CONDITION 2: Maintain and enhance forest ecosystem health and |
+| GOAL 3: Maintain and enhance forest ecosystem health and productivity. |
+| PROGRAM |
+| INVASIVE PLANT MANAGEMENT AND COORDINATION |
+
+[/TABLE]
+
+[TABLE]
+* This is being accomplished through BMP monitoring, development, and delivery; and educational and technical assistance to loggers, landowners, and natural resource professionals. BMP studies and audits conducted in Vermont have consistently shown that stream crossings are the principal source of sediment associated with logging operations. One way that Vermont is addressing this problem is through the Portable Skidder Bridge Initiative.*
+
+| ENHANCE PUBLIC BENEFITS FROM TREES AND FORESTS |
+| --- |
+| PRIORITY AREA: Rural, Rural/Residential, Multi-State Regional |
+| ISSUE ADDRESSED: Water Quality -Non-Point Source Pollution |
+| DESIRED FUTURE CONDITION 3: Maintain and enhance forest contribution to ecosystem services. |
+| GOAL 2: Maintain and enhance soil, water, and air resources. |
+| 2010 Plan Strategy |
+| Encourage inclusion of soil and water |
+| conservation considerations by foresters, |
+| forest landowners and loggers through |
+| appropriate forest planning and practices. |
+
+[/TABLE]
+
+[TABLE]
+* Educate and engage the public in forest stewardship and citizen science, including Stewardship of the Urban Landscape Tree Stewards and Forest Pest First Detectors.*
+
+| 2017 PLAN STRATEGIC ACTIONS |
+| --- |
+| • |
+| Proposals grant. |
+
+[/TABLE]
+
+[TABLE:  1996 a State Grant Option was offered by the Forest Service, allowing states to purchase in fee or hold the conservation easements on Forest Legacy Lands. Through this option, private lands within the Proclamation Boundary of the Green Mountain National Forest became eligible for the program. The Vermont Forest Legacy Area boundaries proposed in this AON therefore reflect this possibility in some towns. This 2010 AON was developed using information about Vermont's forests generated over the past decade By improvements in spatial technology capabilities. Spatial technology helps evaluate forestland to determine which areas best meet the Eligibility Criteria for creation of a new Forest Legacy Area.The Forest Legacy Area proposed through this AON encompasses approximately the same acreage as the 3.3 million acres designated in 1994 contained in one Forest Legacy Ares as opposed to three designated in the 1994 AON.]
+
+[TABLE]
+*Table of Contents Preface: Executive Summary Table of Contents Lists of Maps and Tables List of Counties and Towns Eligible for the Vermont Forest Legacy Program B. Description of Boundaries of the Vermont Forest Legacy Area C. Metadata for the Map of Vermont's Forest Legacy Area D. Responses to Public Comments (Responsiveness Summary Members of a steering committee proposed the process and initial contents of this plan. These included Vermont Forest Legacy Program Coordinator Kate Willard, Vermont State Forester Steven Sinclair, Lands Director Mike Fraysier, Fish and Wildlife Operations Director Tom Decker, Forestry District Manager Jay Maciejowski, Administrative Assistant Rebecca Washburn, and Assessment of Need author Linda Henzel. Vermont Forest Stewardship Committee members Thom McEvoy, Sam Miller, and Jim Shallow worked closely with the steering committee on many occasions. Erik Engstrom and Peter Telep from the Information Technology section of the Vermont Agency of Natural Resources produced the maps.*
+
+| B. Vermont Forest Legacy Program Goal |  |
+| --- | --- |
+| C. Vermont's Forest Legacy Area |  |
+| Designation of the Forest Legacy Area |  |
+| Map of Forest Legacy Area |  |
+| Process Used for Designating Vermont's Forest Legacy Area |  |
+| Maps of Forest Values |  |
+| D. Criteria and Process for Evaluating Projects (Tracts) |  |
+| Minimum Required Criteria |  |
+| Project/Tract Selection Criteria |  |
+| E. Application Process |  |
+| VI. Public Involvement | 47 |
+| Includes Responses to Public Comments |  |
+| VII. References | 48 |
+| VIII. Appendices | 51 |
+| A. List of Maps |  |
+| Forest Legacy Area | p.36 |
+| Forest Patches Productive Soils Rebecca Washburn drafted revisions to the Project (Tract) Selection Criteria. p.37 p.38 |  |
+| Ecologic Areas Other Vermont Agency of Natural Resources staff members who participated in p.39 |  |
+| Grouped Values developing the draft document include Robert DeGeus, Jim Horton, and Eric p.40 |  |
+| Sorenson. |  |
+| In accordance with Federal law and US Department of Agriculture policy, this institution |  |
+| is prohibited from discriminating on the basis of race, color, national origin, sex, age, or |  |
+| disability. |  |
+| To file a complaint of discrimination, write USDA Director, Office of Civil Rights, Room |  |
+| 326-W, Whitten Building, 1400 Independence Avenue, SW, Washington, DC 20230-9410 |  |
+| or call (202) 720-5964 (voice and TDD). USDA is an equal opportunity employer. |  |
+
+[/TABLE]
+
+[TABLE: of the Forest Legacy Program and Assessment of Need The Forest Legacy Program (FLP) is a partnership between participating states and the USDA Forest Service to identify and help protect environmentally important privatelyowned forestlands from conversion to non forest uses. Conservation easements with voluntary landowners are the main tool used for protecting these resources, fee ownership by the State or a municipality of the State is also used.The purpose of the program, under the Forestry Title of the 1990 U.S. Farm Act, is to "]
+
+[TABLE]
+*ascertain and protect environmentally important forest areas that are threatened by conversion to non forest uses and, through the use of conservation easements and other mechanisms, to promote forest land protection and other conservation opportunities." Each state defines environmentally important areas, determines the threats to its forests, and develops its own criteria for selecting areas of the state that are most important, referred to as Forest Legacy Areas, solicits and receives input from the public, and seeks approval of these Forest Legacy Areas from the Secretary of Agriculture. This process is called the Assessment of Need (AON). Landowners within approved Forest Legacy Areas may then apply to the state for FLP funds to support projects (tracts) that are selected via a nationally competitive process.*
+
+| There are many reasons why Vermont participates in the Forest Legacy Program (FLP). |
+| --- |
+| The majority of Vermont's 4,482,500 acres of timberland is privately owned (3.5 |
+| million acres or 81 percent). The annual contribution of forest-based manufacturing |
+| and forest-related tourism and recreation to the Vermont economy is over $1.5 billion |
+| (North East State Foresters Association |
+
+[/TABLE]
+
+[TABLE]
+*goal of Vermont's Forest Legacy Program is to maintain forestlands at risk for conversion to other uses primarily through the use of conservation easements with willing owners. The overall purpose of the program is to sustain the economic, ecological, and social values of forests, including productive working forests; habitats and natural communities that promote native plants and wildlife; clean water and fish habitat; public recreational opportunities including fishing and hunting; culturally significant resources; and scenic landscapes. 2005 the State Forester, the Vermont Forest Stewardship Committee, and staff of the Department of Forests, Parks and Recreation agreed to update the existing AON for Vermont. The goal for the program is as follows:*
+
+| The |
+| --- |
+
+[/TABLE]
+
+[TABLE:  and is potentially available for harvesting(USDA Forest Service, 2001). Most forest land in Vermont is privately owned by individual owners who sell their trees as "stumpage." In 1997, Vermont's private forest landowners held 85 percent of the state's timberland and represented 80,500 individuals and enterprises(USDA Forest Service, 2001). In 2002 the estimated total sales of stumpage earned by Vermont landowners was $30 million.]
+[TABLE:  Vermont have been maintained since 1945. Harvest generally declined from 1961 to 1971, began to increase in 1972, and continued to increase overall through 2002. Annual harvests declined slightly from 2003 to 2006.]
+[TABLE:  The valley created from plate movements continued to widen, and the surrounding mountains eroded and deep sediments were deposited in the valley bottoms. The valleys eventually filled with sea water. This set the stage for the deposit of much of Vermont's bedrock. Sandy beach sediments are found in sections of the Green Mountains. Mudstones are found in the Green Mountains and Taconics. Limestones, dolomites, shales and quartzites formed in what is now the Champlain Valley and Vermont Valley. The youngest metamorphosed sedimentary rocks are the limestones and mudstones of eastern Vermont.When the continents started moving together again, thrust faulting caused rocks to slide on top of each other and displace them. The rocks of today's Taconic Mountains were thrust more than 60 miles and over the top of what are now the Southern Green Mountains and the Berkshires in Massachusetts. This mass of older rock on top of younger rock in the Taconics is world famous. A thrust fault also occurred in the Champlain Valley, creating another famous location in Burlington. Further plate collisions caused subsurface rocks to be heated and moved upward. Large underground domes of molten magma eventually hardened. As rocks on top of them eroded, the domes were exposed as hills of granite in the areas now known as the Groton hills, Barre, and Northeastern Highlands.]
+[TABLE:  The aesthetic value of the forests during the fall foliage season provides a major attraction to both visitors and residents of the state. Recreational activities that occur primarily in a forested setting include camping, hunting, fishing, trapping, hiking on trails, dispersed hiking, downhill skiing, crosscountry skiing, snowshoeing, snowmobiling, fall foliage viewing, and wildlife viewing.Private forested lands are a critical component of the outdoor recreation industry. By the state constitution, the public is allowed to recreate on unposted private lands in the state, and much of the state is forested and in private ownership. Privately owned campgrounds, touring businesses, and ski resorts provide recreation in forested settings as their main business. Many private forest landowners, including nonindustrial woodland owners, industrial owners, and land investment companies, traditionally have accommodated public recreation. The importance of forests to outdoor recreationists in Vermont is further illustrated by increases in participation in these types of activities in Vermont. Membership in the Vermont Association of Snow Travelers (VAST, a snowmobiling group) increased by more than 200 percent from 18,000 in 1993 to more than 45,000 in 2003. Membership in the Green Mountain Club (a hiking group) nearly doubled between 1994 and 2003 from 4,085 in 1994 to 8,125 in 2003. Membership in the Catamount Trail Association (a cross-country skiing group) increased by more than 200 percent between 1994 and 2003, from 532 to 1650. The statewide snowmobile trails system increased from 2,700 to 4,600 miles, about 80 percent of which are on private lands. Other indicators of growing interest in forest-based recreation include increases in miles and focus of other trails such as canoeing and birding trails (Vermont Department of Forests, Parks and Recreation, 2005).A summary and evaluation of the National Survey on Recreation and the Environment data for Vermont and for the Vermont market region was prepared in 2004 by the Outdoor Recreation and Wilderness Assessment Group of the Southern Research Station of the USDA Forest Service in Athens, Georgia. The Vermont market region consisted of Vermont along with the adjoining states of New York, Massachusetts, and New Hampshire. Nearly all the outdoor recreational activities experienced an increase regionally in participation between 1995 and 2003. Snowmobiling saw an increase of more than 88 percent (970,000 to 1.83 million) and backpacking an increase of 63.8 percent (1.63 to 2.67 million). Activities for which the percent change in participation by people in the Vermont market region between 1995 and 2003 exceeded participation nationally and for which data were available included the following: bird watching, backpacking, primitive camping, and developed camping (USDA Forest Service, 2004).]
+[TABLE:  These circumstances affect private forest lands throughout the state and broadly across the landscape and include the following: increases in population and forest-based recreational pursuits; how land is valued; state and local tax policies; zoning regulations; aging of landowners; and changes in social values and landowner attitudes. In a variety of ways, these factors may exert pressure toward converting forests to other uses. Other concerns include challenges in managing inappropriate recreational behaviors and natural, climatic, and forest pest-initiated stressors to forest health.]
+
+[TABLE]
+* Human induced fires are likely to occur at completely different frequencies and times. Reports to the State Fire Marshall and the Department of Forests, Parks and Recreation indicate that an average of 200 to 400 acres of Vermont forest lands burn each year. This USDA Forest Service program began in 1990 and is administered by the Vermont Department of Forests, Parks and Recreation. Through this program, landowners receive technical assistance and educational support. In addition, landowners who prepare Landowner Forest Stewardship Plans receive priority for funding from costshare funds when available.*
+
+| Forest Stewardship Program |
+| --- |
+
+[/TABLE]
+
+[TABLE:  In 1992 the State of Vermont was proud to lead the nation by establishing the first Forest Legacy project in April, 1993-the Cow Mountain Pond area in the Town of Granby. Vermont's Forest Legacy Program was formally launched two years later in 1994 through the approval of its first Assessment of Need (AON). The Vermont Department of Forests, Parks and Recreation administers the program. The VT Forest Stewardship Committee advises the department regarding implementation of the program and assists with the evaluation and ranking of proposed tracts.As of the end of 2006, Vermont's Forest Legacy Program had conserved 17 tracts of land exceeding 50,000 acres through the administration of 13 projects either completed or underway. Refer to the Vermont Department of Forests, Parks and Recreation website vtfpr.org/lands/flp.cfm for the most up-to-date information. More than $4.5 million was leveraged from other sources to be used as match for the nearly $10 million in Forest Legacy funds that were provided to the state. This is well above the required 25 percent match. In addition, Forest Legacy funds have been invested in half the counties falling within the Forest Legacy Areas designated in the 1994 AON.The preferred tool for conservation for Vermont's Forest Legacy Program has been the working forest conservation easement. With a predominance of privately owned forestland in the state, projects representing thousands of acres of productive forestland with a long history of sound stewardship have been conserved. For example, conservation easements have succeeded in connecting the north and south units of the Green Mountain National Forest thereby protecting the designated Green Mountain Bear Corridor.]
+
+[TABLE]
+*Vermont's Forest Legacy Area 1. Eligibility Criteria used for Designation of the Forest Legacy Area . The goal of Vermont's Forest Legacy Program is to maintain forestlands at risk of conversion to other uses primarily through the use of conservation easements with willing owners. The overall purpose of the program is to sustain the economic, ecological, and social values of forests, including productive working forests; habitats and natural communities for native plants and wildlife; clean water and fish habitat; public recreational opportunities including fishing and hunting; culturally significant resources; and scenic landscapes. Forest Legacy Area is the geographical region where the program will be applied. Landowners within this area are eligible to apply for Forest Legacy Program funding. The forestlands selected for this Forest Legacy Area were found to hold the highest potential for the forest values deemed most important through this assessment. The "Eligibility Criteria" used to define Vermont's Forest Legacy Area are as follows:*
+
+| d. Threatened and endangered species |
+| --- |
+| e. Cultural resources |
+| f. Other ecological values |
+| g. Scenic resources (if one or more additional values above are also present); |
+| 1. Must provide opportunities for the continuation of traditional forest uses, such |
+| as forest management and outdoor recreation, as defined by the State Forester |
+| and the Forest Legacy Committee; |
+| 2. Must be threatened by conversion to non-forest uses; |
+| 3. Must possess one or more of the following important public values: |
+| a. Public recreation opportunities |
+| b. Riparian (streamside, riverside) areas; |
+| c. Fish and wildlife habitat |
+
+[/TABLE]
+
+[TABLE]
+*Eligible for the Vermont Forest Legacy Program *
+
+| ORLEANS | DUXBURY | ROCKINGHAM |
+| --- | --- | --- |
+| 14 TOWNS | FAYSTON | STRATTON |
+|  | MARSHFIELD | TOWNSHEND |
+| ALBANY | MIDDLESEX | WARDSBORO |
+| BARTON | MORETOWN | WESTMINSTER |
+| BROWNINGTON | PLAINFIELD | WILMINGTON |
+| COVENTRY | ROXBURY | WINDHAM |
+| ADDISON 8 TOWNS BRISTOL GOSHEN LEICESTER MIDDLEBURY MONKTON RIPTON SALISBURY STARKSBORO BENNINGTON 13 TOWNS ARLINGTON BENNINGTON DORSET LANDGROVE MANCHESTER CRAFTSBURY GREENSBORO GLOVER IRASBURG JAY LOWELL NEWPORT TOWN TROY WESTFIELD WESTMORE RUTLAND 24 TOWNS BENSON BRANDON CASTLETON CHITTENDEN CLARENDON DANBY FAIR HAVEN POWNAL READSBORO RUPERT SANDGATE SHAFTSBURY STAMFORD SUNDERLAND WINHALL CALEDONIA 17 TOWNS BARNET BURKE DANVILLE GROTON HARDWICK KIRBY LYNDON HUBBARDTON IRA KILLINGTON MENDON MIDDLETOWN SPRINGS MOUNT HOLLY PAWLET PITTSFIELD PITTSFORD POULTNEY SHREWSBURY SUDBURY TINMOUTH WALLINGFORD WELLS WEST HAVEN WEST RUTLAND WASHINGTON NEWARK PEACHAM RYGATE 15 TOWNS BERLIN SAINT JOHNSBURY SHEFFIELD STANNARD CABOT CALAIS | SUTTON WALDEN WATERFORD WHEELOCK WAITSFIELD WARREN WATERBURY WORCESTER WOODBURY CHITTENDEN WINDSOR 11 TOWNS BOLTON 22 TOWNS ANDOVER BUELLS GORE ESSEX HINESBURG HUNTINGTON JERICHO RICHMOND ST GEORGE UNDERHILL WESTFORD WILLISTON BALTIMORE BARNARD BETHEL BRIDGEWATER CAVENDISH CHESTER HARTFORD LUDLOW NORWICH PLYMOUTH POMFRET READING ESSEX 15 TOWNS ROCHESTER ROYALTON SHARON AVERILL BRIGHTON BLOOMFIELD BRUNSWICK CANAAN CONCORD EAST HAVEN FERDINAND GRANBY GUILDHALL LEMINGTON LUNENBURG MAIDSTONE NORTON VICTORY STOCKBRIDGE WEATHERSFIELD WESTON WEST WINDSOR WINDSOR WOODSTOCK WINDHAM 17 TOWNS ATHENS BROOKLINE HALIFAX GRAFTON GUILFORD JAMAICA FRANKLIN LONDONDERRY 8 TOWNS MARLBORO NEWFANE BAKERSFIELD BERKSHIRE PUTNEY | ENOSBURGH FAIRFAX FAIRFIELD FLETCHER MONTGOMERY RICHFORD LAMOILLE 10 TOWNS BELVIDERE CAMBRIDGE EDEN ELMORE HYDE PARK JOHNSON MORRISTOWN STOWE WATERVILLE WOLCOTT ORANGE 15 TOWNS BRADFORD BRAINTREE BROOKFIELD CHELSEA CORINTH NEWBURY ORANGE RANDOLPH STRAFFORD THETFORD TOPSHAM TUNBRIDGE VERSHIRE WASHINGTON WEST FAIRLEE |
+
+[/TABLE]
+
+[TABLE:  Lands o Using the University of Vermont's Spatial Analysis Lab's Conserved Public Lands Layer (CONSPUB) of December 2004, public lands were masked out so that calculations could be done only on privately owned lands. Forest Patches (from first model above) o Forest patches were reclassified to Binary. 0=no patch 1=patch.  Patches were then given a weighting factor of 5 as determined by the Forest Legacy Area working group. Productive Soils o Forest Value Group (FVG) Data were used to represent Soil Productivity. For all counties except Essex, soils of FVG's 1-3 were classified into 1 = exists, or 0 = does not exist (Binary). Because Essex County lacks soils GIS data, the Bedrock data layer was used. Rocks rich in carbonate material were selected as being beneficial for forest productivity.  Soils were grouped together in Binary and were reclassified and given a weighting factor of 3. Ecologic Data o Rare, Threatened, and Endangered Species and Natural Community occurrences, from the Nongame and Natural Heritage Program in the Vermont Fish and Wildlife Department, were classified into Binary. o Priority Aquatic Features identified for the Vermont Biodiversity Project were classified into Binary. o The Nature Conservancy's Tier 1 Forest Matrix (dominant forest types) Blocks were classified into Binary. o Deer Wintering Areas, supplied by the Vermont Department of Fish and Wildlife, were classified into Binary.]
+[TABLE:  Forest Legacy Program is just one of many funding sources available to landowners to conserve land. Other programs aim to conserve land for different purposes. They all have a role to play. There is no doubt that Vermonters and agencies can improve their communications regarding land use and conservation priorities. However, the Forest Legacy Program should not be singled out as being more exclusive than other programs. In reference to agricultural concerns, the Vermont Forest Stewardship Committee includes a representative from the Natural Resource Conservation Service and the Northern Vermont Resource Conservation and Development Program.]
+Forest fragmentation is defined as the breaking up of large forest blocks into smaller units by housing, roads, or land use change.
+Vermont Department of Fish and Wildlife. 2005. Vermont Wildlife Action Plan. www.vtfishandwildlife.com.
+Vermont Fish and Wildlife Department, Vermont Conservation Design, 2016, www.vtfishandwildlife.com/get_involved/partner_in_conservation/vermont_conservation_design.
+Multi-Resolution Land Characteristics Consortium (MRLC), National Land Cover Database. U.S. Department of Interior, U.S. Geological Survey. January 2016, www.mrlc.gov/.
+U.S. Census Bureau, Population Pyramids for Vermont, www.census.gov/population/projections/files/usinterimproj/51PyrmdWY3.pdf, 2016.
+Sarah M. Butler, Brett J. Butler, Jaketon H. Hewes, "Vermont Woodland Owner Survey 2014 Final Project Report". December 2014.
+USDA Forest Service, Forest Inventory, and Analysis National Program, National Woodland Owner Survey, 2014, www.fia.fs.fed.us/nwos/. 
+National Conservation Easement Database, www.conservationeasement.us/. 2014 
+Sorenson et al, Vermont Conservation Design: Maintaining and Enhancing an Ecologically Functional Landscape. 2015.
+Sorenson and Osborne, Vermont Habitat Blocks and Habitat Connectivity: An Analysis using Geographic Information Systems. 2014.
+Landscope, www.landscope.org, 2014. 
+Vermont Department of Forests, Parks and Recreation, 2015 Vermont Forest Fragmentation Report. April 2015.
+Stein, Susan M., et al. 2005
+. Forests on the edge: housing development on America's private forests. Portland, OR : U.S. Department of Agriculture, Forest Service, Pacific Northwest Research Station.
+Agency of Natural Resources, Climate Adaptation Framework, 2016, http://anr.vermont.gov/about_us/special-topics/climate-change/library.
+The Nature Conservancy, Northeast Resilience Analysis, 2016, www.conservationgateway.org/ConservationByGeography/NorthAmerica/UnitedStates/edc/reportsdata/terrestrial/resilience/ne/Pages/default. aspx.
+Vermont Department of Forests, Parks and Recreation. Creating and Maintaining Resilient Forests in Vermont: Adapting Forests to Climate Change, 2015.
+National Weather Service, Fire Weather, 2016, www.weather.gov/btv/firewx, 2016. 
+Impervious surfaces and water quality: a review of current literature and its implications for watershed planning, E Brabec, S Schulte, PL Richards -Journal of planning literature, 2002.
+Bar-Massada, Avi, Volker C. Radeloff, and Susan I. Stewart. "Biotic and abiotic effects of human settlements in the wildland-urban interface." Bioscience 64.5 (2014): 429-437.
+Morin, Randall S.; Riemann, R. 2015. Forests of Vermont, 2014. Resource Update FS-54. Newtown Square, PA: U.S. Department of Agriculture, Forest Service, Northern Research Station. 4 p.
+The Economic Importance of Vermont's Forest Based Economy 2013, North East State Foresters Association. fpr.vermont.gov/sites/fpr/files/Forest_and_Forestry/Vermont_Forests/Library/NEFA13_Econ_Importance_VT_final_web_Jan29.pdf
+Culturally and Economically Important Nontimber Forest Products of Northern Maine. USDA Forest Service. 2010.
+US Department of Agriculture, National Agriculture Statistics Service, Nursery and Christmas Tree Production, 2015, www.nass.usda.gov/Surveys/Guide_to_NASS_Surveys/Nursery_and_Christmas_Tree_Production/index.php.
+Department of Forests, Parks and Recreation, Acceptable Management Practices (AMPs) for Maintaining Water Quality on Logging Jobs in Vermont, 2016.
+University of Vermont, Vermont Monitoring Cooperative, iTree Ecosystem Analysis -Burlington, 2015, www.uvm.edu/vmc/attachments/project/999/reports/2014_iTreeReport.pdf.
+Vermont Association of Snow Travelers, 2015. vtvast.org 
+Lake Champlain Basin Program, Drinking Water, 2016, lcbp.org/water-environment/human-health/drinking-water/.
+Urban and community forests of New England: Connecticut, Maine, Massachusetts, New Hampshire, Rhode Island, Vermont, U.S. Department of Agriculture, Forest Service, Northern Research Station. Gen. Tech. Rep. NRS-38. Newtown Square, PA. 2008
+Imagining Vermont: Values and Visions for the Future; Report of the Council on the Future of Vermont. VT Council on Rural Development. 2009.
+0 1 7 V e r m o n t F o r e s t A c t i o n P l a n Strategy 41: Strategically plant and conserve trees around buildings to mitigate energy demands.Strategy 42: Support climate policy that reflects forest contributions to achieving substantial net reductions in greenhouse gas emissions.
+Sarah M. Butler, Brett J. Butler, Jaketon H. Hewes, "Vermont Woodland Owner Survey 2014 Final Project Report". December 2014.
+0 1 7 V e r m o n t F o r e s t A c t i o n P l a n Chart 13: Vermont Forestry Divisions FY16 Budget Sources Chart 14: Vermont Forestry Division's FY16 Expenditures
+Federally Led Landscape Scale Conservation Initiatives in the Northeast and Midwest, USDA Forest Service, 2016, www.na.fs.fed.us/sustainability/2016/4283%20FedLedLSCNEandMW_Final_20161019.pdf.
+Vermont Department of Forests, Parks and Recreation, Assessment of Need, 2016, http://fpr.vermont.gov/state_lands/acquisition/forest_legacy/assessment.
+Comment
+
+## ACKNOWLEDGEMENTS
+
+VERMONT DEPARTMENT OF FORESTS, PARKS AND RECREATION MICHAEL C. SNYDER, COMMISSIONER STEVEN
+ J. SINCLAIR, DIRECTOR OF FORESTS Recognition is given to all the people who provided advice and technical support to this project. Front cover photo by 
+Dennis Curran
+. 
+Acknowledgements ................................................................................................................................................................ii Executive Summary .......................................................................................................................................................
+.
+
+## Acknowledgements
+
+I. Introduction 10 A. Organization and Contents of the 
+Assessment of Need Document B. Overview of the Forest Legacy Program and Assessment of Need II. Assessment of Uses and Values of Vermont Forests A. Overview of Vermont's Forest Resources B. Timber C. Carbon Storage D. Energy from Wood (Biomass) E. Other Forest Products F. Bedrock and Surficial Geology G. Mineral Resources H. Soils I. Wildlife Harvest J. Biological Diversity and Wildlife Habitats K. Water Resources L. Outdoor Recreational Opportunities M. Cultural Values N. Scenic Values Acknowledgements Many
+ individuals, agencies, and organizations deserve special thanks for the time and expertise they contributed towards the production of this Assessment of Need. The Vermont Forest Stewardship Committee provided advice throughout the entire process of developing this Assessment of Need. The Vermont Forest Stewardship Committee is appointed by the 
+Commissioner of the Department of Forests, Parks and Recreation
+. Its members, listed in the following table, represent a variety of agencies, organizations, and individuals: 
+USDA Forest Service; Natural Resources Conservation Service
+; 
+Farm Services Agency; Cooperative State Research, Education and Extension Service
+; local government; consulting foresters; environmental organizations; forest products industry; forest landowners; land trusts; conservation organizations; 
+Vermont Department of Fish and Wildlife
+; and others determined appropriate by the 
+Commissioner of Forests, Parks and Recreation
+. The Vermont Forest Stewardship Committee will continue to advise the department regarding implementation of the program and assist with the evaluation and ranking of proposed tracts.
+Northerly along Town Highway #
+2
+ (
+Pleasant Valley Road)
+ to the intersection with 
+VT Route 103
+ (
+Rockingham Road
+); Easterly along 
+VT Route 103
+ to the intersection with Town Highway #
+6
+ (
+Parker Hill Road
+); 
+Northerly along Town Highway #
+6
+ (
+Parker Hill Road)
+ to the intersection with Town Highway #
+6
+ (
+Obrien Road
+) and 
+Town Highway #7 (Parker Hill Road)
+; 
+Northerly along Town Highway #7 (Parker Hill Road)
+ to the Rockingham/Springfield town line; Westerly along the Rockingham/Springfield town line; Northerly along the Springfield/Chester town line to VT Route 
+10 (Route 10
+); Proceed through the town of Springfield: Easterly along 
+VT Route 10 (Route 10
+) to the intersection with 
+VT Route 106 (Route 106
+); Northerly along 
+VT Route 106 (Route 106
+) to the Springfield/Weathersfield town line; Proceed through the town of Weathersfield: Northerly along 
+VT Route 106 (Route 106
+) to the intersection with 
+VT Route 131 (Route 131
+); Easterly along with 
+VT Route 131 (Route 131
+) to the intersection with 
+US Route 5 (Route 5
+); Northerly along 
+US Route 5
+ to the intersection with 
+VT Route 44A (Back Mountain Road
+); 
+Northerly along VT Route 44A (Back Mountain Road)
+ to the Weathersfield/Windsor town line; Proceed through the town of Windsor: 
+Northwesterly along Route 44A (Back Mountain Road)
+ to the intersection with 
+VT Route 44 (Route 44
+); 
+Westerly along VT Route 44 (Route 44)
+ to the Windsor/West Windsor town line; Proceed through the town of West Windsor: 
+Westerly along VT Route 44 (Route 44)
+ to the West Windsor/Reading town line; Northerly along the West Windsor/Reading town line; Easterly along West Windsor/Woodstock town line; 
+Northerly along Woodstock/Hartland town line to US Route 4 (Route 4
+); Proceed through the town of Hartland: Easterly and 
+Northerly along US Route 4 (Route 4)
+ to the 
+Hartland/Hartford town line; Proceed through the town of Hartford: Northerly and Easterly along US Route 4 (Woodstock Road
+) to the intersection with 
+US Route 5 (North Main Street); Easterly along US Route 5 (North Main Street
+) to the intersection with 
+US Route 5 (Hartford Avenue)
+; 
+Northerly along US Route 5 (Hartford Avenue)
+ to the intersection with 
+US Route 5 (Christian Street)
+; 
+Northerly along US Route 5 (Christian Street)
+ to the Hartford/Norwich town line; Proceed through the town of Norwich: 
+Northerly along US Route 5 (Route 5 S)
+ to the intersection with 
+US Route 5 (Main Street)
+; 
+Northwesterly along US Route 5 (Main Street)
+ to the intersection with 
+US Route 5 (Church Street)
+; 
+Easterly along US Route 5 (Church Street)
+ to the intersection with 
+US Route 5 (Route 5 N); Northerly along US Route 5 (Route 5 N)
+ to the Norwich/Thetford town line: Proceed through the town of Thetford: Northerly along 
+US Route 5 (Route 5
+) to the Thetford/Fairlee town line: Proceed through the town of Fairlee: 
+Northerly along US Route 5 (Route 5 S)
+ to the intersection with 
+Fairlee State Highway (Lake Morey Road
+); 
+Northerly along US Route 5 (Route 5 N)
+ to the Fairlee/Bradford town line: Proceed through the town of Bradford: 
+Northerly along US Route 5 (Lower Plain Road)
+ to 
+US Route 5 (Main Street)
+; 
+Northerly along US Route 5 (Main Street)
+ to 
+US Route 5
+ (
+N Main Street
+); 
+Northerly along US Route 5 (N Main Street)
+ to 
+US Route 5 (Upper Plain Road)
+; 
+Northerly along US Route 5 (Upper Plain Road)
+ to the Bradford/Newbury town line; Proceed through the town of Newbury: 
+Northerly along US Route 5 (Route 5 S)
+ to 
+US Route 5 (Main Street S)
+; 
+Northerly along US Route 5 (Main Street S)
+ to 
+US Route 5 (Main Street N)
+; 
+Northerly along US Route 5 (Main Street N)
+ to 
+US Route 5 (Route 5 N)
+; 
+Northerly along US Route 5 (Route 5 N)
+ to 
+US Route 5 (Main Street N)
+; 
+Northerly along US Route 5 (Main Street N)
+ to intersection with 
+US Route 5 (Water Street
+); Easterly and 
+Northerly along US Route 5 (Water Street)
+ to the Newbury/Ryegate town line; Proceed through the town of Ryegate: 
+Northerly along US Route 5 (Ryegate Road
+) to the Ryegate/Barnet town line; Easterly along the Ryegate/Barnet town line to the 
+Vermont/New Hampshire state line; Northerly along the Vermont/New Hampshire state line
+, also being the easterly lines of the towns of Barnet, Waterford, Concord, Lunenburg and Guildhall, to Town Highway #
+2
+ (
+Bridge Street
+); Proceed through the town of Guildhall: Westerly along Town Highway #
+2
+ (
+Bridge Street
+) to the intersection with 
+VT Route 102 (Route 102
+); Northerly along 
+VT Route 102 (Route 102
+) to the Guildhall/Maidstone town line: Proceed through the towns of 
+Maidstone, Brunswich, Bloomfield and Lemington: Northerly
+ along 
+VT Route 102 (Route 102
+) to the Lemington/Canaan town line; Proceed through the town of Canaan: Northerly along 
+VT Route 102 (Route 102
+) to the intersection with 
+VT Route 114
+ (
+Gale Street
+) and 
+VT Route 253
+ (
+Christian Hill Street
+); 
+Northerly along VT Route 253 (Christian Hill Street)
+ to 
+VT Route 253 (Route 253
+); Northerly along 
+VT Route 253 (Route 253
+) to the 
+Vermont/Quebec line
+ (
+US/Canada International Boundary
+);
+• GREEN MOUNTAIN AND FINGER LAKES NATIONAL
+ FOREST: During the development of the 2017 Plan, we worked with The GMNF planning staff and the 
+Forest Roundtable
+. The GMNF reviewed a finished draft and provided final approval of the Plan in April of 2017.
+
+## • US DEPARTMENT OF INTERIOR -FISH AND WILDLIFE SERVICE:
+
+Input into the 2017 Plan through the 2015 
+Vermont Wildlife Action Plan
+, the 
+Staying Connected Initiative
+, and the 
+Forest DESIRED FUTURE CONDITION 1: BIOLOGICAL DIVERSITY 1 CE
+, FL, FS, SL, UCF, UM, WF 2 CL, FS 3 CL, FL, FS, SL, UCF, UM, WF 4 CE, CL, FF, FH, FL, FS, SL, UCF 5 CL, FF, FH, FL, FS, SL 6 CL, FF, FH, FL, FS, SL, WF 7 CL, FH, FL, FS, SL 8 CL, FH, FL, FS, SL, WF DESIRED FUTURE CONDITION 2: 
+FOREST HEALTH AND PRODUCTIVITY CE
+, CL, FH, FL, SL, UCF, WF CE, CL, FH CE, CL, FH CE, CL, FH, WF CL, FH CL, FF, FH, FL, FS, SL, 
+UCF, WF CE, CL, SL, UM, WF CL, FF, UCF, WF CL, FH, UCF DESIRED FUTURE CONDITION 5: LEGAL, INSTITUTIONAL, AND ECONOMIC FRAMEWORK CL, FS
+, SL SL CE, CL, FF, FL, FS, SL, 
+UCF, UM, WF CE, CL, FF, FH, FL, FS, SL, UCF, UM, WF CL, FH, FL, SL, WF CL, FS CL, FS, UCF FS, UCF CE, FF, FS, WF FS, WF FS, UM FL, FS, WF FH, FS, SL, UM, WF CE, FS, UM FS CE, CL, FF, FH, FL, FS, SL, UCF, UM, WF CE, CL, FF, FH, FL, FS, SL, UCF, UM
+, 
+WF 72
+ CE, CL, FF, FH, FL, FS, SL, UCF, UM, WF 73 CE, FF, FH, FS, SL, UCF, WF 74 CE, CL, FF, FH, FL, FS, SL, UCF, UM, WF 75 CE, CL, FF, FH, FL, FS, SL, UCF, UM, WF 76 CE, CL, FF, FH, FL, FS, SL, UCF, UM, WF 77 CE, CL, FF, FH, FL, FS, SL, UCF, UM, WF 1. General: A conserved property may be used for forestry, protection of critical wildlife habitats, educational, non-commercial recreational, and open space purposes . 2. Excavation: The easement prohibits filling, excavation, removal of topsoil, sand, gravel, rocks, or minerals, or any change to topography unless the change is 
+U.S. Department of Agriculture, Forest Service
+. A Snapshot of the 
+Northeastern Forests, Northeastern Area State and Private Forestry
+. Newtown Square, PA. 2005. 
+U.S. Department of Agriculture, Forest Service and Vermont Department of Forests, Parks and Recreation. Forests in the Green Mountain State: A Half-Century of Change. Newtown Square, PA. 2003. U.S. Department of Agriculture, Forest Service
+. National Survey on Recreation and the 
+Environment (NSRE)
+: 
+Vermont and the Vermont Market Region. Outdoor Recreation and Wilderness Assessment Group
+ of the 
+Southern Research Station. Athens, Georgia. March 2004. U.S. Department of Interior, Fish and Wildlife Service and U.S. Department of Commerce, U.S. Census Bureau
+. 2001 
+National Survey of Fishing, Hunting and Wildlife-Associated Recreation
+.
+Acknowledgements ................................................................................................................................................................ii Executive Summary .......................................................................................................................................................
+USDA Forest Service; Natural Resources Conservation Service
+2
+VT Route 103
+VT Route 103
+6
+Northerly along Town Highway #
+6
+6
+10 (Route 10
+VT Route 10 (Route 10
+VT Route 106 (Route 106
+VT Route 106 (Route 106
+VT Route 106 (Route 106
+VT Route 131 (Route 131
+VT Route 131 (Route 131
+US Route 5 (Route 5
+US Route 5
+VT Route 44A (Back Mountain Road
+VT Route 44 (Route 44
+Hartland/Hartford town line; Proceed through the town of Hartford: Northerly and Easterly along US Route 4 (Woodstock Road
+US Route 5 (North Main Street); Easterly along US Route 5 (North Main Street
+Northerly along US Route 5 (Route 5 S)
+US Route 5 (Route 5
+US Route 5 (Route 5 N); Northerly along US Route 5 (Route 5 N)
+Fairlee State Highway (Lake Morey Road
+Northerly along US Route 5 (Route 5 S)
+Northerly along US Route 5 (Route 5 N)
+Northerly along US Route 5 (Lower Plain Road)
+US Route 5
+Northerly along US Route 5 (Main Street)
+Northerly along US Route 5 (Route 5 S)
+Northerly along US Route 5 (Main Street S)
+Northerly along US Route 5 (Route 5 N)
+2
+2
+VT Route 102 (Route 102
+VT Route 102 (Route 102
+VT Route 102 (Route 102
+VT Route 102 (Route 102
+VT Route 114
+VT Route 253 (Route 253
+VT Route 253
+VT Route 253 (Route 253
+WF 72
+Forest DESIRED FUTURE CONDITION 1: BIOLOGICAL DIVERSITY 1 CE
+Vermont and the Vermont Market Region. Outdoor Recreation and Wilderness Assessment Group
+VERMONT DEPARTMENT OF FORESTS, PARKS AND RECREATION MICHAEL C. SNYDER, COMMISSIONER STEVEN
+FOREST HEALTH AND PRODUCTIVITY CE
+
+## RESOURCE STRATEGIES: SUMMARY MATRIX
+
+ALIGNMENT TO PRIORITY LANDSCAPE AREAS AND ISSUES, PROGRAM AREAS, PARTNERS, AND FARM BILL NATIONAL PRIORITIES This 2017 Plan has identified 77 resource strategies, many of them new or updated from the 2010 Plan. In addition, we have identified priority landscape areas and issues to focus our work. Our core program areas and key partners will collaborate to implement the strategies to meet our identified Desired Future Conditions and national priorities and the additional Northeastern Area, Organizational Effectiveness Priority.
+The program of action is ambitious. As with previous FAPs, this 2017 Plan builds upon the foundation of working with partners in program implementation. Funding many of these initiatives will be challenging. The Forestry Division is supported by a variety of funding sources: state funds; dedicated funding accounts; inter-departmental transfers; cooperative agreements with partners; and federal assistance, primarily from the US Forest Service State and Private Forestry, in the form of base program funding as well as competitive allocations. Implementing particular strategies could include a mix of funding sources and in fact provides strength and purpose in what we do. We will continue to seek out partnerships and additional funding sources to fulfill the goals and objectives of this 2017 Plan. • Continue to provide support for town forest acquisition and management projects.
+
+## MATRIX KEY
+
+• Provide consistent management and stewardship monitoring of parcels.
+
+## LANDS ACQUISITION AND MANAGEMENT PROGRAMS
+
+• With partners, continue to identify lands to purchase/protect using criteria that enhance biodiversity, recreation needs, climate, flood resiliency, and other ANR goals.
+• Provide consistent management and data on state land conditions, benefits, and concerns. Keep website information on state lands current and useful.
+• Use public land as a demonstration site for best management practices (BPMs) to be encouraged on private land. Application of the 2500-acre block size resulted in a map that more closely reflected the important forest values of the program. However, many adjustments were needed so that some smaller areas, and especially those with particularly suitable soils, could be included in the area. The boundaries were adjusted to follow town and county lines, roads, and water courses.
+Draft boundaries of the Area were presented at public meetings hosted by regional commissions throughout the state. Feedback received as a result of these meetings and from stakeholder groups resulted in further refinements of the boundary. The written description of the boundary is found in Appendix B.
+
+## Important Environmental Values of Vermont's Forest Legacy Area
+
+The overall goal of Vermont's Forest Legacy Program is to sustain the economic, ecological and social values of forests including;
+• Productive working forests 
+
+## Means for Protection
+
+A.
+Acquisition of full-fee for either state or municipal ownership where appropriate B.
+Acquisition of a Grant of Development, Conservation Restrictions and Public Access Easement on privately owned property that allows the protected property to be used for forestry, protection of critical wildlife habitats, education, non-commercial recreation, and open space purposes. The following are restricted and allowed activities on a conserved property. Any deviation from these means for protection will be approved by the Vermont Forest Stewardship Committee: necessary to carry out the uses otherwise permitted by the conservation easement. Surface mining is expressly prohibited except for extraction of gravel to be used on the protected property.
+
+## Water quality:
+
+The manipulation of natural water courses, marshes, or other water bodies is not allowed under the easement, nor are activities that would cause adverse effects to water purity, or to the natural water levels or flow, unless necessary to carry out the objectives of the easement.
+4. Subdivision: Subdivision of the protected property is generally prohibited but may be allowed under certain circumstances with Grantee approval.
+
+## General Clause:
+
+The easement includes a general clause, which ensures that no uses will be made of the protected properties that are inconsistent with the Objectives of the easement.
+
+## Forest Management:
+
+The landowner may perform maple sugaring operations, other forest management activities, and harvest timber, firewood, other wood products and non-timber forest products and may also maintain necessary access for motor vehicles provided all such activities are conducted in conformance with a Forest Stewardship Plan (FSP) developed and approved on the basis of the requirements of the easement and all such activities are conducted under the supervision of a professional forester, or other FP&Rapproved land manager.
+
+## Structures:
+
+The landowner may construct and maintain sugar houses, or similar forestry structures or facilities, together with necessary access drives and utilities if they are used in support of forestry conducted on the property. Additional structures may be allowed that are considered consistent with traditional forest uses such as seasonal camps.
+8. Public Access: The landowner will permit access by the public for noncommercial, non-motorized, non-mechanized, non-equestrian, dispersed recreational purposes (such as hunting, fishing, bird-watching, walking, snowshoeing and cross-country skiing), provided such access does not interfere with forestry activities and is consistent with the purposes of the easement Meaning to exclude the entire towns of Dover, Glastenbury, Searsburg, Somerset, Whitingham and Woodford and portions of the towns of Bennington, Shaftsbury, Wardsboro, Weston and Wilmington.
+The towns of Fairlee, Granville, Lincoln and Northfield were included in the original Forest Legacy Area but they opted to not participate.
+
+## APPENDIX C. Model Process (Metadata) for Vermont's Forest Legacy Area Boundary
+
+This document outlines the processes that were used to determine the boundaries of the Forest Legacy Area. The Forest Legacy Area is the geographical region where the program will be applied. The forestlands selected for the area were found to hold the highest potential for the forest values deemed most important through this assessment. In descending order, these "Eligibility Criteria" are as follows: the (large) size of a forest block; highly productive soils; and important fish and wildlife habitats.
+A working group convened many times to determine the area boundaries. Many discussions were needed to clarify the steps that eventually led to the final model. The first map was modified a number of times by the working group and also as a result of feedback from public meetings, stakeholder groups, and other agencies.
+The first model was engineered to yield forest patches greater than 200 acres in size.
+• Forest Patch Model (RUN FIRST) -All analysis was performed using a 30x30 meter cell resolution based on the grid cell size of the National Land Cover Dataset 1992 (NLCD).
+o Biophysical regions were used to break up the state into 5 tiles or sections to facilitate the process of determining forest patches by region. o Fragmentation was represented by roads with the following buffer sizes:
+ Interstates -600' (each side) Not all comments received are responded to in this document and can be explained as follows:
+• Comments that were incorporated into the final AON generally are not responded to in this document and are considered to be self-evident;
+The Area Boundary 
+
+## Response
+
+We appreciate the work that was done to produce this comparison, and we have increased the acreage in the Area for the final AON. However, the U.S. Forest Service imposed on Vermont the requirement that the new Area not exceed the acreage of the existing three Forest Legacy Areas in the state. This was a difficult task as the initial approach taken was that all private forest lands in the state should be included in the Area and therefore eligible for application to the program.
+
+## Using Threats to Forests to Determine the Area Boundary
+
+## Summary of Comments
+
+The Forest Legacy Program should recognize that almost all of the forestland in Vermont is potentially under some degree of threat. Vermont as a whole is threatened from regional pressures that, over time, will further parcelization and fragmentation and lead to the loss of forestlands and the values they provide. We recommend that the boundaries of the FLA take into consideration areas of greatest conversion threat.
+
+## Response
+
+The AON section "Designation of the Forest Legacy Area Threats" explains why distinctions between levels of threat were not used to develop the Area boundaries: "Conversion of forests to other uses and other forest values is considered to be a concern throughout the entire state and broadly across the landscape. Evidence and degree of these threats on regional and local scales will be considered on a case-by-case basis for individual project applications as they are evaluated to receive Forest Legacy funds."
+Change the Forest Legacy Area Boundaries
+
+## Summary of General Comments
+
+• The AON priorities seem to run contrary to efforts associated with reducing parcelization and supporting the timber industry's role in the state's economy. We need to encourage conservation of the large, somewhat remote blocks now so that a future "development--loss of habitat--loss of industry scenario" is not the unintended outcome of conserving lands that are unlikely to remain functional forested blocks.
+• While forest blocks in some areas of the state may be smaller in size, they may have other values important to the Forest Legacy Program, including highly productive forest soils, recreational opportunities, soil and water quality protection, and wildlife habitat. Where we have the forest cover, we should protect it to meet the other purposes of the AON: public access and water quality protection. If wood becomes an important fuel, it would also be nice to have areas protected for tree harvesting close to the users.
+• Change the Area boundaries entirely to reflect only a greenbelt surrounding the most populated areas of Chittenden County and remove the remainder of the state. These are the lands most at-risk and are destined to be taken out of forest products production either by development or by conversion to parklands. By concentrating forest management and production efforts closest to the state's densest population center, we can ensure this isolated urban population is exposed to the working forest landscape.
+• Forest Legacy is one of the few tools we have to conserve small (100-500 acres) forested parcels that ensure continued woodlot management, contiguous habitat and biodiversity.
+
+## Response
+
+We approached the delineation of the Forest Legacy Area boundary by considering foremost the goals for the program in Vermont. This results in a programmatic bias generally favoring larger parcels. However, on a project-by-project basis, smaller parcels that protect a wide variety of and/or particular values in many areas of the state are able to be considered for the program.
+
+## Summary of Specific Requests for Inclusion in the Forest Legacy Area
+
+The lands shown on the following list were not able to be included in the Forest Legacy Area.
+
+## Response
+
+Each town's regional commissioner was invited to attend an informational meeting about the AON and the Forest Legacy Program sponsored by the regional commission in his/her area. On an ongoing basis, materials about the process were made available and the website was maintained.
+
+## Comment
+
+What work is created for a town that participates in the program?
+
+## Response
+
+The town will be informed of a Forest Legacy easement being proposed for land in the town and will be asked to support it. If the project gets done, the town clerk will need to record the transaction in the land records.
+
+## Comment
+
+Can someone be kicked out of the program?
+
+## Response
+
+Landowners who do not implement the agreed to forest stewardship plan or who violate the restrictions in the conservation easement may be required to remedy the problem or potentially face enforcement consistent with the terms of the easement. Since the easement is intended to be in effect in perpetuity, there really is no ability to kick someone out of the program.
+
+## Comment
+
+Can the easements ever revert back?
+
+## Response
+
+No. Through the granting of an easement, the landowner has sold a partial ownership of the property for a cash payment. A landowner may sell the remaining ownership interest, but the state will continue to hold an easement on the property in perpetuity.
+
+## Comment
+
+Can a landowner restrict or allow certain uses on the land under a Forest Legacy easement?
+
+## Response
+
+Forest Legacy easements contain language that determines permitted and restricted uses. A landowner's ability to restrict or allow uses depends on the easement. In Vermont, Forest Legacy participants are required to allow pedestrian public access but are not required to allow motorized access.
+
+## Comment
+
+The high value placed by the AON on large blocks of woodland is understandable, and many farms include a sizeable section of woodland. However, there are landowners who are clearing sizeable pieces of woodland for agricultural use. Some landowners would like to keep as much land open as possible or even expand agricultural use
+Identifying Critical Forest Bird Habitat in the Atlantic Northern Forest Bird Conservation Region
+2005
+Audubon Vermont, New Hampshire Audubon Society, and Maine Audubon Society
+Managing Natural Disturbances of Forest Ecosystems in Vermont. Vermont Department of Forests, Parks and Recreation
+F
+A
+Brown
+T
+J
+Mcevoy
+2000
+USDA Forest Service, and University of Vermont Extension
+Industrial Minerals of Vermont: 200 Years and Going Strong. Vermont Geologic Survey
+D
+Conrad
+D
+Vanacek
+Early 1990s with portions updated in 2005 by Sarah King
+New England Wildlife Management of Forested Habitats
+R
+M
+Degraff
+NE-144
+1992
+USDA Forest Service
+Amherst, MA
+Northeast Experiment Station
+General Technical Report
+J
+Keller
+The Subtle Crawl of Sprawl: Smart Growth in the Connecticut Valley. Vermont Forum on Sprawl report for Behind the Times (newspaper)
+August, 2002. 2007
+North East State Foresters Association. The Economic Importance and Wood Flows from Vermont's Forests
+A look at the land, economies and communities
+1994-2004. Draft, 2004
+New Hampshire, Vermont and New York
+North East State Foresters Association. The Northern Forest of Maine
+Carbon and Climate Change: A Synthesis of Science Findings, Executive Summary
+2006
+Oregon Forest Resources Institute, Oregon State University College of Forestry, Oregon Department of Forestry. Forests
+A Rich and Ancient Heritage: Vermont's Archeological Sites. Vermont Division for Historic Preservation
+Giovanna
+Peebles
+1989
+Montpelier, VT
+Forests on the Edge: Housing Development on America's Private Forests
+Susan
+M
+Stein
+Ronald
+E
+Mcroberts
+Ralph
+J
+Alig
+Mark
+D
+Nelson
+David
+M
+Theobald
+Mike
+;
+Eley
+Mike
+;
+Dechter
+Mary
+Carr
+Gen
+16
+May 2005
+Portland, OR
+U.S. Department of Agriculture, Forest Service, Pacific Northwest Research Station
+Tech. Rep. PNW-GTR-636
+Wildland: A Guide to the Natural Communities of Vermont. Vermont Department of Fish and Wildlife and The Nature Conservancy
+E
+H
+Thompson
+E
+R
+Sorenson
+Wetland
+Woodland
+2000 and 2005
+Hanover, NH
+The Forests of the Green Mountain State, Northeastern Area State and Private Forestry
+E
+H
+Wharton
+2003
+U.S. Department of Agriculture, Forest Service
+Newtown Square, PA
+Proceed Southerly along the Fairfield/Bakersfield town line to the intersection with VT Route 36
+S
+H
+Wilmot
+1999
+Vermont Department of Forests, Parks and Recreation. Essex Junction, VT. Proceed through the town of Fairfield: Westerly along Route 36 to the intersection with Town Highway #58, (West Street
+Southerly along Town Highway #58 (West Street) to the intersection with Town Highway #57 (Bradley Road) and Town Highway #59
+West Street
+Southerly along Town Highway #59
+West Street) to the Fairfield/Fairfax town line
+Proceed through the town of Fairfax: Westerly along Town Highway # 2 (Fletcher Road) to the intersection with VT Route
+eed through the town of Fairfax: Westerly along Town Highway # 2 (Fletcher Road) to the intersection with VT Route
+Main Street
+104
+Southerly along VT Route 104 (Main Street) to the intersection with VT Route 128
+Browns River Road
+Southerly VT Route 128 (Browns River Road) to the Fairfax/Westford town line; Proceed through the town of Westford: Southerly along VT Route 128 (Browns River Road) to the Westford/Essex town line; Proceed through the town of Essex: Southerly along VT Route 128 (Browns River Road) to the intersection with VT Route 15
+Center Road
+Southwesterly along with VT Route 15 (Center Road) to the intersection with Town Highway #2
+Old Stage Road
+George: Southerly along VT Route 2A to the intersection with VT Route 116; Southerly along VT Route 116 to the St. George/Hinesburg town line
+Southwesterly along with VT Route 15 (Upper Main Street) to the intersection with VT Route 289. Proceed through the town of Hinesburg: Southerly along VT Route 116 to the intersection with Town Highway #4, (Silver Street
+Silver Street) to the Hinesburg/Monkton town line; Proceed through the town of Monkton: Southerly along Town Highway #1, (Silver Street) to the intersection with Town Highway #1
+Monkton Ridge Road
+Southerly along Town Highway #4
+Easterly along VT Route 4A (VT Route 4A W) to the intersection with VT Route 30
+Route 30 S
+Southerly along VT Route 30 (Route 30 S) to the Castleton/Poultney town line; Proceed through the town of Poultney: Southerly along VT Route 30 (Route 30 N) to Town Highway #1
+Beaman Street
+Southerly along Town Highway #1 (Beaman Street) to Town Highway #1
+Grove Street
+Southerly along Town Highway #1 (Grove Street) to Town Highway #1
+Furnace Street
+Easterly along Town Highway #1 (Furnace Street) to Town Highway #1 (Lake Road); Southerly along Town Highway #1 (Lake Road) to VT Route 30
+Route 30 S
+Westerly along VT Route 149 (Route 149) to the Vermont/New York state line; Southerly along the Vermont/New York state line to the southwest corner of the state of Vermont; Easterly along the Vermont/New York state line and the Vermont/Massachusetts state line to the to the intersection with US Route 5 (Coolidge Highway) in the town of Guilford; Proceed through the town of Guilford: Northerly along US Route 5 (Coolidge Highway) to the Guilford/Brattleboro town line; Westerly along the Guilford/Brattleboro town line; Northerly along the Brattleboro/Marlboro town line and the Marlboro/Dummerston town line
+Southerly along VT Route 30 (Route 30) to the Wells/Pawlet town line; Proceed through the town of Pawlet: Southerly along VT Route 30 (Route 30) to the intersection with VT Route 149. Easterly and Northerly along the Dummerston/Newfane town line; Easterly along the Dummerston/Brookline and along the Dummerston/Putney town line to the intersection with US Route 5 (Main Street
+Proceed through the town of Putney: Northerly along US Route 5 to the intersection with Town Highway #1
+eed through the town of Putney: Northerly along US Route 5 to the intersection with Town Highway #1
+Kimball Hill Road; Signal Pine Road
+Northwesterly along Town Highway #1 (Kimball Hill Road) to the intersection with Town Highway #38
+Northerly along Town Highway #1 (Westminster Road) to the Putney/Westminster town line; Proceed through the town of Westminster: Northerly along Town Highway #2 (Westminster W Road) to the Westminster/Rockingham Town line; Proceed through the town of Rockingham: Northeasterly along Town Highway #3 (Westminster West Road) to the intersection with
+Westminster Street
+Northerly along Town Highway #3 (Westminster Street) to the intersection with Town Highway #1
+Main Street
+Westerly along Town Highway #1 (Main Street) to the intersection with Town Highway #2
+Pleasant Valley Road
+Southerly along the Norton/Holland town line, the Holland/Warner's Grant town line, and the Morgan/Warner's Grant town line; Southeasterly along the Morgan/Warner's Grant town line and the Morgan/Warren Gore town line; Southwesterly along the Morgan/Brighton town line and the Charleston/Brighton town line
+Westerly along the Vermont/Quebec line (US/Canada International Boundary) to the Norton/Holland town line
+Northwesterly along the Charleston/Westmore town line, the Charleston/Brownington town line, the Derby/Brownington town line, the Derby/Coventry town line, and the Newport City/Coventry town line; Northerly along the Newport City/ Newport Town town line; Northerly along the Newport Town/Derby town line to the Vermont/Quebec line (US/Canada International Boundary
+Jay and in part along the town of Richford to the Point of Beginning. EXCLUDED FROM THE DESCRIPTION ABOVE ARE THE FOLLOWING AREAS: Exclusion #1 Beginning at the northwest corner of the town of Lyndon; Southerly along Lyndon/Wheelock town line to US I91; Proceed through the towns of Lyndon and St. Johnsbury: Southerly along US I91 to the St. Johnsbury/Waterford town line; Northeasterly along the St. Johnsbury/Waterford town line
+Westerly along the Vermont/Quebec border (US/Canada International Boundary
+Newport Town, Troy
+Northwesterly along the St. Johnsbury/Kirby town line; Northerly along the Lyndon/Kirby and Lyndon/Burke town lines; Westerly along the Lyndon/Burke and Lyndon/Sutton town lines to the point of beginning Meaning to exclude portions of the towns of Lyndon and St. Johnsbury. Exclusion #2 Beginning at the northwest corner of the town of East Montpelier
+Southeasterly along the Montpelier/Berlin town line to US I89; Proceed through the town of Berlin: Easterly along US I89 to the Montpelier/Berlin town line; Southerly and Easterly along the Montpelier/Berlin town line to US I89
+Proceed Southerly along East Montpelier/Middlesex and Montpelier/Middlesex town lines
+Proceed through the town of Berlin: Southerly along US I89 to the Berlin/Williamston town line
+Williamston, the Berlin/Northfield, and the Northfield/Moretown town lines; Southerly along the Northfield/Waitsfield town line; Easterly along the
+Northfield/Warren, the Northfield/Roxbury, the Northfield/Brookfield, the Williamstown/Brookfield, and Williamstown/Chelsea; Brook Road
+Proceed through the town of Plainfield: Northerly along Town Highway #2 (Brook Road) to the intersection with Town Highway #1
+eed through the town of Plainfield: Northerly along Town Highway #2 (Brook Road) to the intersection with Town Highway #1
+Mill Street
+Northerly along Town Highway #1 (Mill Street) to the intersection with
+Main Street
+Westerly along Town Highway #3 (Main Street) to the intersection with US Route 2
+School Street
+Northfield and Williamstown and portions of the towns of Berlin and Plainfield Exclusion #3 Beginning at the northwest corner of the town of Lincoln: Proceed Southerly, Westerly and Southerly along the Lincoln/Bristol town line; Southerly and Easterly along the Lincoln/Ripton town line; Southerly along the Ripton/Granville town line; Northwesterly and Southwesterly along the Hancock/Ripton town line
+Northeasterly along US
+2
+Barre Town, East Montpelier, Montpelier
+Northwesterly along the Plainfield/Marshfield town line; Northeasterly and Northwesterly along the East Montpelier/Marshfield town line; Northwesterly along the East Montpelier/Calais town line to the Point of Beginning. Meaning to exclude the entire towns of Barre City. Southwesterly and Southeasterly along the Hancock/Goshen town line; Southerly along the Goshen/Rochester town line; US Route 7. Route 7
+Proceed through the town of Pittsford: Northerly along US Route
+eed through the town of Pittsford: Northerly along US Route
+7
+Route 7) to Pittsford/Brandon town line; Proceed through the town of Brandon: Northerly along US Route 7 (Franklin Street
+Northwesterly along Town Highway
+1
+Franklin Street
+Westerly along Town Highway
+1
+Park Street)
+Northerly along Town Highway
+1
+Center Street
+Westerly along Town Highway #1 (Conant Square) to the intersection with
+Pearl Street
+Southerly along Town Highway #4 (Pearl Street) to the intersection of Town Highway #78
+Maple Street
+Southeasterly along Town Highway #78 (Maple Street) to the intersection of Town Highway #5
+Union Street
+Southerly along Town Highway #5 (Union Street) to the intersection of Town Highway #5
+Florence Road
+Southerly along Town Highway #5 (Florence Road) to the Brandon/Pittsford town line; Proceed through the town of Pittsford: Southerly along Town Highway #1 (West Creek Road) to the intersection of Town Highway #8
+Whipple Hollow Road
+Proceed through the town of West Rutland: Southerly along Town Highway #3 (Whipple Hollow Road) to the intersection with Town Highway #3
+eed through the town of West Rutland: Southerly along Town Highway #3 (Whipple Hollow Road) to the intersection with Town Highway #3
+Pleasant Street
+Southerly along Town Highway #4 (Whipple Hollow Road) to the intersection with VT Route 4A
+Castleton Road
+Westerly along VT Route 4A
+Castleton Road) West Rutland/Ira town line
+Proceed Southerly and Easterly along the West Rutland/Ira town line; Proceed Easterly along the West Rutland/Clarendon and Rutland Town/Clarendon town lines ; Proceed Northerly along the Rutland Town/Mendon town line to US Route
+eed Southerly and Easterly along the West Rutland/Ira town line; eed Easterly along the West Rutland/Clarendon and Rutland Town/Clarendon town lines ; eed Northerly along the Rutland Town/Mendon town line to US Route
+Route 4
+Proceed through the town of Killington: Easterly along US Route 4 (Route 4) to the intersection with VT Route 100 (Route 100 N); Northerly along VT Route 100 (Route 100 N) to the Killington/Pittsfield town line; Proceed through the town of Pittsfield: Northerly along VT Route 100 (Route 100) to the Pittsfield/Stockbridge town line; Proceed through the town of Stockbridge: Easterly and Northwesterly along VT Route 100
+Proceed through the town of Mendon: Easterly along US Route 4
+eed through the town of Mendon: Easterly along US Route 4
+Route 4) to the Mendon/Killington town line. Route 100) to the Stockbridge/Rochester town line; Proceed through the town of Rochester: Northerly along VT Route 100 (Route 100 S
+Northerly along VT Route
+100
+South Main Street
+Northerly along VT Route
+100
+North Main Street
+Northerly along VT Route 100 (Route 100 N) to the Rochester/Hancock town line; Proceed through the town of Hancock: Northerly along VT Route 100
+Route 100) to the Hancock/Granville town line
+Proceed Southeasterly along the Granville/Hancock and Granville/Rochester town lines; Proceed Northeasterly along the Granville/Rochester and Granville/Braintree town lines; Proceed Northwesterly along the Granville/Roxbury and Granville/Warren town lines to VT Route 100
+Route 100
+Proceed through the town of Warren: Northerly along VT Route 100
+eed through the town of Warren: Northerly along VT Route 100
+Route 100) to the Warren/Waitsfield town line; Proceed Westerly along the Warren/Waitsfield town line
+Northerly and Westerly along the Warren/Fayston town line
+Proceed
+Westerly
+Proceed Westerly along the Lincoln/Fayston town line
+and Rutland Town, and portions of the towns of Brandon
+Lincoln, Proctor, Rutland City; Chittenden, Hancock, Killington, Mendon, Pittsfield, Pittsford, Rochester, Stockbridge
+Proceed Westerly along the Lincoln/Bristol town lines to the Point of Beginning. Meaning to exclude the entire towns of Granville
+Beginning at the point where US Route 7 crosses the Wallingford/Clarendon town line
+Proceed
+Westerly
+Southerly and Westerly along the Wallingford/Clarendon town line; Proceed Westerly along the Clarendon/Tinmouth town line to Town Highway #7
+East Road N)
+Proceed through the town of Tinmouth: Southerly along Town Highway #7 (East Road N) to the intersection with Town Highway #1
+eed through the town of Tinmouth: Southerly along Town Highway #7 (East Road N) to the intersection with Town Highway #1
+Route 140
+Southerly along Town Highway #3 (East Road) to the intersection with
+East Road
+Southerly along Town Highway #2 (East Road) to the Tinmouth/Danby town line; Proceed through the town of Danby: Southerly along Town Highway #2 (Tinmouth Road) to the intersection with
+Brook Road
+Southerly and Easterly along Town Highway #1 (Brook Road) to the intersection with Town Highway #1
+South Main Street
+Southerly along Town Highway #1 (South Main Street) to the intersection with Town Highway #1
+Mount Tabor Avenue
+Proceed through the town of Mount Tabor: Easterly along Town Highway #1 (Mount Tabor Avenue) to the intersection with US Route 7
+Route 7
+Southerly along US Route
+7
+Route 7) to the Mount Tabor/Dorset town line
+Southerly and Easterly along the Mount Tabor/Dorset town line; Proceed Southerly along the Dorset/Peru town line
+Proceed
+Easterly
+Proceed Westerly along the Dorset/Winhall town line
+Proceed Southerly along the Manchester/Winhall town line
+Proceed Easterly along the Winhall/Sunderland town line
+Proceed Northerly and Easterly along the Winhall/Stratton town line; Proceed Northerly along the Winhall/Jamaica town line To VT Route 30
+Route 30
+Proceed through the town of Winhall: Westerly and Northerly along VT Route 30 (Route 30) to the intersection with VT Route 11
+Route 11
+Easterly along VT Route 11 (Route 11) to the Winhall/Peru town line; Proceed Easterly along the Winhall/Peru town line
+Proceed Northerly along the Peru/Landgrove town line
+Proceed Easterly and Southerly along the Landgrove/Weston town line to Town Highway
+eed Easterly and Southerly along the Landgrove/Weston town line to Town Highway
+Landgrove Road
+Proceed through the town of Weston: Easterly along Town Highway #2 (Landgrove Road) to Town Highway #2
+eed through the town of Weston: Easterly along Town Highway #2 (Landgrove Road) to Town Highway #2
+Lawrence Hill Road
+Easterly along Town Highway #2 (Lawrence Hill Road) to the intersection with VT Route 100
+Main Street
+Northerly along VT Route 100 (Main Street) to VT Route 100
+Route 100
+Northerly along VT Route 100 (Route 100) to VT Route 155
+Route 155
+Northerly along
+155
+Route 155) to the Weston/Mount Holly town line
+Southerly and Westerly along the Weston/Mount Holly town line; Proceed Northerly and Westerly along the Mount Holly/Mount Tabor town line; Proceed Westerly along the Wallingford/Mount Tabor and Wallingford/Danby town lines to US Route 7
+Proceed
+Northwesterly
+Route 7 S
+Proceed through the town of Wallingford: Northerly along US Route
+eed through the town of Wallingford: Northerly along US Route
+Route 7 S) to US Route 7 (South Main Street
+Northerly along US Route 7 (South Main Street) to US Route 7 (North Main Street); Northerly along US Route 7 (North Main Street) to the Point of Beginning. Meaning to exclude the entire towns of Mt. Tabor and Peru and portions of the towns of Danby
+Tinmouth, Wallingford, Weston and Winhall.
+Exclusion #5
+Beginning at the point where VT Route 7A crosses the Arlington/Shaftsbury town line; Proceed through the town of Shaftsbury: Southerly along VT Route 7A
+West Mountain Road
+Route 7A) to the intersection with Town Highway #54
+Westerly and Southwesterly along Town Highway #54 (West Mountain Road) to the intersection with Town Highway #64
+Laclair Road
+Westerly along Town Highway #64 (Laclair Road) to the intersection with Town Highway #9
+Murphy Hill Road
+Northwesterly along Town Highway #9 (Murphy Hill Road) to the intersection with Town Highway #13
+Sally Gannon Road
+Westerly along Town Highway #13 (Sally Gannon Road) to the Vermont/New York state line; Proceed Southerly along the Vermont/New York state line to VT
+West Road
+Proceed through the town of Bennington: Easterly along VT Route 9 (West Road) to Town Highway #1
+eed through the town of Bennington: Easterly along VT Route 9 (West Road) to Town Highway #1
+West Road
+Easterly and Northerly along Town Highway #1 (West Road) to the intersection with Town Highway #1
+Main Street
+Easterly along Town Highway #1 (Main Street) to Town Highway
+Main Street
+Southeasterly along Town Highway #2 (Main Street) to the intersection with Town Highway #1
+South Street
+Searsburg town lines; Proceed Easterly along the Searsburg/Somerset town line; Proceed Southerly along the
+Searsburg/Wilmington, Readsboro/Wilmington and Readsboro
+Whitingham town lines to the Vermont/Massachusetts state line; Proceed Easterly along the Vermont/Massachusetts state line to the southeast corner of the town of Whitingham
+Proceed Northerly along the Whitingham/Halifax town line
+Proceed Westerly along the Whitingham/Wilmington town line to VT Route 100
+Route 100 S)
+Proceed through the town of Wilmington: Northerly along VT Route 100 (Route 100 S) to the intersection with VT Route 9 (Route 9 E); Easterly along VT Route 9
+eed through the town of Wilmington: Northerly along VT Route 100 (Route 100 S) to the intersection with VT Route 9 (Route 9 E); Easterly along VT Route 9
+Route 9 E) to the Wilmington/Marlboro town line
+Proceed Northerly along the Wilmington/Marlboro town line; Proceed Easterly and Northerly along the Marlboro/Dover town line; Proceed Northerly along the Dover/Newfane, Wardsboro/Newfane and Wardsboro/Townshend town lines; Proceed Westerly along the Wardsboro/Jamaica town line to VT Route 100; Proceed through the town of Wardsboro: Southerly along VT Route 100
+Route 100) to the intersection with Town Highway #2 (South Wardsboro Road
+Southerly along Town Highway #2 (South Wardsboro Road) to the intersection with Town Highway #2
+Newfane Road
+Easterly along Town Highway #2 (Newfane Road) to the intersection with Town Highway #4
+East Dover Road
+Southerly along Town Highway #4
+East Dover Road) to the Wardsboro/Dover town line

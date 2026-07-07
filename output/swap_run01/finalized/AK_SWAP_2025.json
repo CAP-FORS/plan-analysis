@@ -1,0 +1,861 @@
+{
+  "document_meta": {
+    "title": "Alaska Wildlife Action Plan 2025",
+    "year": 2025,
+    "jurisdiction": "Alaska",
+    "document_type": "SWAP",
+    "document_id": "AK_SWAP_2025"
+  },
+  "orientation": {
+    "summary": "The Alaska State Wildlife Action Plan 2025 (SWAP) is a comprehensive 10-year conservation plan produced by the Alaska Department of Fish and Game (ADF&G), required for State Wildlife Grant eligibility. The document exhibits a strong awareness of climate change as a primary threat to Alaska's fish and wildlife, dedicating a full chapter (Chapter 7) to climate threats including temperature increases, sea ice loss, glacial retreat, permafrost thaw, ocean acidification, and marine heat waves. Range shifts are explicitly discussed as an observed and projected phenomenon, particularly northward/elevational shifts driven by warming, with documented examples across multiple taxa. The document performs its own distributional analysis (heatmaps, species richness by habitat) and incorporates recent scientific literature extensively; it does not itself run climate or niche models but references and integrates results from others. Conservation actions are described at a strategic level with limited time-binding and monitoring specificity at the action level.",
+    "evidence_index": [
+      {
+        "text": "The number of species is not static. New species are still being discovered in Alaska, and as the climate changes, more species' ranges are expanding to the north (Parmesan and Yohe 2003).",
+        "location": "Summary / Chapter 4 (SGCN section)",
+        "relevant_elements": ["1.1", "C2", "3.3"]
+      },
+      {
+        "text": "there is a well-documented poleward shift of many well-studied plant and animal species on all continents and in most major oceans (Perry et al. 2005, Parmesan 2006, Hitch and Leberg 2007, LaSorte and Thompson 2007).",
+        "location": "Summary / Chapter 4 (SGCN section)",
+        "relevant_elements": ["1.1", "C2", "3.2", "3.3"]
+      },
+      {
+        "text": "Subarctic seabirds, fishes, and marine mammals are shifting northward into Arctic regions in response to increased water temperatures, changes in water mass distributions, decreased extent and duration of ice cover, and altered prey communities (Stafford et al. 2022).",
+        "location": "Chapter 4 / SGCN section",
+        "relevant_elements": ["1.1", "C2", "3.3", "3.5", "3.7"]
+      },
+      {
+        "text": "Climate change in the Arctic exceeds the mean global rate (Sweeney et al. 2023, Zhou et al. 2024). It is expected to add conservation challenges to species and habitats (Moon et al. 2024).",
+        "location": "Chapter 4 / SGCN section",
+        "relevant_elements": ["1.1", "3.5"]
+      },
+      {
+        "text": "Impacts at higher trophic levels included mass mortality, shifts in distribution, and colony-wide reproductive failures of Common Murres (Arimitsu et al. 2021, Piatt et al. 2020, Renner et al. 2024); mass mortality of fin and humpback whales (Savage 2017)",
+        "location": "Chapter 4 / SGCN section",
+        "relevant_elements": ["3.6", "3.5"]
+      },
+      {
+        "text": "Overall trends point to continued warming and a possible transition of the rich and unique ecosystems to novel states rather than a return to past conditions (NOAA 2021, Overland et al. 2024, Renner et al. 2024).",
+        "location": "Chapter 4 / SGCN section",
+        "relevant_elements": ["3.7", "3.5"]
+      },
+      {
+        "text": "Owing to the high connectivity of habitats, wildlife in Alaska may be more resilient to climate change than wildlife in other parts of the United States where habitat fragmentation by human activities is more extensive (Vynne et al. 2021). For example, wildlife in Alaska may be able to more easily move to higher elevations or latitudes (e.g., Tape et al. 2016, 2018, Mizel et al. 2016)",
+        "location": "Climate Change section, Chapter 7",
+        "relevant_elements": ["1.2", "1.3", "1.4", "4.2"]
+      },
+      {
+        "text": "Climate can directly impact wildlife by influencing species' ranges, seasonal timing (phenology), or productivity.",
+        "location": "Alaska Wildlife and Fish in a Changing Climate, Chapter 7",
+        "relevant_elements": ["1.1", "C2", "3.5"]
+      },
+      {
+        "text": "Alaska's climate is characterized in part by its inherent variability... Alaska is warming at two to three times the global average (Markon et al. 2018, Ballinger et al. 2023), and the Arctic is warming at four times the global average (Rantanen et al. 2022).",
+        "location": "Current Climate Trends, Chapter 7",
+        "relevant_elements": ["1.1", "3.5"]
+      },
+      {
+        "text": "Daily high temperatures exceeded normal temperatures by more than 20°F, resulting in uncharacteristically severe disturbances, such as the Swan Lake Fire on the Kenai Peninsula (Jandt and York 2021) and fish kills from thermal stress in multiple areas of the state",
+        "location": "Current Climate Trends, Chapter 7",
+        "relevant_elements": ["3.6", "3.5"]
+      },
+      {
+        "text": "In recent years, uncharacteristic rain-on-snow events across the Arctic have been observed, negatively impacting forage and habitat availability for mammals and resident birds (Serreze et al. 2021).",
+        "location": "Snow, Permafrost, Sea Ice, and Glaciers, Chapter 7",
+        "relevant_elements": ["3.5", "3.6"]
+      },
+      {
+        "text": "Shrub expansion in arctic tundra has been widely observed in these greening areas, partly due to temperature increases. As a result, moose and beaver are colonizing previously inhospitable Arctic areas (Tape et al. 2016, 2018).",
+        "location": "Habitat Changes, Chapter 7",
+        "relevant_elements": ["C2", "3.7", "3.5"]
+      },
+      {
+        "text": "In a long-term study in Denali National Park, passerine species shifted to higher elevations in response to advancing treeline (Mizel et al. 2016).",
+        "location": "Habitat Changes, Chapter 7",
+        "relevant_elements": ["C2", "3.3", "3.2"]
+      },
+      {
+        "text": "Lapland Longspur prefer sedge-dominated tussock tundra for nesting and could plausibly lose habitat as shrubs invade, while White-crowned Sparrows could gain habitat (Boelman et al. 2015).",
+        "location": "Habitat Changes, Chapter 7",
+        "relevant_elements": ["3.5", "3.7", "C2"]
+      },
+      {
+        "text": "With temperature increases and climate-induced habitat alterations, Alaska is becoming more habitable for southern species that were previously limited by factors characteristic of cold environments in boreal and Arctic regions. This trend allows 'leading edge' species—historically rare or absent species (e.g., mule deer, mountain lions, or some marine fishes)—to expand their ranges into the state.",
+        "location": "Range Expansion, Pathogens, and Problematic Insects, Chapter 7",
+        "relevant_elements": ["C2", "3.7", "1.1"]
+      },
+      {
+        "text": "Similarly, invasive species whose climatic tolerances are met in a warming Alaska could become established more easily. Bird species that were historically migratory could become resident (Wu et al. 2018).",
+        "location": "Range Expansion, Pathogens, and Problematic Insects, Chapter 7",
+        "relevant_elements": ["3.7", "C2"]
+      },
+      {
+        "text": "climate change can have complex effects on wildlife because interactions among many variables, such as temperature, precipitation, habitat availability, ecosystem processes, and species interactions, are complicated and difficult to predict. For example, combined with the changes in habitat and seasonality described above, changes in the timing of spring leafout of vegetation or other historically reliable indicators can create a 'mismatch' for migratory bird flight timing and food availability.",
+        "location": "Mismatched Phenology and Food Webs, Chapter 7",
+        "relevant_elements": ["3.7", "1.3"]
+      },
+      {
+        "text": "Some emerging infectious diseases in wildlife are linked to climate change, and there is evidence that the spread and prevalence of some diseases is increasing (Van Hemert et al. 2014). Warming ocean waters and marine heat waves, such as the one that affected the North Pacific Ocean during 2014-2016, have facilitated the spread of diseases.",
+        "location": "Pathogens section, Chapter 7",
+        "relevant_elements": ["3.6", "3.7"]
+      },
+      {
+        "text": "warmer temperatures have led to an increase in the severity of spruce beetle (Dendroctonus rufipennis) outbreaks (Dell and Davis 2019), negatively impacting habitat quality and suitability for some forest-dwelling species",
+        "location": "Problematic Native Species, Chapter 7",
+        "relevant_elements": ["3.7", "3.5"]
+      },
+      {
+        "text": "On a landscape scale, ADF&G's guidelines (Paragi et al. 2020) also suggest consultation with DOF on five-year timber sales to identify opportunities for maintaining wildlife habitat connectivity in managed forests.",
+        "location": "Forest Habitat Management and Restoration, Chapter 8",
+        "relevant_elements": ["1.4", "4.1"]
+      },
+      {
+        "text": "The high level of habitat connectivity in Alaska's large and relatively undisturbed terrestrial ecosystems will likely allow many SGCN to transition to other suitable habitats as they develop in a changing environment.",
+        "location": "Land and Water Management, Chapter 8",
+        "relevant_elements": ["1.4", "4.2"]
+      },
+      {
+        "text": "Species that inhabit the northern edge of the continent or depend on sea ice are likely to be the most vulnerable to climate change because their niche is both shifting and disappearing.",
+        "location": "Threat Priorities, Chapter 10",
+        "relevant_elements": ["1.1", "1.3", "C2"]
+      },
+      {
+        "text": "Assess the vulnerability of SGCN to climate change and other potential threats.",
+        "location": "Research and Monitoring, Chapter 8",
+        "relevant_elements": ["1.1", "2.1"]
+      },
+      {
+        "text": "For species projected to lose habitat, there is a need to identify future habitats and hotspots of occurrence that could serve as climate change refugia and contribute to resiliency of SGCN. This can be done by comparing current and projected future habitat values and identifying physical factors and ecosystem processes that influence current and future habitat suitability (Stralberg et al. 2020, Raiho et al. 2022).",
+        "location": "Habitat Monitoring, Chapter 9",
+        "relevant_elements": ["4.1", "2.2", "1.1"]
+      },
+      {
+        "text": "Range shifts have already been documented in some species groups (Mizel et al. 2016, Tape et al. 2016, Baltensperger et al. 2024), and long-term monitoring of SGCN distribution and abundance will help prioritize species for conservation and management actions.",
+        "location": "Monitoring Plans for the Next 10 Years, Chapter 9",
+        "relevant_elements": ["C2", "3.2", "3.3", "4.3"]
+      },
+      {
+        "text": "sea ice (diminishing with climate change and important for wildlife populations, including ice seal species, walrus, and polar bear). • Alpine and Arctic tundra (changing with evolving climate patterns). • Rivers, streams, and fjords dependent on ice-melt flow (influenced by climate variability).",
+        "location": "Habitat Priorities, Chapter 10",
+        "relevant_elements": ["4.1", "3.5", "1.1"]
+      },
+      {
+        "text": "assisting species with low dispersal capabilities in colonizing newly available suitable habitats that develop as a result of climate change.",
+        "location": "Native Species, Chapter 8",
+        "relevant_elements": ["4.2", "1.3"]
+      },
+      {
+        "text": "Climate change is likely the most impactful threat to wildlife in Alaska because it affects habitats across the state and, for migratory species, where those species migrate and overwinter outside the state.",
+        "location": "Threat Priorities, Chapter 10",
+        "relevant_elements": ["1.1", "3.5"]
+      },
+      {
+        "text": "Species with low adaptive capacity such as those with specialized habitat needs or limited dispersal ability face higher vulnerability",
+        "location": "Chapter 7 / Climate Change section",
+        "relevant_elements": ["1.1", "1.2", "1.3"]
+      },
+      {
+        "text": "ADF&G has fostered more than 140 SWG-based partnerships over the past 10 years, thanks to collaborations with other state programs, government agencies, species working groups, universities, NGOs, Alaska Native organizations and environmental contractors.",
+        "location": "Institutional Development, Chapter 8",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "Ocean acidification describes decreases in marine pH and carbonate ion concentrations and occurs due to oceanic uptake of anthropogenic carbon dioxide (CO2) in the atmosphere... ocean water in Alaska is more susceptible to the acidification effects of increased atmospheric CO2 because of its colder temperatures.",
+        "location": "Marine Systems, Chapter 7",
+        "relevant_elements": ["3.5", "1.1"]
+      },
+      {
+        "text": "An observed shift from large-bodied, lipid-rich arctic zooplankton species to small-bodied, lipid-poor subarctic species (Mordy et al. 2022, Ershova et al. 2017) corresponds with the reduced energy content of zooplanktivorous fish",
+        "location": "Marine Systems, Chapter 7",
+        "relevant_elements": ["3.7", "3.5"]
+      },
+      {
+        "text": "As the climate changes, the interior region of the state is facing even hotter and drier summers than were historically typical, with prolonged droughts and heatwaves that place more demand on moisture-limited systems.",
+        "location": "Current Climate Trends, Chapter 7",
+        "relevant_elements": ["3.5"]
+      },
+      {
+        "text": "The frequency and intensity of wildfires have increased over the past few decades as a result of climate change and changing fire management strategies in Alaska.",
+        "location": "Fire and Fire Management, Chapter 7",
+        "relevant_elements": ["3.5", "3.6"]
+      },
+      {
+        "text": "in climate change, especially climate warming, has led to environmental changes that can allow harmful nonindigenous species from lower latitudes to become established in Alaska. For example, in the past two decades, Alaska has seen the arrival of non-native ticks (Hahn and George 2019), and a northward shift of marine species has been observed and is projected to increase (Morley et al. 2018).",
+        "location": "Threat Priorities, Chapter 10",
+        "relevant_elements": ["3.7", "C2"]
+      },
+      {
+        "text": "Landscape-scale changes caused by climate change, including rising ocean temperatures, are increasing habitat suitability for many non-native species. This has been the case with the detection of invasive European green crabs (Carcinus maenas) in the Southeastern region in 2022",
+        "location": "Invasive Non-native and Alien Species, Chapter 7",
+        "relevant_elements": ["3.7"]
+      },
+      {
+        "text": "This revised plan identifies major threats facing wildlife in Alaska (Chapter 7). It sets clear priorities for research in addition to conservation and management actions for SGCN over the next decade (Chapter 8). We also use the standard terminology of Salafsky et al. (2024) to characterize threats and actions, which is a best practice for SWAP revision and implementation",
+        "location": "Threats and Conservation Actions, Chapter 2",
+        "relevant_elements": ["4.5"]
+      },
+      {
+        "text": "Robust monitoring will be essential during this time period to identify which species are likely to be resilient to climate change and which will require additional management to support their resilience.",
+        "location": "Climate Change section, Chapter 7",
+        "relevant_elements": ["4.3", "1.2"]
+      },
+      {
+        "text": "ADF&G will monitor the implementation and effectiveness of the current plan annually. Specific guidance for future revisions to the plan is provided in a 2017 joint memorandum from the U.S. Fish and Wildlife Service (USFWS) and the Association of Fish and Wildlife Agencies",
+        "location": "Part IV: Future Revision, Chapter 11",
+        "relevant_elements": ["4.3"]
+      },
+      {
+        "text": "AFWA recently provided voluntary guidance on integrating climate information and actions into SWAPs (AFWA 2022). We updated climate topics throughout the 2025 SWAP and will do so again in the future to ensure we include the best available information on climate and environmental change.",
+        "location": "Part IV: Future Revision, Chapter 11",
+        "relevant_elements": ["4.5"]
+      },
+      {
+        "text": "monitoring the status of populations and habitat connectivity may be important methods to ensure that sustainable populations continue to return to Alaska's intact habitats for breeding",
+        "location": "Threats and Conservation Actions, Chapter 2",
+        "relevant_elements": ["1.4", "4.3"]
+      },
+      {
+        "text": "species with specialized habitat needs or limited dispersal ability face higher vulnerability to these changes",
+        "location": "Climate Change section, Chapter 7",
+        "relevant_elements": ["1.2", "1.3"]
+      },
+      {
+        "text": "The Biological category assigns a score that assesses a species' vulnerability based on population size, range size, and population concentration in Alaska. It also assesses life history characteristics, including reproductive potential and ecological specialization.",
+        "location": "Alaska Species Ranking System, Chapter 4",
+        "relevant_elements": ["1.2", "1.3", "2.1"]
+      },
+      {
+        "text": "Permafrost thaw is increasing and is associated with thermokarst (ground slumps or cave-ins), lake drainage, and surface pooling",
+        "location": "Snow, Permafrost, Sea Ice, and Glaciers, Chapter 7",
+        "relevant_elements": ["3.5"]
+      },
+      {
+        "text": "In the decade since publication of the 2015 State Wildlife Action Plan (SWAP), marine heat waves (periods of unusually warm ocean temperatures) have occurred in the Gulf of Alaska and the Bering Sea. From 2014 through 2016, the Gulf of Alaska experienced harmful algal blooms, changes in phytoplankton and zooplankton communities, and decreased abundance and distribution of forage fish",
+        "location": "Chapter 4 / SGCN section",
+        "relevant_elements": ["3.5", "3.6", "3.7"]
+      },
+      {
+        "text": "Decreased winter sea ice cover in the Bering Sea due to climate change is likely to affect populations of these eiders over the next two decades. ADF&G and partners are conducting research to understand the effects of the changing climate on this SGCN.",
+        "location": "Species of Conservation Need: Spectacled Eider vignette",
+        "relevant_elements": ["1.1", "3.5"]
+      }
+    ]
+  },
+  "concepts": {
+    "climate_vulnerability": {
+      "evaluable": true,
+      "score": 3,
+      "evidence": [
+        {
+          "text": "Species that inhabit the northern edge of the continent or depend on sea ice are likely to be the most vulnerable to climate change because their niche is both shifting and disappearing.",
+          "location": "Threat Priorities, Chapter 10",
+          "sub_component": "exposure",
+          "citations": []
+        },
+        {
+          "text": "Owing to the high connectivity of habitats, wildlife in Alaska may be more resilient to climate change than wildlife in other parts of the United States where habitat fragmentation by human activities is more extensive (Vynne et al. 2021). For example, wildlife in Alaska may be able to more easily move to higher elevations or latitudes",
+          "location": "Climate Change section, Chapter 7",
+          "sub_component": "adaptive capacity",
+          "citations": ["Vynne et al. 2021", "Tape et al. 2016", "Tape et al. 2018", "Mizel et al. 2016"]
+        },
+        {
+          "text": "The Biological category assigns a score that assesses a species' vulnerability based on population size, range size, and population concentration in Alaska. It also assesses life history characteristics, including reproductive potential and ecological specialization.",
+          "location": "Alaska Species Ranking System, Chapter 4",
+          "sub_component": "exposure",
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "adaptive_capacity_specificity": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Owing to the high connectivity of habitats, wildlife in Alaska may be more resilient to climate change than wildlife in other parts of the United States where habitat fragmentation by human activities is more extensive (Vynne et al. 2021). For example, wildlife in Alaska may be able to more easily move to higher elevations or latitudes",
+          "location": "Climate Change section, Chapter 7",
+          "sub_component": null,
+          "citations": ["Vynne et al. 2021"]
+        },
+        {
+          "text": "While climate change may negatively impact some species across their entire range, other resident species will demonstrate resilience through mechanisms such as dispersal, behavioral and phenological shifts, and changes in microhabitat use, among others.",
+          "location": "Range Expansion, Pathogens, and Problematic Insects, Chapter 7",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "adaptive_capacity_components": {
+      "demography": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The Biological category assigns a score that assesses a species' vulnerability based on population size, range size, and population concentration in Alaska. It also assesses life history characteristics, including reproductive potential and ecological specialization.",
+            "location": "Alaska Species Ranking System, Chapter 4",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "distribution": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "there is a well-documented poleward shift of many well-studied plant and animal species on all continents and in most major oceans (Perry et al. 2005, Parmesan 2006, Hitch and Leberg 2007, LaSorte and Thompson 2007).",
+            "location": "Chapter 4 / SGCN section",
+            "sub_component": null,
+            "citations": ["Perry et al. 2005", "Parmesan 2006", "Hitch and Leberg 2007", "LaSorte and Thompson 2007"]
+          }
+        ]
+      },
+      "movement": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "wildlife in Alaska may be able to more easily move to higher elevations or latitudes (e.g., Tape et al. 2016, 2018, Mizel et al. 2016) as their habitats change because there are fewer anthropogenic barriers to dispersal.",
+            "location": "Climate Change section, Chapter 7",
+            "sub_component": null,
+            "citations": ["Tape et al. 2016", "Tape et al. 2018", "Mizel et al. 2016"]
+          }
+        ]
+      },
+      "evolutionary_potential": {
+        "present": false,
+        "evidence": []
+      },
+      "ecological_dependencies": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "A species' dependence on specific ecological conditions or on other species affected by climate change increases its likelihood of being negatively impacted. For example, Liebezeit et al. (2012) identified Common Eiders as being highly vulnerable to climate change due to their dependence on barrier-island nest sites that are threatened by inundation",
+            "location": "Mismatched Phenology and Food Webs, Chapter 7",
+            "sub_component": null,
+            "citations": ["Liebezeit et al. 2012"]
+          }
+        ]
+      },
+      "abiotic_niche": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Species that inhabit the northern edge of the continent or depend on sea ice are likely to be the most vulnerable to climate change because their niche is both shifting and disappearing.",
+            "location": "Threat Priorities, Chapter 10",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "life_history": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "It also assesses life history characteristics, including reproductive potential and ecological specialization.",
+            "location": "Alaska Species Ranking System, Chapter 4",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      }
+    },
+    "connectivity": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Owing to the high connectivity of habitats, wildlife in Alaska may be more resilient to climate change than wildlife in other parts of the United States where habitat fragmentation by human activities is more extensive (Vynne et al. 2021). For example, wildlife in Alaska may be able to more easily move to higher elevations or latitudes",
+          "location": "Climate Change section, Chapter 7",
+          "sub_component": null,
+          "citations": ["Vynne et al. 2021"]
+        },
+        {
+          "text": "monitoring the status of populations and habitat connectivity may be important methods to ensure that sustainable populations continue to return to Alaska's intact habitats for breeding and thrive into the future.",
+          "location": "Threats and Conservation Actions, Chapter 2",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    }
+  },
+  "tools": {
+    "vulnerability_models": {
+      "evaluable": true,
+      "score": 2,
+      "named_tools": ["Alaska Species Ranking System", "ASRS"],
+      "evidence": [
+        {
+          "text": "The ASRS is a new tool implemented in the 2025 State Wildlife Action Plan revision for identifying SGCN. It was developed in partnership between the ADF&G Threatened, Endangered, and Diversity (TED) Program and the University of Alaska Anchorage, Alaska Center for Conservation Science (ACCS) to assist in setting wildlife conservation priorities for Alaska.",
+          "location": "Alaska Species Ranking System, Chapter 4",
+          "sub_component": null,
+          "citations": ["Gotthardt et al. 2012"]
+        },
+        {
+          "text": "The Biological category assigns a score that assesses a species' vulnerability based on population size, range size, and population concentration in Alaska. It also assesses life history characteristics, including reproductive potential and ecological specialization.",
+          "location": "Alaska Species Ranking System, Chapter 4",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "niche_models": {
+      "evaluable": true,
+      "score": 2,
+      "named_tools": ["Alaska Gap Analysis Project", "GAP"],
+      "evidence": [
+        {
+          "text": "Data used to create heatmaps came from 211 species range maps of vertebrate SGCN listed in the 2015 SWAP (7 amphibians, 159 birds, and 45 mammals). Range maps for Alaska were based on spatially explicit models (12-digit hydrologic unit code watershed scale) used to predict each species' distribution on land, developed as part of the U.S. Geological Survey Gap Analysis Project",
+          "location": "Distribution of Species of Greatest Conservation Need, Chapter 5",
+          "sub_component": null,
+          "citations": ["Gotthardt et al. 2014", "Aycrigg et al. 2015", "ACCS 2024"]
+        },
+        {
+          "text": "For species projected to lose habitat, there is a need to identify future habitats and hotspots of occurrence that could serve as climate change refugia and contribute to resiliency of SGCN. This can be done by comparing current and projected future habitat values and identifying physical factors and ecosystem processes that influence current and future habitat suitability (Stralberg et al. 2020, Raiho et al. 2022).",
+          "location": "Habitat Monitoring, Chapter 9",
+          "sub_component": null,
+          "citations": ["Stralberg et al. 2020", "Raiho et al. 2022"]
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_models": {
+      "evaluable": true,
+      "score": 2,
+      "named_tools": ["ERA5"],
+      "evidence": [
+        {
+          "text": "Climate variables for each of the six terrestrial biogeographic regions and three marine regions were estimated using the ERA5 global reanalysis data set (Hersbach et al. 2020), with data downloaded from C3S (C3S 2017) to produce estimates of temperature, precipitation, snowfall, and sea surface temperature.",
+          "location": "Distribution of Species of Greatest Conservation Need, Chapter 5",
+          "sub_component": null,
+          "citations": ["Hersbach et al. 2020", "C3S 2017"]
+        }
+      ],
+      "absence_note": "The document uses ERA5 reanalysis data for historical/recent climate comparisons by biogeographic region. Future climate projections via GCMs or emission scenarios are referenced conceptually ('projected changes') but no specific GCM, RCP, or SSP scenario is formally applied. Score is 2 because the ERA5 climate data is applied to the document's focal subjects (SGCN biogeographic regions).",
+      "time_horizon_years": [],
+      "emission_scenarios": []
+    },
+    "connectivity_models": {
+      "evaluable": true,
+      "score": 0,
+      "named_tools": [],
+      "evidence": [],
+      "absence_note": "The document references habitat connectivity as a concept and discusses it in the context of climate adaptation, but does not reference or apply any formal connectivity models (CircuitScape, Omniscape, least-cost path, etc.)."
+    }
+  },
+  "context": {
+    "management_scale": {
+      "local": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "While oil and gas, fishing, logging, and other economic activities can impact fish and wildlife and their habitats at local scales in Alaska, they are not the primary drivers of population loss for declining species in the state due to adequate existing regulations.",
+            "location": "Summary, Chapter 3",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "site": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "monitoring at development sites is a potential tool to ensure that existing regulations continue to promote sustained yield of SGCN, especially as these species may face threats that are cumulative.",
+            "location": "Summary, Chapter 3",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "watershed": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "ADF&G also maintains a program to secure instream flow reservations on waters identified as important to fish and wildlife to ensure adequate habitat. Both the Catalog of Anadromous Waters and the instream flow reservations program are essential aspects of anadromous waters conservation in the state.",
+            "location": "Management of Anadromous Waters, Chapter 8",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "city": {
+        "present": false,
+        "evidence": []
+      },
+      "county": {
+        "present": false,
+        "evidence": []
+      },
+      "within_state_region": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "There are six biogeographic regions for terrestrial species: Northern Alaska, Western Alaska, Central Alaska, Southwest Alaska, Southcentral Alaska, and Southeast Alaska.",
+            "location": "Distribution of Species of Greatest Conservation Need, Chapter 5",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "state": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Alaska's State Wildlife Action Plan is a conservation plan for those species that we have identified as species needing focus.",
+            "location": "Foreword",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "multistate": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "the 2025 SWAP identifies new opportunities to reduce steep declines of migratory species that breed in Alaska by fostering multistate or cross-border collaborations that target locations during the nonbreeding season, where adult survival is lowest.",
+            "location": "Major Improvements to the 2025 SWAP, Chapter 2",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "national": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "collaborative international conservation efforts will be needed to address, mitigate, or reverse cross-border declines.",
+            "location": "Threats and Conservation Actions, Chapter 2",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "transnational": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "For many SGCN, especially long-distance migratory birds, their biogeographic ranges include migration stopover sites and nonbreeding areas outside Alaska and the United States. Because these species occur only seasonally in Alaska, partnerships outside the state in nonbreeding areas where populations are more vulnerable may be important for implementing conservation actions",
+            "location": "Conservation Actions, Chapter 8",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Overall trends point to continued warming and a possible transition of the rich and unique ecosystems to novel states rather than a return to past conditions",
+            "location": "Chapter 4 / SGCN section",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecoregion": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "There are six biogeographic regions for terrestrial species: Northern Alaska, Western Alaska, Central Alaska, Southwest Alaska, Southcentral Alaska, and Southeast Alaska (Figure 5.1). For marine species, there are three regions: Beaufort/Chukchi Seas, Bering Sea, and Gulf of Alaska",
+            "location": "Distribution of Species of Greatest Conservation Need, Chapter 5",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "province": {
+        "present": false,
+        "evidence": []
+      },
+      "section": {
+        "present": false,
+        "evidence": []
+      },
+      "subsection": {
+        "present": false,
+        "evidence": []
+      },
+      "lake": {
+        "present": false,
+        "evidence": []
+      },
+      "river": {
+        "present": false,
+        "evidence": []
+      },
+      "district": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["Northern Alaska", "Western Alaska", "Central Alaska", "Southwest Alaska", "Southcentral Alaska", "Southeast Alaska", "Beaufort/Chukchi Seas", "Bering Sea", "Gulf of Alaska", "Yukon-Kuskokwim Delta", "Kenai Peninsula", "Prince William Sound", "Cook Inlet", "Pacific Flyway"]
+    },
+    "biological_unit_score": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Subarctic seabirds, fishes, and marine mammals are shifting northward into Arctic regions in response to increased water temperatures, changes in water mass distributions, decreased extent and duration of ice cover, and altered prey communities (Stafford et al. 2022).",
+          "location": "Chapter 4 / SGCN section",
+          "sub_component": null,
+          "citations": ["Stafford et al. 2022"]
+        },
+        {
+          "text": "In a long-term study in Denali National Park, passerine species shifted to higher elevations in response to advancing treeline (Mizel et al. 2016).",
+          "location": "Habitat Changes, Chapter 7",
+          "sub_component": null,
+          "citations": ["Mizel et al. 2016"]
+        }
+      ],
+      "absence_note": {}
+    },
+    "biological_unit_components": {
+      "species": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Subarctic seabirds, fishes, and marine mammals are shifting northward into Arctic regions in response to increased water temperatures",
+            "location": "Chapter 4 / SGCN section",
+            "sub_component": null,
+            "citations": ["Stafford et al. 2022"]
+          }
+        ]
+      },
+      "population": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Range shifts have already been documented in some species groups (Mizel et al. 2016, Tape et al. 2016, Baltensperger et al. 2024), and long-term monitoring of SGCN distribution and abundance will help prioritize species for conservation and management actions.",
+            "location": "Monitoring Plans for the Next 10 Years, Chapter 9",
+            "sub_component": null,
+            "citations": ["Mizel et al. 2016", "Tape et al. 2016", "Baltensperger et al. 2024"]
+          }
+        ]
+      },
+      "habitat": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "sea ice (diminishing with climate change and important for wildlife populations, including ice seal species, walrus, and polar bear). • Alpine and Arctic tundra (changing with evolving climate patterns).",
+            "location": "Habitat Priorities, Chapter 10",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Overall trends point to continued warming and a possible transition of the rich and unique ecosystems to novel states rather than a return to past conditions",
+            "location": "Chapter 4 / SGCN section",
+            "sub_component": null,
+            "citations": ["NOAA 2021", "Overland et al. 2024", "Renner et al. 2024"]
+          }
+        ]
+      },
+      "community": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "An observed shift from large-bodied, lipid-rich arctic zooplankton species to small-bodied, lipid-poor subarctic species (Mordy et al. 2022, Ershova et al. 2017) corresponds with the reduced energy content of zooplanktivorous fish",
+            "location": "Marine Systems, Chapter 7",
+            "sub_component": null,
+            "citations": ["Mordy et al. 2022", "Ershova et al. 2017"]
+          }
+        ]
+      },
+      "genotype_phenotype": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["Common Murre", "Spectacled Eider", "polar bear", "Pacific walrus", "Cook Inlet beluga", "Lesser Yellowlegs", "Lapland Longspur", "White-crowned Sparrow", "moose", "beaver", "spruce beetle", "forage fish", "snow crab", "zooplankton community", "sea ice habitat", "Arctic tundra", "boreal forest", "permafrost wetlands"]
+    },
+    "partnerships_and_funding": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "ADF&G's TED Program has fostered more than 140 SWG-based partnerships over the past 10 years, thanks to collaborations with other state programs, government agencies, species working groups, universities, NGOs, Alaska Native organizations and environmental contractors.",
+          "location": "Institutional Development, Chapter 8",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Alaska is required to have a SWAP to be eligible for funding through the State Wildlife Grants (SWG) program. The U.S. Congress created the SWG program in 2000 to provide critical funding to every state and territory to plan and implement proactive conservation actions",
+          "location": "Introduction, Chapter 1",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_threat_habitat_degradation": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "The frequency and intensity of wildfires have increased over the past few decades as a result of climate change and changing fire management strategies in Alaska.",
+          "location": "Fire and Fire Management, Chapter 7",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Permafrost thaw is increasing and is associated with thermokarst (ground slumps or cave-ins), lake drainage, and surface pooling, depending on the ice content of the ground and continuity of permafrost",
+          "location": "Snow, Permafrost, Sea Ice, and Glaciers, Chapter 7",
+          "sub_component": null,
+          "citations": ["Lara et al. 2016", "Nitze et al. 2020"]
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_threat_species_vital_rates": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Daily high temperatures exceeded normal temperatures by more than 20°F, resulting in uncharacteristically severe disturbances, such as the Swan Lake Fire on the Kenai Peninsula (Jandt and York 2021) and fish kills from thermal stress in multiple areas of the state including Norton Sound, Yukon River, Kuskokwim River",
+          "location": "Current Climate Trends, Chapter 7",
+          "sub_component": null,
+          "citations": ["Jandt and York 2021", "von Biela et al. 2022"]
+        },
+        {
+          "text": "Impacts at higher trophic levels included mass mortality, shifts in distribution, and colony-wide reproductive failures of Common Murres (Arimitsu et al. 2021, Piatt et al. 2020, Renner et al. 2024); mass mortality of fin and humpback whales",
+          "location": "Chapter 4 / SGCN section",
+          "sub_component": null,
+          "citations": ["Arimitsu et al. 2021", "Piatt et al. 2020", "Renner et al. 2024"]
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_threat_biotic_stressors": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "With temperature increases and climate-induced habitat alterations, Alaska is becoming more habitable for southern species that were previously limited by factors characteristic of cold environments in boreal and Arctic regions. This trend allows 'leading edge' species—historically rare or absent species (e.g., mule deer, mountain lions, or some marine fishes)—to expand their ranges into the state.",
+          "location": "Range Expansion, Pathogens, and Problematic Insects, Chapter 7",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "changes in the timing of spring leafout of vegetation or other historically reliable indicators can create a 'mismatch' for migratory bird flight timing and food availability. These changes can result in reduced adult, nest, and brood survival (Kwon et al. 2019).",
+          "location": "Mismatched Phenology and Food Webs, Chapter 7",
+          "sub_component": null,
+          "citations": ["Kwon et al. 2019"]
+        }
+      ],
+      "absence_note": {}
+    }
+  },
+  "actions": {
+    "priority_habitat_identification": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "A new landscape-level focus that provides the first-ever spatial information on SGCN distributions in Alaska. In Chapter 5, we provide statewide, multispecies heatmaps for terrestrial vertebrate and marine mammal SGCN to inform future research on the drivers of SGCN biodiversity.",
+          "location": "Major Improvements to the 2025 SWAP, Chapter 2",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "sea ice (diminishing with climate change and important for wildlife populations, including ice seal species, walrus, and polar bear). • Alpine and Arctic tundra (changing with evolving climate patterns). • Rivers, streams, and fjords dependent on ice-melt flow (influenced by climate variability). • Palustrine wetlands underlain by permafrost (shifting with climate change and productive for many breeding waterbirds).",
+          "location": "Habitat Priorities, Chapter 10",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "For species projected to lose habitat, there is a need to identify future habitats and hotspots of occurrence that could serve as climate change refugia and contribute to resiliency of SGCN.",
+          "location": "Habitat Monitoring, Chapter 9",
+          "sub_component": null,
+          "citations": ["Stralberg et al. 2020", "Raiho et al. 2022"]
+        }
+      ],
+      "absence_note": {}
+    },
+    "targeted_range_shift_actions": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "assisting species with low dispersal capabilities in colonizing newly available suitable habitats that develop as a result of climate change.",
+          "location": "Native Species, Chapter 8",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document mentions assisting dispersal-limited species to colonize new habitats due to climate change (direct manipulation framing), and references habitat connectivity as enabling species to track climate. These satisfy the threshold for score=1. No more detailed assisted migration or climate-corridor construction program is described."
+    },
+    "time_bound_and_monitoring": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "ADF&G will monitor the implementation and effectiveness of the current plan annually. Specific guidance for future revisions to the plan is provided in a 2017 joint memorandum from the U.S. Fish and Wildlife Service (USFWS) and the Association of Fish and Wildlife Agencies",
+          "location": "Part IV: Future Revision, Chapter 11",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "This plan describes the overall strategy for conserving SGCN and informs more detailed proposals that include specific projects, species, and conservation actions. We expect the highest priority conservation actions to be directed to the highest priority SGCN and threats.",
+          "location": "Priority Conservation and Management Actions, Chapter 10",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The plan has a 10-year planning horizon and mentions annual implementation monitoring, but does not attach specific deadlines or milestones to individual conservation actions in action tables. The plan repeatedly references the next revision due in 2035. Score 1 reflects the plan-level time horizon; score 2 is not warranted because effectiveness monitoring is not operationalized at the action level with specific deadlines."
+    },
+    "evidence_of_efficacy": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "USFWS has eradicated invasive species and restored over one million acres on nearly 50 islands in the Aleutians, including the removal of introduced fox populations from 45 islands. On two Aleutian islands (Nizki and Alaid) that were studied before and after fox removal, the numbers of 12 waterbird and seabird species increased from 5,000 prior to fox removal to 14,000 after removal was complete (Byrd et al. 1994).",
+          "location": "Invasive Species, Chapter 8",
+          "sub_component": null,
+          "citations": ["Byrd et al. 1994"]
+        },
+        {
+          "text": "SWG funds supported a project to remove invasive northern pike from Susitna River tributaries to ensure the survival of juvenile Chinook salmon... Without invasive northern pike suppression efforts, Chinook salmon would likely be extirpated from the Alexander Creek drainage (Bradley et al. 2022).",
+          "location": "Defining Success, Chapter 9",
+          "sub_component": null,
+          "citations": ["Bradley et al. 2022"]
+        }
+      ],
+      "absence_note": "The document presents several case studies with before-after evidence for invasive species removal, and cites specific studies supporting outcomes. However, direct evidence for climate-specific conservation actions (e.g., assisted migration, climate corridor effectiveness) is not provided. Score 2 (limited evidence) reflects that the cited case studies have partial applicability to the range-shift actions described.",
+      "projects": ["Fox removal from Nizki and Alaid islands (Aleutian Islands): Before-after comparison showed waterbird and seabird numbers tripled from 5,000 to 14,000 individuals following fox eradication, providing strong evidence for this invasive species management action.", "Northern pike suppression in Alexander Creek (Southcentral Alaska): SWG-funded pike removal from Susitna River tributaries demonstrated recovery of Chinook, coho, and sockeye salmon, with evidence that without suppression the salmon would be extirpated.", "Hawadax (Rat) Island rat eradication (2007-2009): Successful rat removal from a 7,100-acre Aleutian island led to documented ecosystem recovery, though some nontarget bird mortality occurred."]
+    },
+    "adaptation_planning_frameworks": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "AFWA recently provided voluntary guidance on integrating climate information and actions into SWAPs (AFWA 2022). We updated climate topics throughout the 2025 SWAP and will do so again in the future to ensure we include the best available information on climate and environmental change.",
+          "location": "Part IV: Future Revision, Chapter 11",
+          "sub_component": null,
+          "citations": ["AFWA 2022"]
+        },
+        {
+          "text": "Wildlife managers, therefore, need to adapt management strategies to account for the effects of a changing climate, combining past experience and knowledge with new information to assess or modify management strategies.",
+          "location": "Climate Change section, Chapter 7",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document references AFWA voluntary guidance for integrating climate adaptation into SWAPs (a specific framework) and discusses adaptive management principles in the climate change context. However, it does not name frameworks such as RAD, RRT, CCVA, or Structured Decision Making by name. Score 2 is warranted because the AFWA 2022 climate adaptation guidance is a specific named framework applied to the document's content."
+    }
+  },
+  "coding_meta": {
+    "coder": "llm:claude-sonnet-4-6",
+    "model": "claude-sonnet-4-6",
+    "provider": "claude",
+    "codebook_version": "0.4",
+    "ingest": "text",
+    "design": "single",
+    "temperature": null,
+    "thinking": null,
+    "thinking_effort": null,
+    "coded_at": "2026-07-06T18:39:19Z",
+    "notes": {}
+  }
+}

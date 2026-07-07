@@ -1,0 +1,795 @@
+{
+  "document_meta": {
+    "title": "Florida Forest Resource Strategy 2020",
+    "year": 2020,
+    "jurisdiction": "Florida",
+    "document_type": "State Forest Action Plan",
+    "document_id": "FL_FAP_2020",
+    "page_count": 172
+  },
+  "orientation": {
+    "summary": "This is a 2020 update to Florida's State Forest Resource Strategy (Forest Action Plan), produced by the Florida Forest Service. The document addresses seven strategic issues: wildfire/prescribed fire, forest fragmentation, forest health, forest resiliency, economic viability, water quality/quantity, and longleaf pine ecosystems. Climate change is acknowledged throughout as a significant stressor to forest ecosystems, with the most substantive treatment in Issue 4 (Forest Resiliency) and Issue 7 (Longleaf Pine Ecosystems), where IPCC projections are referenced and climate change impacts on species distributions, fire regimes, invasive species, and vital rates are discussed. The document does not perform original climate modeling or vulnerability assessments; it synthesizes existing literature and references external analyses (IPCC, USDA Forest Service, FWC SWAP). Range shift science appears primarily as a concern (shifting species distributions, migration of vegetation communities, and climate-driven invasive spread) but is not the document's primary focus, and no dedicated range-shift management actions or connectivity models are applied to focal subjects.",
+    "evidence_index": [
+      {
+        "text": "Changes in species composition may be expected as climate change drives shifts in the distribution of plant and animal species, potentially increasing the spread of invasive species and create forest edges for invasive exploitation due to fragmentation.",
+        "location": "Issue 2: Forest Fragmentation, 4) Threats",
+        "relevant_elements": ["1.1", "3.7", "C2"]
+      },
+      {
+        "text": "Tree species' ranges and vegetation community composition are projected to change significantly due to climate change. Additionally, unique ecosystems or forest types can be lost to development, overrun with invasive plant or pest communities, or damaged beyond repair during a natural disaster.",
+        "location": "Issue 4: Forest Resiliency, 4) Threats",
+        "relevant_elements": ["1.1", "C2", "3.5", "3.7"]
+      },
+      {
+        "text": "On the whole, climate change lurks as a force that will worsen all these forest resiliency issues. Additionally, climate change will affect the frequency of storms and wildfires, so the 'usual' patterns of forest response and behavior are likely to change over time.",
+        "location": "Issue 4: Forest Resiliency, 4) Threats",
+        "relevant_elements": ["1.1", "3.5", "3.6"]
+      },
+      {
+        "text": "The IPCC surmises that the burning of fossil fuels and land-use changes are the primary reasons for these increasing levels. This panel representing the scientific community predicts rising sea levels, loss of sea ice, and increased frequency of drought, heat waves, and heavy precipitation events over the next century.",
+        "location": "Issue 4: Forest Resiliency, 4) Threats",
+        "relevant_elements": ["1.1", "2.3"]
+      },
+      {
+        "text": "Species with small population sizes, restricted ranges, specialized habitat requirements and limited ability to move to different habitat will be most at risk.",
+        "location": "Issue 4: Forest Resiliency, 4) Threats - Wildlife Habitat",
+        "relevant_elements": ["1.2", "1.3"]
+      },
+      {
+        "text": "Because of the rapidity of expected changes in climate, individuals of a native plant species may be lost from their current habitats faster than they will be able to migrate and re-establish in more suitable locations.",
+        "location": "Issue 4: Forest Resiliency, 4) Threats - Invasive Species",
+        "relevant_elements": ["1.2", "1.3", "C2"]
+      },
+      {
+        "text": "Current seed zones and seed transfer guidelines that specify using relatively local seed sources for reforestation assume that climates are static over the long term. As ecosystem changes and other forest stressors occur, genetic variants that were once an optimal choice for a specific site may change.",
+        "location": "Issue 4: Forest Resiliency, 4) Threats - Silviculture",
+        "relevant_elements": ["1.3", "1.2"]
+      },
+      {
+        "text": "Moving seed sources to match future climates requires both knowledge of existing climates and knowledge of the climatic parameters under which particular species can thrive.",
+        "location": "Issue 4: Forest Resiliency, 4) Threats - Silviculture",
+        "relevant_elements": ["1.3", "4.2"]
+      },
+      {
+        "text": "Enhancing forest heterogeneity at the landscape scale with a variety of size classes and species will facilitate desirable species migration as climate change or ecosystem-wide changes occurs. This could include underplanting thinned stands with adapted species or genotypes when advanced regeneration is unacceptable for future conditions or deploying a mixture of seedlings including some provenances adapted to more stressful environments.",
+        "location": "Issue 4: Forest Resiliency, 5) Opportunities",
+        "relevant_elements": ["4.2", "1.3", "C2"]
+      },
+      {
+        "text": "Silvicultural practices can be applied and modified adaptively as disturbance regimes change over time.",
+        "location": "Issue 4: Forest Resiliency, 5) Opportunities",
+        "relevant_elements": ["4.5", "4.2"]
+      },
+      {
+        "text": "Strategy 1.2.1: Identify scenarios and models that can predict areas and vegetation communities that are most susceptible to loss or spatial displacement due to storms, invasive species, development and climate change. Strategy 1.2.2: Provide resources to actively manage these areas to facilitate forest conservation and migration",
+        "location": "Issue 4: Forest Resiliency, Goals, Objectives and Strategies",
+        "relevant_elements": ["4.1", "4.2", "2.2", "4.5"]
+      },
+      {
+        "text": "Objective 1.1: Develop or compile climate change models specifically for Florida. Strategy 1.1.1: Sponsor research to more accurately predict the impacts of climate change on Florida forests",
+        "location": "Issue 4: Forest Resiliency, Goals, Objectives and Strategies",
+        "relevant_elements": ["2.3", "4.5"]
+      },
+      {
+        "text": "Some research suggests that Longleaf Pine Ecosystems may be resilient to climate change (Costanza et al. 2015). Longleaf pines are relatively tolerant of climate-related stressors, such as drought (Samuelson et al. 2012), and wind damage",
+        "location": "Issue 7: Longleaf Pine Ecosystems, 3) Public Benefits",
+        "relevant_elements": ["1.1", "1.2", "1.3"]
+      },
+      {
+        "text": "A primary threat from climate change facing the longleaf pine ecosystem lies in the potential for it to disrupt the delicate balance between precipitation, temperature, and disturbance (fire, tropical storms and anthropogenic). Studies into climate-growth relationships find that high summer temperatures and low precipitation (drought), which are likely to occur more frequently due to climate change, negatively impact growth of longleaf pine",
+        "location": "Issue 7: Longleaf Pine Ecosystems, 4) Threats - Climate Change",
+        "relevant_elements": ["1.1", "3.5", "3.6"]
+      },
+      {
+        "text": "Range migration and changes to community composition, structure, function, and disturbance regimes will occur in response to shifting climatic variables, but the extent to which such changes will occur is less clear.",
+        "location": "Issue 7: Longleaf Pine Ecosystems, 4) Threats - Climate Change",
+        "relevant_elements": ["1.1", "C2", "3.7"]
+      },
+      {
+        "text": "Another unknown is the effect that population movement resulting from climate change impacts will have on longleaf pine communities. Given the implications for prescribed fire, the impact of shifting populations is likely to be significant",
+        "location": "Issue 7: Longleaf Pine Ecosystems, 4) Threats - Climate Change",
+        "relevant_elements": ["C2", "1.1"]
+      },
+      {
+        "text": "The threats posed by climate change may also impede natural regeneration, alter fire regimes, increase opportunities for invasive species establishment, and provide favorable conditions for the spread of pests and other pathogens in longleaf pine communities",
+        "location": "Issue 7: Longleaf Pine Ecosystems, 4) Threats - Climate Change",
+        "relevant_elements": ["3.5", "3.6", "3.7", "1.1"]
+      },
+      {
+        "text": "Promote and demonstrate range-wide and site-based conservation planning for LPE restoration to support ecosystem adaptation (resilience and resistance) and integrate the results with other climate change planning efforts.",
+        "location": "Issue 7: Longleaf Pine Ecosystems, Goals, Objectives and Strategies - Goal 7",
+        "relevant_elements": ["4.5", "4.1", "4.2"]
+      },
+      {
+        "text": "Goal 7: Seek better understanding of the likely effects of climate change on LPEs as well as the role LPE management and restoration could possibly play in mitigating or adapting to climate change.",
+        "location": "Issue 7: Longleaf Pine Ecosystems, Goals, Objectives and Strategies - Goal 7",
+        "relevant_elements": ["4.5", "1.1"]
+      },
+      {
+        "text": "Strategy 7.2.4: Promote and demonstrate range-wide and site-based conservation planning for LPE restoration to support ecosystem adaptation (resilience and resistance)",
+        "location": "Issue 7: Longleaf Pine Ecosystems, Goals, Objectives and Strategies - Goal 7",
+        "relevant_elements": ["4.5", "4.1"]
+      },
+      {
+        "text": "Fragmentation refers generally to the spatial patterns of forests as influenced by land use, disturbance, and other natural and anthropogenic drivers of forest change. This spatial process of forest patch creation and isolation across a landscape leads to secondary ecological problems of disrupted habitat connectivity, reduced capacity to support viable wildlife populations",
+        "location": "Issue 2: Forest Fragmentation, 1) Current Issue Description",
+        "relevant_elements": ["1.4", "3.5"]
+      },
+      {
+        "text": "Specific timber type components need to be available in large enough blocks and connected corridors to support varied wildlife species and water filtration benefits.",
+        "location": "Issue 2: Forest Fragmentation, 2) Key Attributes",
+        "relevant_elements": ["1.4"]
+      },
+      {
+        "text": "It is generally agreed that all public benefits can be maximized by economically efficient and effective management of larger blocks and corridors of forestland.",
+        "location": "Issue 2: Forest Fragmentation, 3) Public Benefits",
+        "relevant_elements": ["1.4"]
+      },
+      {
+        "text": "Incorporating green infrastructure principles when planning development will help to create linkages between forested areas and mitigate the impact of fragmentation.",
+        "location": "Issue 2: Forest Fragmentation, 5) Opportunities",
+        "relevant_elements": ["1.4", "4.1"]
+      },
+      {
+        "text": "Understanding where areas of existing contiguous forested cover (Figure 1, page 35) overlap with threats of development (Figure 2, page 36) can help set the stage for prioritization of efforts to increase connectivity and protect adequate forest block sizes.",
+        "location": "Issue 2: Forest Fragmentation, 7) Priority Areas",
+        "relevant_elements": ["4.1", "1.4", "2.4"]
+      },
+      {
+        "text": "Degraded or stressed forests are more vulnerable to storms, invasive species and environmental shifts caused by climate change.",
+        "location": "Issue 4: Forest Resiliency, 2) Key Attributes",
+        "relevant_elements": ["1.1", "3.5"]
+      },
+      {
+        "text": "Elevated temperatures associated with climate change, particularly when there are consecutive warm years, can speed up the reproductive cycles of damaging insects and reduce cold-induced mortality.",
+        "location": "Issue 4: Forest Resiliency, 4) Threats - Forest Pests",
+        "relevant_elements": ["3.6", "3.7", "1.1"]
+      },
+      {
+        "text": "Warming temperatures may result in reduced dry-season stream flows, greater moisture stress on vegetation, and increased stress on aquatic ecosystems.",
+        "location": "Issue 4: Forest Resiliency, 4) Threats",
+        "relevant_elements": ["3.5", "1.1"]
+      },
+      {
+        "text": "As the climate continues to change, invasive or aggressive native species may be able to outcompete other desirable species leading to a loss of biological diversity.",
+        "location": "Issue 4: Forest Resiliency, 4) Threats - Biological Diversity",
+        "relevant_elements": ["3.7", "1.1"]
+      },
+      {
+        "text": "Maintain increased fire readiness with adequate personnel and equipment to account for hotter and drier conditions.",
+        "location": "Issue 4: Forest Resiliency, Goals, Objectives and Strategies",
+        "relevant_elements": ["4.3", "3.5"]
+      },
+      {
+        "text": "Develop wildfire management strategies for areas with significant storm damage, forests with an abnormal abundance of ladder fuels and invasive species, new developments on the wildland urban interface and predicted climate change conditions.",
+        "location": "Issue 4: Forest Resiliency, Goals, Objectives and Strategies",
+        "relevant_elements": ["4.3", "4.1"]
+      },
+      {
+        "text": "Resource strategies should attempt to maintain and enhance resilient and connected forest ecosystems that will continue to provide public benefits in an ever-shifting series of regional circumstances.",
+        "location": "Issue 4: Forest Resiliency, 6) Agency and Organization Roles",
+        "relevant_elements": ["1.4", "4.2"]
+      },
+      {
+        "text": "Box et al. (1999) developed a climatic-envelope model to assess the potential effects of several climate change scenarios on the distribution of important tree species in Florida.",
+        "location": "Issue 7: Longleaf Pine Ecosystems, 2) Key Attributes",
+        "relevant_elements": ["2.2", "2.3"]
+      },
+      {
+        "text": "Strong partnerships are maintained with state and regional fire councils, state and federal fire and resource management agencies, and other natural resource conservation and management organizations to achieve cooperatively and across jurisdictional boundaries agency objectives for prescribed fire, management and restoration goals for LPE.",
+        "location": "Issue 7: Longleaf Pine Ecosystems, Goal 9",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "Fragile forest ecosystems most at risk for loss due to development, climate change, invasive species, storms, insects and diseases should be prioritized.",
+        "location": "Issue 4: Forest Resiliency, 7) Priority Areas",
+        "relevant_elements": ["4.1", "1.1"]
+      },
+      {
+        "text": "Forest ecosystems that include rare plants or provide habitat for threatened and endangered should also be a priority for receiving resources.",
+        "location": "Issue 4: Forest Resiliency, 7) Priority Areas",
+        "relevant_elements": ["4.1"]
+      },
+      {
+        "text": "How strongly different species will be affected differs, depending on differences in their ecology and life history.",
+        "location": "Issue 4: Forest Resiliency, 4) Threats - Wildlife Habitat",
+        "relevant_elements": ["1.3"]
+      },
+      {
+        "text": "Less obvious are the effects of long-term trends in temperature and precipitation, sea level, wildfire risk, and the frequency and intensity of hurricanes related to climate change, all of which have implications for forest health.",
+        "location": "Issue 3: Forest Health, 2) Key Attributes",
+        "relevant_elements": ["1.1", "3.5"]
+      },
+      {
+        "text": "For a mean temperature increase of 4 °F (predicted by the mid-21st century), annual area burned by wildfire is expected to increase by a factor of one and one half to five times the current annual average.",
+        "location": "Issue 4: Forest Resiliency, 4) Threats - Fire Management",
+        "relevant_elements": ["2.3", "3.5"]
+      },
+      {
+        "text": "Engage with partners conducting climate change research on the need to better understand the potential effects of climate change on plants, animals, and ecosystem functions in LPEs, especially with respect to southern range contraction and non-native invasive exotics.",
+        "location": "Issue 7: Longleaf Pine Ecosystems, Goals, Objectives and Strategies - Goal 7",
+        "relevant_elements": ["C2", "3.7", "4.5"]
+      },
+      {
+        "text": "Goal 4: Fragmentation of longleaf pine ecosystems (LPE) by linear facilities and development is being avoided on public lands. Existing fragmentation is being addressed through restoration and acquisition.",
+        "location": "Issue 2: Forest Fragmentation, 7) Priority Areas",
+        "relevant_elements": ["4.1", "1.4"]
+      },
+      {
+        "text": "The Goals, Objectives, and Strategies listed below and in the Performance Measures that follow include ongoing, short-term (2 -3 years) near-term (5 years), and long-term implementation timeframes.",
+        "location": "Issue 7: Longleaf Pine Ecosystems, 7) Priority Areas",
+        "relevant_elements": ["4.3"]
+      },
+      {
+        "text": "Florida's forests support over 80,000 jobs and generate $16.34 billion per year in economic activity (Martin et al. 2017).",
+        "location": "Issue 2: Forest Fragmentation, 3) Public Benefits",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "Funding for Conservation Programs is maintained or increased. Networks and partnerships offering forest management assistance to forest landowners are strengthened.",
+        "location": "Issue 2: Forest Fragmentation, 7) Priority Areas",
+        "relevant_elements": ["3.4"]
+      }
+    ]
+  },
+  "concepts": {
+    "climate_vulnerability": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Tree species' ranges and vegetation community composition are projected to change significantly due to climate change. Additionally, unique ecosystems or forest types can be lost to development, overrun with invasive plant or pest communities, or damaged beyond repair during a natural disaster.",
+          "location": "Issue 4: Forest Resiliency, 4) Threats",
+          "sub_component": "exposure",
+          "citations": []
+        },
+        {
+          "text": "Species with small population sizes, restricted ranges, specialized habitat requirements and limited ability to move to different habitat will be most at risk.",
+          "location": "Issue 4: Forest Resiliency, 4) Threats - Wildlife Habitat",
+          "sub_component": "adaptive capacity",
+          "citations": []
+        },
+        {
+          "text": "Degraded or stressed forests are more vulnerable to storms, invasive species and environmental shifts caused by climate change.",
+          "location": "Issue 4: Forest Resiliency, 2) Key Attributes",
+          "sub_component": "exposure",
+          "citations": []
+        }
+      ],
+      "absence_note": "The document references both climate exposure (projected temperature/precipitation changes, increased drought/fire/storms affecting species distributions and forest health) and adaptive capacity (species with limited movement ability, specialized habitat requirements), but does not use IPCC-framework vocabulary explicitly linking both axes in a single passage. The evidence for adaptive capacity is present but fragmented. Score 2 (exposure OR adaptive capacity) rather than 3 because no passage explicitly synthesizes both exposure and adaptive capacity together as a vulnerability framework. Close call for 3."
+    },
+    "adaptive_capacity_specificity": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Species with small population sizes, restricted ranges, specialized habitat requirements and limited ability to move to different habitat will be most at risk.",
+          "location": "Issue 4: Forest Resiliency, 4) Threats - Wildlife Habitat",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document references adaptive capacity informally (e.g., limited ability to move, restricted ranges, seed source adaptation), but does not use the technical term 'adaptive capacity' or systematically enumerate specific components. Score 1 (non-specific reference). Movement/dispersal and abiotic niche (thermal tolerance) are implicitly referenced, but not operationally decomposed as AC components in a structured way."
+    },
+    "adaptive_capacity_components": {
+      "demography": {
+        "present": false,
+        "evidence": []
+      },
+      "distribution": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Because of the rapidity of expected changes in climate, individuals of a native plant species may be lost from their current habitats faster than they will be able to migrate and re-establish in more suitable locations.",
+            "location": "Issue 4: Forest Resiliency, 4) Threats - Invasive Species",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "movement": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Species with small population sizes, restricted ranges, specialized habitat requirements and limited ability to move to different habitat will be most at risk.",
+            "location": "Issue 4: Forest Resiliency, 4) Threats - Wildlife Habitat",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "evolutionary_potential": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Current seed zones and seed transfer guidelines that specify using relatively local seed sources for reforestation assume that climates are static over the long term. As ecosystem changes and other forest stressors occur, genetic variants that were once an optimal choice for a specific site may change.",
+            "location": "Issue 4: Forest Resiliency, 4) Threats - Silviculture",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecological_dependencies": {
+        "present": false,
+        "evidence": []
+      },
+      "abiotic_niche": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Moving seed sources to match future climates requires both knowledge of existing climates and knowledge of the climatic parameters under which particular species can thrive.",
+            "location": "Issue 4: Forest Resiliency, 4) Threats - Silviculture",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "life_history": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "How strongly different species will be affected differs, depending on differences in their ecology and life history.",
+            "location": "Issue 4: Forest Resiliency, 4) Threats - Wildlife Habitat",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      }
+    },
+    "connectivity": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Fragmentation refers generally to the spatial patterns of forests as influenced by land use, disturbance, and other natural and anthropogenic drivers of forest change. This spatial process of forest patch creation and isolation across a landscape leads to secondary ecological problems of disrupted habitat connectivity, reduced capacity to support viable wildlife populations",
+          "location": "Issue 2: Forest Fragmentation, 1) Current Issue Description",
+          "sub_component": null,
+          "citations": ["Hatcher et al. 2013", "Guo et al. 2018", "Riitters and Coulston 2013 in Potter et al. 2013"]
+        },
+        {
+          "text": "Specific timber type components need to be available in large enough blocks and connected corridors to support varied wildlife species and water filtration benefits.",
+          "location": "Issue 2: Forest Fragmentation, 2) Key Attributes",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "Connectivity is discussed extensively in the context of forest fragmentation, wildlife habitat, and longleaf pine ecosystem management. However, the document does not explicitly frame connectivity as supporting climate-driven range shifts. The closest passages discuss corridors for wildlife habitat and avoiding fragmentation, but not specifically for climate tracking. Score 1 (generic connectivity without climate-framing). Some passages about facilitating species 'migration' as climate changes exist but remain vague about spatial connectivity as a mechanism."
+    }
+  },
+  "tools": {
+    "vulnerability_models": {
+      "evaluable": true,
+      "score": 0,
+      "named_tools": [],
+      "evidence": [],
+      "absence_note": "No vulnerability models (CCVI, PVA, or similar frameworks) are referenced in the document. The document discusses climate vulnerability in qualitative terms only."
+    },
+    "niche_models": {
+      "evaluable": true,
+      "score": 1,
+      "named_tools": ["climatic-envelope model"],
+      "evidence": [
+        {
+          "text": "Box et al. (1999) developed a climatic-envelope model to assess the potential effects of several climate change scenarios on the distribution of important tree species in Florida.",
+          "location": "Issue 7: Longleaf Pine Ecosystems, 2) Key Attributes",
+          "sub_component": null,
+          "citations": ["Box et al. (1999)"]
+        }
+      ],
+      "absence_note": "A climatic-envelope model is cited (Box et al. 1999) as a historical reference to estimate longleaf pine extent, but it is not applied as current management analysis for the document's focal species. Strategy 1.2.1 also calls for developing 'scenarios and models that can predict areas and vegetation communities most susceptible to loss or spatial displacement,' but this is a future recommendation rather than an application. Score 1 (referenced, not applied to the document's subject)."
+    },
+    "climate_models": {
+      "evaluable": true,
+      "score": 1,
+      "named_tools": ["IPCC"],
+      "evidence": [
+        {
+          "text": "The IPCC surmises that the burning of fossil fuels and land-use changes are the primary reasons for these increasing levels. This panel representing the scientific community predicts rising sea levels, loss of sea ice, and increased frequency of drought, heat waves, and heavy precipitation events over the next century.",
+          "location": "Issue 4: Forest Resiliency, 4) Threats",
+          "sub_component": null,
+          "citations": ["IPCC, 2007: Summary for Policymakers. In: Climate Change 2007: The Physical Science Basis. Contribution of Working Group I to the Fourth Assessment Report of the Intergovernmental Panel on Climate Change"]
+        }
+      ],
+      "absence_note": "The IPCC AR4 is cited as a source of climate projections, and there are references to temperature increases (e.g., 4°F by mid-21st century) cited from McKenzie et al. 2004. Strategy 1.1.1 calls for developing or compiling climate change models for Florida, suggesting none are currently applied. Score 1 (referenced generally, not applied to the document's focal subjects in a modeling sense). No specific GCM, RCP, SSP, or downscaling product is named.",
+      "time_horizon_years": [2060, 2070],
+      "emission_scenarios": []
+    },
+    "connectivity_models": {
+      "evaluable": true,
+      "score": 0,
+      "named_tools": [],
+      "evidence": [],
+      "absence_note": "No connectivity modeling tools (CircuitScape, least-cost path, etc.) are referenced. Priority area figures reference data from the Southern Forest Land Assessment and Critical Lands and Waters Identification Project, but these are not connectivity models in the codebook sense."
+    }
+  },
+  "context": {
+    "management_scale": {
+      "local": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "While restoration occurs at a local level (site-specific), it must be planned and implemented within the context of achieving large-scale ecosystem goals and objectives, such as biodiversity, population viability and ecosystem services",
+            "location": "Issue 7: Longleaf Pine Ecosystems, 5) Opportunities",
+            "sub_component": null,
+            "citations": ["RWCP 2009"]
+          }
+        ]
+      },
+      "site": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "While restoration occurs at a local level (site-specific), it must be planned and implemented within the context of achieving large-scale ecosystem goals and objectives",
+            "location": "Issue 7: Longleaf Pine Ecosystems, 5) Opportunities",
+            "sub_component": null,
+            "citations": ["RWCP 2009"]
+          }
+        ]
+      },
+      "watershed": {
+        "present": false,
+        "evidence": []
+      },
+      "city": {
+        "present": false,
+        "evidence": []
+      },
+      "county": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The largest concentrations of longleaf pine forests within the range are in Okaloosa (175,479 ac.) and Santa Rosa (147,575 ac.) Counties",
+            "location": "Issue 7: Longleaf Pine Ecosystems, 5) Opportunities",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "within_state_region": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "For the Issue 5 -Economic Viability of Forests in Florida, the priority areas correspond to FIA Unit 1 (Northeast), and FIA Unit 2 (Northwest). These two areas encompass 78% of working forests in Florida",
+            "location": "Issue 5: Economic Viability of Forests, 7) Priority Areas",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "state": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "These strategies take into account multi-state or regional priorities and consider collaborative actions across geographical and ownership boundaries, especially with adjacent states.",
+            "location": "I. Introduction",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "multistate": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "These strategies take into account multi-state or regional priorities and consider collaborative actions across geographical and ownership boundaries, especially with adjacent states. These issues include forest fragmentation, forest markets, longleaf pine habitat, invasive species, and water quality.",
+            "location": "I. Introduction",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "national": {
+        "present": false,
+        "evidence": []
+      },
+      "transnational": {
+        "present": false,
+        "evidence": []
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Promote and demonstrate range-wide and site-based conservation planning for LPE restoration to support ecosystem adaptation (resilience and resistance) and integrate the results with other climate change planning efforts.",
+            "location": "Issue 7: Longleaf Pine Ecosystems, Goals, Objectives and Strategies - Goal 7",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecoregion": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Two of the six longleaf pine vegetation ecoregions described by Peet (2006)",
+            "location": "Issue 7: Longleaf Pine Ecosystems, 5) Opportunities",
+            "sub_component": null,
+            "citations": ["Peet (2006)"]
+          }
+        ]
+      },
+      "province": {
+        "present": false,
+        "evidence": []
+      },
+      "section": {
+        "present": false,
+        "evidence": []
+      },
+      "subsection": {
+        "present": false,
+        "evidence": []
+      },
+      "lake": {
+        "present": false,
+        "evidence": []
+      },
+      "river": {
+        "present": false,
+        "evidence": []
+      },
+      "district": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The five remaining regional Water Management Districts protect and manage land through acquisition or easements for the purpose of protecting water quality and quantity.",
+            "location": "Issue 7: Longleaf Pine Ecosystems, 2) Key Attributes - Public Lands",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "named_entities": ["Okaloosa County", "Santa Rosa County", "FIA Unit 1 (Northeast)", "FIA Unit 2 (Northwest)", "Gulf Coastal Plain", "Southeastern Coastal Plain", "Apalachicola National Forest", "Ocala National Forest", "Osceola National Forest", "Eglin Air Force Base/Blackwater River State Forest"]
+    },
+    "biological_unit_score": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Range migration and changes to community composition, structure, function, and disturbance regimes will occur in response to shifting climatic variables",
+          "location": "Issue 7: Longleaf Pine Ecosystems, 4) Threats - Climate Change",
+          "sub_component": "community",
+          "citations": []
+        },
+        {
+          "text": "Tree species' ranges and vegetation community composition are projected to change significantly due to climate change.",
+          "location": "Issue 4: Forest Resiliency, 4) Threats",
+          "sub_component": "species",
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "biological_unit_components": {
+      "species": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Tree species' ranges and vegetation community composition are projected to change significantly due to climate change.",
+            "location": "Issue 4: Forest Resiliency, 4) Threats",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "population": {
+        "present": false,
+        "evidence": []
+      },
+      "habitat": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Range migration and changes to community composition, structure, function, and disturbance regimes will occur in response to shifting climatic variables",
+            "location": "Issue 7: Longleaf Pine Ecosystems, 4) Threats - Climate Change",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Climate change can affect organisms and their habitats on an individual, species, population, community, and ecosystem level.",
+            "location": "Issue 4: Forest Resiliency, 4) Threats - Wildlife Habitat",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "community": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Range migration and changes to community composition, structure, function, and disturbance regimes will occur in response to shifting climatic variables, but the extent to which such changes will occur is less clear.",
+            "location": "Issue 7: Longleaf Pine Ecosystems, 4) Threats - Climate Change",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "genotype_phenotype": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "As ecosystem changes and other forest stressors occur, genetic variants that were once an optimal choice for a specific site may change.",
+            "location": "Issue 4: Forest Resiliency, 4) Threats - Silviculture",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "named_entities": ["longleaf pine (Pinus palustris)", "slash pine", "loblolly pine", "cogongrass (Imperata cylindrica)", "red-cockaded woodpecker", "gopher tortoise", "redbay (Persea palustris)", "cabbage palm (Sabal palmetto)", "Longleaf Pine Ecosystem", "sandhill ecosystems", "pine flatwoods"]
+    },
+    "partnerships_and_funding": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Strong partnerships are maintained with state and regional fire councils, state and federal fire and resource management agencies, and other natural resource conservation and management organizations to achieve cooperatively and across jurisdictional boundaries agency objectives for prescribed fire, management and restoration goals for LPE.",
+          "location": "Issue 7: Longleaf Pine Ecosystems, Goal 9",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document describes partnerships extensively (multi-agency coordination, university partnerships, NGO involvement, federal-state programs like Forest Legacy, NRCS, FWC). However, these partnerships are described at a general or aspirational level for forest management broadly and are not specifically dedicated to range-shift management. Funding is discussed mostly as aspirational ('adequate funding is available to implement...') or as ongoing programs (Forest Legacy, NRCS cost-share). Score 1 (some funding and partnerships described, but limited and aspirational for range-shift work specifically)."
+    },
+    "climate_threat_habitat_degradation": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "A primary threat from climate change facing the longleaf pine ecosystem lies in the potential for it to disrupt the delicate balance between precipitation, temperature, and disturbance (fire, tropical storms and anthropogenic).",
+          "location": "Issue 7: Longleaf Pine Ecosystems, 4) Threats - Climate Change",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_threat_species_vital_rates": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Elevated temperatures associated with climate change, particularly when there are consecutive warm years, can speed up the reproductive cycles of damaging insects and reduce cold-induced mortality.",
+          "location": "Issue 4: Forest Resiliency, 4) Threats - Forest Pests",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document references direct climate-driven effects on species vital rates, particularly bark beetle reproductive cycles accelerated by warming (affecting tree mortality indirectly) and climate-growth relationships for longleaf pine under drought. The passage about bark beetles speeding reproductive cycles qualifies as a direct vital-rate effect (reproduction). Also the longleaf pine climate-growth studies reference drought negatively impacting growth. Score 1."
+    },
+    "climate_threat_biotic_stressors": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "As the climate continues to change, invasive or aggressive native species may be able to outcompete other desirable species leading to a loss of biological diversity.",
+          "location": "Issue 4: Forest Resiliency, 4) Threats - Biological Diversity",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    }
+  },
+  "actions": {
+    "priority_habitat_identification": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Understanding where areas of existing contiguous forested cover (Figure 1, page 35) overlap with threats of development (Figure 2, page 36) can help set the stage for prioritization of efforts to increase connectivity and protect adequate forest block sizes. Additionally, critical land (habitat) (Figure 3, page 37) further refines the prioritization process.",
+          "location": "Issue 2: Forest Fragmentation, 7) Priority Areas",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Fragile forest ecosystems most at risk for loss due to development, climate change, invasive species, storms, insects and diseases should be prioritized.",
+          "location": "Issue 4: Forest Resiliency, 7) Priority Areas",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "The map in Figure 5, Page 139 was created using data from the Range-wide Conservation Plan for Longleaf Pine, the Landowner Survey Focus Areas map provided by FWC, and managed areas mapped by the Florida Natural Areas Inventory.",
+          "location": "Issue 7: Longleaf Pine Ecosystems, 7) Priority Areas",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "Priority habitat identification with spatial representation (maps, figures showing priority areas, priority forest blocks overlaid with development threat layers) is present throughout the document, particularly in Issue 2, Issue 4, and Issue 7. The document explicitly uses spatial prioritization maps (Figures 1-5 in Issue 2, Figure 5 for longleaf pine priority areas) linked to climate change threats. Score 2."
+    },
+    "targeted_range_shift_actions": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Enhancing forest heterogeneity at the landscape scale with a variety of size classes and species will facilitate desirable species migration as climate change or ecosystem-wide changes occurs. This could include underplanting thinned stands with adapted species or genotypes when advanced regeneration is unacceptable for future conditions or deploying a mixture of seedlings including some provenances adapted to more stressful environments.",
+          "location": "Issue 4: Forest Resiliency, 5) Opportunities",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document proposes actions to facilitate species migration in response to climate change: deploying seedling provenances adapted to more stressful environments (a form of assisted gene flow/seed transfer), and active seed zone transfer strategies. Strategy 1.2.2 also calls to 'Provide resources to actively manage these areas to facilitate forest conservation and migration.' These qualify as structural facilitation and direct manipulation to manage climate-driven distribution changes. Score 1."
+    },
+    "time_bound_and_monitoring": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "The Goals, Objectives, and Strategies listed below and in the Performance Measures that follow include ongoing, short-term (2 -3 years) near-term (5 years), and long-term implementation timeframes.",
+          "location": "Issue 7: Longleaf Pine Ecosystems, 7) Priority Areas",
+          "sub_component": "deadlines",
+          "citations": []
+        },
+        {
+          "text": "Objective 2.1: Accomplish fire-return intervals in LPE burn units on public lands in Florida that range from 1 to 5 years (depending on the ecosystem type) within the next 10 years.",
+          "location": "Issue 7: Longleaf Pine Ecosystems, Goals, Objectives and Strategies - Goal 2",
+          "sub_component": "deadlines",
+          "citations": []
+        },
+        {
+          "text": "Research on the relationship between climate change and restoration and management of LPE is being conducted and supported by CFEOR, SERRPAS and USFS SRS, based on input from partners in public and private land management of LPE. Research includes potential effects on LPE species, ecosystem functions, carbon sequestration, and prescribed burning.",
+          "location": "Issue 7: Longleaf Pine Ecosystems, Goal 7 - Performance Measures",
+          "sub_component": "monitoring",
+          "citations": []
+        }
+      ],
+      "absence_note": "The document includes time-bound action tables with short-term (2-3 years), near-term (5 years), and long-term timeframes attached to specific objectives (e.g., 'within the next 10 years,' 'by 2030,' 'within the next 5 years'). Performance measures are specified per goal. Monitoring is also discussed for several objectives (annual prescribed burn data collection, surveys, geodatabase updates). Score 2."
+    },
+    "evidence_of_efficacy": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Some research suggests that Longleaf Pine Ecosystems may be resilient to climate change (Costanza et al. 2015). Longleaf pines are relatively tolerant of climate-related stressors, such as drought (Samuelson et al. 2012), and wind damage",
+          "location": "Issue 7: Longleaf Pine Ecosystems, 3) Public Benefits",
+          "sub_component": null,
+          "citations": ["Costanza et al. 2015", "Samuelson et al. 2012"]
+        },
+        {
+          "text": "A significant amount of research and land management experience over the last several decades have provided important information on the effectiveness of longleaf pine restoration and land management practices that can be used to guide on-the-ground restoration efforts going forward.",
+          "location": "Issue 7: Longleaf Pine Ecosystems, 5) Opportunities",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document cites several studies relevant to action efficacy (drought tolerance of longleaf pine, restoration effectiveness), but these are studies of basic ecological properties rather than direct evaluations of management action outcomes under climate change. The evidence is 'limited' per codebook definitions: references to studies that test basic principles but do not directly test outcomes of the specific management actions proposed. Score 2.",
+      "projects": ["Longleaf Pine Ecosystem restoration programs (1991-2020): Florida Forest Service planted 91,344 acres of longleaf pine. This provides evidence that reforestation programs are operational and achievable at scale, though evidence of climate-specific efficacy is limited.", "Box et al. (1999) climatic-envelope model: Referenced as evidence that climate-driven distribution changes for tree species in Florida can be modeled; provides limited evidence of tool applicability but does not directly test management action efficacy.", "Costanza et al. (2015) and Samuelson et al. (2012): Studies suggesting longleaf pine resilience to drought and climate-related stressors, providing limited evidence supporting the management strategy of restoring longleaf pine ecosystems as a climate adaptation action."]
+    },
+    "adaptation_planning_frameworks": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Promote and demonstrate range-wide and site-based conservation planning for LPE restoration to support ecosystem adaptation (resilience and resistance) and integrate the results with other climate change planning efforts.",
+          "location": "Issue 7: Longleaf Pine Ecosystems, Goals, Objectives and Strategies - Goal 7",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Silvicultural practices can be applied and modified adaptively as disturbance regimes change over time.",
+          "location": "Issue 4: Forest Resiliency, 5) Opportunities",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document references 'resilience and resistance' framing (akin to Resist-Accept-Direct) in Goal 7 for longleaf pine climate adaptation, and discusses adaptive silvicultural management in a climate context. Strategy 1.2.1 also refers to identifying scenarios and models for susceptible areas, suggesting scenario-based planning. The resilience/resistance framing is a named conceptual framework. Score 2 (specific framework referenced). However, no formal framework names (RAD, RRT, SDM, CCVA) are used explicitly — the resilience-and-resistance language is the strongest specific indicator."
+    }
+  },
+  "coding_meta": {
+    "coder": "llm:claude-sonnet-4-6",
+    "model": "claude-sonnet-4-6",
+    "provider": "claude",
+    "codebook_version": "0.4",
+    "ingest": "text",
+    "design": "single",
+    "temperature": null,
+    "thinking": null,
+    "thinking_effort": null,
+    "coded_at": "2026-07-07T00:31:30Z",
+    "notes": {}
+  }
+}

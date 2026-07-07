@@ -1,0 +1,645 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">OREGON DEPARTMENT OF FISH &amp; WILDLIFE OVERVIEW 2026 State Wildlife Action Plan</title>
+				<funder>
+					<orgName type="full">Estuaries Key Habitat, and in the Nearshore Key Habitat pages</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">Nearshore ecoregion</orgName>
+				</funder>
+				<funder ref="#_ZdVJhNw">
+					<orgName type="full">Nature Conservancy</orgName>
+				</funder>
+				<funder ref="#_rBnWbJV">
+					<orgName type="full">Northwest Climate Adaptation Science Center OAR: Oregon Administrative Rules ODA: Oregon Department of Agriculture ODF: Oregon Department of Forestry ODFW: Oregon Department of Fish and Wildlife ODOE: Oregon Department of Energy ODOT: Oregon Department of Transportation OGWC: Oregon Global Warming Commission OHA: Oregon Health Authority OISC: Oregon Invasive Species Council OPAC: Ocean Policy Advisory Council OPRD: Oregon Parks and Recreation Department ORBIC: Oregon Biodiversity Information Center ORS: Oregon Revised Statutes OSMB</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Lindsey</forename><surname>Thurman</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Carolyn</forename><surname>Eckrich</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Emily</forename><surname>Vanwyk</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Bernadette</forename><forename type="middle">Graham</forename><surname>Hudson</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Justin</forename><surname>Ainsworth</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Greg</forename><surname>Kruztzikowsky</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Jessica</forename><surname>Watson</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Michele</forename><surname>Weaver</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Joy</forename><surname>Lovett</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Janelle</forename><surname>St</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Davia</forename><surname>Pierre</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Adam</forename><surname>Palmeri</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Eszter</forename><surname>Baylor</surname></persName>
+						</author>
+						<author>
+							<persName><surname>Collier</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Rachel</forename><surname>Wheat</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Marianne</forename><surname>Ross</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Anne</forename><forename type="middle">Mary</forename><surname>Myers</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Martin</forename><surname>Nugent</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Keith</forename><surname>Dehart</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Susan</forename><surname>Barnes</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Kalysta</forename><surname>Adkins</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Jade</forename><surname>Keehn</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Julia</forename><surname>Burco</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Colin</forename><surname>Gillin</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Brandon</forename><surname>Reishus</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Mikal</forename><surname>Cline</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Don</forename><surname>Whittaker</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Karen</forename><surname>Hans</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Nancy</forename><surname>Taylor</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Spencer</forename><surname>Sawaske</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Tom</forename><surname>Segal</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Lindsay</forename><surname>Somers</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Kathryn</forename><surname>Salter</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Hilary</forename><surname>Doulos</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Amy</forename><surname>Darr</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Danette</forename><surname>Faucera</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Jeremy</forename><surname>Thompson</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Becky</forename><surname>Anthony</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Anne</forename><surname>Hayden-Lesmeister</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Greg</forename><surname>Jackle</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Justine</forename><surname>Brumm</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Rod</forename><surname>Krahmer</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Pete</forename><surname>Markos</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Owen</forename><surname>Cass</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Beth</forename><surname>Quillian</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Robert</forename><surname>Swingle</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Aubree</forename><surname>Perrenoud</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Greg</forename><surname>Apke</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Leif</forename><surname>Rasmuson</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Steve</forename><surname>Rumrill</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Scott</forename><surname>Groth</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Maria</forename><surname>Zapetis</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Sarah</forename><surname>Klain</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Mike</forename><surname>Brown</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Bryan</forename><surname>Wright</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Howard</forename><surname>Takata</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Troy</forename><surname>Buell</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Jamie</forename><surname>Anthony</surname></persName>
+						</author>
+						<author>
+							<affiliation key="aff0">
+								<orgName type="department">Northwest Climate Adaptation Science Center</orgName>
+								<orgName type="institution" key="instit1">Megan Jones</orgName>
+								<orgName type="institution" key="instit2">Oregon State University</orgName>
+								<address>
+									<addrLine>Danielle Marshall</addrLine>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff1">
+								<orgName type="department" key="dep1">Oregon Department of Agriculture</orgName>
+								<orgName type="department" key="dep2">Northwest Climate Adaptation Science Center</orgName>
+								<orgName type="department" key="dep3">Oregon Department of Agriculture</orgName>
+								<orgName type="department" key="dep4">Oregon Department of Energy</orgName>
+								<orgName type="department" key="dep5">Oregon Department of Land Conservation and Development</orgName>
+								<orgName type="department" key="dep6">Oregon Department of State Lands</orgName>
+								<orgName type="laboratory">Northwest Bat Hub</orgName>
+								<orgName type="institution" key="instit1">Oregon Biodiversity Information Center</orgName>
+								<orgName type="institution" key="instit2">Oregon Forest Industries Council</orgName>
+								<orgName type="institution" key="instit3">Oregon Hunters Association</orgName>
+								<orgName type="institution" key="instit4">Oregon Kelp Alliance</orgName>
+								<address>
+									<settlement>Oregon Metro</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff2">
+								<orgName type="department">Oregon Parks and Recreation Department</orgName>
+								<orgName type="institution" key="instit1">Oregon Natural Desert Association</orgName>
+								<orgName type="institution" key="instit2">Oregon State University</orgName>
+								<address>
+									<addrLine>Oregon Wild</addrLine>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff3">
+								<orgName type="department" key="dep1">Pacific Birds Habitat Joint Venture</orgName>
+								<orgName type="department" key="dep2">People of Color Outdoors</orgName>
+								<orgName type="department" key="dep3">Pew Charitable Trust</orgName>
+								<orgName type="institution" key="instit1">Oregon Wild Sheep Foundation</orgName>
+								<orgName type="institution" key="instit2">Oregon Wildlife Coalition</orgName>
+								<orgName type="institution" key="instit3">Portland State University</orgName>
+								<address>
+									<addrLine>South Santiam Watershed Council</addrLine>
+									<settlement>Salem Audubon Society</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff4">
+								<orgName type="department">The Xerces Society for Invertebrate Conservation</orgName>
+								<orgName type="institution" key="instit1">South Umpqua Rural Community Partnership</orgName>
+								<orgName type="institution" key="instit2">The Habitat Institute</orgName>
+								<orgName type="institution" key="instit3">The Klamath Tribes</orgName>
+								<orgName type="institution" key="instit4">The Nature Conservancy</orgName>
+								<address>
+									<addrLine>Think Wild</addrLine>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff5">
+								<orgName type="department" key="dep1">U.S. Fish and Wildlife Service</orgName>
+								<orgName type="department" key="dep2">WaterWatch of Oregon</orgName>
+								<orgName type="institution" key="instit1">U.S. Forest Service</orgName>
+								<orgName type="institution" key="instit2">U.S. Geological Survey</orgName>
+								<orgName type="institution" key="instit3">Urban Greenspaces Institute</orgName>
+								<orgName type="institution" key="instit4">Washington State University</orgName>
+							</affiliation>
+						</author>
+						<title level="a" type="main">OREGON DEPARTMENT OF FISH &amp; WILDLIFE OVERVIEW 2026 State Wildlife Action Plan</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">4224CF34C3177C0268B4FE9F0952812E</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.1" ident="GROBID" when="2026-07-06T15:30+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract/>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>OVERVIEW</head><p>The Oregon State Wildlife Action Plan is a blueprint for conservation in Oregon.</p><p>The Oregon State Wildlife Action Plan (SWAP) is an overarching state plan for conserving fish and wildlife. It provides a shared set of priorities for addressing Oregon's conservation needs. The SWAP brings together the best available scientific information, and presents a menu of recommended voluntary actions and tools for all Oregonians to define their own conservation role.</p><p>The goals of the SWAP are to maintain healthy fish and wildlife populations, prevent declines of at-risk species, and reverse declines in these resources where possible.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>SWAP COMPONENTS</head><p>• Key Conservation Issues are landscape/seascape-scale threats that impact species and habitats throughout the entire state.</p><p>• Ecoregions are delineated areas of the state with similar climate and vegetation. General characteristics, limiting factors, and recommended conservation actions are described for each of the nine ecoregions in Oregon.</p><p>• Conservation Opportunity Areas are places where broad fish and wildlife conservation goals would best be met. They help focus conservation efforts and financial investments in specific areas to increase the likelihood of long-term success over larger scales.</p><p>• Key Habitats are native habitats of conservation concern that are essential to many Species of Greatest Conservation Need within the state. A conservation overview and lists of limiting factors, recommended conservation actions, and available resources are provided for each of the 12 Key Habitats.</p><p>• Species of Greatest Conservation Need (SGCN) are species that at-risk due to factors describing their rarity, population trends, and threats. SGCN include wildlife, fish, invertebrates, plants, and algae. Information about special needs, limiting factors, data gaps, conservation actions, and available resources is provided for each of the SGCN.</p><p>• Monitoring includes strategies and guidance for monitoring and data management, as well as resources for community science, to benefit SGCN and Key Habitats statewide.</p><p>• Conservation Toolbox provides information and resources for all Oregonians on how to engage in conservation action as individuals. The Toolbox also identifies goals for agencies and other organizations to use outreach and education to support and encourage individual Oregonians to take conservation action.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Scope of the 2026 Update</head><p>New science, tools, resources, and data were used to update all sections of the SWAP during the 10-year comprehensive revision. Particular focus was paid to priority sections of the SWAP that were identified by external partners, the public, and Oregon Department of Fish and Wildlife (ODFW) programs. These focal areas consisted of: Species of Greatest Conservation Need, Key Habitats, Key Conservation Issues, the Conservation Toolbox, and Conservation Opportunity Areas. Key updates include:</p><p>• The Species of Greatest Conservation Need list was updated using current science and research, including a full assessment of the status of all sensitive, at-risk, or declining species or other species of concern.</p><p>• Key Habitat mapping was greatly improved using new technologies, and information for each habitat was updated. The five habitat types in the Nearshore ecoregion are now presented collectively as Nearshore Habitats.</p><p>• Key Conservation Issues (KCIs) were revised with updated information. A new KCI, Pollution, was added to reflect its growing impact on ecosystems.</p><p>• Conservation Opportunity Areas were updated and refined using current data on SGCN, Key Habitats, and Key Conservation Issues.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Integration Of The Oregon Nearshore Strategy</head><p>Oregon's 2026 SWAP includes both inland and nearshore habitats and species within a single State Wildlife Action Plan. In the 2006 and 2016 iterations, the ODFW developed a discrete section of the SWAP to address nearshore resource issues -the Oregon Nearshore Strategy (ONS). For this second 10-year revision, ODFW adopted an integrated and comprehensive approach to bring together all land and seascape components. The collaborative process has strengthened the SWAP and provided the opportunity for participants with diverse backgrounds to build relationships while sharing their respective visions, values, and concerns for all of Oregon's ecoregions. Cooperation between ODFW and its partners and the public is essential to the vision guiding the SWAP for the nearshore:</p><p>Oregon's nearshore marine resources are thriving in a healthy, functioning ecosystem due to cooperative efforts and support by current and future generations of Oregonians.</p><p>ODFW's Marine Resources Program has undertaken the effort to revise nearshore components, working collaboratively and in complement with ODFW's SWAP team, to identify a collective set of voluntary conservation actions and policy priorities that can guide strategic investment of time and funding in a manner consistent with public interest.</p><p>The SWAP is intended to facilitate action on priority nearshore issues and areas that are not specifically addressed by existing processes. The SWAP highlights issues that transcend the authority of a single management entity or existing regulatory authority. It suggests how to augment the conservation and sustainability of nearshore resources, so that when opportunity arises, collaborations can quickly mobilize to implement these broad strategies.</p><p>Additionally, shared language will support partners working on conservation that crosses state boundaries in aligning goals and priorities between states.</p><p>To meet this intent and facilitate communication, existing terminology within Oregon's SWAP was cross walked to the CMP Direct Threats Classification System v2.0. Some Key Conservation Issues (like Invasive Species) map directly to CMP Direct Threats, while others (like Barriers to Animal Movement) are complex and incorporate consideration of multiple threat types. The CMP Direct Threats were originally released in conjunction with the IUCN as v1.0 in 2007 and were updated as v2.0 in 2016.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Recommended Citation</head><p>Oregon's State Wildlife Action Plan. 2026. Oregon Department of Fish and Wildlife, Salem, Oregon.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>BACKGROUND INTRODUCTION</head><p>Oregon is home to a vast assortment of species and habitats that contribute to its unique biological diversity. Currently, however, species are going extinct faster than any time in human history. A 2023 report by NatureServe ranked Oregon as the 5 th highest state in percent of at-risk animals in the U.S. Species at risk include over half of Oregon's 32 amphibian species, approximately 10% of bird species, and nearly 20% of reptile species.</p><p>In the face of alarming loss and daunting conservation challenges, Oregonians need a method to guide them on how to effectively and efficiently use limited resources to make the best conservation decisions. The Oregon State Wildlife Action Plan (SWAP) is a tool to provide the information needed to guide and prioritize this work.</p><p>The Oregon SWAP represents Oregon's first overarching state plan for conserving fish, wildlife, and their habitats. It uses the best available information to create a broad vision and conceptual framework for long-term conservation of Oregon's native fish and wildlife, as well as various invertebrates, plants, and algae.</p><p>The SWAP emphasizes proactively conserving declining species and habitats to reduce the possibility of future federal or state listings. It is not a regulatory document but instead presents issues, opportunities, and recommended voluntary actions that will improve the efficiency and effectiveness of conservation in Oregon.</p><p>Most importantly, it establishes the basis for a common understanding of the challenges facing Oregon's fish and wildlife, and provides a shared set of priorities for addressing the state's conservation needs. The heart of the SWAP is a blueprint for voluntary action to address the long-term needs of Oregon's fish and wildlife. The future for many species will depend on landowners' and land managers' willingness to take voluntarily action to protect and improve fish and wildlife habitats.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Oregon's State Wildlife Action Plan Goals:</head><p>1. Maintain healthy fish and wildlife populations by maintaining and restoring functioning habitats.</p><p>2. Prevent declines of at-risk species.</p><p>3. Reverse declines in these resources where possible.</p><p>The SWAP is not a management plan for the Oregon Department of Fish and Wildlife. It is a broad strategy for all Oregonians, offering potential roles and opportunities for the general public, private landowners, organizations, and federal and state agencies alike. It incorporates information and insights from a broad range of natural resource assessments and conservation plans, supplemented by the professional expertise and practical experiences of Oregon's resource managers and conservation interests. Healthy fish and wildlife populations require adequate habitat, which is provided in natural systems and in landscapes managed for forestry, agriculture, range, and urban uses. This document's purpose is to help people make decisions more strategically about how they can invest time and resources in fish and wildlife conservation. The intent is for localized or species-specific plans to branch off of the broader, overarching SWAP.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Oregon's Unique Natural Heritage</head><p>Oregonians have always been proud of the place they live, of the diversity of landscapes and people, and of Oregon's strong ties to our fish and wildlife. Oregon's SWAP celebrates that natural heritage by outlining goals and identifying actions that conserve and restore Oregon's species, habitats, and ecosystems. The recommendations within the SWAP can be used to address species and habitat conservation needs, expand existing partnerships and develop new ones, and provide a context for balancing Oregon's conservation and development priorities.</p><p>Oregon is a melting pot of traditions, cultures, ecological regions, geological formations, and political ideologies. Oregon's varied geology, soil, and climate support a unique collection of species and habitats, which help define the state's way of life. Oregon's prosperity depends on use of land for agriculture, timber, industry, ranching, and outdoor recreation. The nearshore marine environments of Oregon's coast also provide vital habitats for marine species while supporting coastal economies and recreational activities. These working land and seascapes, along with wilderness and other natural areas, provide the rich mix of habitats that support Oregon's fish and wildlife.</p><p>There are, however, significant challenges to maintaining Oregon's fish and wildlife. Climate change, invasive species, and other large-scale threats have accelerated the decline of native species across the state. Habitats have been fragmented or degraded by construction of towns and roads, alteration of river systems, and intensive land management practices. Some areas have been completely converted to other uses. These changes can isolate fish and wildlife habitats into increasingly smaller patches, limit the functions that habitats provide for species, and ultimately make it more difficult for ecosystems to provide the services that define Oregon's history, traditions, and economy.</p><p>The SWAP provides an adaptive and comprehensive framework for continued positive action and new innovation. Building upon previous plans, it provides a menu of recommended voluntary actions and tools to help inspire local communities, landowners, and individuals to define their own conservation role.</p><p>Oregonians have long demonstrated their willingness to work together for the common good. Tapping that spirit will encourage new alliances, partnerships, coordination, and collaboration among agencies, tribes, organizations, businesses, and landowners to take care of Oregon's unique natural treasures.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>OREGON'S STATE WILDLIFE ACTION PLAN: WHAT IT IS AND WHAT IT CAN DO</head><p>The SWAP is intended to provide a long-term, big-picture blueprint for conserving Oregon's natural resources for today and for future generations. It outlines how and where the state and its conservation partners, including landowners and land managers, can best focus this work. The SWAP is intended to:</p><p>• Prevent species from becoming imperiled, thereby reducing the risk of future species listings that could result in additional regulations for Oregon's businesses and industries.</p><p>• Provide a wide range of voluntary conservation tools to empower local communities and landowners to take advantage of existing opportunities to act.</p><p>• Provide a common conservation vision to guide state and federal agencies toward effective coordination.</p><p>• Leverage limited conservation resources, such as money, equipment, and time, in a more efficient and effective manner by:</p><p>o Focusing conservation actions on the species and habitats of greatest conservation priority o Identifying areas where conservation activities will provide the greatest benefit at the landscape scale o Increasing coordination, collaboration, and partnership to produce cumulative benefits</p><p>• Provide a role for every Oregonian, from local neighborhood clean-ups to largescale community-based monitoring, and demonstrate how local conservation actions fit into a broader regional or statewide perspective.</p><p>• Synthesize existing plans and credible, peer-reviewed science to provide a statewide context to address the state's conservation needs.</p><p>• Demonstrate Oregon's commitment to conserve its species and habitats.</p><p>• Serve as a long-term strategy for the next decade and beyond, while still remaining a dynamic, living plan that will be adjusted as new information and insights are gained.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>OREGON'S STATE WILDLIFE ACTION PLAN: WHAT IT IS NOT</head><p>The SWAP is not regulatory. It works within existing legal structures and is not a substitute for regulations. It does not challenge, change, or expand regulations. It does not add any new regulations.</p><p>The SWAP is not restrictive. It will not impose limits or new requirements on private landowners or public land users. It does not impose additional rules, fees, or processes. Instead, it encourages voluntary action and collaboration.</p><p>The SWAP is not a substitute for existing planning efforts. It synthesizes and builds upon efforts to weave them into a statewide blueprint for action. It also highlights ways to expand and enhance conservation work.</p><p>The SWAP is not an Oregon Department of Fish and Wildlife management plan. Rather, it is intended to be a conservation tool for all Oregonians. The issues identified in this document are often complex and cannot be solved by any one agency or entity. They require cooperative, coordinated approaches for long-term success.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>OREGON'S EXISTING CONSERVATION FRAMEWORK</head><p>Oregon has an existing conservation framework in the form of plans, regulations, and grass-roots voluntary efforts. These processes have built the knowledge base, standards, and relationships that set the stage for creating a statewide conservation plan. The SWAP has built upon this framework to promote common goals.</p><p>The SWAP works to encourage integration and innovation within Oregon's existing conservation framework, recognizing that many important conservation actions are covered by regulatory requirements, but other actions are voluntary, and incentives or market-based approaches can be quite helpful.</p><p>Regulations -State and federal laws govern issues such as water quality, air quality, land use, and species protection. For example, the legal and institutional framework for maintaining private forestland is in place through the Oregon Board of Forestry's Forestry Program for Oregon, the Forest Practices Act, and statewide planning Goal 4, Forest Lands.</p><p>Voluntary Efforts -From counting birds during the annual Christmas Bird Count to planting willows in riparian areas, watershed councils, nonprofit organizations, private landowners, and other interested individuals are already contributing voluntarily to conserving Oregon's fish and wildlife through both organized and individual efforts.</p><p>Plans -Numerous planning efforts by a variety of entities have identified priority species, habitats, and actions within Oregon. These plans have all differed in their purposes, goals, and scales of analysis. Some examples of large-scale planning efforts include the Oregon Plan for Salmon and Watersheds and The Nature Conservancy's Ecoregional Assessments.</p><p>The SWAP builds on all of these efforts to provide a cohesive, statewide, non-regulatory approach to habitat and species conservation. Implementation requires coordination among the state and federal agencies that apply existing regulations, and among a variety of groups that implement plans. The SWAP can also support and expand existing voluntary efforts.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>THE NATIONAL APPROACH</head><p>The U.S. Fish and Wildlife Service requires each U.S. state and territory receiving State Wildlife Grants to complete a State Wildlife Action Plan and to update that effort at least every 10 years.</p><p>The emphasis of each state plan is on voluntary measures and collaboration. A state action plan that imposed additional regulation or adversely affected the state's economy and communities would not meet the intent or objectives of the State Wildlife Grants Program. Each plan must address factors affecting the health of the nation's fish and wildlife, particularly those species in greatest need of conservation. The goal is to manage fish and wildlife populations and their habitats as a public trust, maintained as a national heritage.</p><p>Each state action plan must contain eight elements addressing species, habitats, problems, conservation actions, monitoring, plan review, interagency coordination, and public involvement.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>USFWS Required Eight Elements Oregon's Approach</head><p>1. Gather information on the distribution and abundance of fish and wildlife species.</p><p>Identify Species of Greatest Conservation Need, those most in need of conservation, and summarize key information about them. Improve Oregon's ability to map species distribution using both observational data and modeling. Use species data to help identify Conservation Opportunity Areas (COAs) where conservation activities would benefit the greatest number of SGCN.</p><p>2. Describe location and relative condition of key habitats and community types essential to conservation of these species.</p><p>Identify Key Habitats to conserve a broad suite of species that reflect the diversity of fish and wildlife in the state, and map COAs for Key Habitats, areas where conservation activities would have the greatest benefit and chances of success.</p><p>3. Describe problems which may adversely affect these species or their habitats. Identify information needed to improve conservation of species and habitats.</p><p>Describe limiting factors for SGCN and Key Habitats, and data gaps where information is needed. The SWAP describes conservation issues and limiting factors for each SGCN and Key Habitat, and describes seven Key Conservation Issues. The SWAP lists fish and wildlife diseases occurring in Oregon, and provides management approaches.</p><p>4. Describe necessary conservation actions for species and habitats.</p><p>Outline conservation actions for SGCN and Key Habitats.</p><p>Identify COAs where conservation activities would benefit the greatest number of SGCN and Key Habitats.</p><p>Provide management actions and approaches to address Oregon's Key Conservation Issues and diseases that threaten our fish and wildlife populations.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>USFWS Required Eight Elements Oregon's Approach</head><p>5. Propose ways to monitor the effectiveness of these conservation actions and ways to adapt actions as information or conditions change.</p><p>Provide guidance for monitoring species and habitats.</p><p>6. Describe procedures to review the SWAP at regular intervals (not to exceed 10 years).</p><p>Describe how reviews and updates will occur. • Outdoor interest groups, businesses, travel organizations, landowners, and conservation partners:</p><p>o Use information on SGCN and Key Habitats and the lists of associated conservation actions to guide conservation and restoration efforts.</p><p>o Promote efforts to get outdoors for recreation and wildlife viewing.</p><p>o Get involved with community science efforts to report wildlife sightings.</p><p>o Business owners can promote local or 'conservation certified' products, engage employees in restoration efforts, support habitat protection investments, and improve habitats on company lands.</p><p>• Universities and community science groups:</p><p>o Address research needs and data gaps identified in the SWAP.</p><p>o Collect biological data to expand mapped or modeled data on SGCN and Key Habitats.</p><p>o Report monitoring results to online central databases (for example, iNaturalist, eBird, Oregon Biodiversity Information Center, etc.) that can be used for adaptive management and evaluation.</p><p>o Provide information about the SWAP when conducting outreach.</p><p>• State and federal agencies, counties, and municipalities:</p><p>o Continue to utilize the priorities in the SWAP to administer funds and programs, manage lands, develop or revise management plans, monitor species, and restore habitats.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>REVIEW PLAN</head><p>ODFW will continue coordination with federal, state, and local agencies, tribes, conservation organizations, outdoor recreation organizations, and other groups to evaluate, implement, and review the SWAP. Coordination efforts will follow the outline in this document, as well as continuing existing efforts through ODFW's district offices.</p><p>The SWAP website will offer updated supporting content, including new guidance documents, species monitoring plans, community science efforts, local conservation efforts, potential partners, and other supporting information. ODFW anticipates updating the supporting information to the extent possible. Changes will not be made to the Eight Required Elements without U.S. Fish and Wildlife Service (USFWS) consultation and review.</p><p>ODFW will lead the next comprehensive review of the SWAP, covering all USFWS requirements, no later than October 1, 2035.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>of Greatest Conservation Need, Key Habitats, Conservation Opportunity Areas, and Key Conservation Issues, and</head><label></label><figDesc>State Wildlife Action Plan outlines conservation priorities, such as Species recommends voluntary actions for conservation in Oregon. These priorities were originally developed using the best scientific information available to ODFW and partners in 2006, were updated in 2016 as part of a 10-year revision, and were updated again in 2026 as part of the next 10-year revision. The SWAP builds on Oregon's conservation framework and works within existing legal structures, but it is not regulatory. Although Oregon's fish and wildlife are managed by ODFW, the habitats they depend on are managed by a patchwork of different types of land ownership and uses throughout the state. Conservation outcomes for SGCN, Key Habitats, and COAs depend upon communication of common priorities and shared stewardship from all Oregonians. Information to guide conservation and restoration projects can be found in: Information to consider when planning land use actions, including areas to avoid for development or areas to consider for mitigation actions, can be found in: Maps of fish, wildlife, and habitats available on ODFW Compass o Voluntary conservation actions to benefit Conservation Opportunity AreasFUNDINGOregon's State Wildlife Action Plan identifies priorities for conservation actions and for collecting further information about Oregon's species and habitats. Currently, many agencies, tribes, and organizations have insufficient funding and capacity to address all of the conservation priorities. Funding is necessary to support the ongoing efforts of ODFW and partner organizations to implement actions identified in the SWAP. The SWAP supports collaborative efforts to identify funding for conservation priorities and to maximize limited time and resources.</figDesc><table><row><cell>HOW TO USE THE SWAP</cell></row><row><cell>7. Coordinate with federal, state, and local agencies and tribes that manage significant land and Oregon's INFORMATION FOR COMMUNITIES, LOCAL PLANNERS, OTHER Coordinate extensively with federal, state, county, and local governments, tribes, non-governmental organizations, interest groups, and private landowners in</cell></row><row><cell>water areas or administer significant programs that affect ORGANIZATIONS, AND PRIVATE LANDOWNERS developing and implementing the SWAP.</cell></row><row><cell>species and habitat conservation. Communities, planners, and other organizations have a crucial role in the stewardship of</cell></row><row><cell>Oregon's natural resources. Across Oregon, motivated landowners are removing invasive</cell></row><row><cell>8. Engage the public in planning plants, replacing culverts, restoring wetlands, establishing native plants, and taking large A. Seek guidance via a publicly available survey to</cell></row><row><cell>and implementing the SWAP. and small actions to enhance habitats for fish and wildlife. Landowners with an urban identify priority sections for revision.</cell></row><row><cell>B. Seek public input through public presentations. Solicit backyard, a few acres in the foothills of the Cascades, or a large ranch in eastern Oregon comments via an open public comment period. can all take action to benefit SGCN and Key Habitats. Suggestions to help community Incorporate public comment into the final version. planners, local governments, counties, metropolitan planning organizations, tribes, C. Engage Oregonians throughout the state as the SWAP is implemented and encourage participation in SWAP federal and state agencies, nonprofit organizations, corporate interests, and private</cell></row><row><cell>actions. landowners are included throughout the SWAP.</cell></row></table><note><p>• o Species of Greatest Conservation Need o Key Habitats o Conservation Opportunity Areas o The Conservation Toolbox • o Land Use Changes Key Conservation Issue o • Actions to focus grant applications on conservation and restoration projects can be found in: o Species of Greatest Conservation Need o Key Habitats o Conservation Opportunity Areas o The</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Conservation Toolbox IMPLEMENTATION Everyone Can Help Although</head><label></label><figDesc>ODFW leads the effort to develop and update the SWAP, partnering organizations are essential to success. Partners include federal, state, and local agencies, tribes, conservation organizations, outdoor recreation groups including guides, hunters, and anglers, private landowners, and related organizations (e.g., SWCDs, watershed councils, irrigation districts, etc.). Some ways to implement the SWAP include: Continue to use the SWAP to update Wildlife Management Area plans, help prioritize Access and Habitat Program projects, and assist in prioritizing Willamette Wildlife Mitigation Program projects. Use the SWAP to inform agency workplans. Focus survey and conservation efforts on priority SGCN. Provide updates on implementation progress to the Oregon Fish and Wildlife Commission. Use the SWAP for guidance when responding to emerging issues. For example, develop and provide recommendations to agencies responding to drought that offer relief for fish and wildlife species. Continue to participate in the implementation and update of Oregon's Integrated Water Resources Strategy, and continue using the SWAP to shape ODFW input on state and federal public forest and rangeland management planning efforts.</figDesc><table /><note><p>• Oregon Department of Fish and Wildlife: o Continue to support ODFW's ongoing conservation and restoration work statewide. ODFW's fish and wildlife biologists have strong local knowledge and invaluable relationships with local partners to help guide conservation opportunities and find economies-of-scale. o o o o Use the SWAP to guide implementation of the ODFW Climate and Ocean Change policy for SGCN and Key Habitats.</p></note></figure>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><p>It is understandable that those who have been using the ONS may need some guidance and a clear crosswalk to locate where familiar content resides within the integrated SWAP. Much of the original ONS material has been incorporated into or linked in most <rs type="institution">Key Conservation Issues</rs>, the <rs type="funder">Nearshore ecoregion</rs>, the <rs type="funder">Estuaries Key Habitat, and in the Nearshore Key Habitat pages</rs>. These documents serve as the primary hub for related information. The following sections include additional information on Nearshore-related topics:</p></div>
+<div><head>Appendix -Coastal Communities</head></div>
+<div><head>Acknowledgements</head></div>
+<div><head>ACKNOWLEDGEMENTS</head><p>Since 2006, a great number of private landowners, conservation groups, watershed councils, land trusts, outdoor interest groups, tribes, municipalities, agencies, consultants, and others have helped to implement many of the recommendations in Oregon's <rs type="institution">State Wildlife Action Plan</rs>. For the 20-year update, many of these organizations and individuals contributed ideas and expertise. The revised plan is the result of numerous meetings, planning sessions, and discussions. ODFW staff devoted many hours to researching, developing content, updating sections, and providing outreach. Our partners graciously gave their time to review hundreds of pages of information, revise goals and actions, and provide feedback. Members of the public contributed their time to complete surveys, attend meetings, and provide comments.</p><p>ODFW thanks everyone who contributed to the <rs type="institution">State Wildlife Action Plan</rs> and who work toward to the goals of protecting Oregon's fish, wildlife, and habitats!</p></div>
+<div><head>EXTERNAL CONTRIBUTORS</head><p>External partners and members of the public reviewed drafts of updated content, offered guidance for keeping the content and format relevant to them and their partner organizations, and circulated notifications for the review process throughout the state. They also helped update the content to reference current efforts, new science, and relevant initiatives.</p></div>
+<div><head>MMPA: Marine</head><p>Mammal Protection Act NBR: <rs type="person">Northern Basin</rs> and <rs type="projectName">Range NMFS: National Marine Fisheries Service NOAA: National Oceanic and Atmospheric Administration NOWC: Network of Oregon Watershed Councils NS: Nearshore NW CASC</rs>: <rs type="funder">Northwest Climate Adaptation Science Center OAR: Oregon Administrative Rules ODA: Oregon Department of Agriculture ODF: Oregon Department of Forestry ODFW: Oregon Department of Fish and Wildlife ODOE: Oregon Department of Energy ODOT: Oregon Department of Transportation OGWC: Oregon Global Warming Commission OHA: Oregon Health Authority OISC: Oregon Invasive Species Council OPAC: Ocean Policy Advisory Council OPRD: Oregon Parks and Recreation Department ORBIC: Oregon Biodiversity Information Center ORS: Oregon Revised Statutes OSMB</rs>: <rs type="projectName">Oregon State Marine Board OSP: Oregon State Police OSU: Oregon State University OWEB: Oregon Watershed Enhancement Board OWRD: Oregon Water Resources Department PIF: Partners in Flight PSU: Portland State University PFMC: Pacific Fishery Management Council PSMFC: Pacific States Marine Fisheries Commission RMEF: Rocky Mountain Elk Foundation ROV: Remotely Operated Vehicle SageCON: Sage-Grouse Conservation Partnership SCUBA: Self Contained Underwater Breathing Apparatus SMU: Species Management Unit for Native Fish SWG: State Wildlife Grants SWCD: Soil</rs> and Water Conservation District TNC: The <rs type="funder">Nature Conservancy</rs></p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funded-project" xml:id="_rBnWbJV">
+					<orgName type="project" subtype="full">Range NMFS: National Marine Fisheries Service NOAA: National Oceanic and Atmospheric Administration NOWC: Network of Oregon Watershed Councils NS: Nearshore NW CASC</orgName>
+				</org>
+				<org type="funded-project" xml:id="_ZdVJhNw">
+					<orgName type="project" subtype="full">Oregon State Marine Board OSP: Oregon State Police OSU: Oregon State University OWEB: Oregon Watershed Enhancement Board OWRD: Oregon Water Resources Department PIF: Partners in Flight PSU: Portland State University PFMC: Pacific Fishery Management Council PSMFC: Pacific States Marine Fisheries Commission RMEF: Rocky Mountain Elk Foundation ROV: Remotely Operated Vehicle SageCON: Sage-Grouse Conservation Partnership SCUBA: Self Contained Underwater Breathing Apparatus SMU: Species Management Unit for Native Fish SWG: State Wildlife Grants SWCD: Soil</orgName>
+				</org>
+			</listOrg>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Appendix -Marine Habitat Classification</head><p>Appendix -Nearshore Species Appendix -Nearshore Research and Monitoring Appendix -Nearshore Management Framework</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Direct Threats Classification System</head><p>In the Ecoregions and Key Conservation Issues sections of Oregon's 2026 SWAP, there are references to the Conservation Measures Partnership Direct Threats Classification System v2.0 (CMP Direct Threats). At a national scale, states have been encouraged to use a shared lexicon in the revision of their SWAPs, particularly when referencing threats and other key terminology. The intent of this standardization is to enhance collaboration across state lines and facilitate the use of SWAPs in obtaining funds for conservation of Species of Greatest Conservation Need (SGCN) through collaborative grant funding structures such as the Competitive State Wildlife Grants administered by the U.S. Fish and Wildlife Service. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>List of Acronyms</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>LIST OF ACRONYMS</head><p>The following is a reference list of common acronyms used in the SWAP: </p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Ale</forename><surname>Van Domelen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Alex</forename><surname>Martinez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Andrea</forename><surname>Harrison</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Andrew</forename><surname>Carpenter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Andrew</forename><surname>Meyers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Anthony</forename><surname>Walch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Austin</forename><surname>Martinez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ben</forename><surname>Reeder</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ben</forename><surname>Cate</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Benjamin</forename><surname>Walczak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Benji</forename><surname>Clemens</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Brent</forename><surname>Ramirez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Brian</forename><surname>Priz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Brittany</forename><surname>Ratliff</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Caleb</forename><surname>Harrington</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Cameron</forename><surname>Yann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Charlie</forename><surname>Sharpe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Chris</forename><surname>Chamberlain</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Chris</forename><surname>Knutsen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Christopher</forename><forename type="middle">W</forename><surname>Lorion</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Courtney</forename><surname>Claire</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Dan</forename><surname>Zambory</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Dave</forename><surname>Van Dyke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Dave</forename><surname>Banks</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Derek</forename><surname>Keiter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Derek</forename><surname>Broman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Dylan</forename><surname>Wilson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ed</forename><surname>Edwards</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Elise</forename><surname>Hughes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Eric</forename><surname>Kelley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ethan</forename><surname>Himmelreich</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Frank</forename><surname>Brandt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Fred</forename><surname>Drake</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Geoffrey</forename><surname>Monzyk</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ian</forename><surname>Gerdes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">James</forename><surname>Tattam</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jamie</forename><surname>Lawonn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Janna</forename><surname>Bowles</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jason</forename><surname>Guzman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jeff</forename><surname>Badger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jeremy</forename><surname>Ziller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jessica</forename><surname>Romer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jim</forename><surname>Clark</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Joe</forename><surname>Brick</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Joe</forename><surname>Lemanski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">John</forename><surname>Stack</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Kasey</forename><surname>Spangler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Kelcee</forename><surname>Johnson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Kelly</forename><surname>Smith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Kelly</forename><surname>Reis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Kirk</forename><surname>Walton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Kregg</forename><surname>Handley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Kyle</forename><surname>Smith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Lauri</forename><surname>Bratcher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Lindsay</forename><surname>Brewster</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Lindsey</forename><surname>Powell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Lynn</forename><surname>Sanders</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mark</forename><surname>Mattes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Martyne</forename><surname>Kirsch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mathew</forename><surname>Reesman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Matt</forename><surname>Vargas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Matt</forename><surname>Keenan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Matt</forename><surname>Strickland</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Michael</forename><forename type="middle">D</forename><surname>Wyatt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mike</forename><surname>Hayworth</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mitchell</forename><surname>Gray</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Moritz</forename><surname>Petoskey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Nicholas</forename><surname>Schmid</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Nik</forename><surname>Smith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Nita</forename><surname>Zymonas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Paul</forename><surname>Mchugh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Peggy</forename><surname>Atwood</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Pete</forename><surname>Kavanagh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Peter</forename><surname>Samarin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Phillip</forename><surname>Iacono</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Reed</forename><surname>Perrine</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Robert</forename><surname>Fischer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ryan</forename><surname>Bradley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ryan</forename><surname>Battleson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Scott</forename><surname>Torland</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Stacy</forename><surname>Torland</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Stephanie</forename><surname>Remple</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Stephanie</forename><surname>Doorly</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Steve</forename><surname>Falkenberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Steve</forename><surname>Niemela</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Stuart</forename><surname>Rumrill</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Thomas</forename><surname>Love</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Tom</forename><surname>Segal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Trent</forename><surname>Murtagh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Tucker</forename><surname>Gianella</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Valerie</forename><surname>Freeman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">William</forename><surname>Hinojoza-Rood</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">William</forename><surname>Cannaday</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Tinniswood</surname></persName>
+		</author>
+		<imprint>
+			<publisher>Willamette Valley</publisher>
+			<pubPlace>Winston Morton. TPL</pubPlace>
+		</imprint>
+	</monogr>
+	<note>United States Geological Survey WAFWA: Western Association of Fish and Wildlife Agencies WC: West Cascades WV</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>
+

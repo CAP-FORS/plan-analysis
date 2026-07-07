@@ -1,0 +1,774 @@
+{
+  "document_meta": {
+    "title": "2015 Pennsylvania Wildlife Action Plan",
+    "year": 2015,
+    "jurisdiction": "Pennsylvania",
+    "document_type": "SWAP",
+    "document_id": "PA_SWAP_2015",
+    "page_count": 75
+  },
+  "orientation": {
+    "summary": "The 2015 Pennsylvania Wildlife Action Plan (PA SWAP) is a comprehensive, state-level, non-regulatory conservation planning document developed by the Pennsylvania Game Commission (PGC) and Pennsylvania Fish and Boat Commission (PFBC), covering 2015-2025. The document acknowledges climate change as an emerging and over-arching threat to fish and wildlife, having formally incorporated it via Amendment 2 (2010) to the 2005 plan, and commits to a 'full inclusion of climate change adaption priorities and pitfalls' in the 2015 revision. However, the portions of the document provided consist primarily of the Introduction, Foreword, Accomplishments review, Goals/Objectives/Strategies framework, and administrative materials; the substantive chapters on climate change (referenced as Chapter 3) are not included in the extracted text. As a result, the plan references climate change and vulnerability concepts but performs limited direct analytical work itself on range shifts; most substantive climate analysis is deferred to referenced chapters and external frameworks. The document does reference specific tools and frameworks (CCVI, CMIP5, GCMs, RCPs, CCVA) by abbreviation in its glossary/abbreviations table, and references concepts like connectivity, adaptive capacity, and climate corridors in its Goals and Strategies.",
+    "evidence_index": [
+      {
+        "text": "Amendment 2 -Climate Change (Emerging Issue): In this amendment, the PGC and the PFBC committed to \"a full inclusion of climate change adaption priorities and pitfalls in the PA Wildlife Action Plan revision of 2015\".",
+        "location": "Background: The 2005 Pennsylvania Wildlife Action Plan / Amendments",
+        "relevant_elements": ["1.1", "4.5"]
+      },
+      {
+        "text": "Among the many threats identified, climate change has over-arching impacts on natural resources, as well as human activities, and is thoroughly discussed in the 2015 Plan (Chapter 3).",
+        "location": "TABLE (threats classification system context)",
+        "relevant_elements": ["1.1", "3.5", "3.6", "3.7"]
+      },
+      {
+        "text": "Increasing availability of data, better climate models and a greater understanding of climate change was noted in Pennsylvania's 2005 SWAP, further elaboration of this emerging issue was considered important as a consequence of potentially broad ecological implications for Pennsylvania",
+        "location": "TABLE (climate change amendment context)",
+        "relevant_elements": ["1.1", "2.3"]
+      },
+      {
+        "text": "Climate change effects were highlighted by the Intergovernmental Panel on Climate Change (IPCC) report (IPCC 2007) and, in collaboration with the Association of Fish and Wildlife Agencies (AFWA 2009) climate change report for State Wildlife Action Plans",
+        "location": "TABLE (climate change amendment context)",
+        "relevant_elements": ["1.1", "2.3"]
+      },
+      {
+        "text": "CCVI Climate Change Vulnerability Index",
+        "location": "Abbreviations table",
+        "relevant_elements": ["2.1", "1.1"]
+      },
+      {
+        "text": "CCVA Climate Change Vulnerability Assessment",
+        "location": "Abbreviations table",
+        "relevant_elements": ["2.1", "1.1", "4.5"]
+      },
+      {
+        "text": "CMIP5 Coupled Model Intercomparison Project 5",
+        "location": "Abbreviations table",
+        "relevant_elements": ["2.3"]
+      },
+      {
+        "text": "GCM General Circulation Model",
+        "location": "Abbreviations table (Fishes Technical Committee table)",
+        "relevant_elements": ["2.3"]
+      },
+      {
+        "text": "RCP Representative Concentration Pathway",
+        "location": "Abbreviations table",
+        "relevant_elements": ["2.3"]
+      },
+      {
+        "text": "CCRF Climate Change Response Framework",
+        "location": "Abbreviations table",
+        "relevant_elements": ["4.5"]
+      },
+      {
+        "text": "NECSC Northeast Climate Science Center",
+        "location": "Abbreviations table",
+        "relevant_elements": ["2.3", "4.5"]
+      },
+      {
+        "text": "Protect diverse populations and genetic material across the full range of species occurrences to facilitate adaptive capacity.",
+        "location": "Goals table / Objective 1.1, Strategy 1.1.6",
+        "relevant_elements": ["1.2", "1.3"]
+      },
+      {
+        "text": "Restore and acquire land to enhance connectivity between secured lands in resilient",
+        "location": "Goals table / Objective 1.2, Strategy 1.2.3",
+        "relevant_elements": ["1.4", "4.1", "4.2"]
+      },
+      {
+        "text": "conserving habitat connectivity, and adaptive management",
+        "location": "Introduction / Foreword section",
+        "relevant_elements": ["1.4", "4.5"]
+      },
+      {
+        "text": "Maintain contacts with climate science centers and use models and tools for management planning and implementation",
+        "location": "Goal 3 strategies section",
+        "relevant_elements": ["2.3", "4.5"]
+      },
+      {
+        "text": "Align climate data and models with decision-support tools for conservation actions",
+        "location": "Goals/Strategies section (Goal 2 area)",
+        "relevant_elements": ["2.3", "4.5"]
+      },
+      {
+        "text": "Each LCC provides opportunities for states, Native American tribes, federal agencies, nongovernmental organizations, universities, and other groups to address increasing land use pressures and widespread resource threats and uncertainties amplified by a rapidly changing climate",
+        "location": "Regional Support and Implementation",
+        "relevant_elements": ["1.1", "3.4"]
+      },
+      {
+        "text": "Support for, and implementation of, the Pennsylvania Wildlife Action Plan reaches beyond state boundaries to address conservation needs at landscape scales.",
+        "location": "Regional Support and Implementation",
+        "relevant_elements": ["3.1", "3.4"]
+      },
+      {
+        "text": "new and ongoing threats to species and habitats (e.g., invasive species, urban development) are increasing the management challenges for resource professionals",
+        "location": "Issue 4: Funding and Resources",
+        "relevant_elements": ["3.5", "3.7"]
+      },
+      {
+        "text": "from habitat loss to climate change and invasive species",
+        "location": "Introduction / Foreword",
+        "relevant_elements": ["1.1", "3.5", "3.7"]
+      },
+      {
+        "text": "Head-start reintroduction of at least one native extirpated or severely depleted species or population when limiting factors have been addressed and there is high confidence for success.",
+        "location": "Goals table / Objective 1.1, Strategy 1.1.3",
+        "relevant_elements": ["4.2"]
+      },
+      {
+        "text": "Support artificial propagation of Species of Greatest Conservation Need, when re-establishment is feasible and ecologically valid.",
+        "location": "Goals table / Objective 1.1, Strategy 1.1.4",
+        "relevant_elements": ["4.2"]
+      },
+      {
+        "text": "Identify where conservation actions should be implemented to maximize the benefit to Species of Greatest Conservation Need and their habitats using best available data and technology.",
+        "location": "Goals table / Objective 1.2, Strategy 1.2.1",
+        "relevant_elements": ["4.1"]
+      },
+      {
+        "text": "these PIAs do not fully account for emerging threats (e.g., energy development, invasive species, increasing effects of climate change), that have expanded the tasks to be addressed",
+        "location": "Conservation Actions-Prioritized Implementation Actions (PIAs)",
+        "relevant_elements": ["1.1", "3.5"]
+      },
+      {
+        "text": "Strategy 5.1.3 Between 2015 and 2025, update Pennsylvania's Wildlife Action Plan to maintain technical and administrative relevance. 5.1.4 Conduct a comprehensive review and revision of Pennsylvania's Wildlife Action Plan by October 2025.",
+        "location": "Goals table / Goal 5, Objective 5.1",
+        "relevant_elements": ["4.3"]
+      },
+      {
+        "text": "Annually monitor the biological response to State Wildlife Action Plan-related projects designed to achieve objectives for Species of Greatest Conservation Need and their habitats.",
+        "location": "Goals table / Strategy 1.3.1",
+        "relevant_elements": ["4.3"]
+      },
+      {
+        "text": "With agency partners, semi-annually assess the percentage of Pennsylvania Wildlife Action implementation.",
+        "location": "Goals table / Strategy 1.3.2",
+        "relevant_elements": ["4.3"]
+      },
+      {
+        "text": "State & Tribal Wildlife Grant funding and leveraged non-federal match have been the primary funding sources for implementing the Pennsylvania Wildlife Action Plan.",
+        "location": "Issue 4: Funding and Resources",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "From FY01 through FY14, Pennsylvania received $25,179,579 in SWG funds, shared equally between the Commissions. These federal funds then leveraged an additional $20,881,694 in non-federal match",
+        "location": "State & Tribal Wildlife Grants Program",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "Assess genetic diversity across the full range of species occurrences.",
+        "location": "Goals table / Strategy 2.4.5 (within Objective 2.4 area)",
+        "relevant_elements": ["1.3"]
+      },
+      {
+        "text": "On-the-ground conservation actions take place at federal, state, county, township, and local levels yet, to be most effective, such actions should be guided by an overall strategy or plan",
+        "location": "TABLE (coordination/implementation section)",
+        "relevant_elements": ["3.1"]
+      },
+      {
+        "text": "Continually assess limiting factors to populations (e.g., habitat requirements, species population demographics, threats, effectiveness of conservation actions).",
+        "location": "Goals table / Strategy 2.7.1",
+        "relevant_elements": ["1.3"]
+      },
+      {
+        "text": "Develop a geospatial framework that supports conservation decision-making.",
+        "location": "Goals table / Strategy 2.6.1",
+        "relevant_elements": ["4.1"]
+      },
+      {
+        "text": "NIACS Northern Institute of Applied Climate Science",
+        "location": "Abbreviations table",
+        "relevant_elements": ["4.5"]
+      },
+      {
+        "text": "Comprehensive, science-based, and spatially explicit",
+        "location": "FIGURE caption (Steering Committee guidance)",
+        "relevant_elements": ["4.1"]
+      }
+    ]
+  },
+  "concepts": {
+    "climate_vulnerability": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Among the many threats identified, climate change has over-arching impacts on natural resources, as well as human activities, and is thoroughly discussed in the 2015 Plan (Chapter 3).",
+          "location": "TABLE (threats classification system context)",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "these PIAs do not fully account for emerging threats (e.g., energy development, invasive species, increasing effects of climate change), that have expanded the tasks to be addressed",
+          "location": "Conservation Actions-Prioritized Implementation Actions (PIAs)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document commits to discussing climate change vulnerability in Chapter 3, and lists CCVI and CCVA in the abbreviations table, but the chapter itself is not in the extracted text. The introductory and administrative sections reference climate change generically as a threat ('from habitat loss to climate change and invasive species') without articulating exposure or adaptive capacity in any substantive way. Score 1 for generic non-specific vulnerability reference; cannot score 2 or 3 without the chapter content."
+    },
+    "adaptive_capacity_specificity": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Protect diverse populations and genetic material across the full range of species occurrences to facilitate adaptive capacity.",
+          "location": "Goals table / Objective 1.1, Strategy 1.1.6",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document uses the exact phrase 'adaptive capacity' once, in Strategy 1.1.6, but without specifying which components of adaptive capacity are being engaged. No specific components (dispersal, thermal tolerance, demography, etc.) are operationally named in this context. Score 1 for generic reference."
+    },
+    "adaptive_capacity_components": {
+      "demography": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Continually assess limiting factors to populations (e.g., habitat requirements, species population demographics, threats, effectiveness of conservation actions).",
+            "location": "Goals table / Strategy 2.7.1",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "distribution": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Protect diverse populations and genetic material across the full range of species occurrences to facilitate adaptive capacity.",
+            "location": "Goals table / Objective 1.1, Strategy 1.1.6",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "movement": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "conserving habitat connectivity, and adaptive management",
+            "location": "Introduction / Foreword section",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "evolutionary_potential": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Protect diverse populations and genetic material across the full range of species occurrences to facilitate adaptive capacity.",
+            "location": "Goals table / Objective 1.1, Strategy 1.1.6",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecological_dependencies": {
+        "present": false,
+        "evidence": []
+      },
+      "abiotic_niche": {
+        "present": false,
+        "evidence": []
+      },
+      "life_history": {
+        "present": false,
+        "evidence": []
+      }
+    },
+    "connectivity": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "conserving habitat connectivity, and adaptive management",
+          "location": "Introduction / Foreword section",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Restore and acquire land to enhance connectivity between secured lands in resilient",
+          "location": "Goals table / Objective 1.2, Strategy 1.2.3",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document references habitat connectivity in generic terms — as a conservation tool and in a strategy to connect secured lands — but does not explicitly frame connectivity in relation to climate-driven range shifts or climate corridors in the extracted text. The word 'resilient' in Strategy 1.2.3 appears to be part of a longer phrase ('resilient landscapes' or similar) that is truncated by the extraction. No climate-corridor or climate-gradient framing appears in the available text. Score 1 (generic)."
+    }
+  },
+  "tools": {
+    "vulnerability_models": {
+      "evaluable": true,
+      "score": 1,
+      "named_tools": ["CCVI", "CCVA"],
+      "evidence": [
+        {
+          "text": "CCVI Climate Change Vulnerability Index",
+          "location": "Abbreviations table",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "CCVA Climate Change Vulnerability Assessment",
+          "location": "Abbreviations table",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "CCVI and CCVA appear only as abbreviation definitions; there is no in-text discussion of their application to the plan's focal species. Chapter 3 (where vulnerability assessment is apparently discussed) is not in the extracted text. Cannot confirm application; score 1 (referenced generally)."
+    },
+    "niche_models": {
+      "evaluable": true,
+      "score": 0,
+      "named_tools": [],
+      "evidence": [],
+      "absence_note": "No reference to species distribution models, MaxEnt, SDMs, ENMs, or related tools found in the extracted text."
+    },
+    "climate_models": {
+      "evaluable": true,
+      "score": 1,
+      "named_tools": ["CMIP5", "GCM", "RCP"],
+      "evidence": [
+        {
+          "text": "CMIP5 Coupled Model Intercomparison Project 5",
+          "location": "Abbreviations table",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "GCM General Circulation Model",
+          "location": "Abbreviations table (Fishes Technical Committee table)",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "RCP Representative Concentration Pathway",
+          "location": "Abbreviations table",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "CMIP5, GCM, and RCP appear only as abbreviation definitions in the glossary. There is one strategy to 'Align climate data and models with decision-support tools for conservation actions' and another to 'Maintain contacts with climate science centers and use models and tools for management planning and implementation,' both of which are aspirational/general references. No projections are applied to focal species in the extracted text, and no time horizon or scenario is specified. Score 1 (referenced generally).",
+      "time_horizon_years": [],
+      "emission_scenarios": []
+    },
+    "connectivity_models": {
+      "evaluable": true,
+      "score": 0,
+      "named_tools": [],
+      "evidence": [],
+      "absence_note": "No connectivity models (CircuitScape, Linkage Mapper, least-cost path, etc.) are referenced in the extracted text. Connectivity is discussed conceptually and as a management goal, but no modeling tools or outputs are mentioned."
+    }
+  },
+  "context": {
+    "management_scale": {
+      "local": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "On-the-ground conservation actions take place at federal, state, county, township, and local levels yet, to be most effective, such actions should be guided by an overall strategy or plan",
+            "location": "TABLE (coordination/implementation section)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "site": {
+        "present": false,
+        "evidence": []
+      },
+      "watershed": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Key habitats and their relative conditions are described in enough detail such that the State can determine where (i.e., in which regions, watersheds, or landscapes within the State) and what conservation actions need to take place.",
+            "location": "Required Elements table",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "city": {
+        "present": false,
+        "evidence": []
+      },
+      "county": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "On-the-ground conservation actions take place at federal, state, county, township, and local levels yet, to be most effective, such actions should be guided by an overall strategy or plan",
+            "location": "TABLE (coordination/implementation section)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "within_state_region": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "At ecologically appropriate spatial (e.g., basin, ecoregion) and temporal scales, monitor the quantity, distribution and condition of major habitat elements and trends.",
+            "location": "Goals table / Strategy 2.4.3",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "state": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Support for, and implementation of, the Pennsylvania Wildlife Action Plan reaches beyond state boundaries to address conservation needs at landscape scales.",
+            "location": "Regional Support and Implementation",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "multistate": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "state fish and wildlife agencies in the Northeast United States, from the Virginias to Maine, have been working collaboratively on wildlife conservation priorities for more than half a century.",
+            "location": "Regional Support and Implementation",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "national": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Actively participate in, and provide resources to, international conservation initiatives for shared species such as AFWA's Southern Wings program",
+            "location": "Goal 3 strategies section",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "transnational": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Actively participate in, and provide resources to, international conservation initiatives for shared species such as AFWA's Southern Wings program",
+            "location": "Goal 3 strategies section",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Implement at least one priority conservation action for each Species of Greatest Conservation Need or ecosystem, focusing on actions with benefits to multiple species.",
+            "location": "Goals table / Objective 1.1, Strategy 1.1.1",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecoregion": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "At ecologically appropriate spatial (e.g., basin, ecoregion) and temporal scales, monitor the quantity, distribution and condition of major habitat elements and trends.",
+            "location": "Goals table / Strategy 2.4.3",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "province": {
+        "present": false,
+        "evidence": []
+      },
+      "section": {
+        "present": false,
+        "evidence": []
+      },
+      "subsection": {
+        "present": false,
+        "evidence": []
+      },
+      "lake": {
+        "present": false,
+        "evidence": []
+      },
+      "river": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "American shad populations have been greatly depressed for many years as a result of dams and poor water quality on the Lower Susquehanna, Schuylkill and Lehigh Rivers.",
+            "location": "Background: The 2005 Pennsylvania Wildlife Action Plan / Amendments",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "district": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["Pennsylvania", "Northeast region (Maine to Virginia)", "Ohio River Basin", "Susquehanna River Basin", "Kittatinny Ridge", "Appalachian Plateau", "Allegheny National Forest", "Delaware River Basin"]
+    },
+    "biological_unit_score": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Implement at least one priority conservation action for each Species of Greatest Conservation Need or ecosystem, focusing on actions with benefits to multiple species.",
+          "location": "Goals table / Objective 1.1, Strategy 1.1.1",
+          "sub_component": "species/ecosystem",
+          "citations": []
+        },
+        {
+          "text": "Healthy, sustainable native wildlife populations, natural communities and habitats in Pennsylvania.",
+          "location": "Vision",
+          "sub_component": "population/community",
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "biological_unit_components": {
+      "species": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "In all, there are 664 other species of greatest conservation need detailed in this plan --90 birds, 19 mammals, 65 fish, 22 reptiles, 18 amphibians and 450 invertebrates.",
+            "location": "Introduction / Foreword",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "population": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Healthy, sustainable native wildlife populations, natural communities and habitats in Pennsylvania.",
+            "location": "Vision",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "habitat": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Conserve Pennsylvania's native wildlife, maintain viable habitat, and protect and enhance Species of Greatest Conservation Need.",
+            "location": "Purpose",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Implement at least one priority conservation action for each Species of Greatest Conservation Need or ecosystem, focusing on actions with benefits to multiple species.",
+            "location": "Goals table / Objective 1.1, Strategy 1.1.1",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "community": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Healthy, sustainable native wildlife populations, natural communities and habitats in Pennsylvania.",
+            "location": "Vision",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "genotype_phenotype": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Protect diverse populations and genetic material across the full range of species occurrences to facilitate adaptive capacity.",
+            "location": "Goals table / Objective 1.1, Strategy 1.1.6",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "named_entities": ["Species of Greatest Conservation Need (SGCN)", "Allegheny woodrat (Neotoma magister)", "Eastern brook trout (Salvelinus fontinalis)", "American shad (Alosa sapidissima)", "little brown bat", "golden-winged warbler (Vermivora chrysoptera)", "bog turtle (Glyptemys muhlenbergii)", "eastern massasauga", "timber rattlesnake (Crotalus horridus)", "freshwater mussels"]
+    },
+    "partnerships_and_funding": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "From FY01 through FY14, Pennsylvania received $25,179,579 in SWG funds, shared equally between the Commissions. These federal funds then leveraged an additional $20,881,694 in non-federal match (e.g., matching funds, services of volunteers, services and materials) for a total of $46,061,273 supporting 110 projects",
+          "location": "State & Tribal Wildlife Grants Program",
+          "sub_component": "funding",
+          "citations": []
+        },
+        {
+          "text": "state fish and wildlife agencies in the Northeast United States, from the Virginias to Maine, have been working collaboratively on wildlife conservation priorities for more than half a century.",
+          "location": "Regional Support and Implementation",
+          "sub_component": "partnerships",
+          "citations": []
+        },
+        {
+          "text": "The NALCC has supported more than 16 projects; of which over 80% include Pennsylvania Wildlife Action Plan priorities",
+          "location": "TABLE (Table 7 context / NALCC section)",
+          "sub_component": "partnerships",
+          "citations": ["NALCC 2015", "Terwilliger Consulting & NEFWDTC 2013"]
+        }
+      ],
+      "absence_note": "The document demonstrates active, named partnerships (NEAFWA, LCCs, NALCC, NFWF, TNC, USDA-NRCS, USFWS, tribal partners) with documented funding flows and active project implementation. This meets score 2 (strategic investment with active partnerships), though the range-shift-specific framing of these partnerships is limited in the extracted text."
+    },
+    "climate_threat_habitat_degradation": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "from habitat loss to climate change and invasive species",
+          "location": "Introduction / Foreword",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Among the many threats identified, climate change has over-arching impacts on natural resources, as well as human activities, and is thoroughly discussed in the 2015 Plan (Chapter 3).",
+          "location": "TABLE (threats classification system context)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "Climate change is named as a habitat-related threat alongside habitat loss and invasive species. The document defers detailed discussion to Chapter 3 which is not in the extracted text. The framing in the Introduction and tables is generic but does connect climate change to habitat/natural resource impacts. Score 1."
+    },
+    "climate_threat_species_vital_rates": {
+      "evaluable": true,
+      "score": 0,
+      "evidence": [],
+      "absence_note": "No direct discussion of climate events causing mortality, recruitment failure, or other vital rate impacts is found in the extracted text. The white-nose syndrome discussion involves bat mortality but is not framed as climate-driven. Score 0."
+    },
+    "climate_threat_biotic_stressors": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "new and ongoing threats to species and habitats (e.g., invasive species, urban development) are increasing the management challenges for resource professionals",
+          "location": "Issue 4: Funding and Resources",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "Invasive species are mentioned repeatedly alongside climate change as co-threats ('from habitat loss to climate change and invasive species'). The Pennsylvania Invasive Species Management Plan (PAISMP) and Pennsylvania Invasive Species Council (PISC) are referenced in the abbreviations. However, the framing in the extracted text does not explicitly link climate change to facilitating invasive species spread or succession. The co-listing of climate change and invasive species in the same breath across multiple passages does suggest an implicit climate-biotic stressor framing, especially given that the document committed to full climate change integration. Score 1 for this borderline case, as climate change and invasive species are named together as a paired threat category."
+    }
+  },
+  "actions": {
+    "priority_habitat_identification": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Identify where conservation actions should be implemented to maximize the benefit to Species of Greatest Conservation Need and their habitats using best available data and technology.",
+          "location": "Goals table / Objective 1.2, Strategy 1.2.1",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Implement conservation actions in priority areas where current protection and management actions are considered insufficient to avert declines in Species of Greatest Conservation Need and their habitats.",
+          "location": "Goals table / Objective 1.2, Strategy 1.2.2",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The plan discusses priority habitat identification as a goal and strategy, and mentions that the plan should be 'spatially explicit' (Steering Committee guidance), and Strategy 2.6.1 calls for developing 'a geospatial framework that supports conservation decision-making.' However, the extracted text does not show actual maps, zonation outputs, or spatial layers applied to climate-driven habitat priorities. The climate connectivity framing needed to make this a full score-2 (spatially represented priority habitat for range shifts) is absent or deferred to Chapter 3. Score 1."
+    },
+    "targeted_range_shift_actions": {
+      "evaluable": true,
+      "score": 0,
+      "evidence": [],
+      "absence_note": "Strategy 1.1.3 discusses head-start reintroduction and Strategy 1.1.4 discusses artificial propagation, but both are framed in terms of generic species recovery ('severely depleted species,' 'ecologically valid'), not climate-driven range shifts. Strategy 1.2.3 mentions connectivity between secured lands but is truncated and not explicitly climate-framed. No assisted migration, climate-motivated translocation, or climate-corridor construction is explicitly described in the extracted text. Score 0."
+    },
+    "time_bound_and_monitoring": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Strategy 5.1.3 Between 2015 and 2025, update Pennsylvania's Wildlife Action Plan to maintain technical and administrative relevance. 5.1.4 Conduct a comprehensive review and revision of Pennsylvania's Wildlife Action Plan by October 2025.",
+          "location": "Goals table / Goal 5, Objective 5.1",
+          "sub_component": "time-bound",
+          "citations": []
+        },
+        {
+          "text": "Annually monitor the biological response to State Wildlife Action Plan-related projects designed to achieve objectives for Species of Greatest Conservation Need and their habitats.",
+          "location": "Goals table / Strategy 1.3.1",
+          "sub_component": "monitoring",
+          "citations": []
+        },
+        {
+          "text": "With agency partners, semi-annually assess the percentage of Pennsylvania Wildlife Action implementation.",
+          "location": "Goals table / Strategy 1.3.2",
+          "sub_component": "monitoring",
+          "citations": []
+        }
+      ],
+      "absence_note": "The plan specifies a 10-year planning horizon (2015-2025) with a hard deadline for comprehensive revision by October 2025. Individual strategies include explicit annual and semi-annual monitoring requirements. This meets the codebook's score-2 criterion of both deadlines and effectiveness monitoring at the action level."
+    },
+    "evidence_of_efficacy": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "In 2006, projects began to identify quality habitat and develop best habitat management practices. Woodrats were trapped across 12 sites over 4 years. Survival was higher at locations with greater diversity of hard mast trees, adult density and fecundity were higher at sites with less canopy cover",
+          "location": "Allegheny Woodrat Case Study / Project Description",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Pennsylvania's active implementation of the 2005 Wildlife Action Plan is reflected in 578 of 1,034 (55.9%) habitat-associated PIAs being identified as \"initiated,\" \"ongoing\" or \"completed\"",
+          "location": "Conservation Actions-Prioritized Implementation Actions (PIAs)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The Allegheny Woodrat case study provides limited applied evidence from field conditions relevant to the plan's focal species, qualifying for score 2. The evidence is field-based but preliminary (no clear treatment effect demonstrated in the immediate post-treatment period; effects expected over several years). The PIA review provides process-level documentation of implementation but not effectiveness of outcomes. Score 3 would require strong evidence with demonstrated outcomes from directly applicable studies; the available evidence is limited in its demonstrated efficacy.",
+      "projects": ["Allegheny Woodrat Conservation Project (2006-2015): Multi-year field project trapping woodrats at 12 sites over 4 years, testing habitat enhancement treatments (patch cuts, invasive plant control, mast tree management). Monitoring showed that survival was higher at sites with greater hard mast diversity and density/fecundity improved with food availability, providing limited applied evidence that habitat management actions benefit this species. A captive breeding program was also initiated. Results are described as ongoing with final genetic analyses pending.", "2005 Pennsylvania Wildlife Action Plan Prioritized Implementation Actions review: A retrospective assessment of 1,034 PIAs from the 2005 plan documented that 55.9% were initiated, ongoing, or completed, providing a general audit of implementation efficacy. Individual project outcomes (e.g., dam removal for fish passage, bat hibernacula gating, forest management for golden-winged warbler) are mentioned but not evaluated for effectiveness in the extracted text."]
+    },
+    "adaptation_planning_frameworks": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Amendment 2 -Climate Change (Emerging Issue): In this amendment, the PGC and the PFBC committed to \"a full inclusion of climate change adaption priorities and pitfalls in the PA Wildlife Action Plan revision of 2015\".",
+          "location": "Background: The 2005 Pennsylvania Wildlife Action Plan / Amendments",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Maintain contacts with climate science centers and use models and tools for management planning and implementation",
+          "location": "Goal 3 strategies section",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document references climate change adaptation planning as a commitment and goal, and lists CCRF (Climate Change Response Framework), CCVA, and NIACS in its abbreviations, suggesting Chapter 3 engages specific frameworks. However, the extracted text does not include the chapters where these frameworks would be operationally described. The commitment to 'full inclusion of climate change adaption priorities' and the reference to using 'models and tools for management planning' constitute a generic (non-specific) reference to adaptation planning frameworks. No specific framework (RAD, RRT, SBDA, SDM-in-climate-context, etc.) is named in the available text. Score 1."
+    }
+  },
+  "coding_meta": {
+    "coder": "llm:claude-sonnet-4-6",
+    "model": "claude-sonnet-4-6",
+    "provider": "claude",
+    "codebook_version": "0.4",
+    "ingest": "text",
+    "design": "single",
+    "temperature": null,
+    "thinking": null,
+    "thinking_effort": null,
+    "coded_at": "2026-07-06T18:39:25Z",
+    "notes": {}
+  }
+}

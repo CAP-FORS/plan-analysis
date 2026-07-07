@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main"></title>
+				<funder ref="#_VC957mV #_PJjfyex #_qw99Sz9">
+					<orgName type="full">unknown</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">261E302056E0CB57A60B3B17D0F29D2A</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.1" ident="GROBID" when="2026-07-06T16:20+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract/>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0" /><figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Bees, Wasps, Ants (Hymenoptera)</head><label></label><figDesc>Species of Greatest Conservation Need x Natural Community Association ScoresWisconsin Wildlife Action Plan 2025-2035</figDesc><table><row><cell>SGCN x Natural Community (Habitat) Association Scores High/major (3) -Moderate/important (2) -Low/present (1) SGCNs</cell><cell>Black Spruce Swamp</cell><cell>Boreal Forest</cell><cell>Forested Seep</cell><cell cols="2">Mesic Cedar Forest Northern Forest Mesic Floodplain Terrace Northern Dry Forest--late seral Northern Dry Mesic--late seral Northern Hardwood Swamp Northern Tamarack Swamp Northern Mesic Forest--late seral</cell><cell>Northern Wet Forest</cell><cell>Northern Wet-mesic Forest</cell><cell>Rich Northern Mesic Forest</cell></row><row><cell>Butler's Gartersnake (Thamnophis butleri)</cell><cell>1</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>1</cell></row><row><cell>Western Ribbonsnake (Thamnophis proximus)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>1</cell><cell></cell><cell></cell></row><row><cell>Eastern Ribbonsnake (Thamnophis saurita)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell cols="4">1 1 2 1 2 1</cell></row><row><cell>Timber Rattlesnake (Crotalus horridus)</cell><cell></cell><cell></cell><cell>1</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Eastern Massasauga (Sistrurus catenatus)</cell><cell>2</cell><cell></cell><cell>1</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>I-Rusty Patched Bumble Bee (Bombus affinis)</cell><cell></cell><cell></cell><cell></cell><cell>1 1</cell><cell>1</cell><cell></cell><cell cols="2">1 1</cell></row><row><cell>Frigid Bumble Bee (Bombus frigidus)</cell><cell></cell><cell>1</cell><cell></cell><cell></cell><cell>2</cell><cell></cell><cell></cell></row><row><cell>Yellowbanded Bumble Bee (Bombus terricola)</cell><cell>2</cell><cell></cell><cell></cell><cell cols="5">1 2 2 3 2 2 2 3</cell></row><row><cell>Sanderson's Bumble Bee (Bombus sandersoni)</cell><cell>2</cell><cell></cell><cell></cell><cell cols="5">1 2 2 3 2 2 2 3</cell></row><row><cell>Fernald Cuckoo Bumble Bee (Bombus flavidus)</cell><cell cols="2">2 2</cell><cell></cell><cell>1 1</cell><cell cols="4">1 2 2 3 3</cell></row><row><cell>I-Butterflies, Moths (Lepidoptera)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>West Virginia White (Pieris virginiensis)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>3</cell><cell></cell><cell cols="2">1 3</cell></row><row><cell>Early Hairstreak (Erora laeta)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>3</cell><cell></cell><cell></cell><cell>3</cell></row><row><cell>Frigga Fritillary (Boloria frigga)</cell><cell>2</cell><cell></cell><cell></cell><cell></cell><cell>2</cell><cell></cell><cell></cell></row><row><cell>Freija Fritillary (Boloria freija)</cell><cell>2</cell><cell></cell><cell></cell><cell></cell><cell>2</cell><cell></cell><cell></cell></row><row><cell>Arctic Fritillary (Boloria chariclea)</cell><cell>2</cell><cell></cell><cell></cell><cell></cell><cell>2</cell><cell></cell><cell></cell></row><row><cell>Red-disked Alpine (Erebia discoidalis)</cell><cell>2</cell><cell></cell><cell></cell><cell></cell><cell>2</cell><cell></cell><cell></cell></row><row><cell>Labrador Tea Looper Moth (Syngrapha montana)</cell><cell>3</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>I-</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Crayfish, Amphipods, Sow Bugs (Malacostraca)</head><label></label><figDesc></figDesc><table><row><cell cols="5">Species of Greatest Conservation Need x Natural Community Association Scores</cell><cell></cell><cell></cell><cell></cell></row><row><cell cols="3">Wisconsin Wildlife Action Plan 2025-2035</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>SGCN x Natural Community (Habitat) Association Scores High/major (3) -Moderate/important (2) -Low/present (1) SGCNs</cell><cell>Black Spruce Swamp</cell><cell>Boreal Forest</cell><cell>Forested Seep</cell><cell cols="4">Mesic Cedar Forest Northern Forest Mesic Floodplain Terrace Northern Dry Forest--late seral Northern Dry Mesic--late seral Northern Hardwood Swamp Northern Tamarack Swamp Northern Mesic Forest--late seral</cell><cell>Northern Wet Forest</cell><cell>Northern Wet-mesic Forest</cell><cell>Rich Northern Mesic Forest</cell></row><row><cell>Black Striate (Striatura ferrea)</cell><cell></cell><cell>2</cell><cell></cell><cell>1</cell><cell></cell><cell>3</cell><cell></cell><cell>1 3</cell></row><row><cell>Callused Vertigo (Vertigo arthuri)</cell><cell></cell><cell>1</cell><cell></cell><cell>2</cell><cell></cell><cell>2</cell><cell></cell></row><row><cell>Lichens</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>A Lichen (Collema rugosum)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>1</cell><cell></cell></row><row><cell>A Lichen (Bryoria capillaris)</cell><cell></cell><cell>3</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Lung Lichen (Lobaria pulmonaria)</cell><cell></cell><cell>3</cell><cell></cell><cell></cell><cell>2</cell><cell></cell><cell></cell></row><row><cell>Smooth Lungwort (Ricasolia quercizans)</cell><cell cols="2">2 2</cell><cell></cell><cell cols="3">1 2 3</cell><cell></cell></row><row><cell>A Lichen (Bryoria americana)</cell><cell>2</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>2</cell></row><row><cell>Treeflute (Menegazzia terebrata)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>2</cell><cell></cell></row><row><cell>A Lichen (Caloplaca parvula)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>3</cell><cell></cell><cell></cell></row><row><cell>Yellow Specklebelly Lichen (Pseudocyphellaria crocata)</cell><cell>2</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell cols="2">2 2</cell></row><row><cell>Yellow Specklebelly (Pseudocyphellaria holarctica)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>2</cell><cell></cell></row><row><cell>Dotted Ramalina (Ramalina farinacea)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>2</cell><cell></cell></row><row><cell>Blistered Jelly Lichen (Collema nigrescens)</cell><cell></cell><cell>1</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Warty Beard Lichen (Usnea ceratina)</cell><cell></cell><cell>2</cell><cell></cell><cell>2</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Gold-eye Lichen (Teloschistes chrysophthalmus)</cell><cell></cell><cell>1</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Methuselah's Head Lichen (Usnea longissima)</cell><cell></cell><cell></cell><cell></cell><cell>2</cell><cell></cell><cell></cell><cell>2</cell></row><row><cell>Bony Beard Lichen (Usnea trichodea)</cell><cell cols="2">1 1</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>1</cell></row><row><cell>Eastern Candlewax Lichen (Ahtiana aurescens)</cell><cell>3</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>3</cell><cell></cell></row><row><cell>Jellyskin Lichen (Leptogium hirsutum)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell cols="2">2 1</cell><cell></cell></row><row><cell>Prairie Crayfish (Procambarus gracilis) Curly Jellyskin (Leptogium teretiusculum)</cell><cell></cell><cell></cell><cell></cell><cell>2</cell><cell>1</cell><cell>3</cell><cell></cell><cell>1</cell></row><row><cell>Digger Crayfish (Creaserinus fodiens) Bearded Jellyskin Lichen (Leptogium saturninum)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell cols="2">1 3 2</cell><cell></cell><cell>1</cell></row><row><cell>I-Dragonflies, Damselflies (Odonata) Elf-ear Lichen (Normandina pulchella)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>2</cell><cell></cell><cell></cell></row><row><cell>Subarctic Darner (Aeshna subarctica) Naked Cladonia (Cladonia decorticata)</cell><cell>1</cell><cell></cell><cell></cell><cell>2 2</cell><cell></cell><cell>1</cell><cell>1</cell></row><row><cell>Forcipate Emerald (Somatochlora forcipata) Powder-foot British Soldiers (Cladonia incrassata)</cell><cell>2</cell><cell></cell><cell>1</cell><cell></cell><cell></cell><cell></cell><cell cols="2">2 2 1 1</cell></row><row><cell>Hine's Emerald (Somatochlora hineana) Greater Sulphur Cup (Cladonia sulphurina)</cell><cell>2</cell><cell></cell><cell>2</cell><cell></cell><cell></cell><cell></cell><cell cols="2">2 1</cell><cell>3</cell></row><row><cell>Incurvate Emerald (Somatochlora incurvata) Flaking Tarpaper Lichen (Collema flaccidum)</cell><cell>2</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>2</cell><cell cols="2">1 1</cell></row><row><cell>Ringed Boghaunter (Williamsonia lintneri) Rimmed Shingle Lichen (Fuscopannaria leucosticta)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>1 1</cell></row><row><cell>Sphagnum Sprite (Nehalennia gracilis) Powder-headed Tube Lichen (Hypogymnia tubulosa)</cell><cell>1</cell><cell>3</cell><cell></cell><cell>2</cell><cell></cell><cell></cell><cell>1</cell></row><row><cell>I-Snails (Gastropoda) Wrinkled Jellyskin (Leptogium arsenei)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>2</cell><cell></cell></row><row><cell>Cherrystone Drop (Hendersonia occulta) A Lichen (Leptogium austroamericanum)</cell><cell></cell><cell></cell><cell></cell><cell>1</cell><cell></cell><cell>3 1</cell><cell></cell><cell>1</cell></row><row><cell>Six-whorl Vertigo (Vertigo morsei) Ruffled Jellyskin (Leptogium chloromelum)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>1</cell><cell></cell><cell>1</cell></row><row><cell>Dentate Supercoil (Paravitrea multidentata) Blistered Jellyskin (Leptogium corticola)</cell><cell></cell><cell>2</cell><cell></cell><cell>2</cell><cell></cell><cell>3 1</cell><cell></cell><cell>2 2</cell></row></table></figure>
+		</body>
+		<back>
+
+			<div type="funding">
+<div><p>Oporornis agilis) 3 1 2 2 Evening Grosbeak (Coccothraustes vespertinus) <rs type="grantNumber">1 2 2 2 2 2 2 Mammals Little Brown Bat (Myotis lucifugus) 2 1 2 1 2 2 2 2 2</rs> <rs type="programName">Northern Long-eared Bat (Myotis septentrionalis) 1 1 1 1 1 1 2 2 3 1 1 Silver-haired Bat (Lasionycteris noctivagans</rs>) <rs type="grantNumber">2 3 2 2 2 2 2 2 2 2</rs> <rs type="programName">2 Tricolored Bat (Perimyotis subflavus) 2 Northern Flying Squirrel (Glaucomys sabrinus) 3 3 3 2 2 3 1 3 3 3 1 Woodland Vole (Microtus pinetorum) 1 Woodland Jumping Mouse (Napaeozapus insignis</rs>) <rs type="grantNumber">2 2 2 2 1 1 1 2 3 2 2 2</rs> <rs type="person">American Marten</rs> (<rs type="programName">Martes americana) 1 2 1 3 1 1 3 3 1 1 2 Reptiles Wood Turtle (Glyptemys insculpta) 1 3 2 2 1 3 3 Blanding's Turtle (Emydoidea blandingii) 1 1 Prairie Skink (Plestiodon septentrionalis) 1 1 SGCN x Natural Community (Habitat) Association Scores High/major</rs> (3) -Moderate/important (2) -Low/present (1)</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_VC957mV">
+					<idno type="grant-number">1 2 2 2 2 2 2 Mammals Little Brown Bat (Myotis lucifugus) 2 1 2 1 2 2 2 2 2</idno>
+					<orgName type="program" subtype="full">Northern Long-eared Bat (Myotis septentrionalis) 1 1 1 1 1 1 2 2 3 1 1 Silver-haired Bat (Lasionycteris noctivagans</orgName>
+				</org>
+				<org type="funding" xml:id="_PJjfyex">
+					<idno type="grant-number">2 3 2 2 2 2 2 2 2 2</idno>
+					<orgName type="program" subtype="full">2 Tricolored Bat (Perimyotis subflavus) 2 Northern Flying Squirrel (Glaucomys sabrinus) 3 3 3 2 2 3 1 3 3 3 1 Woodland Vole (Microtus pinetorum) 1 Woodland Jumping Mouse (Napaeozapus insignis</orgName>
+				</org>
+				<org type="funding" xml:id="_qw99Sz9">
+					<idno type="grant-number">2 2 2 2 1 1 1 2 3 2 2 2</idno>
+					<orgName type="program" subtype="full">Martes americana) 1 2 1 3 1 1 3 3 1 1 2 Reptiles Wood Turtle (Glyptemys insculpta) 1 3 2 2 1 3 3 Blanding&apos;s Turtle (Emydoidea blandingii) 1 1 Prairie Skink (Plestiodon septentrionalis) 1 1 SGCN x Natural Community (Habitat) Association Scores High/major</orgName>
+				</org>
+			</listOrg>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0" />			</div>
+			<div type="references">
+
+				<listBibl/>
+			</div>
+		</back>
+	</text>
+</TEI>
+

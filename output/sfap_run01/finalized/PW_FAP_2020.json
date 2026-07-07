@@ -1,0 +1,680 @@
+{
+  "document_meta": {
+    "title": "2021-2030 Republic of Palau Forest Action Plan (Statewide Assessment and Strategy)",
+    "year": 2021,
+    "jurisdiction": "Republic of Palau",
+    "document_type": "Forest Action Plan / Statewide Assessment",
+    "document_id": "PW_FAP_2020",
+    "page_count": 174
+  },
+  "orientation": {
+    "summary": "This document is the 2021-2030 Republic of Palau Forest Action Plan (FAP), a national forest management and assessment document produced by Palau's Ministry of Agriculture, Fisheries and Environment (MAFE) with USDA Forest Service support. The document identifies seven primary issues for Palau's forests, with climate change listed as Issue 1. The document acknowledges climate change as a major threat driving sea level rise, extreme weather, drought, and coastal erosion, but frames these primarily as threats to forests and communities rather than engaging with range shift science per se. There is no discussion of species distributional shifts driven by climate change, and no use of niche models, connectivity models, vulnerability models (CCVI), or formal climate projection tools. The analysis the document performs itself is primarily geospatial prioritization of reforestation and watershed protection areas using GIS layers; most ecological science is referenced from prior inventories and partner reports.",
+    "evidence_index": [
+      {
+        "text": "Global warming is a major threat and issue for coastal forests and communities. Forests act as important carbon sinks that absorb carbon dioxide, a major greenhouse gas and mitigate the impacts of climate change.",
+        "location": "Issue 1 Climate Change",
+        "relevant_elements": ["1.1", "3.5"]
+      },
+      {
+        "text": "The impact of climate change related incidents (super typhoons etc.) coupled with population shifts ... pose increasing threats as a result of storms, flooding and landslides, droughts, fire, deforestation for timber, invasive flora, and fauna",
+        "location": "Introduction",
+        "relevant_elements": ["1.1", "3.5", "3.6", "3.7"]
+      },
+      {
+        "text": "Seawater and freshwater inundation of coastal agroforests is impacting food production in lowland agroforests. The less drastic and gradual rise in sea level is predicted to be from 0.2 to 0.9m by 2100. The state of Kayangel will be completely underwater by 2100 if sea levels rise is close to 1m.",
+        "location": "Sea Level Rise and Coastal Erosion",
+        "relevant_elements": ["1.1", "3.5"]
+      },
+      {
+        "text": "The increased intensity and duration of rainfall attributed to climate change is a major contributing factor. Palau's high rainfall and highly erodable soil make infrastructure design and construction a constant challenge.",
+        "location": "Landslides",
+        "relevant_elements": ["3.5"]
+      },
+      {
+        "text": "These climate changes affect the health of the trees, causing stressed conditions that make trees vulnerable to pathogens and insects. Loss of coral reef barriers and storms cause coastal erosion and loss of beaches in Palau.",
+        "location": "FIGURE caption (climate change/drought section)",
+        "relevant_elements": ["1.1", "3.6", "3.5"]
+      },
+      {
+        "text": "Climate change was considered one of the top challenges to Palau's environment during a national meeting of conservation and environmental professionals in 2016 (NES2016).",
+        "location": "FIGURE caption (climate change/drought section)",
+        "relevant_elements": ["1.1"]
+      },
+      {
+        "text": "This plot will provide baseline information on forest changes and detect recruitment, growth, and death to stressors like climate warming and drought.",
+        "location": "Forest Dynamics Monitoring at Ngardok Nature Reserve",
+        "relevant_elements": ["1.1", "3.6", "4.3"]
+      },
+      {
+        "text": "These data will allow us to investigate how these characteristics change over time and how individual species respond to climate stressors such as drought or severe weather events.",
+        "location": "Forest Dynamics Monitoring at Ngardok Nature Reserve",
+        "relevant_elements": ["1.1", "3.6", "4.3"]
+      },
+      {
+        "text": "A geospatial model developed for the 2010 SWARS to determine the highest priority areas to protect forests from flooding and saltwater intrusion and landslides were also priority areas for the 2021-30 FAP.",
+        "location": "Sea Level Rise and Coastal Erosion",
+        "relevant_elements": ["4.1", "2.4"]
+      },
+      {
+        "text": "The 2021 FAP results from the overlay analysis are shown in Figure1.8. High priority areas for flooding were coastlines 0 to 1m above sea level.",
+        "location": "TABLE (coastal erosion analysis)",
+        "relevant_elements": ["4.1"]
+      },
+      {
+        "text": "Contour data gaps for the sea level rise issue of climate change require 0.5-meter contours along the coastlines to better prioritize areas of the Republic.",
+        "location": "Data Gaps",
+        "relevant_elements": ["4.1", "1.1"]
+      },
+      {
+        "text": "Water storage, distribution and protection are critical for extreme drought periods associated with ENSO events and Climate Change.",
+        "location": "Issue 3 Water Quality and Quantity",
+        "relevant_elements": ["3.5"]
+      },
+      {
+        "text": "A 6% loss in annual taro productions was due to saltwater intrusion (Del Rosario et al., 2015). The Office of Environmental Response and Coordination (OERC) reported a 50% drop in food production during the severe drought in1997-1998. Climate change is a threat to food security with ongoing interventions to rehabilitate taro gardens with salt tolerant taro varieties and drought resilient crops (SOE 2019).",
+        "location": "FIGURE caption (sea level/saltwater intrusion)",
+        "relevant_elements": ["3.5", "4.2"]
+      },
+      {
+        "text": "Most wildfires are initiated by people during drier periods and periods of higher wind contributing to the incidence of uncontrolled fire... During ENSO related drought years, the danger of wildfire increases and the impact of wildfires during these critical periods can be catastrophic.",
+        "location": "Issue 4 Wildfire and Public Safety / TABLE",
+        "relevant_elements": ["3.5", "3.6"]
+      },
+      {
+        "text": "Over twice the total area of vegetation burned in 2015 during a drought/El Nino year, compared to an average year.",
+        "location": "Issue 4 Wildfire and Public Safety",
+        "relevant_elements": ["3.5", "3.6"]
+      },
+      {
+        "text": "These extreme weather conditions are leading to the spread of invasive species into areas where forests are opened up or taro patches or agroforest are",
+        "location": "TABLE (Issue 1 Climate Change summary)",
+        "relevant_elements": ["3.7"]
+      },
+      {
+        "text": "Coastal forests are being lost due to shoreline erosion. Lowland forests along steep slope are being lost to massive landslides after extreme rains. Sea level rise is causing seawater intrusion in taro gardens. Heavy rains and winds are toppling large trees.",
+        "location": "TABLE (Issue 1 Climate Change summary)",
+        "relevant_elements": ["3.5", "3.6"]
+      },
+      {
+        "text": "Key tourist beaches of the southeastern lagoon are eroding away due to several factors including sea level rise, storms, loss of reefs from prolonged elevated sea temperatures",
+        "location": "TABLE (coastal erosion analysis)",
+        "relevant_elements": ["3.5"]
+      },
+      {
+        "text": "By 2021, green solutions are available to enhance resiliency to climate change",
+        "location": "Stakeholder Groups Coordinated (PAN goals)",
+        "relevant_elements": ["4.5"]
+      },
+      {
+        "text": "Increase climate change adaptation benefits from forests",
+        "location": "TABLE (Enhance Public Benefits from Trees and Forests Objective 1)",
+        "relevant_elements": ["4.5", "1.1"]
+      },
+      {
+        "text": "Reforesting bare coastal zones strengthen the water stream banks and slopes, eroded ... regulating services that healthy forests provide",
+        "location": "TABLE (Enhance Public Benefits from Trees and Forests)",
+        "relevant_elements": ["4.1", "4.5"]
+      },
+      {
+        "text": "The Smithsonian Institution's Forest Global Earth Observatory (ForestGEO) was established in the Ngerdorch Reserve for long term monitoring of global climate change. Vulnerable areas were reforested in Ngeremlengui, Ngardmau and Ngiwal and Airai.",
+        "location": "TABLE (2030 Forest Action Plan Issue 1 Climate Change)",
+        "relevant_elements": ["4.1", "4.3", "4.4"]
+      },
+      {
+        "text": "Strategic planning and zoning for adaption to and mitigation of the impacts of Climate Change",
+        "location": "TABLE (Sustainable Land Management Policy 2012)",
+        "relevant_elements": ["4.5"]
+      },
+      {
+        "text": "Mitigate global climate change by working towards low carbon emission development, maximizing energy efficiency, protecting carbon sinks, and minimizing greenhouse gas emissions.",
+        "location": "TABLE (Ministry of Justice / Climate Change Policy)",
+        "relevant_elements": ["1.1", "4.5"]
+      },
+      {
+        "text": "The Guiding Principles for the Palau Climate Change Policy: • Establish a 'No Regrets' approach to national development priorities.",
+        "location": "TABLE (Ministry of Justice / Climate Change Policy)",
+        "relevant_elements": ["4.5"]
+      },
+      {
+        "text": "Work with the States and partners to develop Comprehensive State Forest Management Plans addressing climate change, wildfire, watershed protection, conservation, rehabilitation, and sustainable use of forests",
+        "location": "Written by Ann Hillmann Kitalong (action list)",
+        "relevant_elements": ["4.3", "4.5"]
+      },
+      {
+        "text": "Manage and restore trees and forest to mitigate and adapt to global climate change",
+        "location": "TABLE (USDA Forest Service S&PF priorities)",
+        "relevant_elements": ["4.5"]
+      },
+      {
+        "text": "Six data layers (infrastructure, soil, contour elevation, coastal erosion hazard, forests, and endangered species) were identified by the technical team to be used in the model analysis. Each layer was weighted based upon its perceived relative importance to this issue of landslides, coastal erosion, and flooding",
+        "location": "Sea Level Rise and Coastal Erosion",
+        "relevant_elements": ["4.1", "2.4"]
+      },
+      {
+        "text": "Palau's forests remove 98.57 Gg-CO2 from the atmosphere, serving as Palau's carbon sink(2013 2 nd National Communication on Climate Change).",
+        "location": "TABLE (Population Growth and Urbanization)",
+        "relevant_elements": ["1.1"]
+      },
+      {
+        "text": "Dwarfism may enable specific mangrove species to grow and reproduce in elevated, less optimum conditions and enable them to retreat to higher ground as the sea level rises in the next century.",
+        "location": "TABLE (Status and Trends of Forest Resources)",
+        "relevant_elements": ["1.2", "1.3", "3.5"]
+      },
+      {
+        "text": "The USDA Forest Service Forest Inventory and Analysis (FIA) program in Palau was set up to address long term changes and regular (every 10 years) monitoring of the permanent plots quantifies the impacts and the resilience of Palau's forests to disturbances caused by fires, land clearing, typhoons, and invasive species.",
+        "location": "Forest Dynamics Monitoring at Ngardok Nature Reserve",
+        "relevant_elements": ["4.3", "4.4"]
+      },
+      {
+        "text": "(8) Design Project and Conduct Stakeholder Analysis on Climate Change and Forests; ... (11) Research available materials on Forests and Climate Change; (12) Collaborate with NGOs, PCC, and MOE to develop and disseminated educational materials and a curriculum module for forests and climate change",
+        "location": "TABLE (Population Growth and Urbanization actions)",
+        "relevant_elements": ["4.5"]
+      },
+      {
+        "text": "Povak A. et al (2020) developed a decision support tool for the conservation of tropical forest and nearshore environments on Babeldaob Island, Palau.",
+        "location": "FIGURE caption (decision support tool)",
+        "relevant_elements": ["2.4", "4.1"]
+      },
+      {
+        "text": "Priority areas for reforestation were bare areas and grasslands with highly erodable soils, vulnerable coastal areas subject to flooding where coconuts and other low lying coastal shrubs grow well (Figure 6.7).",
+        "location": "Ngiwal and Ngardmau",
+        "relevant_elements": ["4.1"]
+      },
+      {
+        "text": "In 2020, Palau submitted a 'Forest Stewardship Program Priority Area' (Figure 6.19) to satisfy changing USDA Forest Service Forest Stewardship Program (FSP) requirements. This indicates that nearly all upland areas on Babeldaob are a 'priority' for FSP funding.",
+        "location": "The 2015 Agricultural Survey/Census",
+        "relevant_elements": ["4.1"]
+      },
+      {
+        "text": "The 2021 'priority wildfire areas' (high risk fire locations, where fires occur repeatedly) are where Palau will concentrate efforts to prevent, pre-suppress, control, and suppress the frequency and sizes of wildfires.",
+        "location": "FIGURE caption (wildfire priority areas)",
+        "relevant_elements": ["4.1"]
+      },
+      {
+        "text": "Species are considered threatened due to small population size, or small, restricted, or fragmented habitats or due to past, current, or even perceived future population or habitat decline.",
+        "location": "Endangered Species",
+        "relevant_elements": ["1.1", "1.3"]
+      },
+      {
+        "text": "Identify threats across all critical life stage habitats and to eggs, hatchlings, sub-adults, and adults including from people and climate change",
+        "location": "Endangered Species",
+        "relevant_elements": ["1.1", "3.6"]
+      },
+      {
+        "text": "These data will allow us to investigate how these characteristics change over time and how individual species respond to climate stressors such as drought or severe weather events.",
+        "location": "Forest Dynamics Monitoring at Ngardok Nature Reserve",
+        "relevant_elements": ["1.3", "3.6"]
+      },
+      {
+        "text": "The GEF6 project has produced a report entitled Climate Smart Resilient Development in Melekeok State",
+        "location": "TABLE (Population Growth and Urbanization)",
+        "relevant_elements": ["4.5"]
+      },
+      {
+        "text": "Warming has allowed invasive cheatgrass to expand its range into higher elevations previously dominated by native bunchgrasses.",
+        "location": "N/A - this is a dictionary example, NOT from the document",
+        "relevant_elements": []
+      }
+    ]
+  },
+  "concepts": {
+    "climate_vulnerability": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Global warming is a major threat and issue for coastal forests and communities. Forests act as important carbon sinks that absorb carbon dioxide, a major greenhouse gas and mitigate the impacts of climate change.",
+          "location": "Issue 1 Climate Change",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document treats climate change as a major threat and mentions 'vulnerable forests habitats' and 'vulnerable areas' several times, but does not articulate exposure or adaptive capacity in the IPCC sense. The concept of vulnerability is used loosely (e.g., 'vulnerable coastal areas') without framing it in terms of climate exposure or adaptive capacity components. Score 1 because climate vulnerability is referenced in a non-specific way without the exposure/adaptive capacity decomposition needed for score 2."
+    },
+    "adaptive_capacity_specificity": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Dwarfism may enable specific mangrove species to grow and reproduce in elevated, less optimum conditions and enable them to retreat to higher ground as the sea level rises in the next century.",
+          "location": "TABLE (Status and Trends of Forest Resources)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "There is one brief passage mentioning mangrove species capacity to persist and move as sea level rises — a peripheral reference to adaptive capacity. The document does not use the term 'adaptive capacity' explicitly or operationalize it with specific components. Score 1 (non-specific reference) rather than 2 because no specific components are named in a climate-adaptation framing."
+    },
+    "adaptive_capacity_components": {
+      "demography": {
+        "present": false,
+        "evidence": []
+      },
+      "distribution": {
+        "present": false,
+        "evidence": []
+      },
+      "movement": {
+        "present": false,
+        "evidence": []
+      },
+      "evolutionary_potential": {
+        "present": false,
+        "evidence": []
+      },
+      "ecological_dependencies": {
+        "present": false,
+        "evidence": []
+      },
+      "abiotic_niche": {
+        "present": false,
+        "evidence": []
+      },
+      "life_history": {
+        "present": false,
+        "evidence": []
+      }
+    },
+    "connectivity": {
+      "evaluable": true,
+      "score": 0,
+      "evidence": [],
+      "absence_note": "The document does not discuss wildlife corridors, habitat connectivity, climate corridors, or landscape permeability in any climate-relevant context. Buffer zones along rivers are discussed but in the context of water quality protection and reforestation, not species movement or climate-driven connectivity."
+    }
+  },
+  "tools": {
+    "vulnerability_models": {
+      "evaluable": true,
+      "score": 0,
+      "named_tools": [],
+      "evidence": [],
+      "absence_note": "No vulnerability models (CCVI, PVA, or similar) are referenced anywhere in the document. Climate vulnerability assessments are not mentioned."
+    },
+    "niche_models": {
+      "evaluable": true,
+      "score": 0,
+      "named_tools": [],
+      "evidence": [],
+      "absence_note": "No species distribution models, ecological niche models, MaxEnt, or related tools are mentioned. The document uses GIS-based spatial analysis with infrastructure, soils, elevation, and forest cover layers — not SDMs."
+    },
+    "climate_models": {
+      "evaluable": true,
+      "score": 0,
+      "named_tools": [],
+      "evidence": [],
+      "absence_note": "The document mentions climate change throughout but does not reference any GCM, downscaled climate product, RCP/SSP scenarios, or named climate modeling tools. Sea level rise projections (0.2–0.9m by 2100) are cited but attributed to general climate change science without naming a model or scenario. The 2013 Second National Communication on Climate Change is cited but not operationally integrated into the plan's modeling. This is a climate-aware document scoring 0 for this element per the codebook.",
+      "time_horizon_years": [],
+      "emission_scenarios": []
+    },
+    "connectivity_models": {
+      "evaluable": true,
+      "score": 0,
+      "named_tools": [],
+      "evidence": [],
+      "absence_note": "The document uses GIS spatial analysis (via PALARIS) for land cover mapping and reforestation prioritization, but this is not connectivity modeling. Povak et al. (2020)'s decision support tool is mentioned for conservation prioritization on Babeldaob but is not a connectivity model and is not framed in terms of species movement or climate-driven range shifts."
+    }
+  },
+  "context": {
+    "management_scale": {
+      "local": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The 2021-2030 priority sites for mitigation efforts for landslides through reforestation and civil engineering as follows: Malakal Quarry, the Ngerikiil Road Tmetuchl National Airport in Airai State",
+            "location": "Landslides",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "site": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The 2021 'priority wildfire areas' (high risk fire locations, where fires occur repeatedly) are where Palau will concentrate efforts to prevent, pre-suppress, control, and suppress the frequency and sizes of wildfires.",
+            "location": "FIGURE caption (wildfire priority areas)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "watershed": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Twenty upper watersheds provide public drinking water to Babeldaob and Koror. These priority upper watersheds are indicated in blue",
+            "location": "Issue 3 Water Quality and Quantity",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "city": {
+        "present": false,
+        "evidence": []
+      },
+      "county": {
+        "present": false,
+        "evidence": []
+      },
+      "within_state_region": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Spatial data gaps existed for the States of Angaur, Peleliu, Kayangel, Sonsorol and Hatohobei and parts of Koror.",
+            "location": "Introduction",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "state": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Work with the States and partners to develop Comprehensive State Forest Management Plans addressing climate change, wildfire, watershed protection, conservation, rehabilitation, and sustainable use of forests",
+            "location": "Written by Ann Hillmann Kitalong (action list)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "multistate": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "In 2006, the Babeldaob Watershed Alliance was formed to help states sharing the same watershed coordination efforts through Conservation Action Plans to better protect and manage their forests and water supplies.",
+            "location": "FIGURE caption (watershed priority areas)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "national": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "This assessment analyzes Palau's current forest conditions and trends and delineates priority rural and urban forest landscapes from which the 2021 nation-wide strategy was developed.",
+            "location": "Introduction",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "transnational": {
+        "present": false,
+        "evidence": []
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Mangrove forests are found in the Rock Islands, along the coasts and the edge of marine lakes. Mangroves provide potential ecosystem services as follows: a buffer that reduces the impacts from storms and surge waves along coastal areas",
+            "location": "Mangrove forests",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecoregion": {
+        "present": false,
+        "evidence": []
+      },
+      "province": {
+        "present": false,
+        "evidence": []
+      },
+      "section": {
+        "present": false,
+        "evidence": []
+      },
+      "subsection": {
+        "present": false,
+        "evidence": []
+      },
+      "lake": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The Ngerdorch Watershed and Lake Ngardok and floodplains of the Ngermeskang Watershed and River are important habitats for the water birds",
+            "location": "National Forest Monitoring Program",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "river": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The main source of drinking water for Palau's population is the Ngerikiil Watershed.",
+            "location": "TABLE (Issue 1 Climate Change summary)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "district": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["Babeldaob", "Ngerikiil Watershed", "Lake Ngardok", "Koror", "Airai State", "Ngeremlengui", "Kayangel", "Hatohobei", "Sonsorol", "Malakal Quarry", "Ngardmau", "Ngchesar", "Ngaraard", "Babeldaob Watershed Alliance", "Protected Areas Network (PAN)"]
+    },
+    "biological_unit_score": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Species are considered threatened due to small population size, or small, restricted, or fragmented habitats or due to past, current, or even perceived future population or habitat decline.",
+          "location": "Endangered Species",
+          "sub_component": "species/habitat",
+          "citations": []
+        },
+        {
+          "text": "The USDA Forest Service Forest Inventory and Analysis (FIA) program in Palau was set up to address long term changes and regular (every 10 years) monitoring of the permanent plots quantifies the impacts and the resilience of Palau's forests to disturbances caused by fires, land clearing, typhoons, and invasive species.",
+          "location": "Forest Dynamics Monitoring at Ngardok Nature Reserve",
+          "sub_component": "ecosystem/habitat",
+          "citations": []
+        }
+      ],
+      "absence_note": "The document discusses species (endangered species, SGCN-equivalent species) and habitats/ecosystems (mangrove forests, volcanic forests, limestone forests) in climate-relevant contexts. Score 2 for two or more biological units."
+    },
+    "biological_unit_components": {
+      "species": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Identify threats across all critical life stage habitats and to eggs, hatchlings, sub-adults, and adults including from people and climate change",
+            "location": "Endangered Species",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "population": {
+        "present": false,
+        "evidence": []
+      },
+      "habitat": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Managers are increasingly challenged to address these threats in an effective and efficient way that will ensure that available funds result in positive outcomes that mitigate impacts and that enable islands to adapt with a focus on their most vulnerable forests habitats.",
+            "location": "Introduction",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Healthy Forest Ecosystems provide services that benefit society. Addressing threats (such as invasive species) to the health of forests consistently requires a collaborate on coordinated and activates that collaborative ensure forest ecosystem health",
+            "location": "TABLE (Protect Forests from Harm)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "community": {
+        "present": false,
+        "evidence": []
+      },
+      "genotype_phenotype": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["mangrove forests", "volcanic forests", "limestone forests", "swamp forests", "savanna grasslands", "coastal forests", "agroforests", "Ponapea palauensis", "Parkia parvifoliola", "Hydriastele palauensis", "hawksbill turtle", "green turtle", "Cycas micronesica", "Serianthes kanehirae", "Casuarina equisetifolia"]
+    },
+    "partnerships_and_funding": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "USDA Forest Service State and Private Forestry (S& PF) financial assistance can support Palau's forestry program to shape and influence use of forest land to optimize benefits from trees and forests for both present and future generations.",
+          "location": "TABLE (USDA Forest Service S&PF priorities)",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "A national project implemented by MAFE entitled Integrating Biodiversity Safeguards and Conservation into Development funded through the Global Environment Facility is working with the States of Ngiwal, Ngeremlengui, Ngaraard, Ngardmau, Ngarchelong, and Melekeok",
+          "location": "TABLE (USDA Forest Service S&PF priorities)",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "In partnership with Palauan State, Government and Non-Government Organizations (NGOs), the Smithsonian Center for Tropical Forest Science (CTFS) established the first permanent forest dynamic plot",
+          "location": "Forest Dynamics Monitoring at Ngardok Nature Reserve",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document describes multiple active partnerships (USDA Forest Service, GEF, Smithsonian ForestGEO, Palau Conservation Society, Belau National Museum, TNC, NGOs, state governments) with active funding streams (USFS S&PF, GEF5, GEF6) implementing climate-change-related forest management actions. Score 2 for strategic investment with active partnerships implementing actions."
+    },
+    "climate_threat_habitat_degradation": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Seawater and freshwater inundation of coastal agroforests is impacting food production in lowland agroforests. The less drastic and gradual rise in sea level is predicted to be from 0.2 to 0.9m by 2100. The state of Kayangel will be completely underwater by 2100 if sea levels rise is close to 1m.",
+          "location": "Sea Level Rise and Coastal Erosion",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_threat_species_vital_rates": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "These climate changes affect the health of the trees, causing stressed conditions that make trees vulnerable to pathogens and insects.",
+          "location": "FIGURE caption (climate change/drought section)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document discusses climate-induced stress leading to pathogens and insects affecting tree health — a direct effect on species survival. The forest monitoring plot at Ngardok is described as detecting 'recruitment, growth, and death to stressors like climate warming and drought,' which implies vital rate impacts. Score 1 is appropriate as this framing links climate events to organism-level outcomes."
+    },
+    "climate_threat_biotic_stressors": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "These extreme weather conditions are leading to the spread of invasive species into areas where forests are opened up or taro patches or agroforest are",
+          "location": "TABLE (Issue 1 Climate Change summary)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document links extreme climate events (super typhoons, droughts) to the spread of invasive species into opened forest areas — this qualifies as a climate-driven biotic stressor per the codebook definition. The connection between climate and invasion is explicit in this passage."
+    }
+  },
+  "actions": {
+    "priority_habitat_identification": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "The 2021 FAP results from the overlay analysis are shown in Figure1.8. High priority areas for flooding were coastlines 0 to 1m above sea level. Koror has one of the highest priorities because it is the most densely populated State.",
+          "location": "TABLE (coastal erosion analysis)",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "In 2020, Palau submitted a 'Forest Stewardship Program Priority Area' (Figure 6.19) to satisfy changing USDA Forest Service Forest Stewardship Program (FSP) requirements. This indicates that nearly all upland areas on Babeldaob are a 'priority' for FSP funding.",
+          "location": "The 2015 Agricultural Survey/Census",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document spatially identifies priority areas for reforestation and protection in climate-relevant contexts (sea level rise flooding zones, landslide-prone areas, wildfire-prone areas, watershed protection zones) using GIS analysis with mapped outputs (Figures 1.8, 4.1, 4.3, 5.15, 6.19, etc.). Score 2 for spatially represented priority habitat identification addressing climate-induced threats."
+    },
+    "targeted_range_shift_actions": {
+      "evaluable": true,
+      "score": 0,
+      "evidence": [],
+      "absence_note": "The document discusses no actions specifically targeting climate-driven species range shifts. Reforestation and translocation of endangered species (e.g., Ponapea palauensis) are framed in terms of species recovery and habitat restoration, not as responses to climate-driven range shifts. Assisted colonization of salt-tolerant taro varieties is mentioned but in food security terms, not range-shift facilitation. There are no climate corridors or climate-motivated translocations discussed."
+    },
+    "time_bound_and_monitoring": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "The forest monitoring plot at Ngardok will be re-measured every 4-5 years through the collaboration ofthe DFLW, MCN, and the USDA Forest Service.",
+          "location": "Forest Dynamics Monitoring at Ngardok Nature Reserve",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The action tables list starting years (e.g., 2021, 2022, 2025) for some actions, which constitutes time-binding. The forest monitoring program has an established cycle (every 4-5 years for the ForestGEO plot, every 10 years for FIA). However, the action tables do not consistently pair specific deadlines with individual actions, and effectiveness monitoring is not systematically tied to the climate-related actions at the action level (the monitoring mentioned is primarily for forest health broadly, not for specific climate adaptation actions). Score 1 rather than 2 because the deadlines are present in some tables but effectiveness monitoring is not operationalized for climate-specific actions."
+    },
+    "evidence_of_efficacy": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "A comparison of aerial photographs between 1968 and 2005 showed that mangroves forests within Airai Bay nearly doubled in size (from 4.2 to 7.9 km 2 ) in a 37-year period at a rate of 0.1 km 2 yr-1.",
+          "location": "Savanna grasslands",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Trees planted in Ngeremlengui and Ngiual had an average survival rate of 90%. A total of 39 sediment traps which constituted planting of 2,115 lemon grass with log fences was installed in the area to reduce soil erosion",
+          "location": "Written by Ann Hillmann Kitalong (action outcomes section)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document provides some quantitative evidence from prior reforestation projects (survival rates, area restored, carbon sequestration) and from long-term monitoring (FIA, ForestGEO). However, this evidence is primarily from related contexts (general reforestation, watershed protection) rather than from actions explicitly designed for climate adaptation. The evidence base is limited in its direct applicability to climate-specific adaptation actions. Score 2 (limited evidence) rather than 3 (strong evidence) because the studies cited are from the same system and taxa but do not directly test climate adaptation action efficacy.",
+      "projects": ["Ngeremlengui Forest Stewardship Ebiil Project: Reforestation in Ngeremlengui demonstrated 90% survival rate of planted trees after 3-5 years and an estimated 34 tons/year soil loss reduction — providing limited but direct evidence for reforestation efficacy under field conditions in Palau.", "ForestGEO Ngardok permanent plot: A 4-hectare permanent forest monitoring plot established in 2018 provides long-term data on tree growth, survivorship, and mortality in response to climate stressors (drought, severe weather), offering baseline evidence for climate impacts on Palau's forests.", "FIA program: Two rounds of forest inventory (1988 and 2007) documented forest conditions and trends, providing evidence of forest resilience and change in response to disturbances including typhoons and fire — limited applicability for climate adaptation actions specifically."]
+    },
+    "adaptation_planning_frameworks": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Increase climate change adaptation benefits from forests",
+          "location": "TABLE (Enhance Public Benefits from Trees and Forests Objective 1)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document references climate change adaptation as an objective and frames actions in terms of 'adapting' to climate change impacts. The 2015 Palau Climate Change Policy (referenced in the document) includes a 'No Regrets' approach. However, no specific named climate adaptation planning frameworks (RAD, RRT, CCVA, SBDA, Structured Decision Making, adaptation menus, or similar) are referenced or applied. Score 1 for non-specific reference to adaptation planning."
+    }
+  },
+  "coding_meta": {
+    "coder": "llm:claude-sonnet-4-6",
+    "model": "claude-sonnet-4-6",
+    "provider": "claude",
+    "codebook_version": "0.4",
+    "ingest": "text",
+    "design": "single",
+    "temperature": null,
+    "thinking": null,
+    "thinking_effort": null,
+    "coded_at": "2026-07-07T00:31:32Z",
+    "notes": {}
+  }
+}

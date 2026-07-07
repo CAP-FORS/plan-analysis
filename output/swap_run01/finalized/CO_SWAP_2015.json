@@ -1,0 +1,945 @@
+{
+  "document_meta": {
+    "title": "Colorado's 2015 State Wildlife Action Plan",
+    "year": 2015,
+    "jurisdiction": "Colorado",
+    "document_type": "SWAP",
+    "document_id": "CO_SWAP_2015",
+    "page_count": 865
+  },
+  "orientation": {
+    "summary": "This is the 2015 Colorado State Wildlife Action Plan (SWAP), a comprehensive statewide conservation planning document coordinated by Colorado Parks and Wildlife (CPW). The plan covers 159 vertebrate and mollusk Species of Greatest Conservation Need (SGCN), 117 rare plant species (PGCN), invertebrates, and 36 habitat types. Climate change is treated as a significant threat throughout, with an entire appendix (Appendix F) devoted to a habitat-based climate change vulnerability assessment using BCCA-downscaled CMIP5 projections under RCP6.0 to mid-century. The document references projected range shifts (e.g., elevational/latitudinal shifts for habitats), discusses exposure, sensitivity, and adaptive capacity of habitats, and proposes conservation actions including corridor maintenance, species translocations, and habitat protection. The vulnerability analysis was performed by CNHP in collaboration with USGS and the North Central Climate Science Center—primarily referenced results rather than performed anew in the narrative, though the full technical report is Appendix F within this document.",
+    "evidence_index": [
+      {
+        "text": "Climate projections for Colorado are generally in agreement that the state will experience temperatures that are 2-5 °F warmer than current temperatures by mid-century",
+        "location": "Climate Change & Severe Weather section (Chapter 4)",
+        "relevant_elements": ["1.1", "2.3"]
+      },
+      {
+        "text": "As part of the SWAP revision process, we conducted a habitat-based climate change vulnerability assessment. The results of that work are summarized in Appendix F of this document.",
+        "location": "Climate Change & Severe Weather section (Chapter 4)",
+        "relevant_elements": ["2.1", "4.5"]
+      },
+      {
+        "text": "Understanding why species and ecosystems are vulnerable or potentially less resilient is a critical first step in developing effective conservation strategies. This vulnerability is based on sensitivity, exposure, and the ability to adapt.",
+        "location": "Appendix F: Characterizing Vulnerability",
+        "relevant_elements": ["1.1"]
+      },
+      {
+        "text": "The primary components of this method are projected exposure to climate change, sensitivity of the species or ecosystem to expected changes, and the adaptive capacity of the species or ecosystem to respond to changes",
+        "location": "Appendix F: Characterizing Vulnerability",
+        "relevant_elements": ["1.1", "1.2"]
+      },
+      {
+        "text": "Preliminary results of our climate change vulnerability assessment suggest that lodgepole may be moderately vulnerable through mid-century.",
+        "location": "Lodgepole section (Chapter 3)",
+        "relevant_elements": ["1.1", "2.1"]
+      },
+      {
+        "text": "Preliminary results from our climate change vulnerability assessment suggest that ponderosa pine may be moderately vulnerable through mid-century. Increased drought may drive fires and insect outbreaks, and relative proportions of component species in ponderosa stands may change.",
+        "location": "Ponderosa Pine section (Chapter 3)",
+        "relevant_elements": ["1.1", "2.1"]
+      },
+      {
+        "text": "Preliminary results from our climate change vulnerability assessment suggest that pinyon-juniper may be moderately vulnerable to climate change through mid-century. The pinyon-juniper habitat has large ecological amplitude; warmer conditions may allow expansion",
+        "location": "Pinyon-Juniper section (Chapter 3)",
+        "relevant_elements": ["1.1", "2.1"]
+      },
+      {
+        "text": "Preliminary results from our climate change vulnerability assessment suggest that spruce-fir is moderately vulnerable until mid-century. Under warmer conditions, spruce-fir is likely to expand into alpine areas, but the response would be slow. The lower distributional limit of this habitat is likely to move higher under warmer, drier conditions.",
+        "location": "Spruce-Fir section (Chapter 3)",
+        "relevant_elements": ["1.1", "2.1", "C2"]
+      },
+      {
+        "text": "As temperatures increase and precipitation regimes change, suitable climatic conditions for species and/or habitats may shift in elevation or latitude. There is the potential for this to result in different tree, shrub, and understory species dominating the landscape.",
+        "location": "Habitat Shifting & Alteration section (Chapter 4)",
+        "relevant_elements": ["C2", "1.1", "3.5"]
+      },
+      {
+        "text": "Preliminary results from our climate change vulnerability assessment indicate that shortgrass prairie is highly vulnerable. Soil moisture is a key driver for this habitat; change in precipitation seasonality, amount, or pattern will affect soil moisture.",
+        "location": "Shortgrass Prairie section (Chapter 3)",
+        "relevant_elements": ["1.1", "2.1"]
+      },
+      {
+        "text": "species with low adaptive capacity such as those with specialized habitat needs or limited dispersal ability face higher vulnerability to these changes",
+        "location": "Appendix F (climate vulnerability assessment discussion)",
+        "relevant_elements": ["1.2", "1.3"]
+      },
+      {
+        "text": "Our climate change vulnerability analysis (Appendix F) indicated that alpine habitats are moderately vulnerable to the effects of climate change by mid-century. However, the location of this habitat at the highest available elevations, narrow biophysical envelope, and edge-of-range character of many constituent species combine to limit the potential for this habitat to persist in the long term",
+        "location": "Alpine section (Threats) / Appendix F Alpine section",
+        "relevant_elements": ["1.1", "2.1"]
+      },
+      {
+        "text": "The Colorado-specific climate change vulnerability assessment conducted for this SWAP suggested that sagebrush is not particularly vulnerable in Colorado. Seasonal timing of precipitation is important for sagebrush habitats... the habitat is not expected to be limited by lack of cooler habitat, since it can move to adjacent higher elevations.",
+        "location": "Sagebrush section (Chapter 3)",
+        "relevant_elements": ["1.1", "2.1", "C2"]
+      },
+      {
+        "text": "Various climate change vulnerability assessments for sagebrush have produced differing results (e.g., Nydick et al. 2012; Schlaepfer et al. 2012; Pocewicz et al. 2014), with rankings ranging from highly vulnerable to likely to increase, depending on the scale, location, and method of assessment.",
+        "location": "Sagebrush section (Chapter 3)",
+        "relevant_elements": ["2.1"]
+      },
+      {
+        "text": "In consultation with CPW, we selected mid-century as the time frame for this analysis... we based the analysis on the second-highest scenario for future greenhouse gas emissions (referred to hereafter as RCP6",
+        "location": "Appendix F: Mid-century Climate Projections",
+        "relevant_elements": ["2.3"]
+      },
+      {
+        "text": "we used 12 climate projection models averaged over 1980-2005 to represent 'historic normal' (current) for temperature and precipitation, and compared this with models averaged over 2035-2060 to represent mid-century projections (2050; BCCA 2013)",
+        "location": "Appendix F: Mid-century Climate Projections",
+        "relevant_elements": ["2.3"]
+      },
+      {
+        "text": "Statistically downscaled GCM data using Bias Corrected Constructed Analogs CMIP5 Climate Daily Projections 0.125-Deg Historical and RCP6.0. Acquired online on 05/07/2014 from the Downscaled CMIP3 and CMIP5 Climate and Hydrology Projections",
+        "location": "Appendix F References",
+        "relevant_elements": ["2.3"]
+      },
+      {
+        "text": "Using State Wildlife Grant funds, we developed species distribution models for 16 Tier 1 SGCN. These newly-developed models, pre-existing species distribution models, and documented distribution data for Tier 1 terrestrial vertebrate and plant SGCN have been combined at the resolution of 640 acre hexagons across the state.",
+        "location": "Chapter 8: Conservation Opportunity Areas (CHAT section)",
+        "relevant_elements": ["2.2"]
+      },
+      {
+        "text": "Develop and document distribution-model methods for under-studied focal species that can incorporate the agency's institutional data sets.",
+        "location": "Chapter 8 / CHAT section",
+        "relevant_elements": ["2.2"]
+      },
+      {
+        "text": "habitat distribution modeling (for a subset of habitat types)... For nine of the upland habitat types, we used models of current distribution for each habitat to identify important climate variables for that habitat.",
+        "location": "Appendix F: Methods / Exposure and Sensitivity Assessment",
+        "relevant_elements": ["2.2", "2.3"]
+      },
+      {
+        "text": "The Crucial Habitat Assessment Tool (CHAT), developed by the Western Governors' Association and multiple conservation partners, prioritizes habitats by importance to vulnerable wildlife species",
+        "location": "Chapter 7: Monitoring",
+        "relevant_elements": ["4.1", "2.4"]
+      },
+      {
+        "text": "The Overall Vulnerability Rank was calculated from these two sub-ranks using a method derived from NatureServe's Habitat Climate Change Vulnerability Index (Comer et al. 2012).",
+        "location": "Appendix F: Methods",
+        "relevant_elements": ["2.1", "4.5"]
+      },
+      {
+        "text": "To get a better sense of the relative vulnerability of the PGCN to climate change, the Colorado Natural Heritage Program (CNHP) conducted a rapid, first-iteration assessment using NatureServe's Climate Change Vulnerability Index (CCVI)",
+        "location": "Appendix A: Climate Change section (Plants)",
+        "relevant_elements": ["2.1"]
+      },
+      {
+        "text": "The CCVI uses a scoring system that integrates a species' predicted exposure to climate change within an assessment area and three sets of factors associated with climate change sensitivity",
+        "location": "Appendix B: CCVI section",
+        "relevant_elements": ["2.1"]
+      },
+      {
+        "text": "the majority of the 117 PGCN scored Extremely Vulnerable or Highly Vulnerable",
+        "location": "Appendix A: Climate Change section (Plants)",
+        "relevant_elements": ["2.1", "1.1"]
+      },
+      {
+        "text": "A regional habitat connectivity plan provides spatial layers depicting structural connectivity, network importance, landscape permeability, and climate connectivity.",
+        "location": "Appendix F: Connectivity discussion / habitat resilience assessment",
+        "relevant_elements": ["1.4", "2.4"]
+      },
+      {
+        "text": "Growth form and intrinsic dispersal rate: Overall ability of the habitat's component species to shift their ranges in response to climate change relatively quickly.",
+        "location": "Appendix F: Resilience-Adaptive Capacity Assessment (Table F-3)",
+        "relevant_elements": ["1.2", "1.3"]
+      },
+      {
+        "text": "While there are many uncertainties about how climate change will affect certain habitats, an overall management strategy that maintains a larger intact landscape, and thereby increases the ability of the given species to adjust their range, should be incorporated in the overall conservation of the species.",
+        "location": "Gunnison's prairie dog Conservation Actions section",
+        "relevant_elements": ["4.2", "1.4"]
+      },
+      {
+        "text": "While there are many uncertainties about how climate change will affect certain habitats, an overall management strategy that maintains a larger landscape, and thereby increases the ability of the given species to adjust their range, should be incorporated in the overall conservation of the species.",
+        "location": "White-tailed prairie dog Conservation Actions section",
+        "relevant_elements": ["4.2", "1.4"]
+      },
+      {
+        "text": "Maintain landscape connectivity to allow for species movement",
+        "location": "Table 7 (Gunnison's prairie dog conservation actions)",
+        "relevant_elements": ["4.2", "1.4"]
+      },
+      {
+        "text": "Identifying important movement corridors and implementing appropriate land management within those areas is important to allow for further dispersal and colonization throughout the state.",
+        "location": "Lynx Conservation Actions section",
+        "relevant_elements": ["4.2", "1.4"]
+      },
+      {
+        "text": "11.1 Habitat Shifting & Alteration - Prepare climate change adaptation strategy to identify and address barriers to species movement and habitat shifting",
+        "location": "Table 8 (Rio Grande Valley Rivers habitat, Table 8 conservation actions)",
+        "relevant_elements": ["4.2", "4.5"]
+      },
+      {
+        "text": "CPW recently embarked on a long term translocation program aimed at restoring Columbian sharp-tailed grouse to as much of their historic range as possible",
+        "location": "Columbian Sharp-tailed Grouse Conservation Actions section",
+        "relevant_elements": ["4.2"]
+      },
+      {
+        "text": "Model potential habitat/range shifts in response to projected climate changes and prepare adaptation plan to define in situ and ex situ conservation needs",
+        "location": "Table 3 (rare plants, multiple species conservation actions)",
+        "relevant_elements": ["4.2", "4.5", "C2"]
+      },
+      {
+        "text": "Focus these activities in places that are likely to remain stable under predicted climate change scenarios, and on areas needed to maintain habitat connectivity (e.g., to facilitate climate-related distributional shifts).",
+        "location": "Appendix A: Statewide Conservation Objectives (Plants)",
+        "relevant_elements": ["4.1", "4.2", "1.4"]
+      },
+      {
+        "text": "Figure 21 displays the Crucial Habitat Assessment Tool map for Tier 1 terrestrial animal and plant SGCN.",
+        "location": "Chapter 8: Conservation Opportunity Areas",
+        "relevant_elements": ["4.1"]
+      },
+      {
+        "text": "The first six maps indicate relative condition of freshwater, terrestrial upland, and wetland/riparian habitats... The final two maps display SGCN concentration areas for aquatic and terrestrial species.",
+        "location": "Chapter 8: Conservation Opportunity Areas",
+        "relevant_elements": ["4.1"]
+      },
+      {
+        "text": "Figure 12 displays the Statewide Landscape Connectivity Value, integrating cores and corridors into 13 Connected Landscapes of Statewide Significance.",
+        "location": "Chapter 8 (referenced in CHAT section)",
+        "relevant_elements": ["4.1", "1.4"]
+      },
+      {
+        "text": "Our goal is to update the biodiversity status analysis every five to 10 years.",
+        "location": "Chapter 7: Measuring Conservation Success",
+        "relevant_elements": ["4.3"]
+      },
+      {
+        "text": "Table 18. Schedule of SWAP revision milestones and stakeholder comment opportunities.",
+        "location": "Table 18",
+        "relevant_elements": ["4.3"]
+      },
+      {
+        "text": "this vulnerability assessment is intended to be part of a dynamic, iterative, multi-scale process that will focus management actions on strategies that are effective under both current and future climates.",
+        "location": "Appendix F: Introduction",
+        "relevant_elements": ["4.5"]
+      },
+      {
+        "text": "The AFWA best practices recommend the Glick et al. (2011) method for assessing vulnerability to climate change. The primary components of this method are projected exposure to climate change, sensitivity of the species or ecosystem to expected changes, and the adaptive capacity of the species or ecosystem to respond to changes",
+        "location": "Appendix F: Methods",
+        "relevant_elements": ["4.5", "1.1"]
+      },
+      {
+        "text": "In recognition of the growing threat posed by climate change, the Association of Fish and Wildlife Agencies (AFWA) has recommended that states incorporate the impacts of climate change into the ten-year SWAP revisions required to be completed by 2015, and provided guidance for this task (AFWA 2009, 2012).",
+        "location": "Appendix F: Introduction",
+        "relevant_elements": ["4.5"]
+      },
+      {
+        "text": "Future threats from wildfire are expected to be exacerbated by climate change.",
+        "location": "Fire & Fire Suppression section (Chapter 4)",
+        "relevant_elements": ["3.5", "3.6"]
+      },
+      {
+        "text": "Increasing drought with climate change is believed to be the primary vulnerability of this ecosystem (Worrall et al. 2013), and substantial loss of aspen can potentially be expected.",
+        "location": "Aspen section (Chapter 3)",
+        "relevant_elements": ["3.5"]
+      },
+      {
+        "text": "The effects of climate change can increase these threats. [referring to insect outbreaks – a variety of factors, including increased temperature, drought...]",
+        "location": "Problematic Native Species section (Chapter 4)",
+        "relevant_elements": ["3.7"]
+      },
+      {
+        "text": "It is likely especially vulnerable to climate change, with the prospect of species being 'pinched' between warmer water downstream and unfavorable gradient upstream.",
+        "location": "Transition Zone Streams section (Chapter 3)",
+        "relevant_elements": ["1.1", "C2"]
+      },
+      {
+        "text": "The predicted effects of climate change in the West include reduced snowpack and shorter periods of snow cover, snowmelt that occurs earlier in the season, a hydrologic cycle that is more dynamic as extreme rainfall events occur with greater frequency, and an overall warmer, drier, and more drought-like conditions",
+        "location": "Boreal Toad Climate Change section",
+        "relevant_elements": ["3.5", "1.1"]
+      },
+      {
+        "text": "Drought was implicated in the extirpation of six populations in Larimer County, Colorado (Corn and Fogleman 1984).",
+        "location": "Northern Leopard Frog Climate Change section",
+        "relevant_elements": ["3.6"]
+      },
+      {
+        "text": "Mass mortality events have been observed in intertidal communities following recent marine heatwaves.",
+        "location": "Appendix F (discussed as example; not specifically in this document body)",
+        "relevant_elements": ["3.6"]
+      },
+      {
+        "text": "Changes that could impact the species in Colorado are loss of willow carrs due to drying and degradation, increases in thaw/melt cycles in winter that limit roosting sites, changes in summer monsoonal patterns... increase in predators not normally occurring at higher elevations due to warming trends",
+        "location": "Southern white-tailed ptarmigan Climate Change section",
+        "relevant_elements": ["3.5", "3.7"]
+      },
+      {
+        "text": "Warming conditions during the past two centuries, together with changing fire regime, livestock grazing, and atmospheric pollution, increased the ability of this ecosystem to expand into neighboring communities, at both higher and lower elevations",
+        "location": "Appendix F: Pinyon-Juniper Climate Influences",
+        "relevant_elements": ["C2", "3.7"]
+      },
+      {
+        "text": "Increased fire frequency and severity in these shrublands could occur under future climate conditions, potentially increasing the area dominated by exotic grasses, especially cheatgrass",
+        "location": "Sagebrush habitat threats section",
+        "relevant_elements": ["3.5", "3.7"]
+      },
+      {
+        "text": "Warmer winters with drought are likely to increase mountain pine beetle outbreaks",
+        "location": "Lodgepole section (Chapter 3)",
+        "relevant_elements": ["3.7"]
+      },
+      {
+        "text": "Droughts in the southwestern United States are expected to increase in frequency and severity (Hoerling and Eischeid 2007). This could result in stream dewatering and a decrease in available habitat",
+        "location": "Rio Grande cutthroat trout Climate Change section",
+        "relevant_elements": ["3.5", "3.6"]
+      },
+      {
+        "text": "Colorado manages wildlife at the species, subspecies, and population level, depending on various factors such as legal requirements, interagency coordination needs, stakeholder concerns, funding eligibility, national or international reporting conventions, and/or taxonomic determinations through scientific documentation. Colorado also manages assemblages of species and the array of habitats important to them (i.e., ecosystem management).",
+        "location": "Overview of Colorado Wildlife Species section",
+        "relevant_elements": ["3.2", "3.3"]
+      },
+      {
+        "text": "Habitat Shifting & Alteration - Model potential habitat/range shifts in response to projected climate changes and prepare adaptation plan to define in situ and ex situ conservation needs",
+        "location": "Table 3 (Plants, multiple species) / Table 8 (Rio Grande Valley Rivers)",
+        "relevant_elements": ["4.2", "4.5"]
+      },
+      {
+        "text": "Conservation of Colorado's wildlife is too big a task for one agency. Accomplishing the actions identified in this plan will require developing many new partnerships, as well as continuing to capitalize on existing partnerships.",
+        "location": "Summary of Conservation Actions Needed (Chapter 4)",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "The agency requested $40 million in biodiversity conservation funding in the current operating budget",
+        "location": "Not found verbatim",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "CPW is presently implementing approximately 5,000 acres of sagebrush enhancement or restoration work annually. Similar or increased restoration effort will likely be required over the next 10 years to buffer projected sage brush habitat loss. CPW will also continue protection activities through our Wildlife Habitat Protection Program, which over the last few years has preserved tens of thousands of acres of sagebrush habitat through fee title acquisitions and conservation easements.",
+        "location": "Sagebrush Conservation Actions section",
+        "relevant_elements": ["3.4", "4.1"]
+      },
+      {
+        "text": "Species management strategies are actions that focus on particular species... Examples include culling herds, controlling fishing or hunting of particular species, relocation or re-introduction of species that have been lost from historically occupied habitat, captive breeding programs, and seed or gene banking.",
+        "location": "Overview of Conservation Actions (Chapter 4)",
+        "relevant_elements": ["4.2"]
+      },
+      {
+        "text": "The change in climate is driving plants out of their current geographic ranges and will likely result in regional extirpation and even extinction for some plant species. Warmer temperatures and changing rainfall have shifted vegetation in several ecosystems up mountain slopes and towards polar regions.",
+        "location": "Appendix A: Climate Change section (Plants)",
+        "relevant_elements": ["C2", "1.1"]
+      },
+      {
+        "text": "Assessments to identify possible avenues for adaptive management strategies to climate change should be considered (Ruggiero et al. 1999).",
+        "location": "Lynx Climate Change section",
+        "relevant_elements": ["4.5"]
+      },
+      {
+        "text": "Over 290 Important Plant Areas (IPAs) have been identified by the Colorado Natural Heritage Program and recognized by RPCI. IPAs are based on CNHP's Potential Conservation Areas, and include the highest quality locations for PGCN.",
+        "location": "Appendix A: Part 7 / Important Plant Areas section",
+        "relevant_elements": ["4.1"]
+      },
+      {
+        "text": "Habitat patches - CNHP used the Southwest Regional Gap Analysis Project (SWReGAP) landcover dataset to produce a generalized vegetation map from which we could identify discrete ecological system patches.",
+        "location": "Chapter 8: Terrestrial Upland Habitats (Habitat Patches subsection)",
+        "relevant_elements": ["4.1", "2.2"]
+      }
+    ]
+  },
+  "concepts": {
+    "climate_vulnerability": {
+      "evaluable": true,
+      "score": 3,
+      "evidence": [
+        {
+          "text": "Understanding why species and ecosystems are vulnerable or potentially less resilient is a critical first step in developing effective conservation strategies. This vulnerability is based on sensitivity, exposure, and the ability to adapt.",
+          "location": "Appendix F: Characterizing Vulnerability",
+          "sub_component": "exposure and adaptive capacity both",
+          "citations": []
+        },
+        {
+          "text": "The primary components of this method are projected exposure to climate change, sensitivity of the species or ecosystem to expected changes, and the adaptive capacity of the species or ecosystem to respond to changes",
+          "location": "Appendix F: Methods (Characterizing Vulnerability)",
+          "sub_component": "exposure and adaptive capacity both",
+          "citations": ["Glick et al. (2011)"]
+        },
+        {
+          "text": "species with low adaptive capacity such as those with specialized habitat needs or limited dispersal ability face higher vulnerability to these changes",
+          "location": "Appendix F / resilience-adaptive capacity narrative",
+          "sub_component": "adaptive capacity",
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "adaptive_capacity_specificity": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Growth form and intrinsic dispersal rate: Overall ability of the habitat's component species to shift their ranges in response to climate change relatively quickly. Characteristics of growth form, seed-dispersal capability, vegetative growth rates, and stress-tolerance are considered.",
+          "location": "Appendix F: Table F-3 (Resilience-Adaptive Capacity Assessment factors)",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "species with low adaptive capacity such as those with specialized habitat needs or limited dispersal ability face higher vulnerability to these changes",
+          "location": "Appendix F / adaptive capacity discussion",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "adaptive_capacity_components": {
+      "demography": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Bioclimatic envelope and range: Expected effects of limited elevational or bioclimatic ranges for a habitat. Suitable conditions for habitats at upper elevations may be eliminated. Habitats with narrow bioclimatic envelopes may be more vulnerable to climate change.",
+            "location": "Appendix F: Table F-3",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "distribution": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "As temperatures increase and precipitation regimes change, suitable climatic conditions for species and/or habitats may shift in elevation or latitude. There is the potential for this to result in different tree, shrub, and understory species dominating the landscape.",
+            "location": "Habitat Shifting & Alteration section (Chapter 4)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "movement": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Growth form and intrinsic dispersal rate: Overall ability of the habitat's component species to shift their ranges in response to climate change relatively quickly. Characteristics of growth form, seed-dispersal capability, vegetative growth rates, and stress-tolerance are considered.",
+            "location": "Appendix F: Table F-3",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "evolutionary_potential": {
+        "present": false,
+        "evidence": []
+      },
+      "ecological_dependencies": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Vulnerability to increased attack by biological stressors: Whether expected future biological stressors (invasive species, grazers and browsers, pests and pathogens) have had, or are likely to have, an increased effect due to interactions with changing climate.",
+            "location": "Appendix F: Table F-3 / Resilience-Adaptive Capacity Assessment",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "abiotic_niche": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Species' physiological limits are tested as shifting temperatures, altered hydrology, and changing seasonal cues affect survival, reproduction, and migration.",
+            "location": "Appendix B: CCVI Section C - Sensitivity / abiotic niche discussion",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "life_history": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Both bristlecone and limber pine are slow-growing, long-lived species in which individuals may live for 1,000 or more years... The slow growth and recruitment of bristlecone and limber pine will make it difficult for these habitats to colonize new areas under changing climate conditions.",
+            "location": "Subalpine Limber and Bristlecone Pine section (Chapter 3)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      }
+    },
+    "connectivity": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "While there are many uncertainties about how climate change will affect certain habitats, an overall management strategy that maintains a larger intact landscape, and thereby increases the ability of the given species to adjust their range, should be incorporated in the overall conservation of the species.",
+          "location": "Gunnison's prairie dog Conservation Actions section",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Focus these activities in places that are likely to remain stable under predicted climate change scenarios, and on areas needed to maintain habitat connectivity (e.g., to facilitate climate-related distributional shifts).",
+          "location": "Appendix A: Statewide Conservation Objectives (Plants)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document discusses corridors and landscape connectivity in the context of facilitating species range adjustments under climate change. Score=2 because connectivity is explicitly framed as supporting climate-driven range shifts in multiple places."
+    }
+  },
+  "tools": {
+    "vulnerability_models": {
+      "evaluable": true,
+      "score": 2,
+      "named_tools": ["CCVI", "NatureServe CCVI", "NatureServe Habitat Climate Change Vulnerability Index", "HCCVI"],
+      "evidence": [
+        {
+          "text": "To get a better sense of the relative vulnerability of the PGCN to climate change, the Colorado Natural Heritage Program (CNHP) conducted a rapid, first-iteration assessment using NatureServe's Climate Change Vulnerability Index (CCVI)",
+          "location": "Appendix A: Climate Change section (Plants)",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "The Overall Vulnerability Rank was calculated from these two sub-ranks using a method derived from NatureServe's Habitat Climate Change Vulnerability Index (Comer et al. 2012).",
+          "location": "Appendix F: Overall Vulnerability Assessment Ranking",
+          "sub_component": null,
+          "citations": ["Comer et al. 2012"]
+        },
+        {
+          "text": "Preliminary results of our climate change vulnerability assessment suggest that lodgepole may be moderately vulnerable through mid-century.",
+          "location": "Lodgepole section (Chapter 3)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "niche_models": {
+      "evaluable": true,
+      "score": 2,
+      "named_tools": ["SDMs", "species distribution models"],
+      "evidence": [
+        {
+          "text": "Using State Wildlife Grant funds, we developed species distribution models for 16 Tier 1 SGCN. These newly-developed models, pre-existing species distribution models, and documented distribution data for Tier 1 terrestrial vertebrate and plant SGCN have been combined at the resolution of 640 acre hexagons across the state.",
+          "location": "Chapter 8: Conservation Opportunity Areas (CHAT section)",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "For nine of the upland habitat types, we used models of current distribution for each habitat to identify important climate variables for that habitat.",
+          "location": "Appendix F: Methods / Exposure and Sensitivity Assessment",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_models": {
+      "evaluable": true,
+      "score": 2,
+      "named_tools": ["BCCA", "CMIP5"],
+      "evidence": [
+        {
+          "text": "In consultation with CPW, we selected mid-century as the time frame for this analysis... we based the analysis on the second-highest scenario for future greenhouse gas emissions (referred to hereafter as RCP6",
+          "location": "Appendix F: Mid-century Climate Projections",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "we used 12 climate projection models averaged over 1980-2005 to represent 'historic normal' (current) for temperature and precipitation, and compared this with models averaged over 2035-2060 to represent mid-century projections (2050; BCCA 2013)",
+          "location": "Appendix F: Mid-century Climate Projections",
+          "sub_component": null,
+          "citations": ["BCCA 2013"]
+        }
+      ],
+      "absence_note": {},
+      "time_horizon_years": [2050],
+      "emission_scenarios": ["RCP6.0"]
+    },
+    "connectivity_models": {
+      "evaluable": true,
+      "score": 1,
+      "named_tools": ["CHAT"],
+      "evidence": [
+        {
+          "text": "The Crucial Habitat Assessment Tool (CHAT), developed by the Western Governors' Association and multiple conservation partners, prioritizes habitats by importance to vulnerable wildlife species",
+          "location": "Chapter 7: Monitoring",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "CHAT is referenced as a habitat prioritization tool incorporating wildlife corridors and connectivity. However, no dedicated connectivity model output (e.g., CircuitScape, Linkage Mapper) is named or applied as a connectivity model to the document's focal subjects. Score=1: referenced generally but not applied as a connectivity model per se."
+    }
+  },
+  "context": {
+    "management_scale": {
+      "local": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Local scale conservation work should always be based on site-specific conditions.",
+            "location": "Chapter 3: Habitats (SGCN/habitats relationships section)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "site": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Secure on-the-ground, site-specific habitat protection and/or management to achieve specific goals for all of Colorado's imperiled plants on public and private lands.",
+            "location": "Appendix A: Statewide Conservation Objectives",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "watershed": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "This map represents the number of Tier 1 fish species known to occur in each HUC10 watershed in the state",
+            "location": "Chapter 8: High Priority Watersheds for Aquatic SGCN",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "city": {
+        "present": false,
+        "evidence": []
+      },
+      "county": {
+        "present": false,
+        "evidence": []
+      },
+      "within_state_region": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Colorado can be divided into three primary geographic regions: Eastern Colorado Plains, Colorado Rocky Mountains, and Western Colorado Valleys and Plateaus.",
+            "location": "Appendix G: State of Colorado's Biodiversity Executive Summary",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "state": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The SWAP articulates a set of conservation priorities that considers an expansive array of wildlife from a statewide perspective.",
+            "location": "Philosophy and Guiding Principles",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "multistate": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "to support cooperation with adjacent states when such cooperation will result in range-wide conservation of species of greatest conservation need.",
+            "location": "Philosophy and Guiding Principles",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "national": {
+        "present": false,
+        "evidence": []
+      },
+      "transnational": {
+        "present": false,
+        "evidence": []
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Colorado also manages assemblages of species and the array of habitats important to them (i.e., ecosystem management).",
+            "location": "Overview of Colorado Wildlife Species",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecoregion": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Bristlecone pine is more-or-less endemic to the Southern Rocky Mountain ecoregion, reaching its northernmost station in Gilpin County, Colorado.",
+            "location": "Subalpine Limber and Bristlecone Pine section (Chapter 3)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "province": {
+        "present": false,
+        "evidence": []
+      },
+      "section": {
+        "present": false,
+        "evidence": []
+      },
+      "subsection": {
+        "present": false,
+        "evidence": []
+      },
+      "lake": {
+        "present": false,
+        "evidence": []
+      },
+      "river": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "This habitat includes the big rivers within the Colorado Plateau and Wyoming Basin ecoregions of Colorado's western slope: the Colorado, Gunnison, Green, Yampa, White, Dolores, San Juan and Animas Rivers.",
+            "location": "Colorado Plateau-Wyoming Basins Rivers section (Chapter 3)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "district": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["Colorado", "Eastern Colorado Plains", "Colorado Rocky Mountains", "Western Colorado Valleys and Plateaus", "Southern Rocky Mountain ecoregion", "Colorado Plateau", "Wyoming Basin", "Front Range", "San Luis Valley", "South Platte River", "Arkansas River", "Rio Grande", "Colorado River Basin", "HUC10 watersheds"]
+    },
+    "biological_unit_score": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Colorado manages wildlife at the species, subspecies, and population level, depending on various factors such as legal requirements, interagency coordination needs, stakeholder concerns, funding eligibility",
+          "location": "Overview of Colorado Wildlife Species",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Colorado also manages assemblages of species and the array of habitats important to them (i.e., ecosystem management).",
+          "location": "Overview of Colorado Wildlife Species",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "biological_unit_components": {
+      "species": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The 2015 SGCN list of vertebrate animals and mollusks contains 159 species.",
+            "location": "Chapter 2: Updated SGCN List",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "population": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Colorado manages wildlife at the species, subspecies, and population level",
+            "location": "Overview of Colorado Wildlife Species",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "habitat": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Fifty-seven terrestrial ecological systems or altered land cover types mapped for SWReGAP have been categorized into 20 habitat types",
+            "location": "Chapter 3: Habitats introduction",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Colorado also manages assemblages of species and the array of habitats important to them (i.e., ecosystem management).",
+            "location": "Overview of Colorado Wildlife Species",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "community": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "In the future, we may see novel plant communities emerge or significant loss of current communities.",
+            "location": "Habitat Shifting & Alteration (Chapter 4)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "genotype_phenotype": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["Tier 1 SGCN", "Tier 2 SGCN", "PGCN", "aspen", "lodgepole pine", "spruce-fir", "ponderosa pine", "pinyon-juniper", "sagebrush", "shortgrass prairie", "alpine tundra", "riparian woodlands", "American pika", "wolverine", "boreal toad", "Rio Grande cutthroat trout", "Colorado pikeminnow", "lynx", "Gunnison sage-grouse", "lesser prairie-chicken"]
+    },
+    "partnerships_and_funding": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Conservation of Colorado's wildlife is too big a task for one agency. Accomplishing the actions identified in this plan will require developing many new partnerships, as well as continuing to capitalize on existing partnerships.",
+          "location": "Summary of Conservation Actions Needed (Chapter 4)",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "CPW will also continue protection activities through our Wildlife Habitat Protection Program, which over the last few years has preserved tens of thousands of acres of sagebrush habitat through fee title acquisitions and conservation easements.",
+          "location": "Sagebrush Conservation Actions section",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The plan describes broad aspirations for partnerships and mentions programs like the Conservation Reserve Program, Farm Bill incentives, and CPW's own habitat protection program. However, there are no specific dollar allocations or budgets explicitly attached to range-shift-related actions; funding for the SWAP process itself is mentioned (State Wildlife Grants). Score=1 for some funding/partnerships described but primarily aspirational for range-shift work."
+    },
+    "climate_threat_habitat_degradation": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Increasing drought with climate change is believed to be the primary vulnerability of this ecosystem (Worrall et al. 2013), and substantial loss of aspen can potentially be expected.",
+          "location": "Aspen section (Chapter 3)",
+          "sub_component": null,
+          "citations": ["Worrall et al. 2013"]
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_threat_species_vital_rates": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Drought was implicated in the extirpation of six populations in Larimer County, Colorado (Corn and Fogleman 1984).",
+          "location": "Northern Leopard Frog Climate Change section",
+          "sub_component": null,
+          "citations": ["Corn and Fogleman 1984"]
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_threat_biotic_stressors": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "The effects of climate change can increase these threats. [referring to: a variety of factors, including increased temperature, drought, and -in some cases -fire suppression, have contributed to very severe insect outbreaks and significant tree mortality across the state]",
+          "location": "Problematic Native Species section (Chapter 4)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    }
+  },
+  "actions": {
+    "priority_habitat_identification": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Figure 21 displays the Crucial Habitat Assessment Tool map for Tier 1 terrestrial animal and plant SGCN. Areas in white on the map indicate places where there are no documented occurrences or modeled habitat for any Tier 1 SGCN.",
+          "location": "Chapter 8: Conservation Opportunity Areas",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Over 290 Important Plant Areas (IPAs) have been identified by the Colorado Natural Heritage Program and recognized by RPCI. IPAs are based on CNHP's Potential Conservation Areas, and include the highest quality locations for PGCN.",
+          "location": "Appendix A: Important Plant Areas section",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "This map represents the number of Tier 1 fish species known to occur in each HUC10 watershed in the state",
+          "location": "Chapter 8: High Priority Watersheds for Aquatic SGCN",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "targeted_range_shift_actions": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "While there are many uncertainties about how climate change will affect certain habitats, an overall management strategy that maintains a larger intact landscape, and thereby increases the ability of the given species to adjust their range, should be incorporated in the overall conservation of the species.",
+          "location": "Gunnison's prairie dog Conservation Actions / White-tailed prairie dog Conservation Actions",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "Structural facilitation actions (e.g., landscape-scale connectivity to allow range adjustment) are explicitly framed as climate responses for prairie dog species and lynx. Additionally, translocations for Columbian sharp-tailed grouse are mentioned, though this particular translocation is framed as 'historic range' restoration rather than explicit climate-driven range shift facilitation. The habitat connectivity maintenance framing for prairie dogs and the 'Model potential habitat/range shifts...prepare adaptation plan' actions in Table 3 plants earn score=1."
+    },
+    "time_bound_and_monitoring": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Our goal is to update the biodiversity status analysis every five to 10 years. This, in conjunction with scheduled review of the SWAP (especially review of species' status relative to Tier 1 and Tier 2 SGCN designation), will provide the information needed to identify conservation successes and emerging needs",
+          "location": "Chapter 7: Measuring Conservation Success",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The plan has a 10-year revision cycle and periodic biodiversity scorecard updates, plus species-specific monitoring described in Table 9. However, individual conservation actions in Tables 7 and 8 generally lack specific deadlines attached to individual actions; most specify H/M/L priority without binding timelines. The plan endorses monitoring and adaptive management as principles but does not operationalize deadlines at the action level. Score=1 (plan-level timelines and monitoring exist but not tied to individual actions)."
+    },
+    "evidence_of_efficacy": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Actions presented without justification score a 0... When general or vague ecological assumptions are presented as first principles to support an action, this does not count as providing evidence",
+          "location": "Not applicable — this note is from the codebook; evidence below",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document presents rationale (ecological first principles) for most conservation actions but rarely cites specific prior studies demonstrating action efficacy. Some references to ongoing management (e.g., black-footed ferret reintroduction, oral plague vaccine research) mention existing programs but do not systematically evaluate outcomes. Score=1 for rationale-based justifications without direct action efficacy evidence.",
+      "projects": ["CPW references the State of Colorado's Biodiversity scorecard approach developed by CNHP and TNC to evaluate conservation effectiveness over time, providing a repeatable methodology for assessing outcomes, but this is a monitoring framework rather than evidence of prior efficacy."]
+    },
+    "adaptation_planning_frameworks": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "this vulnerability assessment is intended to be part of a dynamic, iterative, multi-scale process that will focus management actions on strategies that are effective under both current and future climates.",
+          "location": "Appendix F: Introduction",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "The AFWA best practices recommend the Glick et al. (2011) method for assessing vulnerability to climate change. The primary components of this method are projected exposure to climate change, sensitivity of the species or ecosystem to expected changes, and the adaptive capacity of the species or ecosystem to respond to changes",
+          "location": "Appendix F: Methods",
+          "sub_component": null,
+          "citations": ["Glick et al. 2011", "AFWA 2009", "AFWA 2012"]
+        },
+        {
+          "text": "Assessments to identify possible avenues for adaptive management strategies to climate change should be considered (Ruggiero et al. 1999).",
+          "location": "Lynx Climate Change section",
+          "sub_component": null,
+          "citations": ["Ruggiero et al. 1999"]
+        }
+      ],
+      "absence_note": "The document explicitly applies climate change vulnerability assessment (CCVA) per the AFWA/Glick framework, and references adaptive management in climate contexts. Specific named frameworks like RAD or Resist-Accept-Direct are not mentioned, but the CCVA methodology is specifically applied to this plan's focal subjects, justifying score=2."
+    }
+  },
+  "coding_meta": {
+    "coder": "llm:claude-sonnet-4-6",
+    "model": "claude-sonnet-4-6",
+    "provider": "claude",
+    "codebook_version": "0.4",
+    "ingest": "text",
+    "design": "single",
+    "temperature": null,
+    "thinking": null,
+    "thinking_effort": null,
+    "coded_at": "2026-07-06T18:39:20Z",
+    "notes": {}
+  }
+}

@@ -1,0 +1,1160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">List of Appendices Appendix 2 -1 Maine Aquatic Habitat Classification System (MAHCS) for the Lotic habitat macrogroup developed for the 2025 Wildlife Action Plan. The Lentic MAHCS system can be viewed in Appendix 2 -2). [*WQ= Water</title>
+				<funder ref="#_4eE3kSA">
+					<orgName type="full">unknown</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Maine</forename><forename type="middle">Geological</forename><surname>Survey</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Agriculture, Conservation, and Forestry MDEP Maine Department of Environmental Protection MDIFW Maine Department of Inland Fisheries and Wildlife MDMR Maine Department of Marine Resources MNAP Maine Natural Areas Program NEAHCS</orgName>
+								<orgName type="laboratory">Northeast Aquatic Habitat Classification System NETHCS Northeast Terrestrial Habitat Classification System NVC National Vegetation Classification SGCN Species of Greatest Conservation Need TNC The Nature Conservancy</orgName>
+								<orgName type="institution">MDACF Maine</orgName>
+							</affiliation>
+						</author>
+						<title level="a" type="main">List of Appendices Appendix 2 -1 Maine Aquatic Habitat Classification System (MAHCS) for the Lotic habitat macrogroup developed for the 2025 Wildlife Action Plan. The Lentic MAHCS system can be viewed in Appendix 2 -2). [*WQ= Water</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">83037ED5E551C66A6A9D9A18AF06A340</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.1" ident="GROBID" when="2026-07-06T12:22+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract/>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"> <ref type="table" target="#tab_3">2</ref> <p>-4 Estimates of coastal and marine macrogroup spatial coverage in Maine state waters (out to 3 nm). Data sourced from Maine Geological Survey (MGS). Intertidal data primarily from MGS Maine Coastal Marine Geologic Environments data layer, subtidal data primarily from MGS Maine Inner Continental Shelf Surficial Geology. Note, existing spatial data available for Maine state waters does not align perfectly with SWAP macrogroups. For the purposes of this inventory some macrogroups were combined to better represent available data layers from MGS.  <ref type="table" target="#tab_3">2</ref> -5 Macrogroups and habitat systems included in the Maine Aquatic Habitat Classification System (MAHCS) developed for the 2025 Wildlife Action Plan. Spatial coverage metrics for Lotic systems are provided in river miles and kilometers (Km), and for Lentic systems in acres and kilometers squared (Km 2 ). The full MAHCS, including all quantitative metrics used to differentiate habitat systems, is available in Appendix 2 -1 and Appendix 2 -2. ...... Table <ref type="table" target="#tab_3">2</ref> -6 Species of Greatest Conservation Need (SGCN) associations with NETHCS habitat macrogroups from the 2025 Maine Wildlife Action Plan. Many SGCN are associated with more than one habitat macrogroup and may be included in multiple rows. Click on a macrogroup name to launch a full summary report. ......................................   <ref type="figure" target="#fig_2">2</ref> -2 Relative percent coverage of terrestrial and wetland habitat categories in Maine (Source: NatureServe International Vegetation Classification Groups V1.0, 2025). Freshwater aquatic habitat types are not included here but are listed in Table <ref type="table" target="#tab_3">2</ref><ref type="table">3</ref>      </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>List of Figures</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.0">Abstract</head><p>Maine's diverse landscape ranges from alpine summits to extensive freshwater tidal wetlands, patterns of which are driven by climate, elevation, geology, and vegetation types. Element 2 describes the diversity of habitats essential to the conservation of Species of Greatest Conservation Need (SGCN).</p><p>Within this plan, habitats are divided into three categories to organize partner participation, and to facilitate conversations around habitat classification, threats and conservation actions. These three categories were coastal and marine, terrestrial and freshwater wetlands, and freshwater aquatic habitats (Rivers, Lakes and Ponds).</p><p>Among these three habitat categories, Maine's Wildlife Action Plan employs a hierarchical habitat classification system consistent with The Northeast Terrestrial Habitat Classification System (NETHCS). This system includes two scales of ecological units that are useful for standardized mapping and conservation planning: a coarser habitat unit (i.e., macrogroup), and finer habitat unit (i.e., habitat system). There are 42 macrogroups and 157 habitat systems in Maine. Where possible, SGCN species are linked to habitats at the habitat systems. This plan uses the more general macrogroup level for assigning threats and conservation actions. The finest level of classification is the Natural Community utilized by the Maine Natural Areas Program (MNAP) to identify locations of rare and high-quality habitat types for terrestrial and wetland habitats only. This plan incorporates a new mapping system for freshwater aquatic habitats, and updates to terrestrial/wetland and coastal/marine habitat classifications to improve the identification and prioritization of conservation actions for Maine's biodiversity.</p><p>Also new to the 2025 Wildlife Action Plan is the inclusion of habitat units and conservation actions at the 'Landscape' level. Many species have large home ranges, and require many connected habitat types. Key units for communicating landscape level habitats are Focus Areas of Statewide Ecological Significance, which are areas of Landscape conservation often encapsulates multiple habitat classifications. Tunk Lake Focus Area. © MDIFW the state with the highest biodiversity importance and are identified to prioritize voluntary conservation actions; undeveloped habitat blocks, which are large areas of connected habitat; and undeveloped block connectors, which are likely areas of wildlife movement across roadways or through riparian corridors.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.1">Introduction</head><p>During development of this plan, Maine Department of Inland Fisheries and Wildlife (MDIFW), the Department of Marine Resources (MDMR), and the MNAP (a division within the Department of Agriculture, Conservation and Forestry) and conservation partner collaborators placed significant emphasis on habitats as a mechanism to drive conservation actions within Maine. In this chapter, we describe the classifications used for habitats, the importance of these habitats to SGCN, and gaps in conservation of some of these habitats.</p><p>Habitats are divided into three categories to organize partner participation, and to facilitate conversations around habitat classification, threats and conservation actions. These three categories were coastal and marine, terrestrial and freshwater wetlands, and freshwater aquatic habitats (Rivers, Lakes and Ponds). At a finer scale, Maine's Wildlife Action Plan employs NETHCS as a guide to identify the extent of habitats and community types essential to the conservation of SGCN. Federal and state agencies in the Northeast have endorsed the NETHCS as a tool for assessing habitat distribution and composition on a regional scale. The NETHCS includes a regionally endorsed naming convention for habitats using a nested hierarchy. In the 2025 plan, the NETHCS classification was updated to be consistent with recent adjustments to the National Vegetation Classification (NVC) by Natureserve for terrestrial and wetland habitats. For coastal/marine and aquatic habitat classes, the MDMR, and the MDIFW developed additional habitat classes.</p><p>The primary habitat units used in Maine's Wildlife Action Plan are habitat systems and macrogroups. Habitat systems are mid-to local-scale ecological units which nest within macrogroups, which are coarser scale ecological units. Both ecological units are useful for standardized mapping and conservation assessments of habitat diversity and landscape condition. For most applications, MDIFW and conservation partners used the more general macrogroup level of this hierarchical system for assigning threats (Element 3) and conservation actions (Element 4). Additionally, for specific on the ground management and conservation recommendations, the MNAP utilizes a finer level of classification for terrestrial and wetland habitats, or Natural Communities.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.1.1">Significant Differences from Maine's 2015 Plan</head><p>• Terrestrial and freshwater wetland habitat classification: The Plan updated habitat types in the NETHCS to be consistent with the NVC system. This resulted in several habitat name changes, removal of habitat systems and macrogroups that do not occur in Maine, and alignment with newer tools and resources supporting habitat classification and mapping produced by NatureServe.</p><p>• Coastal habitat classification: MDMR and MDIFW added Coastal Islands as a new habitat system within the North American Atlantic Coastal Dune, Grassland &amp; Rocky Headland macrogroup.</p><p>• Freshwater aquatic habitat classification: For the 2025 Plan MDIFW convened a subcommittee to develop a Maine Aquatic Habitat Classification System (MAHCS) with the goal of producing a statewide, consistent classification, which now includes 19 systems grouped within 2 macrogroups: Lentic (ponds and lakes) and Lotic (rivers and streams).</p><p>• Standard habitat mapping: For the 2015 Plan, NatureServe and TNC developed seamless GIS coverage to assess habitat distribution and composition of terrestrial and wetland systems in the Northeast. For Maine's 2025 Plan, the mapping associated with the NETHCS is updated with new habitat mapping from Natureserve.</p><p>• Habitat emphasis: For the 2025 Plan a slightly greater emphasis was placed on habitats rather than the individual SGCN. This allows for more effective conservation by focusing on habitats that contain multiple SGCN. It also better acknowledges the relationships among species and their effects on one another for more successful threat identification and conservation actions. Individual SGCN still have individual conservation actions where appropriate.</p><p>Managed blueberry barren in downeast Maine. Lowbush blueberry turns bright red during autumn.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.2">Landscape Overview of Maine</head><p>Maine encompasses approximately 21 million acres of land and water, from the dramatic coastline to the heights of Mount Katahdin. Maine is as large as the remaining New England states combined, and more than 31,800 miles of streams and rivers and 5,600 lakes and ponds dot the landscape. weather and the highest numbers of clear days, whereas the northern interior, upper two-thirds of the state, boasts a mixed bag of snowy winters, warm summers, and the state's lowest rainfall.</p><p>Observed and potential changes to Maine's climate, and their subsequent impacts on habitats and wildlife, have been the focus of ongoing, long-term studies by the University of Maine, conservation groups, and state and federal agencies (e.g., <ref type="bibr" target="#b59">Whitman et al. 2013</ref><ref type="bibr" target="#b39">, Fernandez et al. 2015</ref><ref type="bibr" target="#b50">, Peters et al. 2020</ref><ref type="bibr" target="#b58">, Whitehead et al. 2023</ref><ref type="bibr" target="#b47">, MCC STS 2024)</ref>. These changes include rising seas, increasing coastal storms, altered natural disturbance processes (e.g., increased fire), changes in hydrology of wetlands and waterways, increasing non-native invasive species, pests and pathogens, increasing water temperatures, and transitions in forest composition. Despite uncertainties regarding the magnitude and timing of future changes in Maine's climate, there is a general understanding that high elevation habitats, boreal forests and peatlands, tidal marshes, and cold-water fisheries are among Maine's more vulnerable habitats <ref type="bibr" target="#b59">(Whitman et al. 2013)</ref>  <ref type="bibr" target="#b41">(Gawler and Cutko 2010)</ref>. In general, they are a logical way of stratifying the landscape at a coarse scale and are referenced in the Plan's SGCN species distribution maps for plants. The ecoregions referenced here are at the section level (Figure <ref type="figure" target="#fig_2">2</ref> -2) and are informed by various national and state classification efforts (e.g. <ref type="bibr">Bailey 1995</ref><ref type="bibr">, Keys et al. 1995</ref><ref type="bibr" target="#b48">, and McMahon 1990)</ref>. Because of the distinctive patterns of abiotic factors within each ecoregion, there are also related patterns in habitats and associated SGCN, as briefly described below. • Central and Eastern Lowlands: This region of Maine hosts a transitional climate between the coastal zone and the cooler to temperate boreal climates of the interior regions to the north and west. As a result, several SGCN plants reach their range limits here, and the region marks a transition from the oak, pine, and mixed hardwood forests of the south to the spruce-fir-northern hardwood forests to the north. The low relief and low elevation (i.e., generally below 1000 feet) supports the largest proportion of wetlands of any of the ecoregions in the state, including the greatest variety of peatland systems, some of which are individually over 1000 acres in size. The result is a diversity of SGCN waterbirds and invertebrates which require large wetland complexes, high water quality, and cool water temperatures.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Figure 2 -3 Map of Ecoregional Sections of Maine</head><p>• Central and Western Mountains: This region contains the highest elevation points in the state supporting subalpine, krummholtz, and alpine habitats. Disjunct plant species that occur nowhere else in Maine occur on these slopes and peaks, and there is a notable increase in woody species richness. Spruce-fir and northern hardwood forests are the common types through much of the region but talus, cliff, and ledge habitats occur in small patches on steep and erodible bedrock slopes. Several of Maine's largest deep pelagic lakes occur in this region as well as high slope cold headwater rivers and streams.</p><p>• Downeast Maine: This region is marked by rocky headlands along the coastline and numerous headlands and coastal islands, as well as Cobscook Bay and estuary, which sees tidal ranges up to 18 feet. Coastal spruce-fir forests and coastal raised peatlands are another unique feature, attributed to the cooler coastal temperatures and fog during the growing season, as well as low evapotranspiration. Several subarctic maritime plant species reach their southern range limits here. Across inland areas, sandy outwash soils have attracted decades of commercial blueberry operations, more than anywhere else statewide.</p><p>• Central Interior and Midcoast: This region spans from the low foothills of Maine's western mountains to the coastal peninsulas and islands of Merrymeeting and Penobscot Bay. Maine's largest tidal estuary and area of freshwater tidal wetlands occurs in this region, and the dune grasslands and coastal outcrops are a significant part of the region's biodiversity. Coastal spruce-fir forest reaches its southern extent here, thanks to fog and cooler summer temperatures. Inland, warmer temperate vegetation and habitats dominate, including oak-pine forests and mixed hardwoods, which give way to spruce-fir northern hardwoods moving from south to north.</p><p>• Southern Maine: Although Southern Maine has some of the highest levels of development (and fragmentation) in the state, it also has the highest concentration of rare plants and animals in the state. This region contains the Atlantic coastal plain with large sand beaches that give way to extensive tidal marshes, as well as significant areas of sandy glacial outwash. The draughty, acidic soils of the latter are conducive to fire-prone pitch pine barrens and their specialized plant and animal species but are also vulnerable to conversion. Hardwood forests and woodlands with southern-affinity species are a hallmark Peatland in the Eastern Lowlands ©MNAP of the region, as are isolated wetlands and vernal pools that punctuate the glacial till and other depositional landforms that characterize the area.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.3">Maine's Habitat Types</head><p>As indicated above in Figure <ref type="figure" target="#fig_2">2</ref>-1, habitats were divided in three categories for the purposes of planning and assigning threats and conservation action. These are Terrestrial/Wetland Habitats, Coastal/Marine Habitats, and Freshwater Aquatic Habitats. Subcommittees of experts were created around these broad ecosystem categories to evaluate and develop materials related to habitats, including threats and conservation actions associated with those habitats. A Climate Subcommittee was also created to specifically address climate-related issues that affect SGCN and habitats.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.3.1">Terrestrial/Wetland Habitats</head><p>As described above, the NETHCS, initially developed by NatureServe and TNC, is a hierarchical framework for characterizing and mapping habitat systems in the region (TNC and NatureServe 2011). Terrestrial/wetland habitat systems and macrogroups were modified using updated classifications from NatureServe.</p><p>Lacking from this classification are structural modifiers (e.g., early successional forest), which are important for many SGCN species, especially in forested habitats. Forest condition and structure (e.g., canopy closure, vertical layering) are important habitat characteristics for many SGCN. It can be assumed that a habitat system or macrogroup will be inclusive of all structural/successional stages that might be present in that habitat system or macrogroup. For example, the Northern Hardwood and Conifer macrogroup includes both early successional and old growth expressions of that macrogroup.</p><p>Forested uplands (Acadian-Northern Appalachian Forest) and wetlands (Laurentian-Acadian Flooded &amp; Swamp Forest) are the most abundant habitat types in Maine.</p><p>Modeling for some habitat types including cliff and talus habitats and rocky headlands is poor and underrepresents the true area of those ecologically important habitats. Area of terrestrial and wetland macrogroups mapped in Maine are shown in Table <ref type="table" target="#tab_3">2</ref> -1 (shown in descending order of statewide area). The full list of habitat systems and macrogroups is shown in Appendix III.</p><p>Late Successional Northern Hardwood Forest © MNAP Early Successional and Grassland Habitats In southern Maine, young forest is also uncommon. In York and Cumberland counties, forests younger than 40 years old account for less than 6% of the landscape (U.S. Forest Service 2021). In the Northeast U.S., and especially in Maine, terrestrial openings are most often the result of disturbances, whether by human activity or, historically, by wildfires <ref type="bibr" target="#b29">(Askins et al. 2007)</ref>. Open habitats increased greatly in the 18 th and 19 th centuries as settlers converted forests for agriculture <ref type="bibr" target="#b55">(Todd 1940)</ref>. By 1880, approximately 34% of Maine was cleared for farming <ref type="bibr" target="#b38">(Day 1954</ref>), but that pattern reversed dramatically via reforestation during the 1900s <ref type="bibr" target="#b51">(Powell and Dickson 1984)</ref>. By 1997, only 6% of the state's land area was in agricultural use <ref type="bibr">(National Agricultural Statistics 2009)</ref>. That</p><p>Little Bluestem -Blueberry Sandplain Grassland in Wells. For more information click here. © MNAP proportion has changed little during the past 30 years, but remaining farms are often row-crop agriculture.</p><p>Pastures declined by 97% in the past 135 years as former pastures have re-grown. Wildfire suppression and reversion of fallow fields to forests have further reduced grasslands and shrublands habitats, which provide important habitat for a number of SGCN species.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Freshwater Wetland Ecosystems</head><p>Freshwater wetlands including open water habitats account for roughly ~15% of the surface area of Maine, considerably greater than the wetland area of the other New England States combined. Forested wetlands include red maple swamps, spruce flats, and cedar swamps, while non-forested wetlands range from large peatlands to emergent meadows created by beavers. Maine's diversity of peatland types is unequaled in the eastern United States <ref type="bibr" target="#b37">(Davis et al. 1983)</ref>. The state's latitudinal, altitudinal, and coastal-inland gradients are all reflected in the varying peatland morphologies and vegetation composition. Some Maine peatland types are rare in the state (e.g., maritime slope bogs, coastal plateau bogs, circumneutral fens, patterned fens, and eccentric bogs), while others are more common (e.g., unpatterned fens, level bogs, kettlehole bogs and ponds, and some streamshore ecosystems).</p><p>Freshwater wetlands support many species of fish and wildlife that thrive only in wetland habitat. In addition, they support other species that do not inhabit wetlands but feed upon fish and wildlife that originate in wetlands. MNAP maintains the natural community and ecosystem classification for Maine, and MNAP ecologists investigate, map, assess, and review natural community mapping. Descriptions of all natural communities are located on MNAP's website.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.3.2">Coastal and Marine Habitats</head><p>The Gulf of Maine watershed encompasses 69,115 square miles adjacent to Nova Scotia, New Brunswick, Maine, New Hampshire, Massachusetts, and Quebec. Maine is the only state or provincial jurisdiction located entirely within the watershed. The Gulf of Maine, largely created by glaciers 10,000 to 20,000 years ago, is a semienclosed sea bounded to the south and east by Browns Bank and Georges Bank and includes the Bay of Fundy.</p><p>Underwater valleys plunge to depths of 1,500 feet. The Gulf of Maine coastal and marine ecosystem is one of the most productive ecosystems in the world due to the nutrient rich cold waters and the complex and diverse benthic and oceanographic characteristics of the region.</p><p>A Pitch Pine Woodland in coastal Maine, a rare natural community type. For more information click here. © MNAP</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Coastal Habitat Classification</head><p>The NETHCS includes certain tidal marshes, but is otherwise missing macrogroups and systems describing other intertidal and subtidal habitats. In the 2015 and 2025 Plans, staff from MDMR and the Maine Coastal Program (MCP) worked with other SWAP partners to generate a coastal and marine habitat classification scheme for Maine's marine and coastal environment (Table <ref type="table" target="#tab_9">2 -2</ref>) that encompasses all areas from the high tide line to the boundary of state waters, which extend three nautical miles offshore.</p><p>This habitat scheme was based on several existing classification systems that were either too detailed for our intended purpose or did not encompass the diverse breadth of habitats found in the coastal and marine regions in Maine (i.e., Coastal and Marine Ecological Classification Standard 2012; Brown 1993). Although this scheme was adapted to fit the particular needs of the Maine Plan, it is written in generalized terms, where possible, to fit the needs of other New England states. Additionally, it is possible to crosswalk this scheme with the other classification schemes listed above to compare existing habitat classification and maps for the limited regions where these data exist. During the initial development of this habitat scheme, several gaps in knowledge were identified, including the geographic locations and spatial extents of most marine and coastal habitats, the health and resiliency of these habitats, and past and projected ecosystem changes over time. Thus, mapping marine and coastal habitats and monitoring their changes over time were highlighted as priorities for the conservation of marine SGCN over the next 10 years. There has been progress to map and improve our understanding of marine and coastal habitats in the past 10 years, however, a large extent of intertidal and subtidal areas remain unmapped making it difficult to accurately quantify marine and coastal habitat macrogroups. Further effort is needed to obtain reliable and accurate data at a resolution suitable for resource and habitat management.</p><p>There are five broad coastal and marine habitat formations associated with macrogroups; tidal marsh, rocky coast, coastal, intertidal, and subtidal (Table <ref type="table" target="#tab_9">2 -2</ref>). The tidal marsh formation includes all peat-forming tidal marshes.</p><p>The rocky coast formation encompasses rocky habitats above the high tide line. The coastal formation</p><p>Marine intertidal habitat at Reid State Park in Georgetown.</p><p>encompasses coastal grasslands and shrublands. The intertidal and sub-tidal formations encompass the benthic and pelagic (water column) habitats from the littoral zone to the open ocean. These broad ecosystem types were subdivided into 15 macrogroups based on wave energy and the resulting physical composition of the substrate for benthic habitats (e.g. tidal marsh, mud, sand, rock, etc.); pelagic habitats are classified separately (e.g. water column).</p><p>At the more specific habitat system level, additional biological and physical drivers that shape the ecosystem were incorporated into the classification scheme (e.g., presence of fauna and flora, relative nutrient concentration, desiccation and temperature stressors, etc.). In Maine, certain kinds of flora and fauna, such as eelgrass, kelp beds, and soft corals, form ecologically important habitats by creating a three-dimensional structure that rises above the substrate and serves as a nursery ground or can be used for protection by fishes and invertebrates. These habitats also tend to be vulnerable to environmental threats. To highlight the importance and relative vulnerability of these habitats, the classification scheme lists these individually at the habitat system level. The language has been generalized to Submerged Aquatic Vegetation, Kelp Bed, and Erect Epifauna to encompass additional flora and fauna that may exist throughout the northeast region in case other New England states elect to adopt this classification scheme. Additionally, in 2025 the habitat system of Coastal Islands was added given its unique isolation factor and the habitat functions it supports including migration, overwintering, and marine mammal haul outs. Despite harsh growing conditions and low plant diversity, tidal marshes are among the most productive ecosystems on earth. They provide food, shelter, spawning, and nursery areas for Striped Bass (Morono saxatilis), Winter Flounder (Psudopleuronectes americanus), and Mummichogs (Fundulus heteroclitus). Clams and Ribbed Mussels (Geukensia granosissima) inhabit tidal marshes and adjacent tidal flats, and birds rely on the rich food webs of tidal marshes for breeding and during migration. Tidal habitats including saltmarsh and eelgrass beds also sequester a large amount of carbon for decades to centuries <ref type="bibr">(McLeod et al., 2011)</ref>. These tidal habitats in Maine store 1,689,965 metric tons of carbon in the top 30 cm of plant mass and sediment, equivalent to the emissions of 1,445,375 gas-powered cars driven for one year (EPA 2023).</p><p>Estuaries, places where freshwater rivers meet the ocean, receive high concentrations of nutrients that are exported from watersheds, particularly during late winter and early spring snowmelt. Land-derived nutrients combine with nutrients from tidal marshes, rockweeds, and oceanic sources to stimulate phytoplankton growth throughout the year. Eelgrass and other submerged aquatic vegetation sometimes grow in estuaries and provide a three-dimensional habitat that serve as critically important nurseries for larval and juvenile invertebrates and fish, and feeding and nesting areas for migratory fish and birds. In addition, these areas serve as coastal storm buffers and filter sediments and pollutants before they reach coastal waters. Despite their importance, up to 50% of the region's original estuarine marshes have been lost through various human activities (MEPC 1998), and many eelgrass meadows have receded dramatically over the last few years due to a myriad of known and unknown causes. Between 2005 and 2023, the Midcoast Region of Maine lost 60% of its eelgrass and widgeon grass cover (MDEP 2024)</p><p>Coastal Islands, Beaches, and Dunes Roughly 500 Maine islands support nesting wading birds, seabirds, and Common Eiders (Somateria mollissima).</p><p>Islands cause upwelling of deep, nutrient-rich water to the sea surface, enriching nearby waters. Currents driven Intertidal saltmarsh, such as Cousins River Marsh in Yarmouth, provides important habitat for SGCN. For more information click here. © USFWS Gulf of Maine Coastal Program by tidal action swirl around islands and surge through passages, "creating a funnel effect that increases the volume of feed available to filter feeders, as well as those species that prey on the filter feeders" <ref type="bibr" target="#b36">(Conkling 1995)</ref>.</p><p>Because of the unique habitats, especially for sea birds, and distinct set of conservation actions, Maine's coastal islands are included as a new habitat system within the North American Atlantic Coastal Dune, Grassland &amp; Rocky Headland macrogroup (Table <ref type="table" target="#tab_3">2</ref><ref type="table">3</ref><ref type="table">4</ref><ref type="table">5</ref><ref type="table">6</ref><ref type="table">7</ref>).</p><p>Nearly all of Maine's larger islands were cleared in the past, primarily for sheep or cattle pasture. Many islands were burned repeatedly to remove trees and increase hay production. Human use of the islands peaked roughly 100 years ago, and since early in this century, gradual abandonment of many islands has resulted in their reforestation. In the last few decades, recreational use and construction of seasonal homes have limited the ecological recovery of some islands (Table <ref type="table" target="#tab_3">2</ref><ref type="table">3</ref><ref type="table">4</ref><ref type="table">5</ref>).  Intertidal Shores and Flats, and Subtidal Pelagic and Benthic Intertidal and subtidal habitats in Maine support a variety of economically and ecologically important species. These habitats are diverse in their physical and biological characteristics. Coastal geomorphology, wave exposure, circulation patterns, depth, and tides influence their substrate composition and associated biological communities. Subtidal habitats consist of a variety of habitats including the water column, benthic substrate, biogenic reefs, and submerged aquatic vegetation. Subtidal benthic habitats are diverse, and distribution of these habitats vary by depth, grain size, and geology. Subtidal habitat is also three dimensional and includes the water column since many marine species have specific temperature, salinity, and dissolved oxygen needs to survive.</p><p>Intertidal mud, sand, and gravel flats are characterized along a gradient of sediment grain sizes. Coastal geomorphology, wave exposure, and tides influence their sediment composition and species distribution and abundance. Intertidal flats are inhabited by several benthic invertebrate species, making them important foraging habitats for migratory shorebirds. They also support commercially valuable fisheries for bivalves such as the softshell clam (Mya arenaria) and marine worms such as the sandworm (Alitta virens). Intertidal mussel (Mytilus edulis) reefs are a unique feature of some intertidal flats in Downeast Maine and support a diverse invertebrate community within them. Being adjacent to shore, intertidal flats are subjected to land-based influences from polluted runoff and sedimentation. Warming waters have also driven the expansion of the invasive European Coastal Islands were added as a habitat system in the 2025 Plan, in recognition of the unique characteristics these islands provide for SGCN.</p><p>green crab (Carcinus maenas), an intertidal predator considered to be a major factor in the statewide decline in soft shell clam abundance.</p><p>Intertidal rocky shores occur in areas of both high and low wave energy. These habitats exhibit distinct vertical zonation of biological communities based on species tolerance to exposure at low tide and inter-specific competition and predation. On wave-exposed shorelines, biota survive wave action through behavioral and morphological adaptations. In some parts of the state, these habitats support dense stands of blue mussels. In more sheltered waters, rocky shores support dense beds of rockweed (Ascophyllum nodosum) and other seaweed species. These seaweed beds protect invertebrates living within them from desiccation and thermal stress at low tide, and provide three-dimensional foraging and shelter habitat for fish and invertebrates (including commercially important juvenile species) at high tide.</p><p>Coastal and Marine Spatial Coverage Quantifying intertidal and subtidal habitats is difficult due to the time, cost, and technology required to conduct bathymetric mapping with associated grab sampling or video surveys. Efforts are currently underway to quantify these habitats in Maine, however, they are not completed for the whole coast of Maine. Acreage estimates in Table <ref type="table" target="#tab_3">2</ref> -6 are based on the limited available data for benthic substrate in Maine state waters. However, this information is an estimate and accuracy of these estimates cannot be verified. Current work is underway to quantify these habitats and needs to continue to provide accurate estimates of SGCN habitats.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Case Study: Maine Coastal Mapping Initiative</head><p>MDMR's Maine Coastal Mapping Initiative uses a combination of substrate sampling and underwater video imagery to inventory and map Maine's marine habitats. These techniques allow MDMR to identify the physical and biological features of seafloor habitats, including epifaunal communities which form habitat structure for fish (i.e., Coarse Gravel Epifauna -left).</p><p>Collection of these data furthers our understanding of marine habitats and provides foundational data to support the conservation of marine SGCN. Efforts are underway to map all of Maine's coastal waters. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>©MDMR, Maine Coastal Mapping Initiative</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.3.3">Freshwater Aquatic Habitat Classification System</head><p>Due largely to the increase in available data, the Maine Aquatic Habitat Classification System (MAHCS) was developed as part of the 2025 Plan to more meaningfully classify statewide freshwater habitat.</p><p>The Freshwater Aquatic subcommittee -comprised of a diverse group of professionals and experts in aquatic resources, habitat management, conservation, and restoration -were engaged to assist with this effort. The group met monthly from November 2024 -May 2025 to complete classification and mapping. Existing aquatic habitat classification efforts such as the Northeast Aquatic Habitat Classification System (NEAHCS) and other tools or products in use in Maine were initially compared, and then the group arrived at a consensus framework for Lotic and Lentic habitats influenced by specific variables that have existing or calculable statewide data. This resulted in a consistent and science based statewide classification (Table <ref type="table" target="#tab_3">2</ref><ref type="table">3</ref>). The full list of drivers and their designations are included in Appendix 2 -1 and Appendix 2 -2. Influential factors for Lotic habitats include drainage area above the river reach, slope, monthly mean maximum water temperature, and water quality class as determined by Maine Department of Environmental Protection (MDEP). Lentic habitat data included elevation, acreage, maximum depth, a function of overall shoreline complexity referred to as the dominant habitat class, and water quality class as determined by MDEP. Freshwater Aquatic Ecosystem Extent and Importance Maine has more than 5,000 rivers and streams, encompassing 45,468 miles of flowing waters that compose nearly half of the Gulf of Maine watershed. These waterways and their riparian borders are important for Maine's fauna and flora. They also serve as an important recreational resource for anglers, paddlers, and rafters. More of Maine's rivers and streams are undeveloped and free-flowing, when compared to other state in the northeastern US <ref type="bibr" target="#b31">(Bennett 1988)</ref>. The state's major rivers include the Penobscot (350 mi), the St. John (211 mi), the Androscoggin (175 mi), the Kennebec (150 mi), the Saco (104 mi), and the St. Croix (75 mi).</p><p>However, the overwhelming majority of flowing water mileage in Maine is in headwater streams (Figure <ref type="figure" target="#fig_2">2</ref><ref type="figure">3</ref><ref type="figure">4</ref><ref type="figure">5</ref>).</p><p>Cold headwater streams and small rivers are vital habitat for Maine's Brook Trout (Salvelinus fontinalis) and many other SGCN species. Maine has the most extensive remaining distribution and abundance of Brook Trout habitat throughout their native range in the US.</p><p>Maine also boasts more than 5,600 lakes and ponds, more than any other state in the Northeast. Moosehead Lake, covering about 117 mi 2 , is the state's largest lake, and Sebago Lake is the deepest at 316 ft (40 ft below sea level).</p><p>The availability of nutrients and oxygen at different lake depths have important implications for fish habitat, and for the purposes of this Plan. Maine's lakes have been classified primarily by elevation, acreage, maximum depth, relative shoreline complexity, and water quality class as determined by MDEP. Most iconic Maine lakes providing coldwater habitat for many native species fall in the Deep Pelagic Lake habitat system Maine also has a small number of fishless ponds, considered important for a variety of invertebrate and amphibian species, and these are also a unique habitat system within the classification (Figure <ref type="figure" target="#fig_2">2</ref><ref type="figure">3</ref><ref type="figure">4</ref><ref type="figure">5</ref>).</p><p>Maine's lotic habitats are important for aquatic SGCN, such as the Brook Trout, Roaring Brook Mayfly, and Brook Floater. West branch of the Penobscot River. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.4">Importance of Habitats to SGCN</head><p>Maine has identified 729 SGCN in this Plan. MDIFW, MNAP and MDMR staff, in consultation with species experts and stakeholders, identified the primary and secondary habitats important to the lifecycle of each of Maine's SGCN when known. However, habitat requirements for some SGCN, especially invertebrates, are not well understood. In those cases, staff used professional knowledge to identify habitat. All Priority 1 and Priority 2 SGCN were associated with the habitat systems in the hierarchical classification. Habitat assignments for Priority 3 SGCN were at the macrogroup scale, since many of the flora and fauna in that category are poorly studied and/or disadvantaged by scant information. Notably, habitats that are moderately to significantly altered by humans also provide habitat for numerous SGCN. In particular, agricultural areas support 43 SGCN, and significant numbers of SGCN are also supported by Ruderal Grasslands and Shrublands, Urban/Suburban -Built, and Modified -Managed Marshes. Reforestation of former agricultural lands and the near demise of some types (e.g., old fields and pastures) has become a critical limitation for many SGCN. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.5">Habitat and Landscape Connectivity</head><p>Most SGCN species in Maine are dependent on multiple habitat types and the connections between these habitats. For example, many SGCN have large home ranges; male Canada lynx over 18 square miles, Moose 8-12 square miles, Blanding's turtles are known to travel over a mile between wetland habitats, and Brook trout are recorded as travelling more than 50 stream miles. Other SGCN require large, connected habitat to maintain and sustain viable populations. Northwestern Maine has been identified as a globally important bird area by the National Audubon Society for its importance for nesting migratory songbirds, (i.e. Baby Bird Factory).</p><p>Transportation infrastructure as well as residential, commercial, and industrial development are fragmenting features that prevent species from moving across the landscape or restrict access to important habitats. Landscape scale habitat units are necessary tools to conserve habitats at the scale that most species require to sustain viable populations, to provide places for species to move or respond to climate change, and allow species to move through Maine's developed landscape.</p><p>The Beginning with Habitat Program (BwH) within MDIFW works with partners at MNAP, MDACF, MDMR, MDEP, and others to aggregate and share species and habitat information for implementation of conservation actions at a regional and landscape scale. BwH publishes and presents map data on map units that transcend habitat types and help plan for habitat connectivity.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.5.1">Focus Areas of Statewide Ecological Significance</head><p>BwH's Focus Areas of Statewide Ecological Significance (Focus Areas) are areas to prioritize collaborative, nonregulatory conservation actions that benefit biodiversity in Maine.</p><p>Focus Areas were mapped to highlight natural areas of statewide biodiversity importance and contain high concentrations of at-risk species and habitats. Focus Areas are nodes of biodiversity. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.5.2">Undeveloped Habitat Blocks</head><p>Undeveloped habitat blocks are areas of intact habitat buffered by 250-500', with buffer distances depending on development intensity. Large undeveloped habitat blocks are important for both common and SGCN species requiring large home ranges or extensive areas of core forest habitat. These mapped resources are important for conservation and natural resource planning for private landowners, municipalities, and conservation organizations.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.5.3">Habitat Connectors</head><p>Roads pose barriers to the movement of many terrestrial species. Habitat Connectors are modeled areas where terrestrial wildlife species are most likely to cross roadways. Habitat Connectors are areas where both sides of a road have intact habitat providing cover for terrestrial wildlife species and are useful for planning infrastructure improvements benefiting wildlife movement. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.5.4">Maine Stream Habitat Viewer</head><p>The Stream Habitat Viewer is a tool which describes habitat connectivity for aquatic species. Maine's stream barrier inventory featured in the viewer is the product of the Maine Stream Connectivity Work Group, a partnership of state, federal, industry and non-government organizations working to improve Maine's stream restoration efforts. This viewer helps make landscape scale decisions on stream habitat restoration and aquatic connectivity.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.5.5">Maine Tidal Restriction Atlas</head><p>The MCP, in coordination with the Maine Office of Community Affairs, and multiple coastal partners created the Maine Tidal Restriction Atlas for communities, road owners, conservation groups, and others who plan for coastal resilience and tidal connectivity. The tidal restriction data featured in the viewer describes habitat and tidal connectivity in coastal areas. The Atlas is based on MCP's statewide Tidal Restriction Assessment, and helps identify culverts, bridges, dams, and other structures that are currently tidal or will likely become tidal in the future. The Atlas is meant to complement use of The CoastWise Approach for tidal road crossing design. The Tidal Restriction Atlas shows where roads, railroads, dams, and other structures cross tidal streams, marshes, and other tidal wetlands and helps visualize impacts from sea level rise and storm surge on both human communities and coastal wildlife populations.     Conserved lands in northern Maine coincide overwhelmingly with biodiversity hotspots within the region. Fiftyeight percent of the land area within BwH Focus Areas in northern Maine is protected by land conservation (compared to 26% of the ecoregions as a whole). However, recent conservation in northern Maine has focused on landscape scale projects at the township or multiple township level and has not targeted biodiversity hotspots.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.6">Habitat Gaps in Land Conservation</head><p>Most low elevation forest habitats are under-represented in ecological reserves or similarly managed lands that are set aside from timber harvesting. Additions to ecological reserves in northern Maine that could address these gaps would include forested habitats of low elevation calcareous or moderately calcareous settings, such as northern hardwoods forest and northern white cedar swamp and other low elevation forested habitats including spruce fir flats in northeastern Maine or hemlock, oak and pine forests in the foothills of Maine's central and western mountains.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Case Study: Municipal planning for habitat conservation and people</head><p>The Beginning with Habitat Program works closely with municipalities to incorporate habitat information into Comprehensive Plans and Open Space plans. This work helps towns identify appropriate places to prioritize growth, protect important habitats including for SGCN plant and animal species, and maintain and enhance corridors for wildlife during transportation planning.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.6.2">Coastal</head><p>Over the next 100 years, it is likely that we will see between 1.2 and 6.1 feet of sea level rise in Maine. The Maine Climate Council recently recommended that the state consider committing to manage for 1.5 feet. of relative sea level rise by 2050, and 3.9 feet of sea level rise by 2100. This recommendation also urges the state to prepare to manage for 3.0 feet. of relative sea level rise by 2050 and 8.8 feet by 2100 (relative to 2020 levels). Maine's future tidal marshes are likely to be in existing estuaries, and the future arrangement of tidal marshes is likely to include space currently occupied by tidal marshes and newly flooded areas, depending on rates of sea level rise and sediment accretion.</p><p>Maine has approximately 22,000 acres of tidal marshes, including 17,700 acres of salt and brackish marsh and 4,300 acres of freshwater tidal marsh. With 6.1 feet of sea level rise, newly tidal areas in estuaries is roughly equivalent (21,000 acres) to the area of current tidal marshes. It is unknown to what extent this newly tidal area could support tidal marshes. Approximately 2,500 acres (12%) of this migration space is currently developed.</p><p>Twenty-four percent of Maine's coastline length is in permanent land conservation. Similarly, there is 23% conservation within the first 250 feet of upland buffering Maine's coast. Coastal land conservation is proportional among rocky coastline and estuarine wetland habitats. Conservation is greatest in southern Maine and eastern Maine. Coastal portions of Midcoast Maine have more limited land protection, especially areas on the west side of Penobscot Bay. Statewide, approximately 26% of potential marsh migration space is conserved through land protection.</p><p>Maine has over 2,400 islands over 1 acre, of which 1,724 are undeveloped. Conservation plays a significant role in maintaining the character of Maine's coastal islands. Over 900 islands (40%) are permanently conserved through fee or easement, and another 77 islands (3%) benefit from partial conservation. Most of the conserved islands are less than 10 acres in size. Based on BwH and MDIFW data, 321 islands have mapped high habitat value. Of these islands with high habitat value, roughly two-thirds are conserved. Tidal saltmarsh on Mount Desert Island.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.6.3">Aquatic/Riparian</head><p>Headwater streams Maine has over 8,000 miles of headwater streams. A focus for land conservation has been placed on headwater streams and small creeks in the uppermost portions of Maine's watersheds because of their importance for cold water aquatic habitat. These streams are the most likely places within a watershed to retain cold water fisheries following different projections of climate change.</p><p>Approximately 22% of headwater streams occur in conservation lands, with the highest level of conservation in the Androscoggin, Kennebec and Penobscot River Watersheds. The lowest level of Maine headwater stream conservation is in the Saco River Watershed 13% which includes the drainages of the Saco, Presumpscot/Sebago Lake, Mousam, and Salmon Falls Rivers.</p><p>River shoreline Maine has nearly 6,000 miles of river shoreline. Land conservation of river shoreline is highest in eastern Maine coastal watersheds (34%) with lower levels of conservation on the shoreline of rivers in the Kennebec, Androscoggin and Saco watersheds (12-14%).</p><p>Pond and lake shoreline Maine has over 2,300 named freshwater lakes and ponds over 10 acres, and nearly 11,000 miles of pond and lake shoreline. Nearly 30% of Maine's pond and lake shoreline is in land conservation, proportionally greater than the area of conservation in Maine as a whole (22%). Conservation is lowest on shorelines of lakes and ponds in the Saco River watershed (10%). Alkaline and circumneutral ponds are very rare in Maine and support specialized habitat for several SGCN plant species. There is minimal conservation of alkaline and circumneutral ponds.</p><p>Maine has 584 heritage fish waters, ponds and lakes with among the best cold-water pond habitat in the state. Roughly 44% of heritage fish waters are completely conserved (i.e., shorelines with &gt;90% conservation). </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Stream vegetated with</head></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Table 2 - 2</head><label>22</label><figDesc>Coastal and marine habitat classification developed for the Maine Wildlife Action Plan. The macrogroup names listed below are not the National Vegetation Classification names but are interpretations to help clarify / envision the habitat types. ......................................................................................................................................... Table 2 -3 Development status of minimal and undeveloped Maine islands, excluding developed islands and bridged or ferried islands. Minimal development islands have 3 or fewer parcels and 1-5 principal structures, while undeveloped islands have no evidence of current development (source MCHT Island Assessment, Sept. 25, 2018). .................................................................................................................................................................................... Table</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head></head><label></label><figDesc>.................................................................................................................................................................................... Table</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Figure 2 -</head><label>2</label><figDesc>Figure 2 -1 Nested habitat hierarchy used in Maine's Wildlife Action Plan, ranging from coarsest units (landscape element) to finest units (Maine Natural Areas Program Natural Communities) with number of habitats per classification in parenthesis. In the 2025 SWAP, SGCN habitat, threats, and conservation actions are assigned at the habitat system, macrogroup, and landscape scales. .............................................................................................. Figure 2 -2 Relative percent coverage of terrestrial and wetland habitat categories in Maine (Source: NatureServe International Vegetation Classification Groups V1.0, 2025). Freshwater aquatic habitat types are not included here but are listed in Table 2 -3. .......................................................................................................................................... Figure 2 -3 Map of Ecoregional Sections of Maine .................................................................................................... Figure 2 -4 Visual representation of coastal and marine macrogroup spatial coverage in Maine state waters (out to 3 nm). Associated acreage found in Table 2 -6. Spatial data is approximate given data gaps in coastal and marine macrogroup mapping. Intertidal data primarily from MGS Maine Coastal Marine Geologic Environments data layer, subtidal data primarily from MGS Maine Inner Continental Shelf Surficial Geology. ......................................Figure 2 -5 Map of Maine Aquatic Habitat Classification System (2025) ..................................................................Figure 2 -6 Example Habitat Connectivity map for Roque Bluffs showing the Englishman Bay Focus Area, Undeveloped Habitat Blocks, and Habitat Connectors. ............................................................................................. Figure 2 -7 Example view of the Maine Stream Habitat Viewer. ...............................................................................Figure 2 -8 Example view of Maine Tidal Restriction Atlas. .......................................................................................</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>Figure</head><label></label><figDesc>Figure 2 -1 Nested habitat hierarchy used in Maine's Wildlife Action Plan, ranging from coarsest units (landscape element) to finest units (Maine Natural Areas Program Natural Communities) with number of habitats per classification in parenthesis. In the 2025 SWAP, SGCN habitat, threats, and conservation actions are assigned at the habitat system, macrogroup, and landscape scales. .............................................................................................. Figure 2 -2 Relative percent coverage of terrestrial and wetland habitat categories in Maine (Source: NatureServe International Vegetation Classification Groups V1.0, 2025). Freshwater aquatic habitat types are not included here but are listed in Table 2 -3. .......................................................................................................................................... Figure 2 -3 Map of Ecoregional Sections of Maine .................................................................................................... Figure 2 -4 Visual representation of coastal and marine macrogroup spatial coverage in Maine state waters (out to 3 nm). Associated acreage found in Table 2 -6. Spatial data is approximate given data gaps in coastal and marine macrogroup mapping. Intertidal data primarily from MGS Maine Coastal Marine Geologic Environments data layer, subtidal data primarily from MGS Maine Inner Continental Shelf Surficial Geology. ......................................Figure 2 -5 Map of Maine Aquatic Habitat Classification System (2025) ..................................................................Figure 2 -6 Example Habitat Connectivity map for Roque Bluffs showing the Englishman Bay Focus Area, Undeveloped Habitat Blocks, and Habitat Connectors. ............................................................................................. Figure 2 -7 Example view of the Maine Stream Habitat Viewer. ...............................................................................Figure 2 -8 Example view of Maine Tidal Restriction Atlas. .......................................................................................</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head></head><label></label><figDesc>Figure 2 -1 Nested habitat hierarchy used in Maine's Wildlife Action Plan, ranging from coarsest units (landscape element) to finest units (Maine Natural Areas Program Natural Communities) with number of habitats per classification in parenthesis. In the 2025 SWAP, SGCN habitat, threats, and conservation actions are assigned at the habitat system, macrogroup, and landscape scales. .............................................................................................. Figure 2 -2 Relative percent coverage of terrestrial and wetland habitat categories in Maine (Source: NatureServe International Vegetation Classification Groups V1.0, 2025). Freshwater aquatic habitat types are not included here but are listed in Table 2 -3. .......................................................................................................................................... Figure 2 -3 Map of Ecoregional Sections of Maine .................................................................................................... Figure 2 -4 Visual representation of coastal and marine macrogroup spatial coverage in Maine state waters (out to 3 nm). Associated acreage found in Table 2 -6. Spatial data is approximate given data gaps in coastal and marine macrogroup mapping. Intertidal data primarily from MGS Maine Coastal Marine Geologic Environments data layer, subtidal data primarily from MGS Maine Inner Continental Shelf Surficial Geology. ......................................Figure 2 -5 Map of Maine Aquatic Habitat Classification System (2025) ..................................................................Figure 2 -6 Example Habitat Connectivity map for Roque Bluffs showing the Englishman Bay Focus Area, Undeveloped Habitat Blocks, and Habitat Connectors. ............................................................................................. Figure 2 -7 Example view of the Maine Stream Habitat Viewer. ...............................................................................Figure 2 -8 Example view of Maine Tidal Restriction Atlas. .......................................................................................</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_5"><head>Figure 2 - 4</head><label>24</label><figDesc>Figure 2 -1 Nested habitat hierarchy used in Maine's Wildlife Action Plan, ranging from coarsest units (landscape element) to finest units (Maine Natural Areas Program Natural Communities) with number of habitats per classification in parenthesis. In the 2025 SWAP, SGCN habitat, threats, and conservation actions are assigned at the habitat system, macrogroup, and landscape scales. .............................................................................................. Figure 2 -2 Relative percent coverage of terrestrial and wetland habitat categories in Maine (Source: NatureServe International Vegetation Classification Groups V1.0, 2025). Freshwater aquatic habitat types are not included here but are listed in Table 2 -3. .......................................................................................................................................... Figure 2 -3 Map of Ecoregional Sections of Maine .................................................................................................... Figure 2 -4 Visual representation of coastal and marine macrogroup spatial coverage in Maine state waters (out to 3 nm). Associated acreage found in Table 2 -6. Spatial data is approximate given data gaps in coastal and marine macrogroup mapping. Intertidal data primarily from MGS Maine Coastal Marine Geologic Environments data layer, subtidal data primarily from MGS Maine Inner Continental Shelf Surficial Geology. ......................................Figure 2 -5 Map of Maine Aquatic Habitat Classification System (2025) ..................................................................Figure 2 -6 Example Habitat Connectivity map for Roque Bluffs showing the Englishman Bay Focus Area, Undeveloped Habitat Blocks, and Habitat Connectors. ............................................................................................. Figure 2 -7 Example view of the Maine Stream Habitat Viewer. ...............................................................................Figure 2 -8 Example view of Maine Tidal Restriction Atlas. .......................................................................................</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_6"><head>Figure 2 - 5</head><label>25</label><figDesc>Figure 2 -1 Nested habitat hierarchy used in Maine's Wildlife Action Plan, ranging from coarsest units (landscape element) to finest units (Maine Natural Areas Program Natural Communities) with number of habitats per classification in parenthesis. In the 2025 SWAP, SGCN habitat, threats, and conservation actions are assigned at the habitat system, macrogroup, and landscape scales. .............................................................................................. Figure 2 -2 Relative percent coverage of terrestrial and wetland habitat categories in Maine (Source: NatureServe International Vegetation Classification Groups V1.0, 2025). Freshwater aquatic habitat types are not included here but are listed in Table 2 -3. .......................................................................................................................................... Figure 2 -3 Map of Ecoregional Sections of Maine .................................................................................................... Figure 2 -4 Visual representation of coastal and marine macrogroup spatial coverage in Maine state waters (out to 3 nm). Associated acreage found in Table 2 -6. Spatial data is approximate given data gaps in coastal and marine macrogroup mapping. Intertidal data primarily from MGS Maine Coastal Marine Geologic Environments data layer, subtidal data primarily from MGS Maine Inner Continental Shelf Surficial Geology. ......................................Figure 2 -5 Map of Maine Aquatic Habitat Classification System (2025) ..................................................................Figure 2 -6 Example Habitat Connectivity map for Roque Bluffs showing the Englishman Bay Focus Area, Undeveloped Habitat Blocks, and Habitat Connectors. ............................................................................................. Figure 2 -7 Example view of the Maine Stream Habitat Viewer. ...............................................................................Figure 2 -8 Example view of Maine Tidal Restriction Atlas. .......................................................................................</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_7"><head>Figure 2 -</head><label>2</label><figDesc>Figure 2 -1 Nested habitat hierarchy used in Maine's Wildlife Action Plan, ranging from coarsest units (landscape element) to finest units (Maine Natural Areas Program Natural Communities) with number of habitats per classification in parenthesis. In the 2025 SWAP, SGCN habitat, threats, and conservation actions are assigned at the habitat system, macrogroup, and landscape scales. .............................................................................................. Figure 2 -2 Relative percent coverage of terrestrial and wetland habitat categories in Maine (Source: NatureServe International Vegetation Classification Groups V1.0, 2025). Freshwater aquatic habitat types are not included here but are listed in Table 2 -3. .......................................................................................................................................... Figure 2 -3 Map of Ecoregional Sections of Maine .................................................................................................... Figure 2 -4 Visual representation of coastal and marine macrogroup spatial coverage in Maine state waters (out to 3 nm). Associated acreage found in Table 2 -6. Spatial data is approximate given data gaps in coastal and marine macrogroup mapping. Intertidal data primarily from MGS Maine Coastal Marine Geologic Environments data layer, subtidal data primarily from MGS Maine Inner Continental Shelf Surficial Geology. ......................................Figure 2 -5 Map of Maine Aquatic Habitat Classification System (2025) ..................................................................Figure 2 -6 Example Habitat Connectivity map for Roque Bluffs showing the Englishman Bay Focus Area, Undeveloped Habitat Blocks, and Habitat Connectors. ............................................................................................. Figure 2 -7 Example view of the Maine Stream Habitat Viewer. ...............................................................................Figure 2 -8 Example view of Maine Tidal Restriction Atlas. .......................................................................................</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_8"><head>Figure 2 - 8</head><label>28</label><figDesc>Figure 2 -1 Nested habitat hierarchy used in Maine's Wildlife Action Plan, ranging from coarsest units (landscape element) to finest units (Maine Natural Areas Program Natural Communities) with number of habitats per classification in parenthesis. In the 2025 SWAP, SGCN habitat, threats, and conservation actions are assigned at the habitat system, macrogroup, and landscape scales. .............................................................................................. Figure 2 -2 Relative percent coverage of terrestrial and wetland habitat categories in Maine (Source: NatureServe International Vegetation Classification Groups V1.0, 2025). Freshwater aquatic habitat types are not included here but are listed in Table 2 -3. .......................................................................................................................................... Figure 2 -3 Map of Ecoregional Sections of Maine .................................................................................................... Figure 2 -4 Visual representation of coastal and marine macrogroup spatial coverage in Maine state waters (out to 3 nm). Associated acreage found in Table 2 -6. Spatial data is approximate given data gaps in coastal and marine macrogroup mapping. Intertidal data primarily from MGS Maine Coastal Marine Geologic Environments data layer, subtidal data primarily from MGS Maine Inner Continental Shelf Surficial Geology. ......................................Figure 2 -5 Map of Maine Aquatic Habitat Classification System (2025) ..................................................................Figure 2 -6 Example Habitat Connectivity map for Roque Bluffs showing the Englishman Bay Focus Area, Undeveloped Habitat Blocks, and Habitat Connectors. ............................................................................................. Figure 2 -7 Example view of the Maine Stream Habitat Viewer. ...............................................................................Figure 2 -8 Example view of Maine Tidal Restriction Atlas. .......................................................................................</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_9"><head>Figure 2 - 9</head><label>29</label><figDesc>Figure 2 -9 Conserved lands in Maine. Dark green lands are Gap 1 or Gap 2 (off limits to extractive uses) and light green lands are considered Gap 3 (fee lands and conservation easements managed for forest products). ............</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_10"><head>Figure 2 - 1</head><label>21</label><figDesc>Figure 2 -1 Nested habitat hierarchy used in Maine's Wildlife Action Plan, ranging from coarsest units (landscape element) to finest units (Maine Natural Areas Program Natural Communities) with number of habitats per classification in parenthesis. In the 2025 SWAP, SGCN habitat, threats, and conservation actions are assigned at the habitat system, macrogroup, and landscape scales.</figDesc><graphic coords="7,51.30,459.85,512.65,189.65" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_11"><head></head><label></label><figDesc>Wetlands may host a different array of species depending on the time of year, the amount and depth of open water, the species, height, and structure of the vegetation, and their proximity to other wetland, upland, or coastal habitats. Certain wetland types are vital to rare plants and animals, including the Black Tern (Chlidonias niger) which nests in emergent marshes and the Blanding's Turtle (Emydoidea blandingii) which inhabits vernal pool complexes within large, forested tracts. Many species of endangered invertebrates, including dragonflies and butterflies, also require wetlands for survival. Several species of rare plants require the saturated conditions of peatlands or contact with nutrient rich ground and surface water to survive, such as the carnivorous slender leaved-sundew (Drosera linearis) or white adder's-mouth orchid (Malaxis monophyllos ssp. brachypoda).Approximately 39% of Maine SGCN plants are associated with wetlands and shorelines across Maine.Approximately 39% of Maine's SGCN plants are associated with one of the many diverse types of wetlands and shores across the state.Maine Natural Areas Program Natural CommunitiesA natural community is "…an assemblage of interacting plants, animals, and their common environment, recurring across the landscape, in which the effects of human intervention are minimal."<ref type="bibr" target="#b41">(Gawler and Cutko 2010)</ref>. Natural communities are the finest level of classification in this plan and nest within habitat systems. Natural communities are used by the MNAP to guide place specific conservation actions and management and are the only terrestrial habitat classification unit in the Plan that is field assessed for its contribution to Maine biodiversity.There are two broad classes of natural communities recognized as important for conservation: those that are rare and those that are common but in exemplary condition. There are currently 104 natural communities identified and defined in Maine. Of these, 59 are considered rare. Some examples of rare natural community types include Pitch Pine-Scrub Oak Barren, Atlantic White Cedar Swamp, Spartina Saltmarsh, and Jack Pine Forest. Of State-rare types, 10 are also considered globally rare. Examples include Hudsonia River Beach (a floodplain type) and Pitch Pine-Scrub Oak Barren (a wooded upland). Examples of common natural community types include Oak -Pine Forest, Red Maple -Sensitive Fern Swamp, and Acidic Cliff -Gorge. Most upland natural communities have been impacted by land use practices, and it is unusual to find relatively large, undisturbed examples of them. Size, landscape context, and condition are all considered when assessing the quality or exemplary status of common natural communities.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_12"><head></head><label></label><figDesc>Beaches, pounded by an average of 8,000 waves a day, are high-energy, climatically extreme environments. They vary from long shorelines of fine-grained silt or sand to cobble shores and boulders. Because of geological differences between western and Downeast Maine, large sand beaches are mostly limited to southern Maine. Sand dunes, often located upslope of sand beaches, are hillocks of wind-blown sand originally brought to the rear of beaches by ocean waves and stabilized by beach grasses. Major sand dune systems in Maine are located at Scarborough Beach , Popham, and Reid State Parks.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_13"><head>Figure 2 - 5</head><label>25</label><figDesc>Figure 2 -5 Map of Maine Aquatic Habitat Classification System (2025)    </figDesc><graphic coords="29,56.10,72.90,466.80,483.20" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_14"><head></head><label></label><figDesc>Figure 2 -6 Example Habitat Connectivity map for Roque Bluffs showing the Englishman Bay Focus Area, Undeveloped Habitat Blocks, and Habitat Connectors.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_15"><head>Figure 2 -</head><label>2</label><figDesc>Figure 2 -7 Example view of the Maine Stream Habitat Viewer.</figDesc><graphic coords="35,261.60,91.19,319.45,212.20" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_16"><head>Figure 2 - 8</head><label>28</label><figDesc>Figure 2 -8 Example view of Maine Tidal Restriction Atlas.</figDesc><graphic coords="35,57.75,348.28,285.75,227.21" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_17"><head>A</head><label></label><figDesc>key habitat conservation action identified in the 2025 Plan is land protection, including both working forest conservation fee or easements as well as ecological reserves where timber harvesting does not occur (see Element 4). Recent work to identify habitat gaps (i.e. habitats poorly represented) in land protection was led by the MNAP in partnership with the MDIFW, the Maine Bureau of Parks and Lands, and the Land for Maine's Future Program. Habitats poorly represented in Maine's network of conserved lands are summarized below by coastal systems, aquatic/riparian, and terrestrial/wetland (Schlawin et al. 2021).</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_18"><head>Figure 2 - 9 •</head><label>29</label><figDesc>Figure 2 -9 Conserved lands in Maine. Dark green lands are Gap 1 or Gap 2 (off limits to extractive uses) and light green lands are considered Gap 3 (fee lands and conservation easements managed for forest products).</figDesc><graphic coords="36,211.50,103.55,365.90,508.85" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="6,50.25,482.09,509.70,205.03" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="8,50.15,489.59,509.70,197.98" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="11,271.80,127.18,294.00,421.70" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="12,50.25,90.05,509.70,205.03" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="13,325.50,260.24,236.15,308.45" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="15,50.25,480.76,509.70,205.03" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="18,50.25,411.35,509.70,205.03" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="21,50.25,242.23,509.70,205.03" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="22,50.25,157.30,509.70,205.03" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="28,50.25,182.99,509.70,266.49" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="34,48.00,504.60,509.65,211.00" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="38,50.25,285.23,509.70,205.03" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="39,45.75,464.99,509.70,205.03" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>2.2.1 Climate Maine</head><label></label><figDesc>Maine's scenic, rock-bound coast is 4,100 miles long and embraces 4,613 islands between Kittery and Eastport. Roughly one quarter of the state consists of freshwater wetlands, including hardwood floodplains, freshwater marshes, and dense assemblages of vernal pools. At nearly 90% forest cover, Maine is the most heavily forested state in the United States, but it also contains ecologically significant grasslands and other open habitats. Maine's terrestrial and wetland habitat types are shown in Figure2-2. 's climate plays a major role in determining the plant and animal assemblages within the State. The National Weather Service separates Maine into three distinct climatological divisions -coastal, southern interior, and northern interior<ref type="bibr" target="#b32">(Brandes 2001)</ref>. The coastal division runs from Kittery to Eastport and about 20 miles inland. Here the ocean moderates the climate, making coastal winters warmer and summers cooler than the interior. The southern interior division, covering the bottom one-third of the state, has the warmest summer</figDesc><table><row><cell>Ag/Developed</cell><cell></cell></row><row><cell>9.90%</cell><cell></cell></row><row><cell>Open Wetland</cell><cell></cell></row><row><cell>2.10%</cell><cell></cell></row><row><cell>Forested</cell><cell></cell></row><row><cell>Wetland</cell><cell></cell></row><row><cell>9.50%</cell><cell></cell></row><row><cell>Open Upland</cell><cell></cell></row><row><cell>2.80%</cell><cell>Forested</cell></row><row><cell></cell><cell>Upland</cell></row><row><cell></cell><cell>75.70%</cell></row><row><cell cols="2">Figure 2 -2 Relative percent coverage of terrestrial and wetland habitat categories in Maine (Source:</cell></row><row><cell cols="2">NatureServe International Vegetation Classification Groups V1.0, 2025). Freshwater aquatic habitat</cell></row><row><cell>types are not included here but are listed in Table 2 -3.</cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head></head><label></label><figDesc>Because of the calcareous nature of the soils and bedrock in the region, there are more rare wetland types and numerous rare plant species that occur nowhere else in Maine. Circumneutral (i.e., nearly to slightly alkaline) fens and northern white cedar swamps are more common in this region than anywhere else in Maine. Forest ecosystems also tend to be more diverse here than in areas to the west, due to the bedrock geology<ref type="bibr" target="#b49">(McMahon 1993)</ref>.</figDesc><table><row><cell>• Aroostook Hills and Lowlands: This approximately 2.5 million-acre region in northeastern Maine includes the largest aggregation of agricultural lands in northern Maine, covering approximately 15% of the biophysical region's area. The majority is forested and transitional between temperate northern hardwoods and boreal spruce-fir forest, all included in the Acadian-Northern Appalachian Forest large stands of spruce-fir forest in valleys and poorly drained flats, with northern hardwoods on hills and drier uplands. Species diversity is lower relative to other Ecoregions, but by contrast the region supports the highest concentration of ribbed fens anywhere in Maine, balsam poplar replaces silver and red maple as the dominant tree in forested floodplains, and northern white cedar seepage forests reach their greatest extent here. The rivershores along the northern Maine boundary support extensive circumneutral riverside seeps (and as a result, several rare and endemic species) and the eastern boundary of the region marks a transition line between more temperate vegetation to the east and macrogroup. • Northwest Maine: This region contains boreal vegetation to the west.</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>Table 2 -</head><label>2</label><figDesc>1 Area of terrestrial/wetland habitat macrogroups and proportions conserved in Maine. Sources: Map of Ecosystems of the CoterminousUS and Adjacent Areas , v1.0 (2025) and Maine Conserved Lands Database (2025). conversion to agriculture or other uses, Maine retains or has regrown much of its forest cover. Sixty-seven woody plant species reach their range limits in south-central Maine, and an additional 44 woody plant species define a coastal-inland transition zone, reaching their western range limits in a southwest-northeast belt bisecting the state<ref type="bibr" target="#b48">(McMahon 1990)</ref>.At the macrogroup level, Maine's most abundant forest type is Acadian-Northern Appalachian Forest, which accounts for approximately 74% of the state and extends from York to Aroostook County. This macrogroup consists of a mosaic of northern hardwood, spruce-fir, and mixed forest types featuring Sugar Maple, American Beech, Yellow Birch, White Ash, Red Spruce, Balsam Fir, and Eastern Hemlock. Appalachian Oak-Pine Forest and Woodland macrogroup is a common forest type of southern Maine and is characterized by dry site oak and pine species including White Pine and Red Oak or White Oak.Forest structure and condition are important attributes for many wildlife species. Both early-(i.e., young) and late-successional (i.e., old) forests are uncommon in parts of Maine. Statewide, Maine's older forests (stand age of more than 150 years) account for less than 4% of the state<ref type="bibr" target="#b42">(Hagan et al. 2024)</ref>, and true old growth may be as little as 0.1% of the state<ref type="bibr" target="#b30">(Barton et al. 2012</ref>). Maine's conserved lands, including ecological reserves where timber harvest is restricted, are an important contributor to the retention and natural development of older forest.</figDesc><table><row><cell>Habitat Macrogroup</cell><cell>Area in Maine (Acres)</cell><cell>Percent of State</cell><cell>Percent Conserved</cell></row><row><cell>Acadian-Northern Appalachian Forest</cell><cell>14,574,829</cell><cell>73.9%</cell><cell>24.4%</cell></row><row><cell>Laurentian-Acadian Flooded &amp; Swamp Forest</cell><cell>1,787,282</cell><cell>9.1%</cell><cell>23.1%</cell></row><row><cell>Developed</cell><cell>1,068,586</cell><cell>5.4%</cell><cell>7.7%</cell></row><row><cell>Agriculture</cell><cell>875,772</cell><cell>4.4%</cell><cell>4.1%</cell></row><row><cell>Ruderal Shrubland &amp; Grassland</cell><cell>527,998</cell><cell>2.7%</cell><cell>18.8%</cell></row><row><cell>Appalachian Oak -Pine Forest &amp; Woodland</cell><cell>343,125</cell><cell>1.7%</cell><cell>11.3%</cell></row><row><cell>Eastern North American Marsh, Wet Meadow &amp; Shrubland</cell><cell>214,044</cell><cell>1.1%</cell><cell>20.9%</cell></row><row><cell>North American Boreal &amp; Subboreal Bog &amp; Acidic Fen</cell><cell>143,070</cell><cell>0.7%</cell><cell>32.9%</cell></row><row><cell>Central Hardwood Swamp Forest</cell><cell>83,024</cell><cell>0.4%</cell><cell>13.9%</cell></row><row><cell>North American Boreal &amp; Subboreal Alkaline Fen</cell><cell>46,754</cell><cell>0.2%</cell><cell>24.5%</cell></row><row><cell>North Atlantic Coastal Forest &amp; Woodland</cell><cell>17,943</cell><cell>0.1%</cell><cell>31.4%</cell></row><row><cell>Intertidal Tidal Marsh (peat-forming)</cell><cell>17,919</cell><cell>0.1%</cell><cell>47.0%</cell></row><row><cell>Coastal Plain Evergreen Hardwood -Conifer Swamp</cell><cell>12,256</cell><cell>0.1%</cell><cell>13.0%</cell></row><row><cell>Eastern North American Alpine Tundra</cell><cell>10,969</cell><cell>0.1%</cell><cell>81.0%</cell></row><row><cell>Laurentian-Acadian Acidic Rocky Scrub &amp; Grassland</cell><cell>5,433</cell><cell>&lt;.1%</cell><cell>67.7%</cell></row><row><cell>North American Atlantic Coastal Dune, Grassland &amp; Rocky</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Headland</cell><cell>740</cell><cell>&lt;.1%</cell><cell>63.0%</cell></row><row><cell>North American Atlantic Coastal Beach &amp; Rocky Shore</cell><cell>536</cell><cell>&lt;.1%</cell><cell>18.2%</cell></row><row><cell>Eastern North American Cliff, Talus &amp; Rock</cell><cell>7</cell><cell>&lt;.1%</cell><cell>63.6%</cell></row><row><cell>Total Land Area</cell><cell>19,730,290</cell><cell></cell><cell>22.1%</cell></row><row><cell>Upland Forests</cell><cell></cell><cell></cell><cell></cell></row><row><cell cols="2">Maine falls in the transition between the deciduous forest region to</cell><cell></cell><cell></cell></row><row><cell cols="2">the south and the boreal forest region to the north. Maine's forests</cell><cell></cell><cell></cell></row></table><note><p>cover more than 17 million acres, making Maine the most heavily forested state in the nation by percent land cover. Unlike other regions where forest cover has been almost completely lost due to "Maine's forests cover more than 17 million acres, making Maine the most heavily forested state in the nation by percent land cover."</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_4"><head>Table 2 -</head><label>2</label><figDesc></figDesc><table><row><cell>Formation</cell><cell>Macrogroup</cell><cell>Habitat System</cell></row><row><cell>Tidal Marsh</cell><cell>Intertidal Tidal Marsh (peat-forming)</cell><cell>Acadian Coastal Salt Marsh Coastal Plain Tidal Marsh</cell></row><row><cell></cell><cell></cell><cell>Acadian-North Atlantic Rocky Coast</cell></row><row><cell>Rocky Coast</cell><cell>Rocky Coast</cell><cell>North Atlantic Cobble Shore</cell></row><row><cell></cell><cell></cell><cell>Coastal Islands</cell></row><row><cell>Coastal</cell><cell>Coastal Grassland &amp; Shrubland</cell><cell>Northern Atlantic Coastal Plain Dune and Maritime Grassland Northern Atlantic Coastal Plain Sandy Beach</cell></row><row><cell></cell><cell></cell><cell>Non-Vascular Mudflat</cell></row><row><cell></cell><cell>Intertidal Mudflat</cell><cell>Freshwater Tidal Marsh</cell></row><row><cell></cell><cell></cell><cell>Submerged Aquatic Vegetation</cell></row><row><cell></cell><cell></cell><cell>Sand Flat</cell></row><row><cell>Intertidal</cell><cell>Intertidal Sandy Shore</cell><cell>Submerged Aquatic Vegetation</cell></row><row><cell></cell><cell></cell><cell>Sand Beach</cell></row><row><cell></cell><cell></cell><cell>Oyster Reef</cell></row><row><cell></cell><cell>Intertidal Mollusc Reefs</cell><cell>Gastropod Reef</cell></row><row><cell></cell><cell></cell><cell>Mussel Reef</cell></row></table><note><p>2 Coastal and marine habitat classification developed for the Maine Wildlife Action Plan. The macrogroup names listed below are not the National Vegetation Classification names but are interpretations to help clarify / envision the habitat types.</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_5"><head>Table 2 -</head><label>2</label><figDesc></figDesc><table><row><cell>Island Size (acres)</cell><cell>Undeveloped</cell><cell>Minimal Developed</cell><cell>Total</cell></row><row><cell>0.1 to 1</cell><cell>777</cell><cell>4</cell><cell>781</cell></row><row><cell>1 to 10</cell><cell>663</cell><cell>88</cell><cell>751</cell></row><row><cell>10 to 100</cell><cell>252</cell><cell>121</cell><cell>373</cell></row><row><cell>100 to 1,000</cell><cell>31</cell><cell>46</cell><cell>77</cell></row><row><cell>Over 1,000</cell><cell>1</cell><cell>6</cell><cell>7</cell></row><row><cell>Overall</cell><cell>1,724</cell><cell>265</cell><cell>1,989</cell></row></table><note><p><p><p><p>3 Development status of minimal and undeveloped Maine islands, excluding developed islands and bridged or ferried islands. Minimal development islands have 3 or fewer parcels and 1-5 principal structures, while undeveloped islands have no evidence of current development</p>(source MCHT Island Assessment, Sept. 25, 2018)</p>.</p>North Atlantic Coastal Dune habitat system at Reid State Park, Georgetown. © MDIFW</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_6"><head>Table 2 -</head><label>2</label><figDesc>4 Estimates of coastal and marine macrogroup spatial coverage in Maine state waters (out to 3 nm). Data sourced from Maine Geological Survey (MGS). Intertidal data primarily from MGS Maine Coastal Marine GeologicEnvironments data layer, subtidal data primarily from MGS Maine Inner Continental Shelf Surficial Geology. Note, existing spatial data available for Maine state waters does not align perfectly with SWAP macrogroups. For the purposes of this inventory some macrogroups were combined to better represent available data layers from MGS.</figDesc><table><row><cell>Coastal and Marine Macrogroup</cell><cell>Area (Acres)</cell><cell>Percent of Maine State</cell></row><row><cell></cell><cell></cell><cell>Waters</cell></row><row><cell>Subtidal Bedrock Bottom</cell><cell>636,032.9</cell><cell>29.5 %</cell></row><row><cell>Subtidal Mud Bottom</cell><cell>581,077.7</cell><cell>27.0 %</cell></row><row><cell>Subtidal Coarse Gravel Bottom</cell><cell>229,040.3</cell><cell>10.6</cell></row><row><cell>Intertidal Water Columns</cell><cell>141,469.1</cell><cell>6.6</cell></row><row><cell>Subtidal Sand Bottom</cell><cell>68,574.4</cell><cell>3.2</cell></row><row><cell>Intertidal Mudflat</cell><cell>58,838.3</cell><cell>2.7</cell></row><row><cell>Intertidal Bedrock</cell><cell>36,261.5</cell><cell>1.7</cell></row><row><cell>Intertidal Tidal Marsh</cell><cell>26,732.2</cell><cell>1.2</cell></row><row><cell>Subtidal Coarse Gravel Bottom / Subtidal Sand Bottom</cell><cell>11,154.5</cell><cell>0.5</cell></row><row><cell>Intertidal Gravel Shore</cell><cell>10,100.7</cell><cell>0.5</cell></row><row><cell>Subtidal Bedrock Bottom/Subtidal Coarse Gravel Bottom</cell><cell>9,016.0</cell><cell>0.4</cell></row><row><cell>Intertidal Sandy Shore</cell><cell>7,251.1</cell><cell>0.3</cell></row><row><cell>Intertidal Mud Bottom</cell><cell>6,337.7</cell><cell>0.3</cell></row><row><cell>Intertidal Mud Bottom / Intertidal Sandy Shore</cell><cell>5,822.6</cell><cell>0.3</cell></row><row><cell>Coastal Grassland &amp; Shrubland</cell><cell>4,956.0</cell><cell>0.2</cell></row><row><cell>Rocky Coast / Developed</cell><cell>3,328.9</cell><cell>0.2</cell></row><row><cell>Subtidal Mud Bottom / Subtidal Coarse Gravel Bottom</cell><cell>2,779.6</cell><cell>0.1</cell></row><row><cell>Subtidal Sand Bottom / Subtidal Mud Bottom</cell><cell>2,507.9</cell><cell>0.1</cell></row><row><cell>Intertidal Bedrock / Intertidal Gravel Shore</cell><cell>1,320.2</cell><cell>0.1</cell></row><row><cell>Subtidal Pelagic</cell><cell>1,258.0</cell><cell>&lt;0.1</cell></row><row><cell>Intertidal Mollusc Reef</cell><cell>916.5</cell><cell>&lt;0.1</cell></row><row><cell>Subtidal Coarse Gravel Bottom / Subtidal Mud Bottom</cell><cell>551.2</cell><cell>&lt;0.1</cell></row><row><cell>Subtidal Bedrock Bottom / Subtidal Sand Bottom</cell><cell>344.4</cell><cell>&lt;0.1</cell></row><row><cell>Intertidal Gravel Shore / Intertidal Sandy Shore</cell><cell>200.3</cell><cell>&lt;0.1</cell></row><row><cell>Subtidal Mud Bottom / Subtidal Sand Bottom</cell><cell>26.7</cell><cell>&lt;0.1</cell></row><row><cell>Other</cell><cell>730.3</cell><cell>&lt;0.1</cell></row></table><note><p><p>Figure 2 -4 Visual representation of coastal and marine macrogroup spatial coverage in Maine state waters (out to 3 nm). Associated acreage found in</p>Table 2 -6. Spatial data is approximate given data gaps in coastal and marine macrogroup mapping. Intertidal data primarily from MGS Maine Coastal Marine Geologic Environments data layer, subtidal data primarily from MGS Maine Inner Continental Shelf Surficial Geology.</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_7"><head>Table 2 -</head><label>2</label><figDesc>5 Macrogroups and habitat systems included in the Maine Aquatic Habitat Classification System (MAHCS) developed for the 2025 Wildlife Action Plan. Spatial coverage metrics for Lotic systems are provided in river miles and kilometers (Km), and for Lentic systems in acres and kilometers squared (Km 2 ). The full MAHCS, including all quantitative metrics used to differentiate habitat systems, is available in Appendix 2 -1 and Appendix 2 -2.</figDesc><table><row><cell>Macrogroup Habitat System</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_8"><head></head><label></label><figDesc>Some less common habitats support a disproportionated number of SGCN. For example, Appalachian Oak-Pine Forest and Woodland provides habitat for 85 SGCN but covers less than 2% of the state. Forested and open vegetated wetlands together provide habitat to 328 SGCN (45% of Maine's total) and are often only one piece of a species' life history requirements, underscoring the need for healthy wetland habitats and connectivity with other habitat types.All of the Coastal and Marine Macrogroups support multiple SGCN, but the Subtidal Pelagic (i.e., water column) macrogroup is home to the most Priority 1 coastal or marine SGCN as well as total SGCN. Many marine fauna have complex life histories with varying habitat affinities at different stages of development.</figDesc><table /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_9"><head>Table 2 -</head><label>2</label><figDesc>6 Species of Greatest Conservation Need (SGCN) associations with NETHCS habitat macrogroups from the 2025 Maine Wildlife Action Plan. Many SGCN are associated with more than one habitat macrogroup and may be included in multiple rows. Click on a macrogroup name to launch a full summary report.</figDesc><table><row><cell>Macrogroup</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_10"><head></head><label></label><figDesc>Though Focus Areas occupy only about 11.5% of Maine's land area, collectively they include examples of over 85% of rare, threatened, and endangered plant and animal species and high-quality examples of all natural community types. Focus Areas have become integrated into many conservation and restoration programs such as the Land for Maine's Future, Maine Natural Resources Conservation Program, and the Forest Legacy Program.</figDesc><table /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_12"><head></head><label></label><figDesc>Pickerelweed and Yellow Water Lily. © MNAP</figDesc><table><row><cell>Habitat System</cell><cell>Factor</cell><cell>Class</cell><cell>Condition</cell><cell>Data Source</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>EcoSheds/USGS High Resolution</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>data modeled mean July</cell></row><row><cell></cell><cell>Temperature</cell><cell>Cold</cell><cell>Cold &lt;18 C</cell><cell>temperature based on Maine Stream Temperature Monitoring</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>Network data 2000-2020 of</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>NHDPlusIDs within a reachID</cell></row><row><cell></cell><cell>Drainage Area</cell><cell>Large River</cell><cell>Large River &gt;=7769.964 km 2</cell><cell>NHD 1:24 k Hi Res dataset Calculated as total drainage area above ReachID</cell></row><row><cell>Non-cold Large Rivers</cell><cell>Temperature</cell><cell>Transitional or Warm</cell><cell>Transitional &gt;=18 C and &lt;22 C, Warm &gt;22 C</cell><cell>EcoSheds/USGS High Resolution data modeled mean July temperature based on Maine Stream Temperature Monitoring Network data 2000-2020 of</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>NHDPlusIDs within a reachID</cell></row><row><cell></cell><cell></cell><cell></cell><cell>Small River</cell><cell></cell></row><row><cell>Transitional Small and Medium Rivers</cell><cell>Drainage Area</cell><cell>Small or Medium</cell><cell>&gt;=64.7497 and &lt; 517.998 km 2 , Medium River &gt;=517.998 and &lt; 7769.964 km 2</cell><cell>NHD 1:24 k Hi Res dataset Calculated as total drainage area above ReachID EcoSheds/USGS High Resolution data modeled mean July</cell></row><row><cell></cell><cell cols="2">Temperature Transitional</cell><cell>Transitional &gt;=18 C and &lt;22 C</cell><cell>temperature based on Maine Stream Temperature Monitoring</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>Network data 2000-2020 of</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>NHDPlusIDs within a reachID</cell></row><row><cell></cell><cell></cell><cell></cell><cell>Small River</cell><cell></cell></row><row><cell>Warm Small and Medium Rivers</cell><cell>Drainage Area</cell><cell>Small or Medium</cell><cell>&gt;=64.7497 and &lt; 517.998 km 2 , Medium River &gt;=517.998 and &lt; 7769.964 km 2</cell><cell>NHD 1:24 k Hi Res dataset Calculated as total drainage area above ReachID EcoSheds/USGS High Resolution data modeled mean July</cell></row><row><cell></cell><cell>Temperature</cell><cell>Warm</cell><cell>Warm &gt;22 C</cell><cell>temperature based on Maine Stream Temperature Monitoring</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>Network data 2000-2020 of</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>NHDPlusIDs within a reachID</cell></row></table></figure>
+		</body>
+		<back>
+
+			<div type="funding">
+<div><p>Appendix 2 -2 <rs type="projectName">Maine Aquatic Habitat Classification System (MAHCS)</rs> for the Lentic habitat macrogroup developed for the 2025 <rs type="institution">Wildlife Action Plan</rs>. The Lotic MAHCS system can be viewed in Appendix 2 -1). [*WQ= Water Quality] .</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funded-project" xml:id="_4eE3kSA">
+					<orgName type="project" subtype="full">Maine Aquatic Habitat Classification System (MAHCS)</orgName>
+				</org>
+			</listOrg>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>List of Tables</head> <ref type="table">Table 2 -</ref><p>Tidal Marshes and Estuaries Gulf of Maine tidal marshes and estuaries include saltmarsh, rocky intertidal, and mudflat. The location and extent of these habitats are influenced by substrate, wave and tidal energy, tidal range, and slope. These habitats support several commercially important species as well as numerous SGCN.</p><p>Tidal marshes occur throughout the Gulf of Maine as large estuarine complexes or small fringe marshes. Of more than 5 million acres of wetlands in the state, approximately 157,500 acres are tidal (i.e., tidal flats, salt marsh, brackish marsh, aquatic beds, beach bars and reefs), including upwards of 31,000 acres of salt marsh and 21,666 acres of eelgrass (Zostera marina; <ref type="bibr" target="#b34">Colarusso et al. 2023</ref><ref type="bibr">, MDEP 1996</ref><ref type="bibr">, MEPC 1998</ref><ref type="bibr">, MNAP 2014)</ref>. In fact, there are </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.8">Appendicies</head></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration">Table of Contents Element 2: Key Habitats and Natural Communities ....................................................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration">0 Abstract ..............................................................................................................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration">1 Introduction .......................................................................................................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<title level="m" type="main">Significant Differences from Maine&apos;s</title>
+		<author>
+			<orgName type="collaboration">Plan .........................................................................................</orgName>
+		</author>
+		<imprint>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration">2 Landscape Overview of Maine ...........................................................................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration">2.1 Climate ........................................................................................................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration">2.2 Physiography ...............................................................................................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration">2.3 Ecoregions ...................................................................................................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration">Maine&apos;s Habitat Types .....................................................................................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration">1 Terrestrial/Wetland Habitats ....................................................................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration">2 Coastal and Marine Habitats ....................................................................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration">Freshwater Aquatic Habitat Classification System ...................................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration">4 Importance of Habitats to SGCN ......................................................................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration">5 Habitat and Landscape Connectivity ...............................................................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration">Focus Areas of Statewide Ecological Significance .....................................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration">2 Undeveloped Habitat Blocks .....................................................................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration">5.3 Habitat Connectors ...................................................................................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration">Maine Stream Habitat Viewer ..................................................................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration">Maine Tidal Restriction Atlas ....................................................................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration">6 Habitat Gaps in Land Conservation .................................................................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration">1 Terrestrial/freshwater wetlands ...............................................................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration">2 Coastal ......................................................................................................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration">3 Aquatic/Riparian .......................................................................................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration">7 Literature Cited and References ......................................................................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration">8 Appendicies ......................................................................................................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<monogr>
+		<title level="m" type="main">Resilient sites for species conservation in the Northeast and mid-Atlantic region. The Nature Conservancy, Eastern Conservation Science</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">G</forename><surname>Anderson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Clark</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">Olivero</forename><surname>Sheldon</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2011">2011</date>
+			<biblScope unit="page">122</biblScope>
+			<pubPlace>Boston, MA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<monogr>
+		<title level="m" type="main">Northeast habitat guides: a companion to the terrestrial and aquatic habitat maps. The Nature Conservancy, Eastern Conservation Science, Eastern Regional Office</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">G</forename><surname>Anderson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Clark</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">E</forename><surname>Ferree</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Jospe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Olivero Sheldon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">J</forename><surname>Weaver</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2013">2013</date>
+			<biblScope unit="page">394</biblScope>
+			<pubPlace>Boston, MA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<monogr>
+		<title level="m" type="main">Condition of the Northeast terrestrial and aquatic habitats: a geospatial analysis and tool set. The Nature Conservancy, Eastern Conservation Science</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">G</forename><surname>Anderson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Clark</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">E</forename><surname>Ferree</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Jospe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">Olivero</forename><surname>Sheldon</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2013">2013</date>
+			<biblScope unit="page">171</biblScope>
+			<pubPlace>Boston, MA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Extending the Northeast terrestrial habitat map to Atlantic Canada</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">G</forename><surname>Anderson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Ferree</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Mcgargial</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Report to North Atlantic Landscape Conservation Cooperative</title>
+		<meeting><address><addrLine>Hadley,MA</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2015">2015</date>
+			<biblScope unit="page">23</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Askins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Chavez-Ramirez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">C</forename><surname>Dale</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Haas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Herkert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">L</forename><surname>Knopf</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">D</forename><surname>Vickery</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Conservation of grassland birds in North America: understanding ecological processes in different regions</title>
+		<imprint>
+			<date type="published" when="2007">2007</date>
+			<biblScope unit="volume">64</biblScope>
+			<biblScope unit="page">46</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<monogr>
+		<title level="m" type="main">The Changing Nature of the Maine Woods</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Barton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">S</forename><surname>White</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">V</forename><surname>Cogobill</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2012">2012</date>
+			<publisher>University of New England Press</publisher>
+			<biblScope unit="volume">304</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<monogr>
+		<title level="m" type="main">Maine&apos;s natural heritage. For the Maine Critical Areas Program, State Planning Office</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">B</forename><surname>Bennett</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1988">1988</date>
+			<biblScope unit="page">285</biblScope>
+			<pubPlace>Augusta, ME</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<monogr>
+		<title level="m" type="main">Moon handbooks: Maine</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">M</forename><surname>Brandes</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2001">2001</date>
+			<publisher>Avalon Travel Publishing</publisher>
+			<biblScope unit="page">651</biblScope>
+			<pubPlace>CA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<monogr>
+		<title level="m" type="main">A classification system of marine and estuarine habitats in Maine: An ecosystem approach to habitats</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Brown</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1993">1993</date>
+			<publisher>Maine Natural Areas Program, Department of Economic and Community Development</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<monogr>
+		<title level="m" type="main">Region 1: The Blue Carbon Reservoirs from Maine to Long Island</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Colarusso</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Libohova</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Shumchenia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Eagle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Christian</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Vincent</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Johnson</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2023">2023</date>
+		</imprint>
+		<respStmt>
+			<orgName>NY. Environmental Protection Agency</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<monogr>
+		<title level="m" type="main">Coastal and Marine Ecological Classification Standard (CMECS). 2012. Marine and Coastal Spatial Data Subcommittee, Federal Geographic Data Committee</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Calhoun</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2001">2001</date>
+			<biblScope unit="volume">70</biblScope>
+			<biblScope unit="page" from="4333" to="4341" />
+			<pubPlace>Augusta, Maine</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Vernal pool assessment. Maine Department of Inland Fisheries and Wildlife, 284 State Street, State House Station 41</note>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<monogr>
+		<title level="m" type="main">From Cape Cod to the Bay of Fundy: An environmental atlas of the Gulf of Maine</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">W</forename><surname>Conkling</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1995">1995</date>
+			<publisher>The MIT Press</publisher>
+			<pubPlace>Cambridge, MA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<monogr>
+		<title level="m" type="main">Evaluation of Maine peatlands for their unique and exemplary qualities</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">B</forename><surname>Davis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">L</forename><surname>Jacobson</surname><genName>Jr</genName></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">S</forename><surname>Widoff</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Zlotsky</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1983">1983</date>
+			<publisher>Maine Department of Conservation</publisher>
+			<pubPlace>Augusta, ME</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<monogr>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>Day</surname></persName>
+		</author>
+		<title level="m">A history of Maine agriculture, 1604-1860</title>
+		<meeting><address><addrLine>Orono, ME</addrLine></address></meeting>
+		<imprint>
+			<publisher>University Press</publisher>
+			<date type="published" when="1954">1954</date>
+			<biblScope unit="page">318</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<monogr>
+		<title level="m" type="main">Maine&apos;s Climate Future: 2015 Update</title>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">J</forename><surname>Fernandez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">V</forename><surname>Schmitt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">D</forename><surname>Birkel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Stancioff</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J</forename><surname>Pershing</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">T</forename><surname>Kelley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">L</forename><surname>Jacobson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">A</forename><surname>Mayewvski</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2015">2015</date>
+			<biblScope unit="volume">24</biblScope>
+			<pubPlace>Orono, ME</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>University of Maine</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<monogr>
+		<title level="m" type="main">Biological diversity in Maine -an assessment of status and trends in the terrestrial and freshwater landscape. Maine Natural Areas Program, Department of Conservation</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">C</forename><surname>Gawler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Albright</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">D</forename><surname>Vickery</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">C</forename><surname>Smith</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1996">1996</date>
+			<pubPlace>Augusta, Maine</pubPlace>
+		</imprint>
+	</monogr>
+	<note>80pp plus appendices</note>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<monogr>
+		<title level="m" type="main">Natural Landscapes of Maine: A Guide to Natural Communities and Ecosystems</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Gawler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Cutko</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2010">2010</date>
+			<publisher>Maine Natural Areas Program</publisher>
+			<pubPlace>Augusta</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<monogr>
+		<author>
+			<persName><forename type="first">J</forename><surname>Hagan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Shamgochian</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Taylor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Reed</surname></persName>
+		</author>
+		<title level="m">Using LiDAR to Map, Quantify, and Conserve Latesuccessional Forest in Maine. Our Climate Common Report</title>
+		<meeting><address><addrLine>Georgetown, Maine</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2024">2024</date>
+			<biblScope unit="page">44</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<monogr>
+		<title level="m" type="main">Issue profile Maine&apos;s wetlands: their functions and values</title>
+		<imprint>
+			<date type="published" when="1996">1996</date>
+			<pubPlace>DEP, Augusta, ME</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>Maine Department of Environmental Protection (MDEP)</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<monogr>
+		<title level="m">Marine Vegetation Mapping Program Report to the Joint Standing Committee on Environment and Natural Resources 131 st Legislature</title>
+		<imprint>
+			<date type="published" when="2024">2024</date>
+		</imprint>
+		<respStmt>
+			<orgName>Maine Department of Environmental Protection (MDEP)</orgName>
+		</respStmt>
+	</monogr>
+	<note>Second Session</note>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<monogr>
+		<title level="m" type="main">An assessment of the quality of Maine&apos;s environment 1998</title>
+		<imprint>
+			<date type="published" when="1998">1998</date>
+			<publisher>Maine Environmental Priorities Council (MEPC)</publisher>
+			<biblScope unit="page">28</biblScope>
+			<pubPlace>Augusta, ME</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<monogr>
+		<title level="m" type="main">Analysis of tidal marsh acreage in Maine, based on digitized air imagery and National Wetlands Inventory maps</title>
+		<imprint>
+			<date type="published" when="2014">2014</date>
+			<publisher>Maine Natural Areas Program (MNAP)</publisher>
+		</imprint>
+	</monogr>
+	<note>Unpublished data from Don Cameron</note>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<analytic>
+		<title level="a" type="main">Scientific Assessment of Climate Change and Its Effects in Maine -2024 Update</title>
+		<author>
+			<persName><surname>Mcc Sts</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">A Report by the Scientific and Technical Subcommittee (STS) of the Maine Climate Council (MCC)</title>
+		<meeting><address><addrLine>Augusta, Maine</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2024">2024</date>
+			<biblScope unit="page">268</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<monogr>
+		<title level="m" type="main">The biophysical regions of Maine: patterns in the landscape and vegetation</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Mcmahon</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1990">1990</date>
+			<biblScope unit="page">120</biblScope>
+			<pubPlace>Orono</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>Univ. of Maine</orgName>
+		</respStmt>
+	</monogr>
+	<note type="report_type">M.S. Thesis</note>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<analytic>
+		<title level="a" type="main">An Ecological Reserves System for Maine: Benchmarks in a Changing Landscape. Natural Resources Policy Division, Maine State Planning Office</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Mcmahon</surname></persName>
+		</author>
+		<ptr target="https://geohub-natureserve.opendata.arcgis.com/maps/Natureserve" />
+	</analytic>
+	<monogr>
+		<title level="m">Chapter 1: Maine state level data. NatureServe International Vegetation Classification Groups V1</title>
+		<title level="s">Maine. National Agricultural Statistics Service</title>
+		<imprint>
+			<date type="published" when="1993-08">1993. August. 2009. 2025</date>
+			<biblScope unit="volume">I</biblScope>
+			<biblScope unit="page">96</biblScope>
+		</imprint>
+	</monogr>
+	<note>The 2007 census of agriculture: table of 2007 statistics and earlier census years. international-vegetation-classification-groups-v1-0/explore?location=16.242644%2C-83.233795%2C2</note>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<monogr>
+		<title level="m" type="main">Climate change tree atlas, Version 4</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">P</forename><surname>Peters</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Prasad</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">N</forename><surname>Matthews</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">R</forename><surname>Iverson</surname></persName>
+		</author>
+		<ptr target="https://www.nrs.fs.fed.us/atlas" />
+		<imprint>
+			<date type="published" when="2020">2020</date>
+			<pubPlace>Delaware, OH</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>U.S. Forest Service, Northern Research Station and Northern Institute of Applied Climate Science</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<analytic>
+		<title level="a" type="main">Forest statistics for Maine, 1971 and 1982</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">S</forename><surname>Powell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">R</forename><surname>Dickson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="s">Forest Service Bulletin. NE-</title>
+		<imprint>
+			<biblScope unit="volume">81</biblScope>
+			<biblScope unit="page">194</biblScope>
+			<date type="published" when="1984">1984</date>
+			<publisher>U. S. Department of Agriculture</publisher>
+			<pubPlace>Broomall, PA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<monogr>
+		<title level="m" type="main">A Conservation Vision for Maine Using Ecological Systems</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Schlawin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Cutko</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2014">2014</date>
+			<publisher>Maine Natural Areas Program</publisher>
+			<pubPlace>Augusta ME</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b53">
+	<monogr>
+		<title level="m" type="main">An assessment of accomplishments and gaps in Maine Land Conservation. Maine Natural Areas Program</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Schlawin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Puryear</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Circo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Cutko</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Demers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Docherty</surname></persName>
+		</author>
+		<ptr target="https://www.maine.gov/dacf/mnap/publications/LAPAC_2021techrept.pdf" />
+		<imprint>
+			<date type="published" when="2021">2021</date>
+			<pubPlace>Augusta ME</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b54">
+	<analytic>
+		<title level="a" type="main">and the Northeast Fish and Wildlife Diversity Technical Committee (NEFWDTC). 2023. Northeast Regional Conservation Synthesis for 2025 State Wildlife Action Plans. Northeast Association of Fish and Wildlife Agencies</title>
+	</analytic>
+	<monogr>
+		<title level="j">The Nature Conservancy and NatureServe</title>
+		<imprint>
+			<date type="published" when="2011">2011</date>
+			<publisher>Terwilliger Consulting, Inc</publisher>
+			<pubPlace>Washington, D.C</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Northeast Terrestrial Habitat Classification System</note>
+</biblStruct>
+
+<biblStruct xml:id="b55">
+	<monogr>
+		<title level="m" type="main">Birds of western Pennsylvania</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">E C</forename><surname>Todd</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1940">1940</date>
+			<publisher>University of Pittsburgh Press</publisher>
+			<biblScope unit="page">710</biblScope>
+			<pubPlace>Pittsburgh, PA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b56">
+	<monogr>
+		<ptr target="https://research.fs.usda.gov/programs/fia" />
+		<title level="m">Inventory and Analysis Project</title>
+		<imprint>
+			<publisher>U.S. Forest Service</publisher>
+			<date type="published" when="2021">2021</date>
+			<biblScope unit="page">2023</biblScope>
+		</imprint>
+		<respStmt>
+			<orgName>University of New Hampshire</orgName>
+		</respStmt>
+	</monogr>
+	<note>Data analysis by Mark Ducey</note>
+</biblStruct>
+
+<biblStruct xml:id="b57">
+	<monogr>
+		<title level="m" type="main">EcoSHEDS Northeast Stream Temperature Model v2 [preliminary results]. Received via personal communication on</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Walker</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2025-02-21">2025. Feb 21, 2025</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b58">
+	<monogr>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Whitehead</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">L</forename><surname>Mecray</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">D</forename><surname>Lane</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Kerr</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Finucane</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">R</forename><surname>Reidmiller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">C</forename><surname>Bove</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">A</forename><surname>Montalto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>O'rourke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Zarrilli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Chigbu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">C</forename><surname>Thornbrugh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">N</forename><surname>Curchitser</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">G</forename><surname>Hunter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Law</surname></persName>
+		</author>
+		<title level="m">Ch. 21. Northeast. In: Fifth National Climate Assessment</title>
+		<editor>
+			<persName><forename type="first">A</forename><forename type="middle">R</forename><surname>Crimmins</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">C</forename><forename type="middle">W</forename><surname>Avery</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">D</forename><forename type="middle">R</forename><surname>Easterling</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">K</forename><forename type="middle">E</forename><surname>Kunkel</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">B</forename><forename type="middle">C</forename><surname>Stewart</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">T</forename><forename type="middle">K</forename><surname>Maycock</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Washington, DC, USA</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2023">2023</date>
+		</imprint>
+		<respStmt>
+			<orgName>U.S. Global Change Research Program</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b59">
+	<monogr>
+		<title level="m" type="main">Climate change and biodiversity in Maine: vulnerability of habitats and priority species. Manomet Center for Conservation Sciences (in collaboration with Maine Beginning with Habitat Climate Change Working Group</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Whitman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Cutko</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Demaynadier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Walker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Vickery</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Stockwell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Houston</surname></persName>
+		</author>
+		<idno>NCI- 2013-03</idno>
+		<imprint>
+			<date type="published" when="2013">2013</date>
+			<biblScope unit="page">105</biblScope>
+			<pubPlace>Brunswick, ME</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="report_type">Report</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>
+

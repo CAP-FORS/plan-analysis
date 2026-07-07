@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main"></title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">39BBDE2366EF0A4CE5E620C04F1822EA</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.1" ident="GROBID" when="2026-07-06T11:45+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Appendix 12. List of Iowa Butterflies Evaluated by the IWAP.</p><p>Taxonomic order and scientific names derived from: Pelham, JP. (2023). A catalogue of the butterflies of the United States and Canada.</p><p>SGCN refers to Species of Greatest Conservation Need (SGCN) status as determined through IWAP species conservation status assessments. Y: Yes, species is SGCN. Blank: No, species is not SGCN.</p><p>T/E Status: Refers to whether a species is federally listed as Endangered, Threatened, or Candidate at the time of this plan's publication. It also refers to those species proposed for Endangered, Threatened or Delisting status at the state level. For up-to-date state of Iowa listing information, please see the Threatened and Endangered Species Program page on the DNR website.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Assessments of species conservation status undertaken as part of the IWAP are used to determine SGCN status. Other information is provided as a reference. Updates to State Wildlife Action Plans, Regional SGCN lists, Federal T&amp;E Status, etc., are each independent processes, undertaken by different entities with differing timeframes. As such, the various listings or status ranks for a given species at a given point in time may not always appear to be in accord. Please visit the links above for updated information. Data Deficient Species -Species evaluated by butterfly subcommittee for which insufficient information was available to conduct a conservation status assessment. These species are considered SGCN because additional research and/or monitoring is needed in order to determine their conservation status. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Calephelis muticum</head><p>The single record for Iowa has since been determined to be in error.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Northern Crescent Phyciodes cocyta</head><p>These can be easily confused with other species so there are some records for this species in Iowa but these records are not confirmed. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Extirpated and Presumed</head></div><figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head></head><label></label><figDesc>Occasional Visitors to Iowa -These species are considered stray in Iowa meaning that there has been confirmed documentation of occurrence in the state but the species do not have established populations within Iowa. In some years, individuals of these species may expand into portions of the state. These species have established breeding populations within the state of Iowa but were excluded from consideration as SGCN due to the fact that they were introduced to Iowa by humans.</figDesc><table><row><cell></cell><cell>Common Name</cell><cell>Scientific Name</cell><cell></cell><cell>SGCN</cell><cell>T/E Status</cell><cell>Regional SGCN</cell></row><row><cell>2</cell><cell>Dreamy Duskywing</cell><cell>Erynnis icelus</cell><cell></cell><cell>Y</cell></row><row><cell>3</cell><cell>Swarthy Skipper</cell><cell>Nastra lherminier</cell><cell></cell><cell>Y</cell></row><row><cell>4</cell><cell>Milbert's Tortoiseshell</cell><cell>Aglais milberti</cell><cell></cell><cell>Y</cell></row><row><cell>5</cell><cell cols="3">Baltimore Checkerspot 'Ozark' Euphydryas phaeton ozarkae</cell><cell>Y</cell></row><row><cell></cell><cell>Common Name</cell><cell>Scientific Name</cell><cell></cell><cell></cell></row><row><cell>1</cell><cell>Hoary Edge</cell><cell>Cecropterus lyciades</cell><cell></cell><cell></cell></row><row><cell>2</cell><cell>Funereal Duskywing</cell><cell>Gesta funeralis</cell><cell></cell><cell></cell></row><row><cell>3</cell><cell>Persius Duskywing</cell><cell>Gesta persius</cell><cell></cell><cell></cell></row><row><cell>4</cell><cell>Eufala Skipper</cell><cell>Lerodea eufala</cell><cell></cell><cell></cell></row><row><cell>5</cell><cell>Ocola Skipper</cell><cell>Panoquina ocola</cell><cell></cell><cell></cell></row><row><cell>6</cell><cell>Sleepy Orange</cell><cell>Abaeis nicippe</cell><cell></cell><cell></cell></row><row><cell>7</cell><cell>Mexican Yellow</cell><cell>Abaeis mexicana</cell><cell></cell><cell></cell></row><row><cell>8</cell><cell>Red-banded Hairstreak</cell><cell>Calycopis cecrops</cell><cell></cell><cell></cell></row><row><cell>9</cell><cell>Marine Blue</cell><cell>Leptotes marina</cell><cell></cell><cell></cell></row><row><cell>10</cell><cell>Queen</cell><cell>Danaus gilippus</cell><cell></cell><cell></cell></row><row><cell>11</cell><cell>Gulf Fritillary</cell><cell>Dione incarnata</cell><cell></cell><cell></cell></row><row><cell>12</cell><cell>White Admiral</cell><cell cols="2">Limenitis arthemis arthemis</cell><cell></cell></row><row><cell>13</cell><cell>Goatweed Leafwing</cell><cell>Anaea andria</cell><cell></cell><cell></cell></row><row><cell cols="2">Introduced Species -Common Name</cell><cell>Scientific Name</cell><cell></cell><cell></cell></row><row><cell>1</cell><cell>European Skipper</cell><cell>Thymelicus lineola</cell><cell></cell><cell></cell></row><row><cell>2</cell><cell>Cabbage White</cell><cell>Pieris rapae</cell><cell></cell><cell></cell></row><row><cell cols="2">Not Iowa Species</cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell>Common Name</cell><cell>Scientific Name</cell><cell></cell><cell></cell><cell>Explanation</cell></row><row><cell cols="2">Uncas Skipper</cell><cell>Hesperia uncas</cell><cell cols="3">Unclear why this was included in initial plan</cell></row><row><cell cols="2">Greenish Blue</cell><cell>Icaricia saepiolus</cell><cell cols="3">Unclear why this was included in initial plan</cell></row><row><cell cols="2">Swamp Metalmark</cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell>Common Name</cell><cell>Scientific Name</cell><cell></cell><cell>SGCN</cell><cell>T/E Status</cell><cell>Regional SGCN</cell></row><row><cell>1</cell><cell>Hayhurst's Sootywing</cell><cell>Staphylus hayhurstii</cell><cell></cell><cell>Y</cell></row></table></figure>
+		</body>
+		<back>
+
+			<div type="funding">
+<div><p>• I-P-E/T/D: Proposed Endangered, Proposed Threatened, Proposed Delisted • I-E: State-listed as Endangered in Iowa (from <rs type="affiliation">Iowa Code Chapter 77</rs>) • I-T: State-listed as Threatened in Iowa • F-E: Federally listed as Endangered in the United States • F-E: Federally listed as Threatened in the United States • F-C: Federally listed as a Candidate in the United States • F-P: Proposed for federal listing as an Endangered or Threatened species.</p></div>
+			</div>			<div type="references">
+
+				<listBibl/>
+			</div>
+		</back>
+	</text>
+</TEI>
+

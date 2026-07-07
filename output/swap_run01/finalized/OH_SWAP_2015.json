@@ -1,0 +1,799 @@
+{
+  "document_meta": {
+    "title": "Ohio's State Wildlife Action Plan",
+    "year": 2015,
+    "jurisdiction": "Ohio",
+    "document_type": "SWAP",
+    "document_id": "OH_SWAP_2015",
+    "page_count": 448
+  },
+  "orientation": {
+    "summary": "Ohio's 2015 State Wildlife Action Plan (SWAP) is a statewide biodiversity conservation strategy produced by the Ohio Department of Natural Resources Division of Wildlife, covering Species of Greatest Conservation Need (SGCN) across 15 habitat categories. The document acknowledges climate change as a threat throughout, and includes a dedicated Chapter 5 on climate change that summarizes regional climate projections, vulnerability concepts (exposure, sensitivity, adaptive capacity), and a table of broad adaptation strategies. Engagement with range shift science is moderate but largely derivative — the document references external vulnerability assessments and literature (notably Staudinger et al., in review) rather than performing its own modeling, and explicitly states that climate change work during the plan period will focus on 'data collection and planning.' Conservation actions related to connectivity, habitat protection, and invasive species control are framed as indirectly helping mitigate climate change impacts, but targeted range-shift facilitation actions are largely absent.",
+    "evidence_index": [
+      {
+        "text": "Climate change vulnerability is comprised of three separate but related components -exposure, sensitivity, and adaptive capacity. Exposure is a reflection of the type, degree, and duration of climate induced change. The degree to which the effects of that change are felt is related to the sensitivity of the object being acted upon. Adaptive capacity is a measure of object's ability to persist in the face of the change.",
+        "location": "Chapter 5, Regional Species and Habitats at Greatest Risk",
+        "relevant_elements": ["1.1", "1.2", "1.3"]
+      },
+      {
+        "text": "Climate change vulnerability studies for the Northeast and Midwest regions scored freshwater mussels, amphibians, and fish as either extremely or highly vulnerable, while the majority of birds and mammals received low vulnerability rankings. Similar studies focused on habitat vulnerability classified spruce-fir, lowland conifer, Appalachian northern hardwood forests, bogs, fens, and freshwater aquatic habitats as highly vulnerable to climate change.",
+        "location": "Chapter 5, Regional Species and Habitats at Greatest Risk",
+        "relevant_elements": ["1.1", "2.1"]
+      },
+      {
+        "text": "Climate Change Vulnerability Assessments (CCVAs) have already been conducted for a number of species and habitats across the Northeast and Midwestern region. A synthesis of methods, information on the locations (e.g., States) where vulnerability assessments were conducted, lists of individual species and habitats and their respective vulnerability rankings, and comparisons of how vulnerability rankings were determined among studies is provided in Staudinger et al. (in review).",
+        "location": "Chapter 5, Regional Species and Habitats at Greatest Risk",
+        "relevant_elements": ["1.1", "2.1"]
+      },
+      {
+        "text": "Predictions are that species' distributions will shift northward, upslope, and upstream, and the species that rely on them will either shift in response or adapt in place. These shifts will not happen at the same time, as species respond to different cues and at different paces. Shifts will be influenced by degree of habitat connectivity, as well as life history traits or genetic diversity that influence movement or adaptation.",
+        "location": "Chapter 5, Impacts of and Biological Responses to Climate Change",
+        "relevant_elements": ["1.1", "1.2", "1.3", "1.4", "3.2", "3.3"]
+      },
+      {
+        "text": "Other species that rely on habitats that are at the southern edge of their distribution may be forced to shift their range northward. Species with limited mobility will be the most highly impacted.",
+        "location": "Chapter 5, Impacts of and Biological Responses to Climate Change",
+        "relevant_elements": ["1.1", "1.2", "1.3"]
+      },
+      {
+        "text": "Habitat generalists will fare better than habitat specialists Food generalists will fare better than species with more specific dietary needs Tolerant species will fare better than species with narrow ranges of tolerance Species nearer the center of their range will fare better than edge of range species Mobile species will fare better than limited mobility or non-mobile species",
+        "location": "Chapter 5, Impacts of and Biological Responses to Climate Change",
+        "relevant_elements": ["1.1", "1.2", "1.3"]
+      },
+      {
+        "text": "Shifts will be influenced by degree of habitat connectivity, as well as life history traits or genetic diversity that influence movement or adaptation. Changes in species abundance and distribution are more likely to occur at the edge of a species range than in its center.",
+        "location": "Chapter 5, Impacts of and Biological Responses to Climate Change",
+        "relevant_elements": ["1.3", "1.4"]
+      },
+      {
+        "text": "Range shifts that change species assemblages or put species proximate to each other that under normal circumstances are not -impact species through increased competition, predation, disease transmission, hybridization",
+        "location": "Chapter 5, Impacts of and Biological Responses to Climate Change",
+        "relevant_elements": ["1.3", "3.7"]
+      },
+      {
+        "text": "Climate change may cause phenological mismatches where the timing of interactions between species, food, and habitat is thrown off because each is using a different cue (e.g., photoperiod vs temperature)",
+        "location": "Chapter 5, Impacts of and Biological Responses to Climate Change",
+        "relevant_elements": ["3.7"]
+      },
+      {
+        "text": "The two primary fragmentation issues are population isolation for some species, and loss of ecological connectivity (with like or other habitats) which affects movement of individuals, populations, and genetic material.",
+        "location": "Statewide Threats, Habitat Loss and Alteration from Development",
+        "relevant_elements": ["1.4"]
+      },
+      {
+        "text": "healthy and connected habitats are likely the best chance that the remaining species have in terms of mitigating the effects of climate change.",
+        "location": "Statewide Threats, Climate Change",
+        "relevant_elements": ["1.4", "4.1"]
+      },
+      {
+        "text": "Any long-term change (wetter, dryer, hotter, colder) in Ohio's climate will affect habitats and species. Lesser tolerant flora and fauna will be impacted first regardless of their condition. Also at risk will be ecosystems already stressed by previously mentioned threats.",
+        "location": "Statewide Threats, Climate Change",
+        "relevant_elements": ["1.1", "3.5"]
+      },
+      {
+        "text": "Warming is occurring in every season, particularly in winter, at higher latitudes, at higher elevations, and inland (away from lake coasts) Precipitation amounts are increasing, particularly in winter, and as high-intensity events in summer Extreme heat events are increasing Snow is shifting to rain Streams are warming Floods are intensifying and occurring more often with heavier rainfall events, yet droughts are also on the rise Growing seasons are getting longer",
+        "location": "Chapter 5, Regional Climate Changes",
+        "relevant_elements": ["1.1", "3.5", "3.6"]
+      },
+      {
+        "text": "Increased disturbance related to climate change likely will exacerbate and/or work synergistically with many existing threats such as habitat loss and fragmentation, invasive species, altered fire regimes, water pollution, and wildlife diseases. This could in turn lead to more ecological disturbance resulting in community turnover, with changing species assemblages.",
+        "location": "Chapter 5, Impacts of and Biological Responses to Climate Change",
+        "relevant_elements": ["3.5", "3.7"]
+      },
+      {
+        "text": "Species that have broad distributions across the region are likely to be able to adapt to changing temperatures and precipitation. Other species that rely on habitats that are at the southern edge of their distribution may be forced to shift their range northward.",
+        "location": "Chapter 5, Impacts of and Biological Responses to Climate Change",
+        "relevant_elements": ["1.2", "1.3", "3.2"]
+      },
+      {
+        "text": "For the duration of this 2015 SWAP, efforts related to climate change will focus primarily on data collection and planning. There is much work to be done to integrate climate change issues into our strategic, tactical, and operational planning.",
+        "location": "Chapter 5, Climate Change and Conservation",
+        "relevant_elements": ["4.5"]
+      },
+      {
+        "text": "The table below (modified from Butler et al. 2012 in Staudinger et al. (in review)) highlights different strategies and approaches being used across the region, and is intended to demonstrate the range of possible options for natural resource management under future global change.",
+        "location": "Chapter 5, Adaptation Strategies and Actions in Response to Climate Change",
+        "relevant_elements": ["4.2", "4.4", "4.5"]
+      },
+      {
+        "text": "Efforts to re-establish or enhance species populations (e.g., American burying beetle, Karner blue butterfly, lake sturgeon), protect and improve habitat (e.g., conservation easements, invasive species control, water quality improvements), or improve habitat connectivity (e.g., dam removals, connecting fragmented habitats) are all actions that can help mitigate the impacts of climate change.",
+        "location": "Chapter 5, Table 13 caption",
+        "relevant_elements": ["4.1", "4.2"]
+      },
+      {
+        "text": "Conservation Opportunity Areas (referred to as Focus Areas in Ohio's original CWCS) were identified for each terrestrial habitat category. Areas chosen are of sufficient size and quality to maintain viable populations of most native wildlife species dependent upon that particular habitat type.",
+        "location": "Chapter 6, Conservation Opportunity Areas",
+        "relevant_elements": ["4.1"]
+      },
+      {
+        "text": "The DOW has identified 11 Conservation Opportunity Watersheds in which to concentrate efforts related to the aquatic portion of this SWAP (Figure 8). These include the highest scoring watersheds in Ohio.",
+        "location": "Chapter 6, Conservation Opportunity Watersheds",
+        "relevant_elements": ["4.1"]
+      },
+      {
+        "text": "Within each CO Area the goal is the development of specific habitat objectives to benefit priority wildlife species as identified in state, federal, and regional conservation plans, and conducting a coordinated monitoring protocols to determine the success of these efforts.",
+        "location": "Chapter 6, Conservation Opportunity Areas",
+        "relevant_elements": ["4.1", "4.3"]
+      },
+      {
+        "text": "Adaptive management will be the cornerstone of the Action Plan in terms of conservation actions and the threats they are focused upon. Actions in the Plan are developed using the best information available at the time. As we move forward, data will be collected, new information will be acquired, evaluations will be conducted, and new issues will arise.",
+        "location": "Chapter 3, Introduction",
+        "relevant_elements": ["4.3", "4.5"]
+      },
+      {
+        "text": "The SWAP will be reviewed on the same schedule, meaning that review will occur every five years for this document. Project reviews will occur annually in the form of performance or final project reports, with evaluations based on performance measures specific to each project.",
+        "location": "IV. Evaluation and Adaptation of the SWAP",
+        "relevant_elements": ["4.3"]
+      },
+      {
+        "text": "Over $5.6 M has been spent in Ohio since the inception of the CWCS on surveys, monitoring, research, and management projects. As a result, populations of a number of species have been reintroduced, the status of other species has improved to the point of de-listing, and critical habitats have been protected.",
+        "location": "Foreword",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "Thanks to the State Wildlife Grants program administered through the USFWS, money to fund these conservation efforts has been made available on an annual basis.",
+        "location": "Foreword",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "Partnerships with Landscape Conservation Cooperatives (LCCs) can help bring additional partners together to identify shared priorities and identify landscape-level actions. Through the LCCs work with neighboring state fish and wildlife agencies can be facilitated.",
+        "location": "Chapter 2, Addressing Regional Conservation Issues",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "Looking forward, climate change acting in concert with existing threats could have a 'multiplier effect'. Ecosystems already stressed by human activities and/or invasive species are at higher risk from and increased succeptibility to the effects of climate change.",
+        "location": "Statewide Threats, Climate Change",
+        "relevant_elements": ["3.5", "3.7"]
+      },
+      {
+        "text": "Impacts to species caused by warmer winters allowing diseases and parasites to be more active",
+        "location": "Chapter 5, Impacts of and Biological Responses to Climate Change",
+        "relevant_elements": ["3.6"]
+      },
+      {
+        "text": "The concentrating effect of shrinking habitats can increase the vulnerability of species to predators and diseases",
+        "location": "Chapter 5, Impacts of and Biological Responses to Climate Change",
+        "relevant_elements": ["3.5", "3.6"]
+      },
+      {
+        "text": "This population in the Chagrin basin is believed to be a relict remaining from a wider distribution that existed when the climate was colder (Thoma and Jezerinac 2000).",
+        "location": "Chapter 4, Taxa Group: Crayfish, Virile Crayfish",
+        "relevant_elements": ["3.2", "3.3"]
+      },
+      {
+        "text": "Biological responses to climate change will vary across taxa in the northeast and Midwest. Species that have broad distributions across the region are likely to be able to adapt to changing temperatures and precipitation.",
+        "location": "Chapter 5, Impacts of and Biological Responses to Climate Change",
+        "relevant_elements": ["1.2", "1.3", "3.2", "3.3"]
+      },
+      {
+        "text": "Ohio's monitoring framework includes the use of standardized regional protocols such as the Breeding Bird Survey, Partners in Flight, Upper Mississippi River and Great Lakes Region Joint Venture, North American Bat Monitoring Program, and regional LCC's.",
+        "location": "Chapter 3, Ohio's Monitoring Framework",
+        "relevant_elements": ["4.3"]
+      },
+      {
+        "text": "The effectiveness of conservation actions described in Ohio's Action Plan will be measured using a set of standardized effectiveness measures that have been developed by AFWA and described in their 2011 Measuring the Effectiveness of State Wildlife Grants: Final Report (AFWA 2011).",
+        "location": "Chapter 3, Effectiveness of Conservation Actions",
+        "relevant_elements": ["4.3", "4.4"]
+      },
+      {
+        "text": "Predators may be affected by climate change impacts to prey abundance and distribution",
+        "location": "Chapter 5, Impacts of and Biological Responses to Climate Change",
+        "relevant_elements": ["1.3", "3.7"]
+      },
+      {
+        "text": "Ten broad strategies and approaches for climate change adaptation. Strategy: Sustain fundamental ecological functions... Reduce the impact of existing biological stressors... Maintain or restore habitat quality and nutrient cycling... Prevent the introduction and establishment of invasive species and remove existing invasives",
+        "location": "Chapter 5, Table 13",
+        "relevant_elements": ["4.2", "4.5"]
+      }
+    ]
+  },
+  "concepts": {
+    "climate_vulnerability": {
+      "evaluable": true,
+      "score": 3,
+      "evidence": [
+        {
+          "text": "Climate change vulnerability is comprised of three separate but related components -exposure, sensitivity, and adaptive capacity. Exposure is a reflection of the type, degree, and duration of climate induced change. The degree to which the effects of that change are felt is related to the sensitivity of the object being acted upon. Adaptive capacity is a measure of object's ability to persist in the face of the change.",
+          "location": "Chapter 5, Regional Species and Habitats at Greatest Risk",
+          "sub_component": "exposure and adaptive capacity",
+          "citations": []
+        },
+        {
+          "text": "Climate change vulnerability studies for the Northeast and Midwest regions scored freshwater mussels, amphibians, and fish as either extremely or highly vulnerable, while the majority of birds and mammals received low vulnerability rankings.",
+          "location": "Chapter 5, Regional Species and Habitats at Greatest Risk",
+          "sub_component": "exposure",
+          "citations": ["Staudinger et al. (in review)"]
+        },
+        {
+          "text": "Species with low adaptive capacity such as those with specialized habitat needs or limited dispersal ability face higher vulnerability to these changes.",
+          "location": "Chapter 5, Impacts of and Biological Responses to Climate Change",
+          "sub_component": "adaptive capacity",
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "adaptive_capacity_specificity": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Shifts will be influenced by degree of habitat connectivity, as well as life history traits or genetic diversity that influence movement or adaptation.",
+          "location": "Chapter 5, Impacts of and Biological Responses to Climate Change",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Habitat generalists will fare better than habitat specialists Food generalists will fare better than species with more specific dietary needs Tolerant species will fare better than species with narrow ranges of tolerance Species nearer the center of their range will fare better than edge of range species Mobile species will fare better than limited mobility or non-mobile species",
+          "location": "Chapter 5, Impacts of and Biological Responses to Climate Change",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "adaptive_capacity_components": {
+      "demography": {
+        "present": false,
+        "evidence": []
+      },
+      "distribution": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Predictions are that species' distributions will shift northward, upslope, and upstream, and the species that rely on them will either shift in response or adapt in place.",
+            "location": "Chapter 5, Impacts of and Biological Responses to Climate Change",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "movement": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Shifts will be influenced by degree of habitat connectivity, as well as life history traits or genetic diversity that influence movement or adaptation. Changes in species abundance and distribution are more likely to occur at the edge of a species range than in its center.",
+            "location": "Chapter 5, Impacts of and Biological Responses to Climate Change",
+            "sub_component": null,
+            "citations": []
+          },
+          {
+            "text": "Mobile species will fare better than limited mobility or non-mobile species",
+            "location": "Chapter 5, Impacts of and Biological Responses to Climate Change",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "evolutionary_potential": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Shifts will be influenced by degree of habitat connectivity, as well as life history traits or genetic diversity that influence movement or adaptation.",
+            "location": "Chapter 5, Impacts of and Biological Responses to Climate Change",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecological_dependencies": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Climate change may cause phenological mismatches where the timing of interactions between species, food, and habitat is thrown off because each is using a different cue (e.g., photoperiod vs temperature)",
+            "location": "Chapter 5, Impacts of and Biological Responses to Climate Change",
+            "sub_component": null,
+            "citations": []
+          },
+          {
+            "text": "Predators may be affected by climate change impacts to prey abundance and distribution",
+            "location": "Chapter 5, Impacts of and Biological Responses to Climate Change",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "abiotic_niche": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Tolerant species will fare better than species with narrow ranges of tolerance",
+            "location": "Chapter 5, Impacts of and Biological Responses to Climate Change",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "life_history": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Shifts will be influenced by degree of habitat connectivity, as well as life history traits or genetic diversity that influence movement or adaptation.",
+            "location": "Chapter 5, Impacts of and Biological Responses to Climate Change",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      }
+    },
+    "connectivity": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "The two primary fragmentation issues are population isolation for some species, and loss of ecological connectivity (with like or other habitats) which affects movement of individuals, populations, and genetic material.",
+          "location": "Statewide Threats, Habitat Loss and Alteration from Development",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Shifts will be influenced by degree of habitat connectivity, as well as life history traits or genetic diversity that influence movement or adaptation.",
+          "location": "Chapter 5, Impacts of and Biological Responses to Climate Change",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "healthy and connected habitats are likely the best chance that the remaining species have in terms of mitigating the effects of climate change.",
+          "location": "Statewide Threats, Climate Change",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    }
+  },
+  "tools": {
+    "vulnerability_models": {
+      "evaluable": true,
+      "score": 1,
+      "named_tools": ["CCVA", "Climate Change Vulnerability Assessments"],
+      "evidence": [
+        {
+          "text": "Climate Change Vulnerability Assessments (CCVAs) have already been conducted for a number of species and habitats across the Northeast and Midwestern region. A synthesis of methods, information on the locations (e.g., States) where vulnerability assessments were conducted, lists of individual species and habitats and their respective vulnerability rankings, and comparisons of how vulnerability rankings were determined among studies is provided in Staudinger et al. (in review).",
+          "location": "Chapter 5, Regional Species and Habitats at Greatest Risk",
+          "sub_component": null,
+          "citations": ["Staudinger et al. (in review)"]
+        }
+      ],
+      "absence_note": "CCVAs are referenced as having been conducted elsewhere in the region and summarized in external literature; they are not applied to Ohio's specific SGCN in this plan. Score 1 (referenced generally) rather than 2."
+    },
+    "niche_models": {
+      "evaluable": true,
+      "score": 0,
+      "named_tools": [],
+      "evidence": [],
+      "absence_note": "No species distribution models or niche models are referenced in the document."
+    },
+    "climate_models": {
+      "evaluable": true,
+      "score": 0,
+      "named_tools": [],
+      "evidence": [],
+      "absence_note": "The document discusses climate change extensively using qualitative language (warming, increased precipitation, etc.) but does not reference any GCMs, CMIP models, RCPs, SSPs, or specific downscaled climate projection products. The climate change chapter draws on external literature summaries without specifying any modeling apparatus.",
+      "time_horizon_years": [],
+      "emission_scenarios": []
+    },
+    "connectivity_models": {
+      "evaluable": true,
+      "score": 0,
+      "named_tools": [],
+      "evidence": [],
+      "absence_note": "While connectivity is discussed conceptually, no connectivity modeling tools (CircuitScape, Linkage Mapper, etc.) are referenced."
+    }
+  },
+  "context": {
+    "management_scale": {
+      "local": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Within each CO Area the goal is the development of specific habitat objectives to benefit priority wildlife species as identified in state, federal, and regional conservation plans, and conducting a coordinated monitoring protocols to determine the success of these efforts.",
+            "location": "Chapter 6, Conservation Opportunity Areas",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "site": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The Appalachian Foothills Conservation Opportunity Area, primarily located in Vinton and Athens counties, includes the Zaleski State Forest (28,604 ac.), Vinton Furnace State Experimental Forest (12,089 ac.)",
+            "location": "Chapter 6, Appalachian Foothills Forest Conservation Opportunity Area",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "watershed": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The DOW has identified 11 Conservation Opportunity Watersheds in which to concentrate efforts related to the aquatic portion of this SWAP (Figure 8). These include the highest scoring watersheds in Ohio.",
+            "location": "Chapter 6, Conservation Opportunity Watersheds",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "city": {
+        "present": false,
+        "evidence": []
+      },
+      "county": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The Appalachian Foothills Conservation Opportunity Area, primarily located in Vinton and Athens counties",
+            "location": "Chapter 6, Appalachian Foothills Forest Conservation Opportunity Area",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "within_state_region": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Predictions are that species' distributions will shift northward, upslope, and upstream, and the species that rely on them will either shift in response or adapt in place.",
+            "location": "Chapter 5, Impacts of and Biological Responses to Climate Change",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "state": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "For the duration of this 2015 SWAP, efforts related to climate change will focus primarily on data collection and planning. There is much work to be done to integrate climate change issues into our strategic, tactical, and operational planning.",
+            "location": "Chapter 5, Climate Change and Conservation",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "multistate": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Cooperation with neighboring agencies with similar SGCN and habitats will allow the pooling of resources for regional conservation efforts including problem identification, funding, mapping, and tracking the effectiveness of conservation actions.",
+            "location": "Chapter 2, Addressing Regional Conservation Issues",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "national": {
+        "present": false,
+        "evidence": []
+      },
+      "transnational": {
+        "present": false,
+        "evidence": []
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Increased disturbance related to climate change likely will exacerbate and/or work synergistically with many existing threats such as habitat loss and fragmentation, invasive species, altered fire regimes, water pollution, and wildlife diseases. This could in turn lead to more ecological disturbance resulting in community turnover, with changing species assemblages.",
+            "location": "Chapter 5, Impacts of and Biological Responses to Climate Change",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecoregion": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "At minimum, ecoregion scales are be used to gain an accurate assessment when trying to determine degree of imperilment.",
+            "location": "Chapter 3, Ohio's Monitoring Framework",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "province": {
+        "present": false,
+        "evidence": []
+      },
+      "section": {
+        "present": false,
+        "evidence": []
+      },
+      "subsection": {
+        "present": false,
+        "evidence": []
+      },
+      "lake": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The Great Lakes are warming Winter maximum lake ice extent is shrinking Lake evaporation rates are increasing",
+            "location": "Chapter 5, Regional Climate Changes",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "river": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The DOW has identified 11 Conservation Opportunity Watersheds in which to concentrate efforts related to the aquatic portion of this SWAP (Figure 8). These include the highest scoring watersheds in Ohio.",
+            "location": "Chapter 6, Conservation Opportunity Watersheds",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "district": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["Appalachian Foothills COA", "Tecumseh Forest COA", "Lake Erie Marsh COA", "Killbuck Marsh COA", "Grand River/Mosquito Creek COA", "Maumee River CO Watershed", "Sandusky River CO Watershed", "Cuyahoga River CO Watershed", "Grand River CO Watershed", "Little Miami River CO Watershed", "Scioto River CO Watershed", "Muskingum River CO Watershed", "Great Miami River CO Watershed", "Ohio Brush Creek CO Watershed", "Little Beaver Creek CO Watershed"]
+    },
+    "biological_unit_score": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Predictions are that species' distributions will shift northward, upslope, and upstream, and the species that rely on them will either shift in response or adapt in place.",
+          "location": "Chapter 5, Impacts of and Biological Responses to Climate Change",
+          "sub_component": "species",
+          "citations": []
+        },
+        {
+          "text": "Similar studies focused on habitat vulnerability classified spruce-fir, lowland conifer, Appalachian northern hardwood forests, bogs, fens, and freshwater aquatic habitats as highly vulnerable to climate change.",
+          "location": "Chapter 5, Regional Species and Habitats at Greatest Risk",
+          "sub_component": "habitat",
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "biological_unit_components": {
+      "species": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Climate change vulnerability studies for the Northeast and Midwest regions scored freshwater mussels, amphibians, and fish as either extremely or highly vulnerable, while the majority of birds and mammals received low vulnerability rankings.",
+            "location": "Chapter 5, Regional Species and Habitats at Greatest Risk",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "population": {
+        "present": false,
+        "evidence": []
+      },
+      "habitat": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Similar studies focused on habitat vulnerability classified spruce-fir, lowland conifer, Appalachian northern hardwood forests, bogs, fens, and freshwater aquatic habitats as highly vulnerable to climate change.",
+            "location": "Chapter 5, Regional Species and Habitats at Greatest Risk",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "This could in turn lead to more ecological disturbance resulting in community turnover, with changing species assemblages.",
+            "location": "Chapter 5, Impacts of and Biological Responses to Climate Change",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "community": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "This could in turn lead to more ecological disturbance resulting in community turnover, with changing species assemblages.",
+            "location": "Chapter 5, Impacts of and Biological Responses to Climate Change",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "genotype_phenotype": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["freshwater mussels", "amphibians", "fish", "birds", "mammals", "spruce-fir forests", "lowland conifer forests", "Appalachian northern hardwood forests", "bogs", "fens", "freshwater aquatic habitats", "SGCN", "Species of Greatest Conservation Need"]
+    },
+    "partnerships_and_funding": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Thanks to the State Wildlife Grants program administered through the USFWS, money to fund these conservation efforts has been made available on an annual basis. Over $5.6 M has been spent in Ohio since the inception of the CWCS on surveys, monitoring, research, and management projects.",
+          "location": "Foreword",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Partnerships with Landscape Conservation Cooperatives (LCCs) can help bring additional partners together to identify shared priorities and identify landscape-level actions. Through the LCCs work with neighboring state fish and wildlife agencies can be facilitated.",
+          "location": "Chapter 2, Addressing Regional Conservation Issues",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document describes extensive general partnership infrastructure (SWG, LCCs, state agencies, NGOs, academics) and notes significant funding under the prior CWCS. However, the 2015 SWAP explicitly states that climate-change-specific work will focus on 'data collection and planning' — no specific partnerships or budget allocations are described specifically for range-shift actions. Score 1 (some funding and partnerships described but limited/aspirational for range-shift work specifically)."
+    },
+    "climate_threat_habitat_degradation": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Any long-term change (wetter, dryer, hotter, colder) in Ohio's climate will affect habitats and species. Lesser tolerant flora and fauna will be impacted first regardless of their condition. Also at risk will be ecosystems already stressed by previously mentioned threats.",
+          "location": "Statewide Threats, Climate Change",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Warming is occurring in every season, particularly in winter, at higher latitudes, at higher elevations, and inland (away from lake coasts) Precipitation amounts are increasing, particularly in winter, and as high-intensity events in summer Extreme heat events are increasing Snow is shifting to rain Streams are warming Floods are intensifying and occurring more often with heavier rainfall events, yet droughts are also on the rise",
+          "location": "Chapter 5, Regional Climate Changes",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_threat_species_vital_rates": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Impacts to species caused by warmer winters allowing diseases and parasites to be more active",
+          "location": "Chapter 5, Impacts of and Biological Responses to Climate Change",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document discusses direct effects of climate events on species in a general way (disease/parasite activity, concentrating effects on vulnerable species). This passes the threshold as it frames warmer winters directly enabling pathogens that impact species vital rates. Score 1."
+    },
+    "climate_threat_biotic_stressors": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Range shifts that change species assemblages or put species proximate to each other that under normal circumstances are not -impact species through increased competition, predation, disease transmission, hybridization",
+          "location": "Chapter 5, Impacts of and Biological Responses to Climate Change",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Climate change may cause phenological mismatches where the timing of interactions between species, food, and habitat is thrown off because each is using a different cue (e.g., photoperiod vs temperature)",
+          "location": "Chapter 5, Impacts of and Biological Responses to Climate Change",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    }
+  },
+  "actions": {
+    "priority_habitat_identification": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Conservation Opportunity Areas (referred to as Focus Areas in Ohio's original CWCS) were identified for each terrestrial habitat category. Areas chosen are of sufficient size and quality to maintain viable populations of most native wildlife species dependent upon that particular habitat type.",
+          "location": "Chapter 6, Conservation Opportunity Areas",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "The DOW has identified 11 Conservation Opportunity Watersheds in which to concentrate efforts related to the aquatic portion of this SWAP (Figure 8). These include the highest scoring watersheds in Ohio.",
+          "location": "Chapter 6, Conservation Opportunity Watersheds",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "healthy and connected habitats are likely the best chance that the remaining species have in terms of mitigating the effects of climate change.",
+          "location": "Statewide Threats, Climate Change",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "Conservation Opportunity Areas and Conservation Opportunity Watersheds are mapped with figures (e.g., Fig. 8, 11, 12, 15) and described in detail with spatial boundaries across all habitat categories. While these are not specifically framed as climate refugia, they are explicitly linked to mitigating climate change impacts and appear spatially represented via maps. Score 2."
+    },
+    "targeted_range_shift_actions": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Efforts to re-establish or enhance species populations (e.g., American burying beetle, Karner blue butterfly, lake sturgeon), protect and improve habitat (e.g., conservation easements, invasive species control, water quality improvements), or improve habitat connectivity (e.g., dam removals, connecting fragmented habitats) are all actions that can help mitigate the impacts of climate change.",
+          "location": "Chapter 5, Table 13 caption",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document mentions dam removals and connecting fragmented habitats as actions that mitigate climate change impacts, which qualifies as structural facilitation framed in a climate context. However, there are no direct manipulation actions (assisted migration, climate-motivated translocation) explicitly framed for range shift purposes. Score 1 based on structural facilitation reference."
+    },
+    "time_bound_and_monitoring": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "The SWAP will be reviewed on the same schedule, meaning that review will occur every five years for this document. Project reviews will occur annually in the form of performance or final project reports, with evaluations based on performance measures specific to each project.",
+          "location": "IV. Evaluation and Adaptation of the SWAP",
+          "sub_component": "monitoring",
+          "citations": []
+        },
+        {
+          "text": "By 2016, develop statewide grassland habitat goals required to stabilize grassland wildlife populations",
+          "location": "Chapter 6, Table 22, Conservation Actions for Grassland Habitat",
+          "sub_component": "time-bound",
+          "citations": []
+        },
+        {
+          "text": "The effectiveness of conservation actions described in Ohio's Action Plan will be measured using a set of standardized effectiveness measures that have been developed by AFWA and described in their 2011 Measuring the Effectiveness of State Wildlife Grants: Final Report (AFWA 2011).",
+          "location": "Chapter 3, Effectiveness of Conservation Actions",
+          "sub_component": "monitoring",
+          "citations": ["AFWA 2011"]
+        }
+      ],
+      "absence_note": {}
+    },
+    "evidence_of_efficacy": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "The following example describes a proposed approach for Ohio's framework for monitoring and effectiveness measures. The shovelnose sturgeon is a large river species that prefers sand and gravel substrates with current.",
+          "location": "Chapter 3, Scenario: Shovelnose Sturgeon Reintroduction",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "During 2000-2007, more than 740 hares were translocated from Michigan and Maine to northeastern Geauga and southwestern Ashtabula counties. This was a collaborative effort with the OSU School of Natural Resources. Data collected via annual track-count transects(2000)(2001)(2002)(2003)(2004)(2005)(2006)(2007)(2008)(2009)(2010)(2011)(2012)(2013) suggested that repatriation efforts were unsuccessful.",
+          "location": "Chapter 6, Table 28 caption / Boreal Community section",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document provides limited case-study evidence: the snowshoe hare reintroduction provides actual monitoring data showing failure. Other examples (Karner blue butterfly, trumpeter swan, lake sturgeon) note population progress but do not tie efficacy explicitly to climate-adaptive framing. Score 2 (limited evidence — cases from relevant systems but not directly testing climate adaptation efficacy).",
+      "projects": ["Snowshoe hare reintroduction (2000-2013, northeastern Ohio): 740+ hares translocated from Michigan and Maine; annual track-count monitoring found repatriation was unsuccessful, providing negative evidence for this approach under current habitat conditions in Ohio.", "Shovelnose sturgeon reintroduction (proposed, Scioto River): The document uses this as a worked example for how results chains and effectiveness measures will be developed, referencing AFWA's 2011 guide on SWG effectiveness measures as the evidentiary basis for structured project evaluation."]
+    },
+    "adaptation_planning_frameworks": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "For the duration of this 2015 SWAP, efforts related to climate change will focus primarily on data collection and planning. There is much work to be done to integrate climate change issues into our strategic, tactical, and operational planning. This chapter will lay the groundwork for incorporating climate change into future conservation efforts using the SWAP to coordinate planning and implementation. The following discussion is adapted from Integrating Climate Change into the State Wildlife Action Plans (Staudinger et al., in review).",
+          "location": "Chapter 5, Climate Change and Conservation",
+          "sub_component": null,
+          "citations": ["Staudinger et al., in review"]
+        },
+        {
+          "text": "The table below (modified from Butler et al. 2012 in Staudinger et al. (in review)) highlights different strategies and approaches being used across the region, and is intended to demonstrate the range of possible options for natural resource management under future global change.",
+          "location": "Chapter 5, Adaptation Strategies and Actions in Response to Climate Change",
+          "sub_component": null,
+          "citations": ["Butler et al. 2012", "Staudinger et al. (in review)"]
+        }
+      ],
+      "absence_note": "The document explicitly references an adaptation strategies table (Table 13) with ten broad strategies derived from Butler et al. 2012 / Staudinger et al. and frames the chapter around a climate change vulnerability assessment framework (exposure, sensitivity, adaptive capacity). This qualifies as referencing specific climate adaptation planning frameworks (CCVA framework and adaptation menu). Score 2."
+    }
+  },
+  "coding_meta": {
+    "coder": "llm:claude-sonnet-4-6",
+    "model": "claude-sonnet-4-6",
+    "provider": "claude",
+    "codebook_version": "0.4",
+    "ingest": "text",
+    "design": "single",
+    "temperature": null,
+    "thinking": null,
+    "thinking_effort": null,
+    "coded_at": "2026-07-06T18:39:25Z",
+    "notes": {}
+  }
+}

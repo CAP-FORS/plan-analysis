@@ -1,0 +1,684 @@
+{
+  "document_meta": {
+    "title": "Wyoming Forest Action Plan (Forest Resource Assessment and Strategy)",
+    "year": 2020,
+    "jurisdiction": "Wyoming",
+    "document_type": "Forest Action Plan",
+    "document_id": "WY_FAP_2020",
+    "page_count": 233
+  },
+  "orientation": {
+    "summary": "This is the Wyoming State Forestry Division's Forest Action Plan (FAP), a statewide forest resource assessment and strategy document (~2020) that also incorporates the Forest Legacy Assessment of Need. The document covers forest conditions, threats, and management strategies across all of Wyoming's forest types, with climate change discussed primarily as one of several stressors (drought, wildfire risk, insect outbreaks) rather than as a central organizing frame. Range shifts are not discussed explicitly as a management concern; the closest engagement is a brief statement that distribution of tree species could change under warming/drier conditions and that insect range expansion is predicted. The document performs its own GIS spatial analysis for priority forest landscape identification but does not apply any climate models, niche models, or vulnerability assessment frameworks to focal species. Most climate-related content is qualitative and treats climate change as background context rather than a driver of distributional planning.",
+    "evidence_index": [
+      {
+        "text": "There are potential long-term impacts of climate change on Wyoming's forests. Under a longterm reduced precipitation scenario, forest health impacts could be significant. Distribution of tree species could be altered as species better able to tolerate warmer and drier conditions expand their distribution.",
+        "location": "Additional Wildfire Risk Analysis",
+        "relevant_elements": ["1.1", "1.3", "3.5", "3.7", "4.2"]
+      },
+      {
+        "text": "Warmer climates are predicted to favor faster adapting insects over slower adapting tree species. Models predict warmer temperatures will lead to higher insect populations during outbreaks and range expansion/higher amounts of damage observed in areas than seen historically.",
+        "location": "Additional Wildfire Risk Analysis",
+        "relevant_elements": ["1.1", "3.5", "3.6", "3.7"]
+      },
+      {
+        "text": "Wyoming is considered highly sensitive to climate change due to several factors including a naturally dry climate and dependence on mountain snow for surface water. There may be impacts on the amount and timing of water runoff and the length and severity of fire seasons.",
+        "location": "Threats to Priority Forest Landscapes",
+        "relevant_elements": ["1.1", "1.2", "3.5"]
+      },
+      {
+        "text": "According to the Wyoming State Climatologist's Office, 'climate change is likely to be one of the most important issues facing Wyoming and the western United States over the next century.'",
+        "location": "Agroforestry / Climate change context (table section)",
+        "relevant_elements": ["1.1"]
+      },
+      {
+        "text": "Wyoming's climate is dynamic and over the last century, the state has seen an increase in temperatures and droughts which have resulted in tree mortality, increased wildfire risk, as well as insect outbreaks (United States Environmental Protection Agency, 2016). Wyoming is considered highly sensitive to climate change due to several factors, including a naturally dry climate and dependence on mountain snow for surface water.",
+        "location": "Agroforestry / Climate change context (table section)",
+        "relevant_elements": ["1.1", "1.1a", "1.1b", "3.5", "3.6"]
+      },
+      {
+        "text": "Predictions seem to indicate that the western portion of the United States will experience warmer temperatures in the future. Future precipitation is uncertain, with forecasts of above and below historic normal precipitation levels. Precipitation could shift from snow to rain with impacts on the amount and timing of runoff and groundwater supply.",
+        "location": "Agroforestry / Climate change context (table section)",
+        "relevant_elements": ["1.1", "2.3", "3.5"]
+      },
+      {
+        "text": "Wyoming will be on the leading edge of the impacts of climate change. Wyoming is considered highly sensitive to climate change due to several factors, including a naturally dry climate and dependence on mountain snow for surface water. There may be impacts on the amount and timing of water runoff and the length and severity of fire seasons.",
+        "location": "Threat 15",
+        "relevant_elements": ["1.1", "1.1b", "3.5"]
+      },
+      {
+        "text": "If climate conditions warm, aspen forests may experience higher mortality.",
+        "location": "Riparian Forests",
+        "relevant_elements": ["1.1", "3.6"]
+      },
+      {
+        "text": "Under a long-term, reduced precipitation scenario forest health would be negatively impacted.",
+        "location": "Threat 15",
+        "relevant_elements": ["1.1", "3.5"]
+      },
+      {
+        "text": "Forest management under a changing climate. o Focus on management for current healthy diverse forests that are naturally resilient to many threats including climate change. o Adapt forest management tactics to mitigate impacts resulting from changes in the climate. o Use adaptive management strategies to account for species adaptation, changes in length and severity of fire seasons, increase/decrease in insect and disease outbreaks, etc.",
+        "location": "Strategy (Threat 15)",
+        "relevant_elements": ["4.3", "4.5", "1.2"]
+      },
+      {
+        "text": "Adapt water management to accommodate changes in flow and timing as a result of climate change. o Manage at a large landscape level to increase snow capture and retention as well as to reduce the risk of flooding and excessive runoff.",
+        "location": "Strategy (Threat 15)",
+        "relevant_elements": ["4.3", "4.5"]
+      },
+      {
+        "text": "On current drier sites, manage for species with the greatest tolerance for dry conditions.",
+        "location": "Strategy (Threat 15)",
+        "relevant_elements": ["1.3", "4.2"]
+      },
+      {
+        "text": "Climate change could impact water quality and supply. Should climate change produce a longterm reduced precipitation scenario, water quality would be reduced. The amount and timing of runoff and peak flows could be altered. Increased wildfire activity during a warmer/drier period could negatively impact water quality as larger, hotter fires affect vegetative cover and soils.",
+        "location": "Priority Areas-Water Quality and Supply",
+        "relevant_elements": ["3.5"]
+      },
+      {
+        "text": "Extended drought, extensive areas of beetle-killed trees, aging forest stands, and high fuel loading due to historic fire suppression and reduced active forest management have all contributed to the higher levels of fire activity.",
+        "location": "Forest Fragmentation (table section near wildfire)",
+        "relevant_elements": ["3.5"]
+      },
+      {
+        "text": "Forest stand conditions resulting from too little active forest management plus effective fire suppression, and climatic factors such as drought and climate change contributed to the observed bark beetle mortality over the past 20 years.",
+        "location": "Threat 2",
+        "relevant_elements": ["3.5", "3.6"]
+      },
+      {
+        "text": "Mountain pine beetle is affecting extensive stands of lodgepole pine and ponderosa pine. Under current climate and stand conditions, this insect is affecting up to 50-80% of some stands.",
+        "location": "Forest Health (table/appendix section on insects)",
+        "relevant_elements": ["3.6"]
+      },
+      {
+        "text": "Conditions on some landscapes are no longer within normal fire regimes or fire return intervals, the result of effective fire suppression, limited forest management, and climatic factors.",
+        "location": "Threat 6",
+        "relevant_elements": ["3.5"]
+      },
+      {
+        "text": "wildlife uses of Wyoming's riparian forests and associated riparian lands as migration corridors as these forests connect tracts of forested lands, and the structure of these forests provides cover and shelter for virtually every species of wildlife within Wyoming.",
+        "location": "Riparian Forests",
+        "relevant_elements": ["1.4", "3.3"]
+      },
+      {
+        "text": "Pursue conservation easements and other land stewardship agreements to conserve migration corridors, functioning diverse ecosystems, open spaces, and other crucial habitats.",
+        "location": "Strategy (Threat 11)",
+        "relevant_elements": ["1.4", "4.1", "4.2"]
+      },
+      {
+        "text": "Reducing forest fragmentation and maintaining forest community 'patch size' and connectivity are among the primary benefits of the FLP.",
+        "location": "Forest Health (Forest Legacy section)",
+        "relevant_elements": ["1.4"]
+      },
+      {
+        "text": "avoiding forest fragmentation and maintaining habitat connectivity and continuity are mandatory conditions for sustaining the future of Wyoming's wildlife resource.",
+        "location": "Wildlife, Fisheries, and Watershed Resources",
+        "relevant_elements": ["1.4"]
+      },
+      {
+        "text": "The Wyoming Statewide Assessment of Forest Resources-Critical Landscapes map shows the priority landscapes with the highest priorities designated as dark brown.",
+        "location": "Priority Forest Landscapes",
+        "relevant_elements": ["4.1"]
+      },
+      {
+        "text": "Ecosystem services is another topic of interest, particularly with potential markets for carbon offsets and the role that forests can play through carbon sequestration as a method of mitigating climate change.",
+        "location": "Priority Areas-Economic Potential",
+        "relevant_elements": ["4.5"]
+      },
+      {
+        "text": "The strategies generally avoid specific on-the-ground recommendations that are better left to local resource managers. The strategies also usually avoid assigning time or accomplishment targets because different landowners/managers operate under different timelines, priorities, and rules.",
+        "location": "National Themes / Assessment Data Layers",
+        "relevant_elements": ["4.3"]
+      },
+      {
+        "text": "Internally, WSFD will continually evaluate programs for effectiveness as the Division strives to implement an adaptive approach to addressing threats and priorities on Wyoming's priority forest landscapes.",
+        "location": "Monitoring and Revision",
+        "relevant_elements": ["4.3", "4.5"]
+      },
+      {
+        "text": "WSFD selected ten layers for the GIS analysis... Objectives such as connecting people to trees and forests and global climate change are addressed in other ways throughout the Wyoming Statewide Forest Resource Assessment.",
+        "location": "GIS Analysis and Assessment of Wyoming's State Forest Resources and Priority Landscapes Data Layers",
+        "relevant_elements": ["2.4", "4.1"]
+      },
+      {
+        "text": "The Wyoming Game and Fish Department (WGFD) has a State Wildlife Action Plan that provides an overview strategy to ensure the health and diversity of wildlife are maintained throughout Wyoming.",
+        "location": "Fish and Wildlife Habitat-Terrestrial Habitat",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "WSFD and the appropriate agencies to ensure all Trust Land Preservation and Enhancement (TP&E) will be protected... WGFD has been working on the Wyoming Mule Deer Initiative, which is an attempt to increase mule deer habitat across Wyoming, a component of migration corridor risk reduction.",
+        "location": "Fish and Wildlife Habitat-Terrestrial Habitat",
+        "relevant_elements": ["3.4", "1.4"]
+      },
+      {
+        "text": "Research on the costs and benefits of Wyoming's community forests concluded that for every $1 spent on public trees the residents receive $2.09 in benefits.",
+        "location": "Urban and Community Forestry",
+        "relevant_elements": ["4.4"]
+      },
+      {
+        "text": "Non-native species such as Russian olive and saltcedar have extensively invaded some riparian areas, outcompeting native species, significantly reducing the quality of wildlife habitat and contributing to diminishing stream flows.",
+        "location": "Riparian Forests",
+        "relevant_elements": ["3.7"]
+      }
+    ]
+  },
+  "concepts": {
+    "climate_vulnerability": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Wyoming is considered highly sensitive to climate change due to several factors including a naturally dry climate and dependence on mountain snow for surface water. There may be impacts on the amount and timing of water runoff and the length and severity of fire seasons.",
+          "location": "Threats to Priority Forest Landscapes",
+          "sub_component": "sensitivity/exposure",
+          "citations": []
+        },
+        {
+          "text": "Wyoming's climate is dynamic and over the last century, the state has seen an increase in temperatures and droughts which have resulted in tree mortality, increased wildfire risk, as well as insect outbreaks (United States Environmental Protection Agency, 2016). Wyoming is considered highly sensitive to climate change due to several factors, including a naturally dry climate and dependence on mountain snow for surface water.",
+          "location": "Agroforestry / Climate change context (table section)",
+          "sub_component": "sensitivity/exposure",
+          "citations": ["United States Environmental Protection Agency, 2016"]
+        },
+        {
+          "text": "Distribution of tree species could be altered as species better able to tolerate warmer and drier conditions expand their distribution. The timing and duration of wildfire seasons could change. Warmer climates are predicted to favor faster adapting insects over slower adapting tree species.",
+          "location": "Additional Wildfire Risk Analysis",
+          "sub_component": "exposure",
+          "citations": []
+        }
+      ],
+      "absence_note": "The document references climate sensitivity of Wyoming's forests and exposure to warming/drought repeatedly. Adaptive capacity is gestured at indirectly ('naturally resilient to many threats including climate change'; 'manage for species with greatest tolerance for dry conditions') but never explicitly named or operationalized as an adaptive capacity concept applied to species. Score 2 rather than 3 because exposure is clearly referenced but adaptive capacity (the second axis) is not explicitly framed — only implicit management proxies appear."
+    },
+    "adaptive_capacity_specificity": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Focus on management for current healthy diverse forests that are naturally resilient to many threats including climate change.",
+          "location": "Strategy (Threat 15)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "Adaptive capacity is alluded to through 'resilience' and managing for species tolerant of dry conditions, but it is never named as 'adaptive capacity' nor are specific biological components (dispersal, evolutionary potential, etc.) discussed in a climate-adaptation framing. Score 1 for generic, non-specific reference to resilience in a climate context."
+    },
+    "adaptive_capacity_components": {
+      "demography": {
+        "present": false,
+        "evidence": []
+      },
+      "distribution": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Distribution of tree species could be altered as species better able to tolerate warmer and drier conditions expand their distribution.",
+            "location": "Additional Wildfire Risk Analysis",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "movement": {
+        "present": false,
+        "evidence": []
+      },
+      "evolutionary_potential": {
+        "present": false,
+        "evidence": []
+      },
+      "ecological_dependencies": {
+        "present": false,
+        "evidence": []
+      },
+      "abiotic_niche": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "On current drier sites, manage for species with the greatest tolerance for dry conditions.",
+            "location": "Strategy (Threat 15)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "life_history": {
+        "present": false,
+        "evidence": []
+      }
+    },
+    "connectivity": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "avoiding forest fragmentation and maintaining habitat connectivity and continuity are mandatory conditions for sustaining the future of Wyoming's wildlife resource.",
+          "location": "Wildlife, Fisheries, and Watershed Resources",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Reducing forest fragmentation and maintaining forest community 'patch size' and connectivity are among the primary benefits of the FLP.",
+          "location": "Forest Health (Forest Legacy section)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "Connectivity is discussed extensively in the context of habitat fragmentation, wildlife movement corridors (riparian forests as migration corridors), and the Forest Legacy Program preserving connected landscapes. However, no passage explicitly frames connectivity as supporting climate-driven range shifts or uses terms like 'climate corridors' or 'climate-gradient connectivity.' Score 1 (generic) rather than 2 (climate-specific)."
+    }
+  },
+  "tools": {
+    "vulnerability_models": {
+      "evaluable": true,
+      "score": 0,
+      "named_tools": [],
+      "evidence": [],
+      "absence_note": "No vulnerability assessment frameworks (CCVI, PVA, etc.) are referenced anywhere in the document."
+    },
+    "niche_models": {
+      "evaluable": true,
+      "score": 0,
+      "named_tools": [],
+      "evidence": [],
+      "absence_note": "No species distribution models or niche models (MaxEnt, SDMs, etc.) are referenced."
+    },
+    "climate_models": {
+      "evaluable": true,
+      "score": 0,
+      "named_tools": [],
+      "evidence": [],
+      "absence_note": "Climate change is discussed qualitatively throughout, but no GCMs, downscaled projections, RCP/SSP scenarios, or named climate modeling tools are referenced. The EPA 2016 report 'What climate change means for Wyoming' is cited but this is not a climate model application. Score 0 per codebook decision rule.",
+      "time_horizon_years": [],
+      "emission_scenarios": []
+    },
+    "connectivity_models": {
+      "evaluable": true,
+      "score": 0,
+      "named_tools": [],
+      "evidence": [],
+      "absence_note": "The GIS analysis produces a priority landscapes map using 10 data layers, but no connectivity modeling tools (CircuitScape, Linkage Mapper, etc.) are named or applied. The GIS layers include forest fragmentation and habitat layers but not a connectivity model."
+    }
+  },
+  "context": {
+    "management_scale": {
+      "local": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Community Wildfire Protection Plans (CWPP) have been developed at the county level. There are 24 up to date CWPPs throughout the state, providing direction on wildfire and hazardous fuels management.",
+            "location": "Fuels Mitigation",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "site": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Specific management recommendations, targets, and timelines belong in management plans developed by local resource managers. The Resource Strategy provides strategic guidance, not site-specific management recommendations.",
+            "location": "National Themes / Assessment Data Layers",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "watershed": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Implement forest management activities on a landscape-scale and other meaningful scales to increase the likelihood that those activities would have a positive impact on water quality.",
+            "location": "Strategy (Threat 10)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "city": {
+        "present": false,
+        "evidence": []
+      },
+      "county": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Community Wildfire Protection Plans (CWPP) have been developed at the county level. There are 24 up to date CWPPs throughout the state",
+            "location": "Fuels Mitigation",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "within_state_region": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The forested areas of Wyoming are in the western and central portions of the state, part of the ecoregion province referred to as the Southern Rocky Mountain",
+            "location": "Wyoming Forest Resources Geology and Topography",
+            "sub_component": null,
+            "citations": ["Bailey, 1995"]
+          }
+        ]
+      },
+      "state": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The Forest Action Plan is a guiding document intended for WSFD, conservation partners, and those with an interest in forestry in the state. The document examines the most current forest resources in the state to show trends, threats, priorities, opportunities, and strategies.",
+            "location": "Introduction",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "multistate": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Wyoming will work collaboratively with its six neighboring states to address common issues on priority landscapes as identified by each state's Statewide Assessment of Forest Resources.",
+            "location": "Inter-State Collaboration (table section)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "national": {
+        "present": false,
+        "evidence": []
+      },
+      "transnational": {
+        "present": false,
+        "evidence": []
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Wyoming has the largest virtually intact ecosystem remaining in the lower 48 States; the greater Yellowstone Ecosystem in the north and western third of the State.",
+            "location": "Forest Health (Forest Legacy section / Biodiversity)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecoregion": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The forested areas of Wyoming are in the western and central portions of the state, part of the ecoregion province referred to as the Southern Rocky Mountain (Bailey, 1995).",
+            "location": "Wyoming Forest Resources Geology and Topography",
+            "sub_component": null,
+            "citations": ["Bailey, 1995"]
+          }
+        ]
+      },
+      "province": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "An isolated area of forest land exists in the northeast portion of the state where ponderosa pine forests have found an ecological niche in the Black Hills. This province is referred to as the Black Hills Coniferous Forest Province (Bailey, 1995).",
+            "location": "Wyoming Forest Resources Geology and Topography",
+            "sub_component": null,
+            "citations": ["Bailey, 1995"]
+          }
+        ]
+      },
+      "section": {
+        "present": false,
+        "evidence": []
+      },
+      "subsection": {
+        "present": false,
+        "evidence": []
+      },
+      "lake": {
+        "present": false,
+        "evidence": []
+      },
+      "river": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "A network of riparian forests occurs along the major river systems and tributaries providing a valuable habitat component and interconnection between other forested areas.",
+            "location": "Wyoming Forest Resources Geology and Topography",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "district": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["Greater Yellowstone Ecosystem", "Black Hills", "Bighorn Mountains", "Medicine Bow National Forest", "Bridger-Teton National Forest", "Shoshone National Forest", "Big Horn National Forest", "Sierra Madre", "Laramie Mountains", "Wind River Range"]
+    },
+    "biological_unit_score": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Distribution of tree species could be altered as species better able to tolerate warmer and drier conditions expand their distribution.",
+          "location": "Additional Wildfire Risk Analysis",
+          "sub_component": "species",
+          "citations": []
+        },
+        {
+          "text": "Less than one percent of the Intermountain West is classified as riparian forest, yet an estimated 80% of wildlife depends on this limited area for food, water, shelter, and migration routes during a portion of their life cycle.",
+          "location": "Riparian Forests",
+          "sub_component": "habitat",
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "biological_unit_components": {
+      "species": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Distribution of tree species could be altered as species better able to tolerate warmer and drier conditions expand their distribution.",
+            "location": "Additional Wildfire Risk Analysis",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "population": {
+        "present": false,
+        "evidence": []
+      },
+      "habitat": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The Fish and Wildlife Habitat-Terrestrial Habitat layer includes priority terrestrial habitat data from the WGFD, and sage grouse core habitat areas were used to emphasize important terrestrial wildlife habitat.",
+            "location": "Fish and Wildlife Habitat-Terrestrial Habitat",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Wyoming has the largest virtually intact ecosystem remaining in the lower 48 States; the greater Yellowstone Ecosystem in the north and western third of the State.",
+            "location": "Forest Health (Biodiversity section)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "community": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Warmer climates are predicted to favor faster adapting insects over slower adapting tree species. Models predict warmer temperatures will lead to higher insect populations during outbreaks and range expansion/higher amounts of damage observed in areas than seen historically.",
+            "location": "Additional Wildfire Risk Analysis",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "genotype_phenotype": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["lodgepole pine", "ponderosa pine", "aspen", "spruce-fir", "limber pine", "whitebark pine", "mountain pine beetle", "sage grouse", "mule deer", "cottonwood", "Russian olive", "saltcedar", "emerald ash borer"]
+    },
+    "partnerships_and_funding": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "The Forest Legacy Program together with project partners: State of Wyoming -Office of State Lands and Investments, Moskee Land Corporation, Rocky Mountain Elk Foundation and National Wild Turkey Federation contributed $11,525,000.00 for the acquisition.",
+          "location": "Forest Legacy Program (figure caption)",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Much of the assistance forestry program is delivered through the partnership and financial support of the USDA Forest Service and their State & Private Programs.",
+          "location": "Figure caption / WSFD summary",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "Partnerships and funding are described extensively for general forest management (WSFD, USFS, BLM, NGOs, WGFD). However, no partnerships or dedicated funding are specifically described for climate change range-shift adaptation work. The document notes budget constraints frequently. Score 1 for aspirational/limited partnerships not specifically tied to range-shift actions."
+    },
+    "climate_threat_habitat_degradation": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Climate change could impact water quality and supply. Should climate change produce a longterm reduced precipitation scenario, water quality would be reduced. The amount and timing of runoff and peak flows could be altered. Increased wildfire activity during a warmer/drier period could negatively impact water quality as larger, hotter fires affect vegetative cover and soils.",
+          "location": "Priority Areas-Water Quality and Supply",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Under a longterm reduced precipitation scenario, forest health impacts could be significant. Distribution of tree species could be altered as species better able to tolerate warmer and drier conditions expand their distribution. The timing and duration of wildfire seasons could change.",
+          "location": "Additional Wildfire Risk Analysis",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_threat_species_vital_rates": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "If climate conditions warm, aspen forests may experience higher mortality.",
+          "location": "Riparian Forests",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Warmer climates are predicted to favor faster adapting insects over slower adapting tree species. Models predict warmer temperatures will lead to higher insect populations during outbreaks and range expansion/higher amounts of damage observed in areas than seen historically.",
+          "location": "Additional Wildfire Risk Analysis",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_threat_biotic_stressors": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Warmer climates are predicted to favor faster adapting insects over slower adapting tree species. Models predict warmer temperatures will lead to higher insect populations during outbreaks and range expansion/higher amounts of damage observed in areas than seen historically.",
+          "location": "Additional Wildfire Risk Analysis",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document discusses insect range expansion under warming as a climate-driven biotic stressor. Discussion of invasive plants (Russian olive, saltcedar) is present but not framed as climate-driven. Score 1 for the insect range-expansion framing."
+    }
+  },
+  "actions": {
+    "priority_habitat_identification": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "The Wyoming Statewide Assessment of Forest Resources-Critical Landscapes map shows the priority landscapes with the highest priorities designated as dark brown. The darker brown hue indicates that more of the analysis layers were counted in those areas.",
+          "location": "Priority Forest Landscapes",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "The Fish and Wildlife Habitat-Terrestrial Habitat layer includes priority terrestrial habitat data from the WGFD, and sage grouse core habitat areas were used to emphasize important terrestrial wildlife habitat.",
+          "location": "Fish and Wildlife Habitat-Terrestrial Habitat",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "Priority habitat is spatially represented on maps (Critical Landscapes map, terrestrial habitat layer, aquatic habitat layer, Forest Legacy Area maps). However, the spatial prioritization is driven primarily by timber, fire, and wildlife considerations rather than climate-induced range-shift concerns. Still qualifies for score 2 as priority habitat is explicitly spatially represented."
+    },
+    "targeted_range_shift_actions": {
+      "evaluable": true,
+      "score": 0,
+      "evidence": [],
+      "absence_note": "No specific actions to facilitate, prevent, or respond to climate-driven range shifts are proposed. The strategy of managing for drought-tolerant species ('On current drier sites, manage for species with the greatest tolerance for dry conditions') is a management adaptation but is not framed as a range-shift facilitation action. No assisted migration, translocation, climate corridors, or other targeted range-shift actions are described."
+    },
+    "time_bound_and_monitoring": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "The strategies also usually avoid assigning time or accomplishment targets because different landowners/managers operate under different timelines, priorities, and rules. Specific management recommendations, targets, and timelines belong in management plans developed by local resource managers.",
+          "location": "National Themes / Assessment Data Layers",
+          "sub_component": "deadlines",
+          "citations": []
+        },
+        {
+          "text": "Internally, WSFD will continually evaluate programs for effectiveness as the Division strives to implement an adaptive approach to addressing threats and priorities on Wyoming's priority forest landscapes. Efforts that are working will receive increased emphasis, while less effective efforts will be de-emphasized",
+          "location": "Monitoring and Revision",
+          "sub_component": "monitoring",
+          "citations": []
+        }
+      ],
+      "absence_note": "The document explicitly states it avoids assigning time targets to actions. Monitoring is described as a general principle (adaptive management) but is not operationalized with specific effectiveness monitoring protocols tied to individual actions. Score 1 for the adaptive management principle, not 2 because neither action-level deadlines nor specific effectiveness monitoring protocols are present."
+    },
+    "evidence_of_efficacy": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "The large-scale insect epidemic that occurred in southern Wyoming contributed to increased water yield within the area.",
+          "location": "Priority Areas-Water Quality and Supply",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "Actions are generally presented without citations or empirical evidence. The document relies on general silvicultural principles and professional judgment. A few references to prior work (watershed studies, bark beetle effects on water yield) appear but are not tied to specific efficacy evaluations. Score 1 for rationale-based presentation without specific evidence for climate-related actions.",
+      "projects": ["Three municipal watershed wildfire hazard mitigation assessments were completed in Wyoming (Cheyenne and Buffalo mentioned), providing some empirical basis for watershed management plans that highlight forest management treatments to reduce wildfire impacts on municipal watersheds — this represents limited prior project evidence for water-quality protection actions."]
+    },
+    "adaptation_planning_frameworks": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Use adaptive management strategies to account for species adaptation, changes in length and severity of fire seasons, increase/decrease in insect and disease outbreaks, etc.",
+          "location": "Strategy (Threat 15)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "Adaptive management is referenced explicitly in the context of climate change (Threat 15 Strategy), qualifying as a climate adaptation planning framework reference. However, it is mentioned generically without specifying a named framework or structured process. No RAD, RRT, CCVA, SBDA, or other named frameworks appear. Score 1 for generic reference to adaptive management in a climate context."
+    }
+  },
+  "coding_meta": {
+    "coder": "llm:claude-sonnet-4-6",
+    "model": "claude-sonnet-4-6",
+    "provider": "claude",
+    "codebook_version": "0.4",
+    "ingest": "text",
+    "design": "single",
+    "temperature": null,
+    "thinking": null,
+    "thinking_effort": null,
+    "coded_at": "2026-07-07T00:31:34Z",
+    "notes": {}
+  }
+}

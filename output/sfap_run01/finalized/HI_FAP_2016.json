@@ -1,0 +1,777 @@
+{
+  "document_meta": {
+    "title": "Hawai'i Forest Action Plan 2016",
+    "year": 2016,
+    "jurisdiction": "Hawaii",
+    "document_type": "Forest Action Plan",
+    "document_id": "HI_FAP_2016",
+    "page_count": 316
+  },
+  "orientation": {
+    "summary": "This is the 2016 update to the Hawai'i Forest Action Plan (FAP), produced by the Hawai'i Department of Land and Natural Resources, Division of Forestry and Wildlife (DOFAW). It is a statewide forest management plan covering nine priority issues including water quality, forest health, wildfire, urban forestry, climate change and sea level rise, native biodiversity conservation, hunting/recreation, forest products, and U.S. tropical island issues. The document has a strong posture toward climate change as a recognized threat, discussing its impacts on rainfall, temperature, sea level rise, wildfire, invasive species, and native biodiversity throughout multiple sections. Regarding range shifts specifically, the document discusses climate-driven elevational and latitudinal shifts of species (particularly disease vectors like mosquitoes moving to higher elevations), potential range shifts of native plant and bird communities, and climate-driven expansion of invasive species — but this is largely framed qualitatively rather than through formal range-shift modeling. The document synthesizes information from external scientific studies and vulnerability assessments rather than performing its own modeling, though it references downscaled climate models produced by others.",
+    "evidence_index": [
+      {
+        "text": "Global and local climate change have the potential to affect Hawai'i's hydrology by altering rainfall patterns and cloud banks, thereby affecting all users, particularly agricultural water users, over a broad geographic area.",
+        "location": "Issue 1: Water Quality and Quantity, Climate Change Impacts",
+        "relevant_elements": ["1.1", "3.5"]
+      },
+      {
+        "text": "Global and local climate change has the potential to affect Hawai'i's suite of established invasive species by extending their ranges to higher elevations. Warming temperatures at higher elevations, where most remaining native forests exist, could make these forests more vulnerable to pest damage by increasing the climatic range of certain pests that are still limited to lower elevations.",
+        "location": "Issue 2: Forest Health: Invasive Species, Insects, and Disease, Climate Change",
+        "relevant_elements": ["1.1", "3.7", "C2"]
+      },
+      {
+        "text": "One well-documented example of this threat of warming is the potential range expansion of mosquito species to higher elevations, resulting in increased exposure of remnant forest bird populations to mosquito-transmitted infectious diseases.",
+        "location": "Issue 2: Forest Health: Invasive Species, Insects, and Disease, Climate Change",
+        "relevant_elements": ["1.1", "3.6", "3.7", "C2"]
+      },
+      {
+        "text": "Both vertical range shifts and increased disturbance from violent weather events may open opportunities for invasive species to establish in new areas",
+        "location": "Issue 2: Forest Health: Invasive Species, Insects, and Disease, Climate Change",
+        "relevant_elements": ["3.7", "C2"]
+      },
+      {
+        "text": "Climate change models of rainfall for the Hawaiian Islands through the remainder of this century predict, on average, a decrease in rainfall and reduced availability of freshwater resources. The models predict that most areas will have a decrease in wet-season rainfall",
+        "location": "Issue 3: Wildfire, Climate Change and Wildfire",
+        "relevant_elements": ["2.3", "3.5"]
+      },
+      {
+        "text": "the most important outcome of this effort will be the sum of the relationships we have established and renewed, and the enhancement of capabilities of our staff and partners to use the many tools, data, and plans compiled and developed.",
+        "location": "The Aloha Act of 1986",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "Data show a rapid rise in air temperature in the past 30 years (averaging 0.3°F per decade), with stronger warming at higher elevations (Figure 5.1).",
+        "location": "Issue 5: Climate Change and Sea Level Rise, Overview",
+        "relevant_elements": ["1.1", "2.3"]
+      },
+      {
+        "text": "According to the Intergovernmental Panel on Climate Change (IPCC), global average temperatures have risen by 1.5°F since 1970 and can be expected to rise another 2 to 11°F by the end of the 21st century, depending on future greenhouse gas emission levels.",
+        "location": "Issue 5: Climate Change and Sea Level Rise, Overview",
+        "relevant_elements": ["1.1", "2.3"]
+      },
+      {
+        "text": "Forests, however, are facing other stressors that severely limit their adaptive capacity.",
+        "location": "Issue 5: Climate Change and Sea Level Rise, Overview",
+        "relevant_elements": ["1.2", "1.3"]
+      },
+      {
+        "text": "Assessing the vulnerability of key resources, infrastructure, and ecosystems can inform the process of setting goals, determining management priorities, and deciding on appropriate adaptation strategies.",
+        "location": "Issue 5: Climate Change and Sea Level Rise, Overview",
+        "relevant_elements": ["1.1", "2.1", "4.5"]
+      },
+      {
+        "text": "The rapid warming trend at high elevations is a significant threat for a number of reasons. First, most remaining intact native forests occur at higher elevations. Second, most native land birds are restricted to cool, high-elevation forests, which are inhospitable to the non-native diseases and their vectors that have devastated the Hawaiian avifauna at lower elevations. Warming will result in a reduction of disease-free forest area.",
+        "location": "Issue 5: Climate Change and Sea Level Rise, Impacts of Rising Air Temperatures and Reduced Rainfall on Forest Health and Biodiversity",
+        "relevant_elements": ["1.1", "3.6", "3.7"]
+      },
+      {
+        "text": "all 10 remaining at-risk Hawaiian forest bird species will lose more than 50% of their disease-free high-elevation range by 2100. Three of these on Kaua'i, the 'akeke'e (Loxops caeruleirostris), 'akikiki (Oreomystis bairdi), and puaiohi (Myadestes palmeri), will lose all high-elevation range.",
+        "location": "Issue 5: Climate Change and Sea Level Rise, Impacts of Rising Air Temperatures and Reduced Rainfall on Forest Health and Biodiversity",
+        "relevant_elements": ["1.1", "1.2", "1.3", "C2"]
+      },
+      {
+        "text": "modeling suggests that numerous species are vulnerable and unable to respond as necessary to persist under climate change and either tolerate projected changes, endure in microrefugia, or migrate to new climate-compatible areas.",
+        "location": "Issue 5: Climate Change and Sea Level Rise, Impacts of Rising Air Temperatures and Reduced Rainfall on Forest Health and Biodiversity",
+        "relevant_elements": ["1.1", "1.2", "1.3", "C2"]
+      },
+      {
+        "text": "Species associated primarily with dry forests have higher vulnerability scores than species from any other habitat type. Coastal species and species with decreasing range size are also more vulnerable to climate change impacts.",
+        "location": "Issue 5: Climate Change and Sea Level Rise, Impacts of Rising Air Temperatures and Reduced Rainfall on Forest Health and Biodiversity",
+        "relevant_elements": ["1.1", "2.1"]
+      },
+      {
+        "text": "Micro-habitats that support rare plants and animals are often isolated, and natural migration (without human intervention), in many cases, is unlikely and would be catastrophic in some cases.",
+        "location": "Issue 5: Climate Change and Sea Level Rise, Impacts of Rising Air Temperatures and Reduced Rainfall on Forest Health and Biodiversity",
+        "relevant_elements": ["1.3", "1.4", "4.2"]
+      },
+      {
+        "text": "it will prevent the establishment of forest above the current tree line, and only plants that can tolerate drier conditions will persist.",
+        "location": "Issue 5: Climate Change and Sea Level Rise, Impacts of Rising Air Temperatures and Reduced Rainfall on Forest Health and Biodiversity",
+        "relevant_elements": ["1.1", "3.5"]
+      },
+      {
+        "text": "Saltwater intrusion will intensify in coastal forests, wetlands, and groundwater systems, agricultural land, estuaries, and elsewhere.",
+        "location": "Issue 5: Climate Change and Sea Level Rise, Impacts of Sea Level Rise on Beaches, Coastal Forests, and Human Communities",
+        "relevant_elements": ["3.5"]
+      },
+      {
+        "text": "Sea level in Hawai'i has risen at approximately 0.6 inch per decade over the past century. Shoreline retreat, larger storm surges, and water-table salinization will likely diminish the health and integrity of forests and wetlands close to sea level.",
+        "location": "Issue 5: Climate Change and Sea Level Rise, Impacts of Sea Level Rise on Beaches, Coastal Forests, and Human Communities",
+        "relevant_elements": ["3.5"]
+      },
+      {
+        "text": "Downscaling climate change models predict, on average, a decrease in rainfall and reduced availability of freshwater resources.",
+        "location": "Issue 5: Climate Change and Sea Level Rise, Overview",
+        "relevant_elements": ["2.3"]
+      },
+      {
+        "text": "Future climate conditions will threaten native plants and communities by causing shifts or even complete losses of climate niches for some species. With an increase in temperature, some plant species and assemblages might be able to adapt to higher elevations, but those species already at the highest elevations may have no place to go.",
+        "location": "Issue 6: Conservation of Native Biodiversity, Climate Change",
+        "relevant_elements": ["1.1", "1.2", "1.3", "C2"]
+      },
+      {
+        "text": "Increased temperatures will allow avian disease pathogens and vectors to expand into higher-elevation forests that currently support the last remaining populations of native birds.",
+        "location": "Issue 6: Conservation of Native Biodiversity, Climate Change",
+        "relevant_elements": ["3.6", "3.7", "C2"]
+      },
+      {
+        "text": "Climate change models for the Hawaiian Islands for the remainder of this century predict a reduction in average rainfall and the availability of fresh water.",
+        "location": "Issue 6: Conservation of Native Biodiversity, Climate Change",
+        "relevant_elements": ["2.3", "3.5"]
+      },
+      {
+        "text": "The pressures associated with ungulates, such as trampling and heavy browsing and grazing, have, for many species, threatened species survival or the ability of the species to evolve and adapt to new evolutionary pressures, such as climate change.",
+        "location": "Issue 1: Water Quality and Quantity, Impact of Feral Ungulates on Forests and Water Quality",
+        "relevant_elements": ["1.2", "1.3"]
+      },
+      {
+        "text": "Where there is a high level of uncertainty about specific impacts, agencies should focus on 'no regrets' conservation actions-those likely to be beneficial regardless of future climate conditions. These can include reducing non-climate forest stressors, managing for ecological function and biodiversity, and maintaining and restoring coastal resources.",
+        "location": "Issue 5: Climate Change and Sea Level Rise, Priority Issues and Areas for Climate Change and Sea Level Rise",
+        "relevant_elements": ["4.1", "4.2", "4.5"]
+      },
+      {
+        "text": "facilitated adaptation, involving initiatives and measures to reduce the vulnerability of natural and human systems against actual or expected climate change effects.",
+        "location": "Issue 5: Climate Change and Sea Level Rise, Overview",
+        "relevant_elements": ["1.1", "4.5"]
+      },
+      {
+        "text": "Recognizing this need, in 2014, the Hawai'i State Legislature passed the Hawai'i Climate Adaptation Initiative Act (Act 83, Session Laws of Hawai'i, 2014) and set up the Interagency Climate Adaptation Committee (ICAC) to address the effects of climate change",
+        "location": "Issue 5: Climate Change and Sea Level Rise, Overview",
+        "relevant_elements": ["3.4", "4.5"]
+      },
+      {
+        "text": "HCA and PICCC are developing scientific assessments of climate change impacts on physical and ecological systems at a scale relevant to conservation planning.",
+        "location": "Issue 5: Climate Change and Sea Level Rise, Priority Issues and Areas for Climate Change and Sea Level Rise",
+        "relevant_elements": ["2.1", "3.4"]
+      },
+      {
+        "text": "the governor launched the 30 by 30 Watershed Forests Target initiative and committed the State of Hawaiʻi to protect 30% (253,000 acres) of the highest-priority watershed forests by 2030.",
+        "location": "Issue 1: Water Quality and Quantity, Overview",
+        "relevant_elements": ["4.1", "4.3", "3.4"]
+      },
+      {
+        "text": "In 2016, as part of the Aloha+ Challenge, and World Conservation Congress Legacy Commitment, the governor and State administration embraced an even more ambitious watershed protection goal of '30 by 30', and committed to protect 30% of our highest priority watershed forests (253,000 acres) by the year 2030.",
+        "location": "Issue 1: Water Quality and Quantity, Priority Issues and Areas for Water Quality and Quantity",
+        "relevant_elements": ["4.1", "4.3"]
+      },
+      {
+        "text": "Priority landscape areas for the conservation of native biodiversity consist of all lands that are either classified as critical habitat by the USFWS, or are designated as essential habitat for the recovery of plants, forest birds, seabirds and water fowl (Map 6.4).",
+        "location": "Issue 6: Conservation of Native Biodiversity, Priority Areas for Conservation of Native Biodiversity",
+        "relevant_elements": ["4.1"]
+      },
+      {
+        "text": "Climate change is expected to increase the frequency of storm events such as hurricane Iselle...Both vertical range shifts and increased disturbance from violent weather events may open opportunities for invasive species to establish in new areas",
+        "location": "Issue 2: Forest Health: Invasive Species, Insects, and Disease, Climate Change",
+        "relevant_elements": ["3.5", "3.7", "C2"]
+      },
+      {
+        "text": "Eliminate invasive weed species and reestablishing native plants will help preserve the availability of fresh water in forests, as well as prevent the spread of avian diseases.",
+        "location": "Issue 5: Climate Change and Sea Level Rise, Climate Change Adaptation",
+        "relevant_elements": ["4.1", "4.2"]
+      },
+      {
+        "text": "A Landscape-Based Assessment of Climate Change Vulnerability for All Native Hawaiian Plants",
+        "location": "References, Issue 5",
+        "relevant_elements": ["2.1", "1.1"]
+      },
+      {
+        "text": "Statistical downscaling of rainfall changes in Hawai'i based on the CMIP5 global model projections",
+        "location": "References, Issue 3",
+        "relevant_elements": ["2.3"]
+      },
+      {
+        "text": "Large-Scale Range Collapse of Hawaiian Forest Birds under Climate Change and the Need for 21st Century Conservation Options",
+        "location": "References, Issue 5",
+        "relevant_elements": ["2.1", "C2"]
+      },
+      {
+        "text": "When the program is used with climate change modeling, it may help guide management strategies to reduce the impacts of climate change on biological communities. This tool is helpful in identifying important habitats on which to focus monitoring and where adaptive management can be used to minimize or mitigate the impacts of climate change on natural resources.",
+        "location": "Issue 5: Climate Change and Sea Level Rise, Priority Issues and Areas for Climate Change and Sea Level Rise",
+        "relevant_elements": ["4.1", "4.5", "2.1"]
+      },
+      {
+        "text": "because of a reduction in the width of the inversion layer, or cloud zone, which is a source of rain and fog drip. This will prevent the establishment of forest above the current tree line, and only plants that can tolerate drier conditions will persist.",
+        "location": "Issue 5: Climate Change and Sea Level Rise, Impacts of Rising Air Temperatures",
+        "relevant_elements": ["1.3", "3.5"]
+      },
+      {
+        "text": "The initiative proposes to fence and remove nonnative hooved animals from targeted core areas, control invasive plants in priority native forests, prevent and control wildfires, combat forest diseases and pests, and plant native trees to protect watershed forests. These actions not only would restore watershed functions to replenish aquifers and surface water flows to secure the water supply needed for the future, but would increase Hawai'i's resilience and ability to withstand impacts from climate change.",
+        "location": "Issue 1: Water Quality and Quantity, Overview",
+        "relevant_elements": ["4.1", "4.2", "4.3"]
+      },
+      {
+        "text": "Because of the uncertainty and complexity of climate change, future planning and decision processes should be iterative to allow for informed decisions and early implementation of adaptive strategies.",
+        "location": "Issue 5: Climate Change and Sea Level Rise, Priority Issues and Areas for Climate Change and Sea Level Rise",
+        "relevant_elements": ["4.5"]
+      },
+      {
+        "text": "Global climate models predict that net precipitation at sea level near the Hawaiian Islands will decrease during the cool season (November through April) an additional 4-6% by 2100",
+        "location": "Issue 5: Climate Change and Sea Level Rise, Threats - Reduction in Rainfall and Fresh Water",
+        "relevant_elements": ["2.3"]
+      },
+      {
+        "text": "watershed partnerships have a proven track record of on-the-ground management that has led to results-oriented protection and restoration of forested watersheds through fencing and ungulate removal, invasive species control, native outplantings, and outreach",
+        "location": "Issue 1: Water Quality and Quantity, Watershed Partnerships",
+        "relevant_elements": ["3.4", "4.4"]
+      }
+    ]
+  },
+  "concepts": {
+    "climate_vulnerability": {
+      "evaluable": true,
+      "score": 3,
+      "evidence": [
+        {
+          "text": "modeling suggests that numerous species are vulnerable and unable to respond as necessary to persist under climate change and either tolerate projected changes, endure in microrefugia, or migrate to new climate-compatible areas. Of particular concern are those that will have no compatible-climate areas remaining by the year 2100.",
+          "location": "Issue 5: Climate Change and Sea Level Rise, Impacts of Rising Air Temperatures and Reduced Rainfall on Forest Health and Biodiversity",
+          "sub_component": "exposure",
+          "citations": []
+        },
+        {
+          "text": "Forests, however, are facing other stressors that severely limit their adaptive capacity.",
+          "location": "Issue 5: Climate Change and Sea Level Rise, Overview",
+          "sub_component": "adaptive capacity",
+          "citations": []
+        },
+        {
+          "text": "Species associated primarily with dry forests have higher vulnerability scores than species from any other habitat type. Coastal species and species with decreasing range size are also more vulnerable to climate change impacts.",
+          "location": "Issue 5: Climate Change and Sea Level Rise, Impacts of Rising Air Temperatures and Reduced Rainfall on Forest Health and Biodiversity",
+          "sub_component": "exposure",
+          "citations": ["Fortini et al. 2013. A Landscape-Based Assessment of Climate Change Vulnerability for All Native Hawaiian Plants. HCSU-044."]
+        }
+      ],
+      "absence_note": {}
+    },
+    "adaptive_capacity_specificity": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Micro-habitats that support rare plants and animals are often isolated, and natural migration (without human intervention), in many cases, is unlikely and would be catastrophic in some cases.",
+          "location": "Issue 5: Climate Change and Sea Level Rise, Impacts of Rising Air Temperatures and Reduced Rainfall on Forest Health and Biodiversity",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Future climate conditions will threaten native plants and communities by causing shifts or even complete losses of climate niches for some species. With an increase in temperature, some plant species and assemblages might be able to adapt to higher elevations, but those species already at the highest elevations may have no place to go.",
+          "location": "Issue 6: Conservation of Native Biodiversity, Climate Change",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "adaptive_capacity_components": {
+      "demography": {
+        "present": false,
+        "evidence": []
+      },
+      "distribution": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "all 10 remaining at-risk Hawaiian forest bird species will lose more than 50% of their disease-free high-elevation range by 2100. Three of these on Kaua'i, the 'akeke'e (Loxops caeruleirostris), 'akikiki (Oreomystis bairdi), and puaiohi (Myadestes palmeri), will lose all high-elevation range.",
+            "location": "Issue 5: Climate Change and Sea Level Rise, Impacts of Rising Air Temperatures and Reduced Rainfall on Forest Health and Biodiversity",
+            "sub_component": null,
+            "citations": ["Fortini et al. 2015. Large-Scale Range Collapse of Hawaiian Forest Birds under Climate Change and the Need for 21st Century Conservation Options. PLoS ONE 10(10):140389."]
+          }
+        ]
+      },
+      "movement": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Micro-habitats that support rare plants and animals are often isolated, and natural migration (without human intervention), in many cases, is unlikely and would be catastrophic in some cases.",
+            "location": "Issue 5: Climate Change and Sea Level Rise, Impacts of Rising Air Temperatures and Reduced Rainfall on Forest Health and Biodiversity",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "evolutionary_potential": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The pressures associated with ungulates, such as trampling and heavy browsing and grazing, have, for many species, threatened species survival or the ability of the species to evolve and adapt to new evolutionary pressures, such as climate change.",
+            "location": "Issue 1: Water Quality and Quantity, Impact of Feral Ungulates on Forests and Water Quality",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecological_dependencies": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "most native land birds are restricted to cool, high-elevation forests, which are inhospitable to the non-native diseases and their vectors that have devastated the Hawaiian avifauna at lower elevations. Warming will result in a reduction of disease-free forest area.",
+            "location": "Issue 5: Climate Change and Sea Level Rise, Impacts of Rising Air Temperatures and Reduced Rainfall on Forest Health and Biodiversity",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "abiotic_niche": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "only plants that can tolerate drier conditions will persist. Micro-habitats that support rare plants and animals are often isolated",
+            "location": "Issue 5: Climate Change and Sea Level Rise, Impacts of Rising Air Temperatures and Reduced Rainfall on Forest Health and Biodiversity",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "life_history": {
+        "present": false,
+        "evidence": []
+      }
+    },
+    "connectivity": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Micro-habitats that support rare plants and animals are often isolated, and natural migration (without human intervention), in many cases, is unlikely and would be catastrophic in some cases.",
+          "location": "Issue 5: Climate Change and Sea Level Rise, Impacts of Rising Air Temperatures and Reduced Rainfall on Forest Health and Biodiversity",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document discusses habitat isolation and movement constraints for species facing climate change, implying connectivity concerns, but does not explicitly frame connectivity using canonical terms like 'climate corridors,' 'habitat corridors,' 'landscape permeability,' or 'climate connectivity' in a climate-relevant range-shift context. The discussion of isolation is implicit connectivity framing (generic), scoring a 1."
+    }
+  },
+  "tools": {
+    "vulnerability_models": {
+      "evaluable": true,
+      "score": 2,
+      "named_tools": ["climate change vulnerability assessment"],
+      "evidence": [
+        {
+          "text": "Species associated primarily with dry forests have higher vulnerability scores than species from any other habitat type. Coastal species and species with decreasing range size are also more vulnerable to climate change impacts.",
+          "location": "Issue 5: Climate Change and Sea Level Rise, Impacts of Rising Air Temperatures and Reduced Rainfall on Forest Health and Biodiversity",
+          "sub_component": null,
+          "citations": ["Fortini et al. 2013. A Landscape-Based Assessment of Climate Change Vulnerability for All Native Hawaiian Plants. HCSU-044."]
+        },
+        {
+          "text": "Assessing the vulnerability of key resources, infrastructure, and ecosystems can inform the process of setting goals, determining management priorities, and deciding on appropriate adaptation strategies.",
+          "location": "Issue 5: Climate Change and Sea Level Rise, Overview",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document references an external landscape-based climate change vulnerability assessment for native Hawaiian plants and forest birds (Fortini et al. 2013, Fortini et al. 2015) whose results are incorporated into the plan's discussion of species at risk. This qualifies as applied (results substantively incorporated). No CCVI or NatureServe CCVI is named by that designation, but the vulnerability assessment for Hawaiian plants and birds constitutes an applied vulnerability model."
+    },
+    "niche_models": {
+      "evaluable": true,
+      "score": 2,
+      "named_tools": [],
+      "evidence": [
+        {
+          "text": "modeling suggests that numerous species are vulnerable and unable to respond as necessary to persist under climate change and either tolerate projected changes, endure in microrefugia, or migrate to new climate-compatible areas. Of particular concern are those that will have no compatible-climate areas remaining by the year 2100.",
+          "location": "Issue 5: Climate Change and Sea Level Rise, Impacts of Rising Air Temperatures and Reduced Rainfall on Forest Health and Biodiversity",
+          "sub_component": null,
+          "citations": ["Fortini et al. 2013. A Landscape-Based Assessment of Climate Change Vulnerability for All Native Hawaiian Plants. HCSU-044."]
+        },
+        {
+          "text": "all 10 remaining at-risk Hawaiian forest bird species will lose more than 50% of their disease-free high-elevation range by 2100. Three of these on Kaua'i, the 'akeke'e, 'akikiki, and puaiohi, will lose all high-elevation range.",
+          "location": "Issue 5: Climate Change and Sea Level Rise, Impacts of Rising Air Temperatures and Reduced Rainfall on Forest Health and Biodiversity",
+          "sub_component": null,
+          "citations": ["Fortini et al. 2015. Large-Scale Range Collapse of Hawaiian Forest Birds under Climate Change and the Need for 21st Century Conservation Options. PLoS ONE 10(10):140389."]
+        }
+      ],
+      "absence_note": "The document incorporates results from species/habitat distribution modeling applied to Hawaiian focal species (birds and plants under projected climate scenarios). Though specific tool names like MaxEnt are not cited in the text, the modeling results from Fortini et al. 2013 and 2015 constitute applied niche modeling incorporated into management decisions."
+    },
+    "climate_models": {
+      "evaluable": true,
+      "score": 2,
+      "named_tools": ["CMIP5", "downscaled climate models"],
+      "evidence": [
+        {
+          "text": "Downscaling climate change models predict, on average, a decrease in rainfall and reduced availability of freshwater resources.",
+          "location": "Issue 5: Climate Change and Sea Level Rise, Overview",
+          "sub_component": null,
+          "citations": ["Timm, O.E., T.W. Giambelluca, H.F. Diaz. Statistical downscaling of rainfall changes in Hawai'i based on the CMIP5 global model projections. Journal of Geophysical Research: Atmospheres 120. 2015."]
+        },
+        {
+          "text": "Global climate models predict that net precipitation at sea level near the Hawaiian Islands will decrease during the cool season (November through April) an additional 4-6% by 2100",
+          "location": "Issue 5: Climate Change and Sea Level Rise, Threats - Reduction in Rainfall and Fresh Water",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {},
+      "time_horizon_years": [2100],
+      "emission_scenarios": []
+    },
+    "connectivity_models": {
+      "evaluable": true,
+      "score": 0,
+      "named_tools": [],
+      "evidence": [],
+      "absence_note": "The document does not reference any connectivity modeling tools (e.g., CircuitScape, least-cost path, Linkage Mapper) or their outputs. Connectivity as a concept is barely engaged and not modeled."
+    }
+  },
+  "context": {
+    "management_scale": {
+      "local": {
+        "present": false,
+        "evidence": []
+      },
+      "site": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Priority landscape areas for the conservation of native biodiversity consist of all lands that are either classified as critical habitat by the USFWS, or are designated as essential habitat for the recovery of plants, forest birds, seabirds and water fowl (Map 6.4).",
+            "location": "Issue 6: Conservation of Native Biodiversity, Priority Areas for Conservation of Native Biodiversity",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "watershed": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "the governor launched the 30 by 30 Watershed Forests Target initiative and committed the State of Hawaiʻi to protect 30% (253,000 acres) of the highest-priority watershed forests by 2030.",
+            "location": "Issue 1: Water Quality and Quantity, Overview",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "city": {
+        "present": false,
+        "evidence": []
+      },
+      "county": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The Hawai'i is divided into four counties, each with a county council and a mayor who is elected by popular vote.",
+            "location": "Process for Development of Hawai'i's 2010 Statewide Assessment and the 2016 Forest Action Plan Update Scope",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "within_state_region": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "the leeward, climatically dry areas of the islands and mountain ranges are predicted to have drier than normal conditions during the wet and dry season.",
+            "location": "Issue 5: Climate Change and Sea Level Rise, Overview",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "state": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "This updated FAP will meet the needs of the forest management program for the next 5 to 10 years",
+            "location": "National Guidance for Statewide Forest Resource Assessments",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "multistate": {
+        "present": false,
+        "evidence": []
+      },
+      "national": {
+        "present": false,
+        "evidence": []
+      },
+      "transnational": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Pacific islands are particularly vulnerable to a number of natural and human-caused perturbations such as tsunamis, earthquakes, hurricanes, drought, sea level rise, and climate change.",
+            "location": "Issue 9: U.S. Tropical Island State and Territorial Issues",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Future climate conditions will threaten native plants and communities by causing shifts or even complete losses of climate niches for some species.",
+            "location": "Issue 6: Conservation of Native Biodiversity, Climate Change",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecoregion": {
+        "present": false,
+        "evidence": []
+      },
+      "province": {
+        "present": false,
+        "evidence": []
+      },
+      "section": {
+        "present": false,
+        "evidence": []
+      },
+      "subsection": {
+        "present": false,
+        "evidence": []
+      },
+      "lake": {
+        "present": false,
+        "evidence": []
+      },
+      "river": {
+        "present": false,
+        "evidence": []
+      },
+      "district": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["Main Hawaiian Islands", "Ko'olau Mountains", "Wai'anae mountains", "Mauna Kea", "Hāmākua coast", "Kaupuni and Mākaha watersheds", "Ko'olau mountain range"]
+    },
+    "biological_unit_score": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Future climate conditions will threaten native plants and communities by causing shifts or even complete losses of climate niches for some species.",
+          "location": "Issue 6: Conservation of Native Biodiversity, Climate Change",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "all 10 remaining at-risk Hawaiian forest bird species will lose more than 50% of their disease-free high-elevation range by 2100.",
+          "location": "Issue 5: Climate Change and Sea Level Rise, Impacts of Rising Air Temperatures and Reduced Rainfall on Forest Health and Biodiversity",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "biological_unit_components": {
+      "species": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "all 10 remaining at-risk Hawaiian forest bird species will lose more than 50% of their disease-free high-elevation range by 2100. Three of these on Kaua'i, the 'akeke'e (Loxops caeruleirostris), 'akikiki (Oreomystis bairdi), and puaiohi (Myadestes palmeri), will lose all high-elevation range.",
+            "location": "Issue 5: Climate Change and Sea Level Rise, Impacts of Rising Air Temperatures and Reduced Rainfall on Forest Health and Biodiversity",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "population": {
+        "present": false,
+        "evidence": []
+      },
+      "habitat": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Species associated primarily with dry forests have higher vulnerability scores than species from any other habitat type. Coastal species and species with decreasing range size are also more vulnerable to climate change impacts.",
+            "location": "Issue 5: Climate Change and Sea Level Rise, Impacts of Rising Air Temperatures and Reduced Rainfall on Forest Health and Biodiversity",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Future climate conditions will threaten native plants and communities by causing shifts or even complete losses of climate niches for some species. With an increase in temperature, some plant species and assemblages might be able to adapt to higher elevations, but those species already at the highest elevations may have no place to go.",
+            "location": "Issue 6: Conservation of Native Biodiversity, Climate Change",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "community": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Future climate conditions will threaten native plants and communities by causing shifts or even complete losses of climate niches for some species.",
+            "location": "Issue 6: Conservation of Native Biodiversity, Climate Change",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "genotype_phenotype": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["Hawaiian forest birds", "'akeke'e (Loxops caeruleirostris)", "'akikiki (Oreomystis bairdi)", "puaiohi (Myadestes palmeri)", "Hawai'i 'akepa (Loxops coccineus)", "'akohekohe (Palmeria dolei)", "Maui parrotbill kiwikiu (Pseudonestor xanthophrys)", "palila (Loxioides bailleui)", "native Hawaiian plants", "dry forests", "coastal plant communities", "native 'ōhi'a forests"]
+    },
+    "partnerships_and_funding": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "HCA and PICCC are developing scientific assessments of climate change impacts on physical and ecological systems at a scale relevant to conservation planning.",
+          "location": "Issue 5: Climate Change and Sea Level Rise, Priority Issues and Areas for Climate Change and Sea Level Rise",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "the governor launched the 30 by 30 Watershed Forests Target initiative and committed the State of Hawaiʻi to protect 30% (253,000 acres) of the highest-priority watershed forests by 2030",
+          "location": "Issue 1: Water Quality and Quantity, Overview",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "Partnerships for climate change adaptation are described (HCA, PICCC, ICAC, watershed partnerships) and some funding commitments ($7.5M/yr for watershed protection) are noted, but most are aspirational or broad-based rather than specifically targeted for climate-driven range shift management. The partnerships and funding are largely oriented toward watershed protection and biodiversity conservation generally, with climate framing present but not dominant in the funding discussion."
+    },
+    "climate_threat_habitat_degradation": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Saltwater intrusion will intensify in coastal forests, wetlands, and groundwater systems, agricultural land, estuaries, and elsewhere.",
+          "location": "Issue 5: Climate Change and Sea Level Rise, Impacts of Sea Level Rise on Beaches, Coastal Forests, and Human Communities",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "climate change is predicted to exacerbate drought conditions in Hawai'i, thereby increasing the risk of wildfire.",
+          "location": "Issue 3: Wildfire, Climate Change and Wildfire",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_threat_species_vital_rates": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Warming will result in a reduction of disease-free forest area. Finally, the warming pattern will likely result in reduced rainfall at higher elevations because of a reduction in the width of the inversion layer...This will prevent the establishment of forest above the current tree line",
+          "location": "Issue 5: Climate Change and Sea Level Rise, Impacts of Rising Air Temperatures and Reduced Rainfall on Forest Health and Biodiversity",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document discusses warming-driven expansion of avian disease vectors (mosquitoes) into high-elevation bird habitat, directly threatening bird survival/vital rates. The avian malaria/disease framing is climate-attributed and directly impacts bird populations — this constitutes a direct climate-to-vital-rate linkage."
+    },
+    "climate_threat_biotic_stressors": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Global and local climate change has the potential to affect Hawai'i's suite of established invasive species by extending their ranges to higher elevations. Warming temperatures at higher elevations, where most remaining native forests exist, could make these forests more vulnerable to pest damage by increasing the climatic range of certain pests that are still limited to lower elevations.",
+          "location": "Issue 2: Forest Health: Invasive Species, Insects, and Disease, Climate Change",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    }
+  },
+  "actions": {
+    "priority_habitat_identification": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Priority landscape areas for the conservation of native biodiversity consist of all lands that are either classified as critical habitat by the USFWS, or are designated as essential habitat for the recovery of plants, forest birds, seabirds and water fowl (Map 6.4).",
+          "location": "Issue 6: Conservation of Native Biodiversity, Priority Areas for Conservation of Native Biodiversity",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "In 2016, as part of the Aloha+ Challenge, and World Conservation Congress Legacy Commitment, the governor and State administration embraced an even more ambitious watershed protection goal of '30 by 30', and committed to protect 30% of our highest priority watershed forests (253,000 acres) by the year 2030. See Maps 1.1 to 1.4 for priority watershed areas.",
+          "location": "Issue 1: Water Quality and Quantity, Priority Issues and Areas for Water Quality and Quantity",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "targeted_range_shift_actions": {
+      "evaluable": true,
+      "score": 0,
+      "evidence": [],
+      "absence_note": "The document discusses climate impacts on species distributions and the need for facilitated adaptation but does not propose specific targeted actions to manage species range shifts (e.g., assisted migration, climate-motivated translocations, or climate corridors). Habitat restoration and watershed protection actions are proposed but are not explicitly framed as managing climate-driven range shifts. The mention of 'natural migration (without human intervention), in many cases, is unlikely' acknowledges the problem but does not translate to a specific targeted range-shift action."
+    },
+    "time_bound_and_monitoring": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "the governor launched the 30 by 30 Watershed Forests Target initiative and committed the State of Hawaiʻi to protect 30% (253,000 acres) of the highest-priority watershed forests by 2030.",
+          "location": "Issue 1: Water Quality and Quantity, Overview",
+          "sub_component": "time-bound",
+          "citations": []
+        },
+        {
+          "text": "In order to adapt resource management and forestry practices to the changing climate, there is a significant need for sustained and enhanced climate monitoring and assessment activities.",
+          "location": "Issue 5: Climate Change and Sea Level Rise, Overview",
+          "sub_component": "monitoring",
+          "citations": []
+        }
+      ],
+      "absence_note": "The 30-by-30 target provides a clear time-bound commitment (by 2030) tied to specific acreage goals. The document also calls for sustained monitoring of climate and ecosystem variables. However, the monitoring and time-bound frameworks are primarily directed at watershed protection and general climate adaptation rather than specifically at range-shift management. The 5-year Fire Protection Plan and explicit monitoring calls nonetheless meet the threshold for score 2."
+    },
+    "evidence_of_efficacy": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "watershed partnerships have a proven track record of on-the-ground management that has led to results-oriented protection and restoration of forested watersheds through fencing and ungulate removal, invasive species control, native outplantings, and outreach and education",
+          "location": "Issue 1: Water Quality and Quantity, Watershed Partnerships",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "After 15 years of testing and a contentious environmental assessment process, a Brazilian scale insect, Tectococcus ovatus, was released at several locations to combat the widespread impacts of strawberry guava (Psidium cattleianum), the most damaging forest tree species in Hawai'i.",
+          "location": "Issue 2: Forest Health: Invasive Species, Insects, and Disease, Biological Control",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "Evidence of efficacy presented is largely for actions related to invasive species management, watershed protection, and biological control — which are framed as climate adaptation measures. The evidence includes prior project case studies with documented results, constituting 'limited evidence' (score 2) since the applicability of these specific studies to range-shift management per se is indirect.",
+      "projects": ["Watershed Partnerships (11 partnerships on 5 islands): These partnerships have a documented track record of watershed restoration through fencing and ungulate removal, invasive species control, and native outplantings. In 2015 alone, partnerships managed 300,000 acres, planted 83,000 native plants, and completed 40 miles of protective fence — evidence of on-the-ground efficacy for native ecosystem restoration in a changing climate.", "Biocontrol of Erythrina gall wasp using Eurytoma erythrinae: Evidence shows galling levels on native wiliwili trees were significantly reduced, flowering resumed, and restoration outplanting has resumed — a documented case study of successful ecological intervention relevant to native species resilience under multiple stressors including climate change.", "Koa disease-resistance program by HARC (Hawaii Agriculture Research Center): Multiple small plantations of disease-resistant koa have been established and are providing seed for future plantings. This demonstrates proof-of-concept for genetic resistance breeding as a management tool for maintaining forest species under climate and other stressors."]
+    },
+    "adaptation_planning_frameworks": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "facilitated adaptation, involving initiatives and measures to reduce the vulnerability of natural and human systems against actual or expected climate change effects.",
+          "location": "Issue 5: Climate Change and Sea Level Rise, Overview",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Because of the uncertainty and complexity of climate change, future planning and decision processes should be iterative to allow for informed decisions and early implementation of adaptive strategies. Where there is a high level of uncertainty about specific impacts, agencies should focus on 'no regrets' conservation actions",
+          "location": "Issue 5: Climate Change and Sea Level Rise, Priority Issues and Areas for Climate Change and Sea Level Rise",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document references 'A Framework for Climate Change Adaptation in Hawaii' by the Ocean Resources Management Plan Working Group (2009) and the Effective Conservation Program by HCA, and describes iterative/adaptive planning for climate change. These constitute specific named climate adaptation planning tools referenced in a management context, supporting score 2."
+    }
+  },
+  "coding_meta": {
+    "coder": "llm:claude-sonnet-4-6",
+    "model": "claude-sonnet-4-6",
+    "provider": "claude",
+    "codebook_version": "0.4",
+    "ingest": "text",
+    "design": "single",
+    "temperature": null,
+    "thinking": null,
+    "thinking_effort": null,
+    "coded_at": "2026-07-07T00:31:30Z",
+    "notes": {}
+  }
+}

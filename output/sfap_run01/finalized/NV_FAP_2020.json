@@ -1,0 +1,943 @@
+{
+  "document_meta": {
+    "title": "Nevada Forest, Range, and Watershed Action Plan (FRWAP)",
+    "year": 2020,
+    "jurisdiction": "Nevada",
+    "document_type": "Forest Action Plan / State Forest Resource Assessment",
+    "document_id": "NV_FAP_2020",
+    "page_count": 441
+  },
+  "orientation": {
+    "summary": "This is Nevada's 2020 Forest, Range, and Watershed Action Plan (FRWAP), produced by the Nevada Division of Forestry. It is a comprehensive statewide natural resource management plan covering forests, rangelands, watersheds, and wildlife habitats across nine major terrestrial ecosystems. The document engages substantively with climate change as a driver of wildfire, drought, invasive species dynamics, and habitat degradation, but frames climate primarily through the lens of land management threats and carbon mitigation rather than species range-shift science. The plan discusses climate-driven vegetation shifts (e.g., upslope migration constraints for endemic plants, creosote expansion northward, cheatgrass-wildfire cycles), but does not perform its own range-shift modeling or vulnerability assessment; it references the NatureServe Climate Change Vulnerability Index (CCVI) application to Nevada plants by the Nevada Division of Natural Heritage as an existing analysis. Priority landscape designations are based on a 29-layer GIS analysis.",
+    "evidence_index": [
+      {
+        "text": "In the last century, the climate in Nevada warmed by about two degrees Fahrenheit. More frequent heat waves and earlier snow melt are some of the results of warming conditions.",
+        "location": "Climate Change",
+        "relevant_elements": ["1.1", "3.5"]
+      },
+      {
+        "text": "Climate change creates unpredictable impacts to natural and manmade environments that may or may not be capable of adapting rapidly enough to remain sustainable and resilient.",
+        "location": "Climate Change",
+        "relevant_elements": ["1.1", "1.2"]
+      },
+      {
+        "text": "Warming and drying southwestern climates are predicted to result in an expansion of creosote-bursage communities northward. Thermic and mesic blackbrush communities are predicted to lose 50 percent of their shrub abundance within 200 years (TNC 2011).",
+        "location": "Warm and Hot Deserts - Trends",
+        "relevant_elements": ["1.1", "1.3", "3.3", "C2"]
+      },
+      {
+        "text": "Unchecked climate change threatens the current state of all populations of plants and animals and their suitable habitats. As Nevada warms, per climate predictions, it is likely that the highest and lowest elevation species will be impacted the greatest. This is due to the reality that the coolest and wettest conditions that exist at the tops of the mountain ranges will cease to exist at their current levels, leaving species with nowhere to migrate.",
+        "location": "Plant and Animal Habitats Under Pressure",
+        "relevant_elements": ["1.1", "1.2", "1.3", "3.3", "C2"]
+      },
+      {
+        "text": "Likewise, as species migrate upslope or north in latitude to follow suitable climatic and other environmental conditions, the lowest elevations will experience conditions that don't current exist on the landscape. This will open ecological niches that do not have localized species adapted to fill. These open niches will be highly susceptible to invasion by exotic species.",
+        "location": "Plant and Animal Habitats Under Pressure",
+        "relevant_elements": ["1.3", "3.7", "C2"]
+      },
+      {
+        "text": "Plant species are vulnerable in Nevada to population declines, extirpations, or even extinction, due to narrow habitat niches or geographic isolation. When a plant population cannot respond rapidly enough to adverse pressures imposed by climate change, it may be out competed by species that can. A common example is a localized plant population limited in its upward mobility to higher, cooler and moister elevations.",
+        "location": "Climate Change Influences (Species Requiring Specialized Conservation)",
+        "relevant_elements": ["1.1", "1.2", "1.3", "C2"]
+      },
+      {
+        "text": "This might be due to one or a combination of factors: 1) already being at or near the highest elevation on a mountain range, 2) incompatible habitat to migrate to above its present habitat and 3) the population being overwhelmed by competition from lower (and sometimes higher) elevation species.",
+        "location": "Climate Change Influences (Species Requiring Specialized Conservation)",
+        "relevant_elements": ["1.2", "1.3", "C2"]
+      },
+      {
+        "text": "The Nevada Division of Natural Heritage (2020) applied the Climate Change Vulnerability Index (NatureServe 2020a) to identify and quantify the threats to plants and animals susceptible to climate change. Four plants are considered Extremely Vulnerable, meaning that 'their abundance and/or range extent within Nevada makes them extremely likely to substantially decrease or disappear by 2050.'",
+        "location": "Climate Change Influences (Species Requiring Specialized Conservation)",
+        "relevant_elements": ["1.1", "2.1"]
+      },
+      {
+        "text": "Six plants are listed as Highly Vulnerable, meaning that their 'abundance and/or range extent within Nevada is likely to decrease significantly by 2050.' Fourteen plants are listed as Moderately Vulnerable, meaning that their 'abundance and/or range extent within Nevada is assessed as likely to decrease by 2050'.",
+        "location": "Climate Change Influences (Species Requiring Specialized Conservation)",
+        "relevant_elements": ["1.1", "2.1"]
+      },
+      {
+        "text": "Species with low adaptive capacity such as those with specialized habitat needs or limited dispersal ability face higher vulnerability to these changes.",
+        "location": "Climate Change Influences (Species Requiring Specialized Conservation)",
+        "relevant_elements": ["1.2", "1.3"]
+      },
+      {
+        "text": "For plants that are geographically isolated, they may lack effective dispersal mechanisms to colonize similar, but distant habitats.",
+        "location": "Climate Change Influences (Species Requiring Specialized Conservation)",
+        "relevant_elements": ["1.3", "1.4"]
+      },
+      {
+        "text": "Warming annual temperatures have the potential to significantly affect aspen in Nevada if the pattern of repeated drought cycles continues.",
+        "location": "Quaking Aspen - Conditions",
+        "relevant_elements": ["1.1", "3.5", "3.6"]
+      },
+      {
+        "text": "Loss of these critical forest ecosystems will take ≥100 years to recover and with a different tree species composition due to climate change, insect, and disease impacts (especially white pine blister rust).",
+        "location": "High Elevation Forests - Conditions",
+        "relevant_elements": ["1.1", "3.5"]
+      },
+      {
+        "text": "Whitebark pine, bristlecone, and limber pine forests are experiencing multiple threats including climate change, fire exclusion, mountain pine beetle, and white pine blister rust.",
+        "location": "High Elevation Forests - Trends",
+        "relevant_elements": ["1.1", "3.5", "3.6"]
+      },
+      {
+        "text": "Extended drought in the late 1980's, early 1990's, and mid 2010's stressed the trees, leading to increased insect and disease susceptibility and activity.",
+        "location": "High Elevation Forests - Trends",
+        "relevant_elements": ["3.5", "3.6"]
+      },
+      {
+        "text": "Climate change effects occurring within grasslands and meadows include successional type conversions to shrub communities and tree encroachment. Warmer winters and earlier onset of the spring growing season accelerate invasion by cheatgrass, shortening historical fire return intervals and hampering vegetation recovery potential.",
+        "location": "Other Cold Desert Shrublands and Grasslands - Trends",
+        "relevant_elements": ["3.5", "3.7", "1.1"]
+      },
+      {
+        "text": "The expansion has been attributed to fire suppression, changing climate, and human influences.",
+        "location": "Pinyon-Juniper Woodlands - Conditions",
+        "relevant_elements": ["3.7", "3.5"]
+      },
+      {
+        "text": "Additionally, pests that impact vegetation negatively thrive under increasingly warmer conditions and vegetation's ability to withstand and repel attacks decreases. Such conditions are resulting in increased size, frequency, and severity of wildfires.",
+        "location": "Climate Change",
+        "relevant_elements": ["3.5", "3.6"]
+      },
+      {
+        "text": "Precipitation is falling more as rain instead of snow, reducing annual average snowpack, further reducing water storage that can melt slowly and sustain contemporary ecosystem functions and dependent human and wildlife populations.",
+        "location": "Climate Change",
+        "relevant_elements": ["3.5", "1.1"]
+      },
+      {
+        "text": "The effects of climate change on wildfire related metrics are broad and dynamic. A changing climate influences the structure of fuels and their susceptibility to ignition, as well as fire behavior and intensity, once a fire starts. As the climate warms and ecosystems adapt, it is likely that the duration of the 'fire season' across much of Nevada will increase",
+        "location": "#2 - Wildfire Hazards - Climate Change Influence",
+        "relevant_elements": ["3.5", "3.6", "1.1"]
+      },
+      {
+        "text": "Climate change: Climatic variation outside historic norms can increase the flammability of native vegetation by favoring herbaceous fuel growth as well as drying of woody fuels. Warm and dry winters have also increased the susceptibility of arid plant communities to fires during months traditionally considered 'non-fire months'.",
+        "location": "#2 - Wildfire Hazards - Primary Driving Factors",
+        "relevant_elements": ["3.5", "3.7"]
+      },
+      {
+        "text": "Some of the issues in the sagebrush ecosystem are already apparent as a result of climate change and others will become increasingly more prevalent. Main threats to the ecosystem relate to wildfire and cheatgrass. They include: • Extended fire seasons through climatic factors and increased abundance of early curing cheatgrass",
+        "location": "#5 - Sagebrush Ecosystems - Climate Change Influence",
+        "relevant_elements": ["3.5", "3.7", "1.1"]
+      },
+      {
+        "text": "Impacts of climate change on riparian systems will be largely dependent on water quantity associated with snowpack throughout watersheds in upper elevations and latitudes, timing of precipitation, and the quantity of precipitation.",
+        "location": "Riparian-Wetland Systems - Climate Change Influence",
+        "relevant_elements": ["3.5", "1.1"]
+      },
+      {
+        "text": "with warmer winter temperatures, earlier snowmelt may result in consistently lower flows throughout late spring and summer, which may be catastrophic to the vegetation by disrupting the phenological relationships of plants and animals.",
+        "location": "Riparian-Wetland Systems - Climate Change Influence",
+        "relevant_elements": ["3.7", "3.5"]
+      },
+      {
+        "text": "Uncertainty in future precipitation amounts, timing, and intensity of precipitation events will directly determine the health and vigor of water dependent systems.",
+        "location": "Riparian and Wetland Ecosystems - Trends",
+        "relevant_elements": ["3.5", "1.1"]
+      },
+      {
+        "text": "isolated springs and wetlands are isolated from species or genotypes of species that may be better adapted and more resilient to changing climate conditions.",
+        "location": "#4 - Riparian-Wetland Systems - Challenges",
+        "relevant_elements": ["1.3", "1.4"]
+      },
+      {
+        "text": "Urban forests can be useful both in mitigating climate change and in helping cities adapt to higher temperatures and other impacts of climate change, especially urban heat island effects.",
+        "location": "#3 - Urban and Community Forests - Climate Change Influence",
+        "relevant_elements": ["1.1"]
+      },
+      {
+        "text": "Since most plants do not migrate as readily as many animal species, they often become adapted to their specific local habitats, making them more vulnerable to short-term disturbances, fires, or rapid climate changes.",
+        "location": "Species Requiring Specialized Conservation (intro)",
+        "relevant_elements": ["1.2", "1.3", "C2"]
+      },
+      {
+        "text": "About 150 such endemic plant species are unique to Nevada, growing here and nowhere else.",
+        "location": "Species Requiring Specialized Conservation (intro)",
+        "relevant_elements": ["1.3", "3.3"]
+      },
+      {
+        "text": "Riparian corridors serve as migration routes for many species, including federally endangered bird species that breed in the state.",
+        "location": "Riparian and Wetland Ecosystems - Dependent Wildlife Populations",
+        "relevant_elements": ["1.3", "1.4"]
+      },
+      {
+        "text": "Wildlife depend on horizontally contiguous forested tracts for functional habitat. Development of communities, infrastructure, and the occurrence of high intensity wildfire in forested areas poses the greatest threat of fragmentation of habitats",
+        "location": "#1 - Forest and Woodland Health - Values at Risk",
+        "relevant_elements": ["1.4"]
+      },
+      {
+        "text": "maintain habitat connectivity by implementing management and restoration practices",
+        "location": "#4 - Riparian-Wetland Systems Goals and Strategies",
+        "relevant_elements": ["1.4", "4.2"]
+      },
+      {
+        "text": "The regional habitat connectivity plan maps and defines connectivity across the state.",
+        "location": "Priority Landscapes Assessment",
+        "relevant_elements": ["1.4", "4.1"]
+      },
+      {
+        "text": "Using the priority landscapes GIS analysis, 22 Priority Landscape Areas were digitized based on the highest concentration of threats, values, and collaborative opportunities.",
+        "location": "Priority Landscapes Designations",
+        "relevant_elements": ["4.1"]
+      },
+      {
+        "text": "The resulting priority map was used to designate 22 Priority Landscapes with similar geography, hydrography, ecosystems and other characteristics that account for approximately 60 percent of the land area in Nevada.",
+        "location": "Plan Summary",
+        "relevant_elements": ["4.1"]
+      },
+      {
+        "text": "A comprehensive geospatial analysis was conducted using 29 data sets selected for their themes, attributes, efficacy, and completeness.",
+        "location": "Priority Landscapes Assessment",
+        "relevant_elements": ["4.1", "2.4"]
+      },
+      {
+        "text": "Strategy 4-4-3: implement riparian health projects utilizing plant materials and techniques relevant for future climate projections.",
+        "location": "#4 - Riparian-Wetland Systems Goals and Strategies",
+        "relevant_elements": ["4.1", "4.2", "4.5"]
+      },
+      {
+        "text": "Strategy 8-4-1: scale down climate change predictive models to determine regional trends and impacts in the state. Strategy 8-4-2: create climate change susceptibility models to inform land user and manager decisions and actions.",
+        "location": "#8 - Climate Change Mitigation - Goals and Strategies",
+        "relevant_elements": ["2.3", "4.5"]
+      },
+      {
+        "text": "Strategy 8-4-3: create and make a comprehensive menu of climate change mitigation tools and techniques available for natural resource, land, and fire managers.",
+        "location": "#8 - Climate Change Mitigation - Goals and Strategies",
+        "relevant_elements": ["4.5"]
+      },
+      {
+        "text": "Models are used to predict a plateau of temperatures and associated negative outcomes if GHGs emissions are curbed. Informed by these models, policy makers in Nevada joined the US Climate Alliance, enacted the Climate Change Executive Order 2019-22, and Senate Bill 254",
+        "location": "Climate Change",
+        "relevant_elements": ["2.3", "1.1"]
+      },
+      {
+        "text": "Ongoing monitoring by NDF and partners will provide data for determining whether changes are needed in our approach to addressing identified threats/issues. Strategies that prove effective through forest health monitoring, pre-and post-project and periodic follow-up photo-monitoring, and other efforts will continue.",
+        "location": "Monitoring",
+        "relevant_elements": ["4.3"]
+      },
+      {
+        "text": "The strategies identified are part of a long-term program which shall be updated and adapted as a result of effectiveness monitoring and changing natural resource conditions.",
+        "location": "Monitoring",
+        "relevant_elements": ["4.3", "4.5"]
+      },
+      {
+        "text": "Each strategy has an accompanying performance measure that will allow stakeholders to monitor progression of the strategy implementation and toward attainment of associated goals.",
+        "location": "Plan Summary",
+        "relevant_elements": ["4.3"]
+      },
+      {
+        "text": "Strategy 4-4-4: when possible, continue monitoring and reporting on riparian improvement efforts following established protocols and collaborate with partners to allow further evaluation of changes in vegetation communities resulting from a changing climate.",
+        "location": "#4 - Riparian-Wetland Systems Goals and Strategies",
+        "relevant_elements": ["4.3", "4.5"]
+      },
+      {
+        "text": "In 2019, Nevada land management partners held coordinating meetings that created discussion and consensus rich environments that allowed the partners to start forming an idea of how and where land management agencies could best implement this new strategy. Following the meeting, the Agreement for Shared Stewardship was executed by the Governor, USFS, Nevada Indian Commission, USFWS, and BLM.",
+        "location": "Shared Stewardship Priority Areas",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "Most of the efforts are funded through federal agency budgets and pass-through federal grants to state and local agencies.",
+        "location": "Service Delivery",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "The Nevada Division of Natural Heritage (NDNH) applied the Climate Change Vulnerability Index (NatureServe 2020a) to identify and quantify the threats to plants and animals susceptible to climate change.",
+        "location": "Climate Change Influences (Species Requiring Specialized Conservation)",
+        "relevant_elements": ["2.1", "1.1"]
+      },
+      {
+        "text": "Strategy 8-4-2: create climate change susceptibility models to inform land user and manager decisions and actions.",
+        "location": "#8 - Climate Change Mitigation - Goals and Strategies",
+        "relevant_elements": ["2.1", "4.5"]
+      },
+      {
+        "text": "Trees that have the genetic capability to adapt and function at low levels of available water will outcompete trees with lower drought tolerance. This will likely affect species composition and may strongly influence tree densities as well.",
+        "location": "Mixed Conifer Forests - Trends",
+        "relevant_elements": ["1.3"]
+      },
+      {
+        "text": "Las Vegas bearpoppy (Arctomecon californica) there is no higher elevation habitat to migrate to, because it requires soils with gypsum. Gypsum is found on sedimentary soils, laid down from ancient seas. Las Vegas bearpoppy is dependent on specific species of bees for pollination. The bees, which are presently under review as federally protected invertebrate species, may also be vulnerable to climate change.",
+        "location": "Climate Change Influences (Species Requiring Specialized Conservation)",
+        "relevant_elements": ["1.3", "1.2", "C2"]
+      },
+      {
+        "text": "Mass mortality events have been observed in intertidal communities following recent marine heatwaves.",
+        "location": "N/A",
+        "relevant_elements": ["3.6"]
+      },
+      {
+        "text": "Mitigating climate change has been ordered by the Governor and will begin to influence natural resource and fire management practices throughout the state in a few years.",
+        "location": "#8 - Climate Change Mitigation Overview",
+        "relevant_elements": ["4.5"]
+      },
+      {
+        "text": "As part of the recent policy package the administration will identify and evaluate policies and regulatory strategies that create climate resiliency and mitigation of the impacts of climate change in urban and rural areas, including adoption of approaches to increase conservation, restoration and management of Nevada's forests, rangelands, and water resources.",
+        "location": "Climate Change",
+        "relevant_elements": ["4.5"]
+      },
+      {
+        "text": "As climate change in western Nevada is predicted to exhibit a warming and drying trend with more extreme weather conditions it is imperative to manage the forests to adapt to climate change while mitigating the impacts of climate change.",
+        "location": "Clear Creek project description",
+        "relevant_elements": ["1.1", "4.5"]
+      }
+    ]
+  },
+  "concepts": {
+    "climate_vulnerability": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Unchecked climate change threatens the current state of all populations of plants and animals and their suitable habitats. As Nevada warms, per climate predictions, it is likely that the highest and lowest elevation species will be impacted the greatest. This is due to the reality that the coolest and wettest conditions that exist at the tops of the mountain ranges will cease to exist at their current levels, leaving species with nowhere to migrate.",
+          "location": "Plant and Animal Habitats Under Pressure",
+          "sub_component": "exposure",
+          "citations": []
+        },
+        {
+          "text": "Plant species are vulnerable in Nevada to population declines, extirpations, or even extinction, due to narrow habitat niches or geographic isolation. When a plant population cannot respond rapidly enough to adverse pressures imposed by climate change, it may be out competed by species that can.",
+          "location": "Climate Change Influences (Species Requiring Specialized Conservation)",
+          "sub_component": "exposure",
+          "citations": []
+        },
+        {
+          "text": "Species with low adaptive capacity such as those with specialized habitat needs or limited dispersal ability face higher vulnerability to these changes.",
+          "location": "Climate Change Influences (Species Requiring Specialized Conservation)",
+          "sub_component": "adaptive capacity",
+          "citations": []
+        }
+      ],
+      "absence_note": "The document references both exposure (projected climate-driven range loss, heat, drought) and adaptive capacity (dispersal ability, specialized habitat needs as constraints). However, the IPCC three-axis framework is not explicitly named, and the discussion is mostly qualitative. Score 2 is appropriate because both exposure and adaptive capacity are engaged but not systematically."
+    },
+    "adaptive_capacity_specificity": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Species with low adaptive capacity such as those with specialized habitat needs or limited dispersal ability face higher vulnerability to these changes.",
+          "location": "Climate Change Influences (Species Requiring Specialized Conservation)",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Since most plants do not migrate as readily as many animal species, they often become adapted to their specific local habitats, making them more vulnerable to short-term disturbances, fires, or rapid climate changes.",
+          "location": "Species Requiring Specialized Conservation (intro)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "adaptive_capacity_components": {
+      "demography": {
+        "present": false,
+        "evidence": []
+      },
+      "distribution": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Warming and drying southwestern climates are predicted to result in an expansion of creosote-bursage communities northward. Thermic and mesic blackbrush communities are predicted to lose 50 percent of their shrub abundance within 200 years",
+            "location": "Warm and Hot Deserts - Trends",
+            "sub_component": null,
+            "citations": ["TNC 2011"]
+          },
+          {
+            "text": "as species migrate upslope or north in latitude to follow suitable climatic and other environmental conditions, the lowest elevations will experience conditions that don't current exist on the landscape.",
+            "location": "Plant and Animal Habitats Under Pressure",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "movement": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "For plants that are geographically isolated, they may lack effective dispersal mechanisms to colonize similar, but distant habitats.",
+            "location": "Climate Change Influences (Species Requiring Specialized Conservation)",
+            "sub_component": null,
+            "citations": []
+          },
+          {
+            "text": "Species with low adaptive capacity such as those with specialized habitat needs or limited dispersal ability face higher vulnerability to these changes.",
+            "location": "Climate Change Influences (Species Requiring Specialized Conservation)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "evolutionary_potential": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Trees that have the genetic capability to adapt and function at low levels of available water will outcompete trees with lower drought tolerance. This will likely affect species composition and may strongly influence tree densities as well.",
+            "location": "Mixed Conifer Forests - Trends",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecological_dependencies": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Las Vegas bearpoppy is dependent on specific species of bees for pollination. The bees, which are presently under review as federally protected invertebrate species, may also be vulnerable to climate change. This illustrates the importance of studying other plants and their pollinators.",
+            "location": "Climate Change Influences (Species Requiring Specialized Conservation)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "abiotic_niche": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "This might be due to one or a combination of factors: 1) already being at or near the highest elevation on a mountain range, 2) incompatible habitat to migrate to above its present habitat and 3) the population being overwhelmed by competition from lower (and sometimes higher) elevation species.",
+            "location": "Climate Change Influences (Species Requiring Specialized Conservation)",
+            "sub_component": null,
+            "citations": []
+          },
+          {
+            "text": "Las Vegas bearpoppy (Arctomecon californica) there is no higher elevation habitat to migrate to, because it requires soils with gypsum.",
+            "location": "Climate Change Influences (Species Requiring Specialized Conservation)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "life_history": {
+        "present": false,
+        "evidence": []
+      }
+    },
+    "connectivity": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Wildlife depend on horizontally contiguous forested tracts for functional habitat. Development of communities, infrastructure, and the occurrence of high intensity wildfire in forested areas poses the greatest threat of fragmentation of habitats",
+          "location": "#1 - Forest and Woodland Health - Values at Risk",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "maintain habitat connectivity by implementing management and restoration practices",
+          "location": "#4 - Riparian-Wetland Systems Goals and Strategies (Strategy 4-2-1)",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "isolated springs and wetlands are isolated from species or genotypes of species that may be better adapted and more resilient to changing climate conditions.",
+          "location": "#4 - Riparian-Wetland Systems - Challenges",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document discusses habitat connectivity and fragmentation as management concerns and references riparian corridors as migration routes, but does not frame connectivity explicitly in terms of facilitating climate-driven range shifts. The passage about isolated springs and changing climate conditions is a close call but is framed around resilience to climate rather than enabling distributional movement. Score 1 (generic connectivity) is appropriate."
+    }
+  },
+  "tools": {
+    "vulnerability_models": {
+      "evaluable": true,
+      "score": 2,
+      "named_tools": ["CCVI", "NatureServe CCVI", "Climate Change Vulnerability Index"],
+      "evidence": [
+        {
+          "text": "The Nevada Division of Natural Heritage (2020) applied the Climate Change Vulnerability Index (NatureServe 2020a) to identify and quantify the threats to plants and animals susceptible to climate change. Four plants are considered Extremely Vulnerable, meaning that 'their abundance and/or range extent within Nevada makes them extremely likely to substantially decrease or disappear by 2050.'",
+          "location": "Climate Change Influences (Species Requiring Specialized Conservation)",
+          "sub_component": null,
+          "citations": ["NatureServe 2020a"]
+        },
+        {
+          "text": "Six plants are listed as Highly Vulnerable, meaning that their 'abundance and/or range extent within Nevada is likely to decrease significantly by 2050.' Fourteen plants are listed as Moderately Vulnerable",
+          "location": "Climate Change Influences (Species Requiring Specialized Conservation)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The CCVI was applied by the Nevada Division of Natural Heritage to Nevada's focal plant species and the results are substantively incorporated into the plan's species conservation section. This qualifies as 'applied to the subject of the plan' per codebook rules."
+    },
+    "niche_models": {
+      "evaluable": true,
+      "score": 0,
+      "named_tools": [],
+      "evidence": [],
+      "absence_note": "No species distribution models, MaxEnt, SDMs, or equivalent niche modeling tools are referenced or applied in this document."
+    },
+    "climate_models": {
+      "evaluable": true,
+      "score": 1,
+      "named_tools": [],
+      "evidence": [
+        {
+          "text": "Models are used to predict a plateau of temperatures and associated negative outcomes if GHGs emissions are curbed. Informed by these models, policy makers in Nevada joined the US Climate Alliance, enacted the Climate Change Executive Order 2019-22, and Senate Bill 254",
+          "location": "Climate Change",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Strategy 8-4-1: scale down climate change predictive models to determine regional trends and impacts in the state.",
+          "location": "#8 - Climate Change Mitigation - Goals and Strategies",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document references climate models generically ('models are used to predict') and mentions the 2050 timeframe in the context of CCVI projections, and proposes future downscaling of models, but does not apply a named GCM, RCP, SSP, or downscaled climate product to the document's focal subjects. Score 1.",
+      "time_horizon_years": [2050],
+      "emission_scenarios": []
+    },
+    "connectivity_models": {
+      "evaluable": true,
+      "score": 2,
+      "named_tools": [],
+      "evidence": [
+        {
+          "text": "A comprehensive geospatial analysis was conducted using 29 data sets selected for their themes, attributes, efficacy, and completeness.",
+          "location": "Priority Landscapes Assessment",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Using the priority landscapes GIS analysis, 22 Priority Landscape Areas were digitized based on the highest concentration of threats, values, and collaborative opportunities. Logical geographic feature extents, including but not limited to discrete hydrological units, geologic features, and major ecosystems were used as guides in developing the areas",
+          "location": "Priority Landscapes Designations",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document performs its own GIS-based spatial analysis (29 layers including wildlife focal areas, crucial habitat assessment, BLM project areas, and wetland maps) to designate 22 Priority Landscapes. The Nevada Crucial Habitat Assessment Tool (NVCHAT) from NDOW is among the input layers. The analysis outputs directly shape priority landscape designations and management strategies, qualifying as 'applied.' No named circuit-theory or least-cost path software is mentioned."
+    }
+  },
+  "context": {
+    "management_scale": {
+      "local": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Strategy 4-2-3: Facilitate public-private partnerships to prioritize and implement management strategies along riparian corridors that cross multiple landownership categories",
+            "location": "#4 - Riparian-Wetland Systems Goals and Strategies",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "site": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Providing a framework and analyses to establish priority landscapes, this FRWAP is intended to focus energy and investment in natural resource and wildland fire management projects",
+            "location": "Executive Summary",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "watershed": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "For purposes of identifying areas of resource significance and subsequently designating priority landscapes in this Action Plan, the Hydrologic Unit Codes (HUC) 10 and HUC 12 divisions were used.",
+            "location": "Timberlands and Woodlands",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "city": {
+        "present": false,
+        "evidence": []
+      },
+      "county": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The northeastern Nevada climate division is comprised of Elko, Lander, Eureka, and White Pine counties.",
+            "location": "Regional Climate Divisions",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "within_state_region": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Using the priority landscapes GIS analysis, 22 Priority Landscape Areas were digitized based on the highest concentration of threats, values, and collaborative opportunities.",
+            "location": "Priority Landscapes Designations",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "state": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The resulting priority map was used to designate 22 Priority Landscapes with similar geography, hydrography, ecosystems and other characteristics that account for approximately 60 percent of the land area in Nevada.",
+            "location": "Plan Summary",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "multistate": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Nevada's neighboring states are faced with the same or similar issues identified in this plan. Where the same issues or priority landscapes designated by each state abut at state lines, states will work collaboratively to address issues across a broader landscape.",
+            "location": "Interstate Collaboration",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "national": {
+        "present": false,
+        "evidence": []
+      },
+      "transnational": {
+        "present": false,
+        "evidence": []
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Nine major vegetated, non-production agricultural terrestrial ecosystems were identified to assess the conditions, set regional priorities for investment and action, and develop applicable strategies to improve conditions and trends.",
+            "location": "Major Terrestrial Ecosystems",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecoregion": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "at high elevations mixed conifer forests are found within every ecoregion in the state: Mojave, Great Basin, Columbia Plateau, and Sierra Nevada.",
+            "location": "Major Terrestrial Ecosystems",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "province": {
+        "present": false,
+        "evidence": []
+      },
+      "section": {
+        "present": false,
+        "evidence": []
+      },
+      "subsection": {
+        "present": false,
+        "evidence": []
+      },
+      "lake": {
+        "present": false,
+        "evidence": []
+      },
+      "river": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Strategy 7-2-3: restore rivers, streams and other riparian area, flood plains and wetlands to proper functioning condition to increase groundwater recharge, reduce sedimentation of water supplies, and increase seasonal water flows",
+            "location": "#7 - Water Quality and Quantity - Goals and Strategies",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "district": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["Nevada statewide", "22 Priority Landscapes", "Great Basin", "Mojave Desert", "Sierra Nevada", "Columbia Plateau", "Humboldt River watershed", "Colorado River watershed", "Ruby Mountains", "Spring Mountains", "Carson Range", "Lake Tahoe Basin", "Virgin River", "HUC-10 and HUC-12 watersheds", "Elko County", "Clark County", "Washoe County"]
+    },
+    "biological_unit_score": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Warming and drying southwestern climates are predicted to result in an expansion of creosote-bursage communities northward.",
+          "location": "Warm and Hot Deserts - Trends",
+          "sub_component": "community/ecosystem",
+          "citations": ["TNC 2011"]
+        },
+        {
+          "text": "Plant species are vulnerable in Nevada to population declines, extirpations, or even extinction, due to narrow habitat niches or geographic isolation.",
+          "location": "Climate Change Influences (Species Requiring Specialized Conservation)",
+          "sub_component": "species/population",
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "biological_unit_components": {
+      "species": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Plant species are vulnerable in Nevada to population declines, extirpations, or even extinction, due to narrow habitat niches or geographic isolation. When a plant population cannot respond rapidly enough to adverse pressures imposed by climate change, it may be out competed by species that can.",
+            "location": "Climate Change Influences (Species Requiring Specialized Conservation)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "population": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Four plants are considered Extremely Vulnerable, meaning that 'their abundance and/or range extent within Nevada makes them extremely likely to substantially decrease or disappear by 2050.'",
+            "location": "Climate Change Influences (Species Requiring Specialized Conservation)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "habitat": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Habitats will have altered suitability for specialized populations",
+            "location": "#8 - Climate Change Mitigation - Values at Risk",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Warming and drying southwestern climates are predicted to result in an expansion of creosote-bursage communities northward. Thermic and mesic blackbrush communities are predicted to lose 50 percent of their shrub abundance within 200 years",
+            "location": "Warm and Hot Deserts - Trends",
+            "sub_component": null,
+            "citations": ["TNC 2011"]
+          }
+        ]
+      },
+      "community": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Climate change effects occurring within grasslands and meadows include successional type conversions to shrub communities and tree encroachment.",
+            "location": "Other Cold Desert Shrublands and Grasslands - Trends",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "genotype_phenotype": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Trees that have the genetic capability to adapt and function at low levels of available water will outcompete trees with lower drought tolerance.",
+            "location": "Mixed Conifer Forests - Trends",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "named_entities": ["Greater Sage-grouse", "whitebark pine", "bristlecone pine", "limber pine", "quaking aspen", "Las Vegas bearpoppy (Arctomecon californica)", "Goose Creek milkvetch", "Ophir rockcress", "gray wavewing", "Rollins clover", "Sunnyside green gentian", "creosote-bursage communities", "blackbrush communities", "sagebrush ecosystems", "mixed conifer forests", "pinyon-juniper woodlands", "riparian-wetland ecosystems"]
+    },
+    "partnerships_and_funding": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "In 2019, Nevada land management partners held coordinating meetings that created discussion and consensus rich environments that allowed the partners to start forming an idea of how and where land management agencies could best implement this new strategy. Following the meeting, the Agreement for Shared Stewardship was executed by the Governor, USFS, Nevada Indian Commission, USFWS, and BLM.",
+          "location": "Shared Stewardship Priority Areas",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Most of the efforts are funded through federal agency budgets and pass-through federal grants to state and local agencies.",
+          "location": "Service Delivery",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document describes numerous partnerships (Shared Stewardship, USFS, BLM, NDOW, NDF, Conservation Districts, tribal partners, NGOs) and references federal funding streams, but these are framed primarily around wildfire, forest health, and general land management—not specifically around range-shift actions. The funding discussion for climate-adaptation-specific work is aspirational and acknowledges gaps. Score 1."
+    },
+    "climate_threat_habitat_degradation": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Drought stress for mixed conifer forests and pinyon-juniper woodlands has caused longer bark beetle epidemics and overall loss of tree health due to lack of water.",
+          "location": "#1 - Forest and Woodland Health - Climate Change Influence",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Impacts of climate change on riparian systems will be largely dependent on water quantity associated with snowpack throughout watersheds in upper elevations and latitudes, timing of precipitation, and the quantity of precipitation.",
+          "location": "Riparian-Wetland Systems - Climate Change Influence",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Extended fire seasons through climatic factors and increased abundance of early curing cheatgrass",
+          "location": "#5 - Sagebrush Ecosystems - Climate Change Influence",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_threat_species_vital_rates": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Extended drought in the late 1980's, early 1990's, and mid 2010's stressed the trees, leading to increased insect and disease susceptibility and activity.",
+          "location": "High Elevation Forests - Trends",
+          "sub_component": null,
+          "citations": ["NDF 2017"]
+        },
+        {
+          "text": "Whitebark pine, bristlecone, and limber pine forests are experiencing multiple threats including climate change, fire exclusion, mountain pine beetle, and white pine blister rust. Insect outbreaks from the mountain pine beetle have impacted these forest species in northeast Nevada",
+          "location": "High Elevation Forests - Trends",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document discusses drought-driven tree mortality and bark beetle outbreaks as climate-driven direct impacts on tree vital rates. The framing is 'climate drought → tree stress → mortality/insect susceptibility,' which qualifies as direct vital rate impacts. Score 1."
+    },
+    "climate_threat_biotic_stressors": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Warmer winters and earlier onset of the spring growing season accelerate invasion by cheatgrass, shortening historical fire return intervals and hampering vegetation recovery potential.",
+          "location": "Other Cold Desert Shrublands and Grasslands - Trends",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "as species migrate upslope or north in latitude to follow suitable climatic and other environmental conditions, the lowest elevations will experience conditions that don't current exist on the landscape. This will open ecological niches that do not have localized species adapted to fill. These open niches will be highly susceptible to invasion by exotic species.",
+          "location": "Plant and Animal Habitats Under Pressure",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "with warmer winter temperatures, earlier snowmelt may result in consistently lower flows throughout late spring and summer, which may be catastrophic to the vegetation by disrupting the phenological relationships of plants and animals.",
+          "location": "Riparian-Wetland Systems - Climate Change Influence",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    }
+  },
+  "actions": {
+    "priority_habitat_identification": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Using the priority landscapes GIS analysis, 22 Priority Landscape Areas were digitized based on the highest concentration of threats, values, and collaborative opportunities. Logical geographic feature extents, including but not limited to discrete hydrological units, geologic features, and major ecosystems were used as guides in developing the areas",
+          "location": "Priority Landscapes Designations",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "The resulting priority map was used to designate 22 Priority Landscapes with similar geography, hydrography, ecosystems and other characteristics that account for approximately 60 percent of the land area in Nevada.",
+          "location": "Plan Summary",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "A comprehensive geospatial analysis was conducted using 29 data sets selected for their themes, attributes, efficacy, and completeness.",
+          "location": "Priority Landscapes Assessment",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document performs a full GIS-based spatial prioritization producing 22 named Priority Landscape areas mapped across the state. This is spatially explicit and qualifies for score 2."
+    },
+    "targeted_range_shift_actions": {
+      "evaluable": true,
+      "score": 0,
+      "evidence": [],
+      "absence_note": "The document does not propose specific targeted actions to manage climate-driven range shifts such as assisted migration, climate-corridor construction, or translocations framed around climate range shifts. Forest restoration, invasive species control, and habitat connectivity actions are discussed but framed around general ecosystem health and wildfire, not explicitly as range-shift facilitation. Strategy 4-4-3 ('implement riparian health projects utilizing plant materials and techniques relevant for future climate projections') comes closest but is not framed as range-shift facilitation."
+    },
+    "time_bound_and_monitoring": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Each strategy has an accompanying performance measure that will allow stakeholders to monitor progression of the strategy implementation and toward attainment of associated goals.",
+          "location": "Plan Summary",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Ongoing monitoring by NDF and partners will provide data for determining whether changes are needed in our approach to addressing identified threats/issues. Strategies that prove effective through forest health monitoring, pre-and post-project and periodic follow-up photo-monitoring, and other efforts will continue.",
+          "location": "Monitoring",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document includes performance measures for each strategy and endorses effectiveness monitoring in principle. However, specific time-bound deadlines at the action level are limited. The Shared Stewardship section mentions 2021 and 2025 targets but these are programmatic rather than per-action. The plan endorses monitoring but operationalization at the individual action level is weak. Score 1 (deadlines exist at the strategic level but full 2-point criterion of action-level deadlines AND effectiveness monitoring is not clearly met for range-shift-relevant actions specifically)."
+    },
+    "evidence_of_efficacy": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "NDF partnered with private landowners, Galena Forests Estates, Washoe County, and the USFS to treat over 60 acres of native Jeffrey pine and riparian forest... Treatments included hand thinning and pile burning overly dense trees and decadent and dead shrubs to reduce tree densities and fuel loading, restore riparian and aspen habitat, and improve the health and resiliency of the remaining forest.",
+          "location": "Galena project description",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "A resilient forest is better able to adapt to climate change and survive wildfires. Due to historic logging, grazing and forestry practices the forests of the Sierra Front are at high risk of forest to non-forest conversion following wildfires.",
+          "location": "Clear Creek project description",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "To improve water quality in the South Fork of the Humboldt River and South Fork Reservoir, 319(h) projects implemented 2015 -2019 focused on the following goals... Through revegetation, the project has reduced non-point source pollution, sedimentation and eutrophication of the reservoir",
+          "location": "South Fork River Stabilization project description",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document contains multiple completed project case studies with reported outcomes. However, these projects are primarily focused on forest health, fire hazard reduction, and riparian restoration — not specifically on climate range-shift actions. The evidence is for general land management actions adapted to climate-stressed conditions. Score 2 (limited evidence) is appropriate: the case studies provide real-world results but in somewhat different contexts from range-shift-specific actions.",
+      "projects": ["Camp Stimson Forest Health Improvement (Las Vegas Wash Priority Landscape): NDF removed insect- and disease-damaged trees and encroaching conifers from aspen stands to reduce fuel load and promote regeneration. The project provides before-after evidence of improved forest health conditions and hazard tree reduction in a climate-stressed mixed conifer/aspen system.", "South Fork River Stabilization and Meadow Rehabilitation Phase II (Ruby-Cortez Priority Landscape): 319(h) projects 2015-2019 restored meadows and river banks using seeding, outplanting, aspen cuttings, and herbicide. The project achieved an 8:1 funding match and demonstrated reduction in non-point source pollution and eutrophication.", "Galena Creek Forest Health Project (Sierra Front Priority Landscape): Thinning and pile burning on 60+ acres of Jeffrey pine and riparian forest. Reduced bark beetle activity and mistletoe infestations; generated revenue through firewood sale, demonstrating economic co-benefits.", "Virgin River Habitat Restoration (Moapa-Mead-Virgin Priority Landscape): Saltcedar removal and native species replanting on 11 properties. Demonstrated that vegetation along the riparian corridor is resilient given the opportunity to reestablish after invasive removal.", "Range 2 Fire Restoration (Ruby-Cortez Priority Landscape): Post-fire revegetation after the 2018 10,000-acre fire in the Ruby Mountains, using helicopter seeding, native seed harvesting, mechanical weed removal, and native shrub outplanting. Provides evidence that collaborative post-fire restoration can achieve vegetation recovery."]
+    },
+    "adaptation_planning_frameworks": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "As part of the recent policy package the administration will identify and evaluate policies and regulatory strategies that create climate resiliency and mitigation of the impacts of climate change in urban and rural areas, including adoption of approaches to increase conservation, restoration and management of Nevada's forests, rangelands, and water resources.",
+          "location": "Climate Change",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Strategy 8-4-3: create and make a comprehensive menu of climate change mitigation tools and techniques available for natural resource, land, and fire managers.",
+          "location": "#8 - Climate Change Mitigation - Goals and Strategies",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document references climate adaptation planning as a general concept (the FRWAP itself is listed as informing 'climate adaptation plans') and mentions creation of a 'menu of climate change mitigation tools,' which aligns loosely with the 'adaptation menu' concept. However, no named frameworks such as RAD, RRT, CCSP, Structured Decision Making, or CCVA are explicitly invoked in a climate-adaptation-planning context. Score 1 (referenced non-specifically)."
+    }
+  },
+  "coding_meta": {
+    "coder": "llm:claude-sonnet-4-6",
+    "model": "claude-sonnet-4-6",
+    "provider": "claude",
+    "codebook_version": "0.4",
+    "ingest": "text",
+    "design": "single",
+    "temperature": null,
+    "thinking": null,
+    "thinking_effort": null,
+    "coded_at": "2026-07-07T00:31:32Z",
+    "notes": {}
+  }
+}

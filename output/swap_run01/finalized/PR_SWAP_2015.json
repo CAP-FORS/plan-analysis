@@ -1,0 +1,745 @@
+{
+  "document_meta": {
+    "title": "Puerto Rico State Wildlife Action Plan (PRSWAP)",
+    "year": 2015,
+    "jurisdiction": "Puerto Rico (Commonwealth)",
+    "document_type": "SWAP",
+    "document_id": "PR_SWAP_2015",
+    "page_count": 187
+  },
+  "orientation": {
+    "summary": "The Puerto Rico State Wildlife Action Plan (PRSWAP, 2015) is a comprehensive statewide wildlife conservation plan produced by the Puerto Rico Department of Natural and Environmental Resources (DNER), updating the original 2005 Comprehensive Wildlife Conservation Strategy. The plan identifies Species of Greatest Conservation Need (SGCN), their habitats, threats, and conservation actions. Climate change is recognized as a significant new stressor, with explicit acknowledgment that it will force changes in species ranges and habitat distributions, and biological corridors are elevated as a new conservation priority in direct response to projected climate-driven range shifts. The document references external analyses (Puerto Rico Climate Change Council reports, GAP analyses) rather than performing its own climate modeling, and its climate vulnerability framing draws primarily from the PRCCC assessments and UNEP projections. Range shift science is engaged explicitly but at a qualitative level: corridors are proposed to facilitate projected species range shifts, and climate threats to habitats (sea level rise, drought, wildfires, saltwater intrusion, coral bleaching) are discussed in detail.",
+    "evidence_index": [
+      {
+        "text": "Climate change has been recognized as a new stressor and threat for wildlife species and habitats.",
+        "location": "EXECUTIVE SUMMARY",
+        "relevant_elements": ["1.1", "3.5", "3.6", "3.7"]
+      },
+      {
+        "text": "We have adopted the creation or enhancement of biological corridors linking public and private wildlife habitats and/or new riparian and marine corridors as a new conservation priority. These actions are expected to benefit native, endemic and migratory species whose habitats and ranges are projected to shift as a direct result of climate change.",
+        "location": "EXECUTIVE SUMMARY",
+        "relevant_elements": ["1.4", "4.1", "4.2"]
+      },
+      {
+        "text": "Climate change and sea level rise, combined with the island's current economic situation have been exacerbating the already complex scenario we faced when work on the original action plan began back in 2005.",
+        "location": "EXECUTIVE SUMMARY",
+        "relevant_elements": ["1.1", "3.5"]
+      },
+      {
+        "text": "this revised document includes the development and improvement of biological corridors as a new national priority (e.g. Figure 25). These actions are of utmost importance in order to adapt to the changes and threats caused by climate change, which are expected to force changes in the current habitat use and distribution of Puerto Rico's Wildlife.",
+        "location": "VI. CONCLUSION",
+        "relevant_elements": ["1.4", "4.1", "4.2", "1.1"]
+      },
+      {
+        "text": "By prioritizing the creation of habitat corridors and \"softening\" the mosaic of fragmented habitat found on the island, we expect to protect and adapt the landscape in order to facilitate the projected changes in species ranges caused by climate change.",
+        "location": "VI. CONCLUSION",
+        "relevant_elements": ["1.4", "4.2", "4.1"]
+      },
+      {
+        "text": "This increased vulnerability has been linked to low population numbers, reduced genetic diversity, constrained geographical range (Adsersen 1995, Vitousek, 1988), and limited migratory capabilities (Ives and Foufopoulus 2003).",
+        "location": "I. Background",
+        "relevant_elements": ["1.2", "1.3"]
+      },
+      {
+        "text": "The adaptive capacity of Puerto Rico's flora and fauna, and therefore the current status and threats to each of the systems is intrinsically related to each ecological system's vulnerabilities.",
+        "location": "Climate change (TABLE region)",
+        "relevant_elements": ["1.1", "1.2"]
+      },
+      {
+        "text": "floods, storm surge, erosion and other coastal hazards, exacerbated by sea-level rise, threatening fundamental infrastructure, settlements and facilities that support the livelihood of island communities; reduction in freshwater resources to the point where they cannot meet demand during drought periods",
+        "location": "Climate change",
+        "relevant_elements": ["3.5"]
+      },
+      {
+        "text": "loss of mangrove forests and coral reefs as a consequence of sea level rise; coral bleaching and acidification of the ocean;",
+        "location": "Climate change",
+        "relevant_elements": ["3.5"]
+      },
+      {
+        "text": "increased invasion by non-native species as result of higher temperatures, particularly on middle and high latitude islands;",
+        "location": "Climate change",
+        "relevant_elements": ["3.7"]
+      },
+      {
+        "text": "Climate change, extended drought and human-induced landscape fragmentation have the potential to greatly expand fire-prone areas to moist and wet tropical forests and even non forested landscapes traditionally fire-free (Gould 2008).",
+        "location": "Wildfires",
+        "relevant_elements": ["3.5", "3.6"]
+      },
+      {
+        "text": "Climatic warming and drying and the increase in invasive species will make forests more vulnerable to wildfires. Evidence of this is already being seen in the Island where wildfires are increasing in frequency and occurring in areas where such fires have never been recorded before (Robbins et al. 2009).",
+        "location": "Climate change",
+        "relevant_elements": ["3.5", "3.7"]
+      },
+      {
+        "text": "The main effect of climate change on Puerto Rico's ecosystems and species will be synergistic in that already stressed systems will be exposed to additional stressors that push them over their limit of existence, resulting in widespread loss",
+        "location": "Climate change",
+        "relevant_elements": ["1.1", "3.5"]
+      },
+      {
+        "text": "The effects of climate change, in terms of rising sea levels, increasing mean atmospheric and sea surface temperatures and changes in rainfall and weather patterns, are likely to be particularly severe for the ecological systems of the Caribbean islands and small island states (Puerto Rico Climate Change Council 2013).",
+        "location": "hurricanes and tropical storm winds (TABLE region)",
+        "relevant_elements": ["1.1", "2.3", "3.5"]
+      },
+      {
+        "text": "Vulnerability assessments were conducted through literature review, expert meetings, PRCCC summits and Working Group's workshops.",
+        "location": "Climate change (TABLE region)",
+        "relevant_elements": ["2.1", "1.1"]
+      },
+      {
+        "text": "PRCCC First comprehensive assessment were completed through four working groups: Geophysics and Chemistry, Scientific Knowledge, Ecology and Biodiversity, Economy and Society",
+        "location": "Climate change (TABLE region)",
+        "relevant_elements": ["2.1", "1.1"]
+      },
+      {
+        "text": "The PRCCC Ecology and Biodiversity working group conducted the assessment of habitat, unfavorable changes to structure and function, or diminished services to Puerto Rico's society.",
+        "location": "Climate change (TABLE region)",
+        "relevant_elements": ["2.1", "1.1"]
+      },
+      {
+        "text": "While some species may potentially migrate to more favorable conditions in Puerto Rico (e.g., Colorado trees, swamp cyrilla) species already reaching the upper limits of their range may not be so fortunate, and could be diminished or impacted",
+        "location": "Climate change (TABLE region)",
+        "relevant_elements": ["1.3", "4.2", "1.1"]
+      },
+      {
+        "text": "new species or community assemblages could occur in Puerto Rico that may benefit society as they might provide new ecosystem services (Puerto Rico Climate Change Council 2013).",
+        "location": "Climate change (TABLE region)",
+        "relevant_elements": ["3.7"]
+      },
+      {
+        "text": "The Puerto Rico Gap Analysis (PR-GAP) is a spatially based project designed to provide comprehensive species/habitat information.",
+        "location": "Puerto Rico GAP Analysis",
+        "relevant_elements": ["2.2", "4.1"]
+      },
+      {
+        "text": "PRGAP uses remote sensing and GIS technology, satellite imagery, aerial photography, and geoclimatic and topographic data to map the land cover units for the Island.",
+        "location": "Marine Mammals Rescue Program",
+        "relevant_elements": ["2.2", "4.1"]
+      },
+      {
+        "text": "For the habitat mapping component an extensive geospatial database was compiled of all available habitat related information and modified or developed new data in order to integrate geospatial information to develop predicted habitat models for the species.",
+        "location": "The Sportfish Gap Analysis Project",
+        "relevant_elements": ["2.2"]
+      },
+      {
+        "text": "The Caribbean Landscape Conservation Cooperative (CLCC) serves as a catalyst for interagency collaborations and a primary source for science-based information to sustain natural and cultural resources in Caribbean landscapes and seascapes.",
+        "location": "Caribbean Landscape Conservation Cooperative",
+        "relevant_elements": ["3.4", "4.5"]
+      },
+      {
+        "text": "The CLCC supports site level conservation initiatives and complements other landscape conservation strategies to restore, manage, and conserve natural resources in the region in the face of climate change and development pressure.",
+        "location": "Caribbean Landscape Conservation Cooperative (TABLE region)",
+        "relevant_elements": ["3.4", "4.5"]
+      },
+      {
+        "text": "Corridors are the pathways or linkages between habitat cores.",
+        "location": "fragmentation (FIGURE region)",
+        "relevant_elements": ["1.4", "4.1"]
+      },
+      {
+        "text": "The Model Forest area is an ecological corridor in west-central Puerto Rico.",
+        "location": "Inventory of Puerto Rico's Wetlands (TABLE region)",
+        "relevant_elements": ["1.4", "4.1"]
+      },
+      {
+        "text": "The DNER will conduct internal evaluations and revisions of the PRSWAP every 2.5 years in order to adaptively address conservation priorities within the 10-year timeframe",
+        "location": "LIST OF FIGURES",
+        "relevant_elements": ["4.3"]
+      },
+      {
+        "text": "A detailed evaluation of the PRSWAP will be performed every 5 years in order to assess the status of conservation strategies and initiatives, SGCNs, and the stressors that significantly affect the island's wildlife and habitats.",
+        "location": "LIST OF FIGURES",
+        "relevant_elements": ["4.3"]
+      },
+      {
+        "text": "Regulation No. 6766 specifically mandates a five year revision of the priority species list. It also dictates the preparation of recovery plans within a year for species listed as critically endangered, two years for endangered species, and three years for threatened species.",
+        "location": "Wildlife Permits",
+        "relevant_elements": ["4.3"]
+      },
+      {
+        "text": "Maintaining a loop between monitoring and management actions will help correct for the uncertainty resulting from management and adapt to new conditions and developments.",
+        "location": "Adaptive Management",
+        "relevant_elements": ["4.3", "4.5"]
+      },
+      {
+        "text": "conservation priority areas (covering about 319,631 acres) have been identified by the NHP of the DNER",
+        "location": "conservation priority areas (FIGURE region)",
+        "relevant_elements": ["4.1"]
+      },
+      {
+        "text": "data available suggests that under current conditions sea level could rise from 48 cm (1.3') (Pfeffer and O'Neel, 2008) to as much as 880 cm (27.7') (Carlson et al. 2008) over the next hundred years. The more conservative numbers from IPCC estimate 40-102 cm over next 100 years.",
+        "location": "hurricanes and tropical storm winds (TABLE region)",
+        "relevant_elements": ["2.3", "3.5"]
+      },
+      {
+        "text": "managing trees and forests to mitigate and adapt to global climate change.",
+        "location": "Enhancing benefits to the public associated with forests and wildlife.",
+        "relevant_elements": ["4.5"]
+      },
+      {
+        "text": "one foot could have a detrimental effect on coastal forests areas, including mangrove systems and other coastal swamps characteristic of lower saline intrusion such as bloodwood swamps (Pterocarpus officinalis) and pond apple swamps (Annona glabra).",
+        "location": "hurricanes and tropical storm winds (TABLE region)",
+        "relevant_elements": ["3.5"]
+      },
+      {
+        "text": "reduction of the size of freshwater aquifers or lenses and of general water resource availability due to decreased rainfall and salt water intrusion; inundation on coastal settlements and arable land on the coast;",
+        "location": "Climate change",
+        "relevant_elements": ["3.5"]
+      },
+      {
+        "text": "The specific long-term success of the PRSWAP conservation actions will be evaluated through different approaches: new scientific knowledge about SGCN and their habitats, number of funded and completed projects of conservation priority, net increase in the acreage of key habitats conserved",
+        "location": "Adaptive Management (FIGURE region)",
+        "relevant_elements": ["4.3", "4.4"]
+      },
+      {
+        "text": "fragmentation can involve a simultaneous decrease in the average size of habitat patches, an increase in the average distance between patches, and an increase in edge effects and habitat degradation. As a general rule, large fragments have more wildlife species and can sustain larger wildlife populations than small fragments. As the amount of fragmentation increases, species populations may become isolated, and the migration of individuals and populations between areas of suitable habitat becomes more difficult.",
+        "location": "fragmentation (FIGURE region)",
+        "relevant_elements": ["1.4"]
+      },
+      {
+        "text": "Take measures to adapt and mitigate climate change.",
+        "location": "Industrialization in Puerto",
+        "relevant_elements": ["4.5"]
+      },
+      {
+        "text": "conservation priority areas (covering about 319,631 acres) have been identified by the NHP of the DNER (e.g., the northern karst region; Figure 21).",
+        "location": "conservation priority areas (FIGURE region)",
+        "relevant_elements": ["4.1"]
+      },
+      {
+        "text": "Corridors that link mature forest areas (i.e. riparian areas along streams... Corridors required under Commonwealth Law Number 14 of 1999",
+        "location": "Table 14",
+        "relevant_elements": ["1.4", "4.1", "4.2"]
+      }
+    ]
+  },
+  "concepts": {
+    "climate_vulnerability": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "The adaptive capacity of Puerto Rico's flora and fauna, and therefore the current status and threats to each of the systems is intrinsically related to each ecological system's vulnerabilities.",
+          "location": "Climate change (TABLE region)",
+          "sub_component": "adaptive capacity",
+          "citations": []
+        },
+        {
+          "text": "The effects of climate change, in terms of rising sea levels, increasing mean atmospheric and sea surface temperatures and changes in rainfall and weather patterns, are likely to be particularly severe for the ecological systems of the Caribbean islands and small island states (Puerto Rico Climate Change Council 2013).",
+          "location": "hurricanes and tropical storm winds (TABLE region)",
+          "sub_component": "exposure",
+          "citations": ["Puerto Rico Climate Change Council 2013"]
+        },
+        {
+          "text": "The main effect of climate change on Puerto Rico's ecosystems and species will be synergistic in that already stressed systems will be exposed to additional stressors that push them over their limit of existence, resulting in widespread loss",
+          "location": "Climate change",
+          "sub_component": "exposure",
+          "citations": []
+        }
+      ],
+      "absence_note": "The document references both climate exposure and adaptive capacity, but the adaptive capacity framing is brief and not operationally decomposed (no specific components like dispersal ability or thermal tolerance are linked to vulnerability scoring). The exposure axis is more developed. Score 2 is appropriate: both axes appear but exposure dominates and adaptive capacity is referenced in a passing, non-specific way at the ecosystem level — just barely sufficient for both axes to be present."
+    },
+    "adaptive_capacity_specificity": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "The adaptive capacity of Puerto Rico's flora and fauna, and therefore the current status and threats to each of the systems is intrinsically related to each ecological system's vulnerabilities.",
+          "location": "Climate change (TABLE region)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "Adaptive capacity is named explicitly in a climate context but without operationalization via specific components. Score 1."
+    },
+    "adaptive_capacity_components": {
+      "demography": {
+        "present": false,
+        "evidence": []
+      },
+      "distribution": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "This increased vulnerability has been linked to low population numbers, reduced genetic diversity, constrained geographical range (Adsersen 1995, Vitousek, 1988), and limited migratory capabilities (Ives and Foufopoulus 2003).",
+            "location": "I. Background",
+            "sub_component": null,
+            "citations": ["Adsersen 1995", "Vitousek, 1988", "Ives and Foufopoulus 2003"]
+          }
+        ]
+      },
+      "movement": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "This increased vulnerability has been linked to low population numbers, reduced genetic diversity, constrained geographical range (Adsersen 1995, Vitousek, 1988), and limited migratory capabilities (Ives and Foufopoulus 2003).",
+            "location": "I. Background",
+            "sub_component": null,
+            "citations": ["Adsersen 1995", "Vitousek, 1988", "Ives and Foufopoulus 2003"]
+          }
+        ]
+      },
+      "evolutionary_potential": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "This increased vulnerability has been linked to low population numbers, reduced genetic diversity, constrained geographical range (Adsersen 1995, Vitousek, 1988), and limited migratory capabilities (Ives and Foufopoulus 2003).",
+            "location": "I. Background",
+            "sub_component": null,
+            "citations": ["Adsersen 1995", "Vitousek, 1988", "Ives and Foufopoulus 2003"]
+          }
+        ]
+      },
+      "ecological_dependencies": {
+        "present": false,
+        "evidence": []
+      },
+      "abiotic_niche": {
+        "present": false,
+        "evidence": []
+      },
+      "life_history": {
+        "present": false,
+        "evidence": []
+      }
+    },
+    "connectivity": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "We have adopted the creation or enhancement of biological corridors linking public and private wildlife habitats and/or new riparian and marine corridors as a new conservation priority. These actions are expected to benefit native, endemic and migratory species whose habitats and ranges are projected to shift as a direct result of climate change.",
+          "location": "EXECUTIVE SUMMARY",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "By prioritizing the creation of habitat corridors and \"softening\" the mosaic of fragmented habitat found on the island, we expect to protect and adapt the landscape in order to facilitate the projected changes in species ranges caused by climate change.",
+          "location": "VI. CONCLUSION",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "The Model Forest area is an ecological corridor in west-central Puerto Rico.",
+          "location": "Inventory of Puerto Rico's Wetlands (TABLE region)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    }
+  },
+  "tools": {
+    "vulnerability_models": {
+      "evaluable": true,
+      "score": 1,
+      "named_tools": ["PRCCC vulnerability assessments"],
+      "evidence": [
+        {
+          "text": "Vulnerability assessments were conducted through literature review, expert meetings, PRCCC summits and Working Group's workshops.",
+          "location": "Climate change (TABLE region)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The PRCCC vulnerability assessments are referenced and their results incorporated narratively, but these assessments were conducted by a separate external body (PRCCC), not by or for the specific SGCN list in this plan. The results are discussed qualitatively without being operationally applied to PRSWAP focal species scores. Score 1 (referenced generally/externally, not applied to the focal subjects of this plan in a structured way)."
+    },
+    "niche_models": {
+      "evaluable": true,
+      "score": 1,
+      "named_tools": ["PR-GAP species distribution modeling", "predicted habitat models"],
+      "evidence": [
+        {
+          "text": "For the habitat mapping component an extensive geospatial database was compiled of all available habitat related information and modified or developed new data in order to integrate geospatial information to develop predicted habitat models for the species.",
+          "location": "The Sportfish Gap Analysis Project",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The PR-GAP project developed predicted habitat models and species distribution modeling components, and these results are used to identify conservation priority areas. However, the modeling work is described as part of a prior/ongoing gap analysis rather than a niche model applied specifically to project future distributions under climate change. Score 1 rather than 2: the models are referenced and their output used, but not in a climate-projection context."
+    },
+    "climate_models": {
+      "evaluable": true,
+      "score": 1,
+      "named_tools": ["IPCC"],
+      "evidence": [
+        {
+          "text": "data available suggests that under current conditions sea level could rise from 48 cm (1.3') (Pfeffer and O'Neel, 2008) to as much as 880 cm (27.7') (Carlson et al. 2008) over the next hundred years. The more conservative numbers from IPCC estimate 40-102 cm over next 100 years.",
+          "location": "hurricanes and tropical storm winds (TABLE region)",
+          "sub_component": null,
+          "citations": ["Pfeffer and O'Neel, 2008", "Carlson et al. 2008"]
+        }
+      ],
+      "absence_note": "The document references IPCC projections for sea level rise and the PRCCC report which incorporates climate projections, but does not name specific GCMs, downscaling products, or emission scenarios. The IPCC reference is for a projection range, not a specific model applied to PR's focal species or habitats. Score 1.",
+      "time_horizon_years": [2100],
+      "emission_scenarios": []
+    },
+    "connectivity_models": {
+      "evaluable": true,
+      "score": 0,
+      "named_tools": [],
+      "evidence": [],
+      "absence_note": "The document discusses biological corridors and connectivity extensively as a concept and management goal, and the PR-GAP project produces spatial layers, but no connectivity model (e.g., CircuitScape, Linkage Mapper, least-cost path) is named or referenced as having been applied. The spatial outputs referenced are land cover maps and conservation priority areas, not quantitative connectivity models."
+    }
+  },
+  "context": {
+    "management_scale": {
+      "local": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The CLCC supports site level conservation initiatives and complements other landscape conservation strategies to restore, manage, and conserve natural resources in the region in the face of climate change and development pressure.",
+            "location": "Caribbean Landscape Conservation Cooperative (TABLE region)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "site": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The CLCC supports site level conservation initiatives and complements other landscape conservation strategies to restore, manage, and conserve natural resources in the region in the face of climate change and development pressure.",
+            "location": "Caribbean Landscape Conservation Cooperative (TABLE region)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "watershed": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The primary objective in this landscape is to maintain and/or restore sufficient forest cover to extend the lifespan of existing water supply reservoirs. The target zones are areas upstream of existing reservoirs (Figure 18) as well as Hydrological Reserves",
+            "location": "Identifying areas of hydrological importance",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "city": {
+        "present": false,
+        "evidence": []
+      },
+      "county": {
+        "present": false,
+        "evidence": []
+      },
+      "within_state_region": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Work on two (2) joint priority priority landscapes will be in progress during this action plan's implementation period: • The Guánica/Maricao joint priority landscape (Figure 36)",
+            "location": "Joint Priority Landscapes",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "state": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The State Wildlife Action Plan (SWAP) represents a comprehensive, statewide approach for conserving Puerto Rico's wildlife and natural areas for future generations.",
+            "location": "II. Objective",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "multistate": {
+        "present": false,
+        "evidence": []
+      },
+      "national": {
+        "present": false,
+        "evidence": []
+      },
+      "transnational": {
+        "present": false,
+        "evidence": []
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "These actions are of utmost importance in order to adapt to the changes and threats caused by climate change, which are expected to force changes in the current habitat use and distribution of Puerto Rico's Wildlife.",
+            "location": "VI. CONCLUSION",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecoregion": {
+        "present": false,
+        "evidence": []
+      },
+      "province": {
+        "present": false,
+        "evidence": []
+      },
+      "section": {
+        "present": false,
+        "evidence": []
+      },
+      "subsection": {
+        "present": false,
+        "evidence": []
+      },
+      "lake": {
+        "present": false,
+        "evidence": []
+      },
+      "river": {
+        "present": false,
+        "evidence": []
+      },
+      "district": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["Puerto Rico (statewide)", "Guánica/Maricao joint priority landscape", "Model Forest (west-central Puerto Rico)", "northern karst region"]
+    },
+    "biological_unit_score": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "these revised document includes the development and improvement of biological corridors as a new national priority...These actions are of utmost importance in order to adapt to the changes and threats caused by climate change, which are expected to force changes in the current habitat use and distribution of Puerto Rico's Wildlife.",
+          "location": "VI. CONCLUSION",
+          "sub_component": "species/habitat",
+          "citations": []
+        },
+        {
+          "text": "new species or community assemblages could occur in Puerto Rico that may benefit society as they might provide new ecosystem services (Puerto Rico Climate Change Council 2013).",
+          "location": "Climate change (TABLE region)",
+          "sub_component": "community",
+          "citations": ["Puerto Rico Climate Change Council 2013"]
+        }
+      ],
+      "absence_note": {}
+    },
+    "biological_unit_components": {
+      "species": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "These actions are expected to benefit native, endemic and migratory species whose habitats and ranges are projected to shift as a direct result of climate change.",
+            "location": "EXECUTIVE SUMMARY",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "population": {
+        "present": false,
+        "evidence": []
+      },
+      "habitat": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "These actions are of utmost importance in order to adapt to the changes and threats caused by climate change, which are expected to force changes in the current habitat use and distribution of Puerto Rico's Wildlife.",
+            "location": "VI. CONCLUSION",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The main effect of climate change on Puerto Rico's ecosystems and species will be synergistic in that already stressed systems will be exposed to additional stressors that push them over their limit of existence, resulting in widespread loss",
+            "location": "Climate change",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "community": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "new species or community assemblages could occur in Puerto Rico that may benefit society as they might provide new ecosystem services (Puerto Rico Climate Change Council 2013).",
+            "location": "Climate change (TABLE region)",
+            "sub_component": null,
+            "citations": ["Puerto Rico Climate Change Council 2013"]
+          }
+        ]
+      },
+      "genotype_phenotype": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["Puerto Rican Parrot (Amazona vittata)", "West Indian Manatee (Trichechus manatus)", "Puerto Rican Crested Toad (Peltophryne lemur)", "coral reefs", "mangrove forests", "riparian forests", "seagrasses", "Colorado trees", "swamp cyrilla"]
+    },
+    "partnerships_and_funding": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "conservation goals and initiatives can only be achieved by teaming other conservation entities, particularly the US Fish and Wildlife Service, National Resources Conservation Services and NGO's such as The Nature Conservancy (International) and Para La Naturaleza (local). Such partnerships are instrumental for fulfilling the shared goal of conserving wildlife resources and their habitat.",
+          "location": "FIGURE region (funding/partnerships)",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "The Caribbean Landscape Conservation Cooperative (CLCC) serves as a catalyst for interagency collaborations and a primary source for science-based information to sustain natural and cultural resources in Caribbean landscapes and seascapes. The DNER is a current partner of the CLCC.",
+          "location": "Caribbean Landscape Conservation Cooperative",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document describes partnerships extensively (USFWS, NRCS, NGOs, CLCC, universities), and limited funding is noted (approximately $750,000/year for SGCN). However, funding for range-shift-specific actions (corridor creation, climate adaptation) is not specifically budgeted or described beyond general program references. Partnerships are named but aspirational for range-shift work specifically. Score 1."
+    },
+    "climate_threat_habitat_degradation": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "loss of mangrove forests and coral reefs as a consequence of sea level rise; coral bleaching and acidification of the ocean;",
+          "location": "Climate change",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Climate change, extended drought and human-induced landscape fragmentation have the potential to greatly expand fire-prone areas to moist and wet tropical forests and even non forested landscapes traditionally fire-free (Gould 2008).",
+          "location": "Wildfires",
+          "sub_component": null,
+          "citations": ["Gould 2008"]
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_threat_species_vital_rates": {
+      "evaluable": true,
+      "score": 0,
+      "evidence": [],
+      "absence_note": "The document discusses climate-driven threats broadly (sea level rise, wildfires, drought) and mentions 'widespread loss' at ecosystem level, but the framing consistently links climate to habitat degradation rather than to direct vital rate impacts. There is no passage that frames climate events as directly causing mortality, reproductive failure, or extirpation events for specific species. The wildfire discussion is about habitat loss, not direct mortality. Score 0."
+    },
+    "climate_threat_biotic_stressors": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "increased invasion by non-native species as result of higher temperatures, particularly on middle and high latitude islands;",
+          "location": "Climate change",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Climatic warming and drying and the increase in invasive species will make forests more vulnerable to wildfires.",
+          "location": "Climate change",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    }
+  },
+  "actions": {
+    "priority_habitat_identification": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "conservation priority areas (covering about 319,631 acres) have been identified by the NHP of the DNER (e.g., the northern karst region; Figure 21).",
+          "location": "conservation priority areas (FIGURE region)",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "We have adopted the creation or enhancement of biological corridors linking public and private wildlife habitats and/or new riparian and marine corridors as a new conservation priority. These actions are expected to benefit native, endemic and migratory species whose habitats and ranges are projected to shift as a direct result of climate change.",
+          "location": "EXECUTIVE SUMMARY",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document includes extensive spatial representation of priority conservation areas (multiple figures: Figs. 26-36 showing marine/terrestrial priority areas, CWAs, forest types for conservation), and explicitly frames corridors as a new conservation priority in response to climate-driven range shifts. The Model Forest and corridor networks are spatially represented. Score 2."
+    },
+    "targeted_range_shift_actions": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "By prioritizing the creation of habitat corridors and \"softening\" the mosaic of fragmented habitat found on the island, we expect to protect and adapt the landscape in order to facilitate the projected changes in species ranges caused by climate change.",
+          "location": "VI. CONCLUSION",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "these revised document includes the development and improvement of biological corridors as a new national priority (e.g. Figure 25). These actions are of utmost importance in order to adapt to the changes and threats caused by climate change, which are expected to force changes in the current habitat use and distribution of Puerto Rico's Wildlife.",
+          "location": "VI. CONCLUSION",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "Structural facilitation (creating corridors to facilitate projected climate-driven range shifts) is clearly and explicitly proposed. No direct manipulation (assisted migration, translocation) is mentioned. Score 1 per codebook: structural facilitation alone earns 1."
+    },
+    "time_bound_and_monitoring": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "The DNER will conduct internal evaluations and revisions of the PRSWAP every 2.5 years in order to adaptively address conservation priorities within the 10-year timeframe",
+          "location": "LIST OF FIGURES",
+          "sub_component": "deadlines",
+          "citations": []
+        },
+        {
+          "text": "A detailed evaluation of the PRSWAP will be performed every 5 years in order to assess the status of conservation strategies and initiatives, SGCNs, and the stressors that significantly affect the island's wildlife and habitats.",
+          "location": "LIST OF FIGURES",
+          "sub_component": "monitoring",
+          "citations": []
+        },
+        {
+          "text": "Regulation No. 6766 specifically mandates a five year revision of the priority species list. It also dictates the preparation of recovery plans within a year for species listed as critically endangered, two years for endangered species, and three years for threatened species.",
+          "location": "Wildlife Permits",
+          "sub_component": "deadlines",
+          "citations": []
+        }
+      ],
+      "absence_note": "The plan includes both specific deadlines (2.5-year internal reviews, 5-year detailed evaluations, regulatory timelines for recovery plans) and effectiveness monitoring (monitoring conservation action outcomes, species status, habitat conditions). Score 2."
+    },
+    "evidence_of_efficacy": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "By prioritizing the creation of habitat corridors and \"softening\" the mosaic of fragmented habitat found on the island, we expect to protect and adapt the landscape in order to facilitate the projected changes in species ranges caused by climate change.",
+          "location": "VI. CONCLUSION",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The corridor/range-shift facilitation actions are justified by general ecological reasoning (corridors facilitate movement, fragmentation is a barrier) but without citations to efficacy studies or case studies demonstrating the effectiveness of this approach for climate-driven range shifts. The rationale is stated as an expected outcome based on ecological first principles. Score 1: rationale is outlined but no evidence to support the specific climate-adaptation corridor actions is presented.",
+      "projects": []
+    },
+    "adaptation_planning_frameworks": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Maintaining a loop between monitoring and management actions will help correct for the uncertainty resulting from management and adapt to new conditions and developments.",
+          "location": "Adaptive Management",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document describes an adaptive management approach in the context of conservation planning (monitoring loop, 2.5-year and 5-year reviews), and mentions measures to 'adapt and mitigate climate change.' However, the adaptive management is described generically without reference to specific climate adaptation planning frameworks (no RAD, RRT, CCVA as a named framework, SBDA, or similar). The CLCC is noted as supporting scenario development but no specific framework is named. Score 1: climate adaptation planning frameworks referenced in a non-specific way."
+    }
+  },
+  "coding_meta": {
+    "coder": "llm:claude-sonnet-4-6",
+    "model": "claude-sonnet-4-6",
+    "provider": "claude",
+    "codebook_version": "0.4",
+    "ingest": "text",
+    "design": "single",
+    "temperature": null,
+    "thinking": null,
+    "thinking_effort": null,
+    "coded_at": "2026-07-06T18:39:25Z",
+    "notes": {}
+  }
+}

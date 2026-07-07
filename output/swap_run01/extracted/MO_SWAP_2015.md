@@ -1,0 +1,1660 @@
+## F O R E W O R D
+
+## M
+
+issouri supports an abundant natural heritage, ranking 21 st in the nation in terms of its numbers of native animal and plant species. There are over 180 native fish species, including the endemic Niangua darter, that ply the state's aquatic habitats. More than 100 species of native amphibians and reptiles occur in a myriad of habitats from mountain-top glades to lowland swamps. Missouri supports nationally significant river and stream systems, some of the largest forested tracts left in the Midwest, a high density of cave and karst features, and some of the largest remnants of the eastern tallgrass prairie. Considered together, the opportunity to conserve rich wildlife diversity in Missouri is great.
+Missouri citizens have a proud history and a strong tradition of dedication to the appreciation, conservation, and restoration of our rich natural heritage. In 1937, citizen-led efforts created the Missouri Department of Conservation (Department), the world's first apolitical, science-based conservation agency with exclusive authority over fish, forest, and wildlife. In 1976, citizens renewed their commitment to conservation by passing an amendment that called for a oneeighth of one percent sales tax to provide consistent funding for fish, forest, and wildlife conservation. Today, more than 90% of Missourians remain interested in their fish, forest, and wildlife resources.
+With this support the Department has achieved a great deal of success in the management of Missouri's natural heritage. Missouri has one of the strongest programs of designated Natural Areas in the Midwest, with more than 180 sites representing some of the best examples of the state's original natural communities and outstanding biological diversity. The Department's science-based efforts, aimed at understanding life-history needs and habitat system dynamics, have benefited a variety of Missouri species, including recovery efforts of the American burying beetle, Ozark hellbender, eastern hellbender, eastern collared lizard, prairie massasauga rattlesnake, greater prairie-chicken, bald eagle, peregrine falcon, pallid and lake sturgeons, Niangua darter, Topeka shiner, Virginia sneezeweed, geocarpon, and Missouri bladderpod.
+The Department and the citizens of Missouri have benefited from commitment to planning and prioritizing fish and wildlife diversity management strategies. With the original Comprehensive Wildlife Conservation Strategy in 2005, the Department worked across all Divisions and with partners to identify and prioritize conservation opportunities across the state. Our current State Wildlife Action Plan is another strong step towards the ultimate goal of building a Comprehensive Conservation Strategy for our state, which will fully incorporate Department and partner goals and priorities for fish, forest, and wildlife management and conservation.
+
+## ~ Jennifer Battson Warren, Wildlife Division Chief
+
+## P R I M A RY R E F E R E N C E S
+
+The basic terrestrial natural community classifications and the natural community descriptions within Missouri's State Wildlife Action Plan are generalizations, primarily adopted from those descriptions published within The Terrestrial Natural Communities of Missouri, authored by Paul W. Nelson, copyrighted by the Missouri 
+Natural Areas Committee (2010)
+. This valuable reference tool was compiled with resources, knowledge, and expertise from the Missouri Department of Conservation, Missouri Department of Natural Resources, U.S. Forest Service, U.S. Fish and Wildlife Service, National Park Service, The Nature Conservancy, Missouri Resource Assessment Partnership, and many other important contributors.
+The aquatic natural community classifications and descriptions within Missouri's State Wildlife Action Plan are primarily adopted from The Fishes of Missouri, authored by William L. 
+Pflieger (1997)
+.
+
+## AC K N O W L E D G E M E N T S
+
+The development of this State Wildlife Action Plan has truly been a team effort and exhibits the collective efforts of a number of Department staff. Dennis Figg (Wildlife) began leading the revision effort. Dennis and Phillip Hanberry (Missouri Resource Assessment Partnership, housed at University of Missouri-Columbia) developed draft scoring criteria and GIS analyses for each habitat that formed the foundation for the revised Conservation Opportunity Areas (COAs), which are the backbone of this Plan. After Dennis' retirement in fall of 2014, Kelly Rezac and Nathan (Nate) Muenks assumed the leadership of the team to complete the development of the habitat priorities, definition of the COAs and development of the Plan. Kelly and Nate also co-authored much of the Plan.
+Assisting the team have been several hourly employees whose help has been vital to the effort, including Robbie Doerhoff, Taliaa Pendergrass, Joshua Ernst, Courtney Duchardt, Lin Kuhn and Donnamarie Duffin. These provided invaluable assistance with logistics in conducting meetings, writing and editing, gathering information, coordinating with staff and the host of other duties associated with this effort.
+The Comprehensive Conservation Strategy Steering Committee, consisting of Ange Corson (Fisheries), Steve Westin (Forestry), Kevin Borisenko (Private Land Services) and Norman Murray (Wildlife), provided guidance and review throughout the development of the Plan. Four Division Chiefs, Jennifer Battson Warren (Wildlife), Lisa Allen (Forestry), Brian Canaday (Fisheries) and Bill White (Private Land Services) have provided administrative guidance throughout the process and support for staff involvement to develop and implement the Plan.
+Teams of staff with expertise on each habitat system type reviewed the scoring criteria and resulting habitat priorities to finalize the recommended COAs (see page ix for a list of these team members). These recommendations were then forwarded to Regional Coordination Teams (Department Regional Supervisors from each Division) who reviewed the COAs and provided a regional perspective to the set of COAs as well. All of these teams responded with their expertise with very short turn-around periods and their help strengthened the result significantly.
+Amy Buechler (Policy Coordination) guided the development of the Public Participation Strategy and conducting the stakeholder engagement meetings. Heather Feeler (Outreach and Education) and Sarah Kendrick (Wildlife) helped develop outreach materials.
+All staff and partners who have participated in this process have done so with enthusiasm and professionalism and their contributions are greatly appreciated to building this Plan into a quality product. 
+
+## TA B L E O F C O N T E N T S
+
+## P R E FAC E
+
+Missouri State Wildlife Action Plan W hile much has been achieved for fish and wildlife diversity conservation in Missouri, there is still much that remains to be done, and limited resources continue to be a primary limiting factor. The State Wildlife Action plans and associated State Wildlife Grants support states in the achievement of conservation goals in two critical ways: by providing financial support and through the development of the plans themselves. These plans promote strategic planning and prioritization in the management of fish and wildlife diversity, so that limited resources are leveraged to the maximum possible benefit for wildlife diversity conservation. The program also supports working across agency and state boundaries toward common goals for resource management. Key to the success of the program is that it also allows the flexibility for states to build their plans in a manner that best integrates with and leverages their existing programs and partnerships.
+When the Missouri Department of Conservation (the Department) embarked upon the development of the Comprehensive Wildlife Conservation Strategy (CWCS) in 2005, the goal was to use all the information acquired in the prior 30 years to identify a set of Conservation Opportunity Areas (COAs) to support and conserve viable populations of all wildlife and the habitats on which they depend. The Department recognized that in order for the CWCS to be effective in advancing the conservation of Missouri's full diversity of fish, wildlife, and plant resources, the approach must be habitat-based rather than species-based. To build the CWCS, the Department used an ecological framework to guide terrestrial and aquatic assessments. Target species, habitats, natural communities, and landscapes were identified for each ecological unit (Natural communities are assemblages of native plants and animals that occur in repeatable places in the landscape with similar soils, topography, geology, hydrology and natural disturbance regimes (Nelson 2010)). Department staff from all divisions set geographic priorities based on these rigorous assessments. Spatial data layers were developed and used to identify concentrations of conservation targets. Conservation partners then shared their priorities with the Department. All of this information was combined to identify a framework of conservation opportunity representing the diversity of Missouri. The framework included 33 areas to promote conservation action with partners.
+The CWCS was designed to be adaptive, and this is reflected in the current State Wildlife Action Plan (Plan). The Plan is a revision of Missouri's CWCS; the new title reflects a change in terminology for these nationwide plans at a national level. In the decade since the CWCS was approved, the U.S. Forest Service adopted a similar approach for supporting management of national forests with the creation of the Forest Action Plans. The Department's Fisheries Division also undertook a watershed prioritization process. Information and experience from the development and implementation of the CWCS were used in the development of both the Missouri Forest Action Plan and the Fisheries Priority Watersheds. The Department's next step will be working toward the combination of each of these strategic planning processes, as well as other prioritization processes including conservation partner priorities, into a single process entitled the Comprehensive Conservation Strategy (CCS), which is discussed further under Element 6: Revision. The CCS is a process that identifies Missouri conservation priorities to inform decision-making regarding the greatest opportunities for sustainable conservation of fish, forest, and wildlife. The core of the original CWCS is reflected in this definition. Building upon the original CWCS, the Missouri Forest Action Plan and Priority Watersheds, the 2015 Plan is a strong step in the ongoing process of developing the CCS.
+While the Plan has grown and evolved over the past decade, its purpose and habitat-based approach remain the same. The purpose is:
+
+## To assess the health of Missouri's plants and animals, and identify actions necessary for the long-term conservation of these resources and the essential habitat systems that sustain them.
+
+The Plan continues to be informed by the best available science and partner input. The focus remains on identifying the greatest opportunities for fish, forest, and wildlife conservation, and working with partners and the public to manage these areas to support Missouri's full diversity of fish, wildlife, and plants for future generations of Missourians to enjoy.
+
+## Document Organization and Roadmap to the Eight Elements
+
+Congress identified eight required elements (Table 
+1
+) to be addressed in each State Wildlife Action Plan (outlined starting on page 3). This section describes the organization of this document and how each of the eight elements is addressed. An overview of Missouri's approach to each element is provided here, with a dedicated section for each element. This overview focuses on planning and implementation of each element of the Plan at the statewide level.
+Key to effective implementation of Missouri's Plan is the habitat-based approach. As such, the heart of this Plan is contained within the Habitat Systems section. Missouri's natural community types are grouped into six primary habitat systems based on 
+Nelson's (2010)
+ classification in The Terrestrial Natural Communities of Missouri. These are: ✦ Grassland / Prairie / Savanna ✦ Forest / Woodland ✦ Glade ✦ Cave / Karst ✦ Wetland ✦ Rivers / Streams
+The Habitat Systems section contains a chapter for each of these six systems. Each chapter also contains Case Studies that feature specific examples of conservation actions being applied to benefit that system. These chapters illustrate implementation of the Plan, including six of the eight elements, at the regional or local scale (Table 
+2
+).
+
+## Element Number Element Description
+
+Element 
+
+## Purpose and Application
+
+Missouri supports a rich diversity of wildlife, including more than 350 native species birds, nearly 80 mammal species, more than 100 species of amphibians and reptiles, more than 200 kinds of fishes (more than most neighboring states), more than 60 mussel species, and countless other invertebrate species as well as thousands of species of plants. A small percentage of these species are imperiled to the extent that a species-specific recovery plan is required to ensure their persistence in the state. For the vast-majority, Missouri's approach to wildlife diversity conservation is habitat-based. Missouri's State Wildlife Action Plan (Plan) is designed to build upon this successful tradition of habitat-based conservation, to incorporate the research and monitoring needed to evaluate the success of this approach, and to facilitate adaptive management decisions as new information is gained. The U.S. Fish and Wildlife Service (FWS) definition of Species of Greatest Conservation Need (SGCN) incorporates two groups of species: those with low and declining populations, and those that are indicative of the diversity and health of the State's wildlife. Missouri recognizes the value in representing both types of species in the Plan. The needs of rare and declining species must be prioritized in manage-ment planning efforts to ensure their resource needs are met and to minimize potential negative impacts from management actions. However, because they are rare and declining, such species are often difficult to monitor, and may naturally be rare on the landscape. When taking a habitat-based approach, it is essential to regularly monitor the effectiveness of management actions by tracking response of both plant and animal species. Characteristic species, those that are indicative of the diversity and health of the wildlife characteristic of a specific habitat type, are ideal for monitoring management effectiveness and overall community health. Some characteristic species may be fairly rare, but many are expected to be relatively abundant in high-quality habitat. Because they are representative of the health of the overall community, such characteristic species are often management targets, especially if they are easily monitored. Some may be somewhat generalist in their habitat requirements, but most will have one or a few specific habitat associations as well as specific resource requirements (e.g., food sources, breeding sites).
+For these reasons, Missouri's SGCN list includes both rare and declining species, and characteristic species (some species may fit both categories). In the SGCN table (Appendix A) characteristic species are indicated as such. The SGCN list is designed to assist Department staff and partners with planning, implementing, and monitoring habitat management activities for the benefit of Missouri's full suite of fish, plant, and wildlife resources. Each Habitat System chapter contains a list of SGCN associated with that habitat system. With an awareness of the SGCN that currently or potentially occur on an area, staff can design management plans that provide for the needs
+
+## E l e m e n t 1 : S p e c i e s o f G r e a t e s t C o n s e r v a t i o n N e e d
+
+## P R E FAC E
+
+of these species and minimize potential risks to them. The Plan provides a statewide and landscape-level perspective for identifying and prioritizing conservation opportunities; other resources should be consulted for detailed information on the habitat and management requirements of individual species or groups of species. The SGCN list is also being used in the development of monitoring tools, such as the Community Health Index (CHI) described under Element 5: Monitoring, that will aid in tracking and evaluating management effectiveness and the overall health of an area.
+
+## Process
+
+Missouri's SGCN list was built using the list of Species of Conservation Concern (SOCC) as a starting point. The SOCC list identifies species that are rare and/or declining in Missouri, and is used to track the status and occurrence of these species through the Natural Heritage Database (Heritage). In the 2005 Comprehensive Wildlife Conservation Strategy (CWCS), the SGCN list was identical to the SOCC list. During revision efforts, it was determined that the SOCC list was a great starting point for rare and declining species, but to serve the intended purposes of the SGCN list it needed to be both refined and expanded. Department staff with expertise in specific taxa, refined the list by removing historic, extirpated, and select edgeof-range species that are not conservation targets. The base list was further refined by removing most species ranked S4-S5 and/or G4-G5. Resources for plants, fish, and invertebrates were much less abundant than for other taxa. Therefore, base lists for these taxa were developed primarily by E l e m e n t 1 ( C o n t i n u e d )
+
+## P R E FAC E
+
+staff with expertise in these taxa, starting from the SOCC list. Other resources included: ✦ Flora of Missouri 
+(Steyermark 1999
+(Steyermark , 2006
+(Steyermark , 2013) )
+ ✦ The Crayfishes of Missouri 
+(Pflieger 1996)
+ ✦ A Guide to Missouri's Freshwater Mussels (Mc-Murray 2012) ✦ The Fishes of Missouri 
+(Pflieger 1997)
+ The Department was developing CHI models (discussed further in Element 5: Monitoring) for several terrestrial natural communities concurrently while revising the Plan. The CHI is a rapid assessment tool to measure the overall health of a natural community, and includes animal, plant, and abiotic measures. The species listed in the CHI models are considered indicative of the overall health of the natural community. Therefore, some of the species listed in the CHI models available at the time the SGCN base list was developed (glade, grassland, forest and woodland) were also added to the SGCN base list as characteristic species.
+Once the SGCN base list was developed, it was distributed more broadly for review by Department staff with appropriate expertise, including taxonomic experts, natural history biologists, and other peer-acknowledged experts. Reviewers removed species that are neither low nor declining in Missouri nor characteristic of healthy Missouri natural communities. Reviewers also added species that fit the criteria but were missed in development of the base lists.
+Habitat associations were assigned for each species on the draft SGCN list using the references previously identified (particularly Heritage) as well as expert input. For the purposes of this Plan, "primary habitat" refers to the habitat system in which the spe-cies is most commonly found in Missouri. "Secondary habitat" is not assigned for all species, but was used to indicate an additional habitat system used to such an extent that a single habitat association could not be assigned. Where appropriate, a more specific sub-habitat type is indicated in parentheses (e.g., Wetland (fen) for species specifically associated with fens exclusively or much more commonly than other types of wet-
+
+## E l e m e n t 1 ( C o n t i n u e d )
+
+Red-headed woodpecker P R E FAC E lands). Some species are fairly generalist and occur in multiple habitat systems, or use different habitat systems during different portions of their life history; for these, the two habitat systems in which they most commonly occur in Missouri are listed. For fishes that occur primarily in headwater streams, creeks, or small streams, the primary habitat association is assigned as the terrestrial habitat system in which the creek or stream occurs. For example, Topeka shiners inhabit prairie headwater streams so their primary habitat association is "grassland." Other fishes may be listed as Big Rivers (occurring primarily in the Missouri and/ or Mississippi River) or Mississippi Lowlands (Missouri occurrence is primarily in the lower Mississippi and associated sloughs, backwaters, and wetlands of southeastern Missouri). Note that for all species the habitat associations were assigned based on species occurrence in Missouri, and may not be reflective of a species' habitat associations in other parts of its range.
+The complete SGCN list is printed in Appendix A. Each habitat system chapter also includes a list of SGCN associated with that habitat system. A total of 603 species are listed as SGCN, including both SOCC and characteristic species. The SGCN list is arranged by major taxonomic category in the same order as the SOCC list (Plants, Invertebrate Orders, Vertebrate Classes) and then alphabetically by scientific name within each major taxonomic category.
+Information on the distribution and abundance of SOCC is found in the Heritage database. While not fully summarized within this document, the state Heritage rank (S-rank) of SOCC species is included in the SGCN table, as is the listing status (federal endangered, federal threatened, federal candidate, state endangered). Some SOCC species are also considered characteristic. Information on the abundance and distribution of characteristic species that are not SOCC (not tracked in Heritage) is less available; however, for those species included in CHI models, the implementation of CHI monitoring will provide information on distribution over time. The Department has an active research program and a Resource Science Division dedicated to filling high-priority research, survey, and inventory needs for management of Missouri's fish, forest, and wildlife resources. The Department's interdivisional Wildlife Diversity Team is currently refining a process for prioritizing species inventory needs to better focus available resources.
+Partner input is an important component to maintenance of the SOCC list; the Department regularly consults with partners (e.g., FWS, Missouri Botanical Garden, Native Plant Society, multiple universities) to discuss changes to the SOCC list.
+
+## E l e m e n t 1 ( C o n t i n u e d )
+
+E l e m e n t 2 : H a b i t a t S y s t e m s ELEMENT 2: HABITAT SYSTEMS Descriptions of the locations and relative condition of key habitats and community types essential to conservation of Species of Greatest Conservation Need.
+Key to the success of Missouri's Plan is the habitat-based approach. The SGCN list contains 603 species of plants, arachnids, insects, terrestrial and aquatic vertebrates. This is far too many for an approach focusing on individual species or even groups of species to be effective, especially with limited resources available. By identifying and prioritizing locations on the Missouri landscape that have the greatest opportunity for sustainable conservation of fish, forest, and wildlife resources, and effectively managing and building connectivity within and among these areas, populations of SGCN will stabilize or increase. Monitoring (Element 5) is, of course, key to evaluating the response of SGCN to management actions and adapting management strategies as needed.
+The ideology behind the Plan is to identify Missouri conservation priorities to inform decision-making regarding the greatest opportunities for sustainable conservation of fish, forest, and wildlife resources. The approach, simply stated, was to identify all conservation opportunities on the Missouri landscape, isolate those areas of greatest conservation opportunity termed Conservation Opportunity Areas (COAs), and then better focus conservation efforts to guide strategic deci-sion-making regarding conservation actions within the COAs.
+In the following excerpt, taken from Discover Missouri Natural Areas-A Guide to 50 Great Places, author, Mike Leahy, describes the classification of Missouri into its primary ecological regions.
+Missouri is made up of four major ecological regions, or ecoregions-large geographic areas having distinctive topography, geology, soils, vegetation, and climate patterns (Figure 
+2
+. Missouri Ecoregions on page 29). Ecoregions are defined by characteristic natural communities. Plants and animals don't respect state boundaries, and neither do ecoregions. Each encompasses thousands of square miles and spills over into adjacent states. The following descriptions offer brief introductions to Missouri's ecoregions. The Atlas of Missouri Ecoregions by Timothy 
+Nigh and Walter Schroeder (2002)
+ offers more detailed information.
+The Central Dissected Till Plains, or glaciated plains, ecoregion of north Missouri stretches into Illinois, Iowa, Nebraska, and Kansas. Glaciers sculpted this region about 500,000 years ago, leaving behind deep, rich soils when they retreated. The landscape is characterized by gently rolling hills dissected by broad floodplains, though rugged topography exists near the Grand, Chariton, Missouri, and Mississippi rivers. Historically the region was a mix of tallgrass prairies, savannas, and wetlands. Today, many acres have been con-
+
+## P R E FAC E
+
+verted to agriculture, forming the corn belt of the Midwest. The largest unplowed prairies in the region are found in northern Harrison County, Missouri, and Ringgold County in Iowa. Remnant wetlands dot the Missouri, Mississippi, and lower Grand River floodplains, providing crucial habitat for migratory waterfowl, shorebirds, and other wildlife.
+The Mississippi River Alluvial Basin ecoregion, or Bootheel, is part of the vast, flat floodplain of the Mississippi River that extends all the way to New Orleans. The only blip in the landscape's uniformity is Crowley's Ridge, a long, narrow ridge that runs from Cape Girardeau to Helena, Arkansas. Historically the area was an immense mosaic of bottomland forests and wetlands with tiny patches of sand prairie scattered throughout and small areas of upland forest on Crowley's Ridge. Some distinctly southern species, such as bald cypress and water tupelo, occur here. Humans have altered this landscape more than any other ecoregion in Missouri. Most of its wetlands have been drained and thousands of acres of forest have been cleared. However, important remnant wetlands and bottomland forests are tucked away throughout the region, offering oases of habitat for a suite of wildlife.
+The Osage Plains ecoregion of west-central Missouri is an unglaciated plain that extends west into Kansas. Named for the Osage, a Native American tribe who lived in the area until 1808, the region is characterized by flat to gently rolling topography. Sandstone, shale, and limestone provide the raw materials from which Osage Plains soils develop, the latter two producing soils generally productive for agriculture. Historically, this ecoregion was dominated by tallgrass prairie, but it also contained extensive savannas and wetlands. Although the largest unplowed prairies east of the Kansas Flint Hills can be found here, most of the landscape has been converted to agriculture.
+The Ozark Highlands ecoregion spills into five states but occurs primarily in Missouri and Arkansas. The region got its start more than two billion years ago when volcanic eruptions formed the St. Francois Mountains. About 1.5 billion years later, shallow seas washed over what is now Missouri, flooding everything except the highest of peaks. During that time, Taum Sauk Mountain, Missouri's highest point, was part of a chain of islands jutting out of the sea. Ocean water receded from and reflooded the area repeatedly, each time depositing layers of limestone, sandstone, dolomite, and shale. During the past 300 million years, these sedimentary rocks were uplifted and eroded to create the topography of hills, plateaus, and deep valleys we see today in the Ozarks.
+Historically, the Ozarks were a mix of prairies and savannas on the broad plains surrounding present-day Springfield, Lebanon, West Plains, and Salem. Rugged hills rising above large rivers such as the Gasconade or Current contained a mix of forests, woodlands, and glades. Outside the narrow floodplains, Ozark soils are typically rocky, E l e m e n t 2 ( C o n t i n u e d ) P R E FAC E droughty, and not very fertile. Although the region has changed significantly in the past century, the Ozarks contain the greatest concentration of Missouri's remaining wild lands. Most of Missouri's caves (more than 6,300) are found here, and springs, fens, and sinkhole ponds provide other unique habitats. At least 150 species living in the Ozarks are found nowhere else in the world 
+(Leahy 2011)
+.
+Each of these ecoregions is unique and supports a variety of natural communities. For the purposes of this Plan, Missouri's natural community types are grouped into six primary habitat systems based on 
+Nelson's (2010)
+ classification in The Terrestrial Natural Communities of Missouri. These are:
+✦ Grassland / Prairie / Savanna ✦ Forest / Woodland ✦ Glade ✦ Cave / Karst ✦ Wetland ✦ Rivers / Streams
+Each of these primary habitat systems is further broken down into more specific subtypes within each habitat system chapter. For example, the primary habitat system, glade, is subcategorized by bedrock type into 5 categories: chert glades, dolomite glades, limestone glades, sandstone glades, and igneous glades.
+Conservation Opportunity Areas were identified for each of the primary habitat systems using both professional knowledge and GIS prioritization. Sixteen-digit hydrologic unit codes (HUC16s) were used as planning units for all habitat systems, because HUC16s are small enough to approximate land condition, but still large enough to be ecologically meaningful. For each habitat system, we attempted to identify the historic extent of the system (e.g., presettlement prairie). Within the historic extent, current condition was assessed using landcover identified by the 2011 National Land Cover Database. Areas that were identified as opportunities from previous assessments (e.g., CWCS) or that had good current condition were further prioritized based on the presence of conservation network lands and species of conservation concern related to the habitat system.
+After the initial GIS prioritization, habitat system experts reviewed the locations to determine if the identified areas were appropriate and were capturing the entire opportunity for a habitat system. Teams revised the criteria used for selecting areas and identified areas that should or shouldn't be included. Teams used local knowledge of areas related to habitat condition, landowner engagement, and the statewide significance of an opportunity for selections. Partners were then invited to review and provide feedback on both the selection criteria and the draft COA maps. This is further described under Elements 7-8: Partner and Public Input .
+Figure 
+3
+, 2015 State Wildlife Action Plan Conservation Opportunity Areas, on page 31, is a combination of all team and partner inputs, and represents the greatest opportunities for sustainable conservation of fish, forest, and wildlife resources for all habitat systems within Missouri. The identified COAs are strictly habitat-based at this time, and do not incorporate other important conservation considerations, such as education, community and urban conservation, or conservation economics. The figure includes both opportunities unique to only one habitat system as well E l e m e n t 2 ( C o n t i n u e d )
+
+## P R E FAC E
+
+as areas that have overlapping opportunity for more than one habitat system (e.g., forest/woodland and glade areas). A prioritization process for each habitat system reduced opportunity areas to ~13% of the state compared to ~23% identified previously through the Comprehensive Wildlife Conservation Strategy and Forest Action Plans. In the future, as goals are reached within the currently identified opportunity areas or better data are obtained, opportunities may be shifted outside the boundaries of these areas, to areas that are currently a lower priority. It is also important to note that regardless of identified opportunity areas and/or priorities, the Department and conservation partners will continue to provide services statewide and constantly continue to explore valuable opportunities to conserve Missouri's natural communities and the species they support.
+The final selection criteria and COA maps for each habitat system are provided in the habitat system chapters.
+E l e m e n t 2 ( C o n t i n u e d )
+
+## Mississippi River
+
+## P R E FAC E P R E FAC E ELEMENTS 3 AND 4: THREATS AND ACTIONS
+
+Problems which may adversely affect SGCN or their habitats, and descriptions of conservation actions determined to be necessary to conserve SGCN and their habitats and priorities for implementing such actions.
+This section discusses threats to natural communities, and management actions that address those threats, at a statewide scale. Threats and actions are addressed more comprehensively and at a habitat system scale in the habitat system chapters. The primary reference for the information in this section is 
+Nelson's (2010)
+ The Terrestrial Natural Communities of Missouri.
+Nationally, habitat loss and degradation is the most pervasive threat to biodiversity, affecting 85% of the nation's 1,880 imperiled plant and animal species 
+(Wilcove and Rothstein et al. 2000)
+. Exotic invasive species rank as the second-greatest threat, impacting 49% of the species. Other threats include pollution, overexploitation and disease. New threats continue to emerge such as new disease epidemics (e.g., chytrid fungus, white-nose syndrome), new chemical contaminants, and climate change.
+
+## Habitat Loss and Degradation
+
+Sources of habitat loss and degradation in Missouri are many and varied, and the list continues to grow. These include land conversion, water diversion, mining exploration and development, energy development, infrastructure development, agricultural practices, water development, and urban and commercial development. Many of Missouri's streams and rivers are now channelized, dammed or both. Less than 1% of Missouri's original prairie remains unplowed.
+Urban development has impacted approximately 500,000 acres and continues to expand rapidly. Some land management practices and outdoor recreation may be conducted in a manner that has neutral or even beneficial impacts to fish, forest and wildlife resources; but must be conducted in such a way that will not lead to habitat degradation.
+In response to ongoing threats, the Department is engaging with partners and private landowners to protect and improve habitat on public trust lands and privately owned working lands, and to restore connectivity between them. The crux of the State Wildlife Action Plan is to identify and prioritize areas having the greatest opportunity for the conservation of Missouri's full suite of fish and wildlife diversity and to focus conservation efforts in these areas to have the greatest possible benefit for wildlife diversity as a whole. The Department's Wetland Planning Initiative, Forest Action Plan and other strategic initiatives are complimentary (see 
+Element 6: Revision)
+. Key to the effectiveness of this approach is partnership with other agencies and organizations, municipalities, private landowners, and citizens.
+Landscape-scale conservation efforts are occurring in all habitat systems. For example, the Department is currently implementing several ambitious grassland reconstruction projects that will create more than 1,700 acres of new grassland on three conservation areas. The Department is working with partners and landowners to develop successful incentive programs for converting fescue to native warm-season grasses and forbs on working pastures. The Department and partners are working with several municipalities on community development plans and watershed management plans to provide habitat and clean water
+
+## E l e m e n t s 3 a n d 4 : T h r e a t s a n d A c t i o n s
+
+for the benefit of citizens and wildlife. Many partners and municipalities are cooperating on the conversion of low water crossings to clear-span structures to reduce fragmentation and improve aquatic organism passage (connectivity) throughout stream systems. Reforestation is occurring in the southeast region of Missouri. The Bootheel was once nearly entirely covered by bottomland forest types before being drained and converted to agricultural use. Today, very little of this forest type remains in the Bootheel. However, some reestablishment of this forest is beginning to take place. Easement purchases through the Wetland Reserve Program (WRP) and the newer Agricultural Conservation Easement Program (ACEP), and lands purchased by the Department and then reforested are first steps toward a more forested landscape in the Bootheel. These examples, and others, are discussed more fully in the Habitat Systems.
+
+## Invasive Species
+
+The threat of invasive species is a continually increasing challenge throughout every habitat system in Missouri. Many exotic species have become so well-established that complete eradication is no longer possible without destroying the natural communities they have infested. Substantial resources in terms of both funding and staff/volunteer time are being spent annually simply to stem the advancement of invasive species on many areas, to re-treat the same areas year after year and/or prevent further spread. As difficult as it is to accept, conservationists must acknowledge that many invasive exotic species are here to stay. In the face of this challenging reality, it is necessary to work strategically to focus resources where the greatest possible benefit to wildlife diversity can be gained. A strategic approach will involve such tactics as focusing efforts on recent invasions that can still be eradicated, and on the highest-priority conservation areas. These are difficult decisions that must be made in cooperation with partners and landowners across the state. To accomplish this, the Department plans to build an internal Invasive Species Working Group who will engage partners and stakeholders interested in cooperating towards the development of a statewide invasive species strategy. This spirit of collaboration in attacking invasive exotic species has already begun in Missouri through the creation of the Missouri Invasive Exotic Plant Species Task Force, spearheaded by GrowNative! and the Missouri Prairie Foundation. The Department serves as an inaugural member of this task force, which is continuing to grow membership and support.
+
+## Pollution
+
+Sources of pollution across the state include energy production, mining, urban and agricultural runoff, urban and septic wastewater, urban and infrastructure development, and sedimentation. This threat is exacerbated, particularly in aquatic and cave/karst systems, by the loss and degradation of riparian corridors, cave and spring recharge buffers, and wetlands that function to remove pollutants and slow the discharge of both surface water and groundwater from watersheds. Impacts of pollution on biodiversity are still being studied. Many species associated with rivers/ streams or cave/karst systems, such as mussels, crayfish, and cave invertebrates, are particularly sensitive to chemical contamination, nutrient-loading and sedimentation. The impact of pesticides on terrestrial and E l e m e n t s 3 a n d 4 ( C o n t i n u e d ) P R E FAC E aquatic insects, particularly pollinators, is currently a focus of much research and attention.
+The Department is working to reduce the application of insecticides on conservation areas, and is conducting several studies that will examine the impacts of such chemicals on terrestrial and aquatic invertebrates. The Department and partners are working to restore and improve riparian corridors on public lands, and to maintain appropriate buffers around cave entrances, sinkholes, and springs to protect groundwater quality. The Department and partners are also working to promote similar practices on private lands. For example, The Missouri Forest Management Guidelines: Voluntary Recommendations for Well-Managed Forests includes chapters on forested watersheds and pesticide use and best management practices (BMPs) for protecting cave/karst features. Landowner incentive programs prioritize actions that protect watersheds and groundwater as well.
+
+## Natural Systems Modification
+
+There are many ways in which natural systems have been modified in Missouri, and the impacts vary depending on the type and extent of the modification and other threats to the system. Modifications common throughout Missouri include altered fire and grazing intensity, dam construction, stream channelization and other hydrological alterations. In terrestrial systems, threats such as changes in fire and grazing frequency reduce biodiversity by allowing dominant species to outcompete species adapted to disturbances that occurred regularly in the systems in which they evolved. Earlier successional systems such as grasslands, savannas, woodlands and glades are most susceptible to this threat. The removal of such natural disturbances can facilitate the spread of invasive species as well, further degrading the natural community. Native species such as eastern red cedars and other woody species will also encroach upon areas where they did not historically occur when natural disturbance processes are reduced or eliminated. In aquatic systems, many species are sensitive to changes in hydrology that affect flow and the timing of flow changes in rivers and streams, or water levels and the timing of flood and draw-down events in wetlands. For example, many species are adapted to seasonal flooding events which have largely disappeared in many areas, resulting in declines in these species.
+The Department and partners are working vigorously to understand and restore natural processes such as fire and grazing in terrestrial communities. Landowners are also engaged, as the restoration of natural processes including prescribed fire and prescribed grazing typically improves pastures and increases cattle profitability. The restoration of aquatic processes can be more challenging, as the source(s) of the alterations may be far upstream of the area impacted and may be more difficult to identify and correct. However, by working cooperatively with partners and landowners having similar goals, the successful restoration of aquatic resources is being achieved in some areas. A watershed approach is required to address steam issues, as the source of a threat is often in the watershed, upstream or downstream of the site of its impact.
+
+## Climate Change
+
+Climate change is now widely recognized as a potential major threat to fish and wildlife and the habitat systems on which they depend. Climate change is a E l e m e n t s 3 a n d 4 ( C o n t i n u e d )
+
+## P R E FAC E
+
+particularly challenging threat because of the ways in which it may interact with other threats, such as invasive species and disease, and because of the degree of uncertainty regarding the timing, seasonality, intensity and sometimes even direction of the impacts that may occur as a result of changing climate.
+Beginning P R E FAC E negative effects on growth at extremely high water temperatures.
+✦ Many migratory species, such as mallards and other dabbling ducks, rely on temperature cues to signal northward and southward migration each year. As temperatures warm and precipitation patterns change, some wildlife species may experience a shift in breeding and migration dates, as has already been observed for North American wood warblers.
+✦ Many potential impacts on wildlife and their habitats remain unknown.
+✦ The effects of climate change on cave-dwelling species are also unknown.
+✦ Changes in climate will also create additional management challenges as conditions become more favorable for invasive plant species not currently prevalent in the assessment area.
+Missouri's habitat-based approach is well-suited to mitigate the threat of climate change. The Plan identifies and assists in prioritizing the best opportunities for conservation throughout the state, and targets these areas for focused conservation effort. Efforts to restore and maintain healthy habitat systems in these areas may result in more resilient habitat systems and floral and faunal communities. Increasing resilience has been identified as a primary method for minimizing the impacts of climate change on fish, forest and wildlife resources. Missouri's approach also promotes connectivity within and among habitat systems by pri-oritizing those areas that are larger, more intact, nearer to other conservation areas, and/or where there is more opportunity to expand conservation action. Improving connectivity will facilitate range adjustments that may occur in many species adapting to climate change. Monitoring efforts such as those described in Element 5: Monitoring, will detect changes in communities as a result of management action or the impacts of threats, and will enable managers to respond to emerging threats in a timely and effective manner.
+E l e m e n t s 3 a n d 4 ( C o n t i n u e d ) P R E FAC E ELEMENT 5: MONITORING AND EVALUATION Proposed plans for monitoring SGCN and their habitats, for monitoring the effectiveness of the conservation actions, and for adapting these conservation actions to respond appropriately to new information or changing conditions.
+Efficient and effective monitoring programs are essential tools for assessing management and achieving conservation goals. Unfortunately, the large number of SGCN and the resources that must be devoted to monitoring these species often make monitoring a limiting factor for conservation agencies and partners. An adaptive management approach to the restoration and management of natural communities requires that we define what we are monitoring, why we are monitoring and how we are monitoring with specific objectives.
+The Department utilizes monitoring of both species-specific and ecological or natural community level scales. Monitoring attributes of natural communities provides for a "pulse-check" of the health of an ecosystem. We monitor natural communities based on attributes of vegetation structure and composition; and characteristic, easily observable plant and animal species. This serves as a "coarse-filter" for representing larger groups of native plants and animals, especially invertebrates 
+(Panzer and
+Schwartz 1998, Panzer et al. 2010)
+, for which we have little information and cannot practically monitor on a species-specific level.
+The Department is developing models of different natural community types based on attributes of ecological integrity 
+(Lindenmayer and Franklin 2002
+, Faber-Langendoen et al. 2006
+, Tierney et al. 2009
+, and Rocchio and Crawford 2011)
+ including landscape context, vegetation composition and structure, characteristic and remnant-dependent (i.e., habitat specialists or conservative species sensu 
+Taft et al. 2006
+, Matthews et al. 2015)
+ species, and negative disturbance factors (e.g., invasive exotic species infestations). These Community Health Index (CHI) models take a more quantifiable approach to methods of evaluating the natural "quality" of natural communities than are often used during assessments of habitat by ecologists in state natural heritage programs. They build upon the concept of species-specific habitat suitability indices 
+(Allen 1987)
+.
+The CHI models for terrestrial natural communities follow a similar format 
+
+## P R E FAC E
+
+CHI score for a site consists of approximately 70% vegetation metrics, 15% animal metrics and 15% landscape metrics. Vegetation is the most easily observed and readily changeable component of a natural community that in turn directly influences the animal species composition. Hence, it is weighted more heavily.
+Evaluating the response of a management unit to say a prescribed burn regime can range from observational notes to a full-blown replicated experimental design. Only the latter type of study can fully establish cause-effect results. Wildlife biologists and foresters need something less costly and time intensive than research projects but that still yield useful data to track changes in management units through time to assess success toward management goals.
+To date, the Department has begun field evaluations of CHI models for upland prairie, woodland, and dolomite glade natural community types 
+(Nelson 2010)
+. The process is to involve field staff and taxa experts as well as ecologists in the process of refining and vetting the CHI models. The concepts are well understood by field staff but key questions remain regarding full deployment of these tools to monitor the effectiveness of terrestrial natural community restoration and management projects.
+In addition to the CHI models, the Department is investigating the development of Landscape Health Index (LHI) models that would monitor the health of habitats and species at broader scales (e.g., at the COA level). The CHI models are developed for sites ranging in size from one to about 5,000(mapped typically at the 1:24,000 scale). LHI models will cover larger areas, mapped at the 1:100,000 scale or broader. These LHI models may utilize modified techniques from the North American Breeding Bird Survey 
+(Sauer et al. 2014
+) and the North American Amphibian Monitoring Program (Weir and Mossman 2005) to get at the health of suites of species characteristic of different habitats.
+It should be noted that CHI models are not meant to replace existing monitoring protocols for SGCN (most of which are listed in the 2005 CWCS). Established monitoring programs for SGCN will continue, and new programs will be initiated as funding allows. CHI provides coarse-level data on the ecological integrity of various natural communities and serves as a "coarse-filter" approach to monitoring as opposed to the "fine-filter" approach of species-specific monitoring. Both types of monitoring are necessary and are complementary for assessing conservation action effectiveness.
+
+## Dolomite glade
+
+## E l e m e n t 5 ( C o n t i n u e d )
+
+P R E FAC E ELEMENT 6: REVISION Procedures to review and revise the Plan at intervals not to exceed ten years.
+This State Wildlife Action Plan (Plan) is a revision of the Comprehensive Wildlife Conservation Strategy (CWCS) completed in 2005. The CWCS used all the information acquired in the prior 30 years to identify a set of Conservation Opportunity Areas (COAs) to support and conserve viable populations of all wildlife and the habitat systems on which they depend. Information was obtained from multiple internal and partner sources, and the COAs were identified based on Department and partner priorities.
+Since the CWCS, the Department has developed the Missouri Forest Action Plan that used the CWCS as a major input in assessing the importance of forested areas as wildlife habitat. The Department's Fisheries Division also identified priority watersheds in cooperation with other Divisions and partners. Partner agencies and organizations have developed and revised planning and prioritization tools as well. The effort that has gone into the development of each of these plans and strategies has resulted in multiple, excellent tools. Indeed, the process of developing these tools must itself be recognized as of substantial value in the advancement of strategic planning and coordination within and among conservation entities towards the most effective possible use of limited resources for the conservation of natural communities. Missouri's goal is to build upon this successful foundation by combining these products into a single tool, a Comprehensive Conservation Strategy (CCS), see Figure 
+1
+ below. Partner and public input and the use of the best available science and information will continue to be incorporated regularly as the CCS is developed and implemented in an ongoing, adaptive process. Several products will be developed from the CCS including a geospatial database, refined COAs, priority geographies, and standardized monitoring.
+The CCS will be inclusive of, and broader than the plans and priorities it incorporates. When fully developed, the CCS will be submitted to the FWS as a formal revision to the State Wildlife Action Plan, and to the U.S. Forest Service as a formal revision of the Missouri Forest Action Plan. This is anticipated to occur well in advance of federal deadlines for the next revision of these documents, and will meet all federal requirements for these documents. The success of this Plan is dependent upon working with partners at the national, regional, state, and local levels to ensure understanding and collaboration during planning, implementation and review. The Department is also committed to broad public participation and communicates regularly with federal, state, tribal and local governments, as well as with private landowners and private conservation organizations. The strength of the Plan's partner and public involvement is the Department's continuous communication with the public about their interest and support of wildlife diversity, and inclusion of conservation partners in developing the criteria for, and selection of, specific geographies for conservation action.
+Partner input was a key component in the identification of the Conservation Opportunity Areas (COAs) in the 2005 CWCS, and was described in detail in that document. The current COAs are simply a refinement of the original COAs, taking into account new information, new Department and partner priorities, and changes on the landscape since 2005. Partner input was an integral component in development of the Missouri Forest Action Plan as well, which was also used to refine the current COAs.
+In July 2015 two Partner Engagement Workshops were held to invite feedback on the revision and refinement of the COAs for the 2015 Plan. All partners who participated in development of the 2005 CWCS, the Missouri Forest Action Plan, or other recent cooperative planning efforts were invited (see Appendix B, Partner Engagement Workshop Invitee List). Of the 58 partner agencies and organizations invited, a total of 26 individuals representing 16 different organizations attended. Each Partner Workshop began with a presentation describing the purpose and current development status of the Plan, the process by which the COAs were identified and prioritized, and next steps. Following the presentation, participants were given the opportunity to visit stations to review the COA identification criteria and COA map for each habitat system (see Element 2: Habitat Systems). A total of six stations were available, one per primary habitat system. At each station a Department staff member who had participated in that habitat system's review team was available to answer questions and discuss ideas for improvement. The GIS specialist responsible for developing each of the maps was also available at each Partner Workshop to answer questions, and offer attendees the opportunity to engage in an interactive ArcMap station, which allowed participants to view a multitude of available data sets and zoom in and look more closely at specific areas of the state. Each participant was given a comment form and asked to provide written comments at the end of the workshops or submit them later by e-mail. Participants were also encouraged to draw in desired COA boundary revisions on the maps provided at each habitat system station.
+
+## E l e m e n t s 7 a n d 8 : P a r t n e r a n d P u b l i c I n p u t
+
+## P R E FAC E
+
+In addition, verbal comments expressed by attendees were summarized by staff working the workshops.
+Unfortunately, not all partners were able to attend the two interactive workshops. To accommodate those partners who could not attend, and allow further review by those who could, the Department placed the workshop presentation, COA maps and comment form on an ftp site for 2 weeks and extended an invitation for all partners to review and offer comment. All submitted comments following the workshops and additional 2 week comment period were compiled and reviewed by the Plan revision team. Much of the input received will be used in development of the Comprehensive Conservation Strategy (see Element 6: Revision), but some input was immediately incorporated into this 2015 Plan.
+While partner input and participation is important to the development of the Plan, it is absolutely vital during plan implementation. To ensure strategic conservation decisions and maximize efficient and effective use of limited public resources, the Department actively pursues partner and citizen involvement to put conservation practices on the ground, maintain them and monitor their success. Through the use of cooperative agreements and memorandums of understanding, the Department is able to engage in costshare opportunities with partners and private citizens. Examples of these partnership agreements include providing cost-share to the Missouri Prairie Foundation (MPF) for grassland restoration and maintenance, exotic and woody species control,public outreach, as well as providing cost-share to the Missouri River Bird Observatory (MRBO) for outreach and continued effectiveness monitoring of grassland-dependent bird species, and observing species response to on-going grassland management. Both of these partnerships are important to the conservation of Missouri's grasslands. In another partnership, the Department has agreements with the St. Louis Zoo's Wildcare Institute, supporting hellbender (Cryptobranchus spp.) and American burying beetle (Nicrophorus americanus) species reproduction and recovery efforts. An agreement with Ducks Unlimited (DU) provides cost support for DU to provide engineering services to assist with the design and construction of wetlands on public and private property. In addition, the Department has established effective working partnerships with private landowners through the Natural Resources Conservation Service (NRCS) and Farm Service P R E FAC E plementation and success of many valuable projects across the state.
+Ensuring partner input and working with partners and private citizens to implement practices on the ground is key to conservation success, but more than that, the Department and conservation partners understand that public interest and engagement with nature and conservation is imperative to continued success. To maintain public interest and connect and engage future generations, the Department and partners focus on public outreach and education through the use of publications, social media, radio and television programs, educational and outdoor skills events, native plant sales, mentoring and much more.
+
+## Publications and Online Outreach
+
+The Missouri Conservationist magazine is mailed to more than 550,000 subscribers each month and covers a variety of nature, conservation, and outdoor-recreation subjects. Xplor, a children's magazine, has more than 175,000 subscribers and offers suggestions for family-oriented outdoor activities. The Department serves up millions of web pages each year, produces free publications, for-sale books, and news releases on topics as diverse as bird identification, hunting and fishing regulations, and how to create wildlife habitat. The Ask MDC program helps answer citizen questions and helps to investigate concerns and resolve complaints.
+
+## Social Media
+
+The Department's Facebook page has more than 152,000 likes and reaches almost 75,000 people per week who share Department information with more than 5.5 million friends. The Department's Twitter feed has more than 7,000 followers who then pass tweets along to thousands more. The Department's YouTube channels contain more than 1,000 videos and average about 100,000 views per month with more than 8.5 million total views. Department online photographs, through Flickr, offer over 1,000 images with more than 2,500 reader photos, which have had more than 295,000 lifetime views.
+Conservation Nature Centers, Education Centers, and Visitor Centers These are located in Jefferson City, Kirkwood, Blue Springs, Springfield, Cape Girardeau, St. Charles, Winona, St. Louis, Branson, and Glencoe. Exhibits and naturalist-led programs, as well as walking trails, offer about a million visitors each year a variety of opportunities to learn about and enjoy Missouri's nature. These facilities host programs for families, women, and other target audiences that teach skills to enjoy the outdoors.
+
+## Hunter Education
+
+Since 1988, hunter-education training has been mandatory for all hunters born on or after January 1, 1967. Department Outreach and Education staff work with conservation agents to coordinate volunteer hunter-educators, who provide about 950 classes each year. These result in hunter certification of about 25,000 people annually and instill a conservation ethic and appreciation of natural resources within Missouri citizens.
+E l e m e n t s 7 a n d 8 ( C o n t i n u e d )
+
+## P R E FAC E
+
+Shooting Range/Outdoor Education Centers Five staffed shooting ranges provide safe, inviting places for hunters and others to practice shooting rifles, shotguns, handguns, and archery equipment. Classes are offered to the public and designed to give beginning shooters and hunters the skills they need. More than 170,000 people each year use the staffed ranges. In addition, more than 75 unstaffed ranges (including both firearms and archery ranges) serve Missourians throughout the state.
+
+## Community Forestry
+
+This program provides planning and technical assistance to more than 150 communities. In addition, the Tree Resource Improvement and Maintenance (TRIM) program annually provides cost-share assistance to approximately 30 Missouri communities for tree planting and maintenance of their community forest resources. In partnership with the National Arbor Day Foundation the Department promotes and administers the Tree City USA program certifying 85 communities for dedicated care of their tree resource. The TreeLine USA program recognizes 11 utility providers in the state for quality tree care, and the Tree Campus USA program recognizes 7 colleges and universities in the state for dedicated care of their tree resources.
+
+## Community Conservation
+
+Community Conservation Planners in Kansas City, St. Louis, and Springfield/Branson/Joplin areas are available to deliver natural-resource technical services at the municipal, county, and regional levels. Their job focus is to work with communities, urban planners, and developers to help them make informed land-use decisions that incorporate the conservation of Missouri's fish, forest, and wildlife resources.
+
+## Conservation Agents
+
+Agents carry out a variety of programs within their county assignments. Major job components are resource law enforcement activities, hunter education, local media liaison duties (many with regular radio/ TV programs and newspaper articles), educational and informational presentations to adult and youth groups, wildlife surveys, response to fish kills, wildlife-nuisance and damage complaints, and basic fish, forest, and wildlife management advice and services to private landowners.
+
+## Technical Support on Private Land
+
+Private Land Conservationists are available to evaluate resource needs and provide advice/recommendations to private landowners through in-office or onground visits, as well as workshops, field days and other initiatives. Most of these positions are co-located in United States Department of Agriculture (USDA) service centers to make contact easy for private landowners throughout the state. Foresters assist Missouri landowners with forest management through one-onone contacts. Foresters often use the Tree Farm program, Forest Stewardship program, state and federal cost-share programs, and offer technical advice to assist landowners. The Department currently assists approximately 7,100 landowners with management on an estimated 300,000 plus acres annually.
+
+## Agriculture Liaison
+
+Liaison efforts with agricultural agencies and groups foster communication and understanding of fish, for-
+
+## E l e m e n t s 7 a n d 8 ( C o n t i n u e d )
+
+P R E FAC E est, and wildlife issues as they relate to agriculture. These efforts are important since 65 percent of the land area of Missouri is encompassed in farms.
+
+## Citizen Involvement
+
+Several programs help Missourians promote conservation at a statewide and grass-roots level. More than 2,500 citizens volunteer through a number of different programs. More than 100 citizens volunteer at staffed shooting ranges, more than 400 at nature centers, more than 1,000 through the Master Naturalist program, and more than 700 citizens are involved in the Volunteer Hunter Education program. This translates to more than 130,000 volunteer hours for conservation activities.
+
+## Discover Nature Schools
+
+Missouri's children are the key to Missouri's future. Working closely with the Missouri Department of Elementary and Secondary Education, the Department has developed conservation education curriculum materials for grades pre-kindergarten through 12 that are in 79 percent of Missouri school districts. These curricula use Missouri examples to teach science-based concepts. The materials are available to all Missouri schools at no charge.
+
+## Other Public Input Opportunities
+
+The Conservation Commission meets regularly and anyone may contact the Commission with comments or request to appear at a Commission meeting. The Department ombudsman works with citizens to resolve conflicts and answers a wide variety of questions by mail, Facebook, telephone, and email. Staff at eight regional service centers are available to assist Missourians with their conservation requests and needs.
+The Department conducts frequent public forums to obtain interactive feedback from all Missourians at locations throughout the state. The Department also seeks public input on conservation area management plans at mdc.mo.gov/areaplans.
+The Department works to listen, understand and personally deliver programs and services in a manner that benefits all Missourians and the fish, forest and wildlife resources in Missouri. To assess the effectiveness of these efforts, the Department conducts a wide variety of statistically accountable mail surveys, telephone surveys, and focus groups to determine the opinions and attitudes of Missourians about conservation and the Department of Conservation.
+The Department has conducted attitude, opinion, satisfaction and participation surveys for more than 30 years. Here are some examples of what Missourian's are saying:
+✦ The majority of Missourians feel the Department of Conservation is doing an excellent or good job or providing services to themselves (65%), their families (65%), the community (64%) and the state (68%).
+✦ Most Missourians (95%) report they are interested in Missouri's fish, forest, and wildlife.
+✦ Most Missourians (89%) agree that "It is important for outdoor places to be protected even if you don't plan to visit the area."
+✦ Most Missourians (76%) agree that the Department should make an effort to restore animals that once lived or are currently very rare in the state.
+E l e m e n t s 7 a n d 8 ( C o n t i n u e d )
+
+## P R E FAC E
+
+✦ Most Missourians (77%) agree that the Department should help private landowners who want to restore native communities of plants and animals.
+These and other survey results confirm that the vast majority of Missourians support wildlife diversity conservation. This feedback is valuable to the Department and directly influences decisions and strategies which were key to the development of this Plan.
+Conservation success in Missouri would be limited without the understanding, dedication and active involvement of a multitude of conservation partners and private citizens. It is important this fundamental ideology be expanded to ensure Missouri remains engaged as a leader in regional, national, and global conservation partnerships. The Habitat Systems section describes development and implementation of the Plan at the regional and local scale. Concurrent with the habitat-based approach, this section is divided into chapters for each of the six habitat systems: Grassland/Prairie/Savanna, Forest/ Woodland, Glades, Cave/Karst, Wetland, and Rivers Streams. Each chapter contains: ✦ An overview of the specific habitat system and each of its subtypes ✦ Map(s) displaying specific locations for the Conservation Opportunity Areas (COAs) per each habitat system ✦ Decision criteria used to determine the COAs ✦ Listing of the Species of Greatest Conservation
+Need associated with the specific habitat system ✦ Habitat System Threats relative to each habitat system ✦ Habitat Management Actions required to restore and maintain a healthy habitat system ✦ Habitat system subtype descriptions ✦ Case studies that feature specific examples of conservation actions being applied to benefit each habitat system subtype ✦ Literature cited Each chapter includes specific examples of implementation of 6 of the 8 required elements (see Table 
+2
+, page 3). Refer to the Preface for more detailed information on the development of the COAs (Element 2) and the Species of Greatest Conservation Need (Element 1). Maps showing COAs for all habitat systems combined may be found on pages 30-31, Figures 
+3
+ and
+4
+.
+
+## G R A S S L A N D / P R A I R I E / S AVA N N A C O N S E RVAT I O N
+
+O v e r v i e w G rasslands have existed in North America between five to seven million years due to a long drying trend in our climate. However, the tallgrass prairies we see today in Missouri have existed for only the past 11,000 years. Increased aridity, anthropogenic fires, and warming conditions allowed the tallgrass prairies to expand from the Great Plains to Ohio and as far south as southern Texas, to as far north as southern Manitoba. Missouri's native grasslands can be divided into two broad categories: prairie and savanna.
+Prairie consists of perennial grasses and forbs with few trees and sparse shrubs. Missouri prairies are classified as tallgrass prairies due to the height of native warm season grasses resulting from higher regional precipitation amounts than received by western mixed and shortgrass prairies. Species richness and diversity is enhanced due to a broad diversity of perennial forbs. As such, native plant diversity within prairies is vast. For example, in Missouri, on just a 100-acre, high quality upland prairie parcel, at least 200 native species of vascular plants can flourish. This diversity of plant species and structure is crucial to Missouri's grassland wildlife.
+Missouri boasts several unique prairie types. Deep-soiled loess hill prairies parallel the Missouri river in the far northwestern portion of the state, whereas drier, shallow-soiled unglaciated prairies are characteristic of the Osage Plains region. Glaciated prairies, though once common across the northern third of the state, today are only interspersed in this same region. Additionally, only small remnants of sand prairies can be found in Missouri today in the far southeastern Bootheel and along the Mississippi River. Wet prairies can still be found along a few of Missouri's rivers. There are just a handful of savanna landscapes where prairies transition into woodland. Although these grassland types once dominated one third of Missouri's landscape, the combined acreage of these six distinctive grassland habitats today total less than 1% of Missouri's landscape.
+Despite their limited size, Missouri's grasslands provide essential habitat for many plant and animal species. Within the prairie habitats, characteristic species include the Henslow's sparrow (Anmodramus henslowii), grasshopper sparrow (Anmodramus savannarum), dickcissel (Spiza americana), Bell's vireo (Vireo bellii), eastern meadowlark (Sturnella magna), blacknose shiner (Notropis heterolepis), prairie grass pink (Calopogon oklahomensis), skeleton plant (Lygodesmia juncea), and the federally threatened Mead's milkweed (Asclepias meadii). Savanna characteristic species are fewer, but include red-headed woodpecker (Melanerpes erythrocephalus) and northern bobwhite (Colinus virginianus). Ornate box turtle (Terrapene ornata ornate) and tall agrimony (Agrimonia gryposepala) are two species characteristic of both prairie and savanna habitats. 
+
+## Habitat Conversion and Fragmentation
+
+Following nearly two hundred years of conversion to agriculture, urbanization, and other uses, today, isolated prairie and savanna remnants are scattered among millions of acres of agricultural fields and developed towns and cities. These fragmented landscapes provide the last suitable habitat for many grassland-dependent species, including prairie mole crickets (Gryllotalpa major), Franklin's ground squirrel (Poliocitellus franklinii), Henslow's sparrow (Ammodramus henslowii), northern crawfish frog (Lithobates areolatus circulosus), and the Missouri state endangered greater prairie-chicken (Tympanuchus cupido). Habitat loss and fragmentation remain primary threats to such species.
+
+## Woody Species Encroachment and Invasive Species
+
+Modern grassland communities face additional threats, including chronic overgrazing and encroachment by woody vegetation and invasive species. Approximately 13 million grassland acres are dominated by tall fescue (Festuca arundinacea). This popular, exotic forage is resilient to drought and withstands severe grazing. As a result it is managed in a manner which seldom provides beneficial habitat for grassland-dependent species. Due primarily to the absence of fire, encroachment by woody species such as eastern red cedar (Juniperus virginiana), black locust (Robinia pseudoacacia), sumac (Rhus copallina, R. glabra), and Osage orange (Maclura pomifera), is quick to take hold and overwhelm grasses and forbs, greatly reducing plant diversity and fragmenting the landscape.
+An ever-growing list of invasive plant species poses an immense challenge for today's grassland managers. Species such as sericea lespedeza (Lespedeza cuneata), multiflora rose (Rosa multiflora), autumn olive (Elaeagnus umbellate), tall fescue (Festuca arundinacea), yellow (Melilotus officinale) and white sweet clover (Melilotus alba), Johnson grass (Sorghum halapense), and reed canary grass (Phalaris arundinacea) aggressively outcompete native grasses and forbs, forming dense monocultures which reduce the overall plant species richness and structural diversity of these grassland communities.
+
+## Additional Threats-Wet Prairies
+
+Wet prairie systems face similar threats, but are also negatively impacted by pollution, siltation, and altered hydrology resulting from stream channel and floodplain alterations, including channelization, impoundments, and improved drainage systems.
+
+## Sericea Lespedeza
+
+## G R A S S L A N D / P R A I R I E / S AVA N N A C O N S E RVAT I O N H a b i t a t M a n a g e m e n t A c t i o n s
+
+G rassland conservation actions in Missouri must focus on protecting intact, remnant habitats and maintaining sites that have been successfully restored. Proactive restoration or reconstruction of additional grasslands is also critically important. Such efforts may involve limited land acquisition, but will in most instances require cooperation with private landowners. Improving these working grasslands will require providing training in sustainable production techniques and innovative approaches which address underlying economic realities faced by producers. The Department, as well as other partner organizations, focus substantial resources on costshare and incentive programs aimed at improving grassland management.
+The conversion of cropland and fescue pasture to diverse reconstructed grassland communities remains a guiding objective. The establishment of a broad diversity of native plants and subsequent maintenance of heterogeneous vegetative structure which benefits an equally broad diversity of grassland-dependent wildlife remains a high priority for public and privately owned grasslands. Prescribed burning, mechanical tree and brush removal, mowing, haying, and herbicide treatment will continue to be important tools to keep woody vegetation and invasive species at bay. Likewise, a combination of prescribed burning and grazing is needed to restore and maintain the diversity and vegetative structure of healthy grassland communities. Efforts to restore populations of species with low mobility (e.g., invertebrates, amphibians) into these reconstructed grasslands are relatively new in Missouri as the Department and partners are learning to diversify them further.
+Missouri's State Wildlife Action Plan identifies conservation opportunity areas (COAs) which repre-sent the greatest opportunities for sustainable conservation of Missouri's habitat systems and the species they support. Of the COAs, three have been specifically selected as priority geographies to represent immediate grassland and savanna community conservation emphasis including Grand River Grasslands and Spring Creek Watershed, both located within the Central Dissected Till Plains region of north Missouri, and Upper Osage Grasslands, within the Osage Plains of southwest Missouri. Each of these include key Department or partner protected lands within a matrix of privately owned, working lands. Conservation actions within these geographies include working with landowners to promote best management practices and using fire, grazing and other management tools to restore remnant and reconstructed prairies and savannas, and monitoring to assess resources present and progress toward established objectives. Less than 200 acres of this landscape remain in the state of Missouri, and working with private and public entities is important to preserve this unique piece of Missouri's heritage. ea Lespedeza M issouri's glacial till prairies are primarily found in the Central Dissected Till Plains region, north of the Missouri River. These prairies are typified by deep, highly fertile soils formed by historic glacial deposits. These fertile soils were attractive to farmers at the time of European settlement, thus many of these prairies were long ago converted for agricultural production. Plant communities of glacial till prairies are dominated by tallgrass species such as Indian grass (Sorghastrum nutans) and big bluestem (Andropogon gerardii), as well as forbs like compass plant (Silphium laciniatum) and pale purple coneflower (Echinacea pallida).
+
+## Prescribed burn at Taberville
+
+## Conservation partners include
+
+Animal communities in glacial till prairies are diverse, typified by a suite of species including generalists (e.g., American badger (Taxidea taxus), gartersnake (Thamnophis spp.)), and habitat specialists (e.g., Henslow's sparrow (Ammodramus henslowii)). Additionally, four animal species of greatest conservation need are found mainly in this prairie type: bobolink (Dolichonys oryzivorus), Henslow's sparrow (Ammodramus henslowii), northern prairie skink (Eumeces septentrionalis septentrionalis), and Franklin's ground squirrel (Poliocitellus franklinii).
+Examples of glacial till prairies include the following priority geographies: Grand River Grasslands, Helton Prairie, Mystic Plains, Pony Express, Prairie Forks, and Tarkio Prairie Conservation Areas. The West Fork of Big Creek, Little Creek, and Big Muddy Creek flow through this landscape and are considered high priorities for prairie stream wildlife. Characteristic prairie fishes include black bullhead, bluntnose minnow, orange-spotted sunfish, and western redfin shiner. The federally listed Topeka shiner has been reintroduced into two of these priority watersheds.
+
+## G l a c i a t e d P r a i r i e
+
+Additional conservation actions include working with landowners to promote best management practices on private lands and using fire and other management tools to restore remnant and reconstructed prairies in the region. Topeka Shiner U n g l a c i a t e d P r a i r i e U nlike the glacial till and loess hill prairies, these grasslands, found south of the Missouri River, were not formed by glacial soil deposition. Thus soils are generally shallower than those on northern prairies, often exhibiting exposed bedrock. Historically, prairie dominated the highest, flattest areas and graded into post oak barrens and savanna on side slopes and into draws.
+The Osage Plains ecoregion, which supports the vast majority of Missouri's unglaciated prairies, stretches from Texas, Oklahoma and Kansas into the southern and western portions of Missouri. This region is characterized by a flat to gently rolling landscape underlain mainly by Pennsylvanian-age shale, sandstone, and limestone. Grasslands in the southern portion of Missouri are generally found in this Osage Plains region or near the Osage Plains border in the western Ozarks.
+Plant communities in the Osage Plains and Western Ozarks may be similarly dominated by tallgrass species, but shorter grasses such as little bluestem (Schizachyrium scoparium), prairie dropseed (Sporobolus heterolepis), and sideoats grama (Bouteloua curtipendula), may be more prevalent. Forb species include blue false indigo (Baptisia australis), orange puccoon (Lithospermum canescens), and pale purple coneflower (Echinacea pallida). Plant species of greatest conservation need include Barbara's buttons (Marshallia caespitosa var. caespitosa) and Mead's milkweed (Asclepias meadii). Animal species of greatest conservation need that can be found in these prairies or associated prairie streams include the northern crawfish frog (Lithobates areolatus circulosus), great plains skink (Eumeces obsoletus), southern prairie skink (Eumeces septentrionalis obtusirostris), blacknose shiner (Notropis heterolepis), Topeka shiner (Notropis topeka) greater prairie-chicken (Tympanuchus cupido), Henslow's sparrow (Ammodramus henslowii), regal fritillary (Speyeria idalia), and prairie molecricket (Gryllotalpa major). The Upper Osage Grasslands Priority Geography encompasses both Taberville and Wah'Kon-Tah Prairies, totaling 3,300 acres of native tallgrass prairie, currently owned by Missouri Department of Conservation and The Nature Conservancy. Beyond the boundaries of public lands lie privately owned remnant prairies that add to the existing conservation network, and other grasslands and cropland that hold significant restoration potential. Conservation partners lead by example with resource management on public land that includes prescribed fire and grazing, hosting workshops and field days to connect the public to the prairies, continued monitoring projects that evaluate past management and shape future actions, as well as providing technical assistance and cost-share funds to landowners.
+Conservation partners include the Farm Service Agency, Missouri Department of Conservation, Missouri Prairie Foundation, Natural Resources Conservation Service, Quail Forever, St. Louis Zoo, The Nature Conservancy, and the U.S. Fish and Wildlife Service.
+
+## S a n d P r a i r i e
+
+## S
+
+and prairies exist on natural levees and terraces with very little sloping on all aspects. Soils tend to be well-drained, very deep, and low in nutrients and organic matter. Additionally, sand prairies have highly erodible, often arid soils. As such, flora and fauna in sand prairies must be adapted to these harsh conditions.
+Examples of flora that flourish in this habitat are little bluestem (Schizachyrium scoparium), jointweed (Polygonella articulata), and Hall's bulrush (Schoenoplectus hallii), as well as various fungi, lichens, and mosses. Additionally, several state-ranked animals occupy these communities, such as the American badger (Taxidea taxus), dusty hog-nosed snake (Heterodon gloydi), eastern spadefoot toad (Scaphiopus holbrookii holbrookii), barn owl (Tyto alba), and northern harrier (Circus cyaneus).
+Within Missouri, this habitat is restricted to areas bordering the Mississippi River in only the southeastern and northeastern regions of Missouri. Even in these areas, high quality sand prairies are rare. Therefore, in Missouri, sand prairies are listed as Critically Endangered (S1) and remain among the most rare natural communities in the state.
+Currently, examples of sand prairie opportunities identified in the state include Frost Island Sand Prairies in the Central Dissected Till Plains, and Southeast Sand Ridge Grasslands in the Mississippi Alluvial Basin.
+
+## S a n d P r a i r i e
+
+C a s e s t u d y : s a n d r i d G e G r a s s L a n d s L o C a t i o n : m i s s i s s i P P i / s C o t t s a n d P r a i r i e C o a Less than 2,000 acres of sand prairies remain in southeast Missouri, all of which has been altered for agricultural purposes. Landowners are essential to sand prairie recovery efforts. Partnerships which promote the conservation of sand prairies through cooperative habitat management, landowner technical support, and programs tailored to recover species of conservation concern are ongoing.
+Rare species include: snoutbean, sand hickory, Hall's bulrush, jointweed, dusty hognosed snake, Illinois chorus frogs, eastern spadefoot toad, and northern harriers, as well as many native bees, sand cicadas, and other insects that we have just begun to learn about.
+Conservation actions include land acquisition and private land partnerships such as incentive programs to protect and enhance small remnants of sand prairies. Restoration and management of these habitats include prescribed burning, seed collection, planting, and invasive species control. Continued monitoring of species that occupy these habitats is critical. 
+
+## S
+
+avanna is a grassland natural community dominated by native grasses and forbs differentiated by widely spaced trees, usually with no more than 30% canopy cover. Missouri savanna communities most frequently occur in the Osage Plains and Central Dissected Till Plains ecoregions on mostly level to dissected plains terrain. The geologic substrate most frequently associated with savannas is Pennsylvanian limestone and sandstone; however, savannas can exist on any upland topography with level to gently rolling contours, regardless of the underlying substrate.
+Savannas are easily identified and differentiated from woodlands by their characteristic canopy cover of less than 30%; whereas woodlands typically have 30-80%. The open canopy is composed of either assorted groupings of various-aged trees or standalone trees and allows for sun-loving prairie grasses and shrubs to dominate the landscape. Typical flora and fauna found in savannas are adapted to full-sun, as well as frequent, low to moderate intensity fires. Historically, low-intensity fire forged these natural communities by repressing establishment of seedling trees, while doing little harm to mature trees. Without natural or anthropogenic fires, savanna natural communities are easily overtaken by trees and succeed into woodland communities.
+Previously, six savanna ecosystems were designated based on soil moisture and substrate material in Missouri. Today, only fragmented samples of these former savannas exist within Missouri. Many savannas today are masked by dense stands of trees that have invaded them in the absence of fire, or their herbaceous layers have been converted to exotic pasture grasses.
+Because savannas are a blend of grassland and woodland habitat structure, their species composition reflects an ecotone between these dominant community types, and species inhabiting savannas tend to be habitat generalists or edge species that are able to exploit both grassland and woodland characteristics. The precise composition often fluctuates as the dominance of grasses vs shrubs shifts in the understory spatially and temporally due to fire and successional stage. Species inhabiting savannas include whitetailed deer (Odocoileus virginianus), coyote (Canis latrans), eastern cottontail rabbit (Sylvilagus floridanus), red-headed woodpecker (Melanerpes erythrocephalus), loggerhead shrike (Lanius ludovicianus), red-tailed hawk, (Buteo jamaicensis), and eastern bluebird (Sialia sialis). Many grasses, shrubs, and trees also thrive in the savanna landscapes including little bluestem (Schizachyrium scoparium), American hazelnut (Corylus americana), and bur oak (Quercus macrocarpa).
+Locations exhibiting savanna habitat in Missouri include Union Ridge Conservation Area (Spring Creek Watershed Priority Geography) and Ha Ha Tonka State Park. The Missouri-Iowa Woodland/Savanna Geography is a landscape of natural community management that includes portions of five Missouri counties and continues into Iowa. Additionally, this geography encompasses both Spring Creek Watershed and Thousand Hills COAs. This aggressive and sweeping effort is designed to capture previously overlooked tracts of degraded woodland, savanna, and prairie communities -the majority of which are contained on private land. Historically, fire shaped the composition of these savanna communities. The variable geography of this region afforded diverse fire behavior and less-intense pressure from row crop production; which in turn, offers more restorable savanna remnants than other nearby landscapes.
+
+## S a v a n n a
+
+Restoration efforts have focused on removal of undesirable woody species, reintroduction of prescribed fire, chemical treatment of exotic species, and conversion of exotic grasses to native grasses and forbs. An example of success is the Roeslein property in southern Putnam County, a 1,600 acre complex on which the Roesleins have employed all the mentioned practices with superb results. Although their savanna restoration is ongoing, past efforts have enhanced hundreds of acres of savanna and prairie natural communities. The result of these efforts have been extremely rich, post-oak savanna habitats containing plant species such as rough blazing star, showy goldenrod, and New Jersey tea. 
+
+## Conservation partners include
+
+## W e t P r a i r i e
+
+W et prairies are a critically imperiled community type in Missouri with an estimated acreage loss of 99.6%. Wet prairies are defined by a dense cover of perennial grasses mixed with forbs and sedges and typically occur on floodplains of narrow and large rivers and occasionally in upland prairie depressions or swales. Soils are often saturated due to high clay content, with seasonally high water tables and standing water present during the spring and winter or after heavy rains.
+Wet prairies support a variety of species, such as American bitterns (Botaurus lentiginosus), yellow rails (Coturnicops noveboracensis), sedge wrens (Cistothorus platensis), meadow voles (Microtus pennsylvanicus), meadow jumping mice (Zapus hudsonius), plains leopard frogs (Lithobates blairi), and many species of snakes, including: foxsnakes (Pantherophis vulpinus), ribbonsnakes (Thamnophis proximus proximus), gartersnakes (Thamnophis spp.), watersnakes (Nerodia spp.), and the state-endangered prairie massasauga rattlesnake (Sistrurus tergeminus tergeminus).
+Representative wet prairie habitats include Loess Bluffs National Wildlife Refuge (formerly Squaw Creek), Lower Grand Conservation Opportunity Area, Marmaton River Bottoms Preserve, Douglas Branch Conservation Area, Ripgut Prairie Natural Area, Four Rivers Conservation Area, and Flight Lake Conservation Area. The unprecedented decline of wet prairie habitat across Missouri is a major concern to the Missouri Department of Conservation and many conservation partners. During 2013 and 2014, Department staff restored a total of 86 acres of remnant wet bottomland prairie on 3 conservation areas in Vernon and Bates counties, including Flight Lake (46 acres), Douglas Branch (32 acres) and Ripgut Prairie Natural Area (18 acres). Portions of these wet prairies had become degraded due to altered hydrologic regimes and limited management abilities, including the use of prescribed fire. As a result, these areas experienced encroachment by early successional woody species, including buttonbush, willow, silver maple, green ash, and cottonwood.
+
+## W e t P r a i r i e
+
+To restore the remnant wet bottomland prairie, area managers used prescribed fire and mechanical equipment to remove woody cover. Post tree and shrub removal, natural grass and forb recruitment was allowed to occur from an existing, viable seed bank with-in the soils on the areas.
+The Department also plans to complete additional wet prairie reconstruction on Douglas Branch Conservation Area and Ripgut Prairie Natural Area during the fall of 2015. Continued management will involve a combination of treatments including the use of burning, herbicide, and haying to maintain these areas as open wet prairie.
+
+## F O R E S T A N D W O O D L A N D C O N S E RVAT I O N
+
+O v e r v i e w W ooded lands comprise just over one third of the total land area in Missouri. Totaling 15.5 million acres, it's not hard to see why they are one of Missouri's most valuable resources. Financially, the forest products industry provides jobs to thousands of Missourians and contributes billions of dollars to the state's economy annually. Additionally, our forests and woodlands provide excellent recreational opportunities, ranging from walking and sightseeing to fishing and hunting; all of which encourage people to engage with nature and serve to improve the quality of life for Missouri citizens and visitors. The large tracts of forest and woodland also provide tremendous ecological benefits in the form of clean air and water and extremely diverse natural communities for wildlife.
+While the titles "forest" and "woodland" are often used interchangeably for all wooded lands, "woodlands" have been treated as a unique community type since the early 2000s, as such, have their own management prescriptions. Forests are defined as those areas that are dominated by trees forming a closed canopy, often comprised of multiple overlapping layers. The midstory and understory contains a variety of shade-tolerant woody species, and a sparse herbaceous vegetative layer will likely be present in the understory. Woodlands are characterized by areas with a 30%-100% canopy closure. They have a sparse woody understory or midstory which allows more sunlight to penetrate to the ground. This in turn produces a dense ground cover containing a variety of forbs, grasses, and sedges. Fire plays a large role in the restoration and maintenance of woodland habitat systems.
+Forests and woodlands are rich in floral and faunal diversity. An incredible amount of plant diversity can be observed within any given tract of wooded land. This variety of plant species and structure is dependent upon factors such as soil substrate, temperature, topography, aspect, and availability of moisture. The independent way in which any of these elements combines creates a broad spectrum of circumstances that supports different plant species and creates a mosaic of habitats across the landscape. This plant diversity, in turn, supports a tremendous number of terrestrial and aquatic faunal species.
+Healthy forest and woodland systems provide this variability of habitat, which supports both generalist and specialized animal species. These natural communities have abundant nesting, cover, and foraging sites to attract many generalists: the black bear (Ursus americanus), sharp-shinned hawk (Accipiter striatus), and Diana fritillary (Speyeria diana) are species that can be found throughout the matrix of forest and woodland systems. Other species, such as the Indiana bat (Myotis sodalis), Ozark zigzag salamander (Plethodon angusticlavius), and Swainson's warbler (Limnothlypis swainsonii) are very specialized in their needs and have particular nesting or foraging requirements, only offered by specific elements of forests or woodlands. Another important and often overlooked aspect of forests and woodlands is their role in protecting and enhancing water quality. Healthy forests and woodlands retain soil, absorb nutrients, slow runoff, and allow for water infiltration, so it can also be said that many of Missouri's fish and other aquatic species are dependent upon forests and woodlands as well.
+Example characteristic forest wildlife species include: the wood frog (Lithobates sylvaticus), Acadian flycatcher (Empidonax virescens), western slimy salamander (Plethodon albagula), and southeastern bat (Myotis austroriparius).
+Example characteristic woodland wildlife species include: red-headed woodpecker (Melanerpes erythrocephalus), prairie lizard (Sceloporus undulatus hyacinthinus), three-toed box turtle (Terrapene carolina triunguis), and timber rattlesnake (Crotalus horridus). 
+
+## M
+
+any natural and human-caused disturbances threaten Missouri's forested ecosystems. Destructive pests, changing weather patterns and extreme weather events, invasive species, and human and animal actions are all stressors that can affect the health of our wooded communities and lead to a decline in the countless benefits that our forest and woodland habitats provide.
+
+## Loss of Forest and Woodland Habitat
+
+Fragmentation, conversion, and degradation of habitat are among the greatest threats to forest and woodland ecosystems. Every year, wooded acres are lost to the creation of fields, roads, and urban structures. Incompatible logging practices and the alteration of waterways change the area's hydrological regime leading to the loss of productivity. The conversion of these acres from a forest or woodland disrupts the continuity of habitat. This fragmentation creates more forest edge, changing the composition and structure which eventually leads to a change in the species that utilize that area.
+A change in the use of fire and intensive grazing are the primary causes of woodland habitat degradation. The application of fire is what maintained many areas in a woodland state. The absence of fire has allowed some of these dry woodlands to lose components of their plant cover and diversity and gradually progress to a more forested system. One of the most noticeable changes of this conversion is the lack of pine regeneration as the overstory becomes more closed. Cutting, followed by lack of seed trees, loss of fire, and oak overstocking have converted oak-pine woodlands to hardwood stands and currently impede their redevelopment.
+
+## Pests and Diseases
+
+There are several insects and diseases that are of particular concern in Missouri. Most of these problems are caused by exotic species like the emerald ash borer (Agrilus planipennis), but some of these threats, like red oak decline are native and pose a serious threat to the oak community. There is no single cause for red oak decline, rather it is believed to be a complex interaction of environmental stresses and pests to which the red oak group is more susceptible due to age and where they grow. Oak wilt is a serious disease that affects many species of oak trees in forests, woodlots, and urban landscapes. This aggressive disease is caused by a fungus that is easily transported as fungal mats under the bark of infected wood such as firewood. The emerald ash borer (EAB) is an exotic pest that primarily attacks ash trees. While ash is a relatively small component of Missouri's forested ecosystems, EAB poses a significant threat to our urban landscapes where ash trees can be found in greater numbers.
+Due to the potential for devastating ecological and economic effects, Missouri is diligent in monitoring for new and potential threats. The gypsy moth (Lymantria dispar), for example, targets oak species. Individual gypsy moths have been found in Missouri in the past, so yearly surveys are conducted with pheromone-scented traps to continually monitor gypsy moth occurrences and distribution. Currently Missouri does not have an established gypsy moth population. Other forest pests and diseases that are not known to be established in Missouri include the Asian longhorned beetle (Anoplophora glabripennis) which attacks a variety of hardwood species, and thousand cankers disease, which can be found on any of the
+
+## H a b i t a t S y s t e m T h r e a t s
+
+## F O R E S T A N D W O O D L A N D C O N S E RVAT I O N
+
+walnut species (Juglans spp.) but primarily affects black walnut (Juglans nigra).
+
+## Invasive plant species
+
+There are several exotic plant species that threaten the biodiversity and productivity of Missouri's wooded communities. Whether purposely introduced like autumn-olive (Elaeagnus umbellata) for a windbreak and wildlife food and cover or sericia lespedeza (Lespedeza cuneata) for forage and erosion control, or accidentally, these invasive species cause tremendous problems for native flora and fauna. Without the predators, parasites, or environmental factors that kept these plants in check in their native environment, they often thrive and out-compete native species. Though the exotic species often form a dense herbaceous layer, they seldom provide a quality food source to wildlife. Other invasive that affect our forested systems include bush honeysuckles (Lonicera morrowii, L. maackii), garlic mustard (Alliaria petiolata), roundleaved bittersweet (Celastrus orbiculatus), and wintercreeper (Euonymus fortunei).
+
+## Invasive and Large Animal Impacts
+
+Feral hogs, domestic livestock, and even white-tailed deer can impact tree and forest health. Overgrazing by cattle or deer can lead to compacted soils and loss of herbaceous vegetation and seedling regeneration. Feral hogs are extremely destructive; their rooting destroys the ground flora, causes erosion, and can damage trees. Feral hogs also compete directly with the native wildlife for food and eat native wildlife species.
+
+## Weather Events and Climate Change
+
+The weather can have significant impacts on the health of our wooded ecosystems. Changes in global climate and conditions, and the frequency of extreme weather events (i.e., tornadoes, ice storms, etc.) can have direct impacts like tree mortality and damage, but they can also affect the forests indirectly by increasing a system's vulnerability to diseases and insects.
+
+## H a b i t a t S y s t e m T h r e a t s ( C o n t i n u e d )
+
+## F O R E S T A N D W O O D L A N D C O N S E RVAT I O N
+
+## Feral Hog
+
+The Missouri Ozark Forest Ecosystem Project Initiated in 1991, The Missouri Ozark Forest Project (MOFEP) is one of the most comprehensive ecological investigations of forest response undertaken in upland oak ecosystems. Great attention has been given to the design of the MOFEP experiment and to coordination of numerous associated research studies examining response of vegetation, downed wood, fungi, birds, small mammals, herpetofauna, invertebrates, and genetics to forest management including even-age, uneven-age, and shelterwood management. Soil, geolandforms, ecological land types, and climate are also studied. This project will offer valuable data in a long-term, top-to-bottom study of the Ozark forest resource and provides the foundation to decide the best ways to satisfy demands for wood products while ensuring the survival of healthy forest ecosystems (Missouri Department of Conservation, 1994).
+In the twenty-five years since its inception, MOFEP has grown from a cooperative research effort between the Missouri Department of Conservation and the University of Missouri, to a platform that includes and supports studies conducted by multiple universities and the U.S. Forest Service.
+
+## Integrated Pest Management and Missouri Invasive Forest Pest Council
+
+The most effective defense against natural and human caused disturbances is a resilient ecosystem. Integrated Pest Management (IPM) is a sustainable approach to managing pest problems that supports plant/ecosystem health and minimizes negative non-target impacts. This process encourages managers to use all of their available tools in a proactive and preventative manner, so that potentially destructive elements are kept from reaching the threshold of economic or bio-logical damage. One of the goals of IPM is to monitor and assess potential pest impacts, to manage for those pests, not necessarily work to eradicate them. Each threat has a cycle or pattern that it follows. IPM requires that we understand those cycles, and are aware of the point that is most advantageous for interrupting the cycle to keep that pest manageable.
+The Missouri Invasive Forest Pest Council (MIF-PC) is a cooperative group of public agencies that plans and coordinates readiness and response activities in Missouri for invasive forest insect and disease pests. It is composed of state, federal, and university partners with responsibilities for public land management, plant regulatory activities, and providing natural resource management information to the public. The Missouri Invasive Forest Pest Plan, developed by MIFPC, presents a framework for consistent, coordinated responses to invasive forest insects and diseases. MIFPC coordinates the annual detection surveys for the gypsy moth, emerald ash borer, thousand cankers disease, and other invasive forest pests and coordinates outreach, regulatory, and management activities to reduce introductions and to respond to detections of invasive forest pests in Missouri.
+Major partners in MIFPC to date have included the Missouri Department of Agriculture, the USDA -Animal and Plant Health Inspection Service; the U.S. Forest Service, Mark Twain National Forest; Missouri Department of Conservation; the Missouri Department of Natural Resources, the University of Missouri Extension; Natural Resources Conservation Service; and State and Private Forestry, Forest Health Protection.
+
+## Forest and Woodland Management Plans
+
+Forest and woodland management plans are developed for wooded ecosystems to incorporate the use of IPM, prescribed burns, and a multitude of silvicultural prescriptions geared toward the conservation of forest and woodland biodiversity. Reforestation efforts of bottomland species in riparian zones and the reintroduction and management of shortleaf pine in the woodland systems of the Ozark Highlands are slowly increasing those native communities. Some silvicultural treatments are used to regenerate forested stands, others are used to manage the structure and/or composition in existing stands, but all of them dictate the resulting habitat. The biodiversity of each stage of a stand's succession plays a vital role in wildlife management. Removal of timber, whether by mechanical methods of thinning or harvesting, use of fire, or chemical application, works to reset an area to an earlier stage of succession, whether the goal is to have a closed forest or open woodland. The differentiating factor between these two systems is the intensity of the management tool used. Land managers use a combination of these methods to create and maintain a spectrum of habitats across the landscape.
+While most of the state and federally owned forests in Missouri are managed for long-term health and sustainability, creating wildlife habitat is also a major goal of forest management. Within Missouri, the Missouri Department of Conservation and other conservation partners are constantly working to build relationships with private landowners and developing management goals and prescriptions to increase the level of private land management, ensuring that forested land conservation doesn't stop at the borders of public lands. Through these partnerships, manage-ment plans are written and assistance is provided in completing on-the-ground activities.
+There are many examples of collaborative conservation efforts being conducted in Missouri's forest and woodland priority geographies. Big Buffalo Creek Watershed, Little Niangua River, Mahan's Creek Watershed, and Shoal Creek Woodlands are all priority geographies that are being managed to restore and maintain healthy, functioning forest-woodland watersheds and stream systems around the Ozark Highlands. Missouri River Hills is another priority geography that holds the largest contiguous tract of forests and woodlands in Missouri north of the Missouri River. This area is being managed to improve woodlands, bottomland forests, and glades that support fish and wildlife.
+Another example of cooperative conservation is the Current River Watershed Freshwater and Sustainable Forestry Program that The Nature Conservancy (TNC) is spearheading through funding they received from a the U.S. Forest Service grant. TNC is using the grant to help Ozarks landowners change land management practices by funding technical assistance, planning resources, and field demonstrations on Ozark woodland management.
+
+## H a b i t a t M a n a g e m e n t A c t i o n s ( C o n t i n u e d )
+
+## F O R E S T A N D W O O D L A N D C O N S E RVAT I O N
+
+G laciated forests are found in the Central Dissected Till Plains of northern Missouri. They are strongly associated with loess and limestone/dolomite soils, and tend to be found on upper to mid-slopes up to the ridges and summits. Typically found on north and east aspects, the glaciated forest prefers deep, moderately well-drained soils that are slightly acidic.
+These forested stands are commonly mixed hardwoods with multiple vertical layers. White oak (Quercus alba), northern red oak (Quercus rubra), sugar maple (Acer saccharum), white ash (Fraxinus americana), and an assortment of hickories (Carya spp.) dominate the overstory of these dry upland forests. Additionally, a tremendous variety of shade-tolerant trees and shrubs combine to create the mid-canopy layer, including Ohio buckeye (Aesculus glabra), eastern hop hornbean (Ostrya virginiana), slippery elm (Ulmus rubra), eastern redbud (Cercis canadensis), and spice bush (Lindera benzoin).
+Typically a rich layer of ground flora, especially in the spring, will become increasingly more patchy as summer progresses. May apple (Podophyllum peltatum), white bear sedge (Carex albursina), Virginia creeper (Parthenocisssus virginiana), trilliums (Trillium spp.), and red honeysuckle (Lonicera dioica) are just a few of the species that can be found scattered across the forest floor. Dark Hollow Natural Area falls along the dividing line of the Unionville Upland Prairie Plain and the Upper Chariton River Woodland/ Forest Hills. Historically the rugged, dissected hills in northern Missouri consisted of narrow ridgetop prairies that graded into woodlands, forested slopes, and valleys. This public area within the Spring Creek Watershed Priority Geography is managed for savanna, woodland, and forest. Forest types include dry-mesic loess/glacial till forest and mesic loess/glacial till forest. There are less than 1,300 acres of dry-mesic loess/glacial till forest in the state and approximately 34% is found in northeastern Missouri. Encroachment of invasive plant species, lack of prescribed fire, grazing, and excessive logging are threats to glaciated forests and their associated species.
+
+## G l a c i a t e d F o r e s t
+
+## F O R E S T A N D W O O
+
+Several conservative forest plants occur here including false hellebore, blue cohosh, lady fern, and spikenard. The federally endangered Indiana bat and the federally threatened northern longeared bat use the forest for foraging and maternity roosts. Updated Indiana bat and northern long-eared bat management guidelines are in place to ensure management on public lands benefits these two species. The U.S. Forest Services' Northern Research Station has a long-term study titled "Composition and Structure of Oldgrowth Hardwood Forests in the Midwest" that shows an increase in ironwood and decrease in desirable oak species at Dark Hollow. The Missouri Department of Conservation used these data in the Forest Management Plan.
+Current management includes reducing the ironwood understory and sugar maple on ridgetops down to mid-slope. Select harvesting and prescribed burning, to encourage oak regeneration and groundcover diversity, are planned management activities. Forest management on private lands is another important component of forest conservation in the Spring Creek Watershed Priority Geography.
+Conservation partners include the Missouri Department of Conservation, National Wild Turkey Federation, and the U.S. Fish and Wildlife Service.
+
+## F O R E S T A N D W O O D L A N D C O N S E RVAT I O N
+
+M ixed stands of oak and pine can be found in the Ozark Highlands ecoregion of the state. They perform best in chert soils that are well drained, moderately deep, and strongly acidic. These forests are most often located on moderately steep north-and east-facing slopes. On occasion, the oak/pine mixed stands will be found in igneous soil types.
+These natural communities are generally comprised of an overstory with a variety of oaks (Quercus, spp.), hickories (Carya, spp.), and shortleaf pine (Pinus echinata), which is the only pine native in Missouri. The understory consists of shade-tolerant trees and shrubs over an irregular layer of herbaceous ground cover. Flowering dogwood (Cornus florida), red maple (Acer rubrum), serviceberry (Amelanchier arborea), black cohosh (Cimicufuga racemose), Christmas fern (Polystichum acrostichodies), and blue phlox (Phlox divaracata) are among the species that can commonly be found here. 
+
+## O z a r k O a k -P i n e F o r e s t
+
+## F O R E S T A N D W O O D L A N D C O N S E RVAT I O N
+
+Few regions today preserve the wild and natural beauty of the Ozarks as well as Sunklands Conservation Area. Sunklands is the largest conservation area in the state at 40,589 acres. Sunklands contains a wide variety of natural communities including glades, woodlands, sinkhole ponds, and forests. Oak-pine forest natural communities are found along lower slopes of exposed aspects and upper slopes of the protected aspects near the upper Current River in northern Shannon County. These communities provide for a wide variety of important habitat for several bird species including whippoor-will, ovenbird, Chuck-will's-widow, Carolina chickadee, pine warbler, white-breasted nuthatch, Cooper's hawk, yellow-throated warbler, and worm-eating warbler. Reptiles and amphibians associated with mature oak-pine forests include long-tailed salamander, dark-sided salamander, southern red-backed salamander, threetoed box turtle, ground skink, western worm snake, western earth snake, and American toad.
+Sunkland's oak-pine forest communities are managed through sustainable forest management practices which include thinning and regeneration type harvests. The forest management prescriptions are determined through a detailed stand-level forest inventory that is repeated every 20 years. This scientific-based inventory system helps determine which silvicultural management techniques will be used. This ensures that the forest natural communities are sustainable over the long term and that they will continue to provide a diverse forest structure that can be used by a wide array of forest-dependent wildlife.
+Forest management field days have been held on Sunklands Conservation Area throughout the years. Field day participants have included local landowners, area users, and non-governmental organizations such as Pioneer Forest and The Nature Conservancy. These field days help aid communication with stakeholders regarding the importance of sustainable forest management in the area.
+T he hardwood forests of the Ozarks are generally associated with the limestone/ dolomite, chert, and sandstone soil types. While these forested stands can be found in soils that range in depth from fairly shallow to very deep, they are consistent in their preference of acidic, north-facing or east-facing slopes that are well drained.
+These hardwood forests typically have very distinct vertical layers. The tall overstory usually provides 75-100% canopy cover and often contains a mixture of white oak (Quercus alba), northern red oak (Quercus rubra), sugar maple (Acer saccharum), American basswood (Tilia americana), sweetgum (Liquidambar styraciflua), and a variety of hickories like pignut hickory (Carya glabra), shagback hickory (Carya ovata), and mockernut hickory (Carya tomentosa). A sub-canopy of shorter stature trees is often present, as well as an understory of shade-tolerant small trees, shrubs, and canopy saplings. The very diverse, herbaceous ground cover consists of shrubs, sedges, ferns, and vernal forbs. The Meramec River Hills Priority Forest Landscape is located in east-central Missouri, 50 miles southwest of St. Louis. These forests are on the northern fringe of the Missouri Ozarks. Clear, spring-fed creeks and streams dissect the area, creating a rugged terrain consisting of steep slopes and narrow valley bottoms. The landscape is home to many species of wildlife, including the cerulean warbler, Kentucky warbler, Acadian flycatcher, and wood thrush.
+Management efforts in this landscape focus on mitigating a handful of stressors. Much of the forest in this landscape is evenaged, resulting in a less diverse canopy structure for wildlife. Forest health concerns are also in the spotlight. Some are due to red oaks maturing to the point of natural mortality and others are still a mystery, such as the recent onset of Rapid White Oak Mortality. In the absence of wildfire, these forests face an increased abundance of shade-tolerant species in the understory and subsequent reduction of oak recruitment. They are also experiencing more frequent occurrences of invasive plant species such as bush honeysuckle.
+The Missouri Department of Conservation owns and manag-es several large tracts within this landscape including Huzzah, Pea Ridge, Meramec, and Little Indian Creek conservation areas. Forest management on these areas is aimed at improving the structure and composition of these mostly even-aged forests through management that mimics natural disturbances. Current practices include controlling invasive species, thinning, harvests with more emphasis on uneven-aged management, and the use of low-intensity prescribed fire to establish oak regeneration. Also, research is underway to ascertain the nature of forest health threats and how to best manage them.
+Conservation partners include the Missouri Department of Conservation, Missouri Department of Natural Resources, National Wild Turkey Federation, Ozark Regional Land Trust, The Nature Conservancy, the U.S. Forest Service, and the U.S. Fish and Wildlife Service.
+T he term "bottomland forests" can be used to cover a variety of wooded systems. True bottomland forests occur in seasonally wet sites associated with alluvial soils that are generally more productive than upland soils. These areas typically have very deep, well-drained soils that tend to have moderately acidic to neutral pH levels. Bottomlands are commonly found along intermittent or perennial streams and rivers that are seasonally flooded and/or saturated in fall, winter, or spring with a high water table. Flooding is normally shallow and can last more than a month. In areas with higher clay content, the poorly drained soils can remain saturated and wet for significant periods of the year. Several species can be found in the overstory of these wet wooded areas such as bur oak (Quercus macrocarpa), pin oak (Quercus palustris), sycamore (Platanus occidentalis), silver maple (Acer saccharinum), cottonwood (Populus del-toides), and black walnut (Juglans nigra). The understory is more open and will contain a variety of vines and shrubs as well as sparse herbaceous ground cover. Spicebush (Lindera benzoin), blue beech (Carpinus caroliniana), poison ivy (Toxicodendron radicans), and an assortment of sedges (Carex spp.) are just a few of the species found here.
+Riverfront bottomland forests or riparian forests can be found in floodplains along major river systems and streams. These communities have many of the same species listed above, but can have a poorly structured canopy with variable heights and age classes depending on their relationship to recently deposited sediments and organic materials. The understory is usually sparse and open due to flooding and inundation, and high velocity overflow creates a scouring effect that can lead to unevenly developed patches of ground flora.
+
+## B o t t o m l a n d F o r e s t
+
+## F O R E S T A N D W O O D L A N D C O N S E RVAT I O N
+
+Bottomland forest at Shaw Nature Reserve is best represented by the flood plain of the Meramec River. Characteristic trees in this area include sycamore, cottonwood, silver maple, elm, and box elder. Shaw Bottomland Forest State Natural Area is an area of old-growth forest within this younger forest that has never farmed and is dominated by large specimens of bur oak, northern red oak and shellbark hickory. In spring, wildflowers abound, including several violet species, blue phlox, and large swaths of Virginia bluebells. During the spring migration, many neotropical migrant birds use the forest to forage as they continue their northward migration. Bird species such as the indigo bunting, northern parula, and prothonotary warbler use the forest for breeding and rearing young. The cerulean warbler, a species of conservation concern and greatest conservation need, has been noted in this area. Winter creeper and garlic mustard are invasive species of concern in Shaw Nature Reserve.
+Conservation management within Shaw Nature Reserve consists of a wide array of native flora plantings and natural community reconstruction and restoration projects including tallgrass prairie, dolomite glades, woodlands, savannas, forests, and a variety of wetlands.
+Conservation partners include GrowNative!, Missouri Department of Conservation, Missouri Department of Natural Resources, Ozark Regional Land Trust, Missouri Botanical Garden, and many others. The tree canopy is extremely variable, ranging from a very open canopy at 30% coverage to a fuller 80% closure, and usually has a moderate height that can fluctuate from 30-90 feet. Post oak (Quercus stellata), white oak (Quercus alba), bur oak (Quercus macrocarpa), black oak (Quercus veluntina), and shagbark hickory (Carya ovata) are all common components of the overstory.
+
+## B o t t o m l a n d F o r e s t
+
+The understory can be sparse and is often evenaged depending on the frequency and intensity of fire. While the ground flora is generally rich and abundant, it can be patchy, depending on the fire regime. Fragrant sumac (Rhus aromatica), a variety of sedges (Carex spp.), and many asters, goldenrods, and sunflowers are common to this habitat.
+
+## G l a c i a t e d W o o d l a n d
+
+## F O R E S T A N D W O O D L A N D C O N S E RVAT I O N
+
+Located in Adair, Putnam, and Sullivan counties, Spring Creek Watershed Priority Geography is the best example of prairie-savanna-woodland habitat systems in North Missouri. Woodland types include dry-mesic loess/glacial till woodland and dry loess/glacial till woodland. Both types of woodlands are found predominantly in the northern and eastern portions of the state.
+Dry loess woodlands typically have a sparse to moderate understory (depending on fire frequency) that is dominated by oaks and shrubs. This woodland type is often found in dissected plains and hills on mid-and upper-slopes. Dry-mesic loess woodlands have a fairly open understory depending on fire frequency/coverage, and can be found in dissected plains on mid-to upper-backslopes and ridges.
+Glaciated woodlands are threatened by excessive logging, lack of prescribed fire, urban development, and invasive species. Current management at Union Ridge Conservation Area, located within the Spring Creek Watershed Priority Geography, includes thinning the canopy and understory where it is necessary, and using prescribed fire to encourage oak regeneration and increase ground cover diversity. T he oak-pine woodlands of the Ozark Highlands are found on ridges and backslopes, escarpments and knolls up to the mountain tops. These mixed oak-pine stands are common in the well-drained and shallow chert, sandstone, and igneous soil types. These soils tend to be extremely to moderately acidic and have a lower fertility. Though this habitat is most often found on south-and west-facing slopes, they can occur on all aspects.
+
+## Conservation partners within
+
+The structure of this community is largely influenced by the presence of fire, but the positioning of these habitats on the upper reaches of slopes and ridges and the dry nature of the sites makes them more susceptible to the effects of drought, wind, and lightning. Shortleaf pine (Pinus echinata), post oak (Quercus stellata), black oak (Quercus veluntina), white oak (Quercus alba), scarlet oak (Quercus coccinea), and shagback hickory (Carya ovata) dominate this open-canopied overstory. The understory consists of small trees like sassafras (Sassafras albidum) and oak shrubs that occur in gaps and patches depending in the frequency of fire and rocky outcroppings in the landscape. The herbaceous flora can vary from a sparse layer to a rich ground cover of little bluestem (Schizachyrium scoparium), tick trefoil (Desmodium nudiflorum), and many more species.
+Pine woodlands were once a major natural community in the Missouri Ozarks, but extensive logging during the late 1800s and early 1900s devastated those vast communities. Oaks then spread into most of the former pinelands. However, today, some scattered pine woodland communities, mostly on public lands, are being managed to preserve this important natural community.
+
+## O z a r k O a k -P i n e a n d P i n e W o o d l a n d s
+
+## F O R E S T A N D W O O D L A N D C O N S E RVAT I O N
+
+Pioneer Forest, owned by the L-A-D Foundation, is the largest private landholding in Missouri. Although the land is private, the Foundation allows normal public use and recreation. The Virgin Pine Tour route along Highway 19 features large pines over 200 years old. This was the last known location in Missouri for the federally endangered red-cockaded woodpecker. Pioneer Forest staff recognized that the old pines are gradually dying, and few new pines were replacing them. Pines need open woodland conditions and bare mineral soil to regenerate, and these woodlands were severely overgrown.
+The Virgin Pine area was thinned and a commercial harvest was conducted in an adjacent tract to favor the pine, white oak, and post oak. Prescribed fire was needed to complete the restoration work, but Pioneer Forest has a small staff and they did not have the resources to conduct a prescribed burn by themselves. The Nature Conservancy assisted the efforts with both staff and equipment to help conduct the first prescribed fire on Pioneer Forest land in Glades are best categorized by associated bedrock type: limestone, dolomite, sandstone, igneous, and chert. Igneous, sandstone, and chert glades support plant, lichen, and moss species that prefer acidic substrates, while plant communities on limestone and dolomite glades are more adapted to alkaline soils. In Missouri, the most abundant glade habitat is found in the Ozark Highlands ecoregion of the state; however, a handful of glades are located in both the Osage Plains and Central Dissected Till Plains ecoregions. In general, within Missouri, dolomite glades can be found across most of the Ozark Highlands; limestone glades along the west and north borders of the Ozark Highlands; sandstone glades scattered across the northern half of the Ozark Highlands, with more dense communities on the west and north Ozark border; igneous glades are limited to southeast Missouri; and only an estimated 60 acres of chert glades remain in extreme southwest Missouri.
+A few Missouri animals are well adapted to living on glades. These species, like the greater roadrunner (Geococcyx californianus) and eastern collared lizard (Crotaphytus collaris) are frequently found in the arid southwest of the United States, but find similar, suitable conditions in glade systems within Missouri. Invertebrate species strongly associated with glades include Missouri tarantula (Aphonopelma hentzi), striped bark scorpion (Centruroides vittatus), and multiple grasshopper species, such as, Pardalophora saussurei and Amblytropidia mysteca. Though not restricted to glades, many bird species are also commonly associated with glades, including Bachman's sparrow (Aimophila aestivalis), yellow-breasted chat (Icteria virens), and painted bunting (Passerina ciris). 
+
+## Overgrazing, Woody Species And Fragmentation
+
+Historic and continued overgrazing of glades within Missouri has led to substantial erosion of delicate glade soils and lowered species diversity. Overgrazing, in combination with the absence of fire, has also aided in significant encroachment by woody species, predominantly eastern red cedar (Juniperus virginiana) and winged sumac (Rhus copallina), over many of Missouri's glades. These native, woody species are quick to take hold and overwhelm native grasses and forbs, greatly reducing plant diversity and creating physical barriers, further fragmenting the landscape. These physical barriers of woody vegetation limit movements of glade fauna between glade openings, resulting in loss of genetic diversity among populations.
+
+## Invasive Species
+
+Like most of Missouri's other habitat systems, an ever-growing list of invasive plant species continuously threaten glades. Species such as sericea lespedeza (Lespedeza cuneata), spotted knapweed (Centaurea maculosa), tall fescue (Festuca arundinacea), yellow sweet clover (Melilotus officinale), teasel (Dipsacus spp.), and crown vetch (Securigera varia) aggressively outcompete native grasses and forbs, forming dense monocultures which reduce the overall plant species richness and structural diversity of these glade communities.
+
+## Development and Exploitation
+
+Commercial and residential development remains a threat to glades as these open areas are developed due to their ridgetop locations and the open, scenic views they provide. In addition, due to proximity to development, some glade systems are also threatened by quarrying of the valuable bedrock beneath them. Soil disturbance resulting from these activities leads to further erosion and soil loss. Digging of glade plants and collection of animal species are also common in these systems, and result in further erosion as well as loss of genetic diversity. The protection of existing soils and establishment of a broad diversity of native plants and subsequent maintenance of heterogeneous vegetative structure that benefits an equally broad diversity of glade-dependent wildlife remains a high priority for public and privately-owned glades. Prescribed burning, mechanical tree and brush removal, and herbicide treatment will continue to be important tools to keep woody vegetation and invasive species at bay.
+To mitigate the cost associated with glade restoration and management activities, the Department, as well as other partner organizations, has cost-share and incentive programs available for private landowners aimed at improving glade communities on private property. The majority of the available resources are associated with the removal of woody and invasive species. One such program, focused primarily on glade and woodland restoration, is a five-year Region-al Conservation Partnership Program (RCPP), administered through the Natural Resources Conservation Service. RCPP encourages partners to join in efforts with producers to increase the restoration and sustainable use of soil, water, wildlife, and related natural resources on regional or watershed scales. This particular project involves a collaborative effort among the Department, the Missouri Department of Natural Resources, U.S. Fish and Wildlife Service, the Forest and Woodland Association of Missouri, and ten Soil and Water Conservation Districts in southeast Missouri. The objectives of this project include the management and/or restoration of 4,000 acres of glades and associated woodlands, forest management activities on 500 acres of forestland and applied conservation practices on 500 acres of pasture and cropland all on private property.
+
+## Cedar removal
+
+## G L A D E C O N S E RVAT I O N C h e r t G l a d e
+
+## C
+
+hert glades are a globally restricted, terrestrial habitat found only in southwest Missouri along Shoal Creek and its tributaries near Joplin. With scarcely 60 acres remaining, they are the most limited type of glade in the state, and therefore considered highly imperiled.
+Chert glades are found on ridges, slopes, and valleys along streams with 3-15% sloping on all aspects. The soil depths range from shallow to very shallow (0-20 inches), and are well drained and strongly acidic, with low soil fertility. Because chert bedrock is impervious, this glade type is very susceptible to drought. Vegetation height remains relatively low (maximum 2-3 feet), and the ground layer is composed of forbs, grasses, sedges, lichens, and mosses. Due to much slower weathering, fewer woody species tend to invade chert glades. The unique assemblage of species here includes widow's cross and Nutall's sedum, rock pink, prickly pear, selenia, hairy lip fern, and Barbara's buttons, along with abundant lichens and mosses. When necessary, mechanical means are used to remove invasive woody species. Some post oaks on the glade were determined to be over 150 years old, but, restrained by almost solid rock, are less than 20 feet tall. Few animals make chert glades their home, but lichen grasshoppers and Missouri tarantulas are often seen.
+
+## C h e r t G l a d e
+
+Conservation partners include the City of Joplin, Missouri Department of Conservation, Missouri Master Naturalists, National Audubon Society, Ozark Gateway Audubon Chapter, Master Gardeners, numerous local universities, area schools, and area businesses. This natural community type tends to be exposed to intense solar radiation due to their southern or western exposure and have moderate to steep slopes in deeply dissected drainages or hilly to mountainous topography. The soil layer is extremely thin with ample rock fragments and outcrops scattered throughout. Due to the thin soil layers, dolomite glades tend to have extremely dry conditions throughout most of the growing season; however, soil saturation can happen during spring, winter, and fall. As with many glade types, dolomite glades can consist of stunted and gnarled trees and shrubs. Natural disturbances, such as fire, drought, and native grazers helped form the characteristics of dolomite glades through limiting the growth of trees and preventing their dominance.
+Dolomite glades sustain a wide diversity of plants and animals. Dominant plants such as little bluestem (Schizachyrium scoparium) and sideoats grama (Bouteloua curtipendula) can be found in the deeper soil areas of dolomite glades; lichens are abundant throughout. Additionally, the greater roadrunner (Geococcyx californicus) is a bird largely restricted in Missouri to this natural community, as is the Texas mouse (Peromyscus attwateri).
+Within Missouri, dolomite glades are found predominantly in the Ozark Highlands region, though this glade type is sparsely scattered in other regions as well. The Bay Branch prescribed burn unit is particularly rich, featuring 24 acres of dolomite glade. This glade/woodland burn unit was recently expanded to 500 acres (including a portion of adjacent National Park Service land) to increase efficiency and safety when burning.
+
+## D o l o m i t e G l a d e
+
+Coppermine Hollow Glade was a diamond in the rough in 2006, covered in cedars and showing just a few stems of uncommon silver plume grass. After removal of the cedars, an explosion ensued of the very showy grass and rough blazing star.
+Other species that have benefited from restoration include the Ozark endemic Bush's skullcap, six-lined racerunners, and prairie warblers.
+
+## L
+
+imestone glades are natural communities generally found in the western and southern portions of Missouri, occurring in dissected hills on slopes that are typically south-or west-facing and quite steep. Soils are very well-drained and shallow (0-20 cm) and are dominated by forbs, grasses, and sedges. However, interspersed clumps of stunted trees and shrubs, usually allowing for no more than 10-25% tree coverage, is common. Like all glades, exposed bedrock is a characteristic feature of a limestone glade, which serves as suitable habitat for mosses, lichens, and algae. Further contributing to a habitat conducive for the vegetation is the seasonal spring and winter flooding followed by droughty conditions in summer and fall.
+Limestone glades are home to the state endangered and species of greatest conservation need Missouri bladderpod (Physaria filiformis). In the herbaceous layer of the deeper soil areas of limestone glades are flora such as little bluestem (Schizachyrium scoparium), sideoats grama (Bouteloua curtipendula), and Mead's sedge (Carex meadii); whereas the herbaceous layer of the more shallow soil areas is dominated by prairie tea (Croton monanthogynus), rushfoil (Crotonopsis elliptical), and heliotrope (Heliotropium tenellum).
+Located in central Missouri, Danville Conservation Area lies within the Missouri River Hills Priority Geography. This public area is comprised of a diverse mix of natural communities including upland forests, woodlands, and limestone glades. Since the early 2000s, management on Danville Conservation Area has been focused on restoring these natural communities. Glade restoration has included removal of invasive red cedar, hardwood thinning, and periodic prescribed fire. Although most glade management on Danville Conservation Area today includes continuing maintenance practices such as periodic prescribed fire and monitoring for and control of invasive species, small-scale cedar removal and hardwood thinning projects continue.
+Limestone glades on Danville Conservation Area harbor many glade species such as prairie dandelion, striped bark scorpion, sixlined racerunner, and prairie warblers.
+The ongoing glade and woodland management on Danville Conservation Area is used to showcase restoration and management of these communities to partners, including neighboring pri-vate landowners within the Missouri River Hills Priority Geography. 
+
+## Conservation partners within Missouri
+
+## S
+
+andstone glades can be associated with open woodland, cliff, and prairie natural communities. They are found in dissected hills and plains on backslopes, knobs, and short bluffs bordering valleys or canyons. Soils are well drained and shallow with moderately to strongly acidic soils. The ground layer is composed of forbs, grasses, mosses, and lichens, the latter two being highly abundant on undisturbed, bare rock.
+The shallow acidic soils tend to limit the growth of trees, yet it supports the native grasses and forbs that dominate these systems. Trees found on and near glades are often stunted and express poor development due to the shallow droughty soils and poor growing conditions. Therefore sandstone glades frequently exhibit patches of stunted shrub and tree species in areas with slightly deeper soils.
+Like the adjacent prairies, periodic fire also played an important role in the maintenance of these systems. These systems typically burned at least once every three years. These periodic fires removed the litter and stimulated the growth and flowering of the grasses and forbs. They also further limited the growth and dominance of trees.
+Dominant plants include little bluestem (Schizachyrium scoparium), Indian grass (Sorghastrum nutans), broomsedge (Andropogon virginicus), blazing star (Liatris squarrosa), and false foxglove (Agalinis gattingeri). Sandstone glades are also home to Missouri state-endangered geocarpon (Geocarpon minimum), a species of greatest conservation need, and also is a federally threatened species.
+
+## Fame Flower
+
+Many sandstone glades in the Ozark Highlands have been degraded by cedar encroachment due to lack of fire or by overgrazing. However, the Bona Glade Natural Area, located on lands owned by the U.S. Army Corps of Engineers, is a sandstone glade that is still thriving. Bona Glade is located within a sandstone woodland/sandstone cliff complex overlooking Stockton Lake. Other sandstone glades in the vicinity include Kova Glade and Corry Flatrocks Glade.
+A number of unique plant species are associated with sandstone glades, including succulents like Nuttall's sedum, purslane, and the federally threatened geocarpon. Bona Glade Natural Area provides habitat for all of these species. 
+
+## I
+
+gneous glades are found on shoulders and backslopes of knobs and mountain domes, with the best developed sites on the south-and west-facing slopes. The Precambrian bedrock is comprised of numerous rock types, such as rhyolite, rhyodacite (delenite), and granite 
+(Nelson, 2010)
+. Soils are immensely drained, shallow to very shallow, with acidity levels between 4.5-6.0. These very gravelly, silty soils exhibit low fertility. However, some of the deeper soil areas allow for a diversity of grasses and wildflowers.
+The overall plant community is dominated by both annual and perennial forbs and perennial grasses, with lichens found on bare, undisturbed rock. The ground layer of vegetation can reach four feet in height and is sometimes intermixed with a patchwork of dwarfed, often deformed or crooked trees and shrubs. Historically, fire and grazing by elk helped shape the landscape for these glades. Additionally, the droughty conditions that exist during autumn and summer also helped limit woody plant invasion.
+A few dominant plant species for igneous glades in the deeper soils include poverty grass (Danthonia spicata) and tickseed coreopsis (Coreopsis lanceolata). In the more shallow soils a few inhabitants are rushfoil (Crotonopsis elliptica) and rough buttonweed (Diodia teres). One plant species of greatest conservation need that can inhabit these glades is Mead's milkweed (Asclepias meadii), a Missouri state-endangered species and also a federally threatened species.
+
+## I g n e o u s G l a d e
+
+Within the St. Francois Knobs Glades and Woodlands Conservation Opportunity Area, in southeast Missouri, lies the Kossman brother's property. This private property is comprised of igneous flatwoods, woodland, and glade natural communities. Starting in 2007 and continuing today, the Kossman brothers have partnered with the Missouri Department of Conservation (Department) and the Natural Resources Conservation Service (NRCS) to focus on management and restoration of these natural communities. Since that time, the Kossman brothers have been actively managing the property, implementing two prescribed burns (75 acres in 2009 and 105 acres in 2012) and conducting a total of 54 acres of invasive eastern red cedar and hardwood thinning and brush management.
+Glade and woodland restoration on the Kossman property has been made possible by using financial assistance provided through successful application to the Environmental Quality Incentives Program (EQIP), with matching funds from the Department. Funding through EQIP helped the landowners offset the cost to hire contractors to complete the prescribed burns and the glade/woodland thinning.
+The Kossman brother's property is an excellent example of landowners partnering with conservation agencies to help reach land management goals. Perryville Karst, which follows the Mississippi in the southern half of the state, contains some of the highest densities of cave and karst features in the state, some of which exhibit high biodiversity. The Salem Plateau is located in south-central Missouri, and is the largest continuous karst region in the state. Caves in this region are the oldest in the state, and are home to federally listed gray bats (Myotis grisescens) and Indiana bats (Myotis sodalis). Caves in the Springfield Plateau, which runs from central Missouri into northern Arkansas, are relatively young and contain species like the bristly cave crayfish (Cambarus setosus) and endangered Ozark cavefish (Amblyopsis rosae).
+
+## Caves
+
+W ith more than caves 7,000 identified, spanning more than 500 linear miles combined, caves are certainly a key natural community in Missouri. Most Missouri caves occur in the Ozark Highlands eco-region, typically in karst topography formed by the dissolution of rock, and primarily in soluble dolomite or limestone rocks. Caves may occur in sandstone or igneous rocks as well, and may be found in the Osage Plains and Central Dissected Till Plains.
+Cave communities are closely related to, and frequently overlap, surface and groundwater communities. Cave communities may be classified as terrestrial or aquatic, but these communities are interdependent and most caves support both types of communities. Sinkholes are formed from the collapse of a cave ceiling, and may support unique sub-communities as well. Species not typically associated with caves may use them as shelter from drought, cold, and predators, or seek prey within them.
+Cave communities are affected by environmental conditions including size and shape of the cave entrance, number of entrances, size and shape of cave passages, water conditions and the availability of or- Ozark Cavefish ganic matter. These conditions influence temperature and humidity within the cave, which affect species' use. For example, maternity colonies of gray bats prefer warm-air-traps or high domes that accumulate warm air from air movements and the body heat of bat clusters, while hibernating gray bats and Indiana bats prefer cold-air-traps where cold air sinks into larger or deeper entrances maintaining lower temperatures year-round.
+Terrestrial communities include springtail insects, millipedes, beetles, cave crickets, and their predators such as spiders, cave webworms, and salamanders. Amphipods, isopods, cave snails, grotto salamanders, cave fishes, and cave crayfishes characterize aquatic communities. Many of these are endemic to Missouri, including the grotto sculpin and Tumbling Creek cave snail.
+
+## C AV E A N D K A R S T C O N S E RVAT I O N S p e c i e s o f G r e a t e s t C o n s e r v a t i o n N e e d
+
+## Pink Planarian
+
+Tumbling Creek Cave snail 
+
+## Bristly Cave Crayfish
+
+## C AV E A N D K A R S T C O N S E RVAT I O N
+
+Groundwater Quality Many aquatic cave organisms are highly sensitive to water quality. Caves are naturally nutrient poor, so an influx of nutrients from agricultural or urban runoff or sewage can greatly impact cave-adapted species. Sedimentation and chemical contamination may occur through activities such as development, agriculture, pipeline spills, and pesticide contamination. Because many caves, particularly aquatic systems, are difficult or impossible to access, degradation of water quality is often difficult t o d etect. C ompounding t his threat is the difficulty i n t racing d egraded w ater q uality to sources of contamination, as few cave recharge areas have been delineated. Cave hydrology may also be affected by over-pumping of the aquifer, which may reduce or eliminate standing water within caves. The Missouri Department of Conservation (the Department) policy is to maintain a 20-acre buffer of vegetative cover around any cave or sinkhole opening to protect water quality within caves.
+
+## Human Disturbance
+
+Human visitation to caves may, intentionally or unintentionally, damage cave features. Frequent disturbance of hibernating bats causes more rapid depletion of fat reserves, threatening overwinter survival. This is compounded by the new disease white-nose syndrome (WNS), which affects bats during hibernation and also causes more rapid depletion of fat reserves. WNS was first detected in Missouri in 2010, and recent surveys indicate that it is found throughout the state and is causing bat mortality. To minimize disturbance of these sensitive species, many caves supporting significant populations of bats are closed to public access except for specific research, survey, monitoring, and mapping.
+To address the threat of human disturbance both to cave species and cave features, the Department partnered with the Missouri Department of Natural Resources, the Missouri Speleological Survey, the Missouri Caves Association, and others to support the Cave Resources Act, which was passed by the Mis-souri Legislature in 1980. This Act prohibits vandal-ism and protects both the surface of a cave as well as the natural materials it contains, including cave life. The Act also maintains the right of private cave owners to manage or use their caves as they see fit, and gives cave owners legal authority to protect their caves from trespassers. Additionally, the law helps protect the quality of Missouri's groundwater sup-plies by establishing specific legal protection to any-one whose well supply or spring has been polluted by someone using a cave for sewage disposal or other pollutioncausing purposes.
+
+## Invasive Species
+
+Cave ecosystems do not escape the threat of invasive species. For example, changes in hydrology, due to the impoundment of water from Bull Shoals Lake in times of excessive rain, have allowed predatory ringed crayfish to invade Tumbling Creek Cave, the most biodiverse cave documented in Missouri. Ringed crayfish are a native species, but the altered hydrology is believed to have allowed this species to expand its range to include Tumbling Creek Cave. Crayfish pre-dation is one of the primary threats to the endangered Tumbling Creek cave snail (Antrobia culveri).
+
+## H a b i t a t M a n a g e m e n t A c t i o n s
+
+Cave Recharge Area Management Department policy is to maintain or establish appropriate vegetative cover with a 100-ft minimum radius around the opening of a cave or sinkhole, and a corridor of appropriate vegetation between a cave entrance and permanent stream. Around priority caves for federally listed bats, a minimum of 20 acres of appropriate forest/woodland communities is maintained, incorporating topography and watershed considerations into the design, size, and configuration to protect the integrity of the cave system.
+
+## Prevent Human Disturbance
+
+Prior to white-nose syndrome (WNS), caves with high biodiversity, unique features (including endangered species), or safety concerns were closed to public entry throughout the year. Caves with fewer unique features were classified as permit-only access caves. Special-use permits were required for legal access. At the lowest priority caves, signs were posted that allowed open access and listed rules for safety and conduct. In accordance with the Department's WNS response plan, all Department caves are now closed to public access following the discovery of WNS in Missouri. Special-use permits are granted for specific research, survey, monitoring, and mapping visits. Most of the highest priority caves for bats have now been gated, or soon will be, to prevent trespassing.
+
+## Survey and Monitoring
+
+The Department regularly conducts hibernacula surveys to track bat abundance and distribution, with a focus on federally listed species. Each gray bat hibernaculum has been surveyed every 5-10 winters since the mid-1970s. Major Indiana bat hibernacula are surveyed every other winter. More effort has been ex-pended searching for northern long-eared bats during hibernacula surveys since 2009, when the threat of WNS became truly apparent. In conjunction with hibernacula surveys, the Department has participated in major studies related to WNS, including investigating the distribution and prevalence of Psuedogymnoascus destructans (Pd), the fungal pathogen that causes WNS, detectability of Pd, and potential treatment of WNS.
+Many cave and karst invertebrates are adapted to a nutrient-poor environment and, therefore, decline quickly when water quality is degraded. As such, trends in populations of aquatic cave invertebrates can be indicative of the overall health of the cave or spring system. Federally listed species, including cave crayfish (Cambarus aculabrum) and Tumbling Creek Cave snail (Antrobia culveri), are monitored regularly.
+
+## Water Quality Monitoring
+
+Water quality monitoring is used to evaluate the effectiveness of various management actions designed to improve groundwater quality in karst regions, such as well caps, sinkhole cleanouts, spring exclusions, restoration of riparian buffers, and sedimentation reduction. Cave and spring recharge area delineation is necessary to evaluate the benefits of improved water quality to specific cave/karst systems of interest. Water quality monitoring has been used or is being planned to evaluate the effectiveness of many current and planned projects, which will benefit grotto sculpin (Cottus specus) and spring cavefish (Forbesichthys agassizii) in southeast Missouri, and Ozark cavefish (Amblyopsis rosae) in southwest Missouri.
+
+## Gray Bat
+
+C aves are the only terrestrial natural community dominated by animals rather than plants. In the absence of light, decomposer communities form the base of the food chain. Nutrient sources include organic detritus, corpses of cave animals and dung. Bat guano in particular is often the foundation of diverse communities in those caves inhabited by bats, especially gray bats (Myotis grisescens), which roost in caves year-round and therefore provide more guano to the cave system than do bat species that use caves primarily during hibernation.
+
+## C AV E A N D K A R S T C O N S E RVAT I O N T e r r e s t r i a l C a v e
+
+C a s e s t u d y : s H a n n o n C o u n t y B a t C a v e Bat Cave in Shannon County is the third largest gray bat hibernaculum in Missouri with up to 60,000 hibernating. It is also listed as critical habitat for the Indiana bat (while only approximately 500 Indiana bats hibernate there currently, over 30,000 used to be found). Other species known to hibernate in this cave are little brown bat, eastern small -footed bat, tri-colored bat, big brown bat, and the now federally threatened northern long-eared bat. The Nature Conservancy owned the property at the time of this project and subsequently donated it to the Missouri Department of Conservation and it is now part of Sunklands Conservation Area.
+The property is within the scenic easement of the National Park Service Ozark National Scenic Riverways. Not only does this area contain a significantly im-portant cave (in addition to bats there are grotto salamander re-cords and prehistoric artifacts), but this area contains glade habitat with important plant species and riparian habitat along the Current River. 
+
+## Grotto Salamander
+
+Photo Credit: Eugene Vale, DNR-MO G roundwater habitats in karst geology are fascinatingly unique but potentially fragile and still poorly understood. Our knowledge of karst groundwaters and the species communities that inhabit them is limited by the tiny windows accessible to us for study. These generally include portions of wetted caves, springs, and artificial constructions such as unlined wells and mines.
+A diversity of rare and vulnerable aquatic organisms call these dark, energy-limited environs home. Most lack body pigments, are sightless or nearly so, and are adapted to economize energy expenditures given the uncertainties of encountering the next meal.
+
+## A q u a t i c C a v e C AV E A N D K A R S T C O N S E RVAT I O N
+
+C a s e s t u d y : s P r i n G F i e L d P L a t e a u a q u a t i C C a v e s Ozark cavefish is federally listed as threatened and found in groundwaters of the Springfield Plateau of southwest Missouri. The species is known from fewer than 25 locations in the state and is threatened by declining water quality related to poor erosion control practices and urban development, dewatering, and habitat destruction in caves and groundwater recharge areas that alter hydrology and delivery of sediment and nutrients. The sparse, isolated populations of Ozark cavefish are highly vulnerable to chance catastrophe.
+Conservation to benefit Ozark cavefish and other co-occurring species of concern, such as bristly cave crayfish, has targeted protecting cave and well openings through gating; capping unused wells; cooperative projects with landowners such as sinkhole buffers and livestock watering systems to attract cattle away from springs and streams to promote sustainable use of land and water resources; and monitoring populations of groundwater organisms to gage conservation status and response to recovery activities.
+Conservation partners include the Missouri Department of Conservation, Missouri Speleological Society, Ozark Regional Land Trust, The Nature Conservancy, the U.S. Fish and Wildlife Service, local caving groups and numerous private landowners.
+
+## A q u a t i c C a v e
+
+Bristly Cave Crayfish Perry County is a sinkhole plain heavily laden with many karst features existing across its landscape. It is also home to the only known populations of grotto sculpin, a federal-endangered fish. Protecting these sensitive karst resources, combined with improving the water quality in this geography, is vital in protecting this cave-dwelling fish Much of the Perry County karst region is privately owned; therefore, conservation partners work closely with landowners, providing technical assistance and cost-share funds, hosting workshops, and monitoring the area's valuable karst resources.
+Recently, conservation partners took part in a landowner-assistance project focused on improving spring health and increasing efficiency and cleanliness of livestock watering. The objective of the project was to divert spring water through a gravity-fed system and into a livestock watering tank, which, when full, overflowed back into the spring branch. In addition, the spring and its subsequent spring branch were fenced to exclude livestock access, further protecting this karst feature. This project was a win-win for both conservation and the landowner. The spring has been protected from increased nutrient loads from the livestock, and the livestock now have a clean, reliable drinking water supply. Of more than 390 bird species recorded in Missouri, 110 species that regularly nest or migrate through the state depend on wetlands for part of their life cycle. Over 200 Missouri species of conservation concern use wetlands as their primary habitat. Wetlands are vital habitats that have been mostly eliminated or altered in Missouri. Missouri has experienced some of the highest rates of wetland loss in the nation, with an estimated 13-15% of the state's original 4.8 million acres of wetland habitat remaining.
+Wetlands are categorized by hydrologic regime, soils, and dominant and characteristic plant and animal species. In this Plan, the following types of wetlands are found in Missouri: ephemeral wetlands, emergent marsh, forested swamp, shrub swamp, and fens. Although technically wetlands by strict definition, bottomland forests and wet prairies are considered in the forest and prairie sections, respectively. In the Ozarks sinkhole ponds can act as ephemeral wetlands or support subtype communities of emergent marsh, forested swamp, and shrub swamp.
+Wetland plant, fish, and wildlife species help sustain other ecological functions of stream-floodplain-watershed systems. Wetland habitats produce leaves, stems, branches, and roots that are sources of organic matter available for transport to other parts of a watershed. Wetlands produce a variety of food resources that help support plant and animal populations living in streams and on adjoining floodplains and uplands. Wetlands also help support many birds, bats, and insects that play important roles in pollinating and providing pest control for native plants and crops on surrounding lands.
+Wetland conservation partners have made great strides in restoring some of the 87% of Missouri's lost wetlands and improving the functioning of those that remain. The Missouri Department of Conservation, other agencies, conservation organizations, agricultural producers, and private landowners have worked together to restore thousands of acres of wetlands on public and private land. At the same time, partners have worked to ensure that wetland restoration efforts provide many social benefits such as improving water Successful conservation of wetlands will require acquisition, protection, restoration, and management actions. These conservation actions should integrate wetlands into appropriate stream-floodplain-watershed system settings, sustain and restore ecosystem functions, and provide connectivity among adjacent uplands and aquatic habitats. Water stewardship, scientific research and monitoring, advocacy, and information sharing with professionals and the public will all be necessary to ensure continued support, understanding, and protection of wetland systems and their values. 
+
+## System Alterations
+
+System alterations, including channelization, ditching, levees, waterway navigation infrastructure (i.e., wing dikes), and reservoirs have altered the magnitude, duration, and timing of wetland inundation, resulting in altered hydrology for riverine wetlands. Landscape alterations have changed how stream channels shape the floodplain and how flooding occurs in terms of timing, flood level, and duration. Because of negative landscape alterations, shifting stream channels and flood levels, that once were beneficial to wetlands, can now result in extensive scouring, head-cutting, and excessive sediment deposition that seriously degrade remnant wetlands. Also, mercury deposition and contamination in the Mingo Basin, and other heavy metal contaminants from mining activities in some river systems (e.g., Big River), negatively impact some wetland communities.
+
+## Land Conversion
+
+Conversion of the landscape to row crops, intensively grazed pasture and/or urbanization and elimination of adequate riparian buffers, have resulted in subsequent increases in stream sediment loads and altered flooding regimes.
+
+## Invasive Species
+
+Invasive species have degraded many wetland communities. In Missouri, currently, the most problematic invasive species for wetlands include reed canary grass (Phalaris arundinacea) and Japanese stilt grass (Microstegium vimineum). Purple loosestrife (Lythrum salicaria) is a threat, but is currently of spotty distribution and has been the target of intense control efforts. Japanese knotweed (Polygonum cuspidatum) and common reed (Phragmites australis) are increasing in abundance in the state and will likely become new serious wetland invasives. Moneywort (Lysimachia nummularia) and Japanese hops (Humulus japonicas) are firmly established in many larger waterways in riparian areas.
+W etland conservation activities in Missouri must continue to protect intact habitats, maintain those that have been restored, restore and/or reconstruct new wetlands and take advantage of the opportunities to enhance and improve upon the efforts of previous conservationists. To date, partnerships have secured $117 million through the North American Wetlands Conservation Act to restore and improve over 97,000 acres of wetland habitat nationwide, while private and public landowners have restored over 150,000 wetland acres through the United States Department of Agriculture's Wetlands Reserve Easement (WRE) program. Despite these successes the threats to wetlands and their dependent species continue. The Department's Wetland Planning Initiative has identified the following objectives which will help to abate the threats to wetland habitats:
+✦ Where practical, promote the restoration of more natural stream flow variations and hydrologic connections between streams and floodplains.
+✦ Manage wetlands to enhance processes that input, transport, assimilate, and output organic matter, sediments, nutrients, and food within stream-floodplain-watershed systems.
+✦ Support partner efforts to restore stream-floodplain-watershed system functions that lessen localized flood damage to communities, homes, farms, and other infrastructure.
+✦ Provide a wide variety of wetland habitats throughout Missouri, including wet prairies and bottomland hardwood forests, among others.
+✦ Manage multiple wetland areas as complexes to provide the mosaic and connectivity of habitats necessary to benefit wetland-dependent plants and animals and to improve stream-floodplain-watershed systems.
+✦ Establish population objectives for key wetland-dependent species.
+✦ Provide a sufficient distribution, quantity, and quality of wetland habitat types to enable key wetland-dependent species to fulfill life history needs.
+✦ Identify opportunities for collaboration to achieve stream-floodplain-watershed conservation and restoration in Missouri by establishing an interdisciplinary statewide task force with participation from agencies and partners directly involved with stream-floodplain-watershed management.
+✦ Improve management of wetland complexes to benefit wetland-dependent plants and animals by establishing interdisciplinary teams comprised of staff from the Department and other agencies, and private landowners involved with wetland management.
+✦ Build capacity of conservation organizations and partnerships that promote wetland conservation.
+✦ Develop new approaches to strengthen partnerships with private landowners, communities, and managers. Ephemeral wetlands provide important habitat to many wildlife species, particularly amphibians. In east-central Missouri, Department staff are working to manage and monitor many temporary wetlands in associated prairie and woodland habitats. At the Prairie Fork Conservation Area in Callaway County a large prairie reconstruction project also includes the development and management of several ephemeral wetlands. Managers have plugged old terrace drainage tiles, installed water control structures, and renovated several old livestock watering sites to create small wetlands scattered throughout the prairie reconstructions. These improvements have resulted in wetland systems that provide habitat to species such as migrating soras, yellow rails, mallards, as well as digger crayfish and small-mouthed salamanders. As the prairie reconstruction continues, these grassland wetlands may also provide future breeding habitat to species such as northern crawfish frogs and several species of dragonflies and damselflies.
+Ephemeral wetlands are also managed nearby on Danville Conservation Area in Montgomery County. Most of these wetlands are constructed wildlife watering holes and are characterized by shallow temporary wetlands that often dry in the summer. These pools provide needed breeding habitat to many forest amphibians, such as central newts, wood frogs, spring peepers, and ringed salamanders. Department staff monitor these ponds to ensure they remain fishless and do not become invaded by exotic species. Bur-reed Slough is a 20-acre emergent marsh on Ted Shanks and as its namesake suggests, it is dominated by bur-reed. Bitterns and rails use this in migration and for breeding habitat. 
+
+## S
+
+hrub swamp wetlands occur in basin-like depressions with poorly drained to very poorly drained soils. Inundation from flooding is a regular feature of shrub swamp ecology. Shrub swamps are dominated by shrubs and small trees; these include buttonbush (Cephalanthus occidentalis), black willow (Salix nigra), and swamp privet (Forestiera acuminata). Shrub swamps provide important habitat for a variety of amphibians and reptiles (e.g., green treefrogs (Hyla cinerea)), bitterns, prothonotary warblers (Protonotaria citrea), yellow warblers (Setophaga petechia), and other wildlife. A wide range of wetland vegetation including perennial smartweeds, rice cutgrass, beggar ticks, and sedges can be found, along with scattered groupings of willows and buttonbush. A host of waterbirds seasonally utilize these habitats along with numerous wetland fishes. An array of aquatic and terrestrial invertebrates drives the diversity and abundance of these larger fauna.
+There have been a number of restoration and management projects in Four Rivers Conservation Area over the years. In the Horton Bottoms Natural Area, log structures were installed in the manmade ditch to stop complete drainage and restore a more natural Managers have begun implementing forest management plans that include selective timber harvests that provide a more diverse forest canopy structure. These conditions provide better foraging, nesting, vegetation diversity, and mast production for wildlife. These harvests are also part of two active research projects that will help us determine forest overstory conditions that are best for sustaining the valuable red oak component of our lowland forests. The Department has begun a forest breeding bird monitoring project that will provide baseline information and post-treatment results. Our management efforts are designed to help sustain a more diverse forest structure, provide better wildlife habitat, and also help recruit and sustain the red oak forest component that has become increasingly difficult to sustain throughout the Lower Mississippi Alluvial Basin. Missouri's landowners are a keystone component to fen conservation. In the Ozarks, the heart of fen country, the vast majority of fens are located on private lands. Partnerships, which promote the conservation of fens through cooperative habitat management, landowner technical support, and programs tailored to recover species of conservation concern, are crucial and ongoing.
+Rare fen species in need of conservation action include wild sweet William, queen of the prairie, rose pogonia, false loosestrife, Hine's emerald dragonfly, sphagnum sprite, and the glass lizard.
+Conservation actions consist of land acquisition and private land partnerships, including incentive programs to protect and enhance fens. Restoration and management of these systems include prescribed burning, woody species removal, and invasive species control. Additional critical concerns for fen systems include protection from draining and feral hogs.
+These management tools have been employed on Grasshopper Hollow Fen, located in Reynolds County. Grasshopper Hollow contains the largest known fen complex in unglaciated North America, and management work here directly benefits the federal and state endangered Hine's emerald dragonfly.
+Conservation partners for Hine's emerald dragonfly management, associated with fens, include Doe Run Company, Illinois State Museum, Mark Twain National Forest, Missouri Botanical Garden, Missouri Department of Conservation, Missouri Department of Natural Resources, Natural Resources Conservation Service, The Nature Conservancy, the U.S. Fish and Wildlife Service, and Washington University.
+
+## 2015
+
+## R I V E R A N D S T R E A M C O N S E RVAT I O N
+
+O v e r v i e w W ith more than 110,000 miles of running water, Missouri is rich with rivers and streams. These streams are the product of the land surrounding them or their watersheds. Watersheds consist of uplands, floodplains, stream corridors, stream channels, and groundwater. Uplands provide slope to form headwater streams which account for more than 80% of the channels in a watershed. These headwater streams trap sediment and organic material, which slow water velocities; however, some organic material is still transported downstream to contribute to stream habitat. As headwater streams converge, enlarge, and move down through floodplains, they often change in flow from ephemeral to intermittent and eventually into larger perennial streams, which flow year-round due to their connection with groundwater. All of these offer unique characteristics, habitats, and biota critical to the food chain and connectivity of the river system as a whole.
+There are several stream types (regions) in Missouri: grassland/prairie, Ozark, Mississippi lowland, and big river. Grassland/prairie streams generally occupy the northern half and a portion of the western side of the state and are typically very sinuous, low-gradient streams with fine substrates. Ozark streams are found in the middle of the state down to its southern border. Karst topography influences the character of these streams and they have steeper gradients and coarse, rocky substrates. Where these grassland/prairie and Ozark landscapes meet, streams can contain a mixture of physical and biotic characters of both stream types. Mississippi lowland streams occupy the southeastern corner along the Mississippi River through the Bootheel region of Missouri. These streams are very flat and have sandy alluvial substrates. Two of America's greatest rivers have their confluence in Missouri. They are known as the big rivers. The Missouri River dissects the state into north and south, and the Mississippi River runs along the state's eastern border. 
+
+## B
+
+ecause streams and rivers are so fundamentally linked to the watersheds that surround them, most of the threats to terrestrial habitat systems also threaten streams. If the watershed and habitat systems within them are fully functioning and intact, the stream is more likely to be healthy, as it is a reflection of that watershed. Of course, in-stream impacts, such as channel dredging, channelization, and damming, also have direct and severe impacts on aquatic systems.
+
+## Urbanization
+
+Construction activities without effective erosion control can cause sedimentation in streams. In developed urban areas, impervious surfaces like roads, buildings, rooftops, etc. can have the opposite effect by not allowing enough sediment into streams, especially when the channels themselves are put through pipes, culverts or lined in concrete. This can cause excessive velocities that erode the stream channel and degrade stream habitat. Frequent urban water quality problems include increased stream temperatures from impervious surfaces, lack of riparian buffers; and pollutants from vehicles, yards, and municipal sewage overflows, etc.
+
+## Agriculture
+
+Overgrazing can increase erosion and run-off into stream channels which can increase sedimentation that creates turbidity and fills interstitial spaces that are critical habitat to benthic organisms. Excess nitrification from manure that enters streams can cause algae blooms and decrease water quality. Certain row cropping practices can also be detrimental to streams by allowing exposed soil to erode off fields, causing stream sedimentation. Fertilizer and chemical run-off can also negatively affect water quality. Tiling practices change the delivery rate of water to streams by condensing water into underground tubes that are often piped directly to a stream, enter at high velocities, and can erode the stream channel. Cumulatively, throughout a watershed, these and other practices can have a dramatic effect on habitat, water quality, and biota in a stream system.
+
+## Connectivity Loss
+
+Streams rely on their watershed connections that run horizontally into the riparian area and floodplains, longitudinally up and down channels, and vertically between the channel bed and the water table. Common causes of horizontal connectivity loss occur in floodplains and riparian areas when development or levees encroach on floodplains, side channels and oxbows are filled in or cut off, or riparian vegetation is removed or altered. Alterations of natural ecological flow regimes from industry, municipal or agricultural uses, or downstream of large dams, and many other causes can also cause this loss.
+Longitudinal connectivity is critical for fulfilling migration requirements, genetic dispersal, and habitat utilization of many aquatic organisms. Longitudinal barriers are created by limiting the movement of organisms physically or behaviorally; dams, poorly designed road crossings (e.g., slab concrete crossing), and culverts are common examples. Large reservoirs and the cumulative effects of small ponds have altered hydrology, habitat, and aquatic species throughout the state as well.
+
+## Stream Habitat Destruction
+
+In-channel activities, such as channelization, improper mining activities, channel reaming, filling, burying
+
+## H a b i t a t S y s t e m T h r e a t s ( C o n t i n u e d )
+
+or excessive armoring, and others can cause localized and system-wide losses to stream habitat. Deforestation and the loss of an adequate riparian corridor throughout much of the state, ongoing since settlement, have altered stream hydrology and habitat and energy cycles. In addition, the loss and lack of wooded stream corridors deprives stream channels of large woody debris which maintains and creates various habitat types throughout the channel network and is a critical component of the food chain for invertebrate and vertebrate species.
+
+## Invasive Species
+
+Beyond ecological concerns, aquatic invasive species have tremendous impact, on local, state, and federal economies, impacting aquatic industries like water treatment, commercial and sport fisheries, recreational boating, etc. Terrestrial invasives are no different, and combined, in the United States alone, these invasive species amount to hundreds of billions of dollars per year to manage.
+Like terrestrial habitat systems, aquatic systems are extremely vulnerable to the effects of invasive species, especially due to the high connectivity of most aquatic systems. Connectivity can be both a benefit and a detriment to a system. Connectivity benefits native species by minimizing habitat fragmentation and allowing species and genetic diversity and distribution, but it also allows for the rapid population expansion and distribution of invasive species. Some of the most well-known aquatic invasive species in Missouri include zebra mussels (Dreissena polymorpha), quagga mussels (Dreissena bugensis), Asian carp (i.e., bighead (Hypophthalmichthys nobilis)) and silver carp (Hypophthalmichthys molitrix), hydrilla (Hydrilla verticillata), and didymo (Didymosphenia geminata), also known as rock snot. These invasives are highly competitive with native species with impacts that can include direct competition for food, predation, displacement, smothering or shading, disease introduction, and potentially, interbreeding. Any one or combination of these factors can lead to upsetting the delicate balance of native aquatic ecosystems.
+Exotic Zebra Mussels attached to native mussel W hen considering river and stream management actions, it is critical that a watershed-based approach is taken (See Conservation Opportunity Area Watersheds page 144). As previously mentioned, rivers and streams are fundamentally linked to the watersheds that surround them and most of the threats to terrestrial habitat systems also threaten the streams to which those terrestrial systems supply runoff and groundwater. Typically, by the time a river or stream shows degradation, there have been numerous cumulative alterations in the watershed that contributed to that condition. Streams work with very large lag times since they mostly depend on numerous and appreciable precipitation events before damage is apparent in the channel. There is rarely an immediate cause and effect that is obvious, except for some in-channel activities. Much of the degradation of rivers and streams today begin with actions that occurred over a century ago, not to mention alterations that have continued. For this reason, managing and restoring river and stream ecosystems is typically not as easy as simply restoring a woodland or replanting a stretch of riparian corridor, though these are important actions. Because of the interconnection between the aquatic and terrestrial systems within a watershed, managers must first study the entire watershed and analyze what factors have, or are likely contributing to stream system degradation and what best management practices (BMP) could best protect the current condition or enhance stream function. There are many examples and combinations of best management practices that can be employed, which include removing aquatic organism barriers to improve connectivity; restoring or enhancing riparian corridor; livestock exclusions and hardened livestock channel crossings; levee notching or removal; conversion of non-native tall fescue (Festuca arundiancea) pastures to deep-rooted native grasses and forbs; crop field vegetated swales and vegetated stream buffers; and grassland, forest, woodland, glade, and wetland restorations. The most effective BMP, however, is preventing further degradation through education, awareness, and working with landowners to meet their goals while at the same time protecting the resources.
+Urban stream improvements may include many of the BMPs described above, but may also include replacing impervious surfaces with porous surfaces, installing rain gardens and bioswales, and improving sewage treatment systems and infrastructure.
+Perhaps one of the most difficult management actions for aquatic systems is managing infestations of invasive species (i.e., aquatic nuisance species). Due to the highly connected network of Missouri's rivers, streams, and reservoirs, and the degree of difficulty to make observations of distribution within a body of water, once an aquatic invasive species is introduced, it is extremely difficult to manage, let alone eradicate, from the affected waters. Though difficult, if identified early enough, some infestations have been managed and even eradicated.
+Due to the degree of difficulty in managing some aquatic invasives, numerous resources are put toward preventing further introduction and dispersal of these species. The most effective vector to accomplish this goal is, again, education and awareness. The Department and partners continually campaign to heighten awareness of the effects, potential effects and costs associated with invasive species and their management. Precautionary measures taken by the Department, partners, and the general public can greatly reduce the risk of further infestations. The ability to identify and report invasives could facilitate the eradication of a population before it flourishes.
+T hese streams run along flat to rolling plains and are typically surrounded by thick glacial soils with deeply rooted perennial grasses and forbes. Steep headwater draws and larger valleys were sometimes noted to be brushy and woody, or containing "Bottom Prairie grass" according to 
+Schroeder (1982)
+. The dense, deep-rooted vegetation of pre-settlement prairies allowed for precipitation to soak in and moderate flows to streams gradually through groundwater connectivity. These highly sinuous streams meandered through floodplains with many oxbows and off-channel habitats, but since the 19 th century, most have been affected by widespread channelization which has disconnected streams from their floodplains through incision. Channelization has also caused habitat homogenization with losses of pools, riffles, and runs. Land-use conversions of the prairie have changed run-off patterns, depleted soils, and caused erosion and sedimentation in streams. Many species in these streams tend to be tolerant species with wider distributions than most, such as green sunfish (Lepomis cyanellus) and black bullheads (Ameriurus melas; Pflieger 1997).
+Spring Creek Watershed Priority Geography is the best example in northern Missouri where savanna-woodland habitats sustain a healthy prairie stream system. Union Ridge Conservation Area plays a central role in this watershed, protecting nearly 32 miles of prairie stream within the managed area. The Spring Creek Watershed contains 29 species of fish, including the Topeka shiner, and seven species of mussels; a testament to the importance of high-quality prairies, savannas, and woodlands in sustaining the diversity of aquatic plants and animals.
+The Missouri Department of Conservation continues to help build a much larger conservation landscape through a public-private land partnership that reaches well beyond Union Ridge Conservation Area. Implementing best management practices for livestock and enhancing riparian corridor is a primary focus of this geography. 
+er 1997)
+. Fallen trees, boulders, and large root wads within stream channels create complex habitat diversity. Beginning in the early 19th century, agricultural cultivation of bottomland forest and associated timber harvest for railroad ties led to extensive deforestation of the Ozarks and resulted in increased erosion. Prior to this, early explorers and surveyors rarely noted the abundance of gravel in streams 
+(Jacobson and Primm 1997)
+. The steep terrain and thin rocky soils of the Ozarks have limited the amount of land alteration for agriculture except in the floodplains, which were once deep bottomland forests. These floodplains are still often used for grazing or haying. The Ozarks contain almost one third of all Missouri fishes, twenty of which are unique to this region, among them are the Missouri saddled darter (Etheostoma tetrazonum) and the Niangua darter (Etheostoma nianguae; 
+Pflieger, 1997)
+. Other Ozark aquatic species include the rainbow mussel (Villosa iris), Ozark pigtoe (Fusconaia ozarkensis), Ozark hellbender (Cryptobranchus alleganiensis bishop), and eastern hellbender (Cryptobranchus alleganiensis alleganiensis; 
+Oesch, 1984)
+.
+
+## O z a r k
+
+The Little Niangua River Priority Geography is the best example of a diverse Ozark border stream system within the Upper Ozark portion of the Ozark Highlands in Missouri. The Little Niangua River contains 61 species of fish and 15 species of mussels. A prime example of the high quality natural communities that exist within the watershed is the 240-acre Little Niangua River Natural Area, featuring more than a half mile of river, its associated riparian corridor and adjacent bluffs, woodlands, and glades. The Niangua Darter Recovery Team identified the potential for low-water road crossings to be a threat to this species because they prevent fish movement and fragment populations. From 2004 to 2014, an initiative was undertaken to replace ten low-water crossings within the Little Niangua River Priority Geography.
+Completion of the low-water crossing replacement projects allows the fragmented meta-populations of Niangua Darters to mix with each other and have free movement in more than 55 miles of stream. As a result not only is genetic diversity protected, but, spawning and other suitable habitat is now accessible. T he low lying alluvial plains bordering the Mississippi River in southeast Missouri were once covered in cypress swamps. Streams from the bordering Ozark region drained through this area on their way to the Mississippi. The flat gradient creates streams that are mostly pools with little to no current and sandy silt beds. Decaying organic matter stains the water brown with tannins in these slow swampy streams. In the late 19 th and early 20 th centuries, these swamps were cleared, ditched, or drained for agricultural use. In Missour's Bootheel there are now about 1,200 miles of ditches with lit-tle riparian corridor or vegetation around them. Some of these channels are still inhabited by distinct fishes that are at the northern end of their range, like the cypress darter (Etheostoma proeliare) and pygmy sunfish (Elassomatidae spp.; 
+Pflieger, 1997)
+.
+The River Bends Priority Geography falls within the Lower Mississippi Alluvial Valley. The landscape is an agricultural-forest large river system containing a systematic array of remnant oxbow wetlands, scours, riverine wetlands, riverfront forest, early successional habitats, moist soil communities, bottomland hardwood forest, cypress-tupelo swamp, and crops interspersed with ephemeral floodplains within the lowland portion of the Missouri Bootheel.
+The species diversity within the River Bends Priority Geography is extremely high and dependent on the hydrological variations that exist within the geography. Various species of conservation concern are accounted for in this landscape, including the mole salamander, three-toed amphiuma, eastern spadefoot, Illinois chorus frog, Mississippi kite, Swainson's warbler, black-necked stilt, loggerhead shrike, interior least tern, alligator gar, banded pygmy sunfish, bantam sunfish, cypress minnow, ironcolor shiner, harlequin darter, pugnose minnow, taillight shiner, swamp darter, Rafinesque's bigeared bat, southern short-tailed shrew, cotton mouse, rice rat, swamp rabbit, cajun dwarf crayfish, shrimp crayfish, western chicken turtle, and the alligator snapping turtle.
+Conservations actions include additional land acquisition of publicly owned land interspersed with cooperating private land owners whose property provide comparable conservation benefit in the landscape (e.g., Wetland Reserve Easement Program) integrated with a highly productive agricultural community. The Missouri River, in Missouri, was once a turbid, braided, and unruly river. Its unpredictable flows and channel shifts created islands, oxbows, and backwaters throughout its bottomland forests. In the early 20 th century, however, large upstream reservoirs were built, modifying flows, and the channel was narrowed and deepened to a single navigation channel. This greatly reduced in-stream and off-channel habitats. Similarly, the Mississippi River has also been altered with hydro-electric dams and navigation channels; however, the character of the Mississippi was originally quite different than that of the Missou-ri. The Mississippi River drains a larger watershed and had clearer water and more stable flows. The confluence of these two great rivers is halfway down the eastern border of the state. Because of their size, these rivers support large fish species, among them catfish, gar, sturgeon, and paddlefish 
+(Pflieger, 1997)
+. Freshwater mussels were an impressive part of these systems and their tributaries, but their numbers have diminished greatly. Historically, barge-loads of mussels were plucked daily from these rivers for the button industry. Now, habitat loss through sedimentation and invasive species threaten many populations (Bruenderman 1999).
+
+## B i g R i v e r
+
+The pallid sturgeon was listed as federally endangered in 1990 due to habitat loss and fragmentation along the Missouri and Mississippi River basins. Each spring since 2008, the Department's Missouri River Field Station (MORFS) crews have used trot lines to target adult wild pallid sturgeon to send to Blind Pony State Fish Hatchery in Sweet Springs, Missouri, with hope that these adults will spawn and reproduce to help supplement the dwindling population until it can once again become self-sustaining. Typically, MORFS crews solicit help from Department staff, universities, other government agencies, and the general public. Generally, 50-80 volunteers work during the three-week effort from the end of March through mid-April. This is an excellent opportunity to educate Missourians on the current plight of this native species, as well as the Missouri River.
+Each year around 12,000 hooks are set and an average of 65 pallid sturgeon are captured, of which, on average, 10 are adults large enough for sexual maturity (>750 mm), and display no current markings or tags indicating a hatchery origin. These fish are assessed at Blind Pony State Fish Hatchery to determine gender and reproductive status. Since pallid sturgeon do not reach sexual matu-rity until at least 7 years of age, and only spawn every 2 to 3 years, there are usually only a handful of fish that end up being used in the spawning efforts each year. However, each fish produces thousands of eggs, which produce larval fish that are stocked in the river. To date, there have been around 140,000 pallid sturgeon stocked into the Missouri River below Gavin's Point Dam. Many of these are recaptured years later and are reproductively ready themselves. This is all part of an effort by the U.S. Army Corps of Engineers' funded Missouri River Recovery Program, which is working to reestablish the population of this endangered species.
+Other crews also collect broodstock pallids, including the U.S. Fish and Wildlife Service (FWS), Nebraska Game and Parks Commission, and Department Fisheries Biologists. All pallid sturgeon used in the spawning efforts were genetically verified by Southern Illinois University and the FWS to make sure they are not related to previous hatchery fish, and not related to each other, prior to the spawn. Fish deemed not reproductively ready or of hatchery relatedness are released back to the river near where they were sampled. Coefficient of conservatism, an index value of 0-10, indicating the ecological value of a plant species 
+(Lopez and
+Fennessy 2002, Matthews et al. 2009)
+. Missouri coefficients developed by 
+Ladd and Thomas (2015)
+. 
+
+[FIGURE: . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . i Table of Contents . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . V Preface . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .]
+
+[FIGURE: Information on the distribution and abundance of species of wildlife, including low and declining populations as the state fish and wildlife agency deems appropriate, that are indicative of the diversity and health of the state's wildlife.]
+
+[FIGURE: Additional sources were used to identify characteristic species to be added to the base SGCN list. Sources for vertebrates, excluding fish, included: ✦ The 2005 CWCS Directory of Conservation Opportunity ✦ Nelson's Terrestrial Natural Communities of Missouri (2010) ✦ International Union for Conservation of NatureRed List (added species listed as near-threatened or above)system. ✦ Partners in Flight regional scores greater than 12 (for birds)]
+
+[FIGURE: (see Appendix C for model examples) insofar as the following metrics are evaluated and given a score: ✦ Landscape context and site size ✦ Vegetation structure (both horizontal and vertical and by physiognomic group) ✦ Characteristic plant species and their relative abundance ✦ Habitat specialist animal species presence/absence ✦ Critical ecological dynamics (e.g., flooding) ✦ Negative disturbance factors (e.g., invasive species) Different factors of the natural community are weighted more heavily than others such that the total E l e m e n t 5 : M o n i t o r i n g a n d E v a l u a t i o n]
+
+[FIGURE: the development, implementation, review and revision of the Plan with Federal, State and local agencies that manage significant land and water areas within the State or administer programs that significantly affect the conservation of identified species and habitats; and plans for public participation in the development, revision and implementation of the Plan.]
+
+[FIGURE: Agency (FSA) to integrate fish, forest, and wildlife considerations into implementation of Farm Bill programs that include Conservation Reserve Program (CRP), Environmental Quality Incentives Program (EQIP), Conservation Stewardship Program (CSP) and the Agricultural Conservation Easements Program (ACEP) which includes the Wetland Reserve Easements (WRE) component. The Department is also in partnership with other non-governmental organizations, besides those listed above, such as the National Wild Turkey Federation (NWTF), Quail Forever (QF), Pheasants Forever (PF), and Quail and Upland Wildlife Federation (QUWF) to develop cost-share and other initiatives through matching agreements.Other examples of such agreements can be found within the project-specific vignettes in each of the habitat system chapters within this Plan, which highlight additional partnerships crucial to the im-]
+
+[FIGURE: .J. and R.C. Crawford. 2011. Applying NatureServe's ecological integrity assessment methodology to Washington's ecological systems. Washington Natural Heritage Program, Natural Heritage Report 2011-10. Washington Dept. of Natural Resources, Olympia, WA.]
+
+[FIGURE: Figure 2.]
+
+[FIGURE: Figure 3.]
+
+[FIGURE: the potential historic extent of grassland/prairie/savanna communities in Missouri. Information including the presettlement prairie layer, current land conditions from the National Landcover Database, and the Department's Heritage database were used to identify grassland/prairie/ savanna Conservation Opportunity Areas. 1. Presettlement sixteen-digit Hydrologic Unit Code (HUC16) containing <50% grassland/pasture from NLCD (National Landcover Database) 2011 2. Presettlement HUC16 containing ≥50% grassland/pasture from NLCD 2011 3. Presettlement HUC16 containing ≥50% grassland/pasture, AND 1 recent* grassland/prairie heritage record 4. Presettlement HUC16 containing ≥50% grassland/pasture, AND >1 recent* grassland/prairie heritage record 5. HUC16 within a grassland/prairie opportunity area 6. HUC16 within a grassland/prairie opportunity area, AND contains >1 recent* grassland/prairie heritage record 7. HUC16 within a grassland/prairie opportunity area, AND contains a grassland easement and/or conservation network { } = Decisive selection criteria for Conservation Opportunity Areas * Recent Heritage Database records are considered since 1981 for community records and after 1989 for species records Prairie false foxglove (Agalinis heterophylla) ✦ Purple false foxglove (Agalinis purpurea) ✦ Green false foxglove (Agalinis viridis) ✦ Thimbleweed (Anemone cylindrica) ✦ Curly three-awn (Aristida desmantha) ✦ Wavy leaved thistle (Cirsium undulatum) ✦ Joint grass (Coelorachis cylindrica) ✦ Hale's corydalis (Corydalis micrantha subsp. australis) ✦ Narrowleaf rushfoil (Croton michauxii) ✦ Bristly flatsedge (Cyperus hystricinus) ✦ Teasel-like cyperus (Cyperus retrofractus) F White lady's slipper (Cypripedium candidum) ✦ Sand tick trefoil (Desmodium strictum) ✦ Velvetleaf tick trefoil (Desmodium viridiflorum) ✦ Blazing star (Liatris scariosa var. nieuwlandii) ✦ Pitcher's sandwort (Minuartia muscorum) ✦ Evening primrose (Oenothera clelandii) ✦ Small sundrops (Oenothera perennis) ✦ Scarlet gaura (Oenothera suffrutescens) ✦ Eastern prairie fringed orchid (Platanthera leucophaea) ✦ Western prairie fringed orchid (Platanthera praeclara) ✦ Dwarf chinquapin oak (Quercus prinoides) ✦ Double-formed snoutbean (Rhynchosia difformis) ✦ Narrow-leaved marsh pink (Sabatia brachiata) ✦ Kansas arrowhead (Sagittaria ambigua) ✦ Elliott's sida (Sida elliottii) ✦ Eastern blue-eyed grass (Sisyrinchium atlanticum) ✦ Bristly blue curls (Trichostema setaceum) ✦ Carolina clover (Trifolium carolinianum) ✦ Soapweed (Yucca glauca) C h a r a c t e r i s t i c : Rough false foxglove (Agalinis aspera) ✦ Eared false foxglove (Agalinis auriculata) ✦ Tall agrimony (Agrimonia gryposepala) ✦ Mead's milkweed (Asclepias meadii) ✦ Hairy grama (Bouteloua hirsuta) ✦ Blue hearts (Buchnera americana) ✦ Clustered poppy mallow (Callirhoe triangulata) ✦ Prairie grass pink (Calopogon oklahomensis) ✦ Prairie hyacinth (Camassia angusta) ✦ Downy yellow painted cup (Castilleja sessiliflora) ✦ Nine-anthered prairie clover (Dalea enneandra) ✦ Wolf's spike rush (Eleocharis wolfii) ✦ Downy gentian (Gentiana puberulenta) ✦ Skeleton plant (Lygodesmia juncea) ✦ Barbara's buttons (Marshallia caespitosa var. caespitosa) ✦ Bunch flower (Melanthium virginicum) ✦ Locoweed (Oxytropis lambertii) ✦ Silvery scurfy pea (Pediomelum argophyllum) ✦ Royal catchfly (Silene regia) An Andrenid bee (Andrena beameri) ✦ A Blue mud dauber (Chalybion zimmermanni zimmermanni) ✦ Prairie meadow katydid (Conocephalus saltans) ✦ Swift tiger beetle (Cylindera celeripes) ✦ A Moth (Dichagyris reliqua) ✦ Loamy-ground tiger beetle (Dromochorus pruinina) ✦ Haystack thatching ant (Formica fossaceps) ✦ Oak-grove ant (Formica querquetulana) ✦ Ottoe skipper (Hesperia ottoe) ✦ Packard's grasshopper (Melanoplus packardii) ✦ Grizzly grasshopper (Melanoplus punctulatus griseus) ✦ A Callirhoe bee (Melissodes intorta) ✦ American burying beetle (Nicrophorus americanus) ✦ A Leaf beetle (Phyllobrotica lengi) ✦ A Leaf beetle (Phyllobrotica nigritarsis) ✦ Sand grasshopper (Psinidia fenestralis) ✦ A Leaf beetle (Xenochalepus potomaca) C h a r a c t e r i s t i c : A Concealed-tymbal cicada (Beameria venosa) ✦ Monarch butterfly (Danaus plexippus) ✦ Prairie mole cricket (Gryllotalpa major) ✦ Regal fritillary (Speyeria idalia) F i s h e s Least darter (Etheostoma microperca) ✦ Northern plains killifish (Fundulus kansae) ✦ Blacknose shiner (Notropis heterolepis) ✦ Topeka shiner (Notropis topeka) C h a r a c t e r i s t i c : Plains topminnow (Fundulus sciadicus) ✦ Brassy minnow (Hybognathus hankinsoni) ✦ Common shiner (Luxilus cornutus) A m p h i b i a n s Illinois chorus frog (Pseudacris illinoensis) ✦ Eastern spadefoot (Scaphiopus holbrookii holbrookii) C h a r a c t e r i s t i c : Small-mouthed salamander (Ambystoma texanum) ✦ Eastern tiger salamander (Ambystoma trigrinum tigrinum) ✦ Western narrow-mouthed toad (Gastrophryne olivacea) ✦ Northern crawfish frog (Lithobates areolatus circulosus) R e p t i l e s Northern scarletsnake (Cemophora coccinea copei) ✦ Kirtland's snake (Clonophis kirtlandii) ✦ Dusty hog-nosed snake (Heterodon gloydi) ✦ Prairie massasauga (Sistrurus tergeminus tergeminus) Western slender glass lizard (Ophisaurus attenuatus attenuatus) ✦ Western foxsnake (Pantherophis ramspotti) ✦ Eastern foxsnake (Pantherophis vulpinus) ✦ Bullsnake (Pituophis catenifer sayi) ✦ Great plains skink (Plestiodon obsoletus) ✦ Southern prairie skink (Plestiodon septentrionalis obtusirostris) ✦ Northern prairie skink (Plestiodon septentrionalis septentrionalis) ✦ Ornate box turtle (Terrapene ornata ornata) ✦ Plains gartersnake (Thamnophis radix) ✦ Lined snake (Tropidoclonion lineatum) B i r d s Swainson's hawk (Buteo swainsoni) ✦ Field sparrow (Spizella pusilla) ✦ Barn owl (Tyto alba) C h a r a c t e r i s t i c : Henslow's sparrow (Ammodramus henslowii) ✦ Grasshopper sparrow (Ammodramus savannarum) ✦ Sprague's pipit (Anthus spragueii) ✦ Short-eared owl (Asio flammeus) ✦ Upland sandpiper (Bartramia langicauda) ✦ Northern harrier (Circus cyaneus) ✦ Northern bobwhite (Colinus virginianus) ✦ Prairie warbler (Dendroica discolor) ✦ Bobolink (Dolichonyx oryzivorus) ✦ Loggerhead shrike (Lanius ludovicianus) ✦ Dickcissel (Spiza americana) ✦ Eastern meadowlark (Sturnella magna) ✦ Greater prairie chicken (Tympanuchus cupido) ✦ Brown thrasher (Toxostoma rufum) ✦ Bell's vireo (Vireo bellii) ✦ Blue-winged warbler (Vermivora pinus) M a m m a l s Black-tailed jackrabbit (Lepus californicus) ✦ Long-tailed weasel (Mustela frenata) ✦ Least weasel (Mustela nivalis) C h a r a c t e r i s t i c : Thirteen-lined ground squirrel (Ictidomys tridecemlineatus) ✦ Plains pocket mouse (Perognathus flavescens) ✦ Franklin's ground squirrel (Poliocitellus franklinii) ✦ American badger (Taxidea taxus) acres of native prairie and 6.5 million acres of savanna historically existed in Missouri. Today, approximately one half of one percent of these diverse grasslands remain.]
+
+[FIGURE: L o e s s H i l l s P r a i r i eH istorically in Missouri, Loess Hill Prairies occurred along the Missouri River from the Iowa state line to south of St. Joseph. However, these prairies are now restricted to Atchison and Holt counties in the far northwestern corner of the state. Loess hill prairies are characterized by very deep, fertile soils, historically deposited as windblown silt and sand. Slopes are generally steep and soils are well-drained. Melting glaciers deposited silty soil in river valleys, which was later blown by wind and re-deposited as piles of deep loess on adjacent uplands. Today, these loess hills feature dry prairies on steep south-and west-facing bluffs with soils characterized by high levels of carbonates. Though many of the species of loess hill prairies are common to the Great Plains region, they are, in fact, rare in Missouri as their ranges only enter the northwestern part of the state. Common species found in loess prairies include thimbleweed (Anemone cylindrica), large beard-tongue (Penstemon grandiflorus), locoweed (Oxytropis lambertii), skeleton plant (Lygodesmia juncea), swift tiger beetle (Cylindera celeripes), mermiria grasshopper (Mermiria picta), and Packard's grasshopper (Melanoplus packardii). Examples of this community include Star School Hill Prairie Conservation Area (CA), Brickyard Hill CA, Jamerson McCormack CA, and Loess Bluffs National Wildlife Refuge (formerly Squaw Creek).L o e s s H i l l s P r a i r i eC a s e s t u d y : L o e s s H i L L s P r a i r i e C o m P L e x L o C a t i o n : L o e s s H i L L s P r a i r i e C o m P L e x C o a The Loess Hills Complex includes lands managed by the Missouri Department of Conservation and the U.S. Fish and Wildlife Service, and includes land owned by The Nature Conservancy. Overlooking Loess Bluffs National Wildlife Refuge (formerly Squaw Creek), the prairies are actively managed to preserve the unique biodiversity of these rare communities. Rare species found in this area include silvery psoralea, downy painted cup, soapweed, low milk vetch, and the swift tiger beetle. A combination of prescribed fire, mechanical clearing, and herbicides help maintain the open character of the landscape.]
+
+[FIGURE: C a s e s t u d y : G r a n d r i v e r G r a s s L a n d s P r i o r i t y G e o G r a P H y L o C a t i o n : G r a n d r i v e r G r a s s L a n d s C o a The Grand River Grasslands Priority Geography incorporates lands managed by the Missouri Department of Conservation and The Nature Conservancy. It supports several species of conservation concern, including northern prairie skinks, regal fritillary butterflies and Topeka shiners. Many important grassland birds (Henslow's sparrows, dickcissels, bobolinks, northern harriers) breed within this landscape, benefiting from prairie restoration projects at Dunn Ranch and Pawnee Prairie Natural Area.]
+
+[FIGURE: Conservation partners include Blank Park Zoo, Iowa Department of Natural Resources, Missouri Department of Conservation, The Nature Conservancy, Missouri River Bird Observatory, Natural Resources Conservation Service, and the U.S. Fish and Wildlife Service.]
+
+[FIGURE: Photo Credit: Pat Whalen]
+
+[FIGURE: Conservation partners include Cape Girardeau Conservation Campus Nature Center, Charleston Baptist Association, Eastern Illinois University, Missouri Botanical Garden, Missouri Department of Conservation, Missouri Department of Natural Resources, Missouri Prairie Foundation, Natural Resources Conservation Service, Quail Forever, Southeast Missouri State University, Southern Illinois University at Edwardsville, and the U.S. Fish and Wildlife Service. G R A S S L A N D / P R A I R I E / S AVA N N A C O N S E RVAT I O N S a v a n n a]
+
+[FIGURE: C a s e s t u d y : m i s s o u r i -i o w a w o o d L a n d / s a v a n n a G e o G r a P H y]
+
+[FIGURE: Iowa Department of Natural Resources, Missouri Bird Conservation Initiative, Missouri Department of Conservation, Missouri Prairie Foundation, Natural Resources Conservation Service, National Wild Turkey Federation, Quail Forever, Southern Iowa Oak Savanna Alliance, and the U.S. Fish & Wildlife Service.]
+
+[FIGURE: C a s e s t u d y : F L i G H t L a k e , d o u G L a s B r a n C H , a n d r i P G u t P r a i r i e L o C a t i o n : F o u r r i v e r s w e t L a n d a n d w e t P r a i r i e C o m P L e x C o a]
+
+[FIGURE: the extent of tree cover in Missouri. The forest and woodland Conservation Opportunity Areas were selected based on the Department's Forest/Woodland model, the current treed landcover from the National Landcover Database, and the Department's Heritage database of forest and woodland community and species records. S c o r i n g C r i t e r i a { } = Decisive selection criteria for Conservation Opportunity Areas (COAs) * Recent Heritage Database records are considered since 1981 for community records and after 1989 for species records]
+
+[FIGURE: Southern monkshood (Aconitum uncinatum) ✦ Purple giant hyssop (Agastache scrophulariifolia) ✦ Wild sarsaparilla (Aralia nudicaulis) Yellow screwstem (Bartonia virginica) ✦ American barberry (Berberis Canadensis) ✦ Harebell (Campanula rotundiflora) ✦ Slough sedge (Carex atherodes) ✦ Cumberland sedge (Carex cumberlandensis) ✦ Graceful sedge (Carex gracillima) ✦ Drooping sedge (Carex prasina) ✦ Tony's sedge (Carex reznicekii) ✦ Longbeaked sedge (Carex sprengelii) ✦ Willdenow's sedge (Carex willdenowii) ✦ Pretty sedge (Carex woodii) ✦ Ozark chinquapin (Castanea pumila var. ozarkensis) ✦ Alabama lip-fern (Cheilanthes alabamensis) ✦ Wooly-lip-fern (Cheilanthes tomentosa) ✦ Marine vine (Cissus trifoliata) ✦ Vase vine (Clematis viorna) ✦ Littlehip hawthorn (Crataegus spathulata) ✦ Showy lady's slipper (Cypripedium reginae) ✦ Fragile fern (Cystopteris tenuis) ✦ Tall larkspur (Delphinium exaltatum) ✦ American beak grass (Diarrhena americana) ✦ Leatherwood (Dirca decipiens) ✦ Spinulose shield fern (Dryopteris carthusiana) ✦ Intermediate shield fern (Dryopteris intermedia) ✦ Beech drops (Epifagus virginiana) ✦ Forked aster (Eurybia furcata) ✦ Big-leaved aster (Eurybia macrophylla) ✦ Northern bedstraw (Galium boreale) ✦ Pale sunflower (Helianthus decapetalus) ✦ Small-flowered alum root (Heuchera parviflora var. parviflora) ✦ Great St. John's-wort (Hypericum ascyron ssp. pyramidatum) ✦ Bushy St. John's Wort (Hypericum lobocarpum) ✦ Large whorled pogonia (Isotria verticillata) ✦ Prairie lily (Lilium philadelphicum var. andinum) ✦ Pond berry (Lindera melissifolia) ✦ Southern twayblade (Listera australis) ✦ Round-branched clubmoss (Lycopodium dendroideum) ✦ Ground cedar (Lycopodium tristachyum) ✦ Basil bee balm (Monarda clinopodia) ✦ Pennywort (Obolaria virginica) ✦ Black-seeded rice grass (Oryzopsis racemosa) ✦ Broom whitlow-wort (Paronychia virginica) ✦ Coville's phacelia (Phacelia covillei) ✦ Hoary mock orange (Philadelphus pubescens var. verrucosus) ✦ Broadleaf phlox (Phlox amplifolia) ✦ Amethyst shooting star (Primula fassettii) ✦ French's shooting star (Primula frenchii) ✦ Short-toothed mountain mint (Pycnanthemum muticum) ✦ Water oak (Quercus nigra) ✦ Nuttall's oak (Quercus texana) ✦ Redberried elder (Sambucus pubens) ✦ Soapberry (Sapindus saponaria var. drummondii) ✦ Wolfberry (Symphoricarpos occidentalis) ✦ Crane-fly orchid (Tipularia discolor) ✦ Ozark spiderwort (Tradescantia ozarkana) ✦ Running buffalo clover (Trifolium stoloniferum) ✦ Snow trillium (Trillium nivale) ✦ Ozark wake robin (Trillium pusillum var. ozarkanum) ✦ Cedar elm (Ulmus crassifolia) ✦ Ozark arrowwood (Viburnum bracteatum) ✦ Southern arrow-wood (Viburnum dentatum) ✦ Sand violet (Viola affinis) C h a r a c t e r i s t i c : Kidney-fruited sedge (Carex reniformis) ✦ Cespitose sedge (Carex socialis) ✦ Rose turtlehead (Chelone obliqua) ✦ Small leather flower (Clematis versicolor) ✦ Parsley hawthorn (Crataegus marshallii) ✦ Hay-scented fern (Dennstaedtia punctilobula) ✦ Stiff gentian (Gentianella quinquefolia ssp. occidentalis) ✦Small-flowered alum root (Heuchera parviflora var. puberula) ✦ Fir clubmoss (Huperzia porophila) ✦ Pale green orchid (Platanthera flava var. flava) ✦ Tubercled orchid (Platanthera flava var. herbiola) ✦ Sullivantia (Sullivantia sullivantii) M o l l u s k s Capital vertigo (Vertigo oscariana) I n s e c t s Linda's roadside skipper (Amblyscirtes linda) ✦ Northern metalmark (Calephelis borealis) ✦ Creighton's slavemaking ant (Formica creightoni) ✦ Geometrid moth (Lytrosis permagnaria) ✦ Long-horned shining amazon ant (Polyergus longicornis) ✦ Appalachian eyed brown (Satyrodes appalachia leeuwi) F i s h e s Niangua darter (Etheostoma nianguae) ✦ Least brook lamprey (Lampetra aepyptera) ✦ Bluestripe darter (Percina cymatotaenia) Ringed salamander (Ambystoma annulatum) Mole salamander (Ambystoma talpoideum) ✦ Longtailed salamander (Eurycea longicauda longicauda) ✦ Dark-sided salamander (Eurycea longicauda melanopleura) ✦ Four-toed salamander (Hemidactylium scutatum) ✦ Wood frog (Lithobates sylvaticus) ✦ Western slimy salamander (Plethodon albagula) ✦ Ozark zigzag salamander (Plethodon angusticlavius) ✦ Southern red-backed salamander (Plethodon serratus) ✦ Pickerel frog (Rana palustris) R e p t i l e s C h a r a c t e r i s t i c : Timber rattlesnake (Crotalus horridus) ✦ Prairie lizard (Sceloporus undulatus hyacinthinus) ✦ Little brown skink (Scinella lateralis) ✦ Northern red-bellied snake (Storeria occiptomaculata occipitomaculata) ✦ Three-toed box turtle (Terrapene carolina triunguis) B i r d s Sharp-shinned hawk (Accipiter striatus) ✦ Chestnut-sided warbler (Setophaga pensylvanica) ✦ Black-throated green warbler (Setophaga virens) C h a r a c t e r i s t i c : Chuck-will's-widow (Antrostomus carolinensis) ✦ Whip-poor-will (Antrostomus vociferus) ✦ Yellowbilled cuckoo (Coccyzus americanus) ✦ Eastern wood-pewee (Contopus virens) ✦Yellow-throated warbler (Dendroica dominica) ✦ Acadian flycatcher (Empidonax virescens) ✦ Kentucky warbler (Geothlypis formosa) ✦ Worm-eating warbler (Helmitheros vermivorus) ✦ Wood thrush (Hylocichla mustelina) ✦ Swainson's warbler (Limnothlypis swainsonii) ✦ Red-headed woodpecker (Melanerpes erythrocephalus) ✦ Summer tanager (Piranga rubra) ✦ Prothonotary warbler (Protonotaria citrea) ✦ Louisiana waterthrush (Seiurus motacilla) ✦ Cerulean warbler (Setophaga cerulea) ✦ Bewick's wren (Thryomanes bewickii) M a m m a l s Silver-haired bat (Lasionycteris noctivagans) ✦ Northern myotis (N. long eared bat) (Myotis septentrionalis) ✦ Plains spotted skunk (Spilogale putorius interrupta) C h a r a c t e r i s t i c : Southeastern bat (Myotis austroriparius) ✦ Indiana bat (Myotis sodalis) ✦ Golden mouse (Ochrotomys nuttalli) ✦ Black bear (Ursus americanus)]
+
+[FIGURE: e s t u d y : d a r k H o L L o w n a t u r a L a r e a L o C a t i o n : s P r i n G C r e e k w a t e r s H e d C o a]
+
+[FIGURE: C a s e s t u d y : s u n k L a n d s C o n s e r v a t i o n a r e a L o C a t i o n : C u r r e n t r i v e r H i L L s F o r e s t / w o o d L a n d C o a]
+
+[FIGURE: e s t u d y : m e r a m e C r i v e r H i L L s P r i o r i t y F o r e s t L a n d s C a P e L o C a t i o n : s H o a L C r e e k w o o d L a n d s C o a]
+
+[FIGURE: C a s e s t u d y : s H a w n a t u r e r e s e r v e F O R E S T A N D W O O D L A N D C O N S E RVAT I O N G laciated woodland communities, much like the glaciated forests, are found throughout the Central Dissected Till Plains. They are common on south-and west-facing upper slopes, ridgetops, bluffs, and knobs. The loess and limestone/ dolomite soil complexes where they are found are deep and fairly well drained and range from moderately acidic to slightly alkaline in nature.]
+
+[FIGURE: Spring Creek Watershed Priority Geography include the Farm Service Agency, Missouri Conservation Heritage Foundation, Missouri Department of Conservation, Missouri Department of Natural Resources, Missouri Prairie Foundation, National Wild Turkey Federation, Natural Resources Conservation Service, Quail Forever, Soil and Water Conservation District (Adair, Putnam, and Sullivan counties), Truman State University, and the U.S. Fish and Wildlife Service.]
+
+[FIGURE: e s t u d y : s P r i n G C r e e k w a t e r s H e d P r i o r i t y G e o G r a P H y L o C a t i o n : s P r i n G C r e e k w a t e r s H e d C o a]
+
+[FIGURE: 2009. Missouri Department of Conservation and AmeriCorps St.Louis and other volunteers helped with subsequent burns, providing staff and equipment. The National Park Service joined forces to help write a grant that allowed Pioneer Forest to hire its first burn crew in 2014 and again in 2015. Five hundred acres of pine woodland are currently under fire management at this site, with plans to add more in the future.Conservation partners include theAldo Leopold Foundation, AmeriCorps St. Louis, L-A-D Foundation, Missouri Department of Conservation, National Park Service, Oak Woodland and Forest Fire Consortium, The Nature Conservancy, University of Missouri Student Association of Fire Ecology, University of Wisconsin Platteville, and local individual volunteers.]
+
+[FIGURE: z a r k O a k -P i n e a n d P i n e W o o d l a n d s C a s e s t u d y : P i o n e e r F o r e s t L o C a t i o n : C u r r e n t r i v e r H i L L s F o r e s t / w o o d L a n d C o a F O R E S T A N D W O O D L A N D C O N S E RVAT I O N T he hardwood woodlands of the Ozarks are found on the upper portions of escarpments, knolls, and the ridges of terraces, on well-drained, rocky soils, typically on south-and west-facing aspects and ridgetops. These soils are usually fairly acidic and low in fertility. These woodlands are also associated with the cherty limestone/dolomite soils that occur throughout most of Missouri. The overstory of this community type ranges from open grown to a closed canopy, but has an open understory and sparse herbaceous layer, consisting of grasses, sedges, forbs, and legumes. Oaks and hickories dominate this landscape from the small statured post oak (Quercus stellata), black oak (Quercus veluntina), blackjack oak (Quercus marilandica), and pignut hickory (Carya glabra) to the taller white oak (Quercus alba), southern red oak (Quercus falcata), and mockernut hickory (Carya tomentosa). The understory includes small trees and shrubs like American hazelnut (Corylus americana), and lowbush blueberry (Vacciinium pallica). O z a r k H a r d w o o d W o o d l a n d F O R E S T A N D W O O D L A N D C O N S E RVAT I O N Shoal Creek Woodlands Priority Geography (SCW) consists of 63,000 acres nestled within the scenic Ozark hills of Crawford and Washington counties consisting of 87% woodlands, 11% grasslands, and 300 miles of streams. landscape is rugged, with narrow ridges and valley bottoms, steep slopes, cliffs, springs and caves. SCW supports a rich community of species including gray bats, blue-winged warblers, and running buffalo clover and is worthy of conserving for future generations. SCW's public and private land ownership is almost evenly split. Landowners are actively adopting Best Management Practices (BMPs) such as alternative watering systems, fencing of woodlands and riparian zones, planned grazing systems, stream bank stabilization, tree planting, and woodland thinning. Monitoring SCW's amphibians, bats, birds, fish, and plant communities is being conducted to detect landscape-scale responses to BMPs. Recognizing the significance of natural resources in the area, The Shoal Creek Woodlands for Wildlife Partnership was formed. This group is a citizen-led conservation partnership that includes ag-ricultural producers, local business owners, and recreational landowners who support efforts to implement BMPs to enhance habitat. Conservation partners include the Fishers and Farmers Partnership, Missouri Department of Conservation, Missouri Department of Natural Resources, The National Fish and Wildlife Foundation, The Nature Conservancy, Ozark Regional Land Trust, Public Broadcasting System, Shoal Creek Woodlands for Wildlife Partnership, Soil and Water Conservation Districts, University of Missouri Extension, and U.S. Forest Service, and U.S. Fish and Wildlife Service. O z a r k H a r d w o o d W o o d l a n d C a s e s t u d y : s H o a L C r e e k w o o d L a n d s P r i o r i t y G e o G r a P H y L o C a t i o n : s H o a L C r e e k w o o d L a n d s C o a open, rocky barren areas usually within woodland dominated terrain. Steep slopes, active erosion, and resistant bedrock maintain shallow soils. Living among the shallow soils are drought-adapted forbs, warm-season grasses, and a specialized fauna. Much of the growing season is characterized by high temperatures, intense solar radiation, and dry conditions; however, during spring, winter, and fall, the soils can become saturated. Trees and shrubs do occur on glades, but are not dominant unless overgrazing and/or disruption of fire cycles have allowed for invasion by woody species.]
+
+[FIGURE: the extent of potential glade areas within Missouri. Known glade locations, mapped by Paul Nelson, and Heritage database information on glade community and species records were used to select the designated Conservation Opportunity Areas containing glade communities. Glade density based on natural data breaks: >0 and <0.00175 * Glade density based on natural data breaks: >0.00175 and <0.00487 * Glade density based on natural data breaks: >0.00487 and <0.0127 * Glade density based on natural data breaks: >0.0127 and <0.0426 *5. Glade density based on natural data breaks: >0.0426 * 6. Glades in the existing conservation network 7. Glades within selected high priority forest/woodland landscape or high priority glade area 8. Glades within selected high priority forest/woodland landscape or high priority glade area, AND ≥1 glade heritage record Glades within selected high priority forest/woodland landscape or high priority glade area, AND intersect conservation network land 10. Glades within selected high priority forest/woodland landscape or high priority glade area, AND intersect conservation network land, AND ≥ 1 glade heritage record Glade area is acreage-based, taken from the Central Hardwoods Joint Venture Glade Conservation Assessment for the Interior Highlands and Interior Low Plateaus of the Central Hardwoods Region, developed by Nelson, et al., in 2013.S c o r i n g C r i t e r i a { } = Decisive selection criteria for Conservation Opportunity Areas * Glade density = total area of glades divided by the total area of the HUC16 (Hydrologic Unit Code) they fall within Ciliate blue star (Amsonia ciliata var. filifolia) ✦ Bush's poppy mallow (Callirhoe bushii) ✦ Little tooth sedge (Carex microdonta) ✦ Narrow-leaved barbara's buttons (Marshallia caespitosa var. signata) ✦ Stemless evening primrose (Oenothera triloba) ✦ Harvey's beak rush (Rhynchospora harveyi) ✦ Thelesperma (Thelesperma filifolium) ✦ Ozark corn salad (Valerianella ozarkana) ✦ Soft soapweed (Yucca arkansana) ✦ Death camas (Zigadenus nuttallii) C h a r a c t e r i s t i c : Crawe's sedge (Carex crawei) ✦ Fremont's leather flower (Clematis fremontii)✦ Gattinger's prairie clover (Dalea gattingeri) ✦ Trelease's larkspur (Delphinium treleasei) ✦ Yellow coneflower (Echinacea paradoxa) ✦ Umbrella plant (Eriogonum longifolium var. longifolium) ✦ Geocarpon (Geocarpon minimum)✦ Stiff sandwort (Minuartia michauxii) ✦ Celestial lily (Nemastylis geminiflora) ✦ A beard-tongue (Penstemon cobaea) ✦ Missouri bladderpod (Physaria filiformis) ✦ Bush's skullcap (Scutellaria bushii) ✦ Gattinger's goldenrod (Solidago gattingeri) A r a c h n i d s C h a r a c t e r i s t i c : Missouri tarantula (Aphonopelma hentzi) ✦ Striped bark scorpion (Centruroides vittatus) I n s e c t s Purple small-headed fly(Lasia pururata) ✦ Truculent camel cricket (Phrixocnemis truculentus) C h a r a c t e r i s t i c : A Glade grasshopper (Amblytropidia mysteca) ✦ A Glade grasshopper (Pardalophora saussurei) Eastern collared lizard (Crotaphytus collaris) ✦ Great plains ratsnake (Elaphe guttata emoryi) ✦ Southern coal skink (Eumeces anthracinus pluvialis) ✦ Eastern coachwhip (Masticophis flagellum flagellum) ✦ Western pygmy rattlesnake (Sistrurus miliarius streckeri) ✦ Variable groundsnake (Sonora semiannulata) ✦ Flat-headed snake (Tantilla gracilis) B i r d s C h a r a c t e r i s t i c : Greater roadrunner (Geococcyx californianus) ✦ Yellow-breasted chat (Icteria virens) ✦ Painted bunting (Passerina ciris) ✦ Bachman's sparrow (Peucaea aestivalis)T he largest threats to glade systems today include erosion of already shallow glade soils, invasion by both native and exotic species, development, and exploitation of glade flora and fauna.]
+
+[FIGURE: in Missouri must focus on protecting intact, remnant habitats, proactive restoration of additional sites, and maintenance of those glade communities that have been successfully restored. Depending on their size, many glade systems are restored and managed in combination with surrounding natural community management, especially woodlands, which are highly associated with glades. Glade management may involve limited land acquisition, but in most instances requires restoration practices on existing public lands and/or cooperation with private landowners.Conversion of rank, monoculture stands of eastern red cedar or other woody species to open, connected landscapes remains a guiding objective in glade restoration. The removal of grazing livestock and invasive woody vegetation, as well as the reintroduction of fire are key to meeting that objective.]
+
+[FIGURE: C a s e s t u d y : w i L d C a t G L a d e s C o n s e r v a t i o n & a u d u B o n C e n t e r L o C a t i o n : C H e r t G L a d e C o m P L e x C o a Twenty-seven acres of chert glades have been safeguarded in a collaborative partnership between the City of Joplin, The Missouri Department of Conservation (Department), and the National Audubon Society. Individuals in the local Ozark Gateway Audubon chapter inspired this project. Wildcat Glades Conservation and Audubon Center opened in 2007 as product of this partnership. Local Department offices share the distinctive, chert-inspired building with its green technologies and provide outreach that complements Center programs. Leasing 65 of Wildcat Park's 170 acres, the Center provides access and education to the public through the Center facility which includes exhibits on local natural history, interpretive programs, and a trail system with five outdoor learning stations linked to the city's biking and hiking trails. In addition to educational programs, the Center has involved the public in invasive species removal and planting of appropriate native species. Missouri Master Naturalist Chert Glades Chapter is currently constructing a glade learning station for the Center. The adjacent Wildcat Glade Natural Area, owned by the Department and the City of Joplin, represents the best remaining ex-ample of a chert glade ecosystem. It is managed by the Department primarily with prescribed fire to protect the unique species found there. The city portion of Wildcat Park has benefited from greater park usage and scrutiny resulting in less littering and vandalism.]
+
+[FIGURE: olomite glades are open, rocky areas with very shallow soils dominated by drought-adapted herbaceous flora, generally occurring on south-and west-facing slopes of otherwise wooded sites. While glade plants, in general, are well adapted to surviving harsh environments, dolomite glades have further unique and characteristic flora, such as Missouri coneflower (Rudbeckia missouriensis) and calamint (Calamintha arkansana).]
+
+[FIGURE: C a s e s t u d y : a n G e L i n e C o n s e r v a t i o n a r e a L o C a t i o n : C u r r e n t r i v e r H i L L s G L a d e s C o a Located in the heart of the Ozarks, the Angeline Conservation Area consists of approximately 40,000 acres of public land. The natural communities on this area include upland and bottomland forests, woodlands, sinkholes, caves, Ozark fens, igneous glades, and 111 acres of dolomite glades. Glade restoration management activities since the early 2000s have included removal of invasive eastern red cedar (utilizing commercial timber sales, contractors, and Ameri-Corps St. Louis crews) and prescribed fire.]
+
+[FIGURE: River Hills Priority Geography include the Missouri Bird Conservation Initiative, Missouri Conservation Heritage Foundation, Missouri Department of Conservation, Natural Resources Conservation Service, National Wild Turkey Federation, Quail Forever, Quail and Upland Wildlife Federation-Ruffed Grouse Chapter, and the U.S. Fish and Wildlife Service.]
+
+[FIGURE: C a s e s t u d y : d a n v i L L e C o n s e r v a t i o n a r e a L o C a t i o n : m i s s o u r i r i v e r H i L L s C o a]
+
+[FIGURE: Conservation actions have included cedar and woody plant removal as well as prescribed fire. Long-term glade vegetation monitoring data indicates increased numbers of geocarpon as a result of these management activities.Conservation partners include the Missouri Botanical Garden, Missouri Department of Conservation, Missouri Master Naturalists, U.S. Army Corps of Engineers, and the U.S. Fish and Wildlife Service.]
+
+[FIGURE: C a s e s t u d y : B o n a G L a d e n a t u r a L a r e a G L A D E C O N S E RVAT I O N]
+
+[FIGURE: C a s e s t u d y : s t . F r a n C o i s C o u n t y -k o s s m a n P r o P e r t y L o C a t i o n : s t . F r a n C o i s k n o B s G L a d e s a n d w o o d L a n d s C o a 2015 with soluble limestone or dolomite geology are known as karst. Acidic rainwater dissolves rock in karst areas over time to create caverns below the surface. Missouri has five primary Karst regions: Hannibal Karst, St. Louis Karst, Perryville Karst, Salem Plateau, and Springfield Plateau. The Hannibal and St. Louis Karsts, which are located in the northeastern and eastern part of the state, respectively, generally exhibit low biodiversity.]
+
+[FIGURE: Straw sedge (Carex straminea) ✦ Log fern (Dryopteris celsa) ✦ Crested shield fern (Dryopteris cristata) ✦ Goldie fern (Dryopteris goldiana) ✦ Hedge hyssop (Gratiola viscidula) ✦ Whorled water pennywort (Hydrocotyle verticillata) ✦ Virginia sneezeweed (Helenium virginicum) ✦ Forked duckweed (Lemna trisulca) ✦ Horned rush (Rhynchospora macrostachya var. macrostachya) ✦ Canby's bulrush (Schoenoplectus etuberculatus) ✦ Hall's bulrush (Schoenoplectus hallii) ✦ Swaying bulrush (Schoenoplectus subterminalis) C h a r a c t e r i s t i c : Epiphytic sedge (Carex decomposita) ✦ Engelmann's quillwort (Isoetes engelmannii var. engelmannii) F l a t w o r m s Pink planarian (Macrocotyla glandulosa) ✦ Lewis' cave planarian (Macrocotyla lewisi) ✦ Perryville cave planarian (Sphalloplana evaginata) ✦ Hubricht's cave planarian (Sphalloplana hubrichti) M o l l u s k s Stygian amnicola (Amnicola stygius) ✦ Missouri cave snail (Fontigens antroecetes) ✦ Proserpine cave snail (Fontigens proserpina) ✦ Tumbling Creek Cave snail (Antrobia culveri) A r a c h n i d s Mystery cave pseudoscorpion (Apochthonius mysterius) ✦ Stone County cave pseudoscorpion (Apochthonius typhlus) ✦ Cavernicolous pseudoscorpion (Mundochthonius caves/karstrnicolus) ✦ Subterranean cave spider (Phanetta subterranea) ✦ Cavernicolous porrhomma spider (Porrhomma canernicola) C r u s t a c e a n s Hubricht's long-tailed amphipod (Allocrangonyx hubrichti) ✦ Sword-tail cave amphipod (Bactrurus hubrichti) ✦ False sword-tail cave amphipod (Bactrurus pseudodomucronatus) ✦ Ashley's isopod (Brackenridgia ashleyi) ✦ An Isopod (Caecidotea dimorpha) ✦ Fustis cave isopod (Caecidotea fustis) ✦ Salem cave isopod (Caecidotea salemensis) ✦ Serrated cave isopod (Caecidotea serrata) ✦ Slender-fingered cave isopod (Caecidotea stiladactyla) ✦ Stygian cave isopod (Caecidotea stygia) ✦ Cave crayfish (Cambarus aculabrum) ✦ Bristly cave crayfish (Cambarus setosus) ✦ Yeatman's groundwater copepod Diacyclops yeatmani) ✦ Meek's crayfish (Orconectes meeki meeki) ✦ Caney Mountain cave crayfish (Orconectes stygocaneyi) ✦ Barr's groundwater amphipod (Stygobromus barri) ✦ Clanton's groundwater amphipod clantoni) ✦ Onondaga Cave amphipod (Stygobromus onondagaensis) ✦ Subtle groundwater amphipod (Stygobromus subtilis) M i l l i p e d e s Causeyella cave millipede (Causeyella dendropus) ✦ Aleys' cave millipede (Chaetaspis aleyorum) ✦ Zosteractis cave millipede (Zosteractis interminata) I n s e c t s Ozark stonefly (Acroneuria ozarkensis) ✦ Artesian agapetus caddisfly (Agapetus artesus) ✦ Marbled underwing moth (Catocala marmorata) ✦ Missouri glyphopsyche caddisfly (Glyphopsyche missouri) ✦ Hoff's Cave springtail (Oncopodura hoffi) ✦ Espana Cave springtail (Pseudosinella espana) ✦ Avita Cave springtail (Sinella avita) ✦ Barr's Cave springtail (Sinella barri) ✦ Missus Cave springtail (Tomocerus missus) ✦ Northern xenotrechus cave beetle (Xenotrechus condei) ✦ Southern xenotrechus cave beetle (Xenotrechus denticollis) F i s h e s Ozark cavefish (Amblyopsis rosae) ✦ Grotto sculpin (Cottus specus) ✦ Spring cavefish (Forbesichthys agassizii) ✦ Southern cavefish (Typhlichthys subterraneus) A m p h i b i a n s C h a r a c t e r i s t i c : Grotto salamander (Eurycea spelaea) ✦ Cave salamander (Eurycea lucifuga) M a m m a l s Rafinesque's big-eared bat (Corynorhinus rafinesquii) C h a r a c t e r i s t i c : Gray bat (Myotis grisescens) ✦ Eastern smallfooted myotis (Myotis leibii)]
+
+[FIGURE: Due to the large opening above the Current River, vandalism occasionally occurred. The cave was originally protected with a chain-link fence that had been breached several times. To protect the cave resources and important bat hibernaculum, in 2012 partners from several organizations constructed a proper, bat-friendly cave gate, which is now the largest standing cave gate in the United States. Missouri Department of Conservation was the lead with support from a U.S. Fish and Wildlife Service White-nose Syndrome Grants to States award.Conservation partners include AmeriCorps, Karst Solutions (Jerry Fant and crew), Missouri Department of Conservation, Missouri Department of Natural Resources State Parks Division, The Nature Conservancy, the National Park Service Ozark National Scenic Riverways, and the U.S. Fish and Wildlife Service.]
+
+[FIGURE: 's ceiling collapses, a sinkhole is formed. The sinkhole sometimes becomes blocked with surface materials and fills with water, creating a pond. Sinkhole pond communities vary a great deal-some are dominated by trees while others may have mainly herbaceous or shrubby vegetation. Upland sinkhole ponds are important sources of water for wildlife. Species like deer, turkey, and wood ducks will often be found at the ponds. Additionally, amphibians use them both for feeding and breeding. locations where water discharges from the ground by means of gravity or hydrostatic pressure. Missouri springs are either fresh water or mineral/salt springs and are primarily categorized as either seeps or underground streams, which are often associated with aquatic caves. Because of the connection to aquatic caves and cool, clear, constant water conditions, many cave organisms, such as aquatic snails, amphipods, isopods, crawfish, salamanders and sculpin, are often found in springs(Schaper 2007). In fact, because aquatic cave communities are largely inaccessible, much of what we know of these communities is learned through studies within cave springs, sinkholes and similar small windows into this community. Management of groundwater quality through their recharge watershed is critical to the conservation of the aquatic cave community.C AV E A N D K A R S T C O N S E RVAT I O NC a s e s t u d y : P e r r y C o u n t y -s P r i n G d e v e L o P m e n t]
+
+[FIGURE: Partners include the Farm Service Agency, Missouri Department of Conservation, Natural Resources Conservation Service, and the U.S. Fish and Wildlife Service. e s t u d y : P e r r y C o u n t y ( C o n t i n u e d ) -s i n k H o L e C L e a n u PIn addition to the spring protection discussion on the previous page, sinkhole cleanup and protection is also important in the Perry County karst region. Many of the sinkholes located in Perry County have historically been used as trash dumps. This refuse can break down and leach into the underground water supply and subsurface streams causing degradation in the water quality in this geography. Landowners have been very receptive to cleaning these unsightly sinkholes and restoring them to their natural state. Cost-share funds have also aided landowners to off-set the cost of these cleanups. Most of the refuse is household trash, tires, metals, and even old discarded herbicide containers. Pictured above is an example of a recent cost-share project in which conservation partners assisted a private landowner in Perry County with a sinkhole cleanup. Refuse from this cleanup was excavated and taken to a permitted landfill facility for proper disposal.Conservation Partners include the Farm Service Agency, Missouri Department of Conservation, Natural Resources Conservation Service, and the U.S. Fish and Wildlife Service.]
+
+[FIGURE: communities resulting from saturation by surface or groundwater, which create hydric soil conditions favoring the development of hydrophytic vegetation. Plants and animals living in wetland natural communities have evolved specific physiological and behavioral adaptations to deal with fluctuating water levels and flooded conditions. The timing, duration, and extent of flooding and/or soil saturation are key factors influencing wetland type and function along with soils and water chemistry.]
+
+[FIGURE: flood damage, and providing great places to recreate.Wetland-dependent species have responded positively to previous wetland restoration efforts in Missouri. Today, wetland complexes along the Mississippi and Missouri rivers and their tributaries are recognized for their continental significance to waterfowl, water birds, and land birds. Recent research has shown that efforts to restore connectivity to floodplains have also been beneficial to specific riverine fish species (Missouri Department of Conservation 2015). Other research shows that certain amphibian species are using and successfully recruiting young on newly created wetlands (Missouri Department of Conservation 2015).]
+
+[FIGURE: the extent of mapped partially-hydric and hydric soils within Missouri floodplains. This base information, as well as Heritage database records for wetland communities and species was used to determine the potential extent of wetland Conservation Opportunity Areas throughout the state. Tufted foxtail (Alopecurus aequalis) ✦ Shining false indigo (Amorpha nitens) ✦ Cut-leaved water-parsnip (Berula erecta var. incisa) ✦ Marsh marigold (Caltha palustris) ✦ Marsh bellflower (Campanula aparinoides) ✦ Thicket sedge (Carex abscondita) ✦ A sedge (Carex atlantica ssp atlantica) ✦ A sedge (Carex bromoides ssp bromoides) ✦ Bristly sedge (Carex comosa) ✦ Large sedge (Carex gigantea) ✦ A Sedge (Carex molestiformis) ✦ Dioecious sedge (Carex sterilis) ✦ Swamp loosestrife (Decodon verticillatus) ✦ Purple spike rush (Eleocharis atropurpurea) ✦ Lance-like spike rush (Eleocharis lanceolata) ✦ Fen willow herb (Epilobium leptophyllum) ✦ Strawberry bush (Euonymus americanus) ✦ Virginia sneezeweed (Helenium virginicum) ✦ Blue waterleaf (Hydrolea ovata) ✦ Creeping St. John's wort (Hypericum adpressum) ✦ American frogbit (Limnobium spongia ssp. spongia) ✦ A Lipocarpha (Lipocarpha drummondii) ✦ Hairy primrose willow (Ludwigia leptocarpa) ✦ Smallfruited false loosestrife (Ludwigia microcarpa) ✦ Swamp candles (Lysimachia terrestris) ✦ Tufted loosestrife (Lysimachia thyrsiflora) ✦ Bracted water hyssop (Mecardonia acuminata) ✦ Buckbean (Menyanthes trifoliata) ✦ Miterwort (Mitreola petiolata) ✦ Orange fringed orchid (Platanthera ciliaris) ✦ Small green fringed orchid (Platanthera clavellata) ✦ Snakemouth orchid (Pogonia ophioglossoides) ✦ Wild black current (Ribes americanum) ✦ Lake cress (Rorippa aquatica) ✦ Weakstalk bulrush (Schoenoplectus purshianus) ✦ Rocky mountain bulrush (Schoenoplectus saximontanus) ✦ Cloaked bulrush (Scirpus pallidus) ✦ Marsh skullcap (Scutellaria galericulata) ✦ Steeple bush (Spiraea tomentosa) ✦ Water canna (Thalia dealbata) ✦ Marsh St. John's wort (Triadenum tubulosum) ✦ Lesser bladderwort (Utricularia minor) ✦ Hair bladderwort (Utricularia subulata) ✦ Northern arrow-wood (Viburnum recognitum) ✦ Mud midget (Wolffiella gladiata) ✦ Netted chain fern (Woodwardia areolata) ✦ Tall yellow-eyed grass (Xyris jupicai) C h a r a c t e r i s t i c : Decurrent false aster (Boltonia decurrens) ✦ Grass pink (Calopogon tuberosus) ✦ Hairy-fruited sedge (Carex trichocarpa) ✦ Finger dog-shade (Cynosciadium digitatum) ✦ Water violet (Hottonia inflata) ✦ Corkwood (Leitneria floridana) ✦ Green twayblade (Liparis loeselii) ✦ Water tupelo (Nyssa aquatica) ✦ Riddell's goldenrod (Oligoneuron riddellii) ✦ Grass-of-Parnassus (Parnassia grandifolia) Swamp lousewort (Pedicularis lanceolata) ✦ Mock bishop's weed (Ptilimnium capillaceum) ✦ Swamp goldenrod (Solidago patula) C r u s t a c e a n s Painted devil crayfish (Cambarus ludovicianus) ✦ Digger crayfish (Fallicambarus fodiens) ✦ Shrimp crayfish (Orconectes lancifer) ✦ Longtail tadpole shrimp (Triops longicaudatus) I n s e c t s Eastern red damsel (Amphiagrion saucium) ✦ Paiute dancer (Argia alberta) ✦ Bayou clubtail (Arigomphus maxwelli) ✦ Duke's skipper (Euphyes dukesi) ✦ Saline spring tiger beetle (Habroscelimorpha circumpicta johnsonii) ✦ Sedge sprite (Nehalennia irene) ✦ Slightlymusical conehead katydid (Neoconocephalus exiliscanorus) ✦ Bog conehead katydid (Neoconocephalus lyristes) ✦ Hoosier grasshopper (Paroxya hoosieri) ✦ A Shore bug (Pentacora signoreti) ✦ Spined grouse locust (Tettigidea armata) C h a r a c t e r i s t i c : Swamp metalmark (Calephelis muticum) ✦ Bald cypress katydid (Inscudderia taxodii) ✦ Sphagnum sprite (Nehalennia gracilis) ✦ Hine's emerald (Somatochlora hineana) F i s h e s Central mudminnow (Umbra limi ) C h a r a c t e r i s t i c : Ghost shiner (Notropis buchanani) A m p h i b i a n s Great plains toad (Anaxyrus cognatus) C h a r a c t e r i s t i c : Blanchard's cricket frog (Acris crepitans blanchardi) ✦ Three-toed amphiuma (Amphiuma tridactylum) ✦ Green treefrog (Hyla cinerea) ✦ Plains leopard frog (Lithobates blairi) ✦ Southern leopard frog (Lithobates sphenocephalus) ✦ Plains spadefoot (Spea bombifrons) Yellow mud turtle (Kinosternon flavescens) C h a r a c t e r i s t i c : Southern painted turtle (Chrysemys picta doralis) ✦ Western chicken turtle (Deirochelys reticularia miaria) ✦ Blanding's turtle (Emydoidea blandingii) ✦ Western mudsnake (Farancia abacura reinwardtii) ✦ Graham's crayfish snake (Regina grahamii) B i r d s Great Egret (Ardea alba) ✦ American bittern (Botaurus lentiginosus) ✦ Marsh wren (Cistothorus palustris) ✦ Little blue heron (Egretta caerulea) ✦ Snowy egret (Egretta thula) ✦ Peregrine falcon (Falco peregrinus) ✦ Common gallinule (Gallinula galeata) ✦ Sandhill crane (Grus canadensis) ✦ Black rail (Laterallus jamaicensis) ✦ Interior least tern (Sterna antillarum athalassos) C h a r a c t e r i s t i c : Yellow rail (Coturnicops noveboracensis) ✦ Rusty blackbird (Euphagus carolinus) ✦ Least bittern (Ixobrychus exilis) ✦ Black-crowned night-heron (Nycticorax nycticorax) ✦ Sora (Porzana carolina) ✦ King rail (Rallus elegans) ✦ Virginia rail (Rallus limicola) M a m m a l s C h a r a c t e r i s t i c : Rice rat (Oryzomys palustris) ✦ Cotton mouse (Peromyscus gossypinus) ✦ Swamp rabbit (Sylvilagus aquaticus) M issouri has lost over 87% of its wetland communities mainly due to conversion to agriculture and to a lesser extent urbanization and reservoir construction. Beyond outright destruction and conversion to a different land use, alterations of Missouri's landscape have led to extensive loss and degradation of Missouri wetlands.]
+
+[FIGURE: hold water in the fall through spring while drying up in summer. These wetlands can range from open mud flats to dense herbaceous vegetation. Ephemeral wetlands in the main floodplain of river systems were historically created by river scour and channel migration. Annual wetland plants such as beggar ticks (Bidens spp.), smartweeds (Persicaria spp.), wild millet (Echinochloa muricata), and flatsedges (Cyperus spp.) often dominate. These dynamic "moist soil" wetlands can provide important food sources in spring and fall for migrating waterfowl and shorebirds.Isolated ephemeral wetlands occur in depressions and sinkholes in the uplands and on floodplain terraces and, because they are typically fishless, they are important larval nurseries for many amphibian species, including frogs, toads, and salamanders. This includes a number of species of greatest conservation need, such as the Illinois chorus frog (Pseudacris illinoensis), wood frog (Lithobates sylvaticus), and ringed salamander (Ambystoma annulatum).E p h e m e r a lC a s e s t u d y : P r a i r i e F o r k a n d d a n v i L L e C o n s e r v a t i o n a r e a s L o C a t i o n : P r a i r i e F o r k a n d m i s s o u r i r i v e r H i L L s C o a s]
+
+[FIGURE: Photo Credit: Ken McCarty, DNR]
+
+[FIGURE: Conservation actions have included removal of woody invaders, treatment of reed canary grass, prescribed fire, and infrastructure improvements to improve water management capabilities.Conservation partners include Ducks Unlimited, Missouri Department of Conservation, U.S. Army Corps of Engineers, and U.S. Fish and Wildlife Service.]
+
+[FIGURE: e s t u d y : a u G u s t a . B u s C H , J r . m e m o r i a L w e t L a n d s L o C a t i o n : F o u r r i v e r s w e t L a n d a n d w e t P r a i r i e C o m P L e x C o a August A. Busch, Jr. Memorial Wetlands is an area in Four Rivers Conservation Area in which wetland development and enhancements have helped to partially restore the floodplain features and natural processes affecting the Horton Bottoms Natural Area and the Unit 4 Wetland Reserve Easement Program complex. Portions of these tracts contain shrub swamp, which would have historically been found in the Osage Plains of West-central Missouri.]
+
+[FIGURE: hydrology. More recently, a large section of flood-protection levee was removed in Unit 4 and a low floodway was installed to partially restore stream-floodplain connectivity during high water events.Conservation partners include the Missouri Department of Conservation, Natural Resources Conservation Service, and Ducks Unlimited.]
+
+[FIGURE: orested swamp wetlands are characterized by trees and shrubs that are adapted to long periods of flooding and soil saturation. Mature swamps can have tall canopies, with some trees reaching 100 feet in height. Bald cypress (Taxodium distichum), water tupelo (Nyssa aquatica), swamp red maple (Acer rubrum var. drummondii), swamp cottonwood (Populus heterophylla), and water hickory (Carya aquatica) are typically the dominant tree species. Swamps need occasional dry periods for tree regeneration. Swamps provide important habitat for a variety of amphibians and reptiles (e.g., green treefrogs (Hyla cinerea) and western mud snakes (Farancia abacura)), herons, prothonotary warblers (Protonotaria citrea), barred owls (Strix varia), and other wildlife.]
+
+[FIGURE: e s t u d y : m i n G o B a s i n a n d B i G C a n e C o n s e r v a t i o n a r e a s L o C a t i o n : m i n G o B a s i n C o m P L e x a n d B i G C a n e F o r e s t s C o a s Less than 100,000 acres of lowland forest (wet-mesic bottomland forest, wet bottomland forest, swamp forest) remain in the Mississippi Alluvial Basin of southeast Missouri. Most of this basin (2.3 million acres) was historically forest but is now dominated by intensive agricultural production. The remaining forests are currently providing habitat for a host of wildlife including both nesting and migrant waterfowl and forest birds. Mingo National Wildlife Refuge, Big Cane, Coon Island, and Duck Creek Conservation Areas are examples of this lowland forest system that are actively managed to improve wildlife habitat.]
+
+[FIGURE: Photo Credit: Paul Nelson, USDA Forest Service]
+
+[FIGURE: This map shows the extent of Missouri's river and stream networks used to identify the chosen Conservation Opportunity Areas. To reduce visual clutter, first order streams were not included on this map. marginata) ✦ Slippershell mussel (Alasmidonta viridis) ✦ Flat floater (Anodonta suborbiculata) ✦ Cylindrical papershell (Anodontoides ferussacianus) ✦ Ponderous campeloma (Campeloma crassulum) ✦ Spectaclecase (Cumberlandia monodonta) ✦ Western fanshell (Cyprogenia aberti) ✦ Elephantear (Elliptio crassidens) ✦ Curtis pearlymussel (Epioblasma florentina curtisii) ✦ Snuffbox (Epioblasma triquetra) ✦ Ebonyshell (Fusconaia ebena) ✦ Pink mucket (Lampsilis abrupta) ✦ Higgins eye (Lampsilis higginsii) ✦ Neosho mucket (Lampsilis rafinesqueana) ✦ Scaleshell (Leptodea leptodon) ✦ Arkansas mudalia (Leptoxis arkansensis) ✦ Black sandshell (Ligumia recta) ✦ Sampson sprite (Micromenetus sampsoni) ✦ Southern hickorynut (Obovaria jacksoniana) ✦ Sheepnose (Plethobasus cyphyus) ✦ Fat pocketbook (Potamilus capax) ✦ Ouachita kidneyshell (Ptychobranchus occidentalis) ✦ Rabbitsfoot (Quadrula cylindrica cylindrica) ✦ Winged mapleleaf (Quadrula fragosa) ✦ Salamander mussel (Simpsonaias ambigua) ✦ Elk pebblesnail (Somatogyrus rosewateri) ✦ Marsh pondsnail (Stagnicola elodes) ✦ Purple Lilliput (Toxolasma lividum) C r u s t a c e a n s Shield crayfish (Faxonella clypeata) ✦ Ohio shrimp (Macrobrachium ohione) ✦ Coldwater crayfish (Orconectes eupunctus) ✦ Belted crayfish (Orconectes harrisonii) ✦ Mammoth Spring crayfish (Orconectes marchandi) ✦ Big Creek crayfish (Orconectes peruncus) ✦ Williams' crayfish (Orconectes williamsi) ✦ St. Francis River crayfish (Orconectes quadruncus) I n s e c t s Midland clubtail (Gomphus fraternus) ✦ Skillet clubtail (Gomphus ventricosus) ✦ Austin springfly (Hydroperla fugitans) ✦ Larger pygmy mole grasshopper (Neotridactylus apicialis) ✦ Contorted ochrotrichian micro caddisfly (Ochrotrichia contorta) ✦ Frison's seratellan mayfly (Serratella frisoni) ✦ Treetop emerald (Somatochlora provocans) ✦ A Heptageniid mayfly (Stenonema S p e c i e s o f G r e a t e s t C o n s e r v a t i o n bednariki) ✦ Elusive clubtail (Stylurus notatus) C h a r a c t e r i s t i c : Ozark emerald (Somatochlora ozarkensis) F i s h e s Brown bullhead (Ameiurus nebulosus) ✦ Highfin carpsucker (Carpiodes velifer) ✦ Bluntface shiner (Cyprinella camura) ✦ Lake chubsucker (Erimyzon sucetta) ✦ Arkansas darter (Etheostoma cragini) ✦ Current saddled darter (Etheostoma euzonum erizonum) ✦ Arkansas saddled darter (Etheostoma euzonum euzonum) ✦ Swamp darter (Etheostoma fusiforme) ✦ Least darter (Etheostoma microperca) ✦ Niangua darter (Etheostoma nianguae) ✦ Goldstripe darter (Etheostoma parvipinne) ✦ Redfin darter (Etheostoma whipplei) ✦ Golden topminnow (Fundulus chrysotus) ✦ Northern plains killifish (Fundulus kansae) ✦ Plains topminnow (Fundulus sciadicus) ✦ Brassy minnow (Hybognathus hankinsoni) ✦ Southern brook lamprey (Ichthyomyzon gagei) ✦ Dollar sunfish (Lepomis marginatus) ✦ Bantam sunfish (Lepomis symmetricus) ✦ American brook lamprey (Lethenteron appendix) ✦ Common shiner (Luxilus cornutus) ✦ Blacknose shiner (Notropis heterolepis) ✦ Ozark shiner (Notropis ozarcanus) ✦ Sabine shiner (Notropis sabinae) ✦ Topeka shiner (Notropis topeka) ✦ Mountain madtom (Noturus eleutherus) ✦ Neosho madtom (Noturus placidus) ✦ Channel darter (Percina copelandi) ✦ Bluestripe darter (Percina cymatotaenia) ✦ Longnose darter (Percina nasuta) ✦ Stargazing darter (Percina uranidea ) ✦ Trout-perch (Percopsis omiscomaycus ) ✦ Eastern slim minnow (Pimephales tenellus parviceps) ✦ Western slim minnow (Pimephales tenellus tenellus) C h a r a c t e r i s t i c : Lake sturgeon (Acipenser fulvescens) ✦ Alabama shad (Alosa alabamae) ✦ Skipjack herring (Alosa chrysochloris) ✦ Western sand darter (Ammocrypta clara) ✦ Scaly sand darter (Ammocrypta vivax) ✦ American eel (Anguilla rostrata) ✦ Alligator (Atractosteus spatula) ✦ Flier (Centrarchus macropterus) ✦ Crystal darter (Crystallaria asprella) ✦ Blue sucker (Cycleptus elongatus) ✦ Whitetail shiner (Cyprinella galactura) ✦ Steelcolor shiner (Cyprinella whipplei) ✦ Banded pygmy sunfish zonatum) ✦ Ozark chub (Erimystax harryi) ✦ Gravel chub (Erimystax x-punctatus) ✦ Harlequin darter (Etheostoma histrio) ✦ Starhead topminnow (Fundulus dispar) ✦ Mooneye (Hiodon tergisus) ✦ Western silvery minnow (Hybognathus argyritis) ✦ Cypress minnow (Hybognathus hayi) ✦ Mississippi silvery minnow (Hybognathus nuchalis) ✦ Plains minnow (Hybognathus placitus) ✦ Northern brook lamprey (Ichthyomyzon fossor) ✦ Least brook lamprey (Lampetra aepyptera) ✦ Cardinal shiner (Luxilus cardinalis) ✦ Duskystripe shiner (Luxilus pilsbryi) ✦ Bleeding shiner (Luxilus zonatus) ✦ Ribbon shiner (Lythrurus fumeus) ✦ Sturgeon chub (Macrhybopsis gelida) ✦ Sicklefin chub (Macrhybopsis meeki) ✦ Silver chub (Macrhybopsis storeriana) ✦ Silver redhorse (Moxostoma anisurum) ✦ River redhorse (Moxostoma carinatum) ✦ Ironcolor shiner (Notropis chalybaeus) ✦ Wedgespot shiner (Notropis greenei) ✦ Taillight shiner (Notropis maculatus) ✦ Silverband shiner (Notropis shumardi) ✦ Weed shiner (Notropis texanus) ✦ Checkered madtom (Noturus flavater) ✦ Blackside darter (Percina maculata) ✦ River darter (Percina shumardi) ✦ Flathead chub (Platygobio gracilis) ✦ Paddlefish (Polyodon spathula) ✦ Pallid sturgeon (Scaphirhynchus albus) ✦ Shovelnose sturgeon (Scaphirhynchus platorynchus) A m p h i b i a n s C h a r a c t e r i s t i c : Fowler's toad (Bufo fowleri) ✦ Eastern hellbender (Cryptobranchus alleganiensis alleganiensis) ✦ Ozark hellbender (Cryptobranchus alleganiensis bishopi) ✦ Oklahoma salamander (Eurycea tynerensis) R e p t i l e s C h a r a c t e r i s t i c : Midland smooth softshell turtle (Apalone mutica mutica) ✦ Alligator snapping turtle (Macrochelys temminckii) B i r d s C h a r a c t e r i s t i c : Bald eagle (Haliaeetus leucocephalus)]
+
+[FIGURE: Conservation partners include the Missouri Department of Conservation, Missouri Prairie Foundation, National Wild Turkey Federation, Natural Resources Conservation Service, Pheasants Forever, Soil and Water Conservation Districts, and Truman State University.]
+
+[FIGURE: C a s e s t u d y : s P r i n G C r e e k w a t e r s H e d P r i o r i t y G e o G r a P H y L o C a t i o n : s P r i n G C r e e k w a t e r s H e d C o a O z a r k T he karst topography of the Ozarks is filled with springs, caves, clear water, and granite or limestone bluffs. Steep cobble bottom headwater streams run through narrow slopes converging with larger valley streams predominately lined with chert and bedrock channel beds (Pflieg-]
+
+[FIGURE: Conservation partners include County Commissions, Missouri Conservation Heritage Foundation, Missouri Department of Conservation, Missouri Department of Transportation, Federal Emergency Management Agency, State Emergency Management Agency, and the U.S. Fish and Wildlife Service.]
+
+[FIGURE: C a s e s t u d y : L i t t L e n i a n G u a r i v e r P r i o r i t y G e o G r a P H y L o C a t i o n : L i t t L e n i a n G u a r i v e r C o a Niangua Darter R I V E R A N D S T R E A M C O N S E RVAT I O N]
+
+[FIGURE: Conservation partners include the Lower Mississippi River Conservation Committee, Missouri Bird Conservation Initiative, Missouri Department of Conservation, Missouri Department of Natural Resources, Natural Resources Conservation Service, National Fish and Wildlife Foundation, National Wild Turkey Federation, U.S Army Corp of Engineers, and the U.S. Fish and Wildlife Service.]
+
+[FIGURE: C a s e s t u d y : r i v e r B e n d s P r i o r i t y G e o G r a P H y L o C a t i o n : r i v e r B e n d s C o a B i g R i v e r T he Missouri and Mississippi Rivers support large and unique fauna and habitats in Missouri.]
+
+[FIGURE: C a s e s t u d y : P a L L i d s t u r G e o n r e s t o r a t i o n L o C a t i o n : m i s s o u r i r i v e r a n d m i s s i s s i P P i r i v e r C o a s]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[FIGURE: ]
+
+[TABLE: Table 2 . Roadmap to the Eight Elements addressed within each of the six Habitat System chapters.]
+[TABLE: Table 1 . Eight Elements]
+
+[TABLE]
+*E l e m e n t s 3 a n d 4 ( C o n t i n u e d ) in 2011 the U.S. Forest Service, Northern Research Station began a project to incorporate climate change considerations into forest management for the Central Hardwoods Region, which includes the unglaciated forest regions of southern Missouri, Illinois and Indiana. The assessment was published in 2014 (see Brandt et al. 2014) and included input from Mike Leahy and Steve Westin of the Missouri Department of Conservation. The assessment evaluated the vulnerability of terrestrial ecosystems in the Central Hardwoods Region to a range of future climates. Key findings of the report include:*
+
+|  | ✦ Model projections suggest that northern mesic |
+| --- | --- |
+|  | species such as sugar maple, American beech, and |
+|  | white ash may fare worse under future conditions |
+|  | compared to current climate conditions, but other |
+|  | species such as post oak and shortleaf and loblolly |
+|  | pine may benefit from projected changes in cli- |
+|  | mate. Changes in northern red, scarlet, and black |
+|  | oak differ by climate model. |
+|  | ✦ Mesic upland forests were determined to be the |
+|  | most vulnerable, whereas many systems adapted |
+|  | to fire and drought, such as open woodlands, sa- |
+|  | vannas, and glades, were perceived as less vulner- |
+|  | able to projected changes in climate. |
+|  | ✦ Current major stressors and threats to forest eco- |
+|  | systems in the region include the following, which |
+|  | will be influenced and interact with a changing |
+|  | climate with uncertain results: |
+| ✦ Climate trends projected for the next 100 years by | ✧ Fragmentation and loss of forest cover |
+| using downscaled global climate model data indi- | ✧ Loss of historical fire regime in fire-adapted |
+| cate a potential increase in mean annual tempera- | systems |
+| ture of 2 to 7 °F for this region. | ✧ Nonnative species invasion |
+|  | ✧ Insects and disease |
+| ✦ Projections for precipitation show an increase in | ✧ Loss of soil |
+| winter and spring precipitation; summer and fall | ✧ Overgrazing and overbrowsing |
+| precipitation projections differed by model. | ✧ Reduced diversity of species and age classes |
+|  | ✧ Lack of management on private lands |
+| ✦ Temperatures will increase (robust evidence, high |  |
+| agreement). | ✦ Fish and other aquatic organisms are also expect- |
+|  | ed to be affected by a combination of both direct |
+| ✦ The nature and timing of precipitation will change | and indirect climate change effects. Many fish |
+| (robust evidence, high agreement). | species in the region are sensitive to even slight |
+|  | changes in water temperatures and experience |
+
+[/TABLE]
+
+[TABLE:  Sauer, J. R., J. E. Hines, J. E. Fallon, K. L. Pardieck, D. J. Ziolkowski, Jr., and W. A. Link. 2014. The North American Breeding Bird Survey, Results and Analysis 1966 -2013. Version 01.30.2015 USGS Patuxent Wildlife Research Center, Laurel, MD.]
+[TABLE:  Friends of Squaw Creek, Mid-land Empire Audubon, Missouri Department of Conservation, Mis-souri Natural Areas Committee, Missouri Western State College, Natural Resources Conservation Service, Northwest Missouri State University, The Nature Conservancy, and the U.S. Fish and Wildlife Service.]
+[TABLE: 1 . Sixteen-digit Hydrologic Unit Code (HUC16) has >50 acres of woodland/forest potential, AND at least one of the following: ≥ 80% cropland/pasture, OR ≥ 30% developed, OR <75% of woodland/forest potential is still treed 2. HUC16 has >50 acres of woodland forest potential, AND all of the following: has <80% cropland/pasture, AND <30% developed, AND between 75%-90% of woodland forest potential still treed 3. HUC16 has >50 acres of woodland forest potential, AND ≥ 90% forest woodland potential is still treed, AND <80% cropland/pasture, AND <30% developed 4. One or more recent* heritage records for forest or woodland species or communities]
+
+[TABLE]
+*Overall Section II Vegetation Characteristics Score (sum of metric scores above): ________ Section III -Animal Species Factors (accounts for 10% of the total possible score) Note that for animal species presence of a species on the site recorded within the last five years based on other surveys or inventories is acceptable to count in this index. Relative abundance of characteristic matrix plant species present. What is the visually estimated abundance (relative to the total herbaceous cover not the whole prairie area) of all characteristic plant species noted taken as a whole? For sites with 15+ characteristic species, consider the abundance of all the species (in aggregate) up to the total possible. Relative abundance of conservative plant species present. What is the visually estimated abundance (relative to the total herbaceous cover not the whole prairie area) of all conservative plant species noted taken as a whole? For sites with 10+ conservative species, consider the abundance of all the species (in aggregate) up to the total 53 possible.*
+
+| (IIi) Abundance Ranking |  | Points |  |
+| --- | --- | --- | --- |
+| Abundant or very frequently observed(>50 % of the area) |  |  | 14 |
+| Frequently or commonly observed (31-50%) |  |  | 10 |
+| Occasional or infrequently observed (11-30%) |  |  | 6 |
+| Total Number of Characteristic Matrix Species: Rare or very few individuals observed (≤ 10%) Conservative species not present |  | _______ | 4 0 |
+| # Species Points Score: _______ |  |  |  |
+| 0 | 0 |  |  |
+| 1-3 | 4 |  |  |
+| 4-6 | 6 |  |  |
+| 7-10 | 8 |  |  |
+| 11-12 | 10 |  |  |
+| 13-14 | 12 |  |  |
+| 15+ | 14 |  |  |
+| Score: _______ |  |  |  |
+| (IIIa) Herptile species: |  |  |  |
+| List below the herptile species you observe: Based on how many herptile species you observe, assign the point value as follows: # Species Points 1 0.75 (IIg) Abundance Ranking 2 1.5 Points Abundant or very frequently observed(>50 % of the area) 3 2.25 13 Frequently or commonly observed (31-50%) 10 4+ 3 |  |  |  |
+| Occasional or infrequently observed (11-30%) Rare or very few individuals observed (≤ 10%) Score: _______ |  |  | 7 3 |
+| Characteristic matrix species not present |  |  | 0 |
+| Score: _______ |  |  |  |
+
+[/TABLE]
+
+## C AV E A N D K A R S T C O N S E RVAT I O N
+
+This map shows the potential extent of cave and karst landcover in Missouri. This data includes Heritage database information on cave community and species records, the locations of sinkholes and springs, declining stream locations, and delineated cave recharge areas which were used to select the Conservation Opportunity Areas that contained cave/karst habitat systems.
+
+## C a v e a n d K a r s t l a n d c o v e r i n f o r m a t i o n S c o r i n g C r i t e r i a
+
+{ } = Decisive selection criteria for Conservation Opportunity Areas * Largest mapped spring systems, pink planarian recharge area, plus federally listed species In the Missouri Ozarks, Virginia sneezeweed, a federally threatened plant known only from Missouri and Virginia, is associated with sinkhole ponds as well as low wet meadows and swales occurring in karst areas.
+Conservation actions have included seed collection and greenhouse studies, genetics research, two reintroductions on public land (Tingler Prairie Natural Area and Cover Prairie Conservation Area), extensive survey work, and habitat management to protect and maintain sinkhole pond natural communities. Thanks to these actions, the U.S. Fish and Wildlife service is now considering removing Virginia sneezeweed from the threatened species list.
+Conservation partners include the Center for Plant Conservation, Missouri Botanical Garden, Missouri Department of Conservation, the U.S. Fish and Wildlife Service, Washington and Lee University in Virginia, numerous volunteers, and over 100 private landowners.
+
+## S i n k h o l e P o n d
+
+Virginia Sneezeweed 
+
+## C AV E A N D K A R S T C O N S E RVAT I O N
+
+## APPENDIX C Natural Community Health Indices Assessing and Monitoring the Ecological Integrity of Terrestrial Natural Communities -Natural Community Health Indices
+
+Terrestrial natural communities in Missouri are defined as distinct assemblages of native plants, animals and microorganisms that occur in repeatable patterns across the landscape and through time. These assemblages of biota occupy distinct and definable physical environments, which in turn influence the structure and composition of natural communities. In Missouri, 85 terrestrial natural communities are recognized and tracked in the Missouri Natural Heritage Database.
+Currently the Department is developing and deploying a methodology to assess and coarsely monitor the health or ecological integrity of terrestrial natural community types 
+(Lindenmayer and Franklin 2002
+, Faber-Langendoen et al. 2006
+, Tierney et al. 2009
+). There are five components of ecological integrity:
+✧ Landscape context and size of the natural community ✧ Composition of the plant and animal species ✧ Critical ecological dynamics, e.g., flooding ✧ Structure of vegetation and biomass ✧ Invasive species
+The Department is developing natural community health index (CHI) models for different groups of terrestrial natural community types (Table 
+1
+) to assess their ecological integrity and to track this through time and restoration and management efforts. Because of the following factors, vegetation is the most heavily weighted factor in a terrestrial CHI model, accounting for 75% of the possible score 
+(Mack 2001
+(Mack , 2007;;
+Faber-Langedoen et al. 2012
+):
+✧ Vegetation influences most natural community functions. ✧ Vegetation structure and composition provides habitat for other taxonomic groups. ✧ Vegetation is the primary vector of energy flow through an ecosystem. ✧ Strong correlations exist between vegetation and soils. ✧ Plants are the most easily and practically measured variables of natural communities. ✧ Vegetation integrates spatially and temporally variable natural and management induced disturbances. ✧ Vegetation and insect diversity are correlated to some degree 
+(Panzer et al. 2010)
+.
+Landscape context (especially the size of the natural community occurrence) and animal species information account for 15% and 10%, respectively, of the possible score in a terrestrial CHI model. Although animal species are key components of natural communities, they are more difficult to assess in a rapid and efficient manner. Bird species are the easiest to monitor, but even for birds, monitoring during the breeding bird season makes for a narrow window to sample both within the year (primarily late May to early July) and within a field day (just before dawn to 10 am). Sampling for reptiles and amphibians can be difficult to conduct without using cover boards, drift fences and pit traps. Small mammal sampling requires trapping. Insect sampling can be efficient (e.g. sweep nets) or more time consuming (e.g. night time black light sampling). However, staff
+
+## Community Health Index Model for Dolomite Glade
+
+Site Name: Sampling Date: Evaluator(s):
+
+## Directions:
+
+First, identify the boundaries of the community unit in ArcGIS. Use ArcGIS and site knowledge to fill in the answers to the metrics in Section I. Second, proceed to a walk-through of the community unit and answer all of the components of Sections I to IV of the assessment. Record how many person hours are spent surveying the unit. In general, two to four hours per 80 acres is a reasonable target for survey effort depending on site conditions. NOTE that for animal records, species recorded within the past five years on an area is acceptable to count in the index. Third, compute the value for the index as detailed below. 
+
+## Section I -
+
+## Directions:
+
+First, identify the boundaries of the community unit in ArcGIS. Use ArcGIS and site knowledge to fill in the answers to the metrics in Section I. Second, proceed to a walk-through of the community unit and answer all of the components of Sections I to IV of the assessment. Record how many person hours are spent surveying the unit. In general, two to four hours per 80 acres is a reasonable target for survey effort depending on site conditions. NOTE that for animal records, species recorded within the past five years on an area is acceptable to count in the index. Third, compute the value for the index as detailed below. 
+Habitat suitability index models: barred owl
+A
+W
+Allen
+10.143
+U.S. Fish and Wildlife Service Biological Report
+82
+1987
+Best Practices for State Wildlife Action Plans-Voluntary Guidance to States for Revision and Implementation
+2012
+Association of Fish and Wildlife Agencies
+80
+Washington (DC
+Teaming With Wildlife Committee, State Wildlife Action Plan (SWAP) Best Practices Working Group
+L
+Brandt
+H
+He
+L
+Iverson
+F
+R
+Thompson
+Iii
+P
+Butler
+;
+S
+Handler
+M
+Janowiak
+P
+D
+Shannon
+C
+Swanston
+M
+Albrecht
+R
+Blume-Weaver
+P
+Deizman
+J
+Depuy
+W
+D
+Dijak
+G
+Dinkel
+S
+Fei
+D
+T
+Jones-Farrand
+M
+Leahy
+S
+Matthews
+P
+Nelson
+B
+Oberle
+J
+Perez
+M
+Peters
+A
+Prasad
+J
+E
+Schneiderman
+J
+Shuey
+A
+B
+Smith
+C
+Studyvin
+J
+M
+Tirpak
+J
+W
+Walk
+W
+J
+Wang
+L
+Watts
+D
+Weigel
+S
+Westin
+Central Hardwoods ecosystem vulnerability assessment and synthesis: a report from the Central Hardwoods Climate Change Response Framework project
+Newtown Square, PA
+2014
+124
+254
+U.S. Department of Agriculture, Forest Service, Northern Research Station
+D
+Faber-Langendoen
+J
+Rocchio
+M
+Schafale
+C
+Nordman
+M
+Pyne
+J
+Teague
+T
+Foti
+P
+Comer
+Ecological integrity assessment and performance measures for wetland mitigation
+NatureServe, Arlington, Virginia
+2006
+Completion of the 2011 National Land Cover Database for the conterminous United States: Representing a decade of land cover change information
+C
+G
+Homer
+J
+A
+Dewitz
+L
+Yang
+S
+Jin
+P
+Danielson
+G
+Xian
+J
+Coulston
+N
+D
+Herold
+J
+D
+Wickham
+K
+Megown
+Photogrammetric Engineering and Remote Sensing
+81
+2015
+Birds in Missouri. Missouri Department of Conservation
+B
+Jacobs
+2001
+Jefferson City, MO
+The Amphibians and Reptiles of Missouri. 2nd ed. Missouri Department of Conservation
+T
+R
+Johnson
+2000
+Jefferson City, MO
+J
+R
+Karr
+Assessment of biotic integrity using fish communities. Fisheries
+6
+1981
+Discover Missouri Natural Areas. Missouri Department of Conservation
+M
+Leahy
+2011
+Jefferson City, MO
+140 pgs
+D
+B
+Lindenmayer
+J
+F
+Franklin
+Conserving forest biodiversity: A comprehensive multiscaled approach
+Washington, DC
+Island Press
+2002
+A null model test of floristic quality assessment: are plant species coefficients of conservatism valid?
+J
+W
+Matthews
+G
+Spyreas
+C
+M
+Long
+Ecological Indicators
+52
+2015
+A Guide to Missouri's Freshwater Mussels. Missouri Department of Conservation
+S
+E
+Mcmurray
+J
+A
+Fairman
+A
+Roberts
+B
+Simmons
+M
+C
+Barnhart
+2012
+Jefferson City, MO
+Missouri's Comprehensive Wildlife Conservation Strategy. Missouri Department of Conservation
+2000. 2005
+Missouri Department of Conservation
+Jefferson City, MO
+Missouri Animals of Conservation Concern. 42 pgs. Missouri Department of Conservation
+Vegetation Associations of Missouri (revised)
+Natureserve
+2010
+NatureServe, St. Paul, MN
+The Terrestrial Natural Communities of Missouri. Missouri Natural Areas Committee
+P
+W
+Nelson
+2010
+Jefferson City, MO
+Atlas of Missouri Ecoregions. Missouri Department of Conservation
+T
+Nigh
+W
+Schroeder
+2002
+Jefferson City
+The prevalence and status of conservative prairie and sand savanna insects in the Chicago wilderness region
+R
+Panzer
+K
+Gnaedinger
+G
+Derkovitz
+Natural Areas Journal
+30
+1
+2010
+Effectiveness of a vegetation-based approach to insect conservation
+R
+Panzer
+M
+W
+Schwartz
+Conservation Biology
+12
+1998
+The Fishes of Missouri, Revised Edition. Missouri Department of Conservation Jefferson City
+W
+L
+Pflieger
+1997
+MO
+The Crayfishes of Missouri. Missouri Department of Conservation
+W
+L
+Pflieger
+1996
+Jefferson City, MO
+P R E
+Fac E
+One or more of the following karst features within a HUC16: sinkhole, losing stream, spring, heritage cave/ heritage spp
+Two or more types of karst feature (ex. Sinkhole, losing stream
+Caves greater than 2 miles in length, OR ≥ 1 cave heritage species
+historic OR current
+All "focal"* recharge areas, OR ≥ 1 cave heritage species
+current only
+Sixteen-digit Hydrologic Unit Codes (HUC16s) scoring 5 on conservation network lands, OR medium biodiversity biocaves (B<200; Elliott 2007), OR TNC
+subterranean portfolio" sites
+Recharge areas affecting a federally listed aquatic species (currently: Spring Cavefish, Ozark Cavefish, Tumbling Creek Cave Snail
+Grotto Sculpin
+Federally listed species location, OR medium biodiversity biocaves on conservation network
+High biodiversity biocaves
+Elliott
+2007
+High biodiversity biocaves, AND federally listed spp. in conservation network
+C
+Av E A N D K A R S T C O N S E Rvat I O N
+A Bat Management Plan for the Missouri Department of Conservation
+R
+L
+Clawson
+W
+R
+Elliott
+D
+Burns
+2006
+Missouri Department of Conservation
+68
+A Guide to Missouri's Cave Life
+W
+R
+Elliott
+2003
+Missouri Department of Conservation
+Cave invertebrate collecting guide. Department of Conservation Technical Series 26. Department of Conservation
+M
+Hunt
+I
+Millar
+2001
+Wellington, New Zealand
+Missouri Forest Management Guidelines: Voluntary Recommendations for Well-Managed Forests
+2014
+Missouri Department of Conservation
+230
+Best Management Practices: Ozark Cavefish (Amblyopsis rosae)
+Missouri Department of Conservation
+2
+The Terrestrial Natural Communities of Missouri
+P
+W
+Nelson
+2010
+Missouri Natural Areas Committee
+550
+Jefferson City, MO
+Blue Jewels in the Ozarks: A Beginners Guide to Missouri Springs
+J
+Schaper
+2007
+Sixteen-digit Hydrologic Unit Codes (HUC16s) within the floodplain
+alluvial soils layer
+HUC16s within the floodplain, AND contain ≥ 50% partially hydric soils 3. HUC16s within the floodplain, AND contain ≥ 50% hydric soils
+Medium to large public lands (≥ 100 acres) identified as wetlands outside a wetland COA, OR medium to large complexes of WRE lands. If priority in rivers and streams bumps 4s up to 5s
+Within wetland opportunity area (COAs or areas identified as having active wetland work
+within the floodplain
+Within wetland opportunity area, AND contains medium to large(≥ 100 AND <1000 acres) public lands and/or WRE lands within wetland opportunity areas
+Within wetland opportunity area, AND contains large (≥ 1000) public lands and/or WRE lands
+Grand Pass CA) or FWS waterfowl refuge
+Swan Lake NWR
+Intensively-managed wetland MDC areas
+HUC16s that score a 6, AND support ≥ 3 AND <5 wetland heritage spp
+HUC16s that score a 6, AND contain ≥ 6 wetland heritage spp
+Decisive selection criteria for Conservation Opportunity
+W
+Areas
+E T L A N D C O N S E Rvat I O N
+Existing priority areas/plans (e.g. aquatic Conservation Opportunity Areas (COAs), priority mussel reaches, priority crayfish reaches
+Missouri Integrated Aquatic Database (MIAD through 2014) stream reaches with poor IBI scoring, OR poor invertebrate stream condition
+Sixteen-digit Hydrologic Unit Codes (HUC16s) containing 1 aquatic heritage record, OR MIAD stream reaches with fair IBI scoring, OR medium invertebrate stream condition
+MIAD stream reaches with good IBI scoring, OR good invertebrate stream condition
+HUC16s containing >1 aquatic heritage record, OR MIAD stream reaches with good IBI scoring, AND good invertebrate stream condition
+4s and 5s that overlap with an existing priority area or plan
+HUC16s that score 4s or 5s, AND contain conservation network lands
+HUC16 containing ≥ 1 state/federal T/E spp
+Missouri Department of Conservation, partner, easements
+HUC16 containing ≥ 1 state/federal T/E spp., AND containing or adjacent to HUC16 with conservation network lands
+Stream reaches within priority watersheds and selected HUC10s resulting from overlapping 6s -9s for Plains and 8s -9s for Ozarks { } = Decisive selection criteria for Conservation Opportunity Areas R
+I
+V E R A N D S T R E A M C O N S E Rvat I O N
+Missouri's freshwater mussels
+S
+Bruenderman
+Missouri Conservationist
+60
+8
+1999
+Historical land-use changes and potential effects on stream disturbance in the Ozark Plateaus, Missouri. US Geological Survey water-supply paper
+R
+B
+Jacobson
+A
+T
+Primm
+1997
+Missouri naiades: a guide to the mussels of
+R
+D
+Oesch
+Missouri. M. McIntosh, & L. Rutledge
+1984
+Missouri Department of Conservation
+The fishes of Missouri
+W
+L
+Pflieger
+1997
+Missouri Department of Conservation
+Because of these reasons, the weighting for animal species is much lower than for vegetation. Vegetation structure and composition are important variables for animal populations and to some limited degree can serve as a crude measure of habitat quality for certain animal species. Table 1: Current List of Community Types Proposed for Community Health Index Models Forest
+W
+A
+Schroeder
+M
+J
+Hunzeker
+Fens There are two levels of assessment for CHI models: ✧ Level I -Rapid Assessment
+1981
+Upland Forest -Ozarks Upland Forest -Glaciated Plains Ozark Bottomland Forest Mississippi Lowlands Bottomland Forest Big Rivers Bottomland Forest Prairie Plains Bottomland Forest Woodland: Ozark and Osage Plains Woodland Glaciated Plains Woodland Prairie: Upland Prairie -Glaciated Plains Bottomland Prairie -Glaciated Plains Upland Prairie -Osage Plains/Springfield Plateau Bottomland Prairie -Osage Plains Savanna: Savanna -Glaciated Plains Savanna -Ozark and Osage Plains Glade: Dolomite Glade Sandstone Glade Igneous Glade Limestone Glade Wetland: Marsh -Prairie Plains Marsh -Mississippi Lowlands Shrub Swamp -Prairie Plains Shrub Swamp -Mississippi Lowlands Swamp Sinkhole Pond Wetlands Ozark
+Presettlement prairie of Missouri. Missouri Department of Conservation. capacity for insect identification is limited. walk through, 2-4 hour site visit
+✧ Level II -More Intensive Assessment
+establish 3+ permanent monitoring stations
+Level I assessments are only going to track large scale changes in a community. Level II assessments should be able to track more management specific changes. Currently the Department is developing Level I models and has been testing these on different conservation areas. Level II models will be developed in the second phase. The following pages follow complete Level I community health index models for the dolomite glade
+and upland prairie of the glaciated plains community types
+Evidence of recent illegal herptile collecting, root digging or off-road vehicles (flipped/broken rocks etc…) Yes = -1 No = 0 Score: _______ Overall Section IV Disturbance Factors Score: _______ Community Health Index (CHI) score based on summing above Sections I-IV: (0-100 range): _________ Time spent surveying (hours, minutes): Approximate Acres Surveyed: (IVb) Evidence of past cropping or soil grading
+Ivc
+e.g. terraces, erosion gullies, etc…) across the entire site: Yes = -1
+No = 0 Score: _______ Overall Section IV Disturbance Factors Score: ____ Community Health Index (CHI) score based on summing above Sections I-IV: (0-100 range): _________ Time spent surveying (hours, minutes): Approximate Acres Surveyed
+References
+D
+Faber-Langendoen
+J
+Rocchio
+M
+Schafale
+C
+Nordman
+M
+Pyne
+J
+Teague
+T
+Foti
+P
+Comer
+Ecological integrity assessment and performance measures for wetland mitigation
+NatureServe, Arlington, Virginia
+2006
+Assessment of wetland ecosystem condition across landscape regions: A multi-metric approach. Part A. Ecological Integrity Assessment overview and field study in Michigan and Indiana
+D
+Faber-Langendoen
+C
+Hedge
+M
+Kost
+S
+Thomas
+L
+Smart
+R
+Smyth
+J
+Drake
+S
+Menard
+EPA/600/R-12/021
+2012
+Washington, DC
+U.S. Environmental Protection Agency Office of Research and Development
+Ecological checklist of the Missouri flora for Floristic Quality Assessment
+D
+Ladd
+J
+R
+Thomas
+Phytoneuron
+12
+2015. 2015. 12 February 2015
+Published
+D
+B
+Lindenmayer
+J
+F
+Franklin
+Conserving forest biodiversity: a comprehensive multiscaled approach
+Washington, DC
+Island Press
+2002
+R
+D
+Lopez
+M
+S
+Fennessy
+Testing the floristic quality assessment index as an indicator of wetland condition
+2002
+12
+Vegetation index of biotic integrity for wetlands: ecoregional, hydrogeopmorhic, and plant community comparisons with preliminary wetland aquatic life use designations. Final report to U.S. Environmental Protection Agency Grant No. CD985875-01
+J
+J
+Mack
+Division of Surface Water
+2001
+Columbus, Ohio
+Testing Biological Metrics and Development of Wetland Assessment Techniques using Reference Sites. State of Ohio, Environmental Protection Agency
+Developing a wetland index of biotic integrity with statewide application after multiple testing iterations
+J
+J
+Mack
+Ecological Indicators
+7
+4
+2007
+Trajectories of vegetation-based indicators used to assess wetland restoration progress
+J
+W
+Matthews
+G
+Spyreas
+A
+G
+Endress
+Ecological Applications
+19
+2009
+The prevalence and status of conservative prairie and sand savanna insects in the Chicago Wilderness region
+R
+Panzer
+K
+Gnaedinger
+G
+Derkovitz
+Natural Areas Journal
+30
+2010
+Monitoring and evaluating the ecological integrity of forest ecosystems
+G
+L
+Tierney
+D
+Faber-Langendoen
+B
+R
+Mitchell
+W
+G
+Shriver
+J
+P
+Gibbs
+Frontiers in Ecology and the Environment
+7
+6
+2009

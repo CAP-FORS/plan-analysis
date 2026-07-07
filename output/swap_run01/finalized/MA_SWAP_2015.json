@@ -1,0 +1,925 @@
+{
+  "document_meta": {
+    "title": "Massachusetts State Wildlife Action Plan",
+    "year": 2015,
+    "jurisdiction": "Massachusetts",
+    "document_type": "SWAP",
+    "document_id": "MA_SWAP_2015",
+    "page_count": 410
+  },
+  "orientation": {
+    "summary": "This is the 2015 Massachusetts State Wildlife Action Plan (SWAP), produced by the Massachusetts Division of Fisheries and Wildlife. The document is broadly climate-aware, incorporating an entire chapter (Chapter 5) on climate change, and references multiple climate vulnerability assessments conducted for the Commonwealth's SGCN and habitats. It engages range shifts substantively—documenting northward species movements, habitat transformations, sea-level rise threats to coastal habitats, and species at the southern or northern edge of their ranges—while largely relying on externally produced analyses (Manomet CCVA, Regional CCVA, BioMap2) rather than performing new distributional modeling. The plan addresses priority habitat identification spatially (BioMap2, Key Sites maps), proposes actions related to landscape connectivity and coastal habitat migration under sea-level rise, and includes a detailed climate adaptation workbook for one site (Montague Plains WMA).",
+    "evidence_index": [
+      {
+        "text": "Since the 2005 SWAP, response to climate change by the Commonwealth of Massachusetts has centered on developing a better understanding of how climate change is likely to impact SGCN and their habitats, including the adaptive capacity of these species and how they might respond to climate changes.",
+        "location": "Climate Change table (Ch. 2 Progress Since 2005)",
+        "relevant_elements": ["1.1", "1.2", "2.1"]
+      },
+      {
+        "text": "Volume 2 -Habitat and Species Vulnerability. This volume reports the results of the work assessing the likely vulnerabilities of fish and wildlife and their habitats to climate change... How do the SWAP-targeted fish and wildlife habitats rank in terms of their likely comparative vulnerabilities to climate change? How will the representation of these habitats in Massachusetts be altered by a changing climate? Which vertebrate Species in Greatest Need of Conservation are likely to be most vulnerable to climate change?",
+        "location": "Ch. 2, Linking Landscapes section (Climate Change Vulnerability Assessment)",
+        "relevant_elements": ["1.1", "2.1"]
+      },
+      {
+        "text": "Species with low adaptive capacity such as those with specialized habitat needs or limited dispersal ability face higher vulnerability to these changes.",
+        "location": "Ch. 5, Climate Change – Biological Responses section",
+        "relevant_elements": ["1.1", "1.2", "1.3"]
+      },
+      {
+        "text": "Warming coastal waters are causing suitable habitats of temperature-sensitive species to shift northward. Suitable habitats of other species may also shift because they cannot compete for limited resources with the southern species that are moving northward.",
+        "location": "Ch. 4, SWAP Habitats: Marine and Estuarine Habitats (IUCN Threat 11)",
+        "relevant_elements": ["1.1", "3.5", "C2"]
+      },
+      {
+        "text": "The Twilight Moth is at the southern extent of its geographic range in Massachusetts; this species may retreat northward with climate warming, resulting in its extirpation from the state.",
+        "location": "Ch. 4, SWAP Habitats: Pitch Pine-Oak Upland Forest (IUCN Threat 11)",
+        "relevant_elements": ["1.1", "C2"]
+      },
+      {
+        "text": "Climate change projections were derived using two emission scenarios. Dr. Galbraith summarized the results from these question and answer sessions.",
+        "location": "Ch. 2, Linking Landscapes section (Climate Change Vulnerability Assessment)",
+        "relevant_elements": ["2.1", "2.3"]
+      },
+      {
+        "text": "The Massachusetts DFW is working with the Northern Institute of Applied Climate Science to apply the USDA Forest Service's tools to plan for climate change adaptation and response (Swanston and Janowiak 2012). At the beginning of this planning process, DFW identified the Montague sandplain... as a refugia for natural communities and species that are likely to exhibit a markedly different response to predicted climate change.",
+        "location": "Ch. 5, Section F – Forestry Management on Montague Plains WMA",
+        "relevant_elements": ["4.5", "4.1", "1.1"]
+      },
+      {
+        "text": "These tools provide a 5-step framework designed to enable land managers to 'define an area of interest, management goals/objectives, and time frames, assess climate change impacts and vulnerabilities for the area of interest, evaluate management objectives given projected impacts and vulnerabilities, identify adaptation approaches and tactics for implementation, and monitor and evaluate the effectiveness of implemented actions'",
+        "location": "Ch. 5, Section F – Forestry Management on Montague Plains WMA",
+        "relevant_elements": ["4.5", "4.3"]
+      },
+      {
+        "text": "It is important to maintain high quality source breeding habitats and connectivity across habitats to facilitate species dispersal, migration, and maintenance; protect local connectivity for individuals, as well as regional movements of populations to facilitate climate change adaptation",
+        "location": "Ch. 5, Box 5-2: Regional Climate Change Vulnerability Assessment",
+        "relevant_elements": ["1.4", "1.2", "1.3"]
+      },
+      {
+        "text": "BioMap2 incorporates a suite of these strategies to promote resistance and resilience of plant and animal populations and ecosystems, and to assist anticipated transformations caused by climate change... Build connectivity into habitats and ecosystems.",
+        "location": "Ch. 5, Section C – BioMap2 and Climate Change",
+        "relevant_elements": ["1.4", "4.1", "4.5"]
+      },
+      {
+        "text": "Salt Marsh Migration: A special case for connectivity... BioMap2 includes an analysis of low lying, undeveloped and ecologically connected upland areas adjacent to salt marshes and coastal habitat to determine where these habitats might extend into or migrate to adjacent uplands as sea levels rise.",
+        "location": "Ch. 5, Section C – BioMap2 and Climate Change",
+        "relevant_elements": ["1.4", "4.1", "4.2", "C2"]
+      },
+      {
+        "text": "BioMap2 also integrates TNC's assessment of large, well-connected, and intact ecosystems and landscapes across the state, incorporating concepts of ecosystem resilience to address anticipated climate-change impacts.",
+        "location": "Ch. 4, Section D – Highest Priority Habitat Areas (BioMap2)",
+        "relevant_elements": ["1.4", "4.1", "2.4"]
+      },
+      {
+        "text": "NHESP and The Nature Conservancy's Massachusetts Program developed BioMap2 to protect the state's biodiversity in the context of projected effects of climate change.",
+        "location": "Ch. 5, Section C – BioMap2 and Climate Change",
+        "relevant_elements": ["4.1", "1.4"]
+      },
+      {
+        "text": "Protect salt marshes supporting populations of SGCN animals and plants, with particular emphasis on adjacent uplands buffering salt marshes, to provide for potential upslope salt marsh under climate change.",
+        "location": "Ch. 4, SWAP Habitats: Salt Marsh – Land and Water Rights Acquisition and Protection",
+        "relevant_elements": ["4.1", "4.2", "C2"]
+      },
+      {
+        "text": "DFW is researching the potential for assisted migration of common tree species within the state on the basis of climate changes.",
+        "location": "Ch. 4, SWAP Habitats: Conservation Actions for Upland Forests – Planning",
+        "relevant_elements": ["4.2"]
+      },
+      {
+        "text": "Populations imperiled by climate change should be evaluated to determine if translocation is recommended.",
+        "location": "Executive Summary – Species Reintroduction and Stocking (Coastal Plain Ponds)",
+        "relevant_elements": ["4.2"]
+      },
+      {
+        "text": "A major threat to salt marshes, currently and in the near future, is the blockage by roads and other infrastructure to the upslope migration of salt marshes affected by rising sea levels.",
+        "location": "Ch. 4, SWAP Habitats: Salt Marsh (IUCN Threat 4)",
+        "relevant_elements": ["1.4", "3.5", "C2"]
+      },
+      {
+        "text": "Climate change poses significant threats to local populations of SGCN that currently rely on smaller shrub swamps in landscapes having poor connectivity with larger swamps and/or open-water wetlands.",
+        "location": "Ch. 4, SWAP Habitats: Shrub Swamps (IUCN Threat 7)",
+        "relevant_elements": ["1.4", "1.1"]
+      },
+      {
+        "text": "Sea level is rising at an accelerating rate... Tropical cyclones and hurricanes may be intensifying and storm tracks have been shifting northward along the coast... Oceans are warming and becoming more acidic.",
+        "location": "Ch. 5, Section A – Effects of Climate Change",
+        "relevant_elements": ["3.5", "1.1"]
+      },
+      {
+        "text": "Rare salt marsh plants may be lost with a rise in sea levels at a rate faster than the species can move latitudinally to more suitable climates or altitudinally to higher ground.",
+        "location": "Ch. 4, SWAP Habitats: Marine and Estuarine Habitats (IUCN Threat 11)",
+        "relevant_elements": ["3.5", "C2"]
+      },
+      {
+        "text": "Due to sea-level rise, groundwater levels have risen 6 inches in southeastern Massachusetts since 1970 (USGS 2014). The influence of increasing rates of sea-level rise will be examined in a forthcoming USGS study.",
+        "location": "Ch. 4, SWAP Habitats: Coastal Plain Ponds (IUCN Threat 11)",
+        "relevant_elements": ["3.5"]
+      },
+      {
+        "text": "Increased periodicity and intensity of drought may cause loss of aquatic habitat through short-term drying, but may also concentrate effects of pollutants.",
+        "location": "Ch. 4, SWAP Habitats: Large and Mid-sized Rivers (IUCN Threat 11)",
+        "relevant_elements": ["3.5"]
+      },
+      {
+        "text": "Changes in precipitation and temperature patterns are likely to reduce suitability for tree species in the Northern Hardwoods-Spruce-Fir habitat region.",
+        "location": "Ch. 4, SWAP Habitats: Pitch Pine-Oak Upland Forest (IUCN Threat 11)",
+        "relevant_elements": ["3.5", "1.1"]
+      },
+      {
+        "text": "Climate change is predicted to consist of warmer temperatures and an increase in severe-weather events. For riparian-forest habitats, this is likely to result in a higher evapotranspiration rate as trees and herbaceous plants respond to the higher temperatures.",
+        "location": "Ch. 4, SWAP Habitats: Riparian Forest (IUCN Threat 11)",
+        "relevant_elements": ["3.5", "3.6"]
+      },
+      {
+        "text": "Invasive species that had not been able to establish populations in colder environments may now be able to survive and start competing with native species (Karl et al. 2009).",
+        "location": "Ch. 4, SWAP Habitats: Marine and Estuarine Habitats (IUCN Threat 11)",
+        "relevant_elements": ["3.7"]
+      },
+      {
+        "text": "Warming has caused the Southern Pine Beetle to spread northward: 'Climate change appears to be at least partially responsible for the recent and rapid spread of native insect pests, such as the Southern Pine Beetle, into more northern climes (Gan 2004).'",
+        "location": "Ch. 4, SWAP Habitats: Upland Forests – General Habitat Description",
+        "relevant_elements": ["3.7"]
+      },
+      {
+        "text": "Research the rapid changes to salt marsh biota related to climate disruption such as the arrival at the Great Marsh of marsh and fiddler crabs in very recent years.",
+        "location": "Ch. 4, SWAP Habitats: Salt Marsh – Data Collection and Analysis",
+        "relevant_elements": ["3.7"]
+      },
+      {
+        "text": "Given its apparent preferences for northern forests, which are likely to be affected by climate change at the southern edge of their range in the state, it seems likely this species' distribution will be affected as well.",
+        "location": "Ch. 3, Section B – Species of Greatest Conservation Need (Northern Flying Squirrel)",
+        "relevant_elements": ["1.1", "C2"]
+      },
+      {
+        "text": "Mass mortality events have been observed in intertidal communities following recent marine heatwaves. In addition, rising atmospheric concentrations of carbon dioxide are causing the oceans to absorb more of the gas and become more acidic.",
+        "location": "Ch. 4, SWAP Habitats: Marine and Estuarine Habitats (IUCN Threat 11)",
+        "relevant_elements": ["3.6", "3.5"]
+      },
+      {
+        "text": "Seabeach Dock, Oysterleaf, and Sea Lyme-grass are all at or near the southern extent of their geographic ranges in Massachusetts. A warmer climate may cause these species to retreat northward, extirpating them from the state.",
+        "location": "Ch. 4, SWAP Habitats: Coastal Dunes, Beaches, and Small Islands (IUCN Threat 11)",
+        "relevant_elements": ["1.1", "C2"]
+      },
+      {
+        "text": "Figure 4-42: Key Sites. Data from NHESP.",
+        "location": "Ch. 4, Section D – Highest Priority Habitat Areas",
+        "relevant_elements": ["4.1"]
+      },
+      {
+        "text": "BioMap2 Core Habitat and Critical Natural Landscape cover 2.1 million acres, about 40% of the state... where the areas identified for protection in the first BioMap were based primarily on areas supporting state-listed and federally listed species, the new BioMap2 uses in addition a broader set of criteria, including habitats which support SGCN and areas vulnerable to sea level rise caused by climate change.",
+        "location": "Ch. 6, Section B – Proactive Habitat Protection",
+        "relevant_elements": ["4.1", "3.5"]
+      },
+      {
+        "text": "Conservation plans should include detailed needs, actions, and schedules specific to each SGCN, as well as metrics to determine the effectiveness of each action and the overall impact on these SGCN populations.",
+        "location": "Multiple habitat sections – Planning subsections",
+        "relevant_elements": ["4.3"]
+      },
+      {
+        "text": "The Massachusetts Division of Fisheries and Wildlife plans to review the SWAP on a 10-year timetable, which means the next update will be due in 2025.",
+        "location": "Foreword / What are the SWAP's main components",
+        "relevant_elements": ["4.3"]
+      },
+      {
+        "text": "Massachusetts is committed to an adaptive management approach to the conservation of SWAP species and habitats. As part of this approach, the effectiveness of conservation actions must be appropriately monitored, and changes made as needed to the conservation actions over time.",
+        "location": "Ch. 7, Section C – Effectiveness of Conservation Actions",
+        "relevant_elements": ["4.3", "4.5"]
+      },
+      {
+        "text": "The Northeast Association of Fish and Wildlife Agencies provided funding through the Regional Conservation Needs Grant Program for Manomet Center for Conservation Sciences and the National Wildlife Federation to conduct a Regional Climate Change Vulnerability Assessment.",
+        "location": "Ch. 2, Linking Landscapes section",
+        "relevant_elements": ["2.1", "3.4"]
+      },
+      {
+        "text": "In 2010, the Manomet Center for Conservation Sciences, in Plymouth, MA, worked with the DFW to conduct a Climate Change Vulnerability Assessment of many of the habitats identified in the 2005 SWAP. This project was conducted under the leadership of Dr. Hector Galbraith, who used an expert elicitation approach to conduct the assessment.",
+        "location": "Ch. 2, Linking Landscapes section",
+        "relevant_elements": ["2.1", "1.1"]
+      },
+      {
+        "text": "MassDOT has installed barrier fencing at the highest ranking site identified by the Turtle Road Mortality Monitoring Program, and surveys in subsequent years indicated a 90 percent reduction in mortality.",
+        "location": "Ch. 2, Linking Landscapes section",
+        "relevant_elements": ["4.4"]
+      },
+      {
+        "text": "Continue research into the efficacy of the Red-bellied Cooter headstarting program, which is believed to be the largest and longest-running program of its kind.",
+        "location": "Ch. 4, SWAP Habitats: Lakes and Ponds – Data Collection and Analysis",
+        "relevant_elements": ["4.4"]
+      },
+      {
+        "text": "The Conservation Strategy for the New England Cottontail is based on the adaptive management concept; it can and will be changed as scientists learn new facts about this rare cottontail and as new threats emerge or as old threats diminish.",
+        "location": "Ch. 2, New England Cottontail section",
+        "relevant_elements": ["4.5", "4.3"]
+      },
+      {
+        "text": "At the state level, the DFW participated in the development of the State Climate Change Adaptation Report, Massachusetts Climate Change Adaptation Report, which was released in September of 2011.",
+        "location": "Ch. 5, Section A – Massachusetts Climate Change Adaptation Report",
+        "relevant_elements": ["4.5"]
+      },
+      {
+        "text": "There are a range of decision support tools and processes to aid climate change adaptation. This document highlights several including the Adaptation Workbook, Climate Change Vulnerability Assessments, Structured Decision Making, Adaptive Resource Management, and Scenario Planning.",
+        "location": "Ch. 5, Box 5-1 (Scale-Appropriate Adaptation Strategies)",
+        "relevant_elements": ["4.5"]
+      },
+      {
+        "text": "Protect areas of high-elevation conifer cover that Moose rely on as refuges from heat and deep snow, which are crucial for sustaining Moose populations in Massachusetts.",
+        "location": "Ch. 4, SWAP Habitats: Large Unfragmented Landscape Mosaics – Conservation Actions",
+        "relevant_elements": ["4.1", "1.1"]
+      },
+      {
+        "text": "Limited dispersal ability constrains many species' capacity to colonize newly suitable habitat... Species with low adaptive capacity such as those with specialized habitat needs or limited dispersal ability face higher vulnerability to these changes.",
+        "location": "Ch. 5, Section B – Biological Responses of Northeast and Midwest Species",
+        "relevant_elements": ["1.2", "1.3"]
+      },
+      {
+        "text": "Genetic diversity... Evolutionary potential... Under some circumstances, peripheral populations are known to diverge genetically from interior populations (Lesica & Allendorf 1995).",
+        "location": "Appendix E – Guidelines for Dealing with Peripheral Populations",
+        "relevant_elements": ["1.3"]
+      },
+      {
+        "text": "Wattles and DeStefano (2013) found that Moose selected for areas of regenerating forest during most of the year... Within their home range, Moose require a variety of cover types to meet their annual energy demands and the connectivity between these cover types is important.",
+        "location": "Ch. 4, SWAP Habitats: Large Unfragmented Landscape Mosaics",
+        "relevant_elements": ["1.3", "1.4"]
+      },
+      {
+        "text": "Conducting research to examine interactions between New England Cottontail and Eastern Cottontail in response to habitat management is needed.",
+        "location": "Ch. 4, SWAP Habitats: Upland Forests – Data Collection and Analysis",
+        "relevant_elements": ["1.3"]
+      },
+      {
+        "text": "In northeastern Massachusetts, Manomet, NWF, and NEAFWA embarked on a three-year effort to evaluate the vulnerabilities of the northeast's key habitats and species, and to help increase the capabilities of state fish and wildlife agencies to respond to these challenges.",
+        "location": "Ch. 5, Section A – A project extending from Maine to the Virginias",
+        "relevant_elements": ["2.1", "3.4"]
+      }
+    ]
+  },
+  "concepts": {
+    "climate_vulnerability": {
+      "evaluable": true,
+      "score": 3,
+      "evidence": [
+        {
+          "text": "Since the 2005 SWAP, response to climate change by the Commonwealth of Massachusetts has centered on developing a better understanding of how climate change is likely to impact SGCN and their habitats, including the adaptive capacity of these species and how they might respond to climate changes.",
+          "location": "Ch. 2, Climate Change table (Progress Since 2005)",
+          "sub_component": "exposure and adaptive capacity",
+          "citations": []
+        },
+        {
+          "text": "Understanding why species and ecosystems are vulnerable or potentially less resilient is a critical first step in developing effective conservation strategies. This vulnerability is based on sensitivity, exposure, and the ability to adapt.",
+          "location": "Ch. 5, Section A – Effects of Climate Change",
+          "sub_component": "exposure and adaptive capacity",
+          "citations": []
+        },
+        {
+          "text": "Species with low adaptive capacity such as those with specialized habitat needs or limited dispersal ability face higher vulnerability to these changes.",
+          "location": "Ch. 5, Section B – Biological Responses of Northeast and Midwest Species",
+          "sub_component": "adaptive capacity",
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "adaptive_capacity_specificity": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Species with low adaptive capacity such as those with specialized habitat needs or limited dispersal ability face higher vulnerability to these changes.",
+          "location": "Ch. 5, Section B – Biological Responses of Northeast and Midwest Species",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Since the 2005 SWAP, response to climate change by the Commonwealth of Massachusetts has centered on developing a better understanding of how climate change is likely to impact SGCN and their habitats, including the adaptive capacity of these species and how they might respond to climate changes.",
+          "location": "Ch. 2, Climate Change table (Progress Since 2005)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "adaptive_capacity_components": {
+      "demography": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Spotted and Blanding's turtles are long-lived reptiles, with delayed reproductive maturity (about 8 years for Spotted, 17.5 years for Blanding's), low annual reproductive output... These life-history characteristics imply that adult turtles must have a very high annual survivorship rate (estimated at 93% or greater) to offset low recruitment to adult ages and, thus, maintain stable populations.",
+            "location": "Ch. 4, SWAP Habitats: Large Unfragmented Landscape Mosaics",
+            "sub_component": null,
+            "citations": ["Congdon et al. 1993", "Fowle 2001"]
+          }
+        ]
+      },
+      "distribution": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Warming coastal waters are causing suitable habitats of temperature-sensitive species to shift northward. Suitable habitats of other species may also shift because they cannot compete for limited resources with the southern species that are moving northward.",
+            "location": "Ch. 4, SWAP Habitats: Marine and Estuarine Habitats (IUCN Threat 11)",
+            "sub_component": null,
+            "citations": ["Karl et al. 2009"]
+          },
+          {
+            "text": "The Twilight Moth is at the southern extent of its geographic range in Massachusetts; this species may retreat northward with climate warming, resulting in its extirpation from the state.",
+            "location": "Ch. 4, SWAP Habitats: Pitch Pine-Oak Upland Forest (IUCN Threat 11)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "movement": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "It is important to maintain high quality source breeding habitats and connectivity across habitats to facilitate species dispersal, migration, and maintenance; protect local connectivity for individuals, as well as regional movements of populations to facilitate climate change adaptation",
+            "location": "Ch. 5, Box 5-2: Regional Climate Change Vulnerability Assessment",
+            "sub_component": null,
+            "citations": []
+          },
+          {
+            "text": "Species with low adaptive capacity such as those with specialized habitat needs or limited dispersal ability face higher vulnerability to these changes.",
+            "location": "Ch. 5, Section B – Biological Responses of Northeast and Midwest Species",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "evolutionary_potential": {
+        "present": false,
+        "evidence": []
+      },
+      "ecological_dependencies": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Ecological interactions and land use change could exacerbate the impacts of climate change. A focus on habitat connectivity, water quality, and invasive species is among the many options.",
+            "location": "Ch. 5, Section B – Biological Responses of Northeast and Midwest Species",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "abiotic_niche": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Some wildlife groups in the Northeast and the Midwest, including montane birds, salamanders, cold-adapted fish, and freshwater mussels, could be particularly affected by changing temperatures, precipitation, sea and lake level, and ocean processes.",
+            "location": "Ch. 5, Section B – Biological Responses of Northeast and Midwest Species",
+            "sub_component": null,
+            "citations": []
+          },
+          {
+            "text": "Species' physiological limits are tested as shifting temperatures, altered hydrology, and changing seasonal cues affect survival, reproduction, and migration.",
+            "location": "Ch. 5, Section A – Effects of Climate Change",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "life_history": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Spotted and Blanding's turtles are long-lived reptiles, with delayed reproductive maturity (about 8 years for Spotted, 17.5 years for Blanding's), low annual reproductive output (2-7 eggs/year for Spotted, 3-22 eggs/year for Blanding's)... These life-history characteristics imply that adult turtles must have a very high annual survivorship rate",
+            "location": "Ch. 4, SWAP Habitats: Large Unfragmented Landscape Mosaics",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      }
+    },
+    "connectivity": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "It is important to maintain high quality source breeding habitats and connectivity across habitats to facilitate species dispersal, migration, and maintenance; protect local connectivity for individuals, as well as regional movements of populations to facilitate climate change adaptation",
+          "location": "Ch. 5, Box 5-2: Regional Climate Change Vulnerability Assessment",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Salt Marsh Migration: A special case for connectivity... BioMap2 includes an analysis of low lying, undeveloped and ecologically connected upland areas adjacent to salt marshes and coastal habitat to determine where these habitats might extend into or migrate to adjacent uplands as sea levels rise.",
+          "location": "Ch. 5, Section C – BioMap2 and Climate Change",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Climate change poses significant threats to local populations of SGCN that currently rely on smaller shrub swamps in landscapes having poor connectivity with larger swamps and/or open-water wetlands.",
+          "location": "Ch. 4, SWAP Habitats: Shrub Swamps (IUCN Threat 7)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    }
+  },
+  "tools": {
+    "vulnerability_models": {
+      "evaluable": true,
+      "score": 2,
+      "named_tools": ["Climate Change Vulnerability Assessment", "NEAFWA Habitat Vulnerability Assessment Model"],
+      "evidence": [
+        {
+          "text": "In 2010, the Manomet Center for Conservation Sciences, in Plymouth, MA, worked with the DFW to conduct a Climate Change Vulnerability Assessment of many of the habitats identified in the 2005 SWAP. This project was conducted under the leadership of Dr. Hector Galbraith, who used an expert elicitation approach to conduct the assessment.",
+          "location": "Ch. 2, Linking Landscapes section",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Volume 2 -Habitat and Species Vulnerability. This volume reports the results of the work assessing the likely vulnerabilities of fish and wildlife and their habitats to climate change... Which vertebrate Species in Greatest Need of Conservation are likely to be most vulnerable to climate change?",
+          "location": "Ch. 2, Linking Landscapes section (CCVA reports)",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "The NEAFWA Habitat Vulnerability Assessment Model is now being used by 6 states to complete their state vulnerability assessments.",
+          "location": "Ch. 5, Box 5-2: Regional Climate Change Vulnerability Assessment",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "niche_models": {
+      "evaluable": true,
+      "score": 1,
+      "named_tools": [],
+      "evidence": [
+        {
+          "text": "Develop and document distribution-model methods for under-studied focal species that can incorporate the agency's institutional data sets.",
+          "location": "Ch. 4, SWAP Habitats: Marine and Estuarine Habitats – Planning",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document references distribution models as a future recommendation but does not apply specific SDMs (MaxEnt, etc.) to focal species. One passage discusses developing distribution models for under-studied species as a future action, scoring 1."
+    },
+    "climate_models": {
+      "evaluable": true,
+      "score": 1,
+      "named_tools": [],
+      "evidence": [
+        {
+          "text": "Climate change projections were derived using two emission scenarios. Dr. Galbraith summarized the results from these question and answer sessions.",
+          "location": "Ch. 2, Linking Landscapes section (CCVA)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document mentions 'two emission scenarios' were used in the Manomet CCVA but does not name specific GCMs, RCP values, CMIP products, or downscaling tools. Qualitative climate change descriptions are abundant but no named climate model or formal emission scenario (RCP/SSP) is cited in the document's own analysis. Score 1 (referenced generally) is appropriate.",
+      "time_horizon_years": [],
+      "emission_scenarios": []
+    },
+    "connectivity_models": {
+      "evaluable": true,
+      "score": 1,
+      "named_tools": [],
+      "evidence": [
+        {
+          "text": "BioMap2 also integrates TNC's assessment of large, well-connected, and intact ecosystems and landscapes across the state, incorporating concepts of ecosystem resilience to address anticipated climate-change impacts.",
+          "location": "Ch. 4, Section D – Highest Priority Habitat Areas",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "BioMap2 incorporates connectivity analyses and the document references 'UMass Critical Linkages/CAPS data' as future landscape planning tools to incorporate. No specific connectivity model (CircuitScape, Linkage Mapper, etc.) is named and applied to the document's focal subjects. Score 1."
+    }
+  },
+  "context": {
+    "management_scale": {
+      "local": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Biodiversity conservation in Massachusetts is often a cooperative effort. Depending on the scale of the project, these efforts may involve local groups -for example, a small land trust pairing with a municipal Conservation Commission to protect a piece of land",
+            "location": "Ch. 2, Section D – Partnerships",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "site": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Habitat management site plans for high-priority sites have been and will continue to be developed.",
+            "location": "Ch. 4, SWAP Habitats: Conservation Actions for Upland Forests – Planning",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "watershed": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Of the 27 major watersheds in Massachusetts, the percent of protectedness ranges from 6.6% for the Blackstone to 35.4% for the Westfield.",
+            "location": "Ch. 2, Section A – Protectedness Analysis (Subwatersheds)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "city": {
+        "present": false,
+        "evidence": []
+      },
+      "county": {
+        "present": false,
+        "evidence": []
+      },
+      "within_state_region": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Road densities are greatest in the eastern region and in areas of high population densities within portions of the Connecticut River Valley in Franklin, Hampshire, and Hampden counties.",
+            "location": "Ch. 2, Linking Landscapes section",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "state": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The Massachusetts Division of Fisheries and Wildlife plans to review the SWAP on a 10-year timetable, which means the next update will be due in 2025.",
+            "location": "Foreword / What are the SWAP's main components",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "multistate": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "In a project extending from Maine to the Virginias, the Northeastern Association of Fish and Wildlife Agencies (NEAFWA), Manomet Center for Conservation Sciences (Manomet), and the National Wildlife Federation (NWF) collaborated with other major northeastern stakeholders",
+            "location": "Ch. 5, Section A – Regional Climate Change Vulnerability Assessment project",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "national": {
+        "present": false,
+        "evidence": []
+      },
+      "transnational": {
+        "present": false,
+        "evidence": []
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Limit ecosystem stressors. Strategies that focus on reducing threats, such as habitat conversion and fragmentation (i.e., development), invasive species, and airborne and waterborne pollutants, can maintain ecosystem resilience and allow ecosystems to provide a full range of functions and services.",
+            "location": "Ch. 5, Box 5-1: Natural Resources and Habitats: Guiding Principles",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecoregion": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "BioMap2 includes the largest examples of high-quality forest and wetland ecosystems... across the full range of ecoregions and ecological settings.",
+            "location": "Ch. 5, Section C – BioMap2 and Climate Change",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "province": {
+        "present": false,
+        "evidence": []
+      },
+      "section": {
+        "present": false,
+        "evidence": []
+      },
+      "subsection": {
+        "present": false,
+        "evidence": []
+      },
+      "lake": {
+        "present": false,
+        "evidence": []
+      },
+      "river": {
+        "present": false,
+        "evidence": []
+      },
+      "district": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["Blackstone watershed", "Westfield watershed", "Connecticut River Valley", "Great Marsh", "Cape Cod", "Montague Plains WMA", "Northeastern states (Maine to Virginia)"]
+    },
+    "biological_unit_score": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Warming coastal waters are causing suitable habitats of temperature-sensitive species to shift northward.",
+          "location": "Ch. 4, SWAP Habitats: Marine and Estuarine Habitats (IUCN Threat 11)",
+          "sub_component": "species",
+          "citations": []
+        },
+        {
+          "text": "Salt Marsh Migration: A special case for connectivity... BioMap2 includes an analysis of low lying, undeveloped and ecologically connected upland areas adjacent to salt marshes and coastal habitat to determine where these habitats might extend into or migrate to adjacent uplands as sea levels rise.",
+          "location": "Ch. 5, Section C – BioMap2 and Climate Change",
+          "sub_component": "habitat",
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "biological_unit_components": {
+      "species": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Warming coastal waters are causing suitable habitats of temperature-sensitive species to shift northward. Suitable habitats of other species may also shift because they cannot compete for limited resources with the southern species that are moving northward.",
+            "location": "Ch. 4, SWAP Habitats: Marine and Estuarine Habitats (IUCN Threat 11)",
+            "sub_component": null,
+            "citations": ["Karl et al. 2009"]
+          }
+        ]
+      },
+      "population": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Climate change poses significant threats to local populations of SGCN that currently rely on smaller shrub swamps in landscapes having poor connectivity with larger swamps and/or open-water wetlands.",
+            "location": "Ch. 4, SWAP Habitats: Shrub Swamps (IUCN Threat 7)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "habitat": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Salt Marsh Migration: A special case for connectivity... BioMap2 includes an analysis of low lying, undeveloped and ecologically connected upland areas adjacent to salt marshes and coastal habitat to determine where these habitats might extend into or migrate to adjacent uplands as sea levels rise.",
+            "location": "Ch. 5, Section C – BioMap2 and Climate Change",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Transformation: The transition of an ecosystem or population to another ecological state in response to climate change and other stressors. BioMap2, recognizing such transformations are particularly likely along the coast, identifies low-lying, intact uplands adjacent to salt marshes to allow the migration of estuarine ecosystems up-slope in the context of rising sea levels.",
+            "location": "Ch. 5, Section C – BioMap2 and Climate Change",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "community": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "DFW identified the Montague sandplain... as a refugia for natural communities and species that are likely to exhibit a markedly different response to predicted climate change than other vegetation types in Massachusetts.",
+            "location": "Ch. 5, Section F – Forestry Management on Montague Plains WMA",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "genotype_phenotype": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["Northern Flying Squirrel", "Twilight Moth", "Bartram's Shadbush", "Bog Elfin", "Mustard White", "Saltmarsh Sparrow", "Willet", "Moose", "Common Eider", "Piping Plover", "Salt marsh", "Coastal plain ponds", "Pitch Pine-Oak forest", "Northern Hardwoods-Spruce-Fir", "Riparian forest", "Vernal pools"]
+    },
+    "partnerships_and_funding": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "In a project extending from Maine to the Virginias, the Northeastern Association of Fish and Wildlife Agencies (NEAFWA), Manomet Center for Conservation Sciences (Manomet), and the National Wildlife Federation (NWF) collaborated with other major northeastern stakeholders, including federal agencies and nonprofit organizations, to protect fish and wildlife and their habitats from climate change.",
+          "location": "Ch. 5, Section A – Regional CCVA project description",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "The Northeast Association of Fish and Wildlife Agencies provided funding through the Regional Conservation Needs Grant Program for Manomet Center for Conservation Sciences and the National Wildlife Federation to conduct a Regional Climate Change Vulnerability Assessment.",
+          "location": "Ch. 2, Linking Landscapes section",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "MassWildlife is a partner in the Rangewide New England Cottontail Initiative with the U.S. Fish and Wildlife Service, other state agencies, the Wildlife Management Institute, and the Natural Resources Conservation Service. Under this partnership, the Conservation Strategy for the New England Cottontail was produced.",
+          "location": "Ch. 4, SWAP Habitats: Shrub Swamps – Planning",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_threat_habitat_degradation": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "A rise in sea level is predicted to result in loss of salt marshes as they become permanently inundated with seawater.",
+          "location": "Ch. 4, SWAP Habitats: Salt Marsh (IUCN Threat 11)",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Sea level is rising at an accelerating rate... Coastal dunes, beaches, and small islands may be lost, reduced in extent, or adversely modified by a rise in sea level, endangering species that depend upon these habitats.",
+          "location": "Ch. 5, Section A – Effects of Climate Change / Ch. 4 Coastal Dunes (IUCN Threat 11)",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Increased periodicity and intensity of drought may cause loss of aquatic habitat through short-term drying, but may also concentrate effects of pollutants.",
+          "location": "Ch. 4, SWAP Habitats: Large and Mid-sized Rivers (IUCN Threat 11)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_threat_species_vital_rates": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Increases in climate temperatures would lead to increased heat-stress on Moose in the spring, summer, and fall, and more importantly, an increase in disease and parasites that can have a detrimental effect on moose populations.",
+          "location": "Ch. 4, SWAP Habitats: Large Unfragmented Landscape Mosaics (IUCN Threat 11)",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "If climate change causes basins to fill later, and Marbled Salamanders do not adjust the onset of breeding accordingly, then a reduction in the presumed benefits of egg-brooding would be expected, as eggs would be left unattended for longer periods of time and might incur reduced hatching success. Earlier drying of pool basins in the spring would be expected to result in greater larval mortality and reduced juvenile recruitment.",
+          "location": "Ch. 4, SWAP Habitats: Vernal Pools (IUCN Threat 11)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_threat_biotic_stressors": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Invasive species that had not been able to establish populations in colder environments may now be able to survive and start competing with native species (Karl et al. 2009).",
+          "location": "Ch. 4, SWAP Habitats: Marine and Estuarine Habitats (IUCN Threat 11)",
+          "sub_component": null,
+          "citations": ["Karl et al. 2009"]
+        },
+        {
+          "text": "Climate change appears to be at least partially responsible for the recent and rapid spread of native insect pests, such as the Southern Pine Beetle, into more northern climes (Gan 2004). Southern Pine Beetle has very recently been identified as causing extensive mortality of pitch pine on Long Island, and could soon cause similar mortality in the pitch pine forests of southeastern Massachusetts.",
+          "location": "Ch. 4, SWAP Habitats: Upland Forests – General Habitat Description",
+          "sub_component": null,
+          "citations": ["Gan 2004"]
+        }
+      ],
+      "absence_note": {}
+    }
+  },
+  "actions": {
+    "priority_habitat_identification": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "BioMap2 Core Habitat and Critical Natural Landscape cover 2.1 million acres, about 40% of the state... areas vulnerable to sea level rise caused by climate change.",
+          "location": "Ch. 6, Section B – Proactive Habitat Protection",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Figure 4-42: Key Sites. Data from NHESP.",
+          "location": "Ch. 4, Section D – Highest Priority Habitat Areas",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Protect areas of high-elevation conifer cover that Moose rely on as refuges from heat and deep snow, which are crucial for sustaining Moose populations in Massachusetts.",
+          "location": "Ch. 4, SWAP Habitats: Large Unfragmented Landscape Mosaics – Conservation Actions",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "targeted_range_shift_actions": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "DFW is researching the potential for assisted migration of common tree species within the state on the basis of climate changes.",
+          "location": "Ch. 4, SWAP Habitats: Conservation Actions for Upland Forests – Planning",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Populations imperiled by climate change should be evaluated to determine if translocation is recommended.",
+          "location": "Executive Summary – Species Reintroduction and Stocking (Coastal Plain Ponds)",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Protect salt marshes supporting populations of SGCN animals and plants, with particular emphasis on adjacent uplands buffering salt marshes, to provide for potential upslope salt marsh under climate change.",
+          "location": "Ch. 4, SWAP Habitats: Salt Marsh – Land and Water Rights Acquisition and Protection",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "time_bound_and_monitoring": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "The Massachusetts Division of Fisheries and Wildlife plans to review the SWAP on a 10-year timetable, which means the next update will be due in 2025.",
+          "location": "Foreword / What are the SWAP's main components",
+          "sub_component": "deadline",
+          "citations": []
+        },
+        {
+          "text": "Conservation plans should include detailed needs, actions, and schedules specific to each SGCN, as well as metrics to determine the effectiveness of each action and the overall impact on these SGCN populations.",
+          "location": "Multiple habitat sections – Planning subsections",
+          "sub_component": "monitoring",
+          "citations": []
+        }
+      ],
+      "absence_note": "The document endorses adaptive management and effectiveness monitoring as principles repeatedly across habitat chapters, and the Montague Plains WMA workbook (Table 5-2) includes time frames and monitoring items. However, those time frames are tied to a specific site-level planning exercise rather than being broadly operationalized at the action level across the plan. The plan's primary time-binding is at the plan-revision level (10 years), not action-level deadlines. Score 1 is appropriate; score 2 would require both action-level deadlines and effectiveness monitoring operationalized at the action level plan-wide."
+    },
+    "evidence_of_efficacy": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "MassDOT has installed barrier fencing at the highest ranking site identified by the Turtle Road Mortality Monitoring Program, and surveys in subsequent years indicated a 90 percent reduction in mortality.",
+          "location": "Ch. 2, Linking Landscapes section",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Continue research into the efficacy of the Red-bellied Cooter headstarting program, which is believed to be the largest and longest-running program of its kind.",
+          "location": "Ch. 4, SWAP Habitats: Lakes and Ponds – Data Collection and Analysis",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "The Conservation Strategy for the New England Cottontail is based on the adaptive management concept; it can and will be changed as scientists learn new facts about this rare cottontail and as new threats emerge or as old threats diminish.",
+          "location": "Ch. 2, New England Cottontail section",
+          "sub_component": null,
+          "citations": ["Fuller and Tur, 2012"]
+        }
+      ],
+      "absence_note": "The document presents limited evidence of efficacy for climate-specific range-shift actions. The strongest evidence is the turtle road mortality reduction (90%) from the Linking Landscapes program. Climate adaptation actions (assisted migration research, translocation recommendations) are aspirational without prior efficacy data. Score 2 (limited evidence) is appropriate: some prior project results are cited but they have limited direct applicability to climate-specific range-shift conservation.",
+      "projects": ["Linking Landscapes Turtle Road Mortality Monitoring Program: Barrier fencing installed at the highest-ranking mortality site; post-implementation surveys documented a 90% reduction in turtle mortality, providing direct evidence of action efficacy.", "Red-bellied Cooter headstarting program: The document references this as the largest and longest-running program of its kind and calls for continued research into its efficacy, implying existing outcomes data but without fully reporting those results in this document.", "Climate Change Vulnerability Assessment (Manomet/DFW, 2010): Expert elicitation-based vulnerability assessment applied to Massachusetts SGCN habitats and species, results incorporated into planning priorities — provides evidence supporting prioritization actions though not direct action-efficacy evaluation."]
+    },
+    "adaptation_planning_frameworks": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "There are a range of decision support tools and processes to aid climate change adaptation. This document highlights several including the Adaptation Workbook, Climate Change Vulnerability Assessments, Structured Decision Making, Adaptive Resource Management, and Scenario Planning.",
+          "location": "Ch. 5, Box 5-1 (Scale-Appropriate Adaptation Strategies)",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "The Massachusetts DFW is working with the Northern Institute of Applied Climate Science to apply the USDA Forest Service's tools to plan for climate change adaptation and response (Swanston and Janowiak 2012)... These tools provide a 5-step framework designed to enable land managers to 'define an area of interest, management goals/objectives, and time frames, assess climate change impacts and vulnerabilities for the area of interest, evaluate management objectives given projected impacts and vulnerabilities, identify adaptation approaches and tactics for implementation, and monitor and evaluate the effectiveness of implemented actions'",
+          "location": "Ch. 5, Section F – Forestry Management on Montague Plains WMA",
+          "sub_component": null,
+          "citations": ["Swanston and Janowiak 2012"]
+        },
+        {
+          "text": "At the state level, the DFW participated in the development of the State Climate Change Adaptation Report, Massachusetts Climate Change Adaptation Report, which was released in September of 2011.",
+          "location": "Ch. 5, Section A – Massachusetts Climate Change Adaptation Report",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    }
+  },
+  "coding_meta": {
+    "coder": "llm:claude-sonnet-4-6",
+    "model": "claude-sonnet-4-6",
+    "provider": "claude",
+    "codebook_version": "0.4",
+    "ingest": "text",
+    "design": "single",
+    "temperature": null,
+    "thinking": null,
+    "thinking_effort": null,
+    "coded_at": "2026-07-06T18:39:23Z",
+    "notes": {}
+  }
+}

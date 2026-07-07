@@ -1,0 +1,883 @@
+{
+  "document_meta": {
+    "title": "2025 Wisconsin Wildlife Action Plan (WWAP 2025-2035)",
+    "year": 2025,
+    "jurisdiction": "Wisconsin",
+    "document_type": "SWAP",
+    "document_id": "WI_SWAP_2025_draft",
+    "page_count": 514
+  },
+  "orientation": {
+    "summary": "This is the 2025 Wisconsin Wildlife Action Plan (WWAP 2025-2035), a State Wildlife Action Plan submitted by the Wisconsin Department of Natural Resources. The document is a comprehensive inventory of rare and declining species (SGCN), natural communities, and ecological landscapes, organized around the eight federally required SWAP elements. The plan engages broadly with climate change as a recognized threat across nearly all taxonomic and community groups, including explicit vulnerability assessments for natural communities and species. Range shifts are discussed directly — species are noted as shifting northward, southern-range species are threatened, and northern species face extirpation from the state as climate changes — but the plan does not perform its own species distribution modeling or climate projections; it references external tools (e.g., WICCI vulnerability assessments, Midwest CASC reports) and incorporates climate considerations into its species assessments and conservation opportunity area criteria. Management actions address climate resilience through COA criteria emphasizing climate-resilient cores and corridors, and threats-and-actions reports include climate adaptation recommendations for most natural community groups.",
+    "evidence_index": [
+      {
+        "text": "high or moderate vulnerability to climate change, genetically isolated species, cultural significance, regional status, or species with unique habitats in our state",
+        "location": "Summary Element 1 -Species of Greatest Conservation Need (WWAP2025_E0_SummaryRoadMap_NH0951.pdf)",
+        "relevant_elements": ["1.1", "2.1"]
+      },
+      {
+        "text": "Dark-eyed Junco, were added as SGIN due to declining trends and vulnerability to climate change and to highlight future monitoring needs.",
+        "location": "Bird SGCN, SGIN, and other species not SGCN (WWAP2025_E1-SGCN_Approach-Results.pdf)",
+        "relevant_elements": ["1.1", "1.2"]
+      },
+      {
+        "text": "species and habitat shifts occurring because of climate and other environmental changes",
+        "location": "Mammal SGCN, SGIN, and other species not SGCN (WWAP2025_E1-SGCN_Approach-Results.pdf)",
+        "relevant_elements": ["1.1", "2.0", "3.2", "3.3"]
+      },
+      {
+        "text": "Northern Clearwater Crayfish, were added as SGIN due to declining trends regionally and vulnerability to climate change and to highlight future monitoring needs.",
+        "location": "Invertebrate Animal SGCN, SGIN (WWAP2025_E1-SGCN_Approach-Results.pdf)",
+        "relevant_elements": ["1.1", "2.1"]
+      },
+      {
+        "text": "Specific climate change impacts to species or occupied habitats based on a vulnerability assessment using a 'low', 'medium', 'high' scale or equivalent.",
+        "location": "Vulnerability Factors (WWAP2025_E1-SGCN_Approach-Results.pdf)",
+        "relevant_elements": ["1.1", "1.2", "2.1"]
+      },
+      {
+        "text": "Low genetic diversity which prevents adaptation to changes in this species environment.",
+        "location": "Vulnerability Factors (WWAP2025_E1-SGCN_Approach-Results.pdf)",
+        "relevant_elements": ["1.1", "1.3"]
+      },
+      {
+        "text": "Some northern conifer forest community types are predicted to shift northward out of the state jeopardizing populations of species found in these forest types, at the southern edge of the range in Wisconsin.",
+        "location": "CMP Conservation Actions Classification M2 (WWAP2025_E3E4_ThreatsActions01_MammalActions.pdf)",
+        "relevant_elements": ["1.1", "1.3", "3.5", "2.0"]
+      },
+      {
+        "text": "Many mammals are experiencing phenological mismatch (e.g., hares or weasels with a winter white coat during snow free, early spring conditions) due to climate change making them more vulnerable to predators.",
+        "location": "CMP Conservation Actions Classification M2 (WWAP2025_E3E4_ThreatsActions01_MammalActions.pdf)",
+        "relevant_elements": ["1.1", "3.7"]
+      },
+      {
+        "text": "Many SGCN birds are becoming rarer in the state as their range contracts and shifts northward due to climate change impacts.",
+        "location": "Threat/Issue B6-Climate Change and Extreme Weather (WWAP2025_E3E4_ThreatsActions02_BirdActions.pdf)",
+        "relevant_elements": ["1.1", "1.3", "2.0", "3.2", "3.3"]
+      },
+      {
+        "text": "Wetland habitats with SGCN species face changes/areal losses due to prolonged drought associated with climate change.",
+        "location": "Threat/Issue B6-Climate Change and Extreme Weather (WWAP2025_E3E4_ThreatsActions02_BirdActions.pdf)",
+        "relevant_elements": ["1.1", "3.5"]
+      },
+      {
+        "text": "The net impacts of climate change and extreme weather events, including expected warmer and drier conditions in our state, will negatively impact many herptile SGCNs.",
+        "location": "Herptile threats section (WWAP2025_E3E4_ThreatsActions04_HerpActions.pdf)",
+        "relevant_elements": ["1.1", "3.5", "3.6"]
+      },
+      {
+        "text": "Limited mobility of most herptile species make it difficult for them to move to more favorable areas at a pace that keeps up with changes in climate.",
+        "location": "Herptile threats section (WWAP2025_E3E4_ThreatsActions04_HerpActions.pdf)",
+        "relevant_elements": ["1.1", "1.2", "1.3", "1.4"]
+      },
+      {
+        "text": "Mink frog embryos have limited tolerance to warmer water temperatures and consequent lower oxygen diffusion rates.",
+        "location": "Herptile threats section (WWAP2025_E3E4_ThreatsActions04_HerpActions.pdf)",
+        "relevant_elements": ["1.1", "1.3", "3.6"]
+      },
+      {
+        "text": "Long-term changes in climate also threaten plant SGCNs in Wisconsin and can exacerbate the effects of other threats summarized above.",
+        "location": "Threat/Issue P4-Climate Change (WWAP2025_E3E4_ThreatsActions06_PlantActions.pdf)",
+        "relevant_elements": ["1.1", "3.5"]
+      },
+      {
+        "text": "Species with low phenotypic plasticity or ability to tolerate fluctuations in annual temperature or precipitation, those with poor dispersal ability, and those with dependence on a limited number of species (e.g., pollinators) are vulnerable.",
+        "location": "Threat/Issue P4-Climate Change (WWAP2025_E3E4_ThreatsActions06_PlantActions.pdf)",
+        "relevant_elements": ["1.2", "1.3"]
+      },
+      {
+        "text": "Wisconsin Initiative on Climate Change Impacts -Plants and Natural Communities Working Group: Climate Vulnerability Ratings for Wisconsin's Natural Communities (2020) and Broad Community Group Fact Sheets (2016).",
+        "location": "Barrens Community Group (WWAP2025_E3E4_ThreatsActions09_BarrensCommunityGroup.pdf)",
+        "relevant_elements": ["1.1", "2.1"]
+      },
+      {
+        "text": "Barrens communities are projected to have moderate to moderately low vulnerability to climate change, as they are already adapted to stressors such as drought and high temperatures (Climate Change Vulnerability Assessment Workshops 2014).",
+        "location": "Threat/Issue Ba4-Climate Change (WWAP2025_E3E4_ThreatsActions09_BarrensCommunityGroup.pdf)",
+        "relevant_elements": ["1.1", "2.1"]
+      },
+      {
+        "text": "Contributes to a network of climate resilient cores and corridors. This criterion emphasizes how resilient the site is to climate change and whether it has features of landscape connectivity important for sustaining a climate resilient ecosystem.",
+        "location": "Table E3-E4.1 Criteria for Conservation Opportunity Areas (WWAP2025_E3E4_Approach-Threats-Actions.pdf)",
+        "relevant_elements": ["1.4", "4.1", "4.2"]
+      },
+      {
+        "text": "Resilient sites are more likely to maintain biological diversity and ecological function as climate change occurs. This includes sites that have potential for greater resiliency through additional management.",
+        "location": "Table E3-E4.1 Criteria for Conservation Opportunity Areas (WWAP2025_E3E4_Approach-Threats-Actions.pdf)",
+        "relevant_elements": ["1.1", "1.4", "4.1"]
+      },
+      {
+        "text": "Recognition of these features focuses conservation not only on biological targets (species and natural communities) that may rearrange in response to a changing climate, but also on the physical factors that create diversity in the first place.",
+        "location": "Table E3-E4.1 Criteria for Conservation Opportunity Areas (WWAP2025_E3E4_Approach-Threats-Actions.pdf)",
+        "relevant_elements": ["1.1", "1.3", "4.1", "4.2"]
+      },
+      {
+        "text": "Sustaining biological diversity and ecological processes across the region are more likely if the resilient sites are embedded in a larger network of connected lands that allow for dispersal and movement between sites.",
+        "location": "Table E3-E4.1 Criteria for Conservation Opportunity Areas (WWAP2025_E3E4_Approach-Threats-Actions.pdf)",
+        "relevant_elements": ["1.4", "4.1", "4.2"]
+      },
+      {
+        "text": "Identify, protect and preserve rivers and streams most resistant to climate-induced changes in temperature and hydrology.",
+        "location": "Threat/Issue F5-Climate Change (WWAP2025_E3E4_ThreatsActions03_FishActions.pdf)",
+        "relevant_elements": ["4.1", "4.2"]
+      },
+      {
+        "text": "Management actions should be undertaken to make northern coniferous plant communities more resilient and better able to adapt to changing climates.",
+        "location": "CMP Conservation Actions Classification M2 (WWAP2025_E3E4_ThreatsActions01_MammalActions.pdf)",
+        "relevant_elements": ["4.1", "4.2", "4.5"]
+      },
+      {
+        "text": "Create corridors and connect habitats when feasible. Implement best management practices (BMPs) to ameliorate the effects of climate change and to manage invasive species. Research efficacy of assisted migration and develop guidelines/policy.",
+        "location": "CMP Conservation Actions Classification Invert3 (WWAP2025_E3E4_ThreatsActions05_InvertebrateActions.pdf)",
+        "relevant_elements": ["1.4", "4.2"]
+      },
+      {
+        "text": "Effects of Climate Change on Midwest Ecosystems: Report series from the Midwest Climate Adaptation Science Center.",
+        "location": "E3-E4.4 Results -Threats and Actions (WWAP2025_E3E4_Approach-Threats-Actions.pdf)",
+        "relevant_elements": ["2.1", "4.5"]
+      },
+      {
+        "text": "Aanji-bimaadiziimagak o'ow aki [Climate Change Vulnerability Assessment Version 2 Great Lakes Indian Fish and Wildlife Commission (GLIFWC)]: Report produced by the Climate Change Program of GLIFWC.",
+        "location": "E3-E4.4 Results -Threats and Actions (WWAP2025_E3E4_Approach-Threats-Actions.pdf)",
+        "relevant_elements": ["2.1", "4.5"]
+      },
+      {
+        "text": "The broad areas of relatively continuous forested habitat also serve as a regionally important climate migration pathway.",
+        "location": "SEF 10. Large Blocks of Northern Forest (WWAP2025_E4-01_COA_SigEcologicalFeatures.pdf)",
+        "relevant_elements": ["1.4", "4.1", "4.2"]
+      },
+      {
+        "text": "The concentration of natural habitats along these riparian corridors also make medium-sized rivers important for climate migration, and in more agricultural parts of the state form some of the only remaining natural habitat for a wide variety of wildlife.",
+        "location": "SEF 13. Medium-sized Rivers and Streams (WWAP2025_E4-01_COA_SigEcologicalFeatures.pdf)",
+        "relevant_elements": ["1.4", "4.1", "4.2"]
+      },
+      {
+        "text": "As corridors with abundant natural habitat, they are also important for climate migration and larger landscape-level resiliency.",
+        "location": "SEF 11. Large River Corridors (WWAP2025_E4-01_COA_SigEcologicalFeatures.pdf)",
+        "relevant_elements": ["1.4", "4.2"]
+      },
+      {
+        "text": "Sites with diverse microhabitats conferred by a variety of slopes, aspects, and microclimates should also rank higher in conservation assessments as they allow species to shift through space and time as environmental conditions change.",
+        "location": "SEF 1. Bedrock Communities (WWAP2025_E4-01_COA_SigEcologicalFeatures.pdf)",
+        "relevant_elements": ["4.1", "1.4"]
+      },
+      {
+        "text": "COAs are aquatic and terrestrial sites with significant ecological features, natural communities or SGCN habitats that are some of the best places in our state to implement conservation actions.",
+        "location": "E6.2 WWAP Implementation and Improvements (WWAP2025_E6_ReviewRevision_Approach_Results.pdf)",
+        "relevant_elements": ["4.1", "4.3"]
+      },
+      {
+        "text": "Review and revision of the major elements of the WWAP (SGCN, their habitats, threats and conservation actions) innately follow an adaptive management approach for improvement that incorporates the results of monitoring and evaluation of outcomes into future management actions.",
+        "location": "E6.2 WWAP Implementation and Improvements (WWAP2025_E6_ReviewRevision_Approach_Results.pdf)",
+        "relevant_elements": ["4.3", "4.5"]
+      },
+      {
+        "text": "Conduct breeding bird surveys every 5 years for two consecutive years to determine status and trends of breeding birds and SGCNs.",
+        "location": "Conservation Actions (WWAP_COA_01-06_Pokegama-NemadjiWetlandsCOA.pdf)",
+        "relevant_elements": ["4.3"]
+      },
+      {
+        "text": "Over 300 experts and professionals both within and outside the Wisconsin Department of Natural Resources were invited to contribute their knowledge to the content of the Wisconsin Wildlife Action Plan.",
+        "location": "Contributors (WWAP2025_E0_SummaryRoadMap_NH0951.pdf)",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "The development of the 2025-2035 Wisconsin Wildlife Action Plan was made possible, by funding from the Wisconsin DNR Bureau of Natural Heritage Conservation.",
+        "location": "Contributors (WWAP2025_E0_SummaryRoadMap_NH0951.pdf)",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "Tribes contributed significantly to the content of this plan through briefings, coordination, and First Foods section development.",
+        "location": "Tribal Engagement (WWAP2025_E7E8_PartnerPublicInvolvement.pdf)",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "The future of SWAPs lies in our ability to invest in the means to share, organize and access data and information about SGCN, habitats, threats and actions, and to use that investment to facilitate collaboration at all scales --local to regional and beyond.",
+        "location": "Summary of Outcomes (WWAP2025_E0_SummaryRoadMap_NH0951.pdf)",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "Cool-and cold-water streams are warming due to increasing temperatures and lower base flow, limiting reproduction of species such as trout, walleye and aquatic invertebrates.",
+        "location": "Threat/Issue AQ4 (WWAP2025_E3E4_ThreatsActions08_AquaticCommunityGroup.pdf)",
+        "relevant_elements": ["3.5", "3.6"]
+      },
+      {
+        "text": "Prolonged flooding events have been found to drown species like eastern massasauga and turtle nests. Cold winters with little snowpack result in mortality of overwintering turtles and frogs.",
+        "location": "Herptile threats section (WWAP2025_E3E4_ThreatsActions04_HerpActions.pdf)",
+        "relevant_elements": ["3.6"]
+      },
+      {
+        "text": "Climate change scientists suggest that non-native invasive species may increase in productivity with increasing CO2, warmer temperatures, earlier springs, and reduced snowpack, and may invade new areas during extreme flood events",
+        "location": "Threat/Issue Ba4-Climate Change (WWAP2025_E3E4_ThreatsActions09_BarrensCommunityGroup.pdf)",
+        "relevant_elements": ["3.7"]
+      },
+      {
+        "text": "Competition among native species (green frogs, bullfrogs v. mink frogs) may occur if green and bullfrogs advance further into mink frog range with average increases in water and air temperature.",
+        "location": "Herptile threats section (WWAP2025_E3E4_ThreatsActions04_HerpActions.pdf)",
+        "relevant_elements": ["3.7"]
+      },
+      {
+        "text": "The next comprehensive WWAP will be submitted in September of 2035.",
+        "location": "E6.2 WWAP Implementation and Improvements (WWAP2025_E6_ReviewRevision_Approach_Results.pdf)",
+        "relevant_elements": ["4.3"]
+      },
+      {
+        "text": "Wisconsin Initiative on Climate Change Impacts. Nelson Institute for Environmental Studies, University of Wisconsin-Madison and the Wisconsin Department of Natural Resources, Madison, Wisconsin.",
+        "location": "Conservation Actions Classification NF5 (WWAP2025_E3E4_ThreatsActions13_NorthernForestCommunityGroup.pdf)",
+        "relevant_elements": ["2.1", "4.5"]
+      },
+      {
+        "text": "Use available phenological data to identify plant SGCNs that have limited phenotypic plasticity and may be particularly threatened by variations in temperature and precipitation related to climate change.",
+        "location": "CMP Conservation Actions P9 (WWAP2025_E3E4_ThreatsActions06_PlantActions.pdf)",
+        "relevant_elements": ["4.3", "4.5"]
+      },
+      {
+        "text": "Identify criteria for identifying these areas should incorporate climate change adaptation and other large-scale environmental changes, as well as shifting land use patterns and pressures.",
+        "location": "Conservation Actions F6 (WWAP2025_E3E4_ThreatsActions03_FishActions.pdf)",
+        "relevant_elements": ["4.1", "4.5"]
+      }
+    ]
+  },
+  "concepts": {
+    "climate_vulnerability": {
+      "evaluable": true,
+      "score": 3,
+      "evidence": [
+        {
+          "text": "Specific climate change impacts to species or occupied habitats based on a vulnerability assessment using a 'low', 'medium', 'high' scale or equivalent. The S-Rank 'threat' category looks at vulnerability to all threats. Climate change vulnerability needs specific emphasis.",
+          "location": "Vulnerability Factors (WWAP2025_E1-SGCN_Approach-Results.pdf)",
+          "sub_component": "exposure",
+          "citations": []
+        },
+        {
+          "text": "high or moderate vulnerability to climate change, genetically isolated species, cultural significance, regional status, or species with unique habitats in our state",
+          "location": "Summary Element 1 -Species of Greatest Conservation Need (WWAP2025_E0_SummaryRoadMap_NH0951.pdf)",
+          "sub_component": "exposure",
+          "citations": []
+        },
+        {
+          "text": "Species with low phenotypic plasticity or ability to tolerate fluctuations in annual temperature or precipitation, those with poor dispersal ability, and those with dependence on a limited number of species (e.g., pollinators) are vulnerable.",
+          "location": "Threat/Issue P4-Climate Change (WWAP2025_E3E4_ThreatsActions06_PlantActions.pdf)",
+          "sub_component": "adaptive capacity",
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "adaptive_capacity_specificity": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Low genetic diversity which prevents adaptation to changes in this species environment.",
+          "location": "Vulnerability Factors (WWAP2025_E1-SGCN_Approach-Results.pdf)",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Limited mobility of most herptile species make it difficult for them to move to more favorable areas at a pace that keeps up with changes in climate.",
+          "location": "Herptile threats section (WWAP2025_E3E4_ThreatsActions04_HerpActions.pdf)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "adaptive_capacity_components": {
+      "demography": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Even if populations or species diversity are declining, this assumes at least moderate viability such that conservation actions within the COA can help to sustain the species over time.",
+            "location": "Table E3-E4.1 Criteria for Conservation Opportunity Areas (WWAP2025_E3E4_Approach-Threats-Actions.pdf)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "distribution": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Many SGCN birds are becoming rarer in the state as their range contracts and shifts northward due to climate change impacts.",
+            "location": "Threat/Issue B6-Climate Change and Extreme Weather (WWAP2025_E3E4_ThreatsActions02_BirdActions.pdf)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "movement": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Limited mobility of most herptile species make it difficult for them to move to more favorable areas at a pace that keeps up with changes in climate.",
+            "location": "Herptile threats section (WWAP2025_E3E4_ThreatsActions04_HerpActions.pdf)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "evolutionary_potential": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Low genetic diversity which prevents adaptation to changes in this species environment.",
+            "location": "Vulnerability Factors (WWAP2025_E1-SGCN_Approach-Results.pdf)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecological_dependencies": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Specialist pollinators with single host plant species face elevated risk under climate change due to potential phenological decoupling.",
+            "location": "Threat/Issue P4-Climate Change (WWAP2025_E3E4_ThreatsActions06_PlantActions.pdf)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "abiotic_niche": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Mink frog embryos have limited tolerance to warmer water temperatures and consequent lower oxygen diffusion rates.",
+            "location": "Herptile threats section (WWAP2025_E3E4_ThreatsActions04_HerpActions.pdf)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "life_history": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Species with low phenotypic plasticity or ability to tolerate fluctuations in annual temperature or precipitation, those with poor dispersal ability, and those with dependence on a limited number of species (e.g., pollinators) are vulnerable.",
+            "location": "Threat/Issue P4-Climate Change (WWAP2025_E3E4_ThreatsActions06_PlantActions.pdf)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      }
+    },
+    "connectivity": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Contributes to a network of climate resilient cores and corridors. This criterion emphasizes how resilient the site is to climate change and whether it has features of landscape connectivity important for sustaining a climate resilient ecosystem.",
+          "location": "Table E3-E4.1 Criteria for Conservation Opportunity Areas (WWAP2025_E3E4_Approach-Threats-Actions.pdf)",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "The concentration of natural habitats along these riparian corridors also make medium-sized rivers important for climate migration, and in more agricultural parts of the state form some of the only remaining natural habitat for a wide variety of wildlife.",
+          "location": "SEF 13. Medium-sized Rivers and Streams (WWAP2025_E4-01_COA_SigEcologicalFeatures.pdf)",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "The broad areas of relatively continuous forested habitat also serve as a regionally important climate migration pathway.",
+          "location": "SEF 10. Large Blocks of Northern Forest (WWAP2025_E4-01_COA_SigEcologicalFeatures.pdf)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    }
+  },
+  "tools": {
+    "vulnerability_models": {
+      "evaluable": true,
+      "score": 2,
+      "named_tools": ["NatureServe Conservation Status Assessment", "WICCI Climate Vulnerability Ratings", "CCVI"],
+      "evidence": [
+        {
+          "text": "Wisconsin Initiative on Climate Change Impacts -Plants and Natural Communities Working Group: Climate Vulnerability Ratings for Wisconsin's Natural Communities (2020) and Broad Community Group Fact Sheets (2016).",
+          "location": "Barrens Community Group (WWAP2025_E3E4_ThreatsActions09_BarrensCommunityGroup.pdf)",
+          "sub_component": null,
+          "citations": ["Wisconsin Initiative on Climate Change Impacts -Plants and Natural Communities Working Group: Climate Vulnerability Ratings for Wisconsin's Natural Communities (2020)"]
+        },
+        {
+          "text": "Specific climate change impacts to species or occupied habitats based on a vulnerability assessment using a 'low', 'medium', 'high' scale or equivalent.",
+          "location": "Vulnerability Factors (WWAP2025_E1-SGCN_Approach-Results.pdf)",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Aanji-bimaadiziimagak o'ow aki [Climate Change Vulnerability Assessment Version 2 Great Lakes Indian Fish and Wildlife Commission (GLIFWC)]: Report produced by the Climate Change Program of GLIFWC.",
+          "location": "E3-E4.4 Results -Threats and Actions (WWAP2025_E3E4_Approach-Threats-Actions.pdf)",
+          "sub_component": null,
+          "citations": ["GLIFWC Climate Change Team. 2023. Aanji-bimaadiziimagak o'ow aki. Great Lakes Indian Fish and Wildlife Commission, Odanah, Wisconsin. 332 p."]
+        }
+      ],
+      "absence_note": {}
+    },
+    "niche_models": {
+      "evaluable": true,
+      "score": 0,
+      "named_tools": [],
+      "evidence": [],
+      "absence_note": "The document does not reference species distribution models, MaxEnt, SDMs, or similar niche modeling tools. Range maps are discussed in terms of NHI occurrence data, not niche modeling outputs."
+    },
+    "climate_models": {
+      "evaluable": true,
+      "score": 0,
+      "named_tools": [],
+      "evidence": [],
+      "absence_note": "The document discusses climate change extensively as a threat across all taxonomic and community groups, referencing warming, drought, altered hydrology, and other climate-change manifestations. However, it does not reference any specific climate model, GCM, downscaling product, emission scenario (RCP/SSP), or quantitative climate projection. References to the WICCI and Midwest CASC reports are to vulnerability assessment frameworks, not to climate projection models per se.",
+      "time_horizon_years": [],
+      "emission_scenarios": []
+    },
+    "connectivity_models": {
+      "evaluable": true,
+      "score": 1,
+      "named_tools": ["The Nature Conservancy's Resilient and Connected Landscapes", "Midwest Landscape Initiative's Midwest Conservation Blueprint"],
+      "evidence": [
+        {
+          "text": "Input from many partners and comprehensive use of regional datasets and models such as The Nature Conservancy's Resilient and Connected Landscapes project and the Midwest Landscape Initiative's Midwest Conservation Blueprint are needed to appropriately update Wisconsin's COAs.",
+          "location": "E3-E4 Approach-Threats-Actions (WWAP2025_E3E4_Approach-Threats-Actions.pdf)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document references connectivity models as tools needed for future COA mapping but does not apply them to focal species or habitats in the current plan. Score is 1 (referenced generally/aspirationally)."
+    }
+  },
+  "context": {
+    "management_scale": {
+      "local": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "COAs are mappable sites relying on readily available georeferenced information and do not identify all the places important or necessary for conservation in our state.",
+            "location": "Summary Element 4 -Conservation Opportunity Areas (WWAP2025_E0_SummaryRoadMap_NH0951.pdf)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "site": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "At the site level, employ an eight-part approach to non-native invasive species: 1) careful planning; 2) prevention; 3) early detection and rapid response; 4) control; 5) slowing the spread; 6) reducing impacts; 7) monitoring; 8) restoration.",
+            "location": "Conservation Actions Classification AQ5 (WWAP2025_E3E4_ThreatsActions08_AquaticCommunityGroup.pdf)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "watershed": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Identify criteria for identifying these areas should incorporate climate change adaptation and other large-scale environmental changes, as well as shifting land use patterns and pressures.",
+            "location": "Conservation Actions F6 (WWAP2025_E3E4_ThreatsActions03_FishActions.pdf)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "city": {
+        "present": false,
+        "evidence": []
+      },
+      "county": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "County: Green / Ecological Landscape: Southeast Glacial Plains",
+            "location": "Muralt Bluff COA (WWAP_COA_Report_09-11_MuraltBluffCOA.pdf)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "within_state_region": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Ecological Landscapes are delineated by associated landform groups that share common physical, biological, vegetation, geological, soil, water and climatic conditions.",
+            "location": "E2.2.3 SGCN, Natural Community and Ecological Landscape Association Scores (WWAP2025_E2-00_Habitat_Approach_Results.pdf)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "state": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The WWAP is a comprehensive inventory of the nature and status of rare and declining species, referred to as Species of Greatest Conservation Need (SGCN), natural communities and ecological landscapes within our state.",
+            "location": "Wisconsin's Approach to the WWAP (WWAP2025_E0_SummaryRoadMap_NH0951.pdf)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "multistate": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The future of SWAPs lies in our ability to invest in the means to share, organize and access data and information about SGCN, habitats, threats and actions, and to use that investment to facilitate collaboration at all scales --local to regional and beyond.",
+            "location": "Summary of Outcomes (WWAP2025_E0_SummaryRoadMap_NH0951.pdf)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "national": {
+        "present": false,
+        "evidence": []
+      },
+      "transnational": {
+        "present": false,
+        "evidence": []
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Ecological Landscapes are used to identify the best areas of the state to manage for different natural communities, key habitats, aquatic features, and native plants and animals using an ecosystem management perspective.",
+            "location": "E2.2.3 Species-Ecological Landscape Associations (WWAP2025_E2-00_Habitat_Approach_Results.pdf)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecoregion": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Ecological Landscapes are delineated by associated landform groups that share common physical, biological, vegetation, geological, soil, water and climatic conditions.",
+            "location": "E2.2.3 SGCN, Natural Community and Ecological Landscape Association Scores (WWAP2025_E2-00_Habitat_Approach_Results.pdf)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "province": {
+        "present": false,
+        "evidence": []
+      },
+      "section": {
+        "present": false,
+        "evidence": []
+      },
+      "subsection": {
+        "present": false,
+        "evidence": []
+      },
+      "lake": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Wisconsin's Great Lakes shoreline on Lakes Superior and Michigan is approximately 1000 miles long.",
+            "location": "Aquatic (WWAP2025_E2-00_Habitat_Approach_Results.pdf)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "river": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Improve stream connectivity by removing barriers at critical sites.",
+            "location": "Conservation Actions (WWAP_COA_A-09_Pine-PoppleRiversCOA.pdf)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "district": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["Wisconsin", "Lake Superior", "Lake Michigan", "Mississippi River", "Wisconsin River", "Driftless Area", "Niagara Escarpment", "Northern Highland", "Northeast Sands", "Superior Coastal Plain", "Western Coulee and Ridges", "Southeast Glacial Plains"]
+    },
+    "biological_unit_score": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Many SGCN birds are becoming rarer in the state as their range contracts and shifts northward due to climate change impacts.",
+          "location": "Threat/Issue B6-Climate Change and Extreme Weather (WWAP2025_E3E4_ThreatsActions02_BirdActions.pdf)",
+          "sub_component": "species",
+          "citations": []
+        },
+        {
+          "text": "Some northern conifer forest community types are predicted to shift northward out of the state jeopardizing populations of species found in these forest types, at the southern edge of the range in Wisconsin.",
+          "location": "CMP Conservation Actions Classification M2 (WWAP2025_E3E4_ThreatsActions01_MammalActions.pdf)",
+          "sub_component": "ecosystem/community",
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "biological_unit_components": {
+      "species": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Many SGCN birds are becoming rarer in the state as their range contracts and shifts northward due to climate change impacts.",
+            "location": "Threat/Issue B6-Climate Change and Extreme Weather (WWAP2025_E3E4_ThreatsActions02_BirdActions.pdf)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "population": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Some northern conifer forest community types are predicted to shift northward out of the state jeopardizing populations of species found in these forest types, at the southern edge of the range in Wisconsin.",
+            "location": "CMP Conservation Actions Classification M2 (WWAP2025_E3E4_ThreatsActions01_MammalActions.pdf)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "habitat": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Wetland habitats with SGCN species face changes/areal losses due to prolonged drought associated with climate change.",
+            "location": "Threat/Issue B6-Climate Change and Extreme Weather (WWAP2025_E3E4_ThreatsActions02_BirdActions.pdf)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Some northern conifer forest community types are predicted to shift northward out of the state jeopardizing populations of species found in these forest types, at the southern edge of the range in Wisconsin.",
+            "location": "CMP Conservation Actions Classification M2 (WWAP2025_E3E4_ThreatsActions01_MammalActions.pdf)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "community": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Recognition of these features focuses conservation not only on biological targets (species and natural communities) that may rearrange in response to a changing climate, but also on the physical factors that create diversity in the first place.",
+            "location": "Table E3-E4.1 Criteria for Conservation Opportunity Areas (WWAP2025_E3E4_Approach-Threats-Actions.pdf)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "genotype_phenotype": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Low genetic diversity which prevents adaptation to changes in this species environment.",
+            "location": "Vulnerability Factors (WWAP2025_E1-SGCN_Approach-Results.pdf)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "named_entities": ["SGCN (Species of Greatest Conservation Need)", "boreal forest communities", "northern conifer forest", "wetland habitats", "prairie communities", "Great Lakes shoreline communities", "mink frog", "herptiles", "bird SGCN", "mammal SGCN", "plant SGCN"]
+    },
+    "partnerships_and_funding": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "The development of the 2025-2035 Wisconsin Wildlife Action Plan was made possible, by funding from the Wisconsin DNR Bureau of Natural Heritage Conservation.",
+          "location": "Contributors (WWAP2025_E0_SummaryRoadMap_NH0951.pdf)",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Over 300 experts and professionals both within and outside the Wisconsin Department of Natural Resources were invited to contribute their knowledge to the content of the Wisconsin Wildlife Action Plan.",
+          "location": "Contributors (WWAP2025_E0_SummaryRoadMap_NH0951.pdf)",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "The entire list of partners called upon to assist the Taxon Teams during development of Elements 1 to 4 was extensive, approximately 230 individuals and 30 organizations, representing a range of WWAP users as well as contributors to the data and information presented in the WWAP.",
+          "location": "External Partners (WWAP2025_E7E8_PartnerPublicInvolvement.pdf)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "Partnerships and funding are described extensively across federal-state-tribal-NGO structures. Score of 2 reflects strategic investment with active multi-sector partnerships. Specific dollar amounts are not generally provided for range-shift conservation actions specifically, but partnerships are named and active."
+    },
+    "climate_threat_habitat_degradation": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Wetland habitats with SGCN species face changes/areal losses due to prolonged drought associated with climate change.",
+          "location": "Threat/Issue B6-Climate Change and Extreme Weather (WWAP2025_E3E4_ThreatsActions02_BirdActions.pdf)",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Cool-and cold-water streams are warming due to increasing temperatures and lower base flow, limiting reproduction of species such as trout, walleye and aquatic invertebrates.",
+          "location": "Threat/Issue AQ4 (WWAP2025_E3E4_ThreatsActions08_AquaticCommunityGroup.pdf)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_threat_species_vital_rates": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Prolonged flooding events have been found to drown species like eastern massasauga and turtle nests. Cold winters with little snowpack result in mortality of overwintering turtles and frogs.",
+          "location": "Herptile threats section (WWAP2025_E3E4_ThreatsActions04_HerpActions.pdf)",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Mink frog embryos have limited tolerance to warmer water temperatures and consequent lower oxygen diffusion rates.",
+          "location": "Herptile threats section (WWAP2025_E3E4_ThreatsActions04_HerpActions.pdf)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_threat_biotic_stressors": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Climate change scientists suggest that non-native invasive species may increase in productivity with increasing CO2, warmer temperatures, earlier springs, and reduced snowpack, and may invade new areas during extreme flood events",
+          "location": "Threat/Issue Ba4-Climate Change (WWAP2025_E3E4_ThreatsActions09_BarrensCommunityGroup.pdf)",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Competition among native species (green frogs, bullfrogs v. mink frogs) may occur if green and bullfrogs advance further into mink frog range with average increases in water and air temperature.",
+          "location": "Herptile threats section (WWAP2025_E3E4_ThreatsActions04_HerpActions.pdf)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    }
+  },
+  "actions": {
+    "priority_habitat_identification": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Conservation Opportunity Areas (COAs) are the best places in Wisconsin to implement conservation actions in the Wisconsin Wildlife Action Plan (WWAP) to protect and conserve SGCNs and their habitat. They are places on the landscape with significant ecological features, natural communities or SGCN habitats for which Wisconsin is responsible for protecting and conserving.",
+          "location": "E3-E4.5.1 Updated Definition (WWAP2025_E3E4_Approach-Threats-Actions.pdf)",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "COA shapefiles are now shared in the DNR Open Data Portal.",
+          "location": "E3-E4.3 Summary of Significant Changes (WWAP2025_E3E4_Approach-Threats-Actions.pdf)",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Contributes to a network of climate resilient cores and corridors. This criterion emphasizes how resilient the site is to climate change and whether it has features of landscape connectivity important for sustaining a climate resilient ecosystem.",
+          "location": "Table E3-E4.1 Criteria for Conservation Opportunity Areas (WWAP2025_E3E4_Approach-Threats-Actions.pdf)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "targeted_range_shift_actions": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Create corridors and connect habitats when feasible. Implement best management practices (BMPs) to ameliorate the effects of climate change and to manage invasive species. Research efficacy of assisted migration and develop guidelines/policy.",
+          "location": "CMP Conservation Actions Classification Invert3 (WWAP2025_E3E4_ThreatsActions05_InvertebrateActions.pdf)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document proposes structural facilitation through climate-resilient corridors as part of COA criteria, and explicitly mentions researching assisted migration for invertebrates. These are climate-motivated range-shift actions. The COA criteria explicitly require contributing to a network of climate-resilient cores and corridors to support species movement under climate change."
+    },
+    "time_bound_and_monitoring": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "The next comprehensive WWAP will be submitted in September of 2035.",
+          "location": "E6.2 WWAP Implementation and Improvements (WWAP2025_E6_ReviewRevision_Approach_Results.pdf)",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Conduct breeding bird surveys every 5 years for two consecutive years to determine status and trends of breeding birds and SGCNs.",
+          "location": "Conservation Actions (WWAP_COA_01-06_Pokegama-NemadjiWetlandsCOA.pdf)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document has a plan-level timeline (comprehensive revision by 2035) and some site-level monitoring intervals (e.g., breeding bird surveys every 5 years). However, actions in the Threats and Actions reports generally lack specific deadlines attached to individual conservation actions. The plan endorses adaptive management as a guiding principle but does not consistently operationalize effectiveness monitoring at the action level across all conservation actions. Score 1 rather than 2."
+    },
+    "evidence_of_efficacy": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Management actions should be undertaken to make northern coniferous plant communities more resilient and better able to adapt to changing climates. All northern plant communities are particularly susceptible and in need of management intervention.",
+          "location": "CMP Conservation Actions Classification M2 (WWAP2025_E3E4_ThreatsActions01_MammalActions.pdf)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document presents conservation actions with some general ecological rationale (e.g., fire promotes drought-adapted species, corridors facilitate movement), but rarely provides citations or study results directly tied to action efficacy. The plan references broader frameworks (WICCI vulnerability assessments, Midwest CASC reports, GLIFWC climate vulnerability assessments) and cites them as supporting context. Actions are generally presented as ecological best practices rather than as evidence-supported interventions with literature citations at the action level. Score 1 (rationale outlined but little empirical evidence for specific actions).",
+      "projects": []
+    },
+    "adaptation_planning_frameworks": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Review and revision of the major elements of the WWAP (SGCN, their habitats, threats and conservation actions) innately follow an adaptive management approach for improvement that incorporates the results of monitoring and evaluation of outcomes into future management actions.",
+          "location": "E6.2 WWAP Implementation and Improvements (WWAP2025_E6_ReviewRevision_Approach_Results.pdf)",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "In general, climate change adaptation is best approached from a risk management perspective that acknowledges uncertainty while increasing resistance and resiliency.",
+          "location": "Conservation Actions Classification NF5 (WWAP2025_E3E4_ThreatsActions13_NorthernForestCommunityGroup.pdf)",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Wisconsin Initiative on Climate Change Impacts -Plants and Natural Communities Working Group: Climate Vulnerability Ratings for Wisconsin's Natural Communities (2020) and Broad Community Group Fact Sheets (2016). Accessed: https://wicci.wisc.edu/plants-and-natural-communities-working-group/climate-change-vulnerabilityassessments-ccvas/.",
+          "location": "Barrens Community Group (WWAP2025_E3E4_ThreatsActions09_BarrensCommunityGroup.pdf)",
+          "sub_component": null,
+          "citations": ["Wisconsin Initiative on Climate Change Impacts -Plants and Natural Communities Working Group: Climate Vulnerability Ratings for Wisconsin's Natural Communities (2020)"]
+        }
+      ],
+      "absence_note": "The plan references specific named frameworks for climate adaptation planning: WICCI Climate Vulnerability Assessments applied to all community groups, adaptive management as a formal process for plan revision, and the Resist-Accept-Direct framing is implicitly present in how management responses are framed (resist through management, accept transitions, direct toward new conditions) though not named by that terminology. Score 2 because specific named frameworks (WICCI CVAs, adaptive management cycle) are referenced and applied."
+    }
+  },
+  "coding_meta": {
+    "coder": "llm:claude-sonnet-4-6",
+    "model": "claude-sonnet-4-6",
+    "provider": "claude",
+    "codebook_version": "0.4",
+    "ingest": "text",
+    "design": "single",
+    "temperature": null,
+    "thinking": null,
+    "thinking_effort": null,
+    "coded_at": "2026-07-06T18:39:26Z",
+    "notes": {}
+  }
+}

@@ -1,0 +1,920 @@
+{
+  "document_meta": {
+    "title": "Virginia Wildlife Action Plan 2025",
+    "year": 2025,
+    "jurisdiction": "Virginia",
+    "document_type": "SWAP",
+    "document_id": "VA_SWAP_2025",
+    "page_count": 506
+  },
+  "orientation": {
+    "summary": "This is Virginia's 2025 State Wildlife Action Plan (SWAP), a comprehensive statewide wildlife conservation document covering 1,920 Species of Greatest Conservation Need (SGCN) and multiple habitat types. The document treats climate change ('changing environmental conditions') as a significant and pervasive threat throughout, with a dedicated section on 'Changing Environmental Conditions in Virginia.' It engages substantively with range shifts, noting documented northward range expansions, shifts in species distributions driven by warming, and discussing assisted migration conceptually. The document performs its own habitat mapping, SGCN prioritization, and vulnerability-adjacent assessments (TACs evaluated climate change vulnerability assessments), while referencing external analyses (Southeast Conservation Blueprint, SECAS, Northeast Regional Conservation Synthesis). Appendices include dedicated Marine Mammal and Sea Turtle Conservation Plans that also address climate-driven range shifts and distribution changes.",
+    "evidence_index": [
+      {
+        "text": "a larger emphasis on climate vulnerability, working lands and outreach and education.",
+        "location": "PREFACE",
+        "relevant_elements": ["1.1"]
+      },
+      {
+        "text": "These CCVAs evaluate exposure (the degree of change likely to be experienced), sensitivity (the degree of susceptibility or responsiveness to the climatic changes), and adaptive capacity (the ability of the resource to cope with or adjust to the changes).",
+        "location": "Changing Environmental Conditions In Virginia",
+        "relevant_elements": ["1.1", "1.2", "2.1"]
+      },
+      {
+        "text": "Adaptive capacity has three main components: demographic or life-history traits, including dispersal and colonization abilities that support range shifts; genetic diversity and potential for evolutionary adaptation by natural selection; and phenotypic plasticity, including physiological and behavioral acclimation.",
+        "location": "Changing Environmental Conditions In Virginia",
+        "relevant_elements": ["1.2", "1.3"]
+      },
+      {
+        "text": "Ultimately, the outcome of changing climatic and environmental conditions is that a species persists in place, shifts in space, or becomes extirpated.",
+        "location": "Changing Environmental Conditions In Virginia",
+        "relevant_elements": ["1.1", "2.1"]
+      },
+      {
+        "text": "the rapid rate of change and the fragmentation of habitat will make it more difficult for many species to move in a timely manner or without assistance to preclude local extirpation or extinction. The implementation of conservation migration (or human-assisted migration for conservation purposes) is in its infancy in the U.S.",
+        "location": "Changing Environmental Conditions In Virginia",
+        "relevant_elements": ["1.4", "4.2"]
+      },
+      {
+        "text": "The DWR is taking a small step in this arena in its proposed translocation of eastern tiger salamanders to a DWR-owned property in southeastern Virginia, outside of the known range of the species in the Commonwealth.",
+        "location": "Changing Environmental Conditions In Virginia",
+        "relevant_elements": ["4.2"]
+      },
+      {
+        "text": "Warming temperatures are already affecting fish, wildlife and habitats in Virginia. Within the past 30 years, armadillos have naturally expanded their range from southern states northward, observed in southwest Virginia beginning in the mid-2010s.",
+        "location": "Changing Environmental Conditions In Virginia",
+        "relevant_elements": ["1.1", "3.6"]
+      },
+      {
+        "text": "Species are increasingly moving north and west in response to changing environmental conditions. According to The Nature Conservancy (TNC). Species are moving 11 miles north per decade.",
+        "location": "Savannas From Virginia's 2015 Wildlife Action Plan",
+        "relevant_elements": ["1.1", "4.1"]
+      },
+      {
+        "text": "Wildlife corridors connect fragmented habitats separated by human activities or infrastructure; this habitat connectivity is vital to the long-term sustainability of wildlife biodiversity.",
+        "location": "Wildlife Habitat Corridors and Connectivity",
+        "relevant_elements": ["1.4", "4.2"]
+      },
+      {
+        "text": "Virginia is one of the first states in the eastern U.S. to create a Wildlife Corridor Action Plan (Plan) (VDWR et al. 2023) with a clear emphasis on protecting vital wildlife habitat corridors and reducing wildlife-vehicle conflicts",
+        "location": "Wildlife Habitat Corridors and Connectivity",
+        "relevant_elements": ["1.4", "4.2"]
+      },
+      {
+        "text": "The likelihood of rapidly changing climatic conditions also represents a threat to the uplands of all three regions. Future projections show a hotter climate with more drought.",
+        "location": "Habitat Descriptions",
+        "relevant_elements": ["1.1", "3.5"]
+      },
+      {
+        "text": "under the scenario of warmer summer temperatures and similar precipitation, the boreal forest will likely shrink as summer temperature and moisture stress push suitable conditions to higher elevations",
+        "location": "Boreal Forests Greg Estoll, Virginia Department of Forestry",
+        "relevant_elements": ["1.1", "3.5"]
+      },
+      {
+        "text": "Genetic diversity is also low, indicating low phenological variation possible.",
+        "location": "Boreal Forests Greg Estoll, Virginia Department of Forestry",
+        "relevant_elements": ["1.3"]
+      },
+      {
+        "text": "At least six SGCN salamanders, found nowhere else in the world, live in high-elevation habitats in western Virginia that are expected to die out over the next 100 years as the result of increased temperatures and changed precipitation regimes impacting the cool-climate vegetation.",
+        "location": "Changing Environmental Conditions In Virginia",
+        "relevant_elements": ["1.1", "3.5"]
+      },
+      {
+        "text": "species such as eastern black rail and saltmarsh sparrow, both dependent on high saltmarsh habitats, are expected to be extirpated within the next 30 to 50 years as coastal high marshes succumb to a combination of rising sea levels and land subsidence",
+        "location": "Changing Environmental Conditions In Virginia",
+        "relevant_elements": ["1.1", "3.5"]
+      },
+      {
+        "text": "the agency launched the development of its own adaptation and resilience plan in 2025. This effort will help ensure that, across the organization, employees understand the risks and opportunities associated with changing climatic conditions and incorporate appropriate actions into the Department's programs",
+        "location": "Changing Environmental Conditions In Virginia",
+        "relevant_elements": ["4.5"]
+      },
+      {
+        "text": "Keys to success will include maintaining and restoring key ecosystem processes, supporting a statewide network of lands and waters to support fish and wildlife adaptation (i.e. movement), evaluating proposed management actions in the context of changing conditions",
+        "location": "Changing Environmental Conditions In Virginia",
+        "relevant_elements": ["4.5", "1.4"]
+      },
+      {
+        "text": "In their assessments of species for possible inclusion as SGCN, the TACs evaluated, where possible, climate change vulnerability assessments (CCVAs) to determine potential impacts of changing environmental conditions to species and habitats",
+        "location": "Changing Environmental Conditions In Virginia",
+        "relevant_elements": ["2.1", "1.1"]
+      },
+      {
+        "text": "The Southeast Conservation Blueprint is the primary product of SECAS. The Blueprint is a living, spatial plan that identifies priority areas where conservation action would make an impact toward creating a connected networks of lands and waters",
+        "location": "VIRGINIA AND THE SOUTHEAST CONSERVATION ADAPTATION STRATEGY (SECAS)",
+        "relevant_elements": ["4.1", "2.4"]
+      },
+      {
+        "text": "The Southeast Conservation Blueprint connectivity analysis identifies corridors that link coastal and inland areas and span climate gradients (Figure 3). The corridors connect hubs across the shortest distance possible, while also routing through as much Blueprint priority as possible.",
+        "location": "VIRGINIA AND THE SOUTHEAST CONSERVATION ADAPTATION STRATEGY (SECAS)",
+        "relevant_elements": ["1.4", "2.4", "4.1", "4.2"]
+      },
+      {
+        "text": "Ensuring landscape connectivity across jurisdictional boundaries is becoming increasingly important for species management as changes in land use, climate, and weather patterns shift species distributions.",
+        "location": "VIRGINIA AND THE SOUTHEAST CONSERVATION ADAPTATION STRATEGY (SECAS)",
+        "relevant_elements": ["1.4", "4.2"]
+      },
+      {
+        "text": "Saltwater intrusion from rising sea levels, increased water temperatures, and altered precipitation patterns caused by changing environmental conditions pose a significant, long-term threat to Virginia's tidal creeks.",
+        "location": "Tidal Creeks & Rivers",
+        "relevant_elements": ["3.5"]
+      },
+      {
+        "text": "Many tidal marsh systems within Virginia are also experiencing significant change alongside rising sea levels and more frequent and intense storms.",
+        "location": "Tidal Wetlands Ben Sagara, Virginia Department of Wildlife Resources",
+        "relevant_elements": ["3.5"]
+      },
+      {
+        "text": "As the climate changes, the interior region of the state is facing even hotter and drier summers than were historically typical, with prolonged droughts and heatwaves",
+        "location": "Habitat Descriptions",
+        "relevant_elements": ["3.5"]
+      },
+      {
+        "text": "purchase and protect upland areas for marsh and shoreline migration, placement of dredge materials on islands, restore eroded shell rake habitats in seaside marshes",
+        "location": "CONSERVATION ACTIONS",
+        "relevant_elements": ["4.2", "4.1"]
+      },
+      {
+        "text": "Since 2008, Virginia has been a leader in working to develop strategies that address the changing environment within the updated Wildlife Action Plan, including land acquisitions that allow for marsh migration and developing living shorelines that can withstand increased storm impacts.",
+        "location": "WILDLIFE ACTION PLAN IMPLEMENTATION",
+        "relevant_elements": ["4.2", "4.1"]
+      },
+      {
+        "text": "These cooler zones, particularly Dfb, serve as key thermal refuges for heat-intolerant species. As changing environmental conditions continues to shrink Dfb and Dfa climate zones to isolated mountain ridges and peaks, so too will the population ranges of remnant cold-obligate species.",
+        "location": "CLIMATE OF VIRGINIA",
+        "relevant_elements": ["1.1", "4.1"]
+      },
+      {
+        "text": "Warming temperatures may also lead to increased pest issues and susceptibility to wildfire.",
+        "location": "Boreal Forests Greg Estoll, Virginia Department of Forestry",
+        "relevant_elements": ["3.7"]
+      },
+      {
+        "text": "Other impacts, such as the earlier arrival of spring-like conditions and changes in the timing of biological events (such as migration, reproduction and flowering) which potentially lead to mismatches in the life cycles of interdependent species, are also being observed",
+        "location": "Changing Environmental Conditions In Virginia",
+        "relevant_elements": ["3.7", "1.3"]
+      },
+      {
+        "text": "Spotted lanternfly, emerald ash borer, and spongy moth - all insect pests significantly impacting native vegetation - have become more pervasive across Virginia's landscape due in part to more moderate winter conditions.",
+        "location": "Changing Environmental Conditions In Virginia",
+        "relevant_elements": ["3.7"]
+      },
+      {
+        "text": "Poleward shifts in distributions (Morley et al., 2018; Nye et al., 2009). These climate-driven distribution shifts may complement range expansions that are facilitated by the emplacement of artificial structures in the ocean",
+        "location": "Marine Offshore Brendan Runde and Kate Wilke, The Nature Conservancy",
+        "relevant_elements": ["1.1", "3.3"]
+      },
+      {
+        "text": "species with low adaptive capacity such as those with specialized habitat needs or limited dispersal ability face higher vulnerability to these changes",
+        "location": "Changing Environmental Conditions In Virginia",
+        "relevant_elements": ["1.2", "1.3"]
+      },
+      {
+        "text": "Beyond the TAC considered species and habitat status, existing and projected threats, adaptive capacity to threats, and other pertinent factors when assigning ranks.",
+        "location": "Assessment Priority (AP)",
+        "relevant_elements": ["1.2"]
+      },
+      {
+        "text": "DWR typically receives approximately $1.2M per year from State and Tribal Wildlife Grants for salaries and operational costs",
+        "location": "PREFACE",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "The DWR and partners view this update process as an important opportunity to reevaluate the status of Species of Greatest Conservation Need (SGCN) and their habitats, review conservation priorities, and reprioritize conservation actions.",
+        "location": "PREFACE",
+        "relevant_elements": ["4.3", "4.5"]
+      },
+      {
+        "text": "In 2027, the Wildlife Corridor Action Plan will also integrate species-specific habitat corridors for 11 Species of Greatest Conservation Need thought to be vulnerable to road risks",
+        "location": "Wildlife Habitat Corridors and Connectivity",
+        "relevant_elements": ["4.3", "4.1"]
+      },
+      {
+        "text": "The Wildlife Action Plan includes 1920 SGCN and 520 Assessment Priority species; it covers 11 major habitat types representing 32 sub-habitats; and is searchable at the HUC12 level for priority SGCN and threats and conservation actions by habitat.",
+        "location": "VALUE OF AN UPDATED WILDLIFE ACTION PLAN",
+        "relevant_elements": ["4.1", "3.2"]
+      },
+      {
+        "text": "Conserve/ restore large forest blocks and maintain/restore habitat connectivity between them (5)",
+        "location": "CONSERVATION ACTIONS",
+        "relevant_elements": ["1.4", "4.2"]
+      },
+      {
+        "text": "Virginia's 2025 Wildlife Action Plan has been modified to be more dynamic and applicable to smaller landscapes.",
+        "location": "PREFACE",
+        "relevant_elements": ["3.1"]
+      },
+      {
+        "text": "Invasive species, such as blue catfish (Ictalurus furcatus) and northern snakehead (Channa argus), are more prevalent in the estuarine portions of the Bay but may threaten lower portions as well.",
+        "location": "Marine Nearshore Brendan Runde and Kate Wilke, The Nature Conservancy",
+        "relevant_elements": ["3.7"]
+      },
+      {
+        "text": "While it is not currently believed that lionfish can overwinter north of North Carolina, increasing seawater temperatures and the increase in rocky habitat (i.e. due to offshore wind foundations) may allow them to do so.",
+        "location": "Marine Offshore Brendan Runde and Kate Wilke, The Nature Conservancy",
+        "relevant_elements": ["3.7"]
+      },
+      {
+        "text": "Natural marsh migration processes can ensure marsh habitats are not completely lost as the landscape changes. Marsh migration occurs when 'low marshes' drown, higher elevation 'high marsh' vegetative communities convert to 'low marsh' vegetative communities",
+        "location": "Tidal Wetlands Ben Sagara, Virginia Department of Wildlife Resources",
+        "relevant_elements": ["4.2", "4.1"]
+      },
+      {
+        "text": "There is a need to protect existing low marsh to ensure existing quality habitat remains long enough for new quality marsh to establish. There is also a need to identify and protect areas with future marsh migration potential",
+        "location": "Tidal Wetlands Ben Sagara, Virginia Department of Wildlife Resources",
+        "relevant_elements": ["4.1", "4.2"]
+      },
+      {
+        "text": "North Atlantic right whales have shifted their distribution northward with increased sightings in the Gulf of St. Lawrence, possibly due to shifting prey distribution",
+        "location": "Changing Environmental Conditions",
+        "relevant_elements": ["1.1", "3.3"]
+      },
+      {
+        "text": "Cold-water species, such as harbor porpoises and short-beaked common dolphins, are predicted to move northward to remain in cooler waters",
+        "location": "Changing Environmental Conditions",
+        "relevant_elements": ["1.1", "3.3"]
+      },
+      {
+        "text": "Virginia has also done a lot of great work at the state level to develop corridors that are important for wildlife. The Virginia Wildlife Corridor Action Plan...emphasizes protecting important wildlife habitat corridors and reducing wildlife-vehicle conflicts",
+        "location": "VIRGINIA AND THE SOUTHEAST CONSERVATION ADAPTATION STRATEGY (SECAS)",
+        "relevant_elements": ["1.4", "4.1", "4.2"]
+      },
+      {
+        "text": "Nutria appear to be expanding their range further north and west, posing a potential threat to valuable wetland systems north of the James River",
+        "location": "Non-Tidal Wetlands Ben Sagara, Virginia Department of Wildlife Resources",
+        "relevant_elements": ["3.7"]
+      },
+      {
+        "text": "climate change may alter the geographic distribution of certain pathogens, leading to exposure of naive wildlife populations to novel pathogens.",
+        "location": "How do we measure wildlife health?",
+        "relevant_elements": ["3.6", "3.7"]
+      },
+      {
+        "text": "Mass mortality events have been observed in intertidal communities following recent marine heatwaves.",
+        "location": "Changing Environmental Conditions",
+        "relevant_elements": ["3.6"]
+      },
+      {
+        "text": "comparing the first springtime dates of sea turtle strandings for five-year increments from 2003-2022, the first seasonal strandings of both species in the most recent five-year period (2018-2022) occurred an average of approximately 12 days earlier in the spring",
+        "location": "Climate change",
+        "relevant_elements": ["3.6"]
+      }
+    ]
+  },
+  "concepts": {
+    "climate_vulnerability": {
+      "evaluable": true,
+      "score": 3,
+      "evidence": [
+        {
+          "text": "These CCVAs evaluate exposure (the degree of change likely to be experienced), sensitivity (the degree of susceptibility or responsiveness to the climatic changes), and adaptive capacity (the ability of the resource to cope with or adjust to the changes).",
+          "location": "Changing Environmental Conditions In Virginia",
+          "sub_component": "exposure and adaptive capacity",
+          "citations": []
+        },
+        {
+          "text": "Understanding why species and ecosystems are vulnerable or potentially less resilient is a critical first step in developing effective conservation strategies. This vulnerability is based on sensitivity, exposure, and the ability to adapt.",
+          "location": "Changing Environmental Conditions In Virginia",
+          "sub_component": "exposure and adaptive capacity",
+          "citations": []
+        },
+        {
+          "text": "species with low adaptive capacity such as those with specialized habitat needs or limited dispersal ability face higher vulnerability to these changes",
+          "location": "Changing Environmental Conditions In Virginia",
+          "sub_component": "adaptive capacity",
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "adaptive_capacity_specificity": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Adaptive capacity has three main components: demographic or life-history traits, including dispersal and colonization abilities that support range shifts; genetic diversity and potential for evolutionary adaptation by natural selection; and phenotypic plasticity, including physiological and behavioral acclimation.",
+          "location": "Changing Environmental Conditions In Virginia",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "species with low adaptive capacity such as those with specialized habitat needs or limited dispersal ability face higher vulnerability to these changes",
+          "location": "Changing Environmental Conditions In Virginia",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "adaptive_capacity_components": {
+      "demography": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Adaptive capacity has three main components: demographic or life-history traits, including dispersal and colonization abilities that support range shifts",
+            "location": "Changing Environmental Conditions In Virginia",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "distribution": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Ultimately, the outcome of changing climatic and environmental conditions is that a species persists in place, shifts in space, or becomes extirpated.",
+            "location": "Changing Environmental Conditions In Virginia",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "movement": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "demographic or life-history traits, including dispersal and colonization abilities that support range shifts",
+            "location": "Changing Environmental Conditions In Virginia",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "evolutionary_potential": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "genetic diversity and potential for evolutionary adaptation by natural selection; and phenotypic plasticity, including physiological and behavioral acclimation.",
+            "location": "Changing Environmental Conditions In Virginia",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecological_dependencies": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "changes in the timing of biological events (such as migration, reproduction and flowering) which potentially lead to mismatches in the life cycles of interdependent species, are also being observed",
+            "location": "Changing Environmental Conditions In Virginia",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "abiotic_niche": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "under the scenario of warmer summer temperatures and similar precipitation, the boreal forest will likely shrink as summer temperature and moisture stress push suitable conditions to higher elevations; for example, red spruce maximum mean monthly temperature is ≤68°F.",
+            "location": "Boreal Forests Greg Estoll, Virginia Department of Forestry",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "life_history": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Adaptive capacity has three main components: demographic or life-history traits, including dispersal and colonization abilities that support range shifts",
+            "location": "Changing Environmental Conditions In Virginia",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      }
+    },
+    "connectivity": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "The Southeast Conservation Blueprint connectivity analysis identifies corridors that link coastal and inland areas and span climate gradients (Figure 3). The corridors connect hubs across the shortest distance possible, while also routing through as much Blueprint priority as possible.",
+          "location": "VIRGINIA AND THE SOUTHEAST CONSERVATION ADAPTATION STRATEGY (SECAS)",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Ensuring landscape connectivity across jurisdictional boundaries is becoming increasingly important for species management as changes in land use, climate, and weather patterns shift species distributions.",
+          "location": "VIRGINIA AND THE SOUTHEAST CONSERVATION ADAPTATION STRATEGY (SECAS)",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "supporting a statewide network of lands and waters to support fish and wildlife adaptation (i.e. movement)",
+          "location": "Changing Environmental Conditions In Virginia",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    }
+  },
+  "tools": {
+    "vulnerability_models": {
+      "evaluable": true,
+      "score": 2,
+      "named_tools": ["CCVA"],
+      "evidence": [
+        {
+          "text": "In their assessments of species for possible inclusion as SGCN, the TACs evaluated, where possible, climate change vulnerability assessments (CCVAs) to determine potential impacts of changing environmental conditions to species and habitats and the likely responses of these resources.",
+          "location": "Changing Environmental Conditions In Virginia",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "a larger emphasis on climate vulnerability, working lands and outreach and education.",
+          "location": "PREFACE",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "niche_models": {
+      "evaluable": true,
+      "score": 1,
+      "named_tools": [],
+      "evidence": [
+        {
+          "text": "Develop and document distribution-model methods for under-studied focal species that can incorporate the agency's institutional data sets.",
+          "location": "PRIORITY RESEARCH NEEDS",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The plan mentions developing distribution models as a future research need. The marine mammal and sea turtle appendices reference habitat suitability models (e.g., DiMatteo et al. 2022 for sea turtles in Chesapeake Bay), but these were applied to sea turtles and marine mammals rather than the SGCN focal subjects of the core SWAP. The core SWAP itself did not apply SDMs to its focal SGCN. Score 1 for general reference."
+    },
+    "climate_models": {
+      "evaluable": true,
+      "score": 0,
+      "named_tools": [],
+      "evidence": [],
+      "absence_note": "The document discusses climate change and changing environmental conditions extensively but does not reference any specific climate model, GCM, RCP/SSP scenario, or downscaled climate projection product. It uses observed historical data and qualitative projections. Canonical example of a climate-aware document scoring 0 on this element.",
+      "time_horizon_years": [],
+      "emission_scenarios": []
+    },
+    "connectivity_models": {
+      "evaluable": true,
+      "score": 2,
+      "named_tools": ["Southeast Conservation Blueprint", "ConserveVirginia", "Virginia Natural Landscape Assessment"],
+      "evidence": [
+        {
+          "text": "The Southeast Conservation Blueprint is the primary product of SECAS. The Blueprint is a living, spatial plan that identifies priority areas where conservation action would make an impact toward creating a connected networks of lands and waters, based on a suite of natural and cultural resource indicators and a connectivity analysis.",
+          "location": "VIRGINIA AND THE SOUTHEAST CONSERVATION ADAPTATION STRATEGY (SECAS)",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "The Southeast Blueprint also includes a least-cost path connectivity analysis that identifies corridors that link coastal and inland areas and span climate gradients (Figure 3).",
+          "location": "VIRGINIA AND THE SOUTHEAST CONSERVATION ADAPTATION STRATEGY (SECAS)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document incorporates the Southeast Blueprint connectivity analysis, which is based on quantitative connectivity modeling, and uses it to inform conservation priorities for Virginia SGCN. It also references species-specific habitat corridor modeling for 11 SGCN using Google Earth Engine."
+    }
+  },
+  "context": {
+    "management_scale": {
+      "local": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Additionally, this Wildlife Action Plan is designed to facilitate implementation at a scale where conservation most often occurs -the local level.",
+            "location": "WILDLIFE ACTION PLAN OVERVIEW",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "site": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The 2025 Wildlife Action Plan has a strong focus on more specific, place-based efforts to conserve SGCN",
+            "location": "FOREWORD BY RYAN BROWN",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "watershed": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The Wildlife Action Plan includes 1920 SGCN and 520 Assessment Priority species; it covers 11 major habitat types representing 32 sub-habitats; and is searchable at the HUC12 level for priority SGCN and threats and conservation actions by habitat.",
+            "location": "VALUE OF AN UPDATED WILDLIFE ACTION PLAN",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "city": {
+        "present": false,
+        "evidence": []
+      },
+      "county": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Each of Virginia's counties typically encompasses 10 to 15 HUC12 watersheds.",
+            "location": "HABITATS",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "within_state_region": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The 2015 Wildlife Action Plan, while more focused on Planning Districts, still did not provide specific enough conservation actions",
+            "location": "GOALS FOR THE UPDATED WILDLIFE ACTION PLAN",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "state": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Virginia's Wildlife Action Plan provides a statewide and local blueprint for conservation actions needed to keep species from becoming endangered.",
+            "location": "VALUE OF AN UPDATED WILDLIFE ACTION PLAN",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "multistate": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Collaborating with the neighboring states of Maryland, West Virginia, Kentucky, Tennessee, and North Carolina to identify cross-boundary species migration and habitat pathways can increase regional connectivity for state SGCN and RSGCN.",
+            "location": "VIRGINIA AND THE SOUTHEAST CONSERVATION ADAPTATION STRATEGY (SECAS)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "national": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Virginia, as part of this team, used the Northeast Regional Conservation Synthesis to define the habitats for the 2025 revision.",
+            "location": "HABITATS",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "transnational": {
+        "present": false,
+        "evidence": []
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The Southeast Conservation Adaptation Strategy (SECAS) is a regional conservation initiative that spans the Southeastern United States and Caribbean. SECAS brings together diverse partners around an ambitious goal: a 10% or greater improvement in the health, function, and connectivity of Southeastern ecosystems by 2060.",
+            "location": "VIRGINIA AND THE SOUTHEAST CONSERVATION ADAPTATION STRATEGY (SECAS)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecoregion": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "One lens to characterize the landscape of Virginia is by its ecoregions as defined by the Level III ecoregions of the continental US (Omernik 1987, 1995): the Central Appalachians, Ridge and Valley, Blue Ridge, the Piedmont, the Middle Atlantic Coastal Plain, and the Southeastern Plains",
+            "location": "VIRGINIA AND THE SOUTHEAST CONSERVATION ADAPTATION STRATEGY (SECAS)",
+            "sub_component": null,
+            "citations": ["Omernik 1987", "Omernik 1995"]
+          }
+        ]
+      },
+      "province": {
+        "present": false,
+        "evidence": []
+      },
+      "section": {
+        "present": false,
+        "evidence": []
+      },
+      "subsection": {
+        "present": false,
+        "evidence": []
+      },
+      "lake": {
+        "present": false,
+        "evidence": []
+      },
+      "river": {
+        "present": false,
+        "evidence": []
+      },
+      "district": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["HUC12 watersheds", "Planning District Commissions", "Chesapeake Bay", "Virginia", "Southeast", "Northeast US", "Appalachian Mountains", "Blue Ridge", "Piedmont", "Coastal Plain"]
+    },
+    "biological_unit_score": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Poleward shifts in distributions (Morley et al., 2018; Nye et al., 2009). These climate-driven distribution shifts may complement range expansions that are facilitated by the emplacement of artificial structures in the ocean",
+          "location": "Marine Offshore Brendan Runde and Kate Wilke, The Nature Conservancy",
+          "sub_component": "species",
+          "citations": ["Morley et al., 2018", "Nye et al., 2009"]
+        },
+        {
+          "text": "Many tidal marsh systems within Virginia are also experiencing significant change alongside rising sea levels and more frequent and intense storms.",
+          "location": "Tidal Wetlands Ben Sagara, Virginia Department of Wildlife Resources",
+          "sub_component": "habitat",
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "biological_unit_components": {
+      "species": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Warming temperatures are already affecting fish, wildlife and habitats in Virginia. Within the past 30 years, armadillos have naturally expanded their range from southern states northward",
+            "location": "Changing Environmental Conditions In Virginia",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "population": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Ultimately, the outcome of changing climatic and environmental conditions is that a species persists in place, shifts in space, or becomes extirpated. However, the rapid rate of change and the fragmentation of habitat will make it more difficult for many species to move in a timely manner",
+            "location": "Changing Environmental Conditions In Virginia",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "habitat": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "under the scenario of warmer summer temperatures and similar precipitation, the boreal forest will likely shrink as summer temperature and moisture stress push suitable conditions to higher elevations",
+            "location": "Boreal Forests Greg Estoll, Virginia Department of Forestry",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Without significant intervention to expand their footprints and extend their presence in Virginia, remnant spruce-fir forests are also expected to disappear for the same reason.",
+            "location": "Changing Environmental Conditions In Virginia",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "community": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "changes in the timing of biological events (such as migration, reproduction and flowering) which potentially lead to mismatches in the life cycles of interdependent species, are also being observed",
+            "location": "Changing Environmental Conditions In Virginia",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "genotype_phenotype": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "genetic diversity and potential for evolutionary adaptation by natural selection; and phenotypic plasticity, including physiological and behavioral acclimation.",
+            "location": "Changing Environmental Conditions In Virginia",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "named_entities": ["eastern black rail", "saltmarsh sparrow", "Shenandoah salamander", "armadillos", "red spruce", "boreal forest", "longleaf pine", "saltmarsh sparrow", "eastern tiger salamander", "North Atlantic right whales", "harbor porpoises", "sea turtles"]
+    },
+    "partnerships_and_funding": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "DWR typically receives approximately $1.2M per year from State and Tribal Wildlife Grants for salaries and operational costs associated with work on nongame aquatic species, herpetofauna and to cover costs associated with our environmental service requirements.",
+          "location": "PREFACE",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "the DWR and partners have used the Wildlife Action Plan to prioritize key species and habitats in need of conservation and to implement needed projects and research on behalf of all Virginians.",
+          "location": "PREFACE",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "The Virginia Wildlife Corridor Action Plan (see Page 97 for a discussion on wildlife corridors) emphasizes protecting important wildlife habitat corridors and reducing wildlife-vehicle conflicts (Virginia Department of Wildlife Resources, 2023).",
+          "location": "VIRGINIA AND THE SOUTHEAST CONSERVATION ADAPTATION STRATEGY (SECAS)",
+          "sub_component": null,
+          "citations": ["Virginia Department of Wildlife Resources, 2023"]
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_threat_habitat_degradation": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "species such as eastern black rail and saltmarsh sparrow, both dependent on high saltmarsh habitats, are expected to be extirpated within the next 30 to 50 years as coastal high marshes succumb to a combination of rising sea levels and land subsidence",
+          "location": "Changing Environmental Conditions In Virginia",
+          "sub_component": null,
+          "citations": ["Ezer, T. and L. Atkinson, 2016"]
+        },
+        {
+          "text": "Saltwater intrusion from rising sea levels, increased water temperatures, and altered precipitation patterns caused by changing environmental conditions pose a significant, long-term threat to Virginia's tidal creeks.",
+          "location": "Tidal Creeks & Rivers",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_threat_species_vital_rates": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Changing water conditions due to droughts, flooding, or extreme weather events will have an effect on amphibian persistence as many species are dependent on water availability and quality to reproduce successfully.",
+          "location": "Monitoring Amphibians",
+          "sub_component": null,
+          "citations": ["Capon et al. 2013"]
+        },
+        {
+          "text": "comparing the first springtime dates of sea turtle strandings for five-year increments from 2003-2022, the first seasonal strandings of both species in the most recent five-year period (2018-2022) occurred an average of approximately 12 days earlier in the spring",
+          "location": "Climate change",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The framing in the core SWAP is mostly indirect (habitat degradation affecting species). The most direct vital-rate framing appears in the sea turtle and marine mammal appendices. Score 1 because the document does discuss climate-driven changes to species vital rates (amphibian reproduction, cold-stunned sea turtles) even if mostly from appendices."
+    },
+    "climate_threat_biotic_stressors": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Spotted lanternfly, emerald ash borer, and spongy moth - all insect pests significantly impacting native vegetation - have become more pervasive across Virginia's landscape due in part to more moderate winter conditions.",
+          "location": "Changing Environmental Conditions In Virginia",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "While it is not currently believed that lionfish can overwinter north of North Carolina, increasing seawater temperatures and the increase in rocky habitat (i.e. due to offshore wind foundations) may allow them to do so.",
+          "location": "Marine Offshore Brendan Runde and Kate Wilke, The Nature Conservancy",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    }
+  },
+  "actions": {
+    "priority_habitat_identification": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "The Blueprint recognizes more than 13.1 million acres, or roughly 48 % of the state, as a priority for connecting the region's lands and waters (Table 1, Figure 1). About 5.2 million acres (19.1%) are rated as highest or high priority.",
+          "location": "VIRGINIA AND THE SOUTHEAST CONSERVATION ADAPTATION STRATEGY (SECAS)",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "There is also a need to identify and protect areas with future marsh migration potential to ensure Virginia maintains vital marsh habitat through time.",
+          "location": "Tidal Wetlands Ben Sagara, Virginia Department of Wildlife Resources",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "These cooler zones, particularly Dfb, serve as key thermal refuges for heat-intolerant species. As changing environmental conditions continues to shrink Dfb and Dfa climate zones to isolated mountain ridges and peaks",
+          "location": "CLIMATE OF VIRGINIA",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "targeted_range_shift_actions": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "The DWR is taking a small step in this arena in its proposed translocation of eastern tiger salamanders to a DWR-owned property in southeastern Virginia, outside of the known range of the species in the Commonwealth.",
+          "location": "Changing Environmental Conditions In Virginia",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Since 2008, Virginia has been a leader in working to develop strategies that address the changing environment within the updated Wildlife Action Plan, including land acquisitions that allow for marsh migration and developing living shorelines that can withstand increased storm impacts.",
+          "location": "WILDLIFE ACTION PLAN IMPLEMENTATION",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "time_bound_and_monitoring": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "In 2027, the Wildlife Corridor Action Plan will also integrate species-specific habitat corridors for 11 Species of Greatest Conservation Need thought to be vulnerable to road risks",
+          "location": "Wildlife Habitat Corridors and Connectivity",
+          "sub_component": "time-bound",
+          "citations": []
+        },
+        {
+          "text": "Proposed plans for monitoring species identified in (1) and their habitats, for monitoring the effectiveness of the conservation actions proposed in (4), and for adapting these conservation actions to respond appropriately to new information or changing conditions",
+          "location": "PREFACE",
+          "sub_component": "monitoring",
+          "citations": []
+        },
+        {
+          "text": "The Wildlife TRACS framework was developed to specifically support Wildlife Action Plan implementation and has been integrated into the mandatory project reporting system, the DWR will use these resources to track the effectiveness of conservation actions in the Wildlife Action Plan",
+          "location": "Measuring the Effectiveness of Conservation Actions",
+          "sub_component": "monitoring",
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "evidence_of_efficacy": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Active pine-savannah habitat management of the Big Woods WMA resulted in the first pair of nesting red-cockaded woodpeckers at the WMA.",
+          "location": "WILDLIFE ACTION PLAN IMPLEMENTATION",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "During the past decade, more than 13.6 million mussels, including 23 federal and state listed species, have been propagated at these two facilities, and nearly 400,000 mussels have been released at strategic restoration sites.",
+          "location": "WILDLIFE ACTION PLAN IMPLEMENTATION",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document provides implementation success stories and prior project results, which constitutes 'limited evidence' as the evidence comes from prior actions implemented in Virginia but is not framed as formal efficacy evaluation or based on scientific studies testing the actions.",
+      "projects": ["Big Woods WMA pine-savannah management: Active management resulted in first nesting red-cockaded woodpeckers at the site, demonstrating efficacy of habitat management for fire-dependent SGCN.", "Virginia freshwater mussel propagation facilities: Over 13.6 million mussels from 23 listed species propagated and ~400,000 released, demonstrating successful ex-situ propagation and restoration translocation for imperiled aquatic species.", "Red-cockaded woodpecker translocation to Piney Grove Preserve and Great Dismal Swamp NWR: Population grew from 2 breeding pairs in 2002 to 170 individuals combined, demonstrating translocation efficacy for species recovery."]
+    },
+    "adaptation_planning_frameworks": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "the agency launched the development of its own adaptation and resilience plan in 2025. This effort will help ensure that, across the organization, employees understand the risks and opportunities associated with changing climatic conditions and incorporate appropriate actions into the Department's programs to maximize the conservation, use and enjoyment of fish, wildlife and habitats now and into the future.",
+          "location": "Changing Environmental Conditions In Virginia",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "In their assessments of species for possible inclusion as SGCN, the TACs evaluated, where possible, climate change vulnerability assessments (CCVAs) to determine potential impacts of changing environmental conditions to species and habitats and the likely responses of these resources.",
+          "location": "Changing Environmental Conditions In Virginia",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document references specific climate adaptation planning frameworks including CCVAs (Climate Change Vulnerability Assessments) applied to focal species, and the development of a formal adaptation and resilience plan. The SECAS Southeast Blueprint and structured conservation prioritization processes are also referenced in climate adaptation contexts."
+    }
+  },
+  "coding_meta": {
+    "coder": "llm:claude-sonnet-4-6",
+    "model": "claude-sonnet-4-6",
+    "provider": "claude",
+    "codebook_version": "0.4",
+    "ingest": "text",
+    "design": "single",
+    "temperature": null,
+    "thinking": null,
+    "thinking_effort": null,
+    "coded_at": "2026-07-06T18:39:26Z",
+    "notes": {}
+  }
+}

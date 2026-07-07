@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main"></title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">B6E5845FDDE89F845D8A75C9C2DB4CCE</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.1" ident="GROBID" when="2026-07-06T11:45+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract/>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<body/>
+		<back>
+
+			<div type="availability">
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Organization Name Website Reiman Gardens at Iowa State University <ref type="url" target="http://www.reimangardens.com/">http://www.reimangardens.com/</ref> Iowa Butterfly Survey Network (hosted by Reiman Gardens) <ref type="url" target="https://thebutterflynetwork.org/program/iowa-butterflysurvey-network">https://thebutterflynetwork.org/program/iowa-butterflysurvey-network</ref> Ruffed Grouse Society <ref type="url" target="http://www.ruffedgrousesociety.org/">http://www.ruffedgrousesociety.org/</ref> Safari Club International -Iowa <ref type="url" target="http://iowasci.com/">http://iowasci.com/</ref> Saving Our Avian Resources (SOAR) <ref type="url" target="http://www.soarraptors.org/">http://www.soarraptors.org/</ref> Sierra Club -Iowa <ref type="url" target="http://www.sierraclub.org/iowa">http://www.sierraclub.org/iowa</ref> The Nature Conservancy -Iowa <ref type="url" target="http://www.nature.org/ourinitiatives/regions/northamerica/unitedstates/iowa/index.htm?intc=nature.tnav.where.list">http://www.nature.org/ourinitiatives/regions/northamerica /unitedstates/iowa/index.htm?intc=nature.tnav.where.list</ref> Trout Unlimited -Iowa Chapter <ref type="url" target="http://www.iadriftless.org/">http://www.iadriftless.org/</ref> The Wildlife Society <ref type="url" target="http://wildlife.org/">http://wildlife.org/</ref> Iowa Chapter of The Wildlife Society <ref type="url" target="https://iowatws.wildapricot.org/">https://iowatws.wildapricot.org/</ref> Whiterock Conservancy <ref type="url" target="http://whiterockconservancy.org/">http://whiterockconservancy.org/</ref> Websites The following websites provide information about Iowa species (occurrence records, life history information, checklists, taxonomic order and nomenclature, etc.) Organization Name Website General BugGuide <ref type="url" target="https://bugguide.net/node/view/15740">https://bugguide.net/node/view/15740</ref> Cooperative Endangered Species Conservation Fund (CESCF) <ref type="url" target="https://www.fws.gov/program/endangered-species/whatwe-do">https://www.fws.gov/program/endangered-species/whatwe-do</ref> Ecosystem Valuation Database <ref type="url" target="https://www.esvd.net/">https://www.esvd.net/</ref> iNaturalist <ref type="url" target="https://www.inaturalist.org/">https://www.inaturalist.org/</ref> Iowa Academy of Science <ref type="url" target="https://iowaacademyofscience.wildapricot.org/">https://iowaacademyofscience.wildapricot.org/</ref> Iowa DNR Birding <ref type="url" target="https://www.iowadnr.gov/things-do/bird-watching">https://www.iowadnr.gov/things-do/bird-watching</ref> Iowa DNR Fish &amp; Wildlife Trust Fund <ref type="url" target="https://www.iowadnr.gov/places-go/wildlife-managementareas">https://www.iowadnr.gov/places-go/wildlife-managementareas</ref> Iowa DNR Private Landowner Assistance <ref type="url" target="https://www.iowadnr.gov/programs-services/wildlifelandowner-assistance">https://www.iowadnr.gov/programs-services/wildlifelandowner-assistance</ref> Iowa DNR Public Hunting Atlas <ref type="url" target="https://iowadnr.maps.arcgis.com/apps/webappviewer/index.html?id=f9161b90cddb4fcfb35a96901882a4b7">https://iowadnr.maps.arcgis.com/apps/webappviewer/inde x.html?id=f9161b90cddb4fcfb35a96901882a4b7</ref> </p></div>
+			</div>
+
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Plans and Strategies</head><p>The following strategic plans, which were developed by wildlife conservation agencies, organizations or partnerships are relevant to the implementation of various aspects of the Iowa Wildlife Action Plan. </p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<monogr>
+		<ptr target="https://partnersinflight.org/resources/pif-bird-conservation-plan-the-dissected-till-plains-physiographic-area-32/" />
+		<title level="m">Dissected Till Plains -Physiographic Region #32</title>
+		<imprint/>
+	</monogr>
+	<note>Flight Physiographic Area Plans</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">the-northern-tall-grass-prairie-physiographic-area-40/ Upper Great Lakes Plain</title>
+		<ptr target="https://partnersinflight.org/resources/north-american-landbird-conservation-plan/" />
+	</analytic>
+	<monogr>
+		<title level="m">Continental Plans North American Waterfowl Management Plan</title>
+		<imprint/>
+		<respStmt>
+			<orgName>Northern Tallgrass Prairie</orgName>
+		</respStmt>
+	</monogr>
+	<note>North American Landbird Conservation Plan</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">National Fish, Wildlife and Plants Climate Change Adaptation Strategy</title>
+		<ptr target="https://toolkit.climate.gov/tool/national-fish-wildlife-and-plants-climate-adaptation-strategy" />
+	</analytic>
+	<monogr>
+		<title level="m">North American Monarch Conservation Plan</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>
+

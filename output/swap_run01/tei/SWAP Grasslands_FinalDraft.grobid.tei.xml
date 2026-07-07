@@ -1,0 +1,1530 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main"></title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Grasslands Contributors</orgName>
+								<orgName type="department" key="dep2">Department of Natural Resources U.S. Fish and Wildlife Service U.S. Geological Survey</orgName>
+								<orgName type="institution" key="instit1">Michigan Natural Features Inventory Michigan Nature Association Michigan</orgName>
+								<orgName type="institution" key="instit2">Michigan Fish and Wildlife Cooperative Research Unit</orgName>
+							</affiliation>
+						</author>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">060128935220C03696F050EC41875527</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.1" ident="GROBID" when="2026-07-06T12:27+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>What are grasslands?</head><p>Grasslands are open ecosystems where grasses and wildflowers dominate, and trees are either completely absent or sparse. Prairies are grasslands with no trees, while savannas have scattered oaks. Historically, Indigenous peoples set fires that played a key role in maintaining these ecosystems by encouraging native plants and slowing the encroachment of woody vegetation. Today, fire is still a critical management tool for preserving grasslands.</p><p>In Michigan, the mesic (moist) prairies restricted to the southwest corner of the state were part of the "Prairie Peninsula" region, an extension of the tallgrass prairies of the Great Plains <ref type="bibr" target="#b53">(Transeau 1935)</ref>. While similar prairies today are restored on former farmland, they don't support the full range of species that were once found in Michigan's original prairies.</p><p>Mesic and dry prairies once existed alongside open oak savannas, forming a patchwork across southern Michigan. The mix of sun and shade characterizing savannas supported an incredible diversity of plants <ref type="bibr" target="#b30">(Leach and</ref> Givnish 1999, Pavlovic et al. 2006), from prairie species in sunny spots to woodland plants in shadier areas. Among Michigan's grasslands, oak-pine barrens in the northern Lower Peninsula occupy the largest area today.</p><p>Other grasslands formed in wetter areas, where seasonal flooding and fire prevented trees from taking over. These include wet and wet-mesic prairies, mostly found on the flat lakeplains of southeast Michigan and Saginaw Bay, as well as mesic sand prairies throughout the Lower Peninsula in old lakebeds and along wetland edges. The shifting water levels in these habitats support a mix of plants adapted to both wet and dry conditions.</p><p>Why are grasslands important?</p><p>Grasslands are vital ecosystems for biodiversity, cultural heritage, and the economy. They support a wide range of wildlife, including many species that are now in decline (Strömberg and Staver 2022). Several popular game animals, like sharp-tailed grouse, wild turkey, white-tailed deer, and ring-necked pheasant, depend on grasslands for nesting, food, and shelter.</p><p>Unfortunately, grasslands have shrunk dramatically over the last two centuries. As these habitats disappeared, so did the species that rely on them, especially grassland birds and pollinators. Many of these animals now require urgent conservation and habitat restoration efforts to survive. Some globally rare species, like the federally threatened eastern prairie fringed orchid, are found only in the last remaining patches of native grassland.</p><p>Beyond wildlife, grasslands provide many ecological benefits. They store large amounts of carbon in their soils, which helps mitigate environmental change. Their deep-rooted plants absorb excess nutrients, improving water quality. They also support pollinators by offering abundant nectar sources. These services are strongest in native, undisturbed grasslands, but restored prairies on former farmland can still offer important benefits <ref type="bibr" target="#b31">(Liu et al. 2022;</ref><ref type="bibr" target="#b29">Kucharik et al. 2006</ref><ref type="bibr" target="#b28">, Kucharik 2007)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>What is the health of grasslands?</head><p>Grasslands are among the most imperiled ecosystems on Earth, largely due to extensive human land-use conversion <ref type="bibr" target="#b24">(Hoekstra et al. 2005</ref><ref type="bibr" target="#b10">, Carbutt et al. 2017</ref><ref type="bibr" target="#b7">, Buisson et al. 2022)</ref>. The dense root systems of prairie plants formed the rich, organic matter that still supports some of Michigan's most fertile cropland today. Less than 0.01% of the total estimated historic prairie acreage persists in Michigan today, mostly in small, degraded patches often along the margins of roads and railroads <ref type="bibr" target="#b17">(Comer et al. 1995</ref>, MNFI 2025). Prairie and savanna natural community types are critically imperiled in Michigan with the exception of bur oak plains, which is extirpated from the state and wet-mesic sand prairie, dry sand prairie, and oak-pine barrens, which are imperiled. Among the prairie types that historically occurred in Michigan, only 700 acres of mesic and dry-mesic prairie and associated savanna types remain today. While most prairies have been converted completely to farmland, many oak savannas transformed to oak woodlands or forests due to fire exclusion and may be restorable. Lakeplain prairies have fared slightly better by comparison, with nearly 2,500 acres remaining, though much of these face intense pressure from non-native phragmites/common reed. Thousands of acres of former agricultural land have been planted to prairie and are a fundamental conservation tool. It is impossible to develop the complex webs of biodiversity that Michigan's native prairies developed over thousands of years, but planted prairies provide habitat for many wildlife species. While plantings are valuable conservation tools in highly degraded sites like former agricultural fields, introducing additional species to remnants should be avoided, regardless of native status. Such introductions obscure our ability to understand the natural variation of composition in remnants.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Natural communities found in Grasslands Dry Sand Prairie</head><p>Wet-mesic Prairie Dry-mesic Prairie Wet-mesic Sand Prairie Hillside Prairie Bur Oak Plains Mesic Prairie Oak Openings Mesic Sand Prairie Oak Barrens Lakeplain Wet Prairie Oak-pine barrens Lakeplain Wet-mesic Prairie Lakeplain Oak opening Wet Prairie Michigan Natural Features Inventory's natural community classification <ref type="bibr" target="#b12">(Cohen et al. 2015</ref><ref type="bibr" target="#b13">, Cohen et al. 2025</ref>) and natural community abstracts, both of which are available online along with photos, comprehensive descriptions, distribution maps, and thorough references from the scientific literature. MNFI's most detailed bibliography on Michigan's natural communities can be found in the publication "Distribution Maps of Michigan's Natural Communities" <ref type="bibr">(Albert et al. 2008)</ref>, which is also available for viewing and downloading at the MNFI website.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Accomplishments</head><p>A newly protected 440-acre wetland complex contains Eastern Prairie Fringed Orchid occupied habitat in Southwest Michigan.</p><p>Surveys conducted in 2022-2023 documented three new Blazing Star Borer Moth populations, reconfirmed its presence at 14 of 21 previously known sites, and confirmed continued occupancy at St. John's Marsh State Wildlife Area <ref type="bibr" target="#b14">(Cohen et al. 2018</ref><ref type="bibr" target="#b43">, Rowe et al. 2023)</ref>.</p><p>New observations of Grasshopper Sparrow at Camp Grayling and Watkins Lake State Park during surveys between 2017-2023 <ref type="bibr" target="#b11">(Cohen et al. 2017</ref><ref type="bibr" target="#b34">, Monfils et al. 2023)</ref>.</p><p>The Michigan Bumble Bee Atlas, a community science program for bumble bee monitoring, was launched by MNFI in 2023. Over 200 participants made more than 2000+ observations in the first 3 years of the Atlas, including over 60 records of state listed species and 4 observations of the state endangered American bumble bee.</p><p>The establishment of the Southwest Michigan Fire Collaborative, the Northern Michigan Fire Collaborative, and the Northern Pine Plains Partnership have created opportunities for collaborative learning and planning.</p><p>The Michigan Natural Features Inventory (MNFI), with funding from the Michigan Department of Natural Resources (DNR), U.S. Forest Service (USFS), Little Traverse Conservancy, and Michigan Department of Military and Veteran Affairs (DMVA), MNFI documented 38 new occurrences of prairie natural communities from <ref type="bibr" target="#b44">2015</ref><ref type="bibr" target="#b36">-2025</ref><ref type="bibr">(MNFI 2025))</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Focal Species</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>American Bumble Bee</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Bombus pensylvanicus</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>State Endangered</head><p>The American bumble bee is a large, robust bumble bee species characterized by its black and yellow coloration and long face. Historically widespread across much of the United States and southern Canada, this species has suffered severe population declines in recent decades, particularly in the northern portions of its range <ref type="bibr" target="#b16">(Colla and Packer 2008)</ref>. Once a common pollinator in grasslands, prairies and open farmlands, the American bumble bee played a crucial role in pollinating a variety of plants. However, its numbers have plummeted by more than 90% in some regions, leading to concerns about its long-term survival (NatureServe 2025). The primary threats facing the American bumble bee include habitat loss due to agricultural intensification and urban development, pesticide exposure, competition with non-native pollinators and the spread of pathogens <ref type="bibr" target="#b40">(Potts et al. 2010)</ref>. Conservation efforts aimed at restoring native grasslands, reducing pesticide use and supporting pollinator-friendly land management practices will be essential for reversing its decline and ensuring its continued ecological contributions. This species has been documented from 90 sites in 38 counties in Michigan as of 2025 in the state's Natural Heritage Database and 12 of these occurrences were observed in the last 20 years <ref type="bibr" target="#b24">(2005</ref><ref type="bibr" target="#b36">-2025;</ref><ref type="bibr">MNFI 2025)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Goals</head><p>• Maintain stable populations of American bumble bee in known areas.</p><p>• Enhance engagement with developers, utilities and landowners to promote the conservation of lands supporting existing American bumble bee populations.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Blazing Star Borer</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Papaipema beeriana</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Special Concern</head><p>The blazing star borer is a grayish brown moth with a wingspan of 1.2-1.5 inches. It has two color forms, both spotted and unspotted. The unspotted form has forewings which are dull brownish, frosted with whitish scale-bases and scattered white scales; markings practically absent or very faint <ref type="bibr" target="#b20">(Forbes 1954)</ref>. The hind wings are paler and more uniform gray. The spotted form has forewings colored like the unspotted form with the exception of white spots <ref type="bibr" target="#b20">(Forbes 1954)</ref>.</p><p>Though appearing superficially drab, close inspection reveals wings with silvery reflective scales and white spotted forewings variably present on some individuals <ref type="bibr" target="#b20">(Forbes 1954)</ref>. The blazing star borer occupies a variety of natural communities across Michigan's Lower Peninsula that supports its host plant, blazing star (Liatris spp.), including prairie fens, lakeplain prairies, dry sand prairies, prairie fens, savannas and barrens <ref type="bibr" target="#b18">(Cuthrell 1999</ref>). In early summer, caterpillars chew their way into blazing star stems where they feed before emerging in August and September to breed and lay eggs that overwinter in the duff near host plants. This species is listed as Special Concern in Michigan and surveys across known sites indicate their populations are declining statewide <ref type="bibr" target="#b43">(Rowe et al. 2023)</ref>. This species has been documented from 46 sites in 19 counties in Michigan as of 2025 in the state's Natural Heritage Database and 31 of these occurrences were observed within the last 20 years <ref type="bibr" target="#b24">(2005</ref><ref type="bibr" target="#b36">-2025;</ref><ref type="bibr">MNFI 2025)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Goals</head><p>• Assess blazing star borer statewide population status.</p><p>• Conduct targeted habitat management activities (e.g., burning and invasive species management) in at least 8 occupied sites.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Eastern Prairie Fringed Orchid</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Platanthera leucophaea</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Federally Threatened and State Endangered</head><p>The eastern prairie fringed orchid is a stout orchid with a dense cluster of creamy-white, threeparted flowers with fringed petals, atop a one-meter high stem. Long, narrow, lanceolate leaves are concentrated at the base of the plant, with leaves shorter and sparser along the stem. This species is federally threatened and state endangered in Michigan, where it occurs in open grasslands in moist alkaline soils, including fens and lakeplain prairies. This species has been documented from 29 sites in 19 counties in Michigan as of 2025 in the state's Natural Heritage Database and 15 of these occurrences were observed within the last 30 years <ref type="bibr" target="#b17">(1995</ref><ref type="bibr" target="#b36">-2025;</ref><ref type="bibr">MNFI 2025)</ref>. Ten (35%) of these populations have not been observed since 1980, while only 13 (45%) have been observed since 2015 (MNFI 2025).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Goals</head><p>• Actively manage at least 3 currently unmanaged populations with prescribed fire and tree and shrub clearing.</p><p>• Contribute to federal population monitoring efforts over the next 10 years.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Grasshopper Sparrow</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Ammodramus savannarum</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Special Concern</head><p>The grasshopper sparrow is a small, mostly brown bird with a thick bill, compact shape and a distinctive orange-yellow stripe located between the eye and bill. More often heard than seen, this species is most easily identified by its buzzy, insect-like song "tik-tuk tikeeeeeez" <ref type="bibr" target="#b38">(Norris 2014</ref><ref type="bibr" target="#b57">, Vickery 2020</ref>). This species is widespread throughout the state and breeds in both native and planted grasslands. It will also utilize pastures, hayfields and airports <ref type="bibr" target="#b19">(Dechant et al. 2002</ref><ref type="bibr" target="#b38">, Norris 2014</ref><ref type="bibr" target="#b48">, Shaffer et al. 2021)</ref>. Considered area sensitive, the grasshopper sparrow prefers large tracts (&gt;75 acres) of contiguous grassland for breeding <ref type="bibr" target="#b19">(DeChant et al. 2002</ref><ref type="bibr" target="#b48">, Shaffer et al. 2021)</ref>. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Goals</head><p>• Establish consistent monitoring across key sites to guide and improve best management practices.</p><p>• Assess how habitat type and patch size affect reproductive success by evaluating nest outcomes in both native and planted grasslands.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Sustain grasslands through disturbance regimes</head><p>Grasslands are disturbance-dependent ecosystems that rely on frequent, low-intensity fire or similar processes to maintain their open structure and ecological integrity. Without regular disturbance, grasslands gradually transition into forested systems. Changes in weather patterns are leading to an increase in the risk of high-intensity wildfires, which may prompt greater fire suppression efforts and further complicate the use of prescribed fire as a management tool.</p><p>Maintaining and restoring appropriate disturbance regimes, including safe and strategic use of prescribed fire, is critical to sustaining grassland ecosystems.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Focal species adaptive capacity</head><p>Adaptive capacity is a species' ability to tolerate or adapt to environmental change, whether that be through shifting in space or persisting in place <ref type="bibr" target="#b52">(Thurman et al. 2020)</ref> • Agricultural, suburban and urban development and forest succession fragment large grassland complexes.</p><p>• Non-point source pollution could degrade wet grasslands and encourage dominance by invasive species.</p><p>• Recovering converted lands back to grasslands requires large amounts of resources and time. Restored grasslands may still lack the quality of native, remnant grasslands.</p><p>• Ditching and tiling disrupts important hydrological and mycorrhizal processes in certain grasslands.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Changing Weather Patterns</head><p>• Phenological mismatch is a major concern that involves disruptions in the timing of life cycle events between interacting species. Examples include earlier migrations by bird species before food sources are available and pollinators and their respective plants not available at the same time due to response to changing environmental cues <ref type="bibr" target="#b41">(Reed et al. 2019</ref>).</p><p>• Invasive species may benefit more from environmental shifts and changing weather patterns (e.g., common reed and non-native cattail in lakeplain prairie on Dickinson and Harsen's Islands) <ref type="bibr" target="#b26">(Kaul and Wilsey 2021)</ref>.</p><p>• Precipitation concentrated in spring and fall may impact grassland structure and function, and the effects will differ between lakeplain prairie, oak savannas, and planted prairie.</p><p>• Plant species may become more or less competitive due to environmental changes, resulting in distribution and abundance changes that may be difficult to predict.</p><p>Invasive &amp; Other Problematic Species, Genes &amp; Diseases</p><p>• Invasive plants outcompete native plants and change the structure of habitats needed for focal species <ref type="bibr" target="#b58">(Vila and Ibanez 2011)</ref>.</p><p>• Habitat fragmentation creates ideal conditions for nest-parasitizing birds such as brownheaded cowbirds <ref type="bibr" target="#b42">(Robinson et al. 2000)</ref>.</p><p>• Pests and pathogens such as spongy moth and oak wilt reduce the viability of tree species, leading to poor structural complexity and regeneration of key savanna canopy species such as oak.</p><p>• Using seed that is not locally or regionally adapted when planting restored prairies can reduce planting success or lead to outbreeding depression in native populations.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Residential &amp; Commercial Development</head><p>• Conversion to suburban and/or urban land uses limits recoverability of ecosystems and increases fragmentation of existing ecosystems.</p><p>Agriculture &amp; Aquaculture</p><p>• Incompatible agricultural practices that degrade and fragment grasslands include pesticide drift and runoff, overgrazing, ditching, soil erosion and tiling.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Human Intrusions &amp; Disturbance</head><p>• Intensive foot, mountain bike and ORV trails can degrade grasslands through soil compaction and spread of invasive species.</p><p>• Public misconceptions of silvicultural and fire management practices limit support for useful management tools</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conservation Actions</head><p>Land &amp; Water Management H1.</p><p>Conduct habitat management to mimic natural disturbance regimes, using fire and large grazers as appropriate to maintain species diversity and community structure [BSB; JV; PBMP].</p><p>H2.</p><p>Expand the use of prescribed fire across the landscape according to ecological priorities using site-appropriate fire regimes.</p><p>H3.</p><p>Avoid disking, ditching and tiling remnant grassland habitats such as prairies.</p><p>H4.</p><p>Use a combination method of prescribed fire and mechanical thinning to more effectively manage mesophytic tree species and shrubs.</p><p>H5.</p><p>Conduct both early detection and rapid response efforts for invasive species, along with targeted management in priority locations for high-threat species. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Threats and conservation actions for focal species</head><p>American Bumblebee</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Threats Natural Systems Modifications</head><p>• Loss of forage, nesting, and overwintering habitat due to agricultural intensification and urbanization <ref type="bibr" target="#b22">(Hatfield et al. 2012</ref>).</p><p>• Sensitive to tilling or land conversion that reduces native floral resources.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Changing Weather Patterns</head><p>• Increasingly warmer summer season shifts area of suitable landscape, alters flowering times, and can lead to extreme weather events that damage habitat and bees <ref type="bibr" target="#b23">(Hemberger and Williams 2024)</ref>.</p><p>Invasive &amp; Other Problematic Species, Genes &amp; Diseases</p><p>• Competition and disease spillover from non-native bees, particularly pathogens introduced by imported European Honey Bees <ref type="bibr" target="#b9">(Cameron et al. 2016</ref><ref type="bibr" target="#b32">, McArt et al. 2017</ref>).</p><p>• Low genetic diversity and isolated populations may lead to isolated extirpation events <ref type="bibr" target="#b8">(Cameron et al. 2011</ref>).</p><p>• Pesticide exposure, especially from neonicotinoids and other insecticides that reduce survival and reproduction <ref type="bibr" target="#b21">(Grixti et al. 2009</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conservation Actions</head><p>Land &amp; Water Management ABB1.</p><p>Identify and implement species conservation overlaps with the rusty patched bumble bee recovery plan. [RPB] ABB2.</p><p>Enhance and maintain habitat through prescribed burning and invasive species management. <ref type="bibr">[TIS]</ref> Research &amp; Monitoring ABB3.</p><p>Conduct routine surveys at occupied sites to monitor status and identify high priority areas for protection and management. [NAB]</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Blazing Star Borer</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Threats Natural Systems Modifications</head><p>• Prairie loss and fragmentation due to agriculture and fire suppression, reducing host plant (Liatris spp.) availability.</p><p>• Inappropriate fire management (e.g., consecutive burns in occupied sites) that destroy larvae and host plants.</p><p>• Drainage and alteration of wetlands negatively impacts wet prairie habitats.</p><p>Invasive &amp; Other Problematic Species, Genes &amp; Diseases</p><p>• Herbivory pressure from deer and other animals reduce host plant abundance.</p><p>• Small, isolated populations lead to reduced genetic diversity and increased vulnerability to local extinctions.</p><p>• Inbreeding depression due to fragmented habitats and limited dispersal.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Residential &amp; Commercial Development</head><p>• Conversion of grassland systems for urban expansion and housing.</p><p>• Commercial landscaping practices that eliminate native blazing star plants. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Eastern Prairie Fringed Orchid</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Threats</head><p>Invasive &amp; Other Problematic Species, Genes and Diseases</p><p>• Wetland invasive species such as phragmites, invasive cattails, reed canary grass, glossy buckthorn and purple loosestrife outcompete and degrade habitat.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Natural Systems Modifications</head><p>• Tillage, draining and tiling degrade habitat and reduce populations viability.</p><p>• Declines of hawkmoths (Sphingidae), the sole pollinator for Eastern prairie fringed-orchid (USFWS 1999).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Agriculture and Aquaculture</head><p>• Conversion to row-crop agriculture has eliminated most native grasslands in North America <ref type="bibr">(Sampson and Knopf 1994)</ref>.</p><p>Changing Weather Patterns</p><p>• Flowering and fruiting are enhanced by adequate growing season rainfall and the seasonal variation in drought and rainfall may become erratic due to changing weather patterns <ref type="bibr" target="#b5">(Bowles et al. 1992</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conservation Actions</head><p>Land </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Grasshopper Sparrow</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Threats</head><p>Invasive &amp; Other Problematic Species, Genes and Diseases</p><p>• Brown-headed cowbird nest parasitism likely impacts grasshopper sparrows and may be intensified by habitat fragmentation <ref type="bibr" target="#b19">(DeChant et al. 2002</ref><ref type="bibr" target="#b48">, Shaffer et al. 2021)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Natural Systems Modifications</head><p>• Fire suppression (or lack of alternative management like well-timed mowing) can result in succession to shrub or forest cover.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Agriculture and Aquaculture</head><p>• Loss of habitat due to agricultural conversion and intensification.</p><p>• Incompatible mowing regimes can result in nest abandonment, reduced site fidelity, destruction of eggs and direct mortality of nestlings, fledglings and adults <ref type="bibr" target="#b44">(Ruth 2015)</ref>.</p><p>• Insecticide use during breeding season may reduce food availability or cause direct mortality <ref type="bibr" target="#b44">(Ruth 2015)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conservation Actions</head><p>Land &amp; Water Management GHS1. Continue to implement the Grasshopper Sparrow Conservation Plan <ref type="bibr" target="#b44">(Ruth 2015)</ref>.</p><p>[GS] GHS2. Conduct vegetation management activities (e.g., mowing, prescribed fire, brush clearing) in the fall after migration.</p><p>[GS]</p><p>Raising Awareness GHS3. Promote and increase awareness of Agricultural Practices that Conserve Grassland Birds booklet <ref type="bibr" target="#b25">(Hyde and Campbell 2012)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>[CGB]</head><p>Research &amp; Monitoring GHS4. Conduct routine surveys at occupied sites to monitor status and identify high priority areas for protection and management.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Places for partnership</head><p>This map was created in collaboration with partners and highlights focal areas to work in over the next 10 years. Creating shared goals helps focus efforts and build collaboration. While this map has a select few areas highlighted, conservation work benefiting any Grassland is welcome and encouraged.</p><p>How will we monitor?</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Grasslands</head><p>• Continue to survey and update quality rankings for Grassland Communities in the state's Natural Heritage Database</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Focal Species</head><p>American Bumblebee</p><p>• Conduct time meander surveys using methods in-line with protocols used by larger scale efforts such as the Bumble Bee Atlas. (Bumble Bee Atlas 2024), or consistent with MNFI protocols <ref type="bibr" target="#b43">(Rowe et al. 2023</ref>).</p><p>• Promote existing community science efforts, like iNaturalist and the Michigan Bumble Bee Atlas to identify populations.</p><p>• Continue to update occurrences in the state's Natural Heritage Database.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Blazing Star Borer</head><p>• Conduct targeted surveys in known and suspected areas to determine distribution and relative abundance.</p><p>• Continue to update element occurrences in the state's Natural Heritage Database.</p><p>Eastern Prairie Fringed Orchid</p><p>• Every three years or less, collect standardized count-based and density-based population measurements.</p><p>• Monitor the status of 19 likely extant populations and conduct updated viability assessment of each.</p><p>• Every three years or less, document any observable changes with the area occupied for a population</p><p>• Update occurrences in the state's Natural Heritage Database.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Grasshopper Sparrow</head><p>• Continue North American Breeding Bird survey to track population trends.</p><p>• Use community science programs, like eBird, to assess distribution and abundance.</p><p>• Continue to update element occurrences in the state's Natural Heritage Database. [JV] Upper Mississippi / Great Lakes Joint Venture Landbird Habitat Conservation Strategy -2020 Revision <ref type="bibr" target="#b49">(Soulliere et al. 2020)</ref> [NAB] Conservation and management of North American bumble bees <ref type="bibr" target="#b47">(Schweitzer et al. 2012)</ref> </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Links to Other Plans</head></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head></head><label></label><figDesc>Key habitat characteristics include vegetation of intermediate height, clumped grasses interspersed with patches of bare ground, minimal woody vegetation and moderately deep litter (Shaffer et al. 2021). Breeding Bird Survey data indicate a 3.5% annual decline in Michigan between 1993 and 2019 (Sauer et al. 2020). This species has been documented from 133 sites in 58 counties in Michigan as of 2025 in the state's Natural Heritage Database and 125 of these occurrences were observed within the last 20 years (2005-2025; MNFI 2025).</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="5,72.00,72.00,255.00,255.00" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="6,72.00,117.54,249.50,249.50" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="8,72.00,72.00,243.50,243.50" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head></head><label></label><figDesc>. Michigan Natural Features Inventory, with funding support from the Michigan Department of Natural Resources, assessed Adaptive Capacity for over 500 Midwest SGCN from 2023-2024 (Appendix 3). We chose to increase clarity at expense of precision in technical language used by Thurman et al.</figDesc><table><row><cell></cell><cell>Dependent on Other</cell><cell>Enhance reproduction or</cell></row><row><cell>Blazing Star Borer</cell><cell>Species</cell><cell>survival</cell></row><row><cell cols="3">Threats and conservation actions for habitat</cell></row><row><cell>Threats</cell><cell></cell><cell></cell></row><row><cell cols="2">Natural Systems Modifications</cell><cell></cell></row><row><cell cols="3">• Fire suppression and lack of large grazers can degrade grassland ecosystems by allowing woody encroachment, reducing native plant species diversity and shifting composition</cell></row><row><cell cols="3">from grassland-dependent to shade-tolerant species.</cell></row><row><cell cols="3">(2020) in their paper. The Michigan Department of Natural Resources created broad management strategies based off assessment results and are intended to be stepped down based on management scale, capacity and resources. Management strategies for assessed 2025-2035 focal species are: Lowest adaptive capacity Strategy</cell></row><row><cell>American Bumblebee</cell><cell>Movement</cell><cell>Manage genetic diversity</cell></row><row><cell>Grasshopper Sparrow</cell><cell>Range of Tolerances</cell><cell>Increase habitat connectivity</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head></head><label></label><figDesc>. Increase seeding rate of forbs, reduce rate of big bluestem and other competitive warm-season grasses and use local genotypes when planting restored prairies.[NWP; PBMP]   H11. Strategically plant grasslands for increasing corridors between patches of remnant prairie habitat and resource availability for grassland-dependent species H12. Encourage the use of buffer strips adjacent to wet grasslands to reduce sedimentation and nutrient loading and provide a buffer for pesticide drift. [CGB] Work with land use planners and local governments to encourage conservation of grasslands and the wildlife that rely on them. Provide resources to aid them in considering these values in their decisions. H15. Promote management and restoration of grassland communities and the positive impacts it has on improving game species habitat such as deer and turkey. [NWP] H16. Promote voluntary best management practices for stopping the introduction and spread of invasive species by recreational users, researchers and industry. [TIS] H17. Work with farmers, utilities and other land owners to prevent degradation through ditching, tiling, pesticide drift and runoff and other impacts. [CGB; PBMP] Work with the Natural Resources Conservation Service (NRCS) and the Farm Bill program to focus on protection, management and reconstruction of Grassland habitats, creating a wildlife-friendly matrix across the landscape for the focal species. [PIF; NWP] H23. Identify high-quality grassland communities and incorporate them into conservation planning and management. H24. Develop monitoring protocols to evaluate the ecological integrity of grassland communities and implement monitoring in reference sites. H25. Develop monitoring protocols to evaluate biodiversity stewardship (e.g., prescribed fire and invasive species control) to inform adaptive management. H26. Prioritize protection of high-quality grassland remnants over restoration of degraded habitats given challenges over attaining the quality of undisturbed communities. H27. Work with the Michigan Technical Committee of the Farm Bill to develop options for improvements to Grassland reconstruction, including larger field size, increasing plant diversity and structure through seed mixes and a diversity of management practices. H28. Promote native and geographically appropriate sources for seed and plugs. Continue research on effective biocontrol for key invasive species with minimal negative side effects to native species. [TIS] H30. Use and promote the Midwest Invasive Species Information Network (MISIN) to monitor invasive species. [TIS] H31. Develop or use existing system to better track management and collaborations across the landscape. [SWR] H32. Develop coordinated protocols for comparing conservation and management actions across ownership. H33. Support prescribed fire management collaboratives between multiple state and federal agencies and private managers.</figDesc><table><row><cell>Raising Awareness</cell></row><row><cell>H13. Support education efforts on the value of native plants, pollinators, remnant and restored grasslands and focal species. [JV; PIF]</cell></row><row><cell>[CC; CGB; Implement invasive species decontamination and prevention protocols. [CC; TIS] TIS] Work with private landowners adjacent to public or land conservancy holdings to manage and expand the size of suitable habitats and create connections to other suitable habitats for focal species. [CC] Increase the size of existing large grassland complexes within open landscapes and consider removing hedgerows. [JV; PIF] H14. Law &amp; Policy H6. H7. H8. H18. Take appropriate enforcement actions for violations of the Michigan Threatened and Endangered Species Act (NREPA Part 365), the Invasive Species Order (NREPA Part 413) and maintain the Prohibited and Restricted Species list pursuant to the Natural Resources and Environmental Protection Act, P.A. 451 of 1994, as amended. [TIS] H19. Encourage policies to increase the acceptance of prescribed fire in alignment with community safety, such as a community wildfire protection plan. Livelihood &amp; Economics H20. Preserve intact grasslands to maximize their potential for soil carbon sequestration (Bai and Cotrufo 2022). Conservation Designation &amp; Planning H21. Use conservation easements and acquisitions to create large grassland complexes, increase long-term viability of remnant grassland habitats and to create important linkages for focal species needs. [CC; PIF] H22. Research &amp; Monitoring H29. Institutional Development</cell></row><row><cell>H9.</cell></row></table><note><p><p><p><p>Manage for floristic, structural and successional diversity across the landscape.</p>[NWP; PBMP] H10H34. Promote landowner cooperatives for grassland habitat.</p>[PIF]   </p>H35. Pursue more support for rare species permitting and enforcement.</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head></head><label></label><figDesc>• Pesticide drift (especially neonicotinoids) into occupied habitats from residential and agricultural areas.</figDesc><table><row><cell>Conservation Actions</cell></row><row><cell>Land &amp; Water Management</cell></row><row><cell>BSB1. Enhance and maintain habitat through prescribed burning and invasive species management. [BSB; TIS]</cell></row><row><cell>Research &amp; Monitoring</cell></row><row><cell>BSB2. Continue monitoring populations to assess declines and new threats. [BSB]</cell></row><row><cell>Conservation Designation &amp; Planning</cell></row><row><cell>BSB3. Protect occupied sites through land acquisition. BSB4. Develop an ex-situ based rearing program and begin augmenting existing populations and consider introduction at new sites.</cell></row><row><cell>Raise Awareness</cell></row><row><cell>BSB5. Promote awareness and adoption of good management practices by public and</cell></row><row><cell>private land managers.</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_4"><head></head><label></label><figDesc>Conservation Assessment for Blazing Star Borer Moth (Papaipema beeriana) (USFS 2003) [CC] Advancing the National Fish, Wildlife, and Plants Climate Adaptation Strategy into a New Decade (National Fish, Wildlife, and Plants Climate Adaptation Network 2021) [CGB] Agricultural Practices That Conserve Grassland Birds<ref type="bibr" target="#b25">(Hyde and Campbell 2012)</ref> [EPFO] Eastern Prairie Fringed Orchid (Platanthera leucophaea) Recovery Plan(USFWS 1999)   [GS] Status Assessment and Conservation Plan for the Grasshopper Sparrow (Ammodramus savannarum)<ref type="bibr" target="#b44">(Ruth 2015)</ref> </figDesc><table /><note><p>[BSB]</p></note></figure>
+		</body>
+		<back>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<monogr>
+		<title level="m" type="main">National wild pheasant conservation plan second edition (National Wild Pheasant Technical Committee 2021)</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<title level="m" type="main">Pollinator-friendly BMPs for Federal Lands</title>
+		<imprint>
+			<date type="published" when="2015">2015</date>
+			<publisher>USFS</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<title level="m" type="main">Partners in Flight Bird Conservation Plan for The Upper Great Lakes Plain (Physiographic Area 16</title>
+		<imprint>
+			<date type="published" when="2001">2001</date>
+			<publisher>Knutson et al</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<title level="m" type="main">Wildlife Division Southwest Regional Habitat Guidance -Mature and unfragmented mature forests [TIS] Terrestrial Invasive Species Management Plan (State of Michigan 2024) Literature Cited</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Grassland soil carbon sequestration: Current understanding, challenges, and solutions</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Bai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">F</forename><surname>Cotrufo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">377</biblScope>
+			<biblScope unit="page" from="603" to="608" />
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Status and population fluctuations of the eastern prairie fringed orchid</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Bowles</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Flakne</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Dombeck</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Erigenia (Illinois Native Plant Society Bulletin)</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="26" to="40" />
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+	<note>Platanthera leucophaea (Nutt.) Lindl.] in Illinois</note>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<monogr>
+		<ptr target="https://www.bumblebeeatlas.org/pages/survey-protocol" />
+		<title level="m">Bumble Bee Atlas. 2024. Bumble bee Atlas Survey Protocols</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Ancient grasslands guide ambitious goals in grassland restoration</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Buisson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Archibald</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Fidelis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">N</forename><surname>Suding</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">377</biblScope>
+			<biblScope unit="issue">6606</biblScope>
+			<biblScope unit="page" from="594" to="598" />
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Patterns of widespread decline in North American bumble bees</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">A</forename><surname>Cameron</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Lozier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Strange</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Koch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Cordes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">F</forename><surname>Solter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">L</forename><surname>Griswold</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Proceedings of the National Academy of Sciences (USA)</title>
+		<imprint>
+			<biblScope unit="volume">108</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="662" to="667" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Test of the invasive pathogen hypothesis of bumble bee decline in North America</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">A</forename><surname>Cameron</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">C</forename><surname>Lim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Lozier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Duennes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Thorp</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Proceedings of the National Academy of Sciences</title>
+		<imprint>
+			<biblScope unit="volume">113</biblScope>
+			<biblScope unit="issue">16</biblScope>
+			<biblScope unit="page" from="4386" to="4391" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Global plight of native temperate grasslands: going, going, gone?</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Carbutt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">D</forename><surname>Henwood</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">A</forename><surname>Gilfedder</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biodiversity and Conservation</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="issue">12</biblScope>
+			<biblScope unit="page" from="2911" to="2932" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<monogr>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">G</forename><surname>Cohen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Kortenhoven</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Lincoln</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">D</forename><surname>Enander</surname></persName>
+		</author>
+		<title level="m">Natural Features Inventory and Management Recommendations for Watkins Lake State Park. Michigan Natural Features Inventory Report Number 2017-03</title>
+		<meeting><address><addrLine>Lansing, MI</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2017">2017</date>
+			<biblScope unit="page">69</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<monogr>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">G</forename><surname>Cohen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Kost</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">S</forename><surname>Slaughter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Albert</surname></persName>
+		</author>
+		<title level="m">A Field Guide to the Natural Communities of Michigan</title>
+		<meeting><address><addrLine>East Lansing, MI</addrLine></address></meeting>
+		<imprint>
+			<publisher>Michigan State University Press</publisher>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<monogr>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">G</forename><surname>Cohen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Kost</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">S</forename><surname>Slaughter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Albert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Lincoln</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">P</forename><surname>Kortenhoven</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Wilton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">D</forename><surname>Enander</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">E</forename><surname>Anderson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Parr</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">J</forename><surname>Bassett</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">M</forename><surname>Korroch</surname></persName>
+		</author>
+		<ptr target="https://mnfi.anr.msu.edu/communities/classification" />
+		<title level="m">Michigan Natural Community Classification</title>
+		<meeting><address><addrLine>Lansing, MI</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2025">2025</date>
+		</imprint>
+		<respStmt>
+			<orgName>Michigan State University Extension</orgName>
+		</respStmt>
+	</monogr>
+	<note>Michigan Natural Features Inventory</note>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<monogr>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">G</forename><surname>Cohen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Monfils</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Lincoln</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Cuthrell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">S</forename><surname>Slaughter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">D</forename><surname>Enander</surname></persName>
+		</author>
+		<title level="m">Natural Features Inventory and Management Recommendations for St. John&apos;s Marsh State Wildlife Area. Michigan Natural Features Inventory Report Number 2018-07</title>
+		<meeting><address><addrLine>Lansing, MI</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2018">2018</date>
+			<biblScope unit="page">89</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Assessing the Ecological Need for Prescribed Fire in Michigan Using GIS-Based Multicriteria Decision Analysis: Igniting Fire Gaps</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">G</forename><surname>Cohen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Wilton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">D</forename><surname>Enander</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">J</forename><surname>Bassett</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diversity</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Evidence for decline in eastern North American bumblebees (Hymenoptera: Apidae), with special reference to Bombus affinis Cresson</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Colla</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Packer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biodiversity and Conservation</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="1379" to="1391" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<monogr>
+		<title level="m" type="main">Michigan&apos;s Native Landscape, As Interpreted from the GLO Surveys</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Comer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Albert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">A</forename><surname>Wells</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">L</forename><surname>Hart</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Raab</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Price</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Kashian</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Corner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">W</forename><surname>Schuen</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1995">1995</date>
+			<publisher>Michigan Natural Features Inventory</publisher>
+			<biblScope unit="page" from="1816" to="1856" />
+			<pubPlace>Lansing, MI, USA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<monogr>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Cuthrell</surname></persName>
+		</author>
+		<title level="m">Special animal abstract for Papaipema beeriana (blazing star borer). Michigan Natural Features Inventory</title>
+		<meeting><address><addrLine>Lansing, MI</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<monogr>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Dechant</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Sondreal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">H</forename><surname>Johnson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">D</forename><surname>Igl</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Goldade</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">P</forename><surname>Nenneman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">R</forename><surname>Euliss</surname></persName>
+		</author>
+		<title level="m">Effects of management practices on grassland birds: Grasshopper Sparrow</title>
+		<meeting><address><addrLine>Jamestown, ND</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1998">1998. 2002</date>
+			<biblScope unit="page">28</biblScope>
+		</imprint>
+		<respStmt>
+			<orgName>Northern Prairie Wildlife Research Center</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">The Lepidoptera of New York and Neighboring States. Noctuidae, part III. Memoir 329</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">T</forename><surname>Forbes</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cornell Univ. Ag. Exp. Station</title>
+		<imprint>
+			<biblScope unit="volume">433</biblScope>
+			<date type="published" when="1954">1954</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Decline of bumble bees (Bombus) in the North American Midwest</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Grixti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">T</forename><surname>Wong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">A</forename><surname>Cameron</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Favret</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biological Conservation</title>
+		<imprint>
+			<biblScope unit="volume">142</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="75" to="84" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<monogr>
+		<title level="m" type="main">Conserving bumble bees. guidelines for creating and managing habitat for America&apos;s declining pollinators</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Hatfield</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Jepsen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Mader</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">H</forename><surname>Black</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Shepherd</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2012">2012</date>
+			<publisher>The Xerces Society for Invertebrate Conservation</publisher>
+			<pubPlace>Portland, Oregon</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Warming summer temperatures are rapidly restructuring North American bumble bee communities</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Hemberger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">M</forename><surname>Williams</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ecology Letters</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="issue">8</biblScope>
+			<biblScope unit="page">14492</biblScope>
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Confronting a biome crisis: global disparities of habitat loss and protection</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Hoekstra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">M</forename><surname>Boucher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">H</forename><surname>Ricketts</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Roberts</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ecology Letters</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="23" to="29" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Agricultural practices that conserve grassland birds</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Hyde</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Campbell</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">MI</title>
+		<imprint>
+			<date type="published" when="2012">2012</date>
+		</imprint>
+		<respStmt>
+			<orgName>Michigan State University Extension, East Lansing</orgName>
+		</respStmt>
+	</monogr>
+	<note>Publication No. E3190. 22 pp</note>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Exotic species drive patterns of plant species diversity in 93 restored tallgrass prairies</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">D</forename><surname>Kaul</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">J</forename><surname>Wilsey</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ecological Applications</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page">2252</biblScope>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Partners in Flight Bird Conservation Plan for The Upper Great Lakes Plain (Physiographic Area 16)</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">G</forename><surname>Knutson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Butcher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Fitzgerald</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Shieldcastle</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">USGS Upper Midwest Environmental Sciences Center in cooperation with Partners in Flight</title>
+		<meeting><address><addrLine>La Crosse, Wisconsin</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2001">2001</date>
+			<biblScope unit="page">59</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Impact of prairie age and soil order on carbon and nitrogen sequestration</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">H</forename><surname>Kucharik</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Soil Science Society of America Journal</title>
+		<imprint>
+			<biblScope unit="volume">71</biblScope>
+			<biblScope unit="page" from="430" to="441" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">A paired study of prairie carbon stocks, fluxes and phenology: comparing the world&apos;s oldest prairie restoration with an adjacent remnant</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">J</forename><surname>Kucharik</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">J</forename><surname>Fayram</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">N</forename><surname>Cahill</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Global Change Biology</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="122" to="139" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Gradients in the composition, structure, and diversity of remnant oak savannas in southern Wisconsin</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Lincoln</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">G</forename><surname>Cohen ; Leach</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">K</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">J</forename><surname>Givnish</surname></persName>
+		</author>
+		<idno>Number 2022-02</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Ecological Monographs</title>
+		<imprint>
+			<biblScope unit="volume">69</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="353" to="374" />
+			<date type="published" when="1999">2022. 1999</date>
+			<pubPlace>Lansing, MI</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="report_type">Michigan Natural Features Inventory Report</note>
+	<note>An Ecological Evaluation of Portage Creek Complex at Camp Grayling</note>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">The economic value of grassland ecosystem services: A global meta-analysis</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Hou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Kang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Nan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Huang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Grassland Research</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="63" to="74" />
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Landscape predictors of pathogen prevalence and range contractions in US bumblebees</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">H</forename><surname>Mcart</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Urbanowicz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Mccoshum</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">E</forename><surname>Irwin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">S</forename><surname>Adler</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Proceedings of the Royal Society B</title>
+		<imprint>
+			<biblScope unit="volume">284</biblScope>
+			<biblScope unit="page">20172181</biblScope>
+			<date type="published" when="1867">2017. 1867</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<monogr>
+		<title level="m" type="main">Monitoring bird species of greatest conservation need in Michigan grasslands and savannas</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">I</forename><surname>Lansing</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Monfils</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">A</forename><surname>Cole-Wick</surname></persName>
+		</author>
+		<idno>No. 2022-26</idno>
+		<imprint>
+			<date type="published" when="2022">2025. 2022</date>
+			<publisher>Michigan Natural Features Inventory</publisher>
+			<biblScope unit="page">35</biblScope>
+			<pubPlace>Lansing, MI</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="report_type">Report</note>
+	<note>Michigan Natural Heritage Database</note>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<monogr>
+		<title level="m" type="main">Monitoring of high priority bird species at Camp Grayling Joint Maneuver Training Center</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Monfils</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">C</forename><surname>Branch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">A</forename><surname>Cole-Wick</surname></persName>
+		</author>
+		<idno>No. 2023-24</idno>
+		<imprint>
+			<date type="published" when="2023">2023</date>
+			<publisher>Michigan Natural Features Inventory</publisher>
+			<biblScope unit="page">32</biblScope>
+			<pubPlace>Lansing</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="report_type">Report</note>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">92 pp. National Wild Pheasant Technical Committee. 2021. National wild pheasant conservation plan</title>
+	</analytic>
+	<monogr>
+		<title level="m">Agencies of the National Wild Pheasant Conservation Plan and Partnerships</title>
+		<editor>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Talor</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Washington, DC</addrLine></address></meeting>
+		<imprint>
+			<publisher>National Fish, Wildlife, and Plants Climate Adaptation Network</publisher>
+			<date type="published" when="2021">2021</date>
+			<biblScope unit="volume">162</biblScope>
+		</imprint>
+	</monogr>
+	<note>Advancing the national fish, wildlife, and plants climate adaptation strategy into a new decade. Second edition</note>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<monogr>
+		<title level="m" type="main">NatureServe Network Biodiversity Location Data accessed through NatureServe Explorer</title>
+		<author>
+			<persName><surname>Natureserve</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2025">2025</date>
+		</imprint>
+	</monogr>
+	<note>web application</note>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Arlington</forename><surname>Natureserve</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Virginia</forename></persName>
+		</author>
+		<ptr target="https://explorer.natureserve.org/" />
+		<imprint>
+			<date type="published" when="2025-05">May 2025</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<monogr>
+		<title level="m" type="main">Special animal abstract for Ammodramus savannarum (grasshopper sparrow)</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Norris</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2014">2014</date>
+			<publisher>Michigan Natural Features Inventory</publisher>
+			<biblScope unit="page">4</biblScope>
+			<pubPlace>Lansing, MI</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">Ground layer vegetation gradients across oak woodland canopy gaps</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">B</forename><surname>Pavlovic</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Grundel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Sluis</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Torrey Botanical Society</title>
+		<imprint>
+			<biblScope unit="volume">133</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="225" to="239" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">Global pollinator declines: trends, impacts and drivers</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">G</forename><surname>Potts</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Biesmeijer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Kremen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Neumann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Schweiger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">E</forename><surname>Kunin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Trends in ecology &amp; evolution</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="345" to="353" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">Prairie plant phenology driven more by temperature than moisture in climate manipulations across a latitudinal gradient in the Pacific Northwest</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">B</forename><surname>Reed</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">E</forename><surname>Pfeifer-Meister</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">A</forename><surname>Roy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">R</forename><surname>Johnson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">T</forename><surname>Bailes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">A</forename><surname>Nelson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">C</forename><surname>Boulay</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">T</forename><surname>Hamman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">D</forename><surname>Bridgham</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">USA. Ecology and evolution</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="3637" to="3650" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<monogr>
+		<title level="m" type="main">Cowbird parasitism in a fragmented landscape: effects of tract size, habitat and abundance of cowbirds and hosts. Ecology and management of cowbirds and their hosts: studies in the conservation of North American passerine birds</title>
+		<author>
+			<persName><forename type="first">Scott</forename><forename type="middle">K</forename><surname>Robinson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Hoover</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Herkert</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2000">2000</date>
+			<publisher>University of Texas Press</publisher>
+			<biblScope unit="page" from="280" to="297" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<monogr>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">M</forename><surname>Rowe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Cuthrell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Earl</surname></persName>
+		</author>
+		<title level="m">Surveys for Blazing Star Borer Moth and Secretive Locust in Michigan. Michigan Natural Features Inventory Report No. 2023-34</title>
+		<meeting><address><addrLine>Lansing, MI</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2023">2023</date>
+			<biblScope unit="page">33</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<monogr>
+		<title level="m" type="main">Status Assessment and Conservation Plan for the Grasshopper Sparrow (Ammodramus savannarum). Version 1.0 U.S. Fish and Wildlife Service</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Ruth</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2015">2015</date>
+			<biblScope unit="volume">109</biblScope>
+			<pubPlace>Lakewood, Colorado</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<analytic>
+		<title level="a" type="main">Prairie conservation in North America</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Samson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Knopf</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">BioScience</title>
+		<imprint>
+			<biblScope unit="volume">44</biblScope>
+			<biblScope unit="page" from="418" to="421" />
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<monogr>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Sauer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">A</forename><surname>Link</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Hines</surname></persName>
+		</author>
+		<idno type="DOI">10.5066/P96A7675</idno>
+		<ptr target="https://doi.org/10.5066/P96A7675" />
+		<title level="m">The North American Breeding Bird Survey, Analysis Results 1966-2019: U.S. Geological Survey data release</title>
+		<imprint>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<monogr>
+		<title level="m" type="main">Conservation and management of North American bumble bees</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">F</forename><surname>Schweitzer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">A</forename><surname>Capuano</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">E</forename><surname>Young</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">R</forename><surname>Colla</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2012">2012</date>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page">pp</biblScope>
+			<pubPlace>NatureServe, Arlington, Virginia, and USDA Forest Service, Washington, D.C</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<analytic>
+		<title level="a" type="main">The effects of management practices on grassland birds-Grasshopper Sparrow (Ammodramus savannarum) (ver. 1.1</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Shaffer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">D</forename><surname>Igl</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">H</forename><surname>Johnson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Sondreal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Goldade</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">P</forename><surname>Nenneman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">L</forename><surname>Wooten</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">R</forename><surname>Euliss</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">H</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">D</forename><surname>Igl</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Shaffer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Delong</surname></persName>
+		</author>
+		<idno type="DOI">10.3133/pp1842GG</idno>
+		<ptr target="https://doi.org/10.3133/pp1842GG" />
+	</analytic>
+	<monogr>
+		<title level="m">The effects of management practices on grassland birds: U.S. Geological Survey Professional Paper 1842</title>
+		<imprint>
+			<date type="published" when="2021-05">2021. May 2023</date>
+			<biblScope unit="page">59</biblScope>
+		</imprint>
+	</monogr>
+	<note>chapter GG of Johnson,</note>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<monogr>
+		<title level="m" type="main">Upper Mississippi / Great Lakes Joint Venture Landbird Habitat Conservation Strategy -2020 Revision</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">J</forename><surname>Soulliere</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Al-Saffar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">R</forename><surname>Vanbeek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Tonra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">D</forename><surname>Nelson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">N</forename><surname>Ewert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Will</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">E</forename><surname>Thogmartin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">E</forename><surname>O'brien</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">W</forename><surname>Kendrick</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Gillet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Herkert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">E</forename><surname>Gnass Geises</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">P</forename><surname>Ward</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Graff</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2020">2020</date>
+			<publisher>U.S. Fish and Wildlife Service</publisher>
+			<biblScope unit="page">134</biblScope>
+			<pubPlace>Bloomington, Minnesota, USA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<monogr>
+		<author>
+			<persName><surname>State Of Michigan</surname></persName>
+		</author>
+		<title level="m">Terrestrial Invasive Species Management Plan</title>
+		<meeting><address><addrLine>Lansing, MI</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2024">2024</date>
+			<biblScope unit="page">46</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<analytic>
+		<title level="a" type="main">The history and challenge of grassy biomes</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>Strömberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">C</forename><surname>Staver</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">377</biblScope>
+			<biblScope unit="issue">6606</biblScope>
+			<biblScope unit="page" from="592" to="593" />
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<analytic>
+		<title level="a" type="main">Persist in place or shift in space? Evaluating the adaptive capacity of species to climate change</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">L</forename><surname>Thurman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Stein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Beever</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Foden</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Sr Geange</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Green</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Gross</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Lawrence</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Ledee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">M</forename><surname>Jd Olden</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Thompson</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Young</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Frontiers in Ecology and Evolution</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="issue">9</biblScope>
+			<biblScope unit="page" from="520" to="528" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b53">
+	<analytic>
+		<title level="a" type="main">The Prairie Peninsula</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">N</forename><surname>Transeau</surname></persName>
+			<affiliation>
+				<orgName type="collaboration">USDA Forest Service</orgName>
+			</affiliation>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Conservation Assessment for Blazing Star Borer Moth (Papaipema beeriana)</title>
+		<meeting><address><addrLine>Milwaukee, Wisconsin</addrLine></address></meeting>
+		<imprint>
+			<publisher>USDA Forest Service</publisher>
+			<date type="published" when="1935">1935. 2003</date>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page" from="423" to="437" />
+		</imprint>
+	</monogr>
+	<note>Eastern Region (USFS)</note>
+</biblStruct>
+
+<biblStruct xml:id="b54">
+	<monogr>
+		<title level="m" type="main">Eastern Prairie Fringed Orchid (Platanthera leucophaea) Recovery Plan</title>
+		<imprint>
+			<date type="published" when="1999">1999</date>
+			<publisher>U.S. Fish and Wildlife Service (USFWS)</publisher>
+			<biblScope unit="page">62</biblScope>
+			<pubPlace>Fort Snelling; Minnesota</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b55">
+	<analytic>
+		<title level="a" type="main">Recovery Plan for the Rusty Patched Bumble Bee (Bombus affinis)</title>
+	</analytic>
+	<monogr>
+		<title level="j">Midwest Regional Office</title>
+		<imprint>
+			<biblScope unit="issue">16</biblScope>
+			<date type="published" when="2021">2021</date>
+			<publisher>U.S. Fish and Wildlife Service</publisher>
+			<pubPlace>Bloomington, MN</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b56">
+	<monogr>
+		<title level="m" type="main">Pollinator-friendly Best Management Practices for Federal Lands</title>
+		<imprint>
+			<date type="published" when="2015">2015</date>
+			<publisher>U.S. Forest Service (USFS)</publisher>
+			<biblScope unit="volume">52</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b57">
+	<analytic>
+		<title level="a" type="main">Grasshopper Sparrow (Ammodramus savannarum), version 1.0</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">D</forename><surname>Vickery</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Birds of the World</title>
+		<editor>
+			<persName><forename type="first">A</forename><forename type="middle">F</forename><surname>Poole</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">F</forename><forename type="middle">B</forename><surname>Gill</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Ithaca, NY, USA</addrLine></address></meeting>
+		<imprint>
+			<publisher>Cornell Lab of Ornithology</publisher>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b58">
+	<analytic>
+		<title level="a" type="main">Plant invasions in the landscape</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Vila</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Ibanez</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Landscape Ecology</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="461" to="472" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>
+

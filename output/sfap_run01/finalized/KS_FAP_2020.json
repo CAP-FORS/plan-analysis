@@ -1,0 +1,765 @@
+{
+  "document_meta": {
+    "title": "Kansas Forest Action Plan 2020",
+    "year": 2020,
+    "jurisdiction": "Kansas",
+    "document_type": "Forest Action Plan",
+    "document_id": "KS_FAP_2020",
+    "page_count": 164
+  },
+  "orientation": {
+    "summary": "The Kansas Forest Action Plan 2020 (KS FAP 2020) is a state-level forest resource planning document required under the 2008 Farm Bill, covering Kansas forest conditions, threats, and strategies. It engages with climate change primarily in the context of carbon sequestration, forest management, and the mention of climate-driven threats to forest health (drought, wildfire, pest/disease facilitated by climate), but treats range shift science only peripherally—primarily through the USDA Forest Service Tree Atlas tool used to identify tree species projected to gain or lose abundance under future climate scenarios. The document does not perform original climate modeling or vulnerability assessments, but does substantively incorporate Tree Atlas output (GCM-based species distribution projections to 2100) into management recommendations for specific tree species. Connectivity is discussed in the context of habitat fragmentation and wildlife corridors but without explicit climate-shift framing. The document proposes spatially explicit priority areas for conservation through GIS-based analysis (HUC-14 watershed prioritization, Forest Legacy Program areas) but actions are primarily oriented toward forest health, water quality, wildfire, and urban forestry rather than climate-driven range shifts specifically.",
+    "evidence_index": [
+      {
+        "text": "A changing climate, catastrophic fires, effects of development, and a three-fold increase in insect-induced mortality in the last decade threaten this resource.",
+        "location": "Population section (Chapter 1)",
+        "relevant_elements": ["1.1", "3.5", "3.6"]
+      },
+      {
+        "text": "Longer growing and wildfire seasons, increased incidence of pest and disease, and climate-related mortality associated with drought and flooding are some examples. These changes are associated with increasing concentrations of atmospheric carbon dioxide (CO 2 ) and other GHG.",
+        "location": "Why Kansas Forests are Important to Mitigate Climate Change (Table section, Chapter 2)",
+        "relevant_elements": ["1.1", "3.5", "3.6", "3.7"]
+      },
+      {
+        "text": "Changes in long-term patterns of temperature and precipitation have affected Kansas forests growth and mortality.",
+        "location": "Why Kansas Forests are Important to Mitigate Climate Change (Table section, Chapter 2)",
+        "relevant_elements": ["1.1", "3.5"]
+      },
+      {
+        "text": "Planting tree species that will be resilient to projected changes in climate is an important strategy. Models like the USDA Forest Service, Northern Research Station's, Tree Atlas (www.nrs.fs.fed.us/atlas/tree/#) will help guide the promotion of species like bur oak, American basswood, American plum and pecan who appear on the \"winner's list\" for climate adaptability (Table 2.3).",
+        "location": "Table section – Carbon Stocks / Tree Planting (Chapter 2)",
+        "relevant_elements": ["1.2", "2.2", "2.3", "4.1", "4.5"]
+      },
+      {
+        "text": "Tree Atlas assesses current status (2000) and potential future status (2100) of tree species following climate change. Tree Atlas uses USDA Forest Service Forest Inventory and Analysis data with 38 environmental variables to generate models of current suitable habitat for each species. Then they change the climate according to a General Circulation Model (GCM) from Mild...to Harsh with an average of 3 GCMs under high carbon emission or business as usual.",
+        "location": "Table section – Carbon Stocks / Tree Planting (Chapter 2)",
+        "relevant_elements": ["2.2", "2.3", "1.3"]
+      },
+      {
+        "text": "Table 2.3. Gcm3AvgHiDif column (General Climate Model 3, Average High Difference), represents trees predicted to be 'Winners' -those that will increase in abundance, using the average of three climate models: Hadley, Parallel, and Geophysical Fluid Dynamics. A high-carbon scenario was used since the current carbon emission pathway is more aligned to a harsh scenario.",
+        "location": "Table 2.3",
+        "relevant_elements": ["2.2", "2.3"]
+      },
+      {
+        "text": "Many forest ecosystems are dependent on fire for their health and sustainability. Decades of fire suppression and a changing climate have disrupted natural fire regimes, resulting in fuel buildup, loss of biological diversity, changed species composition, and loss of some fire-dependent species.",
+        "location": "National Themes and Strategic Objectives (Appendix A section)",
+        "relevant_elements": ["3.5", "3.7"]
+      },
+      {
+        "text": "Forest range, type and composition are projected to change significantly-with corresponding changes in wildlife habitat, biodiversity, water flows, and fire regimes.",
+        "location": "Manage and restore trees and forests to mitigate and adapt to global climate change (Appendix A table section)",
+        "relevant_elements": ["1.1", "3.3", "3.5"]
+      },
+      {
+        "text": "Resource strategies should attempt to maintain and enhance resilient and connected forest ecosystems that will continue to provide public benefits in a changing climate.",
+        "location": "Manage and restore trees and forests to mitigate and adapt to global climate change (Appendix A table section)",
+        "relevant_elements": ["1.4", "4.5"]
+      },
+      {
+        "text": "Potential data layers: Climate change modeling such as the Climate Change Atlas, Northern and Southern Forest Futures forecast data",
+        "location": "Manage and restore trees and forests to mitigate and adapt to global climate change (Appendix A table section)",
+        "relevant_elements": ["2.2", "2.3"]
+      },
+      {
+        "text": "Woody encroachment into grasslands and related factors have been indirectly responsible for population declines in grassland obligate species such as greater and lesser prairie chicken, and Henslow's sparrow due primarily to predation.",
+        "location": "Future Conditions (Rural Forests, Chapter 2)",
+        "relevant_elements": ["3.6", "3.7"]
+      },
+      {
+        "text": "Forest fragmentation, conversion and interruption of wildlife corridors will continue in the suburban interface with forested land due to the increase of urban and community land development.",
+        "location": "Specific Issues in Kansas (Appendix D – Wildlife and Fish Habitat section)",
+        "relevant_elements": ["1.4", "3.1"]
+      },
+      {
+        "text": "Acres and percent of priority habitat areas where State and Private Forestry activities are protecting, conserving and enhancing wildlife and fish habitat and acres of connected forests resulting from State and Private Forestry investments will serve as performance measures.",
+        "location": "Resources Required and Performance Measures for Protecting and Restoring Forest Biodiversity and Wildlife Habitat",
+        "relevant_elements": ["4.1", "4.3"]
+      },
+      {
+        "text": "The assessment and strategy will also be revised as new data becomes available with a 5-year review in 2025.",
+        "location": "Summary of Priority Areas Threats and Benefits Composite Maps",
+        "relevant_elements": ["4.3"]
+      },
+      {
+        "text": "Declines in water tables, as a result of irrigation, drought, and changes in flood regimes, will continue to contribute to the reduction of cottonwood regeneration.",
+        "location": "Future Conditions (Rural Forests, Chapter 2)",
+        "relevant_elements": ["3.5", "3.6"]
+      },
+      {
+        "text": "The Cross Timbers can help us understand relevant issues such as climate change and the importance of biodiversity.",
+        "location": "Table – Cross Timbers Legacy Program Area (Chapter 4)",
+        "relevant_elements": ["1.1"]
+      },
+      {
+        "text": "Without altering the density of forest stands through timber harvest, prescribed fire, or forest stand improvement practices, regeneration of desirable species like black walnut and oaks will be reduced, potentially changing forest composition to more shade-loving species.",
+        "location": "Future Conditions (Rural Forests, Chapter 2)",
+        "relevant_elements": ["3.7"]
+      },
+      {
+        "text": "Warming has allowed invasive cheatgrass to expand its range into higher elevations previously dominated by native bunchgrasses.",
+        "location": "N/A – not present in document",
+        "relevant_elements": ["3.7"]
+      },
+      {
+        "text": "pests and diseases are facilitated and magnified by the various abiotic stressors that are a reality of the Great Plains; including drought, flooding, extreme weather events, and highly alkaline soils.",
+        "location": "ASSESSMENTS AND STRATEGIES (Chapter 3 intro)",
+        "relevant_elements": ["3.5", "3.6"]
+      },
+      {
+        "text": "Global Climate Change 566 90",
+        "location": "Table 2.1 – Top concerns of Kansas forestland owners",
+        "relevant_elements": ["1.1"]
+      },
+      {
+        "text": "Annual reports are provided to the USDA Forest Service, Rocky Mountain Region 2, State and Private Forestry, to document the effectiveness of program funding to address the issues in the Kansas Forest Action Plan.",
+        "location": "Introduction (Chapter 1)",
+        "relevant_elements": ["4.3"]
+      },
+      {
+        "text": "These priority areas have been further grouped into priority landscapes and named (Figure 3.17).",
+        "location": "Summary of Priority Areas Threats and Benefits Composite Maps",
+        "relevant_elements": ["4.1"]
+      },
+      {
+        "text": "Threats to forest health include insects, disease, invasive plant and animal species, air pollution, and climate change.",
+        "location": "National Theme: Enhance Public Benefits from Trees and Forests (Appendix A table section)",
+        "relevant_elements": ["1.1", "3.5"]
+      },
+      {
+        "text": "The mature to over-mature canopy has been further degraded by repetitive storms, drought, flooding over the last decade, and pending and impending insect and disease issues.",
+        "location": "Community Canopy Loss (Chapter 2)",
+        "relevant_elements": ["3.5", "3.6"]
+      },
+      {
+        "text": "Wayne: Could we look at an Analysis of Species that do well with climate change, especially in the community forestry. Bob: Nothing that goes into detail within the plan outside narrative in the climate change section.",
+        "location": "Meeting minutes / Q&A (Appendix meeting notes)",
+        "relevant_elements": ["1.1", "2.2"]
+      },
+      {
+        "text": "Kansas Forest Service will use i-Tree County Benefit reports to communicate the ecological, environmental, economic, social and health benefits of the existing canopy",
+        "location": "Technology section (Chapter 2 – Climate Change Effects)",
+        "relevant_elements": ["4.5"]
+      },
+      {
+        "text": "The urban and community forest will be assessed through inventory to target defective and hazardous trees for removal...a tree planting program will be initiated to increase species diversity.",
+        "location": "Strategy for Sustaining and Protecting Forest and Agroforestry Ecosystems",
+        "relevant_elements": ["4.1", "4.3"]
+      },
+      {
+        "text": "Protection of forest biodiversity and wildlife habitat for species of greatest conservation need and threatened and endangered species.",
+        "location": "Goals and Objectives of FLP in Kansas (Chapter 4)",
+        "relevant_elements": ["4.1", "3.3"]
+      },
+      {
+        "text": "The Kansas Department of Wildlife, Parks and Tourism (KDWPT) authored the Kansas State Wildlife Action Plan in 2015. In the plan, they established 'Terrestrial Ecological Focus Areas' across the state",
+        "location": "Figure caption / GIS Methodology – Protecting and Restoring Forest Biodiversity and Wildlife Habitat",
+        "relevant_elements": ["3.3", "4.1"]
+      },
+      {
+        "text": "Lack of fire occurrence in Kansas grasslands is one factor that has caused eastern redcedar volume to increase by 23,000% over the last 45 years invading grasslands and adversely affecting the populations of a variety of species identified in the Kansas Wildlife Action Plan",
+        "location": "Appendix D – Wildfire Risk section",
+        "relevant_elements": ["3.7"]
+      },
+      {
+        "text": "Kansas Forest Service has offered specific prescribed fire training in the management of eastern red cedar and other invasives.",
+        "location": "Accomplishments toward Reducing Wildfire Risk (Appendix D)",
+        "relevant_elements": ["4.2"]
+      }
+    ]
+  },
+  "concepts": {
+    "climate_vulnerability": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "A changing climate, catastrophic fires, effects of development, and a three-fold increase in insect-induced mortality in the last decade threaten this resource.",
+          "location": "Population section (Chapter 1)",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Threats to forest health include insects, disease, invasive plant and animal species, air pollution, and climate change.",
+          "location": "National Theme: Enhance Public Benefits from Trees and Forests (Appendix A table section)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document acknowledges climate change as a threat to Kansas forests and mentions climate-related mortality and forest health impacts, but does not engage the concepts of climate exposure or adaptive capacity with any specificity. Global Climate Change appears in a table of landowner concerns (Table 2.1) without elaboration. The document never uses 'climate vulnerability,' 'adaptive capacity,' or 'climate exposure' as framing concepts for its species or forest assessments. Score 1 (generic mention of climate as a threat, no decomposition into exposure or adaptive capacity)."
+    },
+    "adaptive_capacity_specificity": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Planting tree species that will be resilient to projected changes in climate is an important strategy. Models like the USDA Forest Service, Northern Research Station's, Tree Atlas (www.nrs.fs.fed.us/atlas/tree/#) will help guide the promotion of species like bur oak, American basswood, American plum and pecan who appear on the \"winner's list\" for climate adaptability",
+          "location": "Table section – Carbon Stocks / Tree Planting (Chapter 2)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document does reference climate adaptability of specific species, but it does not name or discuss specific components of adaptive capacity (e.g., dispersal, thermal tolerance, evolutionary potential). Score 1: non-specific reference."
+    },
+    "adaptive_capacity_components": {
+      "demography": {
+        "present": false,
+        "evidence": []
+      },
+      "distribution": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Tree Atlas assesses current status (2000) and potential future status (2100) of tree species following climate change...to generate models of current suitable habitat for each species.",
+            "location": "Table section – Carbon Stocks / Tree Planting (Chapter 2)",
+            "sub_component": null,
+            "citations": []
+          },
+          {
+            "text": "Forest range, type and composition are projected to change significantly-with corresponding changes in wildlife habitat, biodiversity, water flows, and fire regimes.",
+            "location": "Manage and restore trees and forests to mitigate and adapt to global climate change (Appendix A table section)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "movement": {
+        "present": false,
+        "evidence": []
+      },
+      "evolutionary_potential": {
+        "present": false,
+        "evidence": []
+      },
+      "ecological_dependencies": {
+        "present": false,
+        "evidence": []
+      },
+      "abiotic_niche": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Tree Atlas uses USDA Forest Service Forest Inventory and Analysis data with 38 environmental variables to generate models of current suitable habitat for each species. Then they change the climate according to a General Circulation Model (GCM) from Mild...to Harsh with an average of 3 GCMs under high carbon emission or business as usual.",
+            "location": "Table section – Carbon Stocks / Tree Planting (Chapter 2)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "life_history": {
+        "present": false,
+        "evidence": []
+      }
+    },
+    "connectivity": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Forest fragmentation, conversion and interruption of wildlife corridors will continue in the suburban interface with forested land due to the increase of urban and community land development.",
+          "location": "Specific Issues in Kansas (Appendix D – Wildlife and Fish Habitat section)",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "acres of connected forests resulting from State and Private Forestry investments will serve as performance measures.",
+          "location": "Resources Required and Performance Measures for Protecting and Restoring Forest Biodiversity and Wildlife Habitat",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document discusses wildlife corridors and habitat connectivity in the context of fragmentation from development, but these are not framed in relation to climate-driven range shifts. The connectivity discussion is generic (preventing fragmentation for wildlife habitat) without any climate-gradient or range-shift framing. Score 1: generic connectivity referenced, not climate-relevant."
+    }
+  },
+  "tools": {
+    "vulnerability_models": {
+      "evaluable": true,
+      "score": 0,
+      "named_tools": [],
+      "evidence": [],
+      "absence_note": "No vulnerability models (CCVI, PVA, etc.) are referenced in the document. The plan does not conduct or cite any formal climate vulnerability assessment for its focal species or habitats."
+    },
+    "niche_models": {
+      "evaluable": true,
+      "score": 2,
+      "named_tools": ["Tree Atlas", "Climate Change Tree Atlas"],
+      "evidence": [
+        {
+          "text": "Models like the USDA Forest Service, Northern Research Station's, Tree Atlas (www.nrs.fs.fed.us/atlas/tree/#) will help guide the promotion of species like bur oak, American basswood, American plum and pecan who appear on the \"winner's list\" for climate adaptability (Table 2.3).",
+          "location": "Table section – Carbon Stocks / Tree Planting (Chapter 2)",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Tree Atlas assesses current status (2000) and potential future status (2100) of tree species following climate change. Tree Atlas uses USDA Forest Service Forest Inventory and Analysis data with 38 environmental variables to generate models of current suitable habitat for each species.",
+          "location": "Table section – Carbon Stocks / Tree Planting (Chapter 2)",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Table 2.3. Gcm3AvgHiDif column (General Climate Model 3, Average High Difference), represents trees predicted to be 'Winners' -those that will increase in abundance, using the average of three climate models: Hadley, Parallel, and Geophysical Fluid Dynamics.",
+          "location": "Table 2.3",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The Tree Atlas is a species distribution model that is explicitly applied to the document's focal tree species in Kansas (Table 2.3 lists species with projected changes in relative abundance). Results are incorporated into planting recommendations. This qualifies as applied (score 2)."
+    },
+    "climate_models": {
+      "evaluable": true,
+      "score": 2,
+      "named_tools": ["General Circulation Model (GCM)", "Hadley", "Parallel", "Geophysical Fluid Dynamics"],
+      "evidence": [
+        {
+          "text": "Then they change the climate according to a General Circulation Model (GCM) from Mild, an average of 3 GCMs under low carbon emissions where there is active human intervention to curb carbon emissions, to Harsh with an average of 3 GCMs under high carbon emission or business as usual.",
+          "location": "Table section – Carbon Stocks / Tree Planting (Chapter 2)",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Table 2.3. Gcm3AvgHiDif column (General Climate Model 3, Average High Difference), represents trees predicted to be 'Winners'...using the average of three climate models: Hadley, Parallel, and Geophysical Fluid Dynamics. A high-carbon scenario was used since the current carbon emission pathway is more aligned to a harsh scenario. The trees are listed in descending order by percent change in predicted relative abundance by the year 2100.",
+          "location": "Table 2.3",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "GCMs (Hadley, Parallel, Geophysical Fluid Dynamics) are applied through the Tree Atlas to project species distribution changes for Kansas focal tree species to 2100. This constitutes application of climate model outputs to the document's focal subjects. No formal RCP/SSP scenario labels are used, but a 'high carbon/business as usual' vs 'low carbon' scenario distinction is made.",
+      "time_horizon_years": [2100],
+      "emission_scenarios": []
+    },
+    "connectivity_models": {
+      "evaluable": true,
+      "score": 0,
+      "named_tools": [],
+      "evidence": [],
+      "absence_note": "The document does not reference any connectivity modeling tools (CircuitScape, Linkage Mapper, least-cost path models, etc.). Connectivity is discussed qualitatively as a concern but without underlying quantitative modeling."
+    }
+  },
+  "context": {
+    "management_scale": {
+      "local": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Local Community Wildfire Protection Plans (CWPP) will further target priority areas to restore native prairie and mitigate wildfire impacts.",
+            "location": "Strategy for Issues that Create Wildfire Risk (Chapter 3)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "site": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The greater Baldwin Woods site showing landowner tracts within the project area of interest (numbered tracts).",
+            "location": "Acknowledgements / Appendix E",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "watershed": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "In order to create the Priority Resource Areas...the unclassified Assessment layer cell values were aggregated to HUC-14 watershed boundaries.",
+            "location": "Summary of Priority Areas Threats and Benefits Composite Maps (Chapter 3)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "city": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "On a local level, an Urban Canopy Study (UTC) for the City of Wichita, completed in 2017, yielded the following results: 22% tree canopy, 33% impervious surface, and 45% Potential Plantable Area",
+            "location": "UTC Study, Wichita, Kansas (Chapter 2)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "county": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Johnson, Wyandotte, and Leavenworth counties grew in population from 2015-2016 by 7,426 residents.",
+            "location": "NRI Report (Chapter 2)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "within_state_region": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Nine Landscape Priority Areas were created to focus future work (Figure 3.17). These areas were delineated along broad ecological and/or issue related themes.",
+            "location": "Summary of Priority Areas Threats and Benefits Composite Maps (Chapter 3)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "state": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Kansas rural forests comprise 2,483,060 acres (roughly 5% of the state's total land area) with 92.49% privately owned",
+            "location": "Population section (Chapter 1)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "multistate": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Seven multi-state or regional issues and areas have been identified (Figure 3.18) and are listed below. Some issues and areas represent ongoing projects and programs.",
+            "location": "Multi-State/Regional Issues and Priority Areas (Chapter 3)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "national": {
+        "present": false,
+        "evidence": []
+      },
+      "transnational": {
+        "present": false,
+        "evidence": []
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "In the shortgrass and central mixed grass prairie ecosystems, riparian forests, and shrubs are declining due to a lowering water table from surface water and groundwater depletion.",
+            "location": "Strategy for Sustaining Water Quality and Quantity (Chapter 3)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecoregion": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The following Level III ecoregion descriptions are provided by the United States Environmental Protection Agency (Chapman et al., 2001) and based on the original map compilation by Omernik (1987).",
+            "location": "Introduction – Geography of Kansas (Chapter 1)",
+            "sub_component": null,
+            "citations": ["Chapman et al., 2001", "Omernik (1987)"]
+          }
+        ]
+      },
+      "province": {
+        "present": false,
+        "evidence": []
+      },
+      "section": {
+        "present": false,
+        "evidence": []
+      },
+      "subsection": {
+        "present": false,
+        "evidence": []
+      },
+      "lake": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Tuttle Creek Lake and Milford Lakes are the major reservoirs.",
+            "location": "Northern Flint Hills Forest Legacy Program Area (Chapter 4)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "river": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The Arkansas, Cimarron, and Rattlesnake among the most heavily impacted.",
+            "location": "Tamarisk (Chapter 3)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "district": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The Great Plains Initiative 2, a grant from the USDA Forest Service, will provide updated inventory data on windbreak condition and location as well as a statewide GIS tree canopy layer for the first time.",
+            "location": "Accomplishments toward Sustaining and Protecting Forest and Agroforestry Ecosystems",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "named_entities": ["Flint Hills", "Cimarron", "Glaciated Region", "Cross Timbers", "Wooded Plains", "Republican River Watershed", "Kansas City Metro", "HUC-14 watersheds", "Arkansas River", "Rattlesnake Creek"]
+    },
+    "biological_unit_score": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Forest range, type and composition are projected to change significantly-with corresponding changes in wildlife habitat, biodiversity, water flows, and fire regimes.",
+          "location": "Manage and restore trees and forests to mitigate and adapt to global climate change (Appendix A table section)",
+          "sub_component": "ecosystem/community",
+          "citations": []
+        },
+        {
+          "text": "Tree Atlas assesses current status (2000) and potential future status (2100) of tree species following climate change.",
+          "location": "Table section – Carbon Stocks / Tree Planting (Chapter 2)",
+          "sub_component": "species",
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "biological_unit_components": {
+      "species": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Table 2.3...represents trees predicted to be 'Winners' -those that will increase in abundance, using the average of three climate models...The trees are listed in descending order by percent change in predicted relative abundance by the year 2100.",
+            "location": "Table 2.3",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "population": {
+        "present": false,
+        "evidence": []
+      },
+      "habitat": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Forest range, type and composition are projected to change significantly-with corresponding changes in wildlife habitat, biodiversity, water flows, and fire regimes.",
+            "location": "Manage and restore trees and forests to mitigate and adapt to global climate change (Appendix A table section)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "In the shortgrass and central mixed grass prairie ecosystems, riparian forests, and shrubs are declining due to a lowering water table from surface water and groundwater depletion.",
+            "location": "Strategy for Sustaining Water Quality and Quantity (Chapter 3)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "community": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Decades of fire suppression and a changing climate have disrupted natural fire regimes, resulting in fuel buildup, loss of biological diversity, changed species composition, and loss of some fire-dependent species.",
+            "location": "National Themes and Strategic Objectives (Appendix A section)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "genotype_phenotype": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["bur oak", "American basswood", "boxelder", "eastern redcedar", "emerald ash borer", "bush honeysuckle", "tamarisk", "black walnut", "greater prairie chicken", "lesser prairie chicken", "Henslow's sparrow", "eastern spotted skunk", "Topeka shiner", "Neosho madtom", "piping plover"]
+    },
+    "partnerships_and_funding": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "These partnerships have resulted in meaningful outcomes not likely attainable through a unilateral Kansas Forest Service effort. However, limited resources have also led to only the highest-priority issues being effectively addressed, and in many cases, short-term grant funding has made sustaining these efforts impossible.",
+          "location": "Resources Required / Performance Measures (Chapter 3 Forest Health section)",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Kansas Forest Service lacks necessary funding to support a full time coordinator for the Forest Legacy Program which is necessary for its success in Kansas.",
+          "location": "Table – Cross Timbers Legacy Program Area (Chapter 4)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document describes multiple partnerships (NRCS, Kansas Department of Agriculture, Kansas Department of Wildlife and Parks, Heartland Tree Alliance, Great Plains Initiative, etc.) and some funding mechanisms (EQIP, Forest Legacy Program, state wildfire suppression fund). However, these are largely for general forest management, not specifically for range-shift science or climate adaptation. Funding gaps are explicitly noted. Score 1: some funding and partnerships described, but limited and with acknowledged gaps."
+    },
+    "climate_threat_habitat_degradation": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Longer growing and wildfire seasons, increased incidence of pest and disease, and climate-related mortality associated with drought and flooding are some examples. These changes are associated with increasing concentrations of atmospheric carbon dioxide (CO 2 ) and other GHG.",
+          "location": "Why Kansas Forests are Important to Mitigate Climate Change (Table section, Chapter 2)",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Changes in long-term patterns of temperature and precipitation have affected Kansas forests growth and mortality.",
+          "location": "Why Kansas Forests are Important to Mitigate Climate Change (Table section, Chapter 2)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_threat_species_vital_rates": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "climate-related mortality associated with drought and flooding are some examples. These changes are associated with increasing concentrations of atmospheric carbon dioxide (CO 2 ) and other GHG.",
+          "location": "Why Kansas Forests are Important to Mitigate Climate Change (Table section, Chapter 2)",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Longer growing and wildfire seasons, increased incidence of pest and disease, and climate-related mortality associated with drought and flooding are some examples.",
+          "location": "Why Kansas Forests are Important to Mitigate Climate Change (Table section, Chapter 2)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document references 'climate-related mortality' linked to GHG/CO2 concentration increases, which is a direct vital rate effect framed as climate-driven. This meets the threshold for score 1."
+    },
+    "climate_threat_biotic_stressors": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Decades of fire suppression and a changing climate have disrupted natural fire regimes, resulting in fuel buildup, loss of biological diversity, changed species composition, and loss of some fire-dependent species.",
+          "location": "National Themes and Strategic Objectives (Appendix A section)",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Forest range, type and composition are projected to change significantly-with corresponding changes in wildlife habitat, biodiversity, water flows, and fire regimes.",
+          "location": "Manage and restore trees and forests to mitigate and adapt to global climate change (Appendix A table section)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document discusses climate-driven changes in species composition and community structure (changed species composition from fire exclusion combined with climate change; forest range and type projected to change). Eastern redcedar encroachment is discussed extensively but primarily framed as a fire/management issue rather than a climate-driven invasion. However, the Appendix A national guidance text explicitly frames changed species composition as a result of a changing climate, which qualifies for score 1."
+    }
+  },
+  "actions": {
+    "priority_habitat_identification": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Nine Landscape Priority Areas were created to focus future work (Figure 3.17). These areas were delineated along broad ecological and/or issue related themes.",
+          "location": "Summary of Priority Areas Threats and Benefits Composite Maps (Chapter 3)",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "From this layer the 'Moderate -High' and 'High' classes were selected for a final 'Priority Resource Areas' map (Figure 3.15).",
+          "location": "Summary of Priority Areas Threats and Benefits Composite Maps (Chapter 3)",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Forest Legacy Areas have been identified based on the threat of conversion -mostly in the east, surrounding larger cities -and environmentally important forest areas (water quality, rare species, patch size, etc.).",
+          "location": "Determining Boundaries of FLP Areas (Chapter 4)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "Priority habitat is extensively spatially represented through GIS-based HUC-14 watershed prioritization maps, nine named landscape priority areas, and Forest Legacy Program area maps (Figures 3.13–3.17, 4.1–4.7). These are climate-adjacent (addressing threats including climate change effects on forests) but primarily driven by threats and benefits generally rather than climate-driven range shifts specifically. Score 2 is warranted because the spatial representation of priority habitats is explicit and map-based."
+    },
+    "targeted_range_shift_actions": {
+      "evaluable": true,
+      "score": 0,
+      "evidence": [],
+      "absence_note": "The document does not propose targeted actions to manage climate-driven species range shifts. Planting climate-resilient tree species is mentioned (Tree Atlas winners list), but this is framed as general forestry/carbon sequestration strategy, not as facilitating or responding to range shifts. There is no assisted migration, translocation for climate adaptation, or explicit climate corridor construction. The connectivity discussion is about preventing fragmentation from urban development, not facilitating climate-driven shifts. Score 0."
+    },
+    "time_bound_and_monitoring": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "The assessment and strategy will also be revised as new data becomes available with a 5-year review in 2025.",
+          "location": "Summary of Priority Areas Threats and Benefits Composite Maps (Chapter 3)",
+          "sub_component": "deadlines",
+          "citations": []
+        },
+        {
+          "text": "Annual reports are provided to the USDA Forest Service, Rocky Mountain Region 2, State and Private Forestry, to document the effectiveness of program funding to address the issues in the Kansas Forest Action Plan.",
+          "location": "Introduction (Chapter 1)",
+          "sub_component": "monitoring",
+          "citations": []
+        }
+      ],
+      "absence_note": "The document mentions a 5-year plan review (2025), annual reports to USDA FS, and performance measures for each strategy section. However, these are plan-level mechanisms, not action-level deadlines with specific milestones attached to individual conservation actions. The performance measures are outcome metrics (acres treated, number of inventories completed) without deadlines attached to specific actions. Score 1: clear plan-level deadlines exist, but action-level deadline + monitoring pairing does not reach score 2."
+    },
+    "evidence_of_efficacy": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "In addition, 2018 research using 57 crop years of yield monitoring data in Kansas suggests field windbreaks improved crop yields significantly for soybeans 46% of the time and wheat 30% of the time.",
+          "location": "Agroforestry – Current Conditions and Trends (Chapter 2)",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Based on the priority that the Kansas Forest Service and partners identified...efforts to address tamarisk infestation along the important Rattlesnake Creek watershed in central Kansas resulted in several successful grants that funded work to remove tamarisk and restore riparian systems along this stream.",
+          "location": "Appendix D – Threats to Forest Health section",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Since 2010, more than 7 miles of shelterbelts have been renovated sustaining crop yield, wildlife and soil conservation benefits to more than 700 acres of cropland.",
+          "location": "Accomplishments toward Sustaining and Protecting Forest and Agroforestry Ecosystems",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document provides limited-to-moderate evidence of efficacy. Prior project outcomes are documented (Rattlesnake Creek, windbreak renovation, riparian buffer establishment) and some research citations are provided (57 crop years windbreak yield data). However, the evidence for climate-specific adaptation actions is thin — the Tree Atlas species recommendation is based on modeled projections, not field-tested outcomes. Score 2: limited but real evidence from prior projects implemented in Kansas conditions.",
+      "projects": ["Rattlesnake Creek tamarisk removal project: Successfully removed tamarisk and restored riparian systems along this watershed in central Kansas, resulting in meaningful partnerships; evidence supports efficacy of targeted invasive plant control in riparian systems.", "Kansas Forest Service windbreak renovation program (since 2010): More than 7 miles of shelterbelts renovated, sustaining crop yields and wildlife benefits to 700+ acres; provides direct evidence of windbreak restoration efficacy in Kansas conditions.", "Riparian buffer establishment (2011-2018): Kansas Forest Service restored 12 miles of streams in high-priority watersheds establishing 75 riparian forest buffers, preventing 200,598 cubic yards of sediment from entering reservoirs and saving $9.3 million in dredging costs annually."]
+    },
+    "adaptation_planning_frameworks": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Resource strategies should attempt to maintain and enhance resilient and connected forest ecosystems that will continue to provide public benefits in a changing climate.",
+          "location": "Manage and restore trees and forests to mitigate and adapt to global climate change (Appendix A table section)",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Manage and restore trees and forests to mitigate and adapt to global climate change.",
+          "location": "National Themes and Strategic Objectives (Appendix A table section)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document references climate adaptation as a planning goal (mitigate and adapt to global climate change) and uses the Tree Atlas to inform climate-adaptive tree species selection. However, no named adaptation planning frameworks (RAD, RRT, SBDA, structured decision making, adaptation menus, CCVA, etc.) are explicitly used or referenced. The planning approach is a standard forest assessment/strategy structure, not a named climate adaptation planning framework. Score 1: climate adaptation planning is referenced non-specifically as a goal, without named frameworks."
+    }
+  },
+  "coding_meta": {
+    "coder": "llm:claude-sonnet-4-6",
+    "model": "claude-sonnet-4-6",
+    "provider": "claude",
+    "codebook_version": "0.4",
+    "ingest": "text",
+    "design": "single",
+    "temperature": null,
+    "thinking": null,
+    "thinking_effort": null,
+    "coded_at": "2026-07-07T00:31:31Z",
+    "notes": {}
+  }
+}

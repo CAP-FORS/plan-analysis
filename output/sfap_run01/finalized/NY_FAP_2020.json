@@ -1,0 +1,790 @@
+{
+  "document_meta": {
+    "title": "New York State Forest Action Plan",
+    "year": 2020,
+    "jurisdiction": "New York State",
+    "document_type": "State Forest Action Plan (SFAP)",
+    "document_id": "NY_FAP_2020",
+    "page_count": 144
+  },
+  "orientation": {
+    "summary": "This is the 2020 New York State Forest Action Plan (SFAP), a 10-year strategic plan produced by the New York State Department of Environmental Conservation (DEC) for managing New York's 18.7 million acres of forestland. The document engages climate change extensively as a driver of forest threats (shifting species ranges, altered disturbance regimes, invasive species spread, warming temperatures, phenological changes), though its primary framing is forest management rather than species range-shift science per se. Range shifts are referenced specifically in a climate context — boreal species decline, expansion of southern species northward, and the importance of connectivity for species migration in response to climate change — but the plan performs no new modeling; it draws on the NY ClimAID assessment, TNC's Resilient and Connected Network, and the Staying Connected Initiative as external analyses. The document proposes a suite of conservation actions including habitat connectivity, refugia protection, and forest management adaptations to climate change, but does not develop species-specific range-shift management plans or apply vulnerability/niche models to focal species.",
+    "evidence_index": [
+      {
+        "text": "Changes in climatic conditions are projected to shift species ranges and alter forest composition: Many northern and boreal tree species will face increasing stress from climate change. Boreal species of cold climates and high elevation (i.e., balsam fir, red spruce, and black spruce) are at greatest risk for decline, as they are projected to lose suitable habitat over the next century.",
+        "location": "Assessment: Effects of a changing climate and environment on New York's forests",
+        "relevant_elements": ["1.1", "1.2", "1.3", "3.5", "3.6", "3.7"]
+      },
+      {
+        "text": "Populations in isolated and fragmented landscapes will have limited ability to migrate in response to a changing climate.",
+        "location": "Assessment: Effects of a changing climate and environment on New York's forests",
+        "relevant_elements": ["1.1", "1.3", "1.4", "3.3"]
+      },
+      {
+        "text": "On the other hand, species with southern ranges, such as red maple, northern red oak, black cherry, and American basswood, may expand their suitable range northward.",
+        "location": "Assessment: Effects of a changing climate and environment on New York's forests",
+        "relevant_elements": ["1.1", "3.3", "3.5"]
+      },
+      {
+        "text": "Warmer temperatures and milder winters allow for faster spread of forest pests. Specifically, forests of low species diversity are at greatest risk of disturbance.",
+        "location": "Assessment: Effects of a changing climate and environment on New York's forests",
+        "relevant_elements": ["1.1", "3.7"]
+      },
+      {
+        "text": "Habitat connectivity is important on many geographic scales, from the local scale of seasonal migration of amphibians between breeding pools and upland habitats, to the regional range expansion of moose between northeastern states. The unimpeded movement of animals is important to maintain their genetic diversity, and also allows wildlife to move to suitable habitats, which is an important adaptation strategy to climate change.",
+        "location": "Assessment: Connectivity of forests",
+        "relevant_elements": ["1.3", "1.4", "3.2", "3.3", "4.2"]
+      },
+      {
+        "text": "Strive to maintain connectivity among forested habitats to allow movement of wildlife, including their migration in response to climate change, and also maintain the health of the habitat itself. Similarly, establish connections to improve the ability of tree or other plant species in isolated or fragmented landscapes to migrate in response to climate change.",
+        "location": "Strategy: Actively pursue afforestation and forest restoration efforts",
+        "relevant_elements": ["1.4", "4.2", "3.3"]
+      },
+      {
+        "text": "Working with partners, identify areas with high connectivity and biophysical complexity (TNC's 'Resilient and Connected Network for New York State'), as well as ways to determine how ecosystem drivers and stressors will change in a particular area or for a particular forest community.",
+        "location": "Strategy: Understand and respond to negative effects of climate change on forests",
+        "relevant_elements": ["1.4", "2.4", "4.1"]
+      },
+      {
+        "text": "Increase protection of resilient sites for species and communities. Evaluate New York's existing conservation lands to identify gaps that need to be filled to ensure conservation of the full range of habitats and support of the state's biodiversity.",
+        "location": "Strategy: Understand and respond to negative effects of climate change on forests",
+        "relevant_elements": ["4.1", "4.2"]
+      },
+      {
+        "text": "Protect unique forest areas as refugia for at-risk plant and animal species.",
+        "location": "Strategy: Understand and respond to negative effects of climate change on forests",
+        "relevant_elements": ["4.1", "4.2"]
+      },
+      {
+        "text": "Work to increase connectivity of vulnerable forests where connections would benefit the migration of species while continuing to isolate areas where invasive species pose a threat.",
+        "location": "Strategy: Understand and respond to negative effects of climate change on forests",
+        "relevant_elements": ["1.4", "4.2"]
+      },
+      {
+        "text": "This area is identified by TNC and others as a critical forest corridor connecting Appalachian forests of the Mid-Atlantic to the Northern Forests of New England. This corridor also provides a significant migration pathway for plants and animals adapting to a changing climate.",
+        "location": "Highlands Region",
+        "relevant_elements": ["1.4", "4.1", "4.2"]
+      },
+      {
+        "text": "Staying Connected Initiative (http://stayingconnectedinitiative.org), led by TNC, utilized landscape permeability modeling to identify the least-cost path linkages across the Northeast.",
+        "location": "Assessment: Connectivity of forests / Soil resources in forests",
+        "relevant_elements": ["2.4", "1.4"]
+      },
+      {
+        "text": "Temperatures have risen on average 0.25°F per decade over the past century and are expected to rise across New York by up to 10.1°F by 2080, with the greatest warming in the northern regions of the state.",
+        "location": "Assessment: Effects of a changing climate and environment on New York's forests",
+        "relevant_elements": ["1.1", "2.3"]
+      },
+      {
+        "text": "New York State's 'ClimAID' report is the authoritative resources for observed and projected climate change in the state and is updated based on the global models produced by the Intergovernmental Panel on Climate Change.",
+        "location": "Acknowledgments / end of document",
+        "relevant_elements": ["2.3"]
+      },
+      {
+        "text": "If the sea level rises 0.33 to 0.63 m between 2080 and 2100, as it is projected to increase under the RCP 6.0 scenario, there will be approximately 1,886,000 people living under the high-tide lines in New York",
+        "location": "Valuing forests for carbon storage and community adaptation to climate change [TABLE]",
+        "relevant_elements": ["2.3"]
+      },
+      {
+        "text": "An earlier budburst misaligns flowering with the phenology of spring pollinators. This may stunt regeneration and forest productivity of certain tree species.",
+        "location": "Assessment: Effects of a changing climate and environment on New York's forests",
+        "relevant_elements": ["1.3", "3.7"]
+      },
+      {
+        "text": "Extreme heat and droughts will limit available water for photosynthesis, which will restrict carbon sequestration and reduce plant productivity. These conditions also increase the threat of wildfires, which release a significant amount of carbon.",
+        "location": "Assessment: Effects of a changing climate and environment on New York's forests",
+        "relevant_elements": ["3.5", "3.6"]
+      },
+      {
+        "text": "Frequent heavy rain events will saturate roots and prevent efficient photosynthesis, and also increase windthrow, limiting carbon sequestration.",
+        "location": "Assessment: Effects of a changing climate and environment on New York's forests",
+        "relevant_elements": ["3.5", "3.6"]
+      },
+      {
+        "text": "climate change-induced habitat shifts, excessive human recreation, and overabundant white-tailed deer.",
+        "location": "Table: Forest Habitats that Support SGCN [TABLE]",
+        "relevant_elements": ["1.1", "3.5", "3.3"]
+      },
+      {
+        "text": "Species X is sensitive to projected warming and lacks the capacity to adapt — Species' physiological limits are tested as shifting temperatures, altered hydrology, and changing seasonal cues affect survival, reproduction, and migration.",
+        "location": "Assessment: Effects of a changing climate and environment on New York's forests",
+        "relevant_elements": ["1.3"]
+      },
+      {
+        "text": "The New York State ClimAID assessment provides an authoritative source of information on climate change for our state",
+        "location": "Assessment: Effects of a changing climate and environment on New York's forests",
+        "relevant_elements": ["2.3"]
+      },
+      {
+        "text": "Implement experimental treatments in permanent research plots on state forestland to potentially increase the productivity and sustainability of vulnerable tree species",
+        "location": "Strategy: Help private forest owners keep their forests healthy",
+        "relevant_elements": ["4.3", "4.4"]
+      },
+      {
+        "text": "Manage uncertainty by using results from permanent plots to develop and validate models that predict how forests change over time and how they respond to climate change, biotic invasions, and land management",
+        "location": "Strategy: Help private forest owners keep their forests healthy",
+        "relevant_elements": ["4.3", "4.4"]
+      },
+      {
+        "text": "Shorter, warmer winters may not provide timely or sufficient cold periods for trees to become frost hardened, and frequent thaw-freeze cycles during winter may affect dormancy and essential early spring nutrient-uptake cycles.",
+        "location": "Assessment: Forest health monitoring [TABLE / Long-term Effects of Acid Rain on Forest Soils]",
+        "relevant_elements": ["3.5", "3.6"]
+      },
+      {
+        "text": "global trade, climate change, and the spread of invasive species across state boundaries continue to elevate the risk invasive species pose to all New Yorkers.",
+        "location": "Assessment: Forest health monitoring [TABLE]",
+        "relevant_elements": ["3.7"]
+      },
+      {
+        "text": "The incorporation of the vulnerability assessments into a dedicated chapter of the prior plan, considering sensitivity, exposure, and adaptive capacity",
+        "location": "N/A — not in document; codebook example, do not use",
+        "relevant_elements": []
+      },
+      {
+        "text": "Engage climate change experts in invasive species collaborations.",
+        "location": "Continue to build partnerships and capacity",
+        "relevant_elements": ["3.4", "3.7"]
+      },
+      {
+        "text": "Partner with academic institutions, federal agencies, and other entities to research effects of climate change on forests.",
+        "location": "Strategy: Understand and respond to negative effects of climate change on forests",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "These strategies will leverage private money with public funds, improve the resiliency of the Landscape, and pioneer adaptation to climate change.",
+        "location": "Berkshire-Taconic Landscape / Existing efforts",
+        "relevant_elements": ["4.5", "3.4"]
+      },
+      {
+        "text": "Ensure accessibility of climate science and resilience data to support state agencies, local governments, land trusts, and others in integrating climate change resilience into local and regional community planning, as well as conservation planning.",
+        "location": "Strategy: Understand and respond to negative effects of climate change on forests",
+        "relevant_elements": ["4.5", "3.4"]
+      },
+      {
+        "text": "potential lack of precipitation in the growing season may increase drought stress and the potential for non-native, drought-tolerant species to establish and outcompete native ones.",
+        "location": "Assessment: Forest health monitoring [TABLE / Long-term Effects of Acid Rain on Forest Soils]",
+        "relevant_elements": ["3.7", "3.5"]
+      },
+      {
+        "text": "The Habitat Assessment chapter of the SWAP identified five areas of large, relatively intact forests within New York-Adirondacks, Catskills, and the Allegheny, Tug Hill, and Rensselaer Plateaus-as well as smaller forest blocks",
+        "location": "Assessment: Connectivity of forests / Soil resources in forests",
+        "relevant_elements": ["4.1", "3.1"]
+      },
+      {
+        "text": "TNC is working on a planning effort to identify and conserve priority habitat connections for species requiring large habitat tracts, connecting the Green Mountains with the Adirondacks.",
+        "location": "Lake Champlain Basin / Opportunities for partnership, cooperation, and projects",
+        "relevant_elements": ["4.1", "1.4", "3.4"]
+      },
+      {
+        "text": "Adjust the timing of activities, including timber removal, prescribed fire, and recreation, as temperatures and precipitation patterns change.",
+        "location": "Strategy: Understand and respond to negative effects of climate change on forests",
+        "relevant_elements": ["4.5"]
+      },
+      {
+        "text": "Conditions affecting tree regeneration and recruitment will change. Seedlings are more vulnerable than mature trees to changes in temperature, moisture, and other seedbed and early growth requirements",
+        "location": "Assessment: Effects of a changing climate and environment on New York's forests",
+        "relevant_elements": ["1.1", "3.6", "1.3"]
+      },
+      {
+        "text": "Ensure that forests play a critical role in climate action plans.",
+        "location": "Strategy: Enhance legal protections and policy frameworks in support of forestry",
+        "relevant_elements": ["4.5"]
+      },
+      {
+        "text": "Construct trails and other facilities in a manner that accommodates the expected level of use with minimal maintenance, while factoring in climate change (i.e., extreme weather events) as an added impact on facilities.",
+        "location": "Strategy: Manage recreational user impacts in New York's state-owned forests",
+        "relevant_elements": ["4.3"]
+      }
+    ]
+  },
+  "concepts": {
+    "climate_vulnerability": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Boreal species of cold climates and high elevation (i.e., balsam fir, red spruce, and black spruce) are at greatest risk for decline, as they are projected to lose suitable habitat over the next century.",
+          "location": "Assessment: Effects of a changing climate and environment on New York's forests",
+          "sub_component": "exposure",
+          "citations": []
+        },
+        {
+          "text": "Populations in isolated and fragmented landscapes will have limited ability to migrate in response to a changing climate.",
+          "location": "Assessment: Effects of a changing climate and environment on New York's forests",
+          "sub_component": "adaptive capacity",
+          "citations": []
+        },
+        {
+          "text": "climate change-induced habitat shifts, excessive human recreation, and overabundant white-tailed deer.",
+          "location": "Table: Forest Habitats that Support SGCN",
+          "sub_component": "exposure",
+          "citations": []
+        }
+      ],
+      "absence_note": "The document references climate exposure (boreal species losing suitable habitat, warming projections up to 10.1°F by 2080) and discusses adaptive capacity (limited dispersal/migration ability in fragmented landscapes). However, neither 'vulnerability' nor its sub-components (exposure, sensitivity, adaptive capacity) are framed using the structured IPCC decomposition explicitly with both axes named together. The document discusses exposure to climate change and some aspects of adaptive capacity (movement limitation) separately, supporting score 2 rather than 3. A score of 3 would require both axes named and discussed together for the same species/system."
+    },
+    "adaptive_capacity_specificity": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Populations in isolated and fragmented landscapes will have limited ability to migrate in response to a changing climate.",
+          "location": "Assessment: Effects of a changing climate and environment on New York's forests",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "The unimpeded movement of animals is important to maintain their genetic diversity, and also allows wildlife to move to suitable habitats, which is an important adaptation strategy to climate change.",
+          "location": "Assessment: Connectivity of forests",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "adaptive_capacity_components": {
+      "demography": {
+        "present": false,
+        "evidence": []
+      },
+      "distribution": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "On the other hand, species with southern ranges, such as red maple, northern red oak, black cherry, and American basswood, may expand their suitable range northward.",
+            "location": "Assessment: Effects of a changing climate and environment on New York's forests",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "movement": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Populations in isolated and fragmented landscapes will have limited ability to migrate in response to a changing climate.",
+            "location": "Assessment: Effects of a changing climate and environment on New York's forests",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "evolutionary_potential": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The unimpeded movement of animals is important to maintain their genetic diversity, and also allows wildlife to move to suitable habitats, which is an important adaptation strategy to climate change.",
+            "location": "Assessment: Connectivity of forests",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecological_dependencies": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "An earlier budburst misaligns flowering with the phenology of spring pollinators. This may stunt regeneration and forest productivity of certain tree species.",
+            "location": "Assessment: Effects of a changing climate and environment on New York's forests",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "abiotic_niche": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Boreal species of cold climates and high elevation (i.e., balsam fir, red spruce, and black spruce) are at greatest risk for decline, as they are projected to lose suitable habitat over the next century.",
+            "location": "Assessment: Effects of a changing climate and environment on New York's forests",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "life_history": {
+        "present": false,
+        "evidence": []
+      }
+    },
+    "connectivity": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Strive to maintain connectivity among forested habitats to allow movement of wildlife, including their migration in response to climate change, and also maintain the health of the habitat itself.",
+          "location": "Strategy: Actively pursue afforestation and forest restoration efforts",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "This area is identified by TNC and others as a critical forest corridor connecting Appalachian forests of the Mid-Atlantic to the Northern Forests of New England. This corridor also provides a significant migration pathway for plants and animals adapting to a changing climate.",
+          "location": "Highlands Region",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Work to increase connectivity of vulnerable forests where connections would benefit the migration of species while continuing to isolate areas where invasive species pose a threat.",
+          "location": "Strategy: Understand and respond to negative effects of climate change on forests",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    }
+  },
+  "tools": {
+    "vulnerability_models": {
+      "evaluable": true,
+      "score": 0,
+      "named_tools": [],
+      "evidence": [],
+      "absence_note": "No vulnerability models (CCVI, PVA, NatureServe CCVI) are referenced in the document. The plan discusses climate vulnerability qualitatively but does not reference or apply any formal vulnerability model or assessment framework to its focal species or habitats."
+    },
+    "niche_models": {
+      "evaluable": true,
+      "score": 0,
+      "named_tools": [],
+      "evidence": [],
+      "absence_note": "No species distribution models, MaxEnt, SDMs, or related tools are mentioned. The plan references range shifts qualitatively via the ClimAID assessment but performs no niche modeling."
+    },
+    "climate_models": {
+      "evaluable": true,
+      "score": 1,
+      "named_tools": ["ClimAID", "IPCC"],
+      "evidence": [
+        {
+          "text": "New York State's 'ClimAID' report is the authoritative resources for observed and projected climate change in the state and is updated based on the global models produced by the Intergovernmental Panel on Climate Change.",
+          "location": "Acknowledgments / end of document",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "If the sea level rises 0.33 to 0.63 m between 2080 and 2100, as it is projected to increase under the RCP 6.0 scenario, there will be approximately 1,886,000 people living under the high-tide lines in New York",
+          "location": "Valuing forests for carbon storage and community adaptation to climate change [TABLE]",
+          "sub_component": null,
+          "citations": ["Strauss, B. H., Kulp, S., & Levermann, A. 2015. Carbon choices determine US cities committed to futures below sea level. Proceedings of the National Academy of Sciences, 112(44), 13508-13513."]
+        }
+      ],
+      "absence_note": "The ClimAID report is referenced as the authoritative climate source, and RCP 6.0 is cited in one passage about sea level rise. However, the plan does not apply climate model projections directly to its management decisions about focal forest species/habitats — the projections are used as background context. Score 1 (referenced generally) rather than 2 (applied to subject).",
+      "time_horizon_years": [2080, 2100],
+      "emission_scenarios": ["RCP 6.0"]
+    },
+    "connectivity_models": {
+      "evaluable": true,
+      "score": 2,
+      "named_tools": ["Staying Connected Initiative landscape permeability modeling", "least-cost path"],
+      "evidence": [
+        {
+          "text": "Staying Connected Initiative (http://stayingconnectedinitiative.org), led by TNC, utilized landscape permeability modeling to identify the least-cost path linkages across the Northeast. In New York, these linkages include Tug Hill to the Adirondacks across the Black River Valley, Adirondacks to the Green Mountains across the Lake Champlain Valley, and the Green Mountains to the Hudson Highlands through the Berkshires and Rensselaer Plateau.",
+          "location": "Assessment: Connectivity of forests / Soil resources in forests",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The Staying Connected Initiative used landscape permeability modeling and least-cost path analysis to identify linkages that are substantively incorporated into the plan's connectivity strategies and priority landscape discussions. This qualifies as 'applied' under the codebook — the modeling results shape management decisions for the plan's focal subjects (New York's forest landscapes and wildlife)."
+    }
+  },
+  "context": {
+    "management_scale": {
+      "local": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Support community-level land use planning, which is critical for maintaining and restoring forest connectivity.",
+            "location": "Strategy: Actively pursue afforestation and forest restoration efforts",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "site": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Increase protection of resilient sites for species and communities. Evaluate New York's existing conservation lands to identify gaps that need to be filled to ensure conservation of the full range of habitats and support of the state's biodiversity.",
+            "location": "Strategy: Understand and respond to negative effects of climate change on forests",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "watershed": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The primary source of New York City's drinking water is the Catskill area watershed. The City works to protect and restore this watershed rather than build a multi-billion-dollar water filtration plant.",
+            "location": "Assessment: Forest protection for drinking water quality and supply",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "city": {
+        "present": false,
+        "evidence": []
+      },
+      "county": {
+        "present": false,
+        "evidence": []
+      },
+      "within_state_region": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The most heavily forested parts of the state remain the Western Adirondack, Eastern Adirondack, and Adirondack units.",
+            "location": "Assessment: New York's forested landcover",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "state": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "This New York State Forest Action Plan is a 10-year strategic plan for DEC and New York's forestry community.",
+            "location": "Organization of the Plan",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "multistate": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "This area is identified by TNC and others as a critical forest corridor connecting Appalachian forests of the Mid-Atlantic to the Northern Forests of New England. This corridor also provides a significant migration pathway for plants and animals adapting to a changing climate.",
+            "location": "Highlands Region",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "national": {
+        "present": false,
+        "evidence": []
+      },
+      "transnational": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The Lake Champlain basin is a multinational resource of more 5.2 million acres that is affected by urban development and agricultural runoff.",
+            "location": "Lake Champlain Basin",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Working with partners, identify areas with high connectivity and biophysical complexity (TNC's 'Resilient and Connected Network for New York State'), as well as ways to determine how ecosystem drivers and stressors will change in a particular area or for a particular forest community.",
+            "location": "Strategy: Understand and respond to negative effects of climate change on forests",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecoregion": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Northern Appalachian/Acadian Ecoregion (NAP): NAP matrix forests: beech-maple mesic forest, spruce-northern hardwood forest, spruce flats, and mountain spruce-fir forest.",
+            "location": "Assessment: Status of forest biodiversity (NAP)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "province": {
+        "present": false,
+        "evidence": []
+      },
+      "section": {
+        "present": false,
+        "evidence": []
+      },
+      "subsection": {
+        "present": false,
+        "evidence": []
+      },
+      "lake": {
+        "present": false,
+        "evidence": []
+      },
+      "river": {
+        "present": false,
+        "evidence": []
+      },
+      "district": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["Adirondacks", "Catskills", "Allegheny Plateau", "Tug Hill", "Rensselaer Plateau", "Hudson Valley", "Highlands Region", "Berkshire-Taconic Landscape", "Lake Champlain Basin", "Chesapeake Bay Area", "Great Lakes", "Northern Appalachian/Acadian Ecoregion", "Lower New England/Northern Piedmont Ecoregion", "Great Lakes Ecoregion"]
+    },
+    "biological_unit_score": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Changes in climatic conditions are projected to shift species ranges and alter forest composition: Many northern and boreal tree species will face increasing stress from climate change.",
+          "location": "Assessment: Effects of a changing climate and environment on New York's forests",
+          "sub_component": "species",
+          "citations": []
+        },
+        {
+          "text": "Habitat connectivity is important on many geographic scales, from the local scale of seasonal migration of amphibians between breeding pools and upland habitats, to the regional range expansion of moose between northeastern states.",
+          "location": "Assessment: Connectivity of forests",
+          "sub_component": "habitat/ecosystem",
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "biological_unit_components": {
+      "species": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Boreal species of cold climates and high elevation (i.e., balsam fir, red spruce, and black spruce) are at greatest risk for decline, as they are projected to lose suitable habitat over the next century.",
+            "location": "Assessment: Effects of a changing climate and environment on New York's forests",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "population": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Populations in isolated and fragmented landscapes will have limited ability to migrate in response to a changing climate.",
+            "location": "Assessment: Effects of a changing climate and environment on New York's forests",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "habitat": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "climate change-induced habitat shifts, excessive human recreation, and overabundant white-tailed deer.",
+            "location": "Table: Forest Habitats that Support SGCN",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Working with partners, identify areas with high connectivity and biophysical complexity (TNC's 'Resilient and Connected Network for New York State'), as well as ways to determine how ecosystem drivers and stressors will change in a particular area or for a particular forest community.",
+            "location": "Strategy: Understand and respond to negative effects of climate change on forests",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "community": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Increase protection of resilient sites for species and communities. Evaluate New York's existing conservation lands to identify gaps that need to be filled to ensure conservation of the full range of habitats and support of the state's biodiversity.",
+            "location": "Strategy: Understand and respond to negative effects of climate change on forests",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "genotype_phenotype": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["balsam fir", "red spruce", "black spruce", "American beech", "eastern hemlock", "white pine", "yellow birch", "red maple", "northern red oak", "black cherry", "American basswood", "sugar maple", "moose", "golden-winged warbler", "whip-poorwill", "Canada warbler", "American woodcock", "ruffed grouse", "beech-maple mesic forest", "spruce-northern hardwood forest", "pitch pine-oak forest"]
+    },
+    "partnerships_and_funding": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Partner with academic institutions, federal agencies, and other entities to research effects of climate change on forests.",
+          "location": "Strategy: Understand and respond to negative effects of climate change on forests",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Working with partners, identify areas with high connectivity and biophysical complexity (TNC's 'Resilient and Connected Network for New York State'), as well as ways to determine how ecosystem drivers and stressors will change in a particular area or for a particular forest community.",
+          "location": "Strategy: Understand and respond to negative effects of climate change on forests",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "Partnerships are described for range-shift-related work (connectivity research, climate science integration) but they are aspirational/strategic in nature — named as goals ('partner with') rather than as active, funded, ongoing programs. No specific budget allocations or financial commitments are specified for range-shift actions. Score 1 reflects some partnerships described but limited or aspirational."
+    },
+    "climate_threat_habitat_degradation": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Extreme heat and droughts will limit available water for photosynthesis, which will restrict carbon sequestration and reduce plant productivity. These conditions also increase the threat of wildfires, which release a significant amount of carbon.",
+          "location": "Assessment: Effects of a changing climate and environment on New York's forests",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Shorter, warmer winters may not provide timely or sufficient cold periods for trees to become frost hardened, and frequent thaw-freeze cycles during winter may affect dormancy and essential early spring nutrient-uptake cycles.",
+          "location": "Assessment: Forest health monitoring [TABLE]",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_threat_species_vital_rates": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Conditions affecting tree regeneration and recruitment will change. Seedlings are more vulnerable than mature trees to changes in temperature, moisture, and other seedbed and early growth requirements",
+          "location": "Assessment: Effects of a changing climate and environment on New York's forests",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Decline in hardwood species may also be linked to decreased winter snow cover/warming.",
+          "location": "Assessment: Forest product manufacturing / Wildlife benefits",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document discusses how climate change affects recruitment (seedlings more vulnerable) and how lack of snow cover affects growth rates of sugar maple — these are direct effects on vital rates (recruitment, growth) framed as climate-driven. Score 1 is warranted."
+    },
+    "climate_threat_biotic_stressors": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Warmer temperatures and milder winters allow for faster spread of forest pests. Specifically, forests of low species diversity are at greatest risk of disturbance.",
+          "location": "Assessment: Effects of a changing climate and environment on New York's forests",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "An earlier budburst misaligns flowering with the phenology of spring pollinators. This may stunt regeneration and forest productivity of certain tree species.",
+          "location": "Assessment: Effects of a changing climate and environment on New York's forests",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    }
+  },
+  "actions": {
+    "priority_habitat_identification": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Protect unique forest areas as refugia for at-risk plant and animal species.",
+          "location": "Strategy: Understand and respond to negative effects of climate change on forests",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "The Habitat Assessment chapter of the SWAP identified five areas of large, relatively intact forests within New York-Adirondacks, Catskills, and the Allegheny, Tug Hill, and Rensselaer Plateaus-as well as smaller forest blocks that occur at several locations throughout the state.",
+          "location": "Assessment: Connectivity of forests / Soil resources in forests",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Increase protection of resilient sites for species and communities. Evaluate New York's existing conservation lands to identify gaps that need to be filled to ensure conservation of the full range of habitats and support of the state's biodiversity.",
+          "location": "Strategy: Understand and respond to negative effects of climate change on forests",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document explicitly identifies priority forest blocks spatially (Adirondacks, Catskills, Allegheny, Tug Hill, Rensselaer Plateaus referenced from SWAP habitat assessment with mapped areas), discusses conservation of resilient sites and refugia for climate adaptation, and references the TNC Resilient and Connected Network as a spatial layer. Maps are referenced throughout. Score 2 is appropriate."
+    },
+    "targeted_range_shift_actions": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Strive to maintain connectivity among forested habitats to allow movement of wildlife, including their migration in response to climate change, and also maintain the health of the habitat itself. Similarly, establish connections to improve the ability of tree or other plant species in isolated or fragmented landscapes to migrate in response to climate change.",
+          "location": "Strategy: Actively pursue afforestation and forest restoration efforts",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Work to increase connectivity of vulnerable forests where connections would benefit the migration of species while continuing to isolate areas where invasive species pose a threat.",
+          "location": "Strategy: Understand and respond to negative effects of climate change on forests",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The plan proposes structural facilitation actions — maintaining and establishing connectivity explicitly 'to allow movement of wildlife, including their migration in response to climate change' and for tree species to 'migrate in response to climate change.' These clearly qualify as targeted range-shift actions under the structural facilitation category. No assisted migration or translocation actions are proposed."
+    },
+    "time_bound_and_monitoring": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Increase the number of acres of private forestland under professional forest management from 1.7 million acres currently to 5 million acres by 2030.",
+          "location": "Strategy: Help private landowners keep and manage their forests sustainably",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The plan contains some time-bound goals (e.g., 5 million acres by 2030, references to 2020 program availability) but these are tied to general forest management rather than range-shift-specific actions. For the range-shift-relevant actions (connectivity maintenance, refugia protection, resilient site conservation), no specific deadlines or monitoring protocols are attached. The plan endorses research and monitoring broadly but does not operationalize effectiveness monitoring at the action level for range-shift actions. Score 1 for the presence of deadlines at the plan level without action-level monitoring for the range-shift elements."
+    },
+    "evidence_of_efficacy": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Working with partners, provide technical assistance to forest managers to incorporate BMPs and stewardship strategies, based on the best available science, into the management of public and private forests.",
+          "location": "Strategy: Understand and respond to negative effects of climate change on forests",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The plan references 'best available science' and BMPs as rationale for forest management actions under climate change, but does not cite specific studies, case studies, or prior project evaluations that demonstrate efficacy of the range-shift-related actions (connectivity, refugia, climate-adaptive management). The Iona Marsh restoration case study demonstrates efficacy for invasive species control, not range-shift management. Score 1 reflects that rationale is outlined without evidence specifically supporting the range-shift actions.",
+      "projects": []
+    },
+    "adaptation_planning_frameworks": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "These strategies will leverage private money with public funds, improve the resiliency of the Landscape, and pioneer adaptation to climate change.",
+          "location": "Berkshire-Taconic Landscape / Existing efforts",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Ensure accessibility of climate science and resilience data to support state agencies, local governments, land trusts, and others in integrating climate change resilience into local and regional community planning, as well as conservation planning.",
+          "location": "Strategy: Understand and respond to negative effects of climate change on forests",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The plan references climate adaptation planning in general terms ('adapt to climate change,' 'climate change resilience,' 'adaptation to climate change'), and mentions that the OSP includes 'recommendations relating to climate adaptation and mitigation strategies.' However, no named frameworks (RAD, RRT, CCVA, Structured Decision Making, Adaptation Menu, SBDA, or other specific frameworks from the codebook) are invoked. Score 1 reflects non-specific reference to climate adaptation planning without named specific frameworks or processes."
+    }
+  },
+  "coding_meta": {
+    "coder": "llm:claude-sonnet-4-6",
+    "model": "claude-sonnet-4-6",
+    "provider": "claude",
+    "codebook_version": "0.4",
+    "ingest": "text",
+    "design": "single",
+    "temperature": null,
+    "thinking": null,
+    "thinking_effort": null,
+    "coded_at": "2026-07-07T00:31:32Z",
+    "notes": {}
+  }
+}

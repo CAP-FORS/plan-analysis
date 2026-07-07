@@ -1,0 +1,571 @@
+{
+  "document_meta": {
+    "title": "Louisiana 2020 Forest Action Plan: A Statewide Forest Resource Assessment and Strategy",
+    "year": 2020,
+    "jurisdiction": "Louisiana (state)",
+    "document_type": "Forest Action Plan / Statewide Forest Resource Assessment and Strategy",
+    "document_id": "LA_FAP_2020",
+    "page_count": 74
+  },
+  "orientation": {
+    "summary": "This is Louisiana's 2020 Forest Action Plan (FAP), a statewide forest resource assessment and strategy produced by the Louisiana Department of Agriculture and Forestry (LDAF). The document comprehensively assesses forest conditions, threats, and management strategies for Louisiana's ~13.2 million forested acres. The document's posture toward climate change is minimal and largely implicit: while drought, wildfire, hurricanes, and invasive species are discussed as threats, climate change as an anthropogenic driver is never explicitly named. Range shift science is essentially absent — there is no discussion of climate-driven distributional changes in species, assisted migration, climate corridors, or climate vulnerability frameworks. The document performs its own quantitative assessment of forest inventory data (FIA), landowner surveys, and spatial priority-area designation, but references no climate models, niche models, vulnerability models, or connectivity models in the range-shift sense.",
+    "evidence_index": [
+      {
+        "text": "For each threat, strategies are identified that can prevent further damage, mitigate current impacts, adapt to changing conditions, and enable landowners to take action as appropriate.",
+        "location": "The 2020 Forest Action Plan",
+        "relevant_elements": ["4.5"]
+      },
+      {
+        "text": "Fire occurrence and total acres burned in a fire seasons is correlated with drought conditions. History of drought conditions in Louisiana, obtained from U.S. Drought Monitor, demonstrate spikes in the state's area in Moderate, Severe, Extreme, and Exceptional drought conditions",
+        "location": "Recent Trends",
+        "relevant_elements": ["3.5", "3.6"]
+      },
+      {
+        "text": "Louisiana's coastal wetlands recede at a rate of 75 square kilometers annually-a staggering loss that impacts recreational and agricultural use as well as the State's billion-dollar seafood industry.",
+        "location": "Forests & Water",
+        "relevant_elements": ["3.5"]
+      },
+      {
+        "text": "Hurricanes and tropical storms are near-annual occurrences, and the combination of an extensive coastline and vast low-lying areas make Louisiana vulnerable to flooding. The United States' wetlands are quickly disappearing due to habitat alteration and destruction as well as natural erosion processes.",
+        "location": "INTRODUCTION",
+        "relevant_elements": ["3.5"]
+      },
+      {
+        "text": "Cogongrass is fire-adapated; it thrives in places where fire is a regular occurrence. In contrast to the frequent, low-intensity fires that characterize southern pine systems, fires fueled by cogongrass burn with higher heat intensity, spread quickly, and often result in higher tree mortality.",
+        "location": "Cogongrass",
+        "relevant_elements": ["3.7", "3.6"]
+      },
+      {
+        "text": "Pine woodland and savanna restoration efforts in Louisiana advance concomitant conservation efforts in neighboring states by increasing regional habitat availability for at-risk species, increasing size of suitable habitat patches, and facilitating habitat connectivity for wildlife dispersal and movement.",
+        "location": "Pine Woodland and Savanna Restoration",
+        "relevant_elements": ["1.4", "4.1", "4.2"]
+      },
+      {
+        "text": "CENLA FLA is also critical to protecting the Red River watershed, which is the main source of drinking water for the city of Alexandria and surrounding communities. ... CENLA FLA hosts some of the best remaining longleaf pine tracts in the southeast and is vital to maintaining habitat availability and connectivity for many species of greatest conservation need",
+        "location": "CENLA FLA",
+        "relevant_elements": ["1.4", "4.1", "3.4"]
+      },
+      {
+        "text": "Importance to wildlife habitat availability and connectivity",
+        "location": "FOREST LEGACY ASSESSMENT OF NEED",
+        "relevant_elements": ["1.4", "4.1"]
+      },
+      {
+        "text": "They are receiving information on the effects of management practices, fragmentation, wildlife corridors, and sustainability.",
+        "location": "AND MANAGE WORKING FOREST LANDSCAPES FOR MULTIPLE VALUES AND USES",
+        "relevant_elements": ["1.4"]
+      },
+      {
+        "text": "Louisiana's forests occupy more than 13.2 million acres, most of which are forested wetlands or evergreen forest. Nearly 90% of forests and timberland are privately owned",
+        "location": "TABLE OF CONTENTS",
+        "relevant_elements": ["3.1", "3.4"]
+      },
+      {
+        "text": "Each year, more than 325 bird species journey between northern breeding grounds to southern wintering grounds via the Mississippi Flyway, and Louisiana's forested wetlands play a key role in providing habitat that benefit birds and waterfowl hunters alike.",
+        "location": "Wildlife Habitat & Recreation",
+        "relevant_elements": ["3.3"]
+      },
+      {
+        "text": "The high degree of forest fragmentation in the Mississippi Alluvial Plain has had dramatic effects on wildlife especially to Louisiana black bear (Ursus americanus lutelous), freshwater mussels, and more than 70 species of neotropical migrant songbirds.",
+        "location": "Lower Mississippi Riverine Forest Province",
+        "relevant_elements": ["1.4", "3.3"]
+      },
+      {
+        "text": "LDAF will continue aerial detection and trapping efforts for bald cypress leaf-roller, emerald ash borer, forest tent caterpillar, gypsy moth, redbay ambrosia beetle, and southern pine beetle.",
+        "location": "Strategy 2: Monitor Insect and Disease Outbreaks",
+        "relevant_elements": ["4.3"]
+      },
+      {
+        "text": "Longleaf pine restoration in the Florida Parishes is a key priority of LDWF due, in part, to the presence of federally-threatened gopher tortoises on Sandy Hollow WMA and surrounding private-owned properties",
+        "location": "Pine Woodland and Savanna Restoration",
+        "relevant_elements": ["4.1", "4.2"]
+      },
+      {
+        "text": "The 2015 Louisiana State Wildlife Action Plan identifies Chinese tallow tree as a threat because it replaces native vegetation, reduces native species diversity, and negatively affects wildlife, particularly resident birds and neotropical migrants inhabiting coastal prairie",
+        "location": "Chinese Tallow Tree",
+        "relevant_elements": ["3.7"]
+      },
+      {
+        "text": "As a member of the Southern Group of State Foresters (SGSF), Louisiana is included in the SGSF Wildfire Risk Assessment project. This data portal allows the user to simulate the risk to a given area by manipulating pertinent variables.",
+        "location": "Action: Promote Wildfire Danger Awareness",
+        "relevant_elements": ["2.1", "4.5"]
+      },
+      {
+        "text": "Louisiana's 2020 forest resource assessment provides a comprehensive analysis of the forest-related conditions, trends, threats, and opportunities within the state using a combination of qualitative, quantitative, and geospatial data.",
+        "location": "The 2020 Forest Action Plan",
+        "relevant_elements": ["3.1"]
+      },
+      {
+        "text": "Louisiana has responded to requests within the South Central Compact with a total of 108 deployments in the last 10 years.",
+        "location": "CENLA FLA",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "LDAF will leverage the Forest Productivity Program (FPP) to provide financial assistance to eligible landowners for invasive pest management during site preparation and establishment of tree crops. Cost-share payments cover 75% of the total cost of implementing one or more approved forestry practices",
+        "location": "Tungoil Tree",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "Today's wildfires are typically outside the ecological norm, having higher intensity, severity, and tree mortality than fires of centuries past.",
+        "location": "Ecological Importance of Fire",
+        "relevant_elements": ["3.6"]
+      },
+      {
+        "text": "Currently, FLAs capture parishes with the highest wildland fire ignition risk and historic fire occurrence, areas with greatest risk of southern pine beetle, and dense pine plantations established in the aftermath of Hurricane Katrina.",
+        "location": "CREATING A COMMUNITY WILDFIRE PROTECTION PLAN",
+        "relevant_elements": ["4.1"]
+      },
+      {
+        "text": "Four criteria were used in determining the eligibility of these new Legacy areas: 1) large contiguous blocks of productive forest land, 2) watershed protection, 3) wildlife habitat protection, and 4) degree of threat from development.",
+        "location": "ENHANCE PUBLIC BENEFITS FROM TREES AND FORESTS",
+        "relevant_elements": ["4.1"]
+      }
+    ]
+  },
+  "concepts": {
+    "climate_vulnerability": {
+      "evaluable": true,
+      "score": 0,
+      "evidence": [],
+      "absence_note": "The document does not use the term 'climate vulnerability,' 'climate exposure,' 'adaptive capacity' (in the climate sense), or related IPCC-framework vocabulary. Threats such as drought, wildfire, and hurricanes are discussed but are not explicitly framed as climate-change-driven. The document never situates species or habitats in a climate vulnerability assessment context."
+    },
+    "adaptive_capacity_specificity": {
+      "evaluable": true,
+      "score": 0,
+      "evidence": [],
+      "absence_note": "No reference to any component of adaptive capacity in a climate-adaptation context."
+    },
+    "adaptive_capacity_components": {
+      "demography": {
+        "present": false,
+        "evidence": []
+      },
+      "distribution": {
+        "present": false,
+        "evidence": []
+      },
+      "movement": {
+        "present": false,
+        "evidence": []
+      },
+      "evolutionary_potential": {
+        "present": false,
+        "evidence": []
+      },
+      "ecological_dependencies": {
+        "present": false,
+        "evidence": []
+      },
+      "abiotic_niche": {
+        "present": false,
+        "evidence": []
+      },
+      "life_history": {
+        "present": false,
+        "evidence": []
+      }
+    },
+    "connectivity": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Pine woodland and savanna restoration efforts in Louisiana advance concomitant conservation efforts in neighboring states by increasing regional habitat availability for at-risk species, increasing size of suitable habitat patches, and facilitating habitat connectivity for wildlife dispersal and movement.",
+          "location": "Pine Woodland and Savanna Restoration",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "They are receiving information on the effects of management practices, fragmentation, wildlife corridors, and sustainability.",
+          "location": "AND MANAGE WORKING FOREST LANDSCAPES FOR MULTIPLE VALUES AND USES",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "Connectivity is referenced generically — in terms of wildlife dispersal, movement corridors, and habitat connectivity for species of conservation concern — but there is no explicit climate framing (no 'climate corridors,' 'climate-gradient connectivity,' or framing of corridors as supporting climate-driven range shifts). Score is 1, not 2."
+    }
+  },
+  "tools": {
+    "vulnerability_models": {
+      "evaluable": true,
+      "score": 0,
+      "named_tools": [],
+      "evidence": [],
+      "absence_note": "The SGSF Wildfire Risk Assessment is mentioned, but this is a wildfire risk tool for human infrastructure/community planning, not a climate vulnerability model for species or ecosystems (CCVI, PVA, etc.). No vulnerability models in the codebook sense are referenced."
+    },
+    "niche_models": {
+      "evaluable": true,
+      "score": 0,
+      "named_tools": [],
+      "evidence": [],
+      "absence_note": "No species distribution models, MaxEnt, SDMs, ENMs, or equivalent tools are referenced."
+    },
+    "climate_models": {
+      "evaluable": true,
+      "score": 0,
+      "named_tools": [],
+      "evidence": [],
+      "absence_note": "The document discusses drought (referencing the U.S. Drought Monitor for historical data) but uses no climate models, GCMs, downscaled projections, RCPs, or SSPs. The U.S. Drought Monitor is an observational/monitoring tool, not a climate projection model.",
+      "time_horizon_years": [],
+      "emission_scenarios": []
+    },
+    "connectivity_models": {
+      "evaluable": true,
+      "score": 0,
+      "named_tools": [],
+      "evidence": [],
+      "absence_note": "Connectivity is discussed qualitatively (corridors, fragmentation, habitat patches) but no connectivity modeling tools (CircuitScape, Linkage Mapper, least-cost path, etc.) are referenced or applied."
+    }
+  },
+  "context": {
+    "management_scale": {
+      "local": {
+        "present": false,
+        "evidence": []
+      },
+      "site": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "LDAF will notify Slow the Spread Program, an integrated pest management strategy funded by USDA, of emerging trends in gypsy moth activity to advance rangewide monitoring and mitigation efforts.",
+            "location": "Strategy 2: Monitor Insect and Disease Outbreaks",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "watershed": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "CENLA FLA is also critical to protecting the Red River watershed, which is the main source of drinking water for the city of Alexandria and surrounding communities.",
+            "location": "CENLA FLA",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "city": {
+        "present": false,
+        "evidence": []
+      },
+      "county": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Of 64 Louisiana parishes, 22 are estimated to be > 50 percent forested with Winn Parish having the greatest forest cover at 71 percent",
+            "location": "Forest Distribution",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "within_state_region": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The South Central Plains in northwestern Louisiana and Western Gulf Coastal Plain contain the most forested areas within the state.",
+            "location": "Forest Distribution",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "state": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Louisiana's 2020 forest resource assessment provides a comprehensive analysis of the forest-related conditions, trends, threats, and opportunities within the state using a combination of qualitative, quantitative, and geospatial data.",
+            "location": "The 2020 Forest Action Plan",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "multistate": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Pine woodland and savanna restoration efforts in Louisiana advance concomitant conservation efforts in neighboring states by increasing regional habitat availability for at-risk species, increasing size of suitable habitat patches, and facilitating habitat connectivity for wildlife dispersal and movement.",
+            "location": "Pine Woodland and Savanna Restoration",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "national": {
+        "present": false,
+        "evidence": []
+      },
+      "transnational": {
+        "present": false,
+        "evidence": []
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "CENLA FLA hosts some of the best remaining longleaf pine tracts in the southeast and is vital to maintaining habitat availability and connectivity for many species of greatest conservation need",
+            "location": "CENLA FLA",
+            "sub_component": null,
+            "citations": ["Holcomb et al. 2015"]
+          }
+        ]
+      },
+      "ecoregion": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Three major terrestrial ecological subregions, or provinces, occur across Louisiana, as described by McNab et al. (2007) and USDA Forest Service: Southeastern Mixed Forest, Outer Coastal Plain Mixed Forest, and Lower Mississippi Riverine Forest",
+            "location": "ECOLOGICAL REGIONS AND FOREST ECOSYSTEMS",
+            "sub_component": null,
+            "citations": ["McNab et al. 2007"]
+          }
+        ]
+      },
+      "province": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Three major terrestrial ecological subregions, or provinces, occur across Louisiana, as described by McNab et al. (2007) and USDA Forest Service: Southeastern Mixed Forest, Outer Coastal Plain Mixed Forest, and Lower Mississippi Riverine Forest",
+            "location": "ECOLOGICAL REGIONS AND FOREST ECOSYSTEMS",
+            "sub_component": null,
+            "citations": ["McNab et al. 2007"]
+          }
+        ]
+      },
+      "section": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Three sections occur in the Lower Mississippi Riverine Forest Province in Louisiana: Southern Mississippi Alluvial Plain, Atchafalaya and Red River Alluvial Plains, and Arkansas Alluvial Plains.",
+            "location": "Lower Mississippi Riverine Forest Province",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "subsection": {
+        "present": false,
+        "evidence": []
+      },
+      "lake": {
+        "present": false,
+        "evidence": []
+      },
+      "river": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The floodplain of the Atchafalaya River hosts the best examples of forested wetlands in the State and the largest remaining floodplain swamp in the continental U.S.",
+            "location": "Forests & Water",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "district": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["Louisiana (state)", "Florida Parishes", "Flatwoods Terrace", "Mississippi Alluvial Plain", "South Central Plains", "Western Gulf Coastal Plain", "Atchafalaya River floodplain", "Red River watershed", "Northwestern Louisiana FLA", "CENLA FLA"]
+    },
+    "biological_unit_score": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "The high degree of forest fragmentation in the Mississippi Alluvial Plain has had dramatic effects on wildlife especially to Louisiana black bear (Ursus americanus lutelous), freshwater mussels, and more than 70 species of neotropical migrant songbirds.",
+          "location": "Lower Mississippi Riverine Forest Province",
+          "sub_component": "species",
+          "citations": []
+        },
+        {
+          "text": "Bottomland hardwood forests and cypress swamps, also referred to as forested wetlands, are the dominant natural plant communities in this region.",
+          "location": "Lower Mississippi Riverine Forest Province",
+          "sub_component": "habitat",
+          "citations": []
+        }
+      ],
+      "absence_note": "Species (named species of conservation concern) and habitat types are both discussed. Score 2 for two or more biological units."
+    },
+    "biological_unit_components": {
+      "species": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Flagship species of this region include the federally-endangered red-cockaded woodpecker; Bachman's sparrow; Louisiana pine snake; and the state-threatened and endemic Louisiana Pearlshell mussel (Margaritifera hembeli)",
+            "location": "CENLA FLA",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "population": {
+        "present": false,
+        "evidence": []
+      },
+      "habitat": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Bottomland hardwood forests and cypress swamps, also referred to as forested wetlands, are the dominant natural plant communities in this region.",
+            "location": "Lower Mississippi Riverine Forest Province",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The USDA considers Chinese tallow tree a large-scale ecosystem modifier",
+            "location": "Chinese Tallow Tree",
+            "sub_component": null,
+            "citations": ["Urbatsch 2000"]
+          }
+        ]
+      },
+      "community": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Chinese privet is categorized as a Tier 1 invasive species in the Louisiana State Wildlife Action Plan (Holcomb et al. 2015) with affected communities including bottomland hardwood forest, coastal prairie, eastern and western upland longleaf pine woodland",
+            "location": "Invasive Species",
+            "sub_component": null,
+            "citations": ["Holcomb et al. 2015"]
+          }
+        ]
+      },
+      "genotype_phenotype": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["Louisiana black bear (Ursus americanus lutelous)", "freshwater mussels", "neotropical migrant songbirds", "red-cockaded woodpecker (Dryobates borealis)", "Bachman's sparrow", "Louisiana pine snake", "Louisiana Pearlshell mussel (Margaritifera hembeli)", "gopher tortoise (Gopherus polyphemus)", "longleaf pine", "bottomland hardwood forest", "cypress swamps", "cogongrass (Imperata cylindrica)", "Chinese tallow tree (Triadica sebifera)", "emerald ash borer (Agrilus planipennis)"]
+    },
+    "partnerships_and_funding": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "LDAF will leverage the Forest Productivity Program (FPP) to provide financial assistance to eligible landowners for invasive pest management during site preparation and establishment of tree crops. Cost-share payments cover 75% of the total cost of implementing one or more approved forestry practices",
+          "location": "Tungoil Tree",
+          "sub_component": "funding",
+          "citations": []
+        },
+        {
+          "text": "Pine woodland and savanna restoration efforts in Louisiana advance concomitant conservation efforts in neighboring states by increasing regional habitat availability for at-risk species, increasing size of suitable habitat patches, and facilitating habitat connectivity for wildlife dispersal and movement.",
+          "location": "Pine Woodland and Savanna Restoration",
+          "sub_component": "partnerships",
+          "citations": []
+        }
+      ],
+      "absence_note": "Partnerships and funding exist (LDAF with USDA Forest Service, LDWF, LSU AgCenter, FLP, VFA programs, South Central Compact), but none are specifically framed around range-shift science or climate-driven distributional change. Funding mechanisms described are for general forest management, fire management, and invasive species control. Score is 1 (some partnerships and funding described, but limited/aspirational in relation to any range-shift context)."
+    },
+    "climate_threat_habitat_degradation": {
+      "evaluable": true,
+      "score": 0,
+      "evidence": [],
+      "absence_note": "While drought, flooding, and hurricanes are mentioned, they are not explicitly framed as climate-change-driven threats causing habitat degradation. The document treats these as historical/recurring natural disturbances rather than manifestations of anthropogenic climate change. Wetland loss is noted but attributed to 'habitat alteration and destruction as well as natural erosion processes,' not explicitly to climate change."
+    },
+    "climate_threat_species_vital_rates": {
+      "evaluable": true,
+      "score": 0,
+      "evidence": [],
+      "absence_note": "Wildfire mortality and insect/disease mortality are discussed, but not attributed to climate change. The document frames these as ecological disturbance processes (historic fire regimes, fire suppression legacy, pest outbreaks) without invoking climate change as a causal driver of increased mortality or recruitment failure."
+    },
+    "climate_threat_biotic_stressors": {
+      "evaluable": true,
+      "score": 0,
+      "evidence": [],
+      "absence_note": "Invasive species (cogongrass, Chinese tallow tree, Chinese privet, emerald ash borer, laurel wilt) are discussed extensively, but their spread is not framed as climate-driven. Cogongrass spread is attributed to human transport and fire adaptation. No phenological mismatch, trophic asynchrony, or climate-favored invasion framing is present."
+    }
+  },
+  "actions": {
+    "priority_habitat_identification": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Currently, FLAs capture parishes with the highest wildland fire ignition risk and historic fire occurrence, areas with greatest risk of southern pine beetle, and dense pine plantations established in the aftermath of Hurricane Katrina.",
+          "location": "CREATING A COMMUNITY WILDFIRE PROTECTION PLAN",
+          "sub_component": "spatial representation",
+          "citations": []
+        },
+        {
+          "text": "Four criteria were used in determining the eligibility of these new Legacy areas: 1) large contiguous blocks of productive forest land, 2) watershed protection, 3) wildlife habitat protection, and 4) degree of threat from development.",
+          "location": "ENHANCE PUBLIC BENEFITS FROM TREES AND FORESTS",
+          "sub_component": "priority identification",
+          "citations": []
+        },
+        {
+          "text": "CENLA FLA hosts some of the best remaining longleaf pine tracts in the southeast and is vital to maintaining habitat availability and connectivity for many species of greatest conservation need",
+          "location": "CENLA FLA",
+          "sub_component": "spatial representation",
+          "citations": ["Holcomb et al. 2015"]
+        }
+      ],
+      "absence_note": "Priority habitat areas (Forest Legacy Areas — Florida Parishes FLA, Northwestern Louisiana FLA, CENLA FLA) are spatially delineated on maps (Figure 30) and described with parish-level specificity. Score 2 is warranted for spatially explicit prioritization, though the framing is general forest conservation rather than climate-driven range shift management."
+    },
+    "targeted_range_shift_actions": {
+      "evaluable": true,
+      "score": 0,
+      "evidence": [],
+      "absence_note": "No actions are proposed for managing climate-driven range shifts. Habitat restoration, connectivity, and longleaf pine restoration are discussed but are framed as general species conservation and fire management, not as responses to climate-driven distributional change. No assisted migration, climate-motivated translocation, or climate corridor construction is mentioned."
+    },
+    "time_bound_and_monitoring": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "LDAF will continue aerial detection and trapping efforts for bald cypress leaf-roller, emerald ash borer, forest tent caterpillar, gypsy moth, redbay ambrosia beetle, and southern pine beetle.",
+          "location": "Strategy 2: Monitor Insect and Disease Outbreaks",
+          "sub_component": "monitoring",
+          "citations": []
+        }
+      ],
+      "absence_note": "Monitoring activities (aerial detection, trapping, ground surveys) are described as ongoing commitments, and the plan covers a 10-year cycle. However, specific deadlines for individual conservation actions are not attached, and effectiveness monitoring at the action level is not specified. Score is 1 (clear monitoring described but no action-level deadlines paired with effectiveness monitoring)."
+    },
+    "evidence_of_efficacy": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Management and eradication of invasive species has a much higher rate of success when action is taken immediately and before the invasive pest becomes firmly established.",
+          "location": "Strategy 3: Educate Landowners & Loggers about Cleaning Equipment",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document presents rationale for actions (e.g., early detection improves invasive species control success, prescribed fire restores fire-adapted ecosystems) but does not cite empirical studies evaluating the efficacy of specific interventions. This constitutes general ecological reasoning rather than evidence from prior implemented projects. Score 1.",
+      "projects": ["The document references the 2015 Louisiana State Wildlife Action Plan for context on species of concern but does not present formal efficacy evaluations of conservation actions. Actions are generally justified by ecological first principles (e.g., early detection leads to higher eradication success) without citing studies that directly test outcomes."]
+    },
+    "adaptation_planning_frameworks": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "For each threat, strategies are identified that can prevent further damage, mitigate current impacts, adapt to changing conditions, and enable landowners to take action as appropriate.",
+          "location": "The 2020 Forest Action Plan",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document references 'adapt to changing conditions' in a generic planning context, and the overall structure of the plan (assessment → threats → strategies → monitoring) reflects adaptive management principles implicitly. However, no named climate adaptation planning frameworks (RAD, RRT, CCVA, SBDA, SDM, adaptation menus) are explicitly invoked. The 'adapt to changing conditions' phrase is not climate-specific. Score is 1 (referenced in a non-specific way) rather than 2, as no specific named framework is operationalized."
+    }
+  },
+  "coding_meta": {
+    "coder": "llm:claude-sonnet-4-6",
+    "model": "claude-sonnet-4-6",
+    "provider": "claude",
+    "codebook_version": "0.4",
+    "ingest": "text",
+    "design": "single",
+    "temperature": null,
+    "thinking": null,
+    "thinking_effort": null,
+    "coded_at": "2026-07-07T00:31:31Z",
+    "notes": {}
+  }
+}

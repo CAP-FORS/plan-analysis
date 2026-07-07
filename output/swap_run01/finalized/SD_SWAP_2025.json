@@ -1,0 +1,880 @@
+{
+  "document_meta": {
+    "title": "South Dakota Wildlife Action Plan 2025 Revision",
+    "year": 2025,
+    "jurisdiction": "South Dakota",
+    "document_type": "SWAP",
+    "document_id": "SD_SWAP_2025",
+    "page_count": 504
+  },
+  "orientation": {
+    "summary": "This is the 2025 revision of the South Dakota Wildlife Action Plan (SDWAP), a comprehensive state wildlife action plan produced by the South Dakota Department of Game, Fish and Parks (SDGFP). The document covers 245 Species of Greatest Conservation Need (SGCNs), habitat conservation strategies, conservation threats, and proposed actions across terrestrial, riparian-wetland, and aquatic systems. Climate change is acknowledged as a significant conservation threat and is discussed in dedicated sections, but the plan's primary orientation is toward habitat management, species monitoring, and partnership-building rather than deep climate adaptation planning. Range shifts are referenced in limited but specific ways: the document notes that climate change may cause species to shift distributions, describes species-level adaptive capacity assessments using a formal tool, and briefly mentions range expansions and contractions for specific taxa, but does not apply niche or connectivity models to focal species or present spatially explicit range-shift projections.",
+    "evidence_index": [
+      {
+        "text": "The ability to tolerate or adapt to predicted climate change is called adaptive capacity (AC). A familiar example of how a species must deal with drastic changes in habitat due to climate change is the polar bear.",
+        "location": "Climate Change Impacts to SGCNs",
+        "relevant_elements": ["1.1", "1.2", "1.3"]
+      },
+      {
+        "text": "SDGFP partnered with several Midwestern states to gain information on this topic. Using a USFWS CSWG award, three Michigan entities (Michigan Natural Features Inventory, Michigan Department of Natural Resources, and Michigan State University Extension) analyzed adaptive capacities for 400 animal SGCNs submitted from the states of Indiana, Minnesota, Missouri, and South Dakota.",
+        "location": "Climate Change Impacts to SGCNs",
+        "relevant_elements": ["2.1", "1.2", "1.3"]
+      },
+      {
+        "text": "The analysis used a rapid AC assessment tool that built on work by Thurman et al. (2020, 2022) and used a Microsoft Excel interface developed by the U.S. Geological Survey (USGS). The analysis framework considers 37 attributes at the species or population level organized into 7 attribute groups (Table 5.4).",
+        "location": "Climate Change Impacts to SGCNs",
+        "relevant_elements": ["2.1", "1.2", "1.3"]
+      },
+      {
+        "text": "Table 5.4 Adaptive Capacity Groups and Descriptions; from Earl et al. 2024. AC Attribute Group: Distribution, Movement, Evolutionary Potential, Ecological Role, Abiotic Niche, Life History, Demography",
+        "location": "Table 5.4",
+        "relevant_elements": ["1.3"]
+      },
+      {
+        "text": "For cold water species, we may see a decline in distribution, while warmer water species on the northern edge of their distribution may experience range expansions.",
+        "location": "Climate change -Aquatic Systems",
+        "relevant_elements": ["1.3", "3.3", "1.1"]
+      },
+      {
+        "text": "Species adapted to a more arid environment, such as ornate box turtles and common lesser earless lizards, may see their range expand if their associated habitat types increase.",
+        "location": "Conservation threats described by taxonomic groups - Amphibians and reptiles",
+        "relevant_elements": ["1.3", "3.3"]
+      },
+      {
+        "text": "Some SGCNs will be able to use these adjusted conditions. Efforts should be made to maintain similar structures to their current reference communities even with a shift in species compositions. Other SGCNs may fully depend on the specific C3 plant compositions. These species may not be able to persist in their current locations. However, if similar shifts in restoration practices are followed in neighboring states or provinces, these species may be able to use new areas representing favorable plant communities in future locations under climate change.",
+        "location": "Climate change -Terrestrial Systems",
+        "relevant_elements": ["1.3", "4.2", "1.1"]
+      },
+      {
+        "text": "Review of the downscaled climate change data from the 2014 SDWAP indicates that over the next 80 years precipitation will be greater in the winter and spring (for most of South Dakota), variable but slightly reduced during the growing season (especially summer), and temperatures will increase fairly significantly.",
+        "location": "Climate change -Terrestrial Systems",
+        "relevant_elements": ["2.3", "1.1"]
+      },
+      {
+        "text": "Cochrane and Moran (2011) prepared a climate change analysis for the 2014 SDWAP, which included projections to 2099 (Appendix R, Executive Summary; Appendix N, Full Report).",
+        "location": "Climate change -Terrestrial Systems",
+        "relevant_elements": ["2.3"]
+      },
+      {
+        "text": "To evaluate the potential effects of climate change on riparian and wetland ecosystems in South Dakota, the Downscaled Global Climate Model (DGCM) datasets and results (Appendix N) were used for this evaluation.",
+        "location": "Climate change -Riparian-wetland Systems",
+        "relevant_elements": ["2.3"]
+      },
+      {
+        "text": "SDGFP will continue to monitor climate change assessment tools. Important resources include the USGS Climate Adaptation Science Centers, NatureServe's Climate Change Vulnerability Index (CCVI), and state-specific information maintained by South Dakota State University Extension.",
+        "location": "Climate Change Impacts to SGCNs",
+        "relevant_elements": ["2.1"]
+      },
+      {
+        "text": "Future climate change is expected to exacerbate this problem. Some land managers use prescribed fire to mirror this natural process, but there remain considerable challenges to replicating the timing and intensity of natural fire regimes to produce the desired effects on vegetation.",
+        "location": "Natural disturbance processes (Chapter 5, Terrestrial Systems)",
+        "relevant_elements": ["3.5", "1.1"]
+      },
+      {
+        "text": "Nine primary challenges/threats associated with maintaining aquatic ecosystem diversity in South Dakota include: ... 9.) climate change.",
+        "location": "Aquatic Systems (Chapter 5)",
+        "relevant_elements": ["1.1", "3.5"]
+      },
+      {
+        "text": "Rising temperatures and variable precipitation patterns are expected to impact species distributions and water availability, particularly affecting wetlands and aquatic ecosystems, which are sensitive to shifts in hydroperiods and water chemistry.",
+        "location": "Summary of Key Conservation Threats - Climate change",
+        "relevant_elements": ["1.1", "3.5", "1.3"]
+      },
+      {
+        "text": "Projected increases in temperatures coupled with the projected increases and decreases in seasonal precipitation amounts are likely to have substantial effects on wetlands in South Dakota. Negative effects to biodiversity and waterfowl productivity are likely in the western part of South Dakota.",
+        "location": "Climate change -Riparian-wetland Systems",
+        "relevant_elements": ["1.1", "3.5"]
+      },
+      {
+        "text": "Warming has allowed invasive cheatgrass to expand its range... Rangelands were slowly converted from diverse shrublands to areas dominated by cheatgrass and other species.",
+        "location": "Grazing (Chapter 3)",
+        "relevant_elements": ["3.7"]
+      },
+      {
+        "text": "Some ecosystems may become more vulnerable to invasion by nonnative invasive species... The presence or amounts of some plant communities may also change with these influences.",
+        "location": "Climate change -Terrestrial Systems",
+        "relevant_elements": ["3.7"]
+      },
+      {
+        "text": "taxonomic experts predict that a variety of terrestrial invertebrates found on South Dakota's list, particularly butterflies and bumble bees, may be impacted by climate change due to changes in temperature regimes or precipitation.",
+        "location": "Conservation threats described by taxonomic groups - Terrestrial insects",
+        "relevant_elements": ["1.1", "3.6"]
+      },
+      {
+        "text": "Species with very narrow tolerances for change are less likely to persist than those with a greater ability to tolerate changes or adapt to them. The ability to tolerate or adapt to predicted climate change is called adaptive capacity (AC).",
+        "location": "Climate Change Impacts to SGCNs",
+        "relevant_elements": ["1.1", "1.2"]
+      },
+      {
+        "text": "Projects that address connectivity and provide corridors for SGCNs and other species will also remain high priorities for land management conservation action.",
+        "location": "Land Management -Terrestrial Systems (Chapter 6)",
+        "relevant_elements": ["1.4", "4.1", "4.2"]
+      },
+      {
+        "text": "These areas represent the best opportunities for voluntary ecosystem restoration or other effective management actions within South Dakota and may also include areas with large numbers of SGCN or important linkage zones.",
+        "location": "Summary of Plan Updates and Changes",
+        "relevant_elements": ["4.1", "1.4"]
+      },
+      {
+        "text": "Identification of COAs also allows for improved or renewed opportunities to build collaborative relationships with landowners and stakeholders in those landscapes",
+        "location": "Terrestrial conservation opportunity areas",
+        "relevant_elements": ["4.1", "3.4"]
+      },
+      {
+        "text": "Terrestrial COAs allow for the identification of areas that can be targeted for habitat conservation, protection, or management for the benefit of SGCNs and remaining intact native habitats.",
+        "location": "Terrestrial conservation opportunity areas",
+        "relevant_elements": ["4.1"]
+      },
+      {
+        "text": "Statewide, 73 COAs were identified through the conservation strategy and assessment process (Figure 6.18).",
+        "location": "Discussion (Chapter 6, Aquatic COAs)",
+        "relevant_elements": ["4.1"]
+      },
+      {
+        "text": "Address climate change by helping land managers with water development projects to alleviate the implications of drought and other abiotic factors.",
+        "location": "Conservation Actions Summary - Land and water management",
+        "relevant_elements": ["4.2", "4.5"]
+      },
+      {
+        "text": "Depending on climate changes, management toward historical ecosystems may not be possible, which may require changes in management objectives for flora and fauna.",
+        "location": "Climate change -Terrestrial Systems",
+        "relevant_elements": ["4.5", "1.1"]
+      },
+      {
+        "text": "Identify SGCNs that might require translocation to help their population expand and survive. Look for opportunities to reintroduce SGCNs into their native habitats and enhance habitat deficiencies to increase survival.",
+        "location": "Conservation Actions Summary - Species management",
+        "relevant_elements": ["4.2"]
+      },
+      {
+        "text": "This revision benefited from a MAFWA-led effort to better understand impacts of climate change on a sample of South Dakota's SGCNs.",
+        "location": "Summary of Plan Updates and Changes",
+        "relevant_elements": ["1.1", "2.1"]
+      },
+      {
+        "text": "SDGFP partnered with several Midwestern states to gain information on this topic... analyzed adaptive capacities for 400 animal SGCNs submitted from the states of Indiana, Minnesota, Missouri, and South Dakota. Of the species analyzed, 134 were Midwest RSGCN.",
+        "location": "Climate Change Impacts to SGCNs",
+        "relevant_elements": ["3.4", "2.1"]
+      },
+      {
+        "text": "The SDWAP is a voluntary guidance document with an emphasis on conserving biological diversity in South Dakota through partnerships and cooperation.",
+        "location": "Background",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "To be successful in avoiding future endangered species conflicts and jeopardizing unique habitats, we must engage private landowners, Native American tribes, environmental and agricultural organizations, government entities ranging from local to federal agencies",
+        "location": "Background",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "SWG funding is one example, and the South Dakota Department of Game, Fish and Parks (SDGFP) will continue to make the best use possible of this important funding source as long as it lasts.",
+        "location": "Background",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "Protecting and restoring wetlands in the eastern part of the state, particularly in locations that can capture and hold additional spring precipitation, are important conservation activities to help address projected climate change effects.",
+        "location": "Climate change -Riparian-wetland Systems",
+        "relevant_elements": ["4.1", "4.2"]
+      },
+      {
+        "text": "Proposed plans for monitoring species identified in (1) and their habitats, for monitoring the effectiveness of the conservation actions proposed in (4), and for adapting these conservation actions to respond appropriately to new information or changing conditions",
+        "location": "Key Elements and Plan Roadmap (Chapter 1)",
+        "relevant_elements": ["4.3"]
+      },
+      {
+        "text": "SDGFP will review and revise the SDWAP at a maximum of 10-year intervals.",
+        "location": "Chapter 9. Review Schedule and Framework",
+        "relevant_elements": ["4.3"]
+      },
+      {
+        "text": "An additional important conservation action topic is the evaluation of conservation projects already underway in the state. For example, if a drained wetland is restored, partners should focus on evaluating, monitoring, and researching the results of these projects to highlight their importance.",
+        "location": "Research and monitoring -Terrestrial Systems (Chapter 6)",
+        "relevant_elements": ["4.3", "4.4"]
+      },
+      {
+        "text": "Black Hills red-bellied snakes are also projected to be negatively impacted by climate change.",
+        "location": "Species profile - Black Hills Red-bellied Snake",
+        "relevant_elements": ["1.1", "3.5"]
+      },
+      {
+        "text": "A warmer, drier climate in the future could lead to more droughts and negatively impact species that depend on wetlands, such as frogs.",
+        "location": "Conservation threats - Amphibians and reptiles",
+        "relevant_elements": ["1.1", "3.5"]
+      },
+      {
+        "text": "This species is extremely vulnerable to climate change. (Lake Chub)",
+        "location": "Species profile - Lake Chub",
+        "relevant_elements": ["1.1"]
+      },
+      {
+        "text": "Terrestrial snail species may be vulnerable to climate change impacts because of occurrence in habitats at higher elevations and due to rising air temperatures, drier habitats resulting from reduced precipitation, and vegetation changes.",
+        "location": "Appendix F - Gastropods",
+        "relevant_elements": ["1.1", "1.3"]
+      },
+      {
+        "text": "Figures 5.5, 5.6, and 5.7 (NOAA National Centers for Environmental Information 2024) provide a snapshot in change over the past approximately 130 years. Figure 5.5 shows an average increase in temperature in South Dakota of about 0.2 degrees Fahrenheit per decade.",
+        "location": "Figure captions (Ch. 5 Climate change section)",
+        "relevant_elements": ["2.3", "1.1"]
+      },
+      {
+        "text": "The Central Grasslands Roadmap (CGR)... provides a visual representation of converted/altered grasslands and identifies vulnerable grasslands (depicted in yellow) that may be at risk of conversion due to agriculture, woody encroachment, or development.",
+        "location": "Conservation Threats - Terrestrial Systems (Chapter 5)",
+        "relevant_elements": ["4.1"]
+      },
+      {
+        "text": "Climate Resiliency: This layer identifies the ability of lands and waters to function under changing climate conditions. MLI Conservation Blueprint; The Nature Conservancy's Resilient Land Mapping Tool",
+        "location": "Table 6.7",
+        "relevant_elements": ["2.4", "4.1"]
+      },
+      {
+        "text": "Aquatic Network Connectivity: Prioritized areas based on the length of hydrologically connected flowlines and diversity of unfragmented aquatic habitat in the state. MLI Conservation Blueprint; TNC's Resilient Rivers dataset",
+        "location": "Table 6.7",
+        "relevant_elements": ["2.4", "1.4"]
+      },
+      {
+        "text": "closely monitored tools and communications from the MLI for the possibility of a shared classification system across state boundaries and for relevant data layers useful in review and revision of the terrestrial and aquatic COAs.",
+        "location": "Chapter 7 - SDGFP staff and their roles",
+        "relevant_elements": ["2.4"]
+      },
+      {
+        "text": "Habitat delivery is guided in a strategic fashion through research and monitoring projects generated by partners including the Habitat and Population Evaluation Team (HAPET). Figure 6.1 is a well-known example model. These spatially explicit, species-based models help ensure conservation dollars are spent in the most beneficial manner.",
+        "location": "Conservation designation and planning -Riparian-wetland Systems (Chapter 6)",
+        "relevant_elements": ["2.2", "4.1"]
+      },
+      {
+        "text": "Develop and document distribution-model methods for under-studied focal species that can incorporate the agency's institutional data sets.",
+        "location": "Chapter 7 / Acknowledgements section (MAFWA Coordinations table)",
+        "relevant_elements": ["2.2"]
+      }
+    ]
+  },
+  "concepts": {
+    "climate_vulnerability": {
+      "evaluable": true,
+      "score": 3,
+      "evidence": [
+        {
+          "text": "Species with very narrow tolerances for change are less likely to persist than those with a greater ability to tolerate changes or adapt to them. The ability to tolerate or adapt to predicted climate change is called adaptive capacity (AC).",
+          "location": "Climate Change Impacts to SGCNs",
+          "sub_component": "adaptive capacity",
+          "citations": []
+        },
+        {
+          "text": "The analysis framework considers 37 attributes at the species or population level organized into 7 attribute groups (Table 5.4). For each attribute, a value is assigned to indicate how that facet of the species' life cycle or demography may be able to respond to climate change.",
+          "location": "Climate Change Impacts to SGCNs",
+          "sub_component": "adaptive capacity",
+          "citations": ["Thurman et al. (2020, 2022)", "Earl et al. 2024"]
+        },
+        {
+          "text": "Rising temperatures and variable precipitation patterns are expected to impact species distributions and water availability, particularly affecting wetlands and aquatic ecosystems, which are sensitive to shifts in hydroperiods and water chemistry.",
+          "location": "Summary of Key Conservation Threats - Climate change",
+          "sub_component": "exposure",
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "adaptive_capacity_specificity": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "The analysis used a rapid AC assessment tool that built on work by Thurman et al. (2020, 2022) and used a Microsoft Excel interface developed by the U.S. Geological Survey (USGS). The analysis framework considers 37 attributes at the species or population level organized into 7 attribute groups (Table 5.4).",
+          "location": "Climate Change Impacts to SGCNs",
+          "sub_component": null,
+          "citations": ["Thurman et al. (2020, 2022)", "Earl et al. 2024"]
+        },
+        {
+          "text": "AC Attribute Group: Distribution, Movement, Evolutionary Potential, Ecological Role, Abiotic Niche, Life History, Demography",
+          "location": "Table 5.4",
+          "sub_component": null,
+          "citations": ["Earl et al. 2024"]
+        }
+      ],
+      "absence_note": {}
+    },
+    "adaptive_capacity_components": {
+      "demography": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Demography: Life Span, Generation Time, Age of Sexual Maturity, Age Structure, Recruitment. How populations of the species are composed. How old they can live and how likely juveniles are to survive to reproduce.",
+            "location": "Table 5.4",
+            "sub_component": null,
+            "citations": ["Earl et al. 2024"]
+          }
+        ]
+      },
+      "distribution": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Distribution: Extent of Occupancy, Area of Occupancy, Habitat Specialization, Commensalism with Humans, Geographic Rarity. Where the species is found, how common the species is across the landscape.",
+            "location": "Table 5.4",
+            "sub_component": null,
+            "citations": ["Earl et al. 2024"]
+          }
+        ]
+      },
+      "movement": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Movement: Dispersal Syndrome, Dispersal Distance, Dispersal Phase, Site Fidelity, Migration Phenology, Migration Distance. How far and how often the species moves, how likely the species is to move and establish in new habitats.",
+            "location": "Table 5.4",
+            "sub_component": null,
+            "citations": ["Earl et al. 2024"]
+          }
+        ]
+      },
+      "evolutionary_potential": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Evolutionary Potential: Genetic Diversity, Population Size, Hybridization Potential. How genetically viable the species is, how likely is inbreeding to occur.",
+            "location": "Table 5.4",
+            "sub_component": null,
+            "citations": ["Earl et al. 2024"]
+          }
+        ]
+      },
+      "ecological_dependencies": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Ecological Role: Enemies, Diet Breadth, Diversity of Obligate Species. What the species eats, how dependent it is on other species, and other biotic interactions or relationships that impact the species.",
+            "location": "Table 5.4",
+            "sub_component": null,
+            "citations": ["Earl et al. 2024"]
+          }
+        ]
+      },
+      "abiotic_niche": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Abiotic Niche: Seasonal Phenology, Climatic Niche Breadth, Physiological Tolerances, Behavioral Regulation of Physiology, Disturbance Tolerances. What range of climatic conditions the species can tolerate. How sensitive the species is to changes in natural disturbances.",
+            "location": "Table 5.4",
+            "sub_component": null,
+            "citations": ["Earl et al. 2024"]
+          }
+        ]
+      },
+      "life_history": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Life History: Reproductive Phenology, Reproductive Mode, Mating System, Fecundity, Parity, Sex Ratio, Sex Determination, Parental Investment. How the species reproduces. How often, how many offspring, and how are offspring cared for.",
+            "location": "Table 5.4",
+            "sub_component": null,
+            "citations": ["Earl et al. 2024"]
+          }
+        ]
+      }
+    },
+    "connectivity": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Projects that address connectivity and provide corridors for SGCNs and other species will also remain high priorities for land management conservation action.",
+          "location": "Land Management -Terrestrial Systems (Chapter 6)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "Connectivity is discussed as a habitat management concept (corridors, linkage zones) but is not explicitly framed in climate-gradient or range-shift terms. COAs may include 'important linkage zones' but this is not specifically tied to facilitating climate-driven range shifts. Score is 1 (generic) rather than 2 (climate-specific)."
+    }
+  },
+  "tools": {
+    "vulnerability_models": {
+      "evaluable": true,
+      "score": 2,
+      "named_tools": ["NatureServe CCVI", "rapid AC assessment tool (USGS Excel interface)"],
+      "evidence": [
+        {
+          "text": "The analysis used a rapid AC assessment tool that built on work by Thurman et al. (2020, 2022) and used a Microsoft Excel interface developed by the U.S. Geological Survey (USGS). The analysis framework considers 37 attributes at the species or population level organized into 7 attribute groups (Table 5.4).",
+          "location": "Climate Change Impacts to SGCNs",
+          "sub_component": null,
+          "citations": ["Thurman et al. (2020, 2022)", "Earl et al. 2024"]
+        },
+        {
+          "text": "SDGFP will continue to monitor climate change assessment tools. Important resources include the USGS Climate Adaptation Science Centers, NatureServe's Climate Change Vulnerability Index (CCVI), and state-specific information maintained by South Dakota State University Extension.",
+          "location": "Climate Change Impacts to SGCNs",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Table 5.5. Overall Climate Change Adaptive Capacity Scores and Levels for Representative Animal Species of Greatest Conservation Need for South Dakota Wildlife Action Plan Revision of 2025 (Earl et al. 2024).",
+          "location": "Table 5.5",
+          "sub_component": null,
+          "citations": ["Earl et al. 2024"]
+        }
+      ],
+      "absence_note": {}
+    },
+    "niche_models": {
+      "evaluable": true,
+      "score": 1,
+      "named_tools": [],
+      "evidence": [
+        {
+          "text": "Develop and document distribution-model methods for under-studied focal species that can incorporate the agency's institutional data sets.",
+          "location": "Chapter 7 / interagency coordination table (MAFWA)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document references spatially explicit species-based models for wetland conservation delivery (HAPET, Figure 6.1) but these are habitat models for waterfowl, not species distribution models in the niche-modeling sense. The reference to 'develop distribution-model methods' is a future recommendation, not an application. Score is 1 (referenced generally)."
+    },
+    "climate_models": {
+      "evaluable": true,
+      "score": 2,
+      "named_tools": ["Downscaled Global Climate Model (DGCM)", "NOAA National Centers for Environmental Information"],
+      "evidence": [
+        {
+          "text": "Cochrane and Moran (2011) prepared a climate change analysis for the 2014 SDWAP, which included projections to 2099 (Appendix R, Executive Summary; Appendix N, Full Report).",
+          "location": "Climate change -Terrestrial Systems",
+          "sub_component": null,
+          "citations": ["Cochrane and Moran (2011)"]
+        },
+        {
+          "text": "To evaluate the potential effects of climate change on riparian and wetland ecosystems in South Dakota, the Downscaled Global Climate Model (DGCM) datasets and results (Appendix N) were used for this evaluation.",
+          "location": "Climate change -Riparian-wetland Systems",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Figure 5.8 shows Projected Climate Change for the Range of Conditions for 2021-2050 and 2070-2099 from the Downscaled Climate Change Analysis of this Report.",
+          "location": "Figure 5.8 caption",
+          "sub_component": null,
+          "citations": ["Poiani et al. (1995)"]
+        }
+      ],
+      "absence_note": {},
+      "time_horizon_years": [2050, 2099],
+      "emission_scenarios": []
+    },
+    "connectivity_models": {
+      "evaluable": true,
+      "score": 1,
+      "named_tools": ["MLI Conservation Blueprint", "TNC Resilient Rivers dataset", "NatureServe Landscape Condition Model"],
+      "evidence": [
+        {
+          "text": "Aquatic Network Connectivity: Prioritized areas based on the length of hydrologically connected flowlines and diversity of unfragmented aquatic habitat in the state. MLI Conservation Blueprint; TNC's Resilient Rivers dataset",
+          "location": "Table 6.7",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Climate Resiliency: This layer identifies the ability of lands and waters to function under changing climate conditions. MLI Conservation Blueprint; The Nature Conservancy's Resilient Land Mapping Tool",
+          "location": "Table 6.7",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The MLI Conservation Blueprint and TNC Resilient Land/Rivers tools are referenced as data sources for the HSI used in aquatic COA selection, but the document does not apply a dedicated connectivity model to predict or facilitate species range shifts. Score is 1 (referenced generally, used as one layer among stressors, not as a primary connectivity model for range shifts)."
+    }
+  },
+  "context": {
+    "management_scale": {
+      "local": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Projects that address connectivity and provide corridors for SGCNs and other species will also remain high priorities for land management conservation action.",
+            "location": "Land Management -Terrestrial Systems (Chapter 6)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "site": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Terrestrial COAs allow for the identification of areas that can be targeted for habitat conservation, protection, or management for the benefit of SGCNs and remaining intact native habitats.",
+            "location": "Terrestrial conservation opportunity areas",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "watershed": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Watershed (HUC_10) level COA selection criteria were selected on a hierarchical system (listed in order of importance): I. Highest confirmed species richness for SGCNs; II. Lowest Human Stressor Index (HSI) value; III. Highest percentage of public ownership",
+            "location": "Assessment criteria (Chapter 6, Aquatic COAs)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "city": {
+        "present": false,
+        "evidence": []
+      },
+      "county": {
+        "present": false,
+        "evidence": []
+      },
+      "within_state_region": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "A higher rate of conversion is occurring in eastern South Dakota as compared to western.",
+            "location": "Terrestrial Systems - Direct conversion (Chapter 5)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "state": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The SDWAP provides a strategic vision and plan of action for statewide wildlife conservation and establishes South Dakota's eligibility for continued SWG dollars",
+            "location": "Background",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "multistate": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Responding to climate change will require collaboration and thinking and working at multiple spatial scales. Fish and wildlife habitat often encompasses large areas of multiple ownerships. Management actions must consider not only site level conditions but also the influences of the surrounding landscape.",
+            "location": "Climate change -Terrestrial Systems",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "national": {
+        "present": false,
+        "evidence": []
+      },
+      "transnational": {
+        "present": false,
+        "evidence": []
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "South Dakota's conservation strategy is based on providing enough diverse terrestrial and riparian-wetland native ecosystems on the landscape to support the ever-evolving native biodiversity across the state.",
+            "location": "Conservation Strategy (Chapter 3)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecoregion": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Delineate ecoregions using MLRAs for terrestrial ecosystems within South Dakota to facilitate ecosystem diversity characterization and management",
+            "location": "Application (Chapter 3)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "province": {
+        "present": false,
+        "evidence": []
+      },
+      "section": {
+        "present": false,
+        "evidence": []
+      },
+      "subsection": {
+        "present": false,
+        "evidence": []
+      },
+      "lake": {
+        "present": false,
+        "evidence": []
+      },
+      "river": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "South Dakota contains 14 different river basins. Each basin belongs to larger regions (Missouri, Upper Mississippi, and Souris-Red-Rainy), and gulfs (Hudson Bay and Gulf of Mexico)",
+            "location": "Ecoregions (Chapter 3)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "district": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["South Dakota", "Prairie Pothole Region", "Black Hills", "Missouri River", "Northern Great Plains", "Great Plains"]
+    },
+    "biological_unit_score": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "For cold water species, we may see a decline in distribution, while warmer water species on the northern edge of their distribution may experience range expansions.",
+          "location": "Climate change -Aquatic Systems",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Terrestrial ecosystems are expected to change in regard to plant species compositions, structures, and processes. Site-level changes to species compositions may result from shifts in ecological factors (e.g., temperature and precipitation) that no longer allow a particular species to occur.",
+          "location": "Climate change -Terrestrial Systems",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "biological_unit_components": {
+      "species": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "For cold water species, we may see a decline in distribution, while warmer water species on the northern edge of their distribution may experience range expansions.",
+            "location": "Climate change -Aquatic Systems",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "population": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "These species may not be able to persist in their current locations. However, if similar shifts in restoration practices are followed in neighboring states or provinces, these species may be able to use new areas representing favorable plant communities in future locations under climate change.",
+            "location": "Climate change -Terrestrial Systems",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "habitat": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Rising temperatures and variable precipitation patterns are expected to impact species distributions and water availability, particularly affecting wetlands and aquatic ecosystems, which are sensitive to shifts in hydroperiods and water chemistry.",
+            "location": "Summary of Key Conservation Threats - Climate change",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Terrestrial ecosystems are expected to change in regard to plant species compositions, structures, and processes.",
+            "location": "Climate change -Terrestrial Systems",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "community": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "As the balance between C3 and C4 dominance within a plant community is believed to be responsive to climate change, this is often the focus of discussions aiming to predict future climate change conditions in the Great Plains",
+            "location": "Climate change -Terrestrial Systems",
+            "sub_component": null,
+            "citations": ["Collatz et al. 1998", "Hattersley 1983", "von Fischer et al. 2008"]
+          }
+        ]
+      },
+      "genotype_phenotype": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["SGCNs", "cold-water fish species", "prairie potholes", "C3 and C4 grasses", "wetland ecosystems", "ponderosa pine forests", "grassland-dependent species", "bumble bees", "butterflies"]
+    },
+    "partnerships_and_funding": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "SDGFP partnered with several Midwestern states to gain information on this topic. Using a USFWS CSWG award, three Michigan entities (Michigan Natural Features Inventory, Michigan Department of Natural Resources, and Michigan State University Extension) analyzed adaptive capacities for 400 animal SGCNs submitted from the states of Indiana, Minnesota, Missouri, and South Dakota.",
+          "location": "Climate Change Impacts to SGCNs",
+          "sub_component": null,
+          "citations": ["Terwilliger Consulting and MLI 2021", "Earl et al. 2024"]
+        },
+        {
+          "text": "This revision benefited from a MAFWA-led effort to better understand impacts of climate change on a sample of South Dakota's SGCNs. This revision also includes consideration of this topic from a broader perspective, because climate change and severe weather impacts to the state's lands and water will affect many land uses and livelihoods.",
+          "location": "Summary of Plan Updates and Changes",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_threat_habitat_degradation": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Future climate change is expected to exacerbate this problem. Some land managers use prescribed fire to mirror this natural process, but there remain considerable challenges to replicating the timing and intensity of natural fire regimes to produce the desired effects on vegetation.",
+          "location": "Natural disturbance processes (Chapter 5, Terrestrial Systems)",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Projected increases in temperatures coupled with the projected increases and decreases in seasonal precipitation amounts are likely to have substantial effects on wetlands in South Dakota. Negative effects to biodiversity and waterfowl productivity are likely in the western part of South Dakota.",
+          "location": "Climate change -Riparian-wetland Systems",
+          "sub_component": null,
+          "citations": ["Johnson et al. (2010)", "Poiani et al. 1995"]
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_threat_species_vital_rates": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Two additional conservation challenges worth noting are emerging diseases and climate change. Amphibians around the world have been devastated by Chytrid fungus and ranaviruses... The effect of climate change to South Dakota herps may be a bit of a mixed bag. On the one hand, a warmer and drier climate could lead to more droughts and negatively impact species that depend on wetlands, such as frogs.",
+          "location": "Conservation threats described by taxonomic groups - Amphibians and reptiles",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document does not prominently frame climate as directly causing mortality events or reproductive failure in vital-rate terms. The frogs/drought passage is the clearest example of a climate event linked to a direct vital rate impact (population decline via habitat loss). Some passages about bats mention 'extreme temperatures that intensify colony mortality' in relation to climate change, supporting this score."
+    },
+    "climate_threat_biotic_stressors": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Some ecosystems may become more vulnerable to invasion by nonnative invasive species. Native species composition and associated ecosystem relationships may be altered.",
+          "location": "Climate change -Terrestrial Systems",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    }
+  },
+  "actions": {
+    "priority_habitat_identification": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Statewide, 73 COAs were identified through the conservation strategy and assessment process (Figure 6.18). Figure 6.18 does not depict the current situation but rather shows priority areas to better maximize limited resources while still representing the full extent of distinct aquatic ecosystems and habitats across South Dakota.",
+          "location": "Discussion (Chapter 6, Aquatic COAs)",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Terrestrial COAs allow for the identification of areas that can be targeted for habitat conservation, protection, or management for the benefit of SGCNs and remaining intact native habitats. These COAs can then be tied back to ecological site (Appendix J) and MLRA (Appendix R) to garner more information about disturbance state and soil type.",
+          "location": "Terrestrial conservation opportunity areas",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "These areas represent the best opportunities for voluntary ecosystem restoration or other effective management actions within South Dakota and may also include areas with large numbers of SGCN or important linkage zones.",
+          "location": "Summary of Plan Updates and Changes",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "targeted_range_shift_actions": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "These species may not be able to persist in their current locations. However, if similar shifts in restoration practices are followed in neighboring states or provinces, these species may be able to use new areas representing favorable plant communities in future locations under climate change.",
+          "location": "Climate change -Terrestrial Systems",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Address climate change by helping land managers with water development projects to alleviate the implications of drought and other abiotic factors.",
+          "location": "Conservation Actions Summary - Land and water management",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The plan discusses translocation and reintroduction generically (species management actions) but does not frame them explicitly as climate-shift facilitation. The passage about species moving to 'new areas representing favorable plant communities in future locations under climate change' is the closest to explicit range-shift facilitation in a structural sense, combined with broader COA connectivity language. Score is 1 for structural facilitation implied."
+    },
+    "time_bound_and_monitoring": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "SDGFP will review and revise the SDWAP at a maximum of 10-year intervals.",
+          "location": "Chapter 9. Review Schedule and Framework",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Proposed plans for monitoring species identified in (1) and their habitats, for monitoring the effectiveness of the conservation actions proposed in (4), and for adapting these conservation actions to respond appropriately to new information or changing conditions",
+          "location": "Key Elements and Plan Roadmap (Chapter 1)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The plan commits to a 10-year review cycle and discusses monitoring principles broadly. Individual actions do not have specific deadlines attached. Effectiveness monitoring is endorsed as a principle but is not operationalized at the action level with specific tied protocols. Score is 1 rather than 2."
+    },
+    "evidence_of_efficacy": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "A SWG project was recently conducted looking at the population dynamics and seasonal movements of Blue Suckers in the James River. We found fin rays underestimated otoliths up to 30+ years for this long lived species. Recruitment was impacted by discharge in the James River, i.e. more water=more fish. Blue Suckers exhibited large seasonal movements based on flows and temperature.",
+          "location": "Species profile - Blue Sucker",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "An additional important conservation action topic is the evaluation of conservation projects already underway in the state. For example, if a drained wetland is restored, partners should focus on evaluating, monitoring, and researching the results of these projects to highlight their importance. If project funding originates from rare species dollars, project impacts to those species should be investigated to improve future project selection and implementation.",
+          "location": "Research and monitoring -Terrestrial Systems (Chapter 6)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The plan provides multiple case studies and SWG project highlights with results, but these are largely monitoring/research projects rather than efficacy evaluations of specific climate adaptation actions. Evidence is mostly of limited applicability (different stressors or tangentially related to climate shifts). Score is 2 for limited evidence.",
+      "projects": ["SWG project T-33 (grassland bird habitat in central/western SD): Evaluated habitat use of several grassland bird species; found that increased exotic species negatively impacted 4 grassland species including the Chestnut-collared Longspur; provided specific guidance on patch size and exotic species management.", "SWG project T-41 (South Dakota Breeding Bird Atlas II): Compared distributions of breeding birds 20 years apart, documenting range changes for species like Greater Prairie-Chicken and Lark Bunting; provides distributional evidence relevant to management decisions.", "SWG project T-13 (Long-billed Curlew in western SD): Radio-marked 48 adult curlews; documented nest site selection, brood success, and drought impacts; provides species-specific habitat-use evidence relevant to grazing management actions.", "USFWS/SDGFP Paddlefish stocking collaboration (Lake Sharpe): Stockings of 17,000-44,000 juvenile Paddlefish annually since 2015; recent surveys collected 3 (2022), 34 (2023), and 24 (2024) Paddlefish indicating successful establishment; provides evidence of captive rearing/stocking efficacy.", "Gary Creek Gulch stream restoration project: Before-during-after monitoring approach; in-stream habitat improvements with boulders and woody debris to restore connectivity and protect Northern Redbelly Dace and Blackside Darter habitat; provides applied field evidence for stream restoration actions."]
+    },
+    "adaptation_planning_frameworks": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Depending on climate changes, management toward historical ecosystems may not be possible, which may require changes in management objectives for flora and fauna.",
+          "location": "Climate change -Terrestrial Systems",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "As the effects of climate change make these considerations more complex, agencies such as SDGFP will need to work collaboratively with conservation partners and at larger scales to develop appropriate actions and strategies that emphasize adaptation and mitigation to minimize the potential negative consequences.",
+          "location": "Climate change -Terrestrial Systems",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The plan references climate adaptation planning in a general sense and notes the need to adapt management objectives under climate change. It does not explicitly name or apply specific frameworks such as RAD (Resist-Accept-Direct), RRT, Structured Decision Making, or CCSP. The CCVA performed through MAFWA/Earl et al. 2024 is a tool used rather than a named planning framework applied in decision-making. Score is 1 (referenced non-specifically)."
+    }
+  },
+  "coding_meta": {
+    "coder": "llm:claude-sonnet-4-6",
+    "model": "claude-sonnet-4-6",
+    "provider": "claude",
+    "codebook_version": "0.4",
+    "ingest": "text",
+    "design": "single",
+    "temperature": null,
+    "thinking": null,
+    "thinking_effort": null,
+    "coded_at": "2026-07-06T18:39:25Z",
+    "notes": {}
+  }
+}

@@ -1,0 +1,531 @@
+{
+  "document_meta": {
+    "title": "South Dakota Forest Action Plan",
+    "year": 2020,
+    "jurisdiction": "South Dakota",
+    "document_type": "Forest Action Plan",
+    "document_id": "SD_FAP_2020",
+    "page_count": 294
+  },
+  "orientation": {
+    "summary": "The South Dakota Forest Action Plan (FAP) is a state-level forest management document produced by the South Dakota Department of Agriculture Resource Conservation and Forestry Division, covering coniferous, upland hardwood, bottomland, windbreak/agroforestry, and urban/community forest types. The document's overall posture toward climate change is peripheral: climate change appears in threat lists and strategy tables but is never analyzed in depth, with no climate projections, vulnerability assessments, or range-shift science applied to focal species or habitats. Regarding range shifts specifically, the document briefly notes expansion of eastern redcedar and Rocky Mountain juniper into new areas, but does not frame these as climate-driven range shifts in any scientific sense; it treats them as encroachment/management problems. The document performs its own spatial priority-area analysis using GIS/weighted overlay of 11 data layers, and its own community tree inventories, but does not perform any climate modeling, species distribution modeling, or climate vulnerability assessment.",
+    "evidence_index": [
+      {
+        "text": "Both species are expanding their range, especially in the uplands along the Missouri River in south-central South Dakota (Piva et al. 2009).",
+        "location": "Section I: Coniferous Forest, Extent and Condition",
+        "relevant_elements": ["1.1", "1.3", "3.3", "3.7"]
+      },
+      {
+        "text": "there is still a need for additional research and information relating to forest health, such as the effect that climate change will have on the coniferous forest types of South Dakota.",
+        "location": "Section I: Coniferous Forest, Research",
+        "relevant_elements": ["1.1", "1.2"]
+      },
+      {
+        "text": "Other environmental factors that can be a threat to upland forests include drought and climate change that may result in trees being stressed and therefore more susceptible to insect and disease issues.",
+        "location": "Section I: Upland Hardwood Forest, Land Use Change",
+        "relevant_elements": ["1.1", "3.5", "3.6"]
+      },
+      {
+        "text": "Additional research is needed in emerging fields as they may relate to upland hardwood forest ecosystems in South Dakota including, but not limited to: • Climate change",
+        "location": "Section I: Upland Hardwood Forest, Research",
+        "relevant_elements": ["1.1"]
+      },
+      {
+        "text": "Potential sources of the changes could include climate change, agricultural irrigation needs, or dam construction. Riparian forests, especially cottonwood and willow, need periodic flooding to replenish rich soils and create new habitat for seedlings.",
+        "location": "Section I: Bottomland Forest, Water Flow Alterations",
+        "relevant_elements": ["1.1", "3.5"]
+      },
+      {
+        "text": "Windbreaks face threats from drought, disease and insects, change in land use, weeds and invasive species, herbicide drift, old age, lack of species diversity within the belt and within the rows, lack of data about South Dakota windbreaks, improper planting and maintenance, climate change, and intense weather such as tornadoes, blizzards, and heavy ice/snow events.",
+        "location": "Section I: Windbreaks and Wooded Strips, Threats",
+        "relevant_elements": ["1.1", "3.5"]
+      },
+      {
+        "text": "Natural threats include severe weather, climate change, water availability, lack of species diversity, old age, fire, disease, native invasive species, and insect infestations.",
+        "location": "Section I: Urban and Community Forestry, Threats",
+        "relevant_elements": ["1.1"]
+      },
+      {
+        "text": "the largest threats to South Dakota's coniferous forests are insect infestation, disease, and fires. Other threats, direct and indirect, include fragmentation, extreme weather events (drought, hail, wind, ice, etc.), forest stagnation, weeds and invasive species, climate change",
+        "location": "Section I: Coniferous Forest, Threats",
+        "relevant_elements": ["1.1", "3.5"]
+      },
+      {
+        "text": "Increases in housing density and development are creating greater fragmentation and strain on wildlife habitats and general forest health (Stein et al, 2005). Within South Dakota, and especially in the Black Hills, development is ongoing on private forest lands and immediately adjacent to national forests.",
+        "location": "Section I: Coniferous Forest, Fragmentation",
+        "relevant_elements": ["1.4", "3.4"]
+      },
+      {
+        "text": "As housing density increases and lands become fragmented, negative impacts may result, including reduction in wildlife habitat and browse, increases in human/wildlife conflicts, reduction in habitat connectivity, poorer water quality, and reduced outdoor recreational opportunities (Stein et al, 2007).",
+        "location": "Section I: Upland Hardwood Forest, Fragmentation",
+        "relevant_elements": ["1.4"]
+      },
+      {
+        "text": "The priority areas identified in South Dakota, and along the borders with neighboring states considered the recommendations of various groups, stakeholders, and the public.",
+        "location": "Section II: Priority Area Determination, Conclusion",
+        "relevant_elements": ["4.1", "3.1"]
+      },
+      {
+        "text": "Figure 4.0.1. Final map displaying high, medium, and low priority areas in South Dakota.",
+        "location": "Section II: Priority Area Determination",
+        "relevant_elements": ["4.1"]
+      },
+      {
+        "text": "The priority map shows areas that have a high or moderate need for risk management and mitigation. The high priority areas (red) and medium priority areas (green) emphasize areas that are either in need of immediate protection or areas that are simply important resources that need protection.",
+        "location": "Section IV: Resource Strategy, Priority Landscapes",
+        "relevant_elements": ["4.1"]
+      },
+      {
+        "text": "Approximately 78% of forested land is classified as high priority, and approximately 13% of forested land is classified as medium priority",
+        "location": "Section IV: Resource Strategy, Priority Landscapes",
+        "relevant_elements": ["4.1"]
+      },
+      {
+        "text": "Objective 5.15 Provide guidance to help forest landowners implement forest climate adaptation and mitigation management practices based on the best available science and proven best practices",
+        "location": "Section IV: Resource Strategy, Goal 5",
+        "relevant_elements": ["4.2", "4.3", "4.4", "4.5", "1.1"]
+      },
+      {
+        "text": "Strategy 5.15.1 Deliver forestry incentive program technical assistance using annual agreements. Strategy 5.15.2 assists to private landowners each Complete 300 year.",
+        "location": "Section IV: Resource Strategy, Goal 5, Objective 5.15",
+        "relevant_elements": ["4.2", "4.3", "4.5"]
+      },
+      {
+        "text": "Strategy 2.4.2 Work with other collaborative groups such as Conservation Leaders Group and Black Hills Resilient Forest Working Group to explore and develop projects. Lack of management, lack of forest resiliency, climate change, disengaged public",
+        "location": "Section IV: Resource Strategy, Goal 2",
+        "relevant_elements": ["1.1", "3.4", "4.5"]
+      },
+      {
+        "text": "Strategy 2.3.2 Deliver forestry incentive program technical assistance using annual agreements ... climate change, disengaged public",
+        "location": "Section IV: Resource Strategy, Goal 2, Objective 2.3",
+        "relevant_elements": ["1.1", "4.5"]
+      },
+      {
+        "text": "Strategy 4.8.1 Coordinate with NRCS and conservation districts to deliver forestry incentive program technical assistance ... climate change, disengaged public",
+        "location": "Section IV: Resource Strategy, Goal 4, Objective 4.8",
+        "relevant_elements": ["1.1", "4.5"]
+      },
+      {
+        "text": "Strategy 5.17.1 Annually review and update public outreach efforts including website and literature ... climate change, disengaged public",
+        "location": "Section IV: Resource Strategy, Goal 5, Objective 5.17",
+        "relevant_elements": ["1.1", "4.5"]
+      },
+      {
+        "text": "Partnerships will be important to successfully implementing this FAP. RCF is a small agency which does not own forest land. Consequently, all the work we do is accomplished through partnerships with other federal, state, tribal, and local government agencies, non-governmental organizations, private businesses, and private landowners.",
+        "location": "Section 0: Cover/Introduction",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "The Conservation Leaders Group is another good example of how shared land management on a landscape scale is already in effect. This group is a collaboration of land management agencies in the Black Hills of South Dakota and Wyoming, private landowners, and industry working together",
+        "location": "Section I: Coniferous Forest, Fragmentation",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "Efforts will be made to establish monitoring procedures to determine the effectiveness of strategies. Effective strategies will be continued; ineffective strategies will be modified or dropped.",
+        "location": "Section IV: Resource Strategy, Literature Cited",
+        "relevant_elements": ["4.3"]
+      },
+      {
+        "text": "Strategy 1.7.1 Create and maintain geospatial forest datasets using specialized software by 2023.",
+        "location": "Section IV: Resource Strategy, Goal 1",
+        "relevant_elements": ["4.1", "4.3"]
+      },
+      {
+        "text": "Strategy 1.10.1 Conduct 80 community street tree inventories by 2028.",
+        "location": "Section IV: Resource Strategy, Goal 1",
+        "relevant_elements": ["4.3"]
+      },
+      {
+        "text": "Strategy 4.3.2 Maintain funding for at least two cost-share programs for the next 10 years.",
+        "location": "Section IV: Resource Strategy, Goal 4",
+        "relevant_elements": ["3.4", "4.3"]
+      },
+      {
+        "text": "South Dakota has a continental climate with four distinct seasons ranging from very cold winters to hot summers.",
+        "location": "Section III: Forest Legacy Assessment, Section 1 Climate",
+        "relevant_elements": ["1.1"]
+      },
+      {
+        "text": "Eastern redcedar has expanded by over 16,000 acres (30% of current acreage), and Rocky Mountain juniper as expanded by over 7,500 acres (11% of current acreage) since the previous forest action plan was published.",
+        "location": "Section I: Coniferous Forest, Extent and Condition",
+        "relevant_elements": ["3.7", "1.1"]
+      },
+      {
+        "text": "The threats to South Dakota's forest resource continue to shift as the most recent mountain pine beetle (MPB) outbreak has abated ... The strategies will also address the threats of the lack of markets for wood products, inadequate forest inventory, disengaged public, overgrazing, lack of management, inadequate forest inventory, poor water quality, loss of wildlife habitat, invasive species, lack of forest resiliency, climate change",
+        "location": "Section IV: Resource Strategy, Goal 8",
+        "relevant_elements": ["1.1"]
+      },
+      {
+        "text": "Invasive species such as buckthorn, Russian olive, and salt cedar pose a threat as they expand their range into the bottomland forests.",
+        "location": "Section I: Bottomland Forest, Invasive Species",
+        "relevant_elements": ["3.7"]
+      }
+    ]
+  },
+  "concepts": {
+    "climate_vulnerability": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "the largest threats to South Dakota's coniferous forests are insect infestation, disease, and fires. Other threats, direct and indirect, include fragmentation, extreme weather events (drought, hail, wind, ice, etc.), forest stagnation, weeds and invasive species, climate change",
+          "location": "Section I: Coniferous Forest, Threats",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "Climate change is mentioned repeatedly as a threat in passing lists across forest types, and once in the context of bottomland forest water flow. However, the document never operationalizes vulnerability with any exposure metrics or adaptive capacity framing. There is no reference to climate velocity, climate sensitivity, or adaptive capacity of species/ecosystems. The treatment is entirely non-specific: 'climate change' appears as one item among many threats without elaboration. Score 1 (generic vulnerability mention, no exposure or adaptive capacity sub-components)."
+    },
+    "adaptive_capacity_specificity": {
+      "evaluable": true,
+      "score": 0,
+      "evidence": [],
+      "absence_note": "Adaptive capacity in the IPCC/ecological sense (ability of species/ecosystems to persist, shift, or evolve in response to climate) is not referenced in the document. 'Resilience' appears in the context of 'resilient forest landscapes' and 'lack of forest resiliency' in strategy tables, but this is framed as resistance to disturbance (fire, insects) rather than climate adaptive capacity. The word 'resilience' is not paired with climate change as the stressor in any way that counts under the codebook's T1.2 definition."
+    },
+    "adaptive_capacity_components": {
+      "demography": {
+        "present": false,
+        "evidence": []
+      },
+      "distribution": {
+        "present": false,
+        "evidence": []
+      },
+      "movement": {
+        "present": false,
+        "evidence": []
+      },
+      "evolutionary_potential": {
+        "present": false,
+        "evidence": []
+      },
+      "ecological_dependencies": {
+        "present": false,
+        "evidence": []
+      },
+      "abiotic_niche": {
+        "present": false,
+        "evidence": []
+      },
+      "life_history": {
+        "present": false,
+        "evidence": []
+      }
+    },
+    "connectivity": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "As housing density increases and lands become fragmented, negative impacts may result, including reduction in wildlife habitat and browse, increases in human/wildlife conflicts, reduction in habitat connectivity, poorer water quality, and reduced outdoor recreational opportunities (Stein et al, 2007).",
+          "location": "Section I: Upland Hardwood Forest, Fragmentation",
+          "sub_component": null,
+          "citations": ["Stein et al, 2007"]
+        }
+      ],
+      "absence_note": "Connectivity is referenced generically in the context of habitat fragmentation and housing density. There is no climate-gradient framing, no mention of climate corridors, and no explicit framing of connectivity as supporting climate-driven range shifts. Score 1 (generic connectivity, no climate framing)."
+    }
+  },
+  "tools": {
+    "vulnerability_models": {
+      "evaluable": true,
+      "score": 0,
+      "named_tools": [],
+      "evidence": [],
+      "absence_note": "No vulnerability models (CCVI, PVA, or similar) are referenced anywhere in the document."
+    },
+    "niche_models": {
+      "evaluable": true,
+      "score": 0,
+      "named_tools": [],
+      "evidence": [],
+      "absence_note": "No species distribution models or niche models (MaxEnt, SDMs, ENMs, etc.) are referenced anywhere in the document."
+    },
+    "climate_models": {
+      "evaluable": true,
+      "score": 0,
+      "named_tools": [],
+      "evidence": [],
+      "absence_note": "Climate change is mentioned throughout as a qualitative threat, but no climate models, GCMs, RCPs, SSPs, downscaled projections, or emission scenarios are referenced. One URL in the literature cited section points to an EPA climate-change-SD page, but there is no in-text engagement with its content or any climate modeling apparatus. This is consistent with the canonical 0 case per codebook §2.3 decision rules.",
+      "time_horizon_years": [],
+      "emission_scenarios": []
+    },
+    "connectivity_models": {
+      "evaluable": true,
+      "score": 0,
+      "named_tools": [],
+      "evidence": [],
+      "absence_note": "No connectivity models (CircuitScape, least-cost path, resistance surface, etc.) are referenced. The GIS/weighted overlay analysis in Section II uses spatial datasets but these are priority-area determination tools (agroforestry suitability, wildfire risk, housing density), not connectivity models in the range-shift sense."
+    }
+  },
+  "context": {
+    "management_scale": {
+      "local": {
+        "present": false,
+        "evidence": []
+      },
+      "site": {
+        "present": false,
+        "evidence": []
+      },
+      "watershed": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Project areas within the larger priority areas will be identified through a strategic, focused approach to accomplish work on the watershed scale.",
+            "location": "Section IV: Resource Strategy, Priority Landscapes",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "city": {
+        "present": false,
+        "evidence": []
+      },
+      "county": {
+        "present": false,
+        "evidence": []
+      },
+      "within_state_region": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "High and moderate priority areas are primarily located within the Black Hills and along the Missouri River, Big Sioux River, and James River valleys.",
+            "location": "Section IV: Resource Strategy, Priority Landscapes",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "state": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The South Dakota Statewide Forest Resource Strategy (Resource Strategy) is intended to address the threats faced by South Dakota's forest and move priority landscapes toward preferred conditions.",
+            "location": "Section IV: Resource Strategy, Priority Landscapes",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "multistate": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Recent mountain pine beetle epidemics have proven that multi-state efforts are effective and necessary in this ecosystem. Insects and other natural disturbances do not recognize state or ownership boundaries; therefore, collaboration is crucial in mitigating the impacts from those disturbances.",
+            "location": "Section II: Priority Area Determination, Wyoming",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "national": {
+        "present": false,
+        "evidence": []
+      },
+      "transnational": {
+        "present": false,
+        "evidence": []
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Goal one of the SDFAP is to Identify and conserve high priority forest ecosystems and landscapes.",
+            "location": "Section IV: Resource Strategy, Goal 1",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecoregion": {
+        "present": false,
+        "evidence": []
+      },
+      "province": {
+        "present": false,
+        "evidence": []
+      },
+      "section": {
+        "present": false,
+        "evidence": []
+      },
+      "subsection": {
+        "present": false,
+        "evidence": []
+      },
+      "lake": {
+        "present": false,
+        "evidence": []
+      },
+      "river": {
+        "present": false,
+        "evidence": []
+      },
+      "district": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["Black Hills", "Missouri River", "Big Sioux River", "James River"]
+    },
+    "biological_unit_score": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Coniferous forests make up approximately 77%, or 1.49 million acres, of South Dakota's 1.95 million acres of forest land.",
+          "location": "Section I: Coniferous Forest, Extent and Condition",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "Range-shift science is barely engaged in this document. In the narrow context where distributional change is discussed (eastern redcedar/Rocky Mountain juniper expansion, bottomland forest threats), the biological units referenced are primarily habitat types/forest types. Only one biological unit (habitat/ecosystem) is clearly discussed in a range-shift-adjacent context. Species are discussed in terms of forest management, not range shifts specifically. Score 1."
+    },
+    "biological_unit_components": {
+      "species": {
+        "present": false,
+        "evidence": []
+      },
+      "population": {
+        "present": false,
+        "evidence": []
+      },
+      "habitat": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Both species are expanding their range, especially in the uplands along the Missouri River in south-central South Dakota (Piva et al. 2009).",
+            "location": "Section I: Coniferous Forest, Extent and Condition",
+            "sub_component": null,
+            "citations": ["Piva et al. 2009"]
+          }
+        ]
+      },
+      "ecosystem": {
+        "present": false,
+        "evidence": []
+      },
+      "community": {
+        "present": false,
+        "evidence": []
+      },
+      "genotype_phenotype": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["eastern redcedar", "Rocky Mountain juniper", "ponderosa pine", "cottonwood", "bottomland forest", "coniferous forest", "upland hardwood forest"]
+    },
+    "partnerships_and_funding": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Partnerships will be important to successfully implementing this FAP. RCF is a small agency which does not own forest land. Consequently, all the work we do is accomplished through partnerships with other federal, state, tribal, and local government agencies, non-governmental organizations, private businesses, and private landowners.",
+          "location": "Section 0: Cover/Introduction",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "Partnerships are described broadly throughout the document (Forest Stewardship Coordinating Committee, Conservation Leaders Group, NRCS, conservation districts, tribal agencies, federal agencies). However, funding for range-shift-specific work is not described; the document's climate adaptation engagement is minimal and no funding is allocated specifically to range-shift management. Score 1: some partnerships and funding described, but aspirational and not targeted to range-shift actions."
+    },
+    "climate_threat_habitat_degradation": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Potential sources of the changes could include climate change, agricultural irrigation needs, or dam construction. Riparian forests, especially cottonwood and willow, need periodic flooding to replenish rich soils and create new habitat for seedlings.",
+          "location": "Section I: Bottomland Forest, Water Flow Alterations",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "Climate-induced habitat degradation is mentioned in passing in the bottomland forest section (climate change as a potential source of water flow alterations threatening riparian habitat) and in threat lists for windbreaks and urban forests. The framing is brief but does connect climate change to habitat impacts. Score 1."
+    },
+    "climate_threat_species_vital_rates": {
+      "evaluable": true,
+      "score": 0,
+      "evidence": [],
+      "absence_note": "The document does not discuss direct climate-driven impacts on species vital rates (survival, recruitment, mortality from climate events). The closest passage is 'Other environmental factors that can be a threat to upland forests include drought and climate change that may result in trees being stressed and therefore more susceptible to insect and disease issues,' but this is a climate → habitat stress → indirect species vulnerability chain, not direct vital rate impact. Per codebook 3.6 decision rules, this does not qualify."
+    },
+    "climate_threat_biotic_stressors": {
+      "evaluable": true,
+      "score": 0,
+      "evidence": [],
+      "absence_note": "Invasive species (buckthorn, Russian olive, salt cedar) and range expansion of eastern redcedar/Rocky Mountain juniper are discussed, but not framed as climate-driven in the document. The cedar/juniper expansion is attributed to fire suppression and land use change, not climate change. The invasive species discussion lacks climate framing. Per codebook 3.7 decision rules, these do not count without explicit climate attribution."
+    }
+  },
+  "actions": {
+    "priority_habitat_identification": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Figure 4.0.1. Final map displaying high, medium, and low priority areas in South Dakota.",
+          "location": "Section II: Priority Area Determination",
+          "sub_component": "spatial representation",
+          "citations": []
+        },
+        {
+          "text": "Approximately 78% of forested land is classified as high priority, and approximately 13% of forested land is classified as medium priority (Figure 1). ... High and moderate priority areas are primarily located within the Black Hills and along the Missouri River, Big Sioux River, and James River valleys.",
+          "location": "Section IV: Resource Strategy, Priority Landscapes",
+          "sub_component": "priority habitat identification",
+          "citations": []
+        }
+      ],
+      "absence_note": "Priority habitat areas are spatially represented with maps (Figures 4.0.1, 4.0.2) using GIS/weighted overlay analysis. However, these priority areas are defined by forest management threats (insects, wildfire, housing density, water quality) rather than climate-driven range shifts specifically. The codebook element 4.1 requires identification of priority habitat to address range shifts or climate-induced threats to habitat — the habitat degradation element (3.5) scored 1, so there is some climate threat framing. The spatial representation is explicit and the priority areas do address forest resource protection broadly including climate as a listed threat. Score 2 based on explicit spatial mapping of priority forest areas with climate listed among addressed threats."
+    },
+    "targeted_range_shift_actions": {
+      "evaluable": true,
+      "score": 0,
+      "evidence": [],
+      "absence_note": "The document proposes no specific actions to facilitate, prevent, or respond to climate-driven range shifts. 'Assisted migration,' 'translocation for climate adaptation,' 'climate corridors,' or any structurally or directly facilitated range-shift management is entirely absent. Objective 5.15 mentions 'forest climate adaptation and mitigation management practices' but is too vague to constitute a targeted range-shift action per the codebook."
+    },
+    "time_bound_and_monitoring": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Strategy 1.7.1 Create and maintain geospatial forest datasets using specialized software by 2023.",
+          "location": "Section IV: Resource Strategy, Goal 1",
+          "sub_component": "deadlines",
+          "citations": []
+        }
+      ],
+      "absence_note": "The strategy tables throughout Section IV include many time-bound milestones (e.g., 'by 2023,' 'by 2028,' 'by 2025,' annually, etc.) attached to specific conservation actions. However, the only monitoring provision is a very general statement: 'Efforts will be made to establish monitoring procedures to determine the effectiveness of strategies. Effective strategies will be continued; ineffective strategies will be modified or dropped.' This is an endorsement of adaptive management as a principle in the conclusion section, not an operationalized effectiveness monitoring protocol attached to specific actions. Score 1: clear deadlines at action level, but monitoring is only stated as an aspiration/principle, not operationalized."
+    },
+    "evidence_of_efficacy": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Objective 5.15 Provide guidance to help forest landowners implement forest climate adaptation and mitigation management practices based on the best available science and proven best practices",
+          "location": "Section IV: Resource Strategy, Goal 5",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document references 'best available science' and 'proven best practices' in Objective 5.15 without providing citations, case studies, or data to support specific actions. The threat tables list rationale in the form of general ecological assumptions (e.g., 'resilient forests withstand disturbances') but no evidence from prior projects or studies is cited to support specific management actions in the context of climate adaptation. Score 1: rationale is outlined but no actual evidence is presented for actions.",
+      "projects": []
+    },
+    "adaptation_planning_frameworks": {
+      "evaluable": true,
+      "score": 0,
+      "evidence": [],
+      "absence_note": "No specific climate adaptation planning frameworks are referenced (no RAD, RRT, CCVA, CCSP, SDM, SBDA, adaptation menu, or similar). The document mentions 'adaptive management' implicitly in its monitoring statement ('Effective strategies will be continued; ineffective strategies will be modified or dropped') but this is not framed in a climate-change context and lacks any specific framework name. Per codebook 4.5, adaptive management is in scope only when framed in the context of decision-making under climate change conditions. Score 0."
+    }
+  },
+  "coding_meta": {
+    "coder": "llm:claude-sonnet-4-6",
+    "model": "claude-sonnet-4-6",
+    "provider": "claude",
+    "codebook_version": "0.4",
+    "ingest": "text",
+    "design": "single",
+    "temperature": null,
+    "thinking": null,
+    "thinking_effort": null,
+    "coded_at": "2026-07-07T00:31:33Z",
+    "notes": {}
+  }
+}

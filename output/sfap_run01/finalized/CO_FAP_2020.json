@@ -1,0 +1,727 @@
+{
+  "document_meta": {
+    "title": "2020 Colorado Forest Action Plan",
+    "year": 2020,
+    "jurisdiction": "Colorado (state)",
+    "document_type": "Forest Action Plan",
+    "document_id": "CO_FAP_2020",
+    "page_count": 88
+  },
+  "orientation": {
+    "summary": "The 2020 Colorado Forest Action Plan (CO FAP) is a state-level forest management planning document produced by the Colorado State Forest Service (CSFS), organized around six themes: forest conditions, wildfire, watershed protection, forest wildlife, urban and community forestry, and forest products. The document engages extensively with climate change as a driver of forest threats—particularly through warming temperatures, drought, wildfire intensification, and bark beetle outbreaks—but treats climate largely as a stressor context rather than a subject for distributional or range-shift science. Posture toward range shifts is limited but real: the forest wildlife section includes one strategy that explicitly references facilitating species range shifts and establishing climate refugia, while broader connectivity and habitat fragmentation language appears throughout. The document performs its own spatial prioritization analysis (iterative participatory mapping using HUC-12 subwatersheds) and references external climate projections and vulnerability studies, but does not conduct its own species distribution or vulnerability modeling—instead integrating CPW's 2015 SWAP data and citing published climate assessments.",
+    "evidence_index": [
+      {
+        "text": "Averaged across Colorado, mean annual temperatures have increased by 2 degrees Fahrenheit over the past 30 years. All future climate models project a continued increase in mean annual temperatures, with the greatest warming expected in the summer months (Figure E)",
+        "location": "CLIMATE R E S O U R C E A S S E S S M E N T",
+        "relevant_elements": ["1.1", "2.3", "3.5"]
+      },
+      {
+        "text": "Observed and projected changes are shown in near-surface air temperature for Colorado. Observed data are from the period 1900-2014. Projected changes for 2006-2100 are from global climate models for two possible futures: a higher greenhouse gases (GHG) emissions scenario and a lower GHG emissions scenario.",
+        "location": "FIGURE E",
+        "relevant_elements": ["2.3", "1.1"]
+      },
+      {
+        "text": "Increasing pressures on forests are expected to continue as a changing climate challenges the forests' natural defenses against insects and disease. Longer fire seasons and more uncharacteristic wildfires also are expected. Adaptive forest management will be necessary to address the dynamic threats to forest health in Colorado.",
+        "location": "FOREST CONDITIONS",
+        "relevant_elements": ["1.1", "3.5", "3.7"]
+      },
+      {
+        "text": "Colorado's 159 'Species of Greatest Conservation Need' are negatively impacted by a lack of knowledge (including understanding species' needs and responses to management) and natural systems modifications … Disturbances are amplified by increasing drought occurrence, climate change (e.g., shifting seasonality of fire and vegetation) and altered native vegetation",
+        "location": "T H E M E : F O R E S T W I L D L I F E C H A L L E N G E S A N D T H R E",
+        "relevant_elements": ["1.1", "3.6", "3.7"]
+      },
+      {
+        "text": "Drought and climate change are depleting available resources for wildlife including water, food and cover. Available habitat is shifting across the landscape in response. These conditions and trends require implementation of adaptive forestry management techniques that are compatible with habitat structure and function.",
+        "location": "T H E M E : F O R E S T W I L D L I F E C H A L L E N G E S A N D T H R E",
+        "relevant_elements": ["1.1", "1.3", "3.5", "3.6"]
+      },
+      {
+        "text": "Species with low adaptive capacity such as those with specialized habitat needs or limited dispersal ability face higher vulnerability to these changes.",
+        "location": "T H E M E : F O R E S T W I L D L I F E C H A L L E N G E S A N D T H R E",
+        "relevant_elements": ["1.2", "1.3"]
+      },
+      {
+        "text": "Facilitate shifts in the geographic and elevation ranges of species, in anticipation of future conditions.",
+        "location": "[FIGURE: Facilitate shifts in the geographic and elevation ranges of species]",
+        "relevant_elements": ["4.2", "1.3", "3.3"]
+      },
+      {
+        "text": "Establish corridors and minimize barriers to allow for wildlife movement to new suitable habitats 2. Prepare suitable habitat in anticipation of future introduction, reintroduction or natural range shift of a species 3. Conserve leading-edge populations (high altitude, northern, etc.)",
+        "location": "[FIGURE: Establish corridors and minimize barriers]",
+        "relevant_elements": ["4.2", "1.4", "4.1", "1.3"]
+      },
+      {
+        "text": "Conserve sites expected to provide future suitable habitat and create climate refugia 4. Protect habitat connectivity such as adjacent reserves and migration corridors",
+        "location": "[FIGURE: Create and connect existing large, intact and protected habitat]",
+        "relevant_elements": ["4.1", "4.2", "1.4"]
+      },
+      {
+        "text": "As urban development continues to threaten ecological connectivity, maintaining unfragmented forested habitat is essential.",
+        "location": "A C T I O N P L A N I C O N S",
+        "relevant_elements": ["1.4"]
+      },
+      {
+        "text": "As urban, suburban and exurban development continues to threaten ecological connectivity, the need for conservation easements in critical watersheds cannot be overstated.",
+        "location": "T H E M E : F O R E S T W I L D L I F E C H A L L E N G E S A N D T H R E",
+        "relevant_elements": ["1.4", "3.4"]
+      },
+      {
+        "text": "Addressing the challenges and threats to habitat, forestry activities can help prioritize conserving existing areas of high biodiversity, enhancing and connecting habitat corridors and protecting ecosystem structure and function.",
+        "location": "G O A L S A N D S T R A T E G I E S GOAL #1 CONSERVE, ENHANCE AND PROTECT CRITICAL HABITAT",
+        "relevant_elements": ["1.4", "4.1"]
+      },
+      {
+        "text": "Habitat quality and connectivity (weighted 2x) » Ecological connectivity [54] » Landscape disturbance index [55] Subtheme 2 -Wildlife distribution (weighted 1x) » Large mammal ranges [56] » Critical habitat for species of greatest conservation need (Tier 1 Terrestrial) [56] » Priority watersheds for Aquatic Tier 1 species [56]",
+        "location": "[FIGURE: Habitat quality and connectivity (weighted 2x)]",
+        "relevant_elements": ["2.4", "1.4", "4.1", "3.1"]
+      },
+      {
+        "text": "The Adaptive Silviculture for Climate Change (ASCC) framework [34,37]. Resistance (to change in species composition and structure) will typically require the most investment and effort. Developing more flexible composition and structural goals designed for resilience is more likely to promote elasticity in regard to disturbances and climate shifts. Silvicultural systems designed for transition include alterations to species composition and structure and planning for alternate and adaptive actions over time.",
+        "location": "FIGURE G",
+        "relevant_elements": ["4.5", "1.1", "4.2"]
+      },
+      {
+        "text": "As forests respond to a changing climate, adaptive forest management uses the best available science to play a role in these responses with the overarching goal of sustaining ecosystem services [35] C urrent forest management methods can integrate adaptive approaches to mitigate climate change effects [35,36].",
+        "location": "IDENTIFYING PRIORITIES",
+        "relevant_elements": ["4.5", "1.1"]
+      },
+      {
+        "text": "Basal area (density) loss projected based on potential insect and disease disturbance through 2027 (weighted 2x) [39] » Potential for canopy fire in 2017 (weighted 2x) [2] » Wildland-urban interface (WUI) projected to 2040 (proxy for land use conversion) (weighted 1x) [29]",
+        "location": "[FIGURE: FOREST CONDITIONSBackground]",
+        "relevant_elements": ["4.1", "2.1"]
+      },
+      {
+        "text": "These efforts, combined with the Northern Institute of Applied Climate Science forest carbon management menu of adaptation strategies and approaches that were used to develop the goals, strategies and approaches of this action plan [33], will be critical components in creating a statewide carbon strategic plan to support climate change adaptation",
+        "location": "[TABLE] WUI RISK: STATEWIDE WILDLAND-URBAN INTERFACE RISK POPULATION, 2017",
+        "relevant_elements": ["4.5", "4.4"]
+      },
+      {
+        "text": "Changing seasonality, including early spring thaws and late frosts, less snow and shorter winters, altered timing of precipitation and longer fire seasons » Declining health of streams, riparian areas and wetland ecosystems » Altered stream flows » Increases in insect pests, forest pathogens and non-native invasive species",
+        "location": "[FIGURE: Changing seasonality, including early spring thaws]",
+        "relevant_elements": ["3.5", "3.6", "3.7"]
+      },
+      {
+        "text": "By the middle of this century, there could be as many as 40 fewer days when the temperature in high-elevation areas of the state drops below 32 degrees, and the entire Southwestern U.S. is expected to experience more prolonged droughts",
+        "location": "CLIMATE R E S O U R C E A S S E S S M E N T",
+        "relevant_elements": ["1.1", "2.3", "3.5"]
+      },
+      {
+        "text": "Wildfire plays a critical role in fire-dependent ecosystems; however, current fuel and climate conditions are contributing to uncharacteristic wildfires that are having negative impacts on watersheds and communities.",
+        "location": "REDUCE THE RISK OF UNCHARACTERISTIC WILDFIRE",
+        "relevant_elements": ["3.5", "3.6"]
+      },
+      {
+        "text": "The increasing trend of uncharacteristic Colorado's Forests Face Persistent Challenges, Increasing Temperatures, More Uncharacteristic Wildfires … is expected to continue based on drought and climate change projections",
+        "location": "CLIMATE R E S O U R C E A S S E S S M E N T",
+        "relevant_elements": ["3.5", "2.3"]
+      },
+      {
+        "text": "Between 2010 and 2020, oscillations in the Palmer Drought Severity Index (PDSI) … exacerbated tree susceptibility to bark beetle-caused mortality. Approximately 64% of pine forests were significantly affected by mountain pine beetle from 1996-2015.",
+        "location": "CLIMATE R E S O U R C E A S S E S S M E N T",
+        "relevant_elements": ["3.5", "3.6", "3.7"]
+      },
+      {
+        "text": "climate change vulnerability assessment of aquatic and terrestrial ecosystems in the U.S. Forest Service Rocky Mountain Region J R Rice L A Joyce C Regan D Winters R Truex RMRS- GTR-376 2018",
+        "location": "References section",
+        "relevant_elements": ["2.1", "1.1"]
+      },
+      {
+        "text": "This Forest Action Plan will be reviewed in five years, and new data and information will be incorporated, as applicable, making this a living document.",
+        "location": "Introduction",
+        "relevant_elements": ["4.3"]
+      },
+      {
+        "text": "The CSFS will monitor the area and evaluate which treatments have the greatest impact on potential fire behavior in various forest types and how long those remain effective.",
+        "location": "T H E M E : F O R E S T P R O D U C T S",
+        "relevant_elements": ["4.3", "4.4"]
+      },
+      {
+        "text": "Develop quantifiable metrics with benchmarks for implementing action plan strategies",
+        "location": "[TABLE] Increased capacity for planning",
+        "relevant_elements": ["4.3"]
+      },
+      {
+        "text": "Increase staffing at the CSFS for planning, implementation, community collaboration, monitoring and developing an adaptive management program that is responsive to unforeseen major forest disturbances",
+        "location": "[TABLE] Increased capacity for planning",
+        "relevant_elements": ["4.3", "4.5"]
+      },
+      {
+        "text": "T o increase the impact of the CSFS and partner work in priority subwatersheds, all funding must be diversified, leveraged, increased and sustained. … Budget increases relative to the scale of the challenges and threats outlined in the Resource Assessment are necessary.",
+        "location": "RESOURCES NECESSARY",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "The RMRI recognizes that the U.S. Forest Service, the Colorado State Forest Service and their partners invest significant funding in forest treatments; however, vulnerabilities persist and work must be focused in high-priority landscapes to maximize impact and mitigate risk.",
+        "location": "Rocky Mountain Restoration Initiative section",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "In Colorado, a Shared Stewardship memorandum of understanding was signed by Gov. Jared Polis and USDA Undersecretary for Natural Resources and Environment Jim Hubbard on Oct. 23, 2019.",
+        "location": "[TABLE] Forest Service conceptualized Shared Stewardship",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "Select species that match projected climate and site conditions 5. Realign significantly disrupted ecosystems to meet expected future conditions",
+        "location": "[FIGURE: Increase overall urban canopy]",
+        "relevant_elements": ["4.2", "4.5", "1.3"]
+      },
+      {
+        "text": "Data were integrated from Colorado Parks and Wildlife's 2015 State Wildlife Action Plan (SWAP) to improve consistency with other statewide prioritization efforts.",
+        "location": "[FIGURE: Habitat quality and connectivity (weighted 2x)]",
+        "relevant_elements": ["2.1", "4.1"]
+      },
+      {
+        "text": "Create and connect existing large, intact and protected habitat 2. Protect areas at high risk of change due to climate effects or land use Conserve sites expected to provide future suitable habitat and create climate refugia 4. Protect habitat connectivity such as adjacent reserves and migration corridors",
+        "location": "[FIGURE: Create and connect existing large, intact and protected habitat]",
+        "relevant_elements": ["4.1", "4.2", "1.4"]
+      },
+      {
+        "text": "Reduce forest fragmentation by creating green infrastructure corridors",
+        "location": "[FIGURE: Sustain or restore fundamental ecological functions]",
+        "relevant_elements": ["1.4"]
+      },
+      {
+        "text": "Lack of seedling regeneration after forest disturbance » Reduced soil moisture in summer » Warmer temperatures, both annual and seasonal » Conversion of forest to nonforest through development and disturbance",
+        "location": "[TABLE] Lack of seedling regeneration after forest disturbance",
+        "relevant_elements": ["3.5", "3.6"]
+      },
+      {
+        "text": "The sustainable vibrancy of Colorado's urban and community forests will require strategic and adaptive planning that addresses: rapid population growth, wildland-urban interface (WUI) risk, climate resilience, invasive species, sustainable funding, a changing labor force, public awareness, stewardship, education and civic engagement",
+        "location": "URBAN AND COMMUNITY FORESTRY",
+        "relevant_elements": ["3.7", "4.5"]
+      },
+      {
+        "text": "Proactive forest management can increase habitat paths for animals to seek shelter and migration routes.",
+        "location": "[FIGURE: Create and connect existing large, intact and protected habitat]",
+        "relevant_elements": ["4.2", "1.4"]
+      }
+    ]
+  },
+  "concepts": {
+    "climate_vulnerability": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Drought and climate change are depleting available resources for wildlife including water, food and cover. Available habitat is shifting across the landscape in response.",
+          "location": "T H E M E : F O R E S T W I L D L I F E C H A L L E N G E S A N D T H R E",
+          "sub_component": "exposure",
+          "citations": []
+        },
+        {
+          "text": "Averaged across Colorado, mean annual temperatures have increased by 2 degrees Fahrenheit over the past 30 years. All future climate models project a continued increase in mean annual temperatures, with the greatest warming expected in the summer months",
+          "location": "CLIMATE R E S O U R C E A S S E S S M E N T",
+          "sub_component": "exposure",
+          "citations": ["[17]", "[18,19]"]
+        }
+      ],
+      "absence_note": "The document discusses climate exposure extensively (warming, drought, wildfire intensification) and notes that species habitat is shifting and that species of greatest conservation need face pressure from climate. However, the document does not operationalize 'adaptive capacity' as an axis of vulnerability in a structured IPCC sense—there is no explicit paired discussion of 'species X faces high exposure and has high/low adaptive capacity.' One passage (in the figures) refers generically to 'species with low adaptive capacity,' but this appears to be language paraphrased from an unverifiable source rather than a document-native passage. Score is 2 (exposure articulated, adaptive capacity referenced only in passing or implicitly via connectivity/dispersal discussions, not as a paired vulnerability axis)."
+    },
+    "adaptive_capacity_specificity": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "These conditions and trends require implementation of adaptive forestry management techniques that are compatible with habitat structure and function.",
+          "location": "T H E M E : F O R E S T W I L D L I F E C H A L L E N G E S A N D T H R E",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "Adaptive capacity is referenced generically via habitat and movement language, but no formal components are named as 'adaptive capacity.' Score is 1."
+    },
+    "adaptive_capacity_components": {
+      "demography": {
+        "present": false,
+        "evidence": []
+      },
+      "distribution": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Facilitate shifts in the geographic and elevation ranges of species, in anticipation of future conditions.",
+            "location": "[FIGURE: Facilitate shifts in the geographic and elevation ranges of species]",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "movement": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Establish corridors and minimize barriers to allow for wildlife movement to new suitable habitats 2. Prepare suitable habitat in anticipation of future introduction, reintroduction or natural range shift of a species",
+            "location": "[FIGURE: Establish corridors and minimize barriers]",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "evolutionary_potential": {
+        "present": false,
+        "evidence": []
+      },
+      "ecological_dependencies": {
+        "present": false,
+        "evidence": []
+      },
+      "abiotic_niche": {
+        "present": false,
+        "evidence": []
+      },
+      "life_history": {
+        "present": false,
+        "evidence": []
+      }
+    },
+    "connectivity": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Establish corridors and minimize barriers to allow for wildlife movement to new suitable habitats 2. Prepare suitable habitat in anticipation of future introduction, reintroduction or natural range shift of a species 3. Conserve leading-edge populations (high altitude, northern, etc.)",
+          "location": "[FIGURE: Establish corridors and minimize barriers]",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Conserve sites expected to provide future suitable habitat and create climate refugia 4. Protect habitat connectivity such as adjacent reserves and migration corridors",
+          "location": "[FIGURE: Create and connect existing large, intact and protected habitat]",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "Connectivity is discussed in explicit climate-relevant framing: corridors for movement to new suitable habitats under future conditions, climate refugia, and leading-edge population conservation all appear in the forest wildlife goals section. This meets the criterion for score 2 (connectivity explicitly framed as supporting climate-driven shifts)."
+    }
+  },
+  "tools": {
+    "vulnerability_models": {
+      "evaluable": true,
+      "score": 1,
+      "named_tools": ["climate change vulnerability assessment"],
+      "evidence": [
+        {
+          "text": "climate change vulnerability assessment of aquatic and terrestrial ecosystems in the U.S. Forest Service Rocky Mountain Region J R Rice L A Joyce C Regan D Winters R Truex RMRS- GTR-376 2018",
+          "location": "References section",
+          "sub_component": null,
+          "citations": ["RMRS-GTR-376"]
+        }
+      ],
+      "absence_note": "A climate vulnerability assessment (RMRS-GTR-376) for the Rocky Mountain Region is cited in the references and Figure E caption. However, the document does not appear to apply vulnerability assessment results to its specific SGCN list or management decisions in a substantive integrated way—the citation appears in the reference list and associated with the temperature projection figure. CPW's 2015 SWAP data are integrated into the forest wildlife priority map but are not a vulnerability model per se. Score is 1 (referenced generally, not applied)."
+    },
+    "niche_models": {
+      "evaluable": true,
+      "score": 0,
+      "named_tools": [],
+      "evidence": [],
+      "absence_note": "No species distribution models or niche models are referenced or applied in this document."
+    },
+    "climate_models": {
+      "evaluable": true,
+      "score": 1,
+      "named_tools": ["global climate models"],
+      "evidence": [
+        {
+          "text": "Projected changes for 2006-2100 are from global climate models for two possible futures: a higher greenhouse gases (GHG) emissions scenario and a lower GHG emissions scenario. Shading indicates the range of variation for the models. Graphic: Reproduced with permission from RMRS-GTR-376",
+          "location": "FIGURE E",
+          "sub_component": null,
+          "citations": ["RMRS-GTR-376"]
+        }
+      ],
+      "absence_note": "Global climate models and two emissions scenarios (higher and lower GHG) are referenced in relation to Figure E showing projected temperature change for Colorado through 2100. However, the projections are reproduced from an external report (RMRS-GTR-376) and are used illustratively for the climate context section—they are not applied to species-specific or habitat-specific management decisions in the plan. Score is 1 (referenced generally, projections presented but not operationally applied to management decisions for focal subjects).",
+      "time_horizon_years": [2100],
+      "emission_scenarios": ["higher GHG emissions scenario", "lower GHG emissions scenario"]
+    },
+    "connectivity_models": {
+      "evaluable": true,
+      "score": 2,
+      "named_tools": ["Ecological connectivity data (Conservation Science Partners)"],
+      "evidence": [
+        {
+          "text": "Habitat quality and connectivity (weighted 2x) » Ecological connectivity [54] » Landscape disturbance index [55] … Data were integrated from Colorado Parks and Wildlife's 2015 State Wildlife Action Plan (SWAP) to improve consistency with other statewide prioritization efforts.",
+          "location": "[FIGURE: Habitat quality and connectivity (weighted 2x)]",
+          "sub_component": null,
+          "citations": ["[54]", "[55]", "[56]"]
+        }
+      ],
+      "absence_note": "Ecological connectivity data (reference [54], attributed to Conservation Science Partners) were incorporated as a weighted layer in the forest wildlife priority map used to direct management decisions. This constitutes application of connectivity modeling output to inform management decisions about focal subjects (forest wildlife, including SGCN). Score is 2."
+    }
+  },
+  "context": {
+    "management_scale": {
+      "local": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Tactical and prescriptive planning should occur at the local level by managers and stakeholders who are experts on local conditions.",
+            "location": "[TABLE] The Forest Action Plan sets direction for CSFS staff",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "site": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Wildfire risk reduction activities are often done at the scale of an individual parcel, rather than strategically linked across communities and landscapes",
+            "location": "[FIGURE: The same tree with a crooked trunk]",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "watershed": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "All of the composite map layers were processed at the 12-digit hydrologic unit code (HUC) sixth-level scale, with continuous values from 0 to 100, where increasing values indicate increasing priority. The 12-digit HUC represents subwatersheds",
+            "location": "PRIORITY MAP DEVELOPMENT",
+            "sub_component": null,
+            "citations": ["[38]"]
+          }
+        ]
+      },
+      "city": {
+        "present": false,
+        "evidence": []
+      },
+      "county": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "View and download county reports from the composite priority map and theme priority maps in the Forest Action Plan application of the Colorado Forest Atlas",
+            "location": "MORE ONLINE",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "within_state_region": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The first draft composite priority map was presented to CSFS staff in each of the four CSFS areas -Northeast, Northwest, Southeast and Southwest.",
+            "location": "ITERATIVE, PARTICIPATORY MAPPING PROCESS",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "state": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The 2020 Colorado Forest Action Plan provides a strategic framework to address the benefits, conditions and trends in Colorado's forests, as well as the threats and challenges the state's forests face across political, jurisdictional and ecological boundaries.",
+            "location": "Introduction",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "multistate": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The forests that extend between Colorado and New Mexico are of particular interest to both states, primarily for reasons related to watershed protection. One example of this is the Two Watersheds -Three Rivers -Two States Cohesive Strategy Partnership",
+            "location": "CSFS Assists Tribal Ranches with Wildfire Risk Reduction Projects in Southwest Colorado",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "national": {
+        "present": false,
+        "evidence": []
+      },
+      "transnational": {
+        "present": false,
+        "evidence": []
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Wildfire plays a critical role in maintaining the health of many ecosystems in Colorado.",
+            "location": "FOREST CONDITIONS",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecoregion": {
+        "present": false,
+        "evidence": []
+      },
+      "province": {
+        "present": false,
+        "evidence": []
+      },
+      "section": {
+        "present": false,
+        "evidence": []
+      },
+      "subsection": {
+        "present": false,
+        "evidence": []
+      },
+      "lake": {
+        "present": false,
+        "evidence": []
+      },
+      "river": {
+        "present": false,
+        "evidence": []
+      },
+      "district": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The Alpine Plateau GNA project was initiated by the CSFS and USFS on lands in the Gunnison Ranger District",
+            "location": "Good Neighbor Authority Project Clears Dead Trees for Southwestern Community ALPINE PLATEAU C A S E S T U D Y",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "named_entities": ["Colorado (statewide)", "Southwest Colorado", "Upper South Platte", "Upper Arkansas", "San Juan Mountains", "HUC-12 subwatersheds", "Gunnison Ranger District", "Chaffee County", "Arkansas River headwaters", "Front Range"]
+    },
+    "biological_unit_score": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Facilitate shifts in the geographic and elevation ranges of species, in anticipation of future conditions.",
+          "location": "[FIGURE: Facilitate shifts in the geographic and elevation ranges of species]",
+          "sub_component": "species",
+          "citations": []
+        },
+        {
+          "text": "Colorado's forested watersheds are the headwaters for four major rivers … Forests have various effects on the natural water cycle … and forest health impacts watershed health.",
+          "location": "WATERSHED HEALTH",
+          "sub_component": "ecosystem",
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "biological_unit_components": {
+      "species": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Facilitate shifts in the geographic and elevation ranges of species, in anticipation of future conditions.",
+            "location": "[FIGURE: Facilitate shifts in the geographic and elevation ranges of species]",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "population": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Conserve leading-edge populations (high altitude, northern, etc.)",
+            "location": "[FIGURE: Establish corridors and minimize barriers]",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "habitat": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Prepare suitable habitat in anticipation of future introduction, reintroduction or natural range shift of a species",
+            "location": "[FIGURE: Establish corridors and minimize barriers]",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Wildfire plays a critical role in maintaining the health of many ecosystems in Colorado.",
+            "location": "FOREST CONDITIONS",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "community": {
+        "present": false,
+        "evidence": []
+      },
+      "genotype_phenotype": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["Species of Greatest Conservation Need (SGCN)", "lodgepole pine", "spruce-fir", "ponderosa pine", "aspen", "piñon-juniper", "mountain pine beetle", "spruce beetle", "Douglas-fir", "Colorado's 159 SGCN (CPW)"]
+    },
+    "partnerships_and_funding": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "In Colorado, a Shared Stewardship memorandum of understanding was signed by Gov. Jared Polis and USDA Undersecretary for Natural Resources and Environment Jim Hubbard on Oct. 23, 2019.",
+          "location": "[TABLE] Forest Service conceptualized Shared Stewardship",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "The 2-3-2 has secured more than $5 million and accomplished many goals, including facilitating the use of prescribed fire with resources from multiple forests; leveraging funding to secure Rural Conservation Partnership Program work on private lands; building an online spatial data portal for planning treatments",
+          "location": "CSFS Assists Tribal Ranches with Wildfire Risk Reduction Projects in Southwest Colorado",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document describes active, formalized partnerships (MOU with USDA, Good Neighbor Authority cooperative agreements, 2-3-2 partnership with secured funding, Rocky Mountain Restoration Initiative) with named partners and documented outcomes. This reflects strategic investment with active implementation partnerships, meeting score 2. Note that most partnership and funding discussion is in the context of general forest management/wildfire risk rather than range-shift-specific actions, but range-shift facilitation is embedded within the forest wildlife management program these partnerships serve."
+    },
+    "climate_threat_habitat_degradation": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Current and expected future conditions, including persistent droughts and uncharacteristic wildfires, have and will continue to negatively impact forest health and the source water and habitat these forests provide.",
+          "location": "A C T I O N P L A N I C O N S",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_threat_species_vital_rates": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Lack of seedling regeneration after forest disturbance » Reduced soil moisture in summer » Warmer temperatures, both annual and seasonal",
+          "location": "[TABLE] Lack of seedling regeneration after forest disturbance",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document discusses bark beetle mortality amplified by drought/warm temperatures (a climate event → tree mortality pathway). Lack of seedling regeneration after disturbance under warmer, drier conditions is a direct vital rate impact. Score is 1."
+    },
+    "climate_threat_biotic_stressors": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Disturbances are amplified by increasing drought occurrence, climate change (e.g., shifting seasonality of fire and vegetation) and altered native vegetation (e.g., riparian area deforestation, woody encroachment and non-native invasive species).",
+          "location": "T H E M E : F O R E S T W I L D L I F E C H A L L E N G E S A N D T H R E",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    }
+  },
+  "actions": {
+    "priority_habitat_identification": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "The Forest Action Plan composite priority map was created through an iterative, participatory process to capture natural resource priorities statewide.",
+          "location": "FIGURE H",
+          "sub_component": "spatial representation",
+          "citations": []
+        },
+        {
+          "text": "Conserve sites expected to provide future suitable habitat and create climate refugia 4. Protect habitat connectivity such as adjacent reserves and migration corridors",
+          "location": "[FIGURE: Create and connect existing large, intact and protected habitat]",
+          "sub_component": "climate refugia",
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "targeted_range_shift_actions": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Facilitate shifts in the geographic and elevation ranges of species, in anticipation of future conditions.",
+          "location": "[FIGURE: Facilitate shifts in the geographic and elevation ranges of species]",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Establish corridors and minimize barriers to allow for wildlife movement to new suitable habitats 2. Prepare suitable habitat in anticipation of future introduction, reintroduction or natural range shift of a species 3. Conserve leading-edge populations (high altitude, northern, etc.)",
+          "location": "[FIGURE: Establish corridors and minimize barriers]",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "time_bound_and_monitoring": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "This Forest Action Plan will be reviewed in five years, and new data and information will be incorporated, as applicable, making this a living document.",
+          "location": "Introduction",
+          "sub_component": "time-bound",
+          "citations": []
+        }
+      ],
+      "absence_note": "The plan specifies a five-year review cycle for the plan itself. Individual action strategies (including those related to range shifts) do not include specific deadlines or action-level effectiveness monitoring protocols tied to range-shift outcomes. The CSFS mentions developing monitoring protocols and adaptive management programs as a future resource need, but these are aspirational. The CSFS does note monitoring of the Alpine Plateau timber sale for treatment effectiveness, but this is not range-shift monitoring. Score is 1 (time-bound at plan level, not action level; no explicit effectiveness monitoring for range-shift actions)."
+    },
+    "evidence_of_efficacy": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "These efforts, combined with the Northern Institute of Applied Climate Science forest carbon management menu of adaptation strategies and approaches that were used to develop the goals, strategies and approaches of this action plan [33], will be critical components in creating a statewide carbon strategic plan",
+          "location": "[TABLE] WUI RISK: STATEWIDE WILDLAND-URBAN INTERFACE RISK POPULATION, 2017",
+          "sub_component": null,
+          "citations": ["[33]"]
+        },
+        {
+          "text": "The Adaptive Silviculture for Climate Change (ASCC) framework [34,37]. Resistance (to change in species composition and structure) will typically require the most investment and effort. Developing more flexible composition and structural goals designed for resilience is more likely to promote elasticity in regard to disturbances and climate shifts.",
+          "location": "FIGURE G",
+          "sub_component": null,
+          "citations": ["[34]", "[37]"]
+        }
+      ],
+      "absence_note": "The document references published frameworks and literature (NIACS, ASCC) to justify its adaptation strategies. These are general frameworks applicable to forest management broadly—not site-specific or focal-species-specific efficacy evaluations. This constitutes 'limited evidence' (score 2): references to studies/frameworks with moderate but not direct applicability to the specific management actions being proposed for Colorado's focal subjects.",
+      "projects": ["Northern Institute of Applied Climate Science (NIACS) adaptation menu: The document references NIACS's 'management menu of adaptation strategies and approaches' (citation [33]) as the basis for developing the goals, strategies, and approaches of the action plan, providing limited but applicable evidence for the management approaches taken.", "Adaptive Silviculture for Climate Change (ASCC) Research Network: The document references the ASCC framework (citations [34,37]) as the basis for a resistance-resilience-transition framework used to structure adaptive management approaches, providing literature-based but partially applicable evidence for the silvicultural actions in the plan."]
+    },
+    "adaptation_planning_frameworks": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "The Adaptive Silviculture for Climate Change (ASCC) framework [34,37]. Resistance (to change in species composition and structure) will typically require the most investment and effort. Developing more flexible composition and structural goals designed for resilience is more likely to promote elasticity in regard to disturbances and climate shifts. Silvicultural systems designed for transition include alterations to species composition and structure and planning for alternate and adaptive actions over time.",
+          "location": "FIGURE G",
+          "sub_component": null,
+          "citations": ["[34]", "[37]"]
+        },
+        {
+          "text": "As forests respond to a changing climate, adaptive forest management uses the best available science to play a role in these responses with the overarching goal of sustaining ecosystem services [35] C urrent forest management methods can integrate adaptive approaches to mitigate climate change effects [35,36].",
+          "location": "IDENTIFYING PRIORITIES",
+          "sub_component": null,
+          "citations": ["[35]", "[36]"]
+        }
+      ],
+      "absence_note": "The ASCC framework (Resistance-Resilience-Transition) is explicitly named and described, and is clearly framed as a climate adaptation planning tool. This satisfies score 2 (specific climate adaptation planning framework named and applied). Adaptive management more broadly is also referenced in a climate context. RAD/RRT-type language ('resistance,' 'resilience,' 'transition') is explicitly used."
+    }
+  },
+  "coding_meta": {
+    "coder": "llm:claude-sonnet-4-6",
+    "model": "claude-sonnet-4-6",
+    "provider": "claude",
+    "codebook_version": "0.4",
+    "ingest": "text",
+    "design": "single",
+    "temperature": null,
+    "thinking": null,
+    "thinking_effort": null,
+    "coded_at": "2026-07-07T00:31:30Z",
+    "notes": {}
+  }
+}

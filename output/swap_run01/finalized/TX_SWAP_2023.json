@@ -1,0 +1,789 @@
+{
+  "document_meta": {
+    "title": "State Wildlife Action Plan: Texas (SWAP: Texas)",
+    "year": 2023,
+    "jurisdiction": "Texas",
+    "document_type": "SWAP",
+    "document_id": "TX_SWAP_2023",
+    "page_count": 463
+  },
+  "orientation": {
+    "summary": "This is the 2023 State Wildlife Action Plan (SWAP) for Texas, a comprehensive revision of the prior 2013 Texas Conservation Action Plan, published by Texas Parks and Wildlife Department. The document covers SGCN species, priority habitats, threats, and conservation actions across all 12 Texas ecoregions. Climate change is acknowledged as a significant stressor and is listed as a formal threat category (11.0), but the plan treats it primarily as one of many threats rather than as the organizing framework. Range shifts are mentioned briefly—specifically that species are moving northward and that connectivity is needed as species shift with climate change—but the document does not perform its own range-shift science; it primarily references secondary sources. The plan incorporates the Southeast Conservation Blueprint (SECAS) as a spatial planning tool and describes the Texas Native Fish Conservation Areas Network in depth as a conservation success story.",
+    "evidence_index": [
+      {
+        "text": "As the Earth warms, species shift to northern latitudes and higher altitudes.",
+        "location": "Climate Change and Severe Weather, Chapter 5",
+        "relevant_elements": ["1.1", "1.3", "2.3", "3.3"]
+      },
+      {
+        "text": "Climate is the key determining variable of species distributions. As the Earth warms, species shift to northern latitudes and higher altitudes. Phenology studies changes in the timing of biological behaviors such as flowering migration.",
+        "location": "Climate Change and Severe Weather, Chapter 5",
+        "relevant_elements": ["1.1", "1.3", "2.3"]
+      },
+      {
+        "text": "Changes in the habitats that species occupy. Texas bay waters have warmed by an average of nearly 3°F over the past 25 years. Cold-sensitive plant species, such as the red mangrove, are moving north up the Texas coast.",
+        "location": "Climate Change and Severe Weather, Chapter 5",
+        "relevant_elements": ["1.1", "1.3", "3.3", "3.5"]
+      },
+      {
+        "text": "South Texas bird species, including the least grebe, great kiskadee, green jay, and buff-bellied hummingbird, are expanding northward. Gray snapper have been reaching farther north in the Gulf of Mexico since the 1990s",
+        "location": "Climate Change and Severe Weather, Chapter 5",
+        "relevant_elements": ["1.1", "3.3", "3.6"]
+      },
+      {
+        "text": "species' physiological limits are tested as shifting temperatures, altered hydrology, and changing seasonal cues affect survival, reproduction, and migration",
+        "location": "North American Warm Desert Cienega, Supplement 4.2",
+        "relevant_elements": ["1.1", "1.3", "3.6"]
+      },
+      {
+        "text": "Furthermore, changing climate trends have the potential to impact freshwater fishes (Lynch et al. 2016). Droughts are expected to increase in frequency and severity in Texas, affecting the timing and frequency of flows and water levels necessary to support spawning and other habitat requirements of freshwater fishes.",
+        "location": "Conservation Status of Texas Freshwater Fishes",
+        "relevant_elements": ["1.1", "3.5", "3.6"]
+      },
+      {
+        "text": "Paukert et al. (2016) recommended that to support the ability of native freshwater fishes to adapt to climate change, resource managers will need to increasingly focus available resources on actions that enhance the resiliency of watersheds, habitats, and ecosystems.",
+        "location": "Texas NFCAs Network discussion",
+        "relevant_elements": ["1.2", "4.2", "4.5"]
+      },
+      {
+        "text": "The best hedge against the uncertainty about exactly how climate change will manifest itself in Texas and its effects on species and habitats is improving connectivity between habitat patches and giving species room to disperse over large areas.",
+        "location": "Climate Change and Severe Weather, Chapter 5",
+        "relevant_elements": ["1.4", "4.2"]
+      },
+      {
+        "text": "as species shift northward because of changing climate conditions, connections between habitat patches will be critical as animals seek new territories, search for food and mates, and avoid predators.",
+        "location": "Connectivity section, Chapter 5 (Additional Threats outside the standard lexicon)",
+        "relevant_elements": ["1.4", "4.2"]
+      },
+      {
+        "text": "A connectivity analysis identifies corridors that link coastal and inland areas and span climate gradients. This portion of the Southeast Blueprint is referred to as the 'Base Blueprint'.",
+        "location": "About the Southeast Blueprint, Chapter 4",
+        "relevant_elements": ["1.4", "2.4", "4.1"]
+      },
+      {
+        "text": "This indicator depicts the number of different stream size classes in a river network not separated by dams or waterfalls. River networks with a variety of connected stream classes help retain aquatic biodiversity in a changing climate by allowing species to access climate refugia and move between habitats.",
+        "location": "Supplement 4.1 SECAS Blueprint indicators",
+        "relevant_elements": ["1.4", "4.1"]
+      },
+      {
+        "text": "species distribution models and spatial conservation prioritizations",
+        "location": "Conservation Status of Texas Freshwater Fishes",
+        "relevant_elements": ["2.2", "4.1"]
+      },
+      {
+        "text": "Species distribution models (SDMs) were assembled for 85 of the 90 species",
+        "location": "Spatial Prioritization of Native Fish Conservation Areas in Texas",
+        "relevant_elements": ["2.2", "4.1"]
+      },
+      {
+        "text": "According to Climate Wizard in 2050 global climate change model (using Medium A1B emission scenario and Ensemble Average general circulation model), the average annual temperature is predicted to rise approximately 5°F",
+        "location": "Tamaulipan Calcareous Thornscrub, Supplement 4.2",
+        "relevant_elements": ["2.3", "3.5"]
+      },
+      {
+        "text": "General circulation models (global climate models) study these complex interactions. When given information about the possible makeup of the atmosphere in the future (i.e., greenhouse gas scenarios), they generate projections of future climate",
+        "location": "Climate Change and Severe Weather, Chapter 5",
+        "relevant_elements": ["2.3"]
+      },
+      {
+        "text": "Climate projections vary among models, and, in general, there is greater consensus across models on the level of future warming than changes in precipitation or extreme rainfall events.",
+        "location": "Climate Change and Severe Weather, Chapter 5",
+        "relevant_elements": ["2.3"]
+      },
+      {
+        "text": "Twenty native fish conservation areas have been designated throughout the state. These were selected based on a spatial prioritization focused on identification of freshwater systems critically important to the long-term persistence of 91 freshwater fishes considered species of greatest conservation need.",
+        "location": "Native Fish Conservation Areas, Chapter 4",
+        "relevant_elements": ["4.1", "4.2"]
+      },
+      {
+        "text": "To conserve existing biodiversity in Texas, we can take several steps... establishing ecological corridors through habitat restoration and conservation.",
+        "location": "Resource and habitat protection (1.2), Chapter 6",
+        "relevant_elements": ["4.1", "4.2", "1.4"]
+      },
+      {
+        "text": "To ensure the resiliency of Texas' ecosystem in the face of climate change, it is crucial to use available data and locally adapted modeling tools, such as the Texas Ecosystem Analytical Mapper, to identify the potential effects of climate change. These effects can include sea level rise, shoreline erosion, saltwater incursion, loss of cold-water habitats, increase in and more frequent stand-replacing fires",
+        "location": "Resource and habitat protection (1.2), Chapter 6",
+        "relevant_elements": ["1.1", "3.5", "4.1", "4.5"]
+      },
+      {
+        "text": "Increasing sea-level rise associated with global climate change will lead to more loss of coastal grasslands, especially in developed areas where development restricts the potential for inland migration of the grasslands.",
+        "location": "Texas Coast Dune and Coastal Grassland, Supplement 4.2",
+        "relevant_elements": ["3.5", "3.7"]
+      },
+      {
+        "text": "Potential climate change effects on vegetation could include a shift to species adapted to a hotter, generally drier environment.",
+        "location": "Tamaulipan Calcareous Thornscrub / multiple habitat sections, Supplement 4.2",
+        "relevant_elements": ["3.5", "3.7"]
+      },
+      {
+        "text": "Climate change is predicted to cause a shift to species adapted to a hotter, generally drier environment, potentially leading to reduced plant growth and increased mortality from extreme events including exceptional drought.",
+        "location": "Tamaulipan Palm Grove Riparian Forest, Supplement 4.2",
+        "relevant_elements": ["3.6", "3.7"]
+      },
+      {
+        "text": "Highly localized and intrinsically rare species will have few options to adapt as habitats shift, change, or disappear with climate change; options for transplanting or translocation are restricted as many of these habitats are edaphically specialized",
+        "location": "Ecoregion-specific responses from stakeholders, Chapter 5",
+        "relevant_elements": ["1.2", "3.5", "4.2"]
+      },
+      {
+        "text": "Within the Central Great Plains and Eastern Central Plains ecological regions, highly localized and intrinsically rare species will have few options to adapt as habitats shift, change, or disappear with climate change",
+        "location": "Ecoregion-specific responses from stakeholders, Chapter 5",
+        "relevant_elements": ["1.2", "3.5"]
+      },
+      {
+        "text": "Changes to the composition of plant and animal communities. Increases in concentrations of CO2 favor woody shrubs invading prairie grasslands.",
+        "location": "Climate Change and Severe Weather, Chapter 5",
+        "relevant_elements": ["3.7"]
+      },
+      {
+        "text": "Warming has allowed invasive cheatgrass to expand its range... [implicit; document notes that non-native grasses are providing fine fuels after wet years]",
+        "location": "Chihuahuan Mixed Desert and Thornscrub, Supplement 4.2",
+        "relevant_elements": ["3.7"]
+      },
+      {
+        "text": "As fish and wildlife agencies plan and prepare for current and anticipated effects of climate change, the Texas NFCAs Network offers a case study in engagement of the broader community of conservation practitioners to scale up investments in conservation planning and delivery to enhance the resiliency of freshwater systems.",
+        "location": "Texas NFCAs Network Discussion",
+        "relevant_elements": ["4.4", "4.5"]
+      },
+      {
+        "text": "efforts to implement the Texas NFCAs Network have emphasized conservation and management of natural landscapes, watershed processes, habitats, species, and ecosystems in a manner that enhances their resiliency and adaptive capacity",
+        "location": "Texas NFCAs Network Discussion",
+        "relevant_elements": ["1.2", "4.2", "4.5"]
+      },
+      {
+        "text": "We need to implement an adaptive management framework to ensure that our conservation efforts remain effective. This framework should respond to changing conservation priorities as new information is collected and analyzed",
+        "location": "Resource and habitat protection (1.2), Chapter 6",
+        "relevant_elements": ["4.3", "4.5"]
+      },
+      {
+        "text": "Is the species vulnerable to climate change? If so, is there a reasonable way to mitigate it?",
+        "location": "Chapter 7 Monitoring / SWG prioritization criteria",
+        "relevant_elements": ["1.1"]
+      },
+      {
+        "text": "Lynch et al. (2016) summarized climate trends that have the potential to influence freshwater fishes and compiled findings of 31 peer-reviewed studies from throughout North America that documented climate change effects on freshwater fishes.",
+        "location": "Texas NFCAs Network section",
+        "relevant_elements": ["1.1", "3.6"]
+      },
+      {
+        "text": "Sea-level rise is expected to have a greater impact in places with insufficient buffer to allow landward migration.",
+        "location": "Texas Saline Coastal Prairie, Supplement 4.2",
+        "relevant_elements": ["3.5", "4.2"]
+      },
+      {
+        "text": "This indicator depicts the capacity of coastal habitats to migrate to adjacent lowlands in order to sustain biodiversity and natural services under increasing inundation from sea-level rise.",
+        "location": "Supplement 4.1 SECAS Blueprint indicators",
+        "relevant_elements": ["1.4", "3.5", "4.2"]
+      },
+      {
+        "text": "Preventing shoreline armoring increases erosion, prevents the inland migration of coastal ecosystems in response to sea-level rise",
+        "location": "Supplement 4.1 SECAS Blueprint indicators (coastal shoreline condition)",
+        "relevant_elements": ["3.5", "4.2"]
+      },
+      {
+        "text": "Highly resilient sites contain many different habitat niches that support biodiversity, and allow species to move freely through the landscape to find suitable microclimates as the climate changes.",
+        "location": "Supplement 4.1 SECAS Blueprint indicators (resilient terrestrial sites)",
+        "relevant_elements": ["1.4", "4.1"]
+      },
+      {
+        "text": "Southeast Conserva­tion Adapta­tion Strategy Blueprint for Texas that includes over 20 indices of habitat condi­tions",
+        "location": "Element 2 overview, Chapter 1",
+        "relevant_elements": ["4.1", "4.5"]
+      },
+      {
+        "text": "Landscape-scale partnerships. Regional conservation initiatives bring together a variety of stakeholders to accomplish conservation priorities at a regional scale... Examples include Southeastern Conservation Adaptation Strategy Blueprint and the Western Crucial Habitat Assessment Tool (CHAT).",
+        "location": "SWG Partnerships, Chapter 7",
+        "relevant_elements": ["3.4", "4.5"]
+      },
+      {
+        "text": "Through partnerships with zoos (Houston Zoo, Fort Worth Zoo) and Texas State University, Houston Toad tadpoles and young adults have been reared and released to protected sites within their historic range in Bastrop County.",
+        "location": "Species reintroduction (3.3), Chapter 6",
+        "relevant_elements": ["4.2", "4.4"]
+      },
+      {
+        "text": "Restoration of instream connectivity (i.e., longitudinal connectivity) within rivers and streams of the Texas NFCAs Network has primarily centered on the removal of low-head dams",
+        "location": "Goal 3: restore instream and floodplain connectivity, Texas NFCAs Network",
+        "relevant_elements": ["1.4", "4.2", "4.4"]
+      },
+      {
+        "text": "Since 2009, over $1.4 million has been invested through the State Wildlife Grants Program in applied research to guide and inform Guadalupe Bass conservation strategies.",
+        "location": "Introduction (Freshwater Fishes section)",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "Private donors contributed US$190,000, which was leveraged against approximately $1.2 million in state and federal funding to implement conservation projects",
+        "location": "Goal 5, Texas NFCAs Network",
+        "relevant_elements": ["3.4"]
+      }
+    ]
+  },
+  "concepts": {
+    "climate_vulnerability": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Climate is the key determining variable of species distributions. As the Earth warms, species shift to northern latitudes and higher altitudes.",
+          "location": "Climate Change and Severe Weather, Chapter 5",
+          "sub_component": "exposure",
+          "citations": []
+        },
+        {
+          "text": "Furthermore, changing climate trends have the potential to impact freshwater fishes (Lynch et al. 2016). Droughts are expected to increase in frequency and severity in Texas, affecting the timing and frequency of flows and water levels necessary to support spawning and other habitat requirements of freshwater fishes.",
+          "location": "Conservation Status of Texas Freshwater Fishes",
+          "sub_component": "exposure",
+          "citations": ["Lynch et al. 2016"]
+        },
+        {
+          "text": "Is the species vulnerable to climate change? If so, is there a reasonable way to mitigate it? A decreased likelihood of meaningful conservation will decrease priority. If species is vulnerable but conservation and recovery is achievable, species priority is increased.",
+          "location": "Chapter 7 Monitoring / SWG prioritization criteria",
+          "sub_component": "exposure",
+          "citations": []
+        }
+      ],
+      "absence_note": "The document references climate vulnerability primarily through the lens of exposure (warming, drought, sea-level rise) and mentions CCVI implicitly via NatureServe tools, but does not explicitly discuss adaptive capacity as an axis of vulnerability in the IPCC sense. The SWG prioritization criteria do ask 'Is the species vulnerable to climate change?' without decomposing it into exposure and adaptive capacity. Score is 2 (exposure referenced) rather than 3 because adaptive capacity is not explicitly framed as a component of climate vulnerability assessment."
+    },
+    "adaptive_capacity_specificity": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Paukert et al. (2016) recommended that to support the ability of native freshwater fishes to adapt to climate change, resource managers will need to increasingly focus available resources on actions that enhance the resiliency of watersheds, habitats, and ecosystems.",
+          "location": "Texas NFCAs Network discussion",
+          "sub_component": null,
+          "citations": ["Paukert et al. 2016"]
+        }
+      ],
+      "absence_note": "The document references the general idea of species' ability to adapt (using terms like 'resiliency' and 'adaptive capacity') in the context of climate change, but does not operationalize any specific components of adaptive capacity. Score is 1 (generic reference) rather than 2 because no specific components (dispersal, genetic diversity, thermal niche, etc.) are explicitly named as drivers of adaptive capacity in a climate context."
+    },
+    "adaptive_capacity_components": {
+      "demography": {
+        "present": false,
+        "evidence": []
+      },
+      "distribution": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "As the Earth warms, species shift to northern latitudes and higher altitudes.",
+            "location": "Climate Change and Severe Weather, Chapter 5",
+            "sub_component": null,
+            "citations": []
+          },
+          {
+            "text": "Cold-sensitive plant species, such as the red mangrove, are moving north up the Texas coast. Early maps showed no red mangrove north of the Rio Grande estuary; today, they appear as far north as the edge of Matagorda Bay.",
+            "location": "Climate Change and Severe Weather, Chapter 5",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "movement": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The best hedge against the uncertainty about exactly how climate change will manifest itself in Texas and its effects on species and habitats is improving connectivity between habitat patches and giving species room to disperse over large areas.",
+            "location": "Climate Change and Severe Weather, Chapter 5",
+            "sub_component": null,
+            "citations": []
+          },
+          {
+            "text": "as species shift northward because of changing climate conditions, connections between habitat patches will be critical as animals seek new territories, search for food and mates, and avoid predators.",
+            "location": "Connectivity section, Chapter 5 (Additional Threats)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "evolutionary_potential": {
+        "present": false,
+        "evidence": []
+      },
+      "ecological_dependencies": {
+        "present": false,
+        "evidence": []
+      },
+      "abiotic_niche": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "species' physiological limits are tested as shifting temperatures, altered hydrology, and changing seasonal cues affect survival, reproduction, and migration",
+            "location": "North American Warm Desert Cienega, Supplement 4.2",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "life_history": {
+        "present": false,
+        "evidence": []
+      }
+    },
+    "connectivity": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "as species shift northward because of changing climate conditions, connections between habitat patches will be critical as animals seek new territories, search for food and mates, and avoid predators.",
+          "location": "Connectivity section, Chapter 5 (Additional Threats)",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "A connectivity analysis identifies corridors that link coastal and inland areas and span climate gradients. This portion of the Southeast Blueprint is referred to as the 'Base Blueprint'.",
+          "location": "About the Southeast Blueprint, Chapter 4",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    }
+  },
+  "tools": {
+    "vulnerability_models": {
+      "evaluable": true,
+      "score": 1,
+      "named_tools": ["NatureServe CCVI", "NatureServe Rank Calculator"],
+      "evidence": [
+        {
+          "text": "on the national front, other states and the Association of Fish and Wildlife Agencies were also seriously researching and addressing this issue, amassing information, and testing species vulnerability models.",
+          "location": "Climate Change and Severe Weather, Chapter 5",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document references NatureServe conservation status ranks extensively for SGCN selection but these are general conservation status assessments, not specifically climate vulnerability models. The document mentions 'testing species vulnerability models' in passing. NatureServe CCVI is not explicitly applied to the SGCN. Score 1 (referenced generally) rather than 2."
+    },
+    "niche_models": {
+      "evaluable": true,
+      "score": 2,
+      "named_tools": ["Species Distribution Models (SDMs)", "Zonation"],
+      "evidence": [
+        {
+          "text": "Species distribution models (SDMs) were assembled for 85 of the 90 species; SDMs were not assembled for four species and subspecies that are likely extinct",
+          "location": "Spatial Prioritization of Native Fish Conservation Areas in Texas",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "The SDMs converted point occurrence data into rangewide probabilities of occurrence (Guisan et al. 2013). Fish occurrence data used in development of SDMs consisted of museum-vouchered available from the University of Texas at Austin Fishes of Texas database",
+          "location": "Spatial Prioritization of Native Fish Conservation Areas in Texas",
+          "sub_component": null,
+          "citations": ["Guisan et al. 2013"]
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_models": {
+      "evaluable": true,
+      "score": 1,
+      "named_tools": ["Climate Wizard", "General Circulation Models (GCMs)"],
+      "evidence": [
+        {
+          "text": "According to Climate Wizard in 2050 global climate change model (using Medium A1B emission scenario and Ensemble Average general circulation model), the average annual temperature is predicted to rise approximately 5°F and average annual precipitation will not significantly change (TNC 2013).",
+          "location": "Tamaulipan Calcareous Thornscrub / multiple habitat sections, Supplement 4.2",
+          "sub_component": null,
+          "citations": ["TNC 2013"]
+        }
+      ],
+      "absence_note": "Climate Wizard projections are cited for multiple habitat types but these are drawn from a 2013 TNC report rather than being applied directly by this document. The document also references 'general circulation models' descriptively in the threats chapter. Score is 1 (referenced generally / via prior reports) rather than 2 because the document does not perform its own climate modeling or directly apply climate projections to SGCN management decisions.",
+      "time_horizon_years": [2050],
+      "emission_scenarios": ["A1B"]
+    },
+    "connectivity_models": {
+      "evaluable": true,
+      "score": 2,
+      "named_tools": ["Southeast Conservation Blueprint", "Zonation", "Western Association of Fish and Wildlife Agencies Crucial Habitat Assessment Tool (CHAT)", "least-cost path"],
+      "evidence": [
+        {
+          "text": "The Blueprint uses a least-cost path connectivity analysis to identify corridors that link hubs across the shortest distance possible, while also routing through as much Blueprint priority as possible.",
+          "location": "About the Southeast Blueprint / Hubs and Corridors, Chapter 4",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Supplement 4.1 provides a analysis of the condition of Texas habitat using the Southeast Conservation Adaptation Strategy (SECAS) Blueprint, resulting in a customized Conservation Adaptation Strategy Blueprint for Texas that includes over 20 indices of habitat conditions.",
+          "location": "Element 2 overview, Chapter 1",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    }
+  },
+  "context": {
+    "management_scale": {
+      "local": {
+        "present": false,
+        "evidence": []
+      },
+      "site": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "In 2014, the TPWD and the Texas Commission on Environmental Quality cooperated on removal of a 1.2-m-tall low-head dam spanning a 55-m-wide reach of the North Fork Guadalupe River",
+            "location": "Goal 3: restore instream and floodplain connectivity, Texas NFCAs Network",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "watershed": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The Texas NFCAs Network consists of springs, ciénegas, creeks, rivers, and associated watersheds uniquely valued in preservation of Texas freshwater fish diversity.",
+            "location": "Native Fish Conservation Areas, Chapter 4",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "city": {
+        "present": false,
+        "evidence": []
+      },
+      "county": {
+        "present": false,
+        "evidence": []
+      },
+      "within_state_region": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "By the nature of their isolation and rarity, some habitats in the Arizona/New Mexico Mountains and Chihuahuan ecological regions, such as sky islands, montane grasslands and forests, and cienegas, are more vulnerable than others to changes in climate.",
+            "location": "Ecoregion-specific responses from stakeholders, Chapter 5",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "state": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Twenty native fish conservation areas have been designated throughout the state.",
+            "location": "Native Fish Conservation Areas, Chapter 4",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "multistate": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Many of our natural resources are shared directly with four other states and Mexico, and indirectly through migratory routes with other states, Central America, and Canada.",
+            "location": "Chapter 2, Setting the Stage",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "national": {
+        "present": false,
+        "evidence": []
+      },
+      "transnational": {
+        "present": false,
+        "evidence": []
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "River networks with a variety of connected stream classes help retain aquatic biodiversity in a changing climate by allowing species to access climate refugia and move between habitats.",
+            "location": "Supplement 4.1 SECAS Blueprint indicators",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecoregion": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "By the nature of their isolation and rarity, some habitats in the Arizona/New Mexico Mountains and Chihuahuan ecological regions, such as sky islands, montane grasslands and forests, and cienegas, are more vulnerable than others to changes in climate.",
+            "location": "Ecoregion-specific responses from stakeholders, Chapter 5",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "province": {
+        "present": false,
+        "evidence": []
+      },
+      "section": {
+        "present": false,
+        "evidence": []
+      },
+      "subsection": {
+        "present": false,
+        "evidence": []
+      },
+      "lake": {
+        "present": false,
+        "evidence": []
+      },
+      "river": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "In the Devils River NFCA, similar investments of State Wildlife Grant funding have been made to improve understanding of the relationships among groundwater levels, spring discharge, river flows, and habitat conditions for fish and freshwater mussel SGCN",
+            "location": "Goal 7, Texas NFCAs Network",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "district": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["Texas", "Guadalupe River", "San Antonio River", "Blanco River", "Devils River", "Pedernales River", "Llano River", "Colorado River", "Brazos River", "Rio Grande", "Edwards Plateau", "Chihuahuan Desert", "Gulf Coast Prairies and Marshes", "Central Edwards Plateau Rivers NFCA", "Southern Edwards Plateau Rivers NFCA"]
+    },
+    "biological_unit_score": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "As the Earth warms, species shift to northern latitudes and higher altitudes.",
+          "location": "Climate Change and Severe Weather, Chapter 5",
+          "sub_component": "species",
+          "citations": []
+        },
+        {
+          "text": "Potential climate change effects on vegetation could include a shift to species adapted to a hotter, generally drier environment.",
+          "location": "Tamaulipan Calcareous Thornscrub, Supplement 4.2",
+          "sub_component": "community",
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "biological_unit_components": {
+      "species": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Cold-sensitive plant species, such as the red mangrove, are moving north up the Texas coast. Early maps showed no red mangrove north of the Rio Grande estuary; today, they appear as far north as the edge of Matagorda Bay.",
+            "location": "Climate Change and Severe Weather, Chapter 5",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "population": {
+        "present": false,
+        "evidence": []
+      },
+      "habitat": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Potential climate change effects on vegetation could include a shift to species adapted to a hotter, generally drier environment.",
+            "location": "Tamaulipan Calcareous Thornscrub, Supplement 4.2",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecosystem": {
+        "present": false,
+        "evidence": []
+      },
+      "community": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Changes to the composition of plant and animal communities. Increases in concentrations of CO2 favor woody shrubs invading prairie grasslands.",
+            "location": "Climate Change and Severe Weather, Chapter 5",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "genotype_phenotype": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["red mangrove", "least grebe", "great kiskadee", "green jay", "buff-bellied hummingbird", "gray snapper", "freshwater fishes", "Guadalupe Bass", "prairie grasslands", "coastal grasslands"]
+    },
+    "partnerships_and_funding": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Private donors contributed US$190,000, which was leveraged against approximately $1.2 million in state and federal funding to implement conservation projects in the Central Edwards Plateau Rivers, Guadalupe and San Antonio Rivers, and Devils River NFCAs.",
+          "location": "Goal 5, Texas NFCAs Network",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "conservation partnerships have formed among nongovernmental organizations, universities, and state and federal agencies to plan and deliver actions within the Texas NFCAs Network to restore and preserve native fishes and their habitats.",
+          "location": "Texas NFCAs Network Abstract",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The plan describes extensive active partnerships (TPWD, Nature Conservancy, universities, NGOs, USFWS, NRCS, landowners) and specific funding allocations (State Wildlife Grants, National Fish and Wildlife Foundation grants, TFRLCP grants) for conservation actions within the NFCAs. Score 2 reflects strategic investment with active partnerships implementing range-shift-relevant conservation actions."
+    },
+    "climate_threat_habitat_degradation": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Increasing sea-level rise associated with global climate change will lead to more loss of coastal grasslands, especially in developed areas where development restricts the potential for inland migration of the grasslands.",
+          "location": "Texas Coast Dune and Coastal Grassland, Supplement 4.2",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Climate change impacts could exacerbate the situation by reducing high flows, causing a drop in the groundwater table, shrinking and drying the marsh, increasing fire frequency due to warmer temperatures and drier fuels, promoting invasive species",
+          "location": "North American Warm Desert Playa, Supplement 4.2",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_threat_species_vital_rates": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Droughts are expected to increase in frequency and severity in Texas, affecting the timing and frequency of flows and water levels necessary to support spawning and other habitat requirements of freshwater fishes.",
+          "location": "Conservation Status of Texas Freshwater Fishes",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document discusses how climate-driven drought will affect spawning (a vital rate) of freshwater fishes. This crosses the threshold for score 1."
+    },
+    "climate_threat_biotic_stressors": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Changes to the composition of plant and animal communities. Increases in concentrations of CO2 favor woody shrubs invading prairie grasslands.",
+          "location": "Climate Change and Severe Weather, Chapter 5",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Potential climate change effects on vegetation could include a shift to species adapted to a hotter, generally drier environment.",
+          "location": "Tamaulipan Calcareous Thornscrub, Supplement 4.2",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    }
+  },
+  "actions": {
+    "priority_habitat_identification": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Twenty native fish conservation areas have been designated throughout the state. These were selected based on a spatial prioritization focused on identification of freshwater systems critically important to the long-term persistence of 91 freshwater fishes considered species of greatest conservation need.",
+          "location": "Native Fish Conservation Areas, Chapter 4",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "This approach resulted in prioritization of freshwater systems important in preservation of the diversity of freshwater fish SGCN (Figure 1). Zonation was then used to identify species-based geographic management units, here referred to as NFCAs",
+          "location": "Spatial Prioritization of Native Fish Conservation Areas in Texas",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "targeted_range_shift_actions": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "The best hedge against the uncertainty about exactly how climate change will manifest itself in Texas and its effects on species and habitats is improving connectivity between habitat patches and giving species room to disperse over large areas.",
+          "location": "Climate Change and Severe Weather, Chapter 5",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "establishing ecological corridors through habitat restoration and conservation.",
+          "location": "Resource and habitat protection (1.2), Chapter 6",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document proposes connectivity improvements and habitat protection to allow species to shift with climate change (structural facilitation). There is no explicit assisted migration or climate-motivated translocation. Connectivity improvements are framed in the context of range shifts ('as species shift northward because of changing climate conditions, connections between habitat patches will be critical'). Score 1 for structural facilitation."
+    },
+    "time_bound_and_monitoring": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Plans for monitoring effectiveness and adapting conservation actions in response to new information revolves around Knowledge Gap Analyses and the creation of S-Rank Improvement Plans.",
+          "location": "Element 5 Monitoring, Chapter 1 / Chapter 7",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The plan includes a monitoring framework (Knowledge Gap Analysis, S-Rank Improvement Plans, SWG review cycles) and some time-bound elements (e.g., 10-year review cycles, annual SWG review processes). However, individual conservation actions in Chapter 6 do not have explicit deadlines or time-bound milestones attached. The monitoring element is described principally at the plan level (periodic review) rather than operationalized at the level of individual actions. Score 1 for plan-level adaptive management framework without action-level deadlines."
+    },
+    "evidence_of_efficacy": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "One of the most noteworthy conservation success stories for a freshwater fish SGCN in Texas is the restoration of Guadalupe Bass Micropterus treculii... the species was recently repatriated to the Blanco River and the Mission Reach of the San Antonio River",
+          "location": "Introduction (Freshwater Fishes section)",
+          "sub_component": null,
+          "citations": ["Magnelia et al. 2019a", "Birdsong et al. 2020"]
+        },
+        {
+          "text": "As fish and wildlife agencies plan and prepare for current and anticipated effects of climate change, the Texas NFCAs Network offers a case study in engagement of the broader community of conservation practitioners to scale up investments in conservation planning and delivery to enhance the resiliency of freshwater systems.",
+          "location": "Texas NFCAs Network Discussion",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document provides some case studies (Guadalupe Bass, NFCAs Network) with documented outcomes, but much of the evidence is for habitat and species conservation broadly rather than specifically for climate adaptation actions. Score 2 (limited evidence) rather than 3 because the climate-specific action efficacy is not directly tested; the case studies provide relevant but not directly climate-adaptation-targeted evidence.",
+      "projects": ["Texas Native Fish Conservation Areas Network: The NFCAs Network is presented as a case study demonstrating successful multispecies, watershed-scale conservation. It documents measurable outcomes including 3,199 ha of habitat restored in the Central Edwards Plateau NFCA, 13 conservation easements protecting 10,563 ha, and removal of multiple dams to restore fish passage.", "Guadalupe Bass restoration: A 10-year range-wide conservation plan guided efforts to repatriate the species to multiple rivers; by 2018 a goal of 10 self-sustaining populations was achieved, providing evidence that genetic restoration and habitat management actions are effective for this SGCN.", "Saltcedar removal on the Brazos River: Research is being conducted with the University of Texas to evaluate effects of saltcedar control on water budget, water quality, and riparian communities, providing an evidence-gathering framework for the efficacy of invasive species removal."]
+    },
+    "adaptation_planning_frameworks": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "We need to implement an adaptive management framework to ensure that our conservation efforts remain effective. This framework should respond to changing conservation priorities as new information is collected and analyzed and establish long-term monitoring objectives that will serve as the basis of adaptive management.",
+          "location": "Resource and habitat protection (1.2), Chapter 6",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Supplement 4.1 provides a analysis of the condition of Texas habitat using the Southeast Conservation Adaptation Strategy (SECAS) Blueprint, resulting in a customized Conservation Adaptation Strategy Blueprint for Texas that includes over 20 indices of habitat conditions.",
+          "location": "Element 2 overview, Chapter 1",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document references the Southeast Conservation Adaptation Strategy (SECAS) Blueprint as a specific climate adaptation planning tool that has been applied to Texas. It also calls for adaptive management frameworks framed in a climate context. The SECAS Blueprint is a named, specific climate adaptation planning framework that has been applied to the document's focal subjects (Texas habitats and SGCN). Score 2 for reference to specific framework (SECAS) applied to the plan's subject."
+    }
+  },
+  "coding_meta": {
+    "coder": "llm:claude-sonnet-4-6",
+    "model": "claude-sonnet-4-6",
+    "provider": "claude",
+    "codebook_version": "0.4",
+    "ingest": "text",
+    "design": "single",
+    "temperature": null,
+    "thinking": null,
+    "thinking_effort": null,
+    "coded_at": "2026-07-06T18:39:26Z",
+    "notes": {}
+  }
+}

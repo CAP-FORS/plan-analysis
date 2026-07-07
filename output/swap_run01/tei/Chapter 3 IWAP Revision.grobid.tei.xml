@@ -1,0 +1,660 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Development of Species Conservation Status Assessment Criteria We utilized 8 criteria to assess the conservation status of all native, extant Iowa wildlife species. For the 2015 revision, an ad hoc working group of the Wildlife Working Group considered a variety of conservation status assessment schemes, from the published literature, before ultimately developing a set of criteria that could reasonably be utilized by each taxonomic subcommittee for assessing wildlife in Iowa. These included a species assessment methodology described by Partners in Flight as well as NatureServe&apos;s ranking system. For the 2025 revision, the full Wildlife Working Group decided to utilize the same 8 criteria, to allow comparisons between 2015 and 2025 results. The system described in the PIF Handbook on Species Assessment (Panjabi et al. 2012) ranks each species of North American breeding bird based upon seven measures of conservation</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<title level="a" type="main">Development of Species Conservation Status Assessment Criteria We utilized 8 criteria to assess the conservation status of all native, extant Iowa wildlife species. For the 2015 revision, an ad hoc working group of the Wildlife Working Group considered a variety of conservation status assessment schemes, from the published literature, before ultimately developing a set of criteria that could reasonably be utilized by each taxonomic subcommittee for assessing wildlife in Iowa. These included a species assessment methodology described by Partners in Flight as well as NatureServe&apos;s ranking system. For the 2025 revision, the full Wildlife Working Group decided to utilize the same 8 criteria, to allow comparisons between 2015 and 2025 results. The system described in the PIF Handbook on Species Assessment (Panjabi et al. 2012) ranks each species of North American breeding bird based upon seven measures of conservation</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">B26697C66DE6058EA6099F8DB7E28214</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.1" ident="GROBID" when="2026-07-06T11:45+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>status: 1. Population Size (PS) indicates vulnerability due to the total number of adult individuals in the global population. 2. Breeding Distribution (BD) indicates vulnerability due to the geographic extent of a species' breeding range on a global scale. 3. Non-breeding Distribution (ND) indicates vulnerability due to the geographic extent of a species' non-breeding range on a global scale. 4. Threats to Breeding (TB) indicates vulnerability due to the effects of current and probable future extrinsic conditions that threaten the ability of populations to survive and successfully reproduce in breeding areas within North America. 5. Threats to Non-breeding (TN) indicates vulnerability due to the effects of current and probable future extrinsic conditions that threaten the ability of North American breeding populations to survive over the non-breeding season. 6. Population Trend (PT) indicates vulnerability due to the direction and magnitude of changes in population size within North America since the mid-1960s.</p><p>NatureServe's Ranking System <ref type="bibr" target="#b4">(Faber-Langendoen et al. 2012)</ref>, which is used by some state Natural Heritage Programs, also served as a partial basis for the approach used in this assessment. Factors included in NatureServe's Ranking System include:</p><p>*The entirety of the taxonomic groups of native Terrestrial Snails, Moths, and Plants were not assessed for SGCN status due to lack of sufficient information; a subset of species were assessed. This somewhat inflates the percentage of species that were determined to be SGCN of those that were assessed.</p><p>The status assessment process resulted in lists of SCGN for each taxonomic group included in the Plan. These lists are displayed in Tables 3-3 through 3-16.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>After discussing these assessment systems, the working group decided on 8 criteria that would be used to assess the species included in Iowa's Wildlife Action Plan (See Appendix 17 for a detailed description of the ranks associated with each of the following 8 criteria):</p><p>1. Global Range Extent (all other criteria are for Iowa only) 2. Area of Occupancy 3. Long-term Trend 4. Short-term Trend 5. Ecological Specialization (Population Concentration) 6. Dietary Specialization 7. General Ecological Specialization 8. Threat Not Addressed Above</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>The Scoring Process</head><p>The Wildlife Working Group developed a scoring process in which each criterion was weighted according to our understanding of the relative contribution of each factor to a species' overall conservation status. The theoretical potential score for an individual species ranges from 0 -3.75. Calculated scores ranged from 0.57 (for the Snuffbox mussel) to 3.75 (for several species of low conservation concern that have been expanding their range within Iowa). See Appendix 17 for a detailed explanation of the criteria used to score each wildlife species.</p><p>Not all criteria were expected or intended to have normal distributions. For example, the Range Extent criterion exists to significantly reduce the score for the small number of Iowa species which have a global range of less than 40,000 square miles. This is because threats within the Iowa portion of a species' range, with a small overall range, pose greater risk to the species as a whole. Very few species scored a three or lower for this criterion.</p><p>Similarly, the Ecological Specialization -Population Concentration criterion is intended to highlight those species that aggregate at a small number of locations, and therefore could be at risk of extirpation given one disastrous event during the time period when the population is aggregated. This criterion was not relevant for most Iowa species. Rather, it served to reduce the scores for a small number of species which face this high-risk situation, regardless of their current trend and distribution. Thus, a hypothetical example of an 'average' SGCN species would have a restricted geographic range, occupy only a portion of its former range, be suffering moderate long-and short-term population declines, and be specialized with respect to population concentration, diet, or some other factor. Species with 2 or more fields that are unknown went into a separate "Data Deficient" (DD) category of species -for which information needs are high. These species will be SGCN-DD until such time as there is adequate information to allow assessment of their conservation status. If a species has been extirpated from the state, it was also put into a separate category for further discussion. Examples include the Starhead Topminnow and the Pondmussel. This SGCN-E category was created because some extirpated species are better candidates for conservation efforts than others, depending on whether Iowa remains an important part of their range and whether their conservation status in other areas is stable.</p><p>A variety of data resources were utilized by taxonomic subcommittees as they considered which species should be listed as Species of Greatest Conservation Need. In general, the following types of resources were used:</p><p>• Published historic and scientific literature;</p><p>• Unpublished reports, scientific surveys and databases maintained by the DNR fisheries, wildlife and water quality bureaus (e.g., Natural Areas Inventory, Multiple Species Inventory and Monitoring Program, Statewide Mussel Survey, etc.); • Personal research and survey data supplied by wildlife ecologists at Iowa educational institutions;</p><p>• Museum and personal specimen collections;</p><p>• State and regional databases maintained by other conservation organizations (e.g. NatureServe, Partners In Flight, Partners for Amphibian and Reptile Conservation, US Fish and Wildlife Service, US Geological Survey, Iowa Ornithologist's Union, etc.); • Personal expertise of working group members and consultants.</p><p>To determine the list of SGCN from the scores created through the assessments, we combined the wildlife species into one dataset, with the exception of the moth and terrestrial snail species. (The expertise and capacity to address moths and terrestrial snails is limited, so these two subcommittees each selected a relatively small number species to assess. Therefore, including these taxa in the full analysis would have biased the results.) We combined the scores for analysis because separating the data into individual taxa resulted in several groups with non-normal score distributions. Combining these into one group, the dataset was still skewed (more scores with 3+ values) but did have a more normal distribution.</p><p>Given the skewedness, we elected to use the Quartiles and Interquartile Range as the methodology for determining where to set the SGCN value (as opposed to the standard deviation), because the Interquartile Range and Median Absolute Deviation method is less impacted by outliers than the Median Standard Deviation. Species with a score that was at or below the 0.5 Median Absolute Deviation from Quartile 2 were considered to be those of Greatest Conservation Need. First, we found the three Quartiles (Q2 is the median of the dataset while Q1 and Q3 are the medians of the remaining data below and above the median, respectively). The Interquartile Range (IQR) is the difference between Q3 and Q1. The Median Absolute Deviation (MAD) is half of the IQR. This methodology resulted in a SGCN list of wildlife species with scores less than or equal to 2.844. Plants, however, followed a different methodology to determine SGCN status. A working group of plant experts considered records of plants from multiple sources and decided that all native species with fewer than 40 records since 1980, as well as a subset with unknown status, would be considered SGCN. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Future Changes to List of SGCN</head><p>As research and monitoring progress, Iowa may find that the conservation status scores assigned to each species during the 2025 Comprehensive Review and Revision have changed. Also, Iowa may be able to complete the status assessment for species that were rated Data Deficient in 2025. This section outlines the process that would be undertaken to evaluate changes to the list of SGCN within taxonomic groups already included in the Plan prior to the next Comprehensive Review and Revision, scheduled for 2035.</p><p>Step 1: Taxonomic Subcommittee Completes Status Assessment</p><p>The taxonomic subcommittee for the relevant taxon would use the approved criteria to re-do the Species Status Assessment for the species in question (see Appendix 17).</p><p>Step 2: Wildlife Working Group Review and Notification to Fish and Wildlife Service</p><p>Once the Species Status Assessment process is completed, the results will be reviewed for approval by the Wildlife Working Group. If approved by the Wildlife Working Group, then the potential changes to the list of SGCN would be compiled for submission to the US Fish and Wildlife Service (USFWS). The Director of DNR would send a letter of intent to make minor revisions to the Plan to the USFWS Region 3 Coordinator of Conservation Investment (CI) Programs.</p><p>Step 3: Public Review and Submittal of Changes to Fish and Wildlife Service</p><p>Once the USFWS has been informed of Iowa's intent to complete a minor revision to the Plan, the list of species to be added to the SGCN category will be made available for public review and comment. After public input is considered and integrated, then the proposed changes to the list of SGCN will be submitted to the USFWS for review and approval.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Evaluation of Additional Taxonomic Groups</head><p>As additional information about Iowa wildlife becomes available through biological surveys and research, Iowa may consider evaluating other taxonomic groups for inclusion in the Plan. This section outlines the process that would be undertaken to evaluate any potential additional taxa prior to the Plan's next Comprehensive Review and Revision, scheduled for 2035.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Step 1: Completion of Nomination Form by Sponsor</head><p>The evaluation process begins when an interested party (hereafter, "sponsor") submits a form to the Wildlife Working Group of the Implementation Committee. The preferred taxonomic level for inclusion in the Plan is an entire order or sub-order of species known to occur within Iowa, but we will consider groups as small as complete genera occurring within Iowa. For that entire taxon, the form requests information such as the list of species with documented occurrences in Iowa, how long the taxon has been studied in Iowa and what portions of the state have been surveyed, a list of publications resulting from the work (if any), and a list of the primary people studying the taxon within Iowa.</p><p>Step 2: Wildlife Working Group-Sponsor Consultation</p><p>Once a completed nomination form has been received, members of the Wildlife Working Group will work with the sponsor to determine the feasibility of adding the taxon. Feasibility will depend on several issues: whether there are an adequate number of experts knowledgeable about the taxon to develop a taxon-specific subcommittee, whether there are potential sources of funding for research and conservation projects for the taxon, and whether established monitoring protocols for the taxon can be integrated into the Multiple Species Inventory and Monitoring (MSIM) program.</p><p>Step 3: Species Status Assessment</p><p>If the sponsor and the Wildlife Working Group determine that inclusion of the taxon is feasible, then a taxon-specific subcommittee will be formed. The subcommittee will complete a Species Status Assessment process. To be included in the Plan, all Iowa species within the taxonomic group will need to have the Species Status Assessment Scoring Criteria completed (see Appendix 17.) This forms the basis for determining which species would be listed as SGCN, as discussed above. If two or more criteria are unknown for a given species, that species will be placed in the "Data Deficient" category of SGCN.</p><p>Step 4: Wildlife Working Group Review and Notification to Fish and Wildlife Service</p><p>Once the Species Status Assessment process is completed, the results will be reviewed for approval by the Wildlife Working Group. If approved by the Wildlife Working Group, then the potential changes to the list of SGCN would be compiled for submittal to the US Fish and Wildlife Service (USFWS). The Director of DNR would send a letter of intent to make minor revisions to the Plan to the USFWS Region 3 Coordinator of Conservation Investment (CI) Programs.</p><p>Step 5: Public Review and Submittal of Changes to Fish and Wildlife Service</p><p>Once the USFWS has been informed of Iowa's intent to complete a minor revision to the Plan, the list of species to be added to the SGCN category will be made available for public review and comment. After public input is considered and integrated, then the proposed changes to the list of SGCN will be submitted to the USFWS for review and approval.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Tables of Species of Greatest Conservation Need</head><p>The Iowa Department of Natural Resources (DNR) is currently in the process of revising the Iowa Administrative Code (IAC) 571-Chapter 77, which lists the state's Threatened and Endangered (T&amp;E) plants and animals. The proposed rule was not finalized at the time of this update to the Wildlife Action Plan. A list detailing the species with their current and proposed status is available in Appendix 16. The final rule will be officially published and available for public review on the DNR website once the entire revision process is complete and the rule becomes effective.</p><p>Each of the following tables of SGCN is intended to display a similar suite of information for each taxonomic group included in this plan; including common and scientific names, whether the species is considered data deficient, whether the species is listed as Endangered or Threatened at either the state or federal level, and whether the species is included in the Midwest list of Regional Species of Greatest Conservation Need (RSGCN). For some taxa groups, there may be more information included if relevant, or less included (e.g., some taxa were not included in the RSGCN list). Regional SGCN: To access more information about this effort and for the updated list of Regional SGCN.</p><p>• R: Species is considered a Regional Species of Greatest Conservation Need in the Midwest.</p><p>• W: Watchlist. This is a list of species for which there was concern but insufficient information or differing trends across the region (WA: Watchlist -Assessment Priority). For some species this is because there is a different region of the country that is more important to the species than the Midwest (WD: Watchlist -Defer to adjacent region).  Regional SGCN: To access more information about this effort and for the updated list of Regional SGCN.</p><p>• R: Species is considered a Regional Species of Greatest Conservation Need in the Midwest.</p><p>• W: Watchlist. This is a list of species for which there was concern but insufficient information or differing trends across the region (WA: Watchlist -Assessment Priority). For some species this is because there is a different region of the country that is more important to the species than the Midwest (WD: Watchlist -Defer to adjacent region).</p><p>Assessments of species conservation status undertaken as part of the IWAP are used to determine SGCN status only.</p><p>Other information is provided as a reference. Updates to State Wildlife Action Plans, NatureServe National Ranks, Federal T&amp;E Status, and State T&amp;E Status are each independent processes, undertaken by different entities with differing timeframes. As such, the various listings or status ranks for a given species at a given point in time may not always appear to be in accord.  Regional SGCN: To access more information about this effort and for the updated list of Regional SGCN.</p><p>• R: Species is considered a Regional Species of Greatest Conservation Need in the Midwest.</p><p>• W: Watchlist. This is a list of species for which there was concern but insufficient information or differing trends across the region (WA: Watchlist -Assessment Priority). For some species this is because there is a different region of the country that is more important to the species than the Midwest (WD: Watchlist -Defer to adjacent region). • PR: R: Species is proposed as a Regional Species of Greatest Conservation Need in the Midwest, if a Midwest state lists the species as SGCN.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>R2R</head><p>Refers to Road to Recovery Tipping Point Species List.</p><p>• Red Alert Species: Very High Urgency (perilously low population size, steeply declining or unknown population trend) • Orange Alert Species: (large population loss, continued or accelerated decline, conservation reliant) • Yellow Alert List: Moderate Urgency (large population loss, but now relatively stable, still conservation reliant) Assessments of species conservation status undertaken as part of the IWAP are used to determine SGCN status. Other information is provided as a reference. Updates to State Wildlife Action Plans, Regional SGCN lists, Federal T&amp;E Status, etc., are each independent processes, undertaken by different entities with differing timeframes. As such, the various listings or status ranks for a given species at a given point in time may not always appear to be in accord. Please visit the links above for updated information.  Regional SGCN: To access more information about this effort and for the updated list of Regional SGCN.</p><p>• R: Species is considered a Regional Species of Greatest Conservation Need in the Midwest.</p><p>• W: Watchlist. This is a list of species for which there was concern but insufficient information or differing trends across the region (WA: Watchlist -Assessment Priority). For some species this is because there is a different region of the country that is more important to the species than the Midwest (WD: Watchlist -Defer to adjacent region).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>R2R</head><p>Refers to Road to Recovery Tipping Point Species List.</p><p>• Red Alert Species: Very High Urgency (perilously low population size, steeply declining or unknown population trend) • Orange Alert Species: (large population loss, continued or accelerated decline, conservation reliant) • Yellow Alert List: Moderate Urgency (large population loss, but now relatively stable, still conservation reliant) Assessments of species conservation status undertaken as part of the IWAP are used to determine SGCN status. Other information is provided as a reference. Updates to State Wildlife Action Plans, Regional SGCN lists, Federal T&amp;E Status, etc., are each independent processes, undertaken by different entities with differing timeframes. As such, the various listings or status ranks for a given species at a given point in time may not always appear to be in accord. Please visit the links above for updated information.  Regional SGCN: To access more information about this effort and for the updated list of Regional SGCN.</p><p>• R: Species is considered a Regional Species of Greatest Conservation Need in the Midwest.</p><p>• W: Watchlist. This is a list of species for which there was concern but insufficient information or differing trends across the region (WA: Watchlist -Assessment Priority). For some species this is because there is a different region of the country that is more important to the species than the Midwest (WD: Watchlist -Defer to adjacent region). • PR: R: Species is proposed as a Regional Species of Greatest Conservation Need in the Midwest, if a Midwest state lists the species as SGCN.</p><p>Assessments of species conservation status undertaken as part of the IWAP are used to determine SGCN status. Other information is provided as a reference. Updates to State Wildlife Action Plans, Regional SGCN lists, Federal T&amp;E Status, etc., are each independent processes, undertaken by different entities with differing timeframes. As such, the various listings or status ranks for a given species at a given point in time may not always appear to be in accord. Please visit the links above for updated information.  Regional SGCN: To access more information about this effort and for the updated list of Regional SGCN.</p><p>• R: Species is considered a Regional Species of Greatest Conservation Need in the Midwest.</p><p>• W: Watchlist. This is a list of species for which there was concern but insufficient information or differing trends across the region (WA: Watchlist -Assessment Priority). For some species this is because there is a different region of the country that is more important to the species than the Midwest (WD: Watchlist -Defer to adjacent region). • PR: R: Species is proposed as a Regional Species of Greatest Conservation Need in the Midwest, if a Midwest state lists the species as SGCN.</p><p>Assessments of species conservation status undertaken as part of the IWAP are used to determine SGCN status. Other information is provided as a reference. Updates to State Wildlife Action Plans, Regional SGCN lists, Federal T&amp;E Status, etc., are each independent processes, undertaken by different entities with differing timeframes. As such, the various listings or status ranks for a given species at a given point in time may not always appear to be in accord. Please visit the links above for updated information.  Regional SGCN: To access more information about this effort and for the updated list of Regional SGCN.</p><p>• R: Species is considered a Regional Species of Greatest Conservation Need in the Midwest.</p><p>• W: Watchlist. This is a list of species for which there was concern but insufficient information or differing trends across the region (WA: Watchlist -Assessment Priority). For some species this is because there is a different region of the country that is more important to the species than the Midwest (WD: Watchlist -Defer to adjacent region). • PR: R: Species is proposed as a Regional Species of Greatest Conservation Need in the Midwest, if a Midwest state lists the species as SGCN.</p><p>Assessments of species conservation status undertaken as part of the IWAP are used to determine SGCN status. Other information is provided as a reference. Updates to State Wildlife Action Plans, Regional SGCN lists, Federal T&amp;E Status, etc., are each independent processes, undertaken by different entities with differing timeframes. As such, the various listings or status ranks for a given species at a given point in time may not always appear to be in accord. Please visit the links above for updated information.  Assessments of species conservation status undertaken as part of the IWAP are used to determine SGCN status. Other information is provided as a reference. Updates to State Wildlife Action Plans, Regional SGCN lists, Federal T&amp;E Status, etc., are each independent processes, undertaken by different entities with differing timeframes. As such, the various listings or status ranks for a given species at a given point in time may not always appear to be in accord. Please visit the links above for updated information.  Regional SGCN: To access more information about this effort and for the updated list of Regional SGCN.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Common Name Scientific Name T/E Status</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Regional</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Common Name Scientific Name T/E Status</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Regional</head><p>• R: Species is considered a Regional Species of Greatest Conservation Need in the Midwest.</p><p>• W: Watchlist. This is a list of species for which there was concern but insufficient information or differing trends across the region (WA: Watchlist -Assessment Priority). For some species this is because there is a different region of the country that is more important to the species than the Midwest (WD: Watchlist -Defer to adjacent region). • PR: R: Species is proposed as a Regional Species of Greatest Conservation Need in the Midwest, if a Midwest state lists the species as SGCN.</p><p>Assessments of species conservation status undertaken as part of the IWAP are used to determine SGCN status. Other information is provided as a reference. Updates to State Wildlife Action Plans, Regional SGCN lists, Federal T&amp;E Status, etc., are each independent processes, undertaken by different entities with differing timeframes. As such, the various listings or status ranks for a given species at a given point in time may not always appear to be in accord. Please visit the links above for updated information.  Regional SGCN: To access more information about this effort and for the updated list of Regional SGCN.</p><p>• R: Species is considered a Regional Species of Greatest Conservation Need in the Midwest.</p><p>• W: Watchlist. This is a list of species for which there was concern but insufficient information or differing trends across the region (WA: Watchlist -Assessment Priority). For some species this is because there is a different region of the country that is more important to the species than the Midwest (WD: Watchlist -Defer to adjacent region). • PR: R: Species is proposed as a Regional Species of Greatest Conservation Need in the Midwest, if a Midwest state lists the species as SGCN.</p><p>Assessments of species conservation status undertaken as part of the IWAP are used to determine SGCN status. Other information is provided as a reference. Updates to State Wildlife Action Plans, Regional SGCN lists, Federal T&amp;E Status, etc., are each independent processes, undertaken by different entities with differing timeframes. As such, the various listings or status ranks for a given species at a given point in time may not always appear to be in accord. Please visit the links above for updated information.  Regional SGCN: To access more information about this effort and for the updated list of Regional SGCN.</p><p>• R: Species is considered a Regional Species of Greatest Conservation Need in the Midwest.</p><p>• W: Watchlist. This is a list of species for which there was concern but insufficient information or differing trends across the region (WA: Watchlist -Assessment Priority). For some species this is because there is a different region of the country that is more important to the species than the Midwest (WD: Watchlist -Defer to adjacent region).</p><p>Assessments of species conservation status undertaken as part of the IWAP are used to determine SGCN status. Other information is provided as a reference. Updates to State Wildlife Action Plans, Regional SGCN lists, Federal T&amp;E Status, etc., are each independent processes, undertaken by different entities with differing timeframes. As such, the various listings or status ranks for a given species at a given point in time may not always appear to be in accord. Please visit the links above for updated information.  Regional SGCN: To access more information about this effort and for the updated list of Regional SGCN.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Common Name Scientific Name T/E Status</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Regional</head><p>• R: Species is considered a Regional Species of Greatest Conservation Need in the Midwest.</p><p>• W: Watchlist. This is a list of species for which there was concern but insufficient information or differing trends across the region (WA: Watchlist -Assessment Priority). For some species this is because there is a different region of the country that is more important to the species than the Midwest (WD: Watchlist -Defer to adjacent region). • PR: R: Species is proposed as a Regional Species of Greatest Conservation Need in the Midwest, if a Midwest state lists the species as SGCN.</p><p>Assessments of species conservation status undertaken as part of the IWAP are used to determine SGCN status. Other information is provided as a reference. Updates to State Wildlife Action Plans, Regional SGCN lists, Federal T&amp;E Status, etc., are each independent processes, undertaken by different entities with differing timeframes. As such, the various listings or status ranks for a given species at a given point in time may not always appear to be in accord. Please visit the links above for updated information.  T/E Status: Refers to whether a species is federally listed as Endangered, Threatened, or Proposed for listing at the time of this plan's publication. It also refers to those species proposed for Endangered or Threatened status at the state level.</p><p>For up-to-date state of Iowa listing information, please see the Threatened and Endangered Species Program page on the DNR website. Regional SGCN: To access more information about this effort and for the updated list of Regional SGCN.</p><p>• R: Species is considered a Regional Species of Greatest Conservation Need in the Midwest.</p><p>• W: Watchlist. This is a list of species for which there was concern but insufficient information or differing trends across the region (WA: Watchlist -Assessment Priority). For some species this is because there is a different region of the country that is more important to the species than the Midwest (WD: Watchlist -Defer to adjacent region). • PR: R: Species is proposed as a Regional Species of Greatest Conservation Need in the Midwest, if a Midwest state lists the species as SGCN.</p><p>Assessments of species conservation status undertaken as part of the IWAP are used to determine SGCN status. Other information is provided as a reference. Updates to State Wildlife Action Plans, Regional SGCN lists, Federal T&amp;E Status, etc., are each independent processes, undertaken by different entities with differing timeframes. As such, the various listings or status ranks for a given species at a given point in time may not always appear to be in accord. Please visit the links above for updated information.  </p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head></head><label></label><figDesc>• I-PE: Proposed Endangered in Iowa • I-PT: Proposed Threatened in Iowa • I-SC: Special Concern in Iowa • F-E: Federally listed as Endangered in the United States • F-T: Federally listed as Threatened in the United States • F-P: Proposed for federal listing as an Endangered or Threatened species</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 3 -2. Proportion of Iowa Species Designated as SGCN.</head><label>3</label><figDesc></figDesc><table><row><cell></cell><cell>2012</cell><cell>2015</cell><cell></cell><cell cols="2">2025</cell><cell></cell></row><row><cell>Taxonomic Group</cell><cell># of SGCN in 2012</cell><cell># of SGCN in 2015</cell><cell># of SGCN in 2025</cell><cell># Species Evaluated (Valid Iowa Records)</cell><cell># of Species Assessed (Native Species)</cell><cell>% SGCN of Species Assessed</cell></row><row><cell>Amphibians</cell><cell>9</cell><cell>16</cell><cell>8</cell><cell>25</cell><cell>21</cell><cell>38%</cell></row><row><cell>Reptiles</cell><cell>23</cell><cell>40</cell><cell>36</cell><cell>47</cell><cell>46</cell><cell>78%</cell></row><row><cell>Birds -Breeding</cell><cell>67</cell><cell>78</cell><cell>48</cell><cell>197</cell><cell>190</cell><cell>25%</cell></row><row><cell>Birds -Non-breeding</cell><cell>18</cell><cell>34</cell><cell>39</cell><cell>210</cell><cell>190</cell><cell>19%</cell></row><row><cell>Mammals</cell><cell>19</cell><cell>22</cell><cell>18</cell><cell>81</cell><cell>53</cell><cell>34%</cell></row><row><cell>Fish</cell><cell>74</cell><cell>79</cell><cell>65</cell><cell>156</cell><cell>144</cell><cell>45%</cell></row><row><cell>Mussels</cell><cell>29</cell><cell>43</cell><cell>45</cell><cell>54</cell><cell>52</cell><cell>87%</cell></row><row><cell>Terrestrial Snails*</cell><cell>8</cell><cell>5</cell><cell>3</cell><cell>90</cell><cell>3</cell><cell>N/A</cell></row><row><cell>Bumble Bees</cell><cell>N/A</cell><cell>N/A</cell><cell>12</cell><cell>15</cell><cell>15</cell><cell>80%</cell></row><row><cell>Butterflies</cell><cell>38</cell><cell>51</cell><cell>31</cell><cell>127</cell><cell>108</cell><cell>29%</cell></row><row><cell>Moths*</cell><cell>N/A</cell><cell>N/A</cell><cell>32</cell><cell>32</cell><cell>32</cell><cell>N/A</cell></row><row><cell>Dragonflies &amp; Damselflies</cell><cell>28</cell><cell>30</cell><cell>19</cell><cell>120</cell><cell>107</cell><cell>18%</cell></row><row><cell>Crayfish*</cell><cell>N/A</cell><cell>7</cell><cell>4</cell><cell>8</cell><cell>7</cell><cell>57%</cell></row><row><cell>Total Fauna</cell><cell>313</cell><cell>405</cell><cell>360</cell><cell>1162</cell><cell>988</cell><cell>36%*</cell></row><row><cell>Plants*</cell><cell>N/A</cell><cell>N/A</cell><cell>439</cell><cell>439</cell><cell>439</cell><cell>N/A</cell></row><row><cell>Total Fauna and Flora</cell><cell>313</cell><cell>405</cell><cell>799</cell><cell>1601</cell><cell>1427</cell><cell>N/A</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 3 -3. Amphibians of Greatest Conservation Need Taxonomic order and scientific names derived from:</head><label>3</label><figDesc>The Society for the Study of Amphibians and Reptiles Standard English and Scientific Names Document. Nicholson, KE. (ed.). 2025. Scientific and Standard English Names of Amphibians and Reptiles of North America North of Mexico, with Comments Regarding Confidence in Our Understanding. Ninth Edition. Society for the Study of Amphibians and Reptiles. 87pp. SGCN refers to Species of Greatest Conservation Need (SGCN) status as determined through IWAP species conservation status assessments. Y: Yes, species is SGCN. Blank: No, species is not SGCN. Rows shaded in gray: indicate data deficient SGCN for which information needed to assess conservation status is lacking. Refers to whether a species is federally listed as Endangered, Threatened, or Proposed for listing at the time of this plan's publication. It also refers to those species proposed for Endangered or Threatened status at the state level.</figDesc><table><row><cell>For up-to-date state of Iowa listing information, please see the Threatened and Endangered Species Program page on</cell></row><row><cell>the DNR website.</cell></row><row><cell>• I-PE: Proposed Endangered in Iowa</cell></row><row><cell>• I-PT: Proposed Threatened in Iowa</cell></row><row><cell>• I-SC: Special Concern in Iowa</cell></row><row><cell>• F-E: Federally listed as Endangered in the United States</cell></row><row><cell>• F-T: Federally listed as Threatened in the United States</cell></row><row><cell>• F-P: Proposed for federal listing as an Endangered or Threatened species</cell></row></table><note><p>T/E Status:</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>Table 3 -4. Reptiles of Greatest Conservation Need Taxonomic order and scientific names derived from: The</head><label>3</label><figDesc>Society for the Study of Amphibians and Reptiles Standard English and Scientific Names Document. Nicholson, KE. (ed.). 2025. Scientific and Standard English Names of Amphibians and Reptiles of North America North of Mexico, with Comments Regarding Confidence in Our Understanding. Ninth Edition. Society for the Study of Amphibians and Reptiles. 87pp.</figDesc><table><row><cell>SGCN refers to Species of Greatest Conservation Need (SGCN) status as determined through IWAP species conservation</cell></row><row><cell>status assessments. Y: Yes, species is SGCN. Blank: No, species is not SGCN. Rows shaded in gray: indicate data deficient</cell></row><row><cell>SGCN for which information needed to assess conservation status is lacking.</cell></row><row><cell>T/E Status refers to whether a species is listed as either state or federally Endangered or Threatened, at the time of this</cell></row><row><cell>plan's publication. It also refers to those species proposed for Endangered or Threatened status at the state level. For</cell></row><row><cell>up-to-date state listing information, please see the Threatened and Endangered Species Program page on the DNR</cell></row><row><cell>website.</cell></row><row><cell>• I-PE: Proposed Endangered in Iowa</cell></row><row><cell>• I-PT: Proposed Threatened in Iowa</cell></row><row><cell>• I-SC: Special Concern in Iowa</cell></row><row><cell>• F-E: Federally listed as Endangered in the United States</cell></row><row><cell>• F-T: Federally listed as Threatened in the United States</cell></row><row><cell>• F-P: Proposed for federal listing as an Endangered or Threatened species</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_5"><head>Table 3 -5. Breeding Birds of Greatest Conservation Need Taxonomic order and nomenclature derived from:</head><label>3</label><figDesc>The American Ornithological Society Check-List of North American Birds.SGCN refers to Species of Greatest Conservation Need (SGCN) status as determined through IWAP species conservation status assessments. Y: Yes, species is SGCN. Blank: No, species is not SGCN. Rows shaded in gray: indicate data deficient SGCN for which information needed to assess conservation status is lacking.T/E Status Refers to whether a species is federally listed as Endangered, Threatened, or Proposed for listing at the time of this plan's publication. It also refers to those species proposed for Endangered or Threatened status at the state level. For up-to-date state of Iowa listing information, please see the Threatened and Endangered Species Program page on the DNR website.</figDesc><table /><note><p>• I-PE: Proposed Endangered in Iowa • I-PT: Proposed Threatened in Iowa • I-SC: Special Concern in Iowa • F-E: Federally listed as Endangered in the United States • F-T: Federally listed as Threatened in the United States • F-P: Proposed for federal listing as an Endangered or Threatened species</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_7"><head>Table 3 -6. Non-breeding Birds of Greatest Conservation Need Taxonomic order and nomenclature derived from:</head><label>3</label><figDesc>The American Ornithological Society Check-List of North American Birds.SGCN refers to Species of Greatest Conservation Need (SGCN) status as determined through IWAP species conservation status assessments. Y: Yes, species is SGCN. Blank: No, species is not SGCN. Rows shaded in gray: indicate data deficient SGCN for which information needed to assess conservation status is lacking.T/E Status refers to whether a species is listed as either state or federally Endangered or Threatened, at the time of this plan's publication. It also refers to those species proposed for Endangered or Threatened status at the state level. For up-to-date state listing information, please see the Threatened and Endangered Species Program page on the DNR website.</figDesc><table /><note><p>• I-PE: Proposed Endangered in Iowa • I-PT: Proposed Threatened in Iowa • I-SC: Special Concern in Iowa • F-E: Federally listed as Endangered in the United States • F-T: Federally listed as Threatened in the United States • F-P: Proposed for federal listing as an Endangered or Threatened species</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_9"><head>Table 3 -7. Mammals of Greatest Conservation Need Taxonomic order derived from:</head><label>3</label><figDesc>The American Society ofMammalogist's Mammal Diversity Database. (2025). Mammal Diversity Database (Version 2.0) [Data set]. Zenodo. SGCN refers to Species of Greatest Conservation Need (SGCN) status as determined through IWAP species conservation status assessments. Y: Yes, species is SGCN. Blank: No, species is not SGCN. Rows shaded in gray: indicate data deficient SGCN for which information needed to assess conservation status is lacking. Refers to whether a species is federally listed as Endangered, Threatened, or Proposed for listing at the time of this plan's publication. It also refers to those species proposed for Endangered or Threatened status at the state level. For up-to-date state of Iowa listing information, please see the Threatened and Endangered Species Program page on the DNR website.• I-PE: Proposed Endangered in Iowa • I-PT: Proposed Threatened in Iowa • I-SC: Special Concern in Iowa • F-E: Federally listed as Endangered in the United States • F-T: Federally listed as Threatened in the United States • F-P: Proposed for federal listing as an Endangered or Threatened species</figDesc><table /><note><p>T/E Status:</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_11"><head>Table 3 -8. Fishes of Greatest Conservation Need Taxonomy and nomenclature from:</head><label>3</label><figDesc>American Fisheries Society. 2023. Common and Scientific Names of Fishes from the UnitedStates, Canada, and Mexico, 8 th Edition (2023). American Fisheries Society, Special Publication 37, Bethesda, MD. https://fisheries.org/bookstore/all-titles/special-publications/namesoffishes8/ SGCN refers to Species of Greatest Conservation Need (SGCN) status as determined through IWAP species conservation status assessments. Y: Yes, species is SGCN. Blank: No, species is not SGCN. Rows shaded in gray: indicate data deficient SGCN for which information needed to assess conservation status is lacking. Refers to whether a species is federally listed as Endangered, Threatened, or Proposed for listing at the time of this plan's publication. It also refers to those species proposed for Endangered or Threatened status at the state level. For up-to-date state of Iowa listing information, please see the Threatened and Endangered Species Program page on the DNR website.• I-PE: Proposed Endangered in Iowa • I-PT: Proposed Threatened in Iowa • I-SC: Special Concern in Iowa • F-E: Federally listed as Endangered in the United States • F-T: Federally listed as Threatened in the United States • F-P: Proposed for federal listing as an Endangered or Threatened species</figDesc><table /><note><p>T/E Status:</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_12"><head></head><label></label><figDesc>Until the publication ofPage et al. (2013), the Northern Sunfish (Lepomis peltastes) was called the Longear Sunfish (L. megalotis). But, inPage et al. (2013), the name of the form of the Longear Sunfish known to have occurred in Iowa was changed to Northern Sunfish (L. peltastes). There are no native occurrences of the Longear Sunfish (L. megalotis) in Iowa.</figDesc><table><row><cell>Common Name Common Name</cell><cell>Scientific Name Scientific Name</cell><cell>T/E Status T/E Status</cell><cell>Regional SGCN Regional SGCN</cell></row><row><cell>Black Redhorse 55 Slimy Sculpin</cell><cell>Moxostoma duquesnei Cottus cognatus</cell><cell>I-SC</cell><cell></cell></row><row><cell>Golden Redhorse 56 Western Sand Darter</cell><cell>Moxostoma erythrurum Ammocrypta clara</cell><cell>I-PT</cell><cell>R</cell></row><row><cell>Pealip Redhorse 57 Crystal Darter</cell><cell>Moxostoma pisolabrum Crystallaria asprella</cell><cell>I-PE</cell><cell>R</cell></row><row><cell>Greater Redhorse 58 Mud Darter</cell><cell>Moxostoma valenciennesi Etheostoma asprigene</cell><cell></cell><cell></cell></row><row><cell>River Shiner 59 Rainbow Darter</cell><cell>Alburnops blennius Etheostoma caeruleum</cell><cell></cell><cell></cell></row><row><cell>Weed Shiner 60 Bluntnose Darter</cell><cell>Alburnops texanus Etheostoma chlorosoma</cell><cell>I-PT I-PE</cell><cell></cell></row><row><cell>Largescale Stoneroller 61 Iowa Darter</cell><cell>Campostoma oligolepis Etheostoma exile</cell><cell></cell><cell></cell></row><row><cell>Southern Redbelly Dace 62 Least Darter</cell><cell>Chrosomus erythrogaster Etheostoma microperca</cell><cell>I-PE</cell><cell>WA</cell></row><row><cell>Gravel Chub 63 Orangethroat Darter</cell><cell>Erimystax x-punctatus Etheostoma spectabile</cell><cell>I-SC</cell><cell>WA</cell></row><row><cell>Western Silvery Minnow 64 Blackside Darter</cell><cell>Hybognathus argyritis Percina maculata</cell><cell>I-PE</cell><cell>R</cell></row><row><cell>Mississippi Silvery Minnow 65 River Darter</cell><cell>Hybognathus nuchalis Percina shumardi</cell><cell></cell><cell></cell></row><row><cell>Plains Minnow</cell><cell>Hybognathus placitus</cell><cell></cell><cell>WA</cell></row><row><cell>Pallid Shiner</cell><cell>Hybopsis amnis</cell><cell></cell><cell></cell></row><row><cell>Redfin Shiner</cell><cell>Lythrurus umbratilis</cell><cell>I-PT</cell><cell></cell></row><row><cell>Sturgeon Chub</cell><cell>Macrhybopsis gelida</cell><cell>I-PE</cell><cell>R</cell></row><row><cell>Shoal Chub</cell><cell>Macrhybopsis hyostoma</cell><cell></cell><cell></cell></row><row><cell>Sicklefin Chub</cell><cell>Macrhybopsis meeki</cell><cell>I-PE</cell><cell>R</cell></row><row><cell>Northern Pearl Dace</cell><cell>Margariscus nachtriebi</cell><cell>I-PE</cell><cell>WA</cell></row><row><cell>Pugnose Shiner</cell><cell>Miniellus anogenus</cell><cell>I-PE</cell><cell>R</cell></row><row><cell>Ozark Minnow</cell><cell>Miniellus nubilus</cell><cell></cell><cell></cell></row><row><cell>Topeka Shiner</cell><cell>Miniellus topeka</cell><cell>I-PT, F-E</cell><cell>R</cell></row><row><cell>Blacknose Shiner</cell><cell>Notropis heterolepis</cell><cell>I-PE</cell><cell></cell></row><row><cell>Pugnose Minnow</cell><cell>Opsopoeodus emiliae</cell><cell>I-PT</cell><cell></cell></row><row><cell>Ghost Shiner</cell><cell>Paranotropis buchanani</cell><cell>I-PE</cell><cell></cell></row><row><cell>Mimic Shiner</cell><cell>Paranotropis volucellus</cell><cell></cell><cell></cell></row><row><cell>Suckermouth Minnow</cell><cell>Phenacobius mirabilis</cell><cell></cell><cell></cell></row><row><cell>Common Name Flathead Chub Longnose Dace Chestnut Lamprey Brown Bullhead Lake Sturgeon Tadpole Madtom Pallid Sturgeon Redfin (Grass) Pickerel Paddlefish Northern Pike Emerald Bowfin Central Mudminnow American Eel Trout-perch Skipjack Herring Brook Silverside Blue Sucker Banded Killifish Lake Chubsucker Starhead Topminnow 10 Black Buffalo 1 2 3 4 5 6 7 8 9 Plains Topminnow 11 Spotted Sucker Warmouth 12 Silver Redhorse Northern Sunfish* 13 River Redhorse Mottled Sculpin</cell><cell>Scientific Name Platygobio gracilis Rhinichthys cataractae Ichthyomyzon castaneus Ameiurus nebulosus Acipenser fulvescens Noturus gyrinus Scaphirhynchus albus Esox americanus Esox lucius Polyodon spathula Umbra limi Amia ocellicauda Anguilla rostrata Percopsis omiscomaycus Alosa chrysochloris Labidesthes sicculus Fundulus diaphanus Cycleptus elongatus Fundulus dispar Erimyzon sucetta Fundulus sciadicus Ictiobus niger Lepomis gulosus Minytrema melanops Lepomis peltastes Moxostoma anisurum Moxostoma carinatum Cottus bairdii</cell><cell>T/E Status I-PT I-PE I-PE, F-E I-PT I-PT I-PT I-PT I-PT I-PE I-PE I-PT</cell><cell>R Regional SGCN R R WA R R WA</cell></row></table><note><p>*</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_13"><head>Table 3 -9. Mussels of Greatest Conservation Need Taxonomic order derived from:</head><label>3</label><figDesc><ref type="bibr" target="#b18">DD Turgeon, JF Quinn Jr., AE Bogan, EV Coan, FG Hochberg Jr., WG Lyons, PM Mikkelsen, RJ Neves, CFE Roper, G Rosenberg, B Roth, A Scheltema, FG Thompson, M Vecchione &amp; JD Williams. 1998</ref>. Common and scientific names of aquatic invertebrates from the United States and Canada: Mollusks. 2 nd Edition. American Fisheries Society, Special Publication 26, Bethesda, Maryland. ix + 526 pp SGCN refers to Species of Greatest Conservation Need (SGCN) status as determined through IWAP species conservation status assessments. Y: Yes, species is SGCN. Blank: No, species is not SGCN. Rows shaded in gray: indicate data deficient SGCN for which information needed to assess conservation status is lacking. Refers to whether a species is federally listed as Endangered, Threatened, or Proposed for listing at the time of this plan's publication. It also refers to those species proposed for Endangered or Threatened status at the state level. For up-to-date state of Iowa listing information, please see the Threatened and Endangered Species Program page on the DNR website. • I-PE: Proposed Endangered in Iowa • I-PT: Proposed Threatened in Iowa • I-SC: Special Concern in Iowa • F-E: Federally listed as Endangered in the United States • F-T: Federally listed as Threatened in the United States • F-P: Proposed for federal listing as an Endangered or Threatened species</figDesc><table /><note><p>T/E Status:</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_15"><head>Table 3 -10. Terrestrial Snails of Greatest Conservation Need Taxonomic order and nomenclature derived from:</head><label>3</label><figDesc><ref type="bibr" target="#b18">DD Turgeon, JF Quinn Jr, AE Bogan, EV Coan, FG Hochberg Jr, WG Lyons, PM Mikkelsen, RJ Neves, CFE Roper, G Rosenberg, B Roth, A Scheltema, FG Thompson, M Vecchione and JD Williams. 1998</ref>. Common and scientific names of aquatic invertebrates from the United States and Canada: Mollusks. 2 nd Edition. American Fisheries Society, Special Publication 26, Bethesda, Maryland. ix + 526 pp SGCN refers to Species of Greatest Conservation Need (SGCN) status as determined through IWAP species conservation status assessments. Y: Yes, species is SGCN. Blank: No, species is not SGCN. Rows shaded in gray: indicate data deficient SGCN for which information needed to assess conservation status is lacking. Refers to whether a species is federally listed as Endangered, Threatened, or Proposed at the time of this plan's publication. It also refers to those species proposed for Endangered or Threatened at the state level. For up-todate state of Iowa listing information, please see the Threatened and Endangered Species Program page on the DNR website.</figDesc><table><row><cell>T/E Status: • I-PE: Proposed Endangered in Iowa</cell></row><row><cell>• I-PT: Proposed Threatened in Iowa</cell></row><row><cell>• I-SC: Special Concern in Iowa</cell></row></table><note><p>• F-E: Federally listed as Endangered in the United States • F-T: Federally listed as Threatened in the United States • F-P: Proposed for federal listing as an Endangered or Threatened species</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_17"><head>Table 3 -11. Bumble Bees of Greatest Conservation Need Taxonomic order and scientific names derived from:</head><label>3</label><figDesc>Williams, PH, RW Thorp, LL Richardson, and SR Colla. (2014). Bumble Bees of North America: An identification guide. Princeton University Press.SGCN refers to Species of Greatest Conservation Need (SGCN) status as determined through IWAP species conservation status assessments. Y: Yes, species is SGCN. Blank: No, species is not SGCN. Rows shaded in gray: indicate data deficient SGCN for which information needed to assess conservation status is lacking. Refers to whether a species is federally listed as Endangered, Threatened, or Proposed for listing at the time of this plan's publication. It also refers to those species proposed for Endangered or Threatened status at the state level.</figDesc><table><row><cell>For up-to-date state of Iowa listing information, please see the Threatened and Endangered Species Program page on</cell></row><row><cell>the DNR website.</cell></row><row><cell>• I-PE: Proposed Endangered in Iowa</cell></row><row><cell>• I-PT: Proposed Threatened in Iowa</cell></row><row><cell>• I-SC: Special Concern in Iowa</cell></row><row><cell>• F-E: Federally listed as Endangered in the United States</cell></row><row><cell>• F-T: Federally listed as Threatened in the United States</cell></row><row><cell>• F-P: Proposed for federal listing as an Endangered or Threatened species</cell></row></table><note><p>T/E Status:</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_19"><head>Table 3 -12. Butterflies of Greatest Conservation Need Taxonomic order and scientific names derived from:</head><label>3</label><figDesc>Pelham, JP. (2023). A catalogue of the butterflies of the United States and Canada.SGCN refers to Species of Greatest Conservation Need (SGCN) status as determined through IWAP species conservation status assessments. Y: Yes, species is SGCN. Blank: No, species is not SGCN. Rows shaded in gray: indicate data deficient SGCN for which information needed to assess conservation status is lacking. Refers to whether a species is federally listed as Endangered, Threatened, or Proposed for listing at the time of this plan's publication. It also refers to those species proposed for Endangered or Threatened status at the state level. For up-to-date state of Iowa listing information, please see the Threatened and Endangered Species Program page on the DNR website.• I-PE: Proposed Endangered in Iowa • I-PT: Proposed Threatened in Iowa • I-SC: Special Concern in Iowa • F-E: Federally listed as Endangered in the United States • F-T: Federally listed as Threatened in the United States • F-P: Proposed for federal listing as an Endangered or Threatened species</figDesc><table /><note><p>T/E Status:</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_21"><head>Table 3 -13. Moths of Greatest Conservation Need Taxonomic order and scientific names derived from:</head><label>3</label><figDesc>BugGuide website.SGCN refers to Species of Greatest Conservation Need (SGCN) status as determined through IWAP species conservation status assessments. Y: Yes, species is SGCN. Blank: No, species is not SGCN. Rows shaded in gray: indicate data deficient SGCN for which information needed to assess conservation status is lacking. Refers to whether a species is federally listed as Endangered, Threatened, or Proposed for listing at the time of this plan's publication. It also refers to those species proposed for Endangered or Threatened status at the state level. For up-to-date state of Iowa listing information, please see the Threatened and Endangered Species Program page on the DNR website.• I-PE: Proposed Endangered in Iowa • I-PT: Proposed Threatened in Iowa • I-SC: Special Concern in Iowa • F-E: Federally listed as Endangered in the United States • F-T: Federally listed as Threatened in the United States • F-P: Proposed for federal listing as an Endangered or Threatened species</figDesc><table /><note><p>T/E Status:</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_23"><head>Table 3 -14. Dragonflies and Damselflies of Greatest Conservation Need Taxonomic order and scientific names derived from:</head><label>3</label><figDesc>Paulson, DR, SW Dunkle, and JT Johnson eds. 2024. A Checklist of North American Odonata.SGCN refers to Species of Greatest Conservation Need (SGCN) status as determined through IWAP species conservation status assessments. Y: Yes, species is SGCN. Blank: No, species is not SGCN. Rows shaded in gray: indicate data deficient SGCN for which information needed to assess conservation status is lacking. Refers to whether a species is federally listed as Endangered, Threatened, or Proposed for listing at the time of this plan's publication. It also refers to those species proposed for Endangered or Threatened status at the state level. For up-to-date state of Iowa listing information, please see the Threatened and Endangered Species Program page on the DNR website.• I-PE: Proposed Endangered in Iowa • I-PT: Proposed Threatened in Iowa • I-SC: Special Concern in Iowa • F-E: Federally listed as Endangered in the United States • F-T: Federally listed as Threatened in the United States • F-P: Proposed for federal listing as an Endangered or Threatened species</figDesc><table /><note><p>T/E Status:</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_25"><head>Table 3 -15. Crayfish of Greatest Conservation Need Taxonomic order and scientific names derived from:</head><label>3</label><figDesc>NatureServe Explorer.SGCN refers to Species of Greatest Conservation Need (SGCN) status as determined through IWAP species conservation status assessments. Y: Yes, species is SGCN. Blank: No, species is not SGCN. Rows shaded in gray: indicate data deficient SGCN for which information needed to assess conservation status is lacking.</figDesc><table /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_27"><head>Table 3 -16. Plants of Greatest Conservation Need Taxonomy</head><label>3</label><figDesc>primarily from the Flora of North America (FNA) with exceptions for the genus Rubus(Widrlechner, 1998), and the federally listed species of Northern Wild Monkshood (Aconitum novaboracense) and Hall's Bulrush (Schoenoplectiella hallii) as presented in the Federal Register. Refers to whether a species is federally listed as Endangered or Threatened at the time of this plan's publication. It also refers to those species proposed for Endangered or Threatened status at the state level. For up-todate state of Iowa listing information, please see the Threatened and Endangered Species Program page on the DNR website. In "IA T/E/SC Proposed" Column:• E: Proposed for State listing as Endangered in Iowa • T: Proposed for State listing as Threatened in Iowa • SC: Special Concern in Iowa • In "Fed T/E" Column: • E: Federally listed as Endangered in the United States • T: Federally listed as Threatened in the United States</figDesc><table><row><cell cols="2">T/E Status: Common Name</cell><cell>Scientific Name</cell><cell>IA T/E/SC Proposed</cell><cell>Fed T/E</cell></row><row><cell>1</cell><cell>Balsam fir</cell><cell>Abies balsamea</cell><cell>SC</cell><cell></cell></row><row><cell>2</cell><cell>Three-seeded mercury</cell><cell>Acalypha gracilens</cell><cell>T</cell><cell></cell></row><row><cell>3</cell><cell>Red maple</cell><cell>Acer rubrum</cell><cell>SC</cell><cell></cell></row><row><cell>4</cell><cell>Mountain maple</cell><cell>Acer spicatum</cell><cell>SC</cell><cell></cell></row><row><cell>5</cell><cell>American bird's-foot trefoil</cell><cell>Acmispon americanus</cell><cell>SC</cell><cell></cell></row><row><cell>6</cell><cell>Northern wild monkshood</cell><cell>Aconitum noveboracense</cell><cell>T</cell><cell>T</cell></row><row><cell>7</cell><cell>Allegheny vine</cell><cell>Adlumia fungosa</cell><cell>S</cell><cell></cell></row><row><cell>8</cell><cell>Round-stemmed false foxglove</cell><cell>Agalinis gattingeri</cell><cell>T</cell><cell></cell></row><row><cell>9</cell><cell>Pale false foxglove</cell><cell>Agalinis skinneriana</cell><cell>E</cell><cell></cell></row><row><cell cols="2">10 Blue giant hyssop</cell><cell>Agastache foeniculum</cell><cell>SC</cell><cell></cell></row><row><cell cols="2">11 Nodding wild onion</cell><cell>Allium cernuum</cell><cell>SC</cell><cell></cell></row><row><cell cols="2">12 Saskatoon serviceberry</cell><cell>Amelanchier alnifolia</cell><cell>SC</cell><cell></cell></row><row><cell cols="2">13 Low serviceberry</cell><cell>Amelanchier humilis</cell><cell>SC</cell><cell></cell></row><row><cell cols="2">14 Inland serviceberry</cell><cell>Amelanchier interior</cell><cell>T</cell><cell></cell></row><row><cell cols="2">15 Allegheny serviceberry</cell><cell>Amelanchier laevis</cell><cell>SC</cell><cell></cell></row><row><cell cols="2">16 Roundleaf serviceberry</cell><cell>Amelanchier sanguinea</cell><cell>E</cell><cell></cell></row><row><cell cols="2">17 Fragrant false indigo</cell><cell>Amorpha nana</cell><cell>T</cell><cell></cell></row><row><cell cols="2">18 Raccoon grape</cell><cell>Ampelopsis cordata</cell><cell>E</cell><cell></cell></row><row><cell cols="2">19 Pearly everlasting</cell><cell>Anaphalis margaritacea</cell><cell>E</cell><cell></cell></row><row><cell cols="2">20 Sand bluestem</cell><cell>Andropogon hallii</cell><cell>E</cell><cell></cell></row><row><cell cols="2">21 Round-lobed hepatica</cell><cell>Anemone americana</cell><cell>E</cell><cell></cell></row><row><cell cols="2">22 Carolina anemone</cell><cell>Anemone caroliniana</cell><cell>E</cell><cell></cell></row><row><cell cols="2">23 Bearberry</cell><cell>Arctostaphylos uva-ursi</cell><cell>E</cell><cell></cell></row><row><cell cols="2">24 Virginia snakeroot</cell><cell>Aristolochia serpentaria</cell><cell>E</cell><cell></cell></row><row><cell cols="2">25 Black chokeberry</cell><cell>Aronia melanocarpa</cell><cell>E</cell><cell></cell></row><row><cell cols="2">26 Fringed sagewort</cell><cell>Artemisia frigida</cell><cell>E</cell><cell></cell></row><row><cell cols="2">27 Woolly milkweed</cell><cell>Asclepias lanuginosa</cell><cell>T</cell><cell></cell></row><row><cell cols="2">28 Mead's milkweed</cell><cell>Asclepias meadii</cell><cell>E</cell><cell>T</cell></row></table></figure>
+		</body>
+		<back>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Specific resources utilized by each taxonomic subcommittee during SGCN assessment:</head><p>In addition to the personal and professional survey and research results of individual taxonomic subcommittee members, the following sources of information were consulted in the conservation status assessment process.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Amphibians and Reptiles</head><p>References used by the Amphibian and Reptile Subcommittee include:</p><p>• The Natural History of the Turtles of Iowa, VanDeWalle &amp; Bernstein (2025);</p><p>• The Natural History of the Snakes and Lizards of Iowa, VanDeWalle (2022);</p><p>• A Field Guide to the Amphibians and Reptiles of Iowa, LeClere (2013);</p><p>• Iowa Multiple Species Inventory and Monitoring Program;</p><p>• Christiansen and Bailey <ref type="bibr">(1986, 1988, and 1991)</ref>;</p><p>• Partners for Amphibian and Reptile Conservation;</p><p>• Herpmapper.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Birds</head><p>References utilized by the Bird Subcommittee include:</p><p>• Birds in Iowa <ref type="bibr" target="#b9">(Kent and Dinsmore 1996)</ref> </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Dragonflies and damselflies</head><p>References used by the Dragonfly and Damselfly Subcommittee include: </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Fish</head><p>References used by the Fish Subcommittee include:</p><p>• A review of distribution records in Iowa's Aquatic Gap fish database, Olson (2024);</p><p>• Range maps and proposed species status criteria for Iowa's SGCN and threatened/endangered fish species, Olson </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Mammals</head><p>References used by the Mammal Subcommittee include:</p><p>• </p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Mammals of Iowa: Holocene to the end of the 20 th century</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Bowles</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Howell</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Lampe</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Whidden</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the Iowa Academy of Science</title>
+		<imprint>
+			<biblScope unit="volume">105</biblScope>
+			<biblScope unit="page" from="123" to="132" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<title level="m" type="main">Iowa&apos;s changing wildlife: three decades of gain and loss</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Dinsmore</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Dinsmore</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2023">2023</date>
+			<publisher>University of Iowa Press</publisher>
+			<biblScope unit="page">274</biblScope>
+			<pubPlace>Iowa City, IA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">J</forename><surname>Dinsmore</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Bl Ehresman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">J</forename><surname>Harr</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Caster</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Gilliam</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Johnson</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Ss Patterson</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Kinkead</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">; Am</forename><surname>Johnson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">A</forename><surname>Johnson</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Niyo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Iowa Breeding Bird Atlas II</title>
+		<meeting><address><addrLine>Ames, IA</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2020">2020</date>
+			<biblScope unit="page">453</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Dinsmore</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Kent</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Koenig</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Peterson</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Roosa</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1984">1984</date>
+			<publisher>Iowa State University Press</publisher>
+			<biblScope unit="page">356</biblScope>
+			<pubPlace>Iowa Birds; Ames, IA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<monogr>
+		<title level="m" type="main">NatureServe conservation status assessments: Methodology for assigning ranks</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Faber-Langendoen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Nichols</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Master</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Snow</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Tomaino</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Bittman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Hammerson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Heidel</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Ramsay</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Teucher</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Young</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2012">2012</date>
+			<pubPlace>NatureServe, Arlington, VA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Mussel survey of selected interior Iowa streams</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">J</forename><surname>Frest</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Final Report to Iowa Department of Natural Resources</title>
+		<imprint>
+			<date type="published" when="1987">1987</date>
+			<publisher>US Fish &amp; Wildlife Service</publisher>
+		</imprint>
+		<respStmt>
+			<orgName>University of Northern Iowa</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">J</forename><surname>Frest</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Final Report to Iowa Department of Natural Resources</title>
+		<imprint>
+			<date type="published" when="1987">1987</date>
+		</imprint>
+		<respStmt>
+			<orgName>Iowa Pleistocene Snail Project. Burke Museum, University of Washington</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Harlan</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Speaker</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Iowa fish and fishing. Iowa Department of Natural Resources</title>
+		<imprint>
+			<date type="published" when="1987">1987</date>
+			<pubPlace>Des Moines, IA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<monogr>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">S</forename><surname>Jackson</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Thompson</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Dinsmore</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Bl Ehresman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Fleckenstein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">M</forename><surname>Cecil</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Hemesath</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Dinsmore</surname></persName>
+		</author>
+		<title level="m">The Iowa Breeding Bird Atlas</title>
+		<meeting><address><addrLine>Iowa City</addrLine></address></meeting>
+		<imprint>
+			<publisher>Univ. of Iowa Press</publisher>
+			<date type="published" when="1996">1996</date>
+			<biblScope unit="page">484</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">H</forename><surname>Kent</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Dinsmore</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Birds in Iowa. Published by the authors. Iowa City and Ames</title>
+		<imprint>
+			<biblScope unit="page">391</biblScope>
+			<date type="published" when="1996">1996</date>
+			<pubPlace>Iowa</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<monogr>
+		<title level="m" type="main">A field guide to the Amphibians and Reptiles of Iowa</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Leclere</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2013">2013</date>
+			<publisher>ECO Herpetological Publishing and Distribution</publisher>
+			<pubPlace>Rodeo, NM</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Pupillid land snails of eastern North America</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Nekola</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Coles</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">American Malacological Bulletin</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="29" to="57" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">A phylogenetic overview of the genus Vertigo O.F. Müller, 1773 (Gastropoda: Pulmonata: Pupillidae: Vertiginnae)</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Nekola</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Chiba</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>Coles</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Drost</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Von Proschwitz</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Horsák</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Malacalogia</title>
+		<imprint>
+			<biblScope unit="volume">62</biblScope>
+			<biblScope unit="page" from="21" to="161" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Common and scientific names of fishes from the United States</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">M</forename><surname>Page</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Bemis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">S</forename><surname>Dowling</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">T</forename><surname>Espinosa-Pérez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">R</forename><surname>Findley</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Gilbert</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Hartel</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Lea</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Ne Mandrak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Ma Neighbors</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Schmitter-Soto</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Walker</surname><genName>Jr</genName></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Special Publication</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<date type="published" when="2023">2023</date>
+			<publisher>American Fisheries Society</publisher>
+		</imprint>
+	</monogr>
+	<note>Canada, and Mexico</note>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">O</forename><surname>Panjabi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Blancher</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Dettmers</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Rosenberg</surname></persName>
+		</author>
+		<ptr target="https://rmbo.org/pubs/downloads/pifhandbook2012.pdf" />
+		<imprint>
+			<date type="published" when="2012-10-15">2012. October 15, 2025</date>
+		</imprint>
+	</monogr>
+	<note>Partners in Flight Technical Series No. 3. Rocky Mountain Bird Observatory website</note>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<monogr>
+		<title level="m" type="main">A checklist of North American odonata, including English name, etymology, type locality, and distribution</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">R</forename><surname>Paulson</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Dunkle</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Johnson</surname></persName>
+		</author>
+		<ptr target="https://www.odonatacentral.org/public/media/uploads/files/NA_Odonata_Checklist_2024.pdf" />
+		<imprint>
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Relationship of declining mussel biodiversity to stream-reach and watershed characteristics in an agricultural landscape</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">E</forename><surname>Poole</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Downing</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the North American Benthological Society</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="page" from="114" to="125" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<monogr>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">W</forename><surname>Schlicht</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Downey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Nekola</surname></persName>
+		</author>
+		<title level="m">The butterflies of Iowa. The University of Iowa Press</title>
+		<meeting><address><addrLine>Iowa City, IA</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Common and scientific names of aquatic invertebrates from the United States and Canada: Mollusks. 2 nd Edition</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">D</forename><surname>Turgeon</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Quinn</surname><genName>Jr</genName></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">V</forename><surname>Bogan</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Coan</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Hochberg</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Jr</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Lyons</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Pm Mikkelsen</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Neves</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Roper</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Rosenberg</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Roth</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Scheltema</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Fg Thompson</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Vecchione</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Williams</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Special Publication</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page">526</biblScope>
+			<date type="published" when="1998">1998</date>
+			<publisher>American Fisheries Society</publisher>
+			<pubPlace>Bethesda, Maryland</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<monogr>
+		<title level="m" type="main">The Natural History of the Turtles of Iowa</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Vandewalle</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Bernstein</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2025">2025</date>
+			<publisher>University of Iowa Press</publisher>
+			<biblScope unit="page">252</biblScope>
+			<pubPlace>Iowa City, Iowa</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<monogr>
+		<title level="m" type="main">The Natural History of the Snakes and Lizards of Iowa</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Vandewalle</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2022">2022</date>
+			<publisher>University of Iowa Press</publisher>
+			<biblScope unit="page">384</biblScope>
+			<pubPlace>Iowa City, Iowa</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>
+

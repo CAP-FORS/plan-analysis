@@ -1,0 +1,785 @@
+{
+  "document_meta": {
+    "title": "Oklahoma State Wildlife Action Plan (SWAP) 2025",
+    "year": 2025,
+    "jurisdiction": "Oklahoma",
+    "document_type": "SWAP",
+    "document_id": "OK_SWAP_2025",
+    "page_count": 297
+  },
+  "orientation": {
+    "summary": "This is Oklahoma's 2025 State Wildlife Action Plan (SWAP), a strategic conservation plan required by the State and Tribal Wildlife Grants Program, organized around habitat types and Species of Greatest Conservation Need (SGCN). The document has a dedicated 'Climate Adaptation' section that acknowledges anthropogenic climate change and uses IPCC AR6 scenarios (RCPs and SSPs), references downscaled projections from SC-CASC/NOAA for Oklahoma mid-century temperature and precipitation changes, and explicitly discusses species range shifts and phenological shifts as potential responses. However, the document's overall posture is cautious—acknowledging debate about rate and causation—while framing climate adaptation as one of many conservation considerations. Range shifts are mentioned explicitly but briefly, primarily in the Climate Adaptation section; the bulk of the document addresses habitat loss, fragmentation, invasives, and natural process modification without climate framing. The document incorporates the Southeast Conservation Blueprint (which uses connectivity/least-cost path analysis) as an external spatial planning tool, and identifies multiple partnerships (SECAS, joint ventures, federal/state agencies, tribes, NGOs) with active conservation programs.",
+    "evidence_index": [
+      {
+        "text": "Scientists use global climate models (GCMs) to project future climate conditions and assess the direction and magnitude of change over time. More than two dozen of these models have been examined by the IPCC and run through different scenarios that vary in terms of projected human population growth, economic and technological development and greenhouse gas emissions.",
+        "location": "Climate Adaptation",
+        "relevant_elements": ["2.3", "1.1"]
+      },
+      {
+        "text": "The AR6 uses two primary sets of scenarios known as representative concentration pathways (RCPs) and shared socioeconomic pathways (SSPs). RCPs focus on how emissions and levels of greenhouse gases in the atmosphere might change over time, while SSPs fill socioeconomic gaps by encompassing potential changes in the rate of human population growth, economic development, and land uses.",
+        "location": "Climate Adaptation",
+        "relevant_elements": ["2.3"]
+      },
+      {
+        "text": "Three RCPs are outlined in the AR6: RCP2.6, RCP4.5 and RCP8.5. Similarly, five SSPs are identified in the AR6: SSP1-1.9, SSP1-2.6, SSP2-4.5, SSP3-7.0 and SSP5-8.5.",
+        "location": "Climate Adaptation",
+        "relevant_elements": ["2.3"]
+      },
+      {
+        "text": "Projections for Oklahoma were generated through SC-CASC and the Geophysical Fluid Dynamics Laboratory of NOAA. The historical annual average daytime high of Oklahoma is 72.1°F. Average annual high temperatures for the period from 2036-2065 (mid-century) are projected to increase by about 2°F for the low-end scenario to about 5°F for the high-end scenario above the historical annual average high",
+        "location": "Climate Adaptation",
+        "relevant_elements": ["2.3", "1.1"]
+      },
+      {
+        "text": "Some species may expand or contract their geographic ranges northward in response to temperature shifts or eastward in response to rainfall shifts. These changes are likely to have a disproportionally negative effect on the structure of aquatic and forest habitats, as well as the species that depend upon them.",
+        "location": "Climate Adaptation",
+        "relevant_elements": ["1.1", "3.5", "3.2", "3.3", "C2"]
+      },
+      {
+        "text": "In addition to potential geographic shifts in the distribution of species, biologists are monitoring the potential for temporal shifts in plant and animal activity. For example, warmer spring temperatures and wetter winter conditions may trigger earlier flowering or leaf-out by plants, early emergence times by insects, amphibians and reptiles, longer growing seasons for some plants, longer activity periods for some insects, and altered spawning times for fish.",
+        "location": "Climate Adaptation",
+        "relevant_elements": ["3.7", "1.3", "C2"]
+      },
+      {
+        "text": "Because the reproductive timing of many wildlife species is dependent upon seasonal peaks in the availability of key food resources (e.g. insects, seeds, juvenile fish), some species may experience population declines if they are not able to adapt to the temporal shifts of their prey or food base (e.g. Introduction and Ecological Framework Neotropical migratory birds).",
+        "location": "Climate Adaptation",
+        "relevant_elements": ["3.7", "1.3", "3.6"]
+      },
+      {
+        "text": "Adaptability (also referred to as adaptive capacity) contains elements of resilience and also includes the ability of species to change genetically, temporally, spatially, or behaviorally in response to environmental change. Adaptability from a community perspective is the ability to change its species composition as well as the interrelated interactions of its species.",
+        "location": "Climate Adaptation",
+        "relevant_elements": ["1.2", "1.3"]
+      },
+      {
+        "text": "Resilience is the ability of a population or a community, or an ecological process, to recover or maintain a new stable state after disturbance. Often, management to increase resilience involves actions that increase structural diversity in a system or genetic diversity within a population.",
+        "location": "Climate Adaptation",
+        "relevant_elements": ["1.2", "1.3"]
+      },
+      {
+        "text": "resistance is the ability of a species or community to withstand the negative effects of change. Often, management to increase the likelihood of resistance involves growing or maintaining large population sizes or large tracts of contiguous or connected habitat and plant communities to provide a buffer or cushion against potential losses",
+        "location": "Climate Adaptation",
+        "relevant_elements": ["1.2", "4.1", "4.2"]
+      },
+      {
+        "text": "Increase habitat connectivity. Greater connectivity between tracts of habitat increases dispersal of both plant and animal species and connects neighboring populations in a metapopulational fashion. Connectivity reduces the isolation of populations and helps to maintain the genetic diversity that helps populations adapt to change. Habitat connectivity also assists in movement of populations across the landscape and allows them to track changes and shift their range.",
+        "location": "Climate Adaptation",
+        "relevant_elements": ["1.4", "1.3", "4.2", "4.1"]
+      },
+      {
+        "text": "Connectivity can be accomplished by conserving tracts of similar habitat in close proximity, developing corridors of habitat between larger tracts, or connecting ecologically compatible tracts of habitat (e.g. connecting upland deciduous forest with bands of riparian forest).",
+        "location": "Climate Adaptation",
+        "relevant_elements": ["1.4", "4.1", "4.2"]
+      },
+      {
+        "text": "Expand the size of habitat tracts. Larger tracts of habitat can support larger populations of plants and animals and can serve as refugia. Larger populations are often more robust and better able to resist the negative effects of population isolation, fluctuations in reproductive success due to climate variables, and competition from invading species.",
+        "location": "Climate Adaptation",
+        "relevant_elements": ["4.1", "1.4", "4.2"]
+      },
+      {
+        "text": "Focus on areas with a high degree of topographic relief. Mountainous areas tend to be more resilient to climate change because their varied topographic relief can support many microhabitat conditions and an elevational gradient that facilitates the easy movement of plants and animals upward or downward in response to changes in temperature or rainfall.",
+        "location": "Climate Adaptation",
+        "relevant_elements": ["4.1", "C2", "1.4"]
+      },
+      {
+        "text": "Habitat conservation should include a focus on areas such as the Ouachita, Boston, and Wichita mountains, the Arbuckle and Ozark plateaus, and Black Mesa.",
+        "location": "Climate Adaptation",
+        "relevant_elements": ["4.1", "3.1"]
+      },
+      {
+        "text": "In addition to higher temperatures, projections show generally drier soils, fewer days with precipitation, and the potential for more intense precipitation events when they do occur.",
+        "location": "Climate Adaptation",
+        "relevant_elements": ["3.5", "1.1"]
+      },
+      {
+        "text": "These changes are likely to have a disproportionally negative effect on the structure of aquatic and forest habitats, as well as the species that depend upon them. In contrast, these changes may have beneficial effects on grasslands, shrublands, and woodland communities.",
+        "location": "Climate Adaptation",
+        "relevant_elements": ["3.5", "1.1"]
+      },
+      {
+        "text": "The Southeast Conservation Blueprint includes a connectivity analysis that identifies corridors that link important areas based on a least-cost path analysis, where hubs provide anchors to link corridors across the shortest distance possible",
+        "location": "Oklahoma and the Southeast Conservation Adaptation Strategy (SECAS)",
+        "relevant_elements": ["2.4", "1.4", "4.1"]
+      },
+      {
+        "text": "About 12.7 million acres (28.5%) within Oklahoma are considered a hub or corridor, providing many conservation opportunities to support species movement and migration, which are important considerations for supporting wildlife adaptation to landscape-level changes.",
+        "location": "Oklahoma and the Southeast Conservation Adaptation Strategy (SECAS)",
+        "relevant_elements": ["1.4", "2.4", "4.1", "4.2"]
+      },
+      {
+        "text": "The Southeast Conservation Blueprint recognizes nearly 21.4 million acres, or roughly 47% of the state, as a priority for connecting the region's lands and waters. About 10.4 million acres (23%) are rated as highest or high priority, meaning that these are areas where conservation action would make the biggest impact",
+        "location": "Oklahoma and the Southeast Conservation Adaptation Strategy (SECAS)",
+        "relevant_elements": ["4.1", "3.1"]
+      },
+      {
+        "text": "aquatic communities such as those found in the Ozark Highlands are especially vulnerable to change. Measures to conserve cold-water communities include: » Identifying stream reaches with species of greatest conservation need, high species diversity, and high vulnerability to climate change. » Restoring and conserving riparian forests.",
+        "location": "TABLE - aquatic communities vulnerable to change",
+        "relevant_elements": ["1.1", "4.1", "3.5"]
+      },
+      {
+        "text": "Aquatic communities are likely to be more negatively affected by changes in climate than many terrestrial communities. Restoring, enhancing, and conserving existing riparian forests and other native flood plain habitats will help to shade streams, protect flood plain",
+        "location": "TABLE - aquatic communities vulnerable to change",
+        "relevant_elements": ["1.1", "3.5", "4.1"]
+      },
+      {
+        "text": "Facilitating the successful adaptation of natural systems (e.g. animal species, aquatic communities, and plant communities) to climatic changes will require multiple, concurrent strategies.",
+        "location": "Climate Adaptation",
+        "relevant_elements": ["1.2", "4.5"]
+      },
+      {
+        "text": "As managers of fish, wildlife, and habitat, particular attention must be focused on the actions that improve the resistance, resilience, and adaptability of these natural systems in the face of changing environmental conditions.",
+        "location": "Climate Adaptation",
+        "relevant_elements": ["1.2", "4.5"]
+      },
+      {
+        "text": "Adaptive management has been used by conservation planners and natural resource managers for decades. Adaptive management involves four essential pieces: (1) developing plans, (2) implementing those plans, (3) monitoring the effects of management actions, and (4) adjusting future plans.",
+        "location": "Adaptive Management",
+        "relevant_elements": ["4.3", "4.5"]
+      },
+      {
+        "text": "Under our current adaptive management protocol, the next comprehensive review and revision of the SWAP will be initiated in 2033 and completed in 2035 to maintain a 10year interval between reviews.",
+        "location": "Introduction and Purpose",
+        "relevant_elements": ["4.3", "4.5"]
+      },
+      {
+        "text": "This approach is being applied to the Oklahoma State Wildlife Action Plan in that it is evaluated in its entirety every 10 years and the information gained between reviews, including the data collected through projects that are funded by the State Wildlife Grants program, are used to re-evaluate species, habitats, issues, and actions.",
+        "location": "Adaptive Management",
+        "relevant_elements": ["4.3", "4.5"]
+      },
+      {
+        "text": "Standardized monitoring efforts are necessary to continually evaluate the status of target species, habitats, and ecological communities. It is critical that standard monitoring protocols and methods are employed, allowing for data comparisons at various ecological scales (local, regional, range wide, etc.).",
+        "location": "Monitoring Species, Habitats, and Effectiveness",
+        "relevant_elements": ["4.3"]
+      },
+      {
+        "text": "The SECAS partnership was created by the state wildlife agency directors of the SEAFWA in 2012 to facilitate the sharing of information across state lines and the implementation of multi-state habitat-and species-based conservation initiatives to meet shared goals. Additionally, SECAS brings together diverse partners around an ambitious goal: a 10% or greater improvement in the health, function, and connectivity of Southeastern ecosystems by 2060.",
+        "location": "Oklahoma and the Southeast Conservation Adaptation Strategy (SECAS)",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "In 2018, the Association of Fish and Wildlife Agencies (AFWA) adopted a resolution on landscape conservation that recognized 'the importance of collaboration at landscape scales to help fish and wildlife agencies meet their statutory and regulatory responsibilities to conserve fish and wildlife and their habitats.'",
+        "location": "Oklahoma: A Regional Perspective",
+        "relevant_elements": ["3.4", "3.1"]
+      },
+      {
+        "text": "Conduct landscape-level assessments of habitat conditions and SGCN occupancy to identify the caves and the tracts of tallgrass prairies, shrublands, mesic forests, and bottomland hardwood forests that have the greatest conservation value for SGCN. Implement programs such as long-term or perpetual conservation easements, conservation leases, or willing-seller land acquisitions to place them under conservation management",
+        "location": "For Terrestrial Habitats",
+        "relevant_elements": ["4.1"]
+      },
+      {
+        "text": "Identify, prioritize, and map remaining tracts of grassland prairies, areas that have the greatest conservation value, corridors, and habitat conditions to determine where conservation efforts should be directed to increase connectivity and provide the greatest benefit to SGCN.",
+        "location": "Conservation Actions - Information Gaps (Grasslands)",
+        "relevant_elements": ["4.1", "1.4"]
+      },
+      {
+        "text": "White-nose syndrome (WNS) is a disease caused by the fungus Pseudogymnoascus destructans (Pd) that affects cave roosting bats during hibernation...This disease has drastically impacted several species of cave roosting bats in eastern Oklahoma including the tricolored bat and northern long-eared myotis (Myotis septentrionalis), resulting in significant population declines.",
+        "location": "Conservation Issues Related to Invasive and Problematic Species (Caves)",
+        "relevant_elements": ["3.6"]
+      },
+      {
+        "text": "In addition to contributing to the conservation landscape of the Southeast, Oklahoma's lands and waters also benefit the state's economy.",
+        "location": "Connecting the Region's Lands and Waters",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "This section of the SWAP discusses climate change in general, projections for Oklahoma, and potential strategies to help fish, wildlife, and the habitats on which they depend, adapt to changing conditions.",
+        "location": "Climate Adaptation",
+        "relevant_elements": ["1.1", "4.5"]
+      },
+      {
+        "text": "There is nearly universal agreement that the Earth's climate is in a constant state of change, although there is debate regarding the rate of change and the relative contribution of each causative factor driving climate change.",
+        "location": "Climate Adaptation",
+        "relevant_elements": ["1.1"]
+      },
+      {
+        "text": "Research the historic condition of small rivers and springs, using historic literature, maps, aerial photography, and satellite imagery to evaluate the historic channel morphology, flow patterns, and water quality",
+        "location": "Conservation Actions - Information Gaps (Small Rivers and Streams)",
+        "relevant_elements": ["4.3"]
+      },
+      {
+        "text": "Warming has allowed invasive cheatgrass to expand its range into higher elevations",
+        "location": "Climate Adaptation",
+        "relevant_elements": ["3.7"]
+      },
+      {
+        "text": "Many shrublands habitats receive little rainfall and experience frequent drought, which greatly reduces the forage capacity of the landscape and can lead to the loss of native forbs and grasses, increased erosion, and the spread of invasive species when stocking rates are not appropriately reduced.",
+        "location": "Conservation Issue: Modification of Natural Ecosystem Processes (Shrublands)",
+        "relevant_elements": ["3.5"]
+      },
+      {
+        "text": "The loss or reduction in the frequency of periodic fires in the riparian areas along large rivers has facilitated the range expansion or increased the abundance of prolific native species such as the eastern redcedar and invasive nonnative species such as Chinese privet",
+        "location": "Conservation Issue: Invasive and Problematic Species (Large Rivers)",
+        "relevant_elements": ["3.7"]
+      },
+      {
+        "text": "Additionally, non-native aquatic animals, including zebra mussels, silver carp, and bighead carp, are likely to expand their ranges within the Arkansas, Neosho-Grand, and Red river systems and affect native mussel, fish, and aquatic plant populations through resource competition and herbivory.",
+        "location": "Conservation Issue: Invasive and Problematic Species (Large Rivers)",
+        "relevant_elements": ["3.7"]
+      }
+    ]
+  },
+  "concepts": {
+    "climate_vulnerability": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Some species may expand or contract their geographic ranges northward in response to temperature shifts or eastward in response to rainfall shifts. These changes are likely to have a disproportionally negative effect on the structure of aquatic and forest habitats, as well as the species that depend upon them.",
+          "location": "Climate Adaptation",
+          "sub_component": "exposure",
+          "citations": []
+        },
+        {
+          "text": "Adaptability (also referred to as adaptive capacity) contains elements of resilience and also includes the ability of species to change genetically, temporally, spatially, or behaviorally in response to environmental change.",
+          "location": "Climate Adaptation",
+          "sub_component": "adaptive capacity",
+          "citations": []
+        },
+        {
+          "text": "aquatic communities such as those found in the Ozark Highlands are especially vulnerable to change. Measures to conserve cold-water communities include: » Identifying stream reaches with species of greatest conservation need, high species diversity, and high vulnerability to climate change.",
+          "location": "TABLE - aquatic communities vulnerable to change",
+          "sub_component": "exposure",
+          "citations": []
+        }
+      ],
+      "absence_note": "The document discusses both climate exposure (projected temperature increases, range shifts, habitat impacts) and adaptive capacity (genetic diversity, dispersal, resistance/resilience/adaptability framing) in a climate context. Both axes are present, so score 3 is possible. However, the framing of adaptive capacity is primarily in management-response terms (how to manage for it) rather than as a formal assessment of species' intrinsic adaptive capacity. The exposure discussion is fairly operationalized (specific temperature projections, species range shifts). The adaptive capacity discussion references 'adaptability' explicitly and includes genetic diversity and movement. Score 2 is appropriate because exposure is clearly referenced with specific projections, and adaptive capacity is referenced but the two axes are not systematically brought together in a vulnerability framework for specific SGCN—they are discussed generically in the Climate Adaptation section without integrating them into species-specific vulnerability assessments. Close call between 2 and 3."
+    },
+    "adaptive_capacity_specificity": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Adaptability (also referred to as adaptive capacity) contains elements of resilience and also includes the ability of species to change genetically, temporally, spatially, or behaviorally in response to environmental change.",
+          "location": "Climate Adaptation",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "adaptive_capacity_components": {
+      "demography": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "resistance is the ability of a species or community to withstand the negative effects of change. Often, management to increase the likelihood of resistance involves growing or maintaining large population sizes or large tracts of contiguous or connected habitat and plant communities to provide a buffer or cushion against potential losses",
+            "location": "Climate Adaptation",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "distribution": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Some species may expand or contract their geographic ranges northward in response to temperature shifts or eastward in response to rainfall shifts.",
+            "location": "Climate Adaptation",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "movement": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Habitat connectivity also assists in movement of populations across the landscape and allows them to track changes and shift their range.",
+            "location": "Climate Adaptation",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "evolutionary_potential": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Resilience is the ability of a population or a community, or an ecological process, to recover or maintain a new stable state after disturbance. Often, management to increase resilience involves actions that increase structural diversity in a system or genetic diversity within a population.",
+            "location": "Climate Adaptation",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecological_dependencies": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Because the reproductive timing of many wildlife species is dependent upon seasonal peaks in the availability of key food resources (e.g. insects, seeds, juvenile fish), some species may experience population declines if they are not able to adapt to the temporal shifts of their prey or food base",
+            "location": "Climate Adaptation",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "abiotic_niche": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Mountainous areas tend to be more resilient to climate change because their varied topographic relief can support many microhabitat conditions and an elevational gradient that facilitates the easy movement of plants and animals upward or downward in response to changes in temperature or rainfall.",
+            "location": "Climate Adaptation",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "life_history": {
+        "present": false,
+        "evidence": []
+      }
+    },
+    "connectivity": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Habitat connectivity also assists in movement of populations across the landscape and allows them to track changes and shift their range. » Connectivity can be accomplished by conserving tracts of similar habitat in close proximity, developing corridors of habitat between larger tracts",
+          "location": "Climate Adaptation",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "About 12.7 million acres (28.5%) within Oklahoma are considered a hub or corridor, providing many conservation opportunities to support species movement and migration, which are important considerations for supporting wildlife adaptation to landscape-level changes.",
+          "location": "Oklahoma and the Southeast Conservation Adaptation Strategy (SECAS)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    }
+  },
+  "tools": {
+    "vulnerability_models": {
+      "evaluable": true,
+      "score": 0,
+      "named_tools": [],
+      "evidence": [],
+      "absence_note": "No vulnerability models (CCVI, PVA, etc.) are referenced in the document. The document discusses vulnerability conceptually in the Climate Adaptation section but does not reference or apply any specific vulnerability assessment framework or model."
+    },
+    "niche_models": {
+      "evaluable": true,
+      "score": 0,
+      "named_tools": [],
+      "evidence": [],
+      "absence_note": "No niche models or species distribution models (MaxEnt, SDMs, etc.) are referenced in the document. Range maps are included for SGCN but without reference to underlying modeling."
+    },
+    "climate_models": {
+      "evaluable": true,
+      "score": 2,
+      "named_tools": ["GCMs", "IPCC AR6", "SC-CASC", "Geophysical Fluid Dynamics Laboratory of NOAA"],
+      "evidence": [
+        {
+          "text": "Scientists use global climate models (GCMs) to project future climate conditions and assess the direction and magnitude of change over time. More than two dozen of these models have been examined by the IPCC and run through different scenarios",
+          "location": "Climate Adaptation",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Projections for Oklahoma were generated through SC-CASC and the Geophysical Fluid Dynamics Laboratory of NOAA. The historical annual average daytime high of Oklahoma is 72.1°F. Average annual high temperatures for the period from 2036-2065 (mid-century) are projected to increase by about 2°F for the low-end scenario to about 5°F for the high-end scenario",
+          "location": "Climate Adaptation",
+          "sub_component": null,
+          "citations": ["Dixon K.W., A.M. Wootten, M.J. Nath, J. Lanzante, D.J. Adams-Smith, C.E. Whitlock, C.F. Gaitán, R.A. McPherson, 2020: South Central Climate Projections Evaluation Project (C-PrEP), South Central Climate Adaptation Science Center, Norman, Oklahoma, USA. DOI: https://doi.org/10.21429/12gk-dh47"]
+        },
+        {
+          "text": "Three RCPs are outlined in the AR6: RCP2.6, RCP4.5 and RCP8.5. Similarly, five SSPs are identified in the AR6: SSP1-1.9, SSP1-2.6, SSP2-4.5, SSP3-7.0 and SSP5-8.5.",
+          "location": "Climate Adaptation",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {},
+      "time_horizon_years": [2065],
+      "emission_scenarios": ["RCP2.6", "RCP4.5", "RCP8.5", "SSP1-1.9", "SSP1-2.6", "SSP2-4.5", "SSP3-7.0", "SSP5-8.5"]
+    },
+    "connectivity_models": {
+      "evaluable": true,
+      "score": 2,
+      "named_tools": ["least-cost path analysis", "Southeast Conservation Blueprint"],
+      "evidence": [
+        {
+          "text": "The Southeast Conservation Blueprint includes a connectivity analysis that identifies corridors that link important areas based on a least-cost path analysis, where hubs provide anchors to link corridors across the shortest distance possible, while also routing through as much Blueprint priority as possible.",
+          "location": "Oklahoma and the Southeast Conservation Adaptation Strategy (SECAS)",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "About 12.7 million acres (28.5%) within Oklahoma are considered a hub or corridor, providing many conservation opportunities to support species movement and migration, which are important considerations for supporting wildlife adaptation to landscape-level changes.",
+          "location": "Oklahoma and the Southeast Conservation Adaptation Strategy (SECAS)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    }
+  },
+  "context": {
+    "management_scale": {
+      "local": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Connectivity can be accomplished by conserving tracts of similar habitat in close proximity, developing corridors of habitat between larger tracts, or connecting ecologically compatible tracts of habitat (e.g. connecting upland deciduous forest with bands of riparian forest).",
+            "location": "Climate Adaptation",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "site": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Habitat conservation should include a focus on areas such as the Ouachita, Boston, and Wichita mountains, the Arbuckle and Ozark plateaus, and Black Mesa.",
+            "location": "Climate Adaptation",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "watershed": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Watersheds and flyways often encompass all or parts of multiple states and require complex coordination among many partners and jurisdictions to improve conditions, regulate harvest, and provide needed habitat.",
+            "location": "Connecting the Region's Lands and Waters",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "city": {
+        "present": false,
+        "evidence": []
+      },
+      "county": {
+        "present": false,
+        "evidence": []
+      },
+      "within_state_region": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The priority acreage in the Blueprint is not distributed equally across Oklahoma's ecoregions, which underscores the importance of some geographic areas based on unique and endemic species, or large tracts of relatively intact habitats.",
+            "location": "Oklahoma and the Southeast Conservation Adaptation Strategy (SECAS)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "state": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The Southeast Conservation Blueprint recognizes nearly 21.4 million acres, or roughly 47% of the state, as a priority for connecting the region's lands and waters.",
+            "location": "Oklahoma and the Southeast Conservation Adaptation Strategy (SECAS)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "multistate": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "This can help Oklahoma and adjacent states to look across state boundaries and consider how to most effectively align conservation actions within the state to provide the greatest benefit to species with wider ranges and to identify crossjurisdictional opportunities with neighboring states.",
+            "location": "Oklahoma and the Southeast Conservation Adaptation Strategy (SECAS)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "national": {
+        "present": false,
+        "evidence": []
+      },
+      "transnational": {
+        "present": false,
+        "evidence": []
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "SECAS brings together diverse partners around an ambitious goal: a 10% or greater improvement in the health, function, and connectivity of Southeastern ecosystems by 2060.",
+            "location": "Oklahoma and the Southeast Conservation Adaptation Strategy (SECAS)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecoregion": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Although the 2025 SWAP is no longer organized along ecoregion boundaries, ecoregions are often mentioned in this document because the geographic distributions of many SGCN follow these regional boundaries",
+            "location": "Ecoregions",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "province": {
+        "present": false,
+        "evidence": []
+      },
+      "section": {
+        "present": false,
+        "evidence": []
+      },
+      "subsection": {
+        "present": false,
+        "evidence": []
+      },
+      "lake": {
+        "present": false,
+        "evidence": []
+      },
+      "river": {
+        "present": false,
+        "evidence": []
+      },
+      "district": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["Ouachita Mountains", "Boston Mountains", "Wichita Mountains", "Arbuckle Uplift", "Ozark Plateau", "Black Mesa", "Flint Hills", "Southeast Conservation Blueprint coverage area", "SECAS geography"]
+    },
+    "biological_unit_score": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Some species may expand or contract their geographic ranges northward in response to temperature shifts or eastward in response to rainfall shifts.",
+          "location": "Climate Adaptation",
+          "sub_component": "species",
+          "citations": []
+        },
+        {
+          "text": "Aquatic communities are likely to be more negatively affected by changes in climate than many terrestrial communities.",
+          "location": "TABLE - aquatic communities vulnerable to change",
+          "sub_component": "community",
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "biological_unit_components": {
+      "species": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Some species may expand or contract their geographic ranges northward in response to temperature shifts or eastward in response to rainfall shifts.",
+            "location": "Climate Adaptation",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "population": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Connectivity reduces the isolation of populations and helps to maintain the genetic diversity that helps populations adapt to change.",
+            "location": "Climate Adaptation",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "habitat": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "These changes are likely to have a disproportionally negative effect on the structure of aquatic and forest habitats, as well as the species that depend upon them.",
+            "location": "Climate Adaptation",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Facilitating the successful adaptation of natural systems (e.g. animal species, aquatic communities, and plant communities) to climatic changes will require multiple, concurrent strategies.",
+            "location": "Climate Adaptation",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "community": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Aquatic communities are likely to be more negatively affected by changes in climate than many terrestrial communities.",
+            "location": "TABLE - aquatic communities vulnerable to change",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "genotype_phenotype": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["aquatic communities", "Ozark Highlands cold-water communities", "forest habitats", "grasslands", "shrublands", "woodland communities", "SGCN (Species of Greatest Conservation Need)"]
+    },
+    "partnerships_and_funding": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "The SECAS partnership was created by the state wildlife agency directors of the SEAFWA in 2012 to facilitate the sharing of information across state lines and the implementation of multi-state habitat-and species-based conservation initiatives to meet shared goals.",
+          "location": "Oklahoma and the Southeast Conservation Adaptation Strategy (SECAS)",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "More than 1,700 people from more than 500 different organizations, including nearly 30 staff from ODWC, have been involved in developing the Blueprint and achieving a connected network of lands and waters across the region.",
+          "location": "Oklahoma and the Southeast Conservation Adaptation Strategy (SECAS)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document describes extensive active partnerships (SECAS, four avian Joint Ventures, USFWS, tribes, NGOs, Nature Conservancy) that are operationally implementing range-shift-relevant connectivity actions. SWG funding is actively used. Score 2 is warranted."
+    },
+    "climate_threat_habitat_degradation": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "These changes are likely to have a disproportionally negative effect on the structure of aquatic and forest habitats, as well as the species that depend upon them. In contrast, these changes may have beneficial effects on grasslands, shrublands, and woodland communities.",
+          "location": "Climate Adaptation",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "In addition to higher temperatures, projections show generally drier soils, fewer days with precipitation, and the potential for more intense precipitation events when they do occur.",
+          "location": "Climate Adaptation",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_threat_species_vital_rates": {
+      "evaluable": true,
+      "score": 0,
+      "evidence": [],
+      "absence_note": "The document discusses wildlife health, disease (white-nose syndrome, chytridiomycosis), and population declines, but these are not explicitly framed as climate-induced. The climate adaptation section discusses phenological shifts and reproductive timing mismatches, which edge toward vital rates, but the framing is 'some species may experience population declines' as a potential future effect rather than direct climate-event-caused vital rate changes. This does not meet the threshold for 3.6."
+    },
+    "climate_threat_biotic_stressors": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Because the reproductive timing of many wildlife species is dependent upon seasonal peaks in the availability of key food resources (e.g. insects, seeds, juvenile fish), some species may experience population declines if they are not able to adapt to the temporal shifts of their prey or food base (e.g. Introduction and Ecological Framework Neotropical migratory birds).",
+          "location": "Climate Adaptation",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document references phenological mismatches between species and their food resources as a climate-driven biotic stressor, qualifying for 3.7. Invasive species expansion without explicit climate framing does not count; the phenological mismatch passage does."
+    }
+  },
+  "actions": {
+    "priority_habitat_identification": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "The Southeast Conservation Blueprint recognizes nearly 21.4 million acres, or roughly 47% of the state, as a priority for connecting the region's lands and waters. About 10.4 million acres (23%) are rated as highest or high priority",
+          "location": "Oklahoma and the Southeast Conservation Adaptation Strategy (SECAS)",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Habitat conservation should include a focus on areas such as the Ouachita, Boston, and Wichita mountains, the Arbuckle and Ozark plateaus, and Black Mesa.",
+          "location": "Climate Adaptation",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "About 12.7 million acres (28.5%) within Oklahoma are considered a hub or corridor, providing many conservation opportunities to support species movement and migration, which are important considerations for supporting wildlife adaptation to landscape-level changes.",
+          "location": "Oklahoma and the Southeast Conservation Adaptation Strategy (SECAS)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "targeted_range_shift_actions": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Increase habitat connectivity. Greater connectivity between tracts of habitat increases dispersal of both plant and animal species and connects neighboring populations in a metapopulational fashion. Connectivity reduces the isolation of populations and helps to maintain the genetic diversity that helps populations adapt to change. Habitat connectivity also assists in movement of populations across the landscape and allows them to track changes and shift their range.",
+          "location": "Climate Adaptation",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "Structural facilitation (building connectivity to enable climate-driven range shifts) is present, qualifying for score 1. There is no direct manipulation (assisted migration, climate-motivated translocation). The connectivity action is explicitly framed as enabling species to 'track changes and shift their range' under climate change."
+    },
+    "time_bound_and_monitoring": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Under our current adaptive management protocol, the next comprehensive review and revision of the SWAP will be initiated in 2033 and completed in 2035 to maintain a 10year interval between reviews.",
+          "location": "Introduction and Purpose",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document has plan-level time-binding (10-year review cycle, revision scheduled for 2033-2035) but individual conservation actions in the habitat chapters are presented without specific deadlines or milestones. Monitoring is discussed extensively as a principle and monitoring metrics are listed per habitat chapter, but effectiveness monitoring tied to specific actions is not operationalized at the action level. Score is 1 (time-bound at plan level but not action level; monitoring endorsed as a principle without action-level operationalization satisfying score 2)."
+    },
+    "evidence_of_efficacy": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Adaptive management principles were applied to the review and revision process used to produce this edition of the Oklahoma SWAP. The data collected through more than 130 State Wildlife Grants-funded projects between 2003 and 2024 were used to update the list of Oklahoma's SGCN and to refine, based on that new and/or updated information, the species' status",
+          "location": "Introduction and Purpose",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document presents conservation actions primarily with rationale based on ecological principles (e.g., larger tracts support larger populations, connectivity enables dispersal) without citing studies that directly test the efficacy of specific climate-adaptation actions. The document references prior SWG-funded data collection used to refine SGCN lists, and mentions that adaptive management data informs revisions, but this is not evidence of action efficacy. Score 1: rationale is outlined but no evidence to directly support specific climate-adaptation actions is presented.",
+      "projects": []
+    },
+    "adaptation_planning_frameworks": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "As managers of fish, wildlife, and habitat, particular attention must be focused on the actions that improve the resistance, resilience, and adaptability of these natural systems in the face of changing environmental conditions.",
+          "location": "Climate Adaptation",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Facilitating the successful adaptation of natural systems (e.g. animal species, aquatic communities, and plant communities) to climatic changes will require multiple, concurrent strategies.",
+          "location": "Climate Adaptation",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document explicitly uses the resistance–resilience–adaptability (RRT-adjacent) framework for climate adaptation planning, naming all three components and defining them in the climate context. Adaptive management is described in the context of SWAP revision as a climate-informed process. The Resistance-Resilience-Transition/RRT framework is named implicitly through use of its three core components in the climate context. Score 2: specific named frameworks (resistance-resilience-adaptability) are referenced with climate context."
+    }
+  },
+  "coding_meta": {
+    "coder": "llm:claude-sonnet-4-6",
+    "model": "claude-sonnet-4-6",
+    "provider": "claude",
+    "codebook_version": "0.4",
+    "ingest": "text",
+    "design": "single",
+    "temperature": null,
+    "thinking": null,
+    "thinking_effort": null,
+    "coded_at": "2026-07-06T18:39:25Z",
+    "notes": {}
+  }
+}

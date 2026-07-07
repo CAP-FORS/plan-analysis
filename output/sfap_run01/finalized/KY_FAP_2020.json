@@ -1,0 +1,552 @@
+{
+  "document_meta": {
+    "title": "Kentucky Forest Action Plan -2020",
+    "year": 2020,
+    "jurisdiction": "Kentucky",
+    "document_type": "Forest Action Plan (State Forest Resource Strategy)",
+    "document_id": "KY_FAP_2020",
+    "page_count": 291
+  },
+  "orientation": {
+    "summary": "The Kentucky Forest Action Plan 2020 (KY FAP 2020) is a state-level forest resources assessment and strategy document produced by the Kentucky Division of Forestry, addressing five priority issues: forest health, water quality, forest loss/fragmentation, forest management, and funding. The document engages with climate change only briefly and in a very generic way—one short paragraph mentions that changing temperature and weather patterns 'may' alter plant hardiness zones and natural ranges, but this is treated as a minor, uncertain threat alongside wildfires, invasive species, and other stressors. The document does not perform any range-shift analysis itself, does not reference climate vulnerability frameworks, niche models, climate models, or connectivity models applied to focal species, and does not frame its actions explicitly in terms of facilitating or managing species range shifts. Its conservation actions focus on forest health, water quality, fragmentation reduction, and management planning for timber and wildlife, with connectivity discussed in terms of wildlife corridors and landscape-level protection rather than in a climate-shift context. Partnerships and funding are described extensively but not in relation to range-shift adaptation.",
+    "evidence_index": [
+      {
+        "text": "If changes in the temperature and weather patterns continue to increase, the hardiness zones and natural ranges of the plant species around the globe may also change. The direct impact of potential changing climate on Kentucky forests is unknown, but certain species may not be as suited under future conditions as they are now.",
+        "location": "6. Weather and Climate Change",
+        "relevant_elements": ["1.1", "1.2", "3.5", "3.6", "3.7"]
+      },
+      {
+        "text": "Weather plays a very important role in forest health. Weather events include but are not limited to drought, straight-line winds, ice and snow damage, and flooding. In the past decade, Kentucky's forests have suffered considerable damage from straight-line winds and ice damage.",
+        "location": "6. Weather and Climate Change",
+        "relevant_elements": ["3.5", "3.6"]
+      },
+      {
+        "text": "Additionally, the stresses resulting from damage and drought can make trees more susceptible to insects and pathogens.",
+        "location": "6. Weather and Climate Change",
+        "relevant_elements": ["3.5", "3.6"]
+      },
+      {
+        "text": "As a result of the damage, more light can reach the forest floor, which greatly increases the risk of non-native plants becoming established in the affected environments.",
+        "location": "6. Weather and Climate Change",
+        "relevant_elements": ["3.7"]
+      },
+      {
+        "text": "Forest management techniques that focus on maintaining large patches of forestland or expanding them through reforestation or restoration, are increasingly important as climate changes and populations expand.",
+        "location": "Forest Size, Connectivity, and Relative Abundance",
+        "relevant_elements": ["1.4", "4.1", "4.2"]
+      },
+      {
+        "text": "KNLT's Pine Mountain Wildlands Corridor is the largest landscape-level project ever undertaken in the state, which aims to create a contiguous corridor from Virginia through southeastern Kentucky to Tennessee that can provide both suitable migration corridors and carbon sinks through forest preservation and conservation.",
+        "location": "b. Kentucky Natural Lands Trust",
+        "relevant_elements": ["1.4", "4.1", "4.2"]
+      },
+      {
+        "text": "The Nature Conservancy (TNC) has identified the Central Appalachian Mountains, including Kentucky, as home to globally important forests and North America's most resilient and important corridor for wildlife and source water protection. The Conservancy's Working Woodlands program focuses on climate change strategies, wetland restoration efforts...",
+        "location": "Other Conservation Organizations and Initiatives a. The Nature Conservancy -Kentucky Chapter",
+        "relevant_elements": ["1.4", "4.1", "4.5"]
+      },
+      {
+        "text": "The relative size of a forest patch is important because larger forest patches contain greater interior area. Larger forest patches can also support a greater diversity of plant and animal populations. Small forest patches remain important, however, particularly when they are close to or connected to other small forest patches.",
+        "location": "Forest Size, Connectivity, and Relative Abundance",
+        "relevant_elements": ["1.4", "3.2", "3.3"]
+      },
+      {
+        "text": "Two goals are aimed specifically at combating the threats of fragmentation. Protection of forestland through conservation easements and land acquisition aims to provide long-term connectivity of forestlands.",
+        "location": "D. Issue 3: Forest Loss and Fragmentation Strategy",
+        "relevant_elements": ["1.4", "4.1", "4.2"]
+      },
+      {
+        "text": "This area is experiencing a higher increase in forest fragmentation, which diminishes the natural habitat corridors for wildlife such as songbirds, woodcocks, doves, turkey, grouse, squirrels, rabbit and deer.",
+        "location": "Northern Kentucky",
+        "relevant_elements": ["1.4", "3.3"]
+      },
+      {
+        "text": "One of the major migratory corridors for neo-tropical birds including those federally listed threatened or endangered species.",
+        "location": "Cumberland / Pine Mountain Conservation Area",
+        "relevant_elements": ["1.4", "3.3"]
+      },
+      {
+        "text": "Forty-two species are grouped in the 'forest wetland' habitat guild, which is more than the upland forest guild, despite the much smaller area occupied by forested wetland habitat.",
+        "location": "Forested Wetlands",
+        "relevant_elements": ["3.2", "3.3"]
+      },
+      {
+        "text": "A modelling approach based on the framework developed by the Southern Forest Land Assessment (SFLA) was used for identifying forest priority areas.",
+        "location": "B. Priority Area Methodology",
+        "relevant_elements": ["4.1", "2.4"]
+      },
+      {
+        "text": "The 13 weighted layers generated from the AHP methodology were run through the SFLA model to generate a composite score index map of Kentucky. In order to create distinct management units across the state, the composite scores were totaled based on HUC 10 Level Watershed boundaries.",
+        "location": "B. Priority Area Methodology",
+        "relevant_elements": ["4.1", "3.1"]
+      },
+      {
+        "text": "Watersheds with the highest scores were deemed priority, and any federal property within these units were removed to produce Kentucky's Priority Areas (Figure 29).",
+        "location": "B. Priority Area Methodology",
+        "relevant_elements": ["4.1"]
+      },
+      {
+        "text": "In developing Kentucky's 2020 Forest Action Plan, the Kentucky Division of Forestry again employed the use of an online survey to solicit input from its partners, stakeholders, and the public on a variety of forestry-related issues.",
+        "location": "Kentucky Forest Action Plan -Public, Partner, and Stakeholder Survey",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "The Kentucky Division of Forestry will utilize the 2020 Forest Action Plan for determining staffing priorities, justifying funding for projects, and identifying opportunities for engaging partners and stakeholders.",
+        "location": "Kentucky Forest Action Plan -Public, Partner, and Stakeholder Survey",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "Invasive plants often invade reclaimed forests.",
+        "location": "4. Coal Mining",
+        "relevant_elements": ["3.7"]
+      },
+      {
+        "text": "Many of the exotic species that are invasive can alter forest ecosystems and threaten the health of Kentucky's forests.",
+        "location": "INTRODUCTION",
+        "relevant_elements": ["3.7"]
+      },
+      {
+        "text": "The strategy also incorporates existing statewide forest and resource management plans, and provides the basis for future program, agency and partner coordination to address forest resource concerns and issues within Kentucky.",
+        "location": "Part 3: Forest Resource Strategy Introduction",
+        "relevant_elements": ["4.5"]
+      },
+      {
+        "text": "Using this format, Kentucky's forest strategy provides a clear plan for forestry activities over the next five years and beyond.",
+        "location": "Part 3: Forest Resource Strategy Introduction",
+        "relevant_elements": ["4.3"]
+      },
+      {
+        "text": "Performance Measure 1: Increase landowner participation in forest stewardship activities of publicly owned and privately owned forestlands by 10% over five years.",
+        "location": "Issue 4: Forest Management Strategy",
+        "relevant_elements": ["4.3"]
+      },
+      {
+        "text": "Regarding each objective, performance measures define how progress toward the goal may be measured.",
+        "location": "Part 3: Forest Resource Strategy Introduction",
+        "relevant_elements": ["4.3"]
+      },
+      {
+        "text": "The increased withdrawal demand could be compounded if the drought conditions are experienced in the future. Drought conditions would not only decrease the available water supply but would also increase the likelihood of wildfires, compounding losses to the water supply from burning of the forest resources.",
+        "location": "Forestland Conversion or Loss",
+        "relevant_elements": ["3.5"]
+      },
+      {
+        "text": "Increasing bottomland hardwood forest areas, protecting unique habitats, and minimizing impacts from mining and urban sprawl are some of the objectives for forested wetlands.",
+        "location": "Forested Wetlands",
+        "relevant_elements": ["4.1"]
+      },
+      {
+        "text": "Reforestation and afforestation in urban and post-mining areas provide opportunities to extend ecosystem services to previously impacted areas.",
+        "location": "B. Issue 1: Forest Health Strategy",
+        "relevant_elements": ["4.1", "4.2"]
+      }
+    ]
+  },
+  "concepts": {
+    "climate_vulnerability": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "If changes in the temperature and weather patterns continue to increase, the hardiness zones and natural ranges of the plant species around the globe may also change. The direct impact of potential changing climate on Kentucky forests is unknown, but certain species may not be as suited under future conditions as they are now.",
+          "location": "6. Weather and Climate Change",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document mentions that climate change might cause range shifts and that some species may not be suited to future conditions, which is a non-specific vulnerability reference. There is no mention of climate exposure as a metric, no adaptive capacity discussion, and no formal vulnerability framework. Score is 1 (referenced non-specifically)."
+    },
+    "adaptive_capacity_specificity": {
+      "evaluable": true,
+      "score": 0,
+      "evidence": [],
+      "absence_note": "The document does not reference adaptive capacity of species or ecosystems in any meaningful sense. The single climate-related passage only vaguely notes that 'certain species may not be as suited under future conditions.' No components of adaptive capacity (dispersal, genetic diversity, thermal tolerance, etc.) are mentioned in a climate context."
+    },
+    "adaptive_capacity_components": {
+      "demography": {
+        "present": false,
+        "evidence": []
+      },
+      "distribution": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "If changes in the temperature and weather patterns continue to increase, the hardiness zones and natural ranges of the plant species around the globe may also change.",
+            "location": "6. Weather and Climate Change",
+            "sub_component": "distribution",
+            "citations": []
+          }
+        ]
+      },
+      "movement": {
+        "present": false,
+        "evidence": []
+      },
+      "evolutionary_potential": {
+        "present": false,
+        "evidence": []
+      },
+      "ecological_dependencies": {
+        "present": false,
+        "evidence": []
+      },
+      "abiotic_niche": {
+        "present": false,
+        "evidence": []
+      },
+      "life_history": {
+        "present": false,
+        "evidence": []
+      }
+    },
+    "connectivity": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "KNLT's Pine Mountain Wildlands Corridor is the largest landscape-level project ever undertaken in the state, which aims to create a contiguous corridor from Virginia through southeastern Kentucky to Tennessee that can provide both suitable migration corridors and carbon sinks through forest preservation and conservation.",
+          "location": "b. Kentucky Natural Lands Trust",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document discusses wildlife corridors and habitat connectivity extensively (e.g., Pine Mountain Wildlands Corridor, riparian corridors, fragmentation concerns, connectivity of forest blocks). However, connectivity is never framed explicitly in terms of facilitating climate-driven range shifts. The KNLT corridor mentions 'migration corridors' but in the context of wildlife habitat, not climate-driven distributional change. Score is 1 (generic connectivity referenced, not climate-framed)."
+    }
+  },
+  "tools": {
+    "vulnerability_models": {
+      "evaluable": true,
+      "score": 0,
+      "named_tools": [],
+      "evidence": [],
+      "absence_note": "No vulnerability models (CCVI, PVA, or any climate vulnerability assessment framework) are referenced or applied anywhere in the document."
+    },
+    "niche_models": {
+      "evaluable": true,
+      "score": 0,
+      "named_tools": [],
+      "evidence": [],
+      "absence_note": "No species distribution models, niche models, or habitat suitability models are mentioned or applied in the document."
+    },
+    "climate_models": {
+      "evaluable": true,
+      "score": 0,
+      "named_tools": [],
+      "evidence": [],
+      "absence_note": "Despite engaging briefly with climate change, the document references no specific climate models, GCMs, CMIP products, RCPs, SSPs, or climate projection tools. The single climate passage discusses possible future changes qualitatively with no model-based framing.",
+      "time_horizon_years": [],
+      "emission_scenarios": []
+    },
+    "connectivity_models": {
+      "evaluable": true,
+      "score": 0,
+      "named_tools": [],
+      "evidence": [],
+      "absence_note": "The priority area methodology uses SFLA spatial data layers and AHP-weighted GIS analysis, but this is a habitat/forest resource prioritization approach, not a connectivity model (CircuitScape, Linkage Mapper, etc.) applied to facilitate range shifts. No connectivity modeling tools are named or applied."
+    }
+  },
+  "context": {
+    "management_scale": {
+      "local": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Forest management can occur on a landscape, stand, or individual tree level. Although landscape level management is desired, management of rural forested areas typically occurs at the stand-level in Kentucky due to ownership patterns.",
+            "location": "A. Current Status of Forest Management in Kentucky",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "site": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The relative size of a forest patch is important because larger forest patches contain greater interior area.",
+            "location": "Forest Size, Connectivity, and Relative Abundance",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "watershed": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "In order to create distinct management units across the state, the composite scores were totaled based on HUC 10 Level Watershed boundaries. Watersheds with the highest scores were deemed priority",
+            "location": "B. Priority Area Methodology",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "city": {
+        "present": false,
+        "evidence": []
+      },
+      "county": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "In March 2006, the first occurrence in Kentucky was documented in Harlan County.",
+            "location": "Hemlock Woolly Adelgid",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "within_state_region": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The areas of non-forest and the fragmentation patterns are strongly correlated with the physiology of Kentucky, as shown in Figure 19. In the Mississippi Embayment and Mississippi Plateau physiographic regions of the state...",
+            "location": "FIGURE 19 -PHYSIOGRAPHIC DIAGRAM OF KENTUCKY",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "state": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The goal of identifying priority areas is to allow programs within Kentucky Division of Forestry (KDF) to focus implementation efforts where the need is the greatest.",
+            "location": "B. Priority Area Methodology",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "multistate": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Figure 35 displays areas with neighboring states in which watersheds deemed priority by Kentucky cross state lines. These watersheds provide possible areas for collaboration in which Kentucky can work with neighboring states to compare priorities and implement projects that benefit both states.",
+            "location": "G. Multi-State Priority Areas",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "national": {
+        "present": false,
+        "evidence": []
+      },
+      "transnational": {
+        "present": false,
+        "evidence": []
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Forest management can occur on a landscape, stand, or individual tree level.",
+            "location": "A. Current Status of Forest Management in Kentucky",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecoregion": {
+        "present": false,
+        "evidence": []
+      },
+      "province": {
+        "present": false,
+        "evidence": []
+      },
+      "section": {
+        "present": false,
+        "evidence": []
+      },
+      "subsection": {
+        "present": false,
+        "evidence": []
+      },
+      "lake": {
+        "present": false,
+        "evidence": []
+      },
+      "river": {
+        "present": false,
+        "evidence": []
+      },
+      "district": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["HUC 10 Level Watersheds", "Green River CREP", "Mississippi River Basin", "Licking River", "Lower Green River", "Bayou De Chien-Mayfield", "Red River", "Pine Mountain Wildlands Corridor"]
+    },
+    "biological_unit_score": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "If changes in the temperature and weather patterns continue to increase, the hardiness zones and natural ranges of the plant species around the globe may also change.",
+          "location": "6. Weather and Climate Change",
+          "sub_component": "species",
+          "citations": []
+        },
+        {
+          "text": "Forty-two species are grouped in the 'forest wetland' habitat guild, which is more than the upland forest guild, despite the much smaller area occupied by forested wetland habitat.",
+          "location": "Forested Wetlands",
+          "sub_component": "habitat",
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "biological_unit_components": {
+      "species": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "If changes in the temperature and weather patterns continue to increase, the hardiness zones and natural ranges of the plant species around the globe may also change. The direct impact of potential changing climate on Kentucky forests is unknown, but certain species may not be as suited under future conditions as they are now.",
+            "location": "6. Weather and Climate Change",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "population": {
+        "present": false,
+        "evidence": []
+      },
+      "habitat": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Forested wetland habitats, such habitats as cypress swamps, tupelo swamps, bottomland hardwood communities and green ash swamps, can be found throughout Kentucky but are most common in western and central Kentucky.",
+            "location": "Forested Wetlands",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecosystem": {
+        "present": false,
+        "evidence": []
+      },
+      "community": {
+        "present": false,
+        "evidence": []
+      },
+      "genotype_phenotype": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["plant species (hardiness zones)", "eastern hemlock", "Emerald Ash Borer", "American chestnut", "hemlock woolly adelgid", "forested wetlands", "bottomland hardwood forests", "Indiana bat"]
+    },
+    "partnerships_and_funding": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "The Kentucky Division of Forestry will utilize the 2020 Forest Action Plan for determining staffing priorities, justifying funding for projects, and identifying opportunities for engaging partners and stakeholders.",
+          "location": "Kentucky Forest Action Plan -Public, Partner, and Stakeholder Survey",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "Partnerships and funding are described extensively throughout the plan (federal/state cost-share programs, KDF partnerships with USFS, NRCS, TNC, KDFWR, land trusts, etc.), but none are specifically described as targeting species range shifts. The plan acknowledges funding gaps and funding reductions, and describes aspirational partnerships. Score of 1 reflects limited/aspirational engagement without dedicated range-shift-specific funding or partnerships."
+    },
+    "climate_threat_habitat_degradation": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "The increased withdrawal demand could be compounded if the drought conditions are experienced in the future. Drought conditions would not only decrease the available water supply but would also increase the likelihood of wildfires, compounding losses to the water supply from burning of the forest resources.",
+          "location": "Forestland Conversion or Loss",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document mentions drought and wildfire as threats to forest resources in the context of changing conditions, and acknowledges that climate change could alter species ranges. The connection to climate is implicit (drought mentioned in context of climate-change discussion) but not thoroughly elaborated. Score 1 is appropriate — the document does specifically discuss drought and wildfire as habitat-affecting threats, even if the climate linkage is weak."
+    },
+    "climate_threat_species_vital_rates": {
+      "evaluable": true,
+      "score": 0,
+      "evidence": [],
+      "absence_note": "The document does not frame any climate-caused events (wildfire, drought, heat) as directly causing species mortality, recruitment failure, or other direct vital rate impacts. Drought and wildfire are mentioned in generic contexts. The single explicit climate sentence focuses on potential range changes, not direct vital rate impacts."
+    },
+    "climate_threat_biotic_stressors": {
+      "evaluable": true,
+      "score": 0,
+      "evidence": [],
+      "absence_note": "While invasive species are discussed extensively throughout the plan, none is framed as expanding its range due to climate warming. The document discusses invasives as a forest health threat, but without any climate-change framing. The one brief mention of climate change (Section 6) does not connect climate change to invasive expansion or successional change."
+    }
+  },
+  "actions": {
+    "priority_habitat_identification": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "A modelling approach based on the framework developed by the Southern Forest Land Assessment (SFLA) was used for identifying forest priority areas.",
+          "location": "B. Priority Area Methodology",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Watersheds with the highest scores were deemed priority, and any federal property within these units were removed to produce Kentucky's Priority Areas (Figure 29).",
+          "location": "B. Priority Area Methodology",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "Priority habitat areas are explicitly identified with spatial representation (maps, GIS priority area analysis). However, this prioritization is driven by forest health/stewardship criteria, not climate-driven range shifts. Score 2 reflects spatially explicit priority habitat work even though it is not framed around range-shift adaptation — the codebook scores spatial representation of priority habitat identification regardless of whether the motivation is climate-specific."
+    },
+    "targeted_range_shift_actions": {
+      "evaluable": true,
+      "score": 0,
+      "evidence": [],
+      "absence_note": "The document does not propose any targeted actions specifically to manage, facilitate, or respond to climate-driven species range shifts. Reforestation, corridor protection, and forest management actions are described, but none are explicitly motivated by climate-driven distributional change. The American chestnut reintroduction is discussed but as species recovery, not climate adaptation. Connectivity and corridor work (Pine Mountain Wildlands Corridor, Forest Legacy Areas) is framed in terms of wildlife habitat and fragmentation, not climate range-shift facilitation."
+    },
+    "time_bound_and_monitoring": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Using this format, Kentucky's forest strategy provides a clear plan for forestry activities over the next five years and beyond.",
+          "location": "Part 3: Forest Resource Strategy Introduction",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The plan includes performance measures for each goal/objective (e.g., '10% increase over five years', specific acreage targets, annual monitoring of forest health threats), which reflect some time-binding at the action level. However, the actions are not tightly paired with both explicit deadlines AND effectiveness monitoring protocols in a way that clearly satisfies both criteria for score 2. The plan structure includes 5-year performance measures but effectiveness monitoring tied to specific actions is not operationalized in a climate adaptation context. Score 1 reflects clear deadlines/milestones without full effectiveness monitoring integration."
+    },
+    "evidence_of_efficacy": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "The Kentucky Division of Forestry began treating hemlocks on Division of Forestry managed properties in 2009 to conserve pockets of this ecologically significant tree. This work was developed into a treatment program in 2011 in which a dedicated crew was hired for treating hemlocks across additional state and federal properties. The program has continued its work into 2019, with over 160,000 treatments to date.",
+          "location": "Hemlock Woolly Adelgid",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document describes some past programs and their outcomes (e.g., HWA treatment numbers, BMP implementation improvements from 47% to 74%), which provide some evidence that management actions can work. However, there are no citations to efficacy studies, no explicit 'lessons learned' frameworks, and no evidence presented specifically for climate-adaptation or range-shift-related actions. The evidence of efficacy present is for general forest health and BMP actions, not range-shift management. Score 1 reflects rationale outlined but limited evidence, no studies directly supporting range-shift actions.",
+      "projects": []
+    },
+    "adaptation_planning_frameworks": {
+      "evaluable": true,
+      "score": 0,
+      "evidence": [],
+      "absence_note": "The document does not reference any formal climate adaptation planning frameworks (RAD, RRT, CCVA, structured decision making in a climate context, climate scenario planning, etc.). The general forest planning approach (goals/objectives/performance measures) is a standard management planning framework, not a climate adaptation planning framework. The brief mention of TNC's 'climate change strategies' (one line) is too vague to constitute a specific climate adaptation planning framework reference."
+    }
+  },
+  "coding_meta": {
+    "coder": "llm:claude-sonnet-4-6",
+    "model": "claude-sonnet-4-6",
+    "provider": "claude",
+    "codebook_version": "0.4",
+    "ingest": "text",
+    "design": "single",
+    "temperature": null,
+    "thinking": null,
+    "thinking_effort": null,
+    "coded_at": "2026-07-07T00:31:31Z",
+    "notes": {}
+  }
+}

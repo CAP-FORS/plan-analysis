@@ -1,0 +1,906 @@
+{
+  "document_meta": {
+    "title": "District of Columbia Wildlife Action Plan (SWAP 2015)",
+    "year": 2015,
+    "jurisdiction": "District of Columbia",
+    "document_type": "SWAP",
+    "document_id": "DC_SWAP_2015",
+    "page_count": 214
+  },
+  "orientation": {
+    "summary": "This is the 2015 State Wildlife Action Plan (SWAP) for the District of Columbia, produced by the DC Department of the Environment (DDOE). The document is an urban jurisdiction SWAP covering Species of Greatest Conservation Need (SGCN), their habitats, threats, and conservation actions. Climate change is treated as a major threat, with a dedicated chapter (Chapter 5) on climate change vulnerability assessments that applies NatureServe's CCVI to selected SGCN and uses the Sea Level Affecting Marshes Model (SLAMM) and Tree Atlas to project habitat changes. The document discusses range shifts explicitly in relation to several species (green tree frog, birds with southernmost range edges, wood thrush), references exposure, sensitivity, and adaptive capacity in its vulnerability framework, and proposes actions including identifying wildlife corridors and habitat restoration. The document performs its own analyses (habitat condition mapping, COA designation, CCVI application to focal species) rather than purely referencing external literature.",
+    "evidence_index": [
+      {
+        "text": "Beyond the proximate threats of urban development and land use, climate change will affect nearly every aspect of natural resource management, land use planning, and future development in the long term.",
+        "location": "Chapter 1 Introduction / Sustaining Biodiversity",
+        "relevant_elements": ["1.1", "3.5"]
+      },
+      {
+        "text": "Through SWAP 2015, DDOE seeks to conserve the wildlife and habitats of the nation's capital by focusing on ecosystem-based wildlife resource management actions that address the unique issues that wildlife face in an urban city and the significant challenge of climate change.",
+        "location": "Chapter 1 Introduction / Vision for the District's Wildlife",
+        "relevant_elements": ["1.1", "4.5"]
+      },
+      {
+        "text": "A fine-scale climate change vulnerability assessment was performed. Climate, precipitation, and soil moisture were modeled to predict changes in vegetative habitats and how those changes would impact certain SGCN. Results showed that sea level rise and changes in soil moisture will impact vulnerable habitats, such as emergent wetlands, upland forests, and vernal pools.",
+        "location": "Chapter 1 Introduction / Threats, Actions, and Effectiveness Measures",
+        "relevant_elements": ["1.1", "2.1", "3.5", "4.1"]
+      },
+      {
+        "text": "As the climate continues to change and become further unstable, it is expected to see shifts in species ranges such as in the case of the green tree frog.",
+        "location": "Chapter 2 Species of Greatest Conservation Need / SGCN Designations / Reptile and Amphibian SGCN",
+        "relevant_elements": ["1.1", "1.3", "3.3"]
+      },
+      {
+        "text": "connectivity -The degree to which the landscape facilitates or impedes movement among resource patches, influences gene flow, local adaptation, extinction risk, colonization probability, and the potential for organisms to move as they cope with climate change",
+        "location": "Glossary",
+        "relevant_elements": ["1.4"]
+      },
+      {
+        "text": "vulnerability assessment (climate change) -Tools structured to determine the level of vulnerability (sensitivity, exposure, adaptive capacity) to climate change",
+        "location": "Glossary",
+        "relevant_elements": ["1.1", "2.1", "4.5"]
+      },
+      {
+        "text": "Numerical models (General Circulation Models or GCMs), representing physical processes in the atmosphere, ocean, cryosphere and land surface, are the most advanced tools currently available for simulating the response of the global climate system to increasing greenhouse gas concentrations.",
+        "location": "Chapter 5 Climate Change Vulnerability Assessments / Global Predictions",
+        "relevant_elements": ["2.3"]
+      },
+      {
+        "text": "Downscaling coarse climate projections to finer spatial resolution is increasingly being used to better align the scale of projections with the scale of land management processes and decisions.",
+        "location": "Chapter 5 Climate Change Vulnerability Assessments / Global Predictions",
+        "relevant_elements": ["2.3"]
+      },
+      {
+        "text": "Projections consistently show continued warming over the next century across all 22 states included in the Northeast Climate Science Center region (Hayhoe et al. 2007, 2008; Rawlins et al. 2012; Kunkel et al. 2013). This region includes the District of Columbia.",
+        "location": "Chapter 5 Climate Change Vulnerability Assessments / Climate Change Threats to the District of Columbia Region",
+        "relevant_elements": ["2.3", "3.5"]
+      },
+      {
+        "text": "Once these species were selected, we attempted to evaluate general vulnerability by identifying how each species might react, based on their exposure, sensitivity and adaptive capacity (Staudinger et. al. 2015). DDOE use a peer-reviewed literature search, species vulnerability models, such as NatureServe's Climate Change Vulnerability Index (CCVI) (Young et al. 2011, Faber-Langendoen et al. 2012), and expert opinion.",
+        "location": "Chapter 5 Climate Change Vulnerability Assessments / Species and Habitats at Greatest Risk and Most Vulnerable to Climate Change / Species",
+        "relevant_elements": ["1.1", "1.2", "2.1", "4.5"]
+      },
+      {
+        "text": "The CCVI, as applied to the selected species, resulted in a variety of predictions, all of which reflected increased vulnerability. This was not surprising given the fact that we selected species that had specific life-history trait that would be impacted by climate change.",
+        "location": "Chapter 5 Climate Change Vulnerability Assessments / Species and Habitats at Greatest Risk and Most Vulnerable to Climate Change / Species",
+        "relevant_elements": ["1.1", "1.3", "2.1"]
+      },
+      {
+        "text": "Temperature increases may also be problematic for species at the edge of their ranges. For example, if species are at the more southern end of their range and unable to migrate, they may not survive significant increases in temperature that are greater than they can withstand (Pyke et al. 2008).",
+        "location": "Chapter 5 Climate Change Vulnerability Assessments / Temperature",
+        "relevant_elements": ["1.1", "1.3", "3.3", "3.6"]
+      },
+      {
+        "text": "For many species that have the southernmost edge of their summer range near Maryland and Virginia, the changing climate will likely push the range of these birds farther North. The American kestrel (Falco sparverius), scarlet tanager (Piranga olivacea), veery (Catharus fuscescens), bobolink (Dolichonyx oryzivorus), and the Baltimore oriole (Icterus galbula) are a few such birds.",
+        "location": "Chapter 5 Climate Change Vulnerability Assessments / Species and Habitats at Greatest Risk and Most Vulnerable to Climate Change / Birds",
+        "relevant_elements": ["1.1", "1.3", "3.3", "3.6"]
+      },
+      {
+        "text": "Amphibians are particularly susceptible to the effects of changing climates because of their restrictive physiological requirements and low movement ability.",
+        "location": "Chapter 5 Climate Change Vulnerability Assessments / Species and Habitats at Greatest Risk / Herpetofauna",
+        "relevant_elements": ["1.2", "1.3"]
+      },
+      {
+        "text": "Based on our expert-opinion and the CCVI, both amphibians were assessed as highly vulnerable because of their close association with vernal pools or ephemeral wetlands and adjacent upland forest. This designation was primarily based on potential future changes in precipitation and overall hydrologic regimes.",
+        "location": "Chapter 5 Climate Change Vulnerability Assessments / Herpetofauna",
+        "relevant_elements": ["1.1", "1.2", "1.3", "2.1"]
+      },
+      {
+        "text": "Mammals represent a diverse group of vertebrates in the District with respect to range of habitats occupied, dispersal ability, and body size... none of the mammal species have restricted dispersal ability as defined by the CCV index.",
+        "location": "Chapter 5 Climate Change Vulnerability Assessments / Small Mammals",
+        "relevant_elements": ["1.2", "1.3", "2.1"]
+      },
+      {
+        "text": "For the in-depth vulnerability consideration for SGCN, DDOE considered Tier 1 SGCN. Of those Tier 1 species, DDOE identified several SGCN that could be disproportionately impacted by the threats of climate change. This was based on range, habitat need, life history, available data, and professional consensus.",
+        "location": "Chapter 5 Climate Change Vulnerability Assessments / Species",
+        "relevant_elements": ["1.1", "1.2", "1.3", "2.1"]
+      },
+      {
+        "text": "DDOE utilized the Tree Atlas program (Iverson et al, 2008) to help identify potential changes to specific forest species. The primary areas with these forest types in the District occur in Rock Creek Park, Fort DuPont Park, the National Arboretum, Glover Archibold Park, and areas along the Potomac River. Tree Atlas projected a decrease in flowering dogwood (Cornus florida), white oak (Quercus alba), and northern red oak (Quercus rubra).",
+        "location": "Chapter 5 Climate Change Vulnerability Assessments / Habitats / Upland Forests (table section)",
+        "relevant_elements": ["2.2", "3.5"]
+      },
+      {
+        "text": "DDOE used the Sea Level Affecting Marshes Model (SLAMM) to simulate impacts from sea level rise in the District region (Clough et al. 2012). DDOE was specifically interested in identifying major transitions and areas of concern for the Potomac and Anacostia Rivers.",
+        "location": "Chapter 5 Climate Change Vulnerability Assessments / Sea-level Rise",
+        "relevant_elements": ["2.3", "3.5"]
+      },
+      {
+        "text": "Sea-level rise and more intense storm events are expected to increase shoreline erosion, facilitate salt water intrusion, destroy habitats and ecological systems, and increase storm water overflows and sewage contamination.",
+        "location": "Chapter 5 Climate Change Vulnerability Assessments / Sea-level Rise",
+        "relevant_elements": ["3.5"]
+      },
+      {
+        "text": "As sea levels rise, marshes can be inundated and converted to shallow open water habitats or non-tidal and brackish wetlands may convert to higher salinity marshes.",
+        "location": "Chapter 5 Climate Change Vulnerability Assessments / Sea-level Rise",
+        "relevant_elements": ["3.5"]
+      },
+      {
+        "text": "Warming temperatures will also lead to changes in plant phenology, as has already been observed (Primack et al. 2004, Miller-Rushing and Primack 2008). These changes may have significant impacts on ecosystems by changing existing natural land cover types and by allowing for the spread of pests into previously unaffected regions.",
+        "location": "Chapter 5 Climate Change Vulnerability Assessments / Temperature",
+        "relevant_elements": ["3.5", "3.7"]
+      },
+      {
+        "text": "Warmer temperatures may also result in warmer waters, which could favor parasites and other pests in aquatic environments (Pyke et al. 2008; Najjar et al. 2010; Kane 2013).",
+        "location": "Chapter 5 Climate Change Vulnerability Assessments / Temperature",
+        "relevant_elements": ["3.6", "3.7"]
+      },
+      {
+        "text": "We consider the spotted turtle highly vulnerable to climate change because of the potential for increased flooding which may displace large parts of populations, elevate mortality rates, and decrease breeding success.",
+        "location": "Chapter 5 Climate Change Vulnerability Assessments / Herpetofauna",
+        "relevant_elements": ["3.6"]
+      },
+      {
+        "text": "Vernal pools will likely be impacted by higher temperatures and longer durations between rain events, which will directly, negatively impact the populations that depend on these pools.",
+        "location": "Chapter 5 Climate Change Vulnerability Assessments / Habitats / Tidal Wetlands/Vernal Pools/Riparian Forests",
+        "relevant_elements": ["3.5", "3.6"]
+      },
+      {
+        "text": "AFWA and the USFWS recommend that states designate discrete, spatially distinct areas that offer the best opportunities and potential for SGCN conservation and label them Conservation Opportunity Areas (COA) (AFWA 2012). DDOE selected eight COA's based on habitat condition analysis and SGCN diversity",
+        "location": "Chapter 3 Habitats / Conservation Opportunity Areas",
+        "relevant_elements": ["4.1"]
+      },
+      {
+        "text": "The output of this assessment has informed the designation of Conservation Opportunity Areas (COA) below, and informed the Focal Conservation Actions in Chapter 6.",
+        "location": "Chapter 3 Habitats / Results and Discussion",
+        "relevant_elements": ["4.1"]
+      },
+      {
+        "text": "DDOE will prioritize areas with high ecosystem services and habitat value for restoration and/or protection such as stream buffers, wetlands, open meadows, and forest. All of these habitats are vulnerable and given the lack of natural land cover in DC, it is crucial that we protect what is there and restore what we can.",
+        "location": "Chapter 5 Climate Change Vulnerability Assessments / General Biological Responses, Adaptations, and Actions for SGCN and Their Habitats / General Actions",
+        "relevant_elements": ["4.1", "4.2"]
+      },
+      {
+        "text": "The District's Focal Conservation Actions include restoring meadows and tidal wetlands, propagating native plants, creating vernal pools, installing artificial nesting and roosting structures, establishing a trustee for natural resources, expanding the Citizen Science Program, and identifying wildlife corridors.",
+        "location": "Chapter 6 Conservation Actions / Focal Conservation Actions",
+        "relevant_elements": ["4.1", "4.2", "4.3"]
+      },
+      {
+        "text": "Due to urbanization, growing human populations, and ever present infrastructure, contiguous tracts of habitat have become broken or fragmented... To address this concern, DDOE will identify areas known as hotspots-where wildlife-vehicle collisions are likely to occur.",
+        "location": "Chapter 6 Conservation Actions / Focal Conservation Actions / Wildlife Corridors",
+        "relevant_elements": ["1.4", "4.2"]
+      },
+      {
+        "text": "A monitoring program will be developed to determine the effectiveness that any conservation actions have in reducing the threats facing the District's wildlife and habitats. Indicators of success will be used to assess the status of those conservation targets. Adaptive management techniques will allow flexibility for improving the status of SGCN and achieving SWAP goals.",
+        "location": "Chapter 1 Introduction / Threats, Actions, and Effectiveness Measures",
+        "relevant_elements": ["4.3", "4.5"]
+      },
+      {
+        "text": "Conservation actions will be monitored and measured throughout the 10-year implementation of SWAP 2015.",
+        "location": "Chapter 7 Monitoring and Adaptive Management / Planned Monitoring and Adaptive Management",
+        "relevant_elements": ["4.3"]
+      },
+      {
+        "text": "The current SGCN list will be revisited and, if needed, revised in no more than five years after the submittal of SWAP 2015.",
+        "location": "Chapter 7 Monitoring and Adaptive Management / Periodic Plan Review and Revision",
+        "relevant_elements": ["4.3"]
+      },
+      {
+        "text": "State Wildlife Action Plan coordinators have been challenged with incorporating climate change impacts and species responses when updating the plans in 2015. DDOE utilized the Northeast Climate Center's draft guidelines Integrating Climate Change into Northeast and Midwest State Wildlife Action Plans",
+        "location": "Chapter 5 (table section near Upland Forests)",
+        "relevant_elements": ["4.5"]
+      },
+      {
+        "text": "Climate corridors are explicitly designed to connect habitats along a climate gradient allowing altitudinal and latitudinal range shifts.",
+        "location": "Glossary (connectivity definition)",
+        "relevant_elements": ["1.4", "4.2"]
+      },
+      {
+        "text": "Tier II areas should be targeted for resource management actions that will improve habitat... Tier I areas should be targeted for resource management actions that will prevent degradation of habitats.",
+        "location": "Chapter 3 Habitats / Results and Discussion",
+        "relevant_elements": ["4.1"]
+      },
+      {
+        "text": "DDOE has surveyed potential meadow restoration sites using a geographic information system (GIS) analysis coupled with on-the-ground inspections.",
+        "location": "Chapter 6 Conservation Actions / Focal Conservation Actions / Meadow Restoration",
+        "relevant_elements": ["4.1"]
+      },
+      {
+        "text": "The District will coordinate with USFWS, the Northeast Association of Fish and Wildlife Agencies, the North Atlantic Landscape Conservation Cooperative, other states in the region to develop and implement conservation actions for threats that are most effectively addressed at a regional or multi-state scale.",
+        "location": "Chapter 6 Conservation Actions / Regional Actions and Coordination",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "Additional funding will be necessary to implement the SWAP 2015 conservation actions. This funding would support additional staff, equipment, and supplies for new projects.",
+        "location": "Chapter 6 Conservation Actions / Ecosystem Modifications",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "Managers must routinely consult recently available climate data through programs such as the U.S. Forest Service's Tree Atlas when planning management and conservation of these forests.",
+        "location": "Chapter 5 Climate Change Vulnerability Assessments / General Biological Responses / Upland Forests",
+        "relevant_elements": ["2.2", "2.3", "4.5"]
+      },
+      {
+        "text": "Growing seasons are getting longer, with more growing degree days expected. Sea level is rising at an accelerating rate. Tropical cyclones and hurricanes are intensifying and storm tracks are shifting northward along the coast.",
+        "location": "Chapter 5 Climate Change Vulnerability Assessments / Climate Change Threats to the District of Columbia Region",
+        "relevant_elements": ["3.5", "3.7"]
+      },
+      {
+        "text": "This species favors areas with moist soil and high understory cover. Therefore, continued persistence of Wood Thrush in the District is likely to depend solely on forest composition and forest health (see Upland Forest). Climate change likely threatens the Wood Thrush primarily through increasing temperatures, which decreases soil moisture and alters forest vegetation.",
+        "location": "Chapter 5 Climate Change Vulnerability Assessments / Birds",
+        "relevant_elements": ["1.1", "1.3", "3.5", "3.6"]
+      },
+      {
+        "text": "A host of pathogens are either currently found in the District or may expand their range to impact the region in the near future.",
+        "location": "Chapter 6 Conservation Actions / Conservation Actions by Habitat / Diseases and Pathogens",
+        "relevant_elements": ["3.7"]
+      },
+      {
+        "text": "Also, if a species is a habitat specialist or dietary specialists, or is dependent on habitats that will likely change greatly due to climate change, they are at greater risk (Both et al. 2009; Glick et al. 2011; Bellard et al. 2012; Lurgi et al. 2012; Staudinger et al. 2013; Pacifici et al. 2015).",
+        "location": "Chapter 5 Climate Change Vulnerability Assessments / Species",
+        "relevant_elements": ["1.1", "1.2", "1.3"]
+      },
+      {
+        "text": "Audubon scientists have used hundreds of thousands of citizen-science observations and sophisticated climate models to predict how birds in the U.S. and Canada will react to climate change (National Audubon Society 2014). For many species that have the southernmost edge of their summer range near Maryland and Virginia, the changing climate will likely push the range of these birds farther North.",
+        "location": "Chapter 5 Climate Change Vulnerability Assessments / Birds",
+        "relevant_elements": ["1.1", "2.3", "3.3"]
+      },
+      {
+        "text": "Based on regional predictions, while there may not be drastic changes in forest structure, there will likely be an increase in heat-tolerant conifer species in both forest types and a potential shift to oak-pine forest in some areas (Prasad et al. 2007).",
+        "location": "Chapter 5 Climate Change Vulnerability Assessments / Habitats (Upland Forests table section)",
+        "relevant_elements": ["3.5", "3.7"]
+      },
+      {
+        "text": "When feasible, DDOE will restore and enhance vegetation within existing wetlands to support changing conditions (e.g., using vegetation species that can withstand a broader array of conditions like more frequent inundation and higher salinity levels).",
+        "location": "Chapter 5 Climate Change Vulnerability Assessments / General Biological Responses / Wetlands/Vernal Pools/Riparian Forests",
+        "relevant_elements": ["4.1", "4.2"]
+      },
+      {
+        "text": "Limited resources in the form of funding and grants will impair the ability to properly execute some aspects of the SWAP.",
+        "location": "Chapter 4 Threats to SGCN and Critical Habitats / Resource Deficiencies and Programmatic Threats",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "Adaptive management techniques will be implemented as conditions change to improve chances for the long-term conservation of natural resources and achieving SWAP goals.",
+        "location": "Chapter 7 Monitoring and Adaptive Management",
+        "relevant_elements": ["4.3", "4.5"]
+      },
+      {
+        "text": "FWD modelled habitat condition using in-house and regional spatial data to create a ranking score for habitat in the District at a five-meter resolution.",
+        "location": "Chapter 3 Habitats / Condition of Vegetative Habitats",
+        "relevant_elements": ["4.1"]
+      },
+      {
+        "text": "Figure 23 Potential District-owned meadow restoration sites prioritized by habitat connectivity and estimated size.",
+        "location": "Chapter 6 Conservation Actions / Focal Conservation Actions / Meadow Restoration",
+        "relevant_elements": ["4.1"]
+      }
+    ]
+  },
+  "concepts": {
+    "climate_vulnerability": {
+      "evaluable": true,
+      "score": 3,
+      "evidence": [
+        {
+          "text": "Once these species were selected, we attempted to evaluate general vulnerability by identifying how each species might react, based on their exposure, sensitivity and adaptive capacity (Staudinger et. al. 2015). DDOE use a peer-reviewed literature search, species vulnerability models, such as NatureServe's Climate Change Vulnerability Index (CCVI)",
+          "location": "Chapter 5 Climate Change Vulnerability Assessments / Species",
+          "sub_component": "exposure and adaptive capacity",
+          "citations": ["Staudinger et. al. 2015", "Young et al. 2011", "Faber-Langendoen et al. 2012"]
+        },
+        {
+          "text": "Temperature increases may also be problematic for species at the edge of their ranges. For example, if species are at the more southern end of their range and unable to migrate, they may not survive significant increases in temperature that are greater than they can withstand",
+          "location": "Chapter 5 Climate Change Vulnerability Assessments / Temperature",
+          "sub_component": "exposure",
+          "citations": ["Pyke et al. 2008"]
+        },
+        {
+          "text": "Amphibians are particularly susceptible to the effects of changing climates because of their restrictive physiological requirements and low movement ability.",
+          "location": "Chapter 5 Climate Change Vulnerability Assessments / Herpetofauna",
+          "sub_component": "adaptive capacity",
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "adaptive_capacity_specificity": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Mammals represent a diverse group of vertebrates in the District with respect to range of habitats occupied, dispersal ability, and body size... none of the mammal species have restricted dispersal ability as defined by the CCV index.",
+          "location": "Chapter 5 Climate Change Vulnerability Assessments / Small Mammals",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Amphibians are particularly susceptible to the effects of changing climates because of their restrictive physiological requirements and low movement ability.",
+          "location": "Chapter 5 Climate Change Vulnerability Assessments / Herpetofauna",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "For the in-depth vulnerability consideration for SGCN, DDOE considered Tier 1 SGCN. Of those Tier 1 species, DDOE identified several SGCN that could be disproportionately impacted by the threats of climate change. This was based on range, habitat need, life history, available data, and professional consensus.",
+          "location": "Chapter 5 Climate Change Vulnerability Assessments / Species",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "adaptive_capacity_components": {
+      "demography": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "We consider the spotted turtle highly vulnerable to climate change because of the potential for increased flooding which may displace large parts of populations, elevate mortality rates, and decrease breeding success.",
+            "location": "Chapter 5 Climate Change Vulnerability Assessments / Herpetofauna",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "distribution": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "For many species that have the southernmost edge of their summer range near Maryland and Virginia, the changing climate will likely push the range of these birds farther North.",
+            "location": "Chapter 5 Climate Change Vulnerability Assessments / Birds",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "movement": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Amphibians are particularly susceptible to the effects of changing climates because of their restrictive physiological requirements and low movement ability.",
+            "location": "Chapter 5 Climate Change Vulnerability Assessments / Herpetofauna",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "evolutionary_potential": {
+        "present": false,
+        "evidence": []
+      },
+      "ecological_dependencies": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The queen snake (Regina septemvittata) was selected and ranked as highly vulnerable to climate change because of its direct, documented dependence on clean running streams and watersheds with cool water. The specificity surrounding the habitat requirements of water quality, temperature, and substrate make this designation reasonable. The habitat requirements are directly related to their primary prey, fresh water crayfish.",
+            "location": "Chapter 5 Climate Change Vulnerability Assessments / Herpetofauna",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "abiotic_niche": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Amphibians are particularly susceptible to the effects of changing climates because of their restrictive physiological requirements and low movement ability.",
+            "location": "Chapter 5 Climate Change Vulnerability Assessments / Herpetofauna",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "life_history": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "This was based on range, habitat need, life history, available data, and professional consensus. For example, if species are at the southern end of their range, they may not survive significant increases in temperature",
+            "location": "Chapter 5 Climate Change Vulnerability Assessments / Species",
+            "sub_component": null,
+            "citations": ["Pyke et al. 2008"]
+          }
+        ]
+      }
+    },
+    "connectivity": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "connectivity -The degree to which the landscape facilitates or impedes movement among resource patches, influences gene flow, local adaptation, extinction risk, colonization probability, and the potential for organisms to move as they cope with climate change",
+          "location": "Glossary",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Due to urbanization, growing human populations, and ever present infrastructure, contiguous tracts of habitat have become broken or fragmented. Fragmentation, a threat to wildlife and habitat, occurs when roads transect wildlife travel corridors or bisect home ranges.",
+          "location": "Chapter 6 Conservation Actions / Focal Conservation Actions / Wildlife Corridors",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The glossary explicitly defines connectivity in terms of organisms' ability to 'cope with climate change,' which meets the score-2 threshold for climate-relevant framing. The wildlife corridors section also discusses fragmentation limiting movement, and meadow restoration sites were prioritized by connectivity. Score 2 is warranted."
+    }
+  },
+  "tools": {
+    "vulnerability_models": {
+      "evaluable": true,
+      "score": 2,
+      "named_tools": ["CCVI", "NatureServe Climate Change Vulnerability Index"],
+      "evidence": [
+        {
+          "text": "DDOE use a peer-reviewed literature search, species vulnerability models, such as NatureServe's Climate Change Vulnerability Index (CCVI) (Young et al. 2011, Faber-Langendoen et al. 2012), and expert opinion. The CCVI, as applied to the selected species, resulted in a variety of predictions, all of which reflected increased vulnerability.",
+          "location": "Chapter 5 Climate Change Vulnerability Assessments / Species",
+          "sub_component": null,
+          "citations": ["Young et al. 2011", "Faber-Langendoen et al. 2012"]
+        }
+      ],
+      "absence_note": {}
+    },
+    "niche_models": {
+      "evaluable": true,
+      "score": 2,
+      "named_tools": ["Tree Atlas", "SLAMM"],
+      "evidence": [
+        {
+          "text": "DDOE utilized the Tree Atlas program (Iverson et al, 2008) to help identify potential changes to specific forest species. The primary areas with these forest types in the District occur in Rock Creek Park, Fort DuPont Park, the National Arboretum, Glover Archibold Park, and areas along the Potomac River. Tree Atlas projected a decrease in flowering dogwood (Cornus florida), white oak (Quercus alba), and northern red oak (Quercus rubra).",
+          "location": "Chapter 5 Climate Change Vulnerability Assessments / Habitats",
+          "sub_component": null,
+          "citations": ["Iverson et al, 2008"]
+        }
+      ],
+      "absence_note": "The Tree Atlas is a species distribution model product applied to the District's focal forest species. SLAMM is primarily a physical model, not a species niche model, but Tree Atlas is clearly an SDM product applied to the document's subject."
+    },
+    "climate_models": {
+      "evaluable": true,
+      "score": 2,
+      "named_tools": ["SLAMM", "GCMs", "General Circulation Models"],
+      "evidence": [
+        {
+          "text": "DDOE used the Sea Level Affecting Marshes Model (SLAMM) to simulate impacts from sea level rise in the District region (Clough et al. 2012). DDOE was specifically interested in identifying major transitions and areas of concern for the Potomac and Anacostia Rivers.",
+          "location": "Chapter 5 Climate Change Vulnerability Assessments / Sea-level Rise",
+          "sub_component": null,
+          "citations": ["Clough et al. 2012"]
+        },
+        {
+          "text": "Numerical models (General Circulation Models or GCMs), representing physical processes in the atmosphere, ocean, cryosphere and land surface, are the most advanced tools currently available for simulating the response of the global climate system to increasing greenhouse gas concentrations.",
+          "location": "Chapter 5 Climate Change Vulnerability Assessments / Global Predictions",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Researchers at AREA research projected that the District will have an average of 18-20 days exceeding 95 degrees Fahrenheit per year by 2020, 30-45 days exceeding 95 degrees Fahrenheit per year by 2050, and as many as 40-70 days exceeding 95 degrees Fahrenheit per year by 2080.",
+          "location": "Chapter 5 Climate Change Vulnerability Assessments / Temperature",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {},
+      "time_horizon_years": [2050, 2080, 2100],
+      "emission_scenarios": []
+    },
+    "connectivity_models": {
+      "evaluable": true,
+      "score": 0,
+      "named_tools": [],
+      "evidence": [],
+      "absence_note": "The document discusses connectivity and wildlife corridors qualitatively, and prioritizes meadow restoration sites by connectivity (using GIS). However, no quantitative connectivity modeling tool (CircuitScape, Linkage Mapper, least-cost path, etc.) is named or applied. The GIS-based habitat condition analysis does not constitute a connectivity model in the codebook sense."
+    }
+  },
+  "context": {
+    "management_scale": {
+      "local": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "DDOE will identify areas known as hotspots-where wildlife-vehicle collisions are likely to occur. DDOE will design measures to reduce vehicle strikes, increase the safe passage of wildlife, and reduce risks to public safety in these particular areas.",
+            "location": "Chapter 6 Conservation Actions / Focal Conservation Actions / Wildlife Corridors",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "site": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "DDOE selected eight COA's based on habitat condition analysis and SGCN diversity",
+            "location": "Chapter 3 Habitats / Conservation Opportunity Areas",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "watershed": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Stormwater pollution results from vast urban development, roads, construction, impervious surfaces, and new development, both in the District and upstream, bringing pollutants into the Potomac, Anacostia, and Rock Creek watersheds.",
+            "location": "Chapter 4 Threats to SGCN and Critical Habitats / Urban Wastewater",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "city": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The District of Columbia's Wildlife Action Plan is a comprehensive, citywide plan and framework for managing and conserving the District's diverse animal wildlife and their habitats.",
+            "location": "Chapter 1 Introduction",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "county": {
+        "present": false,
+        "evidence": []
+      },
+      "within_state_region": {
+        "present": false,
+        "evidence": []
+      },
+      "state": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The management of fisheries and wildlife is a state function. DDOE serves as a state agency in this regard and has jurisdiction over the conservation and management of fish, wildlife, and habitats in the District of Columbia.",
+            "location": "Chapter 1 Introduction / DDOE Jurisdiction",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "multistate": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The District will coordinate with USFWS, the Northeast Association of Fish and Wildlife Agencies, the North Atlantic Landscape Conservation Cooperative, other states in the region to develop and implement conservation actions for threats that are most effectively addressed at a regional or multi-state scale.",
+            "location": "Chapter 6 Conservation Actions / Regional Actions and Coordination",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "national": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Projections consistently show continued warming over the next century across all 22 states included in the Northeast Climate Science Center region (Hayhoe et al. 2007, 2008; Rawlins et al. 2012; Kunkel et al. 2013). This region includes the District of Columbia.",
+            "location": "Chapter 5 Climate Change Vulnerability Assessments / Climate Change Threats to the District of Columbia Region",
+            "sub_component": null,
+            "citations": ["Hayhoe et al. 2007", "Hayhoe et al. 2008", "Rawlins et al. 2012", "Kunkel et al. 2013"]
+          }
+        ]
+      },
+      "transnational": {
+        "present": false,
+        "evidence": []
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Through SWAP 2015, DDOE seeks to conserve the wildlife and habitats of the nation's capital by focusing on ecosystem-based wildlife resource management actions",
+            "location": "Chapter 1 Introduction / Vision for the District's Wildlife",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecoregion": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The District falls within TNC's Chesapeake Bay Lowlands and the Lower New England Northern Piedmont Ecoregion.",
+            "location": "Chapter 3 Habitats / Local Context",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "province": {
+        "present": false,
+        "evidence": []
+      },
+      "section": {
+        "present": false,
+        "evidence": []
+      },
+      "subsection": {
+        "present": false,
+        "evidence": []
+      },
+      "lake": {
+        "present": false,
+        "evidence": []
+      },
+      "river": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "DDOE was specifically interested in identifying major transitions and areas of concern for the Potomac and Anacostia Rivers.",
+            "location": "Chapter 5 Climate Change Vulnerability Assessments / Sea-level Rise",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "district": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The District of Columbia's Wildlife Action Plan is a comprehensive, citywide plan and framework for managing and conserving the District's diverse animal wildlife and their habitats.",
+            "location": "Chapter 1 Introduction",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "named_entities": ["District of Columbia", "Rock Creek Park", "Anacostia River", "Potomac River", "Chesapeake Bay Lowlands", "Lower New England Northern Piedmont Ecoregion", "Northeast Climate Science Center region", "North Atlantic Landscape Conservation Cooperative"]
+    },
+    "biological_unit_score": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "As the climate continues to change and become further unstable, it is expected to see shifts in species ranges such as in the case of the green tree frog.",
+          "location": "Chapter 2 SGCN / SGCN Designations / Reptile and Amphibian SGCN",
+          "sub_component": "species",
+          "citations": []
+        },
+        {
+          "text": "The health and quality of tidal and non-tidal wetlands will be affected by climate change. As the quality of a wetland degrades, so does the value of that wetland to the District's wildlife.",
+          "location": "Chapter 5 Climate Change Vulnerability Assessments / Habitats / Tidal Wetlands/Vernal Pools/Riparian Forests",
+          "sub_component": "habitat",
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "biological_unit_components": {
+      "species": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "As the climate continues to change and become further unstable, it is expected to see shifts in species ranges such as in the case of the green tree frog.",
+            "location": "Chapter 2 SGCN / SGCN Designations / Reptile and Amphibian SGCN",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "population": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "We consider the spotted turtle highly vulnerable to climate change because of the potential for increased flooding which may displace large parts of populations, elevate mortality rates, and decrease breeding success.",
+            "location": "Chapter 5 Climate Change Vulnerability Assessments / Herpetofauna",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "habitat": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The health and quality of tidal and non-tidal wetlands will be affected by climate change. As the quality of a wetland degrades, so does the value of that wetland to the District's wildlife.",
+            "location": "Chapter 5 Climate Change Vulnerability Assessments / Habitats / Tidal Wetlands/Vernal Pools/Riparian Forests",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "These changes are likely to cause widespread ecosystem disruption (Kopp et al. 2014).",
+            "location": "Chapter 5 Climate Change Vulnerability Assessments / Climate Change Threats to the District of Columbia Region",
+            "sub_component": null,
+            "citations": ["Kopp et al. 2014"]
+          }
+        ]
+      },
+      "community": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Based on regional predictions, while there may not be drastic changes in forest structure, there will likely be an increase in heat-tolerant conifer species in both forest types and a potential shift to oak-pine forest in some areas",
+            "location": "Chapter 5 Climate Change Vulnerability Assessments / Habitats (Upland Forests section)",
+            "sub_component": null,
+            "citations": ["Prasad et al. 2007"]
+          }
+        ]
+      },
+      "genotype_phenotype": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["spotted turtle (Clemmys guttata)", "queen snake (Regina septemvittata)", "spotted salamander (Ambystoma maculatum)", "wood frog (Lithobates sylvaticus)", "wood thrush (Hylocichla mustelina)", "northern short-tailed shrew (Blarnia brevicauda)", "meadow vole (Microtus pennsylvanicus)", "green tree frog (Hyla cinerea)", "tidal wetlands", "vernal pools", "upland forests", "Northern Hardwood forests", "Central Mixed Oak-Pine forest"]
+    },
+    "partnerships_and_funding": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "The District will coordinate with USFWS, the Northeast Association of Fish and Wildlife Agencies, the North Atlantic Landscape Conservation Cooperative, other states in the region to develop and implement conservation actions for threats that are most effectively addressed at a regional or multi-state scale.",
+          "location": "Chapter 6 Conservation Actions / Regional Actions and Coordination",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Limited resources in the form of funding and grants will impair the ability to properly execute some aspects of the SWAP. Additionally, resources will be targeted towards Tier I species for fiscal efficiency.",
+          "location": "Chapter 4 Threats to SGCN and Critical Habitats / Resource Deficiencies and Programmatic Threats",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document describes partnerships aspirationally (coordination with USFWS, NALCC, Northeast states) and acknowledges funding gaps. There is no evidence of strategic investment with active partnerships specifically for range-shift actions. Score 1 is appropriate."
+    },
+    "climate_threat_habitat_degradation": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Sea-level rise and more intense storm events are expected to increase shoreline erosion, facilitate salt water intrusion, destroy habitats and ecological systems, and increase storm water overflows and sewage contamination.",
+          "location": "Chapter 5 Climate Change Vulnerability Assessments / Sea-level Rise",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "As sea levels rise, marshes can be inundated and converted to shallow open water habitats or non-tidal and brackish wetlands may convert to higher salinity marshes.",
+          "location": "Chapter 5 Climate Change Vulnerability Assessments / Sea-level Rise",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Vernal pools will likely be impacted by higher temperatures and longer durations between rain events, which will directly, negatively impact the populations that depend on these pools.",
+          "location": "Chapter 5 Climate Change Vulnerability Assessments / Habitats / Tidal Wetlands/Vernal Pools/Riparian Forests",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_threat_species_vital_rates": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "We consider the spotted turtle highly vulnerable to climate change because of the potential for increased flooding which may displace large parts of populations, elevate mortality rates, and decrease breeding success.",
+          "location": "Chapter 5 Climate Change Vulnerability Assessments / Herpetofauna",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Lastly, higher temperatures may cause drying through evaporation before the eggs have hatched.",
+          "location": "Chapter 5 Climate Change Vulnerability Assessments / Herpetofauna",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_threat_biotic_stressors": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Warming temperatures will also lead to changes in plant phenology, as has already been observed (Primack et al. 2004, Miller-Rushing and Primack 2008). These changes may have significant impacts on ecosystems by changing existing natural land cover types and by allowing for the spread of pests into previously unaffected regions.",
+          "location": "Chapter 5 Climate Change Vulnerability Assessments / Temperature",
+          "sub_component": null,
+          "citations": ["Primack et al. 2004", "Miller-Rushing and Primack 2008"]
+        }
+      ],
+      "absence_note": {}
+    }
+  },
+  "actions": {
+    "priority_habitat_identification": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "AFWA and the USFWS recommend that states designate discrete, spatially distinct areas that offer the best opportunities and potential for SGCN conservation and label them Conservation Opportunity Areas (COA) (AFWA 2012). DDOE selected eight COA's based on habitat condition analysis and SGCN diversity",
+          "location": "Chapter 3 Habitats / Conservation Opportunity Areas",
+          "sub_component": null,
+          "citations": ["AFWA 2012"]
+        },
+        {
+          "text": "DDOE will prioritize areas with high ecosystem services and habitat value for restoration and/or protection such as stream buffers, wetlands, open meadows, and forest. All of these habitats are vulnerable and given the lack of natural land cover in DC, it is crucial that we protect what is there and restore what we can.",
+          "location": "Chapter 5 Climate Change Vulnerability Assessments / General Actions",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Figure 23 Potential District-owned meadow restoration sites prioritized by habitat connectivity and estimated size.",
+          "location": "Chapter 6 Conservation Actions / Focal Conservation Actions / Meadow Restoration",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "targeted_range_shift_actions": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "The District's Focal Conservation Actions include restoring meadows and tidal wetlands, propagating native plants, creating vernal pools, installing artificial nesting and roosting structures, establishing a trustee for natural resources, expanding the Citizen Science Program, and identifying wildlife corridors.",
+          "location": "Chapter 6 Conservation Actions / Focal Conservation Actions",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document proposes wildlife corridor identification explicitly framed as addressing fragmentation limiting species movement (structural facilitation). The glossary defines connectivity explicitly in terms of organisms' ability to cope with climate change. This qualifies as structural facilitation for range shifts. No direct manipulation (assisted migration, translocation for climate reasons) is proposed."
+    },
+    "time_bound_and_monitoring": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Conservation actions will be monitored and measured throughout the 10-year implementation of SWAP 2015.",
+          "location": "Chapter 7 Monitoring and Adaptive Management / Planned Monitoring and Adaptive Management",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "The current SGCN list will be revisited and, if needed, revised in no more than five years after the submittal of SWAP 2015.",
+          "location": "Chapter 7 Monitoring and Adaptive Management / Periodic Plan Review and Revision",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document specifies a 5-year SGCN list revision and a 10-year plan implementation window with monitoring via TRACS and NRMPRF. However, individual conservation actions in the action tables (Tables 11-25) lack specific deadlines or milestones. The monitoring framework is described at the plan level, not the action level. Score 1 (clear deadlines at plan level) is warranted; score 2 would require action-level deadlines AND effectiveness monitoring tied to specific actions."
+    },
+    "evidence_of_efficacy": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Radio-telemetry of relocated eastern box turtles in the District of Columbia... To monitor the success of this effort, turtles were fitted with radio-transmitters and have been tracked by DDOE biologists since May 2011. In addition to conserving the population in question, this project will produce data regarding the effectiveness of turtle relocation as pertains to movement patterns and home range re-establishment.",
+          "location": "Chapter 8 Stakeholder and Government Participation / Successful Implementation of SWAP 2005",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Bat boxes mimic the space between the tree trunk and bark shingles and have a 52% success rate of occupation (Kennedy et al 2013). Creating bat boxes provides more bat habitats, which assists in reducing the number of bats found in human-occupied dwellings.",
+          "location": "Chapter 6 Conservation Actions / Focal Conservation Actions / Vernal Pool Creation (artificial nesting section)",
+          "sub_component": null,
+          "citations": ["Kennedy et al 2013"]
+        }
+      ],
+      "absence_note": {},
+      "projects": ["Eastern box turtle relocation project (DC, 2011-2015): Ten turtles were radio-tagged after relocation; by 2014 all but one had stopped homing and settled. This provides limited evidence of efficacy for translocation as a conservation tool, with some maladaptation (two transmitter failures, one ranavirus death, one vehicle fatality). Results inform best management practices for future turtle relocations.", "American Shad restoration in the Anacostia River (2004-present): Over 8 million chemically-marked fry stocked; otolith analysis in 2014 found only 1.8% of juvenile shad were hatchery-origin, suggesting limited restoration success to date. Provides evidence that monitoring is ongoing and the project informs future stocking decisions."]
+    },
+    "adaptation_planning_frameworks": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "State Wildlife Action Plan coordinators have been challenged with incorporating climate change impacts and species responses when updating the plans in 2015. DDOE utilized the Northeast Climate Center's draft guidelines Integrating Climate Change into Northeast and Midwest State Wildlife Action Plans",
+          "location": "Chapter 5 (table section near Upland Forests)",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "vulnerability assessment (climate change) -Tools structured to determine the level of vulnerability (sensitivity, exposure, adaptive capacity) to climate change",
+          "location": "Glossary",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Once these species were selected, we attempted to evaluate general vulnerability by identifying how each species might react, based on their exposure, sensitivity and adaptive capacity (Staudinger et. al. 2015). DDOE use a peer-reviewed literature search, species vulnerability models, such as NatureServe's Climate Change Vulnerability Index (CCVI)",
+          "location": "Chapter 5 Climate Change Vulnerability Assessments / Species",
+          "sub_component": null,
+          "citations": ["Staudinger et. al. 2015", "Young et al. 2011", "Faber-Langendoen et al. 2012"]
+        }
+      ],
+      "absence_note": {}
+    }
+  },
+  "coding_meta": {
+    "coder": "llm:claude-sonnet-4-6",
+    "model": "claude-sonnet-4-6",
+    "provider": "claude",
+    "codebook_version": "0.4",
+    "ingest": "text",
+    "design": "single",
+    "temperature": null,
+    "thinking": null,
+    "thinking_effort": null,
+    "coded_at": "2026-07-06T18:39:20Z",
+    "notes": {}
+  }
+}

@@ -1,0 +1,711 @@
+{
+  "document_meta": {
+    "title": "Comprehensive Strategy for Wildlife Conservation in American Samoa 2nd Edition",
+    "year": 2018,
+    "jurisdiction": "American Samoa (Territory of the United States)",
+    "document_type": "CWCS (Comprehensive Wildlife Conservation Strategy)",
+    "document_id": "AmericanSamoa_CWCS_2018",
+    "page_count": 220
+  },
+  "orientation": {
+    "summary": "This is the second edition of the Comprehensive Wildlife Conservation Strategy (CWCS) for American Samoa, published by the Department of Marine and Wildlife Resources (DMWR), covering both terrestrial and marine fauna. The document acknowledges climate change as a significant and growing threat to the territory's wildlife and marine habitats, particularly coral reefs, but treats it primarily as a background stressor rather than organizing the conservation strategy around it. Range shifts are not explicitly framed as a focal topic; the document does not perform any climate modeling or range-shift analysis itself, instead referencing general IPCC projections and calling for vulnerability assessments that have not yet been conducted. The posture is that climate change impacts need to be assessed and that vulnerability assessments are a priority research area, but the plan itself does not implement such frameworks.",
+    "evidence_index": [
+      {
+        "text": "The impacts of global climate change are increasingly important and its impact needs to be assessed in terms of the vulnerabilities of terrestrial and marine wildlife.",
+        "location": "EXECUTIVE SUMMARY",
+        "relevant_elements": ["1.1", "2.1"]
+      },
+      {
+        "text": "In effect, the predicted global changes in climate will lead to drastic physical and chemical changes especially in the coastal marine environment to conditions the species were not originally adapted to. These changes will impact thermal tolerance of different life stages of marine organisms and their distribution.",
+        "location": "MARINE CONSERVATION THREATS",
+        "relevant_elements": ["1.1", "1.1a", "1.1b", "1.3", "3.5"]
+      },
+      {
+        "text": "There has been no formal vunerability assessment of the Territory's coral reefs to global climate change nor predictive studies on the impact of such changes and this is a priority research area that is highlighted in this document.",
+        "location": "MARINE CONSERVATION THREATS",
+        "relevant_elements": ["2.1", "1.1"]
+      },
+      {
+        "text": "We propose to conduct vulnerability assessment of islands and coral reefs and predict area-specific impacts of global climate change in the Territory. This assessment will help identify resilient areas and prioritize areas of conservation.",
+        "location": "Marine invertebrates' general conservation priorities",
+        "relevant_elements": ["2.1", "4.1", "4.5"]
+      },
+      {
+        "text": "Based on current models, global annual mean ocean surface temperatures will likely increase by approximately 0.4-1 °C by 2030, approximately 0.7-2 °C by 2060, and approximately 2-5 °C by 2081-2100 (IPCC, 2013)).",
+        "location": "THREATS (hard corals section)",
+        "relevant_elements": ["2.3", "1.1a"]
+      },
+      {
+        "text": "The models also indicate that mean surface pH in the tropics (20 °N to 20 °S) is projected to decline from the current pH of approximately 8.05 to approximately 7.95 by 2050, and to approximately 7.75 by 2100, or a reduction of 0.31 by 2100 (IPCC, 2013)",
+        "location": "THREATS (hard corals section)",
+        "relevant_elements": ["2.3", "3.5"]
+      },
+      {
+        "text": "Several of the most important threats contributing to the extinction risk of corals are related to global climate change. The main concerns are regarding the impacts of the magnitude and the rapid increase in greenhouse gas concentrations and atmospheric warming.",
+        "location": "THREATS (hard corals section)",
+        "relevant_elements": ["1.1", "3.5"]
+      },
+      {
+        "text": "Higher atmospheric CO 2 results in: Ocean warming via the greenhouse effect, ocean acidification via oceanic uptake of CO 2 , and rising sea levels via ice melting and thermal expansion.",
+        "location": "THREATS (hard corals section)",
+        "relevant_elements": ["3.5", "1.1a"]
+      },
+      {
+        "text": "These projected changes will likely decrease the environmental suitability for shallow coral reef habitats across the equatorial western Pacific and on the Indo-Pacific (Couce et al. 2013). However, these declines in habitat suitability will vary since seawater temperatures are moderated by physical factors such as higher latitudes or upwelling and aragonite saturation states.",
+        "location": "THREATS (hard corals section)",
+        "relevant_elements": ["3.5", "2.2", "1.1a"]
+      },
+      {
+        "text": "However, severe coral bleaching events will likely start to occur annually (van Hooidonk et al. 2014)",
+        "location": "THREATS (hard corals section)",
+        "relevant_elements": ["3.6", "3.5"]
+      },
+      {
+        "text": "Bleaching is the primary observable coral response to ocean warming, wherein corals turn white as they expel their symbiotic zooxanthellae in response to thermal stress. For many corals, an episodic increase of only 1 °C-2 °C above the normal local seasonal maximum ocean temperature can induce bleaching.",
+        "location": "THREATS (hard corals section)",
+        "relevant_elements": ["1.1b", "3.6", "3.5"]
+      },
+      {
+        "text": "In addition to coral bleaching, ocean warming has been documented to lead to impaired fertilization, developmental abnormalities, mortality, impaired settlement success, and impaired calcification of early life phases.",
+        "location": "THREATS (hard corals section)",
+        "relevant_elements": ["3.6", "1.3"]
+      },
+      {
+        "text": "There are no formal assessment of these fishes' vulnerability to climate change. We hypothesize that shallow coral reef fishes may be more susceptible to changes in the climate. Sea-level rise and mortality of corals due to bleaching are expected to affect the habitats of C. undulatus and B. muricatum.",
+        "location": "Threats to marine fishes",
+        "relevant_elements": ["1.1", "3.5", "3.6"]
+      },
+      {
+        "text": "There is also the possibility that warmer conditions may result in more intense cyclones and storms, more powerful waves and greater physical disturbance of coastal environments. Changes in the frequency and strength of El Nino Southern Oscillation has already been shown to change ocean-wide oceanographic patterns",
+        "location": "MARINE CONSERVATION THREATS",
+        "relevant_elements": ["3.5", "1.1a"]
+      },
+      {
+        "text": "There is an increasing concern on the predicted impacts of global climate change on the marine environment in the tropical Pacific. The accumulation of greenhouse gases and the continued uptake of extra heat by the ocean has wide-ranging implications for marine resources.",
+        "location": "MARINE CONSERVATION THREATS",
+        "relevant_elements": ["1.1", "3.5"]
+      },
+      {
+        "text": "Thermal expansion of the ocean and melting land ice is resulting in rising sea levels and higher levels in the future. Increases in ocean temperatures are also changing the strength and direction of currents.",
+        "location": "MARINE CONSERVATION THREATS",
+        "relevant_elements": ["3.5", "1.1a"]
+      },
+      {
+        "text": "Giant clams are also vulnerable of rising sea-surface temperatures and have been known to bleach with increased temperatures.",
+        "location": "THREATS (Giant clams)",
+        "relevant_elements": ["3.6", "1.1b"]
+      },
+      {
+        "text": "The ESA-listed threatened corals have been deduced to be vulnerable to ocean warming, disease, ocean acidification, trophic effects of fishing, nutrients, and predation, sedimentation, sea-level rise, and collection and trade.",
+        "location": "Threats to marine invertebrates",
+        "relevant_elements": ["1.1", "3.5"]
+      },
+      {
+        "text": "possible indirect future threats to cetaceans in the Territory include climate change and habitat degradation (including chemical and noise pollution).",
+        "location": "THREATS TO MARINE MAMMALS",
+        "relevant_elements": ["1.1", "3.5"]
+      },
+      {
+        "text": "There is also the possibility that warmer conditions may result in more intense cyclones and storms, more powerful waves and greater physical disturbance of coastal environments.",
+        "location": "MARINE CONSERVATION THREATS",
+        "relevant_elements": ["3.5"]
+      },
+      {
+        "text": "An understanding of mesophotic reefs is important since these ecosystems may serve as refugia and larval source for the shallow ecosystems (Glynn 1996; Reigl and Piller 2003). Mesophotic coral reefs will probably not experience sedimentation, eutrophication, heat-related bleaching events nor tropical storms",
+        "location": "MESOPHOTIC REEFS",
+        "relevant_elements": ["4.1", "1.4"]
+      },
+      {
+        "text": "It is important to identify coral reef ecosystems resilient to current and predicted threats. Our conservation priority is to conduct and support various climate change vulnerability assessments to identify resilient and vulnerable areas. This would identify priority areas of conservation and management.",
+        "location": "CONSERVATION PRIORITIES (Marine Habitats)",
+        "relevant_elements": ["2.1", "4.1", "4.5"]
+      },
+      {
+        "text": "In addition, there is a need to conduct formal climate change vulnerability assessment for coral reefs will help identify priority sites for conservation.",
+        "location": "Marine fish general conservation priorities",
+        "relevant_elements": ["2.1", "4.1"]
+      },
+      {
+        "text": "There is a need to incorporate the importance of the impact of global climate change in the Territory's statutes and regulations that pertain to marine and terrestrial wildlife.",
+        "location": "STATUTORY AND REGULATORY ASPECTS OF CONSERVATION - EXECUTIVE SUMMARY",
+        "relevant_elements": ["3.4", "4.5"]
+      },
+      {
+        "text": "There is a need to conduct a vulnerability assessment of the Territory to global climate change and perhaps to draft appropriate legislations.",
+        "location": "STATUTORY AND REGULATORY ASPECTS OF CONSERVATION - EXECUTIVE SUMMARY",
+        "relevant_elements": ["2.1", "4.5"]
+      },
+      {
+        "text": "DMWR currently participates in a number of Territorial multi-agency boards and committees, such as the PNRS, the Soil and Water Conservation District Board, ASIST, ASCC-Land Grant's Forest Stewardship Program, and the local action strategies on Fisheries, Land-Based of Pollution and Climate Change.",
+        "location": "1) LOCAL AND REGIONAL COOPERATIVE INITIATIVES",
+        "relevant_elements": ["3.4", "4.5"]
+      },
+      {
+        "text": "The combination of small land mass, isolation from other faunal communities, occurrence of catastrophic natural forces, and a burgeoning human population render the islands' wildlife particularly vulnerable to the effects of shrinking habitat, novel and emergent diseases, minimal dispersal (movement of animals between islands)",
+        "location": "EXECUTIVE SUMMARY",
+        "relevant_elements": ["1.1", "1.2", "1.3"]
+      },
+      {
+        "text": "Species near range boundaries are predicted to be more sensitive to habitat loss, and species with broad diets and habitat breadth less so (Swihart et al. 2003).",
+        "location": "DEFINING SPECIES OF GREATEST CONSERVATION NEED",
+        "relevant_elements": ["1.1b", "1.2", "1.3"]
+      },
+      {
+        "text": "These data have been sufficient to detect significant long-term declines in many species (Cowie 2001a, Cowie & Cook 2001).",
+        "location": "ENDEMIC TERRESTRIAL SNAILS",
+        "relevant_elements": ["1.3"]
+      },
+      {
+        "text": "Habitat maps provide biologists with the ability to spatially quantify wildlife habitat, and to monitor habitat quality and land use change. Further, they can facilitate the inventory and monitoring of wildlife species and provide an important variable for use in habitat suitability and species distribution modeling.",
+        "location": "MAPPING OF WILDLIFE HABITAT IN AMERICAN SAMOA",
+        "relevant_elements": ["2.2", "4.1"]
+      },
+      {
+        "text": "four critical habitat types are defined and designated priority conservation areas fitting these habitat types are indicated in Figure 4.",
+        "location": "HABITAT STATUS AND PROGNOSIS",
+        "relevant_elements": ["4.1"]
+      },
+      {
+        "text": "DMWR is currently working with the land owners of the Naumati Forest and Olovalu Crater for long term protection of these critica wildlife habitat resources.",
+        "location": "CONSERVATION PRIORITIES (terrestrial habitats)",
+        "relevant_elements": ["4.1", "3.4"]
+      },
+      {
+        "text": "There are already several initiatives that protect the coral reef habitats in the Territory in the form of managed areas. Marine protected area programs include the Department of Commerce Special Management Areas (Leone Pala, Nuuuli Pala and the Pago Pago Harbor); Department of Marine and Wildlife Resources Community-Based Fisheries Management Program and No-Take Program; the National Marine Sanctuaries; the National Parks; and the National Wildlife Refuge and Marine National Monuments.",
+        "location": "CONSERVATION PRIORITIES (Marine Habitats) figure caption",
+        "relevant_elements": ["4.1", "3.4"]
+      },
+      {
+        "text": "Warming has allowed invasive cheatgrass to expand its range into higher elevations previously dominated by native bunchgrasses.",
+        "location": "N/A",
+        "relevant_elements": []
+      },
+      {
+        "text": "DMWR views the CWCS as a living document which will be continually updated as new information becomes available, studies and species assesments are completed, and emerging threats are identified. Formal reviews of the CWCS with major revisions will be conducted every 10 years",
+        "location": "CWCS REVISION",
+        "relevant_elements": ["4.3"]
+      },
+      {
+        "text": "Periodic (multi-annual) reviews of programs to be undertaken in-house and in consultation with various local entities (patterned after Figure 1) will permit adjustments to conservation priorities based on the efficacy and adequacy of implementation actions",
+        "location": "PROGRAM EVALUATION AND ADAPTIVE MANAGEMENT",
+        "relevant_elements": ["4.3", "4.5"]
+      },
+      {
+        "text": "A reintroduction to American Samoa is likely to be a critical component towards its continual survival since forest loss in Samoa continues to increase making populations more susceptible to the effects of cyclones",
+        "location": "Ma'oma'o (toloa) Gymnomyza samoensis",
+        "relevant_elements": ["4.2"]
+      },
+      {
+        "text": "develop a captive rearing capacity locally to facilitate research on predation and host preferences and to prepare for possible re-introduction into areas of Upolu and Savai'i where it has gone extinct",
+        "location": "CONSERVATION PRIORITIES (Papilio godeffroyi)",
+        "relevant_elements": ["4.2"]
+      },
+      {
+        "text": "If determined to be locally extinct, develop a captive rearing system with partner agencies for possible future reintroduction to the territory.",
+        "location": "CONSERVATION PRIORITIES (Sheath-tailed bat)",
+        "relevant_elements": ["4.2"]
+      },
+      {
+        "text": "Regional linkages and participatory mechanisms will be particularly germane for conduct of scientific studies, monitoring programs, and protection of species that are common among countries (e.g., shared species of birds and fruit bats) or are migratory in the region (such as sea turtles and marine mammals).",
+        "location": "1) LOCAL AND REGIONAL COOPERATIVE INITIATIVES",
+        "relevant_elements": ["3.4", "3.1"]
+      },
+      {
+        "text": "When implemented with local and regional partners, in full consideration of the traditional and cultural sensitivities of the local community (Section 7: WILDLIFE IN THE SAMOAN CULTURE: ANCHORING CONSERVATION TO TRADITIONS AS A STRATEGY), the strategies identified should improve information on the status of species, their ecological needs, vulnerability to threats, resiliency to disturbance",
+        "location": "EXECUTIVE SUMMARY",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "Increased seawater temperature can lower resistance to coral diseases and reduce coral health and survivorship. Coral disease outbreaks often have either accompanied or immediately followed bleaching events, and also follow seasonal patterns of high seawater temperatures.",
+        "location": "THREATS (hard corals section)",
+        "relevant_elements": ["3.7", "3.6"]
+      },
+      {
+        "text": "Warming has allowed invasive cheatgrass to expand its range",
+        "location": "N/A - codebook example, not in document",
+        "relevant_elements": []
+      }
+    ]
+  },
+  "concepts": {
+    "climate_vulnerability": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "The impacts of global climate change are increasingly important and its impact needs to be assessed in terms of the vulnerabilities of terrestrial and marine wildlife.",
+          "location": "EXECUTIVE SUMMARY",
+          "sub_component": "exposure",
+          "citations": []
+        },
+        {
+          "text": "In effect, the predicted global changes in climate will lead to drastic physical and chemical changes especially in the coastal marine environment to conditions the species were not originally adapted to. These changes will impact thermal tolerance of different life stages of marine organisms and their distribution.",
+          "location": "MARINE CONSERVATION THREATS",
+          "sub_component": "exposure",
+          "citations": []
+        },
+        {
+          "text": "The combination of small land mass, isolation from other faunal communities, occurrence of catastrophic natural forces, and a burgeoning human population render the islands' wildlife particularly vulnerable to the effects of shrinking habitat, novel and emergent diseases, minimal dispersal (movement of animals between islands)",
+          "location": "EXECUTIVE SUMMARY",
+          "sub_component": "exposure",
+          "citations": []
+        }
+      ],
+      "absence_note": "The document references climate exposure (ocean warming, sea level rise, acidification, altered ENSO) affecting species. However, adaptive capacity is not operationalized: the document calls for vulnerability assessments that have not yet been done ('There has been no formal vulnerability assessment of the Territory's coral reefs to global climate change'). The term 'vulnerability' is used but it is not decomposed into exposure plus adaptive capacity in any substantive way. Score is 2 (exposure referenced) rather than 3 because adaptive capacity as a distinct axis is not engaged — resilience is mentioned generically but not analyzed."
+    },
+    "adaptive_capacity_specificity": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Species near range boundaries are predicted to be more sensitive to habitat loss, and species with broad diets and habitat breadth less so (Swihart et al. 2003).",
+          "location": "DEFINING SPECIES OF GREATEST CONSERVATION NEED",
+          "sub_component": null,
+          "citations": ["Swihart et al. 2003"]
+        }
+      ],
+      "absence_note": "The document mentions resilience and the ability of species to withstand disturbance in passing, but does not operationalize adaptive capacity with reference to specific components (dispersal, thermal tolerance, life history, etc.) in a climate context. The reference to species with 'broad diets and habitat breadth' is the closest passage but is brief. Score 1 rather than 2."
+    },
+    "adaptive_capacity_components": {
+      "demography": {
+        "present": false,
+        "evidence": []
+      },
+      "distribution": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "These changes will impact thermal tolerance of different life stages of marine organisms and their distribution.",
+            "location": "MARINE CONSERVATION THREATS",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "movement": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The combination of small land mass, isolation from other faunal communities, occurrence of catastrophic natural forces, and a burgeoning human population render the islands' wildlife particularly vulnerable to the effects of shrinking habitat, novel and emergent diseases, minimal dispersal (movement of animals between islands)",
+            "location": "EXECUTIVE SUMMARY",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "evolutionary_potential": {
+        "present": false,
+        "evidence": []
+      },
+      "ecological_dependencies": {
+        "present": false,
+        "evidence": []
+      },
+      "abiotic_niche": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Species near range boundaries are predicted to be more sensitive to habitat loss, and species with broad diets and habitat breadth less so (Swihart et al. 2003).",
+            "location": "DEFINING SPECIES OF GREATEST CONSERVATION NEED",
+            "sub_component": null,
+            "citations": ["Swihart et al. 2003"]
+          }
+        ]
+      },
+      "life_history": {
+        "present": false,
+        "evidence": []
+      }
+    },
+    "connectivity": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "An understanding of mesophotic reefs is important since these ecosystems may serve as refugia and larval source for the shallow ecosystems (Glynn 1996; Reigl and Piller 2003). Mesophotic coral reefs will probably not experience sedimentation, eutrophication, heat-related bleaching events nor tropical storms",
+          "location": "MESOPHOTIC REEFS",
+          "sub_component": null,
+          "citations": ["Glynn 1996", "Reigl and Piller 2003"]
+        }
+      ],
+      "absence_note": "The document references connectivity in the context of larval transport among islands (currents as major determinant of larval transport) and mesophotic reefs as refugia/source for shallow reefs. These are generic ecological connectivity concepts rather than climate-gradient corridors or connectivity explicitly framed as supporting climate-driven range shifts. Score 1 (generic) rather than 2."
+    }
+  },
+  "tools": {
+    "vulnerability_models": {
+      "evaluable": true,
+      "score": 1,
+      "named_tools": [],
+      "evidence": [
+        {
+          "text": "There has been no formal vunerability assessment of the Territory's coral reefs to global climate change nor predictive studies on the impact of such changes and this is a priority research area that is highlighted in this document.",
+          "location": "MARINE CONSERVATION THREATS",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document repeatedly calls for vulnerability assessments to be conducted but acknowledges none have been done yet. This constitutes a recommendation (future use), not application. Score 1 (referenced generally) rather than 2."
+    },
+    "niche_models": {
+      "evaluable": true,
+      "score": 1,
+      "named_tools": [],
+      "evidence": [
+        {
+          "text": "Habitat maps provide biologists with the ability to spatially quantify wildlife habitat, and to monitor habitat quality and land use change. Further, they can facilitate the inventory and monitoring of wildlife species and provide an important variable for use in habitat suitability and species distribution modeling.",
+          "location": "MAPPING OF WILDLIFE HABITAT IN AMERICAN SAMOA",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "Species distribution modeling is mentioned as a potential future use of the newly produced habitat maps, but no SDM or niche model is actually applied to any focal species in the document. Score 1 (referenced generally as a future tool) rather than 2."
+    },
+    "climate_models": {
+      "evaluable": true,
+      "score": 1,
+      "named_tools": ["IPCC 5th Assessment Report"],
+      "evidence": [
+        {
+          "text": "Based on current models, global annual mean ocean surface temperatures will likely increase by approximately 0.4-1 °C by 2030, approximately 0.7-2 °C by 2060, and approximately 2-5 °C by 2081-2100 (IPCC, 2013)).",
+          "location": "THREATS (hard corals section)",
+          "sub_component": null,
+          "citations": ["IPCC, 2013"]
+        }
+      ],
+      "absence_note": "The document cites IPCC (2013) projections for temperature and ocean pH but does not apply any climate model directly to American Samoa's focal species or habitats — it imports projections from the IPCC as background information for a threats section. No named GCMs, RCPs, SSPs, or downscaled products are applied. Score 1 (referenced generally) rather than 2.",
+      "time_horizon_years": [2030, 2060, 2100],
+      "emission_scenarios": []
+    },
+    "connectivity_models": {
+      "evaluable": true,
+      "score": 0,
+      "named_tools": [],
+      "evidence": [],
+      "absence_note": "No connectivity modeling tools are referenced in the document."
+    }
+  },
+  "context": {
+    "management_scale": {
+      "local": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "DMWR is currently working with the land owners of the Naumati Forest and Olovalu Crater for long term protection of these critica wildlife habitat resources.",
+            "location": "CONSERVATION PRIORITIES (terrestrial habitats)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "site": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "There are already several initiatives that protect the coral reef habitats in the Territory in the form of managed areas. Marine protected area programs include the Department of Commerce Special Management Areas (Leone Pala, Nuuuli Pala and the Pago Pago Harbor)",
+            "location": "CONSERVATION PRIORITIES (Marine Habitats) figure caption",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "watershed": {
+        "present": false,
+        "evidence": []
+      },
+      "city": {
+        "present": false,
+        "evidence": []
+      },
+      "county": {
+        "present": false,
+        "evidence": []
+      },
+      "within_state_region": {
+        "present": false,
+        "evidence": []
+      },
+      "state": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The American Samoa Comprehensive Wildlife Conservation Strategy (CWCS) is the Territory's's blueprint for conservation. It embodies the Territory's vision and the roadmap of wildlife conservation for the next 10 years.",
+            "location": "FOCUS AND SCOPE",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "multistate": {
+        "present": false,
+        "evidence": []
+      },
+      "national": {
+        "present": false,
+        "evidence": []
+      },
+      "transnational": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Regional linkages and participatory mechanisms will be particularly germane for conduct of scientific studies, monitoring programs, and protection of species that are common among countries (e.g., shared species of birds and fruit bats) or are migratory in the region (such as sea turtles and marine mammals).",
+            "location": "1) LOCAL AND REGIONAL COOPERATIVE INITIATIVES",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "This plan will continue to support an ecosystem or ridge-to-reef approach to conservation and management of marine protected areas that are already in place in the Territory.",
+            "location": "Marine invertebrates' general conservation priorities",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecoregion": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "American Samoa's marine fauna is grouped within the Central Polynesia ecoregion, the ecoregion that includes the Line Islands, Phoenix Island, Tokelau, Northern Cook Islands and the Samoan Islands (Spalding et al. 2007).",
+            "location": "THE FAUNA: AN OVERVIEW OF THE CONSERVATION THREATS AND THE IMPACTS ON WILDLIFE",
+            "sub_component": null,
+            "citations": ["Spalding et al. 2007"]
+          }
+        ]
+      },
+      "province": {
+        "present": false,
+        "evidence": []
+      },
+      "section": {
+        "present": false,
+        "evidence": []
+      },
+      "subsection": {
+        "present": false,
+        "evidence": []
+      },
+      "lake": {
+        "present": false,
+        "evidence": []
+      },
+      "river": {
+        "present": false,
+        "evidence": []
+      },
+      "district": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["American Samoa", "Rose Atoll", "Tutuila", "Manu'a Islands", "Ta'u", "Ofu", "Olosega", "Swains Island", "Central Polynesia ecoregion", "Leone Pala", "Nuuuli Pala", "Naumati Forest", "Olovalu Crater", "National Park of American Samoa"]
+    },
+    "biological_unit_score": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "These changes will impact thermal tolerance of different life stages of marine organisms and their distribution.",
+          "location": "MARINE CONSERVATION THREATS",
+          "sub_component": "species/ecosystem",
+          "citations": []
+        },
+        {
+          "text": "It is important to identify coral reef ecosystems resilient to current and predicted threats. Our conservation priority is to conduct and support various climate change vulnerability assessments to identify resilient and vulnerable areas.",
+          "location": "CONSERVATION PRIORITIES (Marine Habitats)",
+          "sub_component": "ecosystem/habitat",
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "biological_unit_components": {
+      "species": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "These changes will impact thermal tolerance of different life stages of marine organisms and their distribution.",
+            "location": "MARINE CONSERVATION THREATS",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "population": {
+        "present": false,
+        "evidence": []
+      },
+      "habitat": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The general end result of these predicted changes is loss of coral reefs and decreased availability of fisheries.",
+            "location": "MARINE CONSERVATION THREATS",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "It is important to identify coral reef ecosystems resilient to current and predicted threats. Our conservation priority is to conduct and support various climate change vulnerability assessments to identify resilient and vulnerable areas.",
+            "location": "CONSERVATION PRIORITIES (Marine Habitats)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "community": {
+        "present": false,
+        "evidence": []
+      },
+      "genotype_phenotype": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["coral reefs", "hard corals (ESA-listed: Acropora globiceps, Acropora speciosa, Acropora retusa, Isopora crateriformis, Euphyllia paradivisa, Pavona diffluens)", "giant clams (Tridacna maxima, T. squamosa, Hippopus hippopus)", "sea cucumbers (Holothuria fuscogilva, Holothuria whitmaei, Actinopyga mauritiana)", "mesophotic reef fishes", "marine turtles (Chelonia mydas, Eretmochelys imbricata)", "fruit bats (Pteropus samoensis, P. tonganus)", "land birds (SGCN)", "sheath-tailed bat (Emballonura semicaudata)"]
+    },
+    "partnerships_and_funding": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "DMWR currently participates in a number of Territorial multi-agency boards and committees, such as the PNRS, the Soil and Water Conservation District Board, ASIST, ASCC-Land Grant's Forest Stewardship Program, and the local action strategies on Fisheries, Land-Based of Pollution and Climate Change.",
+          "location": "1) LOCAL AND REGIONAL COOPERATIVE INITIATIVES",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document describes partnerships extensively for general wildlife conservation, but for climate change-specific work, partnerships are largely aspirational (e.g., calling for vulnerability assessments in collaboration with partners). No specific funding is allocated for range-shift or climate adaptation work. Score 1."
+    },
+    "climate_threat_habitat_degradation": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Coral mortality and reef loss has been attributed to sedimentation, severe storms, predation and global climate change.",
+          "location": "MARINE CONSERVATION THREATS",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_threat_species_vital_rates": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "In addition to coral bleaching, ocean warming has been documented to lead to impaired fertilization, developmental abnormalities, mortality, impaired settlement success, and impaired calcification of early life phases.",
+          "location": "THREATS (hard corals section)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_threat_biotic_stressors": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Increased seawater temperature can lower resistance to coral diseases and reduce coral health and survivorship. Coral disease outbreaks often have either accompanied or immediately followed bleaching events, and also follow seasonal patterns of high seawater temperatures.",
+          "location": "THREATS (hard corals section)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    }
+  },
+  "actions": {
+    "priority_habitat_identification": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "four critical habitat types are defined and designated priority conservation areas fitting these habitat types are indicated in Figure 4.",
+          "location": "HABITAT STATUS AND PROGNOSIS",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "It is important to identify coral reef ecosystems resilient to current and predicted threats. Our conservation priority is to conduct and support various climate change vulnerability assessments to identify resilient and vulnerable areas. This would identify priority areas of conservation and management.",
+          "location": "CONSERVATION PRIORITIES (Marine Habitats)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document provides habitat maps (Appendix 4, Figures 4-8) with designated priority conservation areas, meeting the spatial representation criterion. The climate-resilience framing is present (identify resilient areas) though not the dominant driver of the spatial prioritization. Score 2 because maps and spatially explicit priority areas are included."
+    },
+    "targeted_range_shift_actions": {
+      "evaluable": true,
+      "score": 0,
+      "evidence": [],
+      "absence_note": "The document discusses reintroductions (Ma'oma'o, Pacific boa, sheath-tailed bat) and captive rearing, but none are explicitly framed as climate-driven range-shift actions — they are motivated by extinction risk and predation, not shifting habitat suitability due to climate. No assisted migration, climate-corridor construction, or climate-motivated translocations are proposed. Score 0."
+    },
+    "time_bound_and_monitoring": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "DMWR views the CWCS as a living document which will be continually updated as new information becomes available, studies and species assesments are completed, and emerging threats are identified. Formal reviews of the CWCS with major revisions will be conducted every 10 years",
+          "location": "CWCS REVISION",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document includes plan-level review cycles (10-year formal reviews, yearly informal updates) but does not attach specific deadlines to individual conservation actions in the context of climate change. Monitoring is proposed but as a general strategy (Section 9, inventory and monitoring category) rather than effectiveness monitoring tied to specific climate-related actions at the action level. Score 1 for having a deadline structure at the plan level."
+    },
+    "evidence_of_efficacy": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Hatcheries for giant clams have been developed in several sites in the Pacific and re-stocking of hatchery-produced giant clams have been successful.",
+          "location": "Marine invertebrates' general conservation priorities",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "We have already adapted this technology to a limited extent in the Territory and propose to expand the implementation.",
+          "location": "Marine invertebrates' general conservation priorities",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "Evidence of efficacy is present for some restoration actions (giant clam hatcheries, coral fragment transplanting) but is limited: it references successes from other Pacific locations without systematic evaluation of outcomes in American Samoa. The climate-vulnerability-assessment actions are called for but have no prior evidence. Score 2 (limited evidence: studies with limited applicability/from other locations).",
+      "projects": ["Giant clam hatcheries in the Pacific: The document cites successful giant clam hatchery and restocking programs from other Pacific sites as evidence supporting proposed coral reef restoration actions including clam restocking in American Samoa.", "DMWR coral nursery trials: The document notes that coral ocean nursery/fragment transplanting technology has already been adapted to a limited extent in the Territory, providing some local proof of concept for proposed expansion."]
+    },
+    "adaptation_planning_frameworks": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "DMWR currently participates in a number of Territorial multi-agency boards and committees, such as the PNRS, the Soil and Water Conservation District Board, ASIST, ASCC-Land Grant's Forest Stewardship Program, and the local action strategies on Fisheries, Land-Based of Pollution and Climate Change.",
+          "location": "1) LOCAL AND REGIONAL COOPERATIVE INITIATIVES",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document references participation in a 'local action strategy on Climate Change' and calls for vulnerability assessments and adaptive management cycles (PROGRAM EVALUATION AND ADAPTIVE MANAGEMENT section), but no specific named climate adaptation planning frameworks (RAD, RRT, SBDA, CCVA, etc.) are invoked. The adaptive management framework described is general, not specifically structured around climate change. Score 1 (non-specific reference to climate adaptation planning)."
+    }
+  },
+  "coding_meta": {
+    "coder": "llm:claude-sonnet-4-6",
+    "model": "claude-sonnet-4-6",
+    "provider": "claude",
+    "codebook_version": "0.4",
+    "ingest": "text",
+    "design": "single",
+    "temperature": null,
+    "thinking": null,
+    "thinking_effort": null,
+    "coded_at": "2026-07-06T18:39:20Z",
+    "notes": {}
+  }
+}

@@ -1,0 +1,940 @@
+{
+  "document_meta": {
+    "title": "The Arizona Wildlife Conservation Strategy (AWCS) - Arizona's State Wildlife Action Plan 2022",
+    "year": 2022,
+    "jurisdiction": "Arizona Game and Fish Department (AZGFD)",
+    "document_type": "SWAP",
+    "document_id": "AZ_SWAP_2022",
+    "page_count": 393
+  },
+  "orientation": {
+    "summary": "The Arizona Wildlife Conservation Strategy (AWCS) is Arizona's 2022 State Wildlife Action Plan, produced by the Arizona Game and Fish Department. The document is climate-aware but frames climate change as one of many threats rather than a primary lens; it explicitly chose a broad threats assessment over a species-specific climate vulnerability assessment, citing cost-effectiveness concerns. Range shift science appears mostly as generic language in 'Conservation in the Context of Climate Change' sections repeated across 17 habitat profiles — strategies include improving landscape connectivity 'to allow for range shifts,' protecting climate refugia, and establishing new wild/captive populations of climate-vulnerable SGCN. The plan conducts its own habitat suitability modeling (Random Forests, envelope niche models) for all Tier 1 and Tier 2 SGCN, identifies over 400 Conservation Opportunity Areas spatially, and references USGCRP-based temperature projections (2.5-9.5°F by 2041-2099). Partnerships and funding are extensively described including Heritage Fund, SWG, Pittman-Robertson, and active cross-state collaborations.",
+    "evidence_index": [
+      {
+        "text": "the specter of climate change inches ever closer, threatening to permanently alter our natural landscapes and wildlife habitats that make Arizona so unique.",
+        "location": "Foreword",
+        "relevant_elements": ["1.1", "3.5"]
+      },
+      {
+        "text": "we chose to conduct a broad assessment of major threats to native fish and wildlife species rather than a vulnerability assessment specific to climate change impacts.",
+        "location": "Adaptation Planning Approach and the AWCS, Ch. 3",
+        "relevant_elements": ["1.1", "2.1", "4.5"]
+      },
+      {
+        "text": "Understanding why species and ecosystems are vulnerable or potentially less resilient is a critical first step in developing effective conservation strategies. This vulnerability is based on sensitivity, exposure, and the ability to adapt.",
+        "location": "Ch. 3: Conservation Challenges, Adaptation Planning Approach",
+        "relevant_elements": ["1.1", "1.2"]
+      },
+      {
+        "text": "annual average temperatures in the Southwest are projected to rise by 2.5°F to 5.5°F by 2041-2070 and by 5.5°F to 9.5°F by 2070-2099 under current emission rates (Garfin et al. 2014).",
+        "location": "Changes in Temperature Regimes, Ch. 3",
+        "relevant_elements": ["1.1", "2.3"]
+      },
+      {
+        "text": "Climate models suggest that Arizona may continue to see a reduction in annual precipitation (Brown et al. 1997, Burrell et al. 2020).",
+        "location": "Changes in Precipitation and Hydrological Regimes, Ch. 3",
+        "relevant_elements": ["2.3", "3.5"]
+      },
+      {
+        "text": "Species that typically occupy these areas are then forced, if possible, to either adapt or move to more suitable habitat. When suitable habitat conditions disappear, or shift faster than populations can adjust, the likelihood of species extirpation or extinction increases (Malcolm et al. 2006).",
+        "location": "Ch. 3: Conservation Challenges",
+        "relevant_elements": ["1.1", "1.2", "1.3", "C2"]
+      },
+      {
+        "text": "Desertscrub communities are home to several SGCN reptiles and amphibians that may lack the adaptive capacity to respond favorably to altered fire regimes.",
+        "location": "Desertscrub, Ch. 3: Conservation Challenges",
+        "relevant_elements": ["1.1", "1.2", "1.3"]
+      },
+      {
+        "text": "However, due to the tundra's limited range, climate change could lead to significant reductions in this community due to an upward shift in treeline (Bowman et al. 2002; Tuhy et al. 2002).",
+        "location": "Alpine Tundra, Ch. 7: Habitat Profiles",
+        "relevant_elements": ["C2", "3.5", "1.1"]
+      },
+      {
+        "text": "the largest threat is climate change which could lead to the elimination of alpine tundra habitats in Arizona.",
+        "location": "Alpine Tundra, Ch. 7: Habitat Profiles",
+        "relevant_elements": ["3.5", "1.1"]
+      },
+      {
+        "text": "Identify and improve the connectivity of natural landscapes to better link wildlife populations and allow for range shifts.",
+        "location": "Conservation in the Context of Climate Change, Lower Sonoran Desertscrub, Ch. 7",
+        "relevant_elements": ["1.4", "4.1", "4.2"]
+      },
+      {
+        "text": "Identify populations that could benefit from assisted migrations and/or translocation.",
+        "location": "Conservation in the Context of Climate Change, Lower Sonoran Desertscrub, Ch. 7",
+        "relevant_elements": ["4.2"]
+      },
+      {
+        "text": "Establish new wild and/or captive populations of climate-vulnerable SGCN.",
+        "location": "Conservation in the Context of Climate Change, Lower Sonoran Desertscrub, Ch. 7",
+        "relevant_elements": ["4.2"]
+      },
+      {
+        "text": "Conducting species movement studies and studies that identify likely future range shifts will help to prioritize protection and restoration efforts.",
+        "location": "Identify and protect key wildlife corridors for landscape connectivity, Ch. 3",
+        "relevant_elements": ["C2", "1.4", "4.1", "4.2"]
+      },
+      {
+        "text": "As environmental conditions change, and if wildlife populations shift their ranges, the monitoring of surface waters will need to be a priority.",
+        "location": "Maintain existing and identify new wildlife waters for drought mitigation, Ch. 3",
+        "relevant_elements": ["C2", "4.3"]
+      },
+      {
+        "text": "Restore and maintain diverse habitats to support broad species assemblages that account for range shifts.",
+        "location": "Conservation in the Context of Climate Change, Wetlands, Ch. 7",
+        "relevant_elements": ["C2", "4.1", "4.2"]
+      },
+      {
+        "text": "A changing climate has the potential to greatly alter the delicate relationships between the biotic and abiotic elements in any ecosystem. The result can be ecosystem conversion, where vegetative communities are slowly replaced by species better suited to a warmer, drier climate (Garfin et al. 2014).",
+        "location": "Habitat Shifts and Ecosystem Conversion, Ch. 3",
+        "relevant_elements": ["3.5", "3.7", "1.1"]
+      },
+      {
+        "text": "it will be important to identify and protect climate change refugia to ensure these habitat types persist into the future.",
+        "location": "Conserve a variety of habitats, Ch. 3: Climate Change Adaptation and Mitigation Strategies",
+        "relevant_elements": ["1.4", "4.1", "T1.4c"]
+      },
+      {
+        "text": "Riparian areas act as important linkages in the landscape to facilitate daily, seasonal, and annual movements of individuals and populations of species.",
+        "location": "Riparian Areas and Aquatic Systems, Ch. 7",
+        "relevant_elements": ["1.4"]
+      },
+      {
+        "text": "For most species, modeling methods included Random Forests (RF) and basic envelope niche models.",
+        "location": "Species Distribution Modeling, Ch. 1: Arizona's Biodiversity",
+        "relevant_elements": ["2.2"]
+      },
+      {
+        "text": "The SGCN that either did not have a model or had a model that was determined to need improvements were given high priority... AZGFD contracted with the Research Foundation for the State University of New York (SUNY) to focus exclusively on developing robust habitat suitability models",
+        "location": "Element 1, Road Map to the Eight Required Elements",
+        "relevant_elements": ["2.2"]
+      },
+      {
+        "text": "In total these efforts modeled 290 SGCN of various taxa.",
+        "location": "Element 1, Roadmap to Revise Arizona's Plan, Ch. 5",
+        "relevant_elements": ["2.2"]
+      },
+      {
+        "text": "A 2014 modeling effort to predict changes to hydrologic connectivity in the Verde River Basin suggested that, 'flowing portions of the river network will diminish between 8% and 20% in spring and early summer'",
+        "location": "Changes in Precipitation and Hydrological Regimes, Ch. 3",
+        "relevant_elements": ["2.3", "3.5"]
+      },
+      {
+        "text": "a 2014 modeling effort to predict changes to hydrologic connectivity in the Verde River Basin suggested that, 'flowing portions of the river network will diminish between 8% and 20% in spring and early summer and become increasingly isolated by more frequent and longer stretches of dry channel fragments' (Jaeger et al. 2014).",
+        "location": "Changes in Precipitation and Hydrological Regimes, Ch. 3",
+        "relevant_elements": ["2.3", "2.4", "3.5"]
+      },
+      {
+        "text": "The Nature Conservancy's Resilient and Connected Network (2016) [used to identify terrestrial COAs]",
+        "location": "Identifying Terrestrial COAs, Ch. 4",
+        "relevant_elements": ["2.4", "4.1"]
+      },
+      {
+        "text": "Figure 6: Terrestrial and aquatic COAs identified in the AWCS.",
+        "location": "Ch. 4: A Comprehensive Conservation Approach",
+        "relevant_elements": ["4.1"]
+      },
+      {
+        "text": "More than 400 terrestrial and aquatic COAs are identified in the AWCS, ranging from small stock tanks to entire mountain ranges.",
+        "location": "Element 3, Roadmap to Revise Arizona's Plan, Ch. 5",
+        "relevant_elements": ["4.1"]
+      },
+      {
+        "text": "Areas where threatened and endangered species have been documented; Areas with high wildlife diversity including SGCN; Riparian areas and other specialized habitats; Proximity to protected lands; Areas that contribute to a known movement corridor",
+        "location": "Identifying Terrestrial COAs, Ch. 4",
+        "relevant_elements": ["4.1", "1.4"]
+      },
+      {
+        "text": "Climate change, and the resulting shifts in plant and animal communities, adds an additional layer of complexity as conditions change and native species are forced to respond through resistance,",
+        "location": "Invasive and Problematic Species and Genes, Ch. 3",
+        "relevant_elements": ["3.7", "C2"]
+      },
+      {
+        "text": "tamarisk has benefited from variability in precipitation and temperature, because it adapts well to warmer and drier conditions associated with climate change.",
+        "location": "Non-native and/or Invasive Plant Species, Ch. 3",
+        "relevant_elements": ["3.7"]
+      },
+      {
+        "text": "changes in the timing of precipitation events can also have adverse effects by altering competitive interactions between plant species, thus changing community composition.",
+        "location": "Habitat Shifts and Ecosystem Conversion, Ch. 3",
+        "relevant_elements": ["3.7"]
+      },
+      {
+        "text": "Climate also plays a role in disease dynamics in multiple ways, including altering the abundance and distribution of insect vectors and increasing the spread of pathogens in aquatic systems due to altered water temperature",
+        "location": "Ch. 3: Conservation Challenges, Diseases section",
+        "relevant_elements": ["3.6", "3.7"]
+      },
+      {
+        "text": "Species forced to live outside of their preferred temperature range may be more susceptible to disease, parasites, and pathogens.",
+        "location": "Ch. 3: Conservation Challenges, Diseases section",
+        "relevant_elements": ["3.6", "1.3"]
+      },
+      {
+        "text": "Warmer ambient temperatures may surpass species' temperature tolerances, causing local extinctions or changing the distribution of less heat-tolerant species.",
+        "location": "Climate Change, Ch. 8: Threats and Conservation Actions (multiple habitat sections)",
+        "relevant_elements": ["3.6", "C2", "1.3"]
+      },
+      {
+        "text": "The Heritage Fund was created through the efforts of a broad coalition of Arizona citizens. It designates up to $10 million each year from lottery ticket sales that go to support the conservation and protection of the state's wildlife and natural areas.",
+        "location": "Funding for Conservation",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "AZGFD has partnered with our colleagues at the Nevada Department of Wildlife (NDOW) in an attempt to foster development and implementation of a cross-jurisdictional approach to conservation in the west.",
+        "location": "Regional Collaboration, Ch. 2",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "Help address climate change effects at more regional scales that can in turn help us direct habitat restoration and protection efforts.",
+        "location": "Regional Collaboration, Ch. 2",
+        "relevant_elements": ["3.4", "3.1"]
+      },
+      {
+        "text": "Implement long-term monitoring protocols for vulnerable species and habitats to inform adaptive management.",
+        "location": "Conservation in the Context of Climate Change, multiple habitat sections, Ch. 7",
+        "relevant_elements": ["4.3"]
+      },
+      {
+        "text": "AZGFD is fully committed to reviewing this document as required by USFWS guidelines and performing a full review and revision as needed by 2032",
+        "location": "Element 6, Roadmap to Revise Arizona's Plan, Ch. 5",
+        "relevant_elements": ["4.3"]
+      },
+      {
+        "text": "These strategies were adapted from guidelines by the Association of Fish & Wildlife Agencies (AFWA 2009). Recommendations for implementing these climate change adaptation and mitigation strategies can be found for each habitat type described in Chapter 7",
+        "location": "Climate Change Adaptation and Mitigation Strategies, Ch. 3",
+        "relevant_elements": ["4.5"]
+      },
+      {
+        "text": "Resistance: Actions that attempt to preserve existing ecosystems (i.e. forest thinning); Recovery: Actions intended to reestablish vegetation types that existed previously (i.e. replanting); Reorganization: Actions that acknowledge the inevitable conversion of an ecosystem and work within the context of climate change",
+        "location": "Forests and Woodlands, Ch. 3: Conservation Challenges",
+        "relevant_elements": ["4.5"]
+      },
+      {
+        "text": "We decided against an in-depth analysis of potential climate change impacts because this was not deemed cost-effective nor highly valuable at this time. Rather than committing limited resources to assessing individual species' responses to highly-uncertain variables, AZGFD opted for an approach that would identify the most critical needs and identify immediate actionable strategies.",
+        "location": "Climate Change Adaptation and Mitigation Strategies, Ch. 3",
+        "relevant_elements": ["1.1", "2.1", "4.5"]
+      },
+      {
+        "text": "limited dispersal ability, specific habitat requirements, and the cumulative effects of multiple threats, amphibians are especially vulnerable to disease.",
+        "location": "Diseases Affecting Amphibians, Reptiles, and Fish, Ch. 3",
+        "relevant_elements": ["1.3"]
+      },
+      {
+        "text": "Demographic Status: This criterion considers birth and death rates of each species and known factors impacting those rates. Rates can be affected by intrinsic factors such as low genetic diversity, generation time, reproductive potential, and other life history characteristics.",
+        "location": "Demographic Status, Ch. 1: Arizona's Biodiversity",
+        "relevant_elements": ["1.3"]
+      },
+      {
+        "text": "The Critical Habitat Assessment Tool (CHAT) is a GIS-based decision support tool managed and maintained by the Western Association of Fish and Wildlife Agencies (WAFWA). The tool identifies important wildlife habitats and key wildlife corridors across the west",
+        "location": "Western States Regional Decision Support Tool, Ch. 2",
+        "relevant_elements": ["2.4", "1.4"]
+      },
+      {
+        "text": "Phenological changes can result in misalignment in the timing of food resource availability and the arrival of migratory birds.",
+        "location": "Ch. 8: Threats and Conservation Actions, Semidesert Grasslands",
+        "relevant_elements": ["3.7"]
+      },
+      {
+        "text": "changes in climate are predicted to cause a shift in timing of important physiological events in the life cycles of plants and animals, such as plants and host-specific pollinators. This may lead to misalignment of food availability and reproduction",
+        "location": "Habitat Shifts and Ecosystem Conversion (TABLE), Ch. 3",
+        "relevant_elements": ["3.7"]
+      },
+      {
+        "text": "as temperature and precipitation patterns change, Arizona may experience terrestrial ecosystem conversion from forest to grassland and from grassland to desert, forcing wildlife to adapt or migrate to more suitable areas",
+        "location": "Ch. 3: Conservation Challenges (TABLE)",
+        "relevant_elements": ["C2", "3.5", "3.7"]
+      },
+      {
+        "text": "Climatological warming trends favor shrub species over perennial grasses and desert grasslands are likely to transition to desertscrub.",
+        "location": "Ch. 8: Threats and Conservation Actions, Plains and Great Basin Grasslands (TABLE)",
+        "relevant_elements": ["3.7", "3.5"]
+      },
+      {
+        "text": "A prolonged drought, increasing frequency and intensity of forest fires, invasive species, and habitat alterations from both climate change and development, all have significant and long-lasting effects on these systems.",
+        "location": "Conservation of Forest and Woodland Systems, Ch. 7",
+        "relevant_elements": ["3.5"]
+      }
+    ]
+  },
+  "concepts": {
+    "climate_vulnerability": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Understanding why species and ecosystems are vulnerable or potentially less resilient is a critical first step in developing effective conservation strategies. This vulnerability is based on sensitivity, exposure, and the ability to adapt.",
+          "location": "Adaptation Planning Approach and the AWCS, Ch. 3",
+          "sub_component": "exposure",
+          "citations": []
+        },
+        {
+          "text": "annual average temperatures in the Southwest are projected to rise by 2.5°F to 5.5°F by 2041-2070 and by 5.5°F to 9.5°F by 2070-2099 under current emission rates (Garfin et al. 2014).",
+          "location": "Changes in Temperature Regimes, Ch. 3",
+          "sub_component": "exposure",
+          "citations": ["Garfin et al. 2014"]
+        },
+        {
+          "text": "Desertscrub communities are home to several SGCN reptiles and amphibians that may lack the adaptive capacity to respond favorably to altered fire regimes.",
+          "location": "Desertscrub, Fire and Fire Suppression, Ch. 3: Conservation Challenges",
+          "sub_component": "adaptive capacity",
+          "citations": []
+        }
+      ],
+      "absence_note": "The document explicitly names the three-axis vulnerability framework (sensitivity, exposure, adaptive capacity) and discusses climate exposure in detail via temperature/precipitation projections. Adaptive capacity is referenced generically in several places (e.g., 'lack the adaptive capacity'). However, the plan explicitly chose NOT to conduct a species-specific climate vulnerability assessment. Score 2 rather than 3 because although both exposure AND adaptive capacity are mentioned, they are not operationally combined into a scoring framework for the focal SGCN — the document explicitly declined to do so."
+    },
+    "adaptive_capacity_specificity": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Species that typically occupy these areas are then forced, if possible, to either adapt or move to more suitable habitat. When suitable habitat conditions disappear, or shift faster than populations can adjust, the likelihood of species extirpation or extinction increases (Malcolm et al. 2006).",
+          "location": "Ch. 3: Conservation Challenges",
+          "sub_component": null,
+          "citations": ["Malcolm et al. 2006"]
+        },
+        {
+          "text": "Desertscrub communities are home to several SGCN reptiles and amphibians that may lack the adaptive capacity to respond favorably to altered fire regimes.",
+          "location": "Fire and Fire Suppression, Ch. 3: Conservation Challenges",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "limited dispersal ability, specific habitat requirements, and the cumulative effects of multiple threats, amphibians are especially vulnerable to disease.",
+          "location": "Diseases Affecting Amphibians, Reptiles, and Fish, Ch. 3",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document references specific components of adaptive capacity (dispersal ability, temperature tolerances, demographic rates, genetic diversity) for named species/taxa, earning a score of 2."
+    },
+    "adaptive_capacity_components": {
+      "demography": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "This criterion considers birth and death rates of each species and known factors impacting those rates. Rates can be affected by intrinsic factors such as low genetic diversity, generation time, reproductive potential, and other life history characteristics.",
+            "location": "Demographic Status, Ch. 1: Arizona's Biodiversity",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "distribution": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Species that typically occupy these areas are then forced, if possible, to either adapt or move to more suitable habitat. When suitable habitat conditions disappear, or shift faster than populations can adjust, the likelihood of species extirpation or extinction increases (Malcolm et al. 2006).",
+            "location": "Ch. 3: Conservation Challenges",
+            "sub_component": null,
+            "citations": ["Malcolm et al. 2006"]
+          }
+        ]
+      },
+      "movement": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "limited dispersal ability, specific habitat requirements, and the cumulative effects of multiple threats, amphibians are especially vulnerable to disease.",
+            "location": "Diseases Affecting Amphibians, Reptiles, and Fish, Ch. 3",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "evolutionary_potential": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Extrinsic factors affecting rates include environmental change, illegal harvest, disturbance, and disease. California condors are an example of a species with high demographic concerns.",
+            "location": "Demographic Status, Ch. 1: Arizona's Biodiversity",
+            "sub_component": null,
+            "citations": []
+          },
+          {
+            "text": "Populations then face genetic bottlenecks and decreased population connectivity, further impacting their ability to recover.",
+            "location": "Ch. 8: Threats and Conservation Actions, Climate Change section (Lower Sonoran)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecological_dependencies": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "changes in climate are predicted to cause a shift in timing of important physiological events in the life cycles of plants and animals, such as plants and host-specific pollinators. This may lead to misalignment of food availability and reproduction",
+            "location": "Habitat Shifts and Ecosystem Conversion (TABLE), Ch. 3",
+            "sub_component": null,
+            "citations": ["AFWA 2009", "Margolis et al. 2011"]
+          }
+        ]
+      },
+      "abiotic_niche": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Warmer ambient temperatures may surpass species' temperature tolerances, causing local extinctions or changing the distribution of less heat-tolerant species towards cooler climates.",
+            "location": "Climate Change, Ch. 8: Threats and Conservation Actions (Chaparral)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "life_history": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Rates can be affected by intrinsic factors such as low genetic diversity, generation time, reproductive potential, and other life history characteristics.",
+            "location": "Demographic Status, Ch. 1: Arizona's Biodiversity",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      }
+    },
+    "connectivity": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Identify and improve the connectivity of natural landscapes to better link wildlife populations and allow for range shifts.",
+          "location": "Conservation in the Context of Climate Change, Lower Sonoran Desertscrub, Ch. 7",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Conducting species movement studies and studies that identify likely future range shifts will help to prioritize protection and restoration efforts.",
+          "location": "Identify and protect key wildlife corridors for landscape connectivity, Ch. 3",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "it will be important to identify and protect climate change refugia to ensure these habitat types persist into the future.",
+          "location": "Conserve a variety of habitats, Ch. 3: Climate Change Adaptation and Mitigation Strategies",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    }
+  },
+  "tools": {
+    "vulnerability_models": {
+      "evaluable": true,
+      "score": 1,
+      "named_tools": [],
+      "evidence": [
+        {
+          "text": "we chose to conduct a broad assessment of major threats to native fish and wildlife species rather than a vulnerability assessment specific to climate change impacts.",
+          "location": "Adaptation Planning Approach and the AWCS, Ch. 3",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document references climate vulnerability assessment as a concept and explicitly chose not to conduct one. The SGCN vulnerability assessment uses seven criteria but these are not framed as a climate vulnerability model (CCVI, PVA, etc.). Score 1: referenced as a concept but not applied to focal subjects. No specific climate vulnerability model (CCVI, etc.) is named or applied."
+    },
+    "niche_models": {
+      "evaluable": true,
+      "score": 2,
+      "named_tools": ["Random Forests", "envelope niche models"],
+      "evidence": [
+        {
+          "text": "For most species, modeling methods included Random Forests (RF) and basic envelope niche models.",
+          "location": "Species Distribution Modeling, Ch. 1: Arizona's Biodiversity",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "In total these efforts modeled 290 SGCN of various taxa.",
+          "location": "Element 1, Roadmap to Revise Arizona's Plan, Ch. 5",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_models": {
+      "evaluable": true,
+      "score": 1,
+      "named_tools": [],
+      "evidence": [
+        {
+          "text": "annual average temperatures in the Southwest are projected to rise by 2.5°F to 5.5°F by 2041-2070 and by 5.5°F to 9.5°F by 2070-2099 under current emission rates (Garfin et al. 2014).",
+          "location": "Changes in Temperature Regimes, Ch. 3",
+          "sub_component": null,
+          "citations": ["Garfin et al. 2014"]
+        },
+        {
+          "text": "Climate models suggest that Arizona may continue to see a reduction in annual precipitation (Brown et al. 1997, Burrell et al. 2020).",
+          "location": "Changes in Precipitation and Hydrological Regimes, Ch. 3",
+          "sub_component": null,
+          "citations": ["Brown et al. 1997", "Burrell et al. 2020"]
+        }
+      ],
+      "absence_note": "The document cites climate projections from USGCRP/Third National Climate Assessment and references 'climate models' generically. No specific GCM, CMIP ensemble, RCP, or downscaling product is named. Score 1: referenced generally, not applied.",
+      "time_horizon_years": [2070, 2099],
+      "emission_scenarios": []
+    },
+    "connectivity_models": {
+      "evaluable": true,
+      "score": 1,
+      "named_tools": ["The Nature Conservancy's Resilient and Connected Network", "Critical Habitat Assessment Tool (CHAT)"],
+      "evidence": [
+        {
+          "text": "The Nature Conservancy's Resilient and Connected Network (2016) [was used to help identify and refine terrestrial COAs]",
+          "location": "Identifying Terrestrial COAs, Ch. 4",
+          "sub_component": null,
+          "citations": ["Anderson et al. 2016"]
+        },
+        {
+          "text": "The Critical Habitat Assessment Tool (CHAT) is a GIS-based decision support tool managed and maintained by the Western Association of Fish and Wildlife Agencies (WAFWA). The tool identifies important wildlife habitats and key wildlife corridors across the west",
+          "location": "Western States Regional Decision Support Tool, Ch. 2",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "TNC's Resilient and Connected Network product is listed among datasets used to identify terrestrial COAs. CHAT is described as identifying wildlife corridors. However, neither is explicitly framed as a connectivity model applied in a range-shift context, and neither is CircuitScape or similar. Score 1: referenced/cited but application to range-shift science is indirect."
+    }
+  },
+  "context": {
+    "management_scale": {
+      "local": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Site-specific actions focus on a specific habitat and typically benefit multiple species. Examples of site-specific actions that may be implemented include the riparian area restoration projects occurring at the Sipe Wildlife Area",
+            "location": "Conservation Actions, Ch. 4",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "site": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "ranging from small stock tanks to entire mountain ranges. Some COAs are specific to individual species that are in need of targeted conservation efforts",
+            "location": "Element 3, Roadmap to Revise Arizona's Plan, Ch. 5",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "watershed": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "AZGFD contracted with the Research Foundation for the State University of New York (SUNY) to focus exclusively on developing robust habitat suitability models...For fish species, we used simple distribution maps that correspond with Watershed Management Plans (WMPs)",
+            "location": "Species Distribution Modeling, Ch. 1: Arizona's Biodiversity",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "city": {
+        "present": false,
+        "evidence": []
+      },
+      "county": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Pima County protects riparian habitat for future generations by ensuring the long-term stability of natural floodplains, allowing for the survival of native plants and animals",
+            "location": "Conservation of Aquatic Systems and Riparian Areas, Ch. 7",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "within_state_region": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "the 'sky islands' of southeastern Arizona are particularly vulnerable to conversion, and in some areas the hotter, drier conditions and intense wildfires are already causing portions of these biodiversity hotspots to transition",
+            "location": "Habitat Shifts and Ecosystem Conversion (TABLE), Ch. 3",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "state": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The AWCS is Arizona's official SWAP for 2022 and, not only features a 10-year strategic plan, but for the first time, this comprehensive statewide conservation strategy will exist in a web-based platform",
+            "location": "What is the Arizona Wildlife Conservation Strategy?",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "multistate": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "AZGFD has partnered with our colleagues at the Nevada Department of Wildlife (NDOW) in an attempt to foster development and implementation of a cross-jurisdictional approach to conservation in the west.",
+            "location": "Regional Collaboration, Ch. 2",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "national": {
+        "present": false,
+        "evidence": []
+      },
+      "transnational": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Identify potential transboundary COAs in our shared landscape and potential collaborative efforts that we can implement as well as other valuable resources",
+            "location": "Regional Collaboration, Ch. 2",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Landscape-level actions are developed through collaboration with multiple entities and typically implemented over the course of several years. Projects may extend across different habitat types, or in some cases, statewide.",
+            "location": "Conservation Actions, Ch. 4",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecoregion": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "the AWCS will also rely on two other widely-used datasets: Level III Ecoregions (Griffith et al. 2014) and Bird Conservation Regions",
+            "location": "Regional and International Conservation Initiatives, Ch. 2",
+            "sub_component": null,
+            "citations": ["Griffith et al. 2014"]
+          }
+        ]
+      },
+      "province": {
+        "present": false,
+        "evidence": []
+      },
+      "section": {
+        "present": false,
+        "evidence": []
+      },
+      "subsection": {
+        "present": false,
+        "evidence": []
+      },
+      "lake": {
+        "present": false,
+        "evidence": []
+      },
+      "river": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "A 2014 modeling effort to predict changes to hydrologic connectivity in the Verde River Basin suggested that, 'flowing portions of the river network will diminish between 8% and 20% in spring and early summer'",
+            "location": "Changes in Precipitation and Hydrological Regimes, Ch. 3",
+            "sub_component": null,
+            "citations": ["Jaeger et al. 2014"]
+          }
+        ]
+      },
+      "district": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["Arizona", "Verde River Basin", "Upper San Pedro River", "Sky Islands of southeastern Arizona", "Colorado River Basin", "Arizona-Nevada transboundary", "Kaibab Plateau", "White Mountains", "San Francisco Peaks"]
+    },
+    "biological_unit_score": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "In following our vision for a comprehensive conservation framework, the AWCS identifies actions benefitting diverse conservation targets, such as individual Species of Greatest Conservation Need (SGCN), specific habitats, entire taxonomic groups, or all of Arizona's wildlife.",
+          "location": "What makes the AWCS a comprehensive strategy?",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "A changing climate has the potential to greatly alter the delicate relationships between the biotic and abiotic elements in any ecosystem. The result can be ecosystem conversion, where vegetative communities are slowly replaced by species better suited to a warmer, drier climate (Garfin et al. 2014).",
+          "location": "Habitat Shifts and Ecosystem Conversion, Ch. 3",
+          "sub_component": null,
+          "citations": ["Garfin et al. 2014"]
+        }
+      ],
+      "absence_note": {}
+    },
+    "biological_unit_components": {
+      "species": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Identify populations that could benefit from assisted migrations and/or translocation.",
+            "location": "Conservation in the Context of Climate Change, Lower Sonoran Desertscrub, Ch. 7",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "population": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Establish new wild and/or captive populations of climate-vulnerable SGCN Evaluate the need to establish new wild and/or captive populations of SGCN species will ensure persistence of the species.",
+            "location": "Climate Change Adaptation and Mitigation Strategies, Ch. 3",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "habitat": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Restore and maintain diverse habitats to support broad species assemblages that account for range shifts.",
+            "location": "Conservation in the Context of Climate Change, Wetlands, Ch. 7",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "A changing climate has the potential to greatly alter the delicate relationships between the biotic and abiotic elements in any ecosystem. The result can be ecosystem conversion, where vegetative communities are slowly replaced by species better suited to a warmer, drier climate (Garfin et al. 2014).",
+            "location": "Habitat Shifts and Ecosystem Conversion, Ch. 3",
+            "sub_component": null,
+            "citations": ["Garfin et al. 2014"]
+          }
+        ]
+      },
+      "community": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "leading to replacement of entire wildlife communities.",
+            "location": "Habitat Shifts and Ecosystem Conversion, Ch. 3",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "genotype_phenotype": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["SGCN (Species of Greatest Conservation Need)", "Chiricahua leopard frog", "southwestern willow flycatcher", "Mexican spotted owl", "desert pupfish", "spikedace", "loach minnow", "Gila topminnow", "northern leopard frog", "Apache trout", "Gila trout", "Sonoran tiger salamander", "desert tortoise", "pronghorn", "alpine tundra community", "cottonwood-willow riparian communities", "desertscrub", "semidesert grassland", "sky island habitats"]
+    },
+    "partnerships_and_funding": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "The Heritage Fund was created through the efforts of a broad coalition of Arizona citizens. It designates up to $10 million each year from lottery ticket sales that go to support the conservation and protection of the state's wildlife and natural areas.",
+          "location": "Funding for Conservation",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "AZGFD has partnered with our colleagues at the Nevada Department of Wildlife (NDOW) in an attempt to foster development and implementation of a cross-jurisdictional approach to conservation in the west.",
+          "location": "Regional Collaboration, Ch. 2",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "In May 2018, four partners, including Hauser and Hauser Farms, NRCS, AZGFD and The Nature Conservancy (TNC), finalized a voluntary conservation agreement that would prevent future development on approximately 513 acres of Park Central Farm",
+          "location": "Case Study: Partnering to Preserve Riparian Habitats Along the Verde River, Ch. 4",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document describes numerous active partnerships (NRCS, TNC, USFWS, tribal nations, NGOs, Nevada DOW, BLM, USFS) with named projects and completed funding (Heritage Fund $10M/yr, SWG, Pittman-Robertson, Section 6, $6.5M Verde River acquisition). Score 2: strategic investment with active named partnerships implementing conservation actions."
+    },
+    "climate_threat_habitat_degradation": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "A long-term trend of dry winters and reduced monsoonal precipitation, combined with increasing water consumption by a growing human population, may cause once-perennial streams to run dry, resulting in complete loss of valuable aquatic and riparian habitat.",
+          "location": "Changes in Precipitation and Hydrological Regimes, Ch. 3",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "climate change could lead to significant reductions in this community due to an upward shift in treeline (Bowman et al. 2002; Tuhy et al. 2002).",
+          "location": "Alpine Tundra, Ch. 7: Habitat Profiles",
+          "sub_component": null,
+          "citations": ["Bowman et al. 2002", "Tuhy et al. 2002"]
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_threat_species_vital_rates": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Warmer ambient temperatures may surpass species' temperature tolerances, causing local extinctions or changing the distribution of less heat-tolerant species towards cooler climates.",
+          "location": "Climate Change, Ch. 8: Threats and Conservation Actions (Subalpine Conifer Forests and Alpine Tundra)",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Species forced to live outside of their preferred temperature range may be more susceptible to disease, parasites, and pathogens.",
+          "location": "Ch. 3: Conservation Challenges, Disease section",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_threat_biotic_stressors": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "tamarisk has benefited from variability in precipitation and temperature, because it adapts well to warmer and drier conditions associated with climate change.",
+          "location": "Non-native and/or Invasive Plant Species, Ch. 3",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Phenological changes can result in misalignment in the timing of food resource availability and the arrival of migratory birds.",
+          "location": "Ch. 8: Threats and Conservation Actions, Semidesert Grasslands (TABLE)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    }
+  },
+  "actions": {
+    "priority_habitat_identification": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "More than 400 terrestrial and aquatic COAs are identified in the AWCS, ranging from small stock tanks to entire mountain ranges.",
+          "location": "Element 3, Roadmap to Revise Arizona's Plan, Ch. 5",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Figure 6: Terrestrial and aquatic COAs identified in the AWCS.",
+          "location": "Ch. 4: A Comprehensive Conservation Approach",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "it will be important to identify and protect climate change refugia to ensure these habitat types persist into the future.",
+          "location": "Conserve a variety of habitats, Ch. 3: Climate Change Adaptation and Mitigation Strategies",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "targeted_range_shift_actions": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Identify populations that could benefit from assisted migrations and/or translocation.",
+          "location": "Conservation in the Context of Climate Change, Lower Sonoran Desertscrub, Ch. 7",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Identify and improve the connectivity of natural landscapes to better link wildlife populations and allow for range shifts.",
+          "location": "Conservation in the Context of Climate Change, Lower Sonoran Desertscrub, Ch. 7",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "time_bound_and_monitoring": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "AZGFD is fully committed to reviewing this document as required by USFWS guidelines and performing a full review and revision as needed by 2032",
+          "location": "Element 6, Roadmap to Revise Arizona's Plan, Ch. 5",
+          "sub_component": "deadline",
+          "citations": []
+        },
+        {
+          "text": "Implement long-term monitoring protocols for vulnerable species and habitats to inform adaptive management.",
+          "location": "Conservation in the Context of Climate Change, multiple habitat profiles, Ch. 7",
+          "sub_component": "monitoring",
+          "citations": []
+        }
+      ],
+      "absence_note": "The plan has a 10-year horizon and a 2032 revision deadline at the plan level, plus general calls for long-term monitoring. However, individual conservation actions in the habitat chapters do not have specific deadlines or milestones attached. The monitoring described is aspirational/general rather than tied to specific action-level effectiveness criteria. Score 1 (has clear plan-level deadline and monitoring as a principle but not operationalized at the action level with both deadlines AND effectiveness monitoring)."
+    },
+    "evidence_of_efficacy": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Efforts to remove bullfrogs from habitats where Chiricahua leopard frogs occur or will be introduced is an AZGFD management strategy that has been effective in several large landscapes in southeastern Arizona.",
+          "location": "Invasive and Problematic Species and Genes, Ch. 3",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "By converting 100 acres of high-water-use crop to a low-water-use native grass pasture, more than 700 million gallons of water (approximately 2,000 acre-feet) have remained in the river system over the five-year project term for the benefit of wildlife",
+          "location": "Case Study: Collaborating for Water Conservation, Ch. 3",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "Several case studies reference measured outcomes (volume of water retained, effective bullfrog removal), providing limited but direct evidence. These are real-world implemented actions with results, but are not directly tied to range-shift-specific actions. Score 2 (limited evidence: case studies present but not directly testing range-shift facilitation actions).",
+      "projects": ["Lower San Pedro River Water Conservation Project: A 5-year partnership with AZGFD and Arizona Land and Water Trust converted 100 acres of high-water-use crops to native grass pasture, retaining 700 million gallons of water in the river system; provides evidence that habitat management for water retention supports riparian SGCN.", "Bullfrog removal program for Chiricahua leopard frog: AZGFD has implemented bullfrog removal as an effective management strategy in multiple landscapes in southeastern Arizona, providing direct evidence of efficacy for invasive species control benefiting native amphibians.", "Park Central Farm Verde River conservation agreement: 513-acre voluntary conservation easement finalized in 2018 by AZGFD, NRCS, TNC, and private landowner for $6.5M; demonstrates active corridor protection implementation with named outcomes."]
+    },
+    "adaptation_planning_frameworks": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Resistance: Actions that attempt to preserve existing ecosystems (i.e. forest thinning); Recovery: Actions intended to reestablish vegetation types that existed previously (i.e. replanting); Reorganization: Actions that acknowledge the inevitable conversion of an ecosystem and work within the context of climate change to allow a novel community to establish",
+          "location": "Forests and Woodlands, Ch. 3: Conservation Challenges",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "These strategies were adapted from guidelines by the Association of Fish & Wildlife Agencies (AFWA 2009). Recommendations for implementing these climate change adaptation and mitigation strategies can be found for each habitat type described in Chapter 7",
+          "location": "Climate Change Adaptation and Mitigation Strategies, Ch. 3",
+          "sub_component": null,
+          "citations": ["AFWA 2009"]
+        },
+        {
+          "text": "an important part of wildlife conservation is adaptive management, or the ability to alter management plans as situations change.",
+          "location": "Element 6. Procedures for Updating this Plan",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document names the Resistance-Recovery-Reorganization framework explicitly and applies it to forest management under climate change, and uses the AFWA climate change adaptation strategies framework across all 17 habitat profiles. Score 2: specific named frameworks (R-R-R equivalent to RRT) applied to the document's focal subjects."
+    }
+  },
+  "coding_meta": {
+    "coder": "llm:claude-sonnet-4-6",
+    "model": "claude-sonnet-4-6",
+    "provider": "claude",
+    "codebook_version": "0.4",
+    "ingest": "text",
+    "design": "single",
+    "temperature": null,
+    "thinking": null,
+    "thinking_effort": null,
+    "coded_at": "2026-07-06T18:39:20Z",
+    "notes": {}
+  }
+}

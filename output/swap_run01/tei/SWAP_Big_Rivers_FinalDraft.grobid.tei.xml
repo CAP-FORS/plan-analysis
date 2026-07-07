@@ -1,0 +1,1216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main"></title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Kevin</forename><forename type="middle">E</forename><surname>Wehrly</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Contributors Michigan Department of Natural Resources</orgName>
+								<orgName type="institution">Michigan Natural Features Inventory</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Ryan</forename><forename type="middle">E</forename><surname>Brown</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Contributors Michigan Department of Natural Resources</orgName>
+								<orgName type="institution">Michigan Natural Features Inventory</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">John</forename><forename type="middle">T</forename><surname>Buszkiewicz</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Contributors Michigan Department of Natural Resources</orgName>
+								<orgName type="institution">Michigan Natural Features Inventory</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Arthur</forename><forename type="middle">R</forename><surname>Cooper</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Contributors Michigan Department of Natural Resources</orgName>
+								<orgName type="institution">Michigan Natural Features Inventory</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Matthew</forename><forename type="middle">J</forename><surname>Diana</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Contributors Michigan Department of Natural Resources</orgName>
+								<orgName type="institution">Michigan Natural Features Inventory</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Patrick</forename><forename type="middle">B</forename><surname>Ertel</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Contributors Michigan Department of Natural Resources</orgName>
+								<orgName type="institution">Michigan Natural Features Inventory</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Jeffrey</forename><forename type="middle">C</forename><surname>Jolley</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Contributors Michigan Department of Natural Resources</orgName>
+								<orgName type="institution">Michigan Natural Features Inventory</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Jack</forename><forename type="middle">E</forename><surname>Taylor</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Contributors Michigan Department of Natural Resources</orgName>
+								<orgName type="institution">Michigan Natural Features Inventory</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Scott</forename><forename type="middle">K 2026</forename><surname>Hanshue</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Contributors Michigan Department of Natural Resources</orgName>
+								<orgName type="institution">Michigan Natural Features Inventory</orgName>
+							</affiliation>
+						</author>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">9E199211DA9C2F728C6E86C2812697C3</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.1" ident="GROBID" when="2026-07-06T12:27+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>What are Michigan's big rivers?</p><p>Big Rivers in Michigan are defined in this plan as having watersheds greater than 300 square miles. These landscape features are among the most biologically diverse systems in the state, owing to the numerous habitat types they possess. As Big Rivers descend from higher elevations and flow to the Great Lakes, they encompass many instream features including, pools, riffles, glides, backwaters, eddies, undercut banks, fallen trees and spring seeps that collectively maintain a diversity of aquatic habitats. In addition, Big Rivers support important riparian features including emergent wetlands, floodplain forests, Great Lakes wetlands and bayous. Not surprisingly, a host of aquatic and terrestrial species make their home in and around Big Rivers. The environmental character of Big Rivers and the fish and wildlife they support are shaped by the large network of upstream tributaries and their watersheds and by their connections to the Great Lakes.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Why are big rivers important?</head><p>Michigan's Big Rivers have played a vital role in the state's development, serving as an essential pathway for transportation, trade and settlement from the time of early indigenous use to fur trading in the 1600s and continuing through the logging and industrial booms of the 1800s. Big rivers have fueled economic growth and shaped the heart of many cities. However, this progress came at a cost as these rivers were dramatically altered by construction of dams which caused fragmentation, pollution from industrial development and overuse. Although many Big Rivers have recovered from their early abuses, there are currently 3 areas of concern (AOC) in Michigan's longest Big Rivers (River Raisin, Kalamazoo River and the Saginaw River complex). Protecting and restoring the health of Michigan's Big Rivers is critical not only for maintaining high-quality fisheries, wildlife habitat and recreation, but also for realizing their full cultural and ecological significance, ensuring they remain a lasting benefit for all Michiganders.</p><p>What's the health of Michigan's big rivers? During Michigan's development, many of our Big Rivers were dammed for logging, industrial use and power generation, severing the linkage to the Great Lakes and impounding rare high-gradient stretches of river. Consequently, connectivity in Big Rivers is severely limited by high levels of fragmentation from dams <ref type="bibr" target="#b15">(Cooper et al. 2017)</ref>. Big Rivers drain large areas of land and their water quality and flow regimes are influenced by human activities throughout their watersheds. Big Rivers, in turn, influence the water quality of the Great Lakes. Currently, many Big Rivers exhibit moderate to severe levels of human disturbance from agricultural and urban land uses, with human disturbance being more intense in the southern half of the Lower Peninsula. In addition, humans have intentionally and unintentionally introduced non-native aquatic species. These introductions, coupled with reductions in native plants and animals, have resulted in highly-altered biological communities in many of our current day Big Rivers. Goals:</p><p>• Inform the public of the significance of Big Rivers.</p><p>• Increase connectivity in Big Rivers through the removal of dams or installation of effective fish passage.</p><p>• Increase habitat protection and pollution/contaminant cleanup in Big Rivers.</p><p>Callout Box: Dam Removal. Dams fragment river systems restricting fish movement, creating isolated populations and preventing long distance migrations to historical spawning grounds. Dams alter river processes and tend to degrade aquatic habitats. They also represent an ongoing public safety risk and costly infrastructure burden. Removal of deteriorated dams that no longer have value or provide service is a high priority action for conservation of Big River focal species.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Focal species</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Lake Sturgeon</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Acipenser fulvescens</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>State threatened</head><p>The Lake Sturgeon is Michigan's largest fish species and is often referred to as a living fossil. They can grow over six feet in length and weigh over 200 pounds. Lake Sturgeon have five rows of bony plates along the body, a relatively long snout with four barbels and a shark-like tail. During spawning season, large Lake Sturgeon can be seen leaping and breaching the water surface. Lake Sturgeon are found in the Great Lakes, large inland lakes and Big Rivers. Lake Sturgeon feed in shallows that provide abundant prey. Spawning habitats include gravel-cobble shoals and large rubble in rivers <ref type="bibr">(Daugherty et al. 2008</ref>). Shallow waters with fine substrates are crucial nursery habitats. Currently there are 24 Lake Sturgeon populations identified by major Michigan watershed: 11 from Lake Michigan, nine from Lake Huron, two from Lake Erie and two from Lake Superior. Of the 24 populations, 12 are at high risk of extirpation, four are small populations at high risk of decline, three are considered medium in size and five are large, stable populations <ref type="bibr" target="#b27">(Hayes and Caroffino 2012)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Goals</head><p>• Increase public awareness of the significance of Lake Sturgeon.</p><p>• Conserve and maintain populations that are currently self-sustaining.</p><p>• Increase natural reproduction and recruitment.</p><p>• Rehabilitate depressed populations so they become self-sustaining.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>River Redhorse</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Moxostoma carinatum</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>State threatened</head><p>River Redhorse is the largest of six redhorse suckers found in Michigan. Adults can attain lengths over 30 inches and exceed ten pounds. The River Redhorse is one of three Michigan redhorse species with red fins. The River Redhorse is a late-maturing (3 years), long-lived (up to 28 years; COSEWIC 2006) species that requires access to medium-to large-sized warmwater river habitats <ref type="bibr" target="#b28">(Jenkins and Burkhead 1994)</ref> although they can also be found in small streams and connected lake and impoundment habitats <ref type="bibr" target="#b17">(COSEWIC 2006)</ref>. River Redhorse spawn over cleanswept gravel and cobble substrate in large river mainstems and tributaries and thrive in areas with clean water and substrate that is free of silt. In the Grand River, they display strong selection for habitat containing mollusks and small home ranges during the summer months after spawning. Fewer than 10 populations of River Redhorse exist in Michigan occurring in the Muskegon, Grand and St. Joseph watersheds.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Goals</head><p>• Increase public awareness of the importance and status of River Redhorse.</p><p>• Establish baseline status and distribution.</p><p>• Identify habitat needs/threats/actions.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Snuffbox</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Epioblasma triquetra</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Federal and state endangered</head><p>The Snuffbox is a small to medium-sized mussel reaching up to three inches in length. The shell surface is yellowish-green to brown and is adorned with dark green rays or chevron-like marks.</p><p>During early life stages all mussels, including the Snuffbox, are parasitic and require a fish host to complete their life cycle. The primary fish host for Snuffbox is the Logperch (Percina caprodes), a member of the perch family. Female Snuffbox are "trappers" and will clamp onto the snout of unsuspecting Logperch as they forage for aquatic insect larvae and other prey items. The female then releases her larvae, which attach themselves to the Logperch's gills, where they will reside until they mature and drop off to settle in the streambed. After transferring her brood, the female Snuffbox releases the Logperch unharmed (<ref type="url" target="http://unionid.missouristate.edu/gallery/epioblasma/">http://unionid.missouristate.edu/gallery/epioblasma/</ref>). The Snuffbox is found in small-to medium-sized streams to large rivers in swift currents of riffles and shoals composed of gravel and sand with occasional cobble and boulders. Mussels occur chiefly in flow refuges, where substrates are relatively stable and shear stress is low. Snuffbox are typically found burrowed deep into the substrate, except when spawning or attempting to attract a host fish <ref type="bibr" target="#b13">(Butler 2007</ref>). Snuffbox populations have been identified in the Grand River, Flat River, Maple River and St.</p><p>Joseph River in the Lake Michigan drainage, in the Saginaw River in the Lake Huron Drainage, in the Pine River, Belle River and Clinton River in the Lake St. Clair drainage and the Huron River in the Lake Erie drainage. Most Snuffbox populations in Michigan are restricted, small to mediumsized, with limited recent recruitment and viability (USFWS 2012).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Goals</head><p>• Increase public awareness of the importance and status of Snuffbox.</p><p>• Establish baseline status and distribution. [SB]  • Develop and expand propagation and captive rearing capacity.</p><p>• Quantify genetic structure of existing populations and determine potential brood stock.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Call out box: did you know?</head><p>The freshwater mussels of North America have been identified as the most imperiled of any major group of animals. Nearly half of Michigan's native freshwater mussels are in decline and are listed as Endangered, Threatened, or Special Concern. The primary causes of decline are habitat loss from dam construction, siltation and impaired water quality. Threats and conservation actions to big rivers Threats Natural Systems Modifications</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Call out box: how vulnerable are focal species to a changing environment?</head><p>• Channelization often results in decreased habitat diversity and increased channel instability <ref type="bibr" target="#b50">(Wesley 2005</ref>).</p><p>• Loss of natural riparian vegetation and floodplain habitats and placement of infrastructure (e.g., bridges) can result in bank instability and erosion. As river channels adjust to changes in sediment transport, bank armoring is often prescribed, resulting in further degradation and fragmentation of habitats <ref type="bibr" target="#b45">(Smith et al. 2008</ref>).</p><p>• Removal of riparian vegetation increases stream temperatures, nutrients and sediments <ref type="bibr">(Francis and Hass 2006)</ref>.</p><p>• Removal of log jams and other coarse woody structure results in loss of habitat diversity and reduction in available cover for wildlife <ref type="bibr" target="#b25">(Hanshue and Harrington 2015)</ref>.</p><p>• Dams inundate high gradient habitat, block fish migration, alter thermal regimes and disrupt transport of sediment, nutrients and woody material. Invasive &amp; Other Problematic Species, Genes &amp; Diseases</p><p>• Invasive carp utilize large rivers to spawn and can alter habitat and food web dynamics <ref type="bibr" target="#b52">(Zhang et al. 2016</ref><ref type="bibr" target="#b26">, Hayer et al. 2014</ref><ref type="bibr" target="#b19">, Embke et al. 2016</ref>). The St. Joseph River has been predicted to be suitable for silver and bighead carp spawning <ref type="bibr">(Garcia et al. 2015)</ref> and there are currently grass carp being captured in the system (DNR Observation).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Agriculture &amp; Aquaculture</head><p>• Surface water and groundwater extraction reduces stream flow <ref type="bibr" target="#b24">(Hamilton and Seelbach 2011)</ref>.</p><p>• Drains and tiling increase high flows and decrease low flows, altering the natural hydrologic regime <ref type="bibr" target="#b51">(Wesley and Duffy 1999)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Energy Production &amp; Mining</head><p>• Hydropower dams operating outside of run-of-river flow requirements reduce the quality and stability of downstream habitats; this is especially deleterious during spawning <ref type="bibr" target="#b50">(Wesley 2005)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Transportation &amp; Service Corridors</head><p>• Dredging and channelization for navigation simplifies habitats <ref type="bibr" target="#b25">(Hanshue and Harrington 2015)</ref>. Pollution</p><p>• Road and rail crossings can increase sediments and pollutants and be an issue locally, as well as have cumulative impacts <ref type="bibr" target="#b20">(Francis and Haas 2006)</ref>.</p><p>• Contaminants of emerging concern, including microplastics and pharmaceuticals (Alliance for the Great Lakes 2010; <ref type="bibr" target="#b38">Pal et al. 2010</ref>).</p><p>• Per-and polyfluoroalkyl substances (PFAS), in which, tributaries to western Great Lakes can be major sources, along with surface water inputs in the eastern Great Lakes region (Remucal 2019) Changing Weather Patterns</p><p>• Changing water levels in the Great Lakes and human responses may decrease available habitats in lower reaches <ref type="bibr" target="#b41">(Pryor et al. 2014)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conservation Actions</head><p>Land/Water Management H1. Require run-of-river operations at all dams to maintain sufficient streamflow during spawning and egg incubation and through nursery habitats to ensure successful recruitment of focal species. [LHBCS 2.15; GRA; KRA] H2. Continue early detection and response efforts for invasive species. [AIS; CC-7.3]  H3. Implement Michigan's Aquatic Invasive Species State Management Plan. [AIS]  H4. Increase agricultural buffers Raising Awareness H5. Promote voluntary best management practices for forest management. [LSBCS 6.6; MTA; ORA;   MRA]</p><p>H6. Work with watershed groups to promote focal species and their habitats and ways to protect habitats through ordinances or best practices. Conservation Designation &amp; Planning H8. Identify and prioritize dams for removal to restore hydrology and increase available habitat, with the understanding that some dams may need to be maintained to mitigate hydrologic changes, Sea Lamprey and other invasive species impacts and climate change effects. [CC-7.3; LEBCS 6.6; LHBCS 2.5, 2.11 &amp; 2.17; CRA; GRA; KRA; MRA; ORA; LSBCS 5.1, 5.2] H9. Work with the U.S. Fish and Wildlife Service, the Federal Energy Regulatory Commission and hydroelectric dam owners to mitigate the effects of dam operations on focal species by promoting dam removal and fish passage criteria for constructed riffles. [LHBCS 2.15; KRA; GRA] H10. Complete stream crossing inventories and identify priority sites for rehabilitation. [KRA;   GRA]   Law &amp; Policy H11. Protect focal species and their habitats through the environmental permit review process. [CRA; GRA; KRA; MRA; MTA; ORA; SJA] H12. Continue to administer an effective Michigan Department of Environment, Great Lakes and Energy protection program for wetlands, lakes and streams and provide incentives for conservation practices. H13. Take appropriate enforcement actions for violations of the Invasive Species Order and maintain the Prohibited and Restricted Species list pursuant to the Natural Resources and Environmental Protection Act, 451 of 1994, as amended. [AIS]  Research &amp; Monitoring H14. Determine impacts of aquatic invasive species on Big Rivers and focal species. [LRBOI]  H15. Refine species maps, habitat suitability models and priority maps based on field data, updated GIS layers and threat assessments. H16. Develop and implement targeted habitat surveys.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Threats and conservation actions to focal species</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Lake Sturgeon</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Threats</head><p>Lack of Knowledge</p><p>• Lack of knowledge on the early life history of Lake Sturgeon, especially in Big Rivers that have short reaches between the first dam and the Great Lakes <ref type="bibr" target="#b31">(LRBOI 2008</ref>).</p><p>• Loss of genetic diversity due to population size and distribution <ref type="bibr" target="#b27">(Hayes and Caroffino 2012)</ref>.</p><p>Invasive &amp; Other Problematic Species, Genes &amp; Diseases</p><p>• Sea Lamprey treatments have known toxic effects on Lake Sturgeon and poorly timed treatments could result in significant mortality (DNR Observation).</p><p>• Invasive species can compete for food resources and prey upon eggs and larvae (e.g., Round Goby and Rusty Crayfish), as well as degrade spawning shoals by providing lowquality habitat for egg deposition (e.g., Zebra Mussels; LRBOI 2008) Energy Production &amp; Mining</p><p>• Dams fragment rivers restricting fish movements, creating isolated populations and preventing long distance migrations to historical spawning grounds <ref type="bibr" target="#b50">(Wesley 2005;</ref><ref type="bibr" target="#b25">Hanshue and Harrington 2015)</ref>.</p><p>• Juvenile Lake Sturgeon become entrained in power plant cooling water intakes (DNR Observation).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Human Intrusions &amp; Disturbance</head><p>• Incidental/illegal harvest during spawning (DNR Observation).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Changing Weather Patterns</head><p>• Increasing water temperatures could decrease survival of Lake Sturgeon and cause altered timing of reproduction and sex ratios. Conservation Actions Species Management LS1. Implement Michigan's Lake Sturgeon Rehabilitation Strategy. [LS; LSBCS 2.3]  LS2. Install spawning reefs for Lake Sturgeon in the Kalamazoo River, evaluate their effectiveness and expand as warranted. [LS; KRA]  LS3. Continue and expand Lake Sturgeon guarding program to protect spawning adults. <ref type="bibr">[LSBCS 2.3]</ref> LS4. Use modified Sea Lamprey abatement treatment protocols where documented natural reproduction of Lake Sturgeon occurs. Protect Lake Sturgeon and their habitats through the environmental permit review process.</p><p>Research &amp; Monitoring LS8. Evaluate threats to Lake Sturgeon recruitment, including invasive species impacts. [LS;   GRA; KRA; LRBOI]   LS9. Evaluate the appropriateness and feasibility of fish passage at key sites for Lake Sturgeon. [LS; GRA; KRA; MRA] LS10. Develop and implement alternative Sea Lamprey control strategies in rivers with known populations of Lake Sturgeon. [LS2]   River Redhorse</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Threats Lack of Knowledge</head><p>• Lack of knowledge on distribution, spawning locations, specific micro-habitat needs, early life history, seasonal movements, population trends and co-occurring fish communities <ref type="bibr" target="#b46">(Stagliano 2001;</ref><ref type="bibr" target="#b17">COSEWIC 2006</ref>).</p><p>• Difficulty with proper identification hampers conservation and protection efforts <ref type="bibr" target="#b17">(COSEWIC 2006)</ref>.</p><p>Invasive &amp; Other Problematic Species, Genes &amp; Diseases</p><p>• Incompatible management of aquatic plants occurs in known habitat for River Redhorse (DNR Observation).</p><p>• Competition and predation from invasive species such as Round Goby and Rusty Crayfish (COSEWIC 2006).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Energy Production &amp; Mining</head><p>• Dams fragment rivers restricting fish movements, creating isolated populations and preventing long distance migrations to historical spawning grounds <ref type="bibr" target="#b17">(COSEWIC 2006)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Human Intrusions &amp; Disturbance</head><p>• Potential over-harvest and negligent waste of adults during the spawning run (DNR Observation).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conservation Actions</head><p>Raising Awareness RR1. Create education and outreach opportunities for biologists on River Redhorse, hold identification workshops and support MI Sea Grant efforts to create tools for identification, including www.maxostoma.com. [MSG]  Law Enforcement &amp; Prosecution RR2. Work with law enforcement at key spawning sites to protect adult River Redhorse.</p><p>Conservation Designation &amp; Planning RR3. Develop best practices for collecting data and photos to aid in River Redhorse identification. [MSG]  RR4. Protect River Redhorse and their habitats through the environmental permit review process.</p><p>RR5.</p><p>Review fishing regulations that may affect River Redhorse. Given the difficulty in identification, fishing closures during spawning at critical sites may be warranted or sizelimits on other redhorse suckers, since identification is difficult. Research &amp; Monitoring RR6. Determine basic life history and population status of River Redhorse. [GRA]  RR7. Identify essential habitat needs for River Redhorse, especially during fall, spring and winter months. RR8. Explore using genetic information (e.g., eDNA or tissue samples) to improve identification and understand distribution and population structure of River Redhorse. RR9. Determine impacts of aquatic invasive species on River Redhorse populations, including toxicity and effects of lampricides on early life stages. Snuffbox</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Threats</head><p>Lack of Knowledge</p><p>• Lack of knowledge on spawning, larval and juvenile life stages, genetics and the potential for reintroduction, host fish, population trends, microhabitat needs and co-occurring communities <ref type="bibr" target="#b34">(Morris and Burridge 2006;</ref><ref type="bibr" target="#b13">Butler 2007)</ref>.</p><p>Invasive &amp; Other Problematic Species, Genes &amp; Diseases</p><p>• Epizootic colonization and competition by Zebra Mussels can lead to extirpation of Snuffbox through suffocation and habitat loss <ref type="bibr" target="#b44">(Schloesser et al. 1996)</ref>.</p><p>• Sea Lamprey treatments are known to be toxic to Logperch, the primary host fish for Snuffbox. High mortality of Logperch could result in further decline of Snuffbox <ref type="bibr" target="#b12">(Boogaard et al. 2015)</ref>.</p><p>• Round Goby directly compete with the known Snuffbox host fish, Logperch, for habitat and food resources <ref type="bibr" target="#b30">(Leino and Mensinger 2015)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Energy Production &amp; Mining</head><p>• Dams fragment rivers restricting fish movements and hence mussel movements, creating isolated populations <ref type="bibr" target="#b23">(Haag 2012)</ref>. Pollution</p><p>• Snuffbox larvae (glochidia) and newly released juveniles are sensitive to contaminants (e.g., ammonia, heavy metals, chlorine and pesticides) present in the effluents of wastewater treatment plants and agricultural runoff (USFWS 2012; <ref type="bibr" target="#b44">Schloesser et al. 1996)</ref>.</p><p>• Increased sedimentation from construction projects Conservation Actions Species Management SB1. Develop a hatchery for mussels and their hosts and refine captive propagation, augmentation and reintroduction methods for Snuffbox. Raising Awareness SB2. Re-print, promote and distribute the Freshwater Mussels of Michigan poster and the Field Guide to the Freshwater Mussels of Michigan. [SB-viii]    [SB-iii]  SB7. Quantify and rank threats at known Snuffbox sites, including aquatic invasive species, streamflow issues, etc. [SB-v]  SB8. Quantify the variability in Snuffbox spawning across populations. SB9. Work across state borders to determine gene flow among Snuffbox populations to inform reintroduction or supplementation planning. SB10. Determine the distribution of Logperch and other potential host fish to aid conservation planning. [SB-ii]  SB11. Determine the potential impact of invasive species control methods on Snuffbox, including the effects of lampricides on larvae and juveniles. [SB-v]  How will we monitor?</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Habitat</head><p>• Monitor the number of dams and barriers removed in Big Rivers and the subsequent number of river miles opened.</p><p>• Continue Michigan Department of Environment, Great Lakes and Energy's macroinvertebrate, aquatic habitat and water quality monitoring at sites with focal species.</p><p>• Continue U.S. Geological stream flow and water quality monitoring in Big Rivers.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Lake Sturgeon</head><p>• Continue annual juvenile Lake Sturgeon index monitoring in the Great Lakes with U.S.</p><p>Fish and Wildlife Service and tribal partners. [LS]   • Continue adult abundance and spawning estimates in Big Rivers with remnant populations. [LS; GRA; KRA]   • Continue and expand fall recruitment monitoring by conducting young-of-year visual surveys. [LS]   • Continue to update element occurrences in the state's Natural Heritage Database.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>River Redhorse</head><p>• Conduct targeted surveys during spawning to understand distribution and relative abundance.</p><p>• Conduct targeted surveys to determine distribution of River Redhorse; develop a regular schedule for monitoring known sites.</p><p>• Continue to update element occurrences in the state's Natural Heritage Database. Snuffbox</p><p>• Conduct regular targeted surveys using standard mussel survey protocol <ref type="bibr" target="#b47">(Strayer and Smith 2003)</ref> to determine distribution, relative abundance and trends.</p><p>• Implement new technologies (e.g., eDNA) where possible to improve detection of juveniles.</p><p>• Continue to update element occurrences in the state's Natural Heritage Database Improve understanding of host fish ecology</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Places for partnership</head><p>This map was designed by partners to help them connect around important places for focal species. Working together on conservation actions on a voluntary basis provides great benefits to wildlife and people.</p><p>This map is based on count of focal species present by major watershed.</p><p>Links to other conservation plans [CRA] Clinton River assessment <ref type="bibr" target="#b20">(Francis and Haas 2006)</ref> [GRA] Grand River assessment <ref type="bibr" target="#b25">(Hanshue and Harrington 2015)</ref> </p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>[</head><label></label><figDesc>AIS] Michigan's aquatic invasive species state management plan 2025 update. (QOL-AIS et al. in prep.) [CC] National fish, wildlife and plants climate adaptation strategy. (National Fish, Wildlife and Plants Climate Adaptation Partnership 2012)</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="3,72.00,86.65,337.80,337.80" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="4,72.00,117.54,337.80,337.80" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="5,72.00,274.78,337.80,337.80" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head></head><label></label><figDesc><ref type="bibr" target="#b16">Cooper et al. (2022)</ref> andHoving et al. (2013)  determined climate vulnerabilities for focal species. See threats section for more specifics about how climate change may affect species and habitats.Climate vulnerability rankings are based on the likelihood and amount of change in species abundance or range by 2050 -moderate = a modest decrease is likely; stable = likely to remain unchanged.</figDesc><table><row><cell>Species</cell><cell>Climate Vulnerability</cell></row><row><cell>Lake Sturgeon</cell><cell>Moderate</cell></row><row><cell>River Redhorse</cell><cell>Stable</cell></row><row><cell>Snuffbox</cell><cell>Stable</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head></head><label></label><figDesc>SB3. Collaborate with outreach and education divisions to develop freshwater mussel and SGCN fish exhibits at state facilities (e.g., Outdoor Adventure Center or Belle Isle</figDesc><table><row><cell>Aquarium mussel viewing tank)</cell></row><row><cell>Conservation Designation &amp; Planning</cell></row><row><cell>SB4. Work with the Michigan Mollusk workgroup to develop a conservation plan for Snuffbox and other mussels, which aligns with the National Freshwater Mollusk Conservation</cell></row><row><cell>Strategy.</cell></row><row><cell>Law &amp; Policy</cell></row><row><cell>SB5. Protect Snuffbox and their habitats through the environmental permit review process and implement Michigan's Freshwater Survey Protocols and Relocation Procedures for Rivers and Streams</cell></row><row><cell>Research &amp; Monitoring</cell></row><row><cell>SB6. Describe microhabitat for Snuffbox to aid management.</cell></row></table></figure>
+		</body>
+		<back>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<monogr>
+		<title level="m">Kalamazoo River assessment</title>
+		<imprint>
+			<date type="published" when="2005">Wesley 2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<title level="m" type="main">Upper Midwest and Great Lakes Landscape Conservation Cooperative aquatic habitat connectivity workgroup objectives (Upper Midwest and Great Lakes Landscape Conservation Cooperative)</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<author>
+			<persName><surname>Pearsall</surname></persName>
+		</author>
+		<title level="m">Lake Erie biodiversity conservation strategytechnical report</title>
+		<imprint>
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<author>
+			<persName><forename type="first">Franks</forename><surname>Taylor</surname></persName>
+		</author>
+		<title level="m">The Sweetwater Sea: an international biodiversity conservation strategy for Lake Huron -technical report</title>
+		<imprint>
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<monogr>
+		<title level="m" type="main">Lake Sturgeon) stewardship plan for the Big Manistee River and 1836 Reservation</title>
+		<author>
+			<persName><surname>Nmé</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2008">2008</date>
+			<publisher>LRBOI</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<monogr>
+		<title level="m">A biodiversity conservation strategy for Lake Superior (Lake Superior Binational Program</title>
+		<imprint>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Michigan&apos;s lake sturgeon rehabilitation strategy (Hayes and Caroffino</title>
+	</analytic>
+	<monogr>
+		<title level="s">MRA] Muskegon River assessment</title>
+		<imprint>
+			<date type="published" when="1997">2012. 1997</date>
+			<pubPlace>O&apos;Neal</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<monogr>
+		<title level="m" type="main">Michigan Sea Grant strategic plan 2014-2017 (Michigan Sea Grant College Program</title>
+		<imprint>
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<monogr>
+		<title level="m">Manistee River assessment</title>
+		<imprint>
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+	<note>Rozich</note>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<monogr>
+		<title level="m">Ontonagon River assessment</title>
+		<imprint>
+			<publisher>Gunderman and Baker</publisher>
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Recovery strategy for Northern Riffleshell</title>
+	</analytic>
+	<monogr>
+		<title level="m">Snuffbox, Round Pigtoe, Mudpuppy Mussel and Rayed Bean in Canada</title>
+		<imprint>
+			<publisher>Morris and Burridge</publisher>
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<monogr>
+		<title level="m" type="main">Protecting the Great Lakes from pharmaceutical pollution. Alliance for the Great Lakes</title>
+		<author>
+			<persName><forename type="first">Joseph</forename><surname>St</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">(</forename><surname>River</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Duffy</forename><surname>Wesley</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1999">1999. 2010</date>
+			<biblScope unit="page">23</biblScope>
+			<pubPlace>Chicago, Illinois</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Literature Cited Alliance for the Great Lakes</note>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Evaluation of the short term 12 hour toxicity of 3-trifluoromethyl-4-nitrophenol (TFM) to multiple life stages of Venustaconcha ellipsiformis and Epioblasma triquetra and its host fish (Percina caprodes)</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Boogaard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">J</forename><surname>Newton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">D</forename><surname>Hubert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>Kaye</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">C</forename><surname>Barnhart</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Environmental Toxicology Chemistry</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="issue">7</biblScope>
+			<biblScope unit="page" from="1634" to="1641" />
+			<date type="published" when="2015-07">2015. 2015 Jul</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<monogr>
+		<title level="m" type="main">Status assessment report for the snuffbox, Epioblasma triquetra, a freshwater mussel occurring in the Mississippi River and Great Lakes Basins</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">S</forename><surname>Butler</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2007">2007</date>
+			<publisher>U.S. Fish and Wildlife Service</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<monogr>
+		<title level="m" type="main">Special animal abstract for Epioblasma triquetra (snuffbox)</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Carman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">R</forename><surname>Goforth</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2000">2000</date>
+			<publisher>Michigan Natural Features Inventory</publisher>
+			<pubPlace>Lansing, Michigan</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Assessment of dam effects on streams and fish assemblages of the conterminous USA</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">R</forename><surname>Cooper</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Infante</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">M</forename><surname>Daniel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">E</forename><surname>Wehrly</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">O</forename><surname>Brenden</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science of The Total Environment</title>
+		<imprint>
+			<biblScope unit="volume">586</biblScope>
+			<biblScope unit="page" from="879" to="889" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Influence of spatial extent on current and future threat evaluation for imperiled fluvial fishes and mussels in Michigan</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">R</forename><surname>Cooper</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">E</forename><surname>Wehrly</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S-K</forename><surname>Yeh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Infante</surname></persName>
+		</author>
+		<idno type="DOI">10.3390/w14213464</idno>
+		<ptr target="https://doi.org/10.3390/w14213464" />
+	</analytic>
+	<monogr>
+		<title level="j">USA. Water</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page">3463</biblScope>
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<monogr>
+		<author>
+			<persName><surname>Cosewic</surname></persName>
+		</author>
+		<ptr target="www.sararegistry.gc.ca/status/status_e.cfm" />
+		<title level="m">COSEWIC assessment and update status report on the river redhorse Moxostoma carinatum in Canada. Committee on the Status of Endangered Wildlife in Canada. Ottawa. Vi + 31</title>
+		<imprint>
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Suitability modeling of Lake Sturgeon habitat in five northern Lake Michigan tributaries: Implications for population rehabilitation</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Daugherty</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Restoration Ecology</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="245" to="257" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">First direct confirmation of grass carp spawning in a Great Lakes tributary</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">S</forename><surname>Embke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">M</forename><surname>Kocovsky</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>Richter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Pritt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Mayer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">S</forename><surname>Qian</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.jglr.2016.05.002</idno>
+		<ptr target="https://doi.org/10.1016/j.jglr.2016.05.002" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Great Lakes Research</title>
+		<imprint>
+			<biblScope unit="volume">42</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="899" to="903" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">T</forename><surname>Francis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">C</forename><surname>Haas</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Clinton River assessment. Michigan Department of Natural Resources</title>
+		<meeting><address><addrLine>Ann Arbor, Michigan</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2006">2006</date>
+			<biblScope unit="volume">39</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<monogr>
+		<title level="m" type="main">The sweetwater sea: an international biodiversity conservation strategy for lake hurontechnical report. A joint publication of The Nature Conservancy, Environment Canada, Ontario Ministry of Natural Resources Michigan Department of Natural Resources and Environment</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Franks Taylor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Derosier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Dinse</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Doran</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Ewert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Hall</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Herbert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Khoury</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Kraus</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Lapenna</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Mayne</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Pearsall</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Read</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Schroeder</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2010">2010</date>
+			<publisher>Michigan Natural Features Inventory Michigan Sea Grant and The Nature Conservancy of Canada</publisher>
+			<biblScope unit="page">264</biblScope>
+		</imprint>
+	</monogr>
+	<note>with Appendices</note>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">J</forename><surname>Gunderman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">A</forename><surname>Baker</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Ontonagon River assessment. Michigan Department of Natural Resources</title>
+		<meeting><address><addrLine>Ann Arbor, Michigan</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2008">2008</date>
+			<biblScope unit="volume">46</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<monogr>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">R</forename><surname>Haag</surname></persName>
+		</author>
+		<title level="m">North American freshwater mussels: natural history, ecology and conservation</title>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Cambridge Univeristy Press</publisher>
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Michigan&apos;s water withdrawal assessment process and internet screening tool</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Hamilton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">W</forename><surname>Seelbach</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Fisheries Special Report</title>
+		<imprint>
+			<biblScope unit="volume">55</biblScope>
+			<date type="published" when="2011">2011</date>
+			<publisher>Michigan Department of Natural Resources</publisher>
+			<pubPlace>Lansing, Michigan</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<monogr>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">K</forename><surname>Hanshue</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">H</forename><surname>Harrington</surname></persName>
+		</author>
+		<title level="m">Grand River assessment. Michigan Department of Natural Resources Fisheries Report</title>
+		<meeting><address><addrLine>Lansing, Michigan</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Population characteristics of bighead and silver carp on the northwestern front of their North American invasion</title>
+		<author>
+			<persName><forename type="first">C-A</forename><surname>Hayer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Breeggemann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Klumb</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">D S</forename><surname>Graeb</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">N</forename><surname>Bertrand</surname></persName>
+		</author>
+		<idno type="DOI">10.3391/ai.2014.9.3.05</idno>
+		<ptr target="http://dx.doi.org/10.3391/ai.2014.9.3.05" />
+	</analytic>
+	<monogr>
+		<title level="j">Aquatic Invasions</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="289" to="303" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Michigan&apos;s lake sturgeon rehabilitation strategy. Michigan Department of Natural Resources</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">B</forename><surname>Hayes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">C</forename><surname>Caroffino</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Fisheries Special Report</title>
+		<imprint>
+			<biblScope unit="volume">62</biblScope>
+			<date type="published" when="2012">2012</date>
+			<pubPlace>Lansing, Michigan</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<monogr>
+		<title level="m" type="main">The freshwater fishes of Virginia</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">E</forename><surname>Jenkins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">M</forename><surname>Burkhead</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1994">1994</date>
+			<publisher>American Fisheries Society</publisher>
+			<pubPlace>Bethesda, Maryland</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">A biodiversity conservation strategy for Lake Superior. A joint publication of Environment Canada</title>
+	</analytic>
+	<monogr>
+		<title level="j">Nature Conservancy of Canada and The</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<date type="published" when="2015">2015</date>
+			<publisher>Garfield Weston Foundation</publisher>
+		</imprint>
+		<respStmt>
+			<orgName>U.S. Environmental Protection Agency</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Interspecific competition between the round goby, Neogobius melanostomus and the logperch, Percina caprodes, in the Duluth-Superior Harbour</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Leino</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">F</forename><surname>Mensinger</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/eff.12247</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Ecology of Freshwater Fish</title>
+		<imprint>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Nmé (Lake Sturgeon) stewardship plan for the Big Manistee River and 1836 Reservation</title>
+		<author>
+			<persName><surname>Lrboi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Natural Resources Department, Special Report</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<date type="published" when="2008">2008</date>
+			<publisher>Little River Band of Ottawa Indians)</publisher>
+			<pubPlace>Manistee, Michigan</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<monogr>
+		<title level="m" type="main">Michigan Quality of Life Agencies Aquatic Invasive Species Team et al. (QOL-AIS et al.). In prep. Michigan&apos;s aquatic invasive species state management plan 2025 update</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<monogr>
+		<title level="m" type="main">Michigan Sea Grant strategic plan fiscal 2014-2017</title>
+		<imprint>
+			<date type="published" when="2012">2012</date>
+			<biblScope unit="page">15</biblScope>
+			<pubPlace>Ann Arbor, Michigan</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Michigan Sea Grant College Program</note>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Recovery strategy for Northern Riffleshell</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">J</forename><surname>Morris</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Burridge</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Snuffbox, Round Pigtoe, Mudpuppy Mussel and Rayed Bean in Canada. Species at Risk Act Recovery Strategy Series. Fisheries and Oceans Canada</title>
+		<meeting><address><addrLine>Ottawa</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<monogr>
+		<title level="m" type="main">National fish, wildlife and plants climate adaptation strategy. Association of Fish and Wildlife Agencies, Council on Environmental Quality, Great Lakes Indian Fish and Wildlife Commission</title>
+		<imprint>
+			<date type="published" when="2012">2012</date>
+			<publisher>National Oceanic and Atmospheric Administration and U.S. Fish and Wildlife Service</publisher>
+			<pubPlace>Washington, DC</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>National Fish</orgName>
+		</respStmt>
+	</monogr>
+	<note>Wildlife and Plants Climate Adaptation Partnership</note>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<monogr>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">J</forename><surname>Newton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">A</forename><surname>Johnson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">H</forename><surname>Hu</surname></persName>
+		</author>
+		<idno type="DOI">10.3133/cir1511</idno>
+		<ptr target="https://doi.org/10.3133/cir1511" />
+		<title level="m">2023, U.S. Geological Survey science vision for native freshwater mussel research in the United States: U.S. Geological Survey Circular 1511</title>
+		<imprint>
+			<biblScope unit="page">15</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Muskegon River assessment. Michigan Department of Natural Resources</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">P</forename><surname>O'neal</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Fisheries Special Report</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<date type="published" when="1997">1997</date>
+			<pubPlace>Ann Arbor, Michigan</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Impacts of emerging organic contaminants on freshwater resources: Review of recent occurrences, sources, fate and effects</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Pal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">Y</forename><surname>Gin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">Y</forename><surname>Lin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Reinhard</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science of the Total Environment</title>
+		<imprint>
+			<biblScope unit="volume">408</biblScope>
+			<biblScope unit="page" from="6062" to="6069" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<monogr>
+		<title level="m" type="main">Returning to a healthy lake: Lake Erie biodiversity conservation strategy -technical report. A joint publication of The Nature Conservancy</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Pearsall</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Carton De Grammont</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Cavalieri</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">P</forename><surname>Doran</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Elbing</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Ewert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Hall</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Herbert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Khoury</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Kraus</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Mysorekar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Paskus</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Sasson</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2012">2012</date>
+			<publisher>Nature Conservancy of Canada and Michigan Natural Features Inventory</publisher>
+			<biblScope unit="page">340</biblScope>
+		</imprint>
+	</monogr>
+	<note>with Appendices</note>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">Habitat use of the threatened river redhorse (Moxostoma carinatum) in the Grand River, MI, USA</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">M</forename><surname>Preville</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">B</forename><surname>Snyder</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>O'keefe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Hanshue</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Russell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Radecki</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s00027-022-00870-7</idno>
+		<ptr target="https://doi.org/10.1007/s00027-022-00870-7" />
+	</analytic>
+	<monogr>
+		<title level="j">Aquatic Sciences</title>
+		<imprint>
+			<biblScope unit="volume">84</biblScope>
+			<biblScope unit="issue">43</biblScope>
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<monogr>
+		<title level="m" type="main">Climate change impacts in the United States: the third national climate assessment</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">C</forename><surname>Pryor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Scavia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Downer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Gaden</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Iverson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Nordstrom</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Patz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">P</forename><surname>Robertson</surname></persName>
+		</author>
+		<idno type="DOI">10.7930/J0J1012N</idno>
+		<editor>J. M. Melillo, Terese (T.C.) Richmond and G. W. Yohe</editor>
+		<imprint>
+			<date type="published" when="2014">2014</date>
+			<publisher>Midwest</publisher>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page" from="418" to="440" />
+		</imprint>
+		<respStmt>
+			<orgName>U.S. Global Change Research Program</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<title level="a" type="main">Spatial and temoral variability of perfluoroalkyl substances in the Laurentian Great Lakes</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">K</forename><surname>Remucal</surname></persName>
+		</author>
+		<idno type="DOI">10.1039/C9EM00265K</idno>
+		<ptr target="https://doi.org/10.1039/C9EM00265K" />
+	</analytic>
+	<monogr>
+		<title level="j">Environmental Science: Processes and Impacts</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page" from="1816" to="1834" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<monogr>
+		<title level="m" type="main">Manistee River assessment. Michigan Department of Natural Resources, Fisheries Division, Special Report Number 21</title>
+		<author>
+			<persName><forename type="first">Thomas</forename><forename type="middle">J</forename><surname>Rozich</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1998">1998</date>
+			<pubPlace>Ann Arbor, Michigan</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<analytic>
+		<title level="a" type="main">Zebra mussel infestation of unionid bivalves(Unionidae) in North America</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">W</forename><surname>Schloesser</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">F</forename><surname>Nalepa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">L</forename><surname>Mackie</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">American Zoologist</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="300" to="310" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<analytic>
+		<title level="a" type="main">The active river area: a conservation framework for protecting rivers and streams</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">P</forename><surname>Smith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Schiff</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Olivero</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Macbroom</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Nature Conservancy</title>
+		<imprint>
+			<biblScope unit="page">64</biblScope>
+			<date type="published" when="2008">2008</date>
+			<pubPlace>Boston, Massachusetts</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<monogr>
+		<title level="m" type="main">Special Animal Abstract for Moxostoma carinatum (River redhorse)</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Stagliano</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2001">2001</date>
+			<publisher>Michigan Natural Features Inventory</publisher>
+			<pubPlace>Lansing, Michigan</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<analytic>
+		<title level="a" type="main">A guide to sampling freshwater mussel populations</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Strayer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">R</forename><surname>Smith</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Monograph</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<date type="published" when="2003">2003</date>
+			<publisher>American Fisheries Society</publisher>
+			<pubPlace>Bethesda, Maryland</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<analytic>
+		<title level="a" type="main">Endangered and threatened wildlife and plants; determination of endangered status for the rayed bean and snuffbox mussels throughout their ranges. Final Rule</title>
+	</analytic>
+	<monogr>
+		<title level="j">Federal Register</title>
+		<imprint>
+			<biblScope unit="volume">77</biblScope>
+			<biblScope unit="issue">30</biblScope>
+			<biblScope unit="page">8632</biblScope>
+			<date type="published" when="2012">2012</date>
+			<publisher>U.S. Fish and Wildlife Service (USFWS)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<monogr>
+		<title level="m" type="main">Upper Midwest and Great Lakes Landscape Conservation Cooperative</title>
+		<ptr target="http://greatlakeslcc.org/what-we-do/aquatic-habitat-connectivity/" />
+		<imprint/>
+	</monogr>
+	<note>Aquatic habitat connectivity workgroup objectives</note>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<analytic>
+		<title level="a" type="main">Kalamazoo River assessment. Michigan Department of Natural Resources, Fisheries Division</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">K</forename><surname>Wesley</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Special Report</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<date type="published" when="2005">2005</date>
+			<pubPlace>Ann Arbor, Michigan</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">K</forename><surname>Wesley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Duffy</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">St. Joseph River assessment. Michigan Department of Natural Resources, Fisheries Division, Special Report</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<date type="published" when="1999">1999</date>
+			<pubPlace>Ann Arbor, Michigan</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<analytic>
+		<title level="a" type="main">Forecasting the impacts of silver and bighead carp on the Lake Erie food web</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">S</forename><surname>Rutherford</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Mason</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">T</forename><surname>Breck</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">E</forename><surname>Wittman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Cooke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Lodge</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Rothlisberger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Zhu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">B</forename><surname>Johnson</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/00028487.2015.1069211</idno>
+		<ptr target="https://doi.org/10.1080/00028487.2015.1069211" />
+	</analytic>
+	<monogr>
+		<title level="j">Transactions of the American Fisheries Society</title>
+		<imprint>
+			<biblScope unit="volume">145</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="136" to="162" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>
+

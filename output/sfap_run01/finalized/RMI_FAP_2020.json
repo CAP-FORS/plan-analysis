@@ -1,0 +1,663 @@
+{
+  "document_meta": {
+    "title": "Republic of the Marshall Islands Forest Action Plan 2020 (with Agriculture Sector Plan 2021-2031)",
+    "year": 2020,
+    "jurisdiction": "Republic of the Marshall Islands",
+    "document_type": "Forest Action Plan / Agriculture Sector Plan",
+    "document_id": "RMI_FAP_2020",
+    "page_count": 163
+  },
+  "orientation": {
+    "summary": "This document is the 2020 Forest Action Plan (FAP) for the Republic of the Marshall Islands (RMI), a USDA Forest Service State & Private Forestry planning document covering 2021-2030, with an appended Agriculture Sector Plan 2021-2031. The FAP addresses forest resource assessment and management strategies for this Pacific island nation, which faces existential threats from sea-level rise and climate change. The document is highly climate-aware—climate change is listed as a cross-cutting consideration and threat throughout—but engages with climate primarily in terms of habitat degradation (sea-level rise, saltwater intrusion, drought) and food/livelihood security rather than in terms of species range shifts or distributional ecology. The document performs its own forest inventory analysis (using USDA FIA data from 2008 and 2018) and references multiple external plans; it does not perform original climate modeling or vulnerability assessments in the ecological range-shift sense.",
+    "evidence_index": [
+      {
+        "text": "Global projections of sea level rise over the long term are potentially devastating to the low-elevation atolls of the Marshalls. Regional information about climate change effects over a planning horizon measured in decades is critical to planning for adaptation strategies, but is still not precise.",
+        "location": "A. CLIMATE CHANGE",
+        "relevant_elements": ["1.1", "3.5"]
+      },
+      {
+        "text": "Storms and extraordinarily high tides occur with natural variability and are also amplified by climate change and sea level rise. Atolls, with their characteristic beach berms and depressed interiors, are sensitive to the frequency of surges overtopping those shoreline barriers. Increased frequency of overtopping events, exceeding required recovery times, will alter terrestrial ecosystems and agroforests.",
+        "location": "A. CLIMATE CHANGE",
+        "relevant_elements": ["1.1", "3.5", "1.3"]
+      },
+      {
+        "text": "Rainfall, drought and sea level are strongly affected by ENSO (El Nino Southern Oscillation) processes, but climate models do not agree on how ENSO patterns will change with continued global warming (Fletcher et al, 2010).",
+        "location": "A. CLIMATE CHANGE",
+        "relevant_elements": ["2.3", "1.1"]
+      },
+      {
+        "text": "The movement of people between outlying and urban atolls, and between Majuro and the U.S., is increasing, as people seek jobs, better education, health care and other aspects of modern lifestyles that they perceive as available outside of the RMI. This movement is exacerbated by climate change, and assessments of its impact on communities and migration are needed.",
+        "location": "A. CLIMATE CHANGE",
+        "relevant_elements": ["3.5"]
+      },
+      {
+        "text": "Declines in freshwater quantity or quality due to droughts or inundation events pose threats to forest and agroforest health.",
+        "location": "B. FRESHWATER RESOURCES",
+        "relevant_elements": ["3.5"]
+      },
+      {
+        "text": "Coastal forests have been thinned and removed in many urban and rural areas, so their restoration and maintenance in their natural state is a 'no-regrets strategy' and a first line of defense against the effects of sea level rise.",
+        "location": "C. COASTAL REINFORCEMENT",
+        "relevant_elements": ["4.1", "4.2", "3.5"]
+      },
+      {
+        "text": "Climate change (drought) and sea-level rise (salt water intrusion) resulting in disappearance of certain crops, trees, and medicinal herbs",
+        "location": "Table (Food Security SWOT - THREATS)",
+        "relevant_elements": ["3.5", "3.6"]
+      },
+      {
+        "text": "Climate change resulting in reduction of available appropriate building areas, hence putting more pressure to cut down trees.",
+        "location": "Table (Urbanization SWOT - THREATS)",
+        "relevant_elements": ["3.5"]
+      },
+      {
+        "text": "Sea level rise has already encroached landwards, and high tides and frequent storms continue to threaten local homes and property. Recent research indicates that sea levels have been increasing by 3.4 millimeters (0.13 inches) per year. A one-meter rise could result in the loss of 80 percent of the Majuro Atoll",
+        "location": "FIGURE (Agriculture Sector Plan challenges)",
+        "relevant_elements": ["3.5", "1.1"]
+      },
+      {
+        "text": "Narrow genetic base -Some of the varieties of species like pandanus, taro, breadfruit, coconuts, dwarf banana, traditional fruits and sources of traditional medicines are now endangered. The major challenge is protecting the genetic diversity of the crops from introduced pests and diseases and the effects of extreme weather events like droughts and severe cyclones.",
+        "location": "CHALLENGES TO AGRICULTURE",
+        "relevant_elements": ["1.3", "1.2"]
+      },
+      {
+        "text": "Temperature increases are likely to change the duration of crop growing seasons; increase the amount of water to produce a unit yield, and conducive to the spread of pests and diseases. Sea level rise affects agriculture crops in two major ways: saltwater intrusion and loss of coastal land due to inundation.",
+        "location": "RISK ANALYSIS AND PARTNERSHIP OPPORTUNITIES",
+        "relevant_elements": ["3.5", "3.6", "3.7"]
+      },
+      {
+        "text": "Selecting varieties that are more adaptable to harsh atoll conditions and potential climate change impacts of increased temperature, drought, and seawater intrusion will ensure the development of more sustainable production systems",
+        "location": "Output 3. Sustainable crop production systems developed and promoted",
+        "relevant_elements": ["1.2", "1.3", "4.2"]
+      },
+      {
+        "text": "RMI has prioritized planning for and mitigating climate change impacts over the years, through key documents that include, but aren't limited to:",
+        "location": "Climate Change",
+        "relevant_elements": ["4.5", "3.4"]
+      },
+      {
+        "text": "GOAL: Holistic Response to Climate Change for Sustainable Social, Economic Development and Well-Being of RMI and its People Policy Objectives 1) Adaptation and resilience actions to current and future impacts of climate change",
+        "location": "GOAL: Holistic Response to Climate Change",
+        "relevant_elements": ["4.5", "1.1"]
+      },
+      {
+        "text": "Species X is listed: Terrestrial biodiversity values in the Marshall Islands include pan-Pacific species that are uniquely manifest as atoll ecosystems. Forest-associated wildlife includes a subspecies of the Imperial Micronesian Pigeon endemic to the Ratak chain of the Marshall Islands, a species of shrimp, the Arno skink, and about 25 insects often endemic not only to the Marshall Islands but to a specific island or wetland.",
+        "location": "A. CONSERVATION OF BIODIVERSITY - Values and targets",
+        "relevant_elements": ["3.3", "3.2"]
+      },
+      {
+        "text": "The Marshall Islands' terrestrial plant species include about 80 native vascular plant species, of which only one (a grass) is endemic; however, biodiversity values include agrobiodiversity, a rich heritage of local cultivars of traditional species, especially pandanus and breadfruit.",
+        "location": "A. CONSERVATION OF BIODIVERSITY - Values and targets",
+        "relevant_elements": ["3.3", "1.3"]
+      },
+      {
+        "text": "Reimaanlok process describes community-based process of designating conservation areas. Most conservation areas encompass both near-shore marine resources and terrestrial resources.",
+        "location": "A. CONSERVATION OF BIODIVERSITY - PRIORITY AREAS",
+        "relevant_elements": ["4.1"]
+      },
+      {
+        "text": "The priority area for this issue has been identified as a 100-foot strip around the coasts of each island in the Marshalls.",
+        "location": "Table (Coastal Reinforcement priority areas)",
+        "relevant_elements": ["4.1"]
+      },
+      {
+        "text": "Micronesia Challenge (MC) is a shared commitment...to effectively conserve 30% of marine resources and 20% of terrestrial resources by 2020... the new Micronesia Challenge 2030 goals to effectively manage 50% of marine resources...and 30% of terrestrial resources by 2030.",
+        "location": "The Micronesia Challenge, RMI Protected Area Network, and Reimaanlok",
+        "relevant_elements": ["3.4", "4.3"]
+      },
+      {
+        "text": "SPC LRD and USP on 'climate-ready crops' and improved crop diversity, multiplication, distribution and evaluation, and building capacity of countries on taro breeding for tolerance to drought.",
+        "location": "Regional and International Partners",
+        "relevant_elements": ["3.4", "4.2"]
+      },
+      {
+        "text": "Development of the RMI National Adaptation Plan (in progress in 2020)",
+        "location": "Table (Coastal Reinforcement opportunities)",
+        "relevant_elements": ["4.5"]
+      },
+      {
+        "text": "The Division of Agriculture will lead and coordinate the planting of salt-tolerant traditional trees along coastal areas to protect the coast and to minimize current erosion along the coast.",
+        "location": "Coastal tree planting",
+        "relevant_elements": ["4.1", "4.2"]
+      },
+      {
+        "text": "Mapping and forest inventory conducted using the Forest Inventory and Analysis (FIA) for the first time in 2008 showed that forest, including agroforest and coconut plantations, covered about 70% of the Marshalls' land area.",
+        "location": "FOREST INVENTORY AND ANALYSIS",
+        "relevant_elements": ["4.1", "2.4"]
+      },
+      {
+        "text": "Updated detailed maps for each issue and general vegetation types for the Marshall Islands were not available at the time this Forest Action Plan was completed. Maps created for the 2010 plan have been retained, but may be replaced in the future if new spatial information becomes available.",
+        "location": "PRIORITY AREAS",
+        "relevant_elements": ["4.1"]
+      },
+      {
+        "text": "Additional priority biodiversity areas identified in 2020: Ailinglaplap, Namdrik, Jaluit, Mejit, Kwajalein and Arno (Mangroves); All other areas that have not gone through the Reimaanlok Process",
+        "location": "A. CONSERVATION OF BIODIVERSITY - PRIORITY AREAS",
+        "relevant_elements": ["4.1"]
+      },
+      {
+        "text": "Resilience: Climate resilience can be generally defined as the capacity for a socio-ecological system to (1) absorb stresses and maintain function in the face of external stresses imposed upon it by climate change and (2) adapt, reorganize, and evolve into more desirable configurations that improve the sustainability of the system",
+        "location": "GLOSSARY",
+        "relevant_elements": ["1.1", "1.2"]
+      },
+      {
+        "text": "Genetic Diversity: Genetic diversity is the total number of genetic characteristics in the genetic makeup of a species. It is distinguished from genetic variability...Genetic diversity serves as a way for populations to adapt to changing environments.",
+        "location": "GLOSSARY",
+        "relevant_elements": ["1.3"]
+      },
+      {
+        "text": "Efforts will be made to improve the resilience of food production systems to impacts of climate change by improving above-ground biodiversity and below-ground biodiversity.",
+        "location": "FIGURE (Agriculture Sector Plan challenges)",
+        "relevant_elements": ["1.1", "1.2", "4.5"]
+      },
+      {
+        "text": "The plan will be reviewed every six months.",
+        "location": "EXECUTIVE SUMMARY",
+        "relevant_elements": ["4.3"]
+      },
+      {
+        "text": "The plan includes a Logical Framework Matrix which will serve as the basis to guide the implementation process and as well as the monitoring and evaluation to determine impacts.",
+        "location": "EXECUTIVE SUMMARY",
+        "relevant_elements": ["4.3"]
+      },
+      {
+        "text": "Monitoring and evaluation (M&E) is a critical part of the Marshall Islands Agriculture Sector Plan's management and implementation cycle. If addressed rigorously it should allow for adaptive management and improvement through the life of the sector plan",
+        "location": "MONITORING AND EVALUATION",
+        "relevant_elements": ["4.3", "4.5"]
+      },
+      {
+        "text": "Investigation into the potential development of a new pest and disease regime addressing impacts of climate change should be undertaken with capacity support from SPC and FAO.",
+        "location": "Develop pests and diseases control methods",
+        "relevant_elements": ["3.7", "4.5"]
+      },
+      {
+        "text": "DA is committed to fully realizing its advantage in using a multi-sector, multi-disciplinary approach to address priority challenges such as climate change and food security.",
+        "location": "Regional and International Partners",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "Warming has allowed invasive cheatgrass - not present, but: Warming is conducive to the spread of pests and diseases. Temperature increases are likely to change the duration of crop growing seasons",
+        "location": "RISK ANALYSIS AND PARTNERSHIP OPPORTUNITIES",
+        "relevant_elements": ["3.7"]
+      },
+      {
+        "text": "The goal now also includes a larger voice for fisheries management, reducing invasive species, restoring habitats, increasing livelihood opportunities and reducing risks to communities from climate impact in Micronesia.",
+        "location": "The Micronesia Challenge, RMI Protected Area Network, and Reimaanlok",
+        "relevant_elements": ["3.4", "4.1"]
+      }
+    ]
+  },
+  "concepts": {
+    "climate_vulnerability": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Global projections of sea level rise over the long term are potentially devastating to the low-elevation atolls of the Marshalls. Regional information about climate change effects over a planning horizon measured in decades is critical to planning for adaptation strategies, but is still not precise.",
+          "location": "A. CLIMATE CHANGE",
+          "sub_component": "exposure",
+          "citations": []
+        },
+        {
+          "text": "Storms and extraordinarily high tides occur with natural variability and are also amplified by climate change and sea level rise. Atolls, with their characteristic beach berms and depressed interiors, are sensitive to the frequency of surges overtopping those shoreline barriers.",
+          "location": "A. CLIMATE CHANGE",
+          "sub_component": "exposure",
+          "citations": []
+        },
+        {
+          "text": "Resilience: Climate resilience can be generally defined as the capacity for a socio-ecological system to (1) absorb stresses and maintain function in the face of external stresses imposed upon it by climate change and (2) adapt, reorganize, and evolve into more desirable configurations that improve the sustainability of the system, leaving it better prepared for future climate change impacts.",
+          "location": "GLOSSARY",
+          "sub_component": "adaptive capacity",
+          "citations": []
+        }
+      ],
+      "absence_note": "The document discusses climate exposure extensively (sea-level rise, drought, inundation) and references resilience/adaptive capacity in the glossary and in passing in the Agriculture Sector Plan, but does not formally operationalize both axes in a single vulnerability assessment framework applied to species or habitats. Score 2 rather than 3: exposure is clearly articulated; adaptive capacity is mentioned but not developed as an analytical framework for the ecological subjects of the plan. Score 1 was considered but rejected because there is explicit discussion of both exposure stressors and adaptive capacity/resilience concepts."
+    },
+    "adaptive_capacity_specificity": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Efforts will be made to improve the resilience of food production systems to impacts of climate change by improving above-ground biodiversity and below-ground biodiversity.",
+          "location": "FIGURE (Agriculture Sector Plan challenges)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "Adaptive capacity is referenced in general terms (resilience, ability to adapt) but not decomposed into specific biological components (dispersal, evolutionary potential, etc.) in a systematic way applied to the ecological subjects of the plan. Score 1 rather than 2."
+    },
+    "adaptive_capacity_components": {
+      "demography": {
+        "present": false,
+        "evidence": []
+      },
+      "distribution": {
+        "present": false,
+        "evidence": []
+      },
+      "movement": {
+        "present": false,
+        "evidence": []
+      },
+      "evolutionary_potential": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Narrow genetic base -Some of the varieties of species like pandanus, taro, breadfruit, coconuts, dwarf banana, traditional fruits and sources of traditional medicines are now endangered. The major challenge is protecting the genetic diversity of the crops from introduced pests and diseases and the effects of extreme weather events like droughts and severe cyclones.",
+            "location": "CHALLENGES TO AGRICULTURE",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecological_dependencies": {
+        "present": false,
+        "evidence": []
+      },
+      "abiotic_niche": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Selecting varieties that are more adaptable to harsh atoll conditions and potential climate change impacts of increased temperature, drought, and seawater intrusion will ensure the development of more sustainable production systems that are more environmentally friendly.",
+            "location": "Output 3. Sustainable crop production systems developed and promoted",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "life_history": {
+        "present": false,
+        "evidence": []
+      }
+    },
+    "connectivity": {
+      "evaluable": true,
+      "score": 0,
+      "evidence": [],
+      "absence_note": "The document does not discuss habitat connectivity, wildlife corridors, landscape permeability, or related concepts. The FAP focuses on forest inventory, species conservation, food security, and coastal reinforcement on small island atolls where the concept of landscape-scale connectivity corridors is not relevant to the management context discussed."
+    }
+  },
+  "tools": {
+    "vulnerability_models": {
+      "evaluable": true,
+      "score": 0,
+      "named_tools": [],
+      "evidence": [],
+      "absence_note": "No vulnerability models (CCVI, PVA, or similar) are referenced or applied in the document. The document lacks any formal climate vulnerability assessment framework for species or habitats."
+    },
+    "niche_models": {
+      "evaluable": true,
+      "score": 0,
+      "named_tools": [],
+      "evidence": [],
+      "absence_note": "No species distribution models or niche models (MaxEnt, SDMs, etc.) are referenced. Vegetation mapping used satellite imagery and FIA plots, not niche modeling."
+    },
+    "climate_models": {
+      "evaluable": true,
+      "score": 1,
+      "named_tools": [],
+      "evidence": [
+        {
+          "text": "Rainfall, drought and sea level are strongly affected by ENSO (El Nino Southern Oscillation) processes, but climate models do not agree on how ENSO patterns will change with continued global warming (Fletcher et al, 2010).",
+          "location": "A. CLIMATE CHANGE",
+          "sub_component": null,
+          "citations": ["Fletcher et al, 2010"]
+        }
+      ],
+      "absence_note": "Climate models are mentioned in passing (noting disagreement among models about ENSO), and the Pacific Islands Regional Climate Assessment (PIRCA) is referenced as being in preparation. No specific GCMs, RCPs, SSPs, or downscaled products are named or applied. Score 1 (referenced generally) rather than 2.",
+      "time_horizon_years": [],
+      "emission_scenarios": []
+    },
+    "connectivity_models": {
+      "evaluable": true,
+      "score": 0,
+      "named_tools": [],
+      "evidence": [],
+      "absence_note": "No connectivity models are referenced. GIS and satellite imagery are used for land cover mapping, but not connectivity modeling. CircuitScape, Linkage Mapper, and similar tools are absent."
+    }
+  },
+  "context": {
+    "management_scale": {
+      "local": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The priority area for this issue has been identified as a 100-foot strip around the coasts of each island in the Marshalls.",
+            "location": "Table (Coastal Reinforcement priority areas)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "site": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Additional priority biodiversity areas identified in 2020: Ailinglaplap, Namdrik, Jaluit, Mejit, Kwajalein and Arno (Mangroves)",
+            "location": "A. CONSERVATION OF BIODIVERSITY - PRIORITY AREAS",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "watershed": {
+        "present": false,
+        "evidence": []
+      },
+      "city": {
+        "present": false,
+        "evidence": []
+      },
+      "county": {
+        "present": false,
+        "evidence": []
+      },
+      "within_state_region": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Most summaries include estimates for all of RMI, and northern and southern atolls. Because of the latitudinal rainfall gradient, there is interest in comparing regions",
+            "location": "Agroforest",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "state": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The RMI FAP includes two components of the assessment and planning required by the S&PF Redesign approach to identify priority forest landscape areas and highlight work needed to address national, regional, and state forest management priorities",
+            "location": "Introduction (opening paragraphs)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "multistate": {
+        "present": false,
+        "evidence": []
+      },
+      "national": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Micronesia Challenge (MC) is a shared commitment made by the FSM, Guam, Palau, CNMI, and the RMI originally launched in 2006 to effectively conserve 30% of marine resources and 20% of terrestrial resources by 2020.",
+            "location": "The Micronesia Challenge, RMI Protected Area Network, and Reimaanlok",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "transnational": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Micronesia Challenge (MC) is a shared commitment made by the FSM, Guam, Palau, CNMI, and the RMI originally launched in 2006 to effectively conserve 30% of marine resources and 20% of terrestrial resources by 2020.",
+            "location": "The Micronesia Challenge, RMI Protected Area Network, and Reimaanlok",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The Marshall Islands are naturally tropical forested ecosystems, mostly converted to agroforest over the millennia since settlement by the Marshallese people.",
+            "location": "FOREST SPECIES AND ECOSYSTEMS",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecoregion": {
+        "present": false,
+        "evidence": []
+      },
+      "province": {
+        "present": false,
+        "evidence": []
+      },
+      "section": {
+        "present": false,
+        "evidence": []
+      },
+      "subsection": {
+        "present": false,
+        "evidence": []
+      },
+      "lake": {
+        "present": false,
+        "evidence": []
+      },
+      "river": {
+        "present": false,
+        "evidence": []
+      },
+      "district": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["Majuro", "Ebeye", "Kwajalein", "Ailinglaplap", "Namdrik", "Jaluit", "Mejit", "Arno", "Marshall Islands"]
+    },
+    "biological_unit_score": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Terrestrial biodiversity values in the Marshall Islands include pan-Pacific species that are uniquely manifest as atoll ecosystems. Forest-associated wildlife includes a subspecies of the Imperial Micronesian Pigeon endemic to the Ratak chain of the Marshall Islands",
+          "location": "A. CONSERVATION OF BIODIVERSITY - Values and targets",
+          "sub_component": "species",
+          "citations": []
+        },
+        {
+          "text": "The Marshall Islands are naturally tropical forested ecosystems, mostly converted to agroforest over the millennia since settlement by the Marshallese people.",
+          "location": "FOREST SPECIES AND ECOSYSTEMS",
+          "sub_component": "ecosystem",
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "biological_unit_components": {
+      "species": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Forest-associated wildlife includes a subspecies of the Imperial Micronesian Pigeon endemic to the Ratak chain of the Marshall Islands, a species of shrimp, the Arno skink, and about 25 insects often endemic not only to the Marshall Islands but to a specific island or wetland.",
+            "location": "A. CONSERVATION OF BIODIVERSITY - Values and targets",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "population": {
+        "present": false,
+        "evidence": []
+      },
+      "habitat": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Strand vegetation is common along coastlines across much of the tropical Pacific, especially in Micronesia...strand forests play an important role in coastal stabilization.",
+            "location": "Strand Forest",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The Marshall Islands are naturally tropical forested ecosystems, mostly converted to agroforest over the millennia since settlement by the Marshallese people. Marshallese agroforest is a mix of trees, woody shrubs and herbaceous species, managed for food and other forest products",
+            "location": "FOREST SPECIES AND ECOSYSTEMS",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "community": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The category of forest community used by the FIA was useful for organizing these priority areas, since strand and mangrove forests are both critical for coastal stabilization, agroforest is important for food security, and lowland and montane rainforest both shelter many native and endemic plant species.",
+            "location": "FOREST INVENTORY AND ANALYSIS",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "genotype_phenotype": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["Imperial Micronesian Pigeon", "Arno skink", "Pisonia grandis", "coconut (Cocos nucifera)", "breadfruit (Artocarpus altilis)", "pandanus (Pandanus tectorius)", "Scaevola taccada", "Guettarda speciosa", "mangroves", "agroforest", "strand forest", "lowland tropical rainforest"]
+    },
+    "partnerships_and_funding": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "The USFS provided funding, technical support, review of draft documents and overall guidance. Stakeholder groups consulted are described in the following sections.",
+          "location": "Table 8 (Urbanization Strategies header)",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "SPC LRD and USP on 'climate-ready crops' and improved crop diversity, multiplication, distribution and evaluation, and building capacity of countries on taro breeding for tolerance to drought.",
+          "location": "Regional and International Partners",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document describes several partnerships (USFS, MCT, SPC, FAO, Taiwan Technical Mission, MICS, NGOs) with some financial components (USFS funding, GEF, EU grants referenced), but funding for climate-specific range-shift actions is not specifically allocated. Score 1: partnerships and some funding described but limited/aspirational for climate-specific forestry work."
+    },
+    "climate_threat_habitat_degradation": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Storms and extraordinarily high tides occur with natural variability and are also amplified by climate change and sea level rise...Increased frequency of overtopping events, exceeding required recovery times, will alter terrestrial ecosystems and agroforests, and will leave islands uninhabitable well before sea level rise permanently inundates the island.",
+          "location": "A. CLIMATE CHANGE",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_threat_species_vital_rates": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Climate change (drought) and sea-level rise (salt water intrusion) resulting in disappearance of certain crops, trees, and medicinal herbs",
+          "location": "Table (Food Security SWOT - THREATS)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "This is a close call. The document mentions disappearance of crops, trees, and medicinal herbs due to drought and saltwater intrusion—this implies direct climate-caused mortality/loss of plant species. This is treated as a direct vital rate impact (recruitment failure, mortality) caused by climate events. Score 1."
+    },
+    "climate_threat_biotic_stressors": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Temperature increases are likely to change the duration of crop growing seasons; increase the amount of water to produce a unit yield, and conducive to the spread of pests and diseases.",
+          "location": "RISK ANALYSIS AND PARTNERSHIP OPPORTUNITIES",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document mentions that warming is conducive to the spread of pests and diseases (biotic stressors), framing this as a climate-driven change. This qualifies as climate-driven biotic stressors. Score 1."
+    }
+  },
+  "actions": {
+    "priority_habitat_identification": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "The priority area for this issue has been identified as a 100-foot strip around the coasts of each island in the Marshalls.",
+          "location": "Table (Coastal Reinforcement priority areas)",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Additional priority biodiversity areas identified in 2020: Ailinglaplap, Namdrik, Jaluit, Mejit, Kwajalein and Arno (Mangroves); All other areas that have not gone through the Reimaanlok Process",
+          "location": "A. CONSERVATION OF BIODIVERSITY - PRIORITY AREAS",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "Priority areas are identified and named, but the document explicitly states that updated detailed maps for each issue were not available at time of writing, and old maps from 2010 were retained. Score 1 rather than 2: priority habitat discussed narratively but not with current spatial representation (maps noted as unavailable/outdated)."
+    },
+    "targeted_range_shift_actions": {
+      "evaluable": true,
+      "score": 0,
+      "evidence": [],
+      "absence_note": "The document does not discuss any actions specifically targeting climate-driven species range shifts—no assisted migration, climate corridors, managed relocation, or similar. Coastal forest restoration is mentioned as a 'no-regrets strategy' against sea-level rise, but this is habitat protection framing, not range-shift facilitation. Planting 'climate-ready crops' and salt-tolerant trees addresses agricultural adaptation, not species range shifts in the ecological sense. The codebook requires explicit climate/range-shift framing for this element."
+    },
+    "time_bound_and_monitoring": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Micronesia Challenge 2030 goals to effectively manage 50% of marine resources, including the exclusive economic zone (EEZ), and 30% of terrestrial resources by 2030.",
+          "location": "The Micronesia Challenge, RMI Protected Area Network, and Reimaanlok",
+          "sub_component": "deadline",
+          "citations": []
+        },
+        {
+          "text": "The plan will be reviewed every six months.",
+          "location": "EXECUTIVE SUMMARY",
+          "sub_component": "monitoring",
+          "citations": []
+        }
+      ],
+      "absence_note": "The Agriculture Sector Plan has a 6-month review cycle and a logframe with KPIs, and the Micronesia Challenge has a 2030 deadline. However, individual conservation actions in the FAP's strategy matrices do not consistently have specific deadlines attached. Score 1 rather than 2: time-bound targets exist at the plan level (MC 2030 goals, 6-month reviews) but not consistently at the individual action level with paired effectiveness monitoring for range-shift-specific actions."
+    },
+    "evidence_of_efficacy": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "There is strong evidence on Palmyra atoll (central Pacific Ocean) that invasive rats play a large role in preventing new recruitment of Pisona grandis, other native species, and coconut trees (Wolf et al, 2018). So, in areas where native species are lacking or not returning in RMI, rats could be an important factor, and eradicating invasive rats is a recommended management action on any island.",
+          "location": "Lowland Tropical Rainforest",
+          "sub_component": null,
+          "citations": ["Wolf et al, 2018"]
+        }
+      ],
+      "absence_note": "The document provides one notable citation (Wolf et al. 2018) linking rat eradication to native species recruitment as evidence for a specific action. Other actions (coastal tree planting, agroforestry promotion) are presented without supporting citations or efficacy evidence. Score 1: rationale is outlined and some vague ecological principles are applied, with one limited external reference. Score 2 was considered but the single study is from a different system (Palmyra) and most actions lack any evidence.",
+      "projects": ["Wolf et al. (2018) study on Palmyra atoll provides evidence that invasive rat eradication strongly impacts plant recruitment of native species including Pisonia grandis. The document cites this to support rat eradication as a recommended management action in RMI, though the study is from a different Pacific location (Palmyra) rather than RMI specifically."]
+    },
+    "adaptation_planning_frameworks": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Monitoring and evaluation (M&E) is a critical part of the Marshall Islands Agriculture Sector Plan's management and implementation cycle. If addressed rigorously it should allow for adaptive management and improvement through the life of the sector plan",
+          "location": "MONITORING AND EVALUATION",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document references adaptive management in the context of the Agriculture Sector Plan's M&E cycle, which is framed in part around climate change resilience. The FAP also references the development of a National Adaptation Plan and the Joint National Action Plan for Climate Change Adaptation. However, no specific named climate adaptation planning frameworks (RAD, RRT, SBDA, CCVA, Resist-Accept-Direct, etc.) are mentioned. Score 1: adaptation planning frameworks are referenced in a non-specific way (adaptive management mentioned in climate context, National Adaptation Plan referenced)."
+    }
+  },
+  "coding_meta": {
+    "coder": "llm:claude-sonnet-4-6",
+    "model": "claude-sonnet-4-6",
+    "provider": "claude",
+    "codebook_version": "0.4",
+    "ingest": "text",
+    "design": "single",
+    "temperature": null,
+    "thinking": null,
+    "thinking_effort": null,
+    "coded_at": "2026-07-07T00:31:33Z",
+    "notes": {}
+  }
+}

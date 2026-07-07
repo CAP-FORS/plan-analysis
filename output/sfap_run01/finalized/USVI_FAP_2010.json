@@ -1,0 +1,652 @@
+{
+  "document_meta": {
+    "title": "US Virgin Islands Statewide Assessment of Forest Resources and Strategies",
+    "year": 2010,
+    "jurisdiction": "U.S. Virgin Islands",
+    "document_type": "Statewide Forest Resource Assessment and Strategy",
+    "document_id": "USVI_FAP_2010",
+    "page_count": 107
+  },
+  "orientation": {
+    "summary": "This is the 2010 U.S. Virgin Islands Statewide Assessment of Forest Resources and Strategies, a planning document prepared by the VI Department of Agriculture's Forestry Division in response to the 2008 Farm Bill requirement. The document assesses forest conditions, threats, and strategies for the USVI's three main islands (St. Croix, St. Thomas, St. John). Climate change is acknowledged as a significant threat in a dedicated section, with impacts discussed primarily from a UNEP synthesis and IPCC references (e.g., sea level rise, wildfire, invasive species expansion, coastal habitat loss), but the document performs no original climate modeling or vulnerability analysis of its own. Range shift science is not a primary framing; climate-driven changes are addressed as threats to forests and coastal ecosystems, with some discussion of climate-favored invasive species expansion and wildfire risk. The document proposes priority habitat areas identified through GIS-based weighted overlay analysis, and outlines strategies and objectives in tabular matrices, but these are not time-bound at the individual action level with monitoring protocols.",
+    "evidence_index": [
+      {
+        "text": "Providing habitat for fish nurseries and a wide variety of area fauna and flora, these areas are under threat from a variety of sources, such as climate change and development.",
+        "location": "Issue 6: Degradation of Coastal Forest Ecosystems",
+        "relevant_elements": ["1.1", "3.5"]
+      },
+      {
+        "text": "Global climate change will likely result in changes in wind and rainfall patterns in the Caribbean. An increase in the length or severity of droughts could contribute to an increase in wildfires in the US Virgin Islands.",
+        "location": "Issue 8: Wildfire",
+        "relevant_elements": ["1.1", "3.5", "3.6"]
+      },
+      {
+        "text": "The effects of climate change have the potential to be devastating in the USVI and throughout the world. A recent study of forests in the USVI and Puerto Rico found that climate is the overarching influence on forest species composition when recovering from deforestation; all other factors are secondary to the influence of climate (Brandeis et al 2009).",
+        "location": "Climate Change",
+        "relevant_elements": ["1.1", "3.3"]
+      },
+      {
+        "text": "most models agree that climate change will result in a number of changes that will affect the forests of the USVI, especially along the coastlines. A summary of these effects was presented in the report \"Climate Change in the Caribbean and the Challenge of Adaptation\" by the United Nations Environmental Program (UNEP 2008):",
+        "location": "Climate Change",
+        "relevant_elements": ["1.1", "2.3", "3.5"]
+      },
+      {
+        "text": "Increased invasion by non-native species as a result of higher temperatures is also expected, particularly on middle and high-latitude islands.",
+        "location": "Climate Change",
+        "relevant_elements": ["3.7", "1.1"]
+      },
+      {
+        "text": "Loss of mangrove forests and coral reefs due to sea level rise.",
+        "location": "Climate Change",
+        "relevant_elements": ["3.5", "1.1"]
+      },
+      {
+        "text": "Reduction in the size of freshwater lenses and of general water resource availability due to decreased rainfall and saltwater intrusion.",
+        "location": "Climate Change",
+        "relevant_elements": ["3.5", "1.1"]
+      },
+      {
+        "text": "The expected sea level rise (Figure 28) is another issue that will significantly affect the forests of the USVI. A rise in sea level of just one foot could have a detrimental effect on coastal forest areas.",
+        "location": "Climate Change",
+        "relevant_elements": ["3.5", "1.1"]
+      },
+      {
+        "text": "Climate change is likely to enhance many of the existing threats to forest ecosystems. Climatic warming and drying and the increase in invasive species will make forests more vulnerable to wildfires.",
+        "location": "Climate Change",
+        "relevant_elements": ["1.1", "3.5", "3.7"]
+      },
+      {
+        "text": "Evidence of this is already being seen in Puerto Rico where wildfires are increasing in frequency and occurring in areas where such fires have never been recorded before (Robbins et al., 2009).",
+        "location": "Climate Change",
+        "relevant_elements": ["3.5", "3.6"]
+      },
+      {
+        "text": "There is great potential for forests to become increasingly vulnerable to fire due to climate change. Forest fires in the Caribbean have occurred almost exclusively in dry forest and not moist forest (Robbins et al., 2009). Even slight changes in temperature and rainfall have the potential to increase fire frequency.",
+        "location": "Issue 8. Wildfires",
+        "relevant_elements": ["1.1", "3.5", "3.6"]
+      },
+      {
+        "text": "In Puerto Rico, historical and paleoecological data suggest that fire frequency is increasing and moving into humid areas that have not burned before (Burney et al., 1994).",
+        "location": "Issue 8. Wildfires",
+        "relevant_elements": ["3.5", "3.6"]
+      },
+      {
+        "text": "Existing expected numbers of sea level rise (IPCC, 2007) were used to categorize the sea level rise into four distinct categories. Minimum and maximum sea level rise for 2030 and maximum and minimum sea level rise for 2095, all weighted at 1.25 each respectively, were identified.",
+        "location": "Issue 6: Degradation of Coastal Forest Ecosystems (priority analysis section)",
+        "relevant_elements": ["2.3", "4.1"]
+      },
+      {
+        "text": "Components controlling rainwater in the USVI depend on climate, geology and land cover. Climate is changing (IPCC, 2007).",
+        "location": "Priority Issues Issue 1: Contiguous Forest Loss (water management section)",
+        "relevant_elements": ["1.1", "2.3"]
+      },
+      {
+        "text": "A second large threat is climate change. Existing expected numbers of sea level rise (IPCC, 2007) were used to categorize the sea level rise into four distinct categories.",
+        "location": "Issue 6: Degradation of Coastal Forest Ecosystems (priority analysis section)",
+        "relevant_elements": ["2.3", "3.5", "4.1"]
+      },
+      {
+        "text": "The expected increase in extreme weather such as hurricanes will result in more storms like Hurricane Hugo that devastated the Virgin Islands in 1989, removing most of the foliage and causing tree mortality (Lugo, 2001).",
+        "location": "Climate Change",
+        "relevant_elements": ["3.6", "1.1"]
+      },
+      {
+        "text": "A geospatial analysis was conducted to delineate areas in the USVI landscape where future efforts might best be focused. These priority areas were determined using weighted overlay analyses based on currently available data.",
+        "location": "Table 1 (Introduction/Executive Summary area)",
+        "relevant_elements": ["4.1", "2.4"]
+      },
+      {
+        "text": "Identified priority areas (Figure 29) for St. Croix lie on the eastern end and the northwest section, representing the subtropical moist forests and following the higher elevation ridge east across the island to the dry forest regions.",
+        "location": "Priority Issues Issue 1: Contiguous Forest Loss",
+        "relevant_elements": ["4.1"]
+      },
+      {
+        "text": "the plan is to purchase one parcel of land that will connect those already owned to create a corridor of protection for wildlife and plants as well as protect soil and water resources.",
+        "location": "Goal 3: Coastal Forest Ecosystems Protection",
+        "relevant_elements": ["1.4", "4.2"]
+      },
+      {
+        "text": "Urban forests may provide corridors or small refuges to some animals.",
+        "location": "Goal 2: Urban Forest Management",
+        "relevant_elements": ["1.4"]
+      },
+      {
+        "text": "Collect data to determine wildlife usage of contiguous forest and corridors between forest patches",
+        "location": "Table 13: Objective 1.2 Research and Data Acquisition for Contiguous Forest Management",
+        "relevant_elements": ["1.4", "4.2"]
+      },
+      {
+        "text": "Collect data to determine wildlife usage of urban forests as corridors and habitat",
+        "location": "Table 17: Objective 2.2 Urban Forest Inventory and Analysis",
+        "relevant_elements": ["1.4"]
+      },
+      {
+        "text": "Forest types and structures in the U.S. Virgin Islands are dynamic systems affected by human and climatic influence (Kennaway et al., 2008).",
+        "location": "Distribution and Abundance of Forest Resources",
+        "relevant_elements": ["1.1"]
+      },
+      {
+        "text": "Federal funding is the key to the Forest Legacy Program in the US Virgin Islands. The VI government has no funds available for this program, and without federal funding, the VI Department of Agriculture would have no forestry programs at all.",
+        "location": "Goal 3: Coastal Forest Ecosystems Protection",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "Funding has been provided by the Forest Service for two tracts of land in northwestern St. Croix to date.",
+        "location": "Goal 3: Coastal Forest Ecosystems Protection",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "An example of a successful planned invasive species control in the US Virgin Islands was done by the National Park Service on Buck Island off of St. Croix... Complete eradication was not the goal, but the current measure of 85% control of these species has been deemed successful (Lundgren, 2010).",
+        "location": "Issue 7: Invasive Species",
+        "relevant_elements": ["4.4"]
+      },
+      {
+        "text": "The National Park Service project at Buck Island National Monument could be used as a model project for the rest of the territory because it 1) identified target species through a plant and animal inventory and analysis, 2) set measurable and achievable goals for each species (complete eradication or control), and 3) utilizes regular monitoring in order to measure the success of the management activity.",
+        "location": "Issue 7: Invasive Species",
+        "relevant_elements": ["4.3", "4.4"]
+      },
+      {
+        "text": "Increase acreage under monitoring/control for Invasive Species",
+        "location": "Table 15: Objective 1.4 Managing Existing Contiguous Forest",
+        "relevant_elements": ["4.3"]
+      },
+      {
+        "text": "Education about climate change is a major goal of the US Forest Service's Conservation Education program. Climate change is significantly impacting the lands managed by the US Forest Service.",
+        "location": "Introduction (Conservation Education section)",
+        "relevant_elements": ["4.5"]
+      },
+      {
+        "text": "The Forest Service strategy for dealing with climate change is based on years of targeted research and a century of science and management experience on public and private forest land.",
+        "location": "Introduction (Conservation Education section)",
+        "relevant_elements": ["4.5"]
+      },
+      {
+        "text": "Invasive plant species such as sweet lime (Triphasia trifolia) and snake plant (Sanseveria trifasciata) can be found in the understory in many of the forests of the USVI.",
+        "location": "Issue 7: Invasive Species",
+        "relevant_elements": ["3.7"]
+      },
+      {
+        "text": "Increased invasion by non-native species as a result of higher temperatures is also expected, particularly on middle and high-latitude islands.",
+        "location": "Climate Change",
+        "relevant_elements": ["3.7"]
+      },
+      {
+        "text": "Collaborative redesign projects with other islands, especially in the Caribbean, may be pursued in the future to provide funding for implementing these strategies.",
+        "location": "STRATEGIES",
+        "relevant_elements": ["3.1", "3.4"]
+      }
+    ]
+  },
+  "concepts": {
+    "climate_vulnerability": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "The effects of climate change have the potential to be devastating in the USVI and throughout the world. A recent study of forests in the USVI and Puerto Rico found that climate is the overarching influence on forest species composition when recovering from deforestation",
+          "location": "Climate Change",
+          "sub_component": null,
+          "citations": ["Brandeis et al 2009"]
+        }
+      ],
+      "absence_note": "The document acknowledges climate change as a major threat and discusses multiple climate impacts on forests (sea level rise, wildfire, drought, invasive species, hurricane intensity) but does not use vulnerability terminology or frame impacts in terms of exposure vs. adaptive capacity for its focal ecosystems. The UNEP summary is cited and referenced but no vulnerability assessment framework is applied. Score 1 rather than 0 because climate vulnerability of forests is implicitly engaged, but score 2 or 3 require explicit exposure OR adaptive capacity framing, which is absent."
+    },
+    "adaptive_capacity_specificity": {
+      "evaluable": true,
+      "score": 0,
+      "evidence": [],
+      "absence_note": "No adaptive capacity components are referenced in a climate context."
+    },
+    "adaptive_capacity_components": {
+      "demography": {
+        "present": false,
+        "evidence": []
+      },
+      "distribution": {
+        "present": false,
+        "evidence": []
+      },
+      "movement": {
+        "present": false,
+        "evidence": []
+      },
+      "evolutionary_potential": {
+        "present": false,
+        "evidence": []
+      },
+      "ecological_dependencies": {
+        "present": false,
+        "evidence": []
+      },
+      "abiotic_niche": {
+        "present": false,
+        "evidence": []
+      },
+      "life_history": {
+        "present": false,
+        "evidence": []
+      }
+    },
+    "connectivity": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "the plan is to purchase one parcel of land that will connect those already owned to create a corridor of protection for wildlife and plants as well as protect soil and water resources.",
+          "location": "Goal 3: Coastal Forest Ecosystems Protection",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "Connectivity is referenced generically (corridors between forest patches, urban forests as corridors, a land corridor purchase) but never explicitly framed in connection with climate change or range shifts. Score 1 (generic) rather than 2 because no passage explicitly links corridors to climate-driven movement or range shifts."
+    }
+  },
+  "tools": {
+    "vulnerability_models": {
+      "evaluable": true,
+      "score": 0,
+      "named_tools": [],
+      "evidence": [],
+      "absence_note": "No vulnerability models (CCVI, PVA, etc.) are referenced anywhere in the document."
+    },
+    "niche_models": {
+      "evaluable": true,
+      "score": 1,
+      "named_tools": [],
+      "evidence": [
+        {
+          "text": "Invasive species mapping and monitoring has been done effectively on a global and regional scale. Maps are frequently created using models with environmental inputs, such as temperature or altitude, rather than physically mapping the presence of the organism on concern.",
+          "location": "Biological Threats",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "Habitat suitability modeling is referenced generically (for invasive species mapping) but no named SDM tool (MaxEnt, BIOCLIM, etc.) is used and no such model is applied to the document's focal subjects. Score 1 (referenced generally, not applied). The document explicitly notes this type of mapping 'likely has limited potential in the US Virgin Islands.'"
+    },
+    "climate_models": {
+      "evaluable": true,
+      "score": 1,
+      "named_tools": ["IPCC"],
+      "evidence": [
+        {
+          "text": "Existing expected numbers of sea level rise (IPCC, 2007) were used to categorize the sea level rise into four distinct categories. Minimum and maximum sea level rise for 2030 and maximum and minimum sea level rise for 2095, all weighted at 1.25 each respectively, were identified.",
+          "location": "Issue 6: Degradation of Coastal Forest Ecosystems (priority analysis section)",
+          "sub_component": null,
+          "citations": ["IPCC, 2007"]
+        }
+      ],
+      "absence_note": "IPCC 2007 sea level rise projections are referenced and used in the GIS priority analysis, but IPCC is not itself a climate model — it is a synthesis report. No specific GCM, RCP scenario, or downscaled climate product is named. The sea-level rise numbers from IPCC 2007 are used in the weighted analysis, which partially constitutes application to focal subjects, but since no actual climate model is named (just IPCC summary numbers), and most climate discussion cites UNEP 2008 qualitatively, score 1 is most appropriate.",
+      "time_horizon_years": [2030, 2095],
+      "emission_scenarios": []
+    },
+    "connectivity_models": {
+      "evaluable": true,
+      "score": 0,
+      "named_tools": [],
+      "evidence": [],
+      "absence_note": "The GIS weighted overlay analysis uses landscape layers but does not employ connectivity modeling tools (CircuitScape, Linkage Mapper, etc.). Connectivity is discussed conceptually and spatially but no connectivity model is used."
+    }
+  },
+  "context": {
+    "management_scale": {
+      "local": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "As the US Forest Service Forest Health Protection staff includes specialists in forest entomology, forest pathology, invasive species, pesticide use, survey and monitoring, suppression and control",
+            "location": "Forest Health Protection",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "site": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Funding has been provided by the Forest Service for two tracts of land in northwestern St. Croix to date. The owners of one tract removed the property from consideration for sale; instead, the owners plan to provide a 100% donation of a conservation easement on 30 acres of that property.",
+            "location": "Goal 3: Coastal Forest Ecosystems Protection",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "watershed": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Prior analysis has been conducted of the Forest Legacy Program in the form of the Assessment of Need that identified priority areas as watersheds.",
+            "location": "Priority Issues Issue 1: Contiguous Forest Loss (water management section)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "city": {
+        "present": false,
+        "evidence": []
+      },
+      "county": {
+        "present": false,
+        "evidence": []
+      },
+      "within_state_region": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "the areas of highest priority for protection and delivery of forestry programs were identified as: the northwestern corner and eastern end of St. Croix, west end and north shore of St. Thomas, and the east end and south shore of St. John.",
+            "location": "Table 1 (Introduction/Executive Summary area)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "state": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The amendment requires each State and Territory to provide a Statewide Assessment of Forest Resources and a Statewide Forest Resources Strategy to the Secretary of Agriculture, USDA, by June 2010.",
+            "location": "EXECUTIVE SUMMARY",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "multistate": {
+        "present": false,
+        "evidence": []
+      },
+      "national": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Redesign focuses on three national themes: conserve working forests, protect forests, and enhance benefits from trees and forests.",
+            "location": "Table 1 (Introduction/Executive Summary area)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "transnational": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "As a result of their island status, the US Virgin Islands do not have geographically adjacent jurisdictions. However, the issues that are being addressed in these strategies are often the same as those found on other islands, whether in the Caribbean or the South Pacific.",
+            "location": "STRATEGIES",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Coastal forests including wetlands and mangrove forests are the connective region between the terrestrial and marine environments.",
+            "location": "Issue 6: Degradation of Coastal Forest Ecosystems",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecoregion": {
+        "present": false,
+        "evidence": []
+      },
+      "province": {
+        "present": false,
+        "evidence": []
+      },
+      "section": {
+        "present": false,
+        "evidence": []
+      },
+      "subsection": {
+        "present": false,
+        "evidence": []
+      },
+      "lake": {
+        "present": false,
+        "evidence": []
+      },
+      "river": {
+        "present": false,
+        "evidence": []
+      },
+      "district": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["St. Croix", "St. Thomas", "St. John", "northwestern St. Croix", "Virgin Islands National Park", "Kingshill aquifer", "Buck Island"]
+    },
+    "biological_unit_score": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Forest types and structures in the U.S. Virgin Islands are dynamic systems affected by human and climatic influence (Kennaway et al., 2008).",
+          "location": "Distribution and Abundance of Forest Resources",
+          "sub_component": "ecosystem",
+          "citations": ["Kennaway et al., 2008"]
+        },
+        {
+          "text": "The most comprehensive, forest inventory of the US Virgin Islands indicated that the single most common tree in the territory is the exotic tan-tan (Leucaena leucocephala) which is found at all elevations and in almost all forest types (Brandeis and Oswalt, 2007).",
+          "location": "Biological Threats",
+          "sub_component": "species",
+          "citations": ["Brandeis and Oswalt, 2007"]
+        }
+      ],
+      "absence_note": {}
+    },
+    "biological_unit_components": {
+      "species": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "A recent study of forests in the USVI and Puerto Rico found that climate is the overarching influence on forest species composition when recovering from deforestation; all other factors are secondary to the influence of climate (Brandeis et al 2009).",
+            "location": "Climate Change",
+            "sub_component": null,
+            "citations": ["Brandeis et al 2009"]
+          }
+        ]
+      },
+      "population": {
+        "present": false,
+        "evidence": []
+      },
+      "habitat": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Loss of mangrove forests and coral reefs due to sea level rise.",
+            "location": "Climate Change",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Forest types and structures in the U.S. Virgin Islands are dynamic systems affected by human and climatic influence (Kennaway et al., 2008).",
+            "location": "Distribution and Abundance of Forest Resources",
+            "sub_component": null,
+            "citations": ["Kennaway et al., 2008"]
+          }
+        ]
+      },
+      "community": {
+        "present": false,
+        "evidence": []
+      },
+      "genotype_phenotype": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["subtropical moist forest", "subtropical dry forest", "mangrove forests", "tan-tan (Leucaena leucocephala)", "black mampoo", "gumbo limbo", "bats", "migratory birds"]
+    },
+    "partnerships_and_funding": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Federal funding is the key to the Forest Legacy Program in the US Virgin Islands. The VI government has no funds available for this program, and without federal funding, the VI Department of Agriculture would have no forestry programs at all.",
+          "location": "Goal 3: Coastal Forest Ecosystems Protection",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Funding has been provided by the Forest Service for two tracts of land in northwestern St. Croix to date.",
+          "location": "Goal 3: Coastal Forest Ecosystems Protection",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document describes funding through USDA Forest Service grants and the Forest Legacy Program, and names multiple partner agencies (TNC, NPS, USFWS, DPNR, UVI). However, these are general forestry partnerships not specifically targeted at climate range-shift actions. The funding situation is described as severely limited (no VI government funds). Score 1: some funding and partnerships described but limited/aspirational for range-shift-relevant actions."
+    },
+    "climate_threat_habitat_degradation": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "The expected sea level rise (Figure 28) is another issue that will significantly affect the forests of the USVI. A rise in sea level of just one foot could have a detrimental effect on coastal forest areas.",
+          "location": "Climate Change",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Loss of mangrove forests and coral reefs due to sea level rise.",
+          "location": "Climate Change",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_threat_species_vital_rates": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "The expected increase in extreme weather such as hurricanes will result in more storms like Hurricane Hugo that devastated the Virgin Islands in 1989, removing most of the foliage and causing tree mortality (Lugo, 2001).",
+          "location": "Climate Change",
+          "sub_component": null,
+          "citations": ["Lugo, 2001"]
+        }
+      ],
+      "absence_note": "The document connects climate-intensified hurricanes to tree mortality (direct vital rate impact). Wildfire increase due to climate change is also discussed in the context of forests that 'are not ecologically adapted to periodic fires,' implying direct mortality risk. These qualify as climate event → direct species vital rate impact."
+    },
+    "climate_threat_biotic_stressors": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Increased invasion by non-native species as a result of higher temperatures is also expected, particularly on middle and high-latitude islands.",
+          "location": "Climate Change",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Climate change is likely to enhance many of the existing threats to forest ecosystems. Climatic warming and drying and the increase in invasive species will make forests more vulnerable to wildfires.",
+          "location": "Climate Change",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    }
+  },
+  "actions": {
+    "priority_habitat_identification": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Identified priority areas (Figure 29) for St. Croix lie on the eastern end and the northwest section, representing the subtropical moist forests and following the higher elevation ridge east across the island to the dry forest regions.",
+          "location": "Priority Issues Issue 1: Contiguous Forest Loss",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "A geospatial analysis was conducted to delineate areas in the USVI landscape where future efforts might best be focused. These priority areas were determined using weighted overlay analyses based on currently available data.",
+          "location": "Table 1 (Introduction/Executive Summary area)",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "A second large threat is climate change. Existing expected numbers of sea level rise (IPCC, 2007) were used to categorize the sea level rise into four distinct categories. Minimum and maximum sea level rise for 2030 and maximum and minimum sea level rise for 2095, all weighted at 1.25 each respectively, were identified.",
+          "location": "Issue 6: Degradation of Coastal Forest Ecosystems (priority analysis section)",
+          "sub_component": null,
+          "citations": ["IPCC, 2007"]
+        }
+      ],
+      "absence_note": "Priority habitat areas are identified and spatially represented (Figures 29, 30, 35, 36, 37, 38) using GIS-based weighted overlay analysis. Climate-related threats (sea level rise) are among the layers used in the coastal forest priority analysis. Score 2 is appropriate as there is spatial representation (maps by island) of priority areas."
+    },
+    "targeted_range_shift_actions": {
+      "evaluable": true,
+      "score": 0,
+      "evidence": [],
+      "absence_note": "No targeted actions to manage species range shifts are proposed. The document does not discuss assisted migration, climate-motivated translocation, or structural facilitation of range shifts. The corridor/connectivity mentions are generic forest connectivity (wildlife passage, not climate-gradient corridors). The document is focused on forest conservation against development pressure, not on facilitating or managing climate-driven range shifts."
+    },
+    "time_bound_and_monitoring": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "The National Park Service project at Buck Island National Monument could be used as a model project for the rest of the territory because it 1) identified target species through a plant and animal inventory and analysis, 2) set measurable and achievable goals for each species (complete eradication or control), and 3) utilizes regular monitoring in order to measure the success of the management activity.",
+          "location": "Issue 7: Invasive Species",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The strategy matrices include measures of success for each strategy but do not consistently attach deadlines or specific monitoring protocols to individual actions. 'Measure(s) of Success' columns in Tables 12-22 provide outcome metrics but without explicit deadlines. The document mentions a commitment to incorporate conservation education 'in the next five years,' which is a loose time-bound statement. Score 1 (some time framing exists but no systematic action-level deadlines plus effectiveness monitoring). Score 2 requires both deadlines AND effectiveness monitoring at the action level, which is not present."
+    },
+    "evidence_of_efficacy": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "An example of a successful planned invasive species control in the US Virgin Islands was done by the National Park Service on Buck Island off of St. Croix... Complete eradication was not the goal, but the current measure of 85% control of these species has been deemed successful (Lundgren, 2010).",
+          "location": "Issue 7: Invasive Species",
+          "sub_component": null,
+          "citations": ["Lundgren, 2010"]
+        },
+        {
+          "text": "A recent study of forests in the USVI and Puerto Rico found that climate is the overarching influence on forest species composition when recovering from deforestation; all other factors are secondary to the influence of climate (Brandeis et al 2009).",
+          "location": "Climate Change",
+          "sub_component": null,
+          "citations": ["Brandeis et al 2009"]
+        }
+      ],
+      "absence_note": "The Buck Island case study provides limited but real applied evidence for invasive species management actions. However, this evidence is specific to a small isolated island and primarily supports invasive species control, not climate adaptation per se. The climate-related actions (coastal protection from sea level rise, wildfire management) are supported only by general references (UNEP 2008, IPCC 2007) without action-specific efficacy evidence. Score 2 (limited evidence) reflects the single local case study plus general literature citations but absence of strong, directly applicable evidence for the range of climate-related actions proposed.",
+      "projects": ["National Park Service Buck Island invasive species control (St. Croix, USVI): Starting in 2003, the NPS targeted the three most invasive plants on Buck Island in an island-wide eradication project. By 2010, 85% control was achieved. This provides localized, directly applicable evidence that invasive species management can succeed in USVI conditions, though the small isolated island setting limits generalizability to larger landscapes."]
+    },
+    "adaptation_planning_frameworks": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "The Forest Service strategy for dealing with climate change is based on years of targeted research and a century of science and management experience on public and private forest land.",
+          "location": "Introduction (Conservation Education section)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document references the US Forest Service's approach to climate change in its Conservation Education section but does not name or apply any specific climate adaptation planning framework (RAD, RRT, CCVA, SBDA, structured decision making, etc.). The reference to a USFS strategy for climate change is generic and non-specific. Score 1 (non-specific reference to climate adaptation planning) rather than 2 because no named framework is operationalized."
+    }
+  },
+  "coding_meta": {
+    "coder": "llm:claude-sonnet-4-6",
+    "model": "claude-sonnet-4-6",
+    "provider": "claude",
+    "codebook_version": "0.4",
+    "ingest": "text",
+    "design": "single",
+    "temperature": null,
+    "thinking": null,
+    "thinking_effort": null,
+    "coded_at": "2026-07-07T00:31:33Z",
+    "notes": {}
+  }
+}

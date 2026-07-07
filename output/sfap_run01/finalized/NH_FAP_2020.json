@@ -1,0 +1,699 @@
+{
+  "document_meta": {
+    "title": "2020 New Hampshire State Forest Action Plan",
+    "year": 2020,
+    "jurisdiction": "New Hampshire",
+    "document_type": "State Forest Action Plan",
+    "document_id": "NH_FAP_2020",
+    "page_count": 244
+  },
+  "orientation": {
+    "summary": "This is the 2020 New Hampshire State Forest Action Plan (SFAP), a comprehensive state-level forest management and assessment document produced by the NH Division of Forests and Lands. The document addresses climate change as an emerging stressor on forest ecosystems, devoting a dedicated section and focus area to it, and acknowledges that climate change will shift species distributions, alter habitat suitability, and favor invasive pests. The plan's posture toward range shifts is present but largely framed in terms of habitat suitability change and resilience rather than explicit facilitation of species movement; it references the Nature Conservancy's Resilient and Connected Landscapes framework and the Climate Change Tree Atlas projections as external analyses rather than performing its own modeling. Actions proposed are largely generic forest management adaptations, with specific mentions of resistance-resilience-transition (RRT) framing and the Northern Institute of Applied Climate Science materials; monitoring and deadlines are aspirational rather than operationalized at the action level.",
+    "evidence_index": [
+      {
+        "text": "While the science of climate change is still developing, it unclear what type of scenarios we will be facing in the future (based on different carbon output models). What is known is that it will be an additional stressor on our forests. Individual tree species may react differently, with some potentially benefitting; but the natural community as a whole will likely be negatively impacted.",
+        "location": "Executive Summary – Climate Change",
+        "relevant_elements": ["1.1", "1.2", "3.5"]
+      },
+      {
+        "text": "A healthy, diverse forest will not only be more resilient to the impacts, it will also play a critical role in the capture and storage of carbon, thereby reducing potentially worse consequences.",
+        "location": "Executive Summary – Climate Change",
+        "relevant_elements": ["1.2", "4.5"]
+      },
+      {
+        "text": "The earth's climate is changing, posing significant risks and challenges for New Hampshire forests. Since the mid-20th century, scientists have recorded an unprecedented warming of temperatures across the earth. The scientific consensus is that the cause is due to human influences, also known as the anthropogenic climate change.",
+        "location": "Climate Change (assessment section)",
+        "relevant_elements": ["1.1"]
+      },
+      {
+        "text": "model projects future suitable habitat of tree species, and suggests that spruce and fir will decline across the region, as will most of the northern conifer species (Janowiak et al. 2017). These species have long been vital to NH's forest products economy and provide critical wildlife habitat. Some species, such as red maple, black cherry and red oak, may see increased habitat suitability with a changing climate.",
+        "location": "Climate Change (assessment section)",
+        "relevant_elements": ["1.1", "2.2", "3.3", "3.5", "C2"]
+      },
+      {
+        "text": "Sugar maple is a good example of a species that may be significantly affected by climate change, as it has fairly specific soil requirements; a species like this may not be able to shift its range within the region with greater warming expected under the high emissions scenario due to soil limitations.",
+        "location": "Climate Change (assessment section)",
+        "relevant_elements": ["1.1", "1.2", "1.3", "C2"]
+      },
+      {
+        "text": "The gradual shift in the vegetative species composition will correspondingly create changes in habitat types and distribution. These changes in habitat may have less of an impact to some species while others will feel these effects more profoundly. Species that are more mobile may have a greater ability to shift into habitats that have experienced less change and remain more suitable.",
+        "location": "Wildlife (assessment section – Climate Change impacts)",
+        "relevant_elements": ["1.2", "1.3", "C2"]
+      },
+      {
+        "text": "Species which can only move short distances or are more restricted in their habitat suitability may experience accelerated declines or disappear locally in the event that habitat conditions change considerably over time.",
+        "location": "Wildlife (assessment section – Climate Change impacts)",
+        "relevant_elements": ["1.2", "1.3"]
+      },
+      {
+        "text": "As a result, forestlands that continue to be favorable to the growth of softwood as the climate changes (known as refugia) may have increased importance for wildlife habitat over time as the abundance of evergreen species declines in New Hampshire.",
+        "location": "Wildlife (assessment section – Climate Change impacts)",
+        "relevant_elements": ["1.4", "4.1", "C2"]
+      },
+      {
+        "text": "Warming temperatures and a corresponding decrease in the extent and duration of snowpack will likely also influence wildlife distribution. Mammals adapted to snow, such as snowshoe hare, may shift to habitats at higher elevations where snow is more certain.",
+        "location": "Wildlife (assessment section – Climate Change impacts)",
+        "relevant_elements": ["1.1", "1.3", "C2"]
+      },
+      {
+        "text": "Species that are more mobile may have a greater ability to shift into habitats that have experienced less change and remain more suitable. Species which can only move short distances or are more restricted in their habitat suitability may experience accelerated declines or disappear locally",
+        "location": "Wildlife (assessment section – Climate Change impacts)",
+        "relevant_elements": ["1.2", "1.3"]
+      },
+      {
+        "text": "The Nature Conservancy's Resilient and Connected Landscapes science identifies areas that, if maintained and conserved as natural habitat, offer the best opportunity for conserving our native biodiversity both now and into the future given climate change. The analysis incorporates three key aspects: (1) ensuring representation of the different environmental conditions (termed \"geophysical settings\") needed for all native species; (2) within each of these settings, selecting those sites that will be most likely to withstand the effects of climate change (\"resilient sites\"); and (3) ensuring these sites are connected at large scales, allowing the range of species to shift over time in response to climate change (\"landscape connectivity\").",
+        "location": "Resiliency to Climate Change (assessment section)",
+        "relevant_elements": ["1.4", "2.4", "4.1", "4.5"]
+      },
+      {
+        "text": "Figure 27 shows the results of this analysis for New Hampshire, highlighting the resilient and connected network of lands in relation to existing conservation lands.",
+        "location": "Resiliency to Climate Change (assessment section)",
+        "relevant_elements": ["1.4", "2.4", "4.1"]
+      },
+      {
+        "text": "Increased summer temperatures, increasing risk of drought, and more variable summer precipitation increase the risk of stress on riparian and floodplain vegetation due to lower summer flows.",
+        "location": "Climate Change (assessment section)",
+        "relevant_elements": ["3.5"]
+      },
+      {
+        "text": "Major river and stream flooding events are generally expected to increase in frequency and intensity in the Northeast as a result of the increases in heavy precipitation events (Demaria et al. 2016).",
+        "location": "Water Resources (assessment section – Climate Change impacts)",
+        "relevant_elements": ["3.5"]
+      },
+      {
+        "text": "Warmer air temperatures and longer growing seasons can increase water temperatures, making water bodies less suitable for trout and other coldwater species, even in the absence of increased hydrological variability.",
+        "location": "Water Resources (assessment section – Climate Change impacts)",
+        "relevant_elements": ["3.5", "3.6"]
+      },
+      {
+        "text": "Populations of fish or other aquatic organisms that are already isolated as a result of river fragmentation may be particularly susceptible to additional stresses resulting from climate change. In such cases, fragmentation reduces the ability for species to recolonize an area where they have been extirpated",
+        "location": "Water Resources (assessment section – Climate Change impacts)",
+        "relevant_elements": ["1.4", "3.5"]
+      },
+      {
+        "text": "many insect pests and invasive plant species may be able to expand their ranges northward in response to warmer temperatures (Ramsfield et al. 2016, Ziska et al. 2009). Some insect pests and invasive plants have so far been prevented from establishing or increasing in population in northern NH due to the cold winters, and warming temperatures decrease the probability of cold lethal temperatures.",
+        "location": "Forest Health (assessment section – Climate Change impacts)",
+        "relevant_elements": ["3.7"]
+      },
+      {
+        "text": "For example, mortality of hemlock woolly adelgid is dependent on cold temperatures during winter as well as the timing of cold snaps. Warming trends will limit the probability of occurrence of cold lethal temperatures in NH and we will likely see northward migration of this and other insect species.",
+        "location": "Forest Health (assessment section – Climate Change impacts)",
+        "relevant_elements": ["3.7"]
+      },
+      {
+        "text": "it is anticipated that climate change may exacerbate the detrimental impacts of invasive plants by facilitating the northern migration into NH of species not yet present or currently very limited.",
+        "location": "Terrestrial Invasive Plants",
+        "relevant_elements": ["3.7"]
+      },
+      {
+        "text": "Table 8 Projections for future suitable habitat Source: USDA Forest Service Climate Change Atlas ... Low Climate Change (RCP 4.5) High Climate Change (RCP 8.5)",
+        "location": "CLIMATE CHANGE PROJECTIONS FOR TREE SPECIES IN NEW HAMPSHIRE / Table 8",
+        "relevant_elements": ["2.2", "2.3"]
+      },
+      {
+        "text": "Resilient and Connected Landscapes are zones found to exhibit high ecological diversity. These areas are best fit to provide refuge form the possible impact of climate change.",
+        "location": "Priority Landscapes – Rural Forest Priority Areas",
+        "relevant_elements": ["1.4", "4.1"]
+      },
+      {
+        "text": "Climate Change: Resilient and Connected Landscapes (TNC) o Lands classified as climate flow zones and climate corridors = 1",
+        "location": "Priority Landscapes – Forest Stewardship Priority Areas (figure caption/analysis description)",
+        "relevant_elements": ["1.4", "2.4", "4.1"]
+      },
+      {
+        "text": "Focus on connected forested parcels and corridors for species movement and migration.",
+        "location": "FOCUS AREA – FOREST ECOLOGY / Goal strategies",
+        "relevant_elements": ["1.4", "4.2"]
+      },
+      {
+        "text": "Identify large forest blocks suitable for forest management, providing landscape resiliency, watershed protection, opportunities for species to migrate and other ecosystem services using the most recent available science and tools.",
+        "location": "FOCUS AREA – LAND CONSERVATION / Goal strategies",
+        "relevant_elements": ["1.4", "4.2"]
+      },
+      {
+        "text": "19. Incorporate adaptation strategies for climate change in forest management plans that include resistance, resilience and transition.",
+        "location": "FOCUS AREA – CLIMATE CHANGE / Strategies",
+        "relevant_elements": ["4.5"]
+      },
+      {
+        "text": "Expand the availability of climate adaptation workshops for forest land managers, such as are offered by the Northern Institute of Applied Climate Science and others.",
+        "location": "FOCUS AREA – CLIMATE CHANGE / Strategies",
+        "relevant_elements": ["4.5"]
+      },
+      {
+        "text": "Encourage the use of resources like Increasing Forest Resiliency for an Uncertain Future",
+        "location": "FOCUS AREA – CLIMATE CHANGE / Strategies",
+        "relevant_elements": ["4.5"]
+      },
+      {
+        "text": "Incorporate climate-resilient forest management considerations and guidance into the next update of Good Forestry in the Granite State.",
+        "location": "FOCUS AREA – CLIMATE CHANGE / Strategies",
+        "relevant_elements": ["4.5"]
+      },
+      {
+        "text": "Climate change impacts the health and diversity of New Hampshire's forests. Changes already occurring to New Hampshire's climate include warmer winters, reduced snowfall and snow-on-ground days, increased rainfall, rising sea level, and more severe weather events that result in increased risk of flooding. Potential impacts on forests may include a reduction in suitable habitat for boreal species like balsam fir, red spruce and black spruce and greater abundance of species with a current range that extends to southern New England such as red maple, northern red oak, black cherry, and American basswood",
+        "location": "FOCUS AREA – CLIMATE CHANGE",
+        "relevant_elements": ["1.1", "3.5", "C2"]
+      },
+      {
+        "text": "Warmer temperatures may also favor invasive plants, insects and diseases, further stressing New Hampshire's forests.",
+        "location": "FOCUS AREA – CLIMATE CHANGE",
+        "relevant_elements": ["3.7"]
+      },
+      {
+        "text": "Contribute to the important forest areas with core forest habitats and existing conservation lands to support the viability of forest product industry, and enhance natural resource protection, wildlife connectivity, climate change resiliency and biodiversity.",
+        "location": "Eligibility Criteria – Criteria 2 (Forest Legacy section)",
+        "relevant_elements": ["1.4", "4.1"]
+      },
+      {
+        "text": "Within the Northeast, temperatures increased by approximately 2.4 ⁰F (1.3 ⁰C) between 1901 and 2011 (Janowiak et al. 2017). In New Hampshire, average annual temperatures have increased 3 ⁰F with the greatest warming occurring during the winter with an increase of about 4 ⁰F since 1900",
+        "location": "Climate Change figure caption (temperature trend figure)",
+        "relevant_elements": ["1.1", "2.3"]
+      },
+      {
+        "text": "by the year 2100 the growing season is predicted to be extended by 3-7 weeks in southern New Hampshire and by 2-5 weeks in northern New Hampshire depending on the emission's scenario(Wake et al. 2014).",
+        "location": "Climate Change figure caption (temperature trend figure)",
+        "relevant_elements": ["2.3", "3.7"]
+      },
+      {
+        "text": "Encourage the use of the Forest Adaptation Resources or other Northern Institute of Applied Climate Science materials.",
+        "location": "FOCUS AREA – FOREST MANAGEMENT / Strategy 14",
+        "relevant_elements": ["4.5"]
+      },
+      {
+        "text": "Identify and implement actions that help ecosystems adapt to climate change and other changing stressors.",
+        "location": "FOCUS AREA – FOREST MANAGEMENT / Strategy 13",
+        "relevant_elements": ["4.2", "4.5"]
+      },
+      {
+        "text": "Saltmarshes, warm-water rivers and streams, dunes, lowland spruce-fir forest, and vernal pools had the greatest number of high-ranking threats. Commercial and residential development, pollution, disease, and climate change are among the higher-ranking risk factors that impact the health of wildlife populations and habitats.",
+        "location": "Fish & Wildlife Habitat",
+        "relevant_elements": ["1.1", "3.5"]
+      },
+      {
+        "text": "Funding for forest land conservation comes from many sources. Federal sources include the USDA Forest Service Forest Legacy Program, US Fish and Wildlife Service, and the Natural Resources Conservation Service.",
+        "location": "FOCUS AREA – LAND CONSERVATION",
+        "relevant_elements": ["3.4"]
+      }
+    ]
+  },
+  "concepts": {
+    "climate_vulnerability": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Saltmarshes, warm-water rivers and streams, dunes, lowland spruce-fir forest, and vernal pools had the greatest number of high-ranking threats. Commercial and residential development, pollution, disease, and climate change are among the higher-ranking risk factors that impact the health of wildlife populations and habitats.",
+          "location": "Fish & Wildlife Habitat",
+          "sub_component": "exposure",
+          "citations": []
+        },
+        {
+          "text": "Sugar maple is a good example of a species that may be significantly affected by climate change, as it has fairly specific soil requirements; a species like this may not be able to shift its range within the region with greater warming expected under the high emissions scenario due to soil limitations.",
+          "location": "Climate Change (assessment section)",
+          "sub_component": "exposure",
+          "citations": []
+        },
+        {
+          "text": "Species that are more mobile may have a greater ability to shift into habitats that have experienced less change and remain more suitable. Species which can only move short distances or are more restricted in their habitat suitability may experience accelerated declines or disappear locally",
+          "location": "Wildlife (assessment section – Climate Change impacts)",
+          "sub_component": "adaptive capacity",
+          "citations": []
+        }
+      ],
+      "absence_note": "The document references both climate exposure (temperature projections, drought, sea level rise as stressors on species and habitats) and implicitly discusses adaptive capacity (mobility of species, soil limitations constraining range shifts). However, it does not use the formal IPCC tripartite vulnerability framework (exposure + sensitivity + adaptive capacity) explicitly. Score 2 is appropriate: exposure is clearly referenced; adaptive capacity is discussed informally (mobility, soil constraints) but never labeled as such. Score 3 would require both axes to be explicitly engaged."
+    },
+    "adaptive_capacity_specificity": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Species that are more mobile may have a greater ability to shift into habitats that have experienced less change and remain more suitable. Species which can only move short distances or are more restricted in their habitat suitability may experience accelerated declines or disappear locally",
+          "location": "Wildlife (assessment section – Climate Change impacts)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "Adaptive capacity is discussed informally through references to species mobility and habitat suitability constraints, but these are not labeled as 'adaptive capacity' and no formal components (dispersal, evolutionary potential, demographic resilience) are named. The term 'adaptive capacity' does not appear. Score 1 rather than 2 because no specific components are operationally defined."
+    },
+    "adaptive_capacity_components": {
+      "demography": {
+        "present": false,
+        "evidence": []
+      },
+      "distribution": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "model projects future suitable habitat of tree species, and suggests that spruce and fir will decline across the region, as will most of the northern conifer species (Janowiak et al. 2017). Some species, such as red maple, black cherry and red oak, may see increased habitat suitability with a changing climate.",
+            "location": "Climate Change (assessment section)",
+            "sub_component": null,
+            "citations": ["Janowiak et al. 2017"]
+          }
+        ]
+      },
+      "movement": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Species that are more mobile may have a greater ability to shift into habitats that have experienced less change and remain more suitable. Species which can only move short distances or are more restricted in their habitat suitability may experience accelerated declines or disappear locally",
+            "location": "Wildlife (assessment section – Climate Change impacts)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "evolutionary_potential": {
+        "present": false,
+        "evidence": []
+      },
+      "ecological_dependencies": {
+        "present": false,
+        "evidence": []
+      },
+      "abiotic_niche": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Sugar maple is a good example of a species that may be significantly affected by climate change, as it has fairly specific soil requirements; a species like this may not be able to shift its range within the region with greater warming expected under the high emissions scenario due to soil limitations.",
+            "location": "Climate Change (assessment section)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "life_history": {
+        "present": false,
+        "evidence": []
+      }
+    },
+    "connectivity": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "The Nature Conservancy's Resilient and Connected Landscapes science identifies areas that, if maintained and conserved as natural habitat, offer the best opportunity for conserving our native biodiversity both now and into the future given climate change... (3) ensuring these sites are connected at large scales, allowing the range of species to shift over time in response to climate change (\"landscape connectivity\").",
+          "location": "Resiliency to Climate Change (assessment section)",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Climate Change: Resilient and Connected Landscapes (TNC) o Lands classified as climate flow zones and climate corridors = 1",
+          "location": "Priority Landscapes – Forest Stewardship Priority Areas (figure caption/analysis description)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    }
+  },
+  "tools": {
+    "vulnerability_models": {
+      "evaluable": true,
+      "score": 0,
+      "named_tools": [],
+      "evidence": [],
+      "absence_note": "No vulnerability model (e.g., CCVI, PVA) is referenced or applied. The WAP is referenced for species/habitat risk rankings but no formal climate vulnerability assessment framework is used."
+    },
+    "niche_models": {
+      "evaluable": true,
+      "score": 2,
+      "named_tools": ["Climate Change Tree Atlas"],
+      "evidence": [
+        {
+          "text": "Table 8 Projections for future suitable habitat Source: USDA Forest Service Climate Change Atlas ... Low Climate Change (RCP 4.5) High Climate Change (RCP 8.5)",
+          "location": "CLIMATE CHANGE PROJECTIONS FOR TREE SPECIES IN NEW HAMPSHIRE / Table 8",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "model projects future suitable habitat of tree species, and suggests that spruce and fir will decline across the region, as will most of the northern conifer species (Janowiak et al. 2017).",
+          "location": "Climate Change (assessment section)",
+          "sub_component": null,
+          "citations": ["Janowiak et al. 2017"]
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_models": {
+      "evaluable": true,
+      "score": 1,
+      "named_tools": [],
+      "evidence": [
+        {
+          "text": "by the year 2100 the growing season is predicted to be extended by 3-7 weeks in southern New Hampshire and by 2-5 weeks in northern New Hampshire depending on the emission's scenario(Wake et al. 2014).",
+          "location": "Climate Change figure caption (temperature trend figure)",
+          "sub_component": null,
+          "citations": ["Wake et al. 2014"]
+        }
+      ],
+      "absence_note": "The document references RCP 4.5 and RCP 8.5 scenarios in Table 8 for the Climate Change Tree Atlas projections, and mentions emission scenarios in passing with projections to 2100, but does not name a specific GCM or downscaling product. The RCP scenarios are cited as part of the Climate Change Tree Atlas output; climate model projections are referenced generally (temperature increases cited from published sources) rather than any new climate modeling being applied. Score 1 rather than 2 because no specific climate model is applied directly to NH management decisions.",
+      "time_horizon_years": [2100],
+      "emission_scenarios": ["RCP 4.5", "RCP 8.5"]
+    },
+    "connectivity_models": {
+      "evaluable": true,
+      "score": 2,
+      "named_tools": [],
+      "evidence": [
+        {
+          "text": "The Nature Conservancy's Resilient and Connected Landscapes science identifies areas that, if maintained and conserved as natural habitat, offer the best opportunity for conserving our native biodiversity both now and into the future given climate change. The analysis incorporates three key aspects: (1) ensuring representation of the different environmental conditions (termed \"geophysical settings\") needed for all native species; (2) within each of these settings, selecting those sites that will be most likely to withstand the effects of climate change (\"resilient sites\"); and (3) ensuring these sites are connected at large scales, allowing the range of species to shift over time in response to climate change (\"landscape connectivity\").",
+          "location": "Resiliency to Climate Change (assessment section)",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Climate Change: Resilient and Connected Landscapes (TNC) o Lands classified as climate flow zones and climate corridors = 1",
+          "location": "Priority Landscapes – Forest Stewardship Priority Areas (figure caption/analysis description)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document incorporates results of TNC's Resilient and Connected Landscapes analysis (including climate flow zones and climate corridors) into the Rural Forest Priority Areas overlay and the Forest Stewardship Priority area analysis. While the software used is not named, the codebook explicitly allows application when modeling output shapes management decisions for focal subjects. The results are directly used to identify priority stewardship areas in NH."
+    }
+  },
+  "context": {
+    "management_scale": {
+      "local": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Focus on connected forested parcels and corridors for species movement and migration.",
+            "location": "FOCUS AREA – FOREST ECOLOGY / Goal strategies",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "site": {
+        "present": false,
+        "evidence": []
+      },
+      "watershed": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Ability to Produce Clean Water ranks watersheds by the benefits they provide to their respective water resources based on the amount of forest cover.",
+            "location": "Priority Landscapes – Rural Forest Priority Areas",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "city": {
+        "present": false,
+        "evidence": []
+      },
+      "county": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Figure 7 shows the percent change in size classes by county between 2008 and 2018. All counties show a trend toward larger diameter stands, with Sullivan, Rockingham, and Grafton counties seeing the greatest percent increases.",
+            "location": "Total Area of Forest Land & Forest Land Trends",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "within_state_region": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The four identified Forest Legacy Areas reflect both important values present in forested areas and current threats to the forest. The North Country FLA was initially identified in the first Assessment of Need (1994), and the Connecticut River Valley, Monadnock / Merrimack Uplands, and Pawtuckaway and Lakes / Coastal Plain Forest Legacy Areas were added in the 2000 Assessment of Need.",
+            "location": "Forest Legacy Program – Forest Legacy Areas",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "state": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Climate change impacts the health and diversity of New Hampshire's forests. Changes already occurring to New Hampshire's climate include warmer winters, reduced snowfall and snow-on-ground days, increased rainfall, rising sea level, and more severe weather events",
+            "location": "FOCUS AREA – CLIMATE CHANGE",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "multistate": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Northern Forest Lands (NFL) -New Hampshire's northern most county (Coos) lies within the planning area for NFL which stretches over 20 million acres from Maine to New York.",
+            "location": "Multi-State Priorities",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "national": {
+        "present": false,
+        "evidence": []
+      },
+      "transnational": {
+        "present": false,
+        "evidence": []
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "model projects future suitable habitat of tree species, and suggests that spruce and fir will decline across the region, as will most of the northern conifer species (Janowiak et al. 2017). These species have long been vital to NH's forest products economy and provide critical wildlife habitat.",
+            "location": "Climate Change (assessment section)",
+            "sub_component": null,
+            "citations": ["Janowiak et al. 2017"]
+          }
+        ]
+      },
+      "ecoregion": {
+        "present": false,
+        "evidence": []
+      },
+      "province": {
+        "present": false,
+        "evidence": []
+      },
+      "section": {
+        "present": false,
+        "evidence": []
+      },
+      "subsection": {
+        "present": false,
+        "evidence": []
+      },
+      "lake": {
+        "present": false,
+        "evidence": []
+      },
+      "river": {
+        "present": false,
+        "evidence": []
+      },
+      "district": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["North Country Forest Legacy Area", "Connecticut River Valley Forest Legacy Area", "Monadnock/Merrimack Uplands Forest Legacy Area", "Pawtuckaway and Lakes/Coastal Plain Forest Legacy Area", "White Mountain National Forest", "Northern Forest Lands", "Quabbin to Cardigan Corridor"]
+    },
+    "biological_unit_score": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "model projects future suitable habitat of tree species, and suggests that spruce and fir will decline across the region, as will most of the northern conifer species (Janowiak et al. 2017).",
+          "location": "Climate Change (assessment section)",
+          "sub_component": "species",
+          "citations": ["Janowiak et al. 2017"]
+        },
+        {
+          "text": "Climate change impacts the health and diversity of New Hampshire's forests. Changes already occurring to New Hampshire's climate include warmer winters, reduced snowfall and snow-on-ground days... Potential impacts on forests may include a reduction in suitable habitat for boreal species like balsam fir, red spruce and black spruce",
+          "location": "FOCUS AREA – CLIMATE CHANGE",
+          "sub_component": "habitat",
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "biological_unit_components": {
+      "species": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "model projects future suitable habitat of tree species, and suggests that spruce and fir will decline across the region, as will most of the northern conifer species (Janowiak et al. 2017). Some species, such as red maple, black cherry and red oak, may see increased habitat suitability with a changing climate.",
+            "location": "Climate Change (assessment section)",
+            "sub_component": null,
+            "citations": ["Janowiak et al. 2017"]
+          }
+        ]
+      },
+      "population": {
+        "present": false,
+        "evidence": []
+      },
+      "habitat": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Potential impacts on forests may include a reduction in suitable habitat for boreal species like balsam fir, red spruce and black spruce and greater abundance of species with a current range that extends to southern New England such as red maple, northern red oak, black cherry, and American basswood",
+            "location": "FOCUS AREA – CLIMATE CHANGE",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "As a result, forestlands that continue to be favorable to the growth of softwood as the climate changes (known as refugia) may have increased importance for wildlife habitat over time as the abundance of evergreen species declines in New Hampshire.",
+            "location": "Wildlife (assessment section – Climate Change impacts)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "community": {
+        "present": false,
+        "evidence": []
+      },
+      "genotype_phenotype": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["spruce", "fir", "balsam fir", "red spruce", "black spruce", "red maple", "northern red oak", "black cherry", "American basswood", "sugar maple", "yellow birch", "snowshoe hare", "hemlock woolly adelgid", "High-elevation spruce-fir", "Lowland spruce-fir", "Appalachian oak-pine", "Hemlock-hardwood-pine", "Northern hardwood-conifer"]
+    },
+    "partnerships_and_funding": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Funding for forest land conservation comes from many sources. Federal sources include the USDA Forest Service Forest Legacy Program, US Fish and Wildlife Service, and the Natural Resources Conservation Service. State funding resources include the Land and Community Heritage Investment Program",
+          "location": "FOCUS AREA – LAND CONSERVATION",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document describes funding sources and partnerships broadly for forest conservation generally, but does not specifically allocate funding or name active partnerships for climate change range-shift work. Partnerships mentioned (TNC, USFS, NGOs) are for general conservation; the climate-specific strategies (e.g., Strategy 19 on adaptation) list aspirational actions without dedicated funding or named partners. Score 1 rather than 2."
+    },
+    "climate_threat_habitat_degradation": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Increased summer temperatures, increasing risk of drought, and more variable summer precipitation increase the risk of stress on riparian and floodplain vegetation due to lower summer flows.",
+          "location": "Climate Change (assessment section)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_threat_species_vital_rates": {
+      "evaluable": true,
+      "score": 0,
+      "evidence": [],
+      "absence_note": "The document discusses climate-driven habitat change and indirect impacts on species, and mentions increasing water temperatures making water bodies less suitable for trout, but this is framed as habitat suitability change rather than direct vital rate impacts. No passages explicitly describe climate events directly killing organisms or causing reproductive failure. The discussion of hemlock woolly adelgid mortality dependent on cold temperatures is about pest population control, not host species vital rates."
+    },
+    "climate_threat_biotic_stressors": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "many insect pests and invasive plant species may be able to expand their ranges northward in response to warmer temperatures (Ramsfield et al. 2016, Ziska et al. 2009). Some insect pests and invasive plants have so far been prevented from establishing or increasing in population in northern NH due to the cold winters, and warming temperatures decrease the probability of cold lethal temperatures.",
+          "location": "Forest Health (assessment section – Climate Change impacts)",
+          "sub_component": null,
+          "citations": ["Ramsfield et al. 2016", "Ziska et al. 2009"]
+        }
+      ],
+      "absence_note": {}
+    }
+  },
+  "actions": {
+    "priority_habitat_identification": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "The Nature Conservancy's Resilient and Connected Landscapes science identifies areas that, if maintained and conserved as natural habitat, offer the best opportunity for conserving our native biodiversity both now and into the future given climate change... Figure 27 shows the results of this analysis for New Hampshire, highlighting the resilient and connected network of lands in relation to existing conservation lands.",
+          "location": "Resiliency to Climate Change (assessment section)",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Resilient and Connected Landscapes are zones found to exhibit high ecological diversity. These areas are best fit to provide refuge form the possible impact of climate change.",
+          "location": "Priority Landscapes – Rural Forest Priority Areas",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "targeted_range_shift_actions": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Identify large forest blocks suitable for forest management, providing landscape resiliency, watershed protection, opportunities for species to migrate and other ecosystem services using the most recent available science and tools.",
+          "location": "FOCUS AREA – LAND CONSERVATION / Goal strategies",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document proposes structural facilitation through identification and conservation of climate corridors and resilient landscapes (Strategy 23 land conservation goal includes 'opportunities for species to migrate'). No direct manipulation (translocation, assisted migration) is proposed. Score 1 for structural facilitation."
+    },
+    "time_bound_and_monitoring": {
+      "evaluable": true,
+      "score": 0,
+      "evidence": [],
+      "absence_note": "The document's climate-change strategies (18, 19) are written as broad aspirational directions without specific deadlines or milestones attached. No action-level deadlines are specified for the climate-related strategies, and effectiveness monitoring is not operationalized at the action level for climate change actions. A 10-year plan revision cycle is implied by statute but not tied to specific action-level monitoring. Score 0 is appropriate."
+    },
+    "evidence_of_efficacy": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Encourage the use of resources like Increasing Forest Resiliency for an Uncertain Future",
+          "location": "FOCUS AREA – CLIMATE CHANGE / Strategies",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document references general resources (Northern Institute of Applied Climate Science materials, 'Increasing Forest Resiliency for an Uncertain Future') as the basis for adaptation strategies, and frames these as best-practice guidance without presenting evidence of efficacy from case studies or prior project evaluations. General ecological principles (resilient forests, diverse forests) are stated as rationale but no studies testing the actions are cited. Score 1: rationale is outlined but no evidence to support the specific actions is presented.",
+      "projects": []
+    },
+    "adaptation_planning_frameworks": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "19. Incorporate adaptation strategies for climate change in forest management plans that include resistance, resilience and transition.",
+          "location": "FOCUS AREA – CLIMATE CHANGE / Strategies",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Encourage the use of the Forest Adaptation Resources or other Northern Institute of Applied Climate Science materials.",
+          "location": "FOCUS AREA – FOREST MANAGEMENT / Strategy 14",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    }
+  },
+  "coding_meta": {
+    "coder": "llm:claude-sonnet-4-6",
+    "model": "claude-sonnet-4-6",
+    "provider": "claude",
+    "codebook_version": "0.4",
+    "ingest": "text",
+    "design": "single",
+    "temperature": null,
+    "thinking": null,
+    "thinking_effort": null,
+    "coded_at": "2026-07-07T00:31:32Z",
+    "notes": {}
+  }
+}

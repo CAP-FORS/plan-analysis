@@ -1,0 +1,641 @@
+{
+  "document_meta": {
+    "title": "Indiana Forest Action Plan Update",
+    "year": 2020,
+    "jurisdiction": "Indiana",
+    "document_type": "Forest Action Plan",
+    "document_id": "IN_FAP_2020",
+    "page_count": 214
+  },
+  "orientation": {
+    "summary": "The 2020 Indiana Forest Action Plan (FAP) is a state-level forest resource planning document produced by the Indiana DNR Division of Forestry, updating the 2010 Statewide Forest Assessment and Strategy. The document addresses sustainability of Indiana's approximately 5 million acres of forest land across public and private ownership, with a primary focus on fragmentation, invasive species, oak regeneration, urban forests, and wood products markets. Climate change receives minimal but explicit treatment in a short dedicated section, primarily noting altered weather patterns, insect population effects, and referencing a Purdue University report on future forest responses; it is not a central organizing framework. Range shift science is almost entirely absent: the document does not discuss climate-driven species range shifts, climate vulnerability of species, or systematic adaptation actions targeting range shifts, though it tangentially mentions connectivity and habitat for wildlife. The document performs its own spatial analysis for the Forest Legacy Program AON and references the Indiana SWAP for wildlife priorities, but does not conduct any vulnerability, niche, or climate modeling itself.",
+    "evidence_index": [
+      {
+        "text": "Climate change is increasingly affecting Indiana and resulting in wetter winters during which the ground does not freeze solid for long periods, longer summer droughts, and increasing numbers of days that exceed 90 degrees.",
+        "location": "Climate Change",
+        "relevant_elements": ["1.1", "3.5", "3.6"]
+      },
+      {
+        "text": "It is also resulting in some warmer winters that enable certain insect populations to have increased numbers of breeding cycles, such as occurred with tulip tree scale in the 2010s.",
+        "location": "Climate Change",
+        "relevant_elements": ["3.7", "3.6"]
+      },
+      {
+        "text": "A publication by Purdue University, 'Indiana's Future Forests: A Report from the Indiana Climate Change Impacts Assessment', details how Indiana forests will respond to climate change over the next century. According to its summary materials, 'expected changes include shifts in the distributions and abundances of trees, understory plants and wildlife, as well as changes in the environmental, economic and cultural benefits these forests provide.'",
+        "location": "Climate Change",
+        "relevant_elements": ["1.1", "1.3", "2.2", "3.3"]
+      },
+      {
+        "text": "The long-term sustainability of forested ecosystems is affected by the ability of these systems to provide genetic response to stress, disease or disasters. Forest systems are complex, and genetic transfer is influenced by a multitude of interacting forces from climate changes to fluctuations in wildlife population. Fragmentation inhibits this transfer and weakens the overall systems' ability to adapt and respond to environmental change.",
+        "location": "Fragmentation",
+        "relevant_elements": ["1.2", "1.3", "1.4"]
+      },
+      {
+        "text": "Large forest patches within low forested areas can be considered refugia for species that remain and highly important to dispersal, migration and other ecologic functions. Connectivity and dispersal corridors are of major importance for sustainable biological diversity.",
+        "location": "Map: 2019 Above Average Forest Patches by Natural Region",
+        "relevant_elements": ["1.4", "4.1", "4.2"]
+      },
+      {
+        "text": "Fragmentation inhibits this transfer and weakens the overall systems' ability to adapt and respond to environmental change. This issue considers ecological aspects of fragmentation as well as economic aspects.",
+        "location": "Fragmentation",
+        "relevant_elements": ["1.2", "1.4"]
+      },
+      {
+        "text": "Roads also present major barriers for successful dispersal for some forest wildlife and plant species.",
+        "location": "Fragmentation",
+        "relevant_elements": ["1.3", "1.4"]
+      },
+      {
+        "text": "top actions of forest conservation included protection of contiguous forest areas, limiting forestland conversion and fragmentation, reduction of development within forested communities, and maintaining appropriate habitat corridors and connectivity (Indiana SWAP, Chapter 6).",
+        "location": "Fragmentation",
+        "relevant_elements": ["1.4", "4.1", "4.2"]
+      },
+      {
+        "text": "5.1 Promote species diversity in urban canopies to reduce susceptibility to forest pests and increase climate change and overall urban forest resilience.",
+        "location": "Action Steps",
+        "relevant_elements": ["1.1", "1.2", "4.5"]
+      },
+      {
+        "text": "2.10 Discourage the planting of species that readily establish themselves in federal funded and private sector tree planting programs and encourage planting tree species best adapted to changing climate.",
+        "location": "Strategy 2 Action Steps",
+        "relevant_elements": ["1.2", "4.2", "4.5"]
+      },
+      {
+        "text": "2.4 Increase promotion of federal programs for planting trees in agricultural areas that frequently flood while also promoting tree species for planting projects that do not readily establish themselves (as mentioned in other action steps) -beyond carbon sequestration benefits, this action will address negative climate change impacts associated with increased heavy rain events.",
+        "location": "Strategy 2 Action Steps",
+        "relevant_elements": ["3.5", "4.2"]
+      },
+      {
+        "text": "forests play an important role in the carbon cycle and store carbon in their biomass. According to the Center for International Forestry Research website, forests are also 'important for reducing [climate change's] current and future effects on people.'",
+        "location": "Climate Change",
+        "relevant_elements": ["1.1"]
+      },
+      {
+        "text": "Manage trees and forests to mitigate and adapt to global climate change Relevant associated Indiana Action Steps: 3.18 (forest restoration)",
+        "location": "National Priorities Crosswalk / ADDITIONAL LETTERS AND COMMENTS",
+        "relevant_elements": ["4.2", "4.5"]
+      },
+      {
+        "text": "The Indiana Strategic Target Forest Patches are areas or regions of the state that are a priority for conservation and stewardship. They remain unchanged from 2010 Forest Action Plan. Strategic Target Forest Patches were developed from the Indiana Statewide Forest Assessment's Composite Priority Landscape Areas map that was the result of a geospatial analysis compiling multiple",
+        "location": "Strategic Target Forests table",
+        "relevant_elements": ["4.1"]
+      },
+      {
+        "text": "Increase forest cover as a land use by 1,000,000 acres over the next 10 years: Encourage counties to set local targets for expanding forest cover by 20% by 2030",
+        "location": "Strategy 2 Action Steps table",
+        "relevant_elements": ["4.3"]
+      },
+      {
+        "text": "The Division of Forestry and the Indiana Forest Stewardship Advisory Council ('IFSAC') have conducted open meetings with key stakeholders to ensure that the Forest Action Plan (1) integrates, builds upon, and complements other state natural-resource assessments and plans",
+        "location": "Stakeholder Involvement table",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "USDA Forest Service State and Private Forestry has traditionally supplemented the Division of Forestry's operating budget with about $1.5 million in grants and matched funds for cooperative programs and competitive projects.",
+        "location": "Necessary Resources",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "During the 10 years from 2008-2018, NRCS provided over $12 million to private forestland owners to increase the health and productivity of their forestlands",
+        "location": "National Priorities Accomplishments Section",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "Indiana has about 24 land trusts that operate at local and regional scales to preserve land use through fee title purchase or conservation easements.",
+        "location": "Fragmentation",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "forested riparian areas are important for the maintenance of soil and water quality, and play an important role in regulating stream and river temperatures requisite for aquatic life. Because these areas are prone to flooding and less amenable to row crop agriculture, they are generally less relied upon as wildlife dispersal corridors.",
+        "location": "Soil & Water table",
+        "relevant_elements": ["1.4", "3.5"]
+      },
+      {
+        "text": "Forests thus face challenges such as the tulip tree scale epidemic that was followed by a significant summer drought during 2012, severely affecting Indiana's state tree populations in the south-central area of the state.",
+        "location": "Climate Change",
+        "relevant_elements": ["3.5", "3.6"]
+      },
+      {
+        "text": "Improve the resilience of urban forests by incentivizing policy improvements and funding projects that preserve, retain, and enhance existing urban tree canopy, including urban woodlots, that focus on plant diversity, limiting invasive plant species and combating heat island effects through nature-based solutions",
+        "location": "Action Steps",
+        "relevant_elements": ["3.5", "4.5"]
+      },
+      {
+        "text": "Indiana has ranked first nationwide in recent years in the production of wood office furniture, wood kitchen cabinets, and hardwood veneer",
+        "location": "Wood products",
+        "relevant_elements": []
+      },
+      {
+        "text": "Within forested habitats across Indiana, conversion of natural habitat to other land uses was viewed as the top threat facing fish and wildlife species of greatest conservation concern (Chapter 6).",
+        "location": "Fragmentation",
+        "relevant_elements": ["3.3", "3.5"]
+      },
+      {
+        "text": "These impervious surface areas... can affect their own climate and create heat islands that further differentiate local ecosystems.",
+        "location": "Fragmentation",
+        "relevant_elements": ["3.5"]
+      },
+      {
+        "text": "Indiana is also at the crossroads of plant and animal communities. This state is one of transition, from north to south and from east to west.",
+        "location": "D. FOREST PLANT DIVERSITY",
+        "relevant_elements": ["3.3"]
+      }
+    ]
+  },
+  "concepts": {
+    "climate_vulnerability": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "5.1 Promote species diversity in urban canopies to reduce susceptibility to forest pests and increase climate change and overall urban forest resilience.",
+          "location": "Action Steps",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document mentions climate change affecting Indiana forests and references a Purdue report on forest responses to climate change, but does not frame this in terms of climate exposure or adaptive capacity for specific species or habitats. A passing reference to 'climate change and overall urban forest resilience' scores 1. There is no decomposition into exposure vs. adaptive capacity, no vulnerability framework applied."
+    },
+    "adaptive_capacity_specificity": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "The long-term sustainability of forested ecosystems is affected by the ability of these systems to provide genetic response to stress, disease or disasters. Forest systems are complex, and genetic transfer is influenced by a multitude of interacting forces from climate changes to fluctuations in wildlife population. Fragmentation inhibits this transfer and weakens the overall systems' ability to adapt and respond to environmental change.",
+          "location": "Fragmentation",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "While evolutionary potential and dispersal are referenced in climate-adjacent contexts, the treatment is not systematic enough to score 2 (which requires explicit operationalization of one or more named AC components). The distribution shift reference is from a cited external report, not applied by the document itself to specific species/habitats."
+    },
+    "adaptive_capacity_components": {
+      "demography": {
+        "present": false,
+        "evidence": []
+      },
+      "distribution": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "expected changes include shifts in the distributions and abundances of trees, understory plants and wildlife, as well as changes in the environmental, economic and cultural benefits these forests provide.",
+            "location": "Climate Change",
+            "sub_component": null,
+            "citations": ["Purdue University, 'Indiana's Future Forests: A Report from the Indiana Climate Change Impacts Assessment'"]
+          }
+        ]
+      },
+      "movement": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Large forest patches within low forested areas can be considered refugia for species that remain and highly important to dispersal, migration and other ecologic functions. Connectivity and dispersal corridors are of major importance for sustainable biological diversity.",
+            "location": "Map: 2019 Above Average Forest Patches by Natural Region",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "evolutionary_potential": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The long-term sustainability of forested ecosystems is affected by the ability of these systems to provide genetic response to stress, disease or disasters. Forest systems are complex, and genetic transfer is influenced by a multitude of interacting forces from climate changes to fluctuations in wildlife population.",
+            "location": "Fragmentation",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecological_dependencies": {
+        "present": false,
+        "evidence": []
+      },
+      "abiotic_niche": {
+        "present": false,
+        "evidence": []
+      },
+      "life_history": {
+        "present": false,
+        "evidence": []
+      }
+    },
+    "connectivity": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Large forest patches within low forested areas can be considered refugia for species that remain and highly important to dispersal, migration and other ecologic functions. Connectivity and dispersal corridors are of major importance for sustainable biological diversity.",
+          "location": "Map: 2019 Above Average Forest Patches by Natural Region",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "top actions of forest conservation included protection of contiguous forest areas, limiting forestland conversion and fragmentation, reduction of development within forested communities, and maintaining appropriate habitat corridors and connectivity (Indiana SWAP, Chapter 6).",
+          "location": "Fragmentation",
+          "sub_component": null,
+          "citations": ["Indiana SWAP, Chapter 6"]
+        }
+      ],
+      "absence_note": "Connectivity and corridors are discussed generically (biodiversity, wildlife dispersal, contiguous forests) without explicit climate-shift framing. The document does not frame corridors as enabling climate-driven range shifts or use the term 'climate corridor' or 'climate connectivity.' Score is 1, not 2."
+    }
+  },
+  "tools": {
+    "vulnerability_models": {
+      "evaluable": true,
+      "score": 0,
+      "named_tools": [],
+      "evidence": [],
+      "absence_note": "No vulnerability models (CCVI, PVA, or similar) are referenced in the document."
+    },
+    "niche_models": {
+      "evaluable": true,
+      "score": 0,
+      "named_tools": [],
+      "evidence": [],
+      "absence_note": "No species distribution models or niche models are referenced. The Purdue report on future Indiana forests is mentioned but no underlying modeling tool (MaxEnt, SDM, etc.) is named or applied."
+    },
+    "climate_models": {
+      "evaluable": true,
+      "score": 0,
+      "named_tools": [],
+      "evidence": [],
+      "absence_note": "The document references qualitative climate change impacts (wetter winters, longer droughts, more 90-degree days) and a Purdue Climate Change Impacts Assessment report, but no climate model, GCM, RCP scenario, downscaling product, or specific emission scenario is named or applied. This is a legitimate 0 per codebook decision rules.",
+      "time_horizon_years": [],
+      "emission_scenarios": []
+    },
+    "connectivity_models": {
+      "evaluable": true,
+      "score": 0,
+      "named_tools": [],
+      "evidence": [],
+      "absence_note": "The document discusses connectivity and corridors conceptually and references GIS-based spatial analyses for the Forest Legacy AON (using GAP data), but no connectivity model (CircuitScape, least-cost path, Linkage Mapper, etc.) is referenced."
+    }
+  },
+  "context": {
+    "management_scale": {
+      "local": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Partners are encouraged to analyze issue components independently where certain factors may be less relevant at more local scales or where initiatives have a more narrowly defined focus.",
+            "location": "Priority Areas, Forest Conditions, Trends, Threats and Priority Landscape Areas by Issue",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "site": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The Statewide Strategies at a Parcel Level project developed a statewide, private landowner contact database that was linked to geospatial data",
+            "location": "Parcel Level Strategies",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "watershed": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "2.3 Targeting watersheds that drain excess agricultural nutrients, create special and permanent incentives to buffer riparian corridors with forests to filter agricultural chemicals, nutrients and sediment before they enter river systems.",
+            "location": "Strategy 2 Action Steps",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "city": {
+        "present": false,
+        "evidence": []
+      },
+      "county": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Encourage counties to set local targets for expanding forest cover by 20% by 2030",
+            "location": "Strategy 2 Action Steps table",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "within_state_region": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Southern Indiana contains the majority of the largest forest patches.",
+            "location": "Fragmentation",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "state": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The statewide scope of this document reflects the distribution of benefits and services that are produced by all forests.",
+            "location": "Document Design",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "multistate": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "There are many existing and potential multi-state forestry-related conservation efforts and partnerships that involve Indiana.",
+            "location": "Multi-state",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "national": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Indiana's forest issues and strategies are also consistent with the USDA Forest Service's national priorities: conserve working-forest landscapes, protect forests from harm and enhance public benefits from trees and forests.",
+            "location": "Document Design",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "transnational": {
+        "present": false,
+        "evidence": []
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The assessment portion of the Forest Action Plan attempts to show the state of affairs of Indiana's private and public forests and analyze the sustainability of forested ecosystems on a statewide or landscape level.",
+            "location": "Goals and Objectives",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecoregion": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The Natural Regions of Indiana were developed by Michael A. Homoya when he worked for the Indiana DNR Division of Nature Preserves. These regions represent an ecologically unique partitioning of the state based on natural geologic or climatic factors.",
+            "location": "Invasives",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "province": {
+        "present": false,
+        "evidence": []
+      },
+      "section": {
+        "present": false,
+        "evidence": []
+      },
+      "subsection": {
+        "present": false,
+        "evidence": []
+      },
+      "lake": {
+        "present": false,
+        "evidence": []
+      },
+      "river": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Protect the riparian corridors and floodplains that are important to migratory birds along the Mississippi Flyway.",
+            "location": "Southwest Bottomland Forest Legacy Area",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "district": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["Indiana", "Southern Indiana", "Northern Indiana", "Hoosier National Forest", "Shawnee Hills", "Highland Rim", "Blue River Basin", "Maumee Basin", "Northwest Moraine", "Lake Monroe watershed", "Ohio River", "Wabash River", "Mississippi Flyway", "Central Hardwoods Region", "Bird Conservation Region 22", "Bird Conservation Region 23", "Bird Conservation Region 24"]
+    },
+    "biological_unit_score": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "expected changes include shifts in the distributions and abundances of trees, understory plants and wildlife, as well as changes in the environmental, economic and cultural benefits these forests provide.",
+          "location": "Climate Change",
+          "sub_component": "species",
+          "citations": ["Purdue University, 'Indiana's Future Forests: A Report from the Indiana Climate Change Impacts Assessment'"]
+        },
+        {
+          "text": "The assessment portion of the Forest Action Plan attempts to show the state of affairs of Indiana's private and public forests and analyze the sustainability of forested ecosystems on a statewide or landscape level.",
+          "location": "Goals and Objectives",
+          "sub_component": "ecosystem",
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "biological_unit_components": {
+      "species": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "expected changes include shifts in the distributions and abundances of trees, understory plants and wildlife, as well as changes in the environmental, economic and cultural benefits these forests provide.",
+            "location": "Climate Change",
+            "sub_component": null,
+            "citations": ["Purdue University, 'Indiana's Future Forests: A Report from the Indiana Climate Change Impacts Assessment'"]
+          }
+        ]
+      },
+      "population": {
+        "present": false,
+        "evidence": []
+      },
+      "habitat": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Within forested habitats across Indiana, conversion of natural habitat to other land uses was viewed as the top threat facing fish and wildlife species of greatest conservation concern (Chapter 6).",
+            "location": "Fragmentation",
+            "sub_component": null,
+            "citations": ["Indiana SWAP, Chapter 6"]
+          }
+        ]
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The assessment portion of the Forest Action Plan attempts to show the state of affairs of Indiana's private and public forests and analyze the sustainability of forested ecosystems on a statewide or landscape level.",
+            "location": "Goals and Objectives",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "community": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Indiana is also at the crossroads of plant and animal communities. This state is one of transition, from north to south and from east to west.",
+            "location": "D. FOREST PLANT DIVERSITY",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "genotype_phenotype": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["cerulean warbler", "oaks (Quercus genus)", "Indiana Bat", "tulip tree scale", "Emerald Ash Borer", "oak-hickory forest type", "maple-beech forest type", "white-tailed deer", "American chestnut", "butternut", "ash species", "garlic mustard", "ruffed grouse"]
+    },
+    "partnerships_and_funding": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "USDA Forest Service State and Private Forestry has traditionally supplemented the Division of Forestry's operating budget with about $1.5 million in grants and matched funds for cooperative programs and competitive projects.",
+          "location": "Necessary Resources",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "During the 10 years from 2008-2018, NRCS provided over $12 million to private forestland owners to increase the health and productivity of their forestlands",
+          "location": "National Priorities Accomplishments Section",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document discusses partnerships (NRCS, USFS, land trusts, Forest Stewardship Advisory Council) and funding in general terms for forest conservation broadly. However, none of this is specifically tied to managing species range shifts. Score is 1 because partnerships and some funding are described, but they are not strategically targeted to range-shift actions."
+    },
+    "climate_threat_habitat_degradation": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Climate change is increasingly affecting Indiana and resulting in wetter winters during which the ground does not freeze solid for long periods, longer summer droughts, and increasing numbers of days that exceed 90 degrees.",
+          "location": "Climate Change",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_threat_species_vital_rates": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "It is also resulting in some warmer winters that enable certain insect populations to have increased numbers of breeding cycles, such as occurred with tulip tree scale in the 2010s. Forests thus face challenges such as the tulip tree scale epidemic that was followed by a significant summer drought during 2012, severely affecting Indiana's state tree populations in the south-central area of the state.",
+          "location": "Climate Change",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The tulip tree scale epidemic is attributed to warmer winters (climate-driven), and the resulting tree population impact is noted, which qualifies as a direct effect on vital rates. This is a borderline case but meets the threshold: climate-favored insect expansion leading to tree mortality/severe impact."
+    },
+    "climate_threat_biotic_stressors": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "It is also resulting in some warmer winters that enable certain insect populations to have increased numbers of breeding cycles, such as occurred with tulip tree scale in the 2010s.",
+          "location": "Climate Change",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    }
+  },
+  "actions": {
+    "priority_habitat_identification": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "The Indiana Strategic Target Forest Patches are areas or regions of the state that are a priority for conservation and stewardship. They remain unchanged from 2010 Forest Action Plan. Strategic Target Forest Patches were developed from the Indiana Statewide Forest Assessment's Composite Priority Landscape Areas map that was the result of a geospatial analysis compiling multiple",
+          "location": "Strategic Target Forests table",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Large forest patches within low forested areas can be considered refugia for species that remain and highly important to dispersal, migration and other ecologic functions. Connectivity and dispersal corridors are of major importance for sustainable biological diversity.",
+          "location": "Map: 2019 Above Average Forest Patches by Natural Region",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document identifies Strategic Target Forest Patches through a geospatial analysis and presents associated maps (the 2019 Above Average Forest Patches by Natural Region map, the Forest Legacy Areas maps). However, this priority habitat identification is driven primarily by timber, biodiversity, and fragmentation concerns — not explicitly by climate-induced threats or range shifts. Score is 2 because spatial representation is clearly present (maps referenced), even if the climate-adaptation framing is weak."
+    },
+    "targeted_range_shift_actions": {
+      "evaluable": true,
+      "score": 0,
+      "evidence": [],
+      "absence_note": "The document does not propose targeted actions explicitly framed to manage climate-driven range shifts. Action 2.10 encourages planting species 'best adapted to changing climate' and action 3.18 mentions forest restoration to 'mitigate and adapt to global climate change,' but neither is framed as facilitating, preventing, or responding to range shifts. No assisted migration, climate corridor construction, or climate-motivated translocation is proposed."
+    },
+    "time_bound_and_monitoring": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Encourage counties to set local targets for expanding forest cover by 20% by 2030",
+          "location": "Strategy 2 Action Steps table",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document includes some time-bound targets (e.g., expand forest cover by 20% by 2030, increase enrollment by 1,000,000 acres over 10 years), but these are plan-level goals rather than action-level deadlines. There is no systematic effectiveness monitoring protocol tied to specific actions. Score 1: some deadlines present but no action-level monitoring framework. Does not reach score 2."
+    },
+    "evidence_of_efficacy": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Since 2010, the Indiana Division of Forestry has continued to provide direct support to dozens of research projects investigating the ecological effects of forest management on State Forests. Most of the support went to researchers involved with the Hardwood Ecosystem Experiment (HEE), a long-term project based at Morgan-Monroe and Yellowwood state forests. These efforts have resulted in more than 60 articles in peer-reviewed scientific journals and 29 completed master's theses and published dissertations since 2010.",
+          "location": "Hardwood Ecosystem Experiment",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document references research support and accomplishments from prior work (HEE, invasive species BMP pilots) but does not systematically link evidence to specific actions. Actions are generally presented as good practice without citations to efficacy studies. Score 1 reflects rationale provided without strong evidence directly supporting each action.",
+      "projects": ["The Hardwood Ecosystem Experiment (HEE) at Morgan-Monroe and Yellowwood State Forests: a long-term research project supporting more than 60 peer-reviewed articles on ecological effects of forest management, cited as support for forest stewardship actions.", "Southern Indiana Cooperative Invasives Management (SICIM) and the Indiana Invasives Initiative (III): a collaborative project establishing CISMAs statewide, cited as evidence of effective invasive species management action.", "Invasive Species BMP Pilot Project: a two-year project assessing and refining invasive species Best Management Practices, providing direct implementation evidence."]
+    },
+    "adaptation_planning_frameworks": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Manage trees and forests to mitigate and adapt to global climate change Relevant associated Indiana Action Steps: 3.18 (forest restoration)",
+          "location": "National Priorities Crosswalk / ADDITIONAL LETTERS AND COMMENTS",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document references the concept of adapting forests to climate change in the National Priorities Crosswalk (mitigate and adapt to global climate change) and in action step 2.10 (plant species adapted to changing climate), but does not use or name any specific climate adaptation planning framework (RAD, RRT, CCVA, SBDA, SDM, adaptation menu, etc.). Score 1: referenced generically, not with any specific framework."
+    }
+  },
+  "coding_meta": {
+    "coder": "llm:claude-sonnet-4-6",
+    "model": "claude-sonnet-4-6",
+    "provider": "claude",
+    "codebook_version": "0.4",
+    "ingest": "text",
+    "design": "single",
+    "temperature": null,
+    "thinking": null,
+    "thinking_effort": null,
+    "coded_at": "2026-07-07T00:31:31Z",
+    "notes": {}
+  }
+}

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">APPENDIX 2.D SCIENTIFIC NAMES OF PLANT SPECIES Delaware Wildlife Action Plan</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<title level="a" type="main">APPENDIX 2.D SCIENTIFIC NAMES OF PLANT SPECIES Delaware Wildlife Action Plan</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">2E6EB2155E9C1483AFDC742C5E09D3C5</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.1" ident="GROBID" when="2026-07-06T11:25+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Many plant species and groups mentioned in the Delaware Wildlife Action Plan, primarily in the Chapter 2 habitat descriptions, are referred to in the text by common name only. The following table provides the scientific names for these plant taxa. This list is provided here for reference and is not indicative of the status or proposed status of the taxa listed. Common Name Scientific Name American Beach Grass Ammophila breviligulata American Holly Ilex opaca American Searocket Cakile edentula Annual Salt Marsh Aster Symphyotrichum subulatus Arrow Arum Peltandra virginica Ash Fraxinus sp. Aspen Populus sp. Aster Symphyotrichum sp. Atlantic White Cedar Chamaecyparis thyoides Bald Cypress Taxodium distichum Basswood Tillia americana Bayberry Morella pensylvanica Beach Plum Prunus maritima Birch Betula sp. Black Ash Fraxinus nigra Black Cherry Prunus serotina Black Gum, Swamp Black Gum, Swamp Gum Nyssa sylvatica Black Needlerush Juncus roemerianus Black Oak Quercus velutina Blueberry Vaccinium sp. Box Elder Acer negundo Camphorweed Heterotheca subaxillaris Cattail Typha latifolia Cattails Typha spp. Chestnut Oak Quercus prinus Chokeberry Aronia sp. Eastern Jointweed Polygonella articulata Eelgrass Zostera marina Elm Ulmus sp. Glasswort Salicornia sp. Grapes Vitis sp. Green Ash Fraxinus pennsylvanica Appendix 2.D: Plant Species App. 2.D -3 Greenbrier Smilax sp. Hickory Carya sp. High-tide Bush Baccharis halimifolia Highbush Blueberry Vaccinium corymbosum Huckleberries Gaylussacia sp. Loblolly Pine Pinus taeda Low Bush Blueberry Vaccinium angustifolium Magnolia Magnolia sp. Maple Acer sp. Marsh Elder</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>White Pine</head><p>Pinus strobus</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Widgeongrass</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Ruppia maritima</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Wild Rice</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Zizania aquatica</head><p>Willow Salix sp.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Willow Oak</head><p>Quercus phellos</p></div>		</body>
+		<back>
+			<div type="references">
+
+				<listBibl/>
+			</div>
+		</back>
+	</text>
+</TEI>
+

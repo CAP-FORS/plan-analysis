@@ -1,0 +1,497 @@
+{
+  "document_meta": {
+    "title": "West Virginia 2020 State Forest Action Plan",
+    "year": 2020,
+    "jurisdiction": "West Virginia Division of Forestry (WVDOF)",
+    "document_type": "State Forest Action Plan",
+    "document_id": "WV_FAP_2020",
+    "page_count": 331
+  },
+  "orientation": {
+    "summary": "This is West Virginia's 2020 State Forest Action Plan (SFAP), a comprehensive 10-year planning document produced by the WV Division of Forestry covering eight broad forest issues including competing land uses, forest sustainability, water quality, wildfire, urban forests, forest health, and utilization/marketing. The document is primarily a forestry management and economic development plan with limited engagement with climate change science; climate is acknowledged peripherally (carbon sequestration, urban heat mitigation, one section on urban climate change impacts) but is not a central organizing framework. Range shift science is essentially absent — the document does not discuss climate-driven species distributional shifts, climate velocity, or assisted migration. What climate content exists is largely framed around carbon storage, urban forestry benefits, and a brief acknowledgment of warming trends for urban forestry planning, with one reference to TNC climate corridors and resilient areas as a GIS data layer.",
+    "evidence_index": [
+      {
+        "text": "West Virginia's climate is changing. Most of the state has warmed 0.5°F to 1°F in the last century, and heavy rainstorms are becoming more frequent, contributing to an increase in annual precipitation by up to 10% in many parts of the state.",
+        "location": "Sub-Issue 6.2: Mitigate Climate Change and Enhance Ecosystem Services",
+        "relevant_elements": ["1.1", "3.5"]
+      },
+      {
+        "text": "By 2100, temperatures in West Virginia could increase by 3°F in winter, spring, and summer and 4°F in the fall. Precipitation is also estimated to increase by 20% in all seasons, slightly more in summer. In the coming decades, this is likely to increase flooding, harm ecosystems, increase some health problems, and possibly threaten some recreational activities.",
+        "location": "Sub-Issue 6.2: Mitigate Climate Change and Enhance Ecosystem Services",
+        "relevant_elements": ["1.1", "2.3", "3.5"]
+      },
+      {
+        "text": "enhancing canopy cover in urban areas to conserve energy and to help mitigate climate change",
+        "location": "State Issue 6: Sustainability of Urban Forests",
+        "relevant_elements": ["1.1", "4.5"]
+      },
+      {
+        "text": "Layer 32 -TNC Priority network (Climate corridors, Resilient areas with confirmed diversity, climate flow zones and Climate flow zones with confirmed diversity) = 1.",
+        "location": "List of Data Layers and Requirements",
+        "relevant_elements": ["1.4", "2.4", "4.1"]
+      },
+      {
+        "text": "Layer 39 -Climate Change I-Tree county carbon storage >= 8,761,476 Metric Tons/Year = 1.",
+        "location": "List of Data Layers and Requirements",
+        "relevant_elements": ["1.1"]
+      },
+      {
+        "text": "Are dynamic in nature and resilient to natural and man-caused disturbances and changes, including climate change",
+        "location": "Forest Integrated Desired Conditions",
+        "relevant_elements": ["1.1", "1.2"]
+      },
+      {
+        "text": "The Forest continues to provide a positive response to climate change by growing trees that absorb carbon dioxide and produce oxygen, by storing carbon in above-ground vegetation and belowground roots and soil nutrients",
+        "location": "Forest Integrated Desired Conditions",
+        "relevant_elements": ["1.1"]
+      },
+      {
+        "text": "Sequestration of carbon by forest ecosystems enhances the quality of soil, water, and air. This has become increasingly important due to the impacts of global warming on the world's environment. Sequestration of carbon by forested ecosystems can offset the amount of greenhouse gases released into the atmosphere, thus potentially reducing the global climate change.",
+        "location": "Sub-Issue 8.2: Ecological Services",
+        "relevant_elements": ["1.1"]
+      },
+      {
+        "text": "Strategically planted trees in urban areas provide many direct benefits relevant to climate change including: cooling shade for buildings and air conditioning units, maintaining permeable surface area, carbon storage, reduced storm water runoff and a reduction in energy used for heating and cooling.",
+        "location": "Sub-Issue 6.2: Mitigate Climate Change and Enhance Ecosystem Services",
+        "relevant_elements": ["1.1", "4.2", "4.5"]
+      },
+      {
+        "text": "A population assessment was completed with the ICLUS v2.1 model. Projected populations for 2020-2040 under the SSP2 (medium population), RCP4.5 (medium emissions) scenarios and the hadgem2-ES climate model for higher sensitivity to CO2 increases were used to determine the percentage of population change for this 20-year time period.",
+        "location": "Sub-Issue 6.3: Promote Urban Tree Canopy Cover Management within the Chesapeake Bay Watershed",
+        "relevant_elements": ["2.3"]
+      },
+      {
+        "text": "land-use was assessed involving land cover estimates for year 2000 and 2040 under the SSP2 (medium population), RCP4.5 (medium emissions) scenarios and the HadGEM2-ES climate model for higher sensitivity to CO2 increases.",
+        "location": "Sub-Issue 6.3 figure caption",
+        "relevant_elements": ["2.3"]
+      },
+      {
+        "text": "Be aware of changes being made by climate change.",
+        "location": "Strategy -Sub-Issue 3.5: Habitat Diversity and Conservation",
+        "relevant_elements": ["1.1", "3.5"]
+      },
+      {
+        "text": "In high elevation and cooler, wetter climates paired with a southern latitude have allowed an overlap of northern and southern species. This overlap makes the area extremely rich in biodiversity.",
+        "location": "Forest Legacy Area 3-Allegheny Mountains",
+        "relevant_elements": ["3.3"]
+      },
+      {
+        "text": "Various factors seem to trigger the decline including drought, frost, defoliation, altered water tables, and compaction from equipment.",
+        "location": "Sub-Issue 7.3: Pest Management and Eradication",
+        "relevant_elements": ["3.5", "3.6"]
+      },
+      {
+        "text": "Manage trees and forests to mitigate and adapt to global climate change",
+        "location": "Issues, Threats, Opportunities and Priority Areas (FIGURE - National Priorities)",
+        "relevant_elements": ["1.1", "4.5"]
+      },
+      {
+        "text": "Warming chills are not an issue on timberland in WV... Warmer Winters 12",
+        "location": "Table 8.5: Suggested changes in the byproduct markets",
+        "relevant_elements": ["3.5"]
+      },
+      {
+        "text": "Forest to Faucets 2.0 watersheds with predicted development increase -2010-2040 under 4.5 high prediction model watershed >=13.42% predicted increase = 1.",
+        "location": "List of Data Layers and Requirements",
+        "relevant_elements": ["2.3"]
+      },
+      {
+        "text": "human health will be negatively impacted by climate change. Higher temperatures and increased frequency of heat waves may increase the number of heat-related deaths",
+        "location": "Sub-Issue 6.2 table/sidebar",
+        "relevant_elements": ["1.1", "3.6"]
+      },
+      {
+        "text": "32. Climate Change -A carbon storage layer was added to the GIS Analysis.",
+        "location": "VI. Appendix (public comment response)",
+        "relevant_elements": ["1.1"]
+      },
+      {
+        "text": "Approximately three Forest Legacy projects are to be completed prior to June 30th, 2030.",
+        "location": "Timeline (State Issue 1: Competing Land Uses)",
+        "relevant_elements": ["4.3"]
+      },
+      {
+        "text": "The Measure of Success will be the acquisition of approximately three (3) Forest Legacy Projects.",
+        "location": "Measure of Success (State Issue 1)",
+        "relevant_elements": ["4.3"]
+      },
+      {
+        "text": "The long-term strategy for sub-issues 1.1 through 1.7. is to protect as much working forest land as possible, through the FLP, within the identified FLAs",
+        "location": "Long-term Strategy (State Issue 1: Competing Land Uses)",
+        "relevant_elements": ["4.1", "4.2"]
+      },
+      {
+        "text": "TNC Priority network (Climate corridors, Resilient areas with confirmed diversity, climate flow zones and Climate flow zones with confirmed diversity) = 1.",
+        "location": "List of Data Layers and Requirements",
+        "relevant_elements": ["1.4", "4.1"]
+      }
+    ]
+  },
+  "concepts": {
+    "climate_vulnerability": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "West Virginia's climate is changing. Most of the state has warmed 0.5°F to 1°F in the last century, and heavy rainstorms are becoming more frequent, contributing to an increase in annual precipitation by up to 10% in many parts of the state.",
+          "location": "Sub-Issue 6.2: Mitigate Climate Change and Enhance Ecosystem Services",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document acknowledges climate change and its impacts on forests and communities in passing, and mentions that ecosystems should be 'resilient to natural and man-caused disturbances and changes, including climate change.' However, there is no structured analysis of climate vulnerability for species or habitats using exposure or adaptive capacity frameworks. The one substantive climate-change discussion (Sub-Issue 6.2) focuses on urban temperature increases and ecosystem services from urban trees, not ecological vulnerability of SGCN or forest species. Score 1 because climate change is referenced as a concern without any operationalization of exposure or adaptive capacity."
+    },
+    "adaptive_capacity_specificity": {
+      "evaluable": true,
+      "score": 0,
+      "evidence": [],
+      "absence_note": "The document does not discuss adaptive capacity of species or ecosystems in response to climate change. The word 'resilience' appears in MNF desired conditions language ('resilient to natural and man-caused disturbances and changes, including climate change') but this is a general aspiration rather than an operationalized discussion of species or habitat adaptive capacity components. No specific adaptive capacity components (dispersal, evolutionary potential, thermal tolerance, etc.) are discussed in relation to climate."
+    },
+    "adaptive_capacity_components": {
+      "demography": {
+        "present": false,
+        "evidence": []
+      },
+      "distribution": {
+        "present": false,
+        "evidence": []
+      },
+      "movement": {
+        "present": false,
+        "evidence": []
+      },
+      "evolutionary_potential": {
+        "present": false,
+        "evidence": []
+      },
+      "ecological_dependencies": {
+        "present": false,
+        "evidence": []
+      },
+      "abiotic_niche": {
+        "present": false,
+        "evidence": []
+      },
+      "life_history": {
+        "present": false,
+        "evidence": []
+      }
+    },
+    "connectivity": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Layer 32 -TNC Priority network (Climate corridors, Resilient areas with confirmed diversity, climate flow zones and Climate flow zones with confirmed diversity) = 1.",
+          "location": "List of Data Layers and Requirements",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document references TNC 'Climate corridors' and 'climate flow zones' as a GIS data layer used in the Forest Legacy priority-area overlay analysis. This is a brief, instrumental reference — the document incorporates TNC climate connectivity data layers to help identify Forest Legacy Areas but does not discuss climate connectivity as a concept or analyze it substantively. General habitat connectivity (corridors, intact forests, core forest, fragmentation) is discussed throughout but not in a climate-relevant framing. The TNC layer reference constitutes a borderline case; scored 1 (generic/non-substantive) because the climate corridor concept is named but not operationalized or discussed as enabling climate-driven range shifts."
+    }
+  },
+  "tools": {
+    "vulnerability_models": {
+      "evaluable": true,
+      "score": 0,
+      "named_tools": [],
+      "evidence": [],
+      "absence_note": "No vulnerability models (CCVI, PVA, or similar) are referenced in this document. The National Insect and Disease Risk Map is mentioned for forest health risk but is not a climate vulnerability model."
+    },
+    "niche_models": {
+      "evaluable": true,
+      "score": 0,
+      "named_tools": [],
+      "evidence": [],
+      "absence_note": "No species distribution models or niche models are referenced in this document."
+    },
+    "climate_models": {
+      "evaluable": true,
+      "score": 1,
+      "named_tools": ["HadGEM2-ES", "ICLUS v2.1"],
+      "evidence": [
+        {
+          "text": "A population assessment was completed with the ICLUS v2.1 model. Projected populations for 2020-2040 under the SSP2 (medium population), RCP4.5 (medium emissions) scenarios and the hadgem2-ES climate model for higher sensitivity to CO2 increases were used to determine the percentage of population change for this 20-year time period.",
+          "location": "Sub-Issue 6.3: Promote Urban Tree Canopy Cover Management within the Chesapeake Bay Watershed",
+          "sub_component": null,
+          "citations": ["U.S. EPA. 2017 Integrated Climate and Land-Use Scenarios (ICLUS version 2.1) for the Fourth National Climate Assessment."]
+        }
+      ],
+      "absence_note": "The ICLUS v2.1 model using HadGEM2-ES with SSP2/RCP4.5 scenarios is referenced in the urban forestry section to project population and land use change through 2040. However, this application is for projecting human population growth and developed land cover — not for analyzing climate impacts on forest species or habitats that are the focal subjects of this forest action plan. Also, the 'Forest to Faucets 2.0 watersheds with predicted development increase -2010-2040 under 4.5 high prediction model' is used as a GIS layer. These are borderline 'applied' uses but they are applied to demographic/development projections rather than to the document's focal forest/species subjects. Scored 1 (referenced generally / not applied to forest/species focal subjects per codebook §4 rule 2).",
+      "time_horizon_years": [2040],
+      "emission_scenarios": ["SSP2", "RCP4.5"]
+    },
+    "connectivity_models": {
+      "evaluable": true,
+      "score": 1,
+      "named_tools": [],
+      "evidence": [
+        {
+          "text": "Layer 32 -TNC Priority network (Climate corridors, Resilient areas with confirmed diversity, climate flow zones and Climate flow zones with confirmed diversity) = 1.",
+          "location": "List of Data Layers and Requirements",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document incorporates TNC Priority network data (which likely derives from connectivity modeling, including climate flow zones) as one of 39 GIS layers in an overlay analysis for Forest Legacy priority areas. The underlying connectivity model is not named. This constitutes use of connectivity modeling output in a management decision (Forest Legacy prioritization), which per codebook 2.4 borderline rules could count as application. However, the TNC layer is just one of 39 equal-weight layers, and climate connectivity is not substantively discussed. Scored 1 (referenced generally) rather than 2 because the connectivity model output is mentioned without substantive integration into the document's management decisions for forest or species focal subjects."
+    }
+  },
+  "context": {
+    "management_scale": {
+      "local": {
+        "present": false,
+        "evidence": []
+      },
+      "site": {
+        "present": false,
+        "evidence": []
+      },
+      "watershed": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "In the spring of 2023, a revision in priority areas was completed using a revised ranking scheme based on HUC-12 watershed boundaries with summarized data mostly from Forests to Faucets 2.",
+            "location": "Sub-Issue 3.1: Growth, Yield, and Management",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "city": {
+        "present": false,
+        "evidence": []
+      },
+      "county": {
+        "present": false,
+        "evidence": []
+      },
+      "within_state_region": {
+        "present": false,
+        "evidence": []
+      },
+      "state": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "This West Virginia Statewide Forest Action Plan (SFAP), formerly known as the 2010 State Forest Assessment and Strategy (FRAS), provides an update of forestry, forests, and related natural resources in the state since the 2010 FRAS.",
+            "location": "I. Introduction / Executive Summary",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "multistate": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Several natural resource and conservation efforts have been taking place for the past decade or more to clean up the Chesapeake Bay and restore it to its former condition. This has been recognized as a high national priority. Federal agencies, including the EPA, USDA, and USDI, are involved in this effort. The states noted above are involved in various efforts to reforest Chesapeake Bay tributaries",
+            "location": "IV. Existing and Potential Multi-State Projects",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "national": {
+        "present": false,
+        "evidence": []
+      },
+      "transnational": {
+        "present": false,
+        "evidence": []
+      },
+      "ecosystem": {
+        "present": false,
+        "evidence": []
+      },
+      "ecoregion": {
+        "present": false,
+        "evidence": []
+      },
+      "province": {
+        "present": false,
+        "evidence": []
+      },
+      "section": {
+        "present": false,
+        "evidence": []
+      },
+      "subsection": {
+        "present": false,
+        "evidence": []
+      },
+      "lake": {
+        "present": false,
+        "evidence": []
+      },
+      "river": {
+        "present": false,
+        "evidence": []
+      },
+      "district": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["Chesapeake Bay watershed", "HUC-12 watersheds", "Potomac River watershed", "Ohio River watershed"]
+    },
+    "biological_unit_score": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "High-priority conservation forest ecosystems that the WVDNR has listed in their SWAP, and which were also provided by The Nature Conservancy (TNC), include: red spruce forests; hemlock forests; calcareous forests and woodlands",
+          "location": "Sub-Issue 3.5: Habitat Diversity and Conservation",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document's climate-related content is minimal and does not discuss range shift science at any biological level in depth. The habitat-level reference is the closest to a biological unit discussed in any climate-related context (forest ecosystems and their conservation). Species are mentioned throughout but not in a climate range-shift context. Score 1 for habitat as a single unit discussed in indirect climate-related context."
+    },
+    "biological_unit_components": {
+      "species": {
+        "present": false,
+        "evidence": []
+      },
+      "population": {
+        "present": false,
+        "evidence": []
+      },
+      "habitat": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "High-priority conservation forest ecosystems that the WVDNR has listed in their SWAP, and which were also provided by The Nature Conservancy (TNC), include: red spruce forests; hemlock forests; calcareous forests and woodlands (Ridge and Valley physiographic province, i.e. Chesapeake Bay watershed); flood plain forests; and swamps.",
+            "location": "Sub-Issue 3.5: Habitat Diversity and Conservation",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecosystem": {
+        "present": false,
+        "evidence": []
+      },
+      "community": {
+        "present": false,
+        "evidence": []
+      },
+      "genotype_phenotype": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["red spruce forests", "hemlock forests", "calcareous forests", "floodplain forests"]
+    },
+    "partnerships_and_funding": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "The WVDOF works with partner agencies such as; the USDA Forest Service, US Fish & Wildlife Service, The Nature Conservancy, USDA Natural Resources Conservation Service, WVDNR, the WV Highlands Conservancy and others to collaborate on the restoration and conservation of the red spruce-northern hardwood ecosystem",
+          "location": "Central Appalachian Spruce Restoration Initiative",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document describes numerous partnerships (MNF, TNC, NRCS, USFS, CBP, etc.) and some funding (USFS grants, EQIP, Forest Legacy federal funding), but none of these are specifically oriented toward addressing climate-driven range shifts. Partnerships and funding discussed are for traditional forest management, forest health, water quality, and education programs. The Forest Legacy Program funding is for working forest conservation broadly, not range-shift management. Score 1 for aspirational/limited partnership and funding references not specifically tied to range-shift science."
+    },
+    "climate_threat_habitat_degradation": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "By 2100, temperatures in West Virginia could increase by 3°F in winter, spring, and summer and 4°F in the fall. Precipitation is also estimated to increase by 20% in all seasons, slightly more in summer. In the coming decades, this is likely to increase flooding, harm ecosystems, increase some health problems",
+          "location": "Sub-Issue 6.2: Mitigate Climate Change and Enhance Ecosystem Services",
+          "sub_component": null,
+          "citations": ["US Environmental Protection Agency, August 2016, EPA 430-F-16-050 2018. What Climate Change Means for West Virginia"]
+        }
+      ],
+      "absence_note": "The document mentions that climate change will 'harm ecosystems' and increase flooding, and the urban forestry section discusses climate-driven temperature increases and increased precipitation affecting communities. This is a borderline case — the framing is quite general (urban ecosystem services context) rather than specific habitat degradation by climate-induced drought, wildfire, or saltwater intrusion. However, the reference to climate change harming ecosystems and increased flooding constitutes acknowledgment of climate-induced habitat degradation. Scored 1."
+    },
+    "climate_threat_species_vital_rates": {
+      "evaluable": true,
+      "score": 0,
+      "evidence": [],
+      "absence_note": "The document does not discuss direct climate-driven impacts on species vital rates (mortality, reproduction, recruitment failure) caused by climate events. Wildfire mortality, heat die-offs, or climate-favored pathogens causing direct vital rate impacts are not discussed. Forest health threats (emerald ash borer, HWA, beech bark disease) are extensively discussed but without climate attribution. Oak decline is mentioned with 'drought' as one trigger but in a general context not explicitly framed as climate-driven."
+    },
+    "climate_threat_biotic_stressors": {
+      "evaluable": true,
+      "score": 0,
+      "evidence": [],
+      "absence_note": "Invasive species are extensively discussed (gypsy moth, HWA, spotted lanternfly, Japanese stiltgrass, etc.) but without climate framing. The document does not attribute invasive species range expansion or community composition changes to climate change. 'Warmer Winters' is listed in a business survey table (Table 8.5) as a factor affecting byproduct markets, but this is not a discussion of climate-driven biotic stressors affecting forest ecosystems. No phenological mismatch, trophic asynchrony, or climate-driven succession is discussed."
+    }
+  },
+  "actions": {
+    "priority_habitat_identification": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Layer 32 -TNC Priority network (Climate corridors, Resilient areas with confirmed diversity, climate flow zones and Climate flow zones with confirmed diversity) = 1.",
+          "location": "List of Data Layers and Requirements",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document extensively identifies priority habitats through Forest Legacy Areas (5 FLAs with maps), high-priority conservation ecosystems (red spruce, hemlock, calcareous forests), and forest stewardship priority areas (HUC-12 based). However, these are not framed as addressing climate-driven range shifts. The inclusion of TNC Climate corridors and Resilient areas as GIS data layers in the Forest Legacy overlay analysis is the closest to climate-relevant priority habitat identification. Scored 1 (discussed but the climate-connection is marginal — the spatial representation exists but is not climate-shift-oriented). Could not reach score 2 because the spatial prioritization is not specifically for addressing range shifts."
+    },
+    "targeted_range_shift_actions": {
+      "evaluable": true,
+      "score": 0,
+      "evidence": [],
+      "absence_note": "The document contains no targeted actions to manage climate-driven species range shifts. Conservation actions discussed (Forest Legacy easements, forest stewardship, invasive species control, prescribed fire, red spruce restoration) are not framed in terms of facilitating or responding to climate-driven shifts. Red spruce restoration is discussed as ecosystem restoration but not in the context of range shifts or climate tracking."
+    },
+    "time_bound_and_monitoring": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Approximately three Forest Legacy projects are to be completed prior to June 30th, 2030.",
+          "location": "Timeline (State Issue 1: Competing Land Uses)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document includes timelines for many strategies (e.g., Forest Legacy projects by 2030, state forest plans revised every 10 years, PLT training goals over 5-10 years). However, these are not specifically for range-shift or climate-adaptation actions. The document does not include effectiveness monitoring tied to climate-specific actions. Scored 1 for time-bound strategies in general; cannot reach 2 because there is no effectiveness monitoring component for climate-related actions."
+    },
+    "evidence_of_efficacy": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Kumbrabow State Forest is one example of an ongoing red spruce restoration project that has been completed and proven to be successful.",
+          "location": "Central Appalachian Spruce Restoration Initiative",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document contains almost no evidence-of-efficacy for climate-related actions because climate-related actions are essentially absent. The Kumbrabow red spruce restoration success claim is the only project-level evidence cited, and it is for ecosystem restoration generally. For the limited climate references (urban tree planting for climate mitigation), the document cites i-Tree analysis data as evidence of ecosystem service delivery. There are no citations supporting climate adaptation actions for wildlife or forest species. Overall this scores 1 — rationale is outlined (urban trees help with climate, forest conservation helps with carbon) but evidence is vague/general rather than action-specific.",
+      "projects": ["Kumbrabow State Forest red spruce restoration: The document notes this project 'has been completed and proven to be successful' as an example of CASRI red spruce ecosystem restoration, providing limited case-study evidence for red spruce restoration efficacy. However, it is not framed in a climate-adaptation or range-shift context."]
+    },
+    "adaptation_planning_frameworks": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Manage trees and forests to mitigate and adapt to global climate change",
+          "location": "Issues, Threats, Opportunities and Priority Areas (FIGURE - National Priorities and Objectives)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document references 'adapt to global climate change' as a National Priority objective (in a USFS framework listed in the National Priorities section), and mentions 'mitigate and adapt' in the urban forestry section. However, no specific climate adaptation planning frameworks (RAD, RRT, CCVA, Structured Decision Making in a climate context, adaptation menus, etc.) are referenced or applied. The mention of adaptation is aspirational and non-specific. Score 1 for non-specific reference to climate adaptation as a planning goal without operationalization."
+    }
+  },
+  "coding_meta": {
+    "coder": "llm:claude-sonnet-4-6",
+    "model": "claude-sonnet-4-6",
+    "provider": "claude",
+    "codebook_version": "0.4",
+    "ingest": "text",
+    "design": "single",
+    "temperature": null,
+    "thinking": null,
+    "thinking_effort": null,
+    "coded_at": "2026-07-07T00:31:34Z",
+    "notes": {}
+  }
+}

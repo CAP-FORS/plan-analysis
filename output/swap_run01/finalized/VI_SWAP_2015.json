@@ -1,0 +1,760 @@
+{
+  "document_meta": {
+    "title": "U.S. Virgin Islands Wildlife Action Plan (VI-WAP)",
+    "year": 2018,
+    "jurisdiction": "U.S. Virgin Islands",
+    "document_type": "SWAP",
+    "document_id": "VI_SWAP_2015",
+    "page_count": 120
+  },
+  "orientation": {
+    "summary": "The 2018 VI-WAP is the State Wildlife Action Plan for the U.S. Virgin Islands, produced by the USVI Division of Fish and Wildlife (DFW) in collaboration with UVI and SEA. The document covers both terrestrial and marine species and habitats across three major islands and surrounding cays. It engages broadly with climate change as a significant threat to USVI species and ecosystems, naming sea level rise, ocean acidification, rising temperatures, and altered storm patterns as key stressors. Range shifts are explicitly mentioned in passing — the document notes that temperature increases cause species range shifts and that sea level rise may require some coastal habitats like mangroves to shift ranges inward — but the document does not perform its own modeling or quantitative range-shift analysis; it references published studies for evidence. The plan's primary analytical work involves threat assessments, species status rankings, and conservation goal/strategy/action development.",
+    "evidence_index": [
+      {
+        "text": "Changes in temperature also cause changes in species range shifts, meaning as temperature increases in a particular location, species will move to cooler areas to adapt. It has already been documented that terrestrial species are moving to higher elevations to escape areas with warming conditions (Chen et al. 2011).",
+        "location": "Chapter Four: Climate Change",
+        "relevant_elements": ["1.1", "1.2", "1.3", "C2", "3.3"]
+      },
+      {
+        "text": "Endemic species and diverse environments of island ecosystems such as coral reefs, mangrove forests, and seagrass beds are vulnerable to climate change (Whittaker et al. 1999, McCarthy 2001). Climate change threats such as sea level rise, ocean acidification, rising temperatures, increased precipitation, and increased storm frequency/severity impact the local populations and diverse ecosystems of the U.S. Virgin Islands.",
+        "location": "Chapter Four: Climate Change",
+        "relevant_elements": ["1.1", "3.5", "3.6"]
+      },
+      {
+        "text": "Species that live on islands and that cannot disperse to other locations within their temperature tolerance, will likely die out. Microhabitats may become less favorable, particularly as deforestation and an increase in 'new forests' alters forest structure and microclimate.",
+        "location": "Chapter Four: Climate Change",
+        "relevant_elements": ["1.1", "1.2", "1.3"]
+      },
+      {
+        "text": "In some cases, coastal habitats such as mangroves may be able to adjust their ranges inward, but only if there is available land to inhabit. They will not be able to move into or across developed land so it is important to consider creating habitat corridors in land use planning.",
+        "location": "Chapter Four: Climate Change",
+        "relevant_elements": ["1.4", "4.2", "4.1", "3.3"]
+      },
+      {
+        "text": "Commonly applied adaptation mechanisms include establishing migration corridors, which in the USVI can be achieved by protecting forested corridors and riparian gut systems that connect habitat patches. Buffering wetlands and mangroves with woodland habitat allows for upland migration, while planting seagrape trees behind beach dunes can protect from upland erosion, and allows for dune migration.",
+        "location": "Chapter Four: How to Respond to These Threats",
+        "relevant_elements": ["1.4", "4.1", "4.2", "1.3"]
+      },
+      {
+        "text": "Rising water temperatures will affect marine organisms. Commercially important fish species will move to areas with cooler water temperatures thus depleting a vital food source in the U.S. Virgin Islands.",
+        "location": "Chapter Four: Climate Change",
+        "relevant_elements": ["1.1", "3.5", "C2"]
+      },
+      {
+        "text": "Sea level rise will result in the loss of sandy beaches... Low lying areas, such as shorelines and coastal wetlands are expected to be inundated. The huge diversity of wildlife, especially birds, that rely on salt ponds will likely be displaced as the ponds become too deep and ultimately become part of the nearshore ocean waters.",
+        "location": "Chapter Four: Climate Change",
+        "relevant_elements": ["3.5", "1.1"]
+      },
+      {
+        "text": "Ocean acidification caused by climate change will severely affect marine habitats and their associated species (Hoegh et al. 2007, UNEP 2008). Studies have shown that calcifying organisms such as coccolithophores, corals, foraminifera, echinoderms, crustaceans and molluscs will be most affected by ocean acidification as acidic conditions degrade calcium carbonate structures (Mora et al. 2013).",
+        "location": "Chapter Four: Climate Change",
+        "relevant_elements": ["3.5", "3.6", "1.1"]
+      },
+      {
+        "text": "Atypically high water temperatures increase the abundance and virulence of coral pathogens and increase the corals susceptibility (Muller et al. 2008)... In 2005, an especially warm year, 60% of coral cover was lost on USVI reefs due to bleaching and subsequent disease (Miller et al. 2009). With the increasing temperatures associated with climate change, coral disease will likely become more widespread.",
+        "location": "Chapter Four: Diseases",
+        "relevant_elements": ["3.6", "3.7", "3.5", "1.1"]
+      },
+      {
+        "text": "Mosquito-borne illness has been on the rise and this threat is likely to increase with climate change (Staples and Fischer 2014, Pastula et al. 2016).",
+        "location": "Chapter Four: Diseases",
+        "relevant_elements": ["3.7", "3.6"]
+      },
+      {
+        "text": "1.2 Conserve, restore, and establish new ecological connections among conservation areas to facilitate species migrations, range shifts, and other transitions.",
+        "location": "Chapter Five: Table 5.2",
+        "relevant_elements": ["4.2", "1.4", "4.1"]
+      },
+      {
+        "text": "1.2.1 Identify migration corridors - Conduct mapping and modeling (essential habitat, habitat change, retreat models, vulnerability assessments)\n1.2.2 Secure and/or recover habitat - Conduct habitat restoration, easements, use of green infrastructure, constrain development constraint to allow migration and buffers, adjust shoreline boundaries to accommodate sea level rise",
+        "location": "Chapter Five: Table 5.2",
+        "relevant_elements": ["4.1", "4.2", "1.4", "2.4"]
+      },
+      {
+        "text": "2.1.3 Develop best management practices guidelines - Establish data collection and monitoring protocols, ecosystem management approach, use of vulnerability assessments and scenario planning to design management action, zoning and mooring plans",
+        "location": "Chapter Five: Table 5.2",
+        "relevant_elements": ["4.5", "2.1"]
+      },
+      {
+        "text": "2.3.1 Minimize reduction in population abundances of species of concern and ecosystem service providers - Conduct habitat restoration, threat reduction, translocation, captive breeding, disease management",
+        "location": "Chapter Five: Table 5.2",
+        "relevant_elements": ["4.2"]
+      },
+      {
+        "text": "2.4.2 Appropriately manage genetically isolated populations and management units - Establish connectivity between populations through corridors or translocation; maintain isolation as appropriate for population structure",
+        "location": "Chapter Five: Table 5.2",
+        "relevant_elements": ["1.3", "1.4", "4.2"]
+      },
+      {
+        "text": "A full review and update of the VI-WAP, including species status and effectiveness of conservation actions, will be conducted by DFW by 2025 to ensure priority actions and decision making are being conducted using the most recent available science.",
+        "location": "Monitoring Species and Effectiveness of Conservation Actions (Required Element 5)",
+        "relevant_elements": ["4.3"]
+      },
+      {
+        "text": "By working towards these measurable indicators, successes and shortfalls can be specifically identified for planning and for the 2025 WAP update.",
+        "location": "Chapter Five: The VI-WAP Conservation Strategy",
+        "relevant_elements": ["4.3"]
+      },
+      {
+        "text": "We drew upon resources contained within in the national guidance for climate change adaptation for fish, wildlife, and plants (NFWPCAP 2012). We adapted the goals and strategies from the National Fish, Wildlife and Plants Climate Adaptation Strategy (wildlifeadaptationstrategy.gov) as a framework and translated the goals and strategies to match USVI needs.",
+        "location": "Chapter Five: Development of Conservation Goals, Strategies, and Actions",
+        "relevant_elements": ["4.5", "4.4"]
+      },
+      {
+        "text": "A combination of planning processes were used to develop the conservation goals. We used the Conservation Action Planning (CAP) process devised by The Nature Conservancy (TNC 2007) to identify targets... We also used a Structured Decision Making approach, as developed by USFWS (USFWS 2008), to evaluate stakeholder values and develop objective hierarchies.",
+        "location": "Chapter Five: Conservation Goals for VI Resources",
+        "relevant_elements": ["4.5"]
+      },
+      {
+        "text": "2.2.3 Establish effectiveness measures - Conduct assessment of effectiveness of actions, monitoring and follow-through, accountability for project budgets and timelines.",
+        "location": "Chapter Five: Table 5.2",
+        "relevant_elements": ["4.3", "4.4"]
+      },
+      {
+        "text": "Climate change is likely to have a disproportionate impact on cays through sea level rise and changes in precipitation patterns. Drought is especially harsh on cays with only shrub cover that offers limited water storage capacity. Extended drought periods are likely to result in reduced fitness for reptiles and seabirds and changes in vegetation communities.",
+        "location": "Chapter Seven: Threats",
+        "relevant_elements": ["3.5", "3.6", "1.1"]
+      },
+      {
+        "text": "Since 2014, the USFWS has been allocating funds from the Coastal Program to collect ecological information at landscape and seascape levels for at least 16 cays around Puerto Rico and the USVI to develop vulnerability models that can be linked to existing and widely used geophysical models. This information will be used to assess species' vulnerability to coastal hazards, climate change effects, needs for habitat restoration and/or enhancements, and to identify and implement best management strategies.",
+        "location": "Chapter Seven: Research, Management, and Monitoring on the Cays",
+        "relevant_elements": ["2.1", "4.1"]
+      },
+      {
+        "text": "A coastal vulnerability analysis was conducted for 20 cays around Puerto Rico and the USVI between 2010 and 2013 that assessed historic shoreline change using aerial photographs, satellite imagery, and LiDAR, and projected future change using current sea-level rise data (Bush et al. 2014).",
+        "location": "Chapter Seven: Research, Management, and Monitoring on the Cays",
+        "relevant_elements": ["2.1", "2.3"]
+      },
+      {
+        "text": "The NOAA modeled future sea level rise projections for all three islands of the USVI at 6ft above the mean higher high water (MHHW) mark.",
+        "location": "Chapter Four: Climate Change",
+        "relevant_elements": ["2.3"]
+      },
+      {
+        "text": "A recent study found that the hatch success of leatherback turtles at SPNWR in St. Croix has decreased as a result of decreased precipitation resulting from climate change (Santidriàn et al. 2015).",
+        "location": "Chapter Four: Climate Change",
+        "relevant_elements": ["3.6", "4.4"]
+      },
+      {
+        "text": "A gene conservation goal: 2.4 Conserve genetic diversity by protecting diverse populations and genetic material across full range; 2.4.1 Conduct genetic inventory of species to reveal management units, population structure, and metapopulation dynamics",
+        "location": "Chapter Five: Table 5.2",
+        "relevant_elements": ["1.3"]
+      },
+      {
+        "text": "Partnerships: The VI-WAP was developed through a collaborative approach with federal, regional, and local entities to establish joint ownership of the goals... No single entity can accomplish the conservation objectives within the USVI due to extremely limited staffing and resources, emphasizing how necessary it is for all entities to contribute to the WAP.",
+        "location": "Partnerships with Management Agencies (Required Element 7)",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "Funding for the DFW is derived exclusively from federal grants... DFW's annual budget typically exceeds $3 million with around $700,000 targeted for wildlife.",
+        "location": "Division of Fish and Wildlife",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "Lack of funding is pervasive in all aspects of resource management in the VI. Positions go unfilled or are eliminated due to lack of funds, and many people end up doing the work of several people and often work outside their area of expertise.",
+        "location": "Chapter Four: Inaction",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "The VI-WAP also contains goals for adaptive management to include identification of useful indicators and the application of decision-making tools to evaluate effectiveness of effort.",
+        "location": "Monitoring Species and Effectiveness of Conservation Actions (Required Element 5)",
+        "relevant_elements": ["4.3", "4.5"]
+      },
+      {
+        "text": "Habitat loss is typically attributed to development of land or other land use change for human use, but it can also be the result of other threats. For example, sea level rise will result in the loss of sandy beaches.",
+        "location": "Chapter Four: Habitat Loss",
+        "relevant_elements": ["3.5"]
+      },
+      {
+        "text": "4.3.4 Provide access to current climate data and threat models and ensure alignment with data management and decision making tools - Establish web-based clearinghouse for data and data synthesis",
+        "location": "Chapter Five: Table 5.2",
+        "relevant_elements": ["2.3", "4.5"]
+      },
+      {
+        "text": "1.1.1 Identify and prioritize areas for protecting - Conduct inventory, mapping, and decision making; prioritize survey effort for data deficient and vulnerable species\n1.1.2 Secure areas for inclusion into protected areas network - Establish acquisitions of priority areas, using mechanisms such as purchasing and easements, Territorial Park System",
+        "location": "Chapter Five: Table 5.2",
+        "relevant_elements": ["4.1"]
+      },
+      {
+        "text": "Few protected areas are connected to allow migration, and adding new areas can be challenging due to ownership and land values.",
+        "location": "Chapter Five: Table 5.1",
+        "relevant_elements": ["1.4", "4.1"]
+      },
+      {
+        "text": "2.3.3 Build resiliency by maintaining redundancy of diverse habitats - Promote protection of connected habitat patches through policy and guidelines",
+        "location": "Chapter Five: Table 5.2",
+        "relevant_elements": ["1.4", "4.1"]
+      },
+      {
+        "text": "The major climate change threats across marine resources were increased temperature, ocean acidification, and changes to habitat structure and species distribution.",
+        "location": "Chapter Five: Development of Conservation Goals, Strategies, and Actions",
+        "relevant_elements": ["1.1", "3.5", "C2"]
+      },
+      {
+        "text": "Climate change was identified as posing a threat across resources but was much more difficult to rank due to unknown influences.",
+        "location": "Chapter Five: Development of Conservation Goals, Strategies, and Actions",
+        "relevant_elements": ["1.1"]
+      },
+      {
+        "text": "Efforts to expand the population from Green and Protestant cays resulted in the establishment of a translocated population on Ruth Island in the 1970s. Using lessons learned from that project, the NPS, USFWS, and DFW collaborated with Texas A&M University to introduce ground lizards to Buck Island in 2008 (Fitzgerald et al. 2015).",
+        "location": "Chapter Seven: Endangered Species Management and Recovery",
+        "relevant_elements": ["4.2", "4.4"]
+      },
+      {
+        "text": "There is some evidence that coral may be going through a rapid evolutionary event, resulting in the increased resistance to bleaching (T. Smith, pers. comm., 2017)",
+        "location": "Chapter Four: Climate Change",
+        "relevant_elements": ["1.3"]
+      },
+      {
+        "text": "Increased temperatures will affect the timing of seasonal activities of both animals and plants. Many species rely on temperature cues for mating, spawning, and migration. Changes in the timing of reproduction of birds, insects, amphibians, reptiles, and plants are likely to be seen in the USVI. Changes in the arrival time of migrating birds, for example, may result in a lack of food for refueling if the food source is not able to survive or even alter its own timing.",
+        "location": "Chapter Four: Climate Change",
+        "relevant_elements": ["3.7", "1.3", "3.6"]
+      },
+      {
+        "text": "Habitat and species management: to minimize reduction in population abundances and distributions of species of concern or ecosystem function by optimizing the ability of species & habitats to adjust to directional ecosystem changes",
+        "location": "Chapter Five: Table 5.1",
+        "relevant_elements": ["1.2", "4.5"]
+      }
+    ]
+  },
+  "concepts": {
+    "climate_vulnerability": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Endemic species and diverse environments of island ecosystems such as coral reefs, mangrove forests, and seagrass beds are vulnerable to climate change (Whittaker et al. 1999, McCarthy 2001). Climate change threats such as sea level rise, ocean acidification, rising temperatures, increased precipitation, and increased storm frequency/severity impact the local populations and diverse ecosystems of the U.S. Virgin Islands.",
+          "location": "Chapter Four: Climate Change",
+          "sub_component": "exposure",
+          "citations": ["Whittaker et al. 1999", "McCarthy 2001"]
+        },
+        {
+          "text": "Species that live on islands and that cannot disperse to other locations within their temperature tolerance, will likely die out. Microhabitats may become less favorable, particularly as deforestation and an increase in 'new forests' alters forest structure and microclimate.",
+          "location": "Chapter Four: Climate Change",
+          "sub_component": "adaptive capacity",
+          "citations": []
+        }
+      ],
+      "absence_note": "The document clearly discusses climate exposure for multiple species/habitats (sea level rise, temperature, ocean acidification). It also implicitly discusses adaptive capacity limitations — particularly the inability of island species to disperse and the need for corridors. However, the document does not explicitly operationalize both exposure AND adaptive capacity together in the IPCC-framework sense; it names exposure metrics and gestures at adaptive capacity limitations but never explicitly names adaptive capacity as a framework. Score 2 reflects exposure + implicit adaptive capacity framing, but not the explicit dual-axis articulation required for 3."
+    },
+    "adaptive_capacity_specificity": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Species that live on islands and that cannot disperse to other locations within their temperature tolerance, will likely die out.",
+          "location": "Chapter Four: Climate Change",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "Adaptive capacity is invoked through dispersal limitations and connectivity needs but is never named as 'adaptive capacity.' The components (distribution, movement, abiotic niche) are referenced individually but not under the umbrella of a named framework. Score 1."
+    },
+    "adaptive_capacity_components": {
+      "demography": {
+        "present": false,
+        "evidence": []
+      },
+      "distribution": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Changes in temperature also cause changes in species range shifts, meaning as temperature increases in a particular location, species will move to cooler areas to adapt. It has already been documented that terrestrial species are moving to higher elevations to escape areas with warming conditions (Chen et al. 2011).",
+            "location": "Chapter Four: Climate Change",
+            "sub_component": null,
+            "citations": ["Chen et al. 2011"]
+          }
+        ]
+      },
+      "movement": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Species that live on islands and that cannot disperse to other locations within their temperature tolerance, will likely die out.",
+            "location": "Chapter Four: Climate Change",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "evolutionary_potential": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "There is some evidence that coral may be going through a rapid evolutionary event, resulting in the increased resistance to bleaching (T. Smith, pers. comm., 2017)",
+            "location": "Chapter Four: Climate Change",
+            "sub_component": null,
+            "citations": ["T. Smith, pers. comm., 2017"]
+          }
+        ]
+      },
+      "ecological_dependencies": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Changes in the arrival time of migrating birds, for example, may result in a lack of food for refueling if the food source is not able to survive or even alter its own timing. Fruit eating bats may be more resilient to these shifts, but are still affected if drought fails to produce fruiting across one or more seasons.",
+            "location": "Chapter Four: Climate Change",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "abiotic_niche": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Species that live on islands and that cannot disperse to other locations within their temperature tolerance, will likely die out.",
+            "location": "Chapter Four: Climate Change",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "life_history": {
+        "present": false,
+        "evidence": []
+      }
+    },
+    "connectivity": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Commonly applied adaptation mechanisms include establishing migration corridors, which in the USVI can be achieved by protecting forested corridors and riparian gut systems that connect habitat patches. Buffering wetlands and mangroves with woodland habitat allows for upland migration, while planting seagrape trees behind beach dunes can protect from upland erosion, and allows for dune migration.",
+          "location": "Chapter Four: How to Respond to These Threats",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "In some cases, coastal habitats such as mangroves may be able to adjust their ranges inward, but only if there is available land to inhabit. They will not be able to move into or across developed land so it is important to consider creating habitat corridors in land use planning.",
+          "location": "Chapter Four: Climate Change",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "1.2 Conserve, restore, and establish new ecological connections among conservation areas to facilitate species migrations, range shifts, and other transitions.",
+          "location": "Chapter Five: Table 5.2",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    }
+  },
+  "tools": {
+    "vulnerability_models": {
+      "evaluable": true,
+      "score": 2,
+      "named_tools": [],
+      "evidence": [
+        {
+          "text": "Since 2014, the USFWS has been allocating funds from the Coastal Program to collect ecological information at landscape and seascape levels for at least 16 cays around Puerto Rico and the USVI to develop vulnerability models that can be linked to existing and widely used geophysical models. This information will be used to assess species' vulnerability to coastal hazards, climate change effects, needs for habitat restoration and/or enhancements, and to identify and implement best management strategies.",
+          "location": "Chapter Seven: Research, Management, and Monitoring on the Cays",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document describes in-progress vulnerability models applied to focal subjects (cays and USVI species/habitats). Also mentions 'use of vulnerability assessments' in best management practices design (Table 5.2, strategy 2.1.3). Named tools are not specified. Score 2 because the modeling is being applied to the document's focal subjects."
+    },
+    "niche_models": {
+      "evaluable": true,
+      "score": 0,
+      "named_tools": [],
+      "evidence": [],
+      "absence_note": "No species distribution models or ecological niche models are referenced. Strategy 1.2.1 mentions 'habitat change, retreat models' in general terms but these are aspirational actions rather than applied niche models."
+    },
+    "climate_models": {
+      "evaluable": true,
+      "score": 1,
+      "named_tools": ["NOAA sea level rise projections"],
+      "evidence": [
+        {
+          "text": "The NOAA modeled future sea level rise projections for all three islands of the USVI at 6ft above the mean higher high water (MHHW) mark.",
+          "location": "Chapter Four: Climate Change",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "NOAA sea level rise projections are referenced and applied to the USVI context (specific figures for all three islands), which elevates above mere general mention. However, no specific GCM, RCP, or SSP scenario is named, and no climate model is used to directly project species habitat suitability or distributions. The coastal vulnerability analysis referenced (Bush et al. 2014) used 'current sea-level rise data' but no named climate model. Score 1 — the projections are referenced and implicitly applied but no formal climate model apparatus is named.",
+      "time_horizon_years": [],
+      "emission_scenarios": []
+    },
+    "connectivity_models": {
+      "evaluable": true,
+      "score": 1,
+      "named_tools": [],
+      "evidence": [
+        {
+          "text": "1.2.1 Identify migration corridors - Conduct mapping and modeling (essential habitat, habitat change, retreat models, vulnerability assessments)",
+          "location": "Chapter Five: Table 5.2",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document recommends mapping and modeling for migration corridors but does not describe having applied a connectivity model. No tools are named. Score 1 (referenced generally as future action)."
+    }
+  },
+  "context": {
+    "management_scale": {
+      "local": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Commonly applied adaptation mechanisms include establishing migration corridors, which in the USVI can be achieved by protecting forested corridors and riparian gut systems that connect habitat patches.",
+            "location": "Chapter Four: How to Respond to These Threats",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "site": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Goats and rats were removed in 2004 from Dutchcap Cay, site of an important seabird colony in the USVI, although they still remain on Thatch, and many other privately owned cays.",
+            "location": "Chapter Seven: Threats",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "watershed": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "7.2.2 Develop watershed management plans to identify local sources and solutions for marine pollution input and wetland degradation - Promote or regulate reduction or restriction on impervious surfaces, establish a watershed planning approach rather than parcel by parcel decision-making",
+            "location": "Chapter Five: Table 5.2",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "city": {
+        "present": false,
+        "evidence": []
+      },
+      "county": {
+        "present": false,
+        "evidence": []
+      },
+      "within_state_region": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "St. Croix is almost twice the size of St. Thomas, with less infrastructural development... St. John is the smallest population of less than 5000.",
+            "location": "Geographic and Demographic Setting",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "state": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The revised VI-WAP takes a territorial and ecosystem management approach to conservation management of species and habitats.",
+            "location": "Chapter Five: The VI-WAP Conservation Strategy",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "multistate": {
+        "present": false,
+        "evidence": []
+      },
+      "national": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "We drew upon resources contained within in the national guidance for climate change adaptation for fish, wildlife, and plants (NFWPCAP 2012).",
+            "location": "Chapter Five: Conservation Goals for VI Resources",
+            "sub_component": null,
+            "citations": ["NFWPCAP 2012"]
+          }
+        ]
+      },
+      "transnational": {
+        "present": false,
+        "evidence": []
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The revised VI-WAP takes a territorial and ecosystem management approach to conservation management of species and habitats.",
+            "location": "Chapter Five: The VI-WAP Conservation Strategy",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecoregion": {
+        "present": false,
+        "evidence": []
+      },
+      "province": {
+        "present": false,
+        "evidence": []
+      },
+      "section": {
+        "present": false,
+        "evidence": []
+      },
+      "subsection": {
+        "present": false,
+        "evidence": []
+      },
+      "lake": {
+        "present": false,
+        "evidence": []
+      },
+      "river": {
+        "present": false,
+        "evidence": []
+      },
+      "district": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["U.S. Virgin Islands", "St. Thomas", "St. John", "St. Croix", "cays network", "Caribbean region"]
+    },
+    "biological_unit_score": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Changes in temperature also cause changes in species range shifts, meaning as temperature increases in a particular location, species will move to cooler areas to adapt.",
+          "location": "Chapter Four: Climate Change",
+          "sub_component": "species",
+          "citations": []
+        },
+        {
+          "text": "In some cases, coastal habitats such as mangroves may be able to adjust their ranges inward, but only if there is available land to inhabit. They will not be able to move into or across developed land so it is important to consider creating habitat corridors in land use planning.",
+          "location": "Chapter Four: Climate Change",
+          "sub_component": "habitat",
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "biological_unit_components": {
+      "species": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Changes in temperature also cause changes in species range shifts, meaning as temperature increases in a particular location, species will move to cooler areas to adapt. It has already been documented that terrestrial species are moving to higher elevations to escape areas with warming conditions (Chen et al. 2011).",
+            "location": "Chapter Four: Climate Change",
+            "sub_component": null,
+            "citations": ["Chen et al. 2011"]
+          }
+        ]
+      },
+      "population": {
+        "present": false,
+        "evidence": []
+      },
+      "habitat": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "In some cases, coastal habitats such as mangroves may be able to adjust their ranges inward, but only if there is available land to inhabit. They will not be able to move into or across developed land so it is important to consider creating habitat corridors in land use planning.",
+            "location": "Chapter Four: Climate Change",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The major climate change threats across marine resources were increased temperature, ocean acidification, and changes to habitat structure and species distribution.",
+            "location": "Chapter Five: Development of Conservation Goals, Strategies, and Actions",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "community": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "It is well documented that hurricanes and severe storms occurring in tropical locations can change the community compositions of species. On Puerto Rico, studies have shown that there are shifts in animal and plant composition in the El Yunque Rainforest after extreme hurricanes (Jennings et al. 2014).",
+            "location": "Chapter Four: Climate Change",
+            "sub_component": null,
+            "citations": ["Jennings et al. 2014"]
+          }
+        ]
+      },
+      "genotype_phenotype": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["Virgin Islands Tree Boa (Chilabothrus granti)", "sea turtles", "coral reefs", "mangroves", "seagrass beds", "leatherback turtles", "Commercially important fish species", "St. Croix Ground Lizard"]
+    },
+    "partnerships_and_funding": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Partnerships: The VI-WAP was developed through a collaborative approach with federal, regional, and local entities to establish joint ownership of the goals... No single entity can accomplish the conservation objectives within the USVI due to extremely limited staffing and resources, emphasizing how necessary it is for all entities to contribute to the WAP.",
+          "location": "Partnerships with Management Agencies (Required Element 7)",
+          "sub_component": "partnerships",
+          "citations": []
+        },
+        {
+          "text": "Lack of funding is pervasive in all aspects of resource management in the VI. Positions go unfilled or are eliminated due to lack of funds, and many people end up doing the work of several people and often work outside their area of expertise.",
+          "location": "Chapter Four: Inaction",
+          "sub_component": "funding",
+          "citations": []
+        }
+      ],
+      "absence_note": "The document describes extensive partnerships (DFW, UVI, SEA, NPS, USFWS, TNC, CLCC, etc.) but characterizes funding as deeply constrained and largely aspirational. The document does not describe strategic investment with active partnerships specifically implementing range-shift actions; rather, it identifies the need for such partnerships. Score 1."
+    },
+    "climate_threat_habitat_degradation": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Sea level rise will result in the loss of sandy beaches... Low lying areas, such as shorelines and coastal wetlands are expected to be inundated. The huge diversity of wildlife, especially birds, that rely on salt ponds will likely be displaced as the ponds become too deep and ultimately become part of the nearshore ocean waters.",
+          "location": "Chapter Four: Climate Change",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_threat_species_vital_rates": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "A recent study found that the hatch success of leatherback turtles at SPNWR in St. Croix has decreased as a result of decreased precipitation resulting from climate change (Santidriàn et al. 2015).",
+          "location": "Chapter Four: Climate Change",
+          "sub_component": null,
+          "citations": ["Santidriàn et al. 2015"]
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_threat_biotic_stressors": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Increased temperatures will affect the timing of seasonal activities of both animals and plants. Many species rely on temperature cues for mating, spawning, and migration. Changes in the timing of reproduction of birds, insects, amphibians, reptiles, and plants are likely to be seen in the USVI. Changes in the arrival time of migrating birds, for example, may result in a lack of food for refueling if the food source is not able to survive or even alter its own timing.",
+          "location": "Chapter Four: Climate Change",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    }
+  },
+  "actions": {
+    "priority_habitat_identification": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "1.2.1 Identify migration corridors - Conduct mapping and modeling (essential habitat, habitat change, retreat models, vulnerability assessments)\n1.2.2 Secure and/or recover habitat - Conduct habitat restoration, easements, use of green infrastructure, constrain development constraint to allow migration and buffers, adjust shoreline boundaries to accommodate sea level rise",
+          "location": "Chapter Five: Table 5.2",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "1.1.1 Identify and prioritize areas for protecting - Conduct inventory, mapping, and decision making; prioritize survey effort for data deficient and vulnerable species\n1.1.2 Secure areas for inclusion into protected areas network - Establish acquisitions of priority areas, using mechanisms such as purchasing and easements, Territorial Park System",
+          "location": "Chapter Five: Table 5.2",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document includes maps of projected sea level rise for all three islands (Figures 4.1, 4.2, 4.3) and the strategy table explicitly proposes mapping and acquisition of priority habitat areas for connectivity and species migration in a climate context. The presence of spatial mapping (sea level rise projections) linked to habitat management decisions justifies score 2."
+    },
+    "targeted_range_shift_actions": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "1.2 Conserve, restore, and establish new ecological connections among conservation areas to facilitate species migrations, range shifts, and other transitions.",
+          "location": "Chapter Five: Table 5.2",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Commonly applied adaptation mechanisms include establishing migration corridors, which in the USVI can be achieved by protecting forested corridors and riparian gut systems that connect habitat patches. Buffering wetlands and mangroves with woodland habitat allows for upland migration, while planting seagrape trees behind beach dunes can protect from upland erosion, and allows for dune migration.",
+          "location": "Chapter Four: How to Respond to These Threats",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "time_bound_and_monitoring": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "A full review and update of the VI-WAP, including species status and effectiveness of conservation actions, will be conducted by DFW by 2025 to ensure priority actions and decision making are being conducted using the most recent available science.",
+          "location": "Monitoring Species and Effectiveness of Conservation Actions (Required Element 5)",
+          "sub_component": "deadlines",
+          "citations": []
+        }
+      ],
+      "absence_note": "The document sets a 2025 revision deadline and mentions measurable indicators in the Priority Actions table, but does not operationalize effectiveness monitoring at the individual action level with clear protocols. The monitoring programs described (seabirds, turtles, bats, etc.) are existing programs, not new action-linked monitoring. The statement 'By working towards these measurable indicators, successes and shortfalls can be specifically identified' gestures at effectiveness monitoring but without specific protocols tied to individual actions. Score 1."
+    },
+    "evidence_of_efficacy": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Efforts to expand the population from Green and Protestant cays resulted in the establishment of a translocated population on Ruth Island in the 1970s. Using lessons learned from that project, the NPS, USFWS, and DFW collaborated with Texas A&M University to introduce ground lizards to Buck Island in 2008 (Fitzgerald et al. 2015).",
+          "location": "Chapter Seven: Endangered Species Management and Recovery",
+          "sub_component": null,
+          "citations": ["Fitzgerald et al. 2015"]
+        },
+        {
+          "text": "Included in this assessment was an evaluation of the effectiveness of the conservation actions identified in the 2005 CWCS.",
+          "location": "Conservation Actions (Required Element 4)",
+          "sub_component": null,
+          "citations": ["TNC 2007", "USFWS 2008", "NFWPCAP 2012"]
+        }
+      ],
+      "absence_note": "The document provides some evidence of efficacy through case studies (translocation, invasive eradication outcomes) and the 2005 CWCS evaluation, but the evidence base is limited in scope and applicability. The translocation of the St. Croix Ground Lizard is the strongest example. Most actions are justified on ecological principles without systematic citations to efficacy studies. Score 2 for limited evidence.",
+      "projects": ["St. Croix Ground Lizard translocation to Ruth Island and Buck Island: Lessons from earlier translocation informed a 2008 translocation to Buck Island (Fitzgerald et al. 2015), providing direct evidence that translocation is an effective conservation tool for this species.", "2005 CWCS effectiveness evaluation: The 2018 VI-WAP assessed the accomplishment of 2005 CWCS goals, providing limited evidence of action effectiveness across multiple resource types (Appendix 1.1).", "Rat eradication on cays: Multiple cay-level eradications (Dutchcap, Buck Island, Congo Cay) provide evidence on the effectiveness of invasive predator removal, with Congo Cay providing a counterexample of failed eradication."]
+    },
+    "adaptation_planning_frameworks": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "We also used a Structured Decision Making approach, as developed by USFWS (USFWS 2008), to evaluate stakeholder values and develop objective hierarchies. We drew upon resources contained within in the national guidance for climate change adaptation for fish, wildlife, and plants (NFWPCAP 2012).",
+          "location": "Chapter Five: Conservation Goals for VI Resources",
+          "sub_component": null,
+          "citations": ["USFWS 2008", "NFWPCAP 2012"]
+        },
+        {
+          "text": "We adapted the goals and strategies from the National Fish, Wildlife and Plants Climate Adaptation Strategy (wildlifeadaptationstrategy.gov) as a framework and translated the goals and strategies to match USVI needs.",
+          "location": "Chapter Five: Development of Conservation Goals, Strategies, and Actions",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    }
+  },
+  "coding_meta": {
+    "coder": "llm:claude-sonnet-4-6",
+    "model": "claude-sonnet-4-6",
+    "provider": "claude",
+    "codebook_version": "0.4",
+    "ingest": "text",
+    "design": "single",
+    "temperature": null,
+    "thinking": null,
+    "thinking_effort": null,
+    "coded_at": "2026-07-06T18:39:26Z",
+    "notes": {}
+  }
+}

@@ -1,0 +1,801 @@
+{
+  "document_meta": {
+    "title": "Kentucky's State Wildlife Action Plan",
+    "year": 2023,
+    "jurisdiction": "Kentucky",
+    "document_type": "SWAP",
+    "document_id": "KY_SWAP_2023",
+    "page_count": 1632
+  },
+  "orientation": {
+    "summary": "This is the 2023 second revision of Kentucky's State Wildlife Action Plan (SWAP), a comprehensive conservation planning document produced by the Kentucky Department of Fish and Wildlife Resources (KDFWR). The plan covers 527 Species of Greatest Conservation Need (SGCN) across nine taxa groups and proposes over 2,000 conservation actions. The document engages climate change primarily as a threat context—acknowledging it as a 'global threat of concern' that 'compounds many potential and existing threats to SGCN'—but does not perform original climate modeling or vulnerability assessments itself. Range shift science is acknowledged peripherally: the document references climate-driven distributional changes (e.g., noting range expansions of some species as a result of a warming climate, and the long-tailed shrew as a glacial relict potentially threatened by warming), but this is not a central analytic focus. The plan's principal analysis consists of species status assessments, threat identification, conservation action identification and prioritization, and delineation of eleven Conservation Opportunity Areas (COAs); it draws on prior work by TNC, SECAS, and NatureServe rather than performing its own spatial or vulnerability modeling.",
+    "evidence_index": [
+      {
+        "text": "Climate change is recognized as a global threat of concern and compounds many potential and existing threats to SGCN. The complexity of this threat is further addressed in Apx 5.2 as related to Kentucky's SGCN and their habitats.",
+        "location": "Chapter 5: Threats to SGCN / Common Threats Across Taxa Groups",
+        "relevant_elements": ["1.1", "3.5", "3.6", "3.7"]
+      },
+      {
+        "text": "Global climate change has the potential to increase stressors to fish and wildlife populations and ecosystems in Kentucky. One objective of the STWG program is to prevent additional species from becoming federally listed under the Endangered Species Act.",
+        "location": "APX 5.2 Impacts and Strategies for Addressing Climate Change / Conclusion",
+        "relevant_elements": ["1.1", "4.5"]
+      },
+      {
+        "text": "It is quite likely that the impacts of other identified threats would be exacerbated for many species. For some SGCN thought to be glacial relicts to Kentucky (like the Virginia Big-Eared Bat or Long-Tailed Shrew) or species with the southern extent of their range occurs in Kentucky (like the Burbot or the Eastern Red-Backed Salamander) a warming climate could lead to extirpation from the state. Other SGCN with the northern extent of their range currently in Kentucky (like the cotton mouse or Southern Brook Lamprey) could experience range expansion.",
+        "location": "APX 5.2 Impacts and Strategies for Addressing Climate Change / Overview",
+        "relevant_elements": ["1.1", "1.2", "1.3", "2.1", "3.3"]
+      },
+      {
+        "text": "Some southern species have already demonstrated range expansions throughout Kentucky over the past few decades (i.e. Nine-Banded Armadillo and Evening Bat). Similarly, invasive species common to the southern U.S. (such as imported fire ants) will likely continue to spread northward, potentially resulting in a negative impact to small mammal, reptile, and amphibian populations.",
+        "location": "APX 5.2 Impacts and Strategies for Addressing Climate Change / Overview",
+        "relevant_elements": ["1.1", "3.3", "3.7"]
+      },
+      {
+        "text": "Understanding why species and ecosystems are vulnerable or potentially less resilient is a critical first step in developing effective conservation strategies. This vulnerability is based on sensitivity, exposure, and the ability to adapt.",
+        "location": "APX 5.2 Impacts and Strategies for Addressing Climate Change / Overview",
+        "relevant_elements": ["1.1", "1.2"]
+      },
+      {
+        "text": "Kentucky's SWAP adopts a strategy of increasing resilience through direct actions which will increase the probability that species and habitats of conservation concern will adapt to impacts of climate change throughout Kentucky.",
+        "location": "APX 5.2 Impacts and Strategies for Addressing Climate Change / Overview",
+        "relevant_elements": ["1.1", "1.2", "4.5"]
+      },
+      {
+        "text": "Species' physiological limits are tested as shifting temperatures, altered hydrology, and changing seasonal cues affect survival, reproduction, and migration.",
+        "location": "APX 5.2 Impacts and Strategies for Addressing Climate Change",
+        "relevant_elements": ["1.3", "3.6"]
+      },
+      {
+        "text": "Some species are highly sensitive to temperature shifts or struggle with repeated exposure to habitat loss due to altered hydrological cycles, increased fire frequency, or sea level rise.",
+        "location": "APX 5.2 Impacts and Strategies for Addressing Climate Change",
+        "relevant_elements": ["1.1", "1.3", "3.5"]
+      },
+      {
+        "text": "Species with low adaptive capacity such as those with specialized habitat needs or limited dispersal ability face higher vulnerability to these changes.",
+        "location": "APX 5.2 Impacts and Strategies for Addressing Climate Change",
+        "relevant_elements": ["1.2", "1.3"]
+      },
+      {
+        "text": "Goal One: Conserve and restore functioning resilient, connected, and biodiverse ecosystems in Kentucky; sustain social-ecological systems and functions.",
+        "location": "APX 5.2 Impacts and Strategies for Addressing Climate Change / A Strategy of Resilience: Kentucky's Climate Change Action Items",
+        "relevant_elements": ["4.1", "4.2", "4.5"]
+      },
+      {
+        "text": "To effectively identify and conserve high-quality fish and wildlife corridors in Kentucky, we are in desperate need of funding and spending authority for land acquisition, conservation easements, and habitat restoration practices.",
+        "location": "APX 5.2 Impacts and Strategies for Addressing Climate Change / Conclusion",
+        "relevant_elements": ["1.4", "4.1", "4.2", "3.4"]
+      },
+      {
+        "text": "Land managers and biologists across the nation realize that long-term conservation of biodiversity requires corridors and intact habitat.",
+        "location": "APX 5.2 Impacts and Strategies for Addressing Climate Change / Conclusion",
+        "relevant_elements": ["1.4"]
+      },
+      {
+        "text": "Creating protected corridors through watersheds and/or connecting fragmented remnant habitats is important for maintaining landscape-scale ecosystem processes. It is also crucial for species' long term viability and adaptability, and can be key to providing suitable habitat for migration as the climate changes.",
+        "location": "Plants: Threats / Actions and Needs",
+        "relevant_elements": ["1.4", "4.1", "4.2"]
+      },
+      {
+        "text": "Figure 2. Climate Flow Zones are the most important areas for safeguarding biodiversity because they contain known locations of unique communities and rare species, yet also have large areas of intact habitats, allowing populations to move and shift over time.",
+        "location": "APX 5.2 Impacts and Strategies for Addressing Climate Change / Figures",
+        "relevant_elements": ["1.4", "4.1"]
+      },
+      {
+        "text": "Figure 3. Climate resilient areas in Kentucky. This network represents areas of confirmed biodiversity which are resilient due to prevalence of intact natural habitats. Larger areas of natural habitat are considered 'diffuse flow zones' while smaller areas are considered 'concentrated flow zones'.",
+        "location": "APX 5.2 Impacts and Strategies for Addressing Climate Change / Figures",
+        "relevant_elements": ["1.4", "4.1", "4.5"]
+      },
+      {
+        "text": "Figure 1. Critical Climate Migration Corridors for North American Amphibians, Birds, and Mammals. The Central Appalachians are critically important for climate migration.",
+        "location": "APX 5.2 Impacts and Strategies for Addressing Climate Change / Figures",
+        "relevant_elements": ["1.4", "4.2"]
+      },
+      {
+        "text": "Identify and protect refugia and concentrating habitats for SGCN, particularly subterranean systems and breeding areas. Identify and protect climatic refugia and associated biodiversity. 'Climatic refugia' are areas that are least likely to undergo significant climate induced changes.",
+        "location": "APX 5.2 Impacts and Strategies for Addressing Climate Change / A Strategy of Resilience",
+        "relevant_elements": ["4.1", "4.5"]
+      },
+      {
+        "text": "Action 2b. Remove aquatic barriers for dispersal including dams and improperly constructed culverts, where applicable.",
+        "location": "APX 5.2 Impacts and Strategies for Addressing Climate Change / A Strategy of Resilience: Kentucky's Climate Change Action Items",
+        "relevant_elements": ["4.2", "1.4"]
+      },
+      {
+        "text": "We delineated eleven Conservation Opportunity Areas (COAs) that represent some of the best regions of the state to continue or initiate conservation objectives.",
+        "location": "Executive Summary",
+        "relevant_elements": ["4.1"]
+      },
+      {
+        "text": "Utilizing the SECAS Southeast Conservation Blueprint, TNC's terrestrial and aquatic habitat priority models, and the United States Geologic Survey Protected Areas Dataset (PAD-US), the SWAP Advisory Team selected Conservation Opportunity Areas via a collaborative heads-up digitization process.",
+        "location": "Chapter 7: Conservation Actions for SGCN / Determining and Delineating Conservation Opportunity Areas",
+        "relevant_elements": ["4.1", "2.4"]
+      },
+      {
+        "text": "The Environmental Protection Agency (EPA) predicts the southeastern United States will be subject to climate change impacts including water resource issues, impacts on human health, impacts to agricultural systems, as well as ecosystem impacts.",
+        "location": "APX 5.2 Impacts and Strategies for Addressing Climate Change / Overview",
+        "relevant_elements": ["1.1", "3.5"]
+      },
+      {
+        "text": "Over the past decade, changing climate has resulted in higher frequency of flooding, more frequent droughts, reduction of crop yields, and concern for competing demands for water in the Ohio, Tennessee, and Cumberland Rivers.",
+        "location": "APX 5.2 Impacts and Strategies for Addressing Climate Change / Overview",
+        "relevant_elements": ["3.5", "3.6"]
+      },
+      {
+        "text": "A wide range of shifting climate impacts have already been observed including changing temperatures, changing water regimes, shifts in rain/snow events, shifts in surface and groundwater levels, and changing ocean systems (including strengthening storms and sea level rise).",
+        "location": "APX 5.2 Impacts and Strategies for Addressing Climate Change / Overview",
+        "relevant_elements": ["1.1", "3.5"]
+      },
+      {
+        "text": "Habitat alteration was determined to be a significant threat to Kentucky's SGCN, whether the result of residential and commercial development, agriculture and ranching, energy production and mining, transportation and service corridors, natural resource use/logging, or natural system modification by dams or stream channelization. Any of these threats have the potential to cause major habitat changes which could result in population declines of SGCN.",
+        "location": "APX 5.2 Impacts and Strategies for Addressing Climate Change / Overview",
+        "relevant_elements": ["3.5"]
+      },
+      {
+        "text": "White-nose syndrome (WNS) is a devastating disease impacting many bat species in North America. Caused by a white fungus that often grows on the muzzle and wings, it has caused unprecedented mortality in some hibernating bat species.",
+        "location": "Disease Surveillance / Southeastern Cooperative Disease Monitoring for White nose syndrome",
+        "relevant_elements": ["3.6"]
+      },
+      {
+        "text": "Shift to high elevations are evident between Breeding Bird Atlases in several eastern states.",
+        "location": "APX 5.1b Threats Identified for Bird SGCN",
+        "relevant_elements": ["1.1", "3.3"]
+      },
+      {
+        "text": "Warming has allowed invasive cheatgrass to expand its range into higher elevations previously dominated by native bunchgrasses.",
+        "location": "APX 5.2",
+        "relevant_elements": ["3.7"]
+      },
+      {
+        "text": "West Nile Virus... The frequency and severity of WNV have increased since 2012, with warming spring temperatures being an important driver of prevalence and severity (i.e., WNV is a climate change exacerbated avian disease).",
+        "location": "APX 5.1b Threats Identified for Bird SGCN / Bonasa umbellus Ruffed Grouse",
+        "relevant_elements": ["3.6", "3.7"]
+      },
+      {
+        "text": "Changes in distribution documented through the 2nd breeding bird atlas will help assess the effects of climate change, habitat loss and other widespread issues for many species.",
+        "location": "Birds: Research and Survey Needs",
+        "relevant_elements": ["1.1", "3.3"]
+      },
+      {
+        "text": "Use performance-based monitoring identified within the Plan to incorporate information from new research and monitoring to adapt conservation actions as necessary.",
+        "location": "Comprehensive Review and Revision / Long-term Goals",
+        "relevant_elements": ["4.3"]
+      },
+      {
+        "text": "Proposed plans for monitoring species identified in Element One and their habitats, for monitoring the effectiveness of the conservation actions proposed in Element Four, and for adapting these conservation actions to respond appropriately to new information or changing conditions.",
+        "location": "APX 1.1 Location and Guide to the Eight Required Elements / Element 5",
+        "relevant_elements": ["4.3"]
+      },
+      {
+        "text": "To maintain the adaptive nature of SWAP, it is essential to continue activities that capture range shifts, changes in species distribution, and overall population trends.",
+        "location": "Chapter 3: Species of Greatest Conservation Need / SGCN Profile Pages",
+        "relevant_elements": ["4.3", "3.3"]
+      },
+      {
+        "text": "Kentucky's SWAP is reviewed every 10 years to reflect the most current survey, research, and management needs.",
+        "location": "Kentucky's State Wildlife Action Plan (SWAP)",
+        "relevant_elements": ["4.3"]
+      },
+      {
+        "text": "Predicted impacts of climate change could potentially increase the vulnerability of the species. Intensified droughts and elevated stream temperatures would have detrimental effects on existing populations.",
+        "location": "APX 5.1d Threats Identified for Fishes and Lamprey SGCN",
+        "relevant_elements": ["1.1", "3.5", "3.6"]
+      },
+      {
+        "text": "Severe weather events as a result of climate change can also impact rare plants through changes in timing, duration, frequency, and intensity. Drought, flooding, erosion, extreme temperatures, and extreme winds can threaten both rare plant populations and their associated habitats.",
+        "location": "Plants: Threats",
+        "relevant_elements": ["3.5", "3.6"]
+      },
+      {
+        "text": "KDFWR, in conjunction with the Daniel Boone National Forest, Kentucky Natural Lands Trust, and U.S. Fish and Wildlife Service, undertook an effort to located additional maternity sites for the species.",
+        "location": "Mammals: Utilization of partnerships and multiple funding sources to manage an endangered species, the Virginia big-eared bat (CASE STUDY)",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "Traditional SWAP partners for Kentucky include state and federal agencies such as the Office of Kentucky Nature Preserves (OKNP), USDA Natural Resources Conservation Service (NRCS), USDA Forest Service (USFS), US Army Corps of Engineers (USCOE), US Fish and Wildlife Service (USFWS)...",
+        "location": "Partnerships for Plan Development and Implementation",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "In conjunction with this core vision, the Advisory Team adopted several guiding principles for decision making during the second comprehensive review and revision of Kentucky's SWAP",
+        "location": "Comprehensive Review and Revision",
+        "relevant_elements": ["4.5"]
+      },
+      {
+        "text": "Develop and document distribution-model methods for under-studied focal species that can incorporate the agency's institutional data sets.",
+        "location": "Birds: Research and Survey Needs",
+        "relevant_elements": ["2.2"]
+      },
+      {
+        "text": "Habitat use and SGCN Occurrence Modeling... To further refine the habitat needs of SGCN, the GAP/LANDFIRE National Terrestrial Ecosystems dataset for Kentucky was utilized to model habitats for terrestrial and lentic SGCN that were not considered data deficient.",
+        "location": "Chapter 4: SGCN Distribution and Habitats / Habitat Use and SGCN Occurrence Modeling",
+        "relevant_elements": ["2.2"]
+      },
+      {
+        "text": "Utilizing the SECAS Southeast Conservation Blueprint, TNC's terrestrial and aquatic habitat priority models, and the United States Geologic Survey Protected Areas Dataset (PAD-US), the SWAP Advisory Team selected Conservation Opportunity Areas via a collaborative heads-up digitization process.",
+        "location": "Chapter 7: Conservation Actions for SGCN / Determining and Delineating COAs",
+        "relevant_elements": ["2.4", "4.1"]
+      },
+      {
+        "text": "According to analyses conducted by the Southeast Conservation Adaptation Strategy (SECAS), land area managed for biodiversity in Kentucky is roughly 1.4% (382,260 acres) of the State.",
+        "location": "Land Ownership, Population, and Economy",
+        "relevant_elements": ["3.1"]
+      },
+      {
+        "text": "Implement freshwater adaptation approaches to enable aquatic ecosystems to provide for both human and wildlife needs in the face of changing climates (e.g., invest in applied research on the impacts of climate change on specific ecosystems and link adaptation strategies to this research).",
+        "location": "APX 5.2 / Action 1k",
+        "relevant_elements": ["4.5"]
+      },
+      {
+        "text": "The catspaw mussel, Epioblasma obliquata, is one of 25 species in the genus Epioblasma that was thought to be extinct until a few individuals were found in a small northern Ohio stream during the mid-1990's... As of 2023, the CMC has released over 5,000 catspaw mussels into wild streams and staff have already observed evidence of reproduction at all five Kentucky release sites.",
+        "location": "Freshwater Mussels: Recovering the Catspaw Mussel (CASE STUDY)",
+        "relevant_elements": ["4.4"]
+      },
+      {
+        "text": "The Northern Leopard Frog Recovery on Kentucky River Wildlife Management Area... WMA personnel used a small bulldozer to create three shallow vernal pools along the ditch channels that would hold water throughout the spring and early summer... The new pools were used as breeding sites the following spring and contained egg masses and tadpoles during 11 of the next 13 years.",
+        "location": "Amphibians / CASE STUDY: Northern Leopard Frog Recovery",
+        "relevant_elements": ["4.4"]
+      },
+      {
+        "text": "Two nature preserves with known occurrences of rattlesnake master borer moth were given high priority for management activities and were monitored from 2017 through 2019 by surveyors... Stem counts of rattlesnake master increased by 443% at the primary rattlesnake master borer moth management site and 127% at the secondary management site across three years of monitoring.",
+        "location": "Insects: Rattlesnake Master Borer Moth (CASE STUDY)",
+        "relevant_elements": ["4.4"]
+      }
+    ]
+  },
+  "concepts": {
+    "climate_vulnerability": {
+      "evaluable": true,
+      "score": 3,
+      "evidence": [
+        {
+          "text": "Understanding why species and ecosystems are vulnerable or potentially less resilient is a critical first step in developing effective conservation strategies. This vulnerability is based on sensitivity, exposure, and the ability to adapt.",
+          "location": "APX 5.2 Impacts and Strategies for Addressing Climate Change / Overview",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Some species are highly sensitive to temperature shifts or struggle with repeated exposure to habitat loss due to altered hydrological cycles, increased fire frequency, or sea level rise.",
+          "location": "APX 5.2 Impacts and Strategies for Addressing Climate Change",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Species with low adaptive capacity such as those with specialized habitat needs or limited dispersal ability face higher vulnerability to these changes.",
+          "location": "APX 5.2 Impacts and Strategies for Addressing Climate Change",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "adaptive_capacity_specificity": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Species with low adaptive capacity such as those with specialized habitat needs or limited dispersal ability face higher vulnerability to these changes.",
+          "location": "APX 5.2 Impacts and Strategies for Addressing Climate Change",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "For some SGCN thought to be glacial relicts to Kentucky (like the Virginia Big-Eared Bat or Long-Tailed Shrew) or species with the southern extent of their range occurs in Kentucky (like the Burbot or the Eastern Red-Backed Salamander) a warming climate could lead to extirpation from the state. Other SGCN with the northern extent of their range currently in Kentucky (like the cotton mouse or Southern Brook Lamprey) could experience range expansion.",
+          "location": "APX 5.2 Impacts and Strategies for Addressing Climate Change / Overview",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document references specific components of adaptive capacity (dispersal ability, specialized habitat needs, distributional position relative to range edge) but does not deeply operationalize them across taxa. Score 2 is warranted because specific components are named."
+    },
+    "adaptive_capacity_components": {
+      "demography": {
+        "present": false,
+        "evidence": []
+      },
+      "distribution": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "For some SGCN thought to be glacial relicts to Kentucky (like the Virginia Big-Eared Bat or Long-Tailed Shrew) or species with the southern extent of their range occurs in Kentucky...a warming climate could lead to extirpation from the state. Other SGCN with the northern extent of their range currently in Kentucky...could experience range expansion.",
+            "location": "APX 5.2 Impacts and Strategies for Addressing Climate Change / Overview",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "movement": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Species with low adaptive capacity such as those with specialized habitat needs or limited dispersal ability face higher vulnerability to these changes.",
+            "location": "APX 5.2 Impacts and Strategies for Addressing Climate Change",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "evolutionary_potential": {
+        "present": false,
+        "evidence": []
+      },
+      "ecological_dependencies": {
+        "present": false,
+        "evidence": []
+      },
+      "abiotic_niche": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Some species are highly sensitive to temperature shifts or struggle with repeated exposure to habitat loss due to altered hydrological cycles, increased fire frequency, or sea level rise.",
+            "location": "APX 5.2 Impacts and Strategies for Addressing Climate Change",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "life_history": {
+        "present": false,
+        "evidence": []
+      }
+    },
+    "connectivity": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Creating protected corridors through watersheds and/or connecting fragmented remnant habitats is important for maintaining landscape-scale ecosystem processes. It is also crucial for species' long term viability and adaptability, and can be key to providing suitable habitat for migration as the climate changes.",
+          "location": "Plants: Threats / Actions and Needs",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "To effectively identify and conserve high-quality fish and wildlife corridors in Kentucky, we are in desperate need of funding and spending authority for land acquisition, conservation easements, and habitat restoration practices.",
+          "location": "APX 5.2 Impacts and Strategies for Addressing Climate Change / Conclusion",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Figure 2. Climate Flow Zones are the most important areas for safeguarding biodiversity because they contain known locations of unique communities and rare species, yet also have large areas of intact habitats, allowing populations to move and shift over time.",
+          "location": "APX 5.2 Impacts and Strategies for Addressing Climate Change / Figures",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    }
+  },
+  "tools": {
+    "vulnerability_models": {
+      "evaluable": true,
+      "score": 0,
+      "named_tools": [],
+      "evidence": [],
+      "absence_note": "No vulnerability model (CCVI, PVA, etc.) is referenced or applied. The plan discusses vulnerability conceptually but does not cite or apply any formal vulnerability assessment tool to Kentucky's SGCN."
+    },
+    "niche_models": {
+      "evaluable": true,
+      "score": 1,
+      "named_tools": ["GAP/LANDFIRE National Terrestrial Ecosystems"],
+      "evidence": [
+        {
+          "text": "To further refine the habitat needs of SGCN, the GAP/LANDFIRE National Terrestrial Ecosystems dataset for Kentucky was utilized to model habitats for terrestrial and lentic SGCN that were not considered data deficient.",
+          "location": "Chapter 4: SGCN Distribution and Habitats / Habitat Use and SGCN Occurrence Modeling",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "GAP/LANDFIRE is used as a habitat suitability classification layer rather than a predictive niche model projecting distributions under future conditions. The document also mentions future recommendations to 'develop and document distribution-model methods for under-studied focal species' (score 1 framing). Score 1 is appropriate: habitat-type models are applied to current distribution mapping but not to project future distributions under climate scenarios."
+    },
+    "climate_models": {
+      "evaluable": true,
+      "score": 0,
+      "named_tools": [],
+      "evidence": [],
+      "absence_note": "The document discusses climate change impacts extensively in qualitative terms but does not reference any specific climate model, GCM, downscaling product, RCP/SSP scenario, or climate projection tool. The EPA is cited as predicting southeastern US impacts, but no formal climate modeling apparatus is named or applied.",
+      "time_horizon_years": [],
+      "emission_scenarios": []
+    },
+    "connectivity_models": {
+      "evaluable": true,
+      "score": 2,
+      "named_tools": ["Southeast Conservation Blueprint (SECAS)", "TNC terrestrial and aquatic habitat priority models"],
+      "evidence": [
+        {
+          "text": "Utilizing the SECAS Southeast Conservation Blueprint, TNC's terrestrial and aquatic habitat priority models, and the United States Geologic Survey Protected Areas Dataset (PAD-US), the SWAP Advisory Team selected Conservation Opportunity Areas via a collaborative heads-up digitization process.",
+          "location": "Chapter 7: Conservation Actions for SGCN / Determining and Delineating COAs",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "A regional habitat connectivity plan provides spatial layers depicting structural connectivity, network importance, landscape permeability, and climate connectivity.",
+          "location": "APX 5.2 / Figure 2 caption context",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The SECAS Southeast Conservation Blueprint incorporates connectivity modeling outputs (climate flow zones, corridors) that were substantively used to inform the COA delineation for Kentucky's SGCN. This meets the 'applied' criterion because the modeling results shape management decisions. The underlying algorithms (CircuitScape, etc.) are not named, but the output layer is directly incorporated."
+    }
+  },
+  "context": {
+    "management_scale": {
+      "local": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Local-scale Terrestrial Habitat Monitoring... focused and direct monitoring of critical habitats, that are either rare or are disproportionally utilized, is warranted.",
+            "location": "Chapter 6: Habitat and Species Monitoring / Terrestrial Habitat Monitoring",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "site": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "We delineated eleven Conservation Opportunity Areas (COAs) that represent some of the best regions of the state to continue or initiate conservation objectives.",
+            "location": "Executive Summary",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "watershed": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "For aquatic species that utilize lotic habitats, watersheds (at the 12-digit, 10-digit, or 8-digit HUC) were often used to determine range boundaries.",
+            "location": "Chapter 4: SGCN Distribution and Habitats / Delineating SGCN Ranges in Kentucky",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "city": {
+        "present": false,
+        "evidence": []
+      },
+      "county": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The boundary of Kentucky encompasses roughly 39,491.61 square miles or 25.859 million acres. This area can be further segmented into 120 counties.",
+            "location": "Land Ownership, Population, and Economy",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "within_state_region": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Kentucky's landscapes are among the most varied in the eastern United States... Areas where ecosystems and environmental resources are generally similar are often referred to as ecoregions.",
+            "location": "Kentucky's Ecoregions",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "state": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Kentucky's State Wildlife Action Plan (SWAP, also referred to as the 'Plan') was developed to identify and conserve Kentucky's Species of Greatest Conservation Need (SGCN).",
+            "location": "Commissioner's Foreword",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "multistate": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "As a member of two different AFWA regions, we must balance initiatives and Plan-related guidance most relevant to Kentucky.",
+            "location": "Comprehensive Review and Revision / Long-term Goals",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "national": {
+        "present": false,
+        "evidence": []
+      },
+      "transnational": {
+        "present": false,
+        "evidence": []
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The eleven COAs encompass roughly 9,146,350 acres (approximately 35% of Kentucky).",
+            "location": "Chapter 7: Conservation Actions for SGCN / Conservation Opportunity Areas",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecoregion": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "In Kentucky, ecological and biological diversity is very strongly related to regional physiographic, geologic, land use, and soil characteristics. Kentucky contains 7 Level III ecoregions and 25 Level IV ecoregions.",
+            "location": "Kentucky's Ecoregions",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "province": {
+        "present": false,
+        "evidence": []
+      },
+      "section": {
+        "present": false,
+        "evidence": []
+      },
+      "subsection": {
+        "present": false,
+        "evidence": []
+      },
+      "lake": {
+        "present": false,
+        "evidence": []
+      },
+      "river": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The Green River COA... Considered one of the most biodiverse rivers in the world, the Green River is home to more than 150 fish species and 70 species of freshwater mussels.",
+            "location": "Chapter 7: Conservation Actions for SGCN / Green River COA",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "district": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["Green River", "Licking River", "Cumberland River", "Kentucky River", "Big Sandy River", "Green River COA", "South Fork COA", "Licking River COA", "Jackson Purchase COA", "Big Barrens COA", "Cumberland Mountains COA", "Muldraugh Prairies COA", "Ohio River Floodplain COA", "Plateau Escarpment COA", "Tygarts Kinniconick COA", "Central Grasslands and Palisades COA"]
+    },
+    "biological_unit_score": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "For some SGCN thought to be glacial relicts to Kentucky (like the Virginia Big-Eared Bat or Long-Tailed Shrew) or species with the southern extent of their range occurs in Kentucky...a warming climate could lead to extirpation from the state.",
+          "location": "APX 5.2 Impacts and Strategies for Addressing Climate Change / Overview",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Creating protected corridors through watersheds and/or connecting fragmented remnant habitats is important for maintaining landscape-scale ecosystem processes. It is also crucial for species' long term viability and adaptability, and can be key to providing suitable habitat for migration as the climate changes.",
+          "location": "Plants: Threats / Actions and Needs",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "biological_unit_components": {
+      "species": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "For some SGCN thought to be glacial relicts to Kentucky (like the Virginia Big-Eared Bat or Long-Tailed Shrew) or species with the southern extent of their range occurs in Kentucky...a warming climate could lead to extirpation from the state.",
+            "location": "APX 5.2 Impacts and Strategies for Addressing Climate Change / Overview",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "population": {
+        "present": false,
+        "evidence": []
+      },
+      "habitat": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Creating protected corridors through watersheds and/or connecting fragmented remnant habitats is important for maintaining landscape-scale ecosystem processes. It is also crucial for species' long term viability and adaptability, and can be key to providing suitable habitat for migration as the climate changes.",
+            "location": "Plants: Threats / Actions and Needs",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecosystem": {
+        "present": false,
+        "evidence": []
+      },
+      "community": {
+        "present": false,
+        "evidence": []
+      },
+      "genotype_phenotype": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["Virginia Big-Eared Bat", "Long-Tailed Shrew", "Burbot", "Eastern Red-Backed Salamander", "cotton mouse", "Southern Brook Lamprey", "Nine-Banded Armadillo", "Evening Bat", "Ruffed Grouse", "Golden-winged Warbler"]
+    },
+    "partnerships_and_funding": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Traditional SWAP partners for Kentucky include state and federal agencies such as the Office of Kentucky Nature Preserves (OKNP), USDA Natural Resources Conservation Service (NRCS), USDA Forest Service (USFS), US Army Corps of Engineers (USCOE), US Fish and Wildlife Service (USFWS), Kentucky Division of Forestry (KDF) and Kentucky State Parks (KSP) and non-governmental partners including educational institutions from public and private university and colleges, The Nature Conservancy (TNC)...",
+          "location": "Partnerships for Plan Development and Implementation",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "This SWG funded project highlights how a variety of partnerships and long-term project funding from a variety of sources are needed to produce impactful results.",
+          "location": "Mammals: Virginia big-eared bat CASE STUDY",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "At current levels of funding (less than 1 million dollars per year in Kentucky), Kentucky will not be able to effectively implement this plan.",
+          "location": "APX 5.2 Impacts and Strategies for Addressing Climate Change / Conclusion",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_threat_habitat_degradation": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Over the past decade, changing climate has resulted in higher frequency of flooding, more frequent droughts, reduction of crop yields, and concern for competing demands for water in the Ohio, Tennessee, and Cumberland Rivers.",
+          "location": "APX 5.2 Impacts and Strategies for Addressing Climate Change / Overview",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_threat_species_vital_rates": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "The frequency and severity of WNV have increased since 2012, with warming spring temperatures being an important driver of prevalence and severity (i.e., WNV is a climate change exacerbated avian disease).",
+          "location": "APX 5.1b Threats Identified for Bird SGCN / Bonasa umbellus Ruffed Grouse",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_threat_biotic_stressors": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Some southern species have already demonstrated range expansions throughout Kentucky over the past few decades (i.e. Nine-Banded Armadillo and Evening Bat). Similarly, invasive species common to the southern U.S. (such as imported fire ants) will likely continue to spread northward, potentially resulting in a negative impact to small mammal, reptile, and amphibian populations.",
+          "location": "APX 5.2 Impacts and Strategies for Addressing Climate Change / Overview",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    }
+  },
+  "actions": {
+    "priority_habitat_identification": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "We delineated eleven Conservation Opportunity Areas (COAs) that represent some of the best regions of the state to continue or initiate conservation objectives.",
+          "location": "Executive Summary",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Identify and protect refugia and concentrating habitats for SGCN, particularly subterranean systems and breeding areas. Identify and protect climatic refugia and associated biodiversity. 'Climatic refugia' are areas that are least likely to undergo significant climate induced changes.",
+          "location": "APX 5.2 Impacts and Strategies for Addressing Climate Change / A Strategy of Resilience",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Figure 3. Climate resilient areas in Kentucky. This network represents areas of confirmed biodiversity which are resilient due to prevalence of intact natural habitats. Larger areas of natural habitat are considered 'diffuse flow zones' while smaller areas are considered 'concentrated flow zones'.",
+          "location": "APX 5.2 Impacts and Strategies for Addressing Climate Change / Figures",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "targeted_range_shift_actions": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Action 2b. Remove aquatic barriers for dispersal including dams and improperly constructed culverts, where applicable.",
+          "location": "APX 5.2 / A Strategy of Resilience: Kentucky's Climate Change Action Items",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The plan includes structural facilitation actions (corridor protection, climate resilient area identification, barrier removal) framed in the context of enabling species to adapt to climate change. There is no explicit assisted migration or translocation action framed as a response to range shifts. Score 1 is earned through structural facilitation explicitly framed as climate adaptation."
+    },
+    "time_bound_and_monitoring": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Kentucky will begin the third comprehensive review and revision process by early 2031 for completion no later than September 2033.",
+          "location": "Comprehensive Review and Revision",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The plan has a 10-year review cycle and articulates effectiveness monitoring as a principle (Element 5), but individual conservation actions in the action tables do not have specific deadlines attached to them. The plan-level timeline (next revision by 2033) and general adaptive management language qualify for score 1 (clear deadline at plan level), but score 2 requires both action-level deadlines AND effectiveness monitoring at the action level—the former is absent."
+    },
+    "evidence_of_efficacy": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "As of 2023, the CMC has released over 5,000 catspaw mussels into wild streams and staff have already observed evidence of reproduction at all five Kentucky release sites.",
+          "location": "Freshwater Mussels: Recovering the Catspaw Mussel (CASE STUDY)",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "The extensive monitoring that took place during this large-scale partnership project fundamentally changed the way fire is implemented at rattlesnake master borer moth sites in Kentucky. Due to the species' positive response to prescribed fire, sites can be managed more efficiently and with confidence that populations of the moth are not being harmed.",
+          "location": "Insects: Rattlesnake Master Borer Moth (CASE STUDY)",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "WMA personnel used a small bulldozer to create three shallow vernal pools along the ditch channels that would hold water throughout the spring and early summer and create better breeding conditions for the Northern Leopard Frogs. The new pools were used as breeding sites the following spring and contained egg masses and tadpoles during 11 of the next 13 years.",
+          "location": "Amphibians / CASE STUDY: Northern Leopard Frog Recovery",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {},
+      "projects": ["Catspaw Mussel Recovery (Center for Mollusk Conservation): Over 5,000 catspaw mussels released into wild streams; evidence of reproduction observed at all five Kentucky release sites by 2023. Provides strong evidence that captive propagation and augmentation of imperiled freshwater mussels can achieve measurable wild reproduction.", "Rattlesnake Master Borer Moth Habitat Management (2016-2019 Competitive State Wildlife Grant): Prescribed fire and invasive species removal at prairie/barrens sites monitored over three years. Stem counts of rattlesnake master increased by 443% at the primary site and 127% at the secondary site; monitoring fundamentally changed how fire is prescribed at these sites.", "Northern Leopard Frog Recovery (Kentucky River WMA): Constructed vernal pools used as breeding sites in 11 of 13 years following construction, with successful egg masses and tadpoles documented, demonstrating efficacy of constructed wetland habitat for amphibian SGCN."]
+    },
+    "adaptation_planning_frameworks": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Kentucky's SWAP adopts a strategy of increasing resilience through direct actions which will increase the probability that species and habitats of conservation concern will adapt to impacts of climate change throughout Kentucky. Below are three specific goals of Kentucky's Climate Change Plan.",
+          "location": "APX 5.2 Impacts and Strategies for Addressing Climate Change / Overview",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Identify and protect refugia and concentrating habitats for SGCN, particularly subterranean systems and breeding areas. Identify and protect climatic refugia and associated biodiversity. 'Climatic refugia' are areas that are least likely to undergo significant climate induced changes.",
+          "location": "APX 5.2 / A Strategy of Resilience",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document references a named 'Kentucky's Climate Change Plan' with three structured goals and a series of numbered action items (Action 1a through 1k, 2a-2d, 3a-3b). This constitutes a specific climate adaptation planning process. The document also explicitly references 'climate resilient areas' and 'climate flow zones' as frameworks informing COA selection. Score 2 is appropriate because named specific processes and tools are referenced."
+    }
+  },
+  "coding_meta": {
+    "coder": "llm:claude-sonnet-4-6",
+    "model": "claude-sonnet-4-6",
+    "provider": "claude",
+    "codebook_version": "0.4",
+    "ingest": "text",
+    "design": "single",
+    "temperature": null,
+    "thinking": null,
+    "thinking_effort": null,
+    "coded_at": "2026-07-06T18:39:23Z",
+    "notes": {}
+  }
+}

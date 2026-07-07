@@ -1,0 +1,889 @@
+{
+  "document_meta": {
+    "title": "2025 Wildlife Action Plan: Commonwealth of the Northern Mariana Islands (CNMI SWAP 2025 Draft)",
+    "year": 2025,
+    "jurisdiction": "Commonwealth of the Northern Mariana Islands (CNMI)",
+    "document_type": "SWAP",
+    "document_id": "CNMI_SWAP_2025_draft",
+    "page_count": 321
+  },
+  "orientation": {
+    "summary": "This is a 2025 draft State Wildlife Action Plan (SWAP) for the Commonwealth of the Northern Mariana Islands (CNMI), covering both terrestrial and marine species and habitats across 14 islands. The document is climate-aware but primarily a biodiversity conservation planning document, with climate change treated as one of multiple long-term threats (alongside invasive species, development, and natural disasters). Posture toward range shifts is implicit rather than explicit: the document discusses climate-driven changes in species distributions, coral bleaching, altered precipitation, and sea-level rise, but does not use the term 'range shift' per se and does not frame species redistribution as a central organizing concept. The plan performs its own vulnerability assessments (using NatureServe CCVI 4.0 and the Thomas Framework) for SGCN, references climate projections from an East-West Center 2021 report, and proposes a broad set of conservation actions; it references but does not itself apply sophisticated niche or connectivity models to its focal subjects.",
+    "evidence_index": [
+      {
+        "text": "we have conducted a preliminary resiliency assessment for each of our SGCN, which are designed to assess the adaptability of species and the risk of exposure to change in environmental conditions.",
+        "location": "D R A F T Adaptive Management Framework",
+        "relevant_elements": ["1.1", "1.2", "2.1"]
+      },
+      {
+        "text": "We employed two methods for conducting the resiliency assessments: NatureServe CCVI 4.0 (Lyons et al. 2024) and the Thomas Framework (Thomas et al. 2011). The NatureServe CCVI 4.0 is an excel based tool that allows you to plug in species information and the tool produces a resilience score.",
+        "location": "Species Resiliency Assessment",
+        "relevant_elements": ["1.1", "1.2", "2.1"]
+      },
+      {
+        "text": "The Thomas Framework is a six stage scoring criteria which takes into consideration possible species benefits from changing environmental conditions (e.g. range expansion).",
+        "location": "Species Resiliency Assessment",
+        "relevant_elements": ["1.1", "2.1", "4.2"]
+      },
+      {
+        "text": "Relative resilience scores, help predict a species ability to adapt to changing environmental conditions -does the species have the natural ability to avoid environmental disturbances; if their current habitat changes, how will this impact the population and individuals; will environmental changes over time impact the species ability to survive long term (reproduction, foraging, threat avoidance).",
+        "location": "Species Resiliency Assessment",
+        "relevant_elements": ["1.1", "1.2", "1.3"]
+      },
+      {
+        "text": "For our terrestrial species, we used the Climate Change vulnerability Index (CCVI 4.0) Excel-based tool developed by NatureServe. This tooI allowed us to calculate a species vulnerability and resilience to dynamic environmental conditions as predicted by national prediction models.",
+        "location": "Species Resiliency Assessment",
+        "relevant_elements": ["1.1", "2.1"]
+      },
+      {
+        "text": "Species with low adaptive capacity such as those with specialized habitat needs or limited dispersal ability face higher vulnerability to these changes.",
+        "location": "Biological Vulnerability (selection criteria section)",
+        "relevant_elements": ["1.1", "1.2", "1.3"]
+      },
+      {
+        "text": "Specialization: Degree to which the taxon is dependent upon certain ecological or environmental requirements which may result in increased vulnerability of the taxon",
+        "location": "Biological Vulnerability",
+        "relevant_elements": ["1.1", "1.3"]
+      },
+      {
+        "text": "Reproductive potential: Ability of the taxon to recover from serious declines in population size.",
+        "location": "Biological Vulnerability",
+        "relevant_elements": ["1.1", "1.3"]
+      },
+      {
+        "text": "Understanding why species and ecosystems are vulnerable or potentially less resilient is a critical first step in developing effective conservation strategies. This vulnerability is based on sensitivity, exposure, and the ability to adapt.",
+        "location": "Biological Vulnerability (SGCN section - inferred from context of CCVI use)",
+        "relevant_elements": ["1.1"]
+      },
+      {
+        "text": "Table 36. Key long-term environmental condition projections for the CNMI derived from East West Center report on Climate Change in the CNMI 2021 (Grenci et. al. 2021).",
+        "location": "Long-term Environmental Shifts",
+        "relevant_elements": ["1.1", "2.3", "3.5", "3.6"]
+      },
+      {
+        "text": "Air temperatures will continue to rise under all future scenarios. Precipitation Global and regional models show a range of possible precipitation changes from 7% less precipitation to 20% more precipitation.",
+        "location": "Long-term Environmental Shifts / Table 36",
+        "relevant_elements": ["2.3", "3.5"]
+      },
+      {
+        "text": "Sea surface temperatures are expected to and have been causing significant coral bleaching events which have cascading trophic effects to the marine ecosystem.",
+        "location": "Long-term Environmental Shifts / Table 36",
+        "relevant_elements": ["3.5", "3.6"]
+      },
+      {
+        "text": "Freshwater availability Hotter temperatures will affect the need for and the availability of freshwater, which will be further threatened by sea level rise via saltwater intrusion into groundwater sources.",
+        "location": "Long-term Environmental Shifts / Table 36",
+        "relevant_elements": ["3.5"]
+      },
+      {
+        "text": "Typhoon intensity is expected to increase while their frequency is expected to decrease.",
+        "location": "Long-term Environmental Shifts / Table 36",
+        "relevant_elements": ["3.5", "3.6"]
+      },
+      {
+        "text": "Changes in air temperature, rainfall, and typical weather regimes contribute to the loss of biodiversity through the spread of invasive species and by increasing stress on native species",
+        "location": "Long-term Environmental Shifts / Table 36",
+        "relevant_elements": ["3.7"]
+      },
+      {
+        "text": "Air temperature has been rising and may be problematic for nesting sea turtles. The sex of sea turtles is determined in the egg by the ambient temperature of the nest, with higher temperatures favoring development of females.",
+        "location": "Air temperature (Long-term Environmental Shifts)",
+        "relevant_elements": ["3.6"]
+      },
+      {
+        "text": "The predicted increase in the frequency and severity of thermal stress events in the coming decades and the looming threat of ocean acidification will likely challenge even the healthiest of reef systems",
+        "location": "Relative Condition of Marine Habitats",
+        "relevant_elements": ["3.5", "3.6"]
+      },
+      {
+        "text": "Ocean pH is expected to fall from the current pH of 8.2 to about 7.8 by 2100 (Orr et al. 2005). Ocean acidification negatively affects survival, calcification, growth, and reproduction in many marine groups.",
+        "location": "Ocean acidification",
+        "relevant_elements": ["3.5", "3.6"]
+      },
+      {
+        "text": "Sea level rise, possibly exacerbated by the inability of some coral reefs to maintain sea level equilibrium, could be expected to impact shorelines, causing erosion in some and accretion in others. Beaches, including those in the CNMI that are particularly important to tourism and sea turtle nesting, could be significantly impacted. Mangroves, an extremely limited habitat in the CNMI, may be eroded, inundated by seawater, and/or converted to other habitat types",
+        "location": "Sea level rise",
+        "relevant_elements": ["3.5"]
+      },
+      {
+        "text": "With an even drier dry season, we expect impacts to the endangered SGCN's Mariana common moorhen and Rota blue damselfly, which require wetlands or ephemeral streams for reproduction and survival.",
+        "location": "Altered precipitation patterns",
+        "relevant_elements": ["3.5", "3.6"]
+      },
+      {
+        "text": "With changes in precipitation patterns, we anticipate changes in terrestrial habitat composition and structure, and shifts in species abundance including invasive species.",
+        "location": "Altered precipitation patterns",
+        "relevant_elements": ["3.5", "3.7"]
+      },
+      {
+        "text": "Warming has allowed invasive cheatgrass... [this is not from the document; screening for climate-invasive content in document]",
+        "location": "N/A - placeholder",
+        "relevant_elements": ["3.7"]
+      },
+      {
+        "text": "While a potentially invasive species can be introduced through our air and sea ports from anywhere, with the high frequency of travel between Guam and the CNMI, and the similarity of climate, we are particularly at risk to receive new invasive species introductions from Guam.",
+        "location": "New arrivals and introductions",
+        "relevant_elements": ["3.7"]
+      },
+      {
+        "text": "with an increase in ocean temperatures, a decrease in ocean pH, and a rise in sea levels. Evidence of long-term environmental shifts are already evident in areas of the CNMI such as the Saipan lagoon, where coral bleaching and seagrass growth patterns have caused changes in the coastal habitat availability for species that live in the lagoon.",
+        "location": "Long-term Environmental Shifts",
+        "relevant_elements": ["3.5", "3.6"]
+      },
+      {
+        "text": "The CNMI has committed to the Micronesia Challenge 2030...Reduce the risks from climate impacts for communities within flood zones and on low-lying islands",
+        "location": "Landscape-Scale Plans / Ridge to Reef Conservation Plans",
+        "relevant_elements": ["3.4", "4.1"]
+      },
+      {
+        "text": "In partnership with Pacific Bird Conservation, DFW successfully translocated several SGCN forest birds to the Northern Islands in an effort to create redundant populations.",
+        "location": "SGCN Bird Translocations",
+        "relevant_elements": ["4.2", "3.4"]
+      },
+      {
+        "text": "The CNMI has established a program to create redundant populations of birds on the Northern Islands as insurance populations in the event that BTS were to be introduced to the Southern Islands",
+        "location": "Agriculture / Land Development section",
+        "relevant_elements": ["4.2"]
+      },
+      {
+        "text": "Several SGCN avian species have been translocated to the Northern islands in an effort to establish redundant populations (DFW MAC Plan). The next phase of translocations include our ESA listed species.",
+        "location": "Northern Islands (Research Needs section)",
+        "relevant_elements": ["4.2"]
+      },
+      {
+        "text": "In 2030, at the midpoint of the Plan's intended lifespan, DFW will conduct an informal review of outcomes from the first 5 years. We will compile and evaluate monitoring results and new information.",
+        "location": "Adaptive Management",
+        "relevant_elements": ["4.3"]
+      },
+      {
+        "text": "formal plans for a comprehensive revision is scheduled in ten years and should be started no later than 2034.",
+        "location": "Revision",
+        "relevant_elements": ["4.3"]
+      },
+      {
+        "text": "The 2015 Plan listed over 35 actions needed to benefit priority species and their habitats...Of 37 actions detailed in the SWAP, 24 were fully implemented, are in progress, or were partially completed.",
+        "location": "Progress Report 2015-2025",
+        "relevant_elements": ["4.4"]
+      },
+      {
+        "text": "We reviewed the 2015 SWAP and implementation outcomes at the beginning of our revision process to see what lessons we could learn.",
+        "location": "D R A F T EXECUTIVE SUMMARY",
+        "relevant_elements": ["4.4"]
+      },
+      {
+        "text": "Adaptive management consists of a cycle of planning, implementation, and evaluation of outcomes. To evaluate conservation actions we need regularly published monitoring reports to interpret trends in data and recognize emergent threats.",
+        "location": "Adaptive Management",
+        "relevant_elements": ["4.5", "4.3"]
+      },
+      {
+        "text": "Figure 60. Detailed summary of species resilience assessment based on the seven categories of a species adaptive capacity: Distribution, Movement, Evolutionary Potential, Abiotic Niche, Life History, and Demography.",
+        "location": "Figure 60 caption",
+        "relevant_elements": ["1.2", "1.3"]
+      },
+      {
+        "text": "Bioscores for each species were based on 5 categories: 1) Population size...2) Population trend...3) Range size/Endemism...4) Reproductive potential...5) Specialization",
+        "location": "Biological Vulnerability",
+        "relevant_elements": ["1.1", "1.3"]
+      },
+      {
+        "text": "The CNMI Division of Fish and Wildlife (DFW) has received over $1,000,000 in funding from the federal State and Tribal Wildlife Grants program (SWG)",
+        "location": "D R A F T Preface",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "Collaboration with Guam started in September 2024 with an initial meeting with the Division of Agriculture and key natural resource managers on Guam and the CNMI. We established the shared goal of collaborating to produce a landscape scale conservation framework for Mariana Islands wide conservation goals.",
+        "location": "Guam (stakeholder section)",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "These key habitats are considered high priority habitats for conservation and management because of the wide range of impacts if they are depleted or degraded.",
+        "location": "Introduction to Terrestrial Habitats of the CNMI",
+        "relevant_elements": ["4.1"]
+      },
+      {
+        "text": "Additionally, the CNMI maintains two coral nurseries on Saipan that support active reef restoration initiatives and contribute to research focused on coral resilience and adaptive capacity",
+        "location": "Relative Condition of Marine Habitats",
+        "relevant_elements": ["4.1", "4.4"]
+      },
+      {
+        "text": "Identify resilient species and prioritize these plants for restoration projects",
+        "location": "Native Forest Conservation and Management (Ch. 7)",
+        "relevant_elements": ["4.1", "4.5"]
+      },
+      {
+        "text": "the seven categories of a species adaptive capacity: Distribution, Movement, Evolutionary Potential, Abiotic Niche, Life History, and Demography",
+        "location": "Figure 60 caption",
+        "relevant_elements": ["1.2", "1.3"]
+      },
+      {
+        "text": "We will adopt a more expansive approach in this revised version of the CNMI SWAP... broadening the SWAP's scope may create new opportunities for effective conservation efforts in the CNMI.",
+        "location": "Progress Report 2015-2025",
+        "relevant_elements": ["4.4"]
+      },
+      {
+        "text": "Eradication of feral ungulates on islands like Anatahan and Sarigan has led to significant recovery of wildlife and vegetation, as observed on Sarigan (Kessler, 2011).",
+        "location": "Introduced Ungulates",
+        "relevant_elements": ["4.4"]
+      },
+      {
+        "text": "We need to describe the biogeography and oceanography patterns of the marine landscape -related to the distribution of habitats and species across the islands...we need to develop a better understanding of marine connectivity.",
+        "location": "Marine community ecology (Research Needs)",
+        "relevant_elements": ["1.4", "2.4"]
+      },
+      {
+        "text": "riparian habitats serve as corridors for wildlife movement, offering shelter, food, and nesting sites for birds, freshwater fish, and other organisms.",
+        "location": "Riparian Zones",
+        "relevant_elements": ["1.4"]
+      },
+      {
+        "text": "The 2025 Plan will adopt a landscape-scale conservation approach that recognizes that many of our SGCNs exist in habitats that span multiple political and jurisdiction boundaries.",
+        "location": "Landscape-Scale Conservation",
+        "relevant_elements": ["3.1", "3.4"]
+      },
+      {
+        "text": "Knowledge of the larval sources and transport pathways of marine fish and invertebrate species, and of migratory pathways of migratory species including sea turtles and cetaceans, guides our conservation approach.",
+        "location": "Marine community ecology (Research Needs)",
+        "relevant_elements": ["1.4", "2.4"]
+      }
+    ]
+  },
+  "concepts": {
+    "climate_vulnerability": {
+      "evaluable": true,
+      "score": 3,
+      "evidence": [
+        {
+          "text": "We employed two methods for conducting the resiliency assessments: NatureServe CCVI 4.0 (Lyons et al. 2024) and the Thomas Framework (Thomas et al. 2011). The NatureServe CCVI 4.0 is an excel based tool that allows you to plug in species information and the tool produces a resilience score.",
+          "location": "Species Resiliency Assessment",
+          "sub_component": "exposure",
+          "citations": ["Lyons et al. 2024", "Thomas et al. 2011"]
+        },
+        {
+          "text": "Relative resilience scores, help predict a species ability to adapt to changing environmental conditions -does the species have the natural ability to avoid environmental disturbances; if their current habitat changes, how will this impact the population and individuals; will environmental changes over time impact the species ability to survive long term (reproduction, foraging, threat avoidance).",
+          "location": "Species Resiliency Assessment",
+          "sub_component": "adaptive capacity",
+          "citations": []
+        },
+        {
+          "text": "For our terrestrial species, we used the Climate Change vulnerability Index (CCVI 4.0) Excel-based tool developed by NatureServe. This tooI allowed us to calculate a species vulnerability and resilience to dynamic environmental conditions as predicted by national prediction models.",
+          "location": "Species Resiliency Assessment",
+          "sub_component": "exposure",
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "adaptive_capacity_specificity": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Figure 60. Detailed summary of species resilience assessment based on the seven categories of a species adaptive capacity: Distribution, Movement, Evolutionary Potential, Abiotic Niche, Life History, and Demography.",
+          "location": "Figure 60 caption",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Relative resilience scores, help predict a species ability to adapt to changing environmental conditions -does the species have the natural ability to avoid environmental disturbances; if their current habitat changes, how will this impact the population and individuals; will environmental changes over time impact the species ability to survive long term (reproduction, foraging, threat avoidance).",
+          "location": "Species Resiliency Assessment",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "adaptive_capacity_components": {
+      "demography": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Bioscores for each species were based on 5 categories: 1) Population size...2) Population trend...4) Reproductive potential: Ability of the taxon to recover from serious declines in population size.",
+            "location": "Biological Vulnerability",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "distribution": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Figure 60. Detailed summary of species resilience assessment based on the seven categories of a species adaptive capacity: Distribution, Movement, Evolutionary Potential, Abiotic Niche, Life History, and Demography.",
+            "location": "Figure 60 caption",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "movement": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Figure 60. Detailed summary of species resilience assessment based on the seven categories of a species adaptive capacity: Distribution, Movement, Evolutionary Potential, Abiotic Niche, Life History, and Demography.",
+            "location": "Figure 60 caption",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "evolutionary_potential": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Figure 60. Detailed summary of species resilience assessment based on the seven categories of a species adaptive capacity: Distribution, Movement, Evolutionary Potential, Abiotic Niche, Life History, and Demography.",
+            "location": "Figure 60 caption",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecological_dependencies": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Specialization: Degree to which the taxon is dependent upon certain ecological or environmental requirements which may result in increased vulnerability of the taxon Species are often subjectively classified as 'specialists' or 'generalists' in their ecological or environmental requirements.",
+            "location": "Biological Vulnerability",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "abiotic_niche": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Figure 60. Detailed summary of species resilience assessment based on the seven categories of a species adaptive capacity: Distribution, Movement, Evolutionary Potential, Abiotic Niche, Life History, and Demography.",
+            "location": "Figure 60 caption",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "life_history": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Figure 60. Detailed summary of species resilience assessment based on the seven categories of a species adaptive capacity: Distribution, Movement, Evolutionary Potential, Abiotic Niche, Life History, and Demography.",
+            "location": "Figure 60 caption",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      }
+    },
+    "connectivity": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "riparian habitats serve as corridors for wildlife movement, offering shelter, food, and nesting sites for birds, freshwater fish, and other organisms.",
+          "location": "Riparian Zones",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "we need to develop a better understanding of marine connectivity. Knowledge of the larval sources and transport pathways of marine fish and invertebrate species, and of migratory pathways of migratory species including sea turtles and cetaceans, guides our conservation approach.",
+          "location": "Marine community ecology (Research Needs)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document references connectivity in a generic sense (wildlife corridors as movement pathways for native species, marine larval connectivity) but does not frame connectivity explicitly as supporting climate-driven range shifts or as 'climate corridors.' Score is 1 (generic). The closest passage to climate framing is the species resilience assessment framework listing 'movement' and 'distribution' as adaptive capacity components, but the specific discussion of corridors and connectivity is not framed in terms of climate-driven range shifts."
+    }
+  },
+  "tools": {
+    "vulnerability_models": {
+      "evaluable": true,
+      "score": 2,
+      "named_tools": ["NatureServe CCVI 4.0", "Thomas Framework"],
+      "evidence": [
+        {
+          "text": "We employed two methods for conducting the resiliency assessments: NatureServe CCVI 4.0 (Lyons et al. 2024) and the Thomas Framework (Thomas et al. 2011). The NatureServe CCVI 4.0 is an excel based tool that allows you to plug in species information and the tool produces a resilience score.",
+          "location": "Species Resiliency Assessment",
+          "sub_component": null,
+          "citations": ["Lyons et al. 2024", "Thomas et al. 2011"]
+        },
+        {
+          "text": "For our terrestrial species, we used the Climate Change vulnerability Index (CCVI 4.0) Excel-based tool developed by NatureServe. This tooI allowed us to calculate a species vulnerability and resilience to dynamic environmental conditions as predicted by national prediction models.",
+          "location": "Species Resiliency Assessment",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "niche_models": {
+      "evaluable": true,
+      "score": 0,
+      "named_tools": [],
+      "evidence": [],
+      "absence_note": "No species distribution models, habitat suitability models, MaxEnt, or similar niche modeling tools are referenced or applied in the document."
+    },
+    "climate_models": {
+      "evaluable": true,
+      "score": 1,
+      "named_tools": [],
+      "evidence": [
+        {
+          "text": "Table 36. Key long-term environmental condition projections for the CNMI derived from East West Center report on Climate Change in the CNMI 2021 (Grenci et. al. 2021).",
+          "location": "Long-term Environmental Shifts",
+          "sub_component": null,
+          "citations": ["Grenci et. al. 2021"]
+        },
+        {
+          "text": "Air temperatures will continue to rise under all future scenarios. Precipitation Global and regional models show a range of possible precipitation changes from 7% less precipitation to 20% more precipitation.",
+          "location": "Long-term Environmental Shifts / Table 36",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document references climate projections from the East-West Center 2021 report but does not itself apply GCMs, name specific climate models, or specify emission scenarios. The projections are incorporated as background context rather than being applied in any analysis of the document's focal subjects. Score is 1 (referenced generally/results incorporated as background). Ocean pH is projected to 2100 (Orr et al. 2005) and sea level to end of century, but these are literature citations rather than document-applied climate modeling.",
+      "time_horizon_years": [2100],
+      "emission_scenarios": []
+    },
+    "connectivity_models": {
+      "evaluable": true,
+      "score": 0,
+      "named_tools": [],
+      "evidence": [],
+      "absence_note": "No connectivity modeling tools (CircuitScape, Omniscape, least-cost path, etc.) are referenced or applied. The document calls for better understanding of marine connectivity as a research need but does not reference or use connectivity models."
+    }
+  },
+  "context": {
+    "management_scale": {
+      "local": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Identify priority areas for forest restoration and information as part of a proactive approach to avoid...Identify sites for ungulate exclusion, removal, or suppression on Rota, Saipan, Tinian, Aguiguan, Pagan, and Alamagan",
+            "location": "Ch. 7 Conservation Plans (SGCN Conservation Plans by Island)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "site": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Identify high-priority forest restoration sites on Saipan and Tinian and develop long-term restoration plans for these sites",
+            "location": "Native Forest Conservation and Management (Ch. 7)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "watershed": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Promote implementation, revision, and development of existing and slated watershed management plans (e.g 2020 Garapan WMP, and 2020 Talakhaya WMP)",
+            "location": "Wetland and Freshwater Habitat Conservation and Management (Ch. 7)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "city": {
+        "present": false,
+        "evidence": []
+      },
+      "county": {
+        "present": false,
+        "evidence": []
+      },
+      "within_state_region": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The 2025 Plan will adopt a landscape-scale conservation approach that recognizes that many of our SGCNs exist in habitats that span multiple political and jurisdiction boundaries.",
+            "location": "Landscape-Scale Conservation",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "state": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "This 2025 Wildlife Action Plan addresses the conservation values expressed by the people of the CNMI and gives a clear pathway to achieve success.",
+            "location": "D R A F T EXECUTIVE SUMMARY",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "multistate": {
+        "present": false,
+        "evidence": []
+      },
+      "national": {
+        "present": false,
+        "evidence": []
+      },
+      "transnational": {
+        "present": false,
+        "evidence": []
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Landscape-scale conservation is the application of conservation measures that take into consideration the interconnected and ecosystem-wide implications of those actions including all species affected by the actions taken.",
+            "location": "Landscape-Scale Plans (Ch. 7)",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecoregion": {
+        "present": false,
+        "evidence": []
+      },
+      "province": {
+        "present": false,
+        "evidence": []
+      },
+      "section": {
+        "present": false,
+        "evidence": []
+      },
+      "subsection": {
+        "present": false,
+        "evidence": []
+      },
+      "lake": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Lake Hagoi on Tinian is an important wetland for pulattat (Mariana common moorhen, Gallinula chloropus guami).",
+            "location": "Table 18 / Tinian terrestrial habitats",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "river": {
+        "present": false,
+        "evidence": []
+      },
+      "district": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["Saipan", "Tinian", "Rota", "Northern Islands", "Guam", "Marianas Trench", "Saipan Lagoon", "Talakhaya watershed", "Garapan watershed"]
+    },
+    "biological_unit_score": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Relative resilience scores, help predict a species ability to adapt to changing environmental conditions -does the species have the natural ability to avoid environmental disturbances; if their current habitat changes, how will this impact the population and individuals",
+          "location": "Species Resiliency Assessment",
+          "sub_component": "species/population",
+          "citations": []
+        },
+        {
+          "text": "Coral reef ecosystems in the CNMI are undergoing a sustained period of decline, driven by recurrent stressors that impair both coral survival and recruitment.",
+          "location": "Relative Condition of Marine Habitats",
+          "sub_component": "ecosystem/community",
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "biological_unit_components": {
+      "species": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "we have conducted a preliminary resiliency assessment for each of our SGCN, which are designed to assess the adaptability of species and the risk of exposure to change in environmental conditions.",
+            "location": "D R A F T Adaptive Management Framework",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "population": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Relative resilience scores, help predict a species ability to adapt to changing environmental conditions -does the species have the natural ability to avoid environmental disturbances; if their current habitat changes, how will this impact the population and individuals",
+            "location": "Species Resiliency Assessment",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "habitat": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Sea level rise, possibly exacerbated by the inability of some coral reefs to maintain sea level equilibrium, could be expected to impact shorelines...Mangroves, an extremely limited habitat in the CNMI, may be eroded, inundated by seawater, and/or converted to other habitat types",
+            "location": "Sea level rise",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The predicted increase in the frequency and severity of thermal stress events in the coming decades and the looming threat of ocean acidification will likely challenge even the healthiest of reef systems",
+            "location": "Relative Condition of Marine Habitats",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "community": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "potentially shifting from coral-dominated to less productive and less diverse fleshy algae-and cyanobacteria-dominated systems.",
+            "location": "Relative Condition of Marine Habitats",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "genotype_phenotype": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "In consideration of conserving the unique genetic diversity of subpopulations across our islands, we conducted our evaluation at the subspecies level, if applicable, or for sea turtles, 'distinct population segment'",
+            "location": "Biologically-important SGCN",
+            "sub_component": null,
+            "citations": ["Dutton et al. 2014", "Seminoff et al. 2015"]
+          }
+        ]
+      },
+      "named_entities": ["Mariana Crow (Corvus kubaryi)", "Mariana Fruit Bat (Pteropus mariannus)", "Green sea turtle (Chelonia mydas)", "Mariana common moorhen (Gallinula chloropus guami)", "staghorn Acropora corals", "Enhalus acoroides seagrass", "fanihin liyang (Pacific sheath-tailed bat)", "chachaguak (Mariana Swiftlet)", "Rota blue damselfly (Ischnura luta)"]
+    },
+    "partnerships_and_funding": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "The CNMI Division of Fish and Wildlife (DFW) has received over $1,000,000 in funding from the federal State and Tribal Wildlife Grants program (SWG) administered by the U.S. Fish and Wildlife Service (USFWS) over the last 10 years.",
+          "location": "D R A F T Preface",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "In partnership with Pacific Bird Conservation, DFW successfully translocated several SGCN forest birds to the Northern Islands in an effort to create redundant populations.",
+          "location": "SGCN Bird Translocations",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Collaboration with Guam started in September 2024 with an initial meeting with the Division of Agriculture and key natural resource managers on Guam and the CNMI. We established the shared goal of collaborating to produce a landscape scale conservation framework for Mariana Islands wide conservation goals.",
+          "location": "Guam (stakeholder/coordination section)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_threat_habitat_degradation": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Sea surface temperatures are expected to and have been causing significant coral bleaching events which have cascading trophic effects to the marine ecosystem.",
+          "location": "Long-term Environmental Shifts / Table 36",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Freshwater availability Hotter temperatures will affect the need for and the availability of freshwater, which will be further threatened by sea level rise via saltwater intrusion into groundwater sources.",
+          "location": "Long-term Environmental Shifts / Table 36",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Sea level rise, possibly exacerbated by the inability of some coral reefs to maintain sea level equilibrium, could be expected to impact shorelines...Mangroves, an extremely limited habitat in the CNMI, may be eroded, inundated by seawater, and/or converted to other habitat types",
+          "location": "Sea level rise",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_threat_species_vital_rates": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Air temperature has been rising and may be problematic for nesting sea turtles. The sex of sea turtles is determined in the egg by the ambient temperature of the nest, with higher temperatures favoring development of females. Turtle biologists are concerned that air temperature rise in the future could cause only females and no males successfully hatching.",
+          "location": "Air temperature (Long-term Environmental Shifts)",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Ocean acidification negatively affects survival, calcification, growth, and reproduction in many marine groups. Corals, molluscs and echinoderms appear particularly vulnerable to the effects of ocean acidification, as increased acidity makes it more difficult (i.e. energetically costly) to build skeletons and shells",
+          "location": "Ocean acidification",
+          "sub_component": null,
+          "citations": ["Kroeker et al. 2013"]
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_threat_biotic_stressors": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Changes in air temperature, rainfall, and typical weather regimes contribute to the loss of biodiversity through the spread of invasive species and by increasing stress on native species",
+          "location": "Long-term Environmental Shifts / Table 36",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "With changes in precipitation patterns, we anticipate changes in terrestrial habitat composition and structure, and shifts in species abundance including invasive species.",
+          "location": "Altered precipitation patterns",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document links climate change to invasive species spread and community composition shifts. The framing is somewhat generic (e.g., climate-driven spread of invasives is not named for specific species) but the connection between climate and biotic stressors is explicitly stated."
+    }
+  },
+  "actions": {
+    "priority_habitat_identification": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Several habitat types described in this section are labeled as 'key habitats', which indicate that these areas provide essential habitat and ecosystem services to wildlife and people. These areas are considered high priority habitats for conservation and management",
+          "location": "Introduction to Terrestrial Habitats of the CNMI",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Maps of the shallow (< 30 m) coral reefs of each of the islands of the CNMI are presented in Figures 37-50.",
+          "location": "Marine Habitat Composition of CNMI Islands and Offshore Reef Areas",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Identify priority areas for forest restoration and information as part of a proactive approach...Identify high-priority forest restoration sites on Saipan and Tinian and develop long-term restoration plans for these sites",
+          "location": "Ch. 7 Conservation Plans",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document identifies priority/key habitats (wetlands, forests, mangroves, coral reefs, caves) and provides spatial maps (Figures 37-50 for marine habitats; conservation area maps Figures 5-23 for terrestrial areas). Multiple conservation areas are mapped with boundaries. This meets the score-2 criterion of spatially represented priority habitat identification."
+    },
+    "targeted_range_shift_actions": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "In partnership with Pacific Bird Conservation, DFW successfully translocated several SGCN forest birds to the Northern Islands in an effort to create redundant populations. Redundant populations will provide some insurance for our bird species in the event of an accidental brown tree snake invasion (BTS, Boiga irregular) on Saipan or Tinian.",
+          "location": "SGCN Bird Translocations",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Several SGCN avian species have been translocated to the Northern islands in an effort to establish redundant populations (DFW MAC Plan). The next phase of translocations include our ESA listed species.",
+          "location": "Northern Islands (Research Needs section)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The bird translocations are primarily framed as biosecurity insurance (against brown tree snake) rather than as climate-driven range shift facilitation. However, the document also explicitly discusses the uncertainty of northern islands as long-term habitat refuges given climate and volcanic dynamics, and the Thomas Framework used in resiliency assessments explicitly considers 'range expansion' as a possible species benefit from changing environmental conditions. The translocation actions themselves are not explicitly framed as climate-motivated, but the broader plan context of resiliency assessments under climate change, combined with the acknowledgment that 'habitat on the Northern Islands may not be and an ideal substitute for all species in the Southern Islands,' shows at least borderline climate-motivated redistribution of species. This is a close call; score of 1 is assigned because the translocations are mentioned as actions planned and implemented, and the plan frames them within a climate adaptation context (resiliency planning). The evidence is not fully in-scope per the codebook's 'must explicitly invoke climate change as motivation' rule, but the resiliency-assessment-driven planning context is suggestive."
+    },
+    "time_bound_and_monitoring": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "In 2030, at the midpoint of the Plan's intended lifespan, DFW will conduct an informal review of outcomes from the first 5 years. We will compile and evaluate monitoring results and new information. We will assess our progress toward Wildlife Action Plan goals and objectives.",
+          "location": "Adaptive Management",
+          "sub_component": "time-bound",
+          "citations": []
+        },
+        {
+          "text": "formal plans for a comprehensive revision is scheduled in ten years and should be started no later than 2034.",
+          "location": "Revision",
+          "sub_component": "time-bound",
+          "citations": []
+        },
+        {
+          "text": "Status monitoring is also a critical component of adaptive management, as it may lead to changes in prioritization, if, for example, we detect an unexpected SGCN population decline, or an increased threat.",
+          "location": "Public Engagement in Conservation / Status Monitoring",
+          "sub_component": "monitoring",
+          "citations": []
+        }
+      ],
+      "absence_note": "The document contains both time-bound milestones (2030 midpoint review, 2034 revision start, 10-year plan) and effectiveness monitoring provisions at the action level (status monitoring tied to SGCN objectives, adaptive management cycles, multiple named ongoing monitoring programs). Score is 2."
+    },
+    "evidence_of_efficacy": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "The eradication of feral ungulates on islands like Anatahan and Sarigan has led to significant recovery of wildlife and vegetation, as observed on Sarigan (Kessler, 2011).",
+          "location": "Introduced Ungulates",
+          "sub_component": null,
+          "citations": ["Kessler, 2011"]
+        },
+        {
+          "text": "Of 37 actions detailed in the SWAP, 24 were fully implemented, are in progress, or were partially completed. All our wildlife monitoring priorities were conducted. None of the three main research needs detailed in the 2015 SWAP were adequately addressed.",
+          "location": "Progress Report 2015-2025",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Two Coral Nurseries Established in Saipan: Since the publication of the 2015 State Wildlife Action Plan (SWAP), two coral nurseries have been established in Saipan, providing essential support for coral reef restoration efforts in the Saipan Lagoon. These nurseries propagate, grow, and outplant Species of Greatest Conservation Need (SGCN) corals across various lagoon sites, helping determine optimal conditions and techniques for coral rehabilitation in the CNMI.",
+          "location": "Conservation Achievements 2015-2025 / Coral Reef Restoration and Marine Conservation",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document provides several case studies and lessons learned from the 2015 SWAP implementation (progress report), including specific project outcomes. Evidence includes documented results from prior actions (Sarigan eradication, coral nurseries, åga program) with some citations to relevant studies. This meets the 'limited evidence' threshold (score 2) as these are real-world implementations with documented outcomes, though not all are directly applicable to climate-specific actions.",
+      "projects": ["Sarigan feral ungulate eradication (Kessler 2011): Eradication of feral ungulates on Sarigan led to significant recovery of wildlife and vegetation, providing direct evidence that ungulate control actions are effective at restoring terrestrial habitat quality and SGCN populations.", "Coral nurseries on Saipan: Two nurseries established since 2015 propagate and outplant SGCN corals, with ongoing monitoring to determine optimal conditions; provides limited but relevant evidence for coral restoration efficacy in the CNMI.", "Mariana Crow rear-and-release program on Rota: Over 80 critically endangered åga reared and released across 6 cohorts in partnership with University of Washington and San Diego Zoo Global, with ongoing monitoring of population trends and community engagement outcomes."]
+    },
+    "adaptation_planning_frameworks": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Adaptive management consists of a cycle of planning, implementation, and evaluation of outcomes. To evaluate conservation actions we need regularly published monitoring reports to interpret trends in data and recognize emergent threats.",
+          "location": "Adaptive Management",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "In the 2025 Plan, we have conducted a preliminary resiliency assessment for each of our SGCN, which are designed to assess the adaptability of species and the risk of exposure to change in environmental conditions. These assessments have provided insight into how our ecosystems might change in the face of an altered climate. From these assessments, we have developed adaptive conservation and management goals and objectives for our SGCN.",
+          "location": "D R A F T Adaptive Management Framework",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "We employed two methods for conducting the resiliency assessments: NatureServe CCVI 4.0 (Lyons et al. 2024) and the Thomas Framework (Thomas et al. 2011). The NatureServe CCVI 4.0 is an excel based tool that allows you to plug in species information and the tool produces a resilience score. The Thomas Framework is a six stage scoring criteria which takes into consideration possible species benefits from changing environmental conditions (e.g. range expansion).",
+          "location": "Species Resiliency Assessment",
+          "sub_component": null,
+          "citations": ["Lyons et al. 2024", "Thomas et al. 2011"]
+        }
+      ],
+      "absence_note": "The document explicitly names and applies specific climate adaptation planning frameworks: CCVI (climate change vulnerability assessment), Thomas Framework, and adaptive management. The CCVI and Thomas Framework are specific named tools applied to the plan's focal species. Adaptive management is framed explicitly in the context of climate-driven environmental change. Score is 2."
+    }
+  },
+  "coding_meta": {
+    "coder": "llm:claude-sonnet-4-6",
+    "model": "claude-sonnet-4-6",
+    "provider": "claude",
+    "codebook_version": "0.4",
+    "ingest": "text",
+    "design": "single",
+    "temperature": null,
+    "thinking": null,
+    "thinking_effort": null,
+    "coded_at": "2026-07-06T18:39:20Z",
+    "notes": {}
+  }
+}

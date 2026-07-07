@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Appendix 14. List of Iowa Dragonflies and Damselflies Evaluated by the IWAP</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<title level="a" type="main">Appendix 14. List of Iowa Dragonflies and Damselflies Evaluated by the IWAP</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">0D5E4A59206F82D6A492289CC968EF11</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.1" ident="GROBID" when="2026-07-06T11:45+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>SGCN refers to Species of Greatest Conservation Need (SGCN) status as determined through IWAP species conservation status assessments. Y: Yes, species is SGCN. Blank: No, species is not SGCN.</p><p>T/E Status: Refers to whether a species is federally listed as Endangered, Threatened, or Candidate at the time of this plan's publication. It also refers to those species proposed for Endangered, Threatened or Delisting status at the state level. For up-to-date state of Iowa listing information, please see the Threatened and Endangered Species Program page on the DNR website.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Assessments of species conservation status undertaken as part of the IWAP are used to determine SGCN status. Other information is provided as a reference. Updates to State Wildlife Action Plans, Regional SGCN lists, Federal T&amp;E Status, etc., are each independent processes, undertaken by different entities with differing timeframes. As such, the various listings or status ranks for a given species at a given point in time may not always appear to be in accord. Please visit the links above for updated information.  </p></div><figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head></head><label></label><figDesc>These species are considered stray in Iowa. They have confirmed documentation of occurrence in the state but do not have established populations within Iowa. In some years, populations of these species expand into portions of the state.</figDesc><table><row><cell></cell><cell>Common Name</cell><cell>Scientific Name</cell><cell>SGCN</cell><cell>T/E Status</cell><cell>Regional SGCN</cell></row><row><cell>1</cell><cell>Sweetflag Spreadwing</cell><cell>Lestes forcipatus</cell><cell>Y</cell><cell></cell></row><row><cell>2</cell><cell>Alkali Bluet</cell><cell>Enallagma clausum</cell><cell>Y</cell><cell></cell></row><row><cell>3</cell><cell>Western Forktail</cell><cell>Ischnura perparva</cell><cell>Y</cell><cell></cell></row><row><cell>4</cell><cell>Skillet Clubtail</cell><cell>Gomphurus ventricosus</cell><cell>Y</cell><cell></cell><cell>R</cell></row><row><cell>5</cell><cell>Brimstone Clubtail</cell><cell>Stylurus intricatus</cell><cell>Y</cell><cell></cell></row><row><cell>6</cell><cell>Racket-tailed Emerald</cell><cell>Dorocordulia libera</cell><cell>Y</cell><cell></cell></row><row><cell>7</cell><cell>Stygian Shadowdragon</cell><cell>Neurocordulia yamaskanensis</cell><cell>Y</cell><cell></cell></row><row><cell cols="2">Occasional Visitors to Iowa -Common Name</cell><cell>Scientific Name</cell><cell></cell><cell cols="2">Explanation</cell></row><row><cell>1</cell><cell>Emma's Dancer</cell><cell>Argia emma</cell><cell cols="3">Only seen once in a single location</cell></row><row><cell>2</cell><cell>Canada Darner</cell><cell>Aeshna canadensis</cell><cell></cell><cell></cell></row><row><cell>3</cell><cell>Variable Darner</cell><cell>Aeshna interrupta</cell><cell></cell><cell></cell></row><row><cell>4</cell><cell>Black-tipped Darner</cell><cell>Aeshna tuberculifera</cell><cell></cell><cell></cell></row><row><cell>5</cell><cell>Green-striped Darner</cell><cell>Aeshna verticalis</cell><cell></cell><cell></cell></row><row><cell>6</cell><cell>Spatterdock Darner</cell><cell>Rhionaeshna mutata</cell><cell cols="3">Only recorded once; RSGCN</cell></row></table></figure>
+		</body>
+		<back>
+
+			<div type="funding">
+<div><p>• I-P-E/T/D: Proposed Endangered, Proposed Threatened, Proposed Delisted • I-E: State-listed as Endangered in Iowa (from <rs type="affiliation">Iowa Code Chapter 77</rs>) • I-T: State-listed as Threatened in Iowa • F-E: Federally listed as Endangered in the United States • F-E: Federally listed as Threatened in the United States • F-C: Federally listed as a Candidate in the United States • F-P: Proposed for federal listing as an Endangered or Threatened species.</p></div>
+			</div>			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0" />			</div>
+			<div type="references">
+
+				<listBibl/>
+			</div>
+		</back>
+	</text>
+</TEI>
+

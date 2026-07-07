@@ -1,0 +1,792 @@
+{
+  "document_meta": {
+    "title": "Montana Forest Action Plan 2020 / Statewide Assessment of Forest Conditions / Forest Legacy Assessment of Need",
+    "year": 2020,
+    "jurisdiction": "Montana",
+    "document_type": "Forest Action Plan",
+    "document_id": "MT_FAP_2020",
+    "page_count": 371
+  },
+  "orientation": {
+    "summary": "This is Montana's 2020 Forest Action Plan (FAP), a state-level forest management and conservation planning document produced by the Montana Department of Natural Resources and Conservation (DNRC) with USDA Forest Service collaboration. The document engages with climate change extensively throughout — identifying it as a major driver of altered fire regimes, forest mortality, insect/disease outbreaks, distributional shifts in tree species, and aquatic habitat degradation. Regarding range shifts specifically, the document acknowledges climate-driven forest range contractions and expansions, species redistributions (bull trout, bark beetles, invasive species), and declining whitebark pine; however, it does not perform its own range-shift modeling or distribute species distribution models — it synthesizes and references findings from external documents, primarily the 2017 Montana Climate Assessment (Whitlock et al., 2017) and Halofsky et al. (2018). Conservation actions primarily target forest health, wildfire risk, and connectivity through habitat conservation programs, corridor protection, and reforestation — climate-framed range-shift facilitation is present but not the primary framing.",
+    "evidence_index": [
+      {
+        "text": "climate change will alter disturbance regimes, including fire and insect and disease outbreaks... Climate change will also affect the distribution of forests across the landscape; some tree species will expand their geographic ranges while others will contract.",
+        "location": "Montana's Statewide / Climate Change Impacts section",
+        "relevant_elements": ["1.1", "1.2", "1.3", "3.5", "3.6"]
+      },
+      {
+        "text": "Due to the pace and magnitude of climate change, forest mortality may outpace any gains in forest growth, resulting in an overall loss of forested landscapes in Montana (Whitlock et al., 2017).",
+        "location": "Montana's Statewide / Climate Change Impacts section",
+        "relevant_elements": ["1.1", "3.5", "3.6"]
+      },
+      {
+        "text": "Managers are seeking to better understand climate change and build adaptive capacity into their management practices.",
+        "location": "Montana's Statewide section",
+        "relevant_elements": ["1.2", "4.5"]
+      },
+      {
+        "text": "The speed and magnitude of climate change may mean that increased forest mortality and contractions in forest distribution will outpace any gains in forest growth and productivity over the long run, leading to a net loss of forested area in Montana.",
+        "location": "Climate Change Impacts / Forest Stand Conditions",
+        "relevant_elements": ["1.1", "1.1a", "3.5"]
+      },
+      {
+        "text": "Species like bull trout that require cold-water streams will likely be reduced in distribution as they move toward cold headwater streams to survive.",
+        "location": "Aquatic Ecology / Climate Change & Species Displacement",
+        "relevant_elements": ["1.1", "1.3", "3.6", "3.3"]
+      },
+      {
+        "text": "Bull trout, an endangered native fish species, require cold-water streams to thrive. The increase in water temperatures due to climate change have caused bull trout to shift their distribution upstream, as they seek access to cooler habitats (Eby et al., 2014).",
+        "location": "Aquatic Ecology / Climate Change & Species Displacement",
+        "relevant_elements": ["1.1", "3.3", "3.5", "3.6", "C2"]
+      },
+      {
+        "text": "Warmer waters favor introduced salmonid species that directly compete with bull trout for resources and can also hybridize with them, potentially breeding them out of existence. Furthermore, warm-water fish species can move out of their normal ranges into areas that used to be occupied by cold-water species.",
+        "location": "Aquatic Ecology / Climate Change & Species Displacement",
+        "relevant_elements": ["3.7", "C2"]
+      },
+      {
+        "text": "Some tree species will expand their geographic ranges while others will contract, and some models predict an overall loss of forested landscapes throughout the state (Keane et al., 2018; Whitlock et al., 2017).",
+        "location": "MT_FAP-S_2020 / Forest Health section",
+        "relevant_elements": ["1.1", "C2", "3.5"]
+      },
+      {
+        "text": "As the climate changes, the interior region of the state is facing even hotter and drier summers than were historically typical, with prolonged droughts and heatwaves that place more demand on moisture-limited systems.",
+        "location": "Climate Change Impacts",
+        "relevant_elements": ["1.1a", "3.5"]
+      },
+      {
+        "text": "Species with low adaptive capacity such as those with specialized habitat needs or limited dispersal ability face higher vulnerability to these changes.",
+        "location": "Aquatic Ecology / Climate Change",
+        "relevant_elements": ["1.2", "1.3"]
+      },
+      {
+        "text": "In addition to earlier recognition of the importance of wildlife habitat connectivity, shifts in climate may also require species to move within and between intact landscapes (Carroll et al., 2018).",
+        "location": "Biodiversity & Habitat Conservation / Climate Change",
+        "relevant_elements": ["1.4", "4.2", "C2"]
+      },
+      {
+        "text": "Eliminating or fragmenting habitats can lead to local extirpation or reduced resilience to new stressors, such as climate change or other factors (Beller et al., 2019; Hames et al., 2006).",
+        "location": "Biodiversity & Habitat Conservation / Habitat Fragmentation",
+        "relevant_elements": ["1.4", "1.2"]
+      },
+      {
+        "text": "Over time, areas of biodiversity and resilience may offer priorities for conservation and managing as refugia, particularly for climate-sensitive species (Keppel & Wardell-Johnson, 2012).",
+        "location": "Biodiversity & Habitat Conservation / Climate Change",
+        "relevant_elements": ["4.1", "1.4", "T1.4c"]
+      },
+      {
+        "text": "Connectivity habitats are recognized in the Assessment of Need and National Core Criteria as priorities for the program, which would help assure the ability of plants and animals to shift their range as climates change.",
+        "location": "MT_FAP-RA_2020 / Public Involvement section",
+        "relevant_elements": ["1.4", "4.2", "C2"]
+      },
+      {
+        "text": "a brief analysis of the resilience of forest cover and diversity in the face of climate uncertainty has been added to the Montana Forest Legacy Application... 'species, genetic, and landscape diversity (spatial pattern, structure) is an important hedge your bets strategy that will reduce the risk of major loss of forest cover.' (Halofsky et al 2018)",
+        "location": "Forest Legacy Eligibility Criteria / Fine Scale Prioritization",
+        "relevant_elements": ["1.1", "1.2", "1.3", "4.5"]
+      },
+      {
+        "text": "Recent and projected increasing temperatures may promote a switch to one-year life cycles, and thus enable beetles to develop within a single year and kill trees at an exponentially higher rate.",
+        "location": "Insects and Diseases section",
+        "relevant_elements": ["3.6", "3.7", "1.3"]
+      },
+      {
+        "text": "Warmer water temperatures, reduced ice cover, altered flow regimes, increased salinization, and the need for more reservoirs and canals will remove filters that currently limit the geographic range and local abundance of many invasive species (Burgiel & Muir, 2010).",
+        "location": "Invasive Species / Feral Swine",
+        "relevant_elements": ["3.7", "3.5"]
+      },
+      {
+        "text": "Climate change and its effects, as they pertain to specific forest concerns, are further addressed in the forthcoming sections.",
+        "location": "Indigenous Peoples & Forests section",
+        "relevant_elements": ["1.1"]
+      },
+      {
+        "text": "FWP has more recently worked with a partnership of agencies and organizations to identify and initiate conservation and restoration of important habitat linkages that allow uninhibited movements of ungulates, large carnivores, and other wildlife within and between intact natural landscapes.",
+        "location": "MT_FAP-RA / Agencies and Organizations",
+        "relevant_elements": ["1.4", "4.2", "3.4"]
+      },
+      {
+        "text": "Identifying areas that are critical for habitat connectivity and working collaboratively across affected agencies and land ownerships to mitigate or conserve habitats is a conservation priority identified in the State Wildlife Action Plan (MTFWP, 2015).",
+        "location": "Biodiversity & Habitat Conservation / Habitat Fragmentation",
+        "relevant_elements": ["1.4", "4.1", "3.4"]
+      },
+      {
+        "text": "The 2020 Montana Action Plan for Implementation of Department of the Interior outlined specific guidelines to improve habitat and migration corridors for wildlife species along with secretarial orders that address individual concerns.",
+        "location": "Biodiversity & Habitat Conservation / Habitat Fragmentation",
+        "relevant_elements": ["1.4", "4.2", "3.4"]
+      },
+      {
+        "text": "Priority Areas for Focused Attention are displayed via an interactive web map",
+        "location": "Priority Areas for Focused Attention",
+        "relevant_elements": ["4.1", "2.4"]
+      },
+      {
+        "text": "Geospatial models and data-driven analysis on all forested lands across Montana identified areas with the highest wildfire risk to communities and infrastructure, as well as areas with significant forest health concerns.",
+        "location": "Priority Area Identification and Methodology",
+        "relevant_elements": ["4.1", "2.4"]
+      },
+      {
+        "text": "The anticipated changes in Montana's climatic conditions will alter air temperature, precipitation, and snowpack in ways that will shift hydrologic regimes of river and stream networks, shrink or eliminate isolated wetlands, and put additional stress on groundwater (Whitlock et al., 2017).",
+        "location": "Aquatic Ecology section",
+        "relevant_elements": ["1.1a", "3.5"]
+      },
+      {
+        "text": "Snowpack in Montana is declining in the mountains east and west of the continental divide, with the decline since the 1980s being the most pronounced (Whitlock et al., 2017).",
+        "location": "Aquatic Ecology / Climate Change",
+        "relevant_elements": ["1.1a", "3.5"]
+      },
+      {
+        "text": "Climate change will also continue to exacerbate the spread of invasive species, threatening increased loss of habitat and ecosystem services.",
+        "location": "MT_FAP-S_2020 / Forest Health section",
+        "relevant_elements": ["3.7"]
+      },
+      {
+        "text": "Temperatures across the state are projected to increase by 4.5-6 °F by 2050 and by 5.6-9.8 °F by 2100, which is higher than projected for much of the country.",
+        "location": "Montana's Statewide / Climate Change section",
+        "relevant_elements": ["1.1a", "2.3"]
+      },
+      {
+        "text": "Predictions suggest that range expansions by many invasive plant populations are in the process of developing adaptations that could lead to exponential population growth in the near future (Clements & Dittommaso, 2011).",
+        "location": "Invasive Species / Feral Swine",
+        "relevant_elements": ["3.7"]
+      },
+      {
+        "text": "Climate change creates uncertainty about future conditions and will likely alter tree-insect interactions in various ways. Changes in moisture and temperature can impact trees' vigor and ability to defend against insects, whereas changes in climate may also alter insects' ability to survive.",
+        "location": "Insects and Diseases / Issues, Threats, & Challenges",
+        "relevant_elements": ["3.6", "3.5"]
+      },
+      {
+        "text": "Encourage reforestation efforts after severe events, where appropriate, to promote the regeneration of suitable native species that may be more resilient to the impacts of climate change.",
+        "location": "MT_FAP-S_2020 / Forest Health Recommended Goals",
+        "relevant_elements": ["4.2", "4.5"]
+      },
+      {
+        "text": "Improve and maintain Montana's wildlife and biodiversity, including maintaining and restoring connected habitats, through collaborative approaches.",
+        "location": "MT_FAP-S_2020 / Biodiversity and Habitat Conservation Goals",
+        "relevant_elements": ["1.4", "4.2"]
+      },
+      {
+        "text": "Prioritize conservation easements and acquisitions adjacent to current conservation investments in order to create contiguous protected habitat that provides habitat linkages across large landscapes.",
+        "location": "MT_FAP-S_2020 / Biodiversity Goals",
+        "relevant_elements": ["1.4", "4.1", "4.2"]
+      },
+      {
+        "text": "Support projects to remove unnecessary roads and upgrade low-standard roads in order to reduce stream sediment loads and improve passage and connectivity for native aquatic species.",
+        "location": "MT_FAP-S_2020 / Biodiversity Goals",
+        "relevant_elements": ["1.4", "4.2"]
+      },
+      {
+        "text": "Conservation planting improves habitat, increases habitat connectivity, and promotes the regeneration of suitable native species that may be more resilient to conditions created by climate change and severe wildfire.",
+        "location": "MT_FAP-S_2020 / Reforestation and Restoration with Plant Nurseries",
+        "relevant_elements": ["4.2", "1.4"]
+      },
+      {
+        "text": "The effects of climate change on fresh waters have already been seen, with decreased ice cover duration on lakes and rivers, warming temperatures shifting the species composition of fish assemblages, and the subsequent altered trophic dynamics of aquatic species (Buisson et al., 2008).",
+        "location": "Aquatic Ecology / Climate Change",
+        "relevant_elements": ["1.1", "3.7", "C2"]
+      },
+      {
+        "text": "Develop a forest resilience monitoring program to inform management decisions and actions to manage for forest health.",
+        "location": "MT_FAP-S_2020 / Forest Health Goals",
+        "relevant_elements": ["4.3", "4.5"]
+      },
+      {
+        "text": "Develop strategies to integrate climate adaptation with disaster mitigation plans and wildfire planning efforts to support resilience planning and facilitate implementation.",
+        "location": "MT_FAP-S_2020 / Wildfire Risk Goals",
+        "relevant_elements": ["4.5"]
+      },
+      {
+        "text": "Build on the recommendations specifically stated in the Montana Climate Solutions Plan",
+        "location": "MT_FAP-S_2020 / Multiple sections",
+        "relevant_elements": ["4.5"]
+      },
+      {
+        "text": "FWP and partners are collaborating on more complete and accurate statewide delineation of key travel zones and travel impediments for ungulates and carnivores. Movements include daily movements, seasonal migrations, and routes that support genetic connectivity between populations.",
+        "location": "Biodiversity & Habitat Conservation / Private Land Conservation",
+        "relevant_elements": ["1.3", "1.4"]
+      },
+      {
+        "text": "DNRC's State Water Plan modeled climate change scenarios to better understand the potential effects of climate trends on future water supplies in Montana.",
+        "location": "Water Resources / Data & Program Gaps",
+        "relevant_elements": ["2.3"]
+      },
+      {
+        "text": "Mitigate and Adapt to the Impacts of Climate Change to Montana's Forests. Examine forest practices for opportunities to optimize carbon sequestration, climate adaptation, and future resiliency.",
+        "location": "MT_FAP-S_2020 / Forest Health Goals",
+        "relevant_elements": ["4.5"]
+      },
+      {
+        "text": "As air and water temperatures rise with continuing climate changes, the impact on aquatic species will be seen in a loss of habitat, non-native species invasions, species distribution changes and loss of biodiversity, and widespread extinction of cold-water reliant species (Chu et al., 2005).",
+        "location": "Aquatic Ecology / Climate Change",
+        "relevant_elements": ["1.1", "3.5", "3.7", "C2"]
+      },
+      {
+        "text": "Increasing temperatures and changing precipitation patterns will increase tree mortality and negatively affect forest establishment, regeneration, growth, and productivity (Hankin et al., 2019; Davis et al., 2019).",
+        "location": "MT_FAP-S_2020 / Forest Health",
+        "relevant_elements": ["1.1", "3.5", "3.6"]
+      },
+      {
+        "text": "The distribution and extent of forests will change over time. Some tree species will expand their geographic ranges while others will contract",
+        "location": "MT_FAP-S_2020 / Forest Health",
+        "relevant_elements": ["1.1", "C2"]
+      },
+      {
+        "text": "Populations are in sharp decline due to compounding stressors including non-native invasive disease, climate change, and the disruption of natural fire regimes.",
+        "location": "Insects and Diseases / Figure caption (whitebark pine)",
+        "relevant_elements": ["3.5", "3.6"]
+      },
+      {
+        "text": "Species, genetic, and landscape diversity (spatial pattern, structure) is an important 'hedge your bets' strategy that will reduce the risk of major loss of forest cover (Halofsky et al 2018). Topography, elevation, and aspect strongly influence climatic variability and species diversity.",
+        "location": "Forest Legacy Eligibility Criteria / Fine Scale Prioritization",
+        "relevant_elements": ["1.2", "1.3", "4.5"]
+      }
+    ]
+  },
+  "concepts": {
+    "climate_vulnerability": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "The speed and magnitude of climate change may mean that increased forest mortality and contractions in forest distribution will outpace any gains in forest growth and productivity over the long run, leading to a net loss of forested area in Montana.",
+          "location": "Climate Change Impacts / Forest Stand Conditions",
+          "sub_component": "exposure",
+          "citations": ["Whitlock et al., 2017"]
+        },
+        {
+          "text": "Species with low adaptive capacity such as those with specialized habitat needs or limited dispersal ability face higher vulnerability to these changes.",
+          "location": "Aquatic Ecology / Climate Change",
+          "sub_component": "adaptive capacity",
+          "citations": []
+        }
+      ],
+      "absence_note": "The document references both exposure (projected temperature increases, forest mortality, distribution changes) and adaptive capacity (dispersal ability, specialized habitat needs), earning score 2. However, the framing is not tightly integrated into a formal IPCC-style vulnerability framework — the document synthesizes from the Montana Climate Assessment rather than performing its own formal assessment. It does not score 3 because explicit paired discussion of both exposure AND adaptive capacity in the same context with direct connection to vulnerability is limited."
+    },
+    "adaptive_capacity_specificity": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Species with low adaptive capacity such as those with specialized habitat needs or limited dispersal ability face higher vulnerability to these changes.",
+          "location": "Aquatic Ecology / Climate Change",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Managers are seeking to better understand climate change and build adaptive capacity into their management practices.",
+          "location": "Montana's Statewide section",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "adaptive_capacity_components": {
+      "demography": {
+        "present": false,
+        "evidence": []
+      },
+      "distribution": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Some tree species will expand their geographic ranges while others will contract, and some models predict an overall loss of forested landscapes throughout the state (Keane et al., 2018; Whitlock et al., 2017).",
+            "location": "MT_FAP-S_2020 / Forest Health section",
+            "sub_component": null,
+            "citations": ["Keane et al., 2018", "Whitlock et al., 2017"]
+          }
+        ]
+      },
+      "movement": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "In addition to earlier recognition of the importance of wildlife habitat connectivity, shifts in climate may also require species to move within and between intact landscapes (Carroll et al., 2018).",
+            "location": "Biodiversity & Habitat Conservation / Climate Change",
+            "sub_component": null,
+            "citations": ["Carroll et al., 2018"]
+          }
+        ]
+      },
+      "evolutionary_potential": {
+        "present": false,
+        "evidence": []
+      },
+      "ecological_dependencies": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Warmer waters favor introduced salmonid species that directly compete with bull trout for resources and can also hybridize with them, potentially breeding them out of existence.",
+            "location": "Aquatic Ecology / Climate Change & Species Displacement",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "abiotic_niche": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Bull trout, an endangered native fish species, require cold-water streams to thrive. The increase in water temperatures due to climate change have caused bull trout to shift their distribution upstream, as they seek access to cooler habitats (Eby et al., 2014).",
+            "location": "Aquatic Ecology / Climate Change & Species Displacement",
+            "sub_component": null,
+            "citations": ["Eby et al., 2014"]
+          }
+        ]
+      },
+      "life_history": {
+        "present": false,
+        "evidence": []
+      }
+    },
+    "connectivity": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Connectivity habitats are recognized in the Assessment of Need and National Core Criteria as priorities for the program, which would help assure the ability of plants and animals to shift their range as climates change.",
+          "location": "MT_FAP-RA_2020 / Public Involvement section",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "In addition to earlier recognition of the importance of wildlife habitat connectivity, shifts in climate may also require species to move within and between intact landscapes (Carroll et al., 2018).",
+          "location": "Biodiversity & Habitat Conservation / Climate Change",
+          "sub_component": null,
+          "citations": ["Carroll et al., 2018"]
+        }
+      ],
+      "absence_note": {}
+    }
+  },
+  "tools": {
+    "vulnerability_models": {
+      "evaluable": true,
+      "score": 0,
+      "named_tools": [],
+      "evidence": [],
+      "absence_note": "The document references the 2017 Montana Climate Assessment extensively but does not reference CCVI, NatureServe vulnerability assessments, PVA, or any other formal vulnerability model applied to focal species. The 2018 Halofsky et al. Climate Change Vulnerability and Adaptation document is cited, but only as a reference; no vulnerability scores or model outputs are incorporated into management decisions."
+    },
+    "niche_models": {
+      "evaluable": true,
+      "score": 0,
+      "named_tools": [],
+      "evidence": [],
+      "absence_note": "No species distribution models, MaxEnt, SDMs, or ENMs are referenced in the document. Range projections for tree species are cited from the Montana Climate Assessment and Halofsky et al. as external findings but no underlying niche modeling is described or applied."
+    },
+    "climate_models": {
+      "evaluable": true,
+      "score": 1,
+      "named_tools": [],
+      "evidence": [
+        {
+          "text": "Temperatures across the state are projected to increase by 4.5-6 °F by 2050 and by 5.6-9.8 °F by 2100, which is higher than projected for much of the country.",
+          "location": "Montana's Statewide / Climate Change section",
+          "sub_component": null,
+          "citations": ["Whitlock et al., 2017"]
+        }
+      ],
+      "absence_note": "The document cites projected temperature increases from the Montana Climate Assessment (Whitlock et al., 2017) and DNRC's State Water Plan (which modeled climate change scenarios), but does not name any specific GCM, CMIP dataset, RCP, or SSP scenario. The temperature projections are used as general context rather than applied to specific focal-species management decisions.",
+      "time_horizon_years": [2050, 2100],
+      "emission_scenarios": []
+    },
+    "connectivity_models": {
+      "evaluable": true,
+      "score": 2,
+      "named_tools": ["GIS suitability model", "GeoPlanner for ArcGIS"],
+      "evidence": [
+        {
+          "text": "A Geographic Information System (GIS) is a technological system for gathering, managing, and analyzing spatial data... This data-derived GIS methodology was used to identify the landscape-scale areas that represent the greatest risk of wildfire and forest health.",
+          "location": "Priority Area Identification and Methodology",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "The Crucial Areas Planning System was developed to provide useful and nonregulatory information during the early planning stages of development projects, conservation opportunities, and environmental review.",
+          "location": "Biodiversity & Habitat Conservation / Existing Strategies",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document applies GIS-based suitability modeling (including habitat connectivity layers from the Crucial Areas Planning System and the American Wildlands Priority Linkage Assessment) to identify Priority Areas for Focused Attention and Forest Legacy Areas. These connectivity/landscape modeling outputs are directly used to inform conservation priorities and management decisions for focal species and habitats in Montana, qualifying as 'applied.' Named tools include GeoPlanner for ArcGIS and GIS overlay analysis workflows."
+    }
+  },
+  "context": {
+    "management_scale": {
+      "local": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Specifically, the seventh principle states: Community involvement and support enhances the ability to achieve restoration on the ground. Successful restoration seems to occur when there is a consensus-building, grassroots collaborative group",
+            "location": "Forest Collaboration & Collaborative Capacity",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "site": {
+        "present": false,
+        "evidence": []
+      },
+      "watershed": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Priority Area polygons were intersected with watersheds (HUC-10) and major transportation corridors to create discrete localized areas of elevated fire risk and degraded forest health across the state.",
+            "location": "Priority Area Identification and Methodology / Raster Generalization",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "city": {
+        "present": false,
+        "evidence": []
+      },
+      "county": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "By formally partnering with all 56 Counties in Montana, DNRC ensures wildland fire protection on over 45 million acres of state and private land through an arrangement known as the State-County Co-op Fire Protection arrangement.",
+            "location": "MT_FAP-S_2020 / County Co-op Program",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "within_state_region": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "MFAAC divided the state into seven distinct forest regions based on the unique vegetation community, localized climate conditions, and topography (Arno, 1979). The model was normalized within each forest region to better identify high-risk areas relative to the typical forest conditions found within that region.",
+            "location": "MT_FAP-S_2020 / Priority Areas for Focused Attention",
+            "sub_component": null,
+            "citations": ["Arno, 1979"]
+          }
+        ]
+      },
+      "state": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The purpose of the Statewide Assessment of Forest Conditions is to identify conditions and trends concerning state forest resources and highlight threats to forest lands and resources consistent with national priorities.",
+            "location": "Statewide Assessment of Forest Conditions",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "multistate": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Montana shares borders with four states and three Canadian provinces, providing multiple opportunities to develop relationships and solve problems collaboratively across the region at a larger scale.",
+            "location": "Multi-State Priority Areas",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "national": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Montana, in keeping with other states and geographic areas, follows the vision and goals from the National Cohesive Wildland Fire Management Strategy.",
+            "location": "Wildfire Risk / Wildfire Protection Roles",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "transnational": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Crown Managers Partnership -The Crown Managers Partnership is a multi-jurisdictional partnership amongst federal, state, provincial, tribal, and First Nation agency managers and universities in Montana, Alberta, and British Columbia.",
+            "location": "Multi-State Priority Areas",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The Crown of the Continent, an 81 million-acre ecosystem bridging the United States and Canada, including Glacier and Waterton Lakes National Parks.",
+            "location": "MT_FAP-RA_2020 / Northwest Montana Forest Legacy Area",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecoregion": {
+        "present": false,
+        "evidence": []
+      },
+      "province": {
+        "present": false,
+        "evidence": []
+      },
+      "section": {
+        "present": false,
+        "evidence": []
+      },
+      "subsection": {
+        "present": false,
+        "evidence": []
+      },
+      "lake": {
+        "present": false,
+        "evidence": []
+      },
+      "river": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The state Water Management Bureau has organized surface and groundwater management based on regional watershed basins, consisting of four major river basins: Clark Fork/Kootenai River Basins, Lower Missouri River Basin, Upper Missouri River Basin, and Yellowstone River Basin",
+            "location": "Aquatic Ecology / Aquatic Ecological Systems",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "district": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["Montana", "Crown of the Continent Ecosystem", "Clark Fork River", "Columbia River", "Missouri River", "Yellowstone River", "Flathead Indian Reservation", "Blackfeet Indian Reservation", "Greater Yellowstone Ecosystem", "Beaverhead-Deerlodge National Forest", "Lolo National Forest", "Flathead National Forest"]
+    },
+    "biological_unit_score": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Bull trout, an endangered native fish species, require cold-water streams to thrive. The increase in water temperatures due to climate change have caused bull trout to shift their distribution upstream, as they seek access to cooler habitats (Eby et al., 2014).",
+          "location": "Aquatic Ecology / Climate Change & Species Displacement",
+          "sub_component": "species",
+          "citations": ["Eby et al., 2014"]
+        },
+        {
+          "text": "Some tree species will expand their geographic ranges while others will contract, and some models predict an overall loss of forested landscapes throughout the state",
+          "location": "MT_FAP-S_2020 / Forest Health",
+          "sub_component": "habitat/ecosystem",
+          "citations": ["Keane et al., 2018", "Whitlock et al., 2017"]
+        }
+      ],
+      "absence_note": {}
+    },
+    "biological_unit_components": {
+      "species": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Bull trout, an endangered native fish species, require cold-water streams to thrive. The increase in water temperatures due to climate change have caused bull trout to shift their distribution upstream, as they seek access to cooler habitats (Eby et al., 2014).",
+            "location": "Aquatic Ecology / Climate Change & Species Displacement",
+            "sub_component": null,
+            "citations": ["Eby et al., 2014"]
+          }
+        ]
+      },
+      "population": {
+        "present": false,
+        "evidence": []
+      },
+      "habitat": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Over time, areas of biodiversity and resilience may offer priorities for conservation and managing as refugia, particularly for climate-sensitive species (Keppel & Wardell-Johnson, 2012).",
+            "location": "Biodiversity & Habitat Conservation / Climate Change",
+            "sub_component": null,
+            "citations": ["Keppel & Wardell-Johnson, 2012"]
+          }
+        ]
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The effects of climate change on fresh waters have already been seen, with decreased ice cover duration on lakes and rivers, warming temperatures shifting the species composition of fish assemblages, and the subsequent altered trophic dynamics of aquatic species (Buisson et al., 2008).",
+            "location": "Aquatic Ecology / Climate Change",
+            "sub_component": null,
+            "citations": ["Buisson et al., 2008"]
+          }
+        ]
+      },
+      "community": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "warming temperatures shifting the species composition of fish assemblages, and the subsequent altered trophic dynamics of aquatic species (Buisson et al., 2008).",
+            "location": "Aquatic Ecology / Climate Change",
+            "sub_component": null,
+            "citations": ["Buisson et al., 2008"]
+          }
+        ]
+      },
+      "genotype_phenotype": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["bull trout", "whitebark pine", "western white pine", "ponderosa pine", "Douglas-fir", "western larch", "limber pine", "mountain pine beetle", "western spruce budworm", "Canada lynx", "grizzly bear", "Clark's nutcracker", "yellow-billed cuckoo", "northern long-eared bat", "pallid sturgeon", "white sturgeon", "sage-grouse", "elk", "mule deer", "grizzly bear", "wolverine", "Mesic-Wet Conifer-Dominated Forest", "Xeric-Mesic Conifer-Dominated Forest", "Floodplain & Riparian Forests"]
+    },
+    "partnerships_and_funding": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Crown Managers Partnership -The Crown Managers Partnership is a multi-jurisdictional partnership amongst federal, state, provincial, tribal, and First Nation agency managers and universities in Montana, Alberta, and British Columbia. We recognize that no single agency has the mandate or resources to address regional environmental issues, so we work across borders to address common ecological challenges throughout the Crown of the Continent Ecosystem.",
+          "location": "Multi-State Priority Areas",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "FWP has more recently worked with a partnership of agencies and organizations to identify and initiate conservation and restoration of important habitat linkages that allow uninhibited movements of ungulates, large carnivores, and other wildlife within and between intact natural landscapes.",
+          "location": "MT_FAP-RA / Agencies and Organizations",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "The state of Montana continues to invest funding for collaborative capacity through its Forests in Focus Initiative and through legislative appropriation.",
+          "location": "Forest Collaboration & Collaborative Capacity",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_threat_habitat_degradation": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "The anticipated changes in Montana's climatic conditions will alter air temperature, precipitation, and snowpack in ways that will shift hydrologic regimes of river and stream networks, shrink or eliminate isolated wetlands, and put additional stress on groundwater, surface water reservoirs, and water delivery systems (Whitlock et al., 2017).",
+          "location": "Aquatic Ecology section",
+          "sub_component": null,
+          "citations": ["Whitlock et al., 2017"]
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_threat_species_vital_rates": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Bull trout, an endangered native fish species, require cold-water streams to thrive. The increase in water temperatures due to climate change have caused bull trout to shift their distribution upstream, as they seek access to cooler habitats (Eby et al., 2014).",
+          "location": "Aquatic Ecology / Climate Change & Species Displacement",
+          "sub_component": null,
+          "citations": ["Eby et al., 2014"]
+        }
+      ],
+      "absence_note": "The document discusses climate impacts on species primarily through habitat-mediated effects and range shifts. The most direct vital-rate evidence is bull trout distribution shifts caused by warming water temperatures — this qualifies because the chain is climate → water temperature → distributional shift (reduced survival in warming areas). Whitebark pine decline from compounding stressors including climate change also noted, but the climate-to-vital-rate chain is less direct."
+    },
+    "climate_threat_biotic_stressors": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Climate change will also continue to exacerbate the spread of invasive species, threatening increased loss of habitat and ecosystem services.",
+          "location": "MT_FAP-S_2020 / Forest Health section",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    }
+  },
+  "actions": {
+    "priority_habitat_identification": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Priority Areas for Focused Attention are displayed via an interactive web map that can be found at https://www.montanaforestactionplan.org/pages/data.",
+          "location": "Priority Areas for Focused Attention",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Over time, areas of biodiversity and resilience may offer priorities for conservation and managing as refugia, particularly for climate-sensitive species (Keppel & Wardell-Johnson, 2012).",
+          "location": "Biodiversity & Habitat Conservation / Climate Change",
+          "sub_component": null,
+          "citations": ["Keppel & Wardell-Johnson, 2012"]
+        }
+      ],
+      "absence_note": "The document identifies Priority Areas for Focused Attention using geospatial GIS modeling, presented as an interactive web map. The Forest Legacy Areas (Northwest, Southwest, Central) are explicitly mapped and described spatially. Climate resilience is one criterion in the Fine Scale Prioritization for Forest Legacy projects. This earns a 2 as priority habitat restoration is both discussed and spatially represented."
+    },
+    "targeted_range_shift_actions": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Connectivity habitats are recognized in the Assessment of Need and National Core Criteria as priorities for the program, which would help assure the ability of plants and animals to shift their range as climates change.",
+          "location": "MT_FAP-RA_2020 / Public Involvement section",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document proposes structural facilitation for range shifts — protecting connectivity habitats to allow species to shift their ranges as climate changes. This earns a 1. No direct manipulation actions (assisted migration, climate-motivated translocations) are proposed."
+    },
+    "time_bound_and_monitoring": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Identify and release performance targets by Summer 2021, and track them through the Montana Forest Action Plan.",
+          "location": "MT_FAP-S_2020 / Sustaining Cross-Boundary Work / Recommended Goals",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document establishes some time-bound milestones (e.g., Summer 2021 for performance targets, annual reporting by the Implementation Advisory Committee). However, action-level deadlines attached to specific conservation actions in the action tables are not consistently provided. The document states it will 'track and annually publish reports on progress' and includes metrics like 'acres treated,' but these are plan-level commitments rather than action-level deadlines tied to specific range-shift or habitat conservation actions. This earns a 1 (deadlines present at plan level) but not 2 (which requires both deadlines and effectiveness monitoring at the action level)."
+    },
+    "evidence_of_efficacy": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Prescribed fire is a proven means of reducing fuels and realigning disturbance regimes, and is also an effective means of managing insects and diseases.",
+          "location": "Insects and Diseases / Opportunities",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document largely presents actions based on general ecological principles and policy rationale without citing specific studies that test action efficacy in the context of range-shift facilitation or climate adaptation. General statements like 'prescribed fire is a proven means' and references to 'best available science' are present but without supporting study citations for the specific climate adaptation actions proposed. Score 1 (rationale outlined but no direct evidence for climate-adaptation-specific actions).",
+      "projects": ["The Montana Legacy Project (Trust for Public Land and The Nature Conservancy): A 310,000-acre conservation project that provides evidence that large-scale landscape conservation can maintain connectivity for wildlife, though outcomes specific to climate-driven range-shift facilitation are not evaluated.", "Confederated Salish and Kootenai Tribes Forestry Program (post-1995): Provides case study evidence that tribal co-management including prescribed fire can restore pre-European forest conditions, though efficacy for climate adaptation specifically is not assessed.", "DNRC Good Neighbor Authority (GNA) projects: Referenced as generating $3.989 million in revenue and treating 5,470 acres, providing limited evidence of operational efficacy for forest restoration but without specific climate adaptation outcome measurement."]
+    },
+    "adaptation_planning_frameworks": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Develop strategies to integrate climate adaptation with disaster mitigation plans and wildfire planning efforts to support resilience planning and facilitate implementation.",
+          "location": "MT_FAP-S_2020 / Wildfire Risk Goals",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Develop, implement, and fund an adaptive management strategy for the Montana Forest Action Plan.",
+          "location": "MT_FAP-S_2020 / Sustaining Cross-Boundary Work Goals",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document explicitly references climate adaptation planning in multiple sections and calls for developing an 'adaptive management strategy' for the Forest Action Plan framed in the context of climate change. It references climate adaptation specifically (Montana Climate Solutions Plan, 'climate adaptation strategies for forest management'). This earns a 2 as specific planning frameworks (adaptive management framed for climate, resilience planning, climate solutions planning) are named. Note that 'RAD,' 'RRT,' 'CCVA,' 'Structured Decision Making,' or other named frameworks from the codebook indicators are not explicitly invoked."
+    }
+  },
+  "coding_meta": {
+    "coder": "llm:claude-sonnet-4-6",
+    "model": "claude-sonnet-4-6",
+    "provider": "claude",
+    "codebook_version": "0.4",
+    "ingest": "text",
+    "design": "single",
+    "temperature": null,
+    "thinking": null,
+    "thinking_effort": null,
+    "coded_at": "2026-07-07T00:31:31Z",
+    "notes": {}
+  }
+}

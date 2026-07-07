@@ -1,0 +1,1350 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Dry Forests, Savannas and Barrens</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Natural Resources U.S. Geological Survey</orgName>
+								<orgName type="institution">Michigan Fish and Wildlife Cooperative Research Unit Old-Growth Forest Network</orgName>
+								<address>
+									<addrLine>Contributors Michigan Natural Features Inventory Huron Pines Michigan Nature Association Sault St. Marie Tribe of Chippewa Indians John Ball Zoo Kirtland&apos;s Warbler Alliance Michigan Botanical Society Michigan</addrLine>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Dry Forests, Savannas and Barrens</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">36E7839742D6B8D28E7191D3973BB6F2</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.1" ident="GROBID" when="2026-07-06T12:26+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>What are dry forests, savannas and barrens? Dry forests, savannas, and barrens are fire-dependent ecosystems. In Michigan, they are found mostly in areas with sandy, drought-prone soils, especially across the northern Lower Peninsula. These habitats range from dense pine or oak forests with more than 60% tree cover, to more open savannas and barrens with sparse tree cover (5-60%) and ground layers dominated by grasses and sedges.</p><p>Historically, fire played a central role in maintaining this mix of dense forest and open areas. The size, intensity, and timing of fires created a constantly changing patchwork of trees and grasslands. While lightning and climate influenced the natural fire cycle, frequent burning by Indigenous peoples was one of the most important forces shaping these landscapes <ref type="bibr" target="#b33">(Loope and Anderton 1998</ref><ref type="bibr" target="#b26">, Kipfmueller et al. 2021</ref><ref type="bibr" target="#b50">, Stambaugh et al. 2024</ref>).</p><p>Michigan's dry savannas, often called barrens, fall into three main types: pine barrens, oak barrens, and oak-pine barrens. Pine barrens are often found in the northern Lower and eastern Upper Peninsulas, while oak barrens are common in Southern Michigan. Oak-pine barrens are found in the western and northern Lower Peninsula, and parts of the western Upper Peninsula. These fire-adapted systems are vital for wildlife. They support many rare species, like the Kirtland's warbler, which nests almost exclusively in young jack pine forests, and pale agoseris, which is restricted in Michigan to pine barrens and dry sand prairie in the High Plains of the northern Lower Peninsula. In the western Lower Peninsula, oak-pine barrens provide essential homes for the federally endangered Karner blue butterfly and the state-threatened frosted elfin.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Call Out Box: Fire, It's Complicated</head><p>Land managers use many tools to protect human life, property, and infrastructure from wildfires. These tools include maintaining fuel breaks near cities and towns, reducing fuels in dry forests, savannas, and barrens, and actively suppressing wildfires when they occur. Prescribed fire is an important tool for habitat management and decreasing risks of uncontrolled wildfires, but conditions must be right to use it. Managers must balance human safety, protection of infrastructure, and limited resources when planning burns to support wildlife habitat. When fire cannot be used, other disturbance methods may be applied to manage the land to try and mimic the effects of fire. This chapter focuses on Species of Greatest Conservation Need (SGCN) and their habitats, and it highlights the need for fire in managing these systems.</p><p>Call Out Box: Fire's Benefits Large fires, especially carefully managed prescribed burns, can provide major benefits for a wide range of wildlife. When reintroduced thoughtfully, fire encourages the growth of mast-producing trees like oaks and hickories, which provide food for wildlife, such as white-tailed deer and wild turkey. Fire also improves the quality and palatability of grasses and other plants that grazing animals like elk rely on. In addition, fire opens up habitat, increasing the availability of nesting and feeding areas for birds like the American woodcock, and a wide variety of small mammals.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>What is the health of dry forests, savannas and barrens? Dry forests, savannas and barrens are fire-dependent natural communities and once occurred in a shifting mosaic of natural communities, depending on differences in landforms, soils and natural disturbances including fire and grazing by large ungulates. Following European colonization, widespread timber harvest, subsequent fire suppression, elimination of major grazers like elk and removal of Native American populations contributed to the declines in these and other fire-dependent natural communities. Many contemporary forestry practices, including the establishment of pine plantations for timber production, lead to continuing declines. Dry savannas and barrens have been reduced to less than 2% of their historical extent <ref type="bibr" target="#b17">(Comer et al. 1995</ref><ref type="bibr">, MNFI 2025)</ref>. Dry forests are still widespread on the landscape but most examples are degraded due to logging and fire exclusion. For example, natural red pine (e.g., non-plantation) in the Great Lakes Region has declined by an estimated 87% from historic levels <ref type="bibr" target="#b22">(Gilmore and Palik 2006)</ref>. Old-growth red pine is one of the rarest forest types in the Great Lakes Region with only 0.2% of red-white pine forests remaining relatively intact <ref type="bibr">(Frelich 1995)</ref>.</p><p>Managing these ecosystems with prescribed and cultural fire will maintain critical habitat for rare species and help ensure that additional species do not become rare. Fire-managed dry forests, savannas and barrens are also less susceptible to wildfire, as regular fire clears away dense fuels that can feed wildfires and conditions trees and other species to better withstand the effects of fire <ref type="bibr" target="#b24">(Hauser 2008</ref><ref type="bibr">, Wu et al. 2023)</ref>. Much of the forest heterogeneity that contributes to ecosystem resilience in dry forests of the Lake States developed from long-term application of fire by Indigenous Peoples (Anderton 1999, <ref type="bibr" target="#b26">Kipfmueller et al. 2021)</ref>.</p><p>Natural communities found in Dry Forests, Savannas and Barrens Oak Barrens Oak-Pine Barrens Pine Barrens Dry Northern Forest Dry Southern Forest Helpful resources for identifying and understanding Michigan's natural communities include Michigan Natural Features Inventory's natural community classification <ref type="bibr" target="#b11">(Cohen et al. 2015</ref><ref type="bibr">, Cohen et al. 2025</ref>) and natural community abstracts, both of which are available online along with photos, comprehensive descriptions, distribution maps, and thorough references from the scientific literature. MNFI's most detailed bibliography on Michigan's natural communities can be found in the publication "Distribution Maps of Michigan's Natural Communities" <ref type="bibr">(Albert et al. 2008)</ref>, which is also available for viewing and downloading at the MNFI website.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Accomplishments Habitat accomplishments</head><p>The establishment of the Northern Pine Plains Partnership and the Northern Michigan Fire Collaborative has created opportunities for collaborative learning and planning.</p><p>The Sault Tribe of Chippewa Indians and Bay Mills Indian Community Natural Resources Departments are working collaboratively with the U.S. Forest Service to return fire to culturally significant sites in the eastern Upper Peninsula.</p><p>Through a cooperative agreement with the US Fish and Wildlife Service (USFWS), the Little Traverse Bay Bands of Odawa Indians, Michigan State University, and Michigan Natural Features Inventory (MNFI) are reconstructing fire histories in the Straits region and working collaboratively with Michigan Department of Natural Resources (DNR) to return fire to culturally significant sites.</p><p>MNFI developed a prescribed fire needs assessment model and GIS-based Web Map Application with support from Michigan DNR <ref type="bibr" target="#b13">(Cohen et al. 2021)</ref>.</p><p>MNFI developed strategies for the management of natural red pine across Michigan's State Forest network <ref type="bibr" target="#b32">(Lincoln et al. 2025)</ref>. These efforts helped shape the natural red pine guidance documents and the Michigan State Forest Management Plan.</p><p>Population recovery of the Kirtland's Warbler resulted in removal of the species from the Federal List of Threatened and Endangered Wildlife in October of 2019. MNFI developed a real-time web application to share Karner Blue Butterfly data with land managers; implemented an occupancy-based sampling design and occupancy model <ref type="bibr">(2015)</ref><ref type="bibr">(2016)</ref><ref type="bibr">(2017)</ref><ref type="bibr">(2018)</ref><ref type="bibr">(2019)</ref><ref type="bibr">(2020)</ref><ref type="bibr">(2021)</ref><ref type="bibr">(2022)</ref><ref type="bibr">(2023)</ref><ref type="bibr">(2024)</ref><ref type="bibr">(2025)</ref>; and recorded 22,982 observations across eight survey years. <ref type="bibr">(Monfils and</ref><ref type="bibr">Cuthrell 2015, 2018;</ref><ref type="bibr" target="#b39">Monfils et al. 2021;</ref><ref type="bibr" target="#b14">Cole-Wick et al. 2023</ref><ref type="bibr" target="#b51">, 2024</ref><ref type="bibr" target="#b48">, 2025)</ref>.</p><p>Developed survey protocols for Dusted Skippers (Atrytonopsis hianna) and documented populations in nine counties <ref type="bibr" target="#b19">(Cuthrell et al. 2021)</ref>.</p><p>Recorded new observations of Common Nighthawk at Camp Grayling <ref type="bibr">(Monfils 2021</ref><ref type="bibr">, Monfils et al. 2023</ref><ref type="bibr" target="#b48">, 2025)</ref>.</p><p>Reconfirmed the presence of Pale Agoseris in the Atlanta Forest Management Unit during 2022 surveys <ref type="bibr" target="#b10">(Cohen et al. 2022)</ref>. Detailed mapping of Pale Agroseris at four sites among Huron-Manistee National Forest and Grayling Forest Management Unit to track the species response to prescribed fire <ref type="bibr">(Bassett et al. in prep)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Focal Species</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Common Nighthawk</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Chordeiles minor</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Special Concern</head><p>Common Nighthawks are currently listed as a Species of Special Concern in Michigan. Most frequently observed at dusk or dawn, these medium-sized, aerial insectivores are recognized by their distinctive "peent" calls and erratic flight as they forage on the wing. Despite being relatively easy to detect in flight, they are difficult to observe while roosting due to their cryptic coloration and preference for resting motionless on the ground or horizontal branches.</p><p>Common Nighthawks are ground nesters that rely on large, open areas with minimal vegetation cover. In Michigan, they utilize a range of open, fire-adapted habitats, including barrens, savannas, woodland openings, dunes and prairies. They are particularly reliant on the maintenance of these open landscapes through natural disturbance regimes such as fire. This species has been documented from 10 sites in 4 counties in Michigan as of 2025 in the state's Natural Heritage Database and all 10 of these occurrences were observed within the last 20 years (2005-2025; MNFI 2025).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Goal:</head><p>• Maintain open forest conditions through prescribed fire management • Determine baseline population status and distribution</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Dusted Skipper</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Atrytonopsis hianna</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Special Concern</head><p>The dusted skipper is a small (1.1 -1.3 inches) dark colored butterfly. The most diagnostic feature of this skipper is that adults have a "masked" appearance due to their dark eyes being bordered by the white palps below and a white eye stripe above <ref type="bibr" target="#b23">(Glassberg 1999)</ref>. This butterfly darts from perch to perch covering a lot of territory and males can fly long distances (300 feet or more) when disturbed <ref type="bibr" target="#b25">(Iftner et al. 1992</ref><ref type="bibr" target="#b18">, Cuthrell 2006)</ref>. Dusted skippers occur in remnant dry sand prairies, openings within oak and oak-pine barrens, limestone glades and dry open fields where native warm season grasses occur <ref type="bibr" target="#b18">(Cuthrell 2006)</ref>. Adults have been observed visiting various flowers and the larval host plants are big bluestem (Andropogon gerardii) and little bluestem (Schizachyrium scoparium) <ref type="bibr" target="#b18">(Cuthrell 2006)</ref>. Pale agoseris, another focal species, is a confirmed nectar plant for the dusted skipper <ref type="bibr">(Cuthrell pers. comm. 2025)</ref>. This species has been documented from 62 sites in 19 counties in Michigan as of 2025 in the state's Natural Heritage Database and 32 of these occurrences were observed within the last 20 years (2005-2025; MNFI 2025).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Goal:</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Karner Blue Butterfly</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Plebejus samuelis</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Federally Endangered and State Threatened</head><p>The Karner blue butterfly is found in oak-pine barrens and oak barrens in Michigan where its only host plant, sundial lupine (Lupinus perennis), thrives on sandy soils. Once found throughout the upper Midwest and southern Canada, this rare butterfly's range is now likely restricted to Michigan, New Hampshire, New York, New Jersey and Wisconsin -with the majority of remaining populations in Wisconsin and Michigan. A bivoltine species, the first generation of adults flies late May to June and the second flies July into August, then overwintering as eggs <ref type="bibr">(Savignano 1990, Swengel and</ref><ref type="bibr" target="#b52">Swengel 1999)</ref>. To thrive, Karner blues need sufficient nectar sources, a balance of sundial lupine growing in both sun and shade and ants, with which the butterfly has a facultative mutualism. Adult Karner blues nectar on a variety of plants including butterfly-weed (Asclepias tuberosa), whorled milkweed (A. verticillata) and rough blazing-star (Liatris aspera). To maintain habitat for the Karner blue, regular disturbance is needed to set back succession of barrens and savanna to forest. Research shows that mechanical thinning of woody vegetation and prescribed fire together restore oak savanna better than fire alone <ref type="bibr" target="#b8">(Bassett et al. 2020)</ref>. This species has been documented from 187 sites in 11 counties in Michigan as of 2025 in the state's Natural Heritage Database and 48 of these occurrences were observed within the last 20 years (2005-2025; MNFI 2025).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Goals:</head><p>• Identify and increase the number of viable populations.</p><p>• Explore options for northern migration of Karner blue butterflies.</p><p>• Establish one new population in western Michigan.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Kirtland's Warbler</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Setophaga kirtlandii</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>State Threatened</head><p>Once down to fewer than 200 breeding pairs, Kirtland's warbler populations rebounded to exceed the 1,000 breeding pair recovery goal by the early 2000s. This is in large part due to directed habitat management and brown-headed cowbird management in Michigan, where 98% of the global population breeds in the summer months. Due to this population increase, Kirtland's warbler has expanded its breeding range across the Lower Peninsula and into Michigan's Upper Peninsula, Wisconsin and Ontario.</p><p>Kirtland's warbler remains conservation reliant due to wildfire suppression and land use changes, and long-term management is necessary for the viability of this species. Kirtland's warbler is a ground nesting species that prefers young jack pine forests (5-23 years old <ref type="bibr">;</ref><ref type="bibr" target="#b45">Probst 1988</ref>) that are at least 85 acres in size. After just over two decades of growth, jack pines reach about 18 feet, the lower branches begin to die and these areas are no longer used by the warbler for nesting <ref type="bibr" target="#b44">(Olson 2002)</ref>. In 2025, the number of breeding pairs was estimated to be 1,477 in Michigan and 1,522 rangewide (including Wisconsin and Ontario, Canada). This is down from an estimated 2,184 and 2,245 breeding pairs in 2021, respectively, indicating a 32% population decline in that time.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Goal:</head><p>• Sustain the Kirtland's warbler population above 1,000 breeding pairs by ensuring habitat creation goals maintain current bird densities and are met annually.</p><p>• Survey for Kirtland's Warbler in areas burned in recent wildfires exhibiting dense Jack Pine regeneration (e.g., Duck Lake and Sleeper Lake fires)</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Pale Agoseris</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Agoseris glauca</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>State Threatened</head><p>Pale agoseris shoots up a single, leafless, yellow dandelion-like flower from a basal rosette of linear, fleshly, blue-green leaves. It is best recognized when blooming in June and July. In Michigan is it found in only four counties in the High Plains region of the northern Lower Peninsula. Habitats include dry, grass-dominated openings in pine barrens and dry sand prairies including "frost pocket" depressions. The Michigan population is disjunct by about 600 miles from its main range, which stretches from Alaska to northern Ontario. Pale agoseris requires fire-managed, open canopy conditions and is a confirmed nectar plant for the dusted and cobweb skippers <ref type="bibr">(Cuthrell pers. comm 2025)</ref>. This species has been documented from 19 sites in four counties in Michigan as of 2025 in the state's Natural Heritage Database and 14 of these occurrences were observed within the last 40 years <ref type="bibr" target="#b55">(1985</ref><ref type="bibr" target="#b48">-2025;</ref><ref type="bibr">MNFI 2025)</ref>.</p><p>Goals:</p><p>• Develop habitat management plans to maintain and expand openings near populations • Conduct status survey to assess the viability of known populations</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Smooth Green Snake</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Opheodrys vernalis</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Special concern</head><p>The smooth green snake is the only bright green snake in Michigan, with occasional adults and younger snakes that can be duller in color, ranging from light brown and tan to olive green and bluish gray. This slender, medium-sized snake (typically 1-2 feet long) feeds primarily on insects, such as crickets, grasshoppers, caterpillars, beetles and spiders, as well as snails and slugs. Smooth green snakes occupy a wide range of habitats such as moist grassy habitats including prairies and savannas, barrens, sedge meadows and marshes. They also can be found in open deciduous and coniferous forests and along forest edges and openings. Historically, this species occurred throughout the state but is currently mainly found in the northern Lower Peninsula and the Upper Peninsula. This species has become increasingly rare or locally extirpated throughout much of southern Michigan. This species has been documented from 185 sites in 53 counties in Michigan as of 2025 in the state's Natural Heritage Database and 116 of these occurrences were observed within the last 30 years (1995-2025; MNFI 2025).</p><p>Goals:</p><p>• Establish baseline population status and distribution.</p><p>• Enhance understanding of the species' habitat use, ecology and causes of decline.</p><p>Restore fire-dependent dry forests, savannas and barrens Dry forests, savannas and barrens are fire-adapted ecosystems that rely on frequent, lowintensity fires to maintain their structure, species composition and ecological function. In the absence of fire, these systems transition to less drought-tolerant species or, are converted to pine plantations. Both outcomes lead to reduced biodiversity and increased vulnerability to environmental stressors such as drought, pests, wildfire and ice storms. The encroachment of mesic species like red maple further diminishes resilience by altering fire regimes and ecosystem dynamics. Restoring and maintaining natural fire cycles is essential to conserving biodiversity and enhancing the adaptive capacity of these fire-dependent landscapes. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Focal species adaptive capacity</head><p>Adaptive capacity is a species' ability to tolerate or adapt to environmental change, whether that be through shifting in space or persisting in place <ref type="bibr" target="#b54">(Thurman et al. 2020)</ref> Threats &amp; conservation actions to habitat Threats Fire Exclusion</p><p>• Fire suppression and changes to the size, frequency and seasonality of fires, leads to reduced biodiversity and altered ecosystem structure <ref type="bibr">(USFWS 1976;</ref><ref type="bibr" target="#b9">Cohen 2002;</ref><ref type="bibr" target="#b18">Cuthrell 2006;</ref><ref type="bibr" target="#b53">Szymanski et al. 2015)</ref>.</p><p>• Public perception of wildland fire can be a barrier to application of prescribed fire.</p><p>• Poor distribution and extent of prescribed fire across the landscape. Suboptimal fire regimes, due to operational, logistical and economic challenges, can lead to areas not being burned as often as needed.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Natural Systems Modifications</head><p>• Loss of habitat due to development and conversion to agriculture.</p><p>• Succession to more forested ecosystems due to fire exclusion and lack of large herbivores.</p><p>• Conversion from natural cover to jack and red pine plantations.</p><p>• Fragmentation due to land use pressures makes it difficult to maintain connectivity and increases invasive species pathways.</p><p>• Conversion to other land uses (e.g., food plots) in forest openings reduces habitat availability.</p><p>• Loss of fire-tolerant species and shifts towards fire-sensitive species can lead to greater threats of wildfire and loss in biodiversity.</p><p>• Oak regeneration in southern savannas threatened by deer browse, shifts in soil composition and canopy closure.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Energy Production &amp; Mining</head><p>• Oil and gas infrastructure is incompatible with prescribed fire, fragments habitats and increase pathways for invasive species.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Human Intrusions &amp; Disturbance</head><p>• Expanding trail systems increases risks from ORVs in sensitive habitats and promotes the spread of invasive species.</p><p>Invasive &amp; Other Problematic Species, Genes &amp; Diseases</p><p>• Invasive plants, animals and pathogens pose significant risk to natural communities, including changes to the structure and composition of focal species habitat.</p><p>• Insect pests threaten many native tree species.</p><p>• In areas with high densities of deer, over browsing can impact understory regeneration, threatening vegetation composition and long-term habitat stability.</p><p>Agriculture &amp; Aquaculture</p><p>• Jack pine management may be restricted in the future due to shifting timber markets, limiting the ability for management of jack pine ecosystems through silviculture.</p><p>• Loss of habitats due to the expanding scope and intensification of silvicultural practices.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Residential &amp; Commercial Development</head><p>• Loss of habitat to development threatens many habitats in Michigan, especially in the Southern Lower Peninsula where the majority of Michiganders live. This area is projected to be the center of a 60 million person urban mega region by 2050 (Hager 2009)</p><p>Changing Weather Patterns and Severe Weather</p><p>• Conversion to plantations makes landscapes less resilient through the simplification of ecosystem structure and plant community composition, as well as habitat fragmentation.</p><p>• A warmer, dryer climate can threaten ecosystems with increased chances for drought and wildfire, altering these systems beyond management abilities.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conservation Actions</head><p>Land &amp; Water Management H1.</p><p>Use prescribed fire as a management tool and consider burning throughout the year or at varying times to increase plant diversity; include refuge areas in known or suspected focal species sites. Avoid disking, trenching or planting (plantation) recoverable remnant savanna and barrens habitats.</p><p>H5.</p><p>When setting back succession and connecting habitats, use a combination of prescribed fire and mechanical thinning to more effectively manage woody vegetation encroachment.</p><p>H6.</p><p>Continue early detection and rapid response efforts for invasive species. <ref type="bibr">[TIS]</ref> H7.</p><p>Work Research &amp; Monitoring H26. Determine status and distribution of focal species. H27. Develop monitoring protocols to evaluate the ecological integrity of dry forest, savanna and barrens and implement monitoring in benchmarks. H28. Research impacts of herbivory on rare species and their habitats. House in a centralized database. H29. Identify high-quality remnant and recoverable ecosystems. H30. Develop and support management collaboratives that encourage coordinated management within and between state and federal agencies and private landowners. H31. Develop and promote monitoring protocols for tracking management effects that can be applied to natural lands across ownerships. H32. Continue research on effective biocontrol for key invasive species with minimal negative side effects to native species. [TIS] H33. Use and promote the Midwest Invasive Species Information Network (MISIN) to monitor invasive species.</p><p>[TIS] H34. Assess cost-efficiency of alternative management strategies to inform management. H35. Monitor for disease and insect outbreaks. <ref type="bibr">[TIS]</ref> H36. Reconstruct fire histories in fire-dependent sites using dendrochronology and engagement with Tribal communities to increase understanding about fire regimes (e.g., fire return intervals and seasonality of fire). • Loss of habitat due to reduced natural disturbance regimes that maintain early successional habitat and the big and little bluestem grasses dusted skipper rely on.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Threats and conservation actions for focal species</head><p>• Poorly timed prescribed burns in fall or early spring may be detrimental to larvae. In early spring, when a substantial number of larvae may still be in elevated leaf shelters and in the fall when they require insulating leaf litter and dead vegetation.</p><p>Invasive &amp; Other Problematic Species, Genes &amp; Diseases</p><p>• Untargeted use of pesticides in or near dusted skipper sites can negatively impact population survival.</p><p>• Invasive species, such as leafy spurge, taking over sites and displacing host plants.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Changing Weather Patterns</head><p>• Changing weather patterns could cause a loss of diversity and abundance of nectar sources and create potential phenological mismatches with nectar sources.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conservation Actions</head><p>Land &amp; Water Management DS1. At known sites, conduct prescribed burns in late spring and include refuge areas, to avoid significant impacts to populations.</p><p>Research &amp; Monitoring DS2. Refine survey methodology. DS3. Population estimates at long-term monitoring locations (mainly Grayling area, but some fringe populations would provide useful data on any regional occupancy changes). DS4. Develop a statewide habitat suitability model. DS5. Life-history and biology studies to understand host plant/ nectar use and larval behaviors.</p><p>DS6. Investigate species response to management.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Karner Blue Butterfly</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Threats</head><p>Development &amp; Natural Systems Modifications</p><p>• Succession of unmanaged barrens and savanna to forest.</p><p>• Paucity of nectar sources.</p><p>• Lack of prescribed fire.</p><p>• Lack of protected/managed sites on private lands.</p><p>• Mismatched timing between management and species' needs.</p><p>• Urban and agricultural development.</p><p>Invasive &amp; Other Problematic Species, Genes &amp; Diseases</p><p>• Big leaf lupine (Lupinus polyphyllus) acts as an ecological sink, directly killing Karner blue larvae that feed on it.</p><p>• Invasive species may outcompete native nectar sources and prevent Sundial Lupine establishment or growth <ref type="bibr">(USFWS 2003)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Changing Weather Patterns</head><p>• Increased drought events, length of growing season and lack of snowfall and snowpack all reduce population survivability.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conservation Actions</head><p>Land &amp; Water Management KBB1. Conduct habitat management for barrens/savanna on public lands, focusing on retaining large oak and pine canopy trees for a savanna-like structure that is needed for the Karner blue to thrive. [KBB1] KBB2. Increase nectar sources, like whorled milkweed, blue lupine and butterfly milkweed, at Karner blue sites. <ref type="bibr" target="#b0">[KBB1]</ref> Research &amp; Monitoring KBB3. Assess the status of populations on private lands.  <ref type="bibr">[KW]</ref> Research &amp; Monitoring KW4. Conduct population census every 2-4 years to assess conservation status. <ref type="bibr">[KW]</ref> KW5. Monitor brown-headed cowbird nest parasitism rates every 4 years concurrent with the census year. KW6. Conduct habitat and population demographic monitoring on experimental habitat trials evaluating reduced jack pine planting densities and interplantings with red pine.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Pale Agoseris</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Threats Habitat Conversion</head><p>• Conversion of dry sand prairie and open pine barrens to pine plantations.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Human Intrusions &amp; Disturbance</head><p>• Off-road vehicle use may degrade or destroy habitat.</p><p>Invasive &amp; Problematic Species, Pathogens &amp; Genes</p><p>• Invasive species such as autumn olive (Elaeagnus umbellata) and spotted knapweed (Centaurea stoebe) can outcompete and alter habitat conditions.</p><p>Natural System Modifications • Vehicular traffic and roads can cause snake mortality or injuries and/or act as a barrier to movement, further contributing to reduced connectivity and gene flow <ref type="bibr" target="#b46">(Redder et al. 2006</ref>).</p><p>• Use of insecticides have reduced insect/prey density and can bioaccumulate in snakes that eat contaminated prey, which can cause lethal or other adverse effects on snakes <ref type="bibr" target="#b21">(Ernst and</ref><ref type="bibr">Ernst 2003, Redder et al. 2006</ref>).</p><p>• Mowing and other mechanical applications in grassy areas can increase risk of snake mortality and injury.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Lack of Knowledge</head><p>• Lack of information on distribution, relative abundance, population demographics and trends, ecology and limiting factors hinder or reduce management efforts.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Changing Weather Patterns</head><p>• Higher temperatures, increased fluctuations in temperature and precipitation and more extreme weather events (e.g., increased flooding and drought) can impact survival or health of snakes and their eggs and reduce the availability and/or quality or their habitat and invertebrate prey <ref type="bibr" target="#b46">(Redder et al. 2006)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conservation Actions</head><p>Research and Monitoring SGS1. Develop and implement targeted surveys and monitoring using a standardized protocol to assess the distribution and status of smooth green snakes and identify extant and potentially large or stable populations. <ref type="bibr">[SGS]</ref> SGS2. Initiate a long-term mark-recapture population monitoring study in at least one potentially large or stable population. <ref type="bibr">[SGS]</ref> SGS3. Conduct research to determine the species' habitat use/requirements, ecology, threats and causes of population decline.</p><p>SGS4. Investigate potential approaches and feasibility of reintroducing the species to suitable sites within its historical range, particularly in southern Michigan.</p><p>Land &amp; Water Management SGS5. Implement management that can increase insect/invertebrate prey such as limiting the use of pesticides/insecticides in and around areas of known smooth green snake occurrence.</p><p>[SGS] SGS6. Consider the timing of prescribed fire and mechanical applications (e.g., mowing, use of heavy mechanical equipment, timber harvesting) in areas with known smooth green snake Conducting these activities in early spring, late fall and winter when snakes are overwintering would reduce the potential for adversely impacting snakes. SGS7. Provide additional cover for protection from predators for adults and eggs such as downed logs, stumps and brush piles.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Places for partnership</head><p>This map was created in collaboration with partners and highlights focal areas to work in over the next 10 years. Creating shared goals helps focus efforts and build collaboration. While this map has a select few areas highlighted, conservation work benefitting any Dry Forest, Savanna, or Barren is welcome and encouraged.</p><p>• Use community science programs, like eBird, to help assess distribution and relative abundance.</p><p>• Update element occurrences in the state's Natural Heritage Database.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Dusted Skipper</head><p>• Conduct targeted surveys to determine current distribution and relative abundance.</p><p>• Continue to update element occurrences in the state's Natural Heritage Database.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Karner Blue Butterfly</head><p>• Continue distance surveys for population trends. Continue to monitor habitat at recovery sites.</p><p>• Visit sites where the population status is unknown.</p><p>• Continue to update element occurrences in the state's Natural Heritage Database.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Kirtland's Warbler</head><p>• Continue to survey and census Kirtland Warbler populations throughout the state.</p><p>• Periodically monitor for cowbird nest parasitism.</p><p>• Continue to update occurrences in the state's Natural Heritage Database.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Pale Agoseris</head><p>• Every five years or less, collect standardized count-based and density-based population data.</p><p>• Every five years or less, document any observable changes in occupied areas.</p><p>• Continue to update occurrences in the state's Natural Heritage Database.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Smooth Green Snake</head><p>• Conduct targeted surveys and monitoring to determine current distribution, relative abundance, trends, habitat needs and limiting factors.</p><p>• Continue to update element occurrences in the state's Natural Heritage Database.</p><p>Links to other plans [CG] Conservation Planning for the Grayling subdistrict of Michigan <ref type="bibr" target="#b42">(Muladore et al. 2006)</ref> [CN] Recovery Strategy for the Common Nighthawk (Chordeiles minor) in Canada (Environment Canada 2016</p><p>[JV] Upper Mississippi / Great Lakes Joint Venture Landbird Habitat Conservation Strategy -2020 Revision <ref type="bibr" target="#b49">(Soulliere et al. 2020)</ref> </p></div><figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="5,72.00,72.00,256.00,256.00" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="6,72.00,72.00,235.50,235.50" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="7,72.00,72.00,229.00,229.00" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="8,90.00,72.00,267.50,267.50" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="9,72.00,72.00,241.00,241.00" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="10,108.00,72.00,248.00,248.00" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Call Out Box: Dry</head><label></label><figDesc>Forests, Savannas and Barrens on Public LandsKnown pine barren communities located upon state and federal public lands are generally identified and protected within management systems and provide continuity of habitat for associated focal species. For example, all known pine barren natural communities on state forest land are protected as high conservation value Ecological Reference Areas. The entirety of dry northern forest managed as essential habitat for the Kirtland's warbler on state forest land is a high conservation value Dedicated Habitat Area. Large areas of oak pine barrens on the Huron-Manistee National forest are being actively restored by the MDNR through the Michigan Good Neighbor Authority program.</figDesc><table /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head></head><label></label><figDesc>. Michigan Natural Features Inventory, with funding support from the Michigan Department of Natural Resources, assessed Adaptive Capacity for over 500 Midwest SGCN from 2023-2024 (Appendix 3). We chose to increase clarity at expense of precision in technical language used by<ref type="bibr" target="#b54">Thurman et al. (2020)</ref> in their paper. The Michigan Department of Natural Resources created broad management strategies based off assessment results and are intended to be stepped down based on management scale, capacity and resources. Management strategies for assessed 2025-2035 focal species are:</figDesc><table><row><cell></cell><cell cols="2">Lowest adaptive capacity Strategy</cell></row><row><cell cols="2">Common Nighthawk Movement</cell><cell>Increase habitat connectivity</cell></row><row><cell>Dusted Skipper</cell><cell>Movement</cell><cell>Enhance reproduction or survival</cell></row><row><cell>Karner Blue Butterfly</cell><cell>Dependence on Other Species</cell><cell>Manage habitat</cell></row><row><cell>Kirtland's Warbler</cell><cell>Range of Tolerances</cell><cell>Increase habitat connectivity</cell></row><row><cell>Smooth Green Snake</cell><cell>Population Size</cell><cell>Increase habitat connectivity</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head></head><label></label><figDesc>with private landowners adjacent to public or land conservancy holdings to manage and expand the size of suitable habitats and create connections to other suitable habitats for focal species. [CC;<ref type="bibr" target="#b1">KW;</ref><ref type="bibr" target="#b0">KBB1;</ref><ref type="bibr" target="#b4">PIF]</ref> . Use conservation easements and acquisitions to increase long-term viability of remnants and habitats, and to create important linkages for focal species needs.[KW]   H12. Identify high-quality remnant and recoverable ecosystems through a combination of spatial modeling and field surveys and incorporate findings into conservation planning and management.[PIF] H13. Develop plans for dry northern forest and barrens within the State Forest Ecological Reference Area network and implement plans. H14. Develop solutions to overcome operational, financial, cultural and capacity limitations preventing the expanded use of prescribed fire. H15. Develop an invasive species response plan and incorporate into appropriate management planning and implementation.[TIS]    Work with land use planners and local governments to encourage conservation of dry forests, savannas and barrens and the wildlife that rely on them. Provide resources to aid them in considering these values in their decisions. H18. Collaborate with groups supporting ecological management, including Michigan Prescribed Fire Council, Lake States and Tallgrass Prairie fire consortia and Northern Pine Plains Partnership.H19. Promote management and restoration of dry forests, savanna and barrens and the positive impacts it has on wildlife experiences such as hunting and wildlife viewing.[MSGA] H20. Promote voluntary best management practices for stopping the introduction and spread of invasive species by recreational users, researchers and industry.[TIS] H21. Educate land managers, local communities and the public on the value of management practices such as prescribed fire and ecological silvicultural practices. Enforce laws regarding ORV use on public land, especially regarding impacts to focal species' habitat due to off-trail use. H25. Take appropriate enforcement actions for violations of the Michigan Threatened and Endangered Species Act (NREPA Part 365), the Invasive Species Order (NREPA Part 413) and maintain the Prohibited and Restricted Species list pursuant to the Natural Resources and Environmental Protection Act, P.A. 451 of 1994, as amended.</figDesc><table><row><cell>H8. H9. Conservation Planning Implement invasive species decontamination and prevention protocols. [CC; TIS] Explore co-management opportunities with Tribal organizations, particularly to protect and maintain landscapes with extensive histories of Indigenous land tending through cultural burning. [CC] Raising Awareness H16. Support education efforts on the value of dry forests, savannas and barrens and focal species. [KW; KBB1] H22. Emphasize the different but compatible values of conserving remnant ecosystems and grassland creation. H23. Increase literacy about cultural burning. Law &amp; Policy H17. [CG] H24.</cell></row></table><note><p>H10. Expanding patch size of remnants and prioritizing connectivity between patches of high-quality habitat to increase climate resiliency and population viability for focal species. [CC; KW; KBB1] H11</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_4"><head></head><label></label><figDesc>Large scale development, conversion of savanna and barrens to closed forest systems • Large scale mining operations.</figDesc><table><row><cell>Threats</cell><cell></cell></row><row><cell cols="2">Commercial, Residential &amp; Agricultural Development</cell></row><row><cell cols="2">• Conservation Actions</cell></row><row><cell cols="2">Land &amp; Water Management</cell></row><row><cell>CNH1.</cell><cell>Maintain open forest conditions through prescribed fire management. [CN]</cell></row><row><cell cols="2">Invasive &amp; Other Problematic Species, Genese &amp; Diseases</cell></row><row><cell>CNH2.</cell><cell>Minimize insecticide usage in areas with common nighthawks. [CN]</cell></row><row><cell cols="2">Dusted Skipper</cell></row><row><cell>Threats</cell><cell></cell></row><row><cell cols="2">Natural System Modifications</cell></row><row><cell cols="2">Common Nighthawk</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_5"><head></head><label></label><figDesc>Ensure at least 75% of annual habitat acres are created using management techniques that maintain current bird densities.[KW]   KW2. Implement adaptive management by employing novel management techniques on up to 25% of annual habitat acres to better inform and continuously improve management.[KW] KW3. Implement the Kirtland's Warbler Breeding Range Conservation Plan.</figDesc><table><row><cell>Development &amp; Natural Systems Modifications</cell></row><row><cell>• Succession of unmanaged barrens and savanna to forest.</cell></row><row><cell>• Loss of fire on the landscape.</cell></row><row><cell>• Degradation of wintering habitat.</cell></row><row><cell>Invasive Species &amp; Other Problematic Species, Genes &amp; Diseases</cell></row><row><cell>• Nest Parasitism by Brown-headed Cowbirds.</cell></row><row><cell>Conservation Actions</cell></row><row><cell>Land &amp; Water Management</cell></row><row><cell>KW1.</cell></row><row><cell>[KBB1] KBB4. Investigate experimental lupine populations in northern Michigan for assisted migration planning.</cell></row><row><cell>Conservation Designation &amp; Planning</cell></row><row><cell>KBB5. Update the Karner Blue Butterfly Habitat Conservation Plan for 2030 and begin implementation. [KBB2] KBB6. Work with seed providers, greenhouses and plant sellers to ensure big leaf lupine is not sold in Michigan.</cell></row><row><cell>Kirtland's Warbler</cell></row><row><cell>Threats</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_6"><head></head><label></label><figDesc>Analyze genetic relationships between Michigan disjunct and main range populations.</figDesc><table><row><cell>Research &amp; Monitoring</cell></row><row><cell>PA2. Smooth Green Snake</cell></row><row><cell>Threats</cell></row><row><cell>Residential, Commercial and Agricultural Development</cell></row><row><cell>• Development and conversion to agricultural land have resulted in habitat loss and fragmentation and can disrupt connectivity, movements and gene flow within and between populations.</cell></row><row><cell>• Fire suppression degrades habitat by allowing openings and clearings to fill in with woody species.</cell></row><row><cell>Conservation Actions</cell></row><row><cell>Conservation Designation &amp; Planning</cell></row><row><cell>PA1. Develop habitat management plans at sites with populations to maintain open habitat.</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_7"><head></head><label></label><figDesc>Allegan State Game Area Addendum to the 2006 Master Plan (DNR 2012) [CC]Advancing the National Fish, Wildlife, and Plants Climate Adaptation Strategy into a New Decade (National Fish, Wildlife, and Plants Climate Adaptation Network 2021)</figDesc><table /><note><p>[ASGA]</p></note></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p>Scientific research has shown that prescribed burns can boost native bee diversity and abundance<ref type="bibr" target="#b29">(Lettow et al. 2018)</ref>, attract more insect-eating songbirds (Skogen 2025), and support higher numbers of small mammals<ref type="bibr" target="#b28">(Larsen et al. 2016)</ref>. In short, fire reintroduces complexity into ecosystems that have grown too uniform in the absence of natural disturbance, leading to healthier, more diverse ecosystems.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_1"><p>• Establish baseline population status and distribution.• Develop habitat management plans to help sustain populations on state owned lands.</p></note>
+		</body>
+		<back>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>How will we monitor?</head><p>Dry forests, savannas and barrens </p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<monogr>
+		<title level="m" type="main">Final Recovery Plan for the Karner Blue Butterfly (Lycaeides melissa samuelis)</title>
+		<imprint>
+			<date type="published" when="2003">2003</date>
+			<publisher>USFWS</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<title level="m" type="main">Kirtland&apos;s Warbler Breeding Range Conservation Plan</title>
+		<author>
+			<persName><surname>Dnr</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<title level="m">Muskegon State Game Area Master Plan</title>
+		<imprint>
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<title level="m" type="main">Pollinator-friendly BMPs for Federal Lands</title>
+		<imprint>
+			<date type="published" when="2015">2015</date>
+			<publisher>USFS</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<monogr>
+		<title level="m" type="main">Partners in Flight Bird Conservation Plan for The Upper Great Lakes Plain (Physiographic Area 16</title>
+		<imprint>
+			<date type="published" when="2001">2001</date>
+			<publisher>Knutson et al</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title/>
+		<author>
+			<persName><surname>Sfmp</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="s">State Forest Management Plan</title>
+		<imprint/>
+	</monogr>
+	<note>DNR 2024</note>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<monogr>
+		<title level="m">A Technical Conservation Assessment</title>
+		<imprint>
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+	<note>Smooth Green Snake (Opheodrys vernalis</note>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<monogr>
+		<title level="m" type="main">Terrestrial Invasive Species Management Plan (State of Michigan 2024) Literature cited</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Effects of experimental prescribed fire and tree thinning on oak savanna understory plant communities and ecosystem structure</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">J</forename><surname>Bassett</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Landis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">A</forename><surname>Brudvig</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Forest Ecology and Management</title>
+		<imprint>
+			<biblScope unit="volume">464</biblScope>
+			<biblScope unit="page">118047</biblScope>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<monogr>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">G</forename><surname>Cohen</surname></persName>
+		</author>
+		<title level="m">Natural community abstract for dry northern forest. Michigan Natural Features Inventory</title>
+		<meeting><address><addrLine>Lansing, MI</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2002">2002</date>
+			<biblScope unit="page">15</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<monogr>
+		<title level="m" type="main">Natural Community Surveys of State Forest Lands 2022</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">G</forename><surname>Cohen</surname></persName>
+		</author>
+		<idno>No. 2022-25</idno>
+		<imprint>
+			<date type="published" when="2022">2022</date>
+			<biblScope unit="page">69</biblScope>
+			<pubPlace>Lansing, MI</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="report_type">Michigan Natural Features Inventory. Report</note>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<monogr>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">G</forename><surname>Cohen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Kost</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">S</forename><surname>Slaughter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Albert</surname></persName>
+		</author>
+		<title level="m">A Field Guide to the Natural Communities of Michigan</title>
+		<meeting><address><addrLine>East Lansing, MI</addrLine></address></meeting>
+		<imprint>
+			<publisher>Michigan State University Press</publisher>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<monogr>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">G</forename><surname>Cohen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Kost</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">S</forename><surname>Slaughter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Albert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Lincoln</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">P</forename><surname>Kortenhoven</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Wilton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">D</forename><surname>Enander</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">E</forename><surname>Anderson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Parr</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">J</forename><surname>Bassett</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">M</forename><surname>Korroch</surname></persName>
+		</author>
+		<ptr target="https://mnfi.anr.msu.edu/communities/classification" />
+		<title level="m">Michigan Natural Community Classification</title>
+		<meeting><address><addrLine>Lansing, MI</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2025">2025</date>
+		</imprint>
+		<respStmt>
+			<orgName>Michigan State University Extension</orgName>
+		</respStmt>
+	</monogr>
+	<note>Michigan Natural Features Inventory</note>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Assessing the Ecological Need for Prescribed Fire in Michigan Using GIS-Based Multicriteria Decision Analysis: Igniting Fire Gaps</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">G</forename><surname>Cohen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Wilton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">D</forename><surname>Enander</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">J</forename><surname>Bassett</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diversity</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<monogr>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">A</forename><surname>Cole-Wick</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">C</forename><surname>Branch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Monfils</surname></persName>
+		</author>
+		<idno>No. 2023-20</idno>
+		<title level="m">Results of Karner blue butterfly surveys on State Lands in Michigan. Michigan Natural Features Inventory</title>
+		<meeting><address><addrLine>Lansing, MI</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2023">2023</date>
+			<biblScope unit="page">34</biblScope>
+		</imprint>
+	</monogr>
+	<note type="report_type">Report</note>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<monogr>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">A</forename><surname>Cole-Wick</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">C</forename><surname>Branch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Monfils</surname></persName>
+		</author>
+		<title level="m">Status of the Karner Blue Butterfly on State Lands in Michigan. Michigan Natural Features Inventory Document No. 2024-23</title>
+		<meeting><address><addrLine>Lansing, MI</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2024">2024</date>
+			<biblScope unit="page">33</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<monogr>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">A</forename><surname>Cole-Wick</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">C</forename><surname>Branch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">N</forename><surname>Ross</surname></persName>
+		</author>
+		<idno>No. 2025-24</idno>
+		<title level="m">Status of Karner Blue Butterfly on State Lands in Michigan. Michigan Natural Features Inventory Report</title>
+		<meeting><address><addrLine>Lansing, MI</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2025">2025. 2025</date>
+			<biblScope unit="page">13</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<monogr>
+		<title level="m" type="main">Michigan&apos;s Native Landscape, As Interpreted from the GLO Surveys 1816-56</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Comer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Albert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">A</forename><surname>Wells</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">L</forename><surname>Hart</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Raab</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Price</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Kashian</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Corner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">W</forename><surname>Schuen</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1995">1995</date>
+			<publisher>Michigan Natural Features Inventory</publisher>
+			<pubPlace>Lansing, MI, USA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<monogr>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Cuthrell</surname></persName>
+		</author>
+		<title level="m">Special animal abstract for Atrytonopsis hianna</title>
+		<meeting><address><addrLine>Lansing, MI</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+	<note>Michigan Natural Features Inventory</note>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Camp Grayling Rare Insect Surveys and Pollinator Plots</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Cuthrell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">M</forename><surname>Rowe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Ross</surname></persName>
+		</author>
+		<idno>No. 2021-32</idno>
+	</analytic>
+	<monogr>
+		<title level="m">Michigan Natural Features Inventory</title>
+		<meeting><address><addrLine>Lansing, MI</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+	<note type="report_type">Report</note>
+	<note>21 pp. + appendix</note>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Recovery Strategy for the Common Nighthawk (Chordeiles minor) in Canada</title>
+	</analytic>
+	<monogr>
+		<title level="s">Species at Risk Act Recovery Strategy Series. Environment Canada</title>
+		<imprint>
+			<biblScope unit="page">49</biblScope>
+			<date type="published" when="2016">2016</date>
+			<pubPlace>Ottawa</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>Environment Canada</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<monogr>
+		<title level="m" type="main">Snakes of the United States and Canada</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">H</forename><surname>Ernst</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">M</forename><surname>Ernst</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2003">2003</date>
+			<publisher>Smithsonian Institution</publisher>
+			<pubPlace>Washington, D.C</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<monogr>
+		<title level="m" type="main">A revised managers handbook for red pine in the North Central Region</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">W</forename><surname>Gilmore</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">J</forename><surname>Palik</surname></persName>
+		</author>
+		<idno>NC-264</idno>
+		<imprint>
+			<date type="published" when="2006">2006</date>
+			<biblScope unit="page">55</biblScope>
+			<pubPlace>St. Paul, MN</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>North Central Research Station</orgName>
+		</respStmt>
+	</monogr>
+	<note type="report_type">USDA Forest Service General Technical Report</note>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<monogr>
+		<title level="m" type="main">Butterflies through binoculars: The East</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Glassberg</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1999">1999</date>
+			<publisher>Oxford University Press</publisher>
+			<biblScope unit="page">242</biblScope>
+			<pubPlace>NY</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Pinus resinosa</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">S</forename><surname>Hauser</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Fire Effects Information System</title>
+		<imprint>
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Butterflies and skippers of Ohio</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">C</forename><surname>Iftner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Shuey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">V</forename><surname>Calhoun</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ohio Biological Survey Bulletin New Series</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+	<note>xii + 212 pp., 40 color plates</note>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Human Augmentation of Historical Red Pine Fire Regimes in the Boundary Water Canoe Area Wilderness</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">F</forename><surname>Kipfmueller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">R</forename><surname>Larson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">B</forename><surname>Johnson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">A</forename><surname>Schneider</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ecosphere</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="1" to="41" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Partners in Flight Bird Conservation Plan for The Upper Great Lakes Plain (Physiographic Area 16)</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">G</forename><surname>Knutson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Butcher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Fitzgerald</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Shieldcastle</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">USGS Upper Midwest Environmental Sciences Center in cooperation with Partners in Flight</title>
+		<meeting><address><addrLine>La Crosse; WI</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2001">2001</date>
+			<biblScope unit="page">59</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Effects of an Ongoing Oak Savanna Restoration on Small Mammals in Lower Michigan</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">L</forename><surname>Larsen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Jacquot</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">W</forename><surname>Keenlance</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">L</forename><surname>Keough</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.foreco.2016.02.016</idno>
+		<ptr target="https://doi.org/10.1016/j.foreco.2016.02.016" />
+	</analytic>
+	<monogr>
+		<title level="j">Forest Ecology and Management</title>
+		<imprint>
+			<biblScope unit="volume">367</biblScope>
+			<biblScope unit="page" from="120" to="127" />
+			<date type="published" when="2016-05">2016. May</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Bee Community Responses to a Gradient of Oak Savanna Restoration Practices</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">C</forename><surname>Lettow</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">A</forename><surname>Brudvig</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>Bahlai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Gibbs</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">P</forename><surname>Jean</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Landis</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/rec.12655</idno>
+		<ptr target="https://doi.org/10.1111/rec.12655" />
+	</analytic>
+	<monogr>
+		<title level="j">Restoration Ecology</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="882" to="890" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<monogr>
+		<title level="m" type="main">Identifying Recoverable, Fire-Dependent Systems on State Forest Land</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Lincoln</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">J</forename><surname>Bassett</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">G</forename><surname>Cohen</surname></persName>
+		</author>
+		<idno>No. 2024-41</idno>
+		<imprint>
+			<date type="published" when="2024">2024</date>
+			<pubPlace>Lansing, MI</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="report_type">Report</note>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<monogr>
+		<title level="m" type="main">Identifying Recoverable, Fire-Dependent Systems in the Cadillac-Manistee District of the Huron-Manistee National Forest</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Lincoln</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">G</forename><surname>Cohen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">D</forename><surname>Enander</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">J</forename><surname>Bassett</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Wilton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">J</forename><surname>Smith</surname></persName>
+		</author>
+		<idno>2022-45</idno>
+		<imprint>
+			<date type="published" when="2022">2022</date>
+			<pubPlace>Lansing, MI</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="report_type">Report Number</note>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<monogr>
+		<title level="m" type="main">Strategies for Management of Natural Red Pine Forests Across Michigan&apos;s State Forest System</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Lincoln</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">C</forename><surname>Wojtowicz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">R</forename><surname>Schilke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Parr</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">E</forename><surname>Anderson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">J</forename><surname>Stearns</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">G</forename><surname>Cohen</surname></persName>
+		</author>
+		<idno>No. 2025-11</idno>
+		<imprint>
+			<date type="published" when="2025">2025</date>
+			<publisher>Michigan Natural Features Inventory</publisher>
+			<pubPlace>Lansing, MI</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="report_type">Report</note>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Human vs. Lightning Ignition of Presettlement Surface Fires in Coastal Pine Forests of the Upper Great Lakes</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">L</forename><surname>Loope</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Anderton</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The American Naturalist</title>
+		<imprint>
+			<biblScope unit="volume">140</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page">113</biblScope>
+			<date type="published" when="1998">1998. 2009</date>
+			<publisher>Michigan Department of Natural Resources</publisher>
+			<pubPlace>Lansing, MI</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<monogr>
+		<title level="m" type="main">Allegan State Game Area Addendum to the 2006 Master Plan. Michigan Department of Natural Resources</title>
+		<imprint>
+			<date type="published" when="2012">2012</date>
+			<publisher>Michigan Department of Natural Resources</publisher>
+			<biblScope unit="page">15</biblScope>
+			<pubPlace>Lansing, MI; Lansing, MI</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Michigan Department of Natural Resources (DNR). 2016. Muskegon State Game Area Master Plan</note>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<monogr>
+		<title level="m">State Forest Management Plan. Michigan Department of Natural Resources</title>
+		<meeting><address><addrLine>Lansing, MI</addrLine></address></meeting>
+		<imprint>
+			<publisher>Michigan Department of Natural Resources (DNR)</publisher>
+			<date type="published" when="1749">2024. 1749</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Monitoring of high priority bird species at Camp Grayling, Michigan</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">I</forename><surname>Lansing</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Monfils</surname></persName>
+		</author>
+		<idno>No. 2021-08</idno>
+	</analytic>
+	<monogr>
+		<title level="m">Michigan Natural Features Inventory (MNFI). 2025. Michigan Natural Heritage Database</title>
+		<meeting><address><addrLine>Lansing, MI</addrLine></address></meeting>
+		<imprint>
+			<publisher>Michigan Natural Features Inventory</publisher>
+			<date type="published" when="2014-05-27">2014. May 27, 2014. 2021</date>
+			<biblScope unit="page">20</biblScope>
+		</imprint>
+	</monogr>
+	<note type="report_type">Report</note>
+	<note>Kirtland&apos;s Warbler Breeding Range Conservation Plan</note>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<monogr>
+		<title level="m" type="main">Development and implementation of an occupancy survey for Karner blue butterflies</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Monfils</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Cuthrell</surname></persName>
+		</author>
+		<idno>No. 2015-15</idno>
+		<imprint>
+			<date type="published" when="2015">2015. 19</date>
+			<publisher>Michigan Natural Features Inventory</publisher>
+			<pubPlace>Lansing, MI</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="report_type">Report</note>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<monogr>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Monfils</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Cuthrell</surname></persName>
+		</author>
+		<idno>No. 2018-21</idno>
+		<title level="m">Evaluation of Karner blue butterfly occupancy and relationships to management on state lands in Michigan. Michigan Natural Features Inventory</title>
+		<meeting><address><addrLine>Lansing, Mi</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+	<note type="report_type">Report</note>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<monogr>
+		<title level="m" type="main">Monitoring butterfly species of greatest conservation need in Michigan grasslands and savannas</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Monfils</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">M</forename><surname>Rowe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">A</forename><surname>Cole-Wick</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Cuthrell</surname></persName>
+		</author>
+		<idno>No. 2021-10</idno>
+		<imprint>
+			<date type="published" when="2021">2021</date>
+			<publisher>Michigan Natural Features Inventory</publisher>
+			<biblScope unit="page">11</biblScope>
+			<pubPlace>Lansing, MI</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="report_type">Report</note>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<monogr>
+		<title level="m" type="main">Monitoring of high priority bird species at Camp Grayling Joint Maneuver Training Center</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Monfils</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">C</forename><surname>Branch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">A</forename><surname>Cole-Wick</surname></persName>
+		</author>
+		<idno>No. 2023-24</idno>
+		<imprint>
+			<date type="published" when="2023">2023</date>
+			<publisher>Michigan Natural Features Inventory</publisher>
+			<biblScope unit="page">32</biblScope>
+			<pubPlace>Lansing</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="report_type">Report</note>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<monogr>
+		<title level="m" type="main">Monitoring of priority bird species at Camp Grayling Joint Maneuver Training Center</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Monfils</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">C</forename><surname>Branch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">A</forename><surname>Cole-Wick</surname></persName>
+		</author>
+		<idno>No. 2025-01</idno>
+		<imprint>
+			<date type="published" when="2025">2025</date>
+			<publisher>Michigan Natural Features Inventory</publisher>
+			<biblScope unit="page">32</biblScope>
+			<pubPlace>Lansing</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="report_type">Report</note>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<title level="a" type="main">Conservation planning for the Grayling subdistrict</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Muladore</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Pendergrass</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Schillo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Final Project Report to The Nature Conservancy</title>
+		<imprint>
+			<date type="published" when="2006">2006</date>
+			<biblScope unit="volume">166</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<monogr>
+		<title level="m" type="main">Advancing the national fish, wildlife, and plants climate adaptation strategy into a new decade</title>
+		<imprint>
+			<date type="published" when="2021">2021</date>
+			<publisher>Association of Fish and Wildlife Agencies</publisher>
+			<biblScope unit="page">92</biblScope>
+			<pubPlace>Washington, DC</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>National Fish</orgName>
+		</respStmt>
+	</monogr>
+	<note>Wildlife, and Plants Climate Adaptation Network</note>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<monogr>
+		<title level="m" type="main">Special animal abstract for Dendroica kirtlandii (Kirtland&apos;s warbler)</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Olson</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2002">2002</date>
+			<publisher>Michigan Natural Features Inventory</publisher>
+			<pubPlace>Lansing, MI</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<analytic>
+		<title level="a" type="main">Kirtland&apos;s warbler breeding biology and habitat management</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Probst</surname></persName>
+		</author>
+		<idno>NC-122</idno>
+	</analytic>
+	<monogr>
+		<title level="m">Integrating Forest management for wildlife and fish</title>
+		<imprint>
+			<date type="published" when="1988">1988</date>
+			<biblScope unit="page" from="28" to="35" />
+		</imprint>
+	</monogr>
+	<note type="report_type">U.S. Forest Service General Technical Report</note>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<monogr>
+		<title level="m" type="main">Smooth Green Snake (Opheodrys vernalis): a technical conservation assessment</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J</forename><surname>Redder</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">E</forename><surname>Smith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Keinath</surname></persName>
+		</author>
+		<ptr target="http://www.fs.fed.us/r2/projects/scp/assessments/smoothgreensnake.pdf" />
+		<imprint>
+			<date type="published" when="2006">2006</date>
+			<publisher>USDA Forest Service</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<monogr>
+		<title level="m" type="main">Field investigations of a facultative mutualism between Lycaeides melissa samuelis Nabokov (Lycaenidae), the Karner blue butterfly, and attendant ants</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Savignano</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1990">1990</date>
+			<pubPlace>Austin, TX</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>University of Texas at Austin</orgName>
+		</respStmt>
+	</monogr>
+	<note type="report_type">Dissertation</note>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<monogr>
+		<title level="m" type="main">Irregular Shelterwood, Prescribed Fire, and Vegetation Effects on Wisconsin Forest Avian Communities; and Online Tool for Avian Habitat Management</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">E</forename><surname>Skogen</surname></persName>
+		</author>
+		<ptr target="https://www.proquest.com/docview/3224180397/abstract/74E00425F42E472FPQ/1" />
+		<imprint>
+			<date type="published" when="2025">2025</date>
+		</imprint>
+		<respStmt>
+			<orgName>University of Wisconsin -Stevens Point</orgName>
+		</respStmt>
+	</monogr>
+	<note type="report_type">M.S. Thesis</note>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<monogr>
+		<title level="m" type="main">Upper Mississippi / Great Lakes Joint Venture Landbird Habitat Conservation Strategy -2020 Revsion</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">J</forename><surname>Soulliere</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Al-Saffar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">R</forename><surname>Vanbeek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Tonra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">D</forename><surname>Nelson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">N</forename><surname>Ewert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Will</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">E</forename><surname>Thogmartin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">E</forename><surname>O'brien</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">W</forename><surname>Kendrick</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Gillet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Herkert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">E</forename><surname>Gnass Geises</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">P</forename><surname>Ward</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Graff</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2020">2020</date>
+			<publisher>U.S. Fish and Wildlife Service</publisher>
+			<biblScope unit="page">134</biblScope>
+			<pubPlace>Bloomington, MN, USA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<analytic>
+		<title level="a" type="main">Historical fire regimes from red pines (Pinus resinosa Ait.) across the Tension Zone in the Lower Peninsula</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">C</forename><surname>Stambaugh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Marschall</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">R</forename><surname>Abadir</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">P</forename><surname>Guyette</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">C</forename><surname>Dey</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Fire Ecology</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page">12</biblScope>
+			<date type="published" when="2024">2024</date>
+			<pubPlace>Michigan USA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<monogr>
+		<author>
+			<persName><surname>State Of Michigan</surname></persName>
+		</author>
+		<title level="m">Terrestrial Invasive Species Management Plan</title>
+		<meeting><address><addrLine>Lansing, MI</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2024">2024</date>
+			<biblScope unit="page">46</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<analytic>
+		<title level="a" type="main">Timing of Karner blue butterfly (Lepidoptera: Lycaenidae) larvae in spring and adults in spring and summer in Wisconsin during 1991-1998</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">B</forename><surname>Swengel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">R</forename><surname>Swengel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Great Lakes Entomologist</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="page" from="79" to="95" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b53">
+	<analytic>
+		<author>
+			<persName><forename type="first">J</forename><surname>Szymanski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Pollack</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Ragan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Redmer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Clemency</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Voorhies</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Jaka</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Species status assessment for the Eastern Massasauga Rattlesnake</title>
+		<title level="s">Sistrurus catenatus). U.S. Fish and Wildlife Service</title>
+		<imprint>
+			<date type="published" when="2015-07-23">2015. July 23, 2015 (v1</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b54">
+	<analytic>
+		<title level="a" type="main">Persist in place or shift in space? Evaluating the adaptive capacity of species to climate change</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">L</forename><surname>Thurman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Stein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Beever</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Foden</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Sr Geange</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Green</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Gross</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Lawrence</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Ledee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">M</forename><surname>Jd Olden</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Thompson</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Young</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Frontiers in Ecology and Evolution</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="issue">9</biblScope>
+			<biblScope unit="page" from="520" to="528" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b55">
+	<monogr>
+		<title level="m" type="main">Kirtland&apos;s warbler recovery plan</title>
+		<imprint>
+			<date type="published" when="1976">1976. 1985</date>
+			<publisher>U.S. Fish and Wildlife Service</publisher>
+			<biblScope unit="page">83</biblScope>
+			<pubPlace>Bloomington, MN</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b56">
+	<monogr>
+		<title level="m" type="main">Final Recovery Plan for the Karner Blue Butterfly (Lycaeides melissa samuelis)</title>
+		<imprint>
+			<date type="published" when="2003">2003</date>
+			<publisher>U.S. Fish and Wildlife Service</publisher>
+			<biblScope unit="page">273</biblScope>
+			<pubPlace>Fort Snelling, MN</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>
+

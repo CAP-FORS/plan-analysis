@@ -1,0 +1,851 @@
+{
+  "document_meta": {
+    "title": "Delaware Wildlife Action Plan (DEWAP) 2015",
+    "year": 2015,
+    "jurisdiction": "Delaware",
+    "document_type": "SWAP",
+    "document_id": "DE_SWAP_2015",
+    "page_count": 1288
+  },
+  "orientation": {
+    "summary": "This is the 2015 Delaware Wildlife Action Plan (DEWAP), a State Wildlife Action Plan produced by the Delaware Department of Natural Resources and Environmental Control Division of Fish and Wildlife. The document covers 688 Species of Greatest Conservation Need (SGCN), their key habitats, threats, and conservation actions across the state of Delaware. The plan acknowledges climate change and sea level rise as significant threats throughout Chapters 2, 3, and 4, devoting substantial narrative to their impacts on coastal habitats, SGCN, and the need for climate adaptation planning. Range shifts are referenced primarily in the context of climate change effects on species distributions and habitat connectivity, but the plan does not perform original distributional modeling or vulnerability assessments itself—it references and incorporates results from external analyses (e.g., NatureServe climate change vulnerability, TNC resilient sites work, Delaware climate projections by Hayhoe et al. 2013). The plan's posture toward range shifts is largely framing them as a threat context requiring habitat connectivity, corridor protection, and adaptive management rather than prescribing specific assisted migration actions.",
+    "evidence_index": [
+      {
+        "text": "Climate change is now recognized as a major threat to fish and wildlife habitats, populations, and assemblages. There is evidence that climate change is already affecting ecosystems as distributions of animals and plants change, phenology is disrupted, and community compositions and structures are altered.",
+        "location": "Chapter 3, Climate Change Introduction and Regional Perspective",
+        "relevant_elements": ["1.1", "1.3", "3.5", "3.6", "3.7"]
+      },
+      {
+        "text": "Species and populations likely to have greater sensitivities to climate change include those with highly specialized habitat requirements; species already at or near physiological temperature limits or having other narrow environmental tolerances; isolated, rare, or declining populations with poor dispersal abilities",
+        "location": "Chapter 3, Climate Change Introduction and Regional Perspective",
+        "relevant_elements": ["1.1", "1.2", "1.3"]
+      },
+      {
+        "text": "Responses to climate change that have already been observed include changes in geographic range and the timing of life cycle events such as migration and reproduction. Numerous studies show shifts in the geographic range of species in response to increasing temperatures. As the climate warms, species may shift poleward (north in the northern hemisphere) or to higher elevations.",
+        "location": "Chapter 3, Climate Change Introduction and Regional Perspective",
+        "relevant_elements": ["1.1", "1.3", "3.7"]
+      },
+      {
+        "text": "winter bird counts taken in the United States over the past 40 years showed a significant shift northward for more than half of the species tracked (177 of 305); nearly 20 percent of the species recorded had shifted more than 100 miles to the north (Staudinger et al. 2012). These northward shifts are also being observed in ocean habitats.",
+        "location": "Chapter 3, Climate Change Introduction and Regional Perspective",
+        "relevant_elements": ["1.1", "3.2", "3.3"]
+      },
+      {
+        "text": "Understanding why species and ecosystems are vulnerable or potentially less resilient is a critical first step in developing effective conservation strategies. This vulnerability is based on sensitivity, exposure, and the ability to adapt.",
+        "location": "Chapter 3, Climate Change Introduction and Regional Perspective",
+        "relevant_elements": ["1.1", "1.2"]
+      },
+      {
+        "text": "Species with very restricted ranges and isolated populations are likely to be most vulnerable to climate change impacts, compounded by other stressors.",
+        "location": "Chapter 3, Climate Change Effects: Temperature and Precipitation Changes",
+        "relevant_elements": ["1.1", "1.2", "1.3"]
+      },
+      {
+        "text": "The ways in which species and populations respond to climate changes can vary widely. Differences in how organisms respond to climate change—their adaptive capacity—will lead to some species benefitting, by expanding their range and/or increasing population, and other species declining.",
+        "location": "Chapter 3, Climate Change Effects: Temperature and Precipitation Changes",
+        "relevant_elements": ["1.2", "1.3"]
+      },
+      {
+        "text": "dispersal ability, habitat specialization), but species with similar traits may not respond consistently.",
+        "location": "Chapter 3, Predicting Responses of SGCN to Climate Change",
+        "relevant_elements": ["1.2", "1.3"]
+      },
+      {
+        "text": "Providing increased areas of suitable habitat and connecting existing natural habitats with corridors are logical approaches to facilitating species range shifts in response to climate change, especially given high levels of fragmentation.",
+        "location": "Chapter 3, Predicting Responses of SGCN to Climate Change",
+        "relevant_elements": ["1.4", "4.1", "4.2"]
+      },
+      {
+        "text": "In the northeastern United States, for example, some forest types such as oak-hickory are expected to expand, while maple-beech-birch forests are expected to contract.",
+        "location": "Chapter 3, Climate Change Effects: Temperature and Precipitation Changes",
+        "relevant_elements": ["1.1", "3.5", "3.7"]
+      },
+      {
+        "text": "Also highly important, but much more complex and poorly understood, are the ways in which multiple species interact to influence distributions, helping to determine 'realized niches' or actually occupied areas versus 'fundamental niches,' the area the species could occupy in the absence of competition.",
+        "location": "Chapter 3, Predicting Responses of SGCN to Climate Change",
+        "relevant_elements": ["1.3"]
+      },
+      {
+        "text": "As species shift in response to temperature and moisture changes and associated habitat alterations, novel species assemblages will lead to unpredictable interactions between species (Herstoff and Urban 2014), making prediction of effects difficult for many species.",
+        "location": "Chapter 3, Predicting Responses of SGCN to Climate Change",
+        "relevant_elements": ["1.3", "3.7"]
+      },
+      {
+        "text": "Mair et al. (2014) and other studies (Angert et al. 2011; Fox et al. 2014, Hunter et al. 2014) have shown limited importance of species traits in explaining observed range shifts, relative to population abundance and availability of suitable habitat and land use changes.",
+        "location": "Chapter 3, Predicting Responses of SGCN to Climate Change",
+        "relevant_elements": ["1.2", "1.3"]
+      },
+      {
+        "text": "suitability of the landscape for supporting species movement and reorganization in response to climate change is important. This encompasses not just habitat connectivity in the traditional sense, but also geophysical landscape complexity (heterogeneity in slope, aspect, elevation, etc.) as well as landscape permeability (the number of barriers and degree of fragmentation within a landscape).",
+        "location": "Chapter 3, Predicting Responses of SGCN to Climate Change",
+        "relevant_elements": ["1.4", "2.4"]
+      },
+      {
+        "text": "Delaware predictably exhibited low landscape complexity due to minimal elevation relief and relatively uniform geology. However, in contrast to adjacent areas of the Atlantic Coastal Plain, such as southern New Jersey, the extremely high degree of fragmentation of natural habitats on the Delmarva Peninsula led to below average landscape permeability for much of Delaware in this analysis.",
+        "location": "Chapter 3, Predicting Responses of SGCN to Climate Change",
+        "relevant_elements": ["1.4", "2.4"]
+      },
+      {
+        "text": "a broad approach to mitigating the effects of loss of habitat from SLR to the greatest extent possible, while improving the quality and connectivity of existing habitats, may be the most efficient statewide actions to address the effects of climate change on Delaware's SGCN.",
+        "location": "Chapter 3, Need for Information and Planning",
+        "relevant_elements": ["1.4", "4.1", "4.2"]
+      },
+      {
+        "text": "Developing adaptation strategies for individual species depends on the vulnerability of specific species independent of, or in addition to, the vulnerability of the habitats within which they are found. In general, strategies employed to mitigate impacts to vulnerable habitats would also benefit resident species, although there are a number of characteristics that may increase a particular species' vulnerability.",
+        "location": "Chapter 4, Actions to Address Climate Change",
+        "relevant_elements": ["1.1", "1.2", "4.5"]
+      },
+      {
+        "text": "the strategy of introducing species to areas outside their historical range to secure their future under climate change is a controversial adaptation action. Referred to as 'managed relocation,' 'assisted migration,' or 'assisted colonization,' there has been considerable debate in the literature concerning the implementation of this methodology (Beardmore and Winder 2011; Rout et al. 2013).",
+        "location": "Chapter 4, Actions to Address Climate Change",
+        "relevant_elements": ["4.2"]
+      },
+      {
+        "text": "Although the small size of Delaware limits the efficacy of conducting such projects within the state, it may be prudent to develop policies regarding managed relocations in advance of requests to conduct such projects.",
+        "location": "Chapter 4, Actions to Address Climate Change",
+        "relevant_elements": ["4.2"]
+      },
+      {
+        "text": "The Delaware Ecological Network (DEN) was developed by The Conservation Fund in 2007 (Weber 2007) and was recently updated (Weber 2013).",
+        "location": "Chapter 2, Mapping Habitats",
+        "relevant_elements": ["2.4", "4.1"]
+      },
+      {
+        "text": "DEN does not currently incorporate threat mapping, including projected sea level rise or climate change resilience, in identifying or prioritizing core areas or corridors.",
+        "location": "Chapter 2, Priority Wildlife Habitats",
+        "relevant_elements": ["2.4", "4.1"]
+      },
+      {
+        "text": "Resilient sites for terrestrial conservation in the Northeast and Mid-Atlantic Region. The Nature Conservancy",
+        "location": "Appendix 1.D, Data Sources",
+        "relevant_elements": ["2.1", "4.1"]
+      },
+      {
+        "text": "Climate change projections and indicators for Delaware. K Hayhoe, A Stoner, R Gelca, ATMOS Research & Consulting, 2013.",
+        "location": "Appendix 1.D, Data Sources",
+        "relevant_elements": ["2.3"]
+      },
+      {
+        "text": "For Delaware, future climate models were statistically downscaled by Hayhoe et al. (2013) using historical weather station data from 14 Delaware stations.",
+        "location": "Chapter 3, Climate Projections for Delaware",
+        "relevant_elements": ["2.3"]
+      },
+      {
+        "text": "The sea level rise. However, increased funding and capacity will be required over the next decade to scale these efforts up to the level necessary to address the magnitude of this threat to Delaware's SGCN.",
+        "location": "Chapter 4, Actions to Address Climate Change",
+        "relevant_elements": ["3.4", "4.5"]
+      },
+      {
+        "text": "Current projects include the restoration of impoundments vulnerable to coastal storms and climate change back to tidal marsh (Prime Hook National Wildlife Refuge (NWR) by USFWS); adaptive and strategic retreat of coastal impoundments to provide tidal buffers from coastal storms (Little Creek Wildlife Area DNREC)",
+        "location": "Chapter 4, Actions to Address Climate Change",
+        "relevant_elements": ["4.2", "4.3", "4.5"]
+      },
+      {
+        "text": "As sea levels rise, tidal marshes will be inundated and convert to shallow open water habitats. Some non-tidal wetlands, as well as most freshwater and brackish tidal wetlands, may be converted to higher salinity marshes.",
+        "location": "Chapter 3, Climate Change Effects: Sea Level Rise",
+        "relevant_elements": ["3.5"]
+      },
+      {
+        "text": "Saltmarsh birds nest on the ground or in low vegetation of the marsh platform and are sensitive to disturbance and predation, especially by mammals. Primary conservation activities for these species include consistent monitoring and efforts to reduce disturbance. Foraging habitats, usually salt marshes adjacent to nesting sites, are also important habitat components that will be threatened by rising sea levels.",
+        "location": "Chapter 1, Colonial Waterbirds",
+        "relevant_elements": ["3.5"]
+      },
+      {
+        "text": "Ribbed mussels are foundation species in salt marshes, helping the marsh edge resist erosion and generating waste accumulations that help the marsh build elevation.",
+        "location": "Chapter 1, Estuarine and Marine Invertebrates",
+        "relevant_elements": ["3.5"]
+      },
+      {
+        "text": "Climate change is a threat due to sea level rise and other issues, mainly associated with lost/degraded mussel habitat. On average, 95% of marshes are eroding at the edge by rates of 1 meter per year",
+        "location": "Appendix 1.B, Geukensia demissa Ribbed Mussel",
+        "relevant_elements": ["3.5"]
+      },
+      {
+        "text": "Warming temperatures will also lead to changes in plant phenology, as has already been observed (Ellwood et al. 2013; Polgar et al. 2013). These changes may have significant impacts on ecosystems by permitting spread and increasing competitive advantage of invasive species.",
+        "location": "Chapter 3, Climate Change Effects: Temperature and Precipitation Changes",
+        "relevant_elements": ["3.7"]
+      },
+      {
+        "text": "In addition to being an existing external stressor, new invasive species and diseases may emerge as they benefit from changing climate conditions, readily establishing in new areas and outcompeting native species for resources.",
+        "location": "Chapter 3, Climate Change Introduction and Regional Perspective",
+        "relevant_elements": ["3.7"]
+      },
+      {
+        "text": "Mass mortality events have been observed in intertidal communities following recent marine heatwaves.",
+        "location": "Chapter 3, Climate Change Effects: Temperature and Precipitation Changes",
+        "relevant_elements": ["3.6"]
+      },
+      {
+        "text": "Predicted increased frequency of very warm days in summer will result in warmer summer water temperatures in shallow estuarine habitats and may lead to decreased water quality and lower dissolved oxygen content as well as changes to food availability and heat stress to aquatic organisms.",
+        "location": "Chapter 3, Climate Change Effects: Temperature and Precipitation Changes",
+        "relevant_elements": ["3.6"]
+      },
+      {
+        "text": "The DEN serves as the foundation of the DEWAP Priority Wildlife Habitat and COAs. As presented in Chapter 2, Priority Wildlife Habitat includes Core Areas and Existing Corridors.",
+        "location": "Chapter 4, COA Development",
+        "relevant_elements": ["4.1", "2.4"]
+      },
+      {
+        "text": "With climate change, these affinities can be expected to increase as northern species move northward out of Delaware and southern species move northward into the state.",
+        "location": "Chapter 2, U.S. Southeast Region",
+        "relevant_elements": ["1.1", "3.2", "3.3"]
+      },
+      {
+        "text": "Incorporate sea level rise scenarios in all relevant area, habitat and species management plans.",
+        "location": "Chapter 4, Conservation Actions to Conserve Key Habitats, Maritime Dune and Grassland",
+        "relevant_elements": ["4.5"]
+      },
+      {
+        "text": "Create an adaptive management framework that utilizes monitoring to adapt planning and implementation to conservation actions to account for unsatisfactory results, changing conditions and new information.",
+        "location": "Chapter 4, Statewide Conservation Issues and Actions",
+        "relevant_elements": ["4.5"]
+      },
+      {
+        "text": "Contribute to research projects investigating how and where nontidal wetlands are vulnerable to climate change. Rank: 1",
+        "location": "Chapter 4, Statewide Conservation Issues and Actions",
+        "relevant_elements": ["4.5"]
+      },
+      {
+        "text": "a potentially poor given predicted sea level rise, even though these disturbance-dependent habitats might be expected to accommodate sea level rise reasonably well by migrating inland. However, onshore and offshore coastal processes that would facilitate such a shift, especially sand transport, may have already been irreversibly compromised",
+        "location": "Chapter 2, Unvegetated Sandy Beach",
+        "relevant_elements": ["3.5", "4.1"]
+      },
+      {
+        "text": "Widely used species prioritization systems (such as the NatureServe Climate Change Vulnerability Index) often emphasize species traits (such as dispersal ability and habitat specialization), but species with similar traits may not respond consistently.",
+        "location": "Chapter 3, Predicting Responses of SGCN to Climate Change",
+        "relevant_elements": ["2.1"]
+      },
+      {
+        "text": "Climate Change: Taxa that are data deficient, have demonstrated population declines, rarity or limited habitat requirements, need direct species management in order to persist, have at-risk populations, or are likely to be significantly negatively impacted by climate change or other specific and imminent threats.",
+        "location": "Chapter 1, Scientific Data and Expert Consensus",
+        "relevant_elements": ["1.1"]
+      },
+      {
+        "text": "high-priority sharks... potential changes in distribution and abundance due to climate change warrants their listing even if they are currently uncommon or rare in Delaware waters.",
+        "location": "Chapter 1, Sharks, Rays and Skates",
+        "relevant_elements": ["1.1"]
+      },
+      {
+        "text": "Collins (2014) found that future climate change will significantly impact the range of all 15 northeastern lotic species in his climate modeling study, even assuming unlimited dispersal.",
+        "location": "Chapter 1, Dragonflies and Damselflies",
+        "relevant_elements": ["1.1", "2.2"]
+      },
+      {
+        "text": "Future concerns include potential water temperature and oxygenation effects of climate change, as well as physical impacts of floods and increased severe precipitation events. Some species will be subject to increased salinities from saltwater intrusion related to SLR.",
+        "location": "Chapter 1, Freshwater Mussels",
+        "relevant_elements": ["3.5", "3.6"]
+      },
+      {
+        "text": "DNREC DFW regularly collaborates with USGS scientists to monitor, research, and protect the state's fish and wildlife resources",
+        "location": "Appendix 6, U.S. Geological Survey",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "The USFWS and NRCS has a new partnership called Working Lands for Wildlife that uses agency technical assistance and financial assistance from the Wildlife Habitat Incentive Program (WHIP) to combat the decline of federally listed and other species of concern on private lands.",
+        "location": "Appendix 6, U.S. Fish and Wildlife Service",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "The DEWAP has considered and incorporated by reference many partner plans and programs (Appendix 1.",
+        "location": "Chapter 4, Actions to Address Climate Change",
+        "relevant_elements": ["3.4"]
+      },
+      {
+        "text": "Plan will address the effects of climate change and sea level rise on wildlife species and their habitats, and the actions identified will help set the stage for increasing climate change resiliency",
+        "location": "Appendix 6, DEWAP Process Development Plan and Schedule",
+        "relevant_elements": ["4.5"]
+      }
+    ]
+  },
+  "concepts": {
+    "climate_vulnerability": {
+      "evaluable": true,
+      "score": 3,
+      "evidence": [
+        {
+          "text": "Understanding why species and ecosystems are vulnerable or potentially less resilient is a critical first step in developing effective conservation strategies. This vulnerability is based on sensitivity, exposure, and the ability to adapt.",
+          "location": "Chapter 3, Climate Change Introduction and Regional Perspective",
+          "sub_component": "exposure and adaptive capacity",
+          "citations": []
+        },
+        {
+          "text": "Species and populations likely to have greater sensitivities to climate change include those with highly specialized habitat requirements; species already at or near physiological temperature limits or having other narrow environmental tolerances; isolated, rare, or declining populations with poor dispersal abilities",
+          "location": "Chapter 3, Climate Change Introduction and Regional Perspective",
+          "sub_component": "sensitivity and adaptive capacity",
+          "citations": []
+        },
+        {
+          "text": "The ways in which species and populations respond to climate changes can vary widely. Differences in how organisms respond to climate change—their adaptive capacity—will lead to some species benefitting, by expanding their range and/or increasing population, and other species declining.",
+          "location": "Chapter 3, Climate Change Effects: Temperature and Precipitation Changes",
+          "sub_component": "adaptive capacity",
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "adaptive_capacity_specificity": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Species with low adaptive capacity such as those with specialized habitat needs or limited dispersal ability face higher vulnerability to these changes.",
+          "location": "Chapter 3, Climate Change Introduction and Regional Perspective",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "species already at or near physiological temperature limits or having other narrow environmental tolerances; isolated, rare, or declining populations with poor dispersal abilities",
+          "location": "Chapter 3, Climate Change Introduction and Regional Perspective",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "adaptive_capacity_components": {
+      "demography": {
+        "present": false,
+        "evidence": []
+      },
+      "distribution": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Responses to climate change that have already been observed include changes in geographic range and the timing of life cycle events such as migration and reproduction. Numerous studies show shifts in the geographic range of species in response to increasing temperatures.",
+            "location": "Chapter 3, Climate Change Introduction and Regional Perspective",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "movement": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "isolated, rare, or declining populations with poor dispersal abilities",
+            "location": "Chapter 3, Climate Change Introduction and Regional Perspective",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "evolutionary_potential": {
+        "present": false,
+        "evidence": []
+      },
+      "ecological_dependencies": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "As species shift in response to temperature and moisture changes and associated habitat alterations, novel species assemblages will lead to unpredictable interactions between species (Herstoff and Urban 2014), making prediction of effects difficult for many species.",
+            "location": "Chapter 3, Predicting Responses of SGCN to Climate Change",
+            "sub_component": null,
+            "citations": ["Herstoff and Urban 2014"]
+          }
+        ]
+      },
+      "abiotic_niche": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "species already at or near physiological temperature limits or having other narrow environmental tolerances",
+            "location": "Chapter 3, Climate Change Introduction and Regional Perspective",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "life_history": {
+        "present": false,
+        "evidence": []
+      }
+    },
+    "connectivity": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Providing increased areas of suitable habitat and connecting existing natural habitats with corridors are logical approaches to facilitating species range shifts in response to climate change, especially given high levels of fragmentation.",
+          "location": "Chapter 3, Predicting Responses of SGCN to Climate Change",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "suitability of the landscape for supporting species movement and reorganization in response to climate change is important. This encompasses not just habitat connectivity in the traditional sense, but also geophysical landscape complexity (heterogeneity in slope, aspect, elevation, etc.) as well as landscape permeability (the number of barriers and degree of fragmentation within a landscape).",
+          "location": "Chapter 3, Predicting Responses of SGCN to Climate Change",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "a broad approach to mitigating the effects of loss of habitat from SLR to the greatest extent possible, while improving the quality and connectivity of existing habitats, may be the most efficient statewide actions to address the effects of climate change on Delaware's SGCN.",
+          "location": "Chapter 3, Need for Information and Planning",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    }
+  },
+  "tools": {
+    "vulnerability_models": {
+      "evaluable": true,
+      "score": 1,
+      "named_tools": ["NatureServe Climate Change Vulnerability Index", "CCVI"],
+      "evidence": [
+        {
+          "text": "Widely used species prioritization systems (such as the NatureServe Climate Change Vulnerability Index) often emphasize species traits (such as dispersal ability and habitat specialization), but species with similar traits may not respond consistently.",
+          "location": "Chapter 3, Predicting Responses of SGCN to Climate Change",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The CCVI is referenced critically as a tool used in other prioritization systems but is not reported as applied to Delaware's focal SGCN in this plan. The reference is evaluative commentary on the tool's limitations, not a report of CCVI scores calculated for Delaware species."
+    },
+    "niche_models": {
+      "evaluable": true,
+      "score": 1,
+      "named_tools": ["Species Distribution Models", "bioclimatic envelope modeling"],
+      "evidence": [
+        {
+          "text": "Much of the recent research has involved bioclimatic envelope modeling (e.g., National Audubon Society 2013), an extension of species distribution modeling. However, this type of model considers only the abiotic niche of the species as defined by factors such as temperature and precipitation.",
+          "location": "Chapter 3, Predicting Responses of SGCN to Climate Change",
+          "sub_component": null,
+          "citations": ["National Audubon Society 2013"]
+        }
+      ],
+      "absence_note": "SDMs/bioclimatic envelope models are referenced generically with a citation but are not applied to Delaware's focal SGCN in this plan. The discussion is a general critique of these modeling approaches."
+    },
+    "climate_models": {
+      "evaluable": true,
+      "score": 2,
+      "named_tools": ["CMIP5"],
+      "evidence": [
+        {
+          "text": "For Delaware, future climate models were statistically downscaled by Hayhoe et al. (2013) using historical weather station data from 14 Delaware stations.",
+          "location": "Chapter 3, Climate Projections for Delaware",
+          "sub_component": null,
+          "citations": ["Hayhoe et al. (2013)"]
+        },
+        {
+          "text": "The lower scenario represents a future in which people shift to clean energy sources in the coming decades, reducing emissions of carbon dioxide and other greenhouse gases. The higher scenario represents a future in which people continue to depend heavily on fossil fuels, and emissions of greenhouse gases continue to grow.",
+          "location": "Chapter 3, Climate Projections for Delaware",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "Hayhoe et al. (2013) downscaled climate models specifically for Delaware using 14 weather stations; projections are incorporated into the plan's threat analysis, meeting the 'applied to subject' criterion. CMIP5 models are also referenced via Bopp et al. 2013 for marine impacts.",
+      "time_horizon_years": [2099],
+      "emission_scenarios": []
+    },
+    "connectivity_models": {
+      "evaluable": true,
+      "score": 2,
+      "named_tools": ["Delaware Ecological Network"],
+      "evidence": [
+        {
+          "text": "The DEN serves as the foundation of the DEWAP Priority Wildlife Habitat and COAs. As presented in Chapter 2, Priority Wildlife Habitat includes Core Areas and Existing Corridors.",
+          "location": "Chapter 4, COA Development",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "The Delaware Ecological Network (DEN) was developed by The Conservation Fund in 2007 (Weber 2007) and was recently updated (Weber 2013).",
+          "location": "Chapter 2, Mapping Habitats",
+          "sub_component": null,
+          "citations": ["Weber 2007", "Weber 2013"]
+        }
+      ],
+      "absence_note": "The Delaware Ecological Network (DEN) is a spatial connectivity model whose outputs (core areas, existing corridors, potential corridors) are used to define Priority Wildlife Habitats and Conservation Opportunity Areas throughout the plan. Though the DEN was produced by The Conservation Fund, the plan substantively incorporates its outputs into management decisions for Delaware's focal subjects, satisfying the 'applied' criterion."
+    }
+  },
+  "context": {
+    "management_scale": {
+      "local": {
+        "present": false,
+        "evidence": []
+      },
+      "site": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "restoration of impoundments vulnerable to coastal storms and climate change back to tidal marsh (Prime Hook National Wildlife Refuge (NWR) by USFWS); adaptive and strategic retreat of coastal impoundments (Little Creek Wildlife Area DNREC)",
+            "location": "Chapter 4, Actions to Address Climate Change",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "watershed": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "DFW manages over 20,000 acres in the watershed, including 7 wildlife areas and 10 millponds.",
+            "location": "Chapter 2, Chesapeake Bay Basin",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "city": {
+        "present": false,
+        "evidence": []
+      },
+      "county": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "An estimated 47 percent of wetlands are located in Sussex County, 38 percent in Kent County, and 15 percent in New Castle County.",
+            "location": "Chapter 2, Wetland Habitats",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "within_state_region": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Delaware is situated in an ecological transition zone where a number of northern species reach their southern limit of natural distribution, and an even greater number of southern species reach their northern limit of distribution.",
+            "location": "Chapter 2, Introduction",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "state": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "a broad approach to mitigating the effects of loss of habitat from SLR to the greatest extent possible, while improving the quality and connectivity of existing habitats, may be the most efficient statewide actions to address the effects of climate change on Delaware's SGCN.",
+            "location": "Chapter 3, Need for Information and Planning",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "multistate": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The Northeast Fish and Wildlife Diversity Technical Committee (NEFWDTC) of the Northeast Association of Fish and Wildlife Agencies (NEAFWA), works to address conservation needs for regional species.",
+            "location": "Chapter 1, Regional Context",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "national": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "National fish, wildlife and plants climate adaptation strategy. Association of Fish and Wildlife agencies, Council on Environmental Quality, Great Lakes Indian Fish and Wildlife Commission, National Oceanic and Atmospheric Administration, and U.S. Fish and Wildlife Service",
+            "location": "Appendix 1.D, Data Sources",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "transnational": {
+        "present": false,
+        "evidence": []
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The Delaware Estuary is one of the nation's largest petrochemical centers",
+            "location": "Chapter 3, Energy Production",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecoregion": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Delaware contains parts of three Level III EPA Ecoregions: the Northern Piedmont (64), the Middle Atlantic Coastal Plain (63), and the Southeastern Plains (65)",
+            "location": "Chapter 2, EPA Ecoregions",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "province": {
+        "present": false,
+        "evidence": []
+      },
+      "section": {
+        "present": false,
+        "evidence": []
+      },
+      "subsection": {
+        "present": false,
+        "evidence": []
+      },
+      "lake": {
+        "present": false,
+        "evidence": []
+      },
+      "river": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "The Delaware River is unique among major eastern rivers in that its mainstem is free of dams, allowing these species to access much of their historic spawning habitat.",
+            "location": "Chapter 1, Diadromous Fish",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "district": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["Delaware", "Delaware Bay", "Chesapeake Bay", "Delmarva Peninsula", "Northeast region", "Blackbird-Millington Corridor", "Delaware Ecological Network", "North Atlantic Landscape Conservation Cooperative", "Delaware River Basin"]
+    },
+    "biological_unit_score": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "With climate change, these affinities can be expected to increase as northern species move northward out of Delaware and southern species move northward into the state.",
+          "location": "Chapter 2, U.S. Southeast Region",
+          "sub_component": "species",
+          "citations": []
+        },
+        {
+          "text": "in the northeastern United States, for example, some forest types such as oak-hickory are expected to expand, while maple-beech-birch forests are expected to contract.",
+          "location": "Chapter 3, Climate Change Effects: Temperature and Precipitation Changes",
+          "sub_component": "habitat/community",
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "biological_unit_components": {
+      "species": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "With climate change, these affinities can be expected to increase as northern species move northward out of Delaware and southern species move northward into the state.",
+            "location": "Chapter 2, U.S. Southeast Region",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "population": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "isolated, rare, or declining populations with poor dispersal abilities",
+            "location": "Chapter 3, Climate Change Introduction and Regional Perspective",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "habitat": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "As sea levels rise, tidal marshes will be inundated and convert to shallow open water habitats. Some non-tidal wetlands, as well as most freshwater and brackish tidal wetlands, may be converted to higher salinity marshes.",
+            "location": "Chapter 3, Climate Change Effects: Sea Level Rise",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "ecosystem": {
+        "present": false,
+        "evidence": []
+      },
+      "community": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "in the northeastern United States, for example, some forest types such as oak-hickory are expected to expand, while maple-beech-birch forests are expected to contract.",
+            "location": "Chapter 3, Climate Change Effects: Temperature and Precipitation Changes",
+            "sub_component": null,
+            "citations": []
+          }
+        ]
+      },
+      "genotype_phenotype": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": ["Delaware Species of Greatest Conservation Need (SGCN)", "saltmarsh sparrow", "red knot", "diamondback terrapin", "tidal marshes", "coastal impoundments", "Coastal Plain seasonal ponds"]
+    },
+    "partnerships_and_funding": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "The USFWS and NRCS has a new partnership called Working Lands for Wildlife that uses agency technical assistance and financial assistance from the Wildlife Habitat Incentive Program (WHIP) to combat the decline of federally listed and other species of concern on private lands.",
+          "location": "Appendix 6, U.S. Fish and Wildlife Service",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "The lack of stable funding for wildlife and habitat conservation, education, and research at both state and federal levels creates challenges or obstacles that can be interpreted as a threat to implementing conservation.",
+          "location": "Chapter 3, Need for Funding",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "While the plan describes many existing partnerships (USFWS, TNC, NALCC, etc.) and some funding programs (SWG, Working Lands for Wildlife), these are not described in the context of a specifically climate-adaptive range-shift management program. Partnerships are broadly described but funding for range-shift-specific work is acknowledged as insufficient. Score of 1 reflects aspirational/general partnership descriptions without strong evidence of strategic investment specifically in range-shift conservation actions."
+    },
+    "climate_threat_habitat_degradation": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "As sea levels rise, tidal marshes will be inundated and convert to shallow open water habitats. Some non-tidal wetlands, as well as most freshwater and brackish tidal wetlands, may be converted to higher salinity marshes.",
+          "location": "Chapter 3, Climate Change Effects: Sea Level Rise",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    },
+    "climate_threat_species_vital_rates": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Predicted increased frequency of very warm days in summer will result in warmer summer water temperatures in shallow estuarine habitats and may lead to decreased water quality and lower dissolved oxygen content as well as changes to food availability and heat stress to aquatic organisms.",
+          "location": "Chapter 3, Climate Change Effects: Temperature and Precipitation Changes",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The plan describes mortality of intertidal communities from marine heatwaves and climate-driven disease spread, constituting direct effects on vital rates. The framing 'heat stress to aquatic organisms' and disease emergence linked to climate represent direct vital rate impacts."
+    },
+    "climate_threat_biotic_stressors": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "In addition to being an existing external stressor, new invasive species and diseases may emerge as they benefit from changing climate conditions, readily establishing in new areas and outcompeting native species for resources.",
+          "location": "Chapter 3, Climate Change Introduction and Regional Perspective",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": {}
+    }
+  },
+  "actions": {
+    "priority_habitat_identification": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "The DEN serves as the foundation of the DEWAP Priority Wildlife Habitat and COAs. As presented in Chapter 2, Priority Wildlife Habitat includes Core Areas and Existing Corridors.",
+          "location": "Chapter 4, COA Development",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "The DEWAP COAs, based upon the DEN model of Priority Habitats, add the additional components of Potential Corridors and other important geographic focus areas identified by existing Delaware conservation efforts",
+          "location": "Chapter 4, COA Development",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "DEN does not currently incorporate threat mapping, including projected sea level rise or climate change resilience, in identifying or prioritizing core areas or corridors.",
+          "location": "Chapter 2, Priority Wildlife Habitats",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "Priority Wildlife Habitats are spatially mapped (the DEN with core areas and corridors) and Conservation Opportunity Areas are defined and mapped. These are used to guide management. However, the plan explicitly notes the DEN does not yet incorporate climate change or SLR into prioritization. The spatial representation is present and used in the plan, scoring 2."
+    },
+    "targeted_range_shift_actions": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "the strategy of introducing species to areas outside their historical range to secure their future under climate change is a controversial adaptation action. Referred to as 'managed relocation,' 'assisted migration,' or 'assisted colonization,' there has been considerable debate in the literature concerning the implementation of this methodology",
+          "location": "Chapter 4, Actions to Address Climate Change",
+          "sub_component": null,
+          "citations": ["Beardmore and Winder 2011", "Rout et al. 2013"]
+        }
+      ],
+      "absence_note": "The plan explicitly discusses assisted migration/managed relocation as a contested management option and recommends developing policies regarding it (structural facilitation framing). The discussion of connecting habitats via corridors to facilitate species range shifts (Chapter 3) also qualifies as structural facilitation. Score of 1 reflects that the plan acknowledges and partially recommends these actions."
+    },
+    "time_bound_and_monitoring": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Partner with a centralized database (e.g., Avian Knowledge Network) that will enhance Delaware's ability to manage and conserve wide ranging species across broad and biologically meaningful geographic areas. The exchange and integration of avian data into a permanent centralized data management system is a priority action to be accomplished by 22.",
+          "location": "Chapter 4, Actions to Conserve SGCN Species and Taxa, All Birds",
+          "sub_component": "deadlines",
+          "citations": []
+        },
+        {
+          "text": "Annual reporting for SWG and other Federal Aid grant requirements and product delivery through",
+          "location": "Chapter 5, DEWAP Review and Revision",
+          "sub_component": "monitoring",
+          "citations": []
+        }
+      ],
+      "absence_note": "The plan has a general adaptive management framework (Chapter 5) and some urgency rankings (deadlines for actions in Appendix 4), but action-level deadlines are not consistently attached throughout the action tables. Urgency criteria in Appendix 4 indicate 'Initiate immediately (2016)', '5 years (2017-2020)', '5-10 years (2020-2025)', which provides some time-binding at the action level. However, effectiveness monitoring tied specifically to climate-driven range-shift actions is not operationalized. Score of 1 reflects that deadlines appear in the urgency criteria framework but effectiveness monitoring at the action level is not fully operationalized."
+    },
+    "evidence_of_efficacy": {
+      "evaluable": true,
+      "score": 1,
+      "evidence": [
+        {
+          "text": "a recent long-term study in an insect-pollinated crop quantified actual long-term yield increases and ROI for supplemental planting practices that encourage native pollinators (Blaauw and Isaacs 2014).",
+          "location": "Chapter 3, Agriculture",
+          "sub_component": null,
+          "citations": ["Blaauw and Isaacs 2014"]
+        }
+      ],
+      "absence_note": "The plan cites various literature to contextualize threats but does not present case studies or efficacy evaluations of its specific climate-adaptation conservation actions. Actions are supported by general ecological reasoning and framing from referenced plans, not by data from implemented demonstrations. Score of 1 reflects that rationale is outlined and some literature is cited but no direct evidence of action efficacy is presented.",
+      "projects": []
+    },
+    "adaptation_planning_frameworks": {
+      "evaluable": true,
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Create an adaptive management framework that utilizes monitoring to adapt planning and implementation to conservation actions to account for unsatisfactory results, changing conditions and new information.",
+          "location": "Chapter 4, Statewide Conservation Issues and Actions",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Contribute to research projects investigating how and where nontidal wetlands are vulnerable to climate change. Rank: 1",
+          "location": "Chapter 4, Statewide Conservation Issues and Actions",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Incorporate sea level rise scenarios in all relevant area, habitat and species management plans.",
+          "location": "Chapter 4, Conservation Actions to Conserve Key Habitats, Maritime Dune and Grassland",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The plan references adaptive management as a central organizing principle and incorporates sea level rise scenarios (climate change scenario planning) into habitat management prescriptions. The plan also references climate change vulnerability assessment framing (sensitivity, exposure, adaptive capacity from Chapter 3). These constitute named specific planning tools/processes in the climate adaptation context, warranting score of 2."
+    }
+  },
+  "coding_meta": {
+    "coder": "llm:claude-sonnet-4-6",
+    "model": "claude-sonnet-4-6",
+    "provider": "claude",
+    "codebook_version": "0.4",
+    "ingest": "text",
+    "design": "single",
+    "temperature": null,
+    "thinking": null,
+    "thinking_effort": null,
+    "coded_at": "2026-07-06T18:39:20Z",
+    "notes": {}
+  }
+}

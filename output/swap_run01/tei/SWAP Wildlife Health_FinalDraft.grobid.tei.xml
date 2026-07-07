@@ -1,0 +1,2272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main"></title>
+				<funder ref="#_hyDHSAn #_3pdev7Q #_kTsGzFw #_X9k5Xnu #_VH43nYS #_CUjfFFh">
+					<orgName type="full">unknown</orgName>
+				</funder>
+				<funder ref="#_maZE2F3">
+					<orgName type="full">Sparks</orgName>
+				</funder>
+				<funder ref="#_FG7Ut7c #_XWJQTUY">
+					<orgName type="full">Williams</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<affiliation key="aff0">
+								<orgName type="department">Contributors Michigan Department of Natural Resources Michigan Natural Features Inventory PennVet Wildlife Futures Program</orgName>
+							</affiliation>
+						</author>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">4702A7053B343E6C8EA1C26B2AA77E4F</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.1" ident="GROBID" when="2026-07-06T12:27+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>What is wildlife health?</head><p>While the rest of Michigan's Wildlife Action Plan is broken up by habitat themes, this chapter focuses on one major threat to rare species conservation: disease and pollutants. Wildlife populations are subjected to a broad range of environmental stressors and health threats, including infectious disease, toxins and contaminants. These threats can have substantial negative effects on long-term population survival and sustainability. Disease is part of natural systems, but disease effects can become much more profound as populations are simultaneously affected by novel pathogens and anthropogenic contamination.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>There are myriad threats to wildlife health, some of which are well documented and relatively understood, while others are emerging and long-term consequences are unknown. Prioritizing threats is essential to have the greatest impact. As threats to wildlife health are prioritized, important considerations include:</p><p>• What threats appear to be emerging, but their effects are inadequately understood?</p><p>• What threats are most likely to have significant population effects?</p><p>• Is a threat specific to a particular species or taxon, or is it a threat to multiple species or taxonomic groups?</p><p>• What threats have actionable management steps that can be implemented to mitigate the threats to susceptible populations?</p><p>These and other considerations informed the development of this chapter. It focuses on key threats where action is essential for scientific understanding or mitigation. It also recognizes that, in a rapidly evolving world, things can change quickly, so the plan should be adaptable to respond to unanticipated threats.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>General principles</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Assessment of susceptible populations</head><p>While health threats to some populations have had extensive study, there are many species where little is known. This may be due to limited resources, challenges obtaining samples, or prioritization of other needs. A species may have been understudied historically or, because these populations are low, there may be inherently fewer opportunities to sample them and gather information. In most cases, these species are not harvested, so obtaining samples through hunting and trapping activity is often impossible. For all of these reasons, it is of high importance to prioritize sampling and testing when there are opportunities and sampling is a priority. Detection of a pathogen or toxin in a few individuals may be informative about an entire population in the absence of larger more robust data. Opportunistic health evaluation of species of greatest conservation need can include:</p><p>1) Complete necropsy evaluation of all individuals including reproductive and histologic evaluation as opportunities and funding arise. Prioritization of pathogen, toxin and contaminant detection should be performed based on available scientific information including data on similar species, similar habitats, or historical information.</p><p>2) Archival of representative tissues from SGCN so that future evaluation and investigation of health threats can be performed as opportunities and funding arise. Specimen evaluation may be limited by current availability of resources, information, diagnostic techniques, or by the lack of emergence of a threat that may become problematic in the future. By preserving select biologic samples from SGCN, a temporal evaluation of health threats and their effects can be performed in the future. In some cases, more common species can be archived or evaluated as surrogates for SGCN (e.g., <ref type="bibr" target="#b5">Githiru et al. 2007)</ref>.</p><p>3) Incorporation of targeted health evaluations when species are captured for population estimates, identification marking, tracking, managing human-wildlife conflict or other purposes when relevant and needed. This health evaluation should be as comprehensive as possible, recognizing limitations to logistics, capacity, animal size and animal welfare. Health evaluation may include: a. Body condition evaluation including body weight. b. Blood collection and evaluation for hematologic and biochemical parameters, pathogen exposure, nutritional evaluation and detection of pathogens, toxins, or contaminants. c. Collection of skin swabs, oropharyngeal swabs, fecal samples or other noninvasive live animal sampling for pathogens. d. Other non-invasive or minimally invasive sampling for pathogens and/or toxins.</p><p>It is an agency goal to develop proficiency, capacity and resources to achieve this over the course of this plan. Another agency goal is to determine population-level impacts of wildlife diseases on rare species. Given funding challenges and the suite of disease needs, understanding the impact of diseases at the population level will better help prioritize efforts and resources for conservation.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Mitigating transfer of pathogens between populations</head><p>Introduction of pathogens to naïve populations can have devastating consequences. An introduced fungus that causes white-nose syndrome in bats, Pseudogymnoascus destructans <ref type="bibr">(Turner et al 2015)</ref>, has had one of the most profound effects on North American wildlife. This fungus likely originated in Europe, but after introduction to North American bat populations in 2006, it rapidly spread throughout the continent, causing aggregate declines of 88% in the Eastern U.S. and declines that exceeded 95% in some areas. Other examples of transfer of pathogens between populations include Batrachochytrium dendrobatidis (Chytrid fungus) in amphibians, Ophidiomyces ophiodicola (snake fungal disease) in snakes and West Nile virus in multiple species of birds <ref type="bibr" target="#b1">(Fisher, et al. 2009;</ref><ref type="bibr" target="#b28">Kunkel, et al 2022;</ref><ref type="bibr" target="#b36">Lorch, et al. 2016;</ref><ref type="bibr" target="#b63">Smith, et al. 2018)</ref>. Several infectious diseases of turtles, including Emydomyces, ranavirus, herpesvirus and Mycoplasma have recently been identified as pathogens of concern, particularly when transferring animals between populations or releasing captively bred animals to the wild. Not only may these pathogens cause significant mortalities in other turtle populations, but introduction of novel ranaviruses may cause high mortality rates in cohabiting amphibian populations <ref type="bibr">(Brenes, et al. 2014;</ref><ref type="bibr" target="#b23">Johnson, et al. 2008)</ref>. Emydomyces testavorans is a fungal pathogen that may be a particularly important threat to turtle conservation. In the past decade, it has emerged as a disease of conservation concern to western pond turtles (Actinemys marmorata) on the Pacific coast and has recently been discovered as part of head-start programs in Illinois. While it may not be possible to prevent introduction of all novel pathogens, there are some general tools that can be done to prevent pathogen transfer:</p><p>1) Disinfection of equipment, supplies and clothing in between work with different populations. Some spread of WNS is thought to have occurred by humans moving between bat hibernacula without disinfection of footwear, clothing or equipment inbetween sites <ref type="bibr" target="#b13">(Hicks, et al 2023;</ref><ref type="bibr"></ref> White-Nose Syndrome, White-nose Syndrome Disease Working Group 2024). Protocols to prevent pathogen transfer, by professionals or the public, should be implemented as threats emerge. Professionals should disinfect handling equipment between populations to decrease the potential for infectious disease transfer.</p><p>2) Health screening before translocation can decrease the chance of pathogen introductions <ref type="bibr" target="#b78">(Woodford, 2000)</ref>. Numerous programs that involve moving animals between populations are important for species management; however, those movements also pose an opportunity for moving pathogens. These could be pathogens that are adapted to a host in a particular location or set of environmental circumstances but are devastating to a naïve population or animals in a different environment. It is important to assess pathogen presence, prevalence and impacts in both host and recipient populations, to ensure that animals are transferred only if they have similar pathogen exposures and are at similar planes of health. Wildlife propagated in captivity should be screened for pathogens that could have been acquired in the captive setting. While many zoos and other captive facilities have exceptional quarantine and health care programs, these sites also typically represent melting pots that house a multitude of species from different parts of the world. Conditions in captive facilities may also support pathogen adaptation as pathogens may have access to hosts in relatively high densities under artificial conditions. Pre-translocation health screening should be performed based on test availability and risk analysis <ref type="bibr" target="#b33">(Leighton, et al. 2002)</ref>.</p><p>3) Support of legislation and regulations to limit or prohibit transfer of animals with high risk of disease introduction. Batrachochytrium salamandrivorans (Bsal) is a pathogen that primarily affects salamanders and will likely have devastating consequences when introduced. It has had significant impacts in Europe but is not known to have been introduced to North America as of 2025. Regulations to limit import of species that may be Bsal carriers may be one of the most effective ways to decrease the chances of introduction to North American salamander populations where it is likely to have devastating consequences (AFWA Amphibian &amp; Reptile Conservation Committee 2024).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Specific health threats</head><p>Batrachcochytrium salamandrivorans (Bsal)</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Threat</head><p>Batrachochytrium salamandrivorans (Bsal) is a pathogenic fungus that is a major threat to multiple amphibian species. It is closely related to B. dendrobatidis (also known as amphibian chytrid) which has been implicated in many amphibian declines and extinctions throughout the world. Research suggests that Bsal originated in Asia and was spread to Europe by the pet trade.</p><p>If it is introduced to North America, it will likely come via the pet trade here as well <ref type="bibr">(Connelly, et al 2023)</ref>. As a result, the US Fish and Wildlife Service has listed over 200 species of salamanders as injurious wildlife under the Lacey Act because of the potential for them to be carriers for Bsal.</p><p>The fungus is actively spread by carrier amphibians, but can also be passively spread by other animals, as well as by people, equipment and water.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Taxa</head><p>Many amphibian species are susceptible, particularly newts and salamanders, but some frogs and toads are also vulnerable. In Michigan, southern two-lined salamanders are likely at greatest risk, but other SGCN amphibians, including marbled salamanders (Cuthrell 2010), smallmouthed salamanders (Lee 2010), northern dusky salamanders, mudpuppies <ref type="bibr" target="#b32">(Lee 2025</ref>) and western lesser sirens may also be at risk <ref type="bibr">(Carter, et al. 2020;</ref><ref type="bibr" target="#b9">Gray, et al. 2023)</ref>.</p><p>Conservation Actions 1) Perform public outreach to inform and engage retail pet stores, pet owners, researchers and outdoor enthusiasts, making them aware of the problem and steps that can be taken to reduce the chance of Bsal introduction to native amphibian populations. This would include education of pet stores and breeders about how to test captive amphibians for Bsal. [AFWA; NATF] 2) Implement rules or regulations that prohibit the importation of species with high potential of carrying and transmitting Bsal.</p><p>[AFWA] 3) Develop and implement biosecurity protocols for working in wetlands and aquatic habitats to reduce the risk of spillover from captive to wild amphibians. [AFWA; NATF] 4) Develop a surveillance plan for Bsal detection in high-risk species in Michigan <ref type="bibr" target="#b10">(Grear, et al. 2021</ref>). [AFWA; NATF] 5) Perform a risk assessment for particularly vulnerable amphibian populations where access limitations and habitat management could be considered to decrease the chance of Bsal introduction.</p><p>[NATF] 6) Create a rapid response and management plan for Bsal, including agency contacts, funding sources, management plans and post-detection surveillance protocols.</p><p>[AFWA]</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Highly Pathogenic Avian Influenza (HPAI)</head><p>Threat HPAI is caused by a family of closely related viruses that naturally circulate in waterfowl and shorebird populations <ref type="bibr" target="#b51">(Ramey, et al. 2022)</ref>. While HPAI viruses have not historically caused impacts on wild birds, a recent strain, H5N1, has persisted in wild bird populations and has caused substantial numbers of mortalities. It affects a diversity of avian species and has been detected as a cause of mortality in some mammals as well. It is highly transmissible, particularly within waterfowl, species that live close to waterfowl, and species that consume sick or dead waterfowl. It may pose a threat to already small populations and may be particularly impactful on colony nesters where birds are congregated in high densities.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Taxa</head><p>Colonial nesting water birds such as terns are at risk from HPAI, with several outbreaks in colonies of terns resulting in large levels of mortalities <ref type="bibr" target="#b49">(Pohlmann, et al. 2023)</ref>. Caspian terns <ref type="bibr" target="#b18">(Hyde 1996)</ref>, common terns <ref type="bibr" target="#b19">(Hyde 1997)</ref> 2) Discourage concurrent use of habitat by terns and species likely to carry HPAI H5N1, particularly if mortality events are observed.</p><p>[TNPS] 3) Discourage concurrent use of habitat by trumpeter swans and species likely to carry HPAI H5N1, particularly if mortality events are observed. 4) Implement good biosecurity practices when working with birds and their habitats to prevent spread of HPAI between populations, including cleaning and disinfection of footwear, clothing and equipment <ref type="bibr" target="#b49">(Pohlmann et al. 2023</ref>). 5) If HPAI vaccines are available and declining populations suggest it is necessary, consider targeted vaccination strategies of peregrine falcons and bald eagles (Pearce-Higgins et al.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>2023). [TNPS]</head><p>West Nile Virus</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Threat</head><p>Since its introduction into North America in 1999, West Nile virus has spread throughout the continental US and is now endemic in mosquito and wild bird populations <ref type="bibr" target="#b27">(Komar, 2003)</ref>. This virus typically causes neurologic disease and is usually fatal once clinical signs appear. While many susceptible avian populations have rebounded from this virus, some sensitive species continue to be affected. While West Nile virus has been a well-known concern in several species of raptors and corvids, populations of smaller and more cryptic species may have been underestimated.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Taxa</head><p>At-risk raptor populations include American goshawk, northern harrier (Currier 2001), peregrine falcons <ref type="bibr" target="#b39">(Monfils 2007)</ref>, bald eagles <ref type="bibr" target="#b4">(Gehring 2006</ref>), short-eared owls (Coopers 200) and longeared owls <ref type="bibr" target="#b27">(Komar 2003</ref><ref type="bibr" target="#b40">, Monfils 2010</ref><ref type="bibr" target="#b63">, Smith et al. 2018)</ref>. Several grouse species are highly susceptible to West Nile virus, so it is likely to similarly impact spruce grouse and sharp-tailed grouse <ref type="bibr" target="#b27">(Komar 2003</ref><ref type="bibr" target="#b28">, Kunkel et al 2022)</ref>. The magnitude of impacts of West Nile virus may be underappreciated in loggerhead shrike <ref type="bibr" target="#b30">(Lee 2001)</ref>  </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>White Nose Syndrome (WNS)</head><p>Threat WNS was first documented in North American bat populations in 2007 <ref type="bibr" target="#b17">(Hoyt et al. 2021)</ref>.</p><p>Caused by the fungus, Pseudogymnoascus destructans, WNS was likely introduced to North American bats from Europe and has spread widely throughout North America <ref type="bibr" target="#b17">(Hoyt et al. 2021)</ref>.</p><p>It causes substantial changes to bat metabolism during the winter, leading them to rouse from hibernation at a dramatically increased rate, depleting energy and water stores and resulting in death from starvation <ref type="bibr" target="#b24">(Johnson et al. 2021)</ref>. Bat populations in the eastern U.S. declined by an aggregate of 88% after just 5 years of exposure and midwestern populations followed similar trends <ref type="bibr">(Turner et al. 2015)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Taxa</head><p>Bats impacted in Michigan include little brown bats, northern long-eared bats, Indiana bats and tricolored bats <ref type="bibr">(Hoyt et al. 2012</ref><ref type="bibr" target="#b48">, Pettit and O'Keefe 2017</ref><ref type="bibr">, Johnson et al. 2021</ref><ref type="bibr" target="#b34">, Loeb et al. 2022)</ref>.</p><p>Conservation Actions 1) Perform targeted habitat manipulation to decrease the presence and impact of WNS. This may include: a. Cooling of bat hibernacula. The extent of WNS infection is decreased in animals hibernating at cooler temperatures; changes to air flow and structure of hibernacula can effectively decrease hibernacula temperatures, as can specifically designed artificial hibernacula <ref type="bibr">(Turner et al. 2022</ref>). b. Investigation of volatile organic compounds (VOC) to bat hibernacula to decrease the amount of WNS fungus in the environment. <ref type="bibr" target="#b3">(Gabriel et al. 2022)</ref>.</p><p>2) Collaborate with state, federal and international partners to manage white-nose syndrome, including implementation of the national plan for managing white-nose syndrome in bats (White-Nose Syndrome).</p><p>[WNSP]</p><p>3) Perform all work with and around, bats using recommended best practices as outlined in the National White-nose Syndrome Decontamination Protocol.</p><p>[WNSD] 4) Investigate concurrent effects of pesticides on bat immunity and ability to survive WNS; neonicotinoids that are widely used for insect management are of particular concern <ref type="bibr" target="#b37">(Mason et al. 2013)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Pesticides (insecticides, herbicides, fungicides, rodenticides)</head><p>Threat Several classes of insecticides can cause problems in wildlife populations. Widescale declines in insect populations are likely contributing to declines in insectivorous species, including bats and many species of birds. Neonicotinoids are widely used and have been implicated in declines of several insect species <ref type="bibr" target="#b37">(Mason et al. 2013)</ref>. They can be inhaled, absorbed through the skin, or ingested in contaminated food or water. They can cause weight loss and impaired sense of direction in songbirds, thereby impacting survival and reproduction <ref type="bibr">(Eng et al. 2019)</ref>.</p><p>Organophosphate pesticides can cause behavioral abnormalities in bats <ref type="bibr">(Eidels et al. 2016</ref><ref type="bibr" target="#b58">, Sandoval-Herrera et al. 2022</ref>).</p><p>Insecticides and fungicides can substantially decrease the survival of amphibian tadpoles <ref type="bibr" target="#b26">(Junges et al. 2017)</ref>. Endosulfan is a hormone-disrupting insecticide that has caused amphibian developmental abnormalities <ref type="bibr">(Berrill et al. 1998)</ref>. The herbicide glyphosate has caused stunted development and high mortality rates in tadpoles, while atrazine has led to feminization of frogs <ref type="bibr" target="#b16">(Hoskins and Boone 2018;</ref><ref type="bibr" target="#b29">Lanctot et al. 2014)</ref>.</p><p>Multiple types of rodenticides can be hazardous to wildlife, but anti-coagulant rodenticides are of particular concern <ref type="bibr">(Stone et al. 1990, Lopez-Perea and</ref><ref type="bibr" target="#b35">Mateo 2017)</ref>. Predators and scavengers eat rodents that have died from uncontrolled hemorrhage and these predators may then die with similar signs if sufficient amounts of the anticoagulant are ingested (Lopez-Perea and Mateo 2018). Other types of rodenticides can cause mortality in non-target wildlife as well, such as avicides used to kill pest-species of birds that may then be consumed by avian predators or scavengers Taxa Insecticides are a threat to a large variety of insects such as the Karner blue butterfly <ref type="bibr" target="#b50">(Rabe 2001</ref>), Mitchell's satyr <ref type="bibr" target="#b20">(Hyde 2012)</ref> and American bumblebee (Rowe 2025), and insect-eating mammals, birds, reptiles, amphibians and fish, including bats and many species of songbirds <ref type="bibr">(Eng et al. 2019</ref><ref type="bibr" target="#b37">, Mason et al. 2013</ref><ref type="bibr">, Torequetti et al 2021)</ref>.</p><p>Many species of amphibians are sensitive to herbicides, with chorus frogs showing very high mortality rates when exposed to glyphosate <ref type="bibr" target="#b53">(Relyea and Jones 2009)</ref>. Granivorous birds also may have extensive exposure to herbicides and fungicides <ref type="bibr">(Boutin et al. 1999</ref><ref type="bibr" target="#b41">, Moreau et al. 2022</ref><ref type="bibr" target="#b64">, Sullivan and Wisk 2022)</ref>.</p><p>Rodenticides are a threat predators and scavengers that eat rodents that are sick or die after consuming rodenticides. Owls are at high risk due to a diet that relies on rodents (Cooke et al 2023, <ref type="bibr" target="#b6">Gomez et al. 2023)</ref>. Mammalian carnivores are also at risk, including mountain lions and fishers <ref type="bibr" target="#b2">(Gabriel et al. 2012</ref><ref type="bibr" target="#b57">, Rudd et al. 2024)</ref>.</p><p>Conservation Actions 1) Model responsible use pesticides on Michigan state game areas and other locations stewarded by Michigan Department of Natural Resources (DNR), including considering all other viable options before use of neonicotinoid insecticides, anticoagulant rodenticides, glyphosate-containing herbicides.</p><p>[RPU] 2) Engage in public outreach campaigns to promote responsible use of rodenticides, insecticides, fungicides and herbicides to decrease environmental contamination, particularly in areas with highly susceptible populations. [RECP; RECH] 3) Promote integrated pest management techniques by public and professionals, such that thresholds for when to use pesticides are established and when used, pesticides are applied at the minimum effective dose and avoid contributing to pesticide resistance. Promote non-chemical methods for addressing pest issues to be included in management approaches alongside chemical methods.</p><p>[DISP] 4) Opportunistic surveillance of at-risk species for exposure to, and mortality from, pesticides to better assess the risk of these compounds to survival (Lopez-Perea and Mateo 2017).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Heavy metals (Lead and Mercury)</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Threat</head><p>Heavy metal contamination can cause substantial adverse health effects. Lead and mercury in particular are contaminants that have been well studied and have widespread impacts.</p><p>Several birds of prey are susceptible to toxicity from ingestion of lead ammunition when scavenging carcasses or preying on animals that have ingested lead. Many species of waterbirds develop lead toxicity when exposed to environmental contamination with lead. Sources of contamination include spent ammunition and fishing tackle, along with mining and smelting activities <ref type="bibr">(Grade et al. 2019</ref><ref type="bibr" target="#b12">, Haig et al 2014)</ref>. Lead ammunition has not been used for waterfowl hunting for many years, but deposits remain in waterways. Lead toxicity in wild birds is typically a chronic condition causing stasis of the gastrointestinal tract and neurologic signs, leading to death <ref type="bibr" target="#b76">(Williams et al. 2017)</ref>.</p><p>Mercury is a toxic pollutant that is of particular concern for aquatic species. It is released into the environment from activities such as electricity production and waste incineration, initially being aerosolized but falling to earth and cycling into the water. Mercury can cause abnormalities of reproduction, growth, behavior and the immune system (de Almeida <ref type="bibr">Rodriguez et al. 2019)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Taxa</head><p>American goshawk and peregrine falcons <ref type="bibr" target="#b39">(Monfils 2007</ref>) are susceptible to lead toxicity and may die from consuming other birds that inadvertently consumed lead or were killed by lead ammunition <ref type="bibr" target="#b0">(Fisher et al. 2006</ref><ref type="bibr">, Greene et al. 2022)</ref>. Lead intoxication has been documented as a widespread problem in bald eagles <ref type="bibr" target="#b4">(Gehring 2006</ref>) for many years <ref type="bibr">(Haig et al 2014, Ross-Winslow and</ref><ref type="bibr" target="#b54">Teel 2011)</ref>. It can be a contributing factor to roadside trauma deaths of eagles scavenging road-killed deer and it continues to cause mortality in this species. Swans, loons, gallinules and terns are prone to ingestion of lead and other heavy metals in their environment, resulting in high levels of neurologic disease and mortality (Ross-Winslow and Teel 2011).</p><p>Aquatic species, and taxa that feed on them, are at risk from mercury contamination with fisheating species such as eagles and loons particularly susceptible <ref type="bibr" target="#b77">(Wolfe et al 1998)</ref>. Many other species, including those that eat aquatic invertebrates, such as bats, songbirds, turtles and aquatic snakes are also at risk <ref type="bibr">(Drewett et al. 2013</ref><ref type="bibr" target="#b15">, Hopkins et al 2013</ref><ref type="bibr" target="#b21">, Jackson et al. 2014</ref><ref type="bibr" target="#b79">, Yates et al. 2013)</ref>.</p><p>Conservation Actions 1) Opportunistic and/or targeted surveillance of susceptible species for lead and mercury to define the extent of the problem and evaluate the efficacy of mitigation efforts. [MECE; NAMP]</p><p>2) Support research to investigate sources of heavy metal ingestion so that mitigation efforts can be directed appropriately.</p><p>3) Actively promote partnerships that encourage hunters to use alternatives to lead ammunition and to bury gut piles to decrease foraging by eagles and other scavengers <ref type="bibr" target="#b12">(Haig, et al. 2014)</ref>.</p><p>4) Engage in public outreach campaigns to increase awareness of the threats to wildlife and human health from lead ammunition <ref type="bibr" target="#b12">(Haig, et al 2014)</ref>.</p><p>5) Engage in public outreach campaigns to increase awareness of animal and human health risks from mercury contamination of water systems.</p><p>[MECE] 6) Support practices that reduce environmental contamination with mercury.</p><p>Response plans -responding to emerging/new health threats</p><p>In a rapidly changing world, it will be important to develop and implement proactive response plans to known threats plus establish guidance and framework for responding to new or unexpected threats. Each pathogen, toxin, or contaminant will pose its own set of challenges and require a directed response but there are some general guidelines to ensure a successful response.</p><p>1) Robust wildlife health monitoring of species throughout Michigan to assist with early detection of wildlife health threats that may be problematic to SGCN. These threats may first be detected in more common species, including game or introduced species.</p><p>2) Health surveillance of SGCN populations in advance of a threat will help establish baseline and may inform susceptibility to emerging pathogens or toxins.</p><p>3) Establish communication pathways between agencies and partners likely to be affected by a wildlife health threat, including those focused on human health and agriculture. These may include local, state, tribal and federal governments, as well as industry and academia. Partnering with these entities on existing and known threats will help establish routine communications and operations. Where possible, determining authority, responsibilities and chain of command in advance will be helpful.</p><p>4) Prioritize known wildlife health threats and develop appropriate response plans. These can then be used as a basis for rapid development of appropriate plans for unanticipated threats.</p><p>5) Determine appropriate legal authorities for actions that could be implemented to mitigate an emerging threat.</p><p>6) Proactively determine potential sources of funding and other resources such as personal protective equipment that may be needed in response to an emerging wildlife health threat.</p><p>Linkages to Other Plans  <ref type="bibr">Berrill, M., Coulson, D., McGillivray, L., and Pauli, B. 1998</ref>. Toxicity of endosulfan to aquatic stages of anuran amphibians. Environmental Toxicology and Chemistry. 17(9): 1738-1744. Bertelsen, M.F., Olbert, R-A., Crawshaw, G.J., Dibernardo, A., Lindsay, L.R., Drebot, M., <ref type="bibr">Barker, I.K. 2004</ref>. West Nile virus infection in the Eastern loggerhead shrike (Lanius ludovicianus</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head></head><label></label><figDesc>, black terns (Currier 2000) and Forster's terns(MNFI  2009)  all nest in high density colonies in Michigan marshlands and Great Lakes Coastal Systems. Trumpeter swan mortalities from HPAI have been documented in Michigan; this species uses habitat that is shared by geese and dabbling ducks that are the most common carriers of HPAI. Avian predators likely to consume waterfowl, (e.g., bald eagles<ref type="bibr" target="#b4">(Gehring 2006)</ref>, peregrine falcons<ref type="bibr" target="#b39">(Monfils 2007)</ref>, northern harrier (Currier 2001), and other bird-eating birds) are also at risk of H5N1(Caliendo et al. 2024<ref type="bibr" target="#b44">, Nemeth et al. 2023</ref><ref type="bibr" target="#b47">, Pearce-Higgins et al. 2023)</ref>. In Michigan, HPAI H5N1 has been detected in over 100 dead bald eagles and several dead peregrine falcons.</figDesc><table /><note><p>Conservation Actions 1) Frequently survey habitat used by terns and trumpeter swans for concurrent use by species that are likely to carry HPAI H5N1 (dabbling ducks and geese) (Pearce-Higgins et al. 2023). [USGS; USDA; USSP]</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Michigan Wildlife Action Plan: 2025-2035 o</head><label></label><figDesc>[TNPS] Highly Pathogenic Avian Influenza in Wildlife Response Plan (The National Park Service 2006) o [USGS] U.S. Geological Survey Science Strategy to Address Highly Pathogenic Avian Influenza and Its Effects on Wildlife Health 2025-29 (Ramey 2025) o [USDA] Highly Pathogenic Avian Influenza (HPAI) Response Plan: The Red Book (USDA 2017) o [USSP] Surveillance Plan for Highly Pathogenic Avian Influenza in Waterfowl in the United States (National Flyway Council 2015) • West Nile o [CDCG] West Nile Virus Surveillance and Control Guidelines (CDC 2024) • WNS o [WNSD] National White-Nose Syndrome Decontamination Protocol (White-nose Syndrome Disease Management Working Group 2024) o [WNSNP] Implementation of the National Plan for Assisting States, Federal Agencies, and Tribes in Managing White-Nose Syndrome in Bats (USFWS 2014) • Pesticides o [DISP] Database for Invasive Species Action (Higman et al. 2019) o [RPU] Balancing Wildlife Protection and Responsible Pesticide Use: How EPA's Pesticide Program Will Meet its Endangered Species Act Obligations (USEPA 2022) o [RECP] Action Plan to Reduce Exposure of Vulnerable Federally Listed Endangered and Threatened Species from the Use of Conventional Pesticides (USEPA 2024a) o [RECH] Herbicide Strategy to Reduce Exposure of Federally Listed Endangered and Threatened Species and Designated Critical Habitats from the Use of Conventional Agricultural Herbicides (USEPA 2024b) • Heavy metals o [MECE] Protocol for Monitoring Environmental Contaminants in Bald Eagles (Version 2.0) (Route et al. 2019) o [NAMP] North American Regional Action Plan on Mercury (North American Implementation Task Force on Mercury 2000) Literature cited AFWA Amphibian &amp; Reptile Conservation Committee. 2024. Bsal guidance for state wildlife action plans 2024. Association of Fish &amp; Wildlife Agencies (AFWA), Washington D.C., USA. 7pp.</figDesc><table><row><cell>Draft</cell></row><row><cell>• Bsal o [AFWA] Bsal guidance for state wildlife action plans 2024 (AFWA Amphibian &amp; Reptile Conservation Committee 2024) o [NATF] A North American strategic plan to prevent and control invasions of the lethal salamander pathogen Batrachochytrium salamandrivorans (North American Bsal Task Force 2022)</cell></row><row><cell>• HPAI</cell></row></table></figure>
+		</body>
+		<back>
+
+			<div type="funding">
+<div><p>migrans): Pathology, epidemiology and immunization. Journal of Wildlife Diseases. 40(3): <rs type="grantNumber">538-542</rs>. Boutin, C., Freemark, K.E., Kirk, D.A. 1999. Farmland  birds in southern Ontario: field use, afctivity patterns and vulnerability to pesticide use. Agriculture, Ecosystems &amp; Environment. 72(3): <rs type="grantNumber">239-254</rs>. Brenes, R., Gray, M.J., Waltzek, T.B., Wilkes, R.P., Miller, D.L. 2014. Transmission of ranavi4rus between ectothermic vertebrate hosts. PLOS One. <ref type="url" target="https://doi.org/10.1371/journal.pone.0092476">https://doi.org/10.1371/journal.pone.0092476</ref> Caliendo, V., Martin, B.B., Fouchier, R.A.M., Verdaat, H., Engelsma, M., Beerens, N., Slaterus, R. 2024. Highly pathogenic avian influenza contributes to the population decline of the Peregrine falcon (Falco peregrinus) in the Netherlands. Viruses. 17(1): 24. doi: 10.3390/v17010024 Carter, E. D., Miller, D. L., Peterson, A. C., Sutton, W. B., Cusaac, J. P. W., Spatz, J. A., <rs type="person">Rollins-Smith</rs>, L., Reinert, L., Bohanon, M., <rs type="funder">Williams</rs>, L. A., Upchurch, A., Gray, M. J. 2020. Conservation risk of Batrachochytrium salamandrivorans to endemic lungless salamanders. Conservation Letters, 13(1), e12675. Center for Disease Control (CDC). 2024. <rs type="institution">West Nile Virus Surveillance and Control Guidelines. Center for Disease Control, Atlanta</rs>, GA. 41 pp. Connelly, P. J., Ross, N., Stringham, O. C., Eskew, E. A. 2023. United States amphibian imports pose a disease risk to salamanders despite Lacey Act regulations. Communications Earth &amp; Environment, 4(1), 1-10. Cooke, R., Whiteley, P., Death, C., Weston, M. A., Carter, N., Scammell, K., Yokochi, K., Nguyen, H., White, J. G. 2023. Silent killers? The widespread exposure of predatory nocturnal birds to anticoagulant rodenticides. The Science of the Total Environment, 904, e166293. Cooper, J.L. 2000. Special animal abstract for Asio flammeus (short-eared owl). Michigan Natural Features Inventory, Lansing, MI. 3pp. Currier, C.L. 2000. Special animal abstract for Chlidonias niger (black tern). Michigan Natural Features Inventory, Lansing, MI. 3 pp. Currier, C. 2001. Special animal abstract for Circus cyaneus (northern harrier). Michigan Natural Features Inventory. Lansing, MI 5 pp. Cuthrell, D. 2010. Special animal abstract for Ambystoma opacum (marbled salamander). <rs type="institution">Michigan Natural Features Inventory. Lansing, MI. 3 pp. de Almeida Rodrigues</rs>, <rs type="person">P., Ferrari</rs>, <rs type="person">R. G.</rs>, <rs type="person">Dos Santos</rs>, L. N., and Junior, C. A. C. 2019. Mercury in aquatic fauna contamination: a systematic review on its dynamics and potential health risks. Journal of Environmental Sciences, <rs type="grantNumber">84</rs>, <rs type="grantNumber">205-218</rs>. Drewett, D. V. V., Willson, J. D., Cristol, D. A., Chin, S. Y., Hopkins, W. A. 2013. Inter-and intraspecific variation in mercury bioaccumulation by snakes inhabiting a contaminated river floodplain. Environmental Toxicology and Chemistry, 32(5), <rs type="grantNumber">1178-1186</rs>. Eidels, R.R., <rs type="funder">Sparks</rs>, <rs type="person">D.W.</rs>, <rs type="person">Whitaker Jr</rs>, J.O., Sprague, C.A. 2016. Sub-lethal effects of chlorpyifos on big brown bats (Eptesicus fuscus). Archives of Environmental Contamination and Toxicology. 71: <rs type="grantNumber">322-335</rs>. Eng, M. L., Stutchbury, B. J. M., Morrissey, C. A. 2019. A neonicotinoid insecticide reduces fueling and delays migration in songbirds. Science, 365(<rs type="grantNumber">6458</rs>), <rs type="grantNumber">1177-1180</rs>.</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_hyDHSAn">
+					<idno type="grant-number">538-542</idno>
+				</org>
+				<org type="funding" xml:id="_3pdev7Q">
+					<idno type="grant-number">239-254</idno>
+				</org>
+				<org type="funding" xml:id="_FG7Ut7c">
+					<idno type="grant-number">24</idno>
+				</org>
+				<org type="funding" xml:id="_XWJQTUY">
+					<idno type="grant-number">84</idno>
+				</org>
+				<org type="funding" xml:id="_kTsGzFw">
+					<idno type="grant-number">205-218</idno>
+				</org>
+				<org type="funding" xml:id="_maZE2F3">
+					<idno type="grant-number">1178-1186</idno>
+				</org>
+				<org type="funding" xml:id="_X9k5Xnu">
+					<idno type="grant-number">322-335</idno>
+				</org>
+				<org type="funding" xml:id="_VH43nYS">
+					<idno type="grant-number">6458</idno>
+				</org>
+				<org type="funding" xml:id="_CUjfFFh">
+					<idno type="grant-number">1177-1180</idno>
+				</org>
+			</listOrg>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">A review of lead poisoning from ammunition sources in terrestrial birds</title>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">J</forename><surname>Fisher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Pain</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">G</forename><surname>Thomas</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biological Conservation</title>
+		<imprint>
+			<biblScope unit="volume">131</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="421" to="432" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Global emergence of Batrachochytrium dendrobatidis and amphibian chytridiomycosis in space, time and host</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">C</forename><surname>Fisher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">W J</forename><surname>Garner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">F</forename><surname>Waler</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Annual Review of Microbiology</title>
+		<imprint>
+			<biblScope unit="volume">63</biblScope>
+			<biblScope unit="page" from="291" to="310" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Anticoagulant rodenticides on our public and community lands: Spatial distribution of exposure and poisoning of a rare forest carnivore</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">W</forename><surname>Gabriel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">W</forename><surname>Woods</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Poppenga</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Sweitzer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Thompson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Matthews</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Higley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Keller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Purcell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">H</forename><surname>Barrett</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">M</forename><surname>Wengert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">N</forename><surname>Sacks</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Clifford</surname></persName>
+		</author>
+		<idno type="DOI">10.1371/journal.pone.0040163</idno>
+		<ptr target="https://doi.org/10.1371/journal.pone.0040163" />
+	</analytic>
+	<monogr>
+		<title level="j">PLOS One</title>
+		<imprint>
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Development of a multi-year white-nose syndrome mitigation strategy using antifungal volatile organic compounds</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">T</forename><surname>Gabriel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">G</forename><surname>Mcdonald</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">E</forename><surname>Lutsch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Pattavina</surname></persName>
+		</author>
+		<author>
+			<persName><surname>E&gt;</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">M</forename><surname>Morris</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Ferrall</surname></persName>
+		</author>
+		<author>
+			<persName><surname>A&gt;</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">A</forename><surname>Crow</surname><genName>Jr</genName></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">T</forename><surname>Cornelison</surname></persName>
+		</author>
+		<idno type="DOI">10.1371/journal.pone.0278603</idno>
+		<ptr target="https://doi.org/10.1371/journal.pone.0278603" />
+	</analytic>
+	<monogr>
+		<title level="j">PLOS One</title>
+		<imprint>
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Special animal abstract for Haliaeetus leucocephalus</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Gehring</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Michigan Natural Features Inventory</title>
+		<meeting><address><addrLine>Lansing, MI</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+	<note>bald eagle</note>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Can a Common Bird Species Be Used as a Surrogate to Draw Insights for the Conservation of a Rare Species? A Case Study from the Fragmented Taita Hills</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Githiru</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Matthysen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Lens</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">A</forename><surname>Bennun</surname></persName>
+		</author>
+		<idno type="DOI">10.1017/S0030605307001810</idno>
+		<ptr target="https://doi.org/10.1017/S0030605307001810" />
+	</analytic>
+	<monogr>
+		<title level="j">Kenya. Oryx</title>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="239" to="246" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Anthropogenic threats to owls: Insights from rehabilitation admittance data and rodenticide screening in Texas</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">A</forename><surname>Gomez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">L</forename><surname>Prestridge</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Smith</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">PloS One</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="issue">8</biblScope>
+			<biblScope unit="page">289228</biblScope>
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Persistent Impacts of West Nile Virus on North American Bird Populations</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>George</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ryan</forename><forename type="middle">J</forename><surname>Luke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Joseph</forename><forename type="middle">A</forename><surname>Harrigan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">David</forename><forename type="middle">F</forename><surname>Lamanna</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">James</forename><forename type="middle">F</forename><surname>Desante</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Thomas</forename><forename type="middle">B</forename><surname>Saracco</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Smith</surname></persName>
+		</author>
+		<idno type="DOI">10.1073/pnas.1507747112</idno>
+		<ptr target="https://doi.org/10.1073/pnas.1507747112" />
+	</analytic>
+	<monogr>
+		<title level="j">Proceedings of the National Academy of Sciences</title>
+		<imprint>
+			<biblScope unit="volume">112</biblScope>
+			<biblScope unit="issue">46</biblScope>
+			<biblScope unit="page" from="14290" to="14294" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Lead poisoning from ingestion of fishing gear: a review</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Grade</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Campbell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Cooley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Kneeland</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Leslie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Macdonald</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Melotti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Okoniewski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">J</forename><surname>Parmley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Perry</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Vogel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Pokras</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ambio</title>
+		<imprint>
+			<biblScope unit="volume">48</biblScope>
+			<biblScope unit="page" from="1023" to="1038" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Broad host susceptibility of North American amphibian species to Batrachochytrium salamandrivorans suggests high invasion potential and biodiversity risk</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Gray</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">D</forename><surname>Carter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Piovia-Scott</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P W</forename><surname>Cusaac</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">C</forename><surname>Peterson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">D</forename><surname>Whetstone</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Hertz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">Y</forename><surname>Muniz-Torres</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">C</forename><surname>Bletz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">C</forename><surname>Woodhams</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Romansic</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">B</forename><surname>Sutton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Sheley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Pessier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">D</forename><surname>Mccusker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">Q</forename><surname>Wilber</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Miller</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nature Communications</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page">3270</biblScope>
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Evaluation of regulatory action and surveillance as preventive risk-mitigation to an emerging global amphibian pathogen Batrachochytrium salamandrivorans (Bsal)</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Grear</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">A</forename><surname>Mosher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">L D</forename><surname>Richgels</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">H C</forename><surname>Grant</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biological Conservation</title>
+		<imprint>
+			<biblScope unit="page" from="260" to="e109222" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">The impact of lead poisoning from ammunition sources on raptor populations in Europe</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">E</forename><surname>Green</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Pain</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Krone</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.scitotenv.2022.154017</idno>
+		<ptr target="https://doi.org/10.1016/j.scitotenv.2022.154017" />
+	</analytic>
+	<monogr>
+		<title level="j">Science of the Total Environment</title>
+		<imprint>
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">The persistent problem of lead poisoning in birds from ammunition and fishing tackle</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Haig</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>D'elia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Eagles-Smith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Fair</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Gervais</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Herring</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">W</forename><surname>Rivers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Schulz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Condor</title>
+		<imprint>
+			<biblScope unit="volume">116</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="408" to="428" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<monogr>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">C</forename><surname>Hicks</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">R</forename><surname>Darling</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Flewlling</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Von Linden</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">U</forename><surname>Meteyer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">N</forename><surname>Redell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Paul White</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Redell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Smith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">S</forename><surname>Blehert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">L</forename><surname>Rayman-Metcalf</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Hoyt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Okoniewski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">E</forename><surname>Langwig</surname></persName>
+		</author>
+		<idno type="DOI">10.1038/s41598-023-31515-w</idno>
+		<ptr target="https://doi.org/10.1038/s41598-023-31515-w" />
+		<title level="m">Environmental transmission of Pseudogymnoascus destructans to hibernating little brown bats</title>
+		<imprint>
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Preserving the Legacy of Michigan&apos;s Great Lakes Islands: A Planning Framework and Database for Invasive Species Action</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Higman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">D</forename><surname>Enander</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Hyde</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Badra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">A</forename><surname>May</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">M</forename><surname>Korroch</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Report to the USFWS Great Lakes Coastal Program. MNFI Report</title>
+		<imprint>
+			<biblScope unit="page" from="2019" to="2036" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Mercury exposure is associated with negative effects on turtle reproduction</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">C</forename><surname>Hopkins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Willson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">A</forename><surname>Hopkins</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Environmental Science &amp; Technology</title>
+		<imprint>
+			<biblScope unit="volume">47</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="2416" to="2422" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Atrazine feminizes sex ratio in Blanchard&apos;s cricket frogs</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">D</forename><surname>Hoskins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">D</forename><surname>Boone</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">L. Environmental Toxicology and Chemistry</title>
+		<imprint>
+			<biblScope unit="volume">37</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="427" to="435" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+	<note>Acris blanchardi. at concentrations as low as 0.1 ug</note>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Ecology and impacts of white-nose syndrome on bats</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Hoyt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Marm Kilpatrick</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Langwig</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nature Reviews. Microbiology</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="page" from="196" to="210" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<monogr>
+		<title level="m" type="main">Special animal abstract for Sterna caspia (Caspian tern)</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Hyde</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1996">1996</date>
+			<publisher>Michigan Natural Features Inventory</publisher>
+			<pubPlace>Lansing, MI</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<monogr>
+		<title level="m" type="main">Special animal abstract for Sterna hirundo (common tern)</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Hyde</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1997">1997</date>
+			<publisher>Michigan Natural Features Inventory</publisher>
+			<pubPlace>Lansing, MI</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<monogr>
+		<title level="m" type="main">Update of Lee, Y. 2000. Special animal abstract for Mitchell&apos;s satyr butterfly (Neonympha mitchellii mitchellii)</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Hyde</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2012">2012</date>
+			<publisher>Michigan Natural Features Inventory</publisher>
+			<pubPlace>Lansing, MI</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<monogr>
+		<title level="m" type="main">Songbirds as sentinels of mercury in terrestrial habitats of eastern North America</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">K</forename><surname>Jackson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">C</forename><surname>Evers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">M</forename><surname>Adams</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Cristol</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Eagles-Smith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">T</forename><surname>Edmonds</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">E</forename><surname>Gray</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Hoskins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">P</forename><surname>Lane</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Sauer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Tear</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2014">2014</date>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="page" from="453" to="467" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Current progress of avian vaccines against West Nile vi4rus</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Jimenez De Oya</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Escribano-Romerao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A-B</forename><surname>Blazquez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Martin-Acebes</surname></persName>
+		</author>
+		<author>
+			<persName><surname>A&gt;</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J-C</forename><surname>Saiz</surname></persName>
+		</author>
+		<idno type="DOI">10.3390/vaccines7040126</idno>
+		<ptr target="https://doi.org/10.3390/vaccines7040126" />
+	</analytic>
+	<monogr>
+		<title level="j">Vaccines</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Ranavirus infection of free-ranging and captive box turtles and tortoises in the United States</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J</forename><surname>Johnson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">P</forename><surname>Pessier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">F X</forename><surname>Wellehan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Childress</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">M</forename><surname>Norton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">L</forename><surname>Stedman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">C</forename><surname>Blom</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Belzer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">R</forename><surname>Titus</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Wagner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="middle">J W</forename><surname>Brooks</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Spratt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">R</forename><surname>Jacobson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Wildlife Diseases</title>
+		<imprint>
+			<biblScope unit="volume">44</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="851" to="863" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Long-term changes in occurrence, relative abundance and reproductive fitness of bat species in relation to arrival of Whitenose Syndrome in West Virginia</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Johnson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Brown</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Sanders</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">W</forename><surname>Stihler</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/ece3.7991</idno>
+		<ptr target="https://doi.org/10.1002/ece3.7991" />
+	</analytic>
+	<monogr>
+		<title level="j">USA. Ecology and Evolution</title>
+		<imprint>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<monogr>
+		<title level="m" type="main">Beneficial Forest Management Practices for WNSaffected Bats: Voluntary Guidance for Land Managers and Woodland Owners in the Eastern United States. A product of the White-nose Syndrome Conservation and Recovery Working Group established by the White-nose Syndrome National Plan</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Johnson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>King</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2018">2018</date>
+			<biblScope unit="page">39</biblScope>
+		</imprint>
+	</monogr>
+	<note>www.whitenosesyndrome.org</note>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<monogr>
+		<title level="m" type="main">Acute toxicity and etho-toxicity of three insecticides used for mosquito control on amphibian tadpoles</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Junges</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">I</forename><surname>Maglianese</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">C</forename><surname>Lajmanovich</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">M</forename><surname>Peltzer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Attademo</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s11270-017-3324-6</idno>
+		<ptr target="https://doi.org/10.1007/s11270-017-3324-6" />
+		<imprint>
+			<date type="published" when="2017">2017</date>
+			<biblScope unit="volume">228</biblScope>
+			<biblScope unit="page">143</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">West Nile virus: Epidemiology and Ecology in North America</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Komar</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Advances in Virus Research</title>
+		<imprint>
+			<biblScope unit="volume">61</biblScope>
+			<biblScope unit="page" from="185" to="234" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<monogr>
+		<title level="m" type="main">Our current understanding of West Nile virus in upland game birds</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Kunkel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">G</forename><surname>Mead</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">G</forename><surname>Ruder</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">M</forename><surname>Nemeth</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2022">2022</date>
+			<publisher>Wildlife Society Bulletin</publisher>
+			<biblScope unit="volume">46</biblScope>
+			<biblScope unit="page">1269</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Effects of glyphosate-based herbicides on survival, development, growth and sex ratios of wood frog (Lithobates sylvaticus) tadpoles. II: Agriculturally relevant exposures to Roundup WeatherMax and Vision under laboratory conditions</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Lanctot</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Navarro-Martin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Robertson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Park</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Jackman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">D</forename><surname>Pauli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">L</forename><surname>Trudeau</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Aquatic Toxicology</title>
+		<imprint>
+			<biblScope unit="volume">154</biblScope>
+			<biblScope unit="page" from="291" to="303" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<monogr>
+		<title level="m" type="main">Special animal abstract for Lanius ludovicianus migrans (migrant loggerhead shrike)</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Lee</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2001">2001</date>
+			<publisher>Michigan Natural Features Inventory</publisher>
+			<pubPlace>Lansing, MI</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<monogr>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Lee</surname></persName>
+		</author>
+		<title level="m">Special animal abstract for Ambystoma texanum (Smallmouth Salamander). Michigan Natural Features Inventory</title>
+		<meeting><address><addrLine>Lansing, MI</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2010">2010</date>
+			<biblScope unit="page">4</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<monogr>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Lee</surname></persName>
+		</author>
+		<title level="m">Special animal abstract for Necturus maculosus (mudpuppy). Michigan Natural Features Inventory. Lansing MI</title>
+		<imprint>
+			<date type="published" when="2025">2025</date>
+			<biblScope unit="page">7</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Health risk assessment of the translocation of wild animals</title>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">A</forename><surname>Leighton</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Revue scientifique et technique Office international des Epizooties</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="187" to="195" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Changes in hibernating tricolored bat (Perimyotis subflavus) roosting behavior in response to white-nose syndrome</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">C</forename><surname>Loeb</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">A</forename><surname>Winters</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/ece3.9045</idno>
+		<ptr target="https://doi.org/10.1002/ece3.9045" />
+	</analytic>
+	<monogr>
+		<title level="j">Ecology and Evolution</title>
+		<imprint>
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Secondary exposure to anticoagulant rodenticides and effects on predators</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Lopez-Perea</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Mateo</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/978-3-319-64377-9_7</idno>
+		<ptr target="https://doi.org/10.1007/978-3-319-64377-9_7" />
+	</analytic>
+	<monogr>
+		<title level="m">Emerging Topics in Ecotoxicology</title>
+		<editor>
+			<persName><forename type="first">N</forename><surname>Van Den Brink</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">J</forename><surname>Elliott</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">R</forename><surname>Shore</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">B</forename><surname>Rattner</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Cham</addrLine></address></meeting>
+		<imprint>
+			<publisher>Springer</publisher>
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Snake fungal disease: an emerging threat to wild snakes</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Lorch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Knowles</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Lankton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Michell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Edwards</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Kapfer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Staffen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">R</forename><surname>Wild</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">Z</forename><surname>Schmidt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">E</forename><surname>Ballmann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Blodgett</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">M</forename><surname>Farrell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">M</forename><surname>Glorioso</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">A</forename><surname>Last</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">J</forename><surname>Price</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">L</forename><surname>Schuler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">E</forename><surname>Smith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">F X</forename><surname>Wellehan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="middle">D S</forename><surname>Blehert</surname></persName>
+		</author>
+		<idno type="DOI">10.1098/rstb.2015.0457</idno>
+		<ptr target="https://doi.org/10.1098/rstb.2015.0457" />
+	</analytic>
+	<monogr>
+		<title level="j">Philosophical Transactions of the Royal Society B</title>
+		<imprint>
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Immune suppression by neonicotinoid insecticides at the root of global wildlife declines</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Mason</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Tennekes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Sanchez-Bayo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Uhd Jepsen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Enivronmental Immunology and Toxicology</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="3" to="12" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<monogr>
+		<title level="m" type="main">MNFI) 2009. Special animal abstract for Sterna forsteri (Foster&apos;s tern</title>
+		<imprint>
+			<publisher>Michigan Natural Features Inventory</publisher>
+			<biblScope unit="page">4</biblScope>
+			<pubPlace>Lansing, MI</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<monogr>
+		<title level="m" type="main">Special animal abstract for Falco peregrinus (peregrine falcon)</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Monfils</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2007">2007</date>
+			<publisher>Michigan Natural Features Inventory</publisher>
+			<pubPlace>Lansing, MI</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<monogr>
+		<title level="m" type="main">Special animal abstract for Asio otus (long-eared owl)</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Monfils</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2010">2010</date>
+			<publisher>Michigan Natural Features Inventory</publisher>
+			<pubPlace>Lansing, MI</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">Pesticide Impacts on Avian Species with Special Reference to Farmland Birds: A Review</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Moreau</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Rabdeau</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Badenhausser</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Giraudeau</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Sepp</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Crépin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Gaffard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Bretagnolle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Monceau</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s10661-022-10394-0</idno>
+		<ptr target="https://doi.org/10.1007/s10661-022-10394-0" />
+	</analytic>
+	<monogr>
+		<title level="j">Environmental Monitoring and Assessment</title>
+		<imprint>
+			<biblScope unit="volume">194</biblScope>
+			<biblScope unit="issue">11</biblScope>
+			<biblScope unit="page">790</biblScope>
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<monogr>
+		<title level="m" type="main">Surveillance Plan for Highly Pathogenic Avian Influenza in Waterfowl in the United States</title>
+		<imprint>
+			<date type="published" when="2015">2015</date>
+			<publisher>National Flyway Council</publisher>
+			<biblScope unit="volume">29</biblScope>
+		</imprint>
+		<respStmt>
+			<orgName>U.S. Department of Agriculture, U.S. Geological Survey, National Wildlife Refuge System</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<title level="a" type="main">National White-Nose Syndrome Decontamination Protocol</title>
+	</analytic>
+	<monogr>
+		<title level="j">Www.WhiteNoseSyndrome.org</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<date type="published" when="2024">2024</date>
+		</imprint>
+		<respStmt>
+			<orgName>White-nose Syndrome Disease Management Working Group</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<analytic>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">M</forename><surname>Nemeth</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">G</forename><surname>Ruder</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">L</forename><surname>Poulson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Sargent</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Breeding</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">N</forename><surname>Evans</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Zimmerman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Hardman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Cunningham</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Gibbs</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">E</forename><surname>Stallknecht</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Bald eagle mortality and nest failure due to clade 2.3.4.4 highly pathogenic H5N1 influenza A virus</title>
+		<imprint>
+			<date type="published" when="0191">2023. 191</date>
+			<biblScope unit="page">13</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<monogr>
+		<title level="m" type="main">North American Bsal Task Force. 2022. A North American strategic plan to prevent and control invasions of the lethal salamander pathogen Batrachochytrium salamandrivorans</title>
+		<imprint/>
+	</monogr>
+	<note>Available from: salamanderfungus.org</note>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration">North American Implementation Task Force on Mercury. 2000. North American Regional Action Plan on Mercury. Commission for Environmental Cooperation</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<monogr>
+		<title level="m" type="main">Highly pathogenic avian influenza in wild birds in the United Kingdom in 2022: impacts, planning for future outbreaks and conservation and research priorities</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">W</forename><surname>Pearce-Higgins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">M</forename><surname>Humphreys</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">H K</forename><surname>Burton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">W</forename><surname>Atkinson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Pollock</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">D</forename><surname>Clewley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">T</forename><surname>Johnston</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">J</forename><surname>O'hanlon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">E</forename><surname>Balmer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">M</forename><surname>Frost</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">J</forename><surname>Harris</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Baker</surname></persName>
+		</author>
+		<idno>752</idno>
+		<imprint>
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+	<note type="report_type">BTO Research Report</note>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<analytic>
+		<title level="a" type="main">Impacts of white-nose syndrome observed during long-term monitoring of a Midwestern bat community</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Pettit</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>O'keefe</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Fish and Wildlife Management</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="69" to="78" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<analytic>
+		<title level="a" type="main">Mass mortality among colony-breeding seabirds in the German Wadden Sea in 2022 due to distinct genotypes of HPAIV H5N1 clade 2.3.4.4b</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Pohlmann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Stejskal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>King</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Bouwhuis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Packmor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Ballstaedt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Hälterlein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Hennig</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Stacker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Graaf</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Hennig</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Günther</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Liang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Hjulsager</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Beer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Harder</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Journal of General Virology</title>
+		<imprint>
+			<biblScope unit="volume">104</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page">1834</biblScope>
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<monogr>
+		<title level="m" type="main">Special animal abstract for Lycaeides melissa samuelis (Karner blue)</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Rabe</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2001">2001</date>
+			<publisher>Michigan Natural Features Inventory</publisher>
+			<pubPlace>Lansing, MI</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<analytic>
+		<title level="a" type="main">Highly pathogenic avian influenza is an emerging disease threat to wild birds in North America</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Ramey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">J</forename><surname>Hill</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">J</forename><surname>Deliberto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">E J</forename><surname>Gibbs</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">C</forename><surname>Hopkins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">S</forename><surname>Lang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">L</forename><surname>Poulson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Prosser</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Sleeman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">E</forename><surname>Stallknecht</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Wan</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/jwmg.22171</idno>
+		<ptr target="https://doi.org/10.1002/jwmg.22171" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Wildlife Management</title>
+		<imprint>
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<analytic>
+		<title level="a" type="main">U.S. Geological Survey Science Strategy to Address Highly Pathogenic Avian Influenza and Its Effects on Wildlife Health 2025-29</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Ramey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Prosser</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">E</forename><surname>Hubbard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Vazquez-Meves</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>George</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">C</forename><surname>Hopkins</surname></persName>
+		</author>
+		<idno type="DOI">10.3133/cir1558</idno>
+		<ptr target="https://doi.org/10.3133/cir1558" />
+	</analytic>
+	<monogr>
+		<title level="j">Circular. U.S. Geological Survey Circular</title>
+		<imprint>
+			<biblScope unit="page">1558</biblScope>
+			<date type="published" when="2025">2025</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b53">
+	<analytic>
+		<title level="a" type="main">The toxicity of Roundup Original Max registered trademark to 13 species of larval amphibians</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Relyea</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">K</forename><surname>Jones</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Environmental Toxicology and Chemistry</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="issue">9</biblScope>
+			<biblScope unit="page" from="2004" to="2008" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b54">
+	<analytic>
+		<title level="a" type="main">The quest to eliminate lead from units of the National Park System: Understanding and reaching out to audiences</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Ross-Winslow</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">L</forename><surname>Teel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The George Wright Forum</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="34" to="77" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b55">
+	<analytic>
+		<title level="a" type="main">Protocol for Monitoring Environmental Contaminants in Bald Eagles (Version 2.0)</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Route</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Key</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Bowerman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Kozie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">D</forename><surname>Vandermeulen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Natural Resource Report NPS/GLKN/NRR. U.S. Department of the Interior</title>
+		<meeting><address><addrLine>National Park Service; Fort Collins, CO</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2019">2019</date>
+			<biblScope unit="page">79</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b56">
+	<analytic>
+		<title level="a" type="main">Special animal abstract for Bombus pensylvanicus</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Rowe</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Michigan Natural Features Inventory</title>
+		<meeting><address><addrLine>Lansing, MI</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2025">2025</date>
+			<biblScope unit="page">4</biblScope>
+		</imprint>
+	</monogr>
+	<note>American bumble bee</note>
+</biblStruct>
+
+<biblStruct xml:id="b57">
+	<monogr>
+		<title level="m" type="main">Detection of rodenticides in pregnant mountain lions (Puma concolor) and their fetuses in California</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Rudd</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">H</forename><surname>Poppenga</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">W</forename><surname>Woods</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">P D</forename><surname>Riley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Sikich</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Streitenberger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Clifford</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2024">2024</date>
+			<publisher>Canadian Wildlife Biology &amp; Management</publisher>
+			<biblScope unit="volume">13</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b58">
+	<monogr>
+		<title level="m" type="main">Common insecticide affects spatial navigation in bats at environmentally-realistic doses</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Sandoval-Herrera</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Lara-Jacobo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Vargas Soto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">A</forename><surname>Fuare</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Simmons</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Welch</surname><genName>Jr</genName></persName>
+		</author>
+		<idno type="DOI">10.1101/2022.09.14.508021</idno>
+		<imprint>
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b59">
+	<analytic>
+		<title level="a" type="main">Potential Primary and Secondary Hazards of Avicides</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">W</forename><surname>Schafer</surname></persName>
+		</author>
+		<ptr target="https://escholarship.org/uc/item/2zq6t12c" />
+	</analytic>
+	<monogr>
+		<title level="m">Proceedings of the Vertebrate Pest Conference</title>
+		<meeting>the Vertebrate Pest Conference</meeting>
+		<imprint>
+			<date type="published" when="1984">1984</date>
+			<biblScope unit="volume">11</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b60">
+	<analytic>
+		<title level="a" type="main">Environmental control reduces whitenose syndrome infection in hibernating bats</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">J</forename><surname>Sewall</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">G</forename><surname>Turner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Scafini</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">F</forename><surname>Gagnon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Johnson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">K</forename><surname>Keel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Anis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">M</forename><surname>Lilley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>White</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">L</forename><surname>Hauer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">E</forename><surname>Overton</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/acv.12852</idno>
+		<ptr target="https://doi.org/10.1111/acv.12852" />
+	</analytic>
+	<monogr>
+		<title level="j">Animal Conservation</title>
+		<imprint>
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b61">
+	<monogr>
+		<title level="m" type="main">2024a. Special animal abstract for Myotis lucifugus (little brown bat)</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">H</forename><surname>Sexton</surname></persName>
+		</author>
+		<imprint>
+			<publisher>Michigan Natural Features Inventory</publisher>
+			<pubPlace>Lansing, MI</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b62">
+	<monogr>
+		<title level="m" type="main">2024b. Special animal abstract for Myotis septentrionalis (Northern Long-eared Bat)</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">H</forename><surname>Sexton</surname></persName>
+		</author>
+		<imprint>
+			<publisher>Michigan Natural Features Inventory</publisher>
+			<pubPlace>Lansing, MI</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b63">
+	<analytic>
+		<title level="a" type="main">A retrospective summary of raptor mortality in Ontario</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">A</forename><surname>Smith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">D</forename><surname>Campbell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Pearl</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Jardine</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Salgado-Bierman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">M</forename><surname>Nemeth</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Wildlife Diseases</title>
+		<imprint>
+			<biblScope unit="volume">54</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="261" to="271" />
+			<date type="published" when="1991">2018. 1991-2014</date>
+		</imprint>
+	</monogr>
+	<note>Canada</note>
+</biblStruct>
+
+<biblStruct xml:id="b64">
+	<analytic>
+		<title level="a" type="main">Bird species potentially exposed to pesticide-treated corn seeds in the continental United States</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Sullivan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Wisk</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/ieam.4677</idno>
+		<ptr target="https://doi.org/10.1002/ieam.4677" />
+	</analytic>
+	<monogr>
+		<title level="j">Integrated Environmental Assessment and Management</title>
+		<imprint>
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b65">
+	<monogr>
+		<title level="m" type="main">Michigan&apos;s Aquatic Invasive Species State Management Plan 2013 Update. Water Resource Division</title>
+		<author>
+			<persName><surname>State Of Michigan</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2013">2013</date>
+			<biblScope unit="page">78</biblScope>
+			<pubPlace>Lansing, MI</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>Michigan Department of Environmental Quality</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b66">
+	<analytic>
+		<title level="a" type="main">Poisoning of wildlife with anticoagulant rodenticides in New York</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">B</forename><surname>State Of Michigan ; Stone</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Okoniewski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Stedelin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Terrestrial Invasive Species Management Plan. Lansing, MI</title>
+		<imprint>
+			<date type="published" when="1999">2024. 1999</date>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="page" from="187" to="193" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b67">
+	<monogr>
+		<title level="m" type="main">Highly Pathogenic Avian Influenza in Wildlife Response Plan. The National Park Service, Biological Resource Management Division, Wildlife Health Program</title>
+		<imprint>
+			<date type="published" when="2006">2006</date>
+			<publisher>The National Park Service</publisher>
+			<biblScope unit="volume">82</biblScope>
+			<biblScope unit="page">pp</biblScope>
+			<pubPlace>Washington, D.C</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b68">
+	<analytic>
+		<title level="a" type="main">Exposure to pesticides in bats</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">G</forename><surname>Torquetti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">T B</forename><surname>Guimaraes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Soto-Blanco</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.scitotenv.2020.142509</idno>
+		<ptr target="https://doi.org/10.1016/j.scitotenv.2020.142509" />
+	</analytic>
+	<monogr>
+		<title level="j">Science of the Total Environment</title>
+		<imprint>
+			<biblScope unit="volume">7455</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b69">
+	<analytic>
+		<title level="a" type="main">A five-year assessment of mortality and geographic spread of white-nose syndrome in North American bats and a look to the future</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">G</forename><surname>Turner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Reeder</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">T H</forename><surname>Coleman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Bat Research News</title>
+		<imprint>
+			<biblScope unit="volume">52</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="2025" to="2035" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b70">
+	<analytic>
+		<title level="a" type="main">Cooling of bat hibernacula to mitigate white-nose syndrome</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">G</forename><surname>Turner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">J</forename><surname>Sewall</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Scafini</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">M</forename><surname>Lilley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Bitz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Johnson</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/cobi.13803</idno>
+		<ptr target="https://doi.org/10.1111/cobi.13803" />
+	</analytic>
+	<monogr>
+		<title level="j">Conservation Biology</title>
+		<imprint>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b71">
+	<monogr>
+		<title level="m" type="main">Highly Pathogenic Avian Influenza (HPAI) Response Plan: The Red Book. Foreign Animal Disease Preparedness and Response Plan (FAD PReP)</title>
+		<imprint>
+			<date type="published" when="2017">2017</date>
+			<publisher>U.S. Department of Agriculture</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b72">
+	<monogr>
+		<title level="m" type="main">Balancing Wildlife Protection and Responsible Pesticide Use: How EPA&apos;s Pesticide Program Will Meet its Endangered Species Act Obligations</title>
+		<imprint>
+			<date type="published" when="2022-04">2022. April 2022</date>
+			<publisher>Office of Chemical Safety and Pollution Prevention, Office of Pesticide Programs</publisher>
+			<biblScope unit="volume">74</biblScope>
+			<biblScope unit="page">pp</biblScope>
+			<pubPlace>Washington, D.C</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>U.S. Environmental Protection Agency</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b73">
+	<monogr>
+		<title level="m" type="main">2024a. Action Plan to Reduce Exposure of Vulnerable Federally Listed Endangered and Threatened Species from the Use of Conventional Pesticides. Office of Pesticide Programs, Office of Chemical Safety and Pollution Prevention</title>
+		<imprint>
+			<publisher>Environmental Protection Agency</publisher>
+			<biblScope unit="volume">39</biblScope>
+			<biblScope unit="page">pp</biblScope>
+			<pubPlace>Washington, D.C</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b74">
+	<monogr>
+		<title level="m" type="main">2024b. Herbicide Strategy to Reduce Exposure of Federally Listed Endangered and Threatened Species and Designated Critical Habitats from the Use of Conventional Agricultural Herbicides</title>
+		<imprint>
+			<publisher>Office of Chemical Safety and Pollution Prevention, Office of Pesticide Programs</publisher>
+			<biblScope unit="volume">79</biblScope>
+			<biblScope unit="page">pp</biblScope>
+			<pubPlace>Washington, D.C</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>U.S. Environmental Protection Agency</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b75">
+	<monogr>
+		<title level="m" type="main">Implementation of the National Plan for Assisting States, Federal Agencies, and Tribes in Managing White-Nose Syndrome in Bats</title>
+		<imprint>
+			<date type="published" when="2014">2014</date>
+			<publisher>United States Fish and Wildlife Service</publisher>
+			<biblScope unit="volume">141</biblScope>
+			<biblScope unit="page">pp</biblScope>
+			<pubPlace>Washington, D.C</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b76">
+	<analytic>
+		<title level="a" type="main">Environmental lead and wild birds: A review</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Williams</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">D</forename><surname>Holladay</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Williams</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Gogal</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Reviews of Environmental Contamination and Toxicology</title>
+		<imprint>
+			<biblScope unit="volume">245</biblScope>
+			<biblScope unit="page" from="157" to="180" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b77">
+	<analytic>
+		<title level="a" type="main">Effects of mercury on wildlife: a comprehensive review</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">F</forename><surname>Wolfe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Schwarzbach</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Sulaiman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Environmental Toxicology and Chemistry</title>
+		<imprint>
+			<biblScope unit="volume">171</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="146" to="160" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b78">
+	<analytic>
+		<title level="a" type="main">Quarantine and health screening protocols for wildlife prior to translocation and release into the wild</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">H</forename><surname>Woodford</surname></persName>
+		</author>
+		<ptr target="https://digitalcommons.unl.edu/zoonoticspub/32" />
+	</analytic>
+	<monogr>
+		<title level="m">Other Publications in Zoonotics and Wildlife Disease. 32</title>
+		<imprint>
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b79">
+	<analytic>
+		<title level="a" type="main">Mercury in bats from the northeastern United States</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">E</forename><surname>Yates</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">M</forename><surname>Adams</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">E</forename><surname>Angelo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">C</forename><surname>Evers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Schmerfeld</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">S</forename><surname>Moore</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">H</forename><surname>Kunz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Divoll</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">T</forename><surname>Edmonds</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Perkins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Taylor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">J</forename><surname>O'driscsoll</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ecotoxicology</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="page" from="45" to="55" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>
+
